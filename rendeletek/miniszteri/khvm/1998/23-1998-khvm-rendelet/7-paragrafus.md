@@ -1,9 +1,10 @@
 ## tartalmazó nyilvántartás.
 
-7. § (1) A műszaki nyilvántartás tartalmazza minden – az objektum-nyilvántartásban meghatározott – egyedi azonosítóval rendelkező vízgazdálkodási objektum részletes műszaki jellemzőit.
+7. § (1)[^15] A műszaki nyilvántartás tartalmazza minden – az objektumazonosításba felvett – egyedi azonosítóval rendelkező vízgazdálkodási objektum részletes műszaki jellemzőit.
 
 (2) Vízgazdálkodási objektumok létrehozására irányuló, illetve azokon végzett vízimunkák, azok műszaki gazdasági jellemzői ugyancsak a műszaki nyilvántartás részei. A vízimunkák nyilvántartásában a vízimunka által érintett vízgazdálkodási objektum egyedi azonosítóját fel kell tüntetni.
 
-(3)[^8] A műszaki nyilvántartás vízgazdálkodási objektumokra és vízimunkákra vonatkozó részének készítése és karbantartása a működési terület szerinti vízügyi igazgatóság feladata.
+(3)[^16] A műszaki nyilvántartás vízgazdálkodási objektumokra és vízimunkákra vonatkozó részének készítése és karbantartása a működési terület szerinti vízügyi igazgatóság feladata.
 
-[^8]: A 7. § (3) bekezdése a 147/2011. (XII. 23.) VM rendelet 7. § (3) bekezdés d) pontja, az 52/2014. (XI. 28.) BM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 7. § (1) bekezdése a 43/2019. (XII. 14.) BM rendelet 1. § (8) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 7. § (3) bekezdése a 147/2011. (XII. 23.) VM rendelet 7. § (3) bekezdés d) pontja, az 52/2014. (XI. 28.) BM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.

@@ -1,6 +1,5 @@
-4. § (1)[^6] Az országos jelentőségű vízgazdálkodási objektumokkal összefüggő elsődleges azonosítási feladatot – az országosan egységes rendszerben történő egyedi azonosítást és nyilvántartást – az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) látja el, és gondoskodik a helyi jelentőségű objektumok azonosítási rendszerének koordinációjáról.
+4. §[^13] (1) Az országos jelentőségű vízgazdálkodási objektumokkal összefüggő elsődleges azonosítási feladatot – az országosan egységes rendszerben történő egyedi azonosítást és nyilvántartást – a vízügyi igazgatási szervek látják el. Az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) gondoskodik az objektumazonosítás koordinációjáról és a rendszer integritásáról.
 
-(2)[^7] Az OVF biztosítja az objektumok nyilvántartási adatainak betekinthetőségét, és gondoskodik az azokban bekövetkező változásoknak a nyilvántartást végző vízügyi igazgatóságok részére történő átadásáról.
+(2) A vízügyi igazgatási szervek biztosítják az objektumok nyilvántartási adatainak betekinthetőségét, és gondoskodnak az azokban bekövetkező változások követéséről.
 
-[^6]: A 4. § (1) bekezdése az 1/2004. (II. 6.) KvVM rendelet 8. §-ának (2) bekezdésével megállapított, az 52/2014. (XI. 28.) BM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdése az 52/2014. (XI. 28.) BM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 4. § a 43/2019. (XII. 14.) BM rendelet 1. § (6) bekezdésével megállapított szöveg.
