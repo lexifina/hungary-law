@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-23-20-2
 | 2016-01-01 | 2011-23-20-22.8 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2011-23-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
 | 2018-01-01 | 2011-23-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2020-01-01 | 2011-23-20-22.11 | 360/2019. (XII. 30.) Korm. rendelet |
