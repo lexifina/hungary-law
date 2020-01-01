@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-326-20-
 | 2015-04-01 | 2001-326-20-22.17 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2001-326-20-22.18 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2001-326-20-22.19 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2020-01-01 | 2001-326-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |

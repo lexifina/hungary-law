@@ -1,12 +1,12 @@
 ## A családi gazdaságok létrehozásáról, nyilvántartásba vételéről és működtetéséről
 
-2. §[^3] (1)[^4] A családi gazdaság nyilvántartásba vételével összefüggő feladatokat azon járási hivatal – a főváros vonatkozásában a Pest Megyei Kormányhivatal Érdi Járási Hivatala – (a továbbiakban együtt: járási hivatal) látja el, amelynek illetékességi területén található a családi gazdaság központja.
+2. §[^3] (1)[^4] A családi gazdaság nyilvántartásba vételével összefüggő feladatokat a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) azon megyei ügyintéző szervezete látja el, amelynek illetékességi területén található a családi gazdaság központja.
 
 (2) A családi gazdaságok nyilvántartása a következő adatokat tartalmazza:
 
 a) a családi gazdálkodó természetes személyazonosító adatai, lakcíme, adóazonosító jele, adószáma, legmagasabb iskolai végzettsége és a végzettséget igazoló okirat száma,
 
-b)[^5] a gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, illetve rokoni jogviszonya kódja,
+b)[^5] a gazdálkodó család tagjainak természetes személyazonosító adatai, lakcíme, adóazonosító jele, illetve rokoni jogviszonya kódja,
 
 c) a családi gazdaság részét képező termőföldekhez kapcsolódó következő adatoknak a termőföld fekvése szerinti településenként való megjelölése:
 
@@ -26,6 +26,9 @@ f) a módosítási kérelem benyújtásának és a nyilvántartásba vételének
 
 (3) A családi gazdaságok nyilvántartása – a (2) bekezdés a) és b) pontjában foglalt természetes személyazonosító és lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
+(4)[^6] A (2) bekezdés szerinti adattartalmú közhiteles hatósági nyilvántartást a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény szerinti élelmiszerlánc-felügyeleti információs rendszerben vezeti
+
 [^3]: A 2. § a 203/2013. (VI. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 110. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 2. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: A 2. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: A 2. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 26. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
