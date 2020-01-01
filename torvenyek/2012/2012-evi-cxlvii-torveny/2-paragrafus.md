@@ -4,7 +4,7 @@
 
 2. beszámoló: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.), vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 
-3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, vagy a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó egyszerűsített vállalkozói adóalany esetén az egyszerűsített vállalkozói adó alapja, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
+3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
 
 4. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvényben egyéni cégként meghatározott jogalany;
 
@@ -32,7 +32,7 @@ g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő 
 
 h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll,
 
-i) a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat, azzal, hogy 25. éves életévének betöltéséig ide tartozik a tanulmányait szüneteltető kisadózó is;
+i) a köznevelési intézményben, a szakképző intézményben vagy a felsőoktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat, azzal, hogy 25. éves életévének betöltéséig ide tartozik a tanulmányait szüneteltető kisadózó is;
 
 9. kapcsolt vállalkozás: a Tao. tv. 4. § 23. pontja szerinti vállalkozás;
 

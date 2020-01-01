@@ -1,6 +1,6 @@
 ## 15. Az adó mértéke
 
-21. § (1) Az adó mértéke az adó alapjának 13 százaléka.
+21. § (1) Az adó mértéke az adó alapjának 12 százaléka.
 
 (2) A kisvállalati adó adóalanya mentesül:
 

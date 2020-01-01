@@ -44,7 +44,7 @@ f) a behajthatatlannak nem minősülő követelés elengedése esetén az elenge
 
 a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke növekedéseként elszámolt összeget,
 
-b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét,
+b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként,
 
 c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
 
