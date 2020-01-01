@@ -12,7 +12,7 @@
 
 5. az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendeletben (a továbbiakban: OAH r.) meghatározott építésügyi hatósági ügyek
 
-kivételével az első fokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként (a továbbiakban: első fokú építésügyi hatóság) az építmények, építési tevékenységek tekintetében a járásszékhely települési önkormányzat jegyzőjét és a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki. A járásszékhely települési önkormányzat jegyzőjének illetékessége a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet 1. mellékletében meghatározott településekre terjed ki.
+kivételével az első fokú építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként (a továbbiakban: első fokú építésügyi hatóság) az építmények, építési tevékenységek tekintetében a járásszékhely települési önkormányzat jegyzőjét és a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt jelöli ki. A járásszékhely települési önkormányzat jegyzőjének illetékessége a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 1. mellékletében meghatározott településekre terjed ki.
 
 (2)[^3] A Kormány
 
@@ -50,20 +50,10 @@ i)[^8] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tud�
 
 (8)[^14]
 
-(9) Építésügyi Szolgáltatási Pontként az 1. melléklet III. részében meghatározott városi és 5000 fő lakosságszám feletti települési önkormányzat a következő építésügyi szolgáltatási feladatokat látja el:
-
-a)[^15] információszolgáltatás az állampolgárok részére az építésügyi hatósági ügyintézésük és az Étv. 33/A. §-a szerinti lakóépület építésének elősegítése érdekében,
-
-b) az építésügyi feladatok intézéséhez az állampolgári kérelmek átvételének és továbbításának, hiánypótlás befogadásának, nyilatkozatok felvételének és továbbításának, digitalizálásának és feltöltésének biztosítása az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe (a továbbiakban: ÉTDR),
-
-c)[^16] kérelmek elektronikus adathordozón való fogadása és az ÉTDR-be történő feltöltésének biztosítása,
-
-d) az építésügyi hatósági eljárás illetékének és az építésügyi igazgatási szolgáltatási díjak befizetésének lehetővé tétele, továbbá
-
-e) települési önkormányzati egyéb műszaki, üzemeltetési feladatok.
+(9)[^15]
 
 [^1]: Az 1. § a 394/2012. (XII. 20.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 207/2015. (VII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 207/2015. (VII. 23.) Korm. rendelet 1. §-ával megállapított, záró szövegrésze a 295/2019. (XII. 10.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés e) pontja a 144/2017. (VI. 12.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés f) pontja a 13/2019. (II. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -76,5 +66,4 @@ e) települési önkormányzati egyéb műszaki, üzemeltetési feladatok.
 [^12]: Az 1. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 91. § (3) bekezdése iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^13]: Az 1. § (6) újonnan a 38/2015. (III. 11.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 306/2016. (X. 13.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^14]: Az 1. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^15]: Az 1. § (9) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^16]: Az 1. § (9) bekezdés c) pontja a 13/2019. (II. 11.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. § (9) bekezdését a 295/2019. (XII. 10.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
