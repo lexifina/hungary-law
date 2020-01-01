@@ -1,1 +1,0 @@
-A munka törvénykönyvéről szóló 2012. évi I. törvény 102. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
