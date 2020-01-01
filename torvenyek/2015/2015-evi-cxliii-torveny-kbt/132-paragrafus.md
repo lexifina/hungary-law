@@ -10,7 +10,7 @@ a) a szerződésnek a 33. § szerinti szervezet – illetve az Európai Unió m�
 
 b) az álláskeresők, hátrányos helyzetű munkavállalók, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
 
-c) a családok támogatásáról szóló törvényben meghatározott gyermekgondozási támogatások valamelyikében részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
+c) a családok támogatásáról szóló törvényben meghatározott gyermekgondozási támogatások valamelyikében részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban, örökbefogadói díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 
 d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása;
 

@@ -8,7 +8,7 @@ b) a központi költségvetésről szóló törvényben meghatározott közbesze
 
 (2) Az uniós értékhatárokat időszakonként az Európai Bizottság állapítja meg és teszi közzé az Európai Unió Hivatalos Lapjában.
 
-(3) Az egyes beszerzési tárgyak esetében alkalmazandó nemzeti értékhatárokat a központi költségvetésről szóló törvényben évente kell meghatározni. Az egyes beszerzési tárgyak esetében alkalmazandó – (2) bekezdés szerinti európai uniós jogi aktusban meghatározott – uniós értékhatárokat a mindenkori költségvetési törvényben évente rögzíteni kell.
+(3) Az egyes beszerzési tárgyak esetében alkalmazandó nemzeti értékhatárokat a központi költségvetésről szóló törvényben évente kell meghatározni.
 
 (4) A 3. mellékletben meghatározott szociális és egyéb szolgáltatások esetében a szolgáltatási koncessziókra vonatkozó nemzeti értékhatár nem kerül meghatározásra, az ajánlatkérőknek az uniós értékhatárt elérő vagy meghaladó értékű szolgáltatási koncesszió esetében kell e törvény szerint eljárnia.
 

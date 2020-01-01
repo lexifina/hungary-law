@@ -30,7 +30,7 @@
 
 13. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 
-14. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései, építési vagy szolgáltatási koncessziói módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését, a közbeszerzések központi ellenőrzésével és engedélyezésével összefüggésben megküldendő adatok körét, továbbá a központi ellenőrzéssel összefüggésben a közbeszerzésekért felelős miniszter által kiszabható bírságot és – az adópolitikáért felelős miniszter egyetértésével – annak mértékét. Az engedélyezési és ellenőrzési tevékenység keretében a Kormány jogpolitikai céljainak érvényesítése érdekében a közbeszerzésre, illetve annak feltételeire vonatkozó tartalmi követelmények is előírhatóak;
+14. a 195. § (1) bekezdés szerinti szerveket, az ellenőrzést, engedélyezést végző szerveket, valamint az ellenőrzés és engedélyezés eseteit és módját;
 
 15. a részben vagy egészben nem hazai költségvetési forrásból megvalósuló, uniós értékhatárokat elérő vagy meghaladó értékű árubeszerzés, szolgáltatás és szolgáltatási koncesszió, továbbá a háromszázmillió forintot elérő vagy meghaladó értékű építési beruházás és építési koncesszió esetén a lefolytatott közbeszerzési eljárás ellenőrzésére, valamint az e közbeszerzési eljárások eredményeképpen létrejött szerződés módosításának engedélyezésére vonatkozó részletes szabályokat;
 
@@ -42,7 +42,7 @@
 
 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 
-20. A 195. § (1) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzései megvalósítására vonatkozó követelményeket, e beszerzések tekintetében a legalább három ajánlat bekérésére vonatkozó követelmény alóli kivételeket, valamint ezen ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel, közbeszerzéseivel kapcsolatos adatoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és a beszerzéseknek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;
+20.
 
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 

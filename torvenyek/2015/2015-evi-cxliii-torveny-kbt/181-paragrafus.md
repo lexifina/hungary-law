@@ -2,7 +2,7 @@
 
 (2) A Hatóság elnökére a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(3) A Hatóság elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset nyolcszorosa. Egyebekben a Közbeszerzési Hatóság elnöke a minisztert megillető juttatásokra jogosult.
+(3) A Hatóság elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a. Az illetményen túl a Hatóság elnöke a minisztert megillető juttatásra jogosult.
 
 (4) A Hatóság elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést a Tanácsnak köteles megtenni.
 
