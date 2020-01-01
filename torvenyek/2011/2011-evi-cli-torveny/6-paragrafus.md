@@ -10,4 +10,4 @@ c) kiemelkedő tudású elméleti jogász (egyetemi tanár vagy a Magyar Tudomá
 
 (3) Az Alkotmánybíróság tagjának megbízatási ideje tizenkét év. Az Alkotmánybíróság tagja nem választható újra.
 
-(4) Az Alkotmánybíróságnak nem lehet tagja az, aki a megválasztása napját megelőző négy éven belül a Kormány tagja, valamely párt vezető tisztségviselője volt, vagy állami vezetői tisztséget töltött be.
+(4) Az Alkotmánybíróságnak nem lehet tagja az, aki a megválasztása napját megelőző négy éven belül a Kormány tagja, valamely párt vezető tisztségviselője volt, vagy politikai és szakmai felsővezetői tisztséget töltött be.
