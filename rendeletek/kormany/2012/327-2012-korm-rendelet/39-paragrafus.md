@@ -1,12 +1,12 @@
 ## 25. Az egyéni támogatás folyósítása
 
-39. § (1)[^145] A Kormányhivatal az egyéni támogatásokat munkáltatónként egyesítve, a jogosultsági hónapot követő hónap 8-áig, folyósítja.
+39. § (1)[^148] A Kormányhivatal az egyéni támogatásokat munkáltatónként egyesítve, a jogosultsági hónapot követő hónap 8-áig, folyósítja.
 
-(2)[^146] Az éves támogatási szerződés megkötését követő első alkalommal a 37. § (1) bekezdése szerinti havi keretösszeget – munkaidő-keretben történő foglalkoztatás esetén a 38. § szerinti, munkaidő-keretre megállapított havi keretösszeget – előlegként, ezt követően a havi keretösszegnek az előző hónapra benyújtott munkáltatói elszámolásra tekintettel módosított összegét kell folyósítani. Az előleg összegének levonására az utolsó havi, kifizetésre jóváhagyott támogatás összegéből kerül sor. Amennyiben az utolsó havi támogatás elszámolás nem éri el a 37. § (1) bekezdése szerinti havi keretösszeget – munkaidő-keretben történő foglalkoztatás esetén a 38. § szerinti, munkaidő-keretre megállapított havi keretösszeget –, az el nem számolt előleget a munkáltató a Kormányhivatal részére az utolsó elszámolt hónapot követő harmadik hónap 1-jéig visszafizeti.
+(2)[^149] Az éves támogatási szerződés megkötését követő első alkalommal a 37. § (1) bekezdése szerinti havi keretösszeget – munkaidő-keretben történő foglalkoztatás esetén a 38. § szerinti, munkaidő-keretre megállapított havi keretösszeget – előlegként, ezt követően a havi keretösszegnek az előző hónapra benyújtott munkáltatói elszámolásra tekintettel módosított összegét kell folyósítani. Az előleg összegének levonására az utolsó havi, kifizetésre jóváhagyott támogatás összegéből kerül sor. Amennyiben az utolsó havi támogatás elszámolás nem éri el a 37. § (1) bekezdése szerinti havi keretösszeget – munkaidő-keretben történő foglalkoztatás esetén a 38. § szerinti, munkaidő-keretre megállapított havi keretösszeget –, az el nem számolt előleget a munkáltató a Kormányhivatal részére az utolsó elszámolt hónapot követő harmadik hónap 1-jéig visszafizeti.
 
 (3) Munkaidő-keretben történő foglalkoztatás esetén az éves támogatási szerződés megkötését követő első alkalommal az adott hónapra meghatározott munkaidő-keretre megállapított, a 38. § (1) bekezdés b) pontja szerinti havi keretösszeget, ezt követően a munkaidő-keretre megállapított havi keretösszegnek az előző hónapra benyújtott munkáltatói elszámolásra tekintettel módosított összegét kell folyósítani.
 
-(4)[^147] A folyósítás feltétele, hogy a munkáltató a foglalkoztatással kapcsolatos költségeivel a jogosultsági hónapot követő hónap 20-áig elszámol.
+(4)[^150] A folyósítás feltétele, hogy a munkáltató a foglalkoztatással kapcsolatos költségeivel a jogosultsági hónapot követő hónap 20-áig elszámol.
 
 (5) Nem folyósítható az (1) bekezdés szerinti támogatás, ha
 
@@ -24,6 +24,6 @@ b) a munkáltató a munkavállaló részére a munkabért nem fizeti meg vagy
 
 c) a munkáltató a munkabér után fizetendő adót, járulékot nem, illetve határidőben nem fizeti meg.
 
-[^145]: A 39. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^146]: A 39. § (2) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^147]: A 39. § (4) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^148]: A 39. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^149]: A 39. § (2) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^150]: A 39. § (4) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.

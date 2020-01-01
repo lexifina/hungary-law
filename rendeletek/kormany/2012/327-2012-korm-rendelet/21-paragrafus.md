@@ -1,6 +1,6 @@
 ## 15. A bérköltség támogatásának szabályai
 
-21. § (1)[^88] A bérköltség – a (2)–(7) bekezdésben foglaltakra figyelemmel – az általános csoportmentességi rendelet 33. cikkében meghatározott feltételekkel támogatható.
+21. § (1)[^90] A bérköltség – a (2)–(7) bekezdésben foglaltakra figyelemmel – az általános csoportmentességi rendelet 33. cikkében meghatározott feltételekkel támogatható.
 
 (2) A bérköltség akkor támogatható, ha a munkáltató a megváltozott munkaképességű munkavállalót egészségi állapotának megfelelő munkahelyi környezetben és munkakörben, a 33. § szerinti egyéni foglalkoztatási megállapodás szerint foglalkoztatja.
 
@@ -8,19 +8,19 @@
 
 a) ha a támogatással érintett munkavállaló
 
-aa)[^89] öregségi nyugdíjkorhatárt betöltötte,
+aa)[^91] öregségi nyugdíjkorhatárt betöltötte,
 
-ab)[^90] munkaszerződés szerinti munkaideje havi átlagban nem éri el a napi 4 órát,
+ab)[^92] munkaszerződés szerinti munkaideje havi átlagban nem éri el a napi 4 órát,
 
 ac) foglalkoztatása nem munkaviszony keretében történik,
 
-ad) foglalkoztatására munkaerő-kölcsönzés keretében vagy – a munkapróba kivételével – a munkaszerződéstől eltérő munkáltatónál kerül sor,
+ad)[^93] foglalkoztatására munkaerő-kölcsönzés keretében vagy a munkaszerződéstől eltérő munkáltatónál kerül sor,
 
 ae) munkaköre a meglévő képességekkel, illetve az egészségkárosodás veszélye nélkül nem látható el,
 
 af) esetében a munka törvénykönyve szerinti teljesítménykövetelmény megállapításakor figyelmen kívül hagyták a munkaképesség megváltozásából adódó teljesítménycsökkenés mértékét, vagy
 
-ag)[^91]
+ag)[^94]
 
 b) ha a munkavégzés helye tekintetében nem teljesülnek a 3. §-ban foglalt feltételek;
 
@@ -30,7 +30,7 @@ d) ha a munkavállalók foglalkoztatási körülményeinek ellenőrzését a mun
 
 e) ha a munkáltató a foglalkoztatási kötelezettségének nem tesz eleget.
 
-(4)[^92] Bérköltségként az általános csoportmentességi rendelet 2. cikk 31. pontjában meghatározott költségek vehetők figyelembe, azzal, hogy a bérköltség meghatározása során kötelező járuléknak kell tekinteni a munkáltató által a munkabér után fizetendő adót is.
+(4)[^95] Bérköltségként az általános csoportmentességi rendelet 2. cikk 31. pontjában meghatározott költségek vehetők figyelembe, azzal, hogy a bérköltség meghatározása során kötelező járuléknak kell tekinteni a munkáltató által a munkabér után fizetendő adót is.
 
 (5) A munkáltató által ténylegesen megfizetett bérköltség legfeljebb 75%-a támogatható.
 
@@ -40,7 +40,7 @@ a) az általa végzett, a létesítő okiratában közhasznú tevékenységként
 
 b) a támogatással érintett munkavállalók foglalkoztatására közhasznú tevékenységként megjelölt nem gazdasági-vállalkozási tevékenység keretében kerül sor.
 
-(7)[^93] Új munkavállaló alkalmazása esetén a bérköltség az általános csoportmentességi rendelet 33. cikk (3) bekezdésében foglalt feltétellel támogatható, azzal, hogy az általános csoportmentességi rendelet 33. cikk (3) bekezdése szerinti
+(7)[^96] Új munkavállaló alkalmazása esetén a bérköltség az általános csoportmentességi rendelet 33. cikk (3) bekezdésében foglalt feltétellel támogatható, azzal, hogy az általános csoportmentességi rendelet 33. cikk (3) bekezdése szerinti
 
 a) önkéntes kilépésnek kell tekinteni, ha
 
@@ -54,20 +54,21 @@ ad) a munkaviszonyt a munkavállaló felmondja vagy azonnali hatállyal felmondj
 
 ae) a munkaviszony a munkavállaló halála miatt szűnik meg;
 
-b)[^94] kötelességszegés miatti jogszerű elbocsátásnak kell tekinteni, ha
+b)[^97] kötelességszegés miatti jogszerű elbocsátásnak kell tekinteni, ha
 
 ba) a munkaviszonyt a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 78. §-a alapján azonnali hatállyal felmondja vagy
 
-bb)[^95] a munkaviszonyt határozott időre, a 33. § szerinti egyéni foglalkoztatási megállapodás időtartamára kötik meg, és az egyéni foglalkoztatási megállapodást a rehabilitációs hatóság a 33. § (5) bekezdése alapján felmondja.
+bb)[^98] a munkaviszonyt határozott időre, a 33. § szerinti egyéni foglalkoztatási megállapodás időtartamára kötik meg, és az egyéni foglalkoztatási megállapodást a rehabilitációs hatóság a 33. § (5) bekezdése alapján felmondja.
 
-(8)[^96] A munkáltató az általa foglalkoztatott munkavállalót kizárólag azon időszak tekintetében vonhatja be a bérköltség-támogatásba, amely időszakban a munkavállaló hatályos komplex minősítéssel rendelkezett, vagy az 1. § 6. pontjában foglaltak szerint megváltozott munkaképességű személynek minősült.
+(8)[^99] A munkáltató az általa foglalkoztatott munkavállalót kizárólag azon időszak tekintetében vonhatja be a bérköltség-támogatásba, amely időszakban a munkavállaló hatályos komplex minősítéssel rendelkezett, vagy az 1. § 6. pontjában foglaltak szerint megváltozott munkaképességű személynek minősült.
 
-[^88]: A 21. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^89]: A 21. § (3) bekezdés a) pont aa) alpontja a 304/2018. (XII. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^90]: A 21. § (3) bekezdés a) pont ab) alpontja a 402/2017. (XII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^91]: A 21. § (3) bekezdés a) pont ag) alpontját a 402/2017. (XII. 15.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
-[^92]: A 21. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^93]: A 21. § (7) bekezdés nyitó szövegrésze a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^94]: A 21. § (7) bekezdés b) pont nyitó szövegrésze a 335/2013. (IX. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
-[^95]: A 21. § (7) bekezdés b) pont bb) alpontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^96]: A 21. § (8) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 10. §-a iktatta be.
+[^90]: A 21. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^91]: A 21. § (3) bekezdés a) pont aa) alpontja a 304/2018. (XII. 27.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^92]: A 21. § (3) bekezdés a) pont ab) alpontja a 402/2017. (XII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^93]: A 21. § (3) bekezdés a) pont ad) alpontja a 360/2019. (XII. 30.) Korm. rendelet 112. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^94]: A 21. § (3) bekezdés a) pont ag) alpontját a 402/2017. (XII. 15.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^95]: A 21. § (4) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^96]: A 21. § (7) bekezdés nyitó szövegrésze a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^97]: A 21. § (7) bekezdés b) pont nyitó szövegrésze a 335/2013. (IX. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^98]: A 21. § (7) bekezdés b) pont bb) alpontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^99]: A 21. § (8) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 10. §-a iktatta be.

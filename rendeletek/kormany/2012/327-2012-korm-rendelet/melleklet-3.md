@@ -22,7 +22,7 @@
 
 ## e) az alkalmazott képzések (belső, munkahelyeken belül megvalósított és külső, iskolarendszeren kívüli, esetleg iskolarendszerű oktatások) ismertetésére,
 
-## f) a munkapróba, illetve a kihelyezés tárgyévi eredményeire,
+## f) a kihelyezés tárgyévi eredményeire,
 
 ## g) a megváltozott munkaképességű munkavállalók rehabilitációs fejlesztést szolgáló át- és továbbképzésben történő részvételére és értékelésére,
 
@@ -66,7 +66,7 @@
 
 A negatív értékelőpontok keretei a munkáltatói kötelezettségek megszegésének egyes eseteiben
 
-a)[^208] a munkaszerződés, a munkaköri leírás, illetve a munka törvénykönyvéről szóló 2012. évi I. törvény 46. §-ában előírt írásbeli tájékoztatás hiánya vagy hiányosságai (1–4 pont),
+a)[^209] a munkaszerződés, a munkaköri leírás, illetve a munka törvénykönyvéről szóló 2012. évi I. törvény 46. §-ában előírt írásbeli tájékoztatás hiánya vagy hiányosságai (1–4 pont),
 
 b) szabályszegések a jelenléti ív, munkaidő- és szabadság nyilvántartás, pihenőidő tekintetében (1–4 pont),
 
@@ -76,7 +76,7 @@ d) az irányítási, döntési folyamatok szabályozottságának hiányosságai 
 
 e) cégmegjelölés, cégtábla hiánya (1 pont),
 
-f)[^209] a foglalkozási rehabilitációs szakmai program vagy a személyes rehabilitációs terv hiánya, illetve e dokumentumokban foglaltak gyakorlati megvalósításának hiányosságai (1–4 pont),
+f)[^210] a foglalkozási rehabilitációs szakmai program vagy a személyes rehabilitációs terv hiánya, illetve e dokumentumokban foglaltak gyakorlati megvalósításának hiányosságai (1–4 pont),
 
 g) a rehabilitációs tanácsadó, rehabilitációs mentor foglalkoztatásával, feladatainak ellátásával kapcsolatos hiányosságok (1–4 pont),
 
@@ -84,11 +84,11 @@ h) az előírt akadálymentesítés hiányosságai (1–4 pont),
 
 i) a bejelentési és éves beszámolási kötelezettség elmulasztása, illetve határidőn túli megtétele (1–3 pont),
 
-j)[^210] a munkaköri orvosi alkalmassági vélemény hiánya (1–2 pont),
+j)[^211] a munkaköri orvosi alkalmassági vélemény hiánya (1–2 pont),
 
-k)[^211] a megváltozott munkaképességet igazoló dokumentum hiánya (1–3 pont).
+k)[^212] a megváltozott munkaképességet igazoló dokumentum hiánya (1–3 pont).
 
-[^208]: A 3. melléklet a) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^209]: A 3. melléklet f) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^210]: A 3. melléklet j) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^211]: A 3. melléklet k) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^209]: A 3. melléklet a) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^210]: A 3. melléklet f) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^211]: A 3. melléklet j) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^212]: A 3. melléklet k) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
