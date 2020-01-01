@@ -22,19 +22,9 @@
 
 ## Határidő: 2016. június 30.
 
-## 5. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok címét a 49. Balatonfüredi FINA rendezvény támogatása alcímmel egészíti ki;
+## 5.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 6. az 1. melléklet 8. pontja szerinti beruházások megvalósítása érdekében – az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – 358,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 17. Nemzeti Olimpiai Központ beruházás támogatása jogcímcsoport terhére a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 49. Balatonfüredi FINA rendezvény támogatása alcím javára, a 2. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 6.[^2]
 
 ## 7. az 1. melléklet 8. pontja szerinti beruházások ütemezett megvalósítása érdekében felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak legfeljebb 357,0 millió forint összegű forrásnak a 2017. évi központi költségvetés tervezése során a XVII. Nemzeti Fejlesztési Minisztérium fejezetben történő biztosításáról;
 
@@ -52,10 +42,12 @@
 
 ## 9. az Áht. 36. § (4b) bekezdés b) pontjában biztosított jogkörében eljárva a nemzeti fejlesztési miniszter részére felhatalmazást ad éven túli kötelezettségvállalásra az 1. melléklet 8. pontja vonatkozásában a 2017. évi részösszeg tekintetében összesen legfeljebb 357,0 millió forint összegben;
 
-## 10. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a 6. pont szerint átcsoportosított 358,0 millió forint visszapótlásáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 17. Nemzeti Olimpiai Központ beruházás támogatása jogcímcsoport javára.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: 2016. július 31.
+## 10.[^3]
 
 1. melléklet az 1116/2016. (III. 9.) Korm. határozathoz
+
+A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztések
+
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
