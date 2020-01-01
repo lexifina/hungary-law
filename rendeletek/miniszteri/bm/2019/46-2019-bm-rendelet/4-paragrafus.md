@@ -1,0 +1,1 @@
+## „a) gondoskodik az igényjogosultak felszereléséről, az alegységek megfelelő színvonalú ellátottságáról, valamint a szolgálati viszony megszűnésekor a leszerelő ruházattal kapcsolatos elszámoltatásáról, a visszavételezett ruházati termékek, felszerelési cikkek igényjogosult állomány körében történő ismételt felhasználási feltételeinek megteremtéséről,”
