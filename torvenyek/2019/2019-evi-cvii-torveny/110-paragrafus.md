@@ -19,11 +19,3 @@ b) 233. §-a,
 c) 234. § (1) bekezdése,
 
 d) 236. § (1)–(3) és (8) bekezdése.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
