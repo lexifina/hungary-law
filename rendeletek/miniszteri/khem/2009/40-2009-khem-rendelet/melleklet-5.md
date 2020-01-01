@@ -12,9 +12,9 @@
 
 A vizsgák megtartására vonatkozó szabályok
 
-I.[^22]
+I.[^23]
 
-II. A képzést követő vizsga (a továbbiakban: gyakorlati vizsga)[^23]
+II. A képzést követő vizsga (a továbbiakban: gyakorlati vizsga)[^24]
 
 A tanfolyamot folytató szervezet a gyakorlati vizsgák megtartásához a megfelelő gépet biztosítja.
 
@@ -24,15 +24,10 @@ Sikeres a gyakorlati vizsga, ha a vizsgázó a részére meghatározott vizsgafe
 
 A gyakorlati vizsgák eredményeit a jegyzőkönyvvezető a jegyzőkönyvben rögzíti, aláírja és átadja a vizsgabizottság elnökének, aki ismerteti a vizsgázókkal a gyakorlati vizsgák eredményeit.
 
-III. A vizsgák lezárása[^24]
+III. A vizsgák lezárása[^25]
 
-A vizsga befejezése után a vizsgabizottság a jegyzőkönyvet aláírja és annak egy-egy példányát kapja:
+A vizsga befejezése után a vizsgabizottság a jegyzőkönyvet aláírja és annak eredeti példányát leadja a vizsgaközpont részére
 
-a) a tanfolyamot folytató szervezet,
-
-b)[^25] a Nemzeti Fejlesztési Minisztérium.
-
-[^22]: Az 5. melléklet I. pontját a 74/2015. (XII. 29.) NFM rendelet 6. § e) pontja hatályon kívül helyezte.
-[^23]: Az 5. melléklet II. pont címe a 74/2015. (XII. 29.) NFM rendelet 5. § h) pontjával megállapított szöveg. [Az 5. melléklet II. pontjában a 74/2015. (XII. 29.) NFM rendelet 5. § i) pontjával elrendelt módosítás, amely szerint a „tanfolyam” szövegrész helyébe a „szaktanfolyam” szöveg lép, nem vezethető át.]
-[^24]: Az 5. melléklet III. pontja a 74/2015. (XII. 29.) NFM rendelet 6. § f) pontja szerint módosított szöveg. [Az 5. melléklet III. pontjában a 74/2015. (XII. 29.) NFM rendelet 5. § i) pontjával elrendelt módosítás, amely szerint a „tanfolyam” szövegrész helyébe a „szaktanfolyam” szöveg lép, nem vezethető át.]
-[^25]: Az 5. melléklet III. pont b) alpontja az 1/2017. (I. 3.) NFM rendelet 54. § (2) bekezdés f) pontjával megállapított szöveg.
+[^23]: Az 5. melléklet I. pontját a 74/2015. (XII. 29.) NFM rendelet 6. § e) pontja hatályon kívül helyezte.
+[^24]: Az 5. melléklet II. pont címe a 74/2015. (XII. 29.) NFM rendelet 5. § h) pontjával megállapított szöveg. [Az 5. melléklet II. pontjában a 74/2015. (XII. 29.) NFM rendelet 5. § i) pontjával elrendelt módosítás, amely szerint a „tanfolyam” szövegrész helyébe a „szaktanfolyam” szöveg lép, nem vezethető át.]
+[^25]: Az 5. melléklet III. pontja a 45/2019. (XII. 20.) ITM rendelet 34. § (2) bekezdésével megállapított szöveg.

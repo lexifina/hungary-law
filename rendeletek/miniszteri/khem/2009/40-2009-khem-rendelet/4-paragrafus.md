@@ -1,4 +1,4 @@
-4. §[^4] (1) A gépkezelők képzése szaktanfolyamon történik.
+4. §[^5] (1) A gépkezelők képzése szaktanfolyamon történik.
 
 (2) Szaktanfolyamra az jelentkezhet, aki
 
@@ -14,4 +14,4 @@ b) az Országos Képzési Jegyzékben meghatározott – a megszerezni kívánt 
 
 (6) Az oktatás ismeretanyagát a 4. melléklet tartalmazza.
 
-[^4]: A 4. § a 74/2015. (XII. 29.) NFM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § a 74/2015. (XII. 29.) NFM rendelet 2. §-ával megállapított szöveg.

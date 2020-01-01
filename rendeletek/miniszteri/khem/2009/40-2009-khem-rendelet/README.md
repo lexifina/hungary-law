@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-40-20-2
 | 2016-01-01 | 2009-40-20-2M.3 | 74/2015. (XII. 29.) NFM rendelet |
 | 2017-01-03 | 2009-40-20-2M.4 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2009-40-20-2M.5 | 55/2017. (XII. 27.) NFM rendelet |
+| 2020-01-01 | 2009-40-20-2M.6 | 45/2019. (XII. 20.) ITM rendelet |

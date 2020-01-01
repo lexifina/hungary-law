@@ -122,9 +122,9 @@
 
 3. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez
 
-## Gépkezelői szaktanfolyam szervezésének tárgyi feltételei[^17]
+## Gépkezelői szaktanfolyam szervezésének tárgyi feltételei[^18]
 
-1.[^18]
+1.[^19]
 
 2. A gyakorlati tárgyak oktatásához:
 
@@ -134,5 +134,5 @@ b) gyakorló terület, ahol a személy- és vagyonbiztonság veszélyeztetése �
 
 c) a tanuló és a gép üzemeltetéséért felelős személy (a továbbiakban: gyakorlati oktató) részére a gép kezeléséhez (karbantartásához, tartozékcseréjéhez) előírt munka- és védőruha, védőital.
 
-[^17]: A 3. melléklet címe a 74/2015. (XII. 29.) NFM rendelet 5. § f) pontja szerint módosított szöveg.
-[^18]: A 3. melléklet 1. pontját a 74/2015. (XII. 29.) NFM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^18]: A 3. melléklet címe a 74/2015. (XII. 29.) NFM rendelet 5. § f) pontja szerint módosított szöveg.
+[^19]: A 3. melléklet 1. pontját a 74/2015. (XII. 29.) NFM rendelet 6. § b) pontja hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## A jogosítvány külső oldala
 
-| A kiállító szervezet megnevezése: Nemzeti Fejlesztési Minisztérium GÉPKEZELŐI JOGOSÍTVÁNY |
+| A kiállító szervezet megnevezése: KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság GÉPKEZELŐI JOGOSÍTVÁNY |
 
 | A jogosítvány belső oldala |  |
 
@@ -10,7 +10,7 @@
 
 | anyakönyvi szám |  | TUDNIVALÓK |
 
-| Név: Születési név: aki .......... évben  hó .......... napján |  | 1. A jogosítványt a Nemzeti Fejlesztési Minisztérium a közúti közlekedési ágazatban használt önjáró emelő- és rakodógépek kezelőinek képzéséről és vizsgáztatásáról szóló 40/2009. (VIII. 31.) KHEM rendelet alapján állította ki . A jogosítvány jogosultja a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet alapján köteles időszakos orvosi vizsgálaton megjelenni. |
+| Név: Születési név: aki .......... évben  hó .......... napján |  | 1. A jogosítványt a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság a közúti közlekedési ágazatban használt önjáró emelő- és rakodógépek kezelőinek képzéséről és vizsgáztatásáról szóló 40/2009. (VIII. 31.) KHEM rendelet alapján állította ki . A jogosítvány jogosultja a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet alapján köteles időszakos orvosi vizsgálaton megjelenni. |
 
 | helységben született, anyja neve: a jogosítványba bejegyzett gépcsoportba tartozó gép kezelésére jogosult. , 20.................... hó ......... nap |  | 2. A jogosítványt jogosultja a géppel történő munkavégzés időtartamára köteles magánál tartani és a hatósági személyek felkérésére felmutatni. |
 
@@ -72,6 +72,6 @@
 
 | EGYÉB BEJEGYZÉSEK | EGYÉB BEJEGYZÉSEK |
 
-2. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez[^16]
+2. melléklet a 40/2009. (VIII. 31.) KHEM rendelethez[^17]
 
-[^16]: A 2. melléklet a 74/2015. (XII. 29.) NFM rendelet 5. § e) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet a 74/2015. (XII. 29.) NFM rendelet 5. § e) pontja szerint módosított szöveg.

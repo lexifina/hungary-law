@@ -10,6 +10,6 @@ c) a gép kezelőjével szemben támasztható kezelési követelmények
 
 határozzák meg.
 
-(3)[^3] A vizsga során alkalmazott emelő- és rakodógép 2. melléklet szerinti gépcsoportba sorolását a vizsgabizottság elnöke határozza meg.
+(3)[^4] A vizsga során alkalmazott emelő- és rakodógép 2. melléklet szerinti gépcsoportba sorolását a vizsgabizottság elnöke határozza meg.
 
-[^3]: A 3. § (3) bekezdése a 74/2015. (XII. 29.) NFM rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 74/2015. (XII. 29.) NFM rendelet 6. § a) pontja szerint módosított szöveg.
