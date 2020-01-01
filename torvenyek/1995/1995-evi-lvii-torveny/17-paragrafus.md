@@ -6,6 +6,8 @@ b) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet k
 
 c)
 
+hatáskörébe tartozik.
+
 (2)
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.

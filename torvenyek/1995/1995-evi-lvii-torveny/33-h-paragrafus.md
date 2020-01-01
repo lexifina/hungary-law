@@ -1,0 +1,1 @@
+33/H. § A vízügyi hatósági eljárásokban közreműködő, a Kormány rendeletében megjelölt szervek a Kormány rendeletében meghatározott információkat a VIZEK rendszeren keresztül – a Kormány rendeletében meghatározott esetekben automatikus információátadás útján – térítésmentesen biztosítják egymás részére.
