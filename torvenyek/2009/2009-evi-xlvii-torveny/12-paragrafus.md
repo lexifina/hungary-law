@@ -12,4 +12,4 @@
 
 (4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 
-(5) A 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
+(5) A 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát a közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról a közlekedési igazgatási hatóság intézkedett.

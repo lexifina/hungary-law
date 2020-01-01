@@ -18,7 +18,7 @@
 
 (7) A 16. § (2) bekezdés i) pontja szerinti adatot a bíróság, a 16. § (2) bekezdés j) pontja szerinti adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
-(7a) A 16. § (2) bekezdés k) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
+(7a) A 16. § (2) bekezdés k) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát a közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról a közlekedési igazgatási hatóság intézkedett.
 
 (7b) A 16. § (2) bekezdés l) pontjában meghatározott adatokat az alapügyben elsőfokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel,
 
