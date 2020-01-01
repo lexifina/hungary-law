@@ -60,31 +60,27 @@ b) „N” alatt a zajkibocsátási határérték alóli felmentés idejére von
 
 kell érteni.
 
-1.4.1.2 A folyamatos méréssel vizsgált zajforrások napi zajbírságát az alábbi összefüggéssel kell meghatározni:
+1.4.1.2. A folyamatos méréssel vizsgált zajforrások napi zajbírságát az alábbi összefüggéssel kell meghatározni:
 
-|  | (1.6 összefüggés) |
+B = 240 000×TÜK×CB (1.6. összefüggés)
 
-,ahol
+ahol
 
 – B: az üzemi vagy szabadidős zajforrás napi zajbírsága (Ft/nap),
 
-– TÜK: a megállapított zajkibocsátási határérték, vagy a zajkibocsátási határérték alóli felmentéssel érintett napokon a felmentés idejére vonatkozó zajterhelési határérték 1.4.1.3. alpont szerint megállapított legnagyobb túllépésének mértékszáma az adott napon dB-ben,
+– TÜK: az 1.4.1.3. alpont szerint megállapított legnagyobb túllépés mértékszáma az adott ÜK napon dB-ben,
 
-– CB: az 1.3. összefüggés szerinti módosító tényező.
+– CB: az 1.3. összefüggés szerinti módosító tényező (Ft/dB).
 
-1.4.1.3 A zajkibocsátási határérték alóli felmentéssel érintett napokon a felmentés idejére vonatkozó zajterhelési határérték legnagyobb túllépésének mértékszámát az alábbiak szerint kell megállapítani:
+1.4.1.3. A legnagyobb túllépés mértékszámát az alábbi összefüggéssel kell meghatározni:
 
-|  | A | B | C | D |
+TÜK = LAM – HÉ (1.7. összefüggés)
 
-| 1. | zajtól védendő terület | TÜK értéke (dB) a vizsgált év első tíz olyan napjára, amelyen a kritikus ponton mért megítélési szint (LAM) meghaladta a 70 dB – az üdülőterületek vonatkozásában a 60 dB – értéket | TÜK értéke (dB) a vizsgált évben időbeli sorrendben a 11.-től 30.-ig terjedő olyan napra, amelyen a kritikus ponton mért megítélési szint (LAM) meghaladta a 65 dB – az üdülőterületek vonatkozásában az 55 dB – értéket | TÜK értéke (dB) a vizsgált évben időbeli sorrendben a 31.-től a 40.-ig terjedő olyan nap napra, amelyen a kritikus ponton mért megítélési szint (LAM) meghaladta a 60 dB – az üdülőterületek vonatkozásában az 55 dB – értéket |
+ahol
 
-| 2 | Üdülőterület | LAM - 60 | LAM - 55 | LAM – 55 |
+– LAM: a kritikus ponton mért megítélési szint, dB-ben kifejezve,
 
-| 3 | Lakóterület (kisvárosias, kert városias, falusias, telepszerű beépítésű), különleges területek közül az oktatási létesítmények területe, temetők, zöldterületek | LAM -70 | LAM - 65 | LAM – 60 |
-
-| 4 | Lakóterület (nagyvárosias beépítésű), vegyes terület | LAM -70 | LAM - 65 | - |
-
-| 5 | Gazdasági terület | LAM -70 | - | - |
+– HÉ: a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. §-a alapján meghatározott határérték.
 
 1.4.2. Valamennyi olyan napra, amelyen az üzemeltető a 4.1. pont c) vagy d) pontja szerinti jogsértést követi el, a környezetvédelmi hatóság külön meghatározza a 4.1 pont c) vagy d) pontja szerinti bírság összegét.
 
@@ -144,4 +140,4 @@ e) a nemzetközi licenccel rendelkező versenypályán a környezetvédelmi hat�
 
 bírság megfizetésére köteles.
 
-[^60]: A 3. számú melléklet a 427/2015. (XII. 23.) Korm. rendelet 9. §-a, a 61/2019. (III. 26.) Korm. rendelet 8. § (2) bekezdése, a 9. § e)–f) pontja és 10. §-a szerint módosított szöveg.
+[^60]: A 3. számú melléklet a 427/2015. (XII. 23.) Korm. rendelet 9. §-a, a 61/2019. (III. 26.) Korm. rendelet 8. § (1)–(2) bekezdése, a 9. § e)–f) pontja és 10. §-a szerint módosított szöveg.
