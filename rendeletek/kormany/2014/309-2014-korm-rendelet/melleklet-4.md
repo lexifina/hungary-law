@@ -1,8 +1,8 @@
 4. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A veszélyes hulladékkal kapcsolatos negyedéves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
+## A veszélyes hulladékkal kapcsolatos negyedéves adatszolgáltatás teljesítéséhez szükséges adatcsomag adattartalma (EHIR: HIR-NÉ)[^54]
 
-1. A főlap adattartalma (HIR-NÉ-főlap):
+1.[^55] Alapadatok:
 
 1.1. Az adatszolgáltatóra vonatkozó adatok:
 
@@ -36,7 +36,9 @@ b) beosztás;
 
 c) elérhetőségek.
 
-2. A hulladék gyűjtésének, kereskedelmének, előkezelésének bejelentéséhez szükséges adatlap adattartalma (HIR-NÉ-2):
+1.4.[^56] Nyilatkozat
+
+2.[^57] A hulladék gyűjtésének, kereskedelmének, előkezelésének bejelentéséhez szükséges adattartalom:
 
 2.1. A hulladékra vonatkozó adatok:
 
@@ -92,13 +94,13 @@ e) az átvételt végző típusa (a jellemző hulladékgazdálkodási tevékenys
 
 f) a kezelés céljából átadott hulladék mennyisége.
 
-3. A hulladék hasznosításának, ártalmatlanításának bejelentéséhez szükséges adatlap adattartalma (HIR-NÉ-3):
+3.[^58] A hulladék hasznosításának, ártalmatlanításának bejelentéséhez szükséges adattartalom:
 
 3.1. A hulladékra vonatkozó adatok:
 
 a) kezelési kód;
 
-b) országjel;
+b)[^59]
 
 c) hulladékjegyzék szerinti azonosító kód;
 
@@ -108,13 +110,13 @@ e) a fizikai megjelenési forma;
 
 f) a hulladék legfontosabb veszélyességi jellemzői;
 
-g) a bejelentési időszak elején a telephelyen lévő tényleges hulladék mennyisége;
+g)[^60] a bejelentési időszak elején a telephelyen lévő tényleges hulladék mennyisége (Nyitó);
 
 h) a kezelt hulladék mennyisége összesen;
 
 i) annak rögzítése, hogy képződött-e másodlagos hulladék;
 
-j) bejelentési időszak végén a telephelyen lévő tényleges hulladék mennyisége.
+j)[^61] bejelentési időszak végén a telephelyen lévő tényleges hulladék mennyisége (Záró).
 
 3.2. A kezelésre átvett hulladékra vonatkozó adatok
 
@@ -131,3 +133,12 @@ e) az átadó neve;
 f) a hulladék eredete szerinti besorolása;
 
 g) a kezelés céljából átvett hulladék mennyisége.
+
+[^54]: A 4. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^55]: A 4. melléklet 1. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^56]: A 4. melléklet 1. pont 1.4. alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^57]: A 4. melléklet 2. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^58]: A 4. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^59]: A 4. melléklet 3.1. pont b) alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^60]: A 4. melléklet 3.1. pont g) alpontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^61]: A 4. melléklet 3.1. pont j) alpontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-15. § (1)[^27] A hatósági ellenőrzés során
+15. § (1)[^28] A hatósági ellenőrzés során
 
 a) az adatszolgáltatásra kötelezett az adatszolgáltatás alapjául szolgáló nyilvántartási dokumentációt,
 
@@ -6,7 +6,7 @@ b) a hulladék szállítója a 8. § szerinti fuvarokmányt és veszélyes hulla
 
 ## a környezetvédelmi hatóság képviselőjének átadja.
 
-(2)[^28] Ha az adatszolgáltatásra kötelezett az adatszolgáltatás alapjául szolgáló nyilvántartást elektronikus úton vezeti, akkor az (1) bekezdésben foglalt adatszolgáltatás alapjául szolgáló elektronikus nyilvántartást a környezetvédelmi hatóság számára hozzáférhetővé teszi.
+(2)[^29] Ha az adatszolgáltatásra kötelezett az adatszolgáltatás alapjául szolgáló nyilvántartást elektronikus úton vezeti, akkor az (1) bekezdésben foglalt adatszolgáltatás alapjául szolgáló elektronikus nyilvántartást a környezetvédelmi hatóság számára hozzáférhetővé teszi.
 
-[^27]: A 15. § (1) bekezdés záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 257. § b) pontja szerint módosított szöveg.
-[^28]: A 15. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 257. § b) pontja szerint módosított szöveg.
+[^28]: A 15. § (1) bekezdés záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 257. § b) pontja szerint módosított szöveg.
+[^29]: A 15. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 257. § b) pontja szerint módosított szöveg.

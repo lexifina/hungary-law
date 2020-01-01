@@ -1,6 +1,6 @@
 2. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A hulladékkal kapcsolatos adatszolgáltatási kötelezettség keletkezése és megszűnése bejelentésének teljesítésére vonatkozó adatlap adattartalma (HIR-KÖT lap)
+## A hulladékkal valamint a hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettség keletkezése és megszűnése bejelentésének teljesítésére vonatkozó adatcsomag adattartalma (EHIR: KÖT)[^40]
 
 1. Az adatszolgáltatóra vonatkozó adatok:
 
@@ -18,10 +18,75 @@ a) a telephely Környezetvédelmi Területi Jele;
 
 b) a telephely címe (irányítószám, település neve, közterület neve, típusa, házszám).
 
-3. Az adatszolgáltatási kötelezettségre vonatkozó adatok:
+3.[^41] Az adatszolgáltatási kötelezettségre vonatkozó adatok:
 
-a) az adatszolgáltatási kötelezettség gyakoriságának megjelölése (éves vagy negyedéves adatszolgáltatási kötelezettség);
+3.1. Éves adatszolgáltatási kötelezettség
 
-b) az adatszolgáltatási kötelezettség keletkezésének, megszűnésének dátuma, a kötelezettség létrejöttének, megszűnésének oka;
+3.1.1. Hulladéktermelő
 
-c) a kapcsolattartó személy adatai (teljes név, beosztás, elérhetőségek).
+3.1.2. Nemveszélyeshulladék-gyűjtő, -kereskedő, -kezelő
+
+Az éves adatszolgáltatási kötelezettség megszűnésének oka
+
+3.2. Negyedéves adatszolgáltatási kötelezettség
+
+Negyedéves adatszolgáltatási kötelezettség megszűnésének oka
+
+4.[^42] A hulladéklerakókkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó adatok
+
+4.1. A további üzemeltetők adatai:
+
+a) KÜJ azonosító;
+
+aa) teljes név;
+
+b) KÜJ azonosító;
+
+ba) teljes név.
+
+4.2. Az adatszolgáltatási kötelezettségre vonatkozó adatok:
+
+a) kötelezettség keletkezésének éve;
+
+b) kötelezettség típusa;
+
+ba) üzemelő hulladéklerakó;
+
+bb) bezárt hulladéklerakó;
+
+bc) rekultiváció alatt álló hulladéklerakó;
+
+bd) utógondozás alatt álló hulladéklerakó;
+
+c) hulladéklerakó kategóriája;
+
+ca) A;
+
+cb) B1b;
+
+cc) B3;
+
+cd) C;
+
+d) a hulladéklerakó üzemeltetésének kezdete (év);
+
+e) a hulladéklerakó üzemeltetésének vége (év);
+
+f) a kötelezettség megszűnésének éve;
+
+g) a megszűnés oka;
+
+ga) bezárásra került;
+
+gb) rekultivációja megtörtént;
+
+gc) utógondozása befejeződött;
+
+gd) egyéb.
+
+5.[^43] Kapcsolattartó személy adatai (teljes név, beosztás, elérhetőségek).
+
+[^40]: A 2. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^41]: A 2. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^42]: A 2. melléklet 4. pontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^43]: A 2. melléklet 5. pontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
