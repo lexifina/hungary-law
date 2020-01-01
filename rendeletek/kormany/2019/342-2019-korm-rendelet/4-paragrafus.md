@@ -1,0 +1,3 @@
+## 3. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 6. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) A költségvetési szerv vezetője a belső kontrollrendszer koordinálására belső kontroll felelőst jelölhet ki. Belső ellenőr belső kontroll felelősnek nem jelölhető ki. Ha van a szervezetnél kijelölt integritás tanácsadó, akkor a belső kontroll felelős és az integritás tanácsadó közötti együttműködést és feladatmegosztást egyértelműen meg kell határozni. A belső kontroll felelős feladata a költségvetési szerv vezetője és a folyamatgazdák támogatása a belső kontrollrendszer kialakításában és fejlesztésében.”

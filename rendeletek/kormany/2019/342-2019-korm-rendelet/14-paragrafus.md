@@ -1,0 +1,3 @@
+## 13. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A belső ellenőrzési vezető – a 34. § (1) bekezdésében meghatározottak figyelembevételével – minden egyes ellenőrzés lefolytatásához megbízólevél aláírásával kijelöli a vizsgálatvezetőt, az ellenőrzéseket lefolytató belső ellenőröket és szükség esetén az ellenőrzésben részt vevő szakértőket. Vizsgálatvezetőnek az jelölhető ki, aki legalább kétéves, jogszabályban meghatározott szakmai gyakorlattal rendelkezik. Szakértőnek az adott költségvetési szerv alkalmazottja is kijelölhető a 20. §-ban a belső ellenőrökre meghatározott összeférhetetlenségi szabályok figyelembevételével.”

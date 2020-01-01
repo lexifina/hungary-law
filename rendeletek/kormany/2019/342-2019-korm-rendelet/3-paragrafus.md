@@ -1,0 +1,1 @@
+## „r) tanácsadó tevékenység: a költségvetési szerv vezetője részére nyújtott olyan hozzáadott értéket eredményező szolgáltatás, amelynek jellegét és hatókörét a belső ellenőrzési vezető és a költségvetési szerv vezetője a megbízáskor közösen írásban vagy szóban határozza meg anélkül, hogy a vezetői felelősséget a belső ellenőr magára vállalná;”

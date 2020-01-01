@@ -1,0 +1,3 @@
+## 14. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 35. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) Ha a költségvetési szerv belső ellenőrzését az irányító szerve, az irányító szerv által kijelölt vagy törvény, kormányrendelet által gazdasági szervezetének feladatai ellátására kijelölt szerv látja el, a költségvetési szerv vezetője alatt az ellátott szerv vezetőjét kell érteni azon ellenőrzések végrehajtása esetén, ahol az irányító vagy kijelölt szerv belső ellenőre az ellátott szerv belső ellenőreként jár el.”
