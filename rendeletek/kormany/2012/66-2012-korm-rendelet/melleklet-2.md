@@ -232,6 +232,18 @@
 
 | 113 | Acetylfentanyl, acetilfentanil, Desmethyl fentanyl | N-(1-Phenethylpiperidin-4-yl)-N-phenylacetamide |
 
+| 114 | carfentanil |  |
+
+| 115 | ocfentanil |  |
+
+| 116 | furanilfentanil | N-fenil-N-[1-(2-feniletil)piperidin-4-il]-furán-2-karboxamid |
+
+| 117 | acryloylfentanyl (acrylfentanyl) |  |
+
+| 118 | 4-fluoroisobutyrfentanyl |  |
+
+| 119 | tetrahydrofuranylfentanyl |  |
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek izomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – valamint az ebben a jegyzékben felsorolt kábítószerek észterei és éterei, amennyiben ilyen észterek és éterek előfordulnak, kivéve, ha azok egy másik jegyzékben szerepelnek;
@@ -364,7 +376,7 @@
 
 | 18 | FLEA*** | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagy N-hidroxi-3,4-metilén-dioxi-metamfetamin°N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin°° |
 
-| 19 | 4-fluoroamphetamine** (4-fluoramfetamin) / 4-FA, 4-FMP | 1-(4-fluorophenyl)propan-2-amine |
+| 19 |  |  |
 
 | 20 | N-hydroxy MDA (N-hidroxi-MDA) | (±)-N[α-methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine |
 
@@ -490,7 +502,7 @@
 
 | 76. | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
 
-| 77. | Ethylphenidate (etilfenidát) | ethyl phenyl(piperidin-2-yl)acetate |
+| 77. |  |  |
 
 | 78. | GBL, gamma- butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
 
@@ -532,13 +544,13 @@
 
 | 97. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
 
-| 98. | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3- carboxamide |
+| 98. |  |  |
 
 | 99. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole-3- carboxamide |
 
 | 100. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole-3- carboxamide |
 
-| 101. | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide |
+| 101. |  |  |
 
 | 102. | α-PVT, alpha-PVT, alpha- pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
 
@@ -579,6 +591,14 @@
 | 120 | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
 
 | 121 | EG-018 | (naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)-methanone |
+
+| 122 | ciklopropil-fentanil | N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid |
+
+| 123 | metoxiacetil-fentanil | 2-metoxi-N-fenil-N-[1-(2-feniletil)piperidin-4-il]acetamid |
+
+| 124 | ADB-CHMINACA | N-(1-amino-3,3-demetil-1-oxobután-2-il)-1-(ciklohexil-metil)- 1H-indazol-3-karboxamid |
+
+| 125 | CUMYL-4CN-BINACA | 1-(4-ciano-butil)-N-(2-fenilpropán-2-il)-1H-indazol-3-karboxamid |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
@@ -665,6 +685,18 @@
 | 31 | Pentedron, β-ethyl- methcathinone (β-etil- metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
 
 | 32 | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl-valine, methyl ester |
+
+| 33 | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)- 1H-indazole-3-carboxamide |
+
+| 34 | 5-F-MDMB-PINACA |  |
+
+| 35 | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole- 3-carboxamide |
+
+| 36 | UR-144 |  |
+
+| 37 | 5-F-PB-22 |  |
+
+| 38 | 4-fluoroamphetamine (4-fluoramfetamin) /4-FA, 4-FMP | 1-(4-fluorophenyl)propan-2-amine |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
@@ -844,7 +876,7 @@
 
 ## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
-2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^132]
+2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^140]
 
 Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
@@ -866,4 +898,4 @@ Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 3. Statisztikai szempontból nem minősül gyártásnak a csomagolás, átcsomagolás.
 
-[^132]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.
+[^140]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.

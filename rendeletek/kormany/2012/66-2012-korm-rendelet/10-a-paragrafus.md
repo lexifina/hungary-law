@@ -1,0 +1,3 @@
+## 10. §[^56] Az ipari mák termesztetésére irányuló eseti termesztetési engedély iránti kérelmet évente az ipari mák feldolgozásával foglalkozó, a 3. § (1) bekezdése szerinti hatályos tevékenységi engedéllyel rendelkező gazdálkodó szervezet évente, legkésőbb a tárgyév január 15-éig nyújtja be az OGYÉI-nek, megjelölve a kérelem által érintett évre vonatkozó, az ipari mák termesztésére szánt terület nagyságát, a termeszteni kívánt mákfajtát és a maximálisan kinyerni tervezett alkaloid mennyiséget.
+
+[^56]: A 10. § a 364/2014. (XII. 30.) Korm. rendelet 97. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 56. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés a) pontja szerint módosított szöveg.

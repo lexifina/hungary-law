@@ -8,8 +8,8 @@
 
 | Engedély- szám | Készítmény neve | Készítmény (doboz, db) | Hatóanyag (gramm vízmentes bázis) | Vámeljárás, illetve kilépés időpontja (hónap, nap) | Importáló ország |
 
-5. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^135]
+5. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^143]
 
 Jelentés a K1, K2 és a P1, P2 jegyzéken szereplő anyagok, valamint a kábítószertartalmú kivételek és az új pszichoaktív anyagok negyedéves importjáról, illetve a P3, P4 jegyzéken szereplő anyagok éves importjáról
 
-[^135]: Az 5. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (4) bekezdésével megállapított szöveg.
+[^143]: Az 5. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (4) bekezdésével megállapított szöveg.

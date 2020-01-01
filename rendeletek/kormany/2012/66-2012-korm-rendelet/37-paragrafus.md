@@ -1,3 +1,3 @@
-## 36. §[^129] Ez a rendelet a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+37. §[^138]
 
-[^129]: A 36. §-t a 254/2013. (VII. 5.) Korm. rendelet 52. §-a iktatta be.
+[^138]: A 37. §-t az 520/2013. (XII. 30.) Korm. rendelet 92. §-a iktatta be, hatályon kívül helyezte a 347/2019. (XII. 23.) Korm. rendelet 16. § e) pontja.

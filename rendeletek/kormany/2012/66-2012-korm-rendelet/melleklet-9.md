@@ -66,6 +66,6 @@
 
 | 28. | Útvonal és tranzitországok (közúti szállításnál) |  |
 
-9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^139]
+9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^147]
 
-[^139]: A 9. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (7) bekezdésével megállapított szöveg.
+[^147]: A 9. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (7) bekezdésével megállapított szöveg.

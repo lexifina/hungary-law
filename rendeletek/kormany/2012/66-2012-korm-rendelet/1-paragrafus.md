@@ -56,7 +56,15 @@
 
 27.[^7] mákszalma: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § e) pontja szerinti fogalom;
 
-28. nem gyógyászati célú tevékenység: a 12. pontban meghatározottól eltérő minden, a kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett tevékenység;
+28.[^8] nem gyógyászati célú tevékenység:
+
+a) a kábítószerekkel, a pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végzett, bűnüldözési, rendvédelmi, valamint a honvédelmi szervezetek és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő köznevelési intézmény állománya kábítószer fogyasztása ellenőrzése céljából végzett laboratóriumi vizsgálati tevékenység,
+
+b) az ipari mák termesztéstechnológiai kutatásával, nemesítésével, fajtakísérleteinek beállításával, kísérleti termesztésével, tudományos célú termesztésével és termeltetésével, vetőmagja előállításával, genetikai alapanyagainak tárolásával, továbbá magas THC tartalmú kender nemesítésével, fajtakísérleteinek beállításával, analitikai célú vizsgálatával genetikai alapanyagainak tárolásával végzett tevékenység,
+
+c) a kábítószer-vizsgáló laboratóriumok által kábítószerekkel, pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett, nem gyógyászati célú tevékenység,
+
+d) az új pszichoaktív anyagokkal vagy a P1 jegyzéken szereplő pszichotróp anyagokkal végzett, ipari célú tevékenység;
 
 29. oktatás: egészségügyi és rendvédelmi szakemberek képzése, továbbképzése;
 
@@ -68,17 +76,19 @@
 
 33. tranzitszállítás: kábítószereknek és pszichotróp anyagoknak, valamint új pszichoaktív anyagoknak az ország területén – a leszállás nélküli légi forgalom kivételével – történő átszállítása, amelynek során az áru vámjogi helyzetében változás nem történik;
 
-34.[^8] új pszichoaktív anyag: az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő anyag vagy vegyületcsoport;
+34.[^9] új pszichoaktív anyag: az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő anyag vagy vegyületcsoport;
 
-35.[^9] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől;
+35.[^10] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől;
 
-36.[^10] kifejtetlen máktok: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § f) pontja szerinti fogalom;
+36.[^11] kifejtetlen máktok: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § f) pontja szerinti fogalom;
 
-37.[^11] kábítószerért felelős személy helyettese: a nem gyógyászati célú tevékenységi engedélyben a kábítószerért felelős személy helyetteseként megjelölt személy, aki a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal folytatott tevékenységgel kapcsolatos feladatokat ellátja és felügyeli, és akire az e rendeletben a kábítószerért felelős személyre előírt szabályok vonatkoznak a 6. § (3) bekezdésében előírt speciális végzettség kivételével, amely speciális végzettség helyett a tevékenység végzéséhez az adott engedélyesnél előírt legmagasabb végzettség igazolása szükséges.
+37.[^12] kábítószerért felelős személy helyettese: a nem gyógyászati célú tevékenységi engedélyben a kábítószerért felelős személy helyetteseként megjelölt személy, aki a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal folytatott tevékenységgel kapcsolatos feladatokat ellátja és felügyeli, és akire az e rendeletben a kábítószerért felelős személyre előírt szabályok vonatkoznak a 6. § (3) bekezdésében előírt speciális végzettség kivételével, amely speciális végzettség helyett a tevékenység végzéséhez az adott engedélyesnél előírt legmagasabb végzettség igazolása szükséges.
 
-38.[^12] magas THC tartalmú kender: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § j) pontja szerint ekként meghatározott fogalom;
+38.[^13] magas THC tartalmú kender: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 1. § j) pontja szerint ekként meghatározott fogalom;
 
-39.[^13] ellenőrzött anyagok: az 1. mellékletben szereplő kábítószerek és pszichotróp anyagok, valamint az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő új pszichoaktív anyagok.
+39.[^14] ellenőrzött anyagok: az 1. mellékletben szereplő kábítószerek és pszichotróp anyagok, valamint az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő új pszichoaktív anyagok;
+
+40.[^15] ipari cél: minden olyan, gyógyászati célnak nem minősülő, a 28. pont a)–c) alpontja szerinti célok alá be nem sorolható rendeltetés, amely emberi fogyasztásra alkalmatlan új pszichoaktív anyaggal vagy a P1 jegyzéken szereplő pszichotróp anyaggal e rendelet értelmében engedélyköteles tevékenység végzését teszi szükségessé, ide nem értve az olyan termék fejlesztését, előállítását, amely új pszichoaktív anyag vagy a P1 jegyzéken szereplő anyag emberi szervezetbe juttatására alkalmas.
 
 [^1]: Az 1. § 3. pontját az 507/2017. (XII. 29.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § 7. pontja a 13/2014. (I. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -87,9 +97,11 @@
 [^5]: Az 1. § 14. pontja a 113/2019. (V. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § 16. pontja a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 27. pontja a 19/2015. (II. 16.) Korm. rendelet 11. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § 34. pontja a 367/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.
-[^10]: Az 1. § 36. pontját a 172/2016. (VII. 1.) Korm. rendelet 48. §-a iktatta be.
-[^11]: Az 1. § 37. pontját a 250/2017. (IX. 5.) Korm. rendelet 37. §-a iktatta be.
-[^12]: Az 1. § 38. pontját az 507/2017. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
-[^13]: Az 1. § 39. pontját az 507/2017. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^8]: Az 1. § 28. pontja a 347/2019. (XII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § 34. pontja a 367/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.
+[^11]: Az 1. § 36. pontját a 172/2016. (VII. 1.) Korm. rendelet 48. §-a iktatta be.
+[^12]: Az 1. § 37. pontját a 250/2017. (IX. 5.) Korm. rendelet 37. §-a iktatta be.
+[^13]: Az 1. § 38. pontját az 507/2017. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^14]: Az 1. § 39. pontját az 507/2017. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^15]: Az 1. § 40. pontját a 347/2019. (XII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.
