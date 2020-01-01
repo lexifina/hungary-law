@@ -102,6 +102,6 @@
 
 | 49. | 48 év felett | 25 200 | 38 216 | 38 216 | 50 204 | 51 822 | 137 105 | 122 453 | 154 097 | 122 875 | 93 293 |
 
-6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^109]
+6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^111]
 
-[^109]: A 6. számú mellékletet újonnan a 318/2016. (X. 25.) Korm. rendelet 4. §-a iktatta be.
+[^111]: A 6. számú mellékletet újonnan a 318/2016. (X. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 272/2019. (XI. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

@@ -36,7 +36,13 @@ a) a speciális gyermekotthonban, a speciális lakásotthonban, a gyermekotthon 
 
 b) a javítóintézetben foglalkoztatott utógondozót.
 
-(6)[^66] A bölcsődében, mini bölcsődében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 42. § (3) bekezdésében foglaltak alapján a sajátos nevelési igényű gyermekek nevelését, gondozását végző csoportban a kisgyermeknevelőt és a gyógypedagógust gyógypedagógiai pótlék illeti meg, a pótlék mértéke legalább a pótlékalap 25%-a.
+(6)[^66] A bölcsődében, mini bölcsődében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 42. § (3) bekezdésében foglaltak alapján a sajátos nevelési igényű gyermekek nevelését, gondozását végző csoportban a kisgyermeknevelőt és a gyógypedagógust gyógypedagógiai pótlék illeti meg. A pótlék mértéke
+
+a) egy sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 100%-a,
+
+b) két sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 150%-a,
+
+c) három sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 200%-a.
 
 (6a)[^67]
 
@@ -61,7 +67,7 @@ b) a javítóintézetben foglalkoztatott utógondozót.
 [^63]: A 15. § (3) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^64]: A 15. § (4) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdés c) pontja hatályon kívül helyezte.
 [^65]: A 15. § (5) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^66]: A 15. § (6) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 257/2013. (VII. 5.) Korm. rendelet 19. §-a, a 191/2016. (VII. 13.) korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^66]: A 15. § (6) bekezdése a 272/2019. (XI. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^67]: A 15. § (6a) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (2) bekezdése iktatta be, hatályon kívül helyezte a 418/2015. (XII. 23.) Korm. rendelet 10. § a) pontja.
 [^68]: A 15. § (6b) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 418/2015. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^69]: A 15. § (6c) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdés d) pontja szerint módosított szöveg.
