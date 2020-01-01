@@ -2,6 +2,8 @@
 
 (1) A kormánymegbízottat a kormányhivatal irányítására kormányrendeletben kijelölt miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kormánymegbízott felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
 
+(1a) A kormánymegbízott szabadsága tekintetében az e törvény szerinti munkáltatói jogköröket – az (1) bekezdésben foglaltaktól eltérően – a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által kijelölt politikai felsővezető gyakorolja.
+
 (2) Kormánymegbízottá olyan büntetlen előéletű személy nevezhető ki, aki az országgyűlési képviselők választásán választható.
 
 (3) A kormánymegbízott a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép. A kinevezett kormánymegbízott a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.

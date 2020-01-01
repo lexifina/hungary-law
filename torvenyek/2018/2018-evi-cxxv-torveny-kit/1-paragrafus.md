@@ -12,9 +12,11 @@
 
 (2) A Kilencedik Rész hatálya kiterjed a kormányzati igazgatási szervek munkavállalóira és azok munkaviszonyára.
 
-(3) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, bírósági titkárra, illetve ügyészre, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+(3) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, bírósági titkárra, illetve ügyészre, valamit a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott érintett szervhez beosztott bíróra, bírósági titkárra, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 (4) E törvény hatálya a 2. §-ban nem szereplő – kormányzati igazgatási szerv irányítása vagy felügyelete alatt álló – szervnél foglalkoztatott személyek kormányzati szolgálati jogviszonyára és munkaviszonyára akkor terjed ki, ha a munkavégzésre irányuló jogviszony az e törvény szerinti álláshelyen jön létre, illetve áll fenn.
+
+(4a) Az 1/A. § hatálya kiterjed azokra a foglalkoztatottakra, akiknek a kormányzati szolgálati jogviszonya az 1/A. § alapján jön létre, valamint az őket foglalkoztató szervekre.
 
 (5) E törvény rendelkezéseit a Központi Statisztikai Hivatalra a hivatalos statisztikáról szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 

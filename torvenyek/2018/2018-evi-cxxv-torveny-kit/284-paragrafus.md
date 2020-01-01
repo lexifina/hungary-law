@@ -10,4 +10,4 @@
 
 (5) A Kormány dönt a (3) bekezdés szerinti javaslatról és az elfogadott javaslatok figyelembevételével jóváhagyja a kormányzati igazgatási szervek alaplétszámába tartozó álláshelyek (2) bekezdés szerinti besorolását.
 
-(6) Az (1)–(5) bekezdést nem kell alkalmazni a kormányhivatalok alaplétszámába tartozó álláshelyekre.
+(6)

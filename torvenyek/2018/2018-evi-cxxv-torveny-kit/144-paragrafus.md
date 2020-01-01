@@ -1,20 +1,20 @@
 ### 144. § [Az álláshelyi elismerés]
 
-(1) A kormánytisztviselő szolgálati ideje alapján elismerésre jogosult, amelynek mértéke
+(1) A kormánytisztviselő szolgálati ideje alapján álláshelyi elismerésre jogosult, amelynek mértéke
 
-a) öt év kormányzati szolgálati jogviszonyban töltött idő esetén háromhavi,
+a) öt év álláshelyen töltött idő esetén háromhavi,
 
-b) tíz év kormányzati szolgálati jogviszonyban töltött idő esetén háromhavi,
+b) tíz év álláshelyen töltött idő esetén háromhavi,
 
-c) tizenöt év kormányzati szolgálati jogviszonyban töltött idő esetén hathavi,
+c) tizenöt év álláshelyen töltött idő esetén hathavi,
 
-d) húsz év kormányzati szolgálati jogviszonyban töltött idő esetén hathavi,
+d) húsz év álláshelyen töltött idő esetén hathavi,
 
-e) huszonöt év kormányzati szolgálati jogviszonyban töltött idő esetén kilenchavi,
+e) huszonöt év álláshelyen töltött idő esetén kilenchavi,
 
-f) harminc év kormányzati szolgálati jogviszonyban töltött idő esetén kilenchavi,
+f) harminc év álláshelyen töltött idő esetén kilenchavi,
 
-g) harmincöt év kormányzati szolgálati jogviszonyban töltött idő esetén huszonnégyhavi, és ezt követő minden öt év kormányzati szolgálati jogviszonyban töltött idő esetén további öthavi
+g) harmincöt év álláshelyen töltött idő esetén huszonnégyhavi, és ezt követő minden öt év álláshelyen töltött idő esetén további öthavi
 
 illetménynek megfelelő összeg.
 

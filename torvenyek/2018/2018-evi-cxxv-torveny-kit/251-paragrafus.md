@@ -1,7 +1,3 @@
-## XXXIII. Fejezet
-
-## A SZAKMAI VEZETŐ
-
 ### 251. § [Az igazgató kinevezése]
 
 (1) Az igazgatót a főigazgató javaslatára a kormánymegbízott nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén az igazgató kinevezéséről a kormánymegbízott dönt.

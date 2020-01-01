@@ -1,14 +1,14 @@
 ### 277. § [A kormányhivatalok közötti kirendelés]
 
-(1) A kormánytisztviselő az álláshelye szerinti kormányhivataltól (a továbbiakban: kirendelő) másik kormányhivatalnál történő munkavégzésre kirendelhető akkor, ha a kirendelés helye szerinti kormányhivatal valamely szakkérdéssel összefüggő hatósági feladatát más módon nem tudja hatékonyan ellátni. A kirendelés során a munkavégzés helye csak akkor változhat, ha az a kirendelés helye szerinti kormányhivatal feladatának ellátásához elengedhetetlenül szükséges. A kormányhivatalok közötti kirendeléshez a kormánytisztviselő beleegyezése nem szükséges.
+(1) A kormánytisztviselő az álláshelye szerinti kormányhivataltól (a továbbiakban: kirendelő) másik kormányhivatalnál történő munkavégzésre kirendelhető akkor, ha a kirendelés helye szerinti kormányhivatal valamely hatósági feladatát más módon nem tudja hatékonyan ellátni. A kirendelés során a munkavégzés helye csak akkor változhat, ha az a kirendelés helye szerinti kormányhivatal feladatának ellátásához elengedhetetlenül szükséges. A kormányhivatalok közötti kirendeléshez a kormánytisztviselő beleegyezése nem szükséges.
 
 (2) A kirendelés a kormányhivatalok közötti megállapodás alapján, a 99. és 100. § megfelelő alkalmazásával történik azzal, hogy
 
 a) az alapvető munkáltatói jogokat a kirendelő hivatali szervezetének vezetője gyakorolja a (3) bekezdésben foglalt eltérésekkel,
 
-b) a megállapodás alapján a kirendelés a feladat ellátásáig, de legfeljebb naptári évenként hat hónapig tarthat, ha a munkavégzés helye nem változik; ha a szakkérdéssel összefüggő hatósági feladat ellátása hosszabb idő alatt biztosítható, a kirendelés a feladatkör ellátásáig meghosszabbodik,
+b) a megállapodás alapján a kirendelés a feladat ellátásáig, de legfeljebb naptári évenként hat hónapig tarthat, ha a munkavégzés helye nem változik; ha a hatósági feladat ellátása hosszabb idő alatt biztosítható, a kirendelés a feladatkör ellátásáig meghosszabbodik,
 
-c) ha a szakkérdéssel összefüggő hatósági feladat ellátása más helységben lévő kormányhivatalnál történő munkavégzéssel oldható csak meg, a kirendelés időtartama nem haladhatja meg a naptári évenkénti ötven munkanapot. A kormányhivatalok közötti kirendelés történhet keretmegállapodás formájában is.
+c) ha a hatósági feladat ellátása más helységben lévő kormányhivatalnál történő munkavégzéssel oldható csak meg, a kirendelés időtartama nem haladhatja meg a naptári évenkénti ötven munkanapot. A kormányhivatalok közötti kirendelés történhet keretmegállapodás formájában is.
 
 (3) A kormányhivatalok közötti kirendelés során az alapvető munkáltatói jogokat a kirendelő hivatali szervezetének vezetője és a kirendelés helye szerinti kormányhivatal az alábbiak szerint gyakorolja:
 

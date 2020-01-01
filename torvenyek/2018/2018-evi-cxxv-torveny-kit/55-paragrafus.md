@@ -14,7 +14,7 @@ c) kormányzati érdekből történő kirendelésére került sor, vagy
 
 d) külszolgálati kirendelésére került sor.
 
-(4) A Kormány a kormányzati igazgatási szerv által ellátandó közfeladatok változása esetén a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyet határozatával átcsoportosíthatja egy másik kormányzati igazgatási szervhez.
+(4) A Kormány a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyet határozatával átcsoportosíthatja egy másik kormányzati igazgatási szervhez.
 
 (4a) A Kormány az érintett kormányzati igazgatási szerveket vezető, irányító vagy felügyelő miniszterek közös javaslatára – az 54. § (3) bekezdése szerinti vezényléssel vagy kirendeléssel betöltött álláshelyek kivételével – két kormányzati igazgatási szerv azonos besorolási kategóriájú álláshelyét határozatával kormányrendeletben meghatározottak szerint megcserélheti egymással azzal, hogy a csere nem érinti az álláshelyeken fennálló jogviszonyok fennállását. Az álláshelyek cseréjét követően a munkáltatói jogkör gyakorlója szükség szerint módosítja az álláshely betöltésének feltételeit és az álláshelyen ellátandó feladatokat.
 

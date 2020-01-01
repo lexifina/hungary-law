@@ -10,7 +10,9 @@ b) a pótszabadságot – az a) pontra és a (6) bekezdésben foglaltakra tekint
 
 ha az esedékesség éve eltelt.
 
-(3) A (2) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe.
+(2a) Ha a kormánytisztviselő táppénz, szülési szabadság, vagy a gyermek, illetve az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság miatt nem tudja az esedékesség évében a szabadságát igénybe venni, az akadályoztatás megszűnésétől számított harminc napon belül – az esedékesség évét követően is – igénybe veheti a szabadságot.
+
+(3) A (2) és (2a) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe.
 
 (4) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen, ha az alapszabadság kiadása miatt
 
@@ -36,7 +38,7 @@ nem biztosítható.
 
 (12) A szabadság megváltásával kapcsolatos kormánytisztviselői igény elévülése a kormányzati szolgálati jogviszony megszűnésének napján kezdődik.
 
-(13) A kormányzati szolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) a jogviszony megszűnését követő 40. napon kell megváltani.
+(13) A kormányzati szolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) a jogviszony megszűnését követő negyvenedik napon kell megváltani.
 
 (14) Annak a kormánytisztviselőnek, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
 
@@ -52,6 +54,6 @@ nem biztosítható.
 
 (20) Ha a szabadság mértékét érintő változásra év közben kerül sor, akkor a kormánytisztviselő számára az alapszabadság arányos része jár, illetve a pótszabadság arányos része vehető igénybe.
 
-(21) A kormánytisztviselőnek a szabadság kivételére vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a kormánytisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a kormánytisztviselő erről haladéktalanul értesíti a munkáltatói jogkör gyakorlóját. Ebben az esetben a munkáltatói jogkör gyakorlója a szabadságot a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A kormánytisztviselő a hivatali szervezet vezetőjének felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
+(21) A kormánytisztviselőnek a szabadság kivételére vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a kormánytisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a kormánytisztviselő erről haladéktalanul értesíti a munkáltatói jogkör gyakorlóját. Ebben az esetben a munkáltatói jogkör gyakorlója a szabadságot a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A kormánytisztviselő a munkáltatói jogkör gyakorlójának felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
 
-(22) Ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően.
+(22) Ha a kormánytisztviselő a gyermek vagy az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani a gyermek vagy az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság megszűnését követően.

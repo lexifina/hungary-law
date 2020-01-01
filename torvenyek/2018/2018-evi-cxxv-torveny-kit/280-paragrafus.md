@@ -30,11 +30,11 @@
 
 12. heti pihenő- vagy munkaszüneti nap: a munkanap fogalma megfelelően irányadó a heti pihenő- vagy a munkaszüneti nap meghatározása tekintetében is, azzal, hogy a hét óra és huszonkét óra közötti időtartamot heti pihenő- vagy a munkaszüneti napnak kell tekinteni;
 
-13. hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbefogadó, mostoha- és a nevelőszülő; az örökbefogadott, mostoha- és a nevelt gyermek; a testvér; a házastárs, az élettárs, a bejegyzett élettárs, a jegyes; a házastársnak, a bejegyzett élettársnak egyeneságbeli rokona, testvére, valamint a testvér házastársa, bejegyzett élettársa;
+13. hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbefogadó, mostoha- és a nevelőszülő; az örökbefogadott, mostoha- és a nevelt gyermek; a testvér; a házastárs, az élettárs, a bejegyzett élettárs; a házastársnak, a bejegyzett élettársnak egyeneságbeli rokona, testvére, valamint a testvér házastársa, bejegyzett élettársa;
 
 14. kompetenciavizsgálat: a pályázóval szemben a különböző álláshelyekre előírt követelmények és a pályázó tényleges készségeinek és képességeinek összevetése, munkaalkalmasságának felmérése, amely során személyes interjú, alkalmassági teszt, értékelő központ alkalmazható;
 
-15. kormánytisztviselő: a 2. §-ban felsorolt kormányzati igazgatási szervek feladat- és hatáskörében eljáró szakmai vezető és ügyintéző, aki előkészíti a kormányzati igazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza;
+15. kormánytisztviselő: a 2. §-ban felsorolt kormányzati igazgatási szervek feladat- és hatáskörében eljáró szakmai felsővezető és szakmai vezető és ügyintéző, aki előkészíti a kormányzati igazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza;
 
 16. közigazgatási szerv: a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szerv és a kormányzati igazgatási szerv;
 
@@ -86,11 +86,7 @@ d) a nevelőszülő és a helyettes szülő;
 
 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony.
 
-(2) A Nyolcadik Rész alkalmazásában:
-
-1. kormányzati ügykezelő: az, aki kormányhivatalnál közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el;
-
-2. pályakezdő kormánytisztviselő: az, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzését követően egy éven belül első foglalkoztatási jogviszonyként kormányzati szolgálati jogviszonyt létesít.
+(2)
 
 (3) E törvény alkalmazásában a kormánytisztviselő nyugdíjasnak minősül, ha
 

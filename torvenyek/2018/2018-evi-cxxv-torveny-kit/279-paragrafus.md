@@ -2,6 +2,8 @@
 
 (1) A kormányzati igazgatási szerv feladatainak ellátására – a (2) és (3) bekezdésben foglaltak figyelembevételével – munkaviszony is létesíthető.
 
+(1a) A munkavállaló munkaszerződésében rögzíteni kell a munkavállaló álláshelyének azonosítóját. A munkavállaló munkaköri leírásában meg kell határozni a munkavállaló álláshelyén a munkavállaló által ellátandó feladatokat. A munkavállaló munkaviszonyára az 59. § alkalmazandó azzal, hogy az Mt. 58. §-ától eltérően a más álláshelyre helyezés esetén a munkáltató szerv egyoldalúan is jogosult a munkaszerződést módosítani, azzal, hogy ez esetben a munkavállaló munkaviszonyára a 89. § (3) bekezdése megfelelően alkalmazandó.
+
 (2) A kormányzati igazgatási szervnél munkaviszony keretében ellátható feladatokat a kormányzati igazgatási szerv szabályzata határozza meg.
 
 (3) Munkaviszony bármely, a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyen vagy a központosított álláshelyállományból a kormányzati igazgatási szerv számára a Kormány által betölteni engedélyezett álláshelyen létrehozható, függetlenül annak besorolásától.
@@ -12,4 +14,6 @@
 
 (6) A munkaviszony büntetlen előéletű, cselekvőképes, az álláshelyre megállapított képesítési követelménynek, illetve biztonsági feltételeknek megfelelő személlyel létesíthető. Nem létesíthető kormányzati igazgatási szervnél munkaviszony azzal, aki állam elleni bűncselekmény (Btk. XXIV. Fejezet, illetve az 1978. évi IV. törvény X. fejezet), igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet) miatt indult büntetőeljárás hatálya alatt áll. A munkavállaló írásbeli titoktartási nyilatkozatot tesz, amelynek megtételéig nem állítható munkába.
 
-(7) Az álláshelyen létrehozott munkaviszony tekintetében a 107. § (1) bekezdés c), f) és h) pontját megfelelően alkalmazni kell.
+(7) A munkaviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, nem áll a (6) bekezdésben meghatározott büntetőeljárás hatálya alatt, továbbá, hogy nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a munkaviszonya létesítését nem teszi lehetővé. A hatósági bizonyítvánnyal történő igazolásra a 84. §-ban foglaltakat alkalmazni kell.
+
+(8) A kormányzati igazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselők 3. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra egyebekben a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a kormányzati igazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő 5 évig kezeli.

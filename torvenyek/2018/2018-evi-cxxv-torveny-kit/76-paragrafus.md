@@ -14,7 +14,7 @@
 
 (5) Az MKK szervezete képviseleti, ügyintézői testületekből, valamint tisztségviselőkből és ügyintézői szervből áll.
 
-(6) Az MKK legfőbb képviseleti, döntéshozó szerve az Országos Közgyűlés.
+(6) Az MKK legfőbb képviseleti, döntéshozó szerve az Országos Küldöttgyűlés.
 
 (7) Az MKK legfőbb ügyintézői testülete az Országos Elnökség (a továbbiakban: Elnökség).
 
@@ -22,12 +22,12 @@
 
 a) az elnök, az alelnökök;
 
-b) az Országos Pénzügyi Ellenőrző Bizottság elnöke;
+b) tanácskozási joggal a Felügyelő Bizottság elnöke;
 
 c) az Országos Etikai Bizottság elnöke.
 
-(9) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésreállási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
+(9) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Küldöttgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésreállási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
 
-(10) Az elnök irányítja az MKK Országos Irodáját.
+(10) Az elnök irányítja az MKK Országos Irodáját (a továbbiakban: Országos Iroda) és az Országos Irodát vezető főtitkár tevékenységét.
 
-(11) Az MKK szervezetére, valamint működésére vonatkozó szabályokat a Kormány rendeletben határozza meg.
+(11)

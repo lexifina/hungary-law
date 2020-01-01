@@ -34,7 +34,7 @@ g) a képzésben való részvételhez szükséges időre,
 
 h) az önkéntes, illetve létesítményi tűzoltói szolgálat ellátása időtartamára,
 
-i) a bíróság, hatóság, közszolgálati döntőbizottsági vagy etikai eljárás lefolytatása során az eljárásban való, vagy az MKK Országos Közgyűlése és más képviseleti, ügyintézői testülete ülésén történő személyes részvételhez szükséges időtartamra,
+i) a bíróság, hatóság, közszolgálati döntőbizottsági vagy etikai eljárás lefolytatása során az eljárásban való, vagy az MKK Országos Küldöttgyűlése és más képviseleti, ügyintézői testülete ülésén történő személyes részvételhez szükséges időtartamra,
 
 j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
 

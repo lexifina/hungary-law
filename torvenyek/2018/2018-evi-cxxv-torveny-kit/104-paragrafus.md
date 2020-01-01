@@ -18,17 +18,23 @@ e) a kormánytisztviselő politikai felsővezetővé vagy politikai vezetővé t
 
 f) ha a kormánytisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg;
 
-g) ha a határozatlan időre kinevezett kormánytisztviselő állam- vagy kormányközi nemzetközi szervezetnél vagy az Európai Unió szerveinél jogviszonyt létesít;
+g) ha a kormánytisztviselő állam- vagy kormányközi nemzetközi szervezetnél vagy az Európai Unió szerveinél jogviszonyt létesít;
 
 h) ha a kormánytisztviselő a társadalombiztosítási szabályok alapján az öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte, kivéve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény szerint egészségügyi dolgozónak minősülő kormánytisztviselőt, valamint a kormányzati igazgatási szerv különösen fontos érdekére tekintettel, ha a Kormány engedélyezte és a jogviszonyt a kormányzati igazgatási szerv fenntartja;
 
 i) jogviszonyváltáskor a 114. § (3) bekezdése szerinti esetben;
 
-j) a 89. § (6) bekezdése szerinti esetben.
+j) abban az esetben, ha a 89. § (6) bekezdésének alkalmazása során az ott megállapított határidő leteltéig a fogadó kormányzati igazgatási szerv nem állítja ki az új beosztási okiratot,
+
+k) ha a Kormány döntése alapján a központosított álláshelyállományból származó álláshely visszakerül a központosított álláshelyállományba,
+
+l) ha a Kormány az álláshelyet az 55. § (2) bekezdése alapján a központosított álláshelyállományba helyezi,
+
+m) ha a Kormány az alaplétszám részét képező álláshelyet megszünteti vagy az az 52/A. § alapján megszűnik.
 
 (2) Az (1) bekezdés c) pontjában meghatározott életkori korlát alól a miniszterelnök felmentést adhat, ha a kormánytisztviselői kinevezés a tartós külszolgálathoz kapcsolódó külképviselet-vezetői megbízásához szükséges.
 
-(3) Ha a kormányzati szolgálati jogviszony az (1) bekezdés d) pontjában foglaltak alapján szűnik meg, a kormánytisztviselő részére annak megfelelő összeget kell kifizetni, amely felmentése esetén a munkavégzési kötelezettség alóli mentesítés idejére járó illetményének felel meg.
+(3) Ha a kormányzati szolgálati jogviszony az (1) bekezdés d) pontjában foglaltak alapján szűnik meg, a kormánytisztviselő részére annak megfelelő összeget kell kifizetni, amely felmentése esetén a felmentési időre járó illetményének felel meg.
 
 (4) A kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés h) pontja szerinti feltétel ellenőrzése céljából a nyugdíjbiztosítási igazgatási szervnél a megszerzett szolgálati idejéről hatósági bizonyítvány kiállítását kéri. Nem kell kérelmezni a hatósági bizonyítvány kiállítását, ha a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozata az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét igazolja. A kormánytisztviselő a szolgálati időről kiállított hatósági bizonyítvány vagy más határozat másolatát – a rá irányadó öregségi nyugdíjkorhatár betöltését legalább három hónappal megelőzően – benyújtja a kormányzati igazgatási szervnek, amely az így tudomására jutott személyes adatokat az (1) bekezdés h) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából az e törvényben meghatározott ideig kezelheti.
 
@@ -38,7 +44,7 @@ j) a 89. § (6) bekezdése szerinti esetben.
 
 (7) Ha a kormányzati igazgatási szerv a kormánytisztviselő jogviszonyát nem tartja fenn, a kormánytisztviselő kormányzati szolgálati jogviszonya az erről hozott döntés kézhezvétele hónapjának vagy – ha az későbbi időpontra esik – annak a hónapnak az utolsó napján szűnik meg, amikor a kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.
 
-(8) Ha a határozatlan időre kinevezett kormánytisztviselő
+(8) Ha a kormánytisztviselő
 
 a) állam- vagy kormányközi nemzetközi szervezetnél, vagy
 
@@ -46,6 +52,6 @@ b) az Európai Unió szerveinél
 
 jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont szerinti jogviszony kezdete előtti napon megszűnik.
 
-(9) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya megszűnését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
+(9) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya megszűnését követő 30 napon belül első jogviszonyként újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
 
-(10) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya megszűnését követő 30 napon belül a köztisztviselői, a közalkalmazotti, a hivatásos szolgálati, a katonai szolgálati, a honvédelmi alkalmazotti vagy a rendvédelmi igazgatási szolgálati jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervnél ilyen jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni.
+(10) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, közalkalmazotti, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszűnését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát e törvény alkalmazásában folyamatosnak kell tekinteni.

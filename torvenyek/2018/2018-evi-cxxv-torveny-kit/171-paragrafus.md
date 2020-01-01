@@ -10,4 +10,4 @@
 
 (5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el.
 
-(6) A közalkalmazottak jogállásáról szóló törvényben, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben szabályozott Országos Közszolgálati Érdekegyeztető Tanács az e törvény hatálya alá tartozó közszolgálati tisztviselők érdekegyeztető fóruma is.
+(6) A közalkalmazottak jogállásáról szóló törvényben, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben szabályozott Országos Közszolgálati Érdekegyeztető Tanács az e törvény hatálya alá tartozó kormánytisztviselők érdekegyeztető fóruma is.

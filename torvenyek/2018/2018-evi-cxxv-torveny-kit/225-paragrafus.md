@@ -6,4 +6,4 @@
 
 (3) Ha az összeférhetetlenségi eljárás ideje alatt a közigazgatási államtitkár, illetve a helyettes államtitkár a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását mellőzni kell.
 
-(4) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységre, a nevelőszülői foglalkoztatási jogviszonyra, továbbá a közérdekű önkéntes tevékenységre a közigazgatási államtitkár és a helyettes államtitkár tekintetében a 95. § (6)–(9) bekezdését kell alkalmazni.
+(4)

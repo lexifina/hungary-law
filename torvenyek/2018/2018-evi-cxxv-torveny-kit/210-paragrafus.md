@@ -1,6 +1,6 @@
 ### 210. § [A kormánymegbízott illetménye és juttatásai]
 
-(1) A kormánymegbízott illetményét a kormányhivatal irányítására kormányrendeletben kijelölt miniszter állapítja meg. A kormánymegbízott havi illetménye nem haladhatja meg a 230. § szerinti illetmény felső határát. A kormánymegbízott kormányrendeletben meghatározott juttatásokra jogosult.
+(1) A kormánymegbízott illetményét a kormányhivatal irányítására kormányrendeletben kijelölt miniszter állapítja meg. A kormánymegbízott havi illetménye megegyezik a közigazgatási államtitkár illetményével. A kormánymegbízott kormányrendeletben meghatározott juttatásokra jogosult.
 
 (2) A kormánymegbízott a megbízatásának időtartama és a miniszterelnök megbízatásának megszűnése esetén az új Kormány megalakulásáig tartó hatáskörgyakorlás időtartama alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából kormányzati szolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 

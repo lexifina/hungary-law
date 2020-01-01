@@ -1,6 +1,6 @@
 ### 248. § [A főigazgatóra alkalmazandó szabály, a főigazgató kinevezése]
 
-(1) A főigazgató kormányzati szolgálati jogviszonyára – az e fejezetben foglalt eltérésekkel – a vezetői álláshelyet betöltő kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(1) A főigazgató kormányzati szolgálati jogviszonyára – az e fejezetben foglalt eltérésekkel – a főosztályvezetőre vonatkozó szabályokat kell alkalmazni.
 
 (2) A kormányhivatal hivatali szervezetét vezető főigazgatót a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 

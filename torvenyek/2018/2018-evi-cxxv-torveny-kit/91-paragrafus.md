@@ -2,7 +2,7 @@
 
 ## A KORMÁNYZATI SZOLGÁLATI JOGVISZONY TARTALMA
 
-### 91. § [A munkáltató kötelezettségei]
+### 91. § [A foglalkoztató kormányzati igazgatási szerv kötelezettségei]
 
 (1) A kormányzati igazgatási szerv köteles
 

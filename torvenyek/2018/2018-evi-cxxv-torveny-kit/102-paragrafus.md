@@ -1,6 +1,6 @@
 ### 102. § [A tartós külszolgálat]
 
-(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a kormánytisztviselő a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba (a továbbiakban együtt: kihelyező szerv) a kormányzati igazgatási szerv döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető (a továbbiakban: külszolgálati kirendelés).
+(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a kormánytisztviselő a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba, a Magyarország Állandó NATO Képviseletére, Magyarország Állandó EBESZ Képviseletére (a továbbiakban együtt: kihelyező szerv) a kormányzati igazgatási szerv döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető (a továbbiakban: külszolgálati kirendelés).
 
 (2) A külszolgálati kirendelés idejére a kormánytisztviselő a kihelyező szerv állományába kerül, beosztási okiratát módosítani kell, a feladatellátás idejének leteltét követően a kormányzati igazgatási szerv állományába visszakerül.
 

@@ -64,7 +64,7 @@ d) amihez a jogosult a károkozás folytán megtakarított kiadások eredmények
 
 (24) A kormányzati igazgatási szerv a károsultat tizenöt napon belül értesíti, ha a kártérítés mértékének módosítását megalapozó illetményváltozást hajtott végre.
 
-(25) A kormányzati igazgatási szerv a károkozásról való tudomásszerzéstől számított tizenöt napon belül köteles a károsultat felhívni kárigénye előterjesztésére. A kormányzati igazgatási szerv ó a kárigény bejelentésére tizenöt napon belül írásbeli, indokolt választ ad.
+(25) A kormányzati igazgatási szerv a károkozásról való tudomásszerzéstől számított tizenöt napon belül köteles a károsultat felhívni kárigénye előterjesztésére. A kormányzati igazgatási szerv a kárigény bejelentésére tizenöt napon belül írásbeli, indokolt választ ad.
 
 (26) Az elévülés szempontjából önállónak kell tekinteni
 

@@ -6,6 +6,8 @@
 
 (3) A központi hivatal szervezeti és működési szabályzatát a központi hivatalt irányító miniszter normatív utasításban adja ki.
 
+(3a) Azon központi hivatal esetében, amely a feladatát nem az ország egész területére kiterjedő illetékességgel látja el, törvény vagy kormányrendelet a (2) és (3) bekezdésben foglaltaktól eltérő szabályt állapíthat meg.
+
 (4) A központi hivatal szervezetére – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a szakmai felsővezetőkre vonatkozó rendelkezések kivételével a minisztérium szervezetére vonatkozó rendelkezéseket kell alkalmazni.
 
 (5) A központi hivatal területi szervekkel akkor rendelkezik, ha erre a központi hivatalt létrehozó törvény vagy kormányrendelet kifejezetten lehetőséget ad.

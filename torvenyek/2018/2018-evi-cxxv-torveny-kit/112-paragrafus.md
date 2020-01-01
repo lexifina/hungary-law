@@ -1,6 +1,14 @@
 ### 112. § [A végkielégítés]
 
-(1) A kormánytisztviselőt felmentése és a kormányzati igazgatási szerv jogutód nélküli megszűnése esetén – a (10) bekezdésben foglalt kivétellel – végkielégítés illeti meg.
+(1) A kormánytisztviselőt – a (10) bekezdésben foglalt kivétellel – végkielégítés illeti meg
+
+a) felmentése esetén,
+
+b) a kormányzati igazgatási szerv jogutód nélküli megszűnése esetén,
+
+c) a jogviszonyának a 104. § (1) bekezdés k) pontja alapján történő megszűnése esetén, ha a központosított álláshelyállományból származó álláshely a Kormány döntése alapján az 53. § (4) bekezdése szerinti engedélyben meghatározott határidőnél korábban kerül vissza a központosított álláshelyállományba, vagy a Kormány a központosított álláshelyállományba tartozó álláshely betöltését határozatlan időre engedélyezte,
+
+d) a jogviszonyának a 104. § (1) bekezdés l) és m) pontja alapján történő megszűnése esetén.
 
 (2) A végkielégítés összege, ha a kormánytisztviselő kormányzati szolgálati jogviszonyban töltött ideje legalább
 
@@ -34,11 +42,11 @@ b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, k
 
 c) átminősítés esetén a hivatásos szolgálati vagy katonai szolgálati viszonyban,
 
-d) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti szervnél munkaviszonyban
+d) a Kttv. szerinti szervnél munkaviszonyban
 
 eltöltött idő is. A b) és d) pont azzal az eltéréssel alkalmazandó, hogy a kormánytisztviselő nem jogosult végkielégítésre azon időtartam vonatkozásában, amely alapján korábbi jogviszonyának megszűnésekor vagy megszüntetésekor végkielégítésben részesült.
 
-(7) A (6) bekezdésben meghatározottak kivételével a végkielégítésre való jogosultság feltétele, hogy a kormányzati szolgálati jogviszony folyamatosan fennálljon a jogviszony megszüntetéséig.
+(7)
 
 (8) A végkielégítés összegének a felére jogosult a kormánytisztviselő, ha felmentésére azért került sor, mert a 107. § (9) bekezdés b) pontja szerinti másik álláshelyen történő foglalkoztatásához nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg, így különösen, ha
 

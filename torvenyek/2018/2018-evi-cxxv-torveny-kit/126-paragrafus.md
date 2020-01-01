@@ -6,4 +6,4 @@
 
 (3) Az otthoni munkavégzésre irányuló megállapodásban rögzíteni kell az otthoni munkavégzés idejét, az egyedileg elvégzendő feladatokat, továbbá a kapcsolattartás és az elvégzett munka leadásának módját és időpontját.
 
-(4) Az otthoni munkavégzés részletes szabályait a Kormány rendeletben, továbbá ennek keretei között a munkáltatói jogkör gyakorlója a közszolgálati szabályzatban állapítja meg.
+(4) Az otthoni munkavégzés részletes szabályait a Kormány rendeletben, továbbá ennek keretei között a hivatali szervezet vezetője a közszolgálati szabályzatban állapítja meg.

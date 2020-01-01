@@ -4,7 +4,7 @@
 
 ### 99. § [A kirendelésre és a belföldi kiküldetésre vonatkozó közös szabályok]
 
-(1) A kormánytisztviselő kormányzati érdekből történő kirendeléssel, külszolgálati kirendeléssel és belföldi kiküldetéssel a kinevezéstől eltérően is foglalkoztatható.
+(1) A kormánytisztviselő kormányzati érdekből történő kirendeléssel, külszolgálati kirendeléssel, belföldi és külföldi kiküldetéssel, továbbá kormányhivatalok közötti kirendeléssel ideiglenesen a kinevezéstől eltérően is foglalkoztatható. A kinevezéstől eltérő ideiglenes foglalkoztatásról szóló írásbeli munkáltatói intézkedésben a Kormány rendeletében meghatározottakról kell rendelkezni.
 
 (2) A kinevezéstől eltérő foglalkoztatás a kormánytisztviselőre nézve – különösen a korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat. A kinevezéstől eltérő foglalkoztatás abban az esetben rendelhető el, ha a másik álláshelyhez tartozó feladat ellátása megfelel a kormánytisztviselő iskolai végzettségének, szakképzettségének vagy szakképesítésének.
 

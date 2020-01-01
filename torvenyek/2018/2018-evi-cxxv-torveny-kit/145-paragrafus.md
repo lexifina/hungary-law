@@ -20,7 +20,7 @@ a) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvé
 
 b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 
-c) a hivatásos szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony időtartamát,
+c) a hivatásos szolgálati jogviszony, szerződéses vagy hivatásos katonai szolgálati viszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony időtartamát,
 
 d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban töltött időt,
 
@@ -28,10 +28,12 @@ e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztat
 
 f) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
 
-g) a 104. § (10) bekezdése szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
+g) a 104. § (9) bekezdése és a 105. § (2) bekezdése szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot,
 
-h) az állami vezetői szolgálati jogviszonyban töltött időt
+h) a 89. § (6) bekezdése szerinti munkahelyváltás esetén a nyugvás időtartamát, és
+
+i) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
 
 kell figyelembe venni.
 
-(4) A kormánytisztviselő nem jogosult szolgálati elismerésre (jubileumi jutalom), ha másik foglalkoztatási jogviszonyban azt már megkapta, ugyancsak nem jogosult, amennyiben álláshelyi elismerésben részesült.
+(4) A kormánytisztviselő nem jogosult a szolgálati elismerésnek arra a fokozatára, amelyben másik foglalkoztatási jogviszonyban szolgálati idő elismerésként vagy jubileumi jutalomként részesült.

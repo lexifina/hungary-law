@@ -1,3 +1,3 @@
-### 60. § [A kormányzati igazgatási szerv álláshelyekkel kapcsolatos nyilvántartása]
+### 60. § [A kormányzati igazgatási szervnek az álláshely-nyilvántartással kapcsolatos feladata]
 
-Az álláshely vonatkozásában a kormányzati igazgatási szerv a Kormány rendeletében meghatározott tartalmú nyilvántartást vezeti.
+A kormányzati igazgatási szervnek a jogosultságkezelési nyilvántartásban szereplő kormánytisztviselője a Kormány rendeletében meghatározottak szerint közreműködik az álláshely-nyilvántartásban szereplő adatok kezelésében és az álláshely-nyilvántartással kapcsolatos feladatok ellátásában.

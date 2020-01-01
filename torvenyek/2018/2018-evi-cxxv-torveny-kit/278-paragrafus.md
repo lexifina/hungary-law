@@ -18,12 +18,12 @@ b) a felmondási időből hátralévő időre távolléti díjra nem jogosult,
 
 c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielégítés alapjául szolgáló időtartam számítása során a felmondással megszüntetett jogviszony alapján végkielégítésre jogosító idejét is figyelembe kell venni.
 
-(5) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyát – az Mt.-ben meghatározottakon túl – a munkáltató felmondással megszüntetheti, ha
+(5) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyát – az Mt.-ben meghatározottakon túl – a munkáltató felmondással megszüntetheti
 
-a) a munkavállaló álláshelye megszűnik;
+a) a 107. § (1) bekezdés a) és b) pontja szerinti esetben,
 
-b) a Kormány döntése alapján a központosított álláshelyállományból származó álláshely visszakerül a központosított álláshelyállományba,
-
-c) a munkavállaló a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja.
+b) ha a munkavállaló a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja.
 
 (6) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára az Mt. 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 110. §-át, 116. §-át és 137. §-át kell alkalmazni.
+
+(7) Az e törvény szerinti szabályzat és közszolgálati szabályzat a munkavállalók esetében az Mt. 17. §-a szerinti munkáltatói szabályzatnak minősül.

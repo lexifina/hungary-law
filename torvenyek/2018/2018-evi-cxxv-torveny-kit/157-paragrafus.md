@@ -6,4 +6,6 @@
 
 (3) A kormánytisztviselőnek gyermeke személyes gondozása érdekében – az (1) bekezdésben foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának időtartama alatt.
 
+(3a) A kormánytisztviselőnek unokája személyes gondozása érdekében fizetés nélküli szabadság jár a gyermekgondozási díj folyósításának időtartama alatt.
+
 (4) A kormánytisztviselőnek hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.

@@ -1,6 +1,6 @@
 ### 97. § [A képzés]
 
-(1) A kormánytisztviselő köteles és jogosult a Kormány által előírt képzésben, továbbképzésben, átképzésben vagy közigazgatási vezetőképzésben (a továbbiakban együtt: képzés) részt venni.
+(1) A kormánytisztviselő köteles és jogosult a Kormány, a kormányzati igazgatási szervet vezető, irányító vagy felügyelő miniszter, illetve a munkáltatói jogkör gyakorlója által előírt képzésben, továbbképzésben, átképzésben vagy közigazgatási vezetőképzésben (a továbbiakban együtt: képzés) részt venni.
 
 (2) A képzést – ha jogszabály másként nem rendelkezik – a Nemzeti Közszolgálati Egyetem biztosítja.
 

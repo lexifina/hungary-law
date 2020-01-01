@@ -12,7 +12,7 @@
 
 (4) A központosított álláshelyállományba tartozó álláshely betöltését – a kormányzati személyügyi igazgatásra kijelölt szerv közreműködésével – a Kormány határozatával határozott vagy határozatlan időre engedélyezheti.
 
-(5) A Kormány a (4) bekezdés szerinti engedélyezés során – az 57. § (1) és (2) bekezdése szerinti besorolási kategóriák figyelembevételével – megállapítja a központosított álláshely-állományba tartozó álláshely besorolását, kivéve, ha a Kormány az álláshely kormányhivatal általi betöltését engedélyezi.
+(5) A Kormány a (4) bekezdés szerinti engedélyezés során – az 57. § (1) és (2) bekezdése szerinti besorolási kategóriák figyelembevételével – megállapítja a központosított álláshely-állományba tartozó álláshely besorolását.
 
 (6) A központosított álláshelyállományba tartozó álláshely – a Kormány eltérő döntése hiányában – a (4) bekezdés szerinti engedéllyel nem válik a kormányzati igazgatási szerv alaplétszámának részévé.
 

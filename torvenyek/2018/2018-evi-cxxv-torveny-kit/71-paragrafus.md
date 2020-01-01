@@ -2,6 +2,8 @@
 
 (1) A kormányzati szolgálati jogviszonyt érintő lényeges megállapodást és jognyilatkozatot írásba kell foglalni.
 
+(1a) A jognyilatkozatokat a tartalmuk szerint kell elbírálni.
+
 (2) A kormánytisztviselő kérésére a kormányzati igazgatási szervnek a jognyilatkozatát akkor is írásba kell foglalnia, ha az egyébként nem kötelező.
 
 (3) A megállapodást, ha írásba kellett foglalni, módosítani vagy megszüntetni is csak írásban lehet.
@@ -20,7 +22,7 @@
 
 (10) Az írásbeli jognyilatkozat akkor minősül közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
 
-(11) A kinevezési okmányt, a kinevezés módosítását, a jogviszony megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
+(11) A kinevezési okmánynak a beosztási okirat részét és annak módosítását, a jogviszony megszüntetésével kapcsolatos jognyilatkozatot, az összeférhetetlenség megszüntetésére irányuló felszólítást és a fizetési felszólítást a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kell kiadmányozni.
 
 (12) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
@@ -35,3 +37,5 @@ kézbesítettnek kell tekinteni.
 (14) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
 
 (15) Az írásbeli jognyilatkozatokat a (8) és (11) bekezdés szerint kell kiadmányozni és a (10) bekezdés, valamint a 72. § szerint kézbesíteni.
+
+(16) A (10) bekezdés rendelkezéseit a (11) bekezdésben nevesített munkáltatói intézkedést tartalmazó elektronikus dokumentumokra nem kell alkalmazni.

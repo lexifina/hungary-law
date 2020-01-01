@@ -28,7 +28,7 @@ d) vezető-kormányfőtanácsos besorolásnál kilenc munkanap
 
 pótszabadságot vehet igénybe.
 
-(4) A kormányzati főhivatal és a központi hivatal kormánytisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
+(4) A kormányzati főhivatal, a központi hivatal, valamint a kormányhivatal kormánytisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
 
 a) hivatali tanácsos besorolásnál három munkanap,
 
@@ -69,3 +69,5 @@ c) fogyatékossági támogatásra jogosult, vagy
 d) vakok személyi járadékára jogosult,
 
 évenként öt munkanap pótszabadságot vehet igénybe.
+
+(9) Az a kormánytisztviselő, aki vezetői pótszabadságra és a 155. § (1) és (2) bekezdése szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente 3 munkanap pótszabadságot is igénybe vehet.

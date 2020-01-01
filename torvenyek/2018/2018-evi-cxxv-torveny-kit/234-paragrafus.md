@@ -1,6 +1,6 @@
 ### 234. § [A helyettes államtitkár kinevezése]
 
-(1) A minisztérium helyettes államtitkárát a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkárát a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök határozatlan időre nevezi ki.
+(1) A minisztérium helyettes államtitkárát a miniszter javaslatára, a Miniszterelnöki Kormányiroda helyettes államtitkárát a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök határozatlan időre nevezi ki.
 
 (2) A miniszter a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára véleményének kikérését követően a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján terjeszti javaslatát a miniszterelnök elé. A Miniszterelnöki Kormányiroda közigazgatási államtitkára – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára véleményének kikérését követően – közvetlenül terjeszti javaslatát a miniszterelnök elé.
 

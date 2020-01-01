@@ -6,7 +6,7 @@ a) az 54. § (1) bekezdése szerinti jogviszony létesítésére jogszabályban 
 
 b) a munkáltatói jogkör gyakorlója által a (2) bekezdés szerint meghatározott szakmai követelményeknek.
 
-(2) A munkáltatói jogkör gyakorlója – az álláshelyen ellátandó feladat és a (3) bekezdés szerinti kormányrendeletben foglaltak figyelembevételével – szabályzatában meghatározza az álláshely betöltésének szakmai feltételeit, így különösen:
+(2) A munkáltatói jogkör gyakorlója – az álláshelyen ellátandó feladat és a (3) bekezdés szerinti kormányrendeletben foglaltak figyelembevételével – meghatározza az álláshely betöltésének szakmai feltételeit, így különösen:
 
 a) az iskolai végzettséget,
 

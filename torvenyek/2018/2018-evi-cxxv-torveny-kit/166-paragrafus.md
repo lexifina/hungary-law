@@ -30,7 +30,7 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (7) Azonnal meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
 
-(8) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. (8) A visszatartott összeget a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve, ha a hivatalvesztést kimondó határozat véglegessé vált.
+(8) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. A visszatartott összeget a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve, ha a hivatalvesztést kimondó határozat véglegessé vált.
 
 (9) A kormányzati igazgatási szerv megrovás fegyelmi büntetést fegyelmi eljárás lefolytatása nélkül is kiszabhat, amennyiben a tényállás megítélése egyszerű és a kötelezettségszegést a kormánytisztviselő elismeri.
 

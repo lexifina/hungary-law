@@ -16,7 +16,7 @@ c) a közeli hozzátartozót megillető társadalombiztosítási, szociális és
 
 (3) A közszolgálati személyügyi nyilvántartásban a kormánytisztviselő 3. mellékletben meghatározott személyes adatait kell kezelni.
 
-(4) A közszolgálati személyügyi nyilvántartást a kormányzati igazgatási szerv más személyes adatot tartalmazó nyilvántartásától elkülönítetten kell kezelni. A közszolgálati személyügyi nyilvántartás más személyes adatot tartalmazó nyilvántartással nem kapcsolható össze.
+(4) A közszolgálati személyügyi nyilvántartást a kormányzati igazgatási szerv más személyes adatot tartalmazó nyilvántartásától elkülönítetten kell kezelni. A közszolgálati személyügyi nyilvántartás más személyes adatot tartalmazó nyilvántartással – az álláshely-nyilvántartás kivételével – nem kapcsolható össze.
 
 (5) A közszolgálati személyügyi nyilvántartásban a 3. mellékletben meghatározott személyes adat – a (6) bekezdésben meghatározott kivétellel – a kormányzati szolgálati jogviszony fennállása alatt kezelhető.
 

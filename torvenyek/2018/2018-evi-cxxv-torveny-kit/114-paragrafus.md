@@ -1,6 +1,6 @@
 ### 114. § [A jogviszonyváltás]
 
-(1) Ha jogszabály rendelkezése folytán a kormányzati igazgatási szerv egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) az e törvény hatálya alól egy, a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervhez kerül, a kormányzati igazgatási szerv érintett szervezete, illetve tevékenysége keretében foglalkoztatott kormánytisztviselő kormányzati szolgálati jogviszonya – a (3), (4) és (9) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában közalkalmazotti jogviszonnyá alakul át és az általa betöltött álláshely a központi álláshely-állományba kerül.
+(1) Ha jogszabály rendelkezése folytán a kormányzati igazgatási szerv egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) az e törvény hatálya alól egy, a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervhez kerül, a kormányzati igazgatási szerv érintett szervezete, illetve tevékenysége keretében foglalkoztatott kormánytisztviselő kormányzati szolgálati jogviszonya – a (3), (4) és (9) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában közalkalmazotti jogviszonnyá alakul át és az általa betöltött álláshely a központosított álláshely-állományba kerül.
 
 (2) A jogviszony átalakulásáról az érintetteket az átvevő munkáltató az átalakulást követő harminc napon belül tájékoztatja.
 
@@ -26,4 +26,4 @@ c) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazn
 
 alakul át.
 
-(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati, hivatásos szolgálati vagy katonai szolgálati jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, rendvédelmi igazgatási szolgálati jogviszonnyá alakul át.
+(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati, hivatásos szolgálati vagy katonai szolgálati jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, rendvédelmi igazgatási szolgálati jogviszonnyá vagy munkaviszonnyá alakul át.

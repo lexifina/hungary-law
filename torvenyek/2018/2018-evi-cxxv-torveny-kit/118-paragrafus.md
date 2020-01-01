@@ -8,7 +8,7 @@
 
 (2) A munkaidő heti negyven óra, a napi munkaidő nyolc óra (általános teljes napi munkaidő), amelynek keretei között a munkáltatói jogkör gyakorlója meghatározhatja a munkavégzés kezdő és befejező időpontját (általános munkarend).
 
-(3) A kinevezés a (2) bekezdésben foglalt munkaidőnél rövidebb napi munkaidőt is megállapíthat azzal, hogy ebben az esetben az egyébként járó illetményt arányosan csökkenteni kell (részmunkaidő).
+(3) A kinevezés a (2) bekezdésben foglalt munkaidőnél rövidebb heti munkaidőt is megállapíthat azzal, hogy ebben az esetben az egyébként járó illetményt arányosan csökkenteni kell (részmunkaidő).
 
 (4) A munkáltatói jogkör gyakorlója a munkaidőt munkaidőkeretben is meghatározhatja.
 

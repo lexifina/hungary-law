@@ -6,17 +6,17 @@ a) a Kormány döntése alapján létszámcsökkentést kell végrehajtani;
 
 b) megszűnt a kormányzati igazgatási szervnek a kormánytisztviselő álláshelyén ellátott feladata;
 
-c) a kormánytisztviselő álláshelye átszervezés miatt megszűnik;
+c) a kormánytisztviselő által betöltött álláshelyen ellátandó feladat vagy a kormánytisztviselő által betöltött álláshely átszervezés miatt megszűnik
 
 d) a kormányzati igazgatási szerv a feladatok hatékonyabb biztosítása érdekében a kormánytisztviselő álláshelyére másik kormánytisztviselőt alkalmaz;
 
 e) a kormánytisztviselő nyugdíjasnak minősül;
 
-f) a Kormány döntése alapján a központosított álláshelyállományból származó álláshely visszakerül a központosított álláshelyállományba,
+f)
 
 g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
 
-h) a Kormány az alaplétszám részét képező álláshelyet megszünteti.
+h)
 
 (2) A kormányzati szolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
@@ -38,7 +38,7 @@ g) azt a kormánytisztviselő a 89. § (3) bekezdése vagy a 166. § (5) bekezd�
 
 (4) A kormányzati igazgatási szerv a határozatlan időtartamú jogviszony felmentéssel történő megszüntetését nem köteles indokolni, ha a kormánytisztviselő nyugdíjasnak minősül.
 
-(5) A (2) bekezdés b) pontjában foglalt nem megfelelő munkavégzés jogcímén a kormánytisztviselőt akkor kell felmenteni, ha a kormánytisztviselő átlag alatti vagy elfogadhatatlan teljesítményszintet ér el.
+(5) A (2) bekezdés b) pontjában foglalt nem megfelelő munkavégzés jogcímén a kormánytisztviselőt akkor kell felmenteni, ha a kormánytisztviselő a teljesítményértékelés eredményeként átlag alatti vagy elfogadhatatlan teljesítményszintet ér el.
 
 (6) A (2) bekezdés c) pontja értelmében a kormányzati igazgatási szerv a kormányzati szolgálati jogviszonyt – a (7) bekezdésben foglalt kivétellel – azonnali hatállyal megszünteti, ha foglalkoztatást kizáró ok jut a tudomására.
 
@@ -58,4 +58,4 @@ b) végzettségének, képzettségének, szakképesítésének és egészségi �
 
 (10) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
 
-(11) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonyának megszüntetését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
+(11)

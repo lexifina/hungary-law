@@ -2,13 +2,13 @@
 
 (1) Az MKK a feladatait az országos, valamint a fővárosban és a megyékben (a továbbiakban együtt: területi szint) működő szervezete útján látja el.
 
-(2) Az MKK tagjai a Kormány rendeletében és az MKK Alapszabályában meghatározott módon és feltételek szerint tagozatokat alakíthatnak, amelyek ellátják az Alapszabályban, illetve a kormányrendeletben meghatározott szervezet által átruházott feladatokat.
+(2)
 
 (3) Az MKK
 
 a) védi a Kormánytisztviselői Kar tekintélyét, testületeinek és tagjainak érdekeit, valamint a kormánytisztviselő jogait;
 
-b) megalkotja a hivatásetikai részletszabályokat, kialakítja – a Kormány rendeletében meghatározottak szerint – az etikai eljárás rendszerét, valamint lefolytatja az etikai eljárásokat;
+b) megalkotja a hivatásetikai részletszabályokat, kialakítja az etikai eljárás rendszerét, valamint lefolytatja az etikai eljárásokat;
 
 c) a kormánytisztviselő kérelmére etikai igazolást bocsát ki az MKK tagjai számára, amellyel igazolja, hogy az adott tag ellen etikai eljárás nincs folyamatban, valamint etikai büntetés hatálya alatt nem áll;
 
@@ -57,3 +57,5 @@ s) ellátja mindazokat a feladatokat, amelyeket törvény vagy kormányrendelet 
 (6) Az MKK tagja olyan tényt, információt, megoldást vagy adatot, amelyet a kormányzati igazgatási szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
 
 (7) Az MKK tagja a tevékenysége során tudomására jutott információkat csak a kormányzati igazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.
+
+(8) Az MKK tagnyilvántartását – a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság által üzemeltetett informatikai rendszerben – az Országos Iroda vezeti.

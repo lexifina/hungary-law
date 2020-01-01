@@ -18,7 +18,7 @@
 
 (9) Ha a jogviszony a kifizetés előtt megszűnt, az illetményt a kormánytisztviselőt foglalkoztató kormányzati igazgatási szerv köteles az esedékesség napján a kormánytisztviselő által megadott címre elküldeni. Az elküldés költségei a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervet terhelik.
 
-(10) Az illetményt, ha az illetményfizetési nap heti pihenőnapra (heti pihenőidőre) vagy munkaszüneti napra esik, legkésőbb az ezt megelőző munkanapon kell kifizetni.
+(10) Az illetményt, ha a (6) bekezdés szerint határidő heti pihenőnapra (heti pihenőidőre) vagy munkaszüneti napra esik, legkésőbb az ezt megelőző munkanapon kell kifizetni.
 
 (11) A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.
 

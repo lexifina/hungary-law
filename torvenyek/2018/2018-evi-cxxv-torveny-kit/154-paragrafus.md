@@ -6,6 +6,6 @@ a) a legalább egy gyermeket háztartásában nevelő kormánytisztviselő eset�
 
 b) a legalább három gyermeket háztartásában nevelő kormánytisztviselő esetében hatvan nappal
 
-meghosszabbodik, ha azt a kormánytisztviselő kéri.
+meghosszabbodik, ha azt a kormánytisztviselő a felmentés közlésétől számított négy munkanapon belül kéri.
 
 (2) Az (1) bekezdés szerinti kedvezményre a gyermek mindkét kormánytisztviselő szülője jogosult, ha a kormánytisztviselő és a gyermek közös háztartásban él.

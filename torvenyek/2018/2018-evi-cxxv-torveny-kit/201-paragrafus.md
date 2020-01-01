@@ -10,7 +10,7 @@ c) ha a miniszter kinevezéséhez szükséges feltételek az ügyvezető miniszt
 
 d) összeférhetetlensége kimondásával.
 
-(2) Az ügyvezető miniszter megbízatásának az (1) bekezdés a) és c) pontjában meghatározott esetben történő megszűnése esetén a miniszterre vonatkozó szabályokat kell alkalmazni.
+(2) Az ügyvezető miniszter megbízatásának az (1) bekezdés a)–c) pontjában meghatározott esetben történő megszűnése esetén a miniszterre vonatkozó szabályokat kell alkalmazni.
 
 (3) Ha az ügyvezető miniszterrel szemben a tisztsége gyakorlása során összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kimondásáról.
 

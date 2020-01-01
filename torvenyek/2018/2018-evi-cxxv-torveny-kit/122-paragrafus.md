@@ -30,10 +30,10 @@ rendelhető el.
 
 (8) Teljes napi munkaidő esetén naptári évenként kettőszáz óra rendkívüli munkaidő rendelhető el.
 
-(9) A (8) bekezdésben foglaltakat arányosan kell alkalmazni, ha
+(9) A (8) bekezdésben foglaltakat arányosan kell alkalmazni, ha a kormányzati szolgálati jogviszony
 
-a) a kormányzati szolgálati jogviszony év közben kezdődött,
+a) év közben kezdődött,
 
-b) határozott időre, illetve
+b) határozott időre jött létre,
 
 c) részmunkaidőre jött létre.

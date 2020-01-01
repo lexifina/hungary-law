@@ -10,7 +10,7 @@
 
 (1) A Kormány – a (3) bekezdés szerinti javaslat figyelembevételével – határozatban állapítja meg a kormányzati igazgatási szerv alaplétszámát.
 
-(2) A Kormány – a kormányhivatal alaplétszámába tartozó álláshelyek kivételével – a (3) bekezdés szerinti javaslat figyelembevételével meghatározza a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyek besorolását.
+(2) A Kormány a (3) bekezdés szerinti javaslat figyelembevételével meghatározza a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyek besorolását.
 
 (3) A kormányzati igazgatási szervet vezető, irányító vagy felügyelő miniszter – a kormányzati igazgatási szerv vezetője véleményének figyelembevételével – a kormányzati személyügyi igazgatásra kijelölt szerv útján javaslatot tehet a Kormány számára az általa vezetett minisztérium és az általa irányított vagy felügyelt kormányzati igazgatási szerv alaplétszámára és az alaplétszámba tartozó álláshelyek besorolására.
 

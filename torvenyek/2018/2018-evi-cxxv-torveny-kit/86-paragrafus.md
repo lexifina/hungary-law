@@ -20,7 +20,7 @@ e) a kormánytisztviselő munkavégzésének helyét,
 
 f) a kormánytisztviselő munkaidejét,
 
-g) a kormánytisztviselő álláshelyének besorolását,
+g) a kormánytisztviselő álláshelyének besorolását és azonosítóját, álláshelyváltás esetén a korábbi és az új álláshely azonosítóját egyaránt,
 
 h) a kormánytisztviselő illetményét, valamint
 
@@ -34,7 +34,7 @@ i) az álláshelyen ellátandó feladatok meghatározását.
 
 (6) Ha a kinevezés érvénytelenségét a munkába lépés előtt állapítják meg, akkor az érvénytelenséget előidéző ok megszüntetéséig a kormánytisztviselő nem állítható munkába. Ha az érvénytelenség oka a munka megkezdése után jut a munkáltatói jogkör gyakorlójának tudomására, a kormánytisztviselőt az érvénytelenség orvoslásáig a munkavégzéstől el kell tiltani.
 
-(7) A kinevezési okmányban – a (10) bekezdés, az 59. §, a 88. § (4) bekezdése, a 89. § (6) bekezdése, a 104. § (9) bekezdése és a 107. § (11) bekezdése kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
+(7) A kinevezési okmányban – a (10) bekezdés, az 59. §, a 88. § (4) bekezdése, a 89. § (6) bekezdése, a 104. § (9) bekezdése és a 105. § (2) bekezdése kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
 (8) A próbaidő nem hosszabbítható meg.
 

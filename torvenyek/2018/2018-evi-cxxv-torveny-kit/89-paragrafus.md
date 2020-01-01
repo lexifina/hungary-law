@@ -16,7 +16,9 @@ d) iskolai végzettségének, szakképzettségének vagy szakképesítésének, 
 
 e) a munkáltatói jogkör gyakorlója a szakmai vezetői álláshelyen foglalkoztatott kormánytisztviselőt ügyintézői álláshelyre helyezi,
 
-f) elhelyezkedési korlátozás alá eső álláshelyen kívánja a munkáltatói jogkör gyakorlója továbbfoglalkoztatni.
+f) elhelyezkedési korlátozás alá eső álláshelyen kívánja a munkáltatói jogkör gyakorlója továbbfoglalkoztatni,
+
+g) a kinevezés módosítására az 55. § (4a) vagy (4b) bekezdése szerinti álláshelycsere miatt kerül sor.
 
 (4) Ha a kormánytisztviselő nem kéri a (3) bekezdés alapján a felmentését, a kinevezés-módosítás a kormánytisztviselő által elfogadottnak minősül.
 

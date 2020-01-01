@@ -8,9 +8,17 @@ b) képzési, továbbképzési támogatás,
 
 c) nyelvtanulási támogatás.
 
-(2) Az ösztöndíj és a támogatások mértékét és igénybevételének módját a kormányzati igazgatási szerv közszolgálati szabályzata állapítja meg.
+(2) Az ösztöndíj és a támogatások mértékét és igénybevételének módját – a Kormány rendeletében meghatározott keretek között – a kormányzati igazgatási szerv közszolgálati szabályzata állapítja meg.
 
-(3) A kormánytisztviselő és a kormányzati igazgatási szerv tanulmányi szerződést köthet. A tanulmányi szerződésben a kormányzati igazgatási szerv vállalja, hogy a tanulmányok alatt támogatást nyújt, a kormánytisztviselő pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül kormányzati szolgálati jogviszonyát lemondással nem szünteti meg. A tanulmányi szerződést írásba kell foglalni.
+(3) A kormánytisztviselő és a kormányzati igazgatási szerv tanulmányi szerződést köthet. A tanulmányi szerződésben a kormányzati igazgatási szerv vállalja, hogy a tanulmányok alatt támogatást nyújt, a kormánytisztviselő pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül kormányzati szolgálati jogviszonyát nem szünteti meg. A tanulmányi szerződést írásba kell foglalni.
+
+(3a) A (3) bekezdés alkalmazásában a kormányzati szolgálati jogviszony kormánytisztviselő általi megszüntetésnek minősül
+
+a) a 89. § (6) bekezdés szerinti munkahelyváltás,
+
+b) a jogviszonynak a 105. § (1) bekezdés a) és b) pontja alapján történő megszüntetése,
+
+c) a jogviszonynak a 105. § (1) bekezdés c) pontja alapján történő megszüntetése, ha arra amiatt kerül sor, hogy a kormánytisztviselő elmulasztja a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét.
 
 (4) Nem köthető tanulmányi szerződés
 
@@ -20,11 +28,13 @@ b) ha a tanulmányok elvégzésére a kormányzati igazgatási szerv kötelezte 
 
 (5) A tanulmányi szerződésben meg kell határozni a támogatás formáját és mértékét, továbbá – a támogatás mértékével arányosan – a kormánytisztviselő által a kormányzati igazgatási szervnél kötelezően kormányzati szolgálati jogviszonyban töltendő idő tartamát, amely öt évnél hosszabb nem lehet.
 
-(6) Az adott kormányzati igazgatási szervnél kormányzati szolgálati jogviszonyban töltendő idő tartamába – a tanulmányi szerződés ellenkező kikötése hiányában – nem számít be a kormányzati szolgálati jogviszony szünetelésének azon esete, amelyre a kormánytisztviselőt szabadság nem illeti meg.
+(6) Az adott kormányzati igazgatási szervnél kormányzati szolgálati jogviszonyban töltendő idő tartamába – a tanulmányi szerződés ellenkező kikötése hiányában – nem számít be az az időtartam, amelyre a kormánytisztviselőt szabadság nem illeti meg.
 
 (7) Amennyiben a kormányzati igazgatási szerv a támogatást nem biztosítja vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő mentesül a szerződésből folyó kötelezettségei alól.
 
 (8) Ha a támogatásban részesülő kormánytisztviselő tanulmányait nem megfelelő eredménnyel folytatja, nem lép a szerződés szerinti időpontban az adott kormányzati igazgatási szervnél munkába, a meghatározott időtartamot nem tölti le, vagy egyéb lényeges szerződésszegést követ el, a kormányzati igazgatási szerv követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
+
+(8a) A (8) bekezdést kell alkalmazni abban az esetben is, ha a kormánytisztviselő kormányzati szolgálati jogviszonya a 105. § (1) bekezdés d) pontja alapján szűnik meg.
 
 (9) Amennyiben a támogatásban részesülő a szerződésben kikötött időtartamnak csak egy részét nem tölti le, megtérítési kötelezettsége ezzel arányos.
 

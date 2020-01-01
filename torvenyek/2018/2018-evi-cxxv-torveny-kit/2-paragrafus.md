@@ -26,6 +26,6 @@ b) az Országos Atomenergia Hivatal,
 
 c) a Szellemi Tulajdon Nemzeti Hivatala, és
 
-d) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal.
+d)
 
 (4) Területi kormányzati igazgatási szervek a fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal).

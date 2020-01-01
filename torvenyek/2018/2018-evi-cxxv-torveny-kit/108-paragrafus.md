@@ -2,7 +2,7 @@
 
 (1) Amennyiben a kormánytisztviselő által betöltött álláshelyre meghatározott feladatokban olyan változás következik be, amelynek hatékony ellátására a kormánytisztviselő iskolai végzettsége, szakképzettsége, szakképesítése, szakmai tapasztalata nem megfelelő, a kormányzati igazgatási szerv az álláshelyet más kormánytisztviselővel betöltetheti. A változás a kormányzati igazgatási szerv érdekkörében felmerülő ok lehet. A kormányzati igazgatási szerv érdekkörében felmerülő oknak minősül különösen, ha az a kormányzati igazgatási szerv feladatellátásának jogszabályi változásával függ össze.
 
-(2) A kormányzati igazgatási szerv köteles felajánlani annak lehetőségét, hogy a kormánytisztviselő a feladatok ellátásához szükséges iskolai végzettséget, szakképzettséget, szakképesítést az iskolai végzettség, szakképzettség, szakképesítés megszerzéséhez az oktatási intézmény által biztosított határidőn belül megszerezze.
+(2) A kormányzati igazgatási szerv köteles felajánlani annak lehetőségét, hogy a kormánytisztviselő a feladatok ellátásához szükséges iskolai végzettséget, szakképzettséget, szakképesítést az iskolai végzettség, szakképzettség, szakképesítés megszerzéséhez az oktatási intézmény által biztosított észszerű határidőn belül megszerezze.
 
 (3) A kormánytisztviselő jogviszonyát a 107. § (1) bekezdésének d) pontjában foglalt okból megszüntetni kizárólag abban az esetben lehet, ha a foglalkoztató kormányzati igazgatási szervnél a kormánytisztviselő iskolai végzettségének, szakképzettségének, szakképesítésének, szakmai tapasztalatának megfelelő, betölthető álláshely nincs, vagy az így felajánlott álláshelyet a kormánytisztviselő nem fogadja el.
 

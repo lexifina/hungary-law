@@ -14,7 +14,9 @@ e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés,
 
 f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap, valamint
 
-g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság
+g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság,
+
+h) az unoka gondozása céljából igénybe vett fizetés nélküli szabadság
 
 időtartama alatt.
 

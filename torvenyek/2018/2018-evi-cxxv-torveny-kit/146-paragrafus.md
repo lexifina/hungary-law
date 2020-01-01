@@ -4,7 +4,7 @@
 
 (2) A munkáltatói jogkör gyakorlója – ide nem értve a helyettesítést – rendkívüli, célhoz köthető feladatot állapíthat meg a kormánytisztviselő részére, amelynek teljesítése a feladatának ellátásából adódó munkaterhet jelentősen meghaladja.
 
-(3) A célhoz köthető feladat eredményes végrehajtásáért a kormánytisztviselő illetményén felül írásban, a célhoz köthető feladat megállapításakor vagy teljesítésének igazolásakor céljuttatást határoz meg a megállapított személyi juttatások előirányzata terhére.
+(3) A célhoz köthető feladat eredményes végrehajtásáért a munkáltatói jogkör gyakorlója a kormánytisztviselő illetményén felül írásban, a célhoz köthető feladat megállapításakor vagy teljesítésének igazolásakor céljuttatást határoz meg a megállapított személyi juttatások előirányzata terhére.
 
 (4) A munkáltatói jogkör gyakorlója a (2) bekezdésen túl célhoz köthető feladatot állapíthat meg más kormányzati igazgatási szervnél foglalkoztatott kormánytisztviselő részére, az érintett hivatali szervezet vezetőjének egyetértésével. A céljuttatást a célhoz köthető feladatot tűző munkáltatói jogkör gyakorlója állapítja meg a kormánytisztviselő részére.
 

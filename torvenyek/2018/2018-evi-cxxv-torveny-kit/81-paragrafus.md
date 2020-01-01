@@ -2,6 +2,8 @@
 
 (1) A kormánytisztviselő felett a munkáltatói jogokat a Kormány nevében – törvény vagy kormányrendelet eltérő rendelkezése hiányában – a kormányzati igazgatási szerv hivatali szervezetének vezetője gyakorolja (a továbbiakban: munkáltatói jogkör gyakorlója).
 
+(1a) Az (1) bekezdésben foglaltaktól eltérően a munkáltatói jogokat a 33/A. § szerinti esetben a közös hivatali szervezet vezetője gyakorolja, ha a közös hivatali szervezetet létrehozó megállapodás erről rendelkezik.
+
 (2) A munkáltatói jogkör gyakorlója a munkáltatói jogok gyakorlását – a (3) bekezdésben meghatározott kivételekkel – írásban átruházhatja a szakmai felsővezetői vagy szakmai vezetői álláshelyet betöltő kormánytisztviselőre. Az átruházott munkáltatói jogkör nem ruházható tovább.
 
 (3) Nem ruházható át:

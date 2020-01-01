@@ -18,7 +18,9 @@ hozható létre.
 
 (2) A Kormány döntése alapján kormányzati szolgálati jogviszony létrehozható a 2. §-ban nem szereplő szerv számára biztosított álláshelyen is.
 
-(3) Az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a kormányzati igazgatási szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati jogviszony) álló személlyel is, azzal, hogy ebben az esetben nem jön létre az (1) bekezdés szerinti jogviszony és a hivatásos szolgálati jogviszony, valamint a katonai szolgálati jogviszony továbbra is fennáll.
+(3) Az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a kormányzati igazgatási szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony) álló személlyel is, azzal, hogy ebben az esetben – a hivatásos szolgálati jogviszony és a katonai szolgálati viszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony és a hivatásos szolgálati jogviszony, valamint a katonai szolgálati viszony továbbra is fennáll.
+
+(3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
 
 (4) Egy álláshelyen egyidejűleg – az (5) bekezdésben meghatározott kivétellel – egy jogviszony hozható létre.
 
