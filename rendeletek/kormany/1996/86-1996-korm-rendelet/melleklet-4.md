@@ -1,4 +1,4 @@
-4. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^164]
+4. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^165]
 
 Az érvényesítés, megszemélyesítés engedélyezéséhez szükséges adatok
 
@@ -24,4 +24,4 @@ II. Elektronikus biztonsági okmány esetében az I. pontban foglaltak mellett:
 
 3. A megszemélyesített adattároló elemet tartalmazó tesztminta
 
-[^164]: A 4. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+[^165]: A 4. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (5) bekezdése iktatta be.
