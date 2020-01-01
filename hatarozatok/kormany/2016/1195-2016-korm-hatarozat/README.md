@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1195-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-04-13 | 2016-1195-30-22.1 | 1195/2016. (IV. 13.) Korm. határozat |
+| 2020-01-01 | 2016-1195-30-22.2 | 2011: CXCV. törvény |
