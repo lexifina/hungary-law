@@ -1,6 +1,6 @@
 21/A. § (1) A közjegyző és a közjegyzőhelyettes hivatali aláírása a közjegyző vagy közjegyzőhelyettes névaláírásának, valamint a közjegyző hivatali bélyegzője lenyomatának együttes alkalmazása. A közjegyző és a közjegyzőhelyettes hivatali aláírásával látja el a hatáskörébe tartozó ügyben általa készített közokiratot.
 
-(2) A közjegyző és a közjegyzőhelyettes hivatali elektronikus aláírása a Magyar Országos Közjegyzői Kamara által részükre rendszeresített minősített elektronikus aláírás. A közjegyző és a közjegyzőhelyettes minősített elektronikus aláírásával látja el a hatáskörébe tartozó ügyben általa készített elektronikus közokiratot.
+(2) A közjegyző és a közjegyzőhelyettes hivatali elektronikus aláírása a Magyar Országos Közjegyzői Kamara által részükre rendszeresített minősített elektronikus aláírás. A közjegyző és a közjegyzőhelyettes hivatali elektronikus aláírásával látja el a hatáskörébe tartozó ügyben általa készített elektronikus közokiratot.
 
 (3) A hivatali elektronikus aláírásként olyan minősített elektronikus aláírás használható, amely megfelel a következő feltételeknek:
 

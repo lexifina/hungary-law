@@ -14,7 +14,7 @@ f) ellátja a közjegyzők képviseletét a belföldi és külföldi szakmai sze
 
 g) egyeztetést végez a különböző területi kamarákhoz tartozó közjegyzők és a területi kamarák közötti vitás ügyekben,
 
-h) felkérésre szakvéleményt ad konkrét ügyben,
+h) bíróság, más hatóság, ügyész, közigazgatási szerv, köztestület, közjegyzői önkormányzati szerv, közjegyző felkérésére konkrét ügyben szakvéleményt ad,
 
 i) statisztikai adatszolgáltatást végez,
 
@@ -32,7 +32,7 @@ o) kiállítja és nyilvántartja a közjegyzők által készített, illetve hit
 
 p) vezeti az elektronikus letéti tárat,
 
-q) egységes ügykezelő alkalmazást működtet, amelynek keretében – az alkalmazás működtetésével kapcsolatban hozzáférésre jogosult személyek titoktartási kötelezettségének biztosítása mellett – jogosult a közjegyzői nyilvántartásokban kezelt adatok biztonsági célú tárolására, valamint statisztikai célú kezelésére.
+q) egységes ügykezelő alkalmazást működtet és azzal összefüggésben a közjegyzők által kötelezően alkalmazandó számlázó programot rendszeresít, amelynek keretében – az alkalmazás működtetésével kapcsolatban hozzáférésre jogosult személyek titoktartási kötelezettségének biztosítása mellett – jogosult a közjegyzői nyilvántartásokban kezelt adatok biztonsági célú tárolására, valamint statisztikai célú kezelésére.
 
 (2) Az országos kamara a feladatainak ellátása körében jogosult az ehhez szükséges személyes adatnak minősülő adatok kezelésére és nyilvántartására.
 

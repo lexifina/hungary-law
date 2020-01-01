@@ -1,1 +1,1 @@
-128. § Ha a közjegyzőnek a fél által beszélt nyelvből nincs nyelvi jogosítványa, a közjegyzői okiratot magyar nyelven tolmács közreműködésével készíti el.
+128. § Ha a közjegyzőnek a fél – képviselő útján történő eljárás esetén a képviselő – által beszélt nyelvből nincs nyelvi jogosítványa, a közjegyzői okiratot magyar nyelven tolmács közreműködésével készíti el.

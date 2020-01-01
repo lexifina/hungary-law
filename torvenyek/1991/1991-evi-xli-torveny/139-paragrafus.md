@@ -4,7 +4,7 @@
 
 (3) Ha a fél vak vagy írástudatlan, illetőleg olvasásra képtelen, a hitelesítés előtt az okiratot előtte fel kell olvasni.
 
-(4) A tanúsítványt záradék formájában kell kiállítani, amely tartalmazza az ügyszámot, a fél családi és utónevét, születési helyét és idejét, lehetőség szerint anyja nevét, kérésére egyéb személyi adatait.
+(4) A tanúsítványt záradék formájában kell kiállítani, amely tartalmazza az ügyszámot, a fél családi és utónevét, születési helyét és idejét, lehetőség szerint anyja születési nevét, kérésére egyéb személyi adatait.
 
 (5) A fél legalább fokozott biztonságú elektronikus aláírásának valódisága elektronikus közokirat formájában is tanúsítható az (1)–(4) bekezdés megfelelő alkalmazásával. A fél elektronikus aláírásának érvényességéről a közjegyző – bizalmi szolgáltató útján – a tanúsítvány kiadása előtt meggyőződik, ennek tényére a tanúsítványban utalni kell.
 

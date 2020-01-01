@@ -1,4 +1,4 @@
-124. § A közjegyzői okirat elkészítésénél két ügyleti tanú közreműködése szükséges, ha a fél
+124. § A közjegyzői okirat elkészítésénél két ügyleti tanú közreműködése szükséges, ha a fél – képviselő útján történő eljárás esetén a képviselő –
 
 a) írástudatlan, illetőleg olvasásra vagy nevének aláírására képtelen,
 

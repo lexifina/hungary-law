@@ -1,9 +1,9 @@
 127. § A közjegyzői okirat készítésekor
 
-a) a hallássérült személy kérésére jelnyelvi tolmács közreműködésével vagy írásban;
+a) a hallássérült személy írásban, vagy kérésére jelnyelvi tolmács közreműködésével,
 
-b) a siketvak személy kérésére jelnyelvi tolmács közreműködésével;
+b) a siketvak személy jelnyelvi tolmács közreműködésével,
 
-c) a beszédfogyatékos személy kérésére írásban
+c) a beszédfogyatékos személy írásban, vagy kérésére jelnyelvi tolmács közreműködésével
 
 kommunikálhat.

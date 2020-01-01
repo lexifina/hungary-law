@@ -1,10 +1,10 @@
-122. § (1) Ha a közjegyző a felet személyesen nem ismeri, személyazonosságáról és szükség esetén a személyi adatairól köteles meggyőződni
+122. § (1) Ha a közjegyző a felet, képviselő útján történő eljárás esetén a képviselőt, illetve a segédszemélyt személyesen nem ismeri, személyazonosságáról és szükség esetén a személyi adatairól köteles meggyőződni
 
 a) saját kezű aláírással és fényképpel ellátott hivatalos igazolványból,
 
 b) a közjegyző által személyesen ismert vagy személyazonosságát az a) pont szerint igazoló két azonossági tanú közreműködésével.
 
-(2) A közjegyző a fél
+(2) A közjegyző a személyazonosítással érintett személy
 
 a) személyazonosságának és lakcímének igazolása érdekében a rendelkezésére bocsátott adatai nyilvántartási adatokkal való egyezőségének és
 
@@ -16,7 +16,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 
 (4) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a hivatali elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
-(5) Az ellenőrzés céljából a közjegyző a nyilvántartásokból a fél alábbi adatait ellenőrizheti:
+(5) Az ellenőrzés céljából a közjegyző a nyilvántartásokból a személyazonosítással érintett személy alábbi adatait ellenőrizheti:
 
 a) természetes személyazonosító adatait,
 
@@ -40,7 +40,7 @@ fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás
 
 (6) A közjegyző köteles megtagadni a közreműködést, ha
 
-a) a fél személyazonosság megállapításához adatot nem szolgáltatott,
+a) a személyazonosítással érintett személy személyazonosság megállapításához adatot nem szolgáltatott,
 
 b) ha a nyilvántartás adatai nem egyeznek meg a rendelkezésre bocsátott adatokkal vagy az igazolvány érvénytelen és a személyazonosság igazolása az (1) bekezdésben írt más módon sem lehetséges.
 

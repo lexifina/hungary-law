@@ -40,13 +40,13 @@ cb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végreha
 
 cc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
 
-cd) szándékos bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított öt évig,
+cd) szándékos bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, elzárás esetén a mentesítés beálltától számított öt évig,
 
 ce) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
 
 d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig.
 
-e) akit a közjegyzői fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott, a határozat jogerőre emelkedésétől számított 10 évig,
+e) akit a közjegyzői fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy érdemtelenné nyilvánított, a határozat jogerőre emelkedésétől számított 10 évig,
 
 f) aki egészségi állapota miatt vagy más okból a hivatás ellátására alkalmatlan,
 

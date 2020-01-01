@@ -22,7 +22,7 @@ napján.
 
 a) a közjegyző a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
-b) a közjegyzővel szemben a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény következett be,
+b) a közjegyzővel szemben a 17. § (3) bekezdés a), b) pontjában, c) pont cd) alpontjában vagy d) pontjában meghatározott körülmény következett be,
 
 c) a közjegyző a 21. §-ban meghatározott esküt nem tette le, vagy
 

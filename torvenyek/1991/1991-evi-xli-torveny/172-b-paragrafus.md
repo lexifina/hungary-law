@@ -1,1 +1,1 @@
-### 172/B. §
+172/B. § A segédszemélyekre a Pp. rendelkezései nem alkalmazhatóak.

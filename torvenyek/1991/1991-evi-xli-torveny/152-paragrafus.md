@@ -1,3 +1,5 @@
-152. § (1) A végrendeletet tartalmazó közjegyzői okiratról az örökhagyó életében csak az örökhagyó részére vagy kifejezetten e célra adott meghatalmazással (132. §.) ellátott meghatalmazottja részére adható ki hiteles kiadmány, másolat vagy bizonyítvány.
+152. § (1) A végrendeletet – ide nem értve az öröklési szerződést és a halál esetére szóló ajándékozás tárgyában kötött szerződést (e §-ban a továbbiakban: végrendelet) – tartalmazó közjegyzői okiratról az örökhagyó életében csak az örökhagyó részére vagy kifejezetten e célra adott és a 132. §-ban meghatározott alakiságokkal rendelkező meghatalmazással ellátott meghatalmazottja részére adható ki hiteles kiadmány, másolat vagy bizonyítvány, illetve e személyek részére engedélyezhető betekintés.
 
-(2) Az örökhagyó halálát követően kiadmány, másolat vagy bizonyítvány – a végrendelet kihirdetése után, a kihirdetés napjának feltüntetésével – a 150–155. § szerint adható ki.
+(2) Az örökhagyó halálát követően – ha törvény eltérően nem rendelkezik – az örökhagyó halálának közokirattal történt igazolása esetén a végrendeletről kiadmány, másolat vagy bizonyítvány annak adható ki, illetve a végrendeletbe betekintés annak engedélyezhető, aki abban kétséget kizáróan szerepel.
+
+(3) A végintézkedés kihirdetése után a kihirdetés napjának feltüntetésével a végintézkedésről kiadmány, másolat vagy bizonyítvány annak adható ki, illetve betekintés annak engedélyezhető, aki az ehhez fűződő jogi érdekét valószínűsíti, és kérelmének teljesítése aggályra nem ad okot.
