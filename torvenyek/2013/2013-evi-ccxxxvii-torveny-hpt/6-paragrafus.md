@@ -100,6 +100,8 @@ c) EU-szintű vegyes pénzügyi holding társaság anyavállalata;
 
 38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó székhelye, telephelye, főirodája, fióktelepe;
 
+38a. helyreállítási képesség: a hitelintézet azon képessége, hogy stabilizálja pénzügyi helyzetét, ha az jelentős mértékben romlik;
+
 39. helyreállítási terv: olyan terv, amelyben foglalt a hitelintézet által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
 
 40. hitel és pénzkölcsön nyújtása:

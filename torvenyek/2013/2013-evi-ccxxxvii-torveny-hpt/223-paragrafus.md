@@ -20,4 +20,4 @@ e) az OBA ügyvezetője.
 
 (5) Az igazgatótanács tagjai közül évenként elnököt és alelnököt választ. Nem választható elnökké és alelnökké az ügyvezető.
 
-(6) Az igazgatótanács ülésein az OBA ügyvezető igazgató-helyettese tanácskozási joggal vehet részt.
+(6)

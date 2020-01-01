@@ -42,7 +42,7 @@ a) a hitelintézet pénzügyi helyzete fenntartható, és
 
 b) a hitelintézet, az érintett szervezeti egység és a vezető állású személy vagy munkavállaló teljesítménye azt indokolttá teszi.
 
-(11) A teljesítményjavadalmazás legalább 50 százaléka a következőkből áll:
+(11) A teljesítményjavadalmazás legalább 50 százaléka a következő elemekből, vagy azok egyensúlyban lévő kombinációjából áll:
 
 a) az érintett hitelintézet részvényeiből vagy tulajdoni részesedéseiből az érintett hitelintézet jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett hitelintézet esetében részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
 
@@ -54,7 +54,9 @@ bb) leírhatóak az említett tőkeelemekből, és
 
 amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
 
-(12) A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább hatvan százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően három évnél rövidebb időtartamú munkaviszony esetén a munkaviszony megszűnésekor, egyébként három–ötéves időszak alatt kell kifizetni.
+(12) A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább hatvan százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább három-ötéves időszak alatt elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
+
+(12a) A teljesítményjavadalmazást csökkenteni kell, ha a hitelintézet pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
 
 (13) A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszakövetelési szabályok alkalmazandóak. A hitelintézet a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszakövetelési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
 

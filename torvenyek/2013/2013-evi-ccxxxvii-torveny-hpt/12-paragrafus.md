@@ -2,7 +2,7 @@
 
 12. § (1) A (2) bekezdésben meghatározott kivétellel
 
-a) bank legalább kettőmilliárd forint,
+a) bank legalább négymilliárd forint,
 
 b) szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint
 
@@ -10,15 +10,15 @@ induló tőkével alapítható.
 
 (2) Az induló tőkére vonatkozó – e törvényben meghatározott – követelmények nem alkalmazandóak a központi szervhez tartósan kapcsolt hitelintézetre.
 
-(3) Szakosított hitelintézet a rá vonatkozó külön törvényi szabályozással meghatározott induló tőkével alapítható.
+(3) Szakosított hitelintézet a rá vonatkozó törvényi szabályozással meghatározott induló tőkével alapítható.
 
-(4) Pénzügyi vállalkozás – kivéve a pénzügyi holding társaságot és a fizetési rendszert működtető pénzügyi vállalkozást – legalább ötvenmillió forint induló tőkével alapítható.
+(4) Pénzügyi vállalkozás – kivéve a hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozást, a pénzügyi holding társaságot és a fizetési rendszert működtető pénzügyi vállalkozást – legalább százmillió forint induló tőkével alapítható.
 
-(5) Harmadik országbeli hitelintézet fióktelepe – ha törvény másként nem rendelkezik – legalább kétmilliárd forint dotációs tőkével alapítható.
+(5) Harmadik országbeli hitelintézet fióktelepe – ha törvény másként nem rendelkezik – legalább négymilliárd forint dotációs tőkével alapítható.
 
-(6)
+(6) Hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozás legalább százötven millió forint induló tőkével alapítható.
 
-(7) Pénzügyi holding társaság legalább kettőmilliárd forint induló tőkével alapítható.
+(7) Pénzügyi holding társaság legalább négymilliárd forint induló tőkével alapítható.
 
 (8) A fizetési rendszert működtető pénzügyi vállalkozás – a (9) bekezdésben meghatározott kivétellel – legalább ötszázmillió forint induló tőkével alapítható.
 
