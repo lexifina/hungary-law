@@ -1,1 +1,0 @@
-## 4. § A központi költségvetés megtéríti a Magyar Államkincstárnak az 1. § (1) bekezdés 6–11. és 16–23. pontja, valamint a 2. § (1) bekezdés b) és c) pontja szerinti ellátások, továbbá a nemzeti helytállásért elnevezésű pótlék és a rokkantsági járadék emelésének fedezetét és a végrehajtás költségeit.
