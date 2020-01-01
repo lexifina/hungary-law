@@ -7,11 +7,3 @@
 a) az Európai Unió Vasúti Ügynökségéről és a 881/2004/EK rendelet hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/796 európai parlamenti és a tanácsi rendelet,
 
 b) a 2012/34/EU európai parlamenti és tanácsi irányelv 11. cikke szerinti gazdasági egyensúlyra irányuló vizsgálat alkalmazására vonatkozó eljárás és kritériumok megállapításáról szóló, 2018. november 20-i (EU) 2018/1795 bizottsági végrehajtási rendelet 11. cikkének (3) bekezdése.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
