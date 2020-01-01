@@ -24,8 +24,8 @@ e) műszaki előírásban meghatározott jellemző felhasználása vagy
 
 f) az a)–e) pontban foglaltak elemzése, értékelése.
 
-(5)[^13] Tűzvédelmi célú építési termék teljesítménynyilatkozat hiányában a BM OKF vizsgálati eredményeken alapuló engedélyével is beépíthető. A BM OKF engedélye legfeljebb 2018. december 31-ig érvényes. Amennyiben az engedélyben megadott termékre vonatkozóan harmonizált európai szabvány kerül kiadásra a 305/2011/EU európai parlamenti és tanácsi rendelet 17. cikk (5) bekezdése szerint, a párhuzamos hatályosság időszakának leteltével az engedély hatályát veszti.
+(5)[^13] Tűzvédelmi célú építési termék teljesítménynyilatkozat hiányában a BM OKF vizsgálati eredményeken alapuló engedélyével is beépíthető. Amennyiben az engedélyben megadott termékre vonatkozóan harmonizált európai szabvány kerül kiadásra a 305/2011/EU európai parlamenti és tanácsi rendelet 17. cikk (5) bekezdése szerint, a párhuzamos hatályosság időszakának leteltével az engedély hatályát veszti.
 
 [^11]: A 7. § (1) bekezdése a 261/2017. (IX. 11.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^12]: A 7. § (4) bekezdését a 261/2017. (IX. 11.) Korm. rendelet 5. §-a iktatta be.
-[^13]: A 7. § (5) bekezdését a 261/2017. (IX. 11.) Korm. rendelet 5. §-a iktatta be.
+[^13]: A 7. § (5) bekezdését a 261/2017. (IX. 11.) Korm. rendelet 5. §-a iktatta be, szövege a 295/2019. (XII. 10.) Korm. rendelet 12. §-ával megállapított szöveg.
