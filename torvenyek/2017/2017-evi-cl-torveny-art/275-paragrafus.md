@@ -19,3 +19,5 @@ e) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagál
 (4) E törvénynek a Módtv.1.-gyel megállapított 117. § (1) bekezdés h) pontja a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról szóló, 2017. december 5-i (EU) 2017/2455 tanácsi irányelvnek való megfelelést szolgálja.
 
 (5) E törvénynek a Módtv.3-mal megállapított 78. § (6a) és (7) bekezdése, valamint 205. §-a az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
+
+(6) E törvénynek a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel megállapított 76. § (2) bekezdése az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 113. cikkének a végrehajtásához szükséges rendelkezéseket állapít meg.

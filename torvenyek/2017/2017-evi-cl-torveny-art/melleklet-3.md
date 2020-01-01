@@ -4,7 +4,7 @@
 
 ## A) Általános rendelkezések
 
-## 1. Az adózónak a bevallás adatait – az 50. § (2) bekezdésében meghatározott bevallást, a természetes személynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról benyújtott adóbevallását kivéve – ezer forintra kerekítve, ezer forintban kell feltüntetni. Az 50. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban ezer forintra kerekítve, ezer forintban kell feltüntetni kivéve az egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló után fizetendő összeget, amelyet kerekítés nélkül forintban kell bevallani. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az ezer forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az ezer forintot elérte. A természetes személynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
+## 1. Az adózónak a bevallás adatait – az 50. § (2) bekezdésében meghatározott bevallást, a természetes személynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, a járulékáról, a cégautó-adójáról benyújtott adóbevallását kivéve – ezer forintra kerekítve, ezer forintban kell feltüntetni. Az 50. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban ezer forintra kerekítve, ezer forintban kell feltüntetni kivéve az egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló után fizetendő összeget, amelyet kerekítés nélkül forintban kell bevallani. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az ezer forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az ezer forintot elérte. A természetes személynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
 
 ## 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
@@ -88,11 +88,11 @@
 
 ## 3.2. Az átalakulással, az egyesüléssel, a szétválással létrejövő adózó általános forgalmiadó-bevallási kötelezettségének ugyanolyan gyakorisággal tesz eleget, mint az a szervezet, amelyből átalakult, egyesült vagy szétválás útján létrejött. Az átalakulással, egyesüléssel vagy szétválással létrejövő adózó a gyakoribb bevallásra kötelezett jogelőd bevallási gyakoriságának megfelelően tesz eleget általános forgalmiadó-bevallási kötelezettségének.
 
-## 3.3. Az új közlekedési eszköznek az Európai Unió más tagállamából történő beszerzése esetén önadózással megállapítandó fizetendő általános forgalmi adót az általános forgalmiadó-alanynak nem minősülő természetes személy, illetve egyéb szervezet, az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany, illetve az egyszerűsített vállalkozói adóalany vevő az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be és fizeti meg az állami adó- és vámhatósághoz.
+## 3.3. Az új közlekedési eszköznek az Európai Unió más tagállamából történő beszerzése esetén önadózással megállapítandó fizetendő általános forgalmi adót az általános forgalmiadó-alanynak nem minősülő természetes személy, illetve egyéb szervezet, az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany vevő az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be és fizeti meg az állami adó- és vámhatósághoz.
 
 ## 3.4. Az alanyi adómentességet választó adóalany, kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, valamint a kizárólag mezőgazdasági tevékenységet folytató különleges jogállású adóalany az általános forgalmi adó bevallási kötelezettségének minden esetben havi gyakorisággal tesz eleget.
 
-## 3.5. A közösségi adószámmal rendelkező, általános forgalmiadó-alanynak nem minősülő jogi személy, valamint az egyszerűsített vállalkozói adó alanya a közösségi kereskedelemmel kapcsolatos ügyletet az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be, és az ügylethez kapcsolódó általános forgalmi adófizetési kötelezettségének a bevallás benyújtásával egyidejűleg tesz eleget. Nem kell bevallást tenni arról az időszakról, amelyben az adózó közösségi kereskedelmet nem folytatott. A közösségi adószámmal rendelkező, általános forgalmiadó-alanynak nem minősülő jogi személy azt a Közösségen kívül letelepedett adóalanytól igénybevett szolgáltatást, amely után az adófizetési kötelezettség őt terheli, az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be, és az ügylethez kapcsolódó általános forgalmi adófizetési kötelezettségének a bevallás benyújtásával egyidejűleg tesz eleget.
+## 3.5. A közösségi adószámmal rendelkező, általános forgalmiadó-alanynak nem minősülő jogi személy a közösségi kereskedelemmel kapcsolatos ügyletet az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be, és az ügylethez kapcsolódó általános forgalmi adófizetési kötelezettségének a bevallás benyújtásával egyidejűleg tesz eleget. Nem kell bevallást tenni arról az időszakról, amelyben az adózó közösségi kereskedelmet nem folytatott. A közösségi adószámmal rendelkező, általános forgalmiadó-alanynak nem minősülő jogi személy azt a Közösségen kívül letelepedett adóalanytól igénybevett szolgáltatást, amely után az adófizetési kötelezettség őt terheli, az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be, és az ügylethez kapcsolódó általános forgalmi adófizetési kötelezettségének a bevallás benyújtásával egyidejűleg tesz eleget.
 
 ## 3.6. Az egyéni vállalkozó adózó általános forgalmiadó-bevallási gyakoriságának meghatározásánál a beépített ingatlan, ingatlanrész és ehhez tartozó földrészlet, illetve építési telek, telekrész természetes személyként, sorozat jelleggel történő értékesítését terhelő általános forgalmi adót figyelmen kívül kell hagyni.
 
@@ -164,7 +164,7 @@
 
 ## 3. Az adózó az 53. § (3) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
 
-## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, az illetéket, a cégautóadót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
+## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót, járulékot, az illetéket, a cégautóadót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 ## Határidők
 
@@ -257,67 +257,3 @@
 ## 4.3. A Tbj. 39. §-a alapján fizetendő egészségügyi szolgáltatási járulék
 
 ## A természetes személy a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségét első ízben a bejelentést követő hónap tizenkettedik napjáig, ezt követően havonta, a tárgyhót követő hónap tizenkettedik napjáig teljesíti.
-
-## 5. Játékadó
-
-## 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
-
-## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
-
-## 6. Rehabilitációs hozzájárulás
-
-## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
-
-## 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
-
-## 7. Külön fel nem sorolt befizetések
-
-## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
-
-## II.
-
-## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
-
-## Általános rendelkezések
-
-## Ha a helyi adóban, a belföldi gépjárművek adójában (a nyitó szövegrészben továbbiakban együtt: adó) az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
-
-## Az önkormányzati adóhatóság az adónemben túlfizetésként fennálló, ezer forintot el nem érő adót nem téríti vissza, azt a jövőben esedékes – az önkormányzati adóhatóságnál nyilvántartott – adóra, egyéb közteherre számolja el.
-
-## A) Helyi adók
-
-## 1. Az adózó az állandó jellegű helyi iparűzési tevékenység utáni adóban
-
-## a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
-
-## b) az adóelőleg-kiegészítés összegét az adóév utolsó hónapjának huszadik napjáig fizeti meg;
-
-## c) a megfizetett adóelőleg és adóelőleg-kiegészítés, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
-
-## 2. Az adózó az ideiglenes jellegű helyi iparűzési tevékenysége utáni adót a tevékenység befejezése napját követő hónap tizenötödik napjáig fizeti meg.
-
-## 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.
-
-## 4. Az adózó – az adóról szóló önkormányzati rendelet évközi hatálybalépése esetét kivéve – az építményadót, telekadót, magánszemély kommunális adóját a naptári évben félévente, két egyenlő részletben – végrehajtható okirat alapján – március hónap tizenötödik napjáig, valamint szeptember hónap tizenötödik napjáig fizeti meg.
-
-## B) Belföldi gépjárművek adója
-
-## Az adózó – az évközi adókötelezettség keletkezésének (változásának) kivételével – az adót a naptári évben félévente, két egyenlő részletben – végrehajtható okirat alapján – március hónap tizenötödik napjáig, valamint szeptember hónap tizenötödik napjáig fizeti meg.
-
-## III.
-
-## KÖLTSÉGVETÉSI TÁMOGATÁSOK
-
-## 1. Az állami adó- és vámhatóságtól a költségvetési támogatást az adózó ezer forintra kerekítve igényelheti.
-
-## 2. Ha a támogatást megállapító jogszabály eltérően nem rendelkezik,
-
-## 2.1. a havonta megállapított költségvetési támogatást az adózó havonta a tárgyhót követő hó huszadik napjától,
-
-## 2.2. a feltétel bekövetkeztéhez kötött költségvetési támogatást az előírt mellékletekkel ellátott bevallás benyújtása időpontjától
-
-## igényelheti.
-
-## 3. Gyakoribb igénybevétel, egyszeri támogatási előleg
-
-## 3.1 Az adóhatóság az adózó igénylésére a költségvetési támogatásokat kiutalja, kérelemre azt indokolt esetben gyakrabban folyósítja, illetve a költségvetési támogatásra egyszeri támogatási előleg kiutalását engedélyezi.

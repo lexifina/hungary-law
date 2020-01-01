@@ -2,7 +2,7 @@
 
 Az állami adó- és vámhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi
 
-a) az általános forgalmiadó-alanynak minősülő, illetve az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó adózó, valamint e törvények hatálya alá nem tartozó, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
+a) az általános forgalmiadó-alanynak minősülő, valamint általános forgalmiadó-alanynak nem minősülő, de adószámmal rendelkező jogi személy, egyéb szervezet adózók
 
 aa) nevét (elnevezését), adószámát, székhelyét, telephelyét,
 

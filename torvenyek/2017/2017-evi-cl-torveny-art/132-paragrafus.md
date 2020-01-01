@@ -90,7 +90,7 @@ c) az adózó főtevékenysége a mindenkor hatályos TEÁOR-nómenklatúra szer
 
 d) adóbevallás benyújtásának az esedékessége.
 
-(12) A (7) bekezdés szerinti adatszolgáltatási kötelezettsége során az állami adó- és vámhatóság a következő sávok szerint adatot szolgáltat az igénybevett kedvezmény összegének támogatástartalmát illetően:
+(12) A (10) bekezdés szerinti adatszolgáltatási kötelezettsége során az állami adó- és vámhatóság a következő sávok szerint adatot szolgáltat az igénybevett kedvezmény összegének támogatástartalmát illetően:
 
 a) a félmillió eurónak megfelelő forintösszeget meghaladó, de az egymillió eurónak megfelelő forintösszeget meg nem haladó támogatástartalom;
 

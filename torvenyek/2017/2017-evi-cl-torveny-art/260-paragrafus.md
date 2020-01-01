@@ -4,7 +4,7 @@
 
 a) nincs az állami adó- és vámhatóságnál nyilvántartott nettó tartozása, valamint köztartozása;
 
-b) nincs behajthatatlanság címén nyilvántartott és el nem évült tartozása;
+b)
 
 c) az adózó nyilatkozata alapján az esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz vagy tett;
 

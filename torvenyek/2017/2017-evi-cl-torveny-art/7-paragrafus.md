@@ -42,7 +42,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 16. előtársaság: a jogelőd nélkül létrehozni kívánt gazdasági társaság, fióktelep, egyesülés, szövetkezet, erdőbirtokossági társulat és vízgazdálkodási társulat társasági, társulati szerződése (alapító okirata, alapszabálya) ellenjegyzésének, illetve közokiratba foglalásának napjától a létrejöttének (a cégjegyzékbe való bejegyzésének) napjáig, a cégbejegyzés iránti kérelem jogerős elutasításának vagy a cégbejegyzési eljárás megszüntetésének a napjáig, feltéve, hogy a cégbejegyzés iránti kérelmet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) hatálybalépését követően nyújtották be,
 
-17. elszámolás: a fizetési kötelezettség nyilvántartása, megfizetése, kiutalása, visszatérítése, visszaigénylése, átvezetése, behajthatatlansága miatti kezelése, illetve a megállapításához vagy végrehajtásához való jog elévülése miatti törlése,
+17. elszámolás: a fizetési kötelezettség nyilvántartása, megfizetése, kiutalása, visszatérítése, visszaigénylése, átvezetése, ideiglenesen eredménytelen végrehajtása miatti kezelése, illetve a megállapításához vagy végrehajtásához való jog elévülése miatti törlése,
 
 18. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep,
 

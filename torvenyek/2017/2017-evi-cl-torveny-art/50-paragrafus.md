@@ -40,6 +40,12 @@ a) a házastárs nevét, adóazonosító jelét,
 
 b) a kedvezmény igénybe vételének módjára (egyedül, megosztással) vonatkozó döntést,
 
+7a. a természetes személy tekintetében az Szja tv. 29/D. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+
+a) a kedvezményre jogosító valamennyi gyermek nevét, adóazonosító jelét (adóazonosító jel hiányában a természetes személyazonosító adatait),
+
+b) az Szja tv. 29/D. § (2) bekezdés szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+
 8. a 6. és 7. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 
 9. a nyugdíjjárulék alapját képező jövedelmet, a nyugdíjjárulék-köteles jutalom összegét, illetve a levont nyugdíjjárulék összegét,

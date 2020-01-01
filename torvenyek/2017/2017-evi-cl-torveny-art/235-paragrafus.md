@@ -1,4 +1,4 @@
-### 235. § [Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezéssel és az AFE-val összefüggő szabályok megsértése]
+### 235. § [Az automataberendezéssel és az AFE-val összefüggő szabályok megsértése]
 
 Az állami adó- és vámhatóság
 
