@@ -1,3 +1,5 @@
+## 1. §[^1]
+
 ## 2. § E rendelet alkalmazásában
 
 1. átutalás: a fizető fél rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számláját a kedvezményezett javára megterhelik,
@@ -63,3 +65,5 @@ c) belföldi feladási címről az Európai Unió más tagállamába található
 13. termékértékesítés: az általános forgalmi adóról szóló törvény szerinti termékértékesítés,
 
 14. végfelhasználó: a terméket személyes szükséglet kielégítését meg nem haladó mennyiségben magánszükséglete kielégítésére való felhasználás céljából vásárló természetes személy.
+
+[^1]: Az 1. § a 24/2019. (XII. 30.) PM rendelet 7. §-a alapján hatályát vesztette.

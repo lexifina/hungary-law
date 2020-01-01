@@ -30,10 +30,13 @@ a) belföldről az Európai Unió más tagállamában található kirakodási (�
 
 b) az Európai Unió más tagállamából vagy belföldi feladási címről belföldi kirakodási (átvételi) címre történő közúti fuvarozás esetén valamennyi kirakodási (átvételi) címet be kell jelenteni.
 
+(6a)[^16] A termék fuvarozására használt gépjármű kirakodási (átvételi) címre érkezése időpontjának, több belföldi kirakodási (átvételi) cím esetén a sorban utolsó kirakodási (átvételi) címre érkezése időpontjának bejelentését követően az EKAER szám az EKAER elektronikus felületen haladéktalanul lezárásra kerül.
+
 (7) Az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja vagy az általa kijelölt személyek által teljesített bejelentés alapján az állami adó- és vámhatóság az EKAER számot az EKAER elektronikus felületen megállapítja és az adómegállapításhoz való jog elévülési idején belül tárolja.
 
 (8) Az EKAER számot – a 15 napos érvényességi ideje alatt az érvénytelenítés indokának megadásával – érvénytelenítheti az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja, valamint az általa erre a 14. § (2) bekezdése szerint kijelölt személy.
 
-(9)[^12]
+(9)[^17]
 
-[^12]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.
+[^16]: A 15. § (6a) bekezdését a 24/2019. (XII. 30.) PM rendelet 4. §-a iktatta be.
+[^17]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.
