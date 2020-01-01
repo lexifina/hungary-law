@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2019-03-13 | 2013-4-20-22.27 | 47/2019. (III. 12.) Korm. rendelet |
 | 2019-07-01 | 2013-4-20-22.28 | 126/2019. (V. 30.) Korm. rendelet |
 | 2019-11-28 | 2013-4-20-22.29 | 282/2019. (XI. 27.) Korm. rendelet |
+| 2020-01-01 | 2013-4-20-22.30 | 282/2019. (XI. 27.) Korm. rendelet |

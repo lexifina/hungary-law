@@ -1,8 +1,8 @@
-## 28. §[^155]
+## 28. §[^156]
 
-## 13. [^156] A kiegészítő melléklet
+## 13. [^157] A kiegészítő melléklet
 
-29. § (1)[^157]
+29. § (1)[^158]
 
 (2) A kiegészítő melléklet tartalmazza
 
@@ -14,6 +14,6 @@ c) a kiegészítő tájékoztató adatokat.
 
 (3) A (2) bekezdés szerinti adatokat a 8–10. mellékletek szerint kell bemutatni.
 
-[^155]: A 28. §-t a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 2. pontja hatályon kívül helyezte.
-[^156]: A 13. alcím címe a 351/2016. (XI. 18.) Korm. rendelet 12. § (2) bekezdés 1. pontja szerint módosított szöveg.
-[^157]: A 29. § (1) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^156]: A 28. §-t a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^157]: A 13. alcím címe a 351/2016. (XI. 18.) Korm. rendelet 12. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^158]: A 29. § (1) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 3. pontja hatályon kívül helyezte.

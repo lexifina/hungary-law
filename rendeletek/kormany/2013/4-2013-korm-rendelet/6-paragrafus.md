@@ -2,13 +2,13 @@
 
 a) a költségvetési szervek elemi költségvetéséről és a 10. § (2) bekezdése szerint a mérlegében kimutatható vagyonról költségvetési szervenként,
 
-b)[^12] az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról elkülönített állami pénzalaponként, társadalombiztosítás pénzügyi alapjaiként,
+b)[^13] az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról elkülönített állami pénzalaponként, társadalombiztosítás pénzügyi alapjaiként,
 
-c)[^13] a fejezeti kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról fejezetenként,
+c)[^14] a fejezeti kezelésű előirányzatok elemi költségvetéséről és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról fejezetenként,
 
-d)[^14] az 1. melléklet szerinti központi kezelésű előirányzatok elemi költségvetéséről, az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételekről és kiadásokról, és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról azok egészére,
+d)[^15] az 1. melléklet szerinti központi kezelésű előirányzatok elemi költségvetéséről, az 1. melléklet szerinti központi kezelésű előirányzatokkal kapcsolatos finanszírozási bevételekről és kiadásokról, és a 10. § (3) bekezdése szerint azok mérlegében kimutatható vagyonról azok egészére,
 
-e)[^15] a tulajdonosi joggyakorló szervezetek mérlegében kimutatható vagyonról és az általuk kezelt központi kezelésű előirányzatokról azok egészére, és
+e)[^16] a tulajdonosi joggyakorló szervezetek mérlegében kimutatható vagyonról és az általuk kezelt központi kezelésű előirányzatokról azok egészére, és
 
 f) a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács elemi költségvetéséről és a 10. § (2) bekezdése szerint azok mérlegében kimutatható vagyonról a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács egészére.
 
@@ -20,9 +20,9 @@ aa) költségvetési jelentés,
 
 ab) maradvány kimutatás,
 
-ac)[^16] adatszolgáltatás a személyi juttatások és a foglalkoztatottak, választott tisztségviselők összetételéről,
+ac)[^17] adatszolgáltatás a személyi juttatások és a foglalkoztatottak, választott tisztségviselők összetételéről,
 
-ad)[^17] adatszolgáltatás a társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről,
+ad)[^18] adatszolgáltatás a társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről,
 
 ae) önkormányzati alrendszer sajátos gazdálkodásához kapcsolódó elszámolások,
 
@@ -30,17 +30,17 @@ b) a vagyoni helyzet és az eredményszemléletű bevételek, költségek, ráfo
 
 ba) mérleg,
 
-bb)[^18] eredménykimutatás, és
+bb)[^19] eredménykimutatás, és
 
-bc)[^19]
+bc)[^20]
 
 bd) kiegészítő melléklet.
 
-[^12]: A 6. § (1) bekezdés b) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.
-[^13]: A 6. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 2. pontja szerint módosított szöveg.
-[^14]: A 6. § (1) bekezdés d) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
-[^15]: A 6. § (1) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^16]: A 6. § (2) bekezdés a) pont ac) alpontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^17]: A 6. § (2) bekezdés a) pont ad) alpontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 3. pontja szerint módosított szöveg.
-[^18]: A 6. § (2) bekezdés b) pont bb) alpontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
-[^19]: A 6. § (2) bekezdés b) pont bc) alpontját a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^13]: A 6. § (1) bekezdés b) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.
+[^14]: A 6. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 2. pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdés d) pontja a 307/2013. (VIII. 4.) Korm. rendelet 40. § 2. pontja szerint módosított szöveg.
+[^16]: A 6. § (1) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 6. § (2) bekezdés a) pont ac) alpontja a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^18]: A 6. § (2) bekezdés a) pont ad) alpontja a 497/2013. (XII. 29.) Korm. rendelet 112. § 3. pontja szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdés b) pont bb) alpontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
+[^20]: A 6. § (2) bekezdés b) pont bc) alpontját a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 1. pontja hatályon kívül helyezte.
