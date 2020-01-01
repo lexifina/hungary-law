@@ -70,6 +70,6 @@
 
 ## A 0,8 értéket el nem érő mutatóval rendelkező Kérelmező részére engedélyt a Hivatal nem ad.
 
-5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^323]
+5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^327]
 
-[^323]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^327]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.

@@ -108,7 +108,7 @@
 
 ## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
 
-## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket.
 
 ## (A megfelelő rész aláhúzandó.)
 
@@ -154,7 +154,7 @@
 
 ## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
 
-## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+## g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket.
 
 ## A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 2. § 30. pontja szerint fogyatékkal élő felhasználó:
 
@@ -176,7 +176,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^330]
+10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^334]
 
 Kérelem fogyatékkal élő személyként a védendő felhasználók nyilvántartásába történő
 
@@ -370,7 +370,7 @@ e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
 
-g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket.
 
 Az az igénylő, aki egyidejűleg mind fogyatékkal élő felhasználónak, mind szociálisan rászoruló felhasználónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti, és egyaránt jogosulttá válhat a fogyatékkal élőket megillető különleges bánásmódra, valamint a szociálisan rászoruló felhasználóknak nyújtott kedvezményekre. Ebben az esetben külön-külön igazolni kell, hogy a felhasználó fogyatékkal élő felhasználónak, illetve szociálisan rászoruló felhasználónak minősül. A szociálisan rászoruló felhasználóként történő nyilvántartásba vétel iránti kérelemhez a 9. melléklet szerinti adatlapot kell benyújtani.
 
@@ -398,4 +398,4 @@ Az igazolást az igénylőnek kell benyújtania a víziközmű-szolgáltatóhoz 
 
 A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-[^330]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^334]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

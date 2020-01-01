@@ -4,7 +4,7 @@ a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
 
 b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-c) a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
+c)[^275] a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
@@ -12,9 +12,11 @@ e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül,
 
-g) a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket, vagy
+g)[^276] a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket, vagy
 
-h) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll.
+h) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll,
+
+i)[^277] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
 (2) E Fejezet alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -28,16 +30,19 @@ b) a szociálisan rászoruló felhasználói státuszt megállapító szerv ált
 
 (4) A víziközmű-szolgáltató az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
-(5)[^275] A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 15 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja.
+(5)[^278] A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 15 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja.
 
-(6)[^276] Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 15 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
+(6)[^279] Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 15 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
 
-(7)[^277] A víziközmű-szolgáltató a szociálisan rászoruló személyként nyilvántartott védendő felhasználót, valamint azt a fogyatékkal élő védendő felhasználót, aki esetében nyilvántartásba történő felvétele során a szakorvosi vélemény nem mondta ki, hogy állapotában jelentős javulás nem várható, legalább a Vksztv. 61/A. § (7) bekezdésében meghatározott határidőt megelőző 15 nappal közérthetően, írásban, tértivevény-szolgáltatással feladott levélben, a számlalevélben vagy egyéb igazolható módon tájékoztatja a Vksztv. 61/A. § (7) bekezdése szerinti kötelezettségéről, egyúttal megküldi részére a 9. melléklet szerinti adatlapot.
+(7)[^280] A víziközmű-szolgáltató a szociálisan rászoruló személyként nyilvántartott védendő felhasználót, valamint azt a fogyatékkal élő védendő felhasználót, aki esetében nyilvántartásba történő felvétele során a szakorvosi vélemény nem mondta ki, hogy állapotában jelentős javulás nem várható, legalább a Vksztv. 61/A. § (7) bekezdésében meghatározott határidőt megelőző 15 nappal közérthetően, írásban, tértivevény-szolgáltatással feladott levélben, a számlalevélben vagy egyéb igazolható módon tájékoztatja a Vksztv. 61/A. § (7) bekezdése szerinti kötelezettségéről, egyúttal megküldi részére a 9. melléklet szerinti adatlapot.
 
 (8) Ha a védendő felhasználók nyilvántartásában nem szereplő lakossági felhasználó díjtartozásával 45 napot meghaladó késedelembe esett, a víziközmű-szolgáltató további 15 napon belül írásban, közérthető módon és áttekinthető formában tájékoztatja a lakossági felhasználót a szociálisan rászoruló felhasználókat megillető kedvezményekről, a védendő felhasználók nyilvántartásába történő felvétel kérelmezésének módjáról, valamint megküldi részére a 9. melléklet szerinti adatlapot.
 
 (9) Ha a felhasználó kérte a védendő felhasználók nyilvántartásába történő felvételt, annak elbírálásáig a Vksztv. 58. § (1) bekezdés szerinti intézkedést a víziközmű-szolgáltató nem foganatosíthatja.
 
-[^275]: A 88/B. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^276]: A 88/B. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^277]: A 88/B. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^275]: A 88/B. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^276]: A 88/B. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^277]: A 88/B. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^278]: A 88/B. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^279]: A 88/B. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^280]: A 88/B. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
