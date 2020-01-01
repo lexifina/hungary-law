@@ -6,7 +6,7 @@
 
 | 2. | Tűzvédelmi szakértő | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 3. | Gázszerelő | mérésügyi és műszaki biztonsági hatáskörében eljáró fővárosi és megyei kormányhivatal |  |
+| 3. | Gázszerelő | Magyar Mérnöki Kamara |  |
 
 | 4. | Növényvédelmi tevékenység | Magyar Növényvédő Mérnöki és Növényorvosi Kamara területileg illetékes szerve | Magyar Növényvédő Mérnöki és Növényorvosi Kamara |
 
