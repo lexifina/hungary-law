@@ -38,7 +38,7 @@
 
 ## A 8/B. §-ban foglalt előírás alapján a használati melegvíz és a medencés fürdővíz kezelő eljárások tekintetében a D) rész szerinti előírást kell alkalmazni.
 
-## II. A kormányhivatalhoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei
+## II. Az NNK-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei
 
 ## 1. Minden esetben be kell nyújtani az 1.1-1.6. pontban felsoroltakat:
 
@@ -50,7 +50,7 @@
 
 ## 1.4. A termék felhasználási területe (részletezve)
 
-## 1.5. Az NNK által kiadott pozitív elbírálású szakvélemény
+## 1.5.
 
 ## 1.6. Magyar nyelvű használati útmutató, vagy kezelési-üzemeltetési utasítás vagy gépkönyv, amely tartalmazza a közegészségügyi szempontú alkalmazási feltételeket
 
@@ -58,9 +58,9 @@
 
 ## 3. Igazgatási szolgáltatási díj megfizetését igazoló dokumentum
 
-## III. A kormányhivatalhoz benyújtandó felülvizsgálati kérelem tartalmi követelményei
+## III. Az NNK-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei
 
-## 1. A felülvizsgálatról szóló, NNK által kiadott pozitív elbírálású szakvélemény
+## 1.
 
 ## 2. Gyártói nyilatkozat a termék változatlan gyártási körülményeiről
 
@@ -94,7 +94,7 @@
 
 ## A termékek minősítését az NNK a honlapján közzétett, terméktípusonként részletezett szakvéleményezési tájékoztatók szerint végzi.
 
-## VI. A kormányhivatal a közegészségügyi kockázatok mérlegelése alapján további dokumentumok benyújtását írhatja elő.
+## VI. Az NNK a közegészségügyi kockázatok mérlegelése alapján további dokumentumok benyújtását írhatja elő.
 
 6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^126]
 

@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-201-20-
 | 2017-10-27 | 2001-201-20-22.32 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2018-01-01 | 2001-201-20-22.33 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2018-10-01 | 2001-201-20-22.34 | 430/2013. (XI. 15.) Korm. rendelet |
+| 2020-01-01 | 2001-201-20-22.35 | 360/2019. (XII. 30.) Korm. rendelet |
