@@ -1,8 +1,8 @@
-## 120/D. §[^379] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^380] előtt kezdték meg.
+## 120/D. §[^382] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^383] előtt kezdték meg.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^381] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^384] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,9 +14,9 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^382] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke.
+f)[^385] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke.
 
-[^379]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
-[^380]: A hatálybalépés időpontja 2017. január 2.
-[^381]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^382]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^382]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
+[^383]: A hatálybalépés időpontja 2017. január 2.
+[^384]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^385]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.

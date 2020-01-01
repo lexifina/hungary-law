@@ -4,8 +4,8 @@
 
 (2) A törzskönyv a jármű közúti forgalomban való részvételének nem feltétele.
 
-(3)[^258] A jármű tulajdonjogában bekövetkezett változás nyilvántartásba-vételekor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet vissza kell vonni és érvénytelenítve a keletkezett iratokkal a Nyilvántartónak meg kell küldeni.
+(3)[^261] A jármű tulajdonjogában bekövetkezett változás nyilvántartásba-vételekor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet vissza kell vonni és érvénytelenítve a keletkezett iratokkal a Nyilvántartónak meg kell küldeni.
 
 (4) Az ellenkező bizonyításáig a törzskönyvet birtokló ügyfelet jogszerű tulajdonosnak kell tekinteni.
 
-[^258]: A 81. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^261]: A 81. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
