@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-172-20-
 | 2017-08-01 | 2012-172-20-22.18 | 2016: LXXIII. törvény |
 | 2017-08-12 | 2012-172-20-22.19 | 223/2017. (VIII. 11.) Korm. rendelet |
 | 2019-04-24 | 2012-172-20-22.20 | 88/2019. (IV. 23.) Korm. rendelet |
+| 2020-01-01 | 2012-172-20-22.21 | 360/2019. (XII. 30.) Korm. rendelet |
