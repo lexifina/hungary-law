@@ -4,8 +4,7 @@
 
 20. § (1)[^4]
 
-(2)[^5]
+(2) Az R3. 3. § (9) bekezdése helyébe a következő rendelkezés lép:
 
 [^3]: A 10–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 20. § (2) bekezdése a 25. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
