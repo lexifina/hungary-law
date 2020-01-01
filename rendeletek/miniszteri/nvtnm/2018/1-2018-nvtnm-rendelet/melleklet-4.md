@@ -62,4 +62,4 @@ A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
 
 | 4. | MNV Üzletviteli és Tanácsadó Zártkörűen Működő Részvénytársaság | 01-10-140513 | Maróth Gáspár, a nemzeti védelmi ipari és védelmi célú fejlesztésekért, valamint a haderő-modernizáció koordinálásáért felelős kormánybiztos | 2020. július 16. |
 
-[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a, a 14/2019. (IX. 25.) NVTNM rendelet 1. §-a, a 22/2019. (XI. 20.) NVTNM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a, a 14/2019. (IX. 25.) NVTNM rendelet 1. §-a, a 22/2019. (XII. 20.) NVTNM rendelet 1. §-a szerint módosított szöveg.

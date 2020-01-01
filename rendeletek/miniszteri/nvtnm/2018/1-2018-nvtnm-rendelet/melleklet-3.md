@@ -86,7 +86,7 @@
 
 | 1. | Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság | 01-10-044590 | 2022. december 31. |
 
-## IX. Tulajdonosi joggyakorló: az Országos Mentőszolgálat
+## IX. Tulajdonosi joggyakorló: a Készenléti Rendőrség
 
 |  | A | B | C |
 
