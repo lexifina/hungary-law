@@ -1,6 +1,6 @@
 38/A. § A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytatót – azon napok tekintetében, amelyeken az a)–g) pontok szerinti körülmény fennáll – a 36. § (4)–(4a) bekezdése szerinti befizetési kötelezettség nem terheli azon általa munkavégzésre irányuló jogviszony keretében foglalkoztatott ismertető személy után:
 
-a) akinek táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat folyósítanak, ennek időtartama alatt,
+a) akinek táppénzt, baleseti táppénzt, csecsemőgondozási díjat, örökbefogadói díjat, gyermekgondozási díjat folyósítanak, ennek időtartama alatt,
 
 b) akinek gyermekgondozást segítő ellátást folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
 

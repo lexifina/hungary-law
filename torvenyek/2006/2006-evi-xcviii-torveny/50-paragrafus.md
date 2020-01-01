@@ -18,6 +18,6 @@ c) az egészségügyi államigazgatási szerv fiókgyógyszertár működtetés�
 
 a) a településrészi önkormányzatot (részönkormányzatot) létrehozó képviselő-testület ahhoz hozzájárul, és
 
-b) a működtetni kívánt fiókgyógyszertár bejárata és a településen már működő gyógyszertárak bejárata között számított – közúton mért – távolság minimum 1000 méter.
+b) a működtetni kívánt fiókgyógyszertár betegforgalmi bejárata és a településen már működő gyógyszertárak betegforgalmi bejárata között számított – közúton mért – távolság minimum 1000 méter.
 
 (3) A fiókgyógyszertár annak a közforgalmú gyógyszertárnak a telephelye, amelyre nézve a létesítését engedélyezték. Mozgó egységként működtetett fiókgyógyszertár esetén az egészségügyi államigazgatási szerv engedélyében megjelöli a mozgó egység működtetését kérő közforgalmú gyógyszertár székhelyéhez földrajzilag legközelebb eső ellátható települések körét. A mozgó fiókgyógyszertár által ellátott lakosságszám az engedélyben megjelölt települések összlakosságának a számát tekintve a 4500 főt nem haladhatja meg.

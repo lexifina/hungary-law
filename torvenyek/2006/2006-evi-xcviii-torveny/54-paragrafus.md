@@ -42,7 +42,9 @@ j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem te
 
 k) a közforgalmú gyógyszertárat működtető gazdasági társaság nem felel meg a 74. § (1) bekezdésében foglaltaknak,
 
-l) a gyógyszertár egészségbiztosítási szervvel fennálló ártámogatási szolgáltatói jogviszonya megszűnik.
+l) a gyógyszertár egészségbiztosítási szervvel fennálló ártámogatási szolgáltatói jogviszonya megszűnik,
+
+m) a gyógyszertár működtetője alaptalanul hivatkozott a 49/C. §-ban foglalt vis maiorra.
 
 (3) A működési engedélyt a (2) bekezdés
 

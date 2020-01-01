@@ -19,3 +19,5 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 (6) A közforgalmú gyógyszertárat működtető gazdasági társaság működése során a gyógyszerészi tulajdoni hányad tekintetében biztosítani kell a tagsági jogoknak a tulajdoni hányadnak megfelelő – a társasági szerződésben rendezett – gyakorlását. Az ezzel ellentétes megállapodás semmis.
 
 (7) A gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész halála esetén a hagyatékátadó végzés jogerőre emelkedését követő 45 napon belül kell megfelelni az (1) bekezdés b) pontjában foglaltaknak.
+
+(8) Ha a közforgalmú gyógyszertárat működtető gazdasági társaság jogutód nélküli megszűnésére arra tekintettel kerülne sor, hogy tagjainak száma egy főre csökken, és az ettől számított hat hónapos jogvesztő határidőn belül a gazdasági társaság nem jelenti be a nyilvántartó hatóságnál újabb tagnak a társaságba való belépését, a gazdasági társaságban egyedüli tagként maradt közforgalmú gyógyszertár működtetésére személyi joggal rendelkező gyógyszerész – a működési engedély módosításával – jogosult egyéni vállalkozóként a gyógyszertárat továbbműködtetni.

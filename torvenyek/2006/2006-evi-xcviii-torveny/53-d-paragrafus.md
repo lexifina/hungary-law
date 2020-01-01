@@ -1,4 +1,4 @@
-53/D. § (1) A gyógyszertárat működtető gazdasági társaság tulajdonosi szerkezetét, törvényes képviseletét, társasági szerződésének vagy alapító okiratának rendelkezéseit az egészségügyi államigazgatási szerv a (2) bekezdés szerinti ellenőrzés céljából és annak keretei között vizsgálja.
+53/D. § (1) A gyógyszertárat működtető gazdasági társaság tulajdonosi szerkezetét, törvényes képviseletét, társasági szerződésének vagy alapító okiratának, valamint a gyógyszertár működtetését szabályozó, a (2) bekezdésben hivatkozott rendelkezéseket érintő egyéb megállapodások, jognyilatkozatok rendelkezéseit az egészségügyi államigazgatási szerv a (2) bekezdés szerinti ellenőrzés céljából és annak keretei között vizsgálja.
 
 (2) Az egészségügyi államigazgatási szerv ellenőrzi, hogy a gyógyszertárat működtető gazdasági társaság, illetve a személyi jogos gyógyszerész a 73. §-ban, a 74. § (3), (5) és (6) bekezdésben, a 75. §-ban, valamint a 83/A. § (3), (7) és (8) bekezdésében foglalt rendelkezések szerint működik, jár el.
 

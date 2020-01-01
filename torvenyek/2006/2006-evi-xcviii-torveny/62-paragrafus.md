@@ -4,7 +4,9 @@
 
 a) a tudományos, oktatói, illetve a szerzői jogi védelem alá eső tevékenységet, vagy
 
-b) a települést egyedüliként ellátó, egy gyógyszerésszel működő közforgalmú gyógyszertárak személyi jogos gyógyszerészei közötti megállapodáson alapuló, évente 60 napot meg nem haladó helyettesítést.
+b) a települést egyedüliként ellátó, egy gyógyszerésszel működő közforgalmú gyógyszertárak személyi jogos gyógyszerészei közötti megállapodáson alapuló, évente 60 napot meg nem haladó helyettesítést, vagy
+
+c) más közforgalmú gyógyszertárban vagy más közforgalmú gyógyszertárhoz tartozó fiókgyógyszertárban folytatott gyógyszerészi tevékenységet feltéve, hogy az adott gyógyszertárat működtető gazdasági társaságban gyógyszerésziként nyilvántartott tulajdoni hányaddal rendelkezik és a munkaideje összesen a heti 60 órát nem haladja meg.
 
 (2a) A gyógyszertár vezetője – az általa vezetett közforgalmú gyógyszertárhoz tartozó fiókgyógyszertár kivételével – csak egy gyógyszertárat vezethet.
 
