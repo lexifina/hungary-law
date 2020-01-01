@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-335-20-
 | 2018-01-01 | 2012-335-20-22.6 | 393/2017. (XII. 13.) Korm. rendelet |
 | 2018-12-29 | 2012-335-20-22.7 | 292/2018. (XII. 21.) Korm. rendelet |
 | 2019-06-30 | 2012-335-20-22.8 | 148/2019. (VI. 25.) Korm. rendelet |
+| 2020-01-01 | 2012-335-20-22.9 | 332/2019. (XII. 20.) Korm. rendelet |
