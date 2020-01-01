@@ -4,9 +4,9 @@
 
 (3) A Kamara a bejelentés alapján a bejelentőt felveszi az európai közösségi hivatásos iparjogvédelmi képviselők névjegyzékébe (a továbbiakban: közösségi képviselők névjegyzéke), ha
 
-a) három hónapnál nem régebbi okirat magyar fordításának bemutatásával bizonyítja, hogy valamely EGT-államban jogosultsággal rendelkezik szabadalmi ügyvivői tevékenység folytatására, és
+a) három hónapnál nem régebbi okirat és magyar fordításának bemutatásával vagy másolatának és magyar fordításának benyújtásával igazolja, hogy valamely EGT-államban jogosultsággal rendelkezik szabadalmi ügyvivői tevékenység folytatására,
 
-b) igazolja szabadalmi ügyvivői felelősségbiztosítása meglétét,
+b) írásban nyilatkozik a Magyarország területére kiterjedő hatályú szabadalmi ügyvivői felelősségbiztosítása meglétéről és annak tartalmáról, és
 
 c) megfizeti a névjegyzékbe vételi díjat.
 

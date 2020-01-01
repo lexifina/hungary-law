@@ -10,7 +10,7 @@ b) közjegyzőként, közjegyzőhelyettesként, bírósági végrehajtóként, v
 
 c) közvetítőként, választottbíróként vagy egyéb vitarendezési minőségben, kivéve a közvetítés eredményeként létrejött egyezség okiratba foglalását és kapcsolódó eljárásokban való jogi képviseletet.
 
-(3) A szabadalmi ügyvivő nem láthat el képviseletet azon közhatalmi hatáskört gyakorló szerv vagy jogutódja által folytatott közhatalmi eljárásban, amellyel közhatalmi hatáskör gyakorlásával közvetlenül összefüggő feladat ellátására létesített jogviszonyban állt, valamint amelynek az irányításával vagy felügyeletével közvetlenül összefüggő feladat ellátására létesített jogviszonyban állt, e jogviszonya megszűnését követő két évig.
+(3) A szabadalmi ügyvivői tevékenység gyakorlója közhatalmi hatáskör gyakorlásával közvetlenül összefüggő feladat ellátására létesített jogviszonya megszűnését követő két évig nem láthat el képviseletet azon közhatalmi hatáskört gyakorló szerv vagy jogutódja által folytatott közhatalmi eljárásban, amelynek a tevékenységében, valamint az irányításával vagy felügyeletével közvetlenül összefüggő feladat ellátásában e jogviszonya alapján, az annak megszűnését megelőző öt évben részt vett.
 
 (4) A szabadalmi ügyvivő nem folytathat olyan szabadalmi ügyvivői tevékenységet, amely összeütközésbe kerülne korábbi ügyfelével szemben vállalt kötelezettségével, kivéve, ha a korábbi és az új ügy között nincs összefüggés, vagy ha a korábbi ügyfél ehhez – a tájékoztatását követően – hozzájárult.
 

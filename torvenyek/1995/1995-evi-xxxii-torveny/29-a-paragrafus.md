@@ -1,0 +1,1 @@
+29/A. § A kamarai tagság fennállása illetve a közösségi képviselők névjegyzékében való szereplés ideje alatt a Kamara honlapján közzéteszi a szabadalmi ügyvivők, valamint a közösségi képviselők felelősségbiztosításával kapcsolatos – az ügyfelek tájékoztatásához szükséges – adatokat.
