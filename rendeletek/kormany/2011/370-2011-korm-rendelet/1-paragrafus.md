@@ -12,12 +12,14 @@ a)[^3] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiak
 
 b) a térségi fejlesztési tanács munkaszervezetére,
 
-c) az a) pontban meghatározottak által alapított szervekre, szervezetekre, ha azok tulajdonosi jogokat vagy vagyonkezelői jogot gyakorolnak,
+c)[^4]
 
-d) a kormányzati szektorba sorolt egyéb szervezetekre és
+d)[^5] a kormányzati szektorba sorolt egyéb szervezetekre – a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 7/J. § (1) bekezdésének a hatálya alá tartozó köztulajdonban álló gazdasági társaságok, valamint a Magyar Nemzeti Bank és annak felügyelete alá tartozó gazdasági társságok kivételével – és
 
 e) jogszabály alapján a költségvetési szervek belső kontrollrendszerére és belső ellenőrzésére vonatkozó szabályokat alkalmazó más szervre, szervezetre.
 
 [^1]: Az I Fejezet megjelölést és címét a 465/2015. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
 [^2]: Az 1. § (2) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 30. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés c) pontját a 342/2019. (XII. 23.) Korm. rendelet 19. § 1. pontja hatályon kívül helyezte.
+[^5]: Az 1. § (2) bekezdés d) pontja a 342/2019. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

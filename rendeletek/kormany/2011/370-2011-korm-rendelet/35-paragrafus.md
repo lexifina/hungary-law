@@ -14,6 +14,6 @@
 
 (7) A vizsgálatvezető köteles gondoskodni az ellenőrzés összehangolt, az ütemezésnek megfelelő végrehajtásáról.
 
-(8)[^96] Ha a költségvetési szerv belső ellenőrzését az irányító szerve vagy az irányító szerv által kijelölt szerv látja el, a költségvetési szerv vezetője alatt az irányított szerv vezetőjét kell érteni azon ellenőrzések végrehajtása esetén, ahol az irányító szerv belső ellenőre az irányított szerv belső ellenőreként jár el.
+(8)[^82] Ha a költségvetési szerv belső ellenőrzését az irányító szerve, az irányító szerv által kijelölt vagy törvény, kormányrendelet által gazdasági szervezetének feladatai ellátására kijelölt szerv látja el, a költségvetési szerv vezetője alatt az ellátott szerv vezetőjét kell érteni azon ellenőrzések végrehajtása esetén, ahol az irányító vagy kijelölt szerv belső ellenőre az ellátott szerv belső ellenőreként jár el.
 
-[^96]: A 35. § (8) bekezdését a 187/2016. (VII. 13.) korm. rendelet 11. §-a iktatta be.
+[^82]: A 35. § (8) bekezdését a 187/2016. (VII. 13.) korm. rendelet 11. §-a iktatta be, szövege a 342/2019. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -30,12 +30,12 @@ k) a képzésekre tervezett kapacitást;
 
 l) az egyéb tevékenységeket.
 
-(5)[^85] Az éves ellenőrzési tervet a belső ellenőrzési vezető a költségvetési szerv vezetőjének egyetértésével módosíthatja. Helyi önkormányzat esetében a belső ellenőrzési vezető a képviselő-testület egyetértésével módosíthatja az éves ellenőrzési tervet.
+(5)[^71] Az éves ellenőrzési tervet a belső ellenőrzési vezető a költségvetési szerv vezetőjének egyetértésével módosíthatja. Helyi önkormányzat esetében a belső ellenőrzési vezető a képviselő-testület egyetértésével módosíthatja az éves ellenőrzési tervet.
 
-(6)[^86] Tanácsadó tevékenységet illetve soron kívüli ellenőrzést a költségvetési szerv vezetője, illetve a belső ellenőrzési vezető kezdeményezésére lehet végezni. Helyi önkormányzat esetén a képviselő-testület is kezdeményezheti a tanácsadó tevékenység, illetve soron kívüli ellenőrzés végzését.
+(6)[^72] Tanácsadó tevékenységet illetve soron kívüli ellenőrzést a költségvetési szerv vezetője, illetve a belső ellenőrzési vezető kezdeményezésére lehet végezni. Helyi önkormányzat esetén a képviselő-testület is kezdeményezheti a tanácsadó tevékenység, illetve soron kívüli ellenőrzés végzését.
 
-(7)[^87] Minisztérium, valamint a Miniszterelnöki Kormányiroda esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot, valamint a Miniszterelnöki Kormányirodát az álláspontjáról. Az álláspont közlésének elmaradására a 16. § (8) bekezdését kell alkalmazni.
+(7)[^73] Minisztérium, valamint a Miniszterelnöki Kormányiroda esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot, valamint a Miniszterelnöki Kormányirodát az álláspontjáról. Az álláspont közlésének elmaradására a 16. § (3) bekezdését kell alkalmazni.
 
-[^85]: A 31. § (5) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
-[^86]: A 31. § (6) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
-[^87]: A 31. § (7) bekezdését a 99/2015. (IV. 20.) Korm. rendelet 6. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 35. § 7. pontja, a 465/2015. (XII. 29.) Korm. rendelet 34. § 14. pontja, a 95/2018. (V. 22.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^71]: A 31. § (5) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
+[^72]: A 31. § (6) bekezdése a 187/2016. (VII. 13.) korm. rendelet 10. §-ával megállapított szöveg.
+[^73]: A 31. § (7) bekezdését a 99/2015. (IV. 20.) Korm. rendelet 6. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 35. § 7. pontja, a 95/2018. (V. 22.) Korm. rendelet 7. § 5. pontja, a 342/2019. (XII. 23.) Korm. rendelet 18. § 3. pontja szerint módosított szöveg.

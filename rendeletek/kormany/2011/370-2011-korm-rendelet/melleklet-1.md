@@ -1,6 +1,6 @@
-## 63. §[^140] E rendeletnek az egyes kormányrendeleteknek a belső kontrollrendszer és az integritásirányítási rendszer fejlesztésével összefüggő módosításáról szóló 187/2016. (VII. 13.) Korm. rendelettel megállapított 15. § (9) bekezdésében foglaltakat azoknál a költségvetési szerveknél, ahol egy fő látja el a belső ellenőrzési tevékenységet, csak a 2017. január 1-je után kinevezett belső ellenőrök esetében kell alkalmazni.
+## 64. §[^129] E rendeletnek az egyes kormányrendeleteknek az államháztartási kontrollokkal összefüggő módosításáról szóló 342/2019. (XII. 23.) Korm. rendelettel megállapított 1. § (2) bekezdés d) pontját 2020. július 1-jétől kell alkalmazni.
 
-1. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^141]
+1. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^130]
 
-[^140]: A 63. §-t a 187/2016. (VII. 13.) korm. rendelet 14. §-a iktatta be.
-[^141]: Az 1. melléklet a 187/2016. (VII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^129]: A 64. §-t a 342/2019. (XII. 23.) Korm. rendelet 17. §-a iktatta be.
+[^130]: Az 1. melléklet a 187/2016. (VII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.

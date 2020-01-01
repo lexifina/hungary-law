@@ -58,6 +58,6 @@
 
 ## aláírás
 
-2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^142]
+2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^131]
 
-[^142]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

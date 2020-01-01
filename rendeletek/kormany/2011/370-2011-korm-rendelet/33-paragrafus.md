@@ -1,6 +1,6 @@
 ## 16. Az ellenőrzési program
 
-33. § (1)[^93] A belső ellenőrzési vezető – a 34. § (1) bekezdésében foglaltak figyelembevételével – minden egyes ellenőrzés lefolytatásához megbízólevél aláírásával kijelöli a vizsgálatvezetőt és az ellenőrzéseket lefolytató belső ellenőröket. Vizsgálatvezetőnek az jelölhető ki, aki legalább kétéves, jogszabályban meghatározott szakmai gyakorlattal rendelkezik.
+33. § (1)[^79] A belső ellenőrzési vezető – a 34. § (1) bekezdésében meghatározottak figyelembevételével – minden egyes ellenőrzés lefolytatásához megbízólevél aláírásával kijelöli a vizsgálatvezetőt, az ellenőrzéseket lefolytató belső ellenőröket és szükség esetén az ellenőrzésben részt vevő szakértőket. Vizsgálatvezetőnek az jelölhető ki, aki legalább kétéves, jogszabályban meghatározott szakmai gyakorlattal rendelkezik. Szakértőnek az adott költségvetési szerv alkalmazottja is kijelölhető a 20. §-ban a belső ellenőrökre meghatározott összeférhetetlenségi szabályok figyelembevételével.
 
 (2) A vizsgálatvezető által készített és a belső ellenőrzési vezető által jóváhagyott ellenőrzési program tartalmazza:
 
@@ -14,7 +14,7 @@ d) az ellenőrzés tárgyát és célját;
 
 e) az ellenőrizendő időszakot;
 
-f)[^94] az ellenőrzés tervezett időtartamát, a jelentés elkészítésének határidejét;
+f)[^80] az ellenőrzés tervezett időtartamát, a jelentés elkészítésének határidejét;
 
 g) az ellenőrök, szakértők, valamint a vizsgálatvezető megnevezését, megbízólevelük számát, a feladatmegosztást;
 
@@ -26,5 +26,5 @@ j) a belső ellenőrzési vezető aláírását.
 
 (3) Az ellenőrzési program végrehajtását a belső ellenőrzési vezető felügyeli. A programtól eltérni a belső ellenőrzési vezető jóváhagyásával lehet, a program módosítását a vizsgálatvezető kezdeményezheti.
 
-[^93]: A 33. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 163. § (2) bekezdésével megállapított, a 187/2016. (VII. 13.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^94]: A 33. § (2) bekezdés f) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^79]: A 33. § (1) bekezdése a 342/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^80]: A 33. § (2) bekezdés f) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.

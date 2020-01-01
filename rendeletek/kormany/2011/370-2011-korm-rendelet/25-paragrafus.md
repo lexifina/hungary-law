@@ -1,3 +1,5 @@
+## 24/A. §[^65]
+
 ## 13. A belső ellenőr jogai és kötelezettségei
 
 ## 25. § A belső ellenőr jogosult:
@@ -11,3 +13,5 @@ c) az ellenőrzött szerv, illetve szervezeti egység vezetőjétől és bármel
 d) az ellenőrzött szerv, illetve szervezeti egység működésével és gazdálkodásával összefüggő kérdésekben információt kérni más szervektől a belső ellenőrzési vezető jóváhagyásával;
 
 e) a vizsgálatba szakértő bevonását kezdeményezni.
+
+[^65]: A 24/A. §-t a 264/2013. (VII. 11.) Korm. rendelet 7. §-a iktatta be.
