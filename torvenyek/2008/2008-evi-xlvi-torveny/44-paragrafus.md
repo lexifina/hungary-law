@@ -1,4 +1,4 @@
-44. § (1) Az élelmiszerlánc-felügyeleti szerv helyszíni ellenőrzésre feljogosított állami tisztviselője, kormánytisztviselője, valamint jelenlétében az Európai Bizottság szakértője és az általa kijelölt szakértő az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerinti ellenőrzés során jogosult
+44. § (1) Az élelmiszerlánc-felügyeleti szerv helyszíni ellenőrzésre feljogosított kormánytisztviselője, valamint jelenlétében az Európai Bizottság szakértője és az általa kijelölt szakértő az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerinti ellenőrzés során jogosult
 
 a) az ellenőrzött helyiségbe, illetve létesítménybe belépni;
 

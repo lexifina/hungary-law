@@ -80,6 +80,8 @@ c) az eljárás egyéb résztvevője, vagy meghatalmazottjaként illetve törvé
 
 (3b) A Hhvtv. 54. §-a szerinti Országos Halgazdálkodási Adattár kapcsolódik a FELIR-hez.
 
+(3c) A FELIR működtetője jogosult a működésével és szolgáltatási tevékenységével kapcsolatos adatokat is a FELIR-ben kezelni.
+
 (4) Az e törvény végrehajtására kiadott jogszabály szerint az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása érdekében megkeresésre adatokat kell átadni:
 
 a) az egyéni vállalkozók nyilvántartásából,
@@ -106,6 +108,8 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 
 (4a) Az élelmiszerlánc-felügyeleti szerv a személyiadat- és lakcímnyilvántartásból az (1) bekezdésben meghatározott feladata ellátása céljából a FELIR-ben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, lakcíme, külföldön történő letelepedésére, elhalálozására vonatkozó adata igénylésére jogosult.
 
+(4b) Az élelmiszerlánc-felügyeleti szerv az egyéni vállalkozók nyilvántartásából az (1) bekezdésben meghatározott feladata ellátása céljából a FELIR-ben nyilvántartott egyéni vállalkozó ügyfél az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § b)–k) pontjában meghatározott adatok igénylésére jogosult.
+
 (5) A FELIR-ben kezelt adatokat a Központi Statisztikai Hivatal részére – a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatóak. Az átvett adatok körét és az adatátvétel részletszabályait a hivatalos statisztikáról szóló törvényben meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (6) Az élelmiszerlánc-felügyeleti szerv biztosítja a mezőgazdasági és vidékfejlesztési támogatási szerv részére a 38. § (1) bekezdésének b), c), f)–h) pontjában meghatározott esetekben az ügyfél törzsadatokhoz való folyamatos hozzáférést.
@@ -125,3 +129,5 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 (12) Az élelmiszerlánc-felügyeleti szerv és a (3a) bekezdés szerinti hatóságok (a továbbiakban együtt: eljáró szerv) elektronikus hatósági ügyintézése során a FELIR biztosítja az Eügyintézési tv. szerinti szabályozott elektronikus ügyintézési szolgáltatásokhoz (továbbiakban: SZEÜSZ-ök) és központi elektronikus ügyintézési szolgáltatásokhoz (továbbiakban: KEÜSZ-ök) való kapcsolódást e törvény végrehajtására kiadott rendeletben meghatározottak szerint. Az eljáró szerv köteles hozzáférést biztosítani az általa igénybe vett, a FELIR működtetéséhez szükséges SZEÜSZ-ökhöz és KEÜSZ-ökhöz az elektronikus ügyintézést biztosító szerv részére.
 
 (13) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara a tagjaira vonatkozó adatok tekintetében az általa vezetett gazdaságszerkezeti nyilvántartáshoz hozzáférést biztosít az élelmiszerlánc-felügyeleti szerv részére hatósági feladatának ellátása céljából.
+
+(14) A Földmegfigyelési Operatív Központ folyamatos és térítésmentes, elektronikus hozzáférést biztosít a Földmegfigyelési Információs Rendszer adatbázisához az élelmiszerlánc-felügyeleti szerv számára a FELIR működtetésével összefüggő feladatainak ellátása érdekében.

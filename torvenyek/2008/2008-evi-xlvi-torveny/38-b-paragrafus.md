@@ -14,11 +14,13 @@ aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek 
 
 (2a) E törvény, illetve a 38/A. § (3a) bekezdésében megjelölt törvények hatálya alá tartozó tevékenységet csak FELIR azonosítóval rendelkező ügyfél folytathat.
 
+(2b) Az e törvény, illetve a 38/A. § (3a) bekezdésében megjelölt törvények hatálya alá tartozó tevékenység végzéséhez szükséges, e törvényben vagy külön jogszabályban meghatározott, nyilvántartásba vételi vagy engedélyezési eljárást csak FELIR azonosítóval rendelkező ügyfél kezdeményezhet.
+
 (3) A FELIR azonosítóval rendelkező ügyfél köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha csődeljárás, felszámolás vagy végelszámolás alatt áll, valamint a jogutódlással történő vagy jogutód nélküli megszűnését is.
 
 (4) A FELIR azonosítóval rendelkező ügyfél köteles az élelmiszerlánc-felügyeleti szervnek bejelenteni az (1) és a (3) bekezdés szerinti adataiban bekövetkezett változást, annak bekövetkezésétől számított tizenöt napon belül.
 
-(5) A (4) bekezdés szerinti kötelezettség elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a FELIR azonosítóval rendelkező ügyfelet a kötelezettség teljesítésére hívja fel. A változásbejelentési kötelezettség teljesítésének ismételt elmaradása esetén az élelmiszerlánc-felügyeleti szerv az ügyfelet az (1) bekezdés szerinti nyilvántartásból törli.
+(5) Amennyiben az élelmiszerlánc-felügyeleti szerv az (1) és a (3) bekezdés szerinti adatokban bekövetkezett változásról tudomást szerez – és az ügyfél a (4) bekezdés szerinti kötelezettségének nem tett eleget – a megváltozott adatokat hivatalból vezeti át a FELIR-ben.
 
 (6) Az élelmiszerlánc-felügyeleti szerv a honlapján elektronikusan hitelesített módon közzéteszi
 

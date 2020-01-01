@@ -1,4 +1,4 @@
-34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi vagy nyilvántartásba veszi
+34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi vagy bejelentés alapján nyilvántartásba veszi
 
 a) járművek élőállat-szállítás céljára történő használatát, illetve ezen járművek mosását és fertőtlenítését végző helyeket, valamint az állati eredetű mellékterméket szállító járműveket;
 

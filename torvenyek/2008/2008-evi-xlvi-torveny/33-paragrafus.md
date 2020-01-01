@@ -8,7 +8,7 @@ b) az állat-, valamint a növény-egészségügyi határállomásokkal rendelke
 
 ba) ellenőrzi az élelmiszer-, illetve takarmánybiztonsági, -minőségi, állat- és növény-egészségügyi rendelkezések megtartását;
 
-bb) végrehajtja az áru, a személyes poggyászban található állati termékek, továbbá nem kereskedelmi célból behozott, kedvtelésből tartott állatok okirat-ellenőrzését, azonosságvizsgálatát és fizikális ellenőrzését (valamint jogszabályban előírt mintavételét);
+bb) végrehajtja az áru, a személyes poggyászban található e törvény hatálya alá tartozó termékek, továbbá nem kereskedelmi célból behozott, kedvtelésből tartott állatok okirat-ellenőrzését, azonosságvizsgálatát és fizikális ellenőrzését (valamint jogszabályban előírt mintavételét);
 
 bc) ellenőrzi az állatok szállításra való alkalmasságát, a kísérő dokumentációt, valamint a szállítóeszközt;
 
