@@ -1,3 +1,0 @@
-13. § (1) Az adatszolgáltató a tőkepiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 29/2017. (XI. 22.) MNB rendelet [a továbbiakban: 29/2017. (XI. 22.) MNB rendelet] szerinti, 2019. január 1-jét megelőző tárgyidőszakra vonatkozó felügyeleti jelentés, adatszolgáltatás teljesítése során – a 29/2017. (XI. 22.) MNB rendelet 6. §-a szerinti felügyeleti jelentés kivételével – a 29/2017. (XI. 22.) MNB rendelet szabályait alkalmazza.
-
-(2) A Bszt. hatálya alá tartozó, magyarországi székhelyű befektetési vállalkozás a 6. § szerinti felügyeleti jelentést első alkalommal 2018. évre mint tárgyidőszakra vonatkozóan teljesíti.
