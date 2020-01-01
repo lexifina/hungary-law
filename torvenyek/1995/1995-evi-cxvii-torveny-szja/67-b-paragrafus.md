@@ -85,3 +85,11 @@ b) az átutalt pénzösszegekről, pénzügyi eszközökről, az eltranszferált
 c) az átutalás napjáról.
 
 (13) Ha a magánszemély a hároméves lekötési időszakot a lekötött pénzösszegnek csak egy részére hosszabbította meg, majd ezt követően rendelkezik a lekötési átutalásról, a lekötési igazoláson fel kell tüntetni a lekötés részben való megszakításakor a magánszemélynek juttatott bevétel és az azzal összefüggésben megállapított lekötési hozam összegét is, mely adatokat a lekötési utalást fogadó befektetési szolgáltató, hitelintézet a további adókötelezettség megállapítása során felhasznál. A lekötési átutalást követően, a lekötési hozamot a lekötési utalást fogadó befektetési szolgáltató úgy állapítja meg, hogy a magánszemély bevételét megnöveli az átadó befektetési szolgáltató, hitelintézet adatszolgáltatása alapján a hároméves lekötési időszak végén a magánszemélynek juttatott bevétellel, és csökkenti a lekötött pénzösszeggel és az átadó befektetési szolgáltató, hitelintézet adatszolgáltatása alapján a hároméves lekötési időszak végén a részkivét után már megállapított lekötési hozammal.
+
+(14) Tartós befektetési szerződést köthet az (1) bekezdésben említett magánszemélyen túlmenően:
+
+a) a magánalapítvány magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából;
+
+b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés teljesítése céljából,
+
+azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.

@@ -30,6 +30,8 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.
 
+1.12. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátás.
+
 2. A lakáshoz kapcsolódóan adómentes:
 
 2.1. a lakáscélú támogatás, ha az
@@ -130,7 +132,7 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.2. a külföldi tartózkodásra tekintettel külföldről kapott ösztöndíj azzal, hogy ilyen ösztöndíjon a külföldi oktatási intézményben folytatott tanulmányra, illetve a külföldi kutatóhelyen végzett kutatásra külföldi kifizető (cég, magánszemély stb.) által folyósított összeget kell érteni;
 
-4.3. a belföldön oktatási, nevelési intézményben, köznevelési, felsőoktatási intézményben vendégtanári tevékenység ellátásáért kapott jövedelem, annak figyelembevételével, hogy vendégtanári tevékenységnek minősül a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi munkaterv alapján külföldi illetőségű magánszemély által nem magyar nyelven folytatott nevelési, oktatási tevékenység;
+4.3. a belföldön köznevelési intézményben, szakképző intézményben vagy felsőoktatási intézményben vendégtanári tevékenység ellátásáért kapott jövedelem, annak figyelembevételével, hogy vendégtanári tevékenységnek minősül a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi munkaterv alapján külföldi illetőségű magánszemély által nem magyar nyelven folytatott nevelési, oktatási tevékenység;
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
@@ -170,23 +172,17 @@ b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogc
 
 4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési foglalkoztatási díj;
 
-4.11. a szakképző iskolai tanulónak, a felsőfokú szakképzésben, felsőoktatási szakképzésben részt vevő hallgatónak tanulószerződés, hallgatói munkaszerződés alapján és a szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, továbbá a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény vagy a szakképzésről szóló törvény alapján a szakképző iskolai tanulónak nyújtott ösztöndíj;
+4.11. a szakképző intézményben a tanulónak, illetve a képzésben részt vevő magánszemélynek a szakképzésről szóló törvény alapján meghatározott mértékben kifizetett ösztöndíj, az első szakma megszerzéséhez kapcsolódóan nyújtott egyszeri pályakezdési juttatás és a rászorultsági helyzetre és a jó tanulmányi eredményre tekintettel pályázat útján nyújtott támogatás, továbbá a szakképzési munkaszerződés alapján a duális képzőhelyen folytatott szakirányú oktatásban részt vevő magánszemélynek a szakképzésről szóló törvény alapján meghatározott mértékben kifizetett munkabér és a minimálbért meg nem haladó mértékű más pénzbeli és nem pénzbeli juttatás;
 
 4.12. a nemzeti felsőoktatási törvény szerinti
 
 4.12.1. hallgató részére
 
-a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevőt, ideértve a doktori képzésben részt vevőt megillető juttatásként kifizetett
-
-– ösztöndíj,
-
-– tankönyv- és jegyzettámogatás teljes összege,
-
-– diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
+a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevő magánszemély, ideértve a doktori képzésben részt vevő magánszemélyt megillető juttatásként kifizetett ösztöndíj, tankönyv- és jegyzettámogatás teljes összege, valamint diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
 b) a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
-c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
+c) folyósított Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
 
 d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályázat alapján nyújtott ösztöndíj;
 
@@ -196,9 +192,11 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.12.4. doktori fokozatszerzésre tekintettel kifizetett juttatás összege;
 
-4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
+4.12.5. Klebelsberg Képzési Ösztöndíj;
 
-4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása, továbbá a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjban, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények és a szakképző iskolák hallgatói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjban, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjban részesülők ösztöndíja;
+4.13. a köznevelési intézmény, a szakképző intézmény, a felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
+
+4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása, továbbá a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjban, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények hallgatói, továbbá a rendvédelmi szakképző intézmény, illetve a honvédelmi szakképző intézmény tanulói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjban, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjban részesülők ösztöndíja;
 
 4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
 
@@ -214,7 +212,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
 
-4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj, továbbá az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló kormányrendelet alapján az első szakképesítés megszerzésére irányuló képzésben történő részvétel során a támogatott jelöltnek a szakképzéssel kapcsolatos kiadások, dologi költségek megtérítésére az adott évre vonatkozó költségvetési törvényben meghatározott mértékű, utólagosan folyósított támogatás.
+4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj,
 
 4.23. a Kormány által alapított közigazgatási ösztöndíjprogram keretében folyósított ösztöndíj;
 
@@ -232,9 +230,9 @@ b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosul
 
 c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
 
-azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen foglalkoztatott munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen foglalkoztatott munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakmai oktatásban részt vevő magánszemély, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
 
-4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
+4.26.
 
 4.27. a kifizető által független félnek biztosított olyan szolgáltatás, amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy a szolgáltatás nem minősül a magánszemély tevékenysége ellenértékének;
 
@@ -256,13 +254,13 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 
 4.36. a Bolyai János kutatási ösztöndíj;
 
-4.37. a szakképzésről szóló törvény és az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló miniszteri rendelet alapján a szakképző iskolai tanulóknak gyakorlati képzésük ideje alatt kötelezően biztosított vagy a gyakorlati képzést végző szervezet által saját döntése alapján biztosított nem pénzbeli juttatások, ideértve az utazási költségtérítést is.
+4.37.
 
 4.38. a külügyi és külgazdasági szakmai ismeretek fejlesztésére, valamint a külügyi és külgazdasági területet érintő ágazati szakmai kutatási és tudományos tevékenység támogatásának elősegítésért a külpolitikáért felelős miniszter által működtetett ösztöndíjprogram keretében biztosított ösztöndíj és juttatás a folyósítás időpontjától függetlenül;
 
 4.39. a felsőfokú végzettséggel rendelkező ápolókat és mentőtiszteket a mesterfokozat, az oklevelesápolói szakképzettség megszerzésében támogató, a Kormány rendeletében előírt feltételekkel kiírt pályázaton elnyert Michalicza-ösztöndíj a folyósítás időpontjától függetlenül;
 
-4.40. a kormányrendeletben meghatározott Szabóky Adolf Szakképzési Ösztöndíj a folyósítás időpontjától függetlenül;
+4.40.
 
 4.41. az az összeg, amelyet a magánszemély, a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott díjjal járó járadék címén kap;
 
@@ -500,9 +498,9 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 8.6. az ingyenesen vagy kedvezményesen juttatott
 
-a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény, és a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
+a) a gyermeknek, tanulónak vagy rá tekintettel más magánszemélynek a nemzeti köznevelésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, a szakképzésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény, és a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
 
-b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
+b) a köznevelési intézmény tanulója, illetve a szakképző intézmény tanulója számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
 c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás, ideértve azt is, ha a kifizető a bölcsődei, óvodai szolgáltatás térítési díját a magánszemély nevére kiállított számla alapján téríti meg;
 
@@ -544,7 +542,7 @@ b) üzleti forgalmának növelése érdekében valamely termék megismertetése 
 
 8.15. az a személyszállítási közszolgáltatási utazási kedvezmény, amely után a kifizető a személyszállítási szolgáltatásokról szóló törvényben meghatározott szociálpolitikai menetdíj-támogatásban részesül;
 
-8.16. a Magyar Honvédség, a rendvédelmi szervezetek, valamint a Nemzeti Adó- és Vámhivatal tartósan fokozott igénybevételnek kitett, terepfoglalkozáson, gyakorlaton részt vevő vagy őr- és ügyeleti szolgálatot ellátó hivatásos és szerződéses állományú tagjának, valamint a polgári védelmi szervezet békeidőszaki, különleges jogrendi katasztrófa elhárításában résztvevőnek a szolgálati feladattal összefüggésben nyújtott természetbeni ellátása, továbbá a tartalékos katona, a rendvédelmi középiskola tanulója, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt kizárólag e jogviszonyával összefüggésben a szolgálati feladathoz kapott nem pénzbeli ellátása, azzal, hogy e rendelkezés alkalmazásában tartósan fokozott igénybevételnek kitett magánszemély a szerződéses legénységi és önkéntes tartalékos, a terrorelhárító, a repülőhajózó, a repülő műszaki, a búvár, a tűzszerész, az ejtőernyős és a békefenntartó feladatokra vezényelt hivatásos és szerződéses katonák állományának a tagja;
+8.16. a Magyar Honvédség, a rendvédelmi szervezetek, valamint a Nemzeti Adó- és Vámhivatal tartósan fokozott igénybevételnek kitett, terepfoglalkozáson, gyakorlaton részt vevő vagy őr- és ügyeleti szolgálatot ellátó hivatásos és szerződéses állományú tagjának, valamint a polgári védelmi szervezet békeidőszaki, különleges jogrendi katasztrófa elhárításában résztvevőnek a szolgálati feladattal összefüggésben nyújtott természetbeni ellátása, továbbá a tartalékos katona, a rendvédelmi szakképző intézmény tanulója, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt kizárólag e jogviszonyával összefüggésben a szolgálati feladathoz kapott nem pénzbeli ellátása, azzal, hogy e rendelkezés alkalmazásában tartósan fokozott igénybevételnek kitett magánszemély a szerződéses legénységi és önkéntes tartalékos, a terrorelhárító, a repülőhajózó, a repülő műszaki, a búvár, a tűzszerész, az ejtőernyős és a békefenntartó feladatokra vezényelt hivatásos és szerződéses katonák állományának a tagja;
 
 8.17. összeghatártól függetlenül a sportversenyen vagy sportvetélkedőn nyert érem, serleg, trófea;
 
@@ -558,11 +556,11 @@ b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, az e
 
 8.21. a kormányrendeletben meghatározott, adómentes juttatásnak minősülő, szociálpolitikai menetdíj-támogatást nem tartalmazó közlekedési kedvezmény;
 
-8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, az egyházi jogi személy forrásából vagy a köznevelési intézmény saját bevételéből
+8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, az egyházi jogi személy forrásából, a köznevelési intézmény vagy a szakképző intézmény saját bevételéből
 
-a) a köznevelésről szóló törvény szerinti sajátos nevelési igényű gyermek, tanuló kulturális, sport és más hasonló rendezvény alkalmával nem pénzbeli formában kap, ideértve a rendezvényhez kapcsolódó utazást, szállást, étkezést és egyéb, a rendezvénnyel szokásszerűen együtt járó juttatást is;
+a) a sajátos nevelési igényű gyermek, tanuló kulturális, sport és más hasonló rendezvény alkalmával nem pénzbeli formában kap, ideértve a rendezvényhez kapcsolódó utazást, szállást, étkezést és egyéb, a rendezvénnyel szokásszerűen együtt járó juttatást is;
 
-b) a köznevelésben vagy hasonló képzésben részt vevő gyermek, tanuló a tanulmányi kirándulás, táborozás, tanulmányi verseny alkalmával kap (ideértve az iskolai könyvjutalmat is);
+b) a gyermek, tanuló a tanulmányi kirándulás, táborozás, tanulmányi verseny alkalmával kap (ideértve az iskolai könyvjutalmat is);
 
 c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügyeletét ellátó magánszemély a jelenlétének, közreműködésének biztosításához szükséges feltételek biztosításaként nem pénzbeli (ide értve különösen az utazást, szállást, étkezést) formában kap.
 
@@ -612,7 +610,7 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 
 8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
 
-8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
+8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 

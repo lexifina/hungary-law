@@ -1,6 +1,6 @@
 ## Az adóelőleg-nyilatkozat
 
-48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat adható esetenként vagy az adóéven belül visszavonásig (újabb nyilatkozattételig) érvényesen. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.
+48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott vagy a magánszemély által az Eüsztv. szerinti elektronikus azonosítási szolgáltatás alkalmazásával az erre a célra létrehozott elektronikus felületen az adóhatóság felé megtett és az adóhatóság által a kifizető részére elektronikus úton továbbított nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat érvényesen esetenként vagy az adóéven belül visszavonásig adható azzal, hogy a korábbi nyilatkozat visszavonásának minősül az is, ha a magánszemély újabb nyilatkozatot tesz. Ha a magánszemély írásban és elektronikus felületen is tett nyilatkozatot, a kifizetőnek az írásban átadott nyilatkozatot kell figyelembe vennie. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.
 
 (2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
 
@@ -12,29 +12,41 @@ c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről
 
 d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
 
-e)
+e) a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítéséről.
 
-(3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adólapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. Ha a családi kedvezményre ugyanazon kedvezményezett eltartott után több magánszemély jogosult, akkor a jogosultak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
+(3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
-a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
+a) a nyilatkozó magánszemély nevét és adóazonosító jelét;
 
 b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
 
-c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
+c) a családi kedvezmény közös érvényesítése esetén az erre vonatkozó döntést, a másik fél nevét és adóazonosító jelét;
 
-(3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
+d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát;
 
-a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
+e) a családi kedvezmény közös érvényesítése esetén a másik fél adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
-b) az adott munkáltatónál, kifizetőnél érvényesítendő kedvezmény összegét;
+(3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
-c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
+a) a nyilatkozó magánszemély nevét és adóazonosító jelét;
+
+b) a kedvezmény közös érvényesítésére vonatkozó döntést, a házastárs nevét és adóazonosító jelét;
+
+c) az adott munkáltatónál, kifizetőnél érvényesítendő kedvezmény összegét;
+
+d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát;
+
+e) az első házasok kedvezményének közös érvényesítése esetén a házastárs adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
+
+(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
+
+(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
 
-b) a nyilatkozattételkor fennálló körülmények ellenére családi kedvezmény, első házasok kedvezménye, adókedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pontban említett esetben is, a befizetési különbözet 12 százalékát
+b) a nyilatkozattételkor fennálló körülmények ellenére négy vagy több gyermeket nevelő anyák kedvezménye, családi kedvezmény, első házasok kedvezménye, tevékenységi kedvezmény, személyi kedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pont szerinti esetben is, a befizetési különbözet 12 százalékát
 
 különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 

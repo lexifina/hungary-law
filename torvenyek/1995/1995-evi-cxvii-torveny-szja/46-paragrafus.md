@@ -32,7 +32,7 @@ b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről 
 
 c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatkozik arról, hogy a 17. § (5) bekezdését alkalmazza.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, első házasok kedvezményét, valamint az érvényesített adókedvezményt.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett négy vagy több gyermeket nevelő anyák kedvezményét, családi kedvezményt, első házasok kedvezményét, valamint az érvényesített személyi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 

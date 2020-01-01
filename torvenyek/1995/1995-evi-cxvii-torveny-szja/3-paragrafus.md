@@ -42,7 +42,7 @@ db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységér
 
 dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
 
-e) kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
+e) kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
 
 f) jogi személy, egyéb szervezet vezető tisztségviselőjeként, felügyelő bizottsága tagjaként megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogi személy, az egyéb szervezet székhelye szerinti állam; vezető tisztségviselő a jogi személy, az egyéb szervezet törvényes képviseletére jogosult magánszemély (például az üzletvezetésre jogosult tag, az ügyvezető, a cégvezető);
 
@@ -156,7 +156,7 @@ c) a szociális igazgatásról és szociális ellátásokról szóló törvény 
 
 d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
 
-e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély illetménye;
+e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély e jogviszonyból származó jövedelme;
 
 f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
 
@@ -246,7 +246,7 @@ b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról 
 
 c) a b) pontban említett ellátásra való jogosultságát már kimerítette, de az állami foglalkoztatási szervvel továbbra is együttműködött,
 
-azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli csecsemőgondozási díjban, gyermekgondozási segélyben részesül, továbbá a letartóztatás, szabadságvesztés, elzárás időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
+azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási segélyben részesül, továbbá a letartóztatás, szabadságvesztés, elzárás időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
 
 44. Azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör.
 
@@ -310,7 +310,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 70. Elemi kár: az elemi csapás (így különösen a jégeső, az árvíz, a belvíz, a fagy, a homokverés, az aszály, a hó-, a jég- és a széltörés, a vihar, a földrengés, valamint a természeti vagy a biológiai eredetű tűz) okozta kár, amelynek igazolására a kár tényét tartalmazó okmány (pl. biztosító, mezőgazdasági igazgatási szerv, katasztrófavédelem végrehajtását végző szerv által kiállított szakvélemény, jegyzőkönyv stb.), vagy – ha nem rendelkezik tőle független szervezet által kiadott okmánnyal – a károsult által kiállított jegyzőkönyv szolgál.
 
-71. Szakképzéssel összefüggő juttatás: a szakképzésről szóló törvény előírásai alapján a tanulót, illetve a felsőfokú szakképzésben részt vevő hallgatót megillető pénzbeli juttatás, valamint a szakképzésben tanulószerződés, illetve hallgatói szerződés nélkül részt vevő tanulót a szakképzéssel összefüggő szakmai gyakorlat időtartamára a szakképzésről szóló törvény előírásai alapján megillető díjazás.
+71.
 
 72.
 

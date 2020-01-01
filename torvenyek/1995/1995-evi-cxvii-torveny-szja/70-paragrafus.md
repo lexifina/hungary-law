@@ -6,7 +6,7 @@ b) a kifizető tevékenységének ellátása érdekében biztosított helyi és 
 
 (2) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra – kivéve a kiegészítő önsegélyező szolgáltatásra – befizetett összeg.
 
-(3) Egyes meghatározott juttatásnak minősül a munkáltató által szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel.
+(3) Egyes meghatározott juttatásnak minősül a munkáltató által a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő magánszemély, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel.
 
 (4) Egyes meghatározott juttatásnak minősül az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azzal, hogy a jövedelem meghatározásánál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat.
 

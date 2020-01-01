@@ -1,12 +1,10 @@
 ## A fizetendő adóelőleg
 
-49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa, illetve más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
+49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a családi kedvezményt, az első házasok kedvezményét érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével [8. §] számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
 
-(2) Az (1) bekezdés szerint kiszámított összeget legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján –
+(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
-a)
-
-b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
+(2) Az (1) bekezdés szerint kiszámított összeget – figyelemmel az (1a) bekezdésben foglaltakra is – legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján – a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
 
 (3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adó- és vámhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adó- és vámhatósághoz bejelentett.
 
@@ -25,3 +23,5 @@ bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat a
 (5) Ha a magánszemély saját maga köteles az adóelőleg megállapítására és megfizetésére, az (1) bekezdés szerint megállapított összeget csökkenti a személyi kedvezmény.
 
 (6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét vagy az átalányban megállapított jövedelem adóelőlegét havonta állapítja meg és vallja be.
+
+(7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
