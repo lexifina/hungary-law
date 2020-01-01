@@ -24,8 +24,19 @@ k) a továbbképzésekről nyilvántartást vezetni, amelyből egyértelműen ny
 
 l) az általa vezetett nyilvántartásokat, a jelenléti íveket és valamennyi továbbképzéssel összefüggő dokumentációt legalább 6 évig megőrizni;
 
-m) a Kormányzati Portálon közzétett, a továbbképzések szervezésének és lebonyolításának szabályairól szóló tájékoztatóban foglaltakat betartani.
+m) a Kormányzati Portálon közzétett, a továbbképzések szervezésének és lebonyolításának szabályairól szóló tájékoztatóban foglaltakat betartani;
+
+n)[^15] a nyilvántartásba vételt végző szervezet részére az Art. 255. § (6a) bekezdés a)–c) pontja szerinti adattartalommal bejelenteni a továbbképzésen részt vevők adatait az egységes Kormányzati Portálon erre a célra rendszeresített internetes felületen keresztül
+
+na) kontakt képzés esetén a jelenléti íveken feltüntetett adatok alapján legkésőbb a továbbképzés lebonyolítását követő 30 napon belül,
+
+nb) elektronikus képzés esetén az elektronikus naplózás alapján a továbbképzési program befejezését követő 60 napon belül, de legkésőbb az elektronikus továbbképzési program elszámolhatósági időszakának végétől számított 30 napon belül.
 
 (2) Az (1) bekezdés h) pontja szerinti jelenléti ívet mind a továbbképzés kezdetekor, mind a befejezésekor vezetni kell. A jelenléti íveknek tartalmazniuk kell a továbbképző szervezet nevét, címét, a továbbképzés helyét, címét, a továbbképzési program címét, kreditpont-minősítési határozatának számát, szakterületének pontos megjelölését, a továbbképzésen előadó oktató nevét, a továbbképzés kezdési és befejezési időpontját, a résztvevők nevét, nyilvántartási számát, aláírását, a jelenléti ívek lezárásának időpontját, valamint a továbbképző bélyegzőjét és cégszerű aláírását.
 
 (3) Az (1) bekezdés j) pontja szerinti kreditpont-igazolásnak tartalmaznia kell az igazolás továbbképző szervezet által kiadott egyedi azonosítóját, a továbbképzésben részt vevő személy nevét, nyilvántartási számát, a nyilvántartásban nem szereplők esetében a továbbképzésben részt vevő természetes személyazonosító adatait, valamint az igazolást kibocsátó továbbképző szervezet nevét, székhelyét, a továbbképzés szakterületét, a továbbképzés formáját, időtartamát, nem elektronikus továbbképzés esetén a helyszínét, pontos kezdeti és befejezési időpontját, a teljesített továbbképzési program címét, kreditpont-minősítési határozatának számát, elszámolhatósági időszakát, kreditpont-értékét a megjelölt szakterületen, az igazolást aláíró személy nevét, beosztását, az igazolás kiállításának dátumát, továbbá a továbbképző szervezet bélyegzőjét és cégszerű aláírását.
+
+(4)[^16] Az (1) bekezdés j) pontja szerinti kreditpont-igazolás annak a továbbképzésben részt vevő személynek állítható ki, aki nyilatkozatával hozzájárul ahhoz, hogy a továbbképzésben való részvételének igazolásához szükséges, általa megadott adatait a továbbképző szervezet kezelje.
+
+[^15]: A 11. § (1) bekezdés n) pontját a 343/2019. (XII. 23.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^16]: A 11. § (4) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 30. § (2) bekezdése iktatta be.

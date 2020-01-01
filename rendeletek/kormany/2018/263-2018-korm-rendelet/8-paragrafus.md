@@ -1,5 +1,3 @@
-## 7. § A 6. § (4) bekezdése szerinti továbbképzésen való részvétel teljesítéséről szóló bejelentést a továbbképzésre kötelezett személynek – külön felszólítás nélkül – a továbbképzési időszak végét követő 30 napon belül kell a 3. § (6) bekezdése szerinti tartalommal benyújtania a nyilvántartásba vételt végző szervezet részére a 6. § (6) bekezdése szerinti továbbképzésen való részvétel és a teljesített kreditpontok igazolásával, az egységes Kormányzati Portálon közzétett tájékoztatóban megjelölt címen.
-
 8. § (1) A továbbképző szervezetnek adótanácsadói, adószakértői és okleveles adószakértői szakterületen folytatott továbbképzések szervezéséhez és lebonyolításához igazolnia kell, hogy
 
 a) rendelkezik a tervezett számú továbbképzéshez szükséges, az oktatott témának megfelelő szakirányú felsőfokú végzettséggel, valamint legalább 3 éves – a kérelem benyújtását megelőző öt évben megszerzett – pénzügyi, számviteli vagy adózási területen folytatott szakmai és oktatási gyakorlattal rendelkező oktatói kapacitással;
@@ -73,3 +71,7 @@ cc) a kérelemben feltüntetett adataiknak – az e rendeletben foglalt feltéte
 cd) a továbbképző szervezetnél oktatást vállalnak.
 
 (8) A (7) bekezdés c) pontja szerinti feltételeket az adott továbbképzési évben első alkalommal benyújtott kreditpont-minősítési kérelem benyújtása során kell igazolni, amennyiben azok adattartalma az adott továbbképzési év során nem változott, és erről a továbbképző szervezet a továbbképzési év során benyújtott további kreditpont-minősítési kérelemben nyilatkozatot tesz.
+
+(9)[^13] A 6. § (4) bekezdése szerinti akkreditált szervezetnek a kreditpont-minősítési eljárás során az (1) bekezdés, az (5) bekezdés c) pontja és a (7) bekezdés a) és b) pontja szerinti feltételeket nem kell igazolnia.
+
+[^13]: A 8. § (9) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 29. §-a iktatta be.

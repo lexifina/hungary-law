@@ -1,4 +1,4 @@
-## 16. §[^1]
+## 16. §[^23]
 
 1. melléklet a 263/2018. (XII. 20.) Korm. rendelethez
 
@@ -8,7 +8,7 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 1. Kibocsátó szervezet megnevezése: „Pénzügyminisztérium”
 
-2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^2] igazolvány”
+2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^24] igazolvány”
 
 3. Nyilvántartási szám
 
@@ -32,5 +32,5 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 10. Kibocsátó aláírása, bélyegzője
 
-[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.
+[^23]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.

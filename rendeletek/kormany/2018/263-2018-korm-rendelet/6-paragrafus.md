@@ -2,34 +2,21 @@
 
 6. § (1) A nyilvántartásba vett személy szakmai továbbképzésen köteles részt venni azon a szakterületen, amelyen a tevékenységet folytatók nyilvántartásában szerepel.
 
-(2) A továbbképzési időszak tartama 5 év. Az első továbbképzési időszak a nyilvántartásba vétel napjával, a további továbbképzési időszakok az előző továbbképzési időszak utolsó napját követő nappal kezdődnek.
+(2)[^6] Az Art. 249. § (4) bekezdése szerinti szakmai továbbképzési kötelezettség a nyilvántartásba vett személyt a nyilvántartásba vételét követő továbbképzési évtől kezdődően terheli. A továbbképzési év január 1-jétől december 31-éig tart.
 
-(3) A továbbképzésre kötelezettnek egy továbbképzési időszak alatt összesen legalább 100 kreditpontot kell teljesítenie úgy, hogy a továbbképzési időszak legalább négy naptári évében részt vesz valamely (4) bekezdés szerinti továbbképzésben.
+(3)[^7] A továbbképzésre kötelezett a (2) bekezdés szerinti szakmai továbbképzési kötelezettségét az e rendelet szerinti kreditpont-minősítési eljárás keretében megállapított kreditpontok megszerzésével teljesíti.
 
-(4) Továbbképzésnek minősül
+(4)[^8] A (2) bekezdés szerinti továbbképzési kötelezettség teljesítése szempontjából az olyan továbbképző szervezet által folytatott, kreditpont-minősítési eljárás során minősített továbbképzésen való részvétel fogadható el, amely szervezet szerepel a számvitelről szóló 2000. évi C. törvény 152. § (2c) bekezdése szerinti nyilvántartásban (a továbbiakban: akkreditált szervezet), továbbá az olyan szervezet, amely megfelel a 8. §-ban meghatározott feltételeknek.
 
-a) a 10. § szerint minősített továbbképzési program – annak elszámolhatósági időszakában történő – teljesítése, a minősítés során megállapított kreditpont-értékben, amely továbbképzési programonként legfeljebb 20 kreditpont lehet,
+(5)[^9] A továbbképzésre kötelezettnek minden egyes továbbképzési évben összesen legalább 20 kreditpontot kell megszereznie. Az adott továbbképzési évben a 20 kreditponton felül megszerzett többlet-kreditpontok nem vehetők figyelembe a következő évek továbbképzési kötelezettségének teljesítése szempontjából. Ugyanazon minősített továbbképzési program – ideértve annak elektronikus változatát is – csak egyszer jogosít kreditpontra.
 
-b) a jogi vagy a gazdaságtudományok képzési területhez tartozó szakon lezárt félév, félévenként 10 kreditpont értékben, ha a félév lezárásának napja a továbbképzési időszakba esik,
+(6)[^10] Továbbképzési évenként legfeljebb 2 kreditpont számítható be a továbbképzés teljesítésébe, ha a továbbképzésre kötelezett a továbbképzési év során a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet 10/B. § (8)–(11) bekezdése szerinti szakmai szervezet vagy szakmai szerveződés tagjaként jogosult az általa szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken részt venni.
 
-c) az adópolitikáért, az államháztartásért, a pénz-, tőke- és biztosítási piac szabályozásáért, valamint a számviteli szabályozásért felelős miniszter felelősségi körébe tartozó szakképesítés megszerzése szakképesítésenként 20 kreditpont értékben, ha a bizonyítvány kiállításának napja a továbbképzési időszakba esik,
+(7)[^11] A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (6) bekezdés szerinti jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (6) bekezdésben meghatározott 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.
 
-d) az okleveles könyvvizsgálói szakképesítés megszerzése 25 kreditpont értékben, ha a bizonyítvány kiállításának napja a továbbképzési időszakba esik,
-
-e) a gazdaságtudományi vagy jogtudományi doktori képzést folytató oktatási intézményben a doktori fokozat megszerzése 30 kreditpont értékben, ha a fokozat odaítélését igazoló oklevél kiállításának napja a továbbképzési időszakba esik.
-
-(5) A (4) bekezdés a) pontja szerinti ugyanazon továbbképzési program teljesítése – ideértve annak elektronikus változatát is – csak egyszer jogosít kreditpontra.
-
-(6) A (4) bekezdés szerinti továbbképzésen való részvételt és a teljesített kreditpontokat tanúsító igazolások:
-
-a) az adótanácsadók, az adószakértők és az okleveles adószakértők szakmai továbbképzésének szervezését és lebonyolítását végző szervezet (a továbbiakban: továbbképző szervezet) által kiállított, 11. § (3) bekezdése szerinti igazolás,
-
-b) a jogi vagy a gazdaságtudományok képzési területhez tartozó szakon lezárt félév esetén a lezárt félévre vonatkozó, névre szóló leckekönyv képző intézmény által hitelesített másolata,
-
-c) az adópolitikáért, az államháztartásért, a pénz-, tőke- és biztosítási piac szabályozásáért, valamint a számviteli szabályozásért felelős miniszter felelősségi körébe tartozó szakképesítés megszerzése esetén a bizonyítvány másolata,
-
-d) az okleveles könyvvizsgálói szakképesítés megszerzése esetén a bizonyítvány másolata,
-
-e) a gazdaságtudományi vagy jogtudományi tudományágban megszerzett doktori fokozat esetén az oklevél másolata.
-
-(7) A (6) bekezdés a) pontja szerinti kreditpont-igazolás annak a továbbképzésben részt vevő személynek állítható ki, aki nyilatkozatával hozzájárul ahhoz, hogy a továbbképzésben való részvételének igazolásához szükséges, általa megadott adatait a továbbképző szervezet kezelje.
+[^6]: A 6. § (2) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^7]: A 6. § (3) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^8]: A 6. § (4) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^9]: A 6. § (5) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^10]: A 6. § (6) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^11]: A 6. § (7) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 27. §-ával megállapított szöveg.

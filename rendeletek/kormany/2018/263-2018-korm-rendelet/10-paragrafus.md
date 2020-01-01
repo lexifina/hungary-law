@@ -28,4 +28,6 @@ c) a résztvevő részére a továbbképzés teljesítéséről szóló igazolá
 
 (6) Az elektronikus továbbképzés teljesítéséért a továbbképző a továbbképzésben részt vevő személy számára csak akkor állíthat ki kreditpont-igazolást, ha a továbbképzés teljesítése az (5) bekezdés b) pontjában foglalt feltételeknek megfelel.
 
-(7) A továbbképzésben részt vevő személy továbbképzésének teljesítésébe csak akkor számítható be az elektronikus továbbképzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést az (5) bekezdés b) pontjában foglalt szabályok szerint a rá vonatkozó továbbképzési időszakban teljesíti.
+(7)[^14] A továbbképzésben részt vevő személy továbbképzésének teljesítésébe csak akkor számítható be az elektronikus továbbképzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést az (5) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
+
+[^14]: A 10. § (7) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 32. § 2. pontja szerint módosított szöveg.

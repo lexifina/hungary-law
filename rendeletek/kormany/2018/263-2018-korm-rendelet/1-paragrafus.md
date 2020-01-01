@@ -26,8 +26,15 @@ b) adótanácsadók esetében az adótanácsadói szakképesítést,
 
 c) adószakértők esetében az (5) bekezdésben meghatározott végzettséget, szakképesítést, valamint a szakmai gyakorlat meglétét,
 
-d) okleveles adószakértők esetében az okleveles adószakértői szakképesítést.
+d) okleveles adószakértők esetében az okleveles adószakértői szakképesítést,
+
+e)[^1] a 6. §-ban meghatározott továbbképzési kötelezettségnek a bejelentést megelőző 12 hónapon belül történő teljesítését.
 
 (8) Az (1) bekezdés szerinti bejelentéssel egyidejűleg a bejelentőnek az Art. 249. § (3) bekezdése szerinti igazolvány kiállításához egy 6 hónapnál nem régebbi igazolványképet kell benyújtania.
 
 (9) Ha a bejelentő kéri a (4)–(6) bekezdésben hivatkozott szakképesítésektől eltérő egyéb szakképesítéseinek vagy nyelvtudásának a nyilvánosságra hozatalát, akkor igazolnia kell az egyéb szakképesítések megszerzését és a nyelvvizsga teljesítését.
+
+(10)[^2] Az Art. 250. §-a szerinti bejelentő esetén a (7) bekezdés e) pontját, valamint a (8) és (9) bekezdést nem kell alkalmazni.
+
+[^1]: Az 1. § (7) bekezdése e) pontját a 343/2019. (XII. 23.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (10) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
