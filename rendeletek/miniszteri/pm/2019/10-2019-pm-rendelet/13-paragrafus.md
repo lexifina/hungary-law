@@ -1,3 +1,13 @@
-## 12. §[^9]
+## lép.
 
-[^9]: A 12. § a 30. § (2) bekezdése alapján a fővárosi és megyei kormányhivatalok működésének egyszerűsítéséről szóló törvény hatálybalépését követő napon lép hatályba.
+## 13. § Hatályát veszti a 27/1996. NM rendelet
+
+a) 2. § d) pontjában a „(fokozott expozíciót)” szövegrész,
+
+b) 4. § (3) bekezdésében a „vagy fokozott expozícióval” szövegrész,
+
+c) 5. § (2) bekezdésében az „ , illetve fokozott expozíciós eset körülményeinek” szövegrész,
+
+d) 5. § (6) bekezdésében az „ , illetve a fokozott expozíció körülményeinek” szövegrész,
+
+e) 2–6. számú melléklete.
