@@ -20,4 +20,4 @@ h) egyéb módon nem biztosított házastársa részére – amennyiben a kihely
 
 (3) A kihelyező vezető a tartós külszolgálatra történő kihelyezés feltételeként a külképviseleti munkakörre vonatkozó pályázati kiírásban – az (1) bekezdésben foglaltakon túl – további szakmai, valamint az adott külképviselet viszonyaival összefüggő, illetve a tartós külszolgálat során ellátandó munkakörhöz szükséges egyéb feltételeket írhat elő.
 
-(4) A tartós külszolgálati munkakörök vonatkozásában a kihelyező vezető a pályázatban az orvosi alkalmasságon túl pszichológiai alkalmasságot is előírhat feltételként.
+(4) A tartós külszolgálati munkakörök vonatkozásában a kihelyező vezető a kihelyezés feltételeként az orvosi alkalmasságon túl pszichológiai alkalmasságot is előírhat feltételként.

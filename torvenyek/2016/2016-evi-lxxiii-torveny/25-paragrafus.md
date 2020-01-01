@@ -28,7 +28,7 @@ a) a (2) bekezdés a) pontja szerinti költségtérítés 10%-ának, fogyatékka
 
 b) a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 150%-ának megfelelő költségtérítés-kiegészítés, valamint
 
-c) a gyermek középfokú tanulmányainak befejezéséig, de legfeljebb huszonegyedik életévének betöltéséig gyermeknevelési költségtérítés
+c) a gyermek születésétől a középfokú tanulmányainak befejezéséig, de legfeljebb huszonegyedik életévének betöltéséig gyermeknevelési költségtérítés
 
 illeti meg, ideértve azt az esetet is, ha a gyermek Magyarországon folytatja tanulmányait, de életvitelszerűen Magyarországgal szomszédos országban lévő állomáshelyen tartózkodik.
 
@@ -58,8 +58,12 @@ illeti meg.
 
 (14) A kihelyező szerv a kihelyezett kérelmére – kizárólag gépkocsivásárlás céljára – a külpolitikáért felelős miniszter által kiadott rendeletben megállapított feltételekkel kölcsönt nyújthat, a kihelyezéstől számított egy éven belül.
 
-(15) Ha a kihelyezett házastársa egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a 24. § (7) bekezdése szerinti juttatásra nem jogosult.
+(15) Ha a kihelyezett hozzátartozója egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a hozzátartozója alapján őt megillető 24. § (7) bekezdése szerinti juttatásra nem jogosult.
 
-(16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés hozzátartozóját a kihelyező okiratból törölni kell.
+(16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés szerinti hozzátartozóját a kihelyező okiratból törölni kell.
 
 (17) Ha a kihelyezett házastársa a fogadó államban az jövedelemszerző tevékenységet folytat és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül, az (5)–(6) bekezdés szerinti költségtérítésre nem jogosult.
+
+(18) Ha a kihelyezett végleges berendelés esetén az állomáshelyet a berendelést megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
+
+(19) Ha a kihelyezési okiraton szereplő hozzátartozók az állomáshelyet a tartós külszolgálat befejező időpontja előtt elhagyták, akkor a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozókkal együtt hagyja el, de a hozzátartozók nem térnek vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részükről befejeződött, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.

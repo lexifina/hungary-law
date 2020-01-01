@@ -36,7 +36,7 @@ szüntethető meg.
 
 a) a 16. § (1) bekezdésében meghatározott feltételeknek már nem felel meg, vagy
 
-b) az illetékes foglalkozás-egészségügyi szolgálat által végzett kötelező időszaki, illetve soron kívüli orvosi vizsgálaton – neki felróhatóan – nem jelenik meg,
+b) az illetékes foglalkozás-egészségügyi szolgálat által végzett kötelező időszaki, illetve a kihelyező vezető által elrendelt soron kívüli orvosi vizsgálaton – neki felróhatóan – nem jelenik meg,
 
 c) a (7) bekezdésében foglaltak alapján ezt kéri.
 

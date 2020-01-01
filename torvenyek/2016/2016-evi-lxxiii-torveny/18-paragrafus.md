@@ -12,7 +12,7 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 
 (3) Az ideiglenesen hazarendelt kihelyezett tartós külszolgálatának folytatásáról vagy megszüntetéséről az ideiglenes hazarendelés időtartama alatt a kihelyező vezető a (2) bekezdésben meghatározott esetek fennállásának alapos mérlegelésével dönt.
 
-(4) A (2) bekezdés a) pontjában foglalt esetben a kihelyező vezető az ideiglenes hazarendelés időtartamát egy alkalommal, legfeljebb 90 napos időtartammal hosszabbíthatja meg.
+(4) A (2) bekezdés a) pontjában foglalt esetben a kihelyező vezető az ideiglenes hazarendelés időtartamát egy alkalommal, legfeljebb további 90 napos időtartammal hosszabbíthatja meg.
 
 (5) Ha az ideiglenes hazarendelésre a (2) bekezdés b) pontja alapján került sor, a munkaköri alkalmassági vizsgálat eredményéről, valamint a hazai gyógykezelés – tartós külszolgálat folytatása vagy megszüntetése szempontjából lényeges – körülményeiről a kihelyezett a kihelyező vezetőt a hazaérkezéstől számított 60 napon belül tájékoztatja.
 

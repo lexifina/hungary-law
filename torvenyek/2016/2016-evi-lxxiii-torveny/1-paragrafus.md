@@ -14,11 +14,13 @@ c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munk
 
 d) a 4. § és 9/A. § tekintetében a külképviselet által foglalkoztatott házastársra,
 
-e) a 13. § (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban nem álló, a 13. § (1) bekezdése szerinti ranggal rendelkező személyekre, illetve a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
+e) a 13. § (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban nem álló, a 13. § (1) bekezdése szerinti ranggal rendelkező személyekre, a 10. § (1) bekezdése, illetve az 58. § (13) bekezdése tekintetében a kihelyező szervnél foglalkoztatott kormánytisztviselőre, munkavállalóra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
 
 f) a 35/C. § tekintetében a 10. § (1) bekezdés szerinti pályázat benyújtására jogosult kormánytisztviselőre, és munkavállalóra,
 
-g) az 58/C. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselőkre
+g) az 58/C. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselőkre,
+
+h) az 58. § (14) bekezdése a külügyi szakmai ösztöndíjas jogviszonyban álló személyekre
 
 terjed ki.
 

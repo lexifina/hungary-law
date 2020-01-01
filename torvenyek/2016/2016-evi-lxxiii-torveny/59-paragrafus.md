@@ -46,7 +46,11 @@ o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
 p) a külügyi szakmai vizsga,
 
-q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett orvosi vizsgálat
+q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett orvosi vizsgálat,
+
+r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének,
+
+s) az ágazati működésre vonatkozó szakpolitikai tudományos kutatások eredményeinek társadalmi és gazdasági hasznosítását elősegítő képzések
 
 részletes szabályait rendeletben állapítsa meg.
 

@@ -1,0 +1,1 @@
+58/E. § E törvénynek a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes törvényeknek a kormányzati igazgatásról szóló 2018. évi CXXV. törvénnyel kapcsolatos módosításáról szóló 2019. évi CIX. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit a Módtv3. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
