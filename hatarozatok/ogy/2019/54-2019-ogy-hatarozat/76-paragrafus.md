@@ -1,0 +1,3 @@
+## 75. § A HHSZ 102. alcíme a következő 160/B. §-sal egészül ki:
+
+## „160/B. § E határozatnak az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat módosításáról szóló 54/2019. (XII. 17.) OGY határozattal megállapított rendelkezéseit – az 1. § (1), (3) és (4) bekezdése, a 2. § (5) és (6) bekezdése, az 5. § (4)–(6) bekezdése, a 14. § (4) bekezdése, a 25. § (2) bekezdés c) pontja és (2a) bekezdése, a 25/A. §, a 72/A. alcím, a 148. § (2) és (2a) bekezdése, a 97/A. alcím, az 1. melléklet 1.2., 2a., 2.4., 2.6., 2.8. és 3.2. pontja, az 1/A. melléklet, valamint az 5. melléklet kivételével – a hatálybalépésükkor folyamatban lévő eljárásokban is alkalmazni kell.”

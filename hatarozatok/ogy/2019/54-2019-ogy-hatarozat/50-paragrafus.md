@@ -1,0 +1,3 @@
+## 49. §[^46]
+
+[^46]: A 49. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
