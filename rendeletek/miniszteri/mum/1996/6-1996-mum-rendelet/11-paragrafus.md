@@ -18,7 +18,7 @@ aa)[^81] álláskereső és
 
 5. a saját háztartásában egy vagy több eltartott személlyel egyedül élő felnőtt, vagy
 
-6.[^83] 12 hónapon belül gyermekgondozási segélyben, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, ápolási díjban vagy gyermekek otthongondozási díjában részesült, vagy
+6.[^83] 12 hónapon belül gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, csecsemőgondozási díjban, gyermekgondozási díjban, ápolási díjban vagy gyermekek otthongondozási díjában részesült, vagy
 
 7. 12 hónapon belül előzetes letartóztatásban volt, szabadságvesztés, vagy elzárás büntetését töltötte;
 
@@ -76,7 +76,7 @@ c) a két munkaadó egy harmadik szervezethez kötődő tulajdonjogi viszonya al
 [^80]: A 11. § (1) bekezdése a 8/2015. (III. 30.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^81]: A 11. § (2) bekezdés a) pont aa) alpontja a 17/2012. (VII. 5.) NGM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^82]: A 11. § (2) bekezdés a) pont aa) alpont 4. pontja a 48/2012. (XII. 28.) NGM rendelet 4. § (3) bekezdés c) pontja, a 9/2015. (III. 31.) NGM rendelet 7. § h) pontja szerint módosított szöveg.
-[^83]: A 11. § (2) bekezdés a) pont aa) alpontja 6. pontja a 10/2019. (IX. 4.) PM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^83]: A 11. § (2) bekezdés a) pont aa) alpontja 6. pontja a 10/2019. (IX. 4.) PM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^84]: A 11. § (2) bekezdés a) pont aa) alpont 8. pontját a 8/2015. (III. 30.) NGM rendelet 6. § (2) bekezdése iktatta be.
 [^85]: A 11. § (2) bekezdés b) pontját a 66/2013. (XII. 23.) NGM rendelet 16. § b) pontja hatályon kívül helyezte.
 [^86]: A 11. § (2a) bekezdését a 17/2012. (VII. 5.) NGM rendelet 3. § (4) bekezdése iktatta be.
