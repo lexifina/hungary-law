@@ -10,7 +10,7 @@ b) adós: az a gazdálkodó szervezet, amely tartozását (tartozásait) az esed
 
 c) hitelező:
 
-ca) a csődeljárásban és a felszámolási eljárásban – a felszámolás kezdő időpontjáig – az, akinek az adóssal szemben jogerős és végrehajtható bírósági, hatósági határozaton vagy más végrehajtható okiraton alapuló, nem vitatott vagy elismert, lejárt pénz- vagy pénzben kifejezett vagyoni követelése van,
+ca) a csődeljárásban és a felszámolási eljárásban – a felszámolás kezdő időpontjáig – az, akinek az adóssal szemben jogerős és végrehajtható bírósági, véglegessé vált és végrehajtható hatósági határozaton vagy más végrehajtható okiraton alapuló, nem vitatott vagy elismert, lejárt pénz- vagy pénzben kifejezett vagyoni követelése van,
 
 cb) a csődeljárásban a ca) pontban foglaltakon kívül az is, akinek az adóssal szemben vitatott, vagy a csődeljárás alatt esedékessé vált pénz- vagy pénzben kifejezett vagyoni követelése van, és a követelést a vagyonfelügyelő nyilvántartásba vette;
 

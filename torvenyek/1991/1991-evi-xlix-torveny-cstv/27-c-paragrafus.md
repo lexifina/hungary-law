@@ -20,6 +20,8 @@ g) igazolja, hogy legalább egy-egy felszámolási és vagyonfelügyeleti szakir
 
 (2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti vagy hiteles másolati példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
 
+(2b) A felszámolók névjegyzékéről szóló kormányrendelet szerinti, az új felszámolói névjegyzék létrehozására irányuló pályázati eljárásban a jogszabályi és pályázati feltételeknek megfelelt, azonban a pályázati keretszám miatt az új felszámolói névjegyzékbe felvételt nem nyert, de a korábbi névjegyzékben szereplő felszámoló szervezetet a felszámolók névjegyzékét vezető szerv a 27/A. § (6a) bekezdés szerinti hatósági nyilvántartásba hivatalból felveszi, kivéve, ha a felszámoló szervezet a pályázatában nyilatkozatot tesz arról, hogy a 27/A. § (6a) bekezdése szerinti hatósági nyilvántartásba való felvételét nem kéri. Ha a felszámoló szervezet a 27/A. § (6a) bekezdés szerinti hatósági nyilvántartásba való felvételét nem kéri, a felszámolók névjegyzékét vezető szerv értesítése alapján a felszámoló szervezetet az eljáró bíróság a folyamatban lévő eljárásokból haladéktalanul felmenti és egyidejűleg az új felszámolói névjegyzékben szereplő felszámoló szervezet kirendeléséről gondoskodik. A bíróság eljárása során a 27/A. § (9)–(11a) bekezdésében foglaltakat is alkalmazni kell.
+
 (3) A felszámoló addig, amíg a felszámolói névjegyzékben szerepel:
 
 a) nem folytathat ingatlanközvetítő, kölcsön- és faktoring tevékenységet, (együtt: összeférhetetlen tevékenység),
@@ -102,7 +104,7 @@ d) a bíróság kezdeményezésére, ha a felszámoló szervezet ismételten vag
 
 e) ha a felszámoló szervezet ezt kéri,
 
-f) az új névjegyzék felállítására irányuló eljárások lezárásakor, a (7) bekezdés szerinti módon, amennyiben a felszámoló szervezetnek az új névjegyzékbe való vételére nem kerül sor,
+f)
 
 g) ha a felszámoló szervezet a pályázat során a pályázatot elbíráló szervnek valótlan tartalmú dokumentumot nyújtott be, vagy neki felróható módon valótlan tartalmú nyilatkozatot tett,
 
@@ -124,10 +126,10 @@ l) ha a felszámoló szervezet a felszámolási eljárásban az adós vagyontár
 
 m) ha a felszámoló szervezet bírság kiszabását követően ismételten és súlyosan megsérti az elektronikus értékesítési rendszer használatával összefüggő kötelezettségeit.
 
-(7) Az új névjegyzék felállítására irányuló eljárásokat lezáró utolsó határozat véglegessé válását követően a felszámolók névjegyzékét vezető szerv haladéktalanul határozatot hoz azon felszámoló szervezetek névjegyzékből való törléséről, amelyeknek az új névjegyzékbe vételére nem került sor. A határozatban azt is fel kell tüntetni, hogy az új névjegyzékbe vételre a jogszabályi feltételek teljesítésének hiánya miatt vagy a keretszám miatt nem került sor. A névjegyzékből történő törlés időpontja megegyezik az új névjegyzék felállításának időpontjával.
+(7) Az új felszámolói névjegyzék létrehozására irányuló eljárásokat lezáró utolsó határozat véglegessé válásának napján a korábbi felszámolói névjegyzék e törvény erejénél fogva megszűnik. A megszűnés tényéről a felszámolók névjegyzékét vezető szerv az érintett felszámoló szervezetek részére haladéktalanul értesítést küld.
 
-(8) A névjegyzékből való törlésről, illetve a névjegyzékbe történő felvételről szóló véglegessé vált határozatot a felszámolók névjegyzékét vezető szerv haladéktalanul megküldi a felszámolók, a vagyonfelügyelők és az ideiglenes vagyonfelügyelők elektronikus kijelölésének szabályairól szóló rendelet szerinti elektronikus kijelölést támogató számítógépes rendszer üzemeltetőjének, továbbá eljuttatja a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendelet szerinti értékesítési rendszer működtetőjének.
+(8) A korábbi felszámolói névjegyzék megszűnéséről szóló értesítést, illetve az új névjegyzékbe történő felvételről szóló véglegessé vált határozatot a felszámolók névjegyzékét vezető szerv haladéktalanul megküldi a felszámolók, a vagyonfelügyelők és az ideiglenes vagyonfelügyelők elektronikus kijelölésének szabályairól szóló rendelet szerinti elektronikus kijelölést támogató számítógépes rendszer üzemeltetőjének, továbbá eljuttatja a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendelet szerinti értékesítési rendszer működtetőjének.
 
-(9) A felszámolók névjegyzékét vezető szerv a (6) bekezdésben meghatározott törlési ok fennállása esetén – ide nem értve a (6) bekezdés f) és j) pontjában meghatározott törlési okokat – a felszámoló szervezetet törli a 27/A. § (6a) bekezdése alapján vezetett hatósági nyilvántartásból.
+(9) A felszámolók névjegyzékét vezető szerv a (6) bekezdésben meghatározott törlési ok fennállása esetén – ide nem értve a (6) bekezdés j) pontjában meghatározott törlési okokat – a felszámoló szervezetet törli a 27/A. § (6a) bekezdése alapján vezetett hatósági nyilvántartásból.
 
 (10) A 27/A. § (6a) bekezdése alapján a felszámolók névjegyzékébe nem került, de a folyamatban lévő ügyekben még eljáró felszámoló szervezetekről vezetett hatósági nyilvántartásra e törvénynek, valamint a felszámolók névjegyzékéről szóló kormányrendeletnek a nyilvántartás vezetésére, az azzal összefüggő adatszolgáltatás teljesítésére, a felszámoló szervezet szakmai beszámoló készítésére, a szakmai beszámoló benyújtására, a felszámoló szervezet hatósági ellenőrzésére, hatósági nyilvántartásból való törlésére, valamint a nyilvántartásból való törlésről a bíróságok értesítésére vonatkozó szabályait kell alkalmazni.
