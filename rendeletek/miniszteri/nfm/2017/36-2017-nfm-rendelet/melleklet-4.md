@@ -4,9 +4,9 @@
 
 1. A szakkíséretre vonatkozó személyi feltételek
 
-1.1. Szakkíséretet csak olyan személy láthat el, aki a közlekedésért felelős minisztertől szakkísérői képesítést kapott.
+1.1.[^71] Szakkíséretet csak olyan személy láthat el, aki a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Vizsgaközpont) szakkísérői képesítést kapott.
 
-1.2. Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a közlekedésért felelős miniszter által vezetett minisztérium vizsgabizottsága előtt az 1.3. pontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a közlekedésért felelős miniszter a vizsga alól felmentette.
+1.2.[^72] Szakkísérői képesítést az a „C” kategóriára érvényes vezetői engedéllyel és 5 év szakmai (vezetési) gyakorlattal rendelkező személy kaphat, aki a vizsgaközpont vizsgabizottsága előtt az 1.3. alpontban előírt témakörökből szakkísérővizsgát tett, illetve szakirányú képesítései alapján a Vizsgaközpont a vizsga alól felmentette.
 
 1.3. A szakkísérőnek a következő témakörökből kell vizsgát tennie:
 
@@ -95,3 +95,6 @@ Egyéb kíséretet csak olyan személy láthat el, aki legalább „B” kategó
 4.10. 1 db 6 kg-os, szabványos, porral oltó tűzoltó készülék.
 
 4.11. A hajtott kerekekre felszerelhető hólánc.
+
+[^71]: A 4. számú melléklet 1.1. alpontja a 45/2019. (XII. 20.) 53. §-a szerint módosított szöveg.
+[^72]: A 4. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) 53. §-ával megállapított szöveg.
