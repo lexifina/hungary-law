@@ -1,3 +1,5 @@
+## 27/A. § Az ideiglenes – három hónapot meg nem haladó – külföldi kiküldetés esetén a kormánytisztviselő a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendeletben foglaltak szerint jogosult napidíjra és egyéb juttatásokra.
+
 ## VIII. Fejezet
 
 ## AZ ÉRDEMEK ELISMERÉSE ÉS A CÉLJUTTATÁS

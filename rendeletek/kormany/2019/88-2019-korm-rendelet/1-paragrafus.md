@@ -16,7 +16,7 @@ terjed ki.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően
 
-a) a VII. fejezet, valamint a 17., 19. és 20. alcím hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) és b) pontja szerinti foglalkoztatottra,
+a)[^1] a 27. §, valamint a 17., 19. és 20. alcím hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) és b) pontja szerinti foglalkoztatottra,
 
 b) a 17., 19. és 20. alcím hatálya nem terjed ki a Kit. 3. § (2) bekezdés c) pontja szerinti foglalkoztatottra,
 
@@ -31,3 +31,5 @@ f) a X. és XV. fejezet hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) és
 g) a XVI. fejezet hatálya nem terjed ki a Kit. 3. § (2) bekezdés a) pontja szerinti foglalkoztatottra,
 
 h) az V–XVI. fejezet hatálya nem terjed ki a munkavállalóra.
+
+[^1]: Az 1. § (3) bekezdés a) pontja 109/A. §-t a 338/2019. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.
