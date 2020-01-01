@@ -18,7 +18,7 @@ e) az egészségi állapot meghatározásának módszerére vonatkozó szabályo
 
 eléri vagy meghaladja a 40%-ot, közlekedési képessége a d4452, d4500, d4501 vagy d4702 FNO kódok szerint legalább súlyosan nehezített, és ezen állapota várhatóan legalább három éven keresztül fennáll.
 
-(3)[^46] Az (1) bekezdés szerinti szakkérdés vizsgálatában rehabilitációs szakértői szervként eljáró hivatal egyéb támogatás, mentesség, kedvezmény igénylése céljából, erre irányuló kérelem esetén szakvéleményt ad a közlekedőképességről is. A szakvélemény a jogszabályban meghatározottakon túl tartalmazza
+(3)[^46] Az (1) bekezdés szerinti szakkérdés vizsgálatában rehabilitációs szakértői szervként eljáró hivatal szakvéleményt ad a közlekedőképességről is. A szakvélemény a jogszabályban meghatározottakon túl tartalmazza
 
 a) a közlekedőképesség súlyos akadályozottságának fennállását vagy fenn nem állását,
 
@@ -34,6 +34,6 @@ b) a következő felülvizsgálat időpontját.
 [^43]: A 8/A. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^44]: A 8/A. § (1a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 174. § (5) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 326. § c) pontja. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^45]: A 8/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (4) bekezdésével megállapított szöveg.
-[^46]: A 8/A. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 139. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^46]: A 8/A. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 139. §-ával megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 88. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^47]: A 8/A. § (3a) bekezdését a 247/2015. (IX. 8.) Korm. rendelet 6. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 325. § a)–b) és d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^48]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
