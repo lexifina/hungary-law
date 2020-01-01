@@ -1,4 +1,4 @@
-5. melléklet a 299/2017. (X. 17.) Korm. rendelethez
+5. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^41]
 
 ## A szabályozási pótdíj mértékének megállapítására vonatkozó szabályok
 
@@ -10,7 +10,7 @@ a) felszabályozás esetén, mikor a KÁT termelő tény termelése nem éri el 
 
 b) leszabályozás esetén, mikor a KÁT termelő tény termelése meghaladja a napi menetrendet:
 
-(KEle + P) * T,
+(–KEle + P) * T,
 
 ahol:
 
@@ -23,3 +23,5 @@ P – az adott elszámolási mérési időegységben a másnapi hazai szervezett
 T – tervezési pontossági együttható, melynek értéke naperőmű vagy vízerőmű esetében 15%, egyéb esetben 35%, továbbá a 12. § (1) bekezdése szerinti menetrendhiány esetén 100%.
 
 2. Naperőmű esetén a kötelező átvételi mérlegkör-tagsági szerződés hatálybalépésétől számított 6 hónapig az 1. pont szerinti tervezési pontossági együttható értéke 7%, azzal a feltétellel, hogy a menetrendadási kötelezettségének a kötelező átvételi mérlegkör-tagsági szerződés hatálybalépésétől kezdve ezen időszak alatt is folyamatosan eleget tesz, valamint ezen erőműegység korábban nem részesült ebben a kedvezményben.
+
+[^41]: Az 5. melléklet a 370/2019. (XII. 30.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.

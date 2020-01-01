@@ -30,18 +30,19 @@
 
 14. tárgyév: a kötelező átvételi rendszerben történő értékesítés árai érvényességének éves időszaka minden év január 1-jétől december 31-éig;
 
-15. telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában, továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye;
+15.[^2] telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában, továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, valamint minden olyan, a termelő által meghatározott ingatlan, amely alkalmas a villamosenergia-termelési tevékenység végzésére;
 
 16. vegyes tüzelés: biomassza, biogáz, továbbá megújuló energiaforrástól eltérő energiaforrás ugyanazon technológiai (primerenergia-átalakítási) folyamatban, folyamatos működés mellett történő felhasználása;
 
 17. zöld prémium: a VET 11. § (2) bekezdés a) pontja szerinti, megújuló energiaforrások felhasználásával történő villamosenergia-termelést lehetővé tevő új beruházások ösztönzésére nyújtott prémium típusú támogatás.
 
-18.[^2] menetrend-csoport képviselő: a KÁT termelők által összevont menetrendadás céljából kijelölt – a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti – gazdálkodó szervezet;
+18.[^3] menetrend-csoport képviselő: a KÁT termelők által összevont menetrendadás céljából kijelölt – a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti – gazdálkodó szervezet;
 
-19.[^3] szabályozási bónusz: a napi menetrend vagy a napon belüli menetrend e rendeletben meghatározott pontossága esetén a befogadó által a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő részére fizetendő díj.
+19.[^4] szabályozási bónusz: a napi menetrend vagy a napon belüli menetrend e rendeletben meghatározott pontossága esetén a befogadó által a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő részére fizetendő díj.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, valamint a felhatalmazásuk alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
 [^1]: A 2. § (1) bekezdés 12. pontja a 22. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 18. pontját a 22. § (2) bekezdése iktatta be.
-[^3]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be.
+[^2]: A 2. § (1) bekezdés 15. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 18. pontját a 22. § (2) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be.
