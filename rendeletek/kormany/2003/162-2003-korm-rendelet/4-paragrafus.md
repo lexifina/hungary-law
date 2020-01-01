@@ -4,7 +4,7 @@
 
 (2)[^14] Ipari mák termesztése kizárólag a külön jogszabály szerint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott tevékenységi engedéllyel, valamint évenként megújítandó eseti termesztetési engedéllyel (a továbbiakban: eseti termesztetési engedély) rendelkező gazdálkodó szervezettel (a továbbiakban: termesztető) megkötött szerződés alapján végezhető.
 
-(3)[^15] A (2) bekezdése szerinti tevékenységi és eseti termesztetési engedélyt az OGYÉI közli az agrárpolitikáért felelős miniszterrel (a továbbiakban: miniszterrel).
+(3)[^15]
 
 [^14]: A 4. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.
-[^15]: A 4. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 2. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdését a 347/2019. (XII. 23.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
