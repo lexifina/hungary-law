@@ -16,9 +16,11 @@ e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
 
-g) a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket,
+g)[^160] a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
 
-h)[^160] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll.
+h)[^161] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll,
+
+i)[^162] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
 (2) E cím alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -28,13 +30,13 @@ h)[^160] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tu
 
 a) a 23/a. számú melléklet szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
-b)[^161] a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság, tény fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
+b)[^163] a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság, tény fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
 
 eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
 (5) Az elosztó köteles a szociálisan rászoruló fogyasztót a rászorultság igazolását követő 8 napon belül nyilvántartásba venni, és a nyilvántartásba vételről a fogyasztóval jogviszonyban álló villamosenergia-kereskedőt a fogyasztóval egyidejűleg értesíteni.
 
-(6)[^162]
+(6)[^164]
 
 (7) Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő fogyasztó – a véghatáridő lejártát 30 nappal megelőzően az elosztó által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, az igazoló iratban meghatározott véghatáridő lejártát követő 8 napon belül az elosztó az érintett védendő fogyasztót törli a nyilvántartásból. A nyilvántartásból való törlésről az érintett védendő fogyasztót az elosztó értesíti. A fogyasztó adatainak megállapíthatósága tekintetében a VET 65. § (4) bekezdésében foglaltak ebben az esetben is irányadók.
 
@@ -44,6 +46,8 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 
 [^158]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
 [^159]: A Vhr. 30. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 31. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^160]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be.
-[^161]: A Vhr. 30. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^162]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^160]: A Vhr. 30. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^161]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be.
+[^162]: A Vhr. 30. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 52. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^163]: A Vhr. 30. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^164]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
