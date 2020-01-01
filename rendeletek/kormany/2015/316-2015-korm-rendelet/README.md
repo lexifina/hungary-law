@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-316-20-
 | 2019-07-01 | 2015-316-20-22.7 | 126/2019. (V. 30.) Korm. rendelet |
 | 2019-11-20 | 2015-316-20-22.8 | 267/2019. (XI. 19.) Korm. rendelet |
 | 2019-12-21 | 2015-316-20-22.9 | 329/2019. (XII. 20.) Korm. rendelet |
+| 2020-01-01 | 2015-316-20-22.10 | 259/2021. (V. 20.) Korm. rendelet |

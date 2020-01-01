@@ -10,7 +10,7 @@
 
 ## 1.4. Cégek esetén a cég alapításának kelte, egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő felvétel napja:
 
-## 1.5. Cégek esetén a cégbírósági bejegyzés helye, kelte, száma, egyéni vállalkozó esetén nyilvántartási szám, ha van, az egyéni vállalkozói igazolvány száma, kiállításának helye és kelte, a kiállító hatóság megnevezése:
+## 1.5. Cégek esetén a cégbírósági bejegyzés helye, kelte, száma, egyéni vállalkozó esetén nyilvántartási szám:
 
 ## 1.6. Jogelőd neve, címe, alapításának ideje:
 

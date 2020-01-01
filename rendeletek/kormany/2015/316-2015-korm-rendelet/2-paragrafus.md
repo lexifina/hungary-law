@@ -4,7 +4,7 @@
 
 a) az Országos Rendőr-főkapitányság,
 
-b)[^1] az Országos Idegenrendészeti Főigazgatóság,
+b)[^2] az Országos Idegenrendészeti Főigazgatóság,
 
 c) a Büntetés-végrehajtás Országos Parancsnoksága,
 
@@ -16,9 +16,9 @@ f) az Alkotmányvédelmi Hivatal,
 
 g) a Nemzeti Védelmi Szolgálat,
 
-h)[^2] a Terrorelhárítási Információs és Bűnügyi Elemző Központ,
+h)[^3] a Terrorelhárítási Információs és Bűnügyi Elemző Központ,
 
-i)[^3]
+i)[^4]
 
 j) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
@@ -28,7 +28,7 @@ l) az Országos Mentőszolgálat,
 
 m) a legfőbb ügyész,
 
-n)[^4]
+n)[^5]
 
 o) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
 
@@ -40,7 +40,7 @@ r) a Nemzeti Adó- és Vámhivatal,
 
 s) a Szociális és Gyermekvédelmi Főigazgatóság,
 
-t)[^5] az Állami Egészségügyi Ellátó Központ;
+t)[^6] az Állami Egészségügyi Ellátó Központ;
 
 2. ajánlattevő: az a gazdasági szereplő, aki (amely) a beszerzési eljárásban ajánlatot nyújt be;
 
@@ -56,15 +56,15 @@ a) az 1. pont a)–j) alpontja vonatkozásában az ajánlatkérő szervet irány
 
 b) az 1. pont k)–t) alpontja vonatkozásában az a miniszter, akinek a szakpolitikai vagy ágazati feladatkörébe tartozik az ajánlatkérő szervezet által ellátott közfeladat;
 
-c)[^6] amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem állapítható meg, a közbeszerzésekért felelős miniszter;
+c)[^7] amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem állapítható meg, a közbeszerzésekért felelős miniszter;
 
 7. minősített adat: a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontjában meghatározott adat;
 
 8. tömeges bevándorlás okozta válsághelyzet: a menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 80/A. §-ában foglaltak alapján, a Kormány által elrendelt helyzet.
 
-[^1]: A 2. § (1) bekezdés b) pontja a 126/2019. (V. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^2]: A 2. § 1. pont h) alpontja a 186/2016. (VII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^3]: A 2. § 1. pont i) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
-[^4]: A 2. § 1. pont n) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § 1. pont t) alpontja a 379/2016. (XII. 2.) Korm. rendelet 306. § (1) bekezdés b) pontjával megállapított szöveg.
-[^6]: A 2. § 6. pont c) alpontja a 101/2018. (VI. 11.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés b) pontja a 126/2019. (V. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^3]: A 2. § 1. pont h) alpontja a 186/2016. (VII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^4]: A 2. § 1. pont i) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § 1. pont n) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § 1. pont t) alpontja a 379/2016. (XII. 2.) Korm. rendelet 306. § (1) bekezdés b) pontjával megállapított szöveg.
+[^7]: A 2. § 6. pont c) alpontja a 101/2018. (VI. 11.) Korm. rendelet 32. §-a szerint módosított szöveg.
