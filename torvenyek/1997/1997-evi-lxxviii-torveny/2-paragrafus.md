@@ -4,7 +4,7 @@
 
 1. Akadálymentes: az épített környezet akkor, ha annak kényelmes, biztonságos, önálló használata minden ember számára biztosított, ideértve azokat az egészségkárosodott egyéneket vagy embercsoportokat is, akiknek ehhez speciális eszközökre, illetve műszaki megoldásokra van szükségük.
 
-2. Beépítésre nem szánt terület: a település közigazgatási területének a zöldterületi, a közlekedési, a mezőgazdasági, az erdőművelési, illetőleg az egyéb célra szolgáló része.
+2. Beépítésre nem szánt terület: a település közigazgatási területének a zöldterületi, a közlekedési, a mezőgazdasági, az erdőművelési, illetve az egyéb célra szolgáló része.
 
 3. Beépítésre szánt terület: a település közigazgatási területének a beépített, illetve a további beépítés céljára szolgáló területrésze.
 
