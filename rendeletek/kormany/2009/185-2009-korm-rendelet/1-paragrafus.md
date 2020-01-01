@@ -1,4 +1,4 @@
-1. §[^1] (1) A hatóság és az ügyfél, valamint az ellenérdekű ügyfelek közötti vita rendezése érdekében – ha jogszabály lehetővé teszi – a hatóság hatósági közvetítőt vehet igénybe.
+1. §[^2] (1) A hatóság és az ügyfél, valamint az ellenérdekű ügyfelek közötti vita rendezése érdekében – ha jogszabály lehetővé teszi – a hatóság hatósági közvetítőt vehet igénybe.
 
 (2) Hatósági közvetítő az lehet, aki
 
@@ -40,4 +40,4 @@ c) összegyűjti és rendszerezett formában a hatóság rendelkezésére bocsá
 
 (8) A hatósági közvetítőt munkájáért díj illeti meg és a költségviselés szabályai szerint igényt tarthat költségeinek megtérítésére. A hatósági közvetítő munkadíja óránként 5000 forint, amely az általános forgalmi adót nem tartalmazza. A munkadíj megállapításánál minden megkezdett fél órát fél óraként kell figyelembe venni.
 
-[^1]: Az 1. § a 457/2017. (XII. 28.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: Az 1. § a 457/2017. (XII. 28.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

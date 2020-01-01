@@ -8,4 +8,6 @@ b) tájékoztató megbeszélést szervezhet, írásos anyagot készíthet az ér
 
 c) egyeztetést kezdeményezhet az ellenérdekű ügyfelek, illetve a hatóság és az ügyfél között, az egyeztetésen közvetítőként részt vesz.
 
-(3) Az elsőfokú eljárásban részt vett hatósági közvetítő a jogorvoslati eljárás, valamint a másodfokon eljáró szerv vagy a bíróság által elrendelt új eljárás során – ha azt az ügyfelek egyike sem kifogásolja – ismételten igénybe vehető.
+(3)[^25] A hatósági közvetítő a jogorvoslati eljárás, vagy a bíróság által elrendelt új eljárás során – ha azt az ügyfelek egyike sem kifogásolja – ismételten igénybe vehető.
+
+[^25]: A 9. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 72. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
