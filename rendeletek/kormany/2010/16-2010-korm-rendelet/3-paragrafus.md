@@ -14,31 +14,16 @@
 
 (8) Az (1), (3) és (5) bekezdés szerinti dokumentációkat papíralapon is meg kell küldeni a Dokumentációs Központnak.
 
-(9) A dokumentációk leíró adatainak megküldését a Dokumentációs Központ Üzemeltetési Szabályzata szerinti űrlapon kell megtenni, amely legalább a következő adatokat tartalmazza:
+(9)[^15] A dokumentációk leíró adatainak megküldését a Dokumentációs Központ Üzemeltetési Szabályzata szerint, az ott meghatározott adattartalommal kell megtenni.
 
-a) a dokumentáció megnevezése,
+(10)[^16] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
 
-b) a megbízó szervezet megnevezése, címe, telefonszáma,
-
-c) a tervező, illetve a kutatást végző vállalkozás neve, székhelye, telefonszáma,
-
-d) a tervező, illetve a kutatást készítő témafelelős neve,
-
-e) az elfogadásról, illetve jóváhagyásról szóló határozat, illetve jogszabály száma,
-
-f) az alkalmazott számítógépes program megnevezése,
-
-g) a munka kezdetének és befejezésének időpontja, és
-
-h) a különleges kezelésre való utalás.
-
-(10)[^15] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
-
-(11)[^16]
+(11)[^17]
 
 [^11]: A 3. § (2) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (3) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 285. § b)–c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^13]: A 3. § (5) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 25. § (4) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^14]: A 3. § (7) bekezdése a 121/2019. (V. 27.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^15]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^16]: A 3. § (11) bekezdését a 343/2016. (XI. 17.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 22. § a) pontja.
+[^15]: A 3. § (9) bekezdése a 121/2019. (V. 27.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^16]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^17]: A 3. § (11) bekezdését a 343/2016. (XI. 17.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 22. § a) pontja.
