@@ -23,7 +23,3 @@ a) a gyanúsított a büntethetőség megszűnését eredményező magatartást 
 b) a gyanúsítottat a vádemelés elhalasztásának tartama alatt elkövetett ugyanolyan bűncselekmény miatt gyanúsítottként hallgatják ki, vagy ez a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges.
 
 (8) A bíróság nem szüntetheti meg az eljárást,
-
-a) amiatt, hogy a korábbi jogszabály alapján benyújtott vádirat nem tartalmazza az ügyészségnek a büntetés kiszabására vagy intézkedés alkalmazására, illetve ezek nemére vonatkozó indítványát, vagy
-
-b) ha a korábbi jogszabály alapján benyújtott vádirat korábbi jogszabály szerinti hiányosságainak pótlása nem történt meg, de a vádirat e törvényben foglaltaknak megfelel.

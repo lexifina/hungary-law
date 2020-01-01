@@ -14,7 +14,7 @@ bb) a lefoglalt dolog állami tulajdonba vétele tárgyában nem lehet érdemben
 
 a) a bűncselekmény elkövetéséből eredő vagyon visszaszerzése érdekében, ha a jogerős ügydöntő határozattal elrendelt, pénzösszegben kifejezett vagyonelkobzás esetén
 
-aa) a vagyonelkobzás végrehajtása a bírósági végrehajtó tájékoztatása alapján nem vezetett eredményre, vagy
+aa) a vagyonelkobzás végrehajtása az állami adó- és vámhatóság tájékoztatása alapján nem vezetett eredményre, vagy
 
 ab) a jogerős ügydöntő határozatot megelőzően a terhelt vagyonelkobzás alá eső vagyona nem volt biztosítható,
 
@@ -22,7 +22,7 @@ b) ha az elkobzás, a vagyonelkobzás vagy az elektronikus adat végleges hozzá
 
 és feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető.
 
-(3) Az ügyészség a (2) bekezdés a) pont aa) alpontja esetén a vagyonkutatás elrendeléséről tájékoztatja a végrehajtót.
+(3) Az ügyészség a (2) bekezdés a) pont aa) alpontja esetén a vagyonkutatás elrendeléséről tájékoztatja az állami adó- és vámhatóságot.
 
 (4) A vagyonkutatást az (1) bekezdés esetén a nyomozó hatóság vagy az ügyészség, a (2) bekezdés esetén a nyomozó hatóság vagyonvisszaszerzési szerve folytatja le.
 

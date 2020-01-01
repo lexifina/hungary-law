@@ -13,3 +13,5 @@ c) a zár alá vétel tárgyának értéke a százmillió forintot meghaladja.
 (4) A (2) bekezdés b) és c) pontja esetén az ügyészség tesz indítványt a zár alá vétel elrendelésére.
 
 (5) Ha a zár alá vétel elrendelésére a bíróság jogosult és az elrendeléshez szükséges bírósági határozat meghozatala olyan késedelemmel járna, amely a zár alá vétellel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség, illetve a nyomozó hatóság a bíróság döntéséig elrendelheti a zár alá vételt. Ilyen esetben a bíróság határozatát utólag haladéktalanul be kell szerezni. Ha a zár alá vételt a bíróság nem rendeli el, a zár alá vétel feloldásáról rendelkezik és késedelem nélkül intézkedik annak végrehajtása iránt.
+
+(6) Ha az ingatlan zár alá vételére a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, a határozat rendelkező részében fel kell tüntetni a zár alá vétellel biztosítandó pénzkövetelés összegét is.
