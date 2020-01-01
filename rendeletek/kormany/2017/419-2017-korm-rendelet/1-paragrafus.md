@@ -2,4 +2,6 @@
 
 1. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelem (a továbbiakban: kérelem) előterjesztésére rendszeresített papíralapú űrlap postai kereskedelmi áruként, az egyetemes postai szolgáltató postai szolgáltató helynek minősülő felvételi pontjain szerezhető be, és kizárólag postai úton terjeszthető elő. A kérelem ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton is előterjeszthető.
 
-(2) A bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton (a továbbiakban: ügyfélszolgálat) személyesen előterjesztett kérelmet az ügyfélszolgálat készíti el, amelyet a kérelmező a helyszínen aláír.
+(2)[^1] A bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton (a továbbiakban: ügyfélszolgálat) vagy kormányablakban személyesen előterjesztett kérelmet az ügyfélszolgálat vagy a kormányablak készíti el, amelyet a kérelmező a helyszínen aláír.
+
+[^1]: Az 1. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 181. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
