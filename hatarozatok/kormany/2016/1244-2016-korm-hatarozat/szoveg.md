@@ -8,11 +8,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcímét a 11. Energiahatékonyság javításának támogatása jogcímcsoporttal egészíti ki;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+3.[^1]
 
 4. elrendeli, hogy az Alap Kereskedelmi és Hitelbank Zártkörűen Működő Részvénytársaságnál (a továbbiakban: K&H Bank Zrt.) vezetett számláján lévő pénzeszköz kerüljön befizetésre a 3. pontban létrehozott előirányzat javára;
 
@@ -26,6 +22,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2016. május 31.
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
