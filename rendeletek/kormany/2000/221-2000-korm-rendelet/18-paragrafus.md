@@ -12,6 +12,6 @@ c) egyéb tőzsdén kívüli ügyletek esetében a mérlegkészítéskor a piaci
 
 (3) Az egyéb céllal kötött határidős ügyleteknek a piaci érték változásából eredő nyereségét csak az ügylet lezárásakor lehet elszámolni.
 
-(4)[^76] A nyitott (le nem zárt) határidős ügyletnek a piaci érték változásaiból származó veszteségére az MNB belső szabályzatában meghatározott esetben céltartalékot kell képezni.
+(4)[^77] A nyitott (le nem zárt) határidős ügyletnek a piaci érték változásaiból származó veszteségére az MNB belső szabályzatában meghatározott esetben céltartalékot kell képezni.
 
-[^76]: A 18. § (4) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^77]: A 18. § (4) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.

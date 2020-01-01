@@ -2,7 +2,7 @@
 
 ## Az eszközök értékelése
 
-6. § (1)[^28] A monetáris céllal és a forgatási céllal vásárolt, forintban kibocsátott értékpapírokat beszerzési értéken – kamattal csökkentett vételáron – kell kimutatni a (7) bekezdésben meghatározott amortizáció figyelembevételével.
+6. § (1)[^28] Az értékpapírokat – kivéve a (4) és (5) bekezdésben foglaltakat – beszerzési értéken – kamattal csökkentett vételáron – kell kimutatni a (7) bekezdésben meghatározott amortizáció figyelembevételével.
 
 (2)[^29] A devizában belföldön és külföldön fennálló követeléseket (hitelek, betétek, váltókövetelések, értékpapírok, fedezeti célú, határidős ügyletek miatt fennálló követelések), az MNB által közzétett, a tárgyévi mérleg fordulónapján érvényes hivatalos devizaárfolyamon kell értékelni.
 
@@ -16,7 +16,7 @@
 
 (7)[^33] A kamatozó értékpapírok beszerzésének piaci értékkülönbözetét, valamint a diszkont értékpapírok névértéke és vételára közötti különbözetet amortizálni kell. Az amortizációt a lejáratig hátralévő futamidő alatt lineáris módszer alapján kell elszámolni.
 
-[^28]: A 6. § (1) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6. § (1) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 343/2019. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^29]: A 6. § (2) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^30]: A 6. § (4) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^31]: A 6. § (5) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 3. §-ával megállapított, az 518/2013. (XII. 30.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.

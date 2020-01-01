@@ -1,6 +1,6 @@
 ## Fedezeti céllal kötött ügyletek
 
-17. § (1)[^75] Fedezeti ügyletként kell elszámolni azokat az ügyleteket, amelyek az alábbi feltételeknek egyidejűleg megfelelnek:
+17. § (1)[^76] Fedezeti ügyletként kell elszámolni azokat az ügyleteket, amelyek az alábbi feltételeknek egyidejűleg megfelelnek:
 
 a) a fedezeti ügyletet egyértelműen hozzárendelték valamely nyitott pozícióhoz, amely az MNB-t deviza-, kamatláb-, és egyéb piaci kockázatnak teszi ki,
 
@@ -16,4 +16,4 @@ c) a fedezet kizárja vagy lényegesen csökkenti a fedezendő pozícióból ere
 
 (5) Az MNB és a központi költségvetés között – a központi költségvetés devizapozíciójának kockázata miatt –, és az ezek miatt más partnerral kötött határidős ügyletek egymáshoz képest fedezeti ügyletnek minősülnek.
 
-[^75]: A 17. § (1) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 13. §-ával megálalpított szöveg.
+[^76]: A 17. § (1) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 13. §-ával megálalpított szöveg.

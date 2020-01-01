@@ -4,7 +4,7 @@
 
 (2)[^9] Az MNB összevont (konszolidált) éves beszámoló készítésére nem kötelezett.
 
-(3)[^10] Az (1) bekezdés szerinti éves beszámoló az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a kiegészítő mellékletből áll. Az MNB a jegybank irányadó eszközének mindenkori állományát és annak kamatráfordítását a kapcsolódó mérleg- és eredménykimutatás-sorból külön kiemelve is bemutatja.
+(3)[^10] Az (1) bekezdés szerinti éves beszámoló az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a kiegészítő mellékletből áll.
 
 (4) Az MNB statisztikai és elemzési célokra a (3) bekezdésben foglaltaktól eltérő összetételű és tagolású beszámolót is készít, és tesz közzé.
 
@@ -17,6 +17,6 @@
 (7)[^12]
 
 [^9]: A 3. § (2) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^10]: A 3. § (3) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 343/2019. (XII. 23.) Korm. rendelet 3. § 1. pontja szerint módosított szöveg.
 [^11]: A 3. § (5a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A 3. § (7) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 11. §-a hatályon kívül helyezte.
