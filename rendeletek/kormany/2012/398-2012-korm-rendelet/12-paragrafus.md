@@ -1,6 +1,6 @@
-## 10. [^18] Átalakulás, egyesülés, szétválás
+## 10. [^20] Átalakulás, egyesülés, szétválás
 
-12. §[^19] (1) A mikrogazdálkodó átalakulása, egyesülése, szétválása során az Szt. előírásait kell alkalmazni a (2)–(5) bekezdésben foglaltak figyelembevételével.
+12. §[^21] (1) A mikrogazdálkodó átalakulása, egyesülése, szétválása során az Szt. előírásait kell alkalmazni a (2)–(5) bekezdésben foglaltak figyelembevételével.
 
 (2) A mikrogazdálkodó átalakulása, szétválása során a jogelőd gazdasági társaság beszámolójára vonatkozó szabályok szerint kell az átalakulási vagyonmérlegeket összeállítani.
 
@@ -14,5 +14,5 @@ b) az összeolvadók (jogelődök) legalább egyike nem mikrogazdálkodó, akkor
 
 (5) Ha a jogutód az átalakulást, egyesülést, szétválást követően éves beszámoló, egyszerűsített éves beszámoló helyett mikrogazdálkodói beszámolót készít, az áttérés miatt szükséges korrekciókat a nyitást követően a jogutódnál kell végrehajtani.
 
-[^18]: A 10. alcím címe a 362/2014. (XII. 30.) Korm. rendelet 54. §-as szerint módosított szöveg.
-[^19]: A 12. § az 518/2013. (XII. 30.) Korm. rendelet 72. §-ával megállapított szöveg.
+[^20]: A 10. alcím címe a 362/2014. (XII. 30.) Korm. rendelet 54. §-as szerint módosított szöveg.
+[^21]: A 12. § az 518/2013. (XII. 30.) Korm. rendelet 72. §-ával megállapított szöveg.

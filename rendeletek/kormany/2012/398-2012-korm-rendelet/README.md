@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-398-20-
 | 2016-01-01 | 2012-398-20-22.5 | 484/2015. (XII. 29.) Korm. rendelet |
 | 2017-01-01 | 2012-398-20-22.6 | 480/2016. (XII. 28.) Korm. rendelet |
 | 2018-01-01 | 2012-398-20-22.7 | 445/2017. (XII. 27.) Korm. rendelet |
+| 2020-01-01 | 2012-398-20-22.8 | 343/2019. (XII. 23.) Korm. rendelet |

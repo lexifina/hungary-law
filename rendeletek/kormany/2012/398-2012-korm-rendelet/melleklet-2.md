@@ -10,7 +10,7 @@
 
 | 4 | □ nem |
 
-| 5 | Kis értékű eszközök egy összegű leírásánál alkalmazott, 100 ezer forinttól eltérő értékhatár | … ezer forint |
+| 5 | Kis értékű eszközök egy összegű leírásánál alkalmazott, 200 ezer forinttól eltérő értékhatár | … ezer forint |
 
 | 6 | A készletekről év közben folyamatos értékbeni nyilvántartást | □ vezet |
 
@@ -92,6 +92,6 @@
 
 ## Vállalkozó képviseletére jogosult személy aláírása
 
-2. melléklet a 398/2012. (XII. 20.) Korm. rendelethez[^31]
+2. melléklet a 398/2012. (XII. 20.) Korm. rendelethez[^34]
 
-[^31]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 98. § (2) bekezdésével megállapított szöveg.
+[^34]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 98. § (2) bekezdésével megállapított szöveg.
