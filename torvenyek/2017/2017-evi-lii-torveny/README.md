@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-52-00-00
 | 2017-06-27 | 2010. évi CXXX. törvény | 2017-52-00-00.2 |
 | 2018-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-52-00-00.3 |
 | 2018-01-02 | 2010. évi CXXX. törvény | 2017-52-00-00.4 |
+| 2020-01-01 | 2019. évi LXXXI. törvény | 2017-52-00-00.5 |

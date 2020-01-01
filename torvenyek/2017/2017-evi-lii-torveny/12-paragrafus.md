@@ -14,6 +14,6 @@ c) értesíti az adópolitikáért felelős minisztert.
 
 (5) A mentesítésről a bíróság a Vht. rendelkezései alapján nemperes eljárásban a kérelem beérkezésétől számított hatvan napon belül – a zárlatot elrendelő korábbi végzésére is tekintettel – végzéssel dönt.
 
-(6) A bíróság a végzését kézbesíti a hatóságnak és az adópolitikáért felelős miniszternek is.
+(6) A bíróság a végzését kézbesíti a hatóságnak és az adópolitikáért felelős miniszternek, továbbá a zárlat feloldása esetén az állami adó- és vámhatóságnak is.
 
 (7) Az adópolitikáért felelős miniszter az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
