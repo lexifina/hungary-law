@@ -8,7 +8,7 @@ a) az egészségügyi szolgáltatást nyújtók, így különösen a védőnői 
 
 b) a személyes gondoskodást nyújtó szolgáltatók, így különösen a családsegítő szolgálat, a családsegítő központ, gyermekjóléti szolgálat, gyermekjóléti központ, gyermekek vagy családok átmeneti otthona,
 
-c) a közoktatási intézmények, így különösen a nevelési-oktatási intézmény, a nevelési tanácsadó,
+c) a köznevelési intézmény, a szakképző intézmény és a nevelési tanácsadó,
 
 d) a gyámhatóság,
 
