@@ -1,4 +1,4 @@
-5. melléklet a 4/2011. (I. 14.) VM rendelethez[^15]
+5. melléklet a 4/2011. (I. 14.) VM rendelethez[^17]
 
 ## A zónák típusai
 
@@ -20,4 +20,4 @@
 
 9. Az alsó és felső vizsgálati küszöbérték meghatározása a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló jogszabály szerint történik.
 
-[^15]: Az 5. melléklet a 71/2012. (VII. 16.) VM rendelet 5. §-a szerint módosított szöveg.
+[^17]: Az 5. melléklet a 71/2012. (VII. 16.) VM rendelet 5. §-a szerint módosított szöveg.

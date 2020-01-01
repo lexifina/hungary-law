@@ -1,4 +1,4 @@
-3. melléklet a 4/2011. (I. 14.) VM rendelethez[^14]
+3. melléklet a 4/2011. (I. 14.) VM rendelethez[^16]
 
 ## Tájékoztatási és riasztási küszöbértékek
 
@@ -62,4 +62,4 @@ megadásával.
 
 3.4. Tájékoztatás a szennyezettség, illetve az expozíció csökkentése érdekében teendő megelőző beavatkozásról a szennyezettség lehetséges okainak bemutatásával és a kibocsátások csökkentésére vonatkozó ajánlásokkal.
 
-[^14]: A 3. melléklet a 84/2016. (XII. 16.) FM rendelet 1. § b) pontja szerint módosított szöveg.
+[^16]: A 3. melléklet a 84/2016. (XII. 16.) FM rendelet 1. § b) pontja szerint módosított szöveg.

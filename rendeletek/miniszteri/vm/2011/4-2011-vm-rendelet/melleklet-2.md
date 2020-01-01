@@ -1,4 +1,4 @@
-2. melléklet a 4/2011. (I. 14.) VM rendelethez[^13]
+2. melléklet a 4/2011. (I. 14.) VM rendelethez[^15]
 
 1. Egyes légszennyező anyagok tervezési irányértékei
 
@@ -346,18 +346,74 @@
 
 2. Az ülepedő porra vonatkozó tervezési irányértékek
 
-|  |  | A | B | C | D |
+|  | A | B | C | D |
 
-|  | 1. | Légszennyező anyag [CAS szám] | Tervezési irányérték | Veszélyességi fokozat |
+| 1. | Légszennyező anyag [CAS szám] | Tervezési irányérték | Veszélyességi fokozat |
 
-|  | 2. | 30 napos | éves |
+| 2. | 30 napos | éves |
 
-|  | 3. | Ülepedő por, toxikus anyagot nem tartalmaz | 16 g/m2 x 30 nap | 120 t/km2xév | IV. |
+| 3. | Ülepedő por, toxikus anyagot nem tartalmaz | 16 g/m2 x 30 nap | 120 t/km2xév | IV. |
 
-|  | 4. | Ólom [7439-92-1] | 7,5 mg/m2 x 30 nap |  | I. |
+| 4. | Ólom [7439-92-1] | 7,5 mg/m2 x 30 nap |  | I. |
 
-|  | 5. | Kadmium [7440-43-9] | 0,15 mg/m2 x 30 nap |  | I. |
+| 5. | Kadmium [7440-43-9] | 0,15 mg/m2 x 30 nap |  | I. |
 
-|  | 6. | Vízoldható fluoridok F-ként (F: [7782-41-4]) | 50 mg/m2 x 30 nap |  | I. |
+| 6. | Vízoldható fluoridok F-ként (F: [7782-41-4]) | 50 mg/m2 x 30 nap |  | I. |
 
-[^13]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a szerint módosított szöveg.
+3. Bűzre vonatkozó tervezési irányértékek
+
+|  | A | B | C |
+
+| 1. | Technológia megnevezése | Tervezési irányérték [SZE/m3] | Vizsgálati módszer |
+
+| 2. | Állati maradványokkal folytatott tevékenység | 1,5 | MSZ EN 13725 vagy ezzel egyenértékű módszer |
+
+| 3. | Állati takarmánygyártás | 1,5 |
+
+| 4. | Autóalkatrész gyártás | 3 |
+
+| 5. | Biogáz előállítás | 1,5 |
+
+| 6. | Bűzös, rothadó hulladékokkal folytatott tevékenység | 1,5 |
+
+| 7. | Cukorgyártás | 3 |
+
+| 8. | Cukrászati tevékenység | 6 |
+
+| 9. | Csokoládégyártás | 6 |
+
+| 10. | Dohányfeldolgozás | 3 |
+
+| 11. | Élelmiszeripari tevékenységek, élelmiszeripari zsírfeldolgozás, ideértve a vendéglátással kapcsolatos tevékenységet is | 3 |
+
+| 12. | Fafeldolgozás | 3 |
+
+| 13. | Forgácslap gyártás | 1,5 |
+
+| 14. | Illatszer és fűszer előállítás | 6 |
+
+| 15. | Intenzív állattartás | 3 |
+
+| 16. | Kávépörkölés | 6 |
+
+| 17. | Kommunális hulladékkezelés, lerakás | 1,5 |
+
+| 18. | Műanyaggyártás, újrafeldolgozás | 1,5 |
+
+| 19. | Olajfinomítás | 1,5 |
+
+| 20. | Sütőipar | 6 |
+
+| 21. | Öntödék, kovácsüzemek | 1,5 |
+
+| 22. | Sörfőzés | 6 |
+
+| 23. | Szennyvíz kezelése | 1,5 |
+
+| 24. | Téglagyártás | 3 |
+
+| 25. | Tejfeldolgozás | 1,5 |
+
+| 26. | Nem élelmiszeripari zsírfeldolgozás | 1,5 |
+
+[^15]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a, a 63/2019. (XII. 19.) AM rendelet 3. §-a szerint módosított szöveg.

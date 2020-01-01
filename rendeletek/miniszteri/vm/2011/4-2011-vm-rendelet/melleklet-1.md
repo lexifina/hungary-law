@@ -1,6 +1,6 @@
-## 11–12. §[^11]
+## 11–12. §[^13]
 
-1. melléklet a 4/2011. (I. 14.) VM rendelethez[^12]
+1. melléklet a 4/2011. (I. 14.) VM rendelethez[^14]
 
 ## A levegőterheltségi szint egészségügyi határértékei, célértékei, hosszú távú célkitűzései
 
@@ -148,5 +148,5 @@ Az azbeszt kifejezés alatt a következő szálas szilikátokat kell érteni: kr
 
 | 5 | Naptári év | 20 µg/m3 |  | 2020. január 1. |
 
-[^11]: A 9. alcímet és a 11–12. §-t a 12. § hatályon kívül helyezte.
-[^12]: Az 1. melléklet a 71/2012. (VII. 16.) VM rendelet 3. §-a, a 84/2016. (XII. 16.) FM rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 9. alcímet és a 11–12. §-t a 12. § hatályon kívül helyezte.
+[^14]: Az 1. melléklet a 71/2012. (VII. 16.) VM rendelet 3. §-a, a 84/2016. (XII. 16.) FM rendelet 1. § a) pontja szerint módosított szöveg.

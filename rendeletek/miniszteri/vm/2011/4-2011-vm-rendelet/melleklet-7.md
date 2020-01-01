@@ -576,7 +576,7 @@
 
 | 3 | Azbeszt | 0,0005 vagy ennél nagyobb | 1000 |
 
-7. melléklet a 4/2011. (I. 14.) VM rendelethez[^17]
+7. melléklet a 4/2011. (I. 14.) VM rendelethez[^19]
 
 Eljárásspecifikus technológiai kibocsátási határértékek és egyéb előírások
 
@@ -1310,4 +1310,4 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.56.
 
-[^17]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése szerint módosított szöveg.
