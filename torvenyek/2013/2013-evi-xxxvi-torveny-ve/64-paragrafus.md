@@ -1,4 +1,6 @@
-64. § (1) Az elnökhelyettes helyettes államtitkári illetményre és juttatásokra jogosult.
+64. § (1) Az elnökhelyettes a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) Az elnökhelyettes az (1) bekezdésben meghatározott illetményen túl helyettes államtitkári juttatatásra jogosult.
 
 (2) Az elnökhelyettest naptári évenként negyven munkanap szabadság illeti meg.
 
