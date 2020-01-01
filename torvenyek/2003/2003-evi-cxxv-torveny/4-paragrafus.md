@@ -14,7 +14,7 @@ e) a közalapítványok, a köztestületek, valamint munkavállalók és munkál
 
 f) a közszolgáltatást végző szervezetek,
 
-g) a közoktatási és a felsőoktatási intézmények (a továbbiakban együtt: oktatási intézmény),
+g) a köznevelési intézmények, a szakképző intézmények és a felsőoktatási intézmények (a továbbiakban együtt: oktatási intézmény),
 
 h) a szociális, gyermekvédelmi gondoskodást, valamint gyermekjóléti szolgáltatást nyújtó személyek és intézmények,
 

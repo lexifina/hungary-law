@@ -1,4 +1,6 @@
-43. § (1) A hatóság elnökhelyettese államtitkári illetményre és juttatásokra jogosult.
+43. § (1) A hatóság elnökhelyettese a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) A hatóság elnökhelyettese az (1) bekezdésben meghatározott illetményen túl államtitkári juttatásra jogosult.
 
 (2) A hatóság elnökhelyettesét naptári évenként negyven munkanap szabadság illeti meg.
 

@@ -2,7 +2,7 @@
 
 (2) Nem sérti az egyenlő bánásmód követelményét, ha
 
-a) közoktatási intézményben a szülők kezdeményezésére és önkéntes választása szerint,
+a) köznevelési intézményben, illetve szakképző intézményben a szülők kezdeményezésére és önkéntes választása szerint,
 
 b) felsőoktatási intézményben a hallgatók önkéntes részvétele alapján
 
