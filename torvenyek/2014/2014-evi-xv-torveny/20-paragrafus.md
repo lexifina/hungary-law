@@ -10,6 +10,8 @@ ac) cégjegyzékszámát, egyéb nyilvántartási számát,
 
 ad) telefonszámát, elektronikus levélcímét,
 
+ae) – kizárólag a bejelentő esetén – vezető állású személyét, tagját és tényleges tulajdonosát, valamint azok b) pont ba)–bd) alpontja szerinti adatait,
+
 b) természetes személy
 
 ba) nevét, születési nevét,
@@ -30,4 +32,6 @@ a) a létrejött (módosult, megszűnt) bizalmi vagyonkezelési szerződést tar
 
 b) a bejelentés megtételéért teljesítendő igazgatási szolgáltatási díj megfizetésének igazolását,
 
-c) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot.
+c) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot,
+
+d) ha az nem új bizalmi vagyonkezelési szerződés bejelentésére irányul, a vagyonrendelő nyilatkozatát arról, hogy a bizalmi vagyonkezelési szerződés módosítása kizárólag a bizalmi vagyonkezelő személyében történő változást tartalmazza.

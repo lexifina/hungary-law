@@ -14,4 +14,6 @@ b) állapítsa meg a bizalmi vagyonkezelő vállalkozás által szolgáltatandó
 
 a) az e törvény alapján fizetendő igazgatási szolgáltatási díjak mértékét, valamint azok beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat, valamint
 
-b) a hivatal által vezetett bizalmi vagyonkezelő vállalkozások nyilvántartásából és a bizalmi vagyonkezelési jogviszonyok nyilvántartásából történő adatszolgáltatás részletes szabályait.
+b) a hivatal által vezetett bizalmi vagyonkezelő vállalkozások nyilvántartásából és a bizalmi vagyonkezelési jogviszonyok nyilvántartásából történő adatszolgáltatás részletes szabályait,
+
+c) a 18. § (2) bekezdésében, a 30. § (2) bekezdésében, valamint a 31. § (1a) bekezdésében meghatározott hatáskörgyakorlásra, valamint a hatáskör gyakorlójának helyettesítésére vonatkozó részletes szabályokat.

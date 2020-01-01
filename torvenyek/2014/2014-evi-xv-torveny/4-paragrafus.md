@@ -1,6 +1,6 @@
 ## 4. A bizalmi vagyonkezelő vállalkozás működésének személyi feltételei
 
-4. § (1) A bizalmi vagyonkezelő vállalkozás vezető állású személye és tagja az lehet,
+4. § (1) A bizalmi vagyonkezelő vállalkozás vezető állású személye, tagja és tényleges tulajdonosa az lehet,
 
 a) aki büntetlen előéletű,
 
@@ -8,7 +8,7 @@ b) aki nem áll
 
 ba) bizalmi vagyonkezelési tevékenység folytatását,
 
-bb) a Magyar Nemzeti Bankról szóló törvény alapján a Magyar Nemzeti Bank felügyeleti hatásköre alá sorolt szervezet (a továbbiakban: pénzügyi szervezet) által végezhető tevékenység folytatását
+bb) a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) alapján a Magyar Nemzeti Bank felügyeleti hatásköre alá sorolt szervezet (a továbbiakban: pénzügyi szervezet) által végezhető tevékenység folytatását
 
 kizáró foglalkozástól eltiltás hatálya alatt,
 
@@ -16,7 +16,7 @@ c) aki vezető állású személyként nem dolgozott olyan bizalmi vagyonkezelő
 
 d) aki vezető állású személyként nem dolgozott olyan pénzügyi szervezetben, illetve nem volt olyan bizalmi vagyonkezelő vállalkozásban egyedüli vagy többségi befolyást biztosító részesedéssel rendelkező tag, amelynek tevékenységi engedélyét a kérelem benyújtásának időpontjától számított tíz éven belül a pénzügyi szervezetek felett prudenciális felügyeletet gyakorló hatóság a jogszabályi előírások megsértése miatt visszavonta,
 
-e) akivel szemben a Magyar Nemzeti Bankról szóló törvény alapján a Magyar Nemzeti Bank, vagy annak jogelődje felügyeleti hatáskörében személyre szóló felügyeleti bírságot nem szabtak ki a kérelem benyújtásának időpontjától számított tíz éven belül, és
+e) akivel szemben az MNB tv. alapján a Magyar Nemzeti Bank, vagy annak jogelődje felügyeleti hatáskörében személyre szóló felügyeleti bírságot nem szabtak ki a kérelem benyújtásának időpontjától számított tíz éven belül, és
 
 f) akinek jó üzleti hírnevéhez nem fér kétség.
 
@@ -24,7 +24,7 @@ f) akinek jó üzleti hírnevéhez nem fér kétség.
 
 (3) A jó üzleti hírnevet a kérelmezőnek, illetve annak kell bizonyítania, akinek érdekében áll, hogy azt a hivatal elfogadja. A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a hivatal egyéb, általa meghatározott iratok (okmányok) benyújtását írhatja elő. A hivatal a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
-(3a) A jó üzleti hírnév fennállásának megállapítása érdekében a hivatal megkeresésére az állami adó- és vámhatóság a kérelmezőre, annak tagjára, valamint vezető állású személyére vonatkozóan a jó üzleti hírnevet befolyásoló, az állami adó- és vámhatóság rendelkezésére álló információ átadása érdekében adatot szolgáltat. A hivatal az adatokat az eljárás jogerős lezárásáig kezelheti.
+(3a) A jó üzleti hírnév fennállásának megállapítása érdekében a hivatal megkeresésére az állami adó- és vámhatóság a kérelmezőre, annak tagjára, valamint vezető állású személyére vonatkozóan a jó üzleti hírnevet befolyásoló, az állami adó- és vámhatóság rendelkezésére álló információ átadása érdekében adatot szolgáltat. A hivatal az adatokat az eljárás végleges lezárásáig kezelheti.
 
 (4) A jó üzleti hírnév bizonyításának sikertelenségét a hivatalnak határozattal kell megállapítania. Jó üzleti hírnévvel rendelkezik az,
 

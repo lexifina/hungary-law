@@ -20,6 +20,8 @@ ae) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
 
 af) nyilvántartási számát,
 
+ag) vezető állású személyének, tagjának és tényleges tulajdonosának nevét, születési nevét, anyja nevét, születési helyét és idejét, jogi személy vagy nem jogi személy szervezet esetén nevét, székhelyét, nyilvántartási számát,
+
 b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét kiadó határozat véglegessé válásának napját,
 
 c) az engedély visszavonását elrendelő határozat véglegessé válásának a napját,

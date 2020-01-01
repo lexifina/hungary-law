@@ -1,4 +1,4 @@
-10. § (1) A kérelmet írásban a hivatalhoz kell előterjeszteni, és annak tartalmaznia kell a kérelmező bizalmi vagyonkezelő vállalkozás (a továbbiakban ezen alcímben: kérelmező) 13. § (3) bekezdés a) pont aa)–ae) alpontjában foglalt adatait és engedély kiadása iránti kérelmét.
+10. § (1) A kérelmet írásban a hivatalhoz kell előterjeszteni, és annak tartalmaznia kell a kérelmező bizalmi vagyonkezelő vállalkozás (a továbbiakban ezen alcímben: kérelmező) 13. § (3) bekezdés a) pont aa)–ae) és ag) alpontjában foglalt adatait és engedély kiadása iránti kérelmét.
 
 (2) A kérelemhez mellékelni kell
 
@@ -46,7 +46,7 @@ o)
 
 p)
 
-q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának hatósági erkölcsi bizonyítványát annak igazolására, hogy velük szemben a 4. § (1) bekezdés a) pontja, illetve b) pontja szerinti kizáró okok nem állnak fenn,
+q) a kérelmező vezető állású személyének, természetes személy tagjának, tényleges tulajdonosának, munkavállalójának hatósági erkölcsi bizonyítványát annak igazolására, hogy velük szemben a 4. § (1) bekezdés a) pontja, illetve b) pontja szerinti kizáró okok nem állnak fenn,
 
 r) legalább egy fő mesterképzésben szerzett közgazdász szakképzettséggel rendelkező közgazdásszal, egy fő jogi szakvizsgát tett jogásszal kötött munkaszerződést és egy fő okleveles könyvvizsgáló foglalkoztatására kötött szerződést,
 
