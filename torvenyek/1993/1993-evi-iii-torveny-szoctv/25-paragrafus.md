@@ -58,6 +58,8 @@ b) az a) pontba nem tartozó jövedelmek esetén a 10. § (2) és (4) bekezdés�
 
 figyelemmel kell elvégezni.
 
+(8a) Akinek a gyermekek otthongondozási díjára való jogosultságát ugyanazon várandósságból született gyermekei közül nem mindegyik ikergyermekre tekintettel állapították meg, a 39/A. § (3) bekezdésének és a 39/B. § (1) bekezdésének alkalmazásában rendszeres pénzellátásként az ikergyermekekre tekintettel folyósított gyermeknevelést segítő ellátásnak csak azt a hányadát kell figyelembe venni, amit a gyermekek otthongondozási díjára való jogosultság megállapítása során figyelembe vett gyermekre tekintettel folyósítanak.
+
 (9) Ha a havi rendszeres szociális ellátás összege a (6) bekezdés szerinti felülvizsgálat eredményeként
 
 a) emelkedett, akkor az új összeget az ellátásra való jogosultság feltételeiben bekövetkező változás bejelentésének, illetve a hivatalos tudomásszerzésnek az időpontjától,
@@ -65,6 +67,8 @@ a) emelkedett, akkor az új összeget az ellátásra való jogosultság feltéte
 b) csökkent, akkor az új összeget az ellátásra való jogosultság feltételeiben bekövetkező változásra vonatkozó bejelentési kötelezettség határidejének lejártát, illetve a hivatalos tudomásszerzésnek az időpontját követő hónap első napjától
 
 kell folyósítani.
+
+(9a) A (9) bekezdésben foglaltakat kell alkalmazni a gyermekek otthongondozási díja vagy az ápolási díj összegének változása esetén, kivéve, ha arra az ápolási díj jogcímének 43/E. §-ban foglaltak szerinti változására tekintettel került sor.
 
 (10) Ha e törvény eltérően nem rendelkezik, a szociális rászorultságtól függő pénzbeli ellátásra való jogosultság megszűnik, ha a jogosultság megállapításának alapjául szolgáló feltételek már nem állnak fenn.
 

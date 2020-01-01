@@ -1,4 +1,4 @@
-20/C. § (1) A kincstár a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+20/C. § (1) A kincstár a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése, és a szükséges szociális szolgáltatásokhoz történő hozzáférés nyomon követése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a 20. § (2) bekezdés a)–c) pontjában meghatározott adatokat, az ellátott telefonszáma és értesítési címe kivételével,
 
@@ -10,7 +10,7 @@ d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét
 
 e) házi segítségnyújtás esetén a megállapított gondozási szükségletre és az ellátott számára nyújtott szolgáltatás tartalmára vonatkozó adatokat,
 
-f) családsegítés és gyermekjóléti szolgáltatás esetén a szolgáltatás tartalmára vonatkozó adatokat,
+f) családsegítés és gyermekjóléti szolgáltatás esetén a szolgáltatás tartalmára vonatkozó adatokat, valamint szociális diagnózis felvétele esetén a javasolt szolgáltatásokra és szociális, gyermekjóléti szolgáltatóra, intézményre (székhelyre, telephelyre) vonatkozó adatokat,
 
 g) fejlesztő foglalkoztatás esetén
 
@@ -32,4 +32,4 @@ b) családsegítés esetében, ha a jogszabályban meghatározott szakmai tevék
 
 (5)
 
-(6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok – 92/K. § szerinti – hatósági nyilvántartására (a továbbiakban: szolgáltatói nyilvántartás) vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárásának a lefolytatása céljából.
+(6) Az (1) bekezdés szerinti nyilvántartáshoz közvetlen hozzáféréssel rendelkezik a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok – 92/K. § szerinti – hatósági nyilvántartására (a továbbiakban: szolgáltatói nyilvántartás) vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárásának a lefolytatása céljából.

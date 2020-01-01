@@ -42,7 +42,7 @@ c)
 
 (6) Csak a (2) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni
 
-a) nappali melegedő és éjjeli menedékhely esetében, valamint
+a)
 
 b) családsegítés esetében, ha a jogszabályban meghatározott szakmai tevékenység az első interjú kapcsán tett intézkedéssel lezárható.
 

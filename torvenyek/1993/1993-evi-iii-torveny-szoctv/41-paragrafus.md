@@ -44,8 +44,12 @@ c) állandó és tartós ápolásra, gondozásra szorul az a személy, akiről a
 
 (4) A járási hivatal a (3) bekezdés c) pontjában foglalt feltételek fennállásának megállapítása céljából – ha a szükséges szakértelemmel nem rendelkezik – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértőt rendel ki. A szakvéleményben meg kell jelölni annak hatályát.
 
-(5) Szakértő kirendelése esetén az ápolási díjról döntést hozó szerv a szakvélemény elkészítéséért a 2019. évben esetenként a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 66. § (2) bekezdés a) pontjában meghatározottaknak megfelelő összegű szakértői díjat fizet.
+(4a) Nem szükséges szakértő kirendelése, ha rendelkezésre áll az ápolási díj megállapítására irányuló eljárás megindításának időpontjától számított legalább további egy évig hatályos, gyermekek otthongondozási díja vagy 2019. január 1-jét követően ápolási díj megállapítása iránt indított eljárásban kiállított szakvélemény.
+
+(5) Szakértő kirendelése esetén az ápolási díjról döntést hozó szerv a szakvélemény elkészítéséért szakértői díjat fizet. A díjazás összegét az éves központi költségvetésről szóló törvény határozza meg.
 
 (6) A másodfokú eljárásban eljáró hatóság – ha a szükséges szakértelemmel nem rendelkezik – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértő útján gondoskodik a (3) bekezdés c) pontja szerinti szakvélemény felülvizsgálatáról, szükség esetén új szakvélemény beszerzéséről.
 
 (7) A (4) és a (6) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
+
+(8) Ha az ápolási díjra való jogosultságot a gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásától számított 30 napon belül benyújtott kérelem alapján állapítják meg, az ápolási díjra való jogosultság kezdő napjának a gyermekek otthongondozási díja iránti kérelem benyújtásának napját kell tekinteni.

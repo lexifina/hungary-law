@@ -2,7 +2,7 @@
 
 a) az ápolt személy két hónapot meghaladóan fekvőbeteg-gyógyintézeti, valamint nappali ellátást nyújtó vagy bentlakásos szociális intézményi ellátásban, óvodai elhelyezésben vagy gyermekvédelmi szakellátást nyújtó bentlakásos intézményi elhelyezésben részesül, illetve köznevelési intézmény tanulója vagy felsőoktatási intézmény nappali képzésben részt vevő hallgatója, kivéve, ha
 
-aa) a köznevelési intézményben eltöltött idő a nemzeti köznevelésről szóló törvényben a köznevelési intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
+aa) a köznevelési intézményben eltöltött idő a köznevelési intézményben, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
 
 ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg,
 
@@ -50,4 +50,4 @@ c) az a) pont szerinti ellátásra való jogosultság kezdő napját megelőző 
 
 (5) A (4) bekezdés alkalmazása során a 41. § (1) bekezdés a) pont aa) alpontja szerinti, valamint kiemelt ápolási díjra való jogosultság időtartamát össze kell számítani.
 
-(6) Amennyiben az ápolási díjra jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, a döntés véglegessé válásától számított hat hónapon belül ismételten nem állapítható meg.
+(6) A döntés véglegessé válásától számított hat hónapon belül nem állapítható meg az ápolási díjra való jogosultság, ha az ápolási díjra való jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, vagy ha a gyermekek otthongondozási díjára való jogosultság a 39/B. § (2) bekezdés g) pontja alapján került megszüntetésre.

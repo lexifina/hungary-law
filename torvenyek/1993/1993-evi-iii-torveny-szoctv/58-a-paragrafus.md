@@ -36,7 +36,7 @@ f) az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezd
 
 (2c) A rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
-a)
+a) azt a szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, feladatmutatót, amelynek ellátására az egyházi fenntartó a települési önkormányzattal vagy társulással ellátási szerződést kötött, az ellátási szerződésben szereplő szolgáltatás, ellátotti létszám, férőhelyszám, feladatmutató erejéig,
 
 b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
 
@@ -48,15 +48,17 @@ cb) ellátotti létszámnak vagy férőhelyszámnak a fenntartó szociális szol
 
 cc) egy szociális intézményen belül az átmeneti és tartós bentlakásos intézményi ellátást nyújtó férőhelyek egymás közötti átminősítése teszi szükségessé,
 
-cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhelyek egy részének külső férőhellyé történő átminősítése és legfeljebb ezzel azonos számú új külső férőhely létesítése teszi szükségessé.
+cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhelyek egy részének külső férőhellyé történő átminősítése és legfeljebb ezzel azonos számú új külső férőhely létesítése teszi szükségessé,
+
+ce) egyházi fenntartók közötti fenntartóváltozásra, egyházi fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra tekintettel kérik.
 
 (2d) A (2c) bekezdés szerinti feltételek fennállását a szociál- és nyugdíjpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a szociál- és nyugdíjpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen és átcsoportosításon az egyik intézményben, telephelyen történő ellátotti létszám-, férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű ellátotti létszám-, férőhelyszám-növelést kell érteni.
 
-(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociál- és nyugdíjpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra tekintettel kérik.
+(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociál- és nyugdíjpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra – ide nem értve a (2c) bekezdés c) pont ce) alpontját – tekintettel kérik.
 
-(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca) és cb) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
+(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca), cb) és ce) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
 (2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
@@ -96,7 +98,7 @@ d) a kérelem módosítását követő naptól számított harminc napon belül 
 
 (7) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
-(8)
+(8) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos határozat ellen fellebbezésnek van helye.
 
 (9) A kincstár az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos eljárását felfüggesztheti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben
 

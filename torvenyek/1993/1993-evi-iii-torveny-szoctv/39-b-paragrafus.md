@@ -2,13 +2,13 @@
 
 a) a gyermek két hónapot meghaladóan fekvőbeteg-gyógyintézeti, valamint nappali ellátást nyújtó vagy bentlakásos szociális intézményi ellátásban, óvodai elhelyezésben vagy gyermekvédelmi szakellátást nyújtó bentlakásos intézményi elhelyezésben részesül, illetve köznevelési intézmény tanulója vagy felsőoktatási intézmény nappali képzésben részt vevő hallgatója, kivéve, ha
 
-aa) a köznevelési intézményben eltöltött idő a nemzeti köznevelésről szóló törvényben a köznevelési intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
+aa) a köznevelési intézményben eltöltött idő a köznevelési intézményben, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
 
 ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg, vagy
 
 ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak a szülő rendszeres közreműködésével valósítható meg;
 
-b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel folyósított csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
+b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel folyósított csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
 
 c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve felsőoktatási intézmény nappali képzésben részt vevő hallgatója; vagy
 
@@ -38,8 +38,8 @@ g) az ápolást, gondozást végző szülő a gyermekek otthongondozási díjár
 
 a) a Tny. szerint saját jogú nyugdíjnak minősülő ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33. § (1) bekezdése alapján, a törvény erejénél fogva rehabilitációs ellátásban részesül,
 
-b) az a) pont szerinti ellátásra való jogosultság keletkezését megelőző napon a gyermekek otthongondozási díjára volt jogosult, és
+b) az a) pont szerinti ellátásra való jogosultság keletkezését megelőző napon a gyermekek otthongondozási díjára vagy ápolási díjra volt jogosult, és
 
 c) az a) pont szerinti ellátásra való jogosultság kezdőnapját megelőző húsz éven belül a gyermekek otthongondozási díjára, illetve a 41. § (1) bekezdés a) pont aa) alpontja szerinti vagy a kiemelt ápolási díjra való jogosultsága együttesen összeszámítva legalább tíz évig fennállt.
 
-(6) Ha a gyermekek otthongondozási díjára való jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, a döntés véglegessé válásától számított hat hónapon belül ismételten nem állapítható meg.
+(6) A döntés véglegessé válásától számított hat hónapon belül nem állapítható meg a gyermekek otthongondozási díjára való jogosultság, ha a gyermekek otthongondozási díjára való jogosultság a (2) bekezdés g) pontja alapján került megszüntetésre, vagy ha az ápolási díjra való jogosultság a 42. § (2) bekezdés g) pontja alapján került megszüntetésre.

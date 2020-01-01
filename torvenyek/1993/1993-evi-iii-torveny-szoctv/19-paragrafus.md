@@ -8,7 +8,7 @@ a) a 18. §-ban szabályozott nyilvántartás a 18. § d) és e) pontja szerinti
 
 b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adatkör tekintetében, és
 
-c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, és az annak megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
+c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, az arra való jogosultság fennállásának érdemi elbírálására, a jogosultság megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
 
 (1c) Az (1) bekezdéstől eltérően, a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság a jogosult azonosításához szükséges, valamint a 18/A. § d) és e) pontjában meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, gyermekvédelmi és gyámügyi feladatkörében, valamint – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, valamint a rehabilitációs hatóságként eljáró fővárosi és megyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatai ellátása céljából.
 

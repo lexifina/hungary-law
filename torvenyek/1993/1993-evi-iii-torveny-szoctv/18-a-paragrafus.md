@@ -1,6 +1,6 @@
-18/A. § A járási hivatal a feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+18/A. § A járási hivatal a feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-a) a jogosult és az adott ellátás megállapítása során e törvény rendelkezései alapján figyelembe vett más személy
+a) az ellátást kérelmező, a jogosult és az az adott ellátásra való jogosultság elbírálása során e törvény rendelkezései alapján figyelembe vett más személy
 
 aa) természetes személyazonosító adatait,
 
@@ -8,7 +8,7 @@ ab) belföldi lakó- vagy tartózkodási helyét,
 
 ac) Társadalombiztosítási Azonosító Jelét;
 
-b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
+b) az ellátást kérelmező, a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
 
 c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 
@@ -20,7 +20,7 @@ db) jogcímét,
 
 dc) összegét,
 
-dd) megállapítására, megváltoztatására, megszűnésére vagy megszüntetésére vonatkozó adatokat,
+dd) érdemi elbírálására, megváltoztatására, megszűnésére vagy megszüntetésére vonatkozó adatokat,
 
 de) megszűnésének vagy megszüntetésének jogcímét;
 

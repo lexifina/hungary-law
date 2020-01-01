@@ -2,7 +2,7 @@
 
 (2) A szolgáltatói nyilvántartás tartalmazza
 
-a) a fenntartó nevét, székhelyét, adószámát és típusát,
+a) a fenntartó nevét, székhelyét, adószámát és típusát, valamint egyházi fenntartó esetén a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház nevét,
 
 b) a fenntartó és a szociális szolgáltató, szociális intézmény (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
 

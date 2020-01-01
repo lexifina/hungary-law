@@ -4,4 +4,4 @@
 
 (3) A gyógyszerkeret az igazolvány hatályosságának az ideje alatt használható fel.
 
-(4) Két évre megállapított jogosultság esetén az adott évre megnyitott keretből fel nem használt összeggel a következő évre járó egyéni és eseti keret összege nem növelhető meg.
+(4) Több évre megállapított jogosultság esetén az adott évre megnyitott keretből fel nem használt összeggel a következő évre járó egyéni és eseti keret összege nem növelhető meg.

@@ -2,7 +2,7 @@
 
 a) egészségkárosodott személynek minősül, vagy
 
-b) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, csecsemőgondozási díjban – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem tudják biztosítani,
+b) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, csecsemőgondozási díjban, örökbefogadói díjban – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem tudják biztosítani,
 
 egészségkárosodási és gyermekfelügyeleti támogatásra jogosult.
 

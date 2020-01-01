@@ -4,13 +4,13 @@ a) az időskorúak járadékáról, az aktív korúak ellátásáról, a gyermek
 
 b) a Gyvt. szerinti rendszeres gyermekvédelmi kedvezményről, gyermektartásdíj megelőlegezésről és otthonteremtési támogatásról (a továbbiakban együtt: gyermekvédelmi ellátások),
 
-c) az a) és b) pont szerinti ellátásra jogosult személyekről, és
+c) az a) és b) pont szerinti ellátást kérelmező, érdemi döntéssel érintett személyekről, és
 
-d) az a) és b) pont szerinti ellátás megállapítása során e törvény, illetve a Gyvt. rendelkezései alapján figyelembe vett személyekről.
+d) az a) és b) pont szerinti ellátásra való jogosultság elbírálása során e törvény, illetve a Gyvt. rendelkezései alapján figyelembe vett személyekről.
 
 (2) Az országos nyilvántartás tartalmazza
 
-a) az eljáró hatóság – ideértve a gyermekvédelmi ellátások megállapítása során eljáró hatóságot is – megnevezését, címét, valamint az ügy számát és elbírálási azonosítóját,
+a) az eljáró hatóság – ideértve a gyermekvédelmi ellátásokra való jogosultság elbírálása során eljáró hatóságot is – megnevezését, címét, valamint az ügy számát és elbírálási azonosítóját,
 
 b) a 18. § szerinti adatokat,
 

@@ -30,6 +30,6 @@ c) az a)–b) pontban meghatározottakon túl önellátásra legalább részben 
 
 d) lakóotthonba kerülése időpontjában a tizenhatodik életévét már betöltötte, de a reá irányadó öregségi nyugdíjkorhatárt még nem.
 
-(5) A fogyatékos személyek ápoló-gondozó célú lakóotthonába – intézményből történő elhelyezés esetén a felülvizsgálat és az egyéni fejlesztés eredményeire figyelemmel – a fogyatékosság jellegétől és súlyosságától függetlenül helyezhető el fogyatékos személy, figyelemmel a (4) bekezdés b)–d) pontjában meghatározott rendelkezésre. A nagykorú fogyatékos személy fogyatékos személyek ápoló-gondozó célú lakóotthonában történő elhelyezésének feltétele a benyújtott orvosi dokumentáció felhasználásával lefolytatott alapvizsgálat elvégzése.
+(5) A fogyatékos személyek ápoló-gondozó célú lakóotthonába – intézményből történő elhelyezés esetén a felülvizsgálat és az egyéni fejlesztés eredményeire figyelemmel – a fogyatékosság jellegétől és súlyosságától függetlenül helyezhető el fogyatékos személy, figyelemmel a (4) bekezdés b)–d) pontjában meghatározott rendelkezésre. A nagykorú fogyatékos személy fogyatékos személyek ápoló-gondozó célú lakóotthonában történő elhelyezésének feltétele a benyújtott orvosi dokumentáció felhasználásával lefolytatott alapvizsgálat, valamint a komplex szükségletfelmérés elvégzése.
 
 (6) Az ápoló-gondozó célú lakóotthon az ellátottnak teljes körű ellátást biztosít.
