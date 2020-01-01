@@ -83,3 +83,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2008-40-00-00.81 |
 | 2019-10-01 | 2018. évi XCIX. törvény | 2008-40-00-00.82 |
 | 2019-12-20 | 2019. évi CI. törvény | 2008-40-00-00.83 |
+| 2020-01-01 | 2019. évi CI. törvény | 2008-40-00-00.84 |

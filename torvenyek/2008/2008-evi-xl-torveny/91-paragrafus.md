@@ -8,6 +8,8 @@
 
 (1a) A kereskedelmi egyensúly 312/2014/EU bizottsági rendeletben, e törvény végrehajtásáráról szóló kormányrendeletben, valamint Üzemi és Kereskedelmi Szabályzatban meghatározott módon történő helyreállításának elmulasztása esetén a rendszerhasználó viseli mindazon költségeket, amelyek a mulasztása következtében az egyensúlyi eltérés miatt felmerültek.
 
+(1b) A kereskedelmi egyensúly szállítási rendszerüzemeltető részéről történő helyreállítása következtében szükséges egyensúlyozási elszámolást a szállítási rendszerüzemeltető által rendelkezésre bocsátott adatok alapján az elszámolóház végzi a rendszerhasználók és a szállítási rendszerüzemeltető kötelező elszámolóházi klíringtagsága mellett és az elszámolóházzal e tárgyban kötött szerződésük szerint.
+
 (2) A szállítási rendszerüzemeltető felelős az általa üzemeltetett szállítóvezetéknek, a földgázelosztó pedig az elosztóvezetéknek a napon belüli hidraulikai egyensúlyáért.
 
 (3) A szállítási rendszerüzemeltető a hidraulikai egyensúly biztosításához saját egyensúlyozó eszközöket, a kereskedési platformról, az egyensúlyozó platformról és a szervezett földgázpiacról beszerzett vagy ott értékesített földgázmennyiségeket, továbbá más, az Üzemi és Kereskedelmi Szabályzatban meghatározott, átlátható módon beszerzett rendszeregyensúlyozási szolgáltatásokat vehet igénybe, valamint újranominálással vagy korlátozással élhet az egyensúly fenntartásához szükséges mértékig.

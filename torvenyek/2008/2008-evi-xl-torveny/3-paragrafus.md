@@ -28,6 +28,8 @@
 
 9a. Egyensúlyozó platform: a 312/2014/EU bizottsági rendelet 3. cikk 6. pontjában meghatározott fogalom.
 
+9b. Egyensúlyozási elszámolás: az elszámolóház által a rendszerhasználók gáznapi kereskedelmi egyensúlytalansága következtében a 312/2014/EU bizottsági rendelet alapján a szállítási rendszerüzemeltető által végzett egyensúlyozási tevékenység pénzügyi elszámolása.
+
 10. Együttműködő földgázrendszer: a rendszer-összekötési pontokkal határolt, összekapcsolt szállítóvezeték, a szállítóvezetékhez kapcsolódó elosztóvezeték, a földgáztároló, valamint a részleges szigetüzem.
 
 11. Ellátás biztonsági szint: a földgázellátásnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott felkészülési feltételei, amelyek mértékéig a felhasználók földgázellátása rendkívüli intézkedések nélkül még biztosítható.
@@ -41,6 +43,8 @@
 13a. Elszámolási időszak: szerződésben megállapított, elszámolás alapjául szolgáló, két mérőleolvasás közötti időszak;
 
 14. Elszámolási mérés: az Üzemi és Kereskedelmi Szabályzat szerint kialakított, rendszerüzemeltető által működtetett, a mérésügyi jogszabályok szerint mérésre alkalmas fogyasztásmérő berendezés adatainak rögzítése a földgázforgalom meghatározása érdekében.
+
+14a. Elszámolóház: a szállítási rendszerüzemeltető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet (szakosított hitelintézet, illetve annak a teljesítés során közreműködő kapcsolt vállalkozása), amely az egyensúlyozási elszámolást, valamint a Kereskedési Platformon kötött ügyletek anonim elszámolását végzi, valamint az ügyletek klíringjével és garantálásával kapcsolatos szolgáltatásokat nyújt.
 
 15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Hivatal által kiadott érvényes engedéllyel rendelkezik.
 

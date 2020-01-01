@@ -1,6 +1,6 @@
 ## A földgázellátásból történő kikapcsolás alóli mentesség
 
-64/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a földgázkereskedőnél és a földgázelosztónál a földgázellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
+64/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, köznevelési vagy szakképző intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a földgázkereskedőnél és a földgázelosztónál a földgázellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
 
 (2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
 

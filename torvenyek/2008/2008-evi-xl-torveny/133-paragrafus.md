@@ -52,7 +52,7 @@
 
 5.
 
-6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők bejelentése esetén fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3)
 
