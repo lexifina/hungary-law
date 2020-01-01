@@ -6,4 +6,6 @@
 
 (4) A volt köztársasági elnök halála esetén a volt köztársasági elnökre tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából az (1) bekezdés szerinti pénzbeli juttatást kell a volt köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
+(4a) A volt köztársasági elnök özvegyére a 13/A. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az özvegyi ellátás összegét a 13. § (2) bekezdése szerinti tiszteletdíj havi összege helyett az e § (4) bekezdése szerinti pénzbeli juttatás alapján kell meghatározni.
+
 (5) Az (1) bekezdés szerinti juttatás folyósításával kapcsolatos feladatokat a Kormány által kijelölt nyugdíjbiztosítási igazgatási szerv az Országgyűlés Hivatala közreműködésével látja el.

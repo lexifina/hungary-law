@@ -1,4 +1,4 @@
-11. § (1) A köztársasági elnök hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légiutazásra jogosult.
+11. § (1) A köztársasági elnök hivatalos külföldi kiküldetése idején kíséretre, a politikai és szakmai felsővezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légiutazásra jogosult.
 
 (2) Ha a külföldre utazás menetrendszerű repülőgéppel, illetve vonattal történik, a köztársasági elnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe.
 

@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-110-00-00
 | 2013-01-01 | 2012. évi CCVII. törvény | 2011-110-00-00.5 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2011-110-00-00.6 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-110-00-00.7 |
+| 2020-01-01 | 2019. évi CIX. törvény | 2011-110-00-00.8 |

@@ -1,6 +1,6 @@
 6. § (1) A köztársasági elnök a megbízatása keletkezését követő harminc napon belül, majd azt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
 
-(2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) a köztársasági elnök vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő feleségének vagy férjének, gyermekeinek (a továbbiakban együtt: családtag) a köztársasági elnök vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a köztársasági elnök tisztségét nem gyakorolhatja, javadalmazásban nem részesül. A vagyonnyilatkozat-tétel elmulasztásának – egyben a köztársasági elnök átmeneti akadályoztatásának – tényét az Országgyűlés állapítja meg.
 
