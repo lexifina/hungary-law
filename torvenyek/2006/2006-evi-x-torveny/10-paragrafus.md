@@ -4,6 +4,6 @@
 
 (3) Az iskolaszövetkezet közgyűlésén és a felügyelő bizottság ülésén tanácskozási joggal részt vehet
 
-a) az iskolaszövetkezet nevelési-oktatási intézmény tagjában működő iskolai szülői szervezet (közösség) és diákönkormányzat képviselője,
+a) az iskolaszövetkezet nevelési-oktatási intézmény, illetve a szakképző intézmény tagjában működő iskolai szülői szervezet (közösség) és diákönkormányzat képviselője,
 
 b) az iskolaszövetkezet felsőoktatási intézmény tagjában működő hallgatói önkormányzat képviselője.
