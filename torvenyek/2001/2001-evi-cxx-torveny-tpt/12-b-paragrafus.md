@@ -18,11 +18,13 @@ f) a kötvény futamidejét (kivéve a lejárat nélküli kötvényt); a kamatfi
 
 g) a kötvény összegének visszafizetését (kivéve a lejárat nélküli kötvényt) és a kamat megfizetését biztosító kötelezettségvállalásokat,
 
-h) a kötvény kiállításának helyét és napját,
+h) egyoldalú kezességvállalás esetén a kezességvállaló jognyilatkozatát és aláírását,
 
-i) a kibocsátó aláírását.
+i) a kötvény kiállításának helyét és napját,
 
-(3) Dematerializált kötvényre is az (1) és (2) bekezdésben foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a (2) bekezdés i) pontjában meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza.
+j) a kibocsátó aláírását.
+
+(3) Dematerializált kötvényre is az (1) és (2) bekezdésben foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a (2) bekezdés h) és j) pontjában meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza.
 
 (4) A dematerializált kötvények esetében a kötvénytulajdonos azonosító adatait a 7. § (3) bekezdésének megfelelően az értékpapírszámla tartalmazza. Az azonosító adatok körét a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény tartalmazza.
 
@@ -49,3 +51,5 @@ d) nemzetközi szervezet és minden olyan külföldi szervezet, amely saját jog
 e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe,
 
 f) külön törvényben erre feljogosított szervezet.
+
+(9) A kötvényben a kibocsátójáért vállalt kezesség egyoldalú jognyilatkozatként is érvényes, annak érvényesítésére a kötvény mindenkori jogosultja jogosult.

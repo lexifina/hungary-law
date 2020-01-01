@@ -10,4 +10,4 @@
 
 (5) Az Alap saját tőkéje nem osztható fel.
 
-(6) Az Alapot harmadik személyekkel szemben bíróság és hatóság előtt az igazgatóság elnöke vagy az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese képviseli.
+(6) Az Alapot harmadik személyekkel szemben bíróság és hatóság előtt az igazgatóság elnöke vagy az ügyvezető igazgató képviseli.

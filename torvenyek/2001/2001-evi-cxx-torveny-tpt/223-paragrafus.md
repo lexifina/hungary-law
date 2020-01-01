@@ -12,7 +12,7 @@ c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv
 
 d) az Alap tagjainak – szakmai érdek-képviseleti szervezetei által kijelölt – két képviselője;
 
-e) az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese.
+e) az Alap ügyvezető igazgatója.
 
 (2a) Az igazgatóság tagja – az igazgatóság jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatóság ülésein.
 
@@ -26,20 +26,20 @@ e) az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese.
 
 a) a (3) bekezdésben meghatározott idő elteltével;
 
-b) a kijelölés visszavonásával, vagy az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese esetén az ügyvezető igazgató-helyettesi beosztás megszűnésével;
+b) a kijelölés visszavonásával, vagy az ügyvezető igazgató esetén az ügyvezető igazgatói beosztás megszűnésével;
 
 c) a tag halálával; vagy
 
-d) az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének kivételével lemondással.
+d) – az ügyvezető igazgató kivételével – lemondással.
 
-(7) Az igazgatóság a tagjai közül évente elnököt választ. Az Országos Betétbiztosítási Alap ügyvezető igazgató helyettese nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
 (9) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább hét tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
 
-(10) Az igazgatóság az Alappal kapcsolatos feladatainak végrehajtása során igénybe veszi az Országos Betétbiztosítási Alap munkaszervezetét. Az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese – az Országos Betétbiztosítási Alap ügyvezető igazgatójának tájékoztatása mellett – gondoskodik az igazgatóság szakmai munkájának előkészítéséről, döntéseinek megalapozásáról, a döntések végrehajtásáról.
+(10)
 
-(11) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat az Országos Betétbiztosítási Alap elkülönített munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányítása mellett.
+(11)
 
-(12) Az Alap igazgatóságának ülésein az Országos Betétbiztosítási Alap ügyvezető igazgatója tanácskozási joggal részt vehet.
+(12)
