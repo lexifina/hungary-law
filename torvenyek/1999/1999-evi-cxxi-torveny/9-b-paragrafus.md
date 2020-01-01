@@ -1,0 +1,5 @@
+9/B. § (1) A mesterképzés olyan képzési forma, amelynek során meghatározott szakképzettséggel, illetve szakképesítéssel és szakmai gyakorlattal rendelkező szakemberek mestervizsgára felkészítése történik. A mesterképzés keretében a szakma mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek átadása történik.
+
+(2) A mesterképzésben kötelezően alkalmazandó képzési és kimeneti követelményeit a szakképzésért felelős miniszter a szakképzésről szóló 2019. évi LXXX. törvény a 11. § (2)–(5) bekezdése szerint teszi közzé. A képzési és kimeneti követelmények a mesterképzésnek az országos gazdasági kamara által – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározott követelményeit, valamint a mestervizsgával kapcsolatos követelményeket állapítják meg.
+
+(3) Az országos gazdasági kamara – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározza azoknak a szakmáknak a körét, amelyekre mesterképzés folytatható és mestervizsga szervezhető.
