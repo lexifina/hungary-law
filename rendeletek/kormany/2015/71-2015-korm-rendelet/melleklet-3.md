@@ -30,10 +30,6 @@
 
 | 2. | Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala | a Balaton vízfelülete és a Balaton parti településeknek a tó medrébe (jogi partvonalával határolt területébe) nyúló, medréhez tartozó közigazgatási területe |
 
-| 3. | Pest Megyei Kormányhivatal Érdi Járási Hivatala | A Tvt. 51. § (1) bekezdésében foglalt természetvédelmi hatóságként 1. Budapest főváros, 2. Pest megye, 3. Nógrád megye, 4. Győr-Moson-Sopron megye, 5. Komárom-Esztergom megye, 6. Vas megye, 7. Veszprém megye, 8. Zala megye, 9. Somogy megye, 10.Fejér megye, 11.Tolna megye, 12.Baranya megye közigazgatási területe |
-
-| 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | A Tvt. 51. § (1) bekezdésében foglalt természetvédelmi hatóságként 1. Borsod-Abaúj-Zemplén megye, 2.Szabolcs-Szatmár-Bereg megye, 3.Hajdú-Bihar megye, 4.Jász-Nagykun-Szolnok megye, 5.Békés megye, 6.Csongrád megye, 7.Bács-Kiskun megye, 8.Heves megye közigazgatási területe |
-
 2. Ügytípus alapján meghatározott különös illetékesség:
 
 |  | A | B |
@@ -48,4 +44,4 @@
 
 | 4. | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Kiemelt létesítményekkel kapcsolatos környezetvédelmi hatósági ügyek [az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló 15/2001. (VI. 6.) KöM rendelet 2. § i) pontja szerinti kiemelt létesítmények (atomerőmű, kísérleti és tanreaktor, uránbánya, radioaktív hulladéktároló, A-szintű izotóplaboratórium, kiégett fűtőelem-tároló)] |
 
-[^91]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés a) pontjával megállapított, a 330/2019. (XII. 20.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^91]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés a) pontjával megállapított, a 330/2019. (XII. 20.) Korm. rendelet 7. §-a, a 360/2019. (XII. 30.) Korm. rendelet 141. § (7) bekezdése szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
