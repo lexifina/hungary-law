@@ -1,9 +1,9 @@
-## Jövedelemkiegészítés közalkalmazotti, kormányzati szolgálati vagy állami szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
+## Jövedelemkiegészítés közalkalmazotti, kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
 
 16/A. § Ezen alcím alkalmazásában:
 
 a) pénzellátás: az öregségi nyugdíj, a korhatár előtti ellátás, valamint más olyan ellátás, amelyet az öregségi nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
 
-b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban, kormányzati szolgálati vagy állami szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
+b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
 
 c) munkáltató: költségvetési szervként működő egészségügyi szolgáltató munkáltató.

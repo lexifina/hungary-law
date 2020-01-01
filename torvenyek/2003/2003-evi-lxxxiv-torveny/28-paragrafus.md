@@ -47,3 +47,5 @@ b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 (7)
 
 (8) Ez a törvény a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(9) Ez a törvény a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

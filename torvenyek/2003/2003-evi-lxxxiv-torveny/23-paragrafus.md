@@ -2,4 +2,4 @@
 
 (2) Az egészségügyi tevékenységtől való eltiltásra irányuló eljárás lefolytatása során igazságügyi orvosszakértőt kell kirendelni.
 
-(3) Amennyiben a (2) bekezdés szerinti eljárás az egészségügyi dolgozó egészségügyi tevékenységtől való eltiltásával, illetve egy munkakörre való végleges alkalmatlanság, vagy korlátozással történő alkalmasság megállapításával végződik, az erről szóló jogerős határozatot a működési nyilvántartást vezető szervvel közölni kell.
+(3) Amennyiben a (2) bekezdés szerinti eljárás az egészségügyi dolgozó egészségügyi tevékenységtől való eltiltásával, illetve egy munkakörre való végleges alkalmatlanság, vagy korlátozással történő alkalmasság megállapításával végződik, az erről szóló jogerős határozatot a működési nyilvántartást vezető szervvel haladéktalanul közölni kell.

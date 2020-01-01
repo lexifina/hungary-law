@@ -16,7 +16,7 @@ d) közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszo
 
 e) munkaviszonyban,
 
-f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban,
+f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
 
 g) szolgálati jogviszonyban,
 
