@@ -1,6 +1,6 @@
 ## 20172220000178_4
 
-3. melléklet a 178/2017. (VII. 5.) Korm. rendelethez
+3. melléklet a 178/2017. (VII. 5.) Korm. rendelethez[^6]
 
 A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR)
 
@@ -14,7 +14,7 @@ b) Az ADR Megállapodás 4. cikk 3. pontja alapján más Szerződő Felek illet�
 
 c) Amennyiben a veszélyes áruk szállítása során bekövetkezett baleset vagy más rendkívüli esemény nyomán megállapítást nyer, hogy az alkalmazandó biztonsági intézkedések nem elegendőek a szállítással összefüggésben felmerülő kockázat korlátozásához, továbbá ha sürgős intézkedések megtétele szükséges, haladéktalanul értesíti az Európai Bizottságot (a továbbiakban: Bizottság) a javasolt intézkedésekről. A Bizottság által engedélyezett intézkedéseknek az engedélyezett időn belüli végrehajtásáról gondoskodik.
 
-2.[^5] A közlekedési hatóság
+2. A közlekedési hatóság
 
 Ellátja az ADR „A” és „B” Mellékletében meghatározott,
 
@@ -30,7 +30,7 @@ e) a nem az ADR 1 osztályába tartozó, csomagolatlan, nagyméretű, robusztus 
 
 kapcsolatos hatósági feladatokat.
 
-2/A.[^6] A Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság
+2/A. A Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság
 
 Ellátja az ADR „A” és „B” Mellékletében meghatározott,
 
@@ -50,11 +50,15 @@ Ellátja az ADR „A” és „B” Mellékletében meghatározott,
 
 a) az ADR „A” Mellékletének 1 osztályába tartozó robbanóanyagokkal és tárgyakkal, valamint a járulékos veszélyként robbanó tulajdonsággal rendelkező anyagokkal kapcsolatos hatósági feladatokat és
 
-b)[^7] a szerves peroxidok, az önreaktív anyagok és az ammónium-nitrát alapú műtrágyák besorolásával és szállítási feltételeivel kapcsolatos hatósági feladatokat.
+b) a szerves peroxidok, az önreaktív anyagok és az ammónium-nitrát alapú műtrágyák besorolásával és szállítási feltételeivel kapcsolatos hatósági feladatokat.
 
 5. A katasztrófavédelmi hatóság
 
-Ellátja az ADR „A” és „B” Mellékletében meghatározott, a veszélyes áruk szállítása során bekövetkezett eseményekről szóló jelentéssel kapcsolatos hatósági feladatokat, szükség esetén kivizsgálja a bekövetkezett eseményt az előidéző okok és a felelősök megállapítása érdekében.
+Ellátja az ADR „A” és „B” Mellékletében meghatározott,
+
+a) a veszélyes áruk szállítása során bekövetkezett eseményekről szóló jelentéssel kapcsolatos hatósági feladatokat, szükség esetén kivizsgálja a bekövetkezett eseményt az előidéző okok és a felelősök megállapítása érdekében;
+
+b) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek jóváhagyásával kapcsolatos hatósági feladatokat.
 
 6. A műszaki biztonsági hatóság
 
@@ -62,7 +66,7 @@ Ellátja az ADR „A” és „B” Mellékletében meghatározott,
 
 a) a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok jóváhagyásával, az időszakos, közbenső és soron kívüli vizsgálatukkal;
 
-b) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek jóváhagyásával és időszakos vizsgálatával;
+b) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek időszakos vizsgálatával;
 
 c) az EX/II és EX/III konténerek jóváhagyásával;
 
@@ -80,6 +84,4 @@ Ellátja a veszélyes áruk szállítására használt nyomástartó tartályok,
 
 Ellátja az ADR „A” és „B” Mellékletében meghatározott, bizonyítottan fertőzött vagy fertőzésre gyanús élő állatok és az állati eredetű anyagok belföldi szállításával, valamint az állati eredetű anyagok alternatív csomagolóeszközeinek engedélyezésével kapcsolatos hatósági feladatokat.
 
-[^5]: A 3. melléklet 2. pontja a 156/2019. (VI. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^6]: A 3. melléklet 2/A. pontját a 156/2019. (VI. 28.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^7]: A 3. melléklet 4. pont b) alpontja a 156/2019. (VI. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^6]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet 170. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
