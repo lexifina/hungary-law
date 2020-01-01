@@ -40,8 +40,8 @@
 
 ## A befogadást a 15/1998. (IV. 30.) NM rendelet alapján a gondozási hely haladéktalanul köteles jelenteni.
 
-5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^548]
+5. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^549]
 
 ÉRTESÍTÉS A SZAKELLÁTÁSBAN ELLÁTOTTAKRÓL - TÁVOZÁS
 
-[^548]: Az 5. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 23. § (2) bekezdés b) pontjával megállapított szöveg.
+[^549]: Az 5. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 23. § (2) bekezdés b) pontjával megállapított szöveg.

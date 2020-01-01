@@ -1,6 +1,6 @@
-## Kapcsolattartás, családgondozás[^474]
+## Kapcsolattartás, családgondozás[^475]
 
-153. §[^475] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+153. §[^476] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
 
 a) a gyermekvédelmi gyám segíti
 
@@ -22,9 +22,9 @@ b) közreműködik a gyermek és szülei kapcsolatának rendezésében,
 
 c) segíti a gyermeket önálló életvitelének kialakításában.
 
-(3)[^476] A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a család- és gyermekjóléti szolgálat együttműködnek.
+(3)[^477] A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a család- és gyermekjóléti szolgálat együttműködnek.
 
-(4)[^477] A gyermekvédelmi gyám és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
+(4)[^478] A gyermekvédelmi gyám és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
 
 a) közvetlenül tartanak kapcsolatot egymással,
 
@@ -34,7 +34,7 @@ c) a gyermekkel és a családdal kapcsolatos tapasztalataikat megosztják egymá
 
 d) a gyermekkel közös megbeszélést tarthatnak.
 
-[^474]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^475]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^476]: A 153. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.
-[^477]: A 153. § (4) bekezdését a 6/2015. (I. 28.) EMMI rendelet 17. §-a iktatta be.
+[^475]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^476]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^477]: A 153. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^478]: A 153. § (4) bekezdését a 6/2015. (I. 28.) EMMI rendelet 17. §-a iktatta be.
