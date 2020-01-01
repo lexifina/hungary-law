@@ -10,6 +10,6 @@
 
 (4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Kormány rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Kormány rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
 
-(5) A törvényszéki végrehajtókkal kapcsolatban a (2)–(4) bekezdésben említett feladatokat a törvényszék elnöke látja el azzal, hogy a végrehajtó tevékenységének vizsgálatát az általa kijelölt bíró, bírósági titkár és végrehajtási ügyintéző is végezheti.
+(5)
 
-(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a minisztert – a törvényszéki végrehajtókra vonatkozóan az Országos Bírósági Hivatal elnökét is – tájékoztatni kell.
+(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a minisztert tájékoztatni kell.
