@@ -1,0 +1,1 @@
+## 23/F. § A Vgtv. 33/E. és 33/F. §-ában meghatározott szervezetek a VIZEK rendszer üzemeltetőivel az évente átadandó műszaki adatok és térképi adatbázisok részletes körére vonatkozóan együttműködési megállapodást kötnek.

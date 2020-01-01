@@ -1,0 +1,3 @@
+23/C. § (1) Az előszűrő felület a vízügyi hatósági eljárás előtt az ügyfél tájékoztatását, valamint a hatósági eljárás előkészítését szolgálja öntözési célú vízhasználat esetén. Az előszűrő felületen az ügyfél a tervezett vízimunka, vízhasználat vagy vízilétesítmény földrajzi helyének közlésével a tervezett tevékenység kapcsán tájékozódhat, hogy a tervezett tevékenység a megjelölt földrajzi helyen lehetséges-e.
+
+(2) Az ügyfél az előszűrő felületen rendelkezésre álló információk alapján öntözési célú vízhasználat esetén a tervezett beruházás gazdasági megtérüléséhez előzetes költségbecslést végezhet.

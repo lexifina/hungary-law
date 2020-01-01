@@ -18,11 +18,11 @@ d) 1/E. §-át,
 
 e) 1/F. § (2)–(4) bekezdéseit,
 
-f) 1/G. §-át,
+f)[^2] 1/G. §-át, 1/I. §-át,
 
 g) 2. §-át,
 
-h) 4. §-át,
+h)[^3] 4. §-át, 4/B. §-át,
 
 i) 5. § (2a) bekezdését,
 
@@ -36,6 +36,11 @@ m) 8/B. és 8/C. §-át,
 
 n) 8/E–10. §-át,
 
-o) 21–23. §-át.
+o) 21–23. §-át,
+
+p)[^4] 23/A–23/G. §-át.
 
 [^1]: Az I. fejezet (1–1/H. §) az 518/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdés f) pontja a 286/2019. (XII. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés h) pontja a 286/2019. (XII. 4.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés p) pontját a 286/2019. (XII. 4.) Korm. rendelet 1. § (3) bekezdése iktatta be.
