@@ -1,5 +1,5 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 179/2017. (VII. 5.) Korm. rendelethez[^3]
+1. melléklet a 179/2017. (VII. 5.) Korm. rendelethez[^4]
 
-[^3]: Az 1. melléklet a 156/2019. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet a 156/2019. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
