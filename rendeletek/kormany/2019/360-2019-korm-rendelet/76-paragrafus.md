@@ -2,17 +2,14 @@
 
 ## 76. § A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet
 
-a)[^165]
+a)[^93]
 
-b)[^166]
+b) 14. melléklete a 13. melléklet szerint,
 
-c)[^167]
+c) 15. melléklete a 14. melléklet szerint,
 
-d)[^168]
+d) 16. melléklete a 15. melléklet szerint
 
 módosul.
 
-[^165]: A 76. § a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^166]: A 76. § b) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^167]: A 76. § c) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^168]: A 76. § b) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^93]: A 76. § a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

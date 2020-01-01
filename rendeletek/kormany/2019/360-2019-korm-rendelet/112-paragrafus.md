@@ -1,25 +1,20 @@
-## 111. §[^251]
+## 111. §[^142]
 
 ## 112. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosítása
 
 ## 112. § Hatályát veszti a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet
 
-a)[^252]
+a)[^143]
 
-b)[^253]
+b) 10. § (3) bekezdése,
 
-c)[^254]
+c) 13. § (2) bekezdés g) pontja,
 
-d)[^255]
+d) 21. § (3) bekezdés a) pont ad) alpontjában az „– a munkapróba kivételével –” szövegrész,
 
-e)[^256]
+e) 28. alcíme,
 
-f)[^257]
+f) 2. melléklet I. pont f) alpontjában az „a munkapróba, illetve” szövegrész.
 
-[^251]: A 111. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^252]: A 112. § a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^253]: A 112. § b) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^254]: A 112. § c) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^255]: A 112. § d) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^256]: A 112. § e) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^257]: A 112. § f) pontja a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^142]: A 111. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^143]: A 112. § a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

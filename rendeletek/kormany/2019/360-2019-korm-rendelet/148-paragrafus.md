@@ -1,14 +1,13 @@
-## 147. §[^308]
+## 147. § Hatályát veszti a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekről szóló 316/2015. (X. 30.) Korm. rendelet 1. melléklet 1.5. pontjában a „ , ha van, az egyéni vállalkozói igazolvány száma, kiállításának helye és kelte, a kiállító hatóság megnevezése” szövegrész.
 
 ## 148. A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló 414/2015. (XII. 23.) Korm. rendelet módosítása
 
-148. § (1)[^309]
+148. § (1)[^175]
 
-(2)[^310]
+(2)[^176]
 
-(3)[^311]
+(3)[^177]
 
-[^308]: A 147. § a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^309]: A 148. § (1) bekezdése a 202. § (4) bekezdése alapján 2020. február 13-án lép hatályba.
-[^310]: A 148. § (2) bekezdése a 202. § (4) bekezdése alapján 2020. február 13-án lép hatályba.
-[^311]: A 148. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^175]: A 148. § (1) bekezdése a 202. § (4) bekezdése alapján 2020. február 13-án lép hatályba.
+[^176]: A 148. § (2) bekezdése a 202. § (4) bekezdése alapján 2020. február 13-án lép hatályba.
+[^177]: A 148. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -15,3 +15,5 @@
 ## ”
 
 6. melléklet a 360/2019. (XII. 30.) Korm. rendelethez
+
+„3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez

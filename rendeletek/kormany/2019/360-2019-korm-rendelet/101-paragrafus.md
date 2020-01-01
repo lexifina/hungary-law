@@ -1,5 +1,3 @@
-## 100. §[^222]
+## 100. § A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet 2. § (3) bekezdésében az „Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal, valamint a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatala” szövegrész helyébe az „Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében, valamint a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatal” szöveg lép.
 
 ## 101. A közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet módosítása
-
-[^222]: A 100. § a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.

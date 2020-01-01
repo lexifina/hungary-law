@@ -1,5 +1,7 @@
-## 104. §[^226]
-
 ## 105. A tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet módosítása
 
-[^226]: A 104. § a 202. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 105. § Hatályát veszti a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet
+
+a) 43. § (3) bekezdésében az „ , a (6) bekezdésre is tekintettel” szövegrész,
+
+b) 43. § (6) és (7) bekezdése.
