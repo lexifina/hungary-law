@@ -2,6 +2,6 @@
 
 (2)
 
-(3)
+(3) Hatályát veszti az Nkt. 45. § (4) és (10) bekezdése.
 
 (4)
