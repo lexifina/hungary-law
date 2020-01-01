@@ -13,3 +13,5 @@ b) a hatóság az ügyfélnél egyébként folyamatosan lát el ellenőrzési fe
 c) törvény kizárja, vagy
 
 d) a hatóság ugyanazon ügyfél kérelmére az újabb kérelem benyújtását megelőző egy éven belül lefolytatott ellenőrzése során jogsértést nem tárt fel, kivéve, ha a kérelem benyújtására az ellenőrzés lefolytatását követően felmerült ok vagy körülmény miatt kerül sor.
+
+(3) Kérelemre elrendelt hatósági ellenőrzés esetén helye van az eljárás megszüntetésének, ha az ügyfél eljárási költség előlegezési kötelezettségének nem tesz eleget.

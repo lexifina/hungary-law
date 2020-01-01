@@ -10,4 +10,4 @@
 
 (4) A határidő elmulasztása esetén az igazolási kérelemmel egyidejűleg pótolni kell az elmulasztott cselekményt is, ha ennek feltételei fennállnak.
 
-(5) Az igazolási kérelem előterjesztése és a kérelem alapján megismételt eljárási cselekmény határidejének elmulasztása miatt nincs helye igazolásnak.
+(5) Az igazolási kérelem előterjesztése és a kérelem alapján megismételt eljárási cselekmény határidejének vagy határnapjának elmulasztása miatt nincs helye igazolásnak.

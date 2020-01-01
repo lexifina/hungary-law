@@ -6,37 +6,13 @@
 
 (2) Fellebbezésnek van helye, ha a határozatot
 
-a) járási (kerületi) hivatal vezetője vagy – a képviselő testület kivételével – helyi önkormányzat szerve, vagy
+a) – a képviselő testület kivételével – helyi önkormányzat szerve, vagy
 
 b) rendvédelmi szerv helyi szerve
 
 hozta.
 
-(3) Önálló fellebbezésnek van helye
-
-a) az ideiglenes biztosítási intézkedésről szóló,
-
-b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
-
-c) a kérelmet visszautasító,
-
-d) az eljárást megszüntető,
-
-e) az eljárás felfüggesztése vagy szünetelése tárgyában hozott,
-
-f) az eljárási bírságot kiszabó,
-
-g) a fellebbezési határidő elmulasztása miatt benyújtott igazolási kérelmet elutasító,
-
-h) a zár alá vételt vagy lefoglalást elrendelő, valamint ezek megszüntetése iránti kérelmet elutasító,
-
-i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
-
-j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
-
-k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
-
-elsőfokú végzés ellen.
+(3) Abban az ügyben, amelyben a határozat az (1) vagy (2) bekezdés alapján fellebbezéssel támadható, az önálló jogorvoslattal támadható végzés ellen fellebbezésnek van helye.
 
 (4) Az (1) és (2) bekezdésben foglalt esetekben sincs helye fellebbezésnek
 

@@ -12,6 +12,8 @@ b) a törvény hatálybalépésekor folyamatban lévő
 
 végrehajtási eljárásokra is alkalmazni kell.
 
+(2a) E törvény 116. § (2) bekezdésének az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel módosított a) pontját a 2020. március 1. napját követően indult és a megismételt eljárásokban kell alkalmazni.
+
 (3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény alapján kiadott jogerős hatósági döntéseket e törvény alkalmazásában véglegessé vált döntésnek kell tekinteni. E törvény alkalmazásában, ahol jogszabály
 
 a) közigazgatási hatóság jogerős döntését említi, azon a hatóság végleges döntését,

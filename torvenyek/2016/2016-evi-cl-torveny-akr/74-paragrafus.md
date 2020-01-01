@@ -4,7 +4,7 @@
 
 (1) A hatóság tárgyalást tart, ha
 
-a) a tényállás tisztázásához szükség van a felek együttes meghallgatására, az ellenérdekű ügyféllel szemben, kérelemre indított eljárásban (a továbbiakban: jogvitás eljárás),
+a) a tényállás tisztázásához jogvitás eljárásban szükség van a felek együttes meghallgatására,
 
 b) az ügy természete lehetővé teszi, ellenérdekű ügyfelek részvételével zajló eljárásban, vagy
 

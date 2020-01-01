@@ -8,4 +8,4 @@ a) az ügyben a megkereső hatóság illetékességi területén kívül kell el
 
 b) az eljárás során szükséges adattal vagy irattal más rendelkezik.
 
-(2) A megkeresett szerv a megkeresés teljesítését megtagadja, ha az nem tartozik a hatáskörébe, vagy arra nem illetékes.
+(2) A megkeresett szerv a megkeresés teljesítését megtagadja, ha az nem tartozik a hatáskörébe, vagy arra nem illetékes. Ha a megkeresés teljesítésére más szerv jogosult, a megkeresett szerv a megkeresést haladéktalanul e szervhez továbbítja, és erről a megtagadással egyidejűleg tájékoztatja a megkereső hatóságot.

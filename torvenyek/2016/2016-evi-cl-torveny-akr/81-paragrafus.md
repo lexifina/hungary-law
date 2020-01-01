@@ -1,6 +1,6 @@
 ### 81. § [A döntés tartalma és formája]
 
-(1) A döntés tartalmazza az eljáró hatóság, az ügyfelek és az ügy azonosításához szükséges minden adatot, a rendelkező részt – a hatóság döntésével, a szakhatóság állásfoglalásával, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megállapított tényállásra, a bizonyítékokra, a szakhatósági állásfoglalás indokolására, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
+(1) A döntés tartalmazza az eljáró hatóság, az ügyfelek és az ügy azonosításához szükséges minden adatot a zártan kezelt és védett adatok kivételével, a rendelkező részt – a hatóság döntésével, a szakhatóság állásfoglalásával, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megismerhetetlenné tett zártan kezelt és védett adatokkal együtt megállapított tényállásra, a bizonyítékokra, a szakhatósági állásfoglalás indokolására, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
 
 (2) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható
 
@@ -8,7 +8,7 @@ a) ha a hatóság a kérelemnek teljes egészében helyt ad, és az ügyben ninc
 
 b) az egyezség jóváhagyásáról.
 
-(3) Az önállóan nem fellebbezhető végzésről az indokolásban csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható.
+(3) Az önálló jogorvoslattal nem támadható végzésről az indokolásban csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható.
 
 (4) A hatóság a döntést külön okiratban szövegezi meg, jegyzőkönyvbe foglalja vagy az ügyiratra feljegyzi.
 
