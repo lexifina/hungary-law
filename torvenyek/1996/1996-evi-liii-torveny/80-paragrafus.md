@@ -14,6 +14,8 @@ e) a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött 
 
 természetvédelmi bírságot köteles fizetni.
 
+(1a) Ha az (1) bekezdés szerinti tevékenység végzője nem ismert, vagy kiléte nem állapítható meg, a felelősség – az ellenkező bizonyításáig – annak az ingatlannak a tulajdonosát és birtokosát (használóját) egyetemlegesen terheli, akinek érdekében a jogsértő magatartást folytatták. A tulajdonos mentesül az egyetemleges felelősség alól, ha megnevezi a tevékenység tényleges végzőjét, és kétséget kizáróan bizonyítja, hogy a felelősség nem őt terheli.
+
 (2) A természetvédelmi bírságot a természetvédelmi hatóság szabja ki.
 
 (3) A bírság kiszabására a természetvédelmi hatóságnak az (1) bekezdésben meghatározott cselekményről való tudomásszerzésétől számított 1 éven túl nincs lehetősége. Az elkövetésétől számított öt éven túl nem szabható ki bírság, kivéve, ha a cselekmény jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.

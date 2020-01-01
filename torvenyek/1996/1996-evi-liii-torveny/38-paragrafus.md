@@ -18,7 +18,7 @@ h) horgászathoz;
 
 i) közösségi és tömegsportesemények rendezéséhez, sportversenyhez, technikai jellegű sporttevékenység folytatásához;
 
-j) járművel történő közlekedéshez, az arra kijelölt utak, az engedélyezett tevékenységek végzéséhez szükséges munkagépek, valamint a feladatukat ellátó – külön jogszabályokban erre feljogosított – személyek járművei kivételével.
+j) járművel történő közlekedéshez, az arra kijelölt mezőgazdasági és erdészeti használatú utak, az engedélyezett tevékenységek végzéséhez szükséges munkagépek, valamint a feladatukat ellátó – külön jogszabályokban erre feljogosított – személyek járművei kivételével.
 
 (2)
 

@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-53-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1996-53-00-00.44 |
 | 2018-12-31 | 2018. évi CXI. törvény | 1996-53-00-00.45 |
 | 2019-01-11 | 2018. évi CXXXVII. törvény | 1996-53-00-00.46 |
+| 2020-01-01 | 2019. évi CX. törvény | 1996-53-00-00.47 |
