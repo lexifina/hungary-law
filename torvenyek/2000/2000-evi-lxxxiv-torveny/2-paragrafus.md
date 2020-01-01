@@ -60,4 +60,4 @@ során.
 
 (5a) Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az országos szervezet jogosult.
 
-(6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek, az állami tisztviselőkről szóló törvény alapján állami tisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek, állami ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+(6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve kiadmányozási jog felhatalmazottja csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A kiadmányozási jog felhatalmazottjára és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
