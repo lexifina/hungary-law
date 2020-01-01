@@ -10,7 +10,7 @@ b) a 7. § (1) bekezdés e) vagy f) pontjában foglalt természetességi állapo
 
 során a talaj tápanyag- és vízgazdálkodásának javítása céljából – kérelemre, védett természeti terület és Natura 2000 terület kivételével – engedélyezi, ha az erdőgazdálkodó megfelelő akkreditációval rendelkező kutatóhely közreműködésével biztosítja a kihelyezett szennyvíziszap termőhelyre, és erdei életközösségre való hatásainak folyamatos, legalább húsz éven keresztül történő figyelemmel kísérését.
 
-(3) Az erdőből az akácmag engedélyezett gyűjtésének kivételével erdei avar vagy a talaj humuszos termőrétegének összegyűjtése és elszállítása tilos.
+(3) Az erdőből erdei avar vagy a talaj humuszos termőrétegének összegyűjtése és elszállítása tilos. Akácmag gyűjtése az erdészeti hatósághoz a gyűjtést megelőző legalább 30 nappal korábban történő bejelentéssel lehetséges.
 
 (4) Az erdőben folytatott szakszerűtlen gazdálkodás következtében az erdővel szomszédos mezőgazdasági vagy egyéb rendeltetésű területek erdőből továbbterjedő károsítása esetén az erdőgazdálkodónak kell gondoskodnia a kár okának megszüntetéséről.
 

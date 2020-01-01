@@ -14,7 +14,7 @@ d) közjóléti tevékenységgel összefüggésben épített és használt síp�
 
 (3) Honvédelmi rendeltetésű erdőben közjóléti létesítményt létesíteni csak abban az esetben lehet, ha az a területen folytatott katonai tevékenységgel összeegyeztethető.
 
-(4) Az engedélyköteles erdészeti létesítmények kivételével az erdészeti létesítmény létesítését, bővítését, korszerűsítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
+(4) Az engedélyköteles erdészeti létesítmények, valamint az erdei legeltetés céljából létesített villanypásztor kivételével, az erdészeti létesítmény létesítését, bővítését, korszerűsítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
 (5) Az erdészeti létesítmények közül
 
