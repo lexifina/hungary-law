@@ -1,0 +1,9 @@
+### 10. § [A joggal való visszaélés tilalma]
+
+(1) Tilos a joggal való visszaélés. E törvény alkalmazásában joggal való visszaélés különösen, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul vagy ehhez vezet.
+
+(2) A köztisztviselő a munkaidején kívül sem tanúsíthat olyan magatartást, amely – különösen az álláshelyen ellátandó feladatai jellege, a munkáltató szervezetében elfoglalt helye alapján – közvetlenül és ténylegesen alkalmas munkáltatója helytelen megítélésére, az általa betöltött beosztás tekintélyének, a munkáltató jó hírnevének, a jó közigazgatásba vetett bizalomnak, valamint a közszolgálat céljának veszélyeztetésére.
+
+(3) A köztisztviselő köteles megtartani a minősített adatot. Ezen túlmenően illetéktelen személynek és szervnek nem adhat tájékoztatást olyan tényekről, amelyek tevékenysége során jutottak tudomására és kiszolgáltatásuk az állam, a különleges jogállású szerv, munkatársa vagy az állampolgár számára hátrányos vagy jogellenesen előnyös következményekkel járna.
+
+(4) Ha a joggal való visszaélés e törvény vagy e törvény végrehajtására kiadott jogszabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás a közszolgálat nyomós érdekét vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
