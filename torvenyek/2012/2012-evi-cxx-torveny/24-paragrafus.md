@@ -1,6 +1,6 @@
 ## 16. Az együttműködési megállapodás
 
-24. § (1) Az 1. § (1) bekezdés c)–l) pontjában meghatározott – közszolgálati vagy közalkalmazotti jogviszonyban álló – személy munkáltatója a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal – a rendészeti feladatokat ellátó személyek ellenőrzése és törvényben meghatározott tevékenységük felügyelete, valamint a feladatellátás összehangolása érdekében – írásbeli együttműködési megállapodást köt.
+24. § (1) Az 1. § (1) bekezdés c)–l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személy munkáltatója a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal – a rendészeti feladatokat ellátó személyek ellenőrzése és törvényben meghatározott tevékenységük felügyelete, valamint a feladatellátás összehangolása érdekében – írásbeli együttműködési megállapodást köt.
 
 (2) Az (1) bekezdésben meghatározott személy a III. Fejezetben meghatározott intézkedéseket és kényszerítő eszközöket csak az együttműködési megállapodás megkötését követően gyakorolhatja.
 

@@ -6,7 +6,7 @@ a) az 1. § (1) bekezdés c)–l) pontjában meghatározott személy – az int�
 
 b) az 1. § (1) bekezdés c)–l) pontjában meghatározott személy – kizárólag önvédelmi célból – szolgálati kutyát, valamint rendőrbotot,
 
-c) az 1. § (1) bekezdés c), d), i), j, k) és l) pontjában meghatározott közszolgálati vagy közalkalmazotti jogviszonyban álló személy – az előállításnak ellenszegülő személy támadásának, valamint szökésének megakadályozása érdekében – bilincset
+c) az 1. § (1) bekezdés c), d), i), j, k) és l) pontjában meghatározott kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló személy – az előállításnak ellenszegülő személy támadásának, valamint szökésének megakadályozása érdekében – bilincset
 
 tarthat magánál.
 
