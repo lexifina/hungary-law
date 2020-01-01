@@ -4,11 +4,13 @@
 
 (3) Amennyiben a települési nemzetiségi önkormányzat a feladat ellátására törvény alapján köteles fenntartótól átvett köznevelési intézmény fenntartói jogáról le kíván mondani, a fenntartói jogot az érintett országos önkormányzat átveheti, ha nem kívánja átvenni, a korábbi fenntartó vagy jogutódja köteles a fenntartói jog visszavételére.
 
-(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat – az oktatásért felelős miniszter engedélyével – átveheti az országos vagy térségi feladatot el nem látó, nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű intézmény, továbbá a roma nemzetiségi intézmény fenntartását, valamint az adott nemzetiség országos feladatot is ellátó nemzetiségi nyelvoktató intézményét. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét. A miniszter az átadást akkor engedélyezi, ha
+(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat átveheti a nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű
 
-a) a tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi oktatásban és
+a) köznevelési intézmény fenntartását az oktatásért felelős miniszter,
 
-b) az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.
+b) szakképző intézmény fenntartását a szakképzésért felelős miniszter
+
+engedélyével. A kezdeményezéshez csatolni kell a köznevelési intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, a szakképző intézmény képzési tanácsának és diákönkormányzatának, továbbá mindkét esetben az adott nemzetiség érintett települési, illetve területi nemzetiségi önkormányzatának a véleményét. Az engedély nem tagadható meg, ha a tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi oktatásban és az átvétel az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.
 
 (5) A nevelési-oktatási intézmény átadására az átadó és az átvevő között írásbeli megállapodás alapján kerülhet sor.
 

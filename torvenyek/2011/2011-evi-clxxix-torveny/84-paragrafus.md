@@ -2,7 +2,7 @@
 
 (2) Az átruházott hatáskör tovább nem ruházható.
 
-(3) Az átadó és az átvevő önkormányzat, valamint az érintett országos nemzetiségi önkormányzat, önkormányzatok (kivéve, ha az országos szint maga az átvevő) megállapodást köt. A megállapodás kötelezően tartalmazza, hogy a megállapodással egyidejűleg
+(3) Az átadó és az átvevő önkormányzat, valamint az érintett országos nemzetiségi önkormányzat, önkormányzatok (kivéve, ha az országos szint maga az átvevő) közigazgatási szerződésben állapodnak meg. A megállapodás kötelezően tartalmazza, hogy a megállapodással egyidejűleg
 
 a) a megállapodás tárgyát képező feladat- és hatáskört az átvevő az átadótól átveszi,
 

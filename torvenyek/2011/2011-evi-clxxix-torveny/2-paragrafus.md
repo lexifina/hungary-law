@@ -20,7 +20,13 @@ olyan kollektív nemzetiségi jog, amely az e törvény szerinti intézmény-ös
 
 a) az a köznevelési intézmény, amelynek alapító okirata a nemzeti köznevelésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a köznevelési intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetén a tanulók legalább huszonöt százaléka részt vesz a nemzetiségi óvodai nevelésben, illetve a nemzetiségi iskolai nevelésben-oktatásban;
 
-b) nemzetiségi többcélú intézményen, nemzetiségi tagintézményen és nemzetiségi köznevelési intézmény intézményegységén a köznevelési törvény szerinti többcélú intézmény, tagintézmény és intézményegység értendő;
+b) nemzetiségi többcélú intézményen, nemzetiségi tagintézményen és nemzetiségi köznevelési intézmény intézményegységén a nemzeti köznevelésről szóló törvény szerinti többcélú intézmény, tagintézmény és intézményegység értendő;
+
+4a. nemzetiségi szakképző intézmény:
+
+a) az a szakképző intézmény, amelynek alapító okirata a szakképzésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a szakképző intézmény ténylegesen ellátja és a tanulók legalább huszonöt százaléka részt vesz a nemzetiségi iskolai nevelésben-oktatásban;
+
+b) nemzetiségi többcélú szakképző intézményen a többcélú szakképző intézmény értendő;
 
 5. nemzetiségi kulturális intézmény:
 

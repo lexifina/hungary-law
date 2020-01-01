@@ -34,10 +34,10 @@ b) a lemondás bejelentésének, vagy írásbeli benyújtás esetén a nemzetis�
 
 (5) Az elnök – elnöki megbízatásával egyidejűleg – külön nyilatkozatban képviselői megbízatásáról is lemondhat.
 
-(6) Az elnök sorozatos törvénysértő tevékenysége, mulasztása miatt a nemzetiségi önkormányzat testülete – minősített többséggel hozott határozata alapján – keresetet nyújthat be az elnök ellen a nemzetiségi önkormányzat székhelye szerint illetékes törvényszékhez az elnök tisztségének megszüntetése érdekében. Egyidejűleg kérheti az elnöknek e tisztségből történő felfüggesztését is. A döntéshozatalban az elnök nem vehet részt.
+(6) A nemzetiségi önkormányzat testülete – minősített többséggel hozott határozata alapján – közigazgatási pert indíthat az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt. Egyidejűleg – az azonnali jogvédelem szabályai szerint – kérhető az elnöknek e tisztségéből történő felfüggesztése. A perindítással kapcsolatos határozat meghozatalában az elnök nem vesz részt, de a határozatképesség szempontjából jelenlévőnek kell tekinteni.
 
-(7) Amennyiben a fővárosi és megyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem nyújt be keresetet az elnöki tisztség megszüntetése érdekében, a fővárosi és megyei kormányhivatal közvetlenül bírósághoz fordulhat az elnöki tisztség megszüntetése és egyidejűleg az elnöknek e tisztségéből történő felfüggesztése érdekében.
+(7) Ha a fővárosi és megyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem indít pert az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a fővárosi és megyei kormányhivatal e tárgyban közigazgatási pert indíthat az elnök ellen.
 
-(8) A bíróság soron kívüli eljárása során a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
+(8) A bíróság határozata ellen nincs helye perújításnak.
 
 (9) Az elnökhelyettesre az elnökre irányadó szabályokat kell alkalmazni.

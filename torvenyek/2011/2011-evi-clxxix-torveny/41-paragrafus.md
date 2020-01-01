@@ -6,4 +6,4 @@
 
 (4) Az alapító okirata szerint nemzetiségi feladatot ellátó közművelődési intézmény létesítésével, megszüntetésével, átszervezésével kapcsolatos határozat meghozatalára az érintett nemzetiségi önkormányzat egyetértésével kerülhet sor.
 
-(5) Amennyiben a (3)–(4) bekezdés szerinti tárgykörökben a települési önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül felülvizsgálja a rendeletet és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat.
+(5) Ha a (3) és (4) bekezdés szerinti tárgykörben a települési önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül vizsgálja a rendeletet, és megteszi a szükséges törvényességi felügyeleti intézkedést. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is indítványozhatja az önkormányzati rendelet más jogszabályba ütközésének vizsgálatát.

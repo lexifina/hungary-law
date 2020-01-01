@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-179-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2011-179-00-00.34 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2011-179-00-00.35 |
 | 2019-07-30 | 2014. évi XXVI. törvény | 2011-179-00-00.36 |
+| 2020-01-01 | 2019. évi CXXVII. törvény | 2011-179-00-00.37 |

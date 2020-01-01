@@ -8,4 +8,4 @@ c) közreműködik a nemzetiségek jogait, a nemzetiségi önkormányzatok felad
 
 d) a központi költségvetésről szóló törvényben meghatározott címen és feltételekkel a nemzetiségi önkormányzatok és más nemzetiségi szervezetek részére pénzügyi támogatást nyújt, nyújthat,
 
-e) rendeletében meghatározott feltételekkel és módon a nemzetiségi köznevelésben, közoktatásban részt vevő tanulók számára ösztöndíjat alapíthat.
+e) rendeletében meghatározott feltételekkel és módon a nemzetiségi köznevelésben, szakképzésben részt vevő tanulók, képzésben részt vevő személyek számára ösztöndíjat alapíthat.

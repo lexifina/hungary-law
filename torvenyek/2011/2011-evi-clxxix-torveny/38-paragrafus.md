@@ -1,4 +1,4 @@
-38. § (1) A kulturális intézmény, illetve a feladat átadásáról, átvételéről az átadó intézményfenntartó és az átvevő nemzetiségi önkormányzat megállapodást köt.
+38. § (1) A kulturális intézmény, illetve a feladat átadásáról, átvételéről az átadó intézményfenntartó és az átvevő nemzetiségi önkormányzat közigazgatási szerződésben megállapodik.
 
 (2) A megállapodás tartalmát a felek – a jogszabályi keretek között – szabadon állapítják meg. Az átadás és az átvétel célja, hogy az önkormányzati közművelődési alapellátás tartalmi és szervezeti folyamatossága a nemzetiségi önkormányzat kezelésében is fennmaradjon és lehetőség szerint bővüljön. A megállapodásnak tartalmaznia kell:
 

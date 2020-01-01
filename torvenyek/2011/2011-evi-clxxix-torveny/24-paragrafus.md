@@ -1,3 +1,7 @@
-24. § (1) A nemzetiségi önkormányzat – a köznevelési törvényben és az államháztartás működési rendjéről szóló jogszabályokban meghatározottak szerint – köznevelési intézményt létesíthet és tarthat fenn, illetve az e törvényben meghatározott rendben átveheti a más szerv által létesített köznevelési intézmény fenntartói jogát.
+24. § A nemzetiségi önkormányzat köznevelési intézményt, illetve szakképző intézményt alapíthat és tarthat fenn. A nemzetiségi önkormányzat által fenntartott
 
-(2) A nemzetiségi önkormányzat által fenntartott köznevelési intézmény és többcélú intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+a) köznevelési intézmény vezetőjét az oktatásért felelős miniszter,
+
+b) szakképző intézmény vezetőjét a szakképzésért felelős miniszter
+
+egyetértésével a fenntartó bízza meg. Az egyetértés csak jogszabálysértés esetén tagadható meg.
