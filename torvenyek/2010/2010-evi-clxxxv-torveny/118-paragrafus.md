@@ -6,7 +6,7 @@ a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, kö
 
 b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 
-c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 
 d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,
 
