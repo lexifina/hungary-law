@@ -1,0 +1,3 @@
+## 8. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet (a továbbiakban: Sznyr.) 19/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A befogadás érdekében a miniszter minden év január 15-éig a Szociális Ágazati Portálon és a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzéteszi a naptári évre vonatkozó kapacitást. A miniszter a kapacitásokban év közben bekövetkező változást és az adott évre még rendelkezésre álló kapacitást a változás hónapjának utolsó napjáig teszi közzé a Szociális Ágazati Portálon és a minisztérium honlapján.”

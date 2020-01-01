@@ -1,0 +1,9 @@
+# 312/2019. (XII. 18.) Korm. rendelet
+
+a szociális szolgáltatásokkal kapcsolatos egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-312-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-01-01 | 2019-312-20-22.1 | 312/2019. (XII. 18.) Korm. rendelet |
