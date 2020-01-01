@@ -10,7 +10,7 @@
 
 (6) A 33. § a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és a tanács rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(7) A 38. §, a 41. §, a 42. § a 86. § és a 87. § a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(7)
 
 (8) A 80. § (2) bekezdése a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról szóló 2014. május 15-i 2014/59/EU európai parlamenti és a tanácsi irányelvnek való megfelelést szolgálja.
 
