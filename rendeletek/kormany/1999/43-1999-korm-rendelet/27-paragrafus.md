@@ -12,13 +12,13 @@
 
 (3b)[^278] Az aktív fekvőbeteg-szakellátás esetében a (2a) bekezdés szerinti elvi egynapos teljesítménymennyiség keretét az egyes egészségügyi szolgáltatóknak a 28/A. számú mellékletben foglalt táblázat „C” megjelölésű oszlop szerinti TVK-ja tartalmazza.
 
-(3c)[^279] A 44/B. § (1) bekezdése szerinti egészségügyi szolgáltatók között a NEAK javaslatára az egészségbiztosításért felelős miniszter a 28/A. számú mellékletben foglalt összes meddőségkezelési TVK 10 százalékának megfelelő többlet TVK-t határozhat meg a következő finanszírozási évre.
+(3c)[^279]
 
-(3d)[^280] A NEAK a (3c) bekezdés szerinti javaslatát az annak elkészítését megelőző 12 hónap meddőségkezelési ellátásait követő élveszülési események alapján határozza meg. A NEAK a javaslatot a tárgyév decemberében küldi meg az egészségbiztosításért felelős miniszter részére.
+(3d)[^280]
 
 (3e)[^281]
 
-(4)[^282] A 29/A. § (1) bekezdése szerinti orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok esetében az országos teljesítményvolumen a laboratóriumi ellátás 5. számú melléklet szerinti előirányzat szolgáltatásvolumen szerződés alapján történő finanszírozás fedezetével csökkentett összegének 70 százaléka alapján meghatározott mennyiség. Orvosi klinikai laboratóriumi és mikrobiológiai ellátást nyújtó egészségügyi szolgáltatók részére a tárgyidőszakra vonatkozó TVK az országos teljesítményvolumen terhére a (10) bekezdés szerint a finanszírozási év első hónapjára megállapított TVK arányában kerül megállapításra.
+(4)[^282] A 29/A. § (1) bekezdése szerinti orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok esetében az országos teljesítményvolumen a laboratóriumi ellátás 5. számú melléklet szerinti előirányzat összegének 70 százaléka alapján meghatározott mennyiség. Orvosi klinikai laboratóriumi és mikrobiológiai ellátást nyújtó egészségügyi szolgáltatók részére a tárgyidőszakra vonatkozó TVK az országos teljesítményvolumen terhére a (10) bekezdés szerint a finanszírozási év első hónapjára megállapított TVK arányában kerül megállapításra.
 
 (4a)[^283] A (2) bekezdés szerinti TVK megállapításának alapját az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) szerinti, fejlesztéssel összefüggő többletkapacitás-befogadás alapján finanszírozásba lépett szakellátási szolgáltatások esetében minimálisan a mindenkori országos átlagteljesítmény képezi, amennyiben a (3) bekezdés szerinti TVK nem állapítható meg, vagy attól volumenében elmarad.
 
@@ -81,10 +81,10 @@ b) ezen szervezeti egységeken a továbbiakban is kizárólag egynapos sebészet
 [^276]: A 27. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § e) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^277]: A 27. § (3a) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^278]: A 27. § (3b) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § c) pontja, újonnan a 124/2015. (V. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^279]: A 27. § (3c) bekezdését újonnan a 246/2017. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^280]: A 27. § (3d) bekezdését újonnan a 246/2017. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^279]: A 27. § (3c) bekezdését újonnan a 246/2017. (VIII. 31.) Korm. rendelet 1. §-a iktatta be, a 328/2019. (XII. 20.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^280]: A 27. § (3d) bekezdését újonnan a 246/2017. (VIII. 31.) Korm. rendelet 1. §-a iktatta be, a 328/2019. (XII. 20.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^281]: A 27. § (3e) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 28. § (2) bekezdés a) pontja.
-[^282]: A 27. § (4) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (2) bekezdésével megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § f) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^282]: A 27. § (4) bekezdése a 328/2019. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^283]: A 27. § (4a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
 [^284]: A 27. § (5) bekezdés b) pontja a 287/2018. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^285]: A 27. § (5) bekezdés f) pontját az 507/2017. (XII. 29.) Korm. rendelet 20. §-a iktatta be.

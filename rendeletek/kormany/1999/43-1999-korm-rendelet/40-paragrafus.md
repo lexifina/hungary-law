@@ -28,7 +28,7 @@ a) nappali ellátásra szerződött járóbeteg-szakellátást nyújtó szolgál
 
 b)[^485] az ellátásoknak megfelelő szakmákban nappali kórházi ellátásra szerződött fekvőbeteg szakellátást nyújtó szolgáltató
 
-## számolhatja el.
+számolhatja el.
 
 (12)[^486] A szolgáltató a 14. számú melléklet szerinti adatlap 1–20. pontjának kitöltésével köteles a 37. § (7) bekezdése szerint jelentést küldeni az osztályra felvett betegek közül azokról, akiknek az ellátása a tárgyhónap végéig nem fejeződött be. A felvétel és az eltávozás, áthelyezés napja egy napnak számít.
 

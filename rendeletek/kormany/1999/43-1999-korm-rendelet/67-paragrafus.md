@@ -1,3 +1,3 @@
-## 66. §[^573]
+67. §[^576]
 
-[^573]: A 66. §-t a 288/2012. (X. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § h) pontja.
+[^576]: A 67. §-t a 308/2012. (XI. 6.) Korm. rendelet 16. § (4) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § f) pontja.
