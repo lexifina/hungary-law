@@ -2,5 +2,13 @@
 
 ## V/A. Fejezet[^189]
 
+## A TANKÖTELEZETTSÉG MEGKEZDÉSE ALÓLI FELMENTÉSSEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK
+
+44/A. § (1) A (2) és (3) bekezdésben foglalt kivétellel a tankötelezettség megkezdése alóli felmentéssel kapcsolatos hatósági eljárásban a Hivatal általi kirendelés esetén szakértőként az EMMI rendelet szerinti azon járási szakértői bizottság jár el, amelynek a működési területén a gyermek lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek tartózkodási helye található, vagy amelynek a területén a gyermek intézményes ellátásban részesül.
+
+(2) Ha a kérelem benyújtását megelőzően megállapításra került a sajátos nevelési igény ténye, akkor a hatósági eljárásban szakértőként az EMMI rendelet szerinti azon megyei szakértői bizottság jár el, amelynek a működési területén a gyermek lakóhelye, ennek hiányában vagy ha az nem állapítható meg, a gyermek tartózkodási helye található, vagy amelynek a területén a gyermek intézményes ellátásban részesül.
+
+(3) A hatósági eljárásban szakértőként az az EMMI rendelet szerinti mozgásszervi, érzékszervi (látási, hallási), illetve beszédfogyatékosság megállapítására jogosult szakértői bizottság jár el, amely a sajátos nevelési igény tényét a kérelem benyújtását megelőzően megállapította.
+
 [^188]: A 44. §-t a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^189]: Az V/A. fejezetet (44/A–44/C. §) a 26/2013. (II. 12.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 354/2016. (XI. 18.) Korm. rendelet 6. §-a.
+[^189]: Az V/A. fejezetet (44/A–44/B. §) újonnan a 275/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
