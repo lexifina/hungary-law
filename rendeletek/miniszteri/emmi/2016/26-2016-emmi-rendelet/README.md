@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-26-20-5
 | 2019-08-15 | 2016-26-20-5H.10 | 18/2019. (VIII. 14.) EMMI rendelet |
 | 2019-08-17 | 2016-26-20-5H.11 | 19/2019. (VIII. 14.) EMMI rendelet |
 | 2019-10-01 | 2016-26-20-5H.12 | 6/2018. (XII. 21.) TNM rendelet |
+| 2020-01-01 | 2016-26-20-5H.13 | 1/2019. (I. 9.) EMMI rendelet |
