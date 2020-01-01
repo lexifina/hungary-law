@@ -1,0 +1,3 @@
+## 4. § A magánnyugdíjpénztárak beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 222/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Mnykr.) 61. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel megállapított 7. § (4) bekezdését, 28. § (5) bekezdését, valamint 7. számú mellékletét először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.”
