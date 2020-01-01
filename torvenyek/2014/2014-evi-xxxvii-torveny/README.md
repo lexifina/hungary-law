@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-37-00-00
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2014-37-00-00.15 |
 | 2019-07-01 | 2019. évi LX. törvény | 2014-37-00-00.16 |
 | 2019-12-26 | 2019. évi CXVIII. törvény | 2014-37-00-00.17 |
+| 2020-01-01 | 2019. évi CXVIII. törvény | 2014-37-00-00.18 |

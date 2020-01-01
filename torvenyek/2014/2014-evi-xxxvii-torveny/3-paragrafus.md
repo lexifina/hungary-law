@@ -172,6 +172,8 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 63. vállalkozás: a gazdasági tevékenységet folytató jogi személy, az egyéni cég és az egyéni vállalkozó;
 
+63a. válságmegelőzési intézkedés: az intézmény által nem megfelelően átdolgozott helyreállítási terv esetében az újbóli átdolgozás módjának, eszközeinek, elemeinek és részleteinek felügyeleti hatóság általi meghatározása, kivételes intézkedés alkalmazása, felügyeleti biztos kirendelése, szanálhatóság akadályainak kezelésére vagy megszüntetésére vonatkozó jogosultság gyakorlása, tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása;
+
 64. vegyes pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 65. vegyes tevékenységű holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;

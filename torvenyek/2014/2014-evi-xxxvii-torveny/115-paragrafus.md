@@ -34,6 +34,8 @@ a) az (1) bekezdésben meghatározott személy vagy szervezet által az informá
 
 b) az információ átadása, ha az érintett személy vagy szervezet rendelkezik az információt nyújtó hatóság, illetve az intézménynek az információátadásra vonatkozó kifejezett és előzetes hozzájárulásával.
 
+(2a) Az (1) bekezdésben meghatározott személyek által az e törvénnyel összefüggésben nyilvánosságra hozott információ nem tartalmazhat bizalmas információt, valamint a nyilvánosságra hozó előzetesen értékeli, hogy az információ nyilvánosságra hozatala milyen hatást gyakorolhat a közérdekre pénzügyi, monetáris vagy gazdaságpolitikai szempontból, a természetes és jogi személyek üzleti érdekeire, illetve az ellenőrzések céljára, valamint a vizsgálatokra és könyvvizsgálatokra. Az információ nyilvánosságra hozása hatásának vizsgálata során külön értékelni kell a helyreállítási és szanálási tervek tartalmának és részleteinek, valamint az életképesség és a szanálhatóság értékelése eredményeinek nyilvánosságra hozásával járó hatásokat.
+
 (3) Az (1) bekezdésben foglalt korlátozás nem vonatkozik
 
 a) az (1) bekezdésben meghatározott szervek vagy szervezetek alkalmazottai és szakértői egymás közötti információ-átadására, ideértve a Felügyelet, a makroprudenciális feladatkörében eljáró MNB, a jegybanki vagy a szanálási feladatkörében eljáró MNB alkalmazottai és szakértői közötti információ-átadást is, ha feladatuk ellátásához szükséges, vagy

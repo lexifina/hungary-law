@@ -36,7 +36,7 @@ d) a csoporthoz tartozó, a harmadik országban székhellyel rendelkező leányv
 
 a) meghatározza az 5. § (1) bekezdésében meghatározott alternatív forgatókönyvek tekintetében a csoporthoz tartozó vállalkozással szemben alkalmazható intézkedéseket, amely ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság, akkor az intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás esetében az intézkedéseket, a leányvállalatok esetében pedig az illetékes szanálási hatóságokkal koordinált szanálási intézkedéseket,
 
-b) kitér a szanálási intézkedések és hatáskörök hatékonyságára, használhatóságára és a szanálás akadályainak megszüntethetőségére a csoportnak az EGT-államban székhellyel rendelkező vállalakozásai tekintetében azzal, hogy a szanálási intézkedésnek tekintendő a csoporton belüli vállalkozás vagy annak egy része tekintetében harmadik fél felé történő értékesítés lehetővé tétele is,
+b) kitér a szanálási intézkedések és hatáskörök összehangolt módon történő alkalmazhatóságának és gyakorolhatóságának a mértékére a csoportnak az EGT-államban székhellyel rendelkező vállalkozásai tekintetében, ideértve a csoport egészének vagy a csoporton belüli több vállalkozás által végzett tevékenységnek vagy üzletágnak, illetve a csoporton belüli egyes vállalkozásoknak harmadik fél felé történő értékesítés elősegítését célzó intézkedéseket is, valamint azonosítja az összehangolt szanálás akadályait,
 
 c) kitér a csoportnak a harmadik országban székhellyel rendelkező vállalakozásai tekintetében az érintett harmadik országbeli hatóságával való együttműködés lehetőségére, az alkalmazható szanálási intézkedésekre és az esetleges szanálás következményeire az EGT-államban székhellyel rendelkező, csoportbeli intézmények tekintetében,
 

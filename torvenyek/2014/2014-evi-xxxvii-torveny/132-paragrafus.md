@@ -14,7 +14,7 @@ c) az OBA ügyvezető igazgatója.
 
 (2) Az igazgatótanácsban az elnöki jogokat a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy gyakorolja.
 
-(3) Az OBA ügyvezető igazgató-helyettese meghívottként, tanácskozási joggal részt vesz az igazgatótanácsi üléseken.
+(3) A Beva ügyvezető igazgatója meghívottként, tanácskozási joggal részt vesz az igazgatótanácsi üléseken.
 
 (4) Az Alap igazgatótanácsa döntéseiről nyilvántartást vezet.
 
@@ -32,7 +32,7 @@ e) dönt az Alap költségvetéséről, ezen belül a működési költségeirő
 
 f) évente egyszer, legkésőbb a gazdasági év befejezését követő év május 30. napjáig elfogadja az Alap éves beszámolóját és a könyvvizsgáló jelentését, megállapítja az Alap vagyoni helyzetét és az ezekről szóló beszámolóját benyújtja az Állami Számvevőszéknek,
 
-g) évente egyszer az MNB előterjesztése alapján kialakítja az Alap díjpolitikáját, és azt ismerteti az intézményekkel,
+g)
 
 h) határoz a megemelt, illetve rendkívüli díjfizetési kötelezettség előírásáról,
 

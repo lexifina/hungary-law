@@ -2,6 +2,8 @@
 
 93. § (1) A szanálási feladatkörében eljáró MNB a szanálás alatt álló intézményhez szanálási biztost rendelhet ki.
 
+(1a) Ha egy csoportba tartozó több intézményhez szükséges szanálási biztost kirendelni, a szanálási feladatkörében eljáró MNB mérlegeli, hogy az érintett intézmények pénzügyi biztonságát támogató megoldások elősegítése érdekében nem célszerűbb-e ugyanazt a szanálási biztost kirendelni.
+
 (2) A szanálási biztos gyakorolja a kirendelés időtartama alatt a szanálás alá vont intézmény igazgatóságának, valamint – az állami pénzügyi stabilizációs eszköz alkalmazása kivételével – közgyűlésének jogköreit.
 
 (3) Szanálási biztosként kirendelhető:

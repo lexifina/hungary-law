@@ -1,10 +1,10 @@
 ## 38. Összevont alapon való alkalmazás, megállapítási eljárás
 
-80. § (1) A szavatoló tőke követelmények egyéni és összevont alapon történő teljesítéseként elismert kiegészítő alapvető és járulékos tőkeelemeket kibocsátó leányvállalatra vonatkozó, a 74. § (3) bekezdés a)–c) pontjában említett megállapítás megtétele előtt a szanálási feladatkörében eljáró MNB-nek haladéktalanul értesítenie kell
+80. § (1) A szavatoló tőke követelmények egyéni és összevont alapon történő teljesítéseként elismert kiegészítő alapvető és járulékos tőkeelemeket kibocsátó leányvállalatra vonatkozó, a 74. § (3) bekezdés a)–c) pontja szerinti megállapítás megtétele előtt a szanálási feladatkörében eljáró MNB-nek haladéktalanul értesítenie kell
 
-a) a Felügyeletet, vagy
+a) az összevont felügyeletet ellátó hatóságot és – ha az eltérő – az összevont alapú felügyeletet ellátó hatóság székhelye szerinti EGT-állam 74. § (3) bekezdése szerinti megállapítások megtételére jogosult hatóságát, ha a 74. § (3) bekezdése szerinti megállapítás megtételét mérlegeli,
 
-b) az összevont alapú felügyeletet ellátó hatóságot, ha ezt a szerepkört más ország hatósága látja el.
+b) minden olyan intézmény, 1. § (1) bekezdése szerinti pénzügyi vállalkozás felügyeleti hatóságát, valamint a felügyeleti hatóságok vagy az összevont felügyeletet ellátó hatóság székhelye szerinti EGT-állam 74. § (3) bekezdése szerinti megállapítások megtételére jogosult hatóságát, amely intézmény, 1. § (1) bekezdése szerinti pénzügyi vállalkozás által kibocsátott kiegészítő alapvető és járulékos tőkeelem tekintetében a 74. § (3) bekezdés c) pontja szerinti megállapítás megtételét mérlegeli.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdés szerinti értesítésben a megállapítását indokolja.
 

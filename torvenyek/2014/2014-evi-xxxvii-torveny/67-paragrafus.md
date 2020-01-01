@@ -6,11 +6,11 @@ b) az EU-szintű anyavállalat felügyeleti hatósága a Felügyelet és az 575/
 
 (2) Ha egy leányvállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor eltekinthet a minimumkövetelményeknek a leányvállalatra való alkalmazásától, ha
 
-a) az EU-szintű anyavállalat szanálási hatósága is a szanálási feladatkörében eljáró MNB,
+a) az EU-szintű anyavállalat szanálási hatósága is a szanálási feladatkörében eljáró MNB, vagy
 
-b) a leányvállalat az EU-szintű anyavállalat összevont alapú felügyelete alá tartozik és az összevont alapú felügyeleti feladatokat a Felügyelet látja el,
+b) a leányvállalat az EU-szintű anyavállalat összevont alapú felügyelete alá tartozik és az összevont alapú felügyeleti feladatokat a Felügyelet látja el, vagy
 
-c) a leányvállalat a tagállami anyavállalat összevont alapú felügyelete alá tartozik, az összevont alapú felügyeleti feladatokat a Felügyelet látja el és a tagállami anyavállalat tekintetében szubkonszolidált szinten teljesíti a 64. § (2) bekezdésében foglaltakat,
+c) a leányvállalat összevont alapon a tagállami anyavállalatra vonatkozó felügyelete alá tartozik és mind a tagállami anyavállalatra, mind a leányvállalatra vonatkozó felügyeleti feladatokat a Felügyelet látja el és a tagállami anyavállalat – amennyiben eltér az EU-szintű anyavállalattól – szubkonszolidált szinten teljesíti a 64. § (2) bekezdésében foglaltakat,
 
 d) nincs akadálya az anyavállalatnak a leányvállalat részére történő azonnali
 
@@ -20,6 +20,8 @@ db) kötelezettség visszafizetésének,
 
 e) az anyavállalat összevont alapon megvalósuló vállalatirányítási rendszere és az anyavállalatnak a leányvállalat kötelezettségeiért való garanciavállalása a Felügyelet számára jóváhagyott vagy ha nem áll fenn az anyavállalat garanciavállalása, akkor a leányvállalat kockázatai nem jelentősek,
 
-f) a leányvállalat kockázatértékelési, kockázatmérési és kockázat-ellenőrzési rendszere az anyavállalatéval azonos, valamint
+f) a leányvállalat kockázatértékelési, kockázatmérési és kockázat-ellenőrzési rendszere az anyavállalatéval azonos,
 
-g) a leányvállalatot a Felügyelet az 575/2013/EU rendelet 7. cikk (1) bekezdése alapján az egyedi tőkekövetelményeknek való megfelelés alól mentesítette.
+g) az anyavállalat a leányvállalat tulajdonosaként a szavazati jogok több mint felével rendelkezik, vagy jogosult arra, hogy a leányvállalat vezető testülete tagjainak többségét megválassza vagy visszahívja, valamint
+
+h) a leányvállalatot a Felügyelet az 575/2013/EU rendelet 7. cikk (1) bekezdése alapján az egyedi tőkekövetelményeknek való megfelelés alól mentesítette.
