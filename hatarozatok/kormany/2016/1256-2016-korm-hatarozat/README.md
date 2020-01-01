@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1256-30
 | --- | --- | --- |
 | 2016-06-06 | 2016-1256-30-22.1 | 1256/2016. (VI. 6.) Korm. határozat |
 | 2016-06-07 | 2016-1256-30-22.2 | 2010: CXXX. törvény |
+| 2020-01-01 | 2016-1256-30-22.3 | 2011: CXCV. törvény |
