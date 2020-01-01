@@ -14,7 +14,7 @@ c) törvény vagy a helyi önkormányzat rendelete korlátozottan forgalomképes
 
 a) a helyi közutak és műtárgyaik,
 
-b) a helyi önkormányzat tulajdonában álló terek, parkok,
+b) a helyi önkormányzat tulajdonában álló terek, parkok, közkertek,
 
 c) a helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt, valamint
 

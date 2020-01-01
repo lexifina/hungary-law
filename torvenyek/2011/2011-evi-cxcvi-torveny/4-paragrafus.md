@@ -18,7 +18,7 @@ e) az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fő
 
 f) az országos közutak és azok műtárgyai, ide nem értve a közút tartozékát képező, az ingatlan-nyilvántartásban várakozóhelyként, pihenőhelyként feltüntetett önálló ingatlant, valamint a közúti közlekedésről szóló törvény szerinti útcsatlakozást,
 
-g) állami tulajdonban álló terek, parkok,
+g) állami tulajdonban álló terek, parkok, közkertek,
 
 h) az 1. mellékletben meghatározott országos törzshálózati vasúti pályák és azok tartozékai,
 
@@ -34,7 +34,7 @@ l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvén
 
 (3)
 
-(4) Korlátozottan forgalomképes nemzeti vagyonnak minősül a 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe nem tartozó, többségi állami tulajdonban álló, a közbeszerzésekről szóló 2011. évi CVIII. törvény XIV. fejezetében meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló, állami tulajdonban lévő társasági részesedés.
+(4) Korlátozottan forgalomképes nemzeti vagyonnak minősül a 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe nem tartozó, többségi állami tulajdonban álló, a közbeszerzésekről szóló törvényben meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló, állami tulajdonban lévő társasági részesedés.
 
 (5) A (4) bekezdés szerinti nemzeti vagyon – a (6) bekezdésben foglalt kivétellel – kizárólag helyi önkormányzat vagy önkormányzati társulás részére idegeníthető el. A korlátozott forgalomképesség a (4) bekezdés szerinti nemzeti vagyon tekintetében addig áll fenn, amíg a gazdasági társaság közszolgáltatási tevékenységet lát el.
 

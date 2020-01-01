@@ -4,7 +4,7 @@
 
 (2) Nemzeti vagyon tulajdonjogát átruházni természetes személy vagy átlátható szervezet részére lehet.
 
-(3) A nemzeti vagyon tulajdonjogát ingyenesen átruházni csak törvényben meghatározott esetekben és feltételekkel lehet. A nemzeti vagyonba tartozó leselejtezett tárgyi eszközt – amennyiben az a közfeladat ellátásához nem szükséges – a tulajdonosi joggyakorló ingyenesen átruházhatja.
+(3) A nemzeti vagyon tulajdonjogát ingyenesen átruházni csak törvényben meghatározott esetekben és feltételekkel lehet. A nemzeti vagyonba tartozó leselejtezett tárgyi eszközt – amennyiben az a közfeladat ellátásához nem szükséges – a tulajdonosi joggyakorló ingyenesen átruházhatja, ebben az esetben a (4) bekezdés b) pontját nem kell alkalmazni.
 
 (4) Nemzeti vagyon tulajdonjogának ingyenes átruházása esetén a tulajdonjogot megszerző félnek – az állam kivételével – eleget kell tennie a következő feltételeknek:
 

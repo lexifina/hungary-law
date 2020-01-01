@@ -16,7 +16,7 @@ lehet.
 
 (3) A 2. mellékletben felsorolt állami tulajdonban álló nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő gazdasági társasági részesedések felett a tulajdonosi jogok gyakorlására kizárólag
 
-a) törvényben kijelölt miniszter,
+a) miniszter,
 
 b) központi költségvetési szerv vagy
 

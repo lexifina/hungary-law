@@ -1,16 +1,16 @@
 ## 5. A nemzeti vagyon kezelése, hasznosítása
 
-11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
+11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
 
-(2) A nemzeti vagyon tekintetében haszonélvezeti jogot alapító szerződés a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető és a haszonélvezeti jog kizárólag általuk gyakorolható.
+(2) A nemzeti vagyon tekintetében haszonélvezeti jogot alapító szerződés a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető és a haszonélvezeti jog kizárólag általuk gyakorolható.
 
 (3) A vagyonkezelési szerződés, valamint a haszonélvezeti jogot alapító szerződés versenyeztetés nélkül köthető.
 
 (4) A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés e törvény erejénél fogva megszűnik, ha a vagyonkezelő vagy a haszonélvező a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, illetve b) alpont bd) vagy be) alpontjában meghatározott tulajdonosi szerkezete megváltozik. A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés megszűnésének időpontja az a nap, amelyen a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, vagy b) alpont bd) vagy be) alpontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik.
 
-(5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
+(5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
-(6) Központi költségvetési szerv a működéséhez szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz (műszaki berendezés, gép, felszerelés stb.), készlet megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem – ha értéke a külön törvényben meghatározott értékhatárt nem haladja meg – e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe kerül.
+(6) Központi költségvetési szerv a működéséhez szükséges, az államháztartási számvitelről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz (különösen műszaki berendezés, gép, felszerelés, készlet) valamint egyéb ingóság megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe és a fennálló vagyonkezelési szerződése hatálya alá kerül azzal, hogy a központi költségvetési szerv köteles – a vagyon-nyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
 
 (6a) A vagyonkezelőt e törvény erejénél fogva változatlan feltételekkel megilleti a vagyonkezelői jog mindazon vagyonelemre, amely a vagyonkezelésében lévő vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a vagyonkezelő vagyonkezelésében lévő vagyonelem tulajdonosa megegyezik. A felek eltérő megállapodásának hiányában a vagyonkezelői jog e törvény erejénél fogva kiterjed arra a vagyonelemre is – ideértve a tartozékot és az alkotórészt is –, amely a vagyonkezelői jogviszony fennállása alatt válik a vagyon részévé.
 
@@ -33,6 +33,8 @@ e) polgári jogi igényt megalapító, polgári jogi igényt eldöntő tulajdono
 (9) A központi költségvetési szervek a vagyonkezelési szerződésben foglalt jogokat és kötelezettségeket – az ingatlanokra vonatkozó jogok és kötelezettségek kivételével – egymás között szerződéssel átruházhatják.
 
 (10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető. A hasznosításra irányuló szerződés határozatlan vagy legfeljebb 15 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. E bekezdés szerinti korlátozás nem vonatkozik az állammal, költségvetési szervvel, önkormányzattal vagy önkormányzati társulással kötött szerződésre.
+
+(10a) A Kormány kiemelt nemzetgazdasági érdekből nyilvános határozatban dönthet az állami vagyon hasznosítására irányuló szerződés legfeljebb 30 éves határozott időre történő megkötéséről, amennyiben az állami vagyont érintő beruházás megtérülési ideje ezt kifejezetten indokolja.
 
 (11) Nemzeti vagyon hasznosítására vonatkozó szerződés kizárólag olyan természetes személlyel vagy átlátható szervezettel köthető, amely az átengedett nemzeti vagyon hasznosítására vonatkozó szerződésben vállalja, hogy
 
@@ -66,7 +68,9 @@ a) államháztartási körbe tartozó szervezet,
 
 b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, vagy
 
-c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek
+c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek,
+
+d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társaság vagyonkezelésében lévő, az állam tulajdonában álló lakások tekintetében a vagyonkezelővel vagy a vagyonkezelő tulajdonában álló gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek
 
 javára történik.
 

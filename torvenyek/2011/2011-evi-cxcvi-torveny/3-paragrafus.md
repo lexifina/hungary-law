@@ -78,7 +78,9 @@ ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy kü
 
 af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet,
 
-ag) a törvény által kijelölt egyedileg meghatározott jogi személy.
+ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság,
+
+ah) a törvény által kijelölt egyedileg meghatározott jogi személy.
 
 b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében:
 
@@ -93,6 +95,8 @@ bd) az állam, a helyi önkormányzat, a ba) alpontban meghatározott személyek
 be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
 
 c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+
+20. összetett vízilétesítmény: olyan vízilétesítmény, mely más létesítményeket, vizeket is magába foglal; az összetett vízilétesítmény része a létesítmények, vizek között lévő földterület is.
 
 (2) Az (1) bekezdés 1. pont b) és c) alpontjában foglalt feltételeknek való megfelelésről a szerződő félnek cégszerűen aláírt módon nyilatkoznia kell. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
 

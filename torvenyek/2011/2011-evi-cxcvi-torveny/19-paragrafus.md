@@ -4,6 +4,6 @@ a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11. §-a, 12. § (1) és (3)–(15) b
 
 b) 5. §-a, 9. §-a és 12. § (2) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján,
 
-c) 14. §-a, 15. §-a és 17. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
+c) 14. §-a, 15. §-a és 17. § (1)–(1a) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
 
 sarkalatosnak minősül.
