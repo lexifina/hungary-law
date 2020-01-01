@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-171-20-
 | --- | --- | --- |
 | 2019-07-15 | 2019-171-20-22.1 | 171/2019. (VII. 12.) Korm. rendelet |
 | 2019-07-16 | 2019-171-20-22.2 | 2010: CXXX. törvény |
+| 2020-01-01 | 2019-171-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
