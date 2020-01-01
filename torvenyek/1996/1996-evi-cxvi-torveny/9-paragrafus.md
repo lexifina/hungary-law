@@ -8,7 +8,7 @@ c) a nukleáris létesítmény, a radioaktívhulladék-tároló üzemeltetése, 
 
 megfelel a kockázat elfogadható mértéke alapján meghatározott követelményeknek és a hatósági engedélyekben előírtaknak.
 
-(2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
+(2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
 
 a) egyedi hatósági eljárás keretében engedélyezési és jóváhagyási döntésekkel,
 

@@ -12,6 +12,20 @@ b) a nukleáris berendezés, illetve a nukleáris létesítmény az engedélyeze
 
 (3) Az atomenergia-felügyeleti szerv az engedélyt visszavonhatja vagy az engedély időbeli hatályát korlátozhatja, ha megállapítja, hogy az engedély megadása alapjául szolgáló nukleáris biztonsági, biztosítéki, védettségi, valamint az ionizáló sugárzás elleni védelemmel kapcsolatos körülmények megváltoztak és az ebből fakadó kockázat mértéke növekedett.
 
+(3a) Az atomenergia-felügyeleti szerv az engedélyest e törvény vagy e törvény végrehajtására kiadott rendelet megsértése esetén a tevékenység végzésétől eltilthatja. Az atomenergia-felügyeleti szerv a tevékenységtől való eltiltás időbeli hatályának megállapításakor a biztonsági vagy radiológiai kockázatokat is figyelembe véve dönt azzal, hogy az eltiltás legfeljebb a jogszerű állapot helyreállításáig tarthat.
+
+(3b) Az eltiltás időbeli hatályának megállapítása során a biztonsági vagy radiológiai kockázatok mérlegelésekor figyelemmel kell lenni az eset összes körülményére, ezen belül különösen arra, hogy a szabályszegés vagy mulasztás folytán
+
+a) bekövetkezett-e rendkívüli esemény, nukleáris veszélyhelyzet vagy atomkár,
+
+b) milyen súlyú a követelmények, előírások megszegése,
+
+c) ismételt szabályszegés történt-e,
+
+d) felróható-e a szabályszegést vagy mulasztást okozó magatartás,
+
+e) a szabályszegő vagy mulasztó tanúsított-e az általa okozott állapot megszüntetésére hozott intézkedéseket segítő, kárenyhítő magatartást.
+
 (4) Az átalakítási engedély kiadása előtt végzett ellenőrzés során feltárt, a nukleáris biztonságot veszélyeztető nem-megfelelőség esetén az atomenergia-felügyeleti szerv az átalakítás folytatását megtilthatja.
 
 (4a) Ha az átalakítást követő üzemeltetés megkezdését megelőzően az atomenergia-felügyeleti szerv a hozzá – jogszabály alapján – becsatolandó dokumentum értékelése, az eseti ellenőrzés vagy az átalakítás végrehajtása során lefolytatott ellenőrzés keretében olyan nem-megfelelőséget állapít meg, amely veszélyezteti a nukleáris biztonságot, akkor a kiadott átalakítási engedélyt visszavonja, vagy az engedélyt módosítva feltételeket állapít meg.

@@ -64,7 +64,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (9)
 
-(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter az e törvényben meghatározottaktól eltérő követelményeket.
+(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédelmi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál az e törvényben meghatározottaktól eltérő követelményeket.
 
 (11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 

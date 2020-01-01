@@ -112,4 +112,4 @@ xo) az xj) és xk) pontok szerinti létesítmény, berendezés alkalmazásának 
 
 y) az Országos Személyi Dozimetriai Nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi szakértői tevékenység folytatásának részletes feltételeit, e tevékenység folytatására jogosító engedély kiadásának rendjét, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi képzésre és továbbképzésre vonatkozó részletes szabályokat valamint a sugárvédelmi képzettség nyilvántartásának vezetésére vonatkozó részletes szabályokat;
 
-z) a 26. §-ban meghatározott feladatok végrehajtására a honvédségi szervezet kijelölését, a kijelölt szervezet közigazgatási hatósági eljárásában alkalmazandó Ákr.-t kiegészítő és az Ákr.-től eltérő szabályokat.
+z) a 26. §-ban meghatározott feladatok végrehajtására a honvédelmi szervezet kijelölését, a kijelölt szervezet közigazgatási hatósági eljárásában alkalmazandó Ákr.-t kiegészítő és az Ákr.-től eltérő szabályokat.

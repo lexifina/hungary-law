@@ -36,7 +36,7 @@ i) a nyilvántartási számot.
 
 (4a) A független műszaki szakértő szervezetekre vonatkozó nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános mindazon természetes személyek neve, szakmai gyakorlatának rövid leírása és ideje, szakterülete, műszaki szakértők esetén a nyilvántartási száma, akik a (3b) bekezdés alapján a nyilvántartásban szerepelnek, továbbá a független műszaki szakértő szervezet engedélye kiállításának napja és a nyilvántartási száma. A nyilvántartás a független műszaki szakértő szervezet szakterülete, a szakértői tevékenységet engedélyező határozat száma, a kiállítás napja és a nyilvántartási szám tekintetében közhitelesnek minősül.
 
-(5)
+(5) A szakértői tevékenységtől eltiltó döntés hatálya legfeljebb három év lehet.
 
 (6)
 

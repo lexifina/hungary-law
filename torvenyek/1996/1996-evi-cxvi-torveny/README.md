@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2018-08-14 | 2018. évi XLV. törvény | 1996-116-00-00.55 |
 | 2019-04-27 | 2019. évi XXXIX. törvény | 1996-116-00-00.56 |
 | 2019-06-30 | 2019. évi XXXIX. törvény | 1996-116-00-00.57 |
+| 2020-01-01 | 2019. évi CV. törvény | 1996-116-00-00.58 |

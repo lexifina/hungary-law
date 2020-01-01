@@ -1,4 +1,4 @@
-8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+8. § (1) Az atomenergia-felügyeleti szerv kormányzati főhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (2) Az atomenergia-felügyeleti szerv bevételét – a bírságból származó bevételek kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
 
