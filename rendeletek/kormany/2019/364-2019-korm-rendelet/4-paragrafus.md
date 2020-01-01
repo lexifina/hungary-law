@@ -1,0 +1,3 @@
+## 3. § A 389/2007. (XII. 23.) Korm. rendelet 3. § (17) bekezdése helyébe a következő rendelkezés lép:
+
+## „(17) Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre, akkor a villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia külön jogszabályban szabályozott átvétele rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával összefüggő költségei között kell elszámolni.”
