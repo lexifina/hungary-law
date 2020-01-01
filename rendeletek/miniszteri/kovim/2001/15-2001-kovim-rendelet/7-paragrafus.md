@@ -12,9 +12,9 @@
 
 (6)[^42]
 
-(7)[^43] A hatósági képesítő gyakorlati vizsgára, a vizsgaszabályzatban meghatározott típusú úszólétesítményt a vizsgázó vagy jóváhagyott képzés esetén a képző szerv biztosítja. A hajózási hatóság olyan úszólétesítményt fogad el, amely az adott vízterületen hajózásra alkalmas. A vizsga céljára igénybe vett úszólétesítmény a hajózási hatóság képviselőjének jelenlétében hatósági jelzést visel és az úszólétesítményre a hajózási hatósági hajókra vonatkozó szabályokat kell alkalmazni.
+(7)[^43] A gyakorlati vizsgára, a vizsgaszabályzatban meghatározott típusú úszólétesítményt a vizsgázó vagy jóváhagyott képzés esetén a képző szerv biztosítja. A vizsgára csak olyan úszólétesítmény fogadható el, amely az adott vízterületen hajózásra alkalmas. A gyakorlati vizsga a vonatkozó szabványnak megfelelő szimulátoron is teljesíthető.
 
 [^40]: A 7. § (3) bekezdése a 42/2013. (VII. 19.) NFM rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^41]: A 7. § (4) bekezdését a 42/2013. (VII. 19.) NFM rendelet 4. § a) pontja hatályon kívül helyezte.
 [^42]: A 7. § (6) bekezdését a 42/2013. (VII. 19.) NFM rendelet 4. § a) pontja hatályon kívül helyezte.
-[^43]: A 7. § (7) bekezdését a 16/2006. (IV. 6.) GKM rendelet 1. § (5) bekezdése iktatta be.
+[^43]: A 7. § (7) bekezdését a 16/2006. (IV. 6.) GKM rendelet 1. § (5) bekezdése iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 7. §-ával megállapított szöveg.

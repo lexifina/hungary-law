@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-15-20-9
 | 2016-01-01 | 2001-15-20-93.21 | 23/2015. (V. 8.) NFM rendelet |
 | 2017-01-01 | 2001-15-20-93.22 | 66/2016. (XII. 29.) NFM rendelet |
 | 2019-09-11 | 2001-15-20-93.23 | 33/2019. (IX. 10.) ITM rendelet |
+| 2020-01-01 | 2001-15-20-93.24 | 45/2019. (XII. 20.) ITM rendelet |
