@@ -1,3 +1,1 @@
-20. § Az Ogytv. 54. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha az (1) bekezdésben meghatározott épületek területére belépett személy a (3) bekezdés szerinti kötelezettségét megszegi, az Országgyűlési Őrség a házelnök vagy a háznagy egyidejű tájékoztatásával onnan kivezetheti. A házelnök döntése alapján – legfeljebb hat hónapra vagy az adott ülésszak végéig – megtagadható az (1) bekezdésben meghatározott épületek területére történő belépése annak a személynek, aki a (3) bekezdésben előírt kötelezettségét súlyosan megszegte, továbbá annak, akiről az Országgyűlési Őrség megalapozottan feltételezi, hogy az (1) bekezdésben meghatározott épületekben az Országgyűlés működését megzavaró, az Országgyűlés tekintélyét, rendjét súlyosan sértő tevékenységet folytatna, vagy magatartásával az ott tartózkodók biztonságát veszélyeztetné.”
+20. §
