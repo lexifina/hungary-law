@@ -48,10 +48,12 @@ hatásköröket.
 
 19. koordinálja a Klebelsberg Központ és a tankerületi központok vonatkozásában az egységes státuszgazdálkodás rendszerét,
 
-20. kizárólagos joggal ellátja a tankerületi központok által használt egységes informatikai rendszerek, elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos, valamint az adatkezeléshez kapcsolódó, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti adatfeldolgozói feladatokat,
+20.[^9] kizárólagos joggal ellátja a tankerületi központok által használt egységes informatikai rendszerek, elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos feladatokat, valamint ezen adatbázisok, rendszerek adatkezelésével kapcsolatos adatfeldolgozói feladatokat,
 
 21. koordinálja a valamennyi tankerületi központot érintő szerződések megkötését, programok megvalósítását,
 
 22. végrehajtja az irányító szerv által meghatározott egyéb feladatokat.
 
 (3) A Klebelsberg Központ (2) bekezdés 20. pontjában meghatározott kizárólagos üzemeltetési, fejlesztési és adatfeldolgozási kötelezettsége azon adatbázisokra és alkalmazásokra terjed ki, amelyeket ő maga hozott létre, vagy amelyek tekintetében a szoftverhez mint szerzői műhöz kapcsolódó felhasználási jogokat megszerezte.
+
+[^9]: Az 5. § (2) bekezdés 20. pontja a 275/2019. (XI. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
