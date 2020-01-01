@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-104-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2001-104-00-00.13 |
 | 2018-01-01 | 2017. évi CXLIV. törvény | 2001-104-00-00.14 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2001-104-00-00.15 |
+| 2020-01-01 | 2019. évi LXXXI. törvény | 2001-104-00-00.16 |

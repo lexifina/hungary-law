@@ -6,4 +6,4 @@
 
 (3) Ha a bűncselekménnyel elért vagy elérni kívánt előny nem vagyoni jellegű, a bíróság a jogi személy vagyoni helyzetére tekintettel állapítja meg a pénzbírságot, amelynek legkisebb mértéke ötszázezer forint.
 
-(4) A pénzbírságot – meg nem fizetése esetén – a bírósági végrehajtás szabályai szerint kell behajtani.
+(4) A pénzbírságot – meg nem fizetése esetén – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szabályai szerint kell behajtani.
