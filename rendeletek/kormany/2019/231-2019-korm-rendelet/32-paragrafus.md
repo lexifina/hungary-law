@@ -1,5 +1,3 @@
-## 31. §[^5]
-
 ## 19. A tábori lelkészi szolgálat végzése
 
 32. § (1) A bevett egyház a honvédelmi szervezeten, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézményen és a Nemzeti Közszolgálati Egyetemen (a továbbiakban együtt: honvédelmi szervezet) belüli csoportos és egyéni vallásgyakorlás, valamint lelki gondozás biztosítása érdekében végezhet tábori lelkészi szolgálatot. A tábori lelkészi szolgálat működése a katonai tevékenységet, a kiképzés rendjét nem zavarhatja.
@@ -11,5 +9,3 @@
 (4) A honvédelmi szervezet vezetője a hitéleti tevékenységre vonatkozó döntést nem hozhat, a működésre vonatkozó intézkedést – a szolgálati renddel történő összhang biztosításának kivételével – nem tehet.
 
 (5) A honvédelmi szervezet vezetője és a tábori lelkészi szolgálat tagjai kötelesek elősegíteni, hogy a vallási közösségek vallásgyakorlási és lelkigondozási jogosultsága a személyi állomány igényei szerint érvényesüljön.
-
-[^5]: A 31. § a 45. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
