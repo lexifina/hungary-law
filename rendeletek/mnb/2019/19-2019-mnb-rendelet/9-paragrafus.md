@@ -1,5 +1,3 @@
-## 8. §[^2]
-
 ## 4. A bankjegyvizsgáló gép működésére vonatkozó egyes szabályok
 
 9. § (1) A bankjegyvizsgáló gépnek – funkciójától függetlenül – alkalmasnak és mindenkor képesnek kell lennie a forintbankjegyeknek a bankjegyvizsgáló gépet működtető alkalmazott, illetve a bankjegyvizsgáló gépet kezelő ügyfél beavatkozása nélküli adagolással történő ellenőrzésére és a 2. melléklet 2. pontjában meghatározott kategóriákba, az ott rögzítettek szerint történő szétválogatására.
@@ -21,5 +19,3 @@ c) biztosítania kell az ellenérték fizetési számlán való jóváírásáho
 (6) A bankjegy-visszaforgató gépnek, a bankjegy-kifizető gépnek, valamint a pénztárosok kiszolgálására alkalmas bankjegyfeldolgozó és -válogató gépnek az (1)–(5) bekezdésben foglaltakon túlmenően biztosítania kell azt is, hogy a bankjegyfelvétel csak forgalomképes forintbankjegy formájában valósuljon meg.
 
 (7) A bankjegyvizsgáló gép funkcióira és működésére vonatkozó részletes szabályokat, valamint a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő ehhez kapcsolódó teendőit a 2. melléklet tartalmazza.
-
-[^2]: A 8. § a 25. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
