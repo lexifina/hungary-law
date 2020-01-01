@@ -1,4 +1,4 @@
-1. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^359]
+1. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^366]
 
 A geotermikus védőidom kijelöléséhez szükséges műszaki leírás tartalma
 
@@ -10,4 +10,4 @@ A geotermikus védőidom kijelöléséhez szükséges műszaki leírás tartalma
 
 4. A tervezett geotermikus energia-termelése során a geotermikus energia időegység alatt kinyert mennyisége, a várható üzemmód, a normál üzemeltetési rend, valamint az üzemeltetési rend karbantartás és havária esetén.
 
-[^359]: Az eredeti melléklet jelölését 1. számú mellékletre változtatta a 282/2003. (XII. 29.) Korm. rendelet 26. §-a, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja, újonnan a 146/2012. (VII. 5.) Korm. rendelet 18. §-a iktatta be.
+[^366]: Az eredeti melléklet jelölését 1. számú mellékletre változtatta a 282/2003. (XII. 29.) Korm. rendelet 26. §-a, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja, újonnan a 146/2012. (VII. 5.) Korm. rendelet 18. §-a iktatta be.

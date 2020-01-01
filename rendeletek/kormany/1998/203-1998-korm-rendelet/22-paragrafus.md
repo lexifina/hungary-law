@@ -1,24 +1,24 @@
 ## (A Bt. 36. §-ához)
 
-22. §[^214] (1)[^215] A műszaki üzemi tervben [13. § (1) bekezdés] a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a műszaki üzemi terv jóváhagyása keretében kerülhet sor.
+22. §[^221] (1)[^222] A műszaki üzemi tervben [13. § (1) bekezdés] a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a műszaki üzemi terv jóváhagyása keretében kerülhet sor.
 
-(2)[^216]
+(2)[^223]
 
-(3)[^217]
+(3)[^224]
 
-(4)[^218] A kitermelés befejezésére, a bányabezárásra vonatkozó műszaki üzemi terv végrehajtását, a tájrendezés befejezését a bányavállalkozó 30 napon belül köteles a bányafelügyeletnek bejelenteni. A bányabezárás és a tájrendezés végrehajtásáról és a bányászati tevékenység befejezéséről a bányafelügyelet határoz. E határozat véglegessé válását követően a bányatelek törléséről a bányafelügyelet határozatot hoz, ingatlan-nyilvántartásba bejegyzett bányatelek esetében a végleges határozattal megkeresi az ingatlanügyi hatóságot a bányatelek ingatlan-nyilvántartásból való törlése végett.
+(4)[^225] A kitermelés befejezésére, a bányabezárásra vonatkozó műszaki üzemi terv végrehajtását, a tájrendezés befejezését a bányavállalkozó 30 napon belül köteles a bányafelügyeletnek bejelenteni. A bányabezárás és a tájrendezés végrehajtásáról és a bányászati tevékenység befejezéséről a bányafelügyelet határoz. E határozat véglegessé válását követően a bányatelek törléséről a bányafelügyelet határozatot hoz, ingatlan-nyilvántartásba bejegyzett bányatelek esetében a végleges határozattal megkeresi az ingatlanügyi hatóságot a bányatelek ingatlan-nyilvántartásból való törlése végett.
 
-(4a)[^219]
+(4a)[^226]
 
-(5)[^220] A bányavállalkozó az ellene indult felszámolási vagy végelszámolási eljárást a bányafelügyelet részére 8 napon belül írásban köteles bejelenteni. A felszámoló, végelszámoló köteles intézkedni a bányavállalkozót – a külön jogszabályban foglaltakon túlmenően – terhelő környezet- és természetvédelmi, tájrendezési és bányakárral kapcsolatos kötelezettségek teljesítéséről.
+(5)[^227] A bányavállalkozó az ellene indult felszámolási vagy végelszámolási eljárást a bányafelügyelet részére 8 napon belül írásban köteles bejelenteni. A felszámoló, végelszámoló köteles intézkedni a bányavállalkozót – a külön jogszabályban foglaltakon túlmenően – terhelő környezet- és természetvédelmi, tájrendezési és bányakárral kapcsolatos kötelezettségek teljesítéséről.
 
-(6)[^221]
+(6)[^228]
 
 (7) A bányászati tevékenység során keletkezett, de annak befejezése után is fennmaradó bányatavakra és azok partjára – a külön jogszabályban foglaltak mellett – a vízügyi jogszabályok rendelkezései az irányadók.
 
-(8)[^222] A tájrendezési feladatok keretében – a Bt. 36. § (2) bekezdésében meghatározott eljárásban – határozni kell a felszín alatti vízkészletet érintő bányatavak fennmaradásának és hasznosításának feltételeiről.
+(8)[^229] A tájrendezési feladatok keretében – a Bt. 36. § (2) bekezdésében meghatározott eljárásban – határozni kell a felszín alatti vízkészletet érintő bányatavak fennmaradásának és hasznosításának feltételeiről.
 
-(9)[^223] A használaton kívüli bányászati célú mélyfúrások tájrendezési tervének tartalmaznia kell:
+(9)[^230] A használaton kívüli bányászati célú mélyfúrások tájrendezési tervének tartalmaznia kell:
 
 a) a kút tulajdonosának nevét és tulajdonjogának igazolását;
 
@@ -60,22 +60,22 @@ k) az esetlegesen visszamaradó ásványvagyonról készített kimutatást;
 
 l) a mélyfúrás geodéziai adatainak térképen történő ábrázolását is.
 
-(10)[^224] Annak megállapítására irányuló kérelemnek, hogy a használaton kívüli bányászati célú mélyfúrás és kút bányászati célra már nem alkalmas, a (9) bekezdés a)–d) pontjában foglaltakon túl tartalmaznia kell a hasznosításra vonatkozó javaslatot is.
+(10)[^231] Annak megállapítására irányuló kérelemnek, hogy a használaton kívüli bányászati célú mélyfúrás és kút bányászati célra már nem alkalmas, a (9) bekezdés a)–d) pontjában foglaltakon túl tartalmaznia kell a hasznosításra vonatkozó javaslatot is.
 
-(11)[^225] A Bt. 36. § (8) bekezdése alapján a bányafelügyelet a (9) bekezdés a), b) pontjában, c) pont ca), cd), cg) alpontjában és d) pontjában foglalt adatokat tartja nyilván.
+(11)[^232] A Bt. 36. § (8) bekezdése alapján a bányafelügyelet a (9) bekezdés a), b) pontjában, c) pont ca), cd), cg) alpontjában és d) pontjában foglalt adatokat tartja nyilván.
 
-(12)[^226]
+(12)[^233]
 
-[^214]: A Vhr. 22. §-a a 106/2005. (VI. 16.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^215]: A Vhr. 22. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^216]: A Vhr. 22. § (2) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 4. pontja hatályon kívül helyezte.
-[^217]: A Vhr. 22. §-ának (3) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
-[^218]: A Vhr. 22. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (9) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 63. § a) és d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^219]: A Vhr. 22. § (4a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 64. § c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^220]: A Vhr. 22. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
-[^221]: A Vhr. 22. §-ának (6) bekezdését az 57/2008. (III. 26.) Korm. rendelet 23. § (4) bekezdése hatályon kívül helyezte.
-[^222]: A Vhr. 22. § (8) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^223]: A Vhr. 22. §-ának (9) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 411/2012. (XII. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^224]: A Vhr. 22. §-ának (10) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 411/2012. (XII. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^225]: A Vhr. 22. §-ának (11) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 411/2012. (XII. 20.) Korm. rendelet 19. §-ával megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 9. pontja szerint módosított szöveg.
-[^226]: A Vhr. 22. § (12) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 411/2012. (XII. 28.) Korm. rendelet 23. §-a.
+[^221]: A Vhr. 22. §-a a 106/2005. (VI. 16.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^222]: A Vhr. 22. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^223]: A Vhr. 22. § (2) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^224]: A Vhr. 22. §-ának (3) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^225]: A Vhr. 22. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (9) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 63. § a) és d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^226]: A Vhr. 22. § (4a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 64. § c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^227]: A Vhr. 22. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^228]: A Vhr. 22. §-ának (6) bekezdését az 57/2008. (III. 26.) Korm. rendelet 23. § (4) bekezdése hatályon kívül helyezte.
+[^229]: A Vhr. 22. § (8) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^230]: A Vhr. 22. §-ának (9) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 411/2012. (XII. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^231]: A Vhr. 22. §-ának (10) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 411/2012. (XII. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^232]: A Vhr. 22. §-ának (11) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 411/2012. (XII. 20.) Korm. rendelet 19. §-ával megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 9. pontja szerint módosított szöveg.
+[^233]: A Vhr. 22. § (12) bekezdését az 57/2008. (III. 26.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 411/2012. (XII. 28.) Korm. rendelet 23. §-a.

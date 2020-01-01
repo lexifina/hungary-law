@@ -1,4 +1,4 @@
-1/B. §[^9] (1) A bányafelügyelet az engedélykérelem benyújtását követő 5 napon belül a hivatalában, valamint a hulladékkezelő létesítmény helye szerint illetékes települési önkormányzat hivatalának hirdetőtábláján közleményt tesz közzé, amely tartalmazza:
+1/B. §[^10] (1) A bányafelügyelet az engedélykérelem benyújtását követő 5 napon belül a hivatalában, valamint a hulladékkezelő létesítmény helye szerint illetékes települési önkormányzat hivatalának hirdetőtábláján közleményt tesz közzé, amely tartalmazza:
 
 a) az engedélykérelmet,
 
@@ -28,4 +28,4 @@ b) az (1) bekezdésben meghatározott tájékoztatáson felül minden olyan info
 
 (6) Az engedélyek 1/A. § (6) bekezdése szerinti módosítására irányuló eljárás során e § rendelkezéseit megfelelően alkalmazni kell.
 
-[^9]: A Vhr. 1/B. §-át újonnan a 497/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A Vhr. 1/B. §-át újonnan a 497/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

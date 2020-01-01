@@ -1,4 +1,4 @@
-2/A. §[^23] (1) A minősítő bizottság megszűnik a koncessziós pályázat eredményének vagy eredménytelenségének kihirdetését követő napon.
+2/A. §[^24] (1) A minősítő bizottság megszűnik a koncessziós pályázat eredményének vagy eredménytelenségének kihirdetését követő napon.
 
 (2) A minősítő bizottsági tagság megszűnik, ha
 
@@ -10,4 +10,4 @@ c) a tag tagságáról lemond vagy
 
 d) a tag elhalálozik.
 
-[^23]: A Vhr. 2/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A Vhr. 2/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.

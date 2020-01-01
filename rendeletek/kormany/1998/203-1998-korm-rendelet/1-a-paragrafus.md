@@ -1,6 +1,6 @@
-## (A Bt. 5. §-ához)[^7]
+## (A Bt. 5. §-ához)[^8]
 
-1/A. §[^8] (1) Bányászati hulladékkezelő létesítmény (a továbbiakban: hulladékkezelő létesítmény) a bányafelügyelet engedélyével üzemeltethető. A bányafelügyelet a működés engedélyezéséről
+1/A. §[^9] (1) Bányászati hulladékkezelő létesítmény (a továbbiakban: hulladékkezelő létesítmény) a bányafelügyelet engedélyével üzemeltethető. A bányafelügyelet a működés engedélyezéséről
 
 a) ha a hulladékkezelő létesítmény kialakítása építési tevékenységgel nem jár, a műszaki üzemi terv jóváhagyása, vagy
 
@@ -38,5 +38,5 @@ c) az Európai Unió által nyilvántartott, elérhető technikában beálló je
 
 (7) Az engedélyben foglalt információkat a bányafelügyelet az illetékes nemzeti és közösségi statisztikai hivatalok számára hozzáférhetővé teszi statisztikai célból történő megkeresés esetén. Az üzleti titkot képező információk – különösen az üzleti kapcsolatok, a költségösszetevők és a gazdaságosan kitermelhető ásványvagyon mennyisége – nem hozhatók nyilvánosságra.
 
-[^7]: A Vhr. 1/A. §-át megelőző alcímet a 497/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^8]: A Vhr. 1/A. §-át újonnan a 497/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A Vhr. 1/A. §-át megelőző alcímet a 497/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A Vhr. 1/A. §-át újonnan a 497/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
