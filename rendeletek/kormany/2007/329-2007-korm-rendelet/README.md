@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2018-07-01 | 2007-329-20-22.41 | 77/2018. (IV. 20.) Korm. rendelet |
 | 2018-12-29 | 2007-329-20-22.42 | 275/2016. (IX. 15.) Korm. rendelet |
 | 2019-11-20 | 2007-329-20-22.43 | 267/2019. (XI. 19.) Korm. rendelet |
+| 2020-01-01 | 2007-329-20-22.44 | 309/2019. (XII. 18.) Korm. rendelet |

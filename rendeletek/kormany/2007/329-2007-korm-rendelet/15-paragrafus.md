@@ -1,3 +1,3 @@
-## Záró rendelkezések[^141]
+## Záró rendelkezések[^142]
 
-[^141]: A 15. §-t megelőző alcímet a 164/2015. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^142]: A 15. §-t megelőző alcímet a 164/2015. (VI. 30.) Korm. rendelet 2. §-a iktatta be.

@@ -34,37 +34,38 @@ l) segítséget nyújt a területi és a helyi szervek közterületi szolgálat�
 
 m)[^62] biztosítja a rendőri csapattevékenységre történő kiképzést és továbbképzést, gyűjti és elemzi e feladatok eredményes elvégzéséhez szükséges információkat,
 
-n) polgári repüléssel kapcsolatos feladatot lát el.
+n)[^63] rendvédelmi repüléssel, valamint polgári repüléssel kapcsolatos légirendészeti hatósági feladatot lát el, továbbá gyakorolja a Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság tekintetében a tulajdonosi jogokat,
 
-o)[^63] ellátja a Védelmi Program végrehajtásából fakadó feladatokat, valamint közreműködik a személyi védelmi feladatok ellátásában,
+o)[^64] ellátja a Védelmi Program végrehajtásából fakadó feladatokat, valamint közreműködik a személyi védelmi feladatok ellátásában,
 
-p)[^64] titkos információgyűjtést végez és nyomozó hatósági jogkört gyakorol,
+p)[^65] titkos információgyűjtést végez és nyomozó hatósági jogkört gyakorol,
 
-q)[^65] a nemzetközi, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében ellátja a bűncselekményből származó jövedelmek és bűncselekményhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében szükséges feladatokat,
+q)[^66] a nemzetközi, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében ellátja a bűncselekményből származó jövedelmek és bűncselekményhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében szükséges feladatokat,
 
-r)[^66] feladatkörében eljárva közreműködik az Európai Unió különleges intervenciós egységével való együttműködés keretében a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott segítségnyújtás végrehajtásában,
+r)[^67] feladatkörében eljárva közreműködik az Európai Unió különleges intervenciós egységével való együttműködés keretében a bűnüldöző szervek nemzetközi együttműködéséről szóló törvényben, valamint az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott segítségnyújtás végrehajtásában,
 
-s)[^67] a Budapest Liszt Ferenc Nemzetközi Repülőtéren közreműködik a nemzetközi és belföldi polgári repülés elleni jogellenes cselekmények védelmével kapcsolatos feladatok ellátásában,
+s)[^68] a Budapest Liszt Ferenc Nemzetközi Repülőtéren közreműködik a nemzetközi és belföldi polgári repülés elleni jogellenes cselekmények védelmével kapcsolatos feladatok ellátásában,
 
-t)[^68] a titkos információgyűjtésre, illetve leplezett eszközök alkalmazására feljogosított szervek felkérése alapján végrehajtja a határon átnyúló megfigyeléseket, valamint ellenőrzött szállításokat,
+t)[^69] a titkos információgyűjtésre, illetve leplezett eszközök alkalmazására feljogosított szervek felkérése alapján végrehajtja a határon átnyúló megfigyeléseket, valamint ellenőrzött szállításokat,
 
-u)[^69] a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekményből származó vagyon visszaszerzését,
+u)[^70] a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekményből származó vagyon visszaszerzését,
 
-v)[^70] a p)–r) pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez,
+v)[^71] a p)–r) pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez,
 
-w)[^71] a büntetőeljárásról szóló törvényre tekintettel bűnügyi technikai feladatokat lát el, ennek keretében végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet, illetve végzi az általános rendőri szerv bűnügyi technikai tevékenységének szakmai irányítását.
+w)[^72] a büntetőeljárásról szóló törvényre tekintettel bűnügyi technikai feladatokat lát el, ennek keretében végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet, illetve végzi az általános rendőri szerv bűnügyi technikai tevékenységének szakmai irányítását.
 
 [^58]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a, a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^59]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 3. §-a, a 441/2016. (XII. 16.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^60]: A 9. § f) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^61]: A 9. § h) pontját a 232/2010. (VIII. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte, újonnan a 102/2012. (V. 18.) Korm. rendelet 16. §-a iktatta be.
 [^62]: A 9. § m) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^63]: A 9. § o) pontját a 144/2012. (VII. 3.) Korm. rendelet 7. § (1) bekezdése iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^64]: A 9. § p) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^65]: A 9. § q) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^66]: A 9. § r) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^67]: A 9. § s) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
-[^68]: A 9. § t) pontját a 416/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^69]: A 9. § u) pontját a 286/2013. (VII. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^70]: A 9. § v) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 443/2015. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^71]: A 9. § w) pontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^63]: A 9. § n) pontja a 309/2019. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^64]: A 9. § o) pontját a 144/2012. (VII. 3.) Korm. rendelet 7. § (1) bekezdése iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^65]: A 9. § p) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^66]: A 9. § q) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^67]: A 9. § r) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^68]: A 9. § s) pontját a 227/2012. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^69]: A 9. § t) pontját a 416/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^70]: A 9. § u) pontját a 286/2013. (VII. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 77/2018. (IV. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^71]: A 9. § v) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 443/2015. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^72]: A 9. § w) pontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (1) bekezdése iktatta be.
