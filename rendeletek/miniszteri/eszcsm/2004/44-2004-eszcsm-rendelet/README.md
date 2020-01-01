@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-0
 | 2018-02-14 | 2004-44-20-0M.40 | 39/2008. (X. 18.) EüM rendelet |
 | 2018-12-19 | 2004-44-20-0M.41 | 29/2017. (X. 31.) EMMI rendelet |
 | 2019-12-18 | 2004-44-20-0M.42 | 29/2017. (X. 31.) EMMI rendelet |
+| 2020-01-01 | 2004-44-20-0M.43 | 29/2017. (X. 31.) EMMI rendelet |

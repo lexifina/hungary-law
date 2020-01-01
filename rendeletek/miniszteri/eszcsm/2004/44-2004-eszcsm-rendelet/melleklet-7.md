@@ -12,7 +12,7 @@
 
 ## Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 2/A. §-ában foglaltaknak megfelelően kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézettől indikáción túli gyógyszerrendelés engedélyezését az alábbiak szerint
 
-## ◻ sürgősséggel (amit külön mellékletben indokolok[^141])
+## ◻ sürgősséggel (amit külön mellékletben indokolok[^142])
 
 ## ◻ a szokásos eljárási rendben
 
@@ -66,7 +66,7 @@
 
 ## Az engedélyezni kért javallat:
 
-## Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^142]
+## Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^143]
 
 ## A gyógyszer tervezett adagolása:
 
@@ -88,8 +88,8 @@
 
 ## P. H.
 
-7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^143]
+7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^144]
 
-[^141]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
-[^142]: Részletes mellékletben.
-[^143]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.
+[^142]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
+[^143]: Részletes mellékletben.
+[^144]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.
