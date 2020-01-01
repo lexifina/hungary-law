@@ -1,6 +1,6 @@
 64. § (1) A pénztártevékenység folytatásának tárgyi és személyi feltétele:
 
-a) valamennyi pénztártípusnál a pénztártevékenység biztonságos folytatására alkalmas irodahelyiség, adószám, elnevezés és legalább mérlegképes könyvelői képesítéssel rendelkező alkalmazott, ha a pénztár nem helyezi ki gazdálkodásának nyilvántartását;
+a) valamennyi pénztártípusnál a pénztártevékenység biztonságos folytatására alkalmas irodahelyiség, adószám, elnevezés és legalább mérlegképes könyvelői szakképesítéssel rendelkező alkalmazott, ha a pénztár nem helyezi ki gazdálkodásának nyilvántartását;
 
 b) a nyugdíjpénztárnál befektetésekért felelős vezető vagy érvényes szerződés olyan szolgáltató szervezettel vagy vállalkozással, mely jogosult a pénztár befektetési üzletmenetének végzésére vagy alapjainak befektetésére;
 

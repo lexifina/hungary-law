@@ -2,7 +2,7 @@
 
 50/B. § (1) Az önsegélyező pénztár kiegészítő önsegélyező szolgáltatásként a következő szolgáltatásokat nyújthatja:
 
-a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
+a) gyermek születéséhez kapcsolódó ellátások, melyeket a pénztár a gyermeket nevelő szülő, örökbefogadó szülő vagy gyám részére biztosíthat. A gyermek születéséhez kapcsolódó ellátások a várandósság ideje alatt a magzat 91 napos korától megszületéséig, a gyermek megszületése, örökbefogadása, valamint a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás folyósítása esetén vehetőek igénybe;
 
 b) munkanélküliségi ellátások, melyeket a pénztár azon személyek részére nyújthatja, akiknek jövedelemszerző tevékenysége megszűnt és nyugellátásra nem jogosultak;
 
@@ -14,7 +14,7 @@ e) hátramaradottak segélyezése halál esetén, mely szolgáltatást a pénzt�
 
 f)
 
-g) nevelésiév-kezdési, tanévkezdési (beiskolázási) támogatás, mellyel a közoktatásról szóló törvényben meghatározott gyermek, tanuló számára, a rá tekintettel a családok támogatásáról szóló törvény szerint családi pótlékra jogosult személy által vásárolt tankönyv, taneszköz, ruházat árának, valamint a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt, Magyarország államilag elismert felsőoktatási intézményében hallgatói jogviszonnyal rendelkező 25. életévét be nem töltött természetes személy tekintetében kifizetett, költségtérítés (tandíj), térítési díj, kollégiumi díj, albérleti díj megtérítése biztosítható. A beiskolázási támogatás éves összege egy személy részére gyermekenként legfeljebb a tárgyév első napján érvényes havi minimálbér lehet;
+g) nevelésiév-kezdési, tanévkezdési (beiskolázási) támogatás, mellyel a köznevelésről szóló törvényben meghatározott gyermek, tanuló, illetve a szakképzésről szóló törvényben meghatározott tanuló, illetve képzésben részt vevő személy számára, a rá tekintettel a családok támogatásáról szóló törvény szerint családi pótlékra jogosult személy által vásárolt tankönyv, taneszköz, ruházat árának, valamint a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt, Magyarország államilag elismert felsőoktatási intézményében hallgatói jogviszonnyal rendelkező 25. életévét be nem töltött természetes személy tekintetében kifizetett, költségtérítés (tandíj), térítési díj, kollégiumi díj, albérleti díj megtérítése biztosítható. A beiskolázási támogatás éves összege egy személy részére gyermekenként legfeljebb a tárgyév első napján érvényes havi minimálbér lehet;
 
 h) gyógyszer és gyógyászati segédeszköz árának támogatása;
 
