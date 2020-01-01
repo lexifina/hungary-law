@@ -16,7 +16,7 @@ c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal növel
 
 a) az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
-b)[^24] az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség és szállásköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
+b)[^23] az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség és szállásköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
 c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
@@ -26,4 +26,4 @@ e) a képzésben résztvevő megváltozott munkaképességű munkavállalók min
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^24]: A 7. § (4) bekezdés b) pontja a 48/2018. (XII. 27.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^23]: A 7. § (4) bekezdés b) pontja a 48/2018. (XII. 27.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
