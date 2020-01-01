@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 11. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 2. § A 93/2007. (XII. 18.) KvVM rendelet 7. melléklete az 1. melléklet szerint módosul.

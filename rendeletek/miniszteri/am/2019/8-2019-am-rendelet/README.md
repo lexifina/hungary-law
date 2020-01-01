@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-8-20-7R
 | --- | --- | --- |
 | 2019-04-03 | 2019-8-20-7R.1 | 8/2019. (III. 26.) AM rendelet |
 | 2019-04-04 | 2019-8-20-7R.2 | 2010: CXXX. törvény |
+| 2020-01-01 | 2019-8-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
