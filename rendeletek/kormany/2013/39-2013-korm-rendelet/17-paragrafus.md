@@ -4,7 +4,7 @@
 
 17. § (1) Az e rendeletben foglaltak betartását
 
-a)[^59] a 4. § szerinti bejelentés tekintetében a kormányhivatal,
+a)[^59] a 4. § szerinti bejelentés tekintetében az NNK,
 
 b)[^60] a 11. §-ban foglaltak tekintetében a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal,
 
@@ -25,7 +25,7 @@ ellenőrzi, és hatáskörében eljár az e rendeletben foglaltak megsértése e
 (7)[^64] Cigaretta esetében a regisztrációs lapon közölt füstadatok értékfeltüntetésének megfelelőségét az MSZ ISO 8243 szabvány szerint kell igazolni.
 
 [^58]: A 8. alcím címe a 239/2016. (VIII. 16.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^59]: A 17. § (1) bekezdés a) pontja a 239/2016. (VIII. 16.) Korm. rendelet 20. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^59]: A 17. § (1) bekezdés a) pontja a 239/2016. (VIII. 16.) Korm. rendelet 20. § d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 115. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^60]: A 17. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 220. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^61]: A 17. § (2) bekezdése a 239/2016. (VIII. 16.) Korm. rendelet 20. § e) pontja, a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés a) pontja és (10) bekezdés d) pontja szerint módosított szöveg.
 [^62]: A 17. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (3) bekezdésével megállapított szöveg.
