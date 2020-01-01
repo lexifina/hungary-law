@@ -6,4 +6,4 @@ b) végelszámolásának kezdő időpontját
 
 követő napon.
 
-(2) A halgazdálkodási jog haszonbérletére vonatkozó haszonbérleti szerződést a miniszter azonnali hatállyal, kártalanítási kötelezettség nélkül felmondhatja, amennyiben a haszonbérlővel szemben 5 éven belül – az adott halgazdálkodási vízterület vonatkozásában – három alkalommal jogerősen halgazdálkodási bírságot szabott ki a halgazdálkodási hatóság.
+(2) A halgazdálkodási jog haszonbérletére vonatkozó haszonbérleti szerződést a miniszter azonnali hatállyal, kártalanítási kötelezettség nélkül felmondhatja, amennyiben a haszonbérlővel szemben 5 éven belül – az adott halgazdálkodási vízterület vonatkozásában – három alkalommal véglegessé vált döntésében halgazdálkodási bírságot szabott ki a halgazdálkodási hatóság.

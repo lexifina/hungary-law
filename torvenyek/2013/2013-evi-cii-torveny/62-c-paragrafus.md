@@ -50,6 +50,30 @@ f) a horgászati és horgászturisztikai szolgáltatások értékelési, minős�
 
 g) a nyilvántartott halgazdálkodási vízterületeket érintő horgászturisztikai fejlesztési igények, lehetőségek felkutatása, azok összehangolása.
 
+(4a) A (4) bekezdés a) és b) pontja szerinti nyilvántartásban (az e § alkalmazásában a továbbiakban együtt: nyilvántartás) a horgászszövetség kezeli a nyilvántartott természetes személy (a továbbiakban: nyilvántartott személy)
+
+a) természetes személyazonosító adatait,
+
+b) lakcímét,
+
+c) kézbesítési címét,
+
+d) telefonos és elektronikus elérhetőségét.
+
+(4b) Az adatfelvétel során a (4a) bekezdés a) és b) pontja szerinti adatokat – a hitelesség biztosítása érdekében – a nyilvántartott személy által
+
+a) személyesen vagy
+
+b) elektronikus ügyintézés esetén a videotechnológiával történő azonosítás során
+
+bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosításra alkalmas, arcképmását tartalmazó okmány, továbbá a (4a) bekezdés b) pontja szerinti adat esetében személyi azonosítót és lakcímet igazoló hatósági igazolvány vagy a lakcímet igazoló egyéb okmány alapján kell rögzíteni.
+
+(4c) A telefonos és elektronikus elérhetőség a nyilvántartott személy hozzájárulása esetén kerül rögzítésre.
+
+(4d) A (4a) bekezdés szerinti személyes adat – törvény eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbítható, és azt a horgászszövetség a nyilvántartott személynek a nyilvántartásból való törlését követő ötödik év végéig zártan kezeli.
+
+(4e) A nyilvántartott személy a (4a) bekezdés a)–c) pontjában meghatározott adatokban történt változást haladéktalanul, de legkésőbb az adatváltozás bekövetkezésétől számított 30 napon belül bejelenti a horgászszövetségnek azzal, hogy a (4a) bekezdés a) és b) pontja szerinti adatokban bekövetkezett változás bejelentése tekintetében a (4b) bekezdést alkalmazni kell.
+
 (5) A horgászszövetség a (2)–(3) bekezdésben meghatározott feladatokat az adott vízterület vonatkozásában a halgazdálkodásra jogosult hozzájárulása alapján végezheti.
 
 (6) A horgászszövetség közfeladat-ellátására vonatkozóan a miniszterrel közfeladat-ellátási szerződést kell kötni.

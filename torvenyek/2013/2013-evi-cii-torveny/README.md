@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-102-00-00
 | 2018-07-01 | 2017. évi CLXXXVI. törvény | 2013-102-00-00.16 |
 | 2018-12-31 | 2018. évi CXI. törvény | 2013-102-00-00.17 |
 | 2019-01-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-102-00-00.18 |
+| 2020-01-01 | 2019. évi CIV. törvény | 2013-102-00-00.19 |
