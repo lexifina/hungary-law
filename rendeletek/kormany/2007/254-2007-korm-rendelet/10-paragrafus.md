@@ -2,18 +2,21 @@
 
 (2)[^73] Az (1) bekezdésre figyelemmel a felek a vagyonkezelési szerződésben megállapodhatnak abban, hogy a vagyonkezelő ellenértékként előre meghatározott pénzösszeget fizet meg. A díjfizetés gyakoriságát és összegét a vagyonkezelési szerződés tartalmazza azzal, hogy a felek a díj egyösszegű megfizetésében is megállapodhatnak. Amennyiben a vagyonkezelő a szerződés alapján díjfizetésre köteles, annak elmulasztása esetén a tulajdonosi joggyakorló – amennyiben a vagyonkezelőt harminc napos határidő tűzésével és a következményekre való figyelmeztetéssel a hátralék megfizetésére írásban felszólította, és a vagyonkezelő e határidő elteltéig nem fizetett – a szerződést azonnali hatállyal felmondhatja.
 
-(3)[^74] A felek megállapodhatnak abban, hogy a vagyonkezelő nem díjfizetési, hanem a szerződésben meghatározott más kötelezettséget teljesít, így például valamely előre meghatározott tevékenységet lát el, vagy más ellenszolgáltatást nyújt. A vagyon értékét növelő beruházást, felújítást valamint új – állami vagyonba tartozó – eszköz létrehozását ellenértékként nem lehet kikötni, ha azt az egyéb vagyonkezelő a vagyonkezelt vagyon értékének megőrzése érdekében az őt terhelő kötelezettségek teljesítése érdekében végzi.
+(2a)[^74] Vagyonkezelési díjfizetésnek minősül az állami vagyonnal folytatott közfeladat ellátás körén kívüli tevékenységből származó bevétel részleges átengedése is, amelyről a felek a vagyonkezelési szerződésben állapodhatnak meg.
 
-(4)[^75] A felek megállapodhatnak abban, hogy a vagyonkezelő a fennálló visszapótlási kötelezettségének összegéig vagy ennek hiányában az általa vagyonkezelt vagyon összességére elszámolt értékcsökkenése erejéig köteles beruházást, felújítást, új eszköz létesítését elvégezni. Amennyiben a vagyonkezelési szerződés alapján a vagyonkezelő a vagyon értékét növelő beruházás, felújítás vagy új – állami vagyonba tartozó – eszköz létrehozására köteles, annak a vagyonkezelési szerződésben előírt módon meghatározott és a tulajdonosi joggyakorló részére igazolt értékét a tulajdonosi joggyakorló – a vagyonkezelési szerződésben meghatározottak szerint – a vagyonkezelőt terhelő visszapótlási kötelezettséggel szemben számolhatja el.
+(3)[^75] A felek megállapodhatnak abban, hogy a vagyonkezelő nem díjfizetési, hanem a szerződésben meghatározott más kötelezettséget teljesít, így például valamely előre meghatározott tevékenységet lát el, vagy más ellenszolgáltatást nyújt. A vagyon értékét növelő beruházást, felújítást valamint új – állami vagyonba tartozó – eszköz létrehozását ellenértékként nem lehet kikötni, ha azt az egyéb vagyonkezelő a vagyonkezelt vagyon értékének megőrzése érdekében az őt terhelő kötelezettségek teljesítése érdekében végzi.
 
-(5)[^76] A (3) és (4) bekezdésben meghatározott esetekben a vagyonkezelő által teljesítendő tevékenység, szolgáltatás, beruházás, felújítás vagy kötelezettség teljesítésének elfogadása során a közbeszerzésekre vonatkozó jogszabályi rendelkezések szerint kell eljárni.
+(4)[^76] A felek megállapodhatnak abban, hogy a vagyonkezelő a fennálló visszapótlási kötelezettségének összegéig vagy ennek hiányában az általa vagyonkezelt vagyon összességére elszámolt értékcsökkenése erejéig köteles beruházást, felújítást, új eszköz létesítését elvégezni. Amennyiben a vagyonkezelési szerződés alapján a vagyonkezelő a vagyon értékét növelő beruházás, felújítás vagy új – állami vagyonba tartozó – eszköz létrehozására köteles, annak a vagyonkezelési szerződésben előírt módon meghatározott és a tulajdonosi joggyakorló részére igazolt értékét a tulajdonosi joggyakorló – a vagyonkezelési szerződésben meghatározottak szerint – a vagyonkezelőt terhelő visszapótlási kötelezettséggel szemben számolhatja el.
 
-(6)[^77] Koncessziós pályázat nyertesével vagyonkezelési szerződés nem köthető.
+(5)[^77] A (3) és (4) bekezdésben meghatározott esetekben a vagyonkezelő által teljesítendő tevékenység, szolgáltatás, beruházás, felújítás vagy kötelezettség teljesítésének elfogadása során a közbeszerzésekre vonatkozó jogszabályi rendelkezések szerint kell eljárni.
+
+(6)[^78] Koncessziós pályázat nyertesével vagyonkezelési szerződés nem köthető.
 
 [^71]: A 10. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^72]: A 10. § (1) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § a) pontja, a 244/2015. (IX. 8.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
 [^73]: A 10. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^74]: A 10. § (3) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^75]: A 10. § (4) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^76]: A 10. § (5) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^77]: A 10. § (6) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^74]: A 10. § (2a) bekezdését a 331/2019. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^75]: A 10. § (3) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^76]: A 10. § (4) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^77]: A 10. § (5) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^78]: A 10. § (6) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
