@@ -72,13 +72,7 @@
 
 ## Határidő: a 7. pont végrehajtásával összhangban
 
-## 9. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva a Kemény Ferenc Program előkészítése és ütemezett megvalósítása érdekében 744,8 millió forint egyszeri jellegű átcsoportosítását rendeli el a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 17. Nemzeti Olimpiai Központ beruházás támogatása jogcímcsoporton terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 45. Kiemelt Kormányzati Beruházások Központja működési támogatása alcím javára, a 2. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 9.[^1]
 
 ## 10. felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 9. pont szerinti forrás a KKBK Zrt. által felhasználható módon, e célokra rendelkezésre álljon, kiemelve a következő munkarészeket:
 
@@ -102,8 +96,11 @@
 
 ## Határidő: a 7. ponthoz igazodva
 
-## 12–13.[^1]
+## 12–13.[^2]
 
 1. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz
 
-[^1]: A 12–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+Kemény Ferenc Sportlétesítmény-fejlesztési Program (2017–2022)
+
+[^1]: A 9. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 12–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
