@@ -42,4 +42,6 @@ q) arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arck
 
 (3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
 
-(4)–(5)
+(4)
+
+(5)

@@ -18,6 +18,4 @@ f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljá
 
 g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
-(2)
-
-(3)
+(2)–(3)

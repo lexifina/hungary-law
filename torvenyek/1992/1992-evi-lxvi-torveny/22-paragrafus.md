@@ -23,3 +23,5 @@ j) az értesítési cím adatok, állampolgárság, családi állapot, a házass
 k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez;
 
 l) A Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott feladatai ellátásához;
+
+m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolgálat a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése, valamint 11. § (1) bekezdése szerinti feladata körében a hozzátartozó felkutatása, felvilágosítása, illetve értesítése céljából.
