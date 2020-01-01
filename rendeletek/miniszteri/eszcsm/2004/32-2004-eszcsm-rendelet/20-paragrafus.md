@@ -1,3 +1,3 @@
-20. §[^60]
+20. §[^62]
 
-[^60]: A 20. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § g) pontja hatályon kívül helyezte.
+[^62]: A 20. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § g) pontja hatályon kívül helyezte.

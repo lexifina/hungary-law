@@ -1,4 +1,4 @@
-5/A. §[^19] (1) A 2. és 3. számú mellékletekben szereplő indikációs pontokban foglaltak alapján társadalombiztosítási támogatással, szakorvosi javaslatra rendelhető gyógyszer esetén a szakorvos a szakorvosi javaslatot a „Szakorvosi javaslat támogatással történő gyógyszerrendeléshez” című űrlapon a (2) bekezdés szerinti tartalommal adja meg.
+5/A. §[^19] (1)[^20] A 2. és 3. számú mellékletben szereplő indikációs pontokban foglaltak alapján társadalombiztosítási támogatással, szakorvosi javaslatra rendelhető gyógyszer esetén a szakorvos a szakorvosi javaslatot a „Szakorvosi javaslat támogatással történő gyógyszerrendeléshez” című űrlapon vagy az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) útján elektronikusan, a (2) bekezdés szerinti tartalommal adja meg. Az EESZT útján kiállított szakorvosi javaslat esetében a szakorvos a beteg kérésére papíralapú igazolást állít ki a szakorvosi javaslatról.
 
 (2) A szakorvosi javaslaton az alábbi adatokat kell feltüntetni:
 
@@ -8,15 +8,17 @@ b) a szakorvosi javaslat keltét, időtartamát,
 
 c) a beteg nevét, lakcímét, születési idejét és a TAJ számát, valamint betegségének a betegségek nemzetközi osztályozása szerinti kódját (BNO kód),
 
-d)[^20] az orvos nevét, orvosi bélyegzőjének számát, munkahelyének (rendelőjének) címét, telefonszámát és egészségügyi vállalkozás esetén az egészségügyi tevékenység végzésére jogosító működési engedély számát,
+d)[^21] az orvos nevét, orvosi bélyegzőjének számát, munkahelyének (rendelőjének) címét, telefonszámát és egészségügyi vállalkozás esetén az egészségügyi tevékenység végzésére jogosító működési engedély számát,
 
 e) a felírási jogosultságot meghatározó indikációs pont sorszámát, a támogatási kategóriát (kiemelt, emelt), és emelt támogatási kategória esetén a támogatás százalékos mértékét,
 
 f) a javasolt gyógyszer hatóanyagát, hatáserősségét, beviteli módját, javasolt adagolását,
 
-g) az orvos saját kezű aláírását és orvosi bélyegzőjének azonosítható lenyomatát.
+g)[^22] űrlap esetén az orvos saját kezű aláírását és orvosi bélyegzőjének azonosítható lenyomatát, az EESZT útján történő kiállítása esetén a szakorvos alap- és működési nyilvántartás szerinti alapnyilvántartási számát.
 
 (3) A szakorvosi javaslaton opcionálisan feltüntethető példaként a szakorvos által javasolt hatóanyag egy konkrét márkanevű készítménye, a javaslat alapján felíró orvos azonban a javasolt hatóanyagon belül bármely márkanevű készítményt rendelheti betege számára.
 
 [^19]: Az 5/A. §-t a 45/2008. (XII. 3.) EüM rendelet 3. §-a iktatta be.
-[^20]: Az 5. § (2) bekezdésének d) pontja a 6/2009. (III. 20.) EüM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.
+[^20]: Az 5/A. § (1) bekezdése a 14/2019. (VII. 26.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: Az 5. § (2) bekezdésének d) pontja a 6/2009. (III. 20.) EüM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.
+[^22]: Az 5/A. § (2) bekezdés g) pontja a 14/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.

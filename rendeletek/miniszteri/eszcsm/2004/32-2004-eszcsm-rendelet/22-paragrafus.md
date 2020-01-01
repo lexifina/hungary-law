@@ -1,3 +1,3 @@
-22. §[^73]
+22. §[^75]
 
-[^73]: A 22. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § h) pontja hatályon kívül helyezte.
+[^75]: A 22. §-t a 8/2018. (II. 13.) EMMI rendelet 20. § h) pontja hatályon kívül helyezte.
