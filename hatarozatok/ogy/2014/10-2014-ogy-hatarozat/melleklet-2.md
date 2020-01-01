@@ -86,7 +86,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 42. Házelnöki döntés iromány visszautasításáról /29. § (3) bekezdése, 121. § (4) bekezdése, 125. § (4) bekezdése/
 
-42a.[^26] Helyesbítési javaslat /104. § (2) bekezdése/
+42a.[^35] Helyesbítési javaslat /104. § (2) bekezdése/
 
 43. Írásbeli válasz interpellációra/kérdésre /az Országgyűlésről szóló törvény 42. § (4) bekezdése és 42. § (8) bekezdése/
 
@@ -176,7 +176,7 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 86. Összegző módosító javaslat /46. § (5) bekezdése, 93. § (1) bekezdése/
 
-87.[^27] Részletes vitát lezáró bizottsági módosító javaslat /45. § (5) bekezdése, 92. § (6) bekezdése/
+87.[^36] Részletes vitát lezáró bizottsági módosító javaslat /45. § (5) bekezdése, 92. § (6) bekezdése/
 
 88. Sürgősségi javaslat /60. § (1) bekezdése/
 
@@ -198,14 +198,14 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 97. Túlterjeszkedő módosító javaslat /70. § (1) bekezdése, 71. § (2) bekezdése/
 
-98.[^28] Zárószavazás előtti jelentés /53. § (3) bekezdése/
+98.[^37] Zárószavazás előtti jelentés /53. § (3) bekezdése/
 
-99.[^29] Zárószavazás előtti módosító javaslat /53. § (2) és (4) bekezdése/
+99.[^38] Zárószavazás előtti módosító javaslat /53. § (2) és (4) bekezdése/
 
-100.[^30] Zárószavazást előkészítő módosító javaslat /52. §/
+100.[^39] Zárószavazást előkészítő módosító javaslat /52. §/
 
-[^26]: A 2. melléklet 42a. pontját a 13/2019. (IV. 2.) OGY határozat 2. §-a iktatta be.
-[^27]: A 2. melléklet 87. pontja a 13/2019. (IV. 2.) OGY határozat 2. §-ával megállapított szöveg.
-[^28]: A 2. melléklet 98. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
-[^29]: A 2. melléklet 99. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
-[^30]: A 2. melléklet 100. pontját a 21/2014. (VI. 3.) OGY határozat 13. §-a iktatta be.
+[^35]: A 2. melléklet 42a. pontját a 13/2019. (IV. 2.) OGY határozat 2. §-a iktatta be.
+[^36]: A 2. melléklet 87. pontja a 13/2019. (IV. 2.) OGY határozat 2. §-ával megállapított szöveg.
+[^37]: A 2. melléklet 98. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
+[^38]: A 2. melléklet 99. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
+[^39]: A 2. melléklet 100. pontját a 21/2014. (VI. 3.) OGY határozat 13. §-a iktatta be.

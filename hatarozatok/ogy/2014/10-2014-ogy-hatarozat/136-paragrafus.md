@@ -1,4 +1,4 @@
-## XI. Fejezet[^20]
+## XI. Fejezet[^28]
 
 ## AZ IROMÁNY-NYILVÁNTARTÁS
 
@@ -14,4 +14,4 @@ c) az irományokkal összefüggő olyan, a plenáris és bizottsági eseményekr
 
 (2) Az irományokról bármely országgyűlési bizottság, képviselő vagy szószóló kérésére az Országgyűlés Hivatala másolatot készít.
 
-[^20]: A XI. fejezet (136–137/A. §) a 36/2018. (XII. 13.) OGY határozat 2. §-ával megállapított szöveg.
+[^28]: A XI. fejezet (136–137/A. §) a 36/2018. (XII. 13.) OGY határozat 2. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 33. Vita és döntés a második összegző módosító javaslatról
 
-49. § (1)[^6] A második összegző módosító javaslatnak a fenntartott módosító javaslattal összefüggő pontjairól az Országgyűlés a 47. § szerint vitát folytat azzal, hogy a tárgyaló bizottság nem állít előadót.
+49. § (1)[^14] A második összegző módosító javaslatnak a fenntartott módosító javaslattal összefüggő pontjairól az Országgyűlés a 47. § szerint vitát folytat azzal, hogy a tárgyaló bizottság nem állít előadót.
 
 (2) A második összegző módosító javaslatról – a (3) és az (5) bekezdésben meghatározott kivétellel – az Országgyűlés egyetlen szavazással dönt. A döntést közvetlenül megelőzően – ha az előterjesztő a 47. § (9) bekezdésében meghatározottak szerint nem mondott zárszót – az előterjesztő, majd – ha nem a Kormány az előterjesztő – a Kormány képviselője öt-ötperces időtartamban nyilatkozhat arról, hogy egyetért-e a második összegző módosító javaslattal.
 
@@ -10,4 +10,4 @@
 
 (5) Ha a szavazás során minősített többséget igénylő döntés is szükséges, a szavazást két részletben kell lefolytatni úgy, hogy először a minősített többséget igénylő döntést kell meghozni.
 
-[^6]: A 49. § (1) bekezdése a 21/2014. (VI. 3.) OGY határozat 3. §-ával megállapított szöveg.
+[^14]: A 49. § (1) bekezdése a 21/2014. (VI. 3.) OGY határozat 3. §-ával megállapított szöveg.

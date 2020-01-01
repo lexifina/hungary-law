@@ -1,10 +1,10 @@
-## 38. [^9] A zárószavazás előtti jelentés és a zárószavazás előtti módosító javaslat vitája
+## 38. [^17] A zárószavazás előtti jelentés és a zárószavazás előtti módosító javaslat vitája
 
-54. § (1)[^10] Az Országgyűlés – zárószavazás előtti módosító javaslat benyújtása esetén – a zárószavazás előtti jelentést és a zárószavazás előtti módosító javaslatot megvitatja.
+54. § (1)[^18] Az Országgyűlés – zárószavazás előtti módosító javaslat benyújtása esetén – a zárószavazás előtti jelentést és a zárószavazás előtti módosító javaslatot megvitatja.
 
-(2)[^11] Az (1) bekezdés szerinti vitában elsőként a törvényalkotási bizottság által kijelölt előadó, majd – ha a törvényalkotási bizottságban van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. E felszólalásokra összesen tizenöt perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, hét percet annak kifejtésére kell biztosítani.
+(2)[^19] Az (1) bekezdés szerinti vitában elsőként a törvényalkotási bizottság által kijelölt előadó, majd – ha a törvényalkotási bizottságban van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. E felszólalásokra összesen tizenöt perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, hét percet annak kifejtésére kell biztosítani.
 
-(3)[^12] A vitában ezt követően
+(3)[^20] A vitában ezt követően
 
 a) a képviselők képviselőcsoportonként öt-ötperces,
 
@@ -18,7 +18,7 @@ időtartamban szólalhatnak fel.
 
 (4) Az Országgyűlés e felszólalásokra a Házbizottság javaslata alapján a (3) bekezdésben meghatározottaknál hosszabb időtartamot is megállapíthat. Az Országgyűlés a Házbizottság javaslatáról vita nélkül, a napirendi javaslat elfogadásával egyidejűleg, kézfelemeléssel dönt.
 
-[^9]: A 38. alcím címe a 21/2014. (VI. 3.) OGY határozat 14. §-a szerint módosított szöveg.
-[^10]: Az 54. § (1) bekezdése a 21/2014. (VI. 3.) OGY határozat 5. §-ával megállapított szöveg.
-[^11]: Az 54. § (2) bekezdése a 21/2014. (VI. 3.) OGY határozat 5. §-ával megállapított szöveg.
-[^12]: Az 54. § (3) bekezdése a 21/2014. (VI. 3.) OGY határozat 5. §-ával megállapított szöveg.
+[^17]: A 38. alcím címe a 21/2014. (VI. 3.) OGY határozat 14. §-a szerint módosított szöveg.
+[^18]: Az 54. § (1) bekezdése a 21/2014. (VI. 3.) OGY határozat 5. §-ával megállapított szöveg.
+[^19]: Az 54. § (2) bekezdése a 21/2014. (VI. 3.) OGY határozat 5. §-ával megállapított szöveg.
+[^20]: Az 54. § (3) bekezdése a 21/2014. (VI. 3.) OGY határozat 5. §-ával megállapított szöveg.
