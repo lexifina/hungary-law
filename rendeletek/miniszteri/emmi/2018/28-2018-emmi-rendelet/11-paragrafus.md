@@ -1,8 +1,7 @@
 ## 11. § A 22/2012. (IX. 14.) EMMI rendelet
 
-a)[^16]
+a) 1. melléklet 3a. pontjában foglalt táblázat B:2 mezőjében a „dento-alveoláris sebész” szövegrész helyébe a „dento-alveoláris sebész vagy fogpótlástan,” szöveg,
 
-b)[^17]
+b)[^16]
 
-[^16]: A 11. § a) pontja a 15. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^17]: A 11. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
