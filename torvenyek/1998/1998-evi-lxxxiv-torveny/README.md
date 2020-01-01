@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-84-00-00
 | 2019-02-01 | 2018. évi CXV. törvény | 1998-84-00-00.56 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 1998-84-00-00.57 |
 | 2019-07-01 | 2015. évi CCXXIII. törvény | 1998-84-00-00.58 |
+| 2020-01-01 | 2018. évi CXVII. törvény | 1998-84-00-00.59 |

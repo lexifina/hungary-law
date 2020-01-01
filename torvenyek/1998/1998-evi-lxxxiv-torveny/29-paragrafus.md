@@ -2,13 +2,13 @@
 
 ## ANYASÁGI TÁMOGATÁS
 
-29. § (1) Anyasági támogatásra jogosult a szülést követően
+29. § (1) Anyasági támogatásra jogosult
 
-a) az a nő, aki várandóssága alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – várandósgondozáson vett részt;
+a) a szülést követően az a nő, aki várandóssága alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – várandósgondozáson vett részt;
 
-b) az örökbefogadó szülő, ha a szülést követő hat hónapon belül az örökbefogadást végleges határozatban engedélyezték;
+b) az örökbefogadó szülő, ha az örökbefogadást véglegessé vált határozatban engedélyezték, és a gyermeket a végleges engedélyezés időpontját megelőzően legfeljebb egy éve nevelte folyamatosan saját háztartásában;
 
-c) a gyám, ha a gyermek a születését követően hat hónapon belül – végleges határozat alapján – a gondozásába kerül.
+c) a gyám, ha a gyermek a születését követően hat hónapon belül – véglegessé vált határozat alapján – a gondozásába kerül.
 
 (2) Az anyasági támogatás az (1) bekezdés a) pontja szerinti jogosultat akkor is megilleti, ha a gyermek halva született.
 

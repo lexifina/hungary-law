@@ -6,7 +6,7 @@ a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a
 
 aa) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évének november 1-jétől a tankötelezettség teljes időtartamára, valamint
 
-ab) a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
+ab) a tankötelezettsége megszűnését követően köznevelési intézményben vagy szakképző intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
 
 b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló,
 
@@ -36,4 +36,4 @@ annak a tanévnek az utolsó napjáig, amelyben a huszadik – a fogyatékos sze
 
 (4) Az iskoláztatási támogatást a tankötelezettség fennállása alatt a tanulói jogviszony szünetelésének időtartamára is folyósítani kell.
 
-(5) A tanulói jogviszony és a hallgatói jogviszony egyidejű fennállása esetén az iskoláztatási támogatásra való jogosultság akkor állapítható meg, ha a tanulói jogviszony a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti középfokú iskolában áll fenn. A családi pótlék összegének megállapítása szempontjából az egyidejűleg tanulói és hallgatói jogviszonnyal is rendelkező gyermek a 12. § (1) bekezdés a) pont aa) alpontjában foglalt jogcímen vehető figyelembe.
+(5) A tanulói jogviszony, a hallgatói jogviszony, illetve a felnőttképzési jogviszony egyidejű fennállása esetén az iskoláztatási támogatásra való jogosultság akkor állapítható meg, ha a tanulói jogviszony a nemzeti köznevelésről szóló törvény szerinti középfokú iskolával vagy a felnőttképzési jogviszony a szakképzésről szóló törvény szerinti szakképző intézménnyel szemben áll fenn. A családi pótlék összegének megállapítása szempontjából az egyidejűleg tanulói jogviszonnyal, hallgatói jogviszonnyal, illetve felnőttképzési jogviszonnyal is rendelkező gyermek a 12. § (1) bekezdés a) pont aa) alpontjában foglalt jogcímen vehető figyelembe.

@@ -1,1 +1,1 @@
-50/A. §
+50/A. § Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 29. § (1) bekezdés b) pontja szerinti anyasági támogatásra való jogosultságra vonatkozó rendelkezéseket – ha az egyéb jogosultsági feltételek fennállnak – a 2019. december 31-ét követően véglegessé vált határozatban engedélyezett örökbefogadások esetén kell alkalmazni.

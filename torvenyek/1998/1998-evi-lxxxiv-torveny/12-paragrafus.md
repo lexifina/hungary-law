@@ -4,7 +4,7 @@ a) aki az igénylő háztartásában él, és
 
 aa) akire tekintettel a szülő, a nevelőszülő, a gyám családi pótlékra jogosult,
 
-ab) aki köznevelési intézmény tanulója vagy felsőoktatási intézményben első felsőfokú szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
+ab) aki köznevelési intézmény tanulója vagy felsőoktatási intézményben első felsőoktatási szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
 
 ac) aki a családi pótlékra – a 8. § (3) bekezdés e) pontja szerinti eset kivételével – saját jogán jogosult; vagy
 

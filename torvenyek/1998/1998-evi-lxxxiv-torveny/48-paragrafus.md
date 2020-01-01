@@ -1,4 +1,4 @@
-48. § (1) A családtámogatási igazgatási eljárás során az igényelbíráló szerv a 45. § (1)–(2) bekezdésében meghatározott körben adatot kérhet az Egészségbiztosítási Alap kezeléséért felelős szervtől, illetve az egészségbiztosítási szervtől, továbbá a polgárok személyi adatait és lakcímét nyilvántartó szervtől a családtámogatási ellátásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából.
+48. § (1) A családtámogatási igazgatási eljárás során a központi családtámogatási szerv a 45. § (1)–(2) bekezdésében meghatározott körben adatot kérhet az egészségbiztosítási szervtől, továbbá a polgárok személyi adatait és lakcímét nyilvántartó szervtől a családtámogatási ellátásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából.
 
 (2) A központi családtámogatási szerv megkeresésére az Egészségbiztosítási Alap kezeléséért felelős szerv, továbbá az egészségbiztosítási szerv a családtámogatási ellátásra való jogosultság fennállásának ellenőrzése céljából TAJ-számon csoportos adatszolgáltatást teljesít nyilvántartásából az egészségbiztosítás pénzbeli ellátásaiban részesülő személyekről.
 

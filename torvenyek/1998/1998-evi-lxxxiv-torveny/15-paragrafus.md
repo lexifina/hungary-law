@@ -1,10 +1,12 @@
 ## Az óvodai nevelésben való részvételi kötelezettség megszegésével, valamint a tankötelezettség mulasztásával összefüggő rendelkezések
 
-15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény vezetőjének jelzése alapján a gyámhatóság
+15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi, vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény vezetője
 
-a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
+a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
 
-b) az adott nevelési évben igazolatlanul mulasztott huszadik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a családtámogatási ügyben eljáró hatóságnál az ellátás szüneteltetését.
+b) az adott nevelési évben igazolatlanul mulasztott huszadik óvodai nevelési nap vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után kezdeményezi a családtámogatási ügyben eljáró hatóságnál az ellátás szüneteltetését.
+
+(1a) A nevelési-oktatási intézmény vezetője az (1) bekezdésben foglalt felhívásokat tájékoztatásul megküldi a gyámhatóság részére is.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha az óvodai nevelésben való részvételi kötelezettséget olyan gyermek szegi meg, illetve a kötelező tanórai foglalkozások tekintetében olyan gyermek mulaszt igazolatlanul,
 
