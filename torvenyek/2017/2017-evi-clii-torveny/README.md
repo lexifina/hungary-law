@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-152-00-00
 | 2019-01-01 | 2018. évi LXXXII. törvény | 2017-152-00-00.9 |
 | 2019-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-152-00-00.10 |
 | 2019-07-24 | 2010. évi CXXX. törvény | 2017-152-00-00.11 |
+| 2020-01-01 | 2019. évi C. törvény | 2017-152-00-00.12 |

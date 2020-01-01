@@ -16,7 +16,7 @@ b) amely határozatlan időre szól, akkor a Vámkódex 89. cikk (5) bekezdése 
 
 amelyet követően a biztosíték felszabadítása felől haladéktalanul intézkedik.
 
-(6) Ha a vámhatóság azt állapítja meg, hogy behozatali vagy kiviteli vámok összegére és az egyéb terhekre nyújtott biztosíték alapjául szolgáló vámtartozás már megszűnt vagy az egyáltalán nem merült fel, és a vámhatósági nyilvántartás adatai szerint a továbbiakban már nem is merülhet fel, akkor az (2)–(5) bekezdéstől eltérően a biztosítékot felszabadítása felől haladéktalanul intézkedik.
+(6) Ha a vámhatóság azt állapítja meg, hogy behozatali vagy kiviteli vámok összegére és az egyéb terhekre nyújtott biztosíték alapjául szolgáló vámtartozás már megszűnt vagy az egyáltalán nem merült fel, és a vámhatósági nyilvántartás adatai szerint a továbbiakban már nem is merülhet fel, akkor a (2)–(5) bekezdéstől eltérően a biztosíték felszabadítása felől haladéktalanul intézkedik.
 
 (7) A (3) bekezdésben foglaltakat a Vámkódex 97. cikke és a VA 244. cikke értelmében megkövetelt kiegészítő biztosítékra is alkalmazni kell, ha azt egyedi biztosíték formájában nyújtják.
 

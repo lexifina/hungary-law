@@ -4,4 +4,4 @@
 
 (2) A vámigazgatási bírság végrehajthatósága az arról szóló döntés véglegessé válásától számított 3 év elteltével évül el.
 
-(3) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, a bírság megfizetésére kötelezett vagyonának egészére elrendelt bűnügyi zárlatnak, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
+(3) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, a bírság megfizetésére kötelezett vagyonára büntetőeljárásban elrendelt zár alá vételnek, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.

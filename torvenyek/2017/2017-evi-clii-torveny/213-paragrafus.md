@@ -40,9 +40,9 @@
 
 19. a vámmentes vámeljárás végrehajtásának részletes szabályait,
 
-20.
+20. a vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, a vámtanácsadói, illetve vámügynöki igazolvány pótlásáért, a nyilvántartásban szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért, valamint a kreditpont-minősítési eljárásért fizetendő igazgatási szolgáltatási díj mértékét,
 
-21. a vámjogi szakértői hatósági képzés és hatósági vizsga részletszabályait, továbbá a vámjogi szakértői hatósági képzést lebonyolító képző szervek, és a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartásba-vételi eljárásának szabályait, valamint a hatósági vizsga és a vizsgabizottság díjának mértékére és megfizetésére vonatkozó szabályokat
+21.
 
 rendeletben állapítsa meg.
 

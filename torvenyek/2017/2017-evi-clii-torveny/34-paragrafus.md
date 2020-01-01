@@ -6,7 +6,7 @@
 
 ### 34. § [Vámjogi képviselet]
 
-(1) Más tagállamban letelepedett és a Vámkódex 39. cikk a)–d) pontjában megállapított feltételeknek megfelelő személy vámjogi képviselőként való, a Vámkódex 18. cikk (3) bekezdése szerinti eljárásához
+(1) Az Európai Unió más tagállamában letelepedett és a Vámkódex 39. cikk a)–d) pontjában megállapított feltételeknek megfelelő személy vámjogi képviselőként való, a Vámkódex 18. cikk (3) bekezdése szerinti eljárásához
 
 a) érvényes engedélyezett gazdálkodói engedély, vagy a Vámkódex 39. cikk a)–d) pontjában megállapított feltételeknek való megfelelésről a letelepedés helye szerinti vámhatóság által kiadott igazolás bemutatása és
 
