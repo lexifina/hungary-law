@@ -12,17 +12,9 @@
 
 ## 1.6.[^6]
 
-## 1.7. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva elrendeli a Belügyminisztérium budai Várnegyedben történő elhelyezéséhez kapcsolódó további intézkedések finanszírozásához 60,0 millió forint egyszeri jellegű átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 1. Belügyminisztérium igazgatása cím javára, az 1. melléklet szerint;
+## 1.7.[^7]
 
-## Felelős: az átcsoportosítás tekintetében a nemzetgazdasági miniszter
-
-## az elszámolás és a visszatérítés tekintetében a belügyminiszter
-
-## Határidő: az átcsoportosítás tekintetében azonnal
-
-## az elszámolás és a visszatérítés tekintetében 2017. június 30.
-
-## 1.8.[^7]
+## 1.8.[^8]
 
 ## 1.9. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket
 
@@ -60,63 +52,11 @@
 
 ## Határidő: a Belügyminisztérium Budavárban történő elhelyezéséhez szükséges ingatlanok közműcsatlakozást érintő közterületi munkáinak befejezését követő 30 napon belül
 
-## 1.12.[^8]
+## 1.12.[^9]
 
-## 2.[^9]
+## 2.[^10]
 
-1. melléklet az 1620/2016. (XI. 11.) Korm. határozathoz
-
-| XI. Miniszterelnökség XIV. Belügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2016. Millió forintban, egy tizedessel |
-
-| ÁHT egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 297102 |  | 32 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -60,0 |  |  |  |
-
-|  | XIV. |  |  |  |  |  | Belügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 003704 |  | 1 |  |  |  |  |  | Belügyminisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 60,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| ÁHT. egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XIV. |  |  |  |  |  | Belügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 003704 |  | 1 |  |  |  |  |  | Belügyminisztérium igazgatása |  |  |  |  |  |  |  |  |  |  | 60,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: azonnal |  |  | 60,0 |  |  |  |  |  |  |  |  |  |  |  | 60,0 |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1. melléklet az 1620/2016. (XI. 11.) Korm. határozathoz[^11]
 
 [^1]: Az 1. pont 1.1. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
 [^2]: Az 1. pont 1.2. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
@@ -124,6 +64,8 @@
 [^4]: Az 1. pont 1.4. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
 [^5]: Az 1. pont 1.5. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
 [^6]: Az 1. pont 1.6. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
-[^7]: Az 1. pont 1.8. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
-[^8]: Az 1. pont 1.12. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. pont 1.7. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^8]: Az 1. pont 1.8. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^9]: Az 1. pont 1.12. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
