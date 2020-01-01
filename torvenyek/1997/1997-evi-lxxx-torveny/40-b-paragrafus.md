@@ -33,3 +33,5 @@ n) érvényváltozás és a változás bejegyzés időpontja(i) (jogcím, passzi
 o) elhalálozás időpontja és helye.
 
 (3) A TAJ nyilvántartásban szereplő személyes adatokat a kincstár központi szerve az érintett természetes személy elhunytát követő 30 évig kezeli.
+
+(4) A kincstár központi szerve a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § t) pontjában és 30. § (1) bekezdés h) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.

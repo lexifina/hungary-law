@@ -10,7 +10,7 @@ Tbj. 31. § (1) Több biztosítási kötelezettséggel járó jogviszony egyid
 
 a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
 
-b) az egyéni vállalkozó, a társas vállalkozó a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat.
+b) az egyéni vállalkozó, a társas vállalkozó köznevelési intézményben, szakképző intézményben vagy felsőoktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat.
 
 A heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
 

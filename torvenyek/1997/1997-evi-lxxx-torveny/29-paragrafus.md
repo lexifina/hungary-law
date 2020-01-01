@@ -8,11 +8,11 @@ Tbj. 29. § (1)
 
 (4) Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles nyugdíjjárulékot és egészségbiztosítási- és munkaerő-piaci járulékot fizetni arra az időtartamra, amely alatt
 
-a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül,
+a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül,
 
 b) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül – kivéve, ha a gyermekgondozást segítő ellátás, a gyermekgondozási segély, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
 
-c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban, gyermekgondozási segélyben egyidejűleg részesül
+c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban, gyermekgondozási segélyben egyidejűleg részesül
 
 d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 

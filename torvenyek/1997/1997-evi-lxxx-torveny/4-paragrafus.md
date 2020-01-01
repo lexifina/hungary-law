@@ -8,7 +8,7 @@ a) Foglalkoztató:
 
 1. bármely jogi és természetes személy, egyéni vállalkozó, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat;
 
-2. a szakképzésről szóló törvényben meghatározott tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a tanulószerződés megkötésére jogosult szervezet,
+2.
 
 3. társas vállalkozó esetén a társas vállalkozás;
 
@@ -108,7 +108,7 @@ j) Külföldi: az a természetes személy, aki nem minősül belföldinek.
 
 k) Járulékalapot képező jövedelem:
 
-1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződés alapján ténylegesen kifizetett díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
+1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a szakképzési munkaszerződés alapján ténylegesen kifizetett pénzbeli juttatás, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
 
 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott alapbér; ha a munkát munkavégzésre irányuló egyéb jogviszony vagy külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege,
 
@@ -132,9 +132,7 @@ o) Magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó:
 
 2. az Mpt. 3. §-ában meghatározott személy.
 
-p) Tanulószerződés:
-
-a a szakképzésről szóló törvény szerinti tanulószerződés.
+p)
 
 q) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony teljes munkaidős foglalkoztatási jogviszonynak minősül.
 

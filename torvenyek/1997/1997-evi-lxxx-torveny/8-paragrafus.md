@@ -2,7 +2,7 @@ Tbj. 8. § Szünetel a biztosítás:
 
 a) a fizetés nélküli szabadság ideje alatt, kivéve, ha
 
-aa) a fizetés nélküli szabadság idejére csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
+aa) a fizetés nélküli szabadság idejére csecsemőgondozási díj, örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
 
 ab) a fizetés nélküli szabadságot tizenkét évesnél fiatalabb beteg gyermek ápolása címén veszik igénybe,
 
@@ -20,6 +20,6 @@ f) az egyéni vállalkozói tevékenység szünetelésének ideje alatt,
 
 g) az állat-egészségügyi szolgáltató tevékenységet végző állatorvos tevékenységének szünetelése alatt,
 
-h) a tanulószerződés szüneteltetésének időtartama alatt,
+h)
 
-i) az a)–h) pontban nem említett olyan esetben, amikor külön jogszabály szerint a biztosítás alapjául szolgáló jogviszony szünetel.
+i) az a)–g) pontban nem említett olyan esetben, amikor külön jogszabály szerint a biztosítás alapjául szolgáló jogviszony szünetel.

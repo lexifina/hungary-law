@@ -6,7 +6,7 @@ Tbj. 15. § (1) Baleseti ellátásra, baleseti hozzátartozói nyugellátásra
 
 (2) Baleseti egészségügyi szolgáltatásra jogosult, aki
 
-a) nevelési-oktatási és felsőoktatási intézmény, iskola, iskolarendszeren kívüli oktatásban gyakorlati képzésben részesülő tanulója, hallgatója, ide nem értve a külföldi állampolgárt,
+a) nevelési-oktatási intézmény vagy felsőoktatási intézmény gyakorlati képzésben részt vevő tanulója, illetve hallgatója, továbbá szakképző intézmény szakirányú oktatásban részt vevő tanulója, illetve képzésben részt vevő személye, ide nem értve a külföldi állampolgárt,
 
 b) szocioterápiás intézetben gyógykezelt elmebeteg, illetőleg szenvedélybeteg,
 

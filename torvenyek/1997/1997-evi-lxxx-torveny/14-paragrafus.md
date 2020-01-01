@@ -12,7 +12,9 @@ ba) csecsemőgondozási díj,
 
 bb) gyermekgondozási díj,
 
-bc) táppénz;
+bc) táppénz,
+
+bd) örökbefogadói díj;
 
 c) baleseti ellátások:
 

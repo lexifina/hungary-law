@@ -2,7 +2,7 @@
 
 Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény szerint biztosított, illetőleg a 13. § szerint egészségügyi szolgáltatásra jogosult személyeken túl – az, aki
 
-a) csecsemőgondozási díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti táppénzben, baleseti járadékban,
+a) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti táppénzben, baleseti járadékban,
 
 b) a 14. § (3) bekezdése alapján saját jogán nyugdíjban, hozzátartozói nyugellátásban, rehabilitációs járadékban,
 
@@ -20,7 +20,7 @@ h) az aktív korúak ellátására való jogosultság keretében megállapított
 
 részesül, továbbá
 
-i) a köznevelésről szóló törvény hatálya alá tartozó nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerinti köznevelési intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért, a külügyekért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
+i) a nappali rendszerű oktatás vagy a nappali oktatás munkarendje szerint köznevelési intézményben vagy szakképző intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért, a külügyekért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
 
 j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 

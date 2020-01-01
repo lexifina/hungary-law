@@ -12,7 +12,7 @@ c)
 
 d) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén – az a) pontban és a (4) bekezdésben említett személyek kivételével – az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető,
 
-e) a 16. § (1) bekezdésének i) pontjában említett tanulók és hallgatók esetén a közoktatási információs rendszer, illetve a felsőoktatási információs rendszer működtetője,
+e) a 16. § (1) bekezdés i) pontja szerinti tanulók, képzésben részt vevő személyek és hallgatók esetén a köznevelés információs rendszere, a szakképzés információs rendszere, a felsőoktatási információs rendszer és a felnőttképzés adatszolgáltatási rendszere működtetője,
 
 f) fogvatartottak esetén a fogvatartást foganatosító szerv,
 

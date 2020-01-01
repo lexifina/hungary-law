@@ -4,7 +4,7 @@ Tbj. 9. § (1) Az egyidejűleg több biztosítással járó jogviszonyban áll
 
 (3) Az 5. § (1) bekezdésének g) pontjában és (2) bekezdésében említett személy biztosítása – a 7. § (1) bekezdésében említett időszakon belül – akkor is fennáll, ha
 
-a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban,
+a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban,
 
 b) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban
 
