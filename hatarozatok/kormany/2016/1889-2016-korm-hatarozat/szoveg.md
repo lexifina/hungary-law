@@ -1,19 +1,9 @@
-1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet címrendjének, a 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 84. Területi infrastrukturális fejlesztések jogcímcsoporttal történő kiegészítését.
+1.[^1]
 
-Felelős: nemzetgazdasági miniszter
+2.[^2]
 
-Miniszterelnökséget vezető miniszter
+3.[^3]
 
-Határidő: azonnal
-
-2.[^1]
-
-3. A Kormány egyetért azzal, hogy a Határozat végrehajtása során a Határozat
-
-a) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport, K8. Egyéb felhalmozási kiadások kiemelt előirányzat javára átcsoportosított 7 861 000,0 ezer forint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 84. Területi infrastrukturális fejlesztések jogcímcsoport, K8. Egyéb felhalmozási kiadások,
-
-b) 3. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport, B2. Felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzat javára átcsoportosított 1 362 100,0 ezer forint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 84. Területi infrastrukturális fejlesztések jogcímcsoport, B2. Felhalmozási célú támogatások államháztartáson belülről
-
-kiemelt előirányzat javára kerüljön felhasználásra és elszámolásra.
-
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
