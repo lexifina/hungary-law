@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § Az R. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 8. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „(1) A veszélyelhárítási tervezés célja, hogy a Kat. 44. §-ában meghatározott természeti, civilizációs és egyéb eredetű veszélyekre a kockázatok azonosítása, elemzése és értelmezése alapján egységes okmányrendszerbe foglalja a katasztrófavédelmi feladatok és intézkedések rendjét, valamint végrehajtását, az azt biztosító személyi, anyagi és technikai eszközök hozzárendelésével. A veszélyelhárítási tervezés részét képezi a katasztrófakockázat-kezelési válaszok, azok feltételeinek, végrehajtási rendjének és ellenőrzésük módjának meghatározása.”
