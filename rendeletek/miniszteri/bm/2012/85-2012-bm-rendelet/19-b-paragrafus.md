@@ -1,7 +1,11 @@
-19/B. § (1) A kiküldött a számlával igazolt szállásköltség megtérítésére jogosult, amennyiben feladatát a külföldre érkezés napján nem tudja befejezni, vagy azon a napon hazautazni nem tud. A számlát mindenkor a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – nevére, címére kell kiállítani és az utazó nevét fel kell tüntetni rajta.
+19/B. § (1) Az egyéb előre nem tervezhető dologi kiadások terhére nyugta vagy számla alapján különösen a következő kiadások számolhatók el:
 
-(2) A kiutazás előtt a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – legfeljebb a 2. melléklet szerinti összegben valutaellátmányt biztosít a szállásköltségre.
+a) szolgálati célból felmerült telefon- vagy telefaxköltség,
 
-(3) A szállásköltség elszámolásának alapja az eredeti szállodai számla. A szállodai számlán külön tételként megjelenő minden – a szálláshoz kapcsolódó kötelezően fizetendő étkezés árán felüli – egyéb fogyasztás és szolgáltatás költsége, – kivéve a hivatalos célú telefon- és internethasználat költsége – teljes egészében a kiküldöttet terheli. A kiküldöttet díjtalan elszállásolás esetén szállásköltség nem illeti meg.
+b) szolgálati célból felmerült internethasználat díja,
 
-(4) A szállásköltség a 2. mellékletben meghatározott keretig finanszírozható.
+c) sürgősségi orvosi ellátáshoz kapcsolódó kiadások,
+
+d) hét napot meghaladó időtartamú külföldi tartózkodás esetén a mosatási és vasalási díj.
+
+(2) Az egyéb előre nem tervezhető dologi kiadások terhére nem számolható el térkép-, szoftver-, könyvvásárlás, eszközbeszerzés, a kiküldött felróható magatartásából származó anyagi kár ellenértéke, közlekedésrendészeti vagy más hatósági bírság, hatósági intézkedés eljárási díja vagy illetéke és egyéb, az ideiglenes külföldi kiküldetés céljával össze nem egyeztethető kiadások.

@@ -1,20 +1,15 @@
-19/A. § (1) A kiküldött napidíja megkezdett naptári naponként 40 euró.
+19/A. § (1) Utazási kiadásként – a (2) bekezdés kivételével – a következők számolhatók el számla vagy nyugta alapján:
 
-(2) Az ideiglenes külföldi kiküldetés kezdő és befejező időpontja Magyarország államhatárának átlépése, légi és vízi út esetén pedig az indulás és érkezés szerinti időpont.
+a) utazási jegy, repülőtéri illeték, indokolt túlsúlyköltség, biztosítási díj, vízumdíj,
 
-(3) A (2) bekezdés alkalmazása során
+b) az ideiglenes külföldi kiküldetési helyre érkezéskor, visszainduláskor, valamint átszálláskor a repülőtéri transzfer – autóbusz, vonat, helyi érdekeltségű vasút, annak hiányában vagy egyéb indokolt esetben taxi – használatának díja,
 
-a) nem vehető figyelembe naptári napként az a nap, amelynek során a kiküldött négy óránál rövidebb időt tölt külföldön,
+c) üzemanyag-vásárlás költsége, továbbá a kiutazás során a felmerült, biztosító által meg nem téríthető költségek, parkolási, autópálya-, és alagútdíj, valamint úthasználathoz kötődő egyéb illetékek, díjak,
 
-b) fél naptári napként kell figyelembe venni azt a napot, amelynek során a kiküldött négy óránál hosszabb, de nyolc óránál rövidebb időt tölt külföldön, illetve a külszolgálata szerinti államon kívül.
+d) a célországon belül helyközi járat és városi tömegközlekedési eszköz használatával felmerülő költség, indokolt esetben taxiköltség, gépjármű bérlés költsége.
 
-(4) Ha a kiküldött a kiküldetés időtartama alatt díjtalan ebédben, illetve vacsorában részesül, az adott naptári napra jutó napidíját étkezésenként 30%-kal csökkenteni kell.
+(2) Az (1) bekezdésben foglaltaktól az ideiglenes külföldi kiküldetést elrendelő vezető engedélyével el lehet térni, ha azt a protokolláris előírások és az ellátandó feladatok indokolják.
 
-(5)[^26] A napidíjat az ideiglenes külföldi kiküldetés megkezdése előtt – az érintett választása szerint – készpénzben vagy bankszámlára való átutalással ki kell fizetni. A kiküldött a kiküldetés befejező időpontját követő öt munkanapon belül köteles elszámolni.
+(3) Szolgálati gépjármű, valamint bérelt gépjármű ideiglenes külföldi kiküldetésre történő igénybevételét útnyilvántartással kell igazolni és csatolni kell a felmerülő útdíjszámlákat.
 
-(6)[^27] A külföldi napidíj összegét terhelő közterhet a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – költségvetési gazdálkodásért felelős szerve a hivatásos állományú illetményéből levonja.
-
-(7) Az ideiglenes külföldi kiküldetést teljesítő személy a kiküldetés befejező időpontját követő három munkanapon belül – büntetőjogi felelősség terhe mellett – nyilatkozik arról, hogy a kiküldetés időtartama alatt részesült-e díjtalan ebédben, illetve vacsorában, továbbá – ha részére a napidíj teljes összegét előre kifizették – a kiküldetés befejező időpontját követő öt munkanapon belül visszafizeti a (4) bekezdésben meghatározott összeget.
-
-[^26]: A 19/A. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 58. §-ával megállapított szöveg.
-[^27]: A 19/A. § (6) bekezdése a 9/2018. (IV. 25.) BM rendelet 58. §-ával megállapított szöveg.
+(4) A helyi közlekedés során felmerülő kiadásokat a felhasznált menetjegyek ellenértéke alapján kell elszámolni, feltéve, hogy a menetjegyen feltüntették az árát.

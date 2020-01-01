@@ -1,17 +1,9 @@
-19/C. § (1) Utazási költségként különösen az alábbiakat kell – számla vagy nyugta alapján – megtéríteni, illetve az alábbiak megtérítése céljából adható útielőleg:
+19/C. § (1) A kiküldetési ellátmány felhasználásáról az ideiglenes külföldi kiküldetés befejezését követő nyolc munkanapon belül el kell számolni. Az ideiglenes külföldi kiküldetés megtörténtét és a feladat teljesítését az ideiglenes külföldi kiküldetést elrendelő vezető igazolja.
 
-a) utazási jegy, repülőtéri illeték, indokolt túlsúlyköltség, biztosítási díj, vízumdíj,
+(2) Az elszámoláshoz csatolni kell az elszámolt kiadások jogosságának elbírálásához szükséges eredeti bizonylatokat, így különösen a repülőjegyet, szállodaszámlát, egyéb dologi kiadások számláit. Az elszámolás kerekítéssel történik, a kerekítés szabálya szerint. Ha az utazás elmarad, a felvett vagy átutalt kiküldetési ellátmányt három munkanapon belül vissza kell fizetni.
 
-b) az ideiglenes kiküldetési helyre érkezéskor, visszainduláskor, valamint átszálláskor a repülőtéri transzfer – autóbusz, vonat, helyi érdekeltségű vasút, annak hiányában vagy egyéb indokolt esetben taxi – használatának díja, amelynek igénybevételét számlával kell igazolni,
+(3) Az elszámolást a kiküldött elsősorban a részére biztosított valuta nemében teheti meg, valuta átváltása esetén a váltási bizonylatot csatolni kell az elszámoláshoz.
 
-c) az üzemanyag-vásárlás költsége, továbbá a szolgálati gépjárművel történt kiutazás során a felmerült, biztosító által meg nem téríthető költségek, a parkolási, autópálya-, és az alagútdíj, valamint úthasználathoz kötődő egyéb illetékek, díjak,
+(4) A kiküldetési ellátmány elszámolásakor a kiküldött a felvett vagy átutalt ellátmány és a számlával igazolt költségek különbözetét fizeti vissza. A kiküldöttet utólagosan megillető napidíj összege, vagy a nem tervezett, de elszámolható dologi kiadás kifizetése – ha azt az ideiglenes külföldi kiküldetést elrendelő vezető engedélyezi – a kiadott kiküldetési ellátmány szerinti valutanemben történik.
 
-d) célországon belül helyközi járat és városi tömegközlekedési eszköz használatával felmerülő költség, indokolt esetben taxiköltség.
-
-(2) Az (1) bekezdésben foglaltaktól a belügyminiszter engedélyével el lehet térni, amennyiben azt a protokolláris előírások és az ellátandó feladatok indokolják.
-
-(3) Szolgálati gépkocsi külföldi kiküldetésre történő igénybevételét a költségtérítés elszámolása során útnyilvántartással kell igazolni. Saját vagy a házastárs tulajdonában álló gépjárművel történő kiutazás esetén a gépjármű hivatalos célú használatára akkor kerülhet sor, ha a gépkocsi megfelel a forgalomban tartási követelményeknek – érvényes műszaki vizsga, kötelező felelősségbiztosítás, zöldkártya – és a gépjármű tulajdonosa járműre érvényes teljes körű casco és balesetbiztosítással rendelkezik. Az elszámoláshoz útnyilvántartást kell készíteni, és csatolni kell a felmerülő útdíjszámlákat.
-
-(4) Saját tulajdonú személygépkocsival történő kiutazáskor a Nemzeti Adó- és Vámhivatal által közzétett, adott hónapra érvényes üzemanyagár, az általános normaköltség és a megtett km alapján kell a kifizetendő költségtérítés összegét megállapítani.
-
-(5) A helyi közlekedés során felmerülő költségeket a leadott menetjegyek ellenértéke alapján kell megtéríteni, feltéve, hogy a menetjegyen feltüntették az árát.
+(5) Ha a kiküldött az út befejezésétől számított harminc napon belül a felvett kiküldetési ellátmánnyal nem számol el, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 72. §-ában foglalt kamatkedvezményből származó jövedelem után adófizetésre kötelezett.
