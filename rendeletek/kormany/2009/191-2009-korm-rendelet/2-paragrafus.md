@@ -10,9 +10,9 @@ c) építési-szerelési munka: az építési tevékenység végzésére irányu
 
 d) jókarbantartó tevékenység: a meglévő építmény, építményrész kármegelőzésére, kárelhárítására, karbantartására, helyreállítására, felújítására, javítására, rendeltetésszerű és biztonságos használatra alkalmassá tételére, illetve ennek és üzembiztonságának megtartására irányuló építési-szerelési munka,
 
-e)[^7] többletmunka: a szerződéskötés alapját képező (ajánlatkérési vagy kivitelezési) dokumentációban kimutathatóan meglévő, a vállalkozó kivitelező által készített árazott tételes költségvetésben szereplő tétel, amelynek mennyisége előre nem látható műszaki szükségességből növekszik,
+e)[^7] többletmunka: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:244. § (1) bekezdésében meghatározott többletmunka,
 
-f)[^8] pótmunka: a szerződés alapját képező dokumentációban nem szereplő, előre nem látható műszaki szükségességből külön megrendelt tétel,
+f)[^8] pótmunka: a Ptk. 6:244. § (2) bekezdésében meghatározott pótmunka,
 
 g)[^9] árazatlan (tételes) költségvetési kiírás: minőségi követelményekkel rendelkező mennyiségi kimutatás az építmény jellege szerint szükséges szakági bontásban és részletezettséggel, lényeges terméktulajdonság meghatározásával
 
@@ -35,8 +35,8 @@ o)[^16] elektronikus építési napló: az Építésügyi Dokumentációs és In
 p)[^17] naplóügyfél-jel: az e-építési napló által – az első Ügyfélkapus azonosítással történő belépés alkalmával, minden felhasználó számára – automatikusan generált kilencjegyű azonosító jel, amely az alkalmazás további használata során azonosítja az egy adott ügyfélkapun keresztül belépő természetes személyt.
 
 [^6]: A 2. § a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 1. pont 1.1. alpontja szerint módosított szöveg.
-[^7]: A 2. § e) pontja a 482/2016. (XII. 28.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § f) pontja a 482/2016. (XII. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § e) pontja a 295/2019. (XII. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 2. § f) pontja a 295/2019. (XII. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^9]: A 2. § g) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 2. pontja szerint módosított szöveg.
 [^10]: A 2. § i) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
 [^11]: A 2. § j) pontja a 322/2012. (XI. 16.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
