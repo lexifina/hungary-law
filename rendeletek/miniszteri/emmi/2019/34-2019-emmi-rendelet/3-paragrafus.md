@@ -1,0 +1,1 @@
+## „(2c) A kötelező óvodai nevelésben való részvétel alól felmentett gyermek szülője a nevelési év közben kérheti felvételét az óvoda vezetőjénél, annak érdekében, hogy a gyermek részt vehessen az óvodai foglalkozásokon.”

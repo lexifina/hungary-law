@@ -1,0 +1,3 @@
+## 11. § Az R1. 151. §-a helyébe a következő rendelkezés lép:
+
+## „151. § A hivatal által működtetett informatikai támogató rendszer biztosítja a benne rögzített ellenőrzési jegyzőkönyvek és szakértői értékelések ellenőrzést követő ötödik év december 31-éig történő elektronikus tárolását, valamint az ellenőrzött személyek, intézmények számára az azokhoz való hozzáférés lehetőségét. Az intézményvezetői és intézményi ellenőrzések tekintetében az intézményvezető a 147. § (8) bekezdésében foglalt értékelés elérhetővé válásától számított 8 napon belül megküldi a szakértői értékeléseket az érintett fenntartó számára, aki a szükséges intézkedéseket megteszi.”
