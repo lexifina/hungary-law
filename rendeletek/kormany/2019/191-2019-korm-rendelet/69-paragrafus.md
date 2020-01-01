@@ -1,9 +1,8 @@
-69. § (1)[^74]
+69. § (1)[^67]
 
-(2)[^75]
+(2)[^68]
 
-(3)[^76]
+(3) A 87/2015. (IV. 9.) Korm. rendelet 55. § 18. pontjában az „a korábbi munka- és egyéb tapasztalatok beszámításának, a nem formális, informális tanulással elsajátított kompetenciák elismerésének, beszámításának” szövegrész helyébe a „kompetenciaelismerés” szöveg lép.
 
-[^74]: A 69. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^75]: A 69. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^76]: A 69. § (3) bekezdése a 73. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^67]: A 69. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 69. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

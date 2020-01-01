@@ -1,3 +1,3 @@
-## 47. §[^50]
+## 47. §[^44]
 
-[^50]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

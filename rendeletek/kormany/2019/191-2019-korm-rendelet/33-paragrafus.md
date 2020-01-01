@@ -1,9 +1,12 @@
-## 32. §[^32]
+## 32. §[^29]
 
-33. § (1)[^33]
+33. § (1)[^30]
 
-(2)[^34]
+(2) A 248/2012. (VIII. 31.) Korm. rendelet
 
-[^32]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 33. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 33. § (2) bekezdése a 73. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
+a) 7. § (8) bekezdésében a „Ha a szakváltás nem felvételi eljárás eredményeképpen valósul meg,” szövegrész helyébe a „Szakváltás esetén” szöveg,
+
+b) 7. § (13) bekezdésében az „Nftv. 48/A. § b) pontja és az Nftv. 48/N. § (3) bekezdése” szövegrész helyébe az „Nftv. 48/A. § b) és c) pontja” szöveg
+
+[^29]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 33. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

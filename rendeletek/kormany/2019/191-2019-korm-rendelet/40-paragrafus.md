@@ -1,12 +1,12 @@
-## 39. §[^40]
+## 39. §[^34]
 
-40. § (1)[^41]
+40. § (1)[^35]
 
-(2)[^42]
+(2)[^36]
 
-(3)[^43]
+(3)[^37]
 
-[^40]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 40. § (1) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^42]: A 40. § (2) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^43]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 40. § (1) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^36]: A 40. § (2) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^37]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
