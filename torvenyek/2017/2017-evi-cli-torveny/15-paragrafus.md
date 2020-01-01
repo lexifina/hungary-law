@@ -2,13 +2,13 @@
 
 (1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (2) bekezdés szerinti felületen adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
 
-(2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet.
+(2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet, továbbá az erre a célra rendszeresített elektronikus űrlapon fogadja az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottra vonatkozó bejelentést.
 
-(3) Adóügyekben meghatalmazást elektronikusan
+(3) Meghatalmazást elektronikusan
 
-a) természetes személy, valamint egyéni vállalkozó adózó esetében a rendelkezési nyilvántartásban, valamint a (2) bekezdés szerinti elektronikus felületen,
+a) az önkormányzati adóhatóság hatáskörébe tartozó ügyben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézést biztosító információs rendszeren keresztül,
 
-b) az a) pontban nem megjelölt adózó, valamint törvényes képviselője esetében a (2) bekezdés szerinti felületen vagy
+b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen, vagy
 
 c) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
 

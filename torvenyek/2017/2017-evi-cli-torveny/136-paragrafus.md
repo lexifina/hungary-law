@@ -18,4 +18,6 @@ d) a hatósági zár alkalmazásának részletes szabályait;
 
 e) az adóigazgatási eljárásban kirendelt ügygondok tevékenységének részletes szabályait,
 
-f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait.
+f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait,
+
+g) az ügyintézési határidőre és az adóhatóság előtti képviseletre vonatkozó részletes szabályokat.

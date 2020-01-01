@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-151-00-00
 | 2018-07-26 | 2018. évi XLI. törvény | 2017-151-00-00.4 |
 | 2019-01-01 | 2018. évi LXXXII. törvény | 2017-151-00-00.5 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2017-151-00-00.6 |
+| 2020-01-01 | 2019. évi LXXXI. törvény | 2017-151-00-00.7 |

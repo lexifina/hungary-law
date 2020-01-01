@@ -26,9 +26,11 @@ i) az eljárási költség viselésével kapcsolatos, a költségmentességi ké
 
 j) a kézbesítési kifogás tárgyában hozott elutasító,
 
-k) az áru hatósági felügyelet alá vonását elrendelő, valamint
+k) az áru hatósági felügyelet alá vonását elrendelő
 
-l) a visszatartási jog gyakorlásáról rendelkező
+l) a visszatartási jog gyakorlásáról rendelkező, valamint
+
+m) a hatósági átvezetésről rendelkező
 
 végzés ellen.
 
