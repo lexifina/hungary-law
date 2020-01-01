@@ -64,7 +64,7 @@
 
 | 28. | Dunakeszi | Dunakeszi Közüzemi Nonprofit Kft. | 7 008 510 | 298 |
 
-| 29. | Dunaújváros | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 0 | 0 |
+| 29. | Dunaújváros | Dunaújvárosi Víz-, Csatorna- Hőszolgáltató Kft. | 64 278 668 | 71 |
 
 | 30. | Eger | EVAT Zrt. | 7 644 299 | 1 069 |
 
@@ -200,7 +200,7 @@
 
 | 96. | Tata | TATA ENERGIA Kft. | 10 996 726 | 169 |
 
-| 97. | Tatabánya | T-Szol Tatabányai Szolgáltató Zrt. | 246 300 502 | –784 |
+| 97. | Tatabánya | T-Szol Tatabányai Szolgáltató Zrt. | 246 300 502 | –667 |
 
 | 98. | Tiszaújváros | TiszaSzolg 2004 Kft. | 39 939 927 | 396 |
 
@@ -255,4 +255,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^20]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a, a 19/2018. (IX. 27.) ITM rendelet 3. §-a, a 37/2019. (IX. 30.) ITM rendelet 3. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
+[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a, a 19/2018. (IX. 27.) ITM rendelet 3. §-a, a 37/2019. (IX. 30.) ITM rendelet 3. §-a, a 48/2019. (XII. 23.) ITM rendelet 7. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]

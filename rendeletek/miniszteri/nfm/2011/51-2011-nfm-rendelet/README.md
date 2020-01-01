@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-51-20-2
 | 2018-03-31 | 2011-51-20-2W.19 | 83/2011. (XII. 29.) NFM rendelet |
 | 2018-10-01 | 2011-51-20-2W.20 | 59/2012. (X. 31.) NFM rendelet |
 | 2019-10-01 | 2011-51-20-2W.21 | 83/2011. (XII. 29.) NFM rendelet |
+| 2020-01-01 | 2011-51-20-2W.22 | 83/2011. (XII. 29.) NFM rendelet |
