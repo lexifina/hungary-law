@@ -2,4 +2,4 @@
 
 (2) Az ügyész minden három év szolgálati idő megszerzése után eggyel magasabb fizetési fokozatba lép.
 
-(3) A legfőbb ügyészt és a legfőbb ügyész helyettest – szolgálati idejüktől függetlenül – a legmagasabb fizetési fokozatba kell besorolni.
+(3) A legfőbb ügyész helyettes a Kúria elnökhelyettesével azonos illetményre és más javadalmazásra jogosult.

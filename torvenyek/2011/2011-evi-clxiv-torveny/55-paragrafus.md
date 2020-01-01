@@ -14,7 +14,7 @@ hatályos.
 
 (5) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben az ügyész köteles tájékoztatni a munkáltatót
 
-a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, három vagy több gyermeket nevelő ügyész esetén a gyermeke hatodik életéve betöltésének időpontjáról, illetve
 
 b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
@@ -24,7 +24,7 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 a) a kérelem szerinti időpontig, de
 
-b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő ügyész esetén a gyermek ötéves koráig
+b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő ügyész esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően az ügyész munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 

@@ -10,13 +10,13 @@ c) lemondásával;
 
 d)
 
-e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a kormányzati igazgatásról szóló törvény szerinti politikai felsővezetővé, közigazgatási államtitkárrá és helyettes államtitkárrá (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 
 f) összeférhetetlenségének megállapításával (47. §);
 
 g) hivatalvesztése kimondásával;
 
-h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
+h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 
 i) halálával;
 

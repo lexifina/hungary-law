@@ -1,8 +1,8 @@
 ## 19. Igazolási kötelezettség
 
-49. § (1) Az ügyészségi szolgálati viszony fennállása alatt az ügyész a munkáltatói jogkör gyakorlójának írásban – a mulasztás jogkövetkezményeire való figyelmeztetéssel – közölt felhívására, tizenöt munkanapon belül igazolja, hogy vele szemben nem áll fenn a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény.
+49. § (1) Az ügyészségi szolgálati viszony fennállása alatt az ügyész a munkáltatói jogkör gyakorlójának írásban – a mulasztás jogkövetkezményeire való figyelmeztetéssel – közölt felhívására, tizenöt munkanapon belül igazolja, hogy vele szemben nem áll fenn a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első és második fordulatában, valamint d) pontjában meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra az ügyész igazolja, hogy vele szemben a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény nem áll fenn, a munkáltató az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ügyész részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra az ügyész igazolja, hogy vele szemben a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első és második fordulatában, valamint d) pontjában meghatározott körülmény nem áll fenn, a munkáltató az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ügyész részére megtéríti.
 
 (3) A munkáltatói jogkör gyakorlója a 11. § (4) bekezdés a)–f) pontjában meghatározott körülmény vizsgálata céljából kezeli
 

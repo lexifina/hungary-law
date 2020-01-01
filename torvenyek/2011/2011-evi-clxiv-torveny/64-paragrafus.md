@@ -4,11 +4,11 @@
 
 a) húsz százaléka a járási ügyészség ügyésze esetében,
 
-b) harmincöt százaléka a főügyészség ügyésze esetében,
+b) negyven százaléka a főügyészség ügyésze esetében,
 
-c) ötven százaléka a fellebbviteli főügyészség ügyésze esetében,
+c) hetven százaléka a fellebbviteli főügyészség ügyésze esetében,
 
-d) nyolcvan százaléka a Legfőbb Ügyészség ügyésze esetében.
+d) százhúsz százaléka a Legfőbb Ügyészség ügyésze esetében.
 
 (2) Kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén és az adott szintű ügyészségen, ügyészként eltöltött legalább hat év után – beszámítva a magasabb szintű ügyészségen ügyészként teljesített időt is –
 
@@ -38,11 +38,11 @@ cím jár.
 
 a) harminc százaléka a „Címzetes főügyészségi ügyész”,
 
-b) negyvenöt százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
+b) ötven százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
 
-c) hatvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
+c) nyolcvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
 
-d) kilencven százaléka a „Legfőbb ügyészségi tanácsos”
+d) százharminc százaléka a „Legfőbb ügyészségi tanácsos”
 
 cím esetén.
 

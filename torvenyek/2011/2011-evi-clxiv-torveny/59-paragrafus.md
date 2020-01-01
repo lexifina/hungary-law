@@ -10,4 +10,4 @@ jogosult.
 
 (3) Az alapilletmény és a pótlékok számításának alapjául szolgáló ügyészi illetményalapot (a továbbiakban: illetményalap) évenként a központi költségvetésről szóló törvény határozza meg úgy, hogy annak összege az előző évinél nem lehet alacsonyabb és mindenkor meg kell felelnie a bírói illetményalapnak.
 
-(4) A legfőbb ügyész a Kúria elnökével azonos illetményre és más javadalmazásra jogosult. A legfőbb ügyészt tényleges illetményétől függetlenül e törvény alapján is be kell sorolni.
+(4) A legfőbb ügyész a Kúria elnökével azonos illetményre és más javadalmazásra jogosult.
