@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti a 282/2016. (IX. 21.) Korm. rendelet.
+## 10. §[^1]
 
 1. melléklet a 222/2019. (IX. 25.) Korm. rendelethez
 
@@ -165,3 +165,5 @@ d) autonómiája és felelőssége
 - Bekapcsolódik kutatási és fejlesztési projektekbe, a projektcsoportban a cél elérése érdekében autonóm módon, a csoport többi tagjával együttműködve mozgósítja elméleti és gyakorlati tudását, képességeit.
 
 - Különböző bonyolultságú és különböző mértékben kiszámítható kontextusokban a módszerek és technikák széles körét alkalmazza önállóan a gyakorlatban.
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
