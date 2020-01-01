@@ -2,7 +2,7 @@
 
 a) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.)
 
-aa) 4. § (1) bekezdés k), l) és o) pontja,
+aa)[^15] 4. § (1) bekezdés k), l) és o) pontja, 4/A. § (1) bekezdése,
 
 ab) 6. § (1) bekezdés p) pontja,
 
@@ -96,7 +96,9 @@ ff) 28. § (5) bekezdése,
 
 g) az iskolai egészségfejlesztési programok tekintetében a népegészségügyi termékadóról szóló 2011. évi CIII. törvény 1. § 19. pontja,
 
-h) az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14. §-a
+h) az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14. §-a,
+
+i)[^16] a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése
 
 ## szerinti feladatok ellátására.
 
@@ -114,9 +116,11 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)–(5)[^12]
+(4)–(5)[^17]
 
-(6)[^13] A Kormány nemzeti koordinációs fókuszpontként az emberi erőforrások miniszterét jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+(6)[^18] A Kormány nemzeti koordinációs fókuszpontként az emberi erőforrások miniszterét jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
-[^12]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
-[^13]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^15]: A 8. § (1) bekezdés a) pont aa) alpontja a 360/2019. (XII. 30.) Korm. rendelet 161. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^16]: A 8. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^18]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

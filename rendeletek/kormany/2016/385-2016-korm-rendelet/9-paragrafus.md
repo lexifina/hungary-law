@@ -1,14 +1,10 @@
 9. § (1) A Kormány egészségügyi államigazgatási szervként a kormányhivatalt jelöli ki
 
-a) az Ehi. 4/A. § (1) bekezdése,
+a)[^19]
 
-b) az atomenergiáról szóló 1996. évi CXVI. törvény
+b)[^20]
 
-ba) 45. § (1) bekezdése,
-
-bb) 47. § (1) bekezdése,
-
-c) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése,
+c)[^21]
 
 d) az Eütv.
 
@@ -32,11 +28,14 @@ h) az egészségügyi államigazgatási feladatok tekintetében az egyes közszo
 
 ## szerinti feladatok ellátására.
 
-(2)[^14] A Kormány egészségügyi államigazgatási szervként a rendvédelmi szervek, valamint az Országgyűlési Őrség
+(2)[^22] A Kormány egészségügyi államigazgatási szervként a rendvédelmi szervek, valamint az Országgyűlési Őrség
 
 – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, az Országgyűlési Őrség, közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki az Nvt. 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
 
-(3)[^15] A Kormány hatóságként a kormányhivatalt jelöli ki az Eütv. 110. § (4) bekezdése szerinti feladatok ellátására.
+(3)[^23] A Kormány hatóságként a kormányhivatalt jelöli ki az Eütv. 110. § (4) bekezdése szerinti feladatok ellátására.
 
-[^14]: A 9. § (2) bekezdése a 20/2018. (II. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^15]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 9. § (1) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: A 9. § (1) bekezdés b) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^21]: A 9. § (1) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^22]: A 9. § (2) bekezdése a 20/2018. (II. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^23]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez
+2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^40]
 
 1. A népegészségügyi feladatokat ellátó járási hivatalok illetékességi területe
 
@@ -758,22 +758,6 @@
 
 | 377. |  | Lenti járás |
 
-2. A sugáregészségügyi feladatokat ellátó kormányhivatalok illetékessége
+2.
 
-|  | A | B |
-
-| 1. | A sugáregészségügyi feladatokat ellátó kormányhivatalok | A sugáregészségügyi feladatokat ellátó kormányhivatalok illetékességi területe |
-
-| 2. | Budapest Főváros Kormányhivatala | Budapest és Pest megye |
-
-| 3. | Tolna Megyei Kormányhivatal | Baranya, Somogy és Tolna megye |
-
-| 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Borsod-Abaúj-Zemplén, Nógrád és Heves megye |
-
-| 5. | Csongrád Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád megye |
-
-| 6. | Veszprém Megyei Kormányhivatal | Fejér, Komárom-Esztergom és Veszprém megye |
-
-| 7. | Győr-Moson-Sopron Megyei Kormányhivatal | Győr-Moson-Sopron, Vas és Zala megye |
-
-| 8. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs- Szatmár-Bereg megye |
+[^40]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
