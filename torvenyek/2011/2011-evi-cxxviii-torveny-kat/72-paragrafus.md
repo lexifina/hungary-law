@@ -1,8 +1,8 @@
 72. § (1) A polgármester az általa kezelt adatállományt a beosztásra jelölés céljából továbbítja a hivatásos katasztrófavédelmi szervnek, amely ennek alapján kijelöli a polgári védelmi kötelezettségen alapuló polgári védelmi szervezetbe beosztható személyeket, és erről tájékoztatja a polgármestert.
 
-(2) A polgármester a kijelöltek adatállománya alapján kiválasztja azokat a kötelezetteket, akiket a szervezetbe határozattal beoszt, és erről a jogerős határozattal tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervét, valamint a beosztottak adatairól a hadkiegészítő parancsnokságot.
+(2) A polgármester a kijelöltek adatállománya alapján kiválasztja azokat a kötelezetteket, akiket a szervezetbe határozattal beoszt, és erről a véglegessé vált határozattal tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervét, valamint a beosztottak adatairól a hadkiegészítő parancsnokságot.
 
-(3) A polgármester a 71. § (1) bekezdése szerint összegyűjtött adatokról nyilvántartást nem vezethet, az adatállományt a beosztó határozat jogerőre emelkedése és a hivatásos katasztrófavédelmi szerv területi szerve tájékoztatása után haladéktalanul törli.
+(3) A polgármester a 71. § (1) bekezdése szerint összegyűjtött adatokról nyilvántartást nem vezethet, az adatállományt a beosztó határozat véglegessé válása és a hivatásos katasztrófavédelmi szerv területi szerve tájékoztatása után haladéktalanul törli.
 
 (4) A (2) bekezdés szerint átadott adatok felhasználásával a polgári védelmi kötelezettség teljesítésével kapcsolatos feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv nyilvántartást vezet. A nyilvántartásból kizárólag a polgári védelmi szervezetbe történő beosztáshoz, a polgári védelmi kötelezettség teljesítéséhez, az igazolványban szereplő adatok ellenőrzéséhez igényelhető adat.
 

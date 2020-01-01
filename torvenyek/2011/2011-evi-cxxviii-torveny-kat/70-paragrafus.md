@@ -16,6 +16,6 @@ f) a biztosítás alapján megtérülő összeget.
 
 (3) A kártalanítást pénzben kell megállapítani és megtéríteni.
 
-(4) A kártalanítás megfizetésére kötelezett a jogerős döntés vagy bírósági ítélet kézhezvételétől számított 15 napon belül köteles a megállapított összeget megfizetni.
+(4) A kártalanítás megfizetésére kötelezett a véglegessé vált döntés vagy jogerős bírósági ítélet kézhezvételétől számított 15 napon belül köteles a megállapított összeget megfizetni.
 
 (5) Nem jár kártalanítás, ha az igénybevétel nem akadályozta az igénybevétel tárgyának rendeltetésszerű használatát.

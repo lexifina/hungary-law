@@ -6,13 +6,13 @@
 
 (3) Veszélyhelyzetben a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései közül rendelettel eltérő rendelkezések bevezetésére van mód
 
-a) a bírósági felülvizsgálat alá nem tartozó eljárások körét,
+a) a bíróság előtt meg nem támadható hatósági döntések körét,
 
 b) a hatáskör és illetékesség megállapítását,
 
 c) az eljáró közigazgatási hatóság kijelölésének rendjét,
 
-d) a belföldi jogsegély szabályát,
+d) a megkeresés szabályát,
 
 e) az ügyintézési és egyéb határidőt,
 

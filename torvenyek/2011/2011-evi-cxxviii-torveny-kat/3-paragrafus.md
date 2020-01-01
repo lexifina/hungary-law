@@ -26,7 +26,7 @@
 
 11. Kockázat: egy adott területen adott időtartamon belül vagy meghatározott körülmények között jelentkező egészség-, illetve környezetkárosító hatás valószínűsége.
 
-12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi és honvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
+12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
 
 13. Külső védelmi terv: a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem környezetében élő lakosság mentése, az anyagi javakban, a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére, a végrehajtó szervezetre, a vezetésre, az adatszolgáltatásra vonatkozó terv, amely a települési veszélyelhárítási terv része.
 

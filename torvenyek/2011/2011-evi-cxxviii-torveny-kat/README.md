@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-128-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2011-128-00-00.17 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2011-128-00-00.18 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2011-128-00-00.19 |
+| 2020-01-01 | 2019. évi CXXVII. törvény | 2011-128-00-00.20 |
