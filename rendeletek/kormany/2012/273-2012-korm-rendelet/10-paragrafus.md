@@ -8,7 +8,7 @@
 
 (1a)[^38] Az egységes államigazgatási telefonos és elektronikus ügyfélszolgálatnál ügyfélszolgálati munkakörben foglalkoztatott kormánytisztviselő továbbképzési kötelezettsége a próbaidő leteltét követő napon kezdődik.
 
-(1b)[^39] Az 1. § (2a) bekezdése szerinti kormánytisztviselő továbbképzési kötelezettsége a próbaidő leteltét követő napon kezdődik.
+(1b)[^39]
 
 (2) A kormánytisztviselő, köztisztviselő továbbképzése továbbképzési időszakokban történik. A továbbképzési időszak időtartama négy év.
 
@@ -18,5 +18,5 @@
 
 [^37]: A 9/B. §-t a 443/2016. (XII. 16.) Korm. rendelet 5. §-a iktatta be.
 [^38]: A 10. § (1a) bekezdését a 321/2016. (X. 27.) Korm. rendelet 17. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14. §-át.
-[^39]: A 10. § (1b) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A 10. § (1b) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § b) pontja.
 [^40]: A 10. § (2a) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 8. §-a iktatta be.

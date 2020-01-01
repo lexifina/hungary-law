@@ -28,15 +28,9 @@ kerül sor, a jogutód, illetve az áthelyezés szerinti közigazgatási szerv a
 
 (5d)[^47] Az (5a) bekezdésben meghatározott esetekben a kormánytisztviselő részére megszerezni ajánlott éves tanulmányi pontmennyiségből a tárgyévben még nem teljesített továbbképzési pontok a jogelőd vagy áthelyező közigazgatási szerv intézményi pontkeretéből levonásra, a jogutód vagy az áthelyezés szerinti közigazgatási szerv intézményi pontkeretébe jóváírásra kerül.
 
-(5e)[^48] Az 1. § (2a) bekezdése szerinti esetben, ha
+(5e)[^48]
 
-a) a kormányzati igazgatási szerv személyében bekövetkező jogutódlásra, vagy
-
-b) a Kit. 114. § (10) bekezdésében meghatározott jogviszonyváltás következtében a kormányzati szolgálati jogviszony közszolgálati jogviszonnyá alakulására
-
-kerül sor, a jogutód a tárgyévre vonatkozó normatív hozzájárulás időarányos részét megfizeti a jogelőd részére.
-
-(5f)[^49] Az (5e) bekezdésben meghatározottak szerint kell eljárni a Kit. 89. § (6) bekezdése, valamint a Kit. 104. § (9) és (10) bekezdése esetén is azzal, hogy a fogadó, illetve az új jogviszony szerinti kormányzati igazgatási szerv fizeti meg a tárgyévre vonatkozó normatív hozzájárulás időarányos részét azon kormányzati igazgatási szerv részére, amely a kormánytisztviselőt a kinevezés módosítását vagy a jogviszony megszűnését megelőzően foglalkoztatta.
+(5f)[^49]
 
 (6) A kormánytisztviselő, köztisztviselő továbbképzési kötelezettségeinek teljesítésére felhasznált költség kizárólag a programjegyzéken szereplő programok útján használható fel.
 
@@ -54,8 +48,8 @@ kerül sor, a jogutód a tárgyévre vonatkozó normatív hozzájárulás időar
 [^45]: A 12. § (5b) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be.
 [^46]: A 12. § (5c) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be.
 [^47]: A 12. § (5d) bekezdését a 108/2016. (V. 18.) Korm. rendelet 26. §-a iktatta be.
-[^48]: A 12. § (5e) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 3. §-a iktatta be.
-[^49]: A 12. § (5f) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 3. §-a iktatta be.
+[^48]: A 12. § (5e) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § c) pontja.
+[^49]: A 12. § (5f) bekezdését a 90/2019. (IV. 23.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 338/2019. (XII. 23.) Korm. rendelet 24. § c) pontja.
 [^50]: A 12. § (7) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 77. §-ával megállapított szöveg.
 [^51]: A 12. § (8) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^52]: A 12. § (9) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 9. § (3) bekezdése iktatta be.
