@@ -11,3 +11,9 @@
 (6) Az ingóságok megőrzésére és értékesítésére a 90. § (4) bekezdését kell alkalmazni, azzal, hogy az értékesítésből befolyó vételár az (1) bekezdésben írt adóst vagy harmadik személyt illeti meg.
 
 (7) Ha a meghatározott cselekmény végrehajtásához elegendő az építmény egy részének elhagyása, az állami adó- és vámhatóság az érintett építményrészt az (1)–(6) bekezdésben foglaltak alkalmazásával kiüríti, a kiürített építményrészt lezárja és lepecsételi.
+
+(8) Ha a kiürítendő építményben lévő ingóságok értéke nem éri el a tárolás várható költségét, a végrehajtó az ingóságokat az adós veszélyére az ingatlan területén is elhelyezheti. Az adós az ingóságokat az eljárás bármely szakaszában elszállíthatja.
+
+(9) Ha a végrehajtható okirat vagy a végrehajtó által a helyszínen felvett jegyzőkönyv tartalmából megállapítható, hogy a kiürítendő építmény élet- vagy balesetveszélyes, a benne lévő ingóságok elhelyezése iránt az állami adó- és vámhatóság nem intézkedik.
+
+(10) Az (1) bekezdés szerinti határidő elteltét követően, ha az építményben már nem tartózkodik személy, az állami adó- és vámhatóság a meghatározott cselekményt az adós veszélyére elvégzi vagy elvégezteti.

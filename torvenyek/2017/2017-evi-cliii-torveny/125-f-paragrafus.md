@@ -1,3 +1,3 @@
-125/F. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtása során az állami adó- és vámhatóság a Vht. 201/C. §-a szerint jár el.
+125/F. § (1) Az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtása során az állami adó- és vámhatóság a vagyonelkobzás biztosítására elrendelt büntetőeljárásban elrendelt zár alá vétel szabályai szerint jár el azzal, hogy jövedelem-letiltásnak is helye van, valamint a zárgondnoknak az adós jogi személy vagyonából származó jövedelmet – a felmerült költségek levonása után – az adós pénzforgalmi számláján kell elhelyeznie.
 
-(2) Az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtása során az állami adó- és vámhatóság a Vht. 184/B. §-a és a Bv. tv. 324. §-a szerint jár el azzal, hogy ahol a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény bírósági végrehajtót említ, azon az állami adó- és vámhatóságot kell érteni.
+(2) A zárlat feloldásának a bíróság által engedélyezett mentesítésről vagy a végrehajtás megszüntetéséről szóló határozata alapján van helye.

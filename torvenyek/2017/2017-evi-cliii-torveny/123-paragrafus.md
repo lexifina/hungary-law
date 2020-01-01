@@ -1,6 +1,6 @@
 123. § (1) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság a közbeszerzésekről szóló törvény szabályai alapján választja ki a közreműködő szervezetet.
 
-(2) Ha a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezetek közül véletlenszerű kiválasztással három közreműködő szervezetet jelöl ki ajánlattételre
+(2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezetek közül véletlenszerű kiválasztással három közreműködő szervezetet jelöl ki ajánlattételre
 
 a (3)–(8) bekezdésben foglaltak szerint.
 
@@ -12,8 +12,10 @@ a (3)–(8) bekezdésben foglaltak szerint.
 
 (6) Az ajánlattételek alapján az állami adó- és vámhatóság végzéssel azt az ajánlatot adó szervezetet jelöli ki, amelyik ajánlata alapján a meghatározott cselekmény végrehajtása az adós számára a legkisebb költség felszámításával jár. A végzésnek tartalmaznia kell a kijelölt szervezetet és a közreműködés várható díját is.
 
-(7) A közreműködő szervezetek névjegyzékéből az adóhatóság törli azt a szervezet, amely az ajánlattételi eljárásokban ismételten elmulasztotta az árajánlat benyújtását, vagy a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette. Az ilyen okból a névjegyzékből törlésre került szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
+(7) A közreműködő szervezetek névjegyzékéből az adóhatóság törli azt a szervezetet, amely az ajánlattételi eljárásokban ismételten elmulasztotta az árajánlat benyújtását, vagy a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette. Az ilyen okból a névjegyzékből törlésre került szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
 
 (8) A legmegfelelőbb ajánlatot tevő szervezet végzésben meghatározott közreműködésének módját a végrehajtást foganatosító adóhatóság felügyeli az eljárás során.
 
 (9) Az (1) és (6) bekezdésben foglaltak szerint kiválasztott közreműködő szervezet végzi el a meghatározott cselekményt az adott cselekményre vonatkozó jogszabályok és szakmai előírások betartásával, ideértve az esetleg szükséges engedélyek beszerzését vagy bejelentések megtételét is.
+
+(10) Ha a közreműködő szervezetek névjegyzékében nem található a meghatározott cselekmény elvégzéséhez szükséges szakértelemmel rendelkező közreműködő szervezet, az állami adó- és vámhatóság bírósági vagy hatósági nyilvántartásból hív fel ajánlattételre legalább három olyan gazdálkodó szervezetet, amely a meghatározott cselekmény elvégzésére alkalmas. Az állami adó- és vámhatóság az adós számára a legkisebb költség felszámításával járó gazdálkodó szervezetet rendelheti ki.

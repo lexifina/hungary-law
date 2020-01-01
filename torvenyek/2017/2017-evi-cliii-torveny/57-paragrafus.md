@@ -20,13 +20,13 @@ kell értékesíteni.
 
 (3) A (2) bekezdéstől eltérően az állami adó- és vámhatóság árverésen értékesíti
 
-a) azt az ingóságot, amely helyhez kötött, nem szállítható, vagy szétszerelése speciális szakértelmet igényel, illetve tárolása különleges körülmények biztosítását igényli,
+a) azt az ingóságot, amely helyhez kötött, nem szállítható, vagy szétszerelése speciális szakértelmet igényel, illetve tárolása különleges körülmények biztosítását igényli és nincs mód zárgondnok kirendelésére,
 
 b) azt a vagyontárgyat, amelynek beszállítási költsége nem áll arányban a vagyontárgy értékével és nincs mód zárgondnok kirendelésére,
 
-c) az élő állatot,
+c) az élő állatot és
 
-d) a 10 ezer forintot el nem érő becsértékű ingó vagyontárgyakat és
+d)
 
 e) azon vagyontárgyakat, amelyek esetében törvény így rendelkezik.
 

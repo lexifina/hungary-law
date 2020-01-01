@@ -1,0 +1,1 @@
+97/A. § A biztosítási intézkedés végrehajtására irányuló eljárást nem lehet foganatosítani vagy azt meg kell szüntetni, ha a biztosítási intézkedés tárgyára a büntetőeljárásban zár alá vételt vagy lefoglalást rendeltek el.

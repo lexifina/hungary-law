@@ -7,3 +7,11 @@
 (3) Ha a végrehajtási jog bejegyzéséről szóló határozatnak az adóhatósággal történő közlésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt csak az igényper jogerős befejezése után lehet intézkedni
 
 (4) Az adóhatóság az ingatlant a végrehajtási jog bejegyzéséről szóló határozat közlésétől számított 3 hónapon belül olyan időpontban köteles értékesíteni, amely a helyi körülmények között a legcélszerűbb.
+
+(5) A közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendelet szerinti közfoglalkoztatási programban használt ingatlan becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.
+
+(6) Az ingatlan elkobzása, nem pénzösszegre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására büntetőeljárásban elrendelt zár alá vétel tényével terhelt ingatlan értékesítése iránt a büntetőeljárásban elrendelt zár alá vétel tényének törlését követően lehet intézkedni.
+
+(7) Ha az ingatlan olyan, a büntetőeljárásban elrendelt zár alá vétel tényével terhelt, amelyet a jogi személlyel szemben kiszabható pénzbírság, pénzfizetésre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására rendeltek el, és annak bejegyzésére a végrehajtási jogot követően került sor, az ingatlan értékesítése iránt lehet intézkedni.
+
+(8) Ha az ingatlan olyan, a büntetőeljárásban elrendelt zár alá vétel tényével terhelt, amelyet a jogi személlyel szemben kiszabható pénzbírság, pénzfizetésre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására rendeltek el, és annak bejegyzésére a végrehajtási jogot megelőzően került sor, az ingatlan értékesítése iránt kizárólag abban az esetben lehet intézkedni, ha a végrehajtási jog, a büntetőeljárásban elrendelt zár alá vétel jogcíme szerinti követelések és a végrehajtási költségek várhatóan megtérülnek.

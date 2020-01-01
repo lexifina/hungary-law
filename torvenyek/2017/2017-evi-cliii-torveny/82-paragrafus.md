@@ -11,3 +11,5 @@
 (6) Az elvesztett előleg és az (5) bekezdés szerinti vételár-különbözet a végrehajtás során befolyt összeget növeli.
 
 (7) A második sikertelen ingatlanárverést követő három hónap elteltével az adóhatóság, ha azt a körülmények indokolják, az árverést ismételten kitűzheti. Ha az utóbbi árverés is sikertelenül zárul, az árverés kitűzése a végrehajtáshoz való jog elévülési idejének lejártáig, az előző árverést követő három hónap elteltével megismételhető.
+
+(8) A mező- és erdőgazdálkodási földek forgalmáról szóló 2013. évi CXXII. törvény 35. § (7) bekezdése szerinti esetben a mezőgazdasági igazgatási szerv megkeresésére az adóhatóság az általa foganatosított végrehajtási eljárás során a Vht., az ingatlan folyamatos árverezése iránti hirdetményre vonatkozó szabályai szerint teszi közzé az árverési hirdetményt. Ha vételi ajánlat érkezik a megkereséssel érintett ingatlanra, az adóhatóság az árverés lefolytatása érdekében ismételten megkeresi a mezőgazdasági igazgatási szervet. Földek esetén az ingatlan folyamatos árverezése iránti hirdetmény közzétételét követően az ingatlanra írásban az árverést lebonyolító adóhatóságnál tehető vételi ajánlat.

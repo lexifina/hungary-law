@@ -6,69 +6,67 @@
 
 29. § (1) A végrehajtási eljárásban végrehajtható okirat:
 
-a) a fizetési kötelezettséget megállapító, véglegessé vált hatósági döntés,
+1. a fizetési kötelezettséget megállapító, véglegessé vált hatósági döntés,
 
-b) önadózás esetén a fizetendő adót, adóelőleget, adóelőleg-kiegészítést tartalmazó bevallás,
+2. önadózás esetén a fizetendő adót, adóelőleget, adóelőleg-kiegészítést tartalmazó bevallás,
 
-c) az adózóval közölt adóhatósági adómegállapítás,
+3. az adózóval közölt adóhatósági adómegállapítás,
 
-d) az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozat, bíróság által jogerősen jóváhagyott egyezség, továbbá a bírósági eljárási illetéket megállapító bírósági határozat, valamint a bírósági eljárási illeték tárgyában küldött bírósági megkeresés és értesítés,
+4. az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozat, bíróság által jogerősen jóváhagyott egyezség, továbbá a bírósági eljárási illetéket megállapító bírósági határozat, valamint a bírósági eljárási illeték tárgyában küldött bírósági megkeresés és értesítés,
 
-e) az egészségügyi szolgáltatási járulékfizetési kötelezettséget tartalmazó bejelentés,
+5. az egészségügyi szolgáltatási járulékfizetési kötelezettséget tartalmazó bejelentés,
 
-f) büntetőeljárás során hozott határozat, amely jogerősen adóbevétel-csökkenést, vagyoni hátrányt, vagy jogosulatlanul igénybe vett költségvetési támogatást állapít meg, kizárólag az adóbevétel-csökkenés, a vagyoni hátrány vagy a jogosulatlanul igénybe vett költségvetési támogatás tekintetében,
+6. a büntetőeljárásban a fiatalkorúval szemben kiszabott pénzbüntetésről, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, valamint a büntetőeljárásban a jogi személlyel szemben kiszabott pénzbírságról szóló végrehajtható határozat – ideértve az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszeg, jogi személlyel szemben kiszabott pénzbírság vagy köz javára fizetendő jóvátétel és az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzás végrehajtásának átvételéről szóló határozatot is – (a továbbiakban együtt: bűnügyi követelés) esetén a behajtást kérő megkeresése,
 
-g) az általános közigazgatási rendtartáson alapuló végrehajtás esetén a behajtást kérő hatóság megkeresésének mellékletét képező, annak alapjául szolgáló döntés – ide értve a meghatározott cselekmény végrehajtását is –,
+7. az általános közigazgatási rendtartáson alapuló végrehajtás esetén a behajtást kérő hatóság megkeresésének mellékletét képező, annak alapjául szolgáló döntés – ide értve a meghatározott cselekmény végrehajtását is –,
 
-h) az adók módjára behajtandó köztartozás esetén a behajtást kérő megkeresése,
+8. az adók módjára behajtandó köztartozás esetén a behajtást kérő megkeresése,
 
-i) a bíróság pénzbírságról, teljesítési bírságról, rendbírságról – kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a Vht. 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi –, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról, valamint fiatalkorú elítélt esetén a pénzbüntetésről szóló értesítése esetén a behajtást kérő megkeresése,
+9. a bíróság pénzbírságról, teljesítési bírságról, rendbírságról – kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a Vht. 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi – szóló értesítése esetén a behajtást kérő megkeresése,
 
-j) a büntetőeljárásról szóló törvény alapján
+10. a büntetőeljárásról szóló törvény alapján
 
-ja) elrendelt elővezetés vagy előállítás költségének,
+a) elrendelt elővezetés költségének,
 
-jb) a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása költségének,
+b) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
 
-jc) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
-
-jd) a bíróság vagy az ügyészség által a bűnügyi költségnek
+c) a bíróság, az ügyészség, illetve a nyomozó hatóság által a bűnügyi költségnek
 
 a megállapításáról szóló értesítés esetén a behajtást kérő megkeresése,
 
-k) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) alapján
+11. a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) alapján
 
-ka) elrendelt elővezetés költségének,
+a) elrendelt elővezetés költségének,
 
-kb) az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állítása költségének, továbbá
+b) az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állítása költségének, továbbá
 
-kc) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás során felmerült költségnek
+c) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás során felmerült költségnek
 
 a megállapításáról szóló értesítés esetén a behajtást kérő megkeresése,
 
-l) fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról szóló értesítés esetén a behajtást kérő megkeresése,
+12. fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról szóló értesítés esetén a behajtást kérő megkeresése,
 
-m) az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítés esetén a behajtást kérő megkeresése,
+13. az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítés esetén a behajtást kérő megkeresése,
 
-n) a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról szóló értesítése esetén a behajtást kérő megkeresése,
+14. a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról szóló értesítése esetén a behajtást kérő megkeresése,
 
-o) a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítés esetén a behajtást kérő megkeresése,
+15. a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítés esetén a behajtást kérő megkeresése,
 
-p) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat esetén a behajtást kérő megkeresése,
+16. a büntetőeljárásban a zár alá vétel elrendeléséről, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat esetén a behajtást kérő megkeresése,
 
-q) az Európai Unió és az Egyesült Nemzetek Szervezete Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés esetén a behajtást kérő megkeresése,
+17. az Európai Unió és az Egyesült Nemzetek Szervezete Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés esetén a behajtást kérő megkeresése,
 
-r) a polgári ügyben az állam által előlegezett költséget tartalmazó megkeresés,
+18. a polgári ügyben az állam által előlegezett költséget tartalmazó megkeresés,
 
-s) a bíróság által előlegezett gyermektartásdíjat tartalmazó megkeresés,
+19. a bíróság által előlegezett gyermektartásdíjat tartalmazó megkeresés,
 
-t) a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a minisztériumot, az igazságügyi szakértői intézményt vagy az államot egyéb jogcímen megillető követelést tartalmazó megkeresés,
+20. a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a minisztériumot, az igazságügyi szakértői intézményt vagy az államot egyéb jogcímen megillető igazságügyi követelést tartalmazó megkeresés,
 
-u) a büntetés-végrehajtási szervezetet a fogvatartottal – illetve a volt fogvatartottal – szemben megillető követelést tartalmazó megkeresés,
+21. a büntetés-végrehajtási szervezetet a fogvatartottal – illetve a volt fogvatartottal – szemben megillető követelést tartalmazó megkeresés,
 
-v) a termékdíjátalány fizetésére jogosult mezőgazdasági termelő termékdíj kötelezettségét tartalmazó bejelentés, és
+22. a termékdíjátalány fizetésére jogosult mezőgazdasági termelő termékdíj kötelezettségét tartalmazó bejelentés, és
 
-w) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
+23. a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
 
 (2) Az okirat végrehajthatóságához külön intézkedésre nincs szükség.
 

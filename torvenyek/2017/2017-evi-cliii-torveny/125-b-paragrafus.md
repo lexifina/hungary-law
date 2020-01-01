@@ -1,5 +1,9 @@
-## 57/B. A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmények végrehajtásának szabályai
+## 57/B. A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmények végrehajtásának szabályai
 
-125/B. § (1) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–XI. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
+125/B. § (1) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–XI. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
 
-(2) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkereséshez csatolni kell a kötelezettség megállapításáról szóló döntést.
+(2) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkereséshez a behajtást kérő csatolja a végrehajtható határozatot vagy jogszabályban meghatározottak szerint a határozat záradékkal ellátott rendelkező részét, határozat hiányában a kötelezettséget megalapozó közokiratot.
+
+(3) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmények végrehajtására a 125/A. § (6)–(7) bekezdése alkalmazandó.
+
+(4) A büntetőeljárásban elrendelt zár alá vétel és a nem pénzösszegben kifejezett vagyonelkobzás, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés esetén fedezetcsere nem engedélyezhető.

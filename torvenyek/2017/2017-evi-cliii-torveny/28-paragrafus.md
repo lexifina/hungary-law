@@ -11,3 +11,5 @@ d) a végrehajtási kifogást elbíráló
 végzés ellen.
 
 (2) Az Art. vagy az Air. szabályainak alkalmazásával hozott végzések elleni fellebbezés tekintetében az Art., illetve az Air. rendelkezéseit kell alkalmazni.
+
+(3) Az adós a büntetőeljárásról szóló törvény szerint élhet jogorvoslattal a végrehajtási eljárást kezdeményező megkeresés alapjául szolgáló büntetőeljárásban hozott határozat ellen.

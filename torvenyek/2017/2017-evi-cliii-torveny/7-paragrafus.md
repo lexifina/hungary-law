@@ -8,7 +8,7 @@
 
 2. adós: az adózó, az adó megfizetésére kötelezett személy, továbbá a pénzfizetésre vagy a meghatározott cselekmény végrehajtására, tűrésére vagy abbahagyására kötelezett személy;
 
-3. behajtást kérő: az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv vagy a tartozás jogosultja, illetve a 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresések esetében jogszabály alapján végrehajtás kezdeményezésére jogosult szerv vagy személy, ideértve a zár alá vétel tekintetében a megkeresőt is;
+3. behajtást kérő: az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv vagy a tartozás jogosultja, illetve a 29. § (1) bekezdés 6. és 9–21. pontjában meghatározott megkeresések esetében jogszabály alapján végrehajtás kezdeményezésére jogosult szerv vagy személy, ideértve a zár alá vétel tekintetében a megkeresőt is;
 
 4. behajtást kérő hatóság: az általános közigazgatási rendtartáson alapuló végrehajtást kezdeményező hatóság;
 

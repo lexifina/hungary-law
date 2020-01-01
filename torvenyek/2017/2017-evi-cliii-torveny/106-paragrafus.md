@@ -1,4 +1,4 @@
-106. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetve a tartozás jogosultja a fizetési határidő lejártát, illetve ha a behajtást kérőt jogszabály valamely eljárási cselekmény foganatosítására kötelezi, ennek eredménytelen megtételét követő 30 nap elteltével megkeresi a hatáskörrel rendelkező illetékes önkormányzati adóhatóságot, vagy az e célra rendszeresített elektronikus űrlapon a hatáskörrel rendelkező illetékes állami adó- és vámhatóságot a behajtás végett, ha a tartozás összege eléri vagy meghaladja a 10 ezer forintot. Törvény ennél alacsonyabb összegű értékhatárt is megállapíthat, de az nem lehet alacsonyabb 5 ezer forintnál.
+106. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetve a tartozás jogosultja a fizetési határidő lejártát, illetve ha a behajtást kérőt jogszabály valamely eljárási cselekmény foganatosítására kötelezi, ennek eredménytelen megtételét követő 30 nap elteltével megkeresi a hatáskörrel rendelkező illetékes önkormányzati adóhatóságot, vagy az állami adó- és vámhatóság által kialakított elektronikus úton a hatáskörrel rendelkező illetékes állami adó- és vámhatóságot a behajtás végett, ha a tartozás összege eléri vagy meghaladja a 10 ezer forintot. Törvény ennél alacsonyabb összegű értékhatárt is megállapíthat, de az nem lehet alacsonyabb 5 ezer forintnál.
 
 (2) Ha a hátralék későbbi megfizetése igazoltan veszélyeztetett, az adóhatóság az (1) bekezdésben meghatározott határidő letelte előtt soron kívül is megkereshető. Ebben az esetben a behajtási megkeresésben a kötelezettség veszélyeztetettségét az okok megjelölésével részletesen indokolni kell.
 
@@ -22,7 +22,7 @@ g) annak a jogszabályhelynek pontos megjelölését, amely az adók módjára v
 
 (5) Ha a behajtást kérőt jogszabály valamely eljárási cselekmény foganatosítására kötelezi, annak megtörténtét a megkeresésben igazolni kell.
 
-(6) A behajtási eljárást az adóhatóság csak pontos – szükség esetén kiegészített – adatok alapján indítja meg. Az adóhatóság behajtási eljárás feltételeinek vizsgálata mellett a behajtási megkeresésben szereplő tartozást sem jogalapjában, sem összegszerűségében nem vizsgálja felül, a megkeresésben foglaltakhoz kötve van.
+(6) A behajtási eljárást az adóhatóság csak pontos – szükség esetén kiegészített – adatok alapján indítja meg. Az adóhatóság a behajtási eljárás feltételeinek vizsgálata mellett a behajtási megkeresésben szereplő tartozást sem jogalapjában, sem összegszerűségében nem vizsgálja felül, a megkeresésben foglaltakhoz kötve van.
 
 (6a) Ha a behajtási eljárás feltételeinek vizsgálata során megállapítható, hogy a megkeresésben foglalt
 
