@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2019-07-10 | 2019. évi LXVI. törvény | 1996-20-00-00.66 |
 | 2019-07-27 | 2007. évi LXXXII. törvény | 1996-20-00-00.67 |
 | 2019-09-30 | 2019. évi LV. törvény | 1996-20-00-00.68 |
+| 2020-01-01 | 2019. évi CV. törvény | 1996-20-00-00.69 |

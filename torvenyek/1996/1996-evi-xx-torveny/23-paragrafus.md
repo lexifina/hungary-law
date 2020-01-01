@@ -32,7 +32,7 @@ m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati k�
 
 n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során;
 
-o) a Központi Statisztikai Hivatal statisztikai célra;
+o) statisztikai célra a Központi Statisztikai Hivatal;
 
 p) az oktatási hivatal az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban részt vevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
 

@@ -39,3 +39,5 @@ f) a hatósági bizonyítvány kiállításának időpontja.
 (7a) Az újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
 
 (8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
+
+(9) A kincstár haladéktalanul, elektronikus úton értesíti az Elektronikus Egészségügyi Szolgáltatási Tér működtetőjét a nyilvántartásában szereplő polgár elhalálozásáról.

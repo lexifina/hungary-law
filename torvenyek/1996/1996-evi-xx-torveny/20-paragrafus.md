@@ -28,7 +28,7 @@ j) a Diákhitel Központ a hallgatói hitelek folyósításával, nyilvántartá
 
 k) a Vám- és Pénzügyőrség, illetve a vámhatóság törvényben meghatározott feladat- és hatáskörébe tartozó ügyekben a természetes személyek azonosításával összefüggésben.
 
-l) a mezőgazdasági igazgatási szerv a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével;
+l) a mezőgazdasági és vidékfejlesztési támogatási szerv a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével;
 
 m) az élelmiszerlánc-felügyeleti szerv az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti felügyeleti díj bevallásának, illetve megfizetésének ellenőrzésével, továbbá az élelmiszerlánc szereplőinek nyilvántartásával összefüggésben;
 
@@ -38,4 +38,6 @@ o) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az 
 
 p) a Központi Statisztikai Hivatal statisztikai célra;
 
-q) az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására a Kormány rendeletében kijelölt szerv, valamint a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban együtt: oktatási hivatal) az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban résztvevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben.
+q) az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására a Kormány rendeletében kijelölt szerv, a szakképzési államigazgatási szerv és a felsőoktatási intézmények nyilvántartását vezető szerv (a továbbiakban együtt: oktatási hivatal) az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban résztvevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
+
+r) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal az általa finanszírozott hazai közfinanszírozású támogatásban részesített projekttel összefüggésben.
