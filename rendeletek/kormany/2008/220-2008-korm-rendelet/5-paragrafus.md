@@ -12,6 +12,6 @@ c) III. kötete az ajánlott irányelveket, diagnosztikai eljárásokat, valamin
 
 ## tartalmazza.
 
-(3)[^18] Az élelmiszerlánc-felügyeletért felelős miniszter a Bizottság javaslata alapján a Magyar Állat-egészségügyi és Állatjóléti Kódex köteteit az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi.
+(3)[^19] Az élelmiszerlánc-felügyeletért felelős miniszter a Bizottság javaslata alapján a Magyar Állat-egészségügyi és Állatjóléti Kódex köteteit az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi.
 
-[^18]: Az 5. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) és f) pontja, (6) bekezdése szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) és f) pontja, (6) bekezdése szerint módosított szöveg.
