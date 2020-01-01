@@ -1,4 +1,4 @@
-3. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^171]
+3. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^172]
 
 I. Az önhibán kívüli akadályozottság hatálya alatt álló szervek
 
@@ -44,4 +44,4 @@ II. Az önhibán kívüli akadályozottság hatálya az I. pontban meghatározot
 
 | 3. | Látvány-csapatsport országos sportági szakszövetsége | A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. § (1) bekezdés a)–e) pontjaiban meghatározott támogatással kapcsolatos hatáskörök szerinti ügyek |
 
-[^171]: A 3. mellékletet az 521/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 101/2018. (VI. 11.) Korm. rendelet 38. §-a, a 290/2018. (XII. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^172]: A 3. mellékletet az 521/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 101/2018. (VI. 11.) Korm. rendelet 38. §-a, a 290/2018. (XII. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.

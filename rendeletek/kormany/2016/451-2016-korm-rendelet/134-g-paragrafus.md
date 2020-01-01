@@ -1,4 +1,4 @@
-134/G. §[^104] (1) A KKSZB Rendszerfelhatalmazási Nyilvántartás a KKSZB azonosítási, jogosultság- és szolgáltatáskezelési rendszere, amely a csatlakozott szervekkel kapcsolatban legalább az alábbi, a KKSZB működéséhez technikailag szükséges adatokat kezeli:
+134/G. §[^105] (1) A KKSZB Rendszerfelhatalmazási Nyilvántartás a KKSZB azonosítási, jogosultság- és szolgáltatáskezelési rendszere, amely a csatlakozott szervekkel kapcsolatban legalább az alábbi, a KKSZB működéséhez technikailag szükséges adatokat kezeli:
 
 a) csatlakozott szerv azonosító adatai,
 
@@ -24,4 +24,4 @@ c) egyéb, a műveletre vonatkozó releváns információ.
 
 (3) A (2) bekezdés szerinti napló nem tartalmazza a KKSZB szolgáltatáson keresztül továbbított üzeneteket.
 
-[^104]: A 134/G. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^105]: A 134/G. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.

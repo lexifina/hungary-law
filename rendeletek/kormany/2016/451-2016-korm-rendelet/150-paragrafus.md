@@ -1,6 +1,6 @@
 ## 35. Automatikus információátadásra köteles együttműködő szervek
 
-## 150. §[^124] Az alábbi nyilvántartások és adatbázisok adatai tekintetében – ha jogszabály eltérően nem rendelkezik – a nyilvántartást vagy adatbázist vezető együttműködő szerv, ennek hiányában a nyilvántartást vagy adatbázist működtető együttműködő szerv a KKSZB KEÜSZ útján köteles automatikus információátadási szolgáltatást nyújtani, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe venni, amelynek keretében biztosítja az alábbi nyilvántartásokban vagy adatbázisokban szereplő adatok automatikus információátadás útján történő átadásának lehetőségét:
+150. §[^125] (1) Az alábbi nyilvántartások és adatbázisok adatai tekintetében – ha jogszabály eltérően nem rendelkezik – a nyilvántartást vagy adatbázist vezető együttműködő szerv, ennek hiányában a nyilvántartást vagy adatbázist működtető együttműködő szerv, továbbá ezen nyilvántartások vagy adatbázisok vezetésére, illetve működtetésére jogszabályban kötelezett valamennyi szervezet a KKSZB KEÜSZ útján köteles automatikus információátadási szolgáltatást nyújtani, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe venni, amelynek keretében biztosítja az alábbi nyilvántartásokban vagy adatbázisokban szereplő adatok automatikus információátadás útján történő átadásának lehetőségét:
 
 1. a központi címregiszter;
 
@@ -10,7 +10,7 @@
 
 4. a Foglalkoztatási és Közfoglalkoztatási Adatbázis;
 
-5. az állami foglalkoztatási szerv feladatainak ellátásához szükséges adatbázis;
+5. az állami foglalkoztatási szerv feladatainak ellátásához szükséges nyilvántartás;
 
 6. az egységes szociális nyilvántartás;
 
@@ -44,16 +44,18 @@
 
 21. az egyéni vállalkozók nyilvántartása;
 
-22. az egységes örökbefogadási nyilvántartás;
+22. a természetes személyek közhiteles országos adósságrendezési nyilvántartása;
 
-23. a természetes személyek közhiteles országos adósságrendezési nyilvántartása;
+23. a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás;
 
-24. a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartás;
+24. a hitelbiztosítéki nyilvántartás;
 
-25. hitelbiztosítéki nyilvántartás;
+25. a gondnokoltak nyilvántartása;
 
-26. gondnokoltak nyilvántartása;
+26. az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása;
 
-27. elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása.
+27. az Integrált Jogalkotási Rendszer adattára.
 
-[^124]: A 150. § a 361/2017. (XI. 30.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+(2) Az (1) bekezdés szerinti nyilvántartásokban vagy adatbázisokban szereplő adat kizárólag a KKSZB KEÜSZ szolgáltatáson keresztül vehető igénybe.
+
+[^125]: A 150. § a 176/2019. (VII. 18.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
