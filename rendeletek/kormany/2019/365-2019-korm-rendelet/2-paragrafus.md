@@ -1,1 +1,3 @@
-## 1. § Az új tűzoltólaktanyák létrehozását és fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 260/2016. (VIII. 31.) Korm. rendelet 1. mellékletében foglalt táblázat C:7 mezőjében az „1602/4 helyrajzi számú ingatlan;” szövegrész helyébe az „1602/4, 1602/4/A, 085/9, valamint 080/13 helyrajzi számú ingatlanok;” szöveg lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
