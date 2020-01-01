@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-69-20-2
 | 2017-01-02 | 2016-69-20-2W.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2016-69-20-2W.3 | 52/2017. (XII. 22.) NFM rendelet |
 | 2018-03-31 | 2016-69-20-2W.4 | 8/2018. (III. 28.) NFM rendelet |
+| 2020-01-01 | 2016-69-20-2W.5 | 48/2019. (XII. 23.) ITM rendelet |

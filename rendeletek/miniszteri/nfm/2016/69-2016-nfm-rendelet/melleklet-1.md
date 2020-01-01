@@ -1,4 +1,4 @@
-1. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^10]
+1. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^11]
 
 1. Az egyetemes szolgáltató által az I. árkategória esetében alkalmazandó díjak
 
@@ -32,7 +32,7 @@
 
 | 3. | <20 m3/h gázmérővel rendelkező nem lakossági felhasználók | 12 312 | 2,957 |
 
-1.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+1.4. A TIGÁZ Földgázelosztó Zártkörűen Működő Részvénytársaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C |
 
@@ -104,7 +104,7 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,465 |
 
-2.4. A TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
+2.4. A TIGÁZ Földgázelosztó Zártkörűen Működő Részvénytársaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén alkalmazandó díjak:
 
 |  | A | B | C | D | E |
 
@@ -124,4 +124,4 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,551 |
 
-[^10]: Az 1. melléklet az 52/2017. (XII. 22.) NFM rendelet 38. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet az 52/2017. (XII. 22.) NFM rendelet 38. § b) pontja, a 48/2019. (XII. 23.) ITM rendelet 10. § (2) bekezdése szerint módosított szöveg.
