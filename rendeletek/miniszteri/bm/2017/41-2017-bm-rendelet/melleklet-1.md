@@ -30,7 +30,7 @@
 
 2.3.4. a vízgazdálkodási cél és a tervezett műszaki megoldás megítélése szempontjából jelentős egyéb körülmények;
 
-2.3.5. a vízgazdálkodási cél megvalósításával érintett térség 1:1000–1:5000, illetőleg a szükséges áttekintést nyújtó egyéb méretarányú helyszínrajza, amely feltünteti
+2.3.5. a vízgazdálkodási cél megvalósításával érintett térség 1:1000–1:5000, illetőleg a szükséges áttekintést nyújtó egyéb méretarányú helyszínrajza vagy – a kérelmező döntése szerint a helyszínrajzok helyett – digitális térképe, amely feltünteti
 
 a) a tervezett vízilétesítmények vízgazdálkodási szempontból érintett hatásterületét és annak határát,
 
@@ -54,7 +54,7 @@ ad) a vízkivétel időszaka és üteme, a vízkezelés tervezett módja, a víz
 
 ae) a felszín alatti vízkészlet tervezett igénybevétele esetén a külön jogszabály szerint szükséges egyéb adatok,
 
-af) a 2.3.5. pontban meghatározott méretarányú helyszínrajz, amelyen fel kell tüntetni a vízkivétel helyét (vízfolyás, csatorna, természetes vagy mesterséges tó, tározó), a vízbeszerzésre szolgáló művet és a nyomvonalát, valamint a vízhasználat helyét,
+af) a 2.3.5. pont szerinti méretarányú helyszínrajz vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amelyen fel kell tüntetni a vízkivétel helyét (vízfolyás, csatorna, természetes vagy mesterséges tó, tározó), a vízbeszerzésre szolgáló művet és a nyomvonalát, valamint a vízhasználat helyét,
 
 b) a szennyvízelvezetés esetén:
 
@@ -64,7 +64,7 @@ bb) a szennyvíz elhelyezésének módja, lehetőségei a befogadó megjelölés
 
 bc) a szennyvíziszap keletkezésének, valamint elhelyezésének módja,
 
-bd) a 2.3.5. pontban meghatározott méretarányú helyszínrajz, amelyen fel kell tüntetni a szennyvíz keletkezésének helyét, továbbá a szennyvíztisztító (kezelő) művek általános elrendezését, valamint a szennyvíz befogadóját és a bebocsátás helyét,
+bd) a 2.3.5. pont szerinti méretarányú helyszínrajz vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amelyen fel kell tüntetni a szennyvíz keletkezésének helyét, továbbá a szennyvíztisztító (kezelő) művek általános elrendezését, valamint a szennyvíz befogadóját és a bebocsátás helyét,
 
 c) vízkárelhárítás esetén:
 
@@ -72,16 +72,16 @@ ca) a káros vizekre jellemző mértékadó hidrológiai értékek,
 
 cb) a védeni kívánt területek hidrográfiai, gazdasági és egyéb jellemző adatainak leírása, ideértve a védett érték hozzávetőleges nagysága,
 
-cc) a védeni kívánt terület és annak határa, valamint a területen levő településeket, a lakott területeken a fontosabb gazdasági és egyéb létesítményeket feltüntető, az 2.3.5. pont szerinti méretarányú helyszínrajz,
+cc) a védeni kívánt terület és annak határa, valamint a területen levő településeket, a lakott területeken a fontosabb gazdasági és egyéb létesítményeket feltüntető, a 2.3.5. pont szerinti méretarányú helyszínrajz vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép,
 
 d) vízrendezés esetén:
 
 da) a rendezés alapjául szolgáló fajlagos vízszállítási értékek, befogadóra gyakorolt mennyiség, minőségi és ökológiai hatás,
 
-db) a vízrendezéssel érintett terület helyszínrajza.
+db) a vízrendezéssel érintett terület helyszínrajza vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térképe.
 
 2.4. A környezeti hatások jelentősége vizsgálatának eredménye.
 
 [^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 6/2018. (III. 5.) BM rendelet 5. §-a iktatta be.
 [^2]: A hatálybalépés időpontja 2018. március 20.
-[^3]: Az 1. melléklet a 6/2018. (III. 5.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet a 6/2018. (III. 5.) BM rendelet 6. § a) pontja, a 43/2019. (XII. 14.) BM rendelet 4. § a) pontja szerint módosított szöveg.

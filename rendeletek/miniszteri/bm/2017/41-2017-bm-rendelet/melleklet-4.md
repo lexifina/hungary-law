@@ -62,9 +62,9 @@
 
 ## 2.3.7. kutak esetén a vízbeszerzési terv (vízföldtani szakvélemény);
 
-## 2.3.8. általános (átnézetes) helyszínrajz 1:10 000 méretarányban, amely feltünteti a vízbeszerzés helyét és szükség esetén a vízelvezetést a befogadóig;
+## 2.3.8. általános (átnézetes) helyszínrajz 1:10 000 méretarányban vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti a vízbeszerzés helyét és szükség esetén a vízelvezetést a befogadóig;
 
-## 2.3.9. részletes helyszínrajz 1:1000–1:4000 méretarányban feltüntetve
+## 2.3.9. részletes helyszínrajz 1:1000–1:4000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## a) a vízbeszerzési létesítmény(ek) közvetlen környezetének eredeti és a tervezett állapotát a szükséges vízszintes és magassági adatokkal,
 
@@ -288,7 +288,7 @@
 
 ## 2.3.12. az igénybe vett vízkészletet érő rendkívüli szennyezés esetére előkészített kárvédelmi létesítmények, technológiai beavatkozások, intézkedési tervek.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:10000 méretarányban, amely feltünteti a tervbe vett létesítményt, kiemelten megjelölve (vízbeszerzés, víztisztítás, víztárolás, vezetékek)
+## 2.4. Általános (átnézetes) helyszínrajz 1:10000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti a tervbe vett létesítményt, kiemelten megjelölve (vízbeszerzés, víztisztítás, víztárolás, vezetékek)
 
 ## 2.4.1. a meglévő és tervezett vízbeszerzési helyeket;
 
@@ -296,7 +296,7 @@
 
 ## 2.4.3. az elfolyó vizek elvezetését és befogadóját (EOV koordináták).
 
-## 2.5. Részletes helyszínrajz 1:1000–1:4000 méretarányban, amely feltünteti
+## 2.5. Részletes helyszínrajz 1:1000–1:4000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.5.1. az érintett terület(ek) helyrajzi számát és határoló vonalát;
 
@@ -348,7 +348,7 @@
 
 ## 2.13. Közcélú szolgalmi jog megállapítására irányuló kérelem esetén:
 
-## 2.13.1. a vízvezetési szolgalommal érintett ingatlan általános és részletes helyszínrajza, a létesítmény megvalósításával és üzemeltetésével összefüggő vízvezetési szolgalom gyakorlásával járó tulajdoni, használati korlátozásokra történő utalás, illetőleg az ingatlan szolgalommal érintett, természetben meghatározott részének megjelölése;
+## 2.13.1. a vízvezetési szolgalommal érintett ingatlan általános és részletes helyszínrajza, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térképe, a létesítmény megvalósításával és üzemeltetésével összefüggő vízvezetési szolgalom gyakorlásával járó tulajdoni, használati korlátozásokra történő utalás, illetőleg az ingatlan szolgalommal érintett, természetben meghatározott részének megjelölése;
 
 ## 2.13.2. a tulajdoni, használati korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatai.
 
@@ -474,7 +474,7 @@
 
 ## n) tervezett tisztítási technológiák alkalmazási engedélye.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:10 000 méretarányban, amely feltünteti
+## 2.4. Általános (átnézetes) helyszínrajz 1:10 000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.4.1. a tervbe vett létesítményt, kiemelten megjelölve a befogadót, tisztítótelepet, főgyűjtőket, átemelőket,
 
@@ -484,7 +484,7 @@
 
 ## 2.4.4. a védőterületeket, védősávokat és ezek határvonalát.
 
-## 2.5. Részletes helyszínrajz 1:1000–1:4000 méretarányban, amely feltünteti
+## 2.5. Részletes helyszínrajz 1:1000–1:4000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.5.1. a létesítményekkel érintett terület(ek) helyrajzi számát és határoló vonalát,
 
@@ -536,7 +536,7 @@
 
 ## 2.12. Közcélú szolgalmi jog megállapítására irányuló kérelem esetén:
 
-## 2.12.1. a vízvezetési szolgalommal érintett ingatlan általános és részletes helyszínrajza, a létesítmény megvalósításával és üzemeltetésével összefüggő vízvezetési szolgalom gyakorlásával járó tulajdoni, használati korlátozásokra történő utalás, illetőleg az ingatlan szolgalommal érintett, természetben meghatározott részének megjelölése;
+## 2.12.1. a vízvezetési szolgalommal érintett ingatlan általános és részletes helyszínrajza, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térképe, a létesítmény megvalósításával és üzemeltetésével összefüggő vízvezetési szolgalom gyakorlásával járó tulajdoni, használati korlátozásokra történő utalás, illetőleg az ingatlan szolgalommal érintett, természetben meghatározott részének megjelölése;
 
 ## 2.12.2. a tulajdoni, használati korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatai.
 
@@ -606,7 +606,7 @@
 
 ## 2.3.8. próbaüzemi terv: előírások.
 
-## 2.4. Áttekintő helyszínrajz M: 1:500–1:5000, amely feltünteti a tervezett létesítményt és környezetét a befogadó bebocsátási pontjával, vízszintes és magassági adatokkal.
+## 2.4. Áttekintő helyszínrajz M: 1:500–1:5000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti a tervezett létesítményt és környezetét a befogadó bebocsátási pontjával, vízszintes és magassági adatokkal.
 
 ## 2.5. A környezeti hatások jelentősége vizsgálatának eredménye.
 
@@ -714,13 +714,13 @@
 
 ## 2.3.8. az érintett vízi- és egyéb létesítmények megjelölése és leírása.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:10 000–1:100000 méretarányban, amely feltünteti
+## 2.4. Általános (átnézetes) helyszínrajz 1:10 000–1:100000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.4.1. az öntözendő területnek és a közvetlen környéknek az öntöző-, belvízcsatornáját;
 
 ## 2.4.2. a legközelebbi település belterületének határvonalát.
 
-## 2.5. Részletes (rétegvonalas) helyszínrajz 1:4000–1:10000 méretarányban, amely feltünteti
+## 2.5. Részletes (rétegvonalas) helyszínrajz 1:4000–1:10000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.5.1. az öntözendő terület rétegvonalát (felületi öntözési módnál);
 
@@ -750,9 +750,9 @@
 
 ## 2.10.5. ha a tervezett vízimunka, vízilétesítmény vagy vízhasználat a hatósági határozaton alapuló vízvezetési szolgalom útján valósult meg, az üzemeltetéssel összefüggő és a szolgalom gyakorlásával járó használati korlátozások tartalma, továbbá e korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatok.
 
-## 3. Öntözési berendezések megszüntetési engedélyezési eljáráshoz szükséges egyszerűsített dokumentáció tartalma (a 2. pontban foglaltak helyett)
+## 3. Öntözőtelep megszüntetési engedélyezési eljáráshoz szükséges egyszerűsített dokumentáció tartalma (a 2. pontban foglaltak helyett)
 
-## 3.1. Az öntözési berendezés helye és területe.
+## 3.1. Az öntözőtelep helye és területe.
 
 ## 3.2. A vízkivétel módja (gravitációs vagy gépi emelés) helye, a vizet adó vízfolyás megnevezése és szelvényszáma vagy pedig a vizet adó tó, holtág, illetőleg tározó megnevezése.
 
@@ -766,7 +766,7 @@
 
 ## 4. A tervezett vízilétesítmények (öntözőrendszer, öntözőfürt, szivattyútelep, szivattyúállás, kút, kútfürt, létesített vízfolyás, tározó, áteresz, bujtató, bukó, duzzasztómű, osztómű, szivornya, zsilip, felszín alatti vízelvonás – vízterhelési pont, felszíni vízkivétel – vízterhelési pont, öntözőtelep, rizstelep, felszíni vízbevezetés – vízterhelési pont vagy vízhozammérő műtárgy) részletes műszaki adatai.
 
-## VII. Egynyári öntözésre vonatkozó dokumentáció tartalma
+## VII. Egyszerűsített öntözési vízhasználatra vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
 
@@ -860,7 +860,7 @@
 
 ## 2.3.11. a vízilétesítmény földműveinek hullámverés elleni védelme, a partvédelmi művek kialakítása.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:10000–1:100000 méretarányban, amely feltünteti:
+## 2.4. Általános (átnézetes) helyszínrajz 1:10000–1:100000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti:
 
 ## 2.4.1. a tározó, halastó főbb magassági adatait;
 
@@ -874,9 +874,9 @@
 
 ## 2.4.6. a legközelebbi település belterületének határvonalát.
 
-## 2.5. Rétegvonalas részletes helyszínrajz 1:1000–1:10000 méretarányban, amely feltünteti
+## 2.5. Rétegvonalas részletes helyszínrajz 1:1000–1:10000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
-## 2.5.1. az általános helyszínrajzon felvett adatokat, kivéve belterület határvonalát;
+## 2.5.1. az általános helyszínrajzon vagy digitális térképen felvett adatokat, kivéve belterület határvonalát;
 
 ## 2.5.2. vonalas létesítmények esetében a szelvényezést;
 
@@ -952,7 +952,7 @@
 
 ## 2.3.6. az érintett vízi- és egyéb létesítmények megjelölése és leírása.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:25000–1:100000 méretarányban, amely feltünteti:
+## 2.4. Általános (átnézetes) helyszínrajz 1:25000–1:100000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti:
 
 ## 2.4.1. a magassági adatokat,
 
@@ -964,7 +964,7 @@
 
 ## 2.4.5. a legközelebbi település belterületének határvonalát.
 
-## 2.5. Részletes helyszínrajz 1:1000–1:10 000 méretarányban, amely feltünteti:
+## 2.5. Részletes helyszínrajz 1:1000–1:10 000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti:
 
 ## 2.5.1. a vízszolgáltató mű által ellátott területet és üzemet,
 
@@ -1036,7 +1036,7 @@
 
 ## 2.3.6. az érintett vízi- és egyéb létesítmények felsorolása.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:25000–1:100000 méretarányban, amely feltünteti:
+## 2.4. Általános (átnézetes) helyszínrajz 1:25000–1:100000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti:
 
 ## 2.4.1. a magassági adatokat;
 
@@ -1046,7 +1046,7 @@
 
 ## 2.4.4. a vízfolyás, vízmosás rendezéssel érintett vízgyűjtőn levő települések belterületének határvonalát;
 
-## 2.5. Részletes helyszínrajz szükség szerint 1:1000–1:10000 méretarányban, amely feltünteti:
+## 2.5. Részletes helyszínrajz szükség szerint 1:1000–1:10000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti:
 
 ## 2.5.1. a vízfolyás szelvényezett nyomvonalát;
 
@@ -1106,7 +1106,7 @@
 
 ## 2.3.6. az érintett vízi- és egyéb létesítmények felsorolása.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:25000–1:100000 méretarányban, amely feltünteti
+## 2.4. Általános (átnézetes) helyszínrajz 1:25000–1:100000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.4.1. a magassági adatokat;
 
@@ -1118,7 +1118,7 @@
 
 ## 2.4.5. az érintett területen és közvetlen környezetében lévő településeket.
 
-## 2.5. Részletes helyszínrajz 1:1000–1:10000 méretarányban, amely feltünteti
+## 2.5. Részletes helyszínrajz 1:1000–1:10000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.5.1. a vízrendezéssel, lecsapolással, alagcsövezéssel érintett vízgyűjtőterületet és annak közvetlen környezetét;
 
@@ -1190,7 +1190,7 @@
 
 ## 2.3.5. a befogadó vízfolyás.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:10000–1:25000 méretarányban, amely feltünteti
+## 2.4. Általános (átnézetes) helyszínrajz 1:10000–1:25000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.4.1. a tervbe vett létesítményt;
 
@@ -1198,7 +1198,7 @@
 
 ## 2.4.3. a befogadó vízfolyást.
 
-## 2.5. Részletes helyszínrajz 1:10000–1:50000 méretarányban, amely feltünteti:
+## 2.5. Részletes helyszínrajz 1:10000–1:50000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti:
 
 ## 2.5.1. vonalas létesítmények (főcsatornák, töltések) esetén azok hossz-szelvényét (vízszintes vetület: 1:5000–1:20000, magassági vetület: 1:100), a műtárgyakkal, mértékadó vízszintekkel,
 
@@ -1260,7 +1260,7 @@
 
 ## 2.3.5. mederhasználati vízilétesítmény esetén áramlástani modell bemutatása, kismintakísérlettel és áramlási viszonyok vizsgálatával.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:100000–1:150000 méretarányban, amely feltünteti
+## 2.4. Általános (átnézetes) helyszínrajz 1:100000–1:150000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, amely feltünteti
 
 ## 2.4.1. a magassági adatokat;
 
@@ -1342,15 +1342,17 @@
 
 1.6. A felülvizsgált és elfogadott vízgyűjtő-gazdálkodási tervhez való igazodás vizsgálata, továbbá a nagyvízi mederkezelési tervvel való összhang megteremtése.
 
-2. Átnézetes helyszínrajz M=1:25 000 vagy 1:10 000 méretarányban, a tervbe vett létesítmény és a meglevő vízilétesítmények feltüntetésével.
+2.[^6] Átnézetes helyszínrajz M=1:25 000 vagy 1:10 000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, a tervbe vett létesítmény és a meglevő vízilétesítmények feltüntetésével.
 
-3. Részletes helyszínrajz M=1:10 000, 1:4000 vagy 1:2000 méretarányban, a tervbe vett létesítmény, a meglévő érintett (megközelített, keresztezett) vízilétesítmények, és a vízgazdálkodási létesítmény magassági adatainak és mértékadó árvízszintjének feltüntetésével.
+3.[^7] Részletes helyszínrajz M=1:10 000, 1:4000 vagy 1:2000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, a tervbe vett létesítmény, a meglévő érintett (megközelített, keresztezett) vízilétesítmények, és a vízgazdálkodási létesítmény magassági adatainak és mértékadó árvízszintjének feltüntetésével.
 
 4. Keresztezési műtárgyak általános terve M=1:100 vagy 1:200 méretarányban, feltüntetve a keresztezett létesítmény minden műszaki jellemzőjét, fenékszint, levezetési szint, rézsűfenék szélesség, vízhozam, keresztezési magassági elhelyezés, védőtávolság, egyéb adatok.
 
-5.[^6] Vonalas létesítmények esetén a hossz-szelvény a részletes helyszínrajznak megfelelő méretarányban, az úgynevezett abszolút magassági adatok feltüntetésével.
+5.[^8] Vonalas létesítmények esetén a hossz-szelvény a részletes helyszínrajznak vagy digitális térképnek megfelelő méretarányban, az úgynevezett abszolút magassági adatok feltüntetésével.
 
-6.[^7] Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részletterve, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
+6.[^9] Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részletterve, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-[^6]: A 4. melléklet 5. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.
-[^7]: A 4. melléklet 6. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.
+[^6]: A 4. melléklet 2. pontja a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^7]: A 4. melléklet 3. pontja a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^8]: A 4. melléklet 5. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be, szövege a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^9]: A 4. melléklet 6. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.
