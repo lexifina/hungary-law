@@ -2,6 +2,6 @@
 
 12. § (1) A 2. és 3. §-ban meghatározott személyek számára számítástechnikai eszközök (hordozható személyi számítógép, táblagép) és rádiótelefon használatát kell biztosítani.
 
-(2)[^15] Az (1) bekezdés szerinti eszközök használatára vonatkozó részletszabályokat – az e-közigazgatásért felelős miniszter előzetes egyetértésével – belső szabályzat állapítja meg.
+(2)[^31] Az (1) bekezdés szerinti eszközök használatára vonatkozó részletszabályokat – az e-közigazgatásért felelős miniszter előzetes egyetértésével – belső szabályzat állapítja meg.
 
-[^15]: A 12. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^31]: A 12. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés h) pontja szerint módosított szöveg.

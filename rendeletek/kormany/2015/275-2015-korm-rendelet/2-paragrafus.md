@@ -1,25 +1,31 @@
 ## 2. A jogosult személyeket megillető juttatások
 
-## 2. § A minisztert, az államtitkárt, a közigazgatási államtitkárt, a helyettes államtitkárt és az ilyen juttatásokra jogosult személyeket megillető juttatások körét és mértékét – jogosultankénti bontásban – az 1. melléklet tartalmazza, melyek a következők:
+2. §[^5] (1) Az állami vezetőt és az ilyen juttatásokra jogosult személyeket megillető juttatások köre a következő:
 
-a) egy hivatali lakás használata;
+a) egy hivatali lakás használata,
 
-b) kiemelt egészségügyi ellátás;
+b) kiemelt egészségügyi ellátás,
 
-c) személygépkocsival kapcsolatos juttatások
+c) személygépjárművel kapcsolatos juttatások
 
-ca) személyes gépkocsihasználat,
+ca) személyes gépjárműhasználat,
 
-cb) a személygépkocsi kategóriájának meghatározása,
+cb) 8. § (3) bekezdés szerinti költségátalány,
 
-cc) a Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF) állományába tartozó gépkocsivezető biztosítása;
+cc) a 8. § (4) bekezdése szerinti üzemanyagkártya,
+
+cd) a Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF) által vizsgáztatott és a KEF által szervezett képzéseket sikeresen elvégző, a minisztérium, a Miniszterelnöki Kormányiroda alaplétszámába, vagy a KEF állományába tartozó gépjárművezető biztosítása,
 
 d) utazással kapcsolatos juttatások
 
-da) repülőgépen, vonaton történő utazás komfortfokozata és
+da) repülőgépen, vonaton történő utazás komfortfokozata, és
 
-db) repülőtéri kormányváró helyiségek használata;
+db) repülőtéri kormányváró helyiségek használata,
 
-e) külföldön tartózkodással kapcsolatos juttatások (költségtérítés és napidíj jogosultság), valamint
+e) külföldön tartózkodással kapcsolatos juttatások (költségtérítés és napidíj-jogosultság), és
 
 f) számítástechnikai eszközök (hordozható személyi számítógép, táblagép) és rádiótelefon használata.
+
+(2) Az állami vezetők juttatásainak mértékét az 1. melléklet tartalmazza.
+
+[^5]: A 2. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.

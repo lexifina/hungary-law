@@ -1,14 +1,6 @@
 ## 8. Külföldön tartózkodással kapcsolatos juttatások
 
-11. § (1) Az ideiglenes külföldi kiküldetést teljesítő
-
-a) állami vezető,
-
-b) a 3. § (1) bekezdés 1., 2. és 3. pontjában és
-
-c) a 3. § (2) bekezdésében meghatározott személy
-
-## külföldi tartózkodása idejére költségtérítés, valamint – a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló kormányrendelet szerinti – napidíj illeti meg.
+11. § (1)[^30] Az ideiglenes külföldi kiküldetést teljesítő e rendelet szerinti juttatásra jogosultat külföldi tartózkodása idejére költségtérítés, valamint – a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló kormányrendelet szerinti – napidíj illeti meg.
 
 (2) A költségtérítés magában foglalja
 
@@ -23,3 +15,5 @@ c) a kiküldetés teljesítésével összefüggésben felmerülő egyéb indokol
 (4) A külföldi szállás, szálloda kategóriáját a kiküldő szerv vezetője által belső szabályzatban meghatározott szempontok szerint kell megválasztani. A küldöttség tagjai számára – indokolt esetben – a küldöttség vezetőjét megillető szállodában történő elhelyezés is biztosítható.
 
 (5) A miniszter, az államtitkár és a közigazgatási államtitkár az (1) bekezdés szerint megállapított napidíjról lemondhat.
+
+[^30]: A 11. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (12) bekezdésével megállapított szöveg.

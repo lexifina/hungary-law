@@ -1,11 +1,9 @@
-9. § (1)[^12] A Miniszterelnöki Kormányiroda közigazgatási államtitkára a KEF ellátási körébe tartozó minisztériumok, valamint a Miniszterelnöki Kormányiroda esetében a 8. § (1) és a (2) bekezdésében meghatározott személyek által irányított szervezeti egységek részére indokolt esetben szervezeti egységhez kirendelt személygépkocsi-használatot engedélyezhet a munkáltatói jogkör gyakorlója által felterjesztett kérelem alapján. A Miniszterelnöki Kormányiroda közigazgatási államtitkára a döntése során figyelembe veszi a KEF főigazgatójának véleményét abban a tekintetben, hogy a kérelem a rendelkezésre álló erőforrások alapján teljesíthető-e.
+9. §[^25] (1) A miniszternek – e § és a 9/A. § alkalmazásában ideértve a Miniszterelnöki Kormányiroda közigazgatási államtitkárát – közvetlenül a KEF-hez benyújtott, erre irányuló igénye alapján a KEF minisztériumonként legfeljebb nyolc darab, személyes vagy – tételes menetlevél vezetése mellett – feladatorientált használatra is kiadható, állandó használatú gépjárművet biztosít.
 
-(2)[^13] A munkáltatói jogkör gyakorlója az (1) bekezdésben szereplő szervezeti egység elnevezésének változásáról, illetve megszűnéséről a Miniszterelnöki Kormányiroda közigazgatási államtitkárát és a KEF főigazgatóját értesíti.
+(2) A Kit. 28. § (3) bekezdése szerinti államtitkárnak közvetlenül a KEF-hez benyújtott, erre irányuló igénye alapján legfeljebb tíz darab, személyes vagy – tételes menetlevél vezetése mellett – feladatorientált használatra is kiadható, állandó használatú gépjárművet biztosít.
 
-(3)[^14] Ha az (1) bekezdésben szereplő szervezeti egység elnevezésében változás történik, a szervezeti egységhez kirendelt személygépkocsira vonatkozó igény fennállása esetén a Miniszterelnöki Kormányiroda közigazgatási államtitkára újbóli engedélyt ad ki, e döntése során a KEF főigazgatójának véleményét nem szükséges kikérni.
+(3) Az (1) bekezdés szerinti gépjárművet a miniszter, illetve a Miniszterelnöki Kormányiroda közigazgatási államtitkárának – a (2) bekezdés szerinti esetben az államtitkár – írásos döntése szerint kell a használók rendelkezésére bocsátani.
 
-(4) Ha az (1) bekezdésben szereplő szervezeti egység megszűnik, a szervezeti egységhez kirendelt személygépkocsit vissza kell szolgáltatni a KEF részére.
+(4) Az (1) és (2) bekezdés alapján biztosított feladatorientált, illetve személyes használatú gépjárművek kiadásáról a KEF tájékoztatja a Miniszterelnöki Kormányiroda közigazgatási államtitkárát.
 
-[^12]: A 9. § (1) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés e)–f) pontja szerint módosított szöveg.
-[^13]: A 9. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés g) pontja szerint módosított szöveg.
-[^14]: A 9. § (3) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^25]: A 9. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (10) bekezdésével megállapított szöveg.

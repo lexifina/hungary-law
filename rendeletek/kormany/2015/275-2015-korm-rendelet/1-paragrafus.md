@@ -4,14 +4,19 @@
 
 1. állami vezető: miniszter, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
 
-2. egészségügyi szolgáltató: a kiemelt egészségügyi ellátásra jogosult személy részére a Magyar Honvédség Egészségügyi Központ és a Semmelweis Egyetem kijelölt – egészségügyi ellátást biztosító – intézménye,
+2.[^1] egészségügyi szolgáltató: a kiemelt egészségügyi ellátásra jogosult személy részére a Magyar Honvédség Egészségügyi Központ és az Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő,
 
 3. hivatali lakás: egy személy beköltözése esetén kettő, egyéb esetben az együttlakó személyek számának megfelelő, de legkevesebb három lakószobával rendelkező lakás, mely műszakilag, valamint fenntartási, üzemeltetési és biztonsági szempontból alkalmas az állami vezetői feladatkör ellátásához,
 
 4. kiküldött: ideiglenes külföldi kiküldetést teljesítő személy,
 
-5. személygépkocsi-kategória: a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendelet felhatalmazása alapján kiadott, az országosan kiemelt termékekre vonatkozó állami normatívákról szóló miniszteri utasítás szerinti személygépkocsi, amely lehet felső-közép 8. kategóriájú, felső-közép 7. kategóriájú, valamint miniszteri használat céljára beszerzett személygépjármű,
+4a.[^2] lakástulajdon: egy személy beköltözése esetén kettő, egyéb esetben az együttlakó személyek számának megfelelő, de legkevesebb három lakószobával rendelkező lakás, azzal, hogy nem minősül lakástulajdonnak a jogosult vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában álló olyan lakás, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn,
 
-6.[^1] szervezeti egységhez kirendelt személygépkocsi: olyan, kizárólag hivatalos célú használatra, tételes menetlevél vezetésével igénybe vehető személygépkocsi, melynek használatát a Miniszterelnöki Kormányiroda közigazgatási államtitkára engedélyezheti az e rendeletben meghatározott szervezeti egységek számára.
+5.[^3] személygépjármű: a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendelet felhatalmazása alapján kiadott, az országosan kiemelt termékekre vonatkozó állami normatívákról szóló miniszteri utasítás szerinti személyszállító személygépjármű, amely lehet felső-közép 8. kategóriájú, felső-közép 7. kategóriájú, valamint miniszteri használat céljára beszerzett személyszállító személygépjármű.
 
-[^1]: Az 1. § 6. pontja a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés a) pontja szerint módosított szöveg.
+6.[^4]
+
+[^1]: Az 1. § 2. pontja a 360/2019. (XII. 30.) Korm. rendelet 146. § (16) bekezdése a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 4a. pontját a 360/2019. (XII. 30.) Korm. rendelet 146. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 6. pontját a 360/2019. (XII. 30.) Korm. rendelet 146. § (17) bekezdés a) pontja hatályon kívül helyezte.

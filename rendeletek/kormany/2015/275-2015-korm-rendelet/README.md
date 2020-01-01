@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-275-20-
 | 2015-10-09 | 2015-275-20-22.3 | 295/2015. (X. 8.) Korm. rendelet |
 | 2015-10-27 | 2015-275-20-22.4 | 306/2015. (X. 26.) Korm. rendelet |
 | 2018-06-12 | 2015-275-20-22.5 | 101/2018. (VI. 11.) Korm. rendelet |
+| 2020-01-01 | 2015-275-20-22.6 | 360/2019. (XII. 30.) Korm. rendelet |
