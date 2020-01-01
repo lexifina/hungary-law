@@ -9,3 +9,5 @@
 (5) Az alapvető jogok biztosa elősegíti az emberi jogok érvényesülését és védelmét. Ennek során társadalmi tudatformáló, felvilágosító tevékenységet végez és együttműködik azon szervezetekkel és nemzeti intézményekkel, amelyek célja az alapvető jogok védelmének előmozdítása.
 
 (6) Az alapvető jogok biztosa ellátja a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve 3. cikke szerinti nemzeti megelőző mechanizmus feladatait.
+
+(7) Az alapvető jogok biztosa az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatójának, a terrorizmust elhárító szerv főigazgatójának, illetve az idegenrendészeti szerv főigazgatójának utasítás kiadására, módosítására vagy hatályon kívül helyezésére.

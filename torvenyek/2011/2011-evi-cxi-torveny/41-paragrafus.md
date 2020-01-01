@@ -4,7 +4,7 @@
 
 41. § (1) Az alapvető jogok biztosának a feladatával kapcsolatos ügyvitel és előkészítés teendőit a Hivatal látja el.
 
-(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti.
+(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A Hivatal Szervezeti és Működési Szabályzatát az alapvető jogok biztosa normatív utasításban állapítja meg.
 

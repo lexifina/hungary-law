@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-111-00-00
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2011-111-00-00.14 |
 | 2018-01-01 | 2017. évi L. törvény | 2011-111-00-00.15 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-111-00-00.16 |
+| 2020-01-01 | 2019. évi CIX. törvény | 2011-111-00-00.17 |
