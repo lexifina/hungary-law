@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1818-30
 | 2017-11-08 | 2016-1818-30-22.5 | 1345/2017. (VI. 9.) Korm. határozat |
 | 2018-03-13 | 2016-1818-30-22.6 | 1345/2017. (VI. 9.) Korm. határozat |
 | 2018-12-17 | 2016-1818-30-22.7 | 1345/2017. (VI. 9.) Korm. határozat |
+| 2020-01-01 | 2016-1818-30-22.8 | 2011: CXCV. törvény |
