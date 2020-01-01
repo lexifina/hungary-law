@@ -1,6 +1,6 @@
 73/B. § Felhatalmazást kap a Kormány, hogy
 
-a) a polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának részletes szabályait,
+a) a polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, valamint az üzembentartási engedély kötelező tartalmi elemeit,
 
 b) a polgári légiközlekedési szakszemélyzet tekintetében a szakszolgálati engedélyek kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
 

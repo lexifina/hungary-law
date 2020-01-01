@@ -8,15 +8,19 @@ c) a nemzetközi repülések végrehajtásával összefüggésben a repülőtere
 
 d) a 61. § (5) bekezdésben meghatározott költségátalány tekintetében a tényleges költségek és a terv költségek közötti lényeges eltérés esetére vonatkozó elszámolási szabályokat,
 
-e)–h)
+e) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, komponens és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának általános szabályait,
+
+f) a polgári célú légiközlekedési szakszemélyzet tagjainak körét, akiknek képzéséhez a légiközlekedési hatóság engedélye szükséges, továbbá a képzési engedély tartalmára vonatkozó általános szabályokat.
+
+g)–h)
 
 i) a bérbeadott légijármű üzemben tartásával kapcsolatos általános szabályokat,
 
 j) a nemzetközi repülőtérré nyilvánítás szabályait,
 
-k)
+k) a polgári légijármű, valamint a légiközlekedéssel kapcsolatos eszköz típusalkalmassági tanúsítvány felfüggesztésének és visszavonásának részletes szabályait,
 
-l)
+l) a légialkalmassági tanúsítvány kötelező tartalmi elemeit, valamint az üzemben tartónak a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatait.
 
 m) a polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervre és a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervre vonatkozó szabályokat,
 

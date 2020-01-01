@@ -22,7 +22,7 @@ c) a légiközlekedést szolgáló légiforgalmi földi berendezés
 
 (5) Ha az üzemben tartó az engedélyben és a jogszabályban előírt feltételeket súlyosan vagy tartósan megszegi, akkor az üzemben tartási engedélyt a kiadó hatóság felfüggeszti, vagy visszavonja.
 
-(6) A polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, valamint az (1) bekezdés b) pontja tekintetében az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
+(6) A polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, az üzembentartási engedély kötelező tartalmi elemeit, valamint az (1) bekezdés b) pontja tekintetében az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
 
 (7) A légiközlekedési hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvántartás tartalmazza:
 
@@ -38,7 +38,7 @@ e) annak a földrajzi területnek a megjelölését, ahol az üzemben tartás v�
 
 f) a repülés végrehajtásának kiegészítő feltételeit,
 
-g) az üzemben tartási engedély érvényességi idejét.
+g) az üzemben tartási engedély időbeli hatályát.
 
 (7a) Az üzemben tartási engedélyekről vezetett nyilvántartás a (7) bekezdésben meghatározott adatok vonatkozásában – a (7) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

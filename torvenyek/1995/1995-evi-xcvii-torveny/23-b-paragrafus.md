@@ -12,7 +12,7 @@ a) nem felel meg a 23. § (1) bekezdésben meghatározott követelményeknek,
 
 b) légiközlekedési hatóság a szakszolgálati engedélyét felfüggesztette vagy visszavonta, a visszavonástól számított egy évig,
 
-c) az egyéni vállalkozói igazolványát visszavonták, a visszavonástól számított egy évig,
+c) az egyéni vállalkozói tevékenység gyakorlásától eltiltották, a tiltásnak a nyilvántartásba történő bejegyzésétől számított egy évig,
 
 d) vezető vagy tényleges irányító volt olyan vállalkozásnál, amelyet a cégbíróság hivatalból törölt, a jogerős törlést követő egy évig,
 

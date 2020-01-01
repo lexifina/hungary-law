@@ -42,7 +42,7 @@ t) a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsí
 
 u) a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról, valamint a 482/2008/EK és a 691/2010/EU rendelet módosításáról szóló, 2011. október 17-i 1035/2011/EU bizottsági végrehajtási rendelet,
 
-v) a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet,
+v) az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet,
 
 w) a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 2014. február 12-i 139/2014/EU bizottsági rendelet,
 
