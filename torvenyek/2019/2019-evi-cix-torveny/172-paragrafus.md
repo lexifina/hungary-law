@@ -4,8 +4,8 @@ a)
 
 b)
 
-c)
+c) 96. § (3) bekezdésében az „állami szolgálati jogviszonyban,” szövegrész,
 
-d)
+d) 97. § (1) bekezdésében az „állami szolgálati,” szövegrész,
 
-e)
+e) 123. § (5) bekezdésében, valamint 124/T. § (1) és (2) bekezdésében az „az állami vezetői juttatásokról szóló Korm. rendelet szerint” szövegrész.

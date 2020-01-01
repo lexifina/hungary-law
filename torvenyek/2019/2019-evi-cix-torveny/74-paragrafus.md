@@ -4,4 +4,4 @@
 
 ## 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-74. §
+74. § Hatályát veszti a közúti közlekedésről szóló 1988. évi I. törvény 24/A. § (6) bekezdésében az „állami tisztviselője,” szövegrész.
