@@ -18,7 +18,9 @@ g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpon
 
 h) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt – a 2010/40/EU európai parlamenti és tanácsi irányelvnek a közúti biztonsággal kapcsolatos, minimális általános forgalmi információk lehetőség szerinti, a felhasználók számára térítésmentes biztosításához szükséges adatok és eljárások tekintetében való kiegészítéséről szóló 2013. május 15-i 886/2013/EU bizottsági rendelet,
 
-i) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő valós idejű forgalmi információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló 2014. december 18-i 2015/962/EU bizottsági rendelet
+i) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő valós idejű forgalmi információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló 2014. december 18-i 2015/962/EU bizottsági rendelet,
+
+j) a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

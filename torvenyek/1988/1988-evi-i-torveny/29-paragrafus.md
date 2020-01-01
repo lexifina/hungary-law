@@ -85,3 +85,9 @@ cb) amelynek megvalósítása – akár műszaki adottságai, akár aránytalan 
 (14a) A tengelysúlymérő-rendszer kiépítésére irányuló beruházás során építtetőként a NÚSZ Zrt. jár el.
 
 (15) A Komplex Közlekedési Ellenőrző Pontok kiépítése során építtetőként az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve jár el.
+
+(16) Járda, gyalogút és azok két méter szabadnyílást meg nem haladó műtárgyai építését, korszerűsítését, forgalomba helyezését és megszüntetését (elbontását), valamint ezek nem közlekedési célú igénybevételét (ide nem értve a gyalog-, és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) a közlekedési hatóságnak kell bejelenteni. A bejelentésben meg kell jelölni a bejelentő
+
+a) természetes személy természetes személyazonosító adatait, illetve
+
+b) jogi személy vagy jogi személyiség nélküli gazdasági társaság cégadatait.

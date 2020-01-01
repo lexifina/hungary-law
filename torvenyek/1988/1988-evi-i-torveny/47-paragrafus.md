@@ -70,7 +70,7 @@ Magyarország területén van.
 
 22.6. a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló külön jogszabályban meghatározott, szakkísérői képesítéshez kötött tevékenységet folytató személy,
 
-22.7. a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabályban meghatározott, autógáz-biztonsági képesítéshez kötött tevékenységet folytató személy,
+22.7. a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben meghatározott, autógáz-biztonsági képesítéshez kötött tevékenységet folytató személy,
 
 22.8. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló jogszabályban meghatározott
 

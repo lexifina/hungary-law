@@ -70,7 +70,7 @@ a) a Kormány, hogy
 
 32. a közúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait
 
-33. a kerékpárutak adatainak nyilvántartását végző szerv kijelölését, valamint a kerékpárutak nyilvántartásával összefüggő feladatok végrehajtásának részletes szakmai szabályait,
+33. a kerékpárutak adatainak nyilvántartását végző szerv kijelölését, valamint a kerékpárutak nyilvántartásával összefüggő feladatok ellátásának részletes szakmai szabályait,
 
 34. az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését, azok kategóriáját, várakozási területenként vagy kategóriánként a díjköteles várakozási időszakot, a fizetendő várakozási díj mértékét, a díjköteles várakozás megengedett leghosszabb időtartamát, valamint a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét,
 
@@ -100,7 +100,7 @@ a) a Kormány, hogy
 
 46. az elektromos töltőberendezés üzemeltető, az elektromobilitás szolgáltató és az elektromobilitás felhasználó közötti együttműködést biztosító jogviszony további részletes szabályait, valamint az együttműködéshez szükséges műszaki feltételeket,
 
-47. az elektromos meghajtású jármű töltésére vonatkozó mérési és mennyiségi, energiahatékonysági eredmények kimutatására alkalmas adatok kezelésének és továbbításának részletes feltételeit,
+47. az elektromos meghajtású gépjármű töltésére vonatkozó mérési és mennyiségi, energiahatékonysági eredmények kimutatására alkalmas adatok kezelésének és továbbításának részletes feltételeit,
 
 48. az elektromobilitás szolgáltatást érintő bejelentési kötelezettség alapján eljáró és az elektromos töltőberendezés üzemeltetésének engedélyezését végző Hivatal feladat- és hatáskörét
 

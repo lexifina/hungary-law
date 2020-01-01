@@ -8,6 +8,6 @@
 
 (5) Egyedileg előállított (összeépített) vagy átalakított jármű esetén a közlekedési hatóság azt vizsgálja, hogy a jármű megfelel-e az előzetes engedélyben foglaltaknak. Előzetes engedély nélkül előállított vagy átalakított járműre hatósági engedély és jelzés nem adható.
 
-(6) A belföldön üzemeltetni kívánt, külföldi rendszámmal ellátott jármű forgalomba helyezését a jármű belföldi üzembentartója a tulajdonszerzést, illetőleg a jármű behozatalát követő legfeljebb 30 napon belül köteles kezdeményezni.
+(6) A belföldön üzemeltetni kívánt, külföldi rendszámmal ellátott jármű forgalomba helyezését a jármű belföldi üzembentartója a tulajdonszerzést, illetőleg a jármű behozatalát követő legfeljebb 60 napon belül köteles kezdeményezni.
 
 (7) Az Európai Gazdasági Térség más tagállamában kiadott érvényes hatósági engedéllyel és jelzéssel ellátott jármű forgalomba helyezése előtt a közlekedési hatóság – a típusvizsgálat és a (3) bekezdésben meghatározott forgalomba helyezés előtti vizsgálat mellőzésével – a járművet azonosítja, és eredeti okmányai, valamint a származási ország hatósági nyilvántartásai alapján állapítja meg a jármű nyilvántartásba veendő műszaki adatait.

@@ -8,7 +8,9 @@ c) rendelkezik a tervező- és szakértő mérnökök, valamint építészek sza
 
 (2) A kamara az auditori tevékenység végzésére jogosult személyekről nyilvántartást vezet, amely tartalmazza az auditori tevékenység végzésére jogosult személy természetes személyazonosító adatait, valamint a képzettségét és a gyakorlati idejét. A nyilvántartásból kizárólag az auditori tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) Az auditor alapképzése és továbbképzése a közlekedési hatóságnak történő, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján végezhető.
 

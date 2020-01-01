@@ -78,15 +78,9 @@ e) a névjegyzékbe felvett személy ezt kérelmezi, vagy
 
 f) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló rendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
 
-(12) A (10) bekezdés f) pontjában meghatározott esetben a névjegyzékből való törlés határozott időre, legfeljebb azonban öt évre történhet.
+(12) A (11) bekezdés f) pontjában meghatározott esetben a névjegyzékből való törlés határozott időre, legfeljebb azonban öt évre történhet.
 
-(13) A közúti járművezetők és a közúti közlekedési szakemberek külön jogszabályban meghatározott képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről
-
-a) a közúti járművezetők részére a vizsgaigazolást a vizsgaközpont,
-
-b) a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a közlekedési hatóság
-
-adja ki.
+(13) A közúti járművezetők és a közúti közlekedési szakemberek képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről a közúti járművezetők részére a vizsgaigazolást, illetve a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a vizsgaközpont adja ki.
 
 (14)
 

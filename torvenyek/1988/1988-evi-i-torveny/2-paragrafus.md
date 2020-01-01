@@ -4,7 +4,7 @@
 
 a) a közúti közlekedésben résztvevőkre,
 
-b) a közúti járművekre (a továbbiakban: jármű)
+b) a közúti járművekre (a továbbiakban: jármű),
 
 c) az utakra – a 48. § (4) bekezdésében foglalt eltéréssel –,
 
