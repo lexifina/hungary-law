@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-27-20-3
 | 2017-01-01 | 1996-27-20-3D.13 | 62/2016. (XII. 29.) NGM rendelet |
 | 2017-04-01 | 1996-27-20-3D.14 | 3/2012. (II. 10.) NGM rendelet |
 | 2018-01-01 | 1996-27-20-3D.15 | 58/1997. (XII. 21.) NM rendelet |
+| 2020-01-01 | 1996-27-20-3D.16 | 10/2019. (IX. 4.) PM rendelet |
