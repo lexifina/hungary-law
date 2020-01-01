@@ -6,4 +6,4 @@ b) a szükséges eszközöket, így különösen a működési, technikai, anyag
 
 c) a képviselő megválasztását követő egy éven belül legalább 16 órás képzésben, ezt követően, valamint újraválasztása esetén évente legalább 8 órás továbbképzésben való részvétel lehetőségét.
 
-(2) Az (1) bekezdésben foglaltak költségei a munkáltatót terhelik, továbbá az (1) bekezdés c) pontja szerinti képzés csak rendes munkaidőben és a felnőttképzésről szóló törvény szerinti tevékenység keretében történhet.
+(2) Az (1) bekezdésben foglaltak költségei a munkáltatót terhelik, továbbá az (1) bekezdés c) pontja szerinti képzés csak rendes munkaidőben és szakmai képzés keretében történhet.

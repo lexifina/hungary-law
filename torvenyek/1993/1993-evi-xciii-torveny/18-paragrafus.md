@@ -12,6 +12,6 @@
 
 (4) Egyéni védőeszközt forgalomba hozni, használatba venni akkor szabad, ha az rendelkezik egyéni védőeszköz EK-megfelelőségi nyilatkozattal, illetve egyéni védőeszköz EK típustanúsítvánnyal. Az egyéni védőeszközök megfelelőségének tanúsítását a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak szerint kell elvégezni.
 
-(5) A foglalkoztatáspolitikáért felelős miniszter meghatározza az egyéni védőeszköz EK-megfelelőségi nyilatkozata, egyéni védőeszköz EK típustanúsítványa kiadásának, valamint az egyéni védőeszközök minőségét biztosító rendszer, továbbá a gyártás minőségirányítási rendszere ellenőrzésének részletes szabályait.
+(5)
 
 (6) Amennyiben külön jogszabály egyes munkaeszközök üzembe helyezését hatósági engedélyhez köti, ez a hatósági engedély egyenértékű a (3) bekezdés szerinti megfelelőségi tanúsítvánnyal.

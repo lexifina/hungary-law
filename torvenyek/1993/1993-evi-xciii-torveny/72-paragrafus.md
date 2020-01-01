@@ -16,7 +16,7 @@ c) tájékoztatást kérhet a munkáltatótól minden kérdésben, amely érinti
 
 d) véleményt nyilváníthat, kezdeményezheti a munkáltatónál a szükséges intézkedés megtételét;
 
-e) az adatvédelmi előírások betartásával részt vehet a munkabalesetek kivizsgálásában, közreműködhet a foglalkozási megbetegedés körülményeinek feltárásában;
+e) az adatvédelmi előírások betartásával részt vehet a munkabalesetek kivizsgálásában, közreműködhet a foglalkozási megbetegedés és a fokozott expozíciós eset körülményeinek feltárásában;
 
 f) indokolt esetben a hatáskörrel rendelkező munkavédelmi hatósághoz fordulhat.
 

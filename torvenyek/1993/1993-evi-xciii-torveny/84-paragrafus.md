@@ -28,7 +28,7 @@ m) az ellenőrzés lefolytatásának akadályozása esetén a rendőrség igény
 
 n) munkahigiénés vizsgálatok elvégeztetését elrendelni.
 
-(2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést, a fokozott expozíciós esetet – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
+(2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
 
 (3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának azonnali végrehajtását rendelheti el.
 

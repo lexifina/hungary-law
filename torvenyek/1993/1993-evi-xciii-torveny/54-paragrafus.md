@@ -78,6 +78,6 @@ h) teljes felelősséggel megtenni minden szükséges intézkedést a munkaváll
 
 i) a munkabiztonsági szaktevékenységnek, illetve munkaegészségügyi szaktevékenységnek minősített feladatok ellátásáról az e törvényben meghatározott módon gondoskodni és az előírt feladatok ellátására e törvényben meghatározott személyt, illetve szervezetet biztosítani.
 
-(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai biztonság területén a külön jogszabályban foglalt szempontokat is figyelembe kell venni.
+(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló jogszabályban foglalt szempontokat is figyelembe kell venni.
 
 (9) A munkáltató a kockázatértékelést követően, annak megállapításait figyelembe véve, a feltárt kockázatok kezelése során határozza meg a védekezés leghatékonyabb módját, a kollektív, műszaki egyéni védelem módozatait, illetve az alkalmazandó szervezési és egészségügyi megelőzési intézkedéseket.

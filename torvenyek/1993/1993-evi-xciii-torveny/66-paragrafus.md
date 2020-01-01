@@ -2,4 +2,4 @@
 
 (2) A munkáltatónak minden bejelentett, illetve tudomására jutott balesetről meg kell állapítania, hogy munkabalesetnek tekinti-e. Ha nem tekinti munkabalesetnek, akkor erről és a jogorvoslat lehetőségéről (68. §) a sérültet, halálos baleset esetén a hozzátartozót értesítnie kell.
 
-(3) A munkáltatónak lehetővé kell tennie a munkavédelmi képviselő részvételét a munkabaleset kivizsgálásában.
+(3) A munkáltatónak lehetővé kell tennie a munkavédelmi képviselő részvételét a munkabaleset, a foglalkozási megbetegedés, valamint a fokozott expozíciós eset körülményeinek kivizsgálásában.

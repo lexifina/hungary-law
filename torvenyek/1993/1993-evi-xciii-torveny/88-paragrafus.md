@@ -4,17 +4,19 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
+a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezetek, honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, ideiglenes munkahely, azon gazdasági társaságok tekintetében, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
-c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a nyilvántartás vezetésére vonatkozó eljárás részletes szabályait;
+c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a nyilvántartás vezetésére és a munkabiztonsági szakértők kötelező továbbképzési rendszerére vonatkozó eljárás részletes szabályait;
 
 d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat;
 
 e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
 
-f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait.
+f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait;
+
+g) a munkabiztonsági szaktevékenység végzésére jogosult személyek nyilvántartásának és kötelező továbbképzési rendszerének szabályait rendeletben határozza meg.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
@@ -22,7 +24,7 @@ a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvéde
 
 b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
 
-c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+c) rendeletben határozza meg a honvédelmi szervezeteknél, honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, ideiglenes munkahelyen, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
@@ -110,7 +112,7 @@ c) a munkahelyi elsősegélynyújtás célját, tárgyi és szervezési feltéte
 
 részletes szabályait.
 
-(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkahelyi kémiai biztonság részletes szabályait.
+(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló részletes szabályokat.
 
 (5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
@@ -130,7 +132,19 @@ e) a munkavállalók által a munkájuk során használt munkaeszközök biztons
 
 f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlament és tanács irányelv,
 
-g) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet.
+g) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet,
+
+h) a munkájuk során vegyi anyagokkal kapcsolatos kockázatoknak kitett munkavállalók egészségének és biztonságának védelméről szóló, 1998. április 7-i 98/24/EK tanácsi irányelv,
+
+i) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet,
+
+j) a 92/58/EGK, a 92/85/EGK, a 94/33/EK és a 98/24/EK tanácsi irányelvnek, valamint a 2004/37/EK európai parlamenti és tanácsi irányelvnek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról szóló, 2014. február 26-i 2014/27/EU európai parlamenti és tanácsi irányelv,
+
+k) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet),
+
+l) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2017. december 12-i (EU) 2017/2398 európai parlamenti és tanácsi irányelv,
+
+m) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai parlamenti és tanácsi irányelv.
 
 (7)
 

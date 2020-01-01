@@ -18,7 +18,7 @@ a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafo
 
 b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye.
 
-1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a munkahelyek kémiai biztonságáról szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön.
+1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön.
 
 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása.
 
@@ -28,7 +28,7 @@ b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének
 
 1/I. egyéni védőeszköz EU-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy az egyéni védőeszköz a mintának, illetve az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak megfelel.
 
-1/J. egyéni védőeszköz EU típustanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU típusvizsgálat alapján megfelel az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
+1/J. egyéni védőeszköz EU-típusvizsgálati tanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU-típusvizsgálat alapján megfelel az (EU) 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
 
 2. Létesítés: az a folyamat, melynek eredményeként új üzem, munkahely jön létre, vagy meglévő felújítása, bővítése, átalakítása, illetve gép telepítése történik, függetlenül attól, hogy létrejötte után termelő vagy nem termelő célra használják.
 
@@ -72,7 +72,7 @@ e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, il
 
 8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
 
-9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakképző iskolákban a tanulói jogviszony keretében a szakmai képzési követelmények teljesülése során, továbbá a tanulószerződés alapján, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál történő munkavégzés, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
+9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti jogviszonyban, a honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakirányú oktatás keretében a szakképző intézményben, illetve a duális képzőhelyen, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a honvédelmi szervezeteknél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, ideiglenes építési munkahelyen, azon gazdasági társaságoknál történő munkavégzés, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál végzett munka, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.
 
 9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is.
 
@@ -82,37 +82,13 @@ e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, il
 
 11. Veszélyes: az a létesítmény, munkaeszköz, anyag/keverék, munkafolyamat, technológia (beleértve a fizikai, biológiai, kémiai kóroki tényezők expozíciójával járó tevékenységeket is), amelynél a munkavállalók egészsége, testi épsége, biztonsága megfelelő védelem hiányában károsító hatásnak lehet kitéve.
 
-12. Veszélyes anyag: minden anyag vagy keverék, amely fizikai, kémiai vagy biológiai hatása révén veszélyforrást képviselhet, így különösen a
+12. Veszélyes anyag:
 
-— robbanó,
+a) az 1272/2008/EK európai parlamenti és tanácsi rendelet alapján fizikai, egészségi veszélyek vagy mindkettő tulajdonság alapján veszélyesként osztályozott anyag, vagy
 
-— oxidáló,
+b) az a vegyi anyag, amely bár nem felel meg az a) pontban meghatározott osztályozás feltételeinek, mégis kockázatot jelent a munkavállalók biztonságára vagy egészségére fiziko-kémiai, kémiai vagy toxikológiai tulajdonságai és felhasználási módja vagy munkahelyen való jelenlét miatt, ideértve minden olyan vegyi anyagot, amelyre a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet határértéket határoz meg.
 
-— gyúlékony,
-
-— sugárzó,
-
-— mérgező,
-
-— maró,
-
-— ingerlő,
-
-— szenzibilizáló,
-
-— fertőző,
-
-— rákkeltő,
-
-— mutagén,
-
-— teratogén,
-
-— utódkárosító (beleértve a spontán vetélést, koraszülést és a magzat retardált fejlődését is),
-
-— egyéb egészségkárosító
-
-anyag.
+12/A. Veszélyes keverék: egy vagy több veszélyes anyagot tartalmazó keverék vagy oldat, amely az osztályozás során a fizikai, egészségi veszélyek vagy mindkét tulajdonság tekintetében veszélyes besorolást kap.
 
 13. Veszélyforrás: a munkavégzés során vagy azzal összefüggésben jelentkező minden olyan tényező, amely a munkát végző vagy a munkavégzés hatókörében tartózkodó személyre veszélyt vagy ártalmat jelenthet.
 

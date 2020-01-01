@@ -17,3 +17,5 @@ b) a munkahelyek létesítésére, a munkaeszközök üzemeltetésére, az alkal
 c) a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálására, bejelentésére, nyilvántartására, valamint megelőzésére tett intézkedésekre.
 
 (5) A munkavédelmi hatóság jogosult az ellenőrzése során feltárt hiányosságok megszüntetése érdekében e törvényben és külön jogszabályban meghatározott intézkedés és felelősségre vonás alkalmazására.
+
+(6) Ha a kötelezett a munkavédelmi hatóság végleges döntésében foglalt kötelezésnek nem tett eleget, a meghatározott cselekmény végrehajtását a munkavédelmi hatóság foganatosítja.

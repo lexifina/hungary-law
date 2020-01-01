@@ -2,9 +2,9 @@
 
 a) a munka egészséges és biztonságos végzésére, illetve annak ellenőrzésére vonatkozó szabályokat megszegi vagy feladatkörében e szabályok végrehajtásának mellőzését eltűri,
 
-b) a munkabalesettel kapcsolatban nyilvántartási, kivizsgálási, jegyzőkönyv-készítési és bejelentési kötelezettségét kellő időben nem teljesíti vagy valótlan adatot közöl, illetve a baleset valódi okát eltitkolja vagy feltárását megakadályozza,
+b) a munkabalesettel, fokozott expozíciós esettel kapcsolatos nyilvántartási, kivizsgálási, jegyzőkönyvkészítési és bejelentési kötelezettségét kellő időben nem teljesíti vagy valótlan adatot közöl, valamint a baleset, fokozott expozíciós eset valódi okát eltitkolja vagy feltárását akadályozza,
 
-c) a foglalkozási megbetegedéssel, fokozott expozíciós esettel kapcsolatos adatszolgáltatási kötelezettségét nem teljesíti, valótlan adatot közöl, a foglalkozási megbetegedés, fokozott expozíció valódi okát eltitkolja, vagy kivizsgálását akadályozza, vagy
+c) a foglalkozási megbetegedéssel kapcsolatos adatszolgáltatási kötelezettségét nem teljesíti, valótlan adatot közöl, a foglalkozási megbetegedés valódi okát eltitkolja vagy kivizsgálását akadályozza, vagy
 
 d) a munkáltató képviselőjeként a munkavédelmi képviselő választásra vonatkozó szabályokat megszegi, a munkavédelmi képviselőt a munkavédelemre vonatkozó szabályban biztosított jogainak gyakorlásában akadályozza, vagy a munkavédelmi képviselővel szemben jogainak gyakorlása miatt hátrányos intézkedést tesz.
 
