@@ -1,3 +1,5 @@
-## szövegrész.
+## 4. §[^4]
 
 ## 2. A kiadványok kötelespéldányainak szolgáltatásáról, megőrzéséről és használatáról szóló 195/2019. (VIII. 1.) Korm. rendelet eltérő időpontban történő hatálybalépéséről
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
