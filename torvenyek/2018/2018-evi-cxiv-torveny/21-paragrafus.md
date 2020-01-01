@@ -14,19 +14,15 @@ d) a 16. § (16) bekezdésében és a 22. § (1) bekezdésében meghatározott e
 
 a) közös megegyezéssel,
 
-b) áthelyezéssel
+b) áthelyezéssel az e törvény és
 
-1. az e törvény,
+ba) a közszolgálati tisztviselőkről szóló törvény,
 
-2. az e törvény és a közszolgálati tisztviselőkről szóló törvény,
+bb) a közalkalmazottak jogállásáról szóló törvény,
 
-3. az e törvény és a közalkalmazottak jogállásáról szóló törvény,
+bc) a hivatásos és szerződéses katonák szolgálati viszonyát, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát szabályozó jogszabályok,
 
-4. az e törvény és a hivatásos és szerződéses katonák szolgálati viszonyát, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát szabályozó jogszabályok,
-
-5. az e törvény és az állami tisztviselőkről szóló törvény,
-
-6. az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
+bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
 
 hatálya alá tartozó munkáltatók között,
 
@@ -57,3 +53,7 @@ b) a 12. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározo
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
 (5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény IX. Fejezetében szabályozott különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
+
+(6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
+
+(7) A (6) bekezdés szerinti megállapodással történő áthelyezés esetén a honvédelmi alkalmazotti jogviszonyt folyamatosnak kell tekinteni. Ebben az esetben próbaidő nem köthető ki.

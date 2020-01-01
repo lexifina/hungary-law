@@ -50,7 +50,7 @@
 
 22. az Mt. alapján kollektív szerződésben szabályozható tárgyköröket
 
-23. a honvédelmi alkalmazottak részére tartott, szakterületnek megfelelő kötelező továbbképzéseken való részvétel részletes szabályait,
+23. a honvédelmi alkalmazottak részére tartott, kötelező továbbképzéseken való részvétel részletes szabályait,
 
 24. az illetménynövekedés feltételeit azon esetekben, ahol a további szakképesítés hasznosításának mértéke előre nem határozható meg,
 

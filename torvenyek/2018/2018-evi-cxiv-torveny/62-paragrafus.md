@@ -10,17 +10,13 @@ b) a „B” fizetési osztályba az alapfokú iskolai végzettséget igénylő 
 
 c) a „C” fizetési osztályba
 
-ca) a „B” fizetési osztály szerinti szakképesítésre épülő szakképesítéshez kötött munkakör,
+ca) az érettségi végzettséghez kötött munkakör,
 
-cb) a középfokú végzettséget igénylő szakképesítéshez kötött munkakör,
-
-cc) az érettségi végzettséghez kötött munkakör,
+cb) a középfokú iskolai végzettséget igénylő szakképesítéshez kötött munkakör,
 
 d) a „D” fizetési osztályba
 
-da) a „C” fizetési osztály cb) pontja szerinti szakképesítésre épülő szakképesítéshez kötött munkakör,
-
-db) az érettségi végzettséget igénylő szakképesítéshez kötött munkakör,
+da) az érettségi végzettséget igénylő szakképesítéshez kötött munkakör,
 
 e) az „E” fizetési osztályba
 
@@ -46,13 +42,13 @@ ib) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez köt�
 
 j) a „J” fizetési osztályba
 
-ja) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és a felsőoktatásról szóló törvény szerinti tudományos fokozat,
+ja) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és a nemzeti felsőoktatásról szóló törvény szerinti tudományos fokozat,
 
 jb) a Magyar Tudományos Akadémia hazai rendes és levelező tagsága, az akadémiai doktori cím.
 
-(2) Az (1) bekezdés szerint iskolai végzettséget, illetve szakképesítést, szakképzettséget a köznevelési, a szakképzési és a felsőoktatási törvényekben használt fogalmakkal azonosan kell értelmezni. Ennek során a részszakképesítés és a szakképesítés-elágazás is szakképesítésnek, a szakképesítés-ráépülés pedig szakképesítésre épülő szakképesítésnek tekintendő.
+(2)
 
-(3) Az Országos Képzési Jegyzék szerinti emelt szintű szakképesítést az (1) bekezdés, valamint a 64. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
+(3)
 
 (4) Azon szakképesítés esetében, ahol a szakképesítés szakmai és vizsgakövetelménye a szakképzésben való részvétel feltételeként az iskolai végzettség megléte helyett a bemeneti kompetenciák meglétét is elfogadja, a szakképesítéssel rendelkező személyt a besorolás szempontjából minden esetben úgy kell tekinteni, mintha rendelkezne az előírt iskolai végzettséggel is.
 

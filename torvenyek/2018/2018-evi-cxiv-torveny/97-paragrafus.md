@@ -14,11 +14,15 @@
 
 (8) A Magyar Honvédségnél 2018. december 31-én hatályos közalkalmazotti kollektív szerződések
 
-a) 2019. december 31-ig alkalmazhatóak, illetve hosszabbíthatóak meg,
+a) 2020. december 31-ig alkalmazhatóak, illetve hosszabbíthatóak meg,
 
-b) 2019. december 31-én e törvény erejénél fogva megszűnnek.
+b) 2020. december 31-én e törvény erejénél fogva megszűnnek.
 
 (9) A (8) bekezdésben meghatározott időpontig a 4. § (5) bekezdés szerinti munkaviszonyra vonatkozó szabályon a kollektív szerződéseket is érteni kell.
+
+(9a) A (8) bekezdésben meghatározott időpontig – a 4. § (6) bekezdésétől eltérően – az Mt. 56. § (1) bekezdésének kollektív szerződésre vonatkozó rendelkezéseit alkalmazni kell.
+
+(9b) A (8) bekezdésben meghatározott időpontig – a 4. § (6) bekezdésétől eltérően – az Mt. 135. § (3) bekezdését alkalmazni kell.
 
 (10) Az (1) bekezdés szerinti átalakulás nem minősül:
 

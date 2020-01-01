@@ -20,7 +20,11 @@ h) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hat�
 
 i) az állami vezetői szolgálati jogviszonyban,
 
-j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
+j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
+
+k) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, valamint munkaviszonyban,
+
+l) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban
 
 töltött időt.
 
@@ -41,3 +45,5 @@ eltöltött időt.
 (4) Ha a honvédelmi alkalmazotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 (5) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb honvédelmi alkalmazotti jogviszonyt létesít, honvédelmi alkalmazotti jogviszonyát folyamatosnak kell tekinteni.
+
+(6) Ha a honvédelmi alkalmazotti jogviszonyt létesítő személy a honvédelmi alkalmazotti jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít honvédelmi alkalmazotti jogviszonyt, jogviszonyát folyamatosnak kell tekinteni. Ebben az esetben próbaidő nem köthető ki.
