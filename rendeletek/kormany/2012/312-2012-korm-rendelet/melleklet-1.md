@@ -20,7 +20,7 @@
 
 8. Nem emberi tartózkodásra szolgáló építmény építése, átalakítása, felújítása, valamint bővítése, amelynek mérete az építési tevékenység után sem haladja meg a nettó 100 m3 térfogatot és 4,5 m gerincmagasságot.
 
-9. Önálló reklámtartó építmény építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása.
+9. Önálló reklámtartó építmény, valamint gépjármű-üzemanyag egységárának feltüntetésére szolgáló oszlop vagy tábla építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése, megváltoztatása.
 
 10. Temető területén:
 
@@ -84,4 +84,4 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 32. Közterületen, filmforgatáshoz kapcsolódó építmény építése.
 
-[^404]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^404]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
