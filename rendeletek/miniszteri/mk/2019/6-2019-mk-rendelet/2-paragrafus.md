@@ -1,0 +1,1 @@
+## 1. § A Nemzeti Filmirodának (a továbbiakban: Filmiroda) mint mozgóképszakmai hatóságnak e rendeletben meghatározott – a mozgóképről szóló 2004. évi II. törvényben (a továbbiakban: Mktv.) szabályozott – egyes eljárásaiért igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.

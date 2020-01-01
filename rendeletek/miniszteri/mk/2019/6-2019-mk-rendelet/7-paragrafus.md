@@ -1,0 +1,33 @@
+7. § (1) A költségellenőrzési eljárásért fizetendő díj összege megrendelésre készülő filmalkotás esetében:
+
+a) ha a kérelemben megjelölt közvetlen filmgyártási költség a 6. § (1) bekezdés a) pontjában meghatározott mértéket nem haladja meg, 20 000 Ft,
+
+b) ha a kérelemben megjelölt közvetlen filmgyártási költség a 6. § (1) bekezdés b) pontjában meghatározott mértéket nem haladja meg, 50 000 Ft,
+
+c) ha a kérelemben megjelölt közvetlen filmgyártási költség a 6. § (1) bekezdés c) pontjában meghatározott mértéket nem haladja meg, 100 000 Ft,
+
+d) ha a kérelemben megjelölt közvetlen filmgyártási költség az 500 millió forintot meghaladja, 100 000 Ft és az 500 millió forint feletti rész 0,2%-ának összege.
+
+(2) A költségellenőrzési eljárásra irányuló, egy havi gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj összege megrendelésre készülő filmalkotásnál, a 6. § (1) bekezdés a) pontjában meghatározott érték esetében 10 000 Ft, a 6. § (1) bekezdés b) pontjában meghatározott érték esetében 25 000 Ft, a 6. § (1) bekezdés c) pontjában meghatározott érték esetében 50 000 Ft. Amennyiben a megrendelésre készülő filmalkotásnak – az Mktv. 31/B. § (1) bekezdés szerinti – támogatásra jogosultság igazolása tárgyában hozott határozatban megállapított közvetlen filmgyártási költsége meghaladja az 500 millió forintot, a költségellenőrzési eljárásra irányuló, egy havi gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj mértéke a kérelem tárgyát képező gyártási időszak tekintetében a kérelemben meghatározott közvetlen filmgyártási költség 0,2%-ának megfelelő összeg.
+
+(3) A költségellenőrzési eljárásra irányuló, negyedéves gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj összege megrendelésre készülő filmalkotásnál, a 6. § (1) bekezdés a) pontjában meghatározott érték esetében 20 000 Ft, a 6. § (1) bekezdés b) pontjában meghatározott érték esetében 50 000 Ft, a 6. § (1) bekezdés c) pontjában meghatározott érték esetében 100 000 Ft. Amennyiben a megrendelésre készülő filmalkotásnak – az Mktv. 31/B. § (1) bekezdés szerinti – a támogatásra jogosultság igazolása tárgyában hozott határozatban megállapított közvetlen filmgyártási költsége meghaladja az 500 millió forintot, a költségellenőrzési eljárásra irányuló, negyedéves gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj mértéke a kérelem tárgyát képező gyártási időszak tekintetében a kérelemben meghatározott közvetlen filmgyártási költség 0,2%-ának megfelelő összeg.
+
+(4) A költségellenőrzési eljárásra irányuló egyszeri eljárásért fizetendő díj összege a nem megrendelésre készülő filmalkotásnál, a támogatási igazolás kiadása iránti kérelemben megjelölt közvetlen filmgyártási költség mértékétől függően, a 6. § (1) bekezdés a) pontjában meghatározott érték esetében 10 000 Ft, a 6. § (1) bekezdés b) pontjában meghatározott érték esetében 25 000 Ft, a 6. § (1) bekezdés c) pontjában meghatározott érték esetében 50 000 Ft, a 6. § (1) bekezdés d) pontjában meghatározott összeget meghaladó közvetlen filmgyártási költség esetében pedig a 50 000 Ft és az 500 millió forint feletti rész 0,1%-ának összege.
+
+(5) A költségellenőrzési eljárásra irányuló, egy havi gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj összege a nem megrendelésre készülő filmalkotásnál, a 6. § (1) bekezdés a) pontjában meghatározott érték esetében 5000 Ft, a 6. § (1) bekezdés b) pontjában meghatározott érték esetében 10 000 Ft, a 6. § (1) bekezdés c) pontjában meghatározott érték esetében 25 000 Ft. Amennyiben a nem megrendelésre készülő filmalkotásnak – az Mktv. 31/B. § (1) bekezdés szerinti – támogatásra jogosultság igazolása tárgyában hozott határozatban megállapított közvetlen filmgyártási költsége meghaladja az 500 millió forintot, a költségellenőrzési eljárásra irányuló, egy havi gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj mértéke a kérelem tárgyát képező gyártási időszak tekintetében a kérelemben meghatározott közvetlen filmgyártási költség 0,1%-ának megfelelő összeg.
+
+(6) A költségellenőrzési eljárásra irányuló eljárásban negyedéves gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj összege nem megrendelésre készülő filmalkotásnál, a 6. § (1) bekezdés a) pontjában meghatározott érték esetében 10 000 Ft, a 6. § (1) bekezdés b) pontjában meghatározott érték esetében 25 000 Ft, a 6. § (1) bekezdés c) pontjában meghatározott érték esetében 50 000 Ft. Amennyiben a nem megrendelésre készülő filmalkotásnak – az Mktv. 31/B. § (1) bekezdése szerinti – támogatásra jogosultság igazolása tárgyában hozott határozatban megállapított közvetlen filmgyártási költsége meghaladja az 500 millió forintot, a költségellenőrzési eljárásra irányuló, negyedéves gyártási időszak tekintetében benyújtott kérelem alapján induló eljárásért fizetendő díj mértéke a kérelem tárgyát képező gyártási időszak tekintetében a kérelemben meghatározott közvetlen filmgyártási költség 0,1%-ának megfelelő összeg.
+
+(7) A (2)–(3) és az (5)–(6) bekezdés alkalmazásában a 6. § (1) bekezdés a)–d) pontja szerinti érték a filmalkotás költségellenőrzési eljárásban hozott határozatban meghatározott közvetlen filmgyártási költségének összege. Amennyiben a Filmiroda az (1)–(7) bekezdés szerinti eljárásában megállapítja, hogy az ügyfél által megfizetett igazgatási szolgáltatási díj alapjának összege eltér a hatósági ügy tényállása alapján meghatározható igazgatási szolgáltatási díj alapjának összegétől (közvetlen filmgyártási költségtől), az eljárás során kiszabja az igazgatási szolgáltatási díjkülönbözetet.
+
+(8) A Filmirodának az Mktv. 31/D. § (4) bekezdése szerinti, a záró elszámolás elkészítésére irányuló eljárásáért fizetendő díj
+
+a) ha a filmalkotás közvetlen filmgyártási költsége a 10 millió forintot nem haladja meg, 5000 Ft,
+
+b) ha a filmalkotás közvetlen filmgyártási költsége 10 millió és 500 millió forint között van, 10 000 Ft,
+
+c) ha a filmalkotás közvetlen filmgyártási költsége az 500 millió forintot meghaladja, 50 000 Ft.
+
+(9) A támogatási igazolás kiállítására irányuló eljárás díja, amennyiben azt költségellenőrzési eljárás előzte meg, 10 000 Ft.
+
+(10) A nem megrendelésre készülő filmalkotás esetében, amennyiben az a Nemzeti Filmintézet Közhasznú Nonprofit Zrt. által támogatásban részesül, a filmgyártás előkészítésétől a támogatási szerződés megkötéséig terjedő időszak tekintetében benyújtott költségellenőrzési eljárásra irányuló kérelem alapján induló egyszeri eljárásért fizetendő díj összege 25 000 Ft.
