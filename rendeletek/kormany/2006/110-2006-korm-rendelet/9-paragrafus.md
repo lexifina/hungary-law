@@ -6,7 +6,7 @@ b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 78/
 
 c) az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény 50/C. §-ának (3) bekezdése,
 
-d)[^101] a Hszt. 172. § (1) bekezdése,
+d)[^104] a Hszt. 172. § (1) bekezdése,
 
 e) a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 119/A. §-ának (1) bekezdése,
 
@@ -16,7 +16,7 @@ g) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jo
 
 (2) A kötelezett nem teljesítése esetén a hitelintézet a hitel felmondását megelőzően belső szabályai szerint felszólítja az adóst a tartozás rendezésére.
 
-(3)[^102] Amennyiben az állami kezességvállalással érintett hitelszerződés felmondásra kerül, vagy a véglejáratkor a kölcsönt az adós még nem fizette teljesen vissza, a hitelintézet az e rendelet 4. számú melléklete szerinti igénylőlap felhasználásával – a 8/C. § (2) bekezdés szerinti jogvesztő határidőn belül – érvényesítheti az állami készfizető kezességvállalásból eredő jogait az állami adóhatóságnál.
+(3)[^105] Amennyiben az állami kezességvállalással érintett hitelszerződés felmondásra kerül, vagy a véglejáratkor a kölcsönt az adós még nem fizette teljesen vissza, a hitelintézet az e rendelet 4. számú melléklete szerinti igénylőlap felhasználásával – a 8/C. § (2) bekezdés szerinti jogvesztő határidőn belül – érvényesítheti az állami készfizető kezességvállalásból eredő jogait az állami adóhatóságnál.
 
-[^101]: A 9. § (1) bekezdés d) pontja a 157/2015. (VI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^102]: A 9. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^104]: A 9. § (1) bekezdés d) pontja a 157/2015. (VI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^105]: A 9. § (3) bekezdése a 109/2009. (V. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
