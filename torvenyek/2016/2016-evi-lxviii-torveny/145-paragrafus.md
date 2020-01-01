@@ -8,21 +8,21 @@
 
 a) a cigarettára
 
-aa) a 2018. szeptember 1. és 2018. december 31. közötti időszakban 17 200 forint ezer darabonként és a kiskereskedelmi eladási ár 24,5 százaléka, de legalább 30 200 forint ezer darabonként,
+aa) a 2020. január 1. és 2020. június 30. közötti időszakban 20 500 forint ezer darabonként és a kiskereskedelmi eladási ár 23 százaléka, de legalább 33 500 forint ezer darabonként,
 
-ab) a 2019. január 1. és 2019. június 30. közötti időszakban 18 200 forint ezer darabonként és a kiskereskedelmi eladási ár 24 százaléka, de legalább 31 200 forint ezer darabonként,
+ab) a 2020. július 1. és 2020. december 31. közötti időszakban 21 500 forint ezer darabonként és a kiskereskedelmi eladási ár 22,5 százaléka, de legalább 34 500 forint ezer darabonként,
 
-ac) 2019. július 1-jétől 19 200 forint ezer darabonként és a kiskereskedelmi eladási ár 23,5 százaléka, de legalább 32 200 forint ezer darabonként,
+ac) 2021. január 1-jétől 22 800 forint ezer darabonként és a kiskereskedelmi eladási ár 22 százaléka, de legalább 35 800 forint ezer darabonként,
 
 b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 180 forint ezer darabonként,
 
 c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra
 
-ca) a 2018. szeptember 1. és 2018. december 31. közötti időszakban 17 820 forint kilogrammonként,
+ca) a 2020. január 1. és 2020. június 30. közötti időszakban 20 100 forint kilogrammonként,
 
-cb) a 2019. január 1. és 2019. június 30. közötti időszakban 18 560 forint kilogrammonként,
+cb) a 2020. július 1. és 2020. december 31. közötti időszakban 20 700 forint kilogrammonként,
 
-cc) 2019. július 1-jétől 19 160 forint kilogrammonként,
+cc) 2021. január 1-jétől 21 480 forint kilogrammonként,
 
 d) a töltőfolyadékra 55 forint milliliterenként,
 
@@ -44,4 +44,4 @@ b) belföldön nem forgalmazzák, az állami adó- és vámhatóság honlapján 
 
 kell kiskereskedelmi eladási árnak tekinteni.
 
-(5) A zárjegyköteles dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti dohánytermék-kiskereskedelem keretében, továbbá a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak az állami adó- és vámhatóság honlapján közzétett áron értékesíthető, kivéve a 67. § (3) bekezdése szerinti visszavásárlás esetét.
+(5) A zárjegyköteles dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben (a továbbiakban: Fdvtv.) meghatározott dohánytermék-kiskereskedelem, továbbá az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak az állami adó- és vámhatóság honlapján közzétett áron értékesíthető, kivéve a 67. § (3) bekezdése szerinti visszavásárlás esetét.

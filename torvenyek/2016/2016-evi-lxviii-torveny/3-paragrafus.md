@@ -50,7 +50,7 @@ b) az a családtag, aki az a) pontban megjelölt személlyel igazoltan közös h
 
 a) nem tekintendők a tagállamhoz tartozónak
 
-aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno és Campione d'Italia területe, valamint a Luganói-tó olasz vizei, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint
+aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint
 
 ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
 
@@ -200,7 +200,7 @@ c) az uniós számítógépes rendszer használójának számítógépes rendsze
 
 a) a 2707 10 00-2707 30 00, a 2707 50 00, a 2711 12 11-2711 19 00, a 2901 10 00, a 2902 20 00-2902 44 00, a 3811 11 10-3811 19 00 és a 3811 90 00 KN-kód szerinti termék,
 
-b) – az ezen alpontban felsorolt, etil-alkoholt tartalmazó termékek kivételével – a 2710 12 21, 2710 12 25 és 2710 19 29 KN-kód szerinti ömlesztetten szállított termék, valamint a 2710 12 11, 2710 12 15, 2710 12 31-2710 19 25, 2710 19 31-2710 19 68 és a 2710 20 11-2710 20 39 KN-kód szerinti termék,
+b) – az ezen alpontban felsorolt, etil-alkoholt tartalmazó termékek kivételével – a 2710 12 21, 2710 12 25 és 2710 19 29 KN-kód szerinti ömlesztetten szállított termék, valamint a 2710 12 11, 2710 12 15, 2710 12 31–2710 19 25, 2710 19 31–2710 19 67 és a 2710 20 11–2710 20 38 KN-kód szerinti termék,
 
 c) a 1507 10 10-1518 00 99, a 2710 12 11-2710 12 90 KN-kód szerinti, etil-alkoholt tartozó termék, a 3824 84 00-3824 88 00, 3824 91 00, 3824 99 86-3824 99 96, a 3826 00 10, a 3826 00 90, és a – szintetikus eredetű termék kivételével – 2905 11 00 KN-kód szerinti, üzemanyagként vagy tüzelő-, fűtőanyagként kínált, értékesített vagy felhasznált termék,
 
@@ -244,7 +244,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 
 16. földgáz felhasználási hely: a földgázellátásról szóló törvényben meghatározott felhasználási hely;
 
-17. fűtőolaj: a 2710 19 62-2710 19 68 és a 2710 20 31-2710 20 39 KN-kód szerinti termék;
+17. fűtőolaj: a 2710 19 62–2710 19 67 és a 2710 20 32–2710 20 38 KN-kód szerinti termék;
 
 18. gázolaj: a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
 
@@ -388,7 +388,7 @@ c) csendes bort – a bérpalackozásra átadott saját előállítású csendes
 
 20. magánfőző: az a 18. életévét betöltött gyümölcstermesztő személy, aki tulajdonában álló gyümölccsel, gyümölcsből származó alapanyaggal és párlat készítésére alkalmas, tulajdonában álló desztillálóberendezéssel rendelkezik;
 
-21. párlat: a – nyers párlat kivételével – 2208 20 29, 2208 20 89, 2208 90 33, 2208 90 38, 2208 90 48, – a calvados kivételével – 2208 90 71 KN-kód szerinti termék, továbbá a 2208 90 56 és 2208 90 77 KN-kód szerinti termékek közül a seprőpárlat;
+21. párlat: a – nyers párlat kivételével – 2208 20 19, 2208 20 28, – az armagnac kivételével – 2208 20 69, 2208 20 88, 2208 90 33, 2208 90 38, 2208 90 48, – a calvados kivételével – 2208 90 71 KN-kód szerinti termék, továbbá a 2208 90 56 és 2208 90 77 KN-kód szerinti termékek közül a seprőpárlat;
 
 22. sör: a 2203 00 01-2203 00 10 KN-kód szerinti termék, továbbá a 2206 00 31-2206 00 89 KN-kód szerinti termékek közül a 2203 00 01-2203 00 10 KN-kód szerinti és az alkoholmentes italok elegye, feltéve, hogy a termék tényleges alkoholtartalma mindkét esetben meghaladja a 0,5 térfogatszázalékot;
 
