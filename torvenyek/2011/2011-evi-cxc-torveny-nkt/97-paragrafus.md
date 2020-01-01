@@ -6,7 +6,7 @@
 
 (3) E törvény hatálybalépésekor folyamatban lévő 58. § szerinti fegyelmi eljárásokat a Kt. vonatkozó rendelkezései alapján kell befejezni.
 
-(4)
+(4) A 2020/2021. tanévre vonatkozóan a 45. § (2) bekezdésében foglalt főszabálytól eltérően, a szülő a kérelmét 2020. január 31-ig nyújthatja be a felmentést engedélyező szervhez.
 
 (5) A fejlesztő nevelés, nevelés-oktatás 15. § (2) bekezdés szerinti ellátása 2014. szeptember 1-jétől kötelező. Eddig az időpontig az érintett tanulók részére a fejlesztő iskolai oktatás a Kt. szabályai szerint is megszervezhető. A korai fejlesztés és gondozás, valamint a fejlesztő felkészítés 2013. január 1-jéig bölcsődei gondozás, fogyatékosok ápoló, gondozó otthonában nyújtott gondozás, gyermekotthonban nyújtott gondozás, gyógypedagógiai tanácsadás, korai fejlesztés és gondozás keretében biztosított fejlesztés és gondozás, konduktív pedagógiai ellátás keretében is ellátható.
 
@@ -84,6 +84,6 @@ b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányza
 
 (27)
 
-(28) Az értelmi fogyatékos tanulók képességét fejlesztő szakiskola a 13. § (6) bekezdése szerinti előkészítő szakiskolai kilencedik évfolyamot utoljára a 2013/2014. tanévben, tizedik évfolyamot utoljára a 2014/2015. tanévben indíthat.
+(28)
 
 (29) E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel megállapított 96. § (3) bekezdésében meghatározott ügyintézési határidőt az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

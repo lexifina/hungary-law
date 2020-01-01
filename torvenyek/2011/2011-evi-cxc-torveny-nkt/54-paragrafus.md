@@ -14,10 +14,10 @@ c) a tanuló szorgalmának értékelésénél és minősítésénél példás (5
 
 (4) A második évfolyam végén és a magasabb évfolyamokon félévkor és év végén a tanuló értékelésére – jóváhagyott kerettanterv vagy az oktatásért felelős miniszter engedélyével – az iskola pedagógiai programja a (2) bekezdésben meghatározottaktól eltérő jelölés, szöveges értékelés alkalmazását is előírhatja. Ha az iskola nem alkalmazza az (1)–(2) bekezdésben meghatározottakat, de arra iskolaváltás vagy továbbtanulás miatt szükség van, vagy a szülő vagy a tanuló kérésére köteles a félévi és az év végi minősítést osztályzattal is elvégezni. Az iskola által alkalmazott jelölés, értékelés érdemjegyre, osztályzatra való átváltásának szabályait a helyi tantervben kell meghatározni.
 
-(5) Az egyes tanulók év végi osztályzatát a nevelőtestület osztályozó értekezleten áttekinti, és a pedagógus, az osztályfőnök, gyakorlati képzés szervezője által megállapított osztályzatok alapján dönt a tanuló magasabb évfolyamba lépéséről.
+(5) Az egyes tanulók év végi osztályzatát a nevelőtestület osztályozó értekezleten áttekinti, és a pedagógus, az osztályfőnök által megállapított osztályzatok alapján dönt a tanuló magasabb évfolyamba lépéséről.
 
 (6) Abban az esetben, ha az év végi osztályzat a tanuló hátrányára lényegesen eltér a tanítási év közben adott érdemjegyek átlagától, a nevelőtestület felhívja az érdekelt pedagógust, hogy adjon tájékoztatást ennek okáról, és indokolt esetben változtassa meg döntését. Ha a pedagógus nem változtatja meg döntését, és a nevelőtestület ennek indokaival nem ért egyet, az osztályzatot az évközi érdemjegyek alapján a tanuló javára módosítja.
 
 (7) A tanuló értékelésekor, minősítésekor az (1) bekezdésben meghatározottakat – az érdemjegy és az osztályzat alkalmazására vonatkozó rendelkezések kivételével – akkor is alkalmazni kell, ha az iskola nem használja az érdemjegy, az osztályzat megjelölést.
 
-(8) Ha a tanuló gyakorlati képzését nem az iskola tartja, a gyakorlati képzés keretében végzett tevékenységével összefüggésben teljesítményét, magatartását és szorgalmát a gyakorlati képzés szervezője értékeli a (2) bekezdésében foglaltak szerint. A tanuló félévi és év végi osztályzatát a gyakorlati képzés szervezője állapítja meg és a nevelőtestület dönt a tanuló magasabb évfolyamba lépéséről, szakmai vizsgára bocsátásáról.
+(8)

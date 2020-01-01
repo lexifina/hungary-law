@@ -6,6 +6,6 @@
 
 (3)
 
-(4) A többcélú intézmény egységes, valamennyi nevelési-oktatási feladatot átfogó pedagógiai programot, ennek keretein belül az egyes feladatok ellátásához óvodai pedagógiai programot, iskolai helyi tantervet, kollégiumi pedagógiai programot használ. Az általános művelődési központban működő nevelési-oktatási intézmények pedagógiai programja része a nem köznevelési feladatot ellátó intézményegység tevékenységét is meghatározó pedagógiai-művelődési programnak. A pedagógiai-művelődési program biztosítja a köznevelési és a nem köznevelési közfeladatok egységes elvek szerinti megvalósítását.
+(4) A többcélú köznevelési intézmény egységes, valamennyi nevelési-oktatási feladatot átfogó pedagógiai programot, ennek keretein belül az egyes feladatok ellátásához óvodai pedagógiai programot, iskolai helyi tantervet, kollégiumi pedagógiai programot használ. Az általános művelődési központban működő nevelési-oktatási intézmények pedagógiai programja része a nem köznevelési feladatot ellátó intézményegység tevékenységét is meghatározó pedagógiai-művelődési programnak. A pedagógiai-művelődési program biztosítja a köznevelési és a nem köznevelési közfeladatok egységes elvek szerinti megvalósítását.
 
 (5) Az iskola pedagógiai programját vagy annak módosítását a jóváhagyást követő tanévtől felmenő rendszerben vezetheti be.

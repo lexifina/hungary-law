@@ -2,7 +2,7 @@
 
 a) a köznevelés stratégiájának kidolgozása,
 
-b) az országos vizsgarendszer létrehozása, működtetése, fejlesztése és korszerűsítése, ennek keretében rendkívüli intézkedés meghozatala az érettségi vizsga megszervezésével, megtartásával összefüggésben, ha az intézkedés megtétele nélkül országos szinten veszélybe kerül az érettségi vizsga jogszabályok szerinti lebonyolítása,
+b) az országos vizsgarendszer létrehozása, működtetése, fejlesztése és korszerűsítése, ennek keretében rendkívüli intézkedés meghozatala az érettségi vizsga megszervezésével, megtartásával összefüggésben, ha az intézkedés megtétele nélkül országos szinten veszélybe kerül az érettségi vizsga lebonyolítása,
 
 c) a köznevelésben jelentkező pedagógiai problémák vizsgálata, pedagógiai megoldások és eljárások kifejlesztése,
 
@@ -44,6 +44,6 @@ c) a kiállított bizonyítványt érvénytelenné nyilváníthatja,
 
 ha bebizonyosodik, hogy a vizsgát jogellenesen szervezték meg, bonyolították le, a bizonyítványt jogellenesen állították ki, továbbá, ha az iskola nem rendelkezik a vizsga biztonságos megszervezéséhez szükséges feltételekkel.
 
-(11) Az érvénytelenné nyilvánított bizonyítványt be kell vonni és meg kell semmisíteni. Az oktatásért felelős miniszter határozatát – indokolás nélkül – a Magyarország hivatalos lapja mellékleteként megjelenő Hivatalos Értesítőben közzéteszi. Az oktatásért felelős miniszter a szakmai vizsgával és a szakképesítést tanúsító bizonyítvánnyal kapcsolatos döntésének meghozatala előtt beszerzi a szakképesítésért felelős miniszter egyetértését.
+(11) Az érvénytelenné nyilvánított bizonyítványt be kell vonni és meg kell semmisíteni. Az oktatásért felelős miniszter határozatát – indokolás nélkül – a Magyarország hivatalos lapja mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
 
 (12) Az oktatásért felelős miniszter az Alaptörvényben meghatározott rendkívüli állapot, szükségállapot esetén határozatban írja elő a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. A miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése elektronikus úton is történhet.

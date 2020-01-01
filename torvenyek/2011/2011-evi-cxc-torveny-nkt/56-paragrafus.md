@@ -2,7 +2,7 @@
 
 a) az érdemjegyekkel és osztályzatokkal történő értékelés és minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő,
 
-b) a gyakorlati képzés kivételével egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól.
+b) egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól.
 
 (2) Az érettségi vizsgán az (1) bekezdés b) pont szerinti tantárgyak helyett a tanuló – a vizsgaszabályzatban meghatározottak szerint – másik tantárgyat választhat.
 

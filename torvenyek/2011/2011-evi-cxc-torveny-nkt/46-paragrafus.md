@@ -6,7 +6,7 @@ b) eleget tegyen – rendszeres munkával és fegyelmezett magatartással, képe
 
 c) életkorához és fejlettségéhez, továbbá iskolai és kollégiumi elfoglaltságához igazodva, pedagógus felügyelete, szükség esetén irányítása mellett – a házirendben meghatározottak szerint – közreműködjön saját környezetének és az általa alkalmazott eszközöknek a rendben tartásában, a tanítási órák, kollégiumi foglalkozások, rendezvények előkészítésében, lezárásában,
 
-d) megtartsa az iskolai tanórai és egyéb foglalkozások, a kollégiumi foglalkozások, az iskola és a kollégium helyiségei és az iskolához, kollégiumhoz tartozó területek használati rendjét, a gyakorlati képzés rendjét, az iskola, a kollégium szabályzatainak előírásait,
+d) megtartsa az iskolai tanórai és egyéb foglalkozások, a kollégiumi foglalkozások, az iskola és a kollégium helyiségei és az iskolához, kollégiumhoz tartozó területek használati rendjét, az iskola, a kollégium szabályzatainak előírásait,
 
 e) óvja saját és társai testi épségét, egészségét, a szülő hozzájárulása esetén részt vegyen egészségügyi szűrővizsgálaton, elsajátítsa és alkalmazza az egészségét és biztonságát védő ismereteket, továbbá haladéktalanul jelentse a felügyeletét ellátó pedagógusnak vagy más alkalmazottnak, ha saját magát, társait, az iskola, kollégium alkalmazottait vagy másokat veszélyeztető állapotot, tevékenységet vagy balesetet észlelt,
 
@@ -86,7 +86,7 @@ q) kérelmére, indokolt esetben szociális ösztöndíjban, szociális támogat
 
 (11) A (9) bekezdésben meghatározott esetben a tanulót megfelelő díjazás illeti meg. A megfelelő díjazásban a tanuló – tizennegyedik életévét be nem töltött tanuló esetén szülője egyetértésével – és a nevelési-oktatási intézmény állapodik meg, ha alkalomszerűen, egyedileg elkészített dolog értékesítéséből, hasznosításából származik a bevétel. Az oktatás keretében, az oktatási folyamat részeként rendszeresen elkészített dolog esetén a megfelelő díjazást a teljes képzési folyamatban részt vevők által végzett tevékenységre megállapítható eredmény (nyereség) terhére kell megállapítani. Ennek szabályait az SZMSZ-ben kell meghatározni oly módon, hogy a szabályozás figyelembe vegye a tanuló teljesítményét.
 
-(12) A (9) és (11) bekezdésben foglaltak – a szakképzésben részt vevő tanulókat megillető juttatások tekintetében – nem alkalmazhatók arra a tanulóra, aki a szakképzésben tanulószerződés alapján vesz részt.
+(12)
 
 (13) Az iskola a tanuló kérelmére diákigazolvány kiadását kezdeményezi a KIR adatkezelőjénél. A diákigazolvány elkészítéséről a KIR adatkezelője mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. LXXXIII. évi törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik. A diákigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A diákigazolvány birtokosa az elektronikus kártyakibocsátó rendszerhez (a továbbiakban: NEK) kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti adatokat, valamint a kártya kézbesítéséhez szükséges adatokat.
 

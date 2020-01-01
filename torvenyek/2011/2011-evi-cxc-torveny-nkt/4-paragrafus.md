@@ -2,59 +2,7 @@
 
 4. § E törvény alkalmazásában
 
-1. alapfeladat: a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában foglalt köznevelési feladat, amely
-
-1.1. óvodai nevelés,
-
-1.2. nemzetiséghez tartozók óvodai nevelése,
-
-1.3. általános iskolai nevelés-oktatás,
-
-1.4. nemzetiséghez tartozók általános iskolai nevelése-oktatása,
-
-1.5. kollégiumi ellátás,
-
-1.6. nemzetiségi kollégiumi ellátás,
-
-1.7. gimnáziumi nevelés-oktatás,
-
-1.8. szakgimnáziumi nevelés-oktatás,
-
-1.9. szakközépiskolai nevelés-oktatás,
-
-1.10. szakiskolai nevelés-oktatás,
-
-1.11. készségfejlesztő iskolai nevelés-oktatás,
-
-1.12. nemzetiséghez tartozók gimnáziumi nevelése-oktatása,
-
-1.13. nemzetiséghez tartozók szakgimnáziumi nevelése-oktatása,
-
-1.14. nemzetiséghez tartozók szakközépiskolai nevelése-oktatása,
-
-1.15. kiegészítő nemzetiségi nyelvoktatás,
-
-1.16. Köznevelési és Szakképzési Hídprogram keretében folyó nevelés-oktatás,
-
-1.17. felnőttoktatás,
-
-1.18. alapfokú művészetoktatás,
-
-1.19. fejlesztő nevelés-oktatás,
-
-1.20. pedagógiai szakszolgálati feladat,
-
-1.21. a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek, tanulók óvodai nevelése és iskolai nevelése-oktatása,
-
-1.22. azoknak a sajátos nevelési igényű gyermekeknek, tanulóknak az óvodai nevelése, iskolai nevelése-oktatása, kollégiumi ellátása, akik az e célra létrehozott gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban, kollégiumi csoportban eredményesebben foglalkoztathatóak,
-
-1.23. a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitációs intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás,
-
-1.24. pedagógiai-szakmai szolgáltatás,
-
-1.25. utazó gyógypedagógusi, utazó konduktori hálózat működtetése
-
-lehet,
+1.
 
 2. aránytalan teher: ha a nevelés, a nevelés-oktatás körülményei az átlagos körülményekhez képest – a gyermek, a tanuló életkorát és sajátos nevelési igényeit figyelembe véve – lényegesen nehezebbek vagy jelentős költségnövekedést okoznak a gyermeknek, tanulónak vagy a szülőnek,
 
@@ -80,7 +28,7 @@ lehet,
 
 11. intézményátszervezés: minden olyan fenntartói döntés, amely az alapító okirat, szakmai alapdokumentum 21. § (3) bekezdés c)–j) pontjában felsoroltak bármelyikének módosulásával jár, kivéve a jogszabályváltozásból eredő módosítást és az olyan vagyont érintő döntést, amely vagyon a feladatellátáshoz a továbbiakban nem szükséges,
 
-12. intézményegység: az a szervezeti egység, amelyik a köznevelési intézmény, többcélú intézmény valamely alapfeladatát látja el,
+12. intézményegység: az a szervezeti egység, amelyik a köznevelési intézmény, többcélú köznevelési intézmény valamely alapfeladatát látja el,
 
 13. kiemelt figyelmet igénylő gyermek, tanuló:
 
@@ -95,6 +43,54 @@ ac) kiemelten tehetséges gyermek, tanuló,
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint hátrányos és halmozottan hátrányos helyzetű gyermek, tanuló,
 
 14. kiemelten tehetséges gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki átlag feletti általános vagy speciális képességek birtokában magas fokú kreativitással rendelkezik, és felkelthető benne a feladat iránti erős motiváció, elkötelezettség,
+
+14a. köznevelési alapfeladat: a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában meghatározott olyan köznevelési feladat, amely
+
+a) óvodai nevelés,
+
+b) nemzetiséghez tartozók óvodai nevelése,
+
+c) általános iskolai nevelés-oktatás,
+
+d) nemzetiséghez tartozók általános iskolai nevelése-oktatása,
+
+e) kollégiumi ellátás,
+
+f) nemzetiségi kollégiumi ellátás,
+
+g) gimnáziumi nevelés-oktatás,
+
+h) szakgimnáziumi nevelés-oktatás,
+
+i) szakiskolai nevelés-oktatás,
+
+j) készségfejlesztő iskolai nevelés-oktatás,
+
+k) nemzetiséghez tartozók gimnáziumi nevelése-oktatása,
+
+l) nemzetiséghez tartozók szakgimnáziumi nevelése-oktatása,
+
+m) kiegészítő nemzetiségi nyelvoktatás,
+
+n) felnőttoktatás,
+
+o) alapfokú művészetoktatás,
+
+p) fejlesztő nevelés-oktatás,
+
+q) pedagógiai szakszolgálati feladat,
+
+r) a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek, tanulók óvodai nevelése és iskolai nevelése-oktatása,
+
+s) azoknak a sajátos nevelési igényű gyermekeknek, tanulóknak az óvodai nevelése, iskolai nevelése-oktatása, kollégiumi ellátása, akik az e célra létrehozott gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban, kollégiumi csoportban eredményesebben foglalkoztathatóak,
+
+t) a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitációs intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás,
+
+u) pedagógiai-szakmai szolgáltatás,
+
+v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése
+
+lehet,
 
 15. közösségi szolgálat: szociális, környezetvédelmi, a tanuló helyi közösségének javát szolgáló, szervezett keretek között folytatott, anyagi érdektől független, egyéni vagy csoportos tevékenység és annak pedagógiai feldolgozása,
 
@@ -132,11 +128,11 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 30. tanév: az iskolában, kollégiumban szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 
-31. tanítási év: ha e törvény másként nem rendelkezik, az iskolában minden év szeptemberének első munkanapjától a következő év június 16-át megelőző utolsó munkanapjáig tartó szorgalmi időszak, az érettségi és a szakmai vizsga évét kivéve; a szakképző iskola azon szakképzési évfolyamain, amelyeken – a szakképzésről szóló törvényben szabályozott esetekben – közismereti képzés nem folyik, a tanítási év – a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint – februárban is megkezdhető,
+31. tanítási év: ha e törvény másként nem rendelkezik, az iskolában minden év szeptemberének első munkanapjától a következő év június 16-át megelőző utolsó munkanapjáig tartó szorgalmi időszak, az érettségi és a szakmai vizsga évét kivéve; a szakképző iskola olyan évfolyamán, amelyen közismereti képzés nem folyik, a tanítási év – a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint – februárban is megkezdhető,
 
 32. tanítási nap: az egyes osztályokban a tanítási órák, továbbá az iskola pedagógiai programjában rögzített, a tanítási órák keretében meg nem valósítható osztály- vagy csoportfoglalkozás, így különösen a tanulmányi kirándulás, környezeti nevelési program, a kulturális, sportrendezvény megtartására fordított nap, ha a foglalkozási órák száma eléri a hármat,
 
-33. tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a nevelési-oktatási intézmény vagy a gyakorlati képzés folytatójának felügyelete alatt áll, ide értve az intézményen kívüli gyakorlati képzés során bekövetkezett balesetet is,
+33. tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a nevelési-oktatási intézmény felügyelete alatt áll,
 
 34. telephely: a székhelyen kívül működő feladatellátási hely,
 
@@ -160,7 +156,7 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 44. munkafüzet: az a tankönyv, amely alkalmas arra, hogy egy vagy több meghatározott tankönyv tananyagának gyakorlását, elsajátítását, alkalmazását elősegítse,
 
-45. szakképzési tankönyv: a szakképzési kerettanterv alapján az iskolai rendszerű szakképzésben alkalmazható tankönyv,
+45.
 
 46. munkatankönyv: az a tankönyv, amelynek alkalmazása során a tanulónak a tankönyvben elhelyezett feladatlapon kell az előírt feladatot megoldania,
 

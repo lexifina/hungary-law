@@ -1,9 +1,17 @@
 ## 11/A. Szakiskola
 
-13/A. § (1) A sajátos nevelési igényű tanulók iskolai nevelés-oktatása céljából a szakiskola a többi tanulóval sajátos nevelési igénye miatt együtthaladásra képtelen tanulókat készíti fel szakmai vizsgára.
+13/A. § (1) A sajátos nevelési igényű tanulók középfokú iskolai nevelése-oktatása céljából a szakiskola a többi tanulóval sajátos nevelési igénye miatt együtt haladni nem tudó tanulók felkészítését végzi.
 
-(2) A szakiskolában az Országos Képzési Jegyzékben meghatározott szakképesítések körében – a sajátos nevelési igény jellegétől függően – a szakképzési kerettanterv vagy a speciális kerettanterv szerint folyhat szakképzés. A közismereti oktatás a szakiskolában a sajátos nevelési igény jellegéhez igazodó közismereti kerettanterv alapján folyik. A szakmai vizsgára történő felkészítésre vonatkozó további rendelkezéseket a szakképzésről szóló törvény határozza meg.
+(2) A szakiskolában a sajátos nevelési igény jellegéhez igazodó közismereti oktatás és az Szkt. szerinti szakmai oktatás, illetve szakképesítésre felkészítő szakmai képzés folyik.
 
-(3) A szakiskolában az évfolyamok száma a speciális kerettanterv szerint meghatározott.
+(3) A szakiskolában
 
-(4) A szakiskolában a nevelés-oktatás az enyhe értelmi fogyatékos tanulók előkészítő évfolyama kivételével szakképzési évfolyamokon folyik.
+a) az Szkt. szerinti szakmai oktatás a szakmajegyzékben meghatározott szakmák körében – a sajátos nevelési igény típusától függően – a képzési és kimeneti követelmények vagy a képzési és kimeneti követelmények alapján készített speciális kerettanterve szerint,
+
+b) az Szkt. szerinti szakmai képzés a programkövetelmény alapján készített speciális kerettanterv szerint
+
+folyhat.
+
+(4) A szakiskolában az évfolyamok száma a szakmajegyzékben vagy a képzési és kimeneti követelmények, illetve a programkövetelmény alapján készített speciális kerettantervben meghatározott.
+
+(5) Az Szkt. szerinti szakmai vizsgára, illetve képesítő vizsgára történő felkészítés a szakiskola feladata, amely a kötelező foglalkozások keretében történik.

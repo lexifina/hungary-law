@@ -22,13 +22,13 @@ c) pedagógus-munkakör betöltésére jogosító oklevélnek kell elfogadni a p
 
 d) egyetemi végzettségnek és szakképzettségnek kell elfogadni a Magyar Testnevelési Főiskola által az 1975. évi 16. törvényerejű rendelet hatálybalépése előtt kiadott testnevelő-tanári szakképzettséget.
 
-(9) Gyakorlati oktató munkakörben történő alkalmazáskor a képzés szakirányának megfelelő főiskolai végzettségnek kell elfogadni a – képzésről rendelkező jogszabály szerint – felsőfokú végzettséget tanúsító műszaki oktatói, technikus tanári, szakoktatói oklevelet, bizonyítványt. A felsőfokú végzettséget nem tanúsító, tanfolyami képzésben szerzett műszaki szakoktatói (oktatói) bizonyítványt az alkalmazáskor a képzés szakirányának megfelelő középfokú szakképesítésnek kell elfogadni.
+(9)
 
 (10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, határozatlan időre alkalmazható, továbbá köznevelési szakértői tevékenységet végezhet
 
-a) szakképző iskolában
+a) szakgimnáziumban
 
-aa) szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában, aki érettségi végzettséggel és mestervizsgával,
+aa) kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában, aki érettségi végzettséggel és mestervizsgával,
 
 ab) népzenész- és a szórakoztatózenész-képzésben az, aki szakirányú emelt szintű szakképesítéssel,
 
@@ -36,7 +36,7 @@ ac) népi kézműves képzésben az, aki népi játék és kismesterségek oktat
 
 b) alapfokú művészeti iskola
 
-ba) elektroakusztikus képzésében az, aki zeneművészeti ágban szerzett pedagógus szakképzettséggel és emelt szintű szórakoztatózenész (billentyűs) szakképesítéssel,
+ba) elektroakusztikus képzésében az, aki zeneművészeti ágban szerzett pedagógus-szakképzettséggel és emelt szintű szórakoztatózenész (billentyűs) szakképesítéssel,
 
 bb) környezet-, kézműves kultúra tanszakán, továbbá textil és bőrműves tanszakán az, aki népi játék és kismesterségek oktatója szakképesítéssel
 
@@ -54,7 +54,7 @@ a) a tantárgynak, tantárgyi modulnak megfelelő szakirányú továbbképzésbe
 
 b) az a) pontban meghatározott szakirányú továbbképzés hiányában legalább százhúsz órás pedagógus-továbbképzés keretében elsajátította az adott tantárgy, tantárgyi modul oktatásához szükséges elméleti és módszertani ismereteket.
 
-(15) Szakképző iskolában tanított szakmai elméleti tantárgy esetén, ha nincs a szakképzés szakirányának megfelelő szakos hazai tanári képzés, az adott tantárgy tanítására határozatlan időre alkalmazható, valamint az érettségin, szakmai vizsgán vizsgáztató tanár lehet az is, aki a szakmai tantárgynak megfelelő szakmai területen szakirányú felsőfokú végzettséggel és bármely szakos tanári szakképzettséggel rendelkezik, továbbá, ha nincs a szakképzés szakirányának megfelelő hazai felsőfokú képzés, az is, aki bármely szakos tanári szakképzettséggel és a szakképzés szakirányának megfelelő szakirányú szakképesítéssel és mestervizsgával rendelkezik.
+(15)
 
 (16) Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a 27. § (11) bekezdés szerinti mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2024/2025. tanév kezdetéig alkalmazható, aki testnevelő-edzői szakképzettséggel vagy felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképesítéssel rendelkezik.
 

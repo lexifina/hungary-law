@@ -1,6 +1,10 @@
 ## 4. Az állami vizsgák rendszere
 
-6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti munkakör betöltésére képesít.
+6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit az érettségi vizsgáról szóló kormányrendelet, valamint az általános és részletes vizsgakövetelmények alapján kell meghatározni.
+
+(1a) Az érettségi vizsga részletes vizsgakövetelményeit az oktatásért felelős miniszter az iskolák által kötelezően alkalmazandó hivatalos kiadványként az általa vezetett minisztérium honlapján teszi közzé. Az érettségi vizsga részletes vizsgakövetelményei a honlapról nem távolíthatók el, archiválásukra az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni. Az érettségi vizsga közzétett részletes vizsgakövetelményeit az oktatásért felelős miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. Az érettségi vizsga részletes vizsgakövetelményeiben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap. Az érettségi vizsga részletes vizsgakövetelményei normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A részletes vizsgakövetelményekkel szemben kizárólag jogszabálysértésre hivatkozással kezdeményezhető közigazgatási jogvita.
+
+(1b) Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít.
 
 (2) Az érettségi vizsgán a tanuló a következő vizsgatárgyakból ad számot tudásáról:
 
@@ -14,7 +18,7 @@ d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára 
 
 e) kötelezően választandó vizsgatárgy; szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy.
 
-(2a) Aki szakközépiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
+(2a)
 
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 
@@ -26,8 +30,8 @@ b) azon sajátos nevelési igényű tanulókat, akiket a szakértői bizottság 
 
 (4a) Új érettségi vizsgatárgyat, vagy az érettségi vizsgatárgy új vizsgaszintjének vizsgakövetelményeit felmenő rendszerben kell bevezetni, az érettségi vizsgatárgy vizsgakövetelményeinek érdemi megváltoztatására irányuló rendelkezést az érettségi vizsgára jelentkezés előtt legalább két évvel kell kiadni.
 
-(5) A szakképző iskolában az Országos Képzési Jegyzékben meghatározott szakképesítések megszerzésére szervezett szakmai vizsga állami vizsga. A tanuló a szakképzés utolsó évfolyama követelményeinek teljesítése után tehet szakmai vizsgát.
+(5)
 
-(6) Az Országos Képzési Jegyzékben meghatározott szakképesítés szakmai és vizsgakövetelményei meghatározásáról és kiadásáról, a szakmai vizsga megszervezéséről, a szakképesítést tanúsító bizonyítványok kiadásáról a szakképzésre vonatkozó jogszabályok rendelkeznek.
+(6)
 
 (7) Az alapfokú művészeti iskolában művészeti alapvizsgát kell szervezni, és művészeti záróvizsga is szervezhető. A művészeti alapvizsga a továbbképző évfolyamokon való továbbtanulásra jogosít. A művészeti alapvizsga és a művészeti záróvizsga vizsgakövetelményeit, vizsgafeladatait az alapfokú művészeti iskola az oktatásért felelős miniszter rendeletében foglalt keretek között határozza meg.

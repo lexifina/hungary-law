@@ -1,6 +1,6 @@
 ## 45. Az ágazati irányítás, az oktatásért felelős miniszter és a Kormány szabályozási feladatai
 
-77. § (1) Az oktatásért felelős miniszter e törvényben meghatározottak szerint ellátja a köznevelés ágazati irányítását. Az oktatásért felelős miniszter ágazati irányító hatásköre kiterjed e törvény hatálya alá tartozó valamennyi tevékenységre, függetlenül attól, hogy a tevékenységet milyen intézményben, szervezetben látják el, vagy ki az intézmény fenntartója. A szakképző iskolákban folyó szakképzés tekintetében az irányítási hatásköröket a szakképzésről szóló törvény állapítja meg.
+77. § (1) Az oktatásért felelős miniszter e törvényben meghatározottak szerint ellátja a köznevelés ágazati irányítását. Az oktatásért felelős miniszter ágazati irányító hatásköre kiterjed e törvény hatálya alá tartozó valamennyi tevékenységre, függetlenül attól, hogy a tevékenységet milyen intézményben, szervezetben látják el, vagy ki az intézmény fenntartója.
 
 (2) Az oktatásért felelős miniszter
 
@@ -30,7 +30,7 @@ k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési
 
 (4) Az oktatásért felelős miniszter kezdeményezi a köznevelési feladatokat ellátó hatóságnál, hogy határidő kitűzésével hívja fel az érintett települési önkormányzatot a köznevelési feladatainak ellátásával összefüggő törvénysértés megszüntetésére. Az oktatásért felelős miniszter, ha az az egyházi köznevelési intézmény vagy a magán köznevelési intézmény működésével, működtetésével összefüggésben jogsértés megalapozott gyanúja merül fel, tájékoztatja a köznevelési feladatokat ellátó hatóságot.
 
-(5) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.
+(5)
 
 (6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
 
@@ -38,9 +38,11 @@ k) dönt az állami felsőoktatási intézmény által fenntartott köznevelési
 
 a) az oktatásért felelős miniszternek tartozik felelősséggel,
 
-b) tevékenységét határozatlan idejű vezetői munkakört betöltő kormánytisztviselőként kormányzati szolgálati jogviszonyban végzi,
+b) tevékenységét kormányzati szolgálati jogviszonyban végzi szakmai felsővezetői álláshelyen,
 
-c) jogosult a megbízatásának megfelelő cím használatára.
+c) jogosult a megbízatásának megfelelő cím használatára,
+
+d) helyettes államtitkári illetményre és juttatásokra jogosult.
 
 (8) Az oktatási jogok biztosa
 

@@ -1,6 +1,6 @@
-## 18. A többcélú intézmény
+## 18. A többcélú köznevelési intézmény
 
-20. § (1) A többcélú intézmény lehet
+20. § (1) A többcélú köznevelési intézmény lehet
 
 a)
 
@@ -14,9 +14,9 @@ e) általános művelődési központ,
 
 f) egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény (a továbbiakban: EGYMI),
 
-g) a szakképzésről szóló törvény szerinti szakképzési centrum.
+g)
 
-(2) Többcélú intézmény akkor létesíthető, ha a létesítés és a működés anyagi, tárgyi, technikai és személyi feltételei valamennyi feladat ellátásához biztosítva vannak.
+(2) Többcélú köznevelési intézmény akkor létesíthető, ha a létesítés és a működés anyagi, tárgyi, technikai és személyi feltételei valamennyi feladat ellátásához biztosítva vannak.
 
 (3) Az egységes iskola és az összetett iskola pedagógiai feladatellátás tekintetében szervezetileg egységes intézmény.
 
@@ -28,7 +28,7 @@ g) a szakképzésről szóló törvény szerinti szakképzési centrum.
 
 (7) Nevelő és oktató munkához kapcsolódó, nem köznevelési tevékenység:
 
-a) a felsőoktatás, a köz- és felsőoktatási kutatás, a közművelődés, a kultúra, a művészet, a könyvtár, a muzeális intézményi feladat, a sport,
+a) az Szkt. szerinti szakmai oktatás, a felsőoktatás, a köz- és felsőoktatási kutatás, a közművelődés, a kultúra, a művészet, a könyvtár, a muzeális intézményi feladat, a sport,
 
 b) minden olyan gyermekvédelmi, gyermekjóléti, szociális és egészségügyi ellátás, amely gyermekek, valamint tanköteles tanulók számára nyújtható.
 

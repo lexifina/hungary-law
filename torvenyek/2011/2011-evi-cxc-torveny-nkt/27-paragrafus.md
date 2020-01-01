@@ -16,11 +16,11 @@
 
 (8) A gyógypedagógiai nevelésben-oktatásban részt vevő nevelési-oktatási intézményben a sajátos nevelési igényű tanulók részére kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásokat kell szervezni. A tanuló annyi egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozáson vesz részt, amennyi a sajátos nevelési igényéből eredő hátránya csökkentéséhez szükséges. A kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozások megszervezésének heti időkeretét a 6. melléklet határozza meg. A heti időkeret a tanítási hetek között a tanuló érdeksérelme nélkül különösen indokolt esetben átcsoportosítható.
 
-(9) A szakképző iskolában tanuló heti kötelező óraszáma terhére tanulónként heti öt órában egy–három fős foglalkozást kell szervezni, ha az iskola zenész, klasszikus balett-táncos vagy artista szakmai vizsgára készít fel.
+(9) A szakgimnáziumban tanuló heti kötelező óraszáma terhére tanulónként heti öt órában egy–három fős foglalkozást kell szervezni, ha az iskola zenész, klasszikus balett-táncos vagy artista szakmai vizsgára készít fel.
 
 (10) Ha az összevont osztályban az egyes évfolyamokra a 6. melléklet eltérő mértékű heti kötelező tanórai foglalkozást és az osztályok számára eltérő órakeretet határoz meg, a magasabb évfolyamra megállapított óraszámokat kell alkalmazni.
 
-(11) Az iskola a nappali rendszerű iskolai oktatásban azokban az osztályokban, amelyekben közismereti oktatás is folyik, azokon a tanítási napokon, amelyeken közismereti vagy szakmai elméleti oktatás is folyik, megszervezi a mindennapos testnevelést legalább napi egy testnevelés óra keretében, amelyből legfeljebb heti két óra
+(11) Az iskola a nappali rendszerű iskolai oktatásban azokban az osztályokban, amelyekben közismereti oktatás is folyik, azokon a tanítási napokon, amelyeken közismereti oktatás is folyik, megszervezi a mindennapos testnevelést legalább napi egy testnevelés óra keretében, amelyből legfeljebb heti két óra
 
 a) a kerettanterv testnevelés tantárgyra vonatkozó rendelkezéseiben meghatározott oktatásszervezési formákkal, műveltségterületi oktatással,
 
@@ -34,7 +34,7 @@ váltható ki.
 
 (11a) Amennyiben a testnevelésóra keretében megvalósított úszásoktatás infrastrukturális feltételei a nevelési-oktatási intézményben nem állnak rendelkezésre, akkor heti egy alkalommal legfeljebb két testnevelésórát egy tanítási napon összevonva lehet megszervezni.
 
-(11b) A szakképzésről szóló 2011. évi CLXXXVII. törvény 8. § (2) bekezdése alkalmazásában az időkeret számítását a (11) bekezdés alkalmazása nem érinti.
+(11b)
 
 (11c) Ha a művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnáziumban a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 101. § (7) bekezdése szerinti előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében a tanuló részére legalább heti 15 tanóra van biztosítva, a mindennapos testnevelés az előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében biztosított művészeti szakmai képzéssel váltható ki.
 

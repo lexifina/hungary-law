@@ -1,47 +1,27 @@
 ## 7. Az iskolai nevelés és oktatás közös szabályai
 
-9. § (1) A tanulók rendszeres nevelés-oktatása, az érettségi vizsgára, a szakképzésről szóló törvényben meghatározott kivétellel a szakmai vizsgára (a továbbiakban együtt: vizsga), valamint a művészeti alapvizsgára történő felkészítése az iskola feladata.
+9. § (1) A tanulók rendszeres nevelés-oktatása, az érettségi vizsgára, valamint a művészeti alapvizsgára történő felkészítése az iskola feladata.
 
-(2) A tanuló vizsgára történő felkészítése a kötelező tanórai foglalkozások keretében történik. A vizsgára történő felkészülést az iskola a választható tanórai foglalkozások keretében segíti.
+(2) A tanuló érettségi vizsgára történő felkészítése a kötelező tanórai foglalkozások keretében történik. Az érettségi vizsgára történő felkészülést az iskola a választható tanórai foglalkozások keretében segíti.
 
 (3) A szülőket az iskola a megelőző tanítási év végén tájékoztatja azokról a tankönyvekről, tanulmányi segédletekről, taneszközökről, ruházati és más felszerelésekről, amelyekre a következő tanévben a nevelő és oktató munkához szükség lesz, valamint az iskolától kölcsönözhető tankönyvekről, taneszközökről és más felszerelésekről, továbbá arról is, hogy az iskola milyen segítséget tud nyújtani a szülői kiadások csökkentéséhez.
 
 (4) Az általános és középfokú iskolák az iskolai Nemzeti Összetartozás Napja bevezetéséről, a magyarországi és a külhoni magyar fiatalok közti kapcsolatok kialakításáról és erősítéséről a közoktatásban, valamint a Magyarország határain kívül élő magyarság bemutatásáról szóló országgyűlési határozat alapján a hét-tizenkettedik évfolyamok valamelyikén szervezik meg a határon túli kirándulásokat. A határon túli kirándulásokat a központi költségvetés támogatja. A költségvetési támogatás elbírálásakor előnyt élveznek a külhoni iskolával dokumentált cserekapcsolatban álló hazai iskolák.
 
-(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít. Alapfokú iskolai végzettség a Szakképzési Hídprogramban is szerezhető.
+(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít.
 
-(6) A középiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít. Középfokú végzettségnek minősül továbbá, ha a tanuló a szakközépiskola, illetve a szakiskola szakképzési évfolyamait elvégezte és sikeres komplex szakmai vizsgát tett.
+(6) A középiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít.
 
-(7) A gimnáziumban az ötödik, hetedik és kilencedik, szakgimnáziumban a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakgimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
+(7) A gimnáziumban az ötödik, hetedik és kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
 
-(7a) A szakközépiskolában a szakképzésért és felnőttképzésért felelős miniszter engedélyével a kilencedik évfolyamot a szakközépiskola pedagógiai programjában meghatározott tartalmú, szakképzést előkészítő évfolyam előzheti meg.
+(7a)
 
-(8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben, tantervi programban meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben, az alternatív alapfokú művészeti iskolák tantervi programjában lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
+(8) A nevelő-oktató munka fejlesztése érdekében az óvodai nevelésben, valamint az általános iskolai és a középfokú nevelésben és oktatásban az oktatásért felelős miniszter a nevelés-oktatás tartalmi kérdéseire, a vezetési modellre, a nevelés- és oktatásszervezési módszerekre, a minőségpolitika, a minőséggondozás rendszerére, a tanuló heti kötelező óraszámára, ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, a pedagógusvégzettségére és -szakképzettségére, valamint a működéshez szükséges feltételekre vonatkozóan egyedi megoldások alkalmazását engedélyezheti. Ebben az esetben, ha az intézmény fenntartója nem központi költségvetési szerv vagy települési önkormányzat, az intézményt az oktatásért felelős miniszter veszi nyilvántartásba és adja ki számára a működési engedélyt, valamint gyakorolja a törvényességi és hatósági ellenőrzési jogköröket.
 
-a) folyó óvodai nevelés és az óvodai élet megtervezésének elveit, a nevelés tevékenységi formáit és az óvodapedagógus feladatait,
+(9) A (8) bekezdés szerinti engedély akkor adható meg, ha a benyújtott tanterv tantárgyi struktúrája – a Nat-ban meghatározott műveltségi területek adaptálása során az iskolák közötti átjárhatóság és a továbbtanulás biztosítása érdekében – legfeljebb harminc százalékban tér el a Nat-ban és az oktatásért felelős miniszter által kiadott kerettantervben foglalt tantárgyi struktúrától.
 
-b) az iskolában oktatott tananyagot, követelményeket,
+(9a) A (8) bekezdés szerinti engedély iránti kérelmet az iskola fenntartója jogosult az oktatásért felelős miniszternek benyújtani.
 
-c) folyó felkészítést az állami vizsgákra,
+(10)
 
-d) a tanulók számára előírt heti kötelező óraszámot,
-
-e) a pedagógusok kötött és kötetlen munkaidejének szabályait,
-
-f) alkalmazott építésügyi előírásokat, eszközöket és felszereléseket, a minőségpolitika rendszerét, módszereit és eszközeit,
-
-g) működő vezetési modellt, nevelés- és oktatásszervezést,
-
-h) elfogadott pedagógus végzettséget és szakképzettséget.
-
-(9) Az óvodapedagógiai program, kerettanterv, tantervi program a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
-
-(9a) A (9) bekezdés alkalmazása során az alternatív kerettanterv csak akkor hagyható jóvá, ha megfelel a következő szempontoknak:
-
-a) a Nat-ban meghatározott tananyag tartalmakat tanévenként két félévre bontva kell megjeleníteni a kerettantervekben, összhangban a tanulók félévenkénti értékelésével,
-
-b) a Nat-ban foglalt műveltségi területek adaptálása során az iskolák közötti átjárhatóság és a továbbtanulás biztosítása érdekében az alternatív kerettanterv tantárgyi struktúrája legfeljebb harminc százalékban térhet el az oktatásért felelős miniszter által kiadott kerettantervben foglalt tantárgyi struktúrától.
-
-(10) A (8) bekezdés alkalmazásában alternatív óvoda, alternatív iskola az az óvoda, iskola, amely nem hagyományos pedagógiai módszerekkel végzi nevelő és oktató munkáját. Az engedély iránti kérelmet, ha van olyan hálózat, szervezet, amelyik az alternatív óvodát, iskolát képviseli, a hálózat, szervezet, ha nincs ilyen hálózat, szervezet, az intézmény fenntartója jogosult benyújtani.
-
-(11) A köznevelési intézmény – ideértve a 7. § (4) bekezdése szerint alapított intézményt is – köteles a gyermekek, tanulók számára hozzáférhető, internet-hozzáféréssel rendelkező számítógépeket a gyermekek, tanulók védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátni a gyermekek és tanulók harmonikus lelki, testi és értelmi fejlődése védelmének érdekében.
+(11) A köznevelési intézmény köteles a gyermekek, tanulók számára hozzáférhető, internet-hozzáféréssel rendelkező számítógépeket a gyermekek, tanulók védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátni a gyermekek és tanulók harmonikus lelki, testi és értelmi fejlődése védelmének érdekében.

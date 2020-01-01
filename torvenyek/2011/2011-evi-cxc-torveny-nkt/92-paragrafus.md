@@ -22,4 +22,4 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (9) A külföldön megkezdett és befejezetlen tanulmányok a magyar köznevelés iskolarendszerében folytathatók. A tanulmányok beszámításáról, továbbá a tanuló felvételéről az iskola igazgatója dönt.
 
-(10) Ha a beszámítás kérdésében az iskola igazgatója nem tud dönteni, beszerzi az oktatásért felelős miniszter, szakképzés esetén a szakképesítésért felelős miniszter véleményét.
+(10) Ha a beszámítás kérdésében az iskola igazgatója nem tud dönteni, beszerzi az oktatásért felelős miniszter véleményét.

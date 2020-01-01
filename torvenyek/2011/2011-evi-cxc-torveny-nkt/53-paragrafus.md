@@ -2,7 +2,7 @@
 
 a) a gyermeket másik óvoda átvette, az átvétel napján,
 
-b) a jegyző a szülő kérelmére engedélyt adott a gyermek óvodából történő kimaradására,
+b) a felmentést engedélyező szerv a szülő kérelmére engedélyt adott a gyermek óvodából történő kimaradására,
 
 c) a gyermeket felvették az iskolába, a nevelési év utolsó napján,
 
@@ -18,17 +18,7 @@ c) gimnáziumi tanulmányok esetén az utolsó évfolyam elvégzését követő 
 
 d) szakgimnáziumi tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
 
-e) szakképző iskolában, ha
-
-ea) a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
-
-eb) a tanuló nem jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
-
-ec) az államilag elismert szakképesítést szerzett, szakközépiskolában tanuló arról döntött, hogy továbbtanul az érettségi vizsgára felkészítő tizenkettedik és tizenharmadik évfolyamon, az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
-
-ed) a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
-
-ee) a Szakképzési Hídprogramban, ha a nem tanköteles tanuló a program követelményeit teljesítette, vagy a tanulmányait félbehagyta,
+e)
 
 f) az alapfokú művészeti iskolában, ha kiskorú tanuló esetén a szülő vagy a nagykorú tanuló írásban bejelenti, hogy kimarad az iskolából, a bejelentésben megjelölt napon, továbbá az utolsó alapfokú évfolyam utolsó napján, ha a tanuló nem tesz művészeti alapvizsgát, valamint az utolsó továbbképző évfolyam záróvizsga letételének napján, ha a tanuló nem tesz záróvizsgát, az utolsó évfolyam elvégzését tanúsító bizonyítvány kiállításának napján és a h) pontban megjelölt esetben,
 
@@ -44,7 +34,7 @@ h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével �
 
 (6) Az iskola a tanítási év utolsó napján egyoldalú nyilatkozattal is megszüntetheti annak a tanulónak a tanulói jogviszonyát, aki nem tanköteles, ha ugyanannak az évfolyamnak a tanulmányi követelményeit második alkalommal nem teljesítette. Az iskolai tanítási év utolsó napján megszüntethető egyoldalú nyilatkozattal annak a tanulónak a tanulói jogviszonya is, aki a nappali rendszerű iskolai oktatásban nem vehet részt, feltéve, hogy az iskolában nincs felnőttoktatás, vagy a tanuló abban nem kíván részt venni.
 
-(7) Ha a többcélú intézmény több iskolatípus feladatait is ellátja, a tankötelezettség ideje alatt a tanulói jogviszony nem szüntethető meg, amíg a tanulmányok folytatására bármelyik iskolai feladatot ellátó intézményegységben lehetőség van.
+(7) Ha a többcélú köznevelési intézmény több iskolatípus feladatait is ellátja, a tankötelezettség ideje alatt a tanulói jogviszony nem szüntethető meg, amíg a tanulmányok folytatására bármelyik iskolai feladatot ellátó intézményegységben lehetőség van.
 
 (8) A tanuló kollégiumi tagsága megszűnik
 
@@ -62,4 +52,4 @@ e) ha a tanulót másik kollégium átvette, az átvétel napján.
 
 (10) Megszűnik az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi tagsági viszony, ha a nevelési-oktatási intézmény jogutód nélkül megszűnik.
 
-(11) Kérelemre megszűnik annak a nem magyar állampolgárságú gyermeknek, tanulónak a magyarországi nevelési-oktatási intézménnyel létesített óvodai, tanulói, kollégiumi tagsági jogviszonya, aki külföldre vagy saját országába távozik.
+(11) A bejelentés tudomásulvételének napján megszűnik annak a nem magyar állampolgárságú gyermeknek, tanulónak a magyarországi nevelési-oktatási intézménnyel létesített óvodai, tanulói, kollégiumi tagsági jogviszonya, aki külföldre vagy saját országába távozik.

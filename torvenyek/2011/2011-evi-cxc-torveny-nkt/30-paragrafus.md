@@ -1,4 +1,4 @@
-30. § (1) Az iskolában a tanítási év ötnapos tanítási hetekből áll. A szombat és a vasárnap tanítás nélküli pihenőnap. Tanítás nélküli pihenőnap jár a tanulónak a munkaszüneti napokon is. A tanítási időbeosztás a munkaszüneti napok miatti munkaidő-beosztásnak megfelelően változik, a tanítási év utolsó napját követően pedig legalább hatvan – szakképző iskolában legalább harminc – összefüggő napból álló nyári szünetet kell biztosítani.
+30. § (1) Az iskolában a tanítási év ötnapos tanítási hetekből áll. A szombat és a vasárnap tanítás nélküli pihenőnap. Tanítás nélküli pihenőnap jár a tanulónak a munkaszüneti napokon is. A tanítási időbeosztás a munkaszüneti napok miatti munkaidő-beosztásnak megfelelően változik, a tanítási év utolsó napját követően pedig legalább hatvan összefüggő napból álló nyári szünetet kell biztosítani.
 
 (2) Alapos indokkal, a fenntartó egyetértésével a tanítási hetek – a szombat igénybevételével – hat tanítási nappal is megszervezhetők abban az esetben, ha a tanulók részére legalább harminchat óra megszakítás nélküli heti pihenőidő és az elmaradt heti pihenőnapok igénybevétele – egy vagy több összefüggő tanítási szünetként – a tanítási félév során biztosítható.
 
@@ -8,10 +8,10 @@
 
 (5) Ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a nevelési-oktatási intézmény működtetése nem lehetséges,
 
-a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető a fenntartó és a köznevelési feladatot ellátó hatóság egyidejű értesítése mellett,
+a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető,
 
-b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó és a köznevelési feladatot ellátó hatóság egyidejű értesítése mellett,
+b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó egyidejű értesítése mellett,
 
-c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a köznevelési feladatokat ellátó hatóság vezetője az oktatásért felelős miniszter egyidejű értesítése mellett
+c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
 
 rendkívüli szünetet rendel el.

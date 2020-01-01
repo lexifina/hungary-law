@@ -100,7 +100,7 @@ g) az állami vizsgája alapján kiadott bizonyítványainak adatai a bizonyítv
 
 h) a Magyar Honvédség központi személyügyi szerve részére a honvédelemért felelős miniszter által fenntartott köznevelési intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a (4) bekezdés d) és e) pontja szerinti adat,
 
-i) a szakképzésről szóló törvény 46. § (1a) bekezdésében meghatározott igazolás kiállítása és a tanulószerződés megkötésének elősegítése céljából a szakképzésről szóló törvény 87. §-ában meghatározott adat a területileg illetékes gazdasági kamara részére
+i)
 
 továbbítható.
 
@@ -110,7 +110,7 @@ a) sajátos nevelési igényére, beilleszkedési zavarára, tanulási nehézsé
 
 b) óvodai fejlődésével, valamint az iskolába lépéshez szükséges fejlettségével kapcsolatos adatai a szülőnek, a pedagógiai szakszolgálat intézményeinek, az iskolának,
 
-c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, a vizsgabizottságnak, a gyakorlati képzés szervezőjének, a tanulószerződés alanyainak vagy ha az értékelés nem az iskolában történik, az iskolának, iskolaváltás esetén az új iskolának, a szakmai ellenőrzés végzőjének,
+c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, iskolaváltás esetén az új iskolának, a szakmai ellenőrzés végzőjének,
 
 d) diákigazolványa kiállításához szükséges valamennyi adata a KIR adatkezelője, a diákigazolvány elkészítésében közreműködők részére
 

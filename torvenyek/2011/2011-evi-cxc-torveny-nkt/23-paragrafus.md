@@ -1,8 +1,12 @@
-23. § (1) Ha a köznevelési intézményt nem állami költségvetési szerv, vagy települési önkormányzat – beleértve a helyi önkormányzatok társulását is – alapítja, működésének megkezdéséhez engedély szükséges.
+23. § (1) Ha a köznevelési intézményt nem az állam vagy települési önkormányzat – ideértve a helyi önkormányzatok társulását is – alapítja, működésének megkezdéséhez engedély szükséges. A működési engedély akkor adható ki, ha a nem állami köznevelési intézmény
 
-(2) Az engedély akkor adható ki, ha a köznevelési intézmény a 22. § (1)–(2) bekezdésben meghatározottak szerint rendelkezik a működéséhez szükséges feltételekkel és a nyilvántartásba vétel óta kevesebb mint hat hónap telt el. Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
+a) rendelkezik a működéséhez szükséges feltételekkel és
 
-(3) Újonnan induló nevelési-oktatási forma esetében az 22. § (1)–(2) bekezdésben meghatározottak szerinti működéshez szükséges feltételeket – az iskolatípusnak megfelelő, adott évben nem induló évfolyamok, osztályok, csoportok vonatkozásában – felmenő rendszerben, fokozatosan elégséges megteremteni. A feltételek fokozatos megteremtését a köznevelési feladatokat ellátó hatóság törvényességi ellenőrzés keretében évente vizsgálja. Ha ennek keretében megállapítást nyer, hogy az (5) bekezdés szerinti ütemtervben vállalt feltételek nem teljesülnek, a működési engedély visszavonásra kerül.
+b) nyilvántartásba vétele óta kevesebb mint hat hónap telt el.
+
+(2) Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
+
+(3) Újonnan induló nevelési-oktatási forma esetében az 22. § (1)–(2) bekezdésben meghatározottak szerinti működéshez szükséges feltételeket – az iskolatípusnak megfelelő, adott évben nem induló évfolyamok, osztályok, csoportok vonatkozásában – felmenő rendszerben, fokozatosan elégséges megteremteni. A feltételek fokozatos megteremtését a köznevelési feladatokat ellátó hatóság törvényességi ellenőrzés keretében kétévente vizsgálja. Ha ennek keretében megállapítást nyer, hogy az (5) bekezdés szerinti ütemtervben vállalt feltételek nem teljesülnek, a működési engedély visszavonásra kerül.
 
 (4) Az engedély kiadása iránti kérelemhez csatolni kell
 
@@ -18,7 +22,7 @@ c) azokat az okiratokat, amelyekből megállapítható, hogy a működés megkez
 
 (7) A köznevelési feladatokat ellátó hatóság az engedély kiadását akkor tagadhatja meg, ha a nevelési-oktatási intézmény
 
-a) pedagógiai programja az e törvényben, szakmai programja a szakképzésről szóló törvényben meghatározottaknak nem felel meg,
+a) pedagógiai programja az e törvényben meghatározottaknak nem felel meg,
 
 b) nem rendelkezik – az e törvényben foglaltaknak megfelelő – a működéséhez szükséges személyi és tárgyi feltételekkel,
 

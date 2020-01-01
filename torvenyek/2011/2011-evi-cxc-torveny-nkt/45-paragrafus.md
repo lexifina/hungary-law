@@ -2,23 +2,15 @@
 
 45. § (1) Magyarországon – az e törvényben meghatározottak szerint – minden gyermek köteles az intézményes nevelés-oktatásban részt venni, tankötelezettségét teljesíteni.
 
-(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, legkésőbb az azt követő évben tankötelessé válik. Az a gyermek, akinek esetében azt a szakértői bizottság javasolja, további egy nevelési évig az óvodában részesül ellátásban, és ezt követően válik tankötelessé. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a köznevelési feladatot ellátó hatóság a szülő kérelmére szakértői bizottság véleménye alapján engedélyezheti, hogy a gyermek hatéves kor előtt megkezdje tankötelezettségének teljesítését.
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, tankötelessé válik. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. A szülő kérelmére a felmentést engedélyező szerv döntése alapján a gyermek további egy nevelési évig óvodai nevelésben vehet részt. A szülő kérelmét az iskolakezdés évében január 15-éig nyújthatja be a felmentést engedélyező szervhez. Ha az eljárásban szakértőt kell meghallgatni, akkor csak szakértői bizottság rendelhető ki, és a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról. Ha a szakértői bizottság a szülői kérelem benyújtására nyitva álló határidő előtt a gyermek további egy nevelési évig óvodai nevelésben történő részvételét javasolja, a szülői kérelem benyújtására nincs szükség. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a felmentést engedélyező szerv a szülő kérelmére engedélyezheti, hogy a gyermek hatéves kora előtt megkezdje tankötelezettségének teljesítését. A bíróság eljárására alkalmazni kell a (6b)–(6f) bekezdésében foglaltakat.
 
 (3) A tankötelezettség annak a tanévnek a végéig tart, amelyben a tanuló a tizenhatodik életévét betölti. A sajátos nevelési igényű tanuló tankötelezettsége meghosszabbítható annak a tanítási évnek a végéig, amelyben a huszonharmadik életévét betölti. A tankötelezettség meghosszabbításáról a szakértői bizottság szakértői véleménye alapján az iskola igazgatója dönt.
 
-(4) A tankötelezettség kezdetéről
-
-a) az óvoda vezetője,
-
-b) ha a gyermek nem járt óvodába az iskolaérettségi vizsgálat alapján a szakértői bizottság,
-
-c) az óvoda, az iskola vezetője vagy a szülő kezdeményezésére az iskolaérettségi vizsgálat alapján a szakértői bizottság
-
-dönt.
+(4)
 
 (5) A tankötelezettség iskolába járással teljesíthető. Ha a tanuló egyéni adottsága, sajátos helyzete indokolja, és a tanuló fejlődése, tanulmányainak eredményes folytatása és befejezése szempontjából előnyös, a tankötelezettség teljesítése céljából határozott időre egyéni munkarend kérelmezhető. A szülő, nagykorú tanuló esetén a tanuló a kérelmet a tanévet megelőző június 15-éig nyújthatja be a felmentést engedélyező szervhez. Ezen időpontot követően csak abban az esetben nyújtható be kérelem, ha a tankötelezettség iskolába járással történő teljesítését megakadályozó körülmény merül fel. Jogszabályban meghatározott esetben az egyéni munkarendet biztosítani kell.
 
-(5a) A készségfejlesztő iskola a tanuló javára köteles felelősségbiztosítást kötni, amely kiterjed a tanulói balesetekre és a tanuló által okozott kárra. A tanulót a szakképzésről szóló törvény rendelkezései szerint kedvezményes étkeztetés, útiköltség-térítés, munkaruha, egyéni védőfelszerelés (védőruha), tisztálkodási eszköz és kötelező juttatások illetik meg. A tanulót az iskola a gyakorlati évfolyamon elért eredménye, teljesítménye alapján jutalomban, prémiumban, egyéb más juttatásban vagy szociális támogatásban részesítheti. Az e bekezdésben meghatározottak fedezetét a fenntartó külön előirányzatban köteles biztosítani.
+(5a) A készségfejlesztő iskola a tanuló javára köteles felelősségbiztosítást kötni, amely kiterjed a tanulói balesetekre és a tanuló által okozott kárra. Az e bekezdésben meghatározottak fedezetét a fenntartó külön előirányzatban köteles biztosítani.
 
 (6) A felmentést engedélyező szerv dönt arról, hogy a tanuló a tankötelezettségének egyéni munkarend keretében tehet eleget. Az eljárás során a felmentést engedélyező szerv megkeresheti a gyámhatóságot, a gyermekjóléti szolgálatot, az iskolaigazgatót, gyermekvédelmi gondoskodásban részesülő tanuló esetén a gyermekvédelmi gyámot. Az eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
@@ -34,10 +26,10 @@ dönt.
 
 (6f) A perben nem lehet alkalmazni a polgári perrendtartásról szóló 2016. évi CXXX. törvény 148. §-a szerinti ítélkezési szünetre vonatkozó rendelkezéseket.
 
-(7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési és Szakképzési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
+(7) A tankötelezettség általános iskolában, középfokú iskolában, valamint fejlesztő nevelés-oktatásban teljesíthető.
 
-(8) A jegyző gondoskodik az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl a köznevelési feladatokat ellátó hatóság számára. A köznevelési feladatot ellátó hatóság gondoskodik a tankötelesek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl a területileg illetékes tankerületi központ, és tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzője számára, továbbá hivatalból elrendeli és felügyeli a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
+(8) A hivatal gondoskodik az óvodai nevelésben részvételre kötelezettek és a tankötelesek nyilvántartásáról, a nyilvántartásból adatot közöl a területileg illetékes kötelező felvételt biztosító óvodák, iskolák fenntartói számára. A felmentést engedélyező szerv hivatalból, valamint a hivatal jelzése alapján elrendeli és felügyeli az óvodába járási kötelezettség és a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
 
-(9) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes köznevelési feladatot ellátó hatóság ellátja a tanköteles tanuló igazolatlan mulasztása esetén a törvény vagy kormányrendelet által feladat- és hatáskörébe utalt feladatokat.
+(9) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes köznevelési feladatot ellátó hatóság ellátja az óvodaköteles gyermek és a tanköteles tanuló igazolatlan mulasztása esetén törvény vagy kormányrendelet által feladat- és hatáskörébe utalt feladatokat.
 
-(10) A települési önkormányzat jegyzője az óvodás, a köznevelési feladatot ellátó hatóság a területileg illetékes tankerületi központ útján a tanköteles gyermekekről vezetett nyilvántartást megküldi a lakóhely, ennek hiányában tartózkodási hely szerint illetékes óvodának, általános iskolának.
+(10)

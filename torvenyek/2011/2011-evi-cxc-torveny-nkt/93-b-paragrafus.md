@@ -1,6 +1,6 @@
 93/B. § (1) A könyv, a szótár, a szöveggyűjtemény, az atlasz, a kislexikon, a munkatankönyv, a munkafüzet, a feladatgyűjtemény, a digitális tananyag és a nevelési-oktatási program részét alkotó információhordozó, feladathordozó – az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban – tankönyvvé nyilvánítható.
 
-(2) A tankönyvvé nyilvánításról és a tankönyvvé nyilvánítás megszüntetéséről a hivatal, a szakképzési tankönyvek tekintetében a szakképesítésért felelős miniszter dönt. A szakképesítésért felelős miniszter ezt a jogát az irányítása alatt álló államigazgatási szervre vagy a miniszterrel kötött megállapodás alapján a hivatalra átruházhatja.
+(2) A tankönyvvé nyilvánításról és a tankönyvvé nyilvánítás megszüntetéséről a hivatal dönt.
 
 (3) Tankönyvvé nyilvánítási kérelmet
 
@@ -12,11 +12,7 @@ ab) a 93/D. § (2) bekezdése szerinti nyilvános felhívás alapján az oktatá
 
 ac) bevett egyház, vagy annak belső egyházi jogi személye,
 
-b) szakképzési tankönyv vonatkozásában
-
-ba) könyvkiadást folytató jogi személy,
-
-bb) bevett egyház, vagy annak belső egyházi jogi személye
+b)
 
 nyújthat be.
 

@@ -2,7 +2,7 @@
 
 (2) A további felvételi lehetőségről szóló tájékoztatót a helyben szokásos módon – legalább tizenöt nappal a felvételi, átvételi kérelmek benyújtására rendelkezésre álló időszak első napja előtt – nyilvánosságra kell hozni.
 
-(3) A többcélú intézményben általános iskolai tanulmányaikat befejező tanulók a pedagógiai programban meghatározottak alapján folytatják tanulmányaikat a megfelelő iskolatípus szerinti nevelés-oktatásban.
+(3) A többcélú köznevelési intézményben általános iskolai tanulmányaikat befejező tanulók a pedagógiai programban meghatározottak alapján folytatják tanulmányaikat a megfelelő iskolatípus szerinti nevelés-oktatásban.
 
 (4) Az iskolába felvett tanulók osztályba vagy csoportba való beosztásáról – a szakmai munkaközösség, annak hiányában a nevelőtestület véleményének kikérésével – az igazgató dönt.
 

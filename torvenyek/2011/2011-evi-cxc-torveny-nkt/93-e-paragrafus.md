@@ -1,4 +1,4 @@
-93/E. § (1) Az iskola az iskolai tankönyvrendelés keretében a Nat szerinti kerettantervi tantárgyhoz, a szakképzési kerettantervi tantárgyhoz, a tanított modulhoz, témakörhöz kizárólag a tankönyvjegyzéken szereplő tankönyvek közül választhat.
+93/E. § (1) Az iskola az iskolai tankönyvrendelés keretében a Nat szerinti kerettantervi tantárgyhoz kizárólag a tankönyvjegyzéken szereplő tankönyvek közül választhat.
 
 (2) A tankönyvek országos megrendelését, beszerzését és az iskolák számára történő eljuttatásának megszervezését, a tankönyvek vételárának beszedését az állam a könyvtárellátó útján látja el. A könyvtárellátó végzi el az állami tankönyvfejlesztésért és -kiadásért felelős szerv által kiadott tankönyvek engedélyezett sokszorosítását, valamint e tankönyvekkel kapcsolatos készletraktározási és kereskedelmi feladatokat.
 

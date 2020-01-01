@@ -2,7 +2,7 @@
 
 a) a 93/B. § (3) bekezdésben meghatározottak kérelme, vagy
 
-b) a szakképesítésért felelős miniszter döntése
+b)
 
 alapján veszi fel a tankönyvet a tankönyvjegyzékre. Ha az eljárásban szakértői vélemény beszerzése szükséges, akkor az a Kormány rendeletében kijelölt testülettől kérhető.
 
@@ -12,7 +12,7 @@ alapján veszi fel a tankönyvet a tankönyvjegyzékre. Ha az eljárásban szak�
 
 a) bármely évfolyam bármely tantárgya vonatkozásában a Nat szerint jóváhagyott kerettantervi tantárgyanként,
 
-b) szakképzési tankönyv esetén szakképzési kerettantervi tantárgyanként, modulonként, témakörönként
+b)
 
 legfeljebb kettő tankönyvet tartalmazhat.
 

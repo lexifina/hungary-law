@@ -56,9 +56,9 @@ d) az iskolai diákönkormányzat,
 
 e) a nemzetiségi nevelés-oktatásban részt vevő intézmény esetén – ha nem rendelkezik egyetértési joggal – a települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat,
 
-f) szakképző iskola esetén a fővárosi, megyei gazdasági kamara,
+f)
 
-g) az állami fenntartású szakképző iskola esetén a szakképzésért és felnőttképzésért felelős miniszter,
+g)
 
 h) a vagyonkezelésében levő ingatlan tulajdonos önkormányzatának
 
