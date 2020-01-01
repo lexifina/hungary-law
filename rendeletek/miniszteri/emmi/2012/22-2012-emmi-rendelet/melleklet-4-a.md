@@ -116,7 +116,7 @@ Szakfogorvosi ráépített szakképesítések képzési programja
 
 1. Orális implantológia
 
-1.1. Képzés belépési feltétele:
+1.1.[^31] Képzés belépési feltétele:
 
 a) konzerváló fogászat és fogpótlástan,
 
@@ -124,9 +124,11 @@ b) parodontológia,
 
 c) dento-alveoláris sebész,
 
-d) arc-, állcsont-, szájsebészet szakvizsga és fogorvosi diploma vagy
+d) arc-, állcsont-, szájsebészet szakvizsga és fogorvosi diploma,
 
-e) arc-, állcsont-, szájsebészet szakvizsga és fogorvosi
+e) arc-, állcsont-, szájsebészet szakvizsga és fogorvosi vagy
+
+f) fogpótlástan
 
 szakképesítés.
 
@@ -145,3 +147,4 @@ c) 8 hó parodontológia dento-alveoláris sebészeti vagy parodontológiai akkr
 meghatározott számú és típusú beavatkozás teljesítése.
 
 [^30]: A 4a. mellékletet a 28/2018. (VIII. 29.) EMMI rendelet 10. § e) pontja iktatta be.
+[^31]: A 4a. melléklet 1. pont 1.1. alpontja a 28/2018. (VIII. 29.) EMMI rendelet 10. § f) pontjával megállapított szöveg.

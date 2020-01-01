@@ -224,7 +224,7 @@
 
 | 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
 
-| 2. | Orális implantológia | konzerváló fogászat és fogpótlástan vagy parodontológia vagy dento-alveoláris sebész vagy arc-, állcsont-, szájsebészet szakvizsga és fogorvosi diploma vagy arc-, állcsont-, szájsebészet szakvizsga és fogorvosi szakképesítés | (36 hó) + 24 hó |
+| 2. | Orális implantológia | konzerváló fogászat és fogpótlástan vagy parodontológia vagy dento-alveoláris sebész vagy fogpótlástan, vagy arc-, állcsont-, szájsebészet szakvizsga és fogorvosi diploma vagy arc-, állcsont-, szájsebészet szakvizsga és fogorvosi szakképesítés | (36 hó) + 24 hó |
 
 4. Szakgyógyszerészi alap szakképesítések
 
@@ -338,4 +338,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^26]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja és 12. § b) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja szerint módosított szöveg.
