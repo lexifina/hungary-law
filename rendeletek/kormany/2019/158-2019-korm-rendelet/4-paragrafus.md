@@ -22,7 +22,7 @@ j) az erdészeti szakszemélyzet jogosulti alapképzésének és továbbképzés
 
 k) az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 9. § (3) bekezdés b) és e) pontja szerinti feladatok ellátása;
 
-l)[^2]
+l) az Evt. 33. § (1) bekezdése szerinti körzeti erdőtervezési feladatok ellátása.
 
 (2) Az NFK erdészeti szakmai irányító tevékenysége keretében
 
@@ -39,5 +39,3 @@ e) kiadott iratmintákat használják a megyei kormányhivatalok a szakmai felad
 f) végrehajtott belső ellenőrzéseken, auditokon, szakterületi ellenőrzéseken tett ajánlások alapján a megyei kormányhivatalok a meghatározott intézkedéseket végrehajtják, közreműködnek nemzetközi szervek által végrehajtott külső auditokon;
 
 g) jelentést kérhet a megyei kormányhivataloktól az elvégzett feladataikról.
-
-[^2]: A 4. § (1) bekezdés l) pontja a 6. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
