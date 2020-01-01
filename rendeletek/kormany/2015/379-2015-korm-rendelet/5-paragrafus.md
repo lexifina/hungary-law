@@ -10,6 +10,7 @@
 
 (6) A miniszter a tárgyévet követő év november 15-ig gondoskodik a nyilvántartásba vett önkormányzati fejlesztési igények elektronikus közzétételéről.
 
-(7) A nyilvántartásba vett fejlesztési igények finanszírozási forrásának hiánya esetén a vízgazdálkodásért felelős miniszter kezdeményezésére a Kormány negyedévente dönt a finanszírozhatóságról.
+(7)[^5] A nyilvántartásba vett fejlesztési igények finanszírozási forrásának hiánya esetén a vízgazdálkodásért felelős miniszter kezdeményezésére a Kormány a tárgyévet követő év június 30-ig dönt a finanszírozhatóságról.
 
 [^4]: Az 5. § a 288/2018. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (7) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 21. §-a szerint módosított szöveg.
