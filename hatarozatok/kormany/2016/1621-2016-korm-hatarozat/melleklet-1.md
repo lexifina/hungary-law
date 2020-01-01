@@ -2,21 +2,9 @@
 
 ## a) a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 19. § (2) bekezdésében biztosított jogkörében eljárva
 
-## aa) elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 24. Makó Város közterület fejlesztésének támogatása cím létrehozását,
+## aa)[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## ab) elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 24. Makó Város közterület fejlesztésének támogatása cím javára 75,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását,
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## ab)[^2]
 
 ## ac) egyetért azzal, hogy a belügyminiszter az ab) alpont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben nyújtson 75,0 millió forint támogatást Makó Város Önkormányzata (a továbbiakban: Önkormányzat) részére közterület rendezés, ezen belül szobor készítés és felállítás érdekében, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az Önkormányzattal,
 
@@ -30,29 +18,13 @@
 
 ## Határidő: azonnal
 
-## b)[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 451 914 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 2. melléklet szerint;
+## b)[^3]
 
-## Az átcsoportosítás tekintetében
+## c)[^4]
 
-## Felelős: nemzetgazdasági miniszter
+## d)[^5]
 
-## Határidő: azonnal
-
-## Az elszámolási és a visszatérítési kötelezettség tekintetében
-
-## Felelős: nemzeti fejlesztési miniszter, emberi erőforrások minisztere
-
-## Határidő: 2017. június 30., a Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím javára biztosított 142 414 ezer forint tekintetében 2019. június 30.
-
-## c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 153. §-ában biztosított jogkörében eljárva engedélyezi a XIX. Uniós fejlesztések fejezetnél 851 816 ezer forint meghiúsulás miatt kötelezettségvállalással nem terheltté vált maradvány visszahagyását;
-
-## d) az Ávr. 152. §-ában biztosított jogkörében eljárva engedélyezi az államháztartás központi alrendszerébe tartozó költségvetési szervek és fejezeti kezelésű előirányzatok 2015. évi költségvetési maradványának felhasználásáról szóló 1401/2016. (VII. 22.) Korm. határozatban megállapított 2015. évi, további intézkedésig fel nem használható, kötelezettségvállalással nem terhelt költségvetési maradványokból a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 1 495 771 ezer forint felhasználását;
-
-## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a 3. és 4. melléklet szerinti átcsoportosítást;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## e)[^6]
 
 ## f) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1035/2015. (I. 30.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 7. Liget Budapest projekt előkészítése és megvalósítása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton biztosított 2 011 100 000 forintból 473 032 500 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra;
 
@@ -66,9 +38,15 @@
 
 ## k) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1514/2016. (IX. 22.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton biztosított 63,0 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2–4.[^2]
+## 2–4.[^7]
 
-1. melléklet az 1621/2016. (XI. 11.) Korm. határozathoz
+1. melléklet az 1621/2016. (XI. 11.) Korm. határozathoz[^8]
 
-[^1]: Az 1. pont b) alpontja az 1601/2017. (VIII. 31.) Korm. határozat 8. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpont aa) pontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont a) alpont ab) pontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

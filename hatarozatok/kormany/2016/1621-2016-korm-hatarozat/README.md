@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1621-30
 | 2016-11-12 | 2016-1621-30-22.2 | 2010: CXXX. törvény |
 | 2017-08-31 | 2016-1621-30-22.3 | 1601/2017. (VIII. 31.) Korm. határozat |
 | 2018-08-31 | 2016-1621-30-22.4 | 1601/2017. (VIII. 31.) Korm. határozat |
+| 2020-01-01 | 2016-1621-30-22.5 | 2011: CXCV. törvény |
