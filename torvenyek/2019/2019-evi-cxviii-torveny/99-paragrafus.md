@@ -1,1 +1,3 @@
-99. §
+99. § A Hpt. 154. § (12) bekezdése helyébe a következő rendelkezés lép:
+
+„(12) A belső ellenőrzési szervezeti egység feladatait, a belső ellenőrrel szemben támasztott szakmai követelményeket, a rendelkezésére bocsátandó informatikai és egyéb technikai feltételeket, valamint az ellenőrzés lefolytatásának eljárási szabályait – ideértve az ellenőrzött szervezeti egység és annak munkatársai részéről tanúsítandó együttműködést is – az irányítási jogkörrel rendelkező vezető testület belső ellenőrzési szabályzatban rögzíti azzal, hogy legalább évente felülvizsgálja annak tartalmát. A belső ellenőrzési szabályzatra nem terjed ki a (2) bekezdés f) pontja szerinti ellenőrzés.”

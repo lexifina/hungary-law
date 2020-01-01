@@ -1,1 +1,3 @@
-124. §
+124. § A Szantv. 115. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az (1) bekezdésben meghatározott személyek által az e törvénnyel összefüggésben nyilvánosságra hozott információ nem tartalmazhat bizalmas információt, valamint a nyilvánosságra hozó előzetesen értékeli, hogy az információ nyilvánosságra hozatala milyen hatást gyakorolhat a közérdekre pénzügyi, monetáris vagy gazdaságpolitikai szempontból, a természetes és jogi személyek üzleti érdekeire, illetve az ellenőrzések céljára, valamint a vizsgálatokra és könyvvizsgálatokra. Az információ nyilvánosságra hozása hatásának vizsgálata során külön értékelni kell a helyreállítási és szanálási tervek tartalmának és részleteinek, valamint az életképesség és a szanálhatóság értékelése eredményeinek nyilvánosságra hozásával járó hatásokat.”

@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 12/B. § (3) bekezdésében az „i) pontjában” szövegrész helyébe a „h) és j) pontjában” szöveg,
 
 c)
 
