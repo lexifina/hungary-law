@@ -7,3 +7,5 @@
 (3) A (2) bekezdés nem alkalmazható, ha a 122/B. § (1) bekezdése alapján a tagállami jog feltételes szabadságra bocsátással kapcsolatos rendelkezései alkalmazásának lenne helye, de a terheltet már korábban feltételes szabadságra bocsátották.
 
 (4) Nincs helye felülvizsgálatnak, illetve a törvényesség érdekében bejelentetett jogorvoslatnak, ha a (2) bekezdés alapján a 111/E. §-ra figyelemmel a tagállami ítéletet végrehajtandó szabadságvesztésként elismerő bírósági határozat megváltoztatására került sor.
+
+(5) E törvénynek a 140/D. § (2a) bekezdése szerinti, a pénzbüntetés meg nem fizetése esetén alkalmazandó végrehajtásra vonatkozó szabályait a 2019. december 31. napját követően elrendelt végrehajtások esetén kell alkalmazni. A 2020. január 1. napját megelőzően megindult végrehajtás esetén a pénzbüntetés adók módjára behajtandó köztartozásnak minősül, amelynek behajtása az állami adó- és vámhatóság feladata.
