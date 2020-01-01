@@ -72,7 +72,7 @@
 
 33. színház: prózai, zenés, táncos színpadi művek előadásával foglalkozó előadó-művészeti szervezet, ide értve a bábszínházat, befogadó színházat, produkciós színházat, független színházat, szabadtéri színházat, nemzetiségi színházat,
 
-34. színházi nevelési program: legalább három óra időtartamú, maximum 40 főből álló csoportnak tartott program, amelynek résztvevői közoktatásban résztvevő gyerekek és fiatalok életkor tekintetében homogén közösségei, valamint amelyben művészeti értéket képviselő előadás vagy előadás-részletek és drámapedagógiai feldolgozó munka komplex, pedagógiai célokat megvalósító módon épülnek egymásra, továbbá szerkezetében és tartalmában igazodik az adott korcsoport életkori és pszichológiai sajátosságaihoz,
+34. színházi nevelési program: legalább három óra időtartamú, maximum 40 főből álló csoportnak tartott program, amelynek résztvevői köznevelésben részt vevő gyermekek, tanulók, illetve a szakképzésben részt vevő tanulók, képzésben részt vevő személyek életkor tekintetében homogén közösségei, valamint amelyben művészeti értéket képviselő előadás vagy előadás-részletek és drámapedagógiai feldolgozó munka komplex, pedagógiai célokat megvalósító módon épülnek egymásra, továbbá szerkezetében és tartalmában igazodik az adott korcsoport életkori és pszichológiai sajátosságaihoz,
 
 35. színpadi próba: minden olyan próba, amely színpadi körülmények között zajlik, jelmezzel, díszlettel, világítással, hanggal vagy ezek nélkül úgy, hogy a próba közvetlen célja az alkotás színpadi körülmények között történő előadásának valamennyi művészi, szakmai és technikai feltételének együttes kialakítása és összehangolása,
 
