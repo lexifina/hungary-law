@@ -14,7 +14,7 @@ c) értelmi akadályozottsága genetikai, illetőleg magzati károsodás vagy sz
 
 d) állapota a személyiség egészét érintő fejlődés átható zavara miatt, az autonómia-tesztek alapján súlyosnak vagy középsúlyosnak minősíthető,
 
-e) a mozgásrendszer károsodása, illetőleg funkciózavara miatt helyváltoztatása a külön jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a külön jogszabály szerinti mozgásszervi betegsége miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásszervi fogyatékos),
+e) helyváltoztatása a jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a jogszabály szerinti mozgáskorlátozottsága miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásában fogyatékos),
 
 f) az a)–e) és h) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
 

@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-26-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 1998-26-00-00.40 |
 | 2018-01-01 | 2017. évi L. törvény | 1998-26-00-00.41 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 1998-26-00-00.42 |
+| 2020-01-01 | 2018. évi CXVII. törvény | 1998-26-00-00.43 |
