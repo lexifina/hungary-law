@@ -1,4 +1,4 @@
-## 19. Hatályon kívül helyező rendelkezések
+## 19.
 
 ### 39. §
 

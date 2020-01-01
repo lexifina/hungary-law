@@ -2,38 +2,40 @@
 
 ## STATISZTIKAI CÉLÚ ADATNYILVÁNTARTÁS ÉS ADATSZOLGÁLTATÁS
 
-## 11. A felnőttképzést folytató intézményekben kezelt személyes és különleges adatok
+## 11. A felnőttképző adatkezelése
 
-21. § (1) A felnőttképzést folytató intézmények az alábbi adatokat tartják nyilván és kezelik:
+21. § (1) A felnőttképző a képzés lebonyolítása érdekében kezeli
 
-a) a képzésben résztvevő
+a) a képzésben részt vevő személy
 
-aa) nevét, születési nevét, anyja nevét, születési helyét és idejét, nemét, állampolgárságát, lakóhelyének és tartózkodási helyének címét, telefonszámát, nem magyar állampolgár Magyarországon való tartózkodásának jogcímét és a tartózkodásra jogosító okirat, okmány megnevezését és számát,
+aa) természetes személyazonosító adatait,
 
-ab) szülője, törvényes képviselője nevét, lakóhelyét, tartózkodási helyét, telefonszámát az 1. § (1) bekezdés b) pontja szerinti képzésben résztvevő esetén,
+ab) nemét,
 
-b) a képzési jogviszonnyal összefüggő adatokat, amelyek a képzésben részt vevő
+ac) állampolgárságát, nem magyar állampolgár Magyarországon való tartózkodásának jogcímét és a tartózkodásra jogosító okirat, okmány megnevezését és számát,
 
-ba) iskolai és szakmai végzettségével, nyelvi ismereteivel,
+ad) lakcímét, levelezési címét, elektronikus levelezési címét és telefonszámát,
 
-bb) képzésbe történő felvételével,
+ae) társadalombiztosítási azonosító jelét,
 
-bc) tanulmányainak értékelésével és minősítésével,
+af) adóazonosító jelét,
 
-bd) a képzéssel megszerzett szakképesítés vagy egyéb kompetencia megnevezésével, a vizsga helyével, időpontjával, eredményével
+b) a képzéssel összefüggő adatokat, amelyek a képzésben részt vevő személy
 
-kapcsolatosak,
+ba) végzettségével, szakképesítésével, szakképzettségével és idegennyelv-ismeretével,
 
-c) a képzésben részt vevő társadalombiztosítási azonosító jelét.
+bb) a képzésbe történő belépésével és a képzés elvégzésével, illetve a képzés elvégzése hiányában a képzésből történő kilépésével,
 
-(2) Az (1) bekezdésben foglalt adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók.
+bc) a képzés során történő értékelésével és minősítésével,
 
-(2a) Az (1) bekezdésben foglalt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
+bd) a képzéssel összefüggő fizetési kötelezettségeivel és az igénybe vett képzési hitellel
 
-(3) Az (1) bekezdésben foglalt adatokat államháztartási vagy európai uniós források igénybevételének és felhasználásának ellenőrzése céljából az e támogatásokat ellenőrző szervek számára továbbítani kell.
+kapcsolatosak.
 
-(4) Az iskolarendszeren kívüli képzési tevékenységet folytató, az 1. § (1) bekezdés c) pontjában meghatározott jogalany tevékenységéről – az (5) bekezdésben foglalt kivétellel – az OSAP szerint statisztikai célú adatszolgáltatásra kötelezett.
+(2) Az (1) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók, továbbá a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
-(5) Az OKJ szerinti szakképesítések vizsgáiról, valamint az államilag elismert nyelvvizsgákról a hatóság szolgáltat adatot az OSAP szerint.
+(3) Az (1) bekezdés szerinti adatokat államháztartási vagy európai uniós források igénybevételének és felhasználásának ellenőrzése céljából az e támogatásokat ellenőrző szervek számára továbbítani kell.
 
-(6) A felnőttképzést folytató intézmények az (1) bekezdésben foglalt adatokat a keletkezésüktől számított öt évig tartják nyilván és kezelik.
+(4) A felnőttképző felnőttképzési tevékenységéről az Országos Statisztikai Adatfelvételi Program szerint statisztikai célú adatszolgáltatásra kötelezett, amelyet a felnőttképzés adatszolgáltatási rendszere útján teljesít. Az adatszolgáltatás elmulasztása esetén – a hivatalos statisztikáról szóló 2016. évi CLV. törvény 32–34. §-a helyett – kizárólag e törvény alapján a felnőttképzési államigazgatási szerv által szabható ki bírság.
+
+(5) A felnőttképző az (1) bekezdésben meghatározott személyes adatot a felnőttképzési szerződés megkötésétől számított nyolcadik év utolsó napjáig kezeli.

@@ -1,33 +1,29 @@
-11. § (1) A felnőttképzést folytató intézménynek a 10. §-ban foglalt feltételeken túl – a (3) bekezdésben foglalt eltéréssel – az engedély megadását követő működése során az alábbi követelményeknek kell megfelelnie:
+11. § (1) A felnőttképzőnek, ha felnőttképzési tevékenysége bejelentéshez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
-a) felnőttképzési tevékenységét az engedélyezett képzéseihez kidolgozott képzési programnak megfelelően kell folytatnia,
+a) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 
-b) minden felnőttképzésben részt vevő felnőttel a 13. § (3) bekezdésében meghatározott tartalmú felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyi adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
+b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek és jogszabályban meghatározott tartalommal a 21. § (4) bekezdése szerinti statisztikai célú adatszolgáltatásnak.
 
-c) eleget kell tennie a 17. §-ban foglalt tájékoztatási kötelezettségének,
+(2) A felnőttképzőnek, ha felnőttképzési tevékenysége engedélyhez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
-d) gondoskodnia kell az általa meghatározott minőségcélok évente történő felülvizsgálatáról és szükség szerinti módosításáról,
+a) felnőttképzési tevékenységét az általa szervezett képzésre vonatkozóan
 
-e) a képzések befejezését követően – a támogatott képzések esetén – a támogatást nyújtó bevonásával mérnie kell a képzésben részt vevők elégedettségét,
+aa) a 12. § szerinti – a felnőttképző által folytatott szakképzés esetén a képzési és kimeneti követelményekre, illetve a programkövetelményekre is figyelemmel – kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programnak megfelelően és
 
-f) oktatói minősítési rendszert kell működtetnie,
+ab) a Kormány rendeletében meghatározott személyi és tárgyi feltételek biztosításával
 
-g) az előzetes tudásmérést az 1. § (2) bekezdés a) és c) pontja szerinti támogatott képzések esetén kötelezően, az 1. § (2) bekezdés b) és d) pontjában foglalt képzések esetén a képzésre vonatkozó támogatási szerződés kötelező előírása alapján, egyébként a jelentkező kérésére kell biztosítania,
+kell folytatnia,
 
-h) vezetnie kell a képzés megvalósításával összefüggő, a 16. §-ban meghatározott dokumentumokat,
+b) a képzésre jelentkező kérésére előzetes tudásmérést kell biztosítania,
 
-i) a képzés támogatója, a képzésre jelentkező vagy a képzésben részt vevő részéről felmerülő igény esetén felnőttképzést kiegészítő tevékenységet kell nyújtania,
+c) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 
-j) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a gyakorlati képzést a szakképzésről szóló törvény szerint meghatározott szakmai és vizsgakövetelmények alapján, és a gyakorlati foglalkozás teljesítésének részletes szabályairól szóló miniszteri rendeletben meghatározottak szerint kell szerveznie,
+d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie és gondoskodnia kell a minőségirányítási rendszer külső értékeléséről, valamint a képzésben részt vevő személyek elégedettségmérésről,
 
-k) felnőttképzési információs rendszert kell működtetnie,
+e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezettségének,
 
-l) ügyfélszolgálati és panaszkezelési rendszert kell működtetnie,
+f) vezetnie kell a képzés megvalósításával összefüggésben a 16. §-ban meghatározott dokumentumokat,
 
-m) a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfelelő minőségbiztosítási rendszert kell működtetnie.
+g) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § és a 15/A. § alapján történő adatszolgáltatási kötelezettségnek és jogszabályban meghatározott tartalommal a 21. § (4) bekezdése szerinti statisztikai célú adatszolgáltatásnak.
 
-(2) Ha a felnőttképzést folytató intézmény nem rendelkezik a gyakorlati képzés folytatásához szükséges – a szakképesítésre irányadó szakmai és vizsgakövetelményeket tartalmazó miniszteri rendeletben meghatározott – feltételekkel, a gyakorlati képzés megvalósítására szerződést köt a gyakorlati képzést folytató szervezettel.
-
-(3) Az (1) bekezdés d), f) és m) pontjában foglalt követelményeket az 1. § (2) bekezdés d) pontja szerinti képzések esetén a felnőttképzést folytató intézménynek nem kell teljesítenie.
-
-(4) A vallási közösség által fenntartott intézmény e törvény hatálya alá tartozó felnőttképzési tevékenységének engedélyezése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó tárgyak, ismeretek tartalma nem vizsgálható.
+(3) A felnőttképző a felnőttképzési tevékenységét kizárólag saját szervezetén belül végezheti, a felnőttképzési tevékenység végzésére – a képzés személyi és tárgyi feltételei kivételével – más jogalannyal nem állapodhat meg.

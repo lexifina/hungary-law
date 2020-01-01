@@ -1,1 +1,1 @@
-27. § A támogatást nyújtó szervezetnek a támogatásról szóló döntésének meghozatalakor figyelembe kell vennie a megyei fejlesztési és képzési bizottságnak az 1. § (2) bekezdés a) pontjában meghatározott képzések tekintetében a támogatható szakképesítésekre vonatkozó, a szakképzésről szóló törvény szerinti javaslatát.
+### 27. §

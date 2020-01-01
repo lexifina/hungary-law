@@ -1,6 +1,6 @@
 ## VIII/A. Fejezet
 
-## A JOGI SZAKVIZSGÁRÓL
+## A JOGI SZAKVIZSGA
 
 ## 13/A. Adatkezelés, a Jogi Szakvizsga Rendszer
 
