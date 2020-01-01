@@ -14,7 +14,7 @@ d) az igazságügyért felelős miniszter által delegált egy,
 
 e) a helyi önkormányzatokért felelős miniszter által delegált egy,
 
-f) a kultúráért és az oktatásért felelős miniszter által együttesen delegált egy,
+f) a kultúráért felelős miniszter és az oktatásért felelős miniszter által együttesen delegált egy,
 
 g) az agrárpolitikáért felelős és a természetvédelemért felelős miniszter által együttesen delegált egy,
 
