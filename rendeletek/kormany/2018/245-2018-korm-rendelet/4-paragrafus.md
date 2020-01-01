@@ -1,3 +1,3 @@
-## 3. § Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+## 3. §[^4]
 
-## 20182220000245_1
+[^4]: A 3. §-t a 293/2019. (XII. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
