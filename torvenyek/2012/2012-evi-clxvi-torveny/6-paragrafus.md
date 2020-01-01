@@ -6,6 +6,8 @@
 
 (3) Az üzemeltetői biztonsági tervben kell rögzíteni az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem védelmét szolgáló meglévő vagy kialakítás alatt álló biztonsági megoldásokkal kapcsolatos eljárást. Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem működésének védelmét és folyamatosságát az üzemeltetői biztonsági tervvel összhangban kell megszervezni.
 
+(3a) A honvédelmi létfontosságú rendszerelemek üzemeltetői biztonsági tervében fel kell tüntetni az illetékes honvédelmi szervekkel történő kapcsolattartás és együttműködés rendjét a kijelölő hatóság által kiadott kijelölő határozatban meghatározottak szerint.
+
 (4) Ha az üzemeltető a létfontosságú rendszerelem európai létfontosságú rendszerelemmé vagy nemzeti létfontosságú rendszerelemmé történő kijelöléskor rendelkezik olyan biztonsági dokumentummal, amely az üzemeltetői biztonsági terv tartalmi elemeit magában foglalja, akkor kérelmére az ágazati kijelölő hatóság rendelkezhet úgy, hogy a biztonsági dokumentum az üzemeltetői biztonsági tervet helyettesíti. Az üzemeltetői biztonsági terv és mellékletei, vagy az azokat helyettesítő biztonsági dokumentum nem nyilvános.
 
 (5) A (4) bekezdés szerinti esetben a biztonsági dokumentumot kell megküldeni a nyilvántartó hatóságnak az 5. § szerinti nyilvántartásba vétel céljából.

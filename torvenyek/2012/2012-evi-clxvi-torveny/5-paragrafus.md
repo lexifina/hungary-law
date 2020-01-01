@@ -34,7 +34,11 @@ e) rendkívüli esemény bekövetkezése esetén az eseménykezelésben és a he
 
 f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
 
-g) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény (a továbbiakban: Ibtv.) 2. § (5) bekezdése és 14. § (1) bekezdése szerinti hatóság, az Európai Parlament és a Tanács 2016. július 6-i (EU) 2016/1148 irányelve alapján kormányrendeletben kijelölt egyedüli kapcsolattartó pont, valamint az Ibtv. 19. § (1) és (2) bekezdése szerinti eseménykezelő központ részére feladataik ellátása céljából.
+g) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény (a továbbiakban: Ibtv.) 2. § (5) bekezdése és 14. § (1) bekezdése szerinti hatóság, az Európai Parlament és a Tanács 2016. július 6-i (EU) 2016/1148 irányelve alapján kormányrendeletben kijelölt egyedüli kapcsolattartó pont, valamint az Ibtv. 19. § (1) és (2) bekezdése szerinti eseménykezelő központ részére feladataik ellátása céljából,
+
+h) a honvédelmi ágazat javaslattevő hatósága részére a lehetséges honvédelmi létfontosságú rendszerelemek körének felmérése céljából,
+
+i) honvédelmi veszélyhelyzet időszakában a honvédelmi ágazat javaslattevő hatósága részére a nemzeti létfontosságú rendszerelemek fokozott védelmének megszervezése céljából.
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait az (1) bekezdésben meghatározott nyilvántartásból, valamint a kijelölési eljárásban érintett valamennyi hatóság nyilvántartásából
 

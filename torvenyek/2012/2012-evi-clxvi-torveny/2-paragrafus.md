@@ -17,3 +17,5 @@ dönthet.
 (3) Az ágazati kijelölő hatóság az ágazati és horizontális kritériumok alapján a közigazgatási hatósági eljárás szabályainak megfelelően határozatban dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról, meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét, valamint a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket írhat elő az üzemeltető részére.
 
 (4) Az ágazati kijelölő hatóság a (3) bekezdés szerinti döntését az azonosítási jelentés kézhezvételétől számított 70 napon belül hozza meg.
+
+(5) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága az 1–3. mellékletben meghatározott, nem honvédelmi ágazatba tartozó rendszerelemet – az érintett ágazati kijelölő hatóság véleményének bekérését követően – honvédelmi érdekből, kormányrendeletben meghatározott honvédelmi kritériumok alapján nemzeti létfontosságú rendszerelemmé kijelölheti.
