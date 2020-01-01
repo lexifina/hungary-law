@@ -1,0 +1,1 @@
+## „(6) Ha a megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság megállapítja a gyermek ellátási szükségletét megalapozó okok fennállását vagy azok megváltozását, megszűnését, a gyámhatóság – a Gyvt 53. § (2a) bekezdésében foglalt eljárás keretében – 15 napon belül dönt a gyermek ellátási szükségletéről.”
