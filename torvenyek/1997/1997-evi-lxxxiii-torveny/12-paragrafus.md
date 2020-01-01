@@ -2,7 +2,7 @@
 
 12. § (1) A biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosult személyt – a fogászati ellátás keretében jogosult
 
-a) 18 éves életkorig, ezt követően a középiskola, szakképző iskola nappali tagozatán folytatott tanulmányok ideje alatt, valamint a várandósság megállapításától a szülést követő 90 napig teljes körű alap- és szakellátásra, ide nem értve a technikai költségeket,
+a) 18 éves életkorig, ezt követően a nappali rendszerű oktatás keretében köznevelési intézményben vagy szakképző intézményben folytatott tanulmányok ideje alatt, valamint a várandósság megállapításától a szülést követő 90 napig teljes körű alap- és szakellátásra, ide nem értve a technikai költségeket,
 
 b) 18 éves életkor felett sürgősségi ellátásra, fogsebészeti ellátásra, fogkőeltávolításra és az ínyelváltozások kezelésére,
 

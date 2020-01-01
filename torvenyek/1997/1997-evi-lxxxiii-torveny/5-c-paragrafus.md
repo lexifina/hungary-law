@@ -14,8 +14,12 @@ bd) a Tbj. 5. § (1) bekezdés g) pontja esetében a 30 napot meg nem haladó bi
 
 be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér;
 
-c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, a gyermekgondozási díj és a táppénz;
+c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz;
 
-d) kereset: a Tbj. 5. §-ában meghatározott jogviszonyban személyes munkavégzésért járó pénzbeli egészségbiztosítási járulékalapot képező jövedelem.
+d) kereset: a Tbj. 5. §-ában meghatározott jogviszonyban személyes munkavégzésért járó pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
+
+e) egyedülálló: az, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van.
 
 (2) Az 5/B. §-ban és az (1) bekezdésben meg nem határozott fogalmak tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ában foglaltakat kell alkalmazni.
+
+(3) A 42/A. § (1) bekezdése, a 42/E. § (1) bekezdése, a 42/F. § (1) bekezdése és a 42/G. § (1) bekezdése alkalmazásában a szülő, nevelőszülő a gyermeket akkor neveli a saját háztartásában, ha a gyermek a szülővel, nevelőszülővel közös háztartásban életvitelszerűen együtt él, és a gyermeket a szülő, nevelőszülő neveli, illetve gondozza.

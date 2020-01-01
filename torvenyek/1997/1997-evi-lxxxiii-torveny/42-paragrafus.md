@@ -1,4 +1,4 @@
-42. § (1) A csecsemőgondozási díj összege
+42. § (1) A csecsemőgondozási díj összege – figyelemmel a (4c) bekezdésben foglaltakra –
 
 a) a (2) és (3) bekezdés szerinti esetben a naptári napi alap 70%-a,
 
@@ -13,6 +13,8 @@ b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 70%-a.
 (4a) Ha a gyermek gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2)–(4) bekezdés alapján számított csecsemőgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
 
 (4b) A (4a) bekezdés csak akkor alkalmazható, ha az utolsóként megállapított ellátás alapja kizárólag a jogosultság kezdő napján fennálló jogviszonyban elért jövedelem figyelembevételével került megállapításra.
+
+(4c) Ha a csecsemőgondozási díjra jogosult megfelel a 42/E. § (1) bekezdés a) pont ab) alpontja szerinti feltételeknek, az ellátás összege nem lehet kevesebb a 42/E. § (5) bekezdésében meghatározott összegnél.
 
 (5) A csecsemőgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 

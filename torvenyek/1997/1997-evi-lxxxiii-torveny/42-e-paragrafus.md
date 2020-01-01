@@ -1,16 +1,24 @@
-42/E. § (1) A 42/A. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult az a szülő nő is, aki az alábbi feltételek mindegyikének megfelel:
+42/E. § (1) A 42/A. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult az a szülő nő is,
 
-a) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
+a) aki az alábbi feltételek mindegyikének megfelel:
 
-b) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
+aa) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
 
-c) a gyermeke a b) pont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
+ab) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
 
-d) a gyermeket saját háztartásában neveli,
+ac) a gyermeke az ab) alpont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
 
-e) magyar állampolgár vagy másik EGT tagállam állampolgára, és
+ad) a gyermeket saját háztartásában neveli,
 
-f) a gyermek születésének napján rendelkezik magyarországi bejelentett lakóhellyel.
+ae) magyar állampolgár vagy másik EGT tagállam állampolgára, és
+
+af) a gyermek születésének napján rendelkezik magyarországi bejelentett lakóhellyel; vagy
+
+b) akinek
+
+ba) gyermeke az a) pont alapján megállapított gyermekgondozási díj igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és
+
+bb) tekintetében az a) pont aa) és ad)–af) alpontjában meghatározottak fennállnak.
 
 (2) Az (1) bekezdés alapján megállapított gyermekgondozási díj a gyermek születésének napjától a gyermek 2 éves koráig jár.
 
@@ -18,7 +26,7 @@ f) a gyermek születésének napján rendelkezik magyarországi bejelentett lak�
 
 a) meghal, vagy
 
-b) az (1) bekezdés b)–f) pontjában foglalt feltételek valamelyikének nem felel meg és a 42/A. § alapján gyermekgondozási díjra nem jogosult.
+b) az (1) bekezdés a) pont ab)–af) alpontjában vagy b) pont bb) alpontjában foglalt feltételek valamelyikének nem felel meg és a 42/A. § alapján gyermekgondozási díjra nem jogosult.
 
 (4) A vér szerinti apa részére a gyermekgondozási díj a (2) bekezdésben meghatározott jogosultsági időből igénybe nem vett időszakra jár, de legfeljebb a gyermek 2 éves koráig.
 
@@ -36,7 +44,7 @@ b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésbe
 
 (7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított a számítási időszakban nem rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás naptári napi alapját a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része alapján kell megállapítani azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni. Az így megállapított gyermekgondozási díj összege nem lehet alacsonyabb az (5) bekezdésben meghatározott összegnél.
 
-(8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés b) pontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
+(8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés a) pont ab) alpontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
 
 (9) Az (5) és a (6) bekezdés alapján megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni és a tárgyévre érvényes kötelező legkisebb munkabér, illetve garantált bérminimum figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 

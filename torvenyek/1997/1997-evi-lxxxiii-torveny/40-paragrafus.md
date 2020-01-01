@@ -10,9 +10,9 @@ b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táp
 
 (2) A csecsemőgondozási díjra jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-a) a biztosítás megszűnését követő baleseti táppénz, csecsemőgondozási díj, gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – folyósításának az idejét,
+a) a biztosítás megszűnését követő baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – folyósításának az idejét,
 
-b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
+b) köznevelési intézmény, a szakképző intézmény vagy a felsőoktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 
 c) a rehabilitációs ellátás folyósításának idejét.
 
