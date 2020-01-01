@@ -1,1 +1,5 @@
-37. §
+37. § Az Áfa tv. „Átmeneti rendelkezések” című alcíme a következő 328. §-sal egészül ki:
+
+„328. § (1) A 2020. január 1-jét megelőzően, belföldön fenntartott vevői készlet céljára továbbított termékekre a 2019. december 31-én hatályos 22. § (3)–(5) bekezdés, 144. §, 183. §, 259. § 26. a) pontját kell alkalmazni, azzal, hogy az ilyen, 2020. december 31-én még a vevői készletben lévő termékre 2020. december 31-én beáll a 22. § (1) bekezdése szerinti joghatás.
+
+(2) Abban az esetben, ha a belföldön nyilvántartásba vett adóalany 2020. január 1-jét megelőzően továbbított terméket a Közösség valamely más tagállamában fenntartott vevői készletébe, úgy a 12. § (1) bekezdése szerinti joghatás akkor áll be, amikor a vevői készlet helye szerinti tagállam szabályozása értelmében ezen termék után Közösségen belüli termékbeszerzés jogcímén adófizetési kötelezettség keletkezik. Az adóalany az ily módon továbbított termékekről a 2019. december 31-én hatályos 182. § szerint vezet folyamatos mennyiségi nyilvántartást.”
