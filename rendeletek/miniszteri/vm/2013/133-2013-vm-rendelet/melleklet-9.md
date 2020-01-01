@@ -48,8 +48,8 @@
 
 | kaukázusi törpegéb | Knipowitschia caucasica |  | X |
 
-9. melléklet a 133/2013. (XII. 29.) VM rendelethez[^194]
+9. melléklet a 133/2013. (XII. 29.) VM rendelethez[^206]
 
 Őshonos, fogható halfajok fajlagos tilalmi ideje, kifogható mérettartománya, valamint a horgászatra és a rekreációs célú halászatra vonatkozó napi és éves kifogható darabszáma
 
-[^194]: A 9. melléklet a 45/2018. (XII. 28.) AM rendelet 33. § (3) bekezdésével megállapított szöveg.
+[^206]: A 9. melléklet a 45/2018. (XII. 28.) AM rendelet 33. § (3) bekezdésével megállapított szöveg.

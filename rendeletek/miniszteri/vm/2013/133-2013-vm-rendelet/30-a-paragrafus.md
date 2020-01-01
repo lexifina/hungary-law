@@ -1,4 +1,4 @@
-30/A. §[^132] (1) A horgászszövetség a különféle horgászmódszerekhez igazodó országos versenyszabályzatait a halgazdálkodási hatóság honlapján közzétett adattartalommal alakítja ki.
+30/A. §[^143] (1) A horgászszövetség a különféle horgászmódszerekhez igazodó országos versenyszabályzatait a halgazdálkodási hatóság honlapján közzétett adattartalommal alakítja ki.
 
 (2) A halgazdálkodási hatóság az országos versenyszabályzatot abban az esetben hagyja jóvá, ha az országos versenyszabályzatban foglalt előírások alapján megállapítható, hogy az annak alapján tartandó rendezvények előreláthatólag nem veszélyeztetik a hal élőhelyét és az őshonos halállományt.
 
@@ -16,4 +16,4 @@ d) a horgászverseny pontos helyét, kezdő és befejező időpontját.
 
 (5) A horgászszövetség a 30/A. § szerinti versenyszabályzatok szerinti horgászversenyekről nyilvántartást vezet.
 
-[^132]: A 30/A. §-t a 45/2018. (XII. 28.) AM rendelet 26. §-a iktatta be.
+[^143]: A 30/A. §-t a 45/2018. (XII. 28.) AM rendelet 26. §-a iktatta be.

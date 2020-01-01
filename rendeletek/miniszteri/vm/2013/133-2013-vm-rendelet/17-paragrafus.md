@@ -1,6 +1,6 @@
 17. § (1) Halászati engedély
 
-a)[^42]
+a)[^45]
 
 b) ökológiai célú, szelektív halászat, illetve
 
@@ -12,7 +12,13 @@ céljából 1 naptári évre adható ki. A halászati engedélyben meg kell jel�
 
 (3) A halászati engedély kiadásának feltétele, hogy a kérelmező rendelkezzen az érintett nyilvántartott halgazdálkodási vízterület halgazdálkodásra jogosultjával kötött, a halászati tevékenység végzésének részletes feltételeit tartalmazó szerződéssel (a továbbiakban: halászati szerződés). A halászati szerződés megszűnése esetén a halászati engedélyt a halgazdálkodási hatóság visszavonja.
 
-(4)[^43] A halászati szerződésben a halgazdálkodásra jogosult meghatározza a Hhvtv. és e rendelet előírásainak keretében azokat a fogási eszközöket és módokat, amelyeket a halászati engedélyes használhat, továbbá meghatározza a kifogható halak mennyiségét, valamint azt az ellenértéket, amellyel a halászati engedélyesnek évenként hozzá kell járulnia a nyilvántartott halgazdálkodási vízterület halgazdálkodási tevékenységéhez, a haltelepítésekhez.
+(4)[^46] A halászati szerződésben meg kell határozni a Hhvtv. és az e rendelet szerint használható fogási eszközöket és módokat, amelyeket a halászati engedélyes használhat, valamint meg kell határozni a kifogható halak mennyiségét.
+
+(4a)[^47] A Hhvtv. 62/C. § (2) bekezdés b)–c) pontjában meghatározott közfeladatok teljesítéséhez, mesterséges szaporítással előállítható telepítő anyag biztosításához nélkülözhetetlen anyahalak begyűjtése esetében az (1) bekezdés b) pontja szerinti halászati engedély kiadásának feltétele, hogy a visszatelepítési programot végző halgazdálkodásra jogosult rendelkezzen a Hhvtv. 63. § (3) bekezdés a) vagy c) pontja, illetve a 63. § (5) bekezdés a) pont aa) vagy ac) alpontja szerinti támogatással.
+
+(4b)[^48] Az (1) bekezdés b) pontja szerinti engedéllyel mesterséges szaporítás céljából begyűjtött anyahalak kereskedelmi forgalomba nem hozhatók.
+
+(4c)[^49] A halászati engedélyes a begyűjtött anyahalak tartási helyét bejelenti a halgazdálkodási hatóság részére.
 
 (5) A halászati engedély iránti kérelemhez mellékelni kell
 
@@ -28,23 +34,23 @@ b) a 16. § (2) bekezdésben foglalt feltételeknek való megfelelés igazolás�
 
 (9) A Hhvtv. 38. § (4) bekezdése szerinti fogási tanúsítvány nyomtatványtömbön fel kell tüntetni a halászati engedélyes azonosító adatait, aki kizárólagosan jogosult az engedéllyel fogott hal kereskedelmi forgalomba hozatalára. A fogási tanúsítvány nyomtatványtömb és a halászati engedély egyéb adattartalmát a 2. melléklet tartalmazza. A fogási tanúsítvány nélküli vagy a nem valós adatokkal kitöltött fogási tanúsítvánnyal igazolt hal vagy haltermék igazolatlan eredetűnek minősül.
 
-(10)[^44] A bemutatási célú halászat esetében halászatra csak a rendezvény időtartama alatt van lehetőség. A bemutatási célú halászat időtartama – beleértve a passzív halászeszközök alkalmazását is – nem haladhatja meg a 3 naptári napot.
+(10)[^50] A bemutatási célú halászat esetében halászatra csak a rendezvény időtartama alatt van lehetőség. A bemutatási célú halászat időtartama – beleértve a passzív halászeszközök alkalmazását is – nem haladhatja meg a 3 naptári napot.
 
-(11)[^45] A bemutatási célú halászat esetében passzív halászeszközt is csak a halászati tevékenységet végző állandó felügyelete mellett és a passzív halászeszköz megjelölésével lehet alkalmazni. A megjelölésnek alkalmasnak kell lennie a halászatot végző azonosítására.
+(11)[^51] A bemutatási célú halászat esetében passzív halászeszközt is csak a halászati tevékenységet végző állandó felügyelete mellett és a passzív halászeszköz megjelölésével lehet alkalmazni. A megjelölésnek alkalmasnak kell lennie a halászatot végző azonosítására.
 
-(11a)[^46] A halgazdálkodási hatóság a (11) bekezdés szerinti jelölésről bárki számára térítésmentesen felvilágosítást nyújt.
+(11a)[^52] A halgazdálkodási hatóság a (11) bekezdés szerinti jelölésről bárki számára térítésmentesen felvilágosítást nyújt.
 
-(11b)[^47] A bemutatási célú halászati engedélyben meg kell határozni:
+(11b)[^53] A bemutatási célú halászati engedélyben meg kell határozni:
 
 a) a hal megfogására vagy kifogására vonatkozó hozzájárulást,
 
 b) a halászati tevékenységhez használható halászeszközök méretét és darabszámát, amelynek során legfeljebb annyi halászeszköz használata engedélyezhető, amennyi elengedhetetlenül szükséges a bemutatás céljának eléréséhez.
 
-(11c)[^48] A bemutatási célú halászati engedélyben kizárólag akkora mennyiségű őshonos és nem őshonos hal kifogása határozható meg, ami a halászati rendezvény helyén és időszakában nyújtott étkezési szolgáltatás – ideértve a helyszínen történő hal-előfeldolgozást is – biztosítása céljából szükséges.
+(11c)[^54] A bemutatási célú halászati engedélyben kizárólag akkora mennyiségű őshonos és nem őshonos hal kifogása határozható meg, ami a halászati rendezvény helyén és időszakában nyújtott étkezési szolgáltatás – ideértve a helyszínen történő hal-előfeldolgozást is – biztosítása céljából szükséges.
 
-(11d)[^49] A hal kifogását engedélyező bemutatási célú halászati engedély adott nyilvántartott halgazdálkodási vízterületre egy naptári évben legfeljebb 3 alkalomra adható.
+(11d)[^55] A hal kifogását engedélyező bemutatási célú halászati engedély adott nyilvántartott halgazdálkodási vízterületre egy naptári évben legfeljebb 3 alkalomra adható.
 
-(12)[^50] A bemutatási célú halászati engedélyes köteles bejelenteni a halgazdálkodásra jogosultnak
+(12)[^56] A bemutatási célú halászati engedélyes köteles bejelenteni a halgazdálkodásra jogosultnak
 
 a) legkésőbb a halászat megkezdése előtt 24 órával, hogy hol és mikor halászik,
 
@@ -52,37 +58,41 @@ b) a fogási zsákmány GPS koordinátákkal meghatározott kirakodási helyét,
 
 (13) A halászati engedélyes kizárólag a (12) bekezdés szerint bejelentett helyen és időben rakodhatja ki a fogási zsákmányt.
 
-(14)[^51] A bemutatási célú halászati engedély jogosultja által használt passzív halászeszközök csak úgy helyezhetők ki, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott eszköz teljes hosszának tízszeresénél, de legalább 50 méternél.
+(14)[^57] A bemutatási célú halászati engedély jogosultja által használt passzív halászeszközök csak úgy helyezhetők ki, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott eszköz teljes hosszának tízszeresénél, de legalább 50 méternél.
 
-(15) A halászati szerződésben a halgazdálkodásra jogosult kereskedelmi célú halászati engedély esetében a (9)–(14) bekezdésben meghatározottaktól szigorúbb korlátozásokat írhat elő, ha ezt halgazdálkodási tervében rögzíti.
+(15)[^58] Az ökológiai célú, szelektív halászatra vonatkozó halászati engedély tartalmazza az ökológiai célú, szelektív halászat e rendeletben, valamint a jóváhagyott halgazdálkodási tervben meghatározott feltételeit.
 
-(15a)[^52] Az ökológiai célú, szelektív halászati engedély jogosultja a halászati tevékenységhez használt passzív halászeszközt úgy köteles megjelölni, hogy abból a halászati engedélyes személye egyértelműen azonosítható legyen.
+(15a)[^59] Az ökológiai célú, szelektív halászati engedély jogosultja a halászati tevékenységhez használt passzív halászeszközt úgy köteles megjelölni, hogy abból a halászati engedélyes személye egyértelműen azonosítható legyen.
 
 (16) Más hasznos víziállat gyűjtése során a halgazdálkodásra jogosult a halászati szerződésben köteles meghatározni a gyűjthető hasznos víziállat megnevezését, a használható gyűjtőeszközt és módszert, valamint a gyűjtés engedélyezett időszakát és a más hasznos víziállat gyűjthető mennyiségét.
 
-(17)[^53] Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.
+(17)[^60] Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.
 
-(18)[^54]
+(18)[^61]
 
-(19)[^55]
+(19)[^62]
 
-(20)[^56]
+(20)[^63]
 
-(21)[^57] Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.
+(21)[^64]
 
-[^42]: A 17. § (1) bekezdés a) pontját a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
-[^43]: A 17. § (4) bekezdése a 44/2014. (IV. 14.) VM rendelet 26. §-a szerint módosított szöveg.
-[^44]: A 17. § (10) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^45]: A 17. § (11) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^46]: A 17. § (11a) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (1) bekezdése iktatta be.
-[^47]: A 17. § (11b) bekezdését a 45/2018. (XII. 28.) AM rendelet 10. § (2) bekezdése iktatta be.
-[^48]: A 17. § (11c) bekezdését a 45/2018. (XII. 28.) AM rendelet 10. § (2) bekezdése iktatta be.
-[^49]: A 17. § (11d) bekezdését a 45/2018. (XII. 28.) AM rendelet 10. § (2) bekezdése iktatta be.
-[^50]: A 17. § (12) bekezdés nyitó szövegrésze a 45/2018. (XII. 28.) AM rendelet 34. § b) pontja szerint módosított szöveg.
-[^51]: A 17. § (14) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (2) bekezdésével megállapított, a 45/2018. (XII. 28.) AM rendelet 34. § b) pontja szerint módosított szöveg.
-[^52]: A 17. § (15a) bekezdését az 56/2015. (IX. 24.) FM rendelet 4. § (2) bekezdése iktatta be, szövege a 45/2018. (XII. 28.) AM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^53]: A 17. § (17) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^54]: A 17. § (18) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
-[^55]: A 17. § (19) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
-[^56]: A 17. § (20) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja.
-[^57]: A 17. § (21) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be.
+[^45]: A 17. § (1) bekezdés a) pontját a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
+[^46]: A 17. § (4) bekezdése a 62/2019. (XII. 18.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^47]: A 17. § (4a) bekezdését a 62/2019. (XII. 18.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^48]: A 17. § (4b) bekezdését a 62/2019. (XII. 18.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^49]: A 17. § (4c) bekezdését a 62/2019. (XII. 18.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^50]: A 17. § (10) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^51]: A 17. § (11) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^52]: A 17. § (11a) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (1) bekezdése iktatta be.
+[^53]: A 17. § (11b) bekezdését a 45/2018. (XII. 28.) AM rendelet 10. § (2) bekezdése iktatta be.
+[^54]: A 17. § (11c) bekezdését a 45/2018. (XII. 28.) AM rendelet 10. § (2) bekezdése iktatta be.
+[^55]: A 17. § (11d) bekezdését a 45/2018. (XII. 28.) AM rendelet 10. § (2) bekezdése iktatta be.
+[^56]: A 17. § (12) bekezdés nyitó szövegrésze a 45/2018. (XII. 28.) AM rendelet 34. § b) pontja szerint módosított szöveg.
+[^57]: A 17. § (14) bekezdése a 44/2014. (IV. 14.) VM rendelet 18. § (2) bekezdésével megállapított, a 45/2018. (XII. 28.) AM rendelet 34. § b) pontja szerint módosított szöveg.
+[^58]: A 17. § (15) bekezdése a 62/2019. (XII. 18.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^59]: A 17. § (15a) bekezdését az 56/2015. (IX. 24.) FM rendelet 4. § (2) bekezdése iktatta be, szövege a 45/2018. (XII. 28.) AM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^60]: A 17. § (17) bekezdése a 45/2018. (XII. 28.) AM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^61]: A 17. § (18) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
+[^62]: A 17. § (19) bekezdését a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja hatályon kívül helyezte.
+[^63]: A 17. § (20) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 45/2018. (XII. 28.) AM rendelet 35. § a) pontja.
+[^64]: A 17. § (21) bekezését az 56/2015. (IX. 24.) FM rendelet 4. § (3) bekezdése iktatta be, a 62/2019. (XII. 18.) AM rendelet 8. § a) pontja hatályon kívül helyezte.

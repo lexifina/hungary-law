@@ -20,8 +20,9 @@
 
 9. nyilvántartott rekreációs halász: a rekreációs halász regisztráció alapján a horgászszövetség által nyilvántartott, az állami halászjegy kiváltására jogosult rekreációs halász;
 
-10. ökológiai célú, szelektív halászat: az őshonos halállományt veszélyeztető, tájidegen vagy inváziós idegenhonos halfajok állományának felmérése és gyérítése, továbbá őshonos halfajok ökológiai szempontból indokolt faj-, illetve méretszelektív halászata;
+10.[^2] ökológiai célú, szelektív halászat: az őshonos halállományt veszélyeztető, tájidegen vagy inváziós idegenhonos halfajok állományának felmérése és gyérítése, továbbá őshonos halfajok ökológiai szempontból indokolt faj-, illetve méretszelektív, valamint anyahal, illetve mesterséges szaporításra alkalmas törzsállomány befogására irányuló halászata;
 
 11. passzív halászeszköz: olyan állított, hagyományos, nem tiltott, nem mozgó halászeszköz, amelynek fogási elve a hal csapdába ejtésén alapul, és emberi beavatkozást csak a rendszeres ellenőrzéskor igényel.
 
 [^1]: Az 1. § a 45/2018. (XII. 28.) AM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § 10. pontja a 62/2019. (XII. 18.) AM rendelet 1. §-ával megállapított szöveg.
