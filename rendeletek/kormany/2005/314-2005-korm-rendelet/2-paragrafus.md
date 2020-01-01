@@ -74,7 +74,7 @@ d)[^28] kapcsolódó létesítmény: a tevékenységet elősegítő, kiegészít
 
 e)[^29] összetartozó tevékenység: a 3. számú melléklet szerinti és az 1. vagy 3. számú mellékletbe tartozó tevékenységgel azonos, a környezethasználó által e tevékenységekkel azonos vagy szomszédos ingatlanon, közös beruházási céllal megkezdeni tervezett olyan tevékenység, amely a 3. számú melléklet szerinti tevékenységnek minősül, vagy olyan tevékenység, amely a 3. számú mellékletben meghatározott küszöbérték alá esik, azonban megkezdése esetén az 1. vagy 3. számú mellékletbe tartozó tevékenységgel együtt a 3. számú mellékletben meghatározott küszöbérték teljesül;
 
-f)[^30] területfoglalás: a tevékenység megvalósításához szükséges telek vagy telkek teljes és összes területe.
+f)[^30] területfoglalás: a tevékenység megvalósításához vagy a létesítmény elhelyezéséhez ténylegesen igénybe vett terület.
 
 (3)[^31] Az egységes környezethasználati engedélyezési eljárás szempontjából:
 
@@ -117,7 +117,7 @@ k)[^34] baromfi: a mezőgazdasági haszonállatok tartásának állatvédelmi sz
 [^27]: A 2. § (2) bekezdés ca) pontja a 70/2015. (III. 30) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^28]: A 2. § (2) bekezdés d) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be.
 [^29]: A 2. § (2) bekezdés e) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be, szövege a 139/2017. (VI. 9.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^30]: A 2. § (2) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be.
+[^30]: A 2. § (2) bekezdés f) pontját a 82/2011. (V. 18.) Korm. rendelet 13. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
 [^31]: A 2. § (3) bekezdése a 480/2013. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^32]: A 2. § (3) bekezdés d) pontja a 88/2017. (IV. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^33]: A 2. § (3) bekezdés j) pontja a 88/2017. (IV. 10.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
