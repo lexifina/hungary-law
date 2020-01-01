@@ -6,7 +6,7 @@
 
 (4) Delfin és cápa országba történő behozatala, utaztatása és bemutatása – az (5) bekezdésben foglalt kivétellel – tilos.
 
-(5) A természetvédelmi hatóság engedélyezheti állatkert részére cápa behozatalát, utaztatását, illetve bemutatását, ha a megfelelő tartás feltételei tartósan biztosítottak.
+(5) A állategészségügyi hatóság engedélyezheti állatkert részére cápa behozatalát, utaztatását, illetve bemutatását, ha a megfelelő tartás feltételei tartósan biztosítottak.
 
 (6) Kedvtelésből tartott állatok kereskedésének létesítéséhez és működtetéséhez a kereskedelmi hatóság engedélye szükséges. A hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
 

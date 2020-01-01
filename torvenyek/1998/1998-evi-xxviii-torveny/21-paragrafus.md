@@ -1,8 +1,8 @@
-21. § (1) A különösen veszélyes állatfaj egyedét – kivéve ha e törvény végrehajtására kiadott rendelet eltérően rendelkezik – kizárólag állatkertben szabad tartani. A különösen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, másik állatkertbe történő át- vagy kihelyezésére, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
+21. § (1) A különösen veszélyes állatfaj egyedét – kivéve ha e törvény végrehajtására kiadott rendelet eltérően rendelkezik – kizárólag állatkertben szabad tartani. A különösen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, másik állatkertbe történő át- vagy kihelyezésére, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a állategészségügyi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
 
-(2) A közepesen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, megvételére, felügyeletének átengedésére, eladásra való felkínálására, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a természetvédelmi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha a tartás, szaporítás, elidegenítés, felügyelet átengedése, eladásra való felkínálás, országba történő behozatal, illetve bemutatás a környezet nyugalmát és biztonságát nem sérti vagy veszélyezteti, és az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
+(2) A közepesen veszélyes állatfaj egyedének tartására, szaporítására, elidegenítésére, megvételére, felügyeletének átengedésére, eladásra való felkínálására, országba történő behozatalára, országból történő kivitelére, illetve bemutatására a állategészségügyi hatóság adhat engedélyt. Az engedély kizárólag abban az esetben adható meg, ha a tartás, szaporítás, elidegenítés, felügyelet átengedése, eladásra való felkínálás, országba történő behozatal, illetve bemutatás a környezet nyugalmát és biztonságát nem sérti vagy veszélyezteti, és az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
 
-(3) Az elővigyázatosságot igénylő állatfaj egyedének tartását, szaporítását, elidegenítését, tartásának átengedését, országba történő behozatalát a természetvédelmi hatóságnak be kell jelenteni. Az elővigyázatosságot igénylő állatfaj egyede akkor tartható, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
+(3) Az elővigyázatosságot igénylő állatfaj egyedének tartását, szaporítását, elidegenítését, tartásának átengedését, országba történő behozatalát a állategészségügyi hatóságnak be kell jelenteni. Az elővigyázatosságot igénylő állatfaj egyede akkor tartható, ha az egyed tartási feltételei – ideértve a tartáshoz, illetve szaporításhoz szükséges szakismeretet is – biztosítottak.
 
 (3a) Az (1)–(3) bekezdés hatálya alá tartozó hüllőket, madarakat és emlősöket egyedi azonosítóval kell ellátni.
 
@@ -12,7 +12,7 @@
 
 (6) A veszélyes állat tartójának gondoskodnia kell az állat szökésének megakadályozásáról.
 
-(7) A természetvédelmi hatóság nyilvántartja
+(7) A állategészségügyi hatóság nyilvántartja
 
 a) az állat tulajdonosának nevét és címét,
 
@@ -24,6 +24,6 @@ d) az állat faját, nemét, születési idejét, egyéb egyedi jellemzőit,
 
 e) egyedileg jelölt állat esetén az állat azonosítására szolgáló adatokat.
 
-(8) A természetvédelmi hatóság nyilvántartása alapján a természetvédelemért felelős miniszter országos adatbázist működtet.
+(8) A állategészségügyi hatóság nyilvántartása alapján a természetvédelemért felelős miniszter országos adatbázist működtet.
 
 (9)
