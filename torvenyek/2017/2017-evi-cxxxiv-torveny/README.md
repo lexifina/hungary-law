@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-134-00-00
 | 2018-05-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-134-00-00.4 |
 | 2018-05-11 | 2010. évi CXXX. törvény | 2017-134-00-00.5 |
 | 2018-12-21 | 2018. évi CXXI. törvény | 2017-134-00-00.6 |
+| 2020-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-134-00-00.7 |
