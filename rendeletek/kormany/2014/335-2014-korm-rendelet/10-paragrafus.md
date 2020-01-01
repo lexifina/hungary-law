@@ -1,6 +1,6 @@
-10. § (1)[^10]
+10. § (1)[^11]
 
-(2)[^11]
+(2)[^12]
 
-[^10]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 10. § (2) bekezdése a 19. § (4) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^11]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § (2) bekezdése a 261/2019. (XI. 14.) Korm. rendelet 5. § a) pontja alapján nem lép hatályba.

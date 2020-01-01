@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-335-20-
 | 2015-01-02 | 2014-335-20-22.4 | 2010: CXXX. törvény |
 | 2016-01-01 | 2014-335-20-22.5 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2016-01-02 | 2014-335-20-22.6 | 2010: CXXX. törvény |
+| 2020-01-01 | 2014-335-20-22.7 | 261/2019. (XI. 14.) Korm. rendelet |
