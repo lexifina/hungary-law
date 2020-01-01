@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-150-20-
 | 2017-12-30 | 2012-150-20-22.19 | 507/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-01 | 2012-150-20-22.20 | 504/2017. (XII. 29.) Korm. rendelet |
 | 2019-01-01 | 2012-150-20-22.21 | 25/2016. (II. 25.) Korm. rendelet |
+| 2020-01-01 | 2012-150-20-22.22 | 504/2017. (XII. 29.) Korm. rendelet |
