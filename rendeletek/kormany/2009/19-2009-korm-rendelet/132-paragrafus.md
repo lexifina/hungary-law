@@ -2,11 +2,11 @@
 
 ## A bírság kiszabása
 
-132. §[^460] (1) A bírság kiszabásakor a Hivatal a körülmények mérlegelését köteles elvégezni, különös tekintettel a következőkre:
+132. §[^462] (1) A bírság kiszabásakor a Hivatal a körülmények mérlegelését köteles elvégezni, különös tekintettel a következőkre:
 
 a) a jogsértés súlya (a gázellátás veszélyeztetésének mértéke, a felhasználói érdekek sérelmének köre, kiterjedtsége),
 
-b)–c)[^461]
+b)–c)[^463]
 
 d) a jogsértő piaci helyzete, befolyása,
 
@@ -16,13 +16,13 @@ f) a magatartás felróhatósága,
 
 g) korábbi jogsértő magatartás,
 
-h)[^462]
+h)[^464]
 
 i) a jogsértő állapot megszüntetésére tett, a Hivatal eljárását megelőző, attól független tevékenység.
 
 (2) A bírság engedélyesekre, engedéllyel nem rendelkező földgázipari tevékenységet folytató társaságokra és a szállító-, az elosztóvezeték, a tároló és a telephelyi vezeték tulajdonosaira szabható ki.
 
-(3)[^463] A bírság felső határa engedélyesek esetében a következő összegek közül a magasabb:
+(3)[^465] A bírság felső határa engedélyesek esetében a következő összegek közül a magasabb:
 
 a) az engedélyes engedélyköteles tevékenységéből származó, tárgyévet megelőző évi nettó árbevételének 1%-a,
 
@@ -36,7 +36,7 @@ d) vertikálisan integrált vállalkozás esetén a tevékenységéből származ
 
 (5) A bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
 
-[^460]: A Vhr. 132. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^461]: A Vhr. 132. § b)–c) pontját a 497/2017. (XII. 29.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^462]: A Vhr. 132. § h) pontját a 497/2017. (XII. 29.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^463]: A Vhr. 132. § (3) bekezdése a 112/2015. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^462]: A Vhr. 132. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^463]: A Vhr. 132. § b)–c) pontját a 497/2017. (XII. 29.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^464]: A Vhr. 132. § h) pontját a 497/2017. (XII. 29.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^465]: A Vhr. 132. § (3) bekezdése a 112/2015. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.

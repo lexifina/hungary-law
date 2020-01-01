@@ -16,9 +16,11 @@ e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
 
-g) Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket,
+g)[^221] Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
 
-h)[^221] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt.-vel bérleti jogviszonyban áll.
+h)[^222] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt.-vel bérleti jogviszonyban áll,
+
+i)[^223] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
 (2) E cím alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -28,7 +30,7 @@ h)[^221] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tu
 
 a) a 9. számú melléklet szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, vagy
 
-b)[^222] a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság, tény fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
+b)[^224] a szociálisan rászoruló fogyasztói státuszra jogosító ellátást, tényt megállapító szerv által kiadott, a jogosultság, tény fennállását igazoló, 30 napnál nem régebbi igazolás, illetve határozat
 
 eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
@@ -44,5 +46,7 @@ eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazo
 
 [^219]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^220]: A Vhr. 56. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 33. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^221]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.
-[^222]: A Vhr. 56. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^221]: A Vhr. 56. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^222]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.
+[^223]: A Vhr. 56. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 67. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^224]: A Vhr. 56. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.

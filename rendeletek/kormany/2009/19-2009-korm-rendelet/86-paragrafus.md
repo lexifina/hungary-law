@@ -1,4 +1,4 @@
-86. §[^299] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
+86. §[^301] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
 
 a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 15 munkanappal megelőzően nem áll rendelkezésre,
 
@@ -12,7 +12,7 @@ e) a biztosítékként elfogadott tárolói készlet nem nyújt fedezetet a tár
 
 (2) Ha a rendszerüzemeltető a szerződéses biztosítékot nyújtó pénzintézetet a rendszerhasználónak meg kívánja jelölni, úgy üzletszabályzatában köteles legalább öt pénzintézetet megnevezni, valamint a szerződéses biztosíték tartalmára vonatkozó elvárásait rögzíteni.
 
-(3)[^300] A rendszerüzemeltető felé a rendszerhasználó által nyújtott szerződéses biztosíték összegének fedezetet kell nyújtania
+(3)[^302] A rendszerüzemeltető felé a rendszerhasználó által nyújtott szerződéses biztosíték összegének fedezetet kell nyújtania
 
 a) teljesítménydíjas felhasználás vonatkozásában a lekötés alapján számított forgalmi díj összegére, valamint
 
@@ -26,9 +26,9 @@ b) a rendszerüzemeltetővel szerződött alapdíjas felhasználók vonatkozás�
 
 a rendszerüzemeltető üzletszabályzatában meghatározott feltételek szerint.
 
-(4)[^301] A rendszerüzemeltető, illetve a rendszerhasználó köteles a szerződéses biztosíték összegének módosítását gázév közben is elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor, és az havi szinten átlagosan a rendszerhasználati díjfizetés legalább 10%-os mértékű változásával jár.
+(4)[^303] A rendszerüzemeltető, illetve a rendszerhasználó köteles a szerződéses biztosíték összegének módosítását gázév közben is elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor, és az havi szinten átlagosan a rendszerhasználati díjfizetés legalább 10%-os mértékű változásával jár.
 
-(5)[^302] A földgáztárolói engedélyes köteles a tárolt készlet letéti elszámolásához árképletet kialakítani az üzletszabályzatában, vagy az elégtelen készlet esetén igénybe veendő szerződéses biztosíték meghatározását rögzíteni.
+(5)[^304] A földgáztárolói engedélyes köteles a tárolt készlet letéti elszámolásához árképletet kialakítani az üzletszabályzatában, vagy az elégtelen készlet esetén igénybe veendő szerződéses biztosíték meghatározását rögzíteni.
 
 (6) A szerződéses biztosíték időtartamának meghatározására és a biztosíték feltöltésére vonatkozó előírásokat a rendszerüzemeltető üzletszabályzata tartalmazza.
 
@@ -38,7 +38,7 @@ a rendszerüzemeltető üzletszabályzatában meghatározott feltételek szerint
 
 (9) A földgázkereskedő a földgáz-kereskedelmi szerződésbe foglalt ügyleteinek biztosítása érdekében jogosult a földgáz-kereskedelmi szerződéses partnereitől pénzügyi biztosítékot kérni. Egyetemes szolgáltatásra jogosult felhasználótól pénzügyi biztosíték nem kérhető, kivéve a GET 31/C. § (4)–(5) bekezdésében meghatározott esetet. A pénzügyi biztosítékra vonatkozó részletes rendelkezéseket, ha azokat a földgázkereskedő alkalmazni kívánja, az üzletszabályzatában előre közzéteszi.
 
-[^299]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^300]: A Vhr. 86. § (3) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^301]: A Vhr. 86. § (4) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^302]: A Vhr. 86. § (5) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^301]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^302]: A Vhr. 86. § (3) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^303]: A Vhr. 86. § (4) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^304]: A Vhr. 86. § (5) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

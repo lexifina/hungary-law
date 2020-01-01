@@ -1,4 +1,4 @@
-98/D. §[^345] (1) Szállítóvezeték-létesítési engedélyt olyan Magyarországon bejegyzett részvénytársaság kaphat, amelynek alaptőkéje legalább 2 milliárd forint, és amely megfelel a nemzeti vagyonról szóló törvényben előírt, az átlátható szervezetre vonatkozó követelményeknek.
+98/D. §[^347] (1) Szállítóvezeték-létesítési engedélyt olyan Magyarországon bejegyzett részvénytársaság kaphat, amelynek alaptőkéje legalább 2 milliárd forint, és amely megfelel a nemzeti vagyonról szóló törvényben előírt, az átlátható szervezetre vonatkozó követelményeknek.
 
 (2) Szállítóvezeték-létesítési engedély kizárólag olyan szállítóvezeték létesítésére adható ki,
 
@@ -16,4 +16,4 @@ b) amelynek megépítésével összefüggő közigazgatási hatósági engedély
 
 (7) A Hivatal az engedélyt visszavonja, ha a létesítési engedély alapján az engedélyes – az engedélyesnek felróható ok miatt – a szállítóvezetékre vonatkozó építési engedélykérelmét a szállítóvezeték-létesítési engedély hatályba lépésétől számított három éven belül nem nyújtotta be a bányafelügyeletnek.
 
-[^345]: A Vhr. 98/D. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^347]: A Vhr. 98/D. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.

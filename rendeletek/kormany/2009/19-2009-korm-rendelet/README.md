@@ -65,3 +65,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2018-02-01 | 2009-19-20-22.61 | 343/2017. (XI. 15.) Korm. rendelet |
 | 2019-04-30 | 2009-19-20-22.62 | 80/2019. (IV. 15.) Korm. rendelet |
 | 2019-06-01 | 2009-19-20-22.63 | 80/2019. (IV. 15.) Korm. rendelet |
+| 2020-01-01 | 2009-19-20-22.64 | 360/2019. (XII. 30.) Korm. rendelet |

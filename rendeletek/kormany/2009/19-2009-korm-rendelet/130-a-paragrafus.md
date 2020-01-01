@@ -1,3 +1,3 @@
-130/A. §[^457] Jogutód nélküli megszűnés esetén az engedélyes legkésőbb a GET 122. § (1) bekezdés szerinti hozzájárulás kezdeményezéséig köteles a Hivatalnál kezdeményezni az engedélye visszavonását.
+130/A. §[^459] Jogutód nélküli megszűnés esetén az engedélyes legkésőbb a GET 122. § (1) bekezdés szerinti hozzájárulás kezdeményezéséig köteles a Hivatalnál kezdeményezni az engedélye visszavonását.
 
-[^457]: A Vhr. 130/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 9. §-a iktatta be.
+[^459]: A Vhr. 130/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 9. §-a iktatta be.
