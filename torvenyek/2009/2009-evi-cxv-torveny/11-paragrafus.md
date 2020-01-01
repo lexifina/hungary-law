@@ -16,7 +16,7 @@ f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adósz�
 
 g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 
-h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét,
+h)
 
 i) a törlés időpontját és okát,
 

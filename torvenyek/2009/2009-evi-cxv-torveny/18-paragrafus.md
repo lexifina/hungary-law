@@ -10,6 +10,6 @@
 
 (4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
-(5) Igazolvánnyal rendelkező egyéni vállalkozó tevékenysége szüneteltetésének a feltétele, hogy az egyéni vállalkozó igazolványát a Hatóságnak személyesen vagy postai úton leadja. Az igazolványt a Hatóság az igazolvány beérkezésének vagy leadásának napján érvényteleníti, és ennek tényét bejegyzi a nyilvántartásba.
+(5)
 
 (6) A szünetelés, valamint a szüneteltetett tevékenység folytatásának bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy az értesítés az egyéni vállalkozó nyilvántartási számát, a 9. § a) és b) pontjában meghatározott adatokat, valamint a szünetelés bejelentése esetén a szünetelés kezdő, a szüneteltetett tevékenység folytatásának bejelentése esetén pedig a szünetelés kezdő és záró időpontját tartalmazza.

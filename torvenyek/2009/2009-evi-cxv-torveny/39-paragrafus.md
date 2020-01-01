@@ -6,6 +6,6 @@ a) jelölje ki a nyilvántartást vezető szervet, a Közreműködő Szervet és
 
 b) állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát,
 
-c) állapítsa meg az egyéni vállalkozói igazolvány adattartalmát, kiállításának, pótlásának, cseréjének, érvénytelenségének szabályait,
+c)
 
 d) állapítsa meg a hatósági ellenőrzés részletes szabályait.

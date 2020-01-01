@@ -2,7 +2,7 @@
 
 14. § (1) Az egyéni vállalkozó – természetes személyazonosító adatai, lakcíme és állampolgársági adata kivételével – a nyilvántartásban szereplő adatainak megváltozását a változástól számított tizenöt napon belül köteles az e célra rendszeresített elektronikus űrlapon (a továbbiakban: változásbejelentési űrlap) a nyilvántartást vezető szervnek bejelenteni. A változásbejelentési űrlapnak az egyéni vállalkozó családi és utónevét, nyilvántartási számát, valamint a megváltozott adatokat kell tartalmaznia. Az egyéni vállalkozó az állami adóhatóság által vezetett nyilvántartáshoz szükséges – külön törvényben rögzített – további adatokat a nyilvántartást vezető szerv útján is eljuttathatja az állami adóhatósághoz.
 
-(2) Igazolvánnyal rendelkező egyéni vállalkozó változásbejelentésének – ha az az igazolványban szereplő adatokat érint – feltétele, hogy az egyéni vállalkozó igazolványát a Hatóságnak személyesen vagy postai úton leadja. A Hatóság az igazolványt a leadás vagy a beérkezés napján érvényteleníti, és ennek tényét a nyilvántartásba bejegyzi.
+(2)
 
 (3)–(4)
 

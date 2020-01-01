@@ -4,6 +4,6 @@
 
 (2) Az e törvény hatálybalépése előtt egyéni vállalkozást folytatóktól e törvény hatálybalépése miatt adatszolgáltatás nem kérhető.
 
-(3) Az e törvény hatálybalépése előtt kiadott egyéni vállalkozói igazolványok e törvény hatálybalépése után is visszavonásukig érvényesek, figyelemmel a 14. §-ban meghatározott rendelkezésekre.
+(3)
 
 (4) Az az egyéni vállalkozó, aki vállalkozását 1990. április 1-je előtt kisiparosként vagy magánkereskedőként alapította és azóta folyamatosan folytatta egyéni vállalkozói tevékenységét, és e tevékenységét személyesen gyakorolja, a „kisiparos”, illetve a „magánkereskedő”, a mestervizsgával rendelkező egyéni vállalkozó pedig a „mester” megnevezést használhatja.

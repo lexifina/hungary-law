@@ -2,7 +2,7 @@
 
 4. § (1)
 
-(2) Az egyéni vállalkozói tevékenység megkezdésének, megszüntetésének bejelentése, továbbá az egyéni vállalkozói igazolvány igénylése
+(2) Az egyéni vállalkozói tevékenység megkezdésének, megszüntetésének bejelentése
 
 a) elektronikus úton, elektronikus azonosítást követően vagy
 

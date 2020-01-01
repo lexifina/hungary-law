@@ -2,7 +2,7 @@
 
 19/A. § (1) Az egyéni vállalkozói tevékenység ellenőrzésének célja az egyéni vállalkozói nyilvántartás közhitelességének, valamint az egyéni vállalkozói tevékenység törvényes működésének biztosítása.
 
-(2) A Hatóság a nyilvántartásba vételt követő 30 napon belül, továbbá ellenőrzési terv alapján és eseti jelleggel ellenőrzi azt, hogy az egyéni vállalkozó működése megfelel-e a jogszabályi rendelkezéseknek.
+(2) A Hatóság ellenőrzési terv alapján és eseti jelleggel ellenőrzi azt, hogy az egyéni vállalkozó működése megfelel-e a jogszabályi rendelkezéseknek.
 
 (2a) Az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
 

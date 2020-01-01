@@ -20,7 +20,7 @@ b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és 
 
 c) tájékoztatást nyújt az egyéni vállalkozói tevékenység folytatásához szükséges információkról, az egyéni vállalkozói tevékenység folytatásáról, a képesítéshez, valamint a hatósági engedélyhez vagy bejelentéshez kötött gazdasági tevékenységekről,
 
-d) ellátja az egyéni vállalkozói igazolvány kiállításával és nyilvántartásával kapcsolatos feladatokat,
+d)
 
 e) az egyéni vállalkozó székhelye szerinti illetékességgel hatósági ellenőrzést folytat, valamint
 
