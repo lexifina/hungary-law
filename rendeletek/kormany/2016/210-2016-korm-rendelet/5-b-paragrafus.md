@@ -1,0 +1,5 @@
+5/B. §[^7] (1) A Beruházások keretében megvalósuló új önálló rendeltetési egységek rendeltetésszerű használatához személygépkocsi elhelyezését nem kell biztosítani.
+
+(2) A Beruházások megvalósításának helyszíne és annak közvetlen környezete tekintetében a Kvt. 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett, a magántulajdonban álló ingatlanokon lévő fás szárú növények vonatkozásában is a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása a földrészlet adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala I. Kerületi Hivatala által kijelölt, kivágással érintett ingatlan vagyonkezelője vagyonkezelésében álló, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
+
+[^7]: Az 5/B. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdése iktatta be. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
