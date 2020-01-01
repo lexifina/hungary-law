@@ -1,0 +1,1 @@
+## „11/E. § E rendelet alkalmazásában mezőgazdasági célú felszíni vízhasználatot biztosító vízilétesítmény az, amely kizárólag öntözési (ideértve a rizstermelést is), halgazdasági vagy állattartási célú vízhasználatot szolgál.”
