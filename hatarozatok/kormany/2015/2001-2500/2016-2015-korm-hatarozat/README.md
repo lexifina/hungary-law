@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2016-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-29 | 2015-2016-30-22.1 | 2016/2015. (XII. 29.) Korm. határozat |
+| 2020-01-01 | 2015-2016-30-22.2 | 2011: CXCV. törvény |
