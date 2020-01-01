@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2019-05-07 | 2013-369-20-22.23 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-10-05 | 2013-369-20-22.24 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-11-20 | 2013-369-20-22.25 | 271/2019. (XI. 19.) Korm. rendelet |
+| 2020-01-01 | 2013-369-20-22.26 | 360/2019. (XII. 30.) Korm. rendelet |

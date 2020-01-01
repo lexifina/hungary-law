@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^161]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^165]
 
 Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
@@ -14,9 +14,9 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.1.1. az engedélyes – jogszabályban meghatározottak szerint elkészített – szakmai programját,
 
-2.1.2. azon személyeknek, akikkel a jogszabályban előírt kötelező létszámfeltételeket teljesítik – ide nem értve helyettes szülői hálózat és nevelőszülői hálózat esetén a helyettes szülőt és a nevelőszülőt – (a továbbiakban: kötelezően alkalmazandó személy), és más, jogszabály alapján szakképesítéshez, illetve tanfolyam elvégzéséhez kötött munkakört betöltő személyeknek a szakképesítését bizonyító okirat, illetve a tanfolyam elvégzését bizonyító okirat másolatát,
+2.1.2. a fenntartónak a szolgáltatói nyilvántartás informatikai rendszerében meghatározott formában kiállított nyilatkozatát arról, hogy a jogszabályban előírt személyi feltételeket teljesítik,
 
-2.1.3. a fenntartónak vagy – ha az alkalmazottakat a szolgáltató foglalkoztatja – a szolgáltatónak és a kötelezően alkalmazandó személyeknek az egybehangzó nyilatkozatát, amelyben kijelentik, hogy az adott munkakörre előírt kötelező létszámfeltételek teljesítése érdekében közalkalmazotti jogviszonyt, munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt létesítettek, vagy – az engedélyes bejegyzése esetén – legkésőbb az engedélyes működésének kezdő időpontjáig létesítenek, vagy – egyházi fenntartású engedélyes esetén, ha a kötelezően alkalmazandó személy a munkakörét egyházi személyként látja el – az illetékes egyházi szerv és a kötelezendően alkalmazandó személy erre vonatkozó nyilatkozatát,
+2.1.3.
 
 2.1.4. az engedélyes címe szerinti ingatlan használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja,
 
@@ -30,7 +30,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.2.1. a szolgáltatáshoz használni kívánt gépjármű használati jogcímét bizonyító egyéb okirat másolatát, ha a forgalmi engedély a használat jogcímét nem igazolja,
 
-2.2.2. a biztosító igazolását arról, hogy a szolgáltatáshoz használni kívánt gépjárműre kötelező gépjármű-felelősségbiztosítási és casco biztosítási szerződéssel rendelkeznek.
+2.2.2.
 
 2.3. Hajléktalan személyek nappali ellátása, hajléktalan személyek átmeneti szállása és rehabilitációs szociális intézményi ellátás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a külső férőhelyek elhelyezésére szolgáló ingatlan használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja.
 
@@ -42,47 +42,41 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.5. Fejlesztő foglalkoztatás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a foglalkoztatási hely használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja.
 
-2.6. Családsegítés és gyermekjóléti szolgáltatás, bölcsőde, mini bölcsőde, alternatív napközbeni ellátás, Biztos Kezdet Gyerekház, tanoda, gyermekek átmeneti házi gondozása, gyermekek átmeneti otthona, utógondozó otthon és területi gyermekvédelmi szakszolgáltatás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok.
+2.6.
 
 2.7. Munkahelyi bölcsőde esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
-2.7.1. a szolgáltatást nyújtó személynek és helyettesének, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személyeknek a nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
+2.7.1.
 
-2.7.2. a szolgáltatást nyújtó személynek és helyettesének a jogszabályban meghatározott Egészségügyi Nyilatkozatát,
+2.7.2.
 
 2.7.3. a Gyvt. 44. § (1) bekezdése szerinti foglalkoztatóval kötött megállapodás másolatát, ha a munkahelyi bölcsődét nem a foglalkoztató tartja fenn.
 
-2.8. Családi bölcsőde és napközbeni gyermekfelügyelet esetén – a 2.1. pontban foglaltakon túl – csatolni kell
-
-2.8.1. a szolgáltatást nyújtó személynek és helyettesének, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személyeknek a nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
-
-2.8.2. a szolgáltatást nyújtó személynek és helyettesének a jogszabályban meghatározott Egészségügyi Nyilatkozatát,
-
-2.8.3. a háziorvos igazolását arra vonatkozóan, hogy a gondozás helyén – ide nem értve a Gyvt. 44/B. § (3) bekezdés d) pontja szerinti helyet – élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket.
+2.8.
 
 2.9. Családok átmeneti otthona esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
-2.9.1. a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
+2.9.1.
 
 2.9.2. a félutas ház és a külső férőhelyek elhelyezésére szolgáló ingatlan használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja.
 
 2.10. Nem hálózat keretében nyújtott helyettes szülői ellátás esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
-2.10.1. a helyettes szülőnek, valamint az engedélyesnél önkéntes jogviszonyban foglalkoztatott személynek a nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
+2.10.1.
 
-2.10.2. a háziorvos igazolását arra vonatkozóan, hogy a helyettes szülő és a gondozás helyén élő más személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
+2.10.2.
 
 2.10.3. az ellátás helye szerinti ingatlan használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja,
 
 2.10.4. a helyettes szülő háztartásáról készített környezettanulmányt.
 
-2.11. Helyettes szülői hálózat és nevelőszülői hálózat esetén – a 2.1. pontban foglaltakon túl – csatolni kell a fenntartónak és az engedélyes (működtető) vezetőjének együttes nyilatkozatát arról, hogy
+2.11. Helyettes szülői hálózat és nevelőszülői hálózat esetén – a 2.1. pontban foglaltakon túl – csatolni kell a fenntartó nyilatkozatát arról, hogy
 
-2.11.1. a helyettes szülők, nevelőszülők rendelkeznek a szükséges szakképesítéssel, illetve elvégezték a szükséges felkészítő tanfolyamot,
+2.11.1.
 
-2.11.2. az engedélyes (működtető) vezetőjével, a helyettes szülőkkel, a nevelőszülőkkel, a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyekkel szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
+2.11.2.
 
-2.11.3. a helyettes szülők, nevelőszülők és a helyettes szülőkkel, nevelőszülőkkel egy háztartásban élő személyek egészségi állapota nem veszélyezteti az ellátandó gyermekeket,
+2.11.3.
 
 2.11.4. az elkészített környezettanulmányok alapján a helyettes szülők, nevelőszülők háztartása alkalmas a szolgáltatás nyújtására,
 
@@ -90,13 +84,13 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.12. Gyermekotthon esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
-2.12.1. a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
+2.12.1.
 
 2.12.2. az ideiglenes befogadó férőhely címe szerinti ingatlan használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja, és az ideiglenes befogadó férőhelyet az engedélyes helyrajzi számától az ingatlan-nyilvántartásban különböző helyrajzi számon feltüntetett ingatlanon alakítják ki.
 
 2.13. Külső férőhelyen biztosított utógondozói ellátás esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
-2.13.1. a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró okok,
+2.13.1.
 
 2.13.2. a külső férőhelyek elhelyezésére szolgáló ingatlan használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja,
 
@@ -108,14 +102,14 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 3.1. Az 1. pont szerinti iratokat nem kell ismételten csatolni, ha az eljáró működést engedélyező szervnek azt korábban már megküldték, és azokban változás nem következett be.
 
-3.2. A 2.1.3. pont szerinti nyilatkozatot nem kell csatolni, ha a szociális szolgáltatást az egyéni vállalkozó fenntartó maga nyújtja.
+3.2.
 
 3.3. A 2.1. pontban foglaltaktól eltérően az időszakos férőhelybővítés esetén a szolgáltatással összefüggésben
 
-3.3.1. csak a 2.1.1., a 2.1.2. és a 2.1.3 pont szerinti iratokat kell minden esetben csatolni,
+3.3.1. csak a 2.1.1. és a 2.1.2. pont szerinti iratokat kell minden esetben csatolni,
 
 3.3.2. a 2.1.4. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyesre megkötött felelősségbiztosítási szerződés az időszakos férőhelyekre nem terjedt ki, és jogszabály a felelősségbiztosítási szerződés megkötését előírja,
 
 3.3.3. a 2.1.5. és a 2.1.6. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyes által nyújtott szolgáltatásra megkötött ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás az időszakos férőhelyekre nem terjedt ki.
 
-[^161]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. Az 5. melléklet a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^165]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. Az 5. melléklet a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a, a 360/2019. (XII. 30.) Korm. rendelet 123. § (3) bekezdése, (4) bekezdés e)–f) pontja és (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

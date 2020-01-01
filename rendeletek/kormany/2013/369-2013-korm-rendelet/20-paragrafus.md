@@ -1,4 +1,4 @@
-20. §[^62] Ha az engedélyes bejegyzése iránti eljárásban a szakmai program megfelelőségének kérdésében szakértő kirendelése szükséges, a működést engedélyező szerv
+20. §[^64] Ha az engedélyes bejegyzése iránti eljárásban a szakmai program megfelelőségének kérdésében szakértő kirendelése szükséges, a működést engedélyező szerv
 
 a) a b)–d) pontban meghatározottak, valamint a Főigazgatóság által fenntartott engedélyesek kivételével a Főigazgatóságot,
 
@@ -10,4 +10,4 @@ d) a feladatkörébe tartozó engedélyes és szolgáltatás esetén – ide nem
 
 rendeli ki szakértőnek.
 
-[^62]: A 20. § a 271/2019. (XI. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^64]: A 20. § a 271/2019. (XI. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
