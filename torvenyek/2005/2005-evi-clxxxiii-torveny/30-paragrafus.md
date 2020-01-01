@@ -8,7 +8,7 @@
 
 (2) A nemzeti szabályoknak összhangban kell lenniük az Európai Unió Hivatalos Lapjában közzétett Átjárhatósági Műszaki Előírásokkal, közös biztonsági módszerekkel és célokkal és elő kell segítenie az egységes európai vasúti szállítási rendszer kialakítását.
 
-(3) Ha új nemzeti szabály bevezetésére van szükség, a miniszter a nemzeti szabály tervezetét a közlekedési hatóság által a 80. § (1) bekezdés g) pontja szerint lefolytatott egyeztetést követően megküldi az Európai Bizottságnak, és ismerteti bevezetésének indokait.
+(3) Amennyiben új nemzeti szabály bevezetésére van szükség, a miniszter a nemzeti szabály tervezetét – a nem jogszabályban kihirdetett nemzeti szabályok esetén a közlekedési hatóság általi, 80. § (1) bekezdés g) pontja szerinti jóváhagyást követően – bejelenti a Bizottságnak és az Ügynökségnek, ismerteti bevezetésének indokait, valamint ellátja a bejelentéshez kapcsolódó az (EU) 2016/796 európai parlamenti és tanácsi rendeletben foglalt vizsgálat során a tagállamot terhelő feladatokat.
 
 (4) Ha az Európai Bizottság a tervezett nemzeti szabály ellen kifogást emel, annak tervezete – az Európai Bizottság határozatának meghozataláig, de legfeljebb a kifogást tartalmazó értesítés megérkezésétől számított hat hónapig – nem hirdethető ki, illetve nem tehető közzé.
 

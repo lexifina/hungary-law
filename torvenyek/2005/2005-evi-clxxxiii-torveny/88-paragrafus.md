@@ -10,9 +10,9 @@
 
 4. a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
 
-5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a nem független pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a nem független pályahálózat-működtető által fizetendő megbízási díj mértékét,
+5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a pályahálózat-működtető által fizetendő megbízási díj mértékét,
 
-6. a vasúti vizsgaközpont kijelölését,
+6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését,
 
 7. a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző szerv vagy személyek kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 
@@ -128,7 +128,9 @@ rendeletben állapítsa meg.
 
 38. a vasúti közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
 
-39. a nem jogszabályban kihirdetett nemzeti szabályok kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat
+39. a nem jogszabályban kihirdetett nemzeti szabályok kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
+
+40. a kockázatértékelő szervezetekkel szembeni – ideértve a felelősségbiztosítás mértékét, továbbá a szakmai képzettségi és szakmai gyakorlati – követelményeket
 
 rendeletben állapítsa meg.
 

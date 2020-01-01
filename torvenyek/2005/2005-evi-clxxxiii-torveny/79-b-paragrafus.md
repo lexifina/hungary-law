@@ -16,11 +16,17 @@ f) a Díjszámítási Dokumentum vagy a Hálózati Üzletszabályzatban szerepl�
 
 g) valamely szerződő fél megsértette a pályahálózathoz való nyílt hozzáférés tárgyában kötött szerződést, vagy a menetvonal igénybevételéért fizetendő hálózat-hozzáférési díj mértéke jogszabálysértően vagy a Hálózati Üzletszabályzatba ütköző módon került megállapításra,
 
-h) a kiszolgáló létesítmény üzemeltetőjének döntése, az általa alkalmazott díjak ellentétesek a megkülönböztetéstől mentes eljárás követelményével, vagy
+h) a kiszolgáló létesítmény üzemeltetőjének döntése, az általa alkalmazott díjak ellentétesek a megkülönböztetéstől mentes eljárás követelményével,
 
-i) a kiszolgáló létesítmény üzemeltetője a 67/O. § (6) bekezdése szerinti információkat határidőre nem szolgáltatta vagy nem megfelelően szolgáltatta a pályahálózat-működtető vagy a VPSZ részére.
+i) a kiszolgáló létesítmény üzemeltetője a 67/O. § (6) bekezdése szerinti információkat határidőre nem szolgáltatta vagy nem megfelelően szolgáltatta a pályahálózat-működtető vagy a VPSZ részére,
 
-(2) Az (1) bekezdés a), b) és d)–i) pontja szerinti esetekben a kérelmet a jogsértésről való tudomásszerzést követő tizenöt napon belül, de legkésőbb a jogsértés megtörténtétől számított három hónapon belül lehet előterjeszteni. A c) pont szerinti kérelmet az üzemi menetrendtervezet külön jogszabály szerinti közzétételét követő tizenöt napon belül lehet előterjeszteni.
+j) a pályahálózat-működtetőnek a forgalomirányítással kapcsolatos valamely döntése ellentétes a megkülönböztetéstől mentes eljárás követelményével,
+
+k) a pályahálózat-működtetőnek a vasúti pályahálózat karbantartási, felújítási vagy fejlesztési munkáinak tervezésével kapcsolatos valamely döntése ellentétes a megkülönböztetéstől mentes eljárás követelményével, e törvényben, a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendeletben vagy a Hálózati Üzletszabályzatban foglaltakkal, vagy
+
+l) a pályahálózat-működtető vagy a VPSZ esetében a 11. § (8)–(9) bekezdésben, a 11/A.–11/C. §-okban, vagy a pályahálózat-működtető függetlenségi feltételeiről szóló miniszteri rendeletben foglalt valamely kötelezettség nem teljesül.
+
+(2) Az (1) bekezdés a), b) és d)–l) pontja szerinti esetekben a kérelmet a jogsértésről való tudomásszerzést követő tizenöt napon belül, de legkésőbb a jogsértés megtörténtétől számított három hónapon belül lehet előterjeszteni. A c) pont szerinti kérelmet az üzemi menetrendtervezet külön jogszabály szerinti közzétételét követő tizenöt napon belül lehet előterjeszteni.
 
 (3) A kérelemben meg kell jelölni
 

@@ -10,7 +10,7 @@
 
 (4)–(6)
 
-(7) Az alapvizsga és az időszakos vizsga lebonyolítását, valamint az alapképzés és az időszakos oktatás szakmai irányítását a Kormány által külön jogszabályban kijelölt vasúti vizsgaközpont végzi.
+(7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.
 
 (8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi.
 

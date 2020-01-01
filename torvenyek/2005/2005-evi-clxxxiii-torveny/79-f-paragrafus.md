@@ -8,11 +8,7 @@ c) a tevékenység végzésének feltételeit megállapítja,
 
 d) a jogsértő magatartás folytatását megtiltja.
 
-(1a) A vasúti igazgatási szerv figyelmeztetést is alkalmazhat, ha a kötelezettségek megszegése a közlekedésbiztonságot nem veszélyeztette, és a jogsértő a jogsértést
-
-a) a helyszínen megszüntette, vagy
-
-b) megelőzően hat hónapon belül azonos jogsértést nem követett el.
+(1a)
 
 (2) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (1) bekezdésben meghatározott jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv felfüggesztheti vagy visszavonhatja a működési engedélyt.
 

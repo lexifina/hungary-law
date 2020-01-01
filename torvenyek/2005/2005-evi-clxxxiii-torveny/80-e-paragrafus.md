@@ -11,3 +11,5 @@ b) negyvenöt nap a – a vasúti járművek üzembe helyezése engedélyezésé
 (4) A döntést helybenhagyó vagy megváltoztató másodfokú döntést a kérelem megérkezését követő naptól számított két hónapon belül kell meghozni.
 
 (5) Ha a vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban a közlekedési hatóság a döntését az előírt határidőn belül nem hozza meg, a vasúti jármű üzembe helyezését a határidő lejártát követő három hónap után engedélyezettnek kell tekinteni, amely csak arra a vasúti pályahálózatra hatályos, amelyre a kérelem vonatkozott.
+
+(6) A közlekedési hatóságon belül a megfelelőségértékelő szervezet kijelölési és bejelentési eljárása során nem dönthet a kijelölésről és a bejelentésről az, aki a megfelelőségértékelő szervezet értékelését végezte.

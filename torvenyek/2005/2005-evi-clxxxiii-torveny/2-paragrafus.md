@@ -220,6 +220,8 @@ d) a vállalkozás különálló részlegekből áll, magában foglal egy pálya
 
 5.10. vasúti műszaki vizsgálati központ üzemeltetője: olyan természetes személy vagy gazdasági társaság, amely egy vagy több vasúti műszaki vizsgálati központ üzemeltetéséért felel és vasúti vagy egyéb gazdálkodó szervezetek számára a 2. melléklet 4. pontja szerinti valamely szolgáltatást nyújt;
 
+5.11. vagyonműködtető: legalább többségi állami tulajdonú pályahálózat-működtető gazdasági társaság, mellyel az állam az állami vagyonról szóló 2007. évi CVI. törvény 26. § (1) bekezdésében meghatározott vagyonműködtetési tevékenység érdekében vagyonműködtetési szerződést kötött;
+
 6. A vasúti rendszer átjárhatóságával kapcsolatos fogalmak:
 
 6.1. Átjárhatósági Műszaki Előírás (ÁME): a kölcsönös átjárhatóságot lehetővé tevő azon műszaki előírások összessége, amelyek az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó műszaki feltételeket és előírásokat szabályozza;
