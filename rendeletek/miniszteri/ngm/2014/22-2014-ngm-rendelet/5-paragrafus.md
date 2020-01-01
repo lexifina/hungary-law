@@ -1,6 +1,5 @@
-5. § (1)[^5]
+5. § (1)[^4]
 
-(2)[^6]
+(2) Az R. 1. Melléklet A) része a következő 1.3. ponttal egészül ki:
 
-[^5]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 5. § (2) bekezdése a 8. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^4]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
