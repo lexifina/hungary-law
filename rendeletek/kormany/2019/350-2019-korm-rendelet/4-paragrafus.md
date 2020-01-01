@@ -1,3 +1,3 @@
-## 3. § A Korm. rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(1) Az NFI a közterület-használatra irányuló kérelmet egy munkanapon belül, sürgős eljárás esetén pedig haladéktalanul megküldi a közterület tulajdonosának, a filmforgatáshoz kapcsolódó egyéb kérelmet, hatósági bejelentést pedig a hatáskörrel rendelkező illetékes hatóságoknak, vagy az érintett szervnek. Az NFI a kérelem, bejelentés megküldésével egyidejűleg elektronikus úton jelzi a tulajdonos települési önkormányzatnak, a hatáskörrel rendelkező illetékes hatóságoknak és a kérelmezőnek, hogy mely szervekhez továbbította a kérelmet, illetve a bejelentést. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló, 1. § (2) bekezdés c) pontja szerinti okiratot is tartalmazó kérelmet az NFI haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez további ügyintézés céljából.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
