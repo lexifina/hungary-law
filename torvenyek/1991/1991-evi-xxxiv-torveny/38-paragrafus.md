@@ -44,10 +44,4 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
-(4) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy a szerencsejáték-felügyeleti hatóságnál foglalkoztatott
-
-a)
-
-b) kormánytisztviselők és munkavállalók részére feltételekhez kötött személyi juttatás és az intézményi feladatok
-
-megállapítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(4)

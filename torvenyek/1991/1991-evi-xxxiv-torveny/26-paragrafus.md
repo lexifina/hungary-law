@@ -24,7 +24,7 @@ nyereményként ki kell adnia.
 
 (7)–(10)
 
-(11) Pénznyerő automata működtetésére a gyártás időpontjától számított 5 éven túli időtartamra nem adható engedély.
+(11)
 
 (12)
 
@@ -40,7 +40,7 @@ nyereményként ki kell adnia.
 
 (18)
 
-(19) A pénznyerő automata a gyártásának időpontjától számított 5 éven túl – illetve annak letelte előtt, ha a szervező a pénznyerő automata üzemeltetésének végleges megszüntetéséről dönt – teljes egészében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény és annak végrehajtási rendeletei szerint meghatározott elektronikus berendezés hulladékának minősül.
+(19)
 
 (20)
 

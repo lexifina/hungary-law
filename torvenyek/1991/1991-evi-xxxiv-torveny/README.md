@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1991-34-00-00.79 |
 | 2018-08-01 | 2018. évi XLI. törvény | 1991-34-00-00.80 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 1991-34-00-00.81 |
+| 2020-01-01 | 2019. évi CXIV. törvény | 1991-34-00-00.82 |

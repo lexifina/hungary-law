@@ -1,1 +1,1 @@
-36/K. § A szerencsejáték-szervezés állami felügyeletéért felelős miniszter féléves gyakorisággal – a tárgyév július 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A-13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.
+36/K. §

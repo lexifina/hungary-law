@@ -10,7 +10,7 @@ b) átmeneti jellegű, tehát a bírság későbbi megfizetése valószínűsít
 
 (3) A kérelem elbírálása és a feltételek meghatározása során figyelembe kell venni a fizetési nehézség kialakulásának okait és körülményeit.
 
-(4) Nem engedélyezhető fizetési könnyítés, ha a kérelmezővel szemben a szerencsejáték-felügyeleti hatóság a fizetési könnyítési kérelemmel érintett jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt jogerősen bírságot szabott ki.
+(4) Nem engedélyezhető fizetési könnyítés, ha a kérelmezővel szemben a szerencsejáték-felügyeleti hatóság a fizetési könnyítési kérelemmel érintett jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt véglegesen bírságot szabott ki.
 
 (5) Magánszemély vagy egyéni vállalkozó esetében a fizetési könnyítés a (2) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy a bírság azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent.
 

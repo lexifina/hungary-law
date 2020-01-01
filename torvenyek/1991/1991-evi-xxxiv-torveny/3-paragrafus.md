@@ -20,4 +20,6 @@ végezheti.
 
 (2b) A szerencsejáték-szervezéshez kapcsolódó nemzetközi szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, az egyéb, szerencsejáték-szervezéshez kapcsolódó két- vagy többoldalú szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter vagy a szerencsejáték-felügyeleti hatóság vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.
 
+(2c) Az állami adóhatóság megkeresésre tájékoztatja a szerencsejáték-szervezés állami felügyeletéért felelős minisztert a (2) bekezdés szerinti hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. pont a)–c) alpontja szerinti ellenőrzéséhez szükséges adó-, illetve vámtitkot képező adatról vagy információról.
+
 (3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
