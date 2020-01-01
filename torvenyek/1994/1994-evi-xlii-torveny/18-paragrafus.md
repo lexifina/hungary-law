@@ -14,7 +14,7 @@ da) amely esetében a fizetőképtelenséget kizárólag a biztosító, a biztos
 
 db) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy végleges hatósági határozat megállapította,
 
-e) nem sértette meg súlyosan vagy ismételten a Magyar Nemzeti Bank felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Magyar Nemzeti Bank nem szabta ki öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
+e) nem sértette meg súlyosan vagy ismételten a Magyar Nemzeti Bank felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Magyar Nemzeti Bank nem szabta ki öt évnél nem régebben kelt végleges határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
 
 f) nem tevékenykedik más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, biztosítónál könyvvizsgálóként,
 
