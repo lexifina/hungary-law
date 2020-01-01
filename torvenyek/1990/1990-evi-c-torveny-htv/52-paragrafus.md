@@ -148,7 +148,7 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 
 38. anyag, áru: a számvitelről szóló törvény szerinti vásárolt készletekből az anyagok, az áruk,
 
-39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont g) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
+39.
 
 40. közvetített szolgáltatások értéke: az adóalany által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) írásban kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás értéke. Közvetített szolgáltatásnál az adóalany vevője és nyújtója is a szolgáltatásnak, az adóalany a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy az adóalany nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 32. pont szerint alvállalkozói teljesítések értékeként nettó árbevételét nem csökkentette;
 
@@ -184,33 +184,41 @@ származó ellenérték (bevétel);
 
 53. közszolgálati kötelezettség:
 
-a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony,
+a) a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszony,
 
-b) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony,
+b) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony,
 
-c) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti állami vezetői jogviszony,
+c) a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszony, biztosi jogviszony, kormányzati szolgálati jogviszony,
 
-d) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény szerinti szolgálati jogviszony,
+d) az Állami Számvevőszékről szóló törvény szerinti szolgálati jogviszony,
 
-e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény szerinti ügyész szolgálati jogviszony,
+e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény szerinti ügyész szolgálati jogviszony,
 
-f) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény szerinti jogviszony,
+f) a közszolgálati tisztviselőkről szóló törvény szerinti jogviszony,
 
-g) a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati jogviszony,
+g) a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszony,
 
-h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szolgálati viszony,
+h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony,
 
-i) az állami tisztviselőkről szóló 2016. évi LII. törvény szerinti állami szolgálati jogviszony,
+i) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony,
 
-j) a külön jogszabály által mentelmi jogot biztosító jogállás,
+j) a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony,
 
-k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony
+k) jogszabály által mentelmi jogot biztosító jogállás
 
 keretében végzett kötelezettség;
 
 54. beruházás: az adómentességet, adókedvezményt rendeletében biztosító önkormányzat illetékességi területén üzembe helyezett, a számvitelről szóló törvény szerinti olyan beruházás, amelyet a vállalkozó vesz első ízben használatba;
 
-55–59.
+55. alapítvány: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil törvény) szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt;
+
+56.
+
+57.
+
+58.
+
+59.
 
 60. lakóépület: olyan épület, amelynek hasznos alapterülete legalább 50 százalékát lakások hasznos alapterülete teszi ki.
 

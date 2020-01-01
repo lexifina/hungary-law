@@ -1,4 +1,4 @@
-39/B. § (1) Az egyszerűsített vállalkozói adó hatálya alá tartozó vállalkozó az adó alapját – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – az egyszerűsített vállalkozói adó alapjának 50%-ában is megállapíthatja.
+39/B. § (1)
 
 (2) A kisvállalati adó hatálya alá tartozó vállalkozó az adó alapját – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – a kisvállalati adója alapjának 20%-kal növelt összegében is megállapíthatja.
 
@@ -26,17 +26,13 @@ b) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, ad�
 
 (9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
-(10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
+(10) Az adó alapjának a (2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
-(11) Ha a vállalkozó az egyszerűsített vállalkozói adóról szóló törvény hatálya alól kikerül, akkor az adó alapját az egyszerűsített vállalkozói adóról szóló törvény szerinti adóévére az (1) bekezdés szerint, a naptári év hátralévő részére a 39. § (1) bekezdése, vagy a 39/A. § előírásai szerint kell megállapítani, utóbbi esetén feltéve, hogy a 39/A. §-ban foglalt feltételek egyébként fennállnak.
+(11)
 
 (12) Ha a vállalkozó a kisvállalati adó hatálya alól kikerül, akkor az adó alapját a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti adóévére a (2) bekezdés szerint, a naptári év hátralévő részére a 39. § (1) bekezdése, vagy a 39/A. § előírásai szerint kell megállapítani, utóbbi esetén feltéve, hogy a 39/A. §-ban foglalt feltételek egyébként fennállnak.
 
-(13) Ha a vállalkozó az egyszerűsített vállalkozói adóról szóló törvény hatálya alól kikerül, akkor
-
-a) köteles az egyszerűsített vállalkozói adókötelezettségéről szóló bevallás-benyújtással egyidejűleg az egyszerűsített vállalkozói adóalanyiság megszűnését követő naptól az azt követő adóév első félévének utolsó napjáig terjedő időszakra (e pont alkalmazásában: előlegfizetési időszak) a bevallásban szereplő, a bevallással lefedett időszak naptári napjai alapján 12 hónapra számított összegű adóelőleget az előlegfizetési időszakra eső egyes előlegfizetési időpontokra, egyenlő arányban bevallani, azzal, hogy nem kell adóelőleget bevallani arra az előlegfizetési időpontra, amelyre a vállalkozó már vallott be adóelőleget.
-
-b) az egyszerűsített vállalkozói adóról szóló törvény szerinti adóévéről szóló bevallást az egyszerűsített vállalkozói adóról szóló törvényben meghatározott időpontig köteles benyújtani, s ezzel egyidejűleg az adóévre már megfizetett előleg és a tényleges fizetendő adó összegének különbözetét megfizeti, illetve igényelheti vissza.
+(13)
 
 (14) Ha a vállalkozó a kisvállalati adó hatálya alól kikerül, akkor
 

@@ -2,7 +2,7 @@
 
 39. § (1) Állandó jelleggel végzett iparűzési tevékenység esetén – a (6) bekezdésben foglaltakra is figyelemmel – az adó alapja a nettó árbevétel, csökkentve
 
-a) az eladott áruk beszerzési értéke és a közvetített szolgáltatások értéke, együttes – a (4)–(8) bekezdésben meghatározottak szerint számított – összegével,
+a) az eladott áruk beszerzési értéke és a közvetített szolgáltatások értéke, együttes – a (4)–(10) bekezdésben meghatározottak szerint számított – összegével,
 
 b) az alvállalkozói teljesítések értékével,
 
