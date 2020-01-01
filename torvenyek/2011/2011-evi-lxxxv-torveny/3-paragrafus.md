@@ -110,7 +110,7 @@ e) a teljes egészében megújuló forrásból származó alapanyagból és – 
 
 f) olyan reklámhordozó papírt hoz belföldön forgalomba, használ fel saját célra vagy vesz készletre,
 
-fa) amely teljes nyomtatott felületére vetítve legfeljebb 50%-ában gazdasági reklám terjesztésére szolgál, vagy
+fa) amely teljes nyomtatott felületére vetítve legfeljebb ötven százalékában gazdasági reklám terjesztésére szolgál, vagy
 
 fb) amelyet közhasznú szervezet, állami, önkormányzati szerv alapfeladata körében ad ki.
 

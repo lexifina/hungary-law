@@ -16,7 +16,7 @@ esetén.
 
 (2) A termékdíjbírság mértéke
 
-a) az (1) bekezdés a) pontja esetében a hiány 100%-a;
+a) az (1) bekezdés a) pontja esetében a hiány száz százaléka;
 
 b) az (1) bekezdés b) pontja esetén a visszaigényléssel vagy visszatérítéssel érintett összeg háromszorosa;
 

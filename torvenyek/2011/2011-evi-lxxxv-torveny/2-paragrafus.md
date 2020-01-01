@@ -12,7 +12,7 @@
 
 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 
-5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított 50%-os mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
+5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított ötven százalékos mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
 
 6. csekély mennyiségű kibocsátó: a tárgyévben
 
@@ -44,7 +44,7 @@ da) 40 kg háztartási nagygépet,
 
 db) 40 kg háztartási kisgépet,
 
-dc) 40 kg információs (IT) és távközlési berendezést, kivéve a rádiótelefon készüléket,
+dc) 40 kg információs (IT) és távközlési berendezést, kivéve a mobiltelefon készüléket,
 
 dd) 40 kg szórakoztató elektronikai cikket,
 
@@ -56,7 +56,7 @@ dg) 10 kg ellenőrző, vezérlő és megfigyelő eszközt,
 
 dh) 10 kg adagoló automatát,
 
-di) 5 kg rádiótelefon készüléket
+di) 5 kg mobiltelefon készüléket
 
 mindösszesen legfeljebb 100 kg elektromos, elektronikai terméket;
 
@@ -180,7 +180,7 @@ b) egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó
 
 ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-számmal ellátott könyvet, és a tankönyvjegyzékbe felvett tankönyvet;
 
-27. rétegzett italkarton: az a legalább 70%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
+27. rétegzett italkarton: az a legalább hetven százalékban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
 
 28. termékáram: az egyes termékek hulladékgazdálkodási szempontok alapján képzett termékcsoportonkénti összessége;
 

@@ -14,7 +14,7 @@ f) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkod
 
 g) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában.
 
-(2) Az állami hulladékgazdálkodást közvetítő szervezet az (1) bekezdés g) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
+(2) Az állami hulladékgazdálkodást közvetítő szervezet az (1) bekezdés g) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább hét százalékát a lakosság környezettudatos nevelésére fordítja.
 
 (3) Az állami hulladékgazdálkodást közvetítő szervezet az (1) bekezdés d) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
 
