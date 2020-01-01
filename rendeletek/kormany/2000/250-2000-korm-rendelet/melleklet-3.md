@@ -150,15 +150,7 @@
 
 ## ab) személyi jellegű egyéb kifizetések
 
-## Ebből: – társadalombiztosítási költségek
-
-## = nyugdíjjal kapcsolatos költségek
-
 ## ac) bérjárulékok
-
-## Ebből: – társadalombiztosítási költségek
-
-## = nyugdíjjal kapcsolatos költségek
 
 ## b) egyéb igazgatási költségek (anyag jellegű ráfordítások)
 
@@ -228,6 +220,6 @@
 
 ## 23. Tárgyévi eredmény (21-22)
 
-3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^366]
+3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^369]
 
-[^366]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a szerint módosított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^369]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, a 343/2019. (XII. 23.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

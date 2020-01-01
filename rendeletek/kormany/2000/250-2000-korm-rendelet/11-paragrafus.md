@@ -16,7 +16,7 @@ e) az egyéb befektetési szolgáltatás bevételeként, illetve ráfordításak
 
 (4) Az általános igazgatási költségek között kell kimutatni pénzügyi intézmények működése során a pénzügyi és befektetési szolgáltatásokkal kapcsolatban felmerült összes általános, banküzemi költséget a személyi jellegű ráfordítások és egyéb igazgatási költségek bontásban. A személyi jellegű ráfordításokon belül külön kiemelten kell bemutatni a bérköltséget, a személyi jellegű egyéb kifizetéseket és a bérjárulékokat. Az egyéb igazgatási költségek között az anyagjellegű ráfordításokat kell kimutatni.
 
-(5)[^162] A személyi jellegű egyéb kifizetésekből és a bérjárulékokból külön kiemelten kell bemutatni a társadalombiztosítási költségeket, azon belül pedig a nyugdíjjal kapcsolatos költségeket. A társadalombiztosítási költségekben kell figyelembe venni a munkáltatót terhelő táppénzt, a korengedményes nyugdíjhoz való hozzájárulás, az önkéntes kölcsönös biztosító pénztárakba és a magánnyugdíjpénztárakba fizetett tagdíjkiegészítés és tagdíj-hozzájárulás összegét, a nyugdíjbiztosítási járulék, az egészségbiztosítási járulék és az egészségügyi hozzájárulás összegét. Nyugdíjjal kapcsolatos költségként kell figyelembe venni az önkéntes kölcsönös biztosító pénztárakba, a magánnyugdíjpénztárakba fizetett tagdíjkiegészítés és tagdíj-hozzájárulás összegét, a korengedményes nyugdíjhoz való hozzájárulás és a nyugdíjbiztosítási járulék összegét.
+(5)[^162]
 
 (6) Az üzleti évben elszámolt értékcsökkenési leírást az eredménykimutatásban önálló költségtételként kell bemutatni.
 
@@ -42,7 +42,7 @@ e) az egyéb befektetési szolgáltatás bevételeként, illetve ráfordításak
 [^159]: A 11. § (1) bekezdés d) pontja a 484/2015. (XII. 29.) Korm. rendelet 69. § 6. pontja szerint módosított szöveg.
 [^160]: A 11. § (2) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 60. §-ával megállapított szöveg.
 [^161]: A 11. § (3) bekezdése a 238/2003. (XII. 17.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
-[^162]: A 11. § (5) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 48. §-a szerint módosított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^162]: A 11. § (5) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^163]: A 11. § (7) bekezdése a 238/2003. (XII. 17.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^164]: A 11. § (7a) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 27. §-a iktatta be.
 [^165]: A 11. § (8) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.

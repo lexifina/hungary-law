@@ -492,6 +492,6 @@
 
 ## [8-9+10+11±12+13+14 ±15]
 
-2. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^365]
+2. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^368]
 
-[^365]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (2) bekezdésével megállapított szöveg.
+[^368]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (2) bekezdésével megállapított, a 343/2019. (XII. 23.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
