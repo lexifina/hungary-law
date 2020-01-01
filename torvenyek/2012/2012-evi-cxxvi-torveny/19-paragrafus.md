@@ -28,4 +28,4 @@ k) az országos, valamint a megyei küldöttgyűlési küldöttek választása r
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 
-(4) A (2) bekezdés e) pontjában foglalt díjat a közszolgálati tisztségviselőkről szóló törvény illetményrendszere alapján kell megállapítani.
+(4)

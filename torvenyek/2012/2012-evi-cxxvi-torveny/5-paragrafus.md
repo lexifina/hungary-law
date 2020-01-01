@@ -24,7 +24,7 @@ keletkezik.
 
 (3) Azon őstermelő, aki tárgyévben hatályos, de nem érvényesített őstermelői igazolvánnyal rendelkezik, a tárgyév negyedik hónapjától agrárkamarai tagságából származó jogait kizárólag az őstermelői igazolvány érvényesítését követően gyakorolhatja.
 
-(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és vált ki egyéni vállalkozói igazolványt, vagy egyéni vállalkozását egyéni céggé alakítja át.
+(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
 
 (5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony az őstermelői igazolvány hatálya miatt egyébként fennáll.
 

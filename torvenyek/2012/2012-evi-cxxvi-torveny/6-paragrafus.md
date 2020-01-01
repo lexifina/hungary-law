@@ -34,7 +34,7 @@ dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezet a m
 
 (3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tag jegyzékből.
 
-(4) Az őstermelői igazolvánnyal és egyéni vállalkozói igazolvánnyal is rendelkező agrárkamarai tag tagsági viszonya kizárólag abban az esetben szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen állnak fenn.
+(4) Az őstermelői igazolvánnyal rendelkező, egyéni vállalkozói tevékenységet folytató agrárkamarai tag tagsági viszonya kizárólag abban az esetben szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen állnak fenn.
 
 (5) Az önkéntesen vállalt agrárkamarai tagság az agrárkamara alapszabályában meghatározottak szerint szűnik meg.
 
