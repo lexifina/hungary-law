@@ -1,24 +1,8 @@
-## 1. a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 19. § (2) bekezdésében biztosított jogkörében eljárva elrendeli
-
-## a) a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 29. Döge Község útfelújítási feladatainak támogatása cím, a 30. Pátroha Önkormányzat szabadtéri eszközök telepítése feladatainak támogatása cím, valamint a 31. Kisvárda, Szüret utca szilárd burkolatú út kiépítése és csapadékvíz elvezetése kivitelezési feladatainak támogatása cím létrehozását,
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 1. Nemzeti Fejlesztési Minisztérium igazgatása cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 29. Döge Község útfelújítási feladatainak támogatása cím javára 110 millió forint, 30. Pátroha Önkormányzat szabadtéri eszközök telepítése feladatainak támogatása cím javára 8 millió forint, 31. Kisvárda, Szüret utca szilárd burkolatú út kiépítése és csapadékvíz elvezetése kivitelezési feladatainak támogatása cím javára 122 millió forint egyszeri átcsoportosítását az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. egyetért azzal, hogy a belügyminiszter az 1. pont b) alpontja szerint átcsoportosított összegek terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben nyújtson
 
-## a)[^1] 110 millió forint támogatást Döge Község Önkormányzata részére a 3832. j. országos közutat a Rétközi-tó medencéjével összekötő út felújítása céljából,
+## a)[^2] 110 millió forint támogatást Döge Község Önkormányzata részére a 3832. j. országos közutat a Rétközi-tó medencéjével összekötő út felújítása céljából,
 
 ## b) 8 millió forint támogatást Pátroha Önkormányzata részére a gyermekek egészséges életvitelének kialakítását biztosító szabadtéri eszközök telepítése céljából,
 
@@ -38,60 +22,8 @@
 
 ## 4. egyetért azzal, hogy ha a 3. pont szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2016. évben nem vagy nem teljes összegben kerül folyósításra, a 2017. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címekre e határozatot kell alkalmazni.
 
-1. melléklet az 1797/2016. (XII. 19.) Korm. határozathoz
+1. melléklet az 1797/2016. (XII. 19.) Korm. határozathoz[^3]
 
-| XVII. Nemzeti Fejlesztési Minisztérium IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2016. ezer forintban |
-
-| Állam- háztar- tási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | K I A D Á S O K | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | IX. |  |  |  |  |  | IX. Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 363617 |  | 29 |  |  |  |  |  | Döge Község útfelújítási feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 110 000 |  |  |  |
-
-| 363628 |  | 30 |  |  |  |  |  | Pátroha Önkormányzat szabadtéri eszközök telepítése feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 8 000 |  |  |  |
-
-| 363639 |  | 31 |  |  |  |  |  | Kisvárda, Szüret utca szilárd burkolatú út kiépítése és csapadékvíz elvezetése kivitelezési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 122 000 |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 280645 |  | 1 |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -240 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |
-
-| Állam- háztar- tási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | BEVÉTEL Kiemelt előirányzat neve | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ezer forintban |
-
-| Állam- háztar- tási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 280645 |  | 1 |  |  |  |  |  | Nemzeti Fejlesztési Minisztérium igazgatása |  |  |  |  |  |  |  |  |  | -240 000 |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki |  | Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: |  |  |  |  |  |  |  |  | I. né. | II. né. | III. né. | IV. né. |
-
-| Fejezetet irányító szerv |  |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  |  |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  |  |  | 1 példány |  |  | egyéb: azonnal |  |  | 240 000 |  |  |  |  |  |  |  |  |  |  |  | 240 000 |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: A 2. pont a) alpontja az 1441/2017. (VII. 4.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a) alpontja az 1441/2017. (VII. 4.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
