@@ -6,4 +6,6 @@
 
 (4) A Nyilvántartás alapadataihoz kapcsolódó mellékletek tekintetében az (1)–(3) bekezdés rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a dokumentumok valóságtartalmáért azok kiállítója tartozik helytállni.
 
-(5) A területi természetvédelmi hatóság, az országos természetvédelmi hatóság a Nyilvántartásba történő bejegyzés céljából megküldi a miniszter számára valamennyi, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységekre vonatkozó határozatát és a határozat kiadásának alapjául szolgáló kérelmet, valamint engedélyezési dokumentációt.
+(5)[^1] A Nyilvántartásba be kell jegyezni valamennyi, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységekre vonatkozó adatot.
+
+[^1]: A 6. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 179. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
