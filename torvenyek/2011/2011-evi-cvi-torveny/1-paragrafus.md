@@ -12,7 +12,7 @@ d) a helyi vagy azon túlmutató közösségi – így különösen – egészs�
 
 e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati jogviszonyt.
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
