@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-66-00-00
 | 2018-01-02 | 2010. évi CXXX. törvény | 2016-66-00-00.15 |
 | 2018-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-66-00-00.16 |
 | 2018-07-02 | 2010. évi CXXX. törvény | 2016-66-00-00.17 |
+| 2020-01-01 | 2019. évi LXXIII. törvény | 2016-66-00-00.18 |
