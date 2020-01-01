@@ -1,12 +1,13 @@
-## 5. § Hatályát veszti a Rendelet 5. § (10) bekezdés d) pontja.
+## 5. §[^4]
 
-6. § (1) A Rendelet 1. melléklete helyébe az 1. melléklet lép.
+6. § (1)[^5]
 
-(2)[^2]
+(2) A Rendelet 1. melléklete helyébe a 2. melléklet lép.
 
-(3) A Rendelet 2. melléklete helyébe a 3. melléklet lép.
+(3)[^6]
 
-(4)[^3]
+(4) A Rendelet 2. melléklete helyébe a 4. melléklet lép.
 
-[^2]: A 6. § (2) bekezdése a 7. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^3]: A 6. § (4) bekezdése a 7. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,8 @@
-## „2. melléklet az 58/2015. (XII. 30.) EMMI rendelethez
+4. melléklet a 35/2019. (XII. 30.) EMMI rendelethez
 
-## XX. Emberi Erőforrások Minisztériuma 2019. évi központi kezelésű kiadási előirányzatainak feladatterve
+„2. melléklet az 58/2015. (XII. 30.) EMMI rendelethez
+
+XX. Emberi Erőforrások Minisztériuma 2020. évi központi kezelésű kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -24,8 +26,4 @@
 
 | 5. | 377039 |  |  |  | 1 Az Emberi Erőforrások Minisztériuma rábízott vagyonába tartozó társaságok tőkeemelése, pótbefizetése | Az előirányzat felhasználásának célja a Polgári Törvénykönyvről szóló 2013. évi V. törvény előírásai szerinti tőkerendezés biztosítása. | gazdasági társaság | – | – | egyösszegű kifizetéssel részletekben történő kifizetéssel | – | – | – | – | - |
 
-## ”
-
-4. melléklet a 35/2019. (XII. 30.) EMMI rendelethez[^5]
-
-[^5]: A 4. melléklet a 7. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+”
