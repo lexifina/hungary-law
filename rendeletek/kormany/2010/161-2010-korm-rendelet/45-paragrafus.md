@@ -4,7 +4,7 @@
 
 (2) A rejtjeltevékenységet folytató szerv a rendszeresítési engedély iránti kérelemben benyújtja:
 
-a)[^21] a rejtjelző eszköz rejtjelzési architektúráját teljeskörűen tükröző elemeit: két működőképes példányát, illetve központi elemét,
+a)[^22] a rejtjelző eszköz rejtjelzési architektúráját teljeskörűen tükröző elemeit: két működőképes példányát, illetve központi elemét,
 
 b) a rejtjelző eszköz tervezett rendeltetésére vonatkozó információkat, beleértve a rejtjelezhető minősített adat javasolt legmagasabb minősítési szintjét,
 
@@ -16,7 +16,7 @@ e) a fejlesztő és gyártó nyilatkozatát a teljességről, megfelelőségről
 
 f) a rejtjelző eszköz rendeltetésszerű működtetéséhez szükséges biztonsági feltételrendszerre vonatkozó ajánlásokat,
 
-g)[^22] a rejtjelző eszköz működtetési szabályzatát, kezelési utasítását és a rejtjelző eszköz alkalmazásához szükséges egyéb dokumentumokat.
+g)[^23] a rejtjelző eszköz működtetési szabályzatát, kezelési utasítását és a rejtjelző eszköz alkalmazásához szükséges egyéb dokumentumokat.
 
 (3) A nemzeti minősített adatok védelmére alkalmazott, a NATO, az EU vagy az EU valamely tagállama által engedélyezett rejtjelző eszközök esetében rejtjeltevékenységet folytató szerv – a (2) bekezdésben foglaltaktól eltérően – a rendszeresítési engedély iránti kérelemben
 
@@ -28,8 +28,8 @@ nyújtja be.
 
 (4) Új vagy kiegészítő engedélyezési eljárásra van szükség, ha a rendszeresítési engedéllyel már rendelkező rejtjelző eszközt továbbfejlesztették, módosították.
 
-(5)[^23] Az NBF a rejtjelző eszközre vonatkozó – (2) bekezdés szerinti – rendszeresítési engedély kiadása során a rejtjelző eszköz mechanikai felépítése és bontásvédelme értékelésében az Információs Hivatalt vonhatja be szakértőként.
+(5)[^24] Az NBF a rejtjelző eszközre vonatkozó – (2) bekezdés szerinti – rendszeresítési engedély kiadása során a rejtjelző eszköz mechanikai felépítése és bontásvédelme értékelésében az Információs Hivatalt vonhatja be szakértőként.
 
-[^21]: A 45. § (2) bekezdés a) pontja a 323/2018. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^22]: A 45. § (2) bekezdés g) pontját a 323/2018. (XII. 28.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^23]: A 45. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 302. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 45. § (2) bekezdés a) pontja a 323/2018. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^23]: A 45. § (2) bekezdés g) pontját a 323/2018. (XII. 28.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^24]: A 45. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 302. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
