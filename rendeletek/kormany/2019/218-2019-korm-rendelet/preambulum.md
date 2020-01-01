@@ -1,0 +1,1 @@
+A Kormány a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény 28/P. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
