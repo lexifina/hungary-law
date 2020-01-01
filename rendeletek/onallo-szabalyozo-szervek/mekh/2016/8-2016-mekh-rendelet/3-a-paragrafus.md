@@ -8,7 +8,7 @@ a) a szagosítás,
 
 b) a jogcímátvezetés, amelynek során a szállítási rendszerüzemeltető a rendszerhasználó által megjelölt partnere számára, az általa meghatározott fizikai vagy virtuális ponton földgáz mennyiség feletti rendelkezési jogot vezet át,
 
-c) a szállítási rendszerüzemeltetővel egyensúlyozási szerződést kötött, de Kereskedelmi Platform tagsággal nem rendelkező rendszerhasználó esetén az egyensúlyozási szolgáltatás,
+c)[^3]
 
 d) az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatszolgáltatások,
 
@@ -17,3 +17,4 @@ e) a 15. § (3) bekezdés b) pontja szerinti csatlakozási szolgáltatások
 (a továbbiakban együtt: nem szállítási szolgáltatások).
 
 [^2]: A 3/A. alcímet (3/A. §) az 5/2019. (V. 31.) MEKH rendelet 2. §-a iktatta be.
+[^3]: A 3/A. § (2) bekezdés c) pontját a 15/2019. (XII. 14.) MEKH rendelet 1. § a) pontja hatályon kívül helyezte.

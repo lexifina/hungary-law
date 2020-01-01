@@ -1,6 +1,6 @@
-## 8.[^22]
+## 8.[^23]
 
-17. §[^23] (1) Ez a rendelet a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+17. §[^24] (1) Ez a rendelet a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -10,5 +10,5 @@ b) a 2017/460/EU bizottsági rendelet;
 
 c) a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet.
 
-[^22]: A 8. alcím (17. §) a 18. § alapján hatályát vesztette.
-[^23]: A 17. §-t az 5/2019. (V. 31.) MEKH rendelet 7. §-a iktatta be.
+[^23]: A 8. alcím (17. §) a 18. § alapján hatályát vesztette.
+[^24]: A 17. §-t az 5/2019. (V. 31.) MEKH rendelet 7. §-a iktatta be.
