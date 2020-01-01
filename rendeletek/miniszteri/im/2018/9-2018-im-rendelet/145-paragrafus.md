@@ -7,3 +7,7 @@
 a) a büntetőeljárás során az ártatlanság vélelme egyes vonatkozásainak és a tárgyaláson való jelenlét jogának erősítéséről szóló 2016. március 9-i (EU) 2016/343 parlamenti és tanácsi irányelvnek,
 
 b) a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU parlamenti és tanácsi irányelvnek
+
+c)[^11] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek
+
+[^11]: A 145. § c) pontját a 30/2019. (XII. 30.) IM rendelet 18. § (2) bekezdése iktatta be.

@@ -30,4 +30,8 @@ a) egy évet meghaladó végrehajtandó szabadságvesztésre, vagy
 
 b) a szabadságvesztés mellett vagy önálló büntetésként az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásra ítélte.
 
+(7a)[^1] Ha a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 55. §-a alapján a foglalkozástól eltiltásról más tagállam hatóságát tájékoztatni kell, a Bv. tv. 297. § (1) és (1b) bekezdésében foglaltak teljesítése érdekében a bíróság az (5) bekezdésben foglaltak iránt haladéktalanul intézkedik, és ez alapján a bv. bíró a (6) bekezdés szerint haladéktalanul értesíti a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet 3. számú melléklete alapján kijelölt szervet.
+
 (8) A bv. bíró a (6) bekezdés szerinti értesítést megküldi az elítélt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes rendőrkapitányságnak is. Ha az elítélt magyarországi bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkezik, a bíróság az értesítőlapot az elsőfokon eljárt bíróság székhelye szerint illetékes rendőrkapitányságnak küldi meg.
+
+[^1]: Az 57. § (7a) bekezdését a 30/2019. (XII. 30.) IM rendelet 18. § (1) bekezdése iktatta be.
