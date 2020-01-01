@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1301-30
 | --- | --- | --- |
 | 2016-06-13 | 2016-1301-30-22.1 | 1301/2016. (VI. 13.) Korm. határozat |
 | 2016-06-14 | 2016-1301-30-22.2 | 2010: CXXX. törvény |
+| 2020-01-01 | 2016-1301-30-22.3 | 2011: CXCV. törvény |
