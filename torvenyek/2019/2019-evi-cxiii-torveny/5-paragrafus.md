@@ -1,0 +1,1 @@
+5. § Az öntözési igazgatási szerv öntözési kerületet jelöl ki a vízgyűjtő-gazdálkodási tervezési alegységek, a talajtani és vízföldtani adottságok, a domborzati és a vízrajzi viszonyok és az öntözés gazdaságossága figyelembevételével az öntözési célú vízilétesítmény hatásterületének megfelelően. Egy földrészlet csak egy öntözési kerület része lehet.

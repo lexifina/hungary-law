@@ -1,0 +1,7 @@
+2. § (1) Az öntözéses gazdálkodás folytatása érdekében a vízilétesítmény vízjogi engedélyese öntözési szolgalomra jogosult, amely alapján a szolgáló ingatlan tulajdonosa, használója köteles tűrni, hogy az ingatlanán az öntözéses gazdálkodást folytató mezőgazdasági termelő a mezőgazdasági tevékenysége folytatásához szükséges öntözést szolgáló vonalas vízilétesítményt létesítsen és üzemeltessen, az ehhez szükséges vízimunkákat elvégezze, illetve az öntözőberendezést átvezesse, ha az az ingatlan rendeltetésszerű használatát nem zárja ki.
+
+(2) Az öntözési szolgalom a vízjogi engedélyben meghatározott engedélyest addig illeti meg, amíg a vízjogi engedély alapján folytatja tevékenységét.
+
+(3) Az öntözési szolgalmat a vízügyi hatóság a vízjogi létesítési vagy üzemeltetési engedélyben alapítja, amelyet az ingatlan-nyilvántartásba történő bejegyzés érdekében megküld az ingatlanügyi hatóságnak. Ha a vízilétesítmény vízjogi engedélyesének személye megváltozik, kérelmére a vízügyi hatóság megállapítja az öntözési szolgalom új jogosultját és az erről szóló döntését az ingatlan-nyilvántartásban történő átvezetés érdekében megküldi az ingatlanügyi hatóságnak.
+
+(4) Ha a vízjogi engedélyes a tevékenységével felhagy, a vízügyi hatóság rendelkezik az öntözési szolgalom megszüntetéséről, és e döntését az ingatlan-nyilvántartásban történő átvezetés érdekében megküldi az ingatlanügyi hatóságnak. Ha a vízilétesítmény az ingatlan rendeltetésszerű használatát akadályozza, a vízügyi hatóság elrendeli a vízilétesítmény megszüntetését.

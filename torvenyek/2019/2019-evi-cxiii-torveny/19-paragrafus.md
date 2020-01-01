@@ -1,0 +1,3 @@
+19. § A termőföld védelméről szóló 2007. évi CXXIX. törvény a következő 50/B. §-sal egészül ki:
+
+„50/B. § Öntözési tevékenység esetén az ellenőrző vizsgálatokat tartalmazó talajvédelmi terv alapján a talajvédelmi hatóság dönt arról, hogy továbbra is fennállnak-e az öntözés folytatásának talajvédelmi feltételei.”
