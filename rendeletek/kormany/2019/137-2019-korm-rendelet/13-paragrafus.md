@@ -1,3 +1,3 @@
-## 12. §[^12]
+## 12. § Az R. 63/A. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^12]: A 12. § a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „(6) A miniszter központi költségvetési forrásból biztosítja a közszolgáltatási szerződésben foglalt szolgáltatások ellátásának fedezetét, amely kizárólag a közszolgáltatási szerződés alapján a 3. mellékletben meghatározott szervek részére a 4. mellékletben meghatározott szolgáltatások központi szolgáltató általi ellátásának finanszírozására szolgál. A közszolgáltatási szerződésben nem rögzített egyedi igények kielégítésére a 3. mellékletben meghatározott szervek egyedi szolgáltatási megállapodást kötnek a központi szolgáltatóval.”

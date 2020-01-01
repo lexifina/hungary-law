@@ -1,3 +1,1 @@
-## 11. §[^11]
-
-[^11]: A 11. § a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „(8) A közfeladatot ellátó szerv az iratról készített hiteles elektronikus másolat megőrzése mellett is megőrzi a maradandó értékű eredeti papíralapú iratot, ha ez az illetékes levéltár megállapítása szerint indokolt. A közfeladatot ellátó szerv azon maradandó értékű irat esetében, amelyről hiteles elektronikus másolatot készített, a papíralapú példány megőrzéséről negyedéves időszakonként kéri az illetékes levéltár nyilatkozatát. A maradandó értékű irat papíralapú változata az illetékes levéltár egyetértő nyilatkozata esetén az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíthető. Az illetékes levéltár által papír alapon is megőrzendőnek ítélt maradandó értékű iratot a közfeladatot ellátó szerv a levéltárba adásig papíralapú iratként megőrzi.”
