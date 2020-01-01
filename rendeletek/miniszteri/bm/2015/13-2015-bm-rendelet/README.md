@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-13-20-0
 | 2018-01-01 | 2015-13-20-0A.4 | 42/2017. (XII. 29.) BM rendelet |
 | 2018-01-29 | 2015-13-20-0A.5 | 19/2016. (VI. 8.) BM rendelet |
 | 2019-01-01 | 2015-13-20-0A.6 | 2010: CXXX. törvény |
+| 2020-01-01 | 2015-13-20-0A.7 | 19/2016. (VI. 8.) BM rendelet |

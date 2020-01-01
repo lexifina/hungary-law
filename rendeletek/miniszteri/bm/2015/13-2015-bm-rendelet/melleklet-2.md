@@ -156,7 +156,7 @@
 
 | 74. | 6. Vízjogi üzemeltetési engedély (kivéve a 7. pont) [72/1996. (V. 22.) Korm. rendelet 5. §] | A vízjogi létesítési engedélyre megállapított díjtételek 80%-a |
 
-| 75. | 7. Egynyári öntözésre szóló vízjogi üzemeltetési engedély [72/1996. (V. 22.) Korm. rendelet 5. § (12)–(13) bekezdés] | 5 000 |
+| 75. |  |  |
 
 | 76. | 8. Vízjogi üzemeltetési engedély szüneteltetése, visszavonása [72/1996. (V. 22.) Korm. rendelet 13–14. §] | A vízjogi üzemeltetési engedélyre megállapított díjtétel 50%-a |
 
@@ -178,4 +178,4 @@
 
 2. melléklet a 13/2015. (III. 31.) BM rendelethez[^5]
 
-[^5]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése szerint módosított szöveg.

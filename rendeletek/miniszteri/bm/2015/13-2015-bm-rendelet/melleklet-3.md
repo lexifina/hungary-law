@@ -20,7 +20,7 @@
 
 | 9. | Tárolótartály, veszélyes töltetű nyomástartó berendezés létesítési, használatbavételi és javítási engedélyezési eljárása [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 12. táblázat 2., 3., 8., 9. sor] | 18 000 |
 
-| 10. | Természetes fürdővízzé nyilvánítás, fürdőhely kijelölés, fürdővízprofilra irányuló vagy vízminőség romlásánál lefolytatott eljárás, természetes vizek minőségi védelmének vizsgálata [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 13. táblázat 5., 9., 10., 11. sor] | 8000 |
+| 10. | Fürdőhely kijelölésére irányuló eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 13. táblázat 9. sor] | 8000 |
 
 | 11. | Az építésügyi hatóság hatáskörébe tartozó építési, összevont, az engedély hatályának meghosszabbítási, illetve fennmaradási engedélyezési eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 4. táblázat 17–18. sor] | 14 000 |
 
