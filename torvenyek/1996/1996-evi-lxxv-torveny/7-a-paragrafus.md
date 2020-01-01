@@ -4,7 +4,7 @@
 
 a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén az engedély nélkül alkalmazott harmadik országbeli állampolgár részére a foglalkoztatás megkezdésétől az engedély nélküli foglalkoztatás megállapításáig kifizetett munkabér (munkadíj) négyszeresének, de legalább a kötelező legkisebb munkabér (a továbbiakban: minimálbér) nyolcszorosának,
 
-b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jogerőre emelkedésétől számított három éven belül megállapított ismételt engedély nélküli foglalkoztatás esetén a harmadik országbeli állampolgár részére a folyamatos foglalkoztatása megkezdésétől az engedély nélküli foglalkoztatás ismételt megállapításáig kifizetett munkabér (munkadíj) nyolcszorosának, de legalább a minimálbér tizenötszörösének
+b) a korábbi engedély nélküli foglalkoztatást megállapító határozat véglegessé válásától számított három éven belül megállapított ismételt engedély nélküli foglalkoztatás esetén a harmadik országbeli állampolgár részére a folyamatos foglalkoztatása megkezdésétől az engedély nélküli foglalkoztatás ismételt megállapításáig kifizetett munkabér (munkadíj) nyolcszorosának, de legalább a minimálbér tizenötszörösének
 
 megfelelő összeg.
 
@@ -12,7 +12,7 @@ megfelelő összeg.
 
 a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén a minimálbér kétszeresének,
 
-b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jogerőre emelkedésétől számított három éven belül megállapított ismételt jogsértés esetén a minimálbér négyszeresének
+b) a korábbi engedély nélküli foglalkoztatást megállapító határozat véglegessé válásától számított három éven belül megállapított ismételt jogsértés esetén a minimálbér négyszeresének
 
 megfelelő összeg terheli.
 

@@ -4,7 +4,7 @@ a) a Tanács 1993. november 23-i 93/104/EK irányelve a munkaidő-szervezés egy
 
 b) a Tanács 1975. február 10-i irányelve a férfiak és a nők egyenlő díjazása elvének alkalmazására vonatkozó tagállami jogszabályok közelítéséről a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
 
-c) a Tanács 1976. február 9-i 76/207/EGK irányelve a férfiak és a nők közötti egyenlő bánásmód elvének a munkavállalás, a szakképzés, az előmenetel és a munkakörülmények terén történő végrehajtásáról, a Munka Törvénykönyve, a szakképzésről szóló 1993. évi LXXI. törvény, valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény irányadó rendelkezéseivel együtt;
+c) a Tanács 1976. február 9-i 76/207/EGK irányelve a férfiak és a nők közötti egyenlő bánásmód elvének a munkavállalás, a szakképzés, az előmenetel és a munkakörülmények terén történő végrehajtásáról, a Munka Törvénykönyve, a szakképzésről szóló törvény, valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény irányadó rendelkezéseivel együtt;
 
 d) a Tanács 1991. október 14-i 91/533/EGK irányelve a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
 

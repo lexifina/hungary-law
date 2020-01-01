@@ -38,7 +38,7 @@ I. A végrehajtandó követeléssel kapcsolatos információk
 
 4. A végrehajtandó határozattal kapcsolatos információk:
 
-4.1. Az elsőfokú, valamint a jogerős és végrehajtható határozatot hozó szerv megjelölése, a határozat iktatószáma
+4.1. Az elsőfokú, valamint a végleges és végrehajtható határozatot hozó szerv megjelölése, a határozat iktatószáma
 
 4.2. A végrehajthatóvá válás időpontja
 

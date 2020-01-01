@@ -10,7 +10,7 @@ a) a (2) bekezdés szerinti megkeresés alapján kezdeményezi a részére megk�
 
 b) megküldi az (1) bekezdés szerinti intézkedés céljából a munkaügyi bírságot kiszabó végleges határozatot, valamint minden, a bírság behajtásához kapcsolódó dokumentumot, ideértve a behajtás iránti megkeresés végrehajtásának jogalapjául és jogcíméül szolgáló ítéletet vagy végleges határozatot, vagy annak hiteles másolatát.
 
-(5) A (2) bekezdés szerinti megkeresésének a munkaügyi hatóság akkor tesz eleget, ha a megkeresés tartalmaz minden, a pénzügyi szankció, illetve bírság behajtásához kapcsolódó dokumentumot, ideértve a behajtás iránti megkeresés végrehajtásának jogalapjául és jogcíméül szolgáló ítéletet vagy jogerős határozatot, vagy annak hiteles másolatát.
+(5) A (2) bekezdés szerinti megkeresésének a munkaügyi hatóság akkor tesz eleget, ha a megkeresés tartalmaz minden, a pénzügyi szankció, illetve bírság behajtásához kapcsolódó dokumentumot, ideértve a behajtás iránti megkeresés végrehajtásának jogalapjául és jogcíméül szolgáló ítéletet vagy végleges határozatot, vagy annak hiteles másolatát.
 
 (6) Az (1) bekezdés szerinti megkeresésre, illetve a (2) bekezdés szerinti megkeresés teljesítésének kezdeményezésére csak akkor kerülhet sor, ha a munkaügyi hatóság vagy a más EGT-állam megkereső hatósága a saját állama törvényeivel, rendeleteivel és közigazgatási gyakorlatával összhangban nem tudja biztosítani a szankció, illetve bírság behajtását, vagy teljesíteni a megküldést.
 

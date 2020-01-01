@@ -6,7 +6,7 @@
 
 a) a bányafelügyelet, a bányászatról szóló 1993. évi XLVIII. törvény hatálya alá tartozó bányavállalkozók és bányaüzemek, illetve a bányafelügyelet felügyelete alá tartozó tevékenységek vonatkozásában;
 
-b) a honvédelmi munkaügyi hatóság, a honvédelmi szervezet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, ideiglenes építési munkahely, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézmény, valamint azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja;
+b) a honvédelmi munkaügyi hatóság a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, ideiglenes építési munkahelynél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál;
 
 c) a rendvédelmi munkaügyi hatóság, a rendvédelmi szervek – a d) pontban meghatározott szervek kivételével – és az önkormányzati tűzoltóság vonatkozásában,
 
