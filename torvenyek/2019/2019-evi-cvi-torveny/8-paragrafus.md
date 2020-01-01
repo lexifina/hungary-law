@@ -1,3 +1,1 @@
-8. § Az Mktv. 31/G. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az NFI által nyújtott, valamint a 12. § (6) bekezdése szerinti megállapodások alapján más támogató által nyújtott támogatások esetén az NFI ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az NFI a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az NFI haladéktalanul megküldi a Hatóság részére. A Hatóságot a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének NFI által vizsgált részében az NFI által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.”
+8–9. §
