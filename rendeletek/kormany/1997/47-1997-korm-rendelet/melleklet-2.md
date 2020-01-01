@@ -20,7 +20,7 @@
 
 ## A lakástakarékpénztárnak a kollektív teljesítménymutató kiszámításánál azokat a szerződéseket kell figyelembe venni, amelyek az adott évben kikerülnek a lakástakarékpénztár szerződésállományából (kiutalt és felmondott szerződések).
 
-2. számú melléklet a 47/1997. (III. 12.) Korm. rendelethez[^30]
+2. számú melléklet a 47/1997. (III. 12.) Korm. rendelethez[^35]
 
 A 2. § (2) bekezdésének b) pontjában meghatározott egyéni teljesítménymutató kiszámításakor a következő képletet kell alkalmazni:
 
@@ -38,4 +38,4 @@ p = az adott szerződés lakáskölcsönére számított kölcsöndíj mutató [
 
 Az egyéni teljesítménymutató kiszámításánál a lakástakarékpénztárnak a havonta rendszeresen megtakarító lakáselőtakarékoskodót kell figyelembe vennie. Az egyéni teljesítménymutató értékét a minimális értékszám és a minimális megtakarítási hányad első alkalommal történő együttes teljesülését követő kiutalási időszak utolsó napjára kell kiszámítani.
 
-[^30]: A 2. számú melléklet a 47/2006. (III. 7.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. május 1. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^35]: A 2. számú melléklet a 47/2006. (III. 7.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. május 1. napját megelőzően kötött szerződésekre is alkalmazni kell.
