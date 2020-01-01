@@ -72,7 +72,7 @@ s) az állandó legelő vagy állandó gyep jogi jelleg feljegyzése,
 
 t) a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feljegyzése,
 
-u) az Inytv. 89/A. §-a szerinti zártkerti ingatlan művelés alóli kivonására irányuló eljárás,
+u)
 
 v) tulajdonosváltozás ingatlan-nyilvántartási bejegyzése öröklés jogcímén;
 

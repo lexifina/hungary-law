@@ -34,13 +34,15 @@ l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben megha
 
 m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés iránti perben,
 
-n) a törvényszéki végrehajtó a Magyar Államot illető végrehajtandó összeg iránti végrehajtási ügyben
+n)
 
 o) a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában,
 
 p) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet,
 
-q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében
+q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében,
+
+r) ügyfél öntözési beruházáshoz kapcsolódóan
 
 kéri.
 
