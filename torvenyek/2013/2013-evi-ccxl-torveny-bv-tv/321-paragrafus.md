@@ -1,6 +1,6 @@
 ## Az elkobzott dolog értékesítése, megsemmisítése
 
-321. § (1) Az elkobzott dolgot rendszerint értékesíteni kell. Az értékesítés elsősorban kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet vagy egyéni vállalkozó közreműködésével történő eladás útján, vagy a bírósági végrehajtó által tartott árverésen történhet.
+321. § (1) Az elkobzott dolgot rendszerint értékesíteni kell. Az értékesítés elsősorban kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet vagy egyéni vállalkozó közreműködésével történő eladás útján, vagy az állami adó- és vámhatóság által tartott árverésen történhet.
 
 (2) Az elkobzott dolgot meg lehet semmisíteni, ha
 

@@ -1,6 +1,6 @@
-## Az oktatásban, szakképzésben vagy továbbképzésen részt vevők kedvezményei
+## A köznevelésben, a szakképzésben vagy a felnőttképzésben részt vevők kedvezményei
 
-183. § (1) Az általános iskolai oktatásban, a középfokú iskolai oktatásban, szakképzésben és továbbképzésben részt vevő, valamint felsőfokú tanulmányokat folytató dolgozó elítélteket a vizsgára való felkészüléshez tanévenként a munkavégzés alól jogszabályban meghatározott időre – saját kérésére – fel kell menteni.
+183. § (1) A köznevelésben, a szakképzésben, illetve a felnőttképzésben részt vevő, valamint felsőfokú tanulmányokat folytató dolgozó elítélteket a vizsgára való felkészüléshez tanévenként a munkavégzés alól jogszabályban meghatározott időre – saját kérésére – fel kell menteni.
 
 (2) A felmentést a vizsgát megelőzően legfeljebb egy hónappal a bv. intézet parancsnoka engedélyezi.
 

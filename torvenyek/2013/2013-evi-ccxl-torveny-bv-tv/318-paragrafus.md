@@ -10,7 +10,7 @@ a) a törvényszék gazdasági hivatala,
 
 b) a hatáskörébe tartozó bűncselekmény miatt folyó büntetőeljárásban lefoglalt dolog esetén a Nemzeti Adó- és Vámhivatal,
 
-c) ingatlan esetén a bírósági végrehajtó
+c) ingatlan esetén az állami adó- és vámhatóság
 
 hajtja végre.
 

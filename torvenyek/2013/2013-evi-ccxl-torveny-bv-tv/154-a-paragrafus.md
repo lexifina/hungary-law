@@ -4,7 +4,7 @@ a) 122. § b), e), n) és o) pontjában, 123. § (1) bekezdésében meghatározo
 
 b) bv. intézeten kívüli munkavégzését,
 
-c) szakképzésben és továbbképzésben való részvételét, valamint
+c) szakképzésben és felnőttképzésben való részvételét, valamint
 
 d) a magánál tartható tárgyainak körét
 

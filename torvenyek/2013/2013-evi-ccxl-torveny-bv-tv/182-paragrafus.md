@@ -1,6 +1,6 @@
 182. § (1) A bv. intézet parancsnokának döntése alapján az elítéltet különös méltánylást érdemlő esetben
 
-a) az iskolarendszeren kívüli szakoktatás vagy
+a) a nem a bv. intézet által szervezett szakmai képzés vagy
 
 b) a felsőfokú tanulmányok folytatása
 

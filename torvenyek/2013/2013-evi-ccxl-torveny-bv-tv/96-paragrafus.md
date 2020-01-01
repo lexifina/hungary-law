@@ -16,7 +16,7 @@ g) a dolgozó elítélt más munkahelyre történő áthelyezése, munkahelyről
 
 h) a bv. szerv orvosának javaslata alapján döntés a munkaterápiás foglalkoztatásról, annak munkaidejéről és munkarendjéről,
 
-i) az oktatásra, a szakképzésre és a továbbképzésre jelentkezők beiskolázása,
+i) az oktatásra, a szakképzésre és a felnőttképzésre jelentkezők beiskolázása,
 
 j) a hosszúidős speciális részlegen történő elhelyezés vagy annak megszüntetése,
 
