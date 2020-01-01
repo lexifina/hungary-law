@@ -1,6 +1,6 @@
 ## 14. Képzésekkel, továbbképzésekkel szemben támasztott követelmények
 
-21. §[^65] (1) Az alapfokozatú képzésen és továbbképzésen az oktatást egyetlen oktató is végezheti. A bővített fokozatú képzésen és továbbképzésen az oktatást legalább két, átfogó fokozatú képzésen és továbbképzésen legalább öt – témakörönként kiválasztott – olyan oktató végezheti, aki sugárvédelmi szakértői és felsőfokú műszaki vagy tudományos végzettséggel, valamint a témakörnek megfelelő szakmai tapasztalattal rendelkezik.
+21. §[^66] (1) Az alapfokozatú képzésen és továbbképzésen az oktatást egyetlen oktató is végezheti. A bővített fokozatú képzésen és továbbképzésen az oktatást legalább két, átfogó fokozatú képzésen és továbbképzésen legalább öt – témakörönként kiválasztott – olyan oktató végezheti, aki sugárvédelmi szakértői és felsőfokú műszaki vagy tudományos végzettséggel, valamint a témakörnek megfelelő szakmai tapasztalattal rendelkezik.
 
 (2) Az alapfokozatú képzést legalább írásbeli vizsga, a bővített, átfogó (szakértői) fokozatú képzést és továbbképzést írásbeli és szóbeli vizsga zárja. A vizsgát vizsgabizottság előtt kell letenni. A vizsgabizottság tagjai a vizsgabizottság elnöke, és legalább egy, átfogó fokozatú képzés esetén legalább kettő oktató. A vizsgáztatást a vizsgabizottság elnöke vezeti. Amennyiben a szóbeli vizsgázók száma meghaladja a 40 főt, abban az esetben két külön elnök által vezetett vizsgabizottságot kell kijelölni. A vizsgáztatás részletes követelményeit a 4. melléklet részletezi.
 
@@ -32,4 +32,4 @@ c) szakértői fokozatú vizsga esetén a mindenkori havi garantált bérminimum
 
 (13) A képzést és továbbképzést záró vizsga időpontja legkorábban a képzés vagy továbbképzés utolsó oktatási napját követő munkanapon lehet. A pótvizsga legkorábban az eredménytelen vizsgát követő 5. munkanapon történhet.
 
-[^65]: A 21. § a 27/2018. (II. 28.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^66]: A 21. § a 27/2018. (II. 28.) Korm. rendelet 25. §-ával megállapított szöveg.

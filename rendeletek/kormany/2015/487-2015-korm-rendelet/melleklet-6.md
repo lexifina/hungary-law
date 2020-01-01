@@ -24,6 +24,6 @@
 
 | 11. | Orvosi és állatorvosi terápiás munkahelyek | Röntgenterápia |  |  |
 
-6. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^214]
+6. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^215]
 
-[^214]: A 6. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (2) bekezdése szerint módosított szöveg.
+[^215]: A 6. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (2) bekezdése szerint módosított szöveg.

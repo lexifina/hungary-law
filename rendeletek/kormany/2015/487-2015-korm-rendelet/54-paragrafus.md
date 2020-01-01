@@ -1,6 +1,6 @@
 ## 35. Engedélykérelmek
 
-54. §[^170] (1) Az engedélykérelemnek tartalmaznia kell:
+54. §[^171] (1) Az engedélykérelemnek tartalmaznia kell:
 
 a) a kérelmező megnevezését és címét,
 
@@ -226,4 +226,4 @@ b) 1 évnél nem régebbi zártságvizsgálati jegyzőkönyvet.
 
 (23) Az 53. § (1) bekezdés 1. pontja szerinti eljáráshoz a 7. melléklet 1. táblázatába foglalt adatlapot, az 53. § (1) bekezdés 2. pontja szerinti eljáráshoz a 7. melléklet 2. táblázatába foglalt adatlapot, az 53. § (1) bekezdés 4. pontja szerinti eljáráshoz a 7. melléklet 3. táblázatába foglalt adatlapot kell kitölteni.
 
-[^170]: Az 54. § a 27/2018. (II. 28.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^171]: Az 54. § a 27/2018. (II. 28.) Korm. rendelet 48. §-ával megállapított szöveg.

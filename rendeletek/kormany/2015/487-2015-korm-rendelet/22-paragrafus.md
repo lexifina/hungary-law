@@ -14,7 +14,7 @@ b) felelős a sugárvédelmi előírások betartásáért.
 
 (3) Ha a munkavégzés felügyelete kép- és hangátvitelt biztosító távfelügyelettel megoldható, a sugárveszélyes munkát megfelelő szakmai és sugárvédelmi képzettségű munkavállaló egyedül is végezheti.
 
-(4)[^66] Egyedül is végezhető sugárveszélyes tevékenység, ha a sugárvédelmi szakértő által készített, 7. melléklet szerinti Sugárvédelmi Leírás részét képező értékelés igazolja, hogy az önállóan, megfelelő szakmai és sugárvédelmi képzettséggel rendelkező szakember által végzett sugárveszélyes tevékenység – a rendkívüli esemény bekövetkezését is beleértve – végrehajtásakor:
+(4)[^67] Egyedül is végezhető sugárveszélyes tevékenység, ha a sugárvédelmi szakértő által készített, 7. melléklet szerinti Sugárvédelmi Leírás részét képező értékelés igazolja, hogy az önállóan, megfelelő szakmai és sugárvédelmi képzettséggel rendelkező szakember által végzett sugárveszélyes tevékenység – a rendkívüli esemény bekövetkezését is beleértve – végrehajtásakor:
 
 a) nem lép fel olyan mértékű sugárterhelés, radioaktív szennyeződés vagy személyi sérülés, amely a munkavállalóra vonatkozó dóziskorlátok meghaladását eredményezheti, vagy a munkavállaló sürgős megfigyelését és kezelését igényli,
 
@@ -24,7 +24,7 @@ c) a sugárveszélyes tevékenység optimálásakor figyelembe vették az önál
 
 d) a tevékenység nem I. sugárvédelmi kategóriába, valamint csomagolatlan nyitott sugárforrások kezelésével járó II. sugárvédelmi kategóriába tartozó tevékenység.
 
-(5)[^67] A (4) bekezdés a) és b) pontjában foglalt feltételekkel megfeleltethetőek az alábbi tevékenységek:
+(5)[^68] A (4) bekezdés a) és b) pontjában foglalt feltételekkel megfeleltethetőek az alábbi tevékenységek:
 
 a) az orvosi és állatorvosi célú röntgendiagnosztikai vizsgálat orvosi és állatorvosi munkahelyen történő végrehajtása, ha azt megfelelő szakmai és sugárvédelmi képzettségű orvos, állatorvos, egészségügyi vagy állatorvosi asszisztens végzi,
 
@@ -38,7 +38,7 @@ e) a veszélyes áruk szállítására vonatkozó előírások szerint a radioak
 
 f) a sugárveszélyes munkahely rutinszerű, radioaktív anyagok kezelésével nem járó sugárvédelmi ellenőrző tevékenységének ellátása.
 
-(5a)[^68] Az engedélyes felelőssége kiterjed
+(5a)[^69] Az engedélyes felelőssége kiterjed
 
 a) a munkavállalók egyéni védőeszközzel való ellátására,
 
@@ -72,6 +72,6 @@ gb) figyelemmel a szoptatott csecsemő sugárterhelésének kockázatára radion
 
 (8) Az (1)–(7) bekezdés előírásai az önfoglalkoztatók és az önkéntes munkát végzők védelmére is vonatkoznak.
 
-[^66]: A 22. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^67]: A 22. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^68]: A 22. § (5a) bekezdését a 27/2018. (II. 28.) Korm. rendelet 26. §-a iktatta be.
+[^67]: A 22. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^68]: A 22. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^69]: A 22. § (5a) bekezdését a 27/2018. (II. 28.) Korm. rendelet 26. §-a iktatta be.

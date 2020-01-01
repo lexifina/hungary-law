@@ -50,15 +50,15 @@
 
 24. a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló rendelet szerinti helyi nyilvántartás megfelelő módon történő vezetése.
 
-(3)[^105] A kiemelt létesítményben, valamint az I. és II. sugárvédelmi kategóriába tartozó tevékenységet végző engedélyes szervezetén belül a sugárvédelmi megbízott mellé helyettest is ki kell írásban nevezni, kivéve a legfeljebb 2 főből álló szervezeteket.
+(3)[^106] A kiemelt létesítményben, valamint az I. és II. sugárvédelmi kategóriába tartozó tevékenységet végző engedélyes szervezetén belül a sugárvédelmi megbízott mellé helyettest is ki kell írásban nevezni, kivéve a legfeljebb 2 főből álló szervezeteket.
 
-(4)[^106] A sugárvédelmi megbízott feladatait az atomenergia alkalmazójának szervezetén belül létrehozott létesítményi sugárvédelmi szervezet vagy sugárvédelmi szakértő is elláthatja. A sugárvédelmi szervezet vezetője a sugárvédelmi megbízott.
+(4)[^107] A sugárvédelmi megbízott feladatait az atomenergia alkalmazójának szervezetén belül létrehozott létesítményi sugárvédelmi szervezet vagy sugárvédelmi szakértő is elláthatja. A sugárvédelmi szervezet vezetője a sugárvédelmi megbízott.
 
-(5)[^107] Az atomenergia alkalmazója a szervezetén belül a különböző típusú sugárveszélyes munkahelyek tevékenységeinek és a sugárvédelmi megbízottak feladatainak összehangolására sugárvédelmi szolgálatot hozhat létre, melynek feladatait és követelményeit a Létesítményi Sugárvédelmi Szabályzatban (a továbbiakban: LSSZ) kell rögzíteni. Az LSSZ több telephelyre is vonatkozhat.
+(5)[^108] Az atomenergia alkalmazója a szervezetén belül a különböző típusú sugárveszélyes munkahelyek tevékenységeinek és a sugárvédelmi megbízottak feladatainak összehangolására sugárvédelmi szolgálatot hozhat létre, melynek feladatait és követelményeit a Létesítményi Sugárvédelmi Szabályzatban (a továbbiakban: LSSZ) kell rögzíteni. Az LSSZ több telephelyre is vonatkozhat.
 
-(5a)[^108] Az LSSZ alkalmazása esetén az atomenergia alkalmazójának minőségirányítási rendszert kell működtetnie.
+(5a)[^109] Az LSSZ alkalmazása esetén az atomenergia alkalmazójának minőségirányítási rendszert kell működtetnie.
 
-(5b)[^109] Az LSSZ tartalmazza:
+(5b)[^110] Az LSSZ tartalmazza:
 
 a) a sugárvédelmi szolgálat felépítésének és feladatának bemutatását,
 
@@ -66,22 +66,22 @@ b) az LSSZ és az egyes sugárveszélyes munkahelyek MSSZ-ének kapcsolatát,
 
 c) azon sugárvédelmi szervezeti intézkedéseket, amelyek az egyes sugárveszélyes munkahelyek felügyeletének koordinálásához szükségesek.
 
-(5c)[^110] az LSSZ tartalmazhatja a 8. mellékletben az MSSZ tartalmára előírt mindazon tartalmi elemeket, amelyeket egységességükre tekintettel nem az egyes MSSZ-ekben, hanem az LSSZ-ben célszerű meghatározni,
+(5c)[^111] az LSSZ tartalmazhatja a 8. mellékletben az MSSZ tartalmára előírt mindazon tartalmi elemeket, amelyeket egységességükre tekintettel nem az egyes MSSZ-ekben, hanem az LSSZ-ben célszerű meghatározni,
 
-(5d)[^111] Az MSSZ-ben az LSSZ-ben szereplő információk hivatkozhatók. Az MSSZ-ben és az LSSZ-ben hivatkozni lehet az OAH által jóváhagyott külön dokumentumokra is.
+(5d)[^112] Az MSSZ-ben az LSSZ-ben szereplő információk hivatkozhatók. Az MSSZ-ben és az LSSZ-ben hivatkozni lehet az OAH által jóváhagyott külön dokumentumokra is.
 
-(6)[^112] Ha az atomenergia több alkalmazója egy telephelyen belül végez tevékenységet, a sugárvédelmi megbízottak feladatainak összehangolására telephelyi sugárvédelmi szolgálat hozható létre, amelynek részletes szabályait az atomenergia minden egyes alkalmazója esetében a Munkahelyi vagy Létesítményi Sugárvédelmi Szabályzatban kell megjeleníteni.
+(6)[^113] Ha az atomenergia több alkalmazója egy telephelyen belül végez tevékenységet, a sugárvédelmi megbízottak feladatainak összehangolására telephelyi sugárvédelmi szolgálat hozható létre, amelynek részletes szabályait az atomenergia minden egyes alkalmazója esetében a Munkahelyi vagy Létesítményi Sugárvédelmi Szabályzatban kell megjeleníteni.
 
-(7)[^113]
+(7)[^114]
 
 (8) Ha a szükséges intézkedés a sugárvédelmi megbízott vagy helyettesének a feladatkörét meghaladja, akkor a sugárvédelmi megbízott a sugárvédelmi hiányosságot vagy mulasztást az engedélyes sugárvédelmi követelmények végrehajtásáért felelős vezetőjének haladéktalanul jelenti, és megoldási javaslatot terjeszt elő.
 
-[^105]: A 38. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 20. pontja szerint módosított szöveg.
-[^106]: A 38. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^107]: A 38. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^108]: A 38. § (5a) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^109]: A 38. § (5b) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^110]: A 38. § (5c) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^111]: A 38. § (5d) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^112]: A 38. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 21. pontja szerint módosított szöveg.
-[^113]: A 38. § (7) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § g) pontja hatályon kívül helyezte.
+[^106]: A 38. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 20. pontja szerint módosított szöveg.
+[^107]: A 38. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^108]: A 38. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^109]: A 38. § (5a) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^110]: A 38. § (5b) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^111]: A 38. § (5c) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^112]: A 38. § (5d) bekezdését a 27/2018. (II. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^113]: A 38. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 21. pontja szerint módosított szöveg.
+[^114]: A 38. § (7) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § g) pontja hatályon kívül helyezte.

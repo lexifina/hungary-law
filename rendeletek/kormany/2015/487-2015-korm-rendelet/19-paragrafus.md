@@ -36,4 +36,11 @@ e) alapfokú, bővített fokozatú vagy átfogó fokozatú sugárvédelmi tanfol
 
 f) a kiemelt létesítmények, az I. sugárvédelmi kategóriába tartozó sugárveszélyes munkahelyek, továbbá az országos nukleárisbaleset-elhárítási rendszer veszélyhelyzet-elhárítási terveiben vagy veszélyhelyzet-kezelési rendszerében meghatározott azon munkavállalók, akik veszélyhelyzeti sugárzási helyzet sugárvédelmi következményeinek értékelését végzik, valamint a sugárterhelés csökkentésére irányuló védelmi intézkedésekre javaslatot adnak.
 
+(4)[^59] Az átfogó fokozatú sugárvédelmi képesítés mellett sugárvédelmi szakértői kiegészítő képzettséggel is kell rendelkezniük azoknak, akik
+
+a) sugárveszélyes munkahelyek kialakításának sugárvédelmét vagy a már engedélyezett sugárvédelmi rendszer hatósági engedélyezéshez köthető átalakítását tervezik, vagy
+
+b) egyéb sugárvédelmi szakértői tevékenységet folytatnak.
+
 [^58]: A 19. § a 27/2018. (II. 28.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^59]: A 19. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 23. § (2) bekezdése iktatta be.

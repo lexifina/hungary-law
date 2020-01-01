@@ -1,4 +1,4 @@
-## 25. [^122] A zárt sugárforrásokra vonatkozó követelmények
+## 25. [^123] A zárt sugárforrásokra vonatkozó követelmények
 
 42. § (1) A Fizvr. 1. melléklete szerint 1., 2. és 3. kategóriába tartozó zárt radioaktív sugárforrás alkalmazása esetén az atomenergia alkalmazója köteles:
 
@@ -24,4 +24,4 @@ e) mielőtt egy zárt radioaktív sugárforrást más személynek átad – a ra
 
 (3) A zártságvizsgálatot sugárvédelmi szakértő vagy az 53. § (1) bekezdés 4. pontja szerinti engedéllyel rendelkező végezheti, vagy végrehajthatja az engedélyes is, ha a 8. melléklet szerinti MSSZ tartalmazza a zártságvizsgálat szakszerű és biztonságos elvégzésnek technológiai leírását.
 
-[^122]: A 25. alcím (42. §) a 27/2018. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^123]: A 25. alcím (42. §) a 27/2018. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.

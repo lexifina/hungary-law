@@ -1,6 +1,6 @@
-30/A. §[^84] (1) A röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas hatósági személyi dózismérő biztosítása érdekében:
+30/A. §[^85] (1) A röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas hatósági személyi dózismérő biztosítása érdekében:
 
-a)[^85] az OAH megbízásából az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata mint dozimetriai szolgáltató biztosítja a hatósági dózismérők rendelkezésre állását. Az OAH által így biztosított hatósági dózismérők kiértékeléséért, valamint pótlásáért az atomenergia alkalmazója igazgatási szolgáltatási díjat köteles fizetni,
+a)[^86] az OAH megbízásából az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata mint dozimetriai szolgáltató biztosítja a hatósági dózismérők rendelkezésre állását. Az OAH által így biztosított hatósági dózismérők kiértékeléséért, valamint pótlásáért az atomenergia alkalmazója igazgatási szolgáltatási díjat köteles fizetni,
 
 b) az atomenergia alkalmazója az a) pontban megjelölt dozimetriai szolgáltató helyett más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltató szolgáltatását is igénybe veheti.
 
@@ -30,7 +30,7 @@ fe) rendkívüli esetekben a beérkezett dózismérő 3 órán belül kiértéke
 
 g) a dózismérők elvesztése, megrongálódása esetére a dozimetriai szolgáltató köteles tartalék kapacitás rendelkezésre állását biztosítani,
 
-h)[^86] a kiértékelő eszközök meghibásodása, anyagi, pénzügyi vagy személyi erőforráshiányok esetén a dozimetriai szolgáltatás biztosítására a dozimetriai szolgáltató – az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata kivételével – köteles más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltatóval együttműködési megállapodást kötni.
+h)[^87] a kiértékelő eszközök meghibásodása, anyagi, pénzügyi vagy személyi erőforráshiányok esetén a dozimetriai szolgáltatás biztosítására a dozimetriai szolgáltató – az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata kivételével – köteles más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltatóval együttműködési megállapodást kötni.
 
 (3) A dozimetriai szolgáltatók a szolgáltatásaik igénybevételére az atomenergia alkalmazóival szerződést kötnek.
 
@@ -46,6 +46,6 @@ b) a 60. § (9) bekezdésében meghatározott feltételek teljesülését.
 
 (7) A dozimetriai szolgáltatók működésük megkezdését az OAH részére bejelentik. A bejelentés tartalmazza az 54. § (14) bekezdés b)–e) pontjában, valamint a (2) bekezdés a) pontjában megjelölt információkat, igazolásokat és dokumentummintákat.
 
-[^84]: A 30/A. §-t a 27/2018. (II. 28.) Korm. rendelet 29. § (6) bekezdése iktatta be.
-[^85]: A 30/A. § (1) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
-[^86]: A 30/A. § (2) bekezdés h) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^85]: A 30/A. §-t a 27/2018. (II. 28.) Korm. rendelet 29. § (6) bekezdése iktatta be.
+[^86]: A 30/A. § (1) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^87]: A 30/A. § (2) bekezdés h) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.

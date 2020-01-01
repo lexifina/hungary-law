@@ -24,13 +24,13 @@ b) a laboratóriumban egyszer használatos eszközöket kell használni, amennyi
 
 c) minden sugárveszélyes munkahelyet el kell látni az ott felhasznált izotópok fajtájának és aktivitásának, valamint az elvégzendő feladatoknak megfelelő, sugárvédelmi célokat szolgáló munkaeszközökkel, egyéni védőeszközökkel, dekontamináló anyagokkal és magyar nyelvű kezelési utasítással rendelkező sugárvédelmi mérőműszerekkel,
 
-d)[^123]
+d)[^124]
 
 e) az engedélyezett technológiai folyamatoktól való eltérés következtében előálló radioaktív anyag belégzést vagy lenyelést, vagy ennek gyanúját a munkavállaló a munkahelyi sugárvédelmi megbízottnak és a munkahely vezetőjének haladéktalanul bejelenti,
 
 f) ellenőrzött területen a radioaktív izotóppal kapcsolatos munkavégzés körén kívül eső tevékenységet végezni, vagy a munkavégzéssel össze nem függő tárgyat bevinni, ott tárolni tilos,
 
-g)–h)[^124]
+g)–h)[^125]
 
 i) nyitott radioaktív sugárforrást felhasználó laboratóriumban dekontamináló készletet kell készenlétben tartani, amiről az engedélyes gondoskodik a laboratórium munkaterületeinek, a munkavállalók létszámának, a felhasznált radioaktív készítmények aktivitásának és fajtájának figyelembevételével,
 
@@ -38,10 +38,10 @@ j) a dekontamináló készletet, amely kizárólag a radioaktív szennyezettség
 
 k) a munkahely falainak, padlójának, felszerelésének szennyeződése esetén a szennyezett felületek közvetlen dekontaminálása – a munkahelyi sugárvédelmi megbízott irányításával – az ott dolgozó munkavállalók feladata, továbbá
 
-l)[^125] ha a szennyeződés a tevékenység megszűnését követően derül ki, a 48. §-ban foglaltak szerint kell eljárni.
+l)[^126] ha a szennyeződés a tevékenység megszűnését követően derül ki, a 48. §-ban foglaltak szerint kell eljárni.
 
 (10) Nyitott radioaktív sugárforrást más személynek történő átadása előtt az atomenergia alkalmazója, köteles megbizonyosodni arról, hogy a nyitott radioaktív sugárforrást átvevő rendelkezik a megfelelő engedéllyel.
 
-[^123]: A 43. § (9) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § h) pontja hatályon kívül helyezte.
-[^124]: A 43. § (9) bekezdés g)–h) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § h) pontja hatályon kívül helyezte.
-[^125]: A 43. § (9) bekezdés l) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 23. pontja szerint módosított szöveg.
+[^124]: A 43. § (9) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § h) pontja hatályon kívül helyezte.
+[^125]: A 43. § (9) bekezdés g)–h) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § h) pontja hatályon kívül helyezte.
+[^126]: A 43. § (9) bekezdés l) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 23. pontja szerint módosított szöveg.

@@ -404,7 +404,7 @@
 
 | Egyéb berendezés: |
 
-8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^216]
+8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^217]
 
 A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
@@ -648,12 +648,4 @@ A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
 6.2.1.3.1. A foglalkozási dóziskorlát túllépése esetén végrehajtandó intézkedések
 
-6.2.1.3.2. A lakossági dózismegszorítás vagy dóziskorlát túllépése esetén végrehajtandó intézkedések
-
-6.2.1.3.3. Radionuklidok felvétele (belégzése, lenyelése, sérült bőrfelület szennyeződése) esetén végrehajtandó intézkedések
-
-6.2.1.3.4. Sérülések kezelése, ahol a seb radioaktív anyaggal szennyeződött
-
-6.2.1.3.5. A sugársérültek vagy arra gyanús személyek helyszínen történő egészségügyi ellátása
-
-[^216]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
+[^217]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.

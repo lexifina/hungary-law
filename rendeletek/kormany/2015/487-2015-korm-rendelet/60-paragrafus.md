@@ -16,6 +16,6 @@
 
 (8) Az OAH ellenőrzése nem mentesíti az engedélyest a belső ellenőrzési tevékenység végzésének kötelezettsége alól.
 
-(9)[^191] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át túllépi, az OAH köteles ellenőrzést tartani.
+(9)[^192] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át túllépi, az OAH köteles ellenőrzést tartani.
 
-[^191]: A 60. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 39. pontja szerint módosított szöveg.
+[^192]: A 60. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 39. pontja szerint módosított szöveg.

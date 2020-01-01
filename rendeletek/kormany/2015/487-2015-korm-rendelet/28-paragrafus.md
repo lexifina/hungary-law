@@ -1,10 +1,10 @@
-28. § (1)[^74] Felügyelt területként kell meghatározni azt a munkaterületet,
+28. § (1)[^75] Felügyelt területként kell meghatározni azt a munkaterületet,
 
 a) ahol a tevékenységből adódóan az évi egyéni sugárterhelés meghaladhatja a munkahelyre megállapított, lakossági sugárterhelésre vonatkozó dózismegszorítás értékét,
 
 b) amelyet az ellenőrzött területen esetlegesen fellépő radioaktív szennyeződés, valamint annak terjedésének megakadályozására tett intézkedések közvetlenül érinthetnek.
 
-(2)[^75] A felügyelt területen a 27. § (2) bekezdésében meghatározott különleges sugárvédelmi intézkedések és biztonsági szabályok alkalmazására szabályos körülmények között nincs szükség, azonban
+(2)[^76] A felügyelt területen a 27. § (2) bekezdésében meghatározott különleges sugárvédelmi intézkedések és biztonsági szabályok alkalmazására szabályos körülmények között nincs szükség, azonban
 
 a) a radiológiai kockázatok jellegét és nagyságát figyelembe véve meg kell szervezni a felügyelt terület sugárvédelmi felügyeletét, hitelesített műszerekkel történő sugárvédelmi ellenőrzését,
 
@@ -18,5 +18,5 @@ e) ahol a felügyelt területen belül 20 μSv/h-nál nagyobb környezeti dózis
 
 (3) A (2) bekezdésben felsorolt követelmények teljesítése során az atomenergia alkalmazója figyelembe veszi a sugárvédelmi szakértőtől kapott tanácsokat.
 
-[^74]: A 28. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^75]: A 28. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^75]: A 28. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^76]: A 28. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 28. §-ával megállapított szöveg.

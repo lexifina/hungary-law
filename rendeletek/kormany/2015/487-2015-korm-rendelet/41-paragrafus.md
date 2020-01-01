@@ -1,6 +1,6 @@
 ## 24. A radioaktív anyagok tárolására vonatkozó követelmények
 
-41. §[^121] (1) A radioaktív hulladékokat a 12. melléklet szerint osztályozni kell.
+41. §[^122] (1) A radioaktív hulladékokat a 12. melléklet szerint osztályozni kell.
 
 (2) A radioaktív hulladékot – kivéve a munkahelyi radioaktívhulladék-tárolóban történő elszállításáig vagy mentességi szint alatti lebomlásáig való tárolásáig – a TBSZ Kr. szerinti előírásoknak megfelelően átmeneti vagy végleges hulladéktárolóban kell elhelyezni.
 
@@ -28,4 +28,4 @@ b) az átmeneti vagy végleges radioaktívhulladék-tároló üzemeltetője vagy
 
 (12) Az általános mentességi aktivitás-koncentrációt meghaladó, a hatósági felügyelet alól engedéllyel felszabadított hulladékokat a felszabadításra vonatkozó engedély feltételeinek betartásával kell kezelni.
 
-[^121]: A 41. § a 27/2018. (II. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^122]: A 41. § a 27/2018. (II. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
