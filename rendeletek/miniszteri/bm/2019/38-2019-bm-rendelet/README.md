@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-38-20-0
 | --- | --- | --- |
 | 2019-11-15 | 2019-38-20-0A.1 | 38/2019. (XI. 7.) BM rendelet |
 | 2019-11-16 | 2019-38-20-0A.2 | 2010: CXXX. törvény |
+| 2020-01-01 | 2019-38-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
