@@ -1,3 +1,3 @@
-29. §[^69]
+29. §[^64]
 
-[^69]: A 26–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 26–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
