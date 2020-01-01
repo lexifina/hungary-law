@@ -1,3 +1,9 @@
-22. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^40]
+## „12. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^40]: A 22. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 20192220000273_12
+
+## ”
+
+22. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+
+20192220000273_13

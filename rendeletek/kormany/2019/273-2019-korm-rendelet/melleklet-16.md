@@ -1,3 +1,7 @@
-16. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^34]
+## „6. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^34]: A 16. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 20192220000273_6
+
+## ”
+
+16. melléklet a 273/2019. (XI. 20.) Korm. rendelethez

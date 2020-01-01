@@ -1,3 +1,7 @@
-18. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^36]
+## „8. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^36]: A 18. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 20192220000273_8
+
+## ”
+
+18. melléklet a 273/2019. (XI. 20.) Korm. rendelethez

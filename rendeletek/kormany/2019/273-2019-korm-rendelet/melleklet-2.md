@@ -1,3 +1,7 @@
-2. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^20]
+2. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
 
-[^20]: A 2. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+1. A Vhr. 2. melléklet 3.3. sora helyébe a következő szöveg lép:
+
+## „3.3. születési családi és utóneve, valamint házassági neve”
+
+2. A Vhr. 2. melléklet 1. sorában az „anyakönyvi bejegyzés folyószáma” szövegrész helyébe az „eseményazonosító” szöveg lép.

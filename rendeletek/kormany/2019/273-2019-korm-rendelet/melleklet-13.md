@@ -1,3 +1,7 @@
-13. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^31]
+## „3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^31]: A 13. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 20192220000273_3
+
+## ”
+
+13. melléklet a 273/2019. (XI. 20.) Korm. rendelethez

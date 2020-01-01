@@ -1,44 +1,31 @@
-## 3. §[^4]
+## 3. § A Vhr. 21. § (12) bekezdésében a „személyiadat- és lakcímnyilvántartást kezelő központi szerv” szövegrész helyébe a „személyiadat- és lakcímnyilvántartást kezelő szerv” szöveg lép.
 
 ## 3. Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosítása
 
-4. § (1)[^5]
+4. § (1)[^3]
 
-(2)[^6]
+(2) A Rendelet 1. melléklete helyébe a 10. melléklet lép.
 
-(3)[^7]
+(3) A Rendelet 2. melléklete helyébe a 11. melléklet lép.
 
-(4)[^8]
+(4) A Rendelet 3. melléklete helyébe a 12. melléklet lép.
 
-(5)[^9]
+(5) A Rendelet 4. melléklete helyébe a 13. melléklet lép.
 
-(6)[^10]
+(6) A Rendelet 5. melléklete helyébe a 14. melléklet lép.
 
-(7)[^11]
+(7) A Rendelet 6. melléklete helyébe a 15. melléklet lép.
 
-(8)[^12]
+(8) A Rendelet 7. melléklete helyébe a 16. melléklet lép.
 
-(9)[^13]
+(9) A Rendelet 8. melléklete helyébe a 17. melléklet lép.
 
-(10)[^14]
+(10) A Rendelet 9. melléklete helyébe a 18. melléklet lép.
 
-(11)[^15]
+(11) A Rendelet 10. melléklete helyébe a 19. melléklet lép.
 
-(12)[^16]
+(12) A Rendelet 11. melléklete helyébe a 20. melléklet lép.
 
-(13)[^17]
+(13) A Rendelet 12. melléklete helyébe a 21. melléklet lép.
 
-[^4]: A 3. § az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^5]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. § (2) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^7]: A 4. § (3) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^8]: A 4. § (4) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^9]: A 4. § (5) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^10]: A 4. § (6) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^11]: A 4. § (7) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^12]: A 4. § (8) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^13]: A 4. § (9) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^14]: A 4. § (10) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^15]: A 4. § (11) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^16]: A 4. § (12) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^17]: A 4. § (13) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^3]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

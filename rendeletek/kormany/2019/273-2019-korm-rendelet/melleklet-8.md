@@ -1,3 +1,7 @@
-8. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^26]
+8. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
 
-[^26]: A 8. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+1. A Vhr. 8. melléklet 6.1. sora helyébe a következő szöveg lép:
+
+## „6.1. születési családi és utóneve”
+
+2. A Vhr. 8. melléklet 1. sorában az „anyakönyvi bejegyzés folyószáma” szövegrész helyébe az „eseményazonosító” szöveg lép.

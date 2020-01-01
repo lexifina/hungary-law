@@ -1,3 +1,5 @@
-4. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^22]
+## A Vhr. 3. melléklet 2.1. sora helyébe a következő szöveg lép:
 
-[^22]: A 4. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „2.1. neve, születési neve”
+
+4. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
