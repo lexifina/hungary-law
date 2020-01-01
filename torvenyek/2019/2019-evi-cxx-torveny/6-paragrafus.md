@@ -1,1 +1,3 @@
-6. §
+6. § A Kbt. 75. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ajánlatkérő a közbeszerzési dokumentumokban köteles megadni, hogy alkalmazza-e az adott eljárásban a (2) bekezdés e) pontját. A közbeszerzésekért felelős miniszter az ajánlattételi, illetve részvételi határidő lejártát megelőzően előírhatja a közbeszerzésekért felelős miniszter által jogszabály alapján ellenőrzött beszerzés vonatkozásában bármely ajánlatkérő számára a (2) bekezdés e) pontjának kötelező alkalmazását oly módon, hogy megfelelő időtartam álljon az ajánlatkérő rendelkezésére a szükséges intézkedések megtételére. Ebben az esetben az ajánlatkérő köteles a közbeszerzési dokumentumokat a (2) bekezdés e) pontja szerinti eredménytelenségi ok alkalmazását feltüntetve módosítani.”
