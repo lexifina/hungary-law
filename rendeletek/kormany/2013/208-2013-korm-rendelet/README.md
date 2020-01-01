@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-208-20-
 | 2017-01-01 | 2013-208-20-22.7 | 397/2016. (XII. 5.) Korm. rendelet |
 | 2018-01-01 | 2013-208-20-22.8 | 321/2017. (XI. 8.) Korm. rendelet |
 | 2019-01-01 | 2013-208-20-22.9 | 193/2018. (X. 15.) Korm. rendelet |
+| 2020-01-01 | 2013-208-20-22.10 | 218/2019. (IX. 5.) Korm. rendelet |
