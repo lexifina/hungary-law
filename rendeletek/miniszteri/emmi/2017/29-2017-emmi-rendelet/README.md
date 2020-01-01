@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-29-20-5
 | 2017-11-02 | 2017-29-20-5H.2 | 2010: CXXX. törvény |
 | 2018-12-19 | 2017-29-20-5H.3 | 42/2018. (XII. 18.) EMMI rendelet |
 | 2019-12-18 | 2017-29-20-5H.4 | 32/2019. (XII. 17.) EMMI rendelet |
+| 2020-01-01 | 2017-29-20-5H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
