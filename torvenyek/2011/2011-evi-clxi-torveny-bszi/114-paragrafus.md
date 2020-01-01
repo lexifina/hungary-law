@@ -8,7 +8,7 @@
 
 ## 32. A Kúria elnöke
 
-114. § (1) A Kúria elnökét az Országgyűlés a határozatlan időre kinevezett és legalább 5 éves bírói szolgálati viszonnyal rendelkező bírák közül választja az Alaptörvény 26. cikk (3) bekezdésében foglaltak szerint.
+114. § (1) A Kúria elnökét az Országgyűlés a határozatlan időre kinevezett és legalább ötéves bírói szolgálati viszonnyal rendelkező bírák közül választja az Alaptörvény 26. cikk (3) bekezdésében foglaltak szerint. A bírói szolgálati jogviszony számításakor a nemzetközi igazságszolgáltatási szervezetben bíróként, főtanácsadóként, valamint az alkotmánybíróként, illetve az Alkotmánybíróság Hivatalában főtanácsadói munkakörben szerzett tapasztalatot is figyelembe kell venni.
 
 (2) Nem választható a Kúria elnökévé az,
 

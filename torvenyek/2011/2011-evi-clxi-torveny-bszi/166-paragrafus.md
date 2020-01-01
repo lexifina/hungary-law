@@ -16,7 +16,7 @@ e) a közérdekből nyilvános adatot.
 
 (3) Ha a nyilvánosságot a tárgyalás egészéről vagy egy részéről kizárták, és a nyilvánosság kizárását megalapozó, törvényben meghatározott érdek védelme másképpen nem biztosítható, a határozat egyes részeinek vagy a határozat egészének a gyűjteményben való megjelentetését mellőzni, illetve a közzétett határozat egyes részeit vagy a határozat egészét a gyűjteményből törölni kell.
 
-(4) Az egy részében vagy egészében zárt tárgyalás alapján hozott határozatnak a Bírósági Határozatok Gyűjteményéből való törlését vagy a közzététel mellőzését polgári eljárásban a fél, büntetőeljárásban a sértett kérheti. A kérelmet az érintett legkésőbb a határozat közzétételét követő egy évig az OBH elnökéhez terjesztheti elő, aki haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül gondoskodik a kérelem teljesítéséről.
+(4) Az egy részében vagy egészében zárt tárgyalás alapján hozott határozatnak a Bírósági Határozatok Gyűjteményéből való törlését vagy a közzététel mellőzését polgári eljárásban a fél, közigazgatási bírósági eljárásban a fél és az érdekelt, büntetőeljárásban a sértett kérheti. A kérelmet az érintett legkésőbb a határozat közzétételét követő egy évig az OBH elnökéhez terjesztheti elő, aki haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül gondoskodik a kérelem teljesítéséről.
 
 (5) A minősített adat védelmét a bírósági határozatok közzétételekor is biztosítani kell.
 
