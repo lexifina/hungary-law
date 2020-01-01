@@ -30,31 +30,11 @@
 
 ## Határidő: 2016. június 15.
 
-## f) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 8. Agrármarketing célelőirányzat jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 9. Turisztikai célelőirányzat jogcímcsoport javára
+## f)[^1]
 
-## fa) a következő év költségvetésében beépülő módon 150,0 millió forint átcsoportosítását rendeli el az 1. melléklet szerint,
+## g)[^2]
 
-## fb) egyszeri jelleggel 112,6 millió forint átcsoportosítását rendeli el a 2. melléklet szerint;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: 2016. június 14.
-
-## g) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. Magyarország 2016. évi központi költségvetésének címrendjét – 2016. június 15-ei fordulónappal – a 3. melléklet szerint módosítja;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: 2016. június 15.
-
-## h) felhívja a nemzetgazdasági minisztert, hogy az f) pontban foglalt átcsoportosítás végrehajtását követően a Magyar Államkincstár útján intézkedjen a g) pont szerinti címrendi változás 2016. január 1-jei határnappal történő átvezetéséről és egyidejűleg – a fejezetet irányító szerv vezetőjének adatszolgáltatása alapján – az átrendezés időpontjáig végrehajtott előirányzat-módosítások, teljesítési adatok és a kapcsolódó költségvetési-maradványok átvezetéséről;
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: 2016. június 15.
+## h)[^3]
 
 ## i) felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Magyar Államkincstárnál
 
@@ -90,4 +70,9 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1259/2016. (VI. 6.) Korm. határozathoz
+1. melléklet az 1259/2016. (VI. 6.) Korm. határozathoz[^4]
+
+[^1]: Az 1. pont f) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont g) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont h) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
