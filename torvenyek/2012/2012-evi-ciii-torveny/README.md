@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-103-00-00
 | 2017-07-12 | 2017. évi XCV. törvény | 2012-103-00-00.10 |
 | 2019-04-14 | 2019. évi XXXIII. törvény | 2012-103-00-00.11 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2012-103-00-00.12 |
+| 2020-01-01 | 2019. évi LXVI. törvény | 2012-103-00-00.13 |

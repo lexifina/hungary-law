@@ -1,19 +1,5 @@
-2. § (1) E törvény alkalmazásában
+2. § (1) Az Erzsébet-program az 1. § megvalósítása céljából szervezett és lebonyolított, az állam által támogatott szociális program és szolgáltatás, amely nyereség célzatú piaci szerepet nem tölt be.
 
-a) Erzsébet-program: az állam által az 1. § megvalósítása céljából szervezett és lebonyolított szociális program és szolgáltatás, amely nyereség célzatú piaci szerepet nem tölt be,
-
-b) Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány (a továbbiakban: MNÜA) által kibocsátott,
-
-ba) fogyasztásra kész étel vásárlására, melegkonyhás vendéglátóhelyi szolgáltatások igénybevételére,
-
-bb) a kifizetőt terhelő adó mellett vagy adómentesen adható, meghatározott termékek vásárlására, szolgáltatások igénybevételére,
-
-bc) gyermekek neveléséhez, gondozásához szükséges termékek vásárlására, szolgáltatások igénybevételére,
-
-bd) szociális célból, törvényben meghatározott termékek vásárlására, szolgáltatások igénybevételére
-
-felhasználható utalvány.
-
-(2) Az Erzsébet-program végrehajtásáról az MNÜA és az Erzsébet a Kárpát-medencei Gyermekekért Alapítvány (a továbbiakban: Alapítvány) gondoskodik.
+(2) Az Erzsébet-program végrehajtásáról az Erzsébet a Kárpát-medencei Gyermekekért Alapítvány (a továbbiakban: Alapítvány) gondoskodik.
 
 (3) Az Alapítvány közhasznú civil szervezet.

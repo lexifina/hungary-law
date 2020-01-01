@@ -1,13 +1,3 @@
-3. § (1) Az Erzsébet-program végrehajtása érdekében az MNÜA közfeladatként
-
-a) szociális célú üdültetéshez,
-
-b) szociális célú étkeztetéshez,
-
-c)
-
-d) az a)–c) pontban foglaltakkal összefüggő egyéb szociális célú feladatok ellátásához
-
-kapcsolódó szervezési és lebonyolítási teendőket lát el.
+3. § (1)
 
 (2) Az Alapítvány az Erzsébet-program végrehajtása érdekében közfeladatként ifjúsági és gyermekprogramokban való részvételhez, gyermek- és ifjúsági táborok szervezéséhez kapcsolódó feladatokat, valamint az ezekhez kapcsolódó szervezési és lebonyolítási teendőket lát el.
