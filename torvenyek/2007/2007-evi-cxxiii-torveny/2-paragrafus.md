@@ -36,4 +36,6 @@ p) környezetvédelem;
 
 q) sportinfrastruktúra fejlesztése;
 
-r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése.
+r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése;
+
+s) kulturális infrastruktúra fejlesztése.

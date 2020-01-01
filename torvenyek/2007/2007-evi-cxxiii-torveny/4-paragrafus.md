@@ -108,7 +108,9 @@ nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európ
 
 nc) az egyedileg meghatározott sport- és szabadidő infrastruktúrafejlesztés megvalósításáról külön törvény rendelkezik;
 
-o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében.
+o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében;
+
+p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából.
 
 (2) Nem kell alkalmazni
 
