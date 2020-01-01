@@ -1,4 +1,4 @@
-7. § (1) Az NFA elnöke
+7. § (1) Az NFK elnöke
 
 a) vezeti az NFK-t;
 

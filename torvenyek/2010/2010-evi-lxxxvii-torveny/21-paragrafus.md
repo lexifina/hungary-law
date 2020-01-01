@@ -14,15 +14,7 @@ b) nem haladja meg a három hektárt.
 
 (3c) A védett természeti területek természetvédelmi kezeléséért felelős szerv vagyonkezelésébe kell adni azt a földrészletet, amelynek állami tulajdonba vételére a védett természeti területek védettségi szintjének helyreállítása vagy természetvédelmi célok megvalósítása érdekében került sor.
 
-(3d) Vagyonkezelési szerződés köthető
-
-a) az Országos Képzési Jegyzékben meghatározott, agrárágazathoz tartozó szakképesítésben iskolai rendszerű szakképzést folytató intézménnyel,
-
-b) az agrárágazathoz tartozó közoktatási feladatot ellátó intézménnyel,
-
-c) az agrárágazathoz tartozó felsőoktatási intézménnyel
-
-az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
+(3d) Vagyonkezelési szerződés köthető az agrárágazathoz tartozó köznevelési intézménnyel, szakképző intézménnyel, illetve felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
 
 (4) Az NFK a Nemzeti Földalapba tartozó vízlevezető árkokat és csatornákat térítésmentesen az azok fenntartására jogosultak vagyonkezelésébe adhatja.
 
