@@ -1,3 +1,3 @@
-9. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^160]
+9. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^170]
 
-[^160]: A 9. számú mellékletet a 123/2015. (V. 26.) Korm. rendelet 28. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^170]: A 9. számú mellékletet a 123/2015. (V. 26.) Korm. rendelet 28. § (1) bekezdés f) pontja hatályon kívül helyezte.

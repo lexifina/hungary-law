@@ -1,3 +1,3 @@
-4. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^144]
+4. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^154]
 
-[^144]: A 4. számú melléklet a 123/2015. (V. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^154]: A 4. számú melléklet a 123/2015. (V. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
