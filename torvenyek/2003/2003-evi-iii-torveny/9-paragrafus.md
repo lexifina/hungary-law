@@ -11,3 +11,5 @@
 (6) A kinevezés és a felmentés kivételével a munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Hivatala főigazgatója gyakorolja.
 
 (7) A Levéltár munkatársaira egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+
+(8) A főigazgató a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre, a főigazgató-helyettes a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult. A főigazgató és a főigazgató-helyettes egyéb juttatásait az Országgyűlés elnöke állapítja meg.
