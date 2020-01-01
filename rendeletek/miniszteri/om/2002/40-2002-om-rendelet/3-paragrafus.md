@@ -1492,11 +1492,11 @@ I. RÉSZLETES VIZSGAKÖVETELMÉNYEK
 
 | 3.1. A személyzeti, munkaügyi és szociális tevékenység |  |  |
 
-| Az egyes rendészeti szervek tagjává válásának feltételei | Tudja felsorolni és értelmezni a szolgálati viszony létesítésének törvényi feltételeit. Sorolja fel milyen jogállású személyek alkotják a rendészeti szervek állományát. | Sorolja fel a rendészeti szervek tagjává válásának feltételeit állományviszony szerint meghatározó jogszabályokat (A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény; a közalkalmazottak jogállásáról szóló törvény és a közszolgálati tisztviselőkről szóló törvény) Mutassa be a rendészeti szervek tagjaival szemben támasztott speciális pályaalkalmassági feltételeket. |
+| Az egyes rendészeti szervek tagjává válásának feltételei | Tudja felsorolni és értelmezni a szolgálati viszony létesítésének törvényi feltételeit. Sorolja fel milyen jogállású személyek alkotják a rendészeti szervek állományát. | Sorolja fel a rendészeti szervek tagjává válásának feltételeit állományviszony szerint meghatározó jogszabályokat (a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény és a kormányzati igazgatásról szóló törvény) Mutassa be a rendészeti szervek tagjaival szemben támasztott speciális pályaalkalmassági feltételeket. |
 
 | A személyzeti, munkaügyi és szociális tevékenység célja, feladatai | Nevezze meg a rendészeti szerveknél végzett személyzeti, munkaügyi és szociális tevékenységet meghatározó jogszabályokat. Ismerje a rendészeti szerveknél végzett személyzeti, munkaügyi és szociális tevékenység célját. | Sorolja fel és értelmezze a személyzeti, munkaügyi és szociális tevékenység fő feladatait. Mondjon példát az egyes feladatok gyakorlati megvalósulására. |
 
-| Az egyes rendészeti szervek tagjait megillető alapvető pénzügyi és anyagi járandóságok, szociális juttatások | Soroljon fel néhányat a rendészeti szervek hivatásos, köztisztviselői és közalkalmazotti állományú tagjait megillető járandóságok és szociális juttatások köréből. Ismerje, hogy a személyi állomány tagjainak milyen elismerések adhatóak. | Mondja el, miből áll az alapilletmény és az mivel egészülhet ki. Magyarázza el a rendészeti szervek hivatásos állományú tagjainak rendfokozati és beosztási előmeneteli feltételeit. |
+| Az egyes rendészeti szervek tagjait megillető alapvető pénzügyi és anyagi járandóságok, szociális juttatások | Soroljon fel néhányat a rendészeti szervek hivatásos, köztisztviselői, közalkalmazotti és kormánytisztviselői állományú tagjait megillető járandóságok és szociális juttatások köréből. Ismerje, hogy a személyi állomány tagjainak milyen elismerések adhatóak. | Mondja el, miből áll az alapilletmény, illetve az illetmény, és azok mivel egészülhetnek ki. Magyarázza el a rendészeti szervek hivatásos állományú tagjainak rendfokozati és beosztási előmeneteli feltételeit. |
 
 | 3.2. Szolgálattal összefüggő jogok és kötelességek |  |  |
 
@@ -1736,7 +1736,7 @@ Az egyszerű, rövid választ igénylő feladatok között zárt és nyílt vég
 
 Az egyszerű, rövid választ igénylő feladatsor kb. 6-10 komplex feladatból áll. Egy-egy feladat több részfeladatot is tartalmazhat.
 
-5K08444N_15
+9K05875M_15
 
 | Lehetséges feladattípusok |
 
@@ -3913,4 +3913,4 @@ A gyakorlati vizsga során a vizsgázóknak - választásuk alapján - legalább
 A gyakorlati vizsgarész értékelése
 
 [^8]: A 3. §-t a 19/2016. (VIII. 23.) EMMI rendelet 3. §-a iktatta be, szövege a 24/2017. (X. 3.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^10]: A melléklet a 14/2003. (V. 27.) OM rendelet 1. §-ával megállapított, a 25/2003. (IX. 26.) OM rendelet 1. §-a, az 1/2005. (I. 21.) OM rendelet 1–2. §-a és 4. § (2) bekezdése, a 7/2006. (III. 7.) OM rendelet 1. §-a, a 3/2007. (I. 24.) OKM rendelet 2. §-a, 3. §-a és 4. §-a (2) bekezdésének a)–e) pontja, a 20/2007. (III. 23.) OKM rendelet 3. § (2) bekezdése, a 38/2007. (XI. 13.) OKM rendelet 1–84. §-a, a 22/2009. (IV. 22.) OKM rendelet 1–58. §-a, az 1/2012. (I. 3.) NEFMI rendelet 2. §-a, a 36/2012. (XI. 14.) EMMI rendelet 2. § f) pontja és 3. §-a, a 33/2015. (VI. 24.) EMMI rendelet 1–4. §-a, a 19/2016. (VIII. 23.) EMMI rendelet 4. § (1)–(2) bekezdése, az 51/2016. (XII. 29.) EMMI rendelet 1. §-a, a 48/2016. (XII. 28.) EMMI rendelet 1. §-a, a 24/2017. (X. 3.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^10]: A melléklet a 14/2003. (V. 27.) OM rendelet 1. §-ával megállapított, a 25/2003. (IX. 26.) OM rendelet 1. §-a, az 1/2005. (I. 21.) OM rendelet 1–2. §-a és 4. § (2) bekezdése, a 7/2006. (III. 7.) OM rendelet 1. §-a, a 3/2007. (I. 24.) OKM rendelet 2. §-a, 3. §-a és 4. §-a (2) bekezdésének a)–e) pontja, a 20/2007. (III. 23.) OKM rendelet 3. § (2) bekezdése, a 38/2007. (XI. 13.) OKM rendelet 1–84. §-a, a 22/2009. (IV. 22.) OKM rendelet 1–58. §-a, az 1/2012. (I. 3.) NEFMI rendelet 2. §-a, a 36/2012. (XI. 14.) EMMI rendelet 2. § f) pontja és 3. §-a, a 33/2015. (VI. 24.) EMMI rendelet 1–4. §-a, a 19/2016. (VIII. 23.) EMMI rendelet 4. § (1)–(2) bekezdése, az 51/2016. (XII. 29.) EMMI rendelet 1. §-a, a 48/2016. (XII. 28.) EMMI rendelet 1. §-a, a 24/2017. (X. 3.) EMMI rendelet 2. §-a, a 18/2019. (VIII. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.

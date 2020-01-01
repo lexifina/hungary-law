@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-40-20-4
 | 2017-10-04 | 2002-40-20-45.19 | 19/2016. (VIII. 23.) EMMI rendelet |
 | 2017-10-15 | 2002-40-20-45.20 | 14/2003. (V. 27.) OM rendelet |
 | 2019-09-01 | 2002-40-20-45.21 | 20/2019. (VIII. 30.) EMMI rendelet |
+| 2020-01-01 | 2002-40-20-45.22 | 14/2003. (V. 27.) OM rendelet |
