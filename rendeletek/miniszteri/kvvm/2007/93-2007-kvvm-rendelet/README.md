@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-93-20-0
 | 2018-01-01 | 2007-93-20-0N.3 | 70/2017. (XII. 29.) FM rendelet |
 | 2019-04-03 | 2007-93-20-0N.4 | 8/2019. (III. 26.) AM rendelet |
 | 2019-07-17 | 2007-93-20-0N.5 | 33/2019. (VII. 9.) AM rendelet |
+| 2020-01-01 | 2007-93-20-0N.6 | 8/2019. (III. 26.) AM rendelet |

@@ -1,4 +1,4 @@
-11. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^36]
+11. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^40]
 
 A zajterjedés számítása
 
@@ -752,8 +752,4 @@ hA az észlelési pont föld feletti magassága,
 
 s az észlelési pont és a zajforrás távolságának vetülete a föld (közepes) síkján
 
-és
-
-C0 a következők szerint:
-
-[^36]: A 11. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (6) bekezdése iktatta be.
+[^40]: A 11. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (6) bekezdése iktatta be.

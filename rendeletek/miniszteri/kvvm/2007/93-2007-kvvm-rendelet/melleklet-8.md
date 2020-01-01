@@ -1,4 +1,4 @@
-8. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^33]
+8. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^37]
 
 ## Vasúti közlekedés zajkibocsátásának számítása
 
@@ -220,4 +220,4 @@ közötti* időszakra
 
 *** az adott vonalon közlekedő szerelvények átlagos hosszát kell beírni
 
-[^33]: A 8. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (3) bekezdése iktatta be.
+[^37]: A 8. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (3) bekezdése iktatta be.

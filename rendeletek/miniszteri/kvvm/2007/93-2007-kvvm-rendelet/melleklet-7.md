@@ -14,7 +14,7 @@
 
 2.4. Az adatszolgáltatás tárgyévében bejelentett zajkibocsátási határérték alóli felmentéssel érintett napok vonatkozásában napi bontásában megadva:
 
-2.4.1. az adott napon megtartott rendezvény, vagy esemény megnevezése, jellege
+2.4.1.[^33] az adott napon megtartott rendezvény, vagy esemény megnevezése, jellege, versenynapok esetén annak megjelölésével, hogy a rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül-e,
 
 2.4.2. a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló rendelet szerinti kritikus pontok helye és a kritikus ponton mért mérési eredmények,
 
@@ -46,6 +46,12 @@
 
 3.7.4. a környezeti zajforrások napi működési ideje,
 
+3.7.5.[^34] a versenynapokon tartott rendezvények esetén annak megjelölése, hogy a rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül-e,
+
+3.7.6.[^35] a felmentéssel nem érintett napokon annak megjelölése, hogy az üzemeltető az adott nap zajkibocsátásának megítélést mely zajkibocsátási határérték alapján kéri,
+
+3.7.7.[^36] a jogszerűen igénybe vett felmentési napok dátuma.
+
 3.8. Összefoglaló, amely tartalmazza:
 
 3.8.1. az adott naptári évben túllépéssel érintett napok felsorolását és az egyes napokon a túllépés mértékét,
@@ -55,3 +61,7 @@
 3.8.3. azoknak a napoknak a felsorolását, amelyen a versenypályán környezeti zajforrás nem üzemelt.
 
 [^32]: A 7. számú mellékletet a 91/2015. (XII. 23.) FM rendelet 7. § (3) bekezdése iktatta be.
+[^33]: A 7. melléklet 2.4. pont 2.4.1. alpontja a 8/2019. (III. 26.) AM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 7. melléklet 3.7. pont 3.7.5. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
+[^35]: A 7. melléklet 3.7. pont 3.7.6. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
+[^36]: A 7. melléklet 3.7. pont 3.7.7. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.

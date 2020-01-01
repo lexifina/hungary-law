@@ -1,4 +1,4 @@
-9. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^34]
+9. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^38]
 
 ## A vasúti közlekedési zaj mérése
 
@@ -206,4 +206,4 @@ q) a vizsgálatot végzők neve,
 
 r) a vizsgálatokért felelős vezető neve, aláírása.
 
-[^34]: A 9. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (4) bekezdése iktatta be.
+[^38]: A 9. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (4) bekezdése iktatta be.
