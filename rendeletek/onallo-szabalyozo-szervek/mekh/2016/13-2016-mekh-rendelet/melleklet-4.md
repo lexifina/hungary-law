@@ -52,10 +52,6 @@
 
 | 10. | - órás gyakorisággal frissülő vektoros mintaáram adatsor (19 db adatelem) |  | 0,40 |  |
 
-## III. Kereskedelmi platform tagsággal nem rendelkező rendszerhasználók egyensúlyozási szolgáltatási díja
-
-## A szállítási rendszerüzemeltetővel egyensúlyozási szerződést kötött, de Kereskedelmi Platform tagsággal nem rendelkező rendszerhasználó esetén az egyensúlyozási szolgáltatás díja: 10 MFt/év
-
 4. melléklet a 13/2016. (XII. 20.) MEKH rendelethez
 
 A csatlakozási díjak mértéke
