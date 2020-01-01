@@ -1,6 +1,6 @@
-59. § (1)[^235] Jogszabályban meghatározott kivétellel az utalványozásra jogosult személyekre, azok kijelölésére, a kijelölés módjára az 52. §-ban foglalt szabályokat kell alkalmazni. A kiadások utalványozása az érvényesített okmány alapján történik. A bevételek utalványozására – ha az utalványozás a (4) bekezdésre figyelemmel szükséges, és a kötelezettséget vállaló szerv az 57. § (2) bekezdése alapján előírta a teljesítés igazolását – a teljesítés igazolását követően kerülhet sor.
+59. § (1)[^242] Jogszabályban meghatározott kivétellel az utalványozásra jogosult személyekre, azok kijelölésére, a kijelölés módjára az 52. §-ban foglalt szabályokat kell alkalmazni. A kiadások utalványozása az érvényesített okmány alapján történik. A bevételek utalványozására – ha az utalványozás a (4) bekezdésre figyelemmel szükséges, és a kötelezettséget vállaló szerv az 57. § (2) bekezdése alapján előírta a teljesítés igazolását – a teljesítés igazolását követően kerülhet sor.
 
-(2)[^236] Utalványozni készpénzes fizetési mód esetén az érvényesített pénztárbizonylatra rávezetett, más esetben külön írásbeli rendelkezéssel lehet. A külön írásbeli rendelkezés az érvényesítő és az utalványozó legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
+(2)[^243] Utalványozni készpénzes fizetési mód esetén az érvényesített pénztárbizonylatra rávezetett, más esetben külön írásbeli rendelkezéssel lehet. A külön írásbeli rendelkezés az érvényesítő és az utalványozó legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
 
 (3) A külön írásbeli rendelkezésen fel kell tüntetni
 
@@ -12,11 +12,11 @@ c) a befizető, kedvezményezett megnevezését, címét,
 
 d) a fizetés időpontját, módját, összegét, devizanemét,
 
-e)[^237] a bevétel, kiadás egységes rovatrend és kormányzati funkció szerinti számát, a terheléssel, jóváírással (kifizetéssel, bevételezéssel) érintett pénzeszköz államháztartási számviteli kormányrendelet szerinti könyvviteli számlájának számát,
+e)[^244] a bevétel, kiadás egységes rovatrend és kormányzati funkció szerinti számát, a terheléssel, jóváírással (kifizetéssel, bevételezéssel) érintett pénzeszköz államháztartási számviteli kormányrendelet szerinti könyvviteli számlájának számát,
 
 f) a kötelezettségvállalás nyilvántartási számát,
 
-g)[^238] az utalványozó keltezéssel ellátott aláírását, elektronikus utalványrendelet esetén a legalább fokozott biztonságú elektronikus aláírását, és
+g)[^245] az utalványozó keltezéssel ellátott aláírását, elektronikus utalványrendelet esetén a legalább fokozott biztonságú elektronikus aláírását, és
 
 h) az 58. § (3) bekezdése szerinti érvényesítést.
 
@@ -24,21 +24,21 @@ h) az 58. § (3) bekezdése szerinti érvényesítést.
 
 (5) Nem kell utalványozni
 
-a)[^239] a közigazgatási hatósági határozaton alapuló, az egységes rovatrend B3. Közhatalmi bevételek rovatain elszámolandó költségvetési bevételek beszedését, az egységes rovatrend B401. Készletértékesítés ellenértéke, B402. Szolgáltatások ellenértéke, B403. Közvetített szolgáltatások ellenértéke és B406. Kiszámlázott általános forgalmi adó rovatain elszámolandó költségvetési bevételeket,
+a)[^246] a közigazgatási hatósági határozaton alapuló, az egységes rovatrend B3. Közhatalmi bevételek rovatain elszámolandó költségvetési bevételek beszedését, az egységes rovatrend B401. Készletértékesítés ellenértéke, B402. Szolgáltatások ellenértéke, B403. Közvetített szolgáltatások ellenértéke és B406. Kiszámlázott általános forgalmi adó rovatain elszámolandó költségvetési bevételeket,
 
-b)[^240] a fizetési számla vezetésével és az azon végzett műveletekkel kapcsolatban a számlavezető által felszámított díjakkal, költségekkel kapcsolatos költségvetési kiadásokat és kamatbevételeket,
+b)[^247] a fizetési számla vezetésével és az azon végzett műveletekkel kapcsolatban a számlavezető által felszámított díjakkal, költségekkel kapcsolatos költségvetési kiadásokat és kamatbevételeket,
 
-c)[^241] az egységes rovatrend B813. Maradvány igénybevétele rovatain elszámolandó finanszírozási bevételek teljesítését, és
+c)[^248] az egységes rovatrend B813. Maradvány igénybevétele rovatain elszámolandó finanszírozási bevételek teljesítését, és
 
 d) a fedezetkezelői számláról, valamint – a fedezetkezelői számlára történő átutalás esetén – az építtetői fedezetbiztosítási számláról történő kifizetéseket.
 
-(6)[^242]
+(6)[^249]
 
-[^235]: Az Ávr. 59. § (1) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
-[^236]: Az Ávr. 59. § (2) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 6. pontja szerint módosított szöveg.
-[^237]: Az Ávr. 59. § (3) bekezdés e) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^238]: Az Ávr. 59. § (3) bekezdés g) pontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
-[^239]: Az Ávr. 59. § (5) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (2) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 33. pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 6. pontja szerint módosított szöveg.
-[^240]: Az Ávr. 59. § (5) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 34. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 33. pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 7. pontja szerint módosított szöveg.
-[^241]: Az Ávr. 59. § (5) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (3) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 35. pontja szerint módosított szöveg.
-[^242]: Az Ávr. 59. § (6) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 13. pontja hatályon kívül helyezte.
+[^242]: Az Ávr. 59. § (1) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
+[^243]: Az Ávr. 59. § (2) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 6. pontja szerint módosított szöveg.
+[^244]: Az Ávr. 59. § (3) bekezdés e) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^245]: Az Ávr. 59. § (3) bekezdés g) pontja a 499/2016. (XII. 28.) Korm. rendelet 22. § 7. pontja szerint módosított szöveg.
+[^246]: Az Ávr. 59. § (5) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (2) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 33. pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 6. pontja szerint módosított szöveg.
+[^247]: Az Ávr. 59. § (5) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 34. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 33. pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 7. pontja szerint módosított szöveg.
+[^248]: Az Ávr. 59. § (5) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (3) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 35. pontja szerint módosított szöveg.
+[^249]: Az Ávr. 59. § (6) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 13. pontja hatályon kívül helyezte.

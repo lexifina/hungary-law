@@ -1,3 +1,3 @@
-21. §[^93]
+21. §[^98]
 
-[^93]: Az Ávr. 21. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 8. pontja hatályon kívül helyezte.
+[^98]: Az Ávr. 21. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 8. pontja hatályon kívül helyezte.

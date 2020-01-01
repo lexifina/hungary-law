@@ -1,6 +1,6 @@
-## [Az Áht. 78. § (4) bekezdéséhez][^496]
+## [Az Áht. 78. § (4) bekezdéséhez][^508]
 
-122/A. §[^497] (1) A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti
+122/A. §[^509] (1) A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti
 
 a) az agrártámogatások Európai Unió által finanszírozott része, valamint az Európai Unió részére történő cukorágazati hozzájárulás-fizetési kötelezettség teljesítéséhez szükséges forrás,
 
@@ -14,7 +14,7 @@ e) a Nemzeti Infrastruktúra Fejlesztő Zrt. részére az európai uniós és ah
 
 fedezetét.
 
-(2)[^498] A Kincstár a következő év január 5-éig esedékes járandóságok fedezetének biztosítása érdekében – december 15-ét követően – a Kincstári Egységes Számla terhére megelőlegezi
+(2)[^510] A Kincstár a következő év január 5-éig esedékes járandóságok fedezetének biztosítása érdekében – december 15-ét követően – a Kincstári Egységes Számla terhére megelőlegezi
 
 a) a központi költségvetési szervek foglalkoztatottjai december havi járandóságait, az Egészségbiztosítási Alap által finanszírozott egészségügyi intézmények kivételével,
 
@@ -26,9 +26,9 @@ d) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti c
 
 e) a Nemzeti Foglalkoztatási Alapból finanszírozott álláskeresési és keresetpótló támogatások kiadásait,
 
-f)[^499] a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető, tárgyév december 15-éig megállapított támogatások összegének 4%-át kitevő, és a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettséggel, forgótőke-visszapótlással, valamint jogszabály alapján érvényesített egyéb levonási kötelezettséggel csökkentett összegét.
+f)[^511] a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető, tárgyév december 15-éig megállapított támogatások összegének 4%-át kitevő, és a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettséggel, forgótőke-visszapótlással, valamint jogszabály alapján érvényesített egyéb levonási kötelezettséggel csökkentett összegét.
 
-[^496]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^497]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
-[^498]: Az Ávr. 122/A. § (2) bekezdés nyitó szövegrésze a 425/2016. (XII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^499]: Az Ávr. 122/A. § (2) bekezdés f) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 17. pontja, a 282/2019. (XI. 27.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^508]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^509]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^510]: Az Ávr. 122/A. § (2) bekezdés nyitó szövegrésze a 425/2016. (XII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^511]: Az Ávr. 122/A. § (2) bekezdés f) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 17. pontja, a 282/2019. (XI. 27.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.

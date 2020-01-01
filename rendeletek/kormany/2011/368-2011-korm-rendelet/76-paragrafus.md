@@ -1,6 +1,6 @@
 76. § (1) A támogatási szerződésben meg kell határozni az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, ha azokról jogszabály nem rendelkezik, így különösen
 
-a)[^363] a támogatott tevékenységet,
+a)[^370] a támogatott tevékenységet,
 
 b) a költségvetési támogatás összegét, a támogatási intenzitást, az elszámolható költségeket,
 
@@ -22,13 +22,13 @@ j) az e rendelet szerinti adatszolgáltatásokhoz szükséges adatok és az azok
 
 k) a támogatási szerződés felmondásának, illetve az attól történő elállás esetköreit.
 
-(2)[^364] A támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetési támogatás és – saját forrás jogszabály, pályázati kiírás vagy a támogató által történő előírása esetén – a saját forrás terhére a kétszázezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértésével kötött szerződés teljesítése érdekében történt kifizetés összege a támogatott tevékenység költségei között nem vehető figyelembe.
+(2)[^371] A támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetési támogatás és – saját forrás jogszabály, pályázati kiírás vagy a támogató által történő előírása esetén – a saját forrás terhére a kétszázezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértésével kötött szerződés teljesítése érdekében történt kifizetés összege a támogatott tevékenység költségei között nem vehető figyelembe.
 
-(3)[^365] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
+(3)[^372] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
 
-(4)[^366] Ha a fejlesztési, beruházási célú költségvetési támogatásból származó átmenetileg szabad pénzeszközt a helyi önkormányzat kedvezményezett állampapír vásárlásával hasznosítja, a támogatási szerződés előírhatja a lekötés időtartamáról szóló dokumentum benyújtásának kötelezettségét.
+(4)[^373] Ha a fejlesztési, beruházási célú költségvetési támogatásból származó átmenetileg szabad pénzeszközt a helyi önkormányzat kedvezményezett állampapír vásárlásával hasznosítja, a támogatási szerződés előírhatja a lekötés időtartamáról szóló dokumentum benyújtásának kötelezettségét.
 
-[^363]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^364]: Az Ávr. 76. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 12. pontja szerint módosított szöveg.
-[^365]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^366]: Az Ávr. 76. § (4) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^370]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^371]: Az Ávr. 76. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 12. pontja szerint módosított szöveg.
+[^372]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^373]: Az Ávr. 76. § (4) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 2. §-a iktatta be.

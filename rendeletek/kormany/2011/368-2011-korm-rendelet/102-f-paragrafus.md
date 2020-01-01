@@ -1,4 +1,4 @@
-102/F. §[^423] (1) A támogató
+102/F. §[^432] (1)[^433] A támogató vagy a támogató nevében eljáró szervezet
 
 a) az Áht. 56/C. § (1) bekezdés a) pontja szerinti adatokat a támogatási igény benyújtását, kamattámogatás vagy kezességi díjtámogatás formájában nyújtott költségvetési támogatás esetén a támogatási döntést,
 
@@ -8,14 +8,17 @@ c) az Áht. 56/C. § (1) bekezdés c) pontja szerinti adatokat a támogatási jo
 
 követő hét napon belül továbbítja a Kincstárnak.
 
-(2) A támogató a Kincstárt hét napon belül értesíti, ha
+(2)[^434] A támogató vagy a támogató nevében eljáró szervezet a Kincstárt hét napon belül értesíti, ha
 
 a) a Kincstár részére az (1) bekezdés a)–c) pontja szerint továbbított adatokban változás történik,
 
 b) a támogatási döntés hatályát veszti, vagy
 
-c) a támogató a támogatói okirat kiadásáról, módosításáról, visszavonásáról vagy a támogatási szerződés megkötéséről, módosításáról, felbontásáról, megszüntetéséről dönt.
+c)[^435] a támogató vagy a támogató nevében eljáró szervezet a támogatói okirat kiadásáról, módosításáról, visszavonásáról vagy a támogatási szerződés megkötéséről, módosításáról, felbontásáról, megszüntetéséről dönt.
 
 (3) A támogatás folyósításáról a támogató a támogatás teljes összegének folyósítását követően értesíti a Kincstárt.
 
-[^423]: Az Ávr. 102/F. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^432]: Az Ávr. 102/F. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^433]: A 102/F. § (1) bekezdés nyitó szövegrésze a 340/2019. (XII. 23.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^434]: A 102/F. § (2) bekezdés nyitó szövegrésze a 340/2019. (XII. 23.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^435]: A 102/F. § (2) bekezdés c) pontja a 340/2019. (XII. 23.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
