@@ -74,6 +74,8 @@ alapján.
 
 1.2.2.[^42] Az ellenőrzés alapján feltárt eltérésekről (hiány vagy többlet) jegyzőkönyvet kell készíteni két példányban, aminek első példányát haladéktalanul meg kell küldeni a NISZ Zrt.-nek, második példányát irattározni kell. Az eltérések rendezésére a NISZ Zrt. intézkedik.
 
+1.2.3.[^43] A járási hivatal vezetője a biankó okmányok, PIN boríték és rendszámok átadása érdekében az átvételre jogosult személy és helyettesének kijelölését követően a biankó okmányokat, PIN borítékot és rendszámokat szállító szervnek köteles megadni az átvételre jogosult személyek nevét, telefonszámát, elektronikus elérhetőségét, személyazonosításra alkalmas okmánya típusát és számát.
+
 1.3. Biankó okmányok és PIN borítékok felhasználása
 
 1.3.1. Ügyintézői vételezés
@@ -144,7 +146,7 @@ i) a visszavételező aláírását.
 
 A hibás, selejtes okmányokat és PIN borítékokat áthúzással, pecsételéssel vagy a biankó okmányok esetében átlyukasztással érvényteleníteni kell.
 
-1.4.2.[^43] A NISZ Zrt.-hez felterjesztendő okmányok és PIN borítékok kezelése
+1.4.2.[^44] A NISZ Zrt.-hez felterjesztendő okmányok és PIN borítékok kezelése
 
 Abban az esetben, ha a nyomtatvány a megszemélyesítés során teljesen vagy beazonosíthatatlanságig sérült, az esetleges okmánymaradványokat is tartalmazó borítékot kell feliratozni, feltüntetve az
 
@@ -183,4 +185,5 @@ Az okmányokat és PIN borítékokat biztonságos körülmények között, típu
 [^40]: A 4. számú melléklet 1. pont 1.1.1. alpontját az 58/2016. (XII. 22.) BM rendelet 7. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^41]: A 4. számú melléklet 1. pont 1.2. alpont nyitó szövegrésze az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés l) pontja szerint módosított szöveg.
 [^42]: A 4. számú melléklet 1. pont 1.2.2. alpontja az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés e) és m) pontja szerint módosított szöveg.
-[^43]: A 4. számú melléklet 1. pont 1.4.2. alpont nyitó és záró szövegrésze az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^43]: A 4. számú melléklet 1.2.3. pontját a 38/2019. (XI. 7.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^44]: A 4. számú melléklet 1. pont 1.4.2. alpont nyitó és záró szövegrésze az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés n) pontja szerint módosított szöveg.

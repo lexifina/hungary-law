@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-58-20-0
 | 2016-01-01 | 1999-58-20-0A.12 | 75/2015. (XII. 22.) BM rendelet |
 | 2017-01-01 | 1999-58-20-0A.13 | 58/2016. (XII. 22.) BM rendelet |
 | 2019-01-16 | 1999-58-20-0A.14 | 1/2019. (I. 15.) MvM rendelet |
+| 2020-01-01 | 1999-58-20-0A.15 | 38/2019. (XI. 7.) BM rendelet |
