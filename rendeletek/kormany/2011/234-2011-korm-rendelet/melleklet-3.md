@@ -160,4 +160,12 @@
 
 ## 8. az ideiglenes helyreállítás, valamint az ingatlanok és ingóságok mentesítésének és fertőtlenítésének rendjét.
 
+## 9. a kockázatkezelésre vonatkozóan
+
+## a) a fő katasztrófakockázatok azonosítását, értékelését és prioritási sorrendjük meghatározását,
+
+## b) a megelőzési és felkészültségi intézkedések meghatározását a kockázatok megelőzése, csökkentése és azokhoz való alkalmazkodás érdekében,
+
+## c) a katasztrófakockázat-kezelési válaszok feltételeinek, végrehajtási rendjének és ellenőrzése módjának meghatározását.
+
 3. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
