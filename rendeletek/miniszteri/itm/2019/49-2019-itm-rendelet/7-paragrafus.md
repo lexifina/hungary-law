@@ -1,7 +1,8 @@
-## „k) az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásáról szóló közleménye (2014/C99/03)”
+## 6. §[^4]
 
-## (hatálya alá tartozó támogatást tartalmaz.)
-
-7. § (1) A Rendelet 1. melléklete az 1. melléklet szerint módosul.
+7. § (1)[^5]
 
 (2) A Rendelet 1. melléklete helyébe a 2. melléklet lép.
+
+[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
