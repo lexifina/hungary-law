@@ -1,3 +1,5 @@
-## 2. §[^1]
+## 2. § A Kormány az Egyezmény I. melléklete módosítását e rendelettel kihirdeti.
 
-[^1]: A 2. § a 4. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+3. § (1) Az Egyezmény I. melléklete módosításának hivatalos magyar nyelvű fordítását az 1. melléklet tartalmazza.
+
+(2) Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
