@@ -7,7 +7,3 @@ Javadalmazási politika
 a) a javadalmazási politika összhangban áll az eredményes és hatékony kockázatkezeléssel és előmozdítja azt, továbbá nem ösztönzi a kezelésükben lévő befektetési alapok kockázati profiljával, kezelési szabályzatával nem összeegyeztethető kockázatvállalást;
 
 b) a javadalmazási politika összhangban áll a befektetési alapkezelő és a kezelésében lévő befektetési alapok vagy az ilyen befektetési alapok befektetőinek üzleti stratégiájával, célkitűzéseivel, értékeivel és érdekeivel, valamint az összeférhetetlenség elkerülését célzó intézkedéseket tartalmaz;
-
-c) a befektetési alapkezelő felügyeleti feladatokat ellátó irányító testülete elfogadja, legalább évente egyszer felülvizsgálja a javadalmazási politika általános elveit és felelős annak végrehajtásáért;
-
-d) a javadalmazási politika végrehajtását legalább évente központi és független belső felülvizsgálatnak vetik alá annak ellenőrzése céljából, hogy megfelel-e a felügyeleti feladatokat ellátó irányító testülete által elfogadott javadalmazási politikáknak és eljárásoknak;
