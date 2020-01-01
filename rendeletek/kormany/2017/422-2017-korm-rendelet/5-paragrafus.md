@@ -1,3 +1,5 @@
+## 1–4. §
+
 ## 2. Bejelentéshez kötött szakértői tevékenység
 
 5. § (1) A jogszabályban meghatározott esetben az egészségügyi szociális intézmény működésével kapcsolatos eljárásokban szakértőként az jogosult eljárni, aki az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet 3. mellékletében meghatározott szakterületen a tevékenysége megkezdését és az ellátni kívánt szakterületet bejelenti Budapest Főváros Kormányhivatalának.
