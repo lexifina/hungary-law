@@ -8,4 +8,4 @@
 
 (4)
 
-(5) A bejelentés tudomásulvételét az egészségügyi államigazgatási szerv a formai és tartalmi követelményeknek megfelelő bejelentés beérkezésétől számított 15 napon belül elektronikus úton visszaigazolja. A bejelentett veszélyes keveréket az egészségügyi államigazgatási szerv felveszi a 23. § szerinti terméknyilvántartásba.
+(5) A formai és tartalmi követelményeknek megfelelő bejelentést az egészségügyi államigazgatási szerv elektronikus úton visszaigazolja.

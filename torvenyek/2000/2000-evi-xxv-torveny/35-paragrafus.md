@@ -34,6 +34,8 @@ b) az anyagok és keverékek osztályozásáról, címkézéséről és csomagol
 
 c) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012. május 22-i, 528/2012/EU európai parlamenti és tanácsi rendelet
 
-d) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+d) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
+
+e) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek egy, az egészséget érintő vészhelyzetre való reagálással kapcsolatos harmonizált információkról szóló melléklet hozzáadásával történő módosításáról szóló 2017. március 22-i (EU) 2017/542 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.

@@ -1,1 +1,1 @@
-31/C. § A biocid termék engedélyezésével kapcsolatos eljárásokban az egészségügyi államigazgatási szerv és a szakhatóság az engedélyezési feltételeket egyeztetés alapján állapítja meg.
+31/C. § A biocid termékek hazai engedélyezésére irányuló általános közigazgatási rendtartás szerinti eljárás során nincs helye sommás eljárásnak.
