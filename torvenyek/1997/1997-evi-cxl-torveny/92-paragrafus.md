@@ -2,6 +2,6 @@
 
 (2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, amelyek mértékét az éves költségvetési törvény határozza meg.
 
-(3)
+(3) Az e törvény hatálya alá tartozó, központi költségvetési szervként működő intézmény kiadási előirányzata terhére a tulajdonosi joggyakorlásában álló gazdasági társaság részére költségvetési támogatást nyújthat.
 
-(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény, illetve az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény rendelkezéseit figyelembe véve az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
+(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény, illetve az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit figyelembe véve az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.

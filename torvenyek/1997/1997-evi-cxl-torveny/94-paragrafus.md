@@ -12,7 +12,7 @@ b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és
 
 (4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
 
-a) a szakmai továbbképzési programot készítő intézmény megnevezése, a felnőttképzést folytató intézmények nyilvántartásában szereplő száma,
+a) a szakmai továbbképzési programot készítő intézmény megnevezése,
 
 b) a szakmai továbbképzési program megnevezése,
 

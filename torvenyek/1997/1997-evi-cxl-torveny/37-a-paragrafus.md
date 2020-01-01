@@ -36,7 +36,7 @@ g) turisztikai vonzerejének felhasználásával, a látogatóknak nyújtandó s
 
 (5) A muzeális intézmény a kulturális javakhoz való hozzáférés feltételeit a működési engedélyében meghatározott szakmai besorolásnak megfelelő követelményszint szerint biztosítja.
 
-(6) A muzeális intézmények feladataik ellátásában – fenntartójuktól függetlenül – együttműködnek egymással, valamint a kulturális örökség más értékeit gondozó intézményekkel, így különösen a könyvtárakkal, a levéltárakkal és a közművelődés intézményeivel, továbbá a tudományos köztestületekkel, a köz- és a felsőoktatás, valamint a szakképzés intézményeivel.
+(6) A muzeális intézmények feladataik ellátásában – fenntartójuktól függetlenül – együttműködnek egymással, valamint a kulturális örökség más értékeit gondozó intézményekkel, így különösen a könyvtárakkal, a levéltárakkal és a közművelődés intézményeivel, továbbá a tudományos köztestületekkel, a köznevelési intézményekkel, a szakképző intézményekkel és a felsőoktatási intézményekkel.
 
 (7) A muzeális intézmény szakmai besorolása szerint lehet:
 

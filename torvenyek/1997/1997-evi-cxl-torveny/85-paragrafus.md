@@ -6,7 +6,7 @@ b) együttműködés az országos, a hazai és a nemzetközi szakmai szervezetek
 
 c) a terület- és vidékfejlesztési célokkal összhangban közművelődési tevékenységgel összefüggő elemzések és fejlesztő programok készítése és hasznosítása, szakmai műhelyek működtetése, innovatív kezdeményezések támogatása, közreműködés a kulturális alapú gazdaságfejlesztésben a kreatív és kulturális ipari szolgáltatások fejlesztésével,
 
-d) a területi szintű amatőr művészeti, népművészeti, hagyományőrző tevékenységek megőrzésének és fejlesztésének, a népi iparművészet, az élethosszig tartó tanulás, a tanórán kívüli nevelés, a felnőttképzés, az ismeretterjesztés, a közösségfejlesztés, a honismereti, helytörténeti kutatás, az anyanyelvápolás, a kulturális turizmus, a népfőiskolai mozgalom szakmai támogatása,
+d) a területi szintű amatőr művészeti, népművészeti, hagyományőrző tevékenységek megőrzésének és fejlesztésének, a népi iparművészet, az élethosszig tartó tanulás, a tanórán kívüli nevelés, a szakképzés, az ismeretterjesztés, a közösségfejlesztés, a honismereti, helytörténeti kutatás, az anyanyelvápolás, a kulturális turizmus, a népfőiskolai mozgalom szakmai támogatása,
 
 e) közművelődési információs szolgáltatás nyújtása, tematikus adatbázisok létrehozása és működtetése, részvétel az országos információs adatbázis működtetésében és a közművelődési statisztikai adatgyűjtésben,
 
