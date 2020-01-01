@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-41-20-0
 | 2017-01-03 | 2004-41-20-0L.11 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2004-41-20-0L.12 | 55/2017. (XII. 27.) NFM rendelet |
 | 2019-01-07 | 2004-41-20-0L.13 | 1/2019. (I. 7.) ITM rendelet |
+| 2020-01-01 | 2004-41-20-0L.14 | 45/2019. (XII. 20.) ITM rendelet |

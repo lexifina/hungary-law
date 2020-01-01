@@ -1,6 +1,6 @@
-2. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez[^25]
+2. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez[^20]
 
-A közúti járművezetők pályaalkalmassági vizsgálatának eljárási díjai
+## A közúti járművezetők pályaalkalmassági vizsgálatának eljárási díjai
 
 Ft
 
@@ -16,4 +16,4 @@ Ft
 
 6. Ha az 1–5. pontban foglalt eljárásoknál PÁV jármű igénybevétele szükséges, a gépjárműhasználat díja 2 600
 
-[^25]: A 2. számú melléklet a 37/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, címe a 48/2009. (IX. 30.) KHEM rendelet 33. § (2) bekezdése, az 1/2019. (I. 7.) ITM rendelet 4. § b) pontja szerint módosított szöveg.
+[^20]: A 2. számú melléklet a 37/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, címe a 48/2009. (IX. 30.) KHEM rendelet 33. § (2) bekezdése, az 1/2019. (I. 7.) ITM rendelet 4. § b) pontja szerint módosított szöveg.
