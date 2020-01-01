@@ -2,8 +2,9 @@
 
 3. § (1) Az Öotv.-ben foglalt kivétellel önálló háziorvosi tevékenységet végezni csak praxisengedély birtokában lehet.
 
-(2) A praxisengedély kiadása annak az egészségügyi államigazgatási szervnek a hatáskörébe tartozik, amely az adott praxisjoggal érintett egészségügyi szolgáltató működési engedélyének kiadására jogosult (a továbbiakban: engedélyező szerv).
+(2)[^1] A praxisengedély kiadása az Állami Egészségügyi Ellátó Központ (a továbbiakban: engedélyező szerv) hatáskörébe tartozik.
 
-(3)[^1] Az Öotv. szerinti, praxisjog meglétét igazoló hatósági bizonyítvány kiadása annak az egészségügyi államigazgatási szervnek a hatáskörébe tartozik, amely az adott praxisjoggal érintett egészségügyi szolgáltató működési engedélyének kiadására jogosult.
+(3)[^2] Az Öotv. szerinti, praxisjog meglétét igazoló hatósági bizonyítványt az engedélyező szerv adja ki.
 
-[^1]: A 3. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 94. §-a iktatta be.
+[^1]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 3. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 94. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
