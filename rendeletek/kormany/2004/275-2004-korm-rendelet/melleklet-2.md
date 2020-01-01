@@ -1164,6 +1164,6 @@
 
 | 314. |  | Emberiza calandra (Miliaria calandra) | sordély |
 
-2. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^62]
+2. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^66]
 
-[^62]: A 2. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^66]: A 2. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 3. §-ával megállapított szöveg.

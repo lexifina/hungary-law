@@ -1158,6 +1158,6 @@
 
 | 207. |  | Viola hispida | szőrös ibolya |
 
-4. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^64]
+4. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^68]
 
-[^64]: A 4. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^68]: A 4. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

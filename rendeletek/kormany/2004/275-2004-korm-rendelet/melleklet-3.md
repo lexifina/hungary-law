@@ -906,6 +906,6 @@
 
 | 101. |  | Bythiospeum hungaricum (Paladilhia hungarica) | magyar vakcsiga |
 
-3. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^63]
+3. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^67]
 
-[^63]: A 3. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^67]: A 3. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 4. §-ával megállapított szöveg.

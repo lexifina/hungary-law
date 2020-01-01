@@ -48,7 +48,7 @@
 
 ## g) a várható természeti állapotváltozás leírása a terv vagy beruházás megvalósulása esetén.
 
-## 2. A negatív hatások felmérése[^71]
+## 2. A negatív hatások felmérése[^75]
 
 ## Összefoglaló a területet érő negatív hatásokról (különösen a terület természetvédelmi célkitűzései és integritása szempontjából lényeges hatásokról):
 
@@ -94,7 +94,7 @@
 
 ## e) egyéb kiemelt fontosságú kényszerítő közérdek [4. § (2) bekezdés a) pont, 10/A. § (3) bekezdés, élőhelyvédelmi irányelv 6. cikk (4) bekezdés 2. albekezdés].
 
-## A kényszerítő indok (kiemelt fontosságú közérdek) igazolása, indokolása[^72]:
+## A kényszerítő indok (kiemelt fontosságú közérdek) igazolása, indokolása[^76]:
 
 ## 5. Kiegyenlítő, kompenzációs intézkedések
 
@@ -120,8 +120,8 @@
 
 ## j) a kompenzációs intézkedések végrehajtásának nyomon követése (pl. ha bizonytalanságok vannak az intézkedések hatékonysága tekintetében), az eredmények folyamatos értékelése és nyomon követése.
 
-9. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^73]
+9. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^77]
 
-[^71]: A terület jelölő élőhelytípusaira és fajaira várható negatív hatásokra kell összpontosítani. Minden olyan információt be kell írni, ami releváns lehet az adott ügyben, az érintett élőhelytípusokra és fajokra kifejtett hatások tekintetében.
-[^72]: Eltérő mértékben szükséges részletezni annak megfelelően, hogy az adatlapot utólagos tájékoztatás vagy előzetes véleménykérés céljából töltötték ki.
-[^73]: A 9. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 266/2008. (XI. 6.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^75]: A terület jelölő élőhelytípusaira és fajaira várható negatív hatásokra kell összpontosítani. Minden olyan információt be kell írni, ami releváns lehet az adott ügyben, az érintett élőhelytípusokra és fajokra kifejtett hatások tekintetében.
+[^76]: Eltérő mértékben szükséges részletezni annak megfelelően, hogy az adatlapot utólagos tájékoztatás vagy előzetes véleménykérés céljából töltötték ki.
+[^77]: A 9. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 266/2008. (XI. 6.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
