@@ -18,7 +18,7 @@ d) egészségi állapotában olyan tartós rosszabbodás következett be, amely 
 
 e) egészségi állapotában olyan tartós javulás következett be, amely alapján már nem minősül megváltozott munkaképességű személynek,
 
-f) az együttműködési, értesítési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból ismételten nem teljesíti,
+f) az együttműködési, értesítési kötelezettségét neki felróható okból ismételten nem teljesíti,
 
 g) a felülvizsgálat során neki felróható okból nem működik együtt, vagy
 

@@ -6,7 +6,7 @@
 
 (3) A rehabilitációs ellátásban részesülő személy keresőtevékenység folytatása esetén a keresőtevékenység időtartama alatt bekövetkezett keresőképtelenségére (a továbbiakban: keresőképtelenség) tekintettel – a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben (a továbbiakban: Ebtv.) meghatározottak szerint – táppénzre vagy baleseti táppénzre jogosult.
 
-(4) Ha rehabilitációs ellátásban részesülő a 6. § (2) és (3) bekezdésében meghatározott együttműködési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból nem teljesíti, a rehabilitációs pénzbeli ellátás folyósítását a kötelezettségszegésről való tudomásszerzés hónapját követő második hónap első napjától 3 hónap időtartamra – de legfeljebb a rehabilitációs ellátás megszűnéséig hátralevő időtartamra – fel kell függeszteni.
+(4) Ha a rehabilitációs ellátásban részesülő a 6. § (2) és (3) bekezdésében meghatározott együttműködési kötelezettségét neki felróható okból nem teljesíti, a rehabilitációs pénzbeli ellátás folyósítását a kötelezettségszegésről való tudomásszerzés hónapját követő második hónap első napjától 3 hónap időtartamra – de legfeljebb a rehabilitációs ellátás megszűnéséig hátralevő időtartamra – fel kell függeszteni.
 
 (4a) A folyósítás felfüggesztésének időtartama a rehabilitációs ellátásra való jogosultság időtartamába beleszámít.
 

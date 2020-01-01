@@ -8,11 +8,11 @@ b) pénzbeli ellátásra (a továbbiakban: rehabilitációs pénzbeli ellátás)
 
 jogosult.
 
-(2) A rehabilitációs ellátásban részesülő személy a rehabilitációs hatósággal történő együttműködésre köteles, amelynek keretében teljesíti a rehabilitációs tervben foglalt kötelezettségeket.
+(2) A rehabilitációs ellátásban részesülő személy a rehabilitációs hatósággal történő együttműködésre köteles.
 
 (3) A (2) bekezdés szerinti együttműködési kötelezettség keretében a rehabilitációs ellátásban részesülő személy köteles
 
-a) a rehabilitációs hatóságnál a rehabilitációs tervben meghatározott időpontban megjelenni,
+a) a rehabilitációs hatóságnál meghatározott időpontban megjelenni,
 
 b) értesítési kötelezettségét teljesíteni,
 

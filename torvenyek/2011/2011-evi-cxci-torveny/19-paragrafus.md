@@ -16,7 +16,9 @@ a) a felülvizsgálatra az ellátás megállapításáról szóló vagy a felül
 
 b) a felülvizsgálati eljárás megindításának időpontjában
 
-az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg.
+az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet nem haladja meg.
+
+(1b) Rokkantsági ellátásban részesülő személy esetén az (1) bekezdés a) pontja szerinti felülvizsgálatot nem kell elvégezni, ha a 3. § (2) bekezdés b) pont bd) alpontja alapján a megváltozott munkaképességű személy rehabilitációja nem javasolt, mert egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes.
 
 (2) Amennyiben a felülvizsgálat során a rehabilitációs hatóság megállapítja, hogy a 3. § (2) bekezdése szerinti minősítési kategória eltér a felülvizsgálatot megelőzően megállapított minősítési kategóriától (a továbbiakban: állapotváltozás), akkor a megváltozott munkaképességű személyek ellátását az új minősítési kategória figyelembevételével – ha a bíróság által elrendelt megismételt eljárás esetén az ítélet másként nem rendelkezik – az erről szóló döntést követő naptól állapítja meg. A megállapított ellátás összege az állapotjavulás kivételével nem lehet kevesebb a felülvizsgálatot megelőző hónapra járó ellátás összegénél. Ha a megállapított ellátás összege csökken, azt a döntést követő második hónap első napjától kell a csökkentett összegben folyósítani.
 
