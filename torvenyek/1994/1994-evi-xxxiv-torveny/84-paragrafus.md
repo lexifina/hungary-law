@@ -36,7 +36,7 @@ p) a bírósági ügyviteli nyilvántartásból,
 
 r) az ingatlan-nyilvántartásból,
 
-s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
+s) az egyéni vállalkozók nyilvántartásából,
 
 t) a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 

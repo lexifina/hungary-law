@@ -36,7 +36,7 @@ d) egyedi állami támogatásról való döntésre irányuló eljárás lefolyta
 
 e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
 
-f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, egyéni vállalkozói igazolvány, hatósági erkölcsi bizonyítvány kiállításával összefüggő ügyekben.
+f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben.
 
 (1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
 
