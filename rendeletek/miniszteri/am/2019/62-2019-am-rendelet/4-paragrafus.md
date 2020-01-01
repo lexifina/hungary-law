@@ -1,0 +1,1 @@
+## „(15) Az ökológiai célú, szelektív halászatra vonatkozó halászati engedély tartalmazza az ökológiai célú, szelektív halászat e rendeletben, valamint a jóváhagyott halgazdálkodási tervben meghatározott feltételeit.”
