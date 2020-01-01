@@ -1,0 +1,3 @@
+## 38. § A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy lassú járművel vontatott pótkocsival történő közúti szállításáról szóló 7/2011. (III. 8.) NFM rendelet 11. § (1) bekezdés a) pontjában a „közlekedési hatóság” szövegrész helyébe a „KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság” szöveg lép.
+
+## 12. A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló 19/2011. (V. 10.) NFM rendelet módosítása
