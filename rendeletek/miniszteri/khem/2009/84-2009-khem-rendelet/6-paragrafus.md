@@ -1,6 +1,6 @@
-6. §[^14] A rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+6. §[^16] A rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-Melléklet a 84/2009. (XII. 30.) KHEM rendelethez[^15]
+Melléklet a 84/2009. (XII. 30.) KHEM rendelethez[^17]
 
 A közúti járművezetők és a közúti közlekedési szakemberek képzésével továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjak
 
@@ -62,5 +62,5 @@ Ft
 
 |  | 20. A közúti járművezetők utánképzéséről szóló 139/1991 (X. 29.) Korm. rendelet 6. számú mellékletében hivatkozott utánképzés díjául alapul vehető közúti járművezetői pótvizsgadíj | 1 150 |
 
-[^14]: A 6. §-t az 1/2019. (I. 7.) ITM rendelet 25. §-a iktatta be.
-[^15]: A melléklet a 46/2013. (VIII. 7.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^16]: A 6. §-t az 1/2019. (I. 7.) ITM rendelet 25. §-a iktatta be.
+[^17]: A melléklet a 46/2013. (VIII. 7.) NFM rendelet 5. §-a szerint módosított szöveg.
