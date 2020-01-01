@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-37-00-00
 | 2019-01-01 | 2018. évi LXXXII. törvény | 2013-37-00-00.19 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2013-37-00-00.20 |
 | 2019-07-24 | 2019. évi LXXII. törvény | 2013-37-00-00.21 |
+| 2020-01-01 | 2019. évi CXXVII. törvény | 2013-37-00-00.22 |

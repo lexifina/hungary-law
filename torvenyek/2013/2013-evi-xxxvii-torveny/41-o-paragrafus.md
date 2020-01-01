@@ -16,9 +16,11 @@ bb) nem adott, illetve ad tanácsot az érintett személyek valamelyikének,
 
 bc) nem rendelkezett 10%-nál nagyobb tulajdoni részesedéssel vagy szavazati joggal az érintett személyben,
 
-c) az érintett tagállamok illetékes hatóságai által közösen rögzített egyéb feltételeknek megfelel, és
+c) az ügyben bíróként nem járt el,
 
-d) az egyéb körülményekre is tekintettel személyében biztosított a vitás kérdés tárgyilagos megítélése.
+d) az érintett tagállamok illetékes hatóságai által közösen rögzített egyéb feltételeknek megfelel, és
+
+e) az egyéb körülményekre is tekintettel személyében biztosított a vitás kérdés tárgyilagos megítélése.
 
 (2) A tanácsadó bizottság által adott véleménytől számított 12 hónapon belül a tanácsadó bizottság döntésében részt vevő független szakértő nem kerülhet olyan helyzetbe, amely a kijelölését megakadályozta volna.
 
