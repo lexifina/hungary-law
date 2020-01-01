@@ -2,7 +2,7 @@
 
 17. § (1) Felmérési, térképezési vagy területszámítási hiba megállapítása esetén az ingatlanügyi hatóság az állami ingatlan-nyilvántartási térképi adatbázist, illetve a hozzá tartozó területi adatokat hivatalból bármikor kijavíthatja.
 
-(2) Az (1) bekezdés szerinti hiba kijavítása nem érinti és nem változtatja meg a fennálló természetbeni határvonalat és a birtoklási viszonyokat, kizárólag a térképi határvonalakat érintheti. Amennyiben a kijavítás ellentétes a fennálló birtoklási viszonyokkal, úgy a kijavítás a természetbeni határvonalat nem változtathatja meg, arra csak a kiigazítással érintett szomszédos földrészlet tulajdonosának hozzájárulása esetén, véglegessé vált közigazgatási határozat vagy jogerős bírósági ítélet alapján van lehetőség.
+(2) Az (1) bekezdés szerinti hiba kijavítása kizárólag a térképi határvonalakat érinti, és nem változtatja meg a fennálló természetbeni határvonalat és a birtoklási viszonyokat.
 
 (3) Az (1) bekezdés szerinti hiba kijavítására irányuló eljárásban nincs szükség az eljárásba bevont ingatlanok jogosultjainak hozzájáruló nyilatkozatára.
 

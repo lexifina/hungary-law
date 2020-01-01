@@ -12,7 +12,7 @@ b) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági viz
 
 c) az ingatlanrendező földmérő minősítési eljárásáért,
 
-d) a földmérő igazolvány kiadásáért,
+d) a földmérő igazolvány kiadása iránti eljárásért,
 
 e) a levegőből végzett távérzékelés engedélyezéséért és a távérzékelt adatok minősítési célú vizsgálatáért,
 
@@ -35,6 +35,8 @@ b) 6–15 ingatlan esetén 50 000 Ft, valamit a hatodik ingatlantól ingatlanonk
 c) 16, vagy több ingatlan esetén 100 000 Ft, valamit a tizenhatodik ingatlantól ingatlanonként további 500 Ft
 
 összegű igazgatási szolgáltatási díjat kell fizetni.
+
+(4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését írásban engedélyezheti.
 
 (5) Az (4) bekezdés szerinti eljárási díj a fővárosi és megyei kormányhivatalok bevételét képezi, a megfizetés és felhasználás módjára az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdés rendelkezéseit kell alkalmazni.
 
@@ -94,7 +96,7 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
 
-(22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
+(22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofotó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
 
 (23) A vízügyi igazgatási szerv jogszabályban meghatározott közfeladatai ellátása érdekében díj-, költség- és térítésmentesen hozzáférhet
 
@@ -114,10 +116,26 @@ b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázis
 
 (26) A mezőgazdasági és vidékfejlesztési támogatási szerv az Integrált Igazgatási és Ellenőrzési Rendszerben történő felhasználás céljából minden év januárjában – díjmentesen, de az adatszolgáltatáshoz kapcsolódó munkadíj megfizetése mellett – hozzáférhet az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz.
 
-(27) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
+(27) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz.
 
-a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás és a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
+(28) A megyei önkormányzat a megyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
 
-b) a területfejlesztési és területrendezési feladatainak ellátása érdekében szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz, a Mezőgazdasági Parcella Azonosító Rendszernek a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
+(29) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
 
-térítésmentesen hozzáférhet.
+(30) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében az 1:10000 digitális szintvonalrajzhoz és domborzatmodellhez térítésmentesen hozzáférhet.
+
+(31) Az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás működtetéséhez, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez, valamint a területfejlesztési és területrendezési egyéb feladatok ellátásához, továbbá a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz ezek üzemeltetője térítésmentesen hozzáférhet.
+
+(32) Az agrárpolitikáért felelős miniszter, az öntözési igazgatási szerv az öntözésfejlesztési feladatai ellátása céljából, valamint az agrárpolitikáért felelős miniszter irányítása alatt álló, agrárkutatásokkal foglalkozó intézet az öntözésfejlesztési, agrár-gazdaságelemzési és statisztikai feladatai ellátása céljából
+
+a) folyamatosan a 3. § (1) bekezdés d) pontjában foglalt adatbázishoz,
+
+b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz,
+
+c) évente egyszer az ország legújabb évjárat szerinti domborzatmodelljéhez (DDM-5), valamint
+
+d) az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz,
+
+díj-, költség- és térítésmentesen hozzáférhet.
+
+(33) Az öntözési igazgatási szerv az öntözési célú beruházásokhoz szükséges térképmásolatokhoz díj-, költség- és térítésmentesen hozzáférhet.

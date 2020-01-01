@@ -12,7 +12,7 @@
 
 (4) A földmérőnek a földmérési jogosultságát igazolnia kell.
 
-(5) A földmérő a földmérési jogosultságát földmérő igazolvánnyal, és az adott munka végzésére szóló megbízással, illetve megrendeléssel igazolja. Honvédelmi célú földmérési és térképészeti helyszíni munkák végzésére, ellenőrzésére e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek megfelelően kiállított „Parancs” jogosít fel.
+(5) A földmérő a földmérési jogosultságát földmérő igazolvánnyal, és az adott munka végzésére szóló megbízással vagy vállalkozási szerződéssel igazolja. Honvédelmi célú földmérési és térképészeti helyszíni munkák végzésére, ellenőrzésére e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek megfelelően kiállított „Parancs” jogosít fel.
 
 (6) A különleges rendeltetésű ingatlanon a földmérési és térképészeti tevékenység végzéséhez, valamint újonnan létesítendő, állandó jellegű földmérési jel elhelyezéséhez az arra hatáskörrel rendelkező miniszter vagy az általa felhatalmazott szerv vagy szervezet előzetes engedélye is szükséges.
 

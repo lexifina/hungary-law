@@ -10,7 +10,7 @@ c) szakmai referencia munkákkal.
 
 (3) Az (1) bekezdés szerinti nyilvántartás bárki számára ingyenesen hozzáférhető országos nyilvántartás, amely tartalmazza a tevékenység végzésére jogosult személy:
 
-a) természetes személyazonosító adatait,
+a) nevét,
 
 b) nyilvántartásba vételének számát,
 

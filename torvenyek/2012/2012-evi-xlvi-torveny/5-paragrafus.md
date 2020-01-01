@@ -26,7 +26,7 @@
 
 (8) Nem hatósági eljárásban történő felhasználásra a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból kizárólag a földmérési és térinformatikai államigazgatási szerv szolgáltathat adatot az alábbiak szerint:
 
-a) egy vagy több települést vagy fekvést érintő, poligonnal lehatárolt térképi kivágatot,
+a) egy vagy több települést vagy fekvést érintő térképi kivágatot,
 
 b) szelektív vagy csökkentett pontosságú digitális térképi adattartalmat az a) pont szerinti területekre,
 
