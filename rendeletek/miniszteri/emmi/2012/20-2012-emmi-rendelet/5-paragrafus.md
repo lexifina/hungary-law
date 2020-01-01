@@ -16,9 +16,9 @@ f) a fegyelmező intézkedések formáit és alkalmazásának elveit,
 
 g) elektronikus napló használata esetén a szülő részéről történő hozzáférés módját,
 
-h) az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
+h)[^18] a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
 
-i)[^18] a tankönyvellátás iskolán belüli szabályait.
+i)[^19] a tankönyvellátás iskolán belüli szabályait.
 
 (2) Az (1) bekezdésben foglaltakon túl az iskola és a kollégium házirendje állapítja meg
 
@@ -32,10 +32,11 @@ d) a tanulók tantárgyválasztásával, annak módosításával kapcsolatos elj
 
 e) a kollégiumi lakhatás ideje alatt a kollégiumon kívüli tartózkodás során elvárt tanulói magatartást,
 
-f)[^19] az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét, figyelembe véve a környezettudatos használatra vonatkozó szabályokat,
+f)[^20] az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét, figyelembe véve a környezettudatos használatra vonatkozó szabályokat,
 
 g) az iskola, kollégium által szervezett, a pedagógiai program végrehajtásához kapcsolódó iskolán, kollégiumon kívüli rendezvényeken elvárt tanulói magatartást.
 
 [^17]: Az 5. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 4. pontja szerint módosított szöveg.
-[^18]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
-[^19]: Az 5. § (2) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 1. pontja szerint módosított szöveg.
+[^18]: Az 5. § (1) bekezdés h) pontja a 34/2019. (XII. 30.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
+[^19]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
+[^20]: Az 5. § (2) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 1. pontja szerint módosított szöveg.

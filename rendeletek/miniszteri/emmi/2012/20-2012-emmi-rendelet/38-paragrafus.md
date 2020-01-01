@@ -6,10 +6,10 @@
 
 (4) A felvételi kérelmek rangsorolásáról a középfokú iskola nem kérhet információt, a tanulói adatlapon feltüntetett rangsorolást nem ismerheti meg.
 
-(5)[^112] Az általános iskola a tanulói adatlap első példányának 37. § (1) bekezdés szerinti elküldése után a tanulói adatlap második példányát borítékba zárja, és a tanév végéig megőrzi oly módon, hogy ahhoz – az e rendeletben meghatározott módosítási lehetőségen kívül – ne lehessen hozzáférni.
+(5)[^121] Az általános iskola a tanulói adatlap első példányának 37. § (1) bekezdés szerinti elküldése után a tanulói adatlap második példányát borítékba zárja, és a tanév végéig megőrzi oly módon, hogy ahhoz – az e rendeletben meghatározott módosítási lehetőségen kívül – ne lehessen hozzáférni.
 
 (6) Az általános iskola a tanév rendjéről szóló miniszteri rendeletben meghatározott időszakban egy alkalmat köteles biztosítani ahhoz, hogy a tanuló és a szülő közösen módosíthassa a tanulói adatlapot. A módosítás a módosító tanulói adatlap kitöltésével történik. A módosítás során új középfokú iskola nem jelölhető meg, a beírt tanulmányi területek nem törölhetők, azonban az eredetileg benyújtott tanulói adatlapon feltüntetett középfokú iskolához újabb tanulmányi terület írható be, továbbá az eredetileg beírt rangsor megváltoztatható. Új tanulmányi terület csak az eredeti tanulói adatlapon szereplő, érintett középfokú iskolával történt előzetes egyeztetés alapján jelölhető meg. Az egyeztetés tényét a középfokú iskolába eredetileg benyújtott jelentkezési lapon kell feltüntetni. A módosító tanulói adatlap kitöltésével a korábban kitöltött tanulói adatlap érvényét veszti. Az általános iskola a módosító tanulói adatlapokat megküldi a Felvételi Központnak, a többi adatlapot visszaadja a tanulóknak. A 37. § (2)–(3) bekezdésében meghatározott esetekben a módosító tanulói adatlapot a jelentkező, kiskorú jelentkező esetén a szülő küldheti meg a Felvételi Központnak.
 
 (7) Ha a tanköteles tanuló nem nyújt be felvételi kérelmet, az igazgató írásban tájékoztatja a tanulót és a szülőt a tankötelezettség teljesítésével kapcsolatos kötelezettségekről.
 
-[^112]: A 38. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 14. pontja szerint módosított szöveg.
+[^121]: A 38. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 14. pontja szerint módosított szöveg.

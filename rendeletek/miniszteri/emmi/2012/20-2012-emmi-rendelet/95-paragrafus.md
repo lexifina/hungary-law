@@ -6,9 +6,9 @@
 
 (4) A tanulót akkor lehet a beírási naplóból törölni, ha a tanulói jogviszonya megszűnt. A törlést a megfelelő záradék bejegyzésével kell végrehajtani.
 
-(5) Ha az iskola beilleszkedési, tanulási, magatartási nehézséggel küzdő vagy sajátos nevelési igényű tanuló nevelését, oktatását is ellátja, a beírási naplóban fel kell tüntetni a szakvéleményt kiállító nevelési tanácsadói feladatot, a szakértői bizottsági feladatot ellátó intézmény, nevét, címét, a szakvélemény számát és kiállításának keltét, az elvégzett felülvizsgálatok, valamint a következő kötelező felülvizsgálat időpontját.
+(5)[^223] Ha az iskola beilleszkedési, tanulási, magatartási nehézséggel küzdő vagy sajátos nevelési igényű tanuló nevelését, oktatását is ellátja, a beírási naplóban fel kell tüntetni a szakértői véleményt kiállító szakértői bizottsági feladatot ellátó intézmény, nevét, címét, a szakvélemény számát és kiállításának keltét, az elvégzett felülvizsgálatok, valamint a következő kötelező felülvizsgálat időpontját.
 
-(6) Az iskola az (5) bekezdésben meghatározott adatok alapján minden év június 30-áig megküldi az illetékes szakértői bizottsági feladatot ellátó intézmény részére azon tanulók nevét – a szakvéleményt kiállító intézmény és a szakvélemény számával együtt –, akiknek a felülvizsgálata a következő tanévben esedékes.
+(6)[^224] Az iskola az (5) bekezdésben meghatározott adatok alapján minden év június 30-áig megküldi az illetékes szakértői bizottsági feladatot ellátó intézmény részére azon tanulók nevét – a szakértői véleményt kiállító intézmény és a szakértői vélemény számával együtt –, akiknek a felülvizsgálata a következő tanévben esedékes.
 
 (7) A beírási naplóban szerepeltetni kell azokat a tanulókat is, akik tankötelezettségüket külföldön teljesítik, továbbá azokat is, akik az iskolai kötelező tanórai foglalkozásokon való részvétel alól felmentést kaptak. Ennek tényét a határozat számával szerepeltetni kell a beírási napló megjegyzés rovatában.
 
@@ -37,3 +37,6 @@ ah) évfolyamismétlésére vonatkozó adatokat,
 ai) sajátos nevelési igényére vonatkozó adatait,
 
 b) az egyéb megjegyzéseket.
+
+[^223]: A 95. § (5) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 12. pont 12.1. alpontja szerint módosított szöveg.
+[^224]: A 95. § (6) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 12. pont 12.2. alpontja szerint módosított szöveg.

@@ -1,10 +1,12 @@
-93/A. §[^200] (1) A gyermek fejlődését nyomon követő dokumentáció a gyermek fejlődéséről folyamatosan vezetett olyan dokumentum, amely tartalmazza a gyermek fejlettségi szintjét, fejlődésének ütemét, a differenciált nevelés irányát.
+## 93. §[^219]
+
+93/A. §[^220] (1) A gyermek fejlődését nyomon követő dokumentáció a gyermek fejlődéséről folyamatosan vezetett olyan dokumentum, amely tartalmazza a gyermek fejlettségi szintjét, fejlődésének ütemét, a differenciált nevelés irányát.
 
 (2) A gyermek fejlődését nyomon követő dokumentáció tartalmazza
 
 a) a gyermek anamnézisét,
 
-b) a gyermek fejlődésének mutatóit (érzelmi-szociális, értelmi, beszéd-, mozgásfejlődés), valamint az óvoda pedagógiai programjában meghatározott tevékenységekkel kapcsolatos egyéb megfigyeléseket,
+b)[^221] a gyermek értelmi, lelki, szociális és testi fejlettségének mutatóit,
 
 c) a gyermek fejlődését segítő megállapításokat, intézkedéseket, az elért eredményt,
 
@@ -14,4 +16,6 @@ e) a szakértői bizottság felülvizsgálatának megállapításait,
 
 f) a szülő tájékoztatásáról szóló feljegyzéseket.
 
-[^200]: A 93/A. §-t a 22/2013. (III. 22.) EMMI rendelet 18. §-a iktatta be.
+[^219]: A 93. §-át a 34/2019. (XII. 30.) EMMI rendelet 14. § j) pontja hatályon kívül helyezte.
+[^220]: A 93/A. §-t a 22/2013. (III. 22.) EMMI rendelet 18. §-a iktatta be.
+[^221]: A 93/A. § (2) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 8. §-ával megállapított szöveg.

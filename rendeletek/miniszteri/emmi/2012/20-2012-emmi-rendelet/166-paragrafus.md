@@ -24,8 +24,8 @@ e) más könyvtárak által nyújtott szolgáltatások elérésének biztosítá
 
 f) részvétel a könyvtárak közötti dokumentum- és információcserében,
 
-g)[^335] muzeális értékű könyvtári gyűjtemény gondozása.
+g)[^363] muzeális értékű könyvtári gyűjtemény gondozása.
 
 (3) Az iskolai könyvtár a (2) bekezdésben meghatározottakon kívül közreműködik az iskolai tankönyvellátás megszervezésében, lebonyolításában.
 
-[^335]: A 166. § (2) bekezdés g) pontját a 22/2013. (III. 22.) EMMI rendelet 31. §-a iktatta be.
+[^363]: A 166. § (2) bekezdés g) pontját a 22/2013. (III. 22.) EMMI rendelet 31. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 20.[^146]
+## 20.[^161]
 
-[^146]: A 20. alcímet (52. §) a 12/2015. (II. 27.) EMMI rendelet 5. §-a hatályon kívül helyezte.
+[^161]: A 20. alcímet (52. §) a 12/2015. (II. 27.) EMMI rendelet 5. §-a hatályon kívül helyezte.

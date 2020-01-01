@@ -1,3 +1,6 @@
-44. § (1) A KIFIR rendszerének adatbázisában szereplő személyazonosításra alkalmas adatokat – a felvételi eljárás lezárását követően – a Felvételi Központ legkésőbb szeptember 15-éig törli, egyúttal a személyes adatokat tartalmazó papíralapú adathordozókat legkésőbb ugyaneddig az időpontig megsemmisíti.
+44. § (1)[^128] A Felvételi Központ legkésőbb a felvételi eljárás lezárását követő szeptember 15-éig a személyes adatokat tartalmazó papíralapú adathordozókat megsemmisíti.
 
-(2) A KIFIR rendszer adatbázisában a személyazonosításra alkalmas adatok törlése után megmaradt adatokat a hivatal tárolja, kezeli, statisztikai célra felhasználhatja, továbbá statisztikai felhasználás céljára átadhatja.
+(2)[^129]
+
+[^128]: A 44. § (1) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^129]: A 44. § (2) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 14. § f) pontja hatályon kívül helyezte.

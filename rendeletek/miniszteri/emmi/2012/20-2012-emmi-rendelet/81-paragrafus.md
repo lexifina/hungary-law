@@ -1,6 +1,6 @@
-## 26. [^188] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
+## 26. [^205] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
 
-81. §[^189] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
+81. §[^206] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
 
 a) – a b)–d) pontban foglalt kivétellel – az iskola testnevelés vagy mozgásnevelés tantárgyat tanító pedagógusa,
 
@@ -22,5 +22,5 @@ f) ha a tanuló gyógypedagógiai nevelési-oktatási intézményben vesz részt
 
 (4) A tanulók fizikai fittségi mérésének részletes szabályait az oktatásért felelős miniszter az általa vezetett minisztérium honlapján teszi közzé.
 
-[^188]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
-[^189]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^205]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^206]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.

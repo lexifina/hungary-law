@@ -1,6 +1,6 @@
 96. § (1) A tanuló által elvégzett évfolyamokról a törzslap alapján év végi bizonyítványt kell kiállítani.
 
-(2)[^202] A bizonyítványban fel kell tüntetni az iskola, többcélú intézmény esetén a tagintézmény nevét, OM azonosítóját, címét és az iskola körbélyegzőjének lenyomatát is.
+(2)[^225] A bizonyítványban fel kell tüntetni az iskola, többcélú intézmény esetén a tagintézmény nevét, OM azonosítóját, címét és az iskola körbélyegzőjének lenyomatát is.
 
 (3) A bizonyítvány tartalmazza
 
@@ -38,4 +38,4 @@ l) az igazgató és az osztályfőnök aláírását.
 
 (8) Ha az iskolában minden nyilvántartás megsemmisült, a pótbizonyítványban csak azt lehet feltüntetni, hogy az abban megjelölt személy az iskola tanulója volt. Ilyen tartamú pótbizonyítvány akkor állítható ki, ha a volt tanuló írásban nyilatkozik arról, hogy a megjelölt tanévben az iskola melyik évfolyamán tanult, és nyilatkozatához csatolja volt tanárának vagy két évfolyamtársának igazolását. A tanár nyilatkozata akkor fogadható el, ha a jelzett időszakban az iskolában tanított. A volt évfolyamtársaknak be kell mutatniuk bizonyítványukat.
 
-[^202]: A 96. § (2) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 26. pontja szerint módosított szöveg.
+[^225]: A 96. § (2) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 26. pontja szerint módosított szöveg.

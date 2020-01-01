@@ -1,4 +1,4 @@
-## XX/A. Fejezet[^421]
+## XX/A. Fejezet[^450]
 
 ## A TANKÖNYVVÉ NYILVÁNÍTÁS, A TANKÖNYVTÁMOGATÁS, VALAMINT AZ ISKOLAI TANKÖNYVELLÁTÁS RENDJÉRŐL
 
@@ -20,4 +20,4 @@
 
 (8) Az elnök és a tag mandátuma megszűnik, ha egy naptári évben három alkalommal nem vesz részt az SZTTT ülésén.
 
-[^421]: A XX/A. fejezetet (184/A–184/L. §) a 20/2019. (VIII. 30.) EMMI rendelet 20. §-a iktatta be.
+[^450]: A XX/A. fejezetet (184/A–184/L. §) a 20/2019. (VIII. 30.) EMMI rendelet 20. §-a iktatta be.
