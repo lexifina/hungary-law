@@ -1,1 +1,5 @@
-59. §
+59. § A Gyvt. a következő 186. §-sal egészül ki:
+
+„186. § (1) Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 84. § (6a) bekezdését és 90. § (4) bekezdését a 2020. január 1-jén folyamatban lévő gyámrendelési eljárásokban, valamint az ideiglenes hatályú elhelyezésnek és a nevelésbe vételnek a 2019. december 31-ét követő felülvizsgálata során is alkalmazni kell azzal, hogy a kirendelt gyermekvédelmi gyám és helyettes gyermekvédelmi gyám személye kizárólag az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 84. § (6a) bekezdésében és 90. § (4) bekezdésében foglaltak miatt nem változtatható meg.
+
+(2) A gyámhatóság a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám gyámsága alá mindaddig nem helyezhet további gyermeket, amíg a gyermekvédelmi gyám, helyettes gyermekvédelmi gyám – az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 84. § (6a) bekezdésére és 90. § (4) bekezdésére is tekintettel – a 84. § (6) bekezdésében és 90. § (3) bekezdésében meghatározottnál több gyermek gyámságát látja el.”
