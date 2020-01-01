@@ -16,10 +16,15 @@ c) Amennyiben a veszélyes áruk szállítása során bekövetkezett baleset vag
 
 Ellátja a Szabályzatban meghatározott,
 
-a) a 8.2 fejezet szerinti képzéssel, vizsgáztatással és nyilvántartással kapcsolatos hatósági feladatokat;
+a)[^5] a 8.2 fejezet szerinti képzéssel és nyilvántartással kapcsolatos hatósági feladatokat;
 
 b) a veszélyes árut szállító hajók jóváhagyási bizonyítványának kiállításával kapcsolatos hatósági feladatokat.
 
 3. A katasztrófavédelmi hatóság
 
 Ellátja a Szabályzatban meghatározott, a veszélyes áruk szállítása során bekövetkezett eseményekről szóló jelentéssel kapcsolatos hatósági feladatokat, szükség esetén kivizsgálja a bekövetkezett eseményt az előidéző okok és a felelősök megállapítása érdekében.
+
+4.[^6] A Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság ellátja a Szabályzatban meghatározott, a 8.2. fejezet szerinti vizsgáztatással kapcsolatos feladatokat.
+
+[^5]: A 3. melléklet 2. pont a) alpontja a 248/2019. (X. 24.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 3. melléklet 4. pontját a 248/2019. (X. 24.) Korm. rendelet 16. § (1) bekezdése iktatta be.
