@@ -1,6 +1,8 @@
+## 16–17. §[^8]
+
 1. melléklet a 25/2014. (IV. 30.) NFM rendelethez
 
-A veszélyes áru szállítási biztonsági tanácsadó által készítendő éves jelentés tartalmi követelményei
+## A veszélyes áru szállítási biztonsági tanácsadó által készítendő éves jelentés tartalmi követelményei
 
 ## Az éves jelentésnek legalább az alábbiakat kell tartalmaznia:
 
@@ -72,7 +74,7 @@ III. A vállalkozás veszélyes áru szállítással kapcsolatos adatai
 
 |  | 9 |  |  |  |  |
 
-## * a megfelelő rovatba x-jelet kell tenni, vagy a konkrét mennyiség is beírható.
+* a megfelelő rovatba x-jelet kell tenni, vagy a konkrét mennyiség is beírható.
 
 4. A veszélyes áruk szállításához alkalmazott, az ADR, a RID, az ADN szerint jóváhagyásra kötelezett járművek azonosító adatai, a tartány vizsgálatok lejárata (ha a vállalkozás erre vonatkozó nyilvántartása ellenőrzés céljából hozzáférhető, akkor a jelentésben elegendő utalni a nyilvántartásra).
 
@@ -91,3 +93,5 @@ V. Ellenőrzések
 VI. A vállalkozást érintő veszélyes áruval kapcsolatban bekövetkezett balesetek leírása, elemzése
 
 VII. A biztonsági tanácsadó észrevételei, javaslatai
+
+[^8]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
