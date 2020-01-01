@@ -8,7 +8,7 @@ a) a nyugellátást jogszabálysértően állapították meg az igénylőnek já
 
 b) a nyugellátás összegét jogszerűen állapították meg, de a magasabb összegben vagy az igénylő számára egyébként kedvezőbb módon történő újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
 
-(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és az (5) bekezdés szerinti késedelmi kamatot ki kell fizetni a jogosultnak.
+(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és a késedelmi kamatot ki kell fizetni a jogosultnak.
 
 (1c) Az (1a) bekezdés b) pontja szerinti esetben az újra megállapítás iránti eljárás megindulását megelőző hat hónapon belül járó összeget ki kell fizetni a jogosultnak.
 
@@ -20,7 +20,7 @@ b) a nyugellátás összegét jogszerűen állapították meg, de a magasabb ös
 
 (4a)
 
-(5) A késedelmi kamat naptári napokra számított mértéke a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
+(5)
 
 (6) Ha a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon, a nyugdíjbiztosítási igazgatási szerv a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, hivatalból alacsonyabb összegben, vagy az igénylő számára egyébként kedvezőtlenebb módon újra megállapítja.
 

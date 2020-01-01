@@ -1,4 +1,6 @@
-47. § (1) Az ideiglenes özvegyi nyugdíj a házastárs halálától legalább egy évig, továbbá az elhunyt jogán árvaellátásra jogosult, másfél évesnél fiatalabb gyermeket eltartó özvegynek az árva 18 hónapos életkorának betöltéséig jár. Fogyatékos vagy tartósan beteg gyermek esetén az ideiglenes özvegyi nyugdíj azonos feltétellel a gyermek harmadik születésnapjáig folyósítható.
+47. § (1) Az ideiglenes özvegyi nyugdíj a házastárs halálának időpontjától legalább egy évig, továbbá az elhunyt jogán árvaellátásra jogosult, másfél évesnél fiatalabb gyermeket eltartó özvegynek az árva 18 hónapos életkorának betöltéséig jár. Fogyatékos vagy tartósan beteg gyermek esetén az ideiglenes özvegyi nyugdíj azonos feltétellel a gyermek harmadik születésnapjáig folyósítható.
+
+(1a) Az (1) bekezdésben meghatározott időtartam leteltével az ideiglenes özvegyi nyugdíjra való jogosultság megszűnik.
 
 (2) Az ideiglenes özvegyi nyugdíj megszűnését követően özvegyi nyugdíjra az jogosult, aki házastársa halálakor
 

@@ -8,7 +8,7 @@ c) a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápol�
 
 d) a katonai (polgári) szolgálatban eltöltött időt,
 
-e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély és a csecsemőgondozási díj folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
+e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély, a csecsemőgondozási díj és az örökbefogadói díj folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
 
 f) az álláskeresési támogatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
