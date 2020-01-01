@@ -6,9 +6,9 @@
 
 1.1. Állami fenntartású nemzeti színházművészeti szervezet:
 
-1.1.1. Budapest Operettszínház (Budapest)
+1.1.1.[^2] Budapesti Operettszínház (Budapest)
 
-1.1.2. MACIVA Magyar Cirkusz és Varieté Nonprofit Kft. (Budapest)
+1.1.2.[^3] Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Kft. (Budapest)
 
 1.1.3. Magyar Állami Operaház (Budapest)
 
@@ -25,6 +25,8 @@
 1.2.4. Pécsi Nemzeti Színház Nonprofit Kft. (Pécs)
 
 1.2.5. Szegedi Nemzeti Színház (Szeged)
+
+1.2.6.[^4] Katona József Színház (Kecskemét)
 
 2. Nemzeti minősítésű táncművészeti szervezet:
 
@@ -45,6 +47,8 @@
 3.1. Állami fenntartású nemzeti zeneművészeti szervezet:
 
 3.1.1. Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Kft. (Budapest)
+
+3.1.2.[^5] Concerto Akadémia Nonprofit Kft. (Budapest)
 
 3.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti zeneművészeti szervezet:
 
@@ -73,3 +77,7 @@
 4.1.1. Honvéd Együttes Művészeti Nonprofit Kft. (Budapest)
 
 [^1]: Az 1. melléklet a 43/2018. (XII. 18.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 1.1.1. pontja a 31/2019. (XII. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 1.1.2. pontja a 31/2019. (XII. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 1.1.6. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
+[^5]: Az 1. melléklet 3.1.2. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
