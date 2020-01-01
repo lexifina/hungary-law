@@ -8,4 +8,4 @@ c) annak a ténynek, hogy az igénylő az általa igénybe vett közvetlen támo
 
 d) az e törvényben és a külön jogszabályban meghatározott, e törvény céljainak megvalósításához szükséges adatoknak.
 
-(2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az e törvény szerinti támogatást nyújtó az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hivatalnak.
+(2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az e törvény szerinti támogatást nyújtó az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hatóságnak.

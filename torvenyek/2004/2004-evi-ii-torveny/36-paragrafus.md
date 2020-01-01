@@ -1,6 +1,6 @@
 36. § (1) Ez a törvény 2004. április 1-jén lép hatályba. A 2. § 15. e) pont az Európai Unióhoz történő csatlakozásról szóló nemzetközi szerződés kihirdetésének napján lép hatályba.
 
-(2) A Hivatal e törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait az Elnök rendeletben állapítja meg.
+(2) A Filmiroda e törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletben állapítja meg.
 
 (3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
 

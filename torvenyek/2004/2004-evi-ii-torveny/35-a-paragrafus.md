@@ -6,4 +6,4 @@
 
 (2) E fejezet alkalmazásában filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is.
 
-(3) A tizenhatodik életévét be nem töltött személy mozgóképipari tevékenység során történő foglalkoztatásának engedélyezésekor a gyámhatóság vizsgálni köteles a filmalkotás tartalmát, jellegét és a fiatal munkavállalóra gyakorolt lehetséges hatásait. A kérelmet nem lehet kizárólag azon az alapon érdemi vizsgálat nélkül elutasítani, hogy a foglalkoztatni kívánt fiatal munkavállaló életkora nem egyeztethető össze a készülő filmalkotás 21. § szerinti korhatár besorolásával.
+(3) A tizenhatodik életévét be nem töltött személy filmipari tevékenység során történő foglalkoztatásának bejelentésekor a gyámhatóság vizsgálni köteles a filmalkotás tartalmát, jellegét és a fiatal munkavállalóra gyakorolt lehetséges hatásait. A tevékenységet nem lehet kizárólag azon az alapon határozatban megtiltani, hogy a foglalkoztatni kívánt fiatal munkavállaló életkora nem egyeztethető össze a készülő filmalkotás 21. § szerinti korhatár besorolásával.

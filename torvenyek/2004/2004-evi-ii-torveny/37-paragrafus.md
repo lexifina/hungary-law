@@ -4,6 +4,8 @@
 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kulturális értéket műfaja alapján létre nem hozó filmalkotást.
 
+(1c) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki azt a minisztert, aki által vezetett minisztériumban a mozgóképszakmai hatóságként eljáró Filmiroda önálló szervezeti egységként működik.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,

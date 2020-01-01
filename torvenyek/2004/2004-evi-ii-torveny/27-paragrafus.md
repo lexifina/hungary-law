@@ -2,4 +2,4 @@
 
 4. CÍM
 
-A Hivatal nyilvántartásai
+A Hatóság nyilvántartásai

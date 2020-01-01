@@ -1,10 +1,10 @@
-19. § (1) A Hivatal hatósági hatáskörében az alábbi feladatokat látja el:
+19. § (1) A Filmiroda hatósági hatáskörében az alábbi feladatokat látja el:
 
 a) a filmalkotásokat a kiskorúak védelme érdekében e törvény szerint besorolja, valamint a besorolási szabályok megsértése esetén a törvényben meghatározott szankciót alkalmazza,
 
 b) a művészi értékük miatt támogatásra érdemes és a kulturális követelmények teljesítése alapján támogatásra jogosult filmalkotásokat, valamint az ilyen filmalkotásokat terjesztő mozikat és mozitermeket e törvény szerint besorolja,
 
-c) az e törvény szerinti támogatást igénylő mozgóképszakmai szervezetekről és természetes személyekről, a moziüzemeltetési tevékenységet folytató természetes, illetve jogi személyekről, a forgalmazói tevékenységet folytató természetes, illetve jogi személyekről, a támogatásra jogosult, és a támogatásban nem részesülő filmalkotásokról, a terjesztésre kerülő, valamint az „art” besorolású filmalkotásokról, továbbá az „art” mozikról és mozitermekről e törvényben, illetve az Elnök rendeletében meghatározott módon a Hivatal hatósági ellenőrzése tevékenysége céljából, közhiteles hatósági nyilvántartást vezet,
+c) az e törvény szerinti támogatást igénylő mozgóképszakmai szervezetekről és természetes személyekről, a moziüzemeltetési tevékenységet folytató természetes, illetve jogi személyekről, a forgalmazói tevékenységet folytató természetes, illetve jogi személyekről, a támogatásra jogosult, és a támogatásban nem részesülő filmalkotásokról, a terjesztésre kerülő, valamint az „art” besorolású filmalkotásokról, továbbá az „art” mozikról és mozitermekről e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott módon a Filmiroda hatósági ellenőrzése tevékenysége céljából, közhiteles hatósági nyilvántartást vezet,
 
 d) azokat a filmalkotásokat, amelyek előállításához e törvény szerinti támogatást igényelnek, a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás vagy az egyéb filmalkotás elnevezésű kategóriák szerint besorolja,
 
@@ -18,9 +18,9 @@ h) feladat- és hatáskörében hivatalból vagy kérelemre eljár az e törvén
 
 i) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb mozgóképszakmai feladatokat.
 
-(1a) A Hivatal az (1) bekezdése c) pontja szerinti nyilvántartásban szereplő adatokat a nyilvántartásra vonatkozó tevékenység befejezéséig kezeli.
+(1a) A Filmiroda az (1) bekezdése c) pontja szerinti nyilvántartásban szereplő adatokat a nyilvántartásra vonatkozó tevékenység befejezéséig kezeli.
 
-(2) A Hivatal nem hatósági hatásköreiben az alábbi feladatokat látja el:
+(2) A Filmiroda nem hatósági hatásköreiben az alábbi feladatokat látja el:
 
 a) nyilvántartása alapján mozgóképszakmai adatszolgáltatási tevékenységet végez,
 
@@ -30,7 +30,7 @@ c) ellátja a 33. §-ban meghatározott feladatokat,
 
 d) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb mozgóképszakmai feladatokat.
 
-(3) A Hivatal által e törvény alapján végzett nyilvántartási, besorolási tevékenységért az Elnök rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+(3) A Filmiroda által e törvény alapján végzett nyilvántartási, besorolási tevékenységért a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 ## III/A. Fejezet
 

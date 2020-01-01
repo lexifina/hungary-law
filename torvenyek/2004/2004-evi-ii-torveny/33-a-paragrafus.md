@@ -1,1 +1,1 @@
-33/A. § A Hivatal ellátja Magyarország képviseletét az Európai Audiovizuális Obszervatóriumban.
+33/A. § A Hatóság ellátja Magyarország képviseletét az Európai Audiovizuális Obszervatóriumban.
