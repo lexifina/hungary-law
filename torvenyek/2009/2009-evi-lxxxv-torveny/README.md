@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-85-00-00
 | 2019-03-31 | 2018. évi CXXVI. törvény | 2009-85-00-00.30 |
 | 2019-09-14 | 2018. évi CXXVI. törvény | 2009-85-00-00.31 |
 | 2019-12-26 | 2019. évi CXVIII. törvény | 2009-85-00-00.32 |
+| 2020-01-01 | 2019. évi CX. törvény | 2009-85-00-00.33 |
