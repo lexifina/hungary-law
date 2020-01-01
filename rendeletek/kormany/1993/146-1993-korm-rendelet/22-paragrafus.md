@@ -16,7 +16,13 @@
 
 (4)[^180] A nyilvántartás szerve az Nytv. 21. § b)–j) pontjában, valamint 22–24. §-ában meghatározott szervek, továbbá az állami és önkormányzati adóhatóságok, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szervek, az egészségügyi igazgatás szervei, az országos tisztifőorvos, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala egyedileg azonosítandó személyre vonatkozó adatigénylése esetén a kérelemben közölt – személyazonosításra alkalmas – adatoknak megfelelő személyek adatait szolgáltatja.
 
-(5) A nyilvántartás szerve az Nytv. 24. §-ában meghatározott szervek kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.
+(5)[^181] A nyilvántartás szerve
+
+a) az Nytv. 24. §-ában meghatározott szervek, valamint
+
+b) a konzuli szolgálatnak a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése és 11. § (1) bekezdése szerinti feladata ellátásához szükséges
+
+kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.
 
 (6) Az adatigénylő felelősséggel tartozik azért, hogy a nyilvántartás szerve által tévedésből közölt, vagy a (4)–(5) bekezdések szerinti adatszolgáltatás esetén a személyazonosítás elvégzését vagy meghiúsulását követően feleslegessé vált adatokat haladéktalanul törölje.
 
@@ -28,3 +34,4 @@
 [^178]: Az R. 22. § (2a) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
 [^179]: Az R. 22. § (2b) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
 [^180]: Az R. 22. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^181]: A 22. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.

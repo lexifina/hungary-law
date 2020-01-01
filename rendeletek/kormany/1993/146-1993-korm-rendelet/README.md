@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2019-08-03 | 1993-146-20-22.48 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2019-08-17 | 1993-146-20-22.49 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2019-09-30 | 1993-146-20-22.50 | 176/2019. (VII. 18.) Korm. rendelet |
+| 2020-01-01 | 1993-146-20-22.51 | 176/2019. (VII. 18.) Korm. rendelet |

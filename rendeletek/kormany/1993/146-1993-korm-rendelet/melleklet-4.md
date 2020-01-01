@@ -46,8 +46,8 @@
 
 ## 6. A feldolgozáshoz szükséges technikai jellegű adatok.
 
-4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^285]
+4. melléklet a 146/1993. (X. 26.) Korm. rendelethez[^286]
 
 Kérelem a törvényes képviselő adatainak feltüntetése iránt
 
-[^285]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^286]: Az R. 4. mellékletét a 117/2009. (VI. 4.) Korm. rendelet 6. § (5) bekezdése iktatta be.
