@@ -1,4 +1,4 @@
-## 16. §[^2]
+## 16. §[^3]
 
 1. melléklet a 7/2011. (III. 8.) NFM rendelethez
 
@@ -46,4 +46,4 @@ Leszerelhető tartányos pótkocsi esetében a 2. pontban előírtakat nem kell 
 
 3. Az 1.5–1.7, 1.11, 1.12, 2.2 és 2.3 pontban említett számok után a mértékegységet fel kell tüntetni.
 
-[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
