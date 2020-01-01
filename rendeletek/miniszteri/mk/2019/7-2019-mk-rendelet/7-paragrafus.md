@@ -1,0 +1,7 @@
+## 7. A korhatár besorolás jelzésének megjelenítése nyomtatott és internetes sajtótermékekben, valamint egyéb nyomtatott és elektronikus formában
+
+7. § (1) Nyomtatott és internetes sajtótermékekben, valamint egyéb nyomtatott és elektronikus (online) formában megjelenő hirdetésben és egyéb közleményben az útmutató szerinti jelzést jól látható és olvasható módon úgy kell közzétenni, hogy az A5 szabvány méretnél kisebb, illetve A5 szabvány méretnél nagyobb, álló vagy fekvő formátumú általános és speciális, továbbá általános és speciális méretű álló vagy fekvő formátumú felületen megjelenő egyszerű és teljes jelzés szerkesztési és elhelyezési arányai megegyezzenek az útmutatóban meghatározott szerkesztési arányokkal. A jelzések feltüntetésének részletes feltételeit az útmutató tartalmazza.
+
+(2) Nyomtatott sajtótermékekben megjelenő hirdetések esetében az egyszerű jelzést minden formátumnál a hirdetésen belül a kötészettel szemközti szélen kell elhelyezni, kivéve, ha ennek megvalósítása lehetetlen. Nyomtatott és internetes sajtótermékek esetében a nagyméretű címsorok és a kisméretű címsorok megjelenítésének részletes feltételeit az útmutató tartalmazza.
+
+(3) A nyomtatott és az internetes moziműsor-ismertető sajtótermék, továbbá egyéb nyomtatott formában terjesztett moziműsor-ismertető esetén a filmalkotás címe mellett az útmutatóban feltüntetett egyszerű jelzést, valamint nyomtatott sajtótermék esetében két oldalanként, az oldal alján az adott oldalakon megjelenő korhatár besorolás jelzéseknek megfelelő minősítés szövegét kell feltüntetni.

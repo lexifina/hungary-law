@@ -1,0 +1,1 @@
+A mozgóképről szóló 2004. évi II. törvény 38. § b), c) és f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 7. § (1) bekezdés 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
