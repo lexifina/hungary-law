@@ -1,4 +1,4 @@
-7. § (1) Az időszakos jelentés keretében az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban nyilatkozik arról, hogy a 4. § szerint rögzített személy a szolgáltatást az adott napon igénybe vette-e, vagy – ha az az állami támogatás alapja – a 4. § szerint rögzített személlyel az adott napon fennállt-e a szolgáltatásra irányuló jogviszony.
+7. § (1)[^16] Az időszakos jelentés keretében az adatszolgáltatásra jogosult az igénybevevői nyilvántartásban nyilatkozik arról, hogy a 4. § szerint rögzített személy a szolgáltatást – ide nem értve az óvodai és iskolai szociális segítő tevékenységet – az adott napon igénybe vette-e, vagy – ha az az állami támogatás alapja – a 4. § szerint rögzített személlyel az adott napon fennállt-e a szolgáltatásra irányuló jogviszony.
 
 (2) Az időszakos jelentési kötelezettséget
 
@@ -14,17 +14,17 @@ e) fogyatékos személyek nappali ellátása,
 
 f) hajléktalan személyek nappali ellátása,
 
-g)[^12] éjjeli menedékhely,
+g)[^17] éjjeli menedékhely,
 
-h)[^13] bölcsődei ellátás és
+h)[^18] bölcsődei ellátás és
 
-i)[^14] fejlesztő foglalkoztatás
+i)[^19] fejlesztő foglalkoztatás
 
-j)–k)[^15]
+j)–k)[^20]
 
 ## esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
 
-(3)[^16] Az időszakos jelentési kötelezettséget
+(3)[^21] Az időszakos jelentési kötelezettséget
 
 a) pszichiátriai betegek nappali ellátása és szenvedélybetegek nappali ellátása esetén legalább havonta, az adott hónap minden – szakmai program szerinti – nyitvatartási napjára,
 
@@ -54,8 +54,9 @@ c) a helyes adatot és
 
 d) a hiba okát.
 
-[^12]: A 7. § (2) bekezdés g) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^13]: A 7. § (2) bekezdés h) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^14]: A 7. § (2) bekezdés i) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 60. §-a iktatta be.
-[^15]: A 7. § (2) bekezdés j)–k) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte.
-[^16]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapítot szöveg.
+[^16]: A 7. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdés g) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdés h) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdés i) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 60. §-a iktatta be.
+[^20]: A 7. § (2) bekezdés j)–k) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^21]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapítot szöveg.

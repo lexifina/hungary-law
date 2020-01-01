@@ -10,11 +10,14 @@
 
 (6) Az adatszolgáltatás teljesítésére az e-képviselő – az engedélyes vagy a fenntartó munkatársai közül – ügyfélkapu belépési jogosultsággal rendelkező személyt vagy személyeket jelölhet ki (a továbbiakban: adatszolgáltató munkatárs). Az adatszolgáltató munkatárs megfelelő felkészítéséről az e-képviselő gondoskodik.
 
+(6a)[^6] Az óvodai és iskolai szociális segítő tevékenységgel és a szociális diagnózissal kapcsolatos adatszolgáltatásra külön adatszolgáltató munkatársakat kell kijelölni.
+
 (7) Az adatszolgáltató munkatárs a nyilvántartások informatikai rendszerében jelölhető ki. A kijelöléshez meg kell adni az adatszolgáltató munkatárs ügyfélkapu használatára jogosító személyazonosító adatait, és meg kell jelölni azokat az engedélyeseket, amelyek tekintetében az adatszolgáltató munkatárs adatszolgáltatásra jogosult.
 
-(8)[^6] Az e-képviselő köteles a nyilvántartások informatikai rendszerében bejelenteni, ha az adatszolgáltató munkatárs Központnak megküldött adatai megváltoztak. Az adatszolgáltató munkatárs kijelölése a nyilvántartások informatikai rendszerében vonható vissza.
+(8)[^7] Az e-képviselő köteles a nyilvántartások informatikai rendszerében bejelenteni, ha az adatszolgáltató munkatárs Központnak megküldött adatai megváltoztak. Az adatszolgáltató munkatárs kijelölése a nyilvántartások informatikai rendszerében vonható vissza.
 
 [^3]: A 2. § (3) bekezdése a 311/2017. (X. 31.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) és c) pontja, a 477/2016. (XII. 27.) Korm. rendelet 85. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 2. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^6]: A 2. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^6]: A 2. § (6a) bekezdését a 312/2019. (XII. 18.) Korm. rendelet 13. §-a iktatta be.
+[^7]: A 2. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés e) pontja szerint módosított szöveg.
