@@ -1,6 +1,6 @@
-## 9. §[^27]
+## 9. §[^28]
 
-1. melléklet a 27/2015. (II. 25.) Korm. rendelethez[^28]
+1. melléklet a 27/2015. (II. 25.) Korm. rendelethez[^29]
 
 ADATLAP
 
@@ -130,5 +130,5 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^27]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 289. § (5) bekezdése iktatta be.
+[^28]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 1. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 289. § (5) bekezdése iktatta be.

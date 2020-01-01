@@ -28,7 +28,10 @@ h) 1/I. § (3), (6) és (7) bekezdése
 
 (6)[^21] A Kormány az ÁEEK-et jelöli ki az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezelő szervként.
 
+(7)[^22] A Kormány egészségügyi államigazgatási szervként az ÁEEK-et jelöli ki az önálló orvosi tevékenységről szóló 2000. évi II. törvény a) 1. § (2) bekezdés c) pontja, 2. § (5) bekezdése, 2/A. § (2) bekezdése, 2/B. § (8) bekezdése, 3. § (5a) bekezdése szerinti feladatok ellátására.
+
 [^18]: A 6. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 289. § (6) bekezdése szerint módosított szöveg.
 [^19]: A 6. § (4) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
 [^20]: A 6. § (5) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
 [^21]: A 6. § (6) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^22]: A 6. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 139. §-a iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
