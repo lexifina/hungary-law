@@ -4,7 +4,7 @@
 
 a) az ügyész;
 
-b) a miniszter, az autonóm államigazgatási szerv, a kormányhivatal, a központi hivatal vezetője;
+b) a miniszter, az autonóm államigazgatási szerv, a kormányzati főhivatal, a központi hivatal vezetője;
 
 c) a fővárosi és megyei kormányhivatal vezetője;
 

@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2018-08-01 | 2018. évi LIII. törvény | 2013-5-00-00.10 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2013-5-00-00.11 |
 | 2019-07-17 | 2019. évi LXVII. törvény | 2013-5-00-00.12 |
+| 2020-01-01 | 2019. évi CIX. törvény | 2013-5-00-00.13 |
