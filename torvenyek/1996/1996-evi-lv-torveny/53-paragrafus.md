@@ -8,6 +8,6 @@ c) szolgálati tevékenysége során közreműködik a vadállomány szabályoz�
 
 d) közreműködik a vadászati tevékenységre vonatkozó előírások betartatásában, a vadászattal összefüggő jogellenes cselekmények megakadályozásában, valamint a vadászetikai szabályok megtartásában;
 
-e) az a)–d) ponttal kapcsolatos megállapításait, intézkedéseit a szolgálati naplóban rögzíti.
+e)
 
-(2) A vadászati hatóság – a hivatásos vadász munkáltatójának kérelmére vagy hivatalból – a Vadászkamara egyidejű értesítése mellett, kezdeményezheti a rendőrségnél a hivatásos vadász szolgálati jelvényének és szolgálati igazolványának visszavonását, egyúttal a hivatásos vadász szolgálati naplóját bevonja, ha a hivatásos vadász az (1) bekezdés szerinti feladatainak ellátásával kapcsolatos kötelezettségeit felróható módon megszegi.
+(2) A vadászati hatóság – a hivatásos vadász munkáltatójának kérelmére vagy hivatalból – a Vadászkamara egyidejű értesítése mellett, kezdeményezheti a rendőrségnél a hivatásos vadász szolgálati jelvényének és szolgálati igazolványának visszavonását, ha a hivatásos vadász az (1) bekezdés szerinti feladatainak ellátásával kapcsolatos kötelezettségeit felróható módon megszegi.

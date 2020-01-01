@@ -34,9 +34,9 @@ d) az (1) bekezdés d)–h) pontja szerinti esetekben a cselekmény súlyától 
 
 (4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:
 
-a) nem veszi át a vadászati hatóságtól az azonosító jeleket, illetve nem készíti el a felhasználásukra vonatkozó részletes szabályokat, a vadászévre kiadott azonosító jelek felhasználásáról határidőben nem számol el a vadászati hatóságnak, az elszámolás nem a valóságnak megfelelő, az azonosító jel helyi szabályait jogszabályellenesen állapítja meg,, vagy a jogosultság megszűnését követő 15. napig az azonosító jelekkel nem számol el, és a társas, egyéni vadászati naplót, teríték-nyilvántartást, valamint a hivatásos vadász szolgálati naplóját nem adja le a vadászati hatóságnak;
+a) nem veszi át a vadászati hatóságtól az azonosító jeleket, illetve nem készíti el a felhasználásukra vonatkozó részletes szabályokat, a vadászévre kiadott azonosító jelek felhasználásáról határidőben nem számol el a vadászati hatóságnak, az elszámolás nem a valóságnak megfelelő, az azonosító jel helyi szabályait jogszabályellenesen állapítja meg,, vagy a jogosultság megszűnését követő 15. napig az azonosító jelekkel nem számol el, és a társas, egyéni vadászati naplót, teríték-nyilvántartást nem adja le a vadászati hatóságnak;
 
-b) amennyiben a vadászatra jogosult személyében, valamint a vadászterület határában az üzemtervi ciklust követően nem történt változás, és az új üzemtervi ciklus megkezdését követő 15. napig nem kéri a társas, illetve egyéni vadászati napló és a teríték-nyilvántartás, valamint a hivatásos vadász szolgálati naplója vadászati hatóságnál történő lezárását és ismételt érvényesítését;
+b) amennyiben a vadászatra jogosult személyében, valamint a vadászterület határában az üzemtervi ciklust követően nem történt változás, és az új üzemtervi ciklus megkezdését követő 15. napig nem kéri a társas, illetve egyéni vadászati napló és a teríték-nyilvántartás vadászati hatóságnál történő lezárását és ismételt érvényesítését;
 
 c) a vadászterületet vadaskert, vadaspark vagy vadfarm létesítése céljából engedély nélkül keríti be, a vadászterületnek nem minősülő területen, vadasparkban vagy vadfarmon tartott nagyvadat vadaskertbe kihelyezi, a hatósági engedéllyel vadaskertbe kihelyezett nagyvad megjelölésére vonatkozó előírásoknak nem tesz eleget, valamint vadászterületnek nem minősülő területről, vadasparkból, vadaskertből vagy vadfarmról származó nagyvadat szabad vadászterületre helyez ki;
 
@@ -54,4 +54,4 @@ g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat enge
 
 (5) A 82. § (1) és (2) bekezdése szerinti tilalommal érintett egyed elejtése a vadgazdálkodási szabályok megsértésének minősül és a vadászatra jogosult vadgazdálkodási bírságot köteles fizetni. A vadgazdálkodási bírságot minden tilalommal érintett trófeás vad egyede után ismétlődően kell kiszabni.
 
-(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.
+(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósághoz történő bejelentés nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.

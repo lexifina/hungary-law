@@ -10,7 +10,7 @@ b) vadászlőfegyver-tartási engedéllyel,
 
 c) a rendőrség által kiadott szolgálati igazolvánnyal és szolgálati jelvénnyel,
 
-d) a vadászati hatóság által hitelesített szolgálati naplóval,
+d)
 
 e) vadászkamarai tagsággal és
 

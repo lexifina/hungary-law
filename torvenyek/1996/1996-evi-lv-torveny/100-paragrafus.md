@@ -20,7 +20,7 @@ c) rendeletben szabályozza
 
 2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, továbbá a tájegységi vadgazdálkodási terv nem védett természeti területekre vonatkozó előírásait,
 
-3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének és a szolgálati naplójának mintáját, továbbá annak vezetési szabályait,
+3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének mintáját,
 
 4. a vadjelölési szabályokat,
 
