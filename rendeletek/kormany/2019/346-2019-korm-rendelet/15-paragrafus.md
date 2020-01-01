@@ -1,0 +1,1 @@
+## 14. § Hatályát veszti a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó kormányrendeletek módosításáról szóló 191/2019. (VII. 30.) Korm. rendelet [a továbbiakban: 191/2019. (VII. 30.) Korm. rendelet] 73. § (3) bekezdésében az „a 29. §,” szövegrész.
