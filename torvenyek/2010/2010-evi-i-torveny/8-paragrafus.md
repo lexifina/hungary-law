@@ -1,6 +1,6 @@
-8. § (1) A mozgó járművön történt halálesetet – az ismeretlen személyazonosságú holttest kivételével – az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek az illetékességi területén a holttestet a járműről leemelték.
+8. § (1) A mozgó járművön történt halálesetet az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek az illetékességi területén a holttestet a járműről leemelték.
 
-(2) Talált holttest esetében a haláleset bejegyzésére – az ismeretlen személyazonosságú holttest kivételével – az az anyakönyvvezető illetékes, akinek az illetékességi területén a holttestet megtalálták.
+(2) Talált holttest esetében a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a holttestet megtalálták.
 
 (3) A halál tényének bírósági megállapítása esetén a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a bíróság döntése szerint a haláleset bekövetkezett.
 

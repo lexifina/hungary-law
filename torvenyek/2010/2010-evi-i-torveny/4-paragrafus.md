@@ -24,13 +24,13 @@ b) dönt a névváltoztatási kérelemről,
 
 c) eljár a 14. § (2) bekezdésében meghatározott esetben,
 
-d) eljár a 89. § (4) bekezdésében meghatározott esetben,
+d)
 
 e)
 
 f)
 
-g) anyakönyvezi az ismeretlen holttestet,
+g)
 
 h) dönt a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez szükséges külföldi okirat elfogadhatóságáról,
 
