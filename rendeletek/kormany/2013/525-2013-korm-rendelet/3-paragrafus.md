@@ -8,7 +8,7 @@ b) a mezőgazdasági termelést érintő időjárási és más természeti kock�
 
 c) közreműködik a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával kapcsolatos jogszabályokban meghatározott feladatokban,
 
-d) a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeire és szabályaira kiadott jogszabályban foglaltaknak megfelelően közreműködik a meg nem munkált termőföldterületek felmérésében, amely során információt szolgáltat a földművelésügyi hatóság számára,
+d)[^6] a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeire és szabályaira kiadott jogszabályban foglaltaknak megfelelően vezeti a meg nem munkált termőföldterületek nyilvántartását, amelyről információt szolgáltat az állami adó- és vámhatóság és a földművelésügyi hatóság számára,
 
 e) ellátja a jogszabályban, illetve az egyéb szervezetekkel kötött megállapodásban meghatározottak szerinti feladatokat.
 
@@ -22,11 +22,12 @@ c) információ adásával, a szükséges nyomtatványok, illetve elektronikai s
 
 d) ellátja a termésbecsléssel, állapotminősítéssel összefüggő adatgyűjtési és adatszolgáltatási feladatokat,
 
-f)[^6] kérelemre igazolást ad ki a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba való bejegyezéshez szükséges, jogszabályban meghatározott feltétel fennállásáról.
+f)[^7] kérelemre igazolást ad ki a földművesekről és a mezőgazdasági termelőszervezetekről vezetett nyilvántartásba való bejegyezéshez szükséges, jogszabályban meghatározott feltétel fennállásáról.
 
-(3)[^7] Az (1) bekezdésben foglalt feladatok ellátásának biztosítására – a jogszabályban nem rendezett kérdések tekintetében – az agrárpolitikáért felelős miniszter és a NAK megállapodást kötnek.
+(3)[^8] Az (1) bekezdésben foglalt feladatok ellátásának biztosítására – a jogszabályban nem rendezett kérdések tekintetében – az agrárpolitikáért felelős miniszter és a NAK megállapodást kötnek.
 
 [^4]: A 2. § a 374/2017. (XII. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés a) pontja a 203/2016. (VII. 21.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^6]: A 3. § (2) bekezdés f) pontját a 38/2014. (II. 24.) Korm. rendelet 25. §-a iktatta be.
-[^7]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 15. §-a, a 221/2014. (IX. 4.) Korm. rendelet 794. §-a szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 127. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: A 3. § (2) bekezdés f) pontját a 38/2014. (II. 24.) Korm. rendelet 25. §-a iktatta be.
+[^8]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 15. §-a, a 221/2014. (IX. 4.) Korm. rendelet 794. §-a szerint módosított szöveg.
