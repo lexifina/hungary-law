@@ -1,6 +1,6 @@
 ## szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
-69. § (1)[^80] Védett természeti területen és védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+69. § (1)[^107] Védett természeti területen és védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az Evt. 15. § (5) bekezdése szerinti erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló eljárásban,
 
@@ -26,11 +26,11 @@ k) lovaglásra, valamint járműközlekedésre használható út kijelölésére
 
 ## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e, valamint a d), e) és g) pontban foglaltak esetén a tevékenység következtében jelentős környezeti hatások feltételezhetők-e.
 
-(2)[^81] Ha az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, akkor az eljárást az (1) bekezdésben foglalt szakkérdés vizsgálata nélkül kell lefolytatni.
+(2)[^108] Ha az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, akkor az eljárást az (1) bekezdésben foglalt szakkérdés vizsgálata nélkül kell lefolytatni.
 
-(3)[^82] Védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén lovas sportverseny rendezésének engedélyezésére irányuló eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e.
+(3)[^109] Védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén lovas sportverseny rendezésének engedélyezésére irányuló eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e.
 
-(4)[^83] Tájképvédelmi elsődleges rendeltetésű, az állam 100%-os tulajdonában álló, az Evt. 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állapotú erdőben – az Evt. 10. § (3) bekezdésében foglalt feltételek fennállása esetén – tarvágás engedélyezésére irányuló eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e.
+(4)[^110] Tájképvédelmi elsődleges rendeltetésű, az állam 100%-os tulajdonában álló, az Evt. 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állapotú erdőben – az Evt. 10. § (3) bekezdésében foglalt feltételek fennállása esetén – tarvágás engedélyezésére irányuló eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint, vagy további feltételek mellett megfelel-e.
 
 (5) Védett természeti területen vagy Natura 2000 területen lévő önerdősülés
 
@@ -56,7 +56,7 @@ d) az erdő elsődleges és további rendeltetése megváltoztatására vonatkoz
 
 (8) A növényi, állati vagy fertőzést okozó egyéb szervezetek országos jelentőségű védett természeti területen található erdőterületen történő tömeges elszaporodása esetén az erdőgazdálkodót a szükséges védekezés elvégzésére kötelező döntés iránti eljárásban szakkérdésként kell vizsgálni, hogy az elvégeztetni kívánt védekezés a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek megfelel-e.
 
-[^80]: A 69. § (1) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
-[^81]: A 69. § (2) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
-[^82]: A 69. § (3) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
-[^83]: A 69. § (4) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
+[^107]: A 69. § (1) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
+[^108]: A 69. § (2) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
+[^109]: A 69. § (3) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
+[^110]: A 69. § (4) bekezdése a 433/2017. (XII. 21.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.

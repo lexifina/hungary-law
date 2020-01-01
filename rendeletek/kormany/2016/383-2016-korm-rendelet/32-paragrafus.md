@@ -1,11 +1,19 @@
-## 31. § A Hhvtv. 16. § (6) bekezdésében, 29. § (1) és (2) bekezdésében, valamint 46. § (7) bekezdésében meghatározott halgazdálkodási hatóság a miniszter.
+## 31. §[^69] A Hhvtv. 16. § (6) bekezdésében, 23/A. §-ában, 29. § (1) és (2) bekezdésében, valamint 46. § (7), (7a), (7d) bekezdésében, valamint a 74. § (4a) bekezdésében meghatározott halgazdálkodási hatóság a miniszter.
 
-32. § (1) A Hhvtv. 40. § (1) bekezdésében, 42. § (1) és (4) bekezdésében, valamint – az állami alkalmazásban álló halászati őr tekintetében – a Hhvtv. 56. § (2), (4), (5) és (9) bekezdésében foglalt hatáskört a NÉBIH gyakorolja.
+32. § (1)[^70] A Hhvtv. 20. § (1a) bekezdésében, 42. § (1), (4), (7) és (7a) bekezdésében, 47. § (5) bekezdésében, valamint – az állami halőr tekintetében – a Hhvtv. 56. § (2), (4), (5) és (9) bekezdésében foglalt hatáskört a NÉBIH gyakorolja.
+
+(1a)[^71] A Hhvtv. 52. § (1) bekezdés végrehajtásához szükséges informatikai programot üzemeltető halgazdálkodási hatóság a NÉBIH.
 
 (2) A turista állami horgászjegy, valamint a hozzá tartozó fogási napló kiadásával kapcsolatos feladatokat a NÉBIH országos illetékességgel látja el.
 
 (3) A NÉBIH ellátja a Tanács 2008. szeptember 29-i, a jogellenes, nem bejelentett és szabályozatlan halászat megelőzésére, megakadályozására és felszámolására irányuló közösségi rendszer létrehozásáról, továbbá a 2847/93/EGK, az 1936/2001/EK és a 601/2004/EK rendelet módosításáról és az 1093/94/EK és az 1447/1999/EK rendelet hatályon kívül helyezéséről szóló 1005/2008/EK rendelete 16–18. cikkében, valamint 21. cikkében meghatározott tagállami illetékes hatósági feladatokat.
 
-(4) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: 2012. évi CXX. törvény) 9. § (3) bekezdés f) pontjában meghatározott halászati hatóság a NÉBIH.
+(4)[^72] Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: 2012. évi CXX. törvény) 9. § (3) bekezdés f) pontjában meghatározott halgazdálkodási hatóság a NÉBIH.
 
-(5) A NÉBIH jogosult a Hhvtv. szerinti ellenőrzések lefolytatására, továbbá megilletik a Hhvtv. 52. § (2) bekezdésében, a 61. § (2) bekezdés a)–j) és l)–o) pontjában, 64. § (1) bekezdésében, 65. §-ában, 66. § (1) és (2) bekezdésében, továbbá 67. § (1) és (2) bekezdésében és 70. §-ában foglalt jogosítványok. Ez a rendelkezés nem érinti a területi halgazdálkodási hatóság, illetve a Pest Megyei Kormányhivatal ellenőrzési és intézkedési jogosultságát.
+(5)[^73] A NÉBIH jogosult a Hhvtv. 45. § (1) bekezdése, 53. § (3) bekezdése, 56. § (13) bekezdése, 61. § (6) bekezdése szerinti ellenőrzések lefolytatására, továbbá megilletik a Hhvtv. 43. § (2) és (3) bekezdésében, 44. § (6) bekezdés a) pontjában és (7) bekezdésében, 52. § (2) és (3) bekezdésében, 56. § (8) bekezdésében, 58. § (3) és (4) bekezdésében, 61. § (2) bekezdés a)–j) és l)–o) pontjában, 61. § (4) bekezdésében, 62/B. § (1) és (2) bekezdésében, 64. § (1) bekezdésében, 65. §-ában, 65/A. §-ában, 66. § (1), (2) és (4) bekezdésében, 67. § (1), (2), és (4)–(6) bekezdésekben, 69/A. §-ában, és 70. §-ában foglalt jogosítványok. Ez a rendelkezés nem érinti a területi halgazdálkodási hatóság, illetve a Pest Megyei Kormányhivatal ellenőrzési és intézkedési jogosultságát.
+
+[^69]: A 31. § a 360/2019. (XII. 30.) Korm. rendelet 159. § (28) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^70]: A 32. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (29) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^71]: A 32. § (1a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (30) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^72]: A 32. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 13. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^73]: A 32. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (31) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

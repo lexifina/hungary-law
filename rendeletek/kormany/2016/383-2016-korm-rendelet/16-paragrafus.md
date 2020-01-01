@@ -18,8 +18,12 @@ e) jogszabályban meghatározott járványügyi vagy más kiemelt jelentőségű
 
 ea) állami tisztviselőknek NÉBIH-hez történő, valamint megyei kormányhivatalok és járási hivatalok közötti kirendelésére,
 
-eb) az eszközök NÉBIH-hez történő, valamint megyei kormányhivatalok és járási hivatalok közötti átcsoportosítására.
+eb) az eszközök NÉBIH-hez történő, valamint megyei kormányhivatalok és járási hivatalok közötti átcsoportosítására,
+
+f)[^34] ellátja az Éltv. 29. § m) és n) pontjaiban foglalt feladatokat.
 
 (2) A miniszternek az Éltv. 28. § a)–d) pontjában, 52. § (3) bekezdésében, valamint 71. § (1) bekezdésében leírt feladatait átruházott hatáskörben az országos főállatorvos gyakorolja.
 
 (3) Az Éltv. 23. § (4) bekezdésében meghatározott élelmiszerlánc-felügyeleti szerv az országos főállatorvos.
+
+[^34]: A 16. § (1) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (10) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

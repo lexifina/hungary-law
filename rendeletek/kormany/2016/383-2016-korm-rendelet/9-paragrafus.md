@@ -6,7 +6,7 @@ b) 11. § (4) bekezdésében, 13/B. § (1) bekezdésében, 20. § (1) bekezdés�
 
 c) 24. § (1) bekezdésében a nyilvántartásba vétel, illetve annak honlapon történő közzététele, valamint a 44. § (4) bekezdése tekintetében a Pest Megyei Kormányhivatal,
 
-d) 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében, 24. § (2) bekezdésében, 28. §-ában a szállítmányonkénti minőségi tanúsítvány kiadása tekintetében a megyeszékhely szerinti járási hivatal
+d)[^18] 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében, 24. § (2) bekezdésében a megyeszékhely szerinti járási hivatal
 
 ## a kijelölt borászati hatóság.
 
@@ -17,3 +17,5 @@ d) 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében,
 a) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: hegyközségi törvény) 29. §-ában,
 
 b) az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vámtv.) 11. § (1) bekezdés e) pont ek) alpontjában
+
+[^18]: A 9. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

@@ -1,4 +1,4 @@
-## 34. [^91] A telekalakítási eljárásokban vizsgálandó szakkérdések
+## 34. [^119] A telekalakítási eljárásokban vizsgálandó szakkérdések
 
 79/E. § (1) Az R. 1. melléklete szerinti telekalakítási eljárásokban a bevonás és a közreműködés e mellékletben meghatározott feltételeinek fennállása esetén, az e mellékletben megjelölt szakkérdések tekintetében, az e mellékletben meghatározott hatóságokat mint kijelölt szakhatóságokat köteles megkeresni.
 
@@ -18,4 +18,4 @@ c) a rendelkező részbe foglalt előírások és feltételek indokainak részle
 
 (6) Ha a fellebbezés az elsőfokú eljárásban vizsgált olyan szakkérdést érint, amelynek elbírálására a másodfokú telekalakítási hatóság nem rendelkezik szakértelemmel, a szakkérdés vizsgálatára a 79/F. § (3) bekezdésében, illetve a 79/H. § (7) bekezdésében megjelölt szerv rendelhető ki szakértőként.
 
-[^91]: A 34. alcímet (79/E–79/I. §-t) a 457/2017. (XII. 28.) Korm. rendelet 589. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^119]: A 34. alcímet (79/E–79/I. §-t) a 457/2017. (XII. 28.) Korm. rendelet 589. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

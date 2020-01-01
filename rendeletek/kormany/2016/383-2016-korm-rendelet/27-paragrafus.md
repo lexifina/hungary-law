@@ -1,8 +1,6 @@
-## jár el.
-
 ## 6. A földmérési és térinformatikai államigazgatási szerv kijelölése
 
-27. § (1)[^44] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására a földügyért felelős minisztert, a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot, valamint a Nemzeti Földügyi Központot jelöli ki. A (2) bekezdésben és a 38. §-ban meghatározott hatósági hatásköröket a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság, a (3) bekezdésben meghatározott hatósági hatáskört a földügyért felelős miniszter által vezetett minisztérium, a (4) bekezdésben meghatározott hatásköröket a Nemzeti Földügyi Központ gyakorolja.
+27. § (1)[^60] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására a földügyért felelős minisztert, a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot, valamint a Nemzeti Földügyi Központot jelöli ki. A (2) bekezdésben és a 38. §-ban meghatározott hatósági hatásköröket a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság, a (3) bekezdésben meghatározott hatósági hatáskört a földügyért felelős miniszter által vezetett minisztérium, a (4) bekezdésben meghatározott hatásköröket a Nemzeti Földügyi Központ gyakorolja.
 
 (2) A földmérési és térinformatikai államigazgatási szerv országos illetékességgel
 
@@ -30,11 +28,11 @@ k) ellátja az ingatlan-nyilvántartás, az ingatlan-nyilvántartási térképke
 
 l) kutatási és műszaki fejlesztési feladatokat végez, ezen belül különösen a szakmai információs rendszerek fejlesztését, irányítását, rendszerfelügyeletét, valamint a földügyi igazgatást érintő földmérési, térképészeti, távérzékelési és térinformatikai tudományos kutatások végzését, országos összhangjának megvalósítását látja el,
 
-m)[^45] közreműködik a Nemzeti Földügyi Központ (4) bekezdés szerinti feladatainak ellátásában,
+m)[^61] közreműködik a Nemzeti Földügyi Központ (4) bekezdés szerinti feladatainak ellátásában,
 
-n)[^46]
+n)[^62]
 
-o)[^47]
+o)[^63]
 
 p) ellátja a nemzetközi kötelezettségből származó feladatokat,
 
@@ -48,15 +46,15 @@ t) tevékenységi körébe tartozó szakértői véleményt készít,
 
 u) ellátja a szakirányú konferenciák, valamint a szakirányú továbbképzés akkreditálását,
 
-v)[^48] kiállítja a földmérő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást,
+v)[^64] kiállítja a földmérő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást,
 
 w) jogszabályban foglaltaknak megfelelően ellátja az ingatlanrendező földmérő minősítéssel kapcsolatos feladatokat,
 
 x) fenntartja és működteti az országos földügyi és távérzékelési levéltárat.
 
-(3)[^49] A földmérési és térinformatikai államigazgatási szerv országos illetékességgel kiállítja a földminősítő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást.
+(3)[^65] A földmérési és térinformatikai államigazgatási szerv országos illetékességgel kiállítja a földminősítő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást.
 
-(4)[^50] A Nemzeti Földügyi Központ – a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság közreműködésével – országos illetékességgel
+(4)[^66] A Nemzeti Földügyi Központ – a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság közreműködésével – országos illetékességgel
 
 a) ellátja az agrár-szakigazgatás területalapú támogatásainak megvalósítását célzó hazai és európai uniós, a kifizető ügynökség által átruházott feladatok végrehajtását,
 
@@ -64,10 +62,10 @@ b) eljár a parlagfűvel szennyezett területekkel kapcsolatos adatbázisok keze
 
 c) ellátja a szőlőültetvények azonosítását, az ágazati támogatások kifizetése, valamint a bor eredetvédelme térképi ellenőrzésének alapját szolgáló rendszer adatbázisainak előállítását, változásvezetését és a közzétételével kapcsolatos, jogszabályban meghatározott feladatokat.
 
-[^44]: A 27. § (1) bekezdése a 220/2019. (IX. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^45]: A 27. § (2) bekezdés m) pontja a 220/2019. (IX. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^46]: A 27. § (2) bekezdés n) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
-[^47]: A 27. § (2) bekezdés o) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
-[^48]: A 27. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 51. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^49]: A 27. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^50]: A 27. § (4) bekezdését a 220/2019. (IX. 12.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^60]: A 27. § (1) bekezdése a 220/2019. (IX. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^61]: A 27. § (2) bekezdés m) pontja a 220/2019. (IX. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^62]: A 27. § (2) bekezdés n) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
+[^63]: A 27. § (2) bekezdés o) pontját a 220/2019. (IX. 12.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
+[^64]: A 27. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 51. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^65]: A 27. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^66]: A 27. § (4) bekezdését a 220/2019. (IX. 12.) Korm. rendelet 2. § (3) bekezdése iktatta be.
