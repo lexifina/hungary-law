@@ -20,6 +20,6 @@
 
 (10) Az (5) bekezdés szerinti fejezetbe sorolt beruházások kiadási előirányzatait az egyes beruházásokhoz kapcsolódó kötelezettségvállalások teljesítése érdekében – a (9) bekezdés szerinti átcsoportosítási lehetőség hiányában – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 
-(10a) Amennyiben a beruházás költségvetési fedezetét a Magyar Államkincstár által vezetett fizetési számlák közötti átutalás biztosítja, a Beruházási Ügynökség állam nevében végzett feladataihoz kapcsolódó előirányzatokat tartalmazó fejezetet irányító szerv a fejezet költségvetési bevételi előirányzata javára elszámolandó átutalás összegével ezen beruházás előkészítését vagy megvalósítását szolgáló kiadási előirányzatot módosíthatja az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
+(10a) Amennyiben a beruházás költségvetési fedezetét a Magyar Államkincstár által vezetett fizetési számlák közötti átutalás biztosítja, az (5) bekezdés szerinti fejezetet irányító szerv a fejezet költségvetési bevételi előirányzata javára elszámolandó átutalás összegével ezen beruházás előkészítését vagy megvalósítását szolgáló kiadási előirányzatot módosíthatja az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (11) A Beruházási Ügynökség az állam nevében végzett feladataiból eredő műveletek hatásainak elkülönített nyilvántartásban történő könyvvezetését és beszámolási kötelezettségét az államháztartás számviteléről szóló kormányrendelet előírásai szerint teljesíti.
