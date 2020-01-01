@@ -17,3 +17,5 @@
 (8) A 19. § (4) bekezdésében meghatározott személyszállítási üzletszabályzatot a közforgalmú személyszállítási közszolgáltatást végző közlekedési szolgáltató e törvény rendelkezéseinek figyelembevételével 2013. március 1-jéig köteles módosítani.
 
 (9)
+
+(10) A 47. § (6) bekezdésében foglaltaktól eltérően a közszolgáltatási szerződés gazdasági egyensúlya veszélybe kerülésének megállapítása során a vasúti igazgatási szerv az új vasúti személyszállítási szolgáltatásokról szóló, 2014. augusztus 11-i 869/2014/EU bizottsági végrehajtási rendelet alapján jár el, ha a 2019. január 1. után beérkezett, a 2012/34/EU irányelv 38. cikk (4) bekezdésében említett, a kérelmezni szándékozott személyszállítási szolgáltatásról szóló tájékoztatás alapján az új személyszállítási szolgáltatást 2020. december 12. előtt megkezdik.

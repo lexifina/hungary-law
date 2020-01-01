@@ -28,7 +28,7 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 9. igényvezérelt személyszállítási szolgáltatás: az e törvényben e szolgáltatásokra meghatározott engedéllyel rendelkező szolgáltató által közszolgáltatási szerződés vagy járati engedély alapján végzett, információs technológiai eszközök alkalmazásával szervezett, változó útvonalon vagy változó időrendben, vagy változó útvonalon és változó időrendben közlekedő személyszállítási szolgáltatás;
 
-10. iskolabusszal végzett személyszállítás: kizárólag óvodások és kísérőik, valamint a közoktatásban tanulók és kisérőik szállítását szolgáló, nem közszolgáltatás keretében nyújtott sajátszámlás személyszállítás vagy személyszállítási szolgáltatás;
+10. iskolabusszal végzett személyszállítás: kizárólag óvodások és kísérőik, valamint a köznevelésben és a szakképzésben tanulók és kisérőik szállítását szolgáló, nem közszolgáltatás keretében nyújtott sajátszámlás személyszállítás vagy személyszállítási szolgáltatás;
 
 11. járat: e törvény keretében meghatározott jármű a menetrendben meghatározott útvonalon és időrendben történő közlekedése;
 
@@ -108,4 +108,12 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 40. átszállójegy: egy vagy több vasúttársaság által működtetett, egymást követő vasúti szolgáltatásokra jogosító szállítási szerződést képviselő menetjegy vagy menetjegyek;
 
-41. nagy sebességű személyszállítási szolgáltatások: egymástól 200 km-t meghaladó távolságra lévő két helyszín között, közbenső megállók nélkül közlekedő olyan személyszállítási szolgáltatások, amelyek speciális konstrukciójú, nagy sebességű, legalább 250 km/h sebességre kialakított vonalakon működnek, és átlagosan e sebességgel közlekednek.
+41. nagy sebességű személyszállítási szolgáltatások: egymástól 200 km-t meghaladó távolságra lévő két helyszín között, közbenső megállók nélkül közlekedő olyan személyszállítási szolgáltatások, amelyek speciális konstrukciójú, nagy sebességű, legalább 250 km/h sebességre kialakított vonalakon működnek, és átlagosan e sebességgel közlekednek;
+
+42. autóbusz-állomás: a 181/2011/EU rendelet 3. cikk m) pontjában meghatározott autóbusz-állomás;
+
+43. autóbusz-megállóhely: a 181/2011/EU rendelet 3. cikk n) pontjában meghatározott autóbusz-megálló;
+
+44. autóbusz-állomás üzemeltető szerv: az autóbusz-állomás ingatlan-nyilvántartásban feltüntetett tulajdonosa, vagy a tulajdonos többségi befolyása alatt álló gazdasági társaság, vagy az autóbusz-állomás üzemeltetésre alapított költségvetési szerv, vagy a tulajdonossal az üzemeltetésre vonatkozóan megállapodást kötő személyszállítási közszolgáltatást nyújtó szolgáltató vagy más gazdasági társaság;
+
+45. autóbusz-megállóhely üzemeltető szerv: az út közúti közlekedésről szóló törvény szerinti kezelője, a közút területén kívül elhelyezkedő autóbusz-megállóhelyek kivételével, ahol az autóbusz-megállóhely üzemeltetője az autóbusz-megállóhely ingatlannyilvántartásban feltüntetett tulajdonosa vagy az üzemeltetésre vonatkozóan megállapodást kötő személyszállítási közszolgáltatást nyújtó szolgáltató vagy más gazdasági társaság.
