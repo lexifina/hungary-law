@@ -24,4 +24,4 @@ d) nem vonhatnak el vagy korlátozhatnak jogosultságot.
 
 (9) Ha a felperes a bíróság által meghatározott határidőn belül nem nyilatkozik, és a jogsérelem orvoslása érdekében tett cselekmény a kereseti kérelemnek eleget tett, a bíróság az eljárást megszünteti, és az alperest a felperes perköltségének megfizetésére kötelezi. Az eljárás részben való megszüntetése folytán az MNB-t terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
 
-(10) Az e § szerinti, első fokon folyamatban lévő perekben a Fővárosi Törvényszék jár el. Az ügyeket a közigazgatási és munkaügyi bíróság megküldi a Fővárosi Törvényszéknek.
+(10)
