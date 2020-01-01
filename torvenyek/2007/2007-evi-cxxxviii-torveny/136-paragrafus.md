@@ -60,4 +60,4 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (7) A befektetési vállalkozás felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből, valamint kiegészítő alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. §-a (1) bekezdésének h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
 
-(8) Az (1)–(7) bekezdésben foglalt rendelkezések bűnügyi zárlat elrendelése esetén annak feloldása után alkalmazandók.
+(8) Az (1)–(7) bekezdésben foglalt rendelkezések büntetőeljárásban elrendelt zár alá vétel esetén annak feloldása után alkalmazandók.

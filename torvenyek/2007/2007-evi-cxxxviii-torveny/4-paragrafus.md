@@ -368,6 +368,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
 
+93a. helyreállítási képesség: a befektetési vállalkozás azon képessége, hogy stabilizálja pénzügyi helyzetét, ha az jelentős mértékben romlik;
+
 94. helyreállítási terv: olyan terv, amelyben foglalt a befektetési vállalkozás által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
 
 95. alapjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a befektetési vállalkozás a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap,
