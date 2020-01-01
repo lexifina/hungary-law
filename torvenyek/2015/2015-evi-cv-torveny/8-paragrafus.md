@@ -32,7 +32,7 @@ i) az adós vagy adóstárs más országban magánszemélyek adósságrendezés�
 
 j) az adós nem minősül e törvény alkalmazásában belföldinek,
 
-k) ha az adósnak, adóstársnak, egyéb kötelezettnek büntetőeljárásban meghozott határozat (ide nem értve a jogerős határozattal megítélt polgári jogi igényt) alapján fennálló pénzbüntetés, bűnügyi költség tartozása van vagy bűnügyi zárlatot rendeltek el a vagyonára, vagy vagyonelkobzást rendeltek el vele szemben,
+k) ha az adósnak, adóstársnak, egyéb kötelezettnek büntetőeljárásban meghozott határozat (ide nem értve a jogerős határozattal megítélt polgári jogi igényt) alapján fennálló pénzbüntetés, bűnügyi költség tartozása van vagy vagyonelkobzást rendeltek el vele szemben, vagy a vagyonára a büntetőeljárásban zár alá vételt rendeltek el,
 
 l) szabálysértési eljárásban vagy közigazgatási eljárásban kiszabott, járulékaival együtt számított, 500 000 forintot meghaladó összegű bírságtartozása van,
 

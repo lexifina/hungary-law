@@ -1,6 +1,6 @@
 12. § (1) A családi vagyonfelügyelőket és a feladataik ellátásában közreműködőket a Családi Csődvédelmi Szolgálat területi szervei foglalkoztatják.
 
-(2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormánytisztviselő, állami tisztviselő vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával, jogi szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel.
+(2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormányzati szolgálati jogviszonyban álló, munkaviszonyban álló vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával, jogi szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel.
 
 (3) A családi vagyonfelügyelő a bírósági adósságrendezési eljárásban közreműködő, a Családi Csődvédelmi Szolgálat által kijelölt fizetésképtelenségi szakértő, a bírósági adósságrendezési eljárás során a bíróság számára szakmai előkészítő és közreműködő feladatokat lát el, felügyeli az adós gazdálkodását és elvégzi az e törvényben számára meghatározott egyéb feladatokat. A Családi Csődvédelmi Szolgálat a családi vagyonfelügyelők természetes személyazonosító adatait, hivatali elérhetőségét elektronikus úton hozzáférhetővé teszi a bíróságok számára.
 

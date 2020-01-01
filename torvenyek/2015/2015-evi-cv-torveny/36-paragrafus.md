@@ -8,7 +8,7 @@
 
 a) szünetelésnek,
 
-b) felfüggesztésnek (ide nem értve, ha az adós vagyonát bűnügyi zárlat alá vették),
+b) felfüggesztésnek (ide nem értve, ha az adós vagyonára a büntetőeljárásban zár alá vételt rendeltek el),
 
 c) félbeszakadásnak (ide nem értve az adós elhalálozását),
 

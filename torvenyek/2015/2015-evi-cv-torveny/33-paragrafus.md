@@ -18,7 +18,7 @@ h) ha az adósnak, adóstársnak nincs perbeli cselekvőképessége és a kérel
 
 i) ha az adós, adóstárs a bírósági eljárás illetékét a felhívásban meghatározott határidőre nem fizette meg,
 
-j) ha az adós vagy adóstárs vagyonát bűnügyi zárlat alá vonták.
+j) ha az adós vagy adóstárs vagyonára a büntetőeljárásban zár alá vételt rendeltek el.
 
 (2) A bíróság a bírósági adósságrendezés iránti kérelmet a 32. § (1) bekezdés szerinti vizsgálat, illetve a 32. § (2) bekezdés szerinti hiánypótlás határidejének lejártától számított 15 napon belül elutasítja, ha
 
