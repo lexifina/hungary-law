@@ -1,4 +1,4 @@
-2. melléklet a 18/2014. (III. 13.) KIM rendelethez[^41]
+2. melléklet a 18/2014. (III. 13.) KIM rendelethez[^40]
 
 ## Bejegyzésre irányuló hitelbiztosítéki nyilatkozat adattartalma
 
@@ -106,7 +106,7 @@
 
 4.1.5. lakcím
 
-4.2.[^42] ügyvéd vagy kamarai jogtanácsos meghatalmazott esetén
+4.2.[^41] ügyvéd vagy kamarai jogtanácsos meghatalmazott esetén
 
 4.2.1. családi és utónév
 
@@ -190,5 +190,5 @@
 
 8. Nyilatkozat megtételének időpontja.
 
-[^41]: A 2. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^42]: A 2. melléklet 4.2. pontja a 20/2017. (XII. 21.) IM rendelet 42. § b) pontja szerint módosított szöveg.
+[^40]: A 2. melléklet a 10/2017. (VIII. 11.) IM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^41]: A 2. melléklet 4.2. pontja a 20/2017. (XII. 21.) IM rendelet 42. § b) pontja szerint módosított szöveg.

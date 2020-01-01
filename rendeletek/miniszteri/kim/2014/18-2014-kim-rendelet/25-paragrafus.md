@@ -1,4 +1,4 @@
-25. §[^8] (1) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy egy hitelbiztosítéki nyilatkozatban egy vagy több vagyontárgy a hitelbiztosítéki rendszer e célra rendszeresített felületén egyedileg az alábbiak szerint legyen megadható:
+25. §[^9] (1) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy egy hitelbiztosítéki nyilatkozatban egy vagy több vagyontárgy a hitelbiztosítéki rendszer e célra rendszeresített felületén egyedileg az alábbiak szerint legyen megadható:
 
 a) gépjármű esetében az egyes gépjárművek alvázszámának feltüntetésével, vagy
 
@@ -26,7 +26,7 @@ be) gyártó által adott elnevezésének
 
 (6) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy több jogosult vagy kötelezett közös nyilatkozatát vagy több jogosulttal vagy kötelezettel szembeni nyilatkozatot egy bejegyzésben rögzítse, ha a jogosultak vagy a kötelezettek annak a jogviszonynak az egyetemleges jogosultjai vagy egyetemleges kötelezettjei, amelyre tekintettel a hitelbiztosítéki nyilatkozatot tették.
 
-(7)[^9] A hitelbiztosítéki rendszert úgy kell kialakítani, hogy a hitelbiztosítéki nyilatkozat alapjául szolgáló jogügylettel kapcsolatos megjegyzések legalább ezer karakterben megadhatóak legyenek az erre szolgáló mezőben.
+(7)[^10] A hitelbiztosítéki rendszert úgy kell kialakítani, hogy a hitelbiztosítéki nyilatkozat alapjául szolgáló jogügylettel kapcsolatos megjegyzések legalább ezer karakterben megadhatóak legyenek az erre szolgáló mezőben.
 
-[^8]: A 25. § az 57. § (2) bekezdésével megállapított szöveg.
-[^9]: A 25. § (7) bekezdését a 10/2017. (VIII. 11.) IM rendelet 4. § (3) bekezdése iktatta be.
+[^9]: A 25. § az 57. § (2) bekezdésével megállapított szöveg.
+[^10]: A 25. § (7) bekezdését a 10/2017. (VIII. 11.) IM rendelet 4. § (3) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-## 36/A. §[^20] A feljegyzett ranghely megváltoztatásra irányuló nyilatkozat jogosultja a felhasználók által nem módosítható. A hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy a feljegyzett ranghely megváltoztatásra irányuló nyilatkozat jogosultjaként a rendszer mindig annak a jelzálogjognak a mindenkori jogosultját tüntesse fel, aki a ranghely megváltoztatása során előrelépett jelzálognak a jogosultja.
+## 36/A. §[^21] A feljegyzett ranghely megváltoztatásra irányuló nyilatkozat jogosultja a felhasználók által nem módosítható. A hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy a feljegyzett ranghely megváltoztatásra irányuló nyilatkozat jogosultjaként a rendszer mindig annak a jelzálogjognak a mindenkori jogosultját tüntesse fel, aki a ranghely megváltoztatása során előrelépett jelzálognak a jogosultja.
 
-## 15/A. [^21] Módosító nyilatkozat a jogutódlás átvezetéséről
+## 15/A. [^22] Módosító nyilatkozat a jogutódlás átvezetéséről
 
 36/B. § (1) A zálogjogosult vagy zálogkötelezett személyében átalakulás vagy egyesülés folytán bekövetkező jogutódlás bejelentésére szolgáló és jogutódi hozzáférési jogosultság biztosítása iránti kérelem elektronikus adatlapjának adattartalmát a 6. melléklet határozza meg.
 
@@ -12,5 +12,5 @@
 
 (5) A hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy a Hbnytv. 24/A. § (4) bekezdése alapján jogutódi hozzáféréssel rendelkező felhasználó mindazon bejegyzések tekintetében, melyek tekintetében a (4) bekezdés szerinti nyilatkozatot megtette, a jogelőd felhasználó jogutódjának a képviselőjeként mindaddig megtehesse a 30. § és a 31. § szerinti nyilatkozatokat, amíg a jogosult, illetve a kötelezett a Hbnytv. 24/A. § (8) vagy (9) bekezdése szerinti nyilatkozatot nem tesz.
 
-[^20]: A 36/A. §-t a 10/2017. (VIII. 11.) IM rendelet 4. § (10) bekezdése iktatta be.
-[^21]: A 15/A. alcímet (36/B. §) a 10/2017. (VIII. 11.) IM rendelet 5. §-a iktatta be.
+[^21]: A 36/A. §-t a 10/2017. (VIII. 11.) IM rendelet 4. § (10) bekezdése iktatta be.
+[^22]: A 15/A. alcímet (36/B. §) a 10/2017. (VIII. 11.) IM rendelet 5. §-a iktatta be.

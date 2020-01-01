@@ -1,4 +1,4 @@
-30. § (1)[^11] A hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy a következő hozzájáruló hitelbiztosítéki nyilatkozatok megtehetőek legyenek:
+30. § (1)[^12] A hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy a következő hozzájáruló hitelbiztosítéki nyilatkozatok megtehetőek legyenek:
 
 a) zálogjog esetén
 
@@ -46,10 +46,10 @@ megtehető legyen.
 
 (6) Pénzügyi lízing esetén a hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy, ha az új lízingbeadó jelenti be, hogy a lízingbeadó személye megváltozott, a bejegyzett lízingbeadó hozzájáruló nyilatkozata megtehető legyen.
 
-(7)[^12] Vagyontárgy biztosítéki célból történő átruházása esetén a hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy ha az új jogszerzésre jogosult jelenti be, hogy a jogszerzésre jogosult személye megváltozott, a bejegyzett jogszerzésre jogosult hozzájáruló nyilatkozata megtehető legyen.
+(7)[^13] Vagyontárgy biztosítéki célból történő átruházása esetén a hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy ha az új jogszerzésre jogosult jelenti be, hogy a jogszerzésre jogosult személye megváltozott, a bejegyzett jogszerzésre jogosult hozzájáruló nyilatkozata megtehető legyen.
 
-(8)[^13] Biztosítéki célú vételi jog alapítása esetén a hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy ha az új vételi jog jogosult jelenti be, hogy a vételi jog jogosult személye megváltozott, a bejegyzett vételi jog jogosult hozzájáruló nyilatkozata megtehető legyen.
+(8)[^14] Biztosítéki célú vételi jog alapítása esetén a hitelbiztosítéki rendszernek alkalmasnak kell lennie arra, hogy ha az új vételi jog jogosult jelenti be, hogy a vételi jog jogosult személye megváltozott, a bejegyzett vételi jog jogosult hozzájáruló nyilatkozata megtehető legyen.
 
-[^11]: A 30. § (1) bekezdése a 10/2017. (VIII. 11.) IM rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^12]: A 30. § (7) bekezdését a 10/2017. (VIII. 11.) IM rendelet 4. § (6) bekezdése iktatta be.
-[^13]: A 30. § (8) bekezdését a 10/2017. (VIII. 11.) IM rendelet 4. § (6) bekezdése iktatta be.
+[^12]: A 30. § (1) bekezdése a 10/2017. (VIII. 11.) IM rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^13]: A 30. § (7) bekezdését a 10/2017. (VIII. 11.) IM rendelet 4. § (6) bekezdése iktatta be.
+[^14]: A 30. § (8) bekezdését a 10/2017. (VIII. 11.) IM rendelet 4. § (6) bekezdése iktatta be.

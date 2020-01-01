@@ -8,9 +8,9 @@ c) a bejegyzés törlésére irányuló adósi nyilatkozat esetén, a bejegyzés
 
 d) a bejegyzés törlésére irányuló lízingbevevői nyilatkozat esetén, a bejegyzés fenntartására irányuló lízingbeadói nyilatkozat,
 
-e)[^14] a bejegyzés törlésére irányuló átruházói nyilatkozat esetén, a bejegyzés fenntartására irányuló jogszerzésre jogosulti nyilatkozat,
+e)[^15] a bejegyzés törlésére irányuló átruházói nyilatkozat esetén, a bejegyzés fenntartására irányuló jogszerzésre jogosulti nyilatkozat,
 
-f)[^15] a bejegyzés törlésére irányuló vételi jogot engedői nyilatkozat esetén, a bejegyzés fenntartására irányuló jogosulti nyilatkozat.
+f)[^16] a bejegyzés törlésére irányuló vételi jogot engedői nyilatkozat esetén, a bejegyzés fenntartására irányuló jogosulti nyilatkozat.
 
-[^14]: A 31. § e) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (7) bekezdése iktatta be.
-[^15]: A 31. § f) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (7) bekezdése iktatta be.
+[^15]: A 31. § e) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (7) bekezdése iktatta be.
+[^16]: A 31. § f) pontját a 10/2017. (VIII. 11.) IM rendelet 4. § (7) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-6. melléklet a 18/2014. (III. 13.) KIM rendelethez[^46]
+6. melléklet a 18/2014. (III. 13.) KIM rendelethez[^45]
 
 ## Jogutódi hozzáférési jogosultság biztosítása iránti kérelem adattartalma
 
@@ -22,4 +22,4 @@
 
 6. Arra irányuló határozott kérelem, hogy jogutódi hozzáférésre jogosult a jogelőd hitelbiztosítéki rendszerben tárolt nyilatkozataihoz, illetve bejegyzéseihez jogutódi hozzáférési jogosultságot kapjon, valamint hogy a jogelőd valamennyi állandó képviselőjének a képviseleti jogosultságára vonatkozó nyilvántartási adat törlésre kerüljön
 
-[^46]: A 6. mellékletet a 10/2017. (VIII. 11.) IM rendelet 7. § (6) bekezdése iktatta be.
+[^45]: A 6. mellékletet a 10/2017. (VIII. 11.) IM rendelet 7. § (6) bekezdése iktatta be.
