@@ -1,6 +1,6 @@
 230. § (1) Az egészségügyi válsághelyzeti ellátás biztosítása és finanszírozása állami feladat.
 
-(2) Az egészségügyi válsághelyzeti biztosításának állami kötelezettsége magába foglalja az erre történő felkészülési tevékenység, valamint a tényleges működés megszervezését és lebonyolítását.
+(2) Az egészségügyi válsághelyzeti ellátás biztosításának állami kötelezettsége magába foglalja az erre történő felkészülési tevékenység, valamint a tényleges működés megszervezését és lebonyolítását.
 
 (3) Az egészségügyi válsághelyzeti ellátásra történő felkészülési tevékenység kiterjed
 

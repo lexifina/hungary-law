@@ -6,7 +6,9 @@ a) kizárólag az egészségügyi szolgáltatás gyakorlásának általános fel
 
 b) az a) pont szerinti közreműködői szerződés alapján a közreműködőt igénybe vevő egészségügyi szolgáltató számára kizárólag az egészségügyi szolgáltatás személyi feltételeit biztosítja, ideértve a személyes szolgáltatásnyújtási kötelezettséggel rendelkező további közreműködőket is,
 
-c) közreműködésére kizárólag az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdés b), c), e) vagy j) pontja szerinti jogviszonyok valamelyikében, kizárólag személyes szolgáltatás nyújtásával kerül sor.
+c) közreműködésére kizárólag az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdés b), c), e) vagy j) pontja szerinti jogviszonyok valamelyikében, kizárólag személyes szolgáltatás nyújtásával kerül sor,
+
+d) családvédelmi szolgálat keretében nyújt egészségügyi ellátást.
 
 (3) Az (1) bekezdés szerinti, hatósági nyilvántartásba vételt követően működő egészségügyi szolgáltatóra az e §-ban és az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.) 6/A. §-ában meghatározott kivételekkel az egészségügyi szolgáltatókra vonatkozó rendelkezések irányadóak.
 

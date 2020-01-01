@@ -62,8 +62,8 @@ j) az egészségügyi szolgáltató működési engedélyének módosítása ir�
 
 k) az egészségügyi szolgáltató működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás.
 
-A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik.
-
 l) az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatóját érintő fejlesztési célú pályázathoz szükséges fenntartói nyilatkozat megtétele.
+
+A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik.
 
 (6) Az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója a finanszírozási szerződés megkötéséről, módosításáról, megszűnéséről a fenntartóját és az egészségügyért felelős minisztert is tájékoztatja.

@@ -1,6 +1,6 @@
 ## Az orvosi titoktartáshoz való jog
 
-25. § (1) A beteg jogosult arra, hogy az egészségügyi ellátásában részt vevő személyek az ellátása során tudomásukra jutott egészségügyi és személyes adatait (a továbbiakban: orvosi titok) csak az arra jogosulttal közöljék, és azokat bizalmasan kezeljék.
+25. § (1) A beteg jogosult arra, hogy az egészségügyi ellátásában részt vevő személyek az ellátása során tudomásukra jutott információkat, különösképpen a beteg egészségügyi és személyes adatait csak az arra jogosulttal közöljék, és azokat a vonatkozó jogszabályok szerint kezeljék (a továbbiakban: orvosi titok).
 
 (2) A betegnek joga van arról nyilatkozni, hogy betegségéről, annak várható kimeneteléről kiknek adható felvilágosítás, illetve kiket zár ki egészségügyi adatainak részleges vagy teljes megismeréséből.
 

@@ -126,7 +126,7 @@ ge) az egészségügyi szolgáltatók szervezetének és működésének egyes k
 
 gf) gyógyintézet vezetőjének és vezetőhelyetteseinek képesítési követelményrendszerét, illetőleg állami vagy önkormányzati egészségügyi szolgáltató esetén a vezetői (vezetőhelyettesi) megbízatás betöltésére kiírandó pályázat részletes eljárási szabályait,
 
-gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység végzésére jogosító engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait, az engedélyezési és bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
+gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének megtételével összefüggő eljárás részletes szabályait, a bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
 gh) az egyes egészségügyi szakképesítésekhez tartozó tevékenységi kompetenciákat,
 
@@ -136,7 +136,7 @@ gj) az egészségügyi szolgáltatók akkreditációs felülvizsgálatát végz�
 
 h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
 
-i) az egészségügyi ágazati szakmai képzések tekintetében
+i) a szakképzésről szóló törvény szerinti szakmai képzés kivételével – az egészségügyi ágazati szakmai képzések tekintetében
 
 ia) a képzésben való részvételhez szükséges képesítési és szakmai feltételeket,
 
@@ -296,7 +296,7 @@ cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgála
 
 ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
 
-cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
+cf) az egészségügyi szakértői tevékenység folytatására irányuló szándék bejelentéséért,
 
 cg) az egészségfejlesztési programok akkreditációjáért,
 
@@ -310,7 +310,7 @@ ck) egészségügyi államigazgatási szerv által az egészségügyi szakképes
 
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
 
-d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a köznevelési intézményekben vagy szakképző intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
 
 e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a taktikai medicina – mint a rendőri speciális műveleti feladatok végrehajtása során végezhető egészségügyi tevékenység – szakmai, személyi, tárgyi feltételeit és követelményeit, valamint ezek szakmai tartalmát;
 

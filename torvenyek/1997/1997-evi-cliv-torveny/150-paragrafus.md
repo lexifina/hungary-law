@@ -4,7 +4,7 @@
 
 a)
 
-b) ellátja az egészségügyi képzéssel, szakképzéssel, szakirányú szakképzéssel és továbbképzéssel összefüggő szakmai feladatokat,
+b) ellátja az egészségügyi képzéssel, szakképzéssel, szakirányú szakképzéssel és továbbképzéssel összefüggő, jogszabályban meghatározott szakmai feladatokat,
 
 c) meghatározza az egészségügyi szolgáltatások szakmai követelmény rendszerét,
 

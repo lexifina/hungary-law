@@ -1,4 +1,4 @@
-38. § (1) A köz- és felsőoktatási, valamint a szakképzési rendszer, illetőleg a felnőttoktatás keretében az életkorhoz és a tanulmányokhoz igazodva meg kell ismertetni
+38. § (1) A köznevelés, a szakképzés és a felsőoktatás keretében az életkorhoz és a tanulmányokhoz igazodva meg kell ismertetni
 
 a) az emberi szervezet felépítésének, működésének és a környezet kölcsönhatásainak törvényeit,
 

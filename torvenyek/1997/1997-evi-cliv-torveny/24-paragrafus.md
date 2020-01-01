@@ -1,24 +1,16 @@
 ## Az egészségügyi dokumentáció megismerésének joga
 
-24. § (1) A beteg jogosult megismerni a róla készült egészségügyi dokumentációban szereplő adatait, illetve joga van ahhoz, hogy – a 135. §-ban foglaltak figyelembevételével – egészségügyi adatairól tájékoztatást kérjen.
+24. § (1) A beteg jogosult a róla készült egészségügyi dokumentációban foglaltakat – a 135. §-ban foglaltak figyelembevételével – megismerni.
 
-(2) Az egészségügyi dokumentációval az egészségügyi szolgáltató, az abban szereplő adattal a beteg rendelkezik.
+(2) A betegnek a rá vonatkozó személyes adataival kapcsolatos jogaira a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet, és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény rendelkezései irányadóak.
 
 (3) A beteg jogosult
 
-a) a gyógykezeléssel összefüggő adatainak kezeléséről tájékoztatást kapni,
+a) a fekvőbeteg-gyógyintézetből történő elbocsátásakor a 137. § a) pontja szerinti zárójelentést kapni,
 
-b) a rá vonatkozó egészségügyi adatokat megismerni,
+b) a 137. § b) pontjában foglaltak szerint a járóbeteg-szakellátási tevékenység befejezésekor ambuláns ellátási lapot kapni.
 
-c) az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot vagy másolatot készíteni vagy saját költségére másolatot kapni,
-
-d) a fekvőbeteg-gyógyintézetből történő elbocsátásakor a 137. § a) pontja szerinti zárójelentést kapni,
-
-e) a 137. § b) pontjában foglaltak szerint a járóbeteg-szakellátási tevékenység befejezésekor ambuláns ellátási lapot kapni,
-
-f) egészségügyi adatairól – saját költségére – összefoglaló vagy kivonatos írásos véleményt kapni.
-
-(4) A beteg jogosult az általa pontatlannak vagy hiányosnak vélt – rá vonatkozó – egészségügyi dokumentáció kiegészítését, kijavítását kezdeményezni, amelyet a kezelőorvos, illetve más adatkezelő a dokumentációra saját szakmai véleményének feltüntetésével jegyez rá. A hibás egészségügyi adatot az adatfelvételt követően törölni nem lehet, azt úgy kell kijavítani, hogy az eredetileg felvett adat megállapítható legyen.
+(4)
 
 (5) Amennyiben a betegről készült egészségügyi dokumentáció más személy magántitokhoz való jogát érintő adatokat is tartalmaz, annak csak a betegre vonatkozó része tekintetében gyakorolható a betekintési, illetve a (3) bekezdésben említett egyéb jogosultság.
 
@@ -42,6 +34,8 @@ b) az egészségügyi adat más módon való megismerése, illetve az arra való
 
 (11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot, másolatot készíteni vagy saját költségére másolatot kapni.
 
-(12) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésének és védelmének részletes szabályait külön törvény állapítja meg.
+(12) Az egészségügyi adatok kezelésének és védelmének részletes szabályait az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény állapítja meg.
 
 (13) Az egészségügyi dokumentációt nyilvántartó szervet a Kormány rendeletben jelöli ki.
+
+(14) Az egészségügyi dokumentáció megismerésének joga az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) által elektronikusan kezelt egészségügyi dokumentáció vonatkozásában az EESZT útján is gyakorolható.

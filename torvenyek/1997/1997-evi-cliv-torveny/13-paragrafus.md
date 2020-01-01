@@ -2,7 +2,7 @@
 
 13. § (1) A beteg jogosult a számára egyéniesített formában megadott teljes körű tájékoztatásra.
 
-(2) A betegnek joga van arra, hogy részletes tájékoztatást kapjon
+(2) A betegnek joga van ahhoz, hogy a rá vonatkozó személyes adatok kezelésével összefüggő információkon felül részletes tájékoztatást kapjon
 
 a) egészségi állapotáról, beleértve ennek orvosi megítélését is,
 
