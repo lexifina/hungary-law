@@ -1,6 +1,6 @@
-## A honvédelmi- és gazdasági felkészülés központi kiadásaira
-
 ## a 2016. évi költségvetési törvényben jóváhagyott előirányzatok felosztása
+
+## 6K04968_0
 
 | Felelős | Feladat | Részfeladat | Jóváhagyott előirányzat | Költségvetési fejezet összesen |
 
@@ -31,6 +31,8 @@
 | Civil-katonai egészségügyi együttműködés támogatása | 5 millió forint |
 
 | Honvédelmi Minisztérium (Nemzeti Média- és Hírközlési Hatóság) | Országos Légiriasztási Rendszer támogatása | Országos Légiriasztási Rendszer fejlesztésének támogatása | 50 millió forint |
+
+## 6K04968_1
 
 | Felelős | Feladat | Részfeladat | Jóváhagyott előirányzat | Költségvetési fejezet összesen |
 
@@ -72,4 +74,6 @@
 
 | Összesen: |  | 497 millió forint | 497 millió forint |
 
-2. melléklet az 1223/2016. (V. 2.) Korm. határozathoz
+2. melléklet az 1223/2016. (V. 2.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
