@@ -16,8 +16,10 @@ d) a fajmegőrzési tervek adatai.
 
 (4) Az erdészeti hatóság az (1) bekezdés szerinti vizsgálat részeként meghatározza az adott Natura 2000 terület jelölésének alapjául szolgáló fajok és élőhelytípusok kedvező természetvédelmi helyzetének biztosítása érdekében az Evt. 28. §-ában, 28/A. §-ában, 51. § (6), (8) és (9) bekezdésében, 53. §-ában és a 73. § (4) és (6) bekezdésében foglaltak szerint az erdőgazdálkodásra vonatkozó erdőtervi javaslatokat.
 
-(5) Az (1) bekezdés szerinti vizsgálat lefolytatásának tényét, a (4) bekezdés szerinti javaslatokat, valamint a vizsgálat eredményét rögzítő tájékoztatást az erdészeti hatóság megküldi a NÉBIH, valamint a védett természeti terület természetvédelmi kezeléséért felelős szerv részére.
+(5)[^6] Az (1) bekezdés szerinti vizsgálat lefolytatásának tényét, a (4) bekezdés szerinti javaslatokat, valamint a vizsgálat eredményét rögzítő tájékoztatást az erdészeti hatóság megküldi a NFK, valamint a védett természeti terület természetvédelmi kezeléséért felelős szerv részére.
 
 (6) Ha az erdőterv tervezet (1) bekezdés szerinti vizsgálata és az erdőrészletszintű tárgyalások alapján az erdészeti hatóság megállapítja, hogy az erdőterv szerinti erdőgazdálkodás a Natura 2000 terület kijelölésének alapjául szolgáló fajok és élőhelytípusok természetvédelmi helyzetére jelentős kedvezőtlen hatással lehet, akkor a körzeti erdőtervezési eljárás lezárása előtt az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló 275/2004. (X. 8.) Korm. rendelet 10. § (3)–(11) bekezdésében és a 10/A. §-ában foglaltak szerint hatásbecslést kell végezni.
 
 (7) Az erdészeti hatóság az erdőterv tervezet (1) bekezdés szerinti vizsgálatának eredményéről a 3. § (3) bekezdése szerinti betekintés útján tájékoztatást ad. Az erdőterv tervezet (1) bekezdés szerinti vizsgálatának vagy a (6) bekezdés szerinti hatásbecslésnek az eredményét a körzeti erdőtervezési eljárásban hozott döntés indokaként fel kell tüntetni.
+
+[^6]: A 4. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

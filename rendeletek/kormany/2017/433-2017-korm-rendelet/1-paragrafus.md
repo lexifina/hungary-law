@@ -1,6 +1,6 @@
 ## 1. A körzeti erdőtervezés szabályai
 
-1. § (1) Az erdészeti hatáskörben eljáró járási hivatal (a továbbiakban: erdészeti hatóság) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 33. § (1) bekezdés a) pontja szerinti igazgatási tevékenység megkezdéséről a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján tájékoztatást helyez el. A tájékoztatás megjelenéséről az erdészeti hatóság értesíti
+1. § (1)[^1] Az erdészeti hatáskörben eljáró járási hivatal (a továbbiakban: erdészeti hatóság) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 33. § (1) bekezdés a) pontja szerinti igazgatási tevékenység megkezdéséről a Nemzeti Földügyi Központ (a továbbiakban: NFK) honlapján tájékoztatást helyez el. A tájékoztatás megjelenéséről az erdészeti hatóság értesíti
 
 a) az érintett erdőgazdálkodókat,
 
@@ -20,7 +20,7 @@ d) a körzeti erdőtervezési tevékenységről, a körzeti erdőtervezéshez ka
 
 e) az erdőtervezési körzetnek az Országos Erdőállomány Adattár (a továbbiakban: Adattár) nyilvántartási adatai alapján végzett statisztikai értékelését az erdő rendeltetéséről, üzemmódjáról, természetességi állapotáról, a faállomány korosztályviszonyairól.
 
-(3) Az (1) bekezdés szerinti tájékoztatást a NÉBIH honlapján az Evt. 33. § (1) bekezdés b) pontja szerinti körzeti erdőtervezési eljárás lezárásáig fent kell tartani.
+(3)[^2] Az (1) bekezdés szerinti tájékoztatást a NFK honlapján az Evt. 33. § (1) bekezdés b) pontja szerinti körzeti erdőtervezési eljárás lezárásáig fent kell tartani.
 
 (4) Az erdőterület elhelyezkedése szerint érintett település jegyzője az erdészeti hatóság értesítése alapján a körzeti erdőtervezés megkezdéséről szóló tájékoztatást a helyben szokásos módon közzéteszi.
 
@@ -51,3 +51,6 @@ k) az Evt. 26. § b) pontja szerinti esetben hatóságként a növénytermeszté
 l) az Evt. 26. § e) pontjában foglalt rendeltetés esetén hatóságként a talajvédelmi hatóságot.
 
 (6) Az érintett hatóságok és kezelő szervek hatósági nyilvántartásban nem szereplő tényeket és adatokat az erdőtervezés ütemtervében meghatározott év április 30-ig megküldik az erdészeti hatóság részére.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 53. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^2]: Az 1. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

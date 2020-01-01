@@ -1,8 +1,8 @@
 ## való megfelelést szolgálja.
 
-29. § (1)–(6)[^4]
+29. § (1)–(6)[^14]
 
-(7)[^5]
+(7)[^15]
 
-[^4]: A 29. § (1)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 29. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 29. § (1)–(6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 29. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

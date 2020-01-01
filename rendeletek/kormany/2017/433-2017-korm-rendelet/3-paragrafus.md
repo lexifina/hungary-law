@@ -16,9 +16,9 @@ g) a (6) bekezdés szerinti észrevételtételi lehetőséget és annak határid
 
 h) az ügyféli jogokra és kötelezettségekre vonatkozó tájékoztatást.
 
-(2) Az (1) bekezdés szerinti közleményt a NÉBIH honlapján a körzeti erdőtervezési eljárás lezárásáig fent kell tartani.
+(2)[^4] Az (1) bekezdés szerinti közleményt a NFK honlapján a körzeti erdőtervezési eljárás lezárásáig fent kell tartani.
 
-(3) Az erdészeti hatóság erdőrészlet-határokat és -azonosítókat mutató erdőtérképen a NÉBIH honlapján betekintési lehetőséget biztosít
+(3)[^5] Az erdészeti hatóság erdőrészlet-határokat és -azonosítókat mutató erdőtérképen a NFK honlapján betekintési lehetőséget biztosít
 
 a) a tervjavaslat,
 
@@ -79,3 +79,6 @@ ba) erdőtulajdonosok,
 bb) egyéb ügyfelek, valamint
 
 c) az erdő rendeltetése szerint érintett hatóságok
+
+[^4]: A 3. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^5]: A 3. § (3) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
