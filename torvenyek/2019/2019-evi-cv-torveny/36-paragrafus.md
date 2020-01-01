@@ -1,0 +1,3 @@
+36. § A Hvt. a következő 5/A. §-sal egészül ki:
+
+„5/A. § A behívás előkészítése és tervezése során honvédelmi érdekből a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a katonai szolgálatra történő behívhatóság megállapításához szükséges mértékig kezeli a bűnügyi nyilvántartó szerv által rendelkezésére bocsátott, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben meghatározott személyes adatokat.”

@@ -1,0 +1,3 @@
+56. § A Hvt. 53. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Magyarország honvédelmi érdekeinek védelme és biztosítása, a kapcsolódó szövetségesi kötelezettségek teljesítése, valamint az országvédelem kibertér műveleti erőkkel történő fenntartása és fokozása érdekében a Honvédség és a KNBSZ kibertér műveleti erői közvetlenül együttműködnek egymással. A kibertér műveleti képességek fejlesztését, valamint a kapcsolódó tervezési, biztonsági és szabályozási feladatokat a Honvédség a KNBSZ egyetértésével, a KNBSZ-től kapott információk felhasználásával és a KNBSZ szakmai támogatásával látja el.”

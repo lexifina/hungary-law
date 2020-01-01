@@ -1,0 +1,3 @@
+37. § A Hvt. 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi szervezet honvédelmi alkalmazottjaira, közalkalmazottjaira, munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselőire, a honvédelemért felelős miniszter fenntartói irányítása alatt álló köznevelési intézmény közalkalmazottjaira, a rendvédelmi szervek hivatásos állományú tagjaira és munkavállalóira, rendvédelmi igazgatási alkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.”
