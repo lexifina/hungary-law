@@ -40,7 +40,7 @@ p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számláz
 
 q) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
 
-r) a Nemzeti Energetikusi Hálózat irodáit működtető szervezet kijelölését, a Nemzeti Energetikusi Hálózat által alkalmazható, szakmai tanácsadást végző természetes személyek szakmai végzettségére vonatkozó követelményeket, az irodák illetékességi területét, valamint a szakmai tanácsadásra vonatkozó részletes szabályokat,
+r) a Nemzeti Energetikusi Hálózat szakmai feladatait közvetlenül ellátó természetes személy szakmai végzettségére vonatkozó követelményeket, a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiafogyasztási adatok bejelentésére vonatkozó részletes szabályokat,
 
 s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
 

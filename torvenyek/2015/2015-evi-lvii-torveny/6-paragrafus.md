@@ -28,7 +28,7 @@ j) biztosítja az Európai Bizottság felé fennálló energiahatékonysági jel
 
 k) meghatározza az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket;
 
-l) kidolgozza a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodik a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről; továbbá létrehozza a lakosság széles körét elérő energetikai tanácsadó rendszert, ennek részeként működteti a Nemzeti Energetikusi Hálózatot;
+l) kidolgozza a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodik a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről;
 
 m) nyilvántartja és közzéteszi a végfelhasználási energiamegtakarítás összesítéséhez szükséges, az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat;
 
