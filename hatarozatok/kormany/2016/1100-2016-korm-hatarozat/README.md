@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1100-30
 | 2016-03-01 | 2016-1100-30-22.1 | 1100/2016. (III. 1.) Korm. határozat |
 | 2016-06-06 | 2016-1100-30-22.2 | 1256/2016. (VI. 6.) Korm. határozat |
 | 2017-07-07 | 2016-1100-30-22.3 | 1256/2016. (VI. 6.) Korm. határozat |
+| 2020-01-01 | 2016-1100-30-22.4 | 2011: CXCV. törvény |
