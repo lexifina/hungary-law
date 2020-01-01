@@ -6,7 +6,7 @@
 
 2. § (1)[^7] A köznevelési intézményben a pedagógus előmeneteli rendszer hatálya alá tartozó munkakör betöltéséhez előírt végzettséggel és szakképzettséggel vagy szakképesítéssel, valamint két évnél, osztatlan tanárképzésben végzett pedagógus esetében egy évnél kevesebb szakmai gyakorlattal rendelkező pedagógust, továbbá a (3) és (4) bekezdés, valamint a 13. § (3) bekezdése szerinti esetben a pedagógust Gyakornok fokozatba kell besorolni, kivéve abban az esetben, ha korábban már ennél magasabb fokozatba való besorolásra jogosultságot szerzett. A gyakornok számára a foglalkoztatási jogviszony létesítésekor, vagy a pedagógus előmeneteli rendszer hatálya alá történő átkerülés esedékességének időpontjában a kinevezésben, munkaszerződésben két, osztatlan tanárképzésben végzett pedagógus esetében egy év gyakornoki idő kikötése kötelező.
 
-(2)[^8] Az egy vagy két év gyakornoki időbe a foglalkoztatási jogviszony létesítése előtt megszerzett szakmai gyakorlat idejét be kell számítani azzal, hogy gyakornoki időként a két évből hátra levő időt kell – a (3) bekezdésben foglaltakra is figyelemmel – a kinevezésben, a munkaszerződésben rögzíteni. Ha az ilyen módon számított gyakornoki idő lejárta és a minősítő vizsga között kevesebb, mint egy hónap lenne hátra, a gyakornoki időt egy hónappal vagy a pedagógus kérésének megfelelő mértékben, de legfeljebb hat hónappal meg kell hosszabbítani.
+(2)[^8] Az egy vagy két év gyakornoki időbe a foglalkoztatási jogviszony létesítése előtt megszerzett szakmai gyakorlat idejét be kell számítani azzal, hogy gyakornoki időként az egy vagy két évből hátra levő időt kell – a (3) bekezdésben foglaltakra is figyelemmel – a kinevezésben, a munkaszerződésben rögzíteni. Ha az ilyen módon számított gyakornoki idő lejárta és a minősítő vizsga között kevesebb, mint egy hónap lenne hátra, a gyakornoki időt egy hónappal vagy a pedagógus kérésének megfelelő mértékben, de legfeljebb hat hónappal meg kell hosszabbítani.
 
 (3)[^9] Ha a foglalkoztatási jogviszony létesítésekor a pedagógus rendelkezik a 6. § (1) és (2) bekezdése szerinti egy vagy két év szakmai gyakorlattal, de nem rendelkezik a 6. § (3) bekezdése szerinti hat év munkaviszony jellegű jogviszonnyal, számára – kivéve, ha sikeres minősítő vizsgát tett – hat hónap gyakornoki időt kell kikötni.
 
@@ -34,7 +34,7 @@ tesz minősítő vizsgát.
 
 [^6]: Az 1/B. alcímet (2–5. §-t) a 249/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be. A II. fejezet eredeti 1. alcímét a 249/2015. (IX. 8.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja, a 196/2019. (VIII. 1.) Korm. rendelet 14. § a) és b) pontja szerint módosított szöveg.
-[^8]: A 2. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 2. pontja, a 196/2019. (VIII. 1.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 2. pontja, a 196/2019. (VIII. 1.) Korm. rendelet 14. § c) pontja, a 275/2019. (XI. 21.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 196/2019. (VIII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
 [^10]: A 2. § (6) bekezdés b) pontja a 122/2018. (VII. 10.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^11]: A 2. § (9) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.

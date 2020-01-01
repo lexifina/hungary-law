@@ -36,13 +36,21 @@ c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alap
 
 ## eltöltött jogszerű foglalkoztatás idejét is.
 
-(3) Ha a pedagógus-munkakörre foglalkoztatási jogviszonyt létesítő személy nem rendelkezik az (1) és (2) bekezdés szerint számított két év szakmai gyakorlattal, de bármely más munkakörben, vagy részben az (1) és (2) bekezdésben foglalt jogviszonyban, részben más munkakörben szerzett legalább hat év munkaviszony jellegű jogviszonnyal rendelkezik, mentesül az előmeneteli rendszer gyakornoki szakasza követelményeinek teljesítése alól és a Pedagógus I. fokozatba kerül besorolásra.
+(2a)[^29] A bölcsődében, mini bölcsődében pedagógus munkakörben középfokú végzettséggel foglalkoztatott személyt, aki foglalkoztatási jogviszonya fennállása alatt a munkakörének betöltéséhez szükséges alap- vagy mesterfokozatot szerez, ha a (2) bekezdés szerinti munkakörben
 
-(3a)[^29] A (3) bekezdésben foglalt rendelkezés a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakört betöltőkre nem alkalmazható.
+a) legalább két év szakmai gyakorlatot szerzett, Pedagógus I. fokozatba,
+
+b) két évnél kevesebb szakmai gyakorlat esetén Gyakornok fokozatba
+
+## kell sorolni.
+
+(3)[^30] Ha a pedagógus-munkakörre foglalkoztatási jogviszonyt létesítő személy nem rendelkezik az (1) és (2) bekezdés szerint számított egy vagy két év szakmai gyakorlattal, de bármely más munkakörben, vagy részben az (1) és (2) bekezdésben foglalt jogviszonyban, részben más munkakörben szerzett legalább hat év munkaviszony jellegű jogviszonnyal rendelkezik, mentesül az előmeneteli rendszer gyakornoki szakasza követelményeinek teljesítése alól és a Pedagógus I. fokozatba kerül besorolásra.
+
+(3a)[^31] A (3) bekezdésben foglalt rendelkezés a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakört betöltőkre nem alkalmazható.
 
 (4) A (3) bekezdés nem alkalmazható abban az esetben, ha a gyakornok legalább egy alkalommal sikertelen minősítő vizsgát tett.
 
-(4a)[^30] Azt a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott személyt, aki az (1) bekezdés a)–g) és i) pontjában felsorolt jogviszonyokban rendelkezik két év szakmai gyakorlattal, Pedagógus I. fokozatba kell sorolni.
+(4a)[^32] Azt a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott személyt, aki az (1) bekezdés a)–g) és i) pontjában felsorolt jogviszonyokban rendelkezik két év szakmai gyakorlattal, Pedagógus I. fokozatba kell sorolni.
 
 (5) Ha a pedagógus-munkakörben foglalkoztatott személy korábbi munkáltatója a besoroláskor szakmai gyakorlatként vette figyelembe a (2) bekezdésben szereplő időt, és a pedagógus-munkakörben foglalkoztatott személy ezt követően nem a Gyvt. hatálya alá tartozó intézményben létesít foglalkoztatási jogviszonyt, a korábban figyelembe vett szakmai gyakorlat időtartama emiatt utóbb nem csökkenthető.
 
@@ -53,5 +61,7 @@ c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alap
 [^26]: A 6. § (1) bekezdés i) pontját a 324/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
 [^27]: A 6. § (1a) bekezdését a 308/2018. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
 [^28]: A 6. § (2) bekezdés záró szövegrésze a 307/2017. (X. 27.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
-[^29]: A 6. § (3a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^30]: A 6. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja, a 122/2018. (VII. 10.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^29]: A 6. § (2a) bekezdését a 278/2019. (XI. 21.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A 6. § (3) bekezdése a 275/2019. (XI. 21.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^31]: A 6. § (3a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^32]: A 6. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja, a 122/2018. (VII. 10.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.

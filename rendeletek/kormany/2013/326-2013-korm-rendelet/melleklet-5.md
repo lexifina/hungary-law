@@ -22,7 +22,7 @@
 
 | 10 | gyermek- és ifjúságvédelmi felügyelő vagy gyógypedagógiai asszisztens | kizárólag sajátos nevelési igényű gyermekeket, tanulókat nevelő-oktató iskolában tizenöt tanulónként | 1 |
 
-| 11 | gyermek- és ifjúságvédelmi felügyelő vagy gyógypedagógiai asszisztens | a siket, a vak, a középsúlyos értelmi fogyatékos, az önálló helyváltoztatásra képtelen testi fogyatékos, az autista és a halmozottan fogyatékos tanulókat nevelő és oktató iskolában és kollégiumban hat tanulónként | 1 |
+| 11 | gyermek- és ifjúságvédelmi felügyelő vagy gyógypedagógiai asszisztens | a siket, a vak, a középsúlyos értelmi fogyatékos, a mozgásszervi fogyatékos, az autizmus spektrum zavarral küzdő, a halmozottan fogyatékos, illetve súlyosan és halmozottan fogyatékos tanulókat nevelő és oktató iskolában és kollégiumban hat tanulónként | 1 |
 
 | 12 | szabadidő-szervező vagy iskolai szociális munkás vagy gyermek- és ifjúságvédelmi felelős | amennyiben a hátrányos helyzetű tanulók aránya eléri az iskola, a kollégium létszámának legalább huszonöt százalékát és az érintettek létszáma meghaladja a 100, de nem éri el az 500 főt | 0,5 |
 
@@ -62,11 +62,11 @@
 
 | 30 | pedagógiai felügyelő | amennyiben a kollégium nevelőtestülete e rendelet hatálybalépését megelőzően döntött a munkakör bevezetéséről, kollégiumban nemenként és épületenként 100 tanulóra számítva, de legalább | 1 |
 
-5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^258]
+5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^261]
 
-A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^259]
+A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^262]
 
-1.[^260] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
+1.[^263] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
 
 2. Jelen szabályzat alkalmazásában
 
@@ -80,7 +80,7 @@ A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő é
 
 3. A gyakornokokra vonatkozó, a minősítés alapjául szolgáló, a munkáltató szervezetéhez és a betöltött munkakör követelményeihez kapcsolódó szakmai követelményrendszer
 
-3.1.[^261] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
+3.1.[^264] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
 
 3.2. A betöltött nevelő és oktató munkát közvetlenül segítő munkakörhöz kapcsolódó követelmények:
 
@@ -162,7 +162,7 @@ A pontszámok alapján a gyakornok munkájának értékelése lehet: kiválóan 
 
 6. Jelen szabályzat ...-án lép hatályba.
 
-[^258]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
-[^259]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^260]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^261]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^261]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
+[^262]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^263]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^264]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.

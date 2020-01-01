@@ -1,3 +1,3 @@
-## 38. §[^221]
+## 38. §[^224]
 
-[^221]: A 38. §-t a 307/2017. (X. 27.) Korm. rendelet 25. § f) pontja hatályon kívül helyezte.
+[^224]: A 38. §-t a 307/2017. (X. 27.) Korm. rendelet 25. § f) pontja hatályon kívül helyezte.
