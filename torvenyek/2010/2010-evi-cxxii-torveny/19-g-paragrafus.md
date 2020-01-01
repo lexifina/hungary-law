@@ -4,4 +4,4 @@
 
 (2) A munkáltatói jogkör gyakorlója a munkakörbe kinevezéskor az (1) bekezdésben meghatározottak alapján besorolja az érintettet, megállapítja a fizetési fokozatát és pénzügyőr esetében a rendfokozatát. Ha a pénzügyőr viselt rendfokozata alacsonyabb a besorolás szerintinél, a munkáltatói jogkör gyakorlója a pénzügyőrt a rendfokozatba kinevezi, előlépteti vagy kinevezésre, előléptetésre előterjeszti az arra jogosulthoz.
 
-(3) Az állami adó- és vámhatóság vezetője az e törvény 18/E. §, 19/A. § (1) bekezdésében és 19/B. § (1) bekezdésében előírt felsőfokú iskolai végzettség követelménye alól egyedi ügyben, indokolt esetben felmentést adhat.
+(3)

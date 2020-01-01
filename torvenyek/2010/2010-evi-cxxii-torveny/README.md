@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2010-122-00-00.41 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2010-122-00-00.42 |
 | 2019-07-24 | 2019. évi LXXII. törvény | 2010-122-00-00.43 |
+| 2020-01-01 | 2019. évi C. törvény | 2010-122-00-00.44 |

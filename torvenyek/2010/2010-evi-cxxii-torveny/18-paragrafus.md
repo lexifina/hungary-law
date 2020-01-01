@@ -2,6 +2,8 @@
 
 (1a) A Kttv. 8. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám húsz százalékát.
 
+(1b) A Kttv. 39. § (7) bekezdése szerinti megfelelési kötelezettséget azzal az eltéréssel kell alkalmazni, hogy amennyiben a kormánytisztviselő a Kttv. 39. § (1) bekezdése szerinti büntetőeljárás hatálya alá kerül, a munkáltatói jogkör gyakorlója köteles méltatlansági eljárást indítani. Amennyiben a méltatlanság nem állapítható meg, de a munkáltatói jogkör gyakorlója a fegyelmi eljárás lefolytatását indokoltnak tartja, a méltatlansági eljárás befejezését követő 15 napon belül fegyelmi eljárást indíthat.
+
 (2) A Kttv. 50. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató akkor köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 32/U. § (1) bekezdésében foglalt illetmény nélküli szabadságot vesz igénybe.
 
 (3) A Kttv. 79. § g) pontját azzal az eltéréssel kell alkalmazni, hogy a kormánytisztviselő a 32/Z. §, valamint a 33. § szerinti képzésben való részvételhez szükséges időre mentesül a rendelkezésre állási, illetve munkavégzési kötelezettségének teljesítése alól.
