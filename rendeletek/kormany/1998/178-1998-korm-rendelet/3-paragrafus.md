@@ -1,5 +1,5 @@
-3. § (1) Az állami tulajdonban álló vizek és közcélú vízilétesítmények leíró műszaki adatainak, továbbá a vízrajzi, idősor jellegű adatok meghatározása – műszaki felmérések és adatfelvételek, valamint hidrológiai mérések és megfigyelések alapján – a vízügyi igazgatási szervek feladata.
+3. §[^5] (1) A Vgtv. hatálya alá tartozó vizek és vízilétesítmények, valamint vízhasználatok leíró műszaki adatainak, téradatainak, továbbá a vízrajzi és egyéb, idősor jellegű adatok nyilvántartása – a műszaki felmérések és adatfelvételek, valamint hidrológiai mérések és megfigyelések alapján – a vízügyi igazgatási szervek feladata.
 
-(2) A helyi önkormányzatok tulajdonában álló vizekkel és közcélú vízilétesítményekkel kapcsolatos, az (1) bekezdésben érintett adatok meghatározásáról – a külön jogszabályban[^3] meghatározott vízrajzi feladatok kivételével – a települési önkormányzat jegyzője közvetlenül, illetve az önkormányzati többségi tulajdonban lévő vízműtársaságok útján gondoskodik.
+(2) Ha a Vgtv. hatálya alá tartozó, (1) bekezdés szerinti adat a települési önkormányzat feladataival kapcsolatos, az adat nyilvántartásáról – a jogszabályban meghatározott vízrajzi feladatok kivételével – a települési önkormányzat gondoskodik.
 
-[^3]: Lásd a 22/1998. (XI. 6.) KHVM rendeletet.
+[^5]: A 3. § a 286/2019. (XII. 4.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.

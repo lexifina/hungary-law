@@ -1,4 +1,4 @@
-4/A. §[^7] (1) A rendelet 1. melléklete tartalmazza a vízügyi igazgatóságok közvetlen adatgyűjtéseit, valamint a gyűjthető adatköröket.
+4/A. §[^9] (1) A rendelet 1. melléklete tartalmazza a vízügyi igazgatóságok közvetlen adatgyűjtéseit, valamint a gyűjthető adatköröket.
 
 (2) Az adatszolgáltatási kötelezettséget az 1. mellékletben foglaltak szerint az erre a célra kialakított elektronikus felületen keresztül kell teljesíteni.
 
@@ -10,4 +10,4 @@
 
 (6) A vízügyi igazgatóság az adatszolgáltatók és az adatszolgáltatással érintett objektumok körének kijelölését a vízgazdálkodási adatokat tartalmazó nyilvántartások alapulvételével végzi, kivéve, ha jogszabály eltérően rendelkezik. Ha évközben az adatszolgáltatói kör pontosítása érdekében új adatszolgáltatók kijelölése indokolt, azt a kijelölés szükségességének felmerülésekor rendelkezésre álló vízgazdálkodási adatokat tartalmazó nyilvántartások alapulvételével kell elvégezni.
 
-[^7]: A 4/A. §-t az 518/2017. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^9]: A 4/A. §-t az 518/2017. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
