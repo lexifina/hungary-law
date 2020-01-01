@@ -14,28 +14,28 @@ való megfelelést szolgálja.
 
 a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló, 2010. november 12-i 1031/2010/EU bizottsági rendelet,
 
-b)[^146] a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
+b)[^147] a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
 
 c) az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
 
 d) a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat,
 
-e)[^147] a nemzetközi jóváírási jogosultságoknak a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 2013. november 8-i 1123/2013/EU bizottsági rendelet,
+e)[^148] a nemzetközi jóváírási jogosultságoknak a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 2013. november 8-i 1123/2013/EU bizottsági rendelet,
 
-f)[^148] a CO2-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok 2015–2019-es időszakra vonatkozó listájának a 2003/87/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról szóló 2014/746/EU európai bizottsági határozat,
+f)[^149] a CO2-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok 2015–2019-es időszakra vonatkozó listájának a 2003/87/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról szóló 2014/746/EU európai bizottsági határozat,
 
-g)[^149] az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek egy egységes globális piacalapú intézkedés nemzetközi légi közlekedésből származó kibocsátásokra való alkalmazásáról rendelkező nemzetközi megállapodás 2020-ig történő végrehajtására tekintettel történő módosításáról szóló, 2014. április 16-i, 421/2014/EU európai parlamenti és tanácsi rendelet,
+g)[^150] az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek egy egységes globális piacalapú intézkedés nemzetközi légi közlekedésből származó kibocsátásokra való alkalmazásáról rendelkező nemzetközi megállapodás 2020-ig történő végrehajtására tekintettel történő módosításáról szóló, 2014. április 16-i, 421/2014/EU európai parlamenti és tanácsi rendelet,
 
-h)[^150] az üvegházhatású gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről, valamint a 601/2012/EU bizottsági rendelet módosításáról szóló, 2018. december 19-i 2018/2066/EU európai bizottsági végrehajtási rendelet,
+h)[^151] az üvegházhatású gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről, valamint a 601/2012/EU bizottsági rendelet módosításáról szóló, 2018. december 19-i 2018/2066/EU európai bizottsági végrehajtási rendelet,
 
-i)[^151] az 1031/2010/EU rendeletnek a piaci stabilitási tartalékból 50 millió ki nem osztott kibocsátási egységnek az innovációs alap számára árverés útján való értékesítése tekintetében és egy Németország által kijelölendő aukciós platform bejegyzése céljából történő módosításáról szóló, 2018. október 30-i 2019/7/EU felhatalmazáson alapuló bizottsági rendelet és,
+i)[^152] az 1031/2010/EU rendeletnek a piaci stabilitási tartalékból 50 millió ki nem osztott kibocsátási egységnek az innovációs alap számára árverés útján való értékesítése tekintetében és egy Németország által kijelölendő aukciós platform bejegyzése céljából történő módosításáról szóló, 2018. október 30-i 2019/7/EU felhatalmazáson alapuló bizottsági rendelet és,
 
-j)[^152] a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az adatok hitelesítéséről és a hitelesítők akkreditálásáról szóló, 2018. december 19-i 2018/2067/EU európai bizottsági végrehajtási rendelet
+j)[^153] a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az adatok hitelesítéséről és a hitelesítők akkreditálásáról szóló, 2018. december 19-i 2018/2067/EU európai bizottsági végrehajtási rendelet
 
-[^146]: A 24. § (2) bekezdés b) pontja az 528/2013. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^147]: A 24. § (2) bekezdés e) pontját a 101/2015. (IV. 20.) Korm. rendelet 5. §-a iktatta be.
-[^148]: A 24. § (2) bekezdés f) pontját a 131/2015. (V. 27.) Korm. rendelet 16. §-a iktatta be, szövege a 236/2019. (X. 15.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
-[^149]: A 24. § (2) bekezdés g) pontját a 131/2015. (V. 27.) Korm. rendelet 16. §-a iktatta be.
-[^150]: A 24. § (2) bekezdés h) pontját a 76/2019. (IV. 10.) Korm. rendelet 8. §-a iktatta be.
-[^151]: A 24. § (2) bekezdés i) pontját a 76/2019. (IV. 10.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2019. (X. 15.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
-[^152]: A 24. § (2) bekezdése j) pontját a 236/2019. (X. 15.) Korm. rendelet 8. §-a iktatta be.
+[^147]: A 24. § (2) bekezdés b) pontja az 528/2013. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^148]: A 24. § (2) bekezdés e) pontját a 101/2015. (IV. 20.) Korm. rendelet 5. §-a iktatta be.
+[^149]: A 24. § (2) bekezdés f) pontját a 131/2015. (V. 27.) Korm. rendelet 16. §-a iktatta be, szövege a 236/2019. (X. 15.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^150]: A 24. § (2) bekezdés g) pontját a 131/2015. (V. 27.) Korm. rendelet 16. §-a iktatta be.
+[^151]: A 24. § (2) bekezdés h) pontját a 76/2019. (IV. 10.) Korm. rendelet 8. §-a iktatta be.
+[^152]: A 24. § (2) bekezdés i) pontját a 76/2019. (IV. 10.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2019. (X. 15.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^153]: A 24. § (2) bekezdése j) pontját a 236/2019. (X. 15.) Korm. rendelet 8. §-a iktatta be.
