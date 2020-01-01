@@ -1,0 +1,1 @@
+42. § A Ctv. 1. számú melléklet III. 4. pontjában az „a vagyonmérleg-tervezetekre és a vagyonleltár-tervezetekre vonatkozó” szövegrész helyébe az „ha a vagyonmérleg-tervezetek és a vagyonleltár-tervezetek könyvvizsgálata kötelező, az ezekre vonatkozó” szöveg lép.

@@ -1,0 +1,39 @@
+54. § A Hetv. 110. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Fellebbezésnek van helye a hagyatéki eljárás során
+
+1. a hagyatéki eljárás megindítása iránti kérelmet visszautasító és elutasító,
+
+2. a helyszíni leltár felvétele iránti kérelmet visszautasító és elutasító,
+
+3. a biztosítási intézkedés tárgyában hozott,
+
+4. végrendeleti végrehajtó megbízatásának létrejöttét, létre nem jöttét, megszűnését megállapító vagy a megszűnés megállapítására irányuló kérelmet visszautasító és elutasító,
+
+5. a végrendeleti végrehajtót az örökhagyó egyes rendelkezéseinek teljesítése alól felmentő, vagy a felmentésre irányuló kérelmet visszautasító és elutasító,
+
+6. a hagyatéki eljárás felfüggesztése tárgyában hozott,
+
+7. az egyezség jóváhagyása tárgyában hozott,
+
+8. a hagyatéki eljárást megszüntető,
+
+9. a hagyatéki eljárás megismétlése tárgyában hozott,
+
+10. a tárgyalás tartása iránti kérelmet visszautasító,
+
+11. az özvegyi jog megváltása tárgyában hozott,
+
+12. a hagyatékátadási terhek és az öröklési illeték kifizetése céljából a hagyatéki vagyontárgy értékesítése, bírósági letétbe helyezett vagy közjegyzői letétbe vett készpénz és vagyontárgy birtokba vételének az ideiglenes hatályú hagyatékátadás esetén a hagyatékból való kifizetése engedélyezése tárgyában hozott,
+
+13. a megismételt hagyatéki eljárás ingatlan-nyilvántartásba való feljegyzése tárgyában hozott,
+
+14. a leltárba felvett vagyonra, vagyonrészre vagy vagyontárgyra az örökhagyó túlélő házastársa (volt házastársa) által házastársi vagyonközösség jogcímén, vagy az örökhagyót túlélő élettársa (volt élettársa) által az együttélés alatt keletkezett vagyonközösségből őt megillető részesedés jogcímén bejelentett igény tárgyában hozott,
+
+15. a végintézkedéssel alapított bizalmi vagyonkezelési jogviszony létrejötte tárgyában hozott,
+
+16. a 75. § szerinti törvényes zálogjog létrejötte tárgyában hozott, valamint
+
+17. a fellebbezést visszautasító
+
+végzés ellen.”

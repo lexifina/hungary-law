@@ -1,0 +1,3 @@
+41. § A Ctv. a következő 131/M. §-sal egészül ki:
+
+„131/M. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 1. számú melléklet III. 4. pontját a folyamatban lévő eljárásokban akkor kell alkalmazni, ha az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 35/A. § alapján az átalakulásról, egyesülésről, szétválásról a cég döntéshozó szerve első ízben 2019. október 1-je után döntött.”

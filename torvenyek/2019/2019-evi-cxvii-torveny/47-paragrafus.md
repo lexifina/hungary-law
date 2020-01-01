@@ -1,0 +1,3 @@
+47. § A Hetv. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A leltárt 30 napon belül el kell készíteni. E határidőt attól a naptól kell számítani, amikor a jegyző a kötelező leltározás alá eső vagyontárgyról vagy a leltár felvételét kötelezővé tevő tényről, körülményről okiratból tudomást szerzett. Belföldön kiállított halottvizsgálati bizonyítvány alapján indult eljárásban a leltárt legkésőbb a halottvizsgálati bizonyítvány elektronikus beérkezésének napjától számított 35. napig kell elkészíteni. A (4) bekezdésben meghatározott kivétellel a leltár elkészítésére meghatározott határidő meghosszabbítása, valamint a leltár elkészítésének felfüggesztése vagy szünetelése nem lehetséges.”
