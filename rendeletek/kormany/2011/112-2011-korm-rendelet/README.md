@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-112-20-
 | 2017-08-12 | 2011-112-20-22.21 | 225/2017. (VIII. 11.) Korm. rendelet |
 | 2018-01-01 | 2011-112-20-22.22 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-10-01 | 2011-112-20-22.23 | 162/2018. (IX. 10.) Korm. rendelet |
+| 2020-01-01 | 2011-112-20-22.24 | 360/2019. (XII. 30.) Korm. rendelet |

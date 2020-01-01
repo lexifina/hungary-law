@@ -1,4 +1,4 @@
-5/G. §[^26] (1) A Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt kötelezettségek teljesítésének igazolására a Nemzetközi Atomenergia Ügynökség ellenőrei jogosultak a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén helyszíni ellenőrzést tartani.
+5/G. §[^31] (1) A Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben Magyarország által vállalt kötelezettségek teljesítésének igazolására a Nemzetközi Atomenergia Ügynökség ellenőrei jogosultak a nukleáris anyaggal rendelkező, illetve az adatszolgáltatásra kötelezett szervezetnél, valamint a telephely bármely részén helyszíni ellenőrzést tartani.
 
 (2) Az Euratom Szerződésben és az Euratom rendeletben előírt, valamint a Biztosítéki Egyezményben és a Kiegészítő Jegyzőkönyvben a nukleáris anyagok vonatkozásában Magyarország által vállalt kötelezettségek teljesítésének igazolására az Európai Bizottság ellenőrei jogosultak a nukleáris anyaggal rendelkező szervezetnél helyszíni ellenőrzést tartani.
 
@@ -14,4 +14,4 @@
 
 (8) A nemzetközi helyszíni ellenőrzést kizárólag a (7) bekezdés szerint elfogadott nemzetközi ellenőrök jogosultak lefolytatni.
 
-[^26]: Az 5/G. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^31]: Az 5/G. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
