@@ -1,1 +1,0 @@
-A közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: közjegyzői törvény) 183. § ának d) pontjában kapott felhatalmazás alapján – a 166/A. §-ának (1) bekezdésében foglaltakra figyelemmel – a következőket rendelem el:
