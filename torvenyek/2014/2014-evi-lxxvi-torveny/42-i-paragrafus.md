@@ -1,6 +1,6 @@
 ## 13/E. Foglalkoztatási szabályok
 
-42/I. § (1) Az elnök, a főtitkár és főtitkárhelyettesek megbízatása öt évre szól. Az elnöki és főtitkári tisztségre ugyanaz a személy legfeljebb kétszer nevezhető ki, választható meg.
+42/I. § (1) Az elnök, a főtitkár és főtitkárhelyettes megbízatása öt évre szól. Az elnöki és főtitkári tisztségre ugyanaz a személy legfeljebb kétszer nevezhető ki, választható meg.
 
 (2) Az elnök és a főtitkár a tevékenységéért az Irányító Testületnek felel.
 

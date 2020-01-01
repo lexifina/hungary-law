@@ -1,16 +1,30 @@
-13. § (1) Az NKFI Alap terhére közfinanszírozású támogatás – törvényben, kormányrendeletben, kormányhatározatban és nemzetközi szerződésben meghatározott kivétellel – a 12. § (2) bekezdése szerint jóváhagyott programstratégiában foglaltak szerint, pályázat alapján nyújtható. A pályázatokat az e törvényben meghatározottak szerint értékelni kell. A pályázat támogatására az NKFI Hivatal elnöke által összehívott, e törvény szerinti testület tesz javaslatot. A támogatási döntést az NKFI Hivatal elnöke hozza meg.
+13. § (1) Az NKFI Alap terhére visszatérítendő és vissza nem térítendő közfinanszírozású támogatás
 
-(2) Az NKFI Alap terhére közfinanszírozású támogatás nyújtásáról kérelem alapján – a jogszabályból és nemzetközi szerződésből fakadó kötelezettségeken, támogatásokon, fejlesztési célú beruházásokon, továbbá a Kormány egyedi döntésével támogatott kiemelt kutatás-fejlesztési és innovációs programokon kívül – az NKFI Hivatal elnöke saját hatáskörben dönthet az NKFI Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben. E mértéken felül az NKFI Alap terhére biztosítható továbbá a Kormány által jóváhagyott programstratégiában foglaltak szerint
+a) pályázat útján;
+
+b) a (3) bekezdés szerinti egyedi támogatási kérelem alapján;
+
+c) jogszabály, kormányhatározat, nemzetközi szerződésből fakadó kötelezettség alapján, valamint
+
+d) a (4) bekezdésben határozott jogcímeken
+
+nyújtható.
+
+(2) A pályázatokat az e törvényben meghatározottak szerint kell értékelni. A pályázat támogatására – amennyiben e törvény másként nem rendelkezik – a Kormány által kijelölt szerv vezetője által összehívott – a 25. § (2) bekezdés szerinti – testület tesz javaslatot. A támogatási döntést – a 12. § (2) bekezdése szerint jóváhagyott programstratégiában foglaltakra figyelemmel – a tudománypolitika koordinációjáért felelős miniszter hozza meg.
+
+(3) Az NKFI Alap terhére közfinanszírozású támogatás nyújtásáról egyedi támogatási kérelem alapján a tudománypolitika koordinációjáért felelős miniszter saját hatáskörben dönthet az NKFI Alap tárgyévi kiadási előirányzatának 3 %-át meg nem haladó mértékben.
+
+(4) Az NKFI Alap terhére biztosítható
 
 a) a Kormány kutatás-fejlesztéssel és innovációval foglalkozó intézkedéseinek – ideértve nagy kutatás-fejlesztési és innovációs infrastruktúrák fejlesztését célzó beruházásokat – finanszírozása,
 
-b) unikális hazai – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs infrastrukturális fejlesztések támogatása,
+b) újdonságtartalommal rendelkező – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs infrastrukturális fejlesztések támogatása,
 
-c) európai uniós együttműködés keretében megvalósuló – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs infrastrukturális beruházások támogatása,
+c) európai uniós vagy egyéb nemzetközi együttműködés keretében megvalósuló – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs projektek és infrastrukturális beruházások, valamint működtetésük támogatása,
 
-d) a Kormány által jóváhagyott, az NKFI Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a kutatás-fejlesztési és innovációs kapacitásnövekedést elősegítő projektek támogatása,
+d) a Kormány által jóváhagyott, az NKFI Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a kutatás-fejlesztési és innovációs kapacitásnövekedést elősegítő projektek, programok és ösztöndíjak támogatása,
 
-e) a kutatás-fejlesztés és innováció területén működő nemzetközi szervezetekben, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel tagdíjának és egyéb tagdíj jellegű befizetéseinek a finanszírozása,
+e) a kutatás-fejlesztés és innováció területén működő nemzetközi szervezetekben, valamint a nemzetközi kutatás-fejlesztési és innovációs infrastruktúrákban és konzorciumokban való magyar részvétel tagdíjának és egyéb tagdíj jellegű befizetéseinek a finanszírozása,
 
 f) a tudomány-, a kutatás-fejlesztési és az innovációpolitika megalapozását szolgáló elemzések és adatbázisok létrehozása és kezelése,
 
@@ -18,4 +32,4 @@ g) az országos kutatás-fejlesztési és innovációs támogatási programok te
 
 h) az Elektronikus Információszolgáltatás Nemzeti Program keretében beszerzett tudományos tartalmak, folyóiratok, leíró és egyéb adatbázisok előfizetési díja, valamint az Elektronikus Információszolgáltatás Nemzeti Program működési költsége.
 
-(3) A (2) bekezdés szerinti – a (2) bekezdés b) és c) pontja esetén visszafizetési kötelezettséggel vagy arra tekintet nélkül nyújtandó – közfinanszírozású támogatás, valamint a nemzetközi kutatás-fejlesztési és innovációs konzorciumokban való magyar részvétel egyszeri vagy éves tagdíjának az NKFI Alap terhére történő biztosítására az NKFI Alap éves programstratégiája és előirányzat-felhasználási terve a 12. § (2) bekezdésében foglaltak szerint módosítható. Az NKFI Hivatal a nemzetközi tagdíjakkal kapcsolatos fizetési kötelezettségét az NKFI Hivatal fejezeti kezelésű előirányzatából vagy az NKFI Alapból teljesíti, az NKFI Alapból megvalósuló kifizetés esetén közvetlen utalással vagy az NKFI Hivatal fejezeti kezelésű előirányzatán keresztül, az NKFI Alapból történő pénzeszközátadás végrehajtásával.
+(5) A Kormány által kijelölt szerv nemzetközi tagdíjakkal kapcsolatos fizetési kötelezettségeihez az NKFI Alap pénzeszköz átadással hozzájárul.

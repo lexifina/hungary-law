@@ -1,8 +1,8 @@
-## 11. Kutatás-fejlesztési támogatások
+## 11. Az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatások
 
 24. § (1) Az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázatokhoz a következő célokra nyújtható támogatás:
 
-a) tudományos kutatási témákkal kapcsolatos folyó ráfordításokra,
+a) tudományos kutatási témákkal, területekkel kapcsolatos folyó ráfordításokra,
 
 b) nemzetközi tudományos kutatásban való részvételre, nemzetközi tudományos együttműködés támogatására, ideértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását is,
 
@@ -12,7 +12,7 @@ d) ösztöndíjra, különös tekintettel fiatal kutatók tudományos tevékenys
 
 e) publikálási támogatásra,
 
-f) a kutatás-fejlesztés infrastrukturális feltételeinek biztosítására és a meglévő infrastruktúra fejlesztésére, a tudományos kutatáshoz – témapályázat, infrastrukturális fejlesztés keretében – szükséges műszerek, berendezések és más eszközök beszerzésére, bérlésére, hozzáférési díj biztosítására, személyi kiadások és járulékaik, valamint dologi és felhalmozási kiadások finanszírozására,
+f) a kutatás-fejlesztés infrastrukturális feltételeinek biztosítására és a meglévő infrastruktúra fejlesztésére, a tudományos kutatáshoz – témapályázat, infrastrukturális fejlesztés keretében – szükséges műszerek, berendezések és más eszközök beszerzésére, bérlésére, hozzáférési díj biztosítására – ideértve a nemzetközi kutatási infrastruktúrákhoz való hozzáférés díját és költségeit is –, személyi kiadások és járulékaik, valamint dologi és felhalmozási kiadások finanszírozására,
 
 g) a kutatáshoz szükséges szellemi termékekre, adatbázisokra, tartalmak beszerzésére, licencdíjra, felhasználási vagy hozzáférési költségre,
 
@@ -20,7 +20,7 @@ h) a kutatás-fejlesztéshez szükséges emberi erőforrás biztosítására, a 
 
 i) a kutatás-fejlesztés területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
 
-j) a tudományos közleményekhez való szabad hozzáférés,
+j) a tudományos közleményekhez való szabad hozzáférés költségeire,
 
 k) a szellemi tulajdon védelmére és hasznosítására.
 
@@ -28,4 +28,4 @@ k) a szellemi tulajdon védelmére és hasznosítására.
 
 (3) A pályázati támogatás nyereségre fedezetet nem tartalmazhat.
 
-(4) Egy kutatás-fejlesztési pályázatra a támogató döntésnek megfelelően közfinanszírozású támogatás legfeljebb öt évre vehető igénybe.
+(4)

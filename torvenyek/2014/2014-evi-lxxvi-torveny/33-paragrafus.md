@@ -8,7 +8,7 @@ b) a szellemi alkotásnak nem pénzbeli hozzájárulásként gazdasági társas�
 
 c) a szellemi alkotásokhoz fűződő jogok védelmével kapcsolatos elvekre és követelményekre,
 
-d) ha a vonatkozó jogszabályok a felek eltérő rendelkezését lehetővé teszik, a kutatóhellyel kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban, valamint polgári jogi jogviszonyban álló, a szellemi alkotás létrehozásában közreműködő kutatók jogaira és kötelezettségeire a hasznosítás folyamatában,
+d) ha a vonatkozó jogszabályok a felek eltérő rendelkezését lehetővé teszik, a kutatóhellyel kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban, valamint polgári jogi jogviszonyban álló, a szellemi alkotás létrehozásában közreműködő kutatók jogaira és kötelezettségeire a hasznosítás folyamatában,
 
 e) a kutatóhely jogosultságába tartozó szellemi alkotásokkal összefüggő értékelési, nyilvántartási és hasznosítási eljárások elveire,
 

@@ -1,4 +1,4 @@
-42/D. § (1) Az Irányító Testület vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki. Az Irányító Testület elnöke az „Eötvös Loránd Kutatási Hálózat elnöke” cím használatára jogosult.
+42/D. § (1) Az Irányító Testület és az ELKH Titkárság vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki. Az Irányító Testület elnöke az „Eötvös Loránd Kutatási Hálózat elnöke” cím használatára jogosult.
 
 (2) Az ELKH Titkárság tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
 

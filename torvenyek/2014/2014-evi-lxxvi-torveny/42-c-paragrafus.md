@@ -2,7 +2,7 @@
 
 42/C. § (1) Az ELKH Titkárság fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
 
-(2) Az Irányító Testület 13 főből áll, az elnökön felüli tagjai közül hat főt a tudománypolitika koordinációjáért felelős miniszter, hat főt az MTA elnöke javasol azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerüljön kiválasztásra. Az Irányító Testület tagjait a miniszterelnök nevezi ki.
+(2) Az Irányító Testület tizenhárom főből áll, az elnökön felüli tagjai közül hat főt a tudománypolitika koordinációjáért felelős miniszter, hat főt az MTA elnöke javasol azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerüljön kiválasztásra. Az Irányító Testület tagjait a miniszterelnök nevezi ki. Az Irányító Testület tagjai tiszteletdíjra jogosultak.
 
 (3) Az Irányító Testület
 
@@ -18,7 +18,7 @@
 
 6. dönt az ELKH Titkárság, valamint a kutatóhelyek szervezeti és működési szabályairól, az ELKH Titkárság szabályzatairól;
 
-7. elfogadja az ELKH Titkárság vagyongazdálkodásával kapcsolatos szabályokat;
+7. elfogadja az ELKH vagyongazdálkodásával kapcsolatos szabályokat;
 
 8. előzetesen jóváhagyja az ELKH Titkárság szervezeti és működési szabályzatában meghatározott értékhatárt meghaladó kötelezettségvállalását;
 

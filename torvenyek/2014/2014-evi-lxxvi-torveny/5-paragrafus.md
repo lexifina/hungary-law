@@ -1,6 +1,6 @@
-5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával az NKFI Hivatal elnöke, a miniszterek és a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
+5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és az Eötvös Loránd Kutatási Hálózat Titkárságának (a továbbiakban: ELKH Titkárság) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
 
-(2) A miniszterek, az NKFI Hivatal elnöke és az MTA elnöke feladatkörükben együttműködve
+(2) A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és az ELKH Titkárság elnöke feladatkörükben együttműködve
 
 a) irányítják, felügyelik az általuk irányított fejezetbe sorolt költségvetési kutatóhelyeket,
 
@@ -12,6 +12,4 @@ d) elősegítik a kutatás-fejlesztési és innovációs eredmények hasznosít�
 
 e) a szakterületükre irányuló támogatott kutatás-fejlesztési és innovációs programok tekintetében részt vesznek a tartalmi követelmények, a támogatási feltételek és az értékelési mutatók meghatározásában.
 
-(3) A miniszterek és az MTA elnöke feladatkörükben együttműködve az NKFI Hivatal elnöke véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
-
-(4) A KFI stratégia kidolgozása során az NKFI Hivatal – az érintett miniszterek egyetértésével – az adott szakterületen kutatás-fejlesztési és innovációs tevékenységet végző egyetemek rektorainak véleményét is kikérheti.
+(3) A miniszterek, az MTA elnöke és az ELKH Titkárság elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.

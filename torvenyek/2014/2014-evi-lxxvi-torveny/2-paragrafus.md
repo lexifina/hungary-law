@@ -1,6 +1,6 @@
 ## 2. Alapelvek
 
-2. § E törvény – az EUROPA 2020 Stratégia „Innovatív Unió” dokumentumban lefektetett alapelvekkel összhangban – biztosítani kívánja az állam és a kutatás-fejlesztésben, valamint az innovációban részt vevők, továbbá a piaci szereplők viszonyára vonatkozó következő elveket és szabályokat:
+2. § E törvény – az Európai Unió kutatás-fejlesztést és innovációt érintő stratégiai dokumentumaiban lefektetett alapelvekkel összhangban – biztosítani kívánja az állam és a kutatás-fejlesztésben, valamint az innovációban részt vevők, továbbá a piaci szereplők viszonyára vonatkozó következő elveket és szabályokat:
 
 a) az állam támogatja azon tudományos kutatásokat, amelyektől új tudományos törvényszerűségek felismerése, ismeretek, módszerek, eljárások kidolgozása várható, valamint az elvégzésükhöz és az eredmények nyilvánosságra hozatalához szükséges feltételek – köztük a kutatási infrastruktúrák – kialakítását,
 

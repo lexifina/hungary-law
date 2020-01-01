@@ -6,4 +6,4 @@ b) a támogatott projekt keretében létrejövő eredmények magyarországi hasz
 
 (2) Több személy vagy szervezet együttes pályázása esetén a pályázat kiírója megkövetelheti az együttműködésben részes feleknek a projekt eredményeként létrejött szellemi alkotásokkal kapcsolatos jogokra vonatkozó előzetes – a hasznosítást is elősegítő – megállapodását.
 
-(3) A támogatási szerződésben meg kell határozni a pályázó (1) bekezdésben foglaltak szerint előírt kötelezettsége felróható elmulasztásának jogkövetkezményeit.
+(3) A támogatási szerződésben meg kell határozni a kedvezményezett (1) bekezdésben foglaltak szerint előírt kötelezettsége felróható elmulasztásának jogkövetkezményeit.

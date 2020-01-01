@@ -4,7 +4,7 @@
 
 ## 10. Közös szabályok
 
-18. § Az NKFI Alap terhére nyújtott támogatások során a hazai közfinanszírozású támogatások hatékony hasznosulása érdekében előnyben kell részesíteni azokat a kutatás-fejlesztési és innovációs projekteket, amelyek
+18. § A hazai közfinanszírozású támogatások hatékony hasznosulása érdekében előnyben kell részesíteni azokat a kutatás-fejlesztési és innovációs projekteket, amelyek
 
 a) alapvető tudományos és technológiai áttörést hozó eredményeket ígérnek,
 
@@ -16,7 +16,7 @@ d) költségvetési kutatóhely és vállalkozás, valamint felsőoktatási int�
 
 e) regionális, illetve határon átnyúló és nemzetközi kutatás-fejlesztési és innovációs együttműködést valósítanak meg,
 
-f) a kutatás-fejlesztés és innováció területén, ideértve a kapcsolódó köz- és felsőfokú oktatást, valamint a szak- és felnőttképzést is, humánerőforrás-bővítést jelentenek,
+f) a kutatás-fejlesztés és innováció területén, ideértve a kapcsolódó köznevelést, a szakképzést, a felsőoktatást és a felnőttképzést, humánerőforrás-bővítést jelentenek,
 
 g) a kutatás-fejlesztésben és innovációban foglalkoztatottak szakmai, illetve vállalkozási felkészültségének javítását szolgálják,
 

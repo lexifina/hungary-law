@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2019-07-24 | 2019. évi LXXIII. törvény | 2014-76-00-00.10 |
 | 2019-08-01 | 2019. évi LXVIII. törvény | 2014-76-00-00.11 |
 | 2019-09-01 | 2019. évi LXVIII. törvény | 2014-76-00-00.12 |
+| 2020-01-01 | 2019. évi CXXIII. törvény | 2014-76-00-00.13 |

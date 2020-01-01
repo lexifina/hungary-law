@@ -2,9 +2,11 @@
 
 3. § E törvény alkalmazásában
 
-1. alapkutatás: olyan felfedező jellegű kísérleti vagy elméleti munka, amelyet elsősorban jelenségek, tapasztalatok és megfigyelések megértéséhez szükséges új ismeretek megszerzésének érdekében folytatnak anélkül, hogy kilátásba helyeznék azok gyakorlati alkalmazását vagy felhasználását,
+1. alapkutatás: kísérleti vagy elméleti munka, amelyet elsősorban a jelenségek vagy megfigyelhető tények hátterével kapcsolatos új ismeretek megszerzésének érdekében folytatnak, anélkül, hogy kilátásba helyeznék azok közvetlen üzleti alkalmazását vagy felhasználását,
 
-2. alkalmazott kutatás: tervezett kutatás vagy célzott vizsgálat, amelynek célja új ismeretek, tudás és szakértelem megszerzése új termékek, eljárások, technológiák vagy szolgáltatások kifejlesztéséhez, vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű továbbfejlesztésének elősegítéséhez,
+2. alkalmazott kutatás: tervezett kutatás vagy kritikus vizsgálat, amelynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez, amely magában foglalja komplex rendszerek összetevőinek létrehozását, és beletartozhat a prototípusok laboratóriumi környezetben vagy létező rendszerekhez szimulált interfésszel rendelkező környezetben történő megépítése, valamint kísérleti sorozatok gyártása, amennyiben ez az alkalmazott kutatáshoz és különösen a generikus technológiák ellenőrzéséhez szükséges,
+
+2a. Egyszerűsített elszámolási módok: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (1) bekezdés b)–d) pontjai szerinti támogatási formák,
 
 3. fizetett kutatás-fejlesztés: az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet,
 
@@ -12,21 +14,21 @@
 
 5. hazai közfinanszírozású támogatás: a közfinanszírozású támogatások összessége az európai uniós források kivételével,
 
-6. innováció: a gazdasági tevékenység hatékonyságának, jövedelmezőségének javítása, a kedvező társadalmi és környezeti hatások elérése érdekében végzett tudományos, műszaki, szervezési, gazdálkodási, kereskedelmi műveletek összessége, amelyek eredményeként új vagy lényegesen módosított termék, eljárás, szolgáltatás jön létre, új vagy lényegesen módosított eljárás, technológia alkalmazására, piaci bevezetésére kerül sor, ideértve azokat a változásokat, amelyek csak adott ágazatban vagy adott szervezetnél minősülnek újdonságnak,
+6. innováció: egy új vagy továbbfejlesztett termék vagy folyamat, vagy ezek kombinációja, amely jelentősen különbözik a jogi formájától vagy finanszírozási módjától függetlenül az adott szervezet korábbi termékeitől vagy folyamataitól, és amelyet termék esetén a potenciális felhasználók számára elérhetővé tettek, vagy amelyeket folyamat esetén a szervezet használatba vett, továbbá amely lehet
 
-7. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása, alkalmazása és felhasználása új, módosított vagy javított termék, eljárás vagy szolgáltatás terveinek létrehozása vagy megtervezése céljából. Kísérleti fejlesztésnek minősülhetnek:
+a) termék innováció: egy új vagy továbbfejlesztett termék vagy szolgáltatás, amely jelentősen különbözik a vállalkozás olyan termékeitől, szolgáltatásaitól, amelyet már bevezetett a piacra,
 
-a) az új termékek, eljárások és szolgáltatások fogalmi meghatározását, megtervezését és dokumentálását célzó tevékenységek;
+b) üzleti folyamat innováció: egy vagy több üzleti tevékenységéhez – így különösen a termelés, disztribúció és logisztika, marketing és értékesítés, információs és kommunikációs technológia, az adminisztráció és a menedzsment, termék-, és folyamat fejlesztés – kapcsolódó új vagy továbbfejlesztett üzleti folyamat, amely jelentősen különbözik a vállalkozás korábbi üzleti folyamataitól, és amelyeket a vállalkozás használatba vett,
 
-b) olyan tevékenységek, amelyek magukban foglalják tervezetek, tervrajzok, tervek és egyéb dokumentációk előállítását is, feltéve, hogy azokat nem kereskedelmi felhasználásra szánják;
+6a. innovatív tevékenység: jogi formájától vagy finanszírozási módjától függetlenül bármely szervezet azon fejlesztési, pénzügyi és kereskedelmi tevékenysége, amelynek célja, hogy innovációt eredményezzen az adott szervezetszámára,
 
-c) a kereskedelmi felhasználásra nem kerülő prototípusok elkészítése;
+7. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb vonatkozó ismeretek és szakértelem megszerzése, összesítése, alakítása és felhasználása új vagy javított termékek, eljárások vagy szolgáltatások kidolgozása céljából, különösen:
 
-d) a kereskedelmileg felhasználható prototípusok és kísérleti projektek kifejlesztése abban az esetben, ha a prototípus szükségszerűen maga kereskedelmi végtermék, és előállítása túlságosan költséges ahhoz, hogy az kizárólag demonstrációs és hitelesítési céllal történjen;
+a) az új termékek, eljárások vagy szolgáltatások fogalmi meghatározását, megtervezését és dokumentálását célzó tevékenységek;
 
-e) a termékek, eljárások és szolgáltatások kísérleti gyártása és tesztelése, feltéve hogy azokat nem lehet felhasználni vagy átalakítani úgy, hogy azok ipari alkalmazásokban vagy kereskedelmileg hasznosíthatóak legyenek.
+b) az új vagy javított termékek, eljárások és szolgáltatások prototípusainak és kísérleti modelljeinek kidolgozása, illetve kiállítása, az ilyen termékeknek a tényleges működési körülményeket reprezentáló környezetben történő tesztelése és jóváhagyása abban az esetben, ha e tevékenységek elsődleges célja a véglegesnek még nem tekinthető termék, eljárás vagy szolgáltatás továbbfejlesztése;
 
-A kísérleti fejlesztésbe még akkor sem tartoznak bele azok a szokásos, időszakos vagy rutinszerű változások, amelyeket termékeken, gyártósorokon, előállítási eljárásokon, létező szolgáltatásokon és egyéb folyamatban lévő műveleteken végeznek, ha e változtatások fejlesztésnek minősülnek, illetve ha e változtatások az adott termék, eljárás, folyamat vagy szolgáltatás fejlődését is eredményezik,
+c) a kereskedelmileg felhasználható olyan prototípusok és kísérleti projektek kifejlesztése, amelyek kereskedelmi végterméknek minősülnek, mert előállításuk túlságosan költséges ahhoz, hogy az kizárólag demonstrációs és hitelesítési céllal történjen, és amelyek egyidejűleg megfelelnek a kutatás alapvető ismérveinek (újszerűség, bizonytalanság, kreativitás), valamint amelyek módszeresen folytatott és megismételhető tevékenységnek tekinthetők. Ide nem értve azokat a szokásos vagy időszakos változtatásokat, amelyeket meglévő termékeken, gyártósorokon, előállítási eljárásokon, szolgáltatásokon és egyéb folyamatban lévő műveleteken végeznek, ha e változtatások fejlesztésnek minősülnek,
 
 8. konzorcium: a részes felek polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködés kutatás-fejlesztési és innovációs tevékenység közös folytatása vagy egy kutatás-fejlesztési és innovációs projekt közös megvalósítása céljából,
 
@@ -36,9 +38,9 @@ A kísérleti fejlesztésbe még akkor sem tartoznak bele azok a szokásos, idő
 
 11. kutatás-fejlesztés: magában foglalja az alapkutatást, az alkalmazott kutatást és a kísérleti fejlesztést,
 
-12. kutatás-fejlesztési és innovációs eredmények hasznosítása: vállalkozás keretében, üzleti céllal, gazdasági eredmény reményében történő felhasználás, továbbá az olyan közösségi célú felhasználás, amelynek eredménye a lakosság életminőségének és a közszolgáltatások minőségének javítása, a természeti és épített környezet védelme, az ország fenntartható fejlődése, valamint védelmi képességének és biztonsági helyzetének javítása,
+12. kutatás-fejlesztési és innovációs eredmények hasznosítása: üzleti céllal, gazdasági eredmény reményében történő felhasználás, továbbá az olyan közösségi célú felhasználás, amelynek eredménye a lakosság életminőségének és a közszolgáltatások minőségének javítása, a természeti és épített környezet védelme, az ország fenntartható fejlődése, valamint védelmi képességének és biztonsági helyzetének javítása,
 
-13. kutatás-fejlesztési és innovációs program: a közfinanszírozású támogatási forrás kezelője által meghatározott cél elérését szolgáló, vagy meghatározott témakörbe csoportosítható kutatás-fejlesztési vagy innovációs projektek megvalósításának támogatására kiírt pályázat, illetve pályázatok időben megismételt sorozata,
+13. kutatás-fejlesztési és innovációs program: a közfinanszírozású támogatási forrás céljának elérését szolgáló, vagy meghatározott témakörbe csoportosítható kutatás-fejlesztési vagy innovációs projektek megvalósításának támogatására kiírt pályázatok időben megismételt sorozata, illetve támogatási intézkedés,
 
 14. kutatás-fejlesztési megállapodás: két vagy több vállalkozás, illetve vállalkozás és kutatóhely (e pontban a továbbiakban: felek) között létrejött olyan megállapodás, amelynek tárgya
 
@@ -54,20 +56,30 @@ e) ugyanazon részt vevő felek közötti korábbi megállapodás alapján végz
 
 f) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés, az ebből származó eredmény közös hasznosítása nélkül,
 
+14a. kutatási infrastruktúra: olyan létesítmények, erőforrások és kapcsolódó szolgáltatások, amelyeket a tudományos közösség az adott területtel kapcsolatos élvonalbeli kutatásához használ; ideértve a tudományos berendezéseket és eszközöket, a tudásalapú erőforrásokat – így különösen gyűjteményeket, archívumokat vagy strukturált tudományos információkat –, az infokommunikációs technológiai infrastruktúrákat – így különösen adat- és számítástechnikai rendszereket, szoftvereket, kommunikációs hálózatokat –, valamint a kutatás kiválóságának eléréséhez szükséges bármilyen más egyedi eszközöket, amelyek lehet egy helyszínre telepítettek vagy megosztottak, hálózatba szervezett erőforrások az európai kutatási infrastruktúráért felelős konzorcium (ERIC) közösségi jogi keretéről szóló, 2009. június 25-i 723/2009/EK tanácsi rendelet 2. cikke a) pontjának megfelelően,
+
 15. kutató-fejlesztő: az a természetes személy, aki új ismeret, szellemi alkotás, termék, szolgáltatás, eljárás, módszer, rendszer létrehozásával, fejlesztésével vagy ezt célzó projektek megvalósításának irányításával foglalkozik,
 
 16. kutatóhely: alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató intézmény, szervezeti egység vagy vállalkozás,
 
+16a. kutató-tudásközvetítő szervezet: jogi formájától vagy finanszírozási módjától függetlenül olyan szervezet, így különösen egyetem vagy kutatóintézet, technológiatranszfer-ügynökség, innovációs közvetítő, valós vagy virtuális együttműködést kínáló kutatásorientált szervezet, amelynek elsődleges célja a független tevékenységként végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés, vagy e tevékenységek eredményeinek oktatása, közzététele vagy tudástranszfer útján széles körben történő terjesztése, azzal, hogy amennyiben gazdasági tevékenységet is végez, úgy a gazdasági tevékenységek finanszírozását, a gazdasági tevékenységekkel járó költségek és az abból származó bevételek elszámolását elkülönítve végzi,
+
 17. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkv. tv.) 3. §-a szerinti mikro-, kis- és középvállalkozás,
 
-18. nonprofit kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
+18. nonprofit közhasznú kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
 
 19. projekt: meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
 
 19a. projektcsoport: a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
 
+19b. prototípus: olyan eredeti modell, amelyet úgy alakítanak ki, hogy magán hordozza egy új termék minden műszaki jellemzőjét és teljesítményét,
+
 20. szellemi tulajdon: a szellemi alkotásokra és egyes teljesítményekre, az árujelzőkre (védjegyek és földrajzi árujelzők) a szerzői jogi és iparjogvédelmi törvényben, a védett ismeretekre nézve az üzleti titok védelméről szóló törvényben, továbbá az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és nemzetközi egyezmények által biztosított jogi oltalom,
 
 21. szellemi alkotás: az az alkotás, illetve műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve az üzleti titok védelméről szóló törvény által oltalomban részesített védett ismeretet is,
+
+21a. technológia transzfer: a technológia átadásának folyamata, amely során a technológia a terjesztési csoportoktól és helyektől több emberhez és helyhez kerül elosztásra,
+
+21b. tudástranszfer: a tudás megosztása vagy terjesztése és a problémamegoldás új ismeretekkel történő támogatása a tudás maximális hasznosulása érdekében,
 
 22. vállalkozás: a Kkv. tv. 19. § 5. pontjában meghatározott vállalkozás.
