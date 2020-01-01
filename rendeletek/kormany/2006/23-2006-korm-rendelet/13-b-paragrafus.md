@@ -1,6 +1,6 @@
-## Fennmaradási engedélyezési eljárás[^67]
+## Fennmaradási engedélyezési eljárás[^64]
 
-13/B. §[^68] (1) A fennmaradási engedély kiadására irányuló eljárásban az építési jogosultság igazolásán túl a használatbavételi engedélyezési eljárás szabályait kell megfelelően alkalmazni.
+13/B. §[^65] (1) A fennmaradási engedély kiadására irányuló eljárásban az építési jogosultság igazolásán túl a használatbavételi engedélyezési eljárás szabályait kell megfelelően alkalmazni.
 
 (2) A bányafelügyelet a fennmaradási engedélyt megadja, ha a megépített nyomástartó berendezés megfelel a jogszabályokban foglalt követelményeknek.
 
@@ -8,5 +8,5 @@
 
 (4) A fennmaradási engedély iránti kérelem elutasítása esetén rendelkezni kell a nyomástartó berendezés bontásáról vagy műszaki felszámolásáról és az eredeti állapot lehetőség szerinti helyreállításáról.
 
-[^67]: A 13/B. §-t megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 25. §-a iktatta be.
-[^68]: A 13/B. §-t a 311/2014. (XII. 11.) Korm. rendelet 25. §-a iktatta be.
+[^64]: A 13/B. §-t megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 25. §-a iktatta be.
+[^65]: A 13/B. §-t a 311/2014. (XII. 11.) Korm. rendelet 25. §-a iktatta be.

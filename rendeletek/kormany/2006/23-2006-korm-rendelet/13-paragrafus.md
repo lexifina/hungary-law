@@ -1,63 +1,56 @@
-## 12/A. §[^58] A 13. § szerinti javítási, átalakítási engedély alapján javított vagy átalakított nyomástartó berendezés használatbavételére a 10–12. § rendelkezéseit kell megfelelően alkalmazni.
+## 12/A. §[^60] A 13. § szerinti átalakítási engedély alapján átalakított vagy bejelentés alapján javított nyomástartó berendezés használatbavételére a 10–12. § rendelkezéseit kell megfelelően alkalmazni.
 
-## Átalakítási, javítási engedélyezési
+## Átalakítási engedélyezési eljárás, javítás bejelentése[^61]
 
-## eljárás
+13. § (1) A bányafelügyelet engedélye szükséges a nyomástartó berendezés minden olyan átalakításához, amely a 12. § (3) bekezdésében felsoroltakat meghaladja.
 
-13. §[^59] (1) A bányafelügyelet engedélye szükséges a nyomástartó berendezés minden olyan javításához, átalakításához, amely a 12. § (3) bekezdésében felsoroltakat meghaladja.
+(2) Az átalakítási engedély iránti kérelemnek tartalmaznia kell:
 
-(2) A javítási, átalakítási engedély iránti kérelemnek tartalmaznia kell:
+a) az átalakítással érintett létesítmény helyét, rendeltetését,
 
-a) a javítással, átalakítással érintett létesítmény helyét, rendeltetését,
+b) az átalakítási tervet készítő tervező nevét, címét, tervezői jogosultsága megjelölését,
 
-b) a javítási, átalakítási tervet készítő tervező nevét, címét, tervezői jogosultsága megjelölését,
+c) az átalakítás műszaki vezetőjének a nevét, címét és képesítését.
 
-c) a javítás, átalakítás műszaki vezetőjének a nevét, címét és képesítését.
+(3) A kérelemhez mellékelni kell az átalakítás műszaki leírását és a kapcsolódó rajzdokumentációt.
 
-(3) A kérelemhez mellékelni kell:
+(4) A kérelem benyújtásakor igazolni kell azt, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak, összhangban van az élet, az egészség, a biztonság, a környezet, a kulturális örökség és a tulajdon védelmének követelményeivel, a tervezés során milyen műszaki irányelveket, szabványokat alkalmaztak, továbbá, hogy a tervező a tervezésre jogosultsággal rendelkezik.
 
-a) a javítás, átalakítás műszaki leírását és a kapcsolódó rajzdokumentációt,
+(5) Új veszélyességi kategóriába, illetve osztályba történő besorolásra javaslatot csak abban az esetben kell tenni, ha az átalakítást követően megváltozik a nyomástartó berendezés besorolása.
 
-b)[^60]
-
-c)[^61]
-
-(3a)[^62] A kérelem benyújtásakor igazolni kell azt, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak, összhangban van az élet, az egészség, a biztonság, a környezet, a kulturális örökség és a tulajdon védelmének követelményeivel, a tervezés során milyen műszaki irányelveket, szabványokat alkalmaztak, továbbá, hogy a tervező a tervezésre jogosultsággal rendelkezik.
-
-(4) Új veszélyességi kategóriába, illetve osztályba történő besorolásra javaslatot csak abban az esetben kell tenni, ha a javítást, átalakítást követően megváltozik a nyomástartó berendezés besorolása.
-
-(5) A javítási engedélyben legfeljebb 90 napos időtartamra próbaüzem engedélyezhető. Az engedélyben ki kell térni a próbaüzem esetleges feltételeire és a kiértékelés tartalmi követelményeire.
-
-(6) A javítási, átalakítási engedély iránti kérelem elbírálása során a bányafelügyelet meggyőződik arról, hogy
+(6) Az átalakítási engedély iránti kérelem elbírálása során a bányafelügyelet meggyőződik arról, hogy
 
 a) a kérelem megfelel-e a (2)–(3) bekezdésben foglaltaknak, és
 
-b) a tervezett javítási, átalakítási munka megfelel-e a vonatkozó jogszabályokban előírt követelményeknek.
+b) a tervezett átalakítási munka megfelel-e a vonatkozó jogszabályokban előírt követelményeknek.
 
-(7)[^63] A javítási, átalakítási engedély rendelkező részének – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmaznia kell:
+(7) Az átalakítási engedély rendelkező részének – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmaznia kell:
 
-a) a javítással, átalakítással érintett létesítmény
+a) az átalakítással érintett létesítmény
 
 aa) helyét, rendeltetését,
 
 ab) műszaki adatait,
 
-b) a javítás, átalakítás műszaki vezetőjének a nevét,
+b) az átalakítás műszaki vezetőjének a nevét,
 
-c) a javítási, átalakítási tevékenység megkezdésének bejelentésére vonatkozó kötelezettség előírását,
+c) az átalakítási tevékenység megkezdésének bejelentésére vonatkozó kötelezettség előírását,
 
-d) az esetleges próbaüzemre vonatkozó feltételeket,
+d) a létesítményre vonatkozó használatbavételi engedély iránti kérelem kötelező benyújtására vonatkozó felhívást,
 
-e) a létesítményre vonatkozó használatbavételi engedély iránti kérelem kötelező benyújtására vonatkozó felhívást,
+e) az átalakítási engedély hatályát.
 
-f) a javítási, átalakítási engedély hatályát.
+(8) Az átalakítási engedély a véglegessé válásától számított 1 évig hatályos. Az engedély hatálya egy alkalommal, egy évvel meghosszabbítható.
 
-(8)[^64] A javítási, átalakítási engedély a véglegessé válásától számított 1 évig hatályos. Az engedély hatálya egy alkalommal, egy évvel meghosszabbítható.
+(9) A nyomástartó berendezések 12. § (3) bekezdésében felsoroltakat meghaladó javítására vonatkozó bejelentésnek tartalmaznia kell:
 
-[^58]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 38. §-a iktatta be.
-[^59]: A 13. § az 559/2013. (XII. 31.) Korm. rendelet 39. §-ával megállapított szöveg.
-[^60]: A 13. § (3) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 161. § e) pontja hatályon kívül helyezte Alkalmazására lásd e módosító rendelet 618. §-át.
-[^61]: A 13. § (3) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 161. § e) pontja hatályon kívül helyezte Alkalmazására lásd e módosító rendelet 618. §-át.
-[^62]: A 13. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 159. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^63]: A 13. § (7) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 160. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^64]: A 13. § (8) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 160. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+a) a javítással érintett létesítmény helyét, rendeltetését,
+
+b) a javítási tervet készítő tervező nevét, címét, tervezői jogosultsága megjelölését (ha tervezői jogosultsághoz kötött a javítási terv készítése),
+
+c) a javítás műszaki vezetőjének a nevét, címét és képesítését,
+
+d) a javítási tevékenység rövid leírását.
+
+[^60]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 38. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^61]: Az „Átalakítási engedélyezési eljárás, javítás bejelentése” alcím (13. §) a 360/2019. (XII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
