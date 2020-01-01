@@ -2764,23 +2764,19 @@ A) A megszűnő költségvetési szervnél
 
 | 2. A befektetett pénzügyi eszközök értékhelyesbítésének kivezetése a pénzügyi számvitel szerint | T415 | – | K166 |
 
-| 3. Az aktív időbeli elhatárolások kivezetése a pénzügyi számvitel szerint | T414 | – | K37 |
-
-| 4. A passzív időbeli elhatárolások kivezetése a pénzügyi számvitel szerint | T44 | – | K414 |
-
-| 5. A korrigált záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a költségvetési számvitel szerint |
+| 3. A korrigált záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a költségvetési számvitel szerint |
 
 | a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K055062 |
 
 | b) Teljesítéseként | T055063 | – | K003 |
 
-| 6. A korrigált záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a pénzügyi számvitel szerint |
+| 4. A korrigált záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a pénzügyi számvitel szerint |
 
 | a) Kötelezettségként | T8435 | – | K4215 |
 
 | b) Teljesítéseként | T4215 | – | K3673 |
 
-| 7. Kapcsolódó tételek: a záró beszámoló elkészültét követően a XIII. fejezet szerinti zárlati feladatok könyvelési lépései |
+| 5. Kapcsolódó tételek: a záró beszámoló elkészültét követően a XIII. fejezet szerinti zárlati feladatok könyvelési lépései |
 
 B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve az Áht. 11. § (5) bekezdése szerinti szervnél
 
@@ -2850,6 +2846,10 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | 23. A sajátos elszámolások összevezetése a pénzügyi számvitelben | T3673 | – | K3653 |
 
+| 24. A megszűnőnél kimutatott aktív időbeli elhatárolások könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T37 | – | K495 |
+
+| 25. A megszűnőnél kimutatott passzív időbeli elhatárolások könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K44 |
+
 C) Összeolvadás, illetve különválás esetén a jogutód szervnél
 
 | 1. A nemzeti vagyonba tartozó immateriális javak, tárgyi eszközök megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T11/121-141 | – | K491 |
@@ -2917,6 +2917,10 @@ C) Összeolvadás, illetve különválás esetén a jogutód szervnél
 | b) Teljesítéseként | T3653 | – | K3511 |
 
 | 22. A sajátos elszámolások összevezetése a pénzügyi számvitelben | T3673 | – | K3653 |
+
+| 23. A megszűnőnél kimutatott aktív időbeli elhatárolások könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T37 | – | K491 |
+
+| 24. A megszűnőnél kimutatott passzív időbeli elhatárolások könyv szerinti értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T491 | – | K44 |
 
 D) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén az Áht. 33. § (1) bekezdése szerint az év elejére visszamenőlegesen végrehajtott címrendi módosítás elszámolása a korábbi fejezetet irányító szervnél
 
@@ -3052,8 +3056,8 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | c) A követelés nyilvántartási számláinak nyitása | T004 | – | K09(2) |
 
-| 2. A fejezeti kezelésű előirányzat, központi kezelésű előirányzat könyvviteli számlái nyitó adatainak átvétele: e fejezet D) cím 1–5., 7., 9–16., 18–20., 22–24. és 26. pontjában szereplő tételek fordítottjaként |
+| 2. A fejezeti kezelésű előirányzat, központi kezelésű előirányzat könyvviteli számlái nyitó adatainak átvétele: e fejezet D) cím 1–5., 7., 9–20. és 22–26. pontjában szereplő tételek fordítottjaként |
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja szerint módosított szöveg.
