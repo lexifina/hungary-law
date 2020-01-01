@@ -4,13 +4,13 @@
 
 ## II. Fejezet
 
-## AZ ÁLTALÁNOS ISKOLAI, A KÖZÉPISKOLAI ÉS A FELSŐFOKÚ VÉGZETTSÉGI SZINT ELISMERÉSE
+## AZ ALAPFOKÚ, A KÖZÉPFOKÚ ÉS A FELSŐFOKÚ VÉGZETTSÉGI SZINT ELISMERÉSE
 
 ## Az általános iskolai végzettségi szint elismerése
 
 12. § (1) Általános iskolai bizonyítványként az olyan külföldi bizonyítvány ismerhető el,
 
-a) amely közoktatási intézményben legalább nyolc évfolyam elvégzését tanúsítja, és
+a) amely külföldi oktatási intézményben legalább nyolc évfolyam elvégzését tanúsítja, és
 
 b) amelynek alapján, figyelembe véve a külföldi oktatási intézmény jogállását, a bizonyítvány jogi hatályát és a tanulmányi követelményeket, megállapítható, hogy a hazai általános iskolai végzettségi szinttel azonos végzettségi szintet tanúsít.
 

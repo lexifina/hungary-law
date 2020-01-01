@@ -2,7 +2,7 @@
 
 28. § E rész alkalmazásában a következő fogalmak esetén az alábbi meghatározásokat kell alkalmazni.
 
-(1) Tagállamnak minősül Magyarország kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
+(1) Tagállamnak minősül Magyarország kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések, illetve szakképzettségek elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
 
 (2) A tagállam állampolgárával azonos megítélés alá esik:
 

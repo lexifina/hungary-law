@@ -1,18 +1,18 @@
 ## A középiskolai végzettségi szint elismerése
 
-13. § (1) A magyar középiskolai érettségi bizonyítvánnyal egyenértékű az a külföldi középiskola elvégzését tanúsító és az adott országban felsőoktatási intézménybe történő jelentkezésre jogosító bizonyítvány, amelyet az Európai Gazdasági Térséghez tartozó államban vagy olyan államban állítottak ki, amely a Lisszaboni Egyezmény rendelkezéseit magára nézve kötelezőnek ismerte el.
+13. § (1) A magyar érettségi bizonyítvánnyal egyenértékű az a külföldi oktatási intézmény elvégzését tanúsító és az adott országban felsőoktatási intézménybe történő jelentkezésre jogosító bizonyítvány, amelyet az Európai Gazdasági Térséghez tartozó államban vagy olyan államban állítottak ki, amely a Lisszaboni Egyezmény rendelkezéseit magára nézve kötelezőnek ismerte el.
 
-(2) Ha a középiskolai érettségi bizonyítvány nem minősül az (1) bekezdésben meghatározottak alapján a magyar középiskolai érettségivel egyenértékűnek, középiskolai érettségi bizonyítványként az olyan külföldi bizonyítvány ismerhető el, amely – figyelembe véve a külföldi oktatási intézmény jogállását, a bizonyítvány jogi hatályát és a tanulmányi követelményeket – a hazai középiskolai érettségi bizonyítvánnyal azonos végzettségi szintet tanúsít, továbbá
+(2) Ha az érettségi bizonyítvány nem minősül az (1) bekezdésben meghatározottak alapján a magyar érettségi bizonyítvánnyal egyenértékűnek, érettségi bizonyítványként az olyan külföldi bizonyítvány ismerhető el, amely – figyelembe véve a külföldi oktatási intézmény jogállását, a bizonyítvány jogi hatályát és a tanulmányi követelményeket – a magyar érettségi bizonyítvánnyal azonos végzettségi szintet tanúsít, továbbá
 
 a) a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja,
 
-b) közoktatási intézményben legalább tizenkét évfolyam elvégzését tanúsítja, és
+b) külföldi oktatási intézményben legalább tizenkét évfolyam elvégzését tanúsítja, és
 
 c) tanúsítja, hogy a kérelmező tanulmányai befejezésekor legalább négy tantárgyból külön vizsgát tett.
 
 (3) Ha az elismerés továbbtanulási céllal történik, akkor középiskolai érettségi bizonyítványként a (2) bekezdés feltételeinek meg nem felelő olyan külföldi bizonyítvány is elismerhető, amely
 
-a) közoktatási intézményben legalább tizenkét évfolyam, vagy ha az adott külföldi államban a közoktatás tizenegy évfolyamból áll, akkor tizenegy évfolyam elvégzését tanúsítja,
+a) külföldi oktatási intézményben legalább tizenkét évfolyam, vagy ha az adott külföldi államban a közoktatás tizenegy évfolyamból áll, akkor tizenegy évfolyam elvégzését tanúsítja,
 
 b) a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja, és
 

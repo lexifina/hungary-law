@@ -2,7 +2,7 @@
 
 ## A KÉPZÉS SIKERES ELVÉGZÉSÉT TANÚSÍTÓ EGYES OKIRATOK FELTÉTEL NÉLKÜLI ELISMERÉSE
 
-37. § (1) Az eljáró hatóság e fejezet rendelkezései alapján a külön jogszabályokban meghatározott általános orvosi, szakorvosi, ápolói, szülésznői, fogorvosi, fogszakorvosi, állatorvosi, gyógyszerészi, valamint okleveles építészmérnöki képzés elvégzését tanúsító, a minimális közös képzési követelményekkel összhangban kiállított okiratokat az adott szakma gyakorlásának megkezdése szempontjából a megfelelő hazai szakképzettséggel egyenértékűként feltétel nélkül ismeri el.
+37. § (1) Az eljáró hatóság e fejezet rendelkezései alapján a külön jogszabályokban meghatározott általános orvosi, szakorvosi, ápolói, szülésznői, fogorvosi, fogszakorvosi, állatorvosi, gyógyszerészi, valamint okleveles építészmérnöki képzés elvégzését tanúsító, a minimális közös képzési követelményekkel összhangban kiállított okiratokat az adott szakma gyakorlásának megkezdése szempontjából a megfelelő hazai szakképesítéssel, illetve szakképzettséggel egyenértékűként feltétel nélkül ismeri el.
 
 (2) Ha külön jogszabály előírja, hogy
 

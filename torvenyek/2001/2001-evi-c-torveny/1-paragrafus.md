@@ -12,7 +12,7 @@
 
 (2) E törvényt kell alkalmazni valamely külföldi állam joga szerint kiállított bizonyítványnak és oklevélnek a Magyarországon megszerezhető bizonyítvánnyal és oklevéllel egyenértékűként történő elismerésére és honosítására, valamint a résztanulmányok beszámítására. E törvényt kell alkalmazni akkor is, ha az elismerés a szakmai gyakorlaton alapul.
 
-(3) Bizonyítvány, illetve oklevél az alap-, közép- vagy felsőfokú végzettséget, alap-, közép- vagy felsőfokú szakképesítést, felsőfokú szakképzettséget, illetve tudományos fokozatot tanúsító okirat. Bizonyítványnak, illetve oklevélnek tekintendő az ezekkel azonos hatályú okirat is. Nem minősül külföldi bizonyítványnak, oklevélnek, illetve szakmai képesítésnek a hazai bizonyítvány, oklevél, illetve szakmai képesítés külföldi elismeréséről szóló, külföldi eljáró hatóság által hozott döntés.
+(3) Bizonyítvány, illetve oklevél az alap-, közép- vagy felsőfokú végzettséget és azokhoz kapcsolódó szakképesítést, szakképzettséget, illetve tudományos fokozatot tanúsító okirat. Bizonyítványnak, illetve oklevélnek tekintendő az ezekkel azonos hatályú okirat is. Nem minősül külföldi bizonyítványnak, oklevélnek, illetve szakmai képesítésnek a hazai bizonyítvány, oklevél, illetve szakmai képesítés külföldi elismeréséről szóló, külföldi eljáró hatóság által hozott döntés.
 
 (4) E törvényt kell alkalmazni a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállítása során is.
 

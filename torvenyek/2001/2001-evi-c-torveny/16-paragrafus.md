@@ -1,10 +1,10 @@
 ## IV. Fejezet
 
-## A SZAKKÉPESÍTÉS ELISMERÉSE
+## AZ ALAPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS ÉS A KÖZÉPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS, ILLETVE SZAKKÉPZETTSÉG ELISMERÉSE
 
-## AZ ALAP-, KÖZÉP- ÉS FELSŐFOKÚ SZAKKÉPESÍTÉS ELISMERÉSE, A HATÓSÁGI BIZONYÍTVÁNY
+## AZ ALAP- ÉS KÖZÉPFOKÚ SZAKKÉPESÍTÉS, ILLETVE A KÖZÉPFOKÚ SZAKKÉPZETTSÉG ELISMERÉSE, A HATÓSÁGI BIZONYÍTVÁNY
 
-16. § (1) Magyarországon megszerezhető, alap-, közép- vagy felsőfokú szakképesítést tanúsító bizonyítványként olyan külföldi bizonyítvány ismerhető el, amely, figyelembe véve a kiállító külföldi intézmény jogállását, a bizonyítvány jogi hatályát, továbbá összehasonlítva a képzés időtartamát, tartalmát, valamint a szakmai és vizsgakövetelményeket, olyan szakképesítést tanúsít, amely Magyarországon megszerezhető vagy korábban megszerezhető volt.
+16. § (1) Magyarországon megszerezhető, alap- és középfokú szakképesítést tanúsító szakmai bizonyítványként, illetve a középfokú szakképzettséget tanúsító oklevélként tanúsító bizonyítványként olyan külföldi bizonyítvány ismerhető el, amely, figyelembe véve a kiállító külföldi intézmény jogállását, a bizonyítvány jogi hatályát, továbbá összehasonlítva a képzés időtartamát, tartalmát, valamint a képzési és kimeneti követelményeket, olyan szakképesítést, illetve szakképzettséget tanúsít, amely Magyarországon megszerezhető vagy korábban megszerezhető volt.
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a bizonyítvány elismerését szakmai vizsga letételéhez kötheti.
 
