@@ -1,3 +1,3 @@
-## 19. §[^79]
+## 19. §[^80]
 
-[^79]: A 19. §-t a 191/2019. (VII. 30.) Korm. rendelet 21. § 11. pontja hatályon kívül helyezte.
+[^80]: A 19. §-t a 191/2019. (VII. 30.) Korm. rendelet 21. § 11. pontja hatályon kívül helyezte.
