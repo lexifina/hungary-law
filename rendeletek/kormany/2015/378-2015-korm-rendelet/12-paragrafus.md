@@ -1,12 +1,12 @@
-12. § (1) Az ideiglenes begyűjtési ellátás díjának a Tv. 3/F. § (6) bekezdésének való megfelelését, az ideiglenes begyűjtési ellátás díjából nem fedezhető többletköltségek indokoltságát és a többletköltségek elszámolását a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
+12. §[^8] (1) A közszolgáltatási díjnak a Tv. 3/F. § (6) bekezdésének való megfelelését, valamint a Tv. 3/F. § (7) bekezdése szerinti, a közszolgáltatási díjból meg nem térülő indokolt költségek (a továbbiakban: többletköltségek) összegét, a közérdekű szolgáltató többletköltség megtérítése érdekében benyújtott igényét és módosított igényét, valamint az igény alapján folyósított támogatási előleg felhasználásáról készült elszámolást a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
 
-(2) A közérdekű szolgáltató ideiglenes begyűjtési ellátásért járó közszolgáltatási díjból nem fedezhető, indokolt többletköltségeit a központi költségvetés az ellátásért felelős önkormányzat útján téríti meg.
+(2) A közérdekű szolgáltatónak az ideiglenes begyűjtési ellátás során keletkező indokolt többletköltségeit a központi költségvetés az ellátásért felelős önkormányzat útján téríti meg.
 
 (3) Az ideiglenes begyűjtési ellátás indokolt többletköltségeinek megállapítása során
 
 a) a begyűjtés, elszállítás és kezelés költsége,
 
-b) a begyűjtéshez szükséges fogyó eszközök, valamint a biztonságos munkavégzéshez szükséges eszközök költsége,
+b) a begyűjtéshez szükséges fogyóeszközök, valamint a biztonságos munkavégzéshez szükséges eszközök költsége,
 
 c) az a) és b) pont szerinti tevékenységhez közvetlenül kapcsolódó bérköltség és munkaadót terhelő járulék költsége, továbbá
 
@@ -14,20 +14,34 @@ d) a haváriaesemény kapcsán felmerülő költség
 
 ## vehető figyelembe.
 
-(4)[^3] A kijelölt közérdekű szolgáltató az ideiglenes begyűjtési ellátás teljes idejére számított indokolt többletköltségei iránti igényét az ellátásért felelős önkormányzathoz nyújtja be a közérdekű szolgáltató kijelöléséről szóló döntés véglegessé válásától számított tíz napon belül.
+(4) A közérdekű szolgáltató az ideiglenes begyűjtési ellátás teljes idejére számított indokolt többletköltségei megtérítése iránti igényét az ellátásért felelős önkormányzathoz nyújtja be
 
-(5) Az ellátásért felelős önkormányzat a (4) bekezdésben meghatározott igényt, annak ellenőrzését követően, véleményével ellátva 5 napon belül továbbítja a MEKH részére.
+a) a kijelölésének megszűnése vagy az új közszolgáltatási szerződés alapján történő közszolgáltatás megkezdése időpontjáig
 
-(6) A MEKH meghatározza és honlapján közzéteszi a (4) bekezdés szerinti igény elbírálásához és a támogatással való elszámoláshoz szükséges, kötelezően benyújtandó adatokat. A MEKH a benyújtott adatok valóságtartalmát ellenőrizheti.
+aa) a tárgyévet megelőző időszakra a tényadatok alapján,
 
-(7) A MEKH a (4) bekezdés szerinti igény és (5) bekezdés szerinti vélemény beérkezését követő 20 napon belül
+ab) az aa) alponton kívüli időszakra a tervadatok alapján,
 
-a) ellenőrzi annak indokoltságát és a (3) bekezdésnek való megfelelőségét,
+b) a kijelölés megszűnését követően a tényadatok alapján.
 
-b) megállapítja az ideiglenes begyűjtési ellátásra történő kijelölés teljes idejére, évenkénti bontásban az indokolt többletköltség összegét és
+(5) Az ellátásért felelős önkormányzat a (4) bekezdésben meghatározott igényt, annak ellenőrzését követően, véleményével ellátva 5 napon belül továbbítja az MEKH részére.
 
-c) az indokolt többletköltségnek a kijelölés teljes idejére vonatkozó, évenkénti bontásban megállapított összegéről tájékoztatja a belügyminisztert.
+(6) Az MEKH meghatározza és honlapján közzéteszi a (4) bekezdés szerinti igény elbírálásához és a támogatással való elszámoláshoz szükséges, kötelezően benyújtandó adatokat. Az MEKH a benyújtott adatok valóságtartalmát ellenőrizheti.
 
-(8) A MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
+(7) Az MEKH a (4) bekezdés szerinti igény és az (5) bekezdés szerinti vélemény beérkezését követő 20 napon belül
 
-[^3]: A 12. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 553. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+a) ellenőrzi az igény indokoltságát és a (3) bekezdésnek való megfelelőségét,
+
+b) megállapítja az ideiglenes begyűjtési ellátásra történő kijelölés teljes idejére, évenkénti bontásban az indokolt többletköltség összegét, és
+
+c) az indokolt többletköltségnek a kijelölés teljes idejére vonatkozó, évenkénti bontásban
+
+ca) a (4) bekezdés a) pont aa) alpontja és b) pontja szerinti időszakra a közszolgáltató igénylésében szereplő tényadatok alapján,
+
+cb) a (4) bekezdés a) pont ab) alpontja szerinti időszakra a közérdekű szolgáltató tervadatai alapján
+
+## megállapított összegéről tájékoztatja a belügyminisztert.
+
+(8) Az MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
+
+[^8]: A 12. § a 280/2019. (XI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
