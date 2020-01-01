@@ -1,10 +1,10 @@
 ## 4. A támogatás igénylése
 
-4. § (1)[^49] A helyi önkormányzat
+4. § (1)[^48] A helyi önkormányzat
 
 a) a 2/A. § (1) bekezdés a) és b) pontjában meghatározott esetben az 5. melléklet,
 
-b) a 2/A. § (1) bekezdés c) pontjában meghatározott esetben a 9. melléklet C) része
+b)[^49] a 2/A. § (1) bekezdés c) pontjában meghatározott esetben a 9. melléklet C) része
 
 ## szerinti adatlapon rögzített és lezárt pályázatát – a (3) bekezdés szerinti kötelező mellékletek csatolásával – a 3. § (3) bekezdése szerinti bejelentést követő 40 napon belül nyújtja be a kincstárnak, valamint a helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatalnak. A benyújtási határidő elmulasztása jogvesztő.
 
@@ -30,7 +30,7 @@ ag) az elvégzett munkatételeket tartalmazó számlaösszesítő,
 
 ah) a település, településrész térképe helyrajzi számmal és a vis maior eseménnyel érintett helyszín feltüntetésével,
 
-ai)[^58] katasztrófavédelmi szúnyoggyérítés esetében a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított jóváhagyó dokumentum a szúnyoggyérítés engedélyezéséről,
+ai)[^58] katasztrófavédelmi szúnyoggyérítés esetében a Nemzeti Népegészségügyi Központ által kiállított jóváhagyó dokumentum a szúnyoggyérítés engedélyezéséről,
 
 b)[^59] a károsodás tárgyához igazodó, a Magyar Mérnöki Kamara, a Magyar Építész Kamara szakértői névjegyzékében szereplő műszaki szakértő, vagy az igazságügyi szakértői névjegyzékben aktív tagként szerepelő műszaki szakértő által készített nyilatkozat, amely tartalmazza
 
@@ -96,7 +96,7 @@ nb)[^79] a helyi önkormányzat nyilatkozata, amelyben igazolja, hogy a műszaki
 
 o)[^80]
 
-oa)[^81] a helyi önkormányzat székhelye szerint területileg illetékes népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított 9. melléklet B) része szerinti nyilatkozat és
+oa)[^81] a Nemzeti Népegészségügyi Központ által kiállított 9. melléklet B) része szerinti nyilatkozat és
 
 ob) a helyi önkormányzat nyilatkozata arról, hogy a szúnyoggyérítés megkezdését megelőzően bejelentett és 2. melléklettel igazolt ár- és belvízi védekezésre irányuló pályázattal rendelkezik.
 
@@ -112,7 +112,8 @@ b)[^86] a temető tulajdonosával kötött megállapodást, melyben a helyi önk
 
 c) a temető használatának rendjéről szóló önkormányzati rendelet másolatát.
 
-[^49]: A 4. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^48]: A 4. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^49]: [A 4. § (1) bekezdés b) pontjának a 360/2019. (XII. 30.) Korm. rendelet 85. § (5) bekezdés a) pontjával elrendelt módosítása, amely szerint a „ , valamint a helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatalnak” szövegrész hatályát veszti, nem vezethető át.]
 [^50]: A 4. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 52. § (10) bekezdés b) pontjával elrendelt módosítás, amely szerint az „és papír alapon is”, valamint a „papír alapon két másolati példányban,” szövegrész hatályát veszti, nem vezethető át.]
 [^51]: A 4. § (3) bekezdés nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
 [^52]: A 4. § (3) bekezdés a) pont nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 52. § (3) bekezdésével megállapított szöveg.
@@ -121,7 +122,7 @@ c) a temető használatának rendjéről szóló önkormányzati rendelet másol
 [^55]: A 4. § (3) bekezdés a) pont ac) alpontja a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés c) pont cb) alpontja szerint módosított szöveg.
 [^56]: A 4. § (3) bekezdés a) pont ad) alpontja a 129/2014. (IV. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés c) pont cb) alpontja szerint módosított szöveg.
 [^57]: A 4. § (3) bekezdés a) pont ae) alpontja a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés c) pont cb) alpontja szerint módosított szöveg.
-[^58]: A 4. § (3) bekezdés a) pont ai) alpontja a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^58]: A 4. § (3) bekezdés a) pont ai) alpontja a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^59]: A 4. § (3) bekezdés b) pont nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 21. pontja, a 221/2014. (IX. 4.) Korm. rendelet 538. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^60]: A 4. § (3) bekezdés b) pont bb) alpontja a 383/2015. (XII. 8.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
 [^61]: A 4. § (3) bekezdés b) pont bc) alpontja a 383/2015. (XII. 8.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
@@ -144,7 +145,7 @@ c) a temető használatának rendjéről szóló önkormányzati rendelet másol
 [^78]: A 4. § (3) bekezdés n) pont na) alpontja a 221/2014. (IX. 4.) Korm. rendelet 538. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^79]: A 4. § (3) bekezdés n) pont nb) alpontja a 383/2015. (XII. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^80]: A 4. § (3) bekezdés o) pontját a 92/2013. (III. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be, a 383/2015. (XII. 8.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
-[^81]: A 4. § (3) bekezdés o) pont oa) alpontja a 129/2014. (IV. 10.) Korm. rendelet 12. § 12. pontja, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^81]: A 4. § (3) bekezdés o) pont oa) alpontja a 129/2014. (IV. 10.) Korm. rendelet 12. § 12. pontja, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^82]: A 4. § (4) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^83]: A 4. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 536. §-ával megállapított szöveg.
 [^84]: A 4. § (6) bekezdését a 210/2011. (X. 12.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 25. és 29. pontja szerint módosított szöveg.

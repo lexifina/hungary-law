@@ -1,6 +1,6 @@
 ## A) ELŐZETES HELYSZÍNI VIZSGÁLAT JEGYZŐKÖNYVE
 
-## Igénylésazonosító
+## Igénylésazonosító:
 
 | Az ellenőrzés tárgya: |  |
 
@@ -10,9 +10,9 @@
 
 | Az ellenőrzéshez felhasznált iratok: |  |
 
-## Jelen vannak
+## Jelen vannak:
 
-| Önkormányzat részéről: |  | A helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatal részéről: |  |
+| Önkormányzat részéről: |  | A kincstár részéről: |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -64,7 +64,7 @@
 
 ## Vis maior esemény adatai
 
-| Vis maior esemény leírása: |  |  |
+## Vis maior esemény leírása:
 
 | Sorszám | Vis maior esemény megnevezése | Település | Utca | Házszám | Hrsz. | Érintett alapterület | Mérték- egység (m2, m3, fm) | Megállapítások (károsodás mértéke, tulajdonjog- viszony) |
 
@@ -76,17 +76,17 @@
 
 | 4. |  |  |  |  |  |  |  |  |
 
-| Védekezési fokozat mértéke: |  |
+|  | Védekezési fokozat mértéke: |  |
 
-| Védekezési fokozat elrendelésének időpontja: |  |
+|  | Védekezési fokozat elrendelésének időpontja: |  |
 
-| Védekezési fokozat megszüntetésének időpontja: |  |
+|  | Védekezési fokozat megszüntetésének időpontja: |  |
 
-| Védekezés kezdési ideje: |  |
+|  | Védekezés kezdési ideje: |  |
 
-| Védekezés befejezési ideje: |  |
+|  | Védekezés befejezési ideje: |  |
 
-## Megállapítások
+## Megállapítások:
 
 | A kár önkormányzati tulajdonban keletkezett (igen/nem): |  |
 

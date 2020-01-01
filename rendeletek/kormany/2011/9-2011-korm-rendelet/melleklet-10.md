@@ -46,13 +46,13 @@
 
 ## B) NYILATKOZAT
 
-## a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének a katasztrófavédelmi szúnyoggyérítéshez kapcsolódó megállapításáról
+## a Nemzeti Népegészségügyi Központ a katasztrófavédelmi szúnyoggyérítéshez kapcsolódó megállapításáról
 
 ## Igénylésazonosító:
 
 | 1 | Önkormányzat neve: |  |
 
-| 2 | A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének tájékoztatása a 3. § (6) bekezdése alapján a bejelentés valódiságáról, a katasztrófavédelmi szúnyoggyérítés szükségességéről: |
+| 2 | A Nemzeti Népegészségügyi Központ tájékoztatása a 3. § (6) bekezdése alapján a bejelentés valódiságáról, a katasztrófavédelmi szúnyoggyérítés szükségességéről: |
 
 | a) | a szúnyogártalom óránkénti csípésszámban kifejezett mértéke: |  |
 
@@ -70,7 +70,7 @@
 
 | ....................................................................... |  |
 
-| A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részéről: |  |
+| A Nemzeti Népegészségügyi Központ részéről: |  |
 
 | Név: |  |
 
@@ -112,7 +112,7 @@
 
 | 5. Számlaösszesítő a katasztrófavédelmi szúnyoggyérítésről |
 
-| Sor- szám | Munka- folyamat meg- nevezése | Számla kiállítója | Számla sorszáma/ egyéb bizony- latok | Számla/ egyéb bizony- latok kelte | Teljesítés dátuma | Nettó összeg (Ft) | Le nem vonható áfa (Ft) | Bruttó összeg (Ft) | A helyi önkormányzat székhelye szerinti illetékes fővárosi és megyei kormányhivatal észrevétele |
+| Sor- szám | Munka- folyamat meg- nevezése | Számla kiállítója | Számla sorszáma/ egyéb bizony- latok | Számla/ egyéb bizony- latok kelte | Teljesítés dátuma | Nettó összeg (Ft) | Le nem vonható áfa (Ft) | Bruttó összeg (Ft) | A kincstár észrevétele |
 
 | 1. |  |  |  |  |  |  |  |  |  |
 
@@ -124,9 +124,9 @@
 
 | 5. |  |  |  |  |  |  |  |  |  |
 
-| Összesen |
+| Összesen |  |
 
-| 6. | A katasztrófavédelmi szúnyoggyérítéshez igényelt támogatás |  |
+| 6. | A katasztrófavédelmi szúnyoggyérítéshez igényelt támogatás |  |  |
 
 | Büntetőjogi felelősségem tudatában kijelentem, hogy a pályázatban foglaltak a valóságnak megfelelnek, teljeskörűek és hitelesek. Az adatokban bekövetkezett, a katasztrófavédelmi szúnyoggyérítés megvalósítását akadályozó változásokról a minisztert haladéktalanul értesítem. Tudomásul veszem, hogy a pályázat elfogadása esetén a támogatás tényét a miniszter nyilvánosságra hozza. |
 
@@ -134,9 +134,9 @@
 
 | P. H. |
 
-| ......................................................... | ..................................................................... |
+| ......................................................... | ..................................................................... |  |
 
-| polgármester | jegyző |
+| polgármester | jegyző |  |
 
 ## D) DÖNTÉSI ADATLAP
 
@@ -192,7 +192,7 @@
 
 ## Katasztrófavédelmi szúnyoggyérítéshez elszámolt költségek
 
-| Sor- szám | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezé- se | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Le nem vonható áfa | Bruttó összeg |
+| Sor- szám | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezése | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Le nem vonható áfa | Bruttó összeg |
 
 | 1. |  |  |  |  |  |  |  |  |
 
@@ -220,9 +220,9 @@
 
 | P. H. |
 
-| ......................................................... | ..................................................................... |
+| ......................................................... | ..................................................................... |  |
 
-| polgármester | jegyző |
+| polgármester | jegyző” |  |
 
 10. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^163]
 

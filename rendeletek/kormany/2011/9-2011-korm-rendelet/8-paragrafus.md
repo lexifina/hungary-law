@@ -40,7 +40,7 @@ bf)[^132] – ha az igénylés során nem csatolta vagy az igénylés benyújtá
 
 c)[^133] a 2/A. § (1) bekezdés c) pontja szerinti támogatás a 9. melléklet E) része szerinti adatlap kitöltésével és az a) pont aa), ad), af), ag) alpontja szerinti dokumentum
 
-Támogatott a kincstár és a helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatal részére elektronikus úton számol el.
+Támogatott a kincstár részére elektronikus úton számol el.
 
 (1a)[^134] Az elszámolást
 
@@ -60,7 +60,7 @@ b) a 2/A. § (1) bekezdés c) pontja szerinti támogatás esetében a támogató
 
 [^124]: Az 5. alcím címe a 129/2014. (IV. 10.) Korm. rendelet 12. § 22. pontja, a 397/2014. (XII. 31.) Korm. rendelet 67. § 5. pontja szerint módosított szöveg.
 [^125]: A 8. § a 92/2013. (III. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^126]: A 8. § (1) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 10. §-ával megállapított, záró szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 52. § (7) bekezdésével megállapított szöveg.
+[^126]: A 8. § (1) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 10. §-ával megállapított, záró szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 52. § (7) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 85. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^127]: A 8. § (1) bekezdés a) pont nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 52. § (4) bekezdésével megállapított szöveg.
 [^128]: A 8. § (1) bekezdés a) pont ag) alpontja a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés d) pont da) alpontja szerint módosított szöveg.
 [^129]: A 8. § (1) bekezdés a) pont ah) alpontja a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés d) pont db) alpontja szerint módosított szöveg.

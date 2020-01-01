@@ -6,7 +6,7 @@ a) az előre nem látható természeti vagy más eredetű erők által fenyeget�
 
 b)[^17] – a biztosításból vagy egyéb módon megtérülő károk figyelembevételével – a helyi önkormányzat tulajdonában lévő kötelező önkormányzati feladatok ellátását szolgáló vagy helyi önkormányzat által törvény alapján kötelezően működtetett épületet, építményt, partfalat vagy a helyi önkormányzat vagyonkezelésében és az állam tulajdonában lévő kötelező önkormányzati feladatok ellátását szolgáló épületet sújtó, előre nem látható természeti vagy más eredetű erők által okozott károk helyreállításának részbeni támogatására,
 
-c)[^18] – ha a szúnyogok által okozott ártalom óránkénti mértéke a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak nyilatkozata szerint csípésszámban kifejezve személyenként meghaladja az 50 csípést – katasztrófavédelmi szúnyoggyérítés többletkiadásainak részbeni támogatására
+c)[^18] – ha a szúnyogok által okozott ártalom óránkénti mértéke a Nemzeti Népegészségügyi Központnak nyilatkozata szerint csípésszámban kifejezve személyenként meghaladja az 50 csípést – katasztrófavédelmi szúnyoggyérítés többletkiadásainak részbeni támogatására
 
 ## [az a)–c) pont a továbbiakban együtt: vis maior esemény].
 
@@ -30,6 +30,6 @@ d) rendkívüli téli időjárás esetén a védekezési költségekhez kizáró
 
 [^16]: A 2/A. alcímet (2/A. §) a 129/2014. (IV. 10.) Korm. rendelet 3. §-a iktatta be.
 [^17]: A 2/A. § (1) bekezdés b) pontja a 383/2015. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: A 2/A. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 2/A. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^19]: A 2/A. § (2) bekezdés c) pontja a 383/2015. (XII. 8.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
 [^20]: A 2/A. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 535. §-ával megállapított szöveg.

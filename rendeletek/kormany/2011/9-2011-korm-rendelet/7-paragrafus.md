@@ -1,4 +1,4 @@
-7. § (1)[^114] A pályázatról a miniszter a pályázat beérkezésétől – tartalmi hiányosság esetén a 4. § (3) bekezdés m) pontja szerint megküldött dokumentumtól – számított 90 napon belül dönt, a fővárosi és megyei kormányhivatal 6. § szerinti véleményének figyelembevételével, valamint indokolt esetben a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szerv vezetője szakmai javaslatának kikérésével. A támogatott tevékenységre vonatkozóan a miniszter az ebr42 rendszerben elektronikus támogatói okiratot ad ki. A 2/A. § (1) bekezdés a) és b) pontja szerinti esetben a 6. melléklet szerinti döntési adatlap, a katasztrófavédelmi szúnyoggyérítés esetében a 9. melléklet D) része szerinti döntési adatlap a támogatói okirat mellékletét képezi.
+7. § (1)[^114] A pályázatról a miniszter a pályázat beérkezésétől – tartalmi hiányosság esetén a 4. § (3) bekezdés m) pontja szerint megküldött dokumentumtól – számított 90 napon belül dönt, indokolt esetben a káreseményhez kapcsolódó közfeladatokért felelős fejezetet irányító szerv vezetője szakmai javaslatának kikérésével. A támogatott tevékenységre vonatkozóan a miniszter az ebr42 rendszerben elektronikus támogatói okiratot ad ki. A 2/A. § (1) bekezdés a) és b) pontja szerinti esetben a 6. melléklet szerinti döntési adatlap, a katasztrófavédelmi szúnyoggyérítés esetében a 9. melléklet D) része szerinti döntési adatlap a támogatói okirat mellékletét képezi.
 
 (2) A támogatói okiratban megfogalmazott miniszteri döntés elkülönítetten tartalmazza
 
@@ -26,7 +26,7 @@ d)[^122] a támogatás lehívására a miniszteri döntést követő 12 hónapon
 
 (7) A támogatásról hozott miniszteri döntés ellen fellebbezés benyújtására nincs lehetőség.
 
-[^114]: A 7. § (1) bekezdése a 92/2013. (III. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 18. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § m) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^114]: A 7. § (1) bekezdése a 92/2013. (III. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 18. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § m) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (2) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^115]: A 7. § (2) bekezdés a) pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 41. pontja szerint módosított szöveg.
 [^116]: [A 7. § (2) bekezdés b) pontjának a 92/2013. (III. 28.) Korm. rendelet 11. § 15. pontjával elrendelt módosítása, amely szerint a „Kincstár” szövegrész helyébe a „kincstár” szöveg lép, nem vezethető át.]
 [^117]: A 7. § (3) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

@@ -60,4 +60,4 @@
 
 8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^161]
 
-[^161]: A 8. melléklet a 129/2014. (IV. 10.) Korm. rendelet 10. § a) pontjával megállapított, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés c) pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § f), r), t), u), v), w) és x) pontja, és a második 15. § c) pontja, a 227/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdés c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^161]: A 8. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
