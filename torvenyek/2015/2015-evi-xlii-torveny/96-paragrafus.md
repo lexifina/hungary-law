@@ -1,4 +1,4 @@
-## 57. Kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
+## 57. Kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
 
 96. § A hivatásos állomány tagja, valamint
 

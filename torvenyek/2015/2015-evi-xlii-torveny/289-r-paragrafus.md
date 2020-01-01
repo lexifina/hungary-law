@@ -20,6 +20,8 @@
 
 (10) A rendvédelmi alkalmazottnak illetmény nélküli szabadság engedélyezhető a nemzetközi közigazgatási szakértői tevékenység időtartamára.
 
+(10a) A rendvédelmi alkalmazott a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/G. §-a szerinti gyermekgondozási díj időtartamára illetmény nélküli szabadságra jogosult.
+
 (11) A rendvédelmi alkalmazott az illetmény nélküli szabadság igénybevételét legalább tizenöt nappal korábban köteles írásban bejelenteni.
 
 (12) Az illetmény nélküli szabadság a rendvédelmi alkalmazott által megjelölt időpontban, de legkorábban a szabadság megszüntetésére irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg.

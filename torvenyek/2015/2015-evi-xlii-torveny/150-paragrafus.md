@@ -15,3 +15,5 @@ b) a házastárs tartós külföldi kiküldetése esetén, annak tartamára.
 (3) A hivatásos állomány tagjának kérelmére, méltányolható egyéni indokok alapján, így különösen nemzetközi szervezetek által kiírt pályázatok elnyerése esetén, – ha az a szolgálat érdekével nem esik egybe – a munkavégzés idejére az állományilletékes parancsnok mérlegelési jogkörében eljárva illetmény nélküli szabadságot engedélyezhet.
 
 (4) A hivatásos állomány tagjának illetmény nélküli szabadság engedélyezhető a nemzetközi közigazgatási szakértői tevékenység időtartamára.
+
+(5) A hivatásos állomány tagja a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/G. §-a szerinti gyermekgondozási díj időtartamára illetmény nélküli szabadságra jogosult.

@@ -6,6 +6,6 @@
 
 (4) A (3) bekezdés szerinti adat megismerésére irányuló igény – a (3) bekezdésben meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a polgári nemzetbiztonsági szolgálat, illetve a rendőrség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a nemzetbiztonsági érdekeket nem veszélyezteti.
 
-(5) A 275. §-ban foglalt személyeken és szerveken kívül – törvény eltérő rendelkezése hiányában – más részére tájékoztatást, igazolást, jellemzést, javaslatot a személyügyi nyilvántartásokban őrzött iratok alapján csak az érintett hozzájárulásával lehet adni.
+(5) A 275. §-ban és a 275/B. §-ban foglalt személyeken és szerveken kívül – törvény eltérő rendelkezése hiányában – más részére tájékoztatást, igazolást, jellemzést, javaslatot a személyügyi nyilvántartásokban őrzött iratok alapján csak az érintett hozzájárulásával lehet adni.
 
 (6) A személyi anyaggyűjtő a szolgálati hely tervezett vagy kérelmezett változtatását megelőzően az új szervezeti egység vezetőjének betekintésre átadható. Áthelyezést vagy vezénylést megelőzően az új munkáltatói szerv vezetőjének csak az érintett hozzájárulásával adható át.

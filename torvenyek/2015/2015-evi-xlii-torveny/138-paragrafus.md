@@ -24,12 +24,12 @@ hatályos.
 
 (6) A kérelmet az (1) bekezdés szerinti szülési szabadság, illetve az illetmény nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatói jogkört gyakorló elöljárónál benyújtatni. A kérelemben a hivatásos állomány tagja a munkáltatói jogkört gyakorló elöljárót köteles tájékoztatni
 
-a) az illetmény nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve, a hivatásos állomány három vagy több gyermeket nevelő tagja esetében ötödik életéve betöltésének időpontjáról, továbbá
+a) az illetmény nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, a hivatásos állomány három vagy több gyermeket nevelő tagja esetében hatodik életéve betöltésének időpontjáról, továbbá
 
 b) ha egyenlőtlen szolgálatteljesítési időbeosztásban kíván dolgozni, a szolgálatteljesítési idő beosztására vonatkozó javaslatáról.
 
 (7) A (4) bekezdés szerinti időponttól az illetmény, valamint a szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha az arra való jogosultság a szolgálatteljesítési idő mértékével összefügg. A hivatásos állomány rész-szolgálatteljesítési időben foglalkoztatott tagjára a 60. és 61. §, a 71. §, valamint a 139–141. § nem alkalmazható.
 
-(8) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a rendvédelmi szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek hároméves koráig, a hivatásos állomány három vagy több gyermeket nevelő tagja esetén a gyermek ötéves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 134. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
+(8) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a rendvédelmi szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek négyéves koráig, a hivatásos állomány három vagy több gyermeket nevelő tagja esetén a gyermek hatéves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 134. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
 
 (9) Vezetői beosztás betöltésére rész-szolgálatteljesítési idő nem engedélyezhető.

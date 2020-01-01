@@ -1,6 +1,6 @@
 ## 115/E. Az igazgatási jogviszony létesítése, a nemzetbiztonsági ellenőrzés
 
-287/L. § (1) A rendvédelmi alkalmazottra a VI. Fejezet rendelkezései közül a 34. § (2)–(3) bekezdését és a 41–43. §-t megfelelően alkalmazni kell.
+287/L. § (1) A rendvédelmi alkalmazottra a VI. Fejezet rendelkezései közül a 34. § (2) és (3) bekezdését, 35/A. §-át és a 41–43. §-t megfelelően alkalmazni kell.
 
 (2) A 34. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy próbaidő kikötésére akkor sem kerül sor, ha az igazgatási jogviszony létesítése hivatásos szolgálati viszonyból történik.
 

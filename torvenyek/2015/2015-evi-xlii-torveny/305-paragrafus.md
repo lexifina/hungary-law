@@ -18,7 +18,7 @@ e) az Alapszabályban meghatározott más okból.
 
 a) politikai párt tagja,
 
-b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető,
+b) állami vezető,
 
 c) olyan személy, aki más kamara tisztségviselője, továbbá
 

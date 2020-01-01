@@ -6,6 +6,8 @@
 
 2. alacsonyabb szolgálati beosztás: az a szolgálati beosztás, amely a betöltött szolgálati beosztásnál alacsonyabb besorolási osztályba vagy besorolási kategóriába tartozik, továbbá a vezetői beosztást betöltők esetében a nem vezetői beosztás vagy az alacsonyabb besorolású vezetői beosztás is;
 
+2a. állami vezető: a kormányzati igazgatásról szóló törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár;
+
 3. állományilletékes parancsnok: a rendvédelmi szerv általános munkáltatói jogkört gyakorló azon hivatásos állományba tartozó elöljárója vagy nem hivatásos állományba tartozó munkahelyi vezetője, aki a rendvédelmi szerv olyan szervezeti egységét vezeti, amely önálló állománytáblázattal rendelkezik; az állományilletékes parancsnok gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat a kötelezettségeket, amelyeket e törvény vagy a végrehajtására kiadott kormányrendelet nem határoz meg más parancsnok vagy vezető részére;
 
 4. állománytáblázat: a rendvédelmi szerv szervezeti egységénél rendszeresített szervezeti elemeket, a rendszeresített szolgálati beosztásokat, azok besorolását, az azokban rendszeresített rendfokozatokat, valamint az azok ellátásához szükséges képesítési, képzettségi, végzettségi és egyéb követelményeket meghatározó okmány; az állománytáblázat tartalmazhatja a rendvédelmi szerv által más foglalkoztatási jogviszonyban foglalkoztatott személyekkel betölthető munkakörökre vonatkozó adatokat is;
@@ -46,7 +48,7 @@
 
 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
 
-22. rendvédelmi oktatási intézmény: a nemzeti köznevelésről szóló 2011. évi CXC. törvény 36. § (1) bekezdésében meghatározott rendelkezés szerinti, a rendvédelmi szakképesítés megszerzésére létesített és fenntartott köznevelési intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
+22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
 
 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 
