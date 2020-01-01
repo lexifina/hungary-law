@@ -156,7 +156,7 @@
 
 ## 3. az átalakulási terv;
 
-## 4. a vagyonmérleg-tervezetekre és a vagyonleltár-tervezetekre vonatkozó könyvvizsgálói jelentést tartalmazó okirat;
+## 4. ha a vagyonmérleg-tervezetek és a vagyonleltár-tervezetek könyvvizsgálata kötelező, az ezekre vonatkozó könyvvizsgálói jelentést tartalmazó okirat;
 
 ## 5. az átalakulásra vonatkozó közlemények megjelenését igazoló lappéldányok kivonata;
 

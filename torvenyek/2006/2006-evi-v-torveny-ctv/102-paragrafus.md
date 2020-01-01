@@ -16,7 +16,7 @@ b) ha a cég valamely vagyontárgya országos közhiteles vagy közérdekből ve
 
 c)
 
-d) a területileg illetékes állami munkaerő-piaci szervezetet,
+d)
 
 e) a környezetvédelmi és természetvédelmi hatóságot arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
 
