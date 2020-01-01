@@ -2,7 +2,7 @@
 
 ## Az elkülönített gyűjtést igénylő, 2005. augusztus 13. napja után gyártott és hulladékká vált elektromos, elektronikus berendezést az alábbi ábrával kell megjelölni:
 
-5. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^94]
+5. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^96]
 
 ## A vagyoni biztosíték mértéke és számításának módja
 
@@ -60,4 +60,4 @@ bi: az 1. pontban foglalt táblázatban berendezéskategóriánként meghatároz
 
 mi: a gyártó által a tárgyhónapban gyártott vagy importált, adott berendezéskategóriába tartozó berendezés mennyisége (kilogrammban megadva), az mi értékébe nem kell beleszámolni azoknak a berendezéseknek a mennyiségét, amelyekről a gyártó igazolni tudja, hogy azokat kizárólag a háztartásokon kívül használják vagy azokat általában nem háztartásokban használják.
 
-[^94]: Az 5. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^96]: Az 5. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

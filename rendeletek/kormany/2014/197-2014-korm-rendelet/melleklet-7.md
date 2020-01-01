@@ -1,16 +1,8 @@
-7. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^97]
+7. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^98]
 
 ## A gyártó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
-1. A gyártóra vonatkozó adatok:
-
-a) a gyártó neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
-
-b) a felelős vezető neve, beosztása, elérhetősége;
-
-c) a gyártó nemzeti adóazonosító száma, ennek hiányában közösségi vagy nemzetközi adószáma;
-
-d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
+1.[^99]
 
 2. A gyártó tevékenységére vonatkozó adatok:
 
@@ -32,4 +24,5 @@ h) a tárgyévi gyűjtési, kezelési kötelezettség ellátásának módja;
 
 i) a 13. § (1) bekezdés szerinti tárgyévi vagyoni biztosíték összege és típusa.
 
-[^97]: A 7. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^98]: A 7. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^99]: A 7. melléklet 1. pontját a 322/2019. (XII. 19.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
