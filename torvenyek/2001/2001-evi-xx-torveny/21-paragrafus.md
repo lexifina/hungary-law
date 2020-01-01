@@ -8,12 +8,12 @@ b) immateriális javak beszerzése, létesítése, saját vállalkozásban tört
 
 c) tárgyi eszközök és immateriális javak korszerűsítése,
 
-d) beruházáshoz kapcsolódó forgóeszközigény,
+d) forgóeszközigény
 
 e) a kutatás-fejlesztés-innováció keretében, az Európai Unió vonatkozó szabályozása szerinti tevékenység
 
 finanszírozható, valamint
 
-f) a céltársaságnak cégalapítás vagy tőkeemelés végrehajtása útján korlátolt felelősségű társaságban vagy részvénytársaságban történő közvetlen részesedésszerzése finanszírozható, ha az a)–e) pontban foglaltakat közvetlenül a céltársaság részesedésszerzésével érintett korlátolt felelősségű társaság vagy részvénytársaság valósítja meg;
+f) befektetett pénzügyi eszköz finanszírozható.
 
-2. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.
+2. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, a befektetési alap, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.

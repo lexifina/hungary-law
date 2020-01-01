@@ -24,7 +24,7 @@ d) közműszolgáltató gazdálkodó szervezetben,
 
 e) ingatlanforgalmazó, ingatlankezelő gazdálkodó szervezetben,
 
-f) átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteségmérséklés céljából vagy hiteltulajdonrész csereügylet vagy felszámolás következtében korlátolt felelősségű társaságban, részvénytársaságban,
+f) egyéb módon be nem hajtható követelés ellenértékeként átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrész csereügylet vagy felszámolás következtében, korlátolt felelősségű társaságban, részvénytársaságban
 
 g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából korlátolt felelősségű társaságban, részvénytársaságban,
 

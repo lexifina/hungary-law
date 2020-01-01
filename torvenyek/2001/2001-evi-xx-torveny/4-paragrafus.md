@@ -22,7 +22,7 @@ finanszírozására nyújthat hitelt, illetve kölcsönt.
 
 (3) Az MFB Zrt. csak
 
-a) a (2) bekezdésben meghatározott hitelhez, illetőleg kölcsönhöz,
+a) a (2) bekezdésben meghatározott célú hitelhez, kölcsönhöz, továbbá hitelviszonyt megtestesítő értékpapírhoz,
 
 b) támogatáshoz,
 
@@ -31,6 +31,10 @@ c) ajánlattételhez,
 d) szolgáltatás nyújtásához,
 
 e) vállalkozási szerződéshez
+
+f) adásvételi szerződéshez,
+
+g) pénzügyi lízinghez
 
 kapcsolódóan vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget.
 
