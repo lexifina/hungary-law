@@ -24,10 +24,12 @@ j) a felperes a hiánypótlási felhívás teljesítésére rendelkezésre áll�
 
 k) a felperes keresetindítási határidőn belül nem jelölte meg a közigazgatási tevékenységgel okozott jogsérelmet,
 
-l) a beadványok elektronikus előterjesztésére köteles felperes vagy a jogi képviselő a keresetlevelet nem elektronikus úton vagy elektronikus úton, de nem a jogszabályban meghatározott módon terjeszti elő.
+l) az elektronikus ügyintézésre köteles felperes vagy a jogi képviselő nem elektronikus úton vagy elektronikus úton, de nem a jogszabályban meghatározott módon terjesztette elő,
+
+m) az elektronikus úton kapcsolatot tartó felperes nem jogszabályban meghatározott módon terjesztette elő.
 
 (2) A bíróság az (1) bekezdés a)–j) pontjában foglaltakat az egész eljárás során hivatalból veszi figyelembe.
 
-(3) A bíróság a keresetlevelet visszautasító végzést a felperessel közli és intézkedéséről az alperest értesíti. A bíróság intézkedéséről annak jogerőre emelkedését követően tájékoztatja azokat, akiket a keresetlevél benyújtásáról a közigazgatási szerv értesített.
+(3) A bíróság a keresetlevelet visszautasító végzés jogerőre emelkedését követően tájékoztatja intézkedéséről azokat, akiket a keresetlevél benyújtásáról a közigazgatási szerv értesített. Az alperes a keresetlevél visszautasítása esetén a védirat előterjesztésének költségét nem számíthatja fel.
 
 (4) A keresetlevelet visszautasító végzés ellen fellebbezésnek van helye.

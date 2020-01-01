@@ -9,3 +9,5 @@
 (4) Az áttett keresetlevelet úgy kell tekinteni, mintha azt már eredetileg is annál a bíróságnál terjesztették volna elő, amelyhez áttették.
 
 (5) Az áttételt megelőzően teljesített perbeli cselekmények, illetve bírói rendelkezések hatálytalanok, kivéve, ha az áttétellel kapcsolatosak, vagy azokat – a felek kérelmére vagy egyetértésével – a hatáskörrel és illetékességgel rendelkező bíróság hatályukban fenntartja.
+
+(6) Az áttételt elrendelő végzés ellen fellebbezésnek van helye.

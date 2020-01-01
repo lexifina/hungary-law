@@ -1,19 +1,13 @@
 ## XXVI. Fejezet
 
-## AZ ÚJ ELJÁRÁSRA KÖTELEZŐ ÉS A MULASZTÁSI ÍTÉLET TELJESÍTÉSÉNEK KIKÉNYSZERÍTÉSÉRE IRÁNYULÓ ELJÁRÁS
+## KÖZIGAZGATÁSI NEMPERES ELJÁRÁSOK
 
-### 151. § [A teljesítés kikényszerítése iránti kérelem]
+### 151. § [A közigazgatási nemperes eljárások közös szabályai]
 
-(1) A felperes vagy az érdekelt a teljesítési határidő leteltétől számított kilencven napon belül a teljesítés kikényszerítése érdekében kérelemmel fordulhat az elsőfokú határozatot hozó bírósághoz, ha a közigazgatási szerv a teljesítési határidőn belül nem tett eleget
+(1) Közigazgatási nemperes eljárásban e törvénynek az egyszerűsített perre vonatkozó szabályait – az e §-ban, valamint törvényben foglalt eltérésekkel – kell a nemperes eljárás sajátosságainak megfelelően alkalmazni.
 
-a) a bíróság új eljárás lefolytatására kötelező jogerős határozatában foglaltaknak vagy
+(2) Az eljárás kérelemre indul, amelyre a keresetlevélre vonatkozó szabályokat kell alkalmazni. A kérelemmel az általános szabályok szerinti kereset nem kapcsolható össze.
 
-b) a mulasztási ítéletből származó kötelezettségének.
+(3) Ha törvény eltérően nem rendelkezik, az eljárásban kizárólag okirati bizonyításnak van helye.
 
-(2) A teljesítés kikényszerítése iránti kérelem alapján indult eljárásra az egyszerűsített per szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
-
-(3) A kérelem alapján a bíróság tizenöt napon belül határidő tűzésével felhívja a közigazgatási szervet arra, hogy teljesítse kötelezettségét, vagy adjon magyarázatot a teljesítés elmaradására, a magyarázatot alátámasztó iratok egyidejű megküldése mellett.
-
-(4) Ha a közigazgatási szerv a felhívás alapján teljesít, a bíróság az eljárást megszünteti, és a közigazgatási szervet a kérelmező költségeinek megtérítésére kötelezi.
-
-(5) E fejezet szabályait kell alkalmazni akkor is, ha a bíróság jogerős határozatában foglalt kötelezés kikényszerítése nem tartozik a bírósági végrehajtásról szóló törvény hatálya alá.
+(4) A bíróság a kérelemről ítélet hatályú végzésben határoz, amelyre az ítéletre vonatkozó szabályokat kell alkalmazni. A végzés ellen fellebbezésnek nincs helye.

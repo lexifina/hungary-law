@@ -6,6 +6,8 @@
 
 (3) A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a jogi képviselő nélkül eljáró felperes – határidőn belül – tévesen a bírósághoz vagy a közigazgatási szerv jogorvoslati szervéhez (a továbbiakban: jogorvoslati szerv) nyújtotta be. Ebben az esetben a keresetlevelet haladéktalanul meg kell küldeni az (1) bekezdés szerinti közigazgatási szervnek.
 
+(3a) A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a felperes a közigazgatási cselekmény jogorvoslati záradékának megfelelően nyújtotta be, vagy arra figyelemmel nyújtotta be a bírósághoz, hogy az (1) bekezdés szerinti közigazgatási szerv az elektronikus ügyintézés feltételeit átmenetileg vagy tartósan nem biztosítja. A bíróság a keresetlevelet haladéktalanul megküldi az (1) bekezdés szerinti közigazgatási szervnek.
+
 (4) A keresetlevél benyújtására nyitva álló határidőt az ítélkezési szünet nem érinti.
 
 (5) A perfüggőség a keresetlevél benyújtásával áll be.

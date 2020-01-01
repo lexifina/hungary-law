@@ -9,3 +9,5 @@
 (4) A keresetlevelet a bíróságnál kell benyújtani, ha a közszolgálati jogviszonnyal kapcsolatos jogvita tárgya nem a Közszolgálati Döntőbizottság határozatának jogszerűsége.
 
 (5) Az ügyészség, illetve a törvényességi felügyeletet gyakorló szerv a keresetlevelet a bíróságnál nyújtja be.
+
+(6) A keresetlevelet a bíróságnál kell benyújtani, ha a törvény által megengedett keresethalmazat esetén azt egyszerre kellene a közigazgatási szervnél és a bíróságnál is benyújtani. A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a felperes – határidőn belül – tévesen a közigazgatási szervnél vagy a jogorvoslati szervnél nyújtja be.

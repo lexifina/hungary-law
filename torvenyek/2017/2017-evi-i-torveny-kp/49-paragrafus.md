@@ -1,6 +1,12 @@
 ### 49. § [A keresetlevél benyújtásához fűződő jogi hatályok fenntartása]
 
-(1) A keresetlevél benyújtásának joghatásai fennmaradnak, ha a bíróság a jogi képviselő nélkül eljáró felperes keresetlevelét a 48. § (1) bekezdés k) vagy l) pontja alapján utasította vissza, és a felperes a visszautasító határozat jogerőre emelkedésétől számított nyolc nap alatt a keresetlevelet a bíróságnál az e törvényben foglaltaknak megfelelően – a már megfelelően becsatolt mellékletek kivételével – újra benyújtja.
+(1) A keresetlevél benyújtásának joghatásai fennmaradnak, ha a bíróság
+
+a) a jogi képviselő nélkül eljáró felperes keresetlevelét a 48. § (1) bekezdés k) pontja, vagy
+
+b) a felperes keresetlevelét a 48. § (1) bekezdés l) vagy m) pontja
+
+alapján utasította vissza, és a felperes a visszautasító határozat jogerőre emelkedésétől számított nyolc nap alatt a keresetlevelet a bíróságnál az e törvényben foglaltaknak megfelelően – a már megfelelően becsatolt mellékletek kivételével – újra benyújtja.
 
 (2) A keresetlevél benyújtásának joghatásai fennmaradnak, ha a polgári bíróság a felperes közigazgatási ügyben eljáró bíróság hatáskörébe tartozó kereseti kérelmét tartalmazó keresetlevelét azért utasította vissza, mert
 

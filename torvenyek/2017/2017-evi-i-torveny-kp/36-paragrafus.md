@@ -37,3 +37,5 @@ c) a Kúria mulasztásával szemben benyújtott kifogást a Kúria erre kijelöl
 bírálja el.
 
 (3) Ha e törvény jegyzőkönyv helyett feljegyzés készítését lehetővé teszi, a feljegyzés tartalmazza készítésének helyét és idejét, az eljárási cselekményben részt vevő személyek azonosításához szükséges adatokat, nyilatkozataik lényegét, illetve a ténymegállapításokat, továbbá készítőjének nevét és aláírását.
+
+(4) A bíróság az eljárási cselekmény megkezdése előtt előterjesztett kérelemre – a technikai feltételek rendelkezésre állása esetén – elrendeli a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel útján történő készítését, amelyre egyebekben a polgári perrendtartás szabályait kell megfelelően alkalmazni.

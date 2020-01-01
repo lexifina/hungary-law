@@ -8,7 +8,13 @@
 
 (2) A bíróság a bizonyítékokat egyenként és összességükben, a megelőző eljárásban megállapított tényállással összevetve értékeli.
 
-(3) Bizonyítási indítvány előterjesztésére, illetve bizonyítási eszköz rendelkezésre bocsátására legkésőbb az első tárgyaláson van lehetőség.
+(3) Bizonyítási indítvány előterjesztésére, illetve bizonyítási eszköz rendelkezésre bocsátására legkésőbb az első tárgyaláson van lehetőség. A bíróság legfeljebb tizenöt napos határidő tűzésével ezt követően is engedélyezheti bizonyítási indítvány előterjesztését, illetve bizonyítási eszköz rendelkezésre bocsátását, ha
+
+a) a felperes a keresetét az első tárgyaláson megváltoztatja,
+
+b) a felperes keresetét a jogsérelem orvoslására tett cselekményre kiterjeszti, vagy
+
+c) az az anyagi pervezetése folytán vált szükségessé.
 
 (4) A megelőző eljárás idején fennálló, de a megelőző eljárásban nem értékelt tényre, körülményre a felperes vagy az érdekelt akkor hivatkozhat, ha azt a megelőző eljárásban a közigazgatási szerv arra való hivatkozása ellenére nem vette figyelembe, azt önhibáján kívül nem ismerte, illetve arra önhibáján kívül nem hivatkozott.
 
