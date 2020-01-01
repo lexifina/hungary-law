@@ -32,8 +32,11 @@ n) a közlekedésre neveléstől a járművezető képzésig átfogó program ke
 
 o)[^2] a veszélyes áruk közúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése,
 
-p)[^3] közreműködik a Közlekedési Szakértői Testület működtetésében, az ahhoz szükséges feltételek biztosításával, támogatást nyújtva a működtetéshez kapcsolódó adminisztratív teendők ellátásához.
+p)[^3] közreműködik a Közlekedési Szakértői Testület működtetésében, az ahhoz szükséges feltételek biztosításával, támogatást nyújtva a működtetéshez kapcsolódó adminisztratív teendők ellátásához,
+
+q)[^4] a közúti közlekedésbiztonság javításával összefüggésben, a közúti ellenőrzésekhez kapcsolódó ügyeleti, információs, tájékoztatási és koordinációs feladatok ellátása.
 
 [^1]: A 2. § b) pontja a 24/2019. (VIII. 14.) ITM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § o) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
 [^3]: A 2. § p) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^4]: A 2. § q) pontját a 45/2019. (XI. 20.) ITM rendelet 50. §-a iktatta be.
