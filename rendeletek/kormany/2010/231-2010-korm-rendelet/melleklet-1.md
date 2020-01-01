@@ -1,14 +1,14 @@
-## 8. §[^17]
+## 8. §[^19]
 
 1. melléklet a 231/2010. (VIII. 18.) Korm. rendelethez
 
-## A csemegeszőlő és alanyszőlő telepítésének engedélyezése iránti kérelem tartalmi elemei
+## A csemegeszőlő és alanyszőlő telepítése iránti kérelem tartalmi elemei[^20]
 
 1. A kérelmező azonosító adatai:
 
 1.1. ha a kérelmező természetes személy, a kérelmező természetes személyazonosító adatai és lakcíme,
 
-1.2.[^18] ha a kérelmező a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a kérelmező megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése,
+1.2.[^21] ha a kérelmező a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a kérelmező megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése,
 
 1.3. a kérelmezőnek a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti regisztrációs száma, alanyszőlő esetében faiskolai engedélyének száma.
 
@@ -46,7 +46,7 @@
 
 4.1. ha a tulajdonos természetes személy, a tulajdonos természetes személyazonosító adatai és lakcíme,
 
-4.2.[^19] ha a tulajdonos a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a tulajdonos megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése.
+4.2.[^22] ha a tulajdonos a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet, a tulajdonos megnevezése, székhelye, statisztikai azonosítója, bírósági vagy cégbírósági bejegyzési száma, valamint a képviseletre jogosult személy megnevezése.
 
 5. A kérelmező nyilatkozata, amely szerint tudomásul veszi, hogy a kérelemben foglalt személyes adatait a hatóság a csemegeszőlő vagy alanyszőlő ültetvényekkel kapcsolatos engedélyezés és ellenőrzés céljából kezeli.
 
@@ -54,6 +54,7 @@
 
 7. A kérelmező aláírása.
 
-[^17]: A 8. §-t a 379/2016. (XII. 2.) Korm. rendelet 160. § (6) bekezdése hatályon kívül helyezte.
-[^18]: Az 1. melléklet 1.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^19]: Az 1. melléklet 4.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^19]: A 8. §-t a 379/2016. (XII. 2.) Korm. rendelet 160. § (6) bekezdése hatályon kívül helyezte.
+[^20]: Az 1. melléklet címe a 360/2019. (XII. 30.) Korm. rendelet 81. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^21]: Az 1. melléklet 1.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^22]: Az 1. melléklet 4.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
