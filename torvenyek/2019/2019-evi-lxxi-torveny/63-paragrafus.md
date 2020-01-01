@@ -1,1 +1,1 @@
-63. §
+63. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 23. § (7) bekezdése szerinti deviza-illetményalap összege 2020. évben 425 000 forint, a 25. § (4) bekezdése szerinti lakhatási és vegyes költségtérítés-alap 300 000 forint, a gyermeknevelési költségtérítés-alap 250 000 forint, a Magyarország Európai Unió melletti Állandó Képviseletére kihelyezettek esetén 150 000 forint.

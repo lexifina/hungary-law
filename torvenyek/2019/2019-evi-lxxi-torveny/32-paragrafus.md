@@ -1,1 +1,3 @@
-32. §
+32. § (1) Az Európai Mezőgazdasági Garanciaalap által támogatott programok és intézkedések finanszírozásával összefüggő kockázatok kezelésére képzett céltartalék a XV. Pénzügyminisztérium fejezet, 25. cím, 11. Árfolyamkockázat és egyéb EU által nem térített kiadások alcím előirányzatán kizárólag jogszabályban meghatározott célokra használható fel.
+
+(2) A XII. Agrárminisztérium fejezet, 20. cím, 20. alcím, 1. jogcímcsoport 2. Igyál tejet program előirányzat, valamint a XII. Agrárminisztérium fejezet, 20. cím, 20. alcím, 1. jogcímcsoport 5. Iskolagyümölcs program előirányzat esetében a tárgyévi előirányzat 100%-ig vállalható éven túli fizetési kötelezettség.

@@ -1,1 +1,7 @@
-6. §
+6. § (1) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 7. Fejezeti tartalék címén szereplő kiadási előirányzat az e költségvetési fejezetben szereplő kiadási előirányzatok átcsoportosítás útján történő növelésére használható fel. A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 7. Fejezeti tartalék cím kiadási előirányzatának felhasználásáról az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter együttesen dönt.
+
+(2) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet bevételi előirányzatainak a tervezettet meghaladó pénzforgalmi teljesítése esetén különösen indokolt esetben, a Kormány határozatában adott jóváhagyásával e költségvetési fejezetnek a Kormány határozatában megjelölt kiadási előirányzata – legfeljebb a pénzforgalmilag teljesült többletbevétel mértékével – túlléphető, ha e költségvetési fejezet bevételei együttes összegénél nem jelentkezik bevétel-elmaradás.
+
+(3) Az állami vagyon felügyeletéért felelős miniszter a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet kiadási előirányzatai között – a keletkező megtakarítások terhére vagy közfeladatok változása miatt – az államháztartásért felelős miniszter egyidejű tájékoztatása mellett átcsoportosíthat. Az átcsoportosítás mértéke az egyes kiadási előirányzatokat érintően egyedileg és együttesen sem haladhatja meg az 5000,0 millió forintot és nem történhet olyan előirányzat terhére, amelynek teljesülése módosítás nélkül eltérhet az előirányzattól.
+
+(4) A frekvenciahasználati jogosultság értékesítéséből származó bevételt a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 6. címen belül önálló alcímen kell elszámolni.
