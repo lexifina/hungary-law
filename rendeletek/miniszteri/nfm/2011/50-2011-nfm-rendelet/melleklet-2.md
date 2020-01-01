@@ -12,7 +12,7 @@
 
 | 5. | Baja | Bajatechnik Kft. | Baja Energetika Kft. | 0 | 3 082 |
 
-| 6. | Bokod | MVM Oroszlányi Erőműfejlesztő Zrt. | NKM Oroszlányi Szolgáltató Zrt. | 1 706 000 | 2 822 |
+| 6. |  |  |  |  |  |
 
 | 7. | Bonyhád | SSB Energia Kft. | „FŰTŐMŰ” Kft. | 0 | 3 605 |
 
@@ -48,11 +48,11 @@
 
 | 23. | Budapest | WINDIRECT Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 3 396 |
 
-| 24. | Budapest | MVM Észak-Budai Fűtőerőmű Kft. – kapcsoltan és önálló tüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 129 272 000 | 3 060 |
+| 24. | Budapest | MVM GTER Zrt.– kapcsoltan és önálló tüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 129 272 000 | 3 060 |
 
-| 25. | Budapest | MVM Észak-Budai Fűtőerőmű Kft. – póttüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 0 | 2 736 |
+| 25. | Budapest | MVM GTER Zrt.– póttüzeléssel termelt hő | Budapesti Távhőszolgáltató Zrt. | 0 | 2 736 |
 
-| 26. | Budapest | Zugló-Therm Energiaszolgáltató Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 3 396 |
+| 26. | Budapest | ALTEO- Therm Kft. | Budapesti Távhőszolgáltató Zrt. | 0 | 3 396 |
 
 | 27. | Csongrád | Csoterm Kft. | Csongrádi Közmű Szolgáltató Kft. | 0 | 1 093 |
 
@@ -86,9 +86,9 @@
 
 | 42. | Gyöngyös | Veolia Energia Magyarország Zrt. | Városgondozási Zrt. | 0 | 3 413 |
 
-| 43. | Győr | Arrabona Geotermia Kft. | GYŐR-SZOL Zrt. | 0 | 3 204 |
+| 43. | Győr | Arrabona Koncessziós Kft. | GYŐR-SZOL Zrt. | 0 | 3 204 |
 
-| 44. | Győr | Győri Erőmű Kft. | GYŐR-SZOL Zrt. | 287 000 | 3 793 |
+| 44. | Győr | ALTEO-Therm Kft. | GYŐR-SZOL Zrt. | 287 000 | 3 793 |
 
 | 45. | Hajdúnánás | OMNI Energy Kft. | Hajdúnánási Építő és Szolgáltató Kft. | 0 | 3 474 |
 
@@ -96,7 +96,7 @@
 
 | 47. | Kaposvár | E.ON Energiatermelő Kft. | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 0 | 3 682 |
 
-| 48. | Kazincbarcika | Kazinc-Therm Fűtőerőmű Kft. | Barcika Szolg Kft. | 38 748 000 | 2 847 |
+| 48. | Kazincbarcika | ALTEO-Therm Kft. | Barcika Szolg Kft. | 38 748 000 | 2 847 |
 
 | 49. | Kiskunhalas | Halas-T Kft. | Halasi Városgazda Zrt. | 0 | 5 000 |
 
@@ -130,9 +130,9 @@
 
 | 64. | Nyíregyháza | Veolia Energia Magyarország Zrt. | NYÍRTÁVHŐ Kft. | 84 470 000 | 3 005 |
 
-| 65. | Oroszlány | MVM Oroszlányi Erőműfejlesztő Zrt. | NKM Oroszlányi Szolgáltató Zrt. | 46 065 000 | 2 822 |
+| 65. |  |  |  |  |  |
 
-| 66. | Ózd | Ózdi Erőmű Kft. | Ózdi Távhő Kft. | 0 | 3 343 |
+| 66. | Ózd | ALTEO-Therm Kft. | Ózdi Távhő Kft. | 0 | 3 343 |
 
 | 67. | Paks | MVM Paksi Atomerőmű Zrt. | Duna Center Therm Kereskedelmi és Szolgáltató Kft. | 4 895 000 | 929 |
 
@@ -158,7 +158,7 @@
 
 | 78. | Sopron | Veolia Energia Magyarország Zrt. | SOPRON Holding Zrt. | 20 255 000 | 2 883 |
 
-| 79. | Sopron | Soproni Erőmű Kft. | SOPRON Holding Zrt. | 14 790 000 | 2 738 |
+| 79. | Sopron | ALTEO-Therm Kft. | SOPRON Holding Zrt. | 14 790 000 | 2 738 |
 
 | 80. | Százhalombatta | Veolia Energia Magyarország Zrt. | „SZÁKOM” Nonprofit Kft. | 20 476 000 | 2 857 |
 
@@ -180,7 +180,7 @@
 
 | 89. | Tatabánya | Tatabánya Erőmű Kft. | T-Szol Tatabányai Szolgáltató Zrt. | 202 455 000 | 2 368 |
 
-| 90. | Tiszaújváros | Tisza-Therm Fűtőerőmű Kft. | TiszaSzolg 2004 Kft. | 30 519 000 | 2 911 |
+| 90. | Tiszaújváros | ALTEO-Therm Kft. | TiszaSzolg 2004 Kft. | 30 519 000 | 2 911 |
 
 | 91. | Vác | Veolia Energia Magyarország Zrt. | Váci Távhő Nonprofit Közhasznú Kft. | 0 | 3 355 |
 
