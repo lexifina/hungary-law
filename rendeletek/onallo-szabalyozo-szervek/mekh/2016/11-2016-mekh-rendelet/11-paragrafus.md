@@ -6,7 +6,7 @@
 
 (4) A 8. § (2) bekezdés a)–c) és e) pontjában meghatározott díjfizetésre kötelezett 0,0975 Ft/kWh nominálási eltérési pótdíjat köteles fizetni a szállítási rendszerüzemeltetőnek. A gáznap adott órájára nem számítható fel nominálási eltérési pótdíj azon átadási-átvételi ponton, amelyre vonatkozóan a 459/2017/EU bizottsági rendelet 3. cikk 25. pontja és 32. cikke szerinti túlnominálási eljárás keretében napon belüli megszakítható szállítóvezetéki kapacitás biztosítására került sor.
 
-(5) A 8. § (2) bekezdés a)–c) és e) pontjában meghatározott díjfizetésre kötelezett, amennyiben kereskedési platform tagsággal nem rendelkezik, 0,1624 Ft/kWh kiegyensúlyozási pótdíjat köteles fizetni a kiegyensúlyozási szolgáltatást nyújtó szállítási rendszerüzemeltetőnek az ÜKSZ-ben meghatározott esetekben és feltételek szerint.
+(5)[^53]
 
 (6) Az (1) bekezdés szerinti díjakra vonatkozó számlát a szállítási rendszerüzemeltető a szállítási kapacitásdíj számlájával egyszerre jogosult kiállítani a rendszerhasználó számára, aki a külön kiállított, a pótdíjakra és utólagos kapacitásdíjra vonatkozó számlákat a szállítási kapacitásdíj számlájával együtt köteles kiegyenlíteni.
 
@@ -14,3 +14,4 @@
 
 [^51]: A 11. § a 7/2017. (VII. 13.) MEKH rendelet 8. §-ával megállapított szöveg.
 [^52]: A 11. § (1) bekezdése a 14/2019. (X. 30.) MEKH rendelet 2. § a) pontja szerint módosított szöveg.
+[^53]: A 11. § (5) bekezdését a 15/2019. (XII. 14.) MEKH rendelet 1. § b) pontja hatályon kívül helyezte.

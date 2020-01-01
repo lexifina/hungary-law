@@ -1,3 +1,3 @@
-1. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^133]
+1. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^134]
 
-[^133]: Az 1. melléklet a 7/2017. (VII. 13.) MEKH rendelet 19. § w) pontja szerint módosított szöveg.
+[^134]: Az 1. melléklet a 7/2017. (VII. 13.) MEKH rendelet 19. § w) pontja szerint módosított szöveg.
