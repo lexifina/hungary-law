@@ -12,19 +12,13 @@ d) támogató szolgáltatás esetén szolgálati órára és szállítási kilom
 
 e) nappali ellátás esetén ellátási napra,
 
-f) bentlakásos intézményi ellátás esetén ellátási napra és hónapra,
+f)[^14] bentlakásos intézményi ellátás esetén ellátási napra,
 
-g)[^14] a támogatott lakhatásban igénybe vett, az Szt. 75. § (1) bekezdés d) pont db) alpontja szerinti esetben ellátási napra, dh) pontja szerinti esetben szállítási kilométerre, da), dc)–dg) és di) alpontja szerinti esetben órára
+g)[^15] a támogatott lakhatásban igénybe vett, az Szt. 75. § (1) bekezdés d) pont db) alpontja szerinti esetben ellátási napra, dh) pontja szerinti esetben szállítási kilométerre, da), dc)–dg) és di) alpontja szerinti esetben órára
 
 vetítve kell meghatározni.
 
-(2) Bentlakásos intézményi ellátás esetén
-
-a) a napi intézményi térítési díj a havi intézményi térítési díj harmincad része,
-
-b) a napi személyi térítési díj a havi személyi térítési díj harmincad része
-
-a hónapok naptári napjainak számától függetlenül.
+(2)[^16]
 
 (3) Az intézményi térítési díj szolgáltatónként, intézményenként, telephellyel rendelkező szolgáltató, intézmény esetén ellátást nyújtó székhelyenként, telephelyenként, továbbá bentlakásos intézményi ellátás esetén épületenként külön-külön is meghatározható.
 
@@ -32,4 +26,6 @@ a hónapok naptári napjainak számától függetlenül.
 
 [^12]: A 3. § a 357/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^13]: A 3. § (1) bekezdés b) pontja a 235/2017. (VIII. 18.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^14]: A 3. § (1) bekezdés g) pontját a 448/2016. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 3. § (1) bekezdés f) pontja a 312/2019. (XII. 18.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^15]: A 3. § (1) bekezdés g) pontját a 448/2016. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 3. § (2) bekezdését a 312/2019. (XII. 18.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
