@@ -10,7 +10,9 @@ b) az átalakulás feltételeként meghatározott, a meglévő tagokat (részvé
 
 c) az átalakulással létrejövő gazdasági társaságban részt venni nem kívánó tagok (részvényesek) részére kiadásra kerülő eszközöknek és kötelezettségeknek a vagyonmérleg-tervezet szerinti értékét, és ezek különbözetével azonos értékben a saját tőke (jegyzett tőke, tőketartalék, eredménytartalék) létesítő okirat szerinti csökkenését;
 
-d) a beolvadó, illetve szétváló részvénytársaság részvényesei számára juttatható kiegészítő készpénzfizetés összegét és ezzel azonos értékben a tőketartalék, az eredménytartalék létesítő okirat szerinti csökkenését.
+d) a beolvadó, illetve szétváló részvénytársaság részvényesei számára juttatható kiegészítő készpénzfizetés összegét és ezzel azonos értékben a tőketartalék, az eredménytartalék létesítő okirat szerinti csökkenését;
+
+e) a jogelőd gazdasági társaságnál a lekötött tartalékban kimutatott pótbefizetés összegéből az eredménytartalékba átvezetett összeget, ha a pótbefizetésből származó követeléséről az átalakulás során a gazdasági társaság tulajdonosa (tagja) lemond.
 
 (3) A kiválással létrejövő gazdasági társaságnak – ha élt az átértékelés lehetőségével – a vagyonmérleg-tervezete ,,különbözetek'' oszlopában elkülönítetten kell kimutatnia az átértékelési különbözetet, a 138. § (4) bekezdésében foglaltak szerint.
 

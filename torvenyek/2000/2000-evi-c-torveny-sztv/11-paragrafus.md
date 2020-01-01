@@ -2,7 +2,7 @@
 
 11. § (1) Az üzleti év az az időtartam, amelyről a beszámolót kell készíteni. Az üzleti év időtartama megegyezik – a (2)–(13) bekezdésben foglaltak kivételével – a naptári évvel.
 
-(2) Az üzleti év a naptári évtől eltérhet a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítónak nem minősülő vállalkozónál, a Magyarország területén engedéllyel működő külföldi felsőoktatási intézménynél, amennyiben azt a működés jellemzői (különösen az üzletmenet ciklikussága, illetve konszolidálásba bevont vállalkozás esetén az anyavállalat információs igénye) indokolttá teszik. Annál a vállalkozónál, amely alkalmazza a 9. § (6) bekezdését, valamint annál az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó vállalkozónál, amely nyilvántartásait e törvény szerint vezeti, az üzleti év nem térhet el a naptári évtől.
+(2) Az üzleti év a naptári évtől eltérhet a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítónak nem minősülő vállalkozónál, a Magyarország területén engedéllyel működő külföldi felsőoktatási intézménynél, amennyiben azt a működés jellemzői (különösen az üzletmenet ciklikussága, illetve konszolidálásba bevont vállalkozás esetén az anyavállalat információs igénye) indokolttá teszik. Annál a vállalkozónál, amely alkalmazza a 9. § (6) bekezdését, az üzleti év nem térhet el a naptári évtől.
 
 (3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy a konszolidálásba történő bevonáskor, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett.
 

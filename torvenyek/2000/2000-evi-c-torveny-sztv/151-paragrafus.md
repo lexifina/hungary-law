@@ -118,7 +118,7 @@ d) államilag elismert idegennyelv-tudását igazoló, eredményes nyelvvizsga (
 
 (11) A nyilvántartásba vételt végző szervezet a tárgyévben nyilvántartásba vett és nyilvántartásból törölt természetes személyek (10) bekezdés szerinti nyilvános adatait, valamint a nyilvántartásba vettek ezen adataiban bekövetkezett változásokat az egységes Kormányzati Portálon évente közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett természetes személy előbbi adatait nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kapjon.
 
-(12) A mérlegképes könyvelői szakképesítés szakmai és vizsgakövetelményeit a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) rendeletben szabályozza.
+(12) A mérlegképes könyvelői szakmai képzés programkövetelményét a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) állapítja meg.
 
 (13) A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 10 évig köteles megőrizni.
 

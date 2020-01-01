@@ -10,7 +10,9 @@ d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásá
 
 e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
 
-f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét.
+f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét,
+
+g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a gazdasági társaság tulajdonosa (tagja) lemond, a lemondás időpontjával.
 
 (2) Az eredménytartalék csökkenéseként kell kimutatni:
 

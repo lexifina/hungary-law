@@ -18,7 +18,7 @@ g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalko
 
 h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait.
 
-(2) Felhatalmazást kap a miniszter arra, hogy rendeletben szabályozza a mérlegképes könyvelői képesítés szakmai és vizsgakövetelményeit.
+(2)
 
 (3) Felhatalmazást kap a miniszter, hogy a 154/A. § (2) bekezdésének megfelelő államok listáját közzétegye.
 

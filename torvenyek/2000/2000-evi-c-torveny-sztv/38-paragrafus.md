@@ -39,3 +39,5 @@ g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján l
 (9) A lekötött tartalék növekedéseként, illetve csökkenéseként kell kimutatni a pénzmozgással, illetve az eszközmozgással egyidejűleg a külön jogszabály alapján a lekötött tartalékkal szemben átvett, illetve átadott pénzeszközök, egyéb eszközök értékét. A külön jogszabály alapján átvett lekötött tartalék feloldását – a külön jogszabály eltérő rendelkezése hiányában – az eredménytartalékkal szemben kell elszámolni.
 
 (10) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
+
+(11) A gazdasági társaságnál a lekötött tartalékban kimutatott pótbefizetés összegét az eredménytartalék javára kell átvezetni, amennyiben a gazdasági társaság tulajdonosa (tagja) a pótbefizetésből származó követeléséről lemond, a lemondás időpontjával.
