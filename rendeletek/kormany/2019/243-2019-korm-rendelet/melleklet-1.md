@@ -1,4 +1,4 @@
-## 29. §[^7]
+## 29. §[^6]
 
 1. melléklet a 243/2019. (X. 22.) Korm. rendelethez
 
@@ -42,4 +42,4 @@
 
 12. ha az elektromos töltőberendezés üzemeltető az általa üzemeltetett elektromos töltőberendezésen elektromobilitás szolgáltatási tevékenységet is nyújt, a 9. § (1) bekezdésében foglaltak.
 
-[^7]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

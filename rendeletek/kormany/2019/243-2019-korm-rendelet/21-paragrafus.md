@@ -1,4 +1,4 @@
-## 20. §[^2]
+## 20. §[^1]
 
 ## 11. Hatályba léptető rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 20. § 2021. március 20-án lép hatályba.
 
-[^2]: A 20. § a 21. § (3) bekezdése alapján 2021. március 20-án lép hatályba.
+[^1]: A 20. § a 21. § (3) bekezdése alapján 2021. március 20-án lép hatályba.
