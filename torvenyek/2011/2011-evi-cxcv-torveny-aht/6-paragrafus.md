@@ -44,7 +44,7 @@ c) az egyéb felhalmozási célú kiadások, amelyek az államháztartáson bel�
 
 a) az államháztartás mindkét alrendszerében:
 
-aa) a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 3. § (1) bekezdés a)–e) pontja szerinti ügyletből származó bevételek és kiadások, továbbá a hitelviszonyt megtestesítő értékpapírok vásárlásából, értékesítéséből, beváltásából származó bevételek és kiadások,
+aa) a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 8. § (2) bekezdés a)–e) pontja szerinti ügyletből származó bevételek és kiadások, továbbá a hitelviszonyt megtestesítő értékpapírok vásárlásából, értékesítéséből, beváltásából származó bevételek és kiadások,
 
 ab) a szabad pénzeszközök betétként való elhelyezése és visszavonása,
 

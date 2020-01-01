@@ -2,6 +2,6 @@
 
 a) a Gst. 45. § (1) bekezdés a) pontjában kapott felhatalmazás alapján kiadott jogszabályban meghatározottak szerinti saját bevételeinek és
 
-b) a Gst. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből eredő fizetési kötelezettségeinek
+b) a Gst. 8. § (2) bekezdése szerinti adósságot keletkeztető ügyleteiből eredő fizetési kötelezettségeinek
 
 a költségvetési évet követő három évre várható összegét.

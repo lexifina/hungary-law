@@ -6,7 +6,7 @@
 
 (3) Az (1) és (2) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
 
-(4) Az (5) bekezdésben, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettség
+(4) A Beruházás ösztönzési célelőirányzat előirányzata, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettség
 
 a) a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdése és a 14. § (4) bekezdés c) és d) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint,
 
@@ -34,7 +34,7 @@ b) – a központi költségvetésről szóló törvény eltérő rendelkezése 
 
 (4d) A 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére – a 32. § a) pontja szerinti költségvetési kiadási előirányzatok kivételével – több évre vagy a költségvetési éven túli évre szóló kötelezettség nem vállalható.
 
-(5) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a központi költségvetésről szóló törvény állapítja meg. A költségvetési év költségvetési kiadási előirányzatain felül a költségvetési évben a Kormány egyedi döntésével vállalható kötelezettség.
+(5)
 
 (5a) Az államháztartás önkormányzati alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettségvállalásra az irányító szerv által megállapított, ennek hiányában a költségvetési év kiadási előirányzataival megegyező összegű kiadási előirányzatok szabad előirányzatának mértékéig kerülhet sor, amelynek fedezetét a kötelezettséget vállalónak a tervezésekor biztosítania kell.
 

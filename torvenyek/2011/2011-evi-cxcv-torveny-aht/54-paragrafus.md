@@ -1,6 +1,6 @@
 ## 37.
 
-54. § (1) A támogató a költségvetési támogatás felhasználását
+54. § (1) A támogató vagy a támogató nevében eljáró szervezet a költségvetési támogatás felhasználását
 
 a) a 48. § (1) bekezdés a) pontja szerinti támogatási jogviszony esetében a hatósági ellenőrzés szabályai,
 

@@ -50,6 +50,6 @@ a) végelszámolás alatt áll, vagy vonatkozásában csődeljárás elrendelés
 
 b) egy évnél régebben lejárt adó-, illeték-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének nem tett eleget, kivéve, ha annak megfizetésére halasztást kapott.
 
-(8a) A (8) bekezdésben foglaltakon túl azon önkormányzati tulajdonú gazdasági társaság ezen alcím alapján történő megszüntetése kizárt, amely a Gst. 3. § (1) bekezdése szerinti adósságot keletkeztető ügylettel rendelkezik.
+(8a) A (8) bekezdésben foglaltakon túl azon önkormányzati tulajdonú gazdasági társaság ezen alcím alapján történő megszüntetése kizárt, amely a Gst. 8. § (2) bekezdése szerinti adósságot keletkeztető ügylettel rendelkezik.
 
 (9) Ezen alcím alkalmazásában 100%-os állami, illetve önkormányzati tulajdonban gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, illetve önkormányzat, az állam, illetve önkormányzat 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik saját üzletrésszel vagy részvénnyel.

@@ -1,4 +1,4 @@
-56/C. § (1) A támogató a monitoringrendszerbe történő adatátadással gondoskodik
+56/C. § (1) A támogató vagy a támogató nevében eljáró szervezet a monitoringrendszerbe történő adatátadással gondoskodik
 
 a) a támogatási igényhez kapcsolódóan a támogatási igény benyújtója nevére, a támogatási igény céljára és az igényelt támogatás mértékére, a pályázati úton biztosított támogatás esetében a pályázati kiírás tárgyára,
 

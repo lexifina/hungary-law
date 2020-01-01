@@ -6,7 +6,7 @@
 
 a) a 24. § (4) bekezdése szerinti mérlegeket, kimutatásokat azzal, hogy az előirányzat felhasználási terven a pénzeszközök változásának bemutatását kell érteni,
 
-b) a helyi önkormányzat adósságának állományát lejárat, a Gst. 3. §-a szerinti adósságot keletkeztető ügyletek, bel- és külföldi irányú kötelezettségek szerinti bontásban,
+b) a helyi önkormányzat adósságának állományát lejárat, a Gst. 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletek, bel- és külföldi irányú kötelezettségek szerinti bontásban,
 
 c) a vagyonkimutatást, és
 
