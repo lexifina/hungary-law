@@ -40,7 +40,7 @@ s) a tőkepiacról szóló 2001. évi CXX. törvény szerinti Befektető-védelm
 
 t) a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
 
-(2) Az (1) bekezdés c)–g) és m) pontokban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetőleg az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
+(2) Az (1) bekezdés c)–g) és m) pontban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetve az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, külföldi illetőségű szervezet esetén a társasági adónak megfelelő közteherfizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
 
 (3) A szervezet (alapítvány) közigazgatási hatósági vagy bírósági eljárás kezdeményezése, illetve gépjármű, pótkocsi szerzése esetén nyilatkozik az illetékmentesség (2) bekezdésben meghatározott feltételének fennállásáról, egyéb vagyonszerzés esetén a feltétel teljesülését az állami adóhatóság hivatalból ellenőrzi.
 

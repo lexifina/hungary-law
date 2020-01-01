@@ -8,7 +8,7 @@ b) bírósági meghagyás elleni ellentmondás esetén 3%, de legalább 5000 for
 
 c) egyezségi kísérletre idézés iránti kérelem esetén 1%, de legalább 3000 forint, legfeljebb 15 000 forint;
 
-d) a végrehajtási eljárásban 1%, de legalább 5000 forint, legfeljebb 350 000 forint, ha a végrehajtás foganatosítása a törvényszéki végrehajtó feladatkörébe tartozik, 3%, de legalább 8000 forint, legfeljebb 750 000 forint;
+d) a végrehajtási eljárásban 1%, de legalább 5000 forint, legfeljebb 350 000 forint;
 
 e) a határozat jogerőre emelkedése után a részletekben való teljesítés vagy ennek módosítása, vagy részletfizetés engedélyezése iránt kezdeményezett eljárásban 1%, de legalább 5000 forint, legfeljebb 15 000 forint;
 

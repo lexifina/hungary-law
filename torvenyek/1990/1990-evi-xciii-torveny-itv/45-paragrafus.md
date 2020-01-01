@@ -22,7 +22,7 @@ g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 
 
 (3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke zártkörűen működő részvénytársaság esetén 50 000 Ft, azzal, hogy amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
 
-(3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
+(3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a Csődtv. 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
 
 (3b) Az e §-ban nem említett egyéb cégbírósági eljárás illetéke 15 000 Ft.
 

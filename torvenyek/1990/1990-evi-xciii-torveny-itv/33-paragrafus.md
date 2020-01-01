@@ -86,7 +86,7 @@ d)
 
 36. az európai területi társulásban történő részvétel jóváhagyására irányuló eljárás;
 
-37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
+37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, köznevelési, szakképző, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
 
 38. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás;
 
@@ -134,7 +134,7 @@ d)
 
 60. a lakáscélú állami támogatás igénylésével kapcsolatos hatósági eljárások;
 
-61.
+61. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátással kapcsolatos eljárás;
 
 62. hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról;
 

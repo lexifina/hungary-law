@@ -40,7 +40,7 @@ t) a bűncselekménnyel vagy szabálysértéssel okozott kár megfizetésére k�
 
 u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
 
-v) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
+v) a Csődtv. 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
 (2)
 
