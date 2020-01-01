@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet (a továbbiakban: Adóig. vhr.) a következő 5/A. §-sal egészül ki:
 
-[^1]: Az 1. § a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „5/A. § A helyi iparűzési adó alanya az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon a hiteles elektronikus irattá alakított meghatalmazás vagy a meghatalmazást tartalmazó, legalább az adózó minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával vagy azonosításra visszavezetett dokumentumhitelesítési szolgáltatással hitelesített elektronikus irat egyidejű csatolásával tehet az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottra vonatkozó bejelentést.”

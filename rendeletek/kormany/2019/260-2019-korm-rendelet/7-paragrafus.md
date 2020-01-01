@@ -1,3 +1,3 @@
-## 6. §[^6]
+## 6. §[^5]
 
-[^6]: A 6. § a 16. § (3) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^5]: A 6. § a 16. § (3) bekezdése alapján 2020. február 1-jén lép hatályba.
