@@ -16,7 +16,7 @@ c) fontos a környezeti megfontolások beillesztése szempontjából, különös
 
 d) vonatkozik olyan területre vagy kérdéskörre, ahol környezeti problémák vannak;
 
-e)[^15] jelentős a környezettel kapcsolatos közösségi jogszabályok (mint pl. a hulladékgazdálkodással, vízgazdálkodással, vízgyűjtő-gazdálkodással összefüggő tervek, programok stb.) végrehajtása szempontjából.
+e)[^16] jelentős a környezettel kapcsolatos közösségi jogszabályok (mint pl. a hulladékgazdálkodással, vízgazdálkodással, vízgyűjtő-gazdálkodással összefüggő tervek, programok stb.) végrehajtása szempontjából.
 
 2. A várható környezeti hatások
 
@@ -34,16 +34,16 @@ f) olyan területet érintenek, amelyek hazai (országos vagy helyi), közössé
 
 g) feltételezhetően a 4. számú melléklet 3.5.2. és 3.6.2. pontjaiban felsorolt következményeket idézik elő;
 
-h)[^16] miatt a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben a vizekre és a védett területekre meghatározott környezeti célkitűzések elérése, illetve megtartása meghiúsul, a vizek vagy a védett területek állapotromlása következik be.
+h)[^17] miatt a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben a vizekre és a védett területekre meghatározott környezeti célkitűzések elérése, illetve megtartása meghiúsul, a vizek vagy a védett területek állapotromlása következik be.
 
 3. A várhatóan érintett terület értékes, illetve sérülékeny, mert
 
-a) a környezeti elemek, rendszerek[^17] vagy a kulturális örökség szempontjából különleges;
+a) a környezeti elemek, rendszerek[^18] vagy a kulturális örökség szempontjából különleges;
 
 b) a területen a környezetvédelmi határértékeket [Kvt. 4. § s), t), u) pontjai] elérő vagy azt meghaladó igénybevétel, kibocsátás, illetve szennyezettség van;
 
 c) a terület hasznosítása, használata intenzív (mint pl. intenzív mezőgazdasági, erdőgazdasági termesztés, termelés, sűrűn beépített terület stb.).
 
-[^15]: A 2. számú melléklet 1. pont e) alpontja a 100/2014. (III. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^16]: A 2. számú melléklet 2. pont h) alpontját a 100/2014. (III. 25.) Korm. rendelet 3. §-a iktatta be.
-[^17]: A 4. számú melléklet 3.6.1.1. és 3.6.1.2. pontjai szerint.
+[^16]: A 2. számú melléklet 1. pont e) alpontja a 100/2014. (III. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^17]: A 2. számú melléklet 2. pont h) alpontját a 100/2014. (III. 25.) Korm. rendelet 3. §-a iktatta be.
+[^18]: A 4. számú melléklet 3.6.1.1. és 3.6.1.2. pontjai szerint.

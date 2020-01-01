@@ -6,6 +6,8 @@
 
 (2) A döntéshez a kidolgozó kikéri a 3. számú mellékletben meghatározott környezet védelméért felelős közigazgatási szervek (a továbbiakban: környezet védelméért felelős szervek) véleményét arról, hogy a hatáskörükbe tartozó környezet- vagy természetvédelmi szakterületet illetően várható-e jelentős környezeti hatás. E szervek véleményük kialakításában a 2. számú mellékletben foglaltak közül a hatáskörükbe tartozó és a szóban forgó terv, illetve program jellege alapján a tervre, illetve a programra vonatkoztatható szempontokat veszik figyelembe.
 
+(2a)[^3] Budapest Főváros Kormányhivatala a természetes gyógytényezőkre, gyógyhelyekre vonatkozó nyilvántartását a honlapján közzéteszi a gyógytényezők, gyógyhelyek érintettségének vizsgálata céljából. Ha a gyógytényezők, gyógyhelyek érintettsége nem áll fenn, a döntéshez Budapest Főváros Kormányhivatalának véleményét nem szükséges kikérni.
+
 (3) A kidolgozó a (2) bekezdés szerinti vélemény kérésekor, annak megalapozásához, legalább a következő tájékoztatást küldi meg:
 
 a) a tervezési feladat (terv, illetve program címe, típusa, tartalma, tervezési terület);
@@ -19,3 +21,5 @@ d) a 2. számú mellékletben foglalt szempontok alkalmazásához a rendelkezés
 (4) A kidolgozó a véleményt a tájékoztatáshoz szükséges információ rendelkezésére állásakor haladéktalanul kikéri, és a véleményadásra határidőt állapít meg, amely nem lehet kevesebb mint 15 nap.
 
 (5) A kidolgozó az (1) bekezdés szerinti döntéséhez az általa megadott határidőre beérkezett véleményeket veszi figyelembe.
+
+[^3]: A 4. § (2a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 35. § (1) bekezdése iktatta be.
