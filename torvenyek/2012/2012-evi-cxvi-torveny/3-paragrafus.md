@@ -8,7 +8,7 @@
 
 (4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget:
 
-a) az (5) bekezdésben foglaltak kivételével az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik (ideértve többek között, ha a fizetési műveletre a magánszemély egyéni vállalkozói és magánszemélykénti számlája között kerül sor), vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
+a) az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik (ideértve többek között, ha a fizetési műveletre a magánszemély egyéni vállalkozói és magánszemélykénti számlája között kerül sor), vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
 
 b) az ügyfélszámlán vagy a befektetési szolgáltatással kapcsolatban egyéb számlán végrehajtott fizetési művelet, ideértve a fizetési számla és az ügyfélszámla között végrehajtott fizetési műveletet abban az esetben, ha
 
@@ -24,7 +24,7 @@ d) a Hpt. 6. §-ában meghatározott csoportfinanszírozás, feltéve, hogy a cs
 
 e) a pénzforgalmi szolgáltató által más belföldi illetve külföldi pénzforgalmi szolgáltató, pénzügyi intézmény, befektetési vállalkozás, befektetési alapkezelő, központi szerződő fél, valamint befektetési alap részére vezetett fizetési számla terhére megvalósított fizetési művelet,
 
-f) a társadalombiztosítás pénzügyi alapjainak ellátási és a családtámogatás lebonyolítási számlái terhére a kincstár által megvalósított fizetési művelet, továbbá a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerint járulékalapot képező kifizetésekkel kapcsolatos, kincstár által az Áht. 79. § (1) bekezdése alá tartozó körben végrehajtott fizetési művelet,
+f) a kincstár által az Áht. 79. § (1) bekezdése alá tartozó kör számlái terhére végrehajtott fizetési művelet,
 
 g) a jóvá nem hagyott vagy jóváhagyott, de hibásan teljesített fizetési művelet, ideértve az eredeti állapot helyreállítására irányuló fizetési műveletet is,
 
@@ -32,32 +32,24 @@ h) a korlátozott rendeltetésű fizetési számláról végrehajtott fizetési 
 
 i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokkal, továbbá nemzetközi szervezetekkel történő elszámolásokkal kapcsolatos számlák terhére megvalósított fizetési művelet,
 
-j) az éves költségvetési törvényben foglaltak szerint mentesített központi kezelésű előirányzatokkal kapcsolatos fizetési művelet,
+j)
 
-k) a kincstár által vezetett nemzetgazdasági számlákon és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,
+k)
 
 l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 
 m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla,
 
-n) a kincstár által, a köznevelési, a szociális, gyermekjóléti és gyermekvédelmi humánszolgáltatások után nem állami intézmény fenntartójának biztosított hozzájárulás, a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres házi segítségnyújtás, a fejlesztő foglalkoztatás, az utcai szociális munka és a krízisközpontok támogatásának folyósítására vezetett lebonyolítási számlán megvalósuló fizetési művelet,
+n)
 
-o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet,
+o)
 
-p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
+p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
 
 q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás,
 
 r) a természetes személyek fizetési számlája és a kincstár által állampapír-forgalmazás érdekében vezetett számla között lebonyolított fizetési művelet, illetve ugyanezen célból a Posta Elszámoló Központot működtető intézmény útján kezdeményezett, a kincstár által vezetett számlára történő készpénzbefizetés, ha természetes személy a megbízó (befizető),
 
-s) az elektronikus fizetési és elszámolási rendszer önkormányzati ASP-rendszer keretében biztosított szolgáltatásaihoz kapcsolódó elszámolási számla terhére megvalósított fizetési művelet.
+s)
 
-(5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
-
-a) a költségvetési szerv saját számlája és szervezeti egységei számlái között végrehajtott fizetési művelet,
-
-b) a költségvetési szerv, elkülönített állami pénzalap számlája és szervezeti egységei számlái között történő és egyéb támogatási keret átvezetés,
-
-c) az azonos cégjegyzékszámú nonprofit gazdasági társaság központja és telephelyei számlái között végrehajtott fizetési művelet,
-
-d) a fejezeti jogosultsággal rendelkező, valamint fejezetet irányító költségvetési szerv nem korlátozott rendeltetésű fejezeti és intézményi számlái között végrehajtott fizetési művelet.
+(5)

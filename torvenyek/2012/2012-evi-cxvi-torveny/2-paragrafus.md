@@ -28,7 +28,7 @@
 
 13. kölcsöntörlesztés: az a művelet, amelynek során a pénzforgalmi szolgáltató az ügyfele nála vezetett fizetési számláját kölcsönszerződés alapján fennálló követelése részbeni vagy teljes kielégítése céljából megterheli, továbbá az a művelet, amelynek során a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménnyel fennálló kölcsönszerződés alapján fennálló kötelezettségét házipénztárába vagy fizetési számlájára az ügyfele készpénz megfizetésével részben vagy teljesen kielégíti, ide nem értve a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetést;
 
-14. nemzetgazdasági számlák: a központi költségvetés központi kezelésű előirányzataihoz kapcsolódó bevételi, kiadási, lebonyolítási és egyéb pénzforgalmi számlák, valamint a költségvetés finanszírozásával kapcsolatos kincstári számlák;
+14.
 
 15. pénzforgalmi szolgáltatás: a Hpt. szerint meghatározott pénzforgalmi szolgáltatás;
 
