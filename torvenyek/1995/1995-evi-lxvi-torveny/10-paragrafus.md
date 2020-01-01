@@ -10,7 +10,7 @@ c) az önkormányzati hivatal számára a jegyző (főjegyző) a Magyar Nemzeti 
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
-a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője a területi államigazgatási szervek, a Magyar Honvédség, valamint a rendvédelmi szervek – kivéve a polgári nemzetbiztonsági szolgálatok – részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, a Magyar Nemzeti Levéltárral és az illetékes szaklevéltárral egyetértésben,
+a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője a területi államigazgatási szervek, a honvédelmi szervezetek és a rendvédelmi szervek – kivéve a nemzetbiztonsági szolgálatok – részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, a Magyar Nemzeti Levéltárral és az illetékes szaklevéltárral egyetértésben,
 
 b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Nemzeti Levéltárral egyetértésben,
 
