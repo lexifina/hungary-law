@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-38-20-2
 | 2018-04-25 | 2011-38-20-22.14 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-09-04 | 2011-38-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-06-29 | 2011-38-20-22.16 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2020-01-01 | 2011-38-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
