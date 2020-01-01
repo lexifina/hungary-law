@@ -32,7 +32,7 @@ e) az a személy, akihez a gyermeket ideiglenes hatállyal elhelyezték, az idei
 
 f)[^14] a Cst. 2. § a) pont ae) alpontja szerinti igénylő az EU Kék Kártya, valamint a szálláshely bejelentőlap,
 
-g)[^15] a Cst. 2. § a) pont af) alpontja szerinti igénylő a tartózkodási engedély, valamint a szálláshely bejelentőlap
+g)[^15] a Cst. 2. § a) pont af) alpontja szerinti igénylő a tartózkodási engedély, a munkavállalási engedély, a munkaszerződés, valamint a szálláshely bejelentőlap
 
 ## bemutatásával vagy másolatának csatolásával igazolja.
 
@@ -64,7 +64,7 @@ b) az újabb kérelem benyújtásakor nem kell bemutatni vagy csatolni a kérele
 [^12]: Az 1. § (5) bekezdés b) pontja a 69/2014. (III. 13.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^13]: Az 1. § (5) bekezdés d) pontja a 140/2010. (IV. 28.) Korm. rendelet 4. §-ával megállapított, a 236/2012. (VIII. 30.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (5) bekezdés f) pontját a 379/2016. (XII. 2.) Korm. rendelet 33. § (1) bekezdése iktatta be, szövege a 405/2017. (XII. 15.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^15]: Az 1. § (5) bekezdés g) pontját a 379/2016. (XII. 2.) Korm. rendelet 33. § (1) bekezdése iktatta be, szövege a 405/2017. (XII. 15.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. § (5) bekezdés g) pontját a 379/2016. (XII. 2.) Korm. rendelet 33. § (1) bekezdése iktatta be, szövege a 310/2019. (XII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^16]: Az 1. § (6) bekezdését a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése aa) alpontja hatályon kívül helyezte, újonnan a 176/2009. (VIII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^17]: Az 1. § (6a) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 8. § (5) bekezdése iktatta be.
 [^18]: Az 1. § (6a) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés d) pontja szerint módosított szöveg.
