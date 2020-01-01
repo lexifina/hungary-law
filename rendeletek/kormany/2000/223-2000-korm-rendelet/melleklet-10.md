@@ -120,9 +120,9 @@
 
 ## 172. Állampapírok
 
-## 173.[^245]
+## 173.[^246]
 
-## 174.[^246]
+## 174.[^247]
 
 ## 175. Befektetési jegyek (határozott futamidejű)
 
@@ -212,7 +212,7 @@
 
 ## 359. Adott előlegek értékvesztése és annak visszaírása
 
-## 36.[^247] ÉRTÉKPAPÍR KÖLCSÖNBE ADÁSÁBÓL SZÁRMAZÓ KÖVETELÉSEK, EGYÉB KÖVETELÉSEK
+## 36.[^248] ÉRTÉKPAPÍR KÖLCSÖNBE ADÁSÁBÓL SZÁRMAZÓ KÖVETELÉSEK, EGYÉB KÖVETELÉSEK
 
 ## 361. Értékpapír kölcsönbe adásából származó követelések
 
@@ -266,9 +266,9 @@
 
 ## 3722. Kincstárjegyek és más állampapírok
 
-## 3723.[^248]
+## 3723.[^249]
 
-## 3724.[^249]
+## 3724.[^250]
 
 ## 3725. Befektetési jegyek (határozott futamidejű)
 
@@ -328,7 +328,7 @@
 
 ## 412. Tartaléktőke
 
-## 413.[^250] Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye
+## 413.[^251] Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye
 
 ## 414.
 
@@ -380,15 +380,15 @@
 
 ## 4224. Egyéni számlákon jóváírt, realizált hozambevételekből képzett céltartalék igénybevétele
 
-## 42241.[^251] Tagsági viszony megszűnésekor kifizetett realizált hozam
+## 42241.[^252] Tagsági viszony megszűnésekor kifizetett realizált hozam
 
-## 42242.[^252] Realizált hozam terhére kifizetett értékelési különbözet
+## 42242.[^253] Realizált hozam terhére kifizetett értékelési különbözet
 
-## 42243.[^253] Szolgáltatási tartalékra átvezetett realizált hozam
+## 42243.[^254] Szolgáltatási tartalékra átvezetett realizált hozam
 
-## 42244.[^254] Nem fizető tagok hozamából működési célra levont összeg
+## 42244.[^255] Nem fizető tagok hozamából működési célra levont összeg
 
-## 42245.[^255] Nem fizető tagok hozamából likviditási célra levont összeg
+## 42245.[^256] Nem fizető tagok hozamából likviditási célra levont összeg
 
 ## 4225–4228. Szolgáltatási tartalékon
 
@@ -476,7 +476,7 @@
 
 ## 452. Rövid lejáratú kölcsönök
 
-## 453.[^256] Értékpapír-kölcsönzésből eredő kötelezettségek
+## 453.[^257] Értékpapír-kölcsönzésből eredő kötelezettségek
 
 ## 461–478. Egyéb rövid lejáratú kötelezettségek
 
@@ -484,25 +484,25 @@
 
 ## 462. Költségvetési befizetési kötelezettségek
 
-## 4621. Munkaadói járulék
+## 4621.[^258] Szociális hozzájárulási adó
 
-## 4622. Munkavállalói járulék
+## 4622.[^259] Munkavállalóktól levont járulékok
 
-## 4623. Egészségügyi hozzájárulás
+## 4623.[^260]
 
 ## 4629. Külön fel nem sorolt befizetési kötelezettségek
 
 ## 463. Költségvetési befizetési kötelezettségek teljesítése
 
-## 4631. Munkaadói járulék teljesítése
+## 4631.[^261] Szociális hozzájárulási adó teljesítése
 
-## 4632. Munkavállalói járulék teljesítése
+## 4632.[^262] Munkavállalóktól levont járulékok teljesítése
 
-## 4633. Egészségügyi hozzájárulás teljesítése
+## 4633.[^263]
 
 ## 4639. Külön fel nem sorolt befizetési kötelezettségek teljesítése
 
-## 465.[^257] Nemzeti Adó- és Vámhivatal vámhatósági elszámolási számla
+## 465.[^264] Nemzeti Adó- és Vámhivatal vámhatósági elszámolási számla
 
 ## 466. Előzetesen felszámított általános forgalmi adó
 
@@ -558,7 +558,7 @@
 
 ## 493. Zárómérleg számla
 
-## 498.[^258] Tárgyévi eredmény elszámolása
+## 498.[^265] Tárgyévi eredmény elszámolása
 
 ## 5. Számlaosztály
 
@@ -620,11 +620,11 @@
 
 ## 56. BÉRJÁRULÉKOK
 
-## 561. Nyugdíjbiztosítási és egészségbiztosítási járulék
+## 561.[^266] Szociális hozzájárulási adó
 
-## 562. Egészségügyi hozzájárulás
+## 562.[^267]
 
-## 563. Munkaadói járulék
+## 563.[^268]
 
 ## 569. Egyéb bérjárulék
 
@@ -820,7 +820,7 @@
 
 ## 861. Káreseményekkel kapcsolatos fizetések, fizetendő összegek
 
-## 862.[^259] Bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések, sérelemdíjak
+## 862.[^269] Bírságok, kötbérek, fekbérek, késedelmi kamatok, kártérítések, sérelemdíjak
 
 ## 863. Működéssel kapcsolatos egyéb behajthatatlan követelés leírt összege
 
@@ -844,7 +844,7 @@
 
 ## 8725. Hitelviszonyt megtestesítő értékpapír évente történő törlesztésekor elszámolt veszteségjellegű különbözet
 
-## 8726.[^260]
+## 8726.[^270]
 
 ## 873. Befektetési jegyek realizált vesztesége
 
@@ -878,7 +878,7 @@
 
 ## 8773. Befektetési tevékenységgel kapcsolatos különböző egyéb ráfordítások
 
-## 88.[^261]
+## 88.[^271]
 
 ## 89. RÁFORDÍTÁSOK ÁTVEZETÉSI SZÁMLA
 
@@ -988,7 +988,7 @@
 
 ## 97742. Egyéb piaci értékítéletből adódó árfolyamnyereség
 
-## 98.[^262]
+## 98.[^272]
 
 ## 99. BEVÉTELEK ÁTVEZETÉSI SZÁMLA
 
@@ -998,7 +998,7 @@
 
 ## 001. HATÁRIDŐS TŐZSDEI ÜGYLETEK
 
-## 002.[^263] OPCIÓS TŐZSDEI ÜGYLETEK ÉS ÉRTÉKPAPÍR-KÖLCSÖNZÉS
+## 002.[^273] OPCIÓS TŐZSDEI ÜGYLETEK ÉS ÉRTÉKPAPÍR-KÖLCSÖNZÉS
 
 ## 0021. Opciós tőzsdei ügyletek
 
@@ -1020,25 +1020,34 @@
 
 ## 099. ELLENSZÁMLA
 
-10. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^264]
+10. számú melléklet a 223/2000. (XII. 19.) Korm. rendelethez[^274]
 
-[^245]: A 9. számú melléklet 173. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
-[^246]: A 9. számú melléklet 174. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
-[^247]: A 9. számú melléklet 36. főkönyvi számlája (36–3629. sorok) a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^248]: A 9. számú melléklet 3723. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
-[^249]: A 9. számú melléklet 3724. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
-[^250]: A 9. számú melléklet 413. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg.
-[^251]: A 9. számú melléklet 42241. pontját a 236/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^252]: A 9. számú melléklet 42242. pontját a 236/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^253]: A 9. számú melléklet 42243. pontját a 236/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
-[^254]: A 9. számú melléklet 42244. pontját a 445/2017. (XII. 27.) Korm. rendelet 13. §-a iktatta be.
-[^255]: A 9. számú melléklet 42245. pontját a 445/2017. (XII. 27.) Korm. rendelet 13. §-a iktatta be.
-[^256]: A 9. számú melléklet 453. sorát (36–3629. sorok) a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^257]: A 9. számú melléklet 465. pontja a 273/2010. (XII. 9.) Korm. rendelet 92. §-ával megállapított szöveg. E módosító rendelet 64. § (3) bekezdése alapján rendelkezéseit első ízben a 2011. évi üzleti évről készített beszámolóra kell alkalmazni.
-[^258]: A 9. számú melléklet 498. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg.
-[^259]: A 9. számú melléklet 862. pontja a 362/2014. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^260]: A 9. számú melléklet 8726. sorát a 293/2001. (XII. 26.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^261]: A 9. számú melléklet 88. pontját a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdése hatályon kívül helyezte.
-[^262]: A 9. számú melléklet 98. pontját a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdése hatályon kívül helyezte.
-[^263]: A 9. számú melléklet 002. főkönyvi számlája (002–0023. sorok) a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^264]: A 10. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 35. §-a iktatta be, a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
+[^246]: A 9. számú melléklet 173. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^247]: A 9. számú melléklet 174. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^248]: A 9. számú melléklet 36. főkönyvi számlája (36–3629. sorok) a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^249]: A 9. számú melléklet 3723. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^250]: A 9. számú melléklet 3724. sorát a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^251]: A 9. számú melléklet 413. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg.
+[^252]: A 9. számú melléklet 42241. pontját a 236/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^253]: A 9. számú melléklet 42242. pontját a 236/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^254]: A 9. számú melléklet 42243. pontját a 236/2003. (XII. 17.) Korm. rendelet 16. §-a iktatta a szövegbe, e módosító rendelet 19. §-ának (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolókra kell alkalmazni.
+[^255]: A 9. számú melléklet 42244. pontját a 445/2017. (XII. 27.) Korm. rendelet 13. §-a iktatta be.
+[^256]: A 9. számú melléklet 42245. pontját a 445/2017. (XII. 27.) Korm. rendelet 13. §-a iktatta be.
+[^257]: A 9. számú melléklet 453. sorát (36–3629. sorok) a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^258]: A 9. számú melléklet 4. alcím 44–47. pont 462. alpont 4621. alpontja a 343/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^259]: A 9. számú melléklet 4. alcím 44–47. pont 462. alpont 4621. alpontja a 343/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^260]: A 9. számú melléklet 4. alcím 44–47. pont 462. alpont 4623. alpontját a 343/2019. (XII. 23.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^261]: A 9. számú melléklet 4. alcím 44–47. pont 463. alpont 4631. alpontja a 343/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^262]: A 9. számú melléklet 4. alcím 44–47. pont 463. alpont 4632. alpontja a 343/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^263]: A 9. számú melléklet 4. alcím 44–47. pont 462. alpont 4633. alpontját a 343/2019. (XII. 23.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^264]: A 9. számú melléklet 465. pontja a 273/2010. (XII. 9.) Korm. rendelet 92. §-ával megállapított szöveg. E módosító rendelet 64. § (3) bekezdése alapján rendelkezéseit első ízben a 2011. évi üzleti évről készített beszámolóra kell alkalmazni.
+[^265]: A 9. számú melléklet 498. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdésével megállapított szöveg.
+[^266]: A 9. számú melléklet 5. alcím 56. pont 461. alpontja a 343/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^267]: A 9. számú melléklet 5. alcím 56. pont 562. alpontját a 343/2019. (XII. 23.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^268]: A 9. számú melléklet 5. alcím 56. pont 563. alpontját a 343/2019. (XII. 23.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^269]: A 9. számú melléklet 862. pontja a 362/2014. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^270]: A 9. számú melléklet 8726. sorát a 293/2001. (XII. 26.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^271]: A 9. számú melléklet 88. pontját a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdése hatályon kívül helyezte.
+[^272]: A 9. számú melléklet 98. pontját a 484/2015. (XII. 29.) Korm. rendelet 43. § (6) bekezdése hatályon kívül helyezte.
+[^273]: A 9. számú melléklet 002. főkönyvi számlája (002–0023. sorok) a 285/2005. (XII. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg. E módosító rendelet 32. § (1) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^274]: A 10. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 35. §-a iktatta be, a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
