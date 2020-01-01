@@ -1,6 +1,6 @@
 2. § (1) Ha a magánszemély a befizetett adójának legalább egyik egy százalékáról rendelkezett, és rendelkezésének teljesítése megtörtént, a teljesítés szerinti összeg kizárólag abban az esetben módosítható, ha a módosítás vagy módosítások által a teljesítés szerinti összeg kedvezményezettenként legalább ötezer forinttal növekszik, és a rendelkező nyilatkozat évét követő év július 31. napjáig
 
-a) az adóhatósági ellenőrzés során hozott – az adó összegének növekedéséről szóló – jogerős határozat alapján esedékessé vált adótöbbletet a magánszemély megfizette, vagy
+a) az adóhatósági ellenőrzés során hozott – az adó összegének növekedéséről szóló – végleges határozat alapján esedékessé vált adótöbbletet a magánszemély megfizette, vagy
 
 b) a magánszemély önellenőrzést nyújtott be, és ez alapján az adótöbbletet meg is fizette.
 

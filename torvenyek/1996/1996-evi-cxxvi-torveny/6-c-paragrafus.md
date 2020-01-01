@@ -12,7 +12,7 @@ b) teljesítése során számszakilag hibás adatot közölt, vagy nem az elszá
 
 c) teljesítése során valótlan adatot közölt,
 
-határozatával kizárja a 4. § (1) bekezdésében meghatározott kedvezményezettet a határozat jogerőre emelkedését követő rendelkező évben tett felajánlásokból történő részesedésből.
+határozatával kizárja a 4. § (1) bekezdésében meghatározott kedvezményezettet a határozat véglegessé válását követő rendelkező évben tett felajánlásokból történő részesedésből.
 
 (4) Ha az adóhatóság a 4. § (1) bekezdés a)–g) pontjában meghatározott kedvezményezett beszámolási kötelezettségének teljesítése során megállapítja, hogy a kedvezményezett az egy éves tartalékolási időt túllépte és a visszafizetési kötelezettségét nem teljesítette, erről határozatot hoz, amelyben a kedvezményezettet a közhasznú tevékenység megvalósítására az egy éves tartalékolási idő lejártáig fel nem használt, az ötezer forintot elérő összeg visszafizetésére kötelezi.
 
