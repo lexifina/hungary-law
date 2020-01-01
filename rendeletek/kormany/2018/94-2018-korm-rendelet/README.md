@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-94-20-2
 | 2019-10-01 | 2018-94-20-22.21 | 230/2019. (IX. 30.) Korm. rendelet |
 | 2019-10-25 | 2018-94-20-22.22 | 249/2019. (X. 24.) Korm. rendelet |
 | 2019-11-28 | 2018-94-20-22.23 | 282/2019. (XI. 27.) Korm. rendelet |
+| 2020-01-01 | 2018-94-20-22.24 | 341/2019. (XII. 23.) Korm. rendelet |

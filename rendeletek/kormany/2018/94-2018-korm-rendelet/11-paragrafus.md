@@ -20,6 +20,8 @@ h) a sportpolitikáért felelős miniszter, valamint a Budapest és a fővárosi
 
 i) irányítja a turizmusdiplomáciai feladatok végrehajtását,
 
-j) kizárólagosan ellátja az állami bormarketing kapcsán jelentkező valamennyi állami feladatot,
+j)[^7] ellátja a magyar borturizmus, valamint a magyar bor egységes kommunikációja kapcsán jelentkező valamennyi állami feladatot,
 
 k) előzetes véleményezési és egyetértési jogkört gyakorol a turizmussal összefüggő projektek, fejlesztések, programok kialakítását, illetve meghirdetését megelőzően.
+
+[^7]: A 11. § (2) bekezdés j) pontja a 341/2019. (XII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.

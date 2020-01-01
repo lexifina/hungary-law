@@ -6,6 +6,6 @@ b) meghatározza a gyermek- és ifjúságpolitikához tartozó területek szakma
 
 c) koordinálja a határon túli ifjúsággal való együttműködés rendszerét,
 
-d)[^35] ellátja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogramból fakadó feladatait, amelynek ellátásához és az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a miniszter az Erzsébet Ifjúsági Alap Nonprofit Közhasznú Kft. és a Nemzeti Tehetség Központ Nonprofit Kft. szolgáltatásait veszi igénybe.
+d)[^46] ellátja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogramból fakadó feladatait, amelynek ellátásához és az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a miniszter az Erzsébet Ifjúsági Alap Nonprofit Közhasznú Kft. és a Nemzeti Tehetség Központ Nonprofit Kft. szolgáltatásait veszi igénybe.
 
-[^35]: A 97. § d) pontja a 230/2019. (IX. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^46]: A 97. § d) pontja a 230/2019. (IX. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 143/A. §[^52] A miniszter a csángó ügyek vonatkozásában a nemzetpolitikáért való felelőssége körében összehangolja a központi államigazgatási szervek csángó ügyekkel összefüggő tevékenységét, ennek keretében a Kormány feladatkörében érintett tagjával együttműködik a csángók kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezésében, a csángó kulturális örökség emlékeinek és értékeinek feltárásában, megőrzésében.
+## 143/A. §[^67] A miniszter a csángó ügyek vonatkozásában a nemzetpolitikáért való felelőssége körében összehangolja a központi államigazgatási szervek csángó ügyekkel összefüggő tevékenységét, ennek keretében a Kormány feladatkörében érintett tagjával együttműködik a csángók kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezésében, a csángó kulturális örökség emlékeinek és értékeinek feltárásában, megőrzésében.
 
 ## 13. A nemzeti vagyon kezeléséért felelős tárca nélküli miniszter feladat- és hatásköre
 
@@ -18,4 +18,4 @@
 
 felelős tagja.
 
-[^52]: A 143/A. §-t a 103/2019. (V. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^67]: A 143/A. §-t a 103/2019. (V. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.

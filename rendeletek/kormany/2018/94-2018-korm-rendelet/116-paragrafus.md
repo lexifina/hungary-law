@@ -48,8 +48,14 @@
 
 23. szakképzésért és felnőttképzésért,
 
-24.[^44] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért
+24.[^55] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért,
+
+25.[^56] foglalkoztatáspolitikáért,
+
+26.[^57] társadalmi párbeszédért
 
 felelős tagja.
 
-[^44]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^55]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^56]: A 116. § 25. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^57]: A 116. § 26. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

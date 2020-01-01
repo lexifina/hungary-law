@@ -1,4 +1,4 @@
-30/C. §[^13] (1) A miniszter – az agrár-vidékfejlesztésért felelős miniszterrel és a földügyért felelős miniszterrel együttműködésben – a térképészetért való felelőssége keretében előkészíti
+30/C. §[^18] (1) A miniszter – az agrár-vidékfejlesztésért felelős miniszterrel és a földügyért felelős miniszterrel együttműködésben – a térképészetért való felelőssége keretében előkészíti
 
 a) a földmérésre, a térképészetre és a távérzékelésre, valamint – a Kormány feladatkörében érintett tagjával együttműködve – az államhatárral kapcsolatos nemzetközi kötelezettségek teljesítésére és
 
@@ -12,4 +12,4 @@ a) gondoskodik a polgári célú állami földmérési, térképészeti és a t�
 
 b) – a Kormány feladatkörében érintett tagjával közösen – biztosítja az államhatár felmérését, megjelölését, a határjelek felújítását és karbantartását, az államhatárral kapcsolatos nemzetközi kötelezettségek teljesítését.
 
-[^13]: A 30/C. §-t az 59/2019. (III. 25.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^18]: A 30/C. §-t az 59/2019. (III. 25.) Korm. rendelet 3. § (2) bekezdése iktatta be.

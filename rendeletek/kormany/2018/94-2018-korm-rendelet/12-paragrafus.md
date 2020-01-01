@@ -1,3 +1,11 @@
-12. § (1) A miniszterelnök kabinetfőnöke a vendéglátásért való felelőssége keretében előkészíti a vendéglátásra, valamint a közösségi és állami bormarketing-tevékenységre vonatkozó jogszabályokat.
+12. § (1)[^8] A miniszterelnök kabinetfőnöke a vendéglátásért való felelőssége keretében előkészíti
+
+a) a vendéglátásra, valamint
+
+b) a magyar borturizmusra, valamint a magyar bor egységes kommunikációjára
+
+vonatkozó jogszabályokat.
 
 (2) A miniszterelnök kabinetfőnöke a vendéglátásért való felelőssége keretében meghatározza a vendéglátás irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
+
+[^8]: A 12. § (1) bekezdése a 341/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@
 
 3. Budapest és a fővárosi agglomeráció fejlesztéséért,
 
-4.[^5]
+4.[^10]
 
 5. építésügyi szabályozásért és építéshatósági ügyekért,
 
@@ -38,11 +38,11 @@
 
 18. társadalmi és civil kapcsolatok fejlesztéséért,
 
-19.[^6] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
+19.[^11] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
 
-20.[^7] ingatlan-nyilvántartásért,
+20.[^12] ingatlan-nyilvántartásért,
 
-21.[^8] térképészetért
+21.[^13] térképészetért
 
 felelős tagja.
 
@@ -54,7 +54,7 @@ felelős tagja.
 
 (5) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
 
-[^5]: A 14. § (1) bekezdés 4. pontját a 157/2019. (VI. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
-[^6]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^8]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^10]: A 14. § (1) bekezdés 4. pontját a 157/2019. (VI. 28.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^11]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^13]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
