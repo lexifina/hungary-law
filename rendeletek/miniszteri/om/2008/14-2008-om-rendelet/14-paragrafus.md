@@ -30,7 +30,9 @@ b) a lovas turizmus és a lovassport országos szakmai szervezete által kiáll�
 
 (5)[^44] A Módr. hatálybalépésekor[^45] már működő szolgáltatónak 2015. január 1-jétől kell megfelelnie a Módr.-rel megállapított 13. § (1) bekezdés a) és g) pontja alapján megváltozott követelményeknek azzal, hogy nem kell megfelelni azon követelményeknek, melyeket a Módr2. alapján már nem kell teljesíteni.
 
-(6)[^46] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 5. cikke (3) bekezdésének, 9., 10. és 13. cikkének való megfelelést szolgálja.
+(5a)[^46] A Módr2. által megállapított 1. Melléklet A) rész 1.3. pontja nem alkalmazandó azon lovak megismételt alkalmassági vizsgálata során, melyekre a szolgáltató 2019. december 31-ig már megszerezte a 13/A. § (3) bekezdésében előírt alkalmasságot tanúsító hatósági bizonyítványt.
+
+(6)[^47] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 5. cikke (3) bekezdésének, 9., 10. és 13. cikkének való megfelelést szolgálja.
 
 [^32]: A 14. § (2) bekezdését a 26/2009. (X. 16.) ÖM rendelet 21. § 4. pontja hatályon kívül helyezte, újonnan a 7/2010. (II. 18.) ÖM rendelet 13. §-a iktatta be, szövege a 31/2013. (VIII. 9.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^33]: A hatálybalépés időpontja 2013. szeptember 1.
@@ -46,4 +48,5 @@ b) a lovas turizmus és a lovassport országos szakmai szervezete által kiáll�
 [^43]: A hatálybalépés időpontja 2013. szeptember 1.
 [^44]: A 14. § (5) bekezdését a 26/2009. (X. 16.) ÖM rendelet 21. § 4. pontja hatályon kívül helyezte, újonnan a 31/2013. (VIII. 9.) NGM rendelet 10. § (2) bekezdése iktatta be, szövege a 22/2014. (VI. 27.) NGM rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^45]: A hatálybalépés időpontja 2013. szeptember 1.
-[^46]: A 14. § (6) bekezdése a 26/2009. (X. 16.) ÖM rendelet 20. § 4. pontja szerint módosított szöveg.
+[^46]: A 14. § (5a) bekezdését a 22/2014. (VI. 27.) NGM rendelet 4. § (6) bekezdése iktatta be.
+[^47]: A 14. § (6) bekezdése a 26/2009. (X. 16.) ÖM rendelet 20. § 4. pontja szerint módosított szöveg.
