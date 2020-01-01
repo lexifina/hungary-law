@@ -1,6 +1,6 @@
 4. § (1)[^2] A turisztikai ügynökség javaslatot tesz a turizmusért felelős miniszternek
 
-a) a turizmust, különösen a turisztikai marketingtevékenységet, a turisztikai országmárka-fejlesztést, valamint annak külföldi és hazai kommunikációját, az utazásszervező és -közvetítő tevékenységet, az utazási és utazást közvetítői szerződést, a falusi és agroturizmust, az egészségturizmust, a szálláshely-szolgáltatást, a lovas turisztikai szolgáltatást, az idegenvezetést, a konferenciaturizmust, a nemzetközi küldőpiacok fejlesztését és az ott folyó munka szakmai irányítását, valamint a vendéglátást és bormarketinget érintő szabályozásra, egyúttal részt vesz a feladatait érintő előterjesztések közigazgatási egyeztetésében, véleményezésében, véleményt nyilvánít a turizmussal, a turisztikai felsőoktatási képzéssel és szakemberképzéssel, valamint idegenforgalmi, turisztikai, vendéglátó- és szállodaipari szakmunkásképzéssel és a vendéglátással kapcsolatos jogalkalmazási kérdésekben,
+a)[^3] a turizmust, különösen a turisztikai marketingtevékenységet, a turisztikai országmárka-fejlesztést, valamint annak külföldi és hazai kommunikációját, az utazásszervező és -közvetítő tevékenységet, az utazási és utazást közvetítői szerződést, a falusi és agroturizmust, a borturizmust, a magyar bor egységes állami kommunikációját, az egészségturizmust, a szálláshely-szolgáltatást, a lovas turisztikai szolgáltatást, az idegenvezetést, a konferenciaturizmust, a nemzetközi küldőpiacok fejlesztését és az ott folyó munka szakmai irányítását, valamint a vendéglátást érintő szabályozásra, egyúttal részt vesz a feladatait érintő előterjesztések közigazgatási egyeztetésében, véleményezésében, véleményt nyilvánít a turizmussal, a turisztikai felsőoktatási képzéssel és szakemberképzéssel, valamint idegenforgalmi, turisztikai, vendéglátó- és szállodaipari szakmunkásképzéssel és a vendéglátással kapcsolatos jogalkalmazási kérdésekben,
 
 b) minden turisztikai termékre és szegmensre vonatkozóan, valamint az attrakció- és desztinációfejlesztés vonatkozásában,
 
@@ -12,7 +12,7 @@ e) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabá
 
 f) az Országos Képzési Jegyzék turisztikai és vendéglátóipari szakmacsoportjainak fejlesztésére,
 
-g) a turizmust és a vendéglátást és állami bormarketinget érintő stratégiai dokumentumokra (koncepciókra, stratégiákra, fejlesztési programokra), különös tekintettel a 2017–2026. évekre vonatkozó Nemzeti Turizmusfejlesztési Koncepcióra és az országmárka-kommunikációra,
+g)[^4] a turizmust és a vendéglátást és a magyar bor egységes állami kommunikációját érintő stratégiai dokumentumokra (koncepciókra, stratégiákra, fejlesztési programokra), különös tekintettel a 2017–2026. évekre vonatkozó Nemzeti Turizmusfejlesztési Koncepcióra és az országmárka-kommunikációra,
 
 h) turisztikai desztinációk és kiemelt turisztikai fejlesztési térségek meghatározására, azok fejlesztését támogató beavatkozási programra, márkaépítést támogató marketingtevékenységre, szervezetfejlesztésre,
 
@@ -25,3 +25,5 @@ j) a turisztikai tárgyú szakpolitikai döntéseket megalapozó és fejlesztés
 (3) A turizmusért felelős miniszter az (1) bekezdés c) pontja alapján javaslatot tesz a kereskedelmi hatóság irányítását ellátó miniszter számára a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet szerinti ellenőrzési terv tartalmára vonatkozóan.
 
 [^2]: A 4. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdés a) pontja a 341/2019. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (1) bekezdés g) pontja a 341/2019. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.

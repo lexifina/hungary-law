@@ -1,4 +1,4 @@
-5. § (1)[^3] A turisztikai ügynökség
+5. § (1)[^5] A turisztikai ügynökség
 
 1. ellátja a Széchenyi Pihenő Kártyával kapcsolatos turisztikai szakmai feladatokat, részt vesz a feladatok végrehajtásának ellenőrzésében,
 
@@ -28,13 +28,13 @@
 
 14. koordinálja a turizmusfejlesztési feladatokat és a kiemelt állami turisztikai fejlesztéseket, kapcsolatot tart a turizmus és a vendéglátás fejlesztésében érintett kormányzati és nem kormányzati szereplőkkel, szervezi együttműködésüket,
 
-15. állami bormarketing tevékenysége keretében kidolgozza a közösségi bormarketinghez az állami bormarketing programot, az állami bormarketing eszközeinek alkalmazásával támogatja a magyar borok kül- és belpiaci értékesítését, segíti a termelők, kiemelten a kis- és középvállalkozások, valamint a feldolgozók és forgalmazók piaci munkáját, kapcsolatot tart az érintett terméktanácsokkal, szakmai szervezetekkel, kormányzati és nem kormányzati szereplőkkel,
+15.[^6] a borturizmushoz kapcsolódó tevékenysége keretében kidolgozza a magyar borkultúra, valamint a magyar borvidékek hazai és külföldi népszerűsítését célzó programot, marketing-kommunikációs eszközök alkalmazásával támogatja a magyar bor egységes és magas színvonalú megjelenítését itthon és külföldön, kapcsolatot tart az érintett terméktanácsokkal, szakmai szervezetekkel, kormányzati és nem kormányzati szereplőkkel,
 
 16. együttműködik a Magyarország külképviseletein működő turisztikai szakdiplomatákkal, a külgazdasági attasékkal, valamint a Nemzeti Befektetési Ügynökség (HIPA) és a Nemzeti Kereskedőház szakterületi vezetőivel a nemzetközi promóciós tevékenységek összehangolását illetően,
 
 17. együttműködik a kiemelt budapesti beruházásokért felelős kormánybiztossal, és szakmai javaslatokat fogalmaz meg a kiemelt, turisztikai hatással bíró fejlesztéseket illetően,
 
-18.[^4] a Kormány által vagy saját hatáskörben meghozott támogatói döntés alapján – az egyes Kárpát-medencei gazdaságélénkítő programok és összehangolt fejlesztési feladatok, valamint turisztikai fejlesztések koordinációjáért felelős kormánybiztos előzetes tájékoztatásával – támogatja a határon túli egyes turisztikai fejlesztéseket,
+18.[^7] a Kormány által vagy saját hatáskörben meghozott támogatói döntés alapján – az egyes Kárpát-medencei gazdaságélénkítő programok és összehangolt fejlesztési feladatok, valamint turisztikai fejlesztések koordinációjáért felelős kormánybiztos előzetes tájékoztatásával – támogatja a határon túli egyes turisztikai fejlesztéseket,
 
 19. kidolgozza a turisztikai országmárka-koncepciót, és megvalósítja a kapcsolódó stratégiai programokat, annak teljes körű desztinációs és termékkínálati fejlesztését,
 
@@ -48,37 +48,38 @@
 
 24. gondoskodik a közvetlen hatáskörébe tartozó nemzetközi turisztikai vonzatú rendezvényeken való részvételről, és végzi a kapcsolódó rendezvényszervezési feladatokat, illetve szakmai felügyeletet gyakorol az egységes turisztikai országmárka szempontjainak érvényesítése vonatkozásában a nemzetközi kiállításokon, rendezvényeken való magyar állami megjelenés kapcsán,
 
-25.[^5] közreműködik a nemzeti rendezvények koncepciójának kidolgozásában,
+25.[^8] közreműködik a nemzeti rendezvények koncepciójának kidolgozásában,
 
-26.[^6] közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, gondoskodik a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokról, valamint a turizmusért felelős miniszter delegálása alapján ellátja a Kiállítások Nemzetközi Irodája (Bureau International des Expositions, BIE) nemzetközi szervezetben az ország képviseletét,
+26.[^9] közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, gondoskodik a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokról, valamint a turizmusért felelős miniszter delegálása alapján ellátja a Kiállítások Nemzetközi Irodája (Bureau International des Expositions, BIE) nemzetközi szervezetben az ország képviseletét,
 
-27.[^7] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához, valamint közreműködik a visegrádi négyek országai közötti E-sport bajnokság és konferencia megrendezésében,
+27.[^10] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához, valamint közreműködik a visegrádi négyek országai közötti E-sport bajnokság és konferencia megrendezésében,
 
-28.[^8] a turisztikai szempontból jelentős rendezvények rendezvényszervezőiből, a logisztikai, katasztrófavédelmi, közlekedési, rendészeti és egyéb, a rendezvények szervezésében érintett hatósági személyek képviselőiből álló szakmai testületet kér fel, amely koordinálja és szakmai szempontból támogatja a belföldi és nemzetközi turisztikai vonzerő szempontjából kiemelt rendezvényeket, erre vonatkozóan javaslatokat tesz,
+28.[^11] a turisztikai szempontból jelentős rendezvények rendezvényszervezőiből, a logisztikai, katasztrófavédelmi, közlekedési, rendészeti és egyéb, a rendezvények szervezésében érintett hatósági személyek képviselőiből álló szakmai testületet kér fel, amely koordinálja és szakmai szempontból támogatja a belföldi és nemzetközi turisztikai vonzerő szempontjából kiemelt rendezvényeket, erre vonatkozóan javaslatokat tesz,
 
-29.[^9] működteti a szakmai testület munkáját segítő Nemzeti Rendezvénykoordinációs Központot; egyes, a fenti célok, stratégiai szempontok szerint kiemelt rendezvények, rendezvénysorozatok, évadok megszervezését saját hatáskörben tervezi és valósítja meg,
+29.[^12] működteti a szakmai testület munkáját segítő Nemzeti Rendezvénykoordinációs Központot; egyes, a fenti célok, stratégiai szempontok szerint kiemelt rendezvények, rendezvénysorozatok, évadok megszervezését saját hatáskörben tervezi és valósítja meg,
 
-30.[^10] más szervezetekkel együttműködve gondoskodik a nemzeti ünnepek megszervezéséről és lebonyolításáról,
+30.[^13] más szervezetekkel együttműködve gondoskodik a nemzeti ünnepek megszervezéséről és lebonyolításáról,
 
-31.[^11] működteti a tulajdonosi joggyakorlása alá tartozó Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft.-t, amely útján gondoskodik a hatáskörébe utalt rendezvények teljes körű lebonyolításáról,
+31.[^14] működteti a tulajdonosi joggyakorlása alá tartozó Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft.-t, amely útján gondoskodik a hatáskörébe utalt rendezvények teljes körű lebonyolításáról,
 
-32.[^12] a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú gazdasági társaság útján kidolgozza a magyar divat- és designipari stratégiát, koordinálja és összehangolja a belföldi és a külföldi regionális divat- és designipari megjelenéseket, szakmai koordinációt végez és javaslatokat fogalmaz meg a divat- és designipar területén működő hazai szervezetek között az egységes szakmai módszertanok érvényesítése érdekében,
+32.[^15] a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú gazdasági társaság útján kidolgozza a magyar divat- és designipari stratégiát, koordinálja és összehangolja a belföldi és a külföldi regionális divat- és designipari megjelenéseket, szakmai koordinációt végez és javaslatokat fogalmaz meg a divat- és designipar területén működő hazai szervezetek között az egységes szakmai módszertanok érvényesítése érdekében,
 
-33.[^13] a 8., 15. és 24. pontban felsorolt, valamint egyéb marketing- és kommunikációs tevékenységéhez kapcsolódó feladatait egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el,
+33.[^16] a 8., 15. és 24. pontban felsorolt, valamint egyéb marketing- és kommunikációs tevékenységéhez kapcsolódó feladatait egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el,
 
-34.[^14] a 14. ponttól eltérően a kiemelt turisztikai fejlesztési térségekben megvalósítandó fejlesztési feladatokhoz kapcsolódó szakmai koordinációt a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú, a Kormány egyedi határozatában kijelölt gazdasági társaság útján látja el.
+34.[^17] a 14. ponttól eltérően a kiemelt turisztikai fejlesztési térségekben megvalósítandó fejlesztési feladatokhoz kapcsolódó szakmai koordinációt a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú, a Kormány egyedi határozatában kijelölt gazdasági társaság útján látja el.
 
 (2) Az (1) bekezdés 4. pontja szerinti feladat nem terjed ki a 4. § (2) bekezdésében meghatározott feladat- és határkörök gyakorlójaként kijelölt szerv feladat- és hatáskörébe tartozó feladatokra.
 
-[^3]: Az 5. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (1) bekezdés 18. pontja az 51/2019. (III. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (1) bekezdés 25. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^6]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 454/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 198/2019. (VIII. 1.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^8]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^9]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^10]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^11]: Az 5. § (1) bekezdés 31. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^12]: Az 5. § (1) bekezdés 32. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
-[^13]: Az 5. § (1) bekezdés 33. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
-[^14]: Az 5. § (1) bekezdés 34. pontját az 51/2019. (III. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^5]: Az 5. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés 15. pontja a 341/2019. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (1) bekezdés 18. pontja az 51/2019. (III. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (1) bekezdés 25. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^9]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 454/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 198/2019. (VIII. 1.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^11]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^12]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^13]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^14]: Az 5. § (1) bekezdés 31. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^15]: Az 5. § (1) bekezdés 32. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
+[^16]: Az 5. § (1) bekezdés 33. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
+[^17]: Az 5. § (1) bekezdés 34. pontját az 51/2019. (III. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
