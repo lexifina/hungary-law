@@ -1,35 +1,35 @@
 36. § (1) A pénztár likviditási és kockázati célú eredményének megállapításánál a likviditási és kockázati célú bevételek a következők:
 
-a)[^161] Tagok által fizetett tagdíj: az Mpt. 4. §-a (2) bekezdésének d) pontjában meghatározott tagdíjnak az Mpt. 60. §-ának (1) bekezdésében meghatározott célokra szolgáló – az SzMSz-ben és a pénzügyi tervben meghatározott – része.
+a)[^162] Tagok által fizetett tagdíj: az Mpt. 4. §-a (2) bekezdésének d) pontjában meghatározott tagdíjnak az Mpt. 60. §-ának (1) bekezdésében meghatározott célokra szolgáló – az SzMSz-ben és a pénzügyi tervben meghatározott – része.
 
-b)–c)[^162]
+b)–c)[^163]
 
-d)[^163] Meg nem fizetett tagdíjak miatti tartalékképzés: a tárgynegyedév végéig, vagy a mérleg fordulónapjáig előírt, de a tárgynegyedév végéig, illetve a mérleg fordulónapjáig pénzügyileg nem rendezett likviditási és kockázati célú tagdíjak összegében ráfordításként elszámolt tartalékképzés.
+d)[^164] Meg nem fizetett tagdíjak miatti tartalékképzés: a tárgynegyedév végéig, vagy a mérleg fordulónapjáig előírt, de a tárgynegyedév végéig, illetve a mérleg fordulónapjáig pénzügyileg nem rendezett likviditási és kockázati célú tagdíjak összegében ráfordításként elszámolt tartalékképzés.
 
 e) Utólag befolyt tagdíj: a meg nem fizetett likviditási és kockázati célú tagdíjak miatti tartalék felhasználás a tárgyidőszakban befolyt tagdíjhátralék összegében.
 
-f)–h)[^164]
+f)–h)[^165]
 
-i)[^165] Likviditási és kockázati célú egyéb bevétek: az előző üzleti években hitelezési veszteségként leírt követelésekre történt befizetések likviditási és kockázati tartalékot megillető része. Ezen a soron kell kimutatni a pénztártag más pénztárba történő átlépésekor vagy tagsági viszonyának egyéb módon történő megszűnésekor, a pénztárnál kimutatott likviditási és kockázati célú tagdíjhátralékának összegében a meg nem fizetett tagdíjak tartalékának felhasználását.
+i)[^166] Likviditási és kockázati célú egyéb bevétek: az előző üzleti években hitelezési veszteségként leírt követelésekre történt befizetések likviditási és kockázati tartalékot megillető része. Ezen a soron kell kimutatni a pénztártag más pénztárba történő átlépésekor vagy tagsági viszonyának egyéb módon történő megszűnésekor, a pénztárnál kimutatott likviditási és kockázati célú tagdíjhátralékának összegében a meg nem fizetett tagdíjak tartalékának felhasználását.
 
 (2) Likviditási és kockázati célú egyéb ráfordítások között kell kimutatni a pénztártag más pénztárba történő átlépésekor vagy tagsági viszonyának egyéb módon történő megszűnésekor a pénztárnál kimutatott, likviditási és kockázati célú tagdíjhátralékának az üzleti évben leírt összegét, valamint a külön soron nem nevesített egyéb likviditási és kockázati célú ráfordítások összegét.
 
-(3)[^166] Likviditási és kockázati célú befektetési tevékenységgel kapcsolatos bevételként kell kimutatni a likviditási és kockázati célú bevételekből eszközölt befektetések – 34. § (5) bekezdésének a)–g) pontja szerinti jogcímeken elszámolt – hozambevételeket.
+(3)[^167] Likviditási és kockázati célú befektetési tevékenységgel kapcsolatos bevételként kell kimutatni a likviditási és kockázati célú bevételekből eszközölt befektetések – 34. § (5) bekezdésének a)–g) pontja szerinti jogcímeken elszámolt – hozambevételeket.
 
 (4) Likviditási és kockázati célú befektetéssel kapcsolatos ráfordításként kell kimutatni a pénztár likviditási és kockázati célú befektetési tevékenységével kapcsolatos – a 34. § (6) bekezdésének a)–g) pontja szerinti jogcímeken elszámolt – ráfordítások összegét.
 
-(5)[^167] Az eredménykimutatásban külön soron be kell mutatni az azonosítatlan (függő) befizetések befektetéséből származó bevételeket és ráfordításokat.
+(5)[^168] Az eredménykimutatásban külön soron be kell mutatni az azonosítatlan (függő) befizetések befektetéséből származó bevételeket és ráfordításokat.
 
-(6)[^168] Likviditási és kockázati célú befektetési tevékenység eredménye (nettó hozam) a likviditási és kockázati célú befektetések bevételeinek (ideértve a likviditási és kockázati célú befektetési portfolió értékelési különbözetében elszámolt várható hozamot is) és ráfordításainak a különbözete.
+(6)[^169] Likviditási és kockázati célú befektetési tevékenység eredménye (nettó hozam) a likviditási és kockázati célú befektetések bevételeinek (ideértve a likviditási és kockázati célú befektetési portfolió értékelési különbözetében elszámolt várható hozamot is) és ráfordításainak a különbözete.
 
-(7)[^169] Likviditási és kockázati céltartalékként kell kimutatni az (1) bekezdés a)–i) pontja szerinti likviditási és kockázati célú bevételek, valamint a (3) bekezdés szerinti likviditási és kockázati célú befektetési tevékenység bevételei együttes összegének és a (2) bekezdés szerinti likviditási és kockázati célú egyéb ráfordítások, valamint a (4) bekezdés szerinti likviditási és kockázati célú befektetési tevékenység ráfordításai együttes összegének különbözetében – a demográfiai, a saját tevékenységi kockázatokra, az egyéb likviditási és kockázati célokra, valamint az azonosítatlan (függő) befizetések hozamára – ráfordításként megképzett céltartalékot, továbbá az értékelési különbözetből képzett céltartalékot.
+(7)[^170] Likviditási és kockázati céltartalékként kell kimutatni az (1) bekezdés a)–i) pontja szerinti likviditási és kockázati célú bevételek, valamint a (3) bekezdés szerinti likviditási és kockázati célú befektetési tevékenység bevételei együttes összegének és a (2) bekezdés szerinti likviditási és kockázati célú egyéb ráfordítások, valamint a (4) bekezdés szerinti likviditási és kockázati célú befektetési tevékenység ráfordításai együttes összegének különbözetében – a demográfiai, a saját tevékenységi kockázatokra, az egyéb likviditási és kockázati célokra, valamint az azonosítatlan (függő) befizetések hozamára – ráfordításként megképzett céltartalékot, továbbá az értékelési különbözetből képzett céltartalékot.
 
-[^161]: A 36. § (1) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 36. § 3. pontja szerint módosított szöveg.
-[^162]: A 36. § (1) bekezdés b)–c) pontját a 114/2012. (VI. 8.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
-[^163]: A 36. § (1) bekezdés d) pontja a 114/2012. (VI. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^164]: A 36. § (1) bekezdésének f)–h) pontját a 287/2002. (XII. 23.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
-[^165]: A 36. § (1) bekezdés i) pontja a 114/2012. (VI. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^166]: A 36. § (3) bekezdése a 287/2002. (XII. 23.) Korm. rendelet 19. § (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 78. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
-[^167]: A 36. § (5) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 78. §-a hatályon kívül helyezte, újonnan a 342/2011. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^168]: A 36. § (6) bekezdése a 287/2002. (XII. 23.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
-[^169]: A 36. § (7) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^162]: A 36. § (1) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 36. § 3. pontja szerint módosított szöveg.
+[^163]: A 36. § (1) bekezdés b)–c) pontját a 114/2012. (VI. 8.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^164]: A 36. § (1) bekezdés d) pontja a 114/2012. (VI. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^165]: A 36. § (1) bekezdésének f)–h) pontját a 287/2002. (XII. 23.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.
+[^166]: A 36. § (1) bekezdés i) pontja a 114/2012. (VI. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^167]: A 36. § (3) bekezdése a 287/2002. (XII. 23.) Korm. rendelet 19. § (1) bekezdésével megállapított és a 396/2007. (XII. 27.) Korm. rendelet 78. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^168]: A 36. § (5) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 78. §-a hatályon kívül helyezte, újonnan a 342/2011. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^169]: A 36. § (6) bekezdése a 287/2002. (XII. 23.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
+[^170]: A 36. § (7) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
