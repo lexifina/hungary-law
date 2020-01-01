@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-155-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2016-155-00-00.5 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 2016-155-00-00.6 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2016-155-00-00.7 |
+| 2020-01-01 | 2019. évi CIX. törvény | 2016-155-00-00.8 |

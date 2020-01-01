@@ -46,7 +46,7 @@ i) az MNB mint adatfelhasználó által jelölt tag.
 
 (7) Az OST tagja, elnöke olyan személy lehet, aki büntetlen előéletű, és nem áll a statisztikusi végzettséghez kötött foglalkozástól eltiltás hatálya alatt (a továbbiakban együtt: kizáró ok).
 
-(8) Nem bízható meg az OST tagjának, aki nem felel meg a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 39. § (1)–(1c) bekezdéseiben foglalt feltételeknek.
+(8) Nem bízható meg az OST tagjának, aki nem felel meg a Kit. 82. § (1)–(4) bekezdésében foglalt feltételeknek.
 
 (9) Az OST tagja a megbízásával egyidejűleg hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn kizáró ok.
 
