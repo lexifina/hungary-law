@@ -1,25 +1,45 @@
-## III/A. Fejezet
+## 13/M. A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántartás
 
-## A HONVÉDELMI CÉLBÓL RÖGZÍTETT BIOMETRIKUS ADATOK NYILVÁNTARTÁSA
+24/P. § (1) A regenerálódási és rekreációs szolgáltatásokkal (e fejezet alkalmazásában a továbbiakban: rekreációs szolgáltatások) kapcsolatos nyilvántartásban (e fejezet alkalmazásában a továbbiakban: rekreációs nyilvántartás) a rekreációs szolgáltatások igénybevételének rendjét szabályozó, a hatályos jogszabályban meghatározott, a rekreációs szolgáltatásokat ténylegesen igénybe vevő, vagy igénybe venni szándékozó
 
-24/P. § (1) A Honvédség erői, mint adatfeldolgozók és a KNBSZ, mint adatkezelő a Hvt.-ben meghatározott feladatok és külföldi művelet végrehajtása során ujj- vagy tenyérnyomatot, DNS mintát, íriszképet, arcképet, kéz érhálózatot, hangmintát, egyéni írásképet, és egyéni mozgásképet, mint biometrikus adatokat kezelhetnek.
+a) igényjogosult és családtagjai,
 
-(2) Az (1) bekezdés szerinti adatkezelés célja
+b) igényjogosult nem igényjogosult hozzátartozója,
 
-a) a honvédelmi, nemzetbiztonsági és rendészeti feladat hatékony végrehajtásának támogatása,
+c) igényjogosulti körbe nem tartozó személy,
 
-b) a Honvédség külföldi katonai szerepvállalásaihoz kötődő műveleti biztonsági feladatok ellátása,
+d) a Honvédelmi Minisztériummal együttműködési megállapodást kötött honvédségi érdekvédelmi és civil szervezetek tagjai,
 
-c) a műveletekben résztvevő állomány és a további műveletek biztonságának szavatolása,
+e) a honvédelem érdekében tevékenykedő, a d) pont hatálya alá nem tartozó civil szervezetek tisztségviselői, jelenlegi és volt tagjai,
 
-d) a műveletekkel összefüggő fenyegetések feltérképezése,
+f) határozott időtartamú szerződés alapján a Honvéd Kemping területén tárolt lakókocsi, lakóautó tulajdonosának, üzembentartójának
 
-e) a nemzetbiztonságot veszélyeztető terrorszervezetek, terrorcselekmények és a terrorizmus finanszírozásának felderítése,
+a 21. melléklet szerinti adatait a rekreációs szolgáltatásokkal kapcsolatos koordinációs, illetve adminisztratív feladatok végrehajtása kijelölt honvédelmi szervezetek kezelik.
 
-f) a b)–e) pontokkal összefüggő szövetségesi együttműködés támogatása, vagy
+(2) A rekreációs nyilvántartás a 21. melléklet a) és b) pontjában, c) pont cb)–cd) alpontjában, valamint f) pont fc) alpontjában felsorolt adatokat a HM KGIR személyügyi szakterület nyilvántartásából, az f) pont fa) alpontjában felsorolt adatot a HM KGIR pénzügyi szakterület nyilvántartásából veszi át és tartja nyilván a rekreációs nyilvántartás elektronikus rendszerében.
 
-g) Magyarország honvédelmi és nemzetbiztonsági érdekeinek előmozdítása.
+(3) A rekreációs nyilvántartásban történő adatkezelés célja:
 
-(3) Az (1) bekezdés szerinti adatkezelés feltétele, hogy az adatkezelés olyan helyen valósuljon meg, amely kockázatot vagy fenyegetést jelent a (2) bekezdés szerint elérni kívánt cél tekintetében.
+a) a rekreációs szolgáltatásokat igénybe venni szándékozó igénylők nyilvántartásba vétele,
 
-(4) Az (1) bekezdés szerinti adatkezelés a műveleti területen megjelenő, a Honvédség kijelölt erőit támogató, azzal szembenálló, vagy azzal kapcsolatba kerülő civil személyek, valamint a szembenálló katonai erők tagjai esetében végezhető.
+b) az igénylő igényjogosultságának megállapítása, ellenőrzése,
+
+c) az igénylő családtagja családtagi, illetve nem igényjogosult hozzátartozói minőségének megállapítása, ellenőrzése,
+
+d) igények visszaigazolása, beutaló kiállítása,
+
+e) speciális elhelyezési és étkezési igények kielégítése,
+
+f) százalékos mértékű kedvezményes térítési díj megfizetésének megállapítása,
+
+g) harmadik és további gyermek utáni térítési díj elengedésének megállapítása,
+
+h) igénybe nem vett szolgáltatás teljes vagy csökkentett összegben történő megfizetésének, illetve visszafizetésének elbírálása,
+
+i) visszamondott férőhelyek feltöltése a pótigények alapján, a megüresedett férőhelyek függvényében,
+
+j) a rekreációs szolgáltatások igénybevételének nyilvántartása, és
+
+k) határozott időtartamú szerződés megkötése lakókocsi, lakóautó Honvéd Kemping területén történő tárolásához.
+
+(4) A rekreációs nyilvántartásban szereplő adatok 3 hónapig, ettől eltérően a 21. melléklet a) pont aa)–ae) alpontjában foglalt adatok 3 évig, a könyvviteli elszámolást közvetlenül alátámasztó számviteli bizonylatok adatai kiállításukat követő 8 évig kezelhetőek.

@@ -1,6 +1,6 @@
 ## 13/A. Zártkörű rendezvényekkel kapcsolatos nyilvántartások
 
-21/B. § (1) A honvédelmi szervezet zártkörű rendezvény megszervezése, illetve honvédelmi érdek érvényesítése céljából a rendezvényen résztvevő érintettek következő adatait kezelheti:
+21/B. § (1) A honvédelmi szervezet zártkörű rendezvény megszervezése, illetve honvédelmi érdek érvényesítése céljából a rendezvényen résztvevő érintettek következő adatait kezeli:
 
 a) családi és utónév,
 

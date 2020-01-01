@@ -1,11 +1,33 @@
-30. § (1) A hadkötelezettség bevezetése esetén, a hadkötelezettség fennállása idejéig a 40. életévüket tárgyév december 31-ig be nem töltő hadkötelesekre vonatkozóan a Honvédség katonai igazgatási és központi adatfeldolgozó szerve számára az e §-ban meghatározott szervek szolgáltatnak adatot. Az e §-ban meghatározott adatszolgáltatási kötelezettség – a (4) és az (5) bekezdésben meghatározottak kivételével – nem érinti a 29. §-ban meghatározott adatszolgáltatási kötelezettség teljesítését.
+30. § (1) A 29. §-ban meghatározott adatszolgáltatásokat
 
-(2) A személyiadat- és lakcímnyilvántartást kezelő szerv minden hónap 5. napjáig adatot szolgáltat az (1) bekezdés szerinti, Magyarországon lakóhellyel vagy – ennek hiányában – tartózkodási hellyel rendelkező személyekről.
+a) a személyiadat- és lakcímnyilvántartást kezelő szerv
 
-(3) A választási szerv adatot szolgáltat azokról az (1) bekezdés szerinti személyekről, akiket országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, kisebbségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy annak megválasztottak, illetve megbízatásuk megszűnt a hadkötelezettség elrendelésétől számított 5 napon belül, valamint a hadkötelezettség fennállásának idején a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül.
+aa) a hadköteles korba lépőkről a hadköteles nyilvántartásba vétel évének január 31. napjáig,
 
-(4) A személyiadat- és lakcímnyilvántartást kezelő szerv a hadköteles nyilvántartásban nyilvántartott adatok pontosításához adatot szolgáltat az (1) bekezdés szerinti személy elhalálozásáról minden hónap 5. napjáig.
+ab) a magyar állampolgárságot a magyar állampolgárságról szóló törvény alapján megszerzőkről, ha magyarországi lakóhellyel rendelkeznek, haladéktalanul, valamint a külföldről hazatérő magyar állampolgárokról a magyarországi lakóhelyük bejelentését követő 8 napon belül,
 
-(5) Az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
+ac) a hadköteles nyilvántartásban szereplő személy elhalálozásáról a hadkötelezettségtől eltérő időszakban minden hónap 5. napjáig, a hadkötelezettség fennállásának idején 8 napon belül,
 
-(6) Az (1) bekezdés szerinti személyek közül a szabadságvesztés büntetésüket töltő személyek esetén a szabadságvesztés büntetés megkezdésének időpontjáról, a szabadulás várható idejéről és a szabadulás időpontjáról a Büntetés-végrehajtás Országos Parancsnokságának illetékes szerve minden hónap 5. napjáig szolgáltat adatot.
+ad) a hadköteles nyilvántartásban lévőkről a 8. melléklet szerinti adataik megváltozását követő 8 napon belül,
+
+b) a Honvédség központi személyügyi szerve, valamint a kiképzési nyilvántartást vezető kiképzést végző honvédelmi szervezet minden hónap 5. napjáig,
+
+c) a Honvédség központi egészségügyi szerve a 29. § g) pont ga) alpontjára vonatkozó adatokról minden hónap 5. napjáig, a 29. § g) pont gb) alpontjára vonatkozó adatokról minden év július 31. napjáig,
+
+d) a rendvédelmi szervek, a közúti közlekedési nyilvántartó szerv, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség, a rehabilitációs szakértői szerv, a Büntetés-végrehajtás Országos Parancsnokságának illetékes szerve, a gondnokoltak nyilvántartását vezető hatóság, az illetékes fővárosi és megyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
+
+e) a választási szerv a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül, a név és személyi azonosító, vagy természetes személyazonosító adatokkal,
+
+f) az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról 8 napon belül,
+
+g) a köznevelési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv és a honvéd tisztképzésért felelős szerv, honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet minden év február 28. napjáig és július 31. napjáig,
+
+h) a társadalombiztosítási azonosító jel nyilvántartását vezető szerv minden hónap 5. napjáig,
+
+i) a jogszabály alapján meghagyásba bevont szervezet a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig
+
+küldi meg a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére.
+
+(2) A 29. §-ban meghatározott adatszolgáltatók az adatszolgáltatásokat a hadkötelezettség elrendelését követő 5 napon belül megküldik a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére.
+
+(3) Az (1) bekezdés a), b) és d) pontjában meghatározott adatszolgáltatások az adattal rendelkező szerv hozzájárulásával, annak adatbázisában, az e törvényben meghatározott adatkörhöz történő közvetlen hozzáféréssel is biztosíthatóak.

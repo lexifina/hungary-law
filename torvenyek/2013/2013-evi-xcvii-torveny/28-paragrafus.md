@@ -1,8 +1,12 @@
 28. § (1) A hadkötelezettség fennállása idején a hadkötelesek adatait
 
-a) a szükséges létszám biztosítása érdekében a rájuk vonatkozó behívhatósági korhatárig a Honvédség katonai igazgatási és központi adatfeldolgozó szerve és illetékességi területe vonatkozásában a sorozó központ,
+a) a szükséges létszám biztosítása érdekében
 
-b) a rájuk vonatkozó behívhatósági korhatár betöltését követően a Honvédség központi irattározásra kijelölt szervezete
+aa) a katonai szolgálat felső korhatáráig a Honvédség katonai igazgatási és központi adatfeldolgozó szerve, és
+
+ab) illetékességi területe vonatkozásában a rájuk vonatkozó behívhatósági korhatárig a sorozó központ,
+
+b) a katonai szolgálat felső korhatárának betöltését követően az adatok tárolása érdekében a Honvédség központi irattározási feladatát ellátó honvédelmi szervezet
 
 kezeli.
 

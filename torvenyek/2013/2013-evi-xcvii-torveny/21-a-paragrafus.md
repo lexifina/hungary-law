@@ -1,4 +1,4 @@
-21/A. § (1) Az állandó belépési engedélyek kiadására jogosult honvédelmi szervezet az állandó belépési engedélyek kiadása és az érintett azonosítása céljából kezelheti az érintett:
+21/A. § (1) Az állandó belépési engedélyek kiadására jogosult honvédelmi szervezet az állandó belépési engedélyek kiadása és az érintett azonosítása céljából kezeli az érintett:
 
 a) családi és utónevét, születési nevét, – honvéd esetén – rendfokozatát, jogviszonyát, valamint a honvédelmi szervezet megnevezését,
 
@@ -12,7 +12,7 @@ e) a belépésére használt jármű rendszámát és típusát,
 
 f) a Honvédség személyi állományába nem tartozó személy esetén az általa képviselt szervezet, szerv, gazdasági társaság megnevezését.
 
-(2) Az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet az ideiglenes belépési engedélyek kiadása és az érintett azonosítása céljából kezelheti az érintett:
+(2) Az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet az ideiglenes belépési engedélyek kiadása és az érintett azonosítása céljából kezeli az érintett:
 
 a) családi és utónevét, születési nevét, – honvéd esetén – rendfokozatát, jogviszonyát, valamint a honvédelmi szervezet megnevezését,
 
@@ -24,6 +24,8 @@ d) lakcímét,
 
 e) az adott objektumban való tartózkodás célját és időtartamát, a Honvédség személyi állományába nem tartozó személy esetén az általa képviselt szervezet, szerv, gazdasági társaság megnevezését,
 
-f) a belépésére használt jármű rendszámát és típusát.
+f) a belépésére használt jármű rendszámát és típusát,
+
+g) a kísérő és a vendég fogadására jogosult személy nevét, rendfokozatát és szervezeti egységét, a kíséréssel megvalósuló alkalmi vendégbeléptetés esetén.
 
 (3) Az adatkezelés az érintett belépési jogosultságának fennállását követő 8 évig tart.

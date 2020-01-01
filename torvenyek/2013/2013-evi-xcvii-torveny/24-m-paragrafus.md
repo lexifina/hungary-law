@@ -1,6 +1,6 @@
 ## 13/J. Katonai rendészeti szolgálattal összefüggő adatkezelések
 
-24/M. § (1) A katonai rendészeti feladatokat ellátó honvédségi szervezet jogszabályban meghatározott feladatainak ellátása céljából kezelheti az érintett következő adatait:
+24/M. § (1) A katonai rendészeti feladatokat ellátó honvédségi szervezet jogszabályban meghatározott feladatainak ellátása céljából kezeli az érintett következő adatait:
 
 a) családi és utónév, honvéd esetében állománycsoport, rendfokozat,
 

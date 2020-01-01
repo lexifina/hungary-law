@@ -12,9 +12,9 @@ a) a honvédségi nyugdíjasnak, a nyugállományú katonának, a köztársaság
 
 b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
 
-c) a korábban hadkötelezettség alapján katonai szolgálatot teljesítetteknek,
+c)
 
-d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak, és
+d) az a)–b) pont szerint ellátásra jogosult hozzátartozóinak, és
 
 e) az egyéb munkavégzésre irányuló jogviszony alapján foglalkoztatott állomány esetén a jogviszony megszűnését vagy megszüntetését követően, a Honvédséggel kötött egyéni megállapodás alapján
 
@@ -22,11 +22,11 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 
 (5) A (4) bekezdés d) pontja szerinti állomány esetén az érdekvédelmi szakterület számára előírt adatokat – az érintett hozzájárulásával – a Honvédség katonai igazgatási és központi adatfeldolgozó szerve rögzíti a HM KGIR adatbázisába.
 
-(6) Az érdekvédelmi szakterület által kezelt adatok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzés érdekében a Honvédség központi irattározásra kijelölt szervezete kezeli tovább.
+(6) Az érdekvédelmi szakterület által kezelt adatok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzés érdekében a Honvédség központi irattározási feladatát ellátó honvédelmi szervezete kezeli tovább.
 
 (7) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának, valamint elismerés adományozásának céljából elektronikus úton közvetlenül hozzáférhetnek és annak alapjául szolgáló okiratokba betekinthetnek:
 
-a) miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
+a) miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka,
 
 b) a Honvédség központi személyügyi szerve,
 

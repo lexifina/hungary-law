@@ -1,10 +1,10 @@
 11. § (1) A személyügyi szakterület által kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek a 6. § (1) bekezdésében meghatározott hozzáférés szerinti mértékben és az annak alapjául szolgáló iratokba betekinthetnek a szolgálati viszonnyal, illetve az egyéb munkavégzésre irányuló jogviszonnyal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából
 
-a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka és helyettesei,
+a) a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka és helyettesei, az altisztek vonatkozásában az MH vezénylő zászlós
 
 b) vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet személyügyi szerv kijelölt tagja,
 
-c) az alárendeltjei vonatkozásában a teljesítményértékelést végző személy, a szolgálati elöljáró és az állományilletékes parancsnok,
+c) az alárendeltjei vonatkozásában a teljesítményértékelést végző személy, a szolgálati elöljáró, az állományilletékes parancsnok, a vezénylő zászlós és a szakmai felelős,
 
 d) az állomány érintett tagjait illetően a fegyelmi, kártérítési, szabálysértési, büntető, méltatlansági, valamint a szociális ügyben eljáró személy vagy bizottság, munkacsoport tagjai, továbbá a panasz és beadvány elbírálásának előkészítésében eljáró személyek,
 
@@ -16,7 +16,7 @@ g) a honvédelmi szervezeteknél munkaügyi ellenőrzést végző szerv kijelöl
 
 h) az államháztartási belső ellenőrzési tevékenységet végző személy,
 
-i) a Honvédség központi pénzügyi és számviteli szerv kijelölt tagja,
+i) a Honvédség központi pénzügyi és számviteli feladatát ellátó honvédelmi szervezet, kijelölt tagja,
 
 j) a honvédelmi szervezeteknél az érintett illetmény számfejtését befolyásoló adatok tekintetében az illetményszámfejtést végző szerv kijelölt tagja,
 

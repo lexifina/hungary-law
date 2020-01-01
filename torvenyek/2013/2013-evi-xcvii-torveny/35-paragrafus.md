@@ -6,7 +6,7 @@
 
 (2) A veszteség-nyilvántartást a katonai szolgálat felső korhatáráig a Honvédség katonai igazgatási és központi adatfeldolgozó szerve, azt követően a Hadtörténeti Levéltár a rá vonatkozó törvényi rendelkezések szerint vezeti.
 
-(3) A veszteség-nyilvántartásban történő adatkezelés célja a Honvédség fegyveres konfliktusok következtében
+(3) A veszteség-nyilvántartásban történő adatkezelés célja a Honvédség fegyveres konfliktusok következtében, illetve szolgálatteljesítéssel összefüggően
 
 a) meghalt,
 
@@ -30,7 +30,7 @@ a) a Magyar Vöröskereszt háborús események, fegyveres konfliktusok, valamin
 
 b) a társadalombiztosítási szerv,
 
-c) a miniszter által vezetett minisztérium állami vezetői és a Honvéd vezérkar főnöke,
+c) a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai és a Honvéd vezérkar főnöke,
 
 d) a honvédségi szervezetek,
 
@@ -55,3 +55,5 @@ e) külföldi állam katonai szerveitől,
 f) külföldi államok által felállított nemzeti tájékoztató irodáktól, valamint
 
 g) nemzetközi szervezetektől.
+
+(7) A Honvédség központi személyügyi nyilvántartó szerve a (3) bekezdésben szereplő személyekről, illetve azok adataiban bekövetkezett változás esetén haladéktalanul adatot szolgáltat a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére.

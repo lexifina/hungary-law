@@ -12,6 +12,6 @@ c) a pályázati eljáráshoz és a kiválasztáshoz kapcsolódó, a pályázati
 
 (3) A pályázati nyilvántartásba a pályázati eljárás lefolytatása, a pályázó alkalmasságának megítélése céljából jogosult betekinteni, illetve abból adatokat kérni
 
-a) a miniszter által vezetett minisztérium állami vezetői és a Magyar Honvédség parancsnoka, továbbá
+a) a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai és a Magyar Honvédség parancsnoka, továbbá
 
 b) a pályázat elbírálásban résztvevő személy.

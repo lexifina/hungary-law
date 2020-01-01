@@ -4,9 +4,11 @@
 
 a) a 2. melléklet a)–c) pontja, f) pont fd) alpontja, p) pontja,
 
-b) az 5. melléklet a) és b) pontja, d) pont dg) és dh) alpontja
+b) az 5. melléklet a) és b) pontja, d) pont dg) és dh) alpontja,
 
-szerinti adataiban bekövetkezett változást a nyilvántartást vezetőnek 8 munkanapon belül köteles bejelenteni.
+c) a 14. melléklet c)–f) pontja, g) pont ga)–gb) alpontja, h) pontja és j)–k) pontja
+
+szerinti adataiban bekövetkezett változást a nyilvántartást vezetőnek 8 munkanapon belül, illetve ha a bejelentési kötelezettséget más jogszabály határozza meg, a jogszabályban meghatározott határidőig köteles bejelenteni.
 
 (3) Az érintett a (2) bekezdés szerinti adataiban bekövetkezett változást személyesen, az egyes nyilvántartásokat vezető által biztosított ügyfélszolgálaton vagy ügyfélszolgálati tevékenységet ellátó szervezeti egységnél (a továbbiakban együtt: ügyfélszolgálat), illetve az elektronikus ügyfélszolgálati rendszeren (a továbbiakban: ÜSZR) keresztül jelentheti be.
 

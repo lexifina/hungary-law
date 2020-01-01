@@ -14,9 +14,13 @@ c) fegyelmi szakterület,
 
 d) érdekvédelmi szakterület, és
 
-e) pénzügyi szakterület.
+e) pénzügyi szakterület,
 
-(2) A HM KGIR tekintetében a Honvédség központi pénzügyi és számviteli szerve, a saját személyi állományára vonatkozó adatkezelési feladatai kivételével, adatfeldolgozói feladatokat lát el és e tekintetben szerződést köt az egyes adatkezelő honvédelmi szervezetekkel.
+f) regenerálódási és rekreációs szakterület,
+
+g) logisztikai szakterület.
+
+(2) A HM KGIR tekintetében a Honvédség központi pénzügyi és számviteli feladatát ellátó honvédelmi szervezete, a saját személyi állományára vonatkozó adatkezelési feladatai kivételével, adatfeldolgozói feladatokat lát el és e tekintetben szerződést köt az egyes adatkezelő honvédelmi szervezetekkel.
 
 (3) Az (1) bekezdésben meghatározott adatkezeléseken túl, az e törvény által meghatározott személyi körre vonatkozóan, jogok érvényesítése és kötelezettségek teljesítése céljából e fejezet szerinti nyilvántartásokat kell vezetni.
 

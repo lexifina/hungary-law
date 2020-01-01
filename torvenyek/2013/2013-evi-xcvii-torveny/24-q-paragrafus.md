@@ -1,9 +1,21 @@
-24/Q. § (1) A 24/P. § (2) bekezdésében meghatározott célból kezelt, 24/P. § (1) bekezdésében meghatározott biometrikus adatokhoz ellenőrzési, felügyeleti feladataik gyakorlása és vizsgálatok lefolytatása céljából elektronikus úton hozzáférhet és az annak alapjául szolgáló iratokba betekinthet a KNBSZ főigazgatója és helyettesei, valamint a KNBSZ biometrikus adatok kezelésében résztvevő személyi állománya.
+## 13/N. Logisztikai nyilvántartás
 
-(2) A minisztert, a Magyar Honvédség parancsnokát és helyetteseit a 24/P. § (1) bekezdésében meghatározott biometrikus adatok kezeléséről a KNBSZ főigazgatója tájékoztatja.
+24/Q. § (1) A bizonylati fegyelem megszilárdítása, az állami tulajdon védelme, az anyagi felelősök, valamint a személyi állomány anyagi elszámoltathatósága céljából a logisztikai nyilvántartásban kell kezelni a Honvédség személyi állományának következő adatait:
 
-(3) A 24/P. § (1) bekezdése szerinti adatok nemzetközi katonai vagy nemzetbiztonsági célú együttműködés keretében – ha fennállnak az adattovábbítás Infotv. szerinti feltételei – továbbíthatók
+a) családi és utónév,
 
-a) olyan külföldi államnak vagy nemzetközi szervezetnek, amellyel Magyarország minősített adatok védelme tárgyában nemzetközi szerződést kötött, és
+b) születési hely, idő,
 
-b) Magyarország nemzetbiztonsági és rendészeti érdekeire figyelemmel a hatáskörrel rendelkező rendőri és idegenrendészeti szerveknek és polgári nemzetbiztonsági szolgálatoknak.
+c) anyja születési neve,
+
+d) munkahely megnevezése, székhelye, elérhetősége,
+
+e) személyügyi törzsszám,
+
+f) Central Personnel kód (CP kód).
+
+(2) Az (1) bekezdésben meghatározott adatok a HM KGIR személyügyi szakterület nyilvántartásából kerülnek átvételre.
+
+(3) Az adatokat a Honvédség központi logisztikai ellátó szervezetei, valamint a honvédelmi szervezetek kezelik.
+
+(4) A logisztikai nyilvántartásban szereplő adatok a szolgálati viszony megszűnéséig vagy megszüntetését követő ötödik év december 31-ig kezelhetők.

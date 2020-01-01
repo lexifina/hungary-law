@@ -1,3 +1,25 @@
-24/R. § (1) A 24/P. § (1) bekezdése szerinti adatkezelő a 24/P. § (1) bekezdése szerinti adatokat a rögzítéstől számított ötven évig köteles megőrizni.
+## III/A. Fejezet
 
-(2) Az (1) bekezdéstől eltérően az adatkezelő törli a rögzítést követően elhunyt személy adatait, ha azok megőrzéséhez további biztonsági érdek nem fűződik.
+## A HONVÉDELMI CÉLBÓL RÖGZÍTETT BIOMETRIKUS ADATOK NYILVÁNTARTÁSA
+
+24/R. § (1) A Honvédség erői mint adatfeldolgozók és a KNBSZ mint adatkezelő a Hvt.-ben meghatározott feladatok és külföldi művelet végrehajtása során ujj- vagy tenyérnyomatot, DNS-mintát, íriszképet, arcképet, kézérhálózatot, hangmintát, egyéni írásképet és egyéni mozgásképet mint biometrikus adatokat kezelnek.
+
+(2) Az (1) bekezdés szerinti adatkezelés célja
+
+a) a honvédelmi, nemzetbiztonsági és rendészeti feladat hatékony végrehajtásának támogatása,
+
+b) a Honvédség külföldi katonai szerepvállalásaihoz kötődő műveleti biztonsági feladatok ellátása,
+
+c) a műveletekben részt vevő állomány és a további műveletek biztonságának szavatolása,
+
+d) a műveletekkel összefüggő fenyegetések feltérképezése,
+
+e) a nemzetbiztonságot veszélyeztető terrorszervezetek, terrorcselekmények és a terrorizmus finanszírozásának felderítése,
+
+f) a b)–e) pontokkal összefüggő szövetségesi együttműködés támogatása, vagy
+
+g) Magyarország honvédelmi és nemzetbiztonsági érdekeinek előmozdítása.
+
+(3) Az (1) bekezdés szerinti adatkezelés feltétele, hogy az adatkezelés olyan helyen valósuljon meg, amely kockázatot vagy fenyegetést jelent a (2) bekezdés szerint elérni kívánt cél tekintetében.
+
+(4) Az (1) bekezdés szerinti adatkezelés a műveleti területen megjelenő, a Honvédség kijelölt erőit támogató, azzal szembenálló, vagy azzal kapcsolatba kerülő civil személyek, valamint a szembenálló katonai erők tagjai esetében végezhető.

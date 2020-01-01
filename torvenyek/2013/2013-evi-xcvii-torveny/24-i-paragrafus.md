@@ -22,7 +22,7 @@ g) a végrehajtott kiképzési feladat megnevezése és a végrehajtás eredmén
 
 (4) A kiképzési nyilvántartásban kezelt adatokat megismerheti
 
-a) az érintett szervezetszerű parancsnoka, szolgálati elöljárója,
+a) az érintett szervezetszerű parancsnoka, szolgálati elöljárója, vezénylő zászlósa,
 
 b) az érintett kiképzéséért felelős személy,
 
@@ -34,4 +34,4 @@ e) a honvédségi szervezet személyügyi szerve,
 
 f) belső ellenőrzési tevékenységet végző személy.
 
-(5) A kiképzési nyilvántartásban kezelt adatok a jogviszony megszüntetéséig vagy megszűnéséig kezelhetők.
+(5) A kiképzési nyilvántartásban kezelt adatok személyhez kötötten a katonai szolgálat felső korhatárának betöltéséig kezelhetők.

@@ -8,4 +8,4 @@
 
 (2) Az (1) bekezdés szerinti nyilvántartás közhiteles nyilvántartásnak minősül.
 
-(3) Az (1) bekezdés szerinti nyilvántartásba történő betekintést, az abból történő adatszolgáltatást a honvédségi szervezetek részére az állományba vétel végrehajtása céljából a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője engedélyezhet.
+(3) Az állományba vétel végrehajtása céljából az (1) bekezdés szerinti nyilvántartásba a honvédségi szervezetek betekinthetnek, részükre a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete adatot továbbíthat.

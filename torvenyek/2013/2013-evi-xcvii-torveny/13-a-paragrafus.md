@@ -16,6 +16,6 @@ c) az egyéb közszolgálati jogviszony keretében történő foglalkoztatása m
 
 a) a miniszter,
 
-b) a miniszter által vezetett minisztérium állami vezetői,
+b) a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai,
 
 c) a Magyar Honvédség parancsnoka.

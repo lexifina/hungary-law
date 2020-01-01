@@ -2,7 +2,7 @@
 
 (2) A honvédelmi egészségkárosodási ellátással, valamint a baleseti járadékkal kapcsolatos nyilvántartásba betekinthetnek a honvédelmi egészségkárosodási ellátással és a baleseti járadékkal kapcsolatos döntés előkészítése, meghozatala, végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
 
-a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
+a) a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka,
 
 b) a Honvédség központi személyügyi és pénzügyi szerve,
 

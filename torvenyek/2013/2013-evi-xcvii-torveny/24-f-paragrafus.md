@@ -1,4 +1,4 @@
-24/F. § (1) A 24/A. § (1) bekezdésben meghatározott célból, a közúti közlekedési balesetben részes honvédségi járművekkel összefüggő vizsgálatok lefolytatása érdekében az illetékes baleseti helyszínelő és baleset-vizsgáló tevékenységet ellátó honvédségi szervezet a 24/B. § (1)–(3) bekezdésben meghatározott adatokon túl a következő adatokat kezelheti:
+24/F. § (1) A 24/A. § (1) bekezdésben meghatározott célból, a közúti közlekedési balesetben részes honvédségi járművekkel összefüggő vizsgálatok lefolytatása érdekében az illetékes baleseti helyszínelő és baleset-vizsgáló tevékenységet ellátó honvédségi szervezet a 24/B. § (1)–(3) bekezdésben meghatározott adatokon túl a következő adatokat kezeli:
 
 a) gépjármű vezetője vonatkozásában
 
@@ -24,7 +24,7 @@ ba) sérülés esetén annak súlyossága,
 
 bb) baleset leírása.
 
-(2) A honvédségi gépjárművek igénybevétele során bekövetkezett események kivizsgálása céljából az érintett honvédségi jármű vezetője, utasa szerinti állományilletékes katonai szervezet, az illetékes baleseti helyszínelő szolgálat és a baleset-vizsgáló tevékenységet ellátó honvédségi szervezet a 24/B. § (1)–(3) bekezdésben meghatározott adatokon túl a következő adatokat kezelheti:
+(2) A honvédségi gépjárművek igénybevétele során bekövetkezett események kivizsgálása céljából az érintett honvédségi jármű vezetője, utasa szerinti állományilletékes katonai szervezet, az illetékes baleseti helyszínelő szolgálat és a baleset-vizsgáló tevékenységet ellátó honvédségi szervezet a 24/B. § (1)–(3) bekezdésben meghatározott adatokon túl a következő adatokat kezeli:
 
 a) gépjármű vezetője vonatkozásában
 

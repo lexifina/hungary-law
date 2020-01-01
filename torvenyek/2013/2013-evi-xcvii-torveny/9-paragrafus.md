@@ -22,7 +22,7 @@ d) az önkéntes tartalékos
 
 (6) A toborzó szakterület által kezelt adatokhoz a szolgálati viszony létesítésével kapcsolatos döntés előkészítése és meghozatala céljából elektronikus úton közvetlenül hozzáférhet, és az annak alapjául szolgáló iratokba betekinthet
 
-a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
+a) a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka,
 
 b) a Honvédség központi személyügyi szerve,
 

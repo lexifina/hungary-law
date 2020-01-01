@@ -8,11 +8,11 @@
 
 (4) A rehabilitációs nyilvántartásban történő adatkezelés célja a rehabilitált katona részére a katonai rehabilitációt követően, a rehabilitációs határozat alapján társadalombiztosítási, katonai ruházati, szociális, egészségügyi, kegyeleti ellátásai megállapításának és folyósításának biztosítása.
 
-(5) A rehabilitációs nyilvántartásban szereplő adatokat, valamint az azok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzésre a Honvédség központi irattározásra kijelölt szervezetének kell átadni.
+(5) A rehabilitációs nyilvántartásban szereplő adatokat, valamint az azok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzésre a Honvédség központi irattározási feladatát ellátó honvédelmi szervezetének kell átadni.
 
 (6) A rehabilitációs nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának céljából elektronikus úton közvetlenül hozzáférhetnek és annak alapjául szolgáló okmányokba betekinthetnek:
 
-a) a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
+a) a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka,
 
 b) a rehabilitációs ügyben eljáró személy,
 
@@ -20,4 +20,4 @@ c) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző 
 
 d) a honvédelmi szervezetek jogi képviseletét ellátó szervezet kijelölt tagja,
 
-e) a Honvédség központi pénzügyi és számviteli szerv kijelölt tagja.
+e) Honvédség központi pénzügyi és számviteli feladatát ellátó honvédelmi szervezet, kijelölt tagja.

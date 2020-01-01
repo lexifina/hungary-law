@@ -30,6 +30,8 @@ ca) elektronikus levelezési címe,
 
 cb) a hadköteles katonai szolgálata teljesítésének időtartama alatt a kiértesíthető hozzátartozó neve és lakcíme,
 
+cc) telefonszám,
+
 d) további állampolgársága,
 
 e) családi állapota,
@@ -38,7 +40,7 @@ f) a szolgálat tervezését és teljesítését befolyásoló adatai:
 
 fa) katonai szolgálatra való alkalmasságát érintő betegsége,
 
-fb) megállapított katonai szolgálatra való alkalmassági fokozata,
+fb) megállapított katonai szolgálatra való alkalmassági minősítése, fokozata, típusa, korlátozások, megállapítás dátuma, megállapításának, felülvizsgálatának dátuma,
 
 fc) szomatometriai adatai,
 
@@ -46,11 +48,11 @@ fd) megkezdett és befejezett iskolai tanulmányai,
 
 fe) szakképzettsége,
 
-ff) foglalkozása,
+ff) foglalkozása, munkaköre, időtartama,
 
 fg) idegen nyelv ismerete és annak foka,
 
-fh) gépjárművezetői, munkagép-kezelői engedélyének kategóriája, érvényességi ideje,
+fh) a közúti közlekedési nyilvántartó szerv nyilvántartásában szereplő engedély típusára, kiadására, érvényességére, cseréjére, visszavonására, bevonására, a vezetési jogosultság megszerzésének időpontjára, a megszerzett kategóriára vonatkozó és a hivatalos feljegyzések rovatban bejegyzett adatok,
 
 fi) saját háztartásában eltartott vér szerinti, örökbefogadott, mostoha és nevelt gyermeke születésének ideje,
 
@@ -68,13 +70,21 @@ fkd) a szolgálathalasztás időtartama (kezdete, vége), és
 
 fke) a szolgálathalasztás oka,
 
-g) munkaképesség csökkenés foka, illetve a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 1. § (2) bekezdés 1. pontja szerinti egészségkárosodás mértéke,
+fl) fegyver nélküli katonai szolgálatteljesítéssel kapcsolatos adatok:
+
+fla) a fegyver nélküli katonai szolgálatteljesítésre vonatkozó kérelem benyújtásának időpontja,
+
+flb) a kérelemmel kapcsolatos döntés (engedélyezés, elutasítás),
+
+flc) a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálat és gyógykezelés ténye, meghatározott időpontja, időtartama,
+
+g) össz-szervezeti egészségkárosodás mértéke, megállapításának és felülvizsgálatának dátuma,
 
 h) testi, szellemi fogyatékossága, személyiségzavara,
 
 i) szenvedélybetegsége,
 
-j) a letartóztatás, a bíróság által a terhelt számára előírt meghatározott terület, lakás, egyéb helyiség, intézmény, vagy ahhoz tartozó bekerített hely engedély nélküli el nem hagyására vonatkozó bűnügyi felügyelet elrendelésének, valamint e kényszerintézkedések megszüntetésének időpontja,
+j) szabadságelvonással járó büntetés, intézkedés vagy büntetőjogi, illetve szabálysértési elzárás megkezdésének időpontja, befejezésének várható időpontja, befejezésének időpontja,
 
 k) a vele szemben folyamatban lévő büntetőeljárás, a kiszabott fő- és mellékbüntetés,
 
@@ -84,30 +94,40 @@ m) a büntetett előélethez fűződő hátrányos jogkövetkezmények alóli me
 
 n) elhalálozása,
 
-o) külföldi letelepedése, 3 hónapon túli külföldi tartózkodása,
+o) külföldi letelepedése,
 
 p) az állampolgárság megszűnése,
 
 q) szolgálati adatai:
 
-qa) a szolgálat formája (fegyveres, fegyver nélküli katonai és polgári), típusa (sorkatona, tartalékos, hivatásos, szerződéses, önkéntes tartalékos, hadköteles), kezdete, befejezése,
+qa) a szolgálat formája (fegyveres, fegyver nélküli katonai és polgári), típusa, kezdete, befejezése,
 
 qb) megszerzett katonai szakképzettsége,
 
 qc) az elért rendfokozata,
 
-qd) a szolgálat teljesítésének helye (a katonai, a Hvt. szerinti rendvédelmi szerv, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal, közintézmény),
+qd) a szolgálat teljesítésének helye (a katonai, a rendvédelmi szerv, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal, közintézmény),
 
-qe) a szolgálat során elért címei, osztályos fokozata és a megszerzett szakmai gyakorlata,
+qe) a szolgálat során elért címei, osztályos fokozata és a megszerzett szakmai gyakorlata, beosztása,
 
-qf) a leszerelés oka,
+qf) a szolgálati viszony megszűnésének, megszüntetésének oka,
 
 qg) a szolgálat félbeszakításának oka,
 
 qh) szolgálatteljesítés közben bekövetkezett balesetének, betegségének, sebesülésének ideje, elhalálozásának oka, ideje,
 
-r) vércsoportja és RH faktora,
+qi) közoktatás és felsőoktatás keretében és egyéb képzésben, tanfolyamon megszerzett honvédelmi ismeretek,
+
+r) cselekvőképességet részlegesen korlátozó vagy cselekvőképességet teljesen korlátozó gondnokság, illetve ideiglenes gondnokság alá helyezés, valamint felülvizsgálatának, megszűnésének, megszüntetésének időpontja,
 
 s) társadalombiztosítási azonosító jele,
 
 t) a meghagyásba tervezés és helyezés céljából a hadkötelesnek a munkahelyére, illetve a jogszabály alapján mentesített szervezetek kivételével a munkakörére vonatkozó adatok.
+
+u) kiképzési adatok,
+
+v) országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, nemzetiségi önkormányzati képviselőjelöltként történő nyilvántartásba vétel vagy megválasztás, illetve a megbízatás megszűnése,
+
+w) vércsoportja és Rh-faktora,
+
+x) gondnokság alá helyezett személy gondnokává hatóság által történő kijelölés, annak időpontja, valamint a gondnokság megszűnése és időpontja.

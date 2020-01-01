@@ -4,7 +4,7 @@ Egészségügyi célból kezelhető személyes adatok
 
 1. A 8. § alkalmazásában:
 
-a) személyazonosító adatok (családi és utónév, leánykori név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
+a) személyazonosító adatok (családi és utónév, születési név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
 
 b) a 8. § (1) bekezdés a) pontjában meghatározott személyek szolgálati viszony létesítésével összefüggő adatai:
 
@@ -84,7 +84,7 @@ j) az alkalmasság minősítése.
 
 2. A 8/A. § alkalmazásában:
 
-a) személyazonosító adatok (családi és utónév, leánykori név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
+a) személyazonosító adatok (családi és utónév, születési név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
 
 b) szolgálati viszonnyal összefüggő általános adatok:
 
@@ -128,7 +128,7 @@ i) az alkalmasság minősítése (felülvizsgálati táblázat kivonat).
 
 3. A 8/D. § alkalmazásában:
 
-a) személyazonosító adatok (családi és utónév, leánykori név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
+a) személyazonosító adatok (családi és utónév, születési név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
 
 b) szolgálati viszonnyal összefüggő általános adatok:
 
@@ -178,7 +178,7 @@ fk) szűrővizsgálaton való részvételre vonatkozó adatok.
 
 4. A 8/E. § alkalmazásában:
 
-a) személyazonosító adatok (családi és utónév, leánykori név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
+a) személyazonosító adatok (családi és utónév, születési név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
 
 b) szolgálati viszonnyal összefüggő adatok:
 
@@ -222,7 +222,7 @@ j) a vizsgálat eredménye.
 
 5. A 8/F. § alkalmazásában:
 
-a) személyazonosító adatok (családi és utónév, leánykori név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
+a) személyazonosító adatok (családi és utónév, születési név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
 
 b) rendfokozat,
 
@@ -240,7 +240,7 @@ h) hozzátartozó saját jogú igényjogosult neve és szolgálatteljesítési h
 
 6. A 8/G. § alkalmazásában:
 
-a) személyazonosító adatok (családi és utónév, leánykori név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
+a) személyazonosító adatok (családi és utónév, születési név, nem, születési hely és idő, anyja neve, lakóhely, tartózkodási hely, társadalombiztosítási azonosító jel),
 
 b) szolgálati viszonnyal összefüggő adatok:
 

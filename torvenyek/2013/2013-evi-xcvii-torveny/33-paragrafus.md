@@ -2,9 +2,9 @@
 
 33. § (1) A behívás illetve a meghagyásba helyezés tervezése és végrehajtása céljából a meghagyásba jogszabály alapján kijelölt szervekről és személyekről, a jogszabály alapján meghagyásba vont szervekről és meghagyásra jogszabály alapján kijelölt munkakört betöltő hadköteles személyekről a Honvédség katonai igazgatási és központi adatfeldolgozó szerve a 9. melléklet szerinti és a 4. melléklet a) pont aa)–ae) alpontjában, valamint t) pontjában meghatározott adattartalommal nyilvántartást vezet.
 
-(2) A meghagyásba jogszabály alapján kijelölt szervekről és személyekről, valamint a jogszabály alapján meghagyásba vont szervekről a meghagyásba tartozás időtartama alatt kezelhetőek az adatok.
+(2) A meghagyásba jogszabály alapján kijelölt szervekről és személyekről, valamint a jogszabály alapján meghagyásba vont szervekről, a meghagyásra kijelölt munkakört betöltő hadköteles személyekről a meghagyásba tartozás időtartama alatt kezelhetőek az adatok.
 
-(3) A jogszabály alapján meghagyásra kijelölt munkakört betöltő hadköteles személyekről kizárólag a hadkötelezettség fennállása idején, a meghagyásra kijelölt munkakör betöltésének időtartama alatt kezelhetőek az adatok.
+(3)
 
 (4) Az (1) bekezdés szerinti nyilvántartás közhiteles nyilvántartásnak minősül.
 
@@ -12,7 +12,7 @@
 
 (6) A jogszabály alapján meghagyásba bevont szervezet a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére szolgáltatja
 
-a) békeidőszakban 3 évente január 31-éig a 9. mellékletben meghatározott adatokat,
+a) békeidőszakban évente január 31-éig a 9. mellékletben meghatározott adatokat,
 
 b) a hadkötelezettség bevezetését követő 5 napon belül a 9. mellékletben meghatározott adatokat, valamint a meghagyásban érintett hadköteles 4. melléklet a) pont aa)–ae) alpontjában meghatározott adatait.
 

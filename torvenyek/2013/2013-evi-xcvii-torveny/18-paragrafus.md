@@ -1,6 +1,6 @@
 18. § A kártérítési eljárás lefolytatása, a kártérítési határozat jogkövetkezményeinek megállapítása, a kiszabott kártérítés érvényesítéséhez szükséges eljárás lefolytatása, felügyeleti és ellenőrzési jogkör gyakorlása céljából a kártérítési nyilvántartásban elektronikusan tárolt adatokhoz hozzáférhetnek, valamint az annak alapjául szolgáló iratokba betekinthetnek feladatkörük ellátásának mértékéig:
 
-a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
+a) a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka,
 
 b) az alárendeltjei vonatkozásában az állományilletékes parancsnok,
 

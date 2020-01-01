@@ -6,7 +6,7 @@
 
 68. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-a) jelölje ki a Honvédség központi irattározásra kijelölt szervezetét valamint állapítsa meg annak feladat- és hatásköreit,
+a) jelölje ki a Honvédség központi irattározási feladatát ellátó honvédelmi szervezetét valamint állapítsa meg annak feladat- és hatásköreit,
 
 b) állapítsa meg a katonai szolgálattal összefüggő hatósági bizonyítvány kiadásának szabályait,
 

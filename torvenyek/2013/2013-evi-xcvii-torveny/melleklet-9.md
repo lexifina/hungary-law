@@ -22,7 +22,11 @@ aec) e-mail címe,
 
 af) honvédelmi feladat ellátására kijelölő jogszabály,
 
-ag) meghagyásra kijelölt munkakörök.
+ag) meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként,
+
+aga) a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+
+agb) a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörönként,
 
 b) egyedileg kijelölt egyéni vállalkozó esetén
 
@@ -46,4 +50,8 @@ cc) a szervezet megnevezése, székhelye, kijelölt telephelye vagy fióktelepe,
 
 cd) a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
 
-ce) a meghagyásra kijelölt munkakörök.
+ce) a meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként,
+
+cea) a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+
+ceb) a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörönként,

@@ -2,11 +2,11 @@
 
 24/K. § (1) A központi irattári nyilvántartásban kell tovább kezelni az egyes szakterületek nyilvántartásában kezelt adatokat, az e törvény által meghatározott adatkezelési cél és időtartam megszűnését követően, a szolgálati, illetve az egyéb munkavégzésre irányuló jogviszonnyal kapcsolatos hatósági bizonyítványok kiadása, valamint a tudományos kutatás elősegítése céljából.
 
-(2) A központi irattári nyilvántartást a Honvédség központi irattározásra kijelölt szervezete kezeli.
+(2) A központi irattári nyilvántartást a Honvédség központi irattározási feladatát ellátó honvédelmi szervezete kezeli.
 
 (3) A központi irattári nyilvántartásban kezelt adatokat megismerheti:
 
-a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint
+a) a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint
 
 b) a Magyar Honvédség parancsnoka.
 

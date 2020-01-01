@@ -50,4 +50,6 @@ i) személyügyi törzsszám,
 
 j) korábbi foglalkoztatási jogviszonyával kapcsolatos tárgyévi jövedelem és személyi jövedelemadó adatok (adó-adatlap),
 
-k) korábbi foglalkoztatási jogviszonyával kapcsolatos tárgyévre vonatkozó önkéntes és kölcsönös nyugdíjpénztári adatok (pénztár neve, címe, adószáma, pénzforgalmi-jelzőszáma, tagsági azonosító, tagsági jogviszony kezdete).
+k) korábbi foglalkoztatási jogviszonyával kapcsolatos tárgyévre vonatkozó önkéntes és kölcsönös nyugdíjpénztári adatok (pénztár neve, címe, adószáma, pénzforgalmi-jelzőszáma, tagsági azonosító, tagsági jogviszony kezdete),
+
+l) a Magyar Egészségügyi Szakdolgozói Kamara részére történő tagdíjátvállalás adatai: a tagság ténye, a hozzájárulás mértéke és összege, a tagság kezdetének és végének dátuma.

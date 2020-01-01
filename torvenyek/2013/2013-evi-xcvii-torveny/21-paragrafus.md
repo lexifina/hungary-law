@@ -1,6 +1,6 @@
 ## 13. Beléptetéssel kapcsolatos nyilvántartások
 
-21. § (1) A honvédelmi szervezet elhelyezésére szolgáló objektumba (a továbbiakban: objektum), valamint objektumon belül a belépési jogosultsághoz kötött területre történő be- és kilépés ellenőrzése, a belépő személyek azonosítása, belépési jogosultságaik nyilvántartása, az élet- és vagyonbiztonság, valamint honvédelmi és nemzetbiztonsági érdek, továbbá a minősített adatok védelme céljából a beléptetésért felelős honvédelmi szervezet a (2) bekezdés szerinti belépőknek az adatait elektronikus beléptetési rendszerben vagy egyéb módon kezelheti. Ha az adatokat a beléptetési rendszer üzemeltetőjeként nem az adatkezelő szervezethez tartozó állomány rögzíti, úgy e tevékenység során adatfeldolgozónak minősül. A beléptetési adatok feldolgozásának feltételeit szerződés tartalmazza.
+21. § (1) A honvédelmi szervezet elhelyezésére szolgáló objektumba (a továbbiakban: objektum), valamint objektumon belül a belépési jogosultsághoz kötött területre történő be- és kilépés ellenőrzése, a belépő személyek azonosítása, belépési jogosultságaik nyilvántartása, az élet- és vagyonbiztonság, valamint honvédelmi és nemzetbiztonsági érdek, továbbá a minősített adatok védelme céljából a beléptetésért felelős honvédelmi szervezet a (2) bekezdés szerinti belépőknek az adatait elektronikus beléptetési rendszerben vagy egyéb módon kezeli. Ha az adatokat a beléptetési rendszer üzemeltetőjeként nem az adatkezelő szervezethez tartozó állomány rögzíti, úgy e tevékenység során adatfeldolgozónak minősül. A beléptetési adatok feldolgozásának feltételeit szerződés tartalmazza.
 
 (2) A beléptetés során a következő adatok kezelhetők:
 
@@ -20,7 +20,7 @@ a) a honvédelmi szervezet elhelyezésére szolgáló objektumban elkövetett b�
 
 b) a nemzetbiztonsági érdek védelme céljából a KNBSZ-nek,
 
-c) a szolgálatteljesítési idő valóságtartalmának megállapítása céljából a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére,
+c) a szolgálatteljesítési idő valóságtartalmának megállapítása céljából a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére,
 
 d) az adott objektumba vagy annak beléptető ponttal elzárt területére történő beléptetésért felelős miniszter által vezetett minisztériumi szervezeti egység, honvédelmi szervezet, vagy annak szervezeti egység vezetője részére az adott belépési ponthoz tartozó, belépési joggal rendelkező személyekről, a belépési engedélyek indokoltságának felülvizsgálata céljából. Ha egy objektumban vagy azon belül beléptető ponttal elzárt területre a belépést több honvédelmi szervezet is engedélyezheti, különösen közös elhelyezésben levő honvédelmi szervezetek esetén, úgy a belépési engedélyek indokoltságának felülvizsgálatához az adott honvédelmi szervezet személyi állománya, valamint azon személyek adatai továbbíthatók, akik nem a beléptetésért felelős honvédelmi szervezet állományába tartoznak, de a belépésük engedélyezését az adott honvédelmi szervezet vezetője jogosult elbírálni, és
 

@@ -2,7 +2,7 @@
 
 44/B. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a Honvédség személyi állományába tartozók részére a különleges jogrend – kivéve a veszélyhelyzet – időszakában, valamint a Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat teljesítése időszakában a sebesültek és betegek felkutatására, felszedésére és szállítására, vagy a betegség megelőzésére alkalmazott személyzet, az egészségügyi alakulatok által alkalmazott személyzet, továbbá a tábori lelkészek azonosítása és speciális státuszuk igazolása biztosítására szolgáló személyazonossági igazolvány kiadása céljából a 10. melléklet szerinti adatokat kezeli a személyazonossági igazolvány kiadásától a Honvédséggel fennálló jogviszony megszűnését vagy megszüntetését követő 5 évig.
 
-(2) A személyi azonossági igazolvány angol és magyar nyelven tartalmazza
+(2) A személyazonossági igazolvány angol és magyar nyelven tartalmazza
 
 a) az igazolvány megnevezését,
 

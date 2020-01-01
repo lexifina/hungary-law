@@ -2,7 +2,7 @@
 
 10. § (1) A személyügyi szakterület által kell kezelni a Honvédség személyi állománya, valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra jogosult hozzátartozóinak és az egyéb munkavégzésre irányuló jogviszonyban foglalkoztatottak 2. melléklet szerinti adatait.
 
-(2) A személyügyi szakterület által kezelt adatokat a 6. § (1) bekezdése szerinti hozzáférésnek megfelelően a honvédelmi szervezet személyügyi szerve, illetve a Honvédség központi személyügyi szerve, valamint a miniszter által vezetett minisztériumban foglalkoztatottak tekintetében a személyügyi feladatok ellátására kijelölt szerv kezeli.
+(2) A személyügyi szakterület adatait személyi állománya vonatkozásában a honvédelmi szervezet és a Honvédség központi személyügyi feladatai elvégzésére kijelölt szervezete kezeli.
 
 (3) A (2) bekezdésben felsorolt adatkezelők közös adatkezelésük tartalmát, felelősségi köreiket szerződésben rögzítik.
 
@@ -22,6 +22,6 @@ a) a 16. § (4) bekezdése alapján az érdekvédelmi szakterületért felelős 
 
 b) a kiképzett tartalékosok adatait az adatpontosítás idejére a Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
 
-c) minden egyéb esetben a nyilvántartás alapjául szolgáló iratokat a központi irattározásra kijelölt szerve
+c) minden egyéb esetben a nyilvántartás alapjául szolgáló adatokat a Honvédség központi irattározási feladatát ellátó honvédelmi szervezete
 
 kezeli tovább.
