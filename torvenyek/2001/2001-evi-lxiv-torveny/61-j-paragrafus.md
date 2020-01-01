@@ -2,7 +2,7 @@
 
 (2) A kérelem tartalmazza
 
-a) a kérelmező nevét, lakcímét vagy székhelyét, cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát vagy egyéni vállalkozói igazolvány számát,
+a) a kérelmező nevét, lakcímét vagy székhelyét, cégjegyzékszámát, egyéni vállalkozói nyilvántartási számát,
 
 b) a tervezni kívánt tevékenység fajtáját,
 

@@ -8,6 +8,6 @@
 
 (5) A közigazgatási bírság, a helyszíni bírság kiszabása során a (2) bekezdés szerinti eljáró hatóság a közigazgatási bírság, a helyszíni bírság mértékét korlátlanul enyhítheti vagy a jogsértő magatartás csekély súlya miatt a kiszabását mellőzheti.
 
-(6) A jogerősen kiszabott és be nem fizetett közigazgatási bírság, helyszíni bírság adók módjára behajtandó köztartozásnak minősül.
+(6) A véglegessé vált döntéssel kiszabott és be nem fizetett közigazgatási bírság, helyszíni bírság adók módjára behajtandó köztartozásnak minősül.
 
 (7) A kiszabott közigazgatási bírság, helyszíni bírság az államháztartás központi alrendszerének bevételét képezi.
