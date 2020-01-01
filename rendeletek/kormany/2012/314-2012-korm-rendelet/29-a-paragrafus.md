@@ -1,4 +1,4 @@
-29/A. §[^111] (1) A polgármester – a széles körű társadalmi bevonás és a nyilvánosság biztosítása érdekében – a koncepció, a stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítése és módosítása során az önkormányzat rendeletében megállapított partnerségi egyeztetés szabályai szerinti helyen és módon tájékoztatja a partnereket, valamint biztosítja számukra a véleményezés lehetőségét.
+29/A. §[^112] (1) A polgármester – a széles körű társadalmi bevonás és a nyilvánosság biztosítása érdekében – a koncepció, a stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítése és módosítása során az önkormányzat rendeletében megállapított partnerségi egyeztetés szabályai szerinti helyen és módon tájékoztatja a partnereket, valamint biztosítja számukra a véleményezés lehetőségét.
 
 (2) Ha az önkormányzat rendeletében szigorúbb követelményt nem állapít meg, a partnerségi egyeztetés előzetes tájékoztató szakaszból és munkaközi tájékoztató szakaszból áll, amelynek részletes szabályait a (3)–(6) bekezdés tartalmazza.
 
@@ -32,4 +32,4 @@ a) az előzetes tájékoztatót és az elkészült tervezetet a lakossági fóru
 
 b) az észrevételeket és javaslatokat a lakossági fórumon szóban, továbbá a lakossági fórumtól számított 8 napon belül papír alapon vagy elektronikusan lehet megtenni.
 
-[^111]: A 29/A. § a 217/2018. (XI. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^112]: A 29/A. § a 217/2018. (XI. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
