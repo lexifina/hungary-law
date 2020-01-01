@@ -1,1 +1,1 @@
-12. § A Magyar Honvédséget valamely állam fegyveres erejével szemben megillető kártérítési igényekről a honvédelemért felelős miniszter erre vonatkozó viszonosság fennállta esetén, a viszonosság mértékéig lemondhat. A kárigényekről való lemondásra vonatkozó viszonosságot a Magyar Honvédség és az érintett állam fegyveres ereje közötti megállapodás, viszonossági nyilatkozat vagy nemzetközi szerződés rögzítheti.
+12. §

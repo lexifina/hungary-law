@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-34-00-00
 | 2013-04-03 | 2013. évi XVII. törvény | 2011-34-00-00.8 |
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2011-34-00-00.9 |
 | 2018-01-01 | 2017. évi L. törvény | 2011-34-00-00.10 |
+| 2020-01-01 | 2019. évi CV. törvény | 2011-34-00-00.11 |
