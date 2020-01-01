@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-128-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2003-128-00-00.33 |
 | 2018-12-25 | 2018. évi XCVIII. törvény | 2003-128-00-00.34 |
 | 2019-03-15 | 2018. évi CXXXIX. törvény | 2003-128-00-00.35 |
+| 2020-01-01 | 2019. évi CXXVII. törvény | 2003-128-00-00.36 |

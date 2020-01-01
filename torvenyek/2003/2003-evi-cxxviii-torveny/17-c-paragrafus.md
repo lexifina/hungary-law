@@ -4,7 +4,7 @@
 
 a) az engedély nyilvántartási számát (betű-, számkombinációkkal és az autópálya számával),
 
-b) az engedély számát és jogerőre emelkedésének (végrehajthatóságának) időpontját,
+b) az engedély számát és véglegessé válásának (végrehajthatóságának) időpontját,
 
 c) a kérelmező (jogosított) megnevezését, székhelyét,
 
