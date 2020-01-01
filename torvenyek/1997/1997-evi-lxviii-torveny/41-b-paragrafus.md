@@ -1,6 +1,6 @@
 41/B. § (1) A kijelölt titkár nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
 
-(2) A kijelölt titkár nem lehet országgyűlési vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, valamint a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezető.
+(2) A kijelölt titkár nem lehet országgyűlési vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár.
 
 (3) A kijelölt titkár a tisztsége ellátásán kívül csak tudományos, művészi, irodalmi, oktató- és műszaki alkotó munkát végezhet kereső tevékenységként és nevelőszülői foglalkoztatási jogviszonyban állhat, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti annak látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését. A kijelölt titkár e tevékenységek gyakorlásának megkezdését köteles a munkáltatónak előzetesen bejelenteni.
 

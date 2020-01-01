@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1997-68-00-00.56 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1997-68-00-00.57 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 1997-68-00-00.58 |
+| 2020-01-01 | 2019. évi CXXVII. törvény | 1997-68-00-00.59 |

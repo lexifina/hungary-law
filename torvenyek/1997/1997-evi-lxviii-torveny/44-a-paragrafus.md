@@ -1,4 +1,4 @@
-44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. §-a szerinti fizetés nélküli szabadságot vesz igénybe.
+44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § (1) és (2) bekezdése szerinti fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató az igazságügyi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
@@ -12,7 +12,7 @@ hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő meg�
 
 (4) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben az igazságügyi alkalmazott köteles tájékoztatni a munkáltatót
 
-a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermeke hatodik életéve betöltésének időpontjáról, továbbá
 
 b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
@@ -22,7 +22,7 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 a) a kérelem szerinti időpontig, de
 
-b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermek ötéves koráig
+b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően az igazságügyi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 

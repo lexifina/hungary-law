@@ -8,8 +8,8 @@
 
 a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
 
-b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony és szolgálati jogviszony idejét,
+b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
 
-c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony és szolgálati jogviszony idejét.
+c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.

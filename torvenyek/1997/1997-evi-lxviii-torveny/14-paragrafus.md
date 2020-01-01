@@ -8,7 +8,7 @@
 
 (5) Ha a pályázat eredménytelen, – a (6) bekezdésben foglaltak kivételével – a kinevező új pályázatot írhat ki, vagy a feltételeknek megfelelő személyt az állásra kinevezi.
 
-(6) A bírósági fogalmazói állásokat nyilvános pályázat útján kell betölteni. A fogalmazói álláspályázatokat a pályázati határidő lejárta után 3 hónapon belül kell elbírálni.
+(6) A bírósági fogalmazói állásokat nyilvános pályázat útján kell betölteni, kivéve, ha az állás betöltésére a 17. § (3) bekezdésének alkalmazásával már kinevezett bírósági fogalmazó áthelyezésével kerül sor. Pályázat esetén a fogalmazói álláspályázatokat a pályázati határidő lejárta után 3 hónapon belül kell elbírálni.
 
 (7) Az OBH elnöke a felvételi versenyvizsga letételétől számított egy évig kezeli és nyilvántartja a fogalmazói állásra pályázók
 
