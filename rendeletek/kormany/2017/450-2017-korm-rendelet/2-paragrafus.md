@@ -26,4 +26,8 @@
 
 13. növényi készítmény: növényi anyagokon végzett kezelések, például extrakció, desztilláció, sajtolás, frakcionálás, tisztítás, koncentrálás vagy fermentálás révén nyert készítmények; ezek közé tartoznak a növényekből származó aprított vagy porított anyagok, tinktúrák, kivonatok, illóolajok, kisajtolt levek, szuperkritikus kivonatok, olajok és feldolgozott váladékok;
 
-14. referencia növényi gyógyszer: az olyan termék, ami a kérelem alapjául szolgáló hagyományos növényi gyógyszerrel megegyező hatóanyagokat tartalmaz, és a felhasznált segédanyagok nem módosítják az aktív összetevők hatását, szándékolt felhasználása is megegyezik vagy hasonló, hatáserőssége és adagolása egyenértékű, és alkalmazási módja ugyanaz vagy hasonló.
+14. referencia növényi gyógyszer: az olyan termék, ami a kérelem alapjául szolgáló hagyományos növényi gyógyszerrel megegyező hatóanyagokat tartalmaz, és a felhasznált segédanyagok nem módosítják az aktív összetevők hatását, szándékolt felhasználása is megegyezik vagy hasonló, hatáserőssége és adagolása egyenértékű, és alkalmazási módja ugyanaz vagy hasonló;
+
+15.[^1] módosítás: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK rendelet, a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről szóló, 1901/2006/EK rendelet, valamint az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról szóló, 2018. december 11-i (EU) 2019/5 európai parlamenti és tanácsi rendelet 2. cikk 1. pontja szerinti fogalom.
+
+[^1]: A 2. § 15. pontját a 347/2019. (XII. 23.) Korm. rendelet 17. §-a iktatta be.
