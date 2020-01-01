@@ -10,8 +10,8 @@
 
 5.
 
-6.
+6. 145/A. § (1) bekezdésében a „társulás a fenntartásában” szövegrész helyébe a „társulás – a gyermekek napközbeni ellátása kivételével – a fenntartásában” szöveg, és
 
-7.
+7. 145/A. § (2) bekezdésében a „társulás fenntartásában” szövegrész helyébe a „társulás – a gyermekek napközbeni ellátása kivételével – a fenntartásában” szöveg
 
 lép.

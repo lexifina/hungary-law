@@ -6,7 +6,7 @@
 
 3.
 
-4.
+4. 36. § (4) bekezdésében az „Az (5) bekezdésben” szövegrész helyébe az „A Beruházás ösztönzési célelőirányzat előirányzata” szöveg,
 
 5.
 

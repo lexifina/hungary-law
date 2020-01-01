@@ -1,1 +1,1 @@
-89. §
+89. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10. § (6) bekezdésében a „szervezettől” szövegrész helyébe a „szervezettől, illetve a központi költségvetésből” szöveg lép.
