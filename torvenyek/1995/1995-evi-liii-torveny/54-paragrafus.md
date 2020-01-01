@@ -6,7 +6,7 @@
 
 (3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik az oktatásért felelős miniszterrel és más érdekelt miniszterekkel.
 
-(4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a közoktatás intézményei számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
+(4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a köznevelési intézmények számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
 
 (5) A miniszter környezeti nevelési, képzési programot készít, amely összefoglalja
 

@@ -32,7 +32,7 @@ c) egyéni vállalkozó esetében
 
 ca) neve,
 
-cb) egyéni vállalkozói igazolvány kiállítója és száma, valamint adószáma és statisztikai számjele, ennek hiányában az egyéni vállalkozói nyilvántartási szám,
+cb) egyéni vállalkozói nyilvántartási szám, valamint az egyéni vállalkozó adószáma és statisztikai számjele,
 
 cc) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
 

@@ -10,7 +10,7 @@ a) a környezetvédelmi hatósági tevékenység ellátása, így különösen a
 
 b) az Információs Rendszer működtetésével kapcsolatos adatkezelési, valamint tájékoztatási feladatok ellátása;
 
-c) anyagok, termékek és technológiák környezetvédelmi szempontból történő minősítési rendszerének meghatározása, forgalomba hozataluk, illetőleg alkalmazásuk engedélyezése;
+c) anyagok, termékek és technológiák környezetvédelmi szempontból történő minősítési rendszerének meghatározása, forgalomba hozataluk, alkalmazásuk engedélyezése; illetve az e törvény végrehajtására kiadott rendeletben meghatározott esetekben ezen tevékenységek bejelentése;
 
 d) a környezeti károk elhárítására irányuló feladatok szervezése;
 
