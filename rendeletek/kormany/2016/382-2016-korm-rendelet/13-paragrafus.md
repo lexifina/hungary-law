@@ -1,4 +1,4 @@
-## 12/A. § A Kkt. 18. § (15) bekezdése szerinti felügyeleti szervként a Kormány országos illetékességgel a minisztert jelöli ki.
+## 12/C. § A víziközlekedésről szóló 2000. évi XLII. törvény 26/D. § (1) bekezdése szerinti felügyeleti szervként a Kormány országos illetékességgel a minisztert jelöli ki.
 
 ## 11. A szolgáltatás felügyeletét ellátó hatóságok kijelölése
 

@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2019-10-01 | 2016-382-20-22.20 | 161/2019. (VII. 4.) Korm. rendelet |
 | 2019-11-01 | 2016-382-20-22.21 | 248/2019. (X. 24.) Korm. rendelet |
 | 2019-12-28 | 2016-382-20-22.22 | 348/2019. (XII. 23.) Korm. rendelet |
+| 2020-01-01 | 2016-382-20-22.23 | 360/2019. (XII. 30.) Korm. rendelet |
