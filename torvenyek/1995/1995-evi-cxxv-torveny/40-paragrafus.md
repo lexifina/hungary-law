@@ -4,8 +4,8 @@
 
 (1b) Az (1) bekezdésben meghatározott igényeknek megfelelő műszaki rendszert az adatkezelőnek az érintett nemzetbiztonsági szolgálat részére a műszaki követelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül kell kialakítani.
 
-(2) A nemzetbiztonsági szolgálatok az állami szervek, a pénzintézetek, a biztosítóintézetek és a távközlési szolgáltatást végző szervezetek által kezelt nyilvántartások adatait térítés nélkül kérhetik, illetve vehetik igénybe. Egyéb adatkezelő szerv a nemzetbiztonsági szolgálatok adatkérésével kapcsolatos költségeit utólag érvényesítheti.
+(2) A nemzetbiztonsági szolgálatok az állami szervek, az önkormányzatok a pénzintézetek, a biztosítóintézetek és a távközlési szolgáltatást végző szervezetek által kezelt nyilvántartások adatait térítés nélkül kérhetik, illetve vehetik igénybe. Egyéb adatkezelő szerv a nemzetbiztonsági szolgálatok adatkérésével kapcsolatos költségeit utólag érvényesítheti.
 
 (3) A nemzetbiztonsági szolgálatok a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől történő adatkérés, az érintettel és más adatkezelővel való kapcsolattartás során, és nyilvántartásaikban az e törvényben meghatározott feladataik ellátása céljából – jogszabályban meghatározott módon – személyi azonosítót, természetes személyazonosító adatokat, valamint adóazonosító jelet, illetve egyéb azonosítókat használhatnak.
 
-(4) A nemzetbiztonsági szolgálatok a feladataik teljesítése érdekében jogosultak a közterületen elhelyezett képfelvétel, hangfelvétel, kép- és hangfelvétel rögzítésére alkalmas eszközt üzemeltető állami szerv által rögzített képfelvétel, hangfelvétel, kép- és hangfelvétel átvételére.
+(4) A nemzetbiztonsági szolgálatok a feladataik teljesítése érdekében jogosultak a közterületen elhelyezett képfelvétel, hangfelvétel, kép- és hangfelvétel rögzítésére alkalmas eszközt üzemeltető állami szerv, önkormányzat által rögzített képfelvétel, hangfelvétel, kép- és hangfelvétel átvételére.

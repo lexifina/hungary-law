@@ -14,11 +14,11 @@ ad) az ország az alapvető emberi jogok gyakorlását biztosító törvényes r
 
 ae) a terrorcselekmények, az illegális fegyver- és kábítószer-kereskedelem, valamint a nemzetközileg ellenőrzött termékek és technológiák illegális forgalmának felderítése és megakadályozása;
 
-b) állami szerv: a minisztériumok, a központi államigazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
+b) állami szerv: a minisztériumok, a kormányzati igazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
 
 c) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
 
-d)
+d) katonai egységes felderítő rendszer: az ország fegyveres védelmének és a szövetségi szintű védelem tervezéséhez és felülvizsgálatához, valamint a Magyar Honvédség műveleteinek tervezéséhez, irányításához és vezetéséhez szükséges döntések meghozatalának felderítő támogatását biztosító rendszer;
 
 e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
 
@@ -89,3 +89,5 @@ o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásá
 p) az utasadat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
 
 q) az utasadat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett utasadatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
+
+t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti szervezet.

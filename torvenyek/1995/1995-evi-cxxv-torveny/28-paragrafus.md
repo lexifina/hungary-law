@@ -1,6 +1,6 @@
 28. § (1) A nemzetbiztonsági szolgálatok a feladataik teljesítése érdekében együttműködnek egymással.
 
-(2) Az állami szervek és a nemzetbiztonsági szolgálatok egymás munkáját kölcsönösen segítik. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzítik.
+(2) Az állami szervek, önkormányzatok és a nemzetbiztonsági szolgálatok egymás munkáját kölcsönösen segítik. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzítik.
 
 (3) A nemzetbiztonsági szolgálatok feladataik ellátása során együttműködhetnek természetes személyekkel, jogi személyekkel vagy jogi személyiséggel nem rendelkező szervezetekkel. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzíthetik.
 

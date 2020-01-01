@@ -1,6 +1,6 @@
 6. § A Katonai Nemzetbiztonsági Szolgálat
 
-a) felfedi a Magyarország ellen irányuló, támadó szándékra utaló törekvéseket;
+a) felfedi a Magyarország ellen irányuló támadó, befolyásoló szándékra utaló törekvéseket, valamint feladatrendszeréhez illeszkedően külföldön érvényesíti Magyarország érdekeit;
 
 b) felderíti és elhárítja a külföldi titkosszolgálatoknak Magyarország szuverenitását, honvédelmi érdekeit sértő vagy veszélyeztető törekvéseit és tevékenységét;
 
@@ -10,11 +10,11 @@ d) működési területén felderíti és elhárítja Magyarország törvényes 
 
 e) feladatkörét érintően információkat gyűjt a válságkörzetekről, illetve a Magyar Honvédség műveleti területen lévő alakulatait és azok állományát veszélyeztető törekvésekről és tevékenységekről, valamint részt vesz a Magyar Honvédség műveleti területen alkalmazott erőinek nemzetbiztonsági védelmében, felkészítésében és támogatásában;
 
-f) biztosítja a Honvéd Vezérkar hadászati-hadműveleti tervező munkájához szükséges információkat, működteti Magyarország katonai felderítő rendszerét;
+f) biztosítja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség Parancsnoksága védelmi, hadászati-hadműveleti tervező munkájához szükséges információkat, valamint működteti Magyarország katonai egységes felderítő rendszerét;
 
-g) információkat gyűjt a honvédelmi érdeket veszélyeztető kiber-tevékenységről és szervezetekről, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Honvéd Vezérkar információvédelmi tervező munkájához szükséges információkat;
+g) információkat gyűjt a honvédelmi érdeket veszélyeztető kibertevékenységekről és -szervezetekről, jogszabály keretei között ellátja a honvédelmi ágazat elektronikus információbiztonsági feladatait, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Magyar Honvédség Parancsnoksága információvédelmi tervező munkájához szükséges információkat, továbbá kibertér műveleti képességeivel ellátja a honvédelmi érdekek nemzetbiztonsági jellegű védelmét és a Magyar Honvédség kibervédelmének és műveleteinek támogatását;
 
-h) információkat gyűjt a nemzetbiztonságot veszélyeztető terrorszervezetekről, felderíti és elhárítja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség szervezeteinél a külföldi hatalmak, személyek vagy szervezetek terrorcselekmény elkövetésére irányuló törekvéseit;
+h) információkat gyűjt a nemzetbiztonságot veszélyeztető terrorszervezetekről, felderíti és elhárítja a honvédelmi szervezeteknél a külföldi hatalmak, személyek vagy szervezetek terrorcselekmény elkövetésére irányuló törekvéseit;
 
 i) információkat gyűjt a nemzetbiztonságot veszélyeztető, jogellenes fegyverkereskedelemről, a honvédelemért felelős miniszter által vezetett minisztériumot és a Magyar Honvédség biztonságát veszélyeztető szervezett bűnözésről, ezen belül kiemelten a jogellenes kábítószer- és fegyverkereskedelemről;
 
@@ -42,9 +42,9 @@ na) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti nemz
 
 nb) a közösség tagja elleni erőszak (Btk. 216. §), a minősített adattal visszaélés (Btk. 265. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása (Btk. 322. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a közösség elleni uszítás (Btk. 332. §), a rémhírterjesztés (Btk. 337. §), a közveszéllyel fenyegetés (Btk. 338. §)
 
-bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség törvényes feladatainak végrehajtását;
+bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelmi szervezetek törvényes feladatainak végrehajtását;
 
-o) ellátja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség szervezeteiben folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat;
+o) ellátja a honvédelmi szervezeteknél folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat;
 
 p) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését;
 
@@ -52,4 +52,6 @@ q) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény
 
 r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve nemzetbiztonsági ellenőrzésének feladatait;
 
-s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat.
+s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat;
+
+t) ellátja az a)–r) pont szerinti feladatokat a honvédelemért felelős miniszter által rendeletben meghatározott, honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságoknál.

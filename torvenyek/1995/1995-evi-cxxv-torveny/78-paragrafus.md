@@ -34,4 +34,4 @@ c) mindazokat az eljárásokat, amelyeket a költségvetés alapján gazdálkod�
 
 d) a nemzetbiztonsági szolgálatok védelemre jogosult vezetőinek körét, a védelmi intézkedések részletes szabályait.
 
-(3)
+(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg azokat a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyeknél a 6. § a)–r) pont szerinti feladatokat a Katonai Nemzetbiztonsági Szolgálat látja el.

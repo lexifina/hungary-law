@@ -44,7 +44,7 @@ bc) a nemzetbiztonsági ellenőrzés alá eső személy által kezdeményezett �
 
 (11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
 
-(12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
+(12) Az e § szerinti közigazgatási perben csak zárt tárgyalás tartható, és csak olyan bíró járhat el, akinek az e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
 (13) A (10) bekezdés szerinti eljárásban a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntés megváltoztatására nem jogosult.
 
