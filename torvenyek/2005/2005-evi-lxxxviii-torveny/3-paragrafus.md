@@ -10,7 +10,7 @@ d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhas
 
 e) a magyarországi székhelyű egyházi jogi személy vagy vallási egyesület a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 
-f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
+f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybe vevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
 
 fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vagy hálózat,
 
@@ -18,17 +18,19 @@ fb) egészségügyi szolgáltató,
 
 fc) köznevelési intézmény,
 
-fd) felsőoktatási intézmény,
+fd) szakképző intézmény,
 
-fe) muzeális intézmény,
+fe) felsőoktatási intézmény,
 
-ff) nyilvános könyvtár,
+ff) muzeális intézmény,
 
-fg) közlevéltár,
+fg) nyilvános könyvtár,
 
-fh) nyilvános magánlevéltár,
+fh) közlevéltár,
 
-fi) közművelődési intézmény [az fa)–fi) alpontokban foglaltak a továbbiakban együtt: fogadó intézmény];
+fi) nyilvános magánlevéltár,
+
+fj) közművelődési intézmény [az fa)–fj) alpont a továbbiakban együtt: fogadó intézmény];
 
 g) a nem jogképes fogadó intézmény fenntartója a fogadó intézmény jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a fogadó intézmény közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében.
 

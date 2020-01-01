@@ -14,6 +14,6 @@ b) az önkéntes, illetve létesítményi tűzoltóként végzett tevékenységr
 
 c) a polgári természetőrként végzett tevékenységre,
 
-d) a nemzeti köznevelésről szóló törvény szerinti közösségi szolgálatra.
+d) közösségi szolgálatra.
 
 (3) E törvény nem érinti a 3. § (1) bekezdésén kívüli személynél, szervezetnél, illetve tevékenységi körben más vagy mások javára, ellenszolgáltatás nélkül végzett önkéntes tevékenységet.
