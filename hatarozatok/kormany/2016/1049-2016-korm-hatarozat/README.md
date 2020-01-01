@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1049-30
 | 2016-05-02 | 2016-1049-30-22.3 | 1225/2016. (V. 2.) Korm. határozat |
 | 2016-07-04 | 2016-1049-30-22.4 | 1340/2016. (VII. 4.) Korm. határozat |
 | 2016-07-22 | 2016-1049-30-22.5 | 1401/2016. (VII. 22.) Korm. határozat |
+| 2020-01-01 | 2016-1049-30-22.6 | 2011: CXCV. törvény |
