@@ -8,7 +8,9 @@ b) az önkéntes tartalékos katona miniszteri rendeletben meghatározott más t
 
 c) az önkéntes tartalékos katona meghagyásban részesülő munkakörbe kerül, kivéve, ha a miniszter kormányrendeletben meghatározottak szerint hozzájárulását adja az önkéntes tartalékos szolgálati viszonyának fenntartásához,
 
-d) az önkéntes tartalékos katona nem felel meg a nemzetbiztonsági ellenőrzésnek, vagy az ehhez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg, vagy.
+d) az önkéntes tartalékos katona nem felel meg a nemzetbiztonsági ellenőrzésnek, vagy az ehhez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg, vagy,
+
+e) az önkéntes tartalékos katona honvédelmi alkalmazotti jogviszonyt létesít.
 
 (2) Megszüntethető az önkéntes tartalékos szolgálati viszony bármelyik fél által tett egyoldalú jognyilatkozattal, indokolás nélkül. Az egyoldalú megszüntetés esetén az önkéntes tartalékos szolgálati viszony a jognyilatkozat közlését követő legalább 1, legfeljebb 6 hónap elteltével szűnik meg. A felek ennél rövidebb időpontban is megállapodhatnak. E bekezdést a rendelkezésre állás időszakában is alkalmazni kell.
 

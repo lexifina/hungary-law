@@ -26,7 +26,7 @@ e) a tiszti vagy az altiszti állománycsoport legalacsonyabb szintű, általán
 
 f) az állomány tagja rendelkezési állományba nem helyezhető át, vagy abban tovább nem tartható, kivéve, ha a szolgálati viszonya megszűnésének módjára e törvény eltérően rendelkezik, vagy
 
-g) az állománynak a Tny. tv. 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő tagja kérelmezi.
+g) az állománynak a Tny. tv. 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő tagja kérelmezi.
 
 (2a) A (2) bekezdés b) pontját nem kell alkalmazni, ha a 46. § (1) bekezdés t) pontja szerinti rendelkezési állomány időtartama alatt kerül sor az állomány tagja egészségi alkalmatlanságának megállapítására.
 

@@ -4,7 +4,7 @@
 
 (2) Az egyes szolgálati beosztások besorolási osztályba és besorolási kategóriába történő részletes besorolását a miniszter rendeletben határozza meg.
 
-(3) Az alapilletmény összegét a betöltött szolgálati beosztáshoz meghatározott besorolási osztály, besorolási kategória figyelembevételével az 5. melléklet szerinti alapilletmény-szorzószám és a honvédelmi illetményalap szorzataként kell meghatározni.
+(3) Az alapilletmény összegét a betöltött szolgálati beosztáshoz meghatározott besorolási osztály, besorolási kategória és a (4)–(7) bekezdésben megállapított eltérések figyelembevételével az 5. melléklet szerinti alapilletmény-szorzószám és a honvédelmi illetményalap szorzataként kell meghatározni.
 
 (4) Az (1) és a (3) bekezdéstől eltérően
 

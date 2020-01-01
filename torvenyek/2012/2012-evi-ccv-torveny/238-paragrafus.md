@@ -56,7 +56,7 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 17. a megváltozott egészségi állapot felülvizsgálatának eljárási rendjét, a felülvizsgálatot végző szervek és a felülvizsgálatban közreműködők kijelölését,
 
-18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás, a szerződés-hosszabbítási díj, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására vonatkozó szabályokat, a teljesítményjuttatás megállapításának alapelveit,
+18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás, a szerződés-hosszabbítási díj, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására, valamint az ösztöndíj elemeire, kiszámítási módjára, mértékére vonatkozó szabályokat, a teljesítményjuttatás megállapításának alapelveit,
 
 19. a fokozati vizsgára, a vizsgára jelentkezés és a vizsgáztatás rendjére, a vizsgáztatásért felelős szervezet kijelölésére, a fokozati vizsga halasztására vonatkozó részletes szabályokat,
 

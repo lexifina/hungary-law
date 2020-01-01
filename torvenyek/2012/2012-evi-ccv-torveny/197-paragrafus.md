@@ -2,4 +2,4 @@
 
 (2) Meg kell szüntetni a hivatásos állomány tagjának vezénylését, ha nem felel meg a nemzetbiztonsági ellenőrzésnek, valamint az ehhez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg.
 
-(3) A fedőbeosztásban foglalkoztatott hivatásos állományú katonákra a fedőbeosztásuk alatt fennálló jogviszonyuk megszűnése esetén a 76. § rendelkezéseit alkalmazni kell, amennyiben a megszűnést követő naptári napon áthelyezésre kerülnek kormányzati szolgálati, állami szolgálati, közszolgálati vagy közalkalmazotti jogviszonyba.
+(3) A fedőbeosztásban foglalkoztatott hivatásos állományú katonákra a fedőbeosztásuk alatt fennálló jogviszonyuk megszűnése esetén a 76. § rendelkezéseit alkalmazni kell, ha a megszűnést követő naptári napon áthelyezésre kerülnek közszolgálati, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonyba, vagy a Kit. szerinti kormányzati szolgálati jogviszonyt létesítenek.

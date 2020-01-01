@@ -2,6 +2,8 @@
 
 76. § (1) Az 59. § (2) bekezdés c) pontja és a 68. § (1) bekezdés c) és d) pontja esetén a hivatásos állomány tagját az áthelyezéssel, vagy a kinevezéssel egyidejűleg kérelmére felvehető a szolgálaton kívüliek közé. A szolgálaton kívülinek minősülő személy a nem katonai munkakörére irányadó jogállási törvény hatálya alatt áll. A szolgálaton kívülinek minősülő személyre e törvény rendelkezéseit akkor kell alkalmazni, ha azt a törvény kifejezetten elrendeli.
 
+(1a) Az (1) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a hivatásos állomány tagja a hivatásos szolgálati viszonya megszűnését, megszüntetését követő napon a Kit. szerinti kormányzati szolgálati jogviszonyt létesít.
+
 (2) A szolgálaton kívüli állományba tartozás időtartama egybefüggően, vagy megszakításokkal sem haladhatja meg a 6 évet. Ha a szolgálaton kívüli személy az (1) bekezdés szerinti áthelyezését vagy kinevezését közvetlenül megelőzően tábornoki, ezredesi vagy főtörzszászlósi rendfokozattal rendelkezik, vagy a honvédelmi szervezeten belül olyan nem katonai munkakört tölt be, amely tábornoki, ezredesi vagy főtörzszászlósi rendfokozattal rendszeresített szolgálati beosztásnak felel meg, e bekezdésben szereplő időbeli korlátozás nem alkalmazható.
 
 (3) A szolgálaton kívüli személy

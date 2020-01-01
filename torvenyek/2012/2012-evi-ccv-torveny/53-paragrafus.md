@@ -1,6 +1,6 @@
 ## 31. Vezénylés nem katonai oktatási intézményben történő szolgálatteljesítésre
 
-53. § (1) Az állomány tagja nem katonai oktatási intézményben vezényléssel teljesít szolgálatot. Az állomány tagja oktatói, tudományos kutatói vagy pedagógus munkakörbe akkor vezényelhető, ha megfelel a nemzeti felsőoktatásról vagy a nemzeti köznevelésről szóló törvényben meghatározott feltételeknek, továbbá az oktatáshoz, neveléshez szükséges naprakész ismeretekkel és gyakorlati tapasztalatokkal rendelkezik.
+53. § (1) Az állomány tagja nem katonai oktatási intézményben vezényléssel teljesít szolgálatot. Az állomány tagja oktatói, tudományos kutatói vagy pedagógus munkakörbe akkor vezényelhető, ha megfelel a nemzeti köznevelésről szóló törvényben, a szakképzésről szóló törvényben, illetve a nemzeti felsőoktatásról szóló törvényben meghatározott feltételeknek, továbbá az oktatáshoz, neveléshez szükséges naprakész ismeretekkel és gyakorlati tapasztalatokkal rendelkezik.
 
 (2) A rektor vagy az intézményvezető hatáskörébe tartozó kinevezés, vezetői megbízás a vezényléssel válik érvényessé.
 

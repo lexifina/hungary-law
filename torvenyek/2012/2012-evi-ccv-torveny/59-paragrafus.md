@@ -22,7 +22,7 @@ a) közös megegyezéssel,
 
 b) felmentéssel,
 
-c) áthelyezéssel közalkalmazotti, kormányzati szolgálati, állami szolgálati, közszolgálati, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba,
+c) áthelyezéssel közalkalmazotti, honvédelmi alkalmazotti, közszolgálati, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyba,
 
 d) azonnali hatállyal a próbaidő alatt, vagy
 

@@ -1,4 +1,4 @@
-58/A. § (1) Szünetel az állomány tagjának szolgálati viszonya, ha a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti szakmai vezetővé vagy államtitkárrá nevezik ki. A szünetelés a szakmai vezetővé vagy államtitkárrá való kinevezéstől a megbízatás megszűnéséig tart.
+58/A. § (1) Szünetel az állomány tagjának szolgálati viszonya, ha a Kit. szerinti államtitkárrá – a Kit. 21. § (1) bekezdés a) pontjában meghatározott feladatokat ellátó államtitkár kivételével – vagy szakmai felsővezetővé nevezik ki. A szünetelés az államtitkárrá vagy a szakmai felsővezetővé történő kinevezéstől a megbízatás megszűnéséig tart.
 
 (2) A 46. § (1) bekezdésében meghatározott eseteken túl, a szünetelés időtartamára – további külön munkáltatói döntés nélkül – rendelkezési állományba tartozik az állomány (1) bekezdés alá tartozó tagja.
 

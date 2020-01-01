@@ -1,6 +1,6 @@
 ## 40. A felmentési védelem
 
-67. § (1) Nem szüntethető meg a szolgálati viszony felmentéssel az a)–h) pont szerinti időtartam és az azt követő 30 nap alatt:
+67. § (1) Nem szüntethető meg a szolgálati viszony felmentéssel az a)–i) pont szerinti időtartam és az azt követő 30 nap alatt:
 
 a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvos-bizottsági alkalmassági felülvizsgálat ideje,
 
@@ -16,7 +16,9 @@ f) az állomány nő tagjának jogszabály szerinti, az emberi reprodukciós elj
 
 g) örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított 6 hónap, illetve, ha a gyermek a 6 hónap letelte előtt kikerül a gondozásból, a kötelező gondozás,
 
-h) az 58/A. § szerinti szünetelés időtartama.
+h) az 58/A. § szerinti szünetelés időtartama,
+
+i) a 117. § (4) bekezdés szerinti illetmény nélküli szabadság időtartama.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó. Az (1) bekezdésben meghatározott körülményre az állomány tagja csak akkor hivatkozhat, ha erről a munkáltatói jogkört gyakorlót tájékoztatta.
 

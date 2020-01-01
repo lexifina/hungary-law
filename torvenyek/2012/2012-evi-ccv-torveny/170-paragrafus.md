@@ -6,7 +6,9 @@ a) a tényleges kár és a kiszabott kártérítés összegének különbözeté
 
 b) a kárt, ha a kártérítési eljárás azért nem volt lefolytatható, mert a károkozó ismeretlen, vagy az eljárás lefolytatását miniszteri rendelet kizárja,
 
-c) a kárt, ha a kártérítési eljárást a munkáltatói jogkört gyakorló a miniszteri rendelet szerint megszüntette.
+c) a kárt, ha a kártérítési eljárást a munkáltatói jogkört gyakorló a miniszteri rendelet szerint megszüntette,
+
+d) a kárt, ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 79/C. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető.
 
 (2) A kiszabott és behajthatatlan kártérítési összeget törléssel kell rendezni.
 
