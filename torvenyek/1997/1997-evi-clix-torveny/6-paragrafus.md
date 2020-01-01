@@ -46,6 +46,6 @@ cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított három
 
 a) az ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli, majd az ellenőrzés irataira az ellenőrzés tényét és időpontját feljegyzi, vagy
 
-b) ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására eljárást indított, az eljárás jogerős befejezéséig kezelheti.
+b) ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására eljárást indított, az eljárás végleges befejezéséig, vagy – ha a rendőrség döntését közigazgatási perben megtámadták – a közigazgatási per jogerős lezárásáig kezelheti.
 
 (9) Ha a fegyveres biztonsági őrrel szemben szándékos bűncselekmény miatt büntetőeljárás indul, a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet vezetőjénél kezdeményezheti a fegyveres biztonsági őr szolgálatellátás alóli ideiglenes – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggesztését.
