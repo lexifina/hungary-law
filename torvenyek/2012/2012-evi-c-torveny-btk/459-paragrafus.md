@@ -88,7 +88,7 @@ g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervez
 
 h) az önkormányzati és a létesítményi tűzoltóság, valamint az önkéntes tűzoltó egyesület tagja a tűzoltási és műszaki mentési feladatainak ellátása során,
 
-i) a nemzeti köznevelésről szóló törvényben meghatározott esetben a pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott, továbbá a nemzeti felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára és tudományos kutatója,
+i) a nemzeti köznevelésről szóló törvényben meghatározott esetben a pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott, a szakképzésről szóló törvényben meghatározott esetben az oktató, továbbá a nemzeti felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára és tudományos kutatója,
 
 j) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személy e tevékenységének gyakorlása során,
 
