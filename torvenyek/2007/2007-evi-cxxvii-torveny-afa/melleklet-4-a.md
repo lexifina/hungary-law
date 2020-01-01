@@ -20,6 +20,10 @@ g) a c)–f) pontokban meghatározott ügyletek adó nélkül számított össze
 
 h) a 77. § szerinti utólagos adóalap csökkentés esetén a korrekció összegéről (összesítő nyilatkozat).
 
+1/A. Az 1. pontban említetteken túl az adóalany nyilatkozik azon adóalany adószámáról, akinek (amelynek) a 12/A. § szerint terméket adtak fel vagy fuvaroztak el, valamint az ezekben az adatokban a benyújtást követően bekövetkezett változásokról – ideértve a terméknek a belföldre történő továbbítását is.
+
+Az 1. pontban említetteken túl az adóalany nyilatkozik azon adóalany adószámáról, aki (amely) a részére úgy továbbított terméket, hogy az tartalmában megfelel a Közösség azon tagállama jogának – összhangban a Héa-irányelv 17a. cikkben foglaltakkal –, amely tagállamból a terméket továbbította.
+
 2. Az összesítő nyilatkozatot a havi bevallásra kötelezett adóalany havonta, a tárgyhónapot követő hónap 20. napjáig, a negyedéves bevallásra kötelezett adóalany negyedévente, a tárgynegyedévet követő hónap 20. napjáig nyújtja be az állami adó- és vámhatósághoz.
 
 3. A rá irányadó bevallási gyakoriságtól függetlenül, az adóalanynak a negyedéves gyakoriságú összesítő nyilatkozatról havi gyakoriságú összesítő nyilatkozatra kell áttérnie, ha

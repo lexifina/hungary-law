@@ -12,6 +12,16 @@ b) az adóraktározási eljárás során kiraktározandó/kiraktározott termék
 
 3. áruminta: a képviselt terméknek kisebb és jellemző része vagy mennyisége, amelyet kizárólag a képviselt termék bemutatásának céljára adnak, és amely fizikai állapotánál, vagyoni értékénél fogva más cél elérésére nem is alkalmas;
 
+3/A. behajthatatlan követelés: termékértékesítés, szolgáltatásnyújtás alapján keletkezett, követelésként fennálló ellenérték vagy részellenérték adót is tartalmazó összege, amelyet a termék értékesítője, szolgáltatás nyújtója ekként számol el nyilvántartásában az alábbi okok valamelyike alapján:
+
+a) a követelésre az adós ellen vezetett végrehajtás során nincs fedezet vagy a talált fedezet azt csak részben fedezi,
+
+b) a követelést a hitelező a csődeljárás, a felszámolási eljárás, az önkormányzatok adósságrendezési eljárása során egyezségi megállapodás keretében elengedte,
+
+c) a követelésre a felszámoló által adott írásbeli igazolás (nyilatkozat) szerint nincs fedezet, feltéve, hogy a felszámolás kezdő időpontja óta legalább 2 év telt el,
+
+d) a követelésre a felszámolás, az adósságrendezési eljárás befejezésekor vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet;
+
 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 
 5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
@@ -112,8 +122,4 @@ c) légiközlekedési eszköz esetében azt a járművet jelenti, amelynek telje
 
 25/A. üzletág: a vállalkozásnak olyan működő egysége, amely szervezeti szempontból függetlenül, a hozzá tartozó vagyonnal alkalmas az önálló gazdasági tevékenység tartós folytatására;
 
-26. vevői készlet:
-
-a) belföldön a termék leendő beszerzőjének saját raktárába vagy általa bérelt raktárba készletezésre fizikailag betárolt olyan terméket jelenti, amely a tárolás tartama alatt a termék leendő értékesítőjének tulajdonosi rendelkezése alatt áll, anélkül, hogy ez idő alatt a termék használatára, egyéb módon történő hasznosítására – ide nem értve a kipróbálást és a próbagyártást – bárki jogosult lenne, továbbá a termékértékesítés teljesítésével egyúttal, amelyet a termék leendő beszerzője kezdeményez, a termék fizikai kitárolása is megtörténik;
-
-b) a Közösség más tagállamában azt a jogintézményt jelenti, amely a tagállam joga szerint a belföldről továbbított termékhez a lényeges szabályozási tartalmat illetően ugyanolyan vagy ahhoz hasonló joghatásokat fűz, mint amelyeket e törvény az a) alpont szerinti esetre rendel.
+26.

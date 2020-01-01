@@ -106,8 +106,6 @@ Megnevezés
 
 |
 
-Kereskedelmi szálláshely-szolgáltatás
-
 |
 
 2.

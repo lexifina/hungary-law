@@ -24,7 +24,13 @@ d) Görög Köztársaság:
 
 e) Spanyol Királyság:
 
-– Kanári-szigetek.
+– Kanári-szigetek;
+
+f) Olasz Köztársaság:
+
+– Campione d'Italia,
+
+– a Luganói-tó olaszországi vizei.
 
 3. A Közösség területe, ezzel együtt a tagállam területe nem foglalja magában a következő tagállamok alábbiak szerint meghatározott részét, amely részek nem tartoznak a Közösség vámterületéhez:
 
@@ -40,11 +46,7 @@ b) Németországi Szövetségi Köztársaság:
 
 c) Olasz Köztársaság:
 
-– Campione d' Italia,
-
-– Livigno,
-
-– Luganói-tó olaszországi vizei;
+– Livigno;
 
 d) Spanyol Királyság:
 

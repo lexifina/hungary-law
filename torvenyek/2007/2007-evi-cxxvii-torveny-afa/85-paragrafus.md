@@ -22,9 +22,9 @@ g) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek f
 
 h) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet bölcsődei ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 
-i) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó óvodai, diákotthoni és kollégiumi ellátás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg –, valamint az azokhoz szorosan kapcsolódó termékértékesítés, amelyet köz- és felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás keretében a közszolgáltató, közoktatási intézmény, felsőoktatási intézmény, egyéb felnőttképzést folytató intézmény vagy – nemzetközi szerződés alapján – belföldön működő külföldi kulturális intézet – ilyen minőségében – teljesít;
+i) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó óvodai, diákotthoni és kollégiumi ellátás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg –, valamint az azokhoz szorosan kapcsolódó termékértékesítés, amelyet a köznevelés, a szakképzés, illetve a felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás vagy képzés keretében a közszolgáltató, a köznevelési intézmény, a szakképző intézmény, a felsőoktatási intézmény, a felnőttképző vagy – nemzetközi szerződés alapján – belföldön működő külföldi kulturális intézet – ilyen minőségében – teljesít;
 
-j) az a szolgáltatásnyújtás, amelyet óvodai, tanári, oktatói, nevelői tevékenységet végző – ilyen minőségében – teljesít a köz- és felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás keretében, ideértve az előzőekben felsoroltakhoz kapcsolódó magánóraadást is;
+j) az a szolgáltatásnyújtás, amelyet óvodai, tanári, oktatói, nevelői tevékenységet végző – ilyen minőségében – teljesít a köznevelés, a szakképzés, illetve a felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás vagy képzés keretében, ideértve az előzőekben felsoroltakhoz kapcsolódó, óvodai, tanári, oktatói, nevelői tevékenységet végző által szervezett magánóraadást is;
 
 k) a bírósági vagy más hatósági nyilvántartásba bejegyzett, vallás vagy más lelkiismereti meggyőződés kinyilvánítására, gyakorlására létrehozott jogi személy által személyzet rendelkezésre bocsátása a b), f), g), h) és i) pontokban említett tevékenységek ellátása, illetőleg lelki segély, gondozás céljából;
 
@@ -56,15 +56,21 @@ pc) az ellenérték, amelyet az együttműködő közösség kap vagy kapnia kel
 
 pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozzájárulást, amelyet az együttműködő közösség tagjának kell a közös cél elérése érdekében az együttműködő közösségnek rendelkezésre bocsátania.
 
-(2) Az egyéb oktatás körébe tartoznak:
+(2) Egyéb oktatás vagy képzés
 
-a) a felnőttképzésből az Országos Képzési Jegyzékben meghatározott szakképesítést adó oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
+a) a szakképzésről szóló törvény alapján szervezett szakmai oktatás és szakmai képzés, továbbá az ehhez kapcsolódóan szervezett szakmai vizsga és képesítő vizsga,
 
-b) a felnőttképzésről szóló törvény alapján engedélyezett és szervezett, illetőleg egyéb jogszabály alapján szervezett oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
+b) a felnőttképzésről szóló törvényben meghatározott
 
-c) az államilag, illetőleg nemzetközileg elismert nyelvvizsga-bizonyítvány kiadásának alapjául szolgáló vizsgáztatás;
+ba) bejelentés birtokában és jogszabály alapján vagy
 
-d) a tanulmányi és tehetséggondozó verseny szervezése, lebonyolítása.
+bb) engedély birtokában
+
+szervezett oktatás vagy képzés, továbbá az ehhez kapcsolódóan szervezett vizsga,
+
+c) a nyelvi képzés és az államilag, illetve nemzetközileg elismert nyelvvizsga-bizonyítvány kiadásának alapjául szolgáló vizsga, valamint
+
+d) a tanulmányi és tehetséggondozó verseny szervezése és lebonyolítása.
 
 (3) Abban az esetben, ha az (1) és (2) bekezdésben meghatározott valamely tevékenység
 

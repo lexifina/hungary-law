@@ -12,7 +12,7 @@
 
 2. arról adófizetésre kötelezett adóalanyonként, ezen belül meghatalmazásonként egymástól elkülönített nyilvántartást vezet;
 
-3. bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
+3. bevallásában és a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
 
 (4) Az adófizetésre kötelezett adóalany és az adóraktár üzemeltetője közötti meghatalmazás visszavonása nem érinti az adóraktár üzemeltetőjének a 4. számú melléklet 19. pontja szerinti adóbiztosíték-nyújtási kötelezettségét, ha a megszűnés azt követően következik be, hogy a meghatalmazást a (2) bekezdés szerint az adóraktár felügyeletét ellátó vámszervhez benyújtották.
 

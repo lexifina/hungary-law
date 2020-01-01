@@ -678,8 +678,6 @@ Házi sertéshús frissen, hűtve vagy fagyasztva
 
 |
 
-A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert
-
 |
 
 |
@@ -687,8 +685,6 @@ A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többl
 51.
 
 |
-
-A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert
 
 |
 
@@ -1069,3 +1065,11 @@ c) belépődíj nélkül tartott, a zenés, táncos rendezvények működésé
 |
 
 Internet-hozzáférési szolgáltatás
+
+|
+
+5.
+
+|
+
+Kereskedelmi szálláshely-szolgáltatás

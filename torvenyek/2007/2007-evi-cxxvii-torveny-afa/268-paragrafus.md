@@ -52,8 +52,12 @@ gn) a Tanács (EU) 2018/912 irányelve (2018. június 22.) a közös hozzáadott
 
 go) a Tanács (EU) 2018/1695 irányelve (2018. november 6.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
 
+gp) a Tanács (EU) 2018/1910 irányelve (2018. december 4.) a 2006/112/EK irányelvnek a hozzáadottértékadó-rendszer egyes, a tagállamok közötti kereskedelem adóztatására vonatkozó szabályainak harmonizálása és egyszerűsítése tekintetében történő módosításáról;
+
 h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
 
 ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 
-i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
+i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról;
+
+j) a Tanács (EU) 2019/475 irányelve (2019. február 18.) a 2006/112/EK és a 2008/118/EK irányelvnek az olasz Campione d'Italia településnek és a Luganói-tó olaszországi vizeinek az Unió vámterületébe, valamint a 2008/118/EK irányelv területi hatálya alá történő bevonása érdekében történő módosításáról.

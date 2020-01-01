@@ -14,7 +14,7 @@ cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és
 
 veszi igénybe;
 
-d) önálló pozíciószám: olyan – külön nyilvántartott – utazásszervezési szolgáltatásokat foglal magában, amelyek azonos földrajzi területre (helyszínre) irányulnak, azonos tartalmúak és színvonalukat tekintve azonos minőségűek.
+d)
 
 (2) Az utazásszervező köteles ügyfelét a teljesítést megelőzően nyilatkozattételre felhívni, és annak keretében nyilatkoztatni arról, hogy a szolgáltatást utasként vagy nem utasként kívánja igénybe venni.
 

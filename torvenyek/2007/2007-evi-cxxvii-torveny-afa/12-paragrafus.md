@@ -18,6 +18,6 @@ g) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérk
 
 h) az (1) bekezdésben említett adóalany termékét 24 hónapot meg nem haladó ideiglenes használat céljából a Közösség más tagállamába továbbítja, ahol ha ugyanezt a terméket importálták volna, az importált termék ideiglenes behozatal jogcímén teljes adó- és vámmentességben részesülne;
 
-i) az (1) bekezdésben említett adóalany a terméket a Közösség más tagállamában fenntartott vevői készlete céljára továbbítja.
+i)
 
 (3) Ha a (2) bekezdésben felsorolt esetekben az ott meghatározott feltételek bármelyike nem teljesül, a feltétel nem teljesülésekor az (1) bekezdéshez fűződő joghatás haladéktalanul beáll.

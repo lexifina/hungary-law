@@ -12,7 +12,7 @@ a) az ügylet teljesítését tanúsító számlát mint az importáló meghatal
 
 b) arról importálónként, ezen belül megbízásonként egymástól elkülönített nyilvántartást vezet;
 
-c) bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
+c) bevallásában és a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
 
 (4) A 95. § (6) és (10) bekezdésében említett esetekben a közvetett vámjogi képviselő az importálóval együtt egyetemlegesen felelős az adó megfizetéséért.
 

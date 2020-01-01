@@ -1,6 +1,6 @@
 27. § (1) Abban az esetben, ha a terméket többször értékesítik oly módon, hogy azt közvetlenül a sorban első értékesítőtől a sorban utolsó beszerző nevére szóló rendeltetéssel adják fel küldeményként vagy fuvarozzák el, a 26. § kizárólag egy termékértékesítésre alkalmazható.
 
-(2) Ha az (1) bekezdésben említett esetben van a sorban olyan beszerző, aki (amely) egyúttal értékesítőként a termék küldeménykénti feladását vagy fuvarozását maga vagy – javára – más végzi, úgy kell tekinteni, mint aki (amely) a termék küldeménykénti feladását vagy fuvarozását beszerzőként végzi, illetőleg arra másnak, beszerzőként adott megrendelést, kivéve, ha bizonyítja, hogy a termék küldeménykénti feladását vagy fuvarozását értékesítőként végzi, illetőleg arra másnak értékesítőként adott megrendelést.
+(2) Ha az (1) bekezdésben említett esetben van a sorban olyan beszerző, aki (amely) egyúttal értékesítőként a termék küldeménykénti feladását vagy fuvarozását maga vagy – javára – más végzi, úgy kell tekinteni, mint aki (amely) a termék küldeménykénti feladását vagy fuvarozását beszerzőként végzi, illetve arra másnak, beszerzőként adott megrendelést, kivéve, ha közölte a részére terméket értékesítővel a számára az által a tagállam által megállapított adószámot, amelyből a terméket feladják vagy elfuvarozzák.
 
 (3) Az (1) bekezdésben meghatározott termékértékesítések közül azokra, amelyek
 
