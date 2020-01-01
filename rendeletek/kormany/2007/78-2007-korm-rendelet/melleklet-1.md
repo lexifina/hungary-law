@@ -1,3 +1,3 @@
-1. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^24]
+1. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^25]
 
-[^24]: Az 1. melléklet a 310/2014. (XII. 11.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^25]: Az 1. melléklet a 324/2019. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

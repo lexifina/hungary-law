@@ -1,313 +1,259 @@
 ## A KAR adatszolgáltatás adattartalma
 
-## 1. A környezetvédelmi alapnyilvántartáshoz szükséges adatok bejelentésére és változására szolgáló borítólap (KAR borítólap)
+## I. A KAR adatszolgáltatás adattartalma meghatalmazás bejelentése és KÜJ azonosító (Környezetvédelmi Ügyfél Jel) igénylése (KAR: KÜJ-IG adatcsomag) esetén a következő:
 
-## 1.1. Címzett szervezet
+## 1. Adatszolgáltatásban feltüntetett adatok érvényességének dátuma
 
-## 1.1.1. Címzett
+## 2. Címzett szervezet
 
-## 1.2. Adatszolgáltató adatai
+## 3. Csatolmány
 
-## 1.2.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 4. Az adatszolgáltatás célja
 
-## 1.2.2. Központi Statisztikai Hivatal statisztikai számjel
+## 4.1. Adatszolgáltatás típusának kódja
 
-## 1.2.3. Név
+## 4.1.1. Új meghatalmazás bejelentése KÜJ azonosítóval rendelkező ügyfél esetén
 
-## 1.3. Adatszolgáltatásra vonatkozó adatok
+## 4.1.2. KÜJ azonosító igénylése és meghatalmazásbejelentés KSH statisztikai számjellel rendelkező gazdálkodó szervezet, egyéni vállalkozó vagy más szervezet esetén
 
-## 1.3.1. Adatszolgáltatáshoz csatolt lapok száma
+## 4.1.3. KÜJ azonosító igénylése és meghatalmazásbejelentés KSH statisztikai számjellel nem rendelkező vagy külföldi ügyfél esetén
 
-## 1.3.2. Az adatszolgáltatásban feltüntetett adatok érvényességének dátuma
+## 4.1.4. Az adatszolgáltatást beküldő természetes személy részére KÜJ azonosító igénylése
 
-## 1.3.3. Az adatszolgáltatásért felelős személy neve
+## 4.2. Új KÜJ azonosító igénylése esetén az igénylés indoka
 
-## 1.3.4. Beosztása
+## 5. Beküldő természetes személy adatai
 
-## 1.3.5. Telefon
+## 5.1. Név
 
-## 1.3.6. Fax szám
+## 5.2. Születési név
 
-## 1.3.7. E-mail
+## 5.3. Születési dátum
 
-## 1.3.8. Kitöltés dátuma (év/hó/nap)
+## 5.4. Születési hely
 
-## 2. A Környezetvédelmi Ügyfél Jel nyilvántartásához és változások bejelentésére szolgáló adatlap (KÜJ-A lap)
+## 5.5. Anyja neve
 
-## 2.1. Ügyfél azonosító
+## 5.6. Állandó lakcím
 
-## 2.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 5.6.1. Irányítószám
 
-## 2.1.2. Természetes személy
+## 5.6.2. Település neve
 
-## 2.2. Jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén
+## 5.6.3. Közterület neve, közterület típusa, házszám
 
-## 2.2.1. KSH statisztikai számjel
+## 5.6.4. Ország
 
-## 2.2.2. Rövid név
+## 5.7. E-mail-cím
 
-## 2.2.3. Teljes név
+## 6. Meghatalmazó ügyfél adatai
 
-## 2.3. Természetes személy esetén
+## 6.1. KÜJ azonosító
 
-## 2.3.1. Viselt név (családi név, első utónév és további utónevek)
+## 6.2. KSH statisztikai számjel
 
-## 2.3.2. Születési név (családi név, első utónév és további utónevek)
+## 6.3. Rövid név
 
-## 2.3.3. Születési országjel
+## 6.4. Teljes név
 
-## 2.3.4. Születési település
+## 6.5. Székhely címe
 
-## 2.3.5. Születési dátum (év/hó/nap)
+## 6.5.1. Irányítószám
 
-## 2.3.6. Anyja neve (családi, név, első utónév és további utónevek)
+## 6.5.2. Település neve és KSH területi számjele
 
-## 2.3.7. E-mail cím
+## 6.5.3. Közterület neve, közterület típusa, házszám
 
-## 3. A Környezetvédelmi Ügyfél Jel nyilvántartásához és változások bejelentésére szolgáló adatlap (folytatás)(KÜJ-B lap)
+## 6.5.4. Ország
 
-## 3.1. Ügyfél azonosító
+## 7. Ügyfél értesítési címe
 
-## 3.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 7.1. Irányítószám
 
-## 3.2. Ügyfél címe
+## 7.2. Település neve és KSH területi számjele
 
-## 3.2.1. Ügyfél székhelyének címe
+## 7.3. Közterület neve, közterület típusa, házszám
 
-## 3.2.2. Országjel
+## 7.4. Ország
 
-## 3.2.3. Cím
+## II. A KAR adatszolgáltatás adattartalma környezetvédelmi ügyfél adatok változásjelentése (KAR: KÜJ-ÜGYF adatcsomag) esetén a következő:
 
-## 3.2.3.1. Település KSH kód
+## 1. Adatszolgáltatásban feltüntetett adatok érvényességének dátuma
 
-## 3.2.3.2. Irányítószám
+## 2. Címzett szervezet
 
-## 3.2.3.3. Település neve
+## 3. Változásjelentéssel érintett ügyfél KÜJ azonosítója
 
-## 3.2.3.4. Közterület
+## 4. Ha a KÜJ azonosító jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet azonosít
 
-## 3.2.3.5. Házszám
+## 4.1. KSH statisztikai számjel
 
-## 3.3.1. Ügyfél értesítési címe
+## 4.2. Rövid név
 
-## 3.3.2. Országjel
+## 4.3. Teljes név
 
-## 3.3.3. Cím
+## 4.4. Székhely címe
 
-## 3.3.3.1. Település KSH kód
+## 4.4.1. Irányítószám
 
-## 3.3.3.2. Irányítószám
+## 4.4.2. Település neve és KSH területi számjele
 
-## 3.3.3.3. Település neve
+## 4.4.3. Közterület neve, közterület típusa, házszám
 
-## 3.3.3.4. Közterület
+## 4.4.4. Ország
 
-## 3.3.3.5. Házszám
+## 4.5. Ügyfél értesítési címe
 
-## 4. Jogelőd ügyfelek azonosítására szolgáló pótlap (JOGE pótlap)
+## 4.5.1. Irányítószám
 
-## 4.1. Ügyfél azonosító
+## 4.5.2. Település neve és KSH területi számjele
 
-## 4.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 4.5.3. Közterület neve, közterület típusa, házszám
 
-## 4.2. Jogelőd ügyfelek azonosítói
+## 4.5.4. Ország
 
-## 4.2.1. Változáskód
+## 4.6. KAR adatszolgáltatásért felelős személy adatai
 
-## 4.2.2. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 4.6.1. Név
 
-## 4.2.3. KSH statisztikai számjel
+## 4.6.2. Beosztás
 
-## 4.2.4. Ügyfél neve
+## 4.6.3. Telefon
 
-## 4.2.5. Országjel
+## 4.6.4. E-mail-cím
 
-## 4.2.6. Település KSH kód
+## 4.7. Jogelőd ügyfelek KÜJ azonosítói
 
-## 4.2.7 Ügyfél címe
+## 5. Ha a KÜJ azonosító természetes személyt azonosít
 
-## 4.2.7.1. Irányítószám
+## 5.1. Név
 
-## 4.2.7.2. Település neve
+## 5.2. Állandó lakcím
 
-## 4.2.7.3. Közterület
+## 5.2.1. Irányítószám
 
-## 4.2.7.4. Házszám
+## 5.2.2. Település neve
 
-## 5. A Környezetvédelmi Területi Jel nyilvántartásához és a változások bejelentésére szolgáló adatlap (KTJ lap)
+## 5.2.3. Közterület neve, közterület típusa, házszám
 
-## 5.1. Azonosító adatok
+## 5.2.4. Ország
 
-## 5.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 5.3. E-mail-cím
 
-## 5.1.2. KTJ (Környezetvédelmi Területi Jel)
+## 6. Adatszolgáltatásra meghatalmazott személyek adatai
 
-## 5.2. Környezetvédelmi objektum adatai
+## 6.1. Név
 
-## 5.2.1. Környezetvédelmi Területi Jel típusa
+## 6.2. Állandó lakcím
 
-## 5.2.2. Telephely / Objektum megnevezése
+## 6.2.1. Irányítószám
 
-## 5.2.3. Telephely KTJ (Környezetvédelmi Területi Jel)
+## 6.2.2. Település neve
 
-## 5.2.4. Település KSH kódja
+## 6.2.3. Közterület neve, közterület típusa, házszám
 
-## 5.2.5. Telephely címe
+## 6.2.4. Ország
 
-## 5.2.5.1. Irányítószám
+## 6.3. E-mail-cím
 
-## 5.2.5.2. Település neve
+## III. A KAR adatszolgáltatás adattartalma telephely, környezetvédelmi objektum KTJ azonosító (Környezetvédelmi Területi Jel) igénylése (KAR: KTJ-IG adatcsomag) esetén a következő:
 
-## 5.2.5.3. Közterület
+## 1. Adatszolgáltatásban feltüntetett adatok érvényességének dátuma
 
-## 5.2.5.4. Házszám
+## 2. Címzett szervezet
 
-## 5.2.6. Első helyrajzi szám
+## 3. KTJ azonosító igénylést benyújtó ügyfél KÜJ azonosítója
 
-## 5.2.7. EOV koordináták (X, Y)
+## 4. Besorolás
 
-## 6. Helyrajzi számok bejelentésére szolgáló pótlap (HRSZ pótlap)
+## 5. Megnevezés
 
-## 6.1. Ügyfél azonosító
+## 6. Cím
 
-## 6.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 6.1. Irányítószám
 
-## 6.2. Objektum azonosítás
+## 6.2. Település neve és KSH területi számjele
 
-## 6.2.1. KTJ (Környezetvédelmi Területi Jel)
+## 6.3. Közterület neve, közterület típusa, házszám
 
-## 6.3. Környezetvédelmi objektum helyrajzi számai
+## 7. Objektumot magába foglaló telephely KTJ azonosítója
 
-## 6.3.1. Helyrajzi szám
+## 8. Jellemző pont EOV Y és EOV X koordinátája
 
-## 6.3.2. Település (KSH kód, megnevezés)
+## 9. Telephely vagy környezetvédelmi objektum által érintett helyrajzi számok
 
-## 7. Az objektum geometriai azonosítására szolgáló adatlap (POLI lap)
+## 9.1. Helyrajzi szám
 
-## 7.1. Ügyfél azonosító
+## 9.2. Helyrajzi szám szerinti település KSH területi számjele
 
-## 7.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 10. KAR adatszolgáltatásért felelős személy adatai
 
-## 7.2. Objektum azonosítás
+## 10.1. Név
 
-## 7.2.1. KTJ (Környezetvédelmi Területi Jel)
+## 10.2. Beosztás
 
-## 7.3. Geometriai adatok
+## 10.3. Telefon
 
-## 7.3.1. Poligon sorszám
+## 10.4. E-mail-cím
 
-## 7.3.2. EOV koordináták (X, Y)
+## 11. Telephelyet vagy környezetvédelmi objektumot lehatároló poligon töréspontjai
 
-## 8. A meghatalmazásra szolgáló adatlap (MEGH lap)
+## 11.1. Töréspont sorszáma
 
-## 8.1. Az adatszolgáltató adatai
+## 11.2. EOV Y koordináta
 
-## 8.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
+## 11.3. EOV X koordináta
 
-## 8.1.2. KSH statisztikai számjel
+## IV. A KAR adatszolgáltatás adattartalma telephely, környezetvédelmi objektum változásjelentése (KAR: KTJ-OBJ adatcsomag) esetén a következő:
 
-## 8.1.3. Név
+## 1. Adatszolgáltatásban feltüntetett adatok érvényességének dátuma
 
-## 8.1.4. Országjel
+## 2. Címzett szervezet
 
-## 8.1.5. Adatszolgáltató címe
+## 3. Változásjelentést benyújtó ügyfél KÜJ azonosítója
 
-## 8.1.5.1. Irányítószám
+## 4. Változásjelentéssel érintett telephely vagy környezetvédelmi objektum KTJ azonosítója
 
-## 8.1.5.2. Település neve
+## 5. Besorolás
 
-## 8.1.5.3. Közterület
+## 6. Megnevezés
 
-## 8.1.5.4. Házszám
+## 7. Cím
 
-## 8.2. A meghatalmazott adatai
+## 7.1. Irányítószám
 
-## 8.2.1. Viselt név (családi név, első utónév és további utónevek)
+## 7.2. Település neve és KSH területi számjele
 
-## 8.2.2. Születési név (családi név, első utónév és további utónevek)
+## 7.3. Közterület neve, közterület típusa, házszám
 
-## 8.2.3. Születési országjel
+## 8. Objektumot magába foglaló telephely KTJ azonosítója
 
-## 8.2.4. Születési hely
+## 9. Jellemző pont EOV Y és EOV X koordinátája
 
-## 8.2.5. Születési dátum (év/hónap/nap)
+## 10. Telephely vagy környezetvédelmi objektum által érintett helyrajzi számok
 
-## 8.2.6. Anyja neve (családi, név, első utónév és további utónév)
+## 10.1. Helyrajzi szám
 
-## 8.2.7. Meghatalmazott címe
+## 10.2. Helyrajzi szám szerinti település KSH területi számjele
 
-## 8.2.7.1. Országjel
+## 11. KAR adatszolgáltatásért felelős személy adatai
 
-## 8.2.7.2. Irányítószám
+## 11.1. Név
 
-## 8.2.7.3. Település neve
+## 11.2. Beosztás
 
-## 8.2.7.4. Közterület
+## 11.3. Telefon
 
-## 8.2.7.5. Házszám
+## 11.4. E-mail-cím
 
-## 8.2.8. E-mail cím
+## 12. Telephelyet vagy környezetvédelmi objektumot lehatároló poligon töréspontjai
 
-## 8.2.9. Nyilatkozat
+## 12.1. Töréspont sorszáma
 
-## 8.2.10. Kiállítás dátuma (év/hó/nap)
+## 12.2. EOV Y koordináta
 
-## 8.2.11. A meghatalmazást elfogadom
+## 12.3. EOV X koordináta
 
-## 9. A meghatalmazás visszavonására szolgáló adatlap (MVV lap)
+2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^26]
 
-## 9.1. Az adatszolgáltató adatai
-
-## 9.1.1. KÜJ (Környezetvédelmi Ügyfél Jel)
-
-## 9.1.2. KSH statisztikai számjel
-
-## 9.1.3. Adatszolgáltató név
-
-## 9.1.4. Országjel
-
-## 9.1.5. Adatszolgáltató címe
-
-## 9.1.5.1. Irányítószám
-
-## 9.1.5.2 Település neve
-
-## 9.1.5.3. Közterület
-
-## 9.1.5.4. Házszám
-
-## 9.2. A meghatalmazott adatai
-
-## 9.2.1. Viselt név (családi név, első utónév és további utónevek)
-
-## 9.2.2. Születési név (családi név, első utónév és további utónevek)
-
-## 9.2.3. Születési országjel
-
-## 9.2.4. Születési hely
-
-## 9.2.5. Születési dátum (év/hó/nap)
-
-## 9.2.6. Anyja neve (családi, név, első utónév és további utónevek)
-
-## 9.2.7. Meghatalmazott címe (ország, irányítószám, település neve, közterület, házszám)
-
-## 9.2.7.1. Országjel
-
-## 9.2.7.2. Irányítószám
-
-## 9.2.7.3. Település neve
-
-## 9.2.7.4. Közterület
-
-## 9.2.7.5. Házszám
-
-## 9.2.8. E-mail cím
-
-## 9.2.9. Nyilatkozat
-
-## 9.2.10. Kiállítás dátuma (év/hó/nap)
-
-2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^25]
-
-[^25]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^26]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
