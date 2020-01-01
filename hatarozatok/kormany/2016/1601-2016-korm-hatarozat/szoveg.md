@@ -4,13 +4,7 @@ A Kormány
 
 2. az 1. pontban meghatározott cél végrehajtása érdekében
 
-a) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezet címrendjének a 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 86. Népi Építészeti Program jogcímcsoporttal történő kiegészítését,
-
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. január 1.
+a)[^1]
 
 b) felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon legfeljebb 300,0 millió forint forrás biztosításáról a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 86. Népi Építészeti Program jogcímcsoport javára,
 
@@ -33,3 +27,5 @@ Határidő: a 2018. évi központi költségvetés tervezése során
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: minden év január 31.
+
+[^1]: A 2. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
