@@ -1,6 +1,6 @@
 ## 3. Az építésügy, a településfejlesztés és -rendezés körébe tartozó dokumentációk kezelése
 
-4. § (1)[^35] Az 1. § (1) bekezdése szerinti dokumentumok közül
+4. § (1)[^37] Az 1. § (1) bekezdése szerinti dokumentumok közül
 
 a) az 1. § (1) bekezdés a) pontjában meghatározott dokumentáció adattartalmának nyilvántartását, katalógusát és a dokumentumokat digitális formátumban vagy papír alapon az építészeti-műszaki dokumentációk birtokosa, ennek hiányában a tároló helyiség tulajdonosa,
 
@@ -22,13 +22,13 @@ i) az 1. § (1) bekezdés o) pontja szerinti épület-feltüntetési vázrajzot 
 
 a (2) bekezdés szerint köteles a Dokumentációs Központ részére ingyenesen átadni vagy megküldeni.
 
-(1a)[^36] Az építészeti tervpályázatot kiíró köteles a Dokumentációs Központ részére ingyenesen átadni vagy megküldeni az 1. § (1b) bekezdése szerinti dokumentumok közül azokat, melyekre a pályázó tervező nem tart igényt.
+(1a)[^38] Az építészeti tervpályázatot kiíró köteles a Dokumentációs Központ részére ingyenesen átadni vagy megküldeni az 1. § (1b) bekezdése szerinti dokumentumok közül azokat, melyekre a pályázó tervező nem tart igényt.
 
-(1b)[^37] A tervezési szerződés szerzői vagyoni jogokról rendelkező tartalmát az építész tervező vagy a megbízásából eljáró személy a szerzői vagyoni jogosultság nyilvántartása érdekében feltölti az építészeti alkotások szerzői jogi nyilvántartásába.
+(1b)[^39] A tervezési szerződés szerzői vagyoni jogokról rendelkező tartalmát az építész tervező vagy a megbízásából eljáró személy a szerzői vagyoni jogosultság nyilvántartása érdekében feltölti az építészeti alkotások szerzői jogi nyilvántartásába.
 
 (2) A dokumentumokat – az 1. § (1) bekezdés a) és j) pontja szerinti dokumentumok kivételével – jogszabályi előírás hiányában a térképi alapú tervdokumentációkat GML (Geography Markup Language) formátumban, a többi dokumentumot PDF (Portable Document Format) formátumban
 
-a)[^38] a Dokumentációs Központ honlapján közzétett terjedelemig elektronikus úton, az elektronikus kapcsolattartásra vonatkozó jogszabályi rendelkezések szerint,
+a)[^40] a Dokumentációs Központ honlapján közzétett terjedelemig elektronikus úton, az elektronikus kapcsolattartásra vonatkozó jogszabályi rendelkezések szerint,
 
 b) a Dokumentációs Központ honlapján közzétett terjedelemig az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerben (ÉTDR) biztosított elektronikus alkalmazások igénybevételével, vagy
 
@@ -36,10 +36,10 @@ c) csak egyszer írható elektronikus adathordozón postai úton
 
 kell a Dokumentációs Központ részére átadni.
 
-(3)[^39] Az (1) bekezdésben meghatározott kötelezettségek teljesítését az Üzemeltető ellenőrzi, és a kötelezettség teljesítésének elmaradása esetén azt szükség szerint jelzi az érintett felügyeletét ellátó illetékes hatóságnak vagy más közfeladatot ellátó szervnek. Amennyiben a nemzeti tervvagyon körébe tartozó dokumentum birtokosa kötelezettségeit elmulasztja, úgy az Üzemeltető az állami vagyonnal való gazdálkodásról szóló rendelet szabályai szerint jár el.
+(3)[^41] Az (1) bekezdésben meghatározott kötelezettségek teljesítését az Üzemeltető ellenőrzi, és a kötelezettség teljesítésének elmaradása esetén azt szükség szerint jelzi az érintett felügyeletét ellátó illetékes hatóságnak vagy más közfeladatot ellátó szervnek. Amennyiben a nemzeti tervvagyon körébe tartozó dokumentum birtokosa kötelezettségeit elmulasztja, úgy az Üzemeltető az állami vagyonnal való gazdálkodásról szóló rendelet szabályai szerint jár el.
 
-[^35]: A 4. § (1) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^36]: A 4. § (1a) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^37]: A 4. § (1b) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^38]: A 4. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 415. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^39]: A 4. § (3) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^37]: A 4. § (1) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^38]: A 4. § (1a) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^39]: A 4. § (1b) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^40]: A 4. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 415. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^41]: A 4. § (3) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
