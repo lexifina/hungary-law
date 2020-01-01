@@ -1,6 +1,6 @@
 ## Záró rendelkezések
 
-12. § (1) E törvény a kihirdetését követő negyvenötödik napon lép hatályba, rendelkezéseit – a (2) bekezdés kivételével – a hatálybalépését követően indult közigazgatási hatósági eljárásokban és ezen eljárásokban hozott határozatok bírósági felülvizsgálata során kell alkalmazni. A (2) bekezdést a folyamatban lévő ügyekben is alkalmazni kell.
+12. § (1) E törvény a kihirdetését követő negyvenötödik napon lép hatályba, rendelkezéseit – a (2) bekezdés kivételével – a hatálybalépését követően indult közigazgatási hatósági eljárásokban és ezen eljárásokban hozott határozatok elleni közigazgatási perekben kell alkalmazni. A (2) bekezdést a folyamatban lévő ügyekben is alkalmazni kell.
 
 (2)
 

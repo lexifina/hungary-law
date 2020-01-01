@@ -4,4 +4,4 @@
 
 (3) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kártalanítási igényt támasztó kérelmének benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kisajátítási kártalanítás szabályai szerinti kártalanítási eljárás lefolytatásának van helye.
 
-(4) A kártalanítás tárgyában hozott közigazgatási határozat bírósági felülvizsgálatára az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
+(4) A kártalanítás tárgyában hozott közigazgatási határozat elleni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
