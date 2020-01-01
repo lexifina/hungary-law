@@ -4,7 +4,7 @@
 
 | 1. | Egyetemes szolgáltató | Árrés (Ft/kWh) |
 
-| 2. | NKM Áramszolgáltató Zrt. | 0,986 |
+| 2. | NKM Energia Zrt. | 0,986 |
 
 | 3. | E.ON Energiakereskedelmi Kft. | 0,986 |
 

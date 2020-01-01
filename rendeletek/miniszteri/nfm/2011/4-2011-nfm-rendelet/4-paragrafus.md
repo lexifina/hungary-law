@@ -20,7 +20,7 @@ a) az „A1” és a „H” árszabás esetében egy naptári napon belül azon
 
 b) az „A2” és „A3” árszabás esetében az egyes zónaidők esetében eltérő, az adott zónaidőre jellemző beszerzésre tekintettel megállapított árat
 
-köteles alkalmazni.
+## köteles alkalmazni.
 
 (3) Az „A2” és „A3” árszabást akkor lehet alkalmazni, ha a villamosenergia-fogyasztás zónaidőnkénti mérése megoldott.
 
