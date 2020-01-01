@@ -10,13 +10,14 @@
 
 (4) A 17. § (2)–(4) bekezdése alapján benyújtott elszámolás esetén az ellenőrzést az elszámolás megérkezésétől, illetve – ha az igazgatóság a fenntartót hiánypótlásra vagy nyilatkozattételre hívja fel – a hiánypótlási, nyilatkozattételi határidő leteltétől számított harminc napon belül kell lefolytatni.
 
-(5)[^28] Az ellenőrzést a fenntartó valamennyi engedélyesénél, illetve szükség szerint a fenntartó székhelyén le kell folytatni. Az engedélyesnél az ellenőrzést az engedélyes címe szerint illetékes igazgatóság folytatja le (a továbbiakban: ellenőrző igazgatóság).
+(5)[^28] Az ellenőrzést a fenntartó engedélyesénél, illetve szükség szerint a fenntartó székhelyén kell lefolytatni. Az engedélyesnél az ellenőrzést az engedélyes címe szerint illetékes igazgatóság folytatja le (a továbbiakban: ellenőrző igazgatóság).
 
-(6) Az ellenőrizendő időszak az ellenőrzés tapasztalatai alapján kiterjeszthető. Az ellenőrizendő időszakot az ellenőrző igazgatóság értesítése alapján az ellenőrzést elrendelő igazgatóság terjeszti ki, és erről értesíti az ellenőrző igazgatóságokat.
+(6)[^29] Az ellenőrzés a Polgári Törvénykönyv szerinti általános elévülési időn belül a korábban nem vizsgált időszakra, engedélyesre és szolgáltatásra is kiterjeszthető. A kiterjesztést az ellenőrző igazgatóság értesítése alapján az ellenőrzést elrendelő igazgatóság rendeli el, és erről értesíti az ellenőrző igazgatóságokat.
 
-(7)[^29] A titkos menedékházként működő családok átmeneti otthonának ellenőrzése során az ellenőrző igazgatóság az ellátottak személyes adatait tartalmazó iratokat csak a helyszínen vizsgálhatja meg, azokat az engedélyes címéről nem viheti el, és azokról másolatot nem készíthet.
+(7)[^30] A titkos menedékházként működő családok átmeneti otthonának ellenőrzése során az ellenőrző igazgatóság az ellátottak személyes adatait tartalmazó iratokat csak a helyszínen vizsgálhatja meg, azokat az engedélyes címéről nem viheti el, és azokról másolatot nem készíthet.
 
 [^26]: A 19. § (2) bekezdést a 457/2017. (XII. 28.) Korm. rendelet 477. § e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^27]: A 19. § (3a) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 42. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 254. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^28]: A 19. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 475. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^29]: A 19. § (7) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^28]: A 19. § (5) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^29]: A 19. § (6) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^30]: A 19. § (7) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 42. § (2) bekezdése iktatta be.
