@@ -1,0 +1,11 @@
+### 11. § [A képzési és kimeneti követelmények]
+
+(1) A szakmákhoz – az ellenőrzési, a mérési és az értékelési rendszer kialakítását és működését biztosító, a szakképzésben kötelezően alkalmazandó – képzési és kimeneti követelményeket kell előírni. A képzési és kimeneti követelményekben – részszakmaként – meghatározható a szakmának olyan önállóan elkülöníthető része, amely legalább egy munkakör betöltéséhez szükséges kompetenciák megszerzését teszi lehetővé. Ha e törvény eltérően nem rendelkezik, a szakmára vonatkozóan meghatározott rendelkezéseket a részszakmára is alkalmazni kell.
+
+(2) A képzési és kimeneti követelményeket – a Kormány adott ágazatért felelős tagjának egyetértésével – a szakképzésért felelős miniszter hivatalos kiadványként az általa vezetett minisztérium honlapján (a továbbiakban: honlap) teszi közzé. A képzési és kimeneti követelmények normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A képzési és kimeneti követelmények a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni.
+
+(3) A közzétett képzési és kimeneti követelményeket a szakképzésért felelős miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. A képzési és kimeneti követelményekben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
+
+(4) A képzési és kimeneti követelményeket érintő változást kizárólag a változással érintett legalacsonyabb iskolai évfolyamtól kezdve felmenő rendszerben a tanév első napjával lehet bevezetni, és azt a bevezetést megelőző első tanév kezdő napjáig kell közzétenni. A képzési és kimeneti követelmények módosítása a módosítást megelőzően közzétett képzési és kimeneti követelmények szerint indított szakmai oktatást nem érinti.
+
+(5) A képzési és kimeneti követelményekkel szemben kizárólag jogszabálysértésre hivatkozással kezdeményezhető közigazgatási jogvita.

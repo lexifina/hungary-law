@@ -1,0 +1,13 @@
+### 32. § [A szakképző intézmény belső szabályozó eszközei]
+
+(1) A szakképző intézmény működésére, belső és külső kapcsolataira vonatkozó rendelkezéseket a szakképző intézmény szervezeti és működési szabályzata határozza meg.
+
+(2) A szakképző intézmény házirendje állapítja meg a tanulók, illetve a képzésben részt vevő személyek jogai gyakorlásának és – a tanulmányi kötelezettségek teljesítésén kívül – kötelességei teljesítésének módját, továbbá a szakképző intézmény által elvárt viselkedés szabályait. A házirend a tanulói jogviszonyból, illetve a felnőttképzési jogviszonyból származó jogok gyakorlásához, illetve kötelességek teljesítéséhez nem szükséges dolgok bevitelét megtilthatja, korlátozhatja vagy feltételhez kötheti. A házirendben meghatározott szabályok megsértéséből eredő károkért szakképző intézmény nem felel.
+
+(3) Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szervezeti és működési szabályzatában és házirendjében az adott vallás hitelveivel összefüggő viselkedési és megjelenési szabály, jog és kötelesség, valamint hitéleti tevékenység is előírható, amelynek vétkes megszegése miatt a tanulóval, illetve a képzésben részt vevő személlyel az e törvényben, a szakképző intézmény alkalmazottjával szemben a munka törvénykönyvéről szóló 2012. évi I. törvényben (a továbbiakban: Mt.) foglaltak szerint fegyelmi eljárás indítható, illetve hátrányos jogkövetkezmény állapítható meg.
+
+(4) A szakképző intézmény szervezeti és működési szabályzatát és házirendjét, továbbá azok módosítását az oktatói testület a fenntartó, a szakképzési centrum részeként működő szakképző intézmény esetében a főigazgató és a kancellár egyetértésével fogadja el, az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény esetében a fenntartó jóváhagyásával válik érvényessé. A szakképző intézmény szervezeti és működési szabályzatának és házirendjének elfogadása és módosítása előtt ki kell kérni a képzési tanács és a diákönkormányzat véleményét. A szakképző intézmény szervezeti és működési szabályzata és házirendje nyilvános.
+
+(5) A szakképző intézmény az iratkezelés rendjéről iratkezelési szabályzatot ad ki.
+
+(6) Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott és vallási, világnézeti tekintetben elkötelezett szakképző intézmény működésében a fenntartó az adott vallás hitelveihez és belső szabályaihoz igazodó sajátos követelményeket határozhat meg.
