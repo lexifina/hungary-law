@@ -1,0 +1,3 @@
+87. § Az Mt. 297. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. Amennyiben a 215. § (1) bekezdés a) pont szerinti kölcsönbeadó a munkavállalót munkaerő-kölcsönzés keretében Magyarország területén munkavégzésre ideiglenesen átengedi, a kölcsönvevő köteles tájékoztatni a kölcsönbeadót a munkafeltételek és a díjazás tekintetében alkalmazandó foglalkoztatási feltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.”
