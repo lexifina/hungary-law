@@ -1,0 +1,3 @@
+8. § A Gyftv. 74. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Ha a közforgalmú gyógyszertárat működtető gazdasági társaság jogutód nélküli megszűnésére arra tekintettel kerülne sor, hogy tagjainak száma egy főre csökken, és az ettől számított hat hónapos jogvesztő határidőn belül a gazdasági társaság nem jelenti be a nyilvántartó hatóságnál újabb tagnak a társaságba való belépését, a gazdasági társaságban egyedüli tagként maradt közforgalmú gyógyszertár működtetésére személyi joggal rendelkező gyógyszerész – a működési engedély módosításával – jogosult egyéni vállalkozóként a gyógyszertárat továbbműködtetni.”
