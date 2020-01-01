@@ -10,7 +10,7 @@ d) ha a bíró a bírói esküt a 22. §-ban meghatározott határidőn belül n
 
 e) ha a bíró kinevezésének a 4. § (1) bekezdés a) és b) pontjában foglalt feltételei már nem állnak fenn,
 
-f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek, nemzetiségi szószólónak vagy polgármesternek megválasztották, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
+f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek, nemzetiségi szószólónak vagy polgármesternek megválasztották, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezetőnek, közigazgatási államtitkárnak és helyettes államtitkárnak megválasztották vagy kinevezték,
 
 g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 

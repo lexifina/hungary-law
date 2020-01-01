@@ -1,0 +1,1 @@
+232/Q. § A 2020. április 1-jét megelőzően a közigazgatási és munkaügyi bírósághoz megválasztott ülnök 2020. április 1-jétől az ülnöki feladatait annál a törvényszéknél látja el, amelynek illetékességi területéhez a közigazgatási és munkaügyi bíróság tartozott. A közigazgatási és munkaügyi bíróság megszűnése egyebekben nem érinti az ülnök jogállását.

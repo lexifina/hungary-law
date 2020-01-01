@@ -1,3 +1,3 @@
-177. § (1) A vezetői pótlék összegének a megállapítása szempontjából a kiemelt járásbíróság elnöke és elnökhelyettese a törvényszék elnökével és elnökhelyettesével, csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül.
+177. § (1) A vezetői pótlék összegének a megállapítása szempontjából a kiemelt járásbíróság elnöke a törvényszék elnökével, elnökhelyettese a nagyobb járásbíróság elnökével, csoportvezetője a törvényszék kollégiumvezetőjével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül.
 
 (2) A vezetői pótlékra való jogosultság szempontjából kiemelt járásbíróságnak minősül az a járásbíróság, ahol a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, nagyobb járásbíróságnak minősül a törvényszék székhelyén működő járásbíróság, továbbá az a bíróság, ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja.

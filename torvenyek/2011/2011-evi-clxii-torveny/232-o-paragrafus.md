@@ -1,0 +1,3 @@
+232/O. § (1) A szolgálati bíráknak az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított megbízatási idejére vonatkozó szabályt a 2019. december 31. napján szolgálati bírói megbízatással rendelkező bírák esetében is alkalmazni kell, kivéve, ha a szolgálati bíró 2020. január 31. napjáig kéri, hogy a szolgálati bírói megbízatása az eredeti kinevezési idejéig tartson.
+
+(2) A 2020. március 31. napján szolgálati bírói megbízatással rendelkező bírák szolgálati bírói megbízatását nem érinti a közigazgatási és munkaügyi bíróságok megszűnése miatti új beosztása.

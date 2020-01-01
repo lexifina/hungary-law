@@ -1,1 +1,1 @@
-41. § A bíróság elnökének, elnökhelyettesének, valamint kollégiumvezetőjének és helyettesének, csoportvezetőjének és helyettesének a hozzátartozója ugyanazon bíróságon, kollégiumban vagy csoportban bíróként nem működhet.
+41. § A bírósági vezetők hozzátartozója a bírósági vezető által vezetett bíróságon vagy bírósági szervezeti egységben bíróként nem működhet. E § alkalmazásában bírósági vezetőnek minősül a Kúria elnöke is.

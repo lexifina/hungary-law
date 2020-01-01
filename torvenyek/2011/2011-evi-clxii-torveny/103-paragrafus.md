@@ -12,6 +12,6 @@ d) a törvény szerint beosztása következtében nem ítélkezhet, illetve akin
 
 e) hozzátartozói kapcsolatban áll az OBH elnökével vagy annak helyettesével, továbbá az ítélőtábla vagy a törvényszék elnökével, illetve elnökhelyettesével.
 
-(3) A szolgálati bíróság bíráinak megbízatása a kinevezéstől számított 6 évre szól.
+(3) A szolgálati bíróság bíráinak megbízatása a kinevezéstől számított 9 évre szól.
 
 (4) Akadályoztatása esetén a szolgálati bíróság elnökét az elnökhelyettes teljes jogkörrel helyettesíti.

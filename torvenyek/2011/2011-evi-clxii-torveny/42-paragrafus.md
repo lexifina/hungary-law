@@ -8,7 +8,7 @@
 
 (5) Ha a bíró a (4) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, a munkáltatói jogkör gyakorlója a határidő lejártától számított 5 napon belül határozatban állapítja meg az összeférhetetlenség fennállását és kezdeményezi a bíró felmentését.
 
-(6) A bíró a határozattal szemben 15 napon belül a szolgálati bírósághoz fordulhat. A szolgálati bíróság a fegyelmi eljárás szabályainak megfelelő alkalmazásával eljárva soron kívül dönt az összeférhetetlenségről. Az összeférhetetlenség megállapítása esetén a szolgálati bíróság határozatot hoz a felmentési ok fennállásáról. Az összeférhetetlenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
+(6) A bíró a határozattal szemben 15 napon belül az elsőfokú szolgálati bírósághoz fordulhat. Az elsőfokú szolgálati bíróság a fegyelmi eljárás szabályainak megfelelő alkalmazásával eljárva soron kívül dönt az összeférhetetlenségről. Az összeférhetetlenség megállapítása esetén az elsőfokú szolgálati bíróság határozatot hoz a felmentési ok fennállásáról. Ha az összeférhetetlenség nem áll fenn, erről rendelkezik az elsőfokú szolgálati bíróság a határozatában. Az összeférhetetlenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
 
 (7) A 40. § (6) bekezdése szerinti okból hozott munkáltatói határozattal szemben indított eljárásban a szolgálati bíróság első- és másodfokon is 15 napon belül jár el.
 

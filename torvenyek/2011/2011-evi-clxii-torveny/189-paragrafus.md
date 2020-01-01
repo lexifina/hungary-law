@@ -22,4 +22,4 @@ j) kezességvállalással vagy kedvezményes kölcsönnel gépkocsi-vásárlás 
 
 (2) A nyugállományú bíró pénzbeli és természetbeni támogatásban részesíthető.
 
-(3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – állapítja meg.
+(3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – szabályzatban állapítja meg.

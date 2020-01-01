@@ -4,12 +4,14 @@
 
 (2) A beosztási pótlék összege a bírói illetményalap összegének
 
-a) a járásbírósági bírónál 10,
+a) a járásbírósági bírónál 20,
 
-b) a közigazgatási és munkaügyi bírósági bírónál 15,
+b) a közigazgatási és munkaügyi bírósági bírónál 20,
 
-c) a törvényszéki bírónál 20,
+c) a törvényszéki bírónál 40,
 
-d) az ítélőtábla bírájánál 40,
+d) az ítélőtábla bírájánál 70,
 
-e) a Kúria bírájánál 60 százaléka.
+e) a Kúria bírájánál 120
+
+százaléka.
