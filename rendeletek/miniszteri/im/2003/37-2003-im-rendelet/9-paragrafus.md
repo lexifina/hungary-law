@@ -1,1 +1,0 @@
-## 8. § A jegyzőkönyvhöz az eljárási cselekmény alkalmával csatolt iratokat is mellékelni kell. A mellékletet a jegyzőkönyv sorszámával kell ellátni, melyet törni kell a mellékletek 1-től kezdődő folyószámával.
