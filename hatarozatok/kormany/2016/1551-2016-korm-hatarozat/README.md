@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1551-30
 | --- | --- | --- |
 | 2016-10-13 | 2016-1551-30-22.1 | 1551/2016. (X. 13.) Korm. határozat |
 | 2017-12-04 | 2016-1551-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-01-01 | 2016-1551-30-22.3 | 2011: CXCV. törvény |

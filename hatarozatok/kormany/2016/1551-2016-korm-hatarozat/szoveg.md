@@ -1,12 +1,6 @@
 A Kormány elrendeli a Magyarországon fellelhető I. világháborús hadisírok rendbehozatalát 2017. év végéig bezárólag, ennek érdekében
 
-1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdése alapján a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet 8. Fejezeti kezelésű előirányzatok cím 2. Ágazati célelőirányzatok alcímen létrehozza I. világháborús hadisírok és emlékművek felújításának pályázati támogatása jogcímet;
-
-Felelős: honvédelmi miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: azonnal
+1.[^1]
 
 2. felhívja a nemzetgazdasági minisztert, hogy az 1. pontban létrehozásra kerülő jogcímre a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet részére jóváhagyott előirányzatokon felül legfeljebb 2000,0 millió forint költségvetési forrás biztosításáról gondoskodjon;
 
@@ -29,3 +23,5 @@ A pályázat elbírálása tekintetében
 Felelős: honvédelmi miniszter
 
 Határidő: folyamatos
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
