@@ -1,4 +1,4 @@
-28/C. § (1) Az e törvényben nem említett hivatalos lapokat a Kormány tagja az erre kijelölt honlapon, az önálló szabályozó szerv, az autonóm államigazgatási szerv és a kormányhivatal a honlapján történő közzététellel adja ki.
+28/C. § (1) Az e törvényben nem említett hivatalos lapokat a Kormány tagja az erre kijelölt honlapon, az önálló szabályozó szerv, az autonóm államigazgatási szerv és a kormányzati főhivatal a honlapján történő közzététellel adja ki.
 
 (2) Az (1) bekezdés szerinti hivatalos lapban jogszabály, közjogi szervezetszabályozó eszköz és olyan közlemény tehető közzé,
 
@@ -6,7 +6,7 @@ a) amely megjelent a Magyar Közlönyben,
 
 b) amelynek az (1) bekezdésben meghatározott hivatalos lapban történő megjelenését jogszabály elrendeli, vagy
 
-c) amely a miniszter által vezetett minisztérium, a miniszter irányítása vagy felügyelete alá tartozó központi államigazgatási szerv, az önálló szabályozó szerv, az autonóm államigazgatási szerv, illetve a kormányhivatal munkája szempontjából fontos.
+c) amely a miniszter által vezetett minisztérium, a miniszter irányítása vagy felügyelete alá tartozó központi államigazgatási szerv, az önálló szabályozó szerv, az autonóm államigazgatási szerv, illetve a kormányzati főhivatal munkája szempontjából fontos.
 
 (3) A központi államigazgatási szerv az (1) bekezdés alapján több hivatalos lapot is kiadhat, ha azt ágazati jellege indokolja.
 
