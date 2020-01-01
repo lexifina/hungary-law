@@ -1,9 +1,11 @@
 ## 23. § Hatályát veszti
 
-a) a világörökségi kezelési tervről, a világörökségi komplex hatásvizsgálati dokumentációról és a világörökségi várományos helyszínekről szóló 315/2011. (XII. 27.) Korm. rendelet,
+a)[^4]
 
-b)[^4]
+b)[^5]
 
-c) a világörökségi gondnokságról szóló 32/2012. (V. 8.) NEFMI rendelet.
+c)[^6]
 
-[^4]: A 23. § b) pontja a 21. § (2) bekezdése alapjám 2020. április 1-jén lép hatályba.
+[^4]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 23. § b) pontja a 21. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^6]: A 23. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

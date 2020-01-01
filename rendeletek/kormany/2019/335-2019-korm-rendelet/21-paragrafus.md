@@ -6,4 +6,4 @@
 
 (2) A 18–20. §, a 23. § b) pontja, valamint az 5. és a 6. melléklet 2020. április 1-jén lép hatályba.
 
-[^3]: A 20. § a 21. § (2) bekezdése alapjám 2020. április 1-jén lép hatályba.
+[^3]: A 20. § a 21. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
