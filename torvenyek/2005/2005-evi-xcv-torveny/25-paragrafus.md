@@ -30,6 +30,10 @@ b) az indikáción túli gyógyszerrendelés keretében rendelt gyógyszer előn
 
 és jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, valamint a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
+(6b) A (6) bekezdés c) pontja szerinti engedély iránti kérelem papíralapon is előterjeszthető.
+
+(6c) A (6) bekezdés c) pontja szerinti engedély kiadására irányuló eljárásban a gyógyszerészeti államigazgatási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerint, elektronikus úton közli határozatát az egészségügyi szolgáltatóval.
+
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
 (8) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.

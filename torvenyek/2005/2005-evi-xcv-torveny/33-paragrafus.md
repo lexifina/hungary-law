@@ -1,37 +1,25 @@
-33. § (1) Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
+33. § Ez a törvény
 
-a) az Európai Parlament és a Tanács 2001/20/EK irányelve (2001. április 4.) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
+a) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2001. április 4-i 2001/20/EK európai parlamenti és tanácsi irányelvnek,
 
-b) az Európai Parlament és a Tanács 2001/83/EK irányelve (2001. november 6.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről;
+b) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelvnek,
 
-c) az Európai Parlament és a Tanács 2004/27/EK irányelve (2004. március 31.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról;
+c) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról szóló, 2004. március 31-i 2004/27/EK európai parlamenti és tanácsi irányelvnek,
 
-d) az Európai Parlament és a Tanács 2004/10/EK (2004. február 11.) irányelve a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
+d) a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2004. február 11-i 2004/10/EK európai parlamenti és tanácsi irányelvnek,
 
-e) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelv;
+e) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelvnek,
 
-f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében;
+f) a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében című, 2005. április 8-i 2005/28/EK bizottsági irányelvnek,
 
-g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében a 2001/82/EK és a 2001/83/EK irányelvek módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelv.
+g) a 2001/82/EK és a 2001/83/EK irányelvnek a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében történő módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelvnek,
 
-h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv.
+h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelvnek,
 
-i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról;
+i) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
 
-j) az Európai Parlament és a Tanács 2012/26/EU irányelve (2012. október 25.) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról.
+j) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2012. október 25-i 2012/26/EU európai parlamenti és tanácsi irányelvnek,
 
-(2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek
 
-a) az Európai Parlament és a Tanács 726/2004/EK rendelete (2004. március 31.) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról,
-
-b) az Európai Parlament és a Tanács 1901/2006/EK rendelete (2006. december 12.) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról,
-
-c) az Európai Parlament és a Tanács 1394/2007/EK rendelete (2007. november 13.) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról,
-
-d) a Bizottság 1234/2008/EK (2008. november 24.) rendelete az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról,
-
-e) a Bizottság 357/2014/EU felhatalmazáson alapuló rendelete (2014. február 3.) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről,
-
-f) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
-
-g) az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet.
+való megfelelést szolgálja.

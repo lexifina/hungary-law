@@ -1,4 +1,4 @@
-15/B. § (1) Valamely anyag vagy vegyületcsoport az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat 4. cikk (1) bekezdése szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
+15/B. § (1) Valamely anyag vagy vegyületcsoport a Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontjáról szóló 2006. december 12-i 1920/2006/EK európai parlamenti és tanácsi rendelet 5a. cikke szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
 (2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat az egészségügyért felelős miniszter rendeletében állapítja meg.
 

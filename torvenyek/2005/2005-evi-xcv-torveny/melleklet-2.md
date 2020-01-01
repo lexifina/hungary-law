@@ -130,15 +130,7 @@ DOC
 
 |
 
-4-fluoroamphetamine
-
-(4-fluoramfetamin)
-
-/ 4-FA, 4-FMP
-
 |
-
-1-(4-fluorophenyl)propan-2-amine
 
 |
 
@@ -638,11 +630,7 @@ Etaqualone (etakvalon)
 
 |
 
-Ethylphenidate (etilfenidát)
-
 |
-
-ethyl phenyl(piperidin-2-yl)acetate
 
 |
 
@@ -914,13 +902,7 @@ AH-7921
 
 |
 
-AB-CHMINACA
-
 |
-
-N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-
-
-3-carboxamide
 
 |
 
@@ -956,11 +938,7 @@ N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole-
 
 |
 
-AB-PINACA
-
 |
-
-N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide
 
 |
 
@@ -1217,6 +1195,54 @@ EG-018
 |
 
 (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone”
+
+|
+
+92.
+
+|
+
+ciklopropil-fentanil
+
+|
+
+N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid
+
+|
+
+93.
+
+|
+
+metoxiacetil-fentanil
+
+|
+
+2-metoxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid
+
+|
+
+94.
+
+|
+
+ADB-CHMINACA
+
+|
+
+N-(1-amino-3,3-demetil-1-oxobután-2-il)–1-(ciklohexil-metil)–1H-indazol-3-karboxamid
+
+|
+
+95.
+
+|
+
+CUMYL-4CN-BINACA
+
+|
+
+1-(4-ciano-butil)–N-(2-fenilpropán-2-il)–1H-indazol-3-karboxamid
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 

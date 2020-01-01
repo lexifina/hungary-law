@@ -27,3 +27,5 @@ e) az engedélyezés előtti gyógyszeralkalmazás nem valósít meg a Gyftv. al
 (5) A gyógyszerészeti államigazgatási szerv az engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy, sürgős szükség esetén soron kívül, de legkésőbb három napon belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
 
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
+
+(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.

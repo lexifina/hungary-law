@@ -21,3 +21,7 @@
 (10) Az e törvényben meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 (11) Az e törvény hatálya alá tartozó engedélyezési és ellenőrzési eljárásokban az ügyintézési határidőbe nem számítanak be az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló az Európai Parlament és a Tanács 2001. november 6-i 2001/83/EK irányelvében meghatározott időtartamok sem.
+
+(12) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési és ellenőrzési eljárásokban, ha ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem hozható döntés, az általános közigazgatási rendtartásról szóló törvény szerinti kapcsolódó eljárás szabályait azzal kell alkalmazni, hogy az egyes döntéseket külön eljárások keretében kell meghozni.
+
+(13) Az e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály alapján hivatalból indult hatósági eljárás ügyintézési határideje 110 nap.
