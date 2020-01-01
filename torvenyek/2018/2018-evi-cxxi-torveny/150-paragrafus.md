@@ -2,6 +2,6 @@
 
 a)
 
-b)
+b) 5. § (2) bekezdése,
 
 c)
