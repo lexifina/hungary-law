@@ -2,11 +2,11 @@
 
 13. § (1) A központi költségvetés költségvetési hiányának finanszírozása érdekében az államháztartásért felelős miniszter az ÁKK Zrt. útján
 
-a) a központi költségvetésről szóló törvény felhatalmazása alapján szervezi az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terhére elszámolandó állampapír-kibocsátást, hitelfelvételt és adósság-átvállalást,
+a) a központi költségvetésről szóló törvény felhatalmazása alapján szervezi az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terhére elszámolandó állampapír-kibocsátást, hitelfelvételt és adósság-átvállalást,
 
 b) elkészíti a központi költségvetés éves és középtávú finanszírozási tervét, kidolgozza az a) pont szerinti adósság finanszírozási stratégiáját,
 
-c) gondoskodik az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terheinek kifizetéséről,
+c) gondoskodik az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terheinek kifizetéséről,
 
 d) a központi költségvetésről szóló törvény felhatalmazása alapján az Áht. 76. § (1) bekezdés b) pontja szerinti előrejelzés figyelembevételével gondoskodik a központi költségvetés fizetőképességének fenntartásáról, valamint az állam átmenetileg szabad pénzeszközeinek kezeléséről,
 
@@ -16,7 +16,7 @@ f) a másodlagos állampapír-piacon sajátszámlás kereskedést, értékpapír
 
 g) elemzi az a) pont szerinti adósságszolgálat és az állampapírpiac folyamatait,
 
-h) közreműködik az államadósság számításában, tájékoztatást ad az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része alakulásáról, az állampapírpiac folyamatairól,
+h) közreműködik az államadósság számításában, tájékoztatást ad az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része alakulásáról, az állampapírpiac folyamatairól,
 
 i) véleményezi az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételeit,
 

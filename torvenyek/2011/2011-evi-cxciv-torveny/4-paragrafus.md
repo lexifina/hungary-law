@@ -1,12 +1,12 @@
-4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára tervezett értékét.
+4. § (1) A központi költségvetésről szóló törvényben meg kell határozni a költségvetési év utolsó napjára tervezett államadósság-mutató értékét.
 
-(2) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme egyaránt meghaladja a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
+(2)
 
-(2a) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme közül legalább az egyik nem haladja meg a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése legalább 0,1 százalékpontot érjen el.
+(2a) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése, az államadósság csökkentésre vonatkozó európai uniós szabályok érvényesítése mellett legalább 0,1 százalékpontot érjen el.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 
-(3a) A központi költségvetésről szóló törvény végrehajtása során az Alaptörvény 37. cikk (2)–(3) bekezdése szerinti kölcsön felvételekor, pénzügyi kötelezettség vállalásakor a költségvetési év várható bruttó hazai terméke és az államadóság költségvetési év utolsó napjára tervezett, az (1) bekezdés szerint meghatározott értékét kell számításba venni.
+(3a) A központi költségvetésről szóló törvény végrehajtása során az Alaptörvény 37. cikk (2)–(3) bekezdése szerinti kölcsön felvételekor, pénzügyi kötelezettség vállalásakor az államadósság-mutatónak az (1) bekezdés szerint meghatározott értékét, az 5. § (1) bekezdése szerinti féléves felülvizsgálat elkészítését követően az államadósság-mutatónak a felülvizsgálatkor számított várható értékét kell számításba venni.
 
 (3b) Nem érinti az Alaptörvény 37. cikk (3) bekezdése szerinti kölcsön felvételére, pénzügyi kötelezettség vállalására irányuló szerződés érvényességét, ha a kölcsön felvételekor, a pénzügyi kötelezettség vállalásakor nem ismert okból a költségvetési év utolsó napján az államadósság-mutató meghaladja a viszonyítási év mutatójának értékét.
 

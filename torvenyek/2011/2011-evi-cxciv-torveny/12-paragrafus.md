@@ -2,7 +2,7 @@
 
 (2) Az ÁKK Zrt. bevételei:
 
-a) az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része kezelésével összefüggésben a központi költségvetésről szóló törvényben e célra megállapított előirányzat, amelyet havi egyenlő részletekben kell az ÁKK Zrt. rendelkezésére bocsátani,
+a) az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része kezelésével összefüggésben a központi költségvetésről szóló törvényben e célra megállapított előirányzat, amelyet havi egyenlő részletekben kell az ÁKK Zrt. rendelkezésére bocsátani,
 
 b) egyéb bevételek.
 

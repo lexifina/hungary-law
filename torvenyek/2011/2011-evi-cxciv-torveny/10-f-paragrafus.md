@@ -1,0 +1,5 @@
+10/F. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-nál kisebb önkormányzati tulajdonban álló gazdasági társaság és a 100%-os önkormányzati tulajdonban álló gazdasági társaság 100%-nál kisebb tulajdonában álló gazdasági társaság (a továbbiakban együtt: részben önkormányzati tulajdonban lévő gazdasági társaság) esetében a tulajdonos önkormányzatot – a Kormány (2) bekezdés szerinti előzetes hozzájárulása hiányában – a gazdasági társaság által kötött adósságot keletkeztető ügylettel összefüggésben nem terhelik fizetési kötelezettségek és ilyen kötelezettséget az önkormányzat önként sem vállalhat.
+
+(2) A részben önkormányzati tulajdonban lévő gazdasági társaság adósságot keletkeztető ügylete kapcsán a tulajdonos önkormányzat a Kormány előzetes hozzájárulását kérheti. A hozzájárulás kérelmezésére és elbírálására a 10/E. §-ban foglaltak alkalmazandóak.
+
+(3) Az (1) és (2) bekezdés szerinti szabályozás nem vonatkozik az olyan részben önkormányzati tulajdonban lévő gazdasági társaságok adósságot keletkezető ügyleteire, amelyek cégformája nyilvánosan működő részvénytársaság.

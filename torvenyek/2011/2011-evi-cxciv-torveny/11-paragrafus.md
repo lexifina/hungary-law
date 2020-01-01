@@ -4,7 +4,7 @@
 
 ## 4. Az Államadósság Kezelő Központ jogállása
 
-11. § (1) Az államháztartás központi alrendszere finanszírozási igényének teljesítése és a 3. § (1) bekezdés a), b), e) és g) pontja szerinti adósságának kezelése érdekében végzett pénzügyi műveletekről az államháztartásért felelős miniszter az ÁKK Zrt. útján gondoskodik.
+11. § (1) Az államháztartás központi alrendszere finanszírozási igényének teljesítése és a 8. § (2) bekezdés a), b), e) és g) pontja szerinti adósságának kezelése érdekében végzett pénzügyi műveletekről az államháztartásért felelős miniszter az ÁKK Zrt. útján gondoskodik.
 
 (2) Az ÁKK Zrt. egyszemélyes zártkörűen működő részvénytársaság, részvényei névre szólók és forgalomképtelenek.
 
