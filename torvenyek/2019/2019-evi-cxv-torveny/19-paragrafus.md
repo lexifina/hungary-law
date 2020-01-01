@@ -1,0 +1,7 @@
+19. § A Vkt. 25. §-a helyébe a következő rendelkezés lép:
+
+„25. § (1) A biztosítási szerződés akkor felel meg a 24. § (1) bekezdésében írt követelményeknek, ha az fedezetet nyújt a 2017. évi CVII. törvénnyel kihirdetett a felelősségnek a belvízi hajózásban való korlátozásáról szóló 2012. évi strasbourgi egyezmény (CLNI 2012) 2. cikkében meghatározott korlátozás hatálya alá eső követelések kockázati körében bekövetkezett károkra – beleértve a sérelemdíjat – a CLNI 2012-ben meghatározott biztosítási összegek legalább 10%-os mértékéig.
+
+(2) A biztosító a 2017. évi CVII. törvénnyel kihirdetett a felelősségnek a belvízi hajózásban való korlátozásáról szóló 2012. évi strasbourgi egyezményben (CLNI 2012) foglalt korlátozások esetein kívül is mentesülhet szolgáltatási kötelezettsége alól.
+
+(3) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt vízi járműre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzembentartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzembentartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzembentartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.”
