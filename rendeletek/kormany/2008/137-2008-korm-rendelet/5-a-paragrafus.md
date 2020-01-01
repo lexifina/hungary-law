@@ -1,12 +1,12 @@
-5/A. §[^20] (1) A Hivatal – valamint az általa kirendelt szakértő – a vizsgaközpontokat, vizsgarendszereket, vizsgahelyeket a munkaterve alapján ellenőrzi.
+5/A. §[^28] (1) A Hivatal – valamint az általa kirendelt szakértő – a vizsgaközpontokat, vizsgarendszereket, vizsgahelyeket a munkaterve alapján ellenőrzi.
 
 (2) Az ellenőrzést végző személy az ellenőrzés során
 
-a) betekinthet a vizsgaközpont és vizsgahely szakmai működésére vonatkozó irataiba, valamint a vizsgákon felhasznált írásbeli feladatlapokba,
+a)[^29] betekinthet a vizsgaközpont és vizsgahely szakmai működésére vonatkozó valamennyi írásos és elektronikus dokumentumba,
 
 b) részt vehet a vizsgákon, és
 
-c) kérdéseket tehet fel a vizsgáztatóknak.
+c)[^30] kérdéseket tehet fel a a vizsgaközpont és a vizsgahely munkatársainak, illetve a vizsgáztatóknak.
 
 (3) Ha a Hivatal az ellenőrzés során megállapítja, hogy az akkreditált vizsgaközpont, a vizsgarendszer egésze, illetve annak egy része vagy a vizsgahely nem felel meg a jogszabályokban és az Akkreditációs Kézikönyvben foglalt előírásoknak, a vizsgaközpontot határidő kitűzésével felhívja a jogszabálysértés megszüntetésére.
 
@@ -14,7 +14,9 @@ c) kérdéseket tehet fel a vizsgáztatóknak.
 
 (5) A Hivatal az akkreditációt visszavonja a vizsga eredményére közvetlenül kiható, súlyos és ismételt szabálysértés esetén.
 
-(6)[^21] A felfüggesztésről, illetve a visszavonásról szóló határozatban a Hivatalnak rendelkeznie kell a visszavonás, illetve a felfüggesztés miatt szükséges pénzügyi, jogi és szervezési kérdések rendezésének módjáról. Az akkreditáció felfüggesztéséről, visszavonásáról szóló végleges határozatot a Hivatal honlapján közhírré kell tenni.
+(6)[^31] A felfüggesztésről, illetve a visszavonásról szóló határozatban a Hivatalnak rendelkeznie kell a visszavonás, illetve a felfüggesztés miatt szükséges pénzügyi, jogi és szervezési kérdések rendezésének módjáról. Az akkreditáció felfüggesztéséről, visszavonásáról szóló végleges határozatot a Hivatal honlapján közhírré kell tenni.
 
-[^20]: Az 5/A. §-t a 33/2014. (II. 18.) Korm. rendelet 4. §-a iktatta be.
-[^21]: Az 5/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 221. § a)–b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^28]: Az 5/A. §-t a 33/2014. (II. 18.) Korm. rendelet 4. §-a iktatta be.
+[^29]: Az 5/A. § (2) bekezdés a) pontja a 346/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^30]: Az 5/A. § (2) bekezdés c) pontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
+[^31]: Az 5/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 221. § a)–b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
