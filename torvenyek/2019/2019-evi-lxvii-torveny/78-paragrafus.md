@@ -4,4 +4,4 @@ a)
 
 b)
 
-c) 14. § (2) bekezdés e) pont ed) alpontja.
+c)
