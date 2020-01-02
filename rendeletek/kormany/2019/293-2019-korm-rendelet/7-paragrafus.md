@@ -1,1 +1,3 @@
-## 6. § Az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről szóló 245/2018. (XII. 17.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-ában az „I. és II. melléklete” szövegrész helyébe a „II. melléklete” szöveg lép.
+## 6. §[^2]
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
