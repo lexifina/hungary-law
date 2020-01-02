@@ -1,1 +1,3 @@
-## „(3) A bölcsődei pótlék tekintetében közalkalmazotti jogviszonyban töltött időnek a fizetési fokozat megállapításának alapjául szolgáló időt kell tekinteni. A közalkalmazottnak a 6. és 6/a. számú mellékletben foglalt táblázat szerinti, a közalkalmazotti jogviszonyban töltött idő alapján történő besorolása annak a tárgyévnek az első napján történik, amelyben a Törvény 65. § (1) bekezdése szerint magasabb fizetési fokozatba lép.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
