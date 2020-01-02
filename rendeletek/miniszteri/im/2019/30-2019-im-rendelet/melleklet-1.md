@@ -1,4 +1,4 @@
-## 19. §[^4]
+## 19. §[^12]
 
 1. melléklet a 30/2019. (XII. 20.) IM rendelethez
 
@@ -524,4 +524,4 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^4]: A 19. § az 5. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^12]: A 19. § az 5. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
