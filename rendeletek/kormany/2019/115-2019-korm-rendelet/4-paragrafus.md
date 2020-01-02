@@ -1,1 +1,3 @@
-4. § Az 1. §-ban az „a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény 3. § (1) bekezdésében” szövegrész helyébe az „a közigazgatási szabályszegések szankcióiról szóló törvényben” szöveg lép.
+4. §[^2]
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
