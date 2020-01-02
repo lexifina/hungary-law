@@ -1,1 +1,0 @@
-## „6. 12 hónapon belül gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, csecsemőgondozási díjban, gyermekgondozási díjban, ápolási díjban vagy gyermekek otthongondozási díjában részesült, vagy”
