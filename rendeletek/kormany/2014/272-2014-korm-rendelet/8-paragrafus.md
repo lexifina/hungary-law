@@ -26,7 +26,7 @@
 
 10. az irányító hatósággal együttműködve ellátja az európai uniós források felhasználásához kötődő partnerségi egyeztetési folyamatok, valamint a kommunikációs és tájékoztatási feladatok koordinációját;
 
-11.[^83] meghatározza a 6., a 8., a 9. és a 12. alcím szerinti szervek vonatkozásában a munkatársakra vonatkozó képzési stratégiát, jóváhagyja a képzésekért felelős szervezeti egység által kialakított képzési szabályzatot és koordinálja a központilag biztosított képzéseket;
+11.[^83] meghatározza a 6., a 7/A., a 8., a 9. és a 12. alcím szerinti szervek vonatkozásában a munkatársakra vonatkozó képzési stratégiát, jóváhagyja a képzésekért felelős szervezeti egység által kialakított képzési szabályzatot és koordinálja a központilag biztosított képzéseket;
 
 12.[^84] az irányító hatósággal együttműködve megállapítja az operatív programok tervezéséhez és módosításához kapcsolódó stratégiai környezeti vizsgálat szükségességét, szükség esetén az irányító hatósággal együttműködve elvégzi a stratégiai környezeti vizsgálatot, koordinálja az érintett hatóságokkal történő egyeztetést, nyomon követi a stratégiai környezeti vizsgálat javaslatainak megvalósítását.
 
@@ -39,6 +39,6 @@
 [^80]: A 8. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 18. pontja szerint módosított szöveg.
 [^81]: A 8. § (3) bekezdés 2. pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 4. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^82]: A 8. § (3) bekezdés 3. pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 5. pontja szerint módosított szöveg.
-[^83]: A 8. § (3) bekezdés 11. pontját a 144/2015. (VI. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^83]: A 8. § (3) bekezdés 11. pontját a 144/2015. (VI. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^84]: A 8. § (3) bekezdés 12. pontját a 347/2015. (XI. 20.) Korm. rendelet 4. §-a iktatta be.
 [^85]: A 8. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 19. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 12/A. [^156] Az irányító hatóság, a közreműködő szervezet és az alapok alapját végrehajtó szervezet kijelölése
+## 12/A. [^157] Az irányító hatóság, a közreműködő szervezet és az alapok alapját végrehajtó szervezet kijelölése
 
 ## 24/A. § A 3. mellékletben foglalt táblázat A oszlopában meghatározott program tekintetében
 
@@ -6,4 +6,4 @@ a) az irányító hatóság feladatait a 3. mellékletben foglalt táblázat B o
 
 b) a közreműködő szervezet feladatait a 3. mellékletben foglalt táblázat C oszlopában meghatározott szervezet
 
-[^156]: A 12/A. alcímet (24/A–24/B. §) a 347/2015. (XI. 20.) Korm. rendelet 9. §-a iktatta be.
+[^157]: A 12/A. alcímet (24/A–24/B. §) a 347/2015. (XI. 20.) Korm. rendelet 9. §-a iktatta be.

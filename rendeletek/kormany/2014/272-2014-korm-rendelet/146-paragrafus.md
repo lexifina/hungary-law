@@ -2,9 +2,9 @@
 
 a) a projekt támogatási szerződésnek megfelelő fizikai és pénzügyi előrehaladását és azok összhangját,
 
-b)[^822] azt, hogy a kifizetési igényléshez benyújtott alátámasztó bizonylatok és dokumentumok eredeti példánya rendelkezésre állnak
+b)[^838] azt, hogy a kifizetési igényléshez benyújtott alátámasztó bizonylatok és dokumentumok eredeti példánya rendelkezésre állnak
 
-c)[^823] a kifizetés igényléshez benyújtott összesítőkhöz kapcsolódó elszámoló bizonylatokat,
+c)[^839] a kifizetés igényléshez benyújtott összesítőkhöz kapcsolódó elszámoló bizonylatokat,
 
 d) az elszámoló bizonylatokhoz tartozó szerződéseket és a kapcsolódó teljesítésigazolásokat,
 
@@ -22,9 +22,9 @@ j) a projekt szintű elkülönített számviteli nyilvántartás vezetését,
 
 k) a projektben vállalt indikátorok és projekt szintű mérföldkövek teljesülését,
 
-l)[^824] visszatérítendő támogatás esetén azoknak a végrehajtási feltételeknek a teljesülését, amelyek figyelembevételével az irányító hatóság a visszatérítéssel érintett támogatás arányát meghatározza.
+l)[^840] visszatérítendő támogatás esetén azoknak a végrehajtási feltételeknek a teljesülését, amelyek figyelembevételével az irányító hatóság a visszatérítéssel érintett támogatás arányát meghatározza.
 
-(2)[^825] Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, az irányító hatóság által előzetesen jóváhagyott módszertan szerint.
+(2)[^841] Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, az irányító hatóság által előzetesen jóváhagyott módszertan szerint.
 
 (3) A fenntartási időszakban kockázatelemzés alapján, mintavétellel kiválasztott projektek körében vizsgálni kell
 
@@ -36,10 +36,10 @@ b) a projekttel kapcsolatos dokumentumok nyilvántartását és megőrzését.
 
 (5) Az irányító hatóság vagy az irányító hatóság által megbízott személy az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet, továbbá az intézkedési tervek teljesüléséről szóló kedvezményezetti tájékoztatót rögzíti a monitoring és információs rendszerben.
 
-(6)[^826]
+(6)[^842]
 
-[^822]: A 146. § (1) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 25. pontja szerint módosított szöveg.
-[^823]: A 146. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 83. § (1) bekezdésével megállapított szöveg.
-[^824]: A 146. § (1) bekezdés l) pontját a 466/2015. (XII. 29.) Korm. rendelet 39. §-a iktatta be.
-[^825]: A 146. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 172. pontja szerint módosított szöveg.
-[^826]: A 146. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 83. § (2) bekezdése iktatta be, hatályon kívül helyezte a 466/2015. (XII. 29.) Korm. rendelet 54. § (1) bekezdés 8. pontja.
+[^838]: A 146. § (1) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 25. pontja szerint módosított szöveg.
+[^839]: A 146. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 83. § (1) bekezdésével megállapított szöveg.
+[^840]: A 146. § (1) bekezdés l) pontját a 466/2015. (XII. 29.) Korm. rendelet 39. §-a iktatta be.
+[^841]: A 146. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 172. pontja szerint módosított szöveg.
+[^842]: A 146. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 83. § (2) bekezdése iktatta be, hatályon kívül helyezte a 466/2015. (XII. 29.) Korm. rendelet 54. § (1) bekezdés 8. pontja.

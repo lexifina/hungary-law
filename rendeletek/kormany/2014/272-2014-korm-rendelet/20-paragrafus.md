@@ -82,7 +82,9 @@ d) részt vesz az európai uniós források felhasználásáért felelős minisz
 
 29.[^146] szükség esetén az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott nemzeti hatósággal egyetértésben javaslatot tesz az Európai Hálózatfinanszírozási Eszközből finanszírozott projektek megfelelő operatív programból történő finanszírozására és a projekt Európai Hálózatfinanszírozási Eszközből történő finanszírozásának egyidejű megszüntetésére, valamint ennek a Kormány általi jóváhagyására való felterjesztésére,
 
-30.[^147] megküldi az európai uniós források felhasználásáért felelős miniszter részére az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 21 nappal.
+30.[^147] megküldi az európai uniós források felhasználásáért felelős miniszter részére az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 21 nappal,
+
+31.[^148] elvégzi a megfelelőségi és hitelességi vizsgálatokat az Európai Bizottság információs rendszerébe feltölteni kívánt összesített indikátoradatok tekintetében a koordinációs szerv által nyújtott informatikai támogatással és az eredendő adatminőségi hibakockázat figyelembevételével.
 
 [^129]: A 12. alcím címe a 98/2016. (V. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^130]: A 20. § 1. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 106/2018. (VI. 15.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
@@ -103,3 +105,4 @@ d) részt vesz az európai uniós források felhasználásáért felelős minisz
 [^145]: A 20. § 26. pontja a 98/2016. (V. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^146]: A 20. § 29. pontját a 75/2016. (IV. 5.) Korm. rendelet 55. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
 [^147]: A 20. § 30. pontját a 98/2016. (V. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^148]: A 20. § 31. pontját a 366/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

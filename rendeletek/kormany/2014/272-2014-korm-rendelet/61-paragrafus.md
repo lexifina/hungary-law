@@ -1,6 +1,6 @@
-## 26. [^367] A támogatási kérelem tartalmi értékelése, döntéshozatal
+## 26. [^369] A támogatási kérelem tartalmi értékelése, döntéshozatal
 
-61. §[^368] (1) A jogosultsági kritériumoknak megfelelő támogatási kérelmeket pontozással kell értékelni.
+61. §[^370] (1) A jogosultsági kritériumoknak megfelelő támogatási kérelmeket pontozással kell értékelni.
 
 (2) Az (1) bekezdést
 
@@ -20,14 +20,14 @@ b) szakaszos elbírálás esetén legkésőbb a felhívásban rögzített szakas
 
 c) az egységes kérelemben benyújtott vagy egyéb terület-, illetve állatlétszám alapú támogatás igénybevételére benyújtott kérelem alapján akkor ítélhető meg támogatás, ha az megfelel a felhívásban meghatározott valamennyi feltételnek.
 
-(4)[^369] Standard kiválasztási eljárásrend esetén szakaszos elbírálást kell alkalmazni, amely során legkésőbb a felhívásban rögzített szakasz zárását vagy beadási határnapját követően kell a támogatási kérelmeket jogosultsági és tartalmi értékelésre bocsátani, és az egy szakaszban beérkezett kérelmek támogathatóságáról a felhívásban előírt tartalmi értékelési szempontoknak való megfelelés szerinti sorrendiségük alapján kell dönteni.
+(4)[^371] Standard kiválasztási eljárásrend esetén szakaszos elbírálást kell alkalmazni, amely során legkésőbb a felhívásban rögzített szakasz zárását vagy beadási határnapját követően kell a támogatási kérelmeket jogosultsági és tartalmi értékelésre bocsátani, és az egy szakaszban beérkezett kérelmek támogathatóságáról a felhívásban előírt tartalmi értékelési szempontoknak való megfelelés szerinti sorrendiségük alapján kell dönteni.
 
-(5)[^370] Kiemelt kiválasztási eljárásrend esetén a támogatási kérelmek tartalmi értékelése során azt kell vizsgálni, hogy a határidőig benyújtott támogatási kérelmek megfelelnek-e a felhívásban előírt értékelési szempontoknak. A 102. § (2) bekezdése kivételével, ha a Kbt. 53. § (6) bekezdése szerinti feltételes közbeszerzési eljárás dokumentációjának műszaki tartalmát az irányító hatóság előzetesen jóváhagyta, az értékelés során kizárólag a projekt e rendelet hatálya alá tartozó forrásból való támogathatósága vizsgálható. Ha a 62. § (2) bekezdése szerinti tartalmi értékelési szempontok alapján megállapítható, hogy a kérelem nem támogatható, az irányító hatóság a kérelmet elutasíthatja azzal, hogy a támogatást igénylőnek új kérelmet kell benyújtania.
+(5)[^372] Kiemelt kiválasztási eljárásrend esetén a támogatási kérelmek tartalmi értékelése során azt kell vizsgálni, hogy a határidőig benyújtott támogatási kérelmek megfelelnek-e a felhívásban előírt értékelési szempontoknak. A 102. § (2) bekezdése kivételével, ha a Kbt. 53. § (6) bekezdése szerinti feltételes közbeszerzési eljárás dokumentációjának műszaki tartalmát az irányító hatóság előzetesen jóváhagyta, az értékelés során kizárólag a projekt e rendelet hatálya alá tartozó forrásból való támogathatósága vizsgálható. Ha a 62. § (2) bekezdése szerinti tartalmi értékelési szempontok alapján megállapítható, hogy a kérelem nem támogatható, az irányító hatóság a kérelmet elutasíthatja azzal, hogy a támogatást igénylőnek új kérelmet kell benyújtania.
 
-(6)[^371] Az egységes kérelem értékeléséhez a KAP rendelet 74. cikke szerinti ellenőrzéseket kell lefolytatni. Az egységes kérelem értékelése során az abban szereplő egyes intézkedésekkel kapcsolatban végzett ellenőrzések eredményét az egységes kérelemben szereplő minden érintett intézkedés vonatkozásában figyelembe kell venni.
+(6)[^373] Az egységes kérelem értékeléséhez a KAP rendelet 74. cikke szerinti ellenőrzéseket kell lefolytatni. Az egységes kérelem értékelése során az abban szereplő egyes intézkedésekkel kapcsolatban végzett ellenőrzések eredményét az egységes kérelemben szereplő minden érintett intézkedés vonatkozásában figyelembe kell venni.
 
-[^367]: A 26. alcím címe a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 11. pontja szerint módosított szöveg.
-[^368]: A 61. § a 347/2015. (XI. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^369]: A 61. § (4) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 21. pontja szerint módosított szöveg.
-[^370]: A 61. § (5) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^371]: A 61. § (6) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
+[^369]: A 26. alcím címe a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^370]: A 61. § a 347/2015. (XI. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^371]: A 61. § (4) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^372]: A 61. § (5) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^373]: A 61. § (6) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 17. §-a iktatta be.
