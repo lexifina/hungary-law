@@ -1,5 +1,3 @@
 ## 70. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-201. § A hivatalos statisztikáról szóló 2016. évi CLV. törvény 34. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja a honlapján nyilvánosságra hozhatja a 32. § (1) bekezdés a) és b) pontjában, valamint a 33. § (1) bekezdésében meghatározottak alapján elmarasztalt jogi személy és személyiségi joga szerint jogképes szervezet adatszolgáltató nevét, székhelyét, telephelyét, adószámát és a kiszabott bírság összegét, ha a véglegessé vált hatósági határozat hozatalára sor került, feltéve, hogy a határozat elleni közigazgatási per jogerősen lezárult, illetve a közigazgatási per megindítására nyitva álló határidő eredménytelenül letelt. Ebben az esetben az elmarasztalt adatszolgáltató adatai a közigazgatási per megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a közigazgatási per jogerős lezárását követő naptól, a hatósági határozat hatályában fenntartott része vonatkozásában hozhatók nyilvánosságra.”
+201. §

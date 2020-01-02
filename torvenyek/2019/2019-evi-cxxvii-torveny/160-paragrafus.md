@@ -2,12 +2,12 @@
 
 (2) Hatályát veszti az Mötv.
 
-a) 85. § (12) bekezdése,
+a)
 
 b)
 
-c) 136. § (3) és (4) bekezdése,
+c)
 
-d) 141. § (1) bekezdés c) pontja,
+d)
 
-e) „A bírósági eljárás kezdeményezésének közös szabályai” alcíme.
+e)
