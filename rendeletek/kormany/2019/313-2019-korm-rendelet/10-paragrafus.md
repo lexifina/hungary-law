@@ -1,3 +1,5 @@
-## 9. § A Pr. 18. § (1a) bekezdésében a „közeli hozzátartozója” szövegrész helyébe a „hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont]” szöveg lép.
+## 9. §[^10]
 
 ## 3. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosítása
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

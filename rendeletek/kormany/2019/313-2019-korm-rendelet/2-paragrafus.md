@@ -1,7 +1,3 @@
-## lép.
+## 1. §[^2]
 
-## 2. § Hatályát veszti a Fotvhr.
-
-a) 1. § (5) bekezdés c) pontjában a „mozgásszervi” szövegrész,
-
-b) 1. számú melléklet 5. pontjában az „a mozgásrendszer károsodása vagy funkciózavara miatt” szövegrész.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
