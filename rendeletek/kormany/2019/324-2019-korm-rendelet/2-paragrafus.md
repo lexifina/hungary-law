@@ -1,1 +1,3 @@
-## 1. § Az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló 275/2004. (X. 8.) Korm. rendelet (a továbbiakban: R1.) 5. § (3), (5) és (7) bekezdésében a „(2) bekezdés szerinti” szövegrész helyébe a „Natura 2000 területek földrészleteit meghatározó” szöveg lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
