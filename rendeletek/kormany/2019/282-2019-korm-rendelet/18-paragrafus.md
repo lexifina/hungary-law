@@ -1,17 +1,18 @@
-## szerint módosul.
+## 18. §[^9]
 
-## 18. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+1–6.[^10]
 
-1–6.[^5]
+7.[^11]
 
-7. 144/A. § (1) bekezdésében a „hónap 15. napjáig” szövegrész helyébe a „hónap 20. napjáig” szöveg,
+8–13.[^12]
 
-8–13.[^6]
+14.[^13]
 
-14. 167/H. § (2) bekezdésében a „bírságot szab ki, vagy indokolt esetben a bírság kiszabását mellőzi.” szövegrész helyébe a „bírságot szab ki.” szöveg és
+15.[^14]
 
-15.[^7]
-
-[^5]: A 18. § 1–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 18. § 8–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 18. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 18. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 18. § 1–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 18. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 18. § 8–13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 18. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 18. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
