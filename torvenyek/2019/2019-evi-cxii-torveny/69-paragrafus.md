@@ -1,1 +1,0 @@
-69. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 21. § (1) bekezdés j) pontjában a „köz- és a felsőoktatás” szövegrész helyébe a „köznevelés, a szakképzés és a felsőoktatás” szöveg lép.
