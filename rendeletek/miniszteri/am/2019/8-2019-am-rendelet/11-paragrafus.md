@@ -1,4 +1,4 @@
-## 10. §[^9]
+## 10. §[^11]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. § és az 1. melléklet 2020. január 1-jén lép hatályba.
 
-[^9]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
