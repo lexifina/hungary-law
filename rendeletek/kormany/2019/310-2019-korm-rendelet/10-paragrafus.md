@@ -1,3 +1,3 @@
-## 9. § A Cstvhr. 27/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „(1) A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek alkalmazása szempontjából pénzbeli családi ellátás a családi pótlék, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekgondozási díj és az örökbefogadói díj.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

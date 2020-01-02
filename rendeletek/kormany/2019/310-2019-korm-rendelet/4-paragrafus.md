@@ -1,5 +1,3 @@
-## 3. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet (a továbbiakban: TnyR.) 59/E. §-a a következő (3) és (4) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(3) Ha a nyugdíjbiztosítási igazgatási szerv hatáskörébe tartozó ellátások megállapítása iránti eljárásban az egészségi állapot szakkérdését vizsgálni kell, a kérelemhez csatolni kell az egészségi állapot megállapításához szükséges egészségügyi iratokat.
-
-## (4) Ha az egészségi állapotra tekintettel megállapítható ellátások felülvizsgálata során az orvosszakértői szervet szakhatóságként be kell vonni, a Nyugdíjfolyósító Igazgatóság a szakhatóság megkeresését megelőzően értesíti az ügyfelet a felülvizsgálat szükségességéről, és a jogkövetkezményről való tájékoztatás mellett felhívja az ellátásban részesülő személyt, hogy az egészségi állapot megállapításához szükséges egészségügyi iratokat küldje meg a szakhatóságnak. Ha az ellátásban részesülő személy a felhívásban foglaltaknak nem tesz eleget, a szakhatóság értesíti erről a Nyugdíjfolyósító Igazgatóságot.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

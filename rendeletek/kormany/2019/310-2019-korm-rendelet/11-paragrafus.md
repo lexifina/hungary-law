@@ -1,3 +1,3 @@
-## 10. § A Cstvhr. 27/H. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 10. §[^11]
 
-## „(3) Ha a különbözet összegének megállapításához a gyermekgondozási díj, illetve az örökbefogadói díj napi összegének vagy a jogosultság időtartamának ismerete szükséges, az EGT-s járási hivatal megkeresi az ellátás megállapítására hatáskörrel rendelkező szervet.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
