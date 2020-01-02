@@ -36,13 +36,13 @@
 
 2.12. a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.
 
-2.13. a Magyar Tudományos Akadémia
+2.13.[^38]
 
 2.14. a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézet
 
-2.15.[^38] az Energiatudományi Kutatóközpont
+2.15.[^39] az Energiatudományi Kutatóközpont
 
-2.16.[^39] a Nemzeti Élelmiszerlánc-biztonsági Hivatal
+2.16.[^40] a Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
 3. Területi és helyi szervek
 
@@ -54,13 +54,14 @@
 
 3.4. a minisztériumok, érintett kormány- és központi hivatalok irányításával működő területi szervek
 
-3.5.[^40] a rendvédelmi szervek területi és helyi szervei, valamint a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei
+3.5.[^41] a rendvédelmi szervek területi és helyi szervei, valamint a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei
 
 [^33]: Az 1. melléklet a 361/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^34]: Az 1. melléklet 2. pont 2.2. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés a) pontjával megállapított szöveg.
 [^35]: Az 1. melléklet 2. pont 2.4. alpontját a 379/2016. (XII. 2.) Korm. rendelet 157. § (2) bekezdése hatályon kívül helyezte.
 [^36]: Az 1. melléklet 2. pont 2.8. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^37]: Az 1. melléklet 2. pont 2.11. alpontja a 286/2017. (IX. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^38]: Az 1. melléklet 2. pont 2.15. alpontja a 204/2019. (VIII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^39]: Az 1. melléklet 2. pont 2.16. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés b) pontjával megállapított szöveg.
-[^40]: Az 1. melléklet 3. pont 3.5. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet 2. pont 2.13. alpontját a 345/2019. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^39]: Az 1. melléklet 2. pont 2.15. alpontja a 204/2019. (VIII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^40]: Az 1. melléklet 2. pont 2.16. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés b) pontjával megállapított szöveg.
+[^41]: Az 1. melléklet 3. pont 3.5. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 | 4 | III. fokú | fokozott riasztási jelzés | 500 nSv/h | három szomszédos mérőállomáson |
 
-3. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^41]
+3. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^42]
 
 Az Országos Nukleárisbaleset-elhárítási Intézkedési Terv minimális tartalmi elemei
 
@@ -68,4 +68,4 @@ A veszélyhelyzeti sugárzási helyzetek elhárítása a felkészülési előír
 
 4. a védekezési stratégiák meghatározásának módszerei.
 
-[^41]: A 3. mellékletet a 286/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^42]: A 3. mellékletet a 286/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
