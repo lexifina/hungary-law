@@ -11,3 +11,7 @@
 (5) A Kincstár – a kérelmező és a vele egy és ugyanazon vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretének, valamint a 2. § (4) bekezdése szerinti mezőgazdasági csekély összegű ágazati korlátnak a figyelembevételével, a támogatási időszakra vonatkozó összes jogos támogatási igény ismeretében – a támogatási kérelmekről a benyújtási időszakot követő 45 napon belül döntést hoz.
 
 (6) A támogatás összegét a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+
+(7)[^3] Ha a számla az elszámolható költség összegét nem forintban tartalmazza, akkor a számla összegének forintra történő átváltásakor a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyamot kell alkalmazni.
+
+[^3]: A 6. § (7) bekezdését a 66/2019. (XII. 30.) AM rendelet 11. §-a iktatta be.

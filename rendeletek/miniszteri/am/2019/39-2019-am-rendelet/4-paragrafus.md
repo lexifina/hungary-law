@@ -1,3 +1,5 @@
+## 3. §[^1] A támogatás 2020. évben rendelkezésre álló keretösszege legfeljebb 100 millió forint.
+
 ## 4. A támogatás igénybevételének feltételei
 
 ## 4. § A támogatás igénybevételére jogosult az a természetes vagy jogi személy (a továbbiakban: kérelmező), aki vagy amely
@@ -14,6 +16,15 @@ bc) megfelel az európai uniós versenyjogi értelemben vett állami támogatás
 
 bd) eleget tett az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatában foglalt feltételeknek, vagy nem áll ilyen határozat hatálya alatt;
 
-c) az érintett támogatási időszakban legalább 400 darab haszongalambot vásárolt, és a haszongalambokat állandó lábgyűrűvel látta el; valamint
+c)[^2] a haszongalambot állandó lábgyűrűvel látta el, és
+
+ca) az 1. § 3. pont a) alpontja szerinti támogatási időszakban legalább 400 darab,
+
+cb) az 1. § 3. pont b) és c) alpontja szerinti támogatási időszakban – támogatási időszakonként – legalább 100 darab
+
+haszongalambot vásárolt; valamint
 
 d) a tenyészetét legkésőbb a támogatási kérelem benyújtásáig a megyei kormányhivatal részére a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet szerint – annak 4. § (1) bekezdés b) pont bb) alpontjában foglaltakra tekintettel – bejelentette.
+
+[^1]: A 3. § a 66/2019. (XII. 30.) AM rendelet 9. §-ával megállapított szöveg.
+[^2]: A 4. § c) pontja a 66/2019. (XII. 30.) AM rendelet 10. §-ával megállapított szöveg.
