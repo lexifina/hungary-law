@@ -1,1 +1,1 @@
-35. § Az Eütev. 23. § (3) bekezdésében az „az erről szóló jogerős határozatot a működési nyilvántartást vezető szervvel közölni kell” szövegrész helyébe az „az erről szóló jogerős határozatot a működési nyilvántartást vezető szervvel haladéktalanul közölni kell” szöveg lép.
+35. §
