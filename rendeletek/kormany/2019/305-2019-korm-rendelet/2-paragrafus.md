@@ -1,3 +1,3 @@
-## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Ebtv. vhr.) 26. §-a helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „26. § Ha a csecsemőgondozási díjat, az örökbefogadói díjat, illetve az Ebtv. 42/A. § (1) bekezdése és 42/G. § (1) bekezdése alapján a gyermekgondozási díjat a Tbj. 5. § (1) bekezdés d) pontjában meghatározott biztosított részére állapítják meg, az ellátás összegét a jogosultság kezdő napján érvényes minimálbér alapján kell kiszámítani, azonban az ellátás naptári napi alapja nem haladhatja meg az álláskeresési támogatás alapját képező összeg harmincad részét.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
