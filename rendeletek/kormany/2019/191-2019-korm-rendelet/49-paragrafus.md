@@ -1,7 +1,7 @@
-## 48. §[^45]
+## 48. §[^51]
 
 ## 8. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló
 
 ## 87/2015. (IV. 9.) Korm. rendelet módosítása
 
-[^45]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

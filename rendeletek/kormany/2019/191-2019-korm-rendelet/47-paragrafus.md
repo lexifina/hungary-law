@@ -1,3 +1,3 @@
-## 46. §[^43]
+## 46. §[^49]
 
-[^43]: A 446. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 446. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

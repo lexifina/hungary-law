@@ -1,5 +1,3 @@
-## 35. § A doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló 387/2012. (XII. 19.) Korm. rendelet [a továbbiakban: 387/2012. (XII. 19.) Korm. rendelet] 9. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+## 35. §[^36]
 
-## (A doktori tanács)
-
-## „g) a doktori szabályzatban meghatározza a fokozatszerzés nyelvi követelményeit, amely jogosítvány átruházható a doktori iskola működési szabályzatára;”
+[^36]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

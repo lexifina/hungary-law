@@ -1,5 +1,3 @@
-## 27. § A 248/2012. (VIII. 31.) Korm. rendelet 3. §-a helyébe a következő rendelkezés lép:
+## 27. §[^27]
 
-## „3. § (1) Ha a magyar állami (rész)ösztöndíjas hallgató az Nftv. 48/A. § a) pontja szerinti kötelezettségét teljesíti, a Hivatal az oklevél kiállítása napjától számított hatvan napon belül közli a magyar állami (rész)ösztöndíjas hallgatóval az igénybe vett magyar állami ösztöndíjból származó egyenlegét, valamint az Nftv. 48/A. § b) pontja szerinti kötelezettségeket, így különösen azt az időtartamot, ameddig hazai munkaviszonyt köteles fenntartani.
-
-## (2) Ha a magyar állami (rész)ösztöndíjas hallgató a Nftv. 48/A. § a) pontja szerinti kötelezettségét nem teljesíti, a Hivatal az Nftv. 48/I. § (2) bekezdése szerinti tájékoztatás közlésétől számított legfeljebb hatvanadik napon közli a (volt) magyar állami (rész)ösztöndíjas hallgatóval az igénybe vett magyar állami ösztöndíjból származó egyenlegét, valamint az Nftv. 48/A. § c) pontja szerinti kötelezettségeket, így különösen azt az időtartamot, ameddig hazai munkaviszonyt köteles fenntartani.”
+[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

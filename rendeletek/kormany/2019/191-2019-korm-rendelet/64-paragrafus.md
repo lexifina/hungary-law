@@ -1,3 +1,3 @@
-## 63. § A 87/2015. (IV. 9.) Korm. rendelet 57. §-a a következő (7) bekezdéssel egészül ki:
+## 63. §[^66]
 
-## „(7) A hallgató kérheti a felsőoktatási intézménytől a formális, a nem formális és az informális úton szerzett kompetenciáinak tantervi egység tanulmányi eredményeként történő elismerését (a továbbiakban: kompetenciaelismerés).”
+[^66]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
