@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2019-01-01 | 2007-148-20-82.41 | 35/2018. (XII. 6.) AM rendelet |
 | 2019-07-11 | 2007-148-20-82.42 | 33/2017. (VI. 9.) FM rendelet |
 | 2019-11-15 | 2007-148-20-82.43 | 35/2018. (XII. 6.) AM rendelet |
+| 2020-01-02 | 2007-148-20-82.44 | 66/2019. (XII. 30.) AM rendelet |

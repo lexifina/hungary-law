@@ -1,4 +1,4 @@
-## 18. §[^96] E rendeletnek az agrárpolitikáért felelős miniszter feladat- és hatáskörébe tartozó egyes miniszteri rendeletek módosításáról szóló 78/2016. (XII. 12.) FM rendelettel [a továbbiakban: 78/2016. (XII. 12.) FM rendelet] megállapított 2. § i) pontját, 3. § (9) és (10) bekezdését, 5. § (7) bekezdését, 6. § (3c) bekezdését és (6) bekezdés a) pontját, 6/C. §-át és 3. számú mellékletét a 78/2016. (XII. 12.) FM rendelet hatálybalépésekor[^97] folyamatban lévő eljárásokban is alkalmazni kell.
+## 18. §[^90] E rendeletnek az agrárpolitikáért felelős miniszter feladat- és hatáskörébe tartozó egyes miniszteri rendeletek módosításáról szóló 78/2016. (XII. 12.) FM rendelettel [a továbbiakban: 78/2016. (XII. 12.) FM rendelet] megállapított 2. § i) pontját, 3. § (9) és (10) bekezdését, 5. § (7) bekezdését, 6. § (3c) bekezdését és (6) bekezdés a) pontját, 6/C. §-át és 3. számú mellékletét a 78/2016. (XII. 12.) FM rendelet hatálybalépésekor[^91] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^96]: A 18. §-t a 78/2016. (XII. 12.) FM rendelet 6. §-a iktatta be.
-[^97]: A hatálybalépés időpontja 2016. december 13.
+[^90]: A 18. §-t a 78/2016. (XII. 12.) FM rendelet 6. §-a iktatta be.
+[^91]: A hatálybalépés időpontja 2016. december 13.
