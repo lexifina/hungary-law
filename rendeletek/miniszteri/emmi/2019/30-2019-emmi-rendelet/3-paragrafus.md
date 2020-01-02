@@ -1,10 +1,12 @@
-## 2. §[^1]
+## 2. §[^3]
 
-3. § (1) Az R. az 1. melléklet szerinti 3/A. számú melléklettel egészül ki.
+3. § (1)[^4]
 
-(2)[^2]
+(2)[^5]
 
-(3) Az R. 16. számú melléklete a 3. melléklet szerint módosul.
+(3)[^6]
 
-[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
