@@ -1,7 +1,7 @@
-35. § Hatályát veszti a Tao. törvény
+35. §
 
 1.
 
-2. 22/B. § (14) bekezdése,
+2.
 
 3–15.

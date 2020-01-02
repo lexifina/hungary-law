@@ -1,7 +1,5 @@
-15. § Az Szja tv.
+15. §
 
-1. 3. § 21. pont e) alpontjában az „illetménye” szövegrész helyébe az „e jogviszonyból származó jövedelme” szöveg,
+1.
 
 2.
-
-lép.

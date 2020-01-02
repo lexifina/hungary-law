@@ -1,3 +1,1 @@
-56. § A Htv. Harmadik rész VI. Fejezete a következő 51/H. §-sal egészül ki:
-
-„51/H. § Az az adóalany, amely e törvény 2019. december 31-én hatályos szabályai alapján alapítványként a 3. § (2)–(3) bekezdése szerinti feltételes adómentesség igénybevételére jogosult, e mentességet 2022. december 31-ig igénybe veheti, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha az adóalany e vállalását nem teljesíti, a 3. § (2)–(3) bekezdése szerinti feltételes mentességre tekintettel meg nem fizetett adót az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az önkormányzati adóhatóság felhívására megfizetni. A szervezet megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.”
+56. §
