@@ -1,6 +1,6 @@
 18. § (1) Hatályát veszti a Kbt.
 
-1. 4. § (3) bekezdése,
+1.
 
 2.
 
@@ -12,11 +12,11 @@
 
 6.
 
-7. 195. § (4) és (5) bekezdése,
+7.
 
 8.
 
-9. 198. § (1) bekezdés 20. pontja.
+9.
 
 (2) Hatályát veszti a Kbt.
 
