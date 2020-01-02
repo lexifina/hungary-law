@@ -10,13 +10,13 @@ c) a 651/2014/EU bizottsági rendelet 14. vagy 17. cikke alapján erdőgazdálko
 
 kizárólag forint alapon nyújtott beruházási hitel (a továbbiakban: beruházási hitel) kamatának megfizetéséhez vissza nem térítendő állami támogatást (a továbbiakban: kamattámogatás) vehet igénybe.
 
-(2) A nagyvállalkozásnak minősülő igénylő az (1) bekezdés szerinti kamattámogatást a 651/2014/EU bizottsági rendelet 14. cikke alapján
+(2)[^1] A nagyvállalkozásnak minősülő igénylő az (1) bekezdés szerinti kamattámogatást a 651/2014/EU bizottsági rendelet 14. cikke alapján
 
 a) a Közép-Magyarország régión kívüli más régióban induló mezőgazdasági termékfeldolgozási, -forgalmazási, illetve erdőgazdálkodási célú – ide nem értve a pótló beruházást – vagy
 
 b) a Közép-Magyarország régió támogatható településein induló – a 651/2014/EU bizottsági rendelet 2. cikk 51. pontja szerinti – új gazdasági tevékenység végzésére irányuló mezőgazdasági termékfeldolgozási, -forgalmazási, illetve erdőgazdálkodási célú
 
-beruházáshoz kapcsolódó hitelhez veheti igénybe.
+beruházási hitelhez veheti igénybe.
 
 (3) A kamattámogatás olyan beruházási hitel esetén vehető igénybe, amelynek a futamideje legalább 3, de legfeljebb 10 év.
 
@@ -48,8 +48,17 @@ b) a 702/2014/EU bizottsági rendelet 4. cikk (1) bekezdés a) vagy c) pontjába
 
 meghatározott határértéket.
 
-(10) A támogatási intenzitás
+(10)[^2] A támogatási intenzitás
 
-a) a 651/2014/EU bizottsági rendelet 14. vagy 17. cikke alapján megvalósuló beruházás esetén az Atr. V. fejezete szerinti regionális támogatási térkép alapján kerül meghatározásra,
+a) a 651/2014/EU bizottsági rendelet 14. cikke alapján megvalósuló beruházás esetén az Atr. V. fejezete szerinti regionális támogatási térkép alapján kerül meghatározásra;
 
-b) a 702/2014/EU bizottsági rendelet 14. vagy 17. cikke alapján megvalósuló beruházás esetén legfeljebb 40%.
+b) a 651/2014/EU bizottsági rendelet 17. cikke alapján megvalósuló beruházás esetén
+
+ba) kisvállalkozásnak minősülő igénylő vonatkozásában legfeljebb az elszámolható költségek 20%-a,
+
+bb) középvállalkozásnak minősülő igénylő vonatkozásában legfeljebb az elszámolható költségek 10%-a;
+
+c) a 702/2014/EU bizottsági rendelet 14. vagy 17. cikke alapján megvalósuló beruházás esetén legfeljebb az elszámolható költségek 40%-a.
+
+[^1]: A 2. § (2) bekezdés záró szövegrésze a 66/2019. (XII. 30.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (10) bekezdése a 66/2019. (XII. 30.) AM rendelet 14. §-ával megállapított szöveg.

@@ -2,13 +2,13 @@
 
 ## ahol:
 
-## HM: a kamatidőszak hiteldíj mutatója éves szinten, ahol a hiteldíj mutató értékét százalékban kifejezve, a kerekítés szabályai szerint egy tizedesjegyre kerekítve kell meghatározni
+## HM: a kamatidőszak hiteldíj mutatója éves szinten, ahol a hiteldíj mutató értékét százalékban kifejezve, a kerekítés szabályai szerint egy tizedesjegyre kerekítve kell meghatározni,
 
-## D: a kamatidőszakra megállapított ügyleti kamat forintban megállapított összegének és a kamatidőszakban esedékessé váló, a hiteldíjba beleszámító díjak, jutalékok, költségek forintban meghatározott összegének együttes összege
+## D: a kamatidőszakra megállapított ügyleti kamat forintban megállapított összegének és a kamatidőszakban esedékessé váló, a hiteldíjba beleszámító díjak, jutalékok, költségek forintban meghatározott összegének együttes összege, azzal, hogy a hitel első lehívását megelőzően esedékessé vált díjakat, jutalékokat, költségeket az első kamatidőszaknál kell figyelembe venni,
 
-## H: a kamatidőszak átlagos hitelállománya forintban, a kamatidőszak napi, forintban kifejezett hitelállományi adatainak számtani átlaga alapján számítva
+## H: a kamatidőszak átlagos hitelállománya forintban, a kamatidőszak napi, forintban kifejezett hitelállományi adatainak számtani átlaga alapján számítva azzal, hogy a hitel lehívásának időszakába eső kamatidőszakok esetében, ha a rendelkezésre tartott hitelösszeghez vagy a szerződött hitelösszeghez kapcsolódó díj, jutalék, költség is esedékessé válik, akkor a hitelállomány átlagos állományának meghatározásakor a szerződött összeget kell figyelembe venni,
 
-## n: a kamatidőszak naptári napjainak száma
+## n: a kamatidőszak naptári napjainak száma.
 
 2. melléklet a 42/2019. (IX. 20.) AM rendelethez
 
