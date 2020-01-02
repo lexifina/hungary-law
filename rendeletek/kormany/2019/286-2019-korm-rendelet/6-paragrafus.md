@@ -1,3 +1,3 @@
-## 5. § Az R1. a következő 1/I. §-sal egészül ki:
+## 5. §[^6]
 
-## „1/I. § A vízügyi igazgatóság az 1/B. § (5) bekezdése szerinti vagyonkezelői hozzájárulást, nyilatkozatot és az objektumazonosítási nyilatkozatot egyidejűleg adja ki.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
