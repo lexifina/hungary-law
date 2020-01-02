@@ -1,5 +1,3 @@
-## 20195Z20000017_3
-
 5. melléklet a 17/2019. (XII. 20.) MEKH rendelethez
 
 „1. melléklet a 13/2019. (X. 4.) MEKH rendelethez
