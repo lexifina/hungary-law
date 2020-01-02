@@ -1,3 +1,3 @@
-9. melléklet a 20/2018. (XII. 28.) HM rendelethez[^127]
+9. melléklet a 20/2018. (XII. 28.) HM rendelethez[^129]
 
-[^127]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
