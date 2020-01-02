@@ -1,3 +1,3 @@
-## 10. § Az R1. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 10. §[^11]
 
-## „(1) Az Országgyűlés Hivatala a kiadott ruházati alapfelszerelést és a ruházati utánpótlási ellátmány keretében természetben kiadott ruházati terméket és felszerelési cikket nyilvántartja. Az Országgyűlési Őrség a ruházati utánpótlási ellátmány felhasználásáról egyénenkénti nyilvántartást vezet, amelyet minden év december 31-ig lezár.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 22. § Az R2. 47. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 22. §[^23]
 
-## „(1) A hivatásos állomány tagja családi életkörülményeinek jelentős megváltozása esetén – indokolt esetben – az Országgyűlési Őrség parancsnoka a visszafizetés meghatározott időre, de legfeljebb hat hónapra történő felfüggesztését engedélyezheti. A felfüggesztés időtartamával a futamidő meghosszabbodik, a felfüggesztési idő elteltével a törlesztő részleteket változatlan összegben kell fizetni.”
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

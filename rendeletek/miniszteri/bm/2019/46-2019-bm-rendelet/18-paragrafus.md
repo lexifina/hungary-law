@@ -1,1 +1,3 @@
-## „(5) A korszerűsítéshez, akadálymentesítéshez közvetlenül kapcsolódó helyreállítási munka költsége a korszerűsítés, akadálymentesítés költségének legfeljebb 20%-áig költségként elszámolható.”
+## 17. §[^18]
+
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

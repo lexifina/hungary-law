@@ -1,1 +1,3 @@
-## „(3) Ha mindkét házastárs, vagy élettárs az Országgyűlési Őrség hivatásos állományának tagja, saját jogon mindketten kérhetnek munkáltatói kölcsönt.”
+## 19. §[^20]
+
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

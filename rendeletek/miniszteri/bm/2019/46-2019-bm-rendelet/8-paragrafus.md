@@ -1,1 +1,3 @@
-## „(4) Az Országgyűlési Őrség parancsnoka által elrendelt, újonnan rendszeresített egyenruházat és felszerelési cikk rendelkezésre bocsátása a ruházati utánpótlási ellátmány terhére történhet vagy – az Országgyűlés Hivatala főigazgatójának egyetértését követően –, az Országgyűlés elnökének döntése alapján kiegészítő ruházati utánpótlási ellátmányként is kiadható.”
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

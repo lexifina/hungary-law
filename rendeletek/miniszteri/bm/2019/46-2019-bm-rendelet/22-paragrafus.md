@@ -1,3 +1,3 @@
-## 21. § Az R2. 40. §-a helyébe a következő rendelkezés lép:
+## 21. §[^22]
 
-## „40. § A kijelölt szervezeti elem a munkáltatói kölcsön iránti kérelmekben foglaltak jogszerűségét a beérkezés sorrendjében vizsgálja meg, és a 37. §-ban foglaltak figyelembevételével megállapítja az elbírálás sorrendjét, valamint a 32. és 33. §-ban foglaltak alapján megállapítja a munkáltatói kölcsön összegét.”
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

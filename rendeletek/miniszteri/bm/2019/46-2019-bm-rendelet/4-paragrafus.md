@@ -1,1 +1,3 @@
-## „a) gondoskodik az igényjogosultak felszereléséről, az alegységek megfelelő színvonalú ellátottságáról, valamint a szolgálati viszony megszűnésekor a leszerelő ruházattal kapcsolatos elszámoltatásáról, a visszavételezett ruházati termékek, felszerelési cikkek igényjogosult állomány körében történő ismételt felhasználási feltételeinek megteremtéséről,”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
