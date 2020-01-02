@@ -60,7 +60,7 @@
 
 | 29. | Görögszéna | Trigonella foenum-graecum |
 
-4. melléklet a 20/2019. (V. 27.) AM rendelethez[^16]
+4. melléklet a 20/2019. (V. 27.) AM rendelethez[^17]
 
 A tárgyévben igénybe vehető támogatás mértéke a szárítmány-előállítás céljára felhasznált hőenergia-mennyiség alapján
 
@@ -96,4 +96,4 @@ A tárgyévben igénybe vehető támogatás mértéke a szárítmány-előállí
 
 | 15. | 10 000 000 |  | 66 666 |
 
-[^16]: A 4. melléklet a 38/2019. (VIII. 10.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. melléklet a 38/2019. (VIII. 10.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
