@@ -1,5 +1,3 @@
-## 1. § A levegőterheltségi szint határértékeiről és a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 4/2011. (I. 14.) VM rendelet [a továbbiakban: 4/2011. (I. 14.) VM rendelet] 2. § (1) bekezdése a következő e) ponttal egészül ki:
+## 1. §[^2]
 
-## (E rendelet alkalmazásában)
-
-## „e) tervezési irányérték: környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységek esetén a vizsgálandó terület légszennyezettségének megítéléséhez, a tevékenység hatásterületének lehatárolásához, terjedési modellek készítéséhez alkalmazandó levegőterheltségi szint.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
