@@ -10,7 +10,7 @@
 
 ## 6. Ez a határozat 2020. január 1-jén lép hatályba.
 
-## 7. Hatályát veszti a 2019. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1688/2018. (XII. 17.) Korm. határozat.
+## 7.[^1]
 
 1. melléklet az 1686/2019. (XII. 10.) Korm. határozathoz
 
@@ -289,3 +289,5 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 |  | 26. | SWIFT RESPONSE | I–IV. negyedév | egyidejűleg legfeljebb 1500 fő |
 
 |  | 27. | TROJAN FOOTPRINT NORTH | I–IV. negyedév | egyidejűleg legfeljebb 1500 fő |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
