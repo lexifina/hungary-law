@@ -1,13 +1,13 @@
 46. § Hatályát veszti az Áfa tv.
 
-1.12. § (2) bekezdés i) pontja,
+1.
 
-2. 144. §-a,
+2.
 
 3.
 
-4. 206. § (1) bekezdés d) pontja,
+4.
 
-5. XV. Fejezet Önálló pozíciószámonkénti nyilvántartáson alapuló módszer a fizetendő adó megállapítására alcíme,
+5.
 
-6. 259. § 26. pontja.
+6.

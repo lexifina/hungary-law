@@ -1,3 +1,1 @@
-3. § A Tao. törvény 18. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az alapítónak (ide nem értve az átalakulással, egyesüléssel, szétválással történő alapítást), a tőkét befogadó, a vagyont kiadó adózónak, továbbá a tagnak (részvényesnek) az (1)–(5) bekezdés előírásait a jegyzett tőke, tőketartalék nem pénzbeli hozzájárulással történő teljesítése, emelése, a jegyzett tőke tőkekivonással történő leszállítása, az adózó által ellenérték fejében megszerzett üzletrész tagok részére történő térítés nélküli átadása, vagy bevonása esetén, továbbá a jogutód nélküli megszűnéskor a nem pénzben történő vagyonkiadásra, valamint az osztalék nem pénzbeli vagyoni értékű juttatásként történő teljesítésére is alkalmaznia kell, ha kapcsolt vállalkozás vagy a nem pénzbeli hozzájárulással kapcsolt vállalkozássá váló tag (részvényes) teljesíti a nem pénzbeli hozzájárulást, illetve részesedik a vagyonból.”
+3. §

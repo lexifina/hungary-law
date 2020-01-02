@@ -1,4 +1,4 @@
-43. § Az Áfa tv.
+43. §
 
 1.
 
@@ -6,9 +6,9 @@
 
 3.
 
-4. 89/A. § (3) bekezdés 3. pontjában az „összesítő nyilatkozatában” szövegrész helyébe az „a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában”,
+4.
 
-5. 96. § (3) bekezdés c) pontjában az „összesítő nyilatkozatában” szövegrész helyébe az „a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában”,
+5.
 
 6.
 
@@ -21,5 +21,3 @@
 10.
 
 11.
-
-szöveg lép.
