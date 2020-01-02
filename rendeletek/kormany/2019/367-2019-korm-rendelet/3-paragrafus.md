@@ -16,4 +16,6 @@ c) alapbéren a közalkalmazotti, kormányzati szolgálati, politikai szolgálat
 
 (4) E rendelet alkalmazásában 2020. május 1-jétől alapbéren a (3) bekezdés c) pontjában foglaltakon túl a különleges jogállású szervnél közszolgálati jogviszonyban állók esetében az illetményt is érteni kell.
 
-(5) Hatályát veszti a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum 2019. évi megállapításáról szóló 324/2018. (XII. 30.) Korm. rendelet.
+(5)[^2]
+
+[^2]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
