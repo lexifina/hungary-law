@@ -1,5 +1,0 @@
-11. § A KFItv. 29. §-a helyébe a következő rendelkezés lép:
-
-„29. § (1) Az NKFI Alap terhére finanszírozott innovációs pályázatok kiírására, azok értékelésére, a támogatási döntés meghozatalára az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázatokra vonatkozó 25. §-ban meghatározott rendelkezések megfelelően alkalmazandók.
-
-(2) A Kormány által kijelölt szerv az innovációs pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezeli.”

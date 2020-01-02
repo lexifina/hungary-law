@@ -1,5 +1,0 @@
-12. § A KFItv. 42. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Más hatóság vagy bíróság általi kirendelés, továbbá harmadik személy megkeresése alapján az SZTNH szakértői véleményt ad a kirendelésben vagy a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítésével összefüggő kérdésben, ideértve a kutatás-fejlesztési tevékenységnek minősített projektben az alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységek arányát, valamint annak meghatározását is, hogy az adott tevékenységet az érintett személy a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
-
-(3) Az (1) és (2) bekezdés szerinti eljárásban az SZTNH a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban az SZTNH további adatok szolgáltatását kérheti a megkereső bíróságtól, hatóságtól vagy harmadik személytől.”
