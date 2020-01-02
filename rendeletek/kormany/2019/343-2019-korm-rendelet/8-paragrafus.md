@@ -1,3 +1,0 @@
-## 7. § Az önkéntes nyugdíjpénztárak beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 223/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Önykr.) 58. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel megállapított 28. § (5) bekezdését, valamint 9. mellékletét először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.”

@@ -1,1 +1,0 @@
-## „(4) Az (1) bekezdés j) pontja szerinti kreditpont-igazolás annak a továbbképzésben részt vevő személynek állítható ki, aki nyilatkozatával hozzájárul ahhoz, hogy a továbbképzésben való részvételének igazolásához szükséges, általa megadott adatait a továbbképző szervezet kezelje.”

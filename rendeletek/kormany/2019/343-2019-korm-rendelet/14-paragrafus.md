@@ -1,3 +1,0 @@
-## 13. § Az önkéntes kölcsönös egészség- és önsegélyező pénztárak beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 252/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Öpkr.) 45. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel megállapított 27. § (6) bekezdését, 29. § (9) bekezdés c) pontját, valamint 6. számú mellékletét először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.”
