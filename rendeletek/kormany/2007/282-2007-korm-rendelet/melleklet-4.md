@@ -120,7 +120,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | f) irodalom- és színháztörténeti emlékek vizsgálata | Petőfi Irodalmi Múzeum Országos Színháztörténeti Múzeum és Intézet |
 
-|  | g) zene- és hangszertörténeti emlékek vizsgálata | Magyar Tudományos Akadémia Zenetudományi Intézete Zenetörténeti Múzeuma Iparművészeti Múzeum |
+|  | g) zene- és hangszertörténeti emlékek vizsgálata | Bölcsészettudományi Kutatóközpont Zenetudományi Intézete Zenetörténeti Múzeuma Iparművészeti Múzeum |
 
 |  | h) könyvtári dokumentumok vizsgálata | Országos Széchényi Könyvtár |
 
@@ -142,4 +142,4 @@ Szakvélemény adására feljogosított szervek
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
