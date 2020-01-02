@@ -1,3 +1,1 @@
-66. § Az Ebtv. 42/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 5. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani.”
+### 66. §
