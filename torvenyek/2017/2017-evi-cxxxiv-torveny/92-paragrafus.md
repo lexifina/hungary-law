@@ -156,6 +156,6 @@ b) a vízkivételt biztosító vízilétesítmények engedélyezési eljárása 
 
 (2) A helyi vízgazdálkodási hatósági jogkörben eljáró hatóság a vízilétesítményekről nyilvántartást vezet.
 
-33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetve építési tilalmat elrendelni.”
+33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetve építési tilalmat elrendelni.
 
-27. Záró rendelkezések
+27. Záró rendelkezések”
