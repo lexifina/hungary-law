@@ -1,3 +1,0 @@
-## 12. § Az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013. (VII. 16.) Korm. rendelet (a továbbiakban: R4.) 7. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Tűzvédelmi célú építési termék teljesítménynyilatkozat hiányában a BM OKF vizsgálati eredményeken alapuló engedélyével is beépíthető. Amennyiben az engedélyben megadott termékre vonatkozóan harmonizált európai szabvány kerül kiadásra a 305/2011/EU európai parlamenti és tanácsi rendelet 17. cikk (5) bekezdése szerint, a párhuzamos hatályosság időszakának leteltével az engedély hatályát veszti.”
