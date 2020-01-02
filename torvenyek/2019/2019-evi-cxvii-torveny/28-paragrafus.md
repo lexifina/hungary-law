@@ -1,1 +1,1 @@
-28. § A Vht. 317. § (2) bekezdésének b) pontjában „a közösségi védjegyről szóló, 1993. december 20-i 40/94/EK tanácsi rendelet” szövegrész helyébe „az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendelet” szöveg lép.
+28. §

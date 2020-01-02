@@ -1,3 +1,0 @@
-71. § A Bvktv. 32. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha a bizalmi vagyonkezelő vállalkozás az (1) bekezdés szerint nem csatolta a 10. § (2) bekezdés q) pontja szerinti hatósági erkölcsi bizonyítványt, a hivatal a bűnügyi nyilvántartó szervtől a Bnytv. 69. § (2) bekezdésében foglalt adatok megadásával a Bnytv. 71. § (2) bekezdése szerinti adatigényléssel vizsgálja meg azt, hogy felmerül-e a kérelmező vezető állású személyére, természetes személy tagjára, tényleges tulajdonosára, munkavállalójára vonatkozó, a 4. § (1) bekezdés a) pontja, illetve b) pontja szerinti kizáró okot megalapozó adat.”

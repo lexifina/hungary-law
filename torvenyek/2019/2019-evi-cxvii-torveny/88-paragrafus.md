@@ -1,3 +1,0 @@
-88. § A Szaktv. 112. §-a helyébe a következő rendelkezés lép:
-
-„112. § Ha a cselekmény – amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható a fegyelmi eljárás alá vont igazságügyi szakértő – folyamatban lévő bírósági vagy más hatósági eljárást érint, vagy a fegyelmi eljárás kezdeményezésére a 21. § (6) bekezdés a) pontja alapján került sor, a fegyelmi tanács a fegyelmi eljárást annak megindításával egyidejűleg határozattal felfüggeszti a bíróság, más hatóság, vagy a minőségbiztosítási bizottság határozatának jogerőre emelkedéséig vagy véglegessé válásáig. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.”
