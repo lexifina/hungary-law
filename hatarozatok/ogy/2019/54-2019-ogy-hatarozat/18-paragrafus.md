@@ -1,3 +1,3 @@
-## 17. §[^15]
+## 17. §[^18]
 
-[^15]: A 17. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^18]: A 17. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

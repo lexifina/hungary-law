@@ -1,3 +1,3 @@
-## 8. §[^6]
+## 8. §[^9]
 
-[^6]: A 8. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^9]: A 8. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

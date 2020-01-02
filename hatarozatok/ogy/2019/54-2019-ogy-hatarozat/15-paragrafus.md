@@ -1,3 +1,3 @@
-## 14. §[^12]
+## 14. §[^15]
 
-[^12]: A 14. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^15]: A 14. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 34. §[^32]
+## 34. §[^35]
 
-[^32]: A 34. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^35]: A 34. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

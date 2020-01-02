@@ -1,3 +1,3 @@
-## 38. §[^36]
+## 38. §[^39]
 
-[^36]: A 38. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^39]: A 38. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

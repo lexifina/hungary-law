@@ -1,3 +1,3 @@
-## 60. §[^57]
+## 60. §[^60]
 
-[^57]: A 60. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^60]: A 60. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

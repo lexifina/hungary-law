@@ -1,3 +1,3 @@
-## 26. §[^24]
+## 26. §[^27]
 
-[^24]: A 26. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^27]: A 26. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

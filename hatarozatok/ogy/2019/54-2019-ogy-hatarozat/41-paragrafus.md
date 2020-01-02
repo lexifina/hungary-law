@@ -1,3 +1,3 @@
-## 40. §[^38]
+## 40. §[^41]
 
-[^38]: A 40. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^41]: A 40. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

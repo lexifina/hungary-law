@@ -1,3 +1,3 @@
-## 65. §[^62]
+## 65. §[^65]
 
-[^62]: A 65. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^65]: A 65. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

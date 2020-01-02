@@ -1,3 +1,3 @@
-## 23. §[^21]
+## 23. §[^24]
 
-[^21]: A 23. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^24]: A 23. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

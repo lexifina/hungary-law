@@ -1,3 +1,3 @@
-## 68. §[^65]
+## 68. §[^68]
 
-[^65]: A 68. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^68]: A 68. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

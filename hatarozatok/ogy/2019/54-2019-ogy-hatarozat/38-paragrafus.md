@@ -1,3 +1,3 @@
-## 37. §[^35]
+## 37. §[^38]
 
-[^35]: A 37. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^38]: A 37. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

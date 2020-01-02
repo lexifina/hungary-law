@@ -1,3 +1,3 @@
-## 31. §[^29]
+## 31. §[^32]
 
-[^29]: A 31. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^32]: A 31. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

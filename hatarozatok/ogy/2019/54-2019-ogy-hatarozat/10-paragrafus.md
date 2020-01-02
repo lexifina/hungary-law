@@ -1,3 +1,3 @@
-## 9. §[^7]
+## 9. §[^10]
 
-[^7]: A 9. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^10]: A 9. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

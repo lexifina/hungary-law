@@ -1,3 +1,3 @@
-## 67. §[^64]
+## 67. §[^67]
 
-[^64]: A 67. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^67]: A 67. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

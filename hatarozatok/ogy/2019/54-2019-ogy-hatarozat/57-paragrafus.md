@@ -1,3 +1,3 @@
-## 56. §[^53]
+## 56. §[^56]
 
-[^53]: Az 56. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^56]: Az 56. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

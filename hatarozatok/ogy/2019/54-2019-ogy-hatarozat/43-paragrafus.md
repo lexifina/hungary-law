@@ -1,3 +1,3 @@
-## 42. §[^40]
+## 42. §[^43]
 
-[^40]: A 42. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^43]: A 42. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

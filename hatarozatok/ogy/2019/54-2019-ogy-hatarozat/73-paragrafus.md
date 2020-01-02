@@ -1,3 +1,3 @@
-## 72. §[^69]
+## 72. §[^72]
 
-[^69]: A 72. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^72]: A 72. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

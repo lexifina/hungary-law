@@ -1,1 +1,3 @@
-## „(4) A képviselőcsoport az (1) bekezdés szerinti párt nevével megegyezően nevezhető el. A közös képviselőcsoport elnevezése valamennyi részes párt nevét tartalmazza.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

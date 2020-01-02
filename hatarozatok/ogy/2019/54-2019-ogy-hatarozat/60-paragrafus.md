@@ -1,3 +1,3 @@
-## 59. §[^56]
+## 59. §[^59]
 
-[^56]: Az 59. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^59]: Az 59. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

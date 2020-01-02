@@ -1,3 +1,3 @@
-## 52. §[^49]
+## 52. §[^52]
 
-[^49]: Az 52. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^52]: Az 52. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 39. §[^37]
+## 39. §[^40]
 
-[^37]: A 39. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^40]: A 39. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

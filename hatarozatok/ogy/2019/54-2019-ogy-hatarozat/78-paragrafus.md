@@ -1,45 +1,47 @@
-## 77. §[^73]
+## 77. §[^77]
 
 ## 78. § Hatályát veszti a HHSZ
 
-a) 2. § (5) bekezdésében az „A függetlenné vált képviselő a képviselőcsoport-tagsága megszűnését követő hat hónap elteltével bármely képviselőcsoporthoz csatlakozhat.” szövegrész,
+a)[^78]
 
-b) 5. § (4) és (5) bekezdése,
+b)[^79]
 
-c)[^74]
+c)[^80]
 
-d)[^75]
+d)[^81]
 
-e)[^76]
+e)[^82]
 
-f)[^77]
+f)[^83]
 
-g)[^78]
+g)[^84]
 
-h)[^79]
+h)[^85]
 
-i)[^80]
+i)[^86]
 
-j)[^81]
+j)[^87]
 
-k)[^82]
+k)[^88]
 
-l)[^83]
+l)[^89]
 
-m)[^84]
+m)[^90]
 
-n)[^85]
+n)[^91]
 
-[^73]: A 77. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^74]: A 78. § c) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^75]: A 78. § d) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^76]: A 78. § e) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^77]: A 78. § f) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^78]: A 78. § g) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^79]: A 78. § h) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^80]: A 78. § i) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^81]: A 78. § j) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^82]: A 78. § k) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^83]: A 78. § l) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^84]: A 78. § m) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
-[^85]: A 78. § n) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^77]: A 77. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^78]: A 78. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 78. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 78. § c) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^81]: A 78. § d) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^82]: A 78. § e) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^83]: A 78. § f) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^84]: A 78. § g) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^85]: A 78. § h) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^86]: A 78. § i) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^87]: A 78. § j) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^88]: A 78. § k) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^89]: A 78. § l) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^90]: A 78. § m) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^91]: A 78. § n) pontja a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

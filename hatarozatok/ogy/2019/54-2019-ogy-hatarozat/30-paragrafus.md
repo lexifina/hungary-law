@@ -1,3 +1,3 @@
-## 29. §[^27]
+## 29. §[^30]
 
-[^27]: A 29. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^30]: A 29. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

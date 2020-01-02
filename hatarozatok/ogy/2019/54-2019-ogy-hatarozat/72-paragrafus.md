@@ -1,3 +1,3 @@
-## 71. §[^68]
+## 71. §[^71]
 
-[^68]: A 71. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^71]: A 71. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

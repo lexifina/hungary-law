@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. §[^5]
 
-[^2]: A 4. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^5]: A 4. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 6. §[^4]
+## 6. §[^7]
 
-[^4]: A 6. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^7]: A 6. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

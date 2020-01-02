@@ -1,3 +1,3 @@
-## 54. §[^51]
+## 54. §[^54]
 
-[^51]: Az 54. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^54]: Az 54. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

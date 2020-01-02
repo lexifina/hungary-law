@@ -1,3 +1,3 @@
-## 33. §[^31]
+## 33. §[^34]
 
-[^31]: A 33. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^34]: A 33. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 66. §[^63]
+## 66. §[^66]
 
-[^63]: A 66. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+[^66]: A 66. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.

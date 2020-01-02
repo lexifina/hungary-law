@@ -1,3 +1,3 @@
-## 2. § A HHSZ 2. §-a a következő (6) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(6) A független és a függetlenné vált képviselő megbízatása alatt képviselőcsoport megalakításában nem vehet részt és képviselőcsoporthoz nem csatlakozhat.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
