@@ -30,11 +30,11 @@
 
 15.
 
-16. 78. § (3) bekezdésében a „18” szövegrész helyébe a „19” szöveg,
+16.
 
 17.
 
-18. 79/B. § (2) bekezdésében a „d)–i)” szövegrész helyébe a „d)–l)” szöveg,
+18.
 
 19.
 
@@ -50,9 +50,9 @@
 
 25.
 
-26. 88. § (1) bekezdésének 5. pontjában a „nem független pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a nem független pályahálózat-működtető” szövegrész helyébe a „pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a pályahálózat-működtető” szöveg,
+26.
 
-27. 88. § (1) bekezdésének 6. pontjában a „vizsgaközpont” szövegrész helyébe a „vizsgaközpont, valamint vasúti képzési módszertani központ” szöveg,
+27.
 
 28.
 

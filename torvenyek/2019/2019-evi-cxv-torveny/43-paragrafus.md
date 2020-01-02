@@ -4,10 +4,10 @@ a)
 
 b)
 
-c) 79/B. § (1) bekezdés h) pontjában a „vagy” szövegrész,
+c)
 
 d)
 
-e) 87/D. § (2) bekezdése,
+e)
 
 f)

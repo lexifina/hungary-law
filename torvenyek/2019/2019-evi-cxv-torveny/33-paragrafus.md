@@ -1,3 +1,1 @@
-33. § A Vtv. 44/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A magyar állam tulajdonába és ingyenesen a NIF Zrt. vagyonkezelésébe kerül a 44. § (3) bekezdés szerinti közérdekű és közcélú tevékenység folytatása érdekében a NIF Zrt. által megvásárolt, kisajátított vagy egyéb jogcímen megszerzett földrészlet, ezeken a földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök, a vasútvonalak megállóhelyei megközelítésének fejlesztése és a ráhordás feltételeinek javítása érdekében létrehozott parkolók és kapcsolódó létesítmények. A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről a NIF Zrt. gondoskodik. A NIF Zrt. a vagyonkezelői jog bejegyzésére vonatkozó ingatlanügyi hatósági határozatot annak kézhezvételét követően haladéktalanul megküldi a tulajdonosi joggyakorló részére.”
+33–35. §

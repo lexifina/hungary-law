@@ -1,3 +1,0 @@
-59. § Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 112. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A helyi önkormányzatok helyi közösségi közlekedési feladatellátásának forrása a fővárosi önkormányzat esetében elsőként a külön törvény alapján fővárosi önkormányzatot osztottan megillető adóbevétel, más önkormányzatnál pedig a helyi iparűzési adóból származó bevétel. A helyi iparűzési adóbevételből a közösségi közlekedési feladat ellátási összegén felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel.”

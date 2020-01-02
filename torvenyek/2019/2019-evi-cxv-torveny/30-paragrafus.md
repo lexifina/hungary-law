@@ -1,3 +1,1 @@
-30. § A Vtv. 36. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.”
+30. §
