@@ -1,7 +1,7 @@
-150. § Hatályát veszti az E-ügyintézési tv.
+150. §
 
 a)
 
-b) 5. § (2) bekezdése,
+b)
 
 c)
