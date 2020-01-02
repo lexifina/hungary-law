@@ -1,7 +1,3 @@
-## „(1a) A képzési módszertani központ az alapképzésekre, az időszakos oktatásokra és a továbbképzésekre is kiterjedően Eljárási Rendet (a továbbiakban: eljárási rend) készít. A képzési módszertani központ a vasúti közlekedési hatóság által jóváhagyott Eljárási Rendet annak hatálybalépése előtt legkésőbb 15 nappal a honlapján közzéteszi.
+## 40. §[^40]
 
-## (2) Az R7. 6. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az alapképzéshez a képzőszervezet a képzési módszertani központ, illetve a vasúti társasági vizsgákhoz tartozó alapképzések esetében a vizsgáztató szervezet által a képzési programok jóváhagyásának a képzési módszertani központ honlapján közzétett szempontrendszere alapján jóváhagyott képzési programot alkalmazza.
-
-## (3) A vonal- és állomásismereti képzési programok jóváhagyásához a pályahálózat működtetőjének nyilatkoznia kell arról, hogy a képzési program a valós állapotoknak megfelelő adatokat tartalmazza. A pályahálózat működtetőjének nyilatkozatát a jóváhagyás iránti kérelemhez csatolni kell. Ha a vonalismereti képzés az útvonalat a vezetőfülkében tartózkodó járművezető szemszögéből bemutató videófelvétellel vagy szimulációs gyakorlattal történik, akkor ezt a képzési programban fel kell tüntetni, és a videofelvételt a képzési program részeként kell kezelni. A vonalismereti képzés során csak a képzési módszertani központ honlapján közzétett szempontrendszernek megfelelő videófelvétel, szimulációval történő képzés esetén csak a képzés módszertani központ által minősített szimulációs berendezés és szimuláció használható.”
+[^40]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

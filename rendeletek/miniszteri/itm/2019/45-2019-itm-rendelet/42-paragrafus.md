@@ -1,3 +1,3 @@
-## 41. § Az R7. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 41. §[^41]
 
-## „(1) Az oktatók és az üzemvezetői munkakörökben foglalkoztatottak képzésének szakmai irányítását a képzési módszertani központ, alap- és időszakos vizsgáztatását a vizsgaközpont végzi.”
+[^41]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

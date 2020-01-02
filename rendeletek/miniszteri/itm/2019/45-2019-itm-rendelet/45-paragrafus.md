@@ -1,1 +1,3 @@
-## „(8) A hatóság a vizsgabiztosok részére, kinevezésükkel együtt igazolványt ad ki, valamint tevékenységük folytatásához bélyegzővel látja el őket. A vizsgabiztosok tevékenységük végzése során kötelesek maguknál tartani az igazolványt, valamint az általuk e minőségükben aláírt vizsgaigazolásokat és vizsgajegyzőkönyveket bélyegzővel ellátni. A vizsgabiztos a tevékenységi engedély visszavonása esetén köteles a hatóság részére az igazolványt valamint a bélyegzőt visszaszolgáltatni.”
+## 44. §[^44]
+
+[^44]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 45. § Az R7. 32. §-a a következő (1a) bekezdéssel egészül ki:
+## 45. §[^45]
 
-## „(1a) Az alapvizsga vizsgajegyzőkönyvének, a vizsgaigazolásnak és az időszakos vizsga vizsgajegyzőkönyvének kötelező adatait a vizsgaközpont a honlapján teszi közzé.”
+[^45]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

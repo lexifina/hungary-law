@@ -1,3 +1,5 @@
-## 2. § A belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet 2. melléklete az 1. melléklet szerint módosul.
+## 2. §[^2]
 
 ## 3. A hajózási képesítésekről szóló 15/2001. (IV. 27.) KöViM rendelet módosítása
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

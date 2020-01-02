@@ -1,1 +1,3 @@
-## „(9) A szaktanfolyami képzésre és vizsgáztatásra a hatályos jogszabályi rendelkezések mellett a szaktanfolyami képzés tekintetében a közlekedésért felelős miniszter, a szaktanfolyami vizsgáztatás tekintetében a közlekedésért felelős miniszter valamint a vizsgaközpont által a képzés, vizsgáztatás körében jogszabály alapján kiadott utasításait, szabályzatait megfelelően alkalmazni kell.”
+## 24. §[^24]
+
+[^24]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

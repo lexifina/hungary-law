@@ -1,5 +1,3 @@
-## lép.
+## 33. §[^33]
 
-34. § (1) Az R5. 1. melléklete a 10. melléklet szerint módosul.
-
-(2) Az R5. 5. melléklete a 11. melléklet szerint módosul.
+[^33]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

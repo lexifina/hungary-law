@@ -1,11 +1,3 @@
-## 20. § Az R4. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 20. §[^20]
 
-## „(1) Az elméleti és gyakorlati vizsgáztatással kapcsolatos eljárást
-
-## a) az e rendelet 8. mellékletében,
-
-## b) a közlekedésért felelős miniszter által, valamint
-
-## c) a vizsgaközpont által a vizsgaszabályzatban
-
-## meghatározott követelményrendszer szerint kell lefolytatni.”
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

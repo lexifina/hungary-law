@@ -1,5 +1,3 @@
-## 21. § Az R4. 10. § (1) bekezdése a következő g) ponttal egészül ki:
+## 21. §[^21]
 
-## (Elméleti vizsgára az bocsátható, aki)
-
-## „g) meglévő vezetői engedélyét – figyelembe véve a (3) bekezdésben foglaltakat – a vizsgán bemutatja.”
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

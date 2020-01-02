@@ -1,7 +1,3 @@
-## Az R5. 5. mellékletében a III. A vizsgák lezárása pont helyébe a következő rendelkezés lép:
+12. melléklet a 45/2019. (XII. 20.) ITM rendelethez[^65]
 
-## „III. A vizsgák lezárása
-
-## A vizsga befejezése után a vizsgabizottság a jegyzőkönyvet aláírja és annak eredeti példányát leadja a vizsgaközpont részére”
-
-12. melléklet a 45/2019. (XII. 20.) ITM rendelethez
+[^65]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
