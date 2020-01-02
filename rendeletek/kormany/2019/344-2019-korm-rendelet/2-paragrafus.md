@@ -1,0 +1,1 @@
+## 1. § A Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (a továbbiakban: Hivatal) a tudománypolitika koordinációjáért felelős miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
