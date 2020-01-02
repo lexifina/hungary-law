@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a költségvetési szervnél belső ellenőrzési tevékenységet végzők nyilvántartásáról és kötelező szakmai továbbképzéséről, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú továbbképzéséről szóló 28/2011. (VIII. 3.) NGM rendelet.
+## 22. §[^1]
 
 1. melléklet a 22/2019. (XII. 23.) PM rendelethez
 
@@ -83,3 +83,5 @@ A kötelező továbbképzés keretében megvalósuló képzési programok
 | 38 | ÁBPE-továbbképzés II. – Folyamatalapú integrált kockázatkezelés – a költségvetési szervek vezetői és gazdasági vezetői részére | Tréning | A képzés célja, hogy a résztvevők egy esettanulmány megoldásával szerezzenek elméleti és gyakorlati ismereteket a folyamatok azonosítása és rendszerezése, a folyamatleírások és ellenőrzési nyomvonalak készítése terén, valamint az integrált kockázatkezelési rendszer kialakításáról és működtetéséről. | 16 tanóra |
 
 | 39 | ÁBPE-továbbképzés II. – A kontrollkörnyezet értékalapú elemei – a költségvetési szervek vezetői és gazdasági vezetői részére | Tréning | A képzés célja, hogy elméleti és gyakorlati ismereteket nyújtson a résztvevők számára a kontrollkörnyezet értékalapú elemeiről, azok kialakításáról, valamint arról a változásmenedzsment folyamatról, amelyek elősegíti az integráns működés kialakítását és a szervezeti kultúra fejlesztését. | 14 tanóra |
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
