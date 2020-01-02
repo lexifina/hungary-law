@@ -1,1 +1,0 @@
-## „(5) A tértivevény nyomtatványt legkésőbb 2020. június 30-ig lehet a feladáskor felhasználni a hivatalos irat kézbesítési kísérletével kapcsolatos tények vagy a hivatalos irat átvételének igazolása érdekében.”

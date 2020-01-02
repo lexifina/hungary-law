@@ -1,3 +1,5 @@
-## 5. § A Rendelet 7. § (1) bekezdésében a „feladást igazoló okiratot átadni.” szövegrész helyébe a „feladást igazoló okiratot papíralapú vagy elektronikus formában rendelkezésre bocsátani.” szöveg lép.
+## 1–5. §[^2]
 
 6. § Ez a rendelet 2020. január 1-jén lép hatályba.
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
