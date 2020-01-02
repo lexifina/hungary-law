@@ -1,3 +1,3 @@
-## 3. § A lakástakarékpénztár általános szerződési feltételeiről szóló 47/1997. (III. 12.) Korm. rendelet [a továbbiakban: 47/1997. (III. 12.) Korm. rendelet] 7. §-a a következő (7) bekezdéssel egészül ki:
+## 3. §[^3]
 
-## „(7) Olyan szerződéses módozatokra vonatkozó általános szerződési feltételek esetén, amelyekhez nem kapcsolódik állami támogatás, a (2)–(6) bekezdést nem kell alkalmazni.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

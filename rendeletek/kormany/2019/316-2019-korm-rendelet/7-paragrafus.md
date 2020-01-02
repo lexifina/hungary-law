@@ -1,3 +1,3 @@
-## 6. § A 47/1997. (III. 12.) Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „(1) Állami támogatásra jogosult lakáselőtakarékossági szerződések esetén a lakás-takarékpénztár a lakáskölcsönt azonnali hatállyal felmondja, ha az adós a szerződésben vagy a jogszabályban előírt adatszolgáltatási kötelezettségét megszegi, vagy a lakáskölcsönt nem lakás célra használja fel.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

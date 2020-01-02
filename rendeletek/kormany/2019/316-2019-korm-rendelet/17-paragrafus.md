@@ -1,1 +1,3 @@
-## „(6) A hitelfelvevő a nyelvtanulási hallgatói hitelhez kapcsolódóan a törlesztés mérséklését vagy szüneteltetését nem kezdeményezheti, célzott kamattámogatásra nem jogosult.”
+## 16. §[^16]
+
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
