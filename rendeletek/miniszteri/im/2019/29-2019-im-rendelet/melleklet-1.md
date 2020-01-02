@@ -1,3 +1,5 @@
+## 100. §[^1]
+
 1. melléklet a 29/2019. (XII. 20.) IM rendelethez
 
 ## Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. év .. hónapjában
@@ -117,3 +119,5 @@
 |  | A hónap végén folyamatban maradt ügyek száma |  |  |  |
 
 |  | Az ügyekből önálló bírósági végrehajtónak átadva |  |  |  |
+
+[^1]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
