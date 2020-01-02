@@ -1,5 +1,1 @@
-3. § A Gyftv. az „A fiókgyógyszertár létesítése” című alcímet megelőzően a következő 49/C. §-sal egészül ki:
-
-„49/C. § (1) A gyógyszertár működtetőjének az általa vállalt többletszolgáltatást az új, közforgalmú gyógyszertár működésének megkezdésétől számított legalább ötéves időtartamra kell biztosítania. A vállalt többletszolgáltatás időtartama a létesítési engedélyben meghatározott időtartamon belül nem csökkenthető, kivéve, ha a vállalt többletszolgáltatást a működtető a működésével összefüggő, elháríthatatlan külső ok (vis maior) miatt nem tudja teljesíteni. A vis maior megszűnését követően a működtető köteles a vállalt többletszolgáltatást teljesíteni.
-
-(2) A vállalt többletszolgáltatásnak az (1) bekezdés szerinti csökkentését és az annak alapjául szolgáló vis maiort a működtető az egészségügyi államigazgatási szervnek haladéktalanul, de legkésőbb a vis maior bekövetkezését követő 12 órán belül bejelenti.”
+3. §

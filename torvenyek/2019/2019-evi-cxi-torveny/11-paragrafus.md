@@ -1,1 +1,1 @@
-11. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 1b. pontjában az „a műszaki, informatika, agrár, természettudomány” szövegrész helyébe az „a műszaki, informatika, agrár, természettudomány, egészségtudomány” szöveg lép.
+11. §
