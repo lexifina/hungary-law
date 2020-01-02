@@ -1,3 +1,3 @@
-## 8. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 62. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^4]
 
-## „(7) A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2020. január 1-jétől havi 96 835 forint összeghatárig folyósítható együtt.”
+[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
