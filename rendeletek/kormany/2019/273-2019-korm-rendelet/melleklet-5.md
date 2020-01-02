@@ -1,3 +1,3 @@
-## A Vhr. 4. melléklet 1. sorában az „anyakönyvi bejegyzés folyószáma” szövegrész helyébe az „eseményazonosító” szöveg lép.
+5. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^22]
 
-5. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+[^22]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

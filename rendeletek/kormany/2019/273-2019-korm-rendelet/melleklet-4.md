@@ -1,5 +1,3 @@
-## A Vhr. 3. melléklet 2.1. sora helyébe a következő szöveg lép:
+4. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^21]
 
-## „2.1. neve, születési neve”
-
-4. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+[^21]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

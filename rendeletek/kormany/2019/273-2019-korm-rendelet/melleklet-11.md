@@ -1,7 +1,3 @@
-## „1. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+11. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^28]
 
-## 20192220000273_1
-
-## ”
-
-11. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+[^28]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

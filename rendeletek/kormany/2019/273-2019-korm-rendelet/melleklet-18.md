@@ -1,7 +1,3 @@
-## „8. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+18. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^35]
 
-## 20192220000273_8
-
-## ”
-
-18. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+[^35]: A 18. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

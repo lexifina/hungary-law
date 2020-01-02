@@ -1,7 +1,3 @@
-7. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+7. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^24]
 
-1. A Vhr. 7. melléklet 6.1. sora helyébe a következő szöveg lép:
-
-## „6.1. születési családi és utóneve”
-
-2. A Vhr. 7. melléklet 1. sorában az „anyakönyvi bejegyzés folyószáma” szövegrész helyébe az „eseményazonosító” szöveg lép.
+[^24]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „10. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+20. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^37]
 
-## 20192220000273_10
-
-## ”
-
-20. melléklet a 273/2019. (XI. 20.) Korm. rendelethez
+[^37]: A 20. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
