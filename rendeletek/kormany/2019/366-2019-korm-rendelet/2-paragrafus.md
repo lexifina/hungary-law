@@ -1,0 +1,3 @@
+## 1. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 104. § (1) bekezdésében az „a jóváhagyott” szövegrész helyébe a „– ha a záró egyenleg átutalás igénylési dokumentáció az Európai Bizottság részére még nem került benyújtásra – a jóváhagyott” szöveg lép.
+
+## 2. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
