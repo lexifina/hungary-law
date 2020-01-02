@@ -1,3 +1,3 @@
-54. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^146]
+54. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^148]
 
-[^146]: Az 54. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^148]: Az 54. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-62. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^154]
+62. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^156]
 
-[^154]: A 62. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^156]: A 62. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

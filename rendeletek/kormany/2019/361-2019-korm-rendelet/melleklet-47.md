@@ -1,3 +1,3 @@
-47. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^139]
+47. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^141]
 
-[^139]: A 47. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^141]: A 47. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-17. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^109]
+17. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^111]
 
-[^109]: A 17. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^111]: A 17. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

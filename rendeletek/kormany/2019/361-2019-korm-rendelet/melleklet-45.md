@@ -1,3 +1,3 @@
-45. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^137]
+45. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^139]
 
-[^137]: A 45. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^139]: A 45. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

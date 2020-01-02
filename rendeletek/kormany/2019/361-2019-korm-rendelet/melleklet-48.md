@@ -1,3 +1,3 @@
-48. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^140]
+48. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^142]
 
-[^140]: A 48. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^142]: A 48. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-31. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^123]
+31. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^125]
 
-[^123]: A 31. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^125]: A 31. melléklet a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
