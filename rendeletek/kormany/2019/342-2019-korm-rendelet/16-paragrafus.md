@@ -1,5 +1,0 @@
-## 15. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 49. § (3a) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(3a) A jegyző a tárgyévre vonatkozó éves ellenőrzési jelentést, valamint a helyi önkormányzat által alapított költségvetési szervek éves ellenőrzési jelentései alapján készített éves összefoglaló ellenőrzési jelentést – a tárgyévet követően, legkésőbb a zárszámadási rendelet elfogadásáig – a képviselő-testület elé terjeszti jóváhagyásra.
-
-## (4) A fejezetet irányító szerv belső ellenőrzési vezetője kidolgozza, és a fejezetet irányító szerv vezetőjének jóváhagyását követően megküldi a tárgyévet követő év április 15-ig az államháztartásért felelős miniszternek a fejezetet irányító szerv irányítása vagy felügyelete alá tartozó költségvetési szervek éves ellenőrzési jelentései – belefoglalva a fejezetet irányító szerv éves ellenőrzési jelentését is – alapján összeállított összefoglaló éves ellenőrzési jelentést.”

@@ -1,3 +1,0 @@
-## 10. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 17. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1a) Ha a költségvetési szerv belső ellenőrzését az irányító szerve, az irányító szerv által kijelölt vagy törvény, kormányrendelet által gazdasági szervezetének feladatai ellátására kijelölt szerv látja el, az ellátott szervre vonatkozóan külön belső ellenőrzési kézikönyvet nem kell készíteni. Az irányító szerv vagy a kijelölt szerv vezetője által az ellátott szerv vezetőjének egyetértésével jóváhagyott belső ellenőrzési kézikönyv tartalmazza a (2) bekezdésben meghatározottakat az ellátott költségvetési szerv vonatkozásában is.”

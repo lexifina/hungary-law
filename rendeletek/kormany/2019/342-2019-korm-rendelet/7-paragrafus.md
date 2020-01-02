@@ -1,3 +1,0 @@
-## 6. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 11. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A költségvetési szerv vezetője a nyilatkozatot az éves költségvetési beszámolóval együtt küldi meg az irányító szervnek. A fejezetet irányító szerv vezetője a tárgyévet követő év április 30-áig megküldi az államháztartásért felelős miniszternek az általa vezetett költségvetési szervre vonatkozó nyilatkozatot és az irányítása vagy felügyelete alá tartozó költségvetési szervekre vonatkozó nyilatkozatok másolatát. A nyilatkozat elektronikus aláírással ellátva elektronikusan is megküldhető.”
