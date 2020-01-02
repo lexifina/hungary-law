@@ -1,3 +1,5 @@
-## 5. § A Korm. rendelet 3. § (2) bekezdésében és 5. § (1) bekezdésében a „71. (1)” szövegrész helyébe a „71. § (1)” szöveg lép.
+## 5. §[^6]
 
 6. § Ez a rendelet 2020. január 1-jén lép hatályba.
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

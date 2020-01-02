@@ -1,1 +1,3 @@
-## „(7) A pénzforgalmi szolgáltató az (5) bekezdés szerinti időpont előtt legalább 2 hónappal tájékoztatja a kártyabirtokost arról, hogy az (5) bekezdés szerinti időponttól kezdve milyen mértékű díjat számít fel a fel nem használt pénzeszközre. A tájékoztatónak tartalmaznia kell a rendelkezésre álló adatok alapján a fel nem használt pénzeszköz pontos összegét. A tájékoztatót a pénzforgalmi szolgáltató a kártyabirtokos részére a keretszerződésben rögzített módon átadja, vagy rendelkezésre bocsátja oly módon, hogy az ügyfél az adatok céljának megfelelő ideig tartósan tárolhassa, és a tárolt adatokat változatlan formában és tartalommal megjeleníthesse.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
