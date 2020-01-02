@@ -1,3 +1,1 @@
-67. § A Gst. 9. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Kormány legkésőbb a költségvetési évre vonatkozó költségvetési törvényjavaslat Költségvetési Tanács számára, a 24. § (1) bekezdés a) pontja szerint történő benyújtásáig meghatározza azt az összeget (a továbbiakban: keretszám), amelyet a kormányzati szektorba sorolt pénzügyi intézmény költségvetési év utolsó napján fennálló, az államháztartás központi alrendszerével, az államháztartás önkormányzati alrendszerével, és a kormányzati szektorba sorolt egyéb szervezetekkel szemben fennálló követelései és kötelezettségei kiszűrésével konszolidált adósságállománya nem haladhat meg. A Kormány a költségvetési év során – az államháztartásért felelős miniszter kezdeményezésére – az államadósság-mutató e törvény szerint meghatározott alakulásának veszélyeztetése nélkül módosíthatja az előző évben meghatározott értéket.”
+67. §

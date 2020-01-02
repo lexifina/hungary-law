@@ -1,8 +1,8 @@
-47. § A Tpt.
+47. §
 
 a)
 
-b) 12/B. § (3) bekezdésében az „i) pontjában” szövegrész helyébe a „h) és j) pontjában” szöveg,
+b)
 
 c)
 
@@ -27,5 +27,3 @@ l)
 m)
 
 n)
-
-lép.
