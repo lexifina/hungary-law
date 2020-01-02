@@ -1,23 +1,27 @@
-## 8. §[^7]
+## 8. §[^9]
 
-## 9. § A 410/2012. (XII. 28.) Korm. rendelet
+## 9. §[^10]
 
-a) 1/A. §-ában a „ , valamint a hitelesítők akkreditációjáról szóló 600/2012/EU bizottsági rendelet 76.” szövegrész helyébe az „és a hitelesítők akkreditálásáról szóló 2018/2067/EU bizottsági végrehajtási rendelet 77.” szöveg,
+a)[^11]
 
-b) 17. § (3) bekezdésében a „kiállított” szövegrész helyébe az „az ETS rendszeren keresztül kiállított és megküldött elektronikus” szöveg,
+b)[^12]
 
-c) 17. § (6) bekezdésében a „vezet.” szövegrész helyébe a „vezet az ETS rendszerben.” szöveg,
+c)[^13]
 
-d)[^8]
+d)[^14]
 
-e)[^9]
+e)[^15]
 
-f)[^10]
+f)[^16]
 
-g)[^11]
+g)[^17]
 
-[^7]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 9. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 9. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 9. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 9. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 9. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 9. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
