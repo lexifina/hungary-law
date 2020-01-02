@@ -4,9 +4,9 @@
 
 (1b)[^5] Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 10d. pontjában meghatározott mezőgazdasági csekély összegű ágazati korlát mértékéig arányosan kell csökkenteni az adott tárgyévben támogatásra jogosult igényeket, ha azok együttes összege meghaladja a mezőgazdasági csekély összegű ágazati korlát mértékét.
 
-(2)[^6] A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú Nemzeti agrártámogatások előirányzat-felhasználási keretszámla.
+(2)[^6]
 
-(3)[^7] A jogcím finanszírozására a 2019. évben 100 millió forint használható fel.
+(3)[^7] A jogcím finanszírozására a 2020. évben legfeljebb 100 millió forint használható fel.
 
 (4)[^8] A támogatás mértéke a 3. § (3) bekezdés b), c) és e) pontjában foglaltak szerint a tárgyévben megfizetett és igazolt költség azzal, hogy OBU fedélzeti rendszer vásárlása esetén méhészeti eszközhordozó járművenként, ötévente az OBU fedélzeti rendszer nettó ára, de legfeljebb negyvenezer forint.
 
@@ -15,7 +15,7 @@
 [^3]: A 2. § (1) bekezdése a 14/2019. (IV. 10.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1a) bekezdését a 14/2019. (IV. 10.) AM rendelet 17. § (2) bekezdése iktatta be.
 [^5]: A 2. § (1b) bekezdését a 14/2019. (IV. 10.) AM rendelet 17. § (2) bekezdése iktatta be.
-[^6]: A 2. § (2) bekezdése a 35/2018. (XII. 6.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (3) bekezdése a 35/2018. (XII. 6.) AM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdését a 66/2019. (XII. 30.) AM rendelet 3. §-a hatályon kívül helyezte.
+[^7]: A 2. § (3) bekezdése a 35/2018. (XII. 6.) AM rendelet 16. § (2) bekezdésével megállapított, a 66/2019. (XII. 30.) AM rendelet 2. §-a szerint módosított szöveg.
 [^8]: A 2. § (4) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 64. § a) pontja szerint módosított szöveg.
