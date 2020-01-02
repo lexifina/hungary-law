@@ -1,3 +1,5 @@
-## 49. § Hatályát veszti a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 20. § (1) bekezdés c) pontjában az „érvényes vállalkozói igazolvánnyal vagy azzal egyenértékű – más tagállam hatósága által kiállított – vállalkozási tevékenység folytatására jogosító engedéllyel, egyéni vállalkozói igazolvány hiányában” szövegrész.
+## 49. §[^126]
 
 ## 50. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
+
+[^126]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

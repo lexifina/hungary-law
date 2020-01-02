@@ -1,17 +1,14 @@
-## 189. §[^297]
+## 189. §[^509]
 
 ## 190. A kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítéséről, használatbavételéről, üzemben tartásáról és megszüntetéséről szóló 510/2017. (XII. 29.) Korm. rendelet módosítása
 
-190. § (1) A kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítéséről, használatbavételéről, üzemben tartásáról és megszüntetéséről szóló 510/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R110.) 4. § (1) bekezdése kiegészül a következő d) ponttal:
+190. § (1)[^510]
 
-(A hajózási hatóság engedélye nélkül végezhető:)
+(2)[^511]
 
-## „d) a 25 m2 alatti fedélzeti területű úszóműállás létesítése és használatba vétele.”
+(3)[^512]
 
-(2)[^298]
-
-(3)[^299]
-
-[^297]: A 189. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^298]: A 190. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^299]: A 190. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^509]: A 189. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^510]: A 190. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^511]: A 190. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^512]: A 190. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

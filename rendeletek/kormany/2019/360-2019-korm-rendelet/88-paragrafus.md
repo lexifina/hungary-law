@@ -1,10 +1,11 @@
-## 87. §[^98]
+## 87. §[^183]
 
 ## 88. A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosítása
 
-88. § (1)[^99]
+88. § (1)[^184]
 
-(2) Hatályát veszti az R53. 8/A. § (3) bekezdésében az „egyéb támogatás, mentesség, kedvezmény igénylése céljából, erre irányuló kérelem esetén” szövegrész.
+(2)[^185]
 
-[^98]: A 87. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^99]: A 88. § (1) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^183]: A 87. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^184]: A 88. § (1) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^185]: A 88. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,19 +1,17 @@
-## 38. §[^43]
+## 38. §[^83]
 
 ## 39. A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosítása
 
-39. § (1) A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: R28.) 2. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+39. § (1)[^84]
 
-(A környezeti hatásvizsgálati eljárás szempontjából)
+(2)[^85]
 
-## „f) területfoglalás: a tevékenység megvalósításához vagy a létesítmény elhelyezéséhez ténylegesen igénybe vett terület.”
+(3)[^86]
 
-(2) Az R28. 3. melléklete helyébe a 6. melléklet lép.
+(4)[^87]
 
-(3)[^44]
-
-(4)[^45]
-
-[^43]: A 38. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^44]: A 39. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^45]: A 39. § (4) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^83]: A 38. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^84]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 39. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 39. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^87]: A 39. § (4) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

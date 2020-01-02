@@ -1,12 +1,11 @@
-## 34. §[^39]
+## 34. §[^78]
 
 ## 35. Az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet módosítása
 
-35. § (1) Az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet (a továbbiakban: R26.) 4. §-a a következő (2a) bekezdéssel egészül ki:
+35. § (1)[^79]
 
-## „(2a) Budapest Főváros Kormányhivatala a természetes gyógytényezőkre, gyógyhelyekre vonatkozó nyilvántartását a honlapján közzéteszi a gyógytényezők, gyógyhelyek érintettségének vizsgálata céljából. Ha a gyógytényezők, gyógyhelyek érintettsége nem áll fenn, a döntéshez Budapest Főváros Kormányhivatalának véleményét nem szükséges kikérni.”
+(2)[^80]
 
-(2)[^40]
-
-[^39]: A 34. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^40]: A 35. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^78]: A 34. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^79]: A 35. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 35. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

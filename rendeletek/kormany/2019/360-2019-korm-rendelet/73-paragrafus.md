@@ -1,5 +1,5 @@
-## 72. § A hatósági közvetítőkről szóló 185/2009. (IX. 10.) Korm. rendelet 9. § (3) bekezése helyébe a következő rendelkezés lép:
-
-## „(3) A hatósági közvetítő a jogorvoslati eljárás, vagy a bíróság által elrendelt új eljárás során – ha azt az ügyfelek egyike sem kifogásolja – ismételten igénybe vehető.”
+## 72. §[^157]
 
 ## 73. A főépítészi tevékenységről szóló 190/2009. (IX. 15.) Korm. rendelet módosítása
+
+[^157]: A 72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

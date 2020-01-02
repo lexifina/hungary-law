@@ -1,94 +1,67 @@
 ## 158. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
 
-158. § (1)[^192]
+158. § (1)[^331]
 
-(2)[^193]
+(2)[^332]
 
-(3)[^194]
+(3)[^333]
 
-(4) Az R92. 3. alcíme a következő 5/B. §-sal egészül ki:
+(4)[^334]
 
-## „5/B. § A Kormány a Magyar Autóklubot jelöli ki a muzeális minősítő bizottságok tevékenységével kapcsolatos közlekedési hatósági feladatok ellátása tekintetében.”
+(5)[^335]
 
-(5) Az R92. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+(6)[^336]
 
-## „(1) Hajózási hatóságként a Kormány
+(7)[^337]
 
-## a) a (2) és (3) bekezdés szerinti ügyekben a minisztert,
+(8)[^338]
 
-## b) a (4) bekezdés szerinti ügyekben országos illetékességgel Budapest Főváros Kormányhivatalát,
+(9)[^339]
 
-## c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 4. § (4) bekezdésében foglalt feladat tekintetében Magyarország konzuli tisztviselőjét
+(10)[^340]
 
-## d) a (8) bekezdés szerinti ügyekben a Magyar Vitorlás Szövetséget
+(11)[^341]
 
-## jelöli ki.”
+(12)[^342]
 
-(6) Az R92. 8. § (4) bekezdés 5. pontja helyébe a következő rendelkezés lép:
-
-(Hajózási hatóságként Budapest Főváros Kormányhivatala jár el)
-
-## „5. a (6) bekezdésben foglaltak kivételével az úszólétesítmény üzemképességének megállapításával és tanúsításával,”
-
-## (kapcsolatos eljárásokban.)
-
-(7) Az R92. 8. § (4) bekezdés 21–22. pontja helyébe a következő rendelkezés lép:
-
-(Hajózási hatóságként Budapest Főváros Kormányhivatala jár el)
-
-## „21. a vízi repülőtér kivételével az úszólétesítményen hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírásával,
-
-## 22. a vízi repülőtér kivételével vízi sportpálya kijelölésével,”
-
-## (kapcsolatos eljárásokban.)
-
-(8) Az R92. 8. §-a kiegészül a következő (8) bekezdéssel:
-
-## „(8) A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.”
-
-(9) Az R92. 9. § (4) bekezdése kiegészül a következő 75–76. ponttal:
-
-(A légiközlekedési hatóság hatósági feladatai a következők:)
-
-## „75. vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
-
-## 76. közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.”
-
-(10)[^195]
-
-(11)[^196]
-
-(12)[^197]
-
-(13)[^198]
+(13)[^343]
 
 (14) Hatályát veszti az R92.
 
-a)[^199]
+a)[^344]
 
-b)[^200]
+b)[^345]
 
-c)[^201]
+c)[^346]
 
-d)[^202]
+d)[^347]
 
-e) 4. § (3) bekezdés 2. és 8. pontja,
+e)[^348]
 
-f) 4. § (4) bekezdés 22. és 28. pontja,
+f)[^349]
 
-g) 8. § (4) bekezdés 23. pontja,
+g)[^350]
 
-h)[^203]
+h)[^351]
 
-[^192]: A 158. § (1) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^193]: A 158. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^194]: A 158. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^195]: A 158. § (10) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^196]: A 158. § (11) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^197]: A 158. § (12) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^198]: A 158. § (13) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^199]: A 158. § (14) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^200]: A 158. § (14) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^201]: A 158. § (14) bekezdés c) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^202]: A 158. § (14) bekezdés d) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^203]: A 158. § (14) bekezdés h) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^331]: A 158. § (1) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^332]: A 158. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^333]: A 158. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^334]: A 158. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^335]: A 158. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^336]: A 158. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^337]: A 158. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^338]: A 158. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^339]: A 158. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^340]: A 158. § (10) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^341]: A 158. § (11) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^342]: A 158. § (12) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^343]: A 158. § (13) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^344]: A 158. § (14) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^345]: A 158. § (14) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^346]: A 158. § (14) bekezdés c) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^347]: A 158. § (14) bekezdés d) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^348]: A 158. § (14) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^349]: A 158. § (14) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^350]: A 158. § (14) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^351]: A 158. § (14) bekezdés h) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

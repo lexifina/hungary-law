@@ -1,3 +1,5 @@
-## 8. § Hatályát veszti a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 4.) Korm. rendelet 1. számú melléklet III. pont 1.63. alpontja.
+## 8. §[^10]
 
 ## 9. A közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet módosítása
+
+[^10]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

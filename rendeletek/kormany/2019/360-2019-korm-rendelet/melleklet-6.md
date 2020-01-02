@@ -14,6 +14,6 @@
 
 ## ”
 
-6. melléklet a 360/2019. (XII. 30.) Korm. rendelethez
+6. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^540]
 
-„3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
+[^540]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

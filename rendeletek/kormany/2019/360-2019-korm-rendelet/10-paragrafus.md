@@ -1,130 +1,110 @@
-## 9. §[^8]
+## 9. §[^11]
 
 ## 10. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet módosítása
 
-10. § (1) A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: R8.) I. Fejezete a következő 6. §-sal egészül ki:
+10. § (1)[^12]
 
-## „6. § Nincs szükség a gyámhatóság jóváhagyására, ha a jognyilatkozat érvényességét bírósági vagy közjegyzői eljárásban elbírálták, vagy a közjegyző előtt a hagyatéki eljárás folyamatban van.”
+(2)[^13]
 
-(2) Az R8. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
+(3)[^14]
 
-## „(3) A szülőket tájékoztatni kell arról, hogy a (2) bekezdésben meghatározott megállapodásukat közös megegyezéssel módosíthatják.”
+(4)[^15]
 
-(3) Az R8. a 26/C. §-át követően a következő alcím címmel és 26/D. §-sal egészül ki:
+(5)[^16]
 
-## „A tanköteles gyermek művészeti, sport-, modell vagy hirdetési tevékenység keretében történő foglalkoztatásának bejelentésével összefüggő gyámhatósági feladatok
+(6)[^17]
 
-## 26/D. § (1) A gyámhivatal a tanköteles gyermek művészeti, sport-, modell- vagy hirdetési tevékenység keretében történő foglalkoztatásának bejelentését követően ellenőrzi a bejelentésben foglaltakat, és meghallgatja a Gyvt. 128. § (1) bekezdésében meghatározott személyeket.
+(7)[^18]
 
-## (2) A gyámhivatal megtiltja a foglalkoztatást, ha az ellentétes a gyermek érdekével.
+(8)[^19]
 
-## (3) Ha a gyámhivatal a gyermek foglalkoztatásának kezdő időpontját követően szerez tudomást olyan tényről, amely alapján a foglalkoztatás a gyermek érdekével ellentétes, haladéktalanul felhívja hatósági ellenőrzés lefolytatására a munkaügyi ellenőrzésre hatáskörrel rendelkező szervet.”
-
-(4)[^9]
-
-(5) Az R8. 54. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A települési önkormányzat jegyzője az apa adatai nélkül anyakönyvezett gyermek születése esetén tájékoztatja az anyát arról, hogy
-
-## a) a gyermek érdekében a családi jogállás rendezése milyen módon biztosítható, és
-
-## b) a kiskorú apa apai elismerő nyilatkozatának felvételére a Gyár. 22. § (2) bekezdés b) pontja alapján bármely gyámhivatal illetékes, valamint, hogy az apai elismerő nyilatkozatot anyakönyvvezető, bíróság vagy közjegyző előtt is meg lehet tenni, ha van olyan férfi, aki a gyermeket magáénak elismeri.”
-
-(6) Az R8. 61/A. §-a helyébe a következő rendelkezés lép:
-
-## „61/A. § (1) A gyámhivatal
-
-## a) egyedülálló apaként történő örökbefogadás esetén a gyermek számára az örökbefogadást engedélyező határozatban [46. § (1) bekezdés f) pontja],
-
-## b) ha az örökbefogadás felbontása révén az örökbefogadás csak az örökbe fogadó anya vonatkozásában szűnik meg,
-
-## a gyermek számára képzelt személyt állapít meg anyaként.
-
-## (2) A települési önkormányzat jegyzője
-
-## a) a hazai anyakönyvezést végző hatóság megkeresésére a külföldön született és honosított gyermek vagy nagykorú személy számára és
-
-## b) az anya adatai nélkül anyakönyvezett személy számára
-
-## képzelt személyt állapít meg anyaként.”
-
-(7)[^10]
-
-(8) Az R8. 91/F. §-a helyébe a következő rendelkezés lép:
-
-## „91/F. § Ha a nevelési-oktatási intézmény vezetője jelzi a család- és gyermekjóléti központnak, hogy az óvodai nevelésben való részvételre kötelezett gyermek igazolatlanul mulasztott óvodai nevelési napjainak száma az adott nevelési évben elérte az ötöt, vagy a gyermek (fiatal felnőtt) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma az adott tanítási évben elérte a tízet, a család- és gyermekjóléti központ
-
-## a) nevelőszülőnél vagy gyermekotthonban elhelyezett gyermek esetén megküldi a jelzést a gyermekvédelmi szakszolgálat számára a gyám tájékoztatása és a gyámi tevékenység szakmai segítése, ellenőrzése érdekében,
-
-## b) az a) pont alá nem tartozó esetben, feltéve, hogy a családi pótlék jogosultja nem a szociális intézmény vezetője, büntetés-végrehajtási intézet parancsnoka vagy a javítóintézet igazgatója, levélben tájékoztatja a családi pótlék jogosultját az adott nevelési évben a huszadik óvodai nevelési napnak vagy az adott tanítási évben az ötvenedik kötelező tanórai foglalkozás igazolatlan elmulasztásának 91/G. § (2) bekezdés b) pontja szerinti jogkövetkezményeiről.”
-
-(9)[^11]
+(9)[^20]
 
 (10) Az R8.
 
-a) 21. § (1) bekezdés nyitó szövegrészében és a) pontjában, 21. § (2) bekezdésében, 21. § (3) bekezdés a) és b) pontjában, 21. § (4) bekezdésében, 26/C. § (1) és (2) bekezdésében, 60. § (1) bekezdésében, 61. § (3) bekezdésében és 61/B. §-ában a „gyámhivatal” szövegrész helyébe a „települési önkormányzat jegyzője” szöveg,
+a)[^21]
 
-b) 21. § (3) bekezdés nyitó szövegrészében és 61. § (1) bekezdésében a „gyámhivatal” szövegrészek helyébe a „települési önkormányzat jegyzője” szöveg,
+b)[^22]
 
-c) 26/C. § (1) bekezdésében a „gyámhivatallal” szövegrész helyébe a „települési önkormányzat jegyzőjével” szöveg,
+c)[^23]
 
-d) 26/C. § (2) bekezdésében a „gyámhivatalnak” szövegrész helyébe a „települési önkormányzat jegyzőjének” szöveg,
+d)[^24]
 
-e) 60. § (2) és (3) bekezdésében a „gyámhivataltól” szövegrész helyébe a „települési önkormányzat jegyzőjétől” szöveg,
+e)[^25]
 
-f) 73. § (1) bekezdés h) pontjában a „gyámhivatalnak” szövegrész helyébe a „Magyar Államkincstárnak” szöveg,
+f)[^26]
 
-g)[^12]
+g)[^27]
 
-h)[^13]
+h)[^28]
 
-i)[^14]
+i)[^29]
 
-j)[^15]
+j)[^30]
 
-k)[^16]
+k)[^31]
 
-l) 146. § (5) bekezdésében a „végszámadást elfogadó határozata” szövegrész helyébe a „végelszámolásról hozott döntése” szöveg,
+l)[^32]
 
-m) 154. § (2) bekezdés a) pontjában a „betétben” szövegrész helyébe az „ügyvédi letétben” szöveg,
+m)[^33]
 
-n)[^17]
+n)[^34]
 
 ## lép.
 
 (11) Hatályát veszti az R8.
 
-a) 5/A. §-a,
+a)[^35]
 
-b) 21. § (3) bekezdésében a „vagy a gyámhivatal” szövegrész,
+b)[^36]
 
-c) 26/C. § (1) bekezdésében a „gyámhivatali” szövegrész,
+c)[^37]
 
-d)[^18]
+d)[^38]
 
-e)[^19]
+e)[^39]
 
-f)[^20]
+f)[^40]
 
-g) 133. § (1) bekezdés b) pontja,
+g)[^41]
 
-h) 156. § (2) bekezdés c) pontja,
+h)[^42]
 
-i) 158. § (5) bekezdésében a „határozattal” szövegrész,
+i)[^43]
 
-j)[^21]
+j)[^44]
 
-[^8]: A 9. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^9]: A 10. § (4) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^10]: A 10. § (7) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^11]: A 10. § (9) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^12]: A 10. § (10) bekezdés g) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^13]: A 10. § (10) bekezdés h) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^14]: A 10. § (10) bekezdés i) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^15]: A 10. § (10) bekezdés j) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^16]: A 10. § (10) bekezdés k) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^17]: A 10. § (10) bekezdés n) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^18]: A 10. § (11) bekezdés d) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^19]: A 10. § (11) bekezdés e) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^20]: A 10. § (11) bekezdés f) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^21]: A 10. § (11) bekezdés j) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^11]: A 9. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^12]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 10. § (4) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^16]: A 10. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 10. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 10. § (7) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^19]: A 10. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 10. § (9) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^21]: A 10. § (10) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. § (10) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 10. § (10) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 10. § (10) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 10. § (10) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 10. § (10) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 10. § (10) bekezdés g) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^28]: A 10. § (10) bekezdés h) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^29]: A 10. § (10) bekezdés i) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^30]: A 10. § (10) bekezdés j) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^31]: A 10. § (10) bekezdés k) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^32]: A 10. § (10) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 10. § (10) bekezdés m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 10. § (10) bekezdés n) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^35]: A 10. § (11) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 10. § (11) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 10. § (11) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 10. § (11) bekezdés d) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^39]: A 10. § (11) bekezdés e) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^40]: A 10. § (11) bekezdés f) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^41]: A 10. § (11) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 10. § (11) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 10. § (11) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 10. § (11) bekezdés j) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -1,60 +1,52 @@
-## 160. §[^268]
+## 160. §[^449]
 
 ## 161. A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet módosítása
 
-161. § (1) A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet (a továbbiakban: R95.) 3. § (3) és (3a) bekezdése helyébe a következő rendelkezések lépnek:
+161. § (1)[^450]
 
-## „(3) Az egyes, jogszabályban meghatározott sugáregészségügyi feladatokat a Nemzeti Népegészségügyi Központ látja el.
+(2)[^451]
 
-## (3a) A sugáregészségügyi feladatok ellátását és a sugáregészségügyi előírások betartásának ellenőrzését a Nemzeti Népegészségügyi Központ – az egészségügyi szolgáltatók vonatkozásában speciális szakértelmet és gyakorlatot igénylő esetben a szakfelügyelő főorvos, a rendvédelmi szervek által működtetett egészségügyi szolgálatok esetében pedig a Rendvédelmi Közegészségügyi-Járványügyi Szolgálat közreműködésével – látja el.”
+(3)[^452]
 
-(2)[^269]
+(4)[^453]
 
-(3) Az R95. 8. § (1) bekezdés a) pont aa) alpontja helyébe a következő rendelkezés lép:
+(5)[^454]
 
-[A Kormány egészségügyi államigazgatási szervként az országos tisztifőorvost jelöli ki
-
-az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.)]
-
-## „aa) 4. § (1) bekezdés k), l) és o) pontja, 4/A. § (1) bekezdése,”
-
-## [szerinti feladatok ellátására.]
-
-(4) Az R95. 8. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(A Kormány egészségügyi államigazgatási szervként az országos tisztifőorvost jelöli ki)
-
-## „i) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése”
-
-## (szerinti feladatok ellátására.)
-
-(5)[^270]
-
-(6)[^271]
+(6)[^455]
 
 (7) Hatályát veszti az R95.
 
-a)[^272]
+a)[^456]
 
-b) 2. § (1) bekezdés c) pont ca) alpontjában a „sugáregészségügyi,” szövegrész,
+b)[^457]
 
-c) 3. § (2) bekezdésében a „ , valamint az 1. mellékletben meghatározott esetekben – figyelemmel a (3) bekezdésben és a 2. mellékletben foglaltakra is –” szövegrész,
+c)[^458]
 
-d) 9. § (1) bekezdés a)–c) pontja,
+d)[^459]
 
-e) 12. § a) pontja,
+e)[^460]
 
-f) 13. § (2) bekezdése,
+f)[^461]
 
-g)[^273]
+g)[^462]
 
-h) 1. melléklete,
+h)[^463]
 
-i) 2. melléklet 2. pontja.
+i)[^464]
 
-[^268]: A 160. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^269]: A 161. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^270]: A 161. § (5) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^271]: A 161. § (6) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^272]: A 161. § (7) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^273]: A 161. § (7) bekezdés g) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^449]: A 160. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^450]: A 161. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^451]: A 161. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^452]: A 161. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^453]: A 161. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^454]: A 161. § (5) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^455]: A 161. § (6) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^456]: A 161. § (7) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^457]: A 161. § (7) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^458]: A 161. § (7) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^459]: A 161. § (7) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^460]: A 161. § (7) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^461]: A 161. § (7) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^462]: A 161. § (7) bekezdés g) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^463]: A 161. § (7) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^464]: A 161. § (7) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

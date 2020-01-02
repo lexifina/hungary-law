@@ -1,3 +1,5 @@
-## 153. § Hatályát veszti a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló 274/2016. (IX. 15.) Korm. rendelet 4/A. § (2) bekezdés a) pontja.
+## 153. §[^317]
 
 ## 154. A közérdekű adat iránti igény teljesítéséért megállapítható költségtérítés mértékéről szóló 301/2016. (IX. 30.) Korm. rendelet módosítása
+
+[^317]: A 153. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
