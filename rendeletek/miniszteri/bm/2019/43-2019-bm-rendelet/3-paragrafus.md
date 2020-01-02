@@ -1,5 +1,5 @@
+## 2. §[^3]
+
 ## 3. A vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendelet módosítása
 
-3. § (1) A vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendelet (a továbbiakban: R3.) 2. melléklete az 1. melléklet szerint módosul.
-
-(2) Hatályát veszti az R3. 1. mellékletében foglalt táblázat 75. sora.
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
