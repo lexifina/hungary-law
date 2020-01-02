@@ -1,3 +1,0 @@
-4. § Az Itv. „Hatálybaléptető és átmeneti rendelkezések” című alcíme a következő 99/U. §-sal egészül ki:
-
-„99/U. § Az 57. § (1) bekezdés a) pontjának a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel (a továbbiakban: Mód1tv.) megállapított rendelkezését azokban a Mód1tv. hatálybalépése napján folyamatban lévő felszámolási eljárásokban is alkalmazni kell, amelyekben a bíróság az eljárást a Mód1tv. hatálybalépését követően szüntette meg.”

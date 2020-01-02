@@ -1,3 +1,0 @@
-53. § Az Avt. 58. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adóhatóság a lefoglalt ingóság értékesítése iránt a foglalást, illetve a vízi, légi jármű lajstromának, valamint az egyedi azonosításra kétséget kizáróan alkalmas ingó dologként jogszabályban meghatározott vagyontárgy foglalása esetén a zálogjogi nyilvántartás adatainak beszerzését követő 30 nap eltelte után, 8 napon belül intézkedik. Ha az ingóság a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendelet szerinti közfoglalkoztatási program keretében beszerzett és használt ingóság, akkor a becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.”

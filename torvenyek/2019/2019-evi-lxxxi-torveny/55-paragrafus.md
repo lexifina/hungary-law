@@ -1,3 +1,0 @@
-55. § Az Avt. 82. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A mező- és erdőgazdálkodási földek forgalmáról szóló 2013. évi CXXII. törvény 35. § (7) bekezdése szerinti esetben a mezőgazdasági igazgatási szerv megkeresésére az adóhatóság az általa foganatosított végrehajtási eljárás során a Vht., az ingatlan folyamatos árverezése iránti hirdetményre vonatkozó szabályai szerint teszi közzé az árverési hirdetményt. Ha vételi ajánlat érkezik a megkereséssel érintett ingatlanra, az adóhatóság az árverés lefolytatása érdekében ismételten megkeresi a mezőgazdasági igazgatási szervet. Földek esetén az ingatlan folyamatos árverezése iránti hirdetmény közzétételét követően az ingatlanra írásban az árverést lebonyolító adóhatóságnál tehető vételi ajánlat.”
