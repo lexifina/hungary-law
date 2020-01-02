@@ -1,7 +1,3 @@
-## 18. § A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet (a továbbiakban: R.) 19. § (1) bekezdés g) pont gj) alpontja helyébe a következő rendelkezés lép:
+## 18. §[^1]
 
-## [A Kit. 91. § (5) bekezdése alapján kiadott közszolgálati szabályzatnak tartalmaznia kell
-
-## e rendeletben foglaltak figyelembevételével az illetmény és az illetményen felüli juttatások, kedvezmények és támogatások szabályait, ennek keretében:]
-
-## „gj) egyéb – a Kit.-ben, illetve az e rendeletben nevesített – támogatások igénybevételét, továbbá igénylésének és elbírálásának rendjét,”
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette

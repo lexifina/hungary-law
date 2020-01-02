@@ -1,3 +1,3 @@
-## 22. § Az R. 47. alcíme a következő 109/A. §-sal egészül ki:
+## 22. §[^5]
 
-## „109/A. § 2020. január 1-jétől a kormányzati igazgatási szerv a kormánytisztviselő részére nem állapíthat meg olyan illetményen felüli juttatást, amelyet e rendelet nem nevesít.”
+[^5]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette
