@@ -1,7 +1,8 @@
 ## 3. A támogatás forrása, keretösszege
 
-3. § (1) A támogatás forrása 2019. évben a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoport szerinti előirányzat.
+3. § (1)[^2]
 
-(2)[^2] E rendelet alapján a 2019. évben nyújtható támogatás keretösszege 892 millió forint.
+(2)[^3] E rendelet alapján a tárgyévben nyújtható támogatás keretösszege legfeljebb 700 millió forint.
 
-[^2]: A 3. § (2) bekezdése az 52/2019. (XI. 14.) AM rendelet 9. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdését a 66/2019. (XII. 30.) AM rendelet 13. §-a hatályon kívül helyezte.
+[^3]: A 3. § (2) bekezdése a 66/2019. (XII. 30.) AM rendelet 12. §-a szerint módosított szöveg.
