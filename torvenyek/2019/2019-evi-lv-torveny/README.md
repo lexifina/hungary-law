@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-55-00-00
 | 2019-09-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-55-00-00.5 |
 | 2019-10-01 | 2010. évi CXXX. törvény | 2019-55-00-00.6 |
 | 2020-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-55-00-00.7 |
+| 2020-01-02 | 2010. évi CXXX. törvény | 2019-55-00-00.8 |
