@@ -4,7 +4,7 @@
 
 2.
 
-3. 19. § (1) bekezdés h) pontjában a „visszahívásával.” szövegrész helyébe a „visszahívásával, vagy” szöveg,
+3.
 
 4.
 
@@ -20,11 +20,11 @@
 
 10.
 
-11. 80. § (1) bekezdésében az „és (2a) bekezdésben meghatározott kivételekkel” szövegrész helyébe a „bekezdésben meghatározott kivétellel” szöveg,
+11.
 
 12.
 
-13. 91. § (3) bekezdésében a „jogerős határozatot” szövegrész helyébe a „véglegessé vált határozatot” szöveg,
+13.
 
 14.
 
@@ -38,7 +38,7 @@
 
 19.
 
-20. 120. §-ában az „a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény a miniszterelnök javadalmazása és juttatásai alcímében foglalt szabályokat” szövegrész helyébe „a miniszterelnök juttatásaira vonatkozó szabályokat” szöveg,
+20.
 
 21.
 

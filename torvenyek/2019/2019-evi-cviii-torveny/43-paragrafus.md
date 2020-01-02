@@ -4,7 +4,7 @@ a)
 
 b)
 
-c) 19. § (1) bekezdés g) pontjában a „vagy” szövegrész,
+c)
 
 d)
 
