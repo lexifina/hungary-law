@@ -1,5 +1,3 @@
-## lép.
+## 6. §[^7]
 
-7. § (1) A Vhr. 1. melléklete helyébe az 1. melléklet lép.
-
-(2) A Vhr. 12. melléklete helyébe a 2. melléklet lép.
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
