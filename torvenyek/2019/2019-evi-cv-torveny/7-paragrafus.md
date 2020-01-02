@@ -1,5 +1,0 @@
-7. § A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezetek, honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, ideiglenes munkahely, azon gazdasági társaságok tekintetében, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;”

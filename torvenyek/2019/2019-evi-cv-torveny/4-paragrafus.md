@@ -1,5 +1,3 @@
 ## 2. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-4. § A magyar állampolgárságról szóló 1993. évi LV. törvény a következő 19/A. §-sal egészül ki:
-
-„19/A. § Az állampolgársági ügyekben eljáró szerv a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § m) pontjában és 30. § (1) bekezdés f) pontjában foglaltakra tekintettel, a hadkötelesek nyilvántartásának vezetése céljából a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére adatot szolgáltat azon személyek természetes személyazonosító adatairól, akiknek magyar állampolgársága lemondás vagy visszavonás révén megszűnt, illetve akik magyar állampolgárságát visszaállították.”
+4. §

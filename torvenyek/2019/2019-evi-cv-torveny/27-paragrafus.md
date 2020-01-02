@@ -1,1 +1,0 @@
-27. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. § (1a) bekezdésében a „KNBSZ” szövegrész helyébe a „Katonai Nemzetbiztonsági Szolgálat” szöveg lép.

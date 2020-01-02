@@ -1,5 +1,0 @@
-18. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 37. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:)
-
-„a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a hadköteles korba lépő polgárok, a magyar állampolgárságot megszerző, magyarországi lakóhellyel rendelkező polgárok, valamint a külföldről hazatérő magyar állampolgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, lakóhelyéről, tartózkodási helyéről, családi állapotáról, személyi azonosítójáról, valamint a hadköteles nyilvántartásban lévő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról vagy külföldön történő letelepedésről;”
