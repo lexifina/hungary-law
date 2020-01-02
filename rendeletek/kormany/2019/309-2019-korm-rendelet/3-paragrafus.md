@@ -1,1 +1,3 @@
-## „(7) A Mentőszolgálat légi mentési feladatait az általa alapított, a Készenléti Rendőrség tulajdonosi joggyakorlásában levő és a Mentőszolgálat egészségügyi szakmai irányítása alatt álló Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság útján látja el.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
