@@ -1,5 +1,5 @@
-## 12. § Az Áhsz. 33. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A (3) bekezdést a tulajdonosi joggyakorló által készített és a központi költségvetés XXII. Miniszterelnöki Kormányiroda fejezetébe sorolt, általa kezelt központi kezelésű előirányzatra – az Ávr. 1. melléklet I. pont 21. alpont b) pontjában meghatározott előirányzatok kivételével – elkészített 6. § (1) bekezdés e) pontja szerinti beszámoló esetében azzal az eltéréssel kell alkalmazni, hogy a fejezetet irányító szerv vagy a fejezetet irányító szerv vezetőjének kijelölése alapján az Ávr. 9. § (5b) bekezdése szerinti szervezet a Kincstár által működtetett elektronikus rendszerbe feltöltött éves költségvetési beszámolót a fenti határidőt követő tíz napon belül felülvizsgálja és – annak javításának, kiegészítésének szükség szerinti elrendelését követően – jóváhagyja. A Kincstár általi felülvizsgálat során jóváhagyott éves költségvetési beszámolót harminc napon belül meg kell küldeni az állami vagyon felügyeletéért felelős miniszternek is.”
+## 9–12. §[^5]
 
 ## 5. Az államigazgatási szervek integritásirányítási rendszeréről és az érdekérvényesítők fogadásának rendjéről szóló 50/2013. (II. 25.) Korm. rendelet módosítása
+
+[^5]: A 9–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
