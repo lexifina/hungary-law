@@ -1,34 +1,38 @@
 ## 11. § A 299/2017. (X. 17.) Korm. rendelet
 
-1. 5. § (4) bekezdésében az „Az új kérelmező kérelmének” szövegrész helyébe az „A kérelmek” szöveg,
+1.[^15]
 
-2.[^8]
+2.[^16]
 
-3.[^9]
+3.[^17]
 
-4.[^10]
+4.[^18]
 
-5.[^11]
+5.[^19]
 
-6.[^12]
+6.[^20]
 
-7.[^13]
+7.[^21]
 
-8.[^14]
+8.[^22]
 
-9.[^15]
+9.[^23]
 
-10. 10. §-ában a „jogerős” szövegrész helyébe a „véglegessé vált” szöveg,
+10.[^24]
 
-11. 10. §-ában a „kizáró ok” szövegrész helyébe a „kizáró vagy felfüggesztő ok” szöveg,
+11.[^25]
 
-12. 11. § (10) bekezdésében a „(8) bekezdésben” szövegrész helyébe a „(9) bekezdésben” szöveg
+12.[^26]
 
-[^8]: A 11. § 2. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^9]: A 11. § 3. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^10]: A 11. § 4. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^11]: A 11. § 5. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^12]: A 11. § 6. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^13]: A 11. § 7. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^14]: A 11. § 8. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^15]: A 11. § 9. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^15]: A 11. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § 2. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^17]: A 11. § 3. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^18]: A 11. § 4. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^19]: A 11. § 5. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^20]: A 11. § 6. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^21]: A 11. § 7. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^22]: A 11. § 8. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^23]: A 11. § 9. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^24]: A 11. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 11. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 11. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

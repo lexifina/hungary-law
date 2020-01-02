@@ -2,12 +2,15 @@
 
 ## 12. § Hatályát veszti a 299/2017. (X. 17.) Korm. rendelet
 
-1. 6. § (1) bekezdésében az „új” szövegrész,
+1.[^27]
 
-2.[^16]
+2.[^28]
 
-3. 11. § (2) bekezdés e) pontja,
+3.[^29]
 
-4. 11. § (8) bekezdése.
+4.[^30]
 
-[^16]: A 12. § 2. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^27]: A 12. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 12. § 2. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+[^29]: A 12. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 12. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

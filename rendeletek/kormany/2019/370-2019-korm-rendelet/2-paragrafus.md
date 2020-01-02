@@ -1,1 +1,0 @@
-## „15. telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában, továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, valamint minden olyan, a termelő által meghatározott ingatlan, amely alkalmas a villamosenergia-termelési tevékenység végzésére;”
