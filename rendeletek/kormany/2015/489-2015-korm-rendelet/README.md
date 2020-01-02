@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-489-20-
 | 2018-03-01 | 2015-489-20-22.4 | 27/2018. (II. 28.) Korm. rendelet |
 | 2018-10-01 | 2015-489-20-22.5 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2019-09-01 | 2015-489-20-22.6 | 204/2019. (VIII. 23.) Korm. rendelet |
+| 2020-01-02 | 2015-489-20-22.7 | 162/2018. (IX. 10.) Korm. rendelet |
