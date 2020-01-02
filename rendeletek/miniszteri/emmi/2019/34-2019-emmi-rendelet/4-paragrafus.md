@@ -1,3 +1,3 @@
-## 3. § Az R1. 21. §-a helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „21. § A tankötelezettség megkezdésének feltétele, hogy a gyermek értelmi, lelki, szociális és testi fejlettségének állapota elérje az iskolába lépéshez szükséges szintet.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

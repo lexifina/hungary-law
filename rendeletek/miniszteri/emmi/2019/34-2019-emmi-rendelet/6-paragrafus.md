@@ -1,3 +1,3 @@
-## 5. § Az R1. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(1) A Felvételi Központ legkésőbb a felvételi eljárás lezárását követő szeptember 15-éig a személyes adatokat tartalmazó papíralapú adathordozókat megsemmisíti.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
