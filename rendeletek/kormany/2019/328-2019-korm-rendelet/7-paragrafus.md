@@ -1,9 +1,3 @@
-## lép.
+## 6. §[^7]
 
-## 7. § Hatályát veszti a 43/1999. Korm. rendelet
-
-a) 27. § (3c) és (3d) bekezdése,
-
-b) 44/B. § (1) bekezdése,
-
-c) 76/P. § (2) bekezdése.
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
