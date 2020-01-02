@@ -1,3 +1,3 @@
-## 11. § Az Átr. 25. §-a a következő (3a) bekezdéssel egészül ki:
+## 11. §[^12]
 
-## „(3a) Megszűnt fenntartónak részletekben történő teljesítés nem engedélyezhető.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

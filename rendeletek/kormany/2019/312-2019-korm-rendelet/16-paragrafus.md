@@ -1,5 +1,3 @@
-## 15. § Az Nyr. 2. alcíme a következő 7/A. §-sal egészül ki:
+## 15. §[^16]
 
-## „7/A. § (1) A nyújtott óvodai és iskolai szociális segítő tevékenység tartalmával kapcsolatos adatszolgáltatást a következő hónap 15-éig kell teljesíteni.
-
-## (2) A szociális diagnózis tartalmával kapcsolatos adatszolgáltatást a szociális diagnózis adatainak felvételétől számított 15 munkanapon belül kell teljesíteni.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
