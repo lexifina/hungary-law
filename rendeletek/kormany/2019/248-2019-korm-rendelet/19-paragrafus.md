@@ -1,4 +1,4 @@
-## 18. §[^17]
+## 18. §[^21]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 14. § (2) bekezdése, a 15. § b) pontja és a 16. § 2020. január 1. napján lép hatályba.
 
-[^17]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
