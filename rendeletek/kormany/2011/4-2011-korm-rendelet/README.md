@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2018-04-03 | 2011-4-20-22.41 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2018-06-16 | 2011-4-20-22.42 | 106/2018. (VI. 15.) Korm. rendelet |
 | 2018-12-28 | 2011-4-20-22.43 | 310/2018. (XII. 27.) Korm. rendelet |
+| 2020-01-02 | 2011-4-20-22.44 | 356/2013. (X. 8.) Korm. rendelet |
