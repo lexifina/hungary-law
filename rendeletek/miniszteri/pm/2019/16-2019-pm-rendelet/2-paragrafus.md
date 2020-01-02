@@ -1,10 +1,12 @@
 ## 1. §[^1]
 
-## 2. § Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módjáról szóló 38/2013. (IX. 19.) NGM rendelet
+## 2. §[^2]
 
-1.[^2]
+1.[^3]
 
-2. 1. melléklete a 2. melléklet szerint
+2.[^4]
 
 [^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

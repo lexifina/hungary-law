@@ -1,4 +1,4 @@
-## 4. §[^4]
+## 4. §[^6]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 3. § 2020. augusztus 31-én lép hatályba.
 
-[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
