@@ -1,4 +1,4 @@
-134. § Hatályát veszti a Haktv.
+134. §
 
 a)
 
@@ -8,7 +8,7 @@ c)
 
 d)
 
-e) XI. Fejezete,
+e)
 
 f)
 
