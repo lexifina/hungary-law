@@ -81,3 +81,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2019-09-01 | 2011-368-20-22.73 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2019-11-28 | 2011-368-20-22.74 | 282/2019. (XI. 27.) Korm. rendelet |
 | 2020-01-01 | 2011-368-20-22.75 | 340/2019. (XII. 23.) Korm. rendelet |
+| 2020-01-02 | 2011-368-20-22.76 | 345/2019. (XII. 23.) Korm. rendelet |
