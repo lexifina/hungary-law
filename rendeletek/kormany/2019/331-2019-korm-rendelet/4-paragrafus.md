@@ -1,3 +1,5 @@
-## 3. § A Kormányrendelet 11. számú melléklete helyébe az 1. melléklet lép.
+## 1–3. §[^2]
 
 ## 2. Az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosítása
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
