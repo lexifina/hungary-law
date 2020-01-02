@@ -3,3 +3,9 @@
 (2) Az állami adóhatóság a hozzá beérkezett, számszaki hibát, ellentmondást nem tartalmazó adóbevallást – az adóbevallás-benyújtásra kötelezett azonosítását követően, a befogadó nyugta kiadása mellett – az adóalany által a bevallási nyomtatványon megjelölt székhely, telephely(ek) szerinti önkormányzati adóhatóság részére haladéktalanul továbbítja. Az állami adóhatóság bevalláskitöltésre szolgáló számítógépes rendszere a számszaki hibára, ellentmondásra automatikusan felhívja az adóalany figyelmét és tájékoztatja arról, hogy az adóbevallást az önkormányzati adóhatóság részére csak a hiba adózó általi kijavítását követően továbbítja.
 
 (3) A számszaki hibát, ellentmondást nem tartalmazó vagy a (2) bekezdés szerint javított adóbevallást az önkormányzati adóhatóságnál határidőben teljesítettnek kell tekinteni, feltéve, hogy azt az állami adóhatósághoz határidőben benyújtották.
+
+(4) A sportvállalkozás az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
+
+(5) Az állami adóhatóság a sportvállalkozás által a (4) bekezdés szerint benyújtott adóbevallás (2) bekezdés szerinti továbbítását megelőzően az adóbevallásban feltüntetett adatokat nyilvántartásba veszi.
+
+(6) Ha a sportvállalkozás adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
