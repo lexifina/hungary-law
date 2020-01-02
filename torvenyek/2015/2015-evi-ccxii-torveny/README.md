@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-212-00-00
 | 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-212-00-00.8 |
 | 2017-01-02 | 2010. évi CXXX. törvény | 2015-212-00-00.9 |
 | 2020-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-212-00-00.10 |
+| 2020-01-02 | 2010. évi CXXX. törvény | 2015-212-00-00.11 |
