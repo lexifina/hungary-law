@@ -1,3 +1,3 @@
-## 2. § Az R. 1. §-a a következő (1a) bekezdéssel egészül ki:
+## 2. §[^3]
 
-## „(1a) A nemzetközi sportszövetség – az (1) bekezdés szerinti nyilvántartásba vétele iránti kérelmét kivéve – elektronikus kérelmét az eljárás tárgyának megfelelő, egyesületre meghatározott űrlapon terjeszti elő.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
