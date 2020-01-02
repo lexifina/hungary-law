@@ -1,3 +1,1 @@
-185. § A Hjt. 164. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény alapján a kötelező gépjármű-felelősségbiztosítási kötelezettség alól mentes gépjárművek körének és nyilvántartásának szabályairól, az e gépjárművek által okozott károk megtérítését és rendezését végző szervek kijelöléséről, működéséről, valamint a mentesített gépjárművek igazolóeszközzel történő ellátásáról szóló miniszteri rendelet szerint mentesített gépjárművel harmadik személynek, valamint a mentesített gépjárműben okozott kár esetén az állomány tagja kártérítési felelősségének megállapítása során a Hvt. 79/C. § rendelkezéseit is figyelembe kell venni.”
+185. §

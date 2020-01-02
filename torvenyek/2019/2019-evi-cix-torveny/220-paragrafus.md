@@ -1,3 +1,1 @@
-220. § A Külszoltv. 29/D. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A fogadó államban munkaszüneti napnak minősülő ünnepnapok a külképviseletre kihelyezett számára szabadnapoknak minősülnek, amelyet a rendkívüli munkavégzés, készenlét és ügyelet időtartamának külképviseleten történő elszámolásakor figyelembe kell venni. Ha a kihelyezett rendes szabadságát vagy egyéb engedélyezett távollétét nem a fogadó államban tölti, abban az esetben a kihelyezett esetében a szabadság megállapítása tekintetében a magyarországi munkarendet kell figyelembe venni, a fogadó állam munkaszüneti napja ez idő alatt e törvény szerinti szabadságnak minősül.”
+220. §

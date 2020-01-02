@@ -1,3 +1,1 @@
-29. § A Kit. 102. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a kormánytisztviselő a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba, a Magyarország Állandó NATO Képviseletére, Magyarország Állandó EBESZ Képviseletére (a továbbiakban együtt: kihelyező szerv) a kormányzati igazgatási szerv döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető (a továbbiakban: külszolgálati kirendelés).”
+29. §

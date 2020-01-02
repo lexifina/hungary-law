@@ -1,3 +1,3 @@
 ## 53. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-175. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 20. § (1) bekezdés nyitó szövegrészében, 20. § (2) bekezdésében, 21. § (1) bekezdés c) pontjában, valamint 24. § (1) bekezdésében a „közszolgálati vagy” szövegrész helyébe a „kormányzati szolgálati, közszolgálati vagy” szöveg lép.
+175. §
