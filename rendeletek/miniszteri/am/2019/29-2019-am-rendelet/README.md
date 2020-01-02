@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-29-20-7
 | 2019-06-23 | 2019-29-20-7R.1 | 29/2019. (VI. 20.) AM rendelet |
 | 2019-06-24 | 2019-29-20-7R.2 | 2010: CXXX. törvény |
 | 2019-08-11 | 2019-29-20-7R.3 | 38/2019. (VIII. 10.) AM rendelet |
+| 2020-01-02 | 2019-29-20-7R.4 | 66/2019. (XII. 30.) AM rendelet |
