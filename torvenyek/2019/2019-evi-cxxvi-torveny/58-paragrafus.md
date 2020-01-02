@@ -1,3 +1,1 @@
-58. § A Gyvt. 145. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény, hálózat a gyermekjóléti, gyermekvédelmi szolgáltatások szakmai feladatai és működési feltételei körében jogszabállyal meghatározott szakmai létszámfeltételeket – az ott meghatározott kivételekkel – csak az Mt. szerinti foglalkoztatási jogviszonyban álló személyek alkalmazásával teljesítheti, ide nem értve a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket.”
+58. §

@@ -1,3 +1,1 @@
-13. § Az Szt. 43/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés alkalmazása során a fokozott ápolást igénylő súlyosan fogyatékos állapot fennállásának tényét a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértő az ott meghatározott feltételek alapján szakvéleményben állapítja meg. Ha a járási hivatal a szükséges szakértelemmel helyben nem rendelkezik, a szakértőt kirendelés útján biztosítja, kivéve, ha az ápolási díj megállapítására irányuló eljárás megindításának időpontjától számított legalább további egy évig hatályos, gyermekek otthongondozási díja vagy 2019. január 1-jét követően ápolási díj megállapítása iránt indított eljárásban kiállított szakvélemény rendelkezésre áll. Az e bekezdés alapján kirendelt szakértő szakvéleményében meg kell jelölni annak hatályát.”
+13. §
