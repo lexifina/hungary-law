@@ -1,3 +1,3 @@
-## 10. § A 272/2014. (XI. 5.) Korm. rendelet 55. alcíme a következő 150/A. §-sal egészül ki:
+## 10. §[^10]
 
-## „150/A. § A költségek elszámolhatósági szabályait az 5. melléklet határozza meg.”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

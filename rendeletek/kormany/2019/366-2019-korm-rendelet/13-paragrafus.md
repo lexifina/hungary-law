@@ -1,3 +1,3 @@
-## 12. § A 272/2014. (XI. 5.) Korm. rendelet 165. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 12. §[^12]
 
-## „(2) A szabálytalansági eljárás eredményéről a szervezet szabálytalanság-felelőse öt napon belül értesíti a kedvezményezettet és a szabálytalansági gyanú bejelentőjét, kivéve azon szerveket, amelyeknek van hozzáférése a szabálytalansági ügyeket nyilvántartó információs rendszerhez.”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
