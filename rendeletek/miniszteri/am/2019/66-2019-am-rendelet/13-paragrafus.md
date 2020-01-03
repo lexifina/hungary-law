@@ -1,1 +1,0 @@
-## 12. § A tenyészbika tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 41/2019. (VIII. 30.) AM rendelet [a továbbiakban: 41/2019. (VIII. 30.) AM rendelet] 3. § (2) bekezdésében a „2019. évben” szövegrész helyébe a „tárgyévben” szöveg, a „892 millió forint” szövegrész helyébe a „legfeljebb 700 millió forint” szöveg lép.

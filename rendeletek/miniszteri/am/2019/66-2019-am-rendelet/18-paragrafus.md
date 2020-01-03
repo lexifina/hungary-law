@@ -1,3 +1,5 @@
-## 17. § A 42/2019. (IX. 20.) AM rendelet 1. melléklete helyébe az 1. melléklet lép.
+## 14–17. §[^10]
 
 ## 10. Záró rendelkezések
+
+[^10]: A 14–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

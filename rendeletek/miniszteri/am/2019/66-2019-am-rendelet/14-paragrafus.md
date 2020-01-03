@@ -1,3 +1,5 @@
-## 13. § Hatályát veszti a 41/2019. (VIII. 30.) AM rendelet 3. § (1) bekezdése.
+## 12–13. §[^9]
 
 ## 9. A mezőgazdaság, az erdőgazdálkodás és az élelmiszeripar beruházási hiteleihez kapcsolódó kamattámogatásról szóló 42/2019. (IX. 20.) AM rendelet módosítása
+
+[^9]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

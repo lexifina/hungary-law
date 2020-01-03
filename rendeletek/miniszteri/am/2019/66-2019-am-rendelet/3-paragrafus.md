@@ -1,1 +1,0 @@
-## 2. § A méhészeti járművekre igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló 4/2014. (I. 27.) VM rendelet [a továbbiakban: 4/2014. (I. 27.) VM rendelet] 2. § (3) bekezdésében a „2019. évben” szövegrész helyébe a „2020. évben legfeljebb” szöveg lép.
