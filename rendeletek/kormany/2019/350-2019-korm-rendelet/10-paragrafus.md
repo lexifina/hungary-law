@@ -1,3 +1,5 @@
-## 9. § A filmalkotások és a látvány-csapatsportok társasági adón keresztül történő támogatási keretösszegének megállapításáról, valamint a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 318/2018. (XII. 27.) Korm. rendelet 2. §-ában a „Magyar Nemzeti Filmalap” szövegrész helyébe a „Nemzeti Filmintézet” szöveg lép.
+## 9. §[^9]
 
 ## 6. A kiadványok kötelespéldányainak szolgáltatásáról, megőrzéséről és használatáról szóló 195/2019. (VIII. 1.) Korm. rendelet eltérő szöveggel történő hatálybalépése
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
