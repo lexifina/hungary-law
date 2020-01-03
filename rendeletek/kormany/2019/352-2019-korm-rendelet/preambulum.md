@@ -1,1 +1,0 @@
-A Kormány az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
