@@ -120,6 +120,6 @@
 
 ## 6) A borkísérő okmány előállításához használható papír mérete 210x297 milliméter, az adatok elhelyezésére szolgáló rész 148x210 milliméter, amely számítógépes előállítás esetén 210x297 milliméteresre is növelhető, azonos adattartalom mellett. A borkísérő okmány papírjának alapszíne fehér. Cégembléma, cégadatokat tartalmazó fejrész csak a borkísérő okmány keretbe foglalt, adatok elhelyezésére szolgáló részen kívül helyezhető el.
 
-2. melléklet a 27/2011. (IV. 12.) VM rendelethez[^45]
+2. melléklet a 27/2011. (IV. 12.) VM rendelethez[^49]
 
-[^45]: A 2. melléklet a 49/2017. (IX. 29.) FM rendelet 16. § d)–f) pontja szerint módosított szöveg.
+[^49]: A 2. melléklet a 49/2017. (IX. 29.) FM rendelet 16. § d)–f) pontja szerint módosított szöveg.

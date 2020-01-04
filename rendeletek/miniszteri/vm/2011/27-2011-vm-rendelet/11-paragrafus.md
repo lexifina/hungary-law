@@ -1,6 +1,6 @@
 11. § (1) A szőlőbor esetében a szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapon a pinceműveletek során történt készletváltozásokat – a (2) bekezdésben foglalt eltéréssel – műveletenként és jogcímenként időrendi sorrendben kell vezetni.
 
-(2)[^20] A szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapon a pinceműveletek során történt készletváltozásokat jogcímenként összesítve (egy tételben) havonta, a tárgyhó utolsó napjáig lehet bevezetni, ha
+(2)[^21] A szőlőbor-pincekönyv Termék-előállítás nyilvántartó lapon a pinceműveletek során történt készletváltozásokat jogcímenként összesítve (egy tételben) havonta, a tárgyhó utolsó napjáig lehet bevezetni, ha
 
 a) a készletváltozásokat a 6. melléklet szerint vezetett műveleti napló alapján állapítják meg, vagy
 
@@ -28,4 +28,4 @@ f) kiszerelés (palackozás)
 
 (6) A tartályokat a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 50. §-ában foglaltak szerint kell jelölni. Az 500 liternél kisebb, azonos űrméretű tartályok összevontan is – a darabszám és az azokban tárolható összmennyiség feltüntetésével – nyilvántarthatóak.
 
-[^20]: A 11. § (2) bekezdés nyitó szövegrésze a 14/2013. (III. 7.) VM rendelet 15. § b) pontja szerint módosított szöveg.
+[^21]: A 11. § (2) bekezdés nyitó szövegrésze a 14/2013. (III. 7.) VM rendelet 15. § b) pontja szerint módosított szöveg.
