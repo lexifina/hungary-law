@@ -1,0 +1,5 @@
+## 3. § A 27/2011. (IV. 12.) VM rendelet 23. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+## „(4) E rendeletnek a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló 27/2011. (IV. 12.) VM rendelet, valamint a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló 56/2014. (IV. 30.) VM rendelet módosításáról szóló 65/2019. (XII. 20.) AM rendelettel [a továbbiakban: 65/2019. (XII. 20.) AM rendelet] megállapított 8/A. §-át azon elektronikus pincekönyv esetében is alkalmazni kell, amelyet 2017. július 1-jét követően a 65/2019. (XII. 20.) AM rendelet hatálybalépéséig vett használatba a borászati üzem engedélyese. A 8/A. § (1) bekezdése szerinti bejelentést ebben az esetben 2020. február 29-ig kell megtenni az illetékes hegybíró részére.
+
+## (5) E rendeletnek a 65/2019. (XII. 20.) AM rendelettel megállapított 16. § (4) bekezdését a 2018-ban megkezdett pezsgő, minőségi pezsgő, minőségi illatos pezsgő és habzóbor előállítása során elszámolt veszteségekre is alkalmazni kell.”
