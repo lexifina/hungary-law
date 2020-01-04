@@ -12,7 +12,7 @@
 
 | 3.2. rezisztens fajták | Duna gyöngye, Medina |
 
-3. melléklet az 56/2014. (IV. 30.) VM rendelethez[^4]
+3. melléklet az 56/2014. (IV. 30.) VM rendelethez[^5]
 
 Borkészítésre alkalmas szőlőfajták osztályba sorolásához szükséges
 
@@ -156,4 +156,4 @@ p) diglükozid tartalom.
 
 Érzékszervi bírálat: a Nemzetközi Szőlészeti és Borászati Szervezet szerinti 100 pontos rendszer szabályai alapján.
 
-[^4]: A 3. melléklet az 56/2017. (XI. 28.) FM rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet az 56/2017. (XI. 28.) FM rendelet 3. §-a szerint módosított szöveg.
