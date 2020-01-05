@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-65-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-01-04 | 2019-65-20-7R.1 | 65/2019. (XII. 20.) AM rendelet |
+| 2020-01-05 | 2019-65-20-7R.2 | 2010: CXXX. törvény |
