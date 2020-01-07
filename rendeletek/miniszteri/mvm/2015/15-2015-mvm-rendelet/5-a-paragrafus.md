@@ -1,4 +1,4 @@
-5/A. §[^4] (1) A Mőcsényi Mihály-díj adományozására vonatkozó javaslatokat szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
+5/A. §[^5] (1) A Mőcsényi Mihály-díj adományozására vonatkozó javaslatokat szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
 
 (2) A bíráló bizottság tagjai:
 
@@ -14,4 +14,4 @@ c) a miniszternek, a Magyar Művészeti Akadémia Építőművészeti Tagozatán
 
 (5) A bíráló bizottság tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottság melletti titkársági feladatok ellátásáról az építészeti és építésügyi helyettes államtitkár gondoskodik.
 
-[^4]: Az 5/A. §-t a 2/2019. (II. 21.) MvM rendelet 2. §-a iktatta be.
+[^5]: Az 5/A. §-t a 2/2019. (II. 21.) MvM rendelet 2. §-a iktatta be.
