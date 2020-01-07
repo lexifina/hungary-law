@@ -12,7 +12,7 @@ ac) felhasználási szabályainak meghatározására, beleértve a rádiórendsz
 
 ad)[^2] nagyfrekvenciás villamos berendezések általi igénybevételének meghatározására,
 
-b)[^3] a frekvenciát igénylő, használó, magyarországi felhasználás céljából rádióberendezést, nagyfrekvenciás villamos berendezést gyártó, importáló, belföldi forgalomba hozó, forgalmazó természetes személyekre, jogi személyekre és jogi személyiség nélküli szervezetekre,
+b)[^3] a frekvenciát igénylő, használó, magyarországi felhasználás céljából rádióberendezést, nagyfrekvenciás villamos berendezést gyártó, importáló, forgalomba hozó, forgalmazó természetes személyekre, jogi személyekre és jogi személyiség nélküli szervezetekre,
 
 c) a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: NMHH) és az NMHH Hivatalára (a továbbiakban: Hivatal).
 
@@ -20,4 +20,4 @@ c) a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: NMHH) és a
 
 [^1]: Az 1. § (1) bekezdés a) pont aa) alpontja az 1/2019. (I. 22.) NMHH rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pont ad) alpontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés b) pontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés a) pontja, a 6/2019. (XII. 23.) NMHH rendelet 5. § a) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 14. §[^142] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+## 14. §[^155] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-## 15. §[^143] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
+## 15. §[^156] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -48,10 +48,10 @@
 
 23. ECC/DEC/(17)03: ECC-határozat az „Az Euteltracs rendszer Omnitracs végberendezéseinek az egyedi engedélyezés alóli mentesítéséről” című ERC/DEC/(98)15 Határozat visszavonásáról;
 
-24.[^144] ECC/DEC/(18)02: ECC-határozat a 3400–3800 MHz közötti frekvenciasávoknak a szélessávú vezetéknélküli hozzáférési rendszerek (BWA) harmonizált megvalósítása céljára történő hozzáférhetőségéről szóló
+24.[^157] ECC/DEC/(18)02: ECC-határozat a 3400–3800 MHz közötti frekvenciasávoknak a szélessávú vezetéknélküli hozzáférési rendszerek (BWA) harmonizált megvalósítása céljára történő hozzáférhetőségéről szóló
 
 (07)02 ECC-határozat visszavonásáról.
 
-[^142]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
-[^143]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított szöveg.
-[^144]: A 15. § 24. pontját a 2/2019. (III. 22.) NMHH rendelet 10. §-a iktatta be.
+[^155]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
+[^156]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított szöveg.
+[^157]: A 15. § 24. pontját a 2/2019. (III. 22.) NMHH rendelet 10. §-a iktatta be.
