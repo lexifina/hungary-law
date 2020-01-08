@@ -1,3 +1,3 @@
-## 20193H20000006_1
+2. melléklet a 6/2019. (XII. 23.) NMHH rendelethez[^8]
 
-2. melléklet a 6/2019. (XII. 23.) NMHH rendelethez
+[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
