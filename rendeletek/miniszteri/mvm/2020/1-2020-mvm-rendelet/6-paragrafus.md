@@ -1,3 +1,3 @@
-## 5. § Az R. 18. §-a a következő (2a) bekezdéssel egészül ki:
+## 5. §[^6]
 
-## „(2a) A Miniszteri Elismerő Oklevélhez 800 000 Ft pénzjutalom jár.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

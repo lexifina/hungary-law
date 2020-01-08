@@ -1,1 +1,3 @@
-## „(4a) Az emlékérem bronzból készült, kör alakú, 70 mm átmérőjű, 5 mm vastag. Előlapját absztrahált életfa ábrázolás és a „MŐCSÉNYI MIHÁLY-DÍJ” dombornyomású felirat díszíti.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
