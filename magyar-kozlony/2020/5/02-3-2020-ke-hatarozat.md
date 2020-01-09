@@ -1,0 +1,20 @@
+# A köztársasági elnök 3/2020. (I. 9.) KE határozata
+
+Magyar Közlöny 2020. évi 5. szám, 2020. január 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/llnN1fCyYSP27fmaynKT5e0e0d0c9b8b7/dokumentumok/d48425b711e42dc21540a317385374a90e460c74/letoltes)
+
+---
+
+A köztársasági elnök 3/2020. (I. 9.) KE határozata
+rendkívüli és meghatalmazott nagykövet kinevezéséről és megbízásáról
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére –
+Deák Árpád Dávidot kinevezem rendkívüli és meghatalmazott nagykövetté, és megbízom Magyarország
+havannai nagykövetségének a vezetésével, valamint Magyarországnak a Dominikai Köztársaságban, a Dominikai
+Közösségben, Jamaicában és Saint Luciában való képviseletével.
+Budapest, 2019. július 22.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2019. július 30.
+ Szijjártó Péter s. k.,
+ külügyminiszter
+KEH ügyszám: KEH/03463-2/2019.
