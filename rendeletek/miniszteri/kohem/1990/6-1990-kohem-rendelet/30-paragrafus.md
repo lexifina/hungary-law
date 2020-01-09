@@ -1,6 +1,6 @@
 ## A gépjármű, a mezőgazdasági vontató és a lassú jármű fékezésre vonatkozó további műszaki feltételek
 
-30. § (1)[^126] A fékrendszereknek ki kell elégíteniük a 8. és 9. számú mellékletben meghatározott fékezési követelményeket, valamint a gépkocsinak a fékezés szempontjából jóváhagyási jellel ellátottnak kell lennie.
+30. § (1)[^129] A fékrendszereknek ki kell elégíteniük a 8. és 9. számú mellékletben meghatározott fékezési követelményeket, valamint a gépkocsinak a fékezés szempontjából jóváhagyási jellel ellátottnak kell lennie.
 
 (2) A fékezési követelmények sík, száraz, nem csúszós, jó állapotban lévő szilárd burkolatú úton szélcsendes időben egyenesen haladó járművel végrehajtott fékezésre vonatkoznak; az előírt követelmények teljesítése közben a jármű egyik kereke sem csúszhat meg, a jármű a fékezés során a menetiránytól nem térhet el.
 
@@ -20,7 +20,7 @@ Az üzemi, a biztonsági és a rögzítő fékrendszereknek olyan fékezett fel�
 
 (6) A biztonsági fékrendszernek alkalmasnak kell lennie arra, hogy a járművet az üzemi fékrendszer üzemzavara esetén a biztonsági fékezésre előírt hatásossággal megállítsa. Azt kell feltételezni, hogy üzemzavar esetén az üzemi féknek egyidejűleg legfeljebb egyféle hibája lép fel.
 
-(7)[^127] A rögzítő fékrendszernek alkalmasnak kell lennie arra, hogy a járművet – a vezető távollétében is – a rögzítő fékezésre előírt hatásossággal rögzítse. A rögzítő fékrendszernek a járművet kizárólag mechanikus alkatrészekkel kell rögzített állapotban megtartania.
+(7)[^130] A rögzítő fékrendszernek alkalmasnak kell lennie arra, hogy a járművet – a vezető távollétében is – a rögzítő fékezésre előírt hatásossággal rögzítse. A rögzítő fékrendszernek a járművet kizárólag mechanikus alkatrészekkel kell rögzített állapotban megtartania.
 
 (8) Az üzemi és a rögzítő fékrendszereknek — kivéve a lassú jármű fékrendszereit — egymástól függetlenül működtethetőknek kell lenniük, de — ha az a biztonságos és elkülönített működésüket nem veszélyezteti — lehetnek közös alkatrészeik.
 
@@ -70,5 +70,5 @@ d) a sűrített levegővel működő fékrendszerek esetén a sűrített levegő
 
 (21) A sűrített levegővel működő fékrendszerben lévő fékerőszabályozó — ha van ilyen — beállításának ellenőrzésére vizsgálócsatlakozókat kell beépíteni. E rendelkezést csak az 1991. évi július hó 1. napja után engedélyezett járműtípusokra kell alkalmazni.
 
-[^126]: A 30. § (1) bekezdése a 15/1999. (V. 21.) KHVM rendelet 5. §-ával megállapított szöveg. A 30. § (1) bekezdésében meghatározott a gépkocsik fékezés szempontjából történő jóváhagyási jellel való ellátására vonatkozó kötelezettséget a típusbizonyítvány kiadására irányuló eljárásban 2000. január 1. napjától, az egyedi és sorozat forgalomba helyezési eljárásban 2001. január 1. napjától kell alkalmazni.
-[^127]: A 30. § (7) bekezdése a 28/2018. (XI. 15.) ITM rendelet 13. §-ával megállapított szöveg.
+[^129]: A 30. § (1) bekezdése a 15/1999. (V. 21.) KHVM rendelet 5. §-ával megállapított szöveg. A 30. § (1) bekezdésében meghatározott a gépkocsik fékezés szempontjából történő jóváhagyási jellel való ellátására vonatkozó kötelezettséget a típusbizonyítvány kiadására irányuló eljárásban 2000. január 1. napjától, az egyedi és sorozat forgalomba helyezési eljárásban 2001. január 1. napjától kell alkalmazni.
+[^130]: A 30. § (7) bekezdése a 28/2018. (XI. 15.) ITM rendelet 13. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 15. §[^92] A gépjármű, a segédmotoros kerékpár, a mezőgazdasági vontató és a hatósági jelzés viselésére kötelezett lassú jármű hajtómotorja által kibocsátott kipufogógázának, szennyezőanyag-tartalma nem haladhatja meg az 5. számú mellékletben meghatározott határértékeket.
+## 15. §[^95] A gépjármű, a segédmotoros kerékpár, a mezőgazdasági vontató és a hatósági jelzés viselésére kötelezett lassú jármű hajtómotorja által kibocsátott kipufogógázának, szennyezőanyag-tartalma nem haladhatja meg az 5. számú mellékletben meghatározott határértékeket.
 
-[^92]: A 15. § a 21/1995. (XII. 15.) KHVM rendelet 12. §-ával megállapított szöveg.
+[^95]: A 15. § a 21/1995. (XII. 15.) KHVM rendelet 12. §-ával megállapított szöveg.
