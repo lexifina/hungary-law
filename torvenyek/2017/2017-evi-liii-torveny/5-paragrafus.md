@@ -12,8 +12,8 @@ da) az ügyvédek és a kamarai jogtanácsosok esetében az a kamara, amelynek a
 
 db) a közjegyzők esetében az a kamara, amelynek a közjegyző a tagja (a továbbiakban: területi közjegyzői kamara);
 
-e) j) és k) pontjában meghatározott szolgáltatók vonatkozásában a kereskedelmi hatóság;
+e) j), k), p) és q) pontjában meghatározott szolgáltatók vonatkozásában a kereskedelmi hatóság;
 
-f) f) és h) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság (a továbbiakban: pénzügyi információs egység);
+f) f), h), n) o) és r) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság (a továbbiakban: pénzügyi információs egység);
 
 g) m) pontjában meghatározott szolgáltatók vonatkozásában a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvény szerinti hivatal (a továbbiakban: Hivatal).

@@ -1,12 +1,12 @@
-44. § (1) A pénzügyi információs egység operatív elemzése keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
+44. § (1) A pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
 
-(2) A pénzügyi információs egység operatív elemzése keretében adat szolgáltatását kérheti az (1) bekezdésben meghatározott szervtől, amelynek átadását a megkeresett szerv – a (4) bekezdésben meghatározott eset kivételével – nem tagadhatja meg.
+(2) A pénzügyi információs egység elemző-értékelő tevékenysége keretében adat szolgáltatását kérheti az (1) bekezdésben meghatározott szervtől, amelynek átadását a megkeresett szerv – a (4) bekezdésben meghatározott eset kivételével – nem tagadhatja meg.
 
-(3) A (2) bekezdésben meghatározott adatszolgáltatás igénylése mellett a pénzügyi információs egység operatív elemzése keretében a feladatainak ellátásához szükséges mértékben közvetlen hozzáféréssel adatot vehet át a NAV nyomozó hatósága adatbázisából. A közvetlen hozzáférést a NAV nyomozó hatósága biztosítja.
+(3) A (2) bekezdésben meghatározott adatszolgáltatás igénylése mellett a pénzügyi információs egység elemző-értékelő tevékenysége keretében a feladatainak ellátásához szükséges mértékben közvetlen hozzáféréssel adatot vehet át a nyomozó hatóság adatbázisából. A közvetlen hozzáférést a nyomozó hatóság biztosítja.
 
 (4) A (2) bekezdés alapján megkeresett szerv vezetője kivételesen megtagadhatja az adatszolgáltatást, illetve kizárhatja a (3) bekezdés alapján biztosított közvetlen hozzáférést, ha
 
-a) az adatszolgáltatás vagy közvetlen hozzáférés biztosítása;
+a) az adatszolgáltatás vagy közvetlen hozzáférés biztosítása
 
 aa) folyamatban lévő büntetőeljárás vagy titkos információgyűjtés érdekét sérti;
 
@@ -18,7 +18,7 @@ c) külföldi titkosszolgálattól származó adat vonatkozásában az adatot sz
 
 d) az adatátadáshoz a nemzetközi közös nyomozócsoportban vagy bűnfelderítő-csoportban résztvevő tagállam nem járul hozzá.
 
-(5) Az (2) bekezdés alapján megkeresett szerv vezetője az átadott adatnak e törvény 48. § (1) bekezdésében és 49. § (1) bekezdésében meghatározott szerv részére történő továbbítását
+(5) A (2) bekezdés alapján megkeresett szerv vezetője az átadott adatnak a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott szerv részére történő továbbítását
 
 a) megtilthatja;
 

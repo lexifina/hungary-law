@@ -12,12 +12,18 @@ e) lakcímét, ennek hiányában a tartózkodási helyét,
 
 f) a tulajdonosi érdekeltség jellegét és mértékét.
 
+(1a) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél képviselője az (1) bekezdés szerinti nyilatkozatában köteles minden, a 3. § 38. pontjában foglaltaknak megfelelő természetes személyt feltüntetni tényleges tulajdonosként.
+
 (2) A szolgáltató az (1) bekezdésben meghatározott adatokon kívül az ügyféltől az arra vonatkozó nyilatkozat megtételét is köteles kérni, hogy a tényleges tulajdonosa kiemelt közszereplőnek minősül-e. Ha a tényleges tulajdonos kiemelt közszereplő, a nyilatkozatnak tartalmaznia kell, hogy a 4. § (2) bekezdés mely pontja alapján minősül kiemelt közszereplőnek.
 
-(3) A szolgáltató az ügyfelet a tényleges tulajdonosra vonatkozó ismételt nyilatkozattételre szólítja fel, ha kétség merül fel a tényleges tulajdonos kilétével kapcsolatban.
+(3) Ha kétség merül fel a tényleges tulajdonos kilétével kapcsolatban, a szolgáltató megtesz minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem bizonyosodik meg a tényleges tulajdonos személyéről, ideértve az ügyfél tulajdonosi és irányítási rendszerének megértését is.
 
 (4) A szolgáltató köteles a tényleges tulajdonos személyazonosságára vonatkozó adat ellenőrzésére a részére bemutatott okirat, nyilvánosan hozzáférhető nyilvántartás vagy más olyan nyilvántartás alapján, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
 (5) Az ügyfél (1) bekezdésben meghatározott nyilatkoztatása kockázatérzékenységi megközelítés alapján mellőzhető, ha a szolgáltató az (1) és (2) bekezdésben meghatározott adatokat a részére bemutatott okiratok, valamint a nyilvánosan hozzáférhető nyilvántartások vagy olyan nyilvántartások alapján rögzíti, amelyeknek kezelőjétől törvény alapján adatigénylésre jogosult.
 
 (6) Az (5) bekezdésben meghatározott esetben a szolgáltató köteles az arra vonatkozó információt is rögzíteni, hogy az (1) és (2) bekezdésben meghatározott adatok rögzítésére az ügyfél (1) bekezdésben meghatározott nyilatkoztatása mellőzésével került sor.
+
+(7) A szolgáltató köteles nyilvántartást vezetni a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése érdekében az (1)–(6) bekezdés alapján megtett intézkedésekről.
+
+(8) Ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa a 3. § 38. pont f) alpontja alapján a vezető tisztségviselő, a szolgáltató köteles a vezető tisztségviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni. A szolgáltató köteles rögzíteni az elvégzett ügyfél-átvilágítási intézkedéseket, valamint az arra vonatkozó információt is, ha ezen intézkedéseket nem tudta végrehajtani.

@@ -28,6 +28,10 @@ f) az értesítés vizsgálatára a felügyeletet ellátó szerv nem rendelkezik
 
 (6) Az értesítést beküldő személyt – jóhiszeműsége esetén – nem érheti hátrány az értesítés megtétele miatt.
 
+(6a) Jogellenesnek minősül minden, az értesítést beküldő személy számára meghozott hátrányos intézkedés, így különösen a munkáltatónak a munkavállaló szempontjából hátrányos vagy megkülönböztető intézkedése.
+
+(6b) Az értesítést beküldő személy a (6a) bekezdésben meghatározott, számára hátrányos intézkedéssel szemben panaszt, illetve jogorvoslati kérelmet terjeszthet elő.
+
 (7) Az értesítést beküldő személy és a feltételezett jogsértő személyes adatait kizárólag az e törvény szerinti felügyeleti eljárás lefolytatására hatáskörrel rendelkező szerv az e §-ban rögzített kötelezettségek végrehajtása érdekében kezelheti. Az érintett személyes adatai – írásbeli hozzájárulása nélkül – jogosulatlan harmadik fél számára nem adhatóak át és nem hozhatóak nyilvánosságra.
 
 (8) Az értesítéssel, az az alapján lefolytatott vizsgálattal és a megtett intézkedésekkel kapcsolatos adatokat az utolsó vizsgálati cselekmény vagy intézkedés befejezésétől számított öt évig meg kell őrizni.

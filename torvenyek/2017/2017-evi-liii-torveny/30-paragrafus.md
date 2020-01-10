@@ -8,11 +8,11 @@ b) terrorizmus finanszírozására, vagy
 
 c) dolog büntetendő cselekményből való származására
 
-utaló adat, tény, körülmény (a továbbiakban együtt: bejelentés alapjául szolgáló adat, tény, körülmény) felmerülése esetén köteles a 31. § (1) bekezdésében megjelölt személynek haladéktalanul bejelentést (a továbbiakban: bejelentés) tenni.
+utaló adat, tény, körülmény (a továbbiakban együtt: bejelentés alapjául szolgáló adat, tény, körülmény) felmerülése esetén köteles a 31. § (1) bekezdésében megjelölt személynek haladéktalanul írásban bejelentést (a továbbiakban: bejelentés) tenni.
 
 (2) Az (1) bekezdésben meghatározott bejelentésnek tartalmaznia kell
 
-a) a szolgáltató által a 7–14. § alapján rögzített adatokat,
+a) a szolgáltató által a 7–14/A. § alapján rögzített adatokat,
 
 b) a bejelentés alapjául szolgáló adat, tény, körülmény részletes ismertetését és
 

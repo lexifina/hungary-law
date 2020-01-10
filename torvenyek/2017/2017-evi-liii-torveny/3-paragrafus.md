@@ -42,17 +42,23 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 16. hitelintézet: a Hpt.-ben meghatározott hitelintézet, ide nem értve az MNB-t;
 
-17. ingatlanügylettel kapcsolatos tevékenység: ingatlan tulajdonjoga átruházásának, bérleti jogának üzletszerű közvetítése, saját tulajdonú ingatlan üzletszerű adásvétele;
+17. ingatlanügylettel kapcsolatos tevékenység: ingatlan tulajdonjoga átruházásának üzletszerű közvetítése, ingatlan bérleti jogának üzletszerű közvetítése, ha a havi bérleti díj összege ügyletenként az ötszázezer forintot eléri vagy meghaladja, valamint saját tulajdonú ingatlan üzletszerű adásvétele;
 
 18. jogi személyiséggel nem rendelkező szervezet: nem jogi személy és nem természetes személy jogalany;
 
 19. kockázatérzékenységi megközelítés: az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 65. §-ban meghatározott belső szabályzatban a belső kockázatértékelés alapján rögzített, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására irányuló eljárás;
 
+19a. kockázati szint: tartós üzleti kapcsolatok vonatkozásában az a besorolás, amely meghatározza, hogy az ügyfél vonatkozásában milyen terjedelmű ügyfél-átvilágítási intézkedéseket szükséges elvégezni;
+
 20. könyvviteli tevékenység: a Számv. tv. szerinti könyvviteli szolgáltatás;
 
 21. külföldi pénzügyi információs egységként működő hatóság: az Európai Unió más tagállamának vagy harmadik országnak az a hatósága, amely – különösen a Pénzügyi Akciócsoport és az Egmont Csoport követelményeinek a figyelembevételével – a pénzügyi információs egységként működő hatósággal azonos vagy hasonló feladatokat lát el;
 
+21a. külső ellenőrzési funkció: a belső eljárásrendnek a szolgáltatótól független fél által elvégzett vizsgálata annak megállapítására, hogy a belső eljárásrend alapján a szolgáltató képes az e törvényben, valamint az annak felhatalmazásán alapuló jogszabályban foglalt kötelezettségek teljesítésére;
+
 22. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol, azzal, hogy a leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni;
+
+22a. letétkezelő pénztárca-szolgáltató: olyan szervezet, amely ügyfelei nevében virtuális fizetőeszközök tartására, tárolására és átadására szolgáló kriptográfiai magánkulcsok megőrzésével kapcsolatos szolgáltatást nyújt;
 
 23. levelező kapcsolat:
 
@@ -92,15 +98,19 @@ j) a befektetési vállalkozás,
 
 k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
 
-l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében,
+l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében, illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
 
 m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
+
+28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszközök törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 
 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 
 30. pénzváltó iroda: hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató kiemelt közvetítő;
 
 31. stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország: az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országok megállapítása tekintetében történő kiegészítéséről szóló, 2016. július 14-i (EU) 2016/1675 bizottsági felhatalmazáson alapuló rendeletben meghatározott országok;
+
+31a. székhelyszolgáltató: az adózás rendjéről szóló törvényben meghatározott székhelyszolgáltató;
 
 32. személyazonosság igazolására alkalmas hatósági igazolvány: személyazonosító igazolvány, útlevél, valamint kártya formátumú vezetői engedély;
 
@@ -120,7 +130,7 @@ b) megfelelő vezetői hatáskörrel rendelkezik ahhoz, hogy a kockázati kitett
 
 a) azon ügyletek, amelyekre vonatkozóan egy éven belül ugyanazon ügyfél ugyanazon jogcímen, ugyanazon tárgyra ad megbízást,
 
-b) a pénzváltó iroda esetében azon ügyletek, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad,
+b) a pénzváltó iroda esetében azon százezer forintot elérő vagy meghaladó összegű ügyletek, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad,
 
 c) az 1. § (1) bekezdés k) pontjában meghatározott szolgáltató vonatkozásában a részletvétel alapján történő fizetések, fizetési megbízások;
 
@@ -136,19 +146,23 @@ d) alapítványok esetében az a természetes személy,
 
 da) aki az alapítvány vagyona legalább huszonöt százalékának a kedvezményezettje, ha a leendő kedvezményezetteket már meghatározták,
 
-db) akinek érdekében az alapítványt létrehozták, illetve működtetik, ha a kedvezményezetteket még nem határozták meg, vagy
+db) akinek érdekében az alapítványt létrehozták, illetve működtetik, ha a kedvezményezetteket még nem határozták meg,
 
-dc) aki tagja az alapítvány kezelő szervének, vagy meghatározó befolyást gyakorol az alapítvány vagyonának legalább huszonöt százaléka felett, illetve az alapítvány képviseletében eljár,
+dc) aki tagja az alapítvány kezelő szervének, vagy meghatározó befolyást gyakorol az alapítvány vagyonának legalább huszonöt százaléka felett, vagy
 
-e) bizalmi vagyonkezelési szerződés esetében
+dd) a da)–dc) alpontban meghatározott természetes személy hiányában aki az alapítvány képviseletében eljár,
 
-ea) a vagyonrendelő, valamint annak a) vagy b) pont szerinti tényleges tulajdonosa,
+e) bizalmi vagyonkezelési szerződés esetében az alábbi személyek:
 
-eb) a vagyonkezelő, valamint annak a) vagy b) pont szerinti tényleges tulajdonosa,
+ea) a vagyonrendelő(k); nem természetes személy vagyonrendelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa,
 
-ec) a kedvezményezett vagy a kedvezményezettek csoportja, valamint annak a) vagy b) pont szerinti tényleges tulajdonosa, továbbá
+eb) a vagyonkezelő(k); nem természetes személy vagyonkezelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa,
 
-ed) az a természetes személy, aki a kezelt vagyon felett egyéb módon ellenőrzést, irányítást gyakorol, továbbá
+ec) a kedvezményezett vagy a kedvezményezettek csoportja; nem természetes személy kedvezményezett esetén annak a) vagy b) pont szerinti tényleges tulajdonosa,
+
+ed) az a természetes személy, aki a kezelt vagyon felett egyéb módon ellenőrzést, irányítást gyakorol, valamint
+
+ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes személy vagyonkezelést ellenőrző személy esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, továbbá
 
 f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
 
@@ -156,7 +170,7 @@ f) az a) és b) pontban meghatározott természetes személy hiányában a jogi 
 
 40. útmutató: az 5. §-ban meghatározott felügyeletet ellátó szerv által az e törvény szerinti felügyeleti tevékenysége keretében a szolgáltatók számára kiadott, iránymutatást tartalmazó alábbi dokumentumok:
 
-a) az 1. § (1) bekezdés a)–f), h)–k) és m) pontjában meghatározott szolgáltató részére kiadott rendelet,
+a) az 1. § (1) bekezdés a)–f), h)–k) és m–r) pontjában meghatározott szolgáltató részére kiadott rendelet,
 
 b) az 1. § (1) bekezdés g) pontjában meghatározott szolgáltató részére kiadott kötelező jellegű útmutató, valamint
 
@@ -172,22 +186,26 @@ b) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató vonatkozás
 
 42. ügyfél-átvilágítás:
 
-a) a 6. §-ban meghatározott esetben a 7–11. §-ban meghatározott ügyfél-átvilágítási intézkedések elvégzése,
+a) a 6. §-ban meghatározott esetben az ügyfél azonosítása, az ügyfél kockázati besorolása, a személyazonosság igazoló ellenőrzése, az üzleti kapcsolat és az ügyleti megbízás céljának és jellegének megismerése, folyamatos figyelemmel kísérése;
 
 b) a játékkaszinót, kártyatermet működtető és a távszerencsejátékot, online kaszinójátékot szervező szolgáltató által a játékos nyilvántartásba vételekor elvégzett ügyfél-átvilágítási intézkedések;
 
 43. ügylet:
 
-a) az üzleti kapcsolat során a szolgáltató tevékenységi körébe tartozó valamely szolgáltatás igénybevételéhez tartozó művelet, vagy
+a) az üzleti kapcsolat során a szolgáltató szakmai tevékenységi körébe tartozó szolgáltatás igénybevételéhez tartozó művelet, vagy
 
 b) az ügyleti megbízás.
 
-44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött eseti jogviszony;
+44. ügyleti megbízás: olyan ügylet, amely az ügyfél és a szolgáltató között a szolgáltató 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó eseti jogviszony;
 
 45. üzleti kapcsolat:
 
-a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g) és h), valamint j)–m) pontjában megjelölt tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
+a) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h), valamint j)–r) pontjában megjelölt szakmai tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
 
 b) a játékkaszinót vagy kártyatermet működtető szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték és az online kaszinójáték szervezőjénél a játékos nyilvántartásba vétele,
 
 c) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató vonatkozásában az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó jogviszony.
+
+46. vagyon forrásának igazolása: az ügyfél hárommillió forintot meghaladó értékű vagyoni eszközeinek – beleértve a materiális vagy immateriális javakat – forrását bemutató ügyfél-nyilatkozat;
+
+47. virtuális fizetőeszköz: digitális értékmegjelenítés, amelyet nem központi bank vagy közigazgatási szerv bocsát ki, illetve garantál; nem rendelkezik törvényes fizetőeszköz jogi státuszával; elektronikusan tárolható, csereértékként elfogadott, így különösen elektronikusan átadható, illetve elektronikus kereskedésre alkalmas.

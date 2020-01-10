@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az 5. §-ban meghatározott felügyeletet ellátó szerv bejelentő általi tájékoztatására, a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján a szolgáltató megkeresésére, a 43. § (2) bekezdésében, 44. § és a 46. §-ban meghatározott szerv megkeresésére, a 41. § (2) bekezdésében meghatározott tájékoztatásra, valamint a 48. §-ban és a 49. §-ban meghatározott információ továbbítására.
 
-(3) Az (1) bekezdésben meghatározott tilalom nem vonatkozik a hitelintézetek és pénzügyi szolgáltatók között megvalósuló adattovábbításra, továbbá ezen intézmények és harmadik országokban található fióktelepeik és többségi tulajdonú leányvállalataik között megvalósuló adattovábbításra, ha ezek a fióktelepek és többségi tulajdonú leányvállalatok maradéktalanul megfelelnek a 62. §-ban meghatározott csoportszintű politikáknak és eljárásoknak.
+(3) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az információk felfedésére az ugyanazon csoporthoz tartozó tagállami hitelintézetek és pénzügyi intézmények között, illetve ezen intézetek és intézmények és harmadik országokban letelepedett fióktelepeik és többségi tulajdonú leányvállalataik között, feltéve, hogy ezek a fióktelepek és többségi tulajdonú leányvállalatok maradéktalanul megfelelnek a 62. §-ban meghatározott csoportszintű politikáknak és eljárásoknak – beleértve az információ csoporton belüli megosztására vonatkozó eljárásokat is –, a csoportszintű politikák és eljárások pedig megfelelnek az ezen törvényben meghatározott követelményeknek.
 
 (4) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az információk felfedésére a tagállambeli vagy olyan harmadik országbeli, az 1. § (1) bekezdés g) és h), valamint l) pontjában meghatározott szolgáltatók között, ahol e törvényben meghatározottakkal egyenértékű követelmények alkalmazandók, ha az érintett személyek szakmai tevékenységüket ugyanazon jogi személyen vagy egy hálózaton belül folytatják.
 
@@ -17,3 +17,5 @@ b) a két vagy több érintett szolgáltató közül legalább az egyik e törv�
 c) az érintett szolgáltatók az 1. § (1) bekezdés egyes pontjaiban meghatározott ugyanazon tevékenységet végzik, és
 
 d) a szakmai titoktartás és a személyes adatok védelme tekintetében a belföldi követelményekkel egyenértékű követelmények irányadóak a szolgáltatókra.
+
+(6) Az 1. § (1) bekezdés g)–h) és l) pontjában meghatározott szolgáltató esetében az (1) bekezdésben meghatározott tilalom nem vonatkozik az ügyfél tájékoztatására arra vonatkozóan, hogy az ügyfél által végrehajtott vagy végrehajtandó ügylet jogszabályi rendelkezések megsértését eredményezi.

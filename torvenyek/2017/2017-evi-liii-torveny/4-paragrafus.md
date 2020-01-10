@@ -1,4 +1,4 @@
-4. § (1) E törvény alkalmazásában kiemelt közszereplő az a természetes személy, aki fontos közfeladatot lát el, vagy az ügyfél-átvilágítási intézkedések elvégzését megelőző egy éven belül fontos közfeladatot látott el.
+4. § (1) E törvény alkalmazásában kiemelt közszereplő az a természetes személy, aki fontos közfeladatot lát el, vagy az ügyfél-átvilágítási intézkedések elvégzését megelőzően legalább egy éven belül fontos közfeladatot látott el. A szolgáltató a 65. § szerinti belső szabályzatában kockázatérzékenységi megközelítés alapján az egy éves időtartamnál hosszabb időtartamot is meghatározhat.
 
 (2) Az (1) bekezdés alkalmazásában fontos közfeladatot ellátó személy:
 
@@ -16,7 +16,7 @@ f) a nagykövet, az ügyvivő és a fegyveres erők magas rangú tisztviselője,
 
 g) többségi állami tulajdonú vállalatok igazgatási, irányító vagy felügyelő testületének tagja, Magyarországon a többségi állami tulajdonú vállalkozás ügyvezetője, irányítási vagy felügyeleti jogkörrel rendelkező vezető testületének tagja,
 
-h) nemzetközi szervezet vezetője, vezető helyettese, vezető testületének tagja.
+h) nemzetközi szervezet vezetője, vezetőhelyettese, vezető testületének tagja vagy ezzel egyenértékű feladatot ellátó személy.
 
 (3) E törvény alkalmazásában a kiemelt közszereplő közeli hozzátartozója a kiemelt közszereplő házastársa, élettársa; vér szerinti, örökbefogadott, mostoha- és nevelt gyermeke, továbbá ezek házastársa vagy élettársa; vér szerinti, örökbefogadó, mostoha- és nevelőszülője.
 
@@ -26,4 +26,4 @@ a) bármely természetes személy, aki a (2) bekezdésben említett személlyel 
 
 b) bármely természetes személy, aki egyszemélyes tulajdonosa olyan jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek, amelyet a (2) bekezdésben említett személy javára hoztak létre.
 
-(5) E törvény kiemelt közszereplőkre vonatkozó rendelkezéseit a kiemelt közszereplő közeli hozzátartozójára és a kiemelt közszereplővel közeli kapcsolatban álló személyre is alkalmazni kell.
+(5) A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság) és a tagállamokat a (2) bekezdésben meghatározott fontos közfeladatot ellátó személyek kategóriáiról, beleértve a (2) bekezdés h) pontjában meghatározott nemzetközi szervezetekre vonatkozó kategóriákat.

@@ -18,7 +18,7 @@
 
 (9) A Rendelet előírásainak megsértése, illetve a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a pénzügyi információs egység a jogsértés súlyával arányosan a 69. § (1) bekezdés a) és b) pontjában meghatározott intézkedéseket alkalmazza.
 
-(10) A Rendelet előírásainak megsértése és a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet és a pénzügyi információs egység a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek vonatkozásában a 69. § (6) és (7) bekezdésében meghatározottak szerint jár el.
+(10) A Rendelet előírásainak megsértése és a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet és a pénzügyi információs egység a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek vonatkozásában a 69. § (5) és (6) bekezdésében meghatározottak szerint jár el.
 
 (11) A Rendelet előírásainak megsértése és a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a szolgáltató a Felügyelet és a pénzügyi információs egység felé a 72. §-ban meghatározottak alapján tesz bejelentést.
 

@@ -1,8 +1,8 @@
 ## 20. Záró rendelkezések
 
-77. § (1) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit.
+77. § (1) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a vagyon forrására vonatkozó nyilatkozat kötelező tartalmi elemeit.
 
-(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f) és h)–k) pontjában meghatározott szolgáltatók tekintetében
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h–k) és n–r) pontjában meghatározott szolgáltatók tekintetében
 
 a) a belső kockázatértékelés elkészítésének szabályrendszerére,
 
@@ -41,3 +41,9 @@ g) a képzési programra,
 h) az ügylet felfüggesztésére
 
 vonatkozó részletszabályokat.
+
+(4) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) állapítsa meg a tényleges tulajdonosok adatainak tárolása céljából létrehozott központi adatbázis, valamint a központi bankszámla- és széfnyilvántartás működésére vonatkozó részletes szabályokat,
+
+b) jelölje ki az a) pont szerinti adatbázis és nyilvántartás működtetéséért felelős szerveket.

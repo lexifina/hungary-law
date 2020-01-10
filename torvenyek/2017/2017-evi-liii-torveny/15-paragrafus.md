@@ -1,19 +1,31 @@
 ## 5. Egyszerűsített ügyfél-átvilágítás
 
-15. § (1) A szolgáltató a 65. §-ban meghatározott belső szabályzatban rögzített esetekben, a belső szabályzatban és a 11. § (1) bekezdésében meghatározott ügyfél-átvilágítási intézkedést köteles elvégezni, és – az ügyfél vagy az üzleti kapcsolat, ügyleti megbízás azonosításához a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében – a 7. § (2) bekezdésében meghatározott adatokat köteles rögzíteni, valamint a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti.
+15. § (1) A szolgáltató a 65. §-ban meghatározott saját kockázatértékelésén alapuló, belső szabályzatban rögzített alacsony kockázatú esetekben az alábbi ügyfél-átvilágítási intézkedéseket köteles elvégezni:
 
-(2) A szolgáltató az (1) bekezdésben meghatározott intézkedéseket a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján is elvégezheti.
+a) a 7. § (2) bekezdésében meghatározott adatokat rögzíteni;
 
-(3) A szolgáltató a 11. § (1) bekezdésében meghatározott ügyfél-átvilágítási intézkedést köteles elvégezni, és – az ügyfél vagy az üzleti kapcsolat, ügyleti megbízás azonosításához a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében – a 7. § (2) bekezdésében meghatározott adatokat rögzítheti, valamint a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok benyújtását kérheti elektronikus pénz kibocsátása esetén, ha
+b) a 7. § (3) bekezdésében meghatározott okiratok másolatát a személyazonosság igazoló ellenőrzése érdekében beszerezni;
 
-a) az elektronikus pénz tárolására szolgáló készpénz-helyettesítő fizetési eszköz nem újra feltölthető, vagy újra feltölthető, de legfeljebb havi hatvanötezer forint összegű, fizetési műveletre vonatkozó felső korláttal rendelkezik, és amely kizárólag Magyarország területén használható fel;
+c) a 8. és 9. §-ban a tényleges tulajdonos kilétével kapcsolatban meghatározott eljárásokat elvégezni;
 
-b) az elektronikus pénz elektronikusan tárolt mindenkori összege nem haladja meg a hatvanötezer forintot;
+d) a 9/A. és 9/B. §-ban meghatározott kiemelt közszereplői jelleg meghatározásával kapcsolatos eljárásokat elvégezni;
 
-c) az elektronikus pénz kizárólag áru vagy szolgáltatás vásárlására használható;
+e) a 11. és 12. §-ban meghatározott monitoring kötelezettségeket elvégezni.
 
-d) az elektronikus pénzen tárolt összeg olyan elektronikus pénz terhére nem tölthető fel, amely esetében az ügyfél azonosítása nem történt meg; valamint
+(2) A szolgáltató haladéktalanul elvégzi a magasabb kockázati szintnek megfelelő ügyfél-átvilágítást, ha az (1) bekezdés c)–e) pontjában meghatározott intézkedések alapján az ügyfél vonatkozásában eltérő kockázati szintre vonatkozó adat került beszerzésre.
 
-e) az elektronikuspénz-kibocsátó megfelelően ellenőrzi az ügyletet, vagy az üzleti kapcsolatot a szokatlan ügylet, valamint a pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény kiszűrése érdekében.
+(3) A szolgáltató az (1) bekezdésben meghatározott intézkedéseket
 
-(4) A szolgáltató a 7–10. §-ban meghatározott valamennyi ügyfél-átvilágítási intézkedést köteles elvégezni, ha az elektronikuspénz-birtokos által a részére kibocsátott összegből készpénzben kivett vagy készpénzre beváltott összeg meghaladja a huszonötezer forintot.
+a) a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján, vagy
+
+b) az ügyfél személyes megjelenése hiányában az ügyfél által postai úton küldött okiratmásolatok és nyilatkozatok alapján
+
+is elvégezheti.
+
+(4) Az (1) bekezdéstől eltérően a 3. § 25. pontjában meghatározott Posta Elszámoló Központot működtető intézmény a 7. § (2) bekezdésében meghatározott adatokat köteles rögzíteni, valamint a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok bemutatását kérheti az alábbi feltételeket együttesen teljesítő ügyleti megbízások esetén:
+
+a) ügyfele nem stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban rendelkezik lakhellyel vagy székhellyel;
+
+b) az ügyleti megbízás összege a háromszázezer forintot meghaladja, de a hárommillió forintot nem éri el; és
+
+c) az ügyleti megbízás belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás ellenértékének teljesítésére irányul.

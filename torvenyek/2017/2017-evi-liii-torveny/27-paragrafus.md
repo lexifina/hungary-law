@@ -8,7 +8,7 @@
 
 (4) A belső kockázatértékelés elkészítése mellőzhető abban az esetben, ha az 5. §-ban meghatározott felügyeletet ellátó szerv a szolgáltató részére rendelkezésre bocsátott útmutatóban ezt a lehetőséget biztosítja.
 
-(5) Az (1) bekezdésben meghatározott belső kockázatértékelés alapján a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján a 65. §-ban meghatározott belső szabályzatban – a szolgáltató jellegével és méretével arányos – belső eljárásrendet meghatározni a kockázatok csökkentése és kezelése érdekében.
+(5) Az (1) bekezdésben meghatározott belső kockázatértékelés alapján a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján a 65. §-ban meghatározott belső szabályzatban – a szolgáltató jellegével és méretével arányos – belső eljárásrendet meghatározni a kockázatok csökkentése és kezelése érdekében, valamint – ha a szolgáltató jellege és mérete indokolja – külső ellenőrzési funkciót működtetni a belső eljárásrend megfelelőségének ellenőrzése céljából.
 
 (6) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez, továbbá a kockázatok csökkentése és kezelése érdekében a szolgáltató köteles figyelembe venni a nemzeti kockázatértékelés eredményét.
 

@@ -1,0 +1,1 @@
+24/B. § Olyan összetett üzleti kapcsolatok létesítése során, ahol a szerződéses kapcsolatban egyszerre több, ügyfél-átvilágítással érintett ügyfél található, a szolgáltató ügyfelenként elvégzi az ügyfél-átvilágítást, valamint a kockázati besorolásuk tekintetében figyelemmel van a kapcsolat együttes kockázati jellegére.

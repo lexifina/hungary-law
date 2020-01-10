@@ -7,3 +7,5 @@
 (4) A pénzügyi információs egység a nemzetközi információcsere és együttműködés során figyelembe veszi a Pénzügyi Akciócsoport ajánlásait és az Egmont Csoport iránymutatásait.
 
 (5) A pénzügyi információs egység jogosult külföldi pénzügyi információs egységgel együttműködési megállapodást kötni, amennyiben az elősegíti az információcsere és az együttműködés (1) bekezdés szerinti folytatását.
+
+(6) A pénzügyi információs egység köteles a külföldi pénzügyi információs egységektől érkező információkérések fogadásáért felelős kapcsolattartó személyt kijelölni.

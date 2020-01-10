@@ -1,6 +1,6 @@
 ## 4. Ügyfél-átvilágítási intézkedések
 
-7. § (1) A szolgáltató köteles a 6. § (1) bekezdésében és a 21. § (1) bekezdésében meghatározott esetben az ügyfelet, annak meghatalmazottját, a rendelkezésre jogosultat, továbbá a képviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
+7. § (1) A szolgáltató köteles a 6. § (1) bekezdés a) és e)–h) pontjában meghatározott esetben az ügyfelet, annak meghatalmazottját, a szolgáltatónál eljáró rendelkezésre jogosultat, továbbá a szolgáltatónál eljáró képviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
 
 (2) A szolgáltató az azonosítás során az alábbi adatokat köteles rögzíteni:
 
@@ -30,37 +30,41 @@ bc) főtevékenységét,
 
 bd) képviseletére jogosultak nevét és beosztását,
 
-be) kézbesítési megbízottjának az azonosítására alkalmas adatait,
+be) – ha ilyennel rendelkezik – kézbesítési megbízottjának az a) pont aa) és af) alpontjai szerinti adatait,
 
 bf) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyzékszámát, egyéb jogi személy esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat számát vagy nyilvántartási számát,
 
 bg) adószámát.
 
-(3) A szolgáltató a személyazonosság igazoló ellenőrzése érdekében az alábbi okiratok bemutatását köteles megkövetelni:
+(3) A szolgáltató a személyazonosság igazoló ellenőrzése érdekében az alábbi okiratok bemutatását köteles megkövetelni, vagy jogosult közhiteles nyilvántartásból adatlekérdezést végezni:
 
-a) természetes személy esetén
+a) természetes személy
 
-aa) magyar állampolgár esetében a személyazonosság igazolására alkalmas hatósági igazolványát és lakcímet igazoló hatósági igazolványát,
+aa) magyar állampolgár esetében a személyazonosság igazolására alkalmas hatósági igazolványát és lakcímet igazoló hatósági igazolványát, ez utóbbit abban az esetben, ha lakóhelye vagy tartózkodási helye Magyarországon található,
 
-ab) külföldi állampolgár esetén úti okmányát vagy személyazonosító igazolványát, feltéve hogy az magyarországi tartózkodásra jogosít, tartózkodási jogot igazoló okmányát vagy tartózkodásra jogosító okmányát,
+ab) külföldi állampolgár esetében úti okmányát vagy személyazonosító igazolványát, feltéve, hogy az magyarországi tartózkodásra jogosít, tartózkodási jogot igazoló okmányát vagy tartózkodásra jogosító okmányát, magyarországi lakcímet igazoló hatósági igazolványát, amennyiben lakóhelye vagy tartózkodási helye Magyarországon található;
 
 b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetén a nevében vagy megbízása alapján eljárni jogosult személy a) pontban megjelölt okiratának bemutatásán túl az azt igazoló – harminc napnál nem régebbi – okiratot, hogy
 
-ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében azt, hogy a nyilvántartásba vételről szóló igazolás kiállítása megtörtént,
+ba) a céget a cégbíróság nyilvántartásba vette, vagy a cég a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében az egyéni vállalkozói tevékenység megkezdésének bejelentése megtörtént vagy az egyéni vállalkozó nyilvántartásba vételre került,
 
-bb) belföldi jogi személy esetén, ha annak létrejöttéhez hatósági vagy bírósági nyilvántartásba vétel szükséges, a nyilvántartásba vétel megtörtént,
+bb) a b) pont ba) alpontba nem tartozó belföldi jogi személy esetén, ha annak létrejöttéhez hatósági vagy bírósági nyilvántartásba vétel szükséges, a nyilvántartásba vétel megtörtént,
 
 bc) külföldi jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a saját országának joga szerinti bejegyzése vagy nyilvántartásba vétele megtörtént;
 
-c) cégbejegyzési, hatósági vagy bírósági nyilvántartásba vétel iránti kérelem cégbírósághoz, hatósághoz vagy bírósághoz történő benyújtását megelőzően a jogi személy vagy jogi személyiséggel nem rendelkező szervezet létesítő okiratát.
+c) bírósági vagy hatósági nyilvántartásba vétel iránti kérelem bírósághoz vagy hatósághoz történő benyújtását megelőzően a jogi személy vagy jogi személyiséggel nem rendelkező szervezet létesítő okiratát.
+
+(3a) A (2) bekezdés a) pont ab)–ac) és ae) alpontjában meghatározott adat ellenőrzése mellőzhető, ha a személyazonosság igazoló ellenőrzése érdekében bemutatott okirat azt nem tartalmazza.
+
+(3b) A (3a) bekezdésben meghatározott esetben a szolgáltató köteles az arra vonatkozó információt rögzíteni, hogy a (2) bekezdés a) pont ab)–ac) és ae) alpontjában meghatározott adatok rögzítésére az ellenőrzés mellőzésével került sor.
 
 (4) A (3) bekezdés c) pontjában meghatározott esetben a jogi személy vagy jogi személyiséggel nem rendelkező szervezet köteles a cégbejegyzés, hatósági vagy bírósági nyilvántartásba vétel megtörténtét követő harminc napon belül okirattal igazolni, hogy a cégbejegyzés vagy nyilvántartásba vétel megtörtént, valamint a szolgáltató köteles a cégjegyzékszámot vagy egyéb nyilvántartási számot rögzíteni.
 
-(5) A személyazonosság igazoló ellenőrzése érdekében a szolgáltató köteles ellenőrizni a (3) bekezdés alapján bemutatott azonosságot igazoló okirat érvényességét.
+(5) A személyazonosság igazoló ellenőrzése érdekében a szolgáltató köteles ellenőrizni a (3) bekezdés alapján bemutatott azonosságot igazoló okirat érvényességét, valamint ennek keretében köteles meggyőződni az okirat hitelességéről.
 
 (6) A személyazonosság igazoló ellenőrzése során a szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, a rendelkezésre jogosult rendelkezési jogosultságát, továbbá a képviselő képviseleti jogosultságát.
 
-(7) Ha az ügyfél és az üzleti kapcsolat, ügyleti megbízás azonosításához kockázatérzékenységi megközelítés alapján ez szükséges, az azonosítás és a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (2)–(6) bekezdésben meghatározott intézkedéseken túlmenően a személyazonosságra vonatkozó adat nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
+(7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (2)–(6) bekezdésben meghatározott intézkedések helyett vagy ezeken túlmenően a személyazonosságra vonatkozó adat olyan közhiteles nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
 (8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít.
 
