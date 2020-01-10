@@ -24,11 +24,15 @@ i) az egyes festékek, lakkok és járművek javító fényezésére szolgáló 
 
 (3)[^23] Budapest Főváros Kormányhivatala országos illetékességgel eljár a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmtv.) 5. § e) pontja szerinti felügyeletet ellátó szerv feladatkörében a Pmtv.
 
-a) 1. § (1) bekezdés j) pontjában meghatározott tevékenység, valamint
+a) 1. § (1) bekezdés j) pontjában meghatározott tevékenység,
 
-b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység
+b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység, valamint
+
+c) 1. § (1) bekezdés p)–q) pontjában meghatározott tevékenység
 
 ## tekintetében.
+
+(3a)[^24] Budapest Főváros Kormányhivatala (3) bekezdés c) pontjában foglalt feladatkörének ellátásához a kulturális javak forgalmával kapcsolatos, a kulturális javak hatóságát érintő szakkérdésekben a kulturális javak hatósága szakmai támogatást nyújt.
 
 (4) A Kormány a (2) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
@@ -43,4 +47,5 @@ b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeret�
 [^20]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
 [^21]: A 3. § (2) bekezdés a) pontja a 198/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
-[^23]: A 3. § (3) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^23]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító törvény 203. §-át.
+[^24]: A 3. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 157. § (3) bekezdése iktatta be, alkalmazására lásd e módosító törvény 203. §-át.

@@ -1,8 +1,8 @@
-## 21/C. §[^57] Aki gázüzemű munkagép gáz-üzemanyag ellátó berendezésének beszerelésére, megbontásával járó javítására, karbantartására, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakítására irányuló tevékenységet kíván folytatni, köteles az erre irányuló szándékot, valamint a szerelést végző műhely gázbiztonságot érintő átalakítása esetén a tevékenységi kör megváltoztatását a 13. § (1) bekezdése szerinti műszaki biztonsági hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentést a műhely üzemeltetőjének kell megtennie.
+## 21/C. §[^58] Aki gázüzemű munkagép gáz-üzemanyag ellátó berendezésének beszerelésére, megbontásával járó javítására, karbantartására, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakítására irányuló tevékenységet kíván folytatni, köteles az erre irányuló szándékot, valamint a szerelést végző műhely gázbiztonságot érintő átalakítása esetén a tevékenységi kör megváltoztatását a 13. § (1) bekezdése szerinti műszaki biztonsági hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentést a műhely üzemeltetőjének kell megtennie.
 
 ## 11. Építésügyi hatóság kijelölése
 
-22. § (1)[^58] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, másodfokon országos illetékességgel a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
+22. § (1)[^59] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, másodfokon országos illetékességgel a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
 
 (2) A (1) bekezdés szerinti hatóság építésügyi hatóságként jár el az alábbi sajátos építményfajták tekintetében:
 
@@ -32,5 +32,5 @@ l) a jogszabályban meghatározott villamosmű, a termelői vezeték, a magánve
 
 (3) Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték vagy a közvetlen vezeték a fővárosi és megyei kormányhivatal több műszaki biztonsági feladatkörben eljáró járási (fővárosi kerületi) hivatala illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
 
-[^57]: A 21/C. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
-[^58]: A 22. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (16) bekezdésével megállapított szöveg.
+[^58]: A 21/C. §-t a 198/2019. (VIII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^59]: A 22. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (16) bekezdésével megállapított szöveg.
