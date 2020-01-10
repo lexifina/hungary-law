@@ -350,6 +350,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 111. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
 
+111a. tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) ekként meghatározott fogalom;
+
 112. tőkeáttétel: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 113. tőkefenntartási pufferkövetelmény: a hitelintézet veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény;

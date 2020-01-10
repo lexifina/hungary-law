@@ -2,7 +2,7 @@
 
 75. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
 
-(2) Pénzváltási tevékenységet végzőnél vezető állású személyként nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet az,
+(2) Pénzváltási tevékenységet közvetítő vezető állású személyének nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet az,
 
 a) akit
 
@@ -15,5 +15,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 b) aki e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll, és
 
 c) akivel szemben az a) pontban meghatározott bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.
+
+(2a) Pénzváltási tevékenységet közvetítő tényleges tulajdonosa nem lehet olyan személy, akivel szemben teljesül a (2) bekezdés a) vagy c) pontjában foglalt feltétel. Ha a pénzváltási tevékenységet végző tényleges tulajdona megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy megszűnéséig a tag szavazati jogának gyakorlását felfüggeszti.
 
 (3) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (2) bekezdésben meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
