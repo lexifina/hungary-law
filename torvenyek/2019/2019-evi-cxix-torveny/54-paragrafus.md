@@ -1,0 +1,13 @@
+## 2. Egyéb kapcsolódó törvények módosítása
+
+54. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 2. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Nem adható ki az engedély, ha)
+
+„b) a kérelmező, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó szerencsejáték szervezése esetén a kérelmezőnek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti tényleges tulajdonosa (a továbbiakban: tényleges tulajdonos), illetve vezető tisztségviselője vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű, a kérelem benyújtását megelőző 3 éven belül jogerős bírósági ítéletben megállapított
+
+ba) a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), közbizalom elleni (1978. évi IV. törvény XVI. Fejezet III. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet), vagyon elleni (1978. évi IV. törvény XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni vagy pénzügyi szabálysértést, tiltott szerencsejáték szabálysértését,
+
+bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezet], közbizalom elleni (Btk. XXXIII. Fejezet), vagyon elleni erőszakos (Btk. XXXV. Fejezet), vagyon elleni (Btk. XXXVI. Fejezet), szellemi tulajdonjog elleni (Btk. XXXVII. Fejezet), a pénz- és bélyegforgalom biztonsága elleni (Btk. XXXVIII. Fejezet), a költségvetést károsító (Btk. XXXIX. Fejezet), a pénzmosás (Btk. XL. Fejezet), a gazdálkodás rendjét sértő (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő (Btk. XLII. Fejezet), a tiltott adatszerzés és az információs rendszer elleni (Btk. XLIII. Fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét, illetve a kérelem benyújtását megelőző 2 éven belül tulajdon elleni, pénzügyi vagy kereskedelmi szabálysértést (a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény XXV. Fejezet), tiltott szerencsejáték szabálysértését”
+
+(követte el, illetve jogerős bírósági ítéletben megállapított, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerinti tevékenység korlátozása alatt áll)
