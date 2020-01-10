@@ -1,6 +1,6 @@
 7/C. § (1) A szerencsejáték-szervező tevékenységre vonatkozó engedélyezési eljárás során a szerencsejáték-felügyeleti hatóság megvizsgálja, hogy a kérelmező a szerencsejáték-szervező tevékenységhez szükséges, az e törvényben és a Vhr.-ben előírt személyi, tárgyi és gazdasági feltételeknek megfelel-e. Az engedély iránti kérelem elbírálásakor a szerencsejáték-felügyeleti hatóság ellenőrzi, hogy a szervező rendelkezik-e a szerencsejáték-felügyeleti hatóság által megállapított személyi megfelelőséggel és alkalmas-e a kérelmezett szerencsejáték-szervező tevékenység folytatására.
 
-(2) A személyi feltételek vizsgálata kiterjed a kérelmezőre, vezető tisztségviselőjére és tagjára vonatkozóan az e törvényben előírt feltételekre, illetve mindezen személyeknek a kérelem benyújtását megelőzően folytatott szerencsejáték-szervező tevékenységére.
+(2) A személyi feltételek vizsgálata kiterjed a kérelmezőre, tényleges tulajdonosára, vezető tisztségviselőjére és tagjára vonatkozóan az e törvényben előírt feltételekre, illetve mindezen személyeknek a kérelem benyújtását megelőzően folytatott szerencsejáték-szervező tevékenységére.
 
 (3) A tárgyi feltételek vizsgálata kiterjed:
 
