@@ -15,11 +15,3 @@ b) a vegyi fegyverek elterjedése és használata elleni korlátozó intézkedé
 c) az Uniót vagy annak tagállamait fenyegető kibertámadások elleni korlátozó intézkedésekről szóló 2019. május 17-i 2019/796/EU tanácsi rendelet 1–7., 9. és 11. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

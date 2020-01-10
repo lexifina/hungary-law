@@ -2,9 +2,7 @@
 
 „(1a) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél képviselője az (1) bekezdés szerinti nyilatkozatában köteles minden, a 3. § 38. pontjában foglaltaknak megfelelő természetes személyt feltüntetni tényleges tulajdonosként.”
 
-(2) A Pmt. 9. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A 6. § (1) bekezdés a) pontjában meghatározott esetben az ügyfél köteles a tényleges tulajdonosra vonatkozó adatoknak a 25. § (1) bekezdés szerinti központi nyilvántartás számára történő továbbítását okirattal igazolni.”
+(2)
 
 (3) A Pmt. 9. § (3) bekezdése helyébe a következő rendelkezés lép:
 
