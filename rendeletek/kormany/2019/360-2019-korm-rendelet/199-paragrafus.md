@@ -1,52 +1,52 @@
-## 198. §[^521]
+## 198. §[^519]
 
 ## 199. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet módosítása
 
-199. § (1)[^522]
+199. § (1)[^520]
 
-(2)[^523]
+(2)[^521]
 
-(3)[^524]
+(3)[^522]
 
-(4)[^525]
+(4)[^523]
 
-(5)[^526]
+(5)[^524]
 
-(6)[^527]
+(6)[^525]
 
-(7)[^528]
+(7)[^526]
 
-(8)[^529]
+(8)[^527]
 
 (9) Hatályát veszti az R117.
 
-a)[^530]
+a)[^528]
 
-b)[^531]
+b)[^529]
 
-c)[^532]
+c)[^530]
 
-d)[^533]
+d)[^531]
 
-e)[^534]
+e)[^532]
 
-f)[^535]
+f)[^533]
 
-g)[^536]
+g)[^534]
 
-[^521]: A 198. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^522]: A 199. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^523]: A 199. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^524]: A 199. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^525]: A 199. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^526]: A 199. § (5) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^527]: A 199. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^528]: A 199. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^529]: A 199. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^530]: A 199. § (9) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^531]: A 199. § (9) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^532]: A 199. § (9) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^533]: A 199. § (9) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^534]: A 199. § (9) bekezdés e) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
-[^535]: A 199. § (9) bekezdés f) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
-[^536]: A 199. § (9) bekezdés g) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^519]: A 198. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^520]: A 199. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^521]: A 199. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^522]: A 199. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^523]: A 199. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^524]: A 199. § (5) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^525]: A 199. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^526]: A 199. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^527]: A 199. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^528]: A 199. § (9) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^529]: A 199. § (9) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^530]: A 199. § (9) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^531]: A 199. § (9) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^532]: A 199. § (9) bekezdés e) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^533]: A 199. § (9) bekezdés f) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^534]: A 199. § (9) bekezdés g) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
