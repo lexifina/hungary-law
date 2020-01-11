@@ -1,7 +1,1 @@
-27. § A Pmt. 33. §-a helyébe a következő rendelkezés lép:
-
-„33. § (1) A szolgáltató vezetője, foglalkoztatottja és segítő családtagja – beleértve a kijelölt személyt – (a továbbiakban együtt: a bejelentő), a központi kapcsolattartó pont, valamint a szolgáltató tekintetében – jóhiszeműség esetén – a bejelentés megtétele nem eredményezi jogszabály vagy szerződés által adatközlés vonatkozásában előírt korlátozás megszegését, illetve nem keletkeztet polgári jogi vagy büntetőjogi felelősséget akkor sem, ha a bejelentés megtétele utóbb megalapozatlannak bizonyul.
-
-(2) Jogellenes a belső szabályzat alapján vagy a pénzügyi információs egységnek pénzmosás vagy terrorizmus finanszírozása gyanúja miatt tett bejelentés következtében meghozott, a bejelentő – ideértve a szolgáltató alkalmazottait és képviselőit – számára hátrányos intézkedés, így különösen a munkáltatónak a munkavállaló szempontjából hátrányos vagy megkülönböztető intézkedése.
-
-(3) A bejelentő – ideértve a szolgáltató alkalmazottait és képviselőit – a (2) bekezdésben meghatározott, számára hátrányos intézkedéssel szemben panaszt, illetve jogorvoslati kérelmet terjeszthet elő.”
+### 27. §

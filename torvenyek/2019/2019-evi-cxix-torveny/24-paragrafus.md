@@ -1,3 +1,1 @@
-24. § A Pmt. 27. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az (1) bekezdésben meghatározott belső kockázatértékelés alapján a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján a 65. §-ban meghatározott belső szabályzatban – a szolgáltató jellegével és méretével arányos – belső eljárásrendet meghatározni a kockázatok csökkentése és kezelése érdekében, valamint – ha a szolgáltató jellege és mérete indokolja – külső ellenőrzési funkciót működtetni a belső eljárásrend megfelelőségének ellenőrzése céljából.”
+### 24. §

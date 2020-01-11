@@ -1,11 +1,1 @@
-12. § A Pmt. 12. §-a helyébe a következő rendelkezés lép:
-
-„12. § (1) A szolgáltató köteles biztosítani, hogy az ügyfélre vonatkozóan a 7–10. § alapján rendelkezésre álló adatok és okiratok, valamint az ügyfél kockázati szintjének meghatározása naprakészek legyenek, így különösen az ügyfélre vonatkozóan rendelkezésre álló adatok és okiratok megváltozásáról történő tudomásszerzés esetén, a tényleges tulajdonosra vonatkozó adatok jogszabály alapján történő ellenőrzése céljából vagy az adózás területén történő együttműködés teljesítése érdekében a szolgáltató köteles ellenőrizni az ügyfeleiről rendelkezésre álló adatokat.
-
-(2) Az (1) bekezdésben foglalt ellenőrzési kötelezettséget a szolgáltató kockázatérzékenységi megközelítés alapján, magas kockázat esetén évente, alacsony kockázat esetén legalább ötévente köteles elvégezni. Ha az ellenőrzés során a szolgáltatónak kétsége merül fel az adatok és a nyilatkozatok naprakészségét illetően, akkor ismételten elvégzi a kétség kizárásához szükséges ügyfél-átvilágítási intézkedéseket.
-
-(3) Üzleti kapcsolat fennállása alatt az ügyfél, annak meghatalmazottja, a szolgáltatónál eljáró rendelkezésre jogosult, továbbá a szolgáltatónál eljáró képviselő köteles a tudomásszerzéstől számított öt munkanapon belül értesíteni a szolgáltatót az ügyfél-átvilágítás során megadott adatokban, illetve a tényleges tulajdonos személyét érintően bekövetkezett változásról.
-
-(4) A (3) bekezdésben előírt kötelezettség teljesítése érdekében a szolgáltató köteles ügyfele, valamint annak meghatalmazottja, a rendelkezésre jogosult és a képviselő figyelmét írásban felhívni az adatokban bekövetkezett változások közlésének kötelezettségére.
-
-(5) Amennyiben a szolgáltató az ügyfél által kapcsolattartásra megadott módokon nem tud az ügyféllel kapcsolatba lépni annak ellenére, hogy az ügyfél ügyletek végrehajtását kezdeményezi, a szolgáltatónak kockázatérzékenységi megközelítés alapján meg kell kísérelnie három hónapon belül legalább két alkalommal, igazolt módon postai úton írásban felszólítani az ügyfelet – a lehetséges jogkövetkezményekre való egyidejű figyelmeztetés mellett – a szolgáltatóval való kapcsolat felvételére. A második értesítés sikertelenségét követően a szolgáltató az ügyfél vagy annak meghatalmazottja általi kapcsolatfelvételig megtagadja az ügyfél által kezdeményezett, négymillió-ötszázezer forintot elérő összegű ügylet teljesítését.”
+### 12. §
