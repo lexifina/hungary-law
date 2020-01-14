@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1) A Kormány központi beszerző szervként az MNV Üzletviteli és Tanácsadó Zártkörűen Működő Részvénytársaságot (a továbbiakban: VBÜ) jelöli ki.
+1. § (1)[^1] A Kormány központi beszerző szervként a Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaságot (a továbbiakban: VBÜ) jelöli ki.
 
 (2) A védelmi és biztonsági feladatokkal összefüggő beszerzések engedélyezése és végrehajtása során e rendelet előírásai szerint jár el:
 
@@ -81,3 +81,5 @@ b) a dolog beszerzésére irányuló visszterhes szerződés műszaki-technikai 
 (10) Ha a (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a (8) bekezdés szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog egyben a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) hatálya alá is tartozik, az ilyen beszerzést az érintett szervezet a VBÜ Portálján kezdeményezi. A VBÜ az e rendelet szerinti eljárási cselekmény megtétele, valamint a döntés meghozatala előtt a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársasággal egyeztet.
 
 (11) A (10) bekezdéstől eltérően a VBÜ, egyeztetés céljából, az érintett szervezet beszerzési tervének vagy beszerzési igényének minősített adatot tartalmazó részét – összhangban a DKÜ rendelet 7/A., 8/A., 9/A., 10/A. és 11/A. §-ában foglaltakkal – közvetlenül az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter részére küldi meg.
+
+[^1]: Az 1. § a 24. § szerint módosított szöveg.
