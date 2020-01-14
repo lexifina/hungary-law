@@ -54,13 +54,15 @@
 
 19.[^4] Máté Péter-díj,
 
-20.[^5] Herczeg Ferenc-díj.
+20.[^5] Herczeg Ferenc-díj,
+
+21.[^6] Sára Sándor-díj.
 
 (3) A miniszter által adományozandó művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díj a kulturális ágazatban a következő:
 
 1. Bánffy Miklós-díj.
 
-(4)[^6] A miniszter által adományozandó közművelődési díjak a kulturális ágazatban a következők:
+(4)[^7] A miniszter által adományozandó közművelődési díjak a kulturális ágazatban a következők:
 
 1. Csokonai Vitéz Mihály-díj,
 
@@ -80,7 +82,7 @@
 
 2. Pro Cultura Hungarica díj,
 
-3.[^7] Művészeti életpálya elismerés,
+3.[^8] Művészeti életpálya elismerés,
 
 (7) A miniszter által adományozandó köznevelési és felsőoktatási díjak az oktatási ágazatban a következők:
 
@@ -88,7 +90,7 @@
 
 2. Apáczai Csere János-díj,
 
-3.[^8]
+3.[^9]
 
 4. Trefort Ágoston-díj,
 
@@ -96,11 +98,11 @@
 
 6. Pedagógus Szolgálati Emlékérem.
 
-(8)[^9] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
+(8)[^10] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
 
 1. Brunszvik Teréz-díj,
 
-2.[^10] Németh László-díj.
+2.[^11] Németh László-díj.
 
 (9) A miniszter által adományozandó felsőoktatási díj az oktatási ágazatban:
 
@@ -118,7 +120,7 @@
 
 5. Kemény Ferenc-díj.
 
-(11)[^11] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
+(11)[^12] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
 
 1. Pro Caritate díj,
 
@@ -138,9 +140,9 @@
 
 9. Szent Anna a Nevelőszülőkért díj,
 
-10.[^12]
+10.[^13]
 
-(12)[^13]
+(12)[^14]
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
@@ -149,11 +151,12 @@
 [^3]: A 2. § (1) bekezdés 7. pontját az 1/2019. (I. 9.) EMMI rendelet 2. § (1) bekezdése iktatta be.
 [^4]: A 2. § (2) bekezdés 19. pontját a 9/2018. (II. 15.) EMMI rendelet 1. §-a iktatta be.
 [^5]: A 2. § (2) bekezdés 20. pontját a 19/2019. (VIII. 14.) EMMI rendelet 1. §-a iktatta be.
-[^6]: A 2. § (4) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (6) bekezdés 3. pontját a 30/2017. (XI. 21.) EMMI rendelet 2. §-a iktatta be.
-[^8]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^9]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^11]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^12]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^13]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (2) bekezdés 21. pontját az 1/2020. (I. 6.) EMMI rendelet 1. §-a iktatta be.
+[^7]: A 2. § (4) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (6) bekezdés 3. pontját a 30/2017. (XI. 21.) EMMI rendelet 2. §-a iktatta be.
+[^9]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^10]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^14]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
