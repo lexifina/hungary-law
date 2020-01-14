@@ -1,0 +1,9 @@
+2. § (1) Az emlékérme az „I. Ulászló aranyforintja” arany emlékérme kibocsátásáról szóló 1/2020. (I. 13.) MNB rendelettel kibocsátott emlékérme négyszeres súlyú, ún. piedfort változata, szélfelirattal ellátva.
+
+(2) Az emlékérme 986 ezrelék finomságú aranyból készült, súlya 13,964 gramm, átmérője 20 mm.
+
+(3) Az emlékérme előlapjának szélén, köriratban, fent a „MAGYARORSZÁG” felirat, bal oldalon, lent az „50 000” értékjelzés és a „FORINT” felirat olvasható. A két köriratot bal oldalon, egymás alatti két sorban a „2020” verési évszám és a „BP.” verdejel választja el egymástól. A középmezőben, kissé balra, gyöngysorszegéllyel határolva az I. Ulászló király által kibocsátott aranyforint előlapján megjelenő négyrészű címerpajzs alapján készült ábrázolás, jobb oldalon, a címerpajzs elé helyezve, korabeli technikával pénzverést végző mester ábrázolása látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(4) Az emlékérme hátlapján, körvonallal határolt középmezőben az I. Ulászló király által kibocsátott aranyforint hátlapjának ábrázolása látható, melyből Szent László alakja kissé megnagyobbítva kiemelkedik. Az emlékérme szélén, külső körgyűrűbe szerkesztve, köriratban, fent az „I. ULÁSZLÓ ARANYFORINTJA”, lent, balra az „1440”, jobbra az „1444” felirat olvasható. A felső és az alsó köriratot bal oldalon egy kör alakú díszítőmotívum, jobb oldalon Tóth Zoltán tervezőművész mesterjegye választja el egymástól. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
+
+(5) Az emlékérme szélén a „WLADISLAVS DEI GRATIA REX VNGARIE ⋅” szélfelirat olvasható.
