@@ -54,7 +54,7 @@
 
 ## 2.1. TNM klinikai klasszifikáció, primer tumor
 
-## 4K01723_0
+## 9K10992Z_0
 
 | T | Primer tumor |
 
@@ -82,7 +82,7 @@
 
 ## 2.2. TNM klinikai klasszifikáció, regionális nyirokcsomó
 
-## 4K01723_1
+## 9K10992Z_1
 
 | N | Regionális nyirokcsomók |
 
@@ -96,7 +96,7 @@
 
 ## 2.3. TNM klinikai klasszifikáció, Távoli áttétek
 
-## 4K01723_2
+## 9K10992Z_2
 
 | M | Távoli áttétek |
 
@@ -108,7 +108,7 @@
 
 ## 2.4. G Szövettani grading, Fuhrman szerinti felosztás
 
-## 4K01723_3
+## 9K10992Z_3
 
 | G | Szövettani grading Sejtmag mérete, Sejtmag alakja, Nucleolus |
 
@@ -192,15 +192,7 @@
 
 ## sunitinib
 
-## 17: Alkalmazható protein kináz inhibitor(ok):
-
-## axitinib:
-
-## kizárólag sunitinib kezelést követően adható olyan esetekben, amikor a beteg a legkorábban a második sunitinib kezelési ciklust követően végzett képalkotó eljárással dokumentáltan reagált a sunitinib kezelésre.
-
-## everolimus:
-
-## sunitinib és pazopanib kezelést követően egyaránt adható, sunitinib kezelésre nem reagáló betegnek kizárólag everolimus adható.
+## 17: Alkalmazható protein kináz és PD-1 inhibitor(ok):
 
 ## 18: Alkalmazható protein kináz inhibitor(ok):
 
@@ -222,7 +214,9 @@
 
 ## sunitinib
 
-## 21: Alkalmazható protein kináz inhibitor(ok):
+## 21: Alkalmazható protein kináz és PD-1 inhibitor(ok):
+
+## axitinib:
 
 ## axitinib:
 
@@ -230,7 +224,29 @@
 
 ## everolimus:
 
-## sunitinib és pazopanib kezelést követően egyaránt adható, sunitinib kezelésre nem reagáló betegnek kizárólag everolimus adható.
+## sunitinib és pazopanib kezelést követően egyaránt adható.
+
+## cabozantinib:
+
+## előrehaladott, áttétes vesesejtes carcinómában szenvedő, megfelelő állapotú, megelőző vascularis endothelialis növekedési faktor (VEGF) célzott terápiában részesült felnőtt betegek kezelésére, ha a lokális terápiás modalitás alkalmazása nem jön szóba.
+
+## nivolumab:
+
+## monoterápiában, megelőző tirozin kináz gátló kezelésben részesült, előrehaladott, inoperabilis vagy áttétes ECOG 0-1 felnőtt betegeknek a WHO kritériumok szerinti progresszióig
+
+## kizárólag sunitinib kezelést követően adható olyan esetekben, amikor a beteg a legkorábban a második sunitinib kezelési ciklust követően végzett képalkotó eljárással dokumentáltan reagált a sunitinib kezelésre.
+
+## everolimus:
+
+## sunitinib és pazopanib kezelést követően egyaránt adható
+
+## cabozantinib:
+
+## előrehaladott, áttétes vesesejtes carcinómában szenvedő, megfelelő állapotú, megelőző vascularis endothelialis növekedési faktor (VEGF) célzott terápiában részesült felnőtt betegek kezelésére, ha a lokális terápiás modalitás alkalmazása nem jön szóba.
+
+## nivolumab:
+
+## monoterápiában, megelőző tirozin kináz gátló kezelésben részesült, előrehaladott, inoperabilis vagy áttétes ECOG 0-1 felnőtt betegeknek a WHO kritériumok szerinti progresszióig
 
 ## 22: Az előbb felsorolt terápiák hatástalansága esetén és/vagy ha a terápiákra alkalmatlan a beteg, akkor a szakmai irányelvben megfogalmazott legjobb tüneti és palliatív ellátás alkalmazandó. Opcionálisan alkalmazható medroxyprogesterone palliatív kezelésként.
 
@@ -268,7 +284,7 @@
 
 ## 5.1. Releváns BNO kódok
 
-## 4K01723_4
+## 9K10992Z_4
 
 | BNO | BNO megnevezése |
 
@@ -276,7 +292,7 @@
 
 ## 5.2. Releváns OENO kódok
 
-## 4K01723_5
+## 9K10992Z_5
 
 | OENO | OENO megnevezése |
 
@@ -314,7 +330,7 @@
 
 ## 5.3. Releváns HBCS kódok
 
-## 4K01723_6
+## 9K10992Z_6
 
 | HBCS | HBCS megnevezése |
 
@@ -328,7 +344,7 @@
 
 ## 5.4. ATC kódok
 
-## 4K01723_7
+## 9K10992Z_7
 
 | ATC | ATC megnevezése |
 
@@ -345,6 +361,10 @@
 | L01XE11 | pazopanib |
 
 | L01XE17 | axitinib |
+
+| L01XE26 | cabozantinib |
+
+| L01XC17 | nivolumab |
 
 3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^15]
 

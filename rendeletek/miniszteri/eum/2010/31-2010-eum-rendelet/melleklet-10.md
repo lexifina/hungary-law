@@ -230,7 +230,7 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 6.3.3. TNF-alfa gátlók: adalimumab, etanercept, infliximab (az alkalmazott támogatási kategória figyelembevételével)
 
-6.3.4. Interleukin-inhibitor: usztekinumab, ixekizumab szekukinumab
+6.3.4. Interleukin-inhibitor: usztekinumab, ixekizumab, szekukinumab, guszelkumab
 
 7. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
@@ -258,11 +258,9 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 8.2. Releváns ATC kódok
 
-## 8K30583Q_1
-
 |  | A | B | C | D |
 
-| 1 | ATC-kód |  | Hatóanyag |  | Kategória |  | Megjegyzés |
+| 1 | ATC-kód | Hatóanyag | Kategória | Megjegyzés |
 
 | 2 | L01BA01 | metotrexát | DMARD | Betegségmódosító szerek |
 
@@ -281,6 +279,8 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 | 9 | L04AC10 | szekukinumab | BRMD | Biológiai terápia eszközei |
 
 | 10 | L04AC13 | ixekizumab | BRMD | Biológiai terápia eszközei |
+
+| 11 | L04AC16 | guszelkumab | BRMD | Biológiai terápia eszközei |
 
 9. Fogalmak, rövidítések
 
@@ -336,4 +336,4 @@ UVB Ultraviola sugárzás B
 
 We Vörösvértest-süllyedés
 
-[^22]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^22]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (3) bekezdése szerint módosított szöveg.

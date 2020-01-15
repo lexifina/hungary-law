@@ -54,7 +54,7 @@ vagy
 
 4.4.1. valamelyik TNF-gátló (infliximab, etanercept, adalimumab, golimumab, certolizumab-pegol)
 
-4.4.2. interleukin-6 receptor gátló (tocilizumab)
+4.4.2. interleukin-6 receptor gátlók (tocilizumab, sarilumab)
 
 4.4.3. CTLA-4 analóg (abatacept)
 
@@ -74,7 +74,7 @@ JAK gátlók: baricitinib, tofacitinib
 
 5.2.1. Újonnan diagnosztizált aktív rheumatoid arthritis esetén elsőként választandó a DMARD monoterápia, alkalmazása javasolt gyors dózisemeléssel a megfelelő klinikai hatás eléréséig, vagy kombinációs terápia (beleértve a methotrexátot és legalább egy másik DMARD készítményt és rövid idejű kortikoszteroidot együttesen) a tünetek megjelenésétől számítva a lehető legrövidebb időn belül (<3 hónap).
 
-5.2.2. Súlyos, aktív rheumatoid arthritis esetén az anti-TNF-α terápia (infliximab, etanercept, adalimumab, golimumab, certolizumab pegol) vagy interleukin-6 receptor gátló (tocilizumab), CTLA-4 analóg (abatacept) terápia alkalmazható azon betegek számára, akiknél az alábbi kritériumok együttesen teljesülnek:
+5.2.2. Súlyos, aktív rheumatoid arthritis esetén az anti-TNF-α terápia (infliximab, etanercept, adalimumab, golimumab, certolizumab pegol) vagy interleukin-6 receptor gátlók (tocilizumab, sarilumab), CTLA-4 analóg (abatacept) terápia alkalmazható azon betegek számára, akiknél az alábbi kritériumok együttesen teljesülnek:
 
 5.2.2.1. RA diagnózisa: több, mint 4 ACR kritérium együttesen van jelen az alábbiak közül legalább 3 hónapja:
 
@@ -104,13 +104,13 @@ JAK gátlók: baricitinib, tofacitinib
 
 5.2.3.1. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető. A biológiai terápia leépítése a hagyományos DMARD terápia folytatása mellett javasolt.
 
-5.2.4. Amennyiben 3 hónapos indukciós kezelést követően a megfelelő hatásossági kritériumok nem teljesülnek (DAS 28 nem javult legalább 1,2 ponttal), másik anti-TNF-α terápiára történő váltás (switch), IL6 receptor gátló (tocilizumab), CTLA-4 analóg (abatacept) vagy B sejt gátló (rituximab) kezelés megengedett. Switch-et követően, hatástalanság esetén további TNF-α gátló szerre nem érdemes váltani.
+5.2.4. Amennyiben 3 hónapos indukciós kezelést követően a megfelelő hatásossági kritériumok nem teljesülnek (DAS 28 nem javult legalább 1,2 ponttal), másik anti-TNF-α terápiára történő váltás (switch), IL6 receptor gátlók (tocilizumab, sarilumab), CTLA-4 analóg (abatacept) vagy B sejt gátló (rituximab) kezelés megengedett. Switch-et követően, hatástalanság esetén további TNF-α gátló szerre nem érdemes váltani.
 
 5.2.5. Az anti-TNF-α terápia nem folytatható, amennyiben anti-TNF-α terápia ellenére 6 hónap alatt megfelelő terápiás válasz nem volt elérhető (DAS 28 nem javult legalább 1,2 ponttal): primer hatástalanság.
 
 5.2.6. Anti-TNF-α kezelés során a terápiás válasz elvesztése után vagy intolerancia esetén másik szerre való váltás megengedett: szekunder hatástalanság.
 
-5.2.7. Az interleukin-6 receptor gátló (tocilizumab) és a CTLA-4 analóg (abatacept) terápiák alkalmazásának feltételei megegyeznek az anti-TNF-α terápia alkalmazásának feltételeivel.
+5.2.7. Az interleukin-6 receptor gátlók (tocilizumab, sarilumab ) és a CTLA-4 analóg (abatacept) terápiák alkalmazásának feltételei megegyeznek az anti-TNF-α terápia alkalmazásának feltételeivel.
 
 5.2.8. B sejt gátló (rituximab) terápia methotrexattal kombinálva azon súlyos, aktív rheumatoid arthritisben szenvedő betegek kezelésében javasolt, akiknél TNF-α terápiára nem alakult ki megfelelő terápiás válasz vagy intolerancia jelentkezett.
 
@@ -252,7 +252,7 @@ JAK gátlók: baricitinib, tofacitinib
 
 7.2.6.3. TNF alfa gátlók: adalimumab, etanercept, infliximab (az alkalmazott támogatási kategória figyelembevételével), golimumab, certolizumab pegol
 
-7.2.6.4. Interleukin-6 receptor gátló: tocilizumab
+7.2.6.4. Interleukin-6 receptor gátlók: tocilizumab, sarilumab
 
 7.2.6.5. B sejt gátló: rituximab
 
@@ -336,15 +336,17 @@ JAK gátlók: baricitinib, tofacitinib
 
 | 15 | L04AC07 | tocilizumab | IL-6 R gátló | Biológiai terápia eszközei |
 
-| 16 | L01XC02 | rituximab | B sejt gátló | Biológiai terápia eszközei |
+| 16 | L04AC14 | sarilumab | IL-6 R gátló | Biológiai terápia eszközei |
 
-| 17 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+| 17 | L01XC02 | rituximab | B sejt gátló | Biológiai terápia eszközei |
 
-| 18 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+| 18 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
 
-| 19 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+| 19 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
 
-| 20 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
+| 20 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 21 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
 
 10. Fogalmak, rövidítések
 
@@ -384,4 +386,4 @@ NSAID Non-steroid anti-inflammatory drug
 
 JAK Janus-kináz
 
-[^23]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^23]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.

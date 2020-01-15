@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-31-20-0
 | 2017-06-01 | 2010-31-20-0B.15 | 59/2015. (XII. 30.) EMMI rendelet |
 | 2018-07-01 | 2010-31-20-0B.16 | 59/2015. (XII. 30.) EMMI rendelet |
 | 2018-10-15 | 2010-31-20-0B.17 | 59/2015. (XII. 30.) EMMI rendelet |
+| 2020-01-15 | 2010-31-20-0B.18 | 59/2015. (XII. 30.) EMMI rendelet |

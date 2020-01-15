@@ -422,6 +422,40 @@ Parkinson-kórban kialakuló motoros fluktuáció minden esetében – a finansz
 
 5.3.2. levodopa, carbidopa, entacapone
 
+5.4. A motoros hullámzások („on-off” jelenség) kezelése olyan Parkinson-kórban szenvedő betegeknél, akik nem kezelhetők kielégítő módon a szájon át adott anti-Parkinson készítménnyel - a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján
+
+5.4.1. Apomorfin-hidroklorid-hemihidrát pen („rescue drug”) alkalmazható optimálisan beállított, de elégtelen oralis terápia mellett:
+
+- a megjósolható motoros és nem - motoros OFF periódusok gyors megelőzésére,
+
+- hirtelen vagy akut OFF periódus gyors megszüntetésére,
+
+- ha az oralis levodopa feszívódása zavart vagy gyomor ürülési problémák (gasztroparesis) esetén,
+
+- a késve jelentkező gyógyszerhatás („delayed on”) vagy a kimaradó gyógyszerhatás („no on”) kezelésére a gyomor motilitással, ürüléssel összefüggésben,
+
+- hajnali vagy kora reggeli akinesia és dystonia megoldására.
+
+5.5. EÜ100 65. Támogatott indikációk:
+
+Előrehaladott Parkinson-kór esetén a Parkinson betegségcsoport diagnosztikájának és kezelésének a finanszírozási eljárásrendjében meghatározottak szerint.
+
+5.5.1. levodopa+ carbidopa intesztinális gél
+
+5.5.2. apomorfin-hidroklorid-hemihidrát pumpa alkalmazható:
+
+- ha a beteg gyakran (több, mint 6 alkalom/nap) igényel pen adagot,
+
+- ha zavaró dyskinesiák limitálják a további terápia módosítást,
+
+- ha súlyos nem - motoros tünetek jelentkeznek „OFF”-ban,
+
+- ha műtét (mély agyi stimuláció (DBS)) vagy levodopa+carbidopa intesztinális gél kezelés kontraindikált
+
+- döntően nem-motoros, elsősorban neuropsychiátriai tünetek túlsúlya esetén
+
+A terápia hatástalannak tekinthető, ha a betegség progrediált és a beteg állapota az eszközös terápiák (Duodopa, Apomorphin se. infúzió vagy Apormorphin pen) mellett a Hoehn&Yahr skála szerint 5. stádiumú. A beteg állapotát évente orvosilag dokumentálni kell.
+
 6. Adminisztratív ellenőrzési pontok (folyamatba épített ellenőrzés)
 
 6.1. Kompetencia szint: kijelölt intézmény, szakorvosi kompetencia ellenőrzése
@@ -530,10 +564,12 @@ Parkinson-kórban kialakuló motoros fluktuáció minden esetében – a finansz
 
 | 12 | N04BX02 | entacapone |
 
+| 13 | N04BC07 | apomorfin-hidroklorid-hemihidrát |
+
 10. Rövidítések
 
 ATC Gyógyszerek anatómiai, terápiás, illetve kémiai osztályozása
 
 BNO Betegségek nemzetközi osztályozása
 
-[^17]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^17]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.

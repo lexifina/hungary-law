@@ -84,13 +84,13 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 4.5.1. A kezelés további folytatásának eldöntése céljából háromhavonta rögzíteni kell a BASDAI (axiális érintettség esetén), DAS 28 (perifériás érintettség esetén), PASI (súlyos bőrérintettség esetén) indexeket. Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó) stabil remisszió esetén a dózis csökkentése lehetséges, a kezelés felfüggeszthető.
 
-4.6. Az anti-TNF-α kezelés további folytatásának kritériumai:
+4.6. A biológiai terápiás kezelés további folytatásának kritériumai:
 
-4.6.1. Amennyiben 3 hónapos indukciós kezelést követően a megfelelő hatásossági kritériumok nem teljesülnek, másik anti-TNF-α terápiára történő váltás (switch) megengedett.
+4.6.1. Amennyiben 3 hónapos indukciós kezelést követően a megfelelő hatásossági kritériumok nem teljesülnek, másik anti-TNF-α terápiára történő váltás (switch) vagy IL inhibitor terápia megkezdése megengedett.
 
 4.6.2. Az anti-TNF-α terápia dózisának emelése a forgalomba hozatali engedélyben meghatározott induló dózishoz képest nem javasolt.
 
-4.6.3. Csak szakavatott és a terápia-alkalmazásban jártas kijelölt intézmények szakorvosainak kompetenciája az anti-TNF-α terápia indikálása és alkalmazása.
+4.6.3. Csak szakavatott és a terápia-alkalmazásban jártas kijelölt intézmények szakorvosainak kompetenciája az anti-TNF-α és az IL inhibitor terápia indikálása és alkalmazása.
 
 4.7. Laboratóriumi vizsgálatok: célja az egyéb, a biológiai terápiákkal párhuzamosan felírt betegség-módosító gyógyszerek hatásvizsgálata. Mielőtt a terápia megkezdődik, vizsgálni kell:
 
@@ -218,6 +218,8 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 6.2.5.3. TNF alfa gátlók: adalimumab, etanercept, infliximab (az alkalmazott támogatási kategória figyelembevételével), golimumab
 
+6.2.5.4. IL inhibitor:szekukinumab, ixekizumab
+
 7. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
 7.1. A területre fordított közkiadások alakulása, monitorozása.
@@ -262,44 +264,50 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 | 9 | L04AB06 | golimumab | TNF-alfa gátló | Biológiai terápia eszközei |
 
-| 10 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+| 10 | L04AC10 | szekukinumab | IL-inhibitor | Biológiai terápia eszközei |
 
-| 11 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+| 11 | L04AC13 | ixekizumab | IL-inhibitor | Biológiai terápia eszközei |
 
-| 12 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+| 12 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
 
-| 13 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
+| 13 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 14 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 15 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
 
 9. Fogalmak, rövidítések
 
-AP Arthritis psoriatica
+| AP | Arthritis psoriatica |
 
-ATC Anatomical therapeutic chemical klasszifikáció
+| ATC | Anatomical therapeutic chemical klasszifikáció |
 
-BNO Betegségek nemzetközi osztályozása
+| BNO | Betegségek nemzetközi osztályozása |
 
-EULAR European League Against Rheumatism
+| EULAR | European League Against Rheumatism |
 
-DAS Disease activity score
+| DAS | Disease activity score |
 
-BASDAI Bath ankylosing spondylitis disease activity index
+| BASDAI | Bath ankylosing spondylitis disease activity index |
 
-PASI Psoriasis area and severity index
+| PASI | Psoriasis area and severity index |
 
-DMARD Disease modifying antirheumatic drug
+| DMARD | Disease modifying antirheumatic drug |
 
-TNF Tumor nekrózis faktor
+| TNF | Tumor nekrózis faktor |
 
-CRP C-reaktív protein
+| IL | Interleukin |
 
-MTX Methotrexat
+| CRP | C-reaktív protein |
 
-CsA Ciklosporin A
+| MTX | Methotrexat |
 
-LEF Leflunomid
+| CsA | Ciklosporin A |
 
-SSZ Szulfaszalazin
+| LEF | Leflunomid |
 
-NSAID Non-steroid anti-inflammatory drug
+| SSZ | Szulfaszalazin |
 
-[^26]: A 14. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (12) bekezdésével megállapított szöveg.
+| NSAID | Non-steroid anti-inflammatory drug |
+
+[^26]: A 14. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (12) bekezdésével megállapított, a 36/2019. (XII. 30.) EMMI rendelet 3. § (5) bekezdése szerint módosított szöveg.
