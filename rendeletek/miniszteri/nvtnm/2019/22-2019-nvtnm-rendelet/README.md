@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-22-20-7
 | 2019-12-21 | 2019-22-20-7P.1 | 22/2019. (XII. 20.) NVTNM rendelet |
 | 2019-12-22 | 2019-22-20-7P.2 | 2010: CXXX. törvény |
 | 2020-01-14 | 2019-22-20-7P.3 | 1/2020. (I. 16.) NVTNM határozat |
+| 2020-01-15 | 2019-22-20-7P.4 | 2010: CXXX. törvény |
