@@ -54,6 +54,8 @@
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
 ## 1/a2.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -105,6 +107,8 @@
 ## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
 ## 1/b1.
 
@@ -252,6 +256,8 @@
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
 ## 3.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -314,6 +320,8 @@
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
+## 2425 Tolna Megyei Balassa János Kórház
+
 ## 4.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -329,6 +337,10 @@
 ## 06053 infliximab
 
 ## 06055 golimumab
+
+## 06067 szekukinumab
+
+## 06068 ixekizumab
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -372,6 +384,8 @@
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
+## 2425 Tolna Megyei Balassa János Kórház
+
 ## 5.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -393,6 +407,8 @@
 ## 06067 szekukinumab
 
 ## 06068 ixekizumab
+
+## 06074 guszelkumab
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -444,6 +460,8 @@
 
 ## 06070 tofacitinib
 
+## 06075 sarilumab
+
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
 ## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
@@ -485,6 +503,8 @@
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
+
+## 2425 Tolna Megyei Balassa János Kórház
 
 ## 6/a2.
 
@@ -537,6 +557,8 @@
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
+
+## 2425 Tolna Megyei Balassa János Kórház
 
 ## 6/b.
 
@@ -600,6 +622,8 @@
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
+## 2425 Tolna Megyei Balassa János Kórház
+
 ## 6/c.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -654,6 +678,8 @@
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
+## 2425 Tolna Megyei Balassa János Kórház
+
 ## 6/d.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -695,6 +721,8 @@
 ## 06003 daratumumab
 
 ## 06004 karfilzomib
+
+## 06076 ixazomib
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -1006,7 +1034,7 @@
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
-## 06067 plerixafor
+## 06073 Plerixafor
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
@@ -1173,6 +1201,126 @@
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
+## 7/b12. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Olyan 17p delécióval vagy TP53 mutációval nem rendelkező krónikus lymphoid leukémiában (CLL) szenvedő betegek esetén, akiknél egy kezelési ciklust követően relapszus vagy progresszió következik be.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06028 ibrutinib
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1568 Fejér Megyei Szent György Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 2137 Kaposi Mór Oktató Kórház, Kaposvár
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2734 Zala Megyei Kórház, Zalaegerszeg
+
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## 7/b13. pont
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## - Rituximabbal kombinálva olyan krónikus lymphoid leukaemiában (CLL) szenvedő felnőtt betegek kezelésére, akik korábban már legalább egy kezelésben részesültek.
+
+## - Monoterápiaként krónikus lymphoid leukaemiában (CLL) szenvedő felnőtt betegek kezelésére
+
+## ● akik 17p deléciót vagy TP53 mutációt hordozók, és akiknél a B-sejt receptor jelút gátlás nem alkalmazható, vagy az eredménytelen volt; vagy
+
+## ● akik 17p deléciót vagy TP53 mutációt nem hordozók és akiknél az immuno-kemoterápia és a B-sejt receptor jelút gátlás is eredménytelen volt.
+
+## A kezelés a betegség progressziójáig, vagy addig folytatható, ameddig a beteg a kezelést tolerálja.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06078 venetoklax
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1568 Fejér Megyei Szent György Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 2137 Kaposi Mór Oktató Kórház, Kaposvár
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2734 Zala Megyei Kórház, Zalaegerszeg
+
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
 
 ## 8/a1.
 
@@ -2360,6 +2508,90 @@
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
+## 8/d3.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Jól differenciált pajzsmirigyrák miatt thyroidectomián és radiojód ablációs kezelésen átesett betegeknél a betegség kiújulásának igazolására akik pajzsmirigyhormon-szuppressziós terápiában (THST) részesülnek, valamint a hormonszuppressziós kezelés elhagyása szempontjából magas kockázatúnak számítanak, és akiknél THST mellett nincs kimutatható mennyiségű, vagy csak mérsékelten emelkedett szérum tireoglobulin (TG) (<20 ng/ml) észlelhető a következő megjegyzések figyelembevételével:
+
+## - Az rhTSH stimuláció előtt kötelező a TSH, thyreoglobulin és anti-thyreoglobulin meghatározás, valamint a nyaki ultrahang elvégzése.
+
+## - Nem kell diagnosztikus célú rhTSH stimulációt végezni:
+
+## - akinél egyértelmű a maradék betegség (recidiva),
+
+## - citológiailag igazolt maradék betegség esetén.
+
+## - A klinikailag progrediáló, de normális thyreoglobulin és anti-thyreoglobulin szintű betegek esetében a maradék betegség kizárására az rhTSH stimulációt követő thyreoglobulin és anti-thyreoglobulin, illetve szükség esetén teljes test I-131-szcintigráfia elvégzése szükséges.
+
+## - Anti-thyreoglobulin pozitív betegek esetében minden esetben szükséges teljes test I-131-szcintigráfia végzése rhTSH stimuláció után.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06080 alfa-tirotropin
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1487 Dr. Bugyi István Kórház, Szentes
+
+## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 1928 Szent Lázár Megyei Kórház, Salgótarján
+
+## 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2734 Zala Megyei Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
+
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
+
+## 2889 Szent Imre Kórház
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
+
 ## 8/e2.1.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -3128,6 +3360,54 @@
 
 ## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
+## 8/g.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Előrehaladott vesesejtes carcinoma kezelésére felnőtteknél, a finanszírozási eljárásrendben foglaltaknak megfelelően.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06024 nivolumab
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## N511 Szent Margit Kórház, Budapest
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## 2912 Pécsi Tudományegyetem
+
+## 2915 Semmelweis Egyetem
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## 2734 Zala Megyei Kórház
+
 ## 9/a.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
@@ -3392,11 +3672,89 @@
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+
 ## 15/c.
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
 ## Olyan metasztatizáló, kasztráció-rezisztens prosztatarákban szenvedő felnőtt férfiak kezelésére javallott, akik sikertelen androgén deprivációs kezelést követően tünetmentesek voltak, vagy enyhe tüneteket mutattak, és akiknél a klinikai állapot alapján a kemoterápiás kezelés még nem indokolt.
+
+## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
+
+## 06015 abirateron-acetát
+
+## 06016 enzalutamid
+
+## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
+
+## 1122 Bács-Kiskun Megyei Kórház, Kecskemét
+
+## 1487 Dr. Bugyi István Kórház, Szentes
+
+## 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár
+
+## 1640 Petz Aladár Megyei Oktató Kórház, Győr
+
+## 1876 Szent Borbála Kórház, Tatabánya
+
+## 1928 Szent Lázár Megyei Kórház, Salgótarján
+
+## 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa
+
+## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
+
+## 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet
+
+## 2425 Tolna Megyei Balassa János Kórház
+
+## 2734 Zala Megyei Kórház
+
+## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
+
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
+
+## 2879 Jahn Ferenc Dél-pesti Kórház
+
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
+
+## 2889 Szent Imre Kórház
+
+## 2891 Uzsoki utcai Kórház
+
+## 2894 Debreceni Egyetem Klinikai Központ
+
+## 2906 Országos Onkológiai Intézet
+
+## 2912 Pécsi Tudományegyetem Klinikai Központ
+
+## 2915 Semmelweis Egyetem, Budapest
+
+## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
+
+## K403 Magyar Honvédség Egészségügyi Központ
+
+## N511 Szent Margit Kórház, Budapest
+
+## N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger
+
+## N594 Csolnoky Ferenc Kórház, Veszprém
+
+## N595 Markusovszky Egyetemi Oktatókórház, Szombathely
+
+## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
+
+## R464 Békés Megyei Központi Kórház, Gyula
+
+## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
+
+## 15/d.
+
+## TÁMOGATOTT INDIKÁCIÓK:
+
+## Újonnan diagnosztizált, magas kockázatú, metasztatizáló, hormonszenzitív prosztatarák (mHSPC) kezelése, felnőtt férfiaknál, androgén-deprivációs kezeléssel (ADT) kombinálva.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -3442,9 +3800,9 @@
 
 ## 2906 Országos Onkológiai Intézet
 
-## 2912 Pécsi Tudományegyetem Klinikai Központ
+## 2912 Pécsi Tudományegyetem
 
-## 2915 Semmelweis Egyetem, Budapest
+## 2915 Semmelweis Egyetem
 
 ## 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ
 
