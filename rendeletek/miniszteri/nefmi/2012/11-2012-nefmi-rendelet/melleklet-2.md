@@ -1022,6 +1022,12 @@
 
 | 74792 | Kemoterápia, CDDP+VNB/B+BEV protokoll szerint (02. fázis) |
 
+| 74801 | Kemoterápia, nabTAX+GEM (pancreas) protokoll szerint (01. fázis) |
+
+| 74802 | Kemoterápia, nabTAX+GEM (pancreas) protokoll szerint (02. fázis) |
+
+| 74803 | Kemoterápia, nabTAX+GEM (pancreas) protokoll szerint (03. fázis) |
+
 | 74851 | Kemoterápia, VNB+CBP+BEV protokoll szerint (01. fázis) |
 
 | 74852 | Kemoterápia, VNB+CBP+BEV protokoll szerint (02. fázis) |
@@ -6096,4 +6102,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^7]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 4. § (2) bekezdése, a 34/2017. (XII. 12.) EMMI rendelet 5. §-a, a 15/2019. (VII. 26.) EMMI rendelet 7. § első (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 4. § (2) bekezdése, a 34/2017. (XII. 12.) EMMI rendelet 5. §-a, a 15/2019. (VII. 26.) EMMI rendelet 7. § első (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
