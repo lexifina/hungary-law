@@ -1,3 +1,3 @@
-## 2. § Az R. 14. §-a helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „14. § A 2020. évben a Sára Sándor-díj adományozására augusztus 20-a alkalmából kerül sor.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
