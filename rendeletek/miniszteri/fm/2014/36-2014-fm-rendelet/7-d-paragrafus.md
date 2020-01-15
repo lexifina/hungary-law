@@ -1,6 +1,6 @@
 ## 7/C. § A tartósított szardínia forgalmazására vonatkozó közös előírások, valamint a tartósított szardínia és szardíniához hasonló termékek kereskedelmi megnevezésének megállapításáról szóló, 1989. június 21-i 2136/89/EGK tanácsi rendelet (a továbbiakban: 2136/89/EGK tanácsi rendelet) 1a. cikk 2. pontja szerinti tartósított szardíniához hasonló termékek esetén a 2136/89/EGK tanácsi rendelet 7a. cikk (1) bekezdése szerinti „szardínia” kereskedelmi megnevezés használatakor az összetevők között fel kell tüntetni a 2136/89/EGK tanácsi rendelet 1a. cikk 2. pontja szerinti halfajnak a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI.12.) FVM rendelet 38. melléklete szerinti tudományos nevét és kereskedelmi megnevezését.
 
-## 2/B. [^13] Vendéglátó-ipari termékekkel kapcsolatos tájékoztatási követelmények
+## 2/B. [^18] Vendéglátó-ipari termékekkel kapcsolatos tájékoztatási követelmények
 
 7/D. § (1) A nem távértékesítés útján forgalmazásra kerülő, nem előrecsomagolt vendéglátó-ipari termékek esetén a 2. alcímben foglalt rendelkezések közül a 3. § (3) és (4) bekezdését, valamint a 4–7. §-t kell alkalmazni.
 
@@ -10,4 +10,4 @@ a) az allergiát vagy intoleranciát okozó anyagok és termékek késztermékbe
 
 b) kérésére – a tápértékjelölés kivételével – az előrecsomagolt élelmiszereken kötelezően feltüntetendő adatokról
 
-[^13]: A 2/B. alcímet (7/D. §) a 79/2016. (XII. 12.) FM rendelet 4. §-a iktatta be.
+[^18]: A 2/B. alcímet (7/D. §) a 79/2016. (XII. 12.) FM rendelet 4. §-a iktatta be.
