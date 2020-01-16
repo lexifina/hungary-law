@@ -1,0 +1,1 @@
+42/A. § A földmérési és térinformatikai államigazgatási szerv az ingatlan-nyilvántartásról szóló törvényben foglalt keretek között a vasúti telekalakítási eljárást kezdeményező kérelmére a vasúti telekalakítás érdekében az ingatlan-nyilvántartási adatbázisból adatleválogatást végezhet, amelynek eredményét elektronikus dokumentumként adja át a kérelmezőnek.

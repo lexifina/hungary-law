@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2019-07-17 | 2019. évi LXVII. törvény | 2005-183-00-00.56 |
 | 2019-07-25 | 2019. évi LXVII. törvény | 2005-183-00-00.57 |
 | 2020-01-01 | 2019. évi CXV. törvény | 2005-183-00-00.58 |
+| 2020-01-16 | 2019. évi CXIV. törvény | 2005-183-00-00.59 |

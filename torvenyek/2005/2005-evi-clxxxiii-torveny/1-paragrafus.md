@@ -12,7 +12,9 @@ b) a Magyarország területén folytatott vasúti közlekedést irányító, mű
 
 c) az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatásokra és az ilyen szolgáltatást végző vasúti munkavállalókra,
 
-d) a trolibusz felsővezetékének engedélyezésére
+d) a trolibusz felsővezetékének engedélyezésére,
+
+e) a vasúti telekalakítás tekintetében – a 4. mellékletben szereplő vasúti pályák kivételével – a Magyarország területén található országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó és azzal szomszédos ingatlanokra
 
 terjed ki.
 

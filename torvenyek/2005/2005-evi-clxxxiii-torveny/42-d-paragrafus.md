@@ -1,0 +1,3 @@
+42/D. § (1) Amennyiben az érintett ingatlan az állam és más személy osztatlan közös tulajdonában áll, a vasúti telekalakításról – közös tulajdon megszüntetése útján, illetve, amennyiben indokolt a szomszédos ingatlan bevonásával – az ingatlanok tulajdonosai megállapodhatnak. A megállapodásban rendezni kell a vasúti közlekedéshez szükséges, a visszamaradó ingatlant, illetve az újonnan kialakuló további ingatlant érintő vezetékjogi, szolgalmi jogi, használati jogi kérdéseket, valamint rendezni kell az ingatlan-nyilvántartás szerint az érintett ingatlanon fennálló egyéb jogok és tények kérdését.
+
+(2) Az (1) bekezdésben meghatározott megállapodás alapján lefolytatásra kerülő vasúti telekalakítási eljárás során e törvény rendelkezéseit kell alkalmazni.

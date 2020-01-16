@@ -34,7 +34,9 @@
 
 16. a működési engedélyezési eljárásnak, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának, a működési engedélyhez nem kötött tevékenység esetén a bejelentésnek, valamint a vasúti igazgatási szervnek a vasúti társaságok tevékenységével kapcsolatos ellenőrzési tevékenységének eljárási szabályait,
 
-17. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását, az általa kiszabható bírság részletszabályait
+17. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását, az általa kiszabható bírság részletszabályait,
+
+18. a vasúti telekalakítás szabályait, továbbá a vasúti telekalakítási eljárást lefolytató hatóság vagy hatóságok kijelölését, eljárásuk részletes szabályait
 
 rendeletben állapítsa meg.
 
