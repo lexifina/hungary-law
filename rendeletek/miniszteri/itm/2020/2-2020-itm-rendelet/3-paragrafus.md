@@ -1,0 +1,1 @@
+## „(4) Előre nem látható, a Befogadón kívül álló okból bekövetkezett üzemzavar vagy válsághelyzet esetén a (3) bekezdés szerinti adatokat legkésőbb az üzemzavar vagy válsághelyzet megszűntét követő 1 munkanapon belül közzé kell tenni a honlapján.”
