@@ -1,0 +1,1 @@
+93/A. § E törvénynek az egyes vagyongazdálkodási tárgyú törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2019. évi CXIV. törvénnyel (a továbbiakban: 4. sz. Módtv.) megállapított 7. § (3) bekezdésben foglalt rendelkezéseket a 4. sz. Módtv. 11. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
