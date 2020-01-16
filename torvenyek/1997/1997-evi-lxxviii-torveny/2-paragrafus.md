@@ -109,3 +109,5 @@ f) az 55/A. § (3) bekezdése alapján megillető felhasználási jogok vagy vag
 42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető építésügyi műszaki előírás.
 
 43. Barnamezős terület: olyan földrészlet vagy földrészletek összessége – ide nem értve a mező- és erdőgazdasági területeket –, amely elsősorban ipari, kereskedelmi, közlekedési vagy honvédelmi célú felhasználást követően felhagyottá, alulhasznosítottá vagy leromlott állapotúvá vált, jellemzően környezetszennyezéssel terhelt, ugyanakkor környezeti és műszaki beavatkozással értéknövelt, fejleszthető területté alakítható.
+
+44. vasúti telekalakítás: a vasúti közlekedésről szóló törvényben meghatározott eljárás.
