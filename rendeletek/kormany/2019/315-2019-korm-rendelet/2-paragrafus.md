@@ -1,0 +1,5 @@
+2. § (1) A telekalakítási dokumentációban az országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó területként a vasúti közlekedésről szóló törvényben meghatározott vasúti pályának a vasúti közlekedésről szóló jogszabályokban meghatározottak szerint számított védősávval növelt területét kell a kialakítandó önálló ingatlanként megjelölni.
+
+(2) Ahol a védősáv szélességét a vasúti hatóság egyedi határozatában állapította meg, a védősáv szélessége a szélső vágány tengelyétől mérve 9,0 m, töltésben lévő vasúti pálya esetén a töltés lábától, bevágásban annak szélétől 5,0 m. Amennyiben az e bekezdés szerint kialakított telekhatár az ingatlan-nyilvántartásban feltüntetett épület vonatkozásában azt eredményezi, hogy az épület területe a vasúti telekalakítás eredményeképpen létrejövő több ingatlan területére esne, a telekhatárt úgy kell kialakítani, hogy az épület teljes területe a visszamaradó ingatlanra essen, és az épület a telekhatáron legyen.
+
+(3) A változási vázrajz záradékolásának ügyintézési határideje a záradékolás iránti kérelem benyújtástól számított 8 nap.
