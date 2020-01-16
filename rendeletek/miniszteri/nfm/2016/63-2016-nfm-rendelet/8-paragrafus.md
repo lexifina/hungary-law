@@ -12,12 +12,20 @@ d) a kereskedelmi szabályzatban meghatározottak szerint a tárgyhavi prémium 
 
 e) a KÁT és prémium pénzeszköz fizetésére kötelezettek tárgyhónapra vonatkozó tény értékesítési adatait, oly módon, hogy az csak az érintett mérlegkör-felelős és a Hivatal részére legyen beazonosítható.
 
+(1a)[^6] Előre nem látható, a Befogadón kívül álló okból bekövetkezett üzemzavar vagy válsághelyzet esetén az (1) bekezdés szerinti adatokat legkésőbb a 10. munkanapig kell honlapján közzétenni. Ha a 10. munkanapot követően is fennáll az üzemzavar vagy a válsághelyzet, az adott tárgyhóra az előző hónapban közétett adatok lesznek érvényesek, melyet a kereskedelmi szabályzatban rögzített korrekciós elszámoláshoz tartozó hónapban kell korrigálni.
+
 (2) A Befogadó az (1) bekezdés szerinti adatok honlapon történő elérhetőségét 5 évig köteles biztosítani.
 
-(3) A Befogadó köteles minden naptári hónap 10. munkanapjáig közzétenni:
+(3)[^7] A Befogadó köteles minden naptári hónap 10. munkanapjáig honlapján közzétenni:
 
 a) a KÁT termelőknek a következő 12 hónapra várható, összesített kötelező átvételi értékesítését havi és zónaidőnkénti bontásban;
 
 b) a Premizált termelőknek a prémium típusú támogatásra jogosult, összesített várható termelését a következő 12 hónapra havi bontásban;
 
 c) a KÁT és Prémium pénzeszköz várható mértékét, valamint az ezekből fakadó várható összesített fizetési kötelezettséget, továbbá a KÁT és Prémium pénzeszköz várható mértékének meghatározása során felhasznált várható összesített értékesítési adatokat a következő 12 hónapra havi bontásban.
+
+(4)[^8] Előre nem látható, a Befogadón kívül álló okból bekövetkezett üzemzavar vagy válsághelyzet esetén a (3) bekezdés szerinti adatokat legkésőbb az üzemzavar vagy válsághelyzet megszűntét követő 1 munkanapon belül közzé kell tenni a honlapján.
+
+[^6]: A 8. § (1a) bekezdését a 2/2020. (I. 13.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^7]: A 8. § (3) bekezdés nyitó szövegrésze a 2/2020. (I. 13.) ITM rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 8. § (4) bekezdését a 2/2020. (I. 13.) ITM rendelet 2. § (2) bekezdése iktatta be.
