@@ -1,21 +1,32 @@
 ## 3. A finanszírozási eljárásrendekről szóló 31/2010. (V. 13.) EüM rendelet módosítása
 
-3. § (1) A finanszírozási eljárásrendekről szóló 31/2010. (V. 13.) EüM rendelet (a továbbiakban: R3.) 2. melléklete a 7. melléklet szerint módosul.
+3. § (1)[^9]
 
-(2) Az R3. 5. melléklete a 8. melléklet szerint módosul.
+(2)[^10]
 
-(3) Az R3. 10. melléklete a 9. melléklet szerint módosul.
+(3)[^11]
 
-(4) Az R3. 11. melléklete a 10. melléklet szerint módosul.
+(4)[^12]
 
-(5) Az R3. 14. melléklete a 11. melléklet szerint módosul.
+(5)[^13]
 
-(6) Az R3. 17. melléklete a 12. melléklet szerint módosul.
+(6)[^14]
 
-(7) Az R3. 19. melléklete a 13. melléklet szerint módosul.
+(7)[^15]
 
-(8) Az R3. 29. melléklete a 14. melléklet szerint módosul.
+(8)[^16]
 
-(9) Az R3. 31. melléklete a 15. melléklet szerint módosul.
+(9)[^17]
 
-(10) Az R3. 37. melléklete a 16. melléklet szerint módosul.
+(10)[^18]
+
+[^9]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 3. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 3. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 3. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 3. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 3. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
