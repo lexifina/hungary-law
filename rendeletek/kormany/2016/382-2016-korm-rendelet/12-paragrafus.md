@@ -4,7 +4,7 @@
 
 a) a 2. § (2) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatalát,
 
-b)[^74] a 2. § (3) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében a megyeszékhely szerinti járási hivatalt, Pest megyében az Érdi Járási Hivatalt, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát,
+b)[^76] a 2. § (3) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében a megyeszékhely szerinti járási hivatalt, Pest megyében az Érdi Járási Hivatalt, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát,
 
 c) a 2. § (5) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a megyei kormányhivatal járási hivatalát,
 
@@ -26,4 +26,4 @@ a) az (1) bekezdés a) pontja, valamint az (5) bekezdés szerinti ügyek vonatko
 
 b) az (1) bekezdés b)–d) pontja szerinti ügyek vonatkozásában a fővárosi és megyei kormányhivatal
 
-[^74]: A 12. § (1) bekezdés b) pontja a 174/2019. (VII. 16.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^76]: A 12. § (1) bekezdés b) pontja a 174/2019. (VII. 16.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
