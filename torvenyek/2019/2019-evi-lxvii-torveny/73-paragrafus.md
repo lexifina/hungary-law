@@ -4,4 +4,4 @@ a)
 
 b)
 
-c)
+c) 57. § (2) bekezdés b) és c) pontja.

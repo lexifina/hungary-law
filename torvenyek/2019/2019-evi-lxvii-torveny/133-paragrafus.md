@@ -1,3 +1,5 @@
 ## 34. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-133. §
+133. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 41. § (1) bekezdésében az „a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását” szövegrész helyébe az „a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását” szöveg lép.
+
+(2) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 186. § (3) bekezdésében az „a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) és (6) bekezdésének” szövegrész helyébe az „az (EU) 2017/2394 rendelet 5. cikk (1) és 9. cikk (3) bekezdésének” szöveg lép.
