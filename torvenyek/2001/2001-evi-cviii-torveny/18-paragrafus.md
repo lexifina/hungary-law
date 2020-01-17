@@ -12,7 +12,7 @@ e) az Európai Parlament és a Tanács (EU) 2016/1148 irányelve (2016. július 
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Hatóság feladatkörében és eljárásában:
 
-a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés [a 16/D. § (1) bek., illetve a 16/E. § és 16/F. § (1) bek.];
+a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés;
 
 b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 16/F. § (2) bek.];
 

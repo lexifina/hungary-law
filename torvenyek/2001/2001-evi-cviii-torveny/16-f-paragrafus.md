@@ -1,4 +1,4 @@
-16/F. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2000/31/EK európai parlamenti és tanácsi irányelv
+16/F. § (1) A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a 2000/31/EK európai parlamenti és tanácsi irányelv
 
 a) 5., 6. és 10. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében – az Fttv.-ben meghatározottak szerint – a fogyasztóvédelmi hatóság vagy a Gazdasági Versenyhivatal,
 
