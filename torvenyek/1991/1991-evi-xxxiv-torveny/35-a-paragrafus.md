@@ -24,7 +24,9 @@ i) a szerencsejáték-szervezői tevékenységi engedélynek kizárólag az 1. �
 
 j) a kizárólag a távszerencsejáték és online kaszinójáték játékterve 29/F. § (5) bekezdése szerinti módosításának jóváhagyására vonatkozó eljárás esetén kérelmenként 21 000 forint,
 
-k) a kizárólag a Vhr. 35/A. § (1) bekezdése szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint
+k) a kizárólag a Vhr. 35/A. § (1) bekezdése szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint,
+
+l) a 13. § (5) bekezdés szerinti játékminősítési kérelem benyújtása esetén 42 000 forint
 
 igazgatási szolgáltatási díjat fizet.
 
