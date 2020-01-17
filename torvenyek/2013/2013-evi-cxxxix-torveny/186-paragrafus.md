@@ -8,9 +8,9 @@
 
 végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
 
-(3) E törvény 41. § (1) bekezdése, a 87. §-a, 88. § (1) bekezdés a)–c) pontja és a 89. §-a a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) és (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
+(3) E törvény 41. § (1) bekezdése, a 87. §-a, 88. § (1) bekezdés a)–c) pontja és a 89. §-a az (EU) 2017/2394 rendelet 5. cikk (1) és 9. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
 
-(4) E törvény 41. § (2) bekezdése a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló, 2006. december 22-i 2007/76/EK bizottsági határozat, valamint az azt módosító 2008. március 17-i 2008/282/EK bizottsági határozat végrehajtásához szükséges rendelkezést állapít meg az MNB feladatkörében és eljárásában.
+(4)
 
 (5) A 40. §
 

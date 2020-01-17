@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2013-139-00-00.36 |
 | 2019-12-26 | 2019. évi CXVIII. törvény | 2013-139-00-00.37 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2013-139-00-00.38 |
+| 2020-01-17 | 2019. évi LXVII. törvény | 2013-139-00-00.39 |
