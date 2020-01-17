@@ -20,11 +20,11 @@ g–h)
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
-a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés, 5. cikk (1) bekezdés, 16. cikk (1) bekezdés, 17. cikk (1) bekezdés, 21. cikk (2) bekezdés [a 43/A. §, a 43/B. §, a 47. § (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
+a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
 
-b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 43/A. § (4) bek.];
+b)
 
-c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.];
+c)
 
 d) az Európai Parlament és Tanács 2013. május 21-i 524/2013/EU rendelete a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) [2. § a),18. § (8) bekezdés, 29. § (11) bekezdés];
 

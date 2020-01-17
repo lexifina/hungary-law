@@ -1,4 +1,4 @@
-51/A. § (1) A fogyasztóvédelmi hatóság az általa a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtása keretében kötött hatósági szerződésről közleményt tesz közzé honlapján, továbbá – amennyiben szükséges –, az általa célszerűnek tartott egyéb módon.
+51/A. § (1) A fogyasztóvédelmi hatóság az általa az (EU) 2017/2394 rendelet végrehajtása keretében kötött hatósági szerződésről közleményt tesz közzé honlapján, továbbá – amennyiben szükséges –, az általa célszerűnek tartott egyéb módon.
 
 (2) Az (1) bekezdés szerinti közleménynek tartalmaznia kell:
 
