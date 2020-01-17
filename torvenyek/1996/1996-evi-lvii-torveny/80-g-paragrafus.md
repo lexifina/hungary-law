@@ -1,8 +1,8 @@
 ## XI/B. Fejezet
 
-## Eljárás a 2006/2004/EK európai parlamenti és tanácsi rendelet alkalmazása során
+## Eljárás az (EU) 2017/2394 rendelet alkalmazása során
 
-80/G. § (1) A Gazdasági Versenyhivatal látja el feladatkörében a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
+80/G. § (1) A Gazdasági Versenyhivatal látja el feladatkörében az (EU) 2017/2394 rendelet végrehajtását
 
 a) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelvet, valamint
 
