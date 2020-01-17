@@ -18,7 +18,7 @@ f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó 
 
 (2) Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
 
-a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről,
+a) az (EU) 2017/2394 rendelet,
 
 b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról,
 

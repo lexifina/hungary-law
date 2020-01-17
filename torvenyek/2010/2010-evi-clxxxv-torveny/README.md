@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2019-08-01 | 2019. évi LXIII. törvény | 2010-185-00-00.30 |
 | 2019-12-31 | 2019. évi CVI. törvény | 2010-185-00-00.31 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2010-185-00-00.32 |
+| 2020-01-17 | 2019. évi LXVII. törvény | 2010-185-00-00.33 |
