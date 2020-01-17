@@ -1,4 +1,4 @@
-18/B. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2001/83/EK európai parlamenti és tanácsi irányelvnek a – 2004/27/EK irányelvvel módosított – 86–100. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében
+18/B. § (1) A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a 2001/83/EK európai parlamenti és tanácsi irányelvnek a – 2004/27/EK irányelvvel módosított – 86–100. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében
 
 a) a 18/A. § (1) bekezdése szerinti esetekben – a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti hatáskör-megosztásban – a fogyasztóvédelmi hatóság, illetve a Gazdasági Versenyhivatal,
 
