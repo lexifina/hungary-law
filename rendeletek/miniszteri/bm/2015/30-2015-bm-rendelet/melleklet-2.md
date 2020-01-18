@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^23]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^24]
 
 Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -6,7 +6,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 1. Központi szervnél
 
-## 9K02877M_0
+## 0X00180M_0
 
 |  | A | B | C | D | E |
 
@@ -40,7 +40,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 2. Területi szervnél
 
-## 9K02877M_1
+## 0X00180M_1
 
 |  | A | B | C | D | E |
 
@@ -72,7 +72,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 3. Helyi szervnél
 
-## 9K02877M_2
+## 0X00180M_2
 
 |  | A | B | C | D | E |
 
@@ -98,7 +98,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_3
+## 0X00180M_3
 
 |  | A | B | C | D | E |
 
@@ -250,7 +250,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_4
+## 0X00180M_4
 
 |  | A | B | C | D | E |
 
@@ -326,9 +326,9 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 36. | bűnügyi segédelőadó | 100 |  |
 
-| 37. | A | objektumőr | 50* 100 |  |
+| 37. | A | objektumőr | 75* 100 |  |
 
-| 38. | járőrtárs | 50* |  |
+| 38. | járőrtárs | 75* |  |
 
 | 39. | helyi | E | őrparancsnok | 100 |  |
 
@@ -396,15 +396,15 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 70. | motorcsónakvezető | 100 |  |
 
-| 71. | objektumőr | 50* 100 |  |
+| 71. | objektumőr | 75* 100 |  |
 
-| 72. | gépjárművezető | 100 | 50 |
+| 72. | gépjárművezető | 100 | 75 |
 
 | 73. | bűnügyi fogalmazó | 100 |  |
 
-| 74. | járőrtárs | 50* |  |
+| 74. | járőrtárs | 75* |  |
 
-## 50* Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 50%.
+## 75* Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 75%.
 
 ## 125**: A szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 125%.
 
@@ -418,7 +418,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_5
+## 0X00180M_5
 
 |  | A | B | C | D | E |
 
@@ -438,7 +438,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_6
+## 0X00180M_6
 
 |  | A | B | C | D |
 
@@ -460,7 +460,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_7
+## 0X00180M_7
 
 |  | A | B | C | D |
 
@@ -488,7 +488,7 @@ V. Rendőrségi Oktatási és Kiképző Központ
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_8
+## 0X00180M_8
 
 |  | A | B | C | D | E |
 
@@ -508,7 +508,7 @@ V. Rendőrségi Oktatási és Kiképző Központ
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_9
+## 0X00180M_9
 
 |  | A | B | C | D |
 
@@ -532,7 +532,7 @@ V. Rendőrségi Oktatási és Kiképző Központ
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_10
+## 0X00180M_10
 
 |  | A | B | C | D |
 
@@ -552,7 +552,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_11
+## 0X00180M_11
 
 |  | A | B | C | D | E |
 
@@ -598,7 +598,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 2. Tiszti szolgálati beosztások
 
-## 9K02877M_12
+## 0X00180M_12
 
 |  | A | B | C | D |
 
@@ -670,7 +670,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 3. Tiszthelyettesi szolgálati beosztások
 
-## 9K02877M_13
+## 0X00180M_13
 
 |  | A | B | C | D |
 
@@ -766,7 +766,7 @@ VII. Budapesti Rendőr-főkapitányság
 
 a) Területi szervnél
 
-9K02877M_14
+0X00180M_14
 
 |  | A | B | C | D | E |
 
@@ -794,7 +794,7 @@ a) Területi szervnél
 
 b) Helyi szervnél
 
-9K02877M_15
+0X00180M_15
 
 |  | A | B | C | D | E |
 
@@ -816,7 +816,7 @@ b) Helyi szervnél
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02877M_16
+## 0X00180M_16
 
 |  | A | B | C | D | E |
 
@@ -920,7 +920,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 2. Tiszthelyettesi szolgálati beosztások
 
-## 9K02877M_17
+## 0X00180M_17
 
 |  | A | B | C | D | E |
 
@@ -972,9 +972,9 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 24. | bűnügyi segédelőadó | 125 200*** |  |
 
-| 25. | A | objektumőr | 75* 125 |  |
+| 25. | A | objektumőr | 100* 125 |  |
 
-| 26. | járőrtárs | 75* |  |
+| 26. | járőrtárs | 100* |  |
 
 | 27. | helyi | E | őrparancsnok | 125 |  |
 
@@ -1028,15 +1028,15 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 51. | motorcsónak-vezető | 125 |  |
 
-| 52. | objektumőr | 75* 125 |  |
+| 52. | objektumőr | 100* 125 |  |
 
-| 53. | gépjárművezető | 125 | 75 |
+| 53. | gépjárművezető | 125 | 100 |
 
 | 54. | bűnügyi fogalmazó | 125 |  |
 
-| 55. | járőrtárs | 75* |  |
+| 55. | járőrtárs | 100* |  |
 
-## 75*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 75%.
+## 100*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 100%.
 
 ## 150**: A szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 150%.,
 
@@ -1094,4 +1094,4 @@ VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
 | 5. | B | gépjárművezető |  | 100 |
 
-[^23]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a szerint módosított szöveg.
+[^24]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja szerint módosított szöveg.

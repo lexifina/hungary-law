@@ -1,4 +1,6 @@
-1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^22]
+## 19. §[^22] E rendeletnek a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet, valamint a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet módosításáról szóló 2/2020. (I. 17.) BM rendelettel megállapított rendelkezéseit visszamenőlegesen 2020. január 1-jétől kell alkalmazni.
+
+1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^23]
 
 A szolgálati beosztások besorolásához szükséges munkakör-értékelés végrehajtásának módszertana és eljárási rendje
 
@@ -108,4 +110,5 @@ II. Eljárásrend
 
 4. Ha indokolt az új szolgálati beosztás létrehozása, a Belügyminisztérium humánigazgatási szerve javaslatot tesz a rendszeresített szolgálati beosztások módosítására, az erre vonatkozó jogszabály előkészítésére.
 
-[^22]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 19. §-t a 2/2020. (I. 17.) BM rendelet 1. §-a iktatta be.
+[^23]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.

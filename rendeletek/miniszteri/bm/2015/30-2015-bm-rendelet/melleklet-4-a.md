@@ -156,6 +156,6 @@
 
 ## 500** A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
 
-4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^26]
+4/A. melléklet a 30/2015. (VI. 16.) BM rendelethez[^27]
 
-[^26]: A 4/A. mellékletet a 20/2019. (V. 15.) BM rendelet 8. §-a iktatta be.
+[^27]: A 4/A. mellékletet a 20/2019. (V. 15.) BM rendelet 8. §-a iktatta be.
