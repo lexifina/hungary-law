@@ -4,7 +4,7 @@
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint a 381. § szerint számított változó díj összege.
 
-(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység ötvenezer forint.
+(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.
 
 (4) A szorzószám
 
