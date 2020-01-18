@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2020-01-01 | 2019. évi CXVIII. törvény | 2013-237-00-00.51 |
 | 2020-01-10 | 2019. évi CXIX. törvény | 2013-237-00-00.52 |
 | 2020-01-17 | 2019. évi LXVII. törvény | 2013-237-00-00.53 |
+| 2020-01-18 | 2019. évi CXVIII. törvény | 2013-237-00-00.54 |
