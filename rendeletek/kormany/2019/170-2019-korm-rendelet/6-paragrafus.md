@@ -1,4 +1,4 @@
-## 5. §[^5]
+## 5. §[^10]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. §, a 2. § (2) és (3) bekezdése, valamint a 4. § (1) bekezdése 2020. január 17-én lép hatályba.
 
-[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
