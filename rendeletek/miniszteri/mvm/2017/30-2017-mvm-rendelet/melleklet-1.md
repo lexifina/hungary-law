@@ -1,4 +1,4 @@
-## 48. §[^5]
+## 48. §[^6] E rendeletnek az Információs Hivatal hivatásos állományú tagjainak illetményéről, juttatásairól, valamint a folyósítás és költségtérítés szabályairól szóló 30/2017. (XI. 28.) MvM rendelet módosításáról szóló 1/2020. (I. 17.) KKM rendelettel megállapított rendelkezéseit 2020. január 1-jétől kell alkalmazni.
 
 1. melléklet a 30/2017. (XI. 28.) MvM rendelethez
 
@@ -26,4 +26,4 @@ A ruházati utánpótlási ellátmány terhére számla ellenében elszámolhat�
 
 | 10. | Női sapka, sál, kesztyű, kendő, öv |
 
-[^5]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1/2020. (I. 17.) KKM rendelet 2. §-a iktatta be.
