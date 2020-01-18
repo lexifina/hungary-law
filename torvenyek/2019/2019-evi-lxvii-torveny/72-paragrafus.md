@@ -1,9 +1,7 @@
-72. § Az Fgytv.
+72. §
 
 a)
 
-b) 47. § (14) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendeletből” szövegrész helyébe az „az (EU) 2017/2394 rendeletből”,
+b)
 
-c) 51/A. § (1) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „az (EU) 2017/2394 rendelet”
-
-szöveg lép.
+c)
