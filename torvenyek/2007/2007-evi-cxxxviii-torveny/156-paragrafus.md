@@ -1,4 +1,4 @@
-156. § (1) Az alapdíj az alapdíjegység és a (2) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység ötvenezer forint.
+156. § (1) Az alapdíj az alapdíjegység és a (2) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.
 
 (2) A szorzószám
 
