@@ -1,4 +1,4 @@
-## 45. §[^52] A 46–48/E. §, továbbá a Hjt. 247/K. § (1) bekezdése szerinti kiegészítő illetmény a Hjt. 2. § 41. pontja alkalmazásában rendszeres kiegészítő illetménynek minősül.
+## 45. §[^52] A 46–48/F. §, továbbá a Hjt. 247/K. § (1) bekezdése szerinti kiegészítő illetmény a Hjt. 2. § 41. pontja alkalmazásában rendszeres kiegészítő illetménynek minősül.
 
 ## 27. A bérminimum kiegészítő illetmény
 
@@ -8,4 +8,4 @@
 
 (3) A (2) bekezdésben foglaltaktól eltérően meg kell szüntetni az állomány tagja bérminimum kiegészítő illetményre való jogosultságát, ha a Hjt. 122. § (6) bekezdése szerinti illetményelemek együttes összegének növekménye eléri vagy meghaladja a korábban megállapított bérminimum kiegészítő illetmény összegét.
 
-[^52]: A 45. § az 1/2018. (I. 26.) HM rendelet 42. § a) pontja szerint módosított szöveg.
+[^52]: A 45. § az 1/2020. (I. 17.) HM rendelet 9. § a) pontja szerint módosított szöveg.

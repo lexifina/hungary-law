@@ -1,4 +1,4 @@
-## 62. §[^103]
+## 62. §[^107]
 
 ## V. Fejezet
 
@@ -6,19 +6,19 @@
 
 ## 40. A túlszolgálat díjazása
 
-63. § (1)[^104] A (2) bekezdés szerinti állomány kivételével az állomány vezetői beosztást betöltő tagja által teljesített túlszolgálatért a Hjt. 104. § (1)–(3) bekezdése szerint állapítható meg szabadidő vagy díjazás.
+63. § (1)[^108] A (2) bekezdés szerinti állomány kivételével az állomány vezetői beosztást betöltő tagja által teljesített túlszolgálatért a Hjt. 104. § (1)–(3) bekezdése szerint állapítható meg szabadidő vagy díjazás.
 
-(2)[^105] A honvédelmi szervezet állományilletékes parancsnoka és helyettese, a Hjt. 5. melléklete szerinti 16. vagy annál magasabb besorolási kategóriába tartozó vezetői beosztást betöltők, a Hjt. 6. melléklete szerinti felsővezetői beosztást betöltők, valamint az 1. § (1) bekezdés a) pont ac) alpontja és b)–d) pontja szerinti vezénylő zászlósi beosztást betöltők által teljesített túlszolgálatért sem szabadidő, sem díjazás nem állapítható meg.
+(2)[^109] A honvédelmi szervezet állományilletékes parancsnoka és helyettese, a Hjt. 5. melléklete szerinti 16. vagy annál magasabb besorolási kategóriába tartozó vezetői beosztást betöltők, a Hjt. 6. melléklete szerinti felsővezetői beosztást betöltők, valamint az 1. § (1) bekezdés a) pont ac) alpontja és b)–d) pontja szerinti vezénylő zászlósi beosztást betöltők által teljesített túlszolgálatért sem szabadidő, sem díjazás nem állapítható meg.
 
-(3)[^106]
+(3)[^110]
 
-(4)[^107]
+(4)[^111]
 
-(5)[^108]
+(5)[^112]
 
-[^103]: A 62. § a 88. § alapján hatályát vesztette.
-[^104]: A 63. § (1) bekezdése a 84. § (1) bekezdése alapján módosított szöveg.
-[^105]: A 63. § (2) bekezdése a 13/2015. (XII. 3.) HM rendelet 4. § d) pontja szerint módosított szöveg.
-[^106]: A 63. § (3) bekezdése a 88. § alapján hatályát vesztette.
-[^107]: A 63. § (4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^108]: A 63. § (5) bekezdése a 88. § alapján hatályát vesztette.
+[^107]: A 62. § a 88. § alapján hatályát vesztette.
+[^108]: A 63. § (1) bekezdése a 84. § (1) bekezdése alapján módosított szöveg.
+[^109]: A 63. § (2) bekezdése a 13/2015. (XII. 3.) HM rendelet 4. § d) pontja szerint módosított szöveg.
+[^110]: A 63. § (3) bekezdése a 88. § alapján hatályát vesztette.
+[^111]: A 63. § (4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^112]: A 63. § (5) bekezdése a 88. § alapján hatályát vesztette.
