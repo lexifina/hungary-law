@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-135-00-00
 | 2019-07-01 | 2019. évi LX. törvény | 2013-135-00-00.23 |
 | 2019-12-18 | 2019. évi CXIV. törvény | 2013-135-00-00.24 |
 | 2020-01-01 | 2019. évi CXIV. törvény | 2013-135-00-00.25 |
+| 2020-01-18 | 2019. évi CXVIII. törvény | 2013-135-00-00.26 |
