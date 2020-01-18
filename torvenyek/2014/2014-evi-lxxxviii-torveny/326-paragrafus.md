@@ -2,10 +2,10 @@
 
 326. § (1) A biztosító által fizetendő változó díj éves mértéke
 
-a) a szavatolótőke-szükséglet 1,8 ezrelékének, a hatodik rész hatálya alá tartozó biztosító esetében a minimális szavatolótőke-szükséglet 3,8 ezrelékének, és
+a) a szavatolótőke-szükséglet 3,8 ezrelékének, a hatodik rész hatálya alá tartozó biztosító esetében a minimális szavatolótőke-szükséglet 3,8 ezrelékének, és
 
-b) a számviteli biztosítástechnikai tartalékok könyv szerinti értéke 0,25 ezrelékének
+b) a számviteli biztosítástechnikai tartalékok könyv szerinti értéke 0,35 ezrelékének
 
 összege.
 
-(2) Ha az Európai Unió másik tagállamában székhellyel rendelkező biztosító magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a biztosító magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,1 ezreléke.
+(2) Ha az Európai Unió másik tagállamában székhellyel rendelkező biztosító magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a biztosító magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezreléke.

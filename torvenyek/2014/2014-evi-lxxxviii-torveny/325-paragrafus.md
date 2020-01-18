@@ -2,7 +2,7 @@
 
 325. § (1) Az alapdíj az alapdíjegység és a (3) bekezdés szerinti szorzószámok szorzata.
 
-(2) Az alapdíjegység ötvenezer forint.
+(2) Az alapdíjegység hetvenötezer forint.
 
 (3) A szorzószám
 
