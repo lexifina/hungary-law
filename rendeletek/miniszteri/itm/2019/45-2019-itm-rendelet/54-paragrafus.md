@@ -1,4 +1,4 @@
-## 53. §[^53]
+## 53. §[^52]
 
 ## 17. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 17. §, valamint a 7. melléklet a kihirdetését követő 31. napon lép hatályba.
 
-[^53]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

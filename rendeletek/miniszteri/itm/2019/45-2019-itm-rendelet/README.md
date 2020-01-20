@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-45-20-7
 | --- | --- | --- |
 | 2020-01-01 | 2019-45-20-7Q.1 | 45/2019. (XII. 20.) ITM rendelet |
 | 2020-01-02 | 2019-45-20-7Q.2 | 2010: CXXX. törvény |
+| 2020-01-20 | 2019-45-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
