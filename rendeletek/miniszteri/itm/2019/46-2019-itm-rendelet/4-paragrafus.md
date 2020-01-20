@@ -1,0 +1,1 @@
+## 3. § Az 1. § (2) bekezdésétől eltérően a vasúti vizsgaközpont, a vasúti társaság, a képzőszervezet vagy a regisztrált szervezet megállapodása alapján a vasúti társaság 2020. június 30. napjáig jogosult a munkavállalók vizsgáztatásának díját havonta utólag a megállapodásban rögzített feltételek szerint megfizetni.
