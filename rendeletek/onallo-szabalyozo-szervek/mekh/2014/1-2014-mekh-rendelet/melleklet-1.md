@@ -1,4 +1,4 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^15]
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^16][^17]
 
 Igazgatási szolgáltatási díjak
 
@@ -488,11 +488,19 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 146 | A VET. 145. § (4) bekezdése szerinti egyetemes szolgáltatási árszabások árának és áralkalmazási feltételeinek módosítására és visszavonására vonatkozó kérelem elbírálása | 100 |
 
-| 147 | Elektromos gépjármű töltésére vonatkozó engedély |  |
+| 147 | Elektromos gépjármű töltésével kapcsolatos eljárások |  |
 
-| 148 | a) kiadására vonatkozó kérelem elbírálása | 500 |
+| 148 | a) üzemeltetési engedély kiadására vonatkozó kérelem elbírálása | 500 |
 
-| 149 | b) módosítására vonatkozó kérelem elbírálása az engedélyes személyében bekövetkező változás esetén | 100 |
+|  | b) módosítása az engedélyes személyében bekövetkező változás esetén | 100 |
+
+| 149 | a) elektromobilitás szolgáltatás nyilvántartásba vétele iránti kérelem | 100 |
+
+|  | b) elektromobilitás szolgáltató nyilvántartott adataiban bekövetkezett változás bejelentése | 20 |
+
+|  | c) nyilvántartás módosítása névváltozás vagy székhelyváltozás, illetve az ezekből következő cégjegyzékszám- és adószámváltozás esetén | 10 |
+
+|  | d) nyilvántartásból való törlés a tevékenységgel való felhagyás esetén | 50 |
 
 | 150 | Villamosenergia-tároló |  |
 
@@ -742,4 +750,5 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^15]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése szerint módosított szöveg.

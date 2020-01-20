@@ -6,4 +6,6 @@
 
 (4) A bevallási kötelezettséget az 1. § (1) bekezdés a)–c) pontja szerinti kötelezett esetében a Hivatal által kiadott engedély véglegessé válásától az engedély időbeli hatályának megszűnéséig terjedő időtartamra vonatkozóan, vagy az engedély visszavonásáról szóló határozatban megjelölt időpontig, ennek hiányában a visszavonást elrendelő határozat véglegessé válásának napjáig terjedő időtartamra vonatkozóan kell teljesíteni.
 
-(5) Az 1. § (1) bekezdés a)–c) pontja szerinti kötelezett átalakulása esetén a kötelezett az átalakulás időpontjáig terjedő időtartamra vonatkozóan teljesíti a bevallási kötelezettséget. Az átalakulást követően az engedélyesi tevékenységet végző köteles az e rendelet szerinti bevallást teljesíteni.
+(5)[^3] Az 1. § (1) bekezdés a)–c) pontja szerinti kötelezett átalakulása, egyesülése vagy szétválása esetén a kötelezett az átalakulás, egyesülés vagy szétválás időpontjáig terjedő időtartamra vonatkozóan teljesíti a bevallási kötelezettséget. Az átalakulást, egyesülést vagy szétválást követően az engedélyesi tevékenységet végző köteles az e rendelet szerinti bevallást teljesíteni.
+
+[^3]: A 2. § (5) bekezdése a 17/2019. (XII. 20.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
