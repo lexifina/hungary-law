@@ -4,16 +4,13 @@
 
 (2) Életvédelmi és kombinált védelmi jelleg esetén, ha a teljes körű védelmet jogszabály, tűzvédelmi hatóság nem írja elő, legalább a menekülési útvonal védelmét biztosítani kell.
 
-(3) Teljes körű védelmet kell biztosítani
+(3)[^325] Teljes körű védelmet kell biztosítani
 
-a) a közösségi rendeltetés esetén új épületekben,
+a) a közösségi rendeltetés esetén, és
 
-b) a meglévő közösségi épületben és
+b) ahol azt a tűzvédelmi hatóság előírja.
 
-c) ahol azt
+(4)[^326] A tűzjelző berendezés telepítése szempontjából alacsony kockázatú területeken nem szükséges automatikus érzékelőket elhelyezni.
 
-ca) az építményben tartózkodók biztonságának érdekében,
-
-cb) a tűzoltóság vonulási távolságára tekintettel vagy
-
-cc) a létfontosságú rendszerek és létesítmények védelmében
+[^325]: A 163. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 81. § (1) bekezdésével megállapított szöveg.
+[^326]: A 163. § (4) bekezdését a 30/2019. (VII. 26.) BM rendelet 81. § (2) bekezdése iktatta be.

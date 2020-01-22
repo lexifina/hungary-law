@@ -1,23 +1,13 @@
-11. § (1) Azonos kockázati egységbe helyezhetőek
+11. §[^55] (1) A kockázati egység kiterjedésének 10. § (2) bekezdés a)–c) pontja szerinti meghatározása esetén azonos kockázati egységbe helyezhetőek
 
 a) a lakások egymással,
 
-b) a lakások és a közösségi rendeltetésű önálló rendeltetési egységek, ha a közösségi rendeltetésű önálló rendeltetési egységek
+b) a lakó, a közösségi, a tárolási, az ipari és a mezőgazdasági rendeltetésű önálló rendeltetési egységek egymással, ha
 
-ba) 1. mellékletben foglalt 1. táblázat 4. sora szerinti kockázata NAK vagy AK,
+ba) az 1. mellékletben foglalt 4. táblázat szerinti feltételek teljesülnek, és
 
-bb) 1. mellékletben foglalt 2–4. táblázat szerinti kockázata NAK és
+bb) beépített tűzjelző vagy tűzoltó berendezés létesítési kötelezettsége esetén a berendezést a befogadó tűzszakasz teljes területén, a lakások kivételével kiépítik.
 
-bc) beépített tűzjelző vagy tűzoltó berendezéssel való ellátottság esetén annak kiépítettsége a kockázati egység teljes területén azonos,
+(2) Az (1) bekezdés szerinti esetekben a kockázati egység alaprendeltetése megegyezik a kockázati egységen belüli, azonos alaprendeltetésű önálló rendeltetési egységek alaprendeltetésenként összesített alapterülete alapján a legnagyobb területet elfoglaló alaprendeltetéssel, ha annak alapterülete meghaladja a teljes alapterület 50%-át. Egyéb esetben a kockázati egység vegyes alaprendeltetésű.
 
-c) a lakások a közösségi és az ipari rendeltetésű önálló rendeltetési egységekkel, ha
-
-ca) a lakások 1. mellékletben foglalt 1. táblázat szerinti kockázata NAK vagy AK,
-
-cb) a közösségi rendeltetésű és az ipari rendeltetésű önálló rendeltetési egységek 1. mellékletben foglalt 1. táblázat szerinti kockázata NAK,
-
-cc) az ipari rendeltetésű önálló rendeltetési egység alapterülete legfeljebb 100 m2 és
-
-cd) beépített tűzjelző vagy tűzoltó berendezéssel való ellátottság esetén annak kiépítettsége a kockázati egység teljes területén azonos.
-
-(2) Az (1) bekezdés szerinti esetekben a kockázati egység alaprendeltetése megegyezik a kockázati egységen belüli, azonos alaprendeltetésű önálló rendeltetési egységek alaprendeltetésenként összesített alapterülete alapján a legnagyobb területet elfoglaló alaprendeltetéssel.
+[^55]: A 11. § a 30/2019. (VII. 26.) BM rendelet 6. §-ával megállapított szöveg.

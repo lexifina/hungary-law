@@ -1,3 +1,5 @@
-53. § (1) A menekülési útvonal legkisebb szabad szélességét és a menekülési útvonalon beépített ajtók legkisebb szabad belméretét annak teljes hosszán az adott menekülési útvonalon menekülő személyek létszámának függvényében, a 7. mellékletben foglalt 3. táblázat alapján kell meghatározni.
+53. §[^162] (1) Csúszda, felvonó – kivéve a menekülési felvonót –, mozgólépcső, valamint 25%-nál meredekebb lejtő kiürítésre nem tervezhető, kivéve, ha jogszabály másként nem rendelkezik.
 
-(2) A menekülési útvonal ajtóinak és az 50 fő feletti befogadóképességű helyiség menekülésre szolgáló ajtóinak legkisebb szabad magassága 1,95 m.
+(2) Vészlétrát, vészhágcsót menekülés céljára ipari, mezőgazdasági vagy tárolási rendeltetés esetén, valamint gépészeti helyiség, gépészeti tér esetén lehet használni.
+
+[^162]: Az 53. § a 30/2019. (VII. 26.) BM rendelet 39. §-ával megállapított szöveg.

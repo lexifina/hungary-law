@@ -16,6 +16,8 @@ a) ellenőrizni kell a szükséges iratok meglétét és
 
 b) el kell végezni az éves rendszeres felülvizsgálatot.
 
-(5) Dokumentálás keretében az ellenőrzés, a felülvizsgálat során tapasztaltakat az üzemeltetési naplóba rögzíteni kell. A berendezés működésével, működőképességével kapcsolatban tett észrevételeket, javaslatokat az érintettek – a tűzjelző központ felügyeletét ellátó, az ellenőrzéssel megbízott, a felülvizsgálatot, karbantartást végző személy –, ha azok további intézkedést igényelnek, írásban jelezik az intézkedésre jogosult felé.
+(5)[^465] Dokumentálás keretében az ellenőrzés, a felülvizsgálat során tapasztaltakat az üzemeltetési naplóba rögzíteni kell. A berendezés működésével, működőképességével kapcsolatban tett észrevételeket, javaslatokat az érintettek – a tűzjelző központ felügyeletét ellátó, az üzemeltetői ellenőrzést végző személy, a jogosult személy –, ha azok további intézkedést igényelnek, írásban jelezik az intézkedésre jogosult felé.
 
 (6) A napi ellenőrzés elektronikusan is lehet rögzíteni, ha az alkalmas a felelősség nyomon követésére.
+
+[^465]: A 258. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 164. pontja szerint módosított szöveg.

@@ -4,18 +4,30 @@
 
 ## 81. A létesítés általános szabályai
 
-161. § (1) A részegységek elhelyezését és jelölését a gyártói utasításban foglaltak szerint kell elvégezni.
+161. §[^322] (1) A beépített tűzjelző berendezés:
 
-(2) A beépített tűzjelző berendezést úgy kell megtervezni, hogy a vezetékek vagy csatlakozások egyszeres és kétszeres hibáinak hatása korlátozott legyen.
+a) a tüzet annak korai szakaszában jelezze,
 
-(3) A vezetékrendszer nyomvonala, kialakítása tegye lehetővé fizikai sérülés, az elektromágneses zavarok és a tűz működést befolyásoló hatásainak korlátozását.
+b) a jelzést megbízhatóan továbbítsa, és késedelem nélkül vagy jóváhagyott késleltetéssel, mindenki által érzékelhetően, egyértelmű, folyamatos, figyelemfelhívó tűzriasztás formájában jelenítse meg,
 
-(4) A beépített tűzjelző berendezés tűzjelzéseinek – állandó felügyeleti helyen történő beazonosítása érdekében – az érzékelők, kézi jelzésadók helyét szövegesen tartalmazó zónakimutatást kell készíteni és az állandó felügyeleti helyen kell elhelyezni, a távfelügyeleti központ kivételével.
+c) legyen érzéketlen mindazokra a behatásokra, amelyekre nem szabad jeleznie,
 
-(5) A beépített tűzjelző berendezés riasztást megjelenítő részegységeit (hangjelző, fényjelző, hangbemondás) a helyiségben, tűzszakaszban, épületben, építményben tartózkodók számára jól beazonosíthatóan kell elhelyezni, hogy más jelzésektől elkülöníthetően jelezzék a tűzriasztást.
+d) szükség esetén végezze el a kiürítést segítő, a tűz terjedését gátló, valamint a tűz oltását biztosító berendezések, eszközök vezérlését, és
 
-(6) A (4) bekezdésben előírtakon túl, a helyszín beazonosíthatóságáról grafikus megjelenítéssel kell gondoskodni abban az esetben, ha
+e) a lehető legrövidebb időn belül és egyértelműen jelezze a berendezés meghibásodását, működési zavarát.
 
-a) az épület tűzjelzővel védett alapterülete a 10 000 m2-t meghaladja vagy
+(2) A beépített tűzjelző berendezés részegységeit úgy kell elhelyezni, hogy
 
-b) az épületben létesített automatikus érzékelők és kézi jelzésadók száma összesen több mint 1000.
+a) a távkezelő, távkijelző egység, annak hiányában a tűzjelző központ a kezelőszemélyzet és a tűzoltóság számára könnyen elérhető legyen,
+
+b) az automatikus érzékelőket a felügyelt tűzjellemzők jelentősebb hígulás, csillapítás vagy késedelem nélkül elérjék,
+
+c) a kézi jelzésadók észlelhetőek, felismerhetőek, az ott tartózkodó személyek által könnyen elérhetőek, a kiürítési útvonalak és a kijáratok közelében működtethetőek legyenek,
+
+d) a tűzriasztást megjelenítő részegységek jelzése az ott tartózkodó személyek által észlelhető, más jelzésektől egyértelműen elkülöníthető legyen, figyelembe véve a személyek éberségét és a környezet más hangforrásait is,
+
+e) a részegységek a szükséges mértékben hozzáférhetőek legyenek, felülvizsgálatuk, karbantartásuk, javításuk lehetséges legyen.
+
+(3) Az automatikus érzékelőket, kézi jelzésadókat, hangjelzőket, fényjelzőket, vezetékágakat, elosztókat azonosító jelöléssel kell ellátni.
+
+[^322]: A 161. § a 30/2019. (VII. 26.) BM rendelet 78. §-ával megállapított szöveg.

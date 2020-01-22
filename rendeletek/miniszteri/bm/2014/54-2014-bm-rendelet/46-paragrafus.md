@@ -1,5 +1,3 @@
-## legyen.
-
 ## 22. Kényszertartózkodásra szolgáló építmény
 
 46. § (1) Építményen belül az adott tűzszakasz befogadóképességére méretezett védett teret kell kialakítani.

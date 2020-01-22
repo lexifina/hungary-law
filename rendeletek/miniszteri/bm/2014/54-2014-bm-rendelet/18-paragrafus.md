@@ -14,7 +14,7 @@ c) számítással
 
 (3) Az épülettől tartandó tűztávolságot
 
-a) az épület homlokzatának vagy bármely, a homlokzati síkból kiugró épületrésznek alaprajzi vetületétől,
+a)[^78] az épület homlokzatának, továbbá bármely, a homlokzati síkból kiugró, a tűzterjedésben szerepet játszó épületrésznek alaprajzi vetületétől,
 
 b) az épületen kívüli, azzal összeköttetésben álló technológiai berendezés esetén annak alaprajzi vetületétől és
 
@@ -25,3 +25,5 @@ c) az épülettel vagy annak részével közös tűzszakaszba tartozó szabadté
 (4) A tárolási egységtől tartandó tűztávolságot a tárolásra szolgáló, e célra kijelölt terület oldalhatárától, a tárolt anyag legkisebb alaprajzi vetületétől kell mérni.
 
 (5) Az épületen kívüli, azzal összeköttetésben nem álló technológiai berendezés esetén a tűztávolság szükségességét, mértékét a tűzvédelmi dokumentáció készítéséért felelős személy határozza meg.
+
+[^78]: A 18. § (3) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 12. §-ával megállapított szöveg.

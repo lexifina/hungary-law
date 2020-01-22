@@ -1,17 +1,42 @@
-## 176. § E fejezet a létesítmények, építmények, gépek, berendezések, eszközök és – a robbanó és robbantó anyagok kivételével – az anyagok használatára, technológiák alkalmazására vonatkozó tűzvédelmi rendelkezéseket állapítja meg.
+## 176. §[^341] E fejezet a létesítmények, építmények, szabad terek, gépek, berendezések, eszközök és – a robbanó és robbantó anyagok kivételével – az anyagok használatára, technológiák alkalmazására vonatkozó tűzvédelmi rendelkezéseket állapítja meg.
 
 ## 89. A használatra vonatkozó általános tűzvédelmi szabályok
 
-177. § (1) A Tűzvédelmi Műszaki Megfelelőségi Kézikönyvet az üzemeltetőnek vagy társasház esetén a közös képviseletnek az adott létesítmény, épület területén kell tartania.
+177. § (1)[^342] Az üzemeltetőnek, tulajdonosnak, bérlőnek a használat, a tevékenység végzése során gondoskodnia kell arról, hogy
 
-(2) Az építményt, építményrészt, a vegyes rendeltetésű épületet, szabadteret csak a használatbavételi, üzemeltetési, működési és telephelyengedélyben megállapított rendeltetéshez tartozó tűzvédelmi követelményeknek megfelelően szabad használni.
+a) az építmény, építményrész létesítésekor hatályos előírások által elvárt biztonsági szintet a használat és az átalakítások, változtatások során fenntartsa,
 
-(3) A termelést, a használatot, a tárolást, a forgalomba hozatalt, valamint az egyéb tevékenységet (a továbbiakban együtt: tevékenység) csak a tűzvédelmi követelményeknek megfelelő szabadtéren, helyiségben, tűzszakaszban, rendeltetési egységben, építményben szabad folytatni.
+b) a használati tűzvédelmi előírásokat betartsa,
+
+c) tevékenységével tüzet, robbanást, robbanásveszélyt ne okozzon,
+
+d) folyamatosan biztosítsa a tűz észlelésének, jelzésének, oltásának, a kiürítésnek, a tűzvédelmi berendezések, eszközök, felszerelések, tűzoltótechnikai eszközök működésének, hozzáférhetőségének, észlelhetőségének jogszabály vagy hatóság által előírt feltételeit,
+
+e) a tűzvédelmi célú dokumentumokat naprakész állapotban, hozzáférhető helyen tartsa,
+
+f) a tűzvédelmi célú jelölések észlelhetőségét, egyértelműségét fenntartsa, és
+
+g) a robbanás elleni védelmet, az alkalmazott berendezések robbanásbiztos kialakítását és működőképességét a robbanásveszélyes technológia teljes élettartama során fenntartsa.
+
+(2)[^343] Az építményt, építményrészt, a szabadteret csak a rendeltetésére vonatkozó tűzvédelmi követelményeknek megfelelően szabad használni.
+
+(3)[^344] A termelést, a használatot, a tárolást, a forgalomba hozatalt, forgalmazást, valamint az egyéb tevékenységet (a továbbiakban együtt: tevékenység) csak a tűzvédelmi követelményeknek megfelelő szabadtéren, helyiségben, tűzszakaszban, rendeltetési egységben, építményben szabad folytatni.
 
 (4) A helyiségben, építményben és szabadtéren csak az ott folytatott folyamatos tevékenységhez szükséges anyag és eszköz tartható.
 
-(5) Tűztávolságon belül tárolási tevékenység nem végezhető. Ezen területet a hulladékoktól, száraz aljnövényzettől mentesen kell tartani.
+(5)[^345] Tűztávolságon belül tárolási tevékenység nem végezhető, kivéve, ha a tárolt anyag mennyisége, minősége, elhelyezése nem növeli a tűz átterjedésének veszélyét. Ezen területet a hulladékoktól, száraz aljnövényzettől mentesen kell tartani.
 
-(6) A helyiségből, a szabadtérből, a gépről, a berendezésről, az eszközről, a készülékről a tevékenység során keletkezett robbanásveszélyes és tűzveszélyes osztályba tartozó anyagot, hulladékot folyamatosan, de legalább műszakonként, valamint a tevékenység befejezése után el kell távolítani.
+(6)[^346] A helyiségből, a szabadtérből, a gépről, a berendezésről, az eszközről, a készülékről a tevékenység során keletkezett fokozottan tűz- vagy robbanásveszélyes és mérsékelten tűzveszélyes osztályba tartozó anyagot, hulladékot folyamatosan, de legalább műszakonként, valamint a tevékenység befejezése után el kell távolítani.
 
-(7) I-II. tűzveszélyességi fokozatú folyadékkal, zsírral szennyezett hulladékot jól záró fedővel ellátott, nem tűzveszélyes anyagú edényben kell gyűjteni, majd erre a célra kijelölt helyen kell tárolni.
+(7)[^347] Fokozottan tűz- vagy robbanásveszélyes, mérsékelten tűzveszélyes osztályba tartozó folyadékkal, zsírral szennyezett hulladékot jól záró fedővel ellátott, nem tűzveszélyes anyagú edényben kell gyűjteni, majd erre a célra kijelölt helyen kell tárolni.
+
+(8)[^348] Robbanásveszélyes térben csak olyan készülék, eszköz, berendezés, erő- és munkagép helyezhető el és használható, amely az alkalmazási helyén a megállapított robbanásveszélyes zóna minőségének, valamint hőmérsékleti osztályának vagy mértékadó legmagasabb hőmérsékletének megfelel, és amit a robbanásvédelem szabályai szerint gyártottak, felülvizsgáltak, karbantartottak, javítottak.
+
+[^341]: A 176. § a 30/2019. (VII. 26.) BM rendelet 105. § 113. pontja szerint módosított szöveg.
+[^342]: A 177. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^343]: A 177. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^344]: A 177. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 114. pontja szerint módosított szöveg.
+[^345]: A 177. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 85. § (2) bekezdésével megállapított szöveg.
+[^346]: A 177. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 115. pontja szerint módosított szöveg.
+[^347]: A 177. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 116. pontja szerint módosított szöveg.
+[^348]: A 177. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 85. § (3) bekezdése iktatta be.

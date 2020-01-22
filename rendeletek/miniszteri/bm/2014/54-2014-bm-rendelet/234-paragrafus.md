@@ -1,7 +1,11 @@
 ## 116. Tárolás és forgalmazás kereskedelmi rendeltetés esetén
 
-234. § (1) Kereskedelmi egység területén a 17. mellékletben foglalt 1. táblázat szerinti mennyiségű, bontatlan csomagolású I-II. tűzveszélyességi fokozatú folyadék és robbanásveszélyes osztályú aeroszol tárolható, forgalmazható.
+234. § (1)[^436] Kereskedelmi egység területén a 17. mellékletben foglalt 1. táblázat szerinti mennyiségű, bontatlan csomagolású fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék és aeroszol tárolható, forgalmazható.
 
-(2) A vas-, barkács-, festék- és építőanyagot, háztartási cikket forgalmazó kereskedelmi egység, helyiségében az I-II. tűzveszélyességi fokozatú folyadék és robbanásveszélyes osztályú aeroszol legnagyobb megengedett mennyisége az (1) bekezdés szerinti mennyiség háromszorosa, ha a kereskedelmi egységet a szomszédos helyiségektől tűzgátló építményszerkezetek választják el.
+(2)[^437]
 
-(3) Pinceszinti kereskedelmi rendeltetésű helyiségben I-II. tűzveszélyességi fokozatú folyadék és robbanásveszélyes osztályú aeroszol nem tárolható és nem forgalmazható.
+(3)[^438] Pinceszinti kereskedelmi rendeltetésű helyiségben fokozottan tűz- vagy robbanásveszélyes osztályba tartozó folyadék és aeroszol nem tárolható és nem forgalmazható.
+
+[^436]: A 234. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja és 106. § 57. pontja szerint módosított szöveg.
+[^437]: A 234. § (2) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 58. pontja hatályon kívül helyezte.
+[^438]: A 234. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 108. pontja és 106. § 57. pontja szerint módosított szöveg.

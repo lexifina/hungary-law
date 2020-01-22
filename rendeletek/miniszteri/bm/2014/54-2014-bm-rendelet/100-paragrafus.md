@@ -1,1 +1,0 @@
-## 99. § Azon ipari vagy tárolási alaprendeltetésű kockázati egység helyiségében, ahol robbanásveszélyes osztályba tartozó anyag gyártása, feldolgozása, tárolása történik, a robbanási túlnyomás levezetése céljából hasadó vagy hasadó-nyíló felületet kell létesíteni.

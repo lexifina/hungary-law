@@ -1,9 +1,13 @@
 ## 75. Elektrosztatikus feltöltődés és kisülés elleni védelem
 
-145. § (1) Ezen alcím hatálya nem terjed ki a technológiai berendezések elektrosztatikus feltöltődés elleni védelmére.
+145. §[^301] (1) Ezen alcímet nem kell alkalmazni azon technológiai berendezések elektrosztatikus feltöltődés elleni védelmére, amelyek a robbanásveszélyes környezetben történő alkalmazásra tanúsítással rendelkeznek.
 
-(2) Azokon a területeken, szabadtereken, robbanásveszélyes zónákban, ahol robbanásveszélyes osztályba tartozó anyagokat állítanak elő, dolgoznak fel, használnak – ide nem értve a kizárólag csak a fizikai jellemzők megváltozását –, tárolnak vagy forgalomba hoznak és az elektrosztatikus feltöltődés tüzet vagy robbanást okozhat, elektrosztatikus feltöltődés elleni védelmet kell biztosítani. A tervezés és kivitelezés során az elektrosztatikus gyújtás megakadályozása érdekében dokumentált védelmi intézkedéseket kell végrehajtani és meg kell határozni az elektrosztatikai kockázatot.
+(2) Azokon a területeken, szabadtereken, robbanásveszélyes zónákban – beleértve az (1) bekezdésben meghatározott berendezések környezetét is –, ahol robbanásveszélyes osztályba tartozó anyagokat állítanak elő, dolgoznak fel, használnak, tárolnak vagy forgalomba hoznak, és az elektrosztatikus feltöltődés tüzet vagy robbanást okozhat, elektrosztatikus feltöltődés elleni védelmet kell biztosítani. A tervezés és kivitelezés során az elektrosztatikus gyújtás megakadályozása érdekében dokumentált védelmi intézkedéseket kell végrehajtani, és fel kell mérni az elektrosztatikai kockázatot.
 
-(3) A villamos tervezés és kivitelezés során biztosítani kell az elektrosztatikai földelések megfelelő biztonságú és minőségű kialakítását az antisztatikus burkolatok, az elektrosztatikai célú potenciálkiegyenlítések számára minden olyan helyen, ahol az elektrosztatikus kisülés nem engedhető meg.
+(3) Nem szükséges az elektrosztatikai kockázat meghatározása, ha a létesítés során alkalmazott intézkedések nyomán a burkolatok levezetési ellenállásértéke nem haladja meg a 12. mellékletben foglalt 2. táblázatban rögzített határértékeket. A határértékek a 2 és 22 zónára vonatkoznak, az 1 és 21 zóna esetén azokat 50%-kal kell csökkenteni.
 
-(4) Az elektrosztatikus feltöltődés elleni védelem megfelelő, ha a tervezést, létesítést, üzemeltetést és karbantartást a vonatkozó műszaki követelmény szerint vagy azzal legalább egyenértékű biztonságot nyújtó módon végzik és az elektrosztatikus feltöltődés elleni védelmet a felülvizsgálatot követően a felülvizsgáló megfelelőnek minősíti.
+(4) A villamos tervezés és kivitelezés során biztosítani kell az elektrosztatikai földelések megfelelő biztonságú és minőségű kialakítását az antisztatikus burkolatok, az elektrosztatikai célú potenciálkiegyenlítések számára minden olyan helyen, ahol az elektrosztatikus kisülés nem engedhető meg.
+
+(5) Az elektrosztatikus feltöltődés elleni védelem megfelelő, ha a tervezést, létesítést, üzemeltetést és karbantartást a vonatkozó műszaki követelmény szerint vagy azzal legalább egyenértékű biztonságot nyújtó módon végzik, és az elektrosztatikus feltöltődés elleni védelmet a felülvizsgálatot követően a felülvizsgáló megfelelőnek minősíti.
+
+[^301]: A 145. § a 30/2019. (VII. 26.) BM rendelet 73. §-ával megállapított szöveg.

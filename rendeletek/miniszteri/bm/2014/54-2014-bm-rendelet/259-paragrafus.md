@@ -4,8 +4,10 @@
 
 (3) A felelős személy a meghatározott időszakonként szükséges ellenőrzéseket végrehajtja és a tapasztaltak figyelembevételével a hiányosságokat az intézkedésre jogosult vezető felé igazolt módon írásban jelzi.
 
-(4) A felülvizsgálatot, karbantartást végző személy a szolgáltatásra vonatkozó szerződésben foglaltak szerint meghatározott időnként a felülvizsgálatot, karbantartást végrehajtja, a tapasztaltak figyelembevételével a hiányosságokat az intézkedésre jogosult vezető felé igazolt módon írásban jelzi, az üzemeltető megbízása esetén a javításokat, cseréket elvégzi.
+(4)[^466] A jogosult személy a szolgáltatásra vonatkozó szerződésben foglaltak szerint meghatározott időnként a felülvizsgálatot, karbantartást végrehajtja, a tapasztaltak figyelembevételével a hiányosságokat az intézkedésre jogosult vezető felé igazolt módon írásban jelzi, az üzemeltető megbízása esetén a javításokat, cseréket elvégzi.
 
 (5) A felülvizsgálat és karbantartás szolgáltatására vonatkozó szerződéstől való eltérés, az abban foglaltak figyelmen kívül hagyása vagy megsértése esetén a tűzjelző berendezés nem tekinthető felülvizsgáltnak és karbantartottnak.
 
 (6) A beépített tűzjelző berendezés karbantartásának, szükség szerint javításának elvégzésre a jogszabályban, gyártó által kiadott utasításban foglaltak irányadók.
+
+[^466]: A 259. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 165. pontja szerint módosított szöveg.

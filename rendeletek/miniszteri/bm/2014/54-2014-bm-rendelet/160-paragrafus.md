@@ -1,3 +1,5 @@
+## 159. §[^321]
+
 160. § (1) Az üzembe helyezői nyilatkozat tartalmazza
 
 a) az üzembe helyező mérnök megállapítását arra vonatkozóan, hogy a berendezés megfelel a vonatkozó műszaki követelménynek vagy azokkal legalább egyenértékű biztonságot nyújt, továbbá a hatósági előírás, valamint a létesítéshez kapcsolódó egyeztetések során rögzített követelmények és az ezt tükröző elfogadott, engedélyezett tervdokumentáció szerint készült,
@@ -17,3 +19,5 @@ c) az ellenőrzésen résztvevők nevét és az adott létesítés során betöl
 d) az ellenőrzés és a jegyzőkönyvkészítés időpontját és helyét és
 
 e) az ellenőrzésen résztvevők aláírását.
+
+[^321]: A 159. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 43. pontja hatályon kívül helyezte.

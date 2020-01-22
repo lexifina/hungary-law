@@ -22,7 +22,7 @@ i) tömegtartózkodásra szolgáló helyiségben,
 
 j) ahol e rendelet előírja és
 
-k) ahol a tűzvédelmi szakhatóság a menekülés biztosítása érdekében előírja.
+k)[^302] ahol a tűzvédelmi hatóság a menekülés biztosítása érdekében előírja.
 
 (2) Kívülről vagy belülről megvilágított magasan, vagy ha nem lehetséges, középmagasan elhelyezett menekülési jeleket kell létesíteni
 
@@ -30,11 +30,7 @@ a) az AK, KK és MK osztályú épület menekülési útvonalán vagy
 
 b) a 100 fő feletti befogadóképességű helyiségben.
 
-(3) Alacsonyan telepített menekülési jeleket kell létesíteni – a füstmentes lépcsőházak kivételével – a magasan telepített biztonsági jelek kiegészítéseként
-
-a) az 1000 fő feletti befogadóképességű helyiség menekülési útvonalán vagy
-
-b) ahol e rendelet előírja.
+(3)[^303]
 
 (4) A (2) bekezdésben előírt menekülési jelek megvilágításának a használat időtartama alatt folyamatos üzeműnek kell lennie abban az épületrészben, ahol a menekülő személyek nem rendelkeznek helyismerettel.
 
@@ -44,8 +40,12 @@ a) tömegtartózkodásra szolgáló helyiségben és
 
 b) a nem menthető vagy előkészítéssel menthető személyek elhelyezésére szolgáló helyiségekben.
 
-(6) Menekülési útirányt jelző rendszert kell létesíteni
+(6)[^304] A tűzvédelmi hatósággal egyeztetett kialakítású menekülési útirányt jelző rendszert kell létesíteni a magasan telepített biztonsági jelek kiegészítéseként, ahol
 
-a) 3000 fő feletti befogadóképességű helyiség menekülési útvonalán és
+a) e rendelet vagy
 
-b) ott, ahol a tűzvédelmi szakhatóság a menekülés biztosítása, a füstfejlődés jellemzői alapján előírja.
+b) a tűzvédelmi hatóság a menekülés biztosítása, a füstfejlődés jellemzői alapján
+
+[^302]: A 146. § (1) bekezdés k) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 48. pontja szerint módosított szöveg.
+[^303]: A 146. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 38. pontja hatályon kívül helyezte.
+[^304]: A 146. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 74. §-ával megállapított szöveg.

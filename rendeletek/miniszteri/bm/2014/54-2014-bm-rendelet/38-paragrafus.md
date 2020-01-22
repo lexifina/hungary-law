@@ -1,27 +1,38 @@
+## 15. [^134] Oktatási, nevelési, gyermekfoglalkoztató, gyermekek napközbeni ellátását biztosító, továbbá játszóház rendeltetés
+
+38. §[^135] (1) Bölcsődei rendeltetés, továbbá a jellemzően 3 év alatti gyermekek napközbeni ellátására szolgáló helyiség kizárólag a földszinten vagy a kijárati szinten alakítható ki.
+
+(2) Óvodai rendeltetés, továbbá a jellemzően 3–6 év közötti gyermekek napközbeni ellátására, foglalkoztatására szolgáló helyiség kizárólag az alagsorban, a földszinten vagy a kijárati szinten, valamint az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 méterrel magasabban elhelyezkedő szinten alakítható ki.
+
+(3) A gyermekek elhelyezésére, huzamos tartózkodására szolgáló helyiség
+
+a) falburkolata KK kockázati osztályú kockázati egység esetén legalább B-s1, d0, MK kockázati osztályú kockázati egység esetén legalább A2-s1, d0 tűzvédelmi osztályú,
+
+b) mennyezetburkolata KK kockázati osztályú kockázati egység esetén legalább B-s1, d0, MK osztályú kockázati egység esetén legalább A2-s1, d0 tűzvédelmi osztályú,
+
+c) padlóburkolata KK és MK kockázati osztályú kockázati egység esetén legalább Cfl-s1 tűzvédelmi osztályú, és
+
+d) belső oldali hő- és hangszigetelése A1 vagy A2 tűzvédelmi osztályú
+
 ## legyen.
 
-## 15. Oktatási, nevelési, gyermekfoglalkoztató, játszóház rendeltetés
+(4) Ha a rendeltetési egység teljes területét beépített automatikus tűzjelző és oltóberendezés védi, akkor az MK osztályba tartozó rendeltetés esetén A2 tűzvédelmi osztály helyett megengedett a B tűzvédelmi osztályú anyagok használata.
 
-38. § (1) Bölcsődei rendeltetés kizárólag a földszinten vagy a kijárati szinten alakítható ki.
+(5) A jellemzően 6 év alatti gyermekek napközbeni ellátására szolgáló rendeltetés esetében a lakó rendeltetésre vonatkozó általános tűzvédelmi követelményeket kell betartani, ha
 
-(2) Óvodai rendeltetés kizárólag a földszinten vagy a kijárati szinten, valamint az annál legfeljebb 7,0 méterrel magasabban elhelyezkedő szinten alakítható ki.
+a) a gyermekek ellátására szolgáló helyiséget az alagsorban, földszinten, kijárati szinten helyezik el, valamint a gyermekek és a gyermekek felügyeletét, szükség szerinti mentését ellátó személyek aránya legfeljebb 5:1,
 
-(3) Az oktatási, nevelési önálló rendeltetési egységet a többi rendeltetési egységtől tűzgátló építményszerkezettel kell elválasztani.
+b) a gyermekek ellátására szolgáló helyiséget az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 méterrel magasabban elhelyezkedő szinten helyezik el, a gyermekek felügyeletét, szükség szerinti mentését ellátó személyek száma legalább 2 fő, a gyermekek száma legfeljebb 5 fő,
 
-(4) A gyermekek elhelyezésére, huzamos tartózkodására szolgáló helyiség
+## és a felügyeletet, mentést ellátó személyek folyamatosan a gyermekekkel vannak.
 
-a) falburkolata KK osztály esetén legalább B-s1, d0, MK osztály esetén legalább A2-s1,d0 tűzvédelmi osztályú,
+(6) Az (5) bekezdés szerinti rendeltetés a lakó vagy közösségi alaprendeltetésű kockázati egység részét képezheti abban az esetben is, ha az 1. mellékletben foglalt 4. táblázat szerinti létszám- és alapterületi értékektől eltérnek.
 
-b) mennyezetburkolata KK osztály esetén legalább B-s1, d0, MK osztály esetén legalább A2-s1,d0, tűzvédelmi osztályú,
+(7) A 200 m2-nél nagyobb alapterületű, gyermekek, gyermekcsoportok szórakozására szolgáló, játszóeszközöket tartalmazó játszóház rendeltetésű helyiséget hő és füst elleni védelemmel kell ellátni. Gravitációs füstelvezetés esetén a helyiség alapterületének 1%-át elérő hatásos nyílásfelületű hő- és füstelvezető, valamint légpótló felületet kell kialakítani. Gépi hő- és füstelvezetés esetén a szükséges elszívási és légpótlási teljesítmény 2 m3/s legyen a gravitációs füstelvezetéshez és légpótláshoz tartozó hatásos nyílásfelület minden m2-ére számítva.
 
-c) padlóburkolata KK és MK osztály esetén legalább Bfl-s1 tűzvédelmi osztályú és
+(8) A 20 fő feletti befogadóképességű tantermet, előadótermet, foglalkoztató és hasonló rendeltetésű helyiséget legalább tűzgátló válaszfallal kell határolni a szomszédos helyiségektől.
 
-d) belső oldali hő- és hangszigetelése A1 vagy A2 tűzvédelmi osztályú legyen.
+(9) Bölcsődei csoportszobát befogadó óvodai rendeltetésű kockázati egység esetén – a kiürítésre és a gyermekek tartózkodására szolgáló helyiség elhelyezésére vonatkozó követelmények kivételével – elegendő az AK kockázati osztályhoz tartozó követelmények érvényesítése, ha a KK kockázati osztályt kizárólag a menekülési képesség figyelembevétele eredményezi.
 
-(5) Ha a rendeltetési egység teljes területét beépített automatikus tűzjelző és oltóberendezés védi, akkor az MK osztályba tartozó rendeltetés esetén A2 tűzvédelmi osztály helyett megengedett a B tűzvédelmi osztályú anyagok használata.
-
-(6) A gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti családi napközi esetében a kiürítésre vonatkozó általános tűzvédelmi követelményeket kell betartani.
-
-(7) Az egy lakóegységen belül több, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti családi napközi kialakítása során, ha a családi napközi nem az épület földszintjén vagy első emeletén helyezkedik el, a (6) bekezdésben foglaltakon túlmenően biztosítani kell a kétirányú kiürítés lehetőségét, valamint a menekülésre számításba vett átriumok, közlekedők hő- és füstelvezetése tekintetében az e rendeletben foglalt előírások teljesülését.
-
-(8) A 200 m2-nél nagyobb alapterületű játszóház létesítése esetén a gyermekek foglalkoztatására szolgáló helyiséget hő és füst elleni védelemmel kell ellátni. Gravitációs füstelvezetés esetén a helyiség alapterületének 1%-át elérő hatásos nyílásfelületű hő- és füstelvezető, valamint légpótló felületet kell kialakítani. Gépi hő- és füstelvezetés esetén a szükséges elszívási és légpótlási teljesítmény 2 m3/s legyen a gravitációs füstelvezetéshez és légpótláshoz tartozó hatásos nyílásfelület minden m2-ére számítva.
+[^134]: A 15. alcím címe a 30/2019. (VII. 26.) BM rendelet 29. §-ával megállapított szöveg.
+[^135]: A 38. § a 30/2019. (VII. 26.) BM rendelet 30. §-ával megállapított szöveg.

@@ -4,13 +4,13 @@
 
 ## 49. Általános előírások
 
-88. § (1) Hő- és füstelvezetést kell létesíteni
+88. §[^225] (1) Hő- és füstelvezetést és az ehhez szükséges mértékű légpótlást kell biztosítani
 
 a) 1200 m2-nél nagyobb alapterületű helyiségben,
 
 b) tömegtartózkodásra szolgáló helyiségben,
 
-c) menekülési útvonalon a füstmentes lépcsőház, a füstmentes lépcsőházi előtér és a tűzgátló előtér kivételével,
+c) menekülési útvonalon a füstmentes lépcsőház, a füstmentes előtér és a tűzgátló előtér kivételével,
 
 d) 100 m2-nél nagyobb alapterületű pinceszinti helyiségekben,
 
@@ -18,36 +18,32 @@ e) fedett átriumokban,
 
 f) ott, ahol a rendeltetés alapján e rendelet előírja,
 
-g) speciális építmény esetén a XII. fejezet alapján vagy
+g) speciális építmény esetén a XII. Fejezet alapján és
 
-h) ott, ahol a rendeltetés és a füstfejlődés jellemzői alapján, a kiürítés és a tűzoltó beavatkozás feltételeinek biztosítása céljából a tűzvédelmi szakhatóság előírja.
+h) ott, ahol a rendeltetés és a füstfejlődés jellemzői alapján, a kiürítés és a tűzoltó beavatkozás feltételeinek biztosítása céljából a tűzvédelmi hatóság előírja.
 
-(2) Az (1) bekezdéstől eltérően nem kötelező hő- és füstelvezetést létesíteni
+(2) Az (1) bekezdés a)–g) pontjától eltérően nem kötelező hő- és füstelvezetést létesíteni
 
-a) a legfeljebb 500 m2 alapterületű és legalább EI2 15 C minősítésű bejárati ajtóval rendelkező gépészeti helyiségben vagy helyiségcsoportban,
+a) a legfeljebb 500 m2 alapterületű és legalább EI2 15 C minősítésű bejárati ajtóval rendelkező, pinceszinti gépészeti helyiségben vagy helyiségcsoportban,
 
-b) a legfeljebb 500 m2 alapterületű, nem közösségi rendeltetésű helyiségben, amelyben jellemzően nem tűzveszélyes osztályba tartozó anyagot tárolnak,
+b) a legfeljebb 500 m2 alapterületű, nem közösségi rendeltetésű pinceszinti helyiségben, amelyben jellemzően nem tűzveszélyes osztályba tartozó anyagot tárolnak,
 
-c) a legfeljebb 200 m2 alapterületű helyiségben, ha a belmagasság felső harmadában az alapterület legalább 5%-ának megfelelő szabad nyílásméretű, üvegezett, padlószintről nyitható homlokzati nyílászáróval rendelkezik,
+c) a legfeljebb 1200 m2 alapterületű, nem tömegtartózkodásra szolgáló pinceszinti helyiségben, ha a belmagasság felső harmadában az alapterület legalább 5%-ának megfelelő szabad nyílásméretű, betörhető üvegezésű, padlószintről nyitható homlokzati nyílászáróval rendelkezik, és a helyiség feletti födém síkja a rendezett terepcsatlakozás felett helyezkedik el,
 
-d) a kizárólag nem tűzveszélyes osztályba tartozó anyag és csak ilyen anyagból készített termék, tárgy éghető anyagú csomagolás és tárolóeszköz nélküli tárolására szolgáló, földszintes tárolóépületben,
+d) az olyan – beépített tűzoltó berendezéssel nem védett – ipari, mezőgazdasági rendeltetésű vagy raktárhelyiségben, amelynek tetőfedése vagy a helyiséget felülről lezáró egyéb szerkezete a tűzzel szemben számottevő ellenállással nem rendelkezik,
 
-e) az ömlesztett tárolású mezőgazdasági terménytároló helyiségben,
-
-f) az olyan – beépített tűzoltó berendezéssel nem védett – raktárhelyiségben, amelynek tetőfedése vagy a helyiséget felülről lezáró egyéb szerkezete a tűzzel szemben számottevő ellenállással nem rendelkezik,
-
-g) menekülési útvonalon lévő, legfeljebb 20 m2 alapterületű
-
-ga) szélfogó helyiségben,
-
-gb) biztonságos térbe nyíló kijárati ajtóval rendelkező közlekedőkben és
-
-h) a térfeltöltés elvén működő, teljes elárasztásos beépített tűzoltó berendezéssel védett helyiségben, a menekülési útvonal kivételével.
+e) a füstfejlődés szempontjából alacsony kockázatú térben.
 
 (3) Füstmentesítést kell létesíteni
 
-a) a több pinceszintet kiszolgáló lépcsőházban,
+a) menekülési útvonalat képező lépcsőházban, ha e rendelet előírja,
 
-b) ahol a tűzvédelmi szakhatóság a rendeltetés és a füstfejlődés jellemzői alapján, a kiürítés és a tűzoltó beavatkozás feltételeinek biztosítása céljából előírja vagy
+b) ahol a tűzvédelmi hatóság a rendeltetés és a füstfejlődés jellemzői alapján, a kiürítés és a tűzoltó beavatkozás feltételeinek biztosítása céljából előírja, vagy
 
 c) ahol e rendelet a rendeltetés alapján vagy a kiürítés biztosítása céljából előírja.
+
+(4) A több pinceszintet kiszolgáló, menekülési útvonalat képező lépcsőházba a füst bejutását a csatlakozó pinceszinti helyiségek irányából kell meggátolni.
+
+(5) Nem szabad hő- és füstelvezetést kialakítani a térfeltöltés elvén működő, teljes elárasztásos beépített gázzal vagy habbal oltó berendezéssel védett helyiségben.
+
+[^225]: A 88. § a 30/2019. (VII. 26.) BM rendelet 55. §-ával megállapított szöveg.

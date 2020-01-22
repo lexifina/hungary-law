@@ -1,5 +1,3 @@
-70. § (1) A 30 méter szintmagasság feletti legfelső építményszintű épületek esetében, ha a tűzoltási felvonulási területre vonatkozó előírások maradéktalanul nem biztosíthatók, a (2) bekezdésben foglalt követelményeket kell teljesíteni.
+## 69. §[^200]
 
-(2) Az épületben szintenként legalább 2 tűzszakaszt kell kialakítani, és kétszintenként vízszintesen is tűzszakaszolni kell. Valamennyi tűzszakaszban legalább 1-1 előtérrel kialakított túlnyomásos szellőztetésű vagy természetes szellőzésű füstmentes lépcsőházat kell létesíteni, hozzá kapcsolódó biztonsági felvonóval. A lépcsőházak között az átjárási lehetőséget minden szinten biztosítani szükséges.
-
-(3) Ha nem létesíthető tűzoltási felvonulási terület, akkor a (2) bekezdésben meghatározott tűzszakaszoláson, valamint a biztonsági felvonón túl, az épület teljes területére kiterjedő, beépített automatikus tűzjelző és oltóberendezést kell létesíteni, valamennyi lépcsőházat előtérrel kialakított, túlnyomásos szellőztetésű vagy természetes szellőzésű füstmentes lépcsőházként kell kialakítani és a lépcsőházak között az átjárást valamennyi szinten biztosítani kell. A fentieken túl közösségi épületben, annak teljes területén evakuációs hangosító rendszert kell kiépíteni.
+[^200]: A 69. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 23. pontja hatályon kívül helyezte.

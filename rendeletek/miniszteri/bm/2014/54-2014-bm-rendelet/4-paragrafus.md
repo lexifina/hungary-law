@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. §[^2]
 
 ## II. Fejezet
 
@@ -34,7 +34,7 @@ e) vegyes alaprendeltetés:eltérő alaprendeltetésű önálló rendeltetési e
 
 5. álmennyezet: nem teherhordó, vízszintes térelzáró szerkezet, amelyet födémre, tető- vagy tetőtér alatti födémre, fedélszerkezetekre erősítenek alkalmas függesztő szerkezet segítségével esztétikai, akusztikai, hőszigetelési, és tűzvédelmi igények kielégítése érdekében; emberi tartózkodásra alkalmas teret csak az alsó felületével határol: az általa kettéosztott légtér mindkét része ugyanabba a működésbeli egységbe vagy tűzszakaszba tartozik,
 
-6. álpadló: a teherhordó födémre támaszkodó, önálló tűzállósági határértékkel rendelkező vízszintes térelhatároló szerkezet, amely épületgépészeti és elektromos installáció fogadására szolgálhat:
+6.[^3] álpadló: a teherhordó födémre támaszkodó, önálló tűzállósági teljesítménnyel rendelkező vízszintes térelhatároló szerkezet, amely épületgépészeti és elektromos installáció fogadására szolgálhat:
 
 a) emelt vagy kettős padló: gyárilag készült padlórendszer, amely magában foglalja a padlólapot, a födémen levő teherhordó alátámasztást, valamint tartógerendát vagy más összetevőt, amelyek az épületbe szerelhető, megfelelő teherhordó szerkezetet biztosítanak,
 
@@ -42,11 +42,11 @@ b) üreges padló: teherhordó réteg, amely egy speciális alsó szerkezettel �
 
 7. átfolyási tényező (cv-tényező): a hő- és füstelvezető szerkezet és a légpótló szerkezet hatásfokát jellemző szám, a hatásos nyílásfelület és a geometriai nyílásfelület hányadosa,
 
-8. átmeneti védett tér: a tartózkodás helye szerinti építményszinten kialakított helyiség, helyiségcsoport vagy tér, amely kialakításával tűz esetén az oda menekülő vagy menekített személyek biztonságát átmenetileg, a mentés végrehajtásáig biztosítja,
+8.[^4] átmeneti védett tér: helyiség, helyiségcsoport vagy tér, amely kialakításával tűz esetén az oda menekülő vagy menekített személyek biztonságát átmenetileg, a mentés vagy a további menekülés végrehajtásáig biztosítja,
 
-9. átrium alapterülete: az egybefüggő légtér legnagyobb alapterületű függőleges vetülete,
+9.[^5] fedett átrium alapterülete: az egybefüggő légtér legnagyobb alapterületű függőleges vetülete,
 
-10. beépített tűzjelző berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz kifejlődésének korai szakaszában észlelést, jelzést és megfelelő tűzvédelmi intézkedést önműködően végző berendezés,
+10.[^6] beépített tűzjelző berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz kifejlődésének korai szakaszában észlelést, jelzést és megfelelő tűzvédelmi intézkedést önműködően végző olyan berendezés, amely rendelkezik a tűzvédelmi hatóság használatbavételi engedélyével,
 
 11. beépített tűzjelző és tűzoltó berendezés telepítője: a telepítési folyamat minden egyes részéért felelős személy vagy szervezet,
 
@@ -54,13 +54,13 @@ b) üreges padló: teherhordó réteg, amely egy speciális alsó szerkezettel �
 
 13. beépített tűzjelző berendezés részegysége: a vonatkozó műszaki követelményben I. típusú vagy II. típusú komponensnek definiált eszköz,
 
-14. beépített tűzoltó berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz oltására, a beavatkozás könnyítésére, a tűz terjedésének megakadályozására, a tűzkár csökkentésére alkalmazott, tűzoltó vízforrásnak nem minősülő, önműködő vagy kézi indítású vagy mindkét módon indítható berendezés,
+14.[^7] beépített tűzoltó berendezés: az építményben vagy szabadtéren elhelyezett, helyhez kötött, a tűz oltására, a beavatkozás könnyítésére, a tűz terjedésének megakadályozására, a tűzkár csökkentésére alkalmazott, tűzoltó vízforrásnak nem minősülő, önműködő vagy kézi indítású vagy mindkét módon indítható olyan berendezés, amely rendelkezik a tűzvédelmi hatóság használatbavételi engedélyével,
 
 15. beépített tűzterjedésgátló berendezés: tűzgátló építményszerkezet helyett, tűzterjedés elleni védelem céljából alkalmazott beépített automatikus tűzvédelmi berendezés, amely a tűz átterjedését a helyettesített tűzgátló építményszerkezettel védendő térrészbe meghatározott ideig meggátolja,
 
 16. beépített tűzvédelmi berendezés: a tűz észlelésére, jelzésére, oltására, a tűzterjedés gátlására, valamint a tűzeset során keletkező hőnek, füstnek és égésgázoknak az elvezetésére kialakított, helyhez kötött berendezés,
 
-17. berendezésvédelem: a berendezésekben keletkező tüzek korai észlelése és jelzése érdekében a berendezésen belül felszerelt, automatikus érzékelővel biztosított védelem,
+17.[^8]
 
 18. biztonsági felvonó: az épület füstmentes lépcsőházához, tűzgátló előteréhez vagy a szabadtérhez kapcsolódó, az épülettűz alatt is működtethető felvonó, mely lehet tűzoltó felvonó vagy menekülési felvonó,
 
@@ -70,7 +70,7 @@ b) üreges padló: teherhordó réteg, amely egy speciális alsó szerkezettel �
 
 21. biztonsági tápforrás: a normál tápforrás kiesése esetén a tűzeseti fogyasztókat előírt ideig ellátó tápforrás,
 
-22. biztonságos tér: az építményen kívüli külső tér, ahonnan a menekülő személyek az építménybe való visszatérés nélkül közterületre juthatnak,
+22.[^9] biztonságos tér: az építményen kívüli külső tér, ahol a tűz és kísérőjelenségei a menekülő személyeket már nem veszélyeztetik, és ahonnan a menekülő személyek az építménybe való visszatérés nélkül közterületre juthatnak,
 
 23. biztonságos térbe jutás: az építmény elhagyása a szabadba vezető kijáraton vagy kültéri útvonalon keresztül a terepcsatlakozás szintjére,
 
@@ -100,7 +100,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 33. előkészítéssel sem menthető személy: olyan mozgásképtelen személy, akinek mentése nem hajtható végre,
 
-34. előtétfal (függőleges membrán): önhordó, függőleges térelhatároló szerkezet, amely egyéb szerkezetektől függetlenül, önálló tűzállósági határértékkel rendelkezik,
+34.[^10] előtétfal (függőleges membrán): önhordó, függőleges térelhatároló szerkezet, amely egyéb szerkezetektől függetlenül, önálló tűzállósági teljesítménnyel rendelkezik,
 
 35. elsődleges építményszerkezetek: azok a szerkezeti elemek, amelyek az épület egészének vagy egyes szintjeinek állékonyságát tűz esetén biztosítják, valamint a tűzterjedést gátló szerkezetek,
 
@@ -124,17 +124,17 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 45. függönyfal: olyan nem teherhordó, térelhatároló falszerkezet, amelyet az épület teherhordó szerkezeteire, általában födémeire rögzítenek és azok síkja előtt helyezkedik el,
 
-46. füstcsappantyú: szellőzővezetékbe építhető, automatikusan működésbe hozható zárószerkezet, amely a füst vagy a forró égésgázok továbbterjedését nyitott helyzetben előírt ideig biztosítja, zárt állapotban előírt ideig megakadályozza,
+46.[^11] füstcsappantyú: füstelvezető és füstelvezetéshez, füstmentesítéshez szükséges légpótló légcsatornába építhető, automatikusan működésbe hozható zárószerkezet, amely a füst vagy a forró égésgázok továbbterjedését nyitott helyzetben előírt ideig biztosítja, zárt állapotban előírt ideig megakadályozza,
 
 47. füstgátló nyílászáró: szerkezet, amely beépítve, csukott állapotban a füstnek és a tűz esetén képződő toxikus gázoknak az általa elválasztott térrész egyik oldaláról a másik oldalára való átterjedését meghatározott mértékben és ideig korlátozza,
 
-48. füstgyűjtő tér: a füstszakasz légterének felső, a füstszegény levegőréteg feletti része, amely oldalhatáraival meggátolja a füst szétterülését, valamint korlátozza annak lehűlését a felhajtóerő biztosítása céljából,
+48.[^12] füstgyűjtő tér: a füstszakasz légterének felső, a füstszegény levegőréteg feletti része,
 
-49. füstkötény: a szomszédos füstszakaszokat egymástól elválasztó építményszerkezet vagy berendezés, ami a füst oldalirányú terjedését korlátozza,
+49.[^13] füstkötény: a szomszédos füstszakaszokat egymástól elválasztó építési termék, építményszerkezet vagy berendezés, ami a füst oldalirányú terjedését korlátozza,
 
 50. füstmentes lépcsőház: az olyan lépcsőház, amelybe az épülettűz alkalmával képződött füst és mérgező égésgázok bejutásának lehetősége oly mértékben van korlátozva, hogy a lépcsőház az épület biztonságos kiürítésére és a mentésre meghatározott ideig alkalmas marad,
 
-51. füstmentesítés: a védett helyiségbe a füst veszélyes mértékű bejutását meggátló megoldások összessége,
+51.[^14] füstmentesítés: a védett helyiségbe a füst menekülésre nézve veszélyes mértékű bejutását meggátló megoldások összessége,
 
 52. füstszakasz: a helyiség vagy annak része, amelynek kialakítása korlátozza a füst átterjedését a szomszédos füstszakaszba,
 
@@ -146,7 +146,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 56. hasadó-nyíló felületek: olyan építményszerkezetek, amelyek megnyílással, elfordulással, billenéssel lehetővé teszik a túlnyomás levezetését, és megnyílási nyomásuk beállítható,
 
-57. hatékony szellőztetés: ahol az adott térben a szellőzés biztosítja, hogy az éghető gázok, gőzök, porok koncentrációja ne érje el az alsó robbanási határérték 20%-át,
+57.[^15] hatékony szellőztetés: ahol az adott térben a szellőzés, szellőztetés biztosítja, hogy üzemi körülmények között az éghető gázok, gőzök koncentrációja a kibocsátási hely közvetlen környezetének kivételével ne érje el az alsó robbanási határérték 20%-át,
 
 58. helyi (részleges) védelem: a beépített tűzjelző berendezés által védett építmény, épület, tűzszakasz, szabadtér egyes tűzvédelmi szempontból kockázatos részeinek automatikus érzékelővel való lefedettsége,
 
@@ -164,7 +164,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 65. hő- és füstelvezető berendezés: olyan berendezés, amely tűz esetén a hő és füst szabadba áramlását gépi úton, kényszeráramoltatással biztosítja,
 
-66. hő- és füstelvezető rendszer: hő- és füstelvezető, légpótló szerkezetek, berendezések és azok működtetését biztosító megoldások és rögzítéseik összefüggő rendszere, a beépített tűzjelző berendezés kivételével,
+66.[^16] hő- és füstelvezető rendszer: hő- és füstelvezető, légpótló szerkezetek, berendezések és azok működtetését, valamint a füstszakaszolást biztosító megoldások és rögzítéseik összefüggő rendszere, a beépített tűzjelző berendezés kivételével,
 
 67. hő- és füstelvezető szerkezet: olyan szerkezet, amely tűz esetén nyitott állapotában lehetővé teszi a hő és füst természetes úton történő kiáramlását a szabadba,
 
@@ -182,11 +182,11 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 74. konvejor lezáró szerkezet: olyan tűzgátló lezárás, amely lezárt állapotában az anyagot vagy terméket szállító technológiai szállítópálya építményszerkezeten átvezető nyílásán a tűz átterjedését meghatározott ideig meggátolja,
 
-75. kiürítés első szakasza: a menekülés azon része, amely a tartózkodási helytől a menekülési útvonal eléréséig vagy – ha az menekülési útvonal igénybevétele nélkül biztosítható az átmeneti védett térbe vagy a biztonságos térbe jutásig tart,
+75.[^17] kiürítés első szakasza: a kiürítés azon része, amely a tartózkodási helytől a menekülési útvonal eléréséig vagy – ha az menekülési útvonal igénybevétele nélkül biztosítható az átmeneti védett térbe vagy a biztonságos térbe jutásig tart,
 
-76. kiürítés második szakasza: a menekülés azon része, amely a menekülési útvonal elérésétől a biztonságos térbe vagy átmeneti védett térbe jutásig tart,
+76.[^18] kiürítés második szakasza: a kiürítés azon része, amely a menekülési útvonal elérésétől a biztonságos térbe vagy átmeneti védett térbe jutásig tart,
 
-77. kiürítés: az épületben, speciális építményben tartózkodó személyek eltávozása, eltávolítása tűz esetén, ami magába foglalja a menekülést és a mentést,
+77.[^19] kiürítés: az épületben, épületen, speciális építményben, szabadtéren tartózkodó személyek eltávozása, eltávolítása tűz esetén, ami a tartózkodási hely elhagyásától az átmeneti védett tér vagy a biztonságos tér eléréséig tart,
 
 78. kockázati egység: az építmény vagy annak tűzterjedésgátlás szempontjából körülhatárolt része, amelyen belül a kockázati osztályt meghatározó körülményeket a tervezés során azonos mértékben és módon veszik figyelembe,
 
@@ -198,7 +198,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 82. közösségi rendeltetés: lakónak, iparinak, mezőgazdaságinak, tárolásinak nem minősülő rendeltetés,
 
-83. külső térelhatároló fal: a homlokzatnak a külső tér, a belső udvarnak, átriumnak, légudvarnak és légaknának az általa határolt nyitott udvar felé néző térelhatároló fala,
+83.[^20] külső térelhatároló fal: a homlokzatnak a külső tér, a belső udvarnak, fedett átriumnak, légudvarnak és légaknának az általa határolt nyitott udvar felé néző térelhatároló fala,
 
 84. lefúvatás: robbanási túlnyomás levezetése olyan térbe, ahol a túlnyomás kiterjedhet és ezáltal a belső tér mentesül a túlnyomás károsító hatásaitól,
 
@@ -218,7 +218,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 92. létesítmény: az egy telken álló építmények és szabadterek összessége,
 
-93. létfontosságú rendszerelem: a vonatkozó jogszabály alapján kijelölt létesítmény, építmény, építményrész,
+93.[^21]
 
 94. magasépület: épületnek minősülő magas építmény,
 
@@ -248,11 +248,11 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 107. mozgásképtelen személy: olyan személy, aki menekülésre nem képes, mentése pedig személyzetet, szükség szerint segédeszközt igényel,
 
-108. nem éghető anyag: szervetlen vagy alacsony szervesanyag-tartalmú anyag, amelynek gyulladási hőmérséklete a vonatkozó műszaki eljárásban a meghatározási hőmérséklethatárig nem állapítható meg, valamint az A1 és A2 tűzvédelmi osztályba sorolt építőanyag,
+108.[^22] nem éghető anyag: szervetlen vagy alacsony szervesanyag-tartalmú anyag, amelynek gyulladási hőmérséklete a vonatkozó műszaki eljárásban a meghatározási hőmérséklethatárig nem állapítható meg, az A1 és A2 tűzvédelmi osztályba sorolt építőanyag, valamint az a szilárd építőanyag, amelynek a szabványos laboratóriumi vizsgálati módszerrel megállapított, a termék egészére vonatkozó égéshője nem haladja meg a 3,0 MJ/kg-ot,
 
-109. nem teherhordó födém (vízszintes önhordó membrán): olyan önhordó vízszintes térelhatároló építményszerkezet, amely egyéb szerkezetektől függetlenül, önálló tűzállósági határértékkel rendelkezik,
+109.[^23] nem teherhordó födém (vízszintes önhordó membrán): olyan önhordó vízszintes térelhatároló építményszerkezet, amely egyéb szerkezetektől függetlenül, önálló tűzállósági teljesítménnyel rendelkezik,
 
-110. norma szerinti villámvédelem: az MSZ EN 62305 szabvány szerint kialakított villámvédelmi rendszer,
+110.[^24] norma szerinti villámvédelem: az MSZ EN 62305 szabványsorozat szerint kialakított villámvédelmi rendszer,
 
 111. normál tápellátás: a normál tápforrásról történő villamosenergia-ellátás,
 
@@ -270,7 +270,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 118. robbanás: nagy sebességű égési folyamat, ahol a mozgó lángfront sebessége 10 m/s vagy afelett van, de 100 m/s-nál kisebb,
 
-119. robbanásveszélyes állapot: a robbanásveszélyes osztályba tartozó anyag olyan mennyiségben való jelenléte, valamint előfordulási módja, állapota, mely esetén az égés, robbanás feltételei közül legalább még az oxigénkoncentráció vagy a gyújtási energia adott,
+119.[^25] robbanásveszélyes állapot: a fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag vagy keverék olyan mennyiségben való jelenléte, valamint előfordulási módja, állapota, mely esetén az égés, robbanás feltételei közül legalább még az oxigénkoncentráció vagy a gyújtási energia adott,
 
 120. segítséggel menekülő személy: olyan menekülésben korlátozott személy, aki fizikai segítség vagy irányítás mellett vagy a külső korlátozás ellenőrzött feloldása és irányítás mellett képes a menekülésre,
 
@@ -286,11 +286,11 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 126. számítás: egy vagy több állapotjelző vagy jellemző konkrét vagy közelítő értékének meghatározása matematikai, fizikai, kémiai törvényszerűségek alkalmazásával,
 
-127. számított belmagasság: a füstszakasz légtérfogatának és alapterületének hányadosa, méterben megadva,
+127.[^26]
 
 128. szerkezeti állékonyság: a tűzszakasz, önálló építményrész, építmény elsődleges építményszerkezetének azon képessége, hogy a várható tűzhatás időtartama alatt a tűzzel egyidejű terhelésnek előírt ideig ellenáll, ideértve a csatlakozó tűzvédelmi építményszerkezetek és a beépített tűzvédelmi berendezések tartószerkezeteinek funkció-megőrzését is; a tartószerkezet a szerkezeti elemeket és azok kapcsolatait is magában foglalja,
 
-129. szilárd éghető anyag: szobahőmérsékleten szilárd állapotú szerves- vagy alacsony szervetlenanyag-tartalmú anyag, amelynek gyulladási hőmérséklete a vonatkozó műszaki eljárással meghatározható, valamint a B-F tűzvédelmi osztályba sorolt szilárd építőanyagok,
+129.[^27] szilárd éghető anyag: szobahőmérsékleten szilárd halmazállapotú, szerves- vagy alacsony szervetlenanyag-tartalmú anyag, amelynek a gyulladási hőmérséklete a vonatkozó műszaki eljárással meghatározható, a B–F tűzvédelmi osztályba sorolt szilárd építőanyag, valamint az a szilárd építőanyag, amelynek a szabványos laboratóriumi vizsgálati módszerrel megállapított, a termék egészére vonatkozó égéshője 3,0 MJ/kg-nál nagyobb,
 
 130. szintosztó födém: a helyiség légterének részleges – a helyiség legalsó szint alapterületének legfeljebb 25%-án és csak vízszintes szerkezettel történő – megosztásával és a mennyezet alatti kiszellőztetésével kialakított belső szint, amelyen helyiség és 1 méternél magasabb tömör korlát vagy fal nem létesül,
 
@@ -298,7 +298,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 132. technológiai szállítópálya: futószalag, konvejor vagy ezekhez hasonló anyag- vagy terméktovábbító szerkezet, berendezés,
 
-133. teljes körű védelem: olyan védelem, amelynek során a beépített tűzjelző berendezés által védett építmény, épület, tűzszakasz, szabadtér valamennyi részének automatikus érzékelővel való lefedettsége biztosított, kivéve a védelemből kihagyható tereket; a lefedett területek határait a tűzszakaszok határai képezik,
+133.[^28] teljes körű védelem: olyan védelem, amelynek során a beépített tűzjelző berendezés által védett tér valamennyi részének automatikus érzékelővel való lefedettsége biztosított, kivéve a védelemből kihagyható tereket,
 
 134. terelőfal: a lefúvatás irányának befolyásolására alkalmas falszerkezet,
 
@@ -306,13 +306,13 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 136. tetőfedés: a tetőszerkezet külső térrel határos, csapadékzáró része,
 
-137. tető-felülvilágító: a helyiséget felülről lezáró szerkezet alatti helyiség, térrész bevilágítását szolgáló építési termék,
+137.[^29] felülvilágító: a helyiséget felülről lezáró szerkezet alatti helyiség, térrész bevilágítását szolgáló építési termék, építményszerkezet,
 
 138. tetőfödém: az épület legfelső szintjét felülről határoló födém,
 
 139. tetőfödém tartószerkezetei: a tetőfödém mindazon szerkezeti részei, amelyek tönkremenetele általános vagy nagy területre kiterjedő épületomlást vagy a tetőfödém jelentős szakaszának beomlását idézik elő, valamint a nagytömegű – általában nem könnyűszerkezetes – teherhordó térlefedő szerkezetek, melyek omlása egyéb szerkezeti károkat, az alattuk lévő födémek átszakítását okozhatja; az állandó terhelésbe valamennyi tetőréteget, valamint a ráfüggesztett és rátett dolgok terhét is bele kell számolni,
 
-140. tetőfödém térelhatároló szerkezete: a tetőfödém tartószerkezeteire támaszkodó könnyűszerkezetes, réteges felépítésű, legfeljebb 60 kg/m2 felülettömegű szerkezetek (önhordó) rétegei; az állandó terhelésbe valamennyi tetőréteget, valamint a ráfüggesztett és rátett dolgok terhét is bele kell számolni,
+140.[^30] tetőfödém térelhatároló szerkezete: a tetőfödém tartószerkezeteire támaszkodó könnyűszerkezetes, réteges felépítésű, legfeljebb 80 kg/m2 felülettömegű szerkezetek (önhordó) rétegei; az állandó terhelésbe valamennyi tetőréteget, valamint a ráfüggesztett és rátett dolgok terhét is bele kell számolni,
 
 141. tetőszerkezet: az épület legfelső szintjét felülről határoló szerkezet, amely fedélszerkezetből és tetőfedésből áll,
 
@@ -326,9 +326,9 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 146. tömegtartózkodásra szolgáló épület: épületnek minősülő, tömegtartózkodásra szolgáló építmény,
 
-147. tűzálló kábelrendszer: villamosenergia- vagy adatátviteli vezetékek, kábelek, tokozott sínek, a hozzájuk tartozó csatornák, bevonatok és burkolatok, hordozó- és tartószerkezetek, valamint elosztók és kötődobozok olyan együttese, amely meghatározott időtartamig tűzterhelésnek kitéve is képes működőképességét megtartani anélkül, hogy benne zárlat keletkezne vagy megszakadna a villamos áram,
+147.[^31] tűzálló kábelrendszer: villamosenergia- vagy adatátviteli vezetékek, kábelek, tokozott sínek, a hozzájuk tartozó csatornák, bevonatok és burkolatok, hordozó- és tartószerkezetek, valamint elosztók és kötődobozok olyan együttese, amely meghatározott időtartamig tűzterhelésnek kitéve is képes működőképességét megtartani anélkül, hogy benne zárlat keletkezne vagy megszakadna a jelátvitel vagy a villamos áram,
 
-148. tűzállósági határérték: a vonatkozó műszaki követelménynek megfelelő tűzállósági vizsgálat kezdésétől számított, a vizsgált építményszerkezet valamely tűzállósági határállapotba kerülésének eléréséig eltelt idő órában vagy percben,
+148.[^32] tűzállósági teljesítmény: a vonatkozó műszaki követelménynek megfelelő tűzállósági vizsgálat kezdésétől számított, a vizsgált építményszerkezet valamely tűzállósági határállapotba kerülésének eléréséig eltelt idő órában vagy percben,
 
 149. tűzeseti fogyasztó: villamos energiával működő fogyasztó, amelynek tűz esetén előírt ideig működnie kell vagy működőképességét meg kell őriznie,
 
@@ -336,7 +336,7 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 151. tűzeseti lekapcsolás: az építmény villamos energiával működő fogyasztóinak egy helyről, egy vagy több csoportban történő helyi vagy villamos távműködtetésű lekapcsolása a villamos tápellátásról,
 
-152. tűzgátló alapszerkezet: a tűzfal, a tűzgátló fal, a tűzgátló válaszfal és a tűzgátló födém gyűjtőfogalma,
+152.[^33] tűzgátló alapszerkezet: a tűzfal, a tűzgátló fal és a tűzgátló födém gyűjtőfogalma,
 
 153. tűzgátló előtér: tűzgátló építményszerkezetekkel határolt előtér, amely önálló szellőztetéssel rendelkezik, ajtószerkezeteinek mérete biztosítja a gyors menekülés lehetőségét és ajtószerkezetei önműködő csukószerkezettel ellátottak,
 
@@ -354,13 +354,13 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 160. tűzgátló réskitöltő-réslezáró rendszer: térelhatároló építményszerkezeteken átvezetett légtechnikai és egyéb technológiai vezetékek, kábelek, vezetékrendszerek áttörési hézagainak tűzgátló lezárását meghatározott ideig biztosító szerkezetek, műszaki megoldások, termékek,
 
-161. tűzgátló válaszfal: tűzgátló lezárások nélkül kialakított, nem teherhordó falszerkezet, amely – a tömör falfelületen vizsgálva – az általa elválasztott helyiségek között a tűz átterjedését meghatározott, a tűzgátló falra előírt időtartamnál rövidebb ideig meggátolja,
+161.[^34] tűzgátló válaszfal: tűzgátló lezárások nélkül kialakított, nem teherhordó, egy tűzszakaszon belüli szomszédos helyiségeket elválasztó falszerkezet, amely – a tömör falfelületen vizsgálva – az általa elválasztott helyiségek között a tűz átterjedését meghatározott ideig meggátolja,
 
 162. tűzgátló záróelem: aktív vagy reaktív elven működő tűzgátló lezárás, ami egy tűzgátló építményszerkezeten átvezetett gépészeti vezetéken belül a tűz átterjedését meghatározott ideig meggátolja,
 
-163. tűzoltási felvonulási terület: e rendeletben meghatározott, az építmények tűzoltására, mentésre szolgáló, a homlokzat előtt létesített, megfelelő teherbírású, szilárd burkolatú terület, amely a beavatkozáshoz szükséges tűzoltás technikai eszközök és a tűzoltóegységek rendeltetésszerű működésének feltételeit biztosítja,
+163.[^35] tűzoltási felvonulási terület: az építmények tűzoltására, mentésre szolgáló terület, amely a beavatkozáshoz szükséges tűzoltástechnikai eszközök és a tűzoltóegységek rendeltetésszerű működésének feltételeit biztosítja,
 
-164. tűzoltási felvonulási út: a tűzoltási felvonulási terület megközelítésére szolgáló, megfelelő teherbírású, szilárd burkolatú, a tűzoltógépjárművek közlekedésére alkalmas út,
+164.[^36] tűzoltási felvonulási út: a tűzoltási felvonulási terület megközelítésére szolgáló, a tűzoltógépjárművek közlekedésére alkalmas út,
 
 165. tűzoltó felvonó: tűz esetén kizárólag a tűzoltóság által használható biztonsági felvonó,
 
@@ -374,17 +374,17 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 170. tűzoltósági beavatkozási központ: olyan helyiség, amelyből a tűzoltói beavatkozáshoz szükséges és azt elősegítő tűzvédelmi berendezések vezérelhetők, az épület-felügyeleti rendszereken keresztül a tűzvédelmi berendezések üzemállapota figyelemmel kísérhető,
 
-171. tűzoltósági kulcsszéf: a beépített tűzjelző berendezés részegysége, amely biztosítja a tűzoltósági beavatkozás során az épületbe és annak helyiségeibe történő akadálytalan bejutást,
+171.[^37] tűzoltósági kulcsszéf: a beépített tűzjelző berendezéssel vezérelt eszköz, amely biztosítja a tűzoltósági beavatkozás során az épületbe és annak helyiségeibe történő akadálytalan bejutást,
 
 172. tűzszakasz: az épület, a speciális építmény, a szabadtéri tárolóterület meghatározott része, amelyet a szomszédos építmény- és térrésztől tűzterjedés ellen védetten alakítanak ki,
 
-173. tűzszakaszterület: az egy adott tűzszakaszhoz tartozó helyiségek nettó alapterületének összessége m2-ben,
+173.[^38] tűzszakaszterület: az egy adott tűzszakaszhoz tartozó helyiségek nettó alapterületének, szabadtéri tárolóterület esetén a tárolásra szolgáló térrész alapterületének összessége m2-ben,
 
 174. tűztávolság: a külön tűzszakaszba tartozó szomszédos építmények, szomszédos szabadtéri tárolási egységek, szomszédos építmény és szabadtéri tárolási egység között megengedett legkisebb, vízszintesen mért távolság,
 
 175. tűzterjedés elleni gát: födémhez, falhoz csatlakozó vagy tetőn kialakított, a tűznek az építményszintek, a tűzszakaszok, a tetőmezők, továbbá a szomszédos épületek közötti átterjedését alakjával, méreteivel, tűzállósági teljesítményével és tűzterjedés elleni adottságaival korlátozó, megakadályozó tűzgátló építményszerkezet,
 
-176. tűzterjedés elleni védelem: olyan megoldások összessége, amelyek folytonos alkalmazásával a tűz átterjedése a védett építményre, építményrészre, szabadtéri tárolási egységre meggátolható; módszerei: tűztávolság, tűzgátló építményszerkezet, beépített tűzterjedésgátló berendezés, egyéb, a tűzterjedési vagy tűzállósági határértéket biztosító kialakítás,
+176.[^39] tűzterjedés elleni védelem: olyan megoldások összessége, amelyek folytonos alkalmazásával a tűz átterjedése a védett építményre, építményrészre, szabadtéri tárolási egységre meggátolható; módszerei: tűztávolság, tűzgátló építményszerkezet, beépített tűzterjedésgátló berendezés, egyéb, a tűzterjedési határértéket vagy tűzállósági teljesítményt biztosító kialakítás,
 
 177. tűzterjedési határérték: a vonatkozó műszaki követelménynek megfelelő tűzterjedési vizsgálat kezdésétől számított, a vizsgált építményszerkezet valamely tűzterjedési határállapotba kerülésének eléréséig eltelt idő órában vagy percben,
 
@@ -396,11 +396,11 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 181. tűzvédelmi üzemeltetési napló: tűzvédelmi műszaki megoldások ellenőrzésének, felülvizsgálatának, karbantartásának igazolására szolgáló dokumentum,
 
-182. tűzvédő álmennyezet: egy helyiségben, legfeljebb egy tűzszakaszban kialakított olyan álmennyezet, amely tűzvédő tulajdonságánál fogva a felette lévő födémmel vagy tetőszerkezettel együtt az előírt tűzállósági határértéket biztosítja,
+182.[^40] tűzgátló álmennyezet: egy helyiségben, legfeljebb egy tűzszakaszban kialakított olyan álmennyezet, amely tűzvédelmi jellemzőinél fogva a felette lévő födémmel vagy tetőszerkezettel együtt az előírt tűzállósági teljesítményjellemzőket biztosítja,
 
 183. tűzvédő burkolat, tűzvédő bevonat: alkalmas műszaki eljárással a függőleges, vízszintes vagy ferde építményszerkezetekhez közvetlenül vagy közvetetten csatlakozó, a belső réteget a tűzhatás okozta kárral szemben védő legkülső vagy legalsó anyagréteg,
 
-184. tűzvédő képesség: egy fal- vagy mennyezetburkolat azon képessége, hogy a burkolat mögötti anyagnak egy bizonyos ideig védelmet biztosít tűzzel, szenesedéssel és más károsodással szemben,
+184.[^41]
 
 185. tűzveszélyességi osztály: az anyagra, keverékre vonatkozó besorolás, amely az anyag, keverék fizikai, kémiai tulajdonságát alapul véve, tűzvédelmi szempontból a viselkedését, veszélyességét jellemzi,
 
@@ -434,4 +434,73 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 200. zárt közlekedő helyiség: minden oldalról elsődleges építményszerkezettel határolt közlekedő helyiség.
 
-[^1]: A 3. §-t a 44/2017. (XII. 29.) BM rendelet 102. § a) pontja hatályon kívül helyezte.
+201.[^42] egyszeres vezetékhiba: legfeljebb egy hiba – zárlat, szakadás, földzárlat, vezeték-ellenállás vagy -impedancia megváltozása – a vezetékhálózatban,
+
+202.[^43] fedett átrium: épületek belső, két vagy több építményszintet födémáttörésekkel egybefüggő légtérré tevő térrésze, kivéve a lépcsőt, a lépcsőházat, a felvonóaknát, a gépészeti aknát, valamint a technológiai átvezetésekkel áttört födémű tereket,
+
+203.[^44] kiürítésre szolgáló nyílászáró: a kiürítés útvonalán beépített nyílászáró,
+
+204.[^45] lábazati felület: az egy építményszinthez tartozó homlokzati falfelület technológiailag szükséges magasságú sávja, amelynek alsó határa a terepcsatlakozás, alacsonyabb épületcsatlakozás, csatlakozó vízszintes építményszerkezet felső síkja,
+
+205.[^46] olvadék: a vonatkozó műszaki követelményben meghatározott állapotú anyag,
+
+206.[^47] összefüggő tömeggel járó tömegtartózkodás: személyek 300 főt meghaladó létszámú csoportja, ideértve a nézőteret is, amelyen belül a fajlagos létszámsűrűség meghaladja szabad téren a 0,5 fő/m2-t, épületen, valamint épület helyiségében az 1,0 fő/m2-t,
+
+207.[^48] passzív tárolás: a tárolt anyag bontatlan, zárt, gyári csomagolásban és edényzetben vagy szállításra minősített csomagolásban és edényzetben történő tárolása, forgalmazása,
+
+208.[^49] robbanásveszélyes tér: egy vagy több robbanásveszélyes zóna által alkotott, beltéren vagy kültéren lévő, nyitott vagy zárt térrész,
+
+209.[^50] tűzvédelmi célú homlokzati sáv: a külső térelhatároló falon alkalmazott burkolati, bevonati, valamint vakolt hőszigetelő rendszer B–E tűzvédelmi osztályú hőszigetelését megszakító és kiváltó, a tűz terjedését korlátozó sáv,
+
+210.[^51] tűzveszélyességi fokozat: az éghető folyadékoknak és olvadékoknak a lobbanáspontjuktól és az üzemi hőmérsékletüktől függő, a vonatkozó műszaki követelmény szerinti kategóriája.
+
+[^2]: A 3. §-t a 44/2017. (XII. 29.) BM rendelet 102. § a) pontja hatályon kívül helyezte.
+[^3]: A 4. § (2) bekezdés 6. pont nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 1. pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdés 8. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdés 9. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 2. pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés 10. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdés 14. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (2) bekezdés 17. pontját a 30/2019. (VII. 26.) BM rendelet 106. § 1. pontja hatályon kívül helyezte.
+[^9]: A 4. § (2) bekezdés 22. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^10]: A 4. § (2) bekezdés 34. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 1. pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdés 46. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 3. pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdés 48. pontja a 30/2019. (VII. 26.) BM rendelet 106. § 2. pontja szerint módosított szöveg.
+[^13]: A 4. § (2) bekezdés 49. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 4. pontja szerint módosított szöveg.
+[^14]: A 4. § (2) bekezdés 51. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 5. pontja szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdés 57. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^16]: A 4. § (2) bekezdés 66. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 6. pontja szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdés 75. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 7. pontja szerint módosított szöveg.
+[^18]: A 4. § (2) bekezdés 76. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 7. pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdés 77. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^20]: A 4. § (2) bekezdés 83. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 8. pontja szerint módosított szöveg.
+[^21]: A 4. § (2) bekezdés 93. pontját a 30/2019. (VII. 26.) BM rendelet 106. § 3. pontja hatályon kívül helyezte.
+[^22]: A 4. § (2) bekezdés 108. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^23]: A 4. § (2) bekezdés 109. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 1. pontja szerint módosított szöveg.
+[^24]: A 4. § (2) bekezdés 110. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 9. pontja szerint módosított szöveg.
+[^25]: A 4. § (2) bekezdés 119. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 10. pontja szerint módosított szöveg.
+[^26]: A 4. § (2) bekezdés 127. pontját a 30/2019. (VII. 26.) BM rendelet 106. § 4. pontja hatályon kívül helyezte.
+[^27]: A 4. § (2) bekezdés 129. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^28]: A 4. § (2) bekezdés 133. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^29]: A 4. § (2) bekezdés 137. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^30]: A 4. § (2) bekezdés 140. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 11. pontja szerint módosított szöveg.
+[^31]: A 4. § (2) bekezdés 147. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 12. pontja szerint módosított szöveg.
+[^32]: A 4. § (2) bekezdés 148. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 13. pontja szerint módosított szöveg.
+[^33]: A 4. § (2) bekezdés 152. pontja a 30/2019. (VII. 26.) BM rendelet 106. § 5. pontja szerint módosított szöveg.
+[^34]: A 4. § (2) bekezdés 161. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^35]: A 4. § (2) bekezdés 163. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^36]: A 4. § (2) bekezdés 164. pontja a 30/2019. (VII. 26.) BM rendelet 106. § 6. pontja szerint módosított szöveg.
+[^37]: A 4. § (2) bekezdés 171. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 14. pontja szerint módosított szöveg.
+[^38]: A 4. § (2) bekezdés 173. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (13) bekezdésével megállapított szöveg.
+[^39]: A 4. § (2) bekezdés 176. pontja a 30/2019. (VII. 26.) BM rendelet 105. § 15. pontja szerint módosított szöveg.
+[^40]: A 4. § (2) bekezdés 182. pontja a 30/2019. (VII. 26.) BM rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^41]: A 4. § (2) bekezdés 184. pontját a 30/2019. (VII. 26.) BM rendelet 106. § 7. pontja hatályon kívül helyezte.
+[^42]: A 4. § (2) bekezdés 201. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^43]: A 4. § (2) bekezdés 202. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^44]: A 4. § (2) bekezdés 203. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^45]: A 4. § (2) bekezdés 204. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^46]: A 4. § (2) bekezdés 205. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^47]: A 4. § (2) bekezdés 206. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^48]: A 4. § (2) bekezdés 207. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^49]: A 4. § (2) bekezdés 208. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^50]: A 4. § (2) bekezdés 209. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.
+[^51]: A 4. § (2) bekezdés 210. pontját a 30/2019. (VII. 26.) BM rendelet 3. §-a iktatta be.

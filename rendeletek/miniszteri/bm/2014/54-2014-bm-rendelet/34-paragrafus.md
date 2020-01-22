@@ -1,9 +1,15 @@
-34. § (1) A szellőzőrendszereket úgy kell kialakítani, hogy az egyes szintek, önálló rendeltetési egységek között az esetleg keletkező tűz és füstgáz átterjedését a szellőzőrendszer ne tegye lehetővé.
+34. § (1)[^122] A szellőzőrendszereket úgy kell kialakítani, hogy az egyes szintek, önálló rendeltetési egységek között az esetleg keletkező tűz és füstgáz átterjedését a szellőzőrendszer ne tegye lehetővé, kivéve azokat a helyiségcsoportokat, amelyek között a helyiségkapcsolatok a tűz és a füstgáz terjedését nem korlátozzák.
 
-(2) A gépészeti aknán kívül elhelyezett szellőző-berendezés több tűzszakaszon átvezetett csatornáit és szigetelését A1 vagy A2-s1 minősítésű anyagból kell készíteni.
+(2)[^123] A gépészeti aknán kívül elhelyezett szellőző-berendezés több tűzszakaszon átvezetett csatornáit A1 vagy A2-s1 szigetelését A1, A1L, A2-s1 vagy A2L-s1 minősítésű anyagból kell készíteni.
 
-(3) A gépészeti aknában, valamint tűzszakaszon belül más helyiségen is átvezetett szellőzőcsatornának legalább C tűzvédelmi osztályú anyagból kell készülnie, kivéve a robbanásveszélyes anyagok jelenléte esetén, ahol azok csak A1 vagy A2 tűzvédelmi osztályba tartozó anyagúak lehetnek.
+(3)[^124] A gépészeti aknában, valamint tűzszakaszon belül más helyiségen is átvezetett szellőzőcsatornának legalább C tűzvédelmi osztályú anyagból kell készülnie, kivéve a fokozottan tűz- vagy robbanásveszélyes anyagok jelenléte esetén, ahol azok csak A1 vagy A2 tűzvédelmi osztályba tartozó anyagúak lehetnek.
 
-(4) A szellőzőnyílások rácsszerkezetét A1 vagy A2 tűzvédelmi osztályú anyagból kell készíteni.
+(4)[^125]
 
-(5) A mesterséges szellőztetés villamos motorjával B-F tűzvédelmi osztályú építményszerkezet nem érintkezhet.
+(5)[^126]
+
+[^122]: A 34. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 26. §-ával megállapított szöveg.
+[^123]: A 34. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 26. §-ával megállapított szöveg.
+[^124]: A 34. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 40. pontja szerint módosított szöveg.
+[^125]: A 34. § (4) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 15. pontja hatályon kívül helyezte.
+[^126]: A 34. § (5) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 15. pontja hatályon kívül helyezte.

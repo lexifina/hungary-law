@@ -1,4 +1,4 @@
-## 43. Oltóvíztározók
+## 43. [^211] Oltóvíztárolók
 
 82. § (1) A víztároló befogadóképessége nem lehet kisebb 30 m3-nél, alsó szintje pedig legfeljebb 7 méterrel lehet mélyebben a talajszintnél.
 
@@ -18,6 +18,9 @@ b) a település közüzemi vízműve víztárolójának tűzoltási célra bizt
 
 (6) A szívóvezeték belső átmérője legalább NA 100 legyen, alsó végződését szűrővel, felső vízszintes irányú végződését pedig szabványos A jelű (NA 100) csonkkapoccsal és kupakkapoccsal kell ellátni. A szívócsonk-csatlakozó helyet vízszintesen, a talajszinttől 0,8–1,2 méter magasságban kell kialakítani.
 
-(7) A szívócsővezetékeket egymástól legalább 5 méter távolságra kell elhelyezni.
+(7)[^212] A szívócsővezetékek csatlakozócsonkjait egymástól legalább 5 méter távolságra kell elhelyezni.
 
 (8) A vízszerzési helyet úgy kell kiépíteni, hogy az tűzoltó gépjárművel mindenkor megközelíthető és az oltóvíz – a vízállástól függetlenül – mindig akadálytalanul kiemelhető legyen.
+
+[^211]: A 43. alcím címe a 30/2019. (VII. 26.) BM rendelet 105. § 71. pontjával megállapított szöveg.
+[^212]: A 82. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 72. pontja szerint módosított szöveg.

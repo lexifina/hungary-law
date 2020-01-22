@@ -10,6 +10,8 @@
 
 (6) Természetes szellőzésű hő- és füstelvezetés alkalmazása esetén az alagút szabad keresztmetszete nem lehet kevesebb az alagút alapterületének 1%-ánál.
 
-(7) Gépi hő- és füstelvezetés alkalmazása esetén a hő- és füstelvezető rendszernek alkalmasnak kell lennie a 300 MW felszabaduló hőteljesítmény elvezetésére.
+(7)[^278] Gépi hő- és füstelvezetés alkalmazása esetén a hő- és füstelvezető rendszernek alkalmasnak kell lennie a hőfelszabadulás során keletkező füstgázok elvezetésére.
 
 (8) A hő- és füstelvezető rendszer automatikus és kézi indítását biztosítani kell. A kézi indítást a tűzoltósági beavatkozási központból, valamint az alagút végeinél kell biztosítani.
+
+[^278]: A 112. § (7) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 91. pontja szerint módosított szöveg.

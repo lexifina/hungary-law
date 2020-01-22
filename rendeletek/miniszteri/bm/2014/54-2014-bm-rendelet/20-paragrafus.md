@@ -1,13 +1,17 @@
-20. § (1) Tűzgátló válaszfallal, tűzgátló fallal vagy ezeket helyettesítő beépített tűzterjedésgátló berendezéssel kell elválasztani
+20. §[^83] (1) Legalább tűzgátló válaszfallal vagy ezt helyettesítő beépített tűzterjedésgátló berendezéssel kell elválasztani
 
 a) az önálló rendeltetési egységet a szomszédos helyiségtől,
 
-b) a hő és füst elleni védelemre kötelezett helyiséget a szomszédos helyiségtől,
+b) a menekülési útvonalat a szomszédos helyiségtől,
 
-c) a menekülési útvonalat a szomszédos helyiségtől,
+c) azt a helyiséget a szomszédos helyiségtől, amely esetében e rendelet előírja.
 
-d) a 20 főt meghaladó befogadóképességű helyiséget a szomszédos helyiségtől,
+(2) Az (1) bekezdés szerinti tűzgátló válaszfalban alkalmazható tűzállósági teljesítmény nélküli, üvegezett falszerkezet vagy üvegfal, amelynek összesített felülete
 
-e) azt a helyiséget a szomszédos helyiségtől, amely esetében e rendelet előírja.
+a) beépített tűzoltó berendezéssel védett tűzszakaszon belüli válaszfal esetén korlátozás nélküli,
 
-(2) Az (1) bekezdés szerinti tűzgátló válaszfalban a gépészeti vagy elektromos vezetékrendszerek átvezetési helyén nem kell tűzgátló záróelemet alkalmazni.
+b) egyéb esetben nem haladja meg az elválasztó falfelület 20%-át.
+
+(3) A (2) bekezdés szerinti üvegezett falszerkezet, üvegfal akkor alkalmazható menekülési útvonalat képező fedett átriumban, ha az átriumot befogadó tűzszakasz teljes területét beépített tűzoltó berendezés védi, és a homlokzati tűzterjedés elleni gát követelményei teljesülnek.
+
+[^83]: A 20. § a 30/2019. (VII. 26.) BM rendelet 14. §-ával megállapított szöveg.

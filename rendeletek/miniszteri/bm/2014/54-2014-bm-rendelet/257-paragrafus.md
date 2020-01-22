@@ -1,10 +1,10 @@
-257. § (1) Tűzjelző berendezések esetében a féléves rendszeres felülvizsgálat és karbantartás során az üzemeltető biztosítja, hogy a felülvizsgálatra és karbantartásra vonatkozó képesítéssel rendelkező személy
+257. § (1)[^461] Tűzjelző berendezések esetében a féléves rendszeres felülvizsgálat és karbantartás során az üzemeltető biztosítja, hogy a jogosult személy
 
 a) ellenőrizze a tűzjelző berendezés (távkezelő, távkijelző egység) üzemeltetésének személyi feltételeit,
 
 b) ellenőrizze az üzemeltetési napló bejegyzéseit és tegye meg a szükséges beavatkozásokat a berendezés helyes működésének érdekében,
 
-c) értékelje az üzembentartó által végzett ellenőrzés tapasztalatait, ha szükséges tegyen javaslatot a berendezés helyes működésének helyreállítására,
+c)[^462] értékelje az üzemeltető által végzett ellenőrzés tapasztalatait, ha szükséges tegyen javaslatot a berendezés helyes működésének helyreállítására,
 
 d) működtessen minden zónában legalább egy érzékelőt vagy kézi jelzésadót, és ellenőrizze, hogy a tűzjelző központ helyesen észleli és jelzi ki az eseményeket, megszólaltatja-e a riasztásjelző eszközöket (hang-, fényjelzők) és működteti-e a vezérlési funkciókat, a sérülés életveszély vagy károsodás (oltóanyag kiáramlása) elkerülésének érdekében megfelelő eljárásokat kell alkalmazni,
 
@@ -16,7 +16,7 @@ g) tűz- és hibaátjelző berendezés esetén ellenőrizze a kapcsolatot a foga
 
 h) végezzen el minden további ellenőrzést és vizsgálatot, amit a telepítő, forgalmazó vagy a gyártó előírt.
 
-(2) Éves rendszeres felülvizsgálat és karbantartás során, az üzemeltetőnek legalább évente kell biztosítania, hogy a felülvizsgálatra és karbantartásra vonatkozó képesítéssel rendelkező személy
+(2)[^463] Éves rendszeres felülvizsgálat és karbantartás során, az üzemeltetőnek legalább évente kell biztosítania, hogy a jogosult személy
 
 a) elvégezze az (1) bekezdésben foglalt feladatokat,
 
@@ -26,7 +26,7 @@ c) szemrevételezéssel ellenőrizze, hogy az összes vezeték szerelvény és b
 
 d) szemrevételezés során és az üzemeltető adatszolgáltatása figyelembevételével pontosítsa, hogy történt-e bármilyen a tűzjelző berendezés megfelelő működését – különösen az automatikus érzékelők, kézi jelzésadók, hangjelzők, fényjelzők elhelyezésének megfelelősségét – befolyásoló változás, az épület vagy a helyiségek rendeltetésében, használatában, a technológiában, az épületszerkezetekben, épületgépészeti elemekben.
 
-(3) A rendkívüli felülvizsgálat és karbantartás során az üzembentartó biztosítja, hogy a felülvizsgálatra és karbantartásra vonatkozó képesítéssel rendelkező személy, a (4)–(5) bekezdésben, továbbá a 258. § (1)–(4) bekezdésben meghatározottakat elvégezze.
+(3)[^464] A rendkívüli felülvizsgálat és karbantartás során az üzemeltető biztosítja, hogy a jogosult személy, a (4)–(5) bekezdésben, továbbá a 258. § (1)–(4) bekezdésben meghatározottakat elvégezze.
 
 (4) Tűzeset után
 
@@ -45,3 +45,8 @@ a) meg kell vizsgálni, hogy milyen objektív és szubjektív körülmények vez
 b) ha megállapítható a téves riasztást okozó körülmény, javaslatot kell tenni a felszámolására,
 
 c) a téves riasztást okozó körülmény kialakulásának megakadályozása érdekében a szükséges átalakítást, javítást, cserét – a jogszabályban foglalt feltételek megtartása mellett – el kell végezni.
+
+[^461]: A 257. § (1) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 163. pontja szerint módosított szöveg.
+[^462]: A 257. § (1) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 159. pontja szerint módosított szöveg.
+[^463]: A 257. § (2) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 163. pontja szerint módosított szöveg.
+[^464]: A 257. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 159. és 163. pontja szerint módosított szöveg.

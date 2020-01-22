@@ -1,3 +1,6 @@
-## 100. § E fejezet vonatkozik az ipari, tárolási és mezőgazdasági rendeltetésű helyiségekben keletkező esetleges térrobbanás vagy nem robbanóanyag által okozott egyéb robbanás túlnyomásának levezetésére való – a jogszabályok, műszaki előírások által meghatározott esetekben alkalmazandó – lefúvató hasadó vagy hasadó-nyíló felületek kialakítási követelményeire.
+## 100. §[^270]
 
-## 59. A hasadó felületek felületnagyságának meghatározása
+## 59.[^271]
+
+[^270]: A 100. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 33. pontja hatályon kívül helyezte.
+[^271]: Az 59. alcímet (101–102. §) a 30/2019. (VII. 26.) BM rendelet 106. § 34. pontja hatályon kívül helyezte.

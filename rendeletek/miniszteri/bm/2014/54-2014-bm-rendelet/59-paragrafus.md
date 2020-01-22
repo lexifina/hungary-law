@@ -1,6 +1,6 @@
-## 32. Menekülési útvonalon beépített nyílászárók
+## 32. [^180] Kiürítésre szolgáló nyílászárók
 
-59. § (1) Az 50 főnél nagyobb befogadóképességű helyiség menekülésre szolgáló ajtói, valamint az ilyen helyiségekben tartózkodók menekülésére szolgáló ajtó
+59. § (1)[^181] Az 50 főnél nagyobb befogadóképességű helyiség kiürítésre szolgáló ajtói, valamint az ilyen helyiségekben tartózkodók menekülésére szolgáló ajtó és az 50 főnél több személy kiürítésére szolgáló ajtó
 
 a) a kiürítés irányába nyíljon vagy a nyitásiránytól függetlenül menekülési útvonalon beépíthető legyen,
 
@@ -8,36 +8,27 @@ b) a kinyithatóság szempontjából menekülési útvonalon beépíthető legye
 
 c) nyílásába legfeljebb 15 mm magas küszöb építhető be.
 
-(2) A menekülésre szolgáló, vezérléssel működő ajtók esetében a kézi erővel történő nyitást minden esetben biztosítani kell.
+(2)[^182] A kiürítésre szolgáló, vezérléssel működő ajtók esetében a kézi erővel történő nyitást minden esetben biztosítani kell.
 
 (3) A menekülési útvonalon beépített ajtónál függöny, szélfogó csak úgy helyezhető el, hogy az széthúzáskor a kijáratot ne szűkítse. A függöny a padló síkját nem érheti el, belső széleit eltérő színű csíkkal kell megjelölni.
 
-(4) A tömegtartózkodásra szolgáló helyiség menekülésre szolgáló ajtóit és a tömegtartózkodásra szolgáló helyiség menekülési útvonalán beépített ajtókat egy mozdulattal nyithatóan kell kialakítani.
+(4)[^183] A tömegtartózkodásra szolgáló helyiség kiürítésre szolgáló ajtóit és a tömegtartózkodásra szolgáló helyiség menekülési útvonalán beépített ajtókat egy mozdulattal nyithatóan kell kialakítani.
 
 (5) Az ipari, mezőgazdasági és tárolási célú építményeknél a menekülési útvonalon megengedett toló, billenő és emelkedő zsalus kapuk alkalmazása, ha azok mindkét oldalról és kézi úton 20 másodpercen belül legalább az 53. §-ban meghatározott szélességben és magasságban biztonságosan nyithatók és az érintett helyiségben tartózkodó személyek száma 20 m2-enként az egy főt nem haladja meg.
 
-(6) A lakások, lakóépületek bejáratát, a lakásokhoz vezető közlekedőn beépített ajtókat abban az esetben lehet bezárni, ha valamennyi érintett személy részére biztosítják a nyitás lehetőségét.
+(6)[^184] A kiürítésre szolgáló, üzemszerűen zárva tartott ajtók vészeseti nyithatóságát és a beléptető rendszerek kiürítést nem akadályozó kialakítását biztosítani kell.
 
-(7) Menekülésre szolgáló, üzemszerűen kulcsra zárt ajtó nyithatósága abban az esetben biztosítható kulcsdoboz elhelyezésével, ha
+(7)[^185]
 
-a) az ajtón egyetlen zárat helyeznek el, amelynek kulcsát a kulcsdoboz tartalmazza,
+(8)[^186]
 
-b) a kulcsdobozt a menekülő személy számára elérhető helyen, az ajtótól legfeljebb 0,5 m távolságra és biztonsági jellel megjelölve helyezik el,
+(9)[^187]
 
-c) az ajtón keresztül menekülő személyek száma legfeljebb 50 fő és
-
-d) az adott helyen egyetlen, menekülésre szolgáló ajtó van beépítve.
-
-(8) A menekülést akadályozó beléptető rendszer alkalmazása esetén biztosítani kell
-
-a) a menekülő személy részére a beléptetési ponton a késedelem nélküli áthaladást, az ehhez szükséges vezérlést, eszközöket és használhatóságukat,
-
-b) a beléptetési ponton a szabaddá váló útvonal szükséges szélességét, átbocsátóképességét,
-
-c) az áthaladást gátló szerkezet menekülést nem akadályozó helyzetbe
-
-ca) állását automatikusan vagy
-
-cb) állíthatóságát kézzel, legfeljebb 220 N erőigénnyel.
-
-(9) Az elektromos energiával működő, menekülést akadályozó beléptető rendszer az energiaellátás megszűnése esetén automatikusan tegye lehetővé az áthaladást a (8) bekezdés c) pontjában foglaltak szerint.
+[^180]: A 32. alcím címe a 30/2019. (VII. 26.) BM rendelet 41. §-ával megállapított szöveg.
+[^181]: Az 59. § (1) bekezdés nyitó szövegrésze a 30/2019. (VII. 26.) BM rendelet 105. § 60–61. pontja szerint módosított szöveg.
+[^182]: Az 59. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 60. pontja szerint módosított szöveg.
+[^183]: Az 59. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 60. pontja szerint módosított szöveg.
+[^184]: Az 59. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 42. §-ával megállapított szöveg.
+[^185]: Az 59. § (7) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 22. pontja hatályon kívül helyezte.
+[^186]: Az 59. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 22. pontja hatályon kívül helyezte.
+[^187]: Az 59. § (9) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 22. pontja hatályon kívül helyezte.

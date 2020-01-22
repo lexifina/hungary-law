@@ -8,10 +8,14 @@ a) 30 méter feletti legfelső használati szintű épület,
 
 b) fekvőbeteg ellátásra szolgáló intézmény,
 
-c) felszín alatti vasútvonal alagútja és állomása
+c) felszín alatti vasútvonal alagútja és állomása,
+
+d)[^313] menekülésben korlátozott személyek speciális intézménye
 
 ## esetében.
 
 (2) Ha a beépített tűzjelző berendezés, beépített tűzoltó berendezés állandó felügyelete a tűzjelző vagy oltásvezérlő központ jelzéseinek automatikus átjelzésével a létesítményen kívül kialakított állandó felügyeleti helyre, távfelügyeletre történik, a távfelügyelet köteles a tűzátjelzést az első fokú tűzvédelmi hatóság által meghatározott, a katasztrófavédelmi szerv által felügyelt helyre elektronikus úton továbbítani.
 
 (3) Az (1)–(2) bekezdésben meghatározott esetekben a tűzátjelzést automatikus és felügyelt kapcsolaton keresztül kell megvalósítani.
+
+[^313]: A 156. § (1) bekezdés d) pontját a 30/2019. (VII. 26.) BM rendelet 76. §-a iktatta be.

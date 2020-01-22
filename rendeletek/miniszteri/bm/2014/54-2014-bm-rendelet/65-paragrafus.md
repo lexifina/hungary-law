@@ -4,26 +4,24 @@
 
 ## 37. Általános követelmények
 
-65. § (1) A tűzoltási felvonulási területet és útvonalat kell biztosítani
+65. §[^195] (1) Tűzoltási felvonulási területet és utat kell biztosítani
 
 a) 14 m szintmagasság feletti legfelső építményszintű épületek,
 
-b) a 3000 m2 – szintenkénti összesített – alapterületet meghaladó kereskedelmi, vegyes rendeltetésű épületek,
+b) a 3000 m2 – szintenkénti összesített – alapterületet meghaladó kereskedelmi rendeltetésű épületek, valamint az ilyen épületrészeket befogadó épületek,
 
-c) az 5000 fő vagy azt meghaladó befogadóképességű sportlétesítmények,
+c) az 5000 fő vagy azt meghaladó befogadóképességű helyiséget vagy kültéri nézőteret tartalmazó sportrendeltetésű épületek,
 
-d) a 300 fő befogadóképességet meghaladó kiskorúak oktatási intézményei vagy
+d) a 300 fő befogadóképességet meghaladó, kiskorúak oktatási intézményei és
 
-e) a 300 fő befogadóképességet – beleértve az ágyszámot, járóbeteg létszámot és a személyzet létszámát – meghaladó kórházak és menekülésben korlátozott személyeket ellátó intézmények
+e) a 300 fő befogadóképességet – beleértve az ágyszámot, járóbeteglétszámot és a személyzet létszámát – meghaladó kórházak és menekülésben korlátozott személyeket ellátó intézmények
 
 ## esetében.
 
-(2) Az épületek megközelítését szolgáló utakat, valamint a tűzoltási felvonulási utat és területet elsődlegesen közterületen kell biztosítani.
+(2) Tűzoltási felvonulási terület és út a létesítendő építménnyel szomszédos telken – közterület kivételével – nem jelölhető és alakítható ki.
 
-(3) Tűzoltási felvonulási terület és út a létesítendő építménnyel szomszédos telken – közterület kivételével – nem jelölhető és alakítható ki.
+(3) A tűzoltási felvonulási terület és út kialakítását a tűzvédelmi hatóság köteles a helyi adottságoknak megfelelően – saját és segítségnyújtó egységek magasból mentő járműveinek, gépjárműfecskendőinek, más, az érintett épület tűzoltásához tervezett tűzoltó gépjárművének paraméterei alapján – a szakhatósági állásfoglalásában meghatározni az építési engedélyezési eljárás keretében.
 
-(4) A tűzoltási felvonulási terület és útvonal kialakítását a tűzvédelmi szakhatóság köteles a helyi adottságoknak megfelelően – saját és segítségnyújtó egységek emelőinek, gépjárműfecskendőinek paraméterei alapján – a szakhatósági állásfoglalásában meghatározni az építési engedélyezési eljárás keretében.
+(4) Tűzoltási felvonulási terület és út lezárásának módját a tűzvédelmi hatósággal kell egyeztetni.
 
-(5) Tűzoltási felvonulási terület és út lezárásának módját a tűzvédelmi hatósággal kell egyeztetni.
-
-(6) A tűzoltó gépjárművek közlekedésére alkalmas, a létesítmény két külön oldalhatárán álló bejáratot kell létesíteni a 30 000 m2-nél nagyobb alapterületű létesítményeknél.
+[^195]: A 65. § a 30/2019. (VII. 26.) BM rendelet 45. §-ával megállapított szöveg.

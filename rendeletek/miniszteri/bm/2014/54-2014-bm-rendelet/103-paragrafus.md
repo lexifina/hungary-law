@@ -1,3 +1,5 @@
-## 102. § A hasadó-nyíló felületek megnyílási nyomása – ha ezt egyéb igények, így betörésvédelem vagy technológiai túlnyomás nem növelik – a beépítési helyükön várható szélszívás 10%-kal növelt értékénél nem lehet nagyobb.
+## 102. §
 
-## 60. A hasadó-nyíló felületek felületnagyságának meghatározása
+## 60.[^272]
+
+[^272]: A 60. alcímet (103. §) a 30/2019. (VII. 26.) BM rendelet 106. § 34. pontja hatályon kívül helyezte.

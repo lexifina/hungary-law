@@ -1,25 +1,25 @@
-## 58. Füstmentes lépcsőházi helyiségkapcsolatok, nyílászárók
+## 58. [^261] Füstmentes előtéri és füstmentes lépcsőházi helyiségkapcsolatok, nyílászárók
 
-98. § (1) A füstmentes lépcsőházban kizárólag kézi vagy automatikus tűzeseti vezérléssel ellátott felvonót lehet elhelyezni.
+98. § (1)[^262] A füstmentes lépcsőházban kizárólag kézi vagy – beépített tűzjelző berendezéssel ellátott épület, épületrész esetén – automatikus tűzeseti vezérléssel ellátott felvonót lehet elhelyezni.
 
 (2) A füstmentes lépcsőházhoz és előteréhez csatlakozhat az (1) bekezdés szerinti felvonó aknája, ha más helyiségbe nem nyílik aknaajtó.
 
 (3) A természetes szellőzésű füstmentes lépcsőház legfeljebb egy pinceszintet szolgálhat ki.
 
-(4) Több pinceszintet kiszolgáló lépcsőház és a pinceszinti helyiségek között túlnyomásos füstmentes előteret kell kialakítani, amelyben tűz esetén 20–25 Pa túlnyomást kell biztosítani.
+(4)[^263]
 
-(5) A füstmentes lépcsőházba és a füstmentes előtérbe a 9. mellékletben foglalt 5. táblázat szerinti helyiségek nyílhatnak, az ott meghatározott nyílászárókkal.
+(5)[^264] A füstmentes lépcsőházba és a füstmentes előtérbe a szomszédos helyiségek és egyéb, ajtónak nem minősülő nyílászárók úgy nyílhatnak, hogy azok a füstmentesítés működését és a kiürítést nem veszélyeztethetik.
 
-(6) Meglévő, nem lakórendeltetésű épület vagy épületrész meglévő lépcsőházának túlnyomásos füstmentessé alakítása során a lépcsőházba nyíló, meglévő helyiségek nyílhatnak a füstmentes lépcsőházba, ha
+(6)[^265]
 
-a) a nyílászáró Sm-C és legalább EI2 60-C tűzállósági teljesítményű és
+(7)[^266]
 
-b) az érintett tűzszakasz teljes területét beépített oltóberendezés védi.
+(8)[^267]
 
-(7) A túlnyomásos füstmentes lépcsőház és a túlnyomásos füstmentes előtér ajtónak nem minősülő nyílászáróját úgy kell kialakítani, hogy az
-
-a) tűz esetén automatikusan csukódjon vagy
-
-b) állandóan zárt állapotú legyen és csak segédeszközzel legyen nyitható.
-
-(8) A túlnyomásos füstmentes lépcsőház és a túlnyomásos füstmentes előtér menekülésre szolgáló nyílászáróinak használatát a kialakuló túlnyomás nem akadályozhatja, a nyitáshoz szükséges erőkifejtés nem haladhatja meg a 100 N-t.
+[^261]: Az 58. alcím címe a 30/2019. (VII. 26.) BM rendelet 105. § 88. pontja szerint módosított szöveg.
+[^262]: A 98. § (1) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 89. pontja szerint módosított szöveg.
+[^263]: A 98. § (4) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 32. pontja hatályon kívül helyezte.
+[^264]: A 98. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 64. §-ával megállapított szöveg.
+[^265]: A 98. § (6) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 32. pontja hatályon kívül helyezte.
+[^266]: A 98. § (7) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 32. pontja hatályon kívül helyezte.
+[^267]: A 98. § (8) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 32. pontja hatályon kívül helyezte.

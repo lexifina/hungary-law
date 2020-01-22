@@ -1,4 +1,4 @@
-## 52. Hő- és füstelvezető szerkezet
+## 52. [^236] Hő- és füstelvezető szerkezet, hő- és füstelvezetésre szolgáló szabad nyílás
 
 91. § (1) A hő- és füstelvezető szerkezet
 
@@ -22,7 +22,7 @@ e) hővel szembeni ellenállása B = 300 °C és
 
 f) égvecsepegési kategóriája – a vízszinteshez képest 120°-nál nagyobb mértékben kinyíló szerkezet kivételével – d0.
 
-(2) A hő- és füstelvezető szerkezet nyitását biztosítani kell legfeljebb 250 Pa függőleges megoszló teher (hóteher, jelzése: SL) esetében is.
+(2)[^237] A vízszinteshez viszonyítva legfeljebb 60°-os szöget bezáró beépítési helyzetű hő- és füstelvezető szerkezet nyitását biztosítani kell legfeljebb 250 Pa függőleges megoszló teher (hóteher, jelzése: SL) esetében is.
 
 (3) Az alacsony belső hőmérsékleten történő nyitást
 
@@ -34,4 +34,11 @@ hőmérsékleten kell biztosítani.
 
 (4) A hő- és füstelvezető szerkezet átfolyási tényezőjét vizsgálattal kell megállapítani.
 
-(5) Meglévő épület, épületrész füstelvezetésének létesítésénél, átalakításánál, felújításánál oldalfalba épített meglévő nyílászáró füstelvezető szerkezetként való alkalmazása esetén, vizsgálati eredmény hiányában alkalmazható a 9. mellékletben foglalt 2. táblázat szerinti átfolyási tényező, ha az alkalmazást az átalakítás mértékének, körének figyelembevételével a tűzvédelmi szakhatósággal egyeztették.
+(5)[^238] Meglévő épület, épületrész füstelvezetésének létesítésénél, átalakításánál, felújításánál oldalfalba épített meglévő nyílászáró füstelvezető szerkezetként való alkalmazása esetén, vizsgálati eredmény hiányában alkalmazható normatív átfolyási tényező, ha az alkalmazást az átalakítás mértékének, körének figyelembevételével a tűzvédelmi hatósággal egyeztették.
+
+(6)[^239] A hő- és füstelvezetésre szolgáló szabad nyílások esetében a hő- és füstelvezető szerkezetekre vonatkozó követelményeket a hatásos nyílásfelület, valamint az elhelyezés tekintetében alkalmazni kell. A szabad nyílás átfolyási tényezőjeként alkalmazható normatív érték is.
+
+[^236]: Az 52. alcím címe a 30/2019. (VII. 26.) BM rendelet 58. §-ával megállapított szöveg.
+[^237]: A 91. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 79. pontja szerint módosított szöveg.
+[^238]: A 91. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 62. és 80. pontja szerint módosított szöveg.
+[^239]: A 91. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 59. §-ával megállapított szöveg.

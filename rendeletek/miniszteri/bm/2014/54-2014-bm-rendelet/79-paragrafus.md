@@ -6,9 +6,9 @@ a) ahol azt jogszabály előírja,
 
 b) egynél több szintes gépjárműtárolók esetében vagy
 
-c) az MK osztályba tartozó 200 m2-nél, a KK osztályba tartozó 500 m2-nél, és az AK osztályba tartozó 1000 m2-nél nagyobb alapterületű kockázati egységekben.
+c)[^208] az MK kockázati osztályba tartozó kockázati egység 200 m2-nél, a KK kockázati osztályba tartozó kockázati egység 500 m2-nél és az AK kockázati osztályba tartozó kockázati egység 1000 m2-nél nagyobb alapterületű tűzszakaszában.
 
-(2) Nem kell fali tűzcsapot létesíteni a nyitott vagy részben nyitott építményekben, a hűtőházak hűtött tereiben, az állattartásra szolgáló épületekben, valamint az ömlesztett terménytároló épületek tároló részein.
+(2)[^209] Nem kell fali tűzcsapot létesíteni a nyitott vagy részben nyitott építményekben, a hűtőházak hűtött tereiben, az állattartásra szolgáló épületekben, a kizárólag növénytermesztési célú földszintes építményekben, valamint az ömlesztett terménytároló épületek tároló részein.
 
 (3) Nem létesíthető fali tűzcsap azokban a tűzszakaszokban, ahol a víz használata életveszélyt, tüzet, robbanást okozhat vagy a tűz terjedését elősegítheti.
 
@@ -19,3 +19,6 @@ c) az MK osztályba tartozó 200 m2-nél, a KK osztályba tartozó 500 m2-nél, 
 (6) A falitűzcsap-hálózatot a 8. mellékletben foglalt 2. táblázat szerint kell kialakítani, méretezni.
 
 (7) A fali tűzcsapokat úgy kell elhelyezni, hogy azok a legtávolabbi hely oltását is tudják biztosítani – a megközelítési utat tömlőfektetési nyomvonalon kell figyelembe venni –, valamint a fali tűzcsapok lefedjék a tűzszakasz teljes területét. Egy helyiségen belül 5 méter vízsugár figyelembe vehető, ha azt építményszerkezet vagy beépített bútor, berendezés nem akadályozza.
+
+[^208]: A 79. § (1) bekezdés c) pontja a 30/2019. (VII. 26.) BM rendelet 50. §-ával megállapított szöveg.
+[^209]: A 79. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 70. pontja szerint módosított szöveg.
