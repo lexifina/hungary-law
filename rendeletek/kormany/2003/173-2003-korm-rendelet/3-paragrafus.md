@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-3. § (1)[^10] E rendelet alkalmazásában
+3. § (1)[^11] E rendelet alkalmazásában
 
 a) nem üzleti célú közösségi, szabadidős szálláshely az erre a célra épített vagy átalakított és az ekként minősített, illetve – ahol e rendelet előírja – ekként nyilvántartásba vett üdültetési és ifjúsági turisztikai célú, továbbá hegyi menedék céljára szolgáló szálláshely,
 
@@ -10,17 +10,17 @@ ba) sportlétesítményben üzemelő, szálláshely céljára szolgáló önáll
 
 bb) szálláshely-szolgáltatásának időszakában kiegészítő vagy melléktevékenység formájában üzemeltetett hivatali, közfeladatot ellátó intézmény által biztosított és az egyházi jogi személy által nem gazdasági-vállalkozási tevékenysége keretében üzemeltetett intézményi szállás.
 
-(1a)[^11] A nem üzleti célú közösségi, szabadidős szálláshelyek típusait (altípusait) az 1. számú melléklet, az e típusoknak (altípusoknak) minősülő további szálláshelyeket, valamint a szálláshelyek besorolását és minősítési követelményeit a 2. számú melléklet tartalmazza.
+(1a)[^12] A nem üzleti célú közösségi, szabadidős szálláshelyek típusait (altípusait) az 1. számú melléklet, az e típusoknak (altípusoknak) minősülő további szálláshelyeket, valamint a szálláshelyek besorolását és minősítési követelményeit a 2. számú melléklet tartalmazza.
 
 (2) Az igénybevétel időtartama szerint
 
-a)[^12] alkalmi szálláshelynek minősül
+a)[^13] alkalmi szálláshelynek minősül
 
 1. a bivakszállás,
 
 2. a hegyi menedékházban kialakított szükségszállás;
 
-b)[^13] rövid idejű tartózkodást biztosító szálláshelynek minősül
+b)[^14] rövid idejű tartózkodást biztosító szálláshelynek minősül
 
 1. a nomád táborhely,
 
@@ -28,7 +28,7 @@ b)[^13] rövid idejű tartózkodást biztosító szálláshelynek minősül
 
 3. a pihenőházból a vendégszállás;
 
-c)[^14] átmeneti tartózkodást biztosító szálláshelynek minősül
+c)[^15] átmeneti tartózkodást biztosító szálláshelynek minősül
 
 1. az üdülő,
 
@@ -36,7 +36,7 @@ c)[^14] átmeneti tartózkodást biztosító szálláshelynek minősül
 
 3. a hegyi menedékházból a turistaház,
 
-4. a pihenőházból a munkásszállás,
+4.[^16]
 
 5. a diákotthon, kollégium.
 
@@ -56,8 +56,9 @@ b) állandó felügyelettel üzemelő szálláshelynek minősülnek az a) pontba
 
 (4) E rendelet alkalmazásában nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatás a társadalom közös szükségleteinek kielégítését nem üzleti célú közösségi, szabadidős szálláshelyen nyereség- és vagyonszerzési cél nélkül megvalósító szolgáltatási tevékenység, tekintet nélkül a szolgáltató jellegére.
 
-[^10]: A 3. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^11]: A 3. § (1a) bekezdését a 297/2013. (VII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^12]: A 3. § (2) bekezdésének a) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^13]: A 3. § (2) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^14]: A 3. § (2) bekezdésének c) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^11]: A 3. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1a) bekezdését a 297/2013. (VII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^13]: A 3. § (2) bekezdésének a) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^14]: A 3. § (2) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^15]: A 3. § (2) bekezdésének c) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^16]: A 3. § (2) bekezdés c) pont 4. alpontját a 353/2019. (XII. 23.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
