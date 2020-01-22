@@ -1,0 +1,1 @@
+## „(5) A nézőtér jellegű elrendezés esetén a székeket, széksorokat 100 főnél több személy befogadására szolgáló helyiségekben úgy kell kialakítani, hogy a kiürítést elmozdulással, feldőléssel ne akadályozzák.”

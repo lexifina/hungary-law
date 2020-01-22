@@ -1,0 +1,1 @@
+## „(7) A hő- és füstelvezetés és légpótlás tervezése során számítással is megállapítható a füstszakasz mérete, a füstelvezetéshez, légpótláshoz szükséges nyílások beépítési helye, a füstkötényfal szükségessége, belógásának mértéke.”

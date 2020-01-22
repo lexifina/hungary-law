@@ -1,0 +1,1 @@
+## „(1a) A kivételnek minősülő átvezetések esetében az átvezetési helyen a vezeték és az építményszerkezet közötti rést, nyílást, hézagot az átvezetéssel érintett építményszerkezetre előírt tűzvédelmiosztály-követelménynek legalább megfelelő tűzvédelmi osztályú anyaggal tömören le kell zárni.”

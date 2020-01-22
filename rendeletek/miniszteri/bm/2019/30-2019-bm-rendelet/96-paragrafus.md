@@ -1,0 +1,1 @@
+## „(3) A beépített tűzjelző, tűzoltó, tűzterjedésgátló berendezés tűz észlelésére, oltására, a tűzterjedés gátlására szolgáló részegységeinek működési feltételeit a részegységek környezetében folyamatosan biztosítani kell, azok hatékonyságát eltakarással, eltorlaszolással vagy más módon korlátozni, csökkenteni nem szabad.”
