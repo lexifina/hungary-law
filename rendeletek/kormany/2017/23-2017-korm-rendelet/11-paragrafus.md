@@ -1,4 +1,4 @@
-## 10/A. §[^41] E rendeletnek a munkaerőpiaci mobilitást elősegítő munkásszállás építéséhez nyújtható támogatásról szóló 23/2017. (II. 3.) Korm. rendelet módosításáról szóló 226/2019. (IX. 25.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^42] követően indult eljárásokban kell alkalmazni.
+## 10/B. §[^46] E rendeletnek a nem üzleti célú közösségi, szabadidős szálláshely-szolgáltatásról szóló 173/2003. (X. 28.) Korm. rendelet, valamint a munkaerőpiaci mobilitást elősegítő munkásszállás építéséhez nyújtható támogatásról szóló 23/2017. (II. 3.) Korm. rendelet módosításáról szóló 353/2019. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépését[^47] követően benyújtott támogatási igények alapján induló eljárásokban kell alkalmazni.
 
-[^41]: A 10/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 11. §-a iktatta be.
-[^42]: A hatálybalépés időpontja 2019. október 10.
+[^46]: A 10/B. §-t a 353/2019. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^47]: A hatálybalépés időpontja 2020. január 22.

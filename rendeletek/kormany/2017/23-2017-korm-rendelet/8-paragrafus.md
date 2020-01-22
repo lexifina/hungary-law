@@ -6,23 +6,23 @@
 
 a) a 651/2014/EU bizottsági rendelet 1. cikk (2)–(5) bekezdése alapján,
 
-b)[^31] a 651/2014/EU bizottsági rendelet 56. cikke alapján dedikált infrastruktúra fejlesztéséhez,
+b)[^34] a 651/2014/EU bizottsági rendelet 56. cikke alapján dedikált infrastruktúra fejlesztéséhez,
 
 c) olyan infrastruktúrához, amelyre a 651/2014/EU bizottsági rendelet egyéb cikke alapján – regionális beruházási támogatás kivételével – nyújtható támogatás,
 
-d)[^32] csőd-, felszámolási eljárás vagy végelszámolás alatt álló szervezetnek,
+d)[^35] csőd-, felszámolási eljárás vagy végelszámolás alatt álló szervezetnek,
 
-e)[^33] azon szervezet részére, amely nem tett eleget az Európai Bizottság által hozott, európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének.
+e)[^36] azon szervezet részére, amely nem tett eleget az Európai Bizottság által hozott, európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének.
 
-(3a)[^34] Nem nyújtható támogatás annak a támogatást igénylő gazdasági társaságnak
+(3a)[^37] Nem nyújtható támogatás annak a támogatást igénylő gazdasági társaságnak
 
 a) amelynek foglalkoztatotti létszáma a támogatási igény benyújtását megelőző lezárt üzleti évben a 12 000 főt meghaladta, és
 
 b) amely nem rendelkezik legalább három lezárt teljes üzleti évvel.
 
-(3b)[^35] Ha a támogatást igénylő gazdasági társaság elismert vállalatcsoport részeként tevékenykedik, a foglalkoztatotti létszám meghatározása során a vállalatcsoport valamennyi tagjának együttes foglalkoztatotti létszámát szükséges figyelembe venni.
+(3b)[^38] Ha a gazdasági társaság vállalatcsoport részeként tevékenykedik, akkor a foglalkoztatotti létszám meghatározása során a kapcsolt- és partnervállalkozásaival – a 651/2014/EU bizottsági rendelet 1. mellékletében rögzített módszertan szerint – egybeszámított foglalkoztatotti létszámát szükséges figyelembe venni.
 
-(3c)[^36] Ha a támogatást igénylő gazdasági társaság elismert vállalatcsoport részeként tevékenykedik, a támogatás abban az esetben is biztosítható, ha a támogatást igénylő vagy az elismert vállalatcsoport bármely tagja rendelkezik legalább három lezárt teljes üzleti évvel.
+(3c)[^39] A (3b) bekezdés szerinti gazdaság társaság számára a támogatás abban az esetben nyújtható, ha a támogatást igénylő, vagy kapcsolt vállalkozása rendelkezik legalább három lezárt teljes üzleti évvel.
 
 (4) A 651/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a támogatást kérelmező a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket is tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
@@ -36,9 +36,9 @@ b) amely nem rendelkezik legalább három lezárt teljes üzleti évvel.
 
 (9) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
-[^31]: A 8. § (3) bekezdés b) pontja a 226/2019. (IX. 25.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^32]: A 8. § (3) bekezdés d) pontját a 226/2019. (IX. 25.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^33]: A 8. § (3) bekezdés e) pontját a 226/2019. (IX. 25.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^34]: A 8. § (3a) bekezdését a 226/2019. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^35]: A 8. § (3b) bekezdését a 226/2019. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^36]: A 8. § (3c) bekezdését a 226/2019. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^34]: A 8. § (3) bekezdés b) pontja a 226/2019. (IX. 25.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^35]: A 8. § (3) bekezdés d) pontját a 226/2019. (IX. 25.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^36]: A 8. § (3) bekezdés e) pontját a 226/2019. (IX. 25.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^37]: A 8. § (3a) bekezdését a 226/2019. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^38]: A 8. § (3b) bekezdését a 226/2019. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 353/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^39]: A 8. § (3c) bekezdését a 226/2019. (IX. 25.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 353/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-9/A. §[^39] (1) Regionális beruházási támogatás az induló beruházáshoz vagy új gazdasági tevékenység végzésére irányuló induló beruházáshoz nyújtható az Atr. 25. §-ában meghatározott régiókban vagy településeken.
+9/A. §[^42] (1) Regionális beruházási támogatás az induló beruházáshoz vagy új gazdasági tevékenység végzésére irányuló induló beruházáshoz nyújtható az Atr. 25. §-ában meghatározott régiókban vagy településeken.
 
 (2) A támogatási intenzitás mértéke – beleértve a más államháztartási forrásokból kapott állami támogatásokat – nem haladhatja meg az Atr. 25. §-ában meghatározott százalékos mértéket.
 
@@ -52,4 +52,4 @@ f) nagyvállalkozásnál a korábban már bárki által használatba vett tárgy
 
 (13) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, e tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-[^39]: A 9/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 8. §-a iktatta be.
+[^42]: A 9/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 8. §-a iktatta be.

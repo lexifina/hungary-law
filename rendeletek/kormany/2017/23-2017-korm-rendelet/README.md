@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-23-20-2
 | 2018-01-01 | 2017-23-20-22.2 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-09-15 | 2017-23-20-22.3 | 161/2018. (IX. 7.) Korm. rendelet |
 | 2019-10-10 | 2017-23-20-22.4 | 226/2019. (IX. 25.) Korm. rendelet |
+| 2020-01-22 | 2017-23-20-22.5 | 353/2019. (XII. 23.) Korm. rendelet |
