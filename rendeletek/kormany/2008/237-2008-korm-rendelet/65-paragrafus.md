@@ -4,6 +4,6 @@
 
 (2) Az NKE a beérkezett elszámolásokat számszakilag ellenőrzi, de a dokumentációban javítást nem végezhet. Az NKE az el nem fogadott elszámolásokat azok kézhezvételétől számított 10 munkanapon belül a KSz részére korrekcióra visszaküldi.
 
-(3)[^155] Az NKE a 35. § (3) és (4) bekezdés szerint a jóváhagyott Időközi jelentéseket és Projektzáró jelentéseket a visszatérítési kérelemmel együtt eljuttatja a Kifizető Hatóság részére, amely 10 munkanapon belül megküldi azokat a svájci hatóság részére.
+(3)[^168] Az NKE a 35. § (3) és (4) bekezdés szerint a jóváhagyott Időközi jelentéseket és Projektzáró jelentéseket a visszatérítési kérelemmel együtt eljuttatja a Kifizető Hatóság részére, amely 10 munkanapon belül megküldi azokat a svájci hatóság részére.
 
-[^155]: A 65. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^168]: A 65. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 20. §-ával megállapított szöveg.

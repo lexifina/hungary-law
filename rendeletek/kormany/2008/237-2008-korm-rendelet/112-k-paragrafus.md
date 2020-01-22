@@ -1,6 +1,6 @@
-## A kkv-k jövőbeni közösségi szabványokhoz idő előtt történő alkalmazkodásához nyújtott támogatás[^238]
+## A kkv-k jövőbeni közösségi szabványokhoz idő előtt történő alkalmazkodásához nyújtott támogatás[^251]
 
-112/K. §[^239] (1) A támogatás kkv-k olyan beruházására nyújtható, amely a környezetvédelmi szintet emelő, de még hatályba nem lépett új közösségi szabványoknak való megfelelést biztosítja.
+112/K. §[^252] (1) A támogatás kkv-k olyan beruházására nyújtható, amely a környezetvédelmi szintet emelő, de még hatályba nem lépett új közösségi szabványoknak való megfelelést biztosítja.
 
 (2) A közösségi szabvány elfogadása, valamint a beruházás végrehajtása és befejezése legalább egy évvel meg kell, hogy előzze a közösségi szabvány hatálybalépésének időpontját.
 
@@ -8,5 +8,5 @@
 
 (4) Az elszámolható költségek a közösségi szabvány hatálybalépése előtti környezetvédelemi szinthez viszonyítva, a közösségi szabvány által előírt környezetvédelmi szint megvalósításához szükséges beruházási többletköltségek. Az elszámolható költségek kiszámításához a 112/F. § (5) és (6) bekezdésében meghatározott módszert kell alkalmazni, azzal, hogy a működési előnyöket és működési költségeket figyelmen kívül kell hagyni.
 
-[^238]: A 112/K. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^239]: A 112/K. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^251]: A 112/K. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^252]: A 112/K. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.

@@ -30,9 +30,9 @@ m) a Keretmegállapodás mellékleteinek áttekintése és szükség szerinti m�
 
 n) a következő évre vonatkozó munkaterv.
 
-o)[^106] a nem az Európai Támogatásokat Auditáló Főigazgatóság által végzett pénzügyi ellenőrzésekkel kapcsolatos összefoglaló, valamint lényegi következtetés a Keretmegállapodás 2. melléklet 3. Projekt-végrehajtási eljárások cím 6. pontjával összhangban.
+o)[^119] a nem az Európai Támogatásokat Auditáló Főigazgatóság által végzett pénzügyi ellenőrzésekkel kapcsolatos összefoglaló, valamint lényegi következtetés a Keretmegállapodás 2. melléklet 3. Projekt-végrehajtási eljárások cím 6. pontjával összhangban.
 
-(3)[^107] A programszintű Éves Jelentést legkésőbb az éves monitoring megbeszélés előtt egy hónappal meg kell küldeni az éves ülés minden résztvevőjének.
+(3)[^120] A programszintű Éves Jelentést legkésőbb az éves monitoring megbeszélés előtt egy hónappal meg kell küldeni az éves ülés minden résztvevőjének.
 
-[^106]: A 37. § (2) bekezdés o) pontját a 11/2012. (II. 14.) Korm. rendelet 15. §-a iktatta be.
-[^107]: A 37. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^119]: A 37. § (2) bekezdés o) pontját a 11/2012. (II. 14.) Korm. rendelet 15. §-a iktatta be.
+[^120]: A 37. § (3) bekezdése a 226/2009. (X. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
