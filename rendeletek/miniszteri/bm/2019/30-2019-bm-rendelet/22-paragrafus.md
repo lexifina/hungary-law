@@ -1,1 +1,3 @@
-## „(1a) A kivételnek minősülő átvezetések esetében az átvezetési helyen a vezeték és az építményszerkezet közötti rést, nyílást, hézagot az átvezetéssel érintett építményszerkezetre előírt tűzvédelmiosztály-követelménynek legalább megfelelő tűzvédelmi osztályú anyaggal tömören le kell zárni.”
+## 21. §[^22]
+
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

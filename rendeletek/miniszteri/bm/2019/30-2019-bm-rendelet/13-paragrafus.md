@@ -1,5 +1,3 @@
-## 12. § Az R. 18. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 12. §[^13]
 
-## (Az épülettől tartandó tűztávolságot)
-
-## „a) az épület homlokzatának, továbbá bármely, a homlokzati síkból kiugró, a tűzterjedésben szerepet játszó épületrésznek alaprajzi vetületétől,”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

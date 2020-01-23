@@ -1,1 +1,3 @@
-## „(8) A légpótlást a helyiségbe a hatékony hő- és füstelvezetést elősegítő helyen kell bejuttatni.”
+## 62. §[^63]
+
+[^63]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

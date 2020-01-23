@@ -1,1 +1,3 @@
-## „182. tűzgátló álmennyezet: egy helyiségben, legfeljebb egy tűzszakaszban kialakított olyan álmennyezet, amely tűzvédelmi jellemzőinél fogva a felette lévő födémmel vagy tetőszerkezettel együtt az előírt tűzállósági teljesítményjellemzőket biztosítja,”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

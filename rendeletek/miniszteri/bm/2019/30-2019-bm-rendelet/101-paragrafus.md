@@ -1,7 +1,3 @@
-## 100. § Az R. 262. § (2) bekezdése a következő l) és m) ponttal egészül ki:
+## 100. §[^101]
 
-## (A felülvizsgálat során a gyártói előírások figyelembevételével ellenőrizni kell)
-
-## „l) az oltóanyag kijuttatását szolgáló szórófejek állapotát, a szennyeződések eltávolítását, átjárhatóságát és
-
-## m) a csőhálózat állapotát, korróziójának mértékét.”
+[^101]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

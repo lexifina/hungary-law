@@ -1,13 +1,3 @@
-## 40. § Az R. 55. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 40. §[^41]
 
-## „(1) Az átmeneti védett tér lehet
-
-## a) önálló helyiség,
-
-## b) önálló kiürítési útvonallal rendelkező tűzszakasz,
-
-## c) füstmentes lépcsőház pihenőrésze,
-
-## d) tetőfödém vagy
-
-## e) védett kialakítású szabadlépcső pihenőrésze.”
+[^41]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

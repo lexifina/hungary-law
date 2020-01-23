@@ -1,3 +1,3 @@
-## 32. § Az R. 41. §-a helyébe a következő rendelkezés lép:
+## 32. §[^33]
 
-## „41. § A szociális rendeltetésre vonatkozó tűzvédelmi követelményeket a rendeltetés jellege, jellemzői figyelembevételével, a jelen fejezetben szabályozott rendeltetések tűzvédelmi követelményei alapján kell megállapítani.”
+[^33]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

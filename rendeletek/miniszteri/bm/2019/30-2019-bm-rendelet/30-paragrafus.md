@@ -1,3 +1,3 @@
-## 29. § Az R. 15. alcím címe helyébe a következő alcím cím lép:
+## 29. §[^30]
 
-## „15. Oktatási, nevelési, gyermekfoglalkoztató, gyermekek napközbeni ellátását biztosító, továbbá játszóház rendeltetés”
+[^30]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

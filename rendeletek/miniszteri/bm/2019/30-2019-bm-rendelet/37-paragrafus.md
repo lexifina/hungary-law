@@ -1,3 +1,3 @@
-## 36. § Az R. 45. §-a a következő (3) bekezdéssel egészül ki:
+## 36. §[^37]
 
-## „(3) A fokozottan tűz- vagy robbanásveszélyes anyagok, termékek passzív tárolására, forgalmazására szolgáló helyiséget a tárolni kívánt anyag mennyisége alapján, a 17. mellékletben foglaltak figyelembevételével kell kialakítani.”
+[^37]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

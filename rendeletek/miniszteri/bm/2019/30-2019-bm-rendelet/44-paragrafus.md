@@ -1,3 +1,3 @@
-## 43. § Az R. 33. alcím címe helyébe a következő alcím cím lép:
+## 43. §[^44]
 
-## „33. Kiürítésre szolgáló, valamint menekülési útvonalat képező lépcsőház, lépcső követelményei”
+[^44]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

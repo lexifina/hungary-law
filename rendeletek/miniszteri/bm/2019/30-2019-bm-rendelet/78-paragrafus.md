@@ -1,7 +1,3 @@
-## 77. § Az R. 158. § (4) bekezdés e) pont ea) alpontja helyébe a következő rendelkezés lép:
+## 77. §[^78]
 
-## (Tűzjelző berendezések esetében az üzemi próbáknak ki kell terjednie
-
-## az automatikus tűz- és hibaátjelző berendezés tekintetében a fogadó állomással az eredményeket utólag egyeztetve)
-
-## „ea) arra, hogy a tervezett tűz- és hibajelzések a fogadó helyre átjutnak, az üzenetek megfelelőek és egyértelműek, vagy”
+[^78]: A 77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

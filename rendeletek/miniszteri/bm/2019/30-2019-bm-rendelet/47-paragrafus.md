@@ -1,3 +1,3 @@
-## 46. § Az R. 38. alcím címe helyébe a következő alcím cím lép:
+## 46. §[^47]
 
-## „38. A tűzoltási felvonulási út és terület paraméterei”
+[^47]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

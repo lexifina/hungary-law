@@ -1,7 +1,3 @@
-## 13. § Az R. 19. § (1) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+## 13. §[^14]
 
-## (Tűzterjedés elleni védelmet kell biztosítani)
-
-## „a) a szomszédos tűzszakaszok között, építményen belül, homlokzaton és tetőn,
-
-## b) a szomszédos kockázati egységek között, építményen belül, homlokzaton és tetőn,”
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „e) a villámvédelem vagy az építmény átalakítását, bővítését és a vonatkozó műszaki követelményben foglalt különleges eseményt követően”
+## 102. §[^103]
 
-## (kell elvégezni.)
+[^103]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

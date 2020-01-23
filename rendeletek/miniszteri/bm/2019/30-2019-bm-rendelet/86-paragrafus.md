@@ -1,1 +1,3 @@
-## „(8) Robbanásveszélyes térben csak olyan készülék, eszköz, berendezés, erő- és munkagép helyezhető el és használható, amely az alkalmazási helyén a megállapított robbanásveszélyes zóna minőségének, valamint hőmérsékleti osztályának vagy mértékadó legmagasabb hőmérsékletének megfelel, és amit a robbanásvédelem szabályai szerint gyártottak, felülvizsgáltak, karbantartottak, javítottak.”
+## 85. §[^86]
+
+[^86]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

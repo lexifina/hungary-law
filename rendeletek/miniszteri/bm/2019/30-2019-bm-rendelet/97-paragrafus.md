@@ -1,3 +1,3 @@
-## 96. § Az R. 202. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 96. §[^97]
 
-## „(6) A berendezés meghibásodása, tervszerű üzemszünete esetén, továbbá a tűzoltó berendezés aktiválódását követően az oltóanyag pótlásáig, a berendezés üzemkész állapotának visszaállításáig a biztonsági feltételeket az üzemeltető a helyi kockázatnak megfelelően biztosítja.”
+[^97]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

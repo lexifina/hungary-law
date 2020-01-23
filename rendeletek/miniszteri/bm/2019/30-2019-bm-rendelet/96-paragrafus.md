@@ -1,1 +1,3 @@
-## „(3) A beépített tűzjelző, tűzoltó, tűzterjedésgátló berendezés tűz észlelésére, oltására, a tűzterjedés gátlására szolgáló részegységeinek működési feltételeit a részegységek környezetében folyamatosan biztosítani kell, azok hatékonyságát eltakarással, eltorlaszolással vagy más módon korlátozni, csökkenteni nem szabad.”
+## 95. §[^96]
+
+[^96]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

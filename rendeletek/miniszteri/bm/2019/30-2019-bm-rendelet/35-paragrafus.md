@@ -1,1 +1,3 @@
-## „(5) A nézőtér jellegű elrendezés esetén a székeket, széksorokat 100 főnél több személy befogadására szolgáló helyiségekben úgy kell kialakítani, hogy a kiürítést elmozdulással, feldőléssel ne akadályozzák.”
+## 34. §[^35]
+
+[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

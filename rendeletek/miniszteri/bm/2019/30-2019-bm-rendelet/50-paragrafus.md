@@ -1,3 +1,3 @@
-## 49. § Az R. 75. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 49. §[^50]
 
-## „(5) A (3) bekezdéstől eltérően az éghető folyadékot feldolgozó létesítményeknél, valamint a fokozottan tűz- vagy robbanásveszélyes folyadékot 1000 m3-nél nagyobb tárolási egységekben tároló tartálytelepeken, valamint azon gáztároló esetében, ahol a nyomás alatti vagy mélyhűtött fokozottan tűz- vagy robbanásveszélyes osztályba tartozó gázt tároló tartály befogadóképessége meghaladja a 200 tonnát, olyan oltóvízvezeték-hálózatot kell létesíteni, amely a vízkivétel szempontjából legkedvezőtlenebb tűzcsapnál 200 mm2-es kiáramlási keresztmetszetnél legalább 1200 kPa kifolyási nyomást biztosít.”
+[^50]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

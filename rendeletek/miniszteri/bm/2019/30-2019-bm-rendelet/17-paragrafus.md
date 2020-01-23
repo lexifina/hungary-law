@@ -1,3 +1,3 @@
-## 16. § Az R. 8. alcím címe helyébe a következő alcím cím lép:
+## 16. §[^17]
 
-## „8. Egy épületen belüli tűzszakaszok, valamint azonos telken lévő, külön tűzszakaszt képező épületek csatlakozása az épület külső szerkezetein”
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

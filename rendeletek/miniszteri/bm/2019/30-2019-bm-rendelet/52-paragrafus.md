@@ -1,3 +1,3 @@
-## 51. § Az R. 44. alcím címe helyébe a következő alcím cím lép:
+## 51. §[^52]
 
-## „44. Az épületbe jutás biztosítása”
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

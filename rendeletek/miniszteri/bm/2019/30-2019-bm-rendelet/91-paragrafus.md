@@ -1,3 +1,3 @@
-## 90. § Az R. 96. alcím címe helyébe a következő alcím cím lép:
+## 90. §[^91]
 
-## „96. Tűzoltási út, terület, közlekedési, menekülési és egyéb utak”
+[^91]: A 90. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

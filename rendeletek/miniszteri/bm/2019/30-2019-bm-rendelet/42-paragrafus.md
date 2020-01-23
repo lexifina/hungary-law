@@ -1,3 +1,3 @@
-## 41. § Az R. 32. alcím címe helyébe a következő alcím cím lép:
+## 41. §[^42]
 
-## „32. Kiürítésre szolgáló nyílászárók”
+[^42]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

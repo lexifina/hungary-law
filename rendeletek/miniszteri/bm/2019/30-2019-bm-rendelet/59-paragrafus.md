@@ -1,3 +1,3 @@
-## 58. § Az R. 52. alcím címe helyébe a következő alcím cím lép:
+## 58. §[^59]
 
-## „52. Hő- és füstelvezető szerkezet, hő- és füstelvezetésre szolgáló szabad nyílás”
+[^59]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

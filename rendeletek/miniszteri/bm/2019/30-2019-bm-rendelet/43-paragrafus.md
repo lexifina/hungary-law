@@ -1,3 +1,3 @@
-## 42. § Az R. 59. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 42. §[^43]
 
-## „(6) A kiürítésre szolgáló, üzemszerűen zárva tartott ajtók vészeseti nyithatóságát és a beléptető rendszerek kiürítést nem akadályozó kialakítását biztosítani kell.”
+[^43]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

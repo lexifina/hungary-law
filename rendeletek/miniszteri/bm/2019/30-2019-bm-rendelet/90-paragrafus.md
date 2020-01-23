@@ -1,3 +1,3 @@
-## 89. § Az R. 187. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 89. §[^90]
 
-## „(2) Dohányozni, nyílt lángot használni nem szabad olyan helyiségben, szabadtéren, ahol fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyagot állítanak elő, tárolnak, dolgoznak fel, használnak. A dohányzás és a nyílt láng használatának tilalmát biztonsági jellel kell jelölni.”
+[^90]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
