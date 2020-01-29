@@ -1,8 +1,10 @@
-## 10. §[^1]
+## 10. §[^8] A 4. §-nak a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 17/2018. (V. 29.) MNB rendelet módosításáról szóló 4/2020. (I. 28.) MNB rendelettel megállapított (6), illetve (7) bekezdése első alkalommal a 2020. I. naptári negyedévre vonatkozó változó díj kiszámítása, illetve annak éves korrekciója során alkalmazandó.
 
-1. melléklet a 17/2018. (V. 29.) MNB rendelethez
+1. melléklet a 17/2018. (V. 29.) MNB rendelethez[^9]
 
 I. Összefoglaló tábla
+
+## 0X00200M_0
 
 | Sor- szám | Felügyeleti díj bevallására szolgáló tábla kódja | Felügyeleti díj bevallására szolgáló tábla megnevezése | Felügyeleti díj bevallására kötelezettek köre | Gyakoriság |
 
@@ -22,7 +24,7 @@ I. Összefoglaló tábla
 
 | 8 | PVFVDN | EGT-állambeli pénzügyi vállalkozás fióktelepe felügyeleti változó díj számítása (negyedéves) | EGT-állambeli pénzügyi vállalkozás fióktelepe | negyedéves |
 
-| 9 | PFELDAD | Pénzfeldolgozó felügyeleti alapdíj számítása (éves) | pénzfeldolgozó | éves |
+| 9 | PFELDAD | Pénzfeldolgozó felügyeleti alapdíj számítása (éves) | pénzfeldolgozó\cell éves |
 
 | 10 | BKAD | Bankképviselet felügyeleti alapdíj számítása (éves) | bankképviselet | éves |
 
@@ -40,13 +42,13 @@ I. Összefoglaló tábla
 
 | 17 | BVFVDN | EGT-állambeli befektetési vállalkozás fióktelepe felügyeleti változó díj számítása (negyedéves) | EGT-állambeli befektetési vállalkozás fióktelepe | negyedéves |
 
-| 18 | ASZAD | Árutőzsdei szolgáltató felügyeleti alapdíj számítása (éves) | árutőzsdei szolgáltató | éves |
+| 18 | ASZAD | Árutőzsdei szolgáltató felügyeleti alapdíj számítása (éves) | árutőzsdei szolgáltató\cell éves |
 
 | 19 | ALAPVDN | Befektetési alap felügyeleti változó díj számítása (negyedéves) | befektetési alap | negyedéves |
 
-| 20 | AKAD | Befektetési alapkezelő felügyeleti alapdíj számítása (éves) | befektetési alapkezelő és kockázati tőkealap kezelő | éves |
+| 20 | AKAD | Befektetési alapkezelő felügyeleti alapdíj számítása (éves) | befektetési alapkezelő és kockázati tőkealap kezelő\cell éves |
 
-| 21 | AKVDN | Befektetési alapkezelő változó díj számítása (negyedéves) | befektetési alapkezelő | negyedéves |
+| 21 | AKVDN | Befektetési alapkezelő változó díj számítása (negyedéves) | befektetési alapkezelő\cell negyedéves |
 
 | 22 | AKFAD | EGT-állambeli befektetési alapkezelő fióktelep felügyeleti alapdíj számítása (éves) | EGT-állambeli befektetési alapkezelő fióktelepe | éves |
 
@@ -68,13 +70,13 @@ I. Összefoglaló tábla
 
 | 31 | KSZFVDN | Központi szerződő fél felügyeleti változó díj számítása (negyedéves) | központi szerződő fél | negyedéves |
 
-| 32 | TESZAD | Tőkepiac egyéb szereplői felügyeleti alapdíj számítása (éves) | külföldi befektetési vállalkozás magyarországi képviselete | éves |
+| 32 | TESZAD | Tőkepiac egyéb szereplői felügyeleti alapdíj számítása (éves) | külföldi befektetési vállalkozás magyarországi fióktelepe | éves |
 
 | 33 | BIZTAD | Biztosító, viszontbiztosító részvénytársaság és szövetkezet, biztosító egyesület felügyeleti alapdíj számítása (éves) | részvénytársaságként és szövetkezetként működő biztosító, viszontbiztosító, valamint a biztosító egyesület | éves |
 
 | 34 | BIZTVDN | Biztosító részvénytársaság, szövetkezet, egyesület felügyeleti változó díj számítása (negyedéves) | részvénytársaságként, szövetkezetként, egyesületként működő biztosító, a kisbiztosító-egyesület kivételével | negyedéves |
 
-| 35 | BIZTFAD | Harmadik országbeli biztosító, viszontbiztosító fióktelepe felügyeleti alapdíj számítása (éves) | EGT-államon kívüli külföldi (a továbbiakban: harmadik országbeli) biztosító, viszontbiztosító magyarországi fióktelepe | éves |
+| 35 | BIZTFAD | EGT-állambeli, valamint harmadik országbeli biztosító, viszontbiztosító fióktelepe felügyeleti alapdíj számítása (éves) | EGT-állambeli, valamint az EGT-államon kívüli külföldi (a továbbiakban: harmadik országbeli) biztosító, viszontbiztosító magyarországi fióktelepe | éves |
 
 | 36 | BIZTFVDN | EGT-állambeli biztosító fióktelepe felügyeleti változó díj számítása (negyedéves) | EGT-állambeli biztosító magyarországi fióktelepe | negyedéves |
 
@@ -556,7 +558,7 @@ EGT-állambeli befektetési vállalkozás fióktelepe felügyeleti változó dí
 
 | 004 | BVFVDN03 | Tárgynegyedévre számított változó díj összesen |  |  |
 
-| 005 | BVFVDN031 | Tárgynegyedévre számított változó díj – mérlegfőösszeg után |  |  |
+| 005 | BVFVDN031 | Tárgynegyedévre számított változó\~díj – mérlegfőösszeg után |  |  |
 
 | 006 | BVFVDN032 | Tárgynegyedévre számított változó díj – kezelt portfólió piaci értéke után |  |  |
 
@@ -601,6 +603,8 @@ ASZAD
 ALAPVDN
 
 Befektetési alap felügyeleti változó díj számítása (negyedéves)
+
+## 0X00200M_19
 
 |  |  |  |  | Nagyságrend: ezer forint |
 
@@ -1040,11 +1044,11 @@ Biztosító részvénytársaság, szövetkezet, egyesület felügyeleti változ�
 
 | 001 | BIZTVDN01 | Tárgynegyedévi működés napjainak száma (nap) |  |  |
 
-| 002 | BIZTVDN021 | Tárgynegyedévi változó díj alapja (minimális szavatolótőke- szükséglet) |  |  |
+| 002 | BIZTVDN021 | Tárgynegyedévi változó díj alapja (szavatolótőke-szükséglet, illetve minimális szavatolótőke-szükséglet) |  |  |
 
 | 003 | BIZTVDN022 | Tárgynegyedévi változó díj alapja (biztosítástechnikai tartalékok könyv szerinti értéke) |  |  |
 
-| 004 | BIZTVDN03 | Tárgynegyedévre számított változó díj összesen (BIZTVDN031 + BIZTVDN032) |  |  |
+| 004 | BIZTVDN03 | Tárgynegyedévre számított változó díj összesen (BIZTVDN031+BIZTVDN032) |  |  |
 
 | 005 | BIZTVDN031 | Tárgynegyedévre számított változó díj – tőkeszükséglet után |  |  |
 
@@ -1056,25 +1060,25 @@ Biztosító részvénytársaság, szövetkezet, egyesület felügyeleti változ�
 
 | 008 | BIZTVDN05 | Előző évi működés napjainak száma (nap) |  |  |
 
-| 009 | BIZTVDN061 | Előző évi változó díj alapja – minimális szavatolótőke-szükséglet után – auditált adatok alapján |  |  |
+| 009 | BIZTVDN061 | Előző évi változó díj alapja – szavatolótőke-szükséglet, illetve minimális szavatoló tőkeszükséglet után – auditált adatok alapján |  |  |
 
 | 010 | BIZTVDN062 | Előző évi változó díj alapja – biztosítástechnikai tartalékok után – auditált adatok alapján |  |  |
 
-| 011 | BIZTVDN07 | Előző évre számított változó díj – auditált adatok alapján (BIZTVDN071 + BIZTVDN072) |  |  |
+| 011 | BIZTVDN07 | Előző évre számított változó díj – auditált adatok alapján (BIZTVDN071+BIZTVDN072) |  |  |
 
-| 012 | BIZTVDN071 | Előző évre számított változó díj – minimális szavatolótőke-szükséglet után – auditált adatok alapján |  |  |
+| 012 | BIZTVDN071 | Előző évre számított változó díj – tőkeszükséglet után – auditált adatok alapján |  |  |
 
 | 013 | BIZTVDN072 | Előző évre számított változó díj – biztosítástechnikai tartalékok után – auditált adatok alapján |  |  |
 
 | 014 | BIZTVDN08 | Előző évre számított és negyedévente bevallott változó díj |  |  |
 
-| 015 | BIZTVDN09 | Előző évre számított változó díj korrekciója (BIZTVDN08 – BIZTVDN07) |  |  |
+| 015 | BIZTVDN09 | Előző évre számított változó díj korrekciója (BIZTVDN08–BIZTVDN07) |  |  |
 
 35.
 
 BIZTFAD
 
-Harmadik országbeli biztosító, viszontbiztosító fióktelepe felügyeleti alapdíj számítása (éves)
+EGT-állambeli, valamint harmadik országbeli biztosító, viszontbiztosító fióktelepe felügyeleti alapdíj számítása (éves)
 
 |  |  |  | Nagyságrend: ezer forint |
 
@@ -1362,4 +1366,5 @@ Közraktár felügyeleti alapdíj számítása (éves)
 
 | 001 | KOZRAD1 | Előírt alapdíj |  |  |
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 4/2020. (I. 28.) MNB rendelet 4. §-a iktatta be.
+[^9]: Az 1. melléklet a 4/2020. (I. 28.) MNB rendelet 5. § (1) bekezdése és 6. § b)–d) pontja szerint módosított szöveg.

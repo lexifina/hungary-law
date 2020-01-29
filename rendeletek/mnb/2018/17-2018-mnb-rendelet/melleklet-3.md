@@ -1,4 +1,4 @@
-3. melléklet a 17/2018. (V. 29.) MNB rendelethez
+3. melléklet a 17/2018. (V. 29.) MNB rendelethez[^11]
 
 A felügyeleti díj megfizetésekor feltüntetendő pénzforráskódok
 
@@ -48,7 +48,7 @@ A felügyeleti díj megfizetésekor feltüntetendő pénzforráskódok
 
 | 22 | FIOK_K | harmadik országbeli hitelintézet magyarországi fióktelepe |
 
-| 23 | FKÖZVETÍT | pénzpiaci alkusz |
+| 23 | FKÖZVETÍT | Hpt. szerinti alkusz |
 
 | 24 | FOGL_NYSZ | foglalkoztatói nyugdíjszolgáltató intézmény |
 
@@ -72,7 +72,7 @@ A felügyeleti díj megfizetésekor feltüntetendő pénzforráskódok
 
 | 34 | ONK_EÖP | önkéntes egészség- és önsegélyező pénztár |
 
-| 35 | P_TÖBBES | pénzpiaci többes ügynök |
+| 35 | P_TÖBBES | Hpt. szerinti többes ügynök |
 
 | 36 | PENZFELD | pénzfeldolgozó |
 
@@ -97,3 +97,5 @@ A felügyeleti díj megfizetésekor feltüntetendő pénzforráskódok
 | 46 | EPENZKIBOCS | elektronikuspénz-kibocsátó intézmény |
 
 | 47 | EPENZKIBOCS_FT | elektronikuspénz-kibocsátó intézmény fióktelepe |
+
+[^11]: A 3. melléklet a 4/2020. (I. 28.) MNB rendelet 6. § e) pontja szerint módosított szöveg.

@@ -21,3 +21,5 @@ i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi
 j) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 162. §-a és
 
 k) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 324–326. §-a és 436. §-a
+
+alapján felügyeleti díj fizetésére kötelezett szervezetekre és személyekre (a továbbiakban együtt: felügyeleti díj fizetésére kötelezett) terjed ki.
