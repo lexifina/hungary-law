@@ -6,7 +6,7 @@
 
 ## 63. A repülőtéri repüléstájékoztató szolgálattal kapcsolatos általános eljárások
 
-81. § (1) Az AFIS egység rádiótávbeszélő hívójele az AIP-ben vagy a VFR Manualben közzétett hívójel.
+81. § (1)[^23] Az AFIS egység rádiótávbeszélő hívójele az AIP-ben vagy a látvarepülési szabályok szerinti repülésről szóló kiadványban hívójel.
 
 (2) A nem ellenőrzött repülőtér AFIS egységének a repülőtéri forgalomra, meteorológiai viszonyokra és a repülőtér mozgási területére vonatkozó tájékoztatásokat kell adnia, valamint riasztó szolgálatot kell nyújtania a repülőtéri forgalomban részt vevő ismert forgalom számára.
 
@@ -17,3 +17,5 @@
 (5) Azokon a repülőtereken, ahol műszer szerinti megközelítési eljárások végrehajtása is lehetséges, az AFIS egységnek a VFR légijárművet a TIZ határánál várakoztatnia kell, ha ez a műszer szerinti megközelítést végrehajtó IFR légijármű biztonsága érdekében szükséges.
 
 (6) Az AFIS egység a feladatait a légiforgalmi szolgálati rendelet 2. melléklet 1. Függelékében meghatározottakkal összhangban köteles ellátni.
+
+[^23]: A 81. § (1) bekezdése a 34/2019. (IX. 13.) ITM rendelet 18. § c) pontja szerint módosított szöveg.

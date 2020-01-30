@@ -4,11 +4,11 @@
 
 68. § (1) Az IFR szerint működő légijárműnek rendelkeznie kell a repülési feladatnak megfelelő, a légijárművek üzembentartásáról szóló miniszteri rendeletben előírt műszerekkel és navigációs berendezésekkel.
 
-(2) A magyar légtér légiközlekedés céljára történő kijelöléséről szóló rendeletben „F”, „D” és „C” osztályúként meghatározott légtérben 9500 láb AMSL-en és alatta IFR szerint működő polgári vagy GAT-ként üzemeltetett állami légijárműnek legalább nyomásmagasság továbbítási képességgel rendelkező transzponderrel kell rendelkeznie és azt működtetnie kell.
+(2)[^18] A magyar légtér légiközlekedés céljára történő kijelöléséről szóló rendeletben „G”, „D” és „C” osztályúként meghatározott légtérben 9500 láb (2900 m) AMSL-en és alatta IFR szerint működő polgári vagy GAT-ként üzemeltetett állami légijárműnek legalább nyomásmagasság továbbítási képességgel rendelkező transzponderrel kell rendelkeznie és azt működtetnie kell.
 
-(3) F, D és C osztályú légtérben az IFR szerint működő polgári vagy GAT-ként üzemeltetett állami légijárműnek legalább a fedélzeti adatokat sugározni képes, alapvető funkciókkal rendelkező „S” módú transzponderrel kell rendelkeznie és azt működtetnie kell, ha:
+(3)[^19] G, D és C osztályú légtérben az IFR szerint működő polgári vagy GAT-ként üzemeltetett állami légijárműnek legalább a fedélzeti adatokat sugározni képes, alapvető funkciókkal rendelkező „S” módú transzponderrel kell rendelkeznie és azt működtetnie kell, ha:
 
-a) 9500 láb AMSL fölött vagy
+a)[^20] 9500 (2900 m) láb AMSL fölött vagy
 
 b) olyan ellenőrzött repülőtéren üzemel,
 
@@ -31,3 +31,13 @@ b) folyamatos légialkalmassági – karbantartási és javítási – gyakorlat
 c) a hajózó személyzet továbbképzésben részesült az EUR RVSM légtéren belüli működésre vonatkozóan.
 
 (9) A légijármű üzembentartónak biztosítania kell, hogy ahol RCP típust írtak elő, a légijármű a megfelelő RCP engedéllyel rendelkezzen.
+
+(10)[^21] Az IFR szerint működő légijárműnek a nem ellenőrzött légtérben történő repülése során a (11) bekezdésben meghatározott kivétellel – ha a FIC eltérően nem kéri – a repülési terv lezárásáig rádióösszeköttetést kell fenntartania a FIC-cel.
+
+(11)[^22] Az IFR szerint működő légijárműnek a TIZ-ben történő üzemelése során – ha az AFIS eltérően nem kéri – rádióösszeköttetést kell fenntartania az érintett AFIS egységgel.
+
+[^18]: A 68. § (2) bekezdése a 34/2019. (IX. 13.) ITM rendelet 18. § h) pontja szerint módosított szöveg.
+[^19]: A 68. § (3) bekezdés nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 18. § i) pontja szerint módosított szöveg.
+[^20]: A 68. § (3) bekezdés a) pontja a 34/2019. (IX. 13.) ITM rendelet 18. § j) pontja szerint módosított szöveg.
+[^21]: A 68. § (10) bekezdését a 34/2019. (IX. 13.) ITM rendelet 16. §-a iktatta be.
+[^22]: A 68. § (11) bekezdését a 34/2019. (IX. 13.) ITM rendelet 16. §-a iktatta be.

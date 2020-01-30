@@ -1,3 +1,3 @@
-## 13. §[^1]
+## 13. §[^2]
 
-[^1]: A 13. §-t az 55/2017. (XII. 27.) NFM rendelet 102. §-a hatályon kívül helyezte.
+[^2]: A 13. §-t az 55/2017. (XII. 27.) NFM rendelet 102. §-a hatályon kívül helyezte.

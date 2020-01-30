@@ -1,4 +1,4 @@
-## 2. § E rendelet rendelkezéseit a légiforgalom irányításának szabályairól szóló miniszteri rendelettel (a továbbiakban: légiforgalmi szolgálati rendelet), valamint a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelettel (a továbbiakban: SERA rendelet) összhangban kell alkalmazni.
+## 2. §[^1] E rendelet rendelkezéseit a légiforgalmi szolgálatok ellátásának és eljárásainak szabályairól szóló miniszteri rendelettel (a továbbiakban: légiforgalmi szolgálati rendelet), valamint a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendelettel (a továbbiakban: SERA rendelet) összhangban kell alkalmazni.
 
 ## 2. Értelmező rendelkezések
 
@@ -155,3 +155,5 @@ a) az utolsó eljárásforduló, vagy alapforduló befejezésénél, vagy a vár
 b) a megközelítési eljárásban meghatározott utolsó útirány elérési pontjánál, és a repülőtér közelében addig a pontig tart, ahonnan a leszállás végrehajtható, vagy a megszakított megközelítési eljárást megkezdik (Final approach).
 
 (2) Az e rendeletben nem meghatározott fogalmakat a SERA rendeletben meghatározottak szerint kell alkalmazni.
+
+[^1]: A 2. § a 34/2019. (IX. 13.) ITM rendelet 18. § a) pontja szerint módosított szöveg.

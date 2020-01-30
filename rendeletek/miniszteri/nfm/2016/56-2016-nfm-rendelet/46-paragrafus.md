@@ -24,6 +24,8 @@ d) ha ilyenre sor kerül, a repülési terv levegőből történő lezárásár�
 
 (7) Rádióval fel nem szerelt VFR légijárműnek útvonalrepülés végrehajtása során el kell kerülnie a TIZ-eket.
 
-(8) Ballonrepülések, mezőgazdasági repülések, vitorlázó repülések körzeti összeköttetéseire, valamint levegő-föld rádióösszeköttetési célokra az AIP-ben vagy a VFR Manualben közzétett, vagy az ilyen közzététel hiányában a repülőtér üzemeltetője által megadott frekvenciák használhatók.
+(8)[^7] Ballonrepülések, mezőgazdasági repülések, vitorlázó repülések körzeti összeköttetéseire, valamint levegő-föld rádióösszeköttetési célokra az AIP-ben vagy a látvarepülési szabályok szerinti repülésről szóló kiadványban, vagy az ilyen közzététel hiányában a repülőtér üzemeltetője által megadott frekvenciák használhatók.
 
 (9) AFIS egységgel rendelkező repülőtéren történő üzemeltetés és az AFIS szolgáltatás részletes szabályait az Ötödik Rész határozza meg.
+
+[^7]: A 46. § (8) bekezdése a 34/2019. (IX. 13.) ITM rendelet 18. § c) pontja szerint módosított szöveg.
