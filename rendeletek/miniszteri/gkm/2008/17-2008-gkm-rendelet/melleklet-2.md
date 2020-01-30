@@ -50,7 +50,7 @@
 
 ## 2.6.[^73] Repüléstájékoztató szakszolgálati engedélybe további és új jogosítás, jogosítás-kiterjesztés és munkahelyi kiterjesztés megszerzésével kapcsolatos követelmények
 
-## 2.6.1. Körzeti jogosítással és radartanácsadás jogosítás-kiterjesztéssel rendelkező személy repülőtéri jogosítás és munkahelyi kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
+## 2.6.1.[^74] Körzeti jogosítással és radaralapú repüléstájékoztatás jogosítás-kiterjesztéssel rendelkező személy repülőtéri jogosítás és munkahelyi kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
 
 ## a) jogosító képzés és
 
@@ -60,9 +60,9 @@
 
 ## bb) munkahelyi gyakorlati képzés.
 
-## 2.6.1.1. Körzeti jogosítással és radartanácsadás jogosítás-kiterjesztéssel rendelkező személy munkahelyi kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
+## 2.6.1.1.[^75] Körzeti jogosítással és radaralapú repüléstájékoztatás jogosítás-kiterjesztéssel rendelkező személy munkahelyi kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
 
-## 2.6.2. Körzeti jogosítással és radartanácsadás jogosítás-kiterjesztéssel rendelkező személy repülőtéri jogosítás és új munkahelyi kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
+## 2.6.2.[^76] Körzeti jogosítással és radaralapú repüléstájékoztatás jogosítás-kiterjesztéssel rendelkező személy repülőtéri jogosítás és új munkahelyi kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
 
 ## a) jogosító képzés és
 
@@ -72,9 +72,9 @@
 
 ## bb) munkahelyi gyakorlati képzés.
 
-## 2.6.2.1. Körzeti jogosítással és radartanácsadás jogosítás-kiterjesztéssel rendelkező személy új munkahelyi kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
+## 2.6.2.1.[^77] Körzeti jogosítással és radaralapú repüléstájékoztatás jogosítás-kiterjesztéssel rendelkező személy új munkahelyi kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
 
-## 2.6.3. Repülőtéri jogosítással rendelkező személy körzeti jogosítás és radartanácsadás jogosítás-kiterjesztés és munkahelyi kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
+## 2.6.3.[^78] Repülőtéri jogosítással rendelkező személy körzeti jogosítás és radaralapú repüléstájékoztatás jogosítás-kiterjesztés és munkahelyi kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
 
 ## a) jogosító és jogosítás-kiterjesztés képzés, és
 
@@ -86,7 +86,7 @@
 
 ## 2.6.3.1. Repülőtéri jogosítással rendelkező személy munkahelyi kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
 
-## 2.6.4. Repülőtéri jogosítással rendelkező személy munkahelyi kiterjesztésének megfelelő radartanácsadás jogosítás-kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
+## 2.6.4.[^79] Repülőtéri jogosítással rendelkező személy munkahelyi kiterjesztésének megfelelő radaralapú repüléstájékoztatás jogosítás-kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
 
 ## a) jogosítás-kiterjesztés képzés, és
 
@@ -96,7 +96,7 @@
 
 ## bb) munkahelyi gyakorlati képzés.
 
-## 2.6.4.1. Repülőtéri jogosítással rendelkező személy munkahelyi kiterjesztésének megfelelő radartanácsadás jogosítás-kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
+## 2.6.4.1.[^80] Repülőtéri jogosítással rendelkező személy munkahelyi kiterjesztésének megfelelő radaralapú repüléstájékoztatás jogosítás-kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
 
 ## 2.6.5. Repülőtéri jogosítással rendelkező személy további munkahelyi kiterjesztés megszerzésére irányuló munkahelyi képzése a következő részekből áll:
 
@@ -106,7 +106,7 @@
 
 ## 2.6.5.1. Repülőtéri jogosítással rendelkező személy további munkahelyi kiterjesztés megszerzésére irányuló munkahelyi képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
 
-## 2.6.6. Repülőtéri jogosítással rendelkező személy további munkahelyi kiterjesztés és radartanácsadás jogosítás-kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
+## 2.6.6.[^81] Repülőtéri jogosítással rendelkező személy további munkahelyi kiterjesztés és radaralapú repüléstájékoztatás jogosítás-kiterjesztés megszerzésére irányuló képzése a következő részekből áll:
 
 ## a) jogosítás-kiterjesztés képzés,
 
@@ -116,15 +116,15 @@
 
 ## bb) munkahelyi gyakorlati képzés.
 
-## 2.6.6.1. Repülőtéri jogosítással rendelkező személy további munkahelyi kiterjesztés és radartanácsadás jogosítás-kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
+## 2.6.6.1.[^82] Repülőtéri jogosítással rendelkező személy további munkahelyi kiterjesztés és radaralapú repüléstájékoztatás jogosítás-kiterjesztés megszerzésére irányuló képzése kiegészíthető előzetes munkahelyi gyakorlati képzéssel, amelynek megtartása nem kötelező.
 
-## 2.7.[^74] A repüléstájékoztató szakszolgálati engedély esetén új jogosítás-kiterjesztésre, munkahelyi kiterjesztésre vonatkozó eltérő követelmények
+## 2.7.[^83] A repüléstájékoztató szakszolgálati engedély esetén új jogosítás-kiterjesztésre, munkahelyi kiterjesztésre vonatkozó eltérő követelmények
 
 ## 2.7.1. A munkahelyi képzés gyakorlati részét a légiközlekedési hatóság által az adott képzésre engedélyezett szimulátoron kell végrehajtani.
 
 ## 2.7.2. Az új jogosítás-kiterjesztés vagy munkahelyi kiterjesztés megszerzésére vonatkozó munkahelyi képzést és munkahelyi vizsgáztatást végző munkahelyi gyakorlati oktatónak, repüléstájékoztatóknak közösen kell részt venniük az elméleti és a munkahelyi gyakorlati képzésen. Az elméleti képzést a vonatkozó eljárás és módszertan kidolgozásában magas szintű ismeretekkel rendelkező, az új jogosítás-kiterjesztés vagy munkahelyi kiterjesztés bevezetésének repülésbiztonsági elemzésében részt vevő elméleti oktató végezheti.
 
-## 2.8.[^75] Légiforgalmi tiszt szakszolgálati engedélybe további jogosítás és jogosítás-kiterjesztés megszerzésével kapcsolatos követelmények
+## 2.8.[^84] Légiforgalmi tiszt szakszolgálati engedélybe további jogosítás és jogosítás-kiterjesztés megszerzésével kapcsolatos követelmények
 
 ## 2.8.1. További jogosítás megszerzésére irányuló képzés a következő részekből áll:
 
@@ -146,7 +146,7 @@
 
 ## bb) munkahelyi gyakorlati képzés.
 
-## 2.9.[^76] A 2.6–2.8. pontban meghatározott képzésekre egyedi képzési tervet kell meghatározni, amelyet a légiközlekedési hatóság jóváhagy. A képzések óraszáma arányosan csökkenthető a hallgató vagy gyakornok előzetes szaktudásfelmérés eredménye alapján, ha a hallgató vagy gyakornok szaktudása az egyedi képzési tervben meghatározottakat részben vagy egészben lefedi. Az előzetes szaktudásfelmérést a képzési szervezet hajtja végre.
+## 2.9.[^85] A 2.6–2.8. pontban meghatározott képzésekre egyedi képzési tervet kell meghatározni, amelyet a légiközlekedési hatóság jóváhagy. A képzések óraszáma arányosan csökkenthető a hallgató vagy gyakornok előzetes szaktudásfelmérés eredménye alapján, ha a hallgató vagy gyakornok szaktudása az egyedi képzési tervben meghatározottakat részben vagy egészben lefedi. Az előzetes szaktudásfelmérést a képzési szervezet hajtja végre.
 
 ## 3. A kezdő képzéssel kapcsolatos követelmények
 
@@ -182,13 +182,13 @@
 
 ## 3.4.1. A kezdő képzés időtartamát a képzési szervezet határozza meg.
 
-## 3.4.2.[^77] Ha az alapképzés befejezését, valamint sikeres értékelést követően az első jogosító képzést a hallgató hat hónapon belül nem kezdi meg, a képzési szervezetnek értékelnie kell a hallgató tudásszintjét, és ha a hallgató nem teljesíti az alapképzés célkitűzéseit, felfrissítő képzésen kell részt vennie a jogosító képzés megkezdése előtt.
+## 3.4.2.[^86] Ha az alapképzés befejezését, valamint sikeres értékelést követően az első jogosító képzést a hallgató hat hónapon belül nem kezdi meg, a képzési szervezetnek értékelnie kell a hallgató tudásszintjét, és ha a hallgató nem teljesíti az alapképzés célkitűzéseit, felfrissítő képzésen kell részt vennie a jogosító képzés megkezdése előtt.
 
 ## 3.5. A kezdő képzés teljesítésének feltételei
 
 ## 3.5.1. A kezdő képzést sikeresen teljesíti a hallgató, ha
 
-## a)[^78] az alap- és jogosító képzés írásbeli vagy a szóbeli értékelésén elérte a követelmények teljesítéséhez szükséges minimális szintet, és
+## a)[^87] az alap- és jogosító képzés írásbeli vagy a szóbeli értékelésén elérte a követelmények teljesítéséhez szükséges minimális szintet, és
 
 ## b) ha előírt, a jogosító képzés során a gyakorlati értékeléseken teljesítette az oktatott célkitűzéseket.
 
@@ -206,7 +206,7 @@
 
 ## d) az értékelési eljárást, amely során a hallgató előmenetelének értékelése történik a következők szerint:
 
-## da)[^79] az írásbeli, szóbeli vagy számítógép alapú, valamint a gyakorlati értékelések módszerét, beleértve a képzés sikeres elvégzéséhez szükséges értékelési fázisokat, továbbá a követelmények teljesítéséhez szükséges minimális szintet,
+## da)[^88] az írásbeli, szóbeli vagy számítógép alapú, valamint a gyakorlati értékelések módszerét, beleértve a képzés sikeres elvégzéséhez szükséges értékelési fázisokat, továbbá a követelmények teljesítéséhez szükséges minimális szintet,
 
 ## db) az értékelőkkel szemben támasztott követelményeket,
 
@@ -214,11 +214,11 @@
 
 ## dd) az alkalmazott felmérések leírását és
 
-## de)[^80] a felmérések és az értékelés dokumentálásának, és a hallgató tájékoztatásának módját.
+## de)[^89] a felmérések és az értékelés dokumentálásának, és a hallgató tájékoztatásának módját.
 
-## e)[^81] a panaszkezelési eljárást.
+## e)[^90] a panaszkezelési eljárást.
 
-## 3.6.3.[^82]
+## 3.6.3.[^91]
 
 ## 3.6.4. A repüléstájékoztató kezdő képzés egyes képzési szakaszainak kötelező tantárgyai
 
@@ -242,9 +242,9 @@
 
 ## i) angol nyelvismeret, beleértve a rádiótávbeszélő kifejezések ismeretét,
 
-## j)[^83] magyar rádiótávbeszélő kifejezések.
+## j)[^92] magyar rádiótávbeszélő kifejezések.
 
-## 3.6.4.2.[^84] Jogosító és jogosítás-kiterjesztés képzés
+## 3.6.4.2.[^93] Jogosító és jogosítás-kiterjesztés képzés
 
 ## a) Repülőtéri
 
@@ -266,17 +266,17 @@
 
 ## bc) körzeti repüléstájékoztató szolgálat, beleértve műszereseljárás-gyakorló berendezésen történő eljárásgyakorlást,
 
-## bd) radartanácsadás, szimulátoros képzést is beleértve,
+## bd)[^94] radaralapú repüléstájékoztatás, szimulátoros képzést is beleértve,
 
 ## be) repülésbejelentő szolgálat,
 
 ## bf) rendkívüli/kényszerhelyzeti körülmények, csökkent üzemmódú rendszerek,
 
-## c)[^85] Radartanácsadás jogosítás-kiterjesztés:
+## c)[^95] Radaralapú repüléstájékoztatás jogosítás-kiterjesztés:
 
-## ca) radartanácsadás, szimulátoros képzést is beleértve.
+## ca)[^96] radaralapú repüléstájékoztatás, szimulátoros képzést is beleértve.
 
-## 3.6.5.[^86] A légiforgalmi tiszt kezdő képzés alapképzésének és egyes jogosításainak és jogosítás-kiterjesztés szakaszainak kötelező tantárgyai
+## 3.6.5.[^97] A légiforgalmi tiszt kezdő képzés alapképzésének és egyes jogosításainak és jogosítás-kiterjesztés szakaszainak kötelező tantárgyai
 
 ## 3.6.5.1. Alapképzés
 
@@ -362,11 +362,11 @@
 
 ## 3.7.3.3. Ha a hallgató az írásbeli, szóbeli értékelésen nem felelt meg, az értékelést egy alkalommal megismételheti.
 
-## 3.7.4.[^87] Gyakorlati értékelés a repüléstájékoztató jogosító vagy jogosítás-kiterjesztés képzés során
+## 3.7.4.[^98] Gyakorlati értékelés a repüléstájékoztató jogosító vagy jogosítás-kiterjesztés képzés során
 
-## 3.7.4.1.[^88]
+## 3.7.4.1.[^99]
 
-## 3.7.4.2.[^89] Repüléstájékoztató jogosító vagy jogosítás-kiterjesztés képzés során ha egy gyakorlati értékelést tartanak, azt a jogosító vagy jogosítás-kiterjesztés képzés végén kell végrehajtani.
+## 3.7.4.2.[^100] Repüléstájékoztató jogosító vagy jogosítás-kiterjesztés képzés során ha egy gyakorlati értékelést tartanak, azt a jogosító vagy jogosítás-kiterjesztés képzés végén kell végrehajtani.
 
 ## 3.7.4.3. A gyakorlati értékelésnek legalább három teljes, a hallgató által befejezett gyakorlatot kell tartalmaznia.
 
@@ -386,7 +386,7 @@
 
 ## 4.2.1.1. Ha a gyakornok a munkahelyi képzést a kezdő képzés sikeres befejezését követő hat hónapon belül nem kezdi meg, a képzési szervezetnek értékelnie kell a gyakornok tudásszintjét, és ha szükséges a gyakornoknak felfrissítő képzésen kell részt vennie a munkahelyi képzés megkezdése előtt.
 
-## 4.2.2.[^90] A szolgáltató minden repüléstájékoztató egységnél, valamint a légiforgalmi tiszt szolgálati tevékenységet végző egységeknél munkahelyi képzést a légiközlekedési hatóság által jóváhagyott munkahelyi képzési terv alapján folytathat.
+## 4.2.2.[^101] A szolgáltató minden repüléstájékoztató egységnél, valamint a légiforgalmi tiszt szolgálati tevékenységet végző egységeknél munkahelyi képzést a légiközlekedési hatóság által jóváhagyott munkahelyi képzési terv alapján folytathat.
 
 ## 4.2.3. A munkahelyi képzési terv tartalmazza:
 
@@ -422,19 +422,19 @@
 
 ## c) Munkahelyi gyakorlati képzés (On-the-job training – OJT), amelynek megtartása kötelező.
 
-## ca)[^91] A gyakornoknak e szakaszban el kell sajátítania
+## ca)[^102] A gyakornoknak e szakaszban el kell sajátítania
 
 ## – a repüléstájékoztató vagy a légiforgalmi tiszt szolgálati tevékenység során az alkalmazott eljárásokat,
 
 ## felhasználva az előzőleg megtanult eljárásokat, rutinokat.
 
-## cb)[^92] A munkahelyi gyakorlati képzés alatt a gyakornok látja el a szolgálati tevékenységet a repüléstájékoztató esetében munkahelyi kiterjesztéssel rendelkező munkahelyi gyakorlati oktató, a légiforgalmi tiszt esetében legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel, megfelelő jogosítással és – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztéssel rendelkező személy felügyelete alatt.
+## cb)[^103] A munkahelyi gyakorlati képzés alatt a gyakornok látja el a szolgálati tevékenységet a repüléstájékoztató esetében munkahelyi kiterjesztéssel rendelkező munkahelyi gyakorlati oktató, a légiforgalmi tiszt esetében legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel, megfelelő jogosítással és – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztéssel rendelkező személy felügyelete alatt.
 
-## 4.4.1.[^93] A repüléstájékoztatók esetében a munkahelyi képzés kötelező eleme a kényszerhelyzeti képzés is.
+## 4.4.1.[^104] A repüléstájékoztatók esetében a munkahelyi képzés kötelező eleme a kényszerhelyzeti képzés is.
 
 ## 4.5. A munkahelyi képzés időtartama
 
-## 4.5.1.[^94]
+## 4.5.1.[^105]
 
 ## 4.5.2. Repüléstájékoztató szakszolgálati engedély első megszerzése esetén a munkahelyi gyakorlati képzés időtartama
 
@@ -442,11 +442,11 @@
 
 ## b) Körzeti jogosítás esetén legalább 200 óra, amelynek maximum 50%-a hajtható végre az előzetes munkahelyi képzés keretében.
 
-## c)[^95] Érvényes légiforgalmi irányító szakszolgálati engedéllyel rendelkező repüléstájékoztató gyakornok esetében legalább 50 óra, amelynek maximum 50%-a hajtható végre az előzetes munkahelyi képzés keretében, melyet a munkahelyi képzési tervben kell rögzíteni.
+## c)[^106] Érvényes légiforgalmi irányító szakszolgálati engedéllyel rendelkező repüléstájékoztató gyakornok esetében legalább 50 óra, amelynek maximum 50%-a hajtható végre az előzetes munkahelyi képzés keretében, melyet a munkahelyi képzési tervben kell rögzíteni.
 
-## 4.5.3.[^96] Légiforgalmi tiszt szakszolgálati engedély és minden további jogosítás és – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztés megszerzése esetén a munkahelyi gyakorlati képzés időtartama 200 óra. A képzés óraszáma a légiközlekedési hatóság által jóváhagyott képzési tervben arányosan csökkenthető, ha a korábbi képzés tematikája a képzési tervben meghatározottakat részben vagy egészben lefedik.
+## 4.5.3.[^107] Légiforgalmi tiszt szakszolgálati engedély és minden további jogosítás és – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztés megszerzése esetén a munkahelyi gyakorlati képzés időtartama 200 óra. A képzés óraszáma a légiközlekedési hatóság által jóváhagyott képzési tervben arányosan csökkenthető, ha a korábbi képzés tematikája a képzési tervben meghatározottakat részben vagy egészben lefedik.
 
-## 4.5.4.[^97] A munkahelyi gyakorlati képzés minimum óraszámait a repüléstájékoztató szakszolgálati engedély további vagy új jogosításának és – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztésének, valamint munkahelyi kiterjesztésének megszerzése esetén a munkahelyi képzési terv határozza meg.
+## 4.5.4.[^108] A munkahelyi gyakorlati képzés minimum óraszámait a repüléstájékoztató szakszolgálati engedély további vagy új jogosításának és – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztésének, valamint munkahelyi kiterjesztésének megszerzése esetén a munkahelyi képzési terv határozza meg.
 
 ## 4.6. A gyakornok értékelése
 
@@ -454,9 +454,9 @@
 
 ## 4.6.2. A képzési célkitűzések gyakornok általi teljesítését a munkahelyi gyakorlati képzés alatt az egyes képzési szakaszokat követően, valamint az előre meghatározott szinteket követően is értékelni kell. A gyakornok nem kezdheti meg a következő képzési szakaszt, illetve a következő szintet, ha nem teljesítette a szakaszhoz, szinthez rendelt célkitűzéseket.
 
-## 4.6.3.[^98] A munkahelyi képzés során a 4.6.1–4.6.2. pontban meghatározott kötelező értékelések mellett a gyakornok előmenetele felmérésekkel is ellenőrizhető, amely segítséget nyújt az elsajátított tudás megismeréséhez.
+## 4.6.3.[^109] A munkahelyi képzés során a 4.6.1–4.6.2. pontban meghatározott kötelező értékelések mellett a gyakornok előmenetele felmérésekkel is ellenőrizhető, amely segítséget nyújt az elsajátított tudás megismeréséhez.
 
-## 4.6.4.[^99] Az értékeléseket dokumentálni kell, az értékelések során a gyakornok feleletét (tesztlap is) és a szimulátoros gyakorlati feladatokat rögzíteni és archiválni kell, valamint az értékelések eredményéről a gyakornokot tájékoztatni kell. A tájékoztatás tényét a gyakornok aláírásával igazolja.
+## 4.6.4.[^110] Az értékeléseket dokumentálni kell, az értékelések során a gyakornok feleletét (tesztlap is) és a szimulátoros gyakorlati feladatokat rögzíteni és archiválni kell, valamint az értékelések eredményéről a gyakornokot tájékoztatni kell. A tájékoztatás tényét a gyakornok aláírásával igazolja.
 
 ## 4.6.5. Az értékelések során a képzésben feltárt esetleges hiányosságok esetén a munkahelyi képzési tervet módosítani kell. A módosítást az indokok megjelölésével dokumentálni kell.
 
@@ -464,17 +464,17 @@
 
 ## 5. Általános rendelkezések
 
-## 5.1.[^100] A repüléstájékoztató és légiforgalmi tiszt a szakszolgálati engedélyében szereplő jogosításának, jogosítás-kiterjesztésének, munkahelyi kiterjesztésének, nyelvi kiterjesztésének és szakszolgálati kiterjesztésének megfelelő szaktudásának fenntartása érdekében köteles részt venni továbbképzésen és szaktudás értékelésen.
+## 5.1.[^111] A repüléstájékoztató és légiforgalmi tiszt a szakszolgálati engedélyében szereplő jogosításának, jogosítás-kiterjesztésének, munkahelyi kiterjesztésének, nyelvi kiterjesztésének és szakszolgálati kiterjesztésének megfelelő szaktudásának fenntartása érdekében köteles részt venni továbbképzésen és szaktudás értékelésen.
 
-## 5.2.[^101] A repüléstájékoztató és légiforgalmi tiszt továbbképzésének biztosításáért és a szaktudás értékelés végzéséért a szolgáltató felelős.
+## 5.2.[^112] A repüléstájékoztató és légiforgalmi tiszt továbbképzésének biztosításáért és a szaktudás értékelés végzéséért a szolgáltató felelős.
 
-## 5.3.[^102] A szolgáltatónak rendelkeznie kell a repüléstájékoztató és légiforgalmi tiszt szakszolgálati engedélyében szereplő jogosításának, jogosítás-kiterjesztésének, munkahelyi kiterjesztésének, nyelvi kiterjesztésének és szakszolgálati kiterjesztésének megfelelő, a képzéseket és a szaktudásértékelési-rendszert tartalmazó továbbképzési programmal (a továbbiakban: továbbképzési program), amelyet a légiközlekedési hatóság hagy jóvá három év időtartamra.
+## 5.3.[^113] A szolgáltatónak rendelkeznie kell a repüléstájékoztató és légiforgalmi tiszt szakszolgálati engedélyében szereplő jogosításának, jogosítás-kiterjesztésének, munkahelyi kiterjesztésének, nyelvi kiterjesztésének és szakszolgálati kiterjesztésének megfelelő, a képzéseket és a szaktudásértékelési-rendszert tartalmazó továbbképzési programmal (a továbbiakban: továbbképzési program), amelyet a légiközlekedési hatóság hagy jóvá három év időtartamra.
 
-## 5.4.[^103] A továbbképzési program tartalmazza:
+## 5.4.[^114] A továbbképzési program tartalmazza:
 
 ## a) az időszakosan kötelező képzések, illetve egyéb képzések megtartásának rendjét,
 
-## b)[^104] a szakszolgálati kiterjesztéssel összefüggő továbbképzési követelményeket,
+## b)[^115] a szakszolgálati kiterjesztéssel összefüggő továbbképzési követelményeket,
 
 ## c) az engedélyesek szolgálati tevékenysége ellátására való jogosultság megszakadása esetén biztosítandó továbbképzések rendszerét,
 
@@ -482,15 +482,15 @@
 
 ## e) a továbbképzéseken vagy a szaktudás-értékelésen részt nem vett vagy nem megfelelt engedélyes szaktudásának helyreállítását szolgáló eljárást,
 
-## f)[^105] a továbbképzési program végrehajtásával kapcsolatban a légiközlekedési hatóság tájékoztatásának rendjét,
+## f)[^116] a továbbképzési program végrehajtásával kapcsolatban a légiközlekedési hatóság tájékoztatásának rendjét,
 
-## g)[^106] a továbbképzési program végrehajtásáért felelős személy nevét és felelősségi körét,
+## g)[^117] a továbbképzési program végrehajtásáért felelős személy nevét és felelősségi körét,
 
-## h)[^107] a panaszkezelési eljárást.
+## h)[^118] a panaszkezelési eljárást.
 
-## 5.5.[^108] A szakszemélyzet továbbképzéseit éves képzési tervben kell rögzíteni.
+## 5.5.[^119] A szakszemélyzet továbbképzéseit éves képzési tervben kell rögzíteni.
 
-## 5.6.[^109] A légiközlekedési hatóság a továbbképzési programban foglaltak végrehajtását ellenőrzi.
+## 5.6.[^120] A légiközlekedési hatóság a továbbképzési programban foglaltak végrehajtását ellenőrzi.
 
 ## 6. Továbbképzéssel kapcsolatos követelmények
 
@@ -506,7 +506,7 @@
 
 ## 6.1.2. A kényszerhelyzeti képzés
 
-## 6.1.2.1.[^110] A kényszerhelyzeti képzés célja biztosítani a jártasságot és tudást, hogy a repüléstájékoztató segítséget tudjon nyújtani a kényszerhelyzetben levő légijárműnek és kezelni tudja a rendkívüli helyzeteket. A repüléstájékoztató esetében a képzés módja lehet elméleti vagy gyakorlati képzés.
+## 6.1.2.1.[^121] A kényszerhelyzeti képzés célja biztosítani a jártasságot és tudást, hogy a repüléstájékoztató segítséget tudjon nyújtani a kényszerhelyzetben levő légijárműnek és kezelni tudja a rendkívüli helyzeteket. A repüléstájékoztató esetében a képzés módja lehet elméleti vagy gyakorlati képzés.
 
 ## 6.1.2.2. A gyakorlati képzés általában szimulátoron történik, ahol az engedélyes olyan eljárásokat tud gyakorolni, amelyekben a szaktudás fenntartásához nincsen elegendő gyakorlata.
 
@@ -520,9 +520,9 @@
 
 ## 6.3. A szolgálati tevékenység ellátására való jogosultság megszakadása esetén biztosítandó továbbképzések
 
-## 6.3.1.[^111] Ha az engedélyes nem lát el szolgálati tevékenységet repüléstájékoztató esetén a 25. § (1) bekezdés a) pontjában, légiforgalmi tiszt esetében a továbbképzési programban meghatározott időtartamban, az engedélyes folyamatos gyakorlatának újbóli megteremtéséhez a kihagyás mértékének megfelelő felfrissítő képzésen kell részt vennie a szükséges jártasság és tudás megszerzése érdekében.
+## 6.3.1.[^122] Ha az engedélyes nem lát el szolgálati tevékenységet repüléstájékoztató esetén a 25. § (1) bekezdés a) pontjában, légiforgalmi tiszt esetében a továbbképzési programban meghatározott időtartamban, az engedélyes folyamatos gyakorlatának újbóli megteremtéséhez a kihagyás mértékének megfelelő felfrissítő képzésen kell részt vennie a szükséges jártasság és tudás megszerzése érdekében.
 
-## 6.4.[^112] Szakszolgálati kiterjesztés felfrissítő képzés
+## 6.4.[^123] Szakszolgálati kiterjesztés felfrissítő képzés
 
 ## 6.4.1. A felfrissítő képzés célja biztosítani a munkahelyi gyakorlati oktatói készségek fenntartását.
 
@@ -530,13 +530,13 @@
 
 ## 7.1. A szakszemélyzet szaktudásának folyamatos fenntartását a szolgáltatónak ellenőriznie kell annak érdekében, hogy nyomon követhető legyen a szaktudás szinten tartása, és ha szükséges helyesbítő intézkedést lehessen tenni mielőtt az az elfogadható szint alá süllyed.
 
-## 7.2.[^113] Az értékelést rendszeres időközönként kell elvégezni, a repüléstájékoztatók esetében legalább 12 havonta egyszer, a légiforgalmi tisztek esetében legalább 24 havonta egyszer.
+## 7.2.[^124] Az értékelést rendszeres időközönként kell elvégezni, a repüléstájékoztatók esetében legalább 12 havonta egyszer, a légiforgalmi tisztek esetében legalább 24 havonta egyszer.
 
-## 7.3.[^114] Az értékelésnek tartalmaznia kell a szolgálati tevékenységgel összefüggő munkahelyi környezetet, alkalmazandó rendszereket és kapcsolódó eljárásokat érintő ismeretanyag szóbeli, írásbeli vagy számítógép alapú tesztjét, valamint a repüléstájékoztatók esetében a gyakorlatiszaktudás-értékelést.
+## 7.3.[^125] Az értékelésnek tartalmaznia kell a szolgálati tevékenységgel összefüggő munkahelyi környezetet, alkalmazandó rendszereket és kapcsolódó eljárásokat érintő ismeretanyag szóbeli, írásbeli vagy számítógép alapú tesztjét, valamint a repüléstájékoztatók esetében a gyakorlatiszaktudás-értékelést.
 
 ## 7.4. Az értékelést
 
-## a)[^115]
+## a)[^126]
 
 ## b) repüléstájékoztatók esetében megfelelő repüléstájékoztató szakszolgálati engedéllyel, jogosítással, – ha a jogosításhoz ilyen kapcsolódhat – jogosítás-kiterjesztéssel, munkahelyi kiterjesztéssel és munkahelyi gyakorlati oktató kiterjesztéssel rendelkező,
 
@@ -544,17 +544,17 @@
 
 ## a szolgáltató által kijelölt személy (szaktudás-értékelő) végzi.
 
-## 7.5.[^116] A gyakorlatiszaktudás-értékelést a repüléstájékoztatók esetében olyan időszakban kell elvégezni, amikor a forgalom nagysága megfelel annak, amelynek kezelését elvárják a munkahelyen a repüléstájékoztatótól.
+## 7.5.[^127] A gyakorlatiszaktudás-értékelést a repüléstájékoztatók esetében olyan időszakban kell elvégezni, amikor a forgalom nagysága megfelel annak, amelynek kezelését elvárják a munkahelyen a repüléstájékoztatótól.
 
 ## 7.6. Az értékeléseket dokumentálni kell, az értékelések során az értékelt feleletét (tesztlap is) archiválni kell, valamint az értékelések eredményéről az értékeltet tájékoztatni kell. A tájékoztatás tényét az értékelt aláírásával igazolja.
 
 ## 7.7. Annak a személynek az értékelését, akinek a szaktudását, akár az elméleti, akár a gyakorlati értékelésen nem értékelték megfelelőnek, az első nem megfelelt értékelést követő harminc napon belül meg kell ismételni. Az ismételt értékelés legfeljebb egy alkalommal végezhető el. A szolgáltatónak biztosítani kell az értékelések megismétlésének lehetőségét.
 
-## 7.7.1.[^117] A szolgáltatónak az értékelés megismétlése előtt a szakszemélyzet számára továbbképzést (tanfolyam, konzultáció, e-learning, illetve szimulátor) kell biztosítania. A továbbképzésnek a szaktudás értékelésen feltárt hiányosságok témaköreit kell tartalmaznia.
+## 7.7.1.[^128] A szolgáltatónak az értékelés megismétlése előtt a szakszemélyzet számára továbbképzést (tanfolyam, konzultáció, e-learning, illetve szimulátor) kell biztosítania. A továbbképzésnek a szaktudás értékelésen feltárt hiányosságok témaköreit kell tartalmaznia.
 
 ## 7.7.2. Ha a szakszemélyzet valamely tagja a szaktudás értékelésen második alkalommal is nem megfelelt értékelést kapott, a szolgáltató köteles erről a légiközlekedési hatóságot haladéktalanul értesíteni.
 
-## III. REPÜLÉSTÁJÉKOZTATÓ, VALAMINT LÉGIFORGALMI TISZT KÉPZÉSÉT VÉGZŐ KÉPZÉSI SZERVEZETEK[^118]
+## III. REPÜLÉSTÁJÉKOZTATÓ, VALAMINT LÉGIFORGALMI TISZT KÉPZÉSÉT VÉGZŐ KÉPZÉSI SZERVEZETEK[^129]
 
 ## 8. A képzési szervezetekkel szemben támasztott követelmények
 
@@ -570,7 +570,7 @@
 
 ## 8.2. A képzésben részt vevő személynek megfelelőn képzettnek kell lennie, valamint az elméleti és gyakorlati oktatásban történő jártasságát megfelelő rendszerességgel fel kell mérni.
 
-2. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^119]
+2. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^130]
 
 [^64]: Az 1. melléklet 1.2. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^65]: Az 1. melléklet 1.4. pontját a 43/2016. (XI. 2.) NFM rendelet 14. § 28. pontja hatályon kívül helyezte.
@@ -582,49 +582,60 @@
 [^71]: Az 1. melléklet 2.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 30. pontja szerint módosított szöveg.
 [^72]: Az 1. melléklet 2.5. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 31. pontja szerint módosított szöveg.
 [^73]: Az 1. melléklet 2.6. pontja a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^74]: Az 1. melléklet 2.7. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^75]: Az 1. melléklet 2.8. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^76]: Az 1. melléklet 2.9. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^77]: Az 1. melléklet 3.4.2. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 32. pontja szerint módosított szöveg.
-[^78]: Az 1. melléklet 3.5.1. pont a) alpontja a 43/2016. (XI. 2.) NFM rendelet 13. § 33. pontja szerint módosított szöveg.
-[^79]: Az 1. melléklet 3.6.2. pont d) pont da) alpontja a 62/2012. (XI. 26.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
-[^80]: Az 1. melléklet 3.6.2. pont d) alpont de) pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 34. pontja szerint módosított szöveg.
-[^81]: Az 1. melléklet 3.6.2. pont e) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^82]: Az 1. melléklet 3.6.3. pontját a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
-[^83]: Az 1. melléklet 3.6.4.1. pont j) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^84]: Az 1. melléklet 3.6.4.2. pont nyitó szövegrésze a 43/2016. (XI. 2.) NFM rendelet 13. § 35. pontja szerint módosított szöveg.
-[^85]: Az 1. melléklet 3.6.4.2. pont c) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^86]: Az 1. melléklet 3.6.5. pont nyitó szövegrésze a 43/2016. (XI. 2.) NFM rendelet 13. § 36. és 37. pontja szerint módosított szöveg.
-[^87]: Az 1. melléklet 3.7.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 28. pontja és a 14. § 12. pontja szerint módosított szöveg.
-[^88]: Az 1. melléklet 3.7.4.1. pontját a 43/2016. (XI. 2.) NFM rendelet 14. § 29. pontja hatályon kívül helyezte.
-[^89]: Az 1. melléklet 3.7.4.2. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 44. pontja szerint módosított szöveg.
-[^90]: Az 1. melléklet 4.2.2. pontja a 62/2012. (XI. 26.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
-[^91]: Az 1. melléklet 4.4. pont c) alpont ca) pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 30. pontja szerint módosított szöveg.
-[^92]: Az 1. melléklet 4.4. pont c) alpont cb) pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 31. pontja szerint módosított szöveg.
-[^93]: Az 1. melléklet 4.4.1. pontja a 62/2012. (XI. 26.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
-[^94]: Az 1. melléklet 4.5.1. pontját a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
-[^95]: Az 1. melléklet 4.5.2. pont c) alpontja a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^96]: Az 1. melléklet 4.5.3. pontja a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^97]: Az 1. melléklet 4.5.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 38. pontja és a 14. § 32. pontja szerint módosított szöveg.
-[^98]: Az 1. melléklet 4.6.3. pontja a 62/2012. (XI. 26.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
-[^99]: Az 1. melléklet 4.6.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 39. pontja szerint módosított szöveg.
-[^100]: Az 1. melléklet 5.1. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^101]: Az 1. melléklet 5.2. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^102]: Az 1. melléklet 5.3. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^103]: Az 1. melléklet 5.4. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított, nyitó szövegrésze 43/2016. (XI. 2.) NFM rendelet 13. § 38. pontja és a 14. § 33. pontja szerint módosított szöveg.
-[^104]: Az 1. melléklet 5.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 40. pontja szerint módosított szöveg.
-[^105]: Az 1. melléklet 5.4. pont f) alpontja a 43/2016. (XI. 2.) NFM rendelet 14. § 34. pontja szerint módosított szöveg.
-[^106]: Az 1. melléklet 5.4. pont g) alpontja a 43/2016. (XI. 2.) NFM rendelet 14. § 34. pontja szerint módosított szöveg.
-[^107]: Az 1. melléklet 5.4. pont h) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^108]: Az 1. melléklet 5.5. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^109]: Az 1. melléklet 5.6. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított, a 43/2016. (XI. 2.) NFM rendelet 14. § 35. pontja szerint módosított szöveg.
-[^110]: Az 1. melléklet 6.1.2.1. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított, a 43/2016. (XI. 2.) NFM rendelet 14. § 12. pontja szerint módosított szöveg.
-[^111]: Az 1. melléklet 6.3.1. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 41. pontja és a 14. § 36. pontja szerint módosított szöveg.
-[^112]: Az 1. melléklet 6.4. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
-[^113]: Az 1. melléklet 7.2. pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 24. pontja szerint módosított szöveg.
-[^114]: Az 1. melléklet 7.3. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 42. pontja szerint módosított szöveg.
-[^115]: Az 1. melléklet 7.4. pont a) alpontját a 43/2016. (XI. 2.) NFM rendelet 14. § 36. pontja hatályon kívül helyezte.
-[^116]: Az 1. melléklet 7.5. pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 24. és 37. pontja szerint módosított szöveg.
-[^117]: Az 1. melléklet 7.7.1. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 43. pontja szerint módosított szöveg.
-[^118]: Az 1. melléklet III. pont címe a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^119]: A 2. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^74]: Az 1. melléklet 2.6.1. pont nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^75]: Az 1. melléklet 2.6.1.1. pontja a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^76]: Az 1. melléklet 2.6.2. pont nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^77]: Az 1. melléklet 2.6.2.1. pontja a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^78]: Az 1. melléklet 2.6.3. pont nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^79]: Az 1. melléklet 2.6.4. pont nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^80]: Az 1. melléklet 2.6.4.1. pontja a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^81]: Az 1. melléklet 2.6.6. pont nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^82]: Az 1. melléklet 2.6.6.1. pontja a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^83]: Az 1. melléklet 2.7. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^84]: Az 1. melléklet 2.8. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^85]: Az 1. melléklet 2.9. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^86]: Az 1. melléklet 3.4.2. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 32. pontja szerint módosított szöveg.
+[^87]: Az 1. melléklet 3.5.1. pont a) alpontja a 43/2016. (XI. 2.) NFM rendelet 13. § 33. pontja szerint módosított szöveg.
+[^88]: Az 1. melléklet 3.6.2. pont d) pont da) alpontja a 62/2012. (XI. 26.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
+[^89]: Az 1. melléklet 3.6.2. pont d) alpont de) pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 34. pontja szerint módosított szöveg.
+[^90]: Az 1. melléklet 3.6.2. pont e) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^91]: Az 1. melléklet 3.6.3. pontját a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^92]: Az 1. melléklet 3.6.4.1. pont j) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^93]: Az 1. melléklet 3.6.4.2. pont nyitó szövegrésze a 43/2016. (XI. 2.) NFM rendelet 13. § 35. pontja szerint módosított szöveg.
+[^94]: Az 1. melléklet 3.6.4.2. pont b) pont bd) alpontja a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^95]: Az 1. melléklet 3.6.4.2. pont c) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be, nyitó szövegrésze a 34/2019. (IX. 13.) ITM rendelet 10. § b) pontja szerint módosított szöveg.
+[^96]: Az 1. melléklet 3.6.4.2. pont c) pont ca) alpontja a 34/2019. (IX. 13.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^97]: Az 1. melléklet 3.6.5. pont nyitó szövegrésze a 43/2016. (XI. 2.) NFM rendelet 13. § 36. és 37. pontja szerint módosított szöveg.
+[^98]: Az 1. melléklet 3.7.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 28. pontja és a 14. § 12. pontja szerint módosított szöveg.
+[^99]: Az 1. melléklet 3.7.4.1. pontját a 43/2016. (XI. 2.) NFM rendelet 14. § 29. pontja hatályon kívül helyezte.
+[^100]: Az 1. melléklet 3.7.4.2. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 44. pontja szerint módosított szöveg.
+[^101]: Az 1. melléklet 4.2.2. pontja a 62/2012. (XI. 26.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
+[^102]: Az 1. melléklet 4.4. pont c) alpont ca) pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 30. pontja szerint módosított szöveg.
+[^103]: Az 1. melléklet 4.4. pont c) alpont cb) pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 31. pontja szerint módosított szöveg.
+[^104]: Az 1. melléklet 4.4.1. pontja a 62/2012. (XI. 26.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
+[^105]: Az 1. melléklet 4.5.1. pontját a 62/2012. (XI. 26.) NFM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^106]: Az 1. melléklet 4.5.2. pont c) alpontja a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^107]: Az 1. melléklet 4.5.3. pontja a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^108]: Az 1. melléklet 4.5.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 38. pontja és a 14. § 32. pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet 4.6.3. pontja a 62/2012. (XI. 26.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
+[^110]: Az 1. melléklet 4.6.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 39. pontja szerint módosított szöveg.
+[^111]: Az 1. melléklet 5.1. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^112]: Az 1. melléklet 5.2. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^113]: Az 1. melléklet 5.3. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^114]: Az 1. melléklet 5.4. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított, nyitó szövegrésze 43/2016. (XI. 2.) NFM rendelet 13. § 38. pontja és a 14. § 33. pontja szerint módosított szöveg.
+[^115]: Az 1. melléklet 5.4. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 40. pontja szerint módosított szöveg.
+[^116]: Az 1. melléklet 5.4. pont f) alpontja a 43/2016. (XI. 2.) NFM rendelet 14. § 34. pontja szerint módosított szöveg.
+[^117]: Az 1. melléklet 5.4. pont g) alpontja a 43/2016. (XI. 2.) NFM rendelet 14. § 34. pontja szerint módosított szöveg.
+[^118]: Az 1. melléklet 5.4. pont h) alpontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^119]: Az 1. melléklet 5.5. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^120]: Az 1. melléklet 5.6. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított, a 43/2016. (XI. 2.) NFM rendelet 14. § 35. pontja szerint módosított szöveg.
+[^121]: Az 1. melléklet 6.1.2.1. pontja a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított, a 43/2016. (XI. 2.) NFM rendelet 14. § 12. pontja szerint módosított szöveg.
+[^122]: Az 1. melléklet 6.3.1. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 41. pontja és a 14. § 36. pontja szerint módosított szöveg.
+[^123]: Az 1. melléklet 6.4. pontját a 43/2016. (XI. 2.) NFM rendelet 12. § (1) bekezdése iktatta be.
+[^124]: Az 1. melléklet 7.2. pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 24. pontja szerint módosított szöveg.
+[^125]: Az 1. melléklet 7.3. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 42. pontja szerint módosított szöveg.
+[^126]: Az 1. melléklet 7.4. pont a) alpontját a 43/2016. (XI. 2.) NFM rendelet 14. § 36. pontja hatályon kívül helyezte.
+[^127]: Az 1. melléklet 7.5. pontja a 43/2016. (XI. 2.) NFM rendelet 14. § 24. és 37. pontja szerint módosított szöveg.
+[^128]: Az 1. melléklet 7.7.1. pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 43. pontja szerint módosított szöveg.
+[^129]: Az 1. melléklet III. pont címe a 62/2012. (XI. 26.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^130]: A 2. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (2) bekezdésével megállapított, a 34/2019. (IX. 13.) ITM rendelet 11. §-a szerint módosított szöveg.
