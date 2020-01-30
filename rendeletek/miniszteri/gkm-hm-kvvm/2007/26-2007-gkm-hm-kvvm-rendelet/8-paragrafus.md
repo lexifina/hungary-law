@@ -1,6 +1,6 @@
 ## Tiltott légtér
 
-8. §[^24] (1) A tiltott légtérben a légiközlekedés – a (2) bekezdésben meghatározott kivétellel – tilos.
+8. §[^25] (1) A tiltott légtérben a légiközlekedés – a (2) bekezdésben meghatározott kivétellel – tilos.
 
 (2) A közlekedésért felelős miniszter a légiközlekedési hatóság, a katonai légiközlekedési hatóság vagy az érintett miniszter javaslatára kivételes indokból – katasztrófa, veszélyhelyzet elhárítása, a nemzet biztonsága, a közrend vagy közbiztonság fenntartása vagy helyreállítása érdekében, honvédelmi érdekek alapján vagy kutatási célból – esetileg engedélyezheti a tiltott légtérben történő repülést.
 
@@ -20,4 +20,4 @@ e) a repülés útvonalát és magasságát, vagy ha a tervezett repülési útv
 
 (5) A pilóta nélküli légijárművel történő repülés végrehajtásához szükséges engedély megléte esetén a Rendőrség Légirendészeti Szolgálata – a repülést megelőzően – ellenőrzi a tiltott légtérben történő repülésre adott engedélyt, a pilóta nélküli légijármű és az annak irányítását végrehajtó személy jogosultságát és okmányait.
 
-[^24]: A 8. § a 24/2018. (X. 19.) ITM rendelet 1. §-ával megállapított szöveg.
+[^25]: A 8. § a 24/2018. (X. 19.) ITM rendelet 1. §-ával megállapított szöveg.

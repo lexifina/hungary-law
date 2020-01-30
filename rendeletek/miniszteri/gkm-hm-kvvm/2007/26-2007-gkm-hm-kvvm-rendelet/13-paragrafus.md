@@ -6,4 +6,6 @@ a) jogszabálysértés vagy az engedélyben foglaltak megsértése esetén hatá
 
 b) amennyiben a jogszabálysértés vagy az engedélyben foglaltak megsértése a légiközlekedés biztonságát veszélyezteti, visszavonja.
 
-(3) A légiközlekedési hatóság a koordinációs feladatokat ellátó szervezet munkáját rendszeresen ellenőrzi.
+(3)[^34] A légiközlekedési hatóság a koordinációs feladatokat ellátó szervezet tevékenységét rendszeresen ellenőrzi.
+
+[^34]: A 13. § (3) bekezdése a 34/2019. (IX. 13.) ITM rendelet 7. § e) pontja szerint módosított szöveg.

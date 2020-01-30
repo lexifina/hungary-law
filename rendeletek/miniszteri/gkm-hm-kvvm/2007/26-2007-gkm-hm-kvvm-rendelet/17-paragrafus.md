@@ -4,7 +4,7 @@
 
 (2) Az előre nem tervezett feladatok végrehajtásához veszélyes légtér igénybevételére vonatkozó pótigényt csak a Magyar Honvédség Összhaderőnemi parancsnok, illetve az egyéb igénybevételre jogosult szervek esetében azok felügyeletét végző szervek vezetőjének jóváhagyásával lehet benyújtani a Budapest ATS Központhoz, legkésőbb 5 munkanappal a feladat tervezett végrehajtását megelőzően.
 
-(3) A veszélyes légterek hétfő 06.00 órától péntek 22.00 óra helyi időpontok közötti időszakra igényelhetők.
+(3)[^40] A veszélyes légterek hétfő 06.00 órától péntek 22.00 óra helyi idő szerinti időpontok közötti időszakra igényelhetők.
 
 (4) A veszélyes légtér igénylésének tartalmaznia kell:
 
@@ -21,3 +21,5 @@ e) lövészeti tevékenység esetén a lövészetvezető, lőtéri repülésveze
 (5) A Budapest ATS Központ a szükséges igénylési adatok összesítése után gondoskodik a veszélyes légterek NOTAM-ban történő közzétételéről.
 
 (6) A tervben szereplő veszélyes légtérre vonatkozó igényt törölni kell, ha bizonyossá válik, hogy a tervezett feladat végrehajtására a tervezett időszakban nem kerül sor.
+
+[^40]: A 17. § (3) bekezdése a 34/2019. (IX. 13.) ITM rendelet 7. § f) pontja szerint módosított szöveg.

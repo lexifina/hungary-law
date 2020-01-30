@@ -1,6 +1,500 @@
+## 9K06384N_8
+
+|  | A | B | C | D |
+
+| 1. | Légtér azonosítója | Neve / oldalhatárai | Felső / alsó határa | Megjegyzés |
+
+| 2. | LHTRA11A | PAPA ALPHA | FL125 (3800 m STD) / GND |  |
+
+| 472959N | 0175015E |
+
+| 472959N | 0181529E |
+
+| 471331N | 0181507E |
+
+| 471259N | 0175900E |
+
+| 472959N | 0175015E |
+
+| 3. | LHTRA11B | PAPA BRAVO | 9500’ (2900 m) AMSL / 4000’ (1200 m) AMSL |  |
+
+| 471259N | 0175900E |
+
+| 471331N | 0181507E |
+
+| 470212N | 0181457E |
+
+| 465529N | 0175135E |
+
+| 470646N | 0174335E |
+
+| 471259N | 0175900E |
+
+| 4. | LHTRA11C | PAPA CHARLIE | 4000’ (1200 m) AMSL / GND |  |
+
+| 471259N | 0175900E |
+
+| 471331N | 0181507E |
+
+| 470212N | 0181457E |
+
+| 465529N | 0175135E |
+
+| 470646N | 0174335E |
+
+| 471259N | 0175900E |
+
+| 5. |  |  |  |  |
+
+| 6. | LHTRA13 | TISZA | FL145 (4400 m STD) / 9500’ (2900 m) AMSL | Az LHTRA13 és LHTRA43 légterekben történő egyidejű működés nem engedélyezett. |
+
+| 472212N | 0200910E |
+
+| 472038N | 0201743E |
+
+| 471829N | 0202929E |
+
+| 471045N | 0202532E |
+
+| 470008N | 0202008E |
+
+| 465401N | 0201703E |
+
+| 465559N | 0200729E |
+
+| 470241N | 0200428E |
+
+| 471203N | 0195953E |
+
+| 472212N | 0200910E |
+
+| 7. | LHTRA14A | MEZO ALPHA | 2000’ (600 m) AMSL / GND |  |
+
+| 471829N | 0202929E |
+
+| 471245N | 0204529E |
+
+| 470610N | 0204314E |
+
+| 471045N | 0202532E |
+
+| 471829N | 0202929E |
+
+| 8. | LHTRA14B | MEZO BRAVO | 2000’ (600 m) AMSL / GND |  |
+
+| 471045N | 0202532E |
+
+| 470610N | 0204314E |
+
+| 465613N | 0203951E |
+
+| 470008N | 0202008E |
+
+| 471045N | 0202532E |
+
+| 9. | LHTRA14C | MEZO CHARLIE | 2000’ (600 m) AMSL / GND |  |
+
+| 470008N | 0202008E |
+
+| 465613N | 0203951E |
+
+| 464943N | 0203740E |
+
+| 465401N | 0201703E |
+
+| 470008N | 0202008E |
+
+| 10. |  |  |  |  |
+
+| 11. |  |  |  |  |
+
+| 12. |  |  |  |  |
+
+| 13. | LHTRA16 | ARPAD | FL115 (3500 m STD) / GND |  |
+
+| 464943N | 0203740E |
+
+| 464505N | 0205357E |
+
+| 462940N | 0204358E |
+
+| 463203N | 0202335E |
+
+| 464943N | 0203740E |
+
+| 14. | LHTRA21A | WEST ALPHA | FL245 (7450 m STD) / 9500’ (2900 m) AMSL |  |
+
+| 465105N | 0162126E |
+
+| 463352N | 0180006E |
+
+| 460854N | 0180425E |
+
+| 460445N | 0172645E |
+
+| 462256N | 0170114E |
+
+| 462930N | 0163702E |
+
+| 464101N | 0162522E |
+
+| 465105N | 0162126E |
+
+| 15. | LHTRA21B | WEST BRAVO | FL215 (6550 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA21A és LHTRA21C légterekkel együtt vehető igénybe. |
+
+| 465105N | 0162126E |
+
+| 464502N | 0175809E |
+
+| 463352N | 0180006E |
+
+| 465105N | 0162126E |
+
+| 16. | LHTRA21C | WEST CHARLIE | FL175 (5350 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA21A és LHTRA21B légterekkel együtt vehető igénybe. |
+
+| 464502N | 0175809E |
+
+| 463726N | 0181335E |
+
+| 455737N | 0182351E |
+
+| 455529N | 0175254E |
+
+| 460445N | 0172645E |
+
+| 460854N | 0180425E |
+
+| 464502N | 0175809E |
+
+| 17. | LHTRA21D | WEST DELTA | 9500’ (2900 m) AMSL/ 4000’ (1200 m) AMSL |  |
+
+| 462658N | 0172525E |
+
+| 461447N | 0175841E |
+
+| 455529N | 0175254E |
+
+| 460445N | 0172645E |
+
+| 462256N | 0170114E |
+
+| 462658N | 0172525E |
+
+| 18. | LHTRA21E | WEST ECHO | 4000’ (1200 m) AMSL / GND |  |
+
+| 462658N | 0172525E |
+
+| 461447N | 0175841E |
+
+| 455529N | 0175254E |
+
+| 460445N | 0172645E |
+
+| 462256N | 0170114E |
+
+| 462658N | 0172525E |
+
+| 19. | LHTRA22A | SOUTH ALPHA | FL175 (5350 m STD) / FL125 (3800 m STD) |  |
+
+| 470342N | 0192349E |
+
+| 470241N | 0200428E |
+
+| 465559N | 0200729E |
+
+| 464943N | 0203740E |
+
+| 463203N | 0202335E |
+
+| 463728N | 0194717E |
+
+| 470342N | 0192349E |
+
+| 20. | LHTRA22B | SOUTH BRAVO | FL175 (5350 m STD) / 9500’ (2900 m) AMSL |  |
+
+| 464943N | 0203740E |
+
+| 463943N | 0211234E |
+
+| 462319N | 0210540E |
+
+| 462140N | 0205519E |
+
+| 462648N | 0195641E |
+
+| 463728N | 0194717E |
+
+| 463203N | 0202335E |
+
+| 464943N | 0203740E |
+
+| 21. | LHTRA22C | SOUTH CHARLIE | FL245 (7450 m STD) / FL175 (5350 m STD) | Az LHBP érkező forgalmának védelme érdekében a légtér igénybevételének különleges eljárásait a polgári és a katonai fél együttműködési megállapodásban rögzíti. |
+
+| 470342N | 0192349E |
+
+| 470241N | 0200428E |
+
+| 465559N | 0200729E |
+
+| 464943N | 0203740E |
+
+| 463943N | 0211234E |
+
+| 462319N | 0210540E |
+
+| 462140N | 0205519E |
+
+| 462648N | 0195641E |
+
+| 470342N | 0192349E |
+
+| 22. | LHTRA22D | SOUTH DELTA | FL145 (4400 m STD) / 9500’ (2900 m) AMSL | Az LHTRA22D és LHTRA41 légterekben történő egyidejű működés nem engedélyezett. |
+
+| 465945N | 0190242E |
+
+| 462143N | 0193952E |
+
+| 461429N | 0190859E |
+
+| 463056N | 0184947E |
+
+| 463337N | 0185631E |
+
+| 463909N | 0185202E |
+
+| 463600N | 0184405E |
+
+| 464851N | 0182835E |
+
+| 465945N | 0190242E |
+
+| 23. | LHTRA22E | SOUTH ECHO | FL125 (3800 m STD) / 9500’ (2900 m) AMSL |  |
+
+| 463957N | 0192213E |
+
+| 463959N | 0192954E |
+
+| 463728N | 0194717E |
+
+| 462648N | 0195641E |
+
+| 462143N | 0193952E |
+
+| 463957N | 0192213E |
+
+| 24. | LHTRA22F | SOUTH FOXTROT | 9500’ (2900 m) AMSL / 4000’ (1200 m) AMSL |  |
+
+| 465046N | 0191134E |
+
+| 462143N | 0193952E |
+
+| 461512N | 0191156E |
+
+| 464352N | 0184811E |
+
+| 465046N | 0191134E |
+
+| 25. | LHTRA23A | EAST ALPHA | FL245 (7450 m STD) / 9500’ (2900 m) AMSL |  |
+
+| 481115N | 0202525E |
+
+| 474559N | 0213339E |
+
+| 472201N | 0214313E |
+
+| 471210N | 0213301E |
+
+| 470506N | 0212808E |
+
+| 472943N | 0201605E |
+
+| 475800N | 0195615E |
+
+| 481115N | 0202525E |
+
+| 26. | LHTRA23B | EAST BRAVO | FL175 (5350 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA23A és LHTRA23C légterekkel együtt vehető igénybe. |
+
+| 472201N | 0214313E |
+
+| 471125N | 0214729E |
+
+| 470219N | 0213649E |
+
+| 465152N | 0213027E |
+
+| 471548N | 0203054E |
+
+| 472943N | 0201605E |
+
+| 470506N | 0212808E |
+
+| 471210N | 0213301E |
+
+| 472201N | 0214313E |
+
+| 27. | LHTRA23C | EAST CHARLIE | FL175 (5350 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA23A és LHTRA23B légterekkel együtt vehető igénybe. |
+
+| 475800N | 0195615E |
+
+| 480710N | 0195452E |
+
+| 481757N | 0202718E |
+
+| 475845N | 0212810E |
+
+| 474559N | 0213339E |
+
+| 481115N | 0202525E |
+
+| 475800N | 0195615E |
+
+| 28. | LHTRA23D | EAST DELTA | 9500’ (2900 m) AMSL / 4000’ (1200 m) AMSL |  |
+
+| 481115N | 0202525E |
+
+| 475018N | 0212203E |
+
+| 472252N | 0210213E |
+
+| 474125N | 0200756E |
+
+| 475800N | 0195615E |
+
+| 481115N | 0202525E |
+
+| 29. | LHTRA23E | EAST ECHO | 4000’ (1200 m) AMSL / GND |  |
+
+| 481115N | 0202525E |
+
+| 475018N | 0212203E |
+
+| 472252N | 0210213E |
+
+| 474125N | 0200756E |
+
+| 475800N | 0195615E |
+
+| 481115N | 0202525E |
+
+| 30. | LHTRA31A | UPPER WEST ALPHA | FL285 (8700 m STD) / FL245 (7450 m STD) |  |
+
+| 463352N | 0180006E |
+
+| 462829N | 0184129E |
+
+| 461000N | 0190529E |
+
+| 460259N | 0184005E |
+
+| 455737N | 0182351E |
+
+| 455529N | 0175254E |
+
+| 460445N | 0172645E |
+
+| 463352N | 0180006E |
+
+| 31. | LHTRA31B | UPPER WEST BRAVO | FL285 (8700 m STD) / FL245 (7450 m STD) |  |
+
+| 464210N | 0164659E |
+
+| 463352N | 0180006E |
+
+| 460445N | 0172645E |
+
+| 463605N | 0164210E |
+
+| 464210N | 0164659E |
+
+| 32. | LHTRA32A | UPPER EAST ALPHA | FL305 (9300 m STD) / FL245 (7450 m STD) | 1. Az LHTRA32A és LHTRA33A légterekben történő egyidejű működés nem engedélyezett. 2. Légi utántöltés céljára FL245 (7450 m STD) és FL285 (8700 m STD) között vehető igénybe. |
+
+| 475756N | 0210710E |
+
+| 471911N | 0214017E |
+
+| 471210N | 0213301E |
+
+| 465050N | 0211821E |
+
+| 471548N | 0203051E |
+
+| 472943N | 0201605E |
+
+| 474125N | 0200756E |
+
+| 475756N | 0210710E |
+
+| 33. | LHTRA32B | UPPER EAST BRAVO | FL305 (9300 m STD) / FL245 (7450 m STD) | 1. Az LHTRA32B és LHTRA33B légterekben történő egyidejű működés nem engedélyezett. 2. Légi utántöltés céljára FL245 (7450 m STD) és FL285 (8700 m STD) között vehető igénybe. |
+
+| 480810N | 0214510E |
+
+| 475243N | 0221532E |
+
+| 471911N | 0214017E |
+
+| 475756N | 0210710E |
+
+| 480810N | 0214510E |
+
+| 34. | LHTRA33A | TOP EAST ALPHA | FL420 (12800 m STD) / FL365 (11100 m STD) | Az LHTRA32A és LHTRA33A légterekben történő egyidejű működés nem engedélyezett. |
+
+| 475756N | 0210710E |
+
+| 471911N | 0214017E |
+
+| 471210N | 0213301E |
+
+| 465050N | 0211821E |
+
+| 471548N | 0203051E |
+
+| 472943N | 0201605E |
+
+| 474125N | 0200756E |
+
+| 475756N | 0210710E |
+
+| 35. | LHTRA33B | TOP EAST BRAVO | FL420 (12800 m STD) / FL365 (11100 m STD) | Az LHTRA32B és LHTRA33B légterekben történő egyidejű működés nem engedélyezett. |
+
+| 480810N | 0214510E |
+
+| 475243N | 0221532E |
+
+| 471911N | 0214017E |
+
+| 475756N | 0210710E |
+
+| 480810N | 0214510E |
+
+| 36. | LHTRA41 | WEST ALPHA CORRIDOR | FL135 (4100 m STD) / 9500’ (2900 m) AMSL | 1. Kizárólag az LHTRA21A légtérrel együtt vehető igénybe. 3. Az LHTRA22D és LHTRA41 légterekben történő egyidejű működés nem engedélyezett. 4. Az LHSDZLHDV és LHTRA41 légterekben történő egyidejű működés nem engedélyezett. |
+
+| 463500N | 0174800E |
+
+| 470000N | 0192100E |
+
+| 465400N | 0192700E |
+
+| 463000N | 0175700E |
+
+| 463500N | 0174800E |
+
+| 37. | LHTRA43 | EAST ALPHA CORRIDOR | FL125 (3800 m STD) / 9500’ (2900 m) AMSL | 1. Kizárólag az LHTRA23A légtérrel együtt vehető igénybe. 2. Az LHTRA13 és LHTRA43 légterekben történő egyidejű működés nem engedélyezett. |
+
+| 470004N | 0195835E |
+
+| 473013N | 0202152E |
+
+| 472717N | 0203100E |
+
+| 465600N | 0200722E |
+
+| 470004N | 0195835E |
+
+|  | 2. További szabályok: 2.1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2.2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 2.3. Az LHTRA 13 légtér kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13 légtér a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzete. |
+
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^79]
+együttes rendelethez[^91]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -554,7 +1048,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 2. | Légtér azonosítója | Neve/Oldalhatárai | Felső/alsó határa | Veszély/korlátozás |
 
-| 3. | LHD2A | Hajmáskér | FL 245 (7450 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 3. | LHD2A | Hajmáskér | FL 245 (7450 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 470903N | 0175624E |
 
@@ -570,7 +1064,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 470903N | 0175624E |
 
-| 4. | LHD2B | Várpalota | FL 300 (9150 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 4. | LHD2B | Várpalota | FL 300 (9150 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 471623N | 0181254E |
 
@@ -584,7 +1078,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 471623N | 0181254E |
 
-| 5. | LHD3 | Tatárszentgyörgy | FL 300 (9150 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 5. | LHD3 | Tatárszentgyörgy | FL 300 (9150 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 471200N | 0191246E |
 
@@ -602,7 +1096,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 471200N | 0191246E |
 
-| 6. | LHD11 | Dóc | 7500’ (2300 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 6. | LHD11 | Dóc | 7500’ (2300 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 462804N | 0200554E |
 
@@ -614,7 +1108,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 462804N | 0200554E |
 
-| 7. | LHD14 | Hajdúhadház | FL 105 (3200 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 7. | LHD14 | Hajdúhadház | FL 105 (3200 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 474104N | 0214053E |
 
@@ -626,7 +1120,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 474104N | 0214053E |
 
-| 8. | LHD16 | Izbég | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 8. | LHD16 | Izbég | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 474233N | 0190024E |
 
@@ -636,7 +1130,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 474233N | 0190024E |
 
-| 9. | LHD17 | Győrszentiván | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 9. | LHD17 | Győrszentiván | 3800’ (1150 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 474304N | 0174554E |
 
@@ -648,7 +1142,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 474304N | 0174554E |
 
-| 10. | LHD21 | Szomód | FL 105 (3200 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 10. | LHD21 | Szomód | FL 105 (3200 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 474103N | 0182154E |
 
@@ -660,7 +1154,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 474103N | 0182154E |
 
-| 11. | LHD24 | Sántos | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 11. | LHD24 | Sántos | 3800’ (1150 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 462134N | 0175055E |
 
@@ -672,7 +1166,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 462134N | 0175055E |
 
-| 12. | LHD29 | Püspökszilágy | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 12. | LHD29 | Püspökszilágy | 3800’ (1150 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 474533N | 0192054E |
 
@@ -682,7 +1176,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 474533N | 0192054E |
 
-| 13. | LHD33 | Állampuszta | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 13. | LHD33 | Állampuszta | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 464204N | 0190124E |
 
@@ -694,7 +1188,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 464204N | 0190124E |
 
-| 14. | LHD34 | Márianosztra | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 14. | LHD34 | Márianosztra | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 475603N | 0184954E |
 
@@ -708,7 +1202,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 475603N | 0184954E |
 
-| 15. | LHD36A | Hajmáskér | FL 145 (4400 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 15. | LHD36A | Hajmáskér | FL 145 (4400 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 470743N | 0174825E |
 
@@ -724,7 +1218,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 470743N | 0174825E |
 
-| 16. | LHD36B | Várpalota | FL 145 (4400 m STD)/GND | Lőtér. Működés NOTAM szerint. |
+| 16. | LHD36B | Várpalota | FL 145 (4400 m STD)/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 471003N | 0180354E |
 
@@ -736,7 +1230,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 471003N | 0180354E |
 
-| 17. | LHD37 | Simontornya | 3800’ (1150 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 17. | LHD37 | Simontornya | 3800’ (1150 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 464503N | 0183224E |
 
@@ -746,20 +1240,20 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 464503N | 0183224E |
 
-| 18. | LHD50 | Harka | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 18. | LHD50 | Harka | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 2 km sugarú kör a 473903N 0163355E középpont körül |
 
-| 19. | LHD52 | Kőszeg | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 19. | LHD52 | Kőszeg | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 2 km sugarú kör a 472333N 0163455E középpont körül |
 
-| 20. | LHD53 | Nádasd | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 20. | LHD53 | Nádasd | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 2 km sugarú kör a 465903N 0163455E középpont körül |
 
-| 21. | LHD55 | Szügy | 2300’ (700 m) AMSL/GND | Lőtér. Működés NOTAM szerint. |
+| 21. | LHD55 | Szügy | 2300’ (700 m) AMSL/GND | Lőtér. Tervezett működés NOTAM szerint. |
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-[^79]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított szöveg.
+[^91]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]

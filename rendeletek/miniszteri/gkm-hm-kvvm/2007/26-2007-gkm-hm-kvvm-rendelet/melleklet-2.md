@@ -12,15 +12,15 @@
 
 | 6 | VFR | Nem biztosítanak | Légiforgalmi irányító, forgalmi tájékoztatás a VFR és IFR, valamint VFR és VFR repülések között (és kérésre tanácsadás a forgalom elkerülése érdekében) | Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
-| 7 | NEM ELLENŐRZÖTT LÉGTÉR | F | 4000 láb (1200 m) és 9500 láb (2900 m) AMSL közötti nem ellenőrzött légterek, valamint a kijelölt TIZ-ek | IFR | IFR-IFR-től amennyire ez lehetséges | Légiforgalmi tanácsadó és kérés esetén repüléstájékoztató | Nincs | Max. 250 kt (460 km/h) IAS2 | Folyamatos kétoldalú | Igen | Nincs |
+| 7 | NEM ELLENŐRZÖTT LÉGTÉR | G | 4000 láb (1200 m) és 9500 láb (2900 m) AMSL közötti nem ellenőrzött légterek, valamint a kijelölt TIZ-ek | IFR | Nem biztosítnak | Kérés esetén repüléstájékoztató | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Nincs |
 
-| 8 |  |  |  | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen |  |  |  |
+| 8 | VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató (radaralapú forgalmi tájékoztatás) | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú, kivéve a rádióval fel nem szerelt, hajtómű nélküli légijárműveket, ide nem értve a vitorlázó felhőrepüléseket, továbbá a TIZ légteret el nem hagyó helyi repüléseket, ha a TIZ-ben nincs RMZ kijelölve | Igen, kivéve a TIZ légteret el nem hagyó helyi repüléseket, valamint a hajtómű nélküli légijárműveket, ide nem értve a vitorlázó felhőrepüléseket | Nincs |
 
-| 9 | VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés:- legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett | Max. 250 kt (460 km/h) IAS2 | Nincs, kivéve a vitorlázó felhőrepüléseket és az éjszakai VFR repüléseket | Nincs, kivéve a vitorlázó felhőrepüléseket és az éjszakai VFR repüléseket |
+| 9 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: - legfeljebb 140 kt műszer szerinti sebességel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
 
-| 10 |  |  |  |  |  | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen |  |  |  |  |
+| 10 | 4000 láb (1200 m) AMSL alatti nem ellenőrzött légterek, a vitorlázó- és siklórepülések céljára kijelölt légterek, valamint a műrepülő légterek | Csak VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Nincs, kivéve az éjszakai VFR repüléseket3 | Nincs, kivéve az éjszakai VFR repüléseket | Nincs |
 
-| 11 | G3 | 4000 láb (1200 m) AMSL alatti nem ellenőrzött légterek, valamint a vitorlázó és műrepülő légterek | Csak VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató3 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés:- legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett | Max. 250 kt (460 km/h) IAS2 | Nincs, kivéve az éjszakai VFR repüléseket3 | Nincs, kivéve az éjszakai VFR repülé- seket | Nincs |
+| 11 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: - legfeljebb 140 kt műszer szerinti sebességel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
 
 ## További szabályok, eltérések:
 
@@ -30,13 +30,13 @@
 
 ## 1. FL285 (8700 m STD) felett Budapest FIR-en belül VFR repülés végrehajtása tilos. FL195 (5950 m STD) felett útvonal VFR GAT repüléseket tilos végrehajtani.
 
-## 2. Az F és G osztályú légterekben, a határ-, illetve szabálysértő légijárművek elfogása, vizuális azonosítása, velük szemben rendszabályok foganatosítása, vagy segítségnyújtás céljából légvédelmi célú repülést folytató állami légijárművek – amennyiben az elfogás profilja, illetve a légijárművek manőverező képességének megőrzése azt megköveteli – eltérhetnek a 250 kt (460 km/h) IAS legnagyobb repülési sebességtől.
+## 2. A G osztályú légtérben, a határ-, illetve szabálysértő légijárművek elfogása, vizuális azonosítása, velük szemben rendszabályok foganatosítása, vagy segítségnyújtás céljából légvédelmi célú repülést folytató állami légijárművek – amennyiben az elfogás profilja, illetve a légijárművek manőverező képességének megőrzése azt megköveteli – eltérhetnek a 250 kt (460 km/h) IAS legnagyobb repülési sebességtől.
 
 ## 3. A koordinált légtérben, a Drop Zone légtérben és a műrepülő légtérben repüléstájékoztató és riasztó szolgálatot nem nyújtanak. A koordinált légtérben és a Drop Zone légtérben kétoldalú rádióösszeköttetési kötelezettség van a koordinációs feladatot ellátó szervezettel, a közzétett frekvenciákon.
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^78]
+együttes rendelethez[^90]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -50,401 +50,659 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 | 2. | Budapest CTA | FL660 (20 100 m STD) / 9500’ (2900 m) AMSL | (ICAO „C”) |
 
-|  | Magyarország országhatára jelen rendelet 2. és 3. számú mellékleteiben meghatározott légtereken kívül |
+|  | Magyarország országhatára e rendelet 2. melléklet I. alcím 2.-4. pontjában és II.-IV. alcímében, valamint 3. mellékletében meghatározott légtereken kívül |
 
-| 2. Közelkörzet |
+2. Közelkörzet
 
 |  | A | B | C |
 
 | 1. | Légtér azonosítója / oldalhatárai | Felső / alsó határa | Megjegyzés |
 
-| 2. | Budapest TMA 1 | FL195 (5950 m STD) / 7500’ (2300 m) AMSL | (ICAO „C”) |
+| 2. | Budapest TMA1 | FL195 (5950 m STD) / 9500’ (2900 m) AMSL | (ICAO „C”) |
 
-|  | 474419N | 0181530E |
+| 472011N | 0181744E |
 
-|  | 473521N | 0181527E |
+| 470220N | 0182212E |
 
-|  | 471331N | 0181507E |
+| 465337N | 0190031E |
 
-|  | 470908N | 0184432E |
+| 465726N | 0185421E |
 
-|  | 473503N | 0182754E |
+| 470324N | 0184445E |
 
-|  | 474551N | 0182754E |
+| 472011N | 0181744E |
 
-|  | Országhatár |
+| 3. | Budapest TMA2/A | FL195 (5950 m STD) / 5500’ (1700 m) AMSL | (ICAO „C”) |
 
-|  | 474419N | 0181530E |
+| 474419N | 0181530E |
 
-| 3. | Budapest TMA 2 | FL195 (5950 m STD) / 6500’ (2000 m) AMSL | (ICAO „C”) |
+| 472900N | 0181531E |
 
-|  | 474551N | 0182754E |
+| 472421N | 0181642E |
 
-|  | 473503N | 0182754E |
+| 472232N | 0181709E |
 
-|  | 470908N | 0184432E |
+| 472011N | 0181744E |
 
-|  | 470806N | 0185112E |
+| 470324N | 0184445E |
 
-|  | 472516N | 0185346E |
+| 471342N | 0185839E |
 
-|  | 473233N | 0184156E |
+| 471844N | 0185029E |
 
-|  | 474527N | 0183705E |
+| 472115N | 0184623E |
 
-|  | Országhatár |
+| 472409N | 0184140E |
 
-|  | 474551N | 0182754E |
+| 472531N | 0183928E |
 
-| 4. | Budapest TMA 3 | FL195 (5950 m STD) / 3500’ (1050 m) AMSL | (ICAO „C”) |
+| 473231N | 0183928E |
 
-|  | 474527N | 0183705E |
+| 473653N | 0183928E |
 
-|  | 473233N | 0184156E |
+| 474919N | 0185613E |
 
-|  | 472516N | 0185346E |
+| 474914N | 0190432E |
 
-|  | 470806N | 0185112E |
+| 474907N | 0191518E |
 
-|  | 470403N | 0191630E |
+| 473849N | 0193152E |
 
-|  | 470606N | 0192729E |
+| 473835N | 0193214E |
 
-|  | 472525N | 0185940E |
+| 474906N | 0194628E |
 
-|  | 473055N | 0190118E |
+| 475644N | 0193408E |
 
-|  | 473220N | 0185858E |
+| 480519N | 0192017E |
 
-|  | 473500N | 0185300E |
+| Országhatár |
 
-|  | 473720N | 0185425E |
+| 474419N | 0181530E |
 
-|  | 474643N | 0190652E |
+| 4. | Budapest TMA2/B | FL195 (5950 m STD) / 5500’ (1700 m) AMSL | (ICAO „C”) |
 
-|  | 474750N | 0184351E |
+| 471342N | 0185839E |
 
-|  | Országhatár |
+| 470324N | 0184445E |
 
-|  | 474527N | 0183705E |
+| 465726N | 0185421E |
 
-| 5. | Budapest TMA 4 | FL195 (5950 m STD) / 2500’ (750 m) AMSL | (ICAO „C”) |
+| 465337N | 0190031E |
 
-|  | 474643N | 0190652E |
+| 464819N | 0192349E |
 
-|  | 473720N | 0185425E |
+| 465248N | 0195136E |
 
-|  | 473500N | 0185300E |
+| 470913N | 0201353E |
 
-|  | 473220N | 0185858E |
+| 471529N | 0201355E |
 
-|  | 473055N | 0190118E |
+| 473200N | 0201358E |
 
-|  | 473054N | 0190159E |
+| 474052N | 0195940E |
 
-|  | 473612N | 0190412E |
+| 474906N | 0194628E |
 
-|  | 474615N | 0191631E |
+| 473835N | 0193214E |
 
-|  | 474643N | 0190652E |
+| 471927N | 0200302E |
 
-| 6. | Budapest TMA 5 | FL195 (5950 m STD) / 6500’ (2000 m) AMSL | (ICAO „C”) |
+| 465441N | 0192934E |
 
-|  | 474750N | 0184351E |
+| 470345N | 0191451E |
 
-|  | 474503N | 0194053E |
+| 471342N | 0185839E |
 
-|  | 475224N | 0193441E |
+| 5. | Budapest TMA3 | FL195 (5950 m STD) / 3500’ (1050 m) AMSL | (ICAO „C”) |
 
-|  | 480513N | 0192330E |
+| 474919N | 0185613E |
 
-|  | Országhatár |
+| 473653N | 0183928E |
 
-|  | 474750N | 0184351E |
+| 473231N | 0183928E |
 
-| 7. | Budapest TMA 6 | FL195 (5950 m STD) / 2000’ (600 m) AMSL | (ICAO „C”) |
+| 472531N | 0183928E |
 
-|  | 474615N | 0191631E |
+| 472409N | 0184140E |
 
-|  | 473612N | 0190412E |
+| 472115N | 0184623E |
 
-|  | 473054N | 0190159E |
+| 471844N | 0185029E |
 
-|  | 473055N | 0190118E |
+| 471342N | 0185839E |
 
-|  | 472525N | 0185940E |
+| 471956N | 0190704E |
 
-|  | 470606N | 0192729E |
+| 472418N | 0190115E |
 
-|  | 471203N | 0195953E |
+| 472525N | 0185940E |
 
-|  | 474503N | 0194053E |
+| 472811N | 0190029E |
 
-|  | 474615N | 0191631E |
+| 472933N | 0190054e |
 
-| 8. | Budapest TMA 7 | FL195 (5950 m STD) / 5500’ (1700 m) AMSL | (ICAO „C”) |
+| 473057N | 0185951E |
 
-|  | 474503N | 0194053E |
+| 473355N | 0185502E |
 
-|  | 471203N | 0195953E |
+| 473556N | 0185145E |
 
-|  | 472351N | 0201040E |
+| 474111N | 0185850E |
 
-|  | 473529N | 0200354E |
+| 473827N | 0190316E |
 
-|  | 474503N | 0194053E |
+| 473721N | 0190503E |
 
-| 9. | Budapest TMA 8 | FL195 (5950 m STD) / 9500’ (2900 m) AMSL | (ICAO „C”) |
+| 473640N | 0190610E |
 
-|  | 480513N | 0192330E |
+| 473600N | 0191030E |
 
-|  | 475224N | 0193441E |
+| 473439N | 0192008E |
 
-|  | 480944N | 0195400E |
+| 473221N | 0192350E |
 
-|  | Országhatár |
+| 473835N | 0193214E |
 
-|  | 480513N | 0192330E |
+| 473849N | 0193152E |
 
-| 10. | Budapest TMA 9 | FL195 (5950 m STD) / 2000’ (600 m) AMSL | (ICAO „C”) Az állami célú repülések időszakában a légtér meghatározott részében az ATS ellátásának átruházását a Budapest APP és Kecskemét közötti együttműködési megállapodás szabályozza. |
+| 474907N | 0191518E |
 
-|  | 471203N | 0195953E |
+| 474914N | 0190432E |
 
-|  | 470606N | 0192729E |
+| 474919N | 0185613E |
 
-|  | 470403N | 0191630E |
+| 6. | Budapest TMA4 | FL195 (5950 m STD) / 2500’ (750 m) AMSL | (ICAO „C”) |
 
-|  | 470240N | 0200428E |
+| 474111N | 0185850E |
 
-|  | 471203N | 0195953E |
+| 473556N | 0185145E |
 
-| 3. Polgári repülőtéri körzetek |
+| 473355N | 0185502E |
+
+| 473057N | 0185951E |
+
+| 473721N | 0190503E |
+
+| 473827N | 0190316E |
+
+| 474111N | 0185850E |
+
+| 7. | Budapest TMA5 | FL195 (5950 m STD) / 2000’ (600 m) AMSL, kivéve Budapest CTR | (ICAO „C”) |
+
+| 473721N | 0190503E |
+
+| 473057N | 0185951E |
+
+| 472933N | 0190054E |
+
+| 472811N | 0190029E |
+
+| 472525N | 0185940E |
+
+| 472418N | 0190115E |
+
+| 471956N | 0190704E |
+
+| 470955N | 0192319E |
+
+| 472218N | 0194000E |
+
+| 473221N | 0192350E |
+
+| 473439N | 0192008E |
+
+| 473600N | 0191030E |
+
+| 473640N | 0190610E |
+
+| 473721N | 0190503E |
+
+| 8. | Budapest TMA6 | FL195 (5950 m STD) / 2500’ (750 m) AMSL | (ICAO „C”) |
+
+| 473835N | 0193214E |
+
+| 473221N | 0192350E |
+
+| 472218N | 0194000E |
+
+| 470955N | 0192319E |
+
+| 471956N | 0190704E |
+
+| 471342N | 0185839E |
+
+| 470345N | 0191451E |
+
+| 465441N | 0192934E |
+
+| 471927N | 0200302E |
+
+| 473835N | 0193214E |
+
+| 9. | Budapest TMA7 | FL195 (5950 m STD) / 9500’ (2900 m) AMSL | (ICAO „C”) |
+
+| 481029N | 0200325E |
+
+| Országhatár |
+
+| 480519N | 0192017E |
+
+| 475644N | 0193408E |
+
+| 474906N | 0194628E |
+
+| 474052N | 0195940E |
+
+| 473200N | 0201358E |
+
+| 480605N | 0201359E |
+
+| 481029N | 0200325E |
+
+3. Polgári repülőtéri körzetek
+
+|  | A | B | C |
+
+| 1. | Légtér azonosítója /oldalhatárai | Felső /alsó határa | Megjegyzés |
+
+| 2. | Budapest CTR | 3500’ (1050 m) AMSL / GND | (ICAO „D”) Budapest CTR magában foglalja Budapest CTR végső megközelítési területét |
+
+| 473546N | 0190523E |
+
+| 473457N | 0190856E |
+
+| 473230N | 0191930E |
+
+| 472400N | 0193400E |
+
+| 472307N | 0193247E |
+
+| 471632N | 0192347E |
+
+| 471457N | 0192138E |
+
+| 472410N | 0190642E |
+
+| 472613N | 0190619E |
+
+| 472941N | 0190336E |
+
+| 473022N | 0190325E |
+
+| 473038N | 0190321E |
+
+| 473546N | 0190523E |
+
+| 3. | Budapest CTR végső megközelítési területe | 3500’ (1050 m) AMSL / GND | (ICAO „D”) |
+
+| 473546N | 0190523E |
+
+| 473457N | 0190856E |
+
+| 473230N | 0191930E |
+
+| 472400N | 0193400E |
+
+| 472307N | 0193247E |
+
+| 471632N | 0192347E |
+
+| 471457N | 0192138E |
+
+| 472410N | 0190642E |
+
+| 472613N | 0190619E |
+
+| 472941N | 0190336E |
+
+| 473022N | 0190325E |
+
+| 473038N | 0190321E |
+
+| 473546N | 0190523E |
+
+| 4. | Sármellék CTR | 2000’ (600 m) AMSL/GND | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTA légtérrel együtt működhet. |
+
+| 465232N | 0170443E |
+
+| 465233N | 0171252E |
+
+| 464035N | 0171331E |
+
+| 463224N | 0171903E |
+
+| 462847N | 0171750E |
+
+| 462659N | 0170752E |
+
+| 463919N | 01 70630E |
+
+| 465010N | 0165907E |
+
+| 465232N | 0170443E |
+
+| 5. | Sármellék CTA | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTR légtérrel együtt működhet. |
+
+| 465211N | 0164912E |
+
+| 465233N | 0171252E |
+
+| 463423N | 0171944E |
+
+| 462847N | 0171750E |
+
+| 462539N | 0170031E |
+
+| 465211N | 0164912E |
+
+| 6. | Debrecen CTR | 2000’ (600 m) AMSL/GND | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTA1 és CTA2 légterekkel együtt működhet. |
+
+| 473908N | 0214744E |
+
+| 473338N | 0215503E |
+
+| 471843N | 0213038E |
+
+| 472433N | 0212252E |
+
+| 473908N | 0214744E |
+
+| 7. | Debrecen CTA1 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTR és CTA2 légterekkel együtt működhet. |
+
+| 474127N | 0215009E |
+
+| 473102N | 0220059E |
+
+| 471020N | 0214329E |
+
+| 471154N | 0212611E |
+
+| 472402N | 0211743E |
+
+| 473243N | 0213243E |
+
+| 474127N | 0215009E |
+
+| 8. | Debrecen CTA2 | 9500’ (2900 m) AMSL / 5000’ (1500 m) AMSL | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTR és CTA1 légterekkel együtt működhet. |
+
+| 474718N | 0213722E |
+
+| 474127N | 0215009E |
+
+| 473243N | 0213243E |
+
+| 474559N | 0213339E |
+
+| 474718N | 0213722E |
+
+4. Katonai körzetek
+
+## 9K06384N_3
 
 |  | A | B | C |
 
 | 1. | Légtér azonosítója / oldalhatárai | Felső / alsó határa | Megjegyzés |
 
-| 2. | Budapest CTR | 2000’ (600 m) AMSL / GND | (ICAO „D”) |
+| 2. | Kecskemét MTMA1/A | 7500’ (2300 m) AMSL / 2000’ (600 m) AMSL |  |
 
-|  | 473546N | 0190523E |
+| 470247N | 0200102E |
 
-|  | 473358N | 0191018E |
+| 470304N | 0195208E |
 
-|  | 473128N | 0191427E |
+| 470342N | 0192954E |
 
-|  | 473230N | 0191930E |
+| 470403N | 0191630E |
 
-|  | 472400N | 0193400E |
+| 464938N | 0192954E |
 
-|  | 471500N | 0192130E |
+| 463622N | 0201429E |
 
-|  | 472400N | 0190730E |
+| 465142N | 0202812E |
 
-|  | 472700N | 0190630E |
+| 465400N | 0201703E |
 
-|  | 472808N | 0190426E |
+| 465559N | 0200728E |
 
-|  | 472939N | 0190336E |
+| 465843N | 0200133E |
 
-|  | 473022N | 0190325E |
+| 470247N | 0200102E |
 
-|  | 473546N | 0190523E |
+| 3. | Kecsekemét MTMA1/B | FL125 (3800 m STD) / 7500’ (2300 m) AMSL |  |
 
-| 3. | Sármellék CTR | 2000’ (600 m) AMSL / GND | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTA légtérrel együtt működhet. |
+| 470247N | 0200102E |
 
-|  | 465232N | 0170443E |
+| 470304N | 0195208E |
 
-|  | 465233N | 0171252E |
+| 470342N | 0192954E |
 
-|  | 464035N | 0171331E |
+| 470403N | 0191630E |
 
-|  | 463224N | 0171903E |
+| 464938N | 0192954E |
 
-|  | 462847N | 0171750E |
+| 463622N | 0201429E |
 
-|  | 462659N | 0170752E |
+| 465142N | 0202812E |
 
-|  | 463919N | 0170630E |
+| 465400N | 0201703E |
 
-|  | 465010N | 0165907E |
+| 465559N | 0200728E |
 
-|  | 465232N | 0170443E |
+| 465843N | 0200133E |
 
-| 4. | Sármellék CTA | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „D”) közzétett üzemidő szerint csak Sármellék CTR légtérrel együtt működhet. |
+| 470247N | 0200102E |
 
-|  | 465211N | 0164912E |
+| 4. | Kecskemét MTMA2/A | 7500’ (2300 m) AMSL / 4000’ (1200 m) AMSL |  |
 
-|  | 465233N | 0171252E |
+| 464938N | 0192954E |
 
-|  | 463423N | 0171944E |
+| 463957N | 0192213E |
 
-|  | 462847N | 0171750E |
+| 463615N | 0195058E |
 
-|  | 462539N | 0170031E |
+| 463203N | 0202335E |
 
-|  | 465211N | 0164912E |
+| 464943N | 0203740E |
 
-| 5. | Debrecen CTR | 2000’ (600 m) AMSL / GND | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTA1 és CTA2 légterekkel együtt működhet. |
+| 465142N | 0202812E |
 
-|  | 473908N | 0214744E |
+| 463622N | 0201429E |
 
-|  | 473338N | 0215503E |
+| 464938N | 0192954E |
 
-|  | 471843N | 0213038E |
+| 5. | Kecskemét MTMA2/B | FL125 (3800 m STD) / 7500’ (2300 m) AMSL |  |
 
-|  | 472433N | 0212252E |
+| 464938N | 0192954E |
 
-|  | 473908N | 0214744E |
+| 463957N | 0192213E |
 
-| 6. | Debrecen CTA1 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTR és CTA2 légterekkel együtt működhet. |
+| 463615N | 0195058E |
 
-|  | 474127N | 0215009E |
+| 463203N | 0202335E |
 
-|  | 473102N | 0220059E |
+| 464943N | 0203740E |
 
-|  | 471020N | 0214329E |
+| 465142N | 0202812E |
 
-|  | 471154N | 0212611E |
+| 463622N | 0201429E |
 
-|  | 472402N | 0211743E |
+| 464938N | 0192954E |
 
-|  | 473243N | 0213243E |
+| 6. | Kecskemét MTMA3/A | 7500’ (2300 m) AMSL / 4000’ (1200 m) AMSL |  |
 
-|  | 474127N | 0215009E |
+| 470403N | 0191630E |
 
-| 7. | Debrecen CTA2 | 9500’ (2900 m) AMSL / 5000’ (1500 m) AMSL | (ICAO „D”) Közzétett üzemidő szerint csak Debrecen CTR és CTA1 légterekkel együtt működhet. |
+| 470104N | 0191155E |
 
-|  | 474718N | 0213722E |
+| 465337N | 0190031E |
 
-|  | 474127N | 0215009E |
+| 463957N | 0192213E |
 
-|  | 473243N | 0213243E |
+| 464938N | 0192954E |
 
-|  | 474559N | 0213339E |
+| 470403N | 0191630E |
 
-|  | 474718N | 0213722E |
+| 7. | Kecskemét MTMA3/B | FL125 (3800 m STD) / 7500’ (2300 m) AMSL |  |
 
-| 4. Katonai körzetek |
+| 470403N | 0191630E |
 
-|  | A | B | C |
+| 470104N | 0191155E |
 
-| 1. | Légtér azonosítója / oldalhatárai | Felső / alsó határa | Megjegyzés |
+| 465337N | 0190031E |
 
-| 2. | Szolnok MTMA | 9500’ (2900 m) AMSL/ 2000’ (600 m) AMSL |  |
+| 463957N | 0192213E |
 
-|  | 472212N | 0200910E |
+| 464938N | 0192954E |
 
-|  | 472038N | 0201743E |
+| 470403N | 0191630E |
 
-|  | 471829N | 0202929E |
+| 8. | Kecskemét MTMA4/A | 7500’ (2300 m) AMSL / 2000’ (600 m) AMSL |  |
 
-|  | 471045N | 0202532E |
+| 470929N | 0194549E |
 
-|  | 470008N | 0202008E |
+| 470403N | 0191630E |
 
-|  | 465401N | 0201703E |
+| 470342N | 0192954E |
 
-|  | 465559N | 0200729E |
+| 470304N | 0195208E |
 
-|  | 470241N | 0200428E |
+| 470247N | 0200102E |
 
-|  | 471203N | 0195953E |
+| 470929N | 0194549E |
 
-|  | 472212N | 0200910E |
+| 9. | Kecskemét MTMA4/B | FL125 (3800 m STD) / 7500’ (2300 m) AMSL |  |
 
-| 3. | Szolnok MCTR | 4000’ (1200 m) AMSL / GND |  |
+| 470929N | 0194549E |
 
-|  | 472038N | 0201743E |
+| 470403N | 0191630E |
 
-|  | 471829N | 0202929E |
+| 470342N | 0192954E |
 
-|  | 470008N | 0202008E |
+| 470304N | 0195208E |
 
-|  | 470241N | 0200428E |
+| 470247N | 0200102E |
 
-|  | 472038N | 0201743E |
+| 470929N | 0194549E |
 
-| 4. | Pápa MTMA | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL |  |
+| 10. | Kecskemét MCTR | 4000’ (1200 m) AMSL / GND |  |
 
-|  | 473559N | 0171554E |
+| A repülőtér vonatkozási pont (ARP 465504N 0194503E) körüli 10 km (5 NM) sugarú kör, valamint az alábbi koordináták által megadott terület. |
 
-|  | 473559N | 0173554E |
+| 470342N | 0192954E |
 
-|  | 472959N | 0174154E |
+| 470304N | 0195208E |
 
-|  | 472959N | 0175015E |
+| 465559N | 0200729E |
 
-|  | 471259N | 0175900E |
+| 464529N | 0195854E |
 
-|  | 465959N | 0172640E |
+| 465329N | 0193659E |
 
-|  | 470229N | 0171654E |
+| 465329N | 0192954E |
 
-|  | 472854N | 0170304E |
+| 470342N | 0192954E |
 
-|  | 473559N | 0171554E |
+| 11. | Pápa MTMA | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL |  |
 
-| 5. | Pápa MCTR | 4000’ (1200 m) AMSL / GND | Oldalhatára a repülőtér vonatkozási pont (ARP: 472150N 0173002E) körüli 10 km (5 NM) sugarú kör, valamint a koordináták által megadott terület. |
+| 473559N | 0171554E |
 
-|  | 473539N | 0172854E |
+| 473559N | 0173554E |
 
-|  | 471029N | 0174254E |
+| 472959N | 0174154E |
 
-|  | 470738N | 0173124E |
+| 472959N | 0175015E |
 
-|  | 473259N | 0171754E |
+| 471259N | 0175900E |
 
-|  | 473539N | 0172854E |
+| 465959N | 0172640E |
 
-| 6. | Kecskemét MTMA1 | FL125 (3800 m STD) / 2000’ (600 m) AMSL |  |
+| 470229N | 0171654E |
 
-|  | 470403N | 0191630E |
+| 472854N | 0170304E |
 
-|  | 470241N | 0200428E |
+| 473559N | 0171554E |
 
-|  | 465559N | 0200729E |
+| 12. | Pápa MCTR | 4000’ (1200 m) AMSL / GND |  |
 
-|  | 465142N | 0202813E |
+| A repülőtér vonatkoztatási pont (ARP 472150N 0173002E) körüli 10 km (5 NM) sugarú kör, valamint az alábbi koordináták által megadott terület. |
 
-|  | 463622N | 0201429E |
+| 473539N | 0172854E |
 
-|  | 464938N | 0192954E |
+| 471029N | 0174254E |
 
-|  | 470403N | 0191630E |
+| 470738N | 0173124E |
 
-| 7. | Kecskemét MTMA2 | FL125 (3800 m STD) / 5000’ (1500 m) AMSL |  |
+| 473259N | 0171754E |
 
-|  | 465142N | 0202813E |
+| 473539N | 0172854E |
 
-|  | 464943N | 0203740E |
+| 13. | Szolnok MTMA/A Szolnok MCTR átfedő részének kizárásával | 5500’ (1700 m) AMSL / 2000’ (600 m) AMSL |  |
 
-|  | 463203N | 0202335E |
+| 472212N | 0200910E |
 
-|  | 463959N | 0192954E |
+| 471203N | 0195953E |
 
-|  | 464938N | 0192954E |
+| 470247N | 0200102E |
 
-|  | 463622N | 0201429E |
+| 465843N | 0200133E |
 
-|  | 465142N | 0202813E |
+| 465559N | 0200728E |
 
-| 8. | Kecskemét MCTR | 4000’ (1200 m) AMSL / GND | Oldalhatárai a repülőtér vonatkozási pont (ARP 465504N 0194503E) körüli 10 km (5 NM) sugarú kör, valamint a koordináták által megadott terület. |
+| 465400N | 0201703E |
 
-|  | 470342N | 0192954E |
+| 465142N | 0202812E |
 
-|  | 470304N | 0195208E |
+| 464943N | 0203740E |
 
-|  | 465559N | 0200729E |
+| 471245N | 0204529E |
 
-|  | 464529N | 0195854E |
+| 471829N | 0202929E |
 
-|  | 465329N | 0193659E |
+| 472038N | 0201743E |
 
-|  | 465329N | 0192954E |
+| 472212N | 0200910E |
 
-|  | 470342N | 0192954E |
+| 14. | Szolnok MTMA/B | 9500’ (2900 m STD) / 5500’ (1700 m) AMSL |  |
 
-|  | 5. További szabályok: 5.1. Az MTMA-k és MCTR-ek a munkaszüneti napokon, valamint 20.00 LT-08.00 LT között csak külön bejelentésre, illtetve igényre működnek. 5.2. Polgári repülések az MCTR-ek üzemidején kívül is csak repülési terv alapján hajthatók végre: 5.2.1. Pápa és Kecskemét repülőterek esetében a repülőtér vonatkozási pontjától R=10 km sugarú körön belül 3000 láb (900 m) AGL alatt; 5.2.2. Szolnok repülőtér esetében a repülőtér vonatkozási pontjától (ARP: 470722N 0201407E) R=5 km sugarú körön belül – Szolnok város és a Rákóczifalva úttól nyugatra eső rész kivételével – 2000 láb (600 m) AGL alatt. |
+| 472212N | 0200910E |
+
+| 471203N | 0195953E |
+
+| 470247N | 0200102E |
+
+| 465843N | 0200133E |
+
+| 465559N | 0200728E |
+
+| 465400N | 0201703E |
+
+| 465142N | 0202812E |
+
+| 464943N | 0203740E |
+
+| 471245N | 0204529E |
+
+| 471829N | 0202929E |
+
+| 47238N | 0201743E |
+
+| 472212N | 0200910E |
+
+| 15. | Szolnok MCTR | 4000’ (1200 m) AMSL / GND |  |
+
+| 472038N | 0201743E |
+
+| 465843N | 0200133E |
+
+| 465559N | 0200728E |
+
+| 465400N | 0201703E |
+
+| 471829N | 0202929E |
+
+| 472038N | 0201743E |
+
+|  | 5. További szabályok: 5.1. Az MCTR-ek munkaszüneti napokon, valamint 20.00 LT-08.00 LT között csak külön igénylés alapján, a többi időszakban folyamatosan működnek, az MTMA-k minden időszakban csak külön igénylés alapján működnek. 5.2. Polgári repülések az MCTR-ek üzemidején kívül is csak repülési terv alapján hajthatók végre: 5.2.1. Pápa és Kecskemét repülőterek esetében a repülőtér vonatkozási pontjától R=10 km sugarú körön belül 3000 láb (900 m) AGL alatt; 5.2.2. Szolnok repülőtér esetében a repülőtér vonatkozási pontjától (ARP: 470722N 0201407E) R=5 km sugarú körön belül – Szolnok város és a Rákóczifalva úttól nyugatra eső rész kivételével – 2000 láb (600 m) AGL alatt. |
 
 II. ATS ÁTRUHÁZÁS
 
@@ -480,7 +738,7 @@ II. ATS ÁTRUHÁZÁS
 
 2.2. RUTOL Box
 
-2.2.1. A 480217N 0184930E – 475729N 0183036E – 475117N 0182910E – 474551N 0182754E földrajzi koordináták és Budapest FIR határa által bezárt terület C osztályú ellenőrzött légtérnek minősül FL090 (2750 m STD) magasságtól FL195 (5950 m STD) magasságig, ahol a légiforgalmi irányító, a repüléstájékoztató és a riasztó szolgálat ellátásáért Budapest ATS központ a felelős.
+2.2.1. A480214N 0184917E – 475729N 0183036E – 475117N 0182910E – 474551N 0182754E földrajzi koordináták és Budapest FIR határa által bezárt terület C osztályú ellenőrzött légtérnek minősül 9000’ (2750 m STD) magasságtól FL195 (5950 m STD) magasságig, ahol a légiforgalmi irányító, a repüléstájékoztató és a riasztó szolgálat ellátásáért Budapest ATS Központ a felelős.
 
 2.2.2. A fentiekben meghatározott légtéren belül a kutató- és mentőtevékenység koordinálása és végzése az illetékes szlovák hatóságok feladata.
 
@@ -488,7 +746,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 8K35050M_1
+## 9K06384N_4
 
 |  | A | B | C | D |
 
@@ -618,19 +876,17 @@ II. ATS ÁTRUHÁZÁS
 
 3.3. További szabályok:
 
-A közös felhasználású légterek működésének idejét és rendjét Budapest ATS központ és a légvédelmi irányító szolgálat biztosításáért felelős katonai szervezet vezetője együttműködési megállapodásban rögzíti.
+A közös felhasználású légterek működésének idejét és rendjét Budapest ATS Központ és a légvédelmi irányító szolgálat biztosításáért felelős katonai szervezet vezetője együttműködési megállapodásban rögzíti.
 
 III. NEM ELLENŐRZÖTT LÉGTEREK
 
 1. TIZ légterek
 
-## 8K35050M_2
-
 |  | A | B | C |
 
 | 1. | Légtér azonosítója/Oldalhatárai | Felső/alsó határa | Megjegyzés |
 
-| 2. | Békéscsaba TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 2. | Békéscsaba TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
 | 465341N | 0212325E |
 
@@ -652,7 +908,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465341N | 0212325E |
 
-| 3. | Börgönd TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint csak Börgönd TIZ2 és TIZ3 légterekkel együtt működhet. |
+| 3. | Börgönd TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint csak Börgönd TIZ2 és TIZ3 légterekkel együtt működhet. |
 
 | 471301N | 0181832E |
 
@@ -670,7 +926,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 471301N | 0181832E |
 
-| 4. | Börgönd TIZ2 | 7500’ (2300 m) AMSL/2000’ (600 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ3 légterekkel együtt működhet. |
+| 4. | Börgönd TIZ2 | 7500’ (2300 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ3 légterekkel együtt működhet. |
 
 | 471301N | 0181832E |
 
@@ -682,7 +938,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 471301N | 0181832E |
 
-| 5. | Börgönd TIZ3 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ2 légterekkel együtt működhet. |
+| 5. | Börgönd TIZ3 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Börgönd TIZ1 és TIZ2 légterekkel együtt működhet. |
 
 | 471301N | 0181832E |
 
@@ -702,7 +958,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 471301N | 0181832E |
 
-| 6. | Debrecen TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint csak Debrecen TIZ2 és TIZ3 légtérrel együtt működhet. |
+| 6. | Debrecen TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint csak Debrecen TIZ2 és TIZ3 légtérrel együtt működhet. |
 
 | 473908N | 0214744E |
 
@@ -714,7 +970,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 473908N | 0214744E |
 
-| 7. | Debrecen TIZ2 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Debrecen TIZ1 és TIZ3 légtérrel együtt működhet. |
+| 7. | Debrecen TIZ2 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Debrecen TIZ1 és TIZ3 légtérrel együtt működhet. |
 
 | 474127N | 0215009E |
 
@@ -730,7 +986,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 474127N | 0215009E |
 
-| 8. | Debrecen TIZ3 | 9500’ (2900 m) AMSL/5000’ (1500 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Debrecen TIZ1 és TIZ2 légtérrel együtt működhet. |
+| 8. | Debrecen TIZ3 | 9500’ (2900 m) AMSL/5000’ (1500 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Debrecen TIZ1 és TIZ2 légtérrel együtt működhet. |
 
 | 474718N | 0213722E |
 
@@ -742,15 +998,15 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 474718N | 0213722E |
 
-| 9. | Fertőszentmiklós TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 9. | Fertőszentmiklós TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
 | 5 km (2,7 NM) sugarú kör a 473500N 0165040E középpont körül |
 
-| 10. | Nyíregyháza TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 10. | Nyíregyháza TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
-| 10 km sugarú kör a 475856N 0214100E középpont körül |
+| 10 km (5,4 NM) sugarú kör a 475856N 0214100E középpont körül |
 
-| 11. | Pécs-Pogány TIZ | 9500’ (2900 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 11. | Pécs-Pogány TIZ | 9500’ (2900 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
 | 454614N | 0181508E |
 
@@ -766,7 +1022,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 454614N | 0181508E |
 
-| 12. | Pér TIZ | 9500’ (2900 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 12. | Pér TIZ | 9500’ (2900 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. A légtér igénybevétele csak legalább nyomásmagasság továbbítási képességgel rendelkező transzponderrel felszerelt légijárművel lehetséges, kivéve a hajtómű nélküli légijárműveket. |
 
 | 474906N | 0173651E |
 
@@ -788,7 +1044,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 474906N | 0173651E |
 
-| 13. | Sármellék TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint csak Sármellék TIZ2 légtérrel együtt működhet. |
+| 13. | Sármellék TIZ1 | 2000’ (600 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint csak Sármellék TIZ2 légtérrel együtt működhet. |
 
 | 465232N | 0170443E |
 
@@ -808,7 +1064,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465232N | 0170443E |
 
-| 14. | Sármellék TIZ2 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „F”) Közzétett üzemidő szerint csak Sármellék TIZ1 légtérrel együtt működhet. |
+| 14. | Sármellék TIZ2 | 9500’ (2900 m) AMSL/2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint csak Sármellék TIZ1 légtérrel együtt működhet. |
 
 | 465211N | 0164912E |
 
@@ -822,7 +1078,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465211N | 0164912E |
 
-| 15. | Szeged TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 15. | Szeged TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
 | 462300N | 0200000E |
 
@@ -836,7 +1092,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 462300N | 0200000E |
 
-| 16. | Tököl TIZ | 3500’ (1050 m) AMSL/GND | (ICAO „F”) Közzétett üzemidő szerint. |
+| 16. | Tököl TIZ | 3500’ (1050 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
 | 472257N | 0185724E |
 
@@ -854,193 +1110,353 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 1. | Légtér azonosítója/Oldalhatárai | Felső/alsó határa | Megjegyzés |
 
-| 2. | LHSA1 | 6000’ (1850 m) AMSL/3000’ (900 m) AMSL | Csak műrepülés céljára. A légteret munkanapokon 09.00 óra (LT) és 18.00 óra (LT) között, pihenő- és munkaszüneti napokon 09.00 óra (LT) és 12.00 óra (LT) között, valamint 15.00 óra (LT) és 18.00 óra (LT) között lehet igénybe venni a Repüléstájékoztató Központ hozzájárulásával. |
+| 2. |  |  |  |
 
-| 472633N | 0184454E |
+3. Vitorlázó- és siklórepülések céljára kijelölt légterek
 
-| 472403N | 0184854E |
-
-| 472703N | 0184754E |
-
-| 472703N | 0184624E |
-
-| 472633N | 0184454E |
-
-| 3. Vitorlázó- és siklórepülések céljára kijelölt légterek |
+## 9K06384N_6
 
 |  | A | B | C |
 
-| 1. | Légtér azonosítója/Oldalhatárai | Felső/alsó határa | Megjegyzés |
+| 1. | Légtér azonosítója / oldalhatárai | Felső / alsó határa | Megjegyzés |
 
-| 2. | LHSG1 | 2500’ (750 m) AMSL/GND Koordinált légtér: 3500’ (1050 m) AMSL/2500’ (750 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 2. | LHSG100 | Koordinált: 4500’ (1350 m) AMSL / 3500’ (1050 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 473720N | 0185425E |
+| 474636N | 0190905E |
 
-| 473302N | 0185909E |
+| 474301N | 0190609E |
 
-| 473220N | 0185858E |
+| 473706N | 0191615E |
 
-| 473500N | 0185300E |
+| 473800N | 0192100E |
 
-| 473720N | 0185425E |
+| 473811N | 0192321E |
 
-| 3. | LHSG2/S | 3500’ (1050 m) AMSL/GND Koordinált légtér: 6500’ (2000 m) AMSL/3500’ (1050 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Napnyugtáig igényelhető. Elsősorban siklórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 474636N | 0190905E |
 
-| 473500N | 0185300E |
+| 3. | LHSG101 | Koordinált: 5500’ (1700 m) AMSL / 3500’ (1050 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 473220N | 0185858E |
+| 475108N | 0191203E |
 
-| 473002N | 0185812E |
+| 474914N | 0190432E |
 
-| 472931N | 0185846E |
+| 474636N | 0190905E |
 
-| 472910N | 0190047E |
+| 473811N | 0192321E |
 
-| 472525N | 0185940E |
+| 473849N | 0193152E |
 
-| 472519N | 0185531E |
+| 474907N | 0191518E |
 
-| 472636N | 0185717E |
+| 475108N | 0191203E |
 
-| 473328N | 0184606E |
+| 4. | LHSG102/V | Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 473500N | 0185300E |
+| 475312N | 0192011E |
 
-| 4. | LHSG2/V | 3500’ (1050 m) AMSL/GND Koordinált légtér: 6500’ (2000 m) AMSL/3500’ (1050 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 475108N | 0191203E |
 
-| 473500N | 0185300E |
+| 474907N | 0191518E |
 
-| 473220N | 0185858E |
+| 473849N | 0193152E |
 
-| 473002N | 0185812E |
+| 473935N | 0194216E |
 
-| 472931N | 0185846E |
+| 475312N | 0192011E |
 
-| 472910N | 0190047E |
+| 5. | LHSG103/V | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 472525N | 0185940E |
+| 475644N | 0193408E |
 
-| 472519N | 0185531E |
+| 475312N | 0192011E |
 
-| 472636N | 0185717E |
+| 473935N | 0194216E |
 
-| 473328N | 0184606E |
+| 474052N | 0195940E |
 
-| 473500N | 0185300E |
+| 474906N | 0194628E |
 
-| 5. | LHSG3 | 4500’ (1350 m) AMSL/GND Koordinált légtér: 6500’ (2000 m) AMSL/4500’ (1350 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 475644N | 0193408E |
 
-| 473328N | 0184606E |
+| 6. | LHSG110 | 5500’ (1700 m) AMSL / GND Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 472636N | 0185717E |
-
-| 472519N | 0185531E |
-
-| 472516N | 0185346E |
-
-| 473233N | 0184156E |
-
-| 473328N | 0184606E |
-
-| 6. | LHSG10 | 4500’ (1350 m) AMSL/GND Koordinált légtér: 6500’ (2000 m) AMSL/4500’ (1350 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
-
-| 474527N | 0183705E |
-
-| 473722N | 0184005E |
-
-| 474723N | 0185152E |
-
-| 474750N | 0184351E |
+| 474923N | 0185107E |
 
 | Országhatár |
 
-| 474527N | 0183705E |
+| 474541N | 0183928E |
 
-| 7. | LHSG20 | 2000’ (600 m) AMSL/GND Koordinált légtér: 3000’ (900 m) AMSL/2000’ (600 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 473653N | 0183928E |
 
-| 473900N | 0190300E |
+| 474919N | 0185613E |
 
-| 473800N | 0192100E |
+| 474923N | 0185107E |
 
-| 473600N | 0191030E |
+| 7. | LHSG111 | Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 473700N | 0190400E |
+| 474541N | 0183928E |
 
-| 473900N | 0190300E |
+| Országhatár |
 
-| 8. | LHSG20A | Koordinált légtér: 4000’ (1200 m) AMSL/2000’ (600 m) AMSL | Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 474548N | 0182806E |
 
-| 2 km sugarú kör a 473704N 0190836E középpont körül |
+| 472827N | 0182806E |
 
-| 9. | LHSG21 | 2500’ (750 m) AMSL/GND Koordinált légtér: 5000’ (1500 m) AMSL/2500’ (750 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 472956N | 0183216E |
 
-| 474100N | 0190430E |
+| 473231N | 0183928E |
 
-| 473948N | 0194515E |
+| 474541N | 0183928E |
 
-| 473800N | 0192100E |
+| 8. | LHSG112 | Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 473900N | 0190300E |
+| 480328N | 0190338E |
 
-| 474100N | 0190430E |
+| Országhatár |
 
-| 10. | LHSG22 | 3000’ (900 m) AMSL/GND Koordinált légtér: 6500’ (2000 m) AMSL/3000’ (900 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 474923N | 0185107E |
 
-| 474636N | 0190905E |
+| 474919N | 0185613E |
 
-| 474503N | 0194053E |
+| 474914N | 0190432E |
 
-| 473948N | 0194515E |
+| 475108N | 0191203E |
 
-| 474100N | 0190430E |
+| 475312N | 0192011E |
 
-| 474636N | 0190905E |
+| 480328N | 0190338E |
 
-| 11. | LHSG23 | 6500’ (2000 m) AMSL/GND Koordinált légtér: 7500’ (2300 m) AMSL/6500’ (2000 m) AMSL | (ICAO „G” a koordinált légtér kivételével) Csak VFR repülések számára. Koordinált légtér: Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 9. | LHSG113/V | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 475547N | 0193148E |
+| 474548N | 0182806E |
 
-| 474503N | 0194053E |
+| Országhatár |
 
-| 474636N | 0190905E |
+| 474419N | 0181530E |
 
-| 475547N | 0193148E |
+| 472900N | 0181531E |
 
-| 12. | LHSG24 (Hullám légtér) | Koordinált légtér: FL285 (8700 m STD)/GND | Koordinált légtér: Hullámrepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 472421N | 0181642E |
 
-| 474946N | 0185738E |
+| 472827N | 0182806E |
 
-| 474340N | 0191445E |
+| 474548N | 0182806E |
 
-| 473900N | 0190300E |
+| 10. | LHSG114 | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 474946N | 0185738E |
+| 480519N | 0192017E |
 
-| 13. | LHSG25 (Hullám légtér) | Koordinált légtér: FL285 (8700 m STD)/GND | Koordinált légtér: Hullámrepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+| 480328N | 0190338E |
+
+| 475312N | 0192011E |
+
+| 475644N | 0193408E |
+
+| 480519N | 0192017e |
+
+| 11. | LHSG120 | Koordinált: 4500’ (1350 m) AMSL / 3500’ (1050 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 473355N | 0185502E |
+
+| 473231N | 0185309E |
+
+| 473127N | 0184818E |
+
+| 472714N | 0185510E |
+
+| 472846N | 0185840E |
+
+| 472811N | 0190029E |
+
+| 472933N | 0190054E |
+
+| 473057N | 0185951E |
+
+| 473355N | 0185502E |
+
+| 12. | LHSG121 | Koordinált: 5500’ (1700 m) AMSL / 3500’ (1050 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 473127N | 0184818E |
+
+| 473018N | 0184305E |
+
+| 472232N | 0185543E |
+
+| 472455N | 0185859E |
+
+| 472714N | 0185510E |
+
+| 473127N | 0184818E |
+
+| 13. | LHSG122 | Koordinált: 6500’ (2000 m) AMSL / 3500’ (1050 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 473231N | 0183928E |
+
+| 472956N | 0183216E |
+
+| 472531N | 0183928E |
+
+| 472409N | 0184140E |
+
+| 472115N | 0184623E |
+
+| 471844N | 0185029E |
+
+| 472232N | 0185543E |
+
+| 473018N | 0184305E |
+
+| 473231N | 0183928E |
+
+| 14. | LHSG123/V | Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 472956N | 0183216E |
+
+| 472827N | 0182806E |
+
+| 471515N | 0184935E |
+
+| 471844N | 0185029E |
+
+| 472115N | 0184623E |
+
+| 472409N | 0184140E |
+
+| 472531N | 0183928E |
+
+| 472956N | 0183216E |
+
+| 15. | LHSG124/V | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 472827N | 0182806E |
+
+| 472421N | 0181642E |
+
+| 472232N | 0181709E |
+
+| 472011N | 0181744E |
+
+| 470324N | 0184445E |
+
+| 465726N | 0185421E |
+
+| 471515N | 0184935E |
+
+| 472827N | 0182806E |
+
+| 16. | LHSG130 | Koordinált: FL285 (8700 m STD) / 3500’ (1050 m) AMSL | Koordinált légtér: Hullámrepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 475036N | 0191153E |
+
+| 474544N | 0185939E |
+
+| 473827N | 0190316E |
+
+| 474306N | 0191459E |
+
+| 475036N | 0191153E |
+
+| 17. | LHSG131 | Koordinált: FL285 (8700 m STD) / 3500’ (1050 m) AMSL | Koordinált légtér Hullámrepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
 | 480000N | 0190800E |
-
-| 474340N | 0191445E |
-
-| 474946N | 0185738E |
 
 | 475300N | 0185600E |
 
+| 474544N | 0185939E |
+
+| 475036N | 0191153E |
+
 | 480000N | 0190800E |
 
-| 14. | LHSG30 (Hullám légtér) | FL285 (8700 m STD)/GND | (ICAO „G”) Szeptember 15. és május 15. között napkeltétől napnyugtáig, csak VFR repülések számára. Hullámrepülés céljára. Budapest ATS Központ engedélyével vehető igénybe. |
+| 18. | LHSG132 | Koordinált: FL285 (8700 m STD) / 3500’ (1050 m) AMSL | Koordinált légtér Hullámrepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 475730N | 0194200E |
+| 474306N | 0191459E |
 
-| 475700N | 0200120E |
+| 473827N | 0190316E |
 
-| 475000N | 0200700E |
+| 473646N | 0190740E |
 
-| 474430N | 0194600E |
+| 474306N | 0191459E |
 
-| 474930N | 0193830E |
+| 19. | LHSG102/S | Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban siklórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
-| 475730N | 0194200E |
+| 475312N | 0192011E |
+
+| 475108N | 0191203E |
+
+| 474907N | 0191518E |
+
+| 473849N | 0193152E |
+
+| 473935N | 0194216E |
+
+| 475312N | 0192011E |
+
+| 20. | LHSG103/S | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban siklórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 475644N | 0193408E |
+
+| 475312N | 0192011E |
+
+| 473935N | 0194216E |
+
+| 474052N | 0195940E |
+
+| 474906N | 0194628E |
+
+| 475644N | 0193408E |
+
+| 21. | LHSG113/S | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban siklórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 474548N | 0182806E |
+
+| Országhatár |
+
+| 474419N | 0181530E |
+
+| 472900N | 0181531E |
+
+| 472421N | 0181642E |
+
+| 472827N | 0182806E |
+
+| 474548N | 0182806E |
+
+| 22. | LHSG123/S | Koordinált: 6500’ (2000 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban siklórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 472956N | 0183216E |
+
+| 472827N | 0182806E |
+
+| 471515N | 0184935E |
+
+| 471844N | 0185029E |
+
+| 472115N | 0184623E |
+
+| 472409N | 0184140E |
+
+| 472531N | 0183928E |
+
+| 472956N | 0183216E |
+
+| 23. | LHSG124/S | Koordinált: 7500’ (2300 m) AMSL / 5500’ (1700 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban siklórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
+
+| 472827N | 0182806E |
+
+| 472421N | 0181642E |
+
+| 472232N | 0181709E |
+
+| 472011N | 0181744E |
+
+| 470324N | 0184445E |
+
+| 465726N | 0185421E |
+
+| 471515N | 0184935E |
+
+| 472827N | 0182806E |
 
 | 4. Drop Zone légterek |
 
@@ -1052,11 +1468,11 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 11,11 km (6 NM) sugarú kör a 465119N 0180551E középpont körül |
 
-| 3. | LHSDZLHDV/Dunaújváros | FL135 (4100 m STD)/GND |  |
+| 3. | LHSDZLHDV/Dunaújváros | FL135 (4100 m STD)/GND | Az LHSDZLHDV és LHTRA41 légterekben történő egyidejű működés nem engedélyezett. |
 
 | 5 km (2,7 NM) sugarú kör a 465318N 0185438E középpont körül |
 
-| 4. | LHSDZLHTL/Tököl | FL145 (4400 m STD)/3500’ | Csak Tököl TIZ légtérrel együtt működhet. LHSDZLHGD/Gödöllő légtérrel egyidejűleg nem működhet. |
+| 4. | LHSDZLHTL/Tököl | FL145 (4400 m STD)/3500’ (1050 m) AMSL | Csak Tököl TIZ légtérrel együtt működhet. LHSDZLHGD/Gödöllő légtérrel egyidejűleg nem működhet. |
 
 | 3,15 km (1,7 NM) sugarú kör a 472037N 0185909E középpont körül |
 
@@ -1124,7 +1540,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 463356N | 0185419E |
 
-| 12. | LHSDZLHBC/Békéscsaba | FL155 (4700 m STD)/4000’ (1200 m) | Csak Békéscsaba TIZ légtérrel együtt működhet. |
+| 12. | LHSDZLHBC/Békéscsaba | FL155 (4700 m STD)/4000’ (1200 m) AMSL | Csak Békéscsaba TIZ légtérrel együtt működhet. |
 
 | 7 km (3,8 NM) sugarú kör a 464036N 0210938E középpont körül |
 
@@ -1166,522 +1582,190 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 18. | LHSDZLHBK/Balatonkeresztúr 3 km (1,6 NM) sugarú kör 464144 0172340 középpont körül | FL145 (4400 m STD)/GND |  |
 
-| 19. | LHSDZLHGR/Gyúró 4 km sugarú kör 472339N 0184518E középpont körül | 6500’ (2000 m) AMSL/GND |  |
+| 19. | LHSDZLHGR1/Gyúró1 | 5500’ (1700 m) AMSL / GND | Csak LHSDZLHGR2/Gyúró2 légtérrel együtt működhet |
 
-| 20. | LHSDZLHOY/Őcsény 2NM sugarú kör a 461843N 184549E középpont körül | FL145 (4400m STD)/GND |  |
+| 472642N | 0184505E |
+
+| 472409N | 0184140E |
+
+| 472115N | 0184623E |
+
+| 472347N | 0184948E |
+
+| 472642N | 0184505E |
+
+| 20. | LHSDZLHGR2/Gyúró2 | 6500’ (2000 m) AMSL / GND | Csak LHSDZLHGR1/Gyúró1 légtérrel együtt működhet |
+
+| 472409N | 0184140E |
+
+| 472304N | 0184012E |
+
+| 472009N | 0184455E |
+
+| 472115N | 0184623E |
+
+| 472409N | 0184140E |
+
+| 21. | LHSDZLHOY/Őcsény | FL145 (4400 m STD) / GND |  |
+
+| 2 NM sugarú kör a 461843N 0184549E középpont körül |
+
+5. RMZ-k és TMZ-k
+
+|  | A | B | C |
+
+| 1. | Légtér azonosítója/Oldalhatárai | Felső/alsó határa | Megjegyzés |
+
+| 2. | Debrecen RMZ1 | 2000’ (600 m) AMSL / GND | ICAO „G” H24-ben (kiterjedése megegyezik Debrecent TIZ1 légtérrel) Az AIP-ben közzétett AFIS frekvencia használandó |
+
+| 473908N | 0214744E |
+
+| 473338N | 0215503E |
+
+| 471843N | 0213038E |
+
+| 472433N | 0212252E |
+
+| 473908N | 0214744E |
+
+| 3. | Debrecen RMZ2 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | ICAO „G” H24-ben (kiterjedése megegyezik Debrecent TIZ2 légtérrel) Az AIP-ben közzétett AFIS frekvencia használandó |
+
+| 474127N | 0215009E |
+
+| 473102N | 0220059E |
+
+| 471020N | 0214329E |
+
+| 471154N | 0212611E |
+
+| 472402N | 0211743E |
+
+| 473243N | 0213243E |
+
+| 474127N | 0215009E |
+
+| 4. | Debrecen RMZ3 | 9500’ (2900 m) AMSL / 5000’ (1500 m) AMSL | ICAO „G” H24-ben (kiterjedése megegyezik Debrecent TIZ3 légtérrel) Az AIP-ben közzétett AFIS frekvencia használandó |
+
+| 474718N | 0213722E |
+
+| 474127N | 0215009E |
+
+| 473243N | 0213243E |
+
+| 474559N | 0213339E |
+
+| 474718N | 0213722E |
+
+| 5. | Debrecen TMZ1 | 2000’ (600 m) AMSL / GND | ICAO „G” H24-ben (kiterjedése megegyezik Debrecen TIZ1 légtérrel) |
+
+| 473908N | 0214744E |
+
+| 473338N | 0215503E |
+
+| 471843N | 0213038E |
+
+| 472433N | 0212252E |
+
+| 473908N | 0214744E |
+
+| 6. | Debrecen TMZ2 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | ICAO „G” H24-ben (kiterjedése megegyezik Debrecen TIZ2 légtérrel) |
+
+| 474127N | 0215009E |
+
+| 473102N | 0220059E |
+
+| 471020N | 0214329E |
+
+| 471154N | 0212611E |
+
+| 472402N | 0211743E |
+
+| 473243N | 0213243E |
+
+| 474127N | 0215009E |
+
+| 7. | Debrecen TMZ3 | 9500’ (2900 m) AMSL / 5000’ (1500 m) AMSL | ICAO „G” H24-ben (kiterjedése megegyezik Debrecen TIZ3 légtérrel) |
+
+| 474718N | 0213722E |
+
+| 474127N | 0215009E |
+
+| 473243N | 0213243E |
+
+| 474559N | 0213339E |
+
+| 474718N | 0213722E |
+
+| 8. | Sármellék RMZ1 | 2000’ (600 m) AMSL / GND | ICAO „G” H24-ben (kiterjedése megegyezik Sármellék TIZ1 légtérrel) Az AIP-ben közzétett AFIS frekvencia használandó. |
+
+| 465232N | 0170443E |
+
+| 465233N | 0171252E |
+
+| 464035N | 0171331E |
+
+| 463224N | 0171903E |
+
+| 462847N | 0171750E |
+
+| 462659N | 0170752E |
+
+| 463919N | 0170630E |
+
+| 465010N | 0165907E |
+
+| 465232N | 0170443E |
+
+| 9. | Sármellék RMZ2 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | ICAO „G” H24-ben (kiterjedése megegyezik Sármellék TIZ2 légtérrel) Az AIP-ben közzétett AFIS frekvencia használandó. |
+
+| 465211N | 0164912E |
+
+| 465233N | 0171252E |
+
+| 463423N | 0171944E |
+
+| 462847N | 0171750E |
+
+| 462539N | 0170031E |
+
+| 465211N | 0164912E |
+
+| 10. | Sármellék TMZ1 | 2000’ (600 m) AMSL / GND | ICAO „G” H24-ben (kiterjedése megegyezik Sármellék TIZ1 légtérrel) |
+
+| 465232N | 0170443E |
+
+| 465233N | 0171252E |
+
+| 464035N | 0171331E |
+
+| 463224N | 0171903E |
+
+| 462847N | 0171750E |
+
+| 462659N | 0170752E |
+
+| 463919N | 0170630E |
+
+| 465010N | 0165907E |
+
+| 465232N | 0170443E |
+
+| 11. | Sármellék TMZ2 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | ICAO „G” H24-ben (kiterjedése megegyezik Sármellék TIZ2 légtérrel) |
+
+| 465211N | 0164912E |
+
+| 465233N | 0171252E |
+
+| 463423N | 0171944E |
+
+| 462847N | 0171750E |
+
+| 462539N | 0170031E |
+
+| 465211N | 0164912E |
 
 IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-|  | A | B | C | D |
-
-| 1. | Légtér azonosítója | Neve / oldalhatárai | Felső / alsó határa | Megjegyzés |
-
-| 2. | LHTRA11A | PAPA ALPHA | FL125 (3800 m STD) / GND |  |
-
-| 472959N | 0175015E |
-
-| 472959N | 0181529E |
-
-| 471331N | 0181507E |
-
-| 471259N | 0175900E |
-
-| 472959N | 0175015E |
-
-| 3. | LHTRA11B | PAPA BRAVO | 9500’ (2900 m) AMSL / 4000’ (1200 m) AMSL |  |
-
-| 471259N | 0175900E |
-
-| 471331N | 0181507E |
-
-| 470212N | 0181457E |
-
-| 465529N | 0175135E |
-
-| 470646N | 0174335E |
-
-| 471259N | 0175900E |
-
-| 4. | LHTRA11C | PAPA CHARLIE | 4000’ (1200 m) AMSL / GND |  |
-
-| 471259N | 0175900E |
-
-| 471331N | 0181507E |
-
-| 470212N | 0181457E |
-
-| 465529N | 0175135E |
-
-| 470646N | 0174335E |
-
-| 471259N | 0175900E |
-
-| 5. | LHTRA12 | KUNSAG | FL115 (3500 m STD) / GND |  |
-
-| 465945N | 0190242E |
-
-| 470403N | 0191630E |
-
-| 464938N | 0192954E |
-
-| 463959N | 0192954E |
-
-| 463957N | 0192213E |
-
-| 465945N | 0190242E |
-
-| 6. | LHTRA13 | TISZA | FL145 (4400 m STD) / 9500’ (2900 m) AMSL |  |
-
-| 472212N | 0200910E |
-
-| 472038N | 0201743E |
-
-| 471829N | 0202929E |
-
-| 471045N | 0202532E |
-
-| 470008N | 0202008E |
-
-| 465401N | 0201703E |
-
-| 465559N | 0200729E |
-
-| 470241N | 0200428E |
-
-| 471203N | 0195953E |
-
-| 472212N | 0200910E |
-
-| 7. | LHTRA14A | MEZO ALPHA | 4500’ (1350 m) AMSL / GND |  |
-
-| 471829N | 0202929E |
-
-| 471245N | 0204529E |
-
-| 470610N | 0204314E |
-
-| 471045N | 0202532E |
-
-| 471829N | 0202929E |
-
-| 8. | LHTRA14B | MEZO BRAVO | 4500’ (1350 m) AMSL / GND |  |
-
-| 471045N | 0202532E |
-
-| 470610N | 0204314E |
-
-| 465613N | 0203951E |
-
-| 470008N | 0202008E |
-
-| 471045N | 0202532E |
-
-| 9. | LHTRA14C | MEZO CHARLIE | 4500’ (1350 m) AMSL / GND |  |
-
-| 470008N | 0202008E |
-
-| 465613N | 0203951E |
-
-| 464943N | 0203740E |
-
-| 465401N | 0201703E |
-
-| 470008N | 0202008E |
-
-| 10. | LHTRA15A | SZARVAS ALPHA | 9500’ (2900 m) AMSL / 4500’ (1350 m) AMSL |  |
-
-| 471829N | 0202929E |
-
-| 471245N | 0204529E |
-
-| 470610N | 0204314E |
-
-| 471045N | 0202532E |
-
-| 471829N | 0202929E |
-
-| 11. | LHTRA15B | SZARVAS BRAVO | 9500’ (2900 m) AMSL / 4500’ (1350 m) AMSL |  |
-
-| 471045N | 0202532E |
-
-| 470610N | 0204314E |
-
-| 465613N | 0203951E |
-
-| 470008N | 0202008E |
-
-| 471045N | 0202532E |
-
-| 12. | LHTRA15C | SZARVAS CHARLIE | 9500’ (2900 m) AMSL / 4500’ (1350 m) AMSL |  |
-
-| 470008N | 0202008E |
-
-| 465613N | 0203951E |
-
-| 464943N | 0203740E |
-
-| 465401N | 0201703E |
-
-| 470008N | 0202008E |
-
-| 13. | LHTRA16 | ARPAD | FL115 (3500 m STD) / GND |  |
-
-| 464943N | 0203740E |
-
-| 464505N | 0205357E |
-
-| 462940N | 0204358E |
-
-| 463203N | 0202335E |
-
-| 464943N | 0203740E |
-
-| 14. | LHTRA21A | WEST ALPHA | FL245 (7450 m STD) / 9500’ (2900 m) AMSL |  |
-
-| 465105N | 0162126E |
-
-| 463352N | 0180006E |
-
-| 460854N | 0180425E |
-
-| 460445N | 0172645E |
-
-| 462256N | 0170114E |
-
-| 462930N | 0163702E |
-
-| 464101N | 0162522E |
-
-| 465105N | 0162126E |
-
-| 15. | LHTRA21B | WEST BRAVO | FL215 (6550 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA21A és LHTRA21C légterekkel együtt vehető igénybe. |
-
-| 465105N | 0162126E |
-
-| 464502N | 0175809E |
-
-| 463352N | 0180006E |
-
-| 465105N | 0162126E |
-
-| 16. | LHTRA21C | WEST CHARLIE | FL175 (5350 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA21A és LHTRA21B légterekkel együtt vehető igénybe. |
-
-| 464502N | 0175809E |
-
-| 463726N | 0181335E |
-
-| 455737N | 0182351E |
-
-| 455529N | 0175254E |
-
-| 460445N | 0172645E |
-
-| 460854N | 0180425E |
-
-| 464502N | 0175809E |
-
-| 17. | LHTRA21D | WEST DELTA | 9500’ (2900 m) AMSL/ 4000’ (1200 m) AMSL |  |
-
-| 462658N | 0172525E |
-
-| 461447N | 0175841E |
-
-| 455529N | 0175254E |
-
-| 460445N | 0172645E |
-
-| 462256N | 0170114E |
-
-| 462658N | 0172525E |
-
-| 18. | LHTRA21E | WEST ECHO | 4000’ (1200 m) AMSL / GND |  |
-
-| 462658N | 0172525E |
-
-| 461447N | 0175841E |
-
-| 455529N | 0175254E |
-
-| 460445N | 0172645E |
-
-| 462256N | 0170114E |
-
-| 462658N | 0172525E |
-
-| 19. | LHTRA22A | SOUTH ALPHA | FL175 (5350 m STD) / FL125 (3800 m STD) |  |
-
-| 470342N | 0192349E |
-
-| 470241N | 0200428E |
-
-| 465559N | 0200729E |
-
-| 464943N | 0203740E |
-
-| 463203N | 0202335E |
-
-| 463728N | 0194717E |
-
-| 470342N | 0192349E |
-
-| 20. | LHTRA22B | SOUTH BRAVO | FL175 (5350 m STD) / 9500’ (2900 m) AMSL |  |
-
-| 464943N | 0203740E |
-
-| 463943N | 0211234E |
-
-| 462319N | 0210540E |
-
-| 462140N | 0205519E |
-
-| 462648N | 0195641E |
-
-| 463728N | 0194717E |
-
-| 463203N | 0202335E |
-
-| 464943N | 0203740E |
-
-| 21. | LHTRA22C | SOUTH CHARLIE | FL245 (7450 m STD) / FL175 (5350 m STD) | Az LHBP érkező forgalmának védelme érdekében a légtér igénybevételének különleges eljárásait a polgári és a katonai fél együttműködési eljárásban rögzíti. |
-
-| 470342N | 0192349E |
-
-| 470241N | 0200428E |
-
-| 465559N | 0200729E |
-
-| 464943N | 0203740E |
-
-| 463943N | 0211234E |
-
-| 462319N | 0210540E |
-
-| 462140N | 0205519E |
-
-| 462648N | 0195641E |
-
-| 470342N | 0192349E |
-
-| 22. | LHTRA22D | SOUTH DELTA | FL145 (4400 m STD) / 9500’ (2900 m) AMSL |  |
-
-| 465945N | 0190242E |
-
-| 462143N | 0193952E |
-
-| 461429N | 0190859E |
-
-| 463056N | 0184947E |
-
-| 463337N | 0185631E |
-
-| 463909N | 0185202E |
-
-| 463600N | 0184405E |
-
-| 464851N | 0182835E |
-
-| 465945N | 0190242E |
-
-| 23. | LHTRA22E | SOUTH ECHO | FL125 (3800 m STD) / 9500’ (2900 m) AMSL |  |
-
-| 463957N | 0192213E |
-
-| 463959N | 0192954E |
-
-| 463728N | 0194717E |
-
-| 462648N | 0195641E |
-
-| 462143N | 0193952E |
-
-| 463957N | 0192213E |
-
-| 24. | LHTRA22F | SOUTH FOXTROT | 9500’ (2900 m) AMSL / 4000’ (1200 m) AMSL |  |
-
-| 465046N | 0191134E |
-
-| 462143N | 0193952E |
-
-| 461512N | 0191156E |
-
-| 464352N | 0184811E |
-
-| 465046N | 0191134E |
-
-| 25. | LHTRA23A | EAST ALPHA | FL245 (7450 m STD) / 9500’ (2900 m) AMSL |  |
-
-| 481115N | 0202525E |
-
-| 474559N | 0213339E |
-
-| 472201N | 0214313E |
-
-| 471210N | 0213301E |
-
-| 470506N | 0212808E |
-
-| 472943N | 0201605E |
-
-| 475800N | 0195615E |
-
-| 481115N | 0202525E |
-
-| 26. | LHTRA23B | EAST BRAVO | FL175 (5350 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA23A és LHTRA23C légterekkel együtt vehető igénybe. |
-
-| 472201N | 0214313E |
-
-| 471125N | 0214729E |
-
-| 470219N | 0213649E |
-
-| 465152N | 0213027E |
-
-| 471548N | 0203054E |
-
-| 472943N | 0201605E |
-
-| 470506N | 0212808E |
-
-| 471210N | 0213301E |
-
-| 472201N | 0214313E |
-
-| 27. | LHTRA23C | EAST CHARLIE | FL175 (5350 m STD) / FL135 (4100 m STD) | Kizárólag az LHTRA23A és LHTRA23B légterekkel együtt vehető igénybe. |
-
-| 475800N | 0195615E |
-
-| 480710N | 0195452E |
-
-| 481757N | 0202718E |
-
-| 475845N | 0212810E |
-
-| 474559N | 0213339E |
-
-| 481115N | 0202525E |
-
-| 475800N | 0195615E |
-
-| 28. | LHTRA23D | EAST DELTA | 9500’ (2900 m) AMSL / 4000’ (1200 m) AMSL |  |
-
-| 481115N | 0202525E |
-
-| 475018N | 0212203E |
-
-| 472252N | 0210213E |
-
-| 474125N | 0200756E |
-
-| 475800N | 0195615E |
-
-| 481115N | 0202525E |
-
-| 29. | LHTRA23E | EAST ECHO | 4000’ (1200 m) AMSL / GND |  |
-
-| 481115N | 0202525E |
-
-| 475018N | 0212203E |
-
-| 472252N | 0210213E |
-
-| 474125N | 0200756E |
-
-| 475800N | 0195615E |
-
-| 481115N | 0202525E |
-
-| 30. | LHTRA31A | UPPER WEST ALPHA | FL285 (8700 m STD) / FL245 (7450 m STD) |  |
-
-| 463352N | 0180006E |
-
-| 462829N | 0184129E |
-
-| 461000N | 0190529E |
-
-| 460259N | 0184005E |
-
-| 455737N | 0182351E |
-
-| 455529N | 0175254E |
-
-| 460445N | 0172645E |
-
-| 463352N | 0180006E |
-
-| 31. | LHTRA31B | UPPER WEST BRAVO | FL285 (8700 m STD) / FL245 (7450 m STD) |  |
-
-| 464210N | 0164659E |
-
-| 463352N | 0180006E |
-
-| 460445N | 0172645E |
-
-| 463605N | 0164210E |
-
-| 464210N | 0164659E |
-
-| 32. | LHTRA32A | UPPER EAST ALPHA | FL305 (9300 m STD) / FL245 (7450 m STD) | 1. Az LHTRA32A és LHTRA33A légterekben történő egyidejű működés nem engedélyezett. 2. Légi utántöltés céljára FL245 (7450 m STD) és FL285 (8700 m STD) között vehető igénybe. |
-
-| 475756N | 0210710E |
-
-| 471911N | 0214017E |
-
-| 471210N | 0213301E |
-
-| 465050N | 0211821E |
-
-| 471548N | 0203051E |
-
-| 472943N | 0201605E |
-
-| 474125N | 0200756E |
-
-| 475756N | 0210710E |
-
-| 33. | LHTRA32B | UPPER EAST BRAVO | FL305 (9300 m STD) / FL245 (7450 m STD) | 1. Az LHTRA32B és LHTRA33B légterekben történő egyidejű működés nem engedélyezett. 2. Légi utántöltés céljára FL245 (7450 m STD) és FL285 (8700 m STD) között vehető igénybe. |
-
-| 480810N | 0214510E |
-
-| 475243N | 0221532E |
-
-| 471911N | 0214017E |
-
-| 475756N | 0210710E |
-
-| 480810N | 0214510E |
-
-| 34. | LHTRA33A | TOP EAST ALPHA | FL420 (12800 m STD) / FL365 (11100 m STD) | Az LHTRA32A és LHTRA33A légterekben történő egyidejű működés nem engedélyezett. |
-
-| 475756N | 0210710E |
-
-| 471911N | 0214017E |
-
-| 471210N | 0213301E |
-
-| 465050N | 0211821E |
-
-| 471548N | 0203051E |
-
-| 472943N | 0201605E |
-
-| 474125N | 0200756E |
-
-| 475756N | 0210710E |
-
-| 35. | LHTRA33B | TOP EAST BRAVO | FL420 (12800 m STD) / FL365 (11100 m STD) | Az LHTRA32B és LHTRA33B légterekben történő egyidejű működés nem engedélyezett. |
-
-| 480810N | 0214510E |
-
-| 475243N | 0221532E |
-
-| 471911N | 0214017E |
-
-| 475756N | 0210710E |
-
-| 480810N | 0214510E |
-
-|  | 2. További szabályok: 2.1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2.2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 2.3. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C légterek a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzetei. |
-
-[^78]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a szerint módosított szöveg.
+[^90]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja szerint módosított szöveg.
