@@ -1,6 +1,6 @@
-36. § (1)[^34] Ez a rendelet
+36. § (1)[^36] Ez a rendelet
 
-a)[^35] az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet,
+a)[^37] az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet,
 
 b) a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 27-i 329/2007/EK tanácsi rendelet,
 
@@ -34,15 +34,15 @@ e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 f) a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2016. május 27-i 2016/970/EU és 2017. március 7-i 2017/433/EU bizottsági irányelveknek
 
-g)[^36] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2017. november 8-i (EU) 2017/2054 bizottsági irányelvnek
+g)[^38] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2017. november 8-i (EU) 2017/2054 bizottsági irányelvnek
 
-h)[^37] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2019. március 14-i (EU) 2019/514 számú bizottsági irányelvnek
+h)[^39] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2019. március 14-i (EU) 2019/514 számú bizottsági irányelvnek
 
 ## való megfelelést szolgálja.
 
 (3) A rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti bejelentése megtörtént.
 
-[^34]: A 36. § (1) bekezdés záró szövegrésze a 165/2019. (VII. 8.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
-[^35]: A 36. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^36]: A 36. § (2) bekezdés g) pontját a 78/2018. (IV. 20.) Korm. rendelet 4. §-a iktatta be.
-[^37]: A 36. § (2) bekezdés h) pontja a 165/2019. (VII. 8.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^36]: A 36. § (1) bekezdés záró szövegrésze a 165/2019. (VII. 8.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^37]: A 36. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^38]: A 36. § (2) bekezdés g) pontját a 78/2018. (IV. 20.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A 36. § (2) bekezdés h) pontja a 165/2019. (VII. 8.) Korm. rendelet 9. § (2) bekezdése iktatta be.

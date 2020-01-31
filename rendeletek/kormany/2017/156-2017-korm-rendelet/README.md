@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-156-20-
 | 2019-07-09 | 2017-156-20-22.7 | 165/2019. (VII. 8.) Korm. rendelet |
 | 2019-12-21 | 2017-156-20-22.8 | 165/2019. (VII. 8.) Korm. rendelet |
 | 2020-01-01 | 2017-156-20-22.9 | 165/2019. (VII. 8.) Korm. rendelet |
+| 2020-01-31 | 2017-156-20-22.10 | 165/2019. (VII. 8.) Korm. rendelet |
