@@ -1,0 +1,71 @@
+# A Kormány 1016/2020. (I. 31.) Korm. határozata
+
+Magyar Közlöny 2020. évi 17. szám, 2020. január 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/W9ZA7MosmQMgeAwEaOe15e31ff6382afa/dokumentumok/3288b6548a740b9c8daf918a399a0bed1985db0f/letoltes)
+
+---
+
+A Kormány 1016/2020. (I. 31.) Korm. határozata
+az ELI Európai Kutatási Infrastruktúra Konzorcium (ELI ERIC) megalakításához szükséges kormányzati
+intézkedésekről
+A Kormány
+1. felhatalmazza az ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság felett tulajdonosi
+jogokat gyakorló innovációért és technológiáért felelős minisztert, hogy az 1. mellékletben foglalt nyilatkozat
+megtételével gondoskodjon az Extreme Light Infrastructure European Research Infrastructure Consortium
+(a továbbiakban: ELI ERIC) mint nemzetközi szervezet elismeréséről, annak kinyilvánítása érdekében, hogy
+Magyarország – a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv,
+a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről
+szóló, 2008. december 16-i 2008/118/EK tanácsi irányelv, valamint az építési beruházásra, az árubeszerzésre
+és a szolgáltatásnyújtásra irányuló közbeszerzési szerződések odaítélési eljárásainak összehangolásáról szóló,
+2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelvben foglaltaknak megfelelően – az ELI ERIC
+státuszához kapcsolódó általános forgalmi adó és jövedéki adó mentességét, valamint az európai kutatási
+infrastruktúra konzorcium (a továbbiakban: ERIC) mint nemzetközi szervezet közbeszerzési törvény alóli
+mentességét, saját beszerzési szabályozás elfogadását biztosítja az ELI ERIC létrejöttét követően;
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: azonnal
+2. felhatalmazza az innovációért és technológiáért felelős minisztert, hogy az ELI ERIC megalakításához szükséges
+egyetértő nyilatkozatot az Európai Bizottság részére megtegye;
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: azonnal
+3. az európai kutatási infrastruktúra konzorcium (ERIC) közösségi jogi keretéről szóló, 2009. június 25-i 723/2009
+(EK) tanácsi rendelet 9. cikk 4. pontjában foglaltaknak megfelelően kijelöli az innovációért és technológiáért felelős
+minisztert a Magyar Állam képviseletére az ELI ERIC szervezetben, egyben felhatalmazza a képviselettel kapcsolatos
+jogok gyakorlására, ideértve a szavazati jog gyakorlását is;
+
+4. felhívja az innovációért és technológiáért felelős minisztert, hogy az ELI ERIC tagdíjához, valamint
+az ELI-ALPS (ELI Attosecond Light Pulse Source) működtetéséhez szükséges 4 715 000 000 forintot a Magyarország
+2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XXXV. Nemzeti Kutatási, Fejlesztési és
+Innovációs Hivatal fejezet, 2. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti Laboratóriumok alcím terhére biztosítsa.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: a felmerülés ütemében
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1016/2020. (I. 31.) Korm. határozathoz
+NYILATKOZAT
+1. Magyarország, melyet az Innovációs és Technológiai Minisztérium képvisel, tekintettel az Extreme Light
+Infrastructure European Research Infrastructure Consortium (a továbbiakban: ELI ERIC) tagságra irányuló kérelmére,
+a következő nyilatkozatot teszi:
+(a) Magyarország törvényeinek és jogszabályainak értelmében az ELI ERIC jogi személyiséggel és hatáskörökkel
+rendelkezik az európai kutatási infrastruktúra konzorcium (ERIC) közösségi jogi keretéről szóló, 2009. június 25-i
+723/2009 (EK) tanácsi rendelet (a továbbiakban: ERIC Rendelet) 7. cikk (1) és (2) bekezdései alapján;
+(b) részvétele az ELI ERIC-ben az ERIC Rendelet 15. cikk alkalmazásában meghatározott szabályok alapján
+történik.
+2. Magyarország hozzájárul a következők szerinti ELI ERIC bánásmódhoz:
+(a) az ERIC Rendelet 5. cikk (1) bekezdés d) pontja szerint az ELI ERIC tagjai által meghatározott korlátok és
+feltételek mellett; továbbá
+(b) az ERIC Rendelet 7. cikk (3) bekezdése szerint.
+3. Ez a Nyilatkozat Magyarország számára kötelező érvényű egészen addig, amíg az ország az ELI ERIC fogadó országa
+és/vagy tagja marad.
+DECLARATION
+1. The state of Hungary, represented by Ministry for Innovation and Technology, in view of its application for hosting of
+The Extreme Light Infrastructure ERIC declares that:
+(a) The Extreme Light Infrastructure ERIC shall have legal personality and capacity under the laws and
+regulations of State of Hungary in accordance with Article 7(1) and (2) of Council Regulation (EC)
+No 723/2009 of 25 June 2009 (hereinafter referred to as the ERIC Regulation) on the Community Legal
+framework for a European Research Infrastructure Consortium (ERIC);
+(b) its participation in The Extreme Light Infrastructure ERIC shall be subject to rules determined in application of
+Article 15 of the ERIC Regulation.
+2. The state of Hungary shall accord to The Extreme Light Infrastructure ERIC treatment equivalent to that following:
+(a) Article 5(1)(d) of the ERIC Regulation subject to the limits and conditions laid down in an agreement between
+the members of The Extreme Light Infrastructure ERIC and
+(b) Article 7(3) of the ERIC Regulation.
+3. This Declaration shall bind Hungary as long as Hungary remains host of The Extreme Light Infrastructure ERIC.
