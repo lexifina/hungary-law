@@ -12,15 +12,17 @@
 
 ## Határidő: 2020. július 1.
 
-## 2. a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 11. § (2) bekezdésében kapott jogkörében elrendeli a Kvtv. 1. melléklet LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím 2 557 500 000 forinttal, valamint 4. Gyógyszertámogatás jogcímcsoport, 1. Gyógyszertámogatás kiadásai jogcím 798 250 000 forinttal történő megemelését, az 1. melléklet szerint.
+## 2.[^2] a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 11. § (2) bekezdésében kapott jogkörében elrendeli a Kvtv. 1. melléklet LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím 3 299 600 000 forinttal, valamint 4. Gyógyszertámogatás jogcímcsoport, 1. Gyógyszertámogatás kiadásai jogcím 1 463 400 000 forinttal történő megemelését, az 1. melléklet szerint.
 
 ## Felelős: pénzügyminiszter
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2020. július 1.
+## Határidő: 2020. február 1.
 
-1. melléklet az 1729/2019. (XII. 19.) Korm. határozathoz
+1. melléklet az 1729/2019. (XII. 19.) Korm. határozathoz[^3]
+
+0X00285_0
 
 | LXXII. Egészségbiztosítási Alap |
 
@@ -36,21 +38,21 @@
 
 |  | LXXII. |  |  |  |  |  | Egészségbiztosítási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 2 |  |  |  |  |  | Egészségbiztosítási ellátások kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 2 |  |  |  |  |  | Egészségbiztosítási ellátások kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  | 3 |  |  |  |  |  | Természetbeni ellátások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 3 |  |  |  |  |  | Természetbeni ellátások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  | 1 |  |  |  |  |  | Gyógyító-megelőző ellátás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 263901 |  |  |  |  | 18 |  |  |  |  |  | Összevont szakellátás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 2 557 500 000 |  |  |  |
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 3 299 600 000 |  |  |  |
 
 |  |  |  |  | 4 |  |  |  |  |  | Gyógyszertámogatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 212548 |  |  |  |  | 1 |  |  |  |  |  | Gyógyszertámogatás kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 798 250 000 |  |  |  |
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 1 463 400 000 |  |  |  |
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jogcím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
 
@@ -64,16 +66,19 @@
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
 
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |
 
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
+| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
 
-|  |  |  |  |  |  |  |  |  | időarányos |  |  |  |  |  |  |  |  |
+|  |  |  | időarányos |  |  |  |  |  |  |  |  |  |
 
-| Magyar Államkincstár | 1 példány |  |  | teljesítésarányos |  |  |  |  |  |  |  |
+| Magyar Államkincstár | 1 példány |  |  | teljesítésarányos |  |  | 4 763 000 000 | 4 763 000 000 |  |  |  |
 
-|  |  |  | egyéb: | azonnal |  |  | 3 355 750 000 |  |  | 3 355 750 000 |  |
+|  |  |  | egyéb: | azonnal |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A 2. pont az 1011/2020. (I. 31.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet az 1011/2020. (I. 31.) Korm. határozat 4. pontjával megállapított szöveg.
