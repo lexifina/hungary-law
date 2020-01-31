@@ -6,4 +6,4 @@
 
 (2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegében szereplő tisztség megnevezése a (2) bekezdés szerinti eskü tétele során: igazságügyi alkalmazott.
 
-(3) A törvényszéki végrehajtó, végrehajtó-helyettes és végrehajtójelölt, valamint a végrehajtási ügyintéző esküjének a szövegét külön jogszabály tartalmazza.
+(3) A végrehajtási ügyintéző esküjének a szövegét az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvény tartalmazza.
