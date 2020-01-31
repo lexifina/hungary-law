@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-21-30-6
 | 2016-07-04 | 2015-21-30-63.2 | 73/2016. (VII. 4.) ME határozat |
 | 2017-06-28 | 2015-21-30-63.3 | 69/2017. (VI. 28.) ME határozat |
 | 2018-07-02 | 2015-21-30-63.4 | 90/2018. (VII. 2.) ME határozat |
+| 2020-01-31 | 2015-21-30-63.5 | 10/2020. (I. 31.) ME határozat |

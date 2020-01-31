@@ -14,13 +14,7 @@ A 2014–2020 programozási időszakban az egyes európai uniós alapokból szá
 
 7.[^7]
 
-8.[^8] Kis Miklós Zsoltot, az Agrárminisztérium államtitkárát
-
-a) a Vidékfejlesztési Program monitoring bizottsága,
-
-b)[^9] a Magyar Halgazdálkodási Operatív Program monitoring bizottsága,
-
-c)[^10]
+8.[^8]
 
 elnökévé kinevezem.
 
@@ -31,6 +25,4 @@ elnökévé kinevezem.
 [^5]: Az 5. pont a 90/2018. (VII. 2.) ME határozat 3. pont b) alpontja szerint módosított szöveg.
 [^6]: A 6. pontot a 73/2016. (VII. 4.) ME határozat 2. pontja visszavonta.
 [^7]: A 7. pontot a 90/2018. (VII. 2.) ME határozat 5. pont a) alpontja visszavonta.
-[^8]: A 8. pont nyitó szövegrésze a 90/2018. (VII. 2.) ME határozat 3. pont c) alpontja szerint módosított szöveg.
-[^9]: A 8. pont b) alpontja a 90/2018. (VII. 2.) ME határozat 5. pont a) alpontja szerint módosított szöveg.
-[^10]: A 8. pont c) alpontját a 90/2018. (VII. 2.) ME határozat 5. pont a) alpontja visszavonta.
+[^8]: A 8. pontot a 10/2020. (I. 31.) ME határozat 2. pontja visszavonta.
