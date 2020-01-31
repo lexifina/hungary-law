@@ -1,7 +1,3 @@
-## lép.
+## 18. §[^5]
 
-## 19. § Hatályát veszti az R3.
-
-a) 65. § (2) bekezdése és
-
-b) 7. melléklete.
+[^5]: A 18. § a 2010: CXXX. törvény 12. § (2) és (3) bekezdése alapján hatályát vesztette.
