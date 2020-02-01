@@ -1,1 +1,3 @@
-27. §
+27. § A Vht. a következő 304/F. §-sal egészül ki:
+
+„304/F. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Módtv.10.) megállapított 31/E. § (5a) bekezdése szerinti, végrehajtási lap visszavonása vagy végrehajtási záradék törlése iránti kérelem előterjesztéséért fizetett díjat a 2020. február 1-je után előterjesztett kérelmek után kell megfizetni.”
