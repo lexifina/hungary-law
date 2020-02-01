@@ -10,7 +10,7 @@ a) az eljárási jogsegély kibocsátásával és teljesítésével kapcsolatban
 
 b) az ENYH kibocsátásával, valamint végrehajtásával kapcsolatban a legfőbb ügyész,
 
-c) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével és átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
+c) a pénzbírságot kiszabó jogerős szabálysértési határozat – ideértve a 27. § (1b) bekezdésében foglalt határozatokat is – átvételével és átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
 
 d) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a közúti közlekedési nyilvántartó szerv.
 
