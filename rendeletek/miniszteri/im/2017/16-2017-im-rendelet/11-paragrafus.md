@@ -8,8 +8,10 @@
 
 a) az ügyvédi kamarai nyilvántartás adatáról hatósági bizonyítvány kiadása,
 
-b) az ügyvédi tevékenységet gyakorló természetes személy nevében vagy más személyi adatában bekövetkezett változás nyilvántartásba vétele, valamint
+b)[^4] az ügyvédi tevékenységet gyakorló természetes személy nevében bekövezett változás kivételével, a más személyi adatában bekövetkezett változás nyilvántartásba vétele, valamint
 
-c) az irodagondnoki tevékenység folytatására való jogosultság bejegyzése
+c)[^5]
 
 [^3]: A 11. § (3) bekezdését a 10/2018. (VI. 11.) IM rendelet 3. § (1) bekezdése iktatta be.
+[^4]: A 11. § (3) bekezdés b) pontja a 30/2019. (XII. 20.) IM rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 11. § (3) bekezdés c) pontját a 30/2019. (XII. 20.) IM rendelet 15. § (2) bekezdése hatályon kívül helyezte.

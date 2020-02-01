@@ -1,11 +1,11 @@
-## 16. §[^4]
+## 16. §[^6]
 
 ## 17. § Hatályát veszti
 
-a)[^5]
+a)[^7]
 
-b)[^6]
+b)[^8]
 
-[^4]: A 16. §-t a 17. § a) pontja hatályon kívül helyezte.
-[^5]: A 17. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 16. §-t a 17. § a) pontja hatályon kívül helyezte.
+[^7]: A 17. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
