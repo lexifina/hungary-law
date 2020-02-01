@@ -8,6 +8,8 @@
 
 (1d) Az adatkezelő szerv a szerencsejáték szervezéséről szóló törvény szerinti szervező részére a természetes személy által a magánútlevele alapján megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségének és az úti okmány érvényességének tényéről adatszolgáltatást teljesít a természetes személy személyazonosságának igazoló ellenőrzése céljából.
 
+(1e) Az adatkezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás céljából a polgár útiokmány-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
+
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.
