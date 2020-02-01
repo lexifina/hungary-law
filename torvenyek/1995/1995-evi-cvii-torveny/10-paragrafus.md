@@ -1,10 +1,10 @@
 ## A bv. szervezet személyi állománya
 
-10. § (1) A bv. szervezet személyi állománya – a (2) és (2a) bekezdésben foglalt kivétellel – hivatásos büntetés-végrehajtási szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), továbbá külön jogszabályban meghatározott munkakörök esetén rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló személyekből állhat.
+10. § (1) A bv. szervezet személyi állománya hivatásos büntetés-végrehajtási szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), továbbá rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló személyekből állhat.
 
-(2) A gazdasági társaságoknál és a fogvatartottak foglalkoztatására létrehozott költségvetési szerveknél alkalmazottak hivatásos szolgálati jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban állhatnak.
+(2)
 
-(2a) A bv. szervezetben működtetett fegyveres biztonsági őrségnél alkalmazottak a rendvédelmi igazgatási szolgálati jogviszony mellett munkaviszonyban is állhatnak.
+(2a)
 
 (3) A rendvédelmi igazgatási szolgálati jogviszonyban álló, illetve munkaviszonyban álló személy csak olyan munkakört láthat el, amelyhez a hivatásos szolgálati jogviszony létesítésének sajátos feltételei nem szükségesek.
 
@@ -24,4 +24,4 @@ e) fogvatartotti foglalkoztatás biztosítása a bv. szervek területén belül 
 
 (5) Az (1)—(3) bekezdés szerinti jogviszonyok tartalmát külön törvények szabályozzák.
 
-(6) Az országos parancsnok vagy a bv. szerv parancsnoka munkabiztonsági okból vagy a feladatellátás rendjének fenntartása és ellenőrizhetősége érdekében megtilthatja, hogy a közalkalmazott, a kormánytisztviselő, valamint a munkavállaló munkaidőben meghatározott összeget meghaladó készpénzt vagy – a bankkártya és a Széchenyi Pihenő Kártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a munkaidőben történő használatát. A korlátozások a fogvatartottak elhelyezésére szolgáló részlegen vagy a fogvatartottak foglalkoztatására kijelölt területen munkát végzők esetében, továbbá a bv. szerv területén kívüli felügyeleti és ellenőrzési feladatokat ellátó személyek esetében vezethetők be.
+(6) Az országos parancsnok vagy a bv. szerv parancsnoka munkabiztonsági okból vagy a feladatellátás rendjének fenntartása és ellenőrizhetősége érdekében megtilthatja, hogy a munkavállaló munkaidőben meghatározott összeget meghaladó készpénzt vagy – a bankkártya és a Széchenyi Pihenő Kártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a munkaidőben történő használatát. A korlátozások a fogvatartottak elhelyezésére szolgáló részlegen vagy a fogvatartottak foglalkoztatására kijelölt területen munkát végzők esetében, továbbá a bv. szerv területén kívüli felügyeleti és ellenőrzési feladatokat ellátó személyek esetében vezethetők be.

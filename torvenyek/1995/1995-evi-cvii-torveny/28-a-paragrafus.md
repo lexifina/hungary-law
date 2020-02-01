@@ -8,7 +8,9 @@ c) telefonszámára,
 
 d) kapcsolattartói minőségére, és
 
-e) születési helyére és idejére.
+e) születési helyére és idejére,
+
+f) anyja születési nevére.
 
 (2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó személy
 
