@@ -1,1 +1,1 @@
-27/G. § A közjegyző a kérelem előterjesztéséért megfizetett díjról a valószínű örökösi bizonyítvány vagy az annak hatálytalanságát megállapító végzés kézbesítésével együtt a kérelmezőnek a megfizetett díj összegét feltüntető elismervényt is kézbesít. A megfizetett díjat az állam viseli. A kérelmezőnek a díjat az állami tulajdonjog gyakorlója téríti meg az elismervény alapján.
+27/G. §
