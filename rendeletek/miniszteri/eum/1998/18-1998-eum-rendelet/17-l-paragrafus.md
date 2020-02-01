@@ -1,4 +1,4 @@
-17/L. §[^100] (1) Az országos tisztifőorvos
+17/L. §[^119] (1) Az országos tisztifőorvos
 
 a) a szövetbank ellenőrzése során vizsgálja az egységes európai kód alkalmazását;
 
@@ -28,4 +28,4 @@ e) a szövetbankra vonatkozó engedély visszavonása,
 
 f) olyan helyzetek, amikor valamely szövetbank önként megszünteti az engedély által érintett tevékenységet, illetve tevékenységeket.
 
-[^100]: A 17/L. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^119]: A 17/L. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.

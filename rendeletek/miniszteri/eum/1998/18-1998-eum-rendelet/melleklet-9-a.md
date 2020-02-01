@@ -1,4 +1,4 @@
-9/a. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^161]
+9/a. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^181]
 
 ## A szervadományozás folyamata
 
@@ -106,4 +106,4 @@ A donoron végzett, a szervek működési állapotának és a szervek alkalmass�
 
 3.1.8. a fel nem használt szervek megsemmisítésére vonatkozó utasítások.
 
-[^161]: A 9/a. számú mellékletet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (5) bekezdése iktatta be.
+[^181]: A 9/a. számú mellékletet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (5) bekezdése iktatta be.

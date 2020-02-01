@@ -1,6 +1,6 @@
-## 16/E. §[^65] A szervkivételhez olyan anyagokat és felszereléseket kell használni, amelyek megfelelnek az orvostechnikai eszközökről szóló miniszteri rendelet, továbbá a vonatkozó szakmai szabályok szerinti követelményeknek is.
+## 16/E. §[^84] A szervkivételhez olyan anyagokat és felszereléseket kell használni, amelyek megfelelnek az orvostechnikai eszközökről szóló miniszteri rendelet, továbbá a vonatkozó szakmai szabályok szerinti követelményeknek is.
 
-## 16/F. §[^66] Az OVSZ
+## 16/F. §[^85] Az OVSZ
 
 a) részt vesz az illetékes hatóságok hálózatában, és nemzeti szinten koordinálja a hálózat tevékenységeihez való hozzájárulást,
 
@@ -10,8 +10,8 @@ c) a b) pont szerinti tevékenységekről évente jelentést készít, és azt h
 
 d) biztosítja, hogy Magyarország és az Európai Unió valamely tagállama közötti szervcsere esetén a 9/a. számú melléklet szerinti szerv- és donoradatok eljussanak a szervcserével érintett tagállamhoz,
 
-e)[^67] figyelemmel kíséri a szervriadók eredményességét és elemzi a transzplantációk országos helyzetét.
+e)[^86] figyelemmel kíséri a szervriadók eredményességét és elemzi a transzplantációk országos helyzetét.
 
-[^65]: A 16/E. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
-[^66]: A 16/F. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
-[^67]: A 16/F. § e) pontját a 16/2015. (III. 30.) EMMI rendelet 9. §-a iktatta be.
+[^84]: A 16/E. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^85]: A 16/F. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^86]: A 16/F. § e) pontját a 16/2015. (III. 30.) EMMI rendelet 9. §-a iktatta be.

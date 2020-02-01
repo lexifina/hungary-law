@@ -6,6 +6,6 @@
 
 (4) Halottból átültetés céljára eltávolított szövet feldolgozása és feldolgozás utáni tárolása kizárólag szövetbankban történhet.
 
-(5) Az (1)–(4) bekezdés szerinti esetben az egészségügyi szolgáltatónak meg kell felelnie a külön jogszabályban[^41] meghatározott személyi és tárgyi feltételeknek.
+(5) Az (1)–(4) bekezdés szerinti esetben az egészségügyi szolgáltatónak meg kell felelnie a külön jogszabályban[^60] meghatározott személyi és tárgyi feltételeknek.
 
-[^41]: Az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet.
+[^60]: Az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet.

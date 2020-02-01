@@ -10,7 +10,7 @@ c) az etikai bizottság eljárása esetén a bizottsági ülésről készült je
 
 d) az adományozó nyilatkozat visszavonása esetén a donor erről szóló írásbeli nyilatkozatát, szóbeli visszavonás esetén az orvos által erről készített feljegyzést,
 
-e)[^35] a 9. számú melléklet 1.2. pontja szerinti donordokumentációt.
+e)[^54] a 9. számú melléklet 1.2. pontja szerinti donordokumentációt.
 
 (2) A recipiens egészségügyi dokumentációjához csatolni kell
 
@@ -18,4 +18,4 @@ a) a recipiens írásba foglalt beleegyező nyilatkozatát azzal, hogy annak tar
 
 b) az (1) bekezdés b)–c) pontjában foglaltakat.
 
-[^35]: A 12. § (1) bekezdésének e) pontját a 20/2007. (IV. 19.) EüM rendelet 3. §-a iktatta be.
+[^54]: A 12. § (1) bekezdésének e) pontját a 20/2007. (IV. 19.) EüM rendelet 3. §-a iktatta be.

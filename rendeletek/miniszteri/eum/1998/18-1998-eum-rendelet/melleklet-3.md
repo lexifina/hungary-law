@@ -1,6 +1,6 @@
 ## Ha a fenti műszeres vizsgálatok közül egy vagy több bizonyítja a hiányzó agyműködés irreverzibilitását, az a) pontban megjelölt megfigyelési idő nem szükséges.
 
-3. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^124]
+3. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^143]
 
 ## Jegyzőkönyv az agyhalál megállapításáról
 
@@ -94,4 +94,4 @@ Az agyhalált megállapító orvosok:
 
 |  |  | aláírás: ..................................................................................................... |
 
-[^124]: A 3. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^143]: A 3. számú melléklet a 12/2012. (VIII. 6.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.

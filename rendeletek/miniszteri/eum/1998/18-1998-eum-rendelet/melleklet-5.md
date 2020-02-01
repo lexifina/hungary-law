@@ -1,4 +1,4 @@
-## a)[^126] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az OTNY-be történő nyilvántartásba vételéhez
+## a)[^145] Hozzájáruló nyilatkozat személyes adatok kezeléséhez és az NSZTR-be történő nyilvántartásba vételéhez
 
 ## (szerv-, szövetátültetéssel kapcsolatosan)*
 
@@ -30,7 +30,7 @@
 
 ## utca, házszám: ........................
 
-## Hozzájárulok teljes bizonyító erejű magánokiratba, illetve közokiratba foglalt tiltakozó nyilatkozatomnak az Országos Transzplantációs Nyilvántartásba vételéhez és személyes adataim kezeléséhez.
+## Hozzájárulok teljes bizonyító erejű magánokiratba, illetve közokiratba foglalt tiltakozó nyilatkozatomnak az Nemzeti Szerv- és Szövetdonációs Tiltakozások Regiszterébe vételéhez és személyes adataim kezeléséhez, valamint vállalom, hogy a hozzájáruló nyilatkozatban megadott bármely adatomban történő változást 30 napon belül jelzem a Nemzeti Szerv- és Szövetdonációs Tiltakozások Regisztere felé.
 
 ## Nyilatkozattétel dátuma: ..............
 
@@ -48,7 +48,7 @@
 
 ## _______
 
-## A tiltakozó nyilatkozat érvényességének nem feltétele a tiltakozó nyilatkozatnak az Országos Transzplantációs Nyilvántartásba történő felvétele. Amennyiben a tiltakozó nyilatkozatot csak önmagánál tartja, előfordulhat, hogy tiltakozó nyilatkozata elveszik, megsemmisül stb. Amennyiben azonban a tiltakozó nyilatkozatot az Országos Transzplantációs Nyilvántartás tartja nyilván, az Ön elhunyta esetén feltétlenül az egészségügyi személyzet tudomására jut tiltakozása. A nyilvántartásba vételről Önt visszaigazolás tájékoztatja, ezért javasoljuk, hogy ezen értesítés kézhezvételéig a tiltakozó nyilatkozat egy példányát tartsa magánál. A nyilvántartás részeként az Ön adatait az adatvédelmi jogszabályok betartásával kezelik. Az Országos Transzplantációs Nyilvántartás további garanciát jelent ahhoz, hogy elhunyta esetén is rendelkezhessen szerveivel, szöveteivel. A tiltakozó nyilatkozat visszavonása személyesen, illetve háziorvosán keresztül az Országos Transzplantációs Nyilvántartásnál történik. A nyilatkozat visszavonása bármikor kezdeményezhető, ha Ön úgy gondolja, hogy szerveit, szöveteit felajánlja átültetés céljára.
+## A tiltakozó nyilatkozat érvényességének nem feltétele a tiltakozó nyilatkozatnak az Nemzeti Szerv- és Szövetdonációs Tiltakozások Regiszterébe történő felvétele. Amennyiben a tiltakozó nyilatkozatot csak önmagánál tartja, előfordulhat, hogy tiltakozó nyilatkozata elveszik, megsemmisül stb. Amennyiben azonban a tiltakozó nyilatkozatot az Nemzeti Szerv- és Szövetdonációs Tiltakozások Regisztere tartja nyilván, az Ön elhunyta esetén feltétlenül az egészségügyi személyzet tudomására jut tiltakozása. A nyilvántartásba vételről Önt visszaigazolás tájékoztatja, ezért javasoljuk, hogy ezen értesítés kézhezvételéig a tiltakozó nyilatkozat egy példányát tartsa magánál. A nyilvántartás részeként az Ön adatait az adatvédelmi jogszabályok betartásával kezelik. Az Nemzeti Szerv- és Szövetdonációs Tiltakozások Regisztere további garanciát jelent ahhoz, hogy elhunyta esetén is rendelkezhessen szerveivel, szöveteivel. A tiltakozó nyilatkozat visszavonása személyesen, illetve háziorvosán keresztül az Nemzeti Szerv- és Szövetdonációs Tiltakozások Regiszterénél történik. A nyilatkozat visszavonása bármikor kezdeményezhető, ha Ön úgy gondolja, hogy szerveit, szöveteit felajánlja átültetés céljára.
 
 ## * Nyomtatott nagybetűkkel vagy gépelt formában kérjük kitölteni.
 
@@ -60,7 +60,7 @@
 
 ## 4 Az OTNY-nél történő személyes nyilatkozattétel, valamint postai küldeményben beérkezett tiltakozó nyilatkozat esetén, az OTNY munkatársának aláírása, háziorvoson keresztül történő nyilatkozattétel esetén a háziorvos neve, címe, aláírása és OONY.
 
-## b) Tiltakozó nyilatkozat visszavonása
+## b)[^146] Tiltakozó nyilatkozat visszavonása
 
 ## (szerv-, szövetátültetéssel kapcsolatosan)*
 
@@ -92,7 +92,7 @@
 
 ## utca, házszám: ........................
 
-## Kérem, hogy a ………………………-n (dátum) tett tiltakozó nyilatkozatomat az Országos Transzplantációs Nyilvántartásból töröljék.
+## Kérem, hogy a ………………………-n (dátum) tett tiltakozó nyilatkozatomat az Nemzeti Szerv- és Szövetdonációs Tiltakozások Regiszteréből töröljék.
 
 ## Nyilatkozattétel dátuma: ..............
 
@@ -120,7 +120,7 @@
 
 ## 8 Az OTNY-nél történő személyes visszavonás esetén az OTNY munkatársának aláírása; háziorvoson keresztül történő visszavonás esetén a háziorvos neve, címe, aláírása és OONY.
 
-## c) Adatlap a kijelölt egészségügyi dolgozóról[^127]
+## c) Adatlap a kijelölt egészségügyi dolgozóról[^147]
 
 ## Az adatközlés célja:9
 
@@ -168,8 +168,9 @@
 
 ## 11 Az egészségügyi szakdolgozóknál a működési nyilvántartás szerinti szám, orvosoknál/gyógyszerészeknél az OONY, illetőleg a GYONY szerinti szám. GYONY szerinti szám esetén a nyilvántartási szám után egy ,,x''-et kérünk beírni.
 
-5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^128]
+5. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^148]
 
-[^126]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^127]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
-[^128]: Az 5. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^145]: A 4. számú melléklet a) pontja a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdésének b) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (2) bekezdése, a 33/2019. (XII. 20.) EMMI rendelet 4. § h) és i) pontja szerint módosított szöveg.
+[^146]: A 4. számú melléklet b) pontja a 33/2019. (XII: 20.) EMMI rendelet 4. § j) pontja szerint módosított szöveg.
+[^147]: A 4. számú melléklet c) része a 2/2004. (XI. 17.) EüM rendelet 10. §-a (5) bekezdésének a) pontja szerint módosított szöveg.
+[^148]: Az 5. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.

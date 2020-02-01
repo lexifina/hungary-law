@@ -58,6 +58,6 @@
 
 ## (7) Egységes európai kód
 
-15. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^167]
+15. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^187]
 
-[^167]: A 15. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (5) bekezdése iktatta be.
+[^187]: A 15. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (5) bekezdése iktatta be.

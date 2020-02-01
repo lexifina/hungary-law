@@ -1,4 +1,4 @@
-17/K. §[^99] (1) Az országos tisztifőorvos egyedi azonosító számot rendel minden engedélyezett szövetbankhoz. Ha a szövetbank több különböző telephellyel, de az egyedi adományozási számok kiadásához egyetlen rendszerrel rendelkezik, abban az esetben egy szövetbanknak tekinthető. Ha a szövetbank az egyedi adományozási számok kiadásához két vagy több rendszert használ, az adott telephelynek a használt rendszerek számának megfelelő számú, külön szövetbank kóddal kell rendelkeznie.
+17/K. §[^118] (1) Az országos tisztifőorvos egyedi azonosító számot rendel minden engedélyezett szövetbankhoz. Ha a szövetbank több különböző telephellyel, de az egyedi adományozási számok kiadásához egyetlen rendszerrel rendelkezik, abban az esetben egy szövetbanknak tekinthető. Ha a szövetbank az egyedi adományozási számok kiadásához két vagy több rendszert használ, az adott telephelynek a használt rendszerek számának megfelelő számú, külön szövetbank kóddal kell rendelkeznie.
 
 (2) A már forgalomba bocsátott szövetekhez és sejtekhez rendelt adományozás azonosító karaktersor nem változtatható meg, kivéve, ha az kódolási hiba javítása miatt szükséges. Kódolási hiba esetén minden javítást megfelelően dokumentálni kell.
 
@@ -8,4 +8,4 @@
 
 (5) A szövetbank és az emberi felhasználásért felelős szervezetek a 14. számú melléklet szerinti, a minimálisan megőrzendő adatokat legalább 30 évig megőrzik.
 
-[^99]: A 17/K. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^118]: A 17/K. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.

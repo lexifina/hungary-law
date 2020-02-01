@@ -76,7 +76,7 @@
 
 | Egyéb (határozza meg) |  |  |  |  |
 
-12. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^164]
+12. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^184]
 
 ## A szövetbank éves jelentése
 
@@ -204,4 +204,4 @@ A szövet- és sejtbank 15/E. § szerinti éves jelentése a következőket tart
 
 A szövetek és sejtek vonatkozásában a fenti adatokat a gyűjtés, vizsgálat, megőrzés, feldolgozás, tárolás és elosztás, illetve egyéb módon történő felhasználás vonatkozásában kell megadni.
 
-[^164]: A 12. számú mellékletet a 41/2013. (VI. 17.) EMMI rendelet 6. § (1) bekezdése iktatta be, szövege a 44/2016. (XII. 28.) EMMI rendelet 13. §-a szerint módosított szöveg.
+[^184]: A 12. számú mellékletet a 41/2013. (VI. 17.) EMMI rendelet 6. § (1) bekezdése iktatta be, szövege a 44/2016. (XII. 28.) EMMI rendelet 13. §-a szerint módosított szöveg.

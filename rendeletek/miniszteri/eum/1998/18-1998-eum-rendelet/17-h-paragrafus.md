@@ -1,8 +1,8 @@
-## 17/G. §[^93] Az országos tisztifőorvos rendszeres ellenőrzéseket végez a szövetfeldolgozó és tároló egységekben és ellenőrizheti az e rendelet követelményeivel összefüggő eljárásokat és tevékenységeket, valamint az ellenőrzés keretében megvizsgálhat minden, az e rendelet követelményeivel kapcsolatos dokumentumot.
+## 17/G. §[^112] Az országos tisztifőorvos rendszeres ellenőrzéseket végez a szövetfeldolgozó és tároló egységekben és ellenőrizheti az e rendelet követelményeivel összefüggő eljárásokat és tevékenységeket, valamint az ellenőrzés keretében megvizsgálhat minden, az e rendelet követelményeivel kapcsolatos dokumentumot.
 
-## Egységes európai kód[^94]
+## Egységes európai kód[^113]
 
-17/H. §[^95] (1) Az egységes európai kódot az emberi felhasználás céljából elosztott valamennyi szövet és sejt esetében alkalmazni kell. A szövetek és sejtek más célú forgalomba bocsátása esetén legalább a kísérő dokumentációnak tartalmaznia kell az adományozás azonosító karaktersort.
+17/H. §[^114] (1) Az egységes európai kódot az emberi felhasználás céljából elosztott valamennyi szövet és sejt esetében alkalmazni kell. A szövetek és sejtek más célú forgalomba bocsátása esetén legalább a kísérő dokumentációnak tartalmaznia kell az adományozás azonosító karaktersort.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
 
@@ -28,6 +28,6 @@ b) az Európai Unióba behozott szövetek és sejtek, ha azok a behozataltól a 
 
 (7) Az egységes európai kódot úgy kell feltüntetni, hogy az adományozás azonosító karaktersort és a termékazonosító karaktersort vagy egyetlen szóköz választja el egymástól, vagy azok két egymást követő sorban szerepelnek.
 
-[^93]: A 17/G. §-t a 6/2013. (I. 18.) EMMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
-[^94]: A 17/H. §-t megelőző alcímet a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
-[^95]: A 17/H. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^112]: A 17/G. §-t a 6/2013. (I. 18.) EMMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^113]: A 17/H. §-t megelőző alcímet a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^114]: A 17/H. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.

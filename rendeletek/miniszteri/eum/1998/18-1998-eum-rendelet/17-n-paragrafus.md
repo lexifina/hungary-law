@@ -1,4 +1,4 @@
-## 17/N. §[^103] Ezen alcím alkalmazásában
+## 17/N. §[^122] Ezen alcím alkalmazásában
 
 1. egyszeri behozatal: bármely típusú szövetek és sejtek behozatala meghatározott, ismert recipiens részére történő egyszeri felhasználásra;
 
@@ -8,4 +8,4 @@
 
 4. sürgős eset: olyan, előre nem látható helyzet, amikor a gyakorlatban nincs más lehetőség, mint harmadik országból sürgősen szöveteket és sejteket behozni az Európai Unióba olyan ismert recipiens esetében történő azonnali felhasználásra, akinek az egészsége e behozatal nélkül komoly veszélybe kerülne.
 
-[^103]: A 17/N. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^122]: A 17/N. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.

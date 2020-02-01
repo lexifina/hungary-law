@@ -1,8 +1,8 @@
-## 17/I. §[^96] Az egységes európai kód alkalmazása nem zárja ki, hogy a nemzeti követelményekkel összhangban további kódok is alkalmazásra kerüljenek.
+## 17/I. §[^115] Az egységes európai kód alkalmazása nem zárja ki, hogy a nemzeti követelményekkel összhangban további kódok is alkalmazásra kerüljenek.
 
-## Az egységes európai kód alkalmazásával kapcsolatos követelmények[^97]
+## Az egységes európai kód alkalmazásával kapcsolatos követelmények[^116]
 
-17/J. §[^98] (1) A szövetbank – ideértve az importáló szövetbankot is – az egységes európai kód alkalmazásával kapcsolatban biztosítja az alábbi feltételeket:
+17/J. §[^117] (1) A szövetbank – ideértve az importáló szövetbankot is – az egységes európai kód alkalmazásával kapcsolatban biztosítja az alábbi feltételeket:
 
 a) legkésőbb az emberi felhasználás céljából való elosztás előtt egységes európai kódot rendel minden olyan szövethez és sejthez, amely esetében ilyen kódot kell alkalmazni;
 
@@ -24,6 +24,6 @@ b) a szövetbank által kiadott egyedi adományozási szám, kivéve, ha az vil�
 
 (3) A szövetek és sejtek egyesítése esetében a végtermékhez új adományozás azonosító számot kell rendelni. Az egyes adományok nyomonkövethetőségéről az a szövetbank gondoskodik, amely az egyesítést végzi.
 
-[^96]: A 17/I. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
-[^97]: A 17/J. §-t megelőző alcímet a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
-[^98]: A 17/J. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^115]: A 17/I. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^116]: A 17/J. §-t megelőző alcímet a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.
+[^117]: A 17/J. §-t a 44/2016. (XII. 28.) EMMI rendelet 10. §-a iktatta be.

@@ -1,19 +1,30 @@
-10. § (1)[^33] Az országos tisztifőorvos az ajánlott postai küldemény formájában a hozzájáruló nyilatkozattal együtt beérkezett tiltakozó nyilatkozatot – az érkezéstől számított három munkanapon belül – felveszi az OTNY-be. A tiltakozó nyilatkozatnak az OTNY-be történő felvétele, az OTNY-be történt bejegyzés időpontjától érvényes.
+10. § (1)[^41] Az ajánlott postai küldemény formájában a hozzájáruló nyilatkozattal együtt beérkezett tiltakozó nyilatkozat az érkezéstől számított három munkanapon belül kerül rögzítésre az NSZTR-be. Az NSZTR-be rögzítés a bejegyzés időpontjától érvényes.
 
-(2) Az OTNY a hozzájáruló nyilatkozatot és a beérkezés időpontját tartalmazza, valamint gondoskodik az Eütv. 211. §-ában meghatározott teljes bizonyító erejű magánokirat, illetve közokirat megőrzéséről.
+(2)[^42] Az NSZTR a hozzájáruló nyilatkozatot és a beérkezés időpontját tartalmazza, valamint gondoskodik az Eütv. 211. §-ában meghatározott teljes bizonyító erejű magánokirat, illetve közokirat megőrzéséről.
 
-(3) A tiltakozó nyilatkozat visszavonása esetén a tiltakozó nyilatkozatot az OTNY-ből haladéktalanul törölni kell.
+(3)[^43] A tiltakozó nyilatkozat visszavonása esetén a tiltakozó nyilatkozatot az NSZTR-ből haladéktalanul törölni kell.
 
-(4) Az OTNY a beérkezés időpontjától számított tíz munkanapon belül a tiltakozó nyilatkozat nyilvántartásba vételéről, illetőleg törléséről értesíti a beteget, illetve – a 9. § (1) bekezdés c) pontja és (7) bekezdése szerinti esetben – a háziorvost is.
+(4)[^44] Az NSZTR a beérkezés időpontjától számított tíz munkanapon belül a tiltakozó nyilatkozat nyilvántartásba vételéről, illetőleg törléséről értesíti a beteget, illetve – a 9. § (1) bekezdés c) pontja és (7) bekezdése szerinti esetben – a háziorvost is.
 
-(5) Az OTNY adatait az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezései szerint kell kezelni. Az egyes betegekre vonatkozó adatok csak a kijelölt egészségügyi dolgozó számára hozzáférhetőek.
+(5)[^45] Az NSZTR adatait az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezései szerint kell kezelni. Az egyes betegekre vonatkozó adatok csak a kijelölt egészségügyi dolgozó számára hozzáférhetőek.
 
-(6) Az OTNY-ből az adott betegre vonatkozó adat telefonon és telefaxon is lekérhető. A kijelölt egészségügyi dolgozó azonosítására neve, nyilvántartási száma, valamint az egészségügyi szolgáltató azonosító száma szolgál.
+(6)[^46] Az NSZTR-ből az adott betegre vonatkozó adat telefonon és telefaxon is lekérhető. A kijelölt egészségügyi dolgozó azonosítására neve, nyilvántartási száma, valamint az egészségügyi szolgáltató NSZTR lekérdezésre jogosító egyedi azonosítója szolgál.
 
-(7) Az OTNY adatkezeléssel megbízott munkatársa az adatot lekérő kijelölt egészségügyi dolgozót telefonon visszahívja, és tájékoztatja arról, hogy a nyilvántartásban megtalálható-e a beteg tiltakozó nyilatkozata. Az OTNY a beteg tiltakozó nyilatkozatának egy példányát telefaxon elküldi a kijelölt egészségügyi dolgozónak, amelyet a beteg egészségügyi dokumentációjához csatolni kell.
+(7)[^47] Az NSZTR minden lekérdezéséhez kapcsolódóan dokumentumot állít elő arról, hogy a nyilvántartásban megtalálható-e a beteg tiltakozó nyilatkozata. Az OVSZ által kijelölt felelős dolgozó (a továbbiakban: felelős dolgozó) a kijelölt egészségügyi dolgozót telefonon tájékoztatja a keresés eredményéről. A beteg tiltakozó nyilatkozatát vagy annak hiányát igazoló dokumentumot a felelős dolgozó megküldi a kijelölt egészségügyi dolgozónak, amelyet a beteg egészségügyi dokumentációjához csatolni kell a tervezett szerv,- szövetkivétel megkezdése előtt.
 
-(8) Az OTNY a lekérés időpontjáról, a kiadott tájékoztatásról és az (5) bekezdésben meghatározott adatokról nyilvántartást vezet.
+(8)[^48] Az NSZTR a lekérés időpontjáról, a kiadott tájékoztatásról és az (5) bekezdésben meghatározott adatokról nyilvántartást vezet.
 
-(9) Az OTNY adatszolgáltatása 24 órás.
+(9)[^49] Az NSZTR adatszolgáltatása 24 órás.
 
-[^33]: A 10. § (1) bekezdése a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-a (2) bekezdésének a) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (1) bekezdésének b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
+(10)[^50] Külföldön elhunyt magyar állampolgár tiltakozó nyilatkozatának lekérdezése során a felelős dolgozó meggyőződik arról, hogy az elhunyt nem tett tiltakozó nyilatkozatot. Ebben az esetben az adatközlés kizárólag az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról szóló Európai Parlament és a Tanács 2010/53/EU irányelve IV. fejezet 19. cikke szerinti illetékes hatóságok hálózatának tagjai és az OVSZ közötti kapcsolatfelvétel útján valósulhat meg.
+
+[^41]: A 10. § (1) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^42]: A 10. § (2) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^43]: A 10. § (3) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.
+[^44]: A 10. § (4) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^45]: A 10. § (5) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^46]: A 10. § (6) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § d) és f) pontja szerint módosított szöveg.
+[^47]: A 10. § (7) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^48]: A 10. § (8) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^49]: A 10. § (9) bekezdése a 33/2019. (XII. 20.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^50]: A 10. § (10) bekezdését a 33/2019. (XII. 20.) EMMI rendelet 3. § (3) bekezdése iktatta be.

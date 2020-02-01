@@ -24,6 +24,6 @@
 
 ## 9. Minden vonatkozó nemzeti vagy nemzetközi akkreditáció.
 
-19. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^171]
+19. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^191]
 
-[^171]: A 19. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (9) bekezdése iktatta be.
+[^191]: A 19. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (9) bekezdése iktatta be.
