@@ -1,6 +1,6 @@
 ## adatszolgáltatást biztosítanak a Működtető részére.
 
-10. § (1)[^34] A Szolgtv. 33. § szerinti szervezetek az 1. § (2)–(5) bekezdése szerinti szolgáltatások működtetőinek bejelentik, naprakészen tartják, valamint a tervezett változásokat legalább tíz nappal előre jelzik az alábbi adatok esetében:
+10. § (1)[^35] A Szolgtv. 33. § szerinti szervezetek az 1. § (2)–(5) bekezdése szerinti szolgáltatások működtetőinek bejelentik, naprakészen tartják, valamint a tervezett változásokat legalább tíz nappal előre jelzik az alábbi adatok esetében:
 
 a) a szerv, illetve a szerv illetékes területi, helyi szervei hatáskörrel rendelkező szervezetek, illetve szervezettípusok alá rendelését,
 
@@ -14,7 +14,7 @@ e) a szerv, illetve a szerv illetékes területi, helyi szervei egyes eljáráso
 
 f) a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartások megnevezését és azok nyilvános adataihoz való hozzáférést biztosító internetes elérhetőségeket.
 
-(2)[^35]
+(2)[^36]
 
-[^34]: A 10. § (1) bekezdés nyitó szövegrésze az 515/2013. (XII. 30.) Korm. rendelet 27. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^35]: A 10. § (2) bekezdését a 82/2012. (IV. 21.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^35]: A 10. § (1) bekezdés nyitó szövegrésze az 515/2013. (XII. 30.) Korm. rendelet 27. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^36]: A 10. § (2) bekezdését a 82/2012. (IV. 21.) Korm. rendelet 29. §-a hatályon kívül helyezte.
