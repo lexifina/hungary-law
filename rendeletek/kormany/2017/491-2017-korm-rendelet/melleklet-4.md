@@ -76,7 +76,7 @@
 
 ## 4. az oltóközpont helyiségét határoló építményszerkezetek előírt tűzterjedés elleni védelmét biztosító megoldások megfelelőségét, teljesítményét igazoló iratokat.
 
-4. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^12]
+4. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^13]
 
 ## A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés megszüntetéséhez szükséges engedély iránti kérelem mellékletét képező nyilatkozat tartalma
 
@@ -94,4 +94,4 @@
 
 1.5. arról, hogy tudomásul veszi a berendezés megszüntetésével kialakuló tűzvédelmi biztonsági szintet és annak következményeit.
 
-[^12]: A 4. mellékletet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés d) pontja iktatta be.
+[^13]: A 4. mellékletet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés d) pontja iktatta be.
