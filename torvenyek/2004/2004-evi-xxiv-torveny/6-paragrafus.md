@@ -12,4 +12,10 @@ d) az Országgyűlési Őrség személyvédelmi és létesítménybiztosítási 
 
 (3) A lőfegyverek központi nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, illetve Magyarország nemzetközi szerződésben adattovábbításra feljogosított más szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
 
-(4) A lőfegyvereknek, illetve a lőszereknek más tagállam területére történő átvitele esetén a rendeltetési hely, illetve a tranzitország között történő – a kérelmező által az 5. § (2) bekezdés a) pont ab) alpontjára, a szállítandó lőfegyverekre, lőszerekre, a lőfegyver-kereskedők közötti szállítás kivételével a szállítóeszközre, valamint az indulás és érkezés várható időpontjára vonatkozó bejelentési kötelezettség teljesítésén alapuló – adatszolgáltatást és adatfogadást a rendőrség központi szerve végzi, valamint – jogszabály eltérő rendelkezésének hiányában – ellátja a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i, 2014/28/EU európai parlamenti és tanácsi irányelv 14. cikk (1) bekezdésében meghatározott hatósági feladatokat.
+(4) A lőfegyvereknek, illetve a lőszereknek más tagállam területére történő átvitele esetén a rendeltetési hely, illetve a tranzitország között történő – a kérelmező által az 5. § (2) bekezdés a) pont ab) alpontjára, a szállítandó lőfegyverekre, lőszerekre, a lőfegyver-kereskedők közötti szállítás kivételével a szállítóeszközre, valamint az indulás és érkezés várható időpontjára vonatkozó bejelentési kötelezettség teljesítésén alapuló – adatszolgáltatást és adatfogadást a rendőrség központi szerve végzi, valamint – jogszabály eltérő rendelkezésének hiányában – ellátja
+
+a) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i, 2014/28/EU európai parlamenti és tanácsi irányelv 14. cikk (1) bekezdésében, valamint
+
+b) a 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek Unión belüli transzferére vonatkozó információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2019. január 16-i (EU) 2019/686 bizottsági rendeletben
+
+meghatározott hatósági feladatokat.

@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-24-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 2004-24-00-00.20 |
 | 2018-01-01 | 2017. évi L. törvény | 2004-24-00-00.21 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2004-24-00-00.22 |
+| 2020-02-01 | 2019. évi CXVI. törvény | 2004-24-00-00.23 |

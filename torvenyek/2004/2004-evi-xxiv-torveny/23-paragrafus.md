@@ -14,6 +14,8 @@ való megfelelést szolgálja.
 
 (1a) Az 5. § (2) bekezdés c) pontja és a 11/A. § a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i, 2015/2403 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(1b) A 6. § (4) bekezdés b) pontja a 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek Unión belüli transzferére vonatkozó információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2019. január 16-i (EU) 2019/686 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 (2) E törvény 18/C. §-a tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
 ## Melléklet a 2004. évi XXIV. törvényhez
