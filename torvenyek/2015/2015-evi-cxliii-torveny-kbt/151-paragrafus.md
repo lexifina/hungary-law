@@ -16,7 +16,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (4) A becsült érték – részajánlattétel esetében a jogorvoslattal érintett rész értékének – megállapítása érdekében a Közbeszerzési Döntőbizottság az ajánlatkérőt adatközlésre hívhatja fel, amelyet az ajánlatkérő két munkanapon belül köteles teljesíteni.
 
-(5) A Közbeszerzési Döntőbizottság az eljárást öt napon belül megszünteti, ha megállapítja, hogy az ajánlatkérő a közbeszerzési eljárást megindító hirdetményét, felhívását, a 113. § (1) bekezdése szerinti tájékoztatást jogszerűen visszavonta.
+(5) A Közbeszerzési Döntőbizottság az eljárást öt napon belül megszünteti, ha megállapítja, hogy az ajánlatkérő a közbeszerzési eljárást megindító hirdetményét, felhívását jogszerűen visszavonta.
 
 (6)
 

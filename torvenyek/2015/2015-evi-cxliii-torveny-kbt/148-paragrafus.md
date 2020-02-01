@@ -2,7 +2,7 @@
 
 148. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre vagy hivatalból indul. Az eljárás megindítására irányuló kérelem és a hivatalbóli eljárást kezdeményező irat kizárólag írásban – a 145. § (1a) bekezdés a) pontjában foglaltak szerint –, a Közbeszerzési Döntőbizottság előtt terjeszthető elő.
 
-(2) Kérelmet nyújthat be az ajánlatkérő, az ajánlattevő, közös ajánlattétel esetén bármelyik ajánlattevő, a részvételre jelentkező, közös részvételi jelentkezés esetén bármelyik részvételre jelentkező vagy az egyéb érdekelt, akinek jogát vagy jogos érdekét az e törvénybe ütköző tevékenység vagy mulasztás sérti vagy veszélyezteti. Az ajánlati, ajánlattételi vagy részvételi felhívás, a közbeszerzési dokumentumok, illetve ezek módosításának, valamint a 113. § (1) bekezdése szerinti tájékoztatás jogsértő volta miatt kérelmet nyújthat be a közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdek-képviseleti szervezet is. (E bekezdésben foglaltak a továbbiakban együtt: kérelmező.)
+(2) Kérelmet nyújthat be az ajánlatkérő, az ajánlattevő, közös ajánlattétel esetén bármelyik ajánlattevő, a részvételre jelentkező, közös részvételi jelentkezés esetén bármelyik részvételre jelentkező vagy az egyéb érdekelt, akinek jogát vagy jogos érdekét az e törvénybe ütköző tevékenység vagy mulasztás sérti vagy veszélyezteti. Az ajánlati, ajánlattételi vagy részvételi felhívás, a közbeszerzési dokumentumok, illetve ezek módosításának jogsértő volta miatt kérelmet nyújthat be a közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdek-képviseleti szervezet is. (E bekezdésben foglaltak a továbbiakban együtt: kérelmező.)
 
 (3) A kérelem – a (4)–(5) bekezdés szerinti eltéréssel – a jogsértésnek a kérelmező tudomására jutásától számított tizenöt napon belül, a közbeszerzési eljárást lezáró jogsértő döntés esetében pedig a jogsértésnek a kérelmező tudomására jutásától számított tíz napon belül nyújtható be. A jogsértés megtörténtétől számított kilencven napon túl kérelmet előterjeszteni nem lehet.
 
@@ -14,11 +14,11 @@
 
 (7) A (3)–(4) bekezdés szerinti határidő számításakor a jogsértés tudomásra jutása időpontjának kell tekinteni
 
-a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény és a 113. § (1) bekezdése szerinti tájékoztatás közzétételének vagy közvetlen felhívás kézhezvételének, vagy közbeszerzési dokumentumok esetében azok rendelkezésre bocsátásának napját;
+a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény közzétételének vagy közvetlen felhívás kézhezvételének, vagy közbeszerzési dokumentumok esetében azok rendelkezésre bocsátásának napját;
 
-b) az előírt határidő lejártánál később feladott hirdetmény esetében a hirdetmény közzétételétől számított tizenötödik napot, az EKR-ben az előírt határidő lejártánál később rögzített 113. § (1) bekezdése szerinti, a tájékoztatás visszavonásáról szóló értesítés esetében az értesítés EKR-ben történt közzétételétől számított tizenötödik napot;
+b) az előírt határidő lejártánál később feladott hirdetmény esetében a hirdetmény közzétételétől számított tizenötödik napot;
 
-c) a közbeszerzési eljárást lezáró döntésben szereplő, a megtekintett iratokat érintő jogsértéssel kapcsolatban az iratbetekintés befejezésének napját, ha a kérelmező az írásbeli összegezés kézhezvételét követő tíz napon belül az ajánlat(ok)ba betekintett az ajánlatkérőnél vagy a Közbeszerzési Döntőbizottságnál;
+c) a közbeszerzési eljárást lezáró döntésben szereplő, a megtekintett iratokat érintő jogsértéssel kapcsolatban a 45. § (1) bekezdésében foglalt határidőben jelzett, és annak eredményeként megtett iratbetekintés befejezésének napját;
 
 d) ha a kérelemmel érintett jogsértéssel összefüggésben előzetes vitarendezést kérelmeztek és
 
@@ -32,9 +32,9 @@ e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ü
 
 (8) A (3)–(4) bekezdés szerinti határidő számításakor a jogsértés megtörténtének kell tekinteni
 
-a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény és a 113. § (1) bekezdése szerinti tájékoztatás esetében a hirdetmény vagy tájékoztatás közzétételét, közvetlen felhívás esetében a felhívás megküldését;
+a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény esetében a hirdetmény közzétételét, közvetlen felhívás esetében a felhívás megküldését;
 
-b) az előírt határidő lejártánál később feladott hirdetmény és az előírt határidő lejártánál később megküldött 113. § (1) bekezdése szerinti értesítés esetében a hirdetmény vagy értesítés közzétételét;
+b) az előírt határidő lejártánál később feladott hirdetmény esetében a hirdetmény közzétételét;
 
 c) a közbeszerzési eljárás mellőzésével történő beszerzés esetében a szerződés megkötésének időpontját, vagy ha ez nem állapítható meg, a szerződés teljesítésének bármelyik fél által történő megkezdését.
 

@@ -30,7 +30,7 @@ d) az Európai Bizottság által kért, hiányzó statisztikai adatokat a Bizott
 
 e) háromévente statisztikai jelentést készít az uniós értékhatárt el nem érő becsült értékű közbeszerzésekről – különösen az érintett időszakban az ilyen közbeszerzések becsült, összesített teljes értékéről – amelyet megfelelő határidőben a közbeszerzésekért felelős miniszter rendelkezésére bocsát;
 
-f) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzési Hatóság Hivatalos Lapja” (a továbbiakban: Közbeszerzési Értesítő) szerkesztéséről, a közbeszerzési és a tervpályázati eljárással kapcsolatos hirdetmények közzétételéről, valamint ellenőrzéséről. A hirdetmények ellenőrzése során biztosítja az adatok teljeskörűségét, ennek érdekében az ajánlatkérőt adatszolgáltatásra hívhatja fel. Gondoskodik továbbá a 113. § (1) bekezdésében szereplő tájékoztatások honlapján történő közzétételéről, valamint az e törvény által előírt egyéb adatok, információk honlapján, illetve a Közbeszerzési Értesítőben történő közzétételéről;
+f) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzési Hatóság Hivatalos Lapja” (a továbbiakban: Közbeszerzési Értesítő) szerkesztéséről, a közbeszerzési és a tervpályázati eljárással kapcsolatos hirdetmények közzétételéről, valamint ellenőrzéséről. A hirdetmények ellenőrzése során biztosítja az adatok teljeskörűségét, ennek érdekében az ajánlatkérőt adatszolgáltatásra hívhatja fel. Gondoskodik továbbá az e törvény által előírt egyéb adatok, információk honlapján, illetve a Közbeszerzési Értesítőben történő közzétételéről;
 
 g) honlapján a beérkezés időpontjában közzéteszi a Közbeszerzési Döntőbizottság eljárását kezdeményező kérelem, valamint a hivatalbóli kezdeményezés adatait, a Döntőbizottság érdemi és a közbeszerzési ügy befejezését eredményező határozatát, továbbá a határozat megtámadására irányuló közigazgatási per esetén a bíróság határozatát;
 
@@ -38,7 +38,7 @@ h) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati 
 
 i) a (10) bekezdés, továbbá a 183. § c) pontja, valamint a 194. § (3) bekezdése szerinti útmutatót vagy közleményt honlapján közéteszi;
 
-j) figyelemmel kíséri a közbeszerzési eljárás, valamint a koncessziós beszerzési eljárás alapján megkötött szerződések módosításáról szóló hirdetményeket, ennek során az Ákr. alapján hatósági ellenőrzés keretében – jogszabályban meghatározott részletes szabályok szerint – ellenőrzi a szerződések teljesítését és módosítását, a tervpályázati eljárás eredményét, valamint megteszi különösen a 153. § (1) bekezdés c) pontjában és a 175. §-ban meghatározott intézkedéseket;
+j) figyelemmel kíséri a közbeszerzési eljárás, valamint a koncessziós beszerzési eljárás alapján megkötött szerződések módosításáról szóló hirdetményeket, ennek során az Ákr. alapján hatósági ellenőrzés (a továbbiakban: szerződés-ellenőrzési eljárás) keretében – jogszabályban meghatározott részletes szabályok szerint – ellenőrzi a szerződések teljesítését és módosítását, a tervpályázati eljárás eredményét, valamint megteszi különösen a 153. § (1) bekezdés c) pontjában és a 175. §-ban meghatározott intézkedéseket;
 
 k) az archív adatok tekintetében működteti a Közbeszerzési Adatbázist, amely a közbeszerzési eljárások központi nyilvántartása, elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását; ennek keretében elektronikus közzétételi lehetőséget biztosít, ahol az ajánlatkérő a közbeszerzési dokumentumokat központilag, térítésmentesen és teljes terjedelemben közvetlenül elektronikus úton az ajánlattevők számára hozzáférhetővé teheti, és ahonnan az ajánlattevők a közbeszerzési dokumentumokat ingyenesen elérhetik;
 
@@ -68,7 +68,7 @@ x) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatké
 
 (2a) A (2) bekezdés a) pont ag) alpontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
 
-(3) A Hatóság elnöke, illetve a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet – ideértve a szakmai kamarákat és az érdekképviseleti szervezeteket is – köteles tíz napon belül tájékoztatást adni.
+(3) A Hatóság elnöke, illetve a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet – ideértve a szakmai kamarákat és az érdekképviseleti szervezeteket is – köteles tíz napon belül tájékoztatást adni, és az EKR-ben rendelkezésre álló adatok hozzáférhetőségét biztosítani.
 
 (4) A Hatóság évente beszámolót készít az Országgyűlésnek tevékenységéről, a közbeszerzések tisztaságával és átláthatóságával kapcsolatos tapasztalatairól, valamint a jogorvoslati ügyek tapasztalatairól. A beszámolónak megállapításokat kell tartalmaznia a közbeszerzési eljárások számának és értékének alakulására, a hazai ajánlattevők és ezen belül a mikro-, kis- és középvállalkozások helyzetére vonatkozóan. A Hatóság a beszámolót tájékoztatásul az Állami Számvevőszéknek is megküldi.
 

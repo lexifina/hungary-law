@@ -30,6 +30,6 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (12) A (11) bekezdés építési beruházás esetében csak akkor alkalmazható, ha az adott beszerzés – a 19. § (3) bekezdésének alkalmazása nélkül számított – becsült értéke nem haladja meg az ötszázmillió forintot.
 
-(13) A 80. § (1) bekezdés b) pontja szerinti esetben előzetes vitarendezés az ajánlattételi, illetve részvételi határidő lejártáig, a 113. § (1) bekezdés szerinti összefoglaló tájékoztatással kapcsolatban az érdeklődés jelzésére meghatározott határidő lejártáig kezdeményezhető.
+(13) A 80. § (1) bekezdés b) pontja szerinti esetben előzetes vitarendezés az ajánlattételi, illetve részvételi határidő lejártáig kezdeményezhető.
 
 (14) A 3. melléklet szerinti szolgáltatások esetén a 76. § (9) bekezdésében foglalt adatok az eljárást megindító felhívás helyett a közbeszerzési dokumentumokban is megadhatóak.

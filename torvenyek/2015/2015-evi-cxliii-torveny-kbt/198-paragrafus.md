@@ -24,7 +24,7 @@
 
 10. egyes beszerzési tárgyak tekintetében az alkalmazandó értékelési szempontrendszerre és módszerre vonatkozó részletes szabályokat, a szociális, különösen foglalkoztatási és környezetvédelmi, fenntarthatósági, energiahatékonysági szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját, ideértve a fenntartott közbeszerzés kötelező alkalmazása előírását is;
 
-11. a gyógyszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
+11. a gyógyszerek, fertőtlenítőszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
 
 12. a 9. § (1) bekezdés b) pontjában meghatározott beszerzések Országgyűlés illetékes bizottsága általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
 
@@ -50,7 +50,7 @@
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
-a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, a 113. § (1) bekezdése szerinti összefoglaló tájékoztatások további adataira és részletes adattartalmára vonatkozó rendelkezéseket, valamint – az adópolitikáért felelős miniszter egyetértésével – az összefoglaló tájékoztatások közzétételéért fizetendő igazgatási szolgáltatási díj mértékét és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
 b) a hirdetmények, és a bírálati összegezések mintáját, a hirdetmények egyes tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
 
