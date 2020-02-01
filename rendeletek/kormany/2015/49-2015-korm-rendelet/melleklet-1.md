@@ -1,4 +1,4 @@
-## 7. §[^6] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4. §-át a Módr. hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^11] E rendeletnek a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges egyes sportcélú beruházásokkal összefüggő kormányrendeletek módosításáról szóló 8/2020. (I. 31.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 3. § d)–f) pontját a Módr2. hatálybalépésekor[^12] folyamatban lévő ügyekben, eljárásokban is alkalmazni kell.
 
 1. melléklet a 49/2015. (III. 12.) Korm. rendelethez
 
@@ -44,5 +44,5 @@
 
 20. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek.
 
-[^6]: A 7. §-t a 223/2018. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2018. november 30.
+[^11]: A 8. §-t a 8/2020. (I. 31.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2020. február 1.

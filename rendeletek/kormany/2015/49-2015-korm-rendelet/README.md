@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-49-20-2
 | 2017-09-12 | 2015-49-20-22.3 | 267/2017. (IX. 11.) Korm. rendelet |
 | 2018-01-01 | 2015-49-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-11-30 | 2015-49-20-22.5 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2020-02-01 | 2015-49-20-22.6 | 8/2020. (I. 31.) Korm. rendelet |
