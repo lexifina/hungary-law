@@ -2,8 +2,8 @@
 
 a) 4. § (1) bekezdés b) pontjában és 77. § d) pontjában a „vagy állami tisztviselője” szövegrész;
 
-b) 62. § (1) bekezdésében, (2) bekezdés b) pontjában és a (2a) bekezdésében a „,valamint a halottvizsgálati bizonyítvány eltemettetői példányát bemutatja” szövegrész;
+b)
 
-c) 62. § (4) bekezdésében a „ , továbbá a halottvizsgálati bizonyítványt” szövegrész;
+c)
 
-d) 1. melléklet a) pont 3.4. alpontja és 14–15. pontja.
+d)

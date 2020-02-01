@@ -6,7 +6,7 @@ b) 7. § (1) bekezdés b) pont be) alpontjában a „központi államigazgatási
 
 c) 7/B. § (2) bekezdés a) pontjában a „határrendészeti szabálysértést” szövegrész helyébe a „tiltott határátlépés szabálysértést, határrendészeti szabálysértést” szöveg,
 
-d) 29/A. § (1) bekezdésében a „29. § (4) bekezdésében” szövegrész helyébe a „29. § (4) és (4a) bekezdésében szöveg,
+d)
 
 e) 97. § h) pontjában az „előzetesen letartóztatott” szövegrész helyébe a „letartóztatott” szöveg
 
