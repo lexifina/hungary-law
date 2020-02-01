@@ -1,3 +1,1 @@
-## 58. §[^58]
-
-[^58]: Az 58. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(5) A képviselő az interpellációt legkésőbb annak megkezdéséig visszavonhatja. Ha a képviselő az interpelláció elhangzásának a napirend szerint várható időpontjában nincs jelen, és az ülésnap kezdetéig nem tájékoztatta a házelnököt más képviselő előterjesztőként történő csatlakozásáról, az interpellációt visszavontnak kell tekinteni.”

@@ -1,3 +1,1 @@
-1. melléklet az 54/2019. (XII. 17.) OGY határozathoz[^92]
-
-[^92]: Az 1. melléklet a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+1. melléklet az 54/2019. (XII. 17.) OGY határozathoz

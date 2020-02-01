@@ -1,3 +1,3 @@
-## 65. §[^65]
+## 65. § A HHSZ 134. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^65]: A 65. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(1) A bizottsági ülésről szó szerinti jegyzőkönyv készül, amelyet az elnök aláírásával hitelesít. Az Országgyűlésről szóló törvény 52/D. §-a és 52/E. §-a szerinti esetben az elnök az ülést követő öt napon belül gondoskodik a jegyzőkönyv hitelesítéséről.”

@@ -1,3 +1,3 @@
-## 41. §[^42]
+## 41. § A HHSZ 80. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^42]: A 41. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(4) Az Országgyűlés vita nélkül elrendelheti egyedi határozatának hivatalos lapban való közzétételét.”

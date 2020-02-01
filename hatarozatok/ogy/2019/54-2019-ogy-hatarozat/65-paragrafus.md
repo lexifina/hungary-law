@@ -1,3 +1,3 @@
-## 64. §[^64]
+## 64. § A HHSZ 131. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^64]: A 64. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(5) Az Országgyűlési Naplót a (3) bekezdés szerinti eljárást követő tizenöt napon belül meg kell küldeni a képviselőknek, a szószólóknak, a köztársasági elnöknek, a Kormány tagjainak, az Alkotmánybíróság elnökének, a Kúria elnökének, a legfőbb ügyésznek, az alapvető jogok biztosának, az Állami Számvevőszék elnökének, a Magyar Nemzeti Bank elnökének – az általuk megjelölt módon – elektronikus úton vagy kinyomtatva, valamint a megyei, fővárosi könyvtáraknak, az állami egyetemek könyvtárainak és a nyilvános könyvtári ellátást vállaló felsőoktatási könyvtáraknak elektronikus úton.”

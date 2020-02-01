@@ -1,3 +1,1 @@
-## 13. §[^14]
-
-[^14]: A 13. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(5) Az ülést vezető elnök a kihirdetett szavazási eredményt az annak helyesbítésére irányuló, a szavazást követően azonnal előterjesztett indítványra felülvizsgálhatja. Szavazási eredmény helyesbítésére irányuló indítványt a képviselőcsoport vezetője, valamint az elsőként szólásra jelentkező független képviselő terjeszthet elő egyperces időtartamban. A tévesen kihirdetett eredményt a felülvizsgálat eredményére tekintettel az ülést vezető elnök helyesbíti. A kihirdetett eredmény helyesbítésének a vitatott szavazást követő napirendi pontra történő áttérésig van helye.”

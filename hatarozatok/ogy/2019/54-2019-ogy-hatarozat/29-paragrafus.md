@@ -1,3 +1,7 @@
-## 28. §[^29]
+## 28. § A HHSZ 54. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^29]: A 28. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## (A vitában ezt követően)
+
+## „b) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségi képviselők és szószólók ötperces”
+
+## (időtartamban szólalhatnak fel.)

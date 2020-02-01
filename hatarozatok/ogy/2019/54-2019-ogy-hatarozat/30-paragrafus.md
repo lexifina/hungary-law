@@ -1,3 +1,5 @@
-## 29. §[^30]
+## 29. § A HHSZ 56. § (3) bekezdése helyébe a következő rendelkezés lép, és a HHSZ 56. §-a a következő (4) bekezdéssel egészül ki:
 
-[^30]: A 29. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(3) Ha az (1) és (2) bekezdés szerinti zárószavazás során minősített többséget igénylő döntés is szükséges, a zárószavazást két részletben kell lefolytatni úgy, hogy először a minősített többséget igénylő döntést kell meghozni. Ha az Országgyűlés nem fogad el minősített többséget igénylő rendelkezést, döntése – arról való külön döntés hiányában is – az el nem fogadott rendelkezés sarkalatosságára utaló, illetve azt házszabályi rendelkezésként meghatározó rendelkezés elhagyására is kiterjed. Az elfogadáshoz szükséges minősített többség hiányában a 21. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ülést vezető elnök köteles a tárgyalási szünetet elrendelni, ha azt a 21. § szerinti jogosult vagy az előterjesztő kéri.
+
+## (4) A minősített többséget igénylő döntést követően, az elfogadáshoz szükséges minősített többség hiányában az 50. § (4) bekezdését kell alkalmazni, azzal, hogy az egyszerű többséget igénylő egységes javaslat az (1) bekezdés szerinti, zárószavazásra bocsátott szöveg egyszerű többséget igénylő rendelkezéseit tartalmazza.”

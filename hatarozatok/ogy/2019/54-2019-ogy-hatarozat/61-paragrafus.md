@@ -1,3 +1,3 @@
-## 60. §[^60]
+## 60. § A HHSZ 125. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^60]: A 60. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(2) Azon az ülésnapon, amelynek napirendjén vagy tervezett napirendjén az azonnali kérdések órája szerepel, legkésőbb az ülésnap megnyitása előtt egy órával a képviselőcsoport vezetője kérheti, hogy az általa megjelölt képviselők az általa megjelölt sorrendben az azonnali kérdések órájának keretében kérdést tehessenek fel. A képviselőcsoport vezetője az ülésnap megkezdéséig tájékoztathatja a házelnököt arról, hogy a sorrend megváltoztatása nélkül a korábban megjelölt képviselők körét a kérdés elmondására jogosult további képviselővel kiegészíti.”

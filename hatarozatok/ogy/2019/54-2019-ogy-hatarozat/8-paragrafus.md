@@ -1,3 +1,1 @@
-## 7. §[^8]
-
-[^8]: A 7. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(7) Ha a házszabályi rendelkezésekben előírt feltételek nem teljesülnek, a napirendi pont tárgyalására vagy a napirendi pont szerinti döntéshozatalra nem kerül sor, és az külön döntés nélkül lekerül a napirendről. A hiányzó feltételeket és a napirend módosulását az ülést vezető elnök ismerteti, és kezdeményezi a (2) bekezdés szerint szükséges intézkedések megtételét.”

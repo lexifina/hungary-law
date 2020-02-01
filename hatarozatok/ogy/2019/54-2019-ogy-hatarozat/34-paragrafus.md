@@ -1,3 +1,5 @@
-## 33. §[^34]
+## 33. § A HHSZ 63. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
 
-[^34]: A 33. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(2) Az összevont vitában elsőként a törvényjavaslat előterjesztője, majd – ha nem a Kormány az előterjesztő – a Kormány képviselője szólal fel. Ezt követően a törvényalkotási bizottság által kijelölt előadó, majd – ha a törvényalkotási bizottságban van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. A bizottsági felszólalásokra összesen tizenöt perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, hét percet annak kifejtésére kell biztosítani.
+
+## (3) A képviselőcsoportok álláspontjukat harminc-harmincperces időtartamban fejthetik ki. A független képviselők összesen nyolcperces időtartamban szólalhatnak fel. A nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló felszólalására nyolcperces időtartam áll rendelkezésre. Vita közben a kétperces hozzászólalásokat bele kell számítani az időtartamba. A vita közben a törvényjavaslat előterjesztője, valamint – ha nem a Kormány az előterjesztő – a Kormány képviselője bármikor felszólalhat. Az előterjesztőnek a határozathozatal előtt viszonválaszra van joga. A törvényjavaslat előterjesztője az összevont vitában álláspontját összesen huszonöt perces időtartamban, valamint – ha nem a Kormány az előterjesztő – a Kormány képviselője álláspontját összesen tizenöt perces időtartamban fejtheti ki.”

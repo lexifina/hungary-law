@@ -1,3 +1,3 @@
-## 69. §[^69]
+## 69. § A HHSZ 146. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^69]: A 69. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(6) Az (5) bekezdésben rögzített határidő számításánál a rendes ülésszakok közötti időtartamot és az adatbeszerzés időtartamát figyelmen kívül kell hagyni.”

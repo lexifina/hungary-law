@@ -1,3 +1,3 @@
-## 47. §[^47]
+## 47. § A HHSZ 93. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^47]: A 47. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(1) A költségvetési ügyekkel foglalkozó bizottság a részletes vitát lezáró bizottsági módosító javaslatok tárgyalásának befejezéséről a 92. § (6) bekezdése szerinti tájékoztatás megküldését követően – a Házbizottság által megállapított határidőben – összegző jelentést és összegző módosító javaslatot nyújt be. Ha a költségvetési ügyekkel foglalkozó bizottság olyan bizottsági módosító javaslatot támogat, amely miatt a központi költségvetés egyenlegének, továbbá a költségvetési törvényjavaslat költségvetési fejezetei bevételi és kiadási főösszegének megváltoztatása szükséges, összegző módosító javaslatának tartalmaznia kell az ezekre vonatkozó módosításokat is.”

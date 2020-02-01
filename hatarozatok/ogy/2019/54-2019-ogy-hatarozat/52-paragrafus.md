@@ -1,3 +1,1 @@
-## 51. §[^51]
-
-[^51]: Az 51. § a 79. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
+## „(3) A (2) bekezdés szerinti kiigazítást a törvényjavaslat előterjesztője nyújthatja be azt az ülésnapot megelőző munkanapon, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat zárószavazása szerepel.”
