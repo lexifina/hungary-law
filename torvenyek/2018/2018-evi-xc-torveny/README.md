@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-90-00-00
 | 2019-02-02 | 2010. évi CXXX. törvény | 2018-90-00-00.6 |
 | 2019-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-90-00-00.7 |
 | 2019-09-02 | 2010. évi CXXX. törvény | 2018-90-00-00.8 |
+| 2020-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-90-00-00.9 |
