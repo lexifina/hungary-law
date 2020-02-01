@@ -28,6 +28,8 @@ b) 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás 
 
 (5) A végrehajtás (biztosítási intézkedés) elrendeléséért további munkadíj, költségtérítés és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
+(5a) A közjegyző által elrendelt végrehajtási eljárás során benyújtott végrehajtási lap visszavonása vagy végrehajtási záradék törlése iránti kérelem előterjesztéséért a közjegyző részére díjat kell fizetni, amelynek mértéke 15 000 forint. Ha a kérelem alapos, a közjegyző a végrehajtási lap visszavonása, vagy a végrehajtási záradék törlése tárgyában hozott döntésében hivatalból rendelkezik a megfizetett díjnak a kérelmet előterjesztő részére történő visszafizetéséről.
+
 (6) A közjegyző által foganatosítandó hirdetményi kézbesítésre az egyes közjegyzői nemperes eljárásokról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (7) A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) és a végrehajtást elrendelő közjegyző a végrehajtás elrendelése során keletkezett adatokat kezeli. A MOKK az elrendelt végrehajtási ügyre vonatkozó adatokat a számítástechnikai rendszerén keresztül elektronikus úton továbbítja a Kar hivatali szerve részére.
