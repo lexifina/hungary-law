@@ -8,7 +8,7 @@
 
 4.
 
-5.
+5. 113. §-a,
 
 6.
 
@@ -22,34 +22,34 @@
 
 1.
 
-2.
+2. 55. § (2) bekezdésében az „Amennyiben az EKR e törvény végrehajtási rendeletében szabályozott üzemzavara folytán nem lehetséges a módosító hirdetményt az ajánlattételi vagy részvételi határidő lejártáig feladni, az ajánlatkérő az ajánlattételi, illetve részvételi határidő módosításáról szóló hirdetményt az ajánlattételi vagy a részvételi határidő lejárta után is feladhatja. A módosításról szóló hirdetményt az üzemzavar elhárulását követően haladéktalanul, de legkésőbb a következő munkanapon fel kell adni és erre a körülményre a módosító hirdetményben utalni kell.”,
 
-3.
+3. 69. § (5) bekezdésében a „valamely kizáró ok vagy alkalmassági feltétel, valamint – adott esetben – a 82. § (5) bekezdése szerinti objektív kritérium tekintetében”,
 
-4.
+4. 114. § (13) bekezdésében az „, a 113. § (1) bekezdés szerinti összefoglaló tájékoztatással kapcsolatban az érdeklődés jelzésére meghatározott határidő lejártáig”,
 
-5.
+5. 115. § (2) bekezdésében az „A 113. § nem alkalmazandó.”,
 
-6.
+6. 148. § (2) bekezdésében a „, valamint a 113. § (1) bekezdése szerinti tájékoztatás”,
 
-7.
+7. 148. § (7) bekezdés a) pontjában az „és a 113. § (1) bekezdése szerinti tájékoztatás”,
 
-8.
+8. 148. § (7) bekezdés b) pontjában az „, az EKR-ben az előírt határidő lejártánál később rögzített 113. § (1) bekezdése szerinti, a tájékoztatás visszavonásáról szóló értesítés esetében az értesítés EKR-ben történt közzétételétől számított tizenötödik napot”,
 
-9.
+9. 148. § (8) bekezdés a) pontjában az „és a 113. § (1) bekezdése szerinti tájékoztatás”, és a „vagy tájékoztatás”,
 
-10.
+10. 148. § (8) bekezdés b) pontjában az „és az előírt határidő lejártánál később megküldött 113. § (1) bekezdése szerinti értesítés” és a „vagy értesítés”,
 
-11.
+11. 150. § (2) bekezdésében a „, valamint a 113. § (1) bekezdése szerinti tájékoztatás”,
 
-12.
+12. 151. § (5) bekezdésében az „, a 113. § (1) bekezdése szerinti tájékoztatást”,
 
 13.
 
-14.
+14. 187. § (2) bekezdés f) pontjában az „a 113. § (1) bekezdésében szereplő tájékoztatások honlapján történő közzétételéről, valamint”,
 
 15.
 
-16.
+16. 198. § (2) bekezdés a) pontjában az „a 113. § (1) bekezdése szerinti összefoglaló tájékoztatások további adataira és részletes adattartalmára vonatkozó rendelkezéseket, valamint – az adópolitikáért felelős miniszter egyetértésével – az összefoglaló tájékoztatások közzétételéért fizetendő igazgatási szolgáltatási díj mértékét és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,”
 
 szövegrész.
