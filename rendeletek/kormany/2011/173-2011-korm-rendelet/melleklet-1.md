@@ -138,7 +138,7 @@ ahol:
 
 5.1.4.1. a legfeljebb 20 fős létszámú, nem pirotechnikai raktárépületeknél,
 
-5.1.4.2. a 20 fő feletti létszámú, pirotechnikai raktárépülethez tartozó, az Országos Tűzvédelmi Szabályzat kiadásáról szóló 9/2008. (II. 22.) ÖTM rendelet (a továbbiakban: OTSZ) szerint besorolt építményeknél,
+5.1.4.2. a 20 fő feletti létszámú, pirotechnikai raktárépülethez tartozó, az OTSZ szerint besorolt építményeknél,
 
 5.1.4.3. a 10 fő feletti, „RV-besorolású” építményeknél,
 
@@ -220,4 +220,4 @@ ahol:
 
 |  | 20 | 1 | a kifúvófal és kifúvó födém esetében. |
 
-[^143]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja szerint módosított szöveg.
+[^143]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
