@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2019-01-01 | 2018. évi CX. törvény | 2009-155-00-00.30 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2009-155-00-00.31 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2009-155-00-00.32 |
+| 2020-02-01 | 2019. évi CXVI. törvény | 2009-155-00-00.33 |

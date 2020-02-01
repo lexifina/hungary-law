@@ -34,7 +34,7 @@ m) a kormánybiztos, a miniszterelnöki biztos,
 
 n) a Kormány ügyrendje szerint működő testület vezetője,
 
-o) az autonóm államigazgatási szerv vezetője, az önálló szabályozó szerv vezetője, a kormányhivatal vezetője,
+o) az autonóm államigazgatási szerv vezetője, az önálló szabályozó szerv vezetője, a kormányzati főhivatal vezetője,
 
 p) a rendvédelmi szerv központi szerve, a Katonai Nemzetbiztonsági Szolgálat vezetője,
 
