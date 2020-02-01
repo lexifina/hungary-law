@@ -10,12 +10,13 @@
 
 (5) A díjazásban vagy megvételben nem részesített pályaműveket az ajánlatkérő a pályázónak megkeresés után visszaadja, vagy a kiírásban rendelkezhet úgy, hogy a pályamű egy példányát a tervpályázat tárgyának kulturális jelentőségére tekintettel megőrzi és – a 23. § (3) bekezdés a) pontja szerinti nyilatkozat hiányában – kiállíthatja.
 
-(6) A tervpályázati eljárás eredményét külön jogszabályban meghatározott minta szerint és módon kell közzétenni. Az eljárás eredményéről szóló tájékoztatót tartalmazó hirdetményt a Kbt. 37. § (2) bekezdésében meghatározott tíz munkanapon belül kell megküldeni közzétételre. A tervpályázati eljárás az eljárás eredményéről szóló tájékoztató közzétételével zárul le.
+(6)[^20] A tervpályázati eljárás eredményét külön jogszabályban meghatározott minta szerint és módon kell közzétenni. Az eljárás eredményéről szóló tájékoztatót tartalmazó hirdetményt a Kbt. 37. § (2) bekezdésében meghatározott három munkanapon belül kell megküldeni közzétételre. A tervpályázati eljárás az eljárás eredményéről szóló tájékoztató közzétételével zárul le.
 
 (7) A (6) bekezdés szerinti hirdetményben nem kell megadni azokat az információkat, amelyek közzététele akadályozná a jogérvényesítést, ellentétes lenne a közérdekkel, sértené valamely gazdálkodó szervezet üzleti érdekeit vagy a szolgáltatók közötti tisztességes versenyt.
 
-(8)[^20] Állami tulajdonban lévő műemlékeket érintő pályázati dokumentációk eredeti vagy másolati példányait az (1) és (5) bekezdésben meghatározott esetben a kulturális örökség védett elemeinek központi nyilvántartása feladatkörében eljáró kulturális örökség védelméért felelős miniszter számára meg kell küldeni.
+(8)[^21] Állami tulajdonban lévő műemlékeket érintő pályázati dokumentációk eredeti vagy másolati példányait az (1) és (5) bekezdésben meghatározott esetben a kulturális örökség védett elemeinek központi nyilvántartása feladatkörében eljáró kulturális örökség védelméért felelős miniszter számára meg kell küldeni.
 
 [^18]: A 27. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^19]: A 27. § (4) bekezdése a 280/2018. (XII. 21. Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^20]: A 27. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § b) pontja szerint módosított szöveg.
+[^20]: A 27. § (6) bekezdése a 9/2020. (I. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^21]: A 27. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § b) pontja szerint módosított szöveg.

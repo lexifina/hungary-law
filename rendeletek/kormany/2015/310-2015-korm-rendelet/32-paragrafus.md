@@ -16,8 +16,8 @@ e) honvédelmi, katonai és nemzetbiztonsági célú, illetve rendeltetésű ép
 
 (4) Az ajánlatkérő az alkalmassági követelményeket nem határozhatja meg oly módon, hogy egyes jelentkezőket az eljárásból kizár, vagy más módon indokolatlan és hátrányos vagy előnyös megkülönböztetésüket eredményezi.
 
-(5)[^21] Az alkalmasság vizsgálatának eredményét ki kell hirdetni. Az eredményhirdetést követően öt napon belül a meghívottak számára a dokumentációt meg kell küldeni.
+(5)[^22] Az alkalmasság vizsgálatának eredményét ki kell hirdetni. Az eredményhirdetést követően öt napon belül a meghívottak számára a dokumentációt meg kell küldeni.
 
 (6) Az ajánlatkérő az alkalmas – létszám vagy keretszám meghatározása esetén az alkalmassági követelmények alapján kiválasztott – jelentkezőket az (5) bekezdésben foglalt határidőben egyidejűleg, közvetlenül, írásban hívja fel pályamű benyújtására.
 
-[^21]: A 32. § (5) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^22]: A 32. § (5) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
