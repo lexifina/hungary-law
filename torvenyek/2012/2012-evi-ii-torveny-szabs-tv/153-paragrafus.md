@@ -24,7 +24,7 @@ i) a pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoz
 
 j) a kiszabott büntetés, alkalmazott intézkedés elengedésének, illetve mérséklésének tényét, az erről szóló határozatot hozó szerv megnevezését, határozatának számát és keltét,
 
-k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
+k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának, felfüggesztésének vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
 
 l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás tényleges kezdő és utolsó napját, az azonnali szabadítás elrendelésének az időpontját, az elzárás felfüggesztésének tényét és a próbaidő tartamát,
 
@@ -80,4 +80,4 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 
 (5) A (3) bekezdés a), c) és d) pontjában meghatározott adatokat az előkészítő eljárást lefolytató szerv vagy a szabálysértési hatóság is közölheti.
 
-(6) Ha a bíróság a büntetőeljárásról szóló 1998. évi XIX. törvény 337. § (1) bekezdése szerint jár el, akkor a (3) bekezdés a) pontja, valamint a 154. § (3) bekezdése szerinti adatrögzítési kötelezettségének az általános szabálysértési hatóság útján tesz eleget.
+(6) Ha a bíróság a büntetőeljárásról szóló 2017. évi XC. törvény 573. § (1) bekezdése szerint jár el, akkor a (3) bekezdés a) pontja, valamint a 154. § (3) bekezdése szerinti adatrögzítési kötelezettségének az általános szabálysértési hatóság útján tesz eleget.

@@ -2,7 +2,19 @@
 
 87. § (1) Akit a szabálysértési hatóság, a bíróság, valamint a helyszíni bírság kiszabására jogosult szerv vagy személy az eljárási cselekményre idéz, köteles megjelenni. A szabálysértési hatóság, a bíróság, valamint a helyszíni bírság kiszabására jogosult szerv vagy személy azt idézi, akinek a meghallgatása indokolt vagy jelenléte kötelező. Az idézés ellen nincs helye jogorvoslatnak.
 
-(2) Az idézést – e törvényben foglaltak kivételével – írásban kell közölni úgy, hogy azt az idézett személy az idézésben megjelölt napnál öt nappal korábban megkapja. Ha ugyanabban az eljárásban az idézett személlyel szemben korábban eljárási cselekményt foganatosítottak, úgy az idézést három nappal korábban kell megkapnia. Az idézésben meg kell jelölni, hogy a szabálysértési hatóság, illetve a bíróság az idézett személyt milyen ügyben és milyen minőségben kívánja meghallgatni, egyúttal figyelmeztetni kell a megjelenés elmulasztásának következményeire.
+(2) Az e törvényben foglalt kivételekkel az idézést, illetve az értesítést írásban kell közölni úgy, hogy azt a címzett legkésőbb az eljárási cselekmény időpontja előtt öt nappal megkapja.
+
+(2a) Az idézésben, illetve értesítésben meg kell jelölni
+
+a) az idézést, illetve értesítést kibocsátó bíróság vagy szabálysértési hatóság megnevezését, az ügy számát,
+
+b) azt, hogy az idézettnek hol, mikor, milyen minőségben kell megjelennie,
+
+c) azt, hogy az értesített hol, mikor, milyen minőségben jelenhet meg,
+
+d) a távolmaradás következményeire való figyelmeztetést.
+
+(2b) Az idézett az idézésben felhívható arra, hogy az ügyre vonatkozó iratain kívül a bizonyításnál felhasználható feljegyzéseit vagy egyéb tárgyait hozza magával.
 
 (3) Ha az idézés kézbesítésére a (2) bekezdésben meghatározott tartamnál rövidebb idő alatt kerül sor, az idézett személy beleegyezése esetén az eljárási cselekményt foganatosítani lehet.
 

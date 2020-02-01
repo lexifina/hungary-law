@@ -4,7 +4,13 @@
 
 (1a) A szabálysértési elzárást a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában kell végrehajtani, ha az elkövető a rendőrség őrizetében van, és a 9. § (3) bekezdése szerinti beszámítást követően az elzárás hátralevő tartama a két napot nem haladja meg. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani.
 
-(1b) A szabálysértési elzárás végrehajtását az elfogás helye szerinti illetékes rendőrségi fogdában kell megkezdeni, ha az elkövető büntetés-végrehajtási intézetbe történő előállítására a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában vagy az elkülönítési szabályok betartása miatt nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani, amelynek az elkövetőt a hivatali munkarendjén kívül is be kell fogadnia.
+(1b) A szabálysértési elzárás végrehajtását
+
+a) az elfogás helye szerinti illetékes rendőrségi fogdában kell megkezdeni, ha az elkövető büntetés-végrehajtási intézetbe történő előállítására,
+
+b) a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában kell megkezdeni az (1a) bekezdésben foglaltakon kívül abban az esetben is, ha az elkövető büntetés-végrehajtási intézetbe történő átszállítására
+
+a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában vagy az elkülönítési szabályok betartása miatt nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani, amelynek az elkövetőt a hivatali munkarendjén kívül is be kell fogadnia.
 
 (1c) Az (1b) bekezdés szerint megkezdett szabálysértési elzárást a rendőrségi fogdán kell végrehajtani, ha a szabálysértési elzárás hátralévő ideje a büntetés-végrehajtási intézetbe történő befogadáskor kevesebb lenne, mint két nap.
 
