@@ -1,6 +1,6 @@
 14. § (1) Az állampolgársági kérelem – kormányrendeletben meghatározott formanyomtatványok szerint – tartalmazza az érintett
 
-a) születési családi és utónevét, házassági családi és utónevét, korábbi házassági családi és utónevét (a továbbiakban együtt: név), születési helyét és idejét, anyja nevét, nemét,
+a) születési családi és utónevét, házassági családi és utónevét, korábbi házassági családi és utónevét (a továbbiakban együtt: név), születési helyét és idejét, anyja születési családi és utónevét, nemét,
 
 b) családi állapotára vonatkozó adatokat, a jelenlegi és korábbi házasságkötésének helyét és idejét, a házastárs vagy volt házastárs nevét, születési helyét és idejét, állampolgárságát, magyar származására vonatkozó adatokat,
 
@@ -28,7 +28,7 @@ j) elérhetőségét az állampolgársági ügyekben eljáró szervvel és a min
 
 (5) Az állampolgársági kérelemhez
 
-a) a külföldi okiratot eltérő nemzetközi szerződés vagy viszonossági gyakorlat hiányában – ha ennek kormányrendelet szerinti elháríthatatlan akadálya nincs – diplomáciai felülhitelesítéssel,
+a) a külföldi okiratot eltérő nemzetközi szerződés, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy viszonossági gyakorlat hiányában – ha ennek kormányrendelet szerinti elháríthatatlan akadálya nincs – diplomáciai felülhitelesítéssel,
 
 b) az idegen nyelvű okiratot hiteles magyar nyelvű fordítással
 

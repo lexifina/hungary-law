@@ -16,7 +16,7 @@ e) a Központi Statisztikai Hivatalnak.
 
 a) betekinthet az anyakönyvbe, az anyakönyvi alapiratokba, és ezekről másolatot kérhet;
 
-b) adatot kérhet és betekinthet a személyiadat- és lakcímnyilvántartásba, az idegenrendészeti nyilvántartásba, a menekültügyi nyilvántartásba és az útiokmány-nyilvántartásba;
+b) adatot kérhet és betekinthet a személyiadat- és lakcímnyilvántartásba, az idegenrendészeti nyilvántartásba, a menekültügyi nyilvántartásba, az útiokmány-nyilvántartásba, valamint a honosítási eljárásban a 4. § (1) bekezdés c) és d) pontjában meghatározott feltételek fennállásának ellenőrzéséhez szükséges, a kérelmező tekintetében lefolytatott idegenrendészeti és menekültügyi eljárások irataiban foglalt, a kérelmezőre vonatkozó adatokba;
 
 c) adatot kérhet a rendőrségi, a bűntettesek és a büntetőeljárás alatt állók nyilvántartásából, valamint az ügyészségtől és a bíróságtól;
 

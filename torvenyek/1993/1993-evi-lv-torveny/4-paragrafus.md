@@ -14,7 +14,7 @@ d) honosítása Magyarország közbiztonságát és nemzetbiztonságát nem sér
 
 e) igazolja, hogy alkotmányos alapismeretekből magyar nyelven eredményes vizsgát tett, vagy ez alól a törvény alapján mentesül.
 
-(2) Kedvezményesen honosítható az a nem magyar állampolgár, aki a kérelme előterjesztését megelőzően legalább három évig folyamatosan Magyarországon lakott, és az (1) bekezdés b)–e) pontjában meghatározott feltételek fennállnak, ha
+(2) Kedvezményesen honosítható az a nem magyar állampolgár, aki a kérelme előterjesztését megelőző három éven át folyamatosan Magyarországon lakott, és az (1) bekezdés b)–e) pontjában meghatározott feltételek fennállnak, ha
 
 a) magyar állampolgárral legalább három éve érvényes házasságban él, vagy házassága a házastárs halálával szűnt meg,
 
@@ -40,7 +40,7 @@ b) az (1) bekezdés b) és d) pontjában meghatározott feltételeknek megfelel,
 
 c) magyar nyelvtudását igazolja.
 
-(4) Kedvezményesen honosítható az a nem magyar állampolgár, akinek a kérelem benyújtását megelőzően legalább öt éven át folyamatosan Magyarországon volt a lakóhelye, és az (1) bekezdés b)–e) pontjaiban meghatározott feltételek fennállnak, ha
+(4) Kedvezményesen honosítható az a nem magyar állampolgár, akinek a kérelem előterjesztését megelőző öt éven át folyamatosan Magyarországon volt a lakóhelye, és az (1) bekezdés b)–e) pontjaiban meghatározott feltételek fennállnak, ha
 
 a) az ország területén született;
 
@@ -54,4 +54,4 @@ c)
 
 (7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) előterjesztésére – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
 
-(8) A magyar nyelvtudás igazolásától el lehet tekinteni cselekvőképtelen vagy korlátozottan cselekvőképes személyek esetében.
+(8) A magyar nyelvtudás igazolásától el lehet tekinteni cselekvőképtelen személyek esetében.

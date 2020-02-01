@@ -2,7 +2,7 @@
 
 a) aki bevándorolt vagy letelepedett jogállású,
 
-b) akit menekültként elismertek, valamint
+b) akit menekültként vagy oltalmazottként elismertek, valamint
 
 c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, és bejelentési kötelezettségének eleget tett.
 
