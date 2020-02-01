@@ -1,1 +1,1 @@
-16. § Az Iasz. 6. § (1) bekezdésében az „a végrehajtási ügyintéző, továbbá a törvényszéki végrehajtó, végrehajtó-helyettes és a végrehajtójelölt” szövegrész helyébe a „továbbá a végrehajtási ügyintéző” szöveg lép.
+16. §
