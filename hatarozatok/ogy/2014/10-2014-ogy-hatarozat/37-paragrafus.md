@@ -16,7 +16,7 @@ e) vita közben a kétperces hozzászólásokat bele kell számítani az időker
 
 f) az ügyrendi hozzászólásokat nem kell beleszámítani az időkeretbe,
 
-g) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló számára legkevesebb húsz percet kell biztosítani, ami nem számít bele az időkeretbe,
+g)[^50] a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló felszólalására, valamint a további nemzetiségi képviselői és szószólói felszólalásokra legkevesebb húsz percet kell biztosítani, ami nem számít bele az időkeretbe,
 
 h) az európai uniós kérdéssel összefüggő napirendi pont esetében az európai parlamenti képviselő felszólalási ideje a 35. § (2) bekezdése szerinti megkülönböztetésnek megfelelően,
 
@@ -24,7 +24,13 @@ ha) amennyiben a képviselőcsoport vezetője útján jelentkezett, úgy annak a
 
 hb) amennyiben közvetlenül jelentkezett, úgy nem számít bele az időkeretbe, és részére az egy független képviselőre jutó felszólalási idővel megegyező felszólalási időt kell biztosítani,
 
-i) az Országgyűlésről szóló törvény alapján tanácskozási joggal rendelkező személy felszólalása – a Kormány képviselője, valamint az európai parlamenti képviselő h) pont ha) alpontja szerinti felszólalása kivételével – nem számít bele az időkeretbe.
+i) az Országgyűlésről szóló törvény alapján tanácskozási joggal rendelkező személy felszólalása – a Kormány képviselője, valamint az európai parlamenti képviselő h) pont ha) alpontja szerinti felszólalása kivételével – nem számít bele az időkeretbe,
+
+j)[^51] ha a napirendi pont tárgyalása több ülésnap napirendjén is szerepel,
+
+ja) a rendelkezésre álló időkeretet ülésnaponként kell meghatározni, és
+
+jb) a korábbi ülésnapon fel nem használt időkeret nem adódik hozzá a későbbi ülésnapon felhasználható időkerethez.
 
 (3) Az általános vita időkeretét a képviselőcsoport vezetője vagy legalább öt független képviselő írásbeli kérelmére nem lehet
 
@@ -60,6 +66,8 @@ c) nemzetiségi képviselő és szószóló aláírásával két alkalommal tám
 
 (7) A soros jegyző méri és képviselőcsoportonként összesíti a képviselők által igénybe vett felszólalási időt. Tájékoztatja az ülést vezető elnököt arról, ha a képviselőcsoport, a képviselő vagy a szószóló felszólalási idejét kitöltötte. A 36. § (6)–(7) bekezdése szerinti felszólalások addig folytathatók, amíg az (1) bekezdés szerint megállapított időkeret el nem fogy.
 
-(8)[^13] Időkeretes tárgyalási rendben a 35. § (8) bekezdését és a 38. § (1) bekezdés a) pontját nem kell alkalmazni.
+(8)[^52] Időkeretes tárgyalási rendben a 35. § (8) bekezdését és a 38. § (1) bekezdés a) pontját nem kell alkalmazni.
 
-[^13]: A 37. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 2. §-ával megállapított szöveg.
+[^50]: A 37. § (2) bekezdés g) pontja az 54/2019. (XII. 17.) OGY határozat 19. § (1) bekezdésével megállapított szöveg.
+[^51]: A 37. § (2) bekezdés j) pontját az 54/2019. (XII. 17.) OGY határozat 19. § (2) bekezdése iktatta be.
+[^52]: A 37. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 2. §-ával megállapított szöveg.

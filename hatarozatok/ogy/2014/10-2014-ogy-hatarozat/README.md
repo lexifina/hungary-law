@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-10-30-4
 | 2019-01-01 | 2014-10-30-41.4 | 36/2018. (XII. 13.) OGY határozat |
 | 2019-04-15 | 2014-10-30-41.5 | 13/2019. (IV. 2.) OGY határozat |
 | 2020-01-01 | 2014-10-30-41.6 | 54/2019. (XII. 17.) OGY határozat |
+| 2020-02-01 | 2014-10-30-41.7 | 54/2019. (XII. 17.) OGY határozat |

@@ -1,211 +1,245 @@
-2. melléklet a 10/2014. (II. 24.) OGY határozathoz
+## Az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (1)–(5) bekezdése, valamint a határozati házszabályi rendelkezések 25/A. § (1) bekezdése szerint .................................................................................. képviselőt megbízom, hogy a 20..................................................................................-én elrendelt kitiltásom teljes időtartama alatt az Országgyűlés nyílt szavazásain a nevemben – szándékom szerint – szavazzon.
+
+## Budapest, 20.................................................
+
+## .................................................................................. ..................................................................................
+
+## megbízó megbízott
+
+## * A képviselőcsoporthoz tartozó kitiltott képviselő a szavazati jogának az Országgyűlés ülésén történő gyakorlása érdekében a kitiltása teljes időtartamára a képviselőcsoport vezetője részére adhat képviseleti megbízást [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (2) bekezdése alapján]. A kitiltott képviselőcsoport-vezető a szavazati jogának az Országgyűlés ülésén történő gyakorlása érdekében vezetőhelyettese részére adhat megbízást [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (3) bekezdése alapján]. A kitiltott független képviselő a szavazati jogának az Országgyűlés ülésén történő gyakorlása érdekében kitiltása teljes időtartamára egy képviselő részére adhat képviseleti megbízást [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (4) bekezdése alapján].
+
+## A kitiltott képviselő képviseleti megbízást csak a nyílt szavazás esetére adhat, a titkos szavazáson csak személyesen gyakorolhatja szavazati jogát [az Országgyűlésről szóló 2012. évi XXXVI. törvény 49/A. § (1) és (7) bekezdése alapján].
+
+2. melléklet a 10/2014. (II. 24.) OGY határozathoz[^218]
 
 Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítványok
 
-1. Alkotmánybíróság visszaküldő levele alaptörvény-ellenesség miatt /79. § (1) bekezdése/
+1. Ajánlás a köztársasági elnök jelölésére vonatkozó ajánlás érvénytelenségének megállapítására /4. melléklet 1. pont 1.3. alpontja és az Országgyűlésről szóló törvény 11. § (1) bekezdés l) pontja/
 
-2. Állami Számvevőszék véleménye /91. § (1) bekezdése/
+2. Alkotmánybíróság visszaküldő levele alaptörvény-ellenesség miatt /79. § (1) bekezdése/
 
-3. Átdolgozott egységes javaslat /48. § (3) bekezdése/
+3. Állami Számvevőszék véleménye /91. § (1) bekezdése/
 
-4. Átdolgozott második egységes javaslat /49. § (4) bekezdése/
+4. Átdolgozott egységes javaslat /48. § (3) bekezdése/
 
-5. Bizottság állásfoglalása /76. § (8) bekezdése, 78. § (5) bekezdése, 79. § (4) bekezdése, az Országgyűlésről szóló törvény 22. § (2) bekezdése és 50. § (3) bekezdése/
+5. Átdolgozott második egységes javaslat /49. § (4) bekezdése/
 
-6. Bizottság kijelölése beszámoló tárgyalására /83. § (1) bekezdése/
+6. Átdolgozott túlterjeszkedő módosító javaslat /70. § (5) bekezdés b) pont/
 
-7. Bizottság kijelölése kijelölt bizottság mulasztása miatt /68. § (3) bekezdése/
+7. Bizottság állásfoglalása /76. § (8) bekezdése, 78. § (5) bekezdése, 79. § (4) bekezdése, az Országgyűlésről szóló törvény 22. § (2) bekezdése/
 
-8. Bizottság kijelölése országos népszavazás elrendelésére vonatkozó országgyűlési határozati javaslat benyújtására /88. § (2) bekezdése/
+8. Bizottság kijelölése beszámoló tárgyalására /83. § (1) bekezdése/
 
-9. Bizottság kijelölése részletes vita lefolytatására /32. § (1) bekezdése/
+9. Bizottság kijelölése előző ciklusban benyújtott képviselői módosító javaslatok megtárgyalására /157/A. § (2) bekezdése/
 
-10. Bizottság kijelölése tárgysorozatba vételre /58. § (1) bekezdése/
+10. Bizottság kijelölése kijelölt bizottság mulasztása miatt /68. § (3) bekezdése/
 
-11. Bizottsági bejelentés kiegészítő részletes vita lefolytatásáról /70. § (4) bekezdés c) pontja/
+11. Bizottság kijelölése országos népszavazás elrendelésére vonatkozó országgyűlési határozati javaslat benyújtására /88. § (2) bekezdése/
 
-12. Bizottsági bejelentés részletes vita lefolytatásáról /32. § (2) bekezdése, 92. § (4) bekezdése/
+12. Bizottság kijelölése részletes vita lefolytatására /32. § (1) bekezdése/
 
-13. Bizottsági döntés a beszámoló elfogadásáról /85. § (2) bekezdés a) pontja/
+13. Bizottság kijelölése tárgysorozatba vételre /58. § (1) bekezdése/
 
-14. Bizottsági értesítés tárgysorozatba vételre vonatkozó döntésről /58. § (4) bekezdése/
+14. Bizottsági bejelentés részletes vita lefolytatásáról /32. § (2) bekezdése/
 
-15. Bizottsági javaslat túlterjeszkedő módosító javaslat tárgyalására vonatkozóan /72. §/
+15. Bizottsági döntés a beszámoló elfogadásáról /85. § (2) bekezdés a) pontja/
 
-16. Bizottsági jelentés interpellációra adott válaszról /123. § (5) bekezdése, Országgyűlésről szóló törvény 42. § (7) bekezdése/
+16. Bizottsági értesítés tárgysorozatba vételre vonatkozó döntésről /58. § (4) bekezdése/
 
-17. Bizottsági jelentés kiegészítő részletes vitáról /70. § (5) bekezdés c) pontja/
+17. Bizottsági javaslat túlterjeszkedő módosító javaslat tárgyalására vonatkozóan /72. § (1) bekezdése/
 
-18. Bizottsági jelentés megismételt részletes vitáról /69. § (4) bekezdése/
+18. Bizottsági jelentés interpellációra adott válaszról /123. § (5) bekezdése, Országgyűlésről szóló törvény 42. § (7) bekezdése/
 
-19. Bizottsági jelentés részletes vitáról /45. § (6) bekezdése, 68. § (5) bekezdése/
+19. Bizottsági jelentés kiegészítő részletes vitáról /70. § (5) bekezdés c) pontja/
 
-20. Bizottsági nyilatkozat részletes vita lefolytatásáról /84. § (7) bekezdése, 102. § (6) bekezdése/
+20. Bizottsági jelentés megismételt részletes vitáról /69. § (4) bekezdése/
 
-21. Bizottsági vélemény közjogi tisztségviselőre tett személyi javaslatról /az Országgyűlésről szóló törvény 44. § (2) bekezdése/
+21. Bizottsági jelentés részletes vitáról /45. § (6) bekezdése, 68. § (5) bekezdése/
 
-22. Egyeztetési eljárásra irányuló kezdeményezés /73. § (1) bekezdése, 73. § (3) bekezdése/
+22. Bizottsági nyilatkozat részletes vita lefolytatásáról /84. § (7) bekezdése, 102. § (6) bekezdése/
 
-23. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított átdolgozott egységes javaslat /73. § (4) bekezdés a) pontja/
+23. Bizottsági vélemény Országgyűlés által választott közjogi tisztségviselőre tett személyi javaslatról /az Országgyűlésről szóló törvény 44. § (3) bekezdése/
 
-24. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított átdolgozott második egységes javaslat /73. § (4) bekezdés a) pontja/
+24. Döntés az összegző jelentés és az összegző módosító javaslat benyújtásának határidejéről /93. § (1) bekezdése/
 
-25. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított egységes javaslat /73. § (4) bekezdés a) pontja/
+25. Döntés iromány visszautasításáról /29. § (3) bekezdése, 121. § (4) bekezdése, 125. § (4) bekezdése/
 
-26. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított második egységes javaslat /73. § (4) bekezdés a) pontja/
+26. Döntési kérelem visszautasított módosító javaslat szabályszerűségéről /29/A. § (2) bekezdése/
 
-27. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított törvényjavaslat /73. § (4) bekezdés a) pontja/
+27. Egyeztetési eljárásra irányuló kezdeményezés /73. § (1) bekezdése, 73. § (3) bekezdése/
 
-28. Egyeztetési eljárást követő egységes javaslat /74. § (4) bekezdése/
+28. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított átdolgozott egységes javaslat /73. § (4) bekezdés a) pontja/
 
-29. Egyeztetési eljárást követő összegző jelentés /74. § (2) bekezdése/
+29. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított átdolgozott második egységes javaslat /73. § (4) bekezdés a) pontja/
 
-30. Egyeztetési eljárást követő összegző módosító javaslat /74. § (3) bekezdése/
+30. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított egységes javaslat /73. § (4) bekezdés a) pontja/
 
-31. Egységes javaslat /46. § (11) bekezdése/
+31. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított második egységes javaslat /73. § (4) bekezdés a) pontja/
 
-32. Egységes költségvetési törvényjavaslat /93. § (2) bekezdése/
+32. Egyeztetési eljárásra megküldött, zárószavazás előtti módosító javaslattal módosított törvényjavaslat /73. § (4) bekezdés a) pontja/
 
-33. Egységes költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+33. Egyeztetési eljárást követő egységes javaslat /74. § (4) bekezdése/
 
-34. Elfogadott és Alkotmánybírósághoz megküldött normakontroll-javaslat /76. § (15) bekezdése/
+34. Egyeztetési eljárást követő összegző jelentés /74. § (2) bekezdése/
 
-35. Előterjesztő nyilatkozata a 97. § (1) bekezdése szerinti zárószavazás előtti módosító javaslat benyújtásáról /96. § (2) bekezdése/
+35. Egyeztetési eljárást követő összegző módosító javaslat /74. § (3a) bekezdése/
 
-36. Előterjesztői tájékoztató /46. § (1) bekezdése, 92. § (6) bekezdése/
+36. Egységes javaslat /46. § (11) bekezdése/
 
-37. Felkérés megismételt részletes vita lefolytatására /69. § (1)–(2) bekezdése/
+37. Egységes költségvetési törvényjavaslat /93. § (2) bekezdése/
 
-38. Házbizottság javaslata a határozati házszabályi rendelkezésektől való eltérésre /65. § (1) bekezdése/
+38. Egységes költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
 
-39. Házbizottság javaslata beszámolóról történő határozathozatalra felkérésről /85. § (1) bekezdése/
+39. Egyszerű többséget igénylő egységes javaslat /50. § (4) bekezdése/
 
-40. Házbizottság javaslata részletes vitáról szóló bizottsági jelentés benyújtására irányuló határidő megállapítására /68. § (1) bekezdése/
+40. Elfogadott és Alkotmánybírósághoz megküldött normakontroll-javaslat /76. § (15) bekezdése/
 
-41. Házbizottság javaslata részletesvita-szakasz lezárására irányuló határidő megállapítására /92. § (2) bekezdése/
+41. Előterjesztő nyilatkozata a 97. § (1) bekezdése szerinti zárószavazás előtti módosító javaslat benyújtásáról /96. § (2) bekezdése/
 
-42. Házelnöki döntés iromány visszautasításáról /29. § (3) bekezdése, 121. § (4) bekezdése, 125. § (4) bekezdése/
+42. Előterjesztői tájékoztató /46. § (1) bekezdése, 92. § (6) bekezdése/
 
-42a.[^35] Helyesbítési javaslat /104. § (2) bekezdése/
+43. Felkérés megismételt részletes vita lefolytatására /69. § (1)–(2) bekezdése/
 
-43. Írásbeli válasz interpellációra/kérdésre /az Országgyűlésről szóló törvény 42. § (4) bekezdése és 42. § (8) bekezdése/
+44. Helyesbítési javaslat /104. § (2) bekezdése/
 
-44. Javaslat vita lezárására /39. § (1) bekezdése/
+45. Írásbeli válasz interpellációra/kérdésre /az Országgyűlésről szóló törvény 42. § (4) bekezdése és 42. § (8) bekezdése/
 
-45. Javaslat zárószavazás elhalasztásáról /48. § (3) bekezdése, 49. § (4) bekezdése, 51. § (1) bekezdése/
+46. Javaslat a határozati házszabályi rendelkezésektől való eltérésre /65. § (1) bekezdése/
 
-46. Kezdeményezés a törvényjavaslat elfogadásáról módosító javaslat hiányában /67. § (1) bekezdése/
+47. Javaslat beszámolóról történő határozathozatalra felkérésről /85. § (1) bekezdése/
 
-47. Kiegészítő egységes javaslat /71. § (6) bekezdése/
+48. Javaslat részletes vitáról szóló bizottsági jelentés benyújtására irányuló határidő megállapítására /68. § (1) bekezdése/
 
-48. Kiegészítő összegző jelentés /71. § (5) bekezdés b) pontja/
+49. Javaslat részletesvita-szakasz lezárására irányuló határidő megállapítására /92. § (2) bekezdése/
 
-49. Kiegészítő összegző módosító javaslat /71. § (5) bekezdés b) pontja/
+50. Javaslat vita lezárására /39. § (1) bekezdése/
 
-50. Kiegészítő részletes vitát lezáró módosító javaslat /70. § (5) bekezdés d) pontja/
+51. Javaslat zárószavazás elhalasztásáról /48. § (3) bekezdése, 49. § (4) bekezdése, 51. § (1) bekezdése/
 
-51. Kiigazítás /102. § (2) bekezdése/
+52. Javaslat beszámoló tárgyalás nélküli lezártnak minősítéséről /157. § (2) bekezdése/
 
-52. Kivételességi javaslat /61. § (1) bekezdése/
+53. Kezdeményezés a törvényjavaslat elfogadásáról módosító javaslat hiányában /67. § (1) bekezdése/
 
-53. Kormány tájékoztatása az egyeztetési eljárás eredményéről /74. § (1) bekezdése/
+54. Kérelem az előző ciklusban elvégzett egyes eljárási cselekmények megismétlésére /157/A. § (5) bekezdése/
 
-54. Költségvetési Tanács előzetes hozzájárulása /98. § (2) bekezdése/
+55. Kiegészítő egységes javaslat /71. § (7) bekezdése/
 
-55. Költségvetési Tanács észrevétele /91. § (1) bekezdése/
+56. Kiegészítő előterjesztői tájékoztató /71. § (4) bekezdés b) pontja/
 
-56. Költségvetési Tanács véleménye költségvetési törvényjavaslatról vagy egységes költségvetési törvényjavaslatról /96. § (1) bekezdés a) pontja/
+57. Kiegészítő összegző jelentés /71. § (5) bekezdés b) pontja/
 
-57. Költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+58. Kiegészítő összegző módosító javaslat /71. § (5) bekezdés c) pontja/
 
-58. Költségvetési törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés b) pontja/
+59. Kiigazítás /102. § (2) bekezdése/
 
-59. Költségvetési törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+60. Kivételességi javaslat /61. § (1) bekezdése/
 
-60. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés a) pontja/
+61. Kormány tájékoztatása az egyeztetési eljárás eredményéről /74. § (1) bekezdése/
 
-61. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+62. Kormány nyilatkozata az előző ciklusban a Kormány által benyújtott önálló indítványok tárgysorozaton maradásáról /157. § (4) bekezdése/
 
-62. Köztársasági elnök megfontolásra visszaküldő levele /78. § (1) bekezdése/
+63. Költségvetési Tanács előzetes hozzájárulása /98. § (2) bekezdése/
 
-63. Köztársasági elnök visszaküldő levele alaptörvény-ellenesség miatt /79. § (1) bekezdése/
+64. Költségvetési Tanács észrevétele /91. § (1) bekezdése/
 
-64. Köztársasági elnöknek aláírásra megküldött törvény szövege /Alaptörvény 6. cikk (3) bekezdése/
+65. Költségvetési Tanács véleménye költségvetési törvényjavaslatról vagy egységes költségvetési törvényjavaslatról /96. § (1) bekezdés a) pontja/
 
-65. Külön szavazás kérése az összegző módosító javaslat, a második összegző módosító javaslat valamely pontjáról /48. § (2) bekezdése, 49. § (3) bekezdése/
+66. Költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
 
-66. Második egységes javaslat /48. § (7) bekezdése/
+67. Költségvetési törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés b) pontja/
 
-67. Második egységes költségvetési törvényjavaslat /93. § (3) bekezdése/
+68. Költségvetési törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
 
-68. Második egységes költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
+69. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított, a Költségvetési Tanácsnak megküldött szövege /95. § (2) bekezdés a) pontja/
 
-69. Második összegző jelentés /48. § (7) bekezdése/
+70. Költségvetési törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított szövegének a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
 
-70. Második összegző módosító javaslat /48. § (7) bekezdése/
+71. Köztársasági elnök megfontolásra visszaküldő levele /78. § (1) bekezdése/
 
-71. Megismételt részletes vitát lezáró bizottsági módosító javaslat /69. § (4) bekezdése/
+72. Köztársasági elnök visszaküldő levele alaptörvény-ellenesség miatt /79. § (1) bekezdése/
 
-72. Módosító javaslat /40. §/
+73. Köztársasági elnöknek aláírásra megküldött törvény szövege /Alaptörvény 6. cikk (3) bekezdése/
 
-73. Módosító javaslat a Gst. 25. § (5) bekezdése alapján /97. § (4) bekezdése/
+74. Külön szavazás kérése az összegző módosító javaslat, a második összegző módosító javaslat valamely pontjáról /48. § (2) bekezdése, 49. § (3) bekezdése/
 
-74. Módosító javaslat alaptörvény-ellenesség kiküszöbölése érdekében /79. § (2) bekezdése/
+75. Második egységes javaslat /48. § (7) bekezdése/
 
-75. Módosító javaslat az egyeztetési eljárás eredményének megfelelően /74. § (1) bekezdése/
+76. Második egységes költségvetési törvényjavaslat /93. § (3) bekezdése/
 
-76. Módosító javaslat az elfogadott, de ki nem hirdetett törvényhez /78. § (3) bekezdése/
+77. Második egységes költségvetési törvényjavaslatnak a 97. § szerinti eljárásban elfogadott módosító javaslattal egybeszerkesztett, a Költségvetési Tanácsnak megküldött szövege /98. § (1) bekezdés a) pontja/
 
-77. Módosító javaslat benyújtási határidejének megállapítása normakontroll-javaslat esetén /76. § (4) bekezdése/
+78. Második összegző jelentés /48. § (7) és (7a) bekezdése/
 
-78. Módosító javaslat fenntartásának kérése /48. § (4) bekezdése/
+79. Második összegző módosító javaslat /48. § (7) bekezdése/
 
-79. Módosító javaslat normakontroll-javaslathoz /76. § (5) bekezdése/
+80. Megismételt részletes vitát lezáró bizottsági módosító javaslat /69. § (4) bekezdése/
 
-80. Módosító javaslat szabályszerű túlterjeszkedő módosító javaslathoz /70. § (3) bekezdése/
+81. Módosító javaslat /40. §/
 
-81. Napirendi pont további tárgyalásának kérése /22. § (2) bekezdése/
+82. Módosító javaslat a Gst. 25. § (5) bekezdése alapján /97. § (4) bekezdése/
 
-82. Normakontroll kezdeményezését előkészítő jelentés /76. § (7) bekezdése/
+83. Módosító javaslat alaptörvény-ellenesség kiküszöbölése érdekében /79. § (2) bekezdése/
 
-83. Normakontroll kezdeményezését előkészítő módosító javaslat /76. § (7) bekezdése/
+84. Módosító javaslat az egyeztetési eljárás eredményének megfelelően /74. § (1) bekezdése/
 
-84. Normakontroll-javaslat /75. §/
+85. Módosító javaslat az elfogadott, de ki nem hirdetett törvényhez /78. § (3) bekezdése/
 
-85. Összegző jelentés /46. § (7) bekezdése, 93. § (1) bekezdése/
+86. Módosító javaslat benyújtási határidejének megállapítása normakontroll-javaslat esetén /76. § (4) bekezdése/
 
-86. Összegző módosító javaslat /46. § (5) bekezdése, 93. § (1) bekezdése/
+87. Módosító javaslat fenntartásának kérése /48. § (4) bekezdése/
 
-87.[^36] Részletes vitát lezáró bizottsági módosító javaslat /45. § (5) bekezdése, 92. § (6) bekezdése/
+88. Módosító javaslat normakontroll-javaslathoz /76. § (5) bekezdése/
 
-88. Sürgősségi javaslat /60. § (1) bekezdése/
+89. Módosító javaslat szabályszerű túlterjeszkedő módosító javaslathoz /70. § (3) bekezdése/
 
-89. Tárgysorozatba-vételi kérelem /58. § (5) bekezdése/
+90. Napirendi pont további tárgyalásának kérése /22. § (2) bekezdése/
 
-90. Törvényalkotási bizottság eljárásának kezdeményezése /46. § (4) bekezdése/
+91. Normakontroll kezdeményezését előkészítő jelentés /76. § (7) bekezdése/
 
-91. Törvényalkotási bizottság felkérése az Alkotmánybíróság határozatának megfelelő módosító javaslat előterjesztésére /79. § (1) bekezdése/
+92. Normakontroll kezdeményezését előkészítő módosító javaslat /76. § (7) bekezdése/
 
-92. Törvényalkotási bizottság jelentése a köztársasági elnök – az Országgyűlésnek megfontolásra visszaküldött törvényről szóló – átiratáról kialakított álláspontjáról /78. § (4) bekezdése/
+93. Normakontroll-javaslat /75. §/
 
-93. Törvényalkotási bizottság jelentése az Alkotmánybíróság határozatáról kialakított álláspontjáról /79. § (3) bekezdése/
+94. Országgyűlés döntésének megfelelő egységes javaslat /72. § (9) bekezdése/
 
-94. Törvényalkotási bizottság kijelölése /76. § (4) bekezdése, 78. § (2) bekezdése/
+95. Összegző jelentés /46. § (7) bekezdése, 93. § (1) bekezdése/
 
-95. Törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított, egyeztetési eljárásra megküldött szövege /73. § (4) bekezdés c) pontja/
+96. Összegző módosító javaslat /46. § (5) bekezdése, 48. § (7a) bekezdése, 93. § (1) bekezdése/
 
-96. Törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított, egyeztetési eljárásra megküldött szövege /73. § (4) bekezdés b) pontja/
+97. Részletes vitát lezáró bizottsági módosító javaslat /45. § (5) bekezdése, 92. § (6) bekezdése/
 
-97. Túlterjeszkedő módosító javaslat /70. § (1) bekezdése, 71. § (2) bekezdése/
+98. Sürgősségi javaslat /60. § (1) bekezdése/
 
-98.[^37] Zárószavazás előtti jelentés /53. § (3) bekezdése/
+99. Tárgysorozatba-vételi kérelem /58. § (5) bekezdése/
 
-99.[^38] Zárószavazás előtti módosító javaslat /53. § (2) és (4) bekezdése/
+100. Törvényalkotási bizottság eljárásának kezdeményezése /46. § (3) bekezdése/
 
-100.[^39] Zárószavazást előkészítő módosító javaslat /52. §/
+101. Törvényalkotási bizottság előrehozott eljárásának kezdeményezése /46. § (2a) bekezdése/
 
-[^35]: A 2. melléklet 42a. pontját a 13/2019. (IV. 2.) OGY határozat 2. §-a iktatta be.
-[^36]: A 2. melléklet 87. pontja a 13/2019. (IV. 2.) OGY határozat 2. §-ával megállapított szöveg.
-[^37]: A 2. melléklet 98. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
-[^38]: A 2. melléklet 99. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
-[^39]: A 2. melléklet 100. pontját a 21/2014. (VI. 3.) OGY határozat 13. §-a iktatta be.
+102. Törvényalkotási bizottság felkérése az Alkotmánybíróság határozatának megfelelő módosító javaslat előterjesztésére /79. § (1) bekezdése/
+
+103. Törvényalkotási bizottság döntése tárgysorozatba-vételi kérelemről /58. § (6) bekezdése/
+
+104. Törvényalkotási bizottság jelentése a köztársasági elnök – az Országgyűlésnek megfontolásra visszaküldött törvényről szóló – átiratáról kialakított álláspontjáról /78. § (4) bekezdése/
+
+105. Törvényalkotási bizottság jelentése az Alkotmánybíróság határozatáról kialakított álláspontjáról /79. § (3) bekezdése/
+
+106. Törvényalkotási bizottság kijelölése /76. § (4) bekezdése, 78. § (2) bekezdése/
+
+107. Törvényjavaslatnak a második összegző módosító javaslat elfogadott pontjaival módosított, egyeztetési eljárásra megküldött szövege /73. § (4) bekezdés c) pontja/
+
+108. Törvényjavaslatnak az összegző módosító javaslat elfogadott pontjaival módosított, egyeztetési eljárásra megküldött szövege /73. § (4) bekezdés b) pontja/
+
+109. Túlterjeszkedő módosító javaslat /70. § (1) bekezdése, 71. § (1) bekezdése/
+
+110. Túlterjeszkedő módosító javaslatot tartalmazó egységes javaslat /72. § (2) bekezdése/
+
+111. Zárószavazás előtti jelentés /53. § (3) bekezdése/
+
+112. Zárószavazás előtti módosító javaslat /53. § (2a) bekezdése/
+
+113. Zárószavazás előtti módosító javaslat a 95. § szerinti indítványhoz /97. § (1) bekezdése/
+
+114. Zárószavazást előkészítő módosító javaslat /52. §/
+
+[^218]: A 2. melléklet az 54/2019. (XII. 17.) OGY határozat 76. § (3) bekezdésével megállapított szöveg.

@@ -8,4 +8,6 @@ b) határozati javaslat benyújtásával kezdeményezi, hogy az Országgyűlés 
 
 (3) A beszámolót tárgyaló bizottság a (2) bekezdés a) pontja szerinti döntéséről tájékoztatja a házelnököt, valamint a beszámoló benyújtóját.
 
-(4) A (2) bekezdés b) pontja szerinti határozati javaslat benyújtása esetén az Országgyűlés a 84. §-ban foglaltak alkalmazásával dönt.
+(4)[^151] A (2) bekezdés b) pontja szerinti határozati javaslat benyújtása esetén az Országgyűlés a 84. § alkalmazásával dönt.
+
+[^151]: A 85. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 15. pontja szerint módosított szöveg.

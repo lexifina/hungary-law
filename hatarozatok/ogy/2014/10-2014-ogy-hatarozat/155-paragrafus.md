@@ -2,4 +2,6 @@
 
 (2) A Kilencedik Részben meghatározott eljárásokban a 34. § (1) bekezdése szerinti határidőt nem kell alkalmazni.
 
-(3) A tárgyalási rend fenntartása és a fegyelmi jogkör alkalmazása során tiszteletdíj csökkentésére vonatkozó egyedi országgyűlési határozati javaslathoz sem módosító javaslatot, sem bizottsági jelentést nem lehet benyújtani.
+(3)[^203]
+
+[^203]: A 155. § (3) bekezdését az 54/2019. (XII. 17.) OGY határozat 78. § n) pontja hatályon kívül helyezte.

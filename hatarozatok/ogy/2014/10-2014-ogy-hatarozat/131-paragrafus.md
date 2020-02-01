@@ -2,7 +2,7 @@
 
 (2) Az Országgyűlésről szóló törvény 38/B. § (2) bekezdése szerinti felszólalás esetén a jegyzőkönyvbe a felszólalás magyar nyelvű tolmácsolásának szövegét kell felvenni.
 
-(3) A hitelesített jegyzőkönyvet három napra közszemlére kell tenni. A képviselő vagy más felszólaló a közszemlére tétel időtartama alatt kérheti a jegyzőkönyvbe felvett felszólalása téves szövegének kiigazítását. Erről a kiigazítást kérő meghallgatása után a hitelesítő jegyzők döntenek. Vita esetén a kiigazításról az ülést vezető elnök dönt.
+(3)[^188] A hitelesített jegyzőkönyvet három napra közszemlére kell tenni. A képviselő vagy más felszólaló a közszemlére tétel időtartama alatt írásban kérheti a jegyzőkönyvbe felvett felszólalása téves szövegének kiigazítását. Erről a kiigazítást kérő meghallgatása után a hitelesítő jegyzők döntenek. Vita esetén a kiigazításról az ülést vezető elnök dönt.
 
 (4) Amennyiben a képviselő vagy a szószóló kéri a (2) bekezdés szerinti felszólalása szövegének anyanyelvén történő jegyzőkönyvbe vételét és a felszólalás hiteles anyanyelvű leiratát
 
@@ -10,4 +10,7 @@ a) a közszemlére tétel időtartama alatt benyújtja, azt a felszólalás magy
 
 b) a közszemlére tétel időtartamát követően nyújtja be, azt a jegyzőkönyv mellékleteként a jegyzőkönyvhöz kell csatolni.
 
-(5) Az Országgyűlési Naplót a (3) bekezdés szerinti eljárást követő tizenöt napon belül meg kell küldeni a képviselőknek, a szószólóknak, a köztársasági elnöknek, a Kormány tagjainak, az Alkotmánybíróság elnökének, a Kúria elnökének, a legfőbb ügyésznek, az alapvető jogok biztosának, az Állami Számvevőszék elnökének, a Magyar Nemzeti Bank elnökének – az általuk megjelölt módon – elektronikus úton, elektronikus adathordozón vagy kinyomtatva, valamint a megyei, fővárosi könyvtáraknak, az állami egyetemek könyvtárainak és a nyilvános könyvtári ellátást vállaló felsőoktatási könyvtáraknak – az általuk megjelölt módon – elektronikus úton vagy elektronikus adathordozón.
+(5)[^189] Az Országgyűlési Naplót a (3) bekezdés szerinti eljárást követő tizenöt napon belül meg kell küldeni a képviselőknek, a szószólóknak, a köztársasági elnöknek, a Kormány tagjainak, az Alkotmánybíróság elnökének, a Kúria elnökének, a legfőbb ügyésznek, az alapvető jogok biztosának, az Állami Számvevőszék elnökének, a Magyar Nemzeti Bank elnökének – az általuk megjelölt módon – elektronikus úton vagy kinyomtatva, valamint a megyei, fővárosi könyvtáraknak, az állami egyetemek könyvtárainak és a nyilvános könyvtári ellátást vállaló felsőoktatási könyvtáraknak elektronikus úton.
+
+[^188]: A 131. § (3) bekezdése az 54/2019. (XII. 17.) OGY határozat 77. § 18. pontja szerint módosított szöveg.
+[^189]: A 131. § (5) bekezdése az 54/2019. (XII. 17.) OGY határozat 64. §-ával megállapított szöveg.

@@ -1,21 +1,28 @@
 ## 26. A felszólalások időtartama
 
-38. § (1) A felszólalások Házbizottság által meghatározott időtartama nem lehet kevesebb
+38. § (1)[^53] Az egyes felszólalások elhangzására biztosított időtartam nem lehet kevesebb
 
 a) az általános vitában tizenöt percnél,
 
-b) az Alaptörvény elfogadására vagy módosítására irányuló javaslat, a központi költségvetésről szóló törvényjavaslat, a központi költségvetés végrehajtásáról szóló törvényjavaslat, valamint több döntési javaslat együttes tárgyalásakor történő vezérszónoki felszólalás esetén harminc percnél.
+b) időkeretes tárgyalási rendben folytatott általános vitában vezérszónoki felszólalás esetén tizenöt percnél,
+
+c) az Alaptörvény elfogadására vagy módosítására irányuló javaslat, a központi költségvetésről szóló törvényjavaslat, a központi költségvetés végrehajtásáról szóló törvényjavaslat, valamint több döntési javaslat együttes tárgyalásakor történő vezérszónoki felszólalás esetén harminc percnél.
 
 (2) A napirendi pont előterjesztője, valamint a Kormány képviselője tizenöt perces időtartamban a vitában bármikor felszólalhat.
 
 (3) Az előterjesztő – közvetlenül az általános vita lezárását követően – harmincperces időtartamban zárszót mondhat, amelynek során válaszolhat a vitában elhangzottakra.
 
-(4) A vita közben, korábbi felszólalással kapcsolatos észrevétel megtétele céljából első alkalommal a 36. § (2)–(5) bekezdése, majd a 36. § (6)–(7) bekezdése szerinti felszólalásokat követően
+(4)[^54] A vita közben, korábbi felszólalással kapcsolatos észrevétel megtétele céljából első alkalommal a 36. § (2)–(5) bekezdése, majd a 36. § (6)–(7) bekezdése szerinti felszólalásokat követően
 
 a) képviselőcsoportonként egy képviselő,
 
-b) az elsőként szólásra jelentkező független képviselő, majd
+b) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében az elsőként szólásra jelentkező nemzetiségi képviselő,
 
-c) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében az elsőként szólásra jelentkező nemzetiségi képviselő vagy szószóló
+c) az elsőként szólásra jelentkező független képviselő, majd
+
+d) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében az elsőként szólásra jelentkező szószóló
 
 kétperces hozzászólásra kérhet szót. A felszólalást az ülést vezető elnök engedélyezi. Ha az ülést vezető elnök nem adja meg a szót, a képviselő vagy a szószóló kérésére e tárgyban az Országgyűlés vita nélkül, kézfelemeléssel határoz.
+
+[^53]: A 38. § (1) bekezdése az 54/2019. (XII. 17.) OGY határozat 20. § (1) bekezdésével megállapított szöveg.
+[^54]: A 38. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 20. § (2) bekezdésével megállapított szöveg.

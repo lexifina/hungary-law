@@ -40,7 +40,7 @@
 
 19. Nemzetiségek érdekeit, jogait érintő napirendi pont: olyan napirendi pont, amelyet a Házbizottság az Országgyűlésről szóló törvény 11. § (1) bekezdés b) pontja alapján ekként határozott meg.
 
-20. Nemzetiségi képviselő: az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény alapján nemzetiségi listán mandátumot szerzett független képviselő.
+20.[^210] Nemzetiségi képviselő: az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény alapján nemzetiségi listán mandátumot szerzett képviselő, akire – a nemzetiségek érdekeit, jogait érintő napirendi pont tárgyalásán kívül – a független képviselőre vonatkozó rendelkezéseket kell alkalmazni.
 
 21. Országgyűlési Napló: az Országgyűlés nyilvános üléséről készült, a jegyzők által hitelesített és az Országgyűlés honlapján közzétett jegyzőkönyv.
 
@@ -55,3 +55,5 @@
 26. Ügyrendi javaslat: a plenáris vagy bizottsági ülés tárgyalási rendjével összefüggő, a tárgyalt napirendi pontot érdemben nem érintő – döntést igénylő – eljárási kérdésre vonatkozó javaslat.
 
 27. Ülésnap napirendje: egy adott ülésnapon tárgyalt napirendi pontok összessége.
+
+[^210]: A 158. § 20. pontja az 54/2019. (XII. 17.) OGY határozat 74. §-ával megállapított szöveg.

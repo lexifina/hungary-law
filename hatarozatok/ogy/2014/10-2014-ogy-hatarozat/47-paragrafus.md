@@ -8,13 +8,13 @@
 
 (4) A (2)–(3) bekezdésben foglalt felszólalásokat követően a kijelölt bizottság által kijelölt előadó foglalja össze a bizottság állásfoglalását, majd – ha van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. Ezután a vitához kapcsolódó bizottság által kijelölt előadó ismerteti a vitához kapcsolódó bizottság állásfoglalását, majd – ha van kisebbségi vélemény – a kisebbségi vélemény előadója szólal fel. E felszólalásokra tárgyaló bizottságonként összesen hat perc áll rendelkezésre oly módon, hogy amennyiben van kisebbségi vélemény, három percet annak kifejtésére kell biztosítani.
 
-(5) A bizottsági felszólalásokat követően a képviselőcsoportok tagjai, a független képviselők, az európai parlamenti képviselők, valamint a szószólók a 36. § (6)–(9) bekezdése szerinti sorrendben szólalhatnak fel.
+(5)[^67] A bizottsági felszólalásokat követően a képviselőcsoportok tagjai, a nemzetiségi képviselők, a független képviselők, az európai parlamenti képviselők, valamint a szószólók szólalhatnak fel. E felszólalások tekintetében a 35. § (1) és (4) bekezdését, valamint a 36. § (6)–(9) bekezdését kell alkalmazni.
 
 (6) Az (5) bekezdés alapján felszólalók a 37. § (2) és (4)–(7) bekezdése szerinti időkeretes rendben fejthetik ki álláspontjukat azzal, hogy
 
 a) képviselőcsoportonként legkevesebb öt percet kell biztosítani,
 
-b) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló számára legkevesebb öt percet kell biztosítani,
+b)[^68] a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségi képviselők és szószólók számára legkevesebb öt percet kell biztosítani.
 
 c) az európai uniós kérdéssel összefüggő napirendi pont esetében az európai parlamenti képviselő felszólalási ideje a 35. § (2) bekezdése szerinti megkülönböztetésnek megfelelően,
 
@@ -24,12 +24,21 @@ cb) amennyiben közvetlenül jelentkezett, úgy nem számít bele az időkeretbe
 
 Ezen felszólalások közben kétperces hozzászólásokra nem kerül sor.
 
-(7) Az Országgyűlésről szóló törvény alapján tanácskozási joggal rendelkező személyek – a Kormány képviselője és az európai parlamenti képviselők kivételével – soron kívül, a 36. § (11) bekezdése szerinti időtartamban szólalhatnak fel.
+(7)[^69] Az Országgyűlésről szóló törvény alapján tanácskozási joggal rendelkező személyek – az európai parlamenti képviselők kivételével – soron kívül, három-háromperces időtartamban szólalhatnak fel.
+
+(7a)[^70] Az előterjesztő, valamint – ha nem a Kormány az előterjesztő – a Kormány képviselője a vitában bármikor felszólalhat.
 
 (8) Az Országgyűlés a Házbizottság javaslatára a (2)–(7) bekezdésben meghatározottnál hosszabb időkeretet is megállapíthat. Az Országgyűlés a Házbizottság javaslatáról vita nélkül, a napirendi javaslat elfogadásával egyidejűleg kézfelemeléssel dönt.
 
-(9) Az előterjesztő – közvetlenül a vita lezárását követően – zárszót mondhat, amelynek során válaszolhat a vitában elhangzottakra.
+(9)[^71] Az előterjesztő a vita lezárását követően zárszót mondhat, amelynek során válaszolhat a vitában elhangzottakra. Ha nem a Kormány az előterjesztő, a Kormány képviselője közvetlenül a vita lezárása után, az előterjesztői zárszó előtt felszólalhat.
 
-(10) Az előterjesztő (3) és (9) bekezdés szerinti felszólalására együttesen, illetve a Kormány képviselőjének (3) bekezdés szerinti felszólalására tíz-tíz perc áll rendelkezésre.
+(10)[^72] A (3), (7a) és (9) bekezdés szerinti felszólalásokra az előterjesztőnek és a Kormány képviselőjének összesen tizenöt-tizenöt perc áll rendelkezésére.
 
 (11) A bizottsági jelentések és az összegző módosító javaslat vitája során a 39. §-ban foglaltakat nem lehet alkalmazni.
+
+[^67]: A 47. § (5) bekezdése az 54/2019. (XII. 17.) OGY határozat 24. § (1) bekezdésével megállapított szöveg.
+[^68]: A 47. § (6) bekezdés b) pontja az 54/2019. (XII. 17.) OGY határozat 24. § (2) bekezdésével megállapított szöveg.
+[^69]: A 47. § (7) bekezdése az 54/2019. (XII. 17.) OGY határozat 24. § (3) bekezdésével megállapított szöveg.
+[^70]: A 47. § (7a) bekezdését az 54/2019. (XII. 17.) OGY határozat 24. § (3) bekezdése iktatta be.
+[^71]: A 47. § (9) bekezdése az 54/2019. (XII. 17.) OGY határozat 24. § (4) bekezdésével megállapított szöveg.
+[^72]: A 47. § (10) bekezdése az 54/2019. (XII. 17.) OGY határozat 24. § (4) bekezdésével megállapított szöveg.

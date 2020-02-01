@@ -126,28 +126,5 @@ Az Országgyűlés a köztársasági elnököt titkos szavazással választja. A
 
 MINTA
 
-„Az Országgyűlés
-
-....../..... ( ) OGY
-
-h a t á r o z a t a
-
-köztársasági elnök megválasztásáról[^3.]
-
-Az Országgyűlés az Alaptörvény 10. cikk (1) bekezdése alapján
-
-.............................................. -t
-
-köztársasági elnökké megválasztja.
-
-Az Alaptörvény 11. cikk (6) bekezdése alapján a megválasztott köztársasági elnök 20........ év ......... hó ........... napján lép hivatalba.
-
-| az Országgyűlés elnöke |
-
-|  | az Országgyűlés jegyzője | az Országgyűlés jegyzője” |
-
-”
-
 [^1.]: Egy jelölt esetén.
 [^2.]: Több jelölt esetén.
-[^3.]: A határozatot az Országgyűlés a 20.... ................................-i ülésnapján fogadta el.

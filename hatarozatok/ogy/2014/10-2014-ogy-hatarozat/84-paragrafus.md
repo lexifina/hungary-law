@@ -1,6 +1,6 @@
 84. § (1) Az Országgyűlés
 
-a)[^26] az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke, országgyűlési bizottság, a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben a Kormány, továbbá
+a)[^146] az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke, országgyűlési bizottság, a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben a Kormány, továbbá
 
 b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolásra kötelezett
 
@@ -8,7 +8,7 @@ b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolás
 
 (2) Az Országgyűlés a beszámoló és a beszámolót tárgyaló bizottság által előterjesztett – a beszámoló elfogadására vonatkozó – határozati javaslat általános vitáját együttesen folytatja le a határozati javaslat tárgyalására vonatkozó szabályok szerint.
 
-(3) A beszámolót tárgyaló bizottság az általa benyújtott határozati javaslat tekintetében – külön kijelölés nélkül – kijelölt bizottságnak minősül.
+(3)[^147] A beszámolót tárgyaló bizottság az általa benyújtott határozati javaslat tekintetében kijelölt bizottságnak minősül.
 
 (4) A nemzetiségeket képviselő bizottság a Kormánynak a nemzetiségek helyzetéről készített beszámolója, valamint az alapvető jogok biztosának éves beszámolója esetében – az Országgyűlésről szóló törvény szerinti állásfoglalásának kialakítása érdekében – vitához kapcsolódó bizottságnak minősül.
 
@@ -16,8 +16,16 @@ b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolás
 
 (6) A beszámolót tárgyaló bizottság által benyújtott határozati javaslatot tárgyaló, vitához kapcsolódó bizottság a részletes vita során a beszámolót is megvitatja. A vitához kapcsolódó bizottság részletes vitáról szóló bizottsági jelentése a 45. § (6) bekezdésében meghatározottakon túl tartalmazhatja a bizottságnak a beszámolóban foglalt megállapítások, intézkedések megalapozottságáról kialakított álláspontját is.
 
-(7) Ha a (2) bekezdésben meghatározott határozati javaslatot érintően nincs vitához kapcsolódó bizottság és nem került sor módosító javaslat benyújtásra sem, az Országgyűlés az együttes általános vita lezárását követően a határozati javaslat elfogadásáról határoz, kivéve, ha a beszámolót tárgyaló bizottság – legkésőbb azon ülésnap megnyitása előtt egy órával, amely ülésnap napirendjén vagy tervezett napirendjén a határozati javaslat zárószavazása szerepel – úgy nyilatkozik, hogy kijelölt bizottságként részletes vitát kíván lefolytatni.
+(6a)[^148] Ha a (2) bekezdésben meghatározott határozati javaslatról a nemzetiségeket képviselő bizottság részletes vitát folytat, e részletes vita során a (6) bekezdést nem kell alkalmazni.
+
+(7)[^149] Ha a (2) bekezdésben meghatározott határozati javaslatot érintően nincs vitához kapcsolódó bizottság, vagy csak a nemzetiségeket képviselő bizottság minősül annak, és nem került sor módosító javaslat benyújtására, az Országgyűlés az együttes általános vita lezárását követően a határozati javaslat elfogadásáról határoz. Az eljárás a részletes vitával folytatódik, ha a beszámolót tárgyaló bizottság vagy a nemzetiségeket képviselő bizottság – legkésőbb azon ülésnap megnyitása előtt egy órával, amely ülésnap napirendjén vagy tervezett napirendjén a határozati javaslat zárószavazása szerepel – úgy nyilatkozik, hogy részletes vitát kíván lefolytatni.
+
+(7a)[^150] Ha a (2) bekezdésben meghatározott határozati javaslatot érintően – a nemzetiségeket képviselő bizottságon kívül – van vitához kapcsolódó bizottság és nem került sor módosító javaslat benyújtására, a beszámolót tárgyaló bizottság, valamint – amennyiben a vitához kapcsolódó bizottságnak minősül – a nemzetiségeket képviselő bizottság – ha legkésőbb a 41. § (1) bekezdése szerinti határidő leteltét követő munkanapon eltérően nem nyilatkozik – nem folytat le részletes vitát.
 
 (8) Az Országgyűlés a beszámolóról a beszámolót tárgyaló bizottság által előterjesztett határozati javaslat elfogadásával dönt.
 
-[^26]: A 84. § (1) bekezdés a) pontja a 21/2014. (VI. 3.) OGY határozat 11. §-ával megállapított szöveg.
+[^146]: A 84. § (1) bekezdés a) pontja a 21/2014. (VI. 3.) OGY határozat 11. §-ával megállapított szöveg.
+[^147]: A 84. § (3) bekezdése az 54/2019. (XII. 17.) OGY határozat 78. § g) pontja szerint módosított szöveg.
+[^148]: A 84. § (6a) bekezdését az 54/2019. (XII. 17.) OGY határozat 44. § (1) bekezdése iktatta be.
+[^149]: A 84. § (7) bekezdése az 54/2019. (XII. 17.) OGY határozat 44. § (2) bekezdésével megállapított szöveg.
+[^150]: A 84. § (7a) bekezdését az 54/2019. (XII. 17.) OGY határozat 44. § (2) bekezdése iktatta be.

@@ -6,8 +6,8 @@
 
 24. § (1) Szavazni „igen”, „nem” vagy „tartózkodom” nyilatkozattal lehet.
 
-(2)[^10]
+(2)[^34]
 
 (3) A szavazás eredményét az ülést vezető elnök hirdeti ki.
 
-[^10]: A 24. § (2) bekezdését a 21/2014. (VI. 3.) OGY határozat 15. §-a hatályon kívül helyezte.
+[^34]: A 24. § (2) bekezdését a 21/2014. (VI. 3.) OGY határozat 15. §-a hatályon kívül helyezte.

@@ -6,9 +6,11 @@
 
 (3) Két vagy több képviselőcsoport együttesen is állíthat vezérszónokot, azonban az ilyen vezérszónoki felszólalás ideje sem haladhatja meg az egy képviselőcsoport számára meghatározott időtartamot. A vezérszónoki időtartamban egy képviselőcsoport több, egymást követő szónokot is állíthat.
 
-(4) A vezérszónoki felszólalások után az elsőként szólásra jelentkező független képviselő kap szót. A nemzetiségek érdekeit, jogait érintő napirendi pont esetében az elsőként szólásra jelentkező független képviselőt megelőzően a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő kap szót.
+(4)[^46] A vezérszónoki felszólalások után az elsőként szólásra jelentkező független képviselő kap szót.
 
-(5) Az elsőként szólásra jelentkező független képviselő után kap szót – a nemzetiségek érdekeit, jogait érintő napirendi pont esetében – a nemzetiségeket képviselő bizottság által felkért szószóló, ha a nemzetiségi képviselő (4) bekezdés szerinti felszólalására nem került sor.
+(5)[^47] A nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő az elsőként szólásra jelentkező független képviselőt megelőzően kap szót. Ha a nemzetiségeket képviselő bizottság szószólót kér fel álláspontjának ismertetésére, a felkért szószóló felszólalására az elsőként szólásra jelentkező független képviselő felszólalása után kerül sor.
+
+(5a)[^48] Ha a törvényjavaslat előterjesztője a nemzetiségeket képviselő bizottság, a nyitóbeszédet a bizottság elnöke, vagy a bizottság által felkért nemzetiségi képviselő vagy szószóló tartja. Ebben az esetben az (5) bekezdés szerinti további hozzászólásra már nincs lehetőség.
 
 (6) A vezérszónoki, valamint a (4)–(5) bekezdésben meghatározott felszólalásokat követően a hozzászólások további sorrendjét az ülést vezető elnök akként határozza meg, hogy lehetőség szerint egymás után egy kormánypárti és egy ellenzéki képviselőcsoporthoz tartozó képviselő kapjon szót, mindig más képviselőcsoportból. Ha minden kormánypárti és ellenzéki képviselőcsoportból legalább egy szólásra jelentkező képviselőnek lehetősége volt a felszólalásra, a bejelentkezési sorrendben következő szólásra jelentkező független képviselő kap szót.
 
@@ -16,8 +18,15 @@
 
 (8) A (6)–(7) bekezdés szerinti sorrendet addig kell folytatni, amíg minden szólásra jelentkező képviselő és szószóló meg nem kapta a szót.
 
+(8a)[^49] A vezérszónoki felszólalások kivételével, ha a 35. § (1) bekezdés a) pontja szerint előzetesen bejelentkezett felszólaló a felszólalása sorra kerülésekor nincs jelen, a bejelentkezését visszavontnak kell tekinteni.
+
 (9) Európai uniós kérdéssel összefüggő napirendi pont esetében az európai parlamenti képviselő a 35. § (2) bekezdésének megfelelő jelentkezési sorrendben a képviselőcsoport besorolásának, illetve a független képviselők sorrendjének figyelembevételével szólalhat fel.
 
 (10) A vita során a köztársasági elnök és a miniszterelnök bármikor, időtartamra vonatkozó megkötés nélkül felszólalhat.
 
 (11) A további tanácskozási joggal rendelkező személyek – a (9) bekezdés kivételével – bármikor, a napirendben meghatározott időtartamban, ennek hiányában a képviselői felszólalásra megállapított időtartamban szólalhatnak fel azzal, hogy ha a vitában előterjesztői minőségben vesznek részt, esetükben is az előterjesztő felszólalásának időtartamát meghatározó szabályokat kell alkalmazni.
+
+[^46]: A 36. § (4) bekezdése az 54/2019. (XII. 17.) OGY határozat 18. § (1) bekezdésével megállapított szöveg.
+[^47]: A 36. § (5) bekezdése az 54/2019. (XII. 17.) OGY határozat 18. § (1) bekezdésével megállapított szöveg.
+[^48]: A 36. § (5a) bekezdését az 54/2019. (XII. 17.) OGY határozat 18. § (2) bekezdése iktatta be.
+[^49]: A 36. § (8a) bekezdését az 54/2019. (XII. 17.) OGY határozat 18. § (3) bekezdése iktatta be.
