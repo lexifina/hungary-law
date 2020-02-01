@@ -1,6 +1,6 @@
 114/D. § (1) A 85/A. § (1) bekezdése alapján
 
-a) az egy főre megállapított hallgatói normatíva 128 520 Ft/év,
+a) az egy főre megállapított hallgatói normatíva 166 600 Ft/év,
 
 b) a doktori képzésben részt vevők egy főre meghatározott támogatása
 
