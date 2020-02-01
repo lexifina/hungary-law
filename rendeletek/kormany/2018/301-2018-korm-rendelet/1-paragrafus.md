@@ -16,15 +16,21 @@ c) a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapí
 
 d)[^3] a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
 
-e)[^4] az a)–d) pontokba nem tartozó olyan szervezet, amely a központosított közbeszerzési rendszerhez csatlakozást önként vállalja
+e)[^4] az a)–d) pontba nem tartozó olyan szervezet, amely
 
-[az a)–e) pont együtt a továbbiakban: érintett szervezet]].
+ea) a központosított közbeszerzési rendszerhez vagy
+
+eb) valamely e rendelet szerinti keretmegállapodás vagy más keretjellegű szerződés vonatkozásában, a DKÜ felhívására, egy meghatározott beszerzési eljáráshoz
+
+## való csatlakozást önként (a továbbiakban együttesen: önkéntes csatlakozás) vállalja.
+
+## [az a)–e) pont együtt a továbbiakban: érintett szervezet]].
 
 (2a)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
 
 (2b)[^6] A Kormány egyedi döntésével mentesítést adhat az e rendeletben foglalt központosított közbeszerzési eljárási szabályok alkalmazása alól, különös tekintettel törvényben meghatározott védelmi és biztonsági tárgyú informatikai beszerzések esetére, továbbá azon beszerzésekre, amelyek esetében az ország biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak.
 
-(2c)[^7] A központosított közbeszerzési rendszerhez való önkéntes csatlakozásra a DKÜ engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–d) pontjai szerinti szervezetek e rendelet szerinti központosított beszerzési tevékenységen keresztül történő ellátását. Ennek érdekében a DKÜ az (1) bekezdés e) pontja szerinti szervezet központosított közbeszerzési rendszerhez való csatlakozását megtagadhatja vagy feltételhez kötheti.
+(2c)[^7] Az önkéntes csatlakozásra a DKÜ engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–d) pontjai szerinti szervezetek e rendelet szerinti központosított beszerzési tevékenységen keresztül történő ellátását. Ennek érdekében a DKÜ az (1) bekezdés e) pontja szerinti szervezet önkéntes csatlakozását megtagadhatja vagy feltételhez kötheti. Amennyiben az (1) bekezdés e) pontja szerinti szervezet kizárólag valamely e rendelet szerinti keretmegállapodás vagy más keretjellegű szerződés vonatkozásában csatlakozik a DKÜ egy meghatározott beszerzési eljárásához, az érintett szervezetre, a 6. § (2) bekezdésében és a 14. §-ban foglaltak kivételével, nem vonatkoznak e rendeletben foglaltak.
 
 (2d) A miniszterelnök a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 3/A. §-ában meghatározott jogkörét – az e rendeletben meghatározottak szerint – az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
 
@@ -72,17 +78,18 @@ g) az NHIT eljárására vonatkozó szabályokat.
 
 12. szoftver: azon – a beszerzési igény felmerülését megelőzően – előre kifejlesztett számítógépes program, ideértve az általános felhasználású alapszoftvereket, a rendszerszoftvereket és az alkalmazói szoftvereket vagy szoftvercsoportokat, valamint az ezekhez kapcsolódó azon szolgáltatásokat, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
-13. üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezett beszerzési igény, amely kritikus működési kényszer miatt jelentkezik.
+13.[^13] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezhető beszerzési igény, amely azonnali beavatkozást igénylő kritikus működési kényszer miatt jelentkezik.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 83/2019. (IV. 18.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés záró szövegrésze a 182/2019. (VII. 26.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (2) bekezdése e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontja a 9/2020. (I. 31.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.
 [^6]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 9/2020. (I. 31.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (2e) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 23. § (1) bekezdése iktatta be.
 [^9]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^10]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^11]: Az 1. § (3) bekezdés e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^12]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^13]: Az 1. § (4) bekezdés 13. pontja a 9/2020. (I. 31.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.

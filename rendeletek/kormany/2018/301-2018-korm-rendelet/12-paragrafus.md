@@ -1,6 +1,6 @@
-## 11/A. §[^65] Az érintett szervezet beszerzésre vonatkozó igénye minősített adatot tartalmazó része vonatkozásában a 11. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a DKÜ helyett a miniszter jár el.
+## 11/A. §[^66] Az érintett szervezet beszerzésre vonatkozó igénye minősített adatot tartalmazó része vonatkozásában a 11. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a DKÜ helyett a miniszter jár el.
 
-12. §[^66] (1) A DKÜ által jóváhagyásra – e rendelet szerint – előterjesztett beszerzési és fejlesztési terv vagy beszerzési igény jóváhagyásáról a miniszter
+12. §[^67] (1) A DKÜ által jóváhagyásra – e rendelet szerint – előterjesztett beszerzési és fejlesztési terv vagy beszerzési igény jóváhagyásáról a miniszter
 
 a) a 10. § esetén a kézhezvételtől számított 5 munkanapon belül,
 
@@ -12,7 +12,7 @@ c) a 7. § d) pontja szerinti üzemszerű működés biztosításához szükség
 
 (2) A miniszter a megalapozott döntés érdekében, ha az szükséges, az (1) bekezdés szerinti határidőn belül
 
-a)[^67] a 8. §-ban, a 10. §-ban és 11. §-ban meghatározott eljárás vonatkozásában a DKÜ-t új vizsgálat lefolytatására hívhatja fel,
+a)[^68] a 8. §-ban, a 10. §-ban és 11. §-ban meghatározott eljárás vonatkozásában a DKÜ-t új vizsgálat lefolytatására hívhatja fel,
 
 b) bármely központi államigazgatási szervet, érintett minisztert vagy állami vezetőt közvetlenül megkereshet, valamint
 
@@ -34,9 +34,9 @@ c) elutasítja.
 
 (7) A miniszter a döntésekor az e rendeletben meghatározott hatáskörében eljárva szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg. A miniszternek az elutasító döntést nem kell indokolnia, azonban meghatározhatja azokat a szempontokat, amelyek alapján az átdolgozott beszerzési igény ismételten előterjeszthető.
 
-(8)[^68]
+(8)[^69]
 
-(9)[^69] A (2) bekezdés a) pontja szerinti esetben az új vizsgálat lefolytatásáig, a (2) bekezdés b) pontja szerinti esetben a (3) bekezdés szerinti tájékoztatás megadásáig, a miniszter részére megállapított (1) bekezdés szerinti határidő nyugszik.
+(9)[^70] A (2) bekezdés a) pontja szerinti esetben az új vizsgálat lefolytatásáig, a (2) bekezdés b) pontja szerinti esetben a (3) bekezdés szerinti tájékoztatás megadásáig, a miniszter részére megállapított (1) bekezdés szerinti határidő nyugszik.
 
 (10) Az (1) bekezdés szerinti határidők eredménytelen elteltét követően a beszerzési vagy fejlesztési tervet vagy a beszerzési igényt a miniszter által jóváhagyottnak kell tekinteni.
 
@@ -46,8 +46,8 @@ c) elutasítja.
 
 (13) A (6) bekezdés szerinti feltételek teljesülésének utólagos ellenőrzésére a DKÜ a feltételekkel történő jóváhagyás érintett szervvel történő közlésétől számított 24 hónapig jogosult.
 
-[^65]: A 11/A. §-t a 329/2019. (XII. 20.) Korm. rendelet 23. § (5) bekezdése iktatta be.
-[^66]: A 12. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^67]: A 12. § (2) bekezdés a) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
-[^68]: A 12. § (8) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 8. § d) pontja hatályon kvül helyezte.
-[^69]: A 12. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (16) bekezdésével megállapított szöveg.
+[^66]: A 11/A. §-t a 329/2019. (XII. 20.) Korm. rendelet 23. § (5) bekezdése iktatta be.
+[^67]: A 12. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^68]: A 12. § (2) bekezdés a) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
+[^69]: A 12. § (8) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 8. § d) pontja hatályon kvül helyezte.
+[^70]: A 12. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (16) bekezdésével megállapított szöveg.
