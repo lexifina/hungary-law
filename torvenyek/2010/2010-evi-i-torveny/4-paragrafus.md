@@ -4,7 +4,7 @@
 
 a) anyakönyvvezető vagy
 
-b) a Kormány által rendeletben kijelölt anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője
+b) a Kormány által rendeletben kijelölt anyakönyvi szerv kormánytisztviselője
 
 jegyezhet be.
 

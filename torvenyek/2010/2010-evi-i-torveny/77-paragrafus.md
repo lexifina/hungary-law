@@ -8,6 +8,6 @@ b) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés vég
 
 c) az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
-d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
+d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
 
 e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
