@@ -6,7 +6,7 @@
 
 7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőknél, valamint a hivatásos állomány tagjánál a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 
 b) elvégzi
 
@@ -14,19 +14,19 @@ ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányza
 
 bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
 
-bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
+bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
 
 bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, rendvédelmi igazgatási alkalmazottai,
 
-be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
+be) a Kormány által a kormányzati igazgatásról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai felsővezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
 
 (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 
 c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
-(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő, továbbá állami tisztviselő és állami ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
+(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
-a) állampolgársági eljárással, menekültügyi eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
+a) állampolgársági eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
 
 b) közbeszerzési eljárás során,
 

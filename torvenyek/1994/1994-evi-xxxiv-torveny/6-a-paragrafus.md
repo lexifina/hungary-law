@@ -16,7 +16,7 @@ c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekébe
 
 a) a megválasztás időpontjában párt alkalmazottja vagy tisztségviselője,
 
-b) a megválasztás időpontjában vagy az azt megelőző két évben állami vezető, polgármester,
+b) a megválasztás időpontjában vagy az azt megelőző két évben politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, polgármester,
 
 c) a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
 
