@@ -1,5 +1,5 @@
 44. § Hatályát veszti az Ogytv.
 
-a)
+a) 124. § (3) bekezdése,
 
-b)
+b) 143. § (2)–(4) bekezdése.

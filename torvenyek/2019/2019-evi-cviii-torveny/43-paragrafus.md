@@ -1,15 +1,15 @@
 43. § Hatályát veszti az Ogytv.
 
-a)
+a) 11. § (1) bekezdés j) pontja,
 
-b)
+b) 13. § (7) bekezdése,
 
-c)
+c) 19. § (1) bekezdés g) pontjában a „vagy” szövegrész,
 
-d)
+d) 53. § (5) bekezdés b) pontjában az „ , és mentesíti a képviselőt a fegyelmi büntetés esetleges következményei alól” szövegrész,
 
-e)
+e) 69. § (4) bekezdése,
 
-f)
+f) 75. §-ában a „közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti” szövegrész,
 
-g)
+g) 104. § (3) bekezdése.
