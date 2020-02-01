@@ -1,0 +1,1 @@
+46/F. § Ha a képviselő az ülés, a vita vagy a szavazás menetét akadályozza, vagy az Országgyűlés ülésének résztvevőjét az üléstermi jogai gyakorlásában vagy kötelezettségei teljesítésében akadályozza, az ülést vezető elnök a képviselő azonnali hatályú kitiltását rendelheti el.

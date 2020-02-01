@@ -1,1 +1,1 @@
-76. § A képviselő a vele szemben folyó eljárásban a bíróságot vagy a hatóságot köteles képviselői megbízatásáról tájékoztatni. Ha tájékoztatási kötelezettségének teljesítése ellenére a képviselő mentelmi jogát megsértik, a képviselő köteles a házelnöknek haladéktalanul azt bejelenteni.
+76. § A képviselő köteles mentelmi jogának megsértését a házelnöknek haladéktalanul bejelenteni. A képviselő a vele szemben folyó eljárásban a bíróságot vagy a hatóságot köteles képviselői megbízatásáról haladéktalanul tájékoztatni.

@@ -12,9 +12,11 @@ d) felolvassák az országgyűlési iratokat, eskütételnél előolvassák a ma
 
 e) vezetik a felszólalásra jelentkezett képviselők névsorát,
 
-f) jelzik az ülést vezető házelnöknek vagy alelnöknek (a továbbiakban együtt: ülést vezető elnök) a beszédidő lejártát, valamint
+f) jelzik az ülést vezető házelnöknek vagy alelnöknek (a továbbiakban együtt: ülést vezető elnök) a beszédidő lejártát,
 
-g) hitelesítik az Országgyűlés szó szerinti jegyzőkönyvét.
+g) hitelesítik az Országgyűlés szó szerinti jegyzőkönyvét, valamint
+
+h) segítik az ülést vezető elnököt a tárgyalási rend fenntartásában.
 
 (2) Az Országgyűlés ülésén – a házelnök által meghatározott sorrendben – egyidejűleg két jegyző teljesít szolgálatot, akik közül lehetőleg egy kormánypárti országgyűlési képviselőcsoporthoz, illetve egy ellenzéki országgyűlési képviselőcsoporthoz tartozik.
 

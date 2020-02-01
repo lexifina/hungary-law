@@ -130,7 +130,7 @@
 
 ## | megnevezés: | db | a szerzés ideje, jogcíme: | | megnevezés: | db | a szerzés ideje, jogcíme: | | megnevezés: | db | a szerzés ideje, jogcíme: |
 
-## 4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a mindenkori képviselői alapdíj hathavi összegét meghaladó értékű ingóság:
+## 4. Egyéb, darabonként vagy készletenként (gyűjteményenként) az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése szerinti képviselői tiszteletdíj hathavi összegét meghaladó értékű ingóság:
 
 ## a) megnevezés:
 
@@ -172,11 +172,11 @@
 
 ## megnevezés:
 
-## | névérték, biztosítási összeg: | | 6. Takarékbetétben elhelyezett megtakarítás: | Ft | 7. A mindenkori képviselői alapdíj hathavi összegét meghaladó készpénz: | Ft
+## | névérték, biztosítási összeg: | | 6. Takarékbetétben elhelyezett megtakarítás: | Ft | 7. Az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése szerinti képviselői tiszteletdíj hathavi összegét meghaladó készpénz: | Ft
 
-## 8. Az összességében a mindenkori képviselői alapdíj hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
+## 8. Az összességében az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése szerinti képviselői tiszteletdíj hathavi összegét meghaladó hitelintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
 
-## a) pénzintézeti számlakövetelés:
+## a) hitelintézeti számlakövetelés:
 
 ## forintban:
 
@@ -184,7 +184,7 @@
 
 ## | b) más szerződés alapján fennálló pénzkövetelés összege: | Ft
 
-## 9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori képviselői alapdíj hathavi összegét meghaladja:
+## 9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése szerinti képviselői tiszteletdíj hathavi összegét meghaladja:
 
 ## megnevezés:
 
@@ -198,9 +198,9 @@
 
 ## III. Tartozások
 
-## Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a pénzintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
+## Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a hitelintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
 
-## | 1. Köztartozás (adó, vám, illeték, tb-járulék stb.): | Ft | 2. Pénzintézettel szembeni tartozás (hitel, kölcsön stb.): | Ft | 3. Magánszemélyekkel szembeni tartozás: | Ft
+## | 1. Köztartozás (adó, vám, illeték, tb-járulék stb.): | Ft | 2. Hitelintézettel szembeni tartozás (hitel, kölcsön stb.): | Ft | 3. Magánszemélyekkel szembeni tartozás: | Ft
 
 ## IV. Egyéb közlendők
 

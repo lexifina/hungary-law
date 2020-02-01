@@ -8,7 +8,7 @@
 
 (5)
 
-(6) Ha az (1) bekezdésben meghatározott épületek területére belépők és ott tartózkodók (3) bekezdés szerinti kötelezettségüket nem teljesítik, akkor belépésük megtagadható, illetve onnan kivezettethetők. A házelnök döntése alapján az ilyen személynek az (1) bekezdésben meghatározott épületek területére történő belépését meg lehet tagadni.
+(6) Ha az (1) bekezdésben meghatározott épületek területére belépett személy a (3) bekezdés szerinti kötelezettségét megszegi, az Országgyűlési Őrség a házelnök vagy a háznagy egyidejű tájékoztatásával onnan kivezetheti. A házelnök döntése alapján – legfeljebb hat hónapra vagy az adott ülésszak végéig – megtagadható az (1) bekezdésben meghatározott épületek területére történő belépése annak a személynek, aki a (3) bekezdésben előírt kötelezettségét súlyosan megszegte, továbbá annak, akiről az Országgyűlési Őrség megalapozottan feltételezi, hogy az (1) bekezdésben meghatározott épületekben az Országgyűlés működését megzavaró, az Országgyűlés tekintélyét, rendjét súlyosan sértő tevékenységet folytatna, vagy magatartásával az ott tartózkodók biztonságát veszélyeztetné.
 
 (7) Az (1) bekezdés alapján történt hatáskör-átruházást a házelnök megszüntetheti, ha az átruházott hatáskör gyakorlója olyan személy belépését engedélyezte, aki nem teljesíti a (3) bekezdés szerinti kötelezettségét.
 

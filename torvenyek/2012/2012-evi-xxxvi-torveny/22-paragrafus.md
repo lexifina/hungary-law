@@ -6,7 +6,7 @@
 
 (3) A nemzetiségeket képviselő bizottság tagjai a nemzetiségi listáról mandátumot szerző képviselő, valamint a nemzetiségi szószóló (a továbbiakban: szószóló).
 
-(4) A nemzetiségeket képviselő bizottság elnevezésére, feladatkörének kiegészítésére, elnökének, alelnökének személyére a házelnök – a nemzetiségi listáról mandátumot szerző képviselők és a nemzetiségi szószólók indítványait mérlegelve – tesz javaslatot az Országgyűlésnek.
+(4) A nemzetiségeket képviselő bizottság elnevezésére, feladatkörének kiegészítésére, elnökének, alelnökeinek személyére a házelnök – a nemzetiségi listáról mandátumot szerző képviselők és a nemzetiségi szószólók indítványait mérlegelve – tesz javaslatot az Országgyűlésnek.
 
 (4a) A nemzetiséghez tartozó országgyűlési képviselő, a nemzetiségi listáról mandátumot szerző képviselő, valamint a nemzetiségi szószóló anyanyelvhasználatával összefüggésben felmerült kiadások a nemzetiségeket képviselő bizottság erre a célra rendelkezésre álló keretét terhelik.
 

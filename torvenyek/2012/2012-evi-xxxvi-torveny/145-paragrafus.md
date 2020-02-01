@@ -37,3 +37,11 @@
 (15) A Módtv.2.-vel megállapított 118. § (5a) és (6) bekezdését az országgyűlési képviselők 2014. évi általános választását követően megalakult Országgyűlés alakuló ülésének napjától a Módtv.2. hatálybalépésének napjáig keletkezett keretmaradványok tekintetében is alkalmazni kell.
 
 (16) E törvénynek az Országgyűlés működését és a képviselők jogállását érintő egyes törvények módosításáról szóló 2019. évi CVIII. törvénnyel (a továbbiakban: Módtv.5.) megállapított rendelkezéseit – a 10. § (1) bekezdés g) pontja és (2) bekezdés g) pontja, a 28. § (2a) bekezdése, a 45–52/H. §, az 53. § (2) és (3) bekezdése, a 107–107/B. §, valamint a 142. § (2) bekezdése kivételével – a hatálybalépésükkor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(17) A (16) bekezdéstől eltérően a Módtv.5. hatálybalépésekor jelképet használóra a Módtv.5.-tel megállapított III/A. Fejezet rendelkezéseit kell alkalmazni azzal, hogy jogosulatlan jelképhasználatnak minősül, ha a használatot 2020. augusztus 31-ig nem szünteti meg, kivéve, ha a jelkép
+
+a) a Módtv.5.-tel megállapított 27/E. § alapján szabadon felhasználható,
+
+b) használatára a Módtv.5. hatálybalépésekor engedély alapján jogosult, vagy
+
+c) használója a Módtv.5.-tel megállapított 27/F. § (2) és (3) bekezdése szerinti tartalommal 2020. május 31-ig kérelmezi a Kiemelt Nemzeti Emlékhely Bizottság elnökénél a jelképhasználatra vonatkozó hozzájárulás megadását és a hozzájárulást megkapja.

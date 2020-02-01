@@ -22,7 +22,7 @@ h) megállapítja azokat az eseteket, amelyekben a házszabályi rendelkezések 
 
 i) a házelnök felkérésére megvitatja az Országgyűléshez, illetve annak tisztségviselőihez érkezett jelentősebb beadványokat, petíciókat, felhívásokat, nyílt leveleket, valamint véleményezi az ezekkel kapcsolatos esetleges intézkedéseket,
 
-j) megállapítja az Országgyűlés üléseinek szavazásairól, valamint a bizottsági ülésekről való távolmaradás igazolásának rendjét, illetve a képviselői tiszteletdíj e törvényben meghatározott esetekben való csökkentése végrehajtásának szabályait,
+j)
 
 k) állást foglal a miniszteri tisztségre javasolt személyek kinevezés előtti bizottsági meghallgatásának rendjéről,
 
@@ -32,7 +32,7 @@ m) javaslatot tesz az alelnök vagy jegyző felmentésére,
 
 n) az Országgyűlés ülésének napirendjére vonatkozó javaslatban javaslatot tesz az interpellációk és kérdések elhangzásának időpontjára,
 
-o) dönt a protokolláris jellegű napirenden kívüli felszólalások engedélyezéséről,
+o) dönt a protokolláris jellegű napirenden kívüli felszólalások, valamint a köztársasági elnök napirenden kívüli felszólalásához kapcsolódó képviselőcsoport-vezetői hozzászólások engedélyezéséről,
 
 p) a karzaton – a férőhelyektől függően – ülőhelyeket biztosít a hallgatóság számára,
 

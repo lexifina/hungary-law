@@ -1,13 +1,9 @@
-49. § (1) Az ülést vezető elnök felszólítás és figyelmeztetés nélkül megvonhatja a szót attól a felszólalótól, aki az ülést vezető elnök döntését, ülésvezetését – ügyrendi javaslat kivételével – kifogásolja. Az a felszólaló, akitől az ülést vezető elnök felszólítás és figyelmeztetés nélkül vonta meg a szót, kérheti a házszabályi rendelkezések értelmezéséért felelős bizottság eseti jellegű állásfoglalását.
+49. § (1) A kitiltott képviselő az Országház, az Országgyűlés Irodaháza és az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területét köteles elhagyni, a kitiltás időtartama alatt azok területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
 
-(2) Az (1) bekezdés kivételével nem lehet megvonni a szót, ha az ülést vezető elnök a felszólítás alkalmával nem figyelmeztette a képviselőt a felszólítás következményére.
+(2) Ha az ülést vezető elnök által azonnali hatállyal kitiltott képviselő az ülést vezető elnök ülésterem elhagyására irányuló felszólításának nem tesz eleget, a vele szemben elrendelendő tiszteletdíj-csökkentés összegének a felső határa a kétszeresére emelkedik.
 
-(3) Akitől a szót az (1) bekezdés, a 46. § (2) bekezdése vagy a 48. § (2) bekezdése alapján megvonták, ugyanazon az ülésnapon, ugyanazon napirendi pont tárgyalása során nem szólalhat fel újra.
+(3) Az ülést vezető elnök az azonnali hatályú kitiltás elrendeléséről szóló döntését – az intézkedés okának és jogalapjának megjelölésével – az azonnali hatállyal elrendelt kitiltást követő három munkanapon belül írásban is közli a képviselővel.
 
-(4) Ha a képviselő az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre, szavazásra vagy a szemléltetésre vonatkozó szabályait megszegi, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve az 51/A. § alkalmazásával a képviselő esedékes tiszteletdíja csökkenthető. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre, szavazásra vagy a szemléltetésre vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
+(4) Az ülést vezető elnök által azonnali hatállyal elrendelt kitiltás időtartama tizenöt naptári nap. A házelnök által elrendelt kitiltás időtartama a 47. § (2) bekezdésében meghatározott mértékig terjedhet, azzal, hogy a kitiltás első napja a házelnök döntésének jogerőre emelkedését követő első ülésnap vagy első naptári nap.
 
-(5) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
-
-(6) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
-
-(7)–(8)
+(5) A kitiltás időtartamának számításakor a rendes ülésszakok közötti időtartamot is figyelembe kell venni. Az ülésnapokra elrendelt kitiltás hatálya kiterjed a kitiltással érintett ülésnapok közötti naptári napokra is.

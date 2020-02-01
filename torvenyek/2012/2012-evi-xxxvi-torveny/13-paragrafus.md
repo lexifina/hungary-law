@@ -12,8 +12,8 @@
 
 (5a) A nemzetiségeket képviselő bizottság elnöke kezdeményezheti a házelnöknél a Házbizottság összehívását annak érdekében, hogy a Házbizottság valamely napirendi pontot a nemzetiségek érdekeit, jogait érintő napirendi pontként határozzon meg. A Házbizottság összehívásáról a házelnök dönt.
 
-(6) A Házbizottság a döntéseit egyhangúlag hozza meg. Egyhangú döntés hiányában a 11. § (1) bekezdés a) és j) pontjában foglaltakról az Országgyűlés, egyéb kérdésekben a házelnök dönt.
+(6) A Házbizottság a döntéseit valamennyi – szavazati joggal rendelkező – tagjának egyhangú szavazatával hozza meg, ennek hiányában a 11. § (1) bekezdés a) pontjában foglaltakról az Országgyűlés vita nélkül, egyéb kérdésekben a házelnök dönt.
 
-(7) Ha a Házbizottság egyhangú döntése hiányában az Országgyűlés dönt, a vita tárgyát képező kérdés ismertetését követően képviselőcsoportonként egy képviselő, továbbá az elsőként szólásra jelentkező független képviselő legfeljebb háromperces hozzászólása után határoz.
+(7)
 
 (8) A Házbizottság a működési rendjét – a házszabályi rendelkezésekre tekintettel – maga határozza meg.

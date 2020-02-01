@@ -12,7 +12,7 @@ a) egy állandó bizottság vagy a nemzetiségeket képviselő bizottság tagja,
 
 b) a törvényalkotási bizottság vagy legalább kettő, a 14. § (1) bekezdés a) pontja szerinti bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg 1,4-szerese.
 
-(3) Ha az (1) bekezdés szerinti nemzetgazdasági havi átlagos bruttó kereset alacsonyabb a tárgyévet megelőző második évre vonatkozó, hivatalosan közzétett nemzetgazdasági havi átlagos bruttó kereset összegénél, az (1) és (2) bekezdés szerinti tiszteletdíj összegét az utóbbi alapulvételével kell megállapítani.
+(3)
 
 (4) A képviselő az (1) bekezdés szerinti tiszteletdíjra az eskütételétől a megbízatásának megszűnéséig, a (2) bekezdés szerinti tiszteletdíjra a bizottsági, illetve a további bizottsági tagsági megbízatás időtartamára jogosult.
 

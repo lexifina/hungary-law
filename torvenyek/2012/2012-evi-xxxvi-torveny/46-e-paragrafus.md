@@ -1,0 +1,1 @@
+46/E. § Azt a képviselőt, aki az ülés, a vita vagy a szavazás menetét zavarja, vagy az Országgyűlés ülésének résztvevőjét az üléstermi jogai gyakorlásában vagy kötelezettségei teljesítésében zavarja, az ülést vezető elnök az adott ülésnapról vagy ülésről kizárhatja vagy a képviselő azonnali hatályú kitiltását rendelheti el.

@@ -1,0 +1,1 @@
+52/C. § Az országgyűlési bizottság – bármely tagjának indítványára – vita nélkül dönthet arról, hogy a 46/B. § (2) bekezdésében, a 46/C. § (2) bekezdésében, a 46/D. §-ban vagy a 46/E. §-ban meghatározott magatartást tanúsító képviselő felszólalási jogát a bizottsági ülés hátralévő időtartamára megvonja.

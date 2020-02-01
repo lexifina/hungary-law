@@ -1,31 +1,27 @@
 ## III/A. Fejezet
 
-## AZ ORSZÁGGYŰLÉS NEVÉNEK, JELKÉPÉNEK HASZNÁLATA
+## AZ ORSZÁGGYŰLÉS NEVÉNEK ÉS JELKÉPÉNEK HASZNÁLATA
 
-27/D. § (1) Az Országgyűlés, az Országház és a Parlament elnevezése, az Országház képe vagy az Országház képi stilizált mintájának képe (a továbbiakban együtt: jelkép) a (2)–(3) bekezdésben meghatározottak szerint használható.
+## 10/D. A jelkép fogalma, a jelkép használatának általános szabályai
 
-(2) Az Országház képe
+27/D. § (1) Az
 
-a) turisztikai, idegenforgalmi célból, továbbá
+a) Országgyűlés, az Országház és a Parlament elnevezés,
 
-b) hírszolgáltatási, oktatási, művészeti, kulturális, valamint tudományos tevékenység során
+b) Országház képe, az Országház stilizált képe vagy sziluettje
 
-használható.
+[az a) és b) pont a továbbiakban együtt: jelkép] a szabad felhasználás e Fejezetben meghatározott szabályainak megfelelően vagy a Kiemelt Nemzeti Emlékhely Bizottság vagy annak meghatalmazása alapján az Országgyűlés Hivatalának mint a kiemelt nemzeti emlékhely vagyonkezelőjének előzetes hozzájárulása (a továbbiakban: hozzájárulás) megadását követően használható.
 
-(3) A jelkép (2) bekezdésben nem szabályozott használatához a Kiemelt Nemzeti Emlékhely Bizottság vagy a Kiemelt Nemzeti Emlékhely Bizottság meghatalmazása alapján az Országgyűlés Hivatalának, mint a kiemelt nemzeti emlékhely vagyonkezelőjének előzetes hozzájárulása szükséges.
+(2) E Fejezet alkalmazásában a Kiemelt Nemzeti Emlékhely Bizottság eljárásán a Kiemelt Nemzeti Emlékhely Bizottság meghatalmazása alapján eljáró Országgyűlés Hivatalának mint a kiemelt nemzeti emlékhely vagyonkezelőjének az eljárását is érteni kell.
 
-(4) A (3) bekezdés szerinti előzetes hozzájárulásra vonatkozó kérelmet a Kiemelt Nemzeti Emlékhely Bizottság elnökének címezve az Országgyűlés Hivatalához kell benyújtani.
+(3) A jelkép használata
 
-(5) Az előzetes hozzájárulás megadása iránti kérelem tartalmazza
+a) nem sértheti az Országgyűlés méltóságát, továbbá
 
-a) a kérelmező nevét, lakcímét vagy székhelyét,
+b) nem eredményezheti azt a látszatot, hogy a jelkép használója vagy annak tevékenysége összefüggésben áll az Országházzal, az Országgyűléssel, vagy annak tevékenységével, kivéve, ha a használathoz kapott hozzájárulásból ez következik.
 
-b) a jelkép használatának célját,
+(4) A jelkép használatához közérdek fűződik.
 
-c) a jelkép használatára irányuló tevékenység részletes leírását,
+(5) A jelkép 27/E. § szerinti szabad felhasználása és a 27/F. § szerinti, hozzájáruláson alapuló használathoz adott hozzájárulás nem minősül a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény (a továbbiakban: Vt.) alkalmazásában védjegybejegyzési, illetve megújítási eljárásokban védjegyoltalomban részesítéshez való hozzájárulásnak.
 
-d) a jelkép használatára irányuló tevékenység megvalósításának helyét,
-
-e) a jelkép várható elhelyezését (ha a jelkép használatának célja épületen vagy építményen való elhelyezés),
-
-f) a jelkép használatára irányuló tevékenység megkezdésének időpontját és a használat várható időtartamát.
+(6) A jelkép Vt. szerinti védjegybejegyzési, illetve megújítási eljárásokban védjegyoltalomban részesítendő megjelölésként vagy annak részeként történő használata a Kiemelt Nemzeti Emlékhely Bizottság hozzájárulásához kötött. Amennyiben a jelképet tartalmazó megjelölés az e bekezdés szerinti hozzájárulás alapján védjegyoltalomban részesül, úgy ezen hozzájárulás a 27/F. § szerinti hozzájárulásnak is minősül a védjegyoltalom időtartamára nézve.

@@ -6,11 +6,11 @@
 
 143. § (1)
 
-(2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
+(2)
 
-(3) Felhatalmazást kap a rendvédelmi szervet irányító miniszter, hogy az irányítása alá tartozó rendvédelmi szervek működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
+(3)
 
-(4) Felhatalmazást kap a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a vámhatóság működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
+(4)
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
 
