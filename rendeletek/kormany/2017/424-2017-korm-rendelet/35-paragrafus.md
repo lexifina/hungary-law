@@ -16,11 +16,11 @@
 
 (8) A 2018. január 1-jét megelőzően elektronikusan megkezdett eljárásokra a közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól, valamint az elektronikus árlejtés alkalmazásáról szóló 257/2007. (X. 4.) Korm. rendeletnek az eljárás megindításakor hatályos rendelkezéseit kell alkalmazni.
 
-(9)[^52] E rendeletnek az egyes kormányrendeleteknek az elektronikus közbeszerzés szabályainak rendezésével összefüggő módosításáról szóló 66/2019. (III. 27.) Korm. rendelet (a továbbiakban: Módr.) által – a (10) bekezdésben hivatkozott rendelkezések kivételével – megállapított rendelkezéseit a Módr. hatálybalépése[^53] után megkezdett beszerzésekre, közbeszerzési eljárásokra kell alkalmazni.
+(9)[^56] E rendeletnek az egyes kormányrendeleteknek az elektronikus közbeszerzés szabályainak rendezésével összefüggő módosításáról szóló 66/2019. (III. 27.) Korm. rendelet (a továbbiakban: Módr.) által – a (10) bekezdésben hivatkozott rendelkezések kivételével – megállapított rendelkezéseit a Módr. hatálybalépése[^57] után megkezdett beszerzésekre, közbeszerzési eljárásokra kell alkalmazni.
 
-(10)[^54] E rendeletnek a Módr. által megállapított 16. § (2)–(4) bekezdésének, valamint 22. § (3)–(4) bekezdésének rendelkezéseit a Módr. hatálybalépését[^55] követően felmerülő üzemzavar vagy működési hiba esetén, a folyamatban lévő beszerzésekben, közbeszerzési eljárásokban is kell alkalmazni.
+(10)[^58] E rendeletnek a Módr. által megállapított 16. § (2)–(4) bekezdésének, valamint 22. § (3)–(4) bekezdésének rendelkezéseit a Módr. hatálybalépését[^59] követően felmerülő üzemzavar vagy működési hiba esetén, a folyamatban lévő beszerzésekben, közbeszerzési eljárásokban is kell alkalmazni.
 
-[^52]: A 35. § (9) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^53]: A hatálybalépés időpontja 2019. április 1.
-[^54]: A 35. § (10) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^55]: A hatálybalépés időpontja 2019. április 1.
+[^56]: A 35. § (9) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^57]: A hatálybalépés időpontja 2019. április 1.
+[^58]: A 35. § (10) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^59]: A hatálybalépés időpontja 2019. április 1.

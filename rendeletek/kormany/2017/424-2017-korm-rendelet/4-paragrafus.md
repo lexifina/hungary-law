@@ -1,4 +1,4 @@
-## 3. §[^3] A Kbt. 39. § (2) bekezdése alkalmazásában, a közbeszerzési dokumentumok elektronikus rendelkezésre bocsátására vonatkozó kötelezettség alóli kivételek körében a közbeszerzési dokumentumok kizárólag abban az esetben minősíthetők bizalmas jellegűnek, ha azok üzleti titkot vagy minősített adatot tartalmaznak, illetve biztonsági vagy nemzetbiztonsági okból bizalmas jellegűek és a gazdasági szereplők széles körében rendelkezésre álló elektronikus kapcsolattartási forma alkalmazásával a megfelelő védelem nem biztosítható.
+## 3. §[^3]
 
 ## 2. Általános követelmények
 
@@ -20,4 +20,4 @@ g) a továbbított adatokhoz hozzáférési jogosultságot csak az arra jogosult
 
 h) az e § szerinti követelmények megsértése felderíthető legyen.
 
-[^3]: A 3. § a 66/2019. (III. 27.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^3]: A 3. §-t a 9/2020. (I. 31.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.
