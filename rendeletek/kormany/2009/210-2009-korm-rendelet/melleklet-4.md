@@ -1,5 +1,3 @@
-## Az üzlet működése iránti eljárásban kizárás esetén másodfokon eljáró kormányhivatalok
-
 | A | B |
 
 | Az üzlet fekvése | Az üzlet működési engedély kiadása iránti eljárásban másodfokú hatóságként eljáró fővárosi és megyei kormányhivatal |

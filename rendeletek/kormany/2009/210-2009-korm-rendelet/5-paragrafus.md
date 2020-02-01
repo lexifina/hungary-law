@@ -1,3 +1,3 @@
-## 4. §[^6]
+5. §[^7]
 
-[^6]: A 4. §-t a 457/2017. (XII. 28.) Korm. rendelet 267. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: Az 5. §-t a 441/2015. (XII. 28.) Korm. rendelet 117. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

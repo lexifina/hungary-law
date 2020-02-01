@@ -1,6 +1,6 @@
 5. melléklet a 210/2009. (IX. 29.) Korm. rendelethez
 
-## Közterületi értékesítés keretében forgalmazható termékek
+Közterületi értékesítés keretében forgalmazható termékek
 
 1. napilap és hetilap, folyóirat, könyv;
 

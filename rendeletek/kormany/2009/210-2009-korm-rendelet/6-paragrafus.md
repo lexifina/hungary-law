@@ -1,5 +1,3 @@
-## 5. §[^7]
-
 ## A kereskedelmi tevékenység bejelentésével kapcsolatos eljárás
 
 6. § (1)[^8] A kereskedő a Kertv. 3. § (1) bekezdése szerinti bejelentésének az 1. melléklet A) pontjában meghatározott adatokat kell tartalmaznia. A bejelentésről a 2. § a) és b) pontjában meghatározott hatóság (a továbbiakban: jegyző) a 2. melléklet A) pontjában meghatározott adattartalommal nyilvántartást vezet. A nyilvántartás a 2. melléklet A) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A jegyző által vezetett nyilvántartás nyilvános, a jegyző a nyilvántartást az önkormányzat honlapján közzéteszi.
@@ -30,7 +28,6 @@ b)[^12] élelmiszer, takarmány, állatgyógyászati készítménynek nem minős
 
 (8)[^19] A kereskedelmi tevékenység bejelentésekor a kereskedőnek szükséges igazolnia az üzlet használatának jogcímét, haszonélvezet esetében a haszonélvező hozzájárulását, illetve a közös tulajdonban álló üzlet esetében a tulajdonostársak hozzájárulását.
 
-[^7]: Az 5. §-t a 441/2015. (XII. 28.) Korm. rendelet 117. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^8]: A 6. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 112. § (2) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^9]: A 6. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 112. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^10]: A 6. § (2a) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 112. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

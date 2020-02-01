@@ -1,6 +1,6 @@
 1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^64]
 
-## A) A bejelentésköteles kereskedelmi tevékenység folytatásáról szóló bejelentés adattartalma
+A) A bejelentésköteles kereskedelmi tevékenység folytatásáról szóló bejelentés adattartalma
 
 I. A kereskedő és a kereskedelmi tevékenység adatai
 

@@ -102,7 +102,7 @@
 
 3. melléklet a 210/2009. (IX. 29.) Korm. rendelethez
 
-## A kizárólag üzletben forgalmazható termékek
+A kizárólag üzletben forgalmazható termékek
 
 1.[^70]
 
@@ -118,7 +118,7 @@
 
 7. nem veszélyes hulladék;
 
-8.[^73] az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag, kivéve a jövedéki adóról szóló törvény szerinti tüzelő-, fűtőanyag célú gázolaj, LPG és az üzemanyag.
+8.[^73] az Országos Tűzvédelmi Szabályzat szerint fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag, kivéve a jövedéki adóról szóló törvény szerinti tüzelő-, fűtőanyag célú gázolaj, LPG és az üzemanyag.
 
 [^65]: A 2. melléklet A) cím 5. pont 5.4. alpontja az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^66]: A 2. melléklet A) cím 5a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
@@ -128,4 +128,4 @@
 [^70]: A 3. melléklet 1. pontját a 8/2013. (I. 18.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
 [^71]: A 3. melléklet 2. pontja a 163/2010. (V. 11.) Korm. rendelet 18. §-a, a 419/2016. (XII. 14.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^72]: A 3. melléklet 5. pontja a 173/2011. (VIII. 24.) Korm. rendelet 114. § (3) bekezdésével megállapított szöveg.
-[^73]: A 3. melléklet 8. pontja a 300/2014. (XII. 5.) Korm. rendelet 6. §-ával megállapított, a 419/2016. (XII. 14.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^73]: A 3. melléklet 8. pontja a 300/2014. (XII. 5.) Korm. rendelet 6. §-ával megállapított, a 419/2016. (XII. 14.) Korm. rendelet 4. § c) pontja, a 6/2020. (I. 31.) Korm. rendelet 5. §-a szerint módosított szöveg.
