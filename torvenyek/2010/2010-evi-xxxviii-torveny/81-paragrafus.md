@@ -14,7 +14,7 @@ hogy az ingó vagyontárgy nem tartozik a hagyatékhoz, hanem az igénylőt ille
 
 a) jogerős bírósági vagy véglegessé vált közigazgatási határozat alapján megállapítható, hogy az nem tartozott az örökhagyó hagyatékához, vagy
 
-b) a vagyontárgy tulajdonjogára igényt tartó személy a hagyatéki tárgyalás berekesztéséig közokirattal igazolja, hogy javára a tulajdonjogot a nyilvántartásba bejegyezték.
+b) a vagyontárgy tulajdonjogára igényt tartó személy a hagyatéki tárgyalás berekesztéséig, illetve tárgyalás nélküli hagyatékátadás esetén a hagyatékátadó végzés meghozataláig közokirattal igazolja, hogy javára a tulajdonjogot a nyilvántartásba bejegyezték.
 
 (4) Ha a leltárba felvett vagyonra, vagyonrészre vagy vagyontárgyra az örökhagyó túlélő házastársa (volt házastársa) házastársi vagyonközösség jogcímén, vagy az örökhagyót túlélő élettársa (volt élettársa) az együttélés alatt keletkezett vagyonközösségből őt megillető részesedés jogcímén igényt tart és
 

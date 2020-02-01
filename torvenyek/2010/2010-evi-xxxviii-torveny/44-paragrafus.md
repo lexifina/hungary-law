@@ -1,7 +1,3 @@
-## III. Fejezet
-
-## A HAGYATÉKI TÁRGYALÁS
-
 ## A tárgyalás kitűzése
 
 44. § (1) A tárgyalást úgy kell kitűzni, hogy a hagyatéki tárgyalásra szóló idézés kézbesítése a tárgyalás napját legalább 8 nappal megelőzze. A tárgyalási időközt a közjegyző sürgős esetben lerövidítheti.

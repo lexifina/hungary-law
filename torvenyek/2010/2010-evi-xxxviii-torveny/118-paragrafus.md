@@ -7,3 +7,5 @@
 (4) A jegyző és a közjegyző az ismert vagy ismeretlen öröklésben érdekelt e törvény szerint kezelhető adatainak megállapítása és az ezekről rendelkezésére álló adatok ellenőrzése céljából adatot igényelhet a személyiadat- és lakcímnyilvántartásból, valamint az anyakönyvből.
 
 (5) A jegyző és a közjegyző a hagyatéki eljárásban a rendelkezésére álló adatoknak a pénzforgalmi szolgáltatónál, a befektetési szolgáltatónál, az önkéntes kölcsönös nyugdíj-, egészség- és önsegélyező pénztárnál, illetve a biztosítónál (a továbbiakban együtt: szolgáltató) nyilvántartott adatokkal való egyezősége, és a hagyaték tárgyához tartozó vagyon megállapítása céljából a szolgáltatóktól igényelheti az örökhagyó náluk kezelt vagyonára vonatkozó adatokat.
+
+(6) Ha az eljárás során adat merül fel arra, hogy az örökhagyó haláleseti kedvezményezettet nevezett meg, a pénzügyi intézmény a közjegyző erre vonatkozó megkeresésében foglalt – a kötelesrész alapjának számításához szükséges – adatszolgáltatásra köteles.

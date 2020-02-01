@@ -1,6 +1,6 @@
 ## Idézés
 
-53. § (1) A közjegyző a hagyaték tárgyalására az örökhagyó végintézkedésének hiányában megidézi
+53. § (1) A közjegyző a hagyatéki tárgyalásra az örökhagyó végintézkedésének hiányában megidézi
 
 a) a törvényes örökösöket,
 
@@ -10,7 +10,7 @@ c) a hagyatéki eljárásban fellépett igénylőt és
 
 d) azt, aki mint az örökhagyó hagyatékához tartozó dolog birtokosa, vagy az örökhagyó hagyatékához tartozó, és a halállal az örökösre (hagyományosra) átszálló jog vagy követelés kötelezettje az idézést kérte.
 
-(2) Ha az örökhagyó végintézkedést tett, a közjegyző a hagyaték tárgyalására a végintézkedés lényeges tartalmának közlésével megidézi:
+(2) Ha az örökhagyó végintézkedést tett, a közjegyző a hagyatéki tárgyalásra a végintézkedés lényeges tartalmának közlésével megidézi:
 
 a) a végintézkedésben megjelölt, örökösként érdekeltet,
 

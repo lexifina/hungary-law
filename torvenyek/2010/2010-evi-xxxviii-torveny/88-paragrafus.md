@@ -2,7 +2,7 @@
 
 a) a hagyatéki per megindítását a jogosult nem igazolja,
 
-b) a hagyatéki pert megindító keresetlevelet a bíróság a jogerősen elutasította,
+b) a hagyatéki pert megindító keresetlevelet a bíróság a jogerősen visszautasította,
 
 c) a bíróság a keresetet jogerősen elutasította,
 
