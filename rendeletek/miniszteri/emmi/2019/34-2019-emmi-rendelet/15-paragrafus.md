@@ -1,5 +1,5 @@
-## 14. §[^15]
+## 14. §[^14]
 
 ## 3. A pedagógiai szakszolgálati intézmények működéséről szóló 15/2013. (II. 26.) EMMI rendelet módosítása
 
-[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
