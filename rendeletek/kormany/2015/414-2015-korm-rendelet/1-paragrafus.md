@@ -24,13 +24,13 @@ ec) közérdekű munka helyébe lépő szabadságvesztést töltő,
 
 ed) pénzbüntetés helyébe lépő szabadságvesztést töltő,
 
-ee) előzetesen letartóztatott,
+ee)[^1] letartóztatott,
 
 ef) rendbírság helyébe lépő elzárást töltő,
 
 eg) kényszergyógykezelt,
 
-eh) ideiglenesen kényszergyógykezelt és
+eh)[^2] előzetes kényszergyógykezelt és
 
 ei) a szabálysértési elzárást, valamint a pénzbírság, a helyszíni bírság és a közérdekű munka helyébe lépő szabálysértési elzárást töltő
 
@@ -47,3 +47,6 @@ i) PUK kód: az állandó személyazonosító igazolvány tároló eleméhez ren
 j) regisztrációs kód: az állandó személyazonosító igazolványhoz rendelt, az ügyfélkapu igénybevételéhez szükséges regisztráció elektronikus úton történő előterjesztéséhez szükséges ellenőrző adat;
 
 k) visszavonási jelszó: az elektronikus aláíráshoz tartozó tanúsítvány ügyfél kérelmére történő telefonos visszavonásához szükséges kód.
+
+[^1]: Az 1. § e) pont ee) alpontja a 6/2020. (I. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § e) pont eh) alpontja a 6/2020. (I. 31.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 3/A. §[^9] A kijelölt kormányhivatal
+## 3/A. §[^11] A kijelölt kormányhivatal
 
 1. a nála előterjesztett kérelem esetén dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, valamint a személyazonosító igazolvány visszavonásáról,
 
@@ -32,10 +32,10 @@
 
 16. törvényben meghatározottak szerint adatszolgáltatást teljesít a személyazonosító igazolvány nyilvántartásból,
 
-17.[^10] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
+17.[^12] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
 
-18.[^11] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
+18.[^13] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
 
-[^9]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.
-[^10]: A 3/A. § 17. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^11]: A 3/A. § 18. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^11]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.
+[^12]: A 3/A. § 17. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^13]: A 3/A. § 18. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (4) bekezdése iktatta be.

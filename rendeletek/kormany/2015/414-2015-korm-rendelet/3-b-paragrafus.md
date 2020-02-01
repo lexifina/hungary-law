@@ -1,4 +1,4 @@
-## 3/B. §[^12] A konzuli tisztviselő
+## 3/B. §[^14] A konzuli tisztviselő
 
 a) a nála előterjesztett kérelem esetén dönt az állandó személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról,
 
@@ -10,6 +10,9 @@ d) kezeli a személyazonosító igazolvány kiadásának megtagadásával, valam
 
 e) lehetővé teszi az állandó személyazonosító igazolványhoz tartozó PIN-kód cseréjét,
 
-f) a nála előterjesztett kérelem alapján végzi a vészhelyzet esetén értesítendő személy telefonszámának rögzítését, cseréjét és törlését.
+f) a nála előterjesztett kérelem alapján végzi a vészhelyzet esetén értesítendő személy telefonszámának rögzítését, cseréjét és törlését,
 
-[^12]: A 3/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
+g)[^15] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését.
+
+[^14]: A 3/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
+[^15]: A 3/B. § g) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (1) bekezdése iktatta be.

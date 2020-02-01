@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-414-20-
 | 2019-08-03 | 2015-414-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-08-17 | 2015-414-20-22.12 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2019-09-30 | 2015-414-20-22.13 | 176/2019. (VII. 18.) Korm. rendelet |
+| 2020-02-01 | 2015-414-20-22.14 | 6/2020. (I. 31.) Korm. rendelet |
