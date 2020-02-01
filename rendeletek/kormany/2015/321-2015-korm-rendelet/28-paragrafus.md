@@ -6,4 +6,6 @@
 
 (4) A minősítési szempontok meghatározása során nem lehet különbséget tenni az ajánlattevők között sem letelepedési helyük szerint, sem más módon. A minősítési szempontokat a Hatóság jogosult tevékenységek vagy ágazatok szerinti bontásban, illetve azokon belül is több szinten meghatározni.
 
-(5) A Kbt. 65. § (7) bekezdésének alkalmazásakor a kapacitásait rendelkezésre bocsátó szervezet (személy) olyan szerződéses, vagy előszerződésben vállalt kötelezettségvállalását tartalmazó okiratot kell csatolni, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások a hatósági hivatalos jegyzékben szereplés teljes időtartama alatt az ajánlattevő rendelkezésére fognak állni.
+(5)[^54] A Kbt. 65. § (7) bekezdésének alkalmazásakor a kapacitásait rendelkezésre bocsátó szervezet (személy) olyan – szerződésben, előszerződésben vagy más formában vállalt – kötelezettségvállalását tartalmazó okiratot kell csatolni, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások a hatósági hivatalos jegyzékben szereplés teljes időtartama alatt az ajánlattevő rendelkezésére fognak állni.
+
+[^54]: A 28. § (5) bekezdése a 9/2020. (I. 31.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 a) nem felel meg a minősítési szempontoknak;
 
-b)[^50] közbeszerzéssel kapcsolatos jogorvoslati eljárásban végleges határozattal eltiltották közbeszerzési eljárásban való részvételtől;
+b)[^55] közbeszerzéssel kapcsolatos jogorvoslati eljárásban végleges határozattal eltiltották közbeszerzési eljárásban való részvételtől;
 
-c)[^51] közbeszerzéssel kapcsolatos jogorvoslati eljárásban végleges határozattal elrendelték a hatósági hivatalos jegyzékéből való törlését;
+c)[^56] közbeszerzéssel kapcsolatos jogorvoslati eljárásban végleges határozattal elrendelték a hatósági hivatalos jegyzékéből való törlését;
 
 d) azt a minősített ajánlattevő kéri;
 
@@ -16,5 +16,5 @@ f) a minősített ajánlattevő megszűnt, illetve meghalt.
 
 (3) A minősített ajánlattevő a hatósági hivatalos jegyzékből való törléséről szóló határozat kézhezvételét követően köteles haladéktalanul törlését bejelenteni az ajánlatkérőnek, ha folyamatban levő közbeszerzési eljárásban vesz részt.
 
-[^50]: A 33. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 547. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^51]: A 33. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 547. § d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^55]: A 33. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 547. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^56]: A 33. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 547. § d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

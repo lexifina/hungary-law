@@ -1,4 +1,4 @@
-3. §[^7] (1) Az ajánlattevő vagy részvételre jelentkező az ajánlatával vagy részvételi jelentkezésével együtt benyújtja a 4–7. §-nak megfelelően, valamint az ajánlatkérő által a 2. § alapján kért módon kitöltött formanyomtatványt.
+3. §[^8] (1) Az ajánlattevő vagy részvételre jelentkező az ajánlatával vagy részvételi jelentkezésével együtt benyújtja a 4–7. §-nak megfelelően, valamint az ajánlatkérő által a 2. § alapján kért módon kitöltött formanyomtatványt.
 
 (2) Az (1) bekezdés alkalmazásában az ajánlatok vagy részvételi jelentkezések papíralapú benyújtása esetén vagy a közbeszerzésekért felelős miniszter által üzemeltetett elektronikus közbeszerzési rendszertől (a továbbiakban: EKR) eltérő informatikai rendszer alkalmazása esetén – ha az informatikai rendszer elektronikus űrlapként nem, csak a papíralapú dokumentum egyszerű elektronikus másolata formájában vagy legalább fokozott biztonságú elektronikus aláírással ellátott dokumentumként teszi lehetővé a formanyomtatvány benyújtását – az ajánlattevő vagy részvételre jelentkező a kitöltött formanyomtatványt a megfelelő képviseleti jogosultsággal rendelkező személy által aláírt formában nyújtja be.
 
@@ -10,4 +10,4 @@
 
 (6) Az (5) bekezdés alkalmazásában az ajánlatok vagy részvételi jelentkezések papíralapú benyújtása esetén a közös ajánlattevők vagy részvételre jelentkezők mindegyike külön formanyomtatványt nyújt be.
 
-[^7]: A 3. § a 66/2019. (III. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^8]: A 3. § a 66/2019. (III. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
