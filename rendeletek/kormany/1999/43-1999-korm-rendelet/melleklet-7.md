@@ -26,9 +26,9 @@ A finanszírozás módja szerint aktív ellátásnak minősül az az ellátás, 
 
 A finanszírozás módja szerint krónikus ellátásnak minősül az, amelynek célja az egészségi állapot stabilizálása, fenntartása, illetve helyreállítása. Az ellátás időtartama, illetve befejezése általában nem tervezhető, és jellemzően hosszú időtartamú.
 
-3.[^631] Mátrix kórházi ellátás
+3.[^633] Mátrix kórházi ellátás
 
-A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^632]
+A betegellátás az aktív fekvőbeteg-szakellátó intézetben klinikai típusú és műtétes egységekben történik az egészségügyi államigazgatási szerv engedélye szerint. A kórház ezen belül nem különül el osztálystruktúrákra, hanem a mindenkori ellátási igény szerint végzi az ellátást.[^634]
 
-[^631]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^632]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.
+[^633]: A 7. számú melléklet „3. Mátrix kórházi ellátás” pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^634]: A Magyar Közlöny 1999. évi 34. számában közzétett helyesbítésnek megfelelő szöveg.

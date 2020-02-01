@@ -1,5 +1,5 @@
-43/B. §[^512] (1) Az 5. számú mellékletben a „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál az R. 1. számú mellékletében szereplő – tételes elszámolás alá eső – egyszer használatos eszközök és implantátumok adatszolgáltatási és elszámolási szabályait a (2) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+43/B. §[^513] (1) Az 5. számú mellékletben a „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál az R. 1. számú mellékletében szereplő – tételes elszámolás alá eső – egyszer használatos eszközök és implantátumok adatszolgáltatási és elszámolási szabályait a (2) bekezdésben foglaltak figyelembevételével kell alkalmazni.
 
 (2) A várólista csökkentési programba bevont szolgáltatók részére a 28/C. § (3) és (4) bekezdése szerinti esetek ellátásához alkalmazott, az előirányzat terhére elszámolható, kapcsolódó speciális finanszírozású eszközöket nem kell figyelembe venni a 43. § (3) bekezdése szerinti keretösszeg felhasználásában. Az előirányzat terhére elszámolható speciális finanszírozású eszközöket az elszámoláshoz a 17. számú melléklet szerinti jelentés Térítési kategória mezőjében megkülönböztető X térítési kategória jelzéssel kell jelenteni.
 
-[^512]: A 43/B. §-t a 124/2015. (V. 26.) Korm. rendelet 7. §-a iktatta be.
+[^513]: A 43/B. §-t a 124/2015. (V. 26.) Korm. rendelet 7. §-a iktatta be.

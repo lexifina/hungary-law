@@ -36,39 +36,41 @@ e) a 29/A. § (1) bekezdése szerinti orvosi klinikai és mikrobiológiai labora
 
 f)[^285] a 12611 kódszámú transztelefonikus EKG alkalmazása akut kardiális kórképekben mentési feladatok ellátása során tevékenység,
 
-g)[^286] országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750 kódszámú beavatkozások
+g)[^286] országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750 kódszámú beavatkozások,
+
+h)[^287] meddőségkezelési ellátásokhoz kapcsolódó 16640, 16641, 16642, 16643, 16644 kódszámú beavatkozások
 
 kivételével történik.
 
-(6)[^287] Az orvosi klinikai és mikrobiológiai laboratóriumi vizsgálatok esetében a TVK megállapítása az R. 2. számú mellékletében külön jelzéssel ellátott molekuláris diagnosztikai vizsgálatokra az egészségügyért felelős miniszter által meghatározott keret mértékéig kötött szolgáltatásvolumen szerződés alapján finanszírozott ellátások kivételével történik. A molekuláris diagnosztikai vizsgálatokra szerződött szolgáltatók részére a tárgyévre vonatkozó szolgáltatásvolumen keret az egészségügyért felelős miniszter által meghatározott országos keret terhére a szolgáltató vagy jogelődje által a tárgyévet megelőző finanszírozási évre vonatkozóan jelentett és elszámolható, a finanszírozásra vonatkozó szabályok változásának teljesítményre gyakorolt hatásával korrigált teljesítmény mennyiség arányában kerül megállapításra, azzal, hogy a 100% feletti TVK kihasználtságot elérő egészségügyi szolgáltatók TVK kerete nem csökkenhet.
+(6)[^288] Az orvosi klinikai és mikrobiológiai laboratóriumi vizsgálatok esetében a TVK megállapítása az R. 2. számú mellékletében külön jelzéssel ellátott molekuláris diagnosztikai vizsgálatokra az egészségügyért felelős miniszter által meghatározott keret mértékéig kötött szolgáltatásvolumen szerződés alapján finanszírozott ellátások kivételével történik. A molekuláris diagnosztikai vizsgálatokra szerződött szolgáltatók részére a tárgyévre vonatkozó szolgáltatásvolumen keret az egészségügyért felelős miniszter által meghatározott országos keret terhére a szolgáltató vagy jogelődje által a tárgyévet megelőző finanszírozási évre vonatkozóan jelentett és elszámolható, a finanszírozásra vonatkozó szabályok változásának teljesítményre gyakorolt hatásával korrigált teljesítmény mennyiség arányában kerül megállapításra, azzal, hogy a 100% feletti TVK kihasználtságot elérő egészségügyi szolgáltatók TVK kerete nem csökkenhet.
 
 (7) A tárgyidőszakra vonatkozó TVK megállapítása a finanszírozási szempontból aktív fekvőbeteg-szakellátásnak minősülő
 
 a) szülés mint esemény,
 
-b)[^288] újszülöttek első ellátási eseményéért járó súlyszám érték azon része, amely a komplikációmentes 2499 g születési súly feletti újszülött ellátásáért elszámolható, ideértve az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátás keretében végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatait is,
+b)[^289] újszülöttek első ellátási eseményéért járó súlyszám érték azon része, amely a komplikációmentes 2499 g születési súly feletti újszülött ellátásáért elszámolható, ideértve az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátás keretében végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatait is,
 
 c) boncolás, és
 
 d) szolgáltatásvolumenre kötött szerződés szerint finanszírozott ellátások,
 
-e)[^289] a 28/B. számú melléklet szerinti feltételekkel az ott meghatározott ellátások,
+e)[^290] a 28/B. számú melléklet szerinti feltételekkel az ott meghatározott ellátások,
 
-f)[^290]
+f)[^291]
 
-g)[^291]
+g)[^292]
 
 kivételével történik.
 
 (8) A tárgyidőszakra megállapított TVK-t a tárgyidőszak szerinti hónapokra vonatkozóan jelentett szolgáltatói teljesítmények elszámolásában kell alkalmazni.
 
-(9)[^292] A (9a) bekezdésben meghatározott eset kivételével a fenntartó kezdeményezheti a finanszírozónál a saját fenntartásában lévő egészségügyi szolgáltatók közötti TVK átcsoportosítást.
+(9)[^293] A (9a) bekezdésben meghatározott eset kivételével a fenntartó kezdeményezheti a finanszírozónál a saját fenntartásában lévő egészségügyi szolgáltatók közötti TVK átcsoportosítást.
 
-(9a)[^293] Abban az esetben, ha a (9) bekezdés szerinti átcsoportosítással érintett, állami tulajdonban lévő egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, az állami tulajdonban lévő szolgáltatók közötti TVK átcsoportosítást az egészségügyért felelős miniszter kezdeményezheti. Amennyiben az átcsoportosítással érintett egészségügyi szolgáltatók valamelyikének tekintetében a fenntartói jogokat egy másik miniszter gyakorolja, az állami tulajdonban lévő szolgáltatók közötti TVK átcsoportosítást az egészségügyért felelős miniszter és a fenntartói jogot gyakorló miniszter közösen kezdeményezheti.
+(9a)[^294] Abban az esetben, ha a (9) bekezdés szerinti átcsoportosítással érintett, állami tulajdonban lévő egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, az állami tulajdonban lévő szolgáltatók közötti TVK átcsoportosítást az egészségügyért felelős miniszter kezdeményezheti. Amennyiben az átcsoportosítással érintett egészségügyi szolgáltatók valamelyikének tekintetében a fenntartói jogokat egy másik miniszter gyakorolja, az állami tulajdonban lévő szolgáltatók közötti TVK átcsoportosítást az egészségügyért felelős miniszter és a fenntartói jogot gyakorló miniszter közösen kezdeményezheti.
 
-(10)[^294] Az új finanszírozási évre vonatkozó TVK megállapításáig – átmenetileg – a járóbeteg-szakellátás (ideértve a CT/MRI vizsgálatokat is), az orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint az aktív fekvőbeteg-szakellátás tekintetében a szolgáltató részére a finanszírozási évet követő hónapokra vonatkozó havi TVK-kat a számára az új finanszírozási évet megelőző finanszírozási év utolsó hónapjára meghatározott, miniszteri tartalék terhére biztosított növekmény nélküli TVK (e bekezdés alkalmazásában a továbbiakban: átmeneti TVK alap) alapján kell megállapítani. A finanszírozási évet követő hónapokra vonatkozó havi TVK-k meghatározásánál az átmeneti TVK alapot úgy kell korrigálni, mintha az adott hónapra vonatkozó szezonális index egytizenketted lett volna.
+(10)[^295] Az új finanszírozási évre vonatkozó TVK megállapításáig – átmenetileg – a járóbeteg-szakellátás (ideértve a CT/MRI vizsgálatokat is), az orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint az aktív fekvőbeteg-szakellátás tekintetében a szolgáltató részére a finanszírozási évet követő hónapokra vonatkozó havi TVK-kat a számára az új finanszírozási évet megelőző finanszírozási év utolsó hónapjára meghatározott, miniszteri tartalék terhére biztosított növekmény nélküli TVK (e bekezdés alkalmazásában a továbbiakban: átmeneti TVK alap) alapján kell megállapítani. A finanszírozási évet követő hónapokra vonatkozó havi TVK-k meghatározásánál az átmeneti TVK alapot úgy kell korrigálni, mintha az adott hónapra vonatkozó szezonális index egytizenketted lett volna.
 
-(11)[^295] Azon egészségügyi szolgáltató esetében, amely a 28/A. számú melléklet szerint az aktív fekvőbeteg-szakellátásra és az egynapos sebészeti ellátásra vonatkozóan is rendelkezik TVK-val és az egynapos sebészeti ellátásra meghatározott TVK-ja terhére egy adott szakmában, a 2017. finanszírozási évben jelentett teljesítményt, valamint ugyanezen szakmában rendelkezik aktív fekvőbeteg-szakellátási kapacitással is, a finanszírozó a 2017. évi jelentett teljesítmények alapján az adott szakmára eső egynapos sebészeti ellátásra vonatkozó TVK mennyiséget átcsoportosítja az egészségügyi szolgáltató intézményi aktív fekvőbeteg-szakellátásra vonatkozó TVK-jába azzal, hogy
+(11)[^296] Azon egészségügyi szolgáltató esetében, amely a 28/A. számú melléklet szerint az aktív fekvőbeteg-szakellátásra és az egynapos sebészeti ellátásra vonatkozóan is rendelkezik TVK-val és az egynapos sebészeti ellátásra meghatározott TVK-ja terhére egy adott szakmában, a 2017. finanszírozási évben jelentett teljesítményt, valamint ugyanezen szakmában rendelkezik aktív fekvőbeteg-szakellátási kapacitással is, a finanszírozó a 2017. évi jelentett teljesítmények alapján az adott szakmára eső egynapos sebészeti ellátásra vonatkozó TVK mennyiséget átcsoportosítja az egészségügyi szolgáltató intézményi aktív fekvőbeteg-szakellátásra vonatkozó TVK-jába azzal, hogy
 
 a) az ezen szervezeti egységeken jelentett teljesítményt a finanszírozó a 2018. májusi teljesítmények elszámolásától kezdődően a 28. § szerinti aktív fekvőbeteg-szakellátás keretében végzett egynapos sebészeti ellátásként jelentett teljesítményként számolja el, valamint
 
@@ -89,12 +91,13 @@ b) ezen szervezeti egységeken a továbbiakban is kizárólag egynapos sebészet
 [^284]: A 27. § (5) bekezdés b) pontja a 287/2018. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^285]: A 27. § (5) bekezdés f) pontját az 507/2017. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
 [^286]: A 27. § (5) bekezdés g) pontját a 142/2019. (VI. 19.) Korm. rendelet 1. §-a iktatta be.
-[^287]: A 27. § (6) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 6. §-ával megállapított, a 464/2016. (XII. 23.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^288]: A 27. § (7) bekezdés b) pontja a 73/2011. (IV. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^289]: A 27. § (7) bekezdés e) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege az 519/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^290]: A 27. § (7) bekezdés f) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § d) pontja.
-[^291]: A 27. § (7) bekezdés g) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § d) pontja.
-[^292]: A 27. § (9) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^293]: A 27. § (9a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
-[^294]: A 27. § (10) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^295]: A 27. § (11) bekezdését a 87/2018. (IV. 24.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^287]: A 27. § (5) bekezdés h) pontját a 4/2020. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^288]: A 27. § (6) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 6. §-ával megállapított, a 464/2016. (XII. 23.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^289]: A 27. § (7) bekezdés b) pontja a 73/2011. (IV. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^290]: A 27. § (7) bekezdés e) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege az 519/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^291]: A 27. § (7) bekezdés f) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § d) pontja.
+[^292]: A 27. § (7) bekezdés g) pontját a 137/2012. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § d) pontja.
+[^293]: A 27. § (9) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^294]: A 27. § (9a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^295]: A 27. § (10) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^296]: A 27. § (11) bekezdését a 87/2018. (IV. 24.) Korm. rendelet 1. § (2) bekezdése iktatta be.
