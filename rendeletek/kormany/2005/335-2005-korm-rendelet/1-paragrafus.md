@@ -12,6 +12,9 @@
 
 (4)[^3] E rendelet rendelkezéseit a bírósági iratkezelésre a bírósági ügyviteli és iratkezelési szabályokról szóló szabályokban foglalt eltérésekkel kell alkalmazni.
 
+(5)[^4] A 41. § (3) bekezdésének rendelkezéseit az ügyészségi iratkezelésre az ügyészségi ügyviteli és iratkezelési szabályokról szóló szabályokban foglalt eltérésekkel kell alkalmazni.
+
 [^1]: Az 1. § (1) bekezdése a 239/2007. (IX. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (3) bekezdését újonnan a 196/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (1) bekezdésével megállapított, a 137/2019. (VI. 11.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdését a 196/2013. (VI. 13.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (5) bekezdését a 6/2020. (I. 31.) Korm. rendelet 4. § (1) bekezdése iktatta be.

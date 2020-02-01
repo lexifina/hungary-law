@@ -1,14 +1,14 @@
-38/B. §[^84] (1)[^85] Az érkeztető rendszerben a postai szolgáltatótól a papíralapú küldeményt az 1. mellékletben felsorolt szervek címére érkezett postai papíralapú küldeményeken szereplő címhez rendelt, az érkeztető rendszer működtetője szervezeti és működési szabályzatában meghatározott kézbesítési ponton az érkeztető rendszer működtetője szervezeti és működési szabályzatában arra feljogosított személy veszi át.
+38/B. §[^85] (1)[^86] Az érkeztető rendszerben a postai szolgáltatótól a papíralapú küldeményt az 1. mellékletben felsorolt szervek címére érkezett postai papíralapú küldeményeken szereplő címhez rendelt, az érkeztető rendszer működtetője szervezeti és működési szabályzatában meghatározott kézbesítési ponton az érkeztető rendszer működtetője szervezeti és működési szabályzatában arra feljogosított személy veszi át.
 
 (2) Ha az érkeztető rendszerhez olyan küldemény érkezik, amelynek nem az 1. mellékletben felsorolt szerv a címzettje, az érkeztető rendszer működtetője a küldeményeket dokumentáltan, felbontás nélkül, kézbesítés céljából a postai szolgáltatónak haladéktalanul visszaadja.
 
 (3) Az érkeztető rendszer működtetője a (2) bekezdés szerint jár el abban az esetben is, amennyiben a küldemény címzettje nem állapítható meg.
 
-(4)[^86] Ha az érkeztető rendszerhez a 2. mellékletben felsorolt küldemény érkezik, azt az érkeztető rendszer működtetője az átvétel tényének és időpontjának megjelölésével, illetve amennyiben a küldeményt felbontotta, a felbontás tényének és időpontjának dokumentálásával a címzetthez a postai papíralapú küldeményeken feltüntetett címen történő közvetlen kézbesítés érdekében – a közvetlen kézbesítés szükségességének küldeményen való feltüntetése mellett – a postai szolgáltatónak haladéktalanul visszaadja vagy az Állami Futárszolgálatnak haladéktalanul átadja.
+(4)[^87] Ha az érkeztető rendszerhez a 2. mellékletben felsorolt küldemény érkezik, azt az érkeztető rendszer működtetője az átvétel tényének és időpontjának megjelölésével, illetve amennyiben a küldeményt felbontotta, a felbontás tényének és időpontjának dokumentálásával a címzetthez a postai papíralapú küldeményeken feltüntetett címen történő közvetlen kézbesítés érdekében – a közvetlen kézbesítés szükségességének küldeményen való feltüntetése mellett – a postai szolgáltatónak haladéktalanul visszaadja vagy az Állami Futárszolgálatnak haladéktalanul átadja.
 
-(5)[^87] A (4) bekezdés szerinti küldeményeket az 1. melléklet szerinti szerv köteles átvenni, illetve ha a küldemények között tévesen továbbított küldemény található, azt haladéktalanul továbbítja a helyes címzett részére.
+(5)[^88] A (4) bekezdés szerinti küldeményeket az 1. melléklet szerinti szerv köteles átvenni, illetve ha a küldemények között tévesen továbbított küldemény található, azt haladéktalanul továbbítja a helyes címzett részére.
 
-[^84]: A 38/B. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
-[^85]: A 38/B. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 33. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^86]: A 38/B. § (4) bekezdése a 34/2015. (II. 27.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^87]: A 38/B. § (5) bekezdését a 113/2015. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 38/B. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
+[^86]: A 38/B. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 33. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^87]: A 38/B. § (4) bekezdése a 34/2015. (II. 27.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^88]: A 38/B. § (5) bekezdését a 113/2015. (IV. 30.) Korm. rendelet 1. §-a iktatta be.

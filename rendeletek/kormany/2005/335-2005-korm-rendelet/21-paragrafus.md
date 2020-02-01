@@ -1,4 +1,4 @@
-21. §[^44] (1) Az átvevő a papíralapú iratok esetében a kézbesítőokmányon aláírásával és az átvétel dátumának, valamint nevének olvasható feltüntetésével az átvételt elismeri. Az „azonnal” és „sürgős” jelzésű küldemény átvételi idejét óra, perc pontossággal kell megjelölni, amit a kézbesítőokmányon kívül az átvett küldeményen is rögzíteni kell.
+21. §[^45] (1) Az átvevő a papíralapú iratok esetében a kézbesítőokmányon aláírásával és az átvétel dátumának, valamint nevének olvasható feltüntetésével az átvételt elismeri. Az „azonnal” és „sürgős” jelzésű küldemény átvételi idejét óra, perc pontossággal kell megjelölni, amit a kézbesítőokmányon kívül az átvett küldeményen is rögzíteni kell.
 
 (2) Elektronikus úton, nem biztonságos kézbesítési szolgáltatás igénybevételével érkezett küldemény esetében az átvevő a feladónak – ha azt kéri, és elektronikus válaszcímét megadja – haladéktalanul elküldi a küldemény átvételét igazoló és az érkeztetés egyedi azonosítóját is tartalmazó elektronikus visszaigazolást.
 
@@ -20,4 +20,4 @@ bc) a ba) és bb) alponton kívüli esetben papír alapon értesíti.
 
 (6) Ha iratkezelésre nem jogosult személy vagy szervezeti egység veszi át a küldeményt, azt – a kormányablak kivételével – köteles haladéktalanul, de legkésőbb az érkezést követő első munkanap kezdetén az illetékes iratkezelési egységnek az iratkezelési szabályzat szerinti kezelés céljából átadni.
 
-[^44]: A 21. § a 137/2019. (VI. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^45]: A 21. § a 137/2019. (VI. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
