@@ -24,7 +24,7 @@ e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott,
 
 f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot;
 
-g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
+g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
 
 h)
 
@@ -36,7 +36,7 @@ ib) a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos �
 
 ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
 
-id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
+id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
 
 ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
 
