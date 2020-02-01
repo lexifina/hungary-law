@@ -10,8 +10,8 @@
 
 (6) A 15. § (1) bekezdés e) pontja szerinti tárgyalásos eljárásra a Kbt. 102. §-át kell alkalmazni.
 
-(6a)[^3] A 15. § (1) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásnak a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszer üzemzavara esetén az elektronikus úttól eltérő kommunikáció használatával történő lefolytatására a Kbt. és végrehajtási rendeleteinek a Kbt. 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásra vonatkozó rendelkezéseit kell alkalmazni.
+(6a)[^4] A 15. § (1) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásnak a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszer üzemzavara esetén az elektronikus úttól eltérő kommunikáció használatával történő lefolytatására a Kbt. és végrehajtási rendeleteinek a Kbt. 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásra vonatkozó rendelkezéseit kell alkalmazni.
 
 (7) A Kbt. 62. § (1) bekezdés c) pontját nem kell alkalmazni olyan esetben, ha az ajánlatkérő a 15. § (2) bekezdés d) pontja alapján folytat le hirdetmény nélküli tárgyalásos eljárást.
 
-[^3]: A 16. § (6a) bekezdését a 66/2019. (III. 27.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 16. § (6a) bekezdését a 66/2019. (III. 27.) Korm. rendelet 2. §-a iktatta be.
