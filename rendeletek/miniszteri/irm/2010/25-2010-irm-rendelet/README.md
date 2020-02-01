@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-25-20-1
 | 2015-09-22 | 2010-25-20-1U.2 | 24/2015. (IX. 21.) IM rendelet |
 | 2016-03-09 | 2010-25-20-1U.3 | 5/2016. (III. 8.) IM rendelet |
 | 2018-01-01 | 2010-25-20-1U.4 | 20/2017. (XII. 21.) IM rendelet |
+| 2020-02-01 | 2010-25-20-1U.5 | 30/2019. (XII. 20.) IM rendelet |
