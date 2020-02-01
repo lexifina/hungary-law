@@ -1,0 +1,1 @@
+## 1. § A közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló 307/2015. (X. 27.) Korm. rendelet (a továbbiakban: R1.) 1. § (3) bekezdésében a „Kbt. 113–117. §-ában” szövegrész helyébe a „Kbt. 114–117. §-ában” szöveg lép.
