@@ -108,7 +108,7 @@ d)
 
 47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás;
 
-48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
+48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése, továbbá az okmány gyártáshibája, valamint a tároló elem hibás adattartalma vagy nem megfelelő működése miatt kezdeményezett közigazgatási hatósági eljárás;
 
 49. a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal;
 

@@ -202,6 +202,6 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.
 
-(21)
+(21) Az e § szerinti illetékmentességek, illetékkedvezmények – az (1) bekezdés g), h), q) és t) pontok szerinti illetékmentességek kivételével – a 18. § (1a) bekezdése szerinti esetekben nem alkalmazhatóak.
 
 (22) Az (1a) bekezdés c) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a felfüggesztett illetéket törli, ha az (1a) bekezdés c) pontja szerinti bérlő vagy annak magánszemély örököse az (1a) bekezdés c) pontja szerinti szerződés hatályának beálltától számított 5 éven belül a szerződés aláírását közvetlenül megelőző tulajdoni hányadának megfelelő tulajdoni hányadot visszavásárolja.

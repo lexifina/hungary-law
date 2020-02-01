@@ -87,3 +87,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2019-07-09 | 2019. évi LXII. törvény | 1990-93-00-00.168 |
 | 2019-07-27 | 2002. évi XLII. törvény | 1990-93-00-00.169 |
 | 2020-01-01 | 2019. évi LXXXI. törvény | 1990-93-00-00.170 |
+| 2020-02-01 | 2019. évi XCIX. törvény | 1990-93-00-00.171 |

@@ -150,7 +150,7 @@ b) a külügyi szolgálati útlevél,
 
 c) a határátlépési igazolvány,
 
-d) az úti okmány cseréje, amennyiben az úti okmány tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat, illetve az nem működik,
+d)
 
 e) a 65. életévét betöltött személy magánútlevele.
 
@@ -180,7 +180,7 @@ IV. Egyéb rendelkezések
 
 2. Illetékmentes:
 
-a) az e címben meghatározott okmány cseréje, ha az okmány gyártáshibás;
+a)
 
 b) a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány;
 

@@ -2,6 +2,8 @@
 
 91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatósághoz kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat), valamint az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatvány benyújtásával, az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg, az illetékkötelezettség keletkezését követő 30 napon belül.
 
+(1a) A 18. § (1a) bekezdése szerinti esetben az átruházó fél az (1) bekezdésben említett nyomtatványon nyilatkozik arról, hogy a jogügylet tárgya a 102. § (1a) bekezdés a)–b) pontja szerinti vagyontárgy.
+
 (2) A vagyonszerzési illeték tárgyát képező, de ingatlan-nyilvántartási eljárást nem igénylő jogügyletet a szerződő felek – a 76. §-ban említett eset kivételével – közvetlenül az állami adóhatóságnak kötelesek bejelenteni. A bejelentést az illetékkötelezettség keletkezését követő 30 napon belül, a vagyonszerzést rögzítő irat eredeti és másolati példányának vagy – elektronikus ügyintézés keretében való bejelentés esetén (ha a vagyonszerzést rögzítő irat nem elektronikus irat) – az irat hiteles elektronikus másolati példányának benyújtásával kell teljesíteni. A nem elektronikus másolatot az állami adóhatóság illetékmentesen hitelesíti.
 
 (3) Az okirat kiállítása nélkül is illetékköteles jogügyletet szóval is be lehet jelenteni. A szóbeli bejelentést írásba kell foglalni, és a bejelentés megtörténtéről az állami adóhatóság az ügyfélnek igazolást köteles adni.
