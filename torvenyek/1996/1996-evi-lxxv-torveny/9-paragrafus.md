@@ -20,4 +20,10 @@ b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa me
 
 c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 2/A. §, 3. § és 6. § alkalmazásának eltérő szabályait.
 
-(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben állapítsa meg a 8/H. § (1) bekezdése szerint nyilvántartott adatokhoz való hozzáférés biztosításának rendjét és azok használatának részletes szabályait.
+(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben állapítsa meg
+
+a) a 8/H. § (1) bekezdése szerint nyilvántartott adatokhoz való hozzáférés biztosításának rendjét és azok használatának,
+
+b) a munkaügyi hatósági ellenőrzésre jogosító képzés és vizsga
+
+részletes szabályait.

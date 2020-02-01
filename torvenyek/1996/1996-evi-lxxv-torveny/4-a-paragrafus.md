@@ -12,4 +12,4 @@
 
 (7) Ha az ügyfél a munkaügyi hatóság által elrendelt adatszolgáltatási kötelezettségét elmulasztja vagy valótlan adatokat közöl, a munkaügyi hatóság az okozott többletköltségek megtérítésére kötelezheti, illetve eljárási bírsággal sújthatja. Az eljárási bírság a munkaügyi ellenőrzés során ismételten is kiszabható.
 
-(8) Ha az ügyfél az adatszolgáltatási kötelezettségét a munkaügyi hatóság általi ismételt elrendelésben meghatározott határidőben nem teljesíti, az elmulasztott adatszolgáltatás utóbb nem pótolható.
+(8) Ha az ügyfél az adatszolgáltatási kötelezettségét az eljárás során kitűzött határidőn belül nem teljesíti, az elmulasztott adatszolgáltatás utóbb nem pótolható.

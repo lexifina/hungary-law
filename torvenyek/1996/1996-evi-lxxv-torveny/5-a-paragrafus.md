@@ -1,8 +1,8 @@
 5/A. § (1) A munkaügyi hatósági eljárás hivatalból indul.
 
-(2) A jogsértés megállapítására és a 6. § (1) és (2) bekezdése szerinti jogkövetkezmény alkalmazására – a (3) bekezdés szerinti kivétellel – nem indítható munkaügyi hatósági eljárás, ha a jogsértés elkövetésétől számított 3 év eltelt.
+(2) A jogsértés megállapítására és közigazgatási szankció alkalmazására – a (3) bekezdés szerinti kivétellel – nem indítható munkaügyi hatósági eljárás, ha a jogsértés elkövetésétől számított 3 év eltelt.
 
-(3) A (2) bekezdéstől eltérően a jogsértés elkövetésétől számított 3 év elteltével is indítható eljárás, ha
+(3) A (2) bekezdéstől eltérően a jogsértés elkövetésétől számított 3 év elteltével is indítható eljárás és alkalmazható közigazgatási szankció, ha
 
 a) a 3 évnél korábban megkezdett jogsértés a munkaügyi ellenőrzés megkezdésekor folyamatosan fennáll, vagy
 

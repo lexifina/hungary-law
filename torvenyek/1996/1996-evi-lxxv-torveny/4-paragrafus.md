@@ -1,16 +1,12 @@
 4. § (1) A munkaügyi hatóság a foglalkoztató valamennyi munkahelyén külön engedély és előzetes értesítési kötelezettség nélkül helyszíni munkaügyi ellenőrzést tarthat. A helyszíni munkaügyi ellenőrzésre az Ákr. szabályait a (2)–(6) bekezdésben foglaltak figyelembevételével kell alkalmazni.
 
-(2) A helyszíni ellenőrzés során a munkaügyi hatóság jogosult
+(2) A helyszíni ellenőrzés során a munkaügyi hatóság a hatósági ellenőrzés általános szabályain túl jogosult
 
-a) az ellenőrzése alá tartozó valamennyi munkahelyre való belépésre, akadályoztatása esetén a rendőrség igénybevételére,
+a) az ellenőrzött munkahelyen található biztonsági berendezések képfelvételének megtekintésére, a munkahelyre való be- és kilépést rögzítő berendezések adatainak megtekintésére, és azokról másolat készítésére,
 
-b) az ellenőrzéshez szükséges iratok, nyilvántartások megtekintésére, azokról másolat vagy képfelvétel készítésére,
+b) a munkahelyen tartózkodó személyek személyazonosságának igazoltatással történő megállapítására, valamint e személyektől az ellenőrzéshez szükséges felvilágosítás kérésére, e személyek tanúként történő meghallgatására,
 
-c) az ellenőrzés során az ellenőrzéssel összefüggésben hang- és képfelvétel készítésére, a munkahelyen található biztonsági berendezések képfelvételének megtekintésére, a munkahelyre való be- és kilépést rögzítő berendezések adatainak megtekintésére, és azokról másolat készítésére,
-
-d) a munkahelyen tartózkodó személyek személyazonosságának igazoltatással történő megállapítására, valamint e személyektől az ellenőrzéshez szükséges felvilágosítás kérésére, illetve e személyek tanúként történő meghallgatására,
-
-e) a Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ) használatára.
+c) az adóazonosító jel, valamint Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ) használatára.
 
 (3) A helyszíni ellenőrzést a megfigyelni kívánt tevékenység folytatása idején, nem székhelyként bejelentett magánlakásban – kivéve, ha az ellenőrzés sikeres lefolytatása más időpont választását teszi szükségessé – munkanapon 8 és 20 óra között lehet végezni. Az ellenőrzést úgy kell végezni, hogy az a munkahelyen dolgozók munkáját, a rendeltetésszerű tevékenységet lehetőleg ne akadályozza.
 

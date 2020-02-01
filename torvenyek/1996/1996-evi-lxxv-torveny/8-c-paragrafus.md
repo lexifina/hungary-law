@@ -20,7 +20,7 @@ e) közigazgatási per esetén a jogerős bírósági határozat keltét és sz�
 
 (5a) A munkaügyi hatóság az ügyfél kérelmére – más hatóság vagy szerv előtti felhasználás céljából – hatósági bizonyítványt ad ki arra vonatkozóan, hogy az (1) bekezdés szerinti nyilvántartás az ügyfél adatait a kérelem benyújtását megelőző két éven belül tartalmazta-e.
 
-(6) A munkaügyi hatóság a határozatának megtámadása esetén
+(6) A munkaügyi hatóság az (1) bekezdés szerinti, jogsértést megállapító határozatának megtámadása esetén
 
 a) a (4) és (5) bekezdésben foglalt adatokat a bíróság jogerős határozatában foglalt döntésére figyelemmel teszi közzé,
 

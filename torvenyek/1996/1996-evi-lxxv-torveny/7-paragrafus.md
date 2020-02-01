@@ -18,4 +18,4 @@ c)
 
 (7) A munkaügyi bírság összegének megállapításánál figyelembe kell venni különösen a jogsértéssel okozott hátrány nagyságát, illetve a jogsértéssel elért előny mértékét, a jogsértő állapot időtartamát, a megsértett jogszabályi előírások számát és hatását, a jogsértéssel érintett munkavállalók számát, a jogsértést elkövető eljárást segítő, együttműködő magatartását, valamint a jogsértést elkövető gazdasági súlyát.
 
-(8) A 6. § (1) bekezdés b), e), f) és h) pontjában meghatározott jogkövetkezmény, valamint munkaügyi bírság, illetve a 6. § (2) bekezdés szerinti figyelmeztetés egyidejű alkalmazása esetén egy határozatot kell hozni.
+(8)
