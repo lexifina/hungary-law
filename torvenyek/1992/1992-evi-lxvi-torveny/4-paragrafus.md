@@ -46,7 +46,7 @@ b) azon magyar állampolgár adatai, akinek a kérelmére az állampolgársági 
 
 a) a személyiadat- és lakcímnyilvántartási, az adatkezelési és a lakcímbejelentési eljárásra,
 
-b) az (1) bekezdés c) pontja szerinti külföldön élő polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
+b) a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
 
 c) a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra,
 

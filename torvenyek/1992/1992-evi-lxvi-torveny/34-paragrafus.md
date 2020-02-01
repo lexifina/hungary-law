@@ -9,3 +9,9 @@
 (3) A külföldön élő magyar állampolgár – elektronikus azonosítási szolgáltatás használata nélkül – elektronikus úton is bejelentheti külföldi lakóhelyének változását.
 
 (4) A Kormány rendeletében meghatározott esetekben és feltételekkel a nyilvántartás szerve az eljárást az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le.
+
+(6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. Az elektronikus ügyintézési pontot a nyilvántartást kezelő szerv működteti. A nyilvántartást kezelő szerv ebben az esetben írásban tart kapcsolatot a polgárral.
+
+(7) A kérelem benyújtásakor a polgár – a vezetői engedély kivételével – személyazonosság igazolására alkalmas hatósági igazolványával azonosítja magát.
+
+(8) A nyilvántartást kezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás, valamint a kérelem kitöltése céljából a polgár természetes személyazonosító adatait és lakcímét szolgáltatja.

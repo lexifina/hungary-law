@@ -14,7 +14,7 @@ e) működteti a nyilvántartás informatikai rendszerét;
 
 f) a személyiadat- és lakcímnyilvántartásért felelős miniszter (a továbbiakban: miniszter) és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével kivéve, ha a miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak alapján más adatfeldolgozó megbízását engedélyezi;
 
-g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
+g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
 
 ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizet vagy letartóztatás elrendelését,
 
@@ -48,11 +48,11 @@ s)
 
 (3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
-a) az állandó személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
+a) az állandó személyazonosító igazolvány adatlapokat, kérelmeket és fényképeket, a lakcímbejelentő lapokat, valamint az értesítésicím-bejelentőlapot;
 
-b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgároknak a nyilvántartással kapcsolatos bejelentéseit, illetőleg nyilatkozatait tartalmazó iratokat;
+b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgárok nyilvántartásba vételével és a külföldi lakóhely változás bejelentésével kapcsolatos iratokat;
 
-c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi alapiratok kivételével;
+c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, adatszolgáltatási korlátozással és annak visszavonásával, adatváltozással, adathelyesbítéssel kapcsolatos – alapiratokat, az anyakönyvi alapiratok kivételével;
 
 d) a 2015. január 1. napját megelőzően keletkezett területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 

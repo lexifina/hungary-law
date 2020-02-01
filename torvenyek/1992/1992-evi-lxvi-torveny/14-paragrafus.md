@@ -46,7 +46,9 @@ mh) az állampolgársági eljárásban engedélyezett névmódosításról,
 
 mi) a magyar állampolgárság megszűnéséről és annak időpontjáról;
 
-mj) a magyarországi lakóhellyel rendelkező honosított ujjnyomatáról;
+mj) a honosított ujjnyomatáról,
+
+mk) a honosított arcképmásáról és aláírásáról;
 
 n) az anyakönyvvezető értesítése
 

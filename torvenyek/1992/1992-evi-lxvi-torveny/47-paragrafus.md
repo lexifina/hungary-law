@@ -34,7 +34,7 @@ d)
 
 e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait;
 
-f) azon jogosultságok körét, amelyek ellenőrzésére az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatásazonosító felhasználható.
+f) az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatás-azonosító kezelését, felhasználását és annak műszaki követelményeit.
 
 (3)
 

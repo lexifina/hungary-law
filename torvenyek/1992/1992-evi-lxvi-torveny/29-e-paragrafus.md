@@ -8,7 +8,7 @@ c) a 18. életévét betöltötte, a kiállítás napjától számított 6 évet
 
 (2) A 65. életévet betöltött jogosult – a (4) bekezdésben foglalt kivétellel – kérheti, hogy a részére határidő nélküli érvényességi idejű személyazonosító igazolvány kerüljön kiállításra. A határidő nélküli érvényességi idejű személyazonosító igazolvány tároló elemet nem tartalmaz, érvényességi idejeként a kiállítást követő 60. év január első napját kell feltüntetni.
 
-(3) A magyarországi lakóhellyel rendelkező honosított esetén az állandó személyazonosító igazolvány kiállításának napja a magyar állampolgárság megszerzésének időpontja.
+(3) A honosított esetén az állandó személyazonosító igazolvány kiállításának napja a magyar állampolgárság megszerzésének időpontja.
 
 (3a) Ha a jogosult február 29-én született, és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a személyazonosító igazolvány érvényességi ideje február 28-án jár le.
 
