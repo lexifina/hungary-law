@@ -40,7 +40,9 @@ p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a biza
 
 q) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az 1. § 17. pont j) és l) alpontja szerinti jogalanyok általi használatáért számítható díj megállapításának módját,
 
-r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait.
+r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait,
+
+s) az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos részletszabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 

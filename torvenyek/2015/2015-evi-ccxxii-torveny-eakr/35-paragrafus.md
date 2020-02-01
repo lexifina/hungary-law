@@ -52,4 +52,4 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 (17) A (16) bekezdésben foglalt esetben a Központi Ügyfél-regisztrációs Nyilvántartásba a (10) bekezdés a) pontja szerinti adatokat a személyiadat- és lakcímnyilvántartást kezelő szerv adatközlése alapján a tároló elemet tartalmazó személyazonosító igazolvány érvényessé válásakor kell bejegyezni.
 
-(18) A személyiadat- és lakcímnyilvántartást kezelő szerv értesíti a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szervet a tárolóelemet tartalmazó személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról.
+(18) A személyiadat- és lakcímnyilvántartást kezelő szerv értesíti a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet a tárolóelemet tartalmazó személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról.

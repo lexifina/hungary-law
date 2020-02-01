@@ -8,7 +8,9 @@
 
 ## 31. Az együttműködésre vonatkozó szabályok alkalmazása
 
-51. § (1) Az e Részben foglalt szabályokat az elektronikus ügyintézést biztosító szervek, valamint a Kormány által kijelölt közfeladatot ellátó szervek (a továbbiakban együtt: együttműködő szervek) e minőségükben az e törvényben és más jogszabályban előírt vagy lehetővé tett egymás közötti kapcsolattartására, információátadásaira, valamint az egymás közötti információátadással járó ügyek intézésére és eljárások során az e törvényben meghatározottak szerint informatikai együttműködésre kell alkalmazni.
+51. § (1) Az e Részben foglalt szabályokat – az (1a) bekezdésben foglaltak kivételével – az elektronikus ügyintézést biztosító szervek, valamint a Kormány által kijelölt közfeladatot ellátó szervek (a továbbiakban együtt: együttműködő szervek) e minőségükben az e törvényben és más jogszabályban előírt vagy lehetővé tett egymás közötti kapcsolattartására, információátadásaira, valamint az egymás közötti információátadással járó ügyek intézésére és eljárások során az e törvényben meghatározottak szerint informatikai együttműködésre kell alkalmazni.
+
+(1a) Az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet végrehajtásához szükséges, az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos szabályokat kormányrendelet határozza meg.
 
 (2) E Részt
 
