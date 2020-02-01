@@ -1,3 +1,3 @@
-## 190. §[^454]
+## 190. §[^455]
 
-[^454]: A 190. §-t a 20/2019. (VIII. 30.) EMMI rendelet 25. § (1) bekezdése hatályon kívül helyezte.
+[^455]: A 190. §-t a 20/2019. (VIII. 30.) EMMI rendelet 25. § (1) bekezdése hatályon kívül helyezte.

@@ -40,6 +40,8 @@ c) a tanulmányok alatti vizsga reggel nyolc óra előtt is elkezdhető és tize
 
 (14)[^314] A vizsgabiztos megfigyeléseiről, megállapításairól két példányban jegyzőkönyvet készít. A vizsga befejezését követő 8 napon belül a jegyzőkönyv egyik példányát eljuttatja az őt megbízó megyeszékhely szerinti járási hivatal vezetőjének, a másik példányt pedig az intézmény vezetőjének.
 
+(15)[^315] A vizsgabiztosi feladatok ellátásáért díjazás jár, amelyet a kirendelést kérő intézmény visel. A vizsgabiztos díja szóbeli vizsgán a vizsgabizottsághoz beosztott vizsgázónként 3600 forint. A vizsgabiztos díja írásbeli vizsgacsoportonként 9000 forint.
+
 [^307]: A XIV. fejezet címe a 20/2016. (VIII. 24.) EMMI rendelet 28. § 9. pontja szerint módosított szöveg.
 [^308]: A 143. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 14. pontja szerint módosított szöveg.
 [^309]: A 143. § (6) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 10. pontja szerint módosított szöveg.
@@ -48,3 +50,4 @@ c) a tanulmányok alatti vizsga reggel nyolc óra előtt is elkezdhető és tize
 [^312]: A 143. § (12) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
 [^313]: A 143. § (13) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
 [^314]: A 143. § (14) bekezdését a 24/2017. (X. 3.) EMMI rendelet 5. §-a iktatta be.
+[^315]: A 143. § (15) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.
