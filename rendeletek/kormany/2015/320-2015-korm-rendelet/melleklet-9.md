@@ -84,7 +84,7 @@
 
 ## P. H.
 
-9. melléklet a 320/2015. (X. 30.) Korm rendelethez[^73]
+9. melléklet a 320/2015. (X. 30.) Korm rendelethez[^76]
 
 Előterjesztés
 
@@ -258,4 +258,4 @@ Aláírás
 
 P. H.
 
-[^73]: A 9. mellékletet a 478/2016. (XII. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 29/2017. (II. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^76]: A 9. mellékletet a 478/2016. (XII. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be, szövege a 29/2017. (II. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.

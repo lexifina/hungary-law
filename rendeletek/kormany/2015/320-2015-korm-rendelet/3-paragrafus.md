@@ -4,12 +4,15 @@
 
 (2) Ha a határidő utolsó napja nem munkanapra esik, a határidő csak az ezt követő legközelebbi munkanapon jár le.
 
-(3) Az ellenőrző szervezet ötvenezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja az érintett szervezetet, ha az e rendeletben meghatározott kötelezettségeit nem teljesíti vagy a határidőket elmulasztja.
+(3)[^11]
 
-(4) Az ellenőrző szervezet a bírság összegének megállapításában az eset összes körülményét, az ellenőrzés alá vont közbeszerzési eljárás tárgyát és értékét, valamint az e rendeletbe ütköző magatartás ismételt tanúsítását veszi figyelembe.
+(4)[^12]
 
-(5) Amennyiben az érintett szervezet az ellenőrző szervezet mulasztásából eredően nem képes az e rendeletben meghatározott határidők betartására, bírság nem szabható ki.
+(5)[^13]
 
-(6)[^11] A bírságot az ellenőrző szervezet vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni. A határozat ellen fellebbezésnek nincs helye. A bírsággal sújtott érintett szervezet a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
+(6)[^14]
 
-[^11]: A 3. § (6) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^12]: A 3. § (4) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^13]: A 3. § (5) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^14]: A 3. § (6) bekezdését a 9/2020. (I. 31.) Korm. rendelet 5. §-a hatályon kívül helyezte.
