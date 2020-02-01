@@ -1,0 +1,3 @@
+## 21. § Az anyakönyvezési feladatok ellátásának részletes szabályairól szóló 429/2017. (XII. 20.) Korm. rendelet [a továbbiakban: 429/2017. (XII. 20.) Korm. rendelet] 18. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A jogosult a felhasználói kártyát a jogosultság megszűnése vagy új kártya kibocsátása esetén leadja a jogosultságot igénylő munkáltatónak, aki az átvételt írásban igazolja, majd a felhasználói kártyát az anyakönyvi szerv útján megküldi a nyilvántartó szervnek a bevonás és érvénytelenítés technikai műveletei és az esetleges selejtezés végrehajtása érdekében. A felhasználói kártya érvénytelenítése, majd újrainicializálása után a kártya újra kiadható.”
