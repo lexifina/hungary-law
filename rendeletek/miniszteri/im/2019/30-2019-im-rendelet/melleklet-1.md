@@ -1,4 +1,14 @@
-## 19. §[^12]
+## „(1) Az eljárás lefolytatásának helye figyelembevételével a (2) vagy a (3) bekezdés szerinti munkadíjat és költségátalányt kell fizetni
+
+## a) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet,
+
+## b) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet,
+
+## c) az otthonteremtési kamattámogatásról szóló kormányrendelet, továbbá
+
+## d) a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet
+
+## szerinti kamattámogatással érintett kölcsönszerződés és az azt biztosító jelzálogszerződés – ideértve a megelőlegező kölcsönszerződéseket is –, valamint az ezen szerződések alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalásáért a közjegyző részére. A közjegyző irodájában lefolytatott eljárás esetében a közjegyző ezenfelül összesen 15 000 Ft-ot, helyszíni eljárás esetén pedig 20 000 Ft-ot számít fel az okirat készítésével egyidejűleg az okiratról készített, az ingatlan-nyilvántartási eljáráshoz szükséges két darab, és felenként további egy darab kiadmány elkészítésének és hitelesítésének munkadíjaként, valamint költségtérítés fejében.”
 
 1. melléklet a 30/2019. (XII. 20.) IM rendelethez
 
@@ -523,5 +533,3 @@
 14. A végrehajtási lapot kiállító közjegyzői/közjegyzőhelyettesi tisztség megjelölése, aláírás helye és keltezés.
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
-
-[^12]: A 19. § az 5. § (2) bekezdése alapján 2020. február 1-jén lép hatályba.
