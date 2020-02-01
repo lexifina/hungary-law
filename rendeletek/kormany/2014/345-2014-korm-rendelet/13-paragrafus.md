@@ -1,4 +1,4 @@
-13. §[^22] (1) Ha a címképzés tárgyát képező ingatlan közterületről közvetlenül nem, csak másik telken keresztül közelíthető meg, a címkeletkeztetés szempontjából úgy kell tekinteni, mintha megközelíthető lenne közterületről is. Ebben az esetben az ingatlan címében közterületnévként annak a közterületnek a nevét kell feltüntetni, amelyhez az ingatlan megközelítését szolgáló telek csatlakozik. Ha a közterülettel való kapcsolatot több telek biztosítja, akkor az ingatlanhoz közelebb eső közterülethez megközelítést biztosító telek címében feltüntetett közterületnevet kell a címképzés során figyelembe venni.
+13. §[^24] (1) Ha a címképzés tárgyát képező ingatlan közterületről közvetlenül nem, csak másik telken keresztül közelíthető meg, a címkeletkeztetés szempontjából úgy kell tekinteni, mintha megközelíthető lenne közterületről is. Ebben az esetben az ingatlan címében közterületnévként annak a közterületnek a nevét kell feltüntetni, amelyhez az ingatlan megközelítését szolgáló telek csatlakozik. Ha a közterülettel való kapcsolatot több telek biztosítja, akkor az ingatlanhoz közelebb eső közterülethez megközelítést biztosító telek címében feltüntetett közterületnevet kell a címképzés során figyelembe venni.
 
 (2) Ha a címképzés tárgyát képező ingatlan csak magánútról közelíthető meg, annak elnevezésére vonatkozóan a helyi önkormányzati rendeletben foglalt szabályok az irányadók.
 
@@ -10,4 +10,4 @@
 
 (6) Egy településhez tartozó közigazgatási területen belül nem lehet több külterületi ingatlant azonos névvel elnevezni. Ha a tulajdonos által javasolt elnevezés már egy másik ingatlan neve, a címképzésért felelős szerv megkülönböztetésre alkalmas jelölést javasol a tulajdonosnak.
 
-[^22]: A 13. § a 404/2015. (XII. 15.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 13. § a 404/2015. (XII. 15.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -22,6 +22,9 @@ bb) a címek rögzítéséhez szükséges automatikus adatátvételre jogosult f
 
 bc) a címek rögzítéséhez szükséges elektronikus alkalmazás felhasználóinak a hozzáféréseit naplózza.
 
+(3)[^10] A miniszter a központi címregiszterben nyilvántartott címadatokat jogszabályban meghatározott feladata ellátása céljából felhasználhatja.
+
 [^7]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 284. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 284. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdés a) pont ad) alpontja a 221/2017. (VIII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (3) bekezdését a 6/2020. (I. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.

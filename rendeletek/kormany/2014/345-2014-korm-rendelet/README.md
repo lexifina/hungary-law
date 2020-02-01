@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-345-20-
 | 2015-12-16 | 2014-345-20-22.3 | 404/2015. (XII. 15.) Korm. rendelet |
 | 2017-01-01 | 2014-345-20-22.4 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-08-08 | 2014-345-20-22.5 | 221/2017. (VIII. 7.) Korm. rendelet |
+| 2020-02-01 | 2014-345-20-22.6 | 6/2020. (I. 31.) Korm. rendelet |
