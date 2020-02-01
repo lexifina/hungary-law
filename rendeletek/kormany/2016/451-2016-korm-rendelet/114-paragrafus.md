@@ -8,6 +8,6 @@ a) az ÁNYK űrlapbenyújtás-támogatási szolgáltatás,
 
 b) az elektronikus űrlapkitöltés-támogatási szolgáltatás.
 
-(3)[^76] Az elektronikus ügyintézést biztosító szerv köteles vagy elektronikus űrlapkitöltés-támogatási szolgáltatás igénybevételére, vagy az E-ügyintézési tv. szerinti interaktív alkalmazás vagy saját, a 19–21. § szerint kialakított online elektronikus űrlap biztosítására azon ügyek esetében, amelyeknél a beérkezett általános célú elektronikus kéreleműrlapok száma havi rendszerességgel eléri a 100 darabszámot.
+(3)[^95] Az elektronikus ügyintézést biztosító szerv köteles vagy elektronikus űrlapkitöltés-támogatási szolgáltatás igénybevételére, vagy az E-ügyintézési tv. szerinti interaktív alkalmazás vagy saját, a 19–21. § szerint kialakított online elektronikus űrlap biztosítására azon ügyek esetében, amelyeknél a beérkezett általános célú elektronikus kéreleműrlapok száma havi rendszerességgel eléri a 100 darabszámot.
 
-[^76]: A 114. § (3) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (7) bekezdése iktatta be.
+[^95]: A 114. § (3) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (7) bekezdése iktatta be.

@@ -32,6 +32,15 @@
 
 15. zárt rendszer: rendeltetése szerint elkülönült elektronikus információs rendszer, amely kizárólagosan a speciális igények kielégítését, az e célra létrehozott szervezet és technika működését szolgálja, működése jogszabályon vagy meghatározott résztvevők közötti megállapodáson alapul, és harmadik felet nem érint;
 
-16.[^3] adat- és iratmegnevezések jegyzékének szerkesztőbizottsága: az adat- és iratmegnevezések jegyzékének összeállítását és folyamatos aktualizálását végző, az Elektronikus Ügyintézési Felügyeleten belül működő testület.
+16.[^3] adat- és iratmegnevezések jegyzékének szerkesztőbizottsága: az adat- és iratmegnevezések jegyzékének összeállítását és folyamatos aktualizálását végző, az Elektronikus Ügyintézési Felügyeleten belül működő testület;
+
+17.[^4] Egységes Digitális Kapu: az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i 2018/1724 európai parlamenti és tanácsi (EU) rendelet (a továbbiakban: SDG Rendelet) 2. cikk (1) bekezdése szerinti egységes digitális kapu;
+
+18.[^5] illetékes hatóság: az SDG Rendelet 3. cikk 4. pontja szerinti, az SDG Rendelet I., II. és III. mellékletében meghatározottak tekintetében feladat- és hatáskörrel rendelkező szerv;
+
+19.[^6] nemzeti koordinátor: az SDG Rendelet 28. cikkében meghatározott feladatokat hazai szinten ellátó, az e-közigazgatásért felelős miniszter által kijelölt szervezet.
 
 [^3]: A 2. § 16. pontját a 221/2017. (VIII. 7.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^4]: A 2. § 17. pontját a 6/2020. (I. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^5]: A 2. § 18. pontját a 6/2020. (I. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^6]: A 2. § 19. pontját a 6/2020. (I. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be.

@@ -1,5 +1,5 @@
 ## VIII/A. Fejezet
 
-## KÉP-, HANG-, KÉP- ÉS HANGFELVÉTEL KÖZPONTI TÁROLÁSÁRA VONATKOZÓ SZABÁLYOK[^142]
+## KÉP-, HANG-, KÉP- ÉS HANGFELVÉTEL KÖZPONTI TÁROLÁSÁRA VONATKOZÓ SZABÁLYOK[^162]
 
-[^142]: A VIII/A. fejezetet (154/A–154/D. §) a 323/2018. (XII. 28.) Korm. rendelet 59. §-a iktatta be.
+[^162]: A VIII/A. fejezetet (154/A–154/D. §) a 323/2018. (XII. 28.) Korm. rendelet 59. §-a iktatta be.

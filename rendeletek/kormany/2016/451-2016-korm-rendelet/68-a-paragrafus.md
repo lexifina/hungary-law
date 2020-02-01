@@ -1,20 +1,20 @@
 ## 68. § Az elektronikus ügyintézést biztosító szerv köteles biztosítani az e-Papír szolgáltatás útján előterjesztett beadványok befogadását, ha az adott ügytípus elektronikus űrlappal nem támogatott.
 
-## 23/A. [^27] Szabályozott, illetve központi elektronikus ügyintézési szolgáltatások elektronikus ügyintézést nem biztosító szerv általi igénybevétele
+## 23/A. [^32] Szabályozott, illetve központi elektronikus ügyintézési szolgáltatások elektronikus ügyintézést nem biztosító szerv általi igénybevétele
 
-68/A. § (1)[^28] Az elektronikus ügyintézést biztosítónak nem minősülő gazdálkodó szervezet (a továbbiakban: piaci szereplő) a SZEÜSZ-t, valamint KEÜSZ-t – a (2), (2a) és (2b) bekezdésben meghatározott kivétellel – a 2. melléklet szerint megállapított díj megfizetése ellenében veheti igénybe. A piaci szereplő és az adott SZEÜSZ, illetve KEÜSZ nyújtására a SZEÜSZ vagy KEÜSZ szolgáltató szerződést köt. A piaci szereplőt az igénybevétel során az adott SZEÜSZ és KEÜSZ felhasználása tekintetében elektronikus ügyintézést biztosító szervnek kell tekinteni.
+68/A. § (1)[^33] Az elektronikus ügyintézést biztosítónak nem minősülő gazdálkodó szervezet (a továbbiakban: piaci szereplő) a SZEÜSZ-t, valamint KEÜSZ-t – a (2), (2a) és (2b) bekezdésben meghatározott kivétellel – a 2. melléklet szerint megállapított díj megfizetése ellenében veheti igénybe. A piaci szereplő és az adott SZEÜSZ, illetve KEÜSZ nyújtására a SZEÜSZ vagy KEÜSZ szolgáltató szerződést köt. A piaci szereplőt az igénybevétel során az adott SZEÜSZ és KEÜSZ felhasználása tekintetében elektronikus ügyintézést biztosító szervnek kell tekinteni.
 
-(2)[^29] Az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, valamint a dokumentumtárolási szolgáltatáshoz kapcsolódó tárhelyszolgáltatás kapacitásdíja kivételével nem köteles díj fizetésére, és jogosult a szolgáltatás igénybevételére a piaci szereplő, ha
+(2)[^34] Az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, valamint a dokumentumtárolási szolgáltatáshoz kapcsolódó tárhelyszolgáltatás kapacitásdíja kivételével nem köteles díj fizetésére, és jogosult a szolgáltatás igénybevételére a piaci szereplő, ha
 
 a) állami vagy önkormányzati költségvetési szerv, vagy
 
-b)[^30] jogszabályban meghatározott, kizárólag központi költségvetési forrásból fedezett vagy központi költségvetési forrásból 100%-ig támogatott állami közfeladatának elősegítése érdekében veszi igénybe a SZEÜSZ-t, valamint a KEÜSZ-t.
+b)[^35] jogszabályban meghatározott, kizárólag központi költségvetési forrásból fedezett vagy központi költségvetési forrásból 100%-ig támogatott állami közfeladatának elősegítése érdekében veszi igénybe a SZEÜSZ-t, valamint a KEÜSZ-t.
 
-(2a)[^31] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult a 150. § (1) bekezdésében meghatározott nyilvántartásokban vagy adatbázisokban szereplő adatok szolgáltatására, illetve igénybevételére.
+(2a)[^36] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult a 150. § (1) bekezdésében meghatározott nyilvántartásokban vagy adatbázisokban szereplő adatok szolgáltatására, illetve igénybevételére.
 
-(2b)[^32] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatás (2a) bekezdésben meghatározott igénybevételére jogosult az E-ügyintézési tv. 1. § 17. pont j) és l) alpontja szerinti elektronikus ügyintézést biztosító szerv is.
+(2b)[^37] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatás (2a) bekezdésben meghatározott igénybevételére jogosult az E-ügyintézési tv. 1. § 17. pont j) és l) alpontja szerinti elektronikus ügyintézést biztosító szerv is.
 
-(2c)[^33] A központi állami szolgáltatások igénybevételére vonatkozó részletes szabályokat, a szolgáltatóval kötendő megállapodás tartalmát, valamint a (4) bekezdés a)–c) pontjában szereplő korlátozások alkalmazásának a szabályait az e-közigazgatásért felelős miniszter rendeletben állapítja meg.
+(2c)[^38] A központi állami szolgáltatások igénybevételére vonatkozó részletes szabályokat, a szolgáltatóval kötendő megállapodás tartalmát, valamint a (4) bekezdés a)–c) pontjában szereplő korlátozások alkalmazásának a szabályait az e-közigazgatásért felelős miniszter rendeletben állapítja meg.
 
 (3) Piaci szereplő nem vehet igénybe a kormányzati hitelesítésszolgáltató által nyújtott bizalmi szolgáltatást.
 
@@ -38,10 +38,10 @@ a) a (4) bekezdés szerinti okból, vagy
 
 b) ha az igénybevevő nem teljesíti a szerződésben vállalt kötelezettségeit.
 
-[^27]: A 23/A. alcímet (68/A–68/B. §) a 361/2017. (XI. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
-[^28]: A 68/A. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés a) pontja szerint módosított szöveg.
-[^29]: A 68/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^30]: A 68/A. § (2) bekezdés b) pontja a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés b) pontja szerint módosított szöveg.
-[^31]: A 68/A. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^32]: A 68/A. § (2b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^33]: A 68/A. § (2c) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^32]: A 23/A. alcímet (68/A–68/B. §) a 361/2017. (XI. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
+[^33]: A 68/A. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^34]: A 68/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^35]: A 68/A. § (2) bekezdés b) pontja a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^36]: A 68/A. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^37]: A 68/A. § (2b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^38]: A 68/A. § (2c) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.

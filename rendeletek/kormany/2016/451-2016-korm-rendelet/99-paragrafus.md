@@ -2,7 +2,7 @@
 
 ## 99. § Jelen alcím alkalmazásában
 
-1.[^67] célszámla: jogszabály által a fizetés teljesítésére meghatározott fizetési számla, illetve a fizetési számlához kapcsolódó alszámla;
+1.[^73] célszámla: jogszabály által a fizetés teljesítésére meghatározott fizetési számla, illetve a fizetési számlához kapcsolódó alszámla;
 
 2. csatlakozott szervezet: az a szervezet, amely az EFER KEÜSZ szolgáltatásainak igénybevétele érdekében teljesíti a 101. § (1) bekezdése szerinti feltételeket;
 
@@ -12,13 +12,13 @@
 
 5. EFER üzemeltetője: jogszabályban az EFER üzemeltetésére kijelölt jogi személy vagy más szervezet;
 
-6. elfogadó: az a csatlakozott szervezet vagy a csatlakozott szervezet által képviselt szervezet, amellyel a csatlakozott pénzforgalmi szolgáltató POS (point of sale) végfelhasználói szerződést köt a feléje teljesítendő fizetési kötelezettségek ellenértékének a pénzforgalmi szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítésére;
+6.[^74] elfogadó: az a csatlakozott szervezet vagy a csatlakozott szervezet által képviselt szervezet, amellyel a csatlakozott fizetési megoldás szolgáltató POS (point of sale) végfelhasználói szerződést köt a feléje teljesítendő fizetési kötelezettségek ellenértékének a fizetési megoldás szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítésére;
 
 7. elfogadóhely: az elfogadó használatában álló, POS terminállal felszerelt helyiség;
 
-8. csatlakozott pénzforgalmi szolgáltató: az a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti pénzforgalmi szolgáltató, amely az EFER működtetőjével kötött megállapodás alapján vállalja, hogy fizetési megbízásokat az EFER igénybevételével is teljesít;
+8.[^75] csatlakozott fizetési megoldás szolgáltató: olyan elektronikus fizetési megoldásokat nyújtó szolgáltató, aki az EFER működtetőjével kötött megállapodás alapján vállalja, hogy elektronikus fizetési megoldásokat biztosít az E-ügyintézési tv. 1. § 14. pontja szerinti elektronikus fizetési módokhoz;
 
-8a.[^68] fizetési ígérvény: a csatlakozott pénzforgalmi szolgáltató által a 105. § (1) bekezdése alapján átadott üzenet, amely a fizetés visszavonhatatlan megindításának elektronikus igazolása;
+8a.[^76] fizetési ígérvény: a csatlakozott fizetési megoldás szolgáltató által a 105. § (1) bekezdése alapján átadott üzenet, amely a fizetés visszavonhatatlan megindításának elektronikus igazolása;
 
 9. fizető fél: az a természetes személy vagy szervezet, amely a csatlakozott szervezet felé teljesítendő fizetési kötelezettséget az EFER igénybevételével teljesít;
 
@@ -30,5 +30,7 @@
 
 13. POS Végfelhasználói Nyilatkozat: az elfogadóknak a POS Végfelhasználói Szerződés szempontjából legfontosabb adatait tartalmazó adatlap.
 
-[^67]: A 99. § 1. pontja a 176/2019. (VII. 18.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^68]: A 99. § 8a. pontját a 176/2019. (VII. 18.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^73]: A 99. § 1. pontja a 176/2019. (VII. 18.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^74]: A 99. § 6. pontja a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^75]: A 99. § 8. pontja a 6/2020. (I. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^76]: A 99. § 8a. pontját a 176/2019. (VII. 18.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
