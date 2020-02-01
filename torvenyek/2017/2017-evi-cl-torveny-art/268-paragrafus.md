@@ -44,7 +44,9 @@
 
 16. az adóteljesítmény megállapításának részletes szabályait, valamint
 
-17. az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, részletes szabályait, valamint a nyilvántartás vezetésének szabályait
+17. az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, részletes szabályait, valamint a nyilvántartás vezetésének szabályait,
+
+18. a 131. § (24) bekezdése szerinti elektronikus keresetkimutatás tartalmát
 
 rendeletben állapítsa meg.
 

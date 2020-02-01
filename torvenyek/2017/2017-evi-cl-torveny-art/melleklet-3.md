@@ -164,7 +164,7 @@
 
 ## 3. Az adózó az 53. § (3) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
 
-## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót, járulékot, az illetéket, a cégautóadót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
+## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, az illetéket, a cégautóadót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 ## Határidők
 
@@ -241,19 +241,3 @@
 ## 4.1.1. A munkáltató az általa levont járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
 
 ## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
-## 4.1.3. a Tbj. 4. § b) pontja szerinti egyéni vállalkozó a járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
-
-## fizeti meg.
-
-## 4.2. Egészségügyi szolgáltatási járulék és nyugdíjjárulék
-
-## 4.2.1. A társas vállalkozás a járulékokat havonta az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-## 4.2.2 a kiegészítő tevékenységet folytató egyéni vállalkozó a járulékokat negyedévente a negyedévet követő hó tizenkettedik napjáig
-
-## fizeti meg.
-
-## 4.3. A Tbj. 39. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
-## A természetes személy a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségét első ízben a bejelentést követő hónap tizenkettedik napjáig, ezt követően havonta, a tárgyhót követő hónap tizenkettedik napjáig teljesíti.
