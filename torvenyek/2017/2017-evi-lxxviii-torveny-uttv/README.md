@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-78-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2017-78-00-00.12 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2017-78-00-00.13 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2017-78-00-00.14 |
+| 2020-02-01 | 2019. évi CXVII. törvény | 2017-78-00-00.15 |
