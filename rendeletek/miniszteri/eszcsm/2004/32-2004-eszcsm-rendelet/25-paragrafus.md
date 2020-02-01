@@ -38,6 +38,8 @@
 
 (19)[^96] A 2. számú melléklet 2020. január 15-ét megelőzően hatályos Eü100 66. pontja alapján felírt gyógyszerek vényei érvényességi idejükig válthatóak ki és számolhatóak el.
 
+(20)[^97] A 3. számú melléklet EÜ90 36. pontja alapján 2020. január 31-ig felírt vények kiválthatóak és elszámolhatóak kiemelt támogatással a 2. számú melléklet EÜ100 71. pontja szerint.
+
 [^78]: A 24/A. §-t a 31/2010. (V. 13.) EüM rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 12. § a) pontja, újonnan a 47/2011. (VII. 27.) NEFMI rendelet 7. §-a iktatta be.
 [^79]: A 25. §-t a 36/2010. (V. 14.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 5. §-a, újonnan a 2/2012. (I. 3.) NEFMI rendelet 5. §-a iktatta be.
 [^80]: A 25. § (1) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 35. § (2) bekezdés b) pontja hatályon kívül helyezte.
@@ -57,3 +59,4 @@
 [^94]: A 25. § (17) bekezdését a 38/2015. (VIII. 17.) EMMI rendelet 3. §-a iktatta be.
 [^95]: A 25. § (18) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 4. §-a iktatta be.
 [^96]: A 25. § (19) bekezdését a 36/2019. (XII. 30.) EMMI rendelet 2. § (3) bekezdése iktatta be.
+[^97]: A 25. § (20) bekezdését a 3/2020. (I. 31.) EMMI rendelet 1. §-a iktatta be.
