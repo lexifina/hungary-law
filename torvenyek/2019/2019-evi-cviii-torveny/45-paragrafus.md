@@ -1,1 +1,1 @@
-45. § Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 16. § (1) bekezdésében az „állandó bizottságainak ülésein, valamint az Országgyűlés plenáris üléseinek európai integrációval összefüggő napirendi pontjainak” szövegrész helyébe az „európai uniós ügyekkel foglalkozó állandó bizottságának ülésein, valamint az Országgyűlés plenáris ülésének és állandó bizottságai üléseinek az európai uniós kérdéssel összefüggő napirendi pontjai” szöveg lép.
+45. §

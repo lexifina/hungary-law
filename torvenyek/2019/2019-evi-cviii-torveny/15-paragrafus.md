@@ -1,5 +1,1 @@
-15. § Az Ogytv. 43. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az azonnali kérdések órájában az Alaptörvény szerint válaszadásra kötelezettek kötelesek az ülésteremben tartózkodni. A válaszadásra kötelezett távolléte esetén előzetesen tájékoztatja a házelnököt a válaszadásra feljogosított személyről.
-
-(3) Ha a válaszadásra kötelezett nem személyesen válaszol, a képviselő személyes válaszadást kérhet. Ebben az esetben a megkérdezett legkésőbb a képviselő személyes válaszadást kérő nyilatkozatát követő harmadik soron következő azonnali kérdések órájában köteles személyesen válaszolni. A személyes válaszadás kötelezettsége megszűnik és az azonnali kérdést visszavontnak kell tekinteni, ha a képviselőcsoport vezetője ezen határidő alatt azt nem sorolja be, vagy a határidő alatt besorolt kérdést – ide nem értve azt az esetet, amikor az azonnali kérdés azért nem hangzik el, mert a képviselő személyes válaszadást kér – az általa megjelölt képviselő az ülésen nem teszi fel.”
+15. §
