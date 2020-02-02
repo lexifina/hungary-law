@@ -24,4 +24,6 @@ e) ellátja az Európa-bajnokság szervezésével összefüggő kormányzati koo
 
 8. Ez a határozat 2020. február 1-jén lép hatályba.
 
-9. Hatályát veszti a 2022-ben Budapesten, Veszprémben, Szegeden és Debrecenben megrendezendő férfi kézilabda Európa-bajnoksághoz kapcsolódó egyes sportinfrastruktúra fejlesztések megvalósításával összefüggő feladatok ellátásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1629/2018. (XI. 29.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
