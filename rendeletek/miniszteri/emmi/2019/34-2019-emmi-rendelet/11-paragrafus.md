@@ -1,1 +1,0 @@
-## „(15) A vizsgabiztosi feladatok ellátásáért díjazás jár, amelyet a kirendelést kérő intézmény visel. A vizsgabiztos díja szóbeli vizsgán a vizsgabizottsághoz beosztott vizsgázónként 3600 forint. A vizsgabiztos díja írásbeli vizsgacsoportonként 9000 forint.

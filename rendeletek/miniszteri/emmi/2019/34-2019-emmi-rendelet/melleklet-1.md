@@ -1,3 +1,3 @@
-1. melléklet a 34/2019. (XII. 30.) EMMI rendelethez[^22]
+1. melléklet a 34/2019. (XII. 30.) EMMI rendelethez[^23]
 
-[^22]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
