@@ -1,9 +1,3 @@
-## lép.
+## 13. §[^24]
 
-## 14. § Hatályát veszti a SzigR.
-
-a) 1. § e) pont ee) alpontjában az „előzetesen” szövegrész,
-
-b) 17/B. §-ában az „– a konzuli tisztviselő kivételével –” szövegrész,
-
-c) 36. § (5) bekezdésében az „a járási hivatal, illetve” szövegrész.
+[^24]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

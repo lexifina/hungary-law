@@ -1,1 +1,3 @@
-## „(5) A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartását vezető szerv ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő elektronikus ügyintézést biztosító szerv az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.”
+## 15. §[^26]
+
+[^26]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

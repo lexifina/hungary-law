@@ -1,3 +1,5 @@
-## „(1) A hivatásos katasztrófavédelmi szervnek a tűzeset helye szerint illetékes helyi szerve – a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingó és ingatlan vagyontárgyak tűzesetei tekintetében a 259/2011. (XII. 7.) Korm. rendelet 5. § (1) bekezdése szerinti tűzvédelmi hatóság – a bejelentett tűzesetről az ügyfél kérelmére hatósági bizonyítványt ad ki.”
+## 25. §[^36]
 
 ## 18. A beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól szóló 491/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^36]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

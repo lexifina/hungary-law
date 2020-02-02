@@ -1,3 +1,5 @@
-## 23. § Hatályát veszti a 429/2017. (XII. 20.) Korm. rendelet 1. melléklet 1. pontjában a „vagy állami tisztviselőjének” szövegrész.
+## 23. §[^34]
 
 ## 16. A tűzvédelmi hatósági eljárások általános és különös szabályairól szóló 489/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^34]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
