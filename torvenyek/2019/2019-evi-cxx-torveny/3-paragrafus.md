@@ -1,3 +1,1 @@
-3. § A Kbt. 55. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Amennyiben az EKR e törvény végrehajtási rendeletében szabályozott üzemzavara folytán nem lehetséges a módosító hirdetményt az ajánlattételi vagy részvételi határidő lejártáig feladni, az ajánlatkérő az ajánlattételi, illetve részvételi határidő módosításáról szóló hirdetményt az ajánlattételi vagy a részvételi határidő lejárta után is feladhatja. A módosításról szóló hirdetményt az üzemzavar elhárulását követően haladéktalanul, de legkésőbb a következő munkanapon fel kell adni és erre a körülményre a módosító hirdetményben utalni kell.”
+3. §
