@@ -1,3 +1,3 @@
-## 1. § Az egészségügyről szóló 1997. évi CLIV. törvénynek a szerv- és szövetátültetésre, valamint -tárolásra és egyes kórszövettani vizsgálatokra vonatkozó rendelkezései végrehajtásáról szóló 18/1998. (XII. 27.) EüM rendelet (a továbbiakban: R.) 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(3) Ha az (1) és (2) bekezdés szerinti eljárás során a tiltakozó nyilatkozat nem található, a kijelölt egészségügyi dolgozó kezdeményezi az OVSZ által működtetett Nemzeti Szerv- és Szövetdonációs Tiltakozások Regiszteréből (a továbbiakban: NSZTR) a tiltakozás ellenőrzését igazoló lekérdezést. Ha az NSZTR nem tartalmazza az elhunyt tiltakozó nyilatkozatát – figyelemmel az Eütv. 211. § (4) bekezdésében foglalt rendelkezésre is –, a szerv-, szöveteltávolítás megkezdődhet.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
