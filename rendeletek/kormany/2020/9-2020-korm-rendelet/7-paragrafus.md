@@ -1,3 +1,3 @@
-## 6. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet (a továbbiakban: R2.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „(2) A gazdasági szereplőnek az adott eljárásban alkalmazott szabályoknak megfelelően az ajánlatkérő Kbt. 69. § (4)–(8) bekezdése szerinti felhívására vagy az ajánlat vagy részvételi jelentkezés benyújtásakor a III. és IV. Fejezetnek megfelelően kell igazolnia, hogy nem tartozik az eljárásban előírt kizáró okok hatálya alá, és megfelel az ajánlatkérő által meghatározott alkalmassági követelményeknek.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

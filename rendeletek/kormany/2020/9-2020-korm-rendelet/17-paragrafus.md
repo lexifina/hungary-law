@@ -1,7 +1,3 @@
-## 16. § Az R3. 8. § a) pontjában az „a szerződés teljesítésére vonatkozó, a Kbt. által előírt” szövegrész helyébe az „a megkötött szerződésre vonatkozó” szöveg lép.
+## 16. §[^16]
 
-## 17. § Hatályát veszti az R3.
-
-1. 3. §-a,
-
-2. 20. § (2a) bekezdése.
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

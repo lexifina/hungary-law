@@ -1,3 +1,3 @@
-## 13. § Az R3. 16. § (2a) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^13]
 
-## „(2a) Az (1) bekezdés a) pontja szerinti esetben a határidőt úgy kell meghosszabbítani, hogy megfelelő idő, de – a hirdetmény nélküli tárgyalásos eljárás kivételével – legalább a hosszabbításról szóló értesítés megküldésétől számított két nap, ha a módosításról hirdetményt kell feladni, annak feladásától számított, a Közbeszerzési Értesítőben közzéteendő hirdetmények esetében négy nap, az Európai Unió Hivatalos Lapja kiegészítésében (Tenders Electronic Daily) közzéteendő hirdetmények esetében hat nap álljon rendelkezésre az ajánlat vagy részvételi jelentkezés benyújtására.”
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

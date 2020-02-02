@@ -1,5 +1,3 @@
-## 8. § Az R2. 20. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+## 8. §[^8]
 
-## „(2) Az ajánlatkérő a Kbt. Harmadik Része szerint lefolytatott eljárásban, ha a Kbt. 115. §-a alapján jár el, és előír alkalmassági követelményt, a 19. § (1) bekezdésében foglalt igazolási módok helyett elfogadhatja az ajánlattevőnek az ajánlatban megtett, arra vonatkozó nyilatkozatát is, hogy megfelel az ajánlatkérő által előírt alkalmassági követelményeknek, feltéve, hogy ezt az eljárást megindító felhívásban lehetővé tette. Az ajánlatkérő ebben az esetben is csak olyan alkalmassági követelményt írhat elő, amely a 19. § (1) bekezdésében foglalt dokumentumokkal igazolható.
-
-## (3) A (2) bekezdésben foglalt esetben az ajánlattevő választása szerint jogosult a 19. § (1) bekezdésében foglaltak helyett nyilatkozattal igazolni alkalmasságát vagy a 19. § (1) bekezdése szerinti igazolásokat az ajánlatban benyújtani. Nyilatkozattal történő igazolás esetén, ha az elbírálás során az ajánlatkérőnek kétsége merül fel a nyilatkozat valóságtartalmával kapcsolatban, öt munkanapos határidő tűzésével előírhatja a 19. § (1) bekezdése szerinti igazolás benyújtását.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
