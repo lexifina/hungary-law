@@ -2,7 +2,7 @@
 
 2. A KKB felhívja a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, és ezzel egyidejűleg hatályát veszti a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság 2019. évi munkatervének elfogadásáról szóló 4/2018. (XII. 20.) KKB határozat.
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
 Melléklet a 4/2019. (XII. 23.) KKB határozathoz
 
@@ -88,7 +88,7 @@ A korábban elfogadott koncepció szerint a képzési és gyakorlatozási terv m
 
 Az éves képzési és gyakorlatozási terv a szakmailag elvárható minimális képzési és gyakorlatozási tevékenységet tartalmazza, és figyelembe veszi a korábban az ONER részére kidolgozott Hosszú Távú Képzési és Gyakorlatozási Tervet.
 
-A terv elfogadásával a KKB meghatározza elvárásait az ONER központi, ágazati, valamint területi és helyi[^1] szerveinél, szervezeteinél, valamint az I-es, II-es és III-as veszélyhelyzeti tervezési kategóriába tartozó létesítményekben a döntéshozói, döntés-előkészítői, megalapozói és végrehajtói felelősségi körökben működő állományok éves képzési és gyakorlatozási tervének összeállításához.
+A terv elfogadásával a KKB meghatározza elvárásait az ONER központi, ágazati, valamint területi és helyi[^3] szerveinél, szervezeteinél, valamint az I-es, II-es és III-as veszélyhelyzeti tervezési kategóriába tartozó létesítményekben a döntéshozói, döntés-előkészítői, megalapozói és végrehajtói felelősségi körökben működő állományok éves képzési és gyakorlatozási tervének összeállításához.
 
 A tervben foglalt programpontokat az ONER-szervek ültetik át saját éves képzési és gyakorlatozási tervükbe, összehangolva azt a szervnél folyó egyéb képzési és gyakorlatozási tevékenységgel. Az így előálló éves szervezeti képzési és gyakorlatozási terv végrehajtását, illetve a végrehajtás pénzügyi feltételeit az adott ONER-szerv biztosítja saját költségvetéséből.
 
@@ -278,4 +278,5 @@ A 2021-re vonatkozó részletes ONER képzési és gyakorlatozási terv előterj
 
 – Radioaktív anyag szállítási balesete során kialakult veszélyhelyzet elhárítása (fizikai védelmi feladatok végrehajtásával közösen) (minimálisan: BM OKF, ORFK, OAH, OSKSZ).
 
-[^1]: A jelen képzési és gyakorlatozási terv az ONER-nek az OBEIT 3.1. fejezete szerint hármas tagozódását követi, és az OBEIT 1. mellékletében szereplő meghatározásokat és rövidítéseket alkalmazza.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^3]: A jelen képzési és gyakorlatozási terv az ONER-nek az OBEIT 3.1. fejezete szerint hármas tagozódását követi, és az OBEIT 1. mellékletében szereplő meghatározásokat és rövidítéseket alkalmazza.
