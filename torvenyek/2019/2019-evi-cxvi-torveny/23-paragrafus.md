@@ -1,1 +1,1 @@
-23. § Az 1999. évi LXXXIV. törvény 8. § (3) bekezdésében az „– a természetes személyazonosító, a lakcím-azonosító adatok, valamint a „Gépjármű-vezetői képesítési igazolvány” adatai kivételével –” szövegrész helyébe az „– az (1) bekezdés a) pont aa), ab), ai) és aj) alpontjában foglalt adatok kivételével – ” szöveg lép.
+23. §
