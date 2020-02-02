@@ -1,3 +1,1 @@
-7. § Az Itv. a következő 102/C. §-sal egészül ki:
-
-„102/C. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról szóló 2019. évi XCIX. törvénnyel megállapított 18. § (1a) bekezdését, 19. § (6) bekezdését, 26. § (21) bekezdését, 27. § (4) bekezdését, 91. § (1a) bekezdését, 102. § (1a) bekezdését azon belterületbe vont ingatlanok, belterületbe vont ingatlannal rendelkező társaság vagyoni betétjének átruházása esetén kell alkalmazni, amely ingatlanok belterületbe vonása 2020. január 31-ét követően történt.”
+7. §
