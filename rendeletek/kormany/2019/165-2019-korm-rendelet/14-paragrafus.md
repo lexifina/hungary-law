@@ -1,5 +1,0 @@
-14. § (1) Ez a rendelet a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2019. március 14-i (EU) 2019/514 számú bizottsági irányelvnek való megfelelést szolgálja.
-
-(2) Ez a rendelet az Egyesült Nemzeteknek a nemzetközi szervezett bűnözés elleni egyezményét kiegészítő, a tűzfegyverek, részeik, alkotóelemeik és a lőszerek tiltott gyártásáról és kereskedelméről szóló jegyzőkönyve (az ENSZ tűzfegyverekről szóló jegyzőkönyve) 10. cikkének végrehajtásáról, valamint a tűzfegyverek, tűzfegyverdarabok, alkotóelemeik és lőszereik kiviteli engedélyezési, behozatali és tranzit szabályainak létrehozásáról szóló, 2012. március 14-i 258/2012/EU rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(3) Ez a rendelet az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
