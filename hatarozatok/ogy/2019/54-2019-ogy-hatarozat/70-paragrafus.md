@@ -1,3 +1,3 @@
-## 69. § A HHSZ 146. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 69. §[^70]
 
-## „(6) Az (5) bekezdésben rögzített határidő számításánál a rendes ülésszakok közötti időtartamot és az adatbeszerzés időtartamát figyelmen kívül kell hagyni.”
+[^70]: A 69. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

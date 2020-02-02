@@ -1,3 +1,3 @@
-## 52. § A HHSZ 109. §-a a következő (2a) bekezdéssel egészül ki:
+## 52. §[^53]
 
-## „(2a) Ha a bizottság létrehozásakor a bizottság elnöki tisztsége betöltetlen maradt, vagy a megválasztott elnök nem gyakorolhatja megbízatásából eredő jogait, az elnök megválasztásáig, illetve a megválasztott elnök jogainak gyakorlását korlátozó körülmény megszűnéséig az alelnök gyakorolja a bizottsági elnöki jogköröket. Több alelnök esetén a házelnök jelöli ki az elnököt helyettesítő alelnököt.”
+[^53]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

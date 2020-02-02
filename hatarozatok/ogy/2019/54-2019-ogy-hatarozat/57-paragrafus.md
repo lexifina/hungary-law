@@ -1,3 +1,3 @@
-## 56. § A HHSZ 119. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 56. §[^57]
 
-## „(3) Az értekezlet ülését a házelnök hívja össze és vezeti. Az értekezlet szükség szerint ülésezik. Az értekezlet bármelyik tagja kezdeményezheti a házelnöknél az értekezlet ülésének összehívását.”
+[^57]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(7) Ha a házszabályi rendelkezésekben előírt feltételek nem teljesülnek, a napirendi pont tárgyalására vagy a napirendi pont szerinti döntéshozatalra nem kerül sor, és az külön döntés nélkül lekerül a napirendről. A hiányzó feltételeket és a napirend módosulását az ülést vezető elnök ismerteti, és kezdeményezi a (2) bekezdés szerint szükséges intézkedések megtételét.”
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

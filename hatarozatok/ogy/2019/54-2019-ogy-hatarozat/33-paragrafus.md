@@ -1,1 +1,3 @@
-## „(9a) Ha a törvényalkotási bizottság kisebbségben maradt tagjai bejelentik, hogy kisebbségi véleményt terjesztenek elő, a kisebbségi előadót legkésőbb annak az ülésnapnak a megnyitása előtt egy órával kell megjelölni, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat összevont vitája szerepel.”
+## 32. §[^33]
+
+[^33]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

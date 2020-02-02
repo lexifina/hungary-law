@@ -1,3 +1,3 @@
-## 9. § A HHSZ 8. alcíme a következő 17/A. §-sal egészül ki:
+## 9. §[^10]
 
-## „17/A. § Az ülést vezető elnök – a szómegvonás okának közlésével – megvonhatja a szót attól a felszólalótól, aki felszólalása során kitöltötte a saját vagy a képviselőcsoportja időkeretét.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

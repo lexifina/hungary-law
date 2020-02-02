@@ -1,9 +1,3 @@
-## „(11) A vitában a (10) bekezdés szerinti felszólalásokat követően
+## 39. §[^40]
 
-## a) képviselőcsoportonként egy képviselő,
-
-## b) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségeket képviselő bizottság által felkért nemzetiségi képviselő vagy szószóló, majd
-
-## c) a független képviselők közül az elsőként szólásra jelentkezett képviselő
-
-## szólalhat fel.”
+[^40]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

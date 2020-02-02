@@ -1,3 +1,3 @@
-## 8. § A HHSZ 17. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^9]
 
-## „(5) A házelnök és az alelnökök képviselői felszólalásuk esetén a tárgysorozaton lévő ugyanazon önálló indítvány további tárgyalása során a szavazás lezárásáig az ülés vezetésével kapcsolatos feladatokat nem láthatják el, kivéve, ha az Országgyűlés ehhez hozzájárul. A hozzájárulásról az Országgyűlés vita nélkül, kézfelemeléssel határoz.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

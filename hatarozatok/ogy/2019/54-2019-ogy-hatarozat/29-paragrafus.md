@@ -1,7 +1,3 @@
-## 28. § A HHSZ 54. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 28. §[^29]
 
-## (A vitában ezt követően)
-
-## „b) a nemzetiségek érdekeit, jogait érintő napirendi pont esetében a nemzetiségi képviselők és szószólók ötperces”
-
-## (időtartamban szólalhatnak fel.)
+[^29]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

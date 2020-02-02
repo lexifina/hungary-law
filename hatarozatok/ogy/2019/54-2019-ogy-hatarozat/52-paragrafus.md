@@ -1,1 +1,3 @@
-## „(3) A (2) bekezdés szerinti kiigazítást a törvényjavaslat előterjesztője nyújthatja be azt az ülésnapot megelőző munkanapon, amely ülésnap napirendjén vagy tervezett napirendjén a törvényjavaslat zárószavazása szerepel.”
+## 51. §[^52]
+
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

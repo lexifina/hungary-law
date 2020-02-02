@@ -1,3 +1,3 @@
-## 55. § A HHSZ 117. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 55. §[^56]
 
-## „(2) Közvetlenül a bizottsági jelentésről való szavazás után a bizottság kisebbségben maradt tagjai bejelenthetik, hogy kisebbségi véleményt terjesztenek elő. Az így bejelentett kisebbségi véleményt az Országgyűlés ülésén a kisebbségi álláspontot képviselő bizottsági tagok által maguk közül választott előadó ismerteti. A kisebbségi előadót legkésőbb – a 62. § (9a) bekezdésében meghatározott kivétellel – azon ülést megelőző hét utolsó munkanapján kell megjelölni, amely ülés tervezett napirendjén a bizottsági jelentések és az összegző módosító javaslat vitája szerepel.”
+[^56]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

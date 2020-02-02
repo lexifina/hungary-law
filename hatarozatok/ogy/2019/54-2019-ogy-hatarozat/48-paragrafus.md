@@ -1,3 +1,3 @@
-## 47. § A HHSZ 93. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 47. §[^48]
 
-## „(1) A költségvetési ügyekkel foglalkozó bizottság a részletes vitát lezáró bizottsági módosító javaslatok tárgyalásának befejezéséről a 92. § (6) bekezdése szerinti tájékoztatás megküldését követően – a Házbizottság által megállapított határidőben – összegző jelentést és összegző módosító javaslatot nyújt be. Ha a költségvetési ügyekkel foglalkozó bizottság olyan bizottsági módosító javaslatot támogat, amely miatt a központi költségvetés egyenlegének, továbbá a költségvetési törvényjavaslat költségvetési fejezetei bevételi és kiadási főösszegének megváltoztatása szükséges, összegző módosító javaslatának tartalmaznia kell az ezekre vonatkozó módosításokat is.”
+[^48]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

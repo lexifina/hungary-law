@@ -1,3 +1,3 @@
-## „(9) Rendkívüli ügyben valamennyi ülésnap napirendi pontjainak tárgyalása után – az (5) és (6) bekezdésben meghatározott módon és időtartamban – bármely képviselő és szószóló ülésnaponként egy alkalommal felszólalásra jelentkezhet. A napirend utáni felszólalások a bejelentkezés sorrendje szerint hangzanak el.
+## 11. §[^12]
 
-## (10) Az (5), (6a) és (9) bekezdés szerinti felszólalással kapcsolatos észrevétel céljából a Kormány képviselője ötperces hozzászólásra kérhet szót.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

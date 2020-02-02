@@ -1,3 +1,3 @@
-## 35. § A HHSZ 66. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 35. §[^36]
 
-## „(2) A képviselő a módosító javaslatát a tárgyaló bizottság részletes vitát lezáró döntésének meghozataláig – ha a tárgyaló bizottság megkezdte ülését, a bizottsági ülésen –, a tárgyaló bizottság a részletes vitát lezáró bizottsági módosító javaslatát a törvényalkotási bizottságnak a részletes vitát lezáró bizottsági módosító javaslatot tárgyaló ülése megnyitásáig visszavonhatja.”
+[^36]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
