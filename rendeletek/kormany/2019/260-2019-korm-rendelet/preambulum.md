@@ -1,1 +1,0 @@
-A Kormány az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 136. § a), c) és f) pontjában és az adózás rendjéről szóló 2017. évi CL. törvény 268. § (1) bekezdés 1., 5. és 15a. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
