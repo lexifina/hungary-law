@@ -1,4 +1,4 @@
-46/A. §[^527] (1) A hemodialízisben részesülő betegek otthoni kezelésének finanszírozási eljárásrendjét megalapozó ellátási programban (a továbbiakban: otthoni hemodialízis program) az egészségügyért felelős miniszter által kijelölt egészségügyi szolgáltató vesz részt.
+46/A. §[^529] (1) A hemodialízisben részesülő betegek otthoni kezelésének finanszírozási eljárásrendjét megalapozó ellátási programban (a továbbiakban: otthoni hemodialízis program) az egészségügyért felelős miniszter által kijelölt egészségügyi szolgáltató vesz részt.
 
 (2) Az (1) bekezdés szerint kijelölt egészségügyi szolgáltató felelős az otthoni hemodialízis programba bevonásra kerülő betegek kiválasztásáért, oktatásáért, valamint az otthoni kezelések szakmai felügyeletéért.
 
@@ -20,4 +20,4 @@ kóddal az e rendeletben foglaltak szerint, a 18. számú melléklet szerinti ad
 
 (8) Az otthoni hemodialízis program időtartamának lejártát követően kizárólag az otthoni hemodialízis program ideje alatt bevont betegek ellátásai jelenthetők, amelyek elszámolása az e §-ban foglaltak szerint, beavatkozásonként 39 000 Ft díjjal történik.
 
-[^527]: A 46/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 17. §-a iktatta be.
+[^529]: A 46/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 17. §-a iktatta be.

@@ -1,3 +1,3 @@
-54. §[^557]
+54. §[^559]
 
-[^557]: Az 54. §-t a 166/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § e) pontja.
+[^559]: Az 54. §-t a 166/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § e) pontja.
