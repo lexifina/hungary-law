@@ -102,7 +102,7 @@ Felelős: emberi erőforrások minisztere
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: azonnal
+Határidő: a Zalaegerszegen kormányzati támogatással megvalósítandó multifunkciós rendezvény- és sportcsarnok beruházás kivitelezési dokumentációjának elkészültét követően azonnal
 
 11.[^4] támogatja a TOP-6.1.4-15-ZL1-2016-00002 azonosító számú, „Zalaegerszegi Göcseji Falumúzeum fejlesztése” című projekthez kapcsolódó – kástu áthelyezése, szobor áthelyezése, pákász kunyhó telepítése, I. világháborús emlékmű felépítése – projektelemek, valamint a TOP-6.1.3-15-ZL1-2016-00001 azonosító számú, „Helyi Termelői és Kézműves Piac kialakítása Zalaegerszegen” című projekt és a TOP-6.1.4-16-ZL1-2017-00003 azonosító számú, „Helyi Termelői és Kézműves Piac kialakítása Zalaegerszegen – Göcsej Tudásközpont” című projekt (a továbbiakban együtt: fejlesztések) megvalósulását, melynek keretében
 
@@ -116,5 +116,5 @@ Határidő: 2019. október 31.
 
 [^1]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
 [^2]: A 9. pontot az 1106/2019. (III. 11.) Korm. határozat 1. pontja iktatta be.
-[^3]: A 10. pontot az 1339/2019. (VI. 7.) Korm. határozat iktatta be.
+[^3]: A 10. pontot az 1339/2019. (VI. 7.) Korm. határozat iktatta be, szövege az 1020/2020. (II. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 11. pontot az 1582/2019. (X. 15.) Korm. határozat iktatta be.
