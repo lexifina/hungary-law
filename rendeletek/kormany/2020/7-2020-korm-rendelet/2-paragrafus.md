@@ -1,3 +1,0 @@
-## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: R.) 23. §-a a következő (14) bekezdéssel egészül ki:
-
-## „(14) A szakellátást nyújtó fogorvosi szakrendelést működtető fogorvosi szolgáltatók havonta 380 000 Ft összegű rezsitámogatásra jogosultak szakrendelésenként. A havi 380 000 Ft összegű díjazás a heti 30 órás rendelési időben működő szakrendelések esetében kerül kifizetésre, az ennél alacsonyabb rendelési időben működő szakrendelések időarányosan csökkentett mértékű rezsitámogatásra jogosultak. A rezsitámogatás utalványozására a 22. § (3)–(5) bekezdés szerinti díjjal egyidejűleg kerül sor.”
