@@ -1,6 +1,6 @@
 ## 1. egyetért az 1. mellékletben meghatározott kedvezményezettek (a továbbiakban: Kedvezményezettek) programjainak, beruházásainak, fejlesztéseinek megvalósításával, illetve működésének támogatásával;
 
-## 2. felhívja a miniszterelnök általános helyettesét, hogy az 1. pont szerinti támogatások biztosítása érdekében – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kedvezményezettek részére, az 1. mellékletben meghatározott támogatási célokra és összegben, mindösszesen 14 123 413 000 forint összegben nyújtson – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – költségvetési támogatást;
+## 2.[^1] felhívja a miniszterelnök általános helyettesét, hogy az 1. pont szerinti támogatások biztosítása érdekében – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kedvezményezettek részére, az 1. mellékletben meghatározott támogatási célokra és összegben, mindösszesen 14 353 413 000 forint összegben nyújtson – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – költségvetési támogatást;
 
 ## Felelős: a miniszterelnök általános helyettese
 
@@ -24,7 +24,7 @@
 
 ## Határidő: a felmerülés ütemében
 
-1. melléklet az 1809/2019. (XII. 27.) Korm. határozathoz
+1. melléklet az 1809/2019. (XII. 27.) Korm. határozathoz[^2]
 
 | Sorszám | Kedvezményezett neve | Támogatási cél | Támogatási összeg (forint) |
 
@@ -51,3 +51,8 @@
 | 11. | Futball Club Csíkszereda Egyesület | A szervezet működésének és fejlesztésének támogatása | 2 785 000 000 |
 
 | 12. | Várda Sport Egyesület Kisvárda | A szervezet működésének és munkácsi beruházásainak támogatása | 1 185 000 000 |
+
+| 13. | Aquinói Szent Tamás Közéleti Egyesület | Aquinói Szent Tamás Közéleti Akadémia 2020/2021. tanév és Szent Tamás Keresztény Közéleti Műhely támogatása | 230 000 000 |
+
+[^1]: A 2. pont az 1020/2020. (II. 6.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1020/2020. (II. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
