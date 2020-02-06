@@ -2,7 +2,7 @@
 
 | 1 | Budapest-Belvárosi Nagyboldogasszony Főplébánia | Belvárosi Főplébánia-templom Toronytúra projekt | 20 000 000 |
 
-| 2 | Sapientia Szerzetesi Hittudományi Főiskola | Aquinói Szent Tamás Közéleti Akadémia 2020/2021. tanév és Szent Tamás Keresztény Közéleti Műhely támogatásáról | 230 000 000 |
+| 2 |  |  |  |
 
 | 3 | Római Katolikus Egyházközség, Szentmártonkáta | A szentmártonkátai katolikus templom külső-belső felújítása | 70 000 000 |
 
