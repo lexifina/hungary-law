@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1707-30
 | 2019-06-11 | 2017-1707-30-22.10 | 1347/2018. (VII. 26.) Korm. határozat |
 | 2019-06-13 | 2017-1707-30-22.11 | 1347/2018. (VII. 26.) Korm. határozat |
 | 2019-11-28 | 2017-1707-30-22.12 | 1347/2018. (VII. 26.) Korm. határozat |
+| 2020-02-06 | 2017-1707-30-22.13 | 1347/2018. (VII. 26.) Korm. határozat |
