@@ -26,8 +26,10 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: támogatási szerződés megkötésekor
 
-4. felhívja a Miniszterelnökséget vezető minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon a 3. pont szerinti támogatási szerződés megkötéséről a Népfőiskola Alapítvánnyal.
+4.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a Beruházás megvalósítása érdekében gondoskodjon a 3. pont szerinti támogatási szerződés megkötéséről a Népfőiskola Alapítvánnyal.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: az adott évben szükséges forrás rendelkezésre állását követően azonnal
+Határidő: az azonnal
+
+[^1]: A 4. pont az 1020/2020. (II. 6.) Korm. határozat 5. pontja szerint módosított szöveg.
