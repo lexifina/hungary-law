@@ -26,14 +26,15 @@ b) az 1. pont szerinti beruházások megvalósítója a Beruházási Ügynöksé
 
 a)[^1] a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés a)–p) pontja szerinti előkészítési fázisokat az 1. pont a) alpont szerinti beruházás esetében legkésőbb 2020. december 31. napjáig, az 1. pont b) alpont szerinti beruházás esetében 2021. június 30. napjáig, az 1. pont c), d), e) és f) alpontja esetében 2019. december 31-ig kell megvalósítani,
 
-b) a Határozat 5. pontja alapján 1. pont szerinti beruházások előkészítési fázisaira átcsoportosított forrás elszámolási és visszafizetési kötelezettségének határideje az 5. pont szerinti jelentés tudomásulvételét követő 30. nap;
+b)[^2] az 1. pont szerinti beruházások előkészítési fázisaira átcsoportosított forrás elszámolási és visszafizetési kötelezettségének határideje az 1. pont a) alpontja szerinti beruházás esetében legkésőbb 2021. március 1. napja, az 1. pont b) alpontja szerinti beruházás esetében 2021. augusztus 29. napja, az 1. pont c)–f) alpontja esetében az e kormányhatározatot módosító, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Beruházás Előkészítési Alapból történő előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1020/2020. (II. 6.) Korm. határozat közzétételét követő 60. nap.
 
-5.[^2]
+5.[^3]
 
 6. jóváhagyja, hogy a Nemzeti Sportközpontok által az 1. pont szerinti beruházásokkal kapcsolatban lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-7.[^3]
+7.[^4]
 
 [^1]: A 4. pont a) alpontja az 1762/2019. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: A 5. pontot az 1762/2019. (XII. 23.) Korm. határozat 3. pontja visszavonta.
-[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont b) alpontja az 1020/2020. (II. 6.) Korm. határozat 4. pontjával megállapított szöveg.
+[^3]: A 5. pontot az 1762/2019. (XII. 23.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
