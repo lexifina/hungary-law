@@ -1,4 +1,4 @@
-16. melléklet a 45/2019. (IX. 25.) AM rendelethez
+16. melléklet a 45/2019. (IX. 25.) AM rendelethez[^3]
 
 ## Védett őshonos és veszélyeztetett mezőgazdasági állatfajták
 
@@ -33,6 +33,8 @@
 |  | 13. | Sertés: | szőke mangalica |
 
 |  | 14. |  | fecskehasú mangalica |
+
+|  | 14a. |  | fekete mangalica |
 
 |  | 15. |  | vörös mangalica |
 
@@ -87,3 +89,5 @@
 |  | 2. | Szarvasmarha: | magyar tarka szarvasmarha |
 
 |  | 3. | Juh: | magyar merinó |
+
+[^3]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a szerint módosított szöveg.
