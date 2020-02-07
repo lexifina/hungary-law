@@ -1,0 +1,9 @@
+# 5/2020. (II. 6.) ITM rendelet
+
+a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-5-20-7Q
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-02-07 | 2020-5-20-7Q.1 | 5/2020. (II. 6.) ITM rendelet |
