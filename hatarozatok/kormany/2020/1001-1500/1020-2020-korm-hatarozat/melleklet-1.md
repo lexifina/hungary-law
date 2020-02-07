@@ -38,34 +38,33 @@
 
 ## Határidő: azonnal
 
-## 2. A Magyarország Kormánya és Zalaegerszeg Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1252/2015. (IV. 23.) Korm. határozat 10. pontjában a „Határidő: azonnal” szövegrész helyébe a „Határidő: a Zalaegerszegen kormányzati támogatással megvalósítandó multifunkciós rendezvény- és sportcsarnok beruházás kivitelezési dokumentációjának elkészültét követően azonnal” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 1. pontjában az „1 836 800 000 forint tekintetében 2019. június 30.,” szövegrész helyébe az „1 836 800 000 forint tekintetében 2019. június 30., az Emberi Erőforrások Minisztériuma igazgatása cím javára biztosított 257 500 000 forint tekintetében 2019. december 31.,” szöveg lép.
+## 3.[^2]
 
-## 4. A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében tervezett iskolafejlesztések előkészítéséhez szükséges további intézkedésekről szóló 1126/2019. (III. 13.) Korm. határozat 4. pont b) alpontja helyébe a következő rendelkezés lép:
+## 4.[^3]
 
-## [A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemének megvalósítása (a továbbiakban: Program) érdekében a Kormány
+## 5.[^4]
 
-## egyetért azzal, hogy]
+## 6.[^5]
 
-## „b) az 1. pont szerinti beruházások előkészítési fázisaira átcsoportosított forrás elszámolási és visszafizetési kötelezettségének határideje az 1. pont a) alpontja szerinti beruházás esetében legkésőbb 2021. március 1. napja, az 1. pont b) alpontja szerinti beruházás esetében 2021. augusztus 29. napja, az 1. pont c)–f) alpontja esetében az e kormányhatározatot módosító, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Beruházás Előkészítési Alapból történő előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1020/2020. (II. 6.) Korm. határozat közzétételét követő 60. nap.”
+## 7.[^6]
 
-## 5. A Hungarikum Liget beruházás megvalósításához szükséges kormányzati intézkedésekről szóló 1593/2019. (X. 16.) Korm. határozat 4. pontjában az „adott évben szükséges forrás rendelkezésre állását követően azonnal” szövegrész helyébe az „azonnal” szöveg lép.
+## 8.[^7]
 
-## 6. Az egyes egyházi célú beruházásokhoz és egyéb feladatokhoz szükséges kormányzati intézkedésekről szóló 1808/2019. (XII. 27.) Korm. határozat [a továbbiakban: 1808/2019. (XII. 27.) Korm. határozat] 2. és 3. pontjában a „4 525 336 490 forint” szövegrész helyébe a „4 295 336 490 forint” szöveg lép.
+## 9.[^8]
 
-## 7. A Kormány visszavonja az 1808/2019. (XII. 27.) Korm. határozat 1. mellékletében foglalt táblázat 2. sorát.
+## 10.[^9]
 
-## 8. A határon túli célú költségvetési támogatások biztosításáról szóló 1809/2019. (XII. 27.) Korm. határozat [a továbbiakban: 1809/2019. (XII. 27.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosul.
+1. melléklet az 1020/2020. (II. 6.) Korm. határozathoz[^10]
 
-## 9. Az 1809/2019. (XII. 27.) Korm. határozat 2. pontjában a „mindösszesen 14 123 413 000 forint” szövegrész helyébe a „mindösszesen 14 353 413 000 forint” szöveg lép.
-
-## 10. A Maecenas Universitatis Corvini Alapítvány támogatásáról szóló 1810/2019. (XII. 27.) Korm. határozat
-
-## a) 1. pontjában az „ingatlan felújításának támogatásával” szövegrész helyébe az „ingatlan felújításának, területrendezésének, valamint az ingatlan használatához szükséges gépek, berendezések és felszerelések beszerzésének támogatásával” szöveg,
-
-## b) 3. pontjában a „2020. december 30-ig” szövegrész helyébe a „2022. december 31-ig” szöveg
-
-## lép.
-
-1. melléklet az 1020/2020. (II. 6.) Korm. határozathoz
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
