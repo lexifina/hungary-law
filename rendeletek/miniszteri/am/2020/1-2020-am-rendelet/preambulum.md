@@ -1,0 +1,1 @@
+Az állattenyésztés szabályozásához szükséges törvényi szintű rendelkezésekről szóló 2019. évi LVI. törvény 9. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
