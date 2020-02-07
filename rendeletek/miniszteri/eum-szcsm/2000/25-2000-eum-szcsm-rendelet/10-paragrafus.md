@@ -1,3 +1,0 @@
-10. § (1) Ha a veszélyes anyagot tároló tartály mérete vagy a csomagolás jellege következtében a tartalmának megfelelő címkézésre vagy megjelölésre nem alkalmas, akkor a munkavállaló által értett hatékony felismerhetőségi jelekről kell gondoskodni, pl. függő címke alkalmazásáról vagy kísérő dokumentumokról.
-
-(2) Ha a munkahelyen előforduló veszélyes anyag tárolására és szállítására szolgáló tárolóedény és csővezeték nincs az előírásoknak megfelelően megjelölve, a munkáltató köteles biztosítani a tárolóedény és a csővezeték tartalmának, azok természetének és a hozzájuk kapcsolódó veszélyeknek a jelölését.
