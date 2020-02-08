@@ -1,5 +1,0 @@
-## 1. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. § 25. pontjában meghatározottak szerinti sajátos nevelési igényű (a továbbiakban: sajátos nevelési igényű) gyermekek óvodai nevelését végző óvoda a helyi pedagógiai programját az Óvodai nevelés országos alapprogramja, valamint az e rendelet 1. mellékleteként kiadott Sajátos nevelési igényű gyermekek óvodai nevelésének irányelvében foglaltak figyelembevételével készíti és fogadja el.
-
-2. § (1) A sajátos nevelési igényű tanulók iskolai nevelését és oktatását végző iskola helyi tantervét az oktatásért felelős miniszter által az iskolatípusra kiadott kerettantervek közül választott kerettanterv, és az e rendelet 2. mellékleteként kiadott Sajátos nevelési igényű tanulók iskolai oktatásának irányelvében foglaltak figyelembevételével készíti el és fogadja el.
-
-(2) A sajátos nevelési igényű tanulót a többi tanulóval együtt nevelő, oktató iskola a helyi tantervének elkészítésénél az e rendelet 2. mellékleteként kiadott Sajátos nevelési igényű tanulók iskolai oktatásának irányelvét is figyelembe veszi.
