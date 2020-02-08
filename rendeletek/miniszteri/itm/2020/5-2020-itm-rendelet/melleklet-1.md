@@ -1,4 +1,4 @@
-## 25. § Hatályát veszti a munkahelyek kémiai biztonságáról szóló 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
+## 25. §[^1]
 
 1. melléklet az 5/2020. (II. 6.) ITM rendelethez
 
@@ -747,3 +747,5 @@ ahol:
 1.5.2.3. Az 1,2, ... n: az egyes anyagok indexeit úgy kell értelmezni, hogy a számlálóban és a nevezőben szereplő azonos indexek azonos anyagot jelentenek.
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
+
+[^1]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
