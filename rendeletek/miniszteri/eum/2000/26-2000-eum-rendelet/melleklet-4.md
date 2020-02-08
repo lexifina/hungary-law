@@ -1,3 +1,3 @@
-4. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^53]
+4. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^72]
 
-[^53]: A 4. számú mellékletet a 12/2006. (III. 23.) EüM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 4. számú mellékletet a 12/2006. (III. 23.) EüM rendelet 20. § (2) bekezdése hatályon kívül helyezte.

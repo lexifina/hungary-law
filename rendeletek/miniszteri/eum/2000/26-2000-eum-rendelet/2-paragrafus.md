@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet célja, hogy a kockázatok minimálisra csökkentésével elősegítse a munkavállalók védelmét a rákkeltő vagy mutagén anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szemben. Ahol a jelen rendelet rákkeltő anyagot említ, azon mutagén anyagot is érteni kell.
+## 1. §[^1] E rendelet célja, hogy a kockázatok minimálisra csökkentésével elősegítse a munkavállalók védelmét a rákkeltő vagy mutagén anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szemben.
 
 ## Fogalommeghatározások
 
@@ -28,43 +28,46 @@ f) terhelés: a munkavállaló szervezetébe jutó rákkeltő mennyisége, dózi
 
 g)[^6] orvosi vizsgálat: a külön jogszabály szerint a foglalkozás-egészségügyi szolgálatok vagy szakellátó helyek, illetve a munkahigiénés és foglalkozás-egészségügyi szerv által, valamint ezek kérésére végzett orvosi, szakkonziliárusi, illetőleg diagnosztikai vizsgálat;
 
-h) biológiai vizsgálatok: biológiai monitorozás, citogenetikai vizsgálat, tumor-marker meghatározás;
+h)[^7] biológiai monitorozás: a szervezetbe jutott veszélyes anyagok mennyiségének, a dolgozó vegyi anyaggal történt terhelésének becslése;
 
-i) citogenetikai vizsgálat: emberi szervezetben a rákkeltők által okozott sejt- vagy molekuláris szinten megjelenő, a sejtek programjában bekövetkezett változásokat jelentő mutációk kimutatására alkalmas vizsgálat;
+i)[^8]
 
-j) tumor-marker vizsgálat: egyes szervek daganatos megbetegedése esetén a vérben megjelenő, jellemző anyagok kimutatása, illetve mennyiségének meghatározása;
+j)[^9]
 
 k) egyéni kockázati szint: foglalkozási eredetű daganatos megbetegedésnek egy adott munkavállalót érintő előfordulásának valószínűsége;
 
 l) populációs szintű kockázat: foglalkozási eredetű daganatos megbetegedéseknek egy meghatározott népességcsoportban való előfordulásának valószínűsége;
 
-m)[^7] határérték: az az eltűrhető legmagasabb kockázati szint, amely a munkatér eltűrhető szennyezettségi szintjével fejezhető ki (jele: MK, mértéke: mg/m3) a külön jogszabályban meghatározottak szerint. A határérték 8 órás referencia időre vonatkozik;
+m)[^10] határérték: rákkeltő vagy mutagén anyagok a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló miniszteri rendeletben meghatározott, munkahelyi levegőben megengedett, 8 órás referencia-időre vonatkoztatott átlagos és csúcskoncentráció értéke;
 
 n) eltűrhető szennyezettség: az a koncentráció, amelyben a rákkeltő okozta daganatos megbetegedés kockázata valószínűleg nem nagyobb, mint 1:105 (10 mikrorizikó);
 
 o) dekontaminálás: a rákkeltő szennyeződés hatástalanítása vagy eltávolítása;
 
-p)[^8]
+p)[^11]
 
-r)[^9] egészségkárosító kockázat: a munkahelyi légtérben lévő szennyező anyag koncentrációja meghaladja a határértéket, vagy határérték hiányában a munkáltató által végzett kockázatbecslés az eltűrhetőnél – 1:105 szintűnél – nagyobb kockázatot jelez;
+r)[^12] egészségkárosító kockázat: a munkahelyi légtérben lévő szennyező anyag koncentrációja meghaladja a határértéket, vagy határérték hiányában a munkáltató által végzett kockázatbecslés az eltűrhetőnél – 1:105 szintűnél – nagyobb kockázatot jelez;
 
-s)[^10] mutagén anyag:
+s)[^13] mutagén anyag:
 
 sa) amely belégzéssel, szájon át, a bőrön, a nyálkahártyán keresztül vagy egyéb úton a szervezetbe jutva genetikai károsodást okoz vagy megnöveli a genetikai károsodások gyakoriságát,
 
-sb)[^11] a CLP rendelet alapján az 1A. vagy 1B. kategóriájú csírasejt-mutagén anyagként való besorolás kritériumainak megfelelő anyag,
+sb)[^14] a CLP rendelet alapján az 1A. vagy 1B. kategóriájú csírasejt-mutagén anyagként való besorolás kritériumainak megfelelő anyag,
 
-sc)[^12] az a keverék, amely egy vagy több – az sb) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. mutagén kategóriába tartozik.
+sc)[^15] az a keverék, amely egy vagy több – az sb) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. mutagén kategóriába tartozik.
 
-[^1]: Az 1. § a 75/2003. (XII. 23.) ESZCSM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 6/2020. (II. 7.) ITM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a) pontja a 30/2009. (XII. 22.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § a) pont aa) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § a) pont ab) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § a) pont ac) alpontja a 21/2015. (VIII. 28.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § g) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének a) pontja, az 51/2011. (XII. 23.) NGM rendelet 5. §-a szerint módosított szöveg.
-[^7]: A 2. § m) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
-[^8]: A 2. § p) pontját a 21/2015. (VIII. 28.) NGM rendelet 13. §-a hatályon kívül helyezte.
-[^9]: A 2. § r) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
-[^10]: A 2. § s) pontját a 75/2003. (XII. 23.) ESZCSM rendelet 2. §-a iktatta be, szövege a 30/2009. (XII. 22.) SZMM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^11]: A 2. § s) pont sa) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^12]: A 2. § s) pont sb) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § h) pontja a 6/2020. (II. 7.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § i) pontját a 6/2020. (II. 7.) ITM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § j) pontját a 6/2020. (II. 7.) ITM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § m) pontja a 6/2020. (II. 7.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § p) pontját a 21/2015. (VIII. 28.) NGM rendelet 13. §-a hatályon kívül helyezte.
+[^12]: A 2. § r) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 1. §-ának (2) bekezdése iktatta a szövegbe.
+[^13]: A 2. § s) pontját a 75/2003. (XII. 23.) ESZCSM rendelet 2. §-a iktatta be, szövege a 30/2009. (XII. 22.) SZMM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. § s) pont sa) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § s) pont sb) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (2) bekezdésével megállapított szöveg.
