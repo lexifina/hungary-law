@@ -1,0 +1,1 @@
+## „(3a) A (3) bekezdés a) pontjában megfogalmazott feladatokat a gondozási tervben személyre szólóan rögzíteni kell úgy, hogy az – ha az igénybe vevő kora, egészségi állapota lehetővé teszi – biztosítsa az intézmény elhagyásának lehetőségét.”
