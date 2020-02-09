@@ -216,7 +216,7 @@
 
 ## helyrajzi száma: ……………
 
-## A vagyoni értékű jog megnevezése: haszonélvezeti □, használati □, földhasználati □, lakáshasználati □, haszonbérleti □, bérleti □, jelzálogjog □, egyéb □.
+## A vagyoni értékű jog megnevezése:, használati □, földhasználati □, lakáshasználati □, haszonbérleti □, bérleti □, jelzálogjog □, egyéb □.
 
 ## Ingatlan becsült forgalmi értéke: ………………………Ft
 
