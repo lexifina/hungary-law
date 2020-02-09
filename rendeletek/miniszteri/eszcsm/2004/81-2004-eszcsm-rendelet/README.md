@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-81-20-0
 | 2018-02-06 | 2004-81-20-0M.11 | 7/2018. (II. 5.) EMMI rendelet |
 | 2018-07-01 | 2004-81-20-0M.12 | 43/2016. (XII. 27.) EMMI rendelet |
 | 2019-02-28 | 2004-81-20-0M.13 | 4/2019. (II. 27.) EMMI rendelet |
+| 2020-02-09 | 2004-81-20-0M.14 | 4/2020. (II. 6.) EMMI rendelet |

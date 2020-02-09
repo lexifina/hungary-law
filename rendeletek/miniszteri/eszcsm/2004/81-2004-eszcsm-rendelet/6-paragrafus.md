@@ -1,5 +1,5 @@
 6. § (1) A minisztérium ellenőrzi, hogy a képzések megfelelnek-e az oktatási programban, illetve az e rendeletben foglaltaknak.
 
-(2)[^17] A Főigazgatóság a minisztérium részére minden év január 31-éig beszámolót készít az előző évben lebonyolított képzésekről.
+(2)[^18] A Főigazgatóság a minisztérium részére minden év január 31-éig beszámolót készít az előző évben lebonyolított képzésekről.
 
-[^17]: A 6. § (2) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
+[^18]: A 6. § (2) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
