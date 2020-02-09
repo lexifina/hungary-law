@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-76-00-00
 | --- | --- | --- |
 | 2019-11-16 | 2019. évi LXXVI. törvény | 2019-76-00-00.0 (közlönyállapot) |
 | 2019-11-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-76-00-00.1 |
+| 2020-02-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-76-00-00.2 |
