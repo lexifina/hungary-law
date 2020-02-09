@@ -6,9 +6,9 @@ b) elvitelének lehetővé tételével,
 
 c) lakásra szállításával.
 
-(2)[^93] Az étkeztetés keretében főétkezésként legalább napi egyszeri meleg ételt kell biztosítani. Ha az étkezésben részesülő személy egészségi állapota indokolja, a szakorvos javaslatára – a népkonyha kivételével – az ellátást igénybe vevő részére diétás étkeztetést kell biztosítani.
+(2)[^105] Az étkeztetés keretében főétkezésként legalább napi egyszeri meleg ételt kell biztosítani. Ha az étkezésben részesülő személy egészségi állapota indokolja, a szakorvos javaslatára – a népkonyha kivételével – az ellátást igénybe vevő részére diétás étkeztetést kell biztosítani.
 
-(3)[^94]
+(3)[^106]
 
 (4) Az étel helyben fogyasztása esetén biztosítani kell a szolgáltatást igénybe vevők számának megfelelően
 
@@ -18,5 +18,5 @@ b) evőeszközöket és étkészletet.
 
 (5) Igény esetén a munkaszüneti és pihenőnapon történő étkeztetés feltételeit is biztosítani kell, ha ez helyben megoldható.
 
-[^93]: A 21. § (2) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § f) pontja szerint módosított szöveg.
-[^94]: A 21. § (3) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 30. § c) pontja hatályon kívül helyezte.
+[^105]: A 21. § (2) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § f) pontja szerint módosított szöveg.
+[^106]: A 21. § (3) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 30. § c) pontja hatályon kívül helyezte.

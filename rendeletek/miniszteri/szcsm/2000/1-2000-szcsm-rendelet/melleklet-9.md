@@ -1,3 +1,3 @@
-9. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^400]
+9. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^435]
 
-[^400]: A 9–10. számú melléklet a 6/2000. (VII. 6.) SZCSM rendelet 9. §-ának (5) bekezdésével, illetve 4–5. számú mellékletével megállapított szöveg.
+[^435]: A 9. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § i) pontja hatályon kívül helyezte.

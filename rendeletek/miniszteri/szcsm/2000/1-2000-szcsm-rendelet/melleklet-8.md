@@ -132,44 +132,6 @@
 
 ## 5.19. Minden egyéb, orvos által elrendelt és felügyelt szakápolási tevékenység.
 
-8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^399]
+8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^434]
 
-## Tevékenységnapló
-
-| Dátum: …… év ……… hó …… nap 1 |
-
-| Szolgáltatás kezdetének időpontja: | ….. óra ……. perc |
-
-| Szolgáltatás befejezésének időpontja: | ….. óra ……. perc |
-
-| Szolgáltatással összefüggésben megtett kilométer: 3 |  |
-
-| Szolgáltatást végző neve (ha nem azonos a falu- vagy tanyagondnok személyével): |  |
-
-| Sorszám: | Szolgáltatás időtartama (óra, perc): | Tevékenység: 4 | Szolgáltatást igénybe vevők száma: 5-8 | Szolgáltatást igénybe vevők neve: 5-8 | Szolgáltatást igénybe vevők aláírása: 9 |
-
-| Szolgáltatást végző aláírása: | ……………………………………………………………………… |  |  |
-
-| Fenntartó teljesítést igazolni jogosult megbízottjának, meghatalmazottjának aláírása: 2 | ……………………………………………………………………… |  |  |
-
-Kitöltési útmutató a falu- és tanyagondnoki szolgáltatás tevékenységének nyilvántartásához:
-
-1. A nyilvántartást a szolgáltatás minden napján, külön lapon kell vezetni.
-
-2. A fenntartó által megbízott, meghatalmazott személynek aláírásával kell igazolnia az adott napi teljesítést.
-
-3. A szolgáltatással összefüggésben megtett kilométer azt a távolságot jelenti, melyet a falu- vagy tanyagondnok az egyes szolgáltatások során a szolgáltatáshoz használt gépjárművel megtett. Nem tüntethető fel ezen sorban a szolgáltatáson kívül megtett kilométer (vagyis azon távolság, melyen a gépjárművet nem a szolgáltatást végző, vagy az őt helyettesíteni jogosult személy használja).
-
-4. A tevékenység bejegyzése esetén törekedni kell a tömör, informatív közlésre; azonos tevékenységeknél törekedni kell az azonos megnevezésre. A tevékenység bejegyzése során használható a Nemzeti Erőforrás Minisztérium honlapján közzétett kódrendszer is, ennek használata azonban nem kötelező.
-
-5. A szolgáltatást igénybevevők számát és nevét értelemszerűen nem kell kitölteni, amennyiben a szolgáltatás jellege miatt erre nincs lehetőség (pl. falunap szervezése).
-
-6. Amennyiben a szolgáltatást valamely intézmény (pl. települési önkormányzat) veszi igénybe, a szolgáltatást igénybevevő nevénél az intézményt kell feltüntetni. A szolgáltatást igénybevevők számát ebben az esetben nem kell kitölteni.
-
-7. Amennyiben a szolgáltatás nyújtása rendszeresen, ugyanazon személyi kör részére történik (pl. naponta iskolások iskolába szállítása, vagy hetente gyógyszer felíratása, recept kiváltása), a szolgáltatást rendszeresen igénybevevőkről külön lista készíthető, melyet a szolgáltatás minden ismétlődésekor szükségtelen újra elkészíteni. Ilyen esetben az adott napon a szolgáltatást igénybevevőket csupán a szolgáltatást igénybevevők számánál kell feltüntetni. A konkrét személyek nevét az egyes szolgáltatási alkalmakkor ebben az esetben sem az adatlapon, sem a külön vezetett listán nem kell feltüntetni.
-
-8. A szolgáltatást rendszeresen igénybevevők listáján fel kell tüntetni, hogy az adott személy mely időszakban volt rendszeres igénybevevője a szolgáltatásnak.
-
-9. Ezen oszlop vezetése a fenntartó döntése alapján mellőzhető.
-
-[^399]: A 8. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^434]: A 8. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § h) pontja hatályon kívül helyezte.

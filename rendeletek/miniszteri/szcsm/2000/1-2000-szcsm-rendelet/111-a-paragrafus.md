@@ -1,6 +1,6 @@
-## 111. §[^362] A szociális ágazat irányítását végző minisztérium az alap- és szakellátás intézményei szakmai feladatainak teljesítését módszertani útmutató kiadásával segíti.
+## 111. §[^395] A szociális ágazat irányítását végző minisztérium az alap- és szakellátás intézményei szakmai feladatainak teljesítését módszertani útmutató kiadásával segíti.
 
-111/A. §[^363] (1) Az Szt. 92. § (3) bekezdése szerinti szolgáltatástervezési koncepció tartalmazza különösen
+111/A. §[^396] (1) Az Szt. 92. § (3) bekezdése szerinti szolgáltatástervezési koncepció tartalmazza különösen
 
 a) a lakosságszám alakulását, a korösszetételt, a szolgáltatások iránti igényeket,
 
@@ -24,5 +24,5 @@ c) a szolgáltatások iránt jelentkező szükségletek alapján az intézményr
 
 (5) A szolgáltatástervezési koncepció tartalmát az önkormányzat, illetve a társulás kétévente felülvizsgálja és aktualizálja.
 
-[^362]: A 111. § a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének g) pontja, az 55/2013. (VII. 29.) EMMI rendelet 14. § e) pontja szerint módosított szöveg.
-[^363]: A 111/A. §-t az 1/2017. (II. 14.) EMMI rendelet 55. §-a iktatta be.
+[^395]: A 111. § a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének g) pontja, az 55/2013. (VII. 29.) EMMI rendelet 14. § e) pontja szerint módosított szöveg.
+[^396]: A 111/A. §-t az 1/2017. (II. 14.) EMMI rendelet 55. §-a iktatta be.

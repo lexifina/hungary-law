@@ -1,17 +1,22 @@
-## szolgáltatási elemeket szükség szerint biztosít.
-
 ## Hajléktalanok éjjeli menedékhelye
 
-107. § (1)[^328] A hajléktalan személyek éjjeli menedékhelyére a 105. § rendelkezései az irányadók azzal, hogy nem nyújt szociális munkát.
+107. § (1)[^353] A hajléktalan személyek éjjeli menedékhelyére a 105. § rendelkezései az irányadók azzal, hogy a nyújtott szociális munka tartalmát a (3) bekezdés határozza meg.
 
-(2)[^329] Az éjjeli menedékhely a hét minden napján legalább 18 óra és 8 óra között nyitva tart.
+(2)[^354] Az éjjeli menedékhely a hét minden napján legalább 18 óra és 8 óra között nyitva tart.
 
-(3)[^330] Az éjjeli menedékhely
+(3)[^355] Az éjjeli menedékhely
 
-a) tanácsadás és
+a) tanácsadás,
 
-b) felügyelet
+b) esetkezelés és
 
-[^328]: A 107. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 26. §-a, az 1/2017. (II. 14.) EMMI rendelet 58. § j) pontja, a 36/2018. (X. 12.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^329]: A 107. § (2) bekezdése a 36/2018. (X. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^330]: A 107. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § l) pontja hatályon kívül helyezte, újonnan a 26/2017. (X. 18.) EMMI rendelet 6. §-a iktatta be.
+c) felügyelet
+
+## szolgáltatási elemeket biztosít.
+
+(4)[^356] A hajléktalan személyek éjjeli menedékhelye segíti a más szolgáltatásokhoz való hozzáférést.
+
+[^353]: A 107. § (1) bekezdése a 4/2020. (II. 6.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^354]: A 107. § (2) bekezdése a 36/2018. (X. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^355]: A 107. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § l) pontja hatályon kívül helyezte, újonnan a 26/2017. (X. 18.) EMMI rendelet 6. §-a iktatta be, szövege a 4/2020. (II. 6.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^356]: A 107. § (4) bekezdését a 4/2020. (II. 6.) EMMI rendelet 9. § (3) bekezdése iktatta be.

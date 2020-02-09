@@ -1,3 +1,3 @@
-13. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^403]
+13. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^439]
 
-[^403]: A 13. számú melléklet a 12/2015. (II. 27.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^439]: A 13. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § k) pontja hatályon kívül helyezte.

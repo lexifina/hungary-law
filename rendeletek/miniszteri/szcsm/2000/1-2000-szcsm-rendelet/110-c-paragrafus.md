@@ -24,6 +24,13 @@ k) folyamatosan nyújtott – általános és speciális – szociális munka es
 
 l) az egyén együttműködési szándékának felmérésére.
 
-(2)[^347] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
+(2)[^374] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
 
-[^347]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+(3)[^375] A komplex szükségletfelmérés szerint
+
+a) fokozott támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a 14. számú melléklet Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább két kategóriában teljes támogatást igényel,
+
+b) magas támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a 14. számú melléklet Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább egy kategóriában teljes támogatást igényel.
+
+[^374]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^375]: A 110/C. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 11. §-a iktatta be.

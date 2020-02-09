@@ -1,8 +1,8 @@
-## 38. §[^134]
+## 38. §[^149]
 
-## Falugondnoki, tanyagondnoki szolgáltatás[^135]
+## Falugondnoki, tanyagondnoki szolgáltatás[^150]
 
-39. § (1)[^136] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott közvetlen, személyes szolgáltatások közül alapfeladatnak minősül
+39. § (1)[^151] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott közvetlen, személyes szolgáltatások közül alapfeladatnak minősül
 
 a) a közreműködés
 
@@ -26,15 +26,15 @@ ca) az óvodába, iskolába szállítás,
 
 cb) az egyéb gyermekszállítás.
 
-(2)[^137] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott közvetlen, személyes szolgáltatások közül kiegészítő feladatnak minősülnek a lakossági szolgáltatások, így
+(2)[^152] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott közvetlen, személyes szolgáltatások közül kiegészítő feladatnak minősülnek a lakossági szolgáltatások, így
 
 a) a közösségi, művelődési, sport- és szabadidős tevékenységek szervezése, segítése,
 
 b) az egyéni hivatalos ügyek intézésének segítése, lakossági igények továbbítása,
 
-c)[^138] az egyéb lakossági szolgáltatások, illetve az (1) bekezdés a) pontjában meghatározottakon kívüli egyéb szociális és gyermekjóléti alapszolgáltatások biztosításában való közreműködés.
+c)[^153] az egyéb lakossági szolgáltatások, illetve az (1) bekezdés a) pontjában meghatározottakon kívüli egyéb szociális és gyermekjóléti alapszolgáltatások biztosításában való közreműködés.
 
-(3)[^139] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott, az önkormányzati feladatok megoldását segítő, közvetett szolgáltatásnak minősül
+(3)[^154] A szolgáltatás során az önkormányzat rendeletében a falugondnoki szolgáltatás számára meghatározott, az önkormányzati feladatok megoldását segítő, közvetett szolgáltatásnak minősül
 
 a) az ételszállítás önkormányzati intézménybe,
 
@@ -42,13 +42,13 @@ b) az önkormányzati információk közvetítése a lakosság részére,
 
 c) a falugondnoki szolgálat működtetésével kapcsolatos teendők ellátása.
 
-(3a)[^140] A (3) bekezdésben meghatározott feladatok a szolgáltatásnyújtás legfeljebb 50%-át tehetik ki.
+(3a)[^155] A (3) bekezdésben meghatározott feladatok a szolgáltatásnyújtás legfeljebb 50%-át tehetik ki.
 
-(4)[^141] A falugondnok tevékenységét a 8. számú melléklet szerinti tevékenységnaplóban kell dokumentálni. A szolgáltatáshoz használt gépjármű menetlevelén fel kell tüntetni, hogy a gépjárművet a falugondnoki szolgáltatás ellátásához veszik igénybe.
+(4)[^156] A falugondnok tevékenységét a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett tevékenységnaplóban kell dokumentálni. A szolgáltatáshoz használt gépjármű menetlevelén fel kell tüntetni, hogy a gépjárművet a falugondnoki szolgáltatás ellátásához veszik igénybe.
 
-(5)[^142] Falu-, illetve tanyagondnoki munkakörben csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontjában a munkáltató bejelentett a munkakör betöltéséhez szükséges falu- és tanyagondnoki alapképzésre, és azt a munkakör betöltője a foglalkoztatás kezdő időpontjától számított egy éven belül elvégzi.
+(5)[^157] Falu-, illetve tanyagondnoki munkakörben csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontjában a munkáltató bejelentett a munkakör betöltéséhez szükséges falu- és tanyagondnoki alapképzésre, és azt a munkakör betöltője a foglalkoztatás kezdő időpontjától számított egy éven belül elvégzi.
 
-(6)[^143] A falu- és tanyagondnoki szolgáltatás
+(6)[^158] A falu- és tanyagondnoki szolgáltatás
 
 a) szállítás,
 
@@ -58,22 +58,22 @@ c) közösségi fejlesztés
 
 ## szolgáltatási elemet biztosít.
 
-(7)[^144]
+(7)[^159]
 
-(8)[^145] Ha a falugondnoki szolgálat feladatait más intézmény keretében látja el, az intézményben biztosítani kell a falugondnoki szolgálat önálló szakmai egységként történő működtetését. Ebben az esetben az intézmény alapító okirata tartalmazza a falugondnoki szolgálat feladatainak ellátását is.
+(8)[^160] Ha a falugondnoki szolgálat feladatait más intézmény keretében látja el, az intézményben biztosítani kell a falugondnoki szolgálat önálló szakmai egységként történő működtetését. Ebben az esetben az intézmény alapító okirata tartalmazza a falugondnoki szolgálat feladatainak ellátását is.
 
-(9)[^146] E rendeletnek a falugondnoki szolgáltatásra vonatkozó szabályait a tanyagondnoki szolgáltatás esetén is alkalmazni kell.
+(9)[^161] E rendeletnek a falugondnoki szolgáltatásra vonatkozó szabályait a tanyagondnoki szolgáltatás esetén is alkalmazni kell.
 
-[^134]: A 38. §-t és az azokat megelőző 5. Címet és alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének j)–k) pontja hatályon kívül helyezte.
-[^135]: A 39. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^136]: A 39. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^137]: A 39. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^138]: A 39. § (2) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 18. § g) pontja szerint módosított szöveg.
-[^139]: A 39. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^140]: A 39. § (3a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 35. § (1) bekezdése iktatta be.
-[^141]: A 39. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének l) pontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^142]: A 39. § (5) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, szövege a 26/2010. (XII. 30.) NEFMI rendelet 5. § (2) bekezdésével megállapított, az 1/2017. (II. 14.) EMMI rendelet 58. § f) pontja szerint módosított szöveg.
-[^143]: A 39. § (6) bekezdését a 26/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 35. § (2) bekezdése iktatta be.
-[^144]: A 39. § (7) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, a 26/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte.
-[^145]: A 39. § új (8) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 12. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (9) bekezdésre változtatva.
-[^146]: A 39. § (8) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, számozását a 4/2004. (I. 28.) ESZCSM rendelet 12. §-a (9) bekezdésre változtatta.
+[^149]: A 38. §-t és az azokat megelőző 5. Címet és alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének j)–k) pontja hatályon kívül helyezte.
+[^150]: A 39. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^151]: A 39. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^152]: A 39. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^153]: A 39. § (2) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 18. § g) pontja szerint módosított szöveg.
+[^154]: A 39. § (3) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 23. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^155]: A 39. § (3a) bekezdését az 1/2017. (II. 14.) EMMI rendelet 35. § (1) bekezdése iktatta be.
+[^156]: A 39. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének l) pontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 8. §-ával megállapított, a 4/2020. (II. 6.) EMMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^157]: A 39. § (5) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, szövege a 26/2010. (XII. 30.) NEFMI rendelet 5. § (2) bekezdésével megállapított, az 1/2017. (II. 14.) EMMI rendelet 58. § f) pontja szerint módosított szöveg.
+[^158]: A 39. § (6) bekezdését a 26/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 35. § (2) bekezdése iktatta be.
+[^159]: A 39. § (7) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, a 26/2010. (XII. 30.) NEFMI rendelet 11. § c) pontja hatályon kívül helyezte.
+[^160]: A 39. § új (8) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 12. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (9) bekezdésre változtatva.
+[^161]: A 39. § (8) bekezdését a 6/2003. (II. 26.) ESZCSM rendelet 2. §-a iktatta be, számozását a 4/2004. (I. 28.) ESZCSM rendelet 12. §-a (9) bekezdésre változtatta.

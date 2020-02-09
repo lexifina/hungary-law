@@ -12,8 +12,9 @@ d) a személyes ruházat tisztítására,
 
 e) az étel melegítésére, tálalására, elfogyasztására.
 
-(2)[^295]
+(2)[^319]
 
-(3) A nappali melegedő szolgáltatásairól a 11. számú melléklet szerinti nyilvántartást kell vezetni.
+(3)[^320]
 
-[^295]: A 103. § (2) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ac) alpontja hatályon kívül helyezte.
+[^319]: A 103. § (2) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ac) alpontja hatályon kívül helyezte.
+[^320]: Az 103. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § f) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 31. §[^127]
+## 31. §[^142]
 
-[^127]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.
+[^142]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.

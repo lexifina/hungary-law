@@ -2,6 +2,6 @@
 
 a) települési önkormányzat jegyzőjét a családi és lakóhelyi környezetbe történő visszahelyezés előkészítése,
 
-b)[^255] állami foglalkoztatási szervet az esetleges munkavállalási lehetőség elősegítése
+b)[^275] állami foglalkoztatási szervet az esetleges munkavállalási lehetőség elősegítése
 
-[^255]: A 71. § b) pontja a 24/2015. (IV. 30.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^275]: A 71. § b) pontja a 24/2015. (IV. 30.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.

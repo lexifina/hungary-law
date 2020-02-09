@@ -1,17 +1,3 @@
-## Egyéni gyógyszer-felhasználási nyilvántartó lap
+10. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^436]
 
-| Egyéni gyógyszer-felhasználási nyilvántartó lap |
-
-| Ellátott neve | Az orvos által felírt gyógyszer* | Napi adagszám | Rendelésének időpontja | Kiadásának időpontja | A térítés ellenében felírt gyógyszer díja | Megjegyzés | A gyógyszer ellátott részére történő adagolásának időtartama (tól–ig) |
-
-| térítésmentes | térítésköteles |
-
-| Dátum: …………………………………………… |  |
-
-| ………………………………………… intézményvezető | ………………………………………… ellátott |
-
-| __________________ * Külön jelezve, hogy rendszeresen ® vagy esti jelleggel (E) került felírásra a gyógyszer. |
-
-10. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^401]
-
-[^401]: A 10. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 57. § (4) bekezdésével megállapított szöveg.
+[^436]: A 10. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § j) pontja hatályon kívül helyezte.

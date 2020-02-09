@@ -1,8 +1,8 @@
-## 6. CÍM[^147]
+## 6. CÍM[^162]
 
-## TÁMOGATÓ SZOLGÁLTATÁS[^148]
+## TÁMOGATÓ SZOLGÁLTATÁS[^163]
 
-39/A. §[^149] (1) A támogató szolgálat feladata – az Szt. 65/C. §-ának (3) bekezdésében meghatározottak érdekében – különösen
+39/A. §[^164] (1) A támogató szolgálat feladata – az Szt. 65/C. §-ának (3) bekezdésében meghatározottak érdekében – különösen
 
 a) személyi segítő szolgálat működtetése, amely – a fogyatékos személy aktív közreműködésével – segítséget nyújt
 
@@ -14,16 +14,16 @@ ac) az önálló munkavégzéshez, tanulmányok folytatásához, szociális és 
 
 b) szállító szolgálat működtetése az alapvető szükségletek kielégítését segítő szolgáltatásokhoz, közszolgáltatásokhoz való hozzájutás biztosítása érdekében,
 
-c)[^150]
+c)[^165]
 
 (2) A támogató szolgálatot úgy kell megszervezni, hogy annak tevékenysége az ellátási területen élő valamennyi fogyatékossági csoportba tartozó személyre kiterjedjen, és szolgáltatásai – a háziorvos javaslatának figyelembevételével – az egyéni szükségletekhez igazodjanak.
 
 (3) A támogató szolgálat vezetője szükség szerint, de legalább két hetente esetmegbeszélést tart.
 
-(4)[^151]
+(4)[^166]
 
-[^147]: A 6. Címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
-[^148]: A 39/A. §-t megelőző címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta be, szövege a 2/2006. (IV. 14.) ICSSZEM rendelet 24. §-ával megállapított szöveg.
-[^149]: A 39/A. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
-[^150]: A 39/A. § (1) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 59. § e) pontja hatályon kívül helyezte.
-[^151]: A 39/A. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § f) pontja hatályon kívül helyezte.
+[^162]: A 6. Címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^163]: A 39/A. §-t megelőző címet a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta be, szövege a 2/2006. (IV. 14.) ICSSZEM rendelet 24. §-ával megállapított szöveg.
+[^164]: A 39/A. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^165]: A 39/A. § (1) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 59. § e) pontja hatályon kívül helyezte.
+[^166]: A 39/A. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § f) pontja hatályon kívül helyezte.
