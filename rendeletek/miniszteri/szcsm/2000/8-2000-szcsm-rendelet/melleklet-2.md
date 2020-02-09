@@ -26,65 +26,233 @@
 
 ## 10. Ellátási forma, intézmény típusa: (A megfelelő rész aláhúzandó.)
 
-| 1. Étkeztetés | 13. Idősek klubja | 25. Fogyatékos személyek lakóotthona |
+## 1. Étkeztetés
 
-| 2. Házi segítségnyújtás | 14. Gondozási központ | 26. Gyermekjóléti szolgálat |
+## 2. Házi segítségnyújtás
 
-| 3. Családsegítés | 15. Fogyatékosok nappali intézménye | 27. Bölcsődei ellátás a) Bölcsőde b) Mini bölcsőde c) Munkahelyi bölcsőde d) Családi bölcsőde |
+## 3. Falugondnoki, tanyagondnoki szolgálat
 
-| 4. Idősek otthona | 16. Szenvedélybetegek nappali intézménye | 28. |
+## 4. Támogató szolgálat
 
-| 5. Pszichiátriai betegek otthona | 17. Pszichiátriai betegek nappali intézménye | 29. Napközbeni gyermekfelügyelet |
+## 5. Szenvedélybetegek alacsonyküszöbű szolgáltatása
 
-| 6. Szenvedélybetegek otthona | 18. Nappali melegedő | 30. Helyettes szülő |
+## 6. Szenvedélybetegek közösségi ellátása
 
-| 7. Fogyatékos személyek otthona | 19. Időskorúak gondozóháza | 31. Gyermekek átmeneti otthona |
+## 7. Pszichiátriai betegek közösségi ellátása
 
-| 8. Hajléktalanok otthona | 20. Fogyatékosok gondozóháza | 32. Családok átmeneti otthona |
+## 8. Utcai szociális munka
 
-| 9. Pszichiátriai betegek rehabilitációs intézménye | 21. Pszichiátriai és szenvedélybetegek átmeneti otthona | 33. Nevelőszülői hálózat |
+## 9. Idősek nappali ellátása
 
-| 10. Szenvedélybetegek rehabilitációs intézménye | 22. Hajléktalanok éjjeli menedékhelye | 34. Javítóintézet |
+## 10. Fogyatékos személyek nappali ellátása
 
-| 11. Fogyatékos személyek rehabilitációs intézménye | 23. Hajléktalanok átmeneti szállása | 35. Gyermekotthon |
+## 11. Pszichiátriai betegek nappali ellátása
 
-| 12. Hajléktalan személyek rehabilitációs intézménye | 24. Pszichiátriai betegek lakóotthona | 36. Területi gyermekvédelmi szakszolgálat |
+## 12. Szenvedélybetegek nappali ellátása
 
-|  |  | 37. Egyéb éspedig: |
+## 13. Hajléktalan személyek nappali melegedője
+
+## 14. Időskorúak gondozóháza
+
+## 15. Fogyatékos személyek gondozóháza
+
+## 16. Pszichiátriai betegek átmeneti otthona
+
+## 17. Szenvedélybetegek átmeneti otthona
+
+## 18. Éjjeli menedékhely
+
+## 19. Hajléktalan személyek átmeneti szállása
+
+## 20. Fogyatékos személyek rehabilitációs intézménye
+
+## 21. Pszichiátriai betegek rehabilitációs intézménye
+
+## 22. Szenvedélybetegek rehabilitációs intézménye
+
+## 23. Hajléktalan személyek rehabilitációs intézménye
+
+## 24. Fogyatékos személyek rehabilitációs célú lakóotthona
+
+## 25. Fogyatékos személyek ápoló-gondozó célú lakóotthona
+
+## 26. Pszichiátriai betegek rehabilitációs célú lakóotthona
+
+## 27. Szenvedélybetegek betegek rehabilitációs célú lakóotthona
+
+## 28. Idősek otthona
+
+## 29. Fogyatékos személyek otthona
+
+## 30. Pszichiátriai betegek otthona
+
+## 31. Szenvedélybetegek otthona
+
+## 32. Fogyatékos személyek támogatott lakhatása
+
+## 33. Pszichiátriai betegek támogatott lakhatása
+
+## 34. Szenvedélybetegek támogatott lakhatása
+
+## 35. Család- és gyermekjóléti szolgálat
+
+## 36. Család- és gyermekjóléti központ
+
+## 37. Bölcsődei ellátás
+
+## a) Bölcsőde
+
+## b) Mini bölcsőde
+
+## c) Munkahelyi bölcsőde
+
+## d) Családi bölcsőde
+
+## 38. Napközbeni gyermekfelügyelet
+
+## 39. Helyettes szülő
+
+## 40. Gyermekek átmeneti otthona
+
+## 41. Családok átmeneti otthona
+
+## 42. Nevelőszülői hálózat
+
+## 43. Javítóintézet
+
+## 44. Gyermekotthon
+
+## 45. Területi gyermekvédelmi szakszolgálat
+
+## 46. Egyéb, éspedig: ............................................
 
 | 11. Fenntartó típusa: | 1. állami | 2. nem állami | 3. egyházi |
 
-## 12.Betöltött munkakör; tevékenységi kör: [Az 1/2000. (I. 7.) SZCSM rendelet, illetve a 15/1998. (IV. 30.) NM rendelet alapján.]
+## 12. Betöltött munkakör; tevékenységi kör: [Az 1/2000. (I. 7.) SzCsM rendelet, a 15/1998. (IV. 30.) NM rendelet, illetve az 1/2015. (I. 14.) EMMI rendelet alapján.]
 
-| 1. intézményvezető | 13. szociális munkatárs | 26. növendékügyi előadó |
+## 1. intézményvezető
 
-| 2. szakmai vezető | 14. ápoló | 27. gyógypedagógus |
+## 2. intézményvezető-helyettes
 
-| 3. szociális segítő | 15. szociális és mentálhigiénés csoportvezető | 28. pszichológus |
+## 3. szervezeti egység vezetője
 
-| 4. gondozó | 16. foglalkoztatás szervező | 29. fejlesztő pedagógus |
+## 4. javítóintézeti otthonvezető
 
-| 5. szakgondozó | 17. helyettes szülői tanácsadó | 30. pedagógus |
+## 5. szakmai vezető
 
-| 6. vezető gondozó | 18. nevelő | 31. pszichológiai tanácsadó |
+## 6. megyei/fővárosi gyermekvédelmi szakértői bizottság vezető
 
-| 7. családgondozó | 19. nevelőszülő | 32. gyógytornász |
+## 7. vezető ápoló
 
-| 8. családgondozó asszisztens | 20. gyermekfelügyelő | 33. konduktor |
+## 8. vezető szakápoló
 
-| 9. utógondozó | 21. gyermekvédelmi ügyintéző | 34. munkaoktató |
+## 9. szakmai egység vezető
 
-| 10. gondozási központ vezető | 22. nevelőszülői tanácsadó | 35. közvetítő |
+## 10. gondozó
 
-| 11. klubvezető | 23. örökbefogadási tanácsadó | 36. hivatásos gondnok |
+## 11. ápoló
 
-| 12. mentálhigiénés munkatárs | 24. gyermekvédelmi gyám | 37. terápiás munkatárs |
+## 12. szakápoló
 
-|  | 25. gyermekgondozó | 38. szakápoló |
+## 13. terápiás munkatárs
 
-|  |  | 39. vezető szakápoló |
+## 14. szociális munkatárs
 
-|  |  | 40. egyéb, éspedig: …………………….. |
+## 15. fejlesztő-pedagógus
+
+## 16. segítő
+
+## 17. falugondnok
+
+## 18. tanyagondnok
+
+## 19. esetfelelős
+
+## 20. asszisztens
+
+## 21. foglalkoztatás-szervező
+
+## 22. mozgásterapeuta
+
+## 23. gyógytornász
+
+## 24. szabadidő-szervező
+
+## 25. családgondozó
+
+## 26. családsegítő
+
+## 27. szociális asszisztens
+
+## 28. esetmenedzser/tanácsadó
+
+## 29. szociális diagnózist készítő esetmenedzser
+
+## 30. óvodai és iskolai szociális segítő
+
+## 31. helyettes szülő
+
+## 32. helyettes szülői tanácsadó
+
+## 33. nevelő
+
+## 34. nevelőszülő
+
+## 35. gyermekfelügyelő
+
+## 36. gyermekvédelmi ügyintéző
+
+## 37. nevelőszülői tanácsadó
+
+## 38. örökbefogadási tanácsadó
+
+## 39. gyermekvédelmi gyám
+
+## 40. gyermekgondozó
+
+## 41. növendékügyi előadó
+
+## 42. elhelyezési ügyintéző
+
+## 43. gyermekvédelmi asszisztens
+
+## 44. védőnő
+
+## 45. kisgyermeknevelő
+
+## 46. orvos
+
+## 47. pszichiáter
+
+## 48. jogász
+
+## 49. iskolai tanár
+
+## 50. iskolai tanító
+
+## 51. szakoktató
+
+## 52. rendész
+
+## 53. javítóintézeti utógondozó
+
+## 54. gyógypedagógus
+
+## 55. pszichológus
+
+## 56. fejlesztő pedagógus
+
+## 57. pszichológiai tanácsadó
+
+## 58. konduktor
+
+## 59. munkaoktató
+
+## 60. közvetítő
+
+## 61. hivatásos gondnok
+
+## 62. egyéb, éspedig: ..........................
 
 | 13.1. Jelenlegi munkáltatónál a munkaviszony kezdete: |  |  |  |  |  |  |  |  |  |
 
