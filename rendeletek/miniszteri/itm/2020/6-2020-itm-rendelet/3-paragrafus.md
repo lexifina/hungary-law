@@ -1,1 +1,3 @@
-## „m) határérték: rákkeltő vagy mutagén anyagok a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló miniszteri rendeletben meghatározott, munkahelyi levegőben megengedett, 8 órás referencia-időre vonatkoztatott átlagos és csúcskoncentráció értéke;”
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

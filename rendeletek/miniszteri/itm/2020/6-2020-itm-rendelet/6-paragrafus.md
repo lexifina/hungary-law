@@ -1,3 +1,3 @@
-## 5. § A 26/2000. EüM rendelet 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(3) Az előre nem látott eseményt vagy vegyi balesetet követően a munkáltató a munkavállalót soron kívüli orvosi vizsgálatra küldi.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

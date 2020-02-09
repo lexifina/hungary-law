@@ -1,1 +1,3 @@
-## „c) a Bizottság (EU) 2018/669 rendelete (2018. április 16.) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek a műszaki és tudományos fejlődéshez való hozzáigazítása céljából történő módosításáról.”
+## 7. §[^7]
+
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
