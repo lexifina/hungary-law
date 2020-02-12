@@ -16,7 +16,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2020. évben, a felmerülés ütemében
 
-4. felhívja a Miniszterelnökséget vezető minisztert, hogy a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával az 1. pont szerinti civil programelem megvalósulása érdekében – a pályázati rendszeren belül megvalósuló támogatás esetén – kezelő szerv útján gondoskodjon a pályázati felhívások kiírásáról;
+4.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával az 1. pont szerinti civil programelem megvalósulása érdekében – a pályázati rendszeren belül megvalósuló támogatás esetén – lebonyolító szerv bevonásával gondoskodjon a pályázati felhívások kiírásáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -24,10 +24,13 @@ Modern Települések Fejlesztéséért felelős kormánybiztos
 
 Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
 
-5. felhívja a Miniszterelnökséget vezető minisztert, hogy – a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával – vizsgálja meg a Bethlen Gábor Alapkezelő Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság kezelő szervként a pályázati eljárásba történő bevonásának feltételeit, legfeljebb a 3. pontban meghatározott költségvetési összeg 6%-át kitevő szolgáltatási ellenérték meghatározásával.
+5.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy – a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával – vizsgálja meg a Bethlen Gábor Alapkezelő Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság lebonyolító szervként a pályázati eljárásba történő bevonásának feltételeit, legfeljebb a 3. pontban meghatározott költségvetési összeg 6%-át kitevő szolgáltatási ellenérték meghatározásával.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Modern Települések Fejlesztéséért felelős kormánybiztos
 
 Határidő: azonnal
+
+[^1]: A 4. pont az 1028/2020. (II. 12.) Korm. határozat a) pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1028/2020. (II. 12.) Korm. határozat b) pontja szerint módosított szöveg.
