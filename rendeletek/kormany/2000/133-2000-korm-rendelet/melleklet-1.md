@@ -1,4 +1,4 @@
-## 3. § Ez a rendelet a kihirdetése napján lép hatályba. Végrehajtásáról az oktatási miniszter és a PHARE program koordinációjáért felelős tárca nélküli miniszter – a külügyminiszterrel egyetértésben – gondoskodik.
+## 3. §[^7] Ez a rendelet a kihirdetése napján lép hatályba. Végrehajtásáról a szakképzésért felelős miniszter és az oktatásért felelős miniszter – a külügyminiszterrel egyetértésben – gondoskodik.
 
 1. számú melléklet a 133/2000. (VII. 24.) Korm. rendelethez
 
@@ -35,3 +35,5 @@ Magyarország, a Bizottság és a magyar nemzeti irodák közötti kapcsolatokba
 12. A pályázati eljárás, a szerződések, a beterjesztendő jelentések és a programokkal kapcsolatos egyéb adminisztratív rendelkezések vonatkozásában a Bizottsággal történő minden fajta kapcsolattartás során használt nyelv a Közösség valamelyik hivatalos nyelve.
 
 13. A Közösség és Magyarország bármikor megszüntetheti az ezen határozat alapján folytatott tevékenységeket, 12 hónappal az ez irányú előzetes írásos értesítést követően. A megszüntetés időpontjában folyamatban levő projektek és tevékenységek befejezésig folytatódnak, az ezen határozatban megszabott feltételek szerint.
+
+[^7]: A 3. § a 13/2020. (II. 7.) Korm. rendelet 14. §-a szerint módosított szöveg.

@@ -30,7 +30,7 @@ A program további esztendeiben Magyarország által fizetendő hozzájárulásr
 
 Magyarország hozzájárulásának fennmaradó részét a magyar állami költségvetés fedezi.
 
-5. Magyarország hozzájárulásának a kezelésére az Európai Unió általános költségvetésére[^7] vonatkozó pénzügyi szabályozás érvényes.
+5. Magyarország hozzájárulásának a kezelésére az Európai Unió általános költségvetésére[^8] vonatkozó pénzügyi szabályozás érvényes.
 
 A magyar szakértőknek az 1. számú melléklet 11. pontjában megjelölt bizottságok munkájában megfigyelőként, vagy a programok végrehajtása kapcsán tartott egyéb értekezleteken való részvételével összefüggésben felmerülő utazási és tartózkodási költségeket a Bizottság megtéríti az Európai Unió tagállamainak nem-kormányzati szakértőire vonatkozó hatályos eljárás szerint.
 
@@ -46,4 +46,4 @@ a PHARE-ból származó részt május 1-jéig, amennyiben megtörtént a megfele
 
 A hozzájárulás késedelmes teljesítése esetén, az esedékesség időpontjától a hátralék után Magyarországot kamatfizetési kötelezettség terheli. A kamat mértéke az Európai Központi Bank által az esedékesség időpontjában érvényes euró-kamatláb 1,5%-ponttal emelt értéke.
 
-[^7]: Európai Közösségek Hivatalos Lapja 1977. 12. 31. L 356. 1. oldal Pénzügyi rendelet (EK, ESZAK, Euratom), ahogy azt legutóbb módosította a 2673/1999 rendelet (Európai Közösségek Hivatalos Lapja 1999. 12. 18. L 326. 1. oldal).
+[^8]: Európai Közösségek Hivatalos Lapja 1977. 12. 31. L 356. 1. oldal Pénzügyi rendelet (EK, ESZAK, Euratom), ahogy azt legutóbb módosította a 2673/1999 rendelet (Európai Közösségek Hivatalos Lapja 1999. 12. 18. L 326. 1. oldal).

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-133-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2000-07-24 | 2000-133-20-22.1 | 133/2000. (VII. 24.) Korm. rendelet |
+| 2020-02-12 | 2000-133-20-22.2 | 13/2020. (II. 7.) Korm. rendelet |
