@@ -1,0 +1,1 @@
+A Kormány az egészségügyi ellátórendszer működési feltételeinek javítása érdekében szükséges kiemelt vidéki beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1971/2017. (XII. 19.) Korm. határozatban foglaltak végrehajtása érdekében
