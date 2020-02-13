@@ -1,0 +1,9 @@
+# 1033/2020. (II. 13.) Korm. határozat
+
+a FINA 2027. évi 22. Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság és Masters Világbajnokság megrendezésével kapcsolatos egyes intézkedésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1033-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-02-13 | 2020-1033-30-22.1 | 1033/2020. (II. 13.) Korm. határozat |
