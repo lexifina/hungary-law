@@ -1,19 +1,19 @@
-## 177. §[^494]
+## 177. §[^492]
 
 ## 178. Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosítása
 
-178. § (1)[^495]
+178. § (1)[^493]
 
-(2)[^496]
+(2)[^494]
 
 (3) Hatályát veszti az R106. 1. melléklet
 
-a)[^497]
+a)[^495]
 
-b)[^498]
+b)[^496]
 
-[^494]: A 177. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^495]: A 178. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^496]: A 178. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^497]: A 178. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^498]: A 178. § (3) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^492]: A 177. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^493]: A 178. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^494]: A 178. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^495]: A 178. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^496]: A 178. § (3) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

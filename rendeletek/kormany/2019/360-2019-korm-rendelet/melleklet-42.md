@@ -1,3 +1,3 @@
-42. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^554]
+42. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^552]
 
-[^554]: A 42. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^552]: A 42. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
