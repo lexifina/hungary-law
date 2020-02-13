@@ -1,0 +1,104 @@
+# A Kormány 1035/2020. (II. 13.) Korm. határozata
+
+Magyar Közlöny 2020. évi 22. szám, 2020. február 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ogy26iGuzKPlzCfJDCWN5e3493524e173/dokumentumok/19145d3f5b31503da8ebd29479944f9e877ea75a/letoltes)
+
+---
+
+A Kormány 1035/2020. (II. 13.) Korm. határozata
+a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében
+biztosított jogkörében eljárva 1 110 490 842 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem
+használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2020. évi központi költségvetéséről szóló
+2019. évi LXXI. törvény 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok
+cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet
+szerint.
+Az átcsoportosítás tekintetében
+Felelős: pénzügyminiszter
+Határidő: azonnal
+Az elszámolás és a visszatérítési kötelezettség tekintetében
+Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
+Határidő: 2020. december 31.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1035/2020. (II. 13.) Korm. határozathoz
+XI. Miniszterelnökség
+XX. Emberi Erőforrások Minisztériuma
+XXII. Miniszterelnöki Kormányiroda
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XI. Miniszterelnökség
+30 Fejezeti kezelésű előirányzatok
+1 Célelőirányzatok
+30 Egyházi célú központi költségvetési hozzájárulások
+335740 8 Egyházi közösségi célú programok támogatása
+K3 Dologi kiadások 159 832
+K8 Egyéb felhalmozási célú kiadások 319 663 510
+XX. Emberi Erőforrások Minisztériuma
+20 Fejezeti kezelésű előirányzatok
+23 Sporttevékenység támogatása
+025155 4 Versenysport támogatása
+K5 Egyéb működési célú kiadások 538 667 500
+24 Sportlétesítmények fejlesztése és kezelése
+358506 40 Egyedi sportlétesítmény-fejlesztések támogatása
+K8 Egyéb felhalmozási célú kiadások 252 000 000
+XXII. Miniszterelnöki Kormányiroda
+21 Központi kezelésű előirányzatok
+4 Központi tartalékok
+297102 1 Rendkívüli kormányzati intézkedések
+K5 Egyéb működési célú kiadások -1 110 490 842
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XI. Miniszterelnökség
+30 Fejezeti kezelésű előirányzatok
+1 Célelőirányzatok
+30 Egyházi célú központi költségvetési hozzájárulások
+335740 8 Egyházi közösségi célú programok támogatása 319 823 342
+XX. Emberi Erőforrások Minisztériuma
+20 Fejezeti kezelésű előirányzatok
+23 Sporttevékenység támogatása
+025155 4 Versenysport támogatása 538 667 500
+24 Sportlétesítmények fejlesztése és kezelése
+358506 40 Egyedi sportlétesítmény-fejlesztések támogatása 252 000 000
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+Foglalkoztatottak létszáma (fő) - időszakra
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I.n.év II. n.év III.n.év IV.n.év
+időarányos
+teljesítésarányos
+egyéb: azonnal 1 110 490 842 1 110 490 842
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+A módosítást elrendelő jogszabály/
+határozat száma
+A módosítást elrendelő jogszabály/
+határozat száma
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+Költségvetési év: 2020.
+A módosítást elrendelő jogszabály/
+határozat száma
+Államháztartási
+egyedi azonosító
+K I A D Á S O K
+Az adatlap 1 eredeti példányban töltendő ki
+Államháztartási
+egyedi azonosító
+Államháztartási
+egyedi azonosító
+Magyar Államkincstár 1 példány
+T Á M O G A T Á S
+B E V É T E L
