@@ -1,3 +1,5 @@
+## 31/A. §[^3] A pénzforgalmi számlák vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
+
 ## 19. Közbeszerzés
 
 ## 32. § A költségvetési hozzájárulással megvalósuló projektek közbeszerzési eljárásainak ellenőrzését a nemzeti hatóság és az európai uniós források felhasználásáért felelős miniszter végzi a 272/2014. (XI. 5.) Korm. rendelet XVI. Fejezetében és 1. melléklet XIX. Fejezetében meghatározott rendelkezések szerint azzal az eltéréssel, hogy
@@ -13,3 +15,5 @@ ca) a nemzeti hatóság az ott meghatározott határidőt nem hosszabbíthatja m
 cb) ha a nemzeti hatóság a számára előírt határidőn belül nem küldi meg az ott hivatkozott észrevételeit, illetve nyilatkozatát, azt úgy kell tekinteni, mintha a nemzeti hatóság támogató tartalmú nyilatkozatot küldött volna meg – ebben az esetben az eljárást a 272/2014. (XI. 5.) Korm. rendelet 101. § (5) bekezdésének megfelelően kell folytatni –,
 
 d) a 272/2014. (XI. 5.) Korm. rendelet 102. §-a nem alkalmazható.
+
+[^3]: A 31/A. §-t a 15/2020. (II. 12.) Korm. rendelet 6. §-a iktatta be.
