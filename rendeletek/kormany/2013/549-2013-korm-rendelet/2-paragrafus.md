@@ -30,9 +30,9 @@
 
 6.[^13] közreműködő szervezet: a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 2. § (1) bekezdés 17. pontja, valamint a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 26. pontja szerinti szervezet,
 
-7.[^14] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet,
+7.[^14] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint a 7. § (1) és (2) bekezdése szerint ajánlatkérőnek minősülő szervezet, valamint a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projekt vonatkozásában az egyházi jogi személy, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 38/A. §-a szerinti szervezet,
 
-7a.[^15] megelőlegezési szerződés: a 15. § (1a) bekezdése szerinti célból, likviditás biztosítása érdekében a megyei önkormányzat részére nyújtott visszatérítendő hazai támogatás (a továbbiakban: megelőlegezés) folyósítása és visszafizetése tárgyában kötött támogatási szerződés,
+7a.[^15]
 
 7b.[^16] mezőgazdasági és vidékfejlesztési támogatási szerv: az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, valamint az Európai Mezőgazdasági Garancia Alapból támogatott programok és intézkedések pénzügyi, számviteli és ellenőrzési rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.) Korm. rendelet [a továbbiakban: 82/2007. (IV. 25.) Korm. rendelet] 1. § (1) bekezdés b) pontja szerinti szerv,
 
@@ -62,17 +62,17 @@
 
 15.[^29]
 
-16. támogató: az államháztartásról szóló 2011. évi CXCV. törvény 48. § (2) bekezdése szerinti személy,
+16.[^30] támogató: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (3) bekezdése szerinti személy,
 
-17.[^30] technikai segítségnyújtás: a 4/2011. (I. 28.) Korm. rendeletben, a 237/2008. (IX. 26.) Korm. rendeletben, a 326/2012. (XI. 16.) Korm. rendeletben, a 228/2008. (IX. 12.) Korm. rendeletben, a 160/2009. (VIII. 3.) Korm. rendeletben, a 2007–2013. programozási időszakban a Délkelet-Európai Transznacionális Együttműködési Program Európai Szomszédsági és Partnerségi Támogatási Eszközből megvalósuló programkomponensének végrehajtásáról szóló 359/2013. (X. 11.) Korm. rendeletben [a továbbiakban: 359/2013. (X. 11.) Korm. rendelet], a 272/2014. (XI. 5.) Korm. rendeletben és a 126/2016 (VI. 7.) Korm. rendeletben meghatározott forrás,
+17.[^31] technikai segítségnyújtás: a 4/2011. (I. 28.) Korm. rendeletben, a 237/2008. (IX. 26.) Korm. rendeletben, a 326/2012. (XI. 16.) Korm. rendeletben, a 228/2008. (IX. 12.) Korm. rendeletben, a 160/2009. (VIII. 3.) Korm. rendeletben, a 2007–2013. programozási időszakban a Délkelet-Európai Transznacionális Együttműködési Program Európai Szomszédsági és Partnerségi Támogatási Eszközből megvalósuló programkomponensének végrehajtásáról szóló 359/2013. (X. 11.) Korm. rendeletben [a továbbiakban: 359/2013. (X. 11.) Korm. rendelet], a 272/2014. (XI. 5.) Korm. rendeletben és a 126/2016 (VI. 7.) Korm. rendeletben meghatározott forrás,
 
 18. tervezési támogatás: a Nemzeti Stratégiai Referencia Keret és a komplex programok tervezési feladatainak támogatása,
 
-18a.[^31] végrehajtó szerv: az 1316/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti vállalkozás vagy szerv,
+18a.[^32] végrehajtó szerv: az 1316/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti vállalkozás vagy szerv,
 
-19.[^32] végrehajtó ügynökség: a 326/2012. (XI. 16.) Korm. rendelet 3. § (1) bekezdés 100. pontja szerinti szervezet.
+19.[^33] végrehajtó ügynökség: a 326/2012. (XI. 16.) Korm. rendelet 3. § (1) bekezdés 100. pontja szerinti szervezet.
 
-(2)[^33] Nem minősül az (1) bekezdés 2. pontja szerinti jogosulatlan forrásfelhasználásnak vagy az (1) bekezdés 14. pontja szerinti szabálytalanságnak, ha a kedvezményezett a pénzügyi közvetítővel szemben fennálló fizetési kötelezettségének gazdasági tevékenysége körében felmerülő üzleti kockázatból eredő fizetési nehézség révén nem képes eleget tenni, vagy ha a pénzügyi közvetítő egy adott pénzügyi eszköz hitelkockázatának révén realizált hitelezési vagy befektetési veszteséget szenved el.
+(2)[^34] Nem minősül az (1) bekezdés 2. pontja szerinti jogosulatlan forrásfelhasználásnak vagy az (1) bekezdés 14. pontja szerinti szabálytalanságnak, ha a kedvezményezett a pénzügyi közvetítővel szemben fennálló fizetési kötelezettségének gazdasági tevékenysége körében felmerülő üzleti kockázatból eredő fizetési nehézség révén nem képes eleget tenni, vagy ha a pénzügyi közvetítő egy adott pénzügyi eszköz hitelkockázatának révén realizált hitelezési vagy befektetési veszteséget szenved el.
 
 [^1]: Az 1/A. §-t a 287/2015. (X. 6.) Korm. rendelet 1. §-a iktatta be.
 [^2]: A 2. § (1) bekezdés 1. pontja a 91/2016. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -87,8 +87,8 @@
 [^11]: A 2. § (1) bekezdés 3b. pontját a 401/2016. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A 2. § (1) bekezdés 5. pontja a 96/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^13]: A 2. § (1) bekezdés 6. pontja a 287/2015. (X. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 91/2016. (IV. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^14]: A 2. § (1) bekezdés 7. pontja a 287/2015. (X. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 401/2016. (XII. 5.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
-[^15]: A 2. § (1) bekezdés 7a. pontját a 287/2015. (X. 6.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 72/2016. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: A 2. § (1) bekezdés 7. pontja a 15/2020. (II. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^15]: A 2. § (1) bekezdés 7a. pontját a 287/2015. (X. 6.) Korm. rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 15/2020. (II. 12.) Korm. rendelet 5. § a) pontja.
 [^16]: A 2. § (1) bekezdés 7b. pontját a 72/2016. (III. 31.) Korm. rendelet 1. §-a iktatta be.
 [^17]: A 2. § (1) bekezdés 8. pontja a 287/2015. (X. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^18]: A 2. § (1) bekezdés 9. pontja a 427/2017. (XII. 19.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
@@ -103,7 +103,8 @@
 [^27]: A 2. § (1) bekezdés 14a. pontját a 215/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 287/2015. (X. 6.) Korm. rendelet 31. § 1. pontja.
 [^28]: A 2. § (1) bekezdés 14b. pontját a 215/2014. (VIII. 27.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 287/2015. (X. 6.) Korm. rendelet 31. § 1. pontja.
 [^29]: A 2. § (1) bekezdés 15. pontját a 287/2015. (X. 6.) Korm. rendelet 31. § 1. pontja hatályon kívül helyezte.
-[^30]: A 2. § (1) bekezdés 17. pontja a 287/2015. (X. 6.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 427/2017. (XII. 19.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
-[^31]: A 2. § (1) bekezdés 18a. pontját a 79/2019. (IV. 12.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^32]: A 2. § (1) bekezdés 19. pontja a 427/2017. (XII. 19.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
-[^33]: A 2. § (2) bekezdése a 79/2019. (IV. 12.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^30]: A 2. § (1) bekezdés 16. pontja a 15/2020. (II. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. § (1) bekezdés 17. pontja a 287/2015. (X. 6.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 427/2017. (XII. 19.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
+[^32]: A 2. § (1) bekezdés 18a. pontját a 79/2019. (IV. 12.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^33]: A 2. § (1) bekezdés 19. pontja a 427/2017. (XII. 19.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
+[^34]: A 2. § (2) bekezdése a 79/2019. (IV. 12.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

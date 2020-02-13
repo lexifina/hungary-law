@@ -1,4 +1,4 @@
-## 4/A. [^67] Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek előirányzat felhasználási szabályai
+## 4/A. [^70] Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek előirányzat felhasználási szabályai
 
 11/A. § (1) Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja a CEF projektek, valamint azok koordinálásával összefüggő elszámolható és az európai uniós forrásból nem fedezett, el nem számolható, azonban a projektek lebonyolításához és a projektek fenntartási időszakához kötődő kötelezettségek teljesítéséhez elengedhetetlen tevékenységek kiadásai fedezetének biztosítása, így különösen
 
@@ -32,4 +32,4 @@ c) az Innovációs és Technológiai Minisztérium mint tagállami kedvezményez
 
 (8) Szállítói előleg a kedvezményezett és a szállító közötti szerződés összege 30%-áig biztosítható a szállító részére, a szállítói előlegnek közvetlenül a szállító fizetési számlájára történő folyósítással.
 
-[^67]: A 4/A. alcímet (11/A. §) a 79/2019. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
+[^70]: A 4/A. alcímet (11/A. §) a 79/2019. (IV. 12.) Korm. rendelet 3. §-a iktatta be.
