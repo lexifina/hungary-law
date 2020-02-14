@@ -78,17 +78,17 @@ ce) „B” kategóriájú vezetői engedély;
 
 d)[^29] regionális rendszergazda, valamint rendszergazda tartós külszolgálati munkakör esetén
 
-da) felsőfokú szakirányú végzettség, valamint
+da)[^30] felsőfokú szakirányú végzettség és legalább egy év; vagy középfokú szakirányú végzettség és legalább három év, a minisztérium informatikai biztonságért felelős szervezeti egységénél szerzett releváns szakmai tapasztalat, valamint
 
 db) az (1) bekezdés szerinti állami vagy állami nyelvvizsgával egyenértékű komplex középfokú (B2) nyelvvizsga;
 
-e)[^30] kommunikációs munkatárs tartós külszolgálati munkakör esetén
+e)[^31] kommunikációs munkatárs tartós külszolgálati munkakör esetén
 
 ea) legalább érettségi végzettség és legalább középszintű informatikai szakmacsoportba tartozó szakirányú szakképesítés, valamint
 
 eb) az (1) bekezdés szerinti állami vagy állami nyelvvizsgával egyenértékű komplex alapfokú (B1) nyelvvizsga;
 
-f)[^31] titkárnő tartós külszolgálati munkakör vagy titkos ügykezeléssel összefüggő, a Külszoltv. 23. § (2) bekezdés szerinti kiegészítő feladatkör ellátása esetén
+f)[^32] titkárnő tartós külszolgálati munkakör vagy titkos ügykezeléssel összefüggő, a Külszoltv. 23. § (2) bekezdés szerinti kiegészítő feladatkör ellátása esetén
 
 fa) legalább érettségi végzettség,
 
@@ -96,7 +96,7 @@ fb) az (1) bekezdés szerinti állami vagy állami nyelvvizsgával egyenérték�
 
 fc) érvényes titkos ügykezelői vizsga;
 
-g)[^32] konzuli ügyintéző tartós külszolgálati munkakör esetén
+g)[^33] konzuli ügyintéző tartós külszolgálati munkakör esetén
 
 ga) legalább érettségi végzettség,
 
@@ -106,7 +106,7 @@ gc) érvényes konzuli ügyintézői vizsga;
 
 gd) „B” kategóriájú gépjárművezetői engedély;
 
-h)[^33] gépkocsivezető tartós külszolgálati munkakör esetén
+h)[^34] gépkocsivezető tartós külszolgálati munkakör esetén
 
 ha) legalább érettségi végzettség,
 
@@ -116,7 +116,7 @@ hc) legalább ötéves releváns szakmai gyakorlat, valamint
 
 hd) az (1) bekezdés szerinti állami vagy állami nyelvvizsgával egyenértékű komplex alapfokú (B1) nyelvvizsga;
 
-i)[^34] gondnok, hivatalsegéd tartós külszolgálati munkakör esetén
+i)[^35] gondnok, hivatalsegéd tartós külszolgálati munkakör esetén
 
 ia) legalább középszintű szakképesítés,
 
@@ -124,7 +124,7 @@ ib) „B” kategóriájú gépjárművezetői engedély,
 
 ic) állami vagy állami nyelvvizsgával egyenértékű, komplex alapfokú (B1) nyelvvizsga;
 
-j)[^35] szakács tartós külszolgálati munkakör esetén
+j)[^36] szakács tartós külszolgálati munkakör esetén
 
 ja) legalább középszintű szakképesítés, valamint
 
@@ -136,9 +136,9 @@ ka) érvényes rejtjelzői vizsga, valamint
 
 kb) gépi rejtjelzés esetén legalább kétéves, kézi rejtjelzés esetén legalább egyéves, a minisztériummal fennálló kormányzati szolgálati jogviszony.
 
-(9)[^36] A (4)–(8) bekezdésekben felsorolt vizsgakötelezettségek teljesítésének hiánya miatt nem lehet érvénytelennek tekinteni a pályázatot, amennyiben a pályázó írásban vállalja, hogy az e rendelet szerint az általa megpályázott tartós külszolgálati munkakörre vonatkozó vizsgakötelezettségeket legkésőbb a tartós külszolgálatra történő kihelyezése napjáig teljesíti.
+(9)[^37] A (4)–(8) bekezdésekben felsorolt vizsgakötelezettségek teljesítésének hiánya miatt nem lehet érvénytelennek tekinteni a pályázatot, amennyiben a pályázó írásban vállalja, hogy az e rendelet szerint az általa megpályázott tartós külszolgálati munkakörre vonatkozó vizsgakötelezettségeket legkésőbb a tartós külszolgálatra történő kihelyezése napjáig teljesíti.
 
-(10)[^37] Amennyiben a pályázó a (9) bekezdésében foglalt kötelezettségét nem teljesíti, tartós külszolgálatra nem helyezhető ki, és egy évig pályázatot érvényesen nem nyújthat be. Az így megüresedő tartós külszolgálati munkakörre rendkívüli pályázatot kell meghirdetni.
+(10)[^38] Amennyiben a pályázó a (9) bekezdésében foglalt kötelezettségét nem teljesíti, tartós külszolgálatra nem helyezhető ki, és egy évig pályázatot érvényesen nem nyújthat be. Az így megüresedő tartós külszolgálati munkakörre rendkívüli pályázatot kell meghirdetni.
 
 [^18]: A 7. § (1) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 11. pontja szerint módosított szöveg.
 [^19]: A 7. § (2) bekezdés nyitó és záró szövegrésze a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
@@ -152,11 +152,12 @@ kb) gépi rejtjelzés esetén legalább kétéves, kézi rejtjelzés esetén leg
 [^27]: A 7. § (8) bekezdés b) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
 [^28]: A 7. § (8) bekezdés c) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
 [^29]: A 7. § (8) bekezdés d) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^30]: A 7. § (8) bekezdés e) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^31]: A 7. § (8) bekezdés f) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^32]: A 7. § (8) bekezdés g) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^33]: A 7. § (8) bekezdés h) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^34]: A 7. § (8) bekezdés i) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^35]: A 7. § (8) bekezdés j) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
-[^36]: A 7. § (9) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
-[^37]: A 7. § (10) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 7. pontja szerint módosított szöveg.
+[^30]: A 7. § (8) bekezdés d) pont da) alpontja a 2/2020. (II. 13.) KKM rendelet 1. §-ával megállapított szöveg.
+[^31]: A 7. § (8) bekezdés e) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^32]: A 7. § (8) bekezdés f) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^33]: A 7. § (8) bekezdés g) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^34]: A 7. § (8) bekezdés h) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^35]: A 7. § (8) bekezdés i) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^36]: A 7. § (8) bekezdés j) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9. pontja szerint módosított szöveg.
+[^37]: A 7. § (9) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^38]: A 7. § (10) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 7. pontja szerint módosított szöveg.
