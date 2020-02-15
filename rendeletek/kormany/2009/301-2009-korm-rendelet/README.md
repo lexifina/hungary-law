@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-301-20-
 | 2016-01-01 | 2009-301-20-22.8 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2009-301-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2009-301-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2020-02-15 | 2009-301-20-22.11 | 13/2020. (II. 7.) Korm. rendelet |

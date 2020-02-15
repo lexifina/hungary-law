@@ -64,7 +64,7 @@ Ismernie kell:
 
 – az iratkezelés, irattározás szabályait,
 
-–[^55] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+–[^56] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
 
 – az okmányokkal kapcsolatos jogosultságokat.
 
@@ -110,7 +110,7 @@ A vizsga tantárgyai:
 
 – Informatikai ismeretek
 
-3.[^56] A vizsga értékelése
+3.[^57] A vizsga értékelése
 
 Az írásbeli vizsgarészt a feladatlaphoz kiadott útmutató alapján kell értékelni.
 
@@ -144,5 +144,5 @@ A vizsga során azt a vizsgázót, aki szabálytalanságot vagy súlyos rendzava
 
 | ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
 
-[^55]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
-[^56]: A 2. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.
+[^56]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
+[^57]: A 2. melléklet III. pont 3. alpontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés h) pontja szerint módosított szöveg.
