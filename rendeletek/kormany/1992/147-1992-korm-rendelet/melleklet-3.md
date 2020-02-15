@@ -426,7 +426,7 @@
 
 ## 35. sor: A fogalomjegyzék figyelembevételével kell megállapítani, és a kódjegyzék szerint kell besorolni az építmény állagmutatóját. Kitöltése kötelező.
 
-## Kapacitásmutatók a kitöltéshez:
+## Szakmai iskola és egyéb intézmény
 
 |  | Megnevezés |  | Mutató |  | Megnevezés |  | Mutató |
 
@@ -434,15 +434,15 @@
 
 |  | Általános iskola |  | tanterem |  | Könyvtár és olvasóterem |  | kötetszám |
 
-|  | Szakiskola, szakmunkásképző isk. |  | tanterem |  | Múzeum |  | 0 |
+|  | szakképző iskola |  | tanterem |  | Múzeum |  | 0 |
 
 |  | Gimnázium |  | tanterem |  | Levéltár |  | 0 |
 
-|  | Szakközépiskola |  | tanterem |  | Alkotóház, műterem, restaurátor-műhely |  | 0 |
+|  | Technikum |  | tanterem |  | Alkotóház, műterem, restaurátor-műhely |  | 0 |
 
 |  | Gyógypedagógiai intézmény |  | férőhely |  | Kiállítási épület |  | 0 |
 
-|  | Egyéb (közoktatási) intézmény |  | férőhely |  | Színház |  | férőhely |
+|  | Egyéb köznevelési intézmény és szakképző intézmény |  | férőhely |  | Színház |  | férőhely |
 
 |  | Tanműhely, központi műhely |  | munkahely |  | Filmszínház |  | férőhely |
 
@@ -466,7 +466,7 @@
 
 |  | Nappali ellátást nyújtó intézmények |  | férőhely |  | Egyéb szociális intézmények |  | férőhely |
 
-## A közoktatási intézmények tanterem mutatószámába beleértendők a szaktantermek, szakelőadók száma is.
+## A köznevelési intézmények, illetve a szakképző intézmények tanterem mutatószámába beleértendők a szaktantermek, szakelőadók száma is.
 
 ## „R” Üzemi épület
 

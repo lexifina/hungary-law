@@ -282,7 +282,7 @@
 
 ## Középiskola
 
-## Gyűjtőfogalom: érettségire felkészítő iskola (pl. gimnázium, szakközépiskola vagy mindkettő).
+## Gyűjtőfogalom: érettségire felkészítő köznevelési intézmény vagy szakképző intézmény
 
 ## Központi használati melegvíz-ellátás
 
@@ -300,11 +300,11 @@
 
 ## A település ,,zöldterület'' területfelhasználási egységébe sorolt, döntően növényzettel fedett, többfunkciós közterülete, amely a napi és hétvégi szabadidő szabadban történő eltöltését biztosító (pihenés, játék, sport stb. tevékenységek végzésére alkalmas), egymáshoz kapcsolódó közkertek együttese. Területe legalább egy ha, és legkisebb oldalmérete legalább 80 méter.
 
-## Közoktatás pedagógiai szakszolgálatai és szakmai szolgáltatásai
+## Köznevelés pedagógiai szakszolgálatai és szakmai szolgáltatásai
 
 ## Pedagógiai szakszolgálatok: a gyógypedagógiai tanácsadás, korai fejlesztés és gondozás; a tanulási képességet vizsgáló szakértői és rehabilitációs tevékenység; nevelési tanácsadás; a logopédiai ellátás; a továbbtanulási, pályaválasztási tanácsadás; a konduktív pedagógiai ellátás; a gyógytestnevelés.
 
-## Pedagógiai szakmai szolgáltatások: a közoktatási intézmények és fenntartóik, valamint a pedagógusok munkáját, továbbá a tanulói érdekvédelemmel összefüggő tevékenység.
+## Pedagógiai szakmai szolgáltatások: a fenntartó, a köznevelési intézmény, illetve a szakképző intézmény és az oktató munkáját támogató tevékenység, továbbá a tanulói érdekvédelemmel összefüggő tevékenység.
 
 ## Köztárgy
 
@@ -439,14 +439,6 @@
 ## Részleges felújítás
 
 ## Az épület legalább egy főszerkezetére kiterjedő teljes felújításnak nem minősülő, de abba belátható időn belül beilleszthető általános javítási munkák elvégzése.
-
-## Szakiskola
-
-## A szakiskolának kilencedik-tizedik és legalább két szakképzési évfolyama van. Az Országos Képzési Jegyzékben meghatározott esetben a szakképzési évfolyamok száma ettől eltérhet. A kilencedik-tizedik évfolyamon az általános műveltséget megalapozó nevelés-oktatás folyik; továbbá pályaorientáció, szakmai előkészítő ismeretek oktatása és szakmai alapozó oktatás is folyhat. A szakképzési évfolyamokon – az Országos Szakképzési Jegyzékben meghatározott – szakképzési követelmények alapján szakmai vizsgára való felkészítés folyik. Szakiskola: a szakmunkásképző és a szakiskola.
-
-## Szakképző iskola
-
-## Csak szakképző évfolyamokkal működő és/vagy csak szakképző évfolyamokkal működő szakközépiskolai képzést folytató intézmény.
 
 ## Szükséglakás
 
@@ -852,15 +844,15 @@ Nem tartoznak ide:
 
 12634 Alapfokú művészeti oktatás épülete
 
-12635 Középiskola (gimnázium, szakközépiskola)
+12635 Gimnázium, technikum
 
-12636 Szakiskola (szakmunkásképző iskola és tanműhelyei)
+12636
 
 12637 Szakképző iskola
 
 12638 Megváltozott képességű gyermekek speciális iskolái (gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények, speciális szakiskola épületei)
 
-12639 Közoktatás pedagógiai szakszolgálatainak és szakmai szolgáltatóinak épületei (pl. gyógypedagógiai tanácsadó, nevelési tanácsadó, továbbtanulási, pályaválasztási tanácsadó, korai fejlesztő és gondozó központ)
+12639 Köznevelés pedagógiai szakszolgálatainak és szakmai szolgáltatóinak épületei (pl. gyógypedagógiai tanácsadó, nevelési tanácsadó, továbbtanulási, pályaválasztási tanácsadó, korai fejlesztő és gondozó központ)
 
 Nem tartoznak ide:
 
@@ -1348,5 +1340,5 @@ Nem tartoznak ide:
 
 – a katonai kikötők (2151)
 
-[^13]: Az 5. számú mellékletet a 48/2001. (III. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja szerint módosított szöveg.
+[^13]: Az 5. számú mellékletet a 48/2001. (III. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja, a 13/2020. (II. 7.) Korm. rendelet 2. § 8–10. pontja és 3. § (2) bekezdés 2. pontja szerint módosított szöveg.
 [^14]: Az 5. számú melléklet 12. pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja szerint módosított szöveg.

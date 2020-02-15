@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-147-20-
 | 2013-08-01 | 1992-147-20-22.11 | 48/2001. (III. 27.) Korm. rendelet |
 | 2015-04-01 | 1992-147-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-01-01 | 1992-147-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
+| 2020-02-15 | 1992-147-20-22.14 | 48/2001. (III. 27.) Korm. rendelet |
