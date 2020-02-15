@@ -72,7 +72,7 @@
 
 ## h. saját előadásaihoz kapcsolódó jegyár-bevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenység bemutatása és annak eredményessége
 
-## i. helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítés bemutatása
+## i. helyi köznevelési és szakképző intézményekkel, művészeti közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítés bemutatása
 
 ## 1. együttműködések bemutatása, időbeli hatálya, célja, módszere, eredményei, különös tekintettel a saját vagy más szervezet által megvalósított projekt, fenntartó által elvárt célfeladat teljesítésre, valamint a részvétel bemutatásának személyi, tárgyi és pénzügyi oldala
 

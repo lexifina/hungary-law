@@ -16,4 +16,4 @@
 
 6. melléklet a 428/2016. (XII. 15.) Korm. rendelethez[^17]
 
-[^17]: A 6. melléklet a 369/2019. (XII. 30.) Korm. rendelet 3. § a) pontja és 4. § b) pontja szerint módosított szöveg.
+[^17]: A 6. melléklet a 369/2019. (XII. 30.) Korm. rendelet 3. § a) pontja és 4. § b) pontja, a 13/2020. (II. 7.) Korm. rendelet 114. § 2. pontja szerint módosított szöveg.
