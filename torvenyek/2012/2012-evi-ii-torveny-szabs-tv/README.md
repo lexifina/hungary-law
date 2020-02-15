@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2019-07-17 | 2019. évi LXVII. törvény | 2012-2-00-00.47 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2012-2-00-00.48 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 2012-2-00-00.49 |
+| 2020-02-15 | 2019. évi CXI. törvény | 2012-2-00-00.50 |
