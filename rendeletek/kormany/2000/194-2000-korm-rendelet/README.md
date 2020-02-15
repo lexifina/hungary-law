@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-194-20-
 | 2012-02-02 | 2000-194-20-22.8 | 132/2011. (VII. 18.) Korm. rendelet |
 | 2014-03-15 | 2000-194-20-22.9 | 73/2014. (III. 13.) Korm. rendelet |
 | 2017-10-01 | 2000-194-20-22.10 | 276/2017. (IX. 21.) Korm. rendelet |
+| 2020-02-15 | 2000-194-20-22.11 | 13/2020. (II. 7.) Korm. rendelet |
