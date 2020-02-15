@@ -2,22 +2,24 @@
 
 (2)[^2] Az Ösztöndíjprogram a következő alprogramokból áll:
 
-a) Út a középiskolába ösztöndíj program, amelynek célja a résztvevő tanulók felkészítése érettségit adó középiskolában való továbbtanulásra,
+a)[^3] Út a középiskolába ösztöndíj program, amelynek célja a résztvevő tanulók felkészítése gimnáziumban, technikumban vagy szakgimnáziumban való továbbtanulásra,
 
-b) Út az érettségihez ösztöndíj program, amelynek célja a résztvevő tanulók támogatása a középiskola sikeres befejezése céljából,
+b)[^4] Út az érettségihez ösztöndíj program, amelynek célja a résztvevő tanulók támogatása a gimnázium, a technikum, a szakgimnázium vagy a szakképző iskola sikeres befejezése céljából,
 
 c) Út a szakmához ösztöndíj program, amelynek célja a résztvevő szakiskolai tanulók sikeres tanulmányainak elősegítése, tanulási nehézségeinek leküzdése,
 
-d)[^3] Út a diplomához ösztöndíj- és önköltség-támogatási program, amelynek célja a résztvevő hallgatók támogatása annak érdekében, hogy felsőfokú végzettséget szerezhessenek [az a)–d) pont a továbbiakban együtt: esélyteremtő ösztöndíjak]; valamint
+d)[^5] Út a diplomához ösztöndíj- és önköltség-támogatási program, amelynek célja a résztvevő hallgatók támogatása annak érdekében, hogy felsőfokú végzettséget szerezhessenek [az a)–d) pont a továbbiakban együtt: esélyteremtő ösztöndíjak]; valamint
 
 e) Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
 
-(3)[^4] Az Ösztöndíjprogram 1. § (2) bekezdés a)–c) és e) pontjai szerinti alprogramok céljának megvalósulását a tanulók köznevelési intézményei és mentorok segítik.
+(3)[^6] Az Ösztöndíjprogram 1. § (2) bekezdés a)–c) és e) pontjai szerinti alprogramok céljának megvalósulását a tanulók köznevelési intézményei, illetve szakképző intézményei és mentorok segítik.
 
-(4)[^5] Az Út a diplomához ösztöndíj- és önköltség-támogatási programra az 1. § (1) és (2) bekezdését, a 2. §-t, a 6. § (2a) bekezdését, a 9. § (7) bekezdését, valamint a 11/A. §-t kell alkalmazni.
+(4)[^7] Az Út a diplomához ösztöndíj- és önköltség-támogatási programra az 1. § (1) és (2) bekezdését, a 2. §-t, a 6. § (2a) bekezdését, a 9. § (7) bekezdését, valamint a 11/A. §-t kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés d) pontja a 207/2013. (VI. 17.) Korm. rendelet 12. § b) és c) pontja, az 58/2014. (III. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (4) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^3]: Az 1. (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 25. § 2. pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés d) pontja a 207/2013. (VI. 17.) Korm. rendelet 12. § b) és c) pontja, az 58/2014. (III. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 13/2020. (II. 7.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.
+[^7]: Az 1. § (4) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
