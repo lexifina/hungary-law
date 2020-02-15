@@ -14,7 +14,8 @@ c)[^2] a vallási közösségek vallásos szertartásaira és rendezvényeire;
 
 d) a családi eseményekkel kapcsolatos rendezvényekre és
 
-e) a közoktatási intézményekben az intézmény által szervezett rendezvényekre.
+e)[^3] a köznevelési intézményekben, illetve a szakképző intézményekben az intézmény által szervezett rendezvényekre.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 94/2011. (VI. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg, e módosító rendelet 6. §-a alapján 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
 [^2]: Az 1. § (2) bekezdés c) pontja a 297/2013. (VII. 29.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 54. §-a szerint módosított szöveg.
