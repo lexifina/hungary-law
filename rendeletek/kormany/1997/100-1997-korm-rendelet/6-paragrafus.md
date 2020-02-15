@@ -1,6 +1,6 @@
-## Az érettségi vizsga részei és vizsgatárgyai[^12]
+## Az érettségi vizsga részei és vizsgatárgyai[^13]
 
-6. §[^13] (1) A vizsgázó – függetlenül attól, hogy a középiskolában milyen szintű vizsgára készült fel – dönt abban a kérdésben, hogy középszinten vagy emelt szinten tesz érettségi vizsgát az egyes vizsgatárgyakból.
+6. §[^14] (1) A vizsgázó – függetlenül attól, hogy a középiskolában milyen szintű vizsgára készült fel – dönt abban a kérdésben, hogy középszinten vagy emelt szinten tesz érettségi vizsgát az egyes vizsgatárgyakból.
 
 (2) Azokból a vizsgatárgyakból, amelyekből a vizsgázó a vizsgaszabályzatban foglaltak alapján érettségi vizsgát tehet, a vizsgatárgy választásának joga nem korlátozott. A vizsgatárgy választásának jogával a vizsgaidőszak rendjéhez, ezen belül a kitűzött vizsganapokhoz igazodva lehet élni.
 
@@ -18,5 +18,5 @@ b) a középiskolai tanulmányai befejezését megelőző négy tanév közül l
 
 (7) Ha a vizsgázót – az Nkt. 56. § (1) bekezdése alapján a kötelező és a kötelezően választandó érettségi vizsgatárgynak megfelelő tantárgyból középiskolában – mentesítették az érdemjegyekkel és osztályzatokkal történő értékelés, minősítés alól, akkor az adott tantárgy helyett a vizsgázó egy másik, általa választott vizsgatárgyból tehet érettségi vizsgát. A vizsgázó részére – a szakértői bizottság szakvéleménye alapján – kérelmére engedélyezni kell az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását, és biztosítani kell a hosszabb felkészülési időt.
 
-[^12]: A 6. §-t megelőző alcím a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének d) pontja szerint módosított szöveg.
-[^13]: A 6. § az 5/2016. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 6. §-t megelőző alcím a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^14]: A 6. § az 5/2016. (I. 22.) Korm. rendelet 2. §-ával megállapított szöveg.

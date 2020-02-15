@@ -6,16 +6,17 @@
 
 a) képzési ágazatának megfelelő ágazati,
 
-b) ágazaton kívüli
+b)[^7] ágazaton belüli specializáció
 
 ## szakmai vizsgatárgya érettségi vizsgájára fel tudjon készülni.
 
-(3)[^7] A gimnázium legalább két, a szakgimnázium az ágazati és ágazaton kívüli szakmai vizsgatárgyon kívül legalább egy vizsgatárgyból a helyi tantervében meghatározottak szerint teszi lehetővé az emelt szintű érettségi vizsgára történő felkészülést. E döntéséhez kikéri az iskolai diákönkormányzat véleményét. Az emelt szintre történő felkészítés mellett a kötelező érettségi vizsgatárgyakon kívül gimnáziumban legalább három, szakgimnáziumban legalább kettő vizsgatárgyból lehetővé kell tenni a középszintű vizsgára történő felkészülést. A (2) és (3) bekezdés alkalmazásában az idegen nyelv vizsgatárgyak egy vizsgatárgynak minősülnek.
+(3)[^8] A gimnázium legalább két, a szakgimnázium az ágazati és ágazaton belüli specializáció szakmai vizsgatárgyon kívül legalább egy vizsgatárgyból a helyi tantervében meghatározottak szerint teszi lehetővé az emelt szintű érettségi vizsgára történő felkészülést. E döntéséhez kikéri az iskolai diákönkormányzat véleményét. Az emelt szintre történő felkészítés mellett a kötelező érettségi vizsgatárgyakon kívül gimnáziumban legalább három, szakgimnáziumban legalább kettő vizsgatárgyból lehetővé kell tenni a középszintű vizsgára történő felkészülést. A (2) és (3) bekezdés alkalmazásában az idegen nyelv vizsgatárgyak egy vizsgatárgynak minősülnek.
 
-(4)[^8] A középiskolák az emelt szintű érettségi vizsgára történő felkészítés feladatait egymás közötti megállapodás alapján közösen is megoldhatják.
+(4)[^9] A középiskolák az emelt szintű érettségi vizsgára történő felkészítés feladatait egymás közötti megállapodás alapján közösen is megoldhatják.
 
 [^4]: A 4. § a 16/2000. (II. 11.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 4. § (2) bekezdését újonnan a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 311/2016. (X. 14.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (2a) bekezdését az 5/2016. (I. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^7]: A 4. § (3) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A 4. § (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^7]: A 4. § (2a) bekezdés b) pontja a 18/2018. (II. 14.) Korm. rendelet 3. § b) pontjával megállapított szöveg.
+[^8]: A 4. § (3) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 5/2016. (I. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 18/2018. (II. 14.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.

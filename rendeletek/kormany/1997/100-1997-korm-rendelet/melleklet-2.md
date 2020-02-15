@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^382] Nyomtatványok
+## I.[^383] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^383]
+## 5.[^384]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^384] Tanúsítvány az érettségi vizsgáról*
+## 7.[^385] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -28,7 +28,7 @@
 
 ## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához az oktatásért felelős miniszter által vezetett minisztérium engedélye szükséges.
 
-## II*[^385]
+## II*[^386]
 
 ## Záradékok
 
@@ -68,205 +68,235 @@
 
 ## 17. Jelen érettségi bizonyítvány szakmai érettségi végzettséget tanúsít, továbbá ……… FEOR számú ….. munkakör betöltésére képesít.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^386]
+## 18. A/Az .......................................................... ismeretek ágazaton belüli specializáció az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet 3. melléklete szerinti ............. ágazathoz tartozik.
 
-ELSŐ RÉSZ[^387]
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^387]
+
+ELSŐ RÉSZ[^388]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
-Kötelező vizsgatárgyak
+1. Kötelező vizsgatárgyak
 
 |  | A | B | C | D | E |
 
-| 1 | A vizsgatárgy neve | A vizsga részei |
+| 1. | A vizsgatárgy neve | A vizsga részei |
 
 | középszinten | emelt szinten |
 
-| 2 | Magyar nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
+| 2. | Magyar nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 3 | Nemzetiségi nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
+| 3. | Nemzetiségi nyelv és irodalom | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 4 | Történelem | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. | Történelem | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5 | Matematika | írásbeli | – | írásbeli | szóbeli |
+| 5. | Matematika | írásbeli | - | írásbeli | szóbeli |
 
-| 6 | Élő idegen nyelv vagy Latin nyelv | írásbeli írásbeli | szóbeli szóbeli | írásbeli 1. olvasott szöveg értése 2. nyelvhelyesség 3. hallott szöveg értése 4. íráskészség írásbeli | szóbeli szóbeli |
+| 6. | Élő idegen nyelv vagy Latin nyelv | írásbeli írásbeli | szóbeli szóbeli | írásbeli 1. olvasott szöveg értése 2. nyelvhelyesség 3. hallott szöveg értése 4. íráskészség írásbeli | szóbeli szóbeli |
 
-| Választható közismereti vizsgatárgyak |
+| 2. Választható közismereti vizsgatárgyak |
 
 |  | A | B | C | D | E |
 
-| 1 | A vizsgatárgy neve | A vizsga részei |
+| 1. | A vizsgatárgy neve | A vizsga részei |
 
 | középszinten | emelt szinten |
 
-| 2 | Élő idegen nyelv | írásbeli | szóbeli | írásbeli 1. olvasott szöveg értése 2. nyelvhelyesség 3. hallott szöveg értése 4. íráskészség | szóbeli |
+| 2. | Élő idegen nyelv | írásbeli | szóbeli | írásbeli 1. olvasott szöveg értése 2. Nyelv-helyesség 3. hallott szöveg értése 4. íráskészség | szóbeli |
 
-| 3 | Fizika | írásbeli | szóbeli | írásbeli | szóbeli |
+| 3. | Fizika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 4 | Kémia | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. | Kémia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5 | Biológia | írásbeli | szóbeli | írásbeli | szóbeli |
+| 5. | Biológia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 6 | Földrajz | írásbeli | szóbeli | írásbeli | szóbeli |
+| 6. | Földrajz | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 7 | Ének-zene | írásbeli | szóbeli | írásbeli | szóbeli |
+| 7. | Ének-zene | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 8 | Vizuális kultúra | írásbeli | gyakorlati | gyakorlati | szóbeli |
+| 8. | Vizuális kultúra | írásbeli | gyakorlati | gyakorlati | szóbeli |
 
-| 9 | Informatika | gyakorlati | szóbeli | gyakorlati | szóbeli |
+| 9. | Informatika | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-| 10 | Testnevelés | gyakorlati | szóbeli | gyakorlati | szóbeli |
+| 10. | Testnevelés | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-| 11 | Filozófia | írásbeli | szóbeli | írásbeli | szóbeli |
+| 11. | Filozófia | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 12 | Hittan | – | szóbeli | írásbeli | szóbeli |
+| 12. | Hittan | - | szóbeli | írásbeli | szóbeli |
 
-| 13 | Természettudomány | írásbeli | szóbeli | – | – |
+| 13. | Természettudomány | írásbeli | szóbeli | - | - |
 
-| 14 | Latin nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
+| 14. | Latin nyelv | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 15 | Emberismeret és etika | írásbeli | szóbeli | írásbeli | szóbeli |
+| 15. | Emberismeret és etika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 16 | Társadalomismeret | írásbeli | szóbeli | írásbeli | szóbeli |
+| 16. | Társadalomismeret | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 17 | Ember- és társadalomismeret, etika | írásbeli | szóbeli | írásbeli | szóbeli |
+| 17. | Ember- és társadalomismeret, etika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 18 | Dráma | írásbeli | szóbeli, gyakorlati | írásbeli | szóbeli, gyakorlati |
+| 18. | Dráma | írásbeli | szóbeli, gyakorlati | írásbeli | szóbeli, gyakorlati |
 
-| 19 | Mozgóképkultúra és médiaismeret | írásbeli, gyakorlati | – | írásbeli, gyakorlati | szóbeli |
+| 19. | Mozgóképkultúra és médiaismeret | írásbeli, gyakorlati | - | írásbeli, gyakorlati | szóbeli |
 
-| 20 | Nemzetiségi népismeret | írásbeli | szóbeli | írásbeli | szóbeli |
+| 20. | Nemzetiségi népismeret | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 21 | Célnyelvi civilizáció | – | szóbeli | írásbeli | szóbeli |
+| 21. | Célnyelvi civilizáció | - | szóbeli | írásbeli | szóbeli |
 
-| 22 | Belügyi rendészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 22. | Belügyi rendészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 23 | Katonai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 23. | Katonai alapismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 24 | Utazás és turizmus | gyakorlati | szóbeli | – | – |
+| 24. | Utazás és turizmus | gyakorlati | szóbeli | - | - |
 
-| 25 | Gazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 25. | Gazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 26 | Judaisztika | – | szóbeli | – | – |
+| 26. | Judaisztika | - | szóbeli | - | - |
 
-| 27 | Bibliaismeret – Hit Gyülekezete | – | szóbeli | írásbeli | szóbeli |
+| 27. | Bibliaismeret - Hit Gyülekezete | - | szóbeli | írásbeli | szóbeli |
 
-| 28 | Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
+| 28. | Művészettörténet | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 29 | Népművészet | – | szóbeli | – | szóbeli |
+| 29. | Népművészet | - | szóbeli | - | szóbeli |
 
-| 30 | Pszichológia | írásbeli | szóbeli | – | – |
+| 30. | Pszichológia | írásbeli | szóbeli | - | - |
 
-| Ágazati szakmai érettségi vizsgatárgyak |
+| 3. Ágazati szakmai érettségi vizsgatárgyak |
 
 |  | A | B | C | D | E |
 
-| 1 | A vizsgatárgy neve | A vizsga részei |
+| 1. | A vizsgatárgy neve | A vizsga részei |
 
 | középszinten | emelt szinten |
 
-| 2 | Egészségügy ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 2. | Egészségügyi ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 3 | Egészségügyi technika ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 3. | Egészségügyi technikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 4 | Szociális ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. | Szociális ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5 | Pedagógia ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 5. | Pedagógiai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 6 | Képző- és iparművészet ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 6. | Képző- és iparművészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 7 | Hang-, film- és színháztechnika ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 7. | Hang-, film- és színháztechnikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 8 | Bányászat ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 8. | Épületgépészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 9 | Épületgépészet ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 9. | Kohászati ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 10 | Gépészet ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 10. | Távközlési ismeretek | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-| 11 | Kohászat ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 11. | Informatikai ismeretek | gyakorlati | szóbeli | gyakorlati | szóbeli |
 
-| 12 | Villamosipar és elektronika ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 12. | Vegyipari ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 13 | Távközlés ismeretek | gyakorlati | szóbeli | gyakorlati | szóbeli |
+| 13. | Vegyész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 14 | Informatika ismeretek | gyakorlati | szóbeli | gyakorlati | szóbeli |
+| 14. | Könnyűipari ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 15 | Vegyipar ismeretek | írásbeli | gyakorlati | írásbeli | gyakorlati |
+| 15. | Faipari ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 16 | Vegyész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 16. | Környezetvédelmi ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 17 | Építőipar ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 17. | Közgazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 18 | Könnyűipar ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 18. | Kereskedelmi ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 19 | Faipar ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 19. | Vendéglátóipari ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 20 | Nyomdaipar ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 20. | Turisztikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 21 | Közlekedésépítő ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 21. | Optikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 22 | Közlekedés ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 22. | Erdészeti és vadgazdálkodási ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 23 | Közlekedésgépész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 23. | Mezőgazdasági ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 24 | Környezetvédelem-vízgazdálkodás ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 24. | Kertészeti és parképítési ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 25 | Közgazdaság ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 25. | Földmérési ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 26 | Ügyvitel ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 26. | Élelmiszeripari ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 27 | Kereskedelem ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 27. | Sport ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 28 | Vendéglátóipar ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 28. | Rendészeti és közszolgálati ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 29 | Turisztika ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 29. | Közművelődési ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 30 | Optika ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 30. | Vízügyi ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 31 | Szépészet ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 31. | Honvédelmi ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 32 | Mezőgazdasági gépész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. Ágazaton belüli specializáció szakmai érettségi vizsgatárgyak |
 
-| 33 | Erdészet és vadgazdálkodás ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | A | B | C | D | E | F |
 
-| 34 | Mezőgazdaság ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 1. | A vizsgatárgy neve | Ágazat megnevezése | A vizsga részei |
 
-| 35 | Kertészet és parképítés ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+|  | középszinten | emelt szinten |
 
-| 36 | Földmérés ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 2. | Bányaművelési ismeretek | Bányászat | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 37 | Élelmiszeripar ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 3. | Gázipari és fluidumkitermelési ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 38 | Sport ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 4. | Gépgyártás-technológiai ismeretek | Gépészet | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 39 | Rendészet ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 5. | Mechatronikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| Ágazaton kívüli szakmai érettségi vizsgatárgyak |
+| 6. | Automatikai és elektronikai ismeretek | Villamosipar és elektronika | írásbeli | szóbeli | írásbeli | szóbeli |
 
-|  | A | B | C | D | E |
+| 7. | Közlekedésautomatikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 1 | A vizsgatárgy neve | A vizsga részei |
+| 8. | Magas- és mélyépítési ismeretek | Építőipar | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| középszinten | emelt szinten |
+| 9. | Út-, vasút- és hídépítési ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 2 | Egyházzenész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 10. | Nyomdaipari technikai ismeretek | Nyomdaipar | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 3 | Gyakorlatos színész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 11. | Kiadványszerkesztési ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 4 | Jazz-zenész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 12. | Autó- és repülőgép-szerelési ismeretek | Közlekedés-gépész | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 5 | Klasszikus zenész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 13. | Vasútgépészeti ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 6 | Népzenész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 14. | Hajózási technikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 7 | Szórakoztató zenész ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 15. | Irodai ügyviteli ismeretek | Ügyvitel | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 8 | Táncos ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 16. | Idegennyelvű ügyviteli ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-| 9 | Artista ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+| 17. | Fodrászati ismeretek | Szépészet | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^388]
+| 18. | Kozmetikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 19. | Mezőgazdasági és erdészeti gépésztechnikai ismeretek | Agrárgépész | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 20. | Élelmiszeripari gépésztechnikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 21. | Közúti és légi közlekedési, szállítmányozási és logisztikai ismeretek | Közlekedés, szállítmányozás és logisztika | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 22. | Postaforgalmi ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 23. | Vasútüzemi közlekedési, szállítmányozási és logisztikai ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 24. | Egyházzenész-ismeretek | Előadóművészet | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 25. | Gyakorlatosszínész-ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 26. | Jazz-zenész-ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 27. | Klasszikuszenész-ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 28. | Népzenész-ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 29. | Szórakoztatózenész-ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 30. | Táncos ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+| 31. | Artista ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
+
+MÁSODIK RÉSZ[^389]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -3378,82 +3408,10 @@ KÖZÉPSZINT
 
 EMELT SZINT
 
-| Témakörök | Követelmények |
-
-| 1. Bibliaismeret |
-
-| Ószövetség | A világ és az ember teremtése, a bűnbeesés, a pátriárkák. Izrael történetének főbb szakaszai, fontosabb eseményei és jelentős vezetői. |
-
-| Messiási próféciák, és azok beteljesedése, valamint a nemzetekre és Izraelre vonatkozó utolsó időkről szóló próféciák. |
-
-| Alapvető ószövetségi bevezetés-tudományi ismeretek | A Biblia keletkezése, az ószövetség könyveinek keletkezése és felosztása. |
-
-| Újszövetség | Jézus Krisztus földi életének eseményei, tanítása, engesztelő áldozata és feltámadása. |
-
-| Az apostoli kor. |
-
-| Alapvető újszövetségi bevezetés- tudományi ismeretek | Az újszövetségi könyvek keletkezésének története és célja. |
-
-| 2. Kortörténeti háttér |
-
-| Az ószövetségi zsidóság és a nemzetek története | A zsidó nép eredete, pátriárkák, egyiptomi fogság és honfoglalás. Királyság kora, Izrael és Júda. A királyság, a prófétaság és a papság intézménye. Izrael és a környező népek kapcsolata. A birodalmak és a zsidó nemzeti szuverenitás. Az asszír és a babiloni fogság, a helyreállítás és a diaszpóra. |
-
-| A korai egyház története | Zsidóság a római uralom alatt. A zsidóság vallási élete, vallási mozgalmak, irányzatok. Jézus és az apostolok korának történeti háttere. A jeruzsálemi gyülekezet története. A kereszténység elterjedésének főbb állomásai és jelentősebb gyülekezetei. |
-
-| 3. Fundamentális teológia |
-
-| A kereszténység alaptanításai | A megtérés, a bibliai hit, a keresztségek, a kézrátevés, a halottak feltámadása, az örök ítélet. |
-
-| 4. Bibliai ünnepek |
-
-| Az Úr ünnepei | Mózes könyvében leírt ünnepek ismerete. Hanuka, Purim, Jubileumi év. |
-
-| 5. A keresztény erkölcsi élet – etika |
-
-| A kereszténység erkölcsi tanítása | Az ó- és újszövetségi etika. A keresztény etika normái a családi élet, a munka és a társadalmi élet területén. |
-
-| 6. Kompetenciák |
-
-|  | Képesnek kell lennie arra, hogy a Bibliát ne csak olvassa, hanem megadott témák szerint tanulmányozza. |
-
-| Bibliai eseményeket értelmezzen, azaz azoknak jelentést tulajdonítson. |
-
-| Etikai kérdéseket, mai problémákat elemezzen. |
-
-TERMÉSZETTUDOMÁNY
-
-ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI
-
-A természettudomány érettségi vizsga célja
-
-A Magyarországon hagyományos természettudományos érettségi vizsgák középszinten egy-egy szakterületben való alapos elmélyedést és tekintélyes lexikális ismeretet követelnek meg. Korunk mennyiségben és összetettségben is rohamosan növekvő ismeretei azonban egyre nehezebbé teszik egy-egy szakterület akár csak hozzávetőleges áttekintését is. Emellett pedig fokozódik az igény arra, hogy több diszciplína eredményeit összevessük, s ennek ismeretében döntsünk (például környezetvédelmi vagy egészségügyi kérdésekben). A várakozásnak olyan természettudományokban járatos fiatalok felelhetnek meg, akik képesek a több szempontú elemzésre, a problémák módszeres megközelítésére akkor is, ha lexikális ismereteik egy-egy területen csekélyebbek, mint azt a szaktárgyi érettségik megkívánnák.
-
-A „Természettudomány” érettségi fő célja ennek megfelelően az, hogy egy egységes természetszemléleten alapuló, hatékony gondolati eszköz meglétét igazolja, és egyben elő is mozdítsa. A szaktárgyi érettségikkel szemben nem annyira az adatok, képletek, megoldási sémák ismeretét követeli meg, hanem inkább a tájékozódóképességet, a megoldandó kérdések meglátását és helyes megfogalmazását, a rendelkezésre álló adatok mérlegelését, ábrázolását, az összefüggések fölismerését.
-
-Az érettségi vizsgakövetelmények a biológia, kémia, fizika, valamint a földünk és környezetünk tárgyak szakközépiskolai kerettantervének megfelelően csoportosított részletei − tehát nincs bennük olyan tartalom, mely e tárgyak valamelyikében ne szerepelne.
-
-Ezért a vizsga célja annak megállapítása, hogy a vizsgázó
-
-– képes-e tárgyi ismereteit életszerű helyzetekben alkalmazni;
-
-– képes-e összetett probléma elemzésére;
-
-– tud-e egy állítást igazolni vagy cáfolni adatok, grafikonok elemzésével;
-
-– képes-e adatokból, grafikonokból stb. következtetéseket levonni, összefüggéseket felismerni;
-
-– képes-e kísérletek vagy megfigyelések eredményeit értelmezni;
-
-– felismeri-e a hasonlóságokat és különbségeket egyes jelenségek, rendszerek stb. között;
-
-– képes-e döntések következményeinek értékelésére kívánatosságuk alapján;
-
-– képes-e térbeli és időbeli minták, struktúrák és funkciók kapcsolatának elemzésére.
-
-[^382]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
-[^383]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^384]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^385]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja szerint módosított szöveg.
-[^386]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^387]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6–7. §-a, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^388]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^383]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja szerint módosított szöveg.
+[^384]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^385]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^386]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^387]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^388]: A 2. számú melléklet Első Része a 18/2018. (II. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^389]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 18/2018. (II. 14.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a szerint módosított szöveg.
