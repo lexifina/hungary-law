@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2019-01-01 | 2011-102-20-22.18 | 303/2018. (XII. 27.) Korm. rendelet |
 | 2019-05-07 | 2011-102-20-22.19 | 102/2019. (V. 6.) Korm. rendelet |
 | 2020-01-01 | 2011-102-20-22.20 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2020-02-15 | 2011-102-20-22.21 | 13/2020. (II. 7.) Korm. rendelet |
