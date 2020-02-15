@@ -2,7 +2,7 @@
 
 (2) A tankönyvvé nyilvánítási eljárásban vizsgálni kell különösen, hogy
 
-a) a könyv alkalmas-e a Nemzeti alaptanterv rendelkezéseinek megfelelően az adott műveltségi terület, tantárgy tananyagtartalmának oktatására, szakképzési tankönyv esetén megfelel-e a szakképzési kerettantervek rendelkezéseinek, alkalmas-e az adott szakképesítés szakképzési kerettantervében meghatározott szakmai tantárgyak, szakmai követelménymodulok, témakörök oktatására,
+a)[^24] a könyv alkalmas-e a Nemzeti alaptanterv rendelkezéseinek megfelelően az adott műveltségi terület, tantárgy tananyagtartalmának oktatására,
 
 b) a könyv biztosítja-e a szaktudományok megfelelő szintű, tudományos, hiteles, tárgyilagos feldolgozását,
 
@@ -36,13 +36,13 @@ a) akit akkreditáció szakterület tantervi szakértői szakirány és tanköny
 
 b) aki az adott szakterületen tudományos címmel vagy tudományos fokozattal rendelkezik, vagy
 
-c) aki az adott szakterületen, a felsőoktatásban, a szakképzés tankönyvei esetén a középfokú oktatásban szerzett 10 év oktatói, pedagógus gyakorlati idő meglétét igazolja.
+c)[^25] aki az adott szakterületen, a felsőoktatásban, szerzett 10 év oktatói, pedagógus gyakorlati idő meglétét igazolja.
 
 (6) Ha nincs olyan szakértő, aki megfelel az (5) bekezdésben meghatározott feltételeknek, vagy a szakértő az eljárásban nem működhet közre vagy a közreműködést nem vállalja, a hivatal
 
 a) a Tanács,
 
-b) szakképzési tankönyv esetén a Szakképzési Tankönyv és Taneszköz Tanács
+b)[^26]
 
 ## javaslata alapján megfelelő felkészültségű és hozzáértéssel rendelkező szakértő véleményét szerezheti be.
 
@@ -69,3 +69,7 @@ d) aki olyan könyv szerzője, amelynek tankönyvvé nyilvánítási kérelmét 
 (9) Az eljárásban közreműködő szervezet és a döntéshozó szerv tagjaként nem járhat el az, aki a könyv elkészítésében – különösen annak írásában, szerkesztésében, szakmai vagy nyelvi lektorálásában és fordításában – részt vett, vagy a könyv kiadójával közvetlenül vagy gazdasági társaságon keresztül az eljárást megindító kérelem benyújtásának évét megelőző három éven belül munkavégzésre irányuló jogviszonyban vagy megbízási jogviszonyban állt.
 
 (10) A szakértő kirendelése előtt ötnapos határidő kitűzésével be kell szerezni az érintett szakértő írásos nyilatkozatát arról, hogy vele szemben nem áll fenn összeférhetetlenségi ok.
+
+[^24]: A 9/E. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^25]: A 9/E. § (5) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 94. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^26]: A 9/E. § (6) bekezdés b) pontját a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 3. pontja hatályon kívül helyezte.

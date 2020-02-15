@@ -1,10 +1,12 @@
-## 4/A.[^18] A tankönyvvé nyilvánítás szabályai
+## 9. §
+
+## 4/A.[^17] A tankönyvvé nyilvánítás szabályai
 
 9/A. § (1) Ahol e rendelet 4/A. alcíme tankönyvet említ, azon a rendelet eltérő rendelkezése hiányában pedagógus-kézikönyvet is kell érteni.
 
 (2) A tankönyvvé nyilvánítási eljárás kérelemre indul.
 
-(3)[^19]
+(3)[^18]
 
 (4) A kérelmet írásban, papír alapon és a köznevelés információs rendszere (a továbbiakban: KIR) részeként működtetett tankönyvi adatbázis kezelő rendszer alkalmazásával lehet benyújtani.
 
@@ -14,7 +16,7 @@ a) azt a dokumentumot, amely tartalmazza
 
 aa) közismereti nyomtatott könyv esetén a kiadó adatait, a könyv adatait és jellemzőit, a nevelés-oktatás típusát,
 
-ab) szakképzési nyomtatott könyv esetén, kiadó adatait, a könyv adatait és jellemzőit, az oktatás típusát,
+ab)[^19]
 
 ac) digitális tananyag, elektronikus könyv, digitálisan rögzített könyv esetén a felhasználási jog jogosultjának adatát, a digitális tananyag vagy az elektronikus könyv, digitálisan rögzített könyv adatait, jellemzőit, az oktatás típusát,
 
@@ -36,8 +38,9 @@ e) a kérelmező nyilatkozatát arról, hogy a könyv tartalmaz-e átvett szerz�
 
 (10)[^22]
 
-[^18]: A 4/A. alcímet (9/A–9/L. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
-[^19]: A 9/A. § (3) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^17]: A 4/A. alcímet (9/A–9/L. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 9/A. § (3) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^19]: A 9/A. § (5) bekezdés a) pont ab) alpontját a 13/2020. (II. 7.) Korm. rendelet 94. § (2) bekezdés 2. pontja hatályon kívül helyezte.
 [^20]: A 9/A. § (8) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
 [^21]: A 9/A. § (9) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
 [^22]: A 9/A. § (10) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.

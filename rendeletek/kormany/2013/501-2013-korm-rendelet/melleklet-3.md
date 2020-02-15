@@ -42,6 +42,6 @@
 
 ## *Előző évi rendelési szám alapján
 
-3. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^46]
+3. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^55]
 
-[^46]: A 3. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (3) bekezdés iktatta be.
+[^55]: A 3. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (3) bekezdés iktatta be.
