@@ -1,5 +1,0 @@
-2. § (1) A gazdasági és közlekedési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló 15/2008. (IV. 3.) GKM rendelet (a továbbiakban: R.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet 2006. március 31-én hatályos 1. számú melléklete szerinti közlekedési technikus szakképesítések (közlekedésautomatikai technikus – OKJ szám: 53 5423 05, közlekedésgépészeti technikus, közútijármű- gépész – OKJ szám: 53 5441 05, közlekedésgépészeti technikus, vasútgépész – OKJ szám: 53 5441 06, repülőgép-műszerész technikus – OKJ szám: 53 5441 07, repülőgépész technikus – OKJ szám: 53 5441 08) szakképzései utoljára a 2008/2009. tanévben indíthatók. A folyamatban lévő képzéseket a megkezdésükkor érvényes követelmények alapján kell befejezni. Javító-, pótlóvizsga letételére a korábbi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013-ig van lehetőség.”
-
-(2) Az R. 4. számú melléklete az 5. melléklet szerint módosul.
