@@ -1,0 +1,5 @@
+58. § (1) A szakképző intézmény állandó saját székhellyel akkor rendelkezik, ha a szakképzésialapfeladat-ellátáshoz szükséges és arra alkalmas helyiségek feletti rendelkezési jog legalább öt tanévre biztosított.
+
+(2) Állandó saját alkalmazotti létszámmal akkor rendelkezik a szakképző intézmény, ha az alkalmazotti létszám legalább negyven százaléka általános teljes napi munkaidőre létrejött határozatlan idejű munkaviszonyban vagy egyházi szolgálati jogviszonyban áll, amelyből legalább hetvenöt százaléka az Szkt. 40. § (1) bekezdés c) vagy d) pontja szerinti munkakörben van foglalkoztatva.
+
+(3) A szakképző intézmény szakképzésialapfeladat-ellátáshoz szükséges és arra alkalmas eszközöket az alapító a szakképző intézmény rendelkezésére bocsátja, önálló költségvetéssel rendelkező szakképző intézmény a szakmai alapfeladata ellátásáról az alapító által biztosított pénzeszköz és egyéb bevételei alapján gondoskodik. A szakképzési centrum részeként működő szakképző intézmény szakképzési alapfeladat ellátásához szükséges és arra alkalmas eszközöket a szakképzési centrum bocsátja a részeként működő szakképző intézmény rendelkezésére.

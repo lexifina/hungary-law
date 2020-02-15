@@ -1,0 +1,1 @@
+318. § Az ágazati készségtanács a tárgyévre vonatkozó munkájáról a tárgyévet követő év február tizenötödikéig éves beszámolót készít, amelyet az elnök megküld a szakképzésért felelős miniszternek és az országos gazdasági kamarának.

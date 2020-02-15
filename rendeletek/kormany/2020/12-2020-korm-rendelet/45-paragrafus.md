@@ -1,0 +1,31 @@
+## IX. Fejezet
+
+## A SZAKKÉPZŐ INTÉZMÉNY TEVÉKENYSÉGE
+
+## 13. Az Szkt. 19. § (1) bekezdéséhez
+
+45. § (1) A szakképzés a szakmajegyzékben
+
+a) az egészségügy ágazatba sorolt szakmák tekintetében az egészségügyért felelős miniszter,
+
+b) az élelmiszeripar ágazatba és a mezőgazdaság és erdészet ágazatba sorolt szakmák tekintetében az Szkt. 27. § (1) bekezdés a) pontjában meghatározott miniszter,
+
+c) a környezetvédelem és vízügy ágazatba sorolt szakmák tekintetében
+
+ca) a környezetvédelmi technikus szakma esetében az Szkt. 27. § (1) bekezdés a) pontjában meghatározott miniszter,
+
+cb) a vízügyi munkatárs és a vízügyi technikus szakma esetében a vízvédelemért felelős miniszter,
+
+d) a szociális ágazatba sorolt szakmák tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter és a gyermek- és ifjúságpolitikáért felelős miniszter együttes
+
+engedélyével folyhat.
+
+(2) A szakmajegyzékben
+
+a) a rendészet és közszolgálat ágazatba sorolt szakmák közül a rendőr tiszthelyettes szakmára történő felkészítés kizárólag rendvédelmi szakképző intézményben,
+
+b) a honvédelem ágazatba sorolt szakmák közül a honvéd altiszt szakmára történő felkészítés kizárólag honvédségi szakképző intézményben,
+
+folyhat. A szakmajegyzékben a honvédelem ágazatba sorolt más szakma szakmai oktatása a honvédelemért felelős miniszter, a rendészet és közszolgálat ágazatba sorolt más szakma szakmai oktatása a rendészetért felelős miniszter engedélyével kezdhető meg.
+
+(3) A szakmajegyzékben az (1) bekezdés a)–d) pontjában és a (2) bekezdésben meghatározott ágazatban a szakképzés szakmai és módszertani fejlesztéséért a Kormány adott ágazatért felelős tagja felel.

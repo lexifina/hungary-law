@@ -1,0 +1,5 @@
+103. § (1) A szakképző intézmény közreműködik a tanulók veszélyeztetettségének megelőzésében és megszüntetésében, ennek során együttműködik a család- és gyermekjóléti szolgálattal, a gyermekjogi képviselővel, valamint a gyermekvédelmi rendszerhez kapcsolódó feladatot ellátó más személyekkel, intézményekkel és hatóságokkal.
+
+(2) Ha a szakképző intézmény a tanulót veszélyeztető okokat pedagógiai eszközökkel nem tudja megszüntetni, vagy a tanulóközösség védelme érdekében indokolt, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. § (2) bekezdése szerinti intézkedést kezdeményez.
+
+(3) A szakképző intézményben, valamint a szakképző intézményen kívül a tanulók részére szervezett rendezvényeken a népegészségügyi termékadóról szóló törvény hatálya alá tartozó termék, továbbá alkohol- és dohánytermék nem árusítható. A szakképző intézményben, valamint a szakképző intézményen kívül a tanulók részére szervezett rendezvényeken alkohol- és dohánytermék nem fogyasztható.

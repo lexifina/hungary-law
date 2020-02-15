@@ -1,0 +1,7 @@
+105. § (1) A szakképző intézményben folyó lelki egészségfejlesztés célja, hogy elősegítse a kiegyensúlyozott pszichés fejlődést, támogassa a tanuló esetében a környezethez történő alkalmazkodást, felkészítsen és megoldási stratégiákat kínáljon a környezetből érkező ártalmas hatásokkal szemben, így csökkentve a káros következményeket, továbbá pozitív hatást gyakoroljon a személyiséget érő változásokra.
+
+(2) A szakképző intézmény kiemelt figyelmet fordít a magatartási függőség és a szenvedélybetegség kialakulásához vezető szerek fogyasztásának, valamint a szakképző intézményben megjelenő bántalmazás és agresszió megelőzésére, továbbá a gyógyult szenvedélybeteg és bántalmazott tanulók beilleszkedésének elősegítésére, ennek során indokolt esetben együttműködik az iskola-egészségügyi szolgálattal.
+
+(3) Ha az oktató a tanuló bántalmazását vagy deviáns viselkedésformákat észlel, az adott osztály vagy csoport oktatóinak bevonásával esetmegbeszélést kezdeményez, majd az oktatókkal közösen feltárja azokat a lehetséges okokat, amelyek a viselkedés sajátos formájához vezethettek. A konfliktusban érintett tanulók az iskolapszichológus kiemelt segítségében részesülnek.
+
+(4) Ha az érintett tanuló vagy a tanulók csoportja vonatkozásában a viselkedési problémák ismétlődő jellegűek, az igazgató értesíti az iskolapszichológust, és egyúttal meghatározza azt az időpontot, amikor a tanuló köteles a pszichológus tanácsadásán részt venni.

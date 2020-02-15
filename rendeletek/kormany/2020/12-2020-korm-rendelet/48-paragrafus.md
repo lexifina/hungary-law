@@ -1,0 +1,29 @@
+48. § (1) A szakképző intézmény a minőségpolitika keretében
+
+a) megalkotja a szakképző intézmény küldetését, jövőképét és azokhoz kapcsolódó stratégiát alakít ki a szakképzésialapfeladat-ellátás minőségének biztosítása és javítása érdekében,
+
+b) szabályozza a szakképző intézmény minőségirányítási rendszerének szervezeti kereteit, működtetésének feltételeit,
+
+c) a szakképzésialapfeladat-ellátás minőségének biztosítása és fejlesztése érdekében minőségcélokat határoz meg,
+
+d) a szakképzésért felelős miniszter által kiadott módszertani javaslat alapján elkészíti az oktatók értékelési rendszerét.
+
+(2) Az oktatók értékelését – a minőségpolitikában meghatározottak szerint – az igazgató végzi. Az oktatók értékelési rendszere keretében az igazgató a további intézményvezetők és – döntése alapján – külső szakértő bevonásával háromévente
+
+a) értékeli az oktató munkáját, erősségeket és fejlesztendő területeket határoz meg, jóváhagyja az oktató által az értékelés megállapításaihoz kapcsolódóan készített cselekvési tervet,
+
+b) vizsgálja az Európai Szakképzési Minőségbiztosítási Referencia Keretrendszer alapján kidolgozott elvárásrendszer teljesülését, ennek keretében az oktató
+
+ba) szakmai felkészültségét,
+
+bb) a szakképzés-releváns korszerű módszertan alkalmazását,
+
+bc) pedagógiai tervezését,
+
+bd) pedagógiai értékelését,
+
+be) együttműködését más oktatókkal, a szülőkkel és a gyakorlati oktatási partnerekkel,
+
+bf) személyiségfejlesztő, csoportvezetői, tanulás támogató tevékenységét,
+
+bg) innovációs tevékenységét és szakmai elkötelezettségét.

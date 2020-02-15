@@ -1,0 +1,3 @@
+220. § (1) A kiskorú tanuló törvényes képviselőjének kötelessége, hogy gyermekével vagy a nevelése alatt álló kiskorú tanulóval megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi vizsgálaton és a fejlesztő pedagógiai ellátáson való részvételét, ha a gyermekével vagy a nevelése alatt álló kiskorú tanulóval foglalkozó oktatók kezdeményezésére az oktatói testület erre javaslatot tesz.
+
+(2) Ha a kiskorú tanuló törvényes képviselője az (1) bekezdésben meghatározott kötelezettségének nem tesz eleget, a szakképzési államigazgatási szerv kötelezi a kiskorú tanuló törvényes képviselőjét e kötelezettségének betartására.

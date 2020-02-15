@@ -1,0 +1,1 @@
+209. § Az áthelyezés másik osztályba, csoportba vagy szakképző intézménybe, köznevelési intézménybe fegyelmi büntetés akkor alkalmazható, ha az igazgató a tanuló átvételéről a másik szakképző intézmény vagy köznevelési intézmény igazgatójával megállapodott.

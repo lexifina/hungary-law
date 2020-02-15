@@ -1,0 +1,1 @@
+261. § A szakmai vizsga magyarul vagy részben vagy egészben idegen nyelven is megszervezhető. Az akkreditált vizsgaközpont biztosítja, hogy az általa megszervezett valamennyi szakmai vizsga tekintetében legyen lehetőség magyar nyelven szakmai vizsgát tenni. A nem magyar nyelven letett szakmai vizsga az államilag elismert nyelvvizsgával nem egyenértékű, azt nem helyettesíti.

@@ -1,0 +1,1 @@
+52. § Ha a tanuló, illetve a képzésben részt vevő személy előkészítő évfolyamon vesz részt, tanulmányait a szakképző intézményben külön felvételi eljárás nélkül folytathatja azzal, hogy az általa választott ágazatról az előkészítő év során az igazgató által meghatározott időszakon belül kell nyilatkoznia.

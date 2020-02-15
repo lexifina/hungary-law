@@ -1,0 +1,3 @@
+264. § (1) A szakmai vizsga vizsgatevékenységei alól – a jogszabályban vagy a képzési és kimeneti követelményekben meghatározott kivétellel – felmentés nem adható.
+
+(2) Mentesül a szakmai vizsga vagy a vizsgatevékenység letétele alól az a vizsgázó, aki országos szakmai tanulmányi versenyen, WorldSkills vagy EuroSkills versenyen a képzési és kimeneti követelményekben meghatározott követelményt teljesítette és a versenyfelhívásban meghatározott helyezést, teljesítményt, szintet elérte. Az e bekezdésben meghatározott felmentés esetén a szakmai vizsga vagy a vizsgatevékenység eredménye jelesnek minősül.

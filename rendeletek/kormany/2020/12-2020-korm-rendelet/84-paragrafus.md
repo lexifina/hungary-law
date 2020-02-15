@@ -1,0 +1,1 @@
+84. § A főigazgató – a munkáltatói jogkörgyakorlással összefüggő döntés vagy intézkedés kivételével – a kancellár döntésével vagy intézkedésével szemben, illetve intézkedésének elmulasztása esetén – a tudomásszerzéstől számított nyolc napon belül – a fenntartóhoz intézett kifogással élhet.

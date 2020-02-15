@@ -1,0 +1,9 @@
+## 16. Az Szkt. 19. § (4) bekezdéséhez
+
+51. § (1) Előkészítő évfolyam a szakképző intézmény szakmai programjában meghatározott tartalommal szervezhető a fenntartó, a szakképzési centrum részeként működő szakképző intézmény esetében a szakképzési centrum engedélyével. A szakma megszerzéséhez szükséges kompetenciák tekintetében történő orientációs fejlesztésre irányuló előkészítő évfolyamra vonatkozó szakmai program elfogadásához a szakképzésért felelős miniszter jóváhagyása szükséges.
+
+(2) Nyelvi előkészítés a technikumban akkor szervezhető, ha három egymást követő tanév átlagában az érettségi bizonyítványt szerzett tanulók hatvan százaléka rendelkezik a nyelvi előkészítő oktatás idegen nyelvéből vagy induló nyelvi előkészítés esetén a nyelvi előkészítő oktatás tervezett idegen nyelvének megfelelő idegen nyelvből KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával. Az e bekezdésben foglalt feltételek teljesülését idegen nyelvenként, az adott idegen nyelvet egy évfolyamon tanulók összesített eredménye alapján a fenntartónak évente vizsgálnia kell. Ha a technikum az e bekezdésben foglaltaknak nem felel meg, új nyelvi előkészítő évfolyamra a követő évben kezdődő tanévre nem hirdethet felvételt.
+
+(3) A szakma megszerzéséhez szükséges kompetenciák tekintetében történő orientációs fejlesztésre irányuló előkészítő évfolyam keretében a tanuló mentorálását, alapkészségeinek és kulcskompetenciáinak fejlesztését, pályaorientációjának, életpálya tervezésének elősegítését célzó tevékenység végezhető rugalmas tanulásszervezési és személyre szabott oktatási formában.
+
+(4) A dobbantó programban az a tanuló vehet részt, aki a megelőző tanév utolsó napjáig a tizenhatodik életévét betöltötte és alapfokú végzettséggel nem rendelkezik.

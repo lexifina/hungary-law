@@ -1,0 +1,1 @@
+223. § A tanuló a sikeres ágazati alapvizsgát követően a szakképző intézményben külön felvételi eljárás nélkül folytathatja tanulmányait azzal, hogy az általa választott szakmáról az ágazati alapoktatás során az igazgató által meghatározott időszakon belül kell nyilatkoznia.

@@ -1,0 +1,3 @@
+71. § (1) Összeolvadásnál az összeolvadó szakképző intézmények megszűnnek, jogutódjuk az átalakítással létrejövő új szakképző intézmény. Beolvadásnál a beolvadó szakképző intézmény megszűnik, jogutódja az egyesítésben részt vevő másik szakképző intézmény.
+
+(2) Különválás esetén a különváló szakképző intézmény megszűnik vagy a különváló szervezeti egységek az átalakítás során már működő szakképző intézményekbe, mint jogutódokba olvadnak be, jogutódjai az átalakítással létrejövő szakképző intézmények. Kiválás esetén a kiválással érintett szakképző intézmény fennmarad, és a kiváló szervezeti egységéből önálló szakképző intézmény jön létre vagy már működő szakképző intézménybe mint jogutódba olvad be.

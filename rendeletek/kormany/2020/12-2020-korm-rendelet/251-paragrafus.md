@@ -1,0 +1,1 @@
+251. § A duális képzőhely feltölti a regisztrációs és tanulmányi rendszerbe a szakképzési munkaszerződést. A regisztrációs és tanulmányi rendszer üzemeltetője havonta anonim módon adatot szolgáltat a gazdasági kamarának a regisztrációs és tanulmányi rendszerben rögzített munkaszerződésekről duális képzőhelyenkénti, szakmánkénti és létszám bontásban.

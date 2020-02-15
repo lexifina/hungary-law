@@ -1,0 +1,9 @@
+8. § (1) Két tanítási nyelvű oktatást
+
+a) tanulói jogviszonyban – a fenntartó engedélyével – a technikum,
+
+b) felnőttképzési jogviszonyban – a képzési kereslet függvényében – a szakképző intézmény
+
+szervezhet.
+
+(2) Tanulói jogviszonyban folyó szakképzés keretében két tanítási nyelvű oktatás a technikumban akkor szervezhető, ha három egymást követő tanév átlagában az érettségi bizonyítványt szerzett tanulók hetvenöt százaléka rendelkezik a célnyelvből vagy induló két tanítási nyelvű oktatás esetén a tervezett célnyelvnek megfelelő idegen nyelvből KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával. Az e bekezdésben meghatározott feltétel teljesülését célnyelvenként, az adott célnyelvet az olyan tanulók összesített eredménye alapján kell vizsgálni, akik azonos évfolyamon vesznek részt. Az e bekezdésben meghatározott feltétel teljesülését a fenntartónak kell évente vizsgálnia. Ha a technikum az e bekezdésben meghatározott feltételnek nem felel meg, új két tanítási nyelvű oktatásra a következő tanévben nem hirdethet felvételt.

@@ -1,0 +1,3 @@
+63. § (1) A költségvetési szervként működő szakképző intézmény a törzskönyvi nyilvántartásba vétel iránti kérelem benyújtásával kéri OM azonosítójának megállapítását.
+
+(2) A költségvetési szervként működő szakképző intézménynek a szakképzési államigazgatási szerv által vezetett nyilvántartásba történő bejegyzéshez szükséges adatait a kincstár továbbítja a szakképzési államigazgatási szervnek. A szakképzési államigazgatási szerv a költségvetési szervként működő szakképző intézmény nyilvántartásba vételét és OM azonosítójának megállapítását követően a költségvetési szervként működő szakképző intézmény OM azonosítóját a kincstár útján közli.

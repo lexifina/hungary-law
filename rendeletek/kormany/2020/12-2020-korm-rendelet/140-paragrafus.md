@@ -1,0 +1,1 @@
+140. § Az oktató kötelessége, hogy a tanulók, a kiskorú tanulók törvényes képviselői, valamint a szakképző intézmény alkalmazottainak emberi méltóságát és jogait maradéktalanul tiszteletben tartsa, javaslataikra, kérdéseikre érdemi választ adjon.

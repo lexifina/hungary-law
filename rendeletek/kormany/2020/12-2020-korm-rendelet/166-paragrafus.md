@@ -1,0 +1,1 @@
+166. § A tanuló kötelessége, hogy megőrizze, továbbá az előírásoknak megfelelően kezelje a rábízott vagy az oktatás során használt eszközöket, óvja a szakképző intézmény létesítményeit, felszereléseit.

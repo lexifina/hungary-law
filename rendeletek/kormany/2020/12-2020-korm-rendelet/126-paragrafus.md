@@ -1,0 +1,1 @@
+126. § Az igazgató munkaideje felhasználását és beosztását, a kötelező foglalkozások megtartásán kívül maga, a szakképzési centrum részeként működő szakképző intézmény igazgatója esetében a főigazgató egyetértésével jogosult meghatározni.

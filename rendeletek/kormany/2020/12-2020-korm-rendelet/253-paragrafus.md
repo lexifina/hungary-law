@@ -1,0 +1,7 @@
+## 85. Az Szkt. 85. § (1)–(3) bekezdéséhez
+
+253. § (1) A szakképzési munkaszerződés alapján kifizetett munkabér havi mértékének összege – a tanuló, illetve a képzésben részt vevő személy és a duális képzőhely megállapodása alapján – a tárgyév első hónapjának első napján érvényes kötelező legkisebb havi munkabér legalább hatvan százaléka, de legfeljebb a tárgyév első hónapjának első napján érvényes kötelező legkisebb havi munkabér összege, amelynek megállapításánál figyelembe kell venni a tanuló, illetve a képzésben részt vevő személy szakmai felkészültségét, tanulmányi eredményeit és az ágazati készségtanács által az adott szakmára vonatkozó javaslatában meghatározott mértéket.
+
+(2) A tanuló, illetve a képzésben részt vevő személy számára az Szkt. 85. § (2) bekezdése szerinti egyéb juttatást a tanuló, illetve a képzésben részt vevő személy által választott szakmához szükséges szakképzettséggel betöltött munkakörben foglalkoztatottak részére biztosított juttatással azonos mértékben, de legfeljebb a tárgyév első hónapjának első napján érvényes kötelező legkisebb havi munkabér mértékéig kell biztosítani. Az egyéb juttatásra a tanuló, illetve a képzésben részt vevő személy az általa ledolgozott napokra tekintettel arányosan jogosult.
+
+(3) A tanulónak, illetve a képzésben részt vevő személynek az Szkt. 85. §-ában meghatározott juttatásait a tanuló, illetve a képzésben részt vevő személy igazolatlan mulasztásával arányosan csökkenteni kell.

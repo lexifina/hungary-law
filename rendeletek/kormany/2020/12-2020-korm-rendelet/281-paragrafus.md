@@ -1,0 +1,7 @@
+281. § (1) A projektfeladat megvédésének megkezdése előtt a vizsgázót tájékoztatni kell az adott vizsgatevékenység lebonyolításának rendjéről és a projektfeladat elkészítésével és megvédésével kapcsolatos egyéb tudnivalókról, továbbá a vizsgatevékenység helyére és a munkavégzésre vonatkozó munkavédelmi, tűzvédelmi, egészségvédelmi előírásokról. A vizsgatevékenység megkezdése után további útmutatás csak baleset és jelentős károkozás megelőzése céljából adható.
+
+(2) A projektfeladatot a vizsgázó az akkreditált vizsgaközpont által a projektfeladathoz kapcsolódóan meghatározott segédanyagok használata mellett végzi.
+
+(3) A projektfeladat elkészítése, illetve megvédése az ahhoz szükséges személyi és tárgyi feltételek – ideértve a munkavédelmi, tűzvédelmi és egészségvédelmi feltételeket – megléte esetén kezdhető meg, és folytatható. A feltételek meglétét a vizsgatevékenység végrehajtását megelőzően a vizsgafelügyelő ellenőrzi, és engedélyezi a vizsgatevékenység megkezdését.
+
+(4) A vizsgatevékenység zavartalan lebonyolítása és a baleseti kockázat minimalizálása érdekében az akkreditált vizsgaközpont vizsgacsoportonként legalább egy, a szakirányú oktatás folytatásához szükséges szakképzettséggel vagy szakképesítéssel rendelkező személyt biztosít, aki a szakmai vizsgához szükséges technikai feltételek folyamatos biztosításáért felel, közreműködik az esetlegesen felmerült technikai problémák elhárításában, továbbá gondoskodik a balesetmentes munkavégzésről.

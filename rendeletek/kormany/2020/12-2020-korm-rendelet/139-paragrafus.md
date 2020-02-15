@@ -1,0 +1,1 @@
+139. § Az oktató kötelessége, hogy az ismereteket tárgyilagosan, sokoldalúan és változatos módszerekkel közvetítse, oktatómunkáját éves és foglalkozás szinten, tanulócsoporthoz igazítva, szakszerűen megtervezve végezze, irányítsa a tanulók tevékenységét.

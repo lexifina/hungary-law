@@ -1,0 +1,1 @@
+15. § A felnőttképző az általa szervezett részszakmára történő felkészítésre vonatkozó szakmai programjára a 14. § (2) bekezdés c) pontját, (3) bekezdés a) pontját és (5) bekezdés a) pontját kell alkalmazni.

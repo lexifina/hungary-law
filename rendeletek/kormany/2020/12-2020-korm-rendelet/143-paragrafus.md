@@ -1,0 +1,1 @@
+143. § A rendvédelmi szakképző intézmény oktatója minden tanévben valamely rendvédelmi szervnél vagy oktatási intézménynél szakmai gyakorlaton vesz részt a rendvédelmi szakképző intézmény igazgatója által meghatározottak szerint.

@@ -1,0 +1,1 @@
+121. § A tanulók fizikai állapotára és edzettségére vonatkozó méréseket a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet [a továbbiakban: 20/2012. (VIII. 31.) EMMI rendelet] 81. §-a és 4. melléklete szerint kell végezni.

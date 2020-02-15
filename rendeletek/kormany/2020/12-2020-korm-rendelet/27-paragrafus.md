@@ -1,0 +1,1 @@
+27. § Az érettségi bizonyítvány, az érettségi tanúsítvány és az érettségi vizsgát tanúsító törzslap, törzslapkivonat tartalmát és kiállításának módját az érettségi vizsgáról szóló kormányrendelet állapítja meg.

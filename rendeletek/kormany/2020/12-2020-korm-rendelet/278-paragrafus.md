@@ -1,0 +1,3 @@
+278. § (1) Az interaktív vizsgatevékenység során biztosítani kell a vizsgázó azonosítását, a szakma megjelölését és a szakmai vizsga napjának feltüntetését. Az interaktív vizsgatevékenység befejezésekor biztosítani kell a befejezés időpontjának rögzítését. Ha az interaktív vizsgatevékenység alatt a vizsgázónak el kell hagynia a vizsgatermet, biztosítani kell a vizsgázó távozásának és visszaérkezésének idejének rögzítését is. A vizsgázó távozása és visszaérkezése között eltelt idő beszámít az interaktív vizsgatevékenység megoldására rendelkezésre álló időtartamba.
+
+(2) Az interaktív vizsgatevékenység eredményét utólag nem módosítható formában kell tárolni.

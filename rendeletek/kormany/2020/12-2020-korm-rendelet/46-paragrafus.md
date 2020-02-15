@@ -1,0 +1,3 @@
+## 14. Az Szkt. 19. § (2) bekezdéséhez
+
+46. § A tanulót, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjét, illetve a képzésben részt vevő személyt a szakképző intézmény a megelőző tanítási év végén tájékoztatja azokról a tankönyvekről, tanulmányi segédletekről, taneszközökről, ruházati és más felszerelésekről, amelyekre a következő tanévben a szakképzésben való részvételhez szükség lesz, valamint a szakképző intézménytől kölcsönözhető tankönyvekről, taneszközökről és más felszerelésekről, továbbá arról is, hogy a szakképző intézmény milyen segítséget tud nyújtani az ezzel összefüggő kiadások csökkentéséhez.

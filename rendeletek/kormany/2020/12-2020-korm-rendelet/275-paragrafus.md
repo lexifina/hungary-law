@@ -1,0 +1,1 @@
+275. § Az akkreditált vizsgaközpontot, a vizsgafelügyelőt és a vizsgabizottság további tagját az egyes vizsgatevékenységek tekintetében azok lezárásáig, a vizsgafelügyelőt, a vizsgabizottság további tagját és a szakmai vizsga jegyzőjét a vizsgaeredmények tekintetében azok kihirdetéséig titoktartási kötelezettség terheli.

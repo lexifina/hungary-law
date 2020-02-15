@@ -1,0 +1,1 @@
+133. § A nemzetiségi nevelés-oktatásban részt vevő szakképző intézmény igazgatójának megbízása és megbízásának visszavonása esetén az érintett települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat véleményét ki kell kérni.

@@ -1,0 +1,1 @@
+59. § Újonnan induló szakmai oktatás esetében a működéshez szükséges feltételeket felmenő rendszerben, fokozatosan elégséges megteremteni. A működési engedély kiadása iránti kérelemhez – jogszabályban meghatározottak mellett – csatolni kell a szakmai oktatáshoz szükséges személyi és tárgyi feltételek megteremtésének ütemtervét.

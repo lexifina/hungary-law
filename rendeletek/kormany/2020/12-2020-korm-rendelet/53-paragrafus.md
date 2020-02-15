@@ -1,0 +1,15 @@
+## 17. Az Szkt. 21. § (2) bekezdéséhez
+
+53. § (1) A műhelyiskola a tanulónak, illetve a képzésben részt vevő személynek a szakképzésbe való bekapcsolódáshoz vagy a munkába állásához szükséges ismeretek megszerzésére szolgáló képzési forma. A műhelyiskola folyamatos mentori támogatással hozzájárul a tanuló, illetve a képzésben részt vevő személy személyes és társas kompetenciáinak fejlesztéséhez és önálló életkezdéséhez szükséges alapismeretek átadásához.
+
+(2) A tanuló, illetve a képzésben részt vevő személy a műhelyiskolában tanulmányokat akkor folytathat, ha
+
+a) alapfokú végzettséggel nem rendelkezik és a szakképző iskola dobbantó programját elvégezte vagy
+
+b) alapfokú végzettséggel rendelkezik és a 16. életévét betöltötte.
+
+(3) A műhelyiskolában kizárólag részszakma megszerzésére irányuló felkészítés folyik, amelyet tanműhelyben vagy munkahelyi körülmények között a nappali rendszerben, egy–ötfős csoportokban kell megszervezni úgy, hogy a részszakma megszerzésének időtartama – a tanév, illetve a tanítási év rendjére tekintet nélkül – legalább hat, legfeljebb huszonnégy hónap közé essen.
+
+(4) A tanuló, illetve a képzésben részt vevő kiskorú személy műhelyiskolában való részvétele az Szkt. 71. § (2) bekezdésében meghatározott esetben nem utasítható el.
+
+(5) A műhelyiskolában a tanuló, illetve a képzésben részt vevő személy a szakképző iskolai tanulót az ágazati alapoktatásban megillető ösztöndíj felére jogosult.

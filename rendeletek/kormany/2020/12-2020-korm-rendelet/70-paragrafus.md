@@ -1,0 +1,1 @@
+70. § A szakképző intézmény átalakításáról módosító okiratban kell rendelkezni. A 69. §-t az általános jogutódlással történő megszűnés esetén a módosító okiratra is alkalmazni kell azzal, hogy megszűnés alatt átalakítást kell érteni.

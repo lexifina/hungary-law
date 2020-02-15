@@ -1,0 +1,1 @@
+39. § Ha a bizonyítvány, az oklevél, illetve a szakmai bizonyítvány eredeti kiállítója nem lelhető fel, a javított bizonyítványt, oklevelet, illetve szakmai bizonyítványt, valamint a bizonyítványmásodlatot, a pótbizonyítványt, az oklevélmásodlatot, illetve a szakmai bizonyítványmásodlatot a szakképzési államigazgatási szerv állítja ki.

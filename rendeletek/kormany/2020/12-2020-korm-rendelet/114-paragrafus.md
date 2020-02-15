@@ -1,0 +1,1 @@
+114. § A szakképző intézmény a képzési és kimeneti követelményekben meghatározott, egymáshoz kapcsolódó tartalmi egységeket az arra meghatározott időkeret figyelembevételével egybefüggően is megszervezheti.

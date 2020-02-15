@@ -1,0 +1,1 @@
+131. § Ha az igazgató megbízása határozott időre szól, és a határozott idő alapján a megbízás utolsó napja nem a július elsejétől augusztus tizenötödikéig terjedő időszakra esik, a megbízás lejártának időpontját akkor is erre az időszakra kell meghatározni, ha a határozott idő utolsó napjához képest legfeljebb hat hónappal korábban vagy később járna le.

@@ -1,0 +1,1 @@
+330. § A duális képzőhely hatósági ellenőrzésében részt vesz azon szakképző intézmények közül legalább egynek a képviselője, amellyel a szakirányú oktatásban részt vevő tanuló tanulói jogviszonyban, illetve képzésben részt vevő személy felnőttképzési jogviszonyban áll.

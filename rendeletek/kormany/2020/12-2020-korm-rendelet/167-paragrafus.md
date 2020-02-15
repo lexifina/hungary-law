@@ -1,0 +1,1 @@
+167. § A tanuló kötelessége, hogy a szakképző intézmény oktatói és más alkalmazottai, továbbá a tanulótársai emberi méltóságát és jogait tiszteletben tartsa, tiszteletet tanúsítson irántuk, segítse rászoruló tanulótársait.
