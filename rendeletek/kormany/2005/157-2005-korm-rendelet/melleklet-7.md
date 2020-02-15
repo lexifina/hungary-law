@@ -36,7 +36,7 @@
 
 ## *** A legfelső emeleti korrekciók nem alkalmazhatók azoknál a függőleges, felső elosztású fűtési rendszerű felhasználási helyek helyiségeinél, amelyek légterében hőszigetelés nélküli vízszintes elosztóvezeték halad át.
 
-7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^125]
+7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^128]
 
 A)
 
@@ -52,4 +52,4 @@ B) A vezetékjog engedélyezési eljárásában vizsgálandó szakkérdések és
 
 | 4. | Ha a távhővezetéket a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény vagy vezeték megvalósítása a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | kulturális örökség védelméért felelős miniszter |
 
-[^125]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 65. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 146. § h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^128]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 65. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 146. § h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
