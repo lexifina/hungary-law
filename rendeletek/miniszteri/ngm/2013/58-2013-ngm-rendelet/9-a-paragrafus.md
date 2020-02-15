@@ -1,1 +1,0 @@
-## 9. § A képzési programnak az Fktv. 10. § (1) bekezdés a) pont aa) alpontja szerinti előzetes minősítéséért a felnőttképzési szakértő vagy a felnőttképzési programszakértő által felszámított díj legmagasabb összege hatvanezer forintnál nem lehet magasabb.
