@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-18-20-5
 | 2019-08-16 | 2019-18-20-5H.2 | 2010: CXXX. törvény |
 | 2020-01-01 | 2019-18-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-01-02 | 2019-18-20-5H.4 | 2010: CXXX. törvény |
+| 2020-02-15 | 2019-18-20-5H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
