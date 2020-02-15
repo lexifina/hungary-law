@@ -24,9 +24,9 @@ h) tanácsadási feladatok
 
 2. Komplex rendezvényszervezési feladatok (humánfejlesztéshez kapcsolódó, kifejezetten szakmai rendezvények, szakmai műhelyek szervezése, az ehhez kapcsolódó szállodai és éttermi szolgáltatások, adott esetben helyszín és a helyszínhez kapcsolódó egyéb szolgáltatások beszerzésével)
 
-3. Képzésszervezési feladatok (kifejezetten pedagógus-továbbképzések szervezése, előadók, helyszín beszerzése)
+3.[^1] Képzésszervezési feladatok
 
-4. Képzésszervezési feladatok (egyéb továbbképzések, felnőttképzések szervezése, előadók, helyszín beszerzése)
+4.[^2]
 
 5. Adatrögzítési feladatok
 
@@ -35,3 +35,6 @@ h) tanácsadási feladatok
 7. Raktározási feladatok
 
 8. Az EFOP vagy RSZTOP operatív programokban meghatározott célkitűzések elérése érdekében, a szakmai célokhoz közvetlenül kapcsolódó termékek vagy immateriális javak beszerzése
+
+[^1]: Az 1. melléklet 3. pontja a 13/2020. (II. 7.) Korm. rendelet 124. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. melléklet 4. pontját a 13/2020. (II. 7.) Korm. rendelet 124. § (2) bekezdése hatályon kívül helyezte.
