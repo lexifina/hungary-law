@@ -1,6 +1,6 @@
 ## A TeIR adatok témakörei összefüggésben a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló kormányrendeletben meghatározott téradattémákkal
 
-## 6K76631M_0
+## 0X00684M_0
 
 |  | A | B | C |
 
@@ -52,7 +52,7 @@
 
 | 24. |  | 2.2. Humán erőforrások tényezői |  |
 
-| 25. |  | 2.2.1. Képzettség | oktatásért felelős miniszter |
+| 25. |  | 2.2.1. Képzettség | oktatásért felelős miniszter szakképzésért felelős miniszter felnőttképzésért felelős miniszter |
 
 | 26. |  | 2.2.2. Foglalkoztatottság | foglalkoztatáspolitikáért felelős miniszter |
 
@@ -76,11 +76,13 @@
 
 | 36. |  | 2.4.4. Közoktatás, felsőoktatás, szakképzés | oktatásért felelős miniszter |
 
+| 36a. |  | 2.4.4. Szakképzés | szakképzésért felelős miniszter |
+
 | 37. |  | 2.4.5. Kulturális szolgáltatások | kultúráért felelős miniszter |
 
 | 38. |  | 2.4.6. Igazságszolgáltatás, bűnözés | igazságügyért felelős miniszter, rendészetért felelős miniszter |
 
-| 39. |  | 2.4.7. Felnőttképzés | szakképzésért és felnőttképzésért felelős miniszter |
+| 39. |  | 2.4.7. Felnőttképzés | felnőttképzésért felelős miniszter |
 
 | 40. | 3. Műszaki infrastruktúra alakulása, és térbeli elhelyezkedése |  |  |
 
