@@ -4,7 +4,7 @@
 
 a) a közúti közlekedés tervezéséhez, fejlesztéséhez és szabályozásához szükséges, a biztonságot szolgáló szakmai adatgyűjtő, értékelő és kutató-elemző munkákra, azok publikálására, szakmai továbbképzések, konferenciák támogatására, a forgalom ellenőrzését és szabályozását szolgáló technikai eszközök fejlesztésére, a kapcsolódó kommunikációs tevékenységekre,
 
-b) a közúti közlekedés biztonságát szolgáló közoktatási intézményi nevelési tevékenység szakmai támogatására,
+b)[^3] a közúti közlekedés biztonságát szolgáló, köznevelési intézményben folytatott nevelési-oktatási tevékenység, illetve a közúti közlekedés biztonságát szolgáló, szakképző intézményben folytatott szakképzési tevékenység szakmai támogatására,
 
 c) az állami feladatok megvalósítására kialakított projekteket (akcióprogramokat) koordináló titkárság tevékenységének támogatására,
 
@@ -19,3 +19,4 @@ a) az a)–c) pontok tekintetében a közlekedésért felelős miniszter,
 b) a d)–e) pontok tekintetében a közlekedésért és a közlekedésrendészetért felelős miniszter
 
 [^2]: A 2. § a 409/2007. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.

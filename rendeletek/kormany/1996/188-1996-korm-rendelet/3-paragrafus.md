@@ -1,8 +1,8 @@
 ## feladata.
 
-3. § (1)[^3] Az 1. §-ban meghatározott bevételek közül a tárgyhónapot követő hónap 25. napjáig kell átutalni
+3. § (1)[^4] Az 1. §-ban meghatározott bevételek közül a tárgyhónapot követő hónap 25. napjáig kell átutalni
 
-a)[^4] a Nemzeti Fejlesztési Minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámlájára (ÁHT: 333717, számlaszám: 10032000-00290737-57000006) az 1. § a) pontjában meghatározott 13,5%-ból 8,5%-ot,
+a)[^5] a Nemzeti Fejlesztési Minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámlájára (ÁHT: 333717, számlaszám: 10032000-00290737-57000006) az 1. § a) pontjában meghatározott 13,5%-ból 8,5%-ot,
 
 b) az Országos Rendőr-főkapitányság elkülönített előirányzat-felhasználási keretszámlájára (számlaszám: 10023002- 01451849-00000000) az 1. § a) pontjában meghatározott 13,5%-ból 5%-ot.
 
@@ -14,8 +14,8 @@ b) az Országos Rendőr-főkapitányság elkülönített előirányzat-felhaszn�
 
 meghatározott számlára kell utalni.
 
-(3)[^5] Az 1. § c) pontjában szereplő bevételt az adományozó – a Polgári Törvénykönyv szerinti közérdekű kötelezettségvállalásként – teljesítheti.
+(3)[^6] Az 1. § c) pontjában szereplő bevételt az adományozó – a Polgári Törvénykönyv szerinti közérdekű kötelezettségvállalásként – teljesítheti.
 
-[^3]: A 3. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (1) bekezdés a) pontja a 42/2013. (II. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^5]: A 3. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés a) pontja a 42/2013. (II. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^6]: A 3. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 5. §-a szerint módosított szöveg.
