@@ -1,4 +1,4 @@
-## 13/H. [^72] § A nyomástartó berendezések és rendszerek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével, valamint az egyszerű nyomástartó edények megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+## 13/H. [^72] A nyomástartó berendezések és rendszerek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével, valamint az egyszerű nyomástartó edények megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
 
 24/K. § (1) A kijelölő hatóság a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben (a továbbiakban: R4.) meghatározottak szerint bejelenti az Európai Bizottságnak és a tagállamoknak az R4. szerinti eljárások lefolytatására általa kijelölt szervezeteket, e szervezetek feladatainak rögzítésével, valamint az Európai Bizottság által előzőleg adott azonosító számaikkal együtt.
 
