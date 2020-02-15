@@ -6,7 +6,7 @@ a) a felvételi lehetőségről szóló tájékoztatót,
 
 b) a beiratkozásra meghatározott időt, a fenntartó által engedélyezett osztályok, csoportok számát,
 
-c) köznevelési feladatot ellátó intézményegységenként a térítési díj, a tandíj, egyéb díjfizetési kötelezettség (a továbbiakban együtt: díj) jogcímét és mértékét, továbbá tanévenként, nevelési évenként az egy főre megállapított díjak mértéket, a fenntartó által adható kedvezményeket, beleértve a jogosultsági és igénylési feltételeket is,
+c)[^54] köznevelési alapfeladatot ellátó intézményegységenként a térítési díj, a tandíj, egyéb díjfizetési kötelezettség (a továbbiakban együtt: díj) jogcímét és mértékét, továbbá tanévenként, nevelési évenként az egy főre megállapított díjak mértéket, a fenntartó által adható kedvezményeket, beleértve a jogosultsági és igénylési feltételeket is,
 
 d) a fenntartó nevelési-oktatási intézmény munkájával összefüggő értékelésének nyilvános megállapításait és idejét, a köznevelési alapfeladattal kapcsolatos – nyilvános megállapításokat tartalmazó – vizsgálatok, ellenőrzések felsorolását, idejét, az Állami Számvevőszék ellenőrzéseinek nyilvános megállapításait, egyéb ellenőrzések, vizsgálatok nyilvános megállapításait,
 
@@ -75,3 +75,5 @@ b) a működés rendjét,
 c) a nevelési-oktatási intézményekkel, pedagógiai szakszolgálat esetén a szülőkkel való kapcsolattartás formáját és módját,
 
 d) tanévenkénti bontásban a díjfizetés mellett igénybe vehető szolgáltatásokat, azok díjtételeit.
+
+[^54]: A 23. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 8. pontja szerint módosított szöveg.

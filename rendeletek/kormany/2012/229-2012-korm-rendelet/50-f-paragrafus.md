@@ -1,3 +1,3 @@
-## 50/E. §[^210] 2015. január-április hónapokra a kincstár a 2014. évre e rendelet alapján megállapított köznevelési célú támogatásokat megállapító határozat alapján, külön kérelem benyújtása nélkül – a Magyarország 2015. évi központi költségvetéséről szóló törvény alapján megszűnt jogcímek és a 2014. december 31-éig megszűnt intézmények, feladatellátási helyek kivételével – a 2014. december hónapra folyósított támogatásnak megfelelő összegű támogatási előleget folyósít a köznevelési intézmény fenntartója, továbbá a bevett egyház számára.
+## 50/E. §[^225]
 
-[^210]: Az 50/E. §-t a 365/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^225]: Az 50/E. §-t a 365/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 10. pontja.

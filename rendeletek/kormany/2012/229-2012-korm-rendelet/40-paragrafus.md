@@ -14,7 +14,7 @@ e) köznevelési intézmény esetében a gyermekétkeztetés ellátásának mód
 
 f) sajátos nevelési igényű gyermekek, tanulók ellátása esetén a sajátos nevelési igényt megalapozó fogyatékosságnak a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve és a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve szerinti meghatározását,
 
-g) szakképzés esetén feladatellátási helyenként és munkarendenként a szakképesítés megnevezését, azonosító számát, szakgimnázium esetén az Országos Képzési Jegyzékben meghatározottak szerinti ágazat megnevezését, továbbá annak a tényét, hogy a gyakorlati képzés megszervezéséhez az iskolai tanműhely rendelkezésre áll-e,
+g)[^188] szakgimnázium esetén feladatellátási helyenként és munkarendenként a programkövetelményben meghatározottak szerint a szakmai képzés megnevezését és azonosító számát, szakiskola esetén feladatellátási helyenként és munkarendenként a szakma megnevezését, a hozzá kapcsolódó szakmairányt, a szakmajegyzékben meghatározott azonosító számot, a szakma szintjét, valamint azt, hogy a szakmai oktatás megszervezéséhez iskolai tanműhely rendelkezésre áll-e,
 
 h) alapfokú művészetoktatás esetén feladatellátási helyenként a művészeti ágakat, azon belül a tanszakok megnevezését, valamint művészeti áganként azt a legmagasabb tanulólétszámot, amelyet az alapfokú művészeti iskola fogadni képes,
 
@@ -32,8 +32,11 @@ c) meg kell vizsgálni, hogy az épület befogadóképessége alapján biztosít
 
 d) a köznevelési intézmények esetében meg kell vizsgálni, hogy nem lépik-e át a befogadó intézmény alapító okiratában engedélyezett maximális létszámot.
 
-(4) Ha a szakképző iskola fenntartója saját gyakorlati oktatási hely hiányában úgy nyilatkozik, hogy a gyakorlati képzés folytatója részben vagy egészben nem a szakképző iskola, a megyeszékhely szerinti járási hivatal az (1) bekezdésben foglalt eljárása keretében vizsgálja a szakképzési törvényben kijelölt, a gyakorlati képzés folytatására jogosult szervezetek nyilvántartását vezető szerv bevonásával, hogy a nyilatkozatban megjelöltek szerint a gyakorlati képzés feltételei biztosítottak-e.
+(4)[^189]
 
 (5) A megyeszékhely szerinti járási hivatal az Nkt. 21. § (8) bekezdésében foglaltakon túl a köznevelési intézményt törli a nyilvántartásból, ha elutasítja a működési engedély kiadását.
 
 (6) A megyeszékhely szerinti járási hivatal a köznevelési intézmény nyilvántartásba vételéről, adatainak megváltozásáról, illetve a megyeszékhely szerinti járási hivatal által vezetett nyilvántartásból való törléskor 15 napon belül értesítést küld a KIR számára, továbbá értesíti a költségvetési hozzájárulást folyósító szervet.
+
+[^188]: A 40. § (2) bekezdés g) pontja a 13/2020. (II. 7.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
+[^189]: A 40. § (4) bekezdését a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 3. pontja hatályon kívül helyezte.

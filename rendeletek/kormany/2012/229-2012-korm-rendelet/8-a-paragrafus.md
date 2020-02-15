@@ -1,9 +1,9 @@
-8/A. §[^30] (1)[^31] Ha a tankerületi központ az Nkt. 21. § (2) bekezdése alapján nyilvántartásba vétel céljából megküldi a Hivatal számára a köznevelési intézményének alapító okiratát, a Hivatal – figyelemmel a 4. § (1) bekezdésben foglaltakra – megkeresi a köznevelési intézményt, illetve a köznevelési intézmény székhelye szerint illetékes tankerületet vagy megyeközponti tankerületet közérdekű és közérdekből nyilvános, de még nem ismert adataik közlése céljából.
+8/A. §[^32] (1)[^33] Ha a tankerületi központ az Nkt. 21. § (2) bekezdése alapján nyilvántartásba vétel céljából megküldi a Hivatal számára a köznevelési intézményének alapító okiratát, a Hivatal – figyelemmel a 4. § (1) bekezdésben foglaltakra – megkeresi a köznevelési intézményt, illetve a köznevelési intézmény székhelye szerint illetékes tankerületet vagy megyeközponti tankerületet közérdekű és közérdekből nyilvános, de még nem ismert adataik közlése céljából.
 
 (2) Változás-bejelentéskor az (1) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a fenntartó a köznevelési intézmény módosított alapító okiratát és a bejelentés okát tartalmazó döntést küldi meg.
 
-(3)[^32] A tankerületi központ alapító okiratát – beleértve annak módosítását is – a kincstár küldi meg a Hivatalnak.
+(3)[^34] A tankerületi központ alapító okiratát – beleértve annak módosítását is – a kincstár küldi meg a Hivatalnak.
 
-[^30]: A 8/A. §-t a 73/2013. (III. 8.) Korm. rendelet 20. §-a iktatta be.
-[^31]: A 8/A. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^32]: A 8/A. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^32]: A 8/A. §-t a 73/2013. (III. 8.) Korm. rendelet 20. §-a iktatta be.
+[^33]: A 8/A. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^34]: A 8/A. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.

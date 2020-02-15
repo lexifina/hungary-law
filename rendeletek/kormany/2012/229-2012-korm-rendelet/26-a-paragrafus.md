@@ -1,4 +1,4 @@
-## 11/A. [^56] A lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer és a rendszerbe történő adatszolgáltatás rendje
+## 11/A. [^61] A lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer és a rendszerbe történő adatszolgáltatás rendje
 
 26/A. § (1) A lemorzsolódás megelőzését szolgáló korai jelző- és pedagógiai támogató rendszer (a továbbiakban: támogató rendszer) a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatása céljából a tanulói előrehaladás iskolai szintű nyomon követését szolgáló informatikai rendszer.
 
@@ -10,7 +10,7 @@
 
 (5) A Hivatal október 30-áig tájékoztatást ad a miniszternek a megelőző tanév járási szintű adatainak megoszlásáról, és áttekintést ad az intézményi, valamint a pedagógiai-szakmai szolgáltatás részéről megtett intézkedésekről.
 
-(6)[^57]
+(6)[^62]
 
-[^56]: A 11/A. alcímet (26/A. §-t) a 354/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be.
-[^57]: A 26/A. § (6) bekezdését a 354/2016. (XI. 18.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 278/2019. (XI. 21.) Korm. rendelet 6. §-a.
+[^61]: A 11/A. alcímet (26/A. §-t) a 354/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be.
+[^62]: A 26/A. § (6) bekezdését a 354/2016. (XI. 18.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 278/2019. (XI. 21.) Korm. rendelet 6. §-a.

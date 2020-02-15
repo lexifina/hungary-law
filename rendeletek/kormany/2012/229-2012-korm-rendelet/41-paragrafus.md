@@ -12,7 +12,7 @@
 
 4.2. amennyiben nem a fenntartó az épület tulajdonosa, az épület feletti rendelkezési jog időtartamának kezdő és befejező dátumát,
 
-4.3. a köznevelési feladat megkezdésének tervezett dátumát,
+4.3.[^190] a köznevelésialapfeladat-ellátás megkezdésének tervezett dátumát,
 
 4.4. az épületbe felvehető maximális gyermek- és tanulólétszámot,
 
@@ -30,7 +30,7 @@
 
 4.11. az óvoda napi nyitvatartási idejét, a nyitás és a zárás időpontját,
 
-4.12. szakképzés esetén a szakképesítés megnevezését, azonosító számát és szakgimnázium esetén az ágazat megnevezését az Országos Képzési Jegyzékben meghatározottak szerint, a gyakorlati képzés megszervezésének módját (iskolai tanműhely, tanulószerződés alapján, megállapodás keretében, munkarendenként),
+4.12.[^191] szakgimnázium és szakiskola esetén a 40. § (2) bekezdés g) pontjában meghatározottakat,
 
 4.13. alapfeladatonként és munkarendenként a legmagasabb gyermek- és tanulói létszámot,
 
@@ -42,15 +42,15 @@
 
 a) a köznevelési intézmény pedagógiai programját,
 
-b) pedagógiai szakszolgálati intézmény esetében az oktatásért felelős miniszter szándéknyilatkozatát a pedagógiai szakszolgálati tevékenységre irányuló köznevelési szerződés megkötéséről,
+b)[^192] pedagógiai szakszolgálati intézmény esetében a miniszter szándéknyilatkozatát a pedagógiai szakszolgálati tevékenységre irányuló köznevelési szerződés megkötéséről,
 
 c) a fenntartói igazolást arról, hogy a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek feletti rendelkezési jog a köznevelési intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított (megállapodás, hozzájáruló nyilatkozat),
 
 d) annak igazolását, hogy a helyiségek a köznevelési intézmény feladatainak ellátására alkalmasak,
 
-e) szakképző iskola esetén annak ismertetését, hogy a gyakorlati oktatást milyen módon szervezik meg, saját gyakorlati oktatási hely hiányában a gyakorlati oktatási hely biztosítására kötött megállapodást vagy nyilatkozatot arról, hogy a gyakorlati képzést tanulószerződés alapján végzik,
+e)[^193]
 
-f) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket a vonatkozó jogszabályok szerinti kötelező (minimális) eszköz- és felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket , valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét, szakképző iskola esetén a gyakorlati képzésre vonatkozó felszerelési jegyzéket,
+f)[^194] a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket a vonatkozó jogszabályok szerinti kötelező (minimális) eszköz- és felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket , valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét,
 
 g) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön az óvodai nevelésben, az iskolai nevelésben-oktatásban, a pedagógiai szakmai szolgáltatást nyújtó intézményben és a pedagógiai szakszolgálati intézményben foglalkoztatott pedagógusok, pedagógiai előadók, pedagógiai szakértők, óraadók listáját, feltüntetve a nevüket, végzettségüket és szakképzettségüket, iskola esetén tantárgyi bontásban, valamint a pedagógus,a pedagógiai előadó, a pedagógiai szakértő munkakör betöltésére jogosító végzettséget és szakképzettséget tanúsító oklevél kiállítóját és az oklevélszámát, a tantárgyfelosztást, továbbá a működéshez szükséges többi alkalmazott nevét, végzettségét és szakképzettségét, foglalkoztatásuk módját és időtartamát, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a munkához szükséges, jogszabályban meghatározott személyi feltételek biztosítottak,
 
@@ -61,3 +61,9 @@ ha) a köznevelési intézmény egészére vonatkozóan a székhelyre és valame
 hb) a fenntartó által jóváhagyott egy évre szóló költségvetést, amely tartalmazza a működéshez szükséges befektetett eszközök és forgóeszközök beszerzési értékét, a dologi és személyi kiadások összegét, utóbbiba beleértve az alkalmazottak bérét, annak közterheit és a tanulói juttatások költségeit, valamint
 
 hc) a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
+
+[^190]: A 41. § (1) bekezdés 4. pont 4.3. alpontja a 13/2020. (II. 7.) Korm. rendelet 73. § 11. pontja szerint módosított szöveg.
+[^191]: A 41. § (1) bekezdés 4. pont 4.12. alpontja a 13/2020. (II. 7.) Korm. rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^192]: A 41. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 12. pontja szerint módosított szöveg.
+[^193]: A 41. § (2) bekezdés e) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 4. pontja hatályon kívül helyezte.
+[^194]: A 41. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 4. pontja szerint módosított szöveg.

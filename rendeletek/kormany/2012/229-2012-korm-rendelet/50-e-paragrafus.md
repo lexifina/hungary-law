@@ -1,3 +1,3 @@
-## 50/D. §[^209] A 37. § (4) bekezdése szerinti nyilatkozatot, ha a meglévő tanulói jogviszonyok vonatkozásában ilyennel nem rendelkezik, a köznevelési intézmény 2013. december 5-éig köteles beszerezni.
+## 50/D. §[^224]
 
-[^209]: Az 50/D. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be.
+[^224]: Az 50/D. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 9. pontja.

@@ -1,8 +1,8 @@
-## IV/A. Fejezet[^177]
+## IV/A. Fejezet[^184]
 
 ## A KÖZNEVELÉSI FELADATOKAT ELLÁTÓ HATÓSÁGOK
 
-38/A. §[^178] (1) A Kormány
+38/A. §[^185] (1) A Kormány
 
 a) a fővárosi és megyei kormányhivatalt jelöli ki az Nkt. 38. § (7) bekezdésében meghatározott, az érettségi vizsga vizsgabizottsága, valamint a független vizsgabizottság döntése elleni jogorvoslat elbírálására, valamint az Nkt. 39. § (3) bekezdésében, 93. §-ában,
 
@@ -12,5 +12,5 @@ foglalt, a köznevelési feladatokat ellátó hatóság feladatainak ellátásá
 
 (2) A megyeszékhely szerinti járási hivatalok hatósági és törvényességi ellenőrzési eljárásával és döntésével összefüggésben a felügyeleti szerv számára a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvényben (a továbbiakban: Ksztv.) meghatározott jogköröket a miniszter gyakorolja.
 
-[^177]: A IV/A. fejezetet (38/A. §) a 486/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
-[^178]: A 38/A. § a 360/2019. (XII. 30.) Korm. rendelet 107. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^184]: A IV/A. fejezetet (38/A. §) a 486/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^185]: A 38/A. § a 360/2019. (XII. 30.) Korm. rendelet 107. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

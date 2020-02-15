@@ -18,19 +18,19 @@ d) a kijelölt iskolába való beíratás idejét,
 
 e) a tankötelezettség teljesítési módjának a meghatározását,
 
-f)[^184] az iskolai, óvodai fejlesztések javasolt heti óraszámát és a pedagógiai szakszolgálat keretében javasolt szolgáltatásokat, továbbá annak megjelenítését, ha a gyermek a tankötelezettségét kizárólag egyéni munkarendben teljesítheti,
+f)[^198] az iskolai, óvodai fejlesztések javasolt heti óraszámát és a pedagógiai szakszolgálat keretében javasolt szolgáltatásokat, továbbá annak megjelenítését, ha a gyermek a tankötelezettségét kizárólag egyéni munkarendben teljesítheti,
 
 g) az arról szóló tájékoztatást, hogy a gyermek, tanuló fejlődését a szakértői bizottság hivatalból megvizsgálja.
 
-(3)[^185]
+(3)[^199]
 
-(4)[^186] A tankerületi központ eljárásában szakértőként – a tankerületi központ kirendelése alapján – az a szakértői bizottság jár el, amely az eljárásban érintett szakértői véleményt kiállította.
+(4)[^200] A tankerületi központ eljárásában szakértőként – a tankerületi központ kirendelése alapján – az a szakértői bizottság jár el, amely az eljárásban érintett szakértői véleményt kiállította.
 
 (5) Az eljárásban szakértőként nem vehet részt az a szakértő, aki a (4) bekezdésben meghatározott szakértői bizottság részéről az eljárásban érintett szakértői vélemény elkészítésében részt vett.
 
-(6)[^187] A járási hivatal határozata ellen benyújtott fellebbezés alapján induló eljárásban a kormányhivatal kirendelésére diagnosztikai kérdésekben szakértőként az ELTE Gyakorló Országos Pedagógiai Szakszolgálat jár el
+(6)[^201] A járási hivatal határozata ellen benyújtott fellebbezés alapján induló eljárásban a kormányhivatal kirendelésére diagnosztikai kérdésekben szakértőként az ELTE Gyakorló Országos Pedagógiai Szakszolgálat jár el
 
-[^184]: A 43. § (2) bekezdés f) pontja a 196/2019. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^185]: A 43. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
-[^186]: A 43. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^187]: A 43. § (6) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés e) pontja, a 275/2019. (XI. 21.) Korm. rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^198]: A 43. § (2) bekezdés f) pontja a 196/2019. (VIII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^199]: A 43. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^200]: A 43. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^201]: A 43. § (6) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés e) pontja, a 275/2019. (XI. 21.) Korm. rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.

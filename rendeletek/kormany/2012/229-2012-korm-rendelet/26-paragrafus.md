@@ -1,4 +1,4 @@
-## 25/A. §[^53] Az illetékes járási hivatal az óvodába járni köteles gyermek óvodába járás alóli felmentése tényéről és hatályáról az adatszolgáltatási kötelezettségét tárgyév szeptember 1-jéig teljesíti.
+## 25/A. §[^58] Az illetékes járási hivatal az óvodába járni köteles gyermek óvodába járás alóli felmentése tényéről és hatályáról az adatszolgáltatási kötelezettségét tárgyév szeptember 1-jéig teljesíti.
 
 26. § (1) A Hivatal a köznevelési intézmény és fenntartója ellenőrzésére jogosult szervek számára a KIR honlapján zárt rendszert biztosít annak érdekében, hogy a miniszter koordinálhassa és adatokkal segíthesse a köznevelési intézményeket és a fenntartói tevékenység jogszerűségét ellenőrző hatóságok, szervek munkáját.
 
@@ -12,10 +12,10 @@ c) a munkaterven felüli ellenőrzéssel érintett köznevelési intézmény és
 
 ## rögzíti a KIR-ben.
 
-(3)[^54] A miniszter az illetékes megyeszékhely szerinti járási hivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes megyeszékhely szerinti járási hivatalnak az együttes ellenőrzésre.
+(3)[^59] A miniszter az illetékes megyeszékhely szerinti járási hivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes megyeszékhely szerinti járási hivatalnak az együttes ellenőrzésre.
 
-(4)[^55] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
+(4)[^60] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
 
-[^53]: A 25/A. §-t a 321/2019. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
-[^54]: A 26. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 12. pontja szerint módosított szöveg.
-[^55]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
+[^58]: A 25/A. §-t a 321/2019. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^59]: A 26. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^60]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.

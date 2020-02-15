@@ -1,6 +1,6 @@
-## 55. §[^220] A tankerületi központ 2018. április 30-ig megküldi esélyegyenlőségi intézkedési tervét a 21. § (1) bekezdésben meghatározott szerveknek.
+## 55. §[^235]
 
-## 20.[^221]
+## 20.[^236]
 
-[^220]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 307/2017. (X. 27.) Korm. rendelet 8. §-a iktatta be.
-[^221]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^235]: Az 55. §-t újonnan a 307/2017. (X. 27.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 15. pontja.
+[^236]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
