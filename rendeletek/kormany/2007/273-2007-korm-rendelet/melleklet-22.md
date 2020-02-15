@@ -1,4 +1,4 @@
-22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^531]
+22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^535]
 
 Az erőművi főberendezések adatai
 
@@ -10,7 +10,7 @@ A 4–6. és 9. számú mellékletben meghatározott adatszolgáltatás esetén,
 
 1.2. gyártó,
 
-1.3.[^532] gyári szám, ha az rendelkezésre áll,
+1.3.[^536] gyári szám, ha az rendelkezésre áll,
 
 1.4. gyártási év,
 
@@ -102,11 +102,5 @@ c) frissgőz nyomás (bar).
 
 8.4. frissgőz nyomása (bar),
 
-8.5. kondenzátor nyomás (bar),
-
-8.6. gőzelvétel tömegárama (t/h),
-
-8.7. gőzelvétel nyomása (bar),
-
-[^531]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
-[^532]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^535]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
+[^536]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

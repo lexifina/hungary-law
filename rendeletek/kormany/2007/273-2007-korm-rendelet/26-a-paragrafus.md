@@ -10,7 +10,7 @@ b) a (2) bekezdés szerinti fenntartó által működtetett alábbi közfeladato
 
 ba) a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények ágazati azonosítójáról és országos nyilvántartásáról szóló 226/2006. (XI. 20.) Korm. rendelet szerint ágazati azonosítóval rendelkező szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények,
 
-bb) az Oktatási Hivatal által vezetett köz- és felsőoktatási információs rendszerben szereplő köz-, és felsőoktatási intézmények,
+bb)[^133] a köznevelés információs rendszerében, a szakképzés információs rendszerében és a felsőoktatási információs rendszerben nyilvántartott köznevelési intézmények, szakképző intézmények és felsőoktatási intézmények,
 
 bc) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmények, nyilvános könyvtárak, közművelődési intézmények és a Magyar Országos Levéltár által nyilvántartott közlevéltárak,
 
@@ -18,9 +18,9 @@ bd) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXI
 
 (2) Az (1) bekezdés b) pontja szerinti fenntartónak minősül:
 
-a)[^133] a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok intézményi társulása, , az országos kisebbségi önkormányzat, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó);
+a)[^134] a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok intézményi társulása, , az országos kisebbségi önkormányzat, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó);
 
-b)[^134] az egyházi jogi személy;
+b)[^135] az egyházi jogi személy;
 
 c) az alapítvány, a közalapítvány és annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége.
 
@@ -31,5 +31,6 @@ c) az alapítvány, a közalapítvány és annak alapító okiratban jogi szemé
 [^130]: A Vhr. 26/A. §-át megelőző alcímet a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
 [^131]: A Vhr. 26/A. §-át a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
 [^132]: A Vhr. 26/A. § (1) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^133]: A Vhr. 26/A. § (2) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^134]: A Vhr. 26/A. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^133]: A Vhr. 26/A. § (1) bekezdés b) pont bb) alpontja a 13/2020. (II. 7.) Korm. rendelet 37. § 1. pontja szerint módosított szöveg.
+[^134]: A Vhr. 26/A. § (2) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^135]: A Vhr. 26/A. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
