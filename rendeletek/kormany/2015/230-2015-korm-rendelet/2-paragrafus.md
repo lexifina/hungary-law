@@ -90,7 +90,7 @@ d) a gépjárműadóról szóló törvény szerinti gépjárműadó-mentességre
 
 26. a képesítés megszerzésére vonatkozó támogatásnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
-27. a tanuló, hallgató részére a nevelési-oktatási intézmény, szakképzési intézmény, felsőoktatási intézmény, egyház, egyházi jogi személy által odaítélt tankönyv-, hangszer-, tanszer-, jegyzettámogatás, lakhatási támogatás, szakmai gyakorlat alatt vagy tanulószerződés alapján kifizetett pénzbeli juttatás, a belföldi és külföldi tanulmányi ösztöndíj;
+27.[^1] a tanuló, a képzésben részt vevő személy, a hallgató részére a nevelési-oktatási intézmény, szakképző intézmény, felsőoktatási intézmény, egyház, egyházi jogi személy által odaítélt tankönyv-, hangszer-, tanszer-, jegyzettámogatás, lakhatási támogatás, szakmai gyakorlat alatt vagy szakképzési munkaszerződés alapján kifizetett pénzbeli juttatás, a belföldi és külföldi tanulmányi ösztöndíj;
 
 28. a munkáltatótól
 
@@ -114,7 +114,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 36. az adós által a jogi segítségnyújtás keretében igénybe vett pénzbeli támogatásnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
-37.[^1] az egészségügyi és szociális intézményben a gondozottak részére kifizetett munkaterápiás jutalomnak, illetve a fejlesztési foglalkoztatási óradíjnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
+37.[^2] az egészségügyi és szociális intézményben a gondozottak részére kifizetett munkaterápiás jutalomnak, illetve a fejlesztési foglalkoztatási óradíjnak az öregségi nyugdíj legkisebb összegét meg nem haladó havi összege;
 
 38. a kötött felhasználású diákhitelként folyósított összeg, továbbá a szabad felhasználású diákhitelként folyósított összegből az öregségi nyugdíj legkisebb összegének felét meg nem haladó havi összeg vagy az ennek megfelelő összegű félévenként egyösszegben folyósított hitel;
 
@@ -140,4 +140,5 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 (2) Az adós által az adósságrendezés időtartama alatt megszerzett örökség csak a hagyatéki tartozások kielégítését követően vonható be az adósságrendezési eljárásba. Az adós a hagyatéki eljárásban köteles kérni az eljáró közjegyzőt, hogy a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 65. § (1) bekezdése szerint bocsásson ki felhívást az ismeretlen hagyatéki tartozások jogosultjai részére.
 
-[^1]: A 2. § (1) bekezdés 37. pontja a 448/2016. (XII. 19.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés 27. pontja a 13/2020. (II. 7.) Korm. rendelet 106. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 37. pontja a 448/2016. (XII. 19.) Korm. rendelet 58. §-a szerint módosított szöveg.
