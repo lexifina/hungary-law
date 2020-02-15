@@ -10,7 +10,7 @@ ab) a munkakör betöltésére jogosító felsőfokú iskolai végzettségnek é
 
 ac) a munkakör betöltésére jogosító felsőfokú iskolai végzettség és szakképzettség megléte esetén további, a pedagógus-munkakör, a nevelő és oktató munkát közvetlenül segítő munkakör, a vezetői feladatok ellátásához szükséges, felsőfokú végzettségi szintet igazoló oklevél vagy szakirányú továbbképzésben szerzett oklevél, tanítói szakképzettség megléte esetén további, a képzési és kimeneti követelmények szerinti műveltségi terület követelményeinek teljesítését igazoló oklevél,
 
-ad) a szakmai elméleti, szakmai előkészítő tantárgyat oktató, szakmai előkészítő, szakmai alapozó, pályaorientáció, szakmai orientáció, szakmacsoportos alapozó oktatást végző, valamint gyakorlati képzést végző pedagógus esetén a szakirányú végzettség és szakképzettség mellett felsőfokú, vagy felsőoktatási, vagy az Országos Képzési Jegyzékben szereplő emelt szintű szakképesítés vagy az első pedagógus oklevél,
+ad)[^18]
 
 ae) az Nkt. 98–99. §-ában felsorolt végzettség, szakképzettség mellett az Nkt. 3. mellékletében meghatározott felsőfokú iskolai végzettség és szakképzettség,
 
@@ -24,7 +24,7 @@ ai) az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról 
 
 aj) a kultúráért felelős miniszter által akkreditált továbbképzés elvégzését igazoló okirat, valamint a felsőoktatási intézmény által folytatott, kulturális területre vonatkozó képzések, szakirányú továbbképzések elvégzését igazoló oklevél és
 
-ak) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában dolgozó, mérnöktanár végzettséggel rendelkező szakmai tanár esetében a megszerzett szakmérnöki szakképzettség
+ak)[^19]
 
 ## megszerzésével;
 
@@ -32,7 +32,7 @@ b) a következő, bármelyik továbbképzésen
 
 ba) két tanítási nyelvű iskolai oktatásban célnyelven tanító pedagógus a célnyelv szerinti országban, idegen nyelvet oktató pedagógus a nyelv szerinti országban, nyelvi felkészítésben,
 
-bb)[^18] nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben-oktatásban részt vevő pedagógus a nemzetiség nyelve szerinti országban, továbbá a nemzetiségek nyelvén oktató, kultúrájukat ápoló külföldi intézményekben nyelvi felkészítésben, valamint népismeret, országismeret oktatásával összefüggő továbbképzésben,
+bb)[^20] nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben-oktatásban részt vevő pedagógus a nemzetiség nyelve szerinti országban, továbbá a nemzetiségek nyelvén oktató, kultúrájukat ápoló külföldi intézményekben nyelvi felkészítésben, valamint népismeret, országismeret oktatásával összefüggő továbbképzésben,
 
 bc) héber nyelven nevelő, tanító pedagógus Izraelben nyelvi felkészítésben, illetve népismeret, országismeret oktatásával összefüggő továbbképzésben,
 
@@ -40,11 +40,11 @@ bd) az Európa Tanács Pestalozzi programjában, az Európa Tanács Élő Nyelve
 
 ## való részvétellel;
 
-c) az Új Magyarország Fejlesztési Terv Társadalmi Megújulás Operatív Programban (a továbbiakban: Új Magyarország Fejlesztési Terv) részt vevő intézményekben szervezett továbbképzések során szerzett tapasztalatok (szakmai ankétok, fórumok, pedagógiai napok, bemutató órák keretében történő) átadásával, a pedagógiai gyakorlat tapasztalatainak elemzésével, a bevált eljárások megismertetését szolgáló komplex, gyakorlati tapasztalatcsere útján, amennyiben az Új Magyarország Fejlesztési Terv programjában részt vevő, a tapasztalatokat átadó (referencia) közoktatási intézmény és a tapasztalatokat átvevő (innovatív) közoktatási intézmény pedagógusai közösen szervezik meg a továbbképzést, és azon az innovatív közoktatási intézmény pedagógusainak legalább hetven százaléka részt vesz.
+c)[^21] az Új Magyarország Fejlesztési Terv Társadalmi Megújulás Operatív Programban (a továbbiakban: Új Magyarország Fejlesztési Terv) részt vevő intézményekben szervezett továbbképzések során szerzett tapasztalatok (szakmai ankétok, fórumok, pedagógiai napok, bemutató órák keretében történő) átadásával, a pedagógiai gyakorlat tapasztalatainak elemzésével, a bevált eljárások megismertetését szolgáló komplex, gyakorlati tapasztalatcsere útján, amennyiben az Új Magyarország Fejlesztési Terv programjában részt vevő, a tapasztalatokat átadó (referencia) köznevelési intézmény és a tapasztalatokat átvevő (innovatív) köznevelési intézmény pedagógusai közösen szervezik meg a továbbképzést, és azon az innovatív köznevelési intézmény pedagógusainak legalább hetven százaléka részt vesz.
 
 (3) Az (1) bekezdésben foglalt hétévenkénti továbbképzés legfeljebb huszonöt százaléka teljesíthető az e bekezdésben foglaltak útján együttesen:
 
-a)[^19] köznevelési kutatást támogató ösztöndíjas programban való részvétellel,
+a)[^22] köznevelési kutatást támogató ösztöndíjas programban való részvétellel,
 
 b) gyakornoki felkészítésben szakmai segítőként való részvétellel,
 
@@ -52,7 +52,7 @@ c) nem szervezett, a szakmai felkészültség gyarapítását, képesség fejles
 
 d) harminc foglalkozási óránál rövidebb, nem akkreditált képzésben való részvétellel, amennyiben a képzési idő legalább az öt órát eléri,
 
-e)[^20] a köznevelési intézmény felkérésére szervezett szaktanácsadói tevékenység keretében az érintett nevelőtestület, illetve pedagógusközösség számára nyújtott szaktanácsadáson történő részvétellel, feltéve, hogy az elemző értékelő tevékenység az érintett pedagógusok részvételével történik.
+e)[^23] a köznevelési intézmény felkérésére szervezett szaktanácsadói tevékenység keretében az érintett nevelőtestület, illetve pedagógusközösség számára nyújtott szaktanácsadáson történő részvétellel, feltéve, hogy az elemző értékelő tevékenység az érintett pedagógusok részvételével történik.
 
 (4) A (2) bekezdés b) pontjában felsoroltakon való részvétellel akkor lehet teljesíteni a továbbképzés követelményeit, ha a munkáltató az elvégzést tanúsító okirat vagy a képzési program és a résztvevő írásbeli beszámolója alapján a továbbképzést elfogadja, feltéve, ha annak ideje legalább öt hét. Ha a továbbképzés ideje nem éri el az öt hetet, a részvételi időt naponként hat tanórai foglalkozásként kell beszámítani a hétévenkénti továbbképzés teljesítésébe.
 
@@ -64,11 +64,14 @@ e)[^20] a köznevelési intézmény felkérésére szervezett szaktanácsadói t
 
 (8) Szakmai megújító képzésnek minősülnek – az ag) és ah) pont kivételével – a (2) bekezdésben és a (3) bekezdés a) pontjában felsoroltak. Szakmai megújító képzés lehet a munkakör ellátásához szükséges iskolai végzettséghez és szakképzettséghez kapcsolódó legalább hatvan órás felkészítést biztosító minden olyan képzés, amelyet pedagógusképzést folytató felsőoktatási intézmény szervez, vagy a pedagógusképzést folytató felsőoktatási intézménnyel kötött megállapodás alapján szervezik, és biztosítja a 4. § (3) bekezdésben meghatározottak megvalósítását. A pedagógus teljesítményértékelés alapján a munkáltató az e bekezdésben meghatározottakon kívül más továbbképzést is elfogadhat szakmai megújító képzésnek.
 
-(9)[^21] Vezetőképzés a pedagógus-szakvizsgára történő felkészítés, pedagógus-szakvizsga megléte esetén másik olyan pedagógus-szakvizsgára történő felkészítés, amelynek során intézményvezetői szakképzettséget lehet szerezni. Vezetőképzés lehet a felsőoktatás keretében folyó, a jogi, a közgazdasági, a pénzügyi szakképzettség megszerzésére irányuló felkészítő képzés, valamint a legalább hatvan órás felkészítést biztosító minden olyan képzés, amely biztosítja a köznevelési intézmények vezetéséhez szükséges tanügy-igazgatási, korszerű pedagógiai szervezési, korszerű pedagógiai taneszköz alkalmazási ismeretek elsajátítását.
+(9)[^24] Vezetőképzés a pedagógus-szakvizsgára történő felkészítés, pedagógus-szakvizsga megléte esetén másik olyan pedagógus-szakvizsgára történő felkészítés, amelynek során intézményvezetői szakképzettséget lehet szerezni. Vezetőképzés lehet a felsőoktatás keretében folyó, a jogi, a közgazdasági, a pénzügyi szakképzettség megszerzésére irányuló felkészítő képzés, valamint a legalább hatvan órás felkészítést biztosító minden olyan képzés, amely biztosítja a köznevelési intézmények vezetéséhez szükséges tanügy-igazgatási, korszerű pedagógiai szervezési, korszerű pedagógiai taneszköz alkalmazási ismeretek elsajátítását.
 
 [^16]: Az 5. § a 93/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^17]: Az 5. § (2) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^18]: Az 5. § (2) bekezdés b) pont bb) alpontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 4., 5. és 6. pontja szerint módosított szöveg.
-[^19]: Az 5. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
-[^20]: Az 5. § (3) bekezdés e) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
-[^21]: Az 5. § (9) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^18]: Az 5. § (2) bekezdés a) pont ad) alpontját a 13/2020. (II. 7.) Korm. rendelet 11. § 1. pontja hatályon kívül helyezte.
+[^19]: Az 5. § (2) bekezdés a) pont ak) alpontját a 13/2020. (II. 7.) Korm. rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^20]: Az 5. § (2) bekezdés b) pont bb) alpontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 4., 5. és 6. pontja szerint módosított szöveg.
+[^21]: Az 5. § (2) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^22]: Az 5. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^23]: Az 5. § (3) bekezdés e) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^24]: Az 5. § (9) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.

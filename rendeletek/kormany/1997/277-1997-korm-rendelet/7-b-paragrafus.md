@@ -1,4 +1,4 @@
-7/B. §[^46] (1) Az alapítási engedély jogosultja harmadik személynek a továbbképzés indítására írásban megkötött szerződésben engedélyt adhat, ennek tényéről – a szerződés másolatának, valamint szervezet esetében a létesítő okirat másolatának megküldésével – a szerződés megkötésétől számított nyolc napon belül az engedélyt kapott harmadik személy tájékoztatja a Hivatalt. A Hivatal a program indítására jogot szerzett személyekről – természetes személy esetén az adatkezeléshez történő önkéntes hozzájárulás alapján – nyilvántartást vezet.
+7/B. §[^49] (1) Az alapítási engedély jogosultja harmadik személynek a továbbképzés indítására írásban megkötött szerződésben engedélyt adhat, ennek tényéről – a szerződés másolatának, valamint szervezet esetében a létesítő okirat másolatának megküldésével – a szerződés megkötésétől számított nyolc napon belül az engedélyt kapott harmadik személy tájékoztatja a Hivatalt. A Hivatal a program indítására jogot szerzett személyekről – természetes személy esetén az adatkezeléshez történő önkéntes hozzájárulás alapján – nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -20,4 +20,4 @@ bd) indítási nyilvántartási számát,
 
 c) azt a határidőt, amely időpontig a szervezőnek az alapító engedélyezte a továbbképzés megszervezését.
 
-[^46]: A 7/B. §-t a 346/2013. (IX. 30.) Korm. rendelet 7. §-a iktatta be.
+[^49]: A 7/B. §-t a 346/2013. (IX. 30.) Korm. rendelet 7. §-a iktatta be.
