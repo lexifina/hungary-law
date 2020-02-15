@@ -98,9 +98,9 @@
 
 ## IV. Képzések, továbbképzések, tudományos tevékenység, szakmai elismerés:
 
-## 1. A tárgyidőszakban a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai által elkezdett vagy befejezett képzések, továbbképzések száma, ezek típusa (felsőoktatási alap, és mesterképzés, osztatlan képzés, felsőfokú szakképzés, felnőttképzés, OKJ képzés, jogszabályban előírt továbbképzés.
+## 1.[^84] A tárgyidőszakban a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai által elkezdett vagy befejezett képzések, továbbképzések száma, ezek típusa.
 
-## 2. A tárgyidőszakban olyan folyamatban lévő vagy befejezett képzések, továbbképzések száma, ezek típusa (felsőoktatási alap-, és mesterképzés, osztatlan képzés, felsőfokú szakképzés, felnőttképzés, OKJ képzés, jogszabályban előírt továbbképzés), amelyben a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai közül oktatóként vettek részt.
+## 2.[^85] A tárgyidőszakban olyan folyamatban lévő vagy befejezett képzések, továbbképzések száma, ezek típusa, amelyben a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai közül oktatóként vettek részt.
 
 ## 3. A tárgyidőszakban volt-e olyan folyamatban lévő tudományos kutatási program, amelyben a felszámoló szervezet részt vett (ha igen, a kutatási program megnevezése, az azonosítására vonatkozó adat, és a kutatási programot indító intézmény neve).
 
@@ -124,10 +124,12 @@
 
 ## 6. Van-e ISO minősítése, és ennek érvényessége.
 
-3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^84]
+3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^86]
 
 [^80]: A 2. melléklet II. 6. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^81]: A 2. melléklet II. 23. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
 [^82]: A 2. melléklet II. 24. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^83]: A 2. melléklet II. 25. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^84]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^84]: A 2. melléklet IV. pont 1. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
+[^85]: A 2. melléklet IV. pont 2. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
+[^86]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
