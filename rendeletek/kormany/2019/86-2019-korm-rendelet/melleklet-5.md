@@ -120,9 +120,9 @@ A kormányablakban azonnal intézhető ügyek
 
 59. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlatának kiadása iránti kérelem
 
-60.[^13] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
+60.[^15] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
 
-61.[^14] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
+61.[^16] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
 
-[^13]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
-[^14]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^15]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^16]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.

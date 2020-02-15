@@ -34,7 +34,7 @@ feladatok.
 
 (5) E rendelet alkalmazásában, a kormányhivatalok kormánytisztviselőinek és kormányzati ügykezelőinek továbbképzéséhez és előírható képzési és továbbképzési kötelezettségeihez kapcsolódóan
 
-1. belső továbbképzés: a kormányzati igazgatási szerv, felsőoktatási vagy felnőttképzési intézmény által folytatott szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
+1.[^1] belső továbbképzés: az olyan szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
 
 2. egyéni továbbképzési terv: a kormányzati szolgálati jogviszonyban álló tárgyévre meghatározott továbbképzési kötelezettségeinek és egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
 
@@ -65,3 +65,5 @@ feladatok.
 15. tananyagköltség: a képesítéshez, szakképzettséghez kapcsolódó jegyzetek, tankönyvek, egyéb tanulási segédletek beszerzési ára;
 
 16. utazási költség: a kormányhivatalok kormánytisztviselői lakóhelye vagy tartózkodási helye, valamint az oktatási esemény helyszíne között – a képzésen, vizsgán történő részvétel céljából – helyközi (távolsági) utazással az oktatási eseményre utazás és hazautazás díja.
+
+[^1]: Az 1. § (5) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.

@@ -2,15 +2,15 @@
 
 A járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzési hatáskörébe tartozó jogszabálysértések
 
-1.[^10]
+1.[^12]
 
 2. A fogyasztóvédelem területén:
 
 2.1. a fogyasztóknak megvételre kínált termék eladási áráról és egységáráról, illetve a szolgáltatás díjáról szóló tájékoztatás hiánya,
 
-2.2.[^11]
+2.2.[^13]
 
-2.3.[^12]
+2.3.[^14]
 
 2.4. magyar nyelven kiadott sajtótermékben, magyar nyelvű rádió-, illetve televízió-műsorban, továbbá szabadtéri reklámhordozón közzétett gazdasági reklámban a reklám szövegének magyar nyelven történő megjelenítésének elmulasztása,
 
@@ -82,6 +82,6 @@ A járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrz�
 
 6.3. a nemdohányzó intézményekben a feliratok, jelzések hiánya.
 
-[^10]: A 4. melléklet 1. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^11]: A 4. melléklet 2. pont 2.2. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^12]: A 4. melléklet 2. pont 2.3. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 4. melléklet 1. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^13]: A 4. melléklet 2. pont 2.2. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: A 4. melléklet 2. pont 2.3. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
