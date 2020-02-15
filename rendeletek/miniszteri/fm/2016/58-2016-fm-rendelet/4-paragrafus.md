@@ -1,1 +1,0 @@
-## 3. § Az e rendelet hatálybalépésekor folyamatban lévő képzéseket és vizsgákat – ideértve a javító- és pótlóvizsgákat is – a földművelésügyi ágazathoz tartozó szakképesítésekre szervezhető mesterképzés szakmai és vizsgakövetelményeinek kiadásáról szóló 27/1996. (X. 4.) FM rendeletben foglaltaknak megfelelően kell befejezni.
