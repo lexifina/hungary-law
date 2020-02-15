@@ -18,13 +18,13 @@ h)[^14] a 9. alcím szerinti rehabilitációs tanácsadót, a 10. alcím szerint
 
 i)[^15]
 
-j) az eredményes rehabilitációhoz – valamint tranzitfoglalkoztatás esetén a nyílt munkaerőpiacra történő sikeres kihelyezéshez – szükséges képzési lehetőségeket saját maga vagy felnőttképzést megvalósító intézmény bevonásával biztosítja és
+j)[^16] az eredményes rehabilitációhoz – valamint tranzitfoglalkoztatás esetén a nyílt munkaerőpiacra történő sikeres kihelyezéshez – szükséges képzési lehetőségeket biztosítja és
 
-k)[^16]
+k)[^17]
 
 (2) Az (1) bekezdésben meghatározott feltételek fennállása esetén sem adható rehabilitációs akkreditációs tanúsítvány, ha
 
-a)[^17] a munkáltatót a kérelem benyújtását megelőző hat hónapon belül a munkavédelemről szóló 1993. évi XCIII. törvény 82. §-a alapján munkavédelmi bírság megfizetésére kötelezték, és a vizsgált időszakban véglegessé vált határozatok szerint kiszabott bírságok együttes összege elérte a kérelem benyújtását megelőző hónap létszáma szerint
+a)[^18] a munkáltatót a kérelem benyújtását megelőző hat hónapon belül a munkavédelemről szóló 1993. évi XCIII. törvény 82. §-a alapján munkavédelmi bírság megfizetésére kötelezték, és a vizsgált időszakban véglegessé vált határozatok szerint kiszabott bírságok együttes összege elérte a kérelem benyújtását megelőző hónap létszáma szerint
 
 aa) legfeljebb kétszáz munkavállalót foglalkoztató munkáltató esetén a kötelező legkisebb munkabér ötszörösét,
 
@@ -36,11 +36,12 @@ c) a munkáltató végelszámolás, csődeljárás, felszámolási eljárás, k�
 
 (3) Költségvetési szerv részére rehabilitációs akkreditációs tanúsítvány nem adható.
 
-(4)[^18] Nem adható rehabilitációs akkreditációs tanúsítvány olyan munkáltató részére, aki az akkreditációs eljárás során valótlan, megtévesztő vagy hamis nyilatkozatot tesz, illetve valótlan adattal támasztja alá kérelmét. A kérelem ebből az okból történő visszautasítása esetén a munkáltató, illetve jogutódja a visszautasítástól számított két év elteltével nyújthat be újabb rehabilitációs akkreditációs tanúsítvány iránti kérelmet.
+(4)[^19] Nem adható rehabilitációs akkreditációs tanúsítvány olyan munkáltató részére, aki az akkreditációs eljárás során valótlan, megtévesztő vagy hamis nyilatkozatot tesz, illetve valótlan adattal támasztja alá kérelmét. A kérelem ebből az okból történő visszautasítása esetén a munkáltató, illetve jogutódja a visszautasítástól számított két év elteltével nyújthat be újabb rehabilitációs akkreditációs tanúsítvány iránti kérelmet.
 
 [^13]: A 2. § (1) bekezdés b) pontja a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^14]: A 2. § (1) bekezdés h) pontja a 402/2017. (XII. 15.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
 [^15]: A 2. § (1) bekezdés i) pontját a 304/2018. (XII. 27.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^16]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
-[^17]: A 2. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 418. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^18]: A 2. § (4) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 7. §-a iktatta be.
+[^16]: A 2. § (1) bekezdés j) pontja a 13/2020. (II. 7.) Korm. rendelet 78. §-a szerint módosított szöveg.
+[^17]: A 2. § (1) bekezdés k) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^18]: A 2. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 418. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 2. § (4) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 7. §-a iktatta be.
