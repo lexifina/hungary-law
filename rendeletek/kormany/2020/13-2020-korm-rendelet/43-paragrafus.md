@@ -1,0 +1,3 @@
+## 42. § A Magyar Népköztársaság Kormánya és az Iraki Köztársaság Kormánya között Budapesten, 1959. évi április hó 11. napján aláírt kulturális egyezmény kihirdetéséről szóló 110/2008. (IV. 30.) Korm. rendelet 3. § (2) bekezdésében az „az oktatásért” szövegrész helyébe az „az oktatásért felelős miniszter és szakképzésért” szöveg lép.
+
+## 37. A Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőháza Végrehajtó Tanácsa között a tudományos, oktatási és kulturális együttműködésről Belgrádban, 1986. március 24-én aláírt egyezmény kihirdetéséről szóló 112/2008. (IV. 30.) Korm. rendelet módosítása

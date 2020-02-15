@@ -1,0 +1,3 @@
+## 106. § A természetes személyek adósságrendezési eljárásában az adósságrendezésbe nem tartozó vagyonról és bevételekről szóló 230/2015. (VIII. 12.) Korm. rendelet 2. § (1) bekezdés 27. pontjában a „tanuló, hallgató” szövegrész helyébe a „tanuló, a képzésben részt vevő személy, a hallgató” szöveg, a „szakképzési” szövegrész helyébe a „szakképző” szöveg, a „tanulószerződés” szövegrész helyébe a „szakképzési munkaszerződés” szöveg lép.
+
+## 85. A 2016/2017. tanévre vonatkozó szakmaszerkezeti döntésről és a 2016/2017. tanévben induló képzések tanulmányi ösztöndíjra jogosító szakképesítéseiről szóló 297/2015. (X. 13.) Korm. rendelet hatályon kívül helyezése

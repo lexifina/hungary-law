@@ -1,0 +1,3 @@
+## 34. § A Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény kihirdetéséről szóló 162/2007. (VI. 27.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért” szövegrész helyébe az „az oktatásért felelős miniszter, a szakképzésért” szöveg lép.
+
+## 29. A Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti oktatási, tudományos, kulturális, sport- és ifjúsági együttműködésről szóló Egyezmény Szerbia Köztársaság vonatkozásában történő kihirdetéséről szóló 164/2007. (VI. 27.) Korm. rendelet módosítása
