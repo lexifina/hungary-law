@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-445-20-
 | 2017-12-01 | 2013-445-20-22.13 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2018-01-01 | 2013-445-20-22.14 | 113/2016. (V. 30.) Korm. rendelet |
 | 2019-01-01 | 2013-445-20-22.15 | 193/2015. (VII. 21.) Korm. rendelet |
+| 2020-02-15 | 2013-445-20-22.16 | 13/2020. (II. 7.) Korm. rendelet |

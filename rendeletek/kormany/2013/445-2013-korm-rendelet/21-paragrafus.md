@@ -1,4 +1,4 @@
-21. § (1)[^91] A kormányhivatal a szakhatósági állásfoglalás kiadását megelőzően a harmadik országbeli állampolgár szakképzettségének, vagy végzettségének megfelelőségére vonatkozó döntés előkészítése érdekében kétség esetén belföldi jogsegély keretében megkeresi a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságot.
+21. § (1)[^92] A kormányhivatal a szakhatósági állásfoglalás kiadását megelőzően a harmadik országbeli állampolgár szakképzettségének, vagy végzettségének megfelelőségére vonatkozó döntés előkészítése érdekében kétség esetén belföldi jogsegély keretében megkeresi a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságot.
 
 (2) Az (1) bekezdés szerinti külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság igazolja, hogy
 
@@ -10,7 +10,7 @@ b) EU Kék Kártya kiadására irányuló eljárásban nem szabályozott szakma 
 
 (4) A tevékenység ellátásához szükséges szakképzettséget, iskolai végzettséget igazoló okirat tekintetében a 12. § (3)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-(5)[^92]
+(5)[^93]
 
-[^91]: A 21. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^92]: A 21. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (18) bekezdés b) pontja hatályon kívül helyezte.
+[^92]: A 21. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^93]: A 21. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (18) bekezdés b) pontja hatályon kívül helyezte.
