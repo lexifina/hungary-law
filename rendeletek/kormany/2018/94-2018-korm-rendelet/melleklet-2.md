@@ -166,6 +166,6 @@
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^72]
+2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^83]
 
-[^72]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^83]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.

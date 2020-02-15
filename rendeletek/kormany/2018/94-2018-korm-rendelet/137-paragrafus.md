@@ -1,15 +1,22 @@
 ## 136. § A miniszter a tudománypolitika koordinációjáért való felelőssége keretében – az oktatásért felelős miniszter közreműködésével – felel a kutatási, fejlesztési és innovációs ügyek finanszírozásáért, valamint külön törvényben biztosított feladat- és hatásköröket láthat el.
 
-137. § (1) A miniszter a szakképzésért és felnőttképzésért való felelőssége keretében előkészíti a szakképzésre, a szakképzési hozzájárulásra, a felsőfokú szakképzésre, a szakképző intézmények fenntartására, a felnőttképzésre és a köznevelés rendszerén belül a szakképzésre vonatkozó jogszabályokat.
+137. § (1)[^62] A miniszter a szakképzésért való felelőssége keretében előkészíti a szakképzésre, a szakképzési hozzájárulásra, a szakképző intézmények fenntartására, a szakképzésre vonatkozó jogszabályokat.
 
-(2) A miniszter a szakképzésért és felnőttképzésért való felelőssége keretében
+(2)[^63] A miniszter a szakképzésért való felelőssége keretében
 
-a) meghatározza a szakképzés megkezdésének és folytatásának feltételeit, a tanulószerződés alapján a tanulókat megillető juttatások részletes szabályait,
+a)[^64] kidolgozza a szakképzés megkezdésének és folytatásának feltételeit, a szakképzési munkaszerződés alapján a tanulókat, illetve a képzésben részt vevőket megillető juttatások részletes szabályait,
 
-b) meghatározza a szakmai vizsgáztatás általános szabályait és eljárási rendjét, valamint a szakmai vizsgák adatait tartalmazó központi nyilvántartás vezetésének szabályait,
+b)[^65] kidolgozza a szakmai vizsgáztatás általános szabályait és eljárási rendjét, valamint a szakmai vizsgák adatait tartalmazó központi nyilvántartás vezetésének szabályait,
 
-c) elkészíti és kiadja az országos szakmai szakértői névjegyzéket és az országos szakmai vizsgaelnöki névjegyzéket,
+c)[^66]
 
 d) meghatározza és rendszeresen felülvizsgálja a szakképzés irányait és a beiskolázás arányait,
 
-e) közreműködik a köznevelési és a felsőoktatási rendszer működtetésével és továbbfejlesztésével kapcsolatos állami feladatok végrehajtásában, valamint az oktatásért felelős miniszter iskolai rendszerű szakképzést érintő feladatainak ellátásában.
+e)[^67] közreműködik a köznevelési és a felsőoktatási rendszer működtetésével és továbbfejlesztésével kapcsolatos állami feladatok végrehajtásában,.
+
+[^62]: A 137. § (1) bekezdése a 13/2020. (II. 7.) Korm. rendelet 135. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^63]: A 137. § (2) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 135. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^64]: A 137. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 134. § 1. pontja szerint módosított szöveg.
+[^65]: A 137. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 134. § 2. pontja szerint módosított szöveg.
+[^66]: A 137. § (2) bekezdés c) pontját a 13/2020. (II. 7.) Korm. rendelet 135. § (2) bekezdése hatályon kívül helyezte.
+[^67]: A 137. § (2) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 135. § (1) bekezdés 5. pontja szerint módosított szöveg.
