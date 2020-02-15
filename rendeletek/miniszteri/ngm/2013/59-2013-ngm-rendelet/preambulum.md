@@ -1,1 +1,0 @@
-A felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (2) bekezdés e) pontjában kapott felhatalmazás alapján – az egyes minisztereknek, valamint a Miniszterelnökséget vezető Államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 73. § n) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
