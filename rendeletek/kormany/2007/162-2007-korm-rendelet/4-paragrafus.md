@@ -204,8 +204,9 @@
 
 (3) A szerződés, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a szakképzésért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.
 
 [^2]: A 3. § – a 4. § (2) bekezdése alapján – a szerződés 21. cikkében meghatározott időpontban lép hatályba. A hatálybalépés időpontja a 30/2007. (X. 6.) KüM határozat alapján 2007. október 18. napja.
 [^3]: A 4. § (2) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 61. pontja hatályon kívül helyezte.
 [^4]: Lásd a 30/2007. (X. 6.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 34. §-a szerint módosított szöveg. [Nem vezethető át a 238/2022. (VI. 30.) Korm. rendelet 55. §-ában foglalt módosítás, mely szerint az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.]
