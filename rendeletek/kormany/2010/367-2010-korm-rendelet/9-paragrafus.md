@@ -6,14 +6,13 @@
 
 (3) A MÁÉRT mellett szakbizottságok működnek. A szakbizottságok az egyes szakterületekre vonatkozóan elvi-szakmai iránymutatást adnak és ajánlásokat fogalmaznak meg a források elosztására.
 
-(4) A MÁÉRT mellett négy szakbizottság működik:
+(4)[^10] A MÁÉRT mellett két szakbizottság működik:
 
-a) a Külügyi és Jogi,
+a) a Gazdasági, Digitális, Önkormányzati, Jogi, Védelmi és Biztonságpolitikai, valamint
 
-b) az Oktatási és Kulturális,
+b) az Oktatási, Kulturális, Demográfiai és Ifjúsági Szakbizottság.
 
-c) a Gazdaságfejlesztési és Önkormányzati, valamint
+(5)[^11]
 
-d) a Szórvány Szakbizottság.
-
-(5) A Szórvány Szakbizottságon belül két albizottság működik, a Diaszpóra és a Kárpát-medencei Szórvány Albizottság.
+[^10]: A 9. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (5) bekezdését a 13/2020. (II. 7.) Korm. rendelet 52. § (2) bekezdése hatályon kívül helyezte.
