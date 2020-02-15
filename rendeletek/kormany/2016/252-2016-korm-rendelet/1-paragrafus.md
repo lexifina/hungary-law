@@ -1,3 +1,0 @@
-1. § (1) A Szabóky Adolf Szakképzési Ösztöndíj (a továbbiakban: ösztöndíj) az első, az adott tanévre vonatkozó kormányrendeletben meghatározott hiány-szakképesítések körébe tartozó szakképesítésre felkészítő, államilag támogatott nappali, iskolai rendszerű szakképzésben részt vevő tanulók részére, tanulmányi eredményük alapján nyújtható.
-
-(2) A szakképzésről szóló 2011. évi CLXXXVII. törvény 81. §-ában meghatározott fővárosi, megyei fejlesztési és képzési bizottság (a továbbiakban: bizottság) megyénként legfeljebb 20, az adott megyében ösztöndíjra jogosító hiány-szakképesítésre minden év március hó utolsó munkanapjáig tesz javaslatot a szakképzésért és felnőttképzésért felelős miniszter (a továbbiakban: miniszter) részére.

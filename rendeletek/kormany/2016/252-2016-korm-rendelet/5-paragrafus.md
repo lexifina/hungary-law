@@ -1,7 +1,0 @@
-5. § (1) Az ösztöndíj folyósításával kapcsolatos feladatokat az Nkt. 7. § (1) bekezdésének d)–f) pontjában meghatározott köznevelési intézmény vagy a szakképzésről szóló törvény 4/B. § (1) bekezdésében meghatározott szakképzési centrum (a továbbiakban együtt: nevelési-oktatási intézmény) végzi. A nevelési-oktatási intézményt az ösztöndíj folyósításából eredő többletfeladatai ellátására és az ezzel összefüggésben felmerülő költségek fedezetére az általa kifizetett ösztöndíj 2 százalékának megfelelő lebonyolítási díj illeti meg.
-
-(2) A nevelési-oktatási intézmény a tanuló részére az ösztöndíjat fizetési számlára történő átutalással folyósítja. Ha a tanuló nem rendelkezik saját fizetési számlával, az ösztöndíjat a tanuló szülőjének vagy gyámjának a fizetési számlájára lehet folyósítani.
-
-(3) A nevelési-oktatási intézmény az ösztöndíjat minden hónap 28. napjáig folyósítja a tanuló részére azzal az eltéréssel, hogy az adott félév első két hónapjára járó ösztöndíj a második hónapban egy összegben kerül átutalásra, a július és augusztus hónapra járó ösztöndíj a június hónapban járó ösztöndíjjal egy időben kerül átutalásra.
-
-(4) Ha a nevelési-oktatási intézmény önellenőrzés keretében, illetve valamely más szerv vagy személy jelzése alapján megállapítja, hogy nem folyósított ösztöndíjat az arra jogosult tanuló részére, köteles haladéktalanul intézkedni az ösztöndíj folyósítása érdekében.
