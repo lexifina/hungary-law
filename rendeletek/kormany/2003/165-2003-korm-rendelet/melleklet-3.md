@@ -122,7 +122,7 @@
 
 a) a Lakossági Tájékoztatási Tervben található tájékoztatási módok, valamint a Baleset-elhárítási Intézkedési Tervben kidolgozott lehetséges óvintézkedések ismertetése az érintett lakosság körében,
 
-b) radiológiai ismeretek beépítése a közoktatási, felsőoktatási tantervekbe, programokba, tematikákba,
+b)[^14] radiológiai ismeretek beépítése a köznevelési, szakképzési, felsőoktatási tantervekbe, programokba, tematikákba,
 
 c) a hatóság és üzemeltető szervezet tájékoztató kiadványainak terjesztése,
 
@@ -145,3 +145,5 @@ d) az elektronikus posta eszközei,
 e) a sajtó,
 
 f) az Országos Nukleárisbaleset-elhárítási Rendszer szerveinek, szervezeteinek Internet honlapjai.
+
+[^14]: A 3. számú melléklet 1. pont b) alpontja a 13/2020. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
