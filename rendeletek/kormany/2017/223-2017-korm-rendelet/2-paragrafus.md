@@ -16,6 +16,8 @@
 
 7. rendkívüli pénztárellenőrzés: a külképviselet vezetőjének utasítására legalább félévente elrendelt, a pénztárellenőr által végrehajtott rendkívüli, váratlan és átfogó ellenőrzés.
 
-8. pénzügyi-számviteli képesítés: az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendeletben és a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló miniszteri rendeletben meghatározott közgazdasági szakmacsoportba tartozó vagy azokkal megfeleltethető, valamint az engedélyezés szempontjából ezzel egyenértékű szakképesítés, részszakképesítés vagy szakképesítés, ráépülés, a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 79. §-a szerinti okleveles könyvvizsgálói vagy az engedélyezés szempontjából ezzel egyenértékű szakképesítés;
+8.[^2]
 
 9. realizált árfolyam-különbözet: a külföldi pénzértékre vonatkozó kötelezettséghez, követeléshez kapcsolódó, a pénzügyi teljesítés során elszámolt realizált árfolyamveszteség, illetve árfolyamnyereség.
+
+[^2]: A 2. § 8. pontját a 13/2020. (II. 7.) Korm. rendelet 123. §-a hatályon kívül helyezte.

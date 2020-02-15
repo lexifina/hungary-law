@@ -1,6 +1,6 @@
 18. § (1) A külképviselet gazdálkodásának összetettségére, a külképviselet tagjainak létszámára, a külképviselet által kezelt állami tulajdonú ingatlanok méretére és egyéb, a gazdálkodást befolyásoló körülményekre figyelemmel, a kihelyező vezető közjogi szervezetszabályozó eszközben állapítja meg azon külképviseletek körét, amelyeknél a külképviselet gazdálkodásával kapcsolatos feladatokat a külképviselet vezetőjének közvetlen irányításával külképviseleti gazdasági vezető látja el.
 
-(2)[^9] A külképviselet gazdasági vezetője tevékenysége ellátása során szervezi és irányítja a külképviselet gazdálkodási feladatait. A kihelyező szerv döntése alapján munkáját gazdasági felelős és gazdasági ügyintéző, valamint adminisztratív technikai személyzet is segítheti. A kihelyező szerv erre irányuló döntése hiányában a külképviselet gazdasági vezetője köteles ellátni a gazdasági felelős, valamint a gazdasági ügyintéző tartós külszolgálati munkakörébe tartozó feladatokat is.
+(2)[^10] A külképviselet gazdasági vezetője tevékenysége ellátása során szervezi és irányítja a külképviselet gazdálkodási feladatait. A kihelyező szerv döntése alapján munkáját gazdasági felelős és gazdasági ügyintéző, valamint adminisztratív technikai személyzet is segítheti. A kihelyező szerv erre irányuló döntése hiányában a külképviselet gazdasági vezetője köteles ellátni a gazdasági felelős, valamint a gazdasági ügyintéző tartós külszolgálati munkakörébe tartozó feladatokat is.
 
 (3) A külképviselet gazdasági vezetője a külképviselet vezetője által meghatározott szakmai feladatok gazdálkodási, technikai, logisztikai ellátásáért felel. Irányítja, felügyeli és ellenőrzi a külképviselet gazdálkodásában részt vevők tevékenységét.
 
@@ -16,9 +16,9 @@ c) az iskoláztatási költségtérítésre való jogosultság alátámasztásá
 
 d) a kihelyezett és vele együtt az állomáshelyen tartózkodó, a Külszoltv. 2. § 8. pontja szerinti hozzátartozójának egészségügyi ellátása kapcsán felmerülő kiadások alakulásának figyelemmel kíséréséért, az átlagostól jelentősen eltérő gyakoriságú egészségügyi vizsgálatok, ellátásigénylés esetén, ennek a külképviselet-vezető részére történő jelzéséért;
 
-e)[^10] a tartós külszolgálati munkaköri leírásában rögzítettek szerint a külképviselet gazdálkodásában részt vevők – vagy azok valamelyikének, valamint a Külszoltv. 2. § 15. és 16. pontja szerint foglalkoztatottak – munkavégzésének irányításáért, felügyeletéért és
+e)[^11] a tartós külszolgálati munkaköri leírásában rögzítettek szerint a külképviselet gazdálkodásában részt vevők – vagy azok valamelyikének, valamint a Külszoltv. 2. § 15. és 16. pontja szerint foglalkoztatottak – munkavégzésének irányításáért, felügyeletéért és
 
 f) a tárgyévi rendes éves szabadsága ideje alatt a kihelyező szervnél történő személyes beszámolásért.
 
-[^9]: A 18. § (2) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
-[^10]: A 18. § (5) bekezdés e) pontja a 127/2019. (V. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^10]: A 18. § (2) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^11]: A 18. § (5) bekezdés e) pontja a 127/2019. (V. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

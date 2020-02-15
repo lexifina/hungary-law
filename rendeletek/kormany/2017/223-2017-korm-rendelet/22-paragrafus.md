@@ -10,6 +10,6 @@ d) a feladatkörét érintően közreműködik a beszerzések lebonyolításába
 
 e) feladatkörét érintően irányítja, felügyeli a külképviselet szerződéses külső szolgáltatóinak tevékenységét.
 
-(2)[^13] A gondnok tartós külszolgálati munkakört elláthatja a Külszoltv. szerint tartós külszolgálatra kihelyezett, valamint a Külszoltv. 2. § 15. és 16. pontja szerint foglalkoztatott munkavállaló is.
+(2)[^14] A gondnok tartós külszolgálati munkakört elláthatja a Külszoltv. szerint tartós külszolgálatra kihelyezett, valamint a Külszoltv. 2. § 15. és 16. pontja szerint foglalkoztatott munkavállaló is.
 
-[^13]: A 22. § (2) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^14]: A 22. § (2) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
