@@ -2,13 +2,13 @@
 
 2. § (1)[^7] E rendelet alkalmazásában:
 
-a) felnőttképzési intézmény: a felnőttképzésről szóló törvényben szabályozott feltételeknek megfelelő, engedéllyel rendelkező, felnőttképzést folytató intézmény;
+a)[^8]
 
-b) belső továbbképzés: közigazgatási szerv, felsőoktatási vagy felnőttképzési intézmény által folytatott szakmai továbbképzés, amely a megrendelő közigazgatási szerv számára speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít;
+b)[^9] belső továbbképzés: közigazgatási szerv, felsőoktatási intézmény vagy felnőttképző által folytatott továbbképzés vagy szakmai képzés, amely a megrendelő közigazgatási szerv számára speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít;
 
 c) egyéni továbbképzési terv: a közszolgálati tisztviselő tárgyévre meghatározott tanulmányi kötelezettségeinek és egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
 
-d) egyszerűsített nyilvántartásba vétel: a belső továbbképzési program és az azt megvalósító közigazgatási szerv, felsőoktatási vagy felnőttképzési intézmény nyilvántartásba vétele, amelynek eredményeként a továbbképzési program felkerül a továbbképzési programjegyzékre;
+d)[^10] egyszerűsített nyilvántartásba vétel: a belső továbbképzési program és az azt megvalósító közigazgatási szerv, felsőoktatási intézmény, felnőttképző nyilvántartásba vétele, amelynek eredményeként a továbbképzési program felkerül a továbbképzési programjegyzékre;
 
 e) éves továbbképzési terv: a munkáltatónál foglalkoztatott kormánytisztviselők, köztisztviselők egyéni továbbképzési terveinek összessége;
 
@@ -33,3 +33,6 @@ m) továbbképzési programminősítés: továbbképzési programok megfelelős�
 (3) A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, illetve nemzetközi konferenciára, tanulmányútra a belső továbbképzési programra vonatkozó szabályokat kell alkalmazni.
 
 [^7]: A 2. § (1) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § (1) bekezdés a) pontját a 13/2020. (II. 7.) Korm. rendelet 76. § 1. pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 1. pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés d) pontja a 13/2020. (II. 7.) Korm. rendelet 75. § 2. pontja szerint módosított szöveg.
