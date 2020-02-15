@@ -18,6 +18,6 @@
 
 ## a kiállító cégszerű aláírása
 
-3. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^43]
+3. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^42]
 
-[^43]: A 3. számú mellékletet a 227/2007. (VIII. 31.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 120/2012. (VI. 26.) Korm. rendelet 2. §-a.
+[^42]: A 3. számú mellékletet a 227/2007. (VIII. 31.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 120/2012. (VI. 26.) Korm. rendelet 2. §-a.

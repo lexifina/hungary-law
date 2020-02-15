@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-85-20-2
 | 2019-07-01 | 2007-85-20-22.31 | 301/2007. (XI. 9.) Korm. rendelet |
 | 2019-10-05 | 2007-85-20-22.32 | 120/2012. (VI. 26.) Korm. rendelet |
 | 2020-01-01 | 2007-85-20-22.33 | 311/2019. (XII. 18.) Korm. rendelet |
+| 2020-02-15 | 2007-85-20-22.34 | 13/2020. (II. 7.) Korm. rendelet |
