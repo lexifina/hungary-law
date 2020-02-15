@@ -1,3 +1,0 @@
-24. § (1) A felügyelő a vizsgázók részére tájékoztatást ad a vizsga szabályairól, az alkalmazható segédeszközökről, továbbá a vizsgán elkövetett szabálytalanságok következményeiről, elkészíti a vizsgázók ülésrendjét tartalmazó jegyzőkönyvet, és gondoskodik a vizsga rendjének betartásáról.
-
-(2) A szakmai és vizsgakövetelmény által az írásbeli, az interaktív vagy a központi gyakorlati vizsgafeladat kidolgozására előírt időtartamba a feladat ismertetésének időtartama nem számít bele. Az interaktív vizsgafeladat megoldására rendelkezésre álló időtartamba nem számítható be a vizsgázónak fel nem róható okból kieső idő.

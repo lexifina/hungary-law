@@ -1,7 +1,0 @@
-58. § (1) Amennyiben a vizsgára vagy annak egyes vizsgarészeire, vizsgatevékenységeire a vizsgáztató állandó lakóhelyétől eltérő helységben kerül sor, úgy a vizsgáztatót a vizsgáztatási díj mellett utazási és szállásköltség illeti meg.
-
-(2) Az utazási költség elszámolása tömegközlekedési eszköz igénybevétele esetén a menetjegy, saját gépjármű használata esetén a személyi jövedelemadóról szóló törvény, valamint a munkába járással kapcsolatos utazási költségtérítésről szóló kormányrendelet előírásai alapján történik. Vasút igénybevétele esetén 2. osztályú menetjegy számolható el.
-
-(3) Az utazási eszközt a vizsgáztató választja meg oly módon, hogy a jelenlétét igénylő vizsganapokon a vizsga, vizsgatevékenységek megkezdése előtt, a pontos kezdést lehetővé tevő időpontban a helyszínre tudjon érkezni. Amennyiben a rendelkezésre álló közlekedési eszközökkel e feltétel nem biztosítható, vagy a vizsgáztató a vizsgaszervezővel szállásköltség megtérítéséről állapodott meg, úgy a vizsgáztató éjszakánként legfeljebb a minimálbér tizenöt százalékának megfelelő összeghatárig szállást vehet igénybe. A szállásköltség elszámolása a vizsgaszervező, vagy ha a vizsgaszervező e költség térítésére vonatkozóan is írásbeli megállapodást kötött a képző intézménnyel, akkor a képző intézmény nevére szóló számla alapján történik.
-
-(4) A vizsgaszervező – a vizsgáztatóval történt megegyezés alapján – gondoskodhat az utaztatásról és a szállásról, amely esetben a vizsgáztatót külön utazási, és szállásköltség nem illeti meg.
