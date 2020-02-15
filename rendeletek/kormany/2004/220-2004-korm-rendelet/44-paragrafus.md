@@ -1,3 +1,3 @@
-## 43. §[^195]
+## 43. §[^196]
 
-[^195]: A 43. §-t a 368/2004. (XII. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^196]: A 43. §-t a 368/2004. (XII. 26.) Korm. rendelet 4. §-a hatályon kívül helyezte.

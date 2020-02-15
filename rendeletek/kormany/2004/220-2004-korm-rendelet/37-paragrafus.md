@@ -1,6 +1,6 @@
 ## Egyéb jogkövetkezmények
 
-37. § (1)[^129] Abban az esetben, ha a kibocsátó a vízvédelmi hatóság által jóváhagyott szennyezéscsökkentési ütemtervet neki felróható módon nem hajtja végre, vagy nem az előírt ütemben teljesíti, a vízvédelmi hatóság a szennyező tevékenységet részben vagy egészében korlátozhatja, felfüggesztheti, megtilthatja, a települési szennyvíztisztító telepek, a közszolgáltatást végző, létfenntartási, közegészségügyi, közoktatási és tűz- és katasztrófavédelmi feladatokat ellátó intézmények kivételével.
+37. § (1)[^129] Abban az esetben, ha a kibocsátó a vízvédelmi hatóság által jóváhagyott szennyezéscsökkentési ütemtervet neki felróható módon nem hajtja végre, vagy nem az előírt ütemben teljesíti, a vízvédelmi hatóság a szennyező tevékenységet részben vagy egészében korlátozhatja, felfüggesztheti, megtilthatja, a települési szennyvíztisztító telepek, a közszolgáltatást végző, létfenntartási, közegészségügyi, köznevelési, szakképző és tűz- és katasztrófavédelmi feladatokat ellátó intézmények kivételével.
 
 (2) Ha a kibocsátó a szennyezéscsökkentési ütemtervben foglaltak megvalósítása után, a türelmi időn belül nem teljesíti a kibocsátási határértéket, akkor a bírságot a 39. § (3) bekezdésben foglalt kedvezmény mellőzésével kell megállapítani és kiszabni.
 
@@ -12,8 +12,9 @@
 
 a) meglévő létesítmények esetében a türelmi idő lejárta utáni első év végéig,
 
-b) új létesítmények esetében a (4) bekezdés szerinti teljesítési határidő végéig
+b)[^132] új létesítmények esetében a (4) bekezdés szerinti teljesítési határidő végéig
 
-[^129]: A 37. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^129]: A 37. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
 [^130]: A 37. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
 [^131]: A 37. § (5) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^132]: [A 37. § (5) bekezdés b) pontjában a 13/2020. (II. 7.) Korm. rendelet 23. § 3. pontjával elrendelt módosítás, amely szerint a „közoktatási” szövegrész helyébe a „köznevelési, szakképző” szöveg lép, nem vezethető át.]
