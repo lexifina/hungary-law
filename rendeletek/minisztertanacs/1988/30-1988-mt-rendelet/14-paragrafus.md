@@ -1,3 +1,3 @@
-14. §[^24]
+14. §[^26]
 
-[^24]: Az R. 14. §-át a 88/1990. (IV. 30.) MT rendelet 2.számú melléklete hatályon kívül helyezte.
+[^26]: Az R. 14. §-át a 88/1990. (IV. 30.) MT rendelet 2.számú melléklete hatályon kívül helyezte.

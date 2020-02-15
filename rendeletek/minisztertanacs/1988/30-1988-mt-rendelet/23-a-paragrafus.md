@@ -1,4 +1,4 @@
-23/A. §[^31] (1)[^32] A Tv. 32. §-ának (3) bekezdésében szabályozott eljárás megindítására irányuló kérelmet indokolni kell. A kérelemhez – a 23/B. §-ban foglaltak figyelembevételével – mellékelni kell:
+23/A. §[^33] (1)[^34] A Tv. 32. §-ának (3) bekezdésében szabályozott eljárás megindítására irányuló kérelmet indokolni kell. A kérelemhez – a 23/B. §-ban foglaltak figyelembevételével – mellékelni kell:
 
 a) a forgalmi adatokat, azok változását (pl. a forgalom nagysága, a forgalom összetétele),
 
@@ -10,8 +10,8 @@ d) az átadó és az átvevő útkezelő előzetes megállapodását az átadás
 
 e) az átadni kívánt út vagy útszakasz főbb műszaki és minőségi adatait.
 
-(2)[^33] Az átvevő félnek kell a változásoknak az ingatlan-nyilvántartáson való átvezetéséhez szükséges megállapodás megkötését kezdeményeznie és az út tulajdonjogának ingatlan-nyilvántartási bejegyzését kérelmeznie.
+(2)[^35] Az átvevő félnek kell a változásoknak az ingatlan-nyilvántartáson való átvezetéséhez szükséges megállapodás megkötését kezdeményeznie és az út tulajdonjogának ingatlan-nyilvántartási bejegyzését kérelmeznie.
 
-[^31]: Az R. 23/A. §-át a 104/1999. ( VII. 6.) Korm. rendelet 10. §-a iktatta a szövegbe.
-[^32]: Az R. 23/A. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 10. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: Az R. 23/A. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: Az R. 23/A. §-át a 104/1999. ( VII. 6.) Korm. rendelet 10. §-a iktatta a szövegbe.
+[^34]: Az R. 23/A. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 10. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: Az R. 23/A. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
