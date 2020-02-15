@@ -1,5 +1,0 @@
-14. § (1) A 11. §, valamint a 12. § alapján nyújtott támogatás kizárólag a 651/2014/EU bizottsági rendelet szabályaival összhangban nyújtható.
-
-(2) Az (1) bekezdésben meghatározott támogatás esetén a belső képzés költsége képzésenként elkülönítetten nyilvántartott és kizárólag az elszámolható költségeket tartalmazó számviteli bizonylatok, a külső képzés költsége pedig a képzésenként kiállított számla és az ahhoz csatolt, csak az elszámolható költségeket tartalmazó, a felnőttképzést folytató intézmény által cégszerűen aláírt analitikus költségkimutatás alapján számolható el.
-
-(3) Az (1) bekezdésben meghatározott támogatás esetében a támogatáshalmozás jogszerűsége megállapíthatóságának érdekében a támogatás iránti kérelem benyújtásakor a támogatást kérelmezőnek nyilatkoznia kell, hogy részesül-e olyan, a 651/2014/EU bizottsági rendelet hatálya alá tartozó, vagy az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatásban, amelynek a képzési támogatással azonos vagy részben azonos elszámolható költségei vannak.

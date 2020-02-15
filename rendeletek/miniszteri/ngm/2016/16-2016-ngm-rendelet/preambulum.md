@@ -1,1 +1,0 @@
-A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 23. § (2) bekezdés a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1., 2. és 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

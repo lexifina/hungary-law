@@ -1,1 +1,0 @@
-## 10. § Egyedi döntési eljárás alapján támogatás nyújtható a gazdasági kamarákról szóló törvény hatálya alá tartozó gazdasági kamarák részére a felnőttképzés érdekében végzett, a 2. § 5. pont b)–d) és h)–j) alpontjában meghatározott fejlesztő tevékenység ellátásához, valamint az Fktv.-ben rögzített feladatai ellátásához.

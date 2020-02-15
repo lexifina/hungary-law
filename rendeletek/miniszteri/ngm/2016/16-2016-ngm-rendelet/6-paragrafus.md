@@ -1,3 +1,0 @@
-6. § (1) Egyedi döntési eljárás alapján támogatás nyújtható a Nemzeti Szakképzési és Felnőttképzési Hivatal (a továbbiakban: NSZFH) részére a felnőttképzés érdekében végzett, a 2. § 5. pontjában meghatározott fejlesztő tevékenységhez.
-
-(2) Egyedi döntési eljárás alapján támogatás nyújtható a szakképesítésért felelős miniszter által a szakképzésről szóló 2011. évi CLXXXVII. törvény 73. § (4) bekezdése alapján működtetett kutató és fejlesztő-szolgáltató tevékenységet folytató költségvetési szerv részére a felnőttképzés érdekében végzett, a 2. § 5. pont e)–f) és i) alpontjában meghatározott fejlesztő tevékenységhez.
