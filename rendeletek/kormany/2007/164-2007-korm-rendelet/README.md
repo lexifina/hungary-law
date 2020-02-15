@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-164-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-06-05 | 2007-164-20-22.2 | 164/2007. (VI. 27.) Korm. rendelet |
+| 2020-02-15 | 2007-164-20-22.3 | 13/2020. (II. 7.) Korm. rendelet |
