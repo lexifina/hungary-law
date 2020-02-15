@@ -22,10 +22,10 @@ a) a méhanyanevelő telepként üzemeltetni kívánt méhészet méhanyanevelé
 
 b) a kérelemben megadott méhfajta tenyésztésében érintett tenyésztőszervezet igazolását az üzemeltető méhészetének a fajta tenyésztési programjában való részvételéről és az üzemeltető legalább 3 éves, a tenyésztőszervezet tenyésztési programjában meghatározott állománylétszámmal végzett szakmai gyakorlatáról.
 
-(4) A méhanyanevelő telepként üzemeltetni kívánt méhészet méhanyanevelési tevékenységét irányító személynek
+(4)[^2] A méhanyanevelő telepként üzemeltetni kívánt méhészet méhanyanevelési tevékenységét irányító személynek
 
-a) szakirányú felsőfokú végzettséggel vagy
+a) szakirányú felsőfokú végzettséggel, középfokú szakképzettséget tanúsító szakmával vagy ezekkel egyenértékű szakképesítéssel és
 
-b) legalább az Országos Képzési Jegyzékben szereplő szakirányú szakképesítéssel, vagy
+b) az adott méhfajta tenyésztőszervezete által igazolt, legalább 3 év méhészeti szakmai gyakorlattal
 
-c) az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet hatálybalépését megelőzően megszerzett, az a) vagy b) pontban szereplő szakképesítéssel egyenértékű szakképesítéssel,
+[^2]: A 78. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (1) bekezdésével megállapított szöveg.

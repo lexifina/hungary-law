@@ -1,7 +1,7 @@
-## 91. §[^2]
+## 91. §[^4]
 
 92. § (1) Ez a rendelet a fajtatiszta tenyészállatok, hibrid tenyészsertések és szaporítóanyagaik Unión belüli tenyésztésének, kereskedelmének és az Unióba történő beléptetésének tenyésztéstechnikai és származástani feltételeiről, a 652/2014/EU rendelet, a 89/608/EGK és a 90/425/EGK tanácsi rendelet módosításáról, valamint az állattenyésztés tárgyában hozott egyes jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. június 8-i (EU) 2016/1012 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^2]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
