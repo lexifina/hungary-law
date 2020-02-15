@@ -1,4 +1,4 @@
-171. §[^765] (1) Az Áht. 108. § (3) bekezdés a) és b) pontja szerinti bírság mértéke – elmulasztott adatszolgáltatásonként – legalább ötvenezer, legfeljebb kétmillió forint. A bírság összegének megállapításakor a Kincstár a kötelezettségszegés súlyát és ismétlődő jellegét mérlegeli.
+171. §[^768] (1) Az Áht. 108. § (3) bekezdés a) és b) pontja szerinti bírság mértéke – elmulasztott adatszolgáltatásonként – legalább ötvenezer, legfeljebb kétmillió forint. A bírság összegének megállapításakor a Kincstár a kötelezettségszegés súlyát és ismétlődő jellegét mérlegeli.
 
 (2) Az Áht. 108. § (3) bekezdés c) pontja szerinti, költségvetési évenkénti, egyszeri bírság mértéke legalább ötvenezer, de legfeljebb kétmillió forint. A bírság összegének megállapításakor a Kincstár a szabad kiadási előirányzatokat meghaladó kötelezettségvállalások nagyságrendjét mérlegeli.
 
@@ -6,4 +6,4 @@
 
 (4) Az Áht. 108. § (3) bekezdés c) pontja szerinti bírság kivételével a bírság kötelezettje a bírság mérséklése vagy részletekben történő megfizetése tekintetében a határozat kézhezvételét követő nyolc napon belül kérelmet terjeszthet elő.
 
-[^765]: Az Ávr. 171. §-a a 310/2018. (XII. 27.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^768]: Az Ávr. 171. §-a a 310/2018. (XII. 27.) Korm. rendelet 28. §-ával megállapított szöveg.
