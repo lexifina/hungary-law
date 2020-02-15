@@ -4,10 +4,12 @@
 
 a) az egészségügyért felelős miniszter által kiadott Országos Szakmai Szakértői Jegyzéken szereplő szakértőt,
 
-b) a 2. § szerinti szakképesítés tekintetében képzésre jogosult, felnőttképzésre akkreditált oktatási intézményt,
+b)[^1] a 2. § szerinti szakképesítésre történő felkészítést szervező felnőttképzőt,
 
 c) a mérgező termékekkel Magyarországon a 2. § szerinti szakképesítés alapján szakmai tevékenységet végzők szakmai szervezetét
 
 ## rendelheti ki.
 
 (3) A szakértő – az Elismerési tv. szerinti feltételek fennállása tekintetében, az (1) bekezdés szerinti kirendelés keretei között – megvizsgálja a szakmai tevékenységgel, a tevékenység végzésének idejével, a betöltött munkakörrel, valamint a szakmai tevékenységhez felhasznált mérgező termékekkel összefüggő körülményeket, továbbá a szakmai gyakorlattal összefüggő minden egyéb ismert, az elismerés szempontjából lényeges körülményt.
+
+[^1]: A 6. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 131. §-a szerint módosított szöveg.
