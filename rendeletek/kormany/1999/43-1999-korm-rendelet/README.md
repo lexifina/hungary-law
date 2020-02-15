@@ -94,3 +94,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2020-01-01 | 1999-43-20-22.164 | 328/2019. (XII. 20.) Korm. rendelet |
 | 2020-02-01 | 1999-43-20-22.165 | 4/2020. (I. 31.) Korm. rendelet |
 | 2020-02-05 | 1999-43-20-22.166 | 7/2020. (I. 31.) Korm. rendelet |
+| 2020-02-15 | 1999-43-20-22.167 | 365/2010. (XII. 30.) Korm. rendelet |

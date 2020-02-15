@@ -14,7 +14,7 @@ oktatási intézményben ellátott gyermek után 1
 
 gyógypedagógiai oktatási intézményben ellátott tanuló után 2
 
-(3)[^189] A külön jogszabályban előírt, teljes vagy részmunkaidőben iskola- és ifjúság-egészségügyi feladatokat ellátó védőnővel működő iskola- és ifjúság-egészségügyi szolgálat a 20. § (2) bekezdése szerint megadott, illetve e § (13) bekezdése szerint évente korrigált létszám figyelembevételével számított pontérték alapján részesül díjazásban. Az ellátandók közül az oktatási intézménybe járó gyermek 1 ponttal, a gyógypedagógia ellátásban közreműködő közoktatási intézménybe járó gyermek 2 ponttal vehető számításba. Az oktatási intézményekben létszámarányosan napi 8 óránál kevesebb munkaidőre is köthető finanszírozási szerződés.
+(3)[^189] A külön jogszabályban előírt, teljes vagy részmunkaidőben iskola- és ifjúság-egészségügyi feladatokat ellátó védőnővel működő iskola- és ifjúság-egészségügyi szolgálat a 20. § (2) bekezdése szerint megadott, illetve e § (13) bekezdése szerint évente korrigált létszám figyelembevételével számított pontérték alapján részesül díjazásban. Az ellátandók közül az oktatási intézménybe járó gyermek 1 ponttal, a gyógypedagógia ellátásban közreműködő köznevelési intézménybe járó gyermek 2 ponttal vehető számításba. Az oktatási intézményekben létszámarányosan napi 8 óránál kevesebb munkaidőre is köthető finanszírozási szerződés.
 
 (4)[^190] A védőnői szolgáltató havi díjazásának mértéke az ellátottak száma alapján a (2)–(3) bekezdés szerint számított pontértéknek és a (10) bekezdésben meghatározott egy pontra jutó forint értéknek a szorzata alapján kerül megállapításra az (5)–(8) bekezdésben foglaltak figyelembevételével. A védőnői szolgáltató az e bekezdés szerinti havi díjazása legalább 12%-át köteles közvetlenül a védőnő díjazására fordítani.
 
@@ -71,7 +71,7 @@ c)[^207] a várandós anyák számát a fővárosi és megyei kormányhivatal n�
 [^186]: A 21. § a 264/2003. (XII. 24.) Korm. rendelet – a 15/2005. (I. 26.) Korm. rendelet 18. §-ában foglalt módosításoknak megfelelő – 9. §-ával megállapított szöveg.
 [^187]: A 21. § (1) bekezdése a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.
 [^188]: A 21. § (2) bekezdése a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (1) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 16. pontja szerint módosított szöveg.
-[^189]: A 21. § (3) bekezdése a 365/2010. (XII. 30.) Korm. rendelet 18. § 17. pontja, a 73/2011. (IV. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^189]: A 21. § (3) bekezdése a 365/2010. (XII. 30.) Korm. rendelet 18. § 17. pontja, a 73/2011. (IV. 29.) Korm. rendelet 5. § b) pontja, a 13/2020. (II. 7.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
 [^190]: A 21. § (4) bekezdése az 58/2009. (III. 18.) Korm. rendelet 18. § (7) bekezdésének f) pontja, a 256/2013. (VII. 5.) Korm. rendelet 13. §-a, a 126/2017. (VI. 8.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^191]: A 21. § (6) bekezdése a 79/2008. (IV. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^192]: A 21. § új (7) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (9) bekezdésre változtatta.
