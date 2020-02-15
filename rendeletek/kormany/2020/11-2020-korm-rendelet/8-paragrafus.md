@@ -1,0 +1,1 @@
+8. § A felnőttképző a felnőttképzők nyilvántartásában szereplő adataiban bekövetkezett változást – a változásnak a hatáskörrel és illetékességgel rendelkező szerv által történő átvezetésének napjától számított – harminc napon belül köteles bejelenteni a felnőttképzési államigazgatási szervnek.

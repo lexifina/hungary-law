@@ -1,0 +1,49 @@
+## 16. Az Fktv. 20. § (2) bekezdéséhez
+
+28. § (1) A szakértői bizottság a felnőttképzőnél szakértői vizsgálatot folytat le. Ha a szakmai képzés a honvédelemért felelős miniszter vagy a rendvédelmi szervet irányító miniszter felelősségi körébe tartozik, a szakértői vizsgálatba az általuk delegált szakértőt is be kell vonni.
+
+(2) A szakértői vizsgálatról szóló értesítésben a felnőttképzőt fel kell hívni a szakértői bizottsággal való együttműködés kötelezettségére, valamint az együttműködés hiányának jogkövetkezményeire, kivéve, ha a felnőttképzési államigazgatási szerv – az Ákr. 104. § (3) bekezdésének alkalmazása esetén – a hatósági ellenőrzés megindításáról szóló értesítést mellőzi.
+
+(3) A szakértői bizottság megvizsgálja, hogy
+
+a) a bejelentéshez kötött felnőttképzési tevékenység esetén a felnőttképző
+
+aa) jogszabályban meghatározott tartalommal kötötte-e meg a képzésben részt vevő személyekkel a felnőttképzési szerződést, és gondoskodott-e a résztvevők személyes adatainak jogszabályban foglaltak szerinti kezeléséről, valamint
+
+ab) teljesítette-e a felnőttképzési tevékenységgel összefüggésben az Fktv.-ben meghatározott adatszolgáltatási kötelezettségét,
+
+b) az engedélyhez kötött felnőttképzési tevékenység esetén a felnőttképző
+
+ba) által szervezett képzés képzési programja a vonatkozó jogszabályi előírásoknak megfelelnek-e, és a képzést a képzési programnak megfelelően folytatja-e,
+
+bb) folyamatosan vezeti-e az egységes dokumentumot, és az megfelel-e a jogszabályi előírásoknak,
+
+bc) a jogszabályi előírásoknak megfelelően biztosította-e az előzetes tudásmérést,
+
+bd) jogszabályban meghatározott tartalommal kötötte-e meg a képzésben részt vevő személyekkel a felnőttképzési szerződést, és gondoskodott-e a résztvevők személyes adatainak jogszabályban foglaltak szerinti kezeléséről,
+
+be) eleget tett-e az Fktv. szerinti tájékoztatási kötelezettségének, és az Fktv.-nek megfelelően alakítja-e ki a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját,
+
+bf) az Fktv. és az e rendelet szerint elvégezte-e az elégedettségmérést,
+
+bg) rendelkezik-e minőségirányítási rendszerrel, és elvégeztette-e annak külső értékelését, továbbá működtet-e ügyfélszolgálati és panaszkezelési rendszert,
+
+bh) rendelkezik-e az e rendelet szerinti vagyoni biztosítékkal, és
+
+bi) teljesítette-e a felnőttképzési tevékenységgel összefüggésben az Fktv.-ben meghatározott adatszolgáltatási kötelezettségét.
+
+(4) A szakértői bizottság a (3) bekezdésben foglaltakon túl bármely folyamatban lévő képzés és legalább egy lezárt képzés teljes dokumentációját is megvizsgálhatja.
+
+(5) A szakértői bizottság vezetője vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés szakértői vizsgálata keretében elméleti órát, illetve gyakorlati képzési részt tartalmazó képzés esetén gyakorlati képzést látogat. A kijelölt bizottsági tag csak olyan elméleti órát, gyakorlati képzést látogathat, amelynek szakmai tartalmához kapcsolódóan szakképzettsége alapján megfelelő szakértelemmel rendelkezik.
+
+(6) A kijelölt bizottsági tag a látogatás keretében megvizsgálja, hogy
+
+a) a kontaktóra tartalmában a képzési program megvalósulását szolgálja-e, és
+
+b) az oktató által alkalmazott módszerek a szakmai és a pedagógiai, andragógiai követelményeknek megfelelnek-e.
+
+(7) A szakértői bizottság vezetője a szakértői vizsgálat megállapításairól jegyzőkönyvet készít, amelyet a felnőttképző részére a helyszínen átad, vagy a szakértői vizsgálat befejezését követő öt napon belül a felnőttképzőnek megküld. A felnőttképző a jegyzőkönyv kézhezvételét követő három napon belül jogosult a szakértői vizsgálatról készült jegyzőkönyvre észrevételt tenni.
+
+(8) A szakértői bizottság vezetője a szakértői vizsgálattal kapcsolatos megállapításait tartalmazó szakértői véleményt a szakértői vizsgálatról készült – vizsgált felnőttképző észrevételeit tartalmazó – jegyzőkönyvvel együtt nyújtja be a felnőttképzési államigazgatási szervnek.
+
+(9) A szakértői bizottság vezetőjeként vagy tagjaként eljáró felnőttképzési szakértő díjazására az igazságügyi szakértők díjazására vonatkozó szabályokat kell alkalmazni.

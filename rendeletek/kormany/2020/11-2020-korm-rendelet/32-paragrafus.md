@@ -1,0 +1,1 @@
+32. § A felnőttképző ellenőrzése során kiszabott bírság összegét a felnőttképzési államigazgatási szerv kincstárnál vezetett fizetési számlájára kell átutalással kell megfizetni. A bírság befizetéséről szóló átutalási megbízás közlemény rovatában fel kell tüntetni a befizetés jogcímét és a bírságot elrendelő határozat számát.
