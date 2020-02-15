@@ -12,11 +12,11 @@ d)[^1] halálos üzemi balesetet szenvedett munkavállaló, a munkaviszony fenn�
 
 e) az a)–c) pontban említett személy igényjogosult hozzátartozójának,
 
-f) a közlekedési szolgáltatónál szakmai gyakorlaton tanulószerződés vagy hallgatói szerződés alapján részt vevő szakképző iskolai tanulónak, felsőfokú szakképzésben részt vevő hallgatónak, valamint tanulószerződés nélkül a szorgalmi idő befejezését követő összefüggő szakmai gyakorlaton részt vevő szakképző iskolai tanulónak.
+f)[^2] a közlekedési szolgáltatónál szakképzési munkaszerződés alapján foglalkoztatott tanulónak, szakképzési munkaszerződés nélkül az egybefüggő szakmai gyakorlaton részt vevő szakképző intézményi tanulónak, valamint hallgatói szerződés alapján szakmai gyakorlaton részt vevő hallgatónak.
 
-(3)[^2] A közlekedésért felelős miniszter által vezetett minisztérium, az 1. § c) pontja szerinti közlekedési kedvezményt kormánytisztviselőjének és ügykezelőjének nyújthat.
+(3)[^3] A közlekedésért felelős miniszter által vezetett minisztérium, az 1. § c) pontja szerinti közlekedési kedvezményt kormánytisztviselőjének és ügykezelőjének nyújthat.
 
-(4)[^3] A fővárosi és megyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
+(4)[^4] A fővárosi és megyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
 
 (5) Az 1. § d) pontja szerinti viszonossági megállapodás alapján közlekedési kedvezményt
 
@@ -33,5 +33,6 @@ d) a menetrend alapján vízi személyszállítási tevékenységet végző
 (6) A (2) bekezdés d) és e) pontjának alkalmazásában igényjogosult hozzátartozó a magánszeméllyel közös háztartásban élő házastárs, az élettárs, a bejegyzett élettárs, továbbá a magánszeméllyel közös háztartásban élő, rendszeres jövedelemmel nem rendelkező gyermek a tankötelezettsége fennállásának időtartamában, vagy ha nappali tagozatos oktatásban vesz részt, a tanulmányai befejezéséig.
 
 [^1]: A 2. § (2) bekezdés d) pontja a 26/2017. (II. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (3) bekezdése a 230/2016. (VII. 29.) Korm. rendelet 7. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 255. §-a szerint módosított szöveg.
-[^3]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 91. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdése a 230/2016. (VII. 29.) Korm. rendelet 7. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 255. §-a szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított szöveg.
