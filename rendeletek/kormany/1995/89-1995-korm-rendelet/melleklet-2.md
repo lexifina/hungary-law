@@ -10,17 +10,17 @@
 
 ## ,,A'' foglalkozás-egészségügyi osztály esetében 10 000 Ft/fő/év.
 
-## 1.1.2.[^22] Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint a szakképző intézmény által – eltérő megállapodás hiányában – fizetendő díjak: Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint a szakképző intézmény[^23] által beutalt személy
+## 1.1.2.[^22] Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint szakmai képzés szervezője által – eltérő megállapodás hiányában – fizetendő díjak: Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint szakmai képzés szervezője által beutalt személy
 
-## 1.[^24]
+## 1.[^23]
 
 ## 2. szakmai alkalmassági vizsgálata beiskolázás előkészítése érdekében 2500 Ft/fő/eset;
 
 ## 3. szakmai alkalmassági vizsgálata munkaközvetítés előkészítése érdekében 2800 Ft/fő/eset;
 
-## 4.[^25]
+## 4.[^24]
 
-## 1.1.3.[^26]
+## 1.1.3.[^25]
 
 ## 1.2. Munkahigiénés vizsgálatok
 
@@ -58,7 +58,7 @@
 
 ## d) fizikai megterhelés-igénybevétel vizsgálata.
 
-## 1.2.2.[^27] Biológiai expozíciós mutatók vizsgálata a külön jogszabályban meghatározott expozíciós mutatók alapján:
+## 1.2.2.[^26] Biológiai expozíciós mutatók vizsgálata a külön jogszabályban meghatározott expozíciós mutatók alapján:
 
 | Vegyi anyag | Biológiai expozíciós mutató |
 
@@ -121,9 +121,8 @@
 2. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
 
 [^21]: Az 1. számú melléklet 1.1. pontja a 9/1999. ( I. 27.) Korm. rendelet mellékletével, az 1.1. pont címe a 350/2012. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 1.1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^23]: A Magyar Közlöny 1999. évi 23. számában közzétett helyesbítésnek megfelelő szöveg.
-[^24]: Az 1. melléklet 1.1.2. pont 1. alpontját a 350/2012. (XII. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^25]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
-[^26]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 350/2012. (XII. 12.) Korm. rendelet 4. § c) pontja.
-[^27]: Az 1. számú melléklet 1.2.2. pontjának bevezető szövegrésze a 70/2007. (IV. 14.) Korm. rendelet 7. § (3) bekezdésének c) pontjával megállapított szöveg.
+[^22]: Az 1. melléklet 1.1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 14. § (2) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 1.1.2. pont 1. alpontját a 350/2012. (XII. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^24]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 350/2012. (XII. 12.) Korm. rendelet 4. § c) pontja.
+[^26]: Az 1. számú melléklet 1.2.2. pontjának bevezető szövegrésze a 70/2007. (IV. 14.) Korm. rendelet 7. § (3) bekezdésének c) pontjával megállapított szöveg.

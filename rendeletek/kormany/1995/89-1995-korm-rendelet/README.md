@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-89-20-2
 | 2013-01-01 | 1995-89-20-22.11 | 350/2012. (XII. 12.) Korm. rendelet |
 | 2013-06-15 | 1995-89-20-22.12 | 331/2007. (XII. 13.) Korm. rendelet |
 | 2015-04-01 | 1995-89-20-22.13 | 350/2012. (XII. 12.) Korm. rendelet |
+| 2020-02-15 | 1995-89-20-22.14 | 350/2012. (XII. 12.) Korm. rendelet |
