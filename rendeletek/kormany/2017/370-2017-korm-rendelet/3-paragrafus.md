@@ -4,7 +4,7 @@
 
 a) bíróság, hatóság vagy egyéb közhatalmat gyakorló szerv eljárása során végzett tolmácsolás,
 
-b) közoktatás, szakképzés, felsőoktatás során a tanulói, hallgatói jogviszonnyal, továbbá felnőttképzés során a képzéssel összefüggésben végzett tolmácsolás,
+b)[^1] tanulói jogviszonnyal, hallgatói jogviszonnyal vagy felnőttképzési jogviszonnyal összefüggésben végzett tolmácsolás,
 
 c) egészségügyi ellátás igénybevételekor végzett tolmácsolás,
 
@@ -21,3 +21,5 @@ h) média-tolmácsolás.
 (3) A társalgási jelnyelvi tolmács rész-szakképesítéssel rendelkező jelnyelvi tolmács a (2) bekezdés c)–f) pontja szerinti tolmácsolási típusokat láthatja el.
 
 (4) A relé jelnyelvi tolmács rész-szakképesítéssel rendelkező jelnyelvi tolmács – az adott tolmácsolási típus önálló ellátására jogosult jelnyelvi tolmáccsal együttesen – a (2) bekezdés a) és c)–g) pontja szerinti tolmácsolási típusokat láthatja el.
+
+[^1]: A 3. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 127. §-a szerint módosított szöveg.
