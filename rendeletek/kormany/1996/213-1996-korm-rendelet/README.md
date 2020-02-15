@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-213-20-
 | 2016-01-01 | 1996-213-20-22.26 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 1996-213-20-22.27 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-07-01 | 1996-213-20-22.28 | 473/2017. (XII. 28.) Korm. rendelet |
+| 2020-02-15 | 1996-213-20-22.29 | 13/2020. (II. 7.) Korm. rendelet |
