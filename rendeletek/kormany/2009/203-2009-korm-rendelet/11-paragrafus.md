@@ -16,4 +16,6 @@ bb) 60 éves kor felett évente.
 
 (2) Az időszakos vizsgálat hatályát a vizsgálatot végző foglalkozás-egészségügyi orvos, illetve a felülvizsgálatot végző orvosi bizottság rövidebb időtartamban is megállapíthatja, amennyiben a munkavállaló egészségi vagy pszichés állapota ezt indokolja.
 
-(3) Időszakos szakmai alkalmassági vizsgálatot kell végezni iskolai rendszerű vasúti oktatási intézmény, vagy iskolai rendszeren kívül jóváhagyott vasúti szakképzésben részt vevő tanuló esetében az e rendelet hatálya alá tartozó tevékenység szakmai gyakorlati képzés keretén belüli megkezdése előtt.
+(3)[^10] Időszakos szakmai alkalmassági vizsgálatot kell végezni az e rendelet hatálya alá tartozó tevékenységet érintően szakmai oktatásban vagy szakmai képzésben való részvétel megkezdése előtt.
+
+[^10]: A 11. § (3) bekezdése a 13/2020. (II. 7.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.

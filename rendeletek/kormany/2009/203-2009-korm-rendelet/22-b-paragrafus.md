@@ -1,4 +1,4 @@
-22/B. §[^18] (1) A szakértő köteles haladéktalanul írásban a tanúsító szervezet részére bejelenteni, ha vele szemben a 22/A. § (4) bekezdése szerinti összeférhetetlenségi ok áll fenn.
+22/B. §[^20] (1) A szakértő köteles haladéktalanul írásban a tanúsító szervezet részére bejelenteni, ha vele szemben a 22/A. § (4) bekezdése szerinti összeférhetetlenségi ok áll fenn.
 
 (2) A tanúsító szervezet a szakértőt írásban szólítja fel az összeférhetetlenség megszüntetésére.
 
@@ -10,4 +10,4 @@
 
 (6) Az a szakértő, aki az (5) bekezdésben szereplő okból kerül a közlekedési hatóság által vezetett nyilvántartásból törlésre, a 22/A. § (4) bekezdésében szereplő összeférhetetlenségi követelményeknek történő megfelelését követően 2 évig önálló szakértői tevékenységet nem végezhet, és a szakértői nyilvántartásba sem vehető fel.
 
-[^18]: A 22/B. §-t az 517/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^20]: A 22/B. §-t az 517/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

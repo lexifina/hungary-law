@@ -8,8 +8,8 @@ b) a forgalom biztonságát veszélyeztető helyzetet idéz elő, balesetet okoz
 
 c) heveny foglalkozási betegség gyanúja, fokozott káros expozíciója, eszméletvesztése, vagy betegsége, rosszulléte következett be,
 
-d)[^11] egészségkárosodás mértékének megállapítása céljából orvosi vizsgálaton vett részt.
+d)[^13] egészségkárosodás mértékének megállapítása céljából orvosi vizsgálaton vett részt.
 
 (2) A munkavállaló bármely, harminc naptári napot meghaladó keresőképtelensége után soron kívüli vizsgálatra köteles. A vizsgálat ebben az esetben korlátozódhat a munkavállaló által kötelezően bemutatandó, a keresőképtelenségre vonatkozó orvosi dokumentáció foglalkozás-egészségügyi orvos által történő megvizsgálására, amennyiben e vizsgálat elégséges annak megállapítására, hogy a munkavállaló munkaalkalmassága nem változott.
 
-[^11]: A 13. § (1) bekezdés d) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^13]: A 13. § (1) bekezdés d) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

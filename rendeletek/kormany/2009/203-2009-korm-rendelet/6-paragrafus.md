@@ -14,7 +14,7 @@ d)[^6] a vasúti közlekedés biztonságával összefüggő munkakörben hat hó
 
 (2)[^7] Előzetes szakmai alkalmassági vizsgálatot kell végezni:
 
-a) az iskolai rendszerű vasúti oktatási intézményben vagy iskolai rendszeren kívül jóváhagyott vasúti szakképzésben részt vevő tanuló esetében a tanulószerződés megkötése előtt,
+a)[^8] a szakképzési munkaszerződés megkötése előtt,
 
 b) az iskolai rendszeren kívül jóváhagyott szakképzésben résztvevő munkavállaló esetében a gyakorlati képzés megkezdése előtt,
 
@@ -23,3 +23,4 @@ c) a közép- és felsőfokú oktatásban részt vevő tanuló vagy hallgató es
 [^5]: A 6. § (1) bekezdés a) pontja a 324/2012. (XI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^6]: A 6. § (1) bekezdés d) pontja a 259/2017. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: A 6. § (2) bekezdése a 291/2014. (XI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.

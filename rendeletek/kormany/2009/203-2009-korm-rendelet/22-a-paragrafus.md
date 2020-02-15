@@ -1,6 +1,6 @@
-## 22. §[^16] Az egészségi alkalmasság vizsgálatát és véleményezését – a tanúsító szervezet nevében eljáró – a 22/A. §-ban meghatározott feltételeket teljesítő, a közlekedési hatóság által nyilvántartásba vett szakértő folytatja le. A közlekedési hatóság által történő nyilvántartásba vétel a 2007/59/EK európai parlamenti és tanácsi irányelv 20. cikk (2) bekezdése szerinti elismerésnek minősül, és nem tagadható meg, ha a szakértő a 22/A. §-ban meghatározott feltételeknek megfelel.
+## 22. §[^18] Az egészségi alkalmasság vizsgálatát és véleményezését – a tanúsító szervezet nevében eljáró – a 22/A. §-ban meghatározott feltételeket teljesítő, a közlekedési hatóság által nyilvántartásba vett szakértő folytatja le. A közlekedési hatóság által történő nyilvántartásba vétel a 2007/59/EK európai parlamenti és tanácsi irányelv 20. cikk (2) bekezdése szerinti elismerésnek minősül, és nem tagadható meg, ha a szakértő a 22/A. §-ban meghatározott feltételeknek megfelel.
 
-22/A. §[^17] (1) Az egészségi alkalmassági vizsgálatot végző vagy véleményező orvosnak
+22/A. §[^19] (1) Az egészségi alkalmassági vizsgálatot végző vagy véleményező orvosnak
 
 a) rendelkeznie kell üzemorvostan vagy foglalkozás-orvostan szakvizsgával, és
 
@@ -24,5 +24,5 @@ c) nem lehet vasúti társaságnak vezető tisztségviselője, felügyelőbizott
 
 (5) A szakértő munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint a munkavégzésének feltételeit úgy kell meghatározni, hogy az e rendelet szerinti feladatai ellátása során a befolyásmentesség és a független döntéshozatal biztosított legyen.
 
-[^16]: A 22. § az 517/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 22/A. §-t az 517/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^18]: A 22. § az 517/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 22/A. §-t az 517/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
