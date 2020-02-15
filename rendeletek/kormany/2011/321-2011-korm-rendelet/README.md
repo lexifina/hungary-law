@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-321-20-
 | 2013-11-13 | 2011-321-20-22.3 | 393/2013. (XI. 12.) Korm. rendelet |
 | 2015-04-01 | 2011-321-20-22.4 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2011-321-20-22.5 | 253/2016. (VIII. 24.) Korm. rendelet |
+| 2020-02-15 | 2011-321-20-22.6 | 13/2020. (II. 7.) Korm. rendelet |

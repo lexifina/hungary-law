@@ -38,7 +38,7 @@ a) a hátrányos vagy halmozottan hátrányos helyzetű gyermekek szolgáltatás
 
 b) a színvonalas gyermekétkeztetés biztosítására;
 
-c) a halmozottan hátrányos helyzetű gyerekek közoktatási esélyegyenlősége tekintetében
+c)[^6] a halmozottan hátrányos helyzetű gyerekek köznevelési esélyegyenlősége tekintetében
 
 ca) az intézmények között és az egyes intézményeken belüli szegregáció mértékére;
 
@@ -84,7 +84,7 @@ c) az egészségügyi ellátórendszer és rehabilitációs intézmények közti
 
 d) a szociális szolgáltatások szerepére a fogyatékkal élők rehabilitációjában;
 
-e) a közoktatási intézmények elérhetőségére, hozzáférhetőségére;
+e)[^7] a köznevelési intézmények és a szakképző intézmények elérhetőségére, hozzáférhetőségére;
 
 f) az egyenlő esélyű hozzáférés biztosítása érdekében
 
@@ -97,3 +97,5 @@ fc) az építésügyi hatóságok felkészültségére az akadálymentesítés �
 fd) a helyi tömegközlekedés akadálymentesítésére.
 
 [^5]: A 3. § a 253/2016. (VIII. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés c) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 59. § 1. pontja szerint módosított szöveg.
+[^7]: A 4. § (5) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 59. § 2. pontja szerint módosított szöveg.
