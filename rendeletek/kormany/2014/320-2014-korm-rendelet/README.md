@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-320-20-
 | 2018-01-01 | 2014-320-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-08-07 | 2014-320-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-03-01 | 2014-320-20-22.12 | 273/2018. (XII. 20.) Korm. rendelet |
+| 2020-02-15 | 2014-320-20-22.13 | 13/2020. (II. 7.) Korm. rendelet |
