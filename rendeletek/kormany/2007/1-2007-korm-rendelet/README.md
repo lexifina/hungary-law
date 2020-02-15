@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-1-20-22
 | 2012-11-06 | 2007-1-20-22.4 | 310/2012. (XI. 6.) Korm. rendelet |
 | 2013-05-22 | 2007-1-20-22.5 | 310/2012. (XI. 6.) Korm. rendelet |
 | 2017-01-01 | 2007-1-20-22.6 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2020-02-15 | 2007-1-20-22.7 | 13/2020. (II. 7.) Korm. rendelet |
