@@ -2,23 +2,23 @@
 
 1. állandó felügyelet: a szolgáltatónak, illetve megbízottjának a szálláshelyen való folyamatos jelenléte, ide nem értve a szolgáltatást segítő háttértevékenységek miatti rövid távolléteket;
 
-2.[^17]
+2.[^20]
 
-3.[^18]
+3.[^21]
 
 4. csoportvezető: több vendég (formális vagy tényleges csoport) képviselője;
 
-5.[^19] hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § 2. pontjában meghatározott személyi kör;
+5.[^22] hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § 2. pontjában meghatározott személyi kör;
 
 6. idényjellegű (szezonális) üzemelés: a naptári év szolgáltató által meghatározott, legalább egy hónapos időszakára kiterjedő folyamatos működés;
 
-7.[^20] igényjogosult: jogszabály eltérő rendelkezése hiányában a szolgáltatóval vagy annak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. §-a 23. pontja szerinti kapcsolt vállalkozásával munkavégzésre irányuló vagy tagsági jogviszonyban álló, illetve a szolgáltatótól vagy annak kapcsolt vállalkozásától nyugdíjazott személy, ideértve a jogviszony megszűnését követően korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesülő személyt is;
+7.[^23] igényjogosult: jogszabály eltérő rendelkezése hiányában a szolgáltatóval vagy annak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. §-a 23. pontja szerinti kapcsolt vállalkozásával munkavégzésre irányuló vagy tagsági jogviszonyban álló, illetve a szolgáltatótól vagy annak kapcsolt vállalkozásától nyugdíjazott személy, ideértve a jogviszony megszűnését követően korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesülő személyt is;
 
 8. összkapacitás: a férőhelyek és a hozzárendelt tárgyévi működési napok számának szorzatösszege;
 
 9. kedvezményes üdültetés: az igényjogosultak és hozzátartozóik részére kedvezményes áron biztosított üdülési lehetőség, ideértve a hétközi, hétvégi pihenést és a jutalomüdültetést is;
 
-10.[^21]
+10.[^24]
 
 11. különleges célú igénybevétel: a szálláshely-szolgáltatás körén kívüli, a szálláshely üzemeltetésével és rekonstrukciójával összefüggő, valamint a külön jogszabályban meghatározottak szerinti szolgálati és elhelyezési célú igénybevétel;
 
@@ -30,11 +30,11 @@
 
 15. turista: szünidős, rekreációs, szabadidős vagy szakmai célból a szokásos környezetén kívülre távozó és a felkeresett helyen legalább egy éjszakát eltöltő személy;
 
-16.[^22] maradvány-férőhely: általánosan az előzetes foglalás útján, szervezett keretek között igénybe vett, valamint üdültetés esetén az igényjogosultak és hozzátartozóik által nem szervezett keretek között igénybe vett férőhelyeken kívül fennmaradó, nem tervezhető mennyiségű és eloszlású férőhely.
+16.[^25] maradvány-férőhely: általánosan az előzetes foglalás útján, szervezett keretek között igénybe vett, valamint üdültetés esetén az igényjogosultak és hozzátartozóik által nem szervezett keretek között igénybe vett férőhelyeken kívül fennmaradó, nem tervezhető mennyiségű és eloszlású férőhely.
 
-[^17]: A 4. § 2. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
-[^18]: A 4. § 3. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (6) bekezdésének a) pontja hatályon kívül helyezte.
-[^19]: A 4. § 5. pontja a 69/2014. (III. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^20]: A 4. § 7. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított, a 333/2011. (XII. 29.) Korm. rendelet 30. § a) pontja, a 449/2016. (XII. 19.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^21]: A 4. § 10. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
-[^22]: A 4. § 16. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^20]: A 4. § 2. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
+[^21]: A 4. § 3. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (6) bekezdésének a) pontja hatályon kívül helyezte.
+[^22]: A 4. § 5. pontja a 69/2014. (III. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^23]: A 4. § 7. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított, a 333/2011. (XII. 29.) Korm. rendelet 30. § a) pontja, a 449/2016. (XII. 19.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^24]: A 4. § 10. pontját a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének a) pontja hatályon kívül helyezte.
+[^25]: A 4. § 16. pontja a 218/2007. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.

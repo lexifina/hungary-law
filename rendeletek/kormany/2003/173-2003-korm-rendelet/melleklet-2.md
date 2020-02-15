@@ -42,6 +42,6 @@
 
 | 20. | 2. Vendégszállás | 962 | 55.20.11 |
 
-| 21. | VII. Diákotthon, kollégium | 970 | 55.20.11 |
+| 21. | VII. Kollégium | 970 | 55.20.11 |
 
 2. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez

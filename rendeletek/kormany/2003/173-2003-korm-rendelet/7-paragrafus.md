@@ -14,7 +14,7 @@ b) a szálláshely típusa (altípusa)
 
 a) nem sértheti a jó ízlést,
 
-b)[^26] nem lehet megegyező vagy összetéveszthető a környezetében található azonos vagy más hasznosítási célú (pl. kereskedelmi, illetve magán-) szálláshely elnevezésével.
+b)[^29] nem lehet megegyező vagy összetéveszthető a környezetében található azonos vagy más hasznosítási célú (pl. kereskedelmi, illetve magán-) szálláshely elnevezésével.
 
 (3) Az átmeneti és rövid idejű szálláshely szolgáltatója köteles
 
@@ -28,4 +28,4 @@ b) a szálláshelyen belül jól látható módon feltüntetni saját és a szá
 
 (6) A nomád táborhely szolgáltatója a (3) bekezdés a) pontja szerinti névfeltüntetésre köteles.
 
-[^26]: A 7. § (2) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének j) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^29]: A 7. § (2) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének j) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
