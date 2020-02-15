@@ -1,3 +1,3 @@
-## 43. §[^135]
+## 43. §[^132]
 
-[^135]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
