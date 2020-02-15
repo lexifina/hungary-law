@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-a) belső továbbképzés: a vízügyi igazgatási szerv vagy a felnőttképzési intézmény által folytatott szakmai továbbképzés, amely speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít, célja a közalkalmazott munkakörének ellátásához, szakmai felkészültségéhez, valamint az egységes jogalkalmazáshoz szükséges ismeretek biztosítása a jogszabályi változások figyelembevételével;
+a)[^2] belső továbbképzés: az olyan szakmai továbbképzés, amely speciális intézményi vagy munkaköri ismereteket, illetve képességeket közvetít, célja a közalkalmazott munkakörének ellátásához, szakmai felkészültségéhez, valamint az egységes jogalkalmazáshoz szükséges ismeretek biztosítása a jogszabályi változások figyelembevételével;
 
 b) egyéni továbbképzési terv: a közalkalmazott részére a vízügyi igazgatási szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
 
@@ -45,3 +45,5 @@ rb) az alap- és középfokú végzettséget igénylő munkakört betöltő köz
 rc) ezeket méri, értékeli, és erről a közalkalmazott részére érdemi visszajelzést ad;
 
 s) továbbképzési időszak: a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négyéves időszak.
+
+[^2]: A 2. § a) pontja a 13/2020. (II. 7.) Korm. rendelet 130. § 2. pontja szerint módosított szöveg.
