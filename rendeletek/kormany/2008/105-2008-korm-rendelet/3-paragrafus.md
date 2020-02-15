@@ -188,4 +188,6 @@
 
 3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
-(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter, a sportpolitikáért felelős miniszter és a turizmusért felelős miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter és a szakképzésért felelős miniszter, a kultúráért felelős miniszter, a sportpolitikáért felelős miniszter és a turizmusért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 13/2020. (II. 7.) Korm. rendelet 39. §-a szerint módosított szöveg.
