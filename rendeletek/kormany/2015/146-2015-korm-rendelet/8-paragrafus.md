@@ -1,3 +1,0 @@
-8. § (1) Az átadás-átvételi megállapodás alapjául szolgáló, leltárban meghatározott, települési önkormányzat tulajdonában álló mindazon ingatlan és ingó vagyon ingyenes vagyonkezeléséről, illetve ingyenes használatáról, amely a kiválással érintett köznevelési intézmény közfeladat ellátását biztosítja, az NSZFH a tulajdonos települési önkormányzattal megállapodást köt.
-
-(2) A vagyonkezelői szerződésben, illetve a használati szerződésben az ingatlan és ingó vagyonelemeket a 2015. június 30-i állapot szerint kell feltüntetni. Az ingó vagyonelem e § szerinti fizikai mozgatása kizárólag az ingó vagyonelem azonosító adatainak és az új használati helynek a megjelölésével történhet.
