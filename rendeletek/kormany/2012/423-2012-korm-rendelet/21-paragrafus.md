@@ -38,7 +38,7 @@ f) a művészeti szakképzésben tanuló szakközépiskolások részére szervez
 
 g) tárgyanként legfeljebb egy, a ga)–gb) alpont szerinti tanulmányi versenyeken elért eredmény alapján, ha a jelentkező a versenyeredményt azon tárgyak valamelyikéből érte el, amelyeket a felsőoktatási intézmények a 16. § (1) bekezdése alapján érettségi pontot adó tárgyként a szakra vonatkozóan meghatároztak,
 
-ga)[^92] az Országos Középiskolai Tanulmányi Versenyen és a Szakmacsoportos szakmai előkészítő érettségi tantárgyak versenyén vagy az Ágazati és ágazaton kívüli szakmai érettségi vizsgatárgyak versenyén elért 1–10. helyezésért 100, 11–20. helyezésért 50, 21–30. helyezésért 25 többletpontra,
+ga)[^92] az Országos Középiskolai Tanulmányi Versenyen és a Szakmacsoportos szakmai előkészítő érettségi tantárgyak versenyén vagy az Ágazati és ágazaton kívüli szakmai érettségi vizsgatárgyak versenyén vagy az Ágazati szakmai érettségi vizsgatárgyak versenyén elért 1–10. helyezésért 100, 11–20. helyezésért 50, 21–30. helyezésért 25 többletpontra,
 
 gb) a Középiskolai Tudományos Diákkörök Országos Konferenciája versenyein elért helyezés alapján a nagydíjasoknak 30, az első díjasoknak 20 többletpontra;
 
@@ -60,6 +60,6 @@ jogosult.
 
 [^90]: A 21. § (1) bekezdés nyitó szövegrésze az 59/2016. (III. 25.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
 [^91]: A 21. § (1) bekezdés d) pontja a 197/2019. (VIII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^92]: A 21. § (1) bekezdés g) pont ga) alpontja a 407/2017. (XII. 15.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^92]: A 21. § (1) bekezdés g) pont ga) alpontja a 407/2017. (XII. 15.) Korm. rendelet 29. § c) pontja, a 18/2018. (II. 14.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^93]: A 21. § (1) bekezdés j) pontja a 47/2013. (II. 20.) Korm. rendelet 9. § c) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 17. pontja, a 169/2016. (VII. 1.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^94]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
