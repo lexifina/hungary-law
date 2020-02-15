@@ -18,28 +18,6 @@
 
 ## ** az 1247/2016. (V. 18.) Korm. határozat kerekítve tartalmazza
 
-2. melléklet az 1038/2020. (II. 13.) Korm. határozathoz
+2. melléklet az 1038/2020. (II. 13.) Korm. határozathoz[^4]
 
-1. A Korm. határozat 2. mellékletében foglalt táblázat a következő 104a. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 104a. | IKOP-4.1.0-15 | 471. sz. főút fejlesztése Debrecen– Hajdúsámson között, Hajdúsámson elkerülővel | NIF Zrt. | 16,23 (becsült támogatási intenzitás: 100 %) | 471. sz. főút Debrecen–Hajdúsámson 2×2 sávra bővítése 4,6 km hosszon, valamint a 471. sz. főút Hajdúsámson elkerülő 2×1 sávos megvalósítása 8,6 km hosszon |
-
-2. A Korm. határozat 2. mellékletében foglalt táblázat a következő 106a. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 106a. | IKOP-4.1.0-15 | Jászberény elkerülő III. ütem megvalósítása | NIF Zrt. | 6,1 (becsült támogatási intenzitás: 100%) | Jászberény elkerülő III. ütem megvalósítása – 2×1 sávos főút építése |
-
-3. A Korm. határozat 2. mellékletében foglalt táblázat a következő 107a. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 107a. | IKOP-4.1.0-15 | M76 autóút M7 autópálya Holládi csomópont és Balatonszentgyörgy közötti szakasz megvalósítása | NIF Zrt. | 21,6 (becsült támogatási intenzitás: 100%) | M76 autóút M7 autópálya Holládi csomópont és Balatonszentgyörgy közötti szakasz megvalósítása, 2×2 sávos autóút építése |
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
