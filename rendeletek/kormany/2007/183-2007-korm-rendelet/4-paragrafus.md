@@ -134,7 +134,8 @@
 
 (3) Az Egyezmény, illetve e rendelet 2–3. §-a hatálybalépésének napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter, valamint a sportpolitikáért felelős miniszter gondoskodik.
+(4)[^4] E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a szakképzésért felelős miniszter, a kultúráért felelős miniszter, valamint a sportpolitikáért felelős miniszter gondoskodik.
 
 [^2]: A 3. § e rendelet 4. § (2) bekezdése alapján az Egyezmény 17. cikkében meghatározott időpontban lép hatályba. A 33/2007. (XI. 9.) KüM határozat alapján a hatálybalépés időpontja 2007. augusztus 2.
 [^3]: Lásd a 33/2007. (XI. 9.) KüM határozatot.
+[^4]: A 4. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 36. §-a szerint módosított szöveg. [Nem vezethető át a 238/2022. (VI. 30.) Korm. rendelet 57. §-ában foglalt módosítás, mely szerint az „az oktatásért felelős miniszter, a kultúráért felelős miniszter, valamint a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.]
