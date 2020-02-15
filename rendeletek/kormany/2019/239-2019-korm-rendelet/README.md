@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-239-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-10-17 | 2019-239-20-22.1 | 239/2019. (X. 16.) Korm. rendelet |
+| 2020-02-15 | 2019-239-20-22.2 | 13/2020. (II. 7.) Korm. rendelet |
