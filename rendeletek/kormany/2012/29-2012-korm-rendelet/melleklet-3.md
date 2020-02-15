@@ -10,7 +10,7 @@ egyetemi vagy főiskolai szintű programtervező matematikus, informatikatanár,
 
 A II. besorolási osztályban:
 
-közgazdasági szakközépiskola informatikai-számítástechnikai szakán szerzett szakképesítés vagy számítástechnikai szakképesítés; műszaki szakközépiskolai végzettség; érettségi végzettség és az OKJ szerint: informatikai statisztikus és gazdasági tervező szakképesítés, pénzügyi ügyintéző szakképesítés, számítástechnikai programozó, számítástechnikai szoftver üzemeltető, számítógép rendszerprogramozó, földügyi számítógépes adatkezelő, földügyi térinformatikus szaktechnikus szakképesítés.
+közgazdasági szakképző iskola informatikai-számítástechnikai szakán szerzett szakképesítés vagy számítástechnikai szakképesítés; műszaki szakközépiskolai végzettség; érettségi végzettség és az OKJ szerint: informatikai statisztikus és gazdasági tervező szakképesítés, pénzügyi ügyintéző szakképesítés, számítástechnikai programozó, számítástechnikai szoftver üzemeltető, számítógép rendszerprogramozó, földügyi számítógépes adatkezelő, földügyi térinformatikus szaktechnikus szakképesítés.
 
 2.[^26] Adóalany-nyilvántartó feladatkör
 
@@ -824,7 +824,7 @@ A II. besorolási osztályban:
 
 informatikai szakközépiskolai végzettség; mezőgazdasági gépszerelő szakközépiskolai végzettség; a közigazgatási szerv alaptevékenységének megfelelő érettségi végzettség vagy érettségi végzettség és az OKJ szerint: az alaptevékenységhez kapcsolódó középfokú szakképesítés.
 
-74.[^93] Közoktatási és szakképzési igazgatási feladatok
+74.[^93] Köznevelési és szakképzési igazgatási feladatok
 
 Az I. besorolási osztályban:
 
@@ -1528,7 +1528,7 @@ Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű környezetmérnöki, agrármérnöki szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és okleveles könyvvizsgáló, mérlegképes könyvelő, okleveles pénzügyi revizor, felsőfokú pénzügyi, számviteli szakképesítés.
 
-[^25]: A 3. melléklet 1. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^25]: A 3. melléklet 1. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a, a 13/2020. (II. 7.) Korm. rendelet 66. § 1. pontja szerint módosított szöveg.
 [^26]: A 3. melléklet 2. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^27]: A 3. melléklet 3. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^28]: A 3. melléklet 4. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
@@ -1596,7 +1596,7 @@ jogász szakképzettség; egyetemi vagy főiskolai szintű környezetmérnöki, 
 [^90]: A 3. melléklet 71. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^91]: A 3. melléklet 72. pontja a 393/2017. (XII. 13.) Korm. rendelet 44. §-ával megállapított szöveg.
 [^92]: A 3. melléklet 73. pontja a 230/2017. (VIII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^93]: A 3. melléklet 74. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^93]: A 3. melléklet 74. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a, a 13/2020. (II. 7.) Korm. rendelet 66. § 2. pontja szerint módosított szöveg.
 [^94]: A 3. melléklet 75. pontja a 440/2016. (XII. 16.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^95]: A 3. melléklet 76. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^96]: A 3. melléklet 77. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
