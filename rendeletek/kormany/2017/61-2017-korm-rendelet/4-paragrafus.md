@@ -10,9 +10,9 @@ d) az európai uniós jogharmonizációs feladatokra, különös tekintettel az 
 
 e) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályaira, valamint javaslatot tesz a feladat- és hatáskörrel rendelkező miniszter számára a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet szerinti ellenőrzési tervre,
 
-f) az Országos Képzési Jegyzék turisztikai és vendéglátóipari szakmacsoportjainak fejlesztésére,
+f)[^4]
 
-g)[^4] a turizmust és a vendéglátást és a magyar bor egységes állami kommunikációját érintő stratégiai dokumentumokra (koncepciókra, stratégiákra, fejlesztési programokra), különös tekintettel a 2017–2026. évekre vonatkozó Nemzeti Turizmusfejlesztési Koncepcióra és az országmárka-kommunikációra,
+g)[^5] a turizmust és a vendéglátást és a magyar bor egységes állami kommunikációját érintő stratégiai dokumentumokra (koncepciókra, stratégiákra, fejlesztési programokra), különös tekintettel a 2017–2026. évekre vonatkozó Nemzeti Turizmusfejlesztési Koncepcióra és az országmárka-kommunikációra,
 
 h) turisztikai desztinációk és kiemelt turisztikai fejlesztési térségek meghatározására, azok fejlesztését támogató beavatkozási programra, márkaépítést támogató marketingtevékenységre, szervezetfejlesztésre,
 
@@ -26,4 +26,5 @@ j) a turisztikai tárgyú szakpolitikai döntéseket megalapozó és fejlesztés
 
 [^2]: A 4. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^3]: A 4. § (1) bekezdés a) pontja a 341/2019. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (1) bekezdés g) pontja a 341/2019. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés f) pontját a 13/2020. (II. 7.) Korm. rendelet 118. § 1. pontja hatályon kívül helyezte.
+[^5]: A 4. § (1) bekezdés g) pontja a 341/2019. (XII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
