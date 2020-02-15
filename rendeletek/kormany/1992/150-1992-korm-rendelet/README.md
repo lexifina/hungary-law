@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-150-20-
 | 2014-09-05 | 1992-150-20-22.21 | 150/2010. (IV. 30.) Korm. rendelet |
 | 2017-01-24 | 1992-150-20-22.22 | 9/2017. (I. 23.) Korm. rendelet |
 | 2018-01-01 | 1992-150-20-22.23 | 415/2017. (XII. 18.) Korm. rendelet |
+| 2020-02-15 | 1992-150-20-22.24 | 13/2020. (II. 7.) Korm. rendelet |

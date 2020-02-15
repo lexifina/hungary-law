@@ -360,6 +360,6 @@
 
 | 8.5 | műszaki, fenntartási, üzemviteli alkalmazott, szakmunkás, segédmunkás, kisegítő alkalmazott | * | * | * | * |  |  |  |  |  |  |  |  |
 
-2. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^117]
+2. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^124]
 
-[^117]: A 2. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 415/2017. (XII. 18.) Korm. rendelet 17. § 16. pontja szerint módosított szöveg.
+[^124]: A 2. számú melléklet a 150/2010. (IV. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 415/2017. (XII. 18.) Korm. rendelet 17. § 16. pontja szerint módosított szöveg.

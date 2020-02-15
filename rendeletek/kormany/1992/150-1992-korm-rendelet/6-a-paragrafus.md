@@ -1,8 +1,8 @@
-## 6. §[^33]
+## 6. §[^34]
 
-## [A Kjt. 23. § (2) bekezdéséhez][^34]
+## [A Kjt. 23. § (2) bekezdéséhez][^35]
 
-## 6/A. §[^35]
+## 6/A. §[^36]
 
 (1) Közművelődési intézményben az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
@@ -38,6 +38,6 @@ ab) nem szakirányú felsőfokú végzettséggel és felsőfokú szakirányú mu
 
 b) a végzettségének és szakképzettségének vagy az a) pont ab) alpontjában meghatározott szakvizsgájának és egyben az intézmény alaptevékenységének megfelelő feladatkörben, közalkalmazotti vagy munkavégzésre irányuló további jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
 
-[^33]: A 6. §-t és az azt megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
-[^34]: A 6/A. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
-[^35]: A 6/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 6. §-t és az azt megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^35]: A 6/A. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.
+[^36]: A 6/A. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 6/K. §[^60]
+## 6/K. §[^66]
 
-## 7. §[^61]
+## 7. §[^67]
 
 (1) Kulturális intézményben magasabb vezető vagy vezető beosztás ellátására vonatkozó pályázat esetében a pályáztatónak biztosítania kell, hogy a pályázat iránt érdeklődők a pályázat elkészítéséhez szükséges tájékoztatást megkapják, az intézményt megismerhessék.
 
@@ -22,5 +22,5 @@ b) egy országos szakmai szervezet egy képviselője vagy egy – a kulturális 
 
 (8) Közművelődési intézmény esetén a magasabb vezető vagy vezető beosztás ellátására vonatkozó eredménytelen pályázatot 90 napon belül újra ki kell írni.
 
-[^60]: A 6/K. §-t a 442/2013. (XI. 27.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 415/2017. (XII. 18.) Korm. rendelet 18. § c) pontja.
-[^61]: A 7. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte. A 7. § a 415/2017. (XII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^66]: A 6/K. §-t a 442/2013. (XI. 27.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 415/2017. (XII. 18.) Korm. rendelet 18. § c) pontja.
+[^67]: A 7. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § e) pontja hatályon kívül helyezte. A 7. § a 415/2017. (XII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## 21. §[^90]
+## 21. §[^96]
 
 ## Az 1. § szerinti közalkalmazottat a besorolása alapján kulturális illetménypótlék illeti meg. A kulturális illetménypótléknak a közalkalmazotti pótlékalapra vetített mértékét az 5. melléklet tartalmazza.
 
-## 22. §[^91]
+## 22. §[^97]
 
 ## E rendelet alkalmazásában:
 
@@ -42,9 +42,10 @@
 
 18. szakirányú továbbképzésben szerzett szakképzettség: a felsőoktatási törvény szerint felsőoktatási intézményben felsőfokú végzettségi szintet követően szerezhető szakirányú szakképzettség, valamint az 1996. szeptember 1-je előtt a felsőoktatási intézményekben létesített szakosító továbbképzési szakokon szerzett szakosító továbbképzési oklevél által tanúsított szakképzettség;
 
-19. szakképesítés: szakképzésben szerzett, az OKJ-ban szereplő vagy szerepelt képesítés;
+19.[^98]
 
 20. tudományos fokozat: a felsőoktatási törvény szerinti doktori képzésben szerzett tudományos fokozat [Doctor of Philosophy (PhD), Doctor of Liberal Arts (DLA)], a tudomány kandidátusa, a tudomány doktora, a külföldön szerzett és honosított vagy elismert tudományos fokozat.
 
-[^90]: A 21. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte, újonnan a 9/2017. (I. 23.) Korm. rendelet 5. §-a iktatta be.
-[^91]: A 22. § a 415/2017. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^96]: A 21. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte, újonnan a 9/2017. (I. 23.) Korm. rendelet 5. §-a iktatta be.
+[^97]: A 22. § a 415/2017. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^98]: A 22. § 19. pontját a 13/2020. (II. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.

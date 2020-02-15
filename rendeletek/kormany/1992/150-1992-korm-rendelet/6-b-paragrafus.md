@@ -1,4 +1,4 @@
-## 6/B. §[^36]
+## 6/B. §[^37]
 
 (1) Nemzeti könyvtárban, felsőoktatási könyvtárban, valamint országos szakkönyvtárban az intézmény vezetésére irányuló magasabb vezető beosztás ellátásával kizárólag olyan közalkalmazott bízható meg, aki
 
@@ -30,7 +30,7 @@ a) rendelkezik
 
 aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel és az Országos Képzési Jegyzék (a továbbiakban: OKJ) szerinti segédkönyvtáros szakképesítéssel, és
+ab)[^38] nem szakirányú felsőfokú végzettséggel és szakképzettséggel és segédkönyvtáros szakképzettséggel, és
 
 b) rendelkezik tárgyalásszintű idegennyelv-ismerettel, amelynek igazolása történhet különösen államilag elismert komplex típusú középfokú nyelvvizsga-bizonyítvány vagy azzal egyenértékű okirat, a szakmai gyakorlat külföldi teljesítéséről szóló igazolás bemutatásával,
 
@@ -44,7 +44,7 @@ a) rendelkezik
 
 aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel és az OKJ szerinti segédkönyvtáros szakképesítéssel,
+ab)[^39] nem szakirányú felsőfokú végzettséggel és szakképzettséggel és segédkönyvtáros szakképzettséggel,
 
 b) végzettségének, szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább négy éves szakmai gyakorlatot szerzett, és
 
@@ -56,7 +56,7 @@ a) rendelkezik
 
 aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel, valamint OKJ szerinti segédkönyvtáros szakképesítéssel, és
+ab)[^40] nem szakirányú felsőfokú végzettséggel és szakképzettséggel, valamint segédkönyvtáros szakképzettséggel, és
 
 b) végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább öt éves szakmai gyakorlatot szerzett.
 
@@ -66,7 +66,7 @@ a) rendelkezik
 
 aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel, valamint az OKJ szerinti segédkönyvtáros szakképesítéssel, és
+ab)[^41] nem szakirányú felsőfokú végzettséggel és szakképzettséggel, valamint segédkönyvtáros szakképzettséggel, és
 
 b) végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
 
@@ -76,8 +76,13 @@ a) rendelkezik
 
 aa) szakirányú felsőfokú végzettséggel és szakképzettséggel, vagy
 
-ab) nem szakirányú felsőfokú végzettséggel és szakképzettséggel és az OKJ szerinti segédkönyvtáros szakképesítéssel, és
+ab)[^42] nem szakirányú felsőfokú végzettséggel és szakképzettséggel és segédkönyvtáros szakképzettséggel, és
 
 b) végzettségének és szakképzettségének és egyben az intézmény alaptevékenységének megfelelő jogviszonyban legalább három éves szakmai gyakorlatot szerzett.
 
-[^36]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 6/B. §-t a 150/2010. (IV. 30.) Korm. rendelet 7. §-a iktatta be, szövege a 415/2017. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^38]: A 6/B. § (3) bekezdés a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^39]: A 6/B. § (4) bekezdés a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 4. § 2. pontja szerint módosított szöveg.
+[^40]: A 6/B. § (5) bekezdés a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.
+[^41]: A 6/B. § (6) bekezdés a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 4. § 4. pontja szerint módosított szöveg.
+[^42]: A 6/B. § (7) bekezdés a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 4. § 5. pontja szerint módosított szöveg.

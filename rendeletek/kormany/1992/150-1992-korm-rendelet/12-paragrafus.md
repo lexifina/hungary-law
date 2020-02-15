@@ -1,8 +1,8 @@
-## 11. §[^67]
+## 11. §[^73]
 
 ## (A Kjt. 55. §-ához)
 
-## 12. §[^68]
+## 12. §[^74]
 
 (1) Közművelődési intézmény 2. melléklet szerinti tudományos munkakörben foglalkoztatott
 
@@ -16,5 +16,5 @@ c) tudományok doktora fokozattal rendelkező közalkalmazottja a heti munkaidő
 
 (2) A teljes napi munkaidőből 6 órát kell a munkahelyen eltölteni a közalkalmazottnak, ha átlagosan legalább napi 3 órán át egészségkárosító kockázatnak kitett munkahelyen dolgozik.
 
-[^67]: A 11. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte. A 11. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § h) pontja hatályon kívül helyezte.
-[^68]: A 12. § a 415/2017. (XII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^73]: A 11. §-t a 3/2009. (I. 10.) Korm. rendelet 12. §-ának a) pontja hatályon kívül helyezte. A 11. §-t megelőző hivatkozást a 150/2010. (IV. 30.) Korm. rendelet 16. § h) pontja hatályon kívül helyezte.
+[^74]: A 12. § a 415/2017. (XII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.

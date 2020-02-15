@@ -180,7 +180,7 @@
 
 | 89. |  | tudományos kutatói munkakörök a Kjt. 79/C. § (2) bekezdése, illetve a 2. számú melléklete szerint |
 
-5. melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^120]
+5. melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^127]
 
 A kulturális illetménypótlék mértéke a pótlékalap %-ában
 
@@ -222,4 +222,4 @@ A kulturális illetménypótlék mértéke a pótlékalap %-ában
 
 | 17 | 71 | 87 | 91 | 95 | 109 | 175 | 187 | 215 | 242 | 274 |
 
-[^120]: Az 5. mellékletet a 9/2017. (I. 23.) Korm. rendelet 7. §-a iktatta be.
+[^127]: Az 5. mellékletet a 9/2017. (I. 23.) Korm. rendelet 7. §-a iktatta be.

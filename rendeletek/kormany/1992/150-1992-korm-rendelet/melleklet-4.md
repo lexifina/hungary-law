@@ -178,6 +178,6 @@
 
 | 4.2.3 | A munkamegosztás szempontjából elkülönült gazdasági, műszaki, üzemeltetési és igazgatási szervezeti egység irányítója | 100 |
 
-4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^119]
+4. számú melléklet a 150/1992. (XI. 20.) Korm. rendelethez[^126]
 
-[^119]: A 4. számú melléklet a 415/2017. (XII. 18.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^126]: A 4. számú melléklet a 415/2017. (XII. 18.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
