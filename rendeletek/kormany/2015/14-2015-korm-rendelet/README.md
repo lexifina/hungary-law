@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-14-20-2
 | 2018-01-01 | 2015-14-20-22.11 | 285/2017. (IX. 22.) Korm. rendelet |
 | 2018-07-30 | 2015-14-20-22.12 | 112/2016. (V. 27.) Korm. rendelet |
 | 2019-03-15 | 2015-14-20-22.13 | 24/2019. (II. 27.) Korm. rendelet |
+| 2020-02-15 | 2015-14-20-22.14 | 285/2017. (IX. 22.) Korm. rendelet |
