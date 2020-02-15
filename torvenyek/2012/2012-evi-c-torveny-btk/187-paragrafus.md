@@ -1,6 +1,14 @@
 ## Kuruzslás
 
-187. § (1) Aki ellenszolgáltatásért vagy rendszeresen az orvosi gyakorlat körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+187. § (1) Aki ellenszolgáltatásért vagy rendszeresen
+
+a) az orvosi gyakorlat,
+
+b) az egészségügyi szakképesítéshez kötött pszichoterápiás gyakorlat vagy
+
+c) a nem-konvencionális gyógyító és természetgyógyászati eljárások
+
+körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a kuruzslást az orvosi gyakorlatra jogosultság színlelésével követik el.
 
