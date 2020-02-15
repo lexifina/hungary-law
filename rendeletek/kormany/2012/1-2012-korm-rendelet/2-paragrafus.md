@@ -20,11 +20,11 @@
 
 8. Európai Gazdasági Térségben működő felsőoktatási intézmény (a továbbiakban: EGT felsőoktatási intézmény): a 9. pontban foglaltak kivételével az a felsőoktatási intézmény, amely államilag elismert az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve abban az államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
-9. felsőoktatási intézmény: a Fot. 1. mellékletében felsorolt intézmény és a felsőfokú szakképzést folytató szakközépiskola;
+9.[^2] felsőoktatási intézmény: a Fot. 1. mellékletében felsorolt intézmény;
 
 10. félárva: az a hallgató, akinek egy szülője elhunyt és nem fogadták örökbe;
 
-10a.[^2] gyermek: a hitelfelvevő vér szerinti vagy az örökbefogadott gyermeke;
+10a.[^3] gyermek: a hitelfelvevő vér szerinti vagy az örökbefogadott gyermeke;
 
 11. hallgatói hitel: a Diákhitel szervezet és a hitelfelvevő közötti hitel-, vagy kölcsönszerződés alapján az e rendeletben meghatározott feltételek szerint nyújtott pénzkölcsön, amely – céljait tekintve – több részből áll:
 
@@ -32,7 +32,7 @@ a) szabad felhasználású: a hallgatói hitel azon része, amelyet Fot. 46. § 
 
 b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46. § (1) bekezdése szerinti magyar állami részösztöndíjas és önköltséges képzésben tanulmányokat folytató hallgatók képzésük finanszírozása érdekében vehetnek igénybe;
 
-c)[^3] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely idegennyelv-tanulás és nyelvvizsga bizonyítvány-szerzés céljából vehető igénybe;
+c)[^4] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely idegennyelv-tanulás és nyelvvizsga bizonyítvány-szerzés céljából vehető igénybe;
 
 12. hitelfelvevő: az a 3. § (1) bekezdésében, illetve a 21. § (1) bekezdésében meghatározott személy, aki hallgatói hitelt vesz fel vagy korábban hallgatói hitelt vett fel, és tartozását törleszti;
 
@@ -52,7 +52,7 @@ c)[^3] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely id
 
 20. szülők: a hitelfelvevő születési anyakönyvi kivonatában anyaként és apaként megjelölt személyek;
 
-21.[^4] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
+21.[^5] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
 
 22. tanulmányi félév: az adott naptári év szeptember 1-jétől a következő naptári év január 31-éig terjedő, illetve az adott naptári év február 1-jétől június 30-áig terjedő képzési időszak;
 
@@ -62,9 +62,10 @@ c)[^3] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely id
 
 25. törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő által a Diákhitel szervezetnek a törlesztési kötelezettség kezdetét követően, havi rendszerességgel fizetendő összeg;
 
-26.[^5] támogatott nyelv: az érintett személy állampolgársága szerinti ország hivatalos nyelvétől eltérő, a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. melléklet 1. pontjában, 2. pont l) alpontjában és 4. pontjában meghatározott idegen nyelvek valamelyike, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a)–h) pontjában meghatározott személy tekintetében a magyar nyelv.
+26.[^6] támogatott nyelv: az érintett személy állampolgársága szerinti ország hivatalos nyelvétől eltérő, a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. melléklet 1. pontjában, 2. pont l) alpontjában és 4. pontjában meghatározott idegen nyelvek valamelyike, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a)–h) pontjában meghatározott személy tekintetében a magyar nyelv.
 
-[^2]: A 2. § 10a. pontját a 291/2017. (X. 3.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^4]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § 26. pontját a 114/2019. (V. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^2]: A 2. § 9. pontja a 13/2020. (II. 7.) Korm. rendelet 65. §-a szerint módosított szöveg.
+[^3]: A 2. § 10a. pontját a 291/2017. (X. 3.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 26. pontját a 114/2019. (V. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
