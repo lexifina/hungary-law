@@ -1,4 +1,4 @@
-5. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
+5. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^56]
 
 MEGÁLLAPODÁS
 
@@ -60,7 +60,7 @@ A természeti és civilizációs katasztrófák elleni védekezés érdekében c
 
 2.2.14. a BM OKF főigazgatója által kiadott intézkedésben foglaltak szerint hajtja végre a gyakorlatait;
 
-2.2.15. vállalja, hogy a katasztrófák következményeinek felszámolása során végzett tevékenységének megismertetése céljából közreműködik a közoktatási intézményekben szervezett felkészítéseken, valamint felkérésre bemutatókat tart;
+2.2.15. vállalja, hogy a katasztrófák következményeinek felszámolása során végzett tevékenységének megismertetése céljából közreműködik a köznevelési intézményekben, illetve a szakképző intézményekben szervezett felkészítéseken, valamint felkérésre bemutatókat tart;
 
 2.2.16. vállalja, hogy a szervezet taglétszámának folyamatos biztosítása és utánpótlása érdekében az oktatási intézmények felkészített tanulói közül a feladat iránt érdeklődők számára lehetőséget biztosít a szervezet munkájában történő részvételre;
 
@@ -107,3 +107,5 @@ A természeti és civilizációs katasztrófák elleni védekezés érdekében c
 ....................................................... 20................ év .............................................. hónap ...............................nap
 
 igazgatóság Önkéntes mentőszervezet
+
+[^56]: Az 5. melléklet a 13/2020. (II. 7.) Korm. rendelet 56. § 2. pontja szerint módosított szöveg.
