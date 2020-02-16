@@ -1,4 +1,4 @@
-## 185. § Hatályát veszti a komplex szakmai vizsga szervezésére vonatkozó engedély megszerzésére irányuló engedélyezési eljárás igazgatási szolgáltatási díjáról és a díj megfizetésének szabályairól szóló 26/2018. (XI. 8.) ITM rendelet.
+## 185. §[^182]
 
 ## III. Fejezet
 
@@ -13,3 +13,5 @@
 (4) Az 50. alcím és a 138. alcím 2021. január 1-jén lép hatályba.
 
 (5) A 70. § (2) bekezdése 2025. január 1-jén lép hatályba.
+
+[^182]: A 185. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
