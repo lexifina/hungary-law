@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-82-20-2
 | 2010-06-12 | 2010-82-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-06-13 | 2010-82-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-01-01 | 2010-82-20-22.4 | 537/2013. (XII. 30.) Korm. rendelet |
+| 2020-02-16 | 2010-82-20-22.5 | 316/2019. (XII. 18.) Korm. rendelet |
