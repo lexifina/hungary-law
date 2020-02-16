@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-83-20-2
 | 2013-01-01 | 2010-83-20-22.3 | 337/2012. (XII. 4.) Korm. rendelet |
 | 2016-03-21 | 2010-83-20-22.4 | 468/2015. (XII. 29.) Korm. rendelet |
 | 2016-07-01 | 2010-83-20-22.5 | 139/2016. (VI. 13.) Korm. rendelet |
+| 2020-02-16 | 2010-83-20-22.6 | 316/2019. (XII. 18.) Korm. rendelet |

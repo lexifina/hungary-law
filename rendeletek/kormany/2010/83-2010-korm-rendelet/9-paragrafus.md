@@ -2,7 +2,7 @@
 
 9. § (1)[^35] A kereskedelmi kommunikációban a THM-et legalább olyan feltűnően kell szerepeltetni, mint a kamatot és értékét az alábbi feltételekkel nyújtott, egyenletes törlesztésű hitelre kell meghatározni:
 
-a) a lakás-takarékpénztár által nyújtott hitelnél a hitel összege 1 millió forint, futamideje 5 év,
+a)[^36] a lakás-takarékpénztár által nyújtott lakáskölcsönnél a hitel összege 2 millió forint, futamideje 5 év, a lakás-takarékpénztár által nyújtott áthidaló kölcsönnél a hitel összege 5 millió forint, futamideje lakáskölcsönnel együtt 15 év,
 
 b) más hitelező által nyújtott jelzáloghitelnél a hitel összege 5 millió forint, futamideje 20 év,
 
@@ -19,3 +19,4 @@ e) 1 millió forint feletti – az a)–c) pontba nem tartozó – hitelnél a h
 (4) Az (1) bekezdés alkalmazásában egyenletes törlesztésű hitel az a legfeljebb 6 hónapos türelmi idejű hitel, amelynek visszafizetése havonta, azonos összegű törlesztéssel történik. Azonos összegű törlesztés alatt értendő minden olyan kölcsöntörlesztés, amely esetében a tőketörlesztési időszakban a tőketörlesztés és a kamat forintban vagy devizában meghatározott együttes összege állandó.
 
 [^35]: A 9. § (1) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^36]: A 9. § (1) bekezdés a) pontja a 316/2019. (XII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
