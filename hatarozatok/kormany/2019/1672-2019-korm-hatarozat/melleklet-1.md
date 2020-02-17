@@ -10,13 +10,9 @@
 
 ## Határidő: 2020. december 31.
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 7. A Miniszterelnökség tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcímnek a 3. Pro Populo Carpathico Nonprofit Kft. tőkeemelése jogcímcsoporttal történő kiegészítését;
+## 3.[^1]
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 4. az 1. pont szerinti célok megvalósítása érdekében felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a 2019. évben – a kincstári díjjal, pénzügyi tranzakciós illetékkel együtt – 596 908 845 forint rendelkezésre állásáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 7. A Miniszterelnökség tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcím, 3. Pro Populo Carpathico Nonprofit Kft. tőkeemelése jogcímcsoporton;
+## 4.[^2] az 1. pont szerinti célok megvalósítása érdekében felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a 2020. évben – a kifizetésekhez kapcsolódó kincstári díjakkal együtt – 596 908 845 forint rendelkezésre állásáról, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 7. A Miniszterelnökség tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcím, 1. Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tőkeemelése jogcímcsoporton;
 
 ## Felelős: pénzügyminiszter
 
@@ -24,7 +20,7 @@
 
 ## Határidő: a 3. pont szerinti címrend-kiegészítést követően, a felmerülés ütemében
 
-## 5. felhívja a Miniszterelnökséget vezető minisztert, hogy a 4. pont szerinti központi költségvetési forrás terhére, az 1. pontban foglalt kiemelt külhoni ingatlanstratégiai célok megvalósítása céljából nyújtson vissza nem térítendő támogatást.
+## 5.[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy a 4. pont szerinti központi költségvetési forrás terhére, az 1. pontban foglalt kiemelt külhoni ingatlanstratégiai célok megvalósítása céljából az 1. pontban foglaltak végrehajtása érdekében tőkeemelést hajtson végre.
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
@@ -37,3 +33,7 @@
 | 1. | Beregszászi ingatlanok fejlesztése: II. Rákóczi Ferenc tér 6/1/1., 6/1/2., 6/1/5., 6/2., 6/5. szám alatti ingatlan |
 
 | 2. | Munkácsi Mihály Közösségi Ház fejlesztése Munkács, Jaroszlav Mudroho utca 10. szám |
+
+[^1]: A 3. pontot az 1045/2020. (II. 17.) Korm. határozat 1. pontja visszavonta.
+[^2]: A 4. pont az 1045/2020. (II. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1045/2020. (II. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
