@@ -1,0 +1,1 @@
+20. § Hatályát veszti a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló 94/2003. (XII. 18.) GKM rendelet.
