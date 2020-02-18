@@ -1,3 +1,3 @@
-4. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^96]
+4. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^97]
 
-[^96]: A 4. mellékletet a 19/2019. (VIII. 14.) EMMI rendelet 6. §-a hatályon kívül helyezte.
+[^97]: A 4. mellékletet a 19/2019. (VIII. 14.) EMMI rendelet 6. §-a hatályon kívül helyezte.

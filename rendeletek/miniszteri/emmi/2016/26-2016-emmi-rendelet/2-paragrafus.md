@@ -104,9 +104,7 @@
 
 2.[^11] Németh László-díj.
 
-(9) A miniszter által adományozandó felsőoktatási díj az oktatási ágazatban:
-
-1. Szent-Györgyi Albert-díj.
+(9)[^12]
 
 (10) A miniszter által adományozandó díjak a sport ágazatban a következők:
 
@@ -120,7 +118,7 @@
 
 5. Kemény Ferenc-díj.
 
-(11)[^12] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
+(11)[^13] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
 
 1. Pro Caritate díj,
 
@@ -140,9 +138,9 @@
 
 9. Szent Anna a Nevelőszülőkért díj,
 
-10.[^13]
+10.[^14]
 
-(12)[^14]
+(12)[^15]
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
@@ -157,6 +155,7 @@
 [^9]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
 [^10]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^12]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^13]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^14]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^12]: A 2. § (9) bekezdését a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^13]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
