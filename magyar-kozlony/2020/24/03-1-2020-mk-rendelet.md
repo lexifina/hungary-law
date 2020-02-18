@@ -1,0 +1,2030 @@
+# A miniszterelnök kabinetfőnökének 1/2020. (II. 18.) MK rendelete
+
+Magyar Közlöny 2020. évi 24. szám, 2020. február 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/nkKaosEqcvE60tgvpr0M5e3da5f16bd11/dokumentumok/3fc847d3670d460dc2459cc1828441e5c43a549e/letoltes)
+
+---
+
+A miniszterelnök kabinetfőnökének 1/2020. (II. 18.) MK rendelete
+a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló
+2/2018. (XII. 28.) MK rendelet módosításáról
+Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról
+szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 20. alpontjában meghatározott
+feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés
+2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben – a következőket rendelem el:
+1. §
+A fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2018. (XII. 28.) MK rendelet
+(a továbbiakban: Rendelet) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami
+támogatások esetében az 1. mellékletben foglalt táblázat
+a) 8., 10–12., 15–18., 21. és 24. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
+b) 8., 10–12., 15–18., 21. és 24. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális
+örökség megőrzését előmozdító támogatás;
+c) 11–12. és 24. sora alapján az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű
+támogatás;
+d) 11–12., 15–18., 21. és 24. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó
+ellentételezéshez nyújtott támogatás;
+e) 11–12., 15–18., 21. és 24. sora alapján a 651/2014/EU bizottsági rendelet 13–14. cikke szerinti regionális
+beruházási támogatás;
+f) 11–12. és 24. sora alapján a 651/2014/EU bizottsági rendelet 18. cikke szerinti kis- és középvállalkozás részére
+tanácsadáshoz nyújtott támogatás;
+g) 11–12. és 24. sora alapján a 651/2014/EU bizottsági rendelet 19. cikke szerinti kis- és középvállalkozás vásáron
+való részvételéhez nyújtott támogatás;
+h) 11–12. és 24. sora alapján a 651/2014/EU bizottsági rendelet 22. cikke szerinti induló vállalkozásnak nyújtott
+támogatás;
+i) 11–12. és 24. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatás-fejlesztési projekthez
+nyújtott támogatás;
+j) F:11 mező 1) pontja és F:12 mező 5) pontja alapján a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és
+középvállalkozásnak nyújtott innovációs támogatás;
+k) 11–12. és 24. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
+l) 11–12., 15–18., 21. és 24. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és
+multifunkcionális szabadidős létesítményekre nyújtott támogatás;
+m) 11–12., 15–18., 21. és 24. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára
+irányuló támogatás;
+n) 10. sor, F:11 mező 10), 11), 15) és 19) pontja, F:12 mező 6) és 7) pontja, F:18 mező 1) pontja alapján a 360/2012/EU
+bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás;
+o) 11–12., 15–18., 21. és 24. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról
+szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban:
+SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás,
+tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós
+intézkedésekhez nyújtott támogatás
+nyújtható.”
+
+2. §
+A Rendelet 34. §-a helyébe a következő rendelkezés lép:
+„34. § Az 1. mellékletben foglalt táblázat
+a) 8., 10–12., 15–18., 21. és 24. sora az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély
+összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet
+(HL L 352., 2013.12.24., 1. o.),
+b) 11–12. és 24. sora az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági
+ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1408/2013/EU
+bizottsági rendelet (HL L 352., 2013.12.24., 9. o.),
+c) 8., 10–12., 15–18., 21. és 24. sora a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási
+kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i (EU) 651/2014
+bizottsági rendelet (HL L 187., 2014.6.26., 1. o.) I. és II. Fejezete, valamint 13., 14., 18., 19., 22., 25., 28., 31., 53., 55. és
+56. cikke,
+d) 11–12., 15–18., 21. és 24. sora az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének
+az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás
+ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU
+bizottsági határozat (HL L 7., 2012.1.11., 3. o.),
+e) 11–12., 15–18., 21. és 24. sora a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló
+európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat,
+f) 10. sora, F:11 mező 10), 11), 15) és 19) pontja, F:12 mező 6) és 7) pontja, F:18 mező 1) pontja az Európai Unió
+működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások
+számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági
+rendelet (HL L 114., 2012.4.26., 8. o.)
+hatálya alá tartozó támogatást tartalmaz.”
+3. §
+A Rendelet 1. melléklete helyébe az 1. melléklet lép.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Rogán Antal s. k.,
+ a miniszterelnök kabinetfőnöke
+
+1. melléklet az 1/2020. (II. 18.) MK rendelethez
+„1. melléklet a 2/2018. (XII. 28.) MK rendelethez
+XXI. Miniszterelnöki Kabinetiroda fejezet 2020. évi fejezeti és központi kezelésű költségvetési kiadási előirányzatainak feladatterve
+
+„1. melléklet a 2/2018. (XII. 28.) MK rendelethez
+XXI. Miniszterelnöki Kabinetiroda fejezet 2020. évi fejezeti és központi kezelésű költségvetési kiadási előirányzatainak feladatterve
+A B C D E F G H I J K L M N O
+1.
+Áht.
+azonosító
+Cím
+név
+Alcím
+név
+Jogcím-
+csoport
+név
+Jogcím
+név
+Előirányzat célja
+Kifizetésben
+részesülők köre
+Támogatás
+biztosításának
+módja
+Támogatási
+előleg
+Rendelkezésre
+bocsátás módja
+Visszafizetés
+határideje
+Biztosíték
+Kezelő
+szerv
+Lebonyo-
+lító
+szerv
+Európai uniós
+forrásból
+finanszírozott
+költségvetési
+támogatás
+közreműködő
+szervezete
+2.
+20 Fejezeti kezelésű előirányzatok
+3. 20/1 Célelőirányzatok
+4. 296646 20/1/1 Kormányfői
+protokoll
+Az előirányzat a miniszterelnök és
+a miniszterelnök helyett, az ő nevében
+eljáró személy körüli, valamint
+a kormányfő házastársához kapcsolódó
+protokollfeladatok ellátására használható
+fel. Az előirányzat fedezi a külföldi és
+a belföldi kormányfői
+protokoll-látogatásokhoz, valamint
+a miniszterelnök és a miniszterelnök
+helyett, az ő nevében eljáró személy
+részvételével lebonyolított nemzetközi,
+állami rendezvényekhez, a kormányfő
+házastársához kapcsolódó személyi,
+valamint az egyéb dologi jellegű
+kiadásokat.
+Az előirányzat terhére visszterhes
+kifizetés is teljesíthető.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Központi
+költségvetési
+szerv,
+gazdasági
+társaság,
+Magyar
+Államkincstár.
+Előleg
+folyósítható.
+Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel,
+előirányzat-
+átcsoporto-
+sítással.
+– – – – –
+5. 331340 20/1/2 Kormányzati
+kommunikációval és
+konzultációval
+kapcsolatos feladatok
+Az előirányzat tartalmazza
+a miniszterelnökhöz és a Kormány
+tevékenységéhez kapcsolódó egységes
+lakossági tájékoztató, kommunikációs és
+konzultációs feladatok fedezeteit.
+Az előirányzat terhére visszterhes
+kifizetés is teljesíthető.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi tranzakciós illetékek
+fedezetére is.
+Központi
+költségvetési
+szerv,
+költségvetési
+szerv,
+gazdasági
+társaság,
+Magyar
+Államkincstár.
+Előleg
+folyósítható
+Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel,
+előirányzat-
+átcsoporto-
+sítással.
+– – – – –
+
+6. 347662 20/1/5 Batthyány Lajos
+Alapítvány működéséhez
+és feladatainak
+ellátásához szükséges
+hozzájárulás
+Az előirányzat célja a Batthyány Lajos
+Alapítvány finanszírozása az alapító
+okiratában meghatározott feladatok
+ellátásának támogatása, valamint
+a magyar nemzet iránt elkötelezett,
+az európai egység irányába mutató,
+a közös keresztény értékek és
+a demokratikus, képviseleti kormányzás
+alapján álló magyar közélet támogatása.
+Az előirányzat fedezetet nyújt e cél
+érdekében beruházások, felújítások
+megvalósítására is.
+A támogatás az alapítvány, az alapítvány
+által támogatott szervezetek projektjeinek
+és működésének a támogatási igény
+benyújtásakor már megkezdett vagy
+megvalósult tevékenységére is nyújtható.
+Az előirányzat forrást biztosít a
+felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Batthyány Lajos
+Alapítvány,
+gazdasági
+társaság, civil
+szervezet, helyi
+önkormányzat
+és az általa
+fenntartott
+intézmény,
+egyházi jogi
+személy,
+közalapítvány,
+szakmai
+érdekképviselet,
+magánszemély,
+Magyar
+Államkincstár.
+A támogatás
+teljes összege
+vagy bizonyos
+része
+a támogatott
+tevékenység
+megvalósítá-
+sának
+veszélyeztetése
+nélkül
+a minisztérium
+és a Batthyány
+Lajos
+Alapítvány mint
+lehetséges
+kedvezmé-
+nyezett között
+megkötött
+szerződésnek
+megfelelően
+harmadik
+személy által is
+felhasználható.
+Jogszabály,
+pályázati
+rendszeren
+kívül,
+kérelemre
+hozott egyedi
+döntés
+alapján,
+pályázati
+úton,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy
+részletekben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– Igen –
+7. 355951 20/1/6 Fejezeti általános
+tartalék
+Az előirányzat az esetlegesen felmerülő,
+előre nem tervezhető, eseti jellegű, év
+közben szükségessé váló feladatok
+megoldásával kapcsolatos kiadások,
+befizetési kötelezettségek, bírságok,
+finanszírozására nyújt fedezetet.
+A minisztériumhoz, valamint a miniszter
+személyéhez kötődő egyéb
+rendezvényekhez és az ehhez
+kapcsolódó kommunikációs
+feladatokhoz, a központi forrásokból nem
+finanszírozott fejezeti feladatokhoz
+szükséges, év közben jelentkező
+többletfeladatok kiadásaira
+használható fel.
+Fejezeten belüli
+költségvetési
+szerv és fejezeti
+kezelésű
+előirányzat.
+– Előirányzat
+átcsoporto-
+sítással.
+– – – – –
+8. 359095 20/1/7 MK felügyelete alá
+tartozó szervezetek és
+szakmai programok
+támogatása
+Az előirányzat a fejezetnél év közben
+jelentkező többletfeladatok – ideértve
+a beruházási célú feladatokat is –
+ellátásának fedezetére szolgál, továbbá
+forrást biztosít egyedi támogatói
+döntések alapján támogatandó,
+a minisztérium feladatkörébe utalt
+Költségvetési
+szerv és
+az általa
+fenntartott
+költségvetési
+intézmény,
+gazdasági
+Jogszabály,
+költségvetési
+megálla-
+podás,
+pályázati
+rendszeren
+kívül,
+Előleg
+folyósítható.
+Egyösszegű
+vagy részle-
+tekben történő
+kifizetéssel,
+előirányzat
+átcsoporto-
+sítással.
+Költségvetési
+megálla-
+podás,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr. 84. §
+(2) bekez-
+dése
+alapján.
+– – –
+
+feladatok, programok megvalósítására is.
+A költségvetési támogatás a támogatási
+igény benyújtásakor már megkezdett
+vagy megvalósult tevékenységre is
+nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+társaság, civil
+szervezet,
+egyházi jogi
+személy,
+közalapítvány,
+szakmai
+érdekképviselet,
+Magyar
+Államkincstár.
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat alapján.
+9. 359106 20/1/8 Tihanyi Alapítvány
+támogatása
+Az előirányzat a Tihanyi Alapítvány
+működésére és céljainak
+megvalósítására kerül felhasználásra
+annak érdekében, hogy az alapítvány
+szakmai programja, infrastruktúrája és
+egyéb tevékenységei megfelelően,
+a célcsoport szükségleteihez igazodva
+megvalósulhassanak. A támogatás
+a támogatási igény benyújtásakor már
+megkezdett vagy megvalósult
+tevékenységre is nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Tihanyi
+Alapítvány,
+Magyar
+Államkincstár.
+Jogszabály,
+pályázati
+rendszeren
+kívül,
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat alapján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy
+részletekben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr. 84. §
+(2) bekez-
+dése
+alapján.
+– – –
+10. 384351 20/1/9 Tudatos nemzeti
+közjogi gondolkodás és
+a magyar kulturális
+értékek megőrzése és
+fejlesztése
+(2019. évi maradványa)
+Az előirányzat célja olyan programok
+támogatása, melyek hozzájárulnak
+a tudatos nemzeti közjogi gondolkodás
+megalapozásával és ehhez kapcsolódva
+a magyar kulturális értékek megőrzésével
+és fejlesztésével összefüggő feladatok
+ellátására. Támogatás az igény
+benyújtásakor már megkezdett vagy
+megvalósult tevékenységre is nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Költségvetési
+szerv,
+gazdasági
+társaság, civil
+szervezet, helyi
+önkormányzat
+és az általa
+fenntartott
+intézmény,
+egyházi jogi
+személy,
+közalapítvány,
+szakmai
+érdekképviselet,
+Magyar
+Államkincstár.
+Jogszabály,
+Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat
+átcsoporto-
+sítással.
+Költségvetési
+megálla-
+podás,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr. 84. §
+(2) bekez-
+dése
+alapján.
+– Igénybe
+vehető.
+–
+
+11. 347784 20/1/10 Turisztikai
+célelőirányzat
+Az előirányzat fedezetet biztosít
+a 2019. évi kötelezettségvállalással
+terhelt maradványok kifizetésére a(z)
+1) turizmussal, vendéglátással
+kapcsolatos megalapozó tanulmányok,
+tervek, koncepciók, projektek
+kidolgozására, megvalósítására;
+2) turisztikai és vendéglátóipari terület- és
+termékfejlesztés támogatására,
+turizmussal és vendéglátással
+kapcsolatos kutatásokra;
+3) turizmus és vendéglátás
+szempontjából jelentős beruházások,
+infrastrukturális fejlesztések,
+szolgáltatások támogatására, és
+a meglévő kapacitások bővítésére;
+4) turisztikai és vendéglátóipari szakmai
+képzés támogatására, többek között
+bármely államilag elismert
+vagy akkreditált képzést szervező és
+folytató szervezetnek a képzés
+érdekében szükséges oktatási anyagok,
+segédanyagok finanszírozására,
+a gyakorlati képzés támogatására;
+5) szállodák, vendéglátóhelyek, valamint
+más turisztikai szolgáltatók programjaira;
+6) EU forrásokból meghirdetett
+programokban és nemzetközi
+szervezetekben történő részvételekre;
+7) turisztikai termékfejlesztési
+beruházásokhoz igénybe vett hitel
+kamatterhének fedezetére;
+8) marketing és promóciós tevékenység
+és az ehhez kapcsolódó személyi és
+tárgyi kiadások finanszírozására bel- és
+külföldön, ideértve a Magyar Turisztikai
+Ügynökség Zrt. (a továbbiakban:
+MTÜ Zrt.) és tulajdonosi joggyakorlása
+alá tartozó gazdasági társaságok által
+ellátott szakmai-marketing feladatokat is;
+9) országos, regionális és nemzetközi
+hatókörű, a turizmussal és
+vendéglátással kapcsolatos
+rendezvények, fesztiválok
+megvalósítására;
+10) természeti és kulturális értékek
+megőrzésének támogatására, valamint
+az épített örökség helyreállítására;
+11) alkotóművészeti, előadó-művészeti,
+múzeumi, könyvtári, levéltári,
+közművelődési vagy
+örökségvédelmi-műemlékvédelmi
+tevékenységek ellátására;
+12) turizmus vagy vendéglátás
+szempontjából releváns tevékenységet
+folytató kis- és középvállalkozásoknak
+nyújtott támogatásokra;
+13) turisztikai és vendéglátóipari
+tevékenységet folytató induló
+vállalkozások fejlesztésére;
+14) turisztikai és vendéglátóipari
+tevékenységet folytató vállalkozások
+munkavállalóinak képzésére;
+Természetes
+személy,
+gazdasági
+társaság,
+Magyar
+Államkincstár,
+egyéni
+vállalkozó, civil
+szervezet,
+szövetkezet,
+helyi
+önkormányzat,
+köztestület,
+költségvetési
+szerv, szakmai
+érdekképviselet,
+98/2012.
+(V. 15.)
+Korm. rendelet
+2. §
+(1) bekezdés
+a)–c) pontjában
+meghatározott
+személyek és
+szervezetek,
+MK Igazgatás.
+A nyújtott
+támogatás
+teljes összege
+vagy bizonyos
+része
+a támogatott
+tevékenység
+megvalósítá-
+sának
+veszélyeztetése
+nélkül
+a minisztérium
+vagy
+a minisztérium
+nevében eljáró
+kezelő szerv
+és a kedvezmé-
+nyezett között
+létrejött
+támogatási
+jogviszonyban
+foglaltaknak
+megfelelően
+harmadik
+személy által is
+felhasználható.
+Jogszabály,
+Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés és
+pályázati
+kiírás alapján
+kiadott/ kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat-
+átcsoporto-
+sítással.
+Kezelői
+megálla-
+podás,
+költségvetési
+megálla-
+podás,
+jognyilatkozat,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+MTÜ
+Zrt.
+– –
+
+15) országos és regionális turisztikai
+feladatokhoz kapcsolódó információs
+rendszer kialakítására, működtetésére és
+fejlesztésére;
+16) turisztikailag frekventált területek
+szúnyoggyérítéssel kapcsolatos
+feladatainak ellátására;
+17) jogszabályban vagy a Kormány által
+a turizmusért és a vendéglátásért való
+kormányzati felelősségi körben
+meghatározott egyéb, turisztikai és
+vendéglátási szakágazattal kapcsolatos
+célok végrehajtására;
+18) turisztikai és vendéglátóipari
+tevékenységet folytató kis- és
+középvállalkozások vásári részvételére;
+19) nemzeti ünnep- és emléknaphoz
+kapcsolódó közszolgáltatási célú
+rendezvények megszervezésére, melyek
+megvalósítására kiemelkedően magas
+látogatószámú célterületeken kerül sor;
+20) előirányzathoz kapcsolódó peres
+eljárásban bírósági ítélet vagy végzés
+alapján kártérítés-fizetési kötelezettség
+kifizetésére;
+21) Tour de Hongrie kerékpáros
+körverseny megrendezésével
+összefüggő kommunikációs kiadásokra;
+22) előirányzat céljaihoz kapcsolódóan
+határon túlra nyújtott támogatáshoz,
+összhangban a határon túli költségvetési
+támogatások sajátos szabályairól szóló
+98/2012. (V. 15.) Korm. rendeletben
+[a továbbiakban: 98/2012. (V. 15.)
+Korm. rendelet] foglaltakkal;
+23) turisztikai fejlesztési projektekben
+részt vevő turisztikai szervezetek
+támogatására;
+24) az MTÜ Zrt. és a tulajdonában vagy
+tulajdonosi joggyakorlása alatt álló
+gazdasági társaságoknak az 1)–24)
+pontban és az F:12 mező 1)–12)
+pontjaiban foglalt feladatai végrehajtása
+kapcsán felmerülő működési
+költségeinek fedezésére;
+25) turizmusdiplomáciai feladatok
+ellátásához kapcsolódó kiutazások és
+delegációk fogadása és az évközben
+felmerülő, magas szinten kiemelt
+figyelmet igénylő turizmusdiplomáciával
+kapcsolatos ad-hoc tevékenységek
+támogatására;
+26) pozitív országkép kialakításához
+szükséges forrás (erdélyi repülőjáratok);
+27) továbbá az előirányzat kezelésével
+kapcsolatban felmerülő költségekre,
+pénzügyi tranzakciós illetékekre és
+kincstári díjakra.
+Támogatás az igény benyújtásakor már
+megkezdett vagy megvalósult
+tevékenységre is nyújtható.
+
+12. 360239 20/1/11 Turisztikai
+fejlesztési célelőirányzat
+1) Az előirányzat fedezetet nyújt
+a Magyar Turisztikai Ügynökség Zrt.
+turizmussal és vendéglátással
+kapcsolatos egyes feladatainak
+ellátásához, így a turisztikai térségek
+fejlesztésének állami feladatairól szóló
+2016. évi CLVI. törvényben, annak
+felhatalmazása alapján elfogadott Korm.
+rendeletekben, különösen a Magyar
+Turisztikai Ügynökség Zártkörűen
+Működő Részvénytársaság turizmussal
+és vendéglátással kapcsolatos egyes
+feladatainak meghatározásáról szóló
+61/2017. (III. 20.) Korm rendeletben
+foglaltakra; ezen belül is különösen
+a turisztikai és a vendéglátó-ipari
+ágazattal összefüggő marketing- és
+egyéb kommunikációs költségek
+finanszírozására,
+2) a Kisfaludy fejlesztési program
+lebonyolítására, és a programmal
+kapcsolatban a szálláshelyek részére
+a Nemzeti Turisztikai Adatszolgáltató
+Központ (NTAK) informatikai
+rendszerével összefüggő költségek
+finanszírozására, kivéve az informatikai
+alapinfrastruktúra működtetésének
+kiadásait,
+3) a nemzeti ünnep- és emléknapokhoz
+kapcsolódó közszolgáltatási célú
+rendezvények megszervezésére,
+4) a Tour de Hongrie kerékpáros
+körverseny megrendezésével
+összefüggő kommunikációs kiadásokra,
+5) térségi turisztikai fejlesztési projektek
+lebonyolítására, célzott támogatására,
+6) egyéb turisztikai fejlesztési projektek
+és gasztronómiai projektek
+lebonyolítására, célzott támogatására,
+7) célzott támogatások nyújtása
+a szakágazattal összefüggő események
+szervezéséhez,
+8) a magyar borturizmushoz, valamint
+a magyar bor egységes
+kommunikációjához kapcsolódó
+feladatokra,
+9) turizmus diplomáciai feladatokkal
+összefüggő, nem a fejezetnél keletkező
+közvetlen kiadások finanszírozására,
+10) előirányzat céljaihoz kapcsolódóan
+határon túlra nyújtott támogatáshoz,
+összhangban 98/2012. (V. 15.)
+Korm. rendeletben foglaltakkal,
+11) továbbá az előirányzat
+felhasználásával kapcsolatos kincstári
+díjakra és a 2019. évi pénzügyi
+tranzakciós illetékekre.
+Támogatás az igény benyújtásakor már
+megkezdett vagy megvalósult
+tevékenységre is nyújtható.
+Magánszemély,
+gazdasági
+társaság, civil
+szervezet,
+köztestület,
+költségvetési
+szerv és az
+általa fenntartott
+költségvetési
+intézmény,
+szakmai
+érdekképviselet,
+egyházi jogi
+személy,
+befektetési
+alapok és
+az azok
+nevében eljáró
+alapkezelők,
+MK Igazgatás,
+98/2012.
+(V. 15.) Korm.
+rendelet 2. §
+(1) bekezdés
+a)–c) pontjában
+meghatározott
+személyek és
+szervezetek,
+Magyar
+Államkincstár.
+A nyújtott
+támogatás
+teljes összege
+vagy bizonyos
+része
+a támogatott
+tevékenység
+megvalósítá-
+sának
+veszélyeztetése
+nélkül
+a minisztérium
+vagy
+a minisztérium
+nevében eljáró
+kezelő szerv
+és a kedvezmé-
+nyezett között
+létrejött
+támogatási
+jogviszonyban
+foglaltaknak
+megfelelően
+harmadik
+személy által is
+felhasználható.
+Jogszabály,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés és
+pályázati
+kiírás alapján
+kiadott/ kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat-
+átcsoportosí-
+tással.
+Kezelői
+megállapodás,
+költségvetési
+megállapodás,
+jognyilatkozat,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+MTÜ
+Zrt.
+– –
+
+13. 375906 20/1/12 Közösségépítő
+kezdeményezések
+támogatása
+Az előirányzat célja az egyes
+közösségépítéseket erősítő kiemelt
+kormányzati kezdeményezések
+összehangolása, a nemzeti identitást és
+patriotizmust erősítő kiemelt kormányzati
+kezdeményezések támogatása.
+Az előirányzat terhére visszterhes
+kifizetés is teljesíthető.
+Támogatás az igény benyújtásakor már
+megkezdett vagy megvalósult
+tevékenységre is nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Költségvetési
+szerv és az
+általa fenntartott
+költségvetési
+intézmény, civil
+szervezet,
+egyházi jogi
+személy,
+gazdasági
+társaság,
+magánszemély,
+Magyar
+Államkincstár.
+Jogszabály,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján;
+pályázati
+kiírás alapján
+kiadott/ kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat-
+átcsoportosí-
+tással.
+Költségvetési
+megállapodás,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– Igénybe
+vehető.
+–
+14. 376040 20/1/13 Kommentár
+Alapítvány támogatása
+Az előirányzat fedezetet biztosít
+a Kommentár Alapítvány működésének
+támogatására az alapítvány céljaival
+összhangban, fedezi többek között
+a Kommentár folyóirat kiadásának
+költségeit, a Tranzit rendezvény- és
+képzéssorozat lebonyolítását, illetve
+az előirányzatból nyújtott támogatás
+céljai között szerepel egy új képzési
+centrum létesítése, melynek érdekében
+fejlesztési, beruházási célú támogatás is
+nyújtható. Támogatás az igény
+benyújtásakor már megkezdett vagy
+megvalósult tevékenységre is nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Kommentár
+Alapítvány,
+Magyar
+Államkincstár.
+Jogszabály,
+pályázati
+rendszeren
+kívül, kérelem
+alapján,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– – –
+
+15. 367184 20/1/14 Aktív
+Magyarországért felelős
+kormánybiztos
+tevékenységével
+összefüggő feladatok
+A magyarországi víziszabadidő-sportok
+széles körű hozzáférésének
+támogatására irányuló program
+megvalósításához szükséges
+intézkedésekről szóló 1837/2016.
+(XII. 23.) Korm. határozat, valamint
+a gyermek és ifjúsági gyalogos
+vándortáborozás támogatásával
+kapcsolatos feladatokról szóló
+1159/2017. (III. 22.) Korm. határozatban
+foglalt tevékenységek folytatásának
+támogatása. Az előirányzat fedezetet
+biztosít az aktív Magyarországért felelős
+kormánybiztos kinevezéséről és
+feladatairól szóló 1252/2018. (V. 25.)
+Korm. határozatban kijelölt feladatokra,
+így különösen
+az aktív turizmussal kapcsolatos
+- megalapozó tanulmányok, tervek,
+koncepciók, projektek kidolgozására,
+megvalósítására, ehhez kapcsolódó
+személyi és tárgyi kiadások
+finanszírozására;
+- kutatásokra, terület- és termékfejlesztés
+támogatására, infrastrukturális
+fejlesztések és szolgáltatások
+kidolgozására;
+- szakmai képzések támogatására, ezek
+lebonyolításához kapcsolódó személyi és
+tárgyi kiadások finanszírozására;
+- marketing és promóciós tevékenység,
+rendezvények, konferenciák, kiállítások
+és az ehhez kapcsolódó személyi és
+tárgyi kiadások finanszírozására bel- és
+külföldön, továbbá fedezetet biztosít;
+- az Aktív Magyarországért felelős
+kormánybiztos tevékenységével
+összefüggő reprezentációs költségekre;
+az előirányzat felhasználásával
+kapcsolatos kincstári díjakra és
+a 2019. évi pénzügyi tranzakciós
+illetékekre.
+Az előirányzat terhére visszterhes
+kifizetés is teljesíthető. Támogatás
+az igény benyújtásakor már megkezdett
+vagy megvalósult tevékenységre is
+nyújtható.
+Helyi
+önkormányzat
+és költségvetési
+szerve, központi
+költségvetési
+szerv, civil
+szervezet,
+egyházi jogi
+személy,
+gazdasági
+társaság,
+Magyar
+Államkincstár.
+A támogatás
+teljes összege
+vagy bizonyos
+része a
+támogatott
+tevékenység
+megvalósítá-
+sának
+veszélyeztetése
+nélkül
+a minisztérium
+vagy
+a minisztérium
+nevében eljáró
+lebonyolító és
+a kedvezmé-
+nyezett között
+megkötött
+szerződésnek
+megfelelően
+harmadik
+személy által is
+felhasználható.
+Jogszabály,
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés,
+Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat-
+átcsoportosí-
+tással.
+Költségvetési
+megállapodás,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– Igénybe
+vehető.
+–
+16. 375328 20/1/15 Magyarországi
+nyaralóhajózás
+alapjainak és hátterének
+megteremtése
+Az előirányzat forrást biztosít
+a Magyarországi nyaralóhajózás
+alapjainak és hátterének
+megteremtésével kapcsolatos program
+megvalósításának folytatására, illetve
+befejezésére a „Magyarországi
+nyaralóhajózás alapjainak és hátterének
+megteremtésével kapcsolatos program”
+megvalósításához szükséges további
+intézkedésekről szóló 1761/2018.
+(XII. 20.) Korm. határozat szerint, és
+az előirányzat felhasználásával
+kapcsolatos kincstári díjakra és
+a 2019. évi pénzügyi tranzakciós
+illetékekre. Támogatás az igény
+MAHART Zrt.,
+Aktív- és
+Ökoturisztikai
+Fejlesztési
+Központ
+Nonprofit
+Korlátolt
+Felelősségű
+Társaság,
+Magyar
+Államkincstár.
+Jogszabály,
+kormány-
+határozat,
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– – –
+
+benyújtásakor már megkezdett vagy
+megvalósult tevékenységre is nyújtható.
+támogatási
+szerződés,
+kormány-
+határozat
+vagy az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+17. 359962 20/1/16 Téry Ödön
+Nemzeti
+Turistaház-fejlesztési
+Program
+Az előirányzat forrást biztosít a Téry
+Ödön Nemzeti Turistaház fejlesztési
+Program megvalósításával felmerült
+költségek finanszírozására.
+Az előirányzat felhasználására a Téry
+Ödön Nemzeti Turistaház-fejlesztési
+Program módosításával kapcsolatos
+intézkedésekről szóló 1739/2018.
+(XII. 20.) Korm. határozatban foglalt célok
+mentén kerül sor. Támogatás az igény
+benyújtásakor már megkezdett vagy
+megvalósult tevékenységre is nyújtható.
+Az előirányzat forrást biztosít a
+felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Központi
+költségvetési
+szerv, helyi
+önkormányzat
+költségvetési
+szerv és
+az általa
+fenntartott
+költségvetési
+intézmény, civil
+szervezet,
+egyházi jogi
+személy,
+gazdasági
+társaság,
+Magyar
+Államkincstár,
+más fejezet
+irányítása alá
+tartozó központi
+költségvetési
+szerv.
+Jogszabály,
+pályázati
+kiírás, vagy
+pályázati
+rendszeren
+kívül,
+kérelemre
+hozott, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés,
+kormány-
+határozat
+vagy Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat-
+átcsoportosí-
+tással.
+Költségvetési
+megállapodás,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+Igénybe
+vehető.
+–
+18. 376084 20/1/17 Aktív
+kikapcsolódást szolgáló
+programok, beruházások
+Az előirányzat fedezetet biztosít
+1) az aktív Magyarországért felelős
+kormánybiztos kinevezéséről és
+feladatairól szóló 1252/2018. (V. 25.)
+Korm. határozatban kijelölt feladatokra;
+2) marketing és promóciós tevékenység,
+rendezvények, konferenciák, kiállítások
+és az ehhez kapcsolódó személyi és
+tárgyi kiadások finanszírozására bel- és
+külföldön, az előirányzat céljaihoz
+kapcsolódóan határon túlra nyújtott
+támogatáshoz, összhangban
+a 98/2012. (V. 15.) Korm. rendeletben
+foglaltakkal,
+3) az előirányzat felhasználásával
+kapcsolatos kincstári díjak és a 2019. évi
+pénzügyi tranzakciós illetékek
+fedezetére.
+Az előirányzat terhére visszterhes
+kifizetés is teljesíthető.
+Támogatás az igény benyújtásakor már
+megkezdett vagy megvalósult
+tevékenységre is nyújtható.
+Központi
+költségvetési
+szerv, helyi
+önkormányzat
+költségvetési
+szerv és az
+általa fenntartott
+költségvetési
+intézmény, civil
+szervezet,
+egyházi jogi
+személy,
+gazdasági
+társaság, más
+fejezet
+irányítása alá
+tartozó központi
+költségvetési
+szerv,
+köztestületek,
+98/2012.
+(V. 15.) Korm.
+rendelet 2. §
+(1) bekezdés
+a)–c) pontjában
+meghatározott
+személyek és
+szervezetek,
+Jogszabály,
+költségvetési
+megálla-
+podás,
+pályázati
+kiírás, vagy
+pályázati
+rendszeren
+kívül,
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel,
+előirányzat-
+átcsoportosítás.
+Költségvetési
+megállapodás,
+támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– Igénybe
+vehető.
+–
+
+Magyar
+Államkincstár.
+A támogatás
+teljes összege
+vagy bizonyos
+része
+a támogatott
+tevékenység
+megvalósítá-
+sának
+veszélyeztetése
+nélkül
+a minisztérium
+vagy
+a minisztérium
+nevében eljáró
+lebonyolító és
+a kedvezmé-
+nyezett között
+megkötött
+szerződésnek
+megfelelően
+harmadik
+személy által is
+felhasználható.
+19. 376262 20/1/19 Magyar
+Corvin-lánc Testület
+támogatása
+Az előirányzat célja a Magyar Corvin-lánc
+Testület működésének és a Magyar
+Corvin-lánc Testületről szóló 2016. évi
+CXLI. törvény 6. §-a és az alapszabálya
+alapján ellátott szakmai feladatok
+támogatása, valamint a Róheim-villa
+műemlékingatlan felújítása, a köztestület
+és a Magyar Corvin-lánc Iroda
+elhelyezésének támogatása.
+Támogatás a támogatási igény
+benyújtásakor már megkezdett vagy
+megvalósult tevékenységre is nyújtható.
+Az előirányzat forrást biztosít a
+felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Magyar
+Corvin-lánc
+Testület,
+Magyar
+Államkincstár.
+Jogszabály,
+pályázati
+rendszeren
+kívül, kérelem
+alapján hozott
+egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés,
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+Előleg
+folyósítható.
+Egyösszegű
+vagy részletben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– – –
+20. 379084 20/1/21 Nemzetközi
+tagdíjak
+Az előirányzat célja a turizmussal és
+vendéglátással kapcsolatos állami
+feladatokra vonatkozó nemzetközi
+tagdíjak, továbbá az MTÜ Zrt.
+a Kiállítások Nemzetközi Irodájában
+ellátott feladataihoz kapcsolódó
+nemzetközi tagdíjak fedezetének
+biztosítása. Az előirányzat terhére
+visszterhes kifizetés is teljesíthető.
+Az előirányzat forrást biztosít a
+felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Nemzetközi
+tagdíjra jogosult
+vagy annak
+fizetésére
+kötelezett
+nemzetközi
+érdekképviseleti
+szervezetek,
+vagy
+érdekképviseleti
+tagdíj fizetésére
+kötelezett
+magyar
+szervezetek,
+– – Egyösszegű
+vagy
+részletekben
+történő
+közvetlen
+kifizetéssel.
+– – – – –
+
+gazdasági
+társaságok,
+központi
+költségvetési
+szerv, Magyar
+Államkincstár.
+21. 379273 20/1/23 Aktív- és
+Ökoturisztikai Fejlesztési
+Központ Nonprofit
+Korlátolt Felelősségű
+Társaság
+Az előirányzat fedezetet nyújt az Aktív-
+és Ökoturisztikai Fejlesztési Központ
+Nonprofit Korlátolt Felelősségű Társaság
+működtetése és szakmai feladatainak
+ellátása kapcsán felmerülő kiadások
+finanszírozására az aktív- és
+ökoturizmussal összefüggő
+tevékenységek fejlesztéséhez szükséges
+intézkedésekről szóló 1144/2019.
+(III. 18.) Korm. határozatban foglaltak
+szerint.
+A költségvetési támogatás a támogatási
+igény benyújtásakor már megkezdett
+vagy megvalósult tevékenységekre is
+nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Aktív és
+Ökoturisztikai
+Fejlesztési
+Központ
+Nonprofit Kft.,
+Magyar
+Államkincstár.
+Jogszabály,
+Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat, egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+–
+22. 380140 20/1/24 Kiemelt
+társadalmi kapcsolatok
+Az előirányzat tartalmazza a nemzetközi
+és hazai szintéren történő kormányzati
+kommunikációval és konzultációval
+kapcsolatos feladatok, valamint
+az állampolgárok életét kiemelten érintő
+kormányzati döntésekkel kapcsolatos
+feladatok ellátásának forrását.
+Az előirányzat terhére visszterhes
+kifizetés is teljesíthető. Az előirányzat
+forrást biztosít a felhasználással
+kapcsolatos pénzügyi tranzakciós
+illetékek és kincstári díjak fedezetére is.
+Központi
+költségvetési
+szerv,
+gazdasági
+társaság,
+Magyar
+Államkincstár.
+– – Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel,
+előirányzat-
+átcsoporto-
+sítással.
+– – – – –
+23. 380151 20/1/25 Digitális
+Kormányzati Ügynökség
+Zrt. működtetése
+Az előirányzat finanszírozza a Digitális
+Kormányzati Ügynökség a Nemzeti
+Hírközlési és Informatikai Tanácsról,
+valamint a Digitális Kormányzati
+Ügynökség Zártkörűen Működő
+Részvénytársaság és a kormányzati
+informatikai beszerzések központosított
+közbeszerzési rendszeréről szóló
+301/2018. (XII. 27.) Korm. rendeletben
+foglaltak szerint közfeladatként ellátott,
+a kormányzati informatikai beszerzések
+központosításával és az egyes
+informatikai beruházások
+szükségességéről szóló döntés
+központosításával kapcsolatos állami
+feladatokat, így különösen
+a) az egyes kormányzati informatikai
+beruházások és beszerzések döntés
+előkészítését,
+b) az egyes kormányzati informatikai
+beruházások és beszerzések
+engedélyezését,
+c) az egyes kormányzati informatikai
+beszerzések központosított
+Digitális
+Kormányzati
+Ügynökség Zrt.,
+Magyar
+Államkincstár.
+Kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat,
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés
+útján.
+Előleg
+folyósítható.
+Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+
+megvalósítását. Az előirányzat fedezetet
+nyújt a Digitális Kormányzati Ügynökség
+működtetése kapcsán felmerülő
+kiadásokra is.
+A költségvetési támogatás a támogatási
+igény benyújtásakor már megkezdett
+vagy megvalósult tevékenységekre is
+nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+24. 384140 20/1/26 Magyar
+Turisztikai Ügynökség
+Zrt. szakmai feladatainak
+ellátása
+Az előirányzat fedezetet nyújt a Magyar
+Turisztikai Ügynökség Zrt. működtetése
+és szakmai feladatainak ellátása kapcsán
+felmerülő kiadások finanszírozására.
+A költségvetési támogatás a támogatási
+igény benyújtásakor már megkezdett
+vagy megvalósult tevékenységekre is
+nyújtható.
+Az előirányzat forrást biztosít
+a felhasználással kapcsolatos kincstári
+díjak és a 2019. évi pénzügyi tranzakciós
+illetékek fedezetére is.
+Magyar
+Turisztikai
+Ügynökség Zrt.,
+Magánszemély,
+gazdasági
+társaság, civil
+szervezet,
+köztestület,
+helyi
+önkormányzati,
+költségvetési
+szerv és
+az általa
+fenntartott
+költségvetési
+intézmény,
+szakmai
+érdekképviselet,
+egyházi jogi
+személy,
+befektetési
+alapok és az
+azok nevében
+eljáró
+alapkezelők,
+MK Igazgatás,
+Magyar
+Államkincstár.
+A nyújtott
+támogatás
+teljes összege
+vagy bizonyos
+része
+a támogatott
+tevékenység
+megvalósítá-
+sának
+veszélyeztetése
+nélkül
+a minisztérium
+vagy
+a minisztérium
+nevében eljáró
+kezelő szerv
+és a kedvezmé-
+nyezett között
+létrejött
+támogatási
+jogviszonyban
+foglaltaknak
+Jogszabály,
+pályázati
+rendszeren
+kívül
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés,
+továbbá
+kormány-
+határozat
+vagy
+az Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+Előleg
+folyósítható.
+Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel,
+előirányzat-
+átcsoporto-
+sítással.
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+Igen
+
+megfelelően
+harmadik
+személy által is
+felhasználható.
+25. 21 Központi kezelésű
+előirányzatok
+26. 21/1 A Miniszterelnöki
+Kabinetiroda tulajdonosi
+joggyakorlásával kapcsolatos
+bevételek és kiadások
+27. 379251 21/1/1 A
+Miniszterelnöki
+Kabinetiroda
+tulajdonosi
+joggyakorlása alá
+tartozó társaságok
+tőkeemelése,
+pótbefizetése
+Az előirányzat fedezetet biztosít
+a minisztérium tulajdonosi joggyakorlása
+alá tartozó gazdasági társaságok,
+tőkeemelésének és pótbefizetéseinek
+finanszírozására.
+Minisztérium
+tulajdonosi
+joggyakorlása
+alá tartozó
+gazdasági
+társaságok.
+Alapítói vagy
+közgyűlési
+határozat
+útján.
+– Tőkeemelés,
+pótbefizetés
+jogcímen.
+Alapítói vagy
+közgyűlési
+határozat
+szerint.
+– –
+28. 21/2 A Magyar Turisztikai
+Ügynökség Zrt. tulajdonosi
+joggyakorlásával kapcsolatos
+bevételek és kiadások
+29. 377062 21/2/1 A Magyar
+Turisztikai
+Ügynökség Zrt.
+tulajdonosi
+joggyakorlása alá
+tartozó társaságok
+támogatása
+Az előirányzat célja az MTÜ Zrt.
+tulajdonosi joggyakorlása alá tartozó
+gazdasági társaságok működésének,
+tevékenységének fenntartásához,
+valamint a társaságok vagyonkelésében
+lévő állami ingatlanok állagmegóvása
+céljából szükséges tulajdonosi
+finanszírozás megvalósítása.
+Az MTÜ Zrt.
+tulajdonosi
+joggyakorlása
+alá tartozó
+társaságok.
+Pályázati
+rendszeren
+kívüli
+kérelemre
+hozott egyedi
+támogatói
+döntésben
+foglaltak
+szerint
+kiadott/kötött
+támogatói
+okirat vagy
+támogatási
+szerződés,
+kormány-
+határozat
+vagy Ávr.
+101/A. §-a
+szerint kiadott
+támogatói
+okirat útján.
+Előleg
+folyósítható.
+Egyösszegű
+kifizetéssel,
+részletekben
+történő
+kifizetéssel
+Támogatási
+szerződés vagy
+támogatói okirat
+szerint.
+Ávr.
+84. §
+(2) bekez-
+dése
+alapján.
+– – –
+”
