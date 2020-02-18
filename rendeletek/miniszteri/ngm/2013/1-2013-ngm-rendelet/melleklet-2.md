@@ -76,7 +76,7 @@
 
 ## Javaslattevő munkahelye:
 
-2. melléklet az 1/2013. (I. 8.) NGM rendelethez[^33]
+2. melléklet az 1/2013. (I. 8.) NGM rendelethez[^35]
 
 Nyilatkozat
 
@@ -124,4 +124,4 @@ tisztségviselőjének aláírása*
 
 * Hivatalos/jogi képviselő, ügyvezető stb.
 
-[^33]: A 2. mellékletet a 10/2017. (V. 19.) NGM rendelet 9. § (2) bekezedése iktatta be.
+[^35]: A 2. mellékletet a 10/2017. (V. 19.) NGM rendelet 9. § (2) bekezedése iktatta be.

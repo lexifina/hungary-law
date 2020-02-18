@@ -1,6 +1,6 @@
-## 10. §[^29] A posztumusz elismerés átvételére a minisztérium közigazgatási államtitkára előterjesztésében megjelölt hozzátartozó jogosult.
+## 10. §[^31] A posztumusz elismerés átvételére a minisztérium közigazgatási államtitkára előterjesztésében megjelölt hozzátartozó jogosult.
 
-11. §[^30] (1) Nem részesíthető elismerésben az a személy, aki
+11. §[^32] (1) Nem részesíthető elismerésben az a személy, aki
 
 a) jogerős büntetőítélet vagy fegyelmi büntetés hatálya alatt áll,
 
@@ -16,5 +16,5 @@ c) etikai büntetésben részesült, az etikai büntetést megállapító határ
 
 (5) Az elismerés adományozásáról, visszavonásáról a minisztérium nyilvántartást vezet, amely tartalmazza az elismerésben részesített nevét, természetes személy esetén munkahelyét és beosztását, az adományozott elismerés megnevezését, az átadás időpontját, valamint az esetleges visszavonás indokát és időpontját.
 
-[^29]: A 10. § a 10/2017. (V. 19.) NGM rendelet 7. §-ával megállapított szöveg.
-[^30]: A 11. § a 10/2017. (V. 19.) NGM rendelet 8. §-ával megállapított szöveg.
+[^31]: A 10. § a 10/2017. (V. 19.) NGM rendelet 7. §-ával megállapított szöveg.
+[^32]: A 11. § a 10/2017. (V. 19.) NGM rendelet 8. §-ával megállapított szöveg.
