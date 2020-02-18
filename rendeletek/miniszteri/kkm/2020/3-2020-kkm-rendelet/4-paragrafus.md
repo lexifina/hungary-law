@@ -1,0 +1,1 @@
+## 3. § A kihelyező szerv a kihelyezett részére kizárólag gépkocsivásárlás céljára, kihelyezésenként egy alkalommal, visszatérítendő munkáltatói kölcsönt (a továbbiakban: gépkocsivásárlási kölcsön) nyújthat az e rendeletben meghatározott feltételekkel, a kihelyező szerv mindenkori költségvetési helyzete függvényében.
