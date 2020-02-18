@@ -47,5 +47,5 @@ b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeret�
 [^20]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
 [^21]: A 3. § (2) bekezdés a) pontja a 198/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
-[^23]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító törvény 203. §-át.
-[^24]: A 3. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 157. § (3) bekezdése iktatta be, alkalmazására lásd e módosító törvény 203. §-át.
+[^23]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 3. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 157. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

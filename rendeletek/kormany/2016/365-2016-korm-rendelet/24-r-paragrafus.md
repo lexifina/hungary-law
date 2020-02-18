@@ -10,7 +10,7 @@ c) ellenőrzi a továbbképzést és a vizsgát szervezők működését, ideér
 
 (3) Továbbképzés jóváhagyására vonatkozó engedély annak a gazdálkodó szervezetnek adható, amely rendelkezik
 
-a)[^75] a felnőttképzésről szóló törvény szerinti szakterületi felnőttképzési tevékenység végzésére szóló bejelentéssel,
+a)[^79] a felnőttképzésről szóló törvény szerinti szakterületi felnőttképzési tevékenység végzésére szóló bejelentéssel,
 
 b) a szakterületnek megfelelő továbbképzési programmal és
 
@@ -30,4 +30,4 @@ c) annak megjelölését, hogy a továbbképzés szervezője mely továbbképzé
 
 d) a továbbképzési programot.
 
-[^75]: A 24/R. § (3) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 112. § 1. pontja szerint módosított szöveg.
+[^79]: A 24/R. § (3) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 112. § 1. pontja szerint módosított szöveg.
