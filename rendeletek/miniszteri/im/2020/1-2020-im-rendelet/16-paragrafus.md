@@ -1,3 +1,5 @@
 ## 15. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-16. § Hatályát veszti a kihelyező szerv által támasztott szakmai követelményekről és azok teljesítéséről szóló 22/2017. (VII. 18.) MvM rendelet.
+16. §[^2]
+
+[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
