@@ -1,3 +1,5 @@
 ## 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-7. § Hatályát veszti a tartós külszolgálat ellátására kihelyezett kormánytisztviselő és kormányzati ügykezelő házastársa jogcímén fennálló deviza-illetménypótlék jogosultságának megállapításához szükséges nyilatkozat megtételéről szóló 11/2017. (VIII. 25.) KKM rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
