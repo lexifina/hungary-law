@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2019-08-08 | 2016-8-20-6N.20 | 11/2019. (VIII. 5.) MvM rendelet |
 | 2019-10-25 | 2016-8-20-6N.21 | 13/2019. (X. 22.) MvM rendelet |
 | 2019-12-13 | 2016-8-20-6N.22 | 16/2019. (XII. 10.) MvM rendelet |
+| 2020-02-19 | 2016-8-20-6N.23 | 2/2020. (II. 18.) MvM rendelet |
