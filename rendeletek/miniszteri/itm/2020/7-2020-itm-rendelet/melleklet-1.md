@@ -1,3 +1,5 @@
+## 39. §[^1]
+
 1. melléklet a 7/2020. (II. 17.) ITM rendelethez
 
 ## Javaslat elismerés adományozására
@@ -57,3 +59,5 @@ Kelt: ...............................................................
 .................................................................
 
 javaslattevő aláírása
+
+[^1]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
