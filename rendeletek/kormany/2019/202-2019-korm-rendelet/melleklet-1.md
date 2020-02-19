@@ -2,7 +2,7 @@
 
 1. melléklet a 202/2019. (VIII. 23.) Korm. rendelethez
 
-## A rezsiutalvány tartalmi és formai feltételei
+A rezsiutalvány tartalmi és formai feltételei
 
 ## A rezsiutalvány
 

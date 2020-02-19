@@ -2,4 +2,6 @@
 
 12. § (1) A rezsiutalvánnyal történő elszámolás során a szolgáltató és a Posta Elszámoló Központot működtető intézmény az érvénytelenített rezsiutalványt a megállapodás szerinti elszámolási összesítővel havonta eljuttatja a Magyar Államkincstár számára.
 
-(2) A rezsiutalványok tekintetében a szolgáltató és a Magyar Államkincstár, valamint a Posta és a Magyar Államkincstár közötti végső elszámolás határideje 2020. május 15.
+(2)[^4] A rezsiutalványok tekintetében a szolgáltató és a Magyar Államkincstár, valamint a Posta és a Magyar Államkincstár közötti végső elszámolás határideje 2020. július 15.
+
+[^4]: A 12. § (2) bekezdése a 17/2020. (II. 18.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
