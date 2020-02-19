@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-2-20-7G
 | 2018-12-30 | 2018-2-20-7G.2 | 2010: CXXX. törvény |
 | 2019-08-03 | 2018-2-20-7G.3 | 3/2019. (VIII. 2.) MK rendelet |
 | 2019-12-11 | 2018-2-20-7G.4 | 5/2019. (XII. 10.) MK rendelet |
+| 2020-02-19 | 2018-2-20-7G.5 | 1/2020. (II. 18.) MK rendelet |
