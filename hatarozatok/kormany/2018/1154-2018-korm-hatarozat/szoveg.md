@@ -20,7 +20,7 @@ a)[^7]
 
 b)[^8] a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 37 488 922 333 forint,
 
-c)[^9] a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 35 079 720 976 forint.
+c)[^9] a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 38 521 778 774 forint.
 
 [^1]: A harmadik franciabekezdést az 1174/2018. (III. 28.) Korm. határozat 8. pontja iktatta be.
 [^2]: A határozat nyitó szövegrészének negyedik franciabekezdését az 1573/2018. (XI. 15.) Korm. határozat 2. pontja iktatta be.
@@ -30,4 +30,4 @@ c)[^9] a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 35 07
 [^6]: Az 1592/2018. (XI. 22.) Korm. határozat 11. pont 11.1. alpontja, az 1755/2019. (XII. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^7]: A határozat a) pontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont a) alpontja visszavonta.
 [^8]: A határozat b) pontja az 1755/2019. (XII. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^9]: A határozat c) pontja az 1755/2019. (XII. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^9]: A c) pont az 1052/2020. (II. 19.) Korm. határozat szerint módosított szöveg.
