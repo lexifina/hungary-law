@@ -1,0 +1,1 @@
+## 6. § Az 1. melléklet 1. pontja szerinti eljárásban az építési engedély iránti kérelem a gépjárművek parkolására előírt feltételek hiánya miatt nem utasítható el, ha az építtető az építési engedély iránti kérelemhez mellékelt nyilatkozatában vállalja, hogy a végleges használatbavételi engedélyben meghatározott időpontig az előírt gépkocsi-parkolóhelyeket biztosítja.
