@@ -1,6 +1,6 @@
 2. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
 
-## I.[^101]
+## I.[^102]
 
 ## Ágazatspecifikus munkakörök a szociális területen
 
@@ -50,7 +50,7 @@
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## II.[^102]
+## II.[^103]
 
 II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi területen
 
@@ -154,7 +154,7 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## III.[^103]
+## III.[^104]
 
 ## Nem ágazatspecifikus munkakörök
 
@@ -220,9 +220,9 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  |  | A | B | C | D | E | F | G | H | I | J |
 
-## IV.[^104]
+## IV.[^105]
 
-## V.[^105]
+## V.[^106]
 
 ## Besorolási előírások a kinevezések elkészítéséhez
 
@@ -242,7 +242,7 @@ Ezen belül
 
 – ,,J'' fizetési osztályba: az egyetemi végzettséget igazoló oklevélhez és tudományos fokozathoz kötött munkakör tartozik pl. pedagógus, szociális munkás stb.
 
-2.[^106] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
+2.[^107] A felső-, közép- és alapfokú szakképesítést igénylő munkakörökbe kell besorolni azt a munkakört, amelyben az intézmény alaptevékenységének megfelelő, felső-, közép- és alapfokú szakmai képesítést igénylő feladatot kell ellátni.
 
 – ,,A'' fizetési osztályba kell sorolni: a legfeljebb alapfokú iskolai végzettséghez kötött munkaköröket, valamint az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkaköröket pl. falugondnok;
 
@@ -262,9 +262,9 @@ Megjegyzés:
 
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
-[^101]: A 2. számú melléklet I. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^102]: A 2. szánú melléklet II. pontja a 226/2018. (XII. 4.) Korm. rendelet 2. §-ával megállapított, a 312/2019. (XII. 18.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^103]: A 2. számú melléklet III. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^104]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § i) pontja.
-[^105]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, hatályon kívül helyezte a 418/2015. (XII. 23.) Korm. rendelet 10. § b) pontja. [A 2. számú melléklet V. részének a 406/2017. (XII. 15.) Korm. rendelet 3. §-ával elrendelt módosítása nem vezethető át.]
-[^106]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja, a 34/2014. (II. 18.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^102]: A 2. számú melléklet I. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^103]: A 2. szánú melléklet II. pontja a 226/2018. (XII. 4.) Korm. rendelet 2. §-ával megállapított, a 312/2019. (XII. 18.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^104]: A 2. számú melléklet III. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^105]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § i) pontja.
+[^106]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, hatályon kívül helyezte a 418/2015. (XII. 23.) Korm. rendelet 10. § b) pontja. [A 2. számú melléklet V. részének a 406/2017. (XII. 15.) Korm. rendelet 3. §-ával elrendelt módosítása nem vezethető át.]
+[^107]: A 2. számú melléklet „Besorolási előírások a kinevezések elkészítéséhez” alcím 2. pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (2) bekezdés i) pontja, a 34/2014. (II. 18.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

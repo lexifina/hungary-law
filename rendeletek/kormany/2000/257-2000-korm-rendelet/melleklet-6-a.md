@@ -40,6 +40,6 @@
 
 | 19 | 17 | 48 év felett | 117 220 | 143 210 | 171 830 |
 
-6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^112]
+6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^113]
 
-[^112]: A 6/a. számú mellékletet a 272/2019. (XI. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^113]: A 6/a. számú mellékletet a 272/2019. (XI. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 18/2020. (II. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
