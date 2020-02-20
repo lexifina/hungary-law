@@ -148,25 +148,15 @@
 
 ## az egyes projektelemek megvalósítása vonatkozásában: az 1. melléklet 1. pontjában foglalt táblázatban szereplő határidő szerint
 
-## 2.4. egyetért azzal, hogy a vasúti projektek megvalósítása, valamint a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak finanszírozása érdekében szükséges, összesen 71 591 230 000 forint központi költségvetési forrás kerüljön biztosításra a 2019–2021. közötti években az alábbi, költségvetési évek szerinti bontásban:
+## 2.4.[^1] egyetért azzal, hogy a vasúti projektek megvalósítása, valamint a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak finanszírozása érdekében szükséges, összesen 73 183 895 290 forint központi költségvetési forrás kerüljön biztosításra a 2019–2021. közötti években az alábbi, költségvetési évek szerinti bontásban:
 
-## a) a 2019. évben 8 001 500 000 forint,
+## a) a 2019. évben 6 340 490 290 forint,
 
-## b) a 2020. évben 29 117 230 000 forint,
+## b) a 2020. évben 29 030 182 975 forint,
 
-## c) a 2021. évben 34 472 500 000 forint;
+## c) a 2021. évben 37 813 222 025 forint;
 
-## 2.5. felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy a 2.4. pont a) alpontja szerinti forrás biztosítása keretében gondoskodjanak a 2019. évben
-
-## a) 4 985 252 000 forint biztosításáról a 2019. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 10. Vasúthálózat fejlesztése jogcímcsoport javára,
-
-## b) 3 016 248 000 forint biztosításáról a 2019. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 51. Debreceni Észak-Nyugati Gazdasági Övezet infrastruktúra kapcsolatainak javítása érdekében szükséges önkormányzati feladatok ellátása jogcímcsoport javára;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a felmerülés ütemében
+## 2.5.[^2]
 
 ## 2.6. felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy gondoskodjanak a 2.4. pont b) és c) alpontjában meghatározott forrásnak a 2020. és 2021. évi központi költségvetés Innovációs és Technológiai Minisztérium fejezet, vasúthálózat fejlesztését szolgáló fejezeti kezelésű előirányzata javára történő biztosításáról;
 
@@ -176,7 +166,7 @@
 
 ## Határidő: az adott évi központi költségvetés tervezése során
 
-## 2.7. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a 2.1., 2.2. és a 2.3. pontokban foglalt feladatok finanszírozása érdekében a 2019–2021. évek tekintetében összesen legfeljebb 71 341 534 629 forint összegben éven túl kötelezettséget vállaljon.
+## 2.7.[^3] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a 2.1., 2.2. és a 2.3. pontban foglalt feladatok finanszírozása érdekében a 2019–2021. évek tekintetében összesen legfeljebb 73 128 375 974 forint összegben kötelezettséget vállaljon.
 
 ## 3. A Kormány a debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett közmű projektek megvalósítása vonatkozásában
 
@@ -224,23 +214,23 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^1]
+## 5.[^4]
 
-## 6.[^2]
+## 6.[^5]
 
-## 7.[^3]
+## 7.[^6]
 
-## 8.[^4]
+## 8.[^7]
 
-## 9.[^5]
+## 9.[^8]
 
-## 10.[^6]
+## 10.[^9]
 
-## 11.[^7]
+## 11.[^10]
 
-## 12.[^8]
+## 12.[^11]
 
-1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz
+1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^12]
 
 1. A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett
 
@@ -296,9 +286,9 @@ közúti és vasúti projektek
 
 | 24. | VASÚT-2/C | 2. ütem: 108-as vasútvonal villamosítása Debrecen állomás és Balmazújváros állomás között | Debrecen MJV | 2019.06.30. | (NIF Zrt.) | (2023.12.31.) |
 
-| 25. | VASÚT-2/D | 100-as vasútvonalhoz történő kapcsolódás kialakítása (Kisállomás) | Debrecen MJV | 2019.06.30. | NIF Zrt. | 2021.12.31. |
+| 25. | VASÚT-2/D | 2. ütem: 100-as vasútvonalhoz történő kapcsolódás kialakítása (Kisállomás) | Debrecen MJV | (megvalósult) | (NIF Zrt.) | (2023. 12. 31.) |
 
-| 26. | VASÚT-2/E | 2. ütem: 100-as vasútvonalhoz történő kapcsolódás kialakítása (2 vágány) | Debrecen MJV | 2019.06.30. | (NIF Zrt.) | (2023.12.31.) |
+| 26. | VASÚT-2/E | 100-as vasútvonalhoz történő kapcsolódás kialakítása (2 vágány) | Debrecen MJV | (megvalósult) | NIF Zrt. | 2021. 12. 31. |
 
 | 27. | VASÚT-2/F | elővárosi és városi vasúti közlekedés fejlesztéséhez szükséges megvalósíthatósági tanulmány készítése (különös tekintettel a Debrecen és Nagyvárad közötti „tram-train” kapcsolatra, valamint a Debreceni Repülőtér vasúti kapcsolatának fejlesztésére) | NIF Zrt. | 2020.09.30. | – | – |
 
@@ -322,11 +312,15 @@ közmű projektek
 
 | 7. | KÖZMŰ-5 | Az Észak-Nyugati Gazdasági Övezet területén meglévő távközlési infrastruktúra kiváltásával és új távközlési hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont e) alpont] | Debrecen MJV | 2019.09.30. |
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2.4. pont az 1053/2020. (II. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2.5. pontot az 1053/2020. (II. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: A 2.7. pont az 1053/2020. (II. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
