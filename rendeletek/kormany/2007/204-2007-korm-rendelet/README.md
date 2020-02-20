@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-204-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-01 | 2007-204-20-22.2 | 204/2007. (VIII. 2.) Korm. rendelet |
+| 2020-02-20 | 2007-204-20-22.3 | 19/2020. (II. 19.) Korm. rendelet |
