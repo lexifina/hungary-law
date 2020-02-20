@@ -90,7 +90,25 @@
 
 45.[^41] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a magas olvadáspontú forrasztóanyagokban lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. március 1-i 2018/742/EU bizottsági irányelvnek
 
-46.[^42] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes nem közúti, szakmai használatra szánt berendezésekben alkalmazott csapágyakban és csapágybélésekben lévő ólomra vonatkozó mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/178 bizottsági irányelvnek
+46.[^42] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes nem közúti, szakmai használatra szánt berendezésekben alkalmazott csapágyakban és csapágybélésekben lévő ólomra vonatkozó mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/178 bizottsági irányelvnek,
+
+47.[^43] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes kondenzátorokban használt dielektromos kerámiában lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/169 bizottsági irányelvnek,
+
+48.[^44] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes kondenzátorokban található, ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/170 bizottsági irányelvnek,
+
+49.[^45] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a villamos érintkezésekben lévő kadmiumra és vegyületeire megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/171 bizottsági irányelvnek,
+
+50.[^46] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tokozott flip chip integrált áramkörökben a félvezető chip és a hordozó között működőképes elektromos kapcsolatot megvalósító forrasztóanyagban lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/172 bizottsági irányelvnek,
+
+51.[^47] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a zománcok üvegre történő felviteléhez használt nyomdafestékekben lévő ólomra és kadmiumra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/173 bizottsági irányelvnek,
+
+52.[^48] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a 69/493/EGK irányelvben meghatározott, kristályüvegben kötött formában található ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/174 bizottsági irányelvnek,
+
+53.[^49] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének egyes lézercsövek tokjának összeállításánál használatos lezáró frittben lévő ólom-oxidra megadott mentesség tekintetében, a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/175 bizottsági irányelvnek,
+
+54.[^50] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes diódák bevonatrétegében lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/176 bizottsági irányelvnek,
+
+55.[^51] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a foszforokat tartalmazó kisülőlámpákban található fluoreszkáló porban aktivátorként alkalmazott ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/177 bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -114,3 +132,12 @@ való megfelelést szolgálja.
 [^40]: A 16. § 44. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
 [^41]: A 16. § 45. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
 [^42]: A 16. § 46. pontját a 184/2019. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
+[^43]: A 16. § 47. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^44]: A 16. § 48. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^45]: A 16. § 49. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^46]: A 16. § 50. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^47]: A 16. § 51. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^48]: A 16. § 52. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^49]: A 16. § 53. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^50]: A 16. § 54. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^51]: A 16. § 55. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.

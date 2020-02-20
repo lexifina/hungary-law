@@ -18,10 +18,10 @@
 
 8. Orvostechnikai eszközök
 
-9.[^47] Ellenőrző és vezérlő eszközök, beleértve az ipari ellenőrző és vezérlő eszközöket is
+9.[^56] Ellenőrző és vezérlő eszközök, beleértve az ipari ellenőrző és vezérlő eszközöket is
 
 10. Adagoló automaták
 
 11. Az 1–10. pont szerinti kategóriák egyikébe sem tartozó egyéb elektromos és elektronikus berendezések.
 
-[^47]: A 7. melléklet 9. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^56]: A 7. melléklet 9. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

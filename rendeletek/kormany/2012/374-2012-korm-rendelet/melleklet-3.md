@@ -180,7 +180,11 @@
 
 | 52b. | Elektronikus és elektromos alkatrészek, amelyek üvegben vagy kerámiában, de nem a kondenzátorokban, például piezoelektronikus berendezésekben lévő dielektromos kerámiákban, továbbá nem üveg vagy kerámia mátrix anyagokban tartalmaznak ólmot a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
-| 53. | 125 V AC vagy 250 V DC vagy ennél magasabb névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 53. | 125 V AC vagy 250 V DC vagy ennél magasabb névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom. A mentesség a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközökre, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől, valamint az ipari felügyeleti és vezérlő eszközöktől eltérő eszközökre vonatkozik, kivéve az 52b. és 54. sorban meghatározott alkalmazásokat. | nincs korlátozás | 2021. július 21-ig |
+
+| 53a. | 125 V AC vagy 250 V DC vagy ennél magasabb névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom. A mentesség a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközökre vonatkozik, kivéve az 52b. és 54. sorban meghatározott alkalmazásokat. | 2023. július 21-ig |
+
+| 53b. | 125 V AC vagy 250 V DC vagy ennél magasabb névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom. A mentesség a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközökre és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik, kivéve az 52b. és 54. sorban meghatározott alkalmazásokat. | 2024. július 21-ig |
 
 | 54. | 125 V AC vagy 250 V DC alatti névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom | nincs korlátozás | 2013. január 1-jéig, ezt követően a 2013. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
@@ -194,7 +198,11 @@
 
 | 55a. | Ólom a fűtő-, szellőztető-, légkondicionáló- és hűtőalkalmazásokban használt, legfeljebb 9 kW mért felvett elektromos teljesítményű, hűtőközeget tartalmazó, hermetikus spirálkompresszorok csapágycsészéiben és -béléseiben, kivéve a 7. melléklet 1. pontjában szereplő termékcsoport esetében |  | 2019. július 21-ig |
 
-| 56. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom | nincs korlátozás | 2016. július 21-ig |
+| 56. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található, ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 56a. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található, ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 56b. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található, ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
 
 | 57. | C-press rugalmas tűs csatlakozórendszerekben használt ólom | nincs korlátozás | a 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
@@ -226,15 +234,33 @@
 
 | 62. | Kettőnél több elemből álló, a mikroprocesszor kivezetései és tokja között kapcsolatot biztosító forrasztóanyagban lévő ólom, ha az ólomtartalom 80 és 85 tömegszázalék között van | nincs korlátozás | a 2011. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
-| 63. | Flip Chip integrált áramkörökben a félvezető süllyesztéke és hordozója között működőképes elektronikus kapcsolatot lehetővé tevő ólomtartalmú forraszanyag | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 63. | Tokozott flip chip integrált áramkörökben a félvezető chip és a hordozó között működőképes elektromos kapcsolatot megvalósító forrasztóanyagban lévő ólom a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 63a. | Tokozott flip chip integrált áramkörökben a félvezető chip és a hordozó között működőképes elektromos kapcsolatot megvalósító forrasztóanyagban lévő ólom a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 63b. | Tokozott flip chip integrált áramkörökben a félvezető chip és a hordozó között működőképes elektromos kapcsolatot megvalósító forrasztóanyagban lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök, valamint a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
+
+| 63c. | Tokozott flip chip integrált áramkörökben a félvezető chip és a hordozó között működőképes elektromos kapcsolatot megvalósító forrasztóanyagban lévő ólom a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, amennyiben a következő kritériumok közül legalább egy teljesül: a) 90 nm-es vagy annál nagyobb félvezető technológiai csomópont, b) 300 mm2-es vagy annál nagyobb egyedülálló chip bármely félvezető technológiájú csomópontban vagy c) 300 mm2-es vagy annál nagyobb chipek vagy 300 mm2-es vagy annál nagyobb szilícium távtartó rétegek több, egymásra helyezett chipet tartalmazó tokozásokban. | nincs korlátozás | 2021. július 21-ig |
 
 | 64. | Az olyan vonalizzókban található ólom, amelyek csöve szilikát bevonatú | nincs korlátozás | 2013. szeptember 1-jéig |
 
 | 65. | Ólom-halogenid a nagynyomású kisülő lámpák (HID) sugárzó anyagaként professzionális reprográfiai alkalmazásokra | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 66. | Ólom a szoláriumcsövek fényporában, mint például a BSP (BaSi2O5 :Pb) fényporokban, aktivátorként | ≤ 1 m/m % | mentesség ideje nincs korlátozva |
+| 66. | Ólom a szoláriumcsövek fényporában, mint például a BSP (BaSi2O5:Pb) fényporokban, aktivátorként a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | ≤ 1 m/m% | 2021. július 21-ig |
 
-| 67. | Ólom és kadmium a zománc üvegre, például boroszilikát üvegre vagy nátronüvegre való felviteléhez használt nyomdafestékekben | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 66a. | Ólom a szoláriumcsövek fényporában, mint például a BSP (BaSi2O5:Pb) fényporokban, aktivátorként a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 66b. | Ólom a szoláriumcsövek fényporában, mint például a BSP (BaSi2O5:Pb) fényporokban, aktivátorként a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök, valamint a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
+
+| 66c. | Ólom a foszforokat, mint például BSP-t (BaSi2O5:Pb) tartalmazó kisülőlámpákban található fluoreszkáló porban aktivátorként a 7. melléklet 5. és 8. pontjában szereplő termékcsoportba tartozó eszközök esetében, kivéve a 76., a 70a. és a 76b. sorban meghatározott alkalmazásokat. | 2021. július 21-ig |
+
+| 67. | Ólom és kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 67a. | Ólom és kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 67b. | Ólom és kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök, valamint a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
+
+| 67c. | Ólom a zománcok boroszilikát üvegtől eltérő üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2021. július 21-ig |
 
 | 68. | Ólom a csatlakozók kivételével a 0,65 mm vagy kisebb osztóközű, finom osztású (fine-pitch) komponensek felületén | nincs korlátozás | a 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
@@ -246,13 +272,21 @@
 
 | 70. | Ólom-oxid a felületvezető elektronkibocsátó kijelzőkben (SED) használt szerkezeti elemekben, a lezáró frittben és a frittgyűrűben | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 71. | A kristályüvegre vonatkozó tagállami jogszabályok közelítéséről szóló, 1969. december 15-i 69/493/EGK tanácsi irányelv I. mellékletében (1., 2., 3. és 4. kategória) meghatározott, kristályüvegben található ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 71. | A kristályüvegre vonatkozó tagállami jogszabályok közelítéséről szóló, 1969. december 15-i 69/493/EGK tanácsi irányelv I. mellékletében (1., 2., 3. és 4. kategória) meghatározott, kristályüvegben kötött formában található ólom a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 71a. | A kristályüvegre vonatkozó tagállami jogszabályok közelítéséről szóló, 1969. december 15-i 69/493/EGK tanácsi irányelv I. mellékletében (1., 2., 3. és 4. kategória) meghatározott, kristályüvegben kötött formában található ólom a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 71b. | A kristályüvegre vonatkozó tagállami jogszabályok közelítéséről szóló, 1969. december 15-i 69/493/EGK tanácsi irányelv I. mellékletében (1., 2., 3. és 4. kategória) meghatározott, kristályüvegben kötött formában található ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
 
 | 72. | A 100 dB (A) és annál nagyobb hangnyomású, nagy teljesítményű hangszórókban használt transzduktorokban, közvetlenül a tekercsen található áramvezető anyagok elektromos, illetve mechanikus forrasztóanyagaként használt, kadmium alapú ötvözetek | nincs korlátozás | mentesség ideje nincs korlátozva |
 
 | 73. | A higanymentes lapos fluoreszkáló lámpák forrasztóanyagában lévő ólom (pl. amelyek folyadékkristályos kijelzőkben, illetve dísz- vagy ipari világításként vannak alkalmazva) | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 74. | Az argon- és kripton-lézercsövek ablak szerelvényeiben használatos lezáró frittben lévő ólom-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 74. | Az argon- és kripton-lézercsövek tokjának összeállításánál használatos lezáró frittben levő ólom-oxid a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 74a. | Az argon- és kripton-lézercsövek tokjának összeállításánál használatos lezáró frittben levő ólom-oxid a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 74b. | Az argon- és kripton-lézercsövek tokjának összeállításánál használatos lezáró frittben levő ólom-oxid a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
 
 | 75. | A transzformátorokban alkalmazott, 100 µm-es vagy annál kisebb átmérőjű vékony vörösréz vezetékek forrasztásához használt forrasztóanyagban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
 
@@ -262,7 +296,11 @@
 
 | 76b. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
-| 77. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatában lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 77. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatrétegében lévő ólom a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 77a. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatrétegében lévő ólom a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 77b. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatrétegében lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
 
 | 78. | A gyújtásmodulokban és a belső égésű motorok egyéb elektromos és elektronikus vezérlőrendszereiben használt elektromos és elektronikus alkatrészek forraszanyagában és védőbevonatában, valamint az ilyen modulokban és motorokban található nyomtatott áramköri lapok bevonatában lévő ólom, amely alkatrészeket műszaki okokból közvetlenül a belső égésű kézi motorok (a 97/68/EK európai parlamenti és tanácsi irányelvben meghatározott SH:1, SH:2 és SH:3 osztályba tartozó motorok) forgattyúsházára vagy a forgattyúsházába, illetve hengerére vagy hengerébe kell szerelni | nincs korlátozás | 2018. december 31-ig |
 
@@ -274,7 +312,13 @@
 
 | 80. | Egyszerhasználatos, szemcsés töltetű hőkioldókban lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 81. | A villamos érintkezőkben lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 81. | A villamos érintkezésekben lévő kadmium és vegyületei a 7. melléklet 8. és a 9. pontjában szereplő termékcsoportba tartozó, az in vitro diagnosztikai orvostechnikai eszközöktől, valamint az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 81a. | A villamos érintkezésekben lévő kadmium és vegyületei a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 81b. | A villamos érintkezésekben lévő kadmium és vegyületei a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök, valamint a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
+
+| 81c. | A villamos érintkezésekben lévő kadmium és vegyületei a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó alábbi eszközök esetében: 1. megszakítók, 2. hőérzékelő vezérlők, 3. termikus motorvédő készülékek (kivéve a légmentesen zárt hővédő készülékeket), 4. a következő váltakozó áramú kapcsolók: 4.1. legalább 250 V-os váltakozó áramnál legalább 6 A vagy 4.2. legalább 125 V-os váltakozó áramnál legalább 12 A, 5. legalább 18 V-os egyenáramnál legalább 20 A áramerősségre méretezett egyenáramú kapcsolók, 6. legalább 200 Hz frekvenciájú tápfeszültséghez való kapcsolók. | 2021. július 21-ig |
 
 | 82. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
 
@@ -284,13 +328,21 @@
 
 | 85. | Reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmium és ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 86. | Ólom és kadmium a zománc üvegre, például boroszilikát üvegre vagy nátronüvegre való felviteléhez használt nyomdafestékekben | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 86. | Ólom és kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében. | nincs korlátozás | 2021. július 21-ig |
+
+| 86a. | Ólom és kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében. | 2023. július 21-ig |
+
+| 86b. | Ólom és kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök, valamint a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében. | 2024. július 21-ig |
+
+| 86c. | Az elektromos és elektronikai berendezések kijelzőibe és vezérlőpaneleibe beépített világítási alkalmazások részeként, szűrőfunkciók ellátásához használt színes nyomtatott üvegekben található kadmium a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, kivéve a 83. és 86d. sorban meghatározott alkalmazásokat. | 2021. július 21-ig |
+
+| 86d. | Kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, kivéve a 83. és 86c. sorban meghatározott alkalmazásokat. |
 
 | 87. | IV. KRÓMTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^46]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^55]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -474,4 +526,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^46]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^55]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
