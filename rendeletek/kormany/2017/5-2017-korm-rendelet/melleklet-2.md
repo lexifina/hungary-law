@@ -14,6 +14,8 @@
 
 | 6. | Székesfehérvár – Börgönd repülőtér és ipari terület fejlesztése | Székesfehérvár 020430/12, valamint Aba 0238/4, 0238/5, 0238/6, 0238/7, 0238/8, 0238/9, 0238/10, 0238/11, 0238/12, 0238/13, 0238/14, 0238/15, 0238/16, 0238/17, 0238/18, 0238/19, 0238/20 és 0241 helyrajzi számon nyilvántartott ingatlanok |
 
+| 7. | Az Árpád-ház program részét képező Nemzeti Emlékhely Sétaút projektelem részeként megvalósuló Székesfehérvár, Csúcsos-hegy, Aranybulla emlékmű és környezetének állagmegóvó felújítási, rekonstrukciós feladatainak megvalósítását célzó beruházás | Székesfehérvár külterület 020177/32; 020177/33; 020177/34; 020177/35; 020177/36; 020177/37; 020177/38; 020177/39; 020177/40; 020177/41; 020177/42; 020177/43; 020177/53, 020176/2 és 12219/5 helyrajzi számon nyilvántartott ingatlanok |
+
 2. melléklet az 5/2017. (I. 12.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
@@ -56,6 +58,11 @@
 
 19. közegészségügyi hatósági eljárások,
 
-20. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+19a.[^10] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+
+20.[^11] azok az 1–19a. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^10]: A 2. melléklet 19a. pontját a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^11]: A 2. melléklet 20. pontja a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
