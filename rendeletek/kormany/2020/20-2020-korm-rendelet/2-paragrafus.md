@@ -1,3 +1,0 @@
-## 1. § A Modern Városok Program és az Árpád-ház Program keretében Székesfehérváron megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 5/2017. (I. 12.) Korm. rendelet (a továbbiakban: R.) 3. §-a a következő (1) bekezdéssel egészül ki:
-
-## „(1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.”
