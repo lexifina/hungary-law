@@ -4,6 +4,6 @@
 
 (2) A Beruházásokkal összefüggésben településképi bejelentési eljárásnak nincs helye.
 
-(3)[^1] A 2. mellékletben foglalt táblázat 7., 7a., 8. és 11., 30. és 33. sora szerinti beruházás esetében építészeti-műszaki tervtanácsi véleményt nem kell beszerezni, valamint településképi véleményezési eljárást nem kell lefolytatni.
+(3)[^1] A 2. mellékletben foglalt táblázat 7., 7a., 8. és 11., 30. 33. és 35. sora szerinti beruházás esetében építészeti-műszaki tervtanácsi véleményt nem kell beszerezni, valamint településképi véleményezési eljárást nem kell lefolytatni.
 
-[^1]: A 3. § (3) bekezdése a 176/2018. (IX. 27.) Korm. rendelet 2. §-a, a 160/2019. (VI. 28.) Korm. rendelet 4. § a) pontja, a 299/2019. (XII. 10.) Korm. rendelet 4. §-a, a 371/2019. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^1]: A 3. § (3) bekezdése a 176/2018. (IX. 27.) Korm. rendelet 2. §-a, a 160/2019. (VI. 28.) Korm. rendelet 4. § a) pontja, a 299/2019. (XII. 10.) Korm. rendelet 4. §-a, a 371/2019. (XII. 30.) Korm. rendelet 4. § a) pontja, a 23/2020. (II. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
