@@ -1,0 +1,103 @@
+## 1. támogatja, hogy a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) a Magyar Tenisz Szövetség közreműködésével a 2020. évben megrendezze a Davis Kupa világcsoport, Magyarország–Belgium találkozót (a továbbiakban: Sportesemény) Magyarországon;
+
+## 2. egyetért azzal, hogy a Sportesemény megrendezéséhez a Társaság részére a 2020. évben összesen 220 932 000 forint kerüljön biztosításra;
+
+## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti cél érdekében 50 000 000 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+
+## Felelős: pénzügyminiszter
+
+## Határidő: azonnal
+
+## 4. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a Sportesemény megrendezésének támogatásához szükséges legfeljebb 170 932 000 forint többletforrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára;
+
+## Felelős: pénzügyminiszter
+
+## emberi erőforrások minisztere
+
+## Határidő: azonnal
+
+## 5. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Sportesemény megrendezése érdekében – a 2. pontban meghatározott forrás terhére – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a alapján a Társasággal támogatási jogviszony létesítéséről elszámolási és a fel nem használt költségvetési támogatás tekintetében visszatérítési kötelezettséggel;
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: a forrás rendelkezésre állását követően azonnal
+
+## 6. felhívja a miniszterelnök kabinetfőnökét, hogy gondoskodjon a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság útján a Sportesemény lebonyolításához kapcsolódó turisztikai szempontok érvényesítéséről.
+
+## Felelős: a miniszterelnök kabinetfőnöke
+
+## Határidő: a Sportesemény szervezésével és lebonyolításával egyidejűleg, folyamatosan
+
+1. melléklet az 1057/2020. (II. 21.) Korm. határozathoz
+
+XX. Emberi Erőforrások Minisztériuma
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+Költségvetési év: 2020.
+
+| forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 23 |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025155 |  |  |  | 4 |  |  |  |  |  | Versenysport támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 50 000 000 |  |  |  |
+
+|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 356128 |  |  |  | 74 |  |  |  |  |  | A 16 kiemelt sportág sportlétesítmény-fejlesztésének támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -50 000 000 |  |  |  |
+
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+
+| forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+
+| forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 23 |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 025155 |  |  |  | 4 |  |  |  |  |  | Versenysport támogatása |  |  |  |  |  |  |  |  |  | 50 000 000 |  |  |  |
+
+|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 356128 |  |  |  | 74 |  |  |  |  |  | A 16 kiemelt sportág sportlétesítmény-fejlesztésének támogatása |  |  |  |  |  |  |  |  | -50 000 000 |  |  |  |
+
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+
+| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Magyar Államkincstár | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | teljesítésarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | egyéb: | azonnal |  | 50 000 000 |  |  |  |  |  |  |  |  | 50 000 000 |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
