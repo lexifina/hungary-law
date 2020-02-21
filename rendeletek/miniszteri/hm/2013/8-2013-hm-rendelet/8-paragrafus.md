@@ -1,4 +1,4 @@
-8. §[^12] (1) A lakás megvásárlására a 6. § (1) és (2) bekezdése alapján jogosult bérlő által lakott HM vagyonkezelésű lakás elidegenítése esetén a vételár a forgalmi érték
+8. §[^13] (1) A lakás megvásárlására a 6. § (1) és (2) bekezdése alapján jogosult bérlő által lakott HM vagyonkezelésű lakás elidegenítése esetén a vételár a forgalmi érték
 
 a) 25%-a,
 
@@ -16,4 +16,4 @@ b) a lakás holtig tartó haszonélvezeti jogát legalább 50%-ban szerzi meg.
 
 (5) A lakás vételára a szolgálati idő elismeréssel sem lehet kevesebb a forgalmi érték 50%-ánál, egyösszegű megfizetés esetén 45%-ánál.
 
-[^12]: A 8. § a 6/2019. (IV. 15.) HM rendelet 13. §-ával megállapított szöveg.
+[^13]: A 8. § a 6/2019. (IV. 15.) HM rendelet 13. §-ával megállapított szöveg.

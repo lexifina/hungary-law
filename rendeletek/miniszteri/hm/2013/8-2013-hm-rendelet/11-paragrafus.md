@@ -1,4 +1,4 @@
-11. §[^19] (1) HM általi elidegenítés esetén az ingatlan-nyilvántartásba
+11. §[^20] (1) HM általi elidegenítés esetén az ingatlan-nyilvántartásba
 
 a) az adásvételi szerződés megkötésétől számított 5 évig a vételár megfizetésének módjától függetlenül elidegenítési és terhelési tilalmat, továbbá
 
@@ -22,4 +22,4 @@ c) az örökléssel összefüggő tulajdonközösség megszüntetése
 
 (5) A HM javára bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom fennállása alatt, az (1) bekezdés a) pontja szerinti időtartam elteltével, a lakás tulajdonjogának átruházásához – a házasság felbontásával és az örökléssel összefüggő tulajdonközösség megszüntetése kivételével – a HM vagyonkezelői feladatokat ellátó szerv csak a HM javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom HM vagyonkezelésű lakás megvásárlását követően szerzett lakásra történő átterhelése esetén járulhat hozzá. Nem adható hozzájárulás, ha a lakóingatlanra bejegyzett és bejegyezni kívánt terhek együttes összege meghaladná az aktuális forgalmi érték 70%-át.
 
-[^19]: A 11. § a 6/2019. (IV. 15.) HM rendelet 14. §-ával megállapított szöveg.
+[^20]: A 11. § a 6/2019. (IV. 15.) HM rendelet 14. §-ával megállapított szöveg.

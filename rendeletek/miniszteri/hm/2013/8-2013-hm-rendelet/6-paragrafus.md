@@ -1,6 +1,6 @@
 ## 3. A HM vagyonkezelésű lakás megvásárlása
 
-6. §[^10] (1) Az elidegenítésre kijelölt lakás megvásárlására az a bérlő jogosult, aki azt
+6. §[^11] (1) Az elidegenítésre kijelölt lakás megvásárlására az a bérlő jogosult, aki azt
 
 a) határozatlan időtartamra,
 
@@ -24,4 +24,4 @@ d) másik HM rendelkezésű lakás juttatásával összefüggésben kapott csere
 
 (3) Ha a lakás juttatása az R. 9. § (1) bekezdés c) és d) pontjában meghatározott kizáró ok alól való felmentés alapján történt, a lakás elidegenítésére a 8. § (2)–(5) bekezdésben meghatározott feltételekkel kerülhet sor.
 
-[^10]: A 6. § a 6/2019. (IV. 15.) HM rendelet 13. §-ával megállapított szöveg.
+[^11]: A 6. § a 6/2019. (IV. 15.) HM rendelet 13. §-ával megállapított szöveg.

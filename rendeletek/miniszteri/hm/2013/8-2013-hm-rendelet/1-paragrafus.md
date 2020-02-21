@@ -26,7 +26,7 @@ cd) a Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról sz
 
 ce) a 100 m2 hasznos alapterületet meghaladó nagyságú HM rendelkezésű lakás,
 
-cf) a legfeljebb hatlakásos, önálló kerttel rendelkező lakóépületben lévő HM rendelkezésű lakás,
+cf)[^1]
 
 cg) az R. szerint garzonlakásként, helyőrségi szállóként vagy egyéb, rendeltetésétől eltérően hasznosított lakás, és
 
@@ -43,3 +43,5 @@ c) HM vagyonkezelői feladatokat ellátó szerv, és
 d) helyi lakóházkezelő szerv
 
 feladatait ellátó szerveket honvédelmi miniszteri utasítás határozza meg.
+
+[^1]: Az 1. § (1) bekezdés c) pont cf) alpontját a 2/2020. (II. 20.) HM rendelet 1. §-a hatályon kívül helyezte.
