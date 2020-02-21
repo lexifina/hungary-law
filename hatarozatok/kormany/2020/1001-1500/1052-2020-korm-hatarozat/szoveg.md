@@ -1,1 +1,0 @@
-A Magyarország vasúthálózat-fejlesztéseihez szükséges kötelezettségvállalásról szóló 1154/2018. (III. 27.) Korm. határozat c) pontjában a „35 079 720 976 forint” szövegrész helyébe a „38 521 778 774 forint” szöveg lép.
