@@ -282,7 +282,7 @@ dr. Zsigmond Barna Pál (Fidesz)
 
 dr. Brenner Koloman (Jobbik)
 
-Bencsik János (Jobbik)[^56]
+Bencsik János (független)[^56]
 
 m) Népjóléti bizottság (15 fő)
 
@@ -490,7 +490,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^53]: A 31/2018. (XI. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^54]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^55]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^56]: A 4/2019. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^56]: A 4/2020. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
 [^57]: A 33/2018. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
 [^58]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^59]: A 33/2018. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
