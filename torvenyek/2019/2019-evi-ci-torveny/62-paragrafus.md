@@ -8,7 +8,7 @@ c)
 
 d)
 
-e)
+e) 85. § (2) bekezdésében az „A Hivatal a kérelmet megvizsgálja, és új határkeresztező szállítóvezeték létesítése esetén konzultál az érintett ország(ok) energetikai szabályozó hatóságaival.” szövegrész,
 
 f)
 
