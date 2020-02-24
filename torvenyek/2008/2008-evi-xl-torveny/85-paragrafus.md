@@ -8,9 +8,21 @@ c) az új infrastruktúra tulajdonosa olyan gazdálkodó szervezet, amely nem re
 
 d) az új infrastruktúra igénybevétele díj ellenében történik,
 
-e) a mentesség megadása nincs hátrányos hatással a versenyre és az együttműködő földgázrendszer hatékony működésére, vagy annak a szállítóvezetéknek, illetve a tárolónak a hatékony működésére, amelyre az új infrastruktúra rácsatlakozik.
+e) a mentesség megadása nincs hátrányos hatással a versenyre a beruházással érintett releváns piacokon, az együttműködő földgázrendszer hatékony működésére, annak az érintett szállítóvezetéknek vagy földgáztárolónak a hatékony működésére vagy az Európai Unión belüli földgázellátás biztonságára.
 
-(2) A Hivatal a kérelmet megvizsgálja, és új határkeresztező szállítóvezeték létesítése esetén konzultál az érintett ország(ok) energetikai szabályozó hatóságaival. A Hivatal eljárása során az (1) bekezdésben foglaltakon túl a következő szempontokat veszi figyelembe:
+(1a) A Hivatal a mentességről szóló kérelmet megvizsgálja és a határozata meghozatala előtt az eljárás egyidejű felfüggesztése mellett
+
+a) konzultál
+
+aa) azon Európai Unió más tagállamának energiapiaci szabályozó hatóságként kijelölt külföldi szabályozó hatóságával (a továbbiakban: külföldi szabályozó hatóság), amelynek piacait az új infrastruktúra érinteni fogja, és
+
+ab) harmadik ország megfelelő hatóságával, ha az új infrastruktúra az Európai Unió területén csatlakozik az uniós hálózatra és harmadik országból indul ki vagy ér véget, valamint
+
+b) új határkeresztező gázvezeték létesítése esetén – amennyiben Magyarország területén csatlakozik első alkalommal tagállami földgázhálózatra – konzultálhat az érintett harmadik ország megfelelő hatóságával a mentességre vonatkozó szabályok alkalmazása tekintetében.
+
+(1b) Ha a konzultációra felkért (1a) bekezdés a) pont ab) alpontja és b) pontja szerinti, harmadik ország hatósága a Hivatal által megadott határidőn, de legfeljebb három hónapon belül nem válaszol, a Hivatal az eljárás felfüggesztését megszünteti, és az eljárást folytatja.
+
+(2) A Hivatal eljárása során az (1) bekezdésben foglaltakon túl a következő szempontokat veszi figyelembe:
 
 a) a mentesség megadásának hatása a földgáz árakra,
 

@@ -1,0 +1,7 @@
+131/B. § (1) A 130/A. §–131. §-tól eltérően a földgáz belső piacára vonatkozó közös szabályokat érintő kérdésekben határkeresztező gázvezeték üzemeltetéséről szóló kormányközi megállapodás (e § alkalmazásában a továbbiakban: megállapodás) módosítására, meghosszabbítására vagy megkötésére vonatkozó tárgyalás megkezdése előtt öt hónappal – a tárgyalás megkezdésére vonatkozó Európai Bizottság általi felhatalmazás érdekében – a miniszter tájékoztatja az Európai Bizottságot. A tájékoztatás keretében megküldi a vonatkozó dokumentációt a megvitatandó vagy módosítandó rendelkezések, a tárgyalás céljának és a további lényeges információk megjelölésével. A miniszter rendszeres tájékoztatást küld az Európai Bizottságnak a tárgyalás előrehaladásáról, és ezzel összhangban gondoskodik a 130/A. § (4) bekezdése szerinti információk megküldéséről.
+
+(2) A megállapodás tekintetében az Európai Bizottságnak a 2017/684 európai parlamenti és tanácsi határozattal összhangban kiadott véleményét a miniszter kötelezően figyelembe veszi.
+
+(3) A megállapodás módosítása, meghosszabbítása vagy megkötése előtt a miniszter értesíti az Európai Bizottságot a tárgyalás eredményéről, és megküldi a megállapodás végleges tervezetét az Európai Bizottság általi, a megállapodás megkötésére vonatkozó felhatalmazás érdekében.
+
+(4) A miniszter a megállapodás megkötéséről, hatálybalépéséről és a megállapodást érintő változásról értesíti az Európai Bizottságot.

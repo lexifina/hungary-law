@@ -1,0 +1,1 @@
+131/A. § A Hivatal a határon átnyúló ügyekben történő együttműködés keretében, határkeresztező gázvezeték esetén – amennyiben az Magyarország területén csatlakozik első alkalommal tagállami földgázhálózatra – az érintett külföldi szabályozó hatóságokkal történő konzultációt követően együttműködhet az érintett harmadik ország megfelelő hatóságával.
