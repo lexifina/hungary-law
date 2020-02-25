@@ -1,0 +1,1 @@
+A Kormány – az önkormányzati szférában alkalmazott fiatal foglalkoztatottak számára a lakhatás elérhető áron történő biztosítása, a családalapítás elősegítése érdekében a Budapest Főváros XII. kerület Hegyvidéki Önkormányzattal együttműködve –
