@@ -26,7 +26,7 @@ b) a Tao. tv. 22/C. § (1) bekezdés c) pontja szerinti támogatott szervezet, t
 
 az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számláról bocsátja a támogatást vagy annak az elszámolásban, részelszámolásban elfogadott részét a támogatott szervezet rendelkezésére.
 
-(2b)[^84] Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített fizetési számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4) bekezdésében meghatározottak szerint a sportfejlesztési program meghosszabbítását, a fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.
+(2b)[^84] Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített fizetési számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4)–(4b) bekezdésében meghatározottak szerint a sportfejlesztési program meghosszabbítását, a fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.
 
 (2c)[^85] A Tao. tv. 22/C. § (3a) bekezdése szerinti kiegészítő sportfejlesztési támogatás felhasználásának és elosztásának szabályairól a látvány-csapatsport országos sportági szakszövetség, az e látvány-csapatsport keretében vagy érdekében a Tao. tv. 22/C. § (1) bekezdés b)–d) pontjában meghatározottak szerint működő sportszervezet (sportiskola), alapítvány, vagy a Tao. tv. 22/C. § (1) bekezdés e) pontjában meghatározott sportköztestület dönt a sportág stratégiai fejlesztési koncepciójának figyelembe vételével.
 
@@ -38,5 +38,5 @@ az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi szá
 [^81]: A 7. § (1) bekezdés b) pont bb) alpontja a 164/2017. (VI. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
 [^82]: A 7. § (2) bekezdését a 134/2013. (V. 9.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^83]: A 7. § (2a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 318/2018. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^84]: A 7. § (2b) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege az 503/2013. (XII. 29.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^84]: A 7. § (2b) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 25/2020. (II. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^85]: A 7. § (2c) bekezdését a 134/2013. (V. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege az 503/2013. (XII. 29.) Korm. rendelet 2. § (8) bekezdésével megállapított, a 164/2017. (VI. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.

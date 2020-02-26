@@ -104,6 +104,8 @@ c) benyújtott módosítási kérelmek alapján indult és a Módr7. hatálybal�
 
 (30)[^221] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet, valamint a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet módosításáról szóló 314/2019. (XII. 18.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr10. hatálybalépésekor[^222] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
+(31)[^223] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 25/2020. (II. 25.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr11. hatálybalépésekor[^224] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
+
 [^176]: A 16. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 568. §-a hatályon kívül helyezte.
 [^177]: A 16. § (3a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 7. §-a iktatta be.
 [^178]: A hatálybalépés időpontja 2011. december 17.
@@ -151,3 +153,5 @@ c) benyújtott módosítási kérelmek alapján indult és a Módr7. hatálybal�
 [^220]: A hatálybalépés időpontja 2019. március 8.
 [^221]: A 16. § (30) bekezdését a 314/2019. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
 [^222]: A hatálybalépés időpontja: 2019. december 19.
+[^223]: A 16. § (31) bekezdését a 25/2020. (II. 25.) Korm. rendelet 6. §-a iktatta be.
+[^224]: A hatálybalépés időpontja 2020. február 26.

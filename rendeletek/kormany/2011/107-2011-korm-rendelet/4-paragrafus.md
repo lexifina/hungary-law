@@ -2,7 +2,7 @@
 
 ## 2. [^49] Az igazolás és a támogatási igazolás kiállításának feltételét képező sportfejlesztési program jóváhagyása
 
-4. § (1)[^50] Az igazolás és a támogatási igazolás kiállításának előzetes feltétele, hogy a támogatás igénybevételére jogosult szervezet a tervezett támogatással érintett sportfejlesztési programját – több támogatási időszakra szóló sportfejlesztési program esetén támogatási időszakokra lebontva –, annak tervezett megvalósítását megelőzően a jóváhagyást végző szervezet részére jóváhagyás céljából a tárgyév március 1. és április 30. közötti időszakban benyújtsa. A sportfejlesztési program jóváhagyására irányuló kérelem kizárólag a jóváhagyást végző szervezet által erre a célra rendszeresített felületen nyújtható be. A sportfejlesztési program jóváhagyására irányuló kérelem benyújtásának – jogvesztő – határideje a tárgyév április 30-a.
+4. § (1)[^50] Az igazolás és a támogatási igazolás kiállításának előzetes feltétele, hogy a támogatás igénybevételére jogosult szervezet a tervezett támogatással érintett sportfejlesztési programját – több támogatási időszakra szóló sportfejlesztési program esetén támogatási időszakokra lebontva –, annak tervezett megvalósítását megelőzően a jóváhagyást végző szervezet részére jóváhagyás céljából a tárgyév február hónapjában benyújtsa. A sportfejlesztési program jóváhagyására irányuló kérelem kizárólag a jóváhagyást végző szervezet által erre a célra rendszeresített felületen nyújtható be. A sportfejlesztési program jóváhagyására irányuló kérelem benyújtásának jogvesztő határideje a tárgyév február hónap utolsó napja.
 
 (2) A kérelemhez a támogatás igénybevételére jogosult szervezet részéről csatolni kell
 
@@ -80,7 +80,7 @@ bc) építészeti, műszaki akadálymentesítésére
 
 [^48]: A 3. § a 268/2011. (XII. 16.) Korm. rendelet 2. §-ával megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § c)–d) pontja szerint módosított szöveg.
 [^49]: A 2. alcím címe a 96/2016. (V. 2.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
-[^50]: A 4. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 327. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^50]: A 4. § (1) bekezdése a 25/2020. (II. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^51]: A 4. § (2) bekezdés a) pontja a 318/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^52]: A 4. § (2) bekezdés b) pont nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
 [^53]: A 4. § (2) bekezdés c) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 174. §-a szerint módosított szöveg.
