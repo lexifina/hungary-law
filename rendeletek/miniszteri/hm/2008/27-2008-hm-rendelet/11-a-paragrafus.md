@@ -1,4 +1,4 @@
-11/A. §[^11] (1) A közalkalmazott – a (2) bekezdésben foglalt kivétellel – havonta honvédelmi ágazati pótlékra jogosult. A honvédelmi ágazati pótlék mértéke – a (3) bekezdésben foglalt kivétellel – a pótlékalap 84,5%-a. A honvédelmi ágazati pótlék összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
+11/A. §[^12] (1) A közalkalmazott – a (2) bekezdésben foglalt kivétellel – havonta honvédelmi ágazati pótlékra jogosult. A honvédelmi ágazati pótlék mértéke – a (3) bekezdésben foglalt kivétellel – a pótlékalap 84,5%-a. A honvédelmi ágazati pótlék összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
 
 (2) Nem jogosult a honvédelmi ágazati pótlékra a közalkalmazott, ha
 
@@ -8,7 +8,7 @@ b) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló t
 
 szerinti garantált illetményre jogosult.
 
-(3) A miniszter fenntartói irányítása alá tartozó köznevelési intézmény állományába tartozó közalkalmazott honvédelmi ágazati pótlékának mértékét
+(3)[^13] A miniszter fenntartói irányítása alá tartozó szakképző intézmény állományába tartozó közalkalmazott honvédelmi ágazati pótlékának mértékét
 
 a) a nemzeti köznevelésről szóló törvény szerinti garantált illetményre jogosultak esetében az illetmény-megállapításánál figyelembe vett iskolai végzettség és fizetési kategória alapján a 2. melléklet,
 
@@ -18,4 +18,5 @@ határozza meg.
 
 (4) A Kjt. 78. §-a alapján járó jubileumi jutalom alapjául szolgáló illetmény összegébe az (1) és (3) bekezdés szerinti honvédelmi ágazati pótlékot is be kell számítani.
 
-[^11]: A 11/A. §-t a 8/2015. (VI. 29.) HM rendelet 1. §-a iktatta be, szövege a 21/2018. (XII. 28.) HM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^12]: A 11/A. §-t a 8/2015. (VI. 29.) HM rendelet 1. §-a iktatta be, szövege a 21/2018. (XII. 28.) HM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^13]: A 11/A. § (3) bekezdés nyitó szövegrésze a 3/2020. (II. 25.) HM rendelet 3. §-a szerint módosított szöveg.

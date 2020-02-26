@@ -1,4 +1,4 @@
-## A közalkalmazotti munkakörök és a vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
+## 4K14167_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L |
 
@@ -238,6 +238,8 @@
 
 | 118. | takarító, szobaasszony, ruhatáros | * | * |  |  |  |  |  |  |  |  |  |
 
-2. melléklet a 27/2008. (XII. 31.) HM rendelethez[^25]
+2. melléklet a 27/2008. (XII. 31.) HM rendelethez[^28]
 
-[^25]: A 2. mellékletet a 21/2018. (XII. 28.) HM rendelet 45. § (2) bekezdése iktatta be.
+A miniszter fenntartói irányítása alá tartozó szakképző intézmény állományába tartozó, a nemzeti köznevelésről szóló törvény szerinti garantált illetményre jogosult közalkalmazottak honvédelmi ágazati pótlékának mértéke a pótlékalap százalékában az iskolai végzettség alapján az egyes fizetési kategóriákban
+
+[^28]: A 2. mellékletet a 21/2018. (XII. 28.) HM rendelet 45. § (2) bekezdése iktatta be, szövege a 3/2020. (II. 25.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.

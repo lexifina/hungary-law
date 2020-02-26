@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-27-20-1
 | 2016-07-01 | 2008-27-20-15.13 | 9/2016. (VI. 29.) HM rendelet |
 | 2017-01-01 | 2008-27-20-15.14 | 25/2016. (XII. 22.) HM rendelet |
 | 2019-01-01 | 2008-27-20-15.15 | 21/2018. (XII. 28.) HM rendelet |
+| 2020-02-26 | 2008-27-20-15.16 | 21/2018. (XII. 28.) HM rendelet |
