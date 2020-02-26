@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Davis Kupa világcsoport rájátszás 2018. évi magyarországi rendezésének támogatása érdekében szükséges kormányzati intézkedésekről szóló 1794/2018. (XII. 21.) Korm. határozat 2. pontjában a „2019. december 31.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1061/2020. (II. 25.) Korm. határozathoz
 
@@ -101,3 +101,5 @@
 |  |  | egyéb: | azonnal | 7 181 689 652 |  | 7 181 689 652 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
