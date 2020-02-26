@@ -1,0 +1,3 @@
+## 3. § Az R. 7. § (2b) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2b) Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített fizetési számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4)–(4b) bekezdésében meghatározottak szerint a sportfejlesztési program meghosszabbítását, a fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.”

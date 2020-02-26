@@ -1,0 +1,3 @@
+## 6. § Az R. 16. §-a a következő (31) bekezdéssel egészül ki:
+
+## „(31) E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 25/2020. (II. 25.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr11. hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.”
