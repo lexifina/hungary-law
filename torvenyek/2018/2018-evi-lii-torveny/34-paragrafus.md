@@ -60,7 +60,7 @@ l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszony
 
 m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói munkaszerződés alapján létrejött munkaviszony,
 
-n) a Független Rendészeti Panasztestület tagjának e jogviszonya,
+n)
 
 o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
 
