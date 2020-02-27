@@ -1,3 +1,5 @@
-## 3. § Az R1. 11/A. § (3) bekezdésében a „köznevelési” szövegrész helyébe a „szakképző” szöveg lép.
+## 1–3. §[^2]
 
 ## 2. A honvédelmi alkalmazottak jogállásával összefüggő kérdésekről szóló 21/2018. (XII. 28.) HM rendelet módosítása
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
