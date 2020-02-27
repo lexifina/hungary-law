@@ -66,7 +66,7 @@ ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
 
 is) az 55. §-ban meghatározott kijelölt ügyész;
 
-it) a Független Rendészeti Panasztestület tagja;
+it)
 
 iu) az Országgyűlési Őrség személyi állománya;
 
