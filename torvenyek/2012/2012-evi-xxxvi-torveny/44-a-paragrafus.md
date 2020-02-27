@@ -22,7 +22,7 @@
 
 11. a Médiatanács elnöke és tagja,
 
-12. a Független Rendészeti Panasztestület elnöke és tagja,
+12.
 
 13. a Közszolgálati Közalapítvány kuratóriumának elnöke, tagja,
 

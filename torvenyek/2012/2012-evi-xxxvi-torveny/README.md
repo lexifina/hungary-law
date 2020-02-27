@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2019-07-16 | 2019. évi LXV. törvény | 2012-36-00-00.38 |
 | 2020-01-01 | 2019. évi CVIII. törvény | 2012-36-00-00.39 |
 | 2020-02-01 | 2019. évi CVIII. törvény | 2012-36-00-00.40 |
+| 2020-02-27 | 2019. évi CIX. törvény | 2012-36-00-00.41 |
