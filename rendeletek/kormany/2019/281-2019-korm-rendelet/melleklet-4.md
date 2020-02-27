@@ -98,6 +98,6 @@
 
 | 49. | Zöld-foki Köztársaság |
 
-4. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^7]
+4. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^10]
 
-[^7]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
