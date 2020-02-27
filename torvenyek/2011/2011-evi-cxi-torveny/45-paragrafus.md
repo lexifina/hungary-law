@@ -20,4 +20,4 @@ b) megbízatásuk megszűnése után az alapvető jogok biztosa helyettesének e
 
 (5) E törvény hatálybalépésétől az Országgyűlési Biztos Hivatala vezetője tisztségének elnevezése főtitkár.
 
-(6) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából az Országgyűlési Biztos Hivatala jogutódjának a Hivatalt kell tekinteni.
+(6)

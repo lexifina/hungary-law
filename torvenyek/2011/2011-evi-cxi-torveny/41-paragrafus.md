@@ -8,6 +8,8 @@
 
 (3) A Hivatal Szervezeti és Működési Szabályzatát az alapvető jogok biztosa normatív utasításban állapítja meg.
 
+(3a) A rendőri intézkedéssel, annak elmulasztásával, kényszerítő eszköz alkalmazásával összefüggő beadványok és a rendőrségi panaszok vizsgálatát a Hivatal önálló szervezeti egysége végzi.
+
 (4) A Hivatal a központi költségvetés szerkezetében önálló fejezet, a fejezetet irányító szerv vezetőjének jogosítványait a főtitkár gyakorolja.
 
 (5) Az alapvető jogok biztosa a kiadmányozási jogot a Szervezeti és Működési Szabályzatban a helyettesekre, intézkedést nem tartalmazó irat esetén a főtitkárra vagy a Hivatal vezetői megbízással rendelkező köztisztviselőjére átruházhatja.

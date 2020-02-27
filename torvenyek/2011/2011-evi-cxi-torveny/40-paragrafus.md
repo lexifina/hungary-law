@@ -6,7 +6,7 @@
 
 (2) Az alapvető jogok biztosa az éves beszámolóban
 
-a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében, a 2. § (6) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,
+a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében, a 2. § (6) bekezdésében és a III/B. Fejezetben meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,
 
 b) tájékoztat az általa tett kezdeményezések, ajánlások fogadtatásáról és eredményéről, valamint
 
