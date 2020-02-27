@@ -1,3 +1,5 @@
-## 7. § Hatályát veszti az R. 10. § (4) bekezdésében a „– legkésőbb május 31-ei benyújtási határidővel –” szövegrész.
+## 1–7. §[^2]
 
 8. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
