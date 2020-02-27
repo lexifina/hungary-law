@@ -1,0 +1,9 @@
+# 1062/2020. (II. 26.) Korm. határozat
+
+a földügyi szabályozás érvényesítésének koordinálásáért felelős kormánybiztos kinevezéséről és feladatairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1062-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-02-27 | 2020-1062-30-22.1 | 1062/2020. (II. 26.) Korm. határozat |
