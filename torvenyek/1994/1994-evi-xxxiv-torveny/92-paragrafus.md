@@ -6,7 +6,7 @@
 
 a) panasszal fordulhat az intézkedést foganatosító rendőri szervhez vagy
 
-b) kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát a Testület által lefolytatott vizsgálatot követően, az érintett rendőri szerv kilététől függően
+b) kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát az alapvető jogok biztosa által lefolytatott vizsgálatot követően, az érintett rendőri szerv kilététől függően
 
 ba) az országos rendőrfőkapitány,
 
