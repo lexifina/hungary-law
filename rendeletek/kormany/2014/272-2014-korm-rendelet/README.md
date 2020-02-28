@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2019-07-27 | 2014-272-20-22.51 | 182/2019. (VII. 26.) Korm. rendelet |
 | 2020-01-01 | 2014-272-20-22.52 | 358/2014. (XII. 29.) Korm. rendelet |
 | 2020-01-02 | 2014-272-20-22.53 | 366/2019. (XII. 30.) Korm. rendelet |
+| 2020-02-28 | 2014-272-20-22.54 | Nemzeti Jogszabálytár (egységes szerkezet) |
