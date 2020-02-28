@@ -82,24 +82,9 @@ Határidő: e határozat közzétételét követő 30 napon belül
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1250/2018. (V. 25.) Korm. határozat [a továbbiakban: 1250/2018. (V. 25.) Korm. határozat] 4. pont a) alpontja helyébe a következő rendelkezés lép:
+3.[^1]
 
-(A kormánybiztos az 1. pont szerinti feladatkörében eljárva)
+4.[^2]
 
-„a) a sportpolitikáért felelős miniszterrel, a sportági szakszövetségekkel és a Magyar Olimpiai Bizottsággal együttműködve ellátja a hazai, kiemelt jelentőségű nemzetközi vagy nemzetközi érdeklődésre számot tartó, esetileg vagy ismétlődő jelleggel, egyéb állami támogatással megrendezendő sporteseményeknek, így többek között, de nem kizárólagosan
-
-aa) a felnőtt és az az alatti első utánpótlás korosztály világbajnoksága,
-
-ab) a felnőtt és az az alatti első utánpótlás korosztály Európa-bajnoksága,
-
-ac) a felnőtt világkupa (az adott sportág nemzetközi szövetsége által az éves versenynaptárban világkupaként meghatározott verseny),
-
-ad) egyéb jelentős nemzetközi súllyal bíró esemény (mint a Giro d'Italia, GAISF World Urban Games, FINA Champions Swim Series, FIDE World Chess Olympiad),
-
-ae) az olimpiai, paralimpiai kvalifikációs verseny,
-
-af) a világ- és európai sportági szövetség vagy nemzetközi sportszervezet (mint a Nemzetközi Olimpiai Bizottság, Nemzetközi Paralimpiai Bizottság, Global Association of International Sports Federations) által rendezett kongresszus, konferencia, illetve szövetség irányító és szakmai szerveinek ülése
-
-megpályázásával és megrendezésével kapcsolatos kormányzati feladatokat, ennek keretében kidolgozza az ezen feladatokra vonatkozó, 2030-ig tartó időszak kormányzati stratégiáját (a továbbiakban: Kiemelt Nemzetközi Sportesemény Stratégia), amely tartalmazza a megpályázandó kiemelt nemzetközi sportesemények felsorolását, valamint irányítja a Kiemelt Nemzetközi Sportesemény Stratégia végrehajtását,”
-
-4. Az 1250/2018. (V. 25.) Korm. határozat 6. pontjában az „1. mellékletben meghatározott beruházások előkészítését és megvalósításuk irányítását” szövegrész helyébe az „1. mellékletben meghatározott beruházások előkészítését és – az 1. melléklet 4., 5., 6., 7., 8., 9., 10., 11., 13., 14. és 15. pontja szerinti beruházások kivételével – megvalósításuk irányítását” szöveg lép.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
