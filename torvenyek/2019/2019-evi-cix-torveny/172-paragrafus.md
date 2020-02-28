@@ -1,8 +1,8 @@
-172. § Hatályát veszti az Országgyűlésről szóló 2012. évi XXXVI. törvény
+172. §
 
-a) 44/A. § (1) bekezdés 12. pontja,
+a)
 
-b) 61/A. § (2) bekezdés m)–o) pontja,
+b)
 
 c)
 
