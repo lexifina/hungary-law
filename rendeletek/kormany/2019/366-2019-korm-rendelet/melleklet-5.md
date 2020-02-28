@@ -1,3 +1,3 @@
-5. melléklet a 366/2019. (XII. 30.) Korm. rendelethez[^27]
+5. melléklet a 366/2019. (XII. 30.) Korm. rendelethez[^26]
 
-[^27]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
