@@ -4,13 +4,13 @@
 
 a) elnökét a miniszterek együttesen kérik fel az idősügy területén elismert és köztiszteletben álló személyek köréből,
 
-b)[^3] két további tagját az emberi erőforrások minisztere az Idősügyi Tanács tagjai közül kéri fel,
+b)[^3] négy további tagját az emberi erőforrások minisztere kéri fel, közülük kettőt az Idősek Tanácsának (a továbbiakban: Tanács) tagjai közül,
 
-c)[^4] két további tagját az emberi erőforrások minisztere – az általa e célból megkeresett, az idősügy területén működő társadalmi szervezetek javaslata alapján, a belügyminiszter véleményének kikérését követően – kéri fel,
+c)[^4]
 
 d) két további tagját a belügyminiszter kéri fel.
 
-(3)[^5] A Bizottság megbízatása öt évre szól. A tag a megbízatásáról lemondhat. Az elnök megbízatását a miniszterek együttesen vonhatják vissza, a további tagok megbízatását az őt felkérő miniszter – a (2) bekezdés b) és c) pontja szerinti esetben az Idősügyi Tanács, illetve a javaslattevő szervezet és a belügyminiszter véleményének kikérését követően – vonhatja vissza.
+(3)[^5] A Bizottság megbízatása öt évre szól. A tag a megbízatásáról lemondhat. Az elnök megbízatását a miniszterek együttesen vonhatják vissza. A további tagok megbízatását az őt felkérő miniszter – a Tanács tagja esetén a Tanács véleményének kikérését követően – vonhatja vissza.
 
 (4)[^6] Ha a tag megbízatása megszűnik, az azt követő hatvan napon belül új tagot kell felkérni.
 
@@ -27,9 +27,9 @@ c) szavazategyenlőség esetén az elnök szavazata dönt.
 (7)[^9] A tagok a feladatuk ellátásáért díjazásban nem részesülnek, de jogosultak a tevékenységük során felmerült, számlával igazolt és indokolt szállás- és útiköltségük megtérítésére.
 
 [^2]: A 3. § (2) bekezdése a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (2) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdés c) pontja a 24/2015. (IV. 30.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (2) bekezdés b) pontja az 5/2020. (II. 26.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (2) bekezdés c) pontját az 5/2020. (II. 26.) EMMI rendelet 4. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (3) bekezdése az 5/2020. (II. 26.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (4) bekezdése a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (5) bekezdését a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (2) bekezdése iktatta be.
 [^8]: A 3. § (6) bekezdését a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 1. § (2) bekezdése iktatta be.
