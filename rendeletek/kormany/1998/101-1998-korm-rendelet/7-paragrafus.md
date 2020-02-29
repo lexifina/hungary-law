@@ -14,7 +14,7 @@ tekintetében.
 
 (3) A járási hivatal közreműködői feladatai körében
 
-a) átveszi a magánútlevél, a második magánútlevél, a szolgálati útlevél és a hajós szolgálati útlevél kiadására irányuló kérelmet,
+a)[^22] ellenőrzi a kérelmező személyazonosságát, átveszi a magánútlevél, a második magánútlevél, a szolgálati útlevél és a hajós szolgálati útlevél kiadására irányuló kérelmet,
 
 b) ellenőrzi a kérelmező családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, nemét, állampolgárságát (a továbbiakban együtt: személyi adatok),
 
@@ -36,7 +36,7 @@ j) gondoskodik az eljárása során keletkezett iratanyag megőrzéséről.
 
 (4) A konzuli tisztviselő közreműködői feladatai körében:
 
-a) átveszi a magánútlevél, második magánútlevél, a diplomata- és a külügyi szolgálati útlevelet,
+a)[^23] ellenőrzi a kérelmező személyazonosságát, átveszi a magánútlevél, a második magánútlevél, a diplomata- és a külügyi szolgálati útlevél kiadására irányuló kérelmet,
 
 b) ellenőrzi a kérelmező személyi adatait és magyar állampolgárságát,
 
@@ -56,3 +56,5 @@ i) gondoskodik az eljárása során keletkezett iratanyag megőrzéséről.
 
 [^20]: A 6. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^21]: A 7. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^22]: A 7. § (3) bekezdés a) pontja a 28/2020. (II. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^23]: A 7. § (4) bekezdés a) pontja a 28/2020. (II. 28.) Korm. rendelet 14. §-ával megállapított szöveg.

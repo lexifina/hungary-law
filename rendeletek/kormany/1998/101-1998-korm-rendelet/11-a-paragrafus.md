@@ -2,9 +2,9 @@
 
 ## úti okmánya és az oltalmazottként elismert személyek
 
-## úti okmánya[^51]
+## úti okmánya[^53]
 
-11/A. §[^52] (1) A menekültként elismert személyek kétnyelvű úti okmánya és az oltalmazottként elismert személyek úti okmánya egy évig érvényes.
+11/A. §[^54] (1) A menekültként elismert személyek kétnyelvű úti okmánya és az oltalmazottként elismert személyek úti okmánya egy évig érvényes.
 
 (2) Az oltalmazottként elismert személyek úti okmánya 32 számozott oldalt tartalmazó füzet.
 
@@ -16,5 +16,5 @@ b) a kérelmező oltalmazott jogállására vonatkozó bejegyzést;
 
 c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
 
-[^51]: A 11/A. §-t megelőző alcímet a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
-[^52]: A 11/A. §-t a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
+[^53]: A 11/A. §-t megelőző alcímet a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
+[^54]: A 11/A. §-t a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
