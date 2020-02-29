@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-125-20-
 | 2017-01-01 | 1993-125-20-22.26 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2017-04-04 | 1993-125-20-22.27 | 417/2012. (XII. 29.) Korm. rendelet |
 | 2019-09-01 | 1993-125-20-22.28 | 417/2012. (XII. 29.) Korm. rendelet |
+| 2020-02-29 | 1993-125-20-22.29 | 28/2020. (II. 28.) Korm. rendelet |

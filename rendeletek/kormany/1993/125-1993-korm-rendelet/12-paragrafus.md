@@ -1,6 +1,6 @@
 ## Határozat
 
-12. §[^54] (1) A köztársasági elnök döntését a honosításról, a visszahonosításról és a lemondás elfogadásáról szóló okirat tartalmazza.
+12. §[^57] (1) A köztársasági elnök döntését a honosításról, a visszahonosításról és a lemondás elfogadásáról szóló okirat tartalmazza.
 
 (2) Az állampolgársági eljárásban hozott határozat tartalmazza
 
@@ -12,4 +12,4 @@ c) a döntés alapjául szolgáló tényeket, bizonyítékokat és jogszabályi 
 
 d) a határozat hozatalának helyét, idejét, aláírójának nevét, a határozatot hozó szerv bélyegzőlenyomatát.
 
-[^54]: A 12. § a 116/2007. (V. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^57]: A 12. § a 116/2007. (V. 24.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -170,6 +170,6 @@
 
 ## a hivatal megnevezése
 
-6. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^91]
+6. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^96]
 
-[^91]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^96]: A 6. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
