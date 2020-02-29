@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-2T
 | 2018-07-01 | 2012-5-20-2T.13 | 23/2017. (X. 3.) EMMI rendelet |
 | 2019-01-01 | 2012-5-20-2T.14 | 20/2018. (XII. 20.) MvM rendelet |
 | 2019-12-18 | 2012-5-20-2T.15 | 31/2014. (IV. 14.) EMMI rendelet |
+| 2020-02-29 | 2012-5-20-2T.16 | 3/2020. (II. 28.) MvM rendelet |
