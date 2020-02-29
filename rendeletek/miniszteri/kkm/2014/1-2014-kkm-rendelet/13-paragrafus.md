@@ -2,8 +2,11 @@
 
 13. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) A 2014. augusztus 20-a alkalmából adományozható miniszteri elismerésekre – a 3. §-ban foglaltaktól eltérően – 2014. július 31. napjáig lehet kezdeményezést tenni.
+(2)[^38]
 
-(3) 2014. augusztus 20-a alkalmából a Bakócz Tamás-díj kitüntetettjei az adományozást igazoló oklevelet kapnak.
+(3)[^39]
 
 (4) Az e rendelet hatálybalépését megelőzően a külügyminiszter által adományozható elismerésekről szóló 2/2009. (III. 10.) KüM rendelet (a továbbiakban: R.) alapján adományozott elismerések visszavonására e rendelet 7. §-át, a nyilvántartásra e rendelet 5. § (2) bekezdését megfelelően alkalmazni kell.
+
+[^38]: A 13. § (2) bekezdését a 6/2020. (II. 28.) KKM rendelet 6. § h) pontja hatályon kívül helyezte.
+[^39]: A 13. § (3) bekezdését a 6/2020. (II. 28.) KKM rendelet 6. § h) pontja hatályon kívül helyezte.

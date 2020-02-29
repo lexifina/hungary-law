@@ -1,4 +1,4 @@
-12/D. §[^19] (1) A „Külgazdasági és Külügyminisztérium Kiváló Külgazdasági Attaséja” Kitüntető Oklevél a Magyarország külképviseletein – a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot teljesítő – külgazdasági attasé beosztott diplomata munkakört ellátó kormánytisztviselőnek adható, aki gazdaságdiplomáciai és külgazdasági tevékenységét kimagasló színvonalon végzi, tartós külszolgálatra történő kihelyezését követően legalább egy év eltelt, és kiemelkedő eredményt ért el a (2) bekezdésben meghatározott területek valamelyikén.
+12/D. §[^32] (1) A „Külgazdasági és Külügyminisztérium Kiváló Külgazdasági Attaséja” Kitüntető Oklevél a Magyarország külképviseletein – a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot teljesítő – külgazdasági attasé beosztott diplomata munkakört ellátó kormánytisztviselőnek adható, aki gazdaságdiplomáciai és külgazdasági tevékenységét kimagasló színvonalon végzi, tartós külszolgálatra történő kihelyezését követően legalább egy év eltelt, és kiemelkedő eredményt ért el a (2) bekezdésben meghatározott területek valamelyikén.
 
 (2) Kitüntető Oklevél az alábbi területeken elért kiemelkedő eredmény esetén adományozható:
 
@@ -18,4 +18,4 @@ d) kiemelkedő jelentőségű beruházás elősegítése.
 
 (6) Az oklevéllel 850 000 forint összegű pénzjutalom jár.
 
-[^19]: A 12/D. §-t a 3/2019. (VI. 13.) KKM rendelet 5. §-a iktatta be.
+[^32]: A 12/D. §-t a 3/2019. (VI. 13.) KKM rendelet 5. §-a iktatta be.
