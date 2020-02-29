@@ -1,0 +1,1 @@
+## „(3) A Bizottság megbízatása öt évre szól. A tag a megbízatásáról lemondhat. Az elnök megbízatását a miniszterek együttesen vonhatják vissza. A további tagok megbízatását az őt felkérő miniszter – a Tanács tagja esetén a Tanács véleményének kikérését követően – vonhatja vissza.”
