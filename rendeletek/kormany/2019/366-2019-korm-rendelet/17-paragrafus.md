@@ -1,4 +1,4 @@
-## 16. §[^16]
+## 16. §[^17]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. melléklet 3. pontja az e rendelet kihirdetését követő hatvanadik napon lép hatályba.
 
-[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

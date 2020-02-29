@@ -1,3 +1,3 @@
-3. melléklet a 366/2019. (XII. 30.) Korm. rendelethez[^24]
+3. melléklet a 366/2019. (XII. 30.) Korm. rendelethez[^26]
 
-[^24]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
