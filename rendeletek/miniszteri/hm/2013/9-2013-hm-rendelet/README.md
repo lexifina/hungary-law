@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2019-03-01 | 2013-9-20-15.24 | 4/2019. (II. 28.) HM rendelet |
 | 2019-08-31 | 2013-9-20-15.25 | 9/2019. (VIII. 30.) HM rendelet |
 | 2020-01-01 | 2013-9-20-15.26 | 20/2018. (XII. 28.) HM rendelet |
+| 2020-02-29 | 2013-9-20-15.27 | 4/2020. (II. 28.) HM rendelet |

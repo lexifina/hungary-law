@@ -1,4 +1,4 @@
-69/A. §[^180] (1) A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(6) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
+69/A. §[^188] (1) A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(6) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
 
 (2) A (3) és a (4) bekezdésbe nem tartozó, Magyarországon települő honvédségi szervezet, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény munkaköri jegyzékében, állománytáblájában, továbbá a Magyarországon települő katonai szervezethez vezényelt állományra vonatkozó állománytáblában szereplő
 
@@ -8,7 +8,7 @@ b) vezetői szolgálati beosztás a IV. besorolási osztályba
 
 tartozik.
 
-(3) A HM (4) bekezdés hatálya alá nem tartozó hivatalának, a HM Hadtörténeti Intézet és Múzeum, valamint a Tábori Lelkészi Szolgálat munkaköri jegyzékében, továbbá a (6) bekezdésben meghatározott szolgálati beosztások kivételével a más magasabb szintű parancsnokság jogállású honvédségi szervezetek, valamint a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete állománytáblájában, továbbá az NKE-hez és a NATO Erőket Integráló Elemhez vezényelt állományra vonatkozó állománytáblában szereplő
+(3)[^189] A HM (4) bekezdés hatálya alá nem tartozó hivatalának, a HM Hadtörténeti Intézet és Múzeum, valamint a Tábori Lelkészi Szolgálat munkaköri jegyzésében, továbbá a (6) bekezdésben meghatározott szolgálati beosztások kivételével a más magasabb szintű parancsnokság jogállású honvédségi szervezetek, valamint a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete állománytáblájában, továbbá az NKE-hez, a NATO Erőket Integráló Elemekhez és a Közép-európai Többnemzeti Hadosztály-parancsnoksághoz vezényelt állományra vonatkozó állománytáblában szereplő
 
 a) beosztotti szolgálati beosztás a II. besorolási osztályba,
 
@@ -40,4 +40,5 @@ b) az MH Parancsnoksága stratégiai központjánál létrehozott szolgálati be
 
 kell megfelelően alkalmazni.
 
-[^180]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.
+[^188]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.
+[^189]: A 69/A. § (3) bekezdése a 4/2020. (II. 28.) HM rendelet 7. §-ával megállapított szöveg.

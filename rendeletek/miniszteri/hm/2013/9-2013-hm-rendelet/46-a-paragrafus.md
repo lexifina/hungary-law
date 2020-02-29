@@ -1,8 +1,8 @@
-## 13/A. [^134] A szolgálati viszony fenntartására vonatkozó megállapodás
+## 13/A. [^142] A szolgálati viszony fenntartására vonatkozó megállapodás
 
-46/A. § (1)[^135] A Hjt. 44/A. §-a szerinti megállapodás (ezen alcím vonatkozásában a továbbiakban: megállapodás) az állomány egészségügyi, informatikai, repülőhajózó, repülőműszaki, légiforgalmi irányító, légiközlekedési szabályozási szolgálati beosztást betöltő, valamint mérnöki végzettséget igénylő logisztikai szolgálati beosztást betöltő tagjával, az MH PK előzetes engedélyével köthető meg.
+46/A. § (1)[^143] A Hjt. 44/A. §-a szerinti megállapodás (ezen alcím vonatkozásában a továbbiakban: megállapodás) az állomány egészségügyi, informatikai, repülőhajózó, repülőműszaki, légiforgalmi irányító, légiközlekedési szabályozási szolgálati beosztást betöltő, valamint mérnöki végzettséget igénylő logisztikai szolgálati beosztást betöltő tagjával, az MH PK előzetes engedélyével köthető meg.
 
-(1a)[^136] Az MH PK (1) bekezdés szerinti előzetes engedélye iránti kérelmet – a szakmai felelős egyetértése esetén – az állományilletékes parancsnok terjeszti elő, amelyhez részletes indokolást kell csatolni.
+(1a)[^144] Az MH PK (1) bekezdés szerinti előzetes engedélye iránti kérelmet – a szakmai felelős egyetértése esetén – az állományilletékes parancsnok terjeszti elő, amelyhez részletes indokolást kell csatolni.
 
 (2) A megállapodásnak tartalmaznia kell
 
@@ -40,6 +40,6 @@ ba) szerinti vállalkozási vagy megbízási típusú szerződés alapján végz
 
 bb) alapján a gazdasági társaság vagy a szövetkezet tevékenységében történő személyes közreműködés.
 
-[^134]: A 13/A. alcímet (46/A–46/G. §) a 10/2017. (VIII. 31.) HM rendelet 10. §-a iktatta be.
-[^135]: A 46/A. § (1) bekezdése a 12/2018. (VII. 27.) HM rendelet 5. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^136]: A 46/A. § (1a) bekezdését az 1/2018. (I. 26.) HM rendelet 9. § (2) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.
+[^142]: A 13/A. alcímet (46/A–46/G. §) a 10/2017. (VIII. 31.) HM rendelet 10. §-a iktatta be.
+[^143]: A 46/A. § (1) bekezdése a 12/2018. (VII. 27.) HM rendelet 5. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^144]: A 46/A. § (1a) bekezdését az 1/2018. (I. 26.) HM rendelet 9. § (2) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-150. § (1)[^298] A fegyelmi jogkört gyakorló döntését tartalmazó határozat ellen az állomány fegyelmi eljárás alá vont tagja beleegyezésével ügyvédje is fellebbezéssel élhet.
+150. § (1)[^310] A fegyelmi jogkört gyakorló döntését tartalmazó határozat ellen az állomány fegyelmi eljárás alá vont tagja beleegyezésével ügyvédje is fellebbezéssel élhet.
 
 (2) A fellebbezés elbírálására az elöljáró parancsnok jogosult.
 
-(3)[^299] Az MH PK által hozott döntés ellen benyújtott fellebbezést a miniszterhez kell felterjeszteni.
+(3)[^311] Az MH PK által hozott döntés ellen benyújtott fellebbezést a miniszterhez kell felterjeszteni.
 
 (4) A fellebbezés elbírálására jogosult a hozzá felterjesztett iratok alapján az egész eljárást felülvizsgálja.
 
-[^298]: A 150. § (1) bekezdése az 1/2018. (I. 26.) HM rendelet 26. § h) pontja szerint módosított szöveg.
-[^299]: A 150. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.
+[^310]: A 150. § (1) bekezdése az 1/2018. (I. 26.) HM rendelet 26. § h) pontja szerint módosított szöveg.
+[^311]: A 150. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.

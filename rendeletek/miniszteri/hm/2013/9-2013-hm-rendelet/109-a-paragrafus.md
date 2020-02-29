@@ -1,4 +1,4 @@
-109/A. §[^231] (1) Az állomány nyelvtanfolyamra vezényelt tagja esetén
+109/A. §[^241] (1) Az állomány nyelvtanfolyamra vezényelt tagja esetén
 
 a) a vezénylésnek a 109. § (1) bekezdésen túl tartalmaznia kell az előírt nyelvvizsga-bizonyítvány nyelvét, fajtáját, típusát és szintjét, valamint az arra való kötelezést, hogy az állomány tagja az előírt nyelvvizsga-bizonyítványt a képzés záró időpontját követő két éven belül szerezze meg,
 
@@ -14,4 +14,4 @@ b) a javaslati lap a 8. § (1) bekezdésében meghatározottakon túl tartalmazz
 
 (6) Ha a központi személyügyi szerv vezetője a (3) bekezdés szerinti kérelmet elutasítja, és az állomány tagja az (1) bekezdés szerinti előírt nyelvvizsga bizonyítványt nem mutatja be, az állományilletékes parancsnok a 115. § szerint jár el.
 
-[^231]: A 109/A. §-t a 20/2018. (XII. 28) HM rendelet 38. §-a iktatta be.
+[^241]: A 109/A. §-t a 20/2018. (XII. 28) HM rendelet 38. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 30/A. [^221] Fokozati vizsga
+## 30/A. [^231] Fokozati vizsga
 
 107/A. § (1) Fokozati vizsgát tehet a tiszti és az altiszti állomány
 
@@ -12,4 +12,4 @@ b) százados, őrnagy vagy alezredes, valamint főtörzsőrmester, zászlós vag
 
 (4) Az állomány vezetői beosztásból nem vezetői beosztásba áthelyezett tagja az áthelyezését követően olyan szintű fokozati vizsgát tehet le először, amelyre – a viselt rendfokozatában eltöltött idő alapján, a Hjt. 85/A. § (3) bekezdése szerinti időpontokra tekintettel – az áthelyezése napjával lenne jogosult.
 
-[^221]: A 30/A. alcímet a 4/2015. (VI. 22.) HM rendelet 21. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 34. §-ával megállapított szöveg.
+[^231]: A 30/A. alcímet a 4/2015. (VI. 22.) HM rendelet 21. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 34. §-ával megállapított szöveg.

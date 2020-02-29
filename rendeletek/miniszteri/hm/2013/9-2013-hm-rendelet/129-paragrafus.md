@@ -2,4 +2,6 @@
 
 129. § (1) Egyszerűsített eljárás elrendelésére és lefolytatására a kötelékben lévő zászlóalj parancsnoka is jogosult az állomány szolgálati alárendeltségébe tartozó, legénységi vagy altiszti állománycsoportba tartozó tagja esetén.
 
-(2) Az (1) bekezdés szerinti jogkört az altiszti állomány HM-ben szolgálatot teljesítő tagja tekintetében az MH vezénylő zászlós gyakorolja.
+(2)[^293]
+
+[^293]: A 129. § (2) bekezdését a 4/2020. (II. 28.) HM rendelet 19. § d) pontja hatályon kívül helyezte.

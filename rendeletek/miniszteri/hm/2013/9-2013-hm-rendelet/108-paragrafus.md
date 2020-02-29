@@ -2,11 +2,11 @@
 
 ## 31. Képzésre történő vezénylés, tanulmányi szerződés
 
-108. §[^222] (1)[^223] Az állomány tagja a Hjt. 42. § (2) bekezdés g) pontja szerint vezénylés alapján vesz részt a központi képzési katalógusban szereplő
+108. §[^232] (1)[^233] Az állomány tagja a Hjt. 42. § (2) bekezdés g) pontja szerint vezénylés alapján vesz részt a központi képzési katalógusban szereplő
 
 a) katonai mesterképzésen,
 
-b)[^224] katonai felsővezetői szakirányú továbbképzési szakon,
+b)[^234] katonai felsővezetői szakirányú továbbképzési szakon,
 
 c) az NKE által indított tanfolyamon,
 
@@ -14,7 +14,7 @@ d) a (3) bekezdés szerinti képzés kivételével a honvédelmi szervezetek ál
 
 e) az általa betöltött szolgálati beosztáshoz jogszabályban, illetve munkaköri leírásban előírt képzésen.
 
-(2)[^225] A Honvédség – vezénylés helyett – az állomány tagjának a központi képzési katalógusban szereplő
+(2)[^235] A Honvédség – vezénylés helyett – az állomány tagjának a központi képzési katalógusban szereplő
 
 a) a doktori (PhD) képzésen,
 
@@ -24,16 +24,16 @@ c) az (1) bekezdés c) és d) pontja kivételével a katonai képzés keretében
 
 történő részvételét tanulmányi szerződés megkötésével támogathatja.
 
-(3)[^226] A Honvédség a tanfolyamrendszerű másod-helikoptervezető vagy légijármű-vezető képzésen való részvételt – a kiképzésért felelős központi szervezet által kiírt és elbírált pályázat alapján – tanulmányi szerződéssel támogatja.
+(3)[^236] A Honvédség a tanfolyamrendszerű másod-helikoptervezető vagy légijármű-vezető képzésen való részvételt – a kiképzésért felelős központi szervezet által kiírt és elbírált pályázat alapján – tanulmányi szerződéssel támogatja.
 
-(4)[^227] A (2) bekezdés a) pontja szerinti képzés tanulmányi szerződéssel történő támogatására az állomány tagja – az állományilletékes parancsnok előzetes egyetértésével, az MH PK-nak címezve – pályázhat. A javaslati lapon a 8. § (1) bekezdésében meghatározottakon túl az állomány tagjának a választott kutatási témáját, valamint a megpályázott képzési formát is fel kell tüntetnie. A tanulmányi szerződéssel támogatható pályázatokról, valamint a fokozatszerzési díj megtérítéséről az MH PK dönt.
+(4)[^237] A (2) bekezdés a) pontja szerinti képzés tanulmányi szerződéssel történő támogatására az állomány tagja – az állományilletékes parancsnok előzetes egyetértésével, az MH PK-nak címezve – pályázhat. A javaslati lapon a 8. § (1) bekezdésében meghatározottakon túl az állomány tagjának a választott kutatási témáját, valamint a megpályázott képzési formát is fel kell tüntetnie. A tanulmányi szerződéssel támogatható pályázatokról, valamint a fokozatszerzési díj megtérítéséről az MH PK dönt.
 
-(5)[^228] A Hjt. 42. § (2) bekezdés g) pontja szerint vezénylést kell alkalmazni a központi képzési katalógusban szereplő kiképzésekre is.
+(5)[^238] A Hjt. 42. § (2) bekezdés g) pontja szerint vezénylést kell alkalmazni a központi képzési katalógusban szereplő kiképzésekre is.
 
-[^222]: A 108. § a 25/2016. (XII. 22.) HM rendelet 28. §-ával megállapított szöveg.
-[^223]: A 108. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 71. § 14. pontja szerint módosított szöveg.
-[^224]: A 108. § (1) bekezdés b) pontja a 12/2018. (VII. 27.) HM rendelet 22. § g) pontjával megállapított szöveg.
-[^225]: A 108. § (2) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 71. § 14. pontja szerint módosított szöveg.
-[^226]: A 108. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 25. § l) pontja szerint módosított szöveg.
-[^227]: A 108. § (4) bekezdése a 20/2018. (XII. 28) HM rendelet 35. §-ával megállapított szöveg.
-[^228]: A 108. § (5) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 14. pontja szerint módosított szöveg.
+[^232]: A 108. § a 25/2016. (XII. 22.) HM rendelet 28. §-ával megállapított szöveg.
+[^233]: A 108. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 71. § 14. pontja szerint módosított szöveg.
+[^234]: A 108. § (1) bekezdés b) pontja a 12/2018. (VII. 27.) HM rendelet 22. § g) pontjával megállapított szöveg.
+[^235]: A 108. § (2) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 71. § 14. pontja szerint módosított szöveg.
+[^236]: A 108. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 25. § l) pontja szerint módosított szöveg.
+[^237]: A 108. § (4) bekezdése a 20/2018. (XII. 28) HM rendelet 35. §-ával megállapított szöveg.
+[^238]: A 108. § (5) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 14. pontja szerint módosított szöveg.

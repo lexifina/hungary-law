@@ -1,4 +1,4 @@
-256. § (1)[^378] A központi katonai igazgatási szerv parancsnoka – az állományilletékes honvédelmi szervezet vezetőjével történt egyeztetést követően – a 255. § szerint benyújtott írásbeli kérelem katonai igazgatási szervhez történő beérkezését követő 15 napon belül a rendelkezésére álló adatok alapján hatósági határozatban dönt a tényleges szolgálatteljesítés elhalasztásának vagy átütemezésének engedélyezéséről vagy elutasításáról.
+256. § (1)[^403] A központi katonai igazgatási szerv parancsnoka – az állományilletékes honvédelmi szervezet vezetőjével történt egyeztetést követően – a 255. § szerint benyújtott írásbeli kérelem katonai igazgatási szervhez történő beérkezését követő 15 napon belül a rendelkezésére álló adatok alapján hatósági határozatban dönt a tényleges szolgálatteljesítés elhalasztásának vagy átütemezésének engedélyezéséről vagy elutasításáról.
 
 (2) A központi katonai igazgatási szerv parancsnoka a 248. § (3) bekezdése, valamint a 254. § szerint kiadott behívóparancs vagy bevonulási parancs esetén az (1) bekezdés szerinti döntését 3 napon belül hozza meg.
 
@@ -6,14 +6,15 @@
 
 (4) A szolgálathalasztási vagy átütemezési kérelem jogerős elutasítása esetén a határozat kézhezvételétől számított 5 napon belül a kérelmet benyújtó önkéntes tartalékos katona vagy munkáltatója bírósághoz fordulhat. A kérelmet a bíróság soron kívül, nemperes eljárásban bírálja el. A kérelemben az önkéntes tartalékos katona vagy a munkáltatója kérheti a határozat végrehajtásának felfüggesztését.
 
-(5)[^379] A központi katonai igazgatási szerv
+(5)[^404] A központi katonai igazgatási szerv
 
-a) az (1) bekezdés szerinti határozat egy példányát postai úton és elektronikus úton kézbesíti az önkéntes tartalékos katona részére, valamint ha azt az önkéntes tartalékos katona munkáltatója kérelmére indult eljárásban hozta meg az önkéntes tartalékos katona munkáltatója részére is, és
+a)[^405] az (1) bekezdés szerinti határozat egy példányát postai úton vagy elektronikus úton kézbesíti az önkéntes tartalékos katona részére, valamint ha azt az önkéntes tartalékos katona munkáltatója kérelmére indult eljárásban hozta meg az önkéntes tartalékos katona munkáltatója részére is, és
 
 b) döntéséről elektronikus úton tájékoztatja az állományilletékes honvédelmi szervezetet.
 
-(6)[^380] Ha az állományilletékes honvédelmi szervezet vagy a behívást kezdeményező honvédelmi szervezet a behívási igényéről lemond, a központi katonai igazgatási szerv parancsnoka a behívóparancsot határozatban visszavonja.
+(6)[^406] Ha az állományilletékes honvédelmi szervezet vagy a behívást kezdeményező honvédelmi szervezet a behívási igényéről lemond, a központi katonai igazgatási szerv parancsnoka a behívóparancsot határozatban visszavonja.
 
-[^378]: A 256. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja, a 25/2016. (XII. 22.) HM rendelet 45. § h) pontja szerint módosított szöveg.
-[^379]: A 256. § (5) bekezdése a 20/2018. (XII. 28) HM rendelet 65. §-ával megállapított szöveg.
-[^380]: A 256. § (6) bekezdését a 12/2018. (VII. 27.) HM rendelet 19. §-a iktatta be.
+[^403]: A 256. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja, a 25/2016. (XII. 22.) HM rendelet 45. § h) pontja szerint módosított szöveg.
+[^404]: A 256. § (5) bekezdése a 20/2018. (XII. 28) HM rendelet 65. §-ával megállapított szöveg.
+[^405]: A 256. § (5) bekezdés a) pontja a 4/2020. (II. 28.) HM rendelet 18. § k) pontja szerint módosított szöveg.
+[^406]: A 256. § (6) bekezdését a 12/2018. (VII. 27.) HM rendelet 19. §-a iktatta be.

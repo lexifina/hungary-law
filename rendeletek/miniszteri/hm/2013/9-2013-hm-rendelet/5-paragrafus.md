@@ -1,4 +1,4 @@
-5. §[^41] (1) Az MH PK az állomány tagja tekintetében
+5. §[^44] (1) Az MH PK az állomány tagja tekintetében
 
 a) jogszabályban, különösen az e rendelet 1. melléklete szerinti munkáltatói jogköröket,
 
@@ -8,10 +8,10 @@ c) ha e rendelet eltérően nem rendelkezik, a miniszter hatáskörébe tartozó
 
 gyakorol.
 
-(2)[^42] Az állomány Hjt. 58/E. §-ának hatálya alá tartozó tagja tekintetében a miniszter hatáskörébe tartozó munkáltatói döntések esetén, a (3) bekezdésben foglaltak kivételével, a javaslattételi jogkört – az MH PK előzetes egyetértésével – a HM KÁT gyakorolja.
+(2)[^45] Az állomány Hjt. 58/E. §-ának hatálya alá tartozó tagja tekintetében a miniszter hatáskörébe tartozó munkáltatói döntések esetén, a (3) bekezdésben foglaltak kivételével, a javaslattételi jogkört – az MH PK előzetes egyetértésével – a HM KÁT gyakorolja.
 
-(3)[^43] Az állomány Tábori Lelkészi Szolgálat állományába tartozó tagja tekintetében a miniszter hatáskörébe tartozó munkáltatói döntések esetén a javaslattételi jogkört – az MH PK előzetes egyetértésével – a HM parlamenti államtitkára gyakorolja.
+(3)[^46] Az állomány Tábori Lelkészi Szolgálat állományába tartozó tagja tekintetében a miniszter hatáskörébe tartozó munkáltatói döntések esetén a javaslattételi jogkört – az MH PK előzetes egyetértésével – a HM parlamenti államtitkára gyakorolja.
 
-[^41]: Az 5. § a 20/2018. (XII. 28.) HM rendelet 5. §-ával megállapított szöveg.
-[^42]: Az 5. § (2) bekezdése a 4/2019. (II. 28.) HM rendelet 4. §-a szerint módosított szöveg.
-[^43]: Az 5. § (3) bekezdését a 4/2019. (II. 28.) HM rendelet 2. §-a iktatta be.
+[^44]: Az 5. § a 20/2018. (XII. 28.) HM rendelet 5. §-ával megállapított szöveg.
+[^45]: Az 5. § (2) bekezdése a 4/2019. (II. 28.) HM rendelet 4. §-a szerint módosított szöveg.
+[^46]: Az 5. § (3) bekezdését a 4/2019. (II. 28.) HM rendelet 2. §-a iktatta be.

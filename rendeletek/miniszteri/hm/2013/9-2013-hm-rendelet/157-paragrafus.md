@@ -1,4 +1,4 @@
-157. § (1) Ha a méltatlansági jogkört gyakorló a méltatlansági eljárást nem szünteti meg vagy nem függeszti fel, továbbá, ha a méltatlansági eljárás felfüggesztésére okot adó körülmény megszűnik, az összefoglaló jelentés kézhezvételétől vagy a felfüggesztésre okot adó körülmény megszűnésének tudomásra jutásától számított 5 napon belül háromtagú méltatlansági bizottságot hoz létre.
+157. § (1)[^315] Ha a méltatlansági jogkört gyakorló a méltatlansági eljárást nem szünteti meg vagy nem függeszti fel, továbbá, ha a méltatlansági eljárás felfüggesztésére okot adó körülmény megszűnik, az összefoglaló jelentés kézhezvételétől vagy a felfüggesztésre okot adó körülmény megszűnésének tudomásra jutásától számított 5 munkanapon belül háromtagú méltatlansági bizottságot hoz létre.
 
 (2) A méltatlansági bizottság
 
@@ -9,3 +9,5 @@ b) az altiszt vagy a tiszti állomány tagja, valamint a 155. § (2) és (3) bek
 testület.
 
 (3) Az (1) bekezdéstől eltérően az állomány eljárás alá vont tagjának írásbeli kérelmére a méltatlansági jogkört gyakorló a méltatlansági bizottság létrehozása nélkül is döntést hozhat.
+
+[^315]: A 157. § (1) bekezdése a 4/2020. (II. 28.) HM rendelet 18. § h) pontja szerint módosított szöveg.
