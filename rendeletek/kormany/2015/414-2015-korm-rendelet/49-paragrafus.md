@@ -1,12 +1,12 @@
-## 48. §[^101] A polgár a tároló elem tartalmát a járási hivatalnál, a kijelölt kormányhivatalnál vagy a nyilvántartást kezelő szervnél személyesen, vagy elektronikus azonosítást követően elektronikus úton ellenőrizheti.
+## 48. §[^110] A polgár a tároló elem tartalmát a járási hivatalnál, a kijelölt kormányhivatalnál vagy a nyilvántartást kezelő szervnél személyesen, vagy elektronikus azonosítást követően elektronikus úton ellenőrizheti.
 
-49. § (1)[^102] A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozását a vonatkozó aktiváló PIN kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozását a vonatkozó aktiváló PIN kód hiányában a PUK kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozását PUK kód hiányában az eljáró hatóságnál személyesen, személyazonossága ellenőrzését követően igényelheti.
+49. § (1)[^111] A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozását a vonatkozó aktiváló PIN kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozását a vonatkozó aktiváló PIN kód hiányában a PUK kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód létrehozását PUK kód hiányában az eljáró hatóságnál személyesen, személyazonossága ellenőrzését követően igényelheti.
 
-(2)[^103] A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód cseréjét a korábbi PIN kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód cseréjét a korábbi PIN kód hiányában a PUK kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód cseréjét PUK kód hiányában az eljáró hatóságnál személyesen, személyazonossága ellenőrzését követően igényelheti.
+(2)[^112] A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód cseréjét a korábbi PIN kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód cseréjét a korábbi PIN kód hiányában a PUK kód megadásával végezheti. A polgár az állandó személyazonosító igazolványhoz tartozó PIN kód cseréjét PUK kód hiányában az eljáró hatóságnál személyesen, személyazonossága ellenőrzését követően igényelheti.
 
-(3)[^104] A polgár blokkolódott PUK kódjának feloldását az eljáró hatóságnál személyesen, személyazonossága ellenőrzését követően igényelheti.
+(3)[^113] A polgár blokkolódott PUK kódjának feloldását az eljáró hatóságnál személyesen, személyazonossága ellenőrzését követően igényelheti.
 
-[^101]: A 48. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 18. pontja szerint módosított szöveg.
-[^102]: A 49. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 19. pontja szerint módosított szöveg.
-[^103]: A 49. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 20. pontja szerint módosított szöveg.
-[^104]: A 49. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 20. pontja szerint módosított szöveg.
+[^110]: A 48. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 18. pontja szerint módosított szöveg.
+[^111]: A 49. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 19. pontja szerint módosított szöveg.
+[^112]: A 49. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 20. pontja szerint módosított szöveg.
+[^113]: A 49. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 20. pontja szerint módosított szöveg.

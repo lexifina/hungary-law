@@ -1,9 +1,9 @@
-30. § (1)[^64] Az Utv. 16/D. § (3) bekezdésében meghatározott esetben a bv. szerv elveszi a polgár személyazonosító igazolványát. Az elvett személyazonosító igazolványt a bv. szerv a (2) bekezdésben meghatározott eljárást követően haladéktalanul továbbítja a kijelölt kormányhivatalnak.
+30. § (1)[^73] Az Utv. 16/D. § (3) bekezdésében meghatározott esetben a bv. szerv elveszi a polgár személyazonosító igazolványát. Az elvett személyazonosító igazolványt a bv. szerv a (2) bekezdésben meghatározott eljárást követően haladéktalanul továbbítja a kijelölt kormányhivatalnak.
 
-(2)[^65] Az Nytv. 29/G. § (2) bekezdésében meghatározott állandó személyazonosító igazolvány kiadásához a bv. szerv a külföldre utazási korlátozás hatálya alatt álló polgár személyazonosságát, állampolgárságát ellenőrzi, a külföldre utazási korlátozás hatálya alatt álló polgárról arcképmás felvételt készít, ezt követően továbbítja a kijelölt kormányhivatalnak az Nytv. 29/G. § (2) bekezdésében meghatározott személyazonosító igazolvány kiadásához szükséges adatokat. Ennek során a megküldött adatokat egyezteti az állandó személyazonosító igazolvány vagy a személyazonosságot igazoló más érvényes okmány adattartalmával és a bemutatott okiratokban szereplő adatokkal.
+(2)[^74] Az Nytv. 29/G. § (2) bekezdésében meghatározott állandó személyazonosító igazolvány kiadásához a bv. szerv a külföldre utazási korlátozás hatálya alatt álló polgár személyazonosságát, állampolgárságát ellenőrzi, a külföldre utazási korlátozás hatálya alatt álló polgárról arcképmás felvételt készít, ezt követően továbbítja a kijelölt kormányhivatalnak az Nytv. 29/G. § (2) bekezdésében meghatározott személyazonosító igazolvány kiadásához szükséges adatokat. Ennek során a megküldött adatokat egyezteti az állandó személyazonosító igazolvány vagy a személyazonosságot igazoló más érvényes okmány adattartalmával és a bemutatott okiratokban szereplő adatokkal.
 
-(3)[^66] Az Nytv. 29/G. § (2) bekezdése szerinti személyazonosító igazolványt és a 23. § (1) bekezdése szerinti kódokat a kijelölt kormányhivatal az adatot szolgáltató bv. szerv részére küldi meg átadás céljából.
+(3)[^75] Az Nytv. 29/G. § (2) bekezdése szerinti személyazonosító igazolványt és a 23. § (1) bekezdése szerinti kódokat a kijelölt kormányhivatal az adatot szolgáltató bv. szerv részére küldi meg átadás céljából.
 
-[^64]: A 30. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 2. pontja szerint módosított szöveg.
-[^65]: A 30. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 2. pontja szerint módosított szöveg.
-[^66]: A 30. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^73]: A 30. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 2. pontja szerint módosított szöveg.
+[^74]: A 30. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 2. pontja szerint módosított szöveg.
+[^75]: A 30. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
