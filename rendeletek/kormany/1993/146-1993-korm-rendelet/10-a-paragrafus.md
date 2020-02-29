@@ -1,6 +1,6 @@
 10/A. §[^40] A kijelölt kormányhivatal elsőfokú hatósági jogkörében:
 
-a) dönt a 3. § (1) és (4) bekezdése szerinti esetekben a nyilvántartásba vételről, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról, visszavonásáról, valamint a külföldön élő magyar állampolgárok adatainak helyesbítéséről, módosításáról;
+a)[^41] dönt a 3. § (1) és (4) bekezdése szerinti esetekben a nyilvántartásba vételről, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról, visszavonásáról, a külföldön élő magyar állampolgárok adatainak helyesbítéséről, módosításáról, valamint a 3. § (1) bekezdése szerinti esetekben a személyazonosító igazolvány kiadásáról, visszavonásáról;
 
 b) dönt a nála előterjesztett kérelmek ügyében a személyazonosító igazolvány, valamint a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról vagy visszavonásáról;
 
@@ -22,7 +22,8 @@ j) dönt a külföldön élő magyar állampolgárok külföldi lakóhely válto
 
 k) átvezeti a nyilvántartáson az adatváltozásokat és adatjavításokat a személyazonosító igazolvány, illetve a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásával kapcsolatos – kormányrendeletben megállapított – hatósági jogkörében eljárva;
 
-l)[^41] az Nytv. 4. § (2e) bekezdése szerinti magyar állampolgárt Magyarországon élő magyar állampolgárként a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal nyilvántartásba veszi.
+l)[^42] az Nytv. 4. § (2e) bekezdése szerinti magyar állampolgárt Magyarországon élő magyar állampolgárként a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal nyilvántartásba veszi.
 
 [^40]: Az R. 10/A. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
-[^41]: Az R. 10/A. § l) pontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^41]: Az R. 10/A. § a) pontja a 28/2020. (II. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^42]: Az R. 10/A. § l) pontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
