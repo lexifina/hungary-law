@@ -1,4 +1,4 @@
-## 15/C. §[^41] A Hivatal a 3. § q) pontjában meghatározott feladatának ellátása során
+## 15/C. §[^42] A Hivatal a 3. § q) pontjában meghatározott feladatának ellátása során
 
 a) tankönyvfejlesztési feladatokat végez, ennek keretében
 
@@ -18,4 +18,4 @@ ea) szakmai és tartalmi fejlesztését,
 
 eb) informatikai működtetésével, üzemeltetésével összefüggő feladatait.
 
-[^41]: A 15/C. §-t a 259/2019. (X. 31.) Korm. rendelet 4. §-a iktatta be.
+[^42]: A 15/C. §-t a 259/2019. (X. 31.) Korm. rendelet 4. §-a iktatta be.
