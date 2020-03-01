@@ -1,4 +1,4 @@
-## 4. §[^8] A záradékoló hatáskörében eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) – a földmérő kérelmére – a kisajátítási terv elkészítéséhez szükséges adatokat az 1. számú melléklet II/1. pontja szerinti módon és adattartalommal szolgáltatja.
+## 4. §[^8] A záradékoló hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) – a földmérő kérelmére – a kisajátítási terv elkészítéséhez szükséges adatokat az 1. számú melléklet II/1. pontja szerinti módon és adattartalommal szolgáltatja.
 
 ## A kisajátítási terv készítése, záradékolása
 
@@ -12,7 +12,7 @@
 
 (5)[^13] A kisajátítási vázrajz és a kisajátítási átnézeti térkép tartalmának áttekinthetőnek és olvashatónak kell lennie. A méretarány-tényezőt a rajzokon fel kell tüntetni.
 
-[^8]: A 4. § a 70/2015. (III. 30.) Korm. rendelet 122. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § a 70/2015. (III. 30.) Korm. rendelet 122. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^9]: Az 5. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^10]: Az 5. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^11]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 115. §-a szerint módosított szöveg.
