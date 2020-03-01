@@ -1,58 +1,60 @@
 ## 95. A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet módosítása
 
-95. § (1)[^200]
+95. § (1) A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet (a továbbiakban: R57.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-(2)[^201]
+## „(1) A Kormány rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal) jelöli ki.”
 
-(3)[^202]
+(2) Az R57. 1. § (12) bekezdése helyébe a következő rendelkezés lép:
 
-(4)[^203]
+## „(12) A kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.”
 
-(5)[^204]
+(3) Az R57. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A megváltozott munkaképességű személyek ellátásaival kapcsolatos hatósági ügyekben rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a kérelmező lakó- vagy tartózkodási helye szerint illetékes kormányhivatal jár el. A rehabilitációs hatóságként, rehabilitációs szakértői szervként vagy orvosszakértői szervként eljáró Budapest Főváros Kormányhivatalának illetékessége Budapest főváros és Pest megye területére terjed ki. Külföldön lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetén, vagy ha a vizsgálandó személy nem rendelkezik Magyarországon lakóhellyel vagy tartózkodási hellyel, Budapest Főváros Kormányhivatala jár el.”
+
+(4)[^101]
+
+(5) Az R57.
+
+a) 1. § (9) bekezdésében, a 2. § (3) bekezdésében, 4. § a)–c) pontjában a „járási hivatal” szövegrész helyébe a „kormányhivatal” szöveg,
+
+b) 10. § (2) bekezdésében, 14. § (1b) bekezdésében, 15. § (1) bekezdésében, 16. § (1)–(4) bekezdésében, 21. § (4) bekezdés nyitó szövegrészében és c) pontjában, 21. § (5) bekezdés nyitó szövegrészében, 26. §-ában az „az első fokon eljáró” szövegrész helyébe az „a” szöveg,
+
+c) 21. § (2) és (3) bekezdésében az „Az első fokon eljáró” szövegrész helyébe az „A” szöveg,
+
+d) 21/A. § (3) bekezdésében az „az első fokon eljáró” szövegrészek helyébe az „a” szöveg
+
+## lép.
 
 (6) Hatályát veszti az R57.
 
-a)[^205]
+a) 1. § (1a), (10) és (11) bekezdése,
 
-b)[^206]
+b) 2. § (1) és (2a) bekezdése,
 
-c)[^207]
+c) 2. § (3)–(5) bekezdésében, 4. § a) és b) pontjaiban az „első fokon” szövegrész,
 
-d)[^208]
+d) 2. § (4) bekezdésében a „III. Kerületi Hivatala” szövegrész,
 
-e)[^209]
+e)[^102]
 
-f)[^210]
+f) 3. és 3/A. §-a,
 
-g)[^211]
+g) 13/B. § (3a) bekezdése,
 
-h)[^212]
+h)[^103]
 
-i)[^213]
+i)[^104]
 
-j)[^214]
+j) 21. § (1) bekezdésében az „ , első fokon eljáró” szövegrész,
 
-k)[^215]
+k) 22/A. § (1) bekezdésében az „első fokú” szövegrész,
 
-l)[^216]
+l) 30. §-a,
 
-m)[^217]
+m) 5. melléklete.
 
-[^200]: A 95. § (1) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^201]: A 95. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^202]: A 95. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^203]: A 95. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^204]: A 95. § (5) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^205]: A 95. § (6) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^206]: A 95. § (6) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^207]: A 95. § (6) bekezdés c) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^208]: A 95. § (6) bekezdés d) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^209]: A 95. § (6) bekezdés e) pontja a 202. § (7) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^210]: A 95. § (6) bekezdés f) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^211]: A 95. § (6) bekezdés g) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^212]: A 95. § (6) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^213]: A 95. § (6) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^214]: A 95. § (6) bekezdés j) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^215]: A 95. § (6) bekezdés k) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^216]: A 95. § (6) bekezdés l) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^217]: A 95. § (6) bekezdés m) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^101]: A 95. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 95. § (6) bekezdés e) pontja a 202. § (7) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^103]: A 95. § (6) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 95. § (6) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

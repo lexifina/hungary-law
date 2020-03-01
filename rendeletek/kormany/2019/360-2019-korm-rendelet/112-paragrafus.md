@@ -1,25 +1,21 @@
-## 111. §[^252]
-
 ## 112. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosítása
 
 ## 112. § Hatályát veszti a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet
 
-a)[^253]
+a) 1/A. § (2) bekezdésében az „elsőfokú” szövegrész,
 
-b)[^254]
+b)[^122]
 
-c)[^255]
+c)[^123]
 
-d)[^256]
+d)[^124]
 
-e)[^257]
+e)[^125]
 
-f)[^258]
+f)[^126]
 
-[^252]: A 111. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^253]: A 112. § a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^254]: A 112. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^255]: A 112. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^256]: A 112. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^257]: A 112. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^258]: A 112. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 112. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 112. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 112. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 112. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 112. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

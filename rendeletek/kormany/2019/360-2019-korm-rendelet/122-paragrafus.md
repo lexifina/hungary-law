@@ -1,5 +1,5 @@
-## 121. §[^270]
+## 121. §[^133]
 
 ## 122. Az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 360/2013. (X. 11.) Korm. rendelet módosítása
 
-[^270]: A 121. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^133]: A 121. § a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés i) pontja alapján nem lép hatályba.

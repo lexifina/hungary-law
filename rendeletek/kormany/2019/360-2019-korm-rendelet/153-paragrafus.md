@@ -1,5 +1,3 @@
-## 152. §[^316]
+## 152. § Hatályát veszti a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet 1. § (1a) bekezdésében az „elsőfokú” szövegrész.
 
 ## 153. A robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló 274/2016. (IX. 15.) Korm. rendelet módosítása
-
-[^316]: A 152. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

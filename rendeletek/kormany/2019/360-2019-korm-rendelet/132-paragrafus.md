@@ -1,5 +1,9 @@
-## 131. §[^283]
-
 ## 132. A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet módosítása
 
-[^283]: A 131. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+132. § (1) A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet (a továbbiakban: R79.) 3. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) Ha a felvonó vagy a mozgólépcső létesítéséhez, áthelyezéséhez, átalakításához, használatbavételéhez vagy bontásához az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet szerinti építésügyi hatósági engedélyhez kötött építési, bontási tevékenység is szükséges, – az (5) bekezdésben foglalt kivétellel – a létesítést, az áthelyezést, az átalakítást, a használatbavételt, a bontást érintő engedélyt és az építésügyi hatósági engedélyt együttes kérelemben az általános vagy a sajátos építésügyi hatóságtól kell kérni. Az építésügyi engedélyezési eljárásban a műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal műszaki biztonsági szakkérdésként vizsgálja a felvonó vagy a mozgólépcső létesítése, áthelyezése, átalakítása, használatbavétele vagy bontása feltételeit.
+
+## (2) Ha a berendezés létesítése építési engedélyhez kötött építési tevékenységgel nem jár együtt, – az (5) bekezdésben foglalt kivétellel – a létesítést, a használatbavételt, a veszélytelenítés utáni ismételt üzemeltetést, az áthelyezést, a berendezés e rendeletben felsorolt főbb műszaki adatainak megváltozásával járó átalakítását a Hatóság engedélyezi műszaki biztonsági hatósági eljárásban. Az üzemeltetőnek a kérelemhez – annak tárgyától függően – a 2. melléklet I. vagy II. Fejezetében meghatározott dokumentációt kell csatolnia”.
+
+(2) Az R79. 2. § 8. pontjában a „fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala” szövegrész helyébe a „műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal” szöveg lép.

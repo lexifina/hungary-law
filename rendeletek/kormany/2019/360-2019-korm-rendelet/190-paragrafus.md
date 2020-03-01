@@ -1,14 +1,11 @@
-## 189. §[^509]
+## 189. § A katonai munkavédelmi hatóság kijelöléséről, valamint sajátos feladatairól és hatásköreinek ellátásáról szóló 502/2017. (XII. 29.) Korm. rendelet 6. § (3) bekezdés b) pont bc) alpontjában a „járási hivatalt” szövegrész helyébe a „fővárosi és megyei kormányhivatalt” szöveg lép.
 
 ## 190. A kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítéséről, használatbavételéről, üzemben tartásáról és megszüntetéséről szóló 510/2017. (XII. 29.) Korm. rendelet módosítása
 
-190. § (1)[^510]
+190. § (1)[^244]
 
-(2)[^511]
+(2) Az R110. 17. § (1) bekezdésében az „Az elsőfokú” szövegrész helyébe az „A” szöveg lép.
 
-(3)[^512]
+(3) Hatályát veszti az R110. 44. § (2) bekezdésében az „elsőfokú” szövegrész.
 
-[^509]: A 189. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^510]: A 190. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^511]: A 190. § (2) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^512]: A 190. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^244]: A 190. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,24 +1,7 @@
-## 74. §[^159]
+## 74. §[^75]
 
 ## 75. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet módosítása
 
-75. § (1)[^160]
+75. § (1) A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: R47.) 6. § (2a) bekezdése helyébe a következő rendelkezés lép:
 
-(2) Az R47.
-
-a)[^161]
-
-b)[^162]
-
-c)[^163]
-
-## lép.
-
-(3)[^164]
-
-[^159]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^160]: A 75. § (1) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^161]: A 75. § (2) bekezdés a) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^162]: A 75. § (2) bekezdés b) pontja a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
-[^163]: A 75. § (2) bekezdés c) pontja a 202. § (6) bekezdése alapján 2020. július 1-jén lép hatályba.
-[^164]: A 75. § (3) bekezdése a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^75]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

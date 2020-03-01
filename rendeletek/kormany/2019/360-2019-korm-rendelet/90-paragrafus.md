@@ -1,5 +1,3 @@
-## 89. §[^186]
+## 89. § Az ásványi nyersanyag és a geotermikus energia természetes előfordulási területének komplex érzékenységi és terhelhetőségi vizsgálatáról szóló 103/2011. (VI. 29.) Korm. rendelet 1. melléklete helyébe a 19. melléklet lép.
 
 ## 90. Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet módosítása
-
-[^186]: A 89. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.

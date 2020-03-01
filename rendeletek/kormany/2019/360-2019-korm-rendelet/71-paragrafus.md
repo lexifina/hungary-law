@@ -1,5 +1,3 @@
-## 70. §[^155]
+## 70. § A mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről szóló 158/2009. (VII. 30.) Korm. rendelet 11. § (1) bekezdés c) pontjában a „megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró járási hivatalát” szövegrész helyébe a „növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatalt” szöveg lép.
 
 ## 71. A borászati termékek eredetmegjelöléseinek és földrajzi jelzéseinek közösségi oltalmára irányuló eljárásról, valamint ezen termékek ellenőrzéséről szóló 178/2009. (IX. 4.) Korm. rendelet módosítása
-
-[^155]: A 70. § a 202. § (5) bekezdése alapján 2020. március 1-jén lép hatályba.
