@@ -1,3 +1,5 @@
 1. melléklet a 282/2013. (VII. 24.) Korm. rendelethez[^10]
 
-[^10]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 47. § (1) bekezdés a) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 56. § a) pontja, a 458/2017. (XII. 28.) Korm. rendelet 88. §-a és 89. § c) pontja szerint módosított szöveg.
+A Hyginett Magyar-Amerikai Higiéniai Cikkeket Gyártó Kft. Csömör területén megvalósuló új gyártóüzemének megvalósításával kapcsolatos nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások és az eljárás lefolytatására hatáskörrel rendelkező hatóságok
+
+[^10]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
