@@ -4,15 +4,15 @@
 
 | 1. | Az adatszolgáltatás és véleményezés köre | A jelentés elkészítésében közreműködő szerv |
 
-| 2. | A tervezett koncessziós tevékenység érint-e oltalom alatt álló területet (természetvédelmi terület, Natura 2000 terület), az érintett védett természeti területekre, Natura 2000 területekre vonatkozó adatok, az érintett védett természeti területek, Natura 2000 területek térképi ábrázolása. A terület levegőtisztaság-védelmi zóna szerinti besorolása szennyező anyagonkénti bontásban. A tervezett tevékenység földtani közegre, levegőtisztaságra és természetre gyakorolt hatása. | megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró járási hivatala |
+| 2. | A tervezett koncessziós tevékenység érint-e oltalom alatt álló területet (védett természeti terület, Natura 2000 terület), az érintett védett természeti területekre, Natura 2000 területekre vonatkozó adatok, az érintett védett természeti területek, Natura 2000 területek térképi ábrázolása. A terület levegőtisztaság-védelmi zóna szerinti besorolása szennyező anyagonkénti bontásban. A tervezett tevékenység földtani közegre, levegőtisztaságra és természetre gyakorolt hatása. | környezetvédelmi és természetvédelmi hatáskörében eljáró megyei kormányhivatal |
 
-| 3. | Vízbázisvédelmi terület, védőidom aktualizálása, kiegészítése. A tervezett tevékenység a felszíni és felszín alatti víztestek állapotára, hasznosítási lehetőségeire gyakorolt hatása. | a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló Korm. rendelet szerinti megyei katasztrófavédelmi igazgatóság |
+| 3. | Vízbázisvédelmi terület, védőidom aktualizálása, kiegészítése. A tervezett tevékenység a felszíni és felszín alatti víztestek állapotára, hasznosítási lehetőségeire gyakorolt hatása. | katasztrófavédelmi igazgatóság vízgazdálkodási és vízvédelmi hatáskörében eljárva |
 
 | 4. | A területen és annak környezetében levő gyógyhelyek ásvány-, gyógyvíz, gyógygáz és gyógyiszap lelőhelyek megadása. | népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
-| 5. | A területen található termőföld mennyiségi védelmére vonatkozó követelmények. | ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal |
+| 5. | A területen található termőföld mennyiségi védelmére vonatkozó követelmények. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
-| 6. | A területen található erdő és a védelmére vonatkozó követelmények | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
+| 6. | A területen található erdő és a védelmére vonatkozó követelmények | erdészeti hatáskörében eljáró megyei kormányhivatal |
 
 | 7. | A területen elhelyezkedő országos és helyi közutak közúti forgalmának biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára vonatkozó követelmények | a közút kezelője |
 
@@ -26,7 +26,7 @@
 
 | 12. | A tervezett koncessziós tevékenység érint-e helyi természetvédelmi oltalom alatt álló (önkormányzati rendeletben meghatározott) területet, és a helyi építési szabályzatnak való megfelelése. | Települési önkormányzat jegyzője, fővárosban a főjegyző |
 
-| 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre, nyilvántartott műemléki értékre vagy műemlékre és műemléki területre vonatkozó követelmények. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi hatáskörében eljáró járási (fővárosi kerületi) hivatala |
+| 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre, nyilvántartott műemléki értékre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
 2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^25]
 

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-103-20-
 | 2017-01-01 | 2011-103-20-22.12 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2017-04-01 | 2011-103-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2011-103-20-22.14 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2020-03-01 | 2011-103-20-22.15 | 360/2019. (XII. 30.) Korm. rendelet |
