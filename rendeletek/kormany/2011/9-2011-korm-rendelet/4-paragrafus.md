@@ -6,7 +6,7 @@ a) a 2/A. § (1) bekezdés a) és b) pontjában meghatározott esetben az 5. mel
 
 b)[^49] a 2/A. § (1) bekezdés c) pontjában meghatározott esetben a 9. melléklet C) része
 
-## szerinti adatlapon rögzített és lezárt pályázatát – a (3) bekezdés szerinti kötelező mellékletek csatolásával – a 3. § (3) bekezdése szerinti bejelentést követő 40 napon belül nyújtja be a kincstárnak, valamint a helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatalnak. A benyújtási határidő elmulasztása jogvesztő.
+## szerinti adatlapon rögzített és lezárt pályázatát – a (3) bekezdés szerinti kötelező mellékletek csatolásával – a 3. § (3) bekezdése szerinti bejelentést követő 40 napon belül nyújtja be a kincstárnak. A benyújtási határidő elmulasztása jogvesztő.
 
 (2)[^50] A pályázatban meg kell határozni a védekezés vagy a helyreállítás kezdő és várható befejezési határidejét. A kincstár a helyi önkormányzat pályázatát szabályszerűségi szempontból megvizsgálja, és szükség esetén, határidő kitűzésével, hiánypótlásra történő felhívást ad ki elektronikus úton. A helyi önkormányzatnak a hiány pótlásáról a felszólítás kézhezvételétől számított 7 napon belül – elektronikusan az ebr42 rendszerben is – gondoskodnia kell. Ha a helyi önkormányzat a hiánypótlási felhívásnak nem tesz eleget, vagy azt nem megfelelően teljesíti, a kincstár a pályázatot az ebr42-ben „kincstári elutasítás”-ra állítja. A kincstár a pályázatokat részletes – különös tekintettel a (3) bekezdés h)–j) pontjában megjelölt dokumentumok alapján kialakított – véleménnyel látja el a benyújtást követő 14 napon belül.
 
@@ -112,7 +112,7 @@ b)[^86] a temető tulajdonosával kötött megállapodást, melyben a helyi önk
 
 c) a temető használatának rendjéről szóló önkormányzati rendelet másolatát.
 
-[^48]: A 4. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^48]: A 4. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (1) bekezdésével megállapított, záró szövegrésze a 31/2020. (II. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
 [^49]: [A 4. § (1) bekezdés b) pontjának a 360/2019. (XII. 30.) Korm. rendelet 85. § (5) bekezdés a) pontjával elrendelt módosítása, amely szerint a „ , valamint a helyi önkormányzat székhelye szerint illetékes fővárosi és megyei kormányhivatalnak” szövegrész hatályát veszti, nem vezethető át.]
 [^50]: A 4. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 52. § (10) bekezdés b) pontjával elrendelt módosítás, amely szerint az „és papír alapon is”, valamint a „papír alapon két másolati példányban,” szövegrész hatályát veszti, nem vezethető át.]
 [^51]: A 4. § (3) bekezdés nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
