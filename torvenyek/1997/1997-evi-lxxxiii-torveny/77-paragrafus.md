@@ -2,4 +2,4 @@
 
 (2)
 
-(3) Az egészségbiztosítás pénzbeli ellátásaival, üzemi balesettel, baleseti táppénzzel és utazási költségtérítéssel kapcsolatos többfokú közigazgatási eljárások esetén a közigazgatási pert az első fokon eljárt hatóság ellen kell megindítani, ha az elsőfokú döntést a megyeszékhely szerinti járási (fővárosi kerületi) hivatal hozta.
+(3) Az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel, illetve a baleseti táppénzzel kapcsolatos közigazgatási eljárások esetén a közigazgatási pert a foglalkoztató székhelye szerint illetékes egészségbiztosítási szerv ellen kell megindítani, ha a döntést kifizetőhely hozta.

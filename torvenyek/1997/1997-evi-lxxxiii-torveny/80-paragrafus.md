@@ -20,4 +20,4 @@ a) természetes személy 10 ezertől 100 ezer forintig,
 
 b) a Tbj. 4. § a) pontjában meghatározott foglalkoztató, és a Tbj. 4. § b) pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű,
 
-az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető. A mulasztási bírságot kiszabó elsőfokú végzés ellen önálló fellebbezésnek van helye.
+az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.
