@@ -50,7 +50,7 @@ bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiód
 [^80]: A 10. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 448. § b) pontja szerint módosított szöveg.
 [^81]: A 10. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 448. § b) pontja szerint módosított szöveg.
 [^82]: A 10. § (9) bekezdését a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés b) pontja hatályon kívül helyezte.
-[^83]: A 10. § (9a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés b) pontja.
+[^83]: A 10. § (9a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés b) pontja. [A 360/2019. (XII. 30.) Korm. rendelet 69. § (5) bekezdés a) pontjával elrendelt módosítás, amely szerint a „járási hivatal” szövegrész helyébe a „kormányhivatal” szöveg lép, nem vezethető át.]
 [^84]: A 10. § (9b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 136. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 2. § (4) bekezdés b) pontja.
 [^85]: A 10. § (11) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.
 [^86]: A 10. § (12) bekezdését a 4/2015. (I. 29.) Korm. rendelet 4. §-a iktatta be.

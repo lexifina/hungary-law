@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-134-20-
 | 2018-01-01 | 2009-134-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-10-01 | 2009-134-20-22.18 | 101/2019. (V. 2.) Korm. rendelet |
 | 2019-10-24 | 2009-134-20-22.19 | 455/2015. (XII. 29.) Korm. rendelet |
+| 2020-03-01 | 2009-134-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |
