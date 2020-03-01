@@ -6,31 +6,31 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Kiemelt beruházásként új gyártó üzem és annak építményei létesítése | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 2. | Kiemelt beruházásként új gyártó üzem és annak építményei létesítése | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági eljárások | Komárom-Esztergom Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Komárom-Esztergom Megyei Kormányhivatal |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 6. | útügyi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 10. | telekalakítási hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 11. | földmérési hatósági eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
 | 13. | bányahatósági engedélyezési eljárás | Pest Megyei Kormányhivatal |
 
-| 14. | talajvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal Tatabányai Járási Hivatala |
+| 14. | talajvédelmi hatósági engedélyezési eljárás | Komárom-Esztergom Megyei Kormányhivatal |
 
 | 15. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter |
 
