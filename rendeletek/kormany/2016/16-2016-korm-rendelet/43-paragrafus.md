@@ -2,37 +2,37 @@
 
 a) a személyazonosságot és az életkort a személyazonosság igazolására alkalmas hatósági igazolvánnyal,
 
-b)[^86] a bejelentett lakóhelyet a lakcímet igazoló hatósági igazolvánnyal vagy – a 30. § (3) bekezdése és a 31. § (4) bekezdése szerinti esetben – azzal egyenértékű, külföldi hatóság által kiállított okirattal, a személyi azonosítót a személyi azonosítót igazoló hatósági igazolvánnyal,
+b)[^90] a bejelentett lakóhelyet a lakcímet igazoló hatósági igazolvánnyal vagy – a 30. § (3) bekezdése és a 31. § (4) bekezdése szerinti esetben – azzal egyenértékű, külföldi hatóság által kiállított okirattal, a személyi azonosítót a személyi azonosítót igazoló hatósági igazolvánnyal,
 
 c) a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-d)[^87] a bevándorolt jogállást bevándorlási engedéllyel, a letelepedett jogállást letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
+d)[^91] a bevándorolt jogállást bevándorlási engedéllyel, a letelepedett jogállást letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
 
-e)[^88] a 15/A. § szerinti esetben a csekély összegű (de minimis) támogatásokra vonatkozó feltételek teljesítését az igénylő által benyújtott nyilatkozattal,
+e)[^92] a 15/A. § szerinti esetben a csekély összegű (de minimis) támogatásokra vonatkozó feltételek teljesítését az igénylő által benyújtott nyilatkozattal,
 
-f)[^89]
+f)[^93]
 
-g)[^90]
+g)[^94]
 
-h)[^91]
+h)[^95]
 
-i)[^92]
+i)[^96]
 
-j)[^93] a saját adóazonosító jelét adóigazolvánnyal,
+j)[^97] a saját adóazonosító jelét adóigazolvánnyal,
 
-k)[^94] a várandósság betöltött 12. hetét a várandósgondozási könyvvel vagy a kezelőorvos által kiállított, a várandósság tényéről és annak fennállása időpontjáról szóló igazolással,
+k)[^98] a várandósság betöltött 12. hetét a várandósgondozási könyvvel vagy a kezelőorvos által kiállított, a várandósság tényéről és annak fennállása időpontjáról szóló igazolással,
 
-l)[^95]
+l)[^99]
 
-m)[^96]
+m)[^100]
 
-n)[^97] a 30. § (1) bekezdésében, a 31. § (1) és (2) bekezdésében foglaltakat a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó járási (fővárosi kerületi) hivatala által kiállított igazolással, vagy az illetékes külföldi hatóság által kiállított igazolás hiteles magyar nyelvű fordításával,
+n)[^101] a 30. § (1) bekezdésében, a 31. § (1) és (2) bekezdésében foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított igazolással, vagy az illetékes külföldi hatóság által kiállított igazolás hiteles magyar nyelvű fordításával,
 
-o)–r)[^98]
+o)–r)[^102]
 
-s)[^99] a a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel,
+s)[^103] a a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel,
 
-t)[^100] az egyszerű bejelentéshez kötött építési tevékenységet
+t)[^104] az egyszerű bejelentéshez kötött építési tevékenységet
 
 ta) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti, az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által előállított visszaigazolással, vagy 2019. október 24. előtt tett bejelentés esetén az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
@@ -40,23 +40,23 @@ tb) az építésügyi hatósági engedélyezési eljárást támogató elektroni
 
 tc) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti, és a hitelintézet részére benyújtott tb) alpont szerinti dokumentumok megegyeznek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe, illetve az elektronikus építési naplóba feltöltött dokumentumokkal,
 
-u)[^101]
+u)[^105]
 
-v)[^102]
+v)[^106]
 
-w)[^103] annak tényét, hogy az igénylő építőközösség tagja, az építőközösségi szerződéssel,
+w)[^107] annak tényét, hogy az igénylő építőközösség tagja, az építőközösségi szerződéssel,
 
-z)[^104]
+z)[^108]
 
-(2)[^105] Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, akkor a gyermekvállalás teljesítését bejelenti a hitelintézetnek. A bejelentésről a hitelintézet a 63. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt.
+(2)[^109] Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, akkor a gyermekvállalás teljesítését bejelenti a hitelintézetnek. A bejelentésről a hitelintézet a 63. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt.
 
 (3) A hitelintézet az igénylő erre irányuló kérelme esetén beszerzi az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat.
 
-(4)[^106] A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot nem hiteles tulajdoni lap másolat lekérésével ellenőrzi.
+(4)[^110] A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot nem hiteles tulajdoni lap másolat lekérésével ellenőrzi.
 
-(5)[^107] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy az állami adóhatóság, illetve a járási hivatal a kérelembeli nyilatkozatokban foglaltak ellenőrzése céljából az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat beszerezze, az azokban foglalt személyes adatait kezelje.
+(5)[^111] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy az állami adóhatóság, illetve a kormányhivatal a kérelembeli nyilatkozatokban foglaltak ellenőrzése céljából az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat beszerezze, az azokban foglalt személyes adatait kezelje.
 
-(6)[^108] A családi otthonteremtési kedvezmény igénylésekor az igénylő a büntetőjogi felelősség vállalásával tett e rendelet szerinti nyilatkozat helyett – választása szerint – a következők szerint igazolhatja a kedvezményre való jogosultság feltételeinek meglétét:
+(6)[^112] A családi otthonteremtési kedvezmény igénylésekor az igénylő a büntetőjogi felelősség vállalásával tett e rendelet szerinti nyilatkozat helyett – választása szerint – a következők szerint igazolhatja a kedvezményre való jogosultság feltételeinek meglétét:
 
 a) a házasságot anyakönyvi kivonattal,
 
@@ -72,32 +72,33 @@ f) középfokú oktatási-nevelési intézmény nappali tagozatán tanulást a k
 
 g) a felsőoktatási intézmény nappali tagozatán tanulást a felsőoktatási intézmény által kiállított igazolással,
 
-h) a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adatait a hitelintézet és a járási hivatal a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje,
+h)[^113] a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adatait a hitelintézet és a kormányhivatal a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje,
 
 i) annak tényét, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személy kizárólagos használati joga áll fenn, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt, a támogatott személy részére a lakás teljes területének használatára jogosító használati megosztási megállapodással,
 
 j) a gyámság fennállását a gyámhatóság kirendelő határozatával.
 
-[^86]: A 43. § (1) bekezdés b) pontja a 26/2018. (II. 28.) Korm. rendelet 22. § 12. pontja és 23. § c) pontja szerint módosított szöveg.
-[^87]: A 43. § (1) bekezdés d) pontja 26/2018. (II. 28.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
-[^88]: A 43. § (1) bekezdés e) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte, újonnan a 152/2019. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
-[^89]: A 43. § (1) bekezdés f) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^90]: A 43. § (1) bekezdés g) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^91]: A 43. § (1) bekezdés h) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^92]: A 43. § (1) bekezdés i) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^93]: A 43. § (1) bekezdés j) pontja 26/2018. (II. 28.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
-[^94]: A 43. § (1) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
-[^95]: A 43. § (1) bekezdés l) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^96]: A 43. § (1) bekezdés m) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^97]: A 43. § (1) bekezdés n) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 13. pontja szerint módosított szöveg.
-[^98]: A 43. § (1) bekezdés o)–r) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^99]: A 43. § (1) bekezdés s) pontja 26/2018. (II. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
-[^100]: A 43. § (1) bekezdés t) pontja a 244/2019. (X. 22.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^101]: A 43. § (1) bekezdés u) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^102]: A 43. § (1) bekezdés v) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
-[^103]: A 43. § (1) bekezdés w) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^104]: A 43. § (1) bekezdés z) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
-[^105]: A 43. § (2) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 14. pontja és 23. § h) pontja szerint módosított szöveg.
-[^106]: A 43. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 567. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^107]: A 43. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 15. §-a iktatta be.
-[^108]: A 43. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 15. §-a iktatta be.
+[^90]: A 43. § (1) bekezdés b) pontja a 26/2018. (II. 28.) Korm. rendelet 22. § 12. pontja és 23. § c) pontja szerint módosított szöveg.
+[^91]: A 43. § (1) bekezdés d) pontja 26/2018. (II. 28.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^92]: A 43. § (1) bekezdés e) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte, újonnan a 152/2019. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
+[^93]: A 43. § (1) bekezdés f) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^94]: A 43. § (1) bekezdés g) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^95]: A 43. § (1) bekezdés h) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^96]: A 43. § (1) bekezdés i) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^97]: A 43. § (1) bekezdés j) pontja 26/2018. (II. 28.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
+[^98]: A 43. § (1) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^99]: A 43. § (1) bekezdés l) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^100]: A 43. § (1) bekezdés m) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^101]: A 43. § (1) bekezdés n) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés h) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^102]: A 43. § (1) bekezdés o)–r) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^103]: A 43. § (1) bekezdés s) pontja 26/2018. (II. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^104]: A 43. § (1) bekezdés t) pontja a 244/2019. (X. 22.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^105]: A 43. § (1) bekezdés u) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^106]: A 43. § (1) bekezdés v) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
+[^107]: A 43. § (1) bekezdés w) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^108]: A 43. § (1) bekezdés z) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
+[^109]: A 43. § (2) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 14. pontja és 23. § h) pontja szerint módosított szöveg.
+[^110]: A 43. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 567. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^111]: A 43. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 15. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^112]: A 43. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 15. §-a iktatta be.
+[^113]: A 43. § (6) bekezdés h) pontja a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

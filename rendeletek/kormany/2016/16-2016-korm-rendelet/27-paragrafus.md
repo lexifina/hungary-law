@@ -4,6 +4,6 @@
 
 (3) Az (1) bekezdés szerinti időszakban az új lakásra a támogatott személynek lakásbiztosítással kell rendelkeznie. A szükséges lakásbiztosítás jellemzőit a támogatási szerződés tartalmazza.
 
-(4)[^57] Az (1) bekezdés szerinti időszak lejártát követően, ha a támogatott személy az e rendeletben és a támogatási szerződésben foglalt kötelezettségeinek eleget tett, a járási hivatal intézkedik az állam javára bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom törlése iránt.
+(4)[^58] Az (1) bekezdés szerinti időszak lejártát követően, ha a támogatott személy az e rendeletben és a támogatási szerződésben foglalt kötelezettségeinek eleget tett, a kormányhivatal intézkedik az állam javára bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom törlése iránt.
 
-[^57]: A 27. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^58]: A 27. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

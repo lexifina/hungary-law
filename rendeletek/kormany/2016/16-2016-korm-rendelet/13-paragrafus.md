@@ -26,9 +26,9 @@ b) a családi otthonteremtési kedvezményre vonatkozó információkat;
 
 c)[^26] a csekély összegű (de minimis) támogatásokra irányadó feltételek teljesítésére vonatkozó nyilatkozatában foglalt adatokat
 
-## a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a járási hivatal, Budapest Főváros Kormányhivatala, a Kincstár, valamint az állami adóhatóság részére.
+## a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a kormányhivatal, a Kincstár, valamint az állami adóhatóság részére.
 
-(2)[^27] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a hitelintézet, a járási hivatal, Budapest Főváros Kormányhivatala és az állami adóhatóság a bizonylatok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a családi otthonteremtési kedvezmény igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a járási hivatal, Budapest Főváros Kormányhivatala hatáskörébe tartozik, a járási hivatalt hivatalból értesítse.
+(2)[^27] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a hitelintézet, a kormányhivatal és az állami adóhatóság a bizonylatok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a családi otthonteremtési kedvezmény igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a kormányhivatal hatáskörébe tartozik, a kormányhivatalt hivatalból értesítse.
 
 (3) Az igénylő a családi otthonteremtési kedvezmény igénylésekor csatolja azon nagykorú gyermek teljes bizonyító erejű magánokiratba foglalt (1) és (2) bekezdés szerinti tartalmú hozzájáruló nyilatkozatát is, akire tekintettel a családi otthonteremtési kedvezményt igényli.
 
@@ -50,9 +50,9 @@ b) az általa folytatott egyéni vállalkozói tevékenység
 
 (9)[^33] Az igénylő a (8) bekezdés szerinti nyilatkozatot akkor teheti meg, ha a családi otthonteremtési kedvezményből vásárolt vagy épített új lakás megszerzésének költségeihez nem vett korábban igénybe az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis), illetve ezen jogcímtől eltérő jogcímen az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami támogatást.
 
-[^25]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^25]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^26]: A 13. § (1) bekezdés c) pontját a 152/2019. (VI. 26.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^27]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 4. és 5. pontja szerint módosított szöveg.
+[^27]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 4. és 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés c) és d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^28]: A 13. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^29]: A 13. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^30]: A 13. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.

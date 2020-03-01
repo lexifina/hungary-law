@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-16-20-2
 | 2019-10-01 | 2016-16-20-22.10 | 101/2019. (V. 2.) Korm. rendelet |
 | 2019-10-24 | 2016-16-20-22.11 | 244/2019. (X. 22.) Korm. rendelet |
 | 2020-01-01 | 2016-16-20-22.12 | 276/2019. (XI. 21.) Korm. rendelet |
+| 2020-03-01 | 2016-16-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |

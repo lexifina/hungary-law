@@ -1,4 +1,4 @@
-44. § (1)[^109] Új lakás vásárlása esetén a támogatott személy legkésőbb a családi otthonteremtési kedvezmény folyósításáig az adásvételi szerződésben szereplő telekárat is tartalmazó vételárról a saját nevére szóló, az általános forgalmi adóról szóló törvény hatálya alá tartozó termékértékesítésről, szolgáltatásnyújtásról kiállított számlákat, egyszerűsített számlákat (a továbbiakban együtt: számla) a hitelintézet részére bemutatja.
+44. § (1)[^114] Új lakás vásárlása esetén a támogatott személy legkésőbb a családi otthonteremtési kedvezmény folyósításáig az adásvételi szerződésben szereplő telekárat is tartalmazó vételárról a saját nevére szóló, az általános forgalmi adóról szóló törvény hatálya alá tartozó termékértékesítésről, szolgáltatásnyújtásról kiállított számlákat, egyszerűsített számlákat (a továbbiakban együtt: számla) a hitelintézet részére bemutatja.
 
 (2) Új lakás építése esetén a támogatott személy a készültségi fokkal arányos folyósítást megelőzően bemutatja az adott készültségi foknak megfelelő, a hitelintézet által elfogadott költségvetésben szereplő bekerülési költség legalább 70%-áról a támogatott személy saját nevére kiállított számlákat.
 
@@ -16,7 +16,7 @@
 
 (9) Új lakás építése esetén az építési engedély vagy az egyszerű bejelentéshez kötött épület felépítésének bejelentését legfeljebb 6 hónappal megelőzően kiállított számla fogadható el.
 
-(10)[^110]
+(10)[^115]
 
 (11) A hitelintézet az eredeti számlát – letörölhetetlen jelzéssel ellátva – a támogatott személynek visszaadja, másolatban tíz évig irattárában megőrzi. Letörölhetetlen jelzéssel a számlára feljegyzésre kerül, hogy azt mely ingatlan vonatkozásában és mikor mutatták be a hitelintézetnél az e rendelet szerinti lakáscél megvalósítása tekintetében.
 
@@ -24,5 +24,5 @@
 
 (13) A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, illetve a használatbavételi engedély kiadása, a használatbavétel tudomásulvétele vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtét igazoló hatósági bizonyítvány kiadása évének utolsó napjától számított 5 évig megőrizni.
 
-[^109]: A 44. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
-[^110]: A 44. § (10) bekezdését a 46/2019. (III. 12.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^114]: A 44. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
+[^115]: A 44. § (10) bekezdését a 46/2019. (III. 12.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
