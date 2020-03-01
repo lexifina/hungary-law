@@ -1,3 +1,3 @@
-## 2. §[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Baranya Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+## 2. §[^3] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Baranya Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
 
-[^2]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^3]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
