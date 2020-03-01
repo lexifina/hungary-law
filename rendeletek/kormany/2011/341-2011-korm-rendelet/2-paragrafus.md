@@ -1,4 +1,4 @@
-## 2. [^24] Az otthonteremtési kamattámogatás igénylésének feltételei
+## 2. [^26] Az otthonteremtési kamattámogatás igénylésének feltételei
 
 2. § (1) Az e rendeletben meghatározott feltételekkel a központi költségvetésből otthonteremtési kamattámogatást igényelhet:
 
@@ -14,7 +14,7 @@ e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglalt
 
 (2) Az otthonteremtési kamattámogatás a támogatott személy által egy alkalommal vehető igénybe.
 
-(3)[^25] Nem támogatott személy hiteladós az otthonteremtési kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(3)[^27] Nem támogatott személy hiteladós az otthonteremtési kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik arról, hogy otthonteremtési kamattámogatással érintett kölcsönt e rendelet hatálybalépése óta nem vett igénybe és
 
@@ -26,8 +26,8 @@ bb) nem támogatott személy hiteladósként további otthonteremtési kamattám
 
 bc) az otthonteremtési kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
-c)[^26] hozzájárul ahhoz, hogy természetes személyazonosító adatait, az állampolgárságára vagy hontalanságára vonatkozó adatot, lakcímét és postacímét, személyazonosító igazolványának vagy úti okmányának számát, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a járási hivatal és a Magyar Államkincstár központja (a továbbiakban: Kincstár) részére.
+c)[^28] hozzájárul ahhoz, hogy természetes személyazonosító adatait, az állampolgárságára vagy hontalanságára vonatkozó adatot, lakcímét és postacímét, személyazonosító igazolványának vagy úti okmányának számát, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a kormányhivatal és a Magyar Államkincstár központja (a továbbiakban: Kincstár) részére.
 
-[^24]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
-[^25]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
-[^26]: A 2. § (3) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^26]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
+[^27]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
+[^28]: A 2. § (3) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 97. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

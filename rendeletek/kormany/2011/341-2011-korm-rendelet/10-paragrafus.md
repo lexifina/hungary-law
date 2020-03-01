@@ -1,22 +1,22 @@
 ## 7. Az otthonteremtési kamattámogatás mértéke
 
-10. § (1)[^86] A szerződésszerű teljesítés esetén – a 3. § (3) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely legalább egy éves időszakra vonatkozóan állandó. A kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – a 3. § (3) bekezdése szerinti időszakban – nem haladja meg:
+10. § (1)[^94] A szerződésszerű teljesítés esetén – a 3. § (3) bekezdése szerinti időszakban – a hitelintézet kizárólag olyan ügyleti kamatot számít fel, amely legalább egy éves időszakra vonatkozóan állandó. A kölcsön törlesztése során felszámított ügyleti kamat éves mértéke – a 3. § (3) bekezdése szerinti időszakban – nem haladja meg:
 
-a)[^87] az egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
+a)[^95] az egy évig állandó kamatozású kölcsön esetén az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 12 hónapos névleges futamidejű diszkont kincstárjegy aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
 
-b)[^88] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
+b)[^96] az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén az ÁKK Zrt. által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét,
 
-c)[^89] az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét, amennyiben az érintett futamidőre az a) és b) pontban meghatározott módszer alapján átlaghozam nem számítható.
+c)[^97] az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét, amennyiben az érintett futamidőre az a) és b) pontban meghatározott módszer alapján átlaghozam nem számítható.
 
-(2)[^90] Az otthonteremtési kamattámogatás mértéke az (1) bekezdés szerint számított állampapírhozamnak, vagy referenciahozamnak
+(2)[^98] Az otthonteremtési kamattámogatás mértéke az (1) bekezdés szerint számított állampapírhozamnak, vagy referenciahozamnak
 
 a) a 3. § (1) bekezdés a) pontja szerinti otthonteremtési kamattámogatás esetén legfeljebb két gyermek esetén 60 százaléka, kettőnél több gyermek esetén 70 százaléka,
 
 b) a 3. § (1) bekezdés b)–f) pontja szerinti kamattámogatás esetén 50 százaléka.
 
-(3)[^91] A 3. § (1) bekezdés a) pontja szerinti otthonteremtési kamattámogatás esetén a kamattámogatás mértékének számításánál a 2. § (1) bekezdése szerinti személynek a vele közös háztartásban élő, általa eltartott és a felépített vagy megvásárolt új lakásba vele együtt beköltöző vér szerinti és örökbe fogadott gyermeke vehető figyelembe.
+(3)[^99] A 3. § (1) bekezdés a) pontja szerinti otthonteremtési kamattámogatás esetén a kamattámogatás mértékének számításánál a 2. § (1) bekezdése szerinti személynek a vele közös háztartásban élő, általa eltartott és a felépített vagy megvásárolt új lakásba vele együtt beköltöző vér szerinti és örökbe fogadott gyermeke vehető figyelembe.
 
-(4)[^92]
+(4)[^100]
 
 (5) Az (1) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapján kell alkalmazni.
 
@@ -30,21 +30,21 @@ b) a 3. § (1) bekezdés b)–f) pontja szerinti kamattámogatás esetén 50 sz�
 
 (10) Az otthonteremtési kamattámogatással érintett kölcsönök kamattámogatásának számításánál az osztószám 360 nap.
 
-(11)[^93] A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó, e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a helyett a (12)–(16) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+(11)[^101] A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó, e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a helyett a (12)–(16) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
 
-(12)[^94] A hitelintézet – a támogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult. Az ügyleti kamat az (1) bekezdés szerint változik.
+(12)[^102] A hitelintézet – a támogatás időtartama alatt – a kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult. Az ügyleti kamat az (1) bekezdés szerint változik.
 
-(13)[^95] A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján – érvényesített ügyleti kamat módosítása nem minősül egyoldalú kamatemelésnek.
+(13)[^103] A hitelintézet által – az ügyleti vagy üzleti év fordulójának napján érvényes referenciahozam alapján – érvényesített ügyleti kamat módosítása nem minősül egyoldalú kamatemelésnek.
 
-(14)[^96] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén az ügyleti kamat mértéke az e rendelet alapján alkalmazható mindenkori legmagasabb ügyleti kamat, csökkentve
+(14)[^104] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén az ügyleti kamat mértéke az e rendelet alapján alkalmazható mindenkori legmagasabb ügyleti kamat, csökkentve
 
 a) az adott kölcsönszerződésre az e rendelet szerint a kölcsönszerződés megkötésekor alkalmazható legmagasabb ügyleti kamat, és az adott kölcsönszerződés megkötésekor érvényes ügyleti kamatának a különbözetével,
 
 b) a 2015. február 1-jén már szerződött állomány tekintetében pedig az e rendelet szerint 2014. december 31-én alkalmazható legmagasabb ügyleti kamatának és az adott kölcsönszerződés 2014. december 31-én érvényes ügyleti kamatának a különbözetével.
 
-(15)[^97] Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (12)–(14) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
+(15)[^105] Az ügyleti kamat mértéke az adott kölcsönszerződésre irányadó kamatperiódusok fordulónapján módosul a (12)–(14) bekezdésben foglaltak szerint. Abban az esetben, ha a kölcsönszerződésben rögzített kamat nem volt kamatperiódushoz kötve, kamatperiódusként egy havi kamatperiódust kell tekinteni.
 
-(16)[^98] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát követően a hitelintézet
+(16)[^106] Az e rendelet szerinti kamattámogatással nyújtott kölcsönök esetén a kamattámogatási időszak lejártát követően a hitelintézet
 
 a) az Fhtv. 17/C. §-nak megfelelően állapítja meg a hitelszerződés szerinti kamatot, és azt az Fhtv. 17/B. § (2) bekezdése és 17/D. §-a szerint változtatja, vagy
 
@@ -54,16 +54,16 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-[^86]: A 10. § (1) bekezdés nyitó szövegrésze a 160/2012. (VII. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^87]: A 10. § (1) bekezdés a) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^88]: A 10. § (1) bekezdés b) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^89]: A 10. § (1) bekezdés c) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^90]: A 10. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^91]: A 10. § (3) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^92]: A 10. § (4) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.
-[^93]: A 10. § (11) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
-[^94]: A 10. § (12) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
-[^95]: A 10. § (13) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
-[^96]: A 10. § (14) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
-[^97]: A 10. § (15) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
-[^98]: A 10. § (16) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^94]: A 10. § (1) bekezdés nyitó szövegrésze a 160/2012. (VII. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^95]: A 10. § (1) bekezdés a) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^96]: A 10. § (1) bekezdés b) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^97]: A 10. § (1) bekezdés c) pontja a 160/2012. (VII. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^98]: A 10. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^99]: A 10. § (3) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^100]: A 10. § (4) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.
+[^101]: A 10. § (11) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^102]: A 10. § (12) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^103]: A 10. § (13) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^104]: A 10. § (14) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^105]: A 10. § (15) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
+[^106]: A 10. § (16) bekezdését a 4/2015. (I. 29.) Korm. rendelet 6. §-a iktatta be.
