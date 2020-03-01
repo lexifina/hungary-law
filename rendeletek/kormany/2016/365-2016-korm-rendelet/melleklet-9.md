@@ -1,3 +1,3 @@
-9. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^95]
+9. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^100]
 
-[^95]: A 9. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
+[^100]: A 9. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.

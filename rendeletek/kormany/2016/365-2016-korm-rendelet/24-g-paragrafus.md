@@ -1,4 +1,4 @@
-## 13/F. [^74] A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+## 13/F. [^77] A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
 
 24/G. § (1) A bejelentő hatóság tájékoztatja az Európai Bizottságot a megfelelőségértékelő szervezetek értékelésére és bejelentésére, valamint a bejelentett szervezetek ellenőrzésére irányuló eljárásairól, továbbá ezek bármilyen változásáról.
 
@@ -12,4 +12,4 @@
 
 (6) A bejelentett szervezet a bejelentő hatóság számára elérhetővé teszi az alvállalkozó vagy a leányvállalat szakmai képesítésének értékelésére és az általuk az R3. szerint elvégzett munkára vonatkozó dokumentumokat.
 
-[^74]: A 13/F. alcímet (24/G–24/H. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^77]: A 13/F. alcímet (24/G–24/H. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.

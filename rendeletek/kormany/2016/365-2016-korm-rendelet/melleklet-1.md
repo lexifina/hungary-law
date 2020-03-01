@@ -1,6 +1,6 @@
-## 35. §[^88]
+## 35. §[^93]
 
-1. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^89]
+1. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^94]
 
-[^88]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^89]: Az 1. melléklet a 473/2016. (XII. 27.) Korm. rendelet 17. §-ával megállapított, a 80/2018. (IV. 20.) Korm. rendelet 20. § h) pontja szerint módosított szöveg.
+[^93]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 157. § (8) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
