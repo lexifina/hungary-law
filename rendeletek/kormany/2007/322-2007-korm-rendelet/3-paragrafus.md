@@ -2,11 +2,11 @@
 
 (2)[^8] A jogszabályban foglalt gazdálkodási követelmények végrehajtását a kölcsönös megfeleltetés szempontjából ellenőrző szerveket az 1. melléklet tartalmazza.
 
-(2a)[^9] A kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó elsőfokú eljárásban a döntéshozatalra a Magyar Államkincstár, a megyei kormányhivatal megyeszékhely szerinti járási hivatala, Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala, Tolna megye illetékességi területére kiterjedően a Tolna Megyei Kormányhivatal Bonyhádi Járási Hivatala, valamint a fővárosi, illetve megyei katasztrófavédelmi igazgatóság jogosult, az 1. mellékletben foglaltak szerint.
+(2a)[^9] A kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó eljárásban a döntéshozatalra a Magyar Államkincstár, a fővárosi és megyei kormányhivatal, valamint a fővárosi, illetve megyei katasztrófavédelmi igazgatóság jogosult, az 1. mellékletben foglaltak szerint.
 
-(2b)[^10] A (2a) bekezdés szerinti eljárásban másodfokú hatóságként – a (2c) és (2d) bekezdésben foglaltak kivétellel – a Pest Megyei Kormányhivatal országos illetékességgel jár el.
+(2b)[^10]
 
-(2c)[^11] A fővárosi, illetve megyei katasztrófavédelmi igazgatóság által a (2a) bekezdés szerinti eljárásban hozott döntés esetében másodfokú hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság jár el. A mezőgazdasági és vidékfejlesztési támogatási szerv adatátadása alapján a kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó eredményeket a mezőgazdasági és vidékfejlesztési támogatási szerv felé a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság szolgáltatja.
+(2c)[^11] A mezőgazdasági és vidékfejlesztési támogatási szerv adatátadása alapján a kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó eredményeket a mezőgazdasági és vidékfejlesztési támogatási szerv felé a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság szolgáltatja.
 
 (2d)[^12] A Magyar Államkincstár által a (2a) bekezdés szerinti eljárásban hozott döntés esetében másodfokú hatóságként a földművelésügyi miniszter jár el.
 
@@ -20,9 +20,9 @@
 
 [^7]: A 3. § (1) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^8]: A 3. § (2) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított, a 94/2015. (IV. 9.) Korm. rendelet 6. § a)–b) pontja szerint módosított szöveg.
-[^9]: A 3. § (2a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 20/2017. (II. 2.) Korm. rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. § (4) bekezdését.
-[^10]: A 3. § (2b) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^11]: A 3. § (2c) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 186/2018. (X. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 3. § (2a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 54. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^10]: A 3. § (2b) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 31/2020. (II. 29.) Korm. rendelet 8. § (2) bekezdése.
+[^11]: A 3. § (2c) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (2d) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^13]: A 3. § (3) bekezdése a 94/2015. (IV. 9.) Korm. rendelet 3. §-ával megállapított, a 473/2016. (XII. 27.) Korm. rendelet 4. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^14]: A 3. § (3a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (3) bekezdése iktatta be.
