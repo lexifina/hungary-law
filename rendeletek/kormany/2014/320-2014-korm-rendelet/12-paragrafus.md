@@ -1,6 +1,6 @@
-## [^53] IV. A MUNKAVÉDELMI ÉS MUNKAÜGYI HATÓSÁGI HATÁSKÖRBEN ELJÁRÓ JÁRÁSI HIVATALRA VONATKOZÓ SZABÁLYOK
+## [^61] IV. A MUNKAVÉDELMI ÉS MUNKAÜGYI HATÓSÁGI HATÁSKÖRBEN ELJÁRÓ KORMÁNYHIVATALRA VONATKOZÓ SZABÁLYOK
 
-## 9.[^54]
+## 9.[^62]
 
-[^53]: A IV. fejezet címe a 70/2015. (III. 30.) Korm. rendelet 258. § (19) bekezdésével megállapított, szövege a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^54]: A 9. alcímet (12. §) a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés b) pontja hatályon kívül helyezte.
+[^61]: A IV. fejezet címe a 70/2015. (III. 30.) Korm. rendelet 258. § (19) bekezdésével megállapított, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^62]: A 9. alcímet (12. §) a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés b) pontja hatályon kívül helyezte.

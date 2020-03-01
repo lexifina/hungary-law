@@ -1,6 +1,6 @@
-## 8. [^49] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
+## 8. [^56] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
 
-11. §[^50] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
+11. §[^57] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
 
 a) ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe,
 
@@ -28,9 +28,9 @@ l) kapcsolatot tart a megye (főváros), a járás gazdasági életében részt 
 
 m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat,
 
-n)[^51] a saját hatáskörben nyújtott álláskeresési ellátások és a foglalkoztatást elősegítő támogatások tekintetében méltányossági jogkört gyakorol,
+n)[^58]
 
-o)[^52] elsőfokú hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
+o)[^59] hatósági jogkört gyakorol a rendbírsággal kapcsolatos ügyben, ha a rendbírságot megalapozó mulasztás olyan kötelezettséggel függ össze, amelyet külön jogszabály szerint részére kell teljesíteni, vagy olyan hatósági ügyet érint, amelynek elbírálása a hatáskörébe tartozik.
 
 (2) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatási feladatai körében
 
@@ -48,7 +48,7 @@ f) ellátja a nem hatáskörébe tartozó közfoglalkoztatási programokkal kapc
 
 g) kapcsolatot tart a megye (főváros), a járás (fővárosi kerület) területén található közfoglalkoztatókkal, a helyi önkormányzatokkal és a megyében működő más szervezetekkel,
 
-h) át nem ruházható hatáskörben, jogszabályban meghatározott illetékességi területén elsőfokú hatósági jogkört gyakorol, amelynek keretében
+h)[^60] át nem ruházható hatáskörben, jogszabályban meghatározott illetékességi területén hatósági jogkört gyakorol, amelynek keretében
 
 ha) jogszabályban meghatározottak szerint hatósági szerződést köt a hatáskörébe tartozó közfoglalkoztatáshoz nyújtható támogatásokra vonatkozóan,
 
@@ -66,7 +66,8 @@ i) feltárja a közfoglalkoztatási munkalehetőségeket,
 
 j) szervezi a közfoglalkoztatást.
 
-[^49]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
-[^50]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
-[^51]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be.
-[^52]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^56]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
+[^57]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
+[^58]: A 11. § (1) bekezdés n) pontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés g) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^59]: A 11. § (1) bekezdés o) pontját a 171/2017. (VI. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^60]: A 11. § (2) bekezdés h) pont nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
