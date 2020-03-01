@@ -8,7 +8,7 @@ a)[^8] élelmiszerek esetében – külön jogszabályban foglaltak szerint – 
 
 b)[^9] szeszes italok esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
-c)[^10] zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+c)[^10] zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatalt és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
 
 d)[^11] mezőgazdasági termékek esetében – külön jogszabályban foglaltak szerint – az a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
 
@@ -27,5 +27,5 @@ d)[^11] mezőgazdasági termékek esetében – külön jogszabályban foglaltak
 [^7]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 247. §-ával megállapított szöveg.
 [^8]: A 11. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 138. § a) pontja szerint módosított szöveg.
 [^9]: A 11. § (1) bekezdés b) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § b) pontja szerint módosított szöveg.
-[^10]: A 11. § (1) bekezdés c) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § c) pontja szerint módosított szöveg.
+[^10]: A 11. § (1) bekezdés c) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 70. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^11]: A 11. § (1) bekezdés d) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § d) pontja szerint módosított szöveg.
