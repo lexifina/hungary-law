@@ -4,27 +4,27 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Tűzihorganyzó és acélszeletelő üzem létesítése | A Wuppermann Hungary Kft. által Gönyű község közigazgatási területén fekvő, az ingatlan- nyilvántartás szerinti 098/2 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 2. | Tűzihorganyzó és acélszeletelő üzem létesítése | A Wuppermann Hungary Kft. által Gönyű község közigazgatási területén fekvő, az ingatlan- nyilvántartás szerinti 098/2 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások végleges befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 6. | útügyi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 7. | vízügyi és vízvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 10. | telekalakítási hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 11. | földvédelmi hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 11. | földvédelmi hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 12. | földmérési hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 12. | földmérési hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 13. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
@@ -32,7 +32,7 @@
 
 | 15. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal |
 
-| 16. | talajvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 16. | talajvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 17. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter |
 
