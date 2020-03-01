@@ -4,21 +4,21 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | A „Miskolci Egyetem hazai és nemzetközi versenyképességének komplex megújítása” projekt komplex kivitelezési munkái. | Miskolc megyei jogú város közigazgatási területén a Miskolci Egyetem a) A/4 épület homlokzatának cseréje, irodák és laboratóriumok felújítása, gépészeti- elektromos korszerűsítés, enyhe hajlásszögű tető építése; b) A/1, A/2, A/3, A/5, C/1, C/2, B/1 és CTFK épületeiben irodák és laboratóriumok felújítása, valamint nyílászárók cseréje az AFK épületben. | általános építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 2. | A „Miskolci Egyetem hazai és nemzetközi versenyképességének komplex megújítása” projekt komplex kivitelezési munkái. | Miskolc megyei jogú város közigazgatási területén a Miskolci Egyetem a) A/4 épület homlokzatának cseréje, irodák és laboratóriumok felújítása, gépészeti- elektromos korszerűsítés, enyhe hajlásszögű tető építése; b) A/1, A/2, A/3, A/5, C/1, C/2, B/1 és CTFK épületeiben irodák és laboratóriumok felújítása, valamint nyílászárók cseréje az AFK épületben. | általános építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 9. | talajvédelmi hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
@@ -28,6 +28,6 @@
 
 | 13. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 150/2014. (V. 6.) Korm. rendelethez[^11]
+2. melléklet a 150/2014. (V. 6.) Korm. rendelethez[^12]
 
-[^11]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 140. § d) pontja hatályon kívül helyezte.
+[^12]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 140. § d) pontja hatályon kívül helyezte.
