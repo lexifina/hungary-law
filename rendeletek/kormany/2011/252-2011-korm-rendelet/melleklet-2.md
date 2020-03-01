@@ -4,15 +4,15 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Eljáró hatóság |
 
-| 2. | A hatvani Grassalkovich-kastély főépületének és parkjának rekonstrukciója | Hatvan, belterület 2713/4 hrsz.; 2713/6 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 2. | A hatvani Grassalkovich-kastély főépületének és parkjának rekonstrukciója | Hatvan, belterület 2713/4 hrsz.; 2713/6 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Heves Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Heves Megyei Kormányhivatal |
 
 | 4. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 5. | ingatlan-nyilvántartási hatósági eljárások | illetékes járási hivatal |
+| 5. | ingatlan-nyilvántartási hatósági eljárások | Heves Megyei Kormányhivatal |
 
-| 6. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 6. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Heves Megyei Kormányhivatal |
 
 | 7. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
@@ -22,7 +22,7 @@
 
 | 10. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 11. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 11. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
 2. melléklet a 252/2011. (XII. 1.) Korm. rendelethez[^9]
 
