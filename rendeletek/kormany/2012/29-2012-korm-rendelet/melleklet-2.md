@@ -138,35 +138,9 @@
 
 ## Közgazdasági, közszolgálati rendészeti, műszaki középiskolai végzettség; vagy középiskolai végzettség és informatikai, ügyviteli, közgazdasági, üzleti, közszolgálati szakmacsoportba tartozó szakképesítés, vagy kormányablak ügyintézői vizsga.
 
-## 15. Építésügyi igazgatási területen
+## 15.
 
-## a) az építésfelügyeleti ellenőrzési tevékenységet, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselő és kormánytisztviselő képesítési követelménye:
-
-## aa) egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány) szakképzettség, főiskolai szintű magasépítő üzemmérnöki, építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány) vagy városgazdasági üzemmérnöki (ezzel egyenértékű településmérnöki) szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség, vagy
-
-## ab) alapképzésben szerzett építész, épületszerkezeti konstruktőr vagy magasépítési szakirányán szerzett szakképzettség, mesterfokozatú képzésben szerzett tervező építészmérnöki, szerkezettervező építészmérnöki szakképzettség, osztatlan képzésben szerzett építész szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség.
-
-## b) építésügyi nyilvántartások vezetése munkakörben
-
-## II. besorolási osztályban:
-
-## szakirányú középfokú iskolai végzettség.
-
-## c) Titkársági munkakör:
-
-## A II. besorolási osztályban:
-
-## érettségi vizsga.
-
-## 16. Örökségvédelmi feladatkör
-
-## Az I. besorolási osztályban:
-
-## Felsőoktatásban szerzett építész-, építőmérnök, műemlékvédelmi szakmérnök, egyetemi szintű régész, jogász, közszolgálati szakképzettség.
-
-## A II. besorolási osztályban:
-
-## Építőipari középiskolai végzettség; vagy középiskolai végzettség és építészeti szakmacsoportba tartozó szakképesítés.
+## 16.
 
 ## 17. Oktatási feladatkör
 

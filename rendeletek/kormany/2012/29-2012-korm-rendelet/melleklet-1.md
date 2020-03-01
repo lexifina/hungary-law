@@ -3,4 +3,4 @@
 1. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^23]
 
 [^22]: A 11. §-t a 172/2016. (VII. 1.) Korm. rendelet 46. §-a iktatta be.
-[^23]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 192. § (4) bekezdésével megállapított, az 58/2016. (III. 25.) Korm. rendelet 2. §-a, a 440/2016. (XII. 16.) Korm. rendelet 23. § (1) bekezdése, a 60/2017. (III. 20.) Korm. rendelet 23. §-a, a 342/2019. (XII. 23.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 192. § (4) bekezdésével megállapított, az 58/2016. (III. 25.) Korm. rendelet 2. §-a, a 440/2016. (XII. 16.) Korm. rendelet 23. § (1) bekezdése, a 60/2017. (III. 20.) Korm. rendelet 23. §-a, a 342/2019. (XII. 23.) Korm. rendelet 20. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 101. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
