@@ -1,3 +1,3 @@
-1. melléklet a 274/2015. (IX. 21.) Korm. rendelethez[^21]
+1. melléklet a 274/2015. (IX. 21.) Korm. rendelethez[^27]
 
-[^21]: Az 1. mellékletet a 101/2019. (V. 2.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
+[^27]: Az 1. mellékletet a 101/2019. (V. 2.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
