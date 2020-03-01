@@ -134,6 +134,22 @@ f) Földgázelosztási díj elemei és mértékei a Tigáz-DSO Földgázelosztó
 
 |  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7284 | 694 | 101,02 |
 
+g) Földgázelosztási díj elemei és mértékei az E.GAS Gázelosztó Kft. elosztási területén:
+
+|  |  | A) | B) | C) | D) | E) | F) |
+
+|  | 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+
+|  | 2. | Gázmérővel nem rendelkező felhasználók | 3 232,65 |  |  |  |  |
+
+|  | 3. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 9 192 |  |  | 1 415,51 |
+
+|  | 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 14 772 | 1 406 | 125,93 |
+
+|  | 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 13 632 | 1 298 | 102,39 |
+
+|  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 14 604 | 1 391 | 85,66 |
+
 III. Földgáztárolási díj
 
 A tárolási díj elemei és mértékei:
@@ -154,4 +170,4 @@ B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
 
 K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
-[^5]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított, az 5/2019. (V. 31.) MEKH rendelet 24. §-a, a 9/2019. (VII. 12.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított, az 5/2019. (V. 31.) MEKH rendelet 24. §-a, a 9/2019. (VII. 12.) MEKH rendelet 1. §-a, a 2/2020. (II. 12.) MEKH rendelet 1. §-a szerint módosított szöveg.
