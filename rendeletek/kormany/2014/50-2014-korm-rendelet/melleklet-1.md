@@ -1,3 +1,5 @@
 1. melléklet az 50/2014. (II. 28.) Korm. rendelethez[^9]
 
-[^9]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 68. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 129. §-a és 130. § c) pontja szerint módosított szöveg.
+Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
+
+[^9]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 54. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
