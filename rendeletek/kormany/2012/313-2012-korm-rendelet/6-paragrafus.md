@@ -16,27 +16,25 @@ e) az e-tanúsítás teljes adatállományának
 
 (2) Az e-statisztika adatállományában
 
-a) az első és másodfokú építésügyi és építésfelügyeleti hatóságok minden tárgyévet követő január 31-ig rögzítik a saját működésükkel kapcsolatos statisztikai adatokat, amely adatállományba betekintési joga van az első és másodfokú építésügyi és építésfelügyeleti hatóságoknak és a szakmai felügyeletet ellátó szerveknek, személyeknek;
+a)[^46] az építésügyi és építésfelügyeleti hatóságok minden tárgyévet követő január 31-ig rögzítik a saját működésükkel kapcsolatos statisztikai adatokat, amely adatállományba betekintési joga van az építésügyi és építésfelügyeleti hatóságoknak és a szakmai felügyeletet ellátó szerveknek, személyeknek;
 
 b) az 5. § (1) bekezdés e) pontja szerinti statisztikai adatok és jelentések rögzítését az Üzemeltető végzi minden tárgyévet követő február 28-ig, amely adatállomány közérdekű adattartalmának nyilvánosságát, közzétételét biztosítani kell.
 
-(3)[^46] Az e-bírság alkalmazásában az adatkezelő
+(3)[^47] Az e-bírság alkalmazásában az adatkezelő
 
-a) elsőfokú építésügyi és építésfelügyeleti hatóság ellenőrzi az általa kiszabott bírság adatainak nyilvántartásba kerülését, és szükség szerint gondoskodik
+a) építésügyi és építésfelügyeleti hatóság ellenőrzi az általa kiszabott bírság adatainak nyilvántartásba kerülését, és szükség szerint gondoskodik
 
 aa) a döntés csatolásáról,
 
 ab) az építésügyi, építésfelügyeleti, egyéb közigazgatási és eljárási bírságok, valamint azok behajtására vonatkozó nyilvántartási adatok pótlásáról,
 
-ac) a jogorvoslati eljárásban hozott helybenhagyó másodfokú hatósági döntés adatainak rögzítéséről,
+ac) a jogorvoslati eljárásban hozott helybenhagyó döntés adatainak rögzítéséről,
 
-b)[^47] a másodfokú építésügyi és építésfelügyeleti hatóság ellenőrzi a másodfokú döntése – ideértve az általa kiszabott bírság – adatainak nyilvántartásba kerülését, és szükség szerint gondoskodik
+ad) a jogorvoslati eljárásban megváltoztatott, megsemmisített döntés csatolásáról,
 
-ba)[^48] a jogorvoslati eljárásban megváltoztatott, megsemmisített vagy az általa meghozott, bírságot kiszabó hatósági döntés csatolásáról,
+ae) a megváltozott adatok rögzítéséről.
 
-bb) a megváltozott adatok rögzítéséről.
-
-(4) Az e-szankció alkalmazásban, az adatkezelő első és másodfokú építésügyi és építésfelügyeleti hatóságok, valamint a területi mérnöki kamara, a területi építész kamara, a Magyar Építész Kamara, a Magyar Mérnöki Kamara és a Magyar Kereskedelmi és Iparkamara
+(4)[^48] Az e-szankció alkalmazásban, az adatkezelő építésügyi és építésfelügyeleti hatóságok, valamint a területi mérnöki kamara, a területi építész kamara, a Magyar Építész Kamara, a Magyar Mérnöki Kamara és a Magyar Kereskedelmi és Iparkamara
 
 a) a szankció megállapítását megelőzően ellenőrzi az adatállományban rögzített adatokat,
 
@@ -58,9 +56,9 @@ b)[^50] a figyelmeztetés közlésekor vagy a döntés véglegessé válásakor 
 
 (10)[^55] Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (8) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
 
-[^46]: A 6. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^47]: A 6. § (3) bekezdés b) pont nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
-[^48]: A 6. § (3) bekezdés b) pont ba) alpontja a 482/2016. (XII. 28.) Korm. rendelet 34. § d) pontja szerint módosított szöveg.
+[^46]: A 6. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 109. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^47]: A 6. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 109. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^48]: A 6. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 109. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^49]: A 6. § (4) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 415. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^50]: A 6. § (5) bekezdés b) pontja a a 457/2017. (XII. 28.) Korm. rendelet 415. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^51]: A 6. § (6) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be.
