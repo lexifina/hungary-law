@@ -24,13 +24,7 @@ j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 
 k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,
 
-l) a föld
-
-la) tulajdonjogának hatósági jóváhagyáshoz kötött szerzése esetén,
-
-lb) tulajdonjogának hatósági jóváhagyáshoz nem kötött szerzése esetén a bejegyzés alapját képező okirat másolatával együtt
-
-a mezőgazdasági igazgatási szervnek.
+l)
 
 (1a) A tulajdonjog bejegyzéséről szóló határozatot kézbesíteni kell a jelzálogjog (önálló zálogjog, átalakításos önálló zálogjog) és az alzálogjog jogosultjának is.
 
@@ -50,14 +44,8 @@ c) annak, akinek a kérelmére (megkeresésére) valamely jogilag jelentős tén
 
 (6) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt és a jogosult nem rendelkezik érvényes lakcímmel.
 
-(7) Az elsőfokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően
+(7)
 
-a) az ügyfélnek az elsőfokú eljárást lezáró döntés meghozataláig előterjesztett írásbeli kérelmére a nem fellebbező ügyfelet, és
-
-b) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén a nem fellebbező tulajdonostársat
-
-tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem vált véglegessé, illetve arról, hogy a fellebbezést valamennyi fellebbező ügyfél visszavonta.
-
-(8) Nem kell a (7) bekezdés b) pontját alkalmazni abban az esetben, ha az elővásárlási jog jogosultjával a tulajdonjog megszerzésére irányuló szerződést, vételi ajánlatot kizárólag a külön jogszabályban meghatározott hirdetményi úton kell közölni.
+(8)
 
 (9) Az ingatlan-nyilvántartási eljárásban a döntés szóban történő közlése kizárt.
