@@ -1,4 +1,4 @@
-10. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^267]
+10. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^269]
 
 ## A sajátos nevelési igényű gyermek tanulói jogviszonyának megszűnéséről szóló igazolás adattartalma
 
@@ -50,4 +50,4 @@
 
 9. A kérelmező aláíróhelye.
 
-[^267]: A 10. számú mellékletet a 96/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.
+[^269]: A 10. számú mellékletet a 96/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.

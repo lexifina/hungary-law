@@ -88,6 +88,6 @@
 
 ## 4.8. a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^259]
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^261]
 
-[^259]: A 2. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 66. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^261]: A 2. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 66. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

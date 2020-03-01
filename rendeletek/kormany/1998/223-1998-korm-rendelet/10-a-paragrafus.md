@@ -1,9 +1,9 @@
-10/A. §[^132] (1) A jogosultsági feltételek teljesülése esetén a szülő részére a családi pótlékot akkor is meg kell állapítani, ha a szülő előzetes letartóztatásban van, vagy szabadságvesztés büntetését tölti.
+10/A. §[^136] (1) A jogosultsági feltételek teljesülése esetén a szülő részére a családi pótlékot akkor is meg kell állapítani, ha a szülő előzetes letartóztatásban van, vagy szabadságvesztés büntetését tölti.
 
-(2)[^133] Az előzetes letartóztatásban lévő, vagy szabadságvesztés büntetését töltő szülő családi pótlékra jogosultságának megállapítására a büntetés-végrehajtási intézet székhelye szerinti járási hivatal az illetékes.
+(2)[^137] Az előzetes letartóztatásban lévő, vagy szabadságvesztés büntetését töltő szülő családi pótlékra jogosultságának megállapítására a büntetés-végrehajtási intézet székhelye szerinti kormányhivatal az illetékes.
 
-(3)[^134] A (2) bekezdés szerint eljáró járási hivatal a családi pótlékra való jogosultságot megállapító határozatát a jogosult lakcíme szerint illetékes járási hivatallal is közli.
+(3)[^138] A (2) bekezdés szerint eljáró kormányhivatal a családi pótlékra való jogosultságot megállapító határozatát a jogosult lakcíme szerint illetékes kormányhivatallal is közli.
 
-[^132]: A 10/A. §-t a 238/2002. (XI. 8.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^133]: A 10/A. § (2) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 86. §-ának e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 6. pontja szerint módosított szöveg.
-[^134]: A 10/A. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 14. pontja szerint módosított szöveg.
+[^136]: A 10/A. §-t a 238/2002. (XI. 8.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^137]: A 10/A. § (2) bekezdése a 89/2003. (VI. 25.) Korm. rendelet 86. §-ának e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 16. § (8) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^138]: A 10/A. § (3) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 16. § (8) bekezdés b) és d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

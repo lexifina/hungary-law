@@ -10,7 +10,7 @@ b)[^5] a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) h
 
 c) a kérelmező munkahelyén működő társadalombiztosítási kifizetőhelyen.
 
-(2a)[^6] A társadalombiztosítási kifizetőhelyen benyújtott kérelmet a kifizetőhely annak érkeztetését követően három munkanapon belül továbbítja a kérelmező lakcíme szerint illetékes járási hivatalhoz.
+(2a)[^6] A társadalombiztosítási kifizetőhelyen benyújtott kérelmet a kifizetőhely annak érkeztetését követően három munkanapon belül továbbítja a kérelmező lakcíme szerint illetékes kormányhivatalhoz.
 
 (3)[^7] A családtámogatási ellátás megállapítására benyújtott kérelem esetén a kérelmező természetes személyazonosító adatait érvényes személyazonosító igazolvány vagy a személyazonosság igazolására alkalmas más hatósági igazolvány bemutatásával, vagy másolatának csatolásával kell igazolni. A gyermekgondozási támogatások valamelyikével kapcsolatos kérelem esetén az adóazonosító jelet hatósági igazolvány vagy hatósági bizonyítvány bemutatásával, vagy másolatának csatolásával kell igazolni.
 
@@ -55,7 +55,7 @@ b) az újabb kérelem benyújtásakor nem kell bemutatni vagy csatolni a kérele
 [^3]: Az 1. § (2) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 236/2012. (VIII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (2a) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 2. pontja szerint módosított szöveg.
+[^6]: Az 1. § (2a) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 16. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^7]: Az 1. § (3) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 70. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^9]: Az 1. § (4a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 65. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
