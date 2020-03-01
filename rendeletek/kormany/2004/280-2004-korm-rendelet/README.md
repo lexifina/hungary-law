@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-280-20-
 | 2016-02-01 | 2004-280-20-22.10 | 427/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 2004-280-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2017-05-06 | 2004-280-20-22.12 | 106/2017. (IV. 28.) Korm. rendelet |
+| 2020-03-01 | 2004-280-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |

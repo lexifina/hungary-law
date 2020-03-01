@@ -6,11 +6,11 @@
 
 a)[^33] az illetékes közegészségügyi hatóság,
 
-b) az elsőfokú közlekedési hatóság,
+b)[^34] a közlekedési hatóság,
 
-c)[^34]
+c)[^35]
 
-d)[^35] az illetékes megyei önkormányzatok
+d)[^36] az illetékes megyei önkormányzatok
 
 részére.
 
@@ -36,5 +36,6 @@ b) az intézkedési tervjavaslat tartalmáról, valamint az abban foglalt célok
 [^31]: A 11. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 286. § e) pontja szerint módosított szöveg.
 [^32]: A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény.
 [^33]: A 11. § (3) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 127. §-a, a 70/2015. (III. 30.) Korm. rendelet 68. § d) pontja szerint módosított szöveg.
-[^34]: A 11. § (3) bekezdés c) pontját a 67/2012. (IV. 5.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^35]: A 11. § (3) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^34]: A 11. § (3) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^35]: A 11. § (3) bekezdés c) pontját a 67/2012. (IV. 5.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^36]: A 11. § (3) bekezdés d) pontja a 67/2012. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
