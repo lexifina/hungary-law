@@ -1,1 +1,7 @@
-213. §
+213. § A Kp. 40. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek és a § a következő (2a) bekezdéssel egészül ki:
+
+„(1) A keresetlevelet a benyújtástól számított harminc napon belül kell az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz továbbítani. Többfokú közigazgatási eljárásban hozott cselekmény esetében az elsőfokon eljárt közigazgatási szerv a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a másodfokon eljárt közigazgatási szervhez, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz. A járási (fővárosi kerületi) hivatal eljárásában hozott cselekmény esetében a járási (fővárosi kerületi) hivatal a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a fővárosi és megyei kormányhivatalhoz, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz.
+
+(2) Ha a keresetlevél azonnali jogvédelem iránti kérelmet is tartalmaz, a keresetlevelet a benyújtástól számított öt, többfokú közigazgatási eljárásban hozott cselekmény, illetve a járási (fővárosi kerületi) hivatal eljárása esetén – a benyújtástól számított három napon belüli felterjesztést követően – nyolc napon belül kell az ügy irataival együtt a bírósághoz továbbítani.
+
+(2a) Jogszabály kötelezővé teheti, hogy valamely ügyben a keresetlevél benyújtásáról a felügyeleti szervet értesíteni kell.”
