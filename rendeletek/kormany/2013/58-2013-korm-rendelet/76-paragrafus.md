@@ -8,7 +8,7 @@
 
 (4)[^233] Közös bekötés esetén a felhasználási helyek tulajdonosai a víziközmű közös használatából eredő jogok és kötelezettségek egymás közötti gyakorlását külön szerződésben rögzítik. Az igénybejelentés mellékletét képező szerződésben meg kell nevezni a víziközmű-szolgáltatás díjának – az esetleges víziközmű-fejlesztési hozzájárulás – megfizetésére kötelezett felhasználót.
 
-(5)[^234] Ha a víziközmű-törzshálózat a szomszédos magántulajdonban álló ingatlan mentén fekszik, a bekötés a szomszédos ingatlan tulajdonosának hozzájárulásával – az ingatlantulajdonosok megállapodása (szerződéses szolgalom) alapján – a szomszédos ingatlan igénybevételével is elvégezhető. A szerződésnek tartalmaznia kell a víziközmű elhelyezésével, az ingatlan használatával kapcsolatos kölcsönös jogokat és kötelezettségeket. A szerződést és a szolgalom-alapítás iránti ingatlan-nyilvántartási kérelemnek a fővárosi és megyei kormányhivatal ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala által érkeztetett szolgalom-alapítás iránti ingatlan-nyilvántartási kérelem másolatát az igénybejelentéshez kell csatolni.
+(5)[^234] Ha a víziközmű-törzshálózat a szomszédos magántulajdonban álló ingatlan mentén fekszik, a bekötés a szomszédos ingatlan tulajdonosának hozzájárulásával – az ingatlantulajdonosok megállapodása (szerződéses szolgalom) alapján – a szomszédos ingatlan igénybevételével is elvégezhető. A szerződésnek tartalmaznia kell a víziközmű elhelyezésével, az ingatlan használatával kapcsolatos kölcsönös jogokat és kötelezettségeket. A szerződést és a szolgalom-alapítás iránti ingatlan-nyilvántartási kérelemnek az ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal által érkeztetett szolgalom-alapítás iránti ingatlan-nyilvántartási kérelem másolatát az igénybejelentéshez kell csatolni.
 
 (6)[^235] Az (5) bekezdésben meghatározott megállapodás hiányában – ha a szomszédos ingatlant érintő bekötővezeték megvalósítása és üzemeltetése az ingatlan rendeltetésszerű használatát nem zárja ki, vagy lényegesen nem akadályozza – a járási (fővárosi kerületi) hivatal a szomszédos ingatlanra az uralkodó telek tulajdonosa kérelmére vízvezetési és szennyvízelvezetési szolgalmat alapíthat.
 
@@ -21,7 +21,7 @@
 [^231]: A 76. § (2) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 13. pontja hatályon kívül helyezte.
 [^232]: A 76. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^233]: A 76. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^234]: A 76. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 41. pontja, a 367/2015. (XII. 2.) Korm. rendelet 27. § 27. pontja szerint módosított szöveg.
+[^234]: A 76. § (5) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 41. pontja, a 367/2015. (XII. 2.) Korm. rendelet 27. § 27. pontja, a 360/2019. (XII. 30.) Korm. rendelet 116. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^235]: A 76. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 28. pontja, a 440/2016. (XII. 16.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^236]: A 76. § (8) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 37. § 42. pontja szerint módosított szöveg.
 [^237]: A 76. § (9) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 23. § (2) bekezdése iktatta be.
