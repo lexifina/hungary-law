@@ -1,1 +1,1 @@
-### 25. §
+25. § E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 7/A. alcímét a 2020. március 1-jén vagy az azt követően indult eljárásokban kell alkalmazni. A 2020. február 29. napján folyamatban lévő ügyeket a 2020. március 1-jét megelőzően hatályos szabályok alapján hatáskörrel és illetékességgel rendelkező szerv intézi el.
