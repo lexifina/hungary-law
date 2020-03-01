@@ -1,4 +1,4 @@
-## 15. §[^2]
+## 15. §[^13]
 
 1. melléklet a 370/2017. (XII. 8.) Korm. rendelethez
 
@@ -20,4 +20,4 @@
 
 8. A bejelentő aláírása.
 
-[^2]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
