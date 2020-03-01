@@ -16,6 +16,6 @@
 
 ## 4. Az ingatlan adatai (település, fekvés, helyrajzi szám), az ingatlanon fennálló jogosultság (tulajdonjog, haszonélvezeti jog, vagyonkezelői jog, használati jog) megjelölése.
 
-2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^75]
+2. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^77]
 
-[^75]: A 2. melléklet a 103/2018. (VI. 11.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^77]: A 2. melléklet a 103/2018. (VI. 11.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
