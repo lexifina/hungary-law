@@ -46,7 +46,7 @@ h) az Ifjúsági Tudományos Innovációs Tehetségkutató Versenyen elért lega
 
 i) egyéb, a g) pont alá nem tartozó tantárgyból Országos Középiskolai Tanulmányi Versenyen elért eredményért, ha olyan tárgyból érte el, amelynek elfogadásáról az érintett intézmények előzetesen megegyeztek, az 1–10 helyezés esetén 20 többletpontra;
 
-j)[^93] az 1993 után szerzett, az Országos Képzési Jegyzékben szereplő 54-es vagy 55-ös szakmaszámú szakképesítésért a 4. melléklet szerinti szakiránynak megfelelő továbbtanulás esetén 32 többletpontra;
+j)[^93] a 2020. január 1-jét megelőzően közzétett Országos Képzési Jegyzék alapján 54-es vagy 55-ös szakképesítésért vagy annak a szakképzésről szóló 2019. évi LXXX. törvény hatálybalépését megelőző napon hatályos szakmai és vizsgakövetelmények szerinti más szakmaszámú megfelelőjéért, ha az az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet 1. mellékletének 2019. december 31-én hatályos rendelkezései szerinti szakmacsoportokba besorolható – a 4. melléklet szerinti szakiránynak megfelelő továbbtanulás esetén – 32 többletpontra;
 
 k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 73. § (2) bekezdés h) pontja szerint a szakképesítésért felelős miniszter által szervezett országos szakmai tanulmányi versenyen elért helyezése alapján a szakmai vizsga egésze (minden része) alól felmentést kapott jelentkező szakiránynak megfelelő továbbtanulás esetén 30 többletpontra
 
@@ -61,5 +61,5 @@ jogosult.
 [^90]: A 21. § (1) bekezdés nyitó szövegrésze az 59/2016. (III. 25.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
 [^91]: A 21. § (1) bekezdés d) pontja a 197/2019. (VIII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^92]: A 21. § (1) bekezdés g) pont ga) alpontja a 407/2017. (XII. 15.) Korm. rendelet 29. § c) pontja, a 18/2018. (II. 14.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^93]: A 21. § (1) bekezdés j) pontja a 47/2013. (II. 20.) Korm. rendelet 9. § c) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 17. pontja, a 169/2016. (VII. 1.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^93]: A 21. § (1) bekezdés j) pontja a 169/2016. (VII. 1.) Korm. rendelet 22. § d) pontja, a 30/2020. (II. 29.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^94]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
