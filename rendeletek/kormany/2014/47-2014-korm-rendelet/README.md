@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-47-20-2
 | 2016-03-11 | 2014-47-20-22.6 | 45/2016. (III. 10.) Korm. rendelet |
 | 2017-01-01 | 2014-47-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2014-47-20-22.8 | 393/2017. (XII. 13.) Korm. rendelet |
+| 2020-03-01 | 2014-47-20-22.9 | 30/2020. (II. 29.) Korm. rendelet |

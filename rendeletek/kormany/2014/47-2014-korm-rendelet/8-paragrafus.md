@@ -1,4 +1,4 @@
-8. § (1)[^20] A járási hivatal a biztonsági okmányt kezelő jogi képviselőnél és a kamarai jogtanácsos 4. § (1) bekezdés h) pontja szerinti munkáltatójánál ellenőrzi
+8. § (1)[^20] A kormányhivatal a biztonsági okmányt kezelő jogi képviselőnél és a kamarai jogtanácsos 4. § (1) bekezdés h) pontja szerinti munkáltatójánál ellenőrzi
 
 a) a biztonsági okmányok
 
@@ -18,4 +18,4 @@ b) a biztonsági okmányokra vonatkozó megőrzési, átadás-átvételi és vis
 
 (4) A bírságot az annak kiszabásáról rendelkező határozat jogerőre emelkedésétől számított tizenötödik napig kell megfizetni.
 
-[^20]: A 8. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 245. § c) pontja szerint módosított szöveg, a 393/2017. (XII. 13.) Korm. rendelet 59. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^20]: A 8. § (1) bekezdés nyitó szövegrésze a 393/2017. (XII. 13.) Korm. rendelet 59. § (4) bekezdés b) pontja, a 30/2020. (II. 29.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
