@@ -4,6 +4,6 @@ a) Budapest Főváros XII. kerület: 6835/8, 6835/10, 6835/11, 6835/15, 8862/1, 
 
 b) Budapest Főváros II. kerület: 13143/2
 
-## helyrajzi számú területek.
+helyrajzi számú területek.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházás megvalósításához szükségesnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek a beruházás megvalósításához, használatbavételéhez és működéséhez szükségesek.

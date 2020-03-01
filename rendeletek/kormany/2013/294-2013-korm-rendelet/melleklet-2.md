@@ -1,30 +1,28 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C |
 
 | 1. | Beruházás megnevezése | A Beruházás megvalósításával kapcsolatos hatósági eljárások | Eljáró hatóság |
 
-| 2. | a) Normafa Park történelmi sportterület kialakításához szükséges építmények, építményrészek építése, átalakítása, bővítése, felújítása, bontása; b) a Normafa Park történelmi sportterületén fogadó épület, engesztelő kápolna, sípályák felvonókkal, hóágyúkkal, térvilágítással; szánkó pályák; sífutó pályák; játszóterek; nyári bobpálya; kocogó és kerékpár pályák és további szabadtéri sportolási lehetőségek kialakítása és kiszolgáló funkciójú építmények, létesítmények, infrastruktúra megvalósítása, üzembe helyezése; c) közlekedési területek, tömegközlekedési bázisterületek kialakítása, felújítása, parkolók létesítése; d) fogaskerekű vasút korszerűsítése, nyomvonalának meghosszabbítása. | általános építésügyi és építésfelügyeleti hatósági eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatala |
+| 2. | a) Normafa Park történelmi sportterület kialakításához szükséges építmények, építményrészek építése, átalakítása, bővítése, felújítása, bontása; b) a Normafa Park történelmi sportterületén fogadó épület, engesztelő kápolna, sípályák felvonókkal, hóágyúkkal, térvilágítással; szánkó pályák; sífutó pályák; játszóterek; nyári bobpálya; kocogó és kerékpár pályák és további szabadtéri sportolási lehetőségek kialakítása és kiszolgáló funkciójú építmények, létesítmények, infrastruktúra megvalósítása, üzembe helyezése; c) közlekedési területek, tömegközlekedési bázisterületek kialakítása, felújítása, parkolók létesítése; d) fogaskerekű vasút korszerűsítése, nyomvonalának meghosszabbítása. | általános építésügyi és építésfelügyeleti hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | természetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 4. | természetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 5. | területrendezési hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 6. | útügyi hatósági eljárásokc | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 6. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 9. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatala |
+| 9. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 10. | földmérési, földvédelmi, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
+| 10. | földmérési, földvédelmi, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 11. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 11. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
-| 12. | erdészeti hatósági eljárások, erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 12. | erdészeti hatósági eljárások, erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal |
 
 | 13. | vízügyi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
