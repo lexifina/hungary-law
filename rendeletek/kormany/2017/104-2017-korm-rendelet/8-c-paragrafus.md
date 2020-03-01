@@ -6,8 +6,8 @@
 
 (4) A médiahirdetésifelület-értékesítő a listaárat Budapest Főváros Kormányhivatalának az erre a célra rendszeresített formanyomtatványon, elektronikus úton, PDF (Portable Document Format) formátumban köteles megküldeni. A reklámozó a szerződést – ideértve a közbeszerzési eljárás alapján megkötött szerződés esetén a közbeszerzési eljárást megindító felhívást, valamint az eljárás eredményéről szóló tájékoztatót is – Budapest Főváros Kormányhivatalának elektronikus úton, PDF (Portable Document Format) formátumban köteles megküldeni.
 
-(5)[^10] A médiahirdetésifelület-értékesítő, illetve a reklámozó a listaár, valamint a szerződés megküldése során nyilatkozik a hatósággal történő kapcsolattartás módjáról. Ha annak technikai feltételei adottak, a nyilatkozattól eltérően az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 26. § (3) bekezdés alkalmazásával a hatóság a döntését elektronikus úton is kézbesítheti.
+(5)[^20] A médiahirdetésifelület-értékesítő, illetve a reklámozó a listaár, valamint a szerződés megküldése során nyilatkozik a hatósággal történő kapcsolattartás módjáról. Ha annak technikai feltételei adottak, a nyilatkozattól eltérően az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 26. § (3) bekezdés alkalmazásával a hatóság a döntését elektronikus úton is kézbesítheti.
 
 (6) Ha kétség merül fel a tekintetben, hogy a médiahirdetésifelület-értékesítő által megküldött listaár megfelel-e a Tvtv. 11/G. § (2) bekezdésében meghatározott listaárnak, Budapest Főváros Kormányhivatala jár el, figyelemmel a (2) bekezdésben foglaltakra is.
 
-[^10]: A 8/C. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 605. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 8/C. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 605. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
