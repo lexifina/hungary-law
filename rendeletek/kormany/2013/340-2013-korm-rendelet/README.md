@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-340-20-
 | 2017-02-03 | 2013-340-20-22.10 | 20/2017. (II. 2.) Korm. rendelet |
 | 2018-04-25 | 2013-340-20-22.11 | 87/2018. (IV. 24.) Korm. rendelet |
 | 2019-01-01 | 2013-340-20-22.12 | 287/2018. (XII. 21.) Korm. rendelet |
+| 2020-03-01 | 2013-340-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
