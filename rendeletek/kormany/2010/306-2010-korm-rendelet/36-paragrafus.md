@@ -18,16 +18,17 @@ e)[^98] a nem gazdálkodó szervezet által működtetett diffúz légszennyező
 
 ## kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
 
-(3) A polgármester, fővárosban a főpolgármester a füstköd-riadó terv végrehajtásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
+(3)[^99] A polgármester, fővárosban a főpolgármester a füstköd-riadó terv végrehajtásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el.
 
-(4)[^99]
+(4)[^100]
 
-(5)[^100] Az országos környezetvédelmi hatóság jár el első fokon az átmeneti nemzeti tervben foglalt, a tüzelőberendezés legnagyobb megengedett kibocsátási mennyiségének meghatározásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben.
+(5)[^101] Az országos környezetvédelmi hatóság jár el az átmeneti nemzeti tervben foglalt, a tüzelőberendezés legnagyobb megengedett kibocsátási mennyiségének meghatározásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben.
 
 [^94]: A 36. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 34. §-a, a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
 [^95]: A 36. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 76. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 163. § h) pontjával megállapított szöveg.
 [^96]: A 36. § (2) bekezdés b) pontja a 292/2015. (X. 8.) Korm. rendelet 36. §-a szerint módosított szöveg.
 [^97]: A 36. § (2) bekezdés d) pontja a 292/2015. (X. 8.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^98]: A 36. § (2) bekezdés e) pontja a 292/2015. (X. 8.) Korm. rendelet 38. §-a szerint módosított szöveg.
-[^99]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be, hatályon kívül helyezet az 52/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése.
-[^100]: A 36. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 26. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 163. § i) pontja szerint módosított szöveg.
+[^99]: A 36. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 83. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^100]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be, hatályon kívül helyezet az 52/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése.
+[^101]: A 36. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 26. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 163. § i) pontja, a 360/2019. (XII. 30.) Korm. rendelet 83. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
