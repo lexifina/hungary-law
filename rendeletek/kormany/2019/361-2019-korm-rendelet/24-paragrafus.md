@@ -1,5 +1,3 @@
-## 23. §[^23]
+## 23. § A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet 1. melléklete helyébe a 23. melléklet lép.
 
 ## 24. A Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint az ezzel összefüggő egyes kormányrendeletek módosításáról szóló 126/2012. (VI. 26.) Korm. rendelet módosítása
-
-[^23]: A 23. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

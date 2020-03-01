@@ -1,5 +1,3 @@
-## 21. §[^21]
+## 21. § A budapesti Istvánmező rehabilitációs programjával, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 364/2011. (XII. 30.) Korm. rendelet 1. melléklete helyébe a 21. melléklet lép.
 
 ## 22. A budapesti Tüskecsarnok beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 32/2012. (III. 7.) Korm. rendelet módosítása
-
-[^21]: A 21. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

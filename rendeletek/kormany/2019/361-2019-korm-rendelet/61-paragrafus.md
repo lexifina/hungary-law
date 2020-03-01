@@ -1,5 +1,3 @@
-## 60. §[^60]
+## 60. § A „Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok a budai várnegyed területén” programhoz kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 227/2014. (IX. 4.) Korm. rendelet 1. melléklete helyébe az 58. melléklet lép.
 
 ## 61. A Budapest Fehér úti lőtér fejlesztésére és bővítésére irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 237/2014. (IX. 18.) Korm. rendelet módosítása
-
-[^60]: A 60. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

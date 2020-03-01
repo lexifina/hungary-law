@@ -1,5 +1,3 @@
-## 92. §[^92]
+## 92. § Hatályát veszti a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 225/2018. (XI. 29.) Korm. rendelet 3. § a) pontja.
 
 ## 93. A 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosítása
-
-[^92]: A 92. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

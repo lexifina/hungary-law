@@ -1,5 +1,3 @@
-## 65. §[^65]
+## 65. § A Wuppermann Hungary Kft. Győr-Gönyűi Kikötőben megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 266/2014. (X. 21.) Korm. rendelet 1. melléklete helyébe a 63. melléklet lép.
 
 ## 66. A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet módosítása
-
-[^65]: A 65. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -1,5 +1,3 @@
-## 59. §[^59]
+## 59. § A Gyöngyöshalászon megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 177/2014. (VII. 18.) Korm. rendelet 1. melléklete helyébe az 57. melléklet lép.
 
 ## 60. A „Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok a budai várnegyed területén” programhoz kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 227/2014. (IX. 4.) Korm. rendelet módosítása
-
-[^59]: Az 59. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

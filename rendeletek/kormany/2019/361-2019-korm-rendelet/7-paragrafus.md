@@ -1,5 +1,3 @@
-## 6. §[^6]
+## 6. § A Záhony térségében a vasúti, valamint a belső közúti infrastruktúra fejlesztéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 76/2008. (IV. 3.) Korm. rendelet Melléklete helyébe a 6. melléklet lép.
 
 ## 7. Az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt területen megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 248/2008. (X. 14.) Korm. rendelet módosítása
-
-[^6]: A 6. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

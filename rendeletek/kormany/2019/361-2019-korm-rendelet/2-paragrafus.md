@@ -1,5 +1,3 @@
-## 1. §[^1]
+## 1. § A budapesti központi szennyvíztisztító telep és kapcsolódó létesítményei projekt, a Zalaegerszeg és térsége szennyvízelvezetési és kezelési projekt és a Veszprém és térsége szennyvízelvezetési és kezelési projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 150/2006. (VII. 21.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
 
 ## 2. Az észak-balatoni hulladékgazdálkodási projekt és a Szabolcs-Szatmár-Bereg megyei hulladékgazdálkodási projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 151/2006. (VII. 21.) Korm. rendelet módosítása
-
-[^1]: Az 1. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.

@@ -1,5 +1,3 @@
-## 32. §[^32]
+## 32. § Sík- és dombvidéki tározók létesítéséhez és rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 12/2013. (I. 22.) Korm. rendelet 2. melléklete helyébe a 32. melléklet lép.
 
 ## 33. Az IBIDEN Hungary Kft. Dunavarsányi Ipari Parkban megvalósuló, kipufogórendszerekhez kapcsolódó újgenerációs termékek gyártását eredményező beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 31/2013. (II. 13.) Korm. rendelet módosítása
-
-[^32]: A 32. § a 95. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
