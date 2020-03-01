@@ -1,4 +1,4 @@
-105/D. § (1) A honvédelemért felelős minisztert elsőfokú eljárásban szakhatóságként kell bevonni
+105/D. § (1) A honvédelemért felelős minisztert szakhatóságként kell bevonni
 
 a) honvédelmi rendeltetésű erdő, valamint az aa), ab), ai) és aj) alpontok tekintetében a Honvédelmi Minisztérium vagyonkezelésében álló, erdőnek nem minősülő földterületek esetén
 

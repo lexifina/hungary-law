@@ -8,4 +8,4 @@ a) ha az időjárási viszonyok miatt kialakuló sajátos gombaérés azt indoko
 
 b) a földalatti gomba fajállományának csökkenése miatt vagy egyéb fajvédelmi okból az ország egészére vagy egy részére a földalatti gomba gyűjtését adott naptári évre vonatkozóan korlátozhatja, illetve megtilthatja.
 
-(3) Az erdészeti hatóság az e § alapján hozott határozatát fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja, és azt a honlapján közzéteszi.
+(3) Az erdészeti hatóság az e § alapján hozott határozatát a honlapján közzéteszi.

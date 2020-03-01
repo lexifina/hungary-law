@@ -1,18 +1,14 @@
-## Az erdészeti hatóság elsőfokú és másodfokú eljárásaiban közreműködő szakhatóságok
+## Az erdészeti hatóság eljárásaiban közreműködő szakhatóságok
 
 105/C. § (1) Part- vagy töltésvédelmi, árvízvédelmi és vízvédelmi rendeltetésű erdő esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a (2) bekezdés szerinti eljárásban
 
-a) az erdészeti hatóság elsőfokú eljárásában
+a) az erdészeti hatóság eljárásában
 
 aa) a part- vagy töltésvédelem és árvízvédelem tekintetében a területi vízügyi hatóságot,
 
 ab) a vízvédelem tekintetében a területi vízvédelmi hatóságot,
 
-b) az erdészeti hatóság másodfokú eljárásában
-
-ba) a part- vagy töltésvédelem és árvízvédelem tekintetében az országos vízügyi hatóságot,
-
-bb) vízvédelem tekintetében az országos vízvédelmi hatóságot
+b)
 
 szakhatóságként kell bevonni.
 
