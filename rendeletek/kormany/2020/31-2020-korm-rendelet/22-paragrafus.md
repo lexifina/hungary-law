@@ -1,0 +1,1 @@
+## 22. Az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó kormányrendeleteknek a fővárosi és megyei kormányhivatalok egyszerűsítésével összefüggő módosításáról szóló 361/2019. (XII. 30.) Korm. rendelet módosítása
