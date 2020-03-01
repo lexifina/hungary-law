@@ -210,17 +210,25 @@ B) Rendvédelmi szervek
 
 4.6. a központi ügyeleten ügyeletes munkakört, szolgálati beosztást betöltő személy
 
-C) Központi hivatalok
+C)[^43] Központi hivatalok
 
-1.[^43]
+1. Társadalmi Esélyteremtési Főigazgatóság
 
-2.[^44]
+1.1. a főigazgató és a főigazgató-helyettes
 
-3.[^45]
+1.2. a főigazgató és a főigazgató-helyettes mellett ügykezelői feladatokat ellátó foglalkoztatott
+
+1.3. a főosztályvezető
+
+1.4. az osztályvezető
+
+1.5. a projektvezetői feladatokat ellátó álláshelyen vagy ilyen munkakörben foglalkoztatottak
+
+1.6. a közbeszerzési és EU pályázati eljárásban részt vevő foglalkoztatottak
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
-1.[^46] Országos Vízügyi Főigazgatóság és irányítása alá tartozó szervek
+1.[^44] Országos Vízügyi Főigazgatóság és irányítása alá tartozó szervek
 
 1.1. a főigazgató, a műszaki és gazdasági főigazgató-helyettes
 
@@ -240,11 +248,11 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 1.9. a nemzetközi terület vezetője
 
-2.[^47] A rendészeti szakgimnáziumok
+2.[^45] A rendészeti szakgimnáziumok
 
 2.1. az igazgató
 
-3.[^48] Nemzeti Szakértői és Kutató Központ
+3.[^46] Nemzeti Szakértői és Kutató Központ
 
 3.1. a főigazgató és a főigazgató-helyettesek
 
@@ -252,15 +260,15 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.3. az osztályvezetők, intézetvezetők
 
-3.4.[^49] közbeszerzési eljárás során a bíráló bizottsági feladatok ellátására kijelölt, továbbá az EU pályázati eljárásban részt vevő munkakörök
+3.4.[^47] közbeszerzési eljárás során a bíráló bizottsági feladatok ellátására kijelölt, továbbá az EU pályázati eljárásban részt vevő munkakörök
 
 3.5. a nemzetbiztonsági ellenőrzéssel kapcsolatos feladatokat ellátó ügyintézői, adminisztratív feladatokat ellátó munkakörök
 
 3.6. elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakörben dolgozók
 
-3.7.[^50] az arcképelemző tevékenységet végző munkakörök
+3.7.[^48] az arcképelemző tevékenységet végző munkakörök
 
-4.[^51]
+4.[^49]
 
 [^6]: Az 1. melléklet A) rész 1. pont 1.1. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
 [^7]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
@@ -299,12 +307,10 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^40]: Az 1. melléklet B) Rendvédelmi szervek 2.4. pontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
 [^41]: Az 1. melléklet B) rész 3. pont 3.14. alpontját a 40/2017. (XII. 29.) BM rendelet 10. §-a iktatta be.
 [^42]: Az 1. melléklet B) pont 4. alpontját a 20/2019. (V. 15.) BM rendelet 5. §-a iktatta be.
-[^43]: Az 1. melléklet C) pont 1. alpontját a 20/2019. (V. 15.) BM rendelet 5. §-a hatályon kívül helyezte.
-[^44]: Az 1. melléklet C) rész 2. pontját az 58/2016. (XII. 22.) BM rendelet 49. §-a hatályon kívül helyezte.
-[^45]: Az 1. melléklet C) pont 3. pontját a 29/2016. (VII. 15.) BM rendelet 36. §-a hatályon kívül helyezte.
-[^46]: Az 1. melléklet D) rész 1. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^47]: Az 1. melléklet D) rész 2. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
-[^48]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
-[^49]: Az 1. melléklet D) rész 3. pont 3.4. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^50]: Az 1. melléklet D) rész 3. pont 3.7. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
-[^51]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte.
+[^43]: Az 1. melléklet C) része a 40/2019. (XI. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^44]: Az 1. melléklet D) rész 1. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^45]: Az 1. melléklet D) rész 2. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^46]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
+[^47]: Az 1. melléklet D) rész 3. pont 3.4. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet D) rész 3. pont 3.7. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^49]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte.
