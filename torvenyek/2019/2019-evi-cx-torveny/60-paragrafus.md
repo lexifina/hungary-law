@@ -12,7 +12,9 @@
 
 (6)
 
-(7)
+(7) Az Éltv. a következő 39/A. §-sal egészül ki:
+
+„39/A. § Ha az élelmiszerlánc-felügyeleti szerv országos illetékességgel eljárva hozott döntést, a döntésével szemben indított közigazgatási perben a Fővárosi Törvényszék kizárólagosan illetékes.”
 
 (8) Az Éltv.
 
@@ -20,6 +22,6 @@ a)
 
 b)
 
-c)
+c) 64. § (8) bekezdésében az „az elsőfokú” szövegrész helyébe az „a” szöveg
 
 lép.

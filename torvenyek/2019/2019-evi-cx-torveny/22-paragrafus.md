@@ -12,8 +12,8 @@
 
 (6) Hatályát veszti a Tvt.
 
-a)
+a) 10. § (5) bekezdése,
 
 b)
 
-c)
+c) 72. § (5) bekezdésében az „, amely ellen nincs helye fellebbezésnek” szövegrész.

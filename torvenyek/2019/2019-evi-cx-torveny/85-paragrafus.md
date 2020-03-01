@@ -2,4 +2,8 @@
 
 85. § (1)
 
-(2)
+(2) Hatályát veszti a Földforgalmi tv.
+
+a) 30. § (5) bekezdésében az „A mezőgazdasági igazgatási szerv döntésével szemben fellebbezésnek nincs helye.” szövegrész,
+
+b) 55. § (5) bekezdése.

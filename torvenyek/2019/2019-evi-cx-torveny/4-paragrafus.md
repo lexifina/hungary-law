@@ -4,4 +4,10 @@
 
 (2)
 
-(3)
+(3) Hatályát veszti az Flt.
+
+a) 45. § (1) bekezdésében az „elsőfokú” szövegrész,
+
+b) 45. § (3) bekezdése,
+
+c) 56. § (3) bekezdése.

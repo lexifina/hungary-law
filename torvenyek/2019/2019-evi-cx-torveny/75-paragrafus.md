@@ -10,4 +10,10 @@
 
 (5)
 
-(6)
+(6) Hatályát veszti az Nkt.
+
+a) 23. § (11) bekezdése,
+
+b) 58. § (5a) bekezdése,
+
+c) 96. § (3e) bekezdése.

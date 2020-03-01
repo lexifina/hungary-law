@@ -2,4 +2,4 @@
 
 66. § (1)
 
-(2)
+(2) Hatályát veszti a Szolgtv. 14. § nyitó szövegrészében az „elsőfokú” szövegrész.

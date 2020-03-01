@@ -8,4 +8,4 @@
 
 (4)
 
-(5)
+(5) Hatályát veszti a Cst. 44. § (1) bekezdése.

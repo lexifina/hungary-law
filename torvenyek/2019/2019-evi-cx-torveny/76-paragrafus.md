@@ -16,4 +16,10 @@
 
 (8)
 
-(9)
+(9) Hatályát veszti az Mmtv.
+
+a) 13/A. § (7) bekezdése,
+
+b) 16/C. §-a,
+
+c) 20/E. § (1) bekezdése.

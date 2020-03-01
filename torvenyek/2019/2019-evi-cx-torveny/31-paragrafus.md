@@ -8,16 +8,16 @@
 
 (4)
 
-(5)
+(5) A Tny. 91. § (4) bekezdésében az „elsőfokú” szövegrész helyébe az „ügyben eljárt” szöveg lép.
 
 (6) Hatályát veszti a Tny.
 
-a)
+a) 76. §-ában az „elsőfokú” szövegrész,
 
-b)
+b) 79. § (6) bekezdése,
 
-c)
+c) 95. § (1) bekezdése,
 
-d)
+d) 95/A. §-a,
 
 e)
