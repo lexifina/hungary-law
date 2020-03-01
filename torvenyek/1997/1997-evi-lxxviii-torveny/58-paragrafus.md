@@ -54,7 +54,7 @@ dc)
 
 dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő személy.
 
-Az a) és b) pontokban meghatározott eljárások, illetve azokkal összefüggésben keletkezett eljárások fellebbezésének igazgatási szolgáltatási díja harmincezer forint.
+Az a) és b) pontokban meghatározott eljárások igazgatási szolgáltatási díja harmincezer forint.
 
 (4) Az (1) és (2) bekezdés szerinti nyilvántartást elektronikus úton kell vezetni, az adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
 

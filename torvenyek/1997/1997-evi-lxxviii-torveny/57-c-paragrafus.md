@@ -8,4 +8,4 @@
 
 (4) A Kormányhivatal a szakhatósági hozzájárulás iránti kérelem elbírálása során a kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket megállapító kormányrendelet figyelembevételével az (1) bekezdésben meghatározott kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településrendezési hatásaival összefüggő szakkérdésben foglal állást abban a tekintetben, hogy a kereskedelmi létesítmény nem okoz-e olyan hátrányos következményeket, amelyek aránytalanul meghaladják a kereskedelmi építmény létesítésétől várható előnyöket.
 
-(5) Az olyan építésügyi hatósági engedélyezési eljárásokban, amelyekben a Kormányhivatal e fejezet szerint szakhatóságként működött közre, másodfokú építésügyi hatósági hatáskörben nem járhat el, ilyen ügyekben e hatáskört a Heves Megyei Kormányhivatal látja el.
+(5)

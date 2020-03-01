@@ -18,7 +18,7 @@ aa) engedély vagy tudomásulvétel nélkül,
 
 ab) az engedélytől vagy tudomásulvételtől eltérően,
 
-ac) az engedély véglegessé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
+ac) az engedély véglegessé válása nélkül – kivéve, ha a döntés azonnal végrehajthatóvá válik –, vagy
 
 ad) a végleges engedély végrehajthatóságának felfüggesztése ellenére;
 
