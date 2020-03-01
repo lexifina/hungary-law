@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-61-20-2
 | 2017-04-01 | 2010-61-20-22.18 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2010-61-20-22.19 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2010-61-20-22.20 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2020-03-01 | 2010-61-20-22.21 | 361/2019. (XII. 30.) Korm. rendelet |
