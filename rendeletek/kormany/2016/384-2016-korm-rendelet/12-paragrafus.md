@@ -1,9 +1,10 @@
-## 6. Bírósági felülvizsgálati kérelem
+## 11. §
 
-12. §[^10] (1) A keresetlevéllel és az ügyre vonatkozó iratokkal együtt a tulajdoni lap másolatának munkapéldányát is fel kell terjeszteni a kormányhivatalhoz. A felterjesztést megelőzően az érintett ingatlan tulajdoni lapjára fel kell jegyezni az ingatlanügyi hatósági határozat elleni keresetlevél benyújtásának a tényét.
+## 6. [^21] A közigazgatási per
+
+12. §[^22] (1) Az érintett ingatlan tulajdoni lapjára fel kell jegyezni az ingatlanügyi hatósági határozat elleni keresetlevél benyújtásának a tényét.
 
 (2) Az ingatlan határvonalát vagy területét érintő keresetlevelet az ingatlanügyi hatósági határozat elleni keresetlevél benyújtása tényének feljegyzésével egyidejűleg meg kell küldeni valamennyi érintett ingatlan tulajdonosának is.
 
-(3) A kormányhivatal a felterjesztett iratokat a bíróságnak döntésével együtt küldi vissza a járási hivatalnak.
-
-[^10]: A 12. § a 457/2017. (XII. 28.) Korm. rendelet 592. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 6. alcím címe a 360/2019. (XII. 30.) Korm. rendelet 160. § (2) bekezdésével megállapított szöveg.
+[^22]: A 12. § a 360/2019. (XII. 30.) Korm. rendelet 160. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

@@ -30,8 +30,8 @@
 
 2.9. a beépített földrészlet esetén a földrészlet eredeti és a telekalakítás utáni beépítési százalékát.
 
-3.[^34] A telekalakítási záradék:
+3.[^50] A telekalakítási záradék:
 
-A járási hivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig hatályos.« záradékszöveggel látja el.
+A kormányhivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig hatályos.« záradékszöveggel látja el.
 
-[^34]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^50]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

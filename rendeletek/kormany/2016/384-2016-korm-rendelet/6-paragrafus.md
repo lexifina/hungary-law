@@ -1,5 +1,9 @@
-## 2. Több járási hivatalt érintő beadvány benyújtása
+## 2. [^12] Több kormányhivatalt érintő beadvány benyújtása
 
-6. § (1) A kijelölő rendelet 1. melléklete szerinti több, különböző, ingatlanügyi hatósági hatáskörében eljáró járási hivatal illetékességi területén fekvő ingatlanokra vonatkozó beadványt (bejelentést, kérelmet, megkeresést) és a hozzá tartozó eredeti okiratokat mindegyik eljáró járási hivatalhoz külön kell benyújtani.
+6. § (1)[^13] A kijelölő rendelet 1. melléklete szerinti több, különböző, ingatlanügyi hatósági hatáskörében eljáró kormányhivatal illetékességi területén fekvő ingatlanokra vonatkozó beadványt (bejelentést, kérelmet, megkeresést) és a hozzá tartozó eredeti okiratokat mindegyik eljáró kormányhivatalhoz külön kell benyújtani.
 
-(2) Csereszerződés, valamint fedezetcsere esetén az eljárásban érintett többi járási hivatalhoz elegendő a bejegyzéshez szükséges okiratok egyszerű másolatát becsatolni. A kérelemben utalni kell arra, hogy az eredeti okiratot melyik járási hivatalhoz nyújtották be.
+(2)[^14] Csereszerződés, valamint fedezetcsere esetén az eljárásban érintett többi kormányhivatalhoz elegendő a bejegyzéshez szükséges okiratok egyszerű másolatát becsatolni. A kérelemben utalni kell arra, hogy az eredeti okiratot melyik kormányhivatalhoz nyújtották be.
+
+[^12]: A 2. alcím címe a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: A 6. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
