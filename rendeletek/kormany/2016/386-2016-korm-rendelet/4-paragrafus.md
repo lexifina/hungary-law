@@ -4,8 +4,9 @@
 
 (3) Budapest Főváros Kormányhivatala illetékessége egészségbiztosítási pénztári feladatkörében Budapest főváros és Pest megye területére terjed ki.
 
-(4)[^5] A megyeszékhely szerinti járási hivatal illetékessége – az (5) bekezdés szerinti kivétellel – a megye egész területére kiterjed.
+(4)[^5]
 
-(5) Budapest Főváros Kormányhivatala egészségbiztosítási feladatkörében eljáró XIII. Kerületi Hivatala illetékessége Budapest főváros és Pest megye területére terjed ki.
+(5)[^6]
 
-[^5]: A 4. § (4) bekezdése a 155/2018. (IX. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: A 4. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
