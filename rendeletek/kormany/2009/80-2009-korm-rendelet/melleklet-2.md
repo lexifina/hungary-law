@@ -6,11 +6,11 @@
 
 | 2. | hallépcső a 21T műtárgy mellett, létesítmény szám: IV/H | Keszthely (hrsz. 0380) | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 3. | 1 db kilátó áthelyezése, építmény szám: VI/K | Balatonszentgyörgy (hrsz. 0115/2) | általános építésügyi hatósági engedélyek | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala |
+| 3. | 1 db kilátó áthelyezése, építmény szám: VI/K | Balatonszentgyörgy (hrsz. 0115/2) | általános építésügyi hatósági engedélyek | Somogy Megyei Kormányhivatal |
 
 | 4. | áramlásjavító csatorna, létesítmény szám: VI/Cs | Zalakomár (hrsz. 0175), Balatonmagyaród (hrsz. 04) | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 5. | Híd1-Híd2 bontása, létesítmény szám: VI/H1-2 | Balatonmagyaród (hrsz. 04) | közlekedési hatósági engedély | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala |
+| 5. | Híd1-Híd2 bontása, létesítmény szám: VI/H1-2 | Balatonmagyaród (hrsz. 04) | közlekedési hatósági engedély | Zala Megyei Kormányhivatal |
 
 | 6. | töltésépítés, létesítmény szám: VI/T1, VI/T2 | Balatonmagyaród (hrsz. 04) | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -24,15 +24,15 @@
 
 | 11. | Ingói szivattyútelep bontása, létesítmény szám: X/Isz | Zalavár (hrsz. 022/1) | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 12. | Ingói szivattyútelep energiaellátó vezeték bontása, létesítmény szám: X/E | Zalavár | villamosenergia-ipari építésügyi hatósági engedély | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 12. | Ingói szivattyútelep energiaellátó vezeték bontása, létesítmény szám: X/E | Zalavár | villamosenergia-ipari építésügyi hatósági engedély | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 13. | Maróvölgyi Déli részöblözet (csatorna, töltés, műtárgy építés, szivattyútelep építés), létesítmény szám: XII/DMcs; DSö; DSSz | Sávoly, Szergerdő, Somogysámson | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 14. | Maróvölgyi Déli részöblözet 6811. sz. összekötő út, útcsatlakozás, létesítmény szám: XII/DMcs; DSö; DSSz | Sávoly, Somogysámson | útügyi építési engedély | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala |
+| 14. | Maróvölgyi Déli részöblözet 6811. sz. összekötő út, útcsatlakozás, létesítmény szám: XII/DMcs; DSö; DSSz | Sávoly, Somogysámson | útügyi építési engedély | Somogy Megyei Kormányhivatal |
 
 | 15. | Fenékpusztai géptelep rekonstrukció, létesítmény szám: XVII/SzB | Keszthely (hrsz. 0378/6) | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 16. | Balatonhídvégi őrtelep építményeinek átalakítása, építmény szám: XVIII | Balatonmagyaród | általános építésügyi hatósági engedélyek | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala |
+| 16. | Balatonhídvégi őrtelep építményeinek átalakítása, építmény szám: XVIII | Balatonmagyaród | általános építésügyi hatósági engedélyek | Zala Megyei Kormányhivatal |
 
 | 17. | Ingói berek lezárása, létesítmény szám: XXI/AT | Zalavár (hrsz. 022/4) | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -52,15 +52,15 @@
 
 | 25. | Sármellék- Balatonmagyaród közút bevédése, létesítmény szám: XXII/3 | Zalavár | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 26. | 20 kV-os vezeték áthelyezése | Zalavár | villamosenergia-ipari építésügyi hatósági engedély | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 26. | 20 kV-os vezeték áthelyezése | Zalavár | villamosenergia-ipari építésügyi hatósági engedély | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 27. | 4T és Kányavári sziget között 2 km hosszú, 3 m széles aszfaltozott üzemi út építése, létesítmény szám: XXIII/4K | Zalavár | közlekedési hatósági engedély | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala |
+| 27. | 4T és Kányavári sziget között 2 km hosszú, 3 m széles aszfaltozott üzemi út építése, létesítmény szám: XXIII/4K | Zalavár | közlekedési hatósági engedély | Zala Megyei Kormányhivatal |
 
-| 28. | 4. sz. híd, új felüljáró híd építése MÁV vízvédelmi töltések megközelítésére | Zalakomár | közlekedési hatósági engedély | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala |
+| 28. | 4. sz. híd, új felüljáró híd építése MÁV vízvédelmi töltések megközelítésére | Zalakomár | közlekedési hatósági engedély | Zala Megyei Kormányhivatal |
 
 | 29. | Hídvégi tó megkerülésének létesítményei: 5T, 6T zsilip, Holt meder rekonstrukció, Kis-Zala torkolati zsilip rekonstrukció, új csatorna a Kis-Zala és a Mekenyei szivattyútelep között, létesítmény szám: XXV/H | Zalavár | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 30. | Fenéki tó belső rövidrezárásának létesítményei: Zala meder rekonstrukció, 5. sz. híd, új csatorna és töltés a Zala és a vízszintszabályozó csatorna között, 31T és 32T zsilip, létesítmény szám: XXV/F | Keszthely, Zalavár, Balatonmagyaród | közlekedési hatósági engedély | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala |
+| 30. | Fenéki tó belső rövidrezárásának létesítményei: Zala meder rekonstrukció, 5. sz. híd, új csatorna és töltés a Zala és a vízszintszabályozó csatorna között, 31T és 32T zsilip, létesítmény szám: XXV/F | Keszthely, Zalavár, Balatonmagyaród | közlekedési hatósági engedély | Zala Megyei Kormányhivatal |
 
 | 31. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -68,6 +68,6 @@
 
 | 33. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Budapest Főváros Kormányhivatala |
 
-2. számú melléklet a 80/2009. (IV. 8.) Korm. rendelethez[^9]
+2. számú melléklet a 80/2009. (IV. 8.) Korm. rendelethez[^10]
 
-[^9]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^10]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
