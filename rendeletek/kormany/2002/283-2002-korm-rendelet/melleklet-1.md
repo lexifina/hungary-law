@@ -12,7 +12,7 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 3. | állami főépítészi hatáskörében eljáró megyei kormányhivatal | területrendezés, településrendezés |
 
-| 4. | megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró járási hivatala | környezetvédelem, természet- és tájvédelem |
+| 4. | környezetvédelmi és természetvédelmi hatáskörében eljáró megyei kormányhivatal | környezetvédelem, természet- és tájvédelem |
 
 | 5. | Balaton-felvidéki Nemzeti Park Igazgatóság | természet- és tájvédelem |
 
@@ -28,15 +28,15 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 11. | légiközlekedési hatóság | közlekedés: légi közlekedéssel érintett település esetében |
 
-| 12. | fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörében eljáró járási (fővárosi kerületi) hivatala | közlekedés: minden más esetben |
+| 12. | közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal | közlekedés: minden más esetben |
 
 | 13. | kulturális örökség védelméért felelős miniszter | kulturális örökségvédelem |
 
 | 14. | ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal | földvédelem |
 
-| 15. | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala | erdőrendezés, erdővédelem |
+| 15. | erdészeti hatáskörében eljáró megyei kormányhivatal | erdőrendezés, erdővédelem |
 
-| 16. | megyei kormányhivatal talajvédelmi hatáskörében eljáró járási hivatala | talajvédelem |
+| 16. | talajvédelmi hatáskörében eljáró megyei kormányhivatal | talajvédelem |
 
 | 17. | honvédelemért felelős miniszter | honvédelem |
 
@@ -49,4 +49,4 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 | 21. | Magyar Építész Kamara, megyei építész kamara | településtervezés |
 
 [^51]: A 21. §-t újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be, szövege a 463/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^52]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése szerint módosított szöveg.
+[^52]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
