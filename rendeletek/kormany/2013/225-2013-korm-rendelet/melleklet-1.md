@@ -1,3 +1,5 @@
 1. melléklet a 225/2013. (VI. 24.) Korm. rendelethez[^13]
 
-[^13]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 46. § a) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 55. § a) pontja, a 458/2017. (XII. 28.) Korm. rendelet 86. §-a és 87. § c) pontja szerint módosított szöveg.
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
+
+[^13]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
