@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-141-20-
 | 2018-01-01 | 2000-141-20-22.25 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-05-07 | 2000-141-20-22.26 | 311/2017. (X. 31.) Korm. rendelet |
 | 2020-01-01 | 2000-141-20-22.27 | 313/2019. (XII. 18.) Korm. rendelet |
+| 2020-03-01 | 2000-141-20-22.28 | 360/2019. (XII. 30.) Korm. rendelet |
