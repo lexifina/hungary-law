@@ -1,12 +1,15 @@
-## 4. §[^22] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.)
+## 3/A. §[^22]
 
-a)[^23] 66. §-a alapján hozott visszafizetésre kötelező, és az Ebtv. 68. § alapján hozott megtérítésre kötelező határozat esetén rehabilitációs hatóságként első fokon a megváltozott munkaképességű személyek ellátásban részesülő személy lakó- vagy tartózkodási helye szerint illetékes járási hivatal jár el,
+## 4. §[^23] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.)
 
-b)[^24] 66. §-a és 67. §-a alapján hozott megtérítésre kötelező határozat esetén rehabilitációs hatóságként első fokon a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes járási hivatal jár el,
+a)[^24] 66. §-a alapján hozott visszafizetésre kötelező, és az Ebtv. 68. § alapján hozott megtérítésre kötelező határozat esetén rehabilitációs hatóságként a megváltozott munkaképességű személyek ellátásban részesülő személy lakó- vagy tartózkodási helye szerint illetékes kormányhivatal jár el,
 
-c)[^25] 72. §-a szerinti méltányossági jogkörben hozott döntés esetén rehabilitációs hatóságként az a járási hivatal jár el, amely a visszafizetésre vagy megtérítésre kötelező határozatot hozta.
+b)[^25] 66. §-a és 67. §-a alapján hozott megtérítésre kötelező határozat esetén rehabilitációs hatóságként a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerint illetékes kormányhivatal jár el,
 
-[^22]: A 4. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés b) pontja hatályon kívül helyezte, újonnan a 117/2016. (VI. 6.) Korm. rendelet 1. §-a iktatta be.
-[^23]: A 4. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^24]: A 4. § b) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^25]: A 4. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés a) pontja szerint módosított szöveg.
+c)[^26] 72. §-a szerinti méltányossági jogkörben hozott döntés esetén rehabilitációs hatóságként az a kormányhivatal jár el, amely a visszafizetésre vagy megtérítésre kötelező határozatot hozta.
+
+[^22]: A 3/A. §-t a 235/2017. (VIII. 18.) Korm. rendelet 22. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés f) pontja. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 4. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés b) pontja hatályon kívül helyezte, újonnan a 117/2016. (VI. 6.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 4. § a) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja és (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 4. § b) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja és (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^26]: A 4. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

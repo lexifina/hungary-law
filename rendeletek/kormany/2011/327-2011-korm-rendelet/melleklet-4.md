@@ -1,4 +1,4 @@
-4. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^164]
+4. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^172]
 
 ## A rehabilitációs szolgáltatási terv értékelésének szempontjai a szolgáltatási akkreditációs eljárásban
 
@@ -22,4 +22,4 @@
 
 4. Amennyiben a rehabilitációs szolgáltatási terv értékelése során a Budapest Főváros Kormányhivatala legalább egy X minősítést adott, abban az esetben a többi pont értéktől függetlenül a tervet nem megfelelőnek minősíti.
 
-[^164]: A 4. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.
+[^172]: A 4. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.

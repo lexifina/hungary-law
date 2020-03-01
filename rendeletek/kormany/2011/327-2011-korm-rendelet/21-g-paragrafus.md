@@ -1,8 +1,8 @@
 ## nyújtható.
 
-21/G. § (1)[^110] A Szociális és Gyermekvédelmi Főigazgatóság a rehabilitációs szolgáltatásban részesülő személynek képzési célú támogatást nyújthat
+21/G. § (1)[^117] A Szociális és Gyermekvédelmi Főigazgatóság a rehabilitációs szolgáltatásban részesülő személynek képzési célú támogatást nyújthat
 
-a)[^111] szakma megszerzéséhez,
+a)[^118] szakma megszerzéséhez,
 
 b) államilag elismert nyelvvizsga megszerzésére irányuló képzéshez,
 
@@ -20,5 +20,5 @@ a) az egyetemi, főiskolai továbbtanulásra felkészítő képzéshez, valamint
 
 b) az olyan iskolarendszerű képzéshez, amelyhez a központi költségvetési törvény normatív állami hozzájárulást állapít meg.
 
-[^110]: A 21/G. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
-[^111]: A 21/G. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^117]: A 21/G. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés c) pontja szerint módosított szöveg.
+[^118]: A 21/G. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 60. §-ával megállapított szöveg.
