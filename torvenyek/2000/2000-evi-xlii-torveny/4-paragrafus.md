@@ -12,4 +12,4 @@
 
 (6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
 
-(7) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott hajózási hatósági döntéssel szemben fellebbezésnek van helye.
+(7)
