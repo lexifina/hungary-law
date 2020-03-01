@@ -20,7 +20,7 @@
 
 6. jogi segítségnyújtás: a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény (a továbbiakban: Jst.) szerinti peren kívüli támogatás, polgári és közigazgatási, valamint büntetőeljárásban biztosított támogatás;
 
-7. jogi segítségnyújtó szolgálat: a jogi segítségnyújtási feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a fővárosi és megyei kormányhivatal és az igazságügyért felelős miniszter által vezetett minisztérium;
+7.[^3] jogi segítségnyújtó szolgálat: a jogi segítségnyújtási feladatkörében eljáró fővárosi és megyei kormányhivatal és az igazságügyért felelős miniszter által vezetett minisztérium
 
 8. kiutasított külföldi: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján véglegessé vált határozattal kiutasított személy;
 
@@ -40,3 +40,4 @@
 
 [^1]: Az 1. § 1. pontja a 109/2018. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 109/2018. (VI. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 7. pontja a 360/2019. (XII. 30.) Korm. rendelet 183. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

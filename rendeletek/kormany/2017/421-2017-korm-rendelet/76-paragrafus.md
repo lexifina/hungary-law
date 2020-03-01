@@ -1,4 +1,4 @@
-## 75. §[^17] Ha a jogi segítségnyújtó szolgálat a pártfogó ügyvéd részére eljárási előleget fizetett, a pártfogó ügyvéd a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését követően a részére megállapított pártfogó ügyvédi díjnak csak az eljárási előlegen felüli részére tarthat igényt.
+## 75. §[^18] Ha a jogi segítségnyújtó szolgálat a pártfogó ügyvéd részére eljárási előleget fizetett, a pártfogó ügyvéd a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését követően a részére megállapított pártfogó ügyvédi díjnak csak az eljárási előlegen felüli részére tarthat igényt.
 
 ## 39. A pártfogó ügyvédi díj viselése és visszatérítése
 
@@ -6,4 +6,4 @@
 
 (2) A bűnügyi költségek körébe tartozó pártfogó ügyvédi díj visszatérítésének elmulasztása esetén a területi hivatal megkeresi a bűnügyi költség behajtására hatáskörrel rendelkező hatóságot.
 
-[^17]: A 75. § a 109/2018. (VI. 25.) Korm. rendelet 9. § i) pontja szerint módosított szöveg.
+[^18]: A 75. § a 109/2018. (VI. 25.) Korm. rendelet 9. § i) pontja szerint módosított szöveg.
