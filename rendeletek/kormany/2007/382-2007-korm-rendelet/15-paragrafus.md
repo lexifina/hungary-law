@@ -2,6 +2,6 @@
 
 15. § (1) A vezetékjogi engedélyben vagy mellékletében kell meghatározni a közcélú hálózat nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a közcélú hálózat biztonsági övezeteként kijelölt területsáv nagyságát.
 
-(2)[^36] Erdőnek és fásított területnek közcélú vezeték létesítése céljából szükséges átvágása esetén – megállapodás alapján – a faanyag kitermelése, elszállítása és hasznosítása az erdő, illetőleg a fásított terület tulajdonosának a kötelezettsége és jogosultsága. Ha a tulajdonos az itt meghatározott kötelezettségét az építési engedélyes felszólítása ellenére nem teljesíti, az építési engedélyes saját költségére a faanyagot kitermelheti, ez esetben a faanyag az építési engedélyes tulajdonába kerül.
+(2)[^37] Erdőnek és fásított területnek közcélú vezeték létesítése céljából szükséges átvágása esetén – megállapodás alapján – a faanyag kitermelése, elszállítása és hasznosítása az erdő, illetőleg a fásított terület tulajdonosának a kötelezettsége és jogosultsága. Ha a tulajdonos az itt meghatározott kötelezettségét az építési engedélyes felszólítása ellenére nem teljesíti, az építési engedélyes saját költségére a faanyagot kitermelheti, ez esetben a faanyag az építési engedélyes tulajdonába kerül.
 
-[^36]: A 15. § (2) bekezdése a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
+[^37]: A 15. § (2) bekezdése a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2008. október 7. napját követően indult ügyekben kell alkalmazni.
