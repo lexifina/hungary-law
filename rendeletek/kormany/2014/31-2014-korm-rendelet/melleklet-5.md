@@ -1,10 +1,10 @@
-5. melléklet a 31/2014. (II. 12.) Korm. rendelethez
+5. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^64]
 
-## Műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala és a területi mérésügyi és műszaki biztonsági hatóságok építésügyi hatósági engedélye nélkül végezhető építési tevékenységek, ha azok nem nukleáris létesítmény és radioaktívhulladék-tároló biztonsági övezetében történnek[^62]
+## Műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala és a területi mérésügyi és műszaki biztonsági hatóságok építésügyi hatósági engedélye nélkül végezhető építési tevékenységek, ha azok nem nukleáris létesítmény és radioaktívhulladék-tároló biztonsági övezetében történnek
 
 1. Nem közforgalmú autógáz-töltőállomás, -töltőhely technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
-1a.[^63] Meglévő közforgalmú üzemanyag-töltőállomáson közforgalmú autógáz töltőállomás, -töltőhely technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
+1a. Meglévő közforgalmú üzemanyag-töltőállomáson közforgalmú autógáz töltőállomás, -töltőhely technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
 2. Nem közforgalmú üzemanyag-töltőállomás technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
@@ -16,7 +16,7 @@
 
 6. Legfeljebb négy tartályból álló, legfeljebb 60 m3 össztérfogatú veszélyes folyadék tároló rendszer elhelyezését vagy védelmét közvetlenül szolgáló építmény – melynek mérete az építési tevékenység után sem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot – építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
-7.[^64] A közműcsatlakozással nem rendelkező, helyhez kötötten használt terményszárító és terménytisztító, valamint az útépítéshez kapcsolódó ideiglenes berendezés építményeinek építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
+7. A közműcsatlakozással nem rendelkező, helyhez kötötten használt terményszárító és terménytisztító, valamint útépítő (aszfaltkeverő) berendezés építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
 8. Az építési engedéllyel építhető, a rendelet hatálya alá tartozó sajátos építmény felújítása, helyreállítása, korszerűsítése, ha az építési tevékenységgel az építmény tartószerkezeti rendszerét vagy tartószerkezeti elemeit nem kell megváltoztatni, átalakítani, elbontani, kicserélni, megerősíteni vagy változatlan formában újjáépíteni.
 
@@ -26,6 +26,6 @@
 
 11. A rendelet hatálya alá tartozó sajátos építménnyel kapcsolatos építési tevékenység végzéséhez szükséges, annak befejezését követően elbontandó állványzat építése mérethatár nélkül, az építési tevékenység végzéséhez szükséges állványzat elbontása, a nettó 50 m3 térfogatot meg nem haladó felvonulási építmény építése, bontása.
 
-[^62]: Az 5. melléklet címe a 379/2016. (XII. 2.) Korm. rendelet 265. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^63]: Az 5. melléklet 1a. pontját a 80/2018. (IV. 20.) Korm. rendelet 14. §-a iktatta be.
-[^64]: Az 5. melléklet 7. pontja a 360/2019. (XII. 30.) Korm. rendelet 130. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+12. Távhővezeték elbontása és a vezeték megszüntetése.
+
+[^64]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 130. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

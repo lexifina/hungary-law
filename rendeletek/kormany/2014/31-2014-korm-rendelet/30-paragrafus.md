@@ -14,13 +14,13 @@ az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdono
 
 (3) Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlásra felhívást nem bocsát ki, a szakhatóságot nem keresi meg.
 
-(4)[^47] Az építésügyi hatóság az (1) bekezdés szerinti kérelemben az eljárás megindulásától számított nyolc napon belül az előírt feltételek fennállása esetén
+(4)[^49] Az építésügyi hatóság az (1) bekezdés szerinti kérelemben az eljárás megindulásától számított nyolc napon belül az előírt feltételek fennállása esetén
 
 a) az elutasításról határozatban dönt, vagy
 
 b) a szabálytalanságot – bírság kiszabásának mellőzésével – hallgatással tudomásul veszi.
 
-(5)[^48] A (4) bekezdés b) pontja szerinti tudomásulvételt az Ákr. szerinti függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
+(5)[^50] A (4) bekezdés b) pontja szerinti tudomásulvételt az Ákr. szerinti függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
 
-[^47]: A 30. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 224. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^48]: A 30. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 223. § (4) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 485. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^49]: A 30. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 224. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^50]: A 30. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 223. § (4) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 485. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

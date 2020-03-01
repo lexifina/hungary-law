@@ -1,6 +1,6 @@
 ## 7. Egyéb közös eljárási szabályok
 
-10. § (1)[^17] Több építésügyi hatóság illetékességi területét érintő sajátos építmény engedélyezési ügyében az első fokon eljáró építésügyi hatóságot műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala jelöli ki.
+10. § (1)[^17] Több építésügyi hatóság illetékességi területét érintő sajátos építmény engedélyezési ügyében az eljáró építésügyi hatóságot műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala jelöli ki.
 
 (2)[^18]
 
@@ -12,5 +12,5 @@
 
 (6) Az (5) bekezdés szerinti eljárásban az Országos Atomenergia Hivatal ügyfélnek minősül.
 
-[^17]: A 10. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 265. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 10. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 265. § (2) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 130. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^18]: A 10. § (2) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 15. §-a hatályon kívül helyezte.

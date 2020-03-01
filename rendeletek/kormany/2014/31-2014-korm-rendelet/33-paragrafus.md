@@ -1,4 +1,4 @@
-## 32. §[^49] Az építésügyi hatóság az építési, a bontási, a használatbavételi és a fennmaradási engedélyezési eljárási ügyekben építésügyi hatósági hatáskörében az engedélyhez kötött, az építéssel összefüggő tevékenység végzésével kapcsolatosan az Ákr.-ben meghatározottakon túl ellenőrizheti az építési naplót.
+## 32. §[^51] Az építésügyi hatóság az építési, a bontási, a használatbavételi és a fennmaradási engedélyezési eljárási ügyekben építésügyi hatósági hatáskörében az engedélyhez kötött, az építéssel összefüggő tevékenység végzésével kapcsolatosan az Ákr.-ben meghatározottakon túl ellenőrizheti az építési naplót.
 
 ## 17. Építésügyi kötelezési eljárás
 
@@ -14,4 +14,4 @@ b) ha a kötelezettség teljesítése oszthatatlan, a kötelezés egyetemleges.
 
 (4) A kötelezettség teljesítésének határidejét – azonnali beavatkozást igénylő veszélyhelyzet esetének kivételével – az összes körülmény figyelembevételével kell megállapítani.
 
-[^49]: A 32. § a 457/2017. (XII. 28.) Korm. rendelet 485. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^51]: A 32. § a 457/2017. (XII. 28.) Korm. rendelet 485. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
