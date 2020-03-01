@@ -1,8 +1,8 @@
-4. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^97]
+4. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^81]
 
 A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek egyenértékűségének vizsgálatához:
 
-Ha az építésügyi vagy építésfelügyeleti hatósági munkakör betöltéséhez a köztisztviselő vagy az állami tisztviselő végzettségét igazoló oklevélből a szakirányú kredittartalom, illetve a külön jogszabályban meghatározott munkakört megalapozó képzettségi szint – jogszabály alapján – nem állapítható meg, akkor a köztisztviselőnek vagy az állami tisztviselőnek a végzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.
+Ha az építésügyi vagy építésfelügyeleti hatósági munkakör betöltéséhez a kormánytisztviselő végzettségét igazoló oklevélből a szakirányú kredittartalom, illetve a 2. mellékletben meghatározott munkakört megalapozó képzettségi szint – jogszabály alapján – nem állapítható meg, akkor a kormánytisztviselőnek a végzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.
 
 I. Építésügyi hatósági munkakör betöltéséhez szükséges képesítési követelmény kredittartalma
 
@@ -176,4 +176,4 @@ II. Építésfelügyeleti hatósági munkakör betöltéséhez szükséges képe
 
 ”
 
-[^97]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 5. § j) és l) pontja szerint módosított szöveg.
+[^81]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése, a 482/2016. (XII. 28.) Korm. rendelet 5. § j) és l) pontja, a 360/2019. (XII. 30.) Korm. rendelet 45. § (12) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
