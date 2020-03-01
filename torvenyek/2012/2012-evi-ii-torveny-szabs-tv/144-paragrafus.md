@@ -2,11 +2,11 @@
 
 144. § (1) A bíróság és az általános szabálysértési hatóság által kiszabott közérdekű munka végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(2) A szabálysértési hatóság jogkörében eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv szabálysértési hatósága által kiszabott közérdekű munka végrehajtásáról a szabálysértési hatósági jogkörben eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott szabálysértési hatósági jogkörben eljáró rendőri szerv gondoskodik.
+(2)
 
 (3) A Nemzeti Adó- és Vámhivatal vámszerve által kiszabott közérdekű munka végrehajtásáról a Nemzeti Adó- és Vámhivatal vámszerve gondoskodik.
 
-(4) A (2) és (3) bekezdés szerinti esetben a közérdekű munka végrehajtásáról azon szerv gondoskodik, amelyik
+(4) A közérdekű munka végrehajtásáról azon szerv gondoskodik, amelyik
 
 a) az elkövető lakóhelye,
 

@@ -28,4 +28,4 @@ szabálysértést követ el.
 
 (2b) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
 
-(3) Az (1)–(2a) bekezdésben meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)

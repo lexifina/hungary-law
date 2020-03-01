@@ -46,6 +46,6 @@ részletes szabályait rendeletben szabályozza.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
 
-(3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét, valamint a járási hivatal eltérő illetékességgel történő eljárásának végrehajtási feltételeit rendeletben meghatározza.
+(3a)
 
 (4)

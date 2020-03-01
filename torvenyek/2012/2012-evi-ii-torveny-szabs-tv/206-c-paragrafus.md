@@ -4,6 +4,6 @@
 
 (2) Az a vagyonvédelmi rendszerek programozását végző vállalkozás vagy gazdasági társaság vezetője vagy ilyen tevékenységet végző személy, aki a vagyonvédelmi riasztórendszer programozását, kivitelezését úgy hajtja vagy hajtatja végre, hogy a vagyonvédelmi rendszer bármilyen formában segélyhívásnak nem minősülő, automatikus jelzést vagy üzenetet küld az egységes európai segélyhívó számra, illetve bármely nemzeti segélyhívó számra szabálysértést követ el.
 
-(3) Az (1) és a (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 (4) E § alkalmazásában segélyhívás a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló kormányrendelet szerinti segélyhívás.

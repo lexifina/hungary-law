@@ -18,4 +18,4 @@ g) hatáskörének gyakorlása során elmulasztja az adatok minősítésére, a 
 
 szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)

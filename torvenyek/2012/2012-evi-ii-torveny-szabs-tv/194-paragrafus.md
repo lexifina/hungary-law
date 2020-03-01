@@ -12,4 +12,4 @@ d) az a)–c) pontban meghatározott magatartásokhoz hasonló más módon
 
 a közterület használatának, vagy a lakó- vagy más épületben tartózkodók nyugalmának megzavarására alkalmas magatartást tanúsít, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)

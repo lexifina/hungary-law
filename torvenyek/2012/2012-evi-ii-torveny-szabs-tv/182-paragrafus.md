@@ -4,6 +4,6 @@
 
 (2) Aki a pirotechnikai termékek előállítására, forgalmára, tárolására, szállítására, felhasználására, megsemmisítésére, birtoklására vonatkozó előírásokat megszegi, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 (4) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő és a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.

@@ -4,4 +4,4 @@
 
 (2) Aki az útiokmánnyal kapcsolatos jogszabályi rendelkezéseket megszegi, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)

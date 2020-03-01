@@ -22,4 +22,4 @@ szabálysértést követ el.
 
 (2a) Aki a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 17a. pontja szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
 
-(3) Az (1), (2) és (2a) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)

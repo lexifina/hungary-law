@@ -6,11 +6,9 @@
 
 (3) A (2) bekezdés szerint eljárva
 
-a) a járási hivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
+a) az általános szabálysértési hatóság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a Nemzeti Adó- és Vámhivatal, a Kormány által kijelölt szerv és az egészségügyi államigazgatási szerv hatáskörébe tartozó szabálysértéseket;
 
-b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a pénzügyi és kereskedelmi szabálysértéseket;
-
-c) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
+b) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
 
 (4) Ha a szabálysértési eljárásban több eljárás alá vont személy van, velük szemben rendszerint egy eljárást kell folytatni.
 

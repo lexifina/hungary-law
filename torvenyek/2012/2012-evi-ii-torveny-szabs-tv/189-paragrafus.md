@@ -40,4 +40,4 @@ szabálysértést követ el.
 
 (5)
 
-(6) Az (1)–(4) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(6)

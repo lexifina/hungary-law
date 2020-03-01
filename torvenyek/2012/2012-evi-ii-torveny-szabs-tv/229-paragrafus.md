@@ -1,3 +1,3 @@
-## 183. Hatásköri rendelkezés
+## 183.
 
-229. § A 217–228. §-okban meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.
+### 229. §

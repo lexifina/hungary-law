@@ -8,4 +8,4 @@ b) az államhatár rendjével és őrzésével vagy a határforgalom ellenőrzé
 
 szabálysértést követ el.
 
-(2) Az (1) bekezdés a) és b) pontjában meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)

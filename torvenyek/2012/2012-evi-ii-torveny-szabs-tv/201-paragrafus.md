@@ -8,4 +8,4 @@
 
 (4) Aki az államhatárról szóló törvény 5. § (1c) bekezdése szerinti tartózkodás szabályait megszegi, szabálysértést követ el.
 
-(5) Az (1)–(4) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(5)

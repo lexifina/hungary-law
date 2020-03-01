@@ -12,4 +12,6 @@ b) a rágcsáló és rovarirtásra vonatkozó egészségügyi jogszabályt, vagy
 
 megszegi, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az egészségügyi államigazgatási szerv hatáskörébe tartozik.
+
+(3) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.

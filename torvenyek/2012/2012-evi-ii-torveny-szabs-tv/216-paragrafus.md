@@ -18,4 +18,4 @@ helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állomán
 
 (3) Aki a gyűlés feloszlatását követően a helyszínt nem hagyja el, szabálysértést követ el.
 
-(4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(4)
