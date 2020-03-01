@@ -6,9 +6,9 @@ b) az erdészeti hatóság által vezetett nyilvántartásokhoz kapcsolódó fel
 
 c) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 43. § (2) bekezdés b) pontjában foglalt közzétételi feladatok ellátása;
 
-d) az erdő ökológiai állapotának és gazdasági erőforrásainak felmérését, változásának nyomon követését, az egészségi állapotának, az éghajlat-változás hatásainak, valamint az erdőt veszélyeztető szükséghelyzeti károsítók folyamatos figyelemmel kísérését, az erdészeti növényvédelmi előrejelzés készítését szolgáló, továbbá nemzeti, európai uniós és nemzetközi adatszolgáltatást is ellátó erdővédelmi mérő- és megfigyelő rendszer működtetése;
+d)[^2] az erdő ökológiai állapotának és gazdasági erőforrásainak felmérését, változásának nyomon követését, az egészségi állapotának, az éghajlat-változás hatásainak, valamint az erdőt veszélyeztető szükséghelyzeti károsítók folyamatos figyelemmel kísérését, az erdészeti növényvédelmi előrejelzés készítését szolgáló, továbbá nemzeti, európai uniós és nemzetközi adatszolgáltatást is ellátó erdészeti mérő- és megfigyelőrendszer működtetése;
 
-e) az Országos Erdőállomány Adattárhoz, erdőgazdálkodó nyilvántartáshoz, erdészeti szakirányító névjegyzékhez kapcsolódó térinformatikai állományok folyamatos karbantartásáról és fenntartásáról való gondoskodás;
+e)[^3] az Országos Erdőállomány Adattárhoz, erdőgazdálkodó nyilvántartáshoz, erdészeti szakirányító névjegyzékhez kapcsolódó informatikai állományok folyamatos karbantartásáról és fenntartásáról való gondoskodás;
 
 f) az erdészeti hatóság tevékenységéhez kapcsolódó informatikai rendszerek működtetése és fejlesztése;
 
@@ -18,7 +18,7 @@ h) jogszabály szerint előírt szakmai formanyomtatványok és az elektronikus 
 
 i) az általa működtetett nyilvántartások összhangjának megteremtése más közhiteles nyilvántartásokkal;
 
-j) az erdészeti szakszemélyzet jogosulti alapképzésének és továbbképzésének, valamint a szakszemélyzeti tevékenységgel kapcsolatban jogszabályban előírt közzétételi feladatok ellátása;
+j)[^4] az erdészeti szakszemélyzet jogosulti alapképzésének és továbbképzésének, valamint a szakszemélyzeti tevékenységgel kapcsolatos jogszabályban előírt közzétételi feladatok ellátása;
 
 k) az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 9. § (3) bekezdés b) és e) pontja szerinti feladatok ellátása;
 
@@ -39,3 +39,7 @@ e) kiadott iratmintákat használják a megyei kormányhivatalok a szakmai felad
 f) végrehajtott belső ellenőrzéseken, auditokon, szakterületi ellenőrzéseken tett ajánlások alapján a megyei kormányhivatalok a meghatározott intézkedéseket végrehajtják, közreműködnek nemzetközi szervek által végrehajtott külső auditokon;
 
 g) jelentést kérhet a megyei kormányhivataloktól az elvégzett feladataikról.
+
+[^2]: A 4. § (1) bekezdés d) pontja a 29/2020. (II. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés e) pontja a 29/2020. (II. 28.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés j) pontja a 29/2020. (II. 28.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

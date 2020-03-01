@@ -1,4 +1,4 @@
-## 4/A. §[^2] Az NFK földügyi és agrárföldmérési, térinformatikai feladatai:
+## 4/A. §[^5] Az NFK földügyi és agrárföldmérési, térinformatikai feladatai:
 
 a) a Magyarország területére vonatkozó, a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó feladatok elvégzéséhez szükséges térképészeti és távérzékelt adatok beszerzése, kezelése és szolgáltatása;
 
@@ -16,4 +16,4 @@ g) a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó fö
 
 h) a földügyi és agrár-vidékfejlesztési szakigazgatás támogatása a legkorszerűbb távérzékelési és térinformatikai megoldásokat integráló funkcionális nyilvántartások vezetésével és alkalmazások működtetésével.
 
-[^2]: A 4/A. §-t a 220/2019. (IX. 12.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 4/A. §-t a 220/2019. (IX. 12.) Korm. rendelet 3. §-a iktatta be.
