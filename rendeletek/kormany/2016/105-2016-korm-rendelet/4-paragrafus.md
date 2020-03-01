@@ -1,4 +1,6 @@
-4. § (1)[^4]
+## 3. §[^2]
+
+4. § (1)[^3]
 
 (2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
 
@@ -6,7 +8,8 @@
 
 (4) Az 1. § (1) és (2) bekezdése szerinti ingatlanokra vonatkozó településrendezési eszköz módosítása során az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet 4. § (4) bekezdése szerinti véleményadás határideje legfeljebb nyolc nap.
 
-(5)[^5]
+(5)[^4]
 
-[^4]: A 4. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 242. § c) pontja hatályon kívül helyezte.
-[^5]: A 4. § (5) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 242. § c) pontja hatályon kívül helyezte.
+[^2]: A 3. §-t a 361/2019. (XII. 30.) Korm. rendelet 80. §-a hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 4. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 242. § c) pontja hatályon kívül helyezte.
+[^4]: A 4. § (5) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 242. § c) pontja hatályon kívül helyezte.
