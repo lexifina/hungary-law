@@ -1,4 +1,4 @@
-## 34/A. §[^41] A bányafelügyelet a 3. melléklet 1.6. pontjában meghatározott építmény nyilvántartásba vételéről szóló döntéséről tájékoztatja a környezetvédelmi és a vízvédelmi hatóságot.
+## 34/A. §[^41] A bányafelügyelet a 3. melléklet 1.6. pontjában meghatározott építmény tekintetében tett bejelentésről tájékoztatja a környezetvédelmi és a vízvédelmi hatóságot.
 
 ## IV. Fejezet
 
@@ -22,6 +22,6 @@ g) az építtető a jogszabályban meghatározott esetekben és módon bejelente
 
 h) az építési szerződésre vonatkozó előírások teljesültek-e.
 
-[^41]: A 34/A. §-t a 458/2016. (XII. 23.) Korm. rendelet 26. §-a iktatta be.
+[^41]: A 34/A. §-t a 458/2016. (XII. 23.) Korm. rendelet 26. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^42]: A 35. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
 [^43]: A 35. § c) pontja a 457/2017. (XII. 28.) Korm. rendelet 386. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

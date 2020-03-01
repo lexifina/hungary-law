@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-2
 | 2018-01-01 | 2012-53-20-22.16 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-04-30 | 2012-53-20-22.17 | 80/2019. (IV. 15.) Korm. rendelet |
 | 2020-01-01 | 2012-53-20-22.18 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-03-01 | 2012-53-20-22.19 | 458/2016. (XII. 23.) Korm. rendelet |
