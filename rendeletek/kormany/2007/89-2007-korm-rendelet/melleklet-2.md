@@ -8,11 +8,11 @@
 
 | 3. | Metróállomások, üzemi létesítmények | Kelenföldi pályaudvar, Tétényi út, Bocskai út, Móricz Zsigmond körtér, Szent Gellért tér, Fővám tér, Kálvin tér, Rákóczi tér, Népszínház utca, Keleti pályaudvar, Dózsa György út, Hungária körút, Róna utca, Bosnyák tér metróállomások és minden üzemi létesítmény | Építésügyi hatósági engedélyek | közlekedésért felelős miniszter |
 
-| 4. | Felszín feletti építmények | Állomások és vonali műtárgyak felszínen megjelenő építményei (különösen: szellőző fejek, lépcső lefedések, liftépületek) | Általános építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 4. | Felszín feletti építmények | Állomások és vonali műtárgyak felszínen megjelenő építményei (különösen: szellőző fejek, lépcső lefedések, liftépületek) | Általános építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala |
 
-| 5. | Felszíni rendezési munkák | A Fővárosi Önkormányzat tulajdonában lévő felszíni létesítmények, így különösen utak, járdák, forgalomtechnika, zöldterületek, villamosvágányok, aluljárók építési munkái | Közúthatósági engedélyek | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 5. | Felszíni rendezési munkák | A Fővárosi Önkormányzat tulajdonában lévő felszíni létesítmények, így különösen utak, járdák, forgalomtechnika, zöldterületek, villamosvágányok, aluljárók építési munkái | Közúthatósági engedélyek | Budapest Főváros Kormányhivatala |
 
-| 6. | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 6. | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Budapest Főváros Kormányhivatala |
 
 2. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez[^13]
 
