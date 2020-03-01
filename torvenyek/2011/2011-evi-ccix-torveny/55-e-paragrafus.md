@@ -1,4 +1,4 @@
-55/E. § (1) A járási hivatal a kérelemnek helyt adó határozatában rendelkezik:
+55/E. § (1) A kormányhivatal a kérelemnek helyt adó határozatában rendelkezik:
 
 a) az ivóvíz-, illetve szennyvízvezeték elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmáról, figyelembe véve a jogosult és a vezetékjoggal érintett ingatlan tulajdonosának, vagyonkezelőjének, használójának érdekeit, valamint az ingatlanhasználat módját,
 

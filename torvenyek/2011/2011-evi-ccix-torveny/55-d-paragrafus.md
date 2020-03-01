@@ -1,4 +1,4 @@
-55/D. § A járási hivatal a szolgáló telek tulajdonosa vonatkozásában hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől:
+55/D. § A kormányhivatal a szolgáló telek tulajdonosa vonatkozásában hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől:
 
 a) a tulajdonos természetes személy természetes személyazonosító adatait, lakcímét,
 

@@ -8,7 +8,7 @@ b) az ingatlanon felépített épületre használatbavételi vagy fennmaradási 
 
 (3) Ha az ingatlan tulajdonosa a bekötés valamennyi műszaki előfeltételét teljesítette, a víziközmű-szolgáltató az ingatlan víziközmű-rendszerhez történő csatlakoztatását és a közszolgáltatási szerződés létrejöttét nem tagadhatja meg.
 
-(4) Ha az ingatlan tulajdonosa az (1) bekezdésben foglalt kötelezettségét a (2) bekezdésben meghatározott határidőben nem teljesíti, a víziközmű-szolgáltató bejelentésére a tulajdonost a járási hivatal kötelezi az ingatlan beköttetésére. A járási hivatal eljárása igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
+(4) Ha az ingatlan tulajdonosa az (1) bekezdésben foglalt kötelezettségét a (2) bekezdésben meghatározott határidőben nem teljesíti, a víziközmű-szolgáltató bejelentésére a tulajdonost a kormányhivatal kötelezi az ingatlan beköttetésére. A kormányhivatal eljárása igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
 
 (5) A víziközmű-szolgáltató a (4) bekezdés szerinti bejelentésében
 
@@ -26,7 +26,7 @@ a) az ivóvíz-törzshálózatra történő bekötési kötelezettség alól, ha
 
 b) a szennyvízelvető rendszerre történő bekötési kötelezettség alól, ha az ingatlanon keletkező szennyvíz elvezetése, tisztítása és ártalommentes elhelyezése vagy hasznosítása a vízügyi hatóság által engedélyezett és a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú melléklet 26. pont b) alpontjában meghatározott saját célú vízilétesítménnyel biztosított vagy az ingatlanon keletkező szennyvíz tisztítása az építésügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezéssel megoldott vagy az ezen engedélyek megszerzésére vonatkozó kérelmet a (2) bekezdés szerinti felszólítást megelőzően az ingatlan tulajdonosa vagy jogcímes használója előterjesztette.
 
-(7) A járási hivatal a kötelezési eljárás lefolytatásának mellőzése mellett dönt, ha az eset összes körülményére tekintettel a tulajdonostól nem várható el, hogy a kötelezésnek eleget tegyen. E körben a járási hivatal mérlegeli, hogy
+(7) A kormányhivatal a kötelezési eljárás lefolytatásának mellőzése mellett dönt, ha az eset összes körülményére tekintettel a tulajdonostól nem várható el, hogy a kötelezésnek eleget tegyen. E körben a kormányhivatal mérlegeli, hogy
 
 a) az ingatlan használata víziközmű-szolgáltatás hiányában biztosított-e,
 
@@ -34,7 +34,7 @@ b) víziközmű-szolgáltatás hiányában fennáll-e a felszíni és felszín a
 
 c) a bejelentés benyújtása időpontjában van-e az ellátásért felelősnek vagy a víziközmű-szolgáltatónak jogszabályban vagy szerződésben előírt teljesítetlen kötelezettsége víziközmű-rendszerhez történő csatlakozási arány vonatkozásában.
 
-(8) A feltárt tényállás összes körülményére tekintettel a járási hivatal kötelezés kibocsátása vagy a kötelezési eljárás lefolytatásának mellőzése helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
+(8) A feltárt tényállás összes körülményére tekintettel a kormányhivatal kötelezés kibocsátása vagy a kötelezési eljárás lefolytatásának mellőzése helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
 
 (9) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Zrt. által a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megvásárolt lakóingatlanok esetében.
 
