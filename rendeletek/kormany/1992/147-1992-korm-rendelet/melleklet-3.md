@@ -6,9 +6,9 @@
 
 ## Önálló ingatlan:
 
-## - a járási hivatal ingatlan-nyilvántartásában, minden egyes helyrajzi szám alatt nyilvántartott föld a rajta lévő épületekkel, egyéb építménnyel, illetve azok együttese,
+## - az ingatlan-nyilvántartásban minden egyes helyrajzi szám alatt nyilvántartott föld a rajta lévő épületekkel, egyéb építménnyel, illetve azok együttese,
 
-## - a járási hivatal ingatlan-nyilvántartásában helyrajzi számmal rendelkező földrészleten kívüli önálló ingatlanok (egyéb önálló ingatlanok), függetlenül attól, hogy az önkormányzat számviteli nyilvántartásában a 12. számlacsoportban vagy az üzemeltetésre, kezelésre átadott eszközök között szerepel, valamint
+## - az ingatlan-nyilvántartásban helyrajzi számmal rendelkező földrészleten kívüli önálló ingatlanok (egyéb önálló ingatlanok), függetlenül attól, hogy az önkormányzat számviteli nyilvántartásában a 12. számlacsoportban vagy az üzemeltetésre, kezelésre átadott eszközök között szerepel, valamint
 
 ## - a számviteli nyilvántartásban - helyrajzi szám nélkül - a 12. számlacsoportban nyilvántartott felszín alatti és feletti építmények.
 
@@ -16,29 +16,29 @@
 
 ## A természetes vizek, közcélú vízilétesítmények és a közlekedési területek (például utak) és építményeik tekintetében - műszaki-gazdasági és vagyongazdálkodási szempontból - a vonal hossza és jellege a döntő, ezért ezen ingatlanoknál a vonalhoz kell az ingatlanvagyon-kataszter (a továbbiakban: kataszter) helyrajzi szám szerinti gyűjtését rendezni.
 
-## Az ingatlanok területi adatainak (hektár) egyedileg és összesítve meg kell egyezniük a járási hivatal által az önkormányzat nevén nyilvántartott területtel.
+## Az ingatlanok területi adatainak (hektár) egyedileg és összesítve meg kell egyezniük az ingatlan-nyilvántartás által az önkormányzat nevén nyilvántartott területtel.
 
 ## Ingatlan a föld alatt (közterületen) vezetett közterületi közmű is. Ezért a kataszterben az építmények között szerepelniük kell.
 
-## A közterület alatt vezetett közművek a járási hivatal ingatlan-nyilvántartásában nem, csak a közművállalatok, valamint az önkormányzatok számviteli nyilvántartásában szerepelnek. (Nem minősül önkormányzati tulajdonú közműnek a gazdasági társaságba apportált közmű.)
+## A közterület alatt vezetett közművek az ingatlan-nyilvántartásában nem, csak a közművállalatok, valamint az önkormányzatok számviteli nyilvántartásában szerepelnek. (Nem minősül önkormányzati tulajdonú közműnek a gazdasági társaságba apportált közmű.)
 
 ## A kataszternek a valós, természetbeni állapotot kell tartalmaznia. Ennek érdekében hármas követelmény, hogy
 
 ## - a valós természetbeni állapotot tükrözze;
 
-## - a kataszterben szereplő valós állapot és a járási hivatal lapjai között legyen összhang;
+## - a kataszterben szereplő valós állapot és az ingatlan-nyilvántartás lapjai között legyen összhang;
 
 ## - a közműadatok egyezzenek meg a közműnyilvántartás önkormányzati tulajdonra vonatkozó részeivel.
 
 ## A kataszterben feltüntetett épület ingatlanrészek, illetőleg egyéb építmény ingatlanrészek bruttó értékének külön-külön és minden időpontban meg kell egyezni a számvitelben nyilvántartott bruttó értékkel.
 
-## A kataszter felfektetésének kiindulási alapja a járási hivatal okirattára, a tulajdoni lapok és az ingatlan-nyilvántartási térkép.
+## A kataszter felfektetésének kiindulási alapja az ingatlan-nyilvántartás okirattára, a tulajdoni lapok és az ingatlan-nyilvántartási térkép.
 
-## A járási hivatal az önkormányzati tulajdont az 51-53. kódszámon tartja nyilván. Az önkormányzatnak a nem saját illetőségű területén lévő ingatlana tekintetében az ingatlan fekvése szerinti járási hivatallal kell egyeztetnie. Ha a járási hivatal adatai nem egyeznek meg az önkormányzat adataival, a valós helyzetnek megfelelően, a rendezést a járási hivatal felé kezdeményezni kell.
+## Az ingatlan-nyilvántartás az önkormányzati tulajdont az 51-53. kódszámon tartja nyilván. Az önkormányzatnak a nem saját illetőségű területén lévő ingatlana tekintetében az ingatlan fekvése szerinti ingatlanügyi hatósággal kell egyeztetnie. Ha az ingatlanügyi hatóság adatai nem egyeznek meg az önkormányzat adataival, a valós helyzetnek megfelelően, a rendezést az ingatlanügyi hatóság felé kezdeményezni kell.
 
 ## A régebben épült épületek, egyéb építmények műszaki adatai, jellemzői időközben változtak (átalakítás, korszerűsítés stb.), ezért célszerű azoknál a helyszíni felmérés.
 
-## A kataszter szerkezete az építőkocka elvére épül fel. Az „I” Ingatlan adatlap tartalmazza az ingatlanra vonatkozó minden lényeges összesítő, gyűjtő adatot a járási hivatal és a számvitel nyilvántartásaiból. A többi betétlap az ingatlanhoz tartozó föld, épület, építmény jellemzőit tartalmazza. Az „I” Ingatlan adatlaphoz minden esetben kapcsolódik a földre, területre jellemző járási hivatali és építésügyi, településrendezési információ betétlapja. Ez alól kivétel, ha a föld idegen tulajdonú, csak a rajta lévő építmény önkormányzati tulajdonú.
+## A kataszter szerkezete az építőkocka elvére épül fel. Az „I” Ingatlan adatlap tartalmazza az ingatlanra vonatkozó minden lényeges összesítő, gyűjtő adatot az ingatlanügyi hatóság és a számvitel nyilvántartásaiból. A többi betétlap az ingatlanhoz tartozó föld, épület, építmény jellemzőit tartalmazza. Az „I” Ingatlan adatlaphoz minden esetben kapcsolódik a földre, területre jellemző ingatlan-nyilvántartási és építésügyi, településrendezési információ betétlapja. Ez alól kivétel, ha a föld idegen tulajdonú, csak a rajta lévő építmény önkormányzati tulajdonú.
 
 ## A földterületre vonatkozó adatokat 5 betétlap foglalja össze:
 
@@ -88,7 +88,7 @@
 
 ## „P” Egyéb építmények
 
-## A közművek építményeinek megkülönböztetését az indokolja, hogy azok általában rendszert képeznek, művi építményeikhez (föld alatti vagy feletti) vezetékhálózat tartozik. A közművek, valamint a közlekedési műtárgyak betétlapjai az egybetartozó rendszert fogják össze, ezzel megteremtik a járási hivatal és a számvitel adatai között a kapcsolatot.
+## A közművek építményeinek megkülönböztetését az indokolja, hogy azok általában rendszert képeznek, művi építményeikhez (föld alatti vagy feletti) vezetékhálózat tartozik. A közművek, valamint a közlekedési műtárgyak betétlapjai az egybetartozó rendszert fogják össze, ezzel megteremtik az ingatlan-nyilvántartás és a számvitel adatai között a kapcsolatot.
 
 ## Előfordulhat, hogy a vezetékeket és a közlekedési műtárgyakat nem lehet helyrajzi számhoz kötni. Ilyen esetben a megfelelő betétlap önállóan is szerepelhet a kataszterben, az „I” adatlap és az „F”, „U” vagy a „V” a betétlap nélkül.
 
@@ -126,9 +126,9 @@
 
 ## Helyrajzi szám:
 
-## A járási hivatal ingatlan-nyilvántartásából írandó be. A vegyes tulajdonú társasházaknál a közös tulajdonban lévő épület helyrajzi számát kell feltüntetni (pl. 10966/A) és csak a lakás betétlapon kell az adott lakás külön tulajdoni számát szerepeltetni (pl. 10966/A-12).
+## Az ingatlan-nyilvántartásból írandó be. A vegyes tulajdonú társasházaknál a közös tulajdonban lévő épület helyrajzi számát kell feltüntetni (pl. 10966/A) és csak a lakás betétlapon kell az adott lakás külön tulajdoni számát szerepeltetni (pl. 10966/A-12).
 
-## Amennyiben az ingatlan a járási hivatal ingatlan-nyilvántartásában nem - csak a számviteli nyilvántartásban - szerepel, és helyrajzi számhoz sem köthető, akkor a helyrajzi szám rovatába végig nullát kell beírni.
+## Amennyiben az ingatlan az ingatlan-nyilvántartásban nem - csak a számviteli nyilvántartásban - szerepel, és helyrajzi számhoz sem köthető, akkor a helyrajzi szám rovatába végig nullát kell beírni.
 
 ## Borítólap
 
@@ -156,7 +156,7 @@
 
 ## 13. sor: A kulturális örökségvédelmi, illetve természetvédelmi védettség kitöltése a kódjegyzék alapján történik. A sorba kötelező beírni a műemléki, természetvédelmi törzsszámot, nyilvántartott, továbbá védetté nyilvánított régészeti lelőhely és nyilvántartott műemléki érték esetén a lelőhely, illetve műemléki érték egyedi azonosító számát is. Ha az ingatlan-nyilvántartásban nem egyértelműen rögzítettek a kulturális örökségvédelmet, természetvédelmet érintő adatok, akkor külön egyeztetés szükséges kulturális örökségvédelmi érintettség esetén a hatósági nyilvántartást vezető Kulturális örökség védelméért felelős miniszterrel, illetve a természetvédelmi hatósággal.
 
-## 14. sor: A tulajdonszerzés jogcímeit a kódjegyzék tartalmazza. Ha az ingatlan adatfelvételére olyan időpontban kerül sor, amikor az épület vagy építmény már üzembe helyezésre került, bekerülési értéket a számvitel nyilvántartásába vette, de a járási hivatal az ingatlan-nyilvántartásba még nem jegyezte be, addig az ismert adatok kitöltése mellett rendezetlennek tekinthető a kataszter nyilvántartása. A borítólap megjegyzésre szolgáló oldalán a járási hivatali rendezés szükségességét (okát) fel kell vezetni, és mindaddig számon tartani, míg a járási hivatali bejegyzés nem történt meg.
+## 14. sor: A tulajdonszerzés jogcímeit a kódjegyzék tartalmazza. Ha az ingatlan adatfelvételére olyan időpontban kerül sor, amikor az épület vagy építmény már üzembe helyezésre került, bekerülési értéket a számvitel nyilvántartásába vette, de az ingatlanügyi hatóság az ingatlan-nyilvántartásba még nem jegyezte be, addig az ismert adatok kitöltése mellett rendezetlennek tekinthető a kataszter nyilvántartása. A borítólap megjegyzésre szolgáló oldalán az ingatlan-nyilvántartási rendezés szükségességét (okát) fel kell vezetni, és mindaddig számon tartani, míg az ingatlan-nyilvántartási bejegyzés nem történt meg.
 
 ## 16. sor: Akkor kell kitölteni, ha az ingatlan teljes egészében önkormányzati tulajdonú, jelölése: 1/1. Amennyiben az önkormányzat csak résztulajdonos, akkor a lap második oldalán (hátlapján) lévő résztulajdonosi adatokat kell kitölteni.
 
@@ -278,7 +278,7 @@
 
 ## Az útkereszteződéseket a kataszterben csak egyszer szabad számba venni.
 
-## A járási hivatal ingatlan-nyilvántartási térképén a helyrajzi számozás az út rendűségének megfelelően történik, vagyis az útkereszteződésben mindig a magasabb kategóriába tartozó út folyamatossága biztosítandó.
+## Az ingatlan-nyilvántartási térképen a helyrajzi számozás az út rendűségének megfelelően történik, vagyis az útkereszteződésben mindig a magasabb kategóriába tartozó út folyamatossága biztosítandó.
 
 ## A gyalogút, járda is közterület, sok esetben nem önálló ingatlan, és előfordulhat, hogy nem önkormányzati tulajdonú ingatlanon van. A kataszterben az önkormányzati tulajdonú földrészleten lévő gyalogút, járda nyilvántartása kötelező, függetlenül attól, hogy az önálló ingatlanként külön helyrajzi számon szerepel, vagy ha az úttal azonos helyrajzi számon van bejegyezve. Gazdálkodási szempontok miatt a kataszter az önkormányzati tulajdonban lévő gyalogutakon, járdákon túlmenően hatályát azokra a közterületnek minősülő járdákra is kiterjeszti, amelyek más tulajdonában vannak, de kezelési feladatait az önkormányzat látja el. Ebben az esetben ingatlanadatok nélkül, az útvonalhoz a járdanyilvántartás illeszthető.
 
@@ -318,7 +318,7 @@
 
 ## 16-17. sorok: A kiépített parkolóhelyek, illetőleg pihenőhelyek kapacitását az ott parkírozható járművek számával kell számba venni. A kiépített parkolóhelyek, pihenőhelyek számbavétele ajánlott adat. Különösen a parkolóhelyeké, mivel azok a vagyongazdálkodásban nagyrészt hasznosítható területek.
 
-## 18-19. sorok: A kerékpárút lehet csak a kerékpárok közlekedésére szolgáló önálló létesítmény, és lehet közös gyalog- és kerékpárútként épített. A kerékpárút mindig kiépítettnek minősül függetlenül attól, hogy burkolt út vagy tájvédelmi körzetben kavicsolt út. A kerékpárút minden esetben jelzőtáblával kijelölt közlekedési terület.
+## 18-19. sorok: A kerékpárút lehet csak a kerékpárok közlekedésére szolgáló önálló létesítmény, és lehet közös gyalog- és kerékpárútként épített. A kerékpárút mindig kiépítettnek minősül függetlenül attól, hogy burkolt út vagy védett természeti területben kavicsolt út. A kerékpárút minden esetben jelzőtáblával kijelölt közlekedési terület.
 
 ## 20-23. sorok: A betétlapon e sorok csak akkor töltendők ki, ha a járda külön helyrajzi számon szerepel, vagy az úttal azonos helyrajzi számon jegyezték be. A járda jellegét a kódjegyzék tartalmazza.
 
@@ -368,11 +368,11 @@
 
 ## 2. sor: Amennyiben az ingatlannak több címe (utca, házszám) van, akkor a helyszíni beazonosíthatóság érdekében az egyes épületek címe a betétlapon feltüntethető.
 
-## 3. sor: Ezt a sort csak abban az esetben kell kitölteni, ha az épületet a használatbavételi engedély alapján a járási hivatal ingatlan-nyilvántartásába bejegyzett rendeltetési céljától eltérően tartósan más célra használják. A sorban a rendeltetéstől eltérő használat idejét kell a kód alapján beírni. Tartós időszaknak tekinthető az öt éven túli eltérő használat. Ideiglenes használatnak tekinthető, ha öt éven belül várhatóan megszűnik a rendeltetéstől eltérő használat.
+## 3. sor: Ezt a sort csak abban az esetben kell kitölteni, ha az épületet a használatbavételi engedély alapján az ingatlan-nyilvántartásba bejegyzett rendeltetési céljától eltérően tartósan más célra használják. A sorban a rendeltetéstől eltérő használat idejét kell a kód alapján beírni. Tartós időszaknak tekinthető az öt éven túli eltérő használat. Ideiglenes használatnak tekinthető, ha öt éven belül várhatóan megszűnik a rendeltetéstől eltérő használat.
 
 ## 4. sor: Ezt a sort csak abban az esetben kell kitölteni, ha az ingatlanon belül több épület található, és azok forgalomképessége eltér egymástól.
 
-## 5. sor: Az építés éve a használatbavételi engedély időpontja, ha ez nem állapítható meg, akkor a járási hivatalban történt bejegyzés időpontja.
+## 5. sor: Az építés éve a használatbavételi engedély időpontja, ha ez nem állapítható meg, akkor az ingatlan-nyilvántartásba történt bejegyzés időpontja.
 
 ## 6-10. sorok: Kitöltéséhez a fogalomjegyzék az iránymutató.
 
@@ -426,45 +426,45 @@
 
 ## 35. sor: A fogalomjegyzék figyelembevételével kell megállapítani, és a kódjegyzék szerint kell besorolni az építmény állagmutatóját. Kitöltése kötelező.
 
-## Szakmai iskola és egyéb intézmény
+## Kapacitásmutatók a kitöltéshez:
 
-|  | Megnevezés |  | Mutató |  | Megnevezés |  | Mutató |
+| Megnevezés | Mutató | Megnevezés | Mutató |
 
-|  | Óvoda |  | férőhely |  | Művelődési otthon jellegű intézmény |  | férőhely |
+| Óvoda | férőhely | Művelődési otthon jellegű intézmény | férőhely |
 
-|  | Általános iskola |  | tanterem |  | Könyvtár és olvasóterem |  | kötetszám |
+| Általános iskola | tanterem | Könyvtár és olvasóterem | kötetszám |
 
-|  | szakképző iskola |  | tanterem |  | Múzeum |  | 0 |
+| Szakképző iskola | tanterem | Múzeum | 0 |
 
-|  | Gimnázium |  | tanterem |  | Levéltár |  | 0 |
+| Gimnázium | tanterem | Levéltár | 0 |
 
-|  | Technikum |  | tanterem |  | Alkotóház, műterem, restaurátor-műhely |  | 0 |
+| Technikum | tanterem | Alkotóház, műterem, restaurátor-műhely | 0 |
 
-|  | Gyógypedagógiai intézmény |  | férőhely |  | Kiállítási épület |  | 0 |
+| Gyógypedagógiai intézmény | férőhely | Kiállítási épület | 0 |
 
-|  | Egyéb köznevelési intézmény és szakképző intézmény |  | férőhely |  | Színház |  | férőhely |
+| Egyéb köznevelési intézmény és szakképző intézmény | férőhely | Színház | férőhely |
 
-|  | Tanműhely, központi műhely |  | munkahely |  | Filmszínház |  | férőhely |
+| Tanműhely, központi műhely | munkahely | Filmszínház | férőhely |
 
-|  | Oktatási célú sportépület, tornacsarnok, tanuszoda |  | 0 |  | Színház és filmszínház vegyes jelleggel |  | férőhely |
+| Oktatási célú sportépület, tornacsarnok, tanuszoda | 0 | Színház és filmszínház vegyes jelleggel | férőhely |
 
-|  | Kísérleti, kutatási laboratórium |  | munkahely |  | Hangversenyterem |  | férőhely |
+| Kísérleti, kutatási laboratórium | munkahely | Hangversenyterem | férőhely |
 
-|  | Kollégium, diákotthon, diákszálló |  | férőhely |  | Cirkusz, varieté |  | férőhely |
+| Kollégium, diákotthon, diákszálló | férőhely | Cirkusz, varieté | férőhely |
 
-|  | Szakmai iskola és egyéb intézmény |  | tanterem |  | Egyéb szórakoztató üzem (pl. vidámpark) |  | 0 |
+|  |  | Egyéb szórakoztató üzem (pl. vidámpark) | 0 |
 
-|  | Bölcsőde, napközi otthon |  | férőhely |  | Sportcsarnok |  | férőhely |
+| Bölcsőde, napközi otthon | férőhely | Sportcsarnok | férőhely |
 
-|  | Csecsemő-, gyermek- és nevelőotthon |  | férőhely |  | Egyéb sportlétesítmény épülete |  | 0 |
+| Csecsemő-, gyermek- és nevelőotthon | férőhely | Egyéb sportlétesítmény épülete | 0 |
 
-|  | Kórház (diagnosztika), szanatórium, szülőotthon, anyaszállás |  | ágyszám |  | Ápolást, gondozást nyújtó intézmények |  | férőhely |
+| Kórház (diagnosztika), szanatórium, szülőotthon, anyaszállás | ágyszám | Ápolást, gondozást nyújtó intézmények | férőhely |
 
-|  | Egészségház, szakosított rendelő, orvosi rendelő |  | munkahely |  | Rehabilitációs intézmények |  | férőhely |
+| Egészségház, szakosított rendelő, orvosi rendelő | munkahely | Rehabilitációs intézmények | férőhely |
 
-|  | Ifjúsági utógondozó otthon, ifjúsági ház |  | férőhely |  | Átmeneti elhelyezést a nyújtó intézmények |  | férőhely |
+| Ifjúsági utógondozó otthon, ifjúsági ház | férőhely | Átmeneti elhelyezést a nyújtó intézmények | férőhely |
 
-|  | Nappali ellátást nyújtó intézmények |  | férőhely |  | Egyéb szociális intézmények |  | férőhely |
+| Nappali ellátást nyújtó intézmények | férőhely | Egyéb szociális intézmények | férőhely |
 
 ## A köznevelési intézmények, illetve a szakképző intézmények tanterem mutatószámába beleértendők a szaktantermek, szakelőadók száma is.
 
@@ -476,7 +476,7 @@
 
 ## 1. sor: Az épület rendeltetése a kódjegyzék alapján töltendő ki, a megnevezéssel együtt.
 
-## 2. sor: Ezt a sort csak abban az esetben kell kitölteni, ha az épületet a használatbavételi engedély alapján a járási hivatal ingatlan-nyilvántartásába bejegyzett rendeltetési céljától eltérően tartósan más célra használják. A sorban a rendeltetéstől eltérő használat idejét kell a kód alapján beírni. Tartós időszaknak tekinthető az öt éven túli eltérő használat. Ideiglenes használatnak tekinthető, ha öt éven belül várhatóan megszűnik a rendeltetéstől eltérő használat.
+## 2. sor: Ezt a sort csak abban az esetben kell kitölteni, ha az épületet a használatbavételi engedély alapján az ingatlan-nyilvántartásba bejegyzett rendeltetési céljától eltérően tartósan más célra használják. A sorban a rendeltetéstől eltérő használat idejét kell a kód alapján beírni. Tartós időszaknak tekinthető az öt éven túli eltérő használat. Ideiglenes használatnak tekinthető, ha öt éven belül várhatóan megszűnik a rendeltetéstől eltérő használat.
 
 ## 3-14. sorok: Kitöltése azonos az „E” épület betétlap megfelelő soraival.
 
@@ -506,11 +506,11 @@
 
 ## A betétlap tartalmazza a vízmű, illetőleg a csatornamű alaplétesítményeit és vezetékét.
 
-## Az alaplétesítmények - miután felszíniek - önálló helyrajzi számmal rendelkeznek és a járási hivatal nyilvántartásában megjelennek, míg a vezetékek - miután általában terepszint alattiak - abban nem vagy nem teljes körűen szerepelnek.
+## Az alaplétesítmények - miután felszíniek - önálló helyrajzi számmal rendelkeznek és az ingatlan-nyilvántartásban megjelennek, míg a vezetékek - miután általában terepszint alattiak - abban nem vagy nem teljes körűen szerepelnek.
 
 ## A vezetékek (csatornák) nyilvántartását a kataszter emiatt az alapközmű adataihoz rendeli. Az egyes vezetékek ott szerepeltetendők, amely műtől a vezetékek kiindulnak.
 
-## Ha az önkormányzat más településtől vagy állami vállalattól veszi át a vizet és tulajdonába csak a vezetékek egy része tartozik, akkor csak erre kell nyilvántartást vezetni, még akkor is, ha a járási hivatal ingatlan-nyilvántartásában nem szerepel, helyrajzi száma nincs.
+## Ha az önkormányzat más településtől vagy állami vállalattól veszi át a vizet és tulajdonába csak a vezetékek egy része tartozik, akkor csak erre kell nyilvántartást vezetni, még akkor is, ha az ingatlan-nyilvántartásban nem szerepel, helyrajzi száma nincs.
 
 ## Vízellátás alapadatai:
 
@@ -534,7 +534,7 @@
 
 ## Csatorna-ellátás alapadatai:
 
-## Az alapadatok sorrendje a szennyvíz folyásával ellentétes irányú, azért került megfordításra, mert a csatornamű alaplétesítményei a járási hivatal ingatlan-nyilvántartásában minden esetben, míg a csatornahálózat nem minden esetben szerepel. A nyilvántartás alapelve megegyezik a vízellátáséval.
+## Az alapadatok sorrendje a szennyvíz folyásával ellentétes irányú, azért került megfordításra, mert a csatornamű alaplétesítményei az ingatlan-nyilvántartásban minden esetben, míg a csatornahálózat nem minden esetben szerepel. A nyilvántartás alapelve megegyezik a vízellátáséval.
 
 ## 28. sor: A szennyvíztisztítók technológiai rendszer szerinti megkülönböztetését a kódjegyzék tartalmazza.
 
@@ -744,17 +744,17 @@
 
 ## 3. változáskód: Ingatlan eladás
 
-## Alapja az adásvételi szerződés. Ebben az esetben az ingatlanra vonatkozó minden adat kivezetésre és elkülönítésre kerül, az eladás tényének és az ingatlan vevőjének megjelölésével. Az elkülönítés addig szükséges, amíg a járási hivatal határozata nem érkezik meg az új tulajdonos bejegyzéséről.
+## Alapja az adásvételi szerződés. Ebben az esetben az ingatlanra vonatkozó minden adat kivezetésre és elkülönítésre kerül, az eladás tényének és az ingatlan vevőjének megjelölésével. Az elkülönítés addig szükséges, amíg az ingatlanügyi hatóság határozata nem érkezik meg az új tulajdonos bejegyzéséről.
 
 ## 4. változáskód: Részingatlan eladás (tulajdoni hányad változással)
 
 ## Ez az esemény a társasházzá alakított lakóházak esetében gyakori. Az albetétesített lakás, nem lakás célú helyiség kerül eladásra. Amíg egy épületben lévő minden lakás és nem lakás célú helyiség eladásra nem kerül, addig az épület vegyes tulajdonú társasház. Az épület közös szerkezete, berendezései és helyiségei tekintetében az önkormányzat tulajdoni hányada változik.
 
-## Az egyes lakások eladásának tényével változik az „I” ingatlan adatlapon az ingatlan bruttó értéke, az önkormányzati tulajdoni hányad, a kizárólagos tulajdonnak a területe és a tulajdonosok köre. A lakásokról vezetett megfelelő „L” lakás betétlap kivezetésre kerül és a járási hivatal határozatáig a kataszterben elkülönítetten kezelendő.
+## Az egyes lakások eladásának tényével változik az „I” ingatlan adatlapon az ingatlan bruttó értéke, az önkormányzati tulajdoni hányad, a kizárólagos tulajdonnak a területe és a tulajdonosok köre. A lakásokról vezetett megfelelő „L” lakás betétlap kivezetésre kerül és az ingatlanügyi hatóság határozatáig a kataszterben elkülönítetten kezelendő.
 
 ## 6. változáskód: Ingatlan gazdasági társaságba vitele
 
-## Ugyanolyan módon kezelendő a kataszterben, mint az eladás. A számviteli törvény besorolása szerint a gazdasági társaságba apportként bevitelre kerülő ingatlanok az 1. számlaosztályon belül a 12. Ingatlanok csoportjából a 17. Részesedések csoportjába kerül átvezetésre, a járási hivatal ingatlan-nyilvántartásában pedig a 31-37. kódszám alatt, gazdasági társaságok területeként jegyzik be.
+## Ugyanolyan módon kezelendő a kataszterben, mint az eladás. A számviteli törvény besorolása szerint a gazdasági társaságba apportként bevitelre kerülő ingatlanok az 1. számlaosztályon belül a 12. Ingatlanok csoportjából a 17. Részesedések csoportjába kerül átvezetésre, az ingatlan-nyilvántartásban pedig a 31-37. kódszám alatt, gazdasági társaságok területeként jegyzik be.
 
 ## 12. változáskód: Számvitelben felértékelés
 
@@ -762,7 +762,7 @@
 
 ## E kódot abban az esetben használni, ha az önkormányzat tulajdonába érték nélkül került ingatlan és az utóbb felértékelésre került a számviteli nyilvántartásban.
 
-## Megjegyzés: Az ingatlanvagyon-kataszter nem pótolja, illetve nem helyettesíti a 3/1984. (Ép. Ért. 26.) ÉVM utasítással módosított 3/1979. (Ép. Ért. 11.) ÉVM utasítás alapján készült belterületi közműnyilvántartásokat.
+## Megjegyzés: Az ingatlanvagyon-kataszter nem pótolja, illetve nem helyettesíti a belterületi közműnyilvántartásokat.
 
 3. számú melléklet a 147/1992. (XI. 6.) Korm. rendelethez[^11]
 
@@ -932,7 +932,7 @@ I 17–26. Ingatlanra bejegyzett jogok és tények:
 
 12: bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom, egyéb építésügyi korlátozás
 
-13: fellebbezés és földhivatali határozat elleni bírósági jogorvoslati kérelem
+13[^12]: földhivatali határozat elleni bírósági jogorvoslati kérelem
 
 14: szerződésen vagy végintézkedésen alapuló elidegenítési és terhelési tilalom
 
@@ -2493,3 +2493,4 @@ M 3. Változás kódja:
 14: számvitelben a 12. számlacsoportból a 16. számlacsoportba átvezetve
 
 [^11]: A 3. számú melléklet a 48/2001. (III. 27.) Korm. rendelet 2. §-ával megállapított, a 33/2006. (II. 15.) Korm. rendelet 5. § (1) és (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2006. február 23. napján első fokú határozattal el nem bírált ügyekben is alkalmazni kell.
+[^12]: A 3. számú melléklet I 17–26. Ingatlanra bejegyzett jogok és tények pont 13. alpontja a 360/2019. (XII. 30.) Korm. rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
