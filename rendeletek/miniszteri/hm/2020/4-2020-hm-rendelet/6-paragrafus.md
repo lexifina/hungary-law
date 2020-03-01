@@ -1,3 +1,3 @@
-## 5. § Az R. a következő 26/D. §-sal egészül ki:
+## 5. §[^6]
 
-## „26/D. § A 26/A–26/C. §-ban meghatározott tanfolyamok alól a szakmai felelős mentesítést adhat, a külföldön megszerzett, szakmai felelős által megfeleltetett tanfolyami végzettség, illetve szakbeosztások huzamos ideig történő ellátása során szerzett tapasztalatokra való tekintettel.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

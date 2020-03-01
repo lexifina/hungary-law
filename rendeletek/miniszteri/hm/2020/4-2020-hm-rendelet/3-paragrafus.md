@@ -1,1 +1,3 @@
-## „(2a) A (2) bekezdés szerinti bejelentést a honvédelmi szervezet személyügyi szervének vezetője részére meg kell küldeni annak a személyügyi nyilvántartásban történő tárolása céljából.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

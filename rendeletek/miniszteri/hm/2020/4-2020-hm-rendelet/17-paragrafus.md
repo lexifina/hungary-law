@@ -1,13 +1,18 @@
-## 16. § Az R. a következő 286/C. §-sal egészül ki:
+## 16. §[^17]
 
-## „286/C. § E rendeletnek a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet módosításáról szóló 4/2020. (II. 28.) HM rendelettel megállapított 26/B. § (3a) bekezdését, 26/D. §-át, 174. § (1), (4) és (5) bekezdését 2020. január 1-jétől kell alkalmazni.”
+17. § (1)[^18]
 
-17. § (1) Az R. 1. melléklete az 1. melléklet szerint módosul.
+(2)[^19]
 
-(2) Az R. 2. melléklete a 2. melléklet szerint módosul.
+(3)[^20]
 
-(3) Az R. 4. melléklete a 3. melléklet szerint módosul.
+(4)[^21]
 
-(4) Az R. 5. melléklete helyébe a 4. melléklet lép.
+(5)[^22]
 
-(5) Az R. 15. melléklete az 5. melléklet szerint módosul.
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

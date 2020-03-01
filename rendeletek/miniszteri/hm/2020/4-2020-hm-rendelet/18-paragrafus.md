@@ -1,23 +1,35 @@
-## 18. § Az R.
+## 18. §
 
-a) 1. § 14. pontjában a „felelős honvédelmi” szövegrész helyébe a „felelős személy, honvédelmi” szöveg,
+a)[^23]
 
-b) 2. § (5) bekezdésében a „beosztást vagy munkakört” szövegrész helyébe a „beosztást, munkakört vagy álláshelyet” szöveg,
+b)[^24]
 
-c) 3. § (2) bekezdés c) pontjában a „Hjt.” szövegrész helyébe a „honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.)” szöveg,
+c)[^25]
 
-d) 3. § (2) bekezdés h) pontjában a „KNBSZ” szövegrész helyébe a „Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ)” szöveg,
+d)[^26]
 
-e) 24. § (1) bekezdésében a „kormányzati szolgálati” szövegrész helyébe a „közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati” szöveg,
+e)[^27]
 
-f) 155. § (2) bekezdésében és 258. §-ában az „a HVKF” szövegrész helyébe az „az MH PK” szöveg,
+f)[^28]
 
-g) 155. § (3) bekezdésében az „A HVKF” szövegrész helyébe az „Az MH PK” szöveg,
+g)[^29]
 
-h) 157. § (1) bekezdésében és 162. § (3) bekezdésében az „5 napon” szövegrész helyébe az „5 munkanapon” szöveg,
+h)[^30]
 
-i) 166. § (2) bekezdésében az „a 26/A–26/C. §” szövegrész helyébe az „a 18. § (2) és (2a) bekezdése, a 26/A–26/C. §” szöveg,
+i)[^31]
 
-j) 247. § (1) bekezdésében a „megelőzően előzetesen” szövegrész helyébe a „megelőzően 30 nappal előzetesen” szöveg,
+j)[^32]
 
-k) 256. § (5) bekezdés a) pontjában a „postai úton és” szövegrész helyébe a „postai úton vagy” szöveg
+k)[^33]
+
+[^23]: A 18. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 18. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 18. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 18. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 18. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 18. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 18. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 18. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 18. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 18. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 18. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

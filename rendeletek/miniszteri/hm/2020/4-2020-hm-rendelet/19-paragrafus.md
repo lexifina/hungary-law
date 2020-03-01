@@ -1,15 +1,20 @@
-## lép.
+## 19. §
 
-## 19. § Hatályát veszti az R.
+a)[^34]
 
-a) 67. § (2) bekezdésében az „és kormánytisztviselői” szövegrész,
+b)[^35]
 
-b) 103. § (1) bekezdés a) pontja,
+c)[^36]
 
-c) 103. § (1) bekezdés d) pontjában az „az a) pontban foglaltaktól eltérően, kizárólag a HM-be kirendelt – vagy kirendelni tervezett – állomány esetében” szövegrész,
+d)[^37]
 
-d) 129. § (2) bekezdése,
+e)[^38]
 
-e) 166. § (2) bekezdésében az „a 17/A. § (1) bekezdés b) pontja és (2) bekezdés d) pontja,” szövegrész,
+f)[^39]
 
-f) 286/B. §-ában az „(a továbbiakban: Módr.)” szövegrész.
+[^34]: A 19. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 19. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 19. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 19. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 19. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 19. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

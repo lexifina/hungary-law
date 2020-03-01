@@ -1,3 +1,3 @@
-## 3. § Az R. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(2) A jogszabály alapján alapkiképzésre kötelezettek esetében az alapkiképzés végrehajtása alól a kiképzésért felelős szervezet által meghatározott feltételek fennállása esetén a szolgálati viszony létesítésére vonatkozó munkáltatói jogkört gyakorló mentesítést engedélyezhet.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

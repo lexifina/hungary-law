@@ -1,3 +1,3 @@
-## 15. § Az R. 244. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^16]
 
-## „(4) Az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátásakor az állományilletékes honvédelmi szervezet átadja részére a tényleges katonai szolgálat lefolyásáról szóló igazolást, és erről tájékoztatja az önkéntes tartalékos katona munkáltatóját.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

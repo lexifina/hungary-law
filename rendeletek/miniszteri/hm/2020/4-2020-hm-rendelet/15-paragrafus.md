@@ -1,7 +1,3 @@
-## 14. § Az R. 241. § (1) bekezdése a következő d) ponttal egészül ki:
+## 14. §[^15]
 
-## [A Hjt. 215. § (1) és (2) bekezdése esetén az önkéntes tartalékos szolgálati viszony megszűnéséről külön határozat vagy parancs nem készül. Az önkéntes tartalékos szolgálati viszony]
-
-## „d) a Hjt. 215. § (1) bekezdés e) pontja esetén a honvédelmi alkalmazotti jogviszony létesítését megelőző napon”
-
-## (szűnik meg.)
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
