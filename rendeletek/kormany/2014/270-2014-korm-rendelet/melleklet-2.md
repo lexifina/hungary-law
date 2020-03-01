@@ -4,23 +4,23 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem megvalósítására irányuló beruházás | Fertőd 323/1 helyrajzi számon nyilvántartott földrészlet | általános építésügyi hatósági engedélyezési eljárások | Soproni Járási Hivatal |
+| 2. | A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem megvalósítására irányuló beruházás | Fertőd 323/1 helyrajzi számon nyilvántartott földrészlet | általános építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 5. | útügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 5. | útügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 7. | vízügyi és vízvédelmi hatósági eljárások | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Soproni Járási Hivatal |
+| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 10. | talajvédelmi hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatala |
+| 10. | talajvédelmi hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
