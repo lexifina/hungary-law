@@ -11,6 +11,6 @@
 (4)[^20]
 
 [^17]: A 28–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 30. § (2) bekezdése a 18/2019. (XII. 12.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^19]: A 30. § (3) bekezdése a 18/2019. (XII. 12.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^20]: A 30. § (4) bekezdését a 18/2019. (XII. 12.) PM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^18]: A 30. § (2) bekezdése a 10/2019. (XII. 12.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^19]: A 30. § (3) bekezdése a 10/2019. (XII. 12.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^20]: A 30. § (4) bekezdését a 10/2019. (XII. 12.) PM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
