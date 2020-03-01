@@ -4,11 +4,11 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Tüskecsarnok beruházási program | Budapest XI. kerület 4082/23 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatala |
+| 2. | Tüskecsarnok beruházási program | Budapest XI. kerület 4082/23 helyrajzi számú terület, illetve ezen területből telekalakítás folytán kialakított terület | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
@@ -16,9 +16,9 @@
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
@@ -28,6 +28,6 @@
 
 | 13 | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^13]
+2. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^14]
 
-[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 47. § d) pontja hatályon kívül helyezte.
+[^14]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 47. § d) pontja hatályon kívül helyezte.

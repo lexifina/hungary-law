@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-32-20-2
 | 2017-01-01 | 2012-32-20-22.10 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2012-32-20-22.11 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2012-32-20-22.12 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2020-03-01 | 2012-32-20-22.13 | 428/2020. (IX. 10.) Korm. rendelet |

@@ -1,3 +1,3 @@
-1. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^12]
+1. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^13]
 
-[^12]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 25. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 46. §-a és 47. § c) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 96. §-át.
