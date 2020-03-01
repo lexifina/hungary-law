@@ -1,3 +1,3 @@
 1. melléklet a 239/2014. (IX. 18.) Korm. rendelethez[^6]
 
-[^6]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 84. § a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 157. §-a és 158. § c) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 63. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
