@@ -4,21 +4,21 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Nemzeti Edzésközpont megvalósítására irányuló beruházás | Budapest III. kerület, 16155/4 helyrajzi számú, természetben a Folyondár utca 15. szám alatt fekvő ingatlan | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala I. Kerületi Hivatala |
+| 2. | Nemzeti Edzésközpont megvalósítására irányuló beruházás | Budapest III. kerület, 16155/4 helyrajzi számú, természetben a Folyondár utca 15. szám alatt fekvő ingatlan | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 6. | vízügyi és vízvédelmi hatósági eljárások | Fővárosi Katasztrófavédelmi Igazgatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
+| 8. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
 
