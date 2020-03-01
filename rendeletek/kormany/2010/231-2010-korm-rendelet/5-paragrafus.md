@@ -1,4 +1,4 @@
-5. § (1)[^13] A 2. § (1) bekezdése szerinti ültetvények kivágását az 1. melléklet szerinti adattartalommal a kivágást követő egy hónapon belül a földrészlet tulajdonosának vagy használójának be kell jelentenie a hatóságnak. A bejelentést követő 8 munkanapon belül a kivágások földrészletre vonatkozó adatairól az engedélyező hatóság értesíti a földmérési és térinformatikai államigazgatási szervet a VINGIS rendszerben való rögzítés céljából, valamint a NÉBIH-et.
+5. § (1)[^13] A 2. § (1) bekezdése szerinti ültetvények kivágását az 1. melléklet szerinti adattartalommal a kivágást követő egy hónapon belül a földrészlet tulajdonosának vagy használójának be kell jelentenie a hatóságnak. A bejelentést követő 8 munkanapon belül a kivágások földrészletre vonatkozó adatairól a hatóság értesíti a földmérési és térinformatikai államigazgatási szervet a VINGIS rendszerben való rögzítés céljából, valamint a NÉBIH-et.
 
 (2)[^14] A hatóság a telepítések és kivágások összesített adatairól évente február 15-ig jelentést küld az élelmiszerlánc-felügyeletért felelős miniszter részére.
 
