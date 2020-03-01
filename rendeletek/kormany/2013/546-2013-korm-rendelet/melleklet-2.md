@@ -1,3 +1,5 @@
-2. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^27]
+2. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^32]
 
-[^27]: A 2. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 380/2016. (XII. 2.) Korm. rendelet 63. § (1) bekezdés a) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 63. § a) pontja, a 458/2017. (XII. 28.) Korm. rendelet 120. §-a és 121. § f) és g) pontja szerint módosított szöveg.
+Az 1. § (1) bekezdés b) pontjában meghatározott beruházások megvalósításához szükséges hatósági eljárások lefolytatására hatáskörrel rendelkező hatóságok
+
+[^32]: A 2. melléklet a 361/2019. (XII. 30.) Korm. rendelet – 31/2020. (II. 29.) Korm. rendelet 22. §-a szerint módosított – 51. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
