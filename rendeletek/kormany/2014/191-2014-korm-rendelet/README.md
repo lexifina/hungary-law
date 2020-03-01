@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-191-20-
 | 2018-10-14 | 2014-191-20-22.9 | 186/2018. (X. 9.) Korm. rendelet |
 | 2019-07-01 | 2014-191-20-22.10 | 523/2017. (XII. 29.) Korm. rendelet |
 | 2020-01-01 | 2014-191-20-22.11 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-03-01 | 2014-191-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
