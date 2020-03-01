@@ -8,4 +8,4 @@
 
 (4) Az egyszerűsített hatósági ellenőrzési hatáskörében eljárva a járási hivatal az e törvényben és az egyszerűsített hatósági ellenőrzésre vonatkozó kormányrendeletben meghatározott eljárási szabályokat alkalmazza.
 
-(5) A járási hivatal egyszerűsített hatósági ellenőrzési hatáskörben hozott döntésével szemben fellebbezésnek nincs helye.
+(5)
