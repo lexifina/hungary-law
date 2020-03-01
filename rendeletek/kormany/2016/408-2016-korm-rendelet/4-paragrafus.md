@@ -1,4 +1,4 @@
-## 4. § A megyei kormányhivatal természetvédelmi, környezetvédelmi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, erdészeti, vadászati és halgazdálkodási feladatkörében eljáró járási hivatala (a továbbiakban: járási hivatal), valamint az országos illetékességgel első fokon eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság, halgazdálkodási hatóság és természetvédelmi hatóság – a hatáskörébe tartozó ügyekben – ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
+## 4. §[^8] A természetvédelmi, környezetvédelmi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, erdészeti, vadászati és halgazdálkodási feladatkörében eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az országos illetékességgel eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság, halgazdálkodási hatóság és természetvédelmi hatóság – a hatáskörébe tartozó ügyekben – ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
 
 a) 8. cikke szerinti engedélyezéssel,
 
@@ -15,3 +15,5 @@ f) 20. cikke szerinti helyreállítási intézkedésekkel,
 g) 31. cikke szerinti eljárásokkal és
 
 h) 32. cikke szerinti engedélyezéssel
+
+[^8]: A 4. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
