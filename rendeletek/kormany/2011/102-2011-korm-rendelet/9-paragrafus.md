@@ -2,7 +2,7 @@
 
 ## 5. A támogatás felhasználása
 
-9. § (1)[^51] A támogatás felhasználása
+9. § (1)[^50] A támogatás felhasználása
 
 a) a 4. § (1) bekezdés a) pontja szerinti esetben a 9/A. § szerint kiválasztott közreműködő szervezettel vagy annak a konzorciumi szerződésben megjelölt tagjával (a továbbiakban együtt: közreműködő szervezet) kötött adásvételi szerződés keretében,
 
@@ -12,10 +12,10 @@ c) az a) és b) pont alá nem tartozó esetben a hivatal által kiállított uta
 
 történik.
 
-(2)[^52] A támogatás felhasználása során az adásvételi szerződést a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személlyel kell megkötni, az utalványt pedig a súlyos mozgáskorlátozott személy nevére kell kiállítani (a továbbiakban együtt: szerzési támogatás jogosultja).
+(2)[^51] A támogatás felhasználása során az adásvételi szerződést a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személlyel kell megkötni, az utalványt pedig a súlyos mozgáskorlátozott személy nevére kell kiállítani (a továbbiakban együtt: szerzési támogatás jogosultja).
 
-(3)[^53] A hivatal a támogatást megállapító határozatát közli a miniszterrel, valamint a közreműködő szervezettel.
+(3)[^52] A hivatal a támogatást megállapító határozatát közli a miniszterrel, valamint a közreműködő szervezettel.
 
-[^51]: A 9. § (1) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^52]: A 9. § (2) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 6. §-ával megállapított, a 402/2017. (XII. 15.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^53]: A 9. § (3) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^50]: A 9. § (1) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^51]: A 9. § (2) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 6. §-ával megállapított, a 402/2017. (XII. 15.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^52]: A 9. § (3) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
