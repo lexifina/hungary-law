@@ -6,35 +6,35 @@
 
 | 2. | szivárgó építés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 0+000 - 15+195 tkm közötti szakaszán töltéskorona stabilizáció, belterületi szakaszon mentett oldali zárt szivárgó létesítése kb. 2000 fm hosszban | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 3. | töltéserősítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 15+195 - 30+253 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 3. | töltéserősítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 15+195 - 30+253 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 4. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
 | 5. | szivárgó építés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, 15+195 - 30+253 tkm közötti szakaszán kb. 2000 fm hosszban belterületi szakaszon mentett oldali zárt szivárgó létesítése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 6. | új védvonal kiépítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, kb. 4,5 km hosszú új árvízvédelmi töltés építése, Dunaszentpál település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 6. | új védvonal kiépítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, kb. 4,5 km hosszú új árvízvédelmi töltés építése, Dunaszentpál település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 7. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
 | 8. | pontszerű fejlesztések | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz 8+194 - 9+980 tkm közötti szakaszán pontszerű kiépítettség hiányok megszüntetése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 9. | töltéserősítés | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, 9+980 - 30+569 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 9. | töltéserősítés | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, 9+980 - 30+569 tkm közötti szakaszán töltéserősítés az előírásoknak megfelelő keresztmetszet kialakítása, töltéskorona stabilizáció | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 10. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 11. | új védvonal kiépítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, kb. 4,8 km hosszú új árvízvédelmi töltés építése, Mecsér település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 11. | új védvonal kiépítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, kb. 4,8 km hosszú új árvízvédelmi töltés építése, Mecsér település árvízvédelme | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 12. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 13. | töltéserősítés | 01.11. Győr- Koroncói árvízvédelmi szakasz, Likócsi szakaszán töltéserősítés 1000 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 13. | töltéserősítés | 01.11. Győr- Koroncói árvízvédelmi szakasz, Likócsi szakaszán töltéserősítés 1000 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 14. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 15. | új védvonal kiépítése | 01.11. Győr- Koroncói árvízvédelmi szakasz, Likócsi szakaszán új védvonal építése kb. 800 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 15. | új védvonal kiépítése | 01.11. Győr- Koroncói árvízvédelmi szakasz, Likócsi szakaszán új védvonal építése kb. 800 fm hosszban az előírásoknak megfelelő keresztmetszet kialakítása | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 16. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 17. | műtárgy átépítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszegi zsilip átépítése hallépcső készítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 17. | műtárgy átépítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszegi zsilip átépítése hallépcső készítése | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 18. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -46,7 +46,7 @@
 
 | 22. | műtárgy átépítés | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Püspökerdei-holtág beeresztő zsilip átépítése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 23. | új zsilip létesítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszentpál új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 23. | új zsilip létesítése | 01.05. Vének- Dunaszentpál árvízvédelmi szakasz, Dunaszentpál új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 24. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -58,15 +58,15 @@
 
 | 28. | műtárgy átépítés | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, Rendeki zsilip átépítése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 29. | új zsilip létesítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, Mecsér új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 29. | új zsilip létesítése | 01.07. Mosoni-Duna - Rábca-menti árvízvédelmi szakasz, Mecsér új árvízvédelmi zsilip létesítése | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 30. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 31. | új árvízkapu létesítése | 01.11. Győr- Koroncói árvízvédelmi szakasz, Iparcsatorna torkolatában új árvízkapu létesítése | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 31. | új árvízkapu létesítése | 01.11. Győr- Koroncói árvízvédelmi szakasz, Iparcsatorna torkolatában új árvízkapu létesítése | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 32. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 33. | új töltés építés | a Nagy Duna bp. 9+650- 10+682 tkm (Dunavecse) szakaszán, a töltés nyomvonalának áthelyezése, ~220 m hosszú mentetlen oldali magánterület kisajátításával, a vízoldal felé | előzetes vizsgálati dokumentáció | illetékes járási hivatal |
+| 33. | új töltés építés | a Nagy Duna bp. 9+650- 10+682 tkm (Dunavecse) szakaszán, a töltés nyomvonalának áthelyezése, ~220 m hosszú mentetlen oldali magánterület kisajátításával, a vízoldal felé | előzetes vizsgálati dokumentáció | illetékes kormányhivatal |
 
 | 34. | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -236,7 +236,7 @@
 
 | 117. | műtárgy rekonstrukció | Duna jp. 63+699 tkm Tüzéptelepi rekonstrukciója, acél- és vasbeton szerkezetek felújítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 118. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Megyei Kormányhivatal Szekszárdi Járási Hivatala |
+| 118. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Megyei Kormányhivatal |
 
 | 119. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Budapest Főváros Kormányhivatala |
 
