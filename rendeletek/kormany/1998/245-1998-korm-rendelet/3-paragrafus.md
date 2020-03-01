@@ -1,3 +1,0 @@
-## 2. §[^5] A jegyző, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) az állattartót az állat megfelelő és biztonságos elhelyezése, valamint szökésének megakadályozása érdekében meghatározott építési munka elvégzésére kötelezheti, amely eljárásba szakhatóságként bevonja a járási állat-egészségügyi és élelmiszer-ellenőrző hivatalt annak elbírálása kérdésében, hogy az állatotthonban az állattartás körülményei megfelelnek-e az állatvédelmi és a járványügyi követelményeknek.
-
-[^5]: A 2. § a 98/2014. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
