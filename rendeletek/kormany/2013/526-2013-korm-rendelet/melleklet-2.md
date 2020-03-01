@@ -4,25 +4,25 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Kiemelt beruházásként gumiabroncs üzem és annak építményei | Rácalmás város területén fekvő, az ingatlan-nyilvántartás szerinti 053/9 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági eljárások | Dunaújvárosi Járási Hivatal |
+| 2. | Kiemelt beruházásként gumiabroncs üzem és annak építményei | Rácalmás város területén fekvő, az ingatlan-nyilvántartás szerinti 053/9 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások végleges befejezését követően kialakított földrészletek | általános építésügyi hatósági eljárások | Fejér Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Fejér Megyei Kormányhivatal |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 6. | útügyi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal |
 
 | 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Megyei Kormányhivatal |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Dunaújvárosi Járási Hivatal |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Fejér Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Dunaújvárosi Járási Hivatal |
+| 10. | telekalakítási hatósági eljárás | Fejér Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Dunaújvárosi Járási Hivatal |
+| 11. | földmérési hatósági eljárás | Fejér Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
@@ -30,7 +30,7 @@
 
 | 14. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal |
 
-| 15. | talajvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Székesfehérvári Járási Hivatala |
+| 15. | talajvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal |
 
 | 16. | élelmiszerlánc- felügyeleti eljárás | Dunaújvárosi Járási Hivatal |
 
