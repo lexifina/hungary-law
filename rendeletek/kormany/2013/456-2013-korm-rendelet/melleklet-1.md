@@ -1,3 +1,5 @@
 1. melléklet a 456/2013. (XI. 29.) Korm. rendelethez[^12]
 
-[^12]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 54. § (1) bekezdés a) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 60. § a) pontja, a 458/2017. (XII. 28.) Korm. rendelet 101. §-a és 102. § c) pontja szerint módosított szöveg.
+A Takata Safety Systems Hungary Kft. Miskolc területén megvalósuló új gyártóüzemének megvalósításával kapcsolatos nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
+
+[^12]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 43. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
