@@ -286,7 +286,7 @@
 
 | 142 |  | 246482,09 | 553438,77 | 47° 33˘ 18,35" | 17° 45˘ 51,77" |
 
-2. melléklet a 14/2018. (II. 12.) Korm. rendelethez
+2. melléklet a 14/2018. (II. 12.) Korm. rendelethez[^1]
 
 ## Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete világörökségi helyszín világörökségi kezelési terve
 
@@ -682,7 +682,7 @@ d) Az Apátságot egykor körülölelő Szent Márton-hegyi szőlők részleges 
 
 4.1.4.1. A világörökségi helyszín értékeit komplexen kell kezelni, bemutatásukat és az örökségturizmusban képviselt potenciális célpont szerepüket nem csak önmagukban, hanem más értékekkel együtt indokolt fejleszteni.
 
-4.1.4.2. A jellemző feltárulások látószögében – vagyis az M1 autópálya 81. sz. és 82. sz. főút közötti szakasza, a 81. sz. főút Töltéstava–Mezőörs közötti szakasza, a Mezőörs–Tát–Veszprémvarsány és a Pannonhalmi-dombságnak a Pannonhalmi-völgyet Nyugat felől lezáró csanaki vonulatának gerince által határolt területen – megvalósuló tervezés résztvevői számára a világörökségi gondnokság és az örökségvédelmi ügyekben eljáró járási hivatalok, kormányhivatalok közvetítik a helyi építési szabályzatok, szabályozási tervek, szerkezeti tervek, az országos és a megyei területrendezési tervek készítése, illetve felülvizsgálata során
+4.1.4.2. A jellemző feltárulások látószögében – vagyis az M1 autópálya 81. sz. és 82. sz. főút közötti szakasza, a 81. sz. főút Töltéstava–Mezőörs közötti szakasza, a Mezőörs–Tát–Veszprémvarsány és a Pannonhalmi-dombságnak a Pannonhalmi-völgyet Nyugat felől lezáró csanaki vonulatának gerince által határolt területen – megvalósuló tervezés résztvevői számára a világörökségi gondnokság és az örökségvédelmi ügyekben eljáró fővárosi és megyei kormányhivatalok közvetítik a helyi építési szabályzatok, szabályozási tervek, szerkezeti tervek, az országos és a megyei területrendezési tervek készítése, illetve felülvizsgálata során
 
 a) a hagyományos tájkarakter védelmére, a táj jellegének megőrzésére;
 
@@ -827,3 +827,5 @@ b) a mezőgazdasági tevékenységgel összefüggő időjárási és mikroklimat
 c) a vízháztartással, szélsőséges terheléssel kapcsolatos változások követése.
 
 7.5. A világörökségi gondnokságnak a világörökségi helyszín területére a haváriák kezelését szolgáló intézkedési tervet kell kidolgoznia.
+
+[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
