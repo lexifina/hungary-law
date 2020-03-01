@@ -1,6 +1,6 @@
 ## 18. § E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépést követően közzétett eljárásokra kell alkalmazni.
 
-1. számú melléklet a 106/1995. (IX. 8.) Korm. rendelethez[^28]
+1. számú melléklet a 106/1995. (IX. 8.) Korm. rendelethez[^29]
 
 ## Nyilatkozat
 
@@ -174,4 +174,4 @@ Aláírás
 
 cégbélyegző
 
-[^28]: Az 1. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^29]: Az 1. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
