@@ -4,23 +4,23 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Budapest V. kerület Erzsébet téri Erzsébet Kulturális Központ és Park II. ütemének befejezéséhez szükséges beruházás megvalósítása | Budapest V. kerület belterület 24447/1, 24447/2, 24447/3, 24456/2, 24456/3, valamint 24833/1 helyrajzi számú ingatlanok | általános építésügyi hatósági eljárások: a) általános építmények, b) műemléki védelem alatt álló építmények, c) építményen belül, építménybe beépített felvonók, mozgólépcsők, (beleértve a mozgójárdát is), amennyiben létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység is szükséges, d) kapcsolódó területek felszíni rendezése esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | Budapest V. kerület Erzsébet téri Erzsébet Kulturális Központ és Park II. ütemének befejezéséhez szükséges beruházás megvalósítása | Budapest V. kerület belterület 24447/1, 24447/2, 24447/3, 24456/2, 24456/3, valamint 24833/1 helyrajzi számú ingatlanok | általános építésügyi hatósági eljárások: a) általános építmények, b) műemléki védelem alatt álló építmények, c) építményen belül, építménybe beépített felvonók, mozgólépcsők, (beleértve a mozgójárdát is), amennyiben létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység is szükséges, d) kapcsolódó területek felszíni rendezése esetében | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 4. | vízügyi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 6. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 6. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások [a C:2. mező c) pontja szerinti eljárásban elbírálásra kerülő ügyek kivételével] | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások [a C:2. mező c) pontja szerinti eljárásban elbírálásra kerülő ügyek kivételével] | Budapest Főváros Kormányhivatala |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapesti Főváros Kormányhivatala XIV. Kerületi Hivatala |
+| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
@@ -30,7 +30,7 @@
 
 | 14. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 15. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
 | 16. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
 
