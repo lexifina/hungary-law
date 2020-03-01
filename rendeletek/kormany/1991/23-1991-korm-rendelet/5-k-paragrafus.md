@@ -1,9 +1,9 @@
-## 5/J. §[^44] A járadék iránti kérelem elbírálásakor, ha a kérelmező a részére korábban folyósított keresetkiegészítés, átmeneti keresetkiegészítés vagy a megváltozott munkaképességű személyek ellátása megállapítása során felhasznált, az egészségkárosodás mértékének megállapítására vonatkozó szakvéleménnyel, szakhatósági állásfoglalással, határozattal, komplex minősítéssel rendelkezik, annak hatálya alatt az egészségkárosodás, egészségi állapot mértékét nem kell vizsgálni.
+## 5/J. §[^45] A járadék iránti kérelem elbírálásakor, ha a kérelmező a részére korábban folyósított keresetkiegészítés, átmeneti keresetkiegészítés vagy a megváltozott munkaképességű személyek ellátása megállapítása során felhasznált, az egészségkárosodás mértékének megállapítására vonatkozó szakvéleménnyel, szakhatósági állásfoglalással, határozattal, komplex minősítéssel rendelkezik, annak hatálya alatt az egészségkárosodás, egészségi állapot mértékét nem kell vizsgálni.
 
-5/K. §[^45] (1)[^46] A járadékra jogosult tizenöt napon belül köteles értesíteni a járási hivatalt a jogosultsági feltételekben bekövetkezett változásról, valamint arról, ha keresőtevékenységet folytat.
+5/K. §[^46] (1)[^47] A járadékra jogosult tizenöt napon belül köteles értesíteni a kormányhivatalt a jogosultsági feltételekben bekövetkezett változásról, valamint arról, ha keresőtevékenységet folytat.
 
 (2) A bányászok egészségkárosodási járadékának a kereső tevékenységgel összefüggő szüneteltetésére a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/B. § (1) és (2) bekezdésének rendelkezéseit megfelelően alkalmazni kell.
 
-[^44]: Az 5/J. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be, szövege a 426/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 4. § (6) bekezdés f) pontja szerint módosított szöveg.
-[^45]: Az 5/K. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
-[^46]: Az 5/K. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 3. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^45]: Az 5/J. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be, szövege a 426/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 4. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^46]: Az 5/K. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
+[^47]: Az 5/K. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
