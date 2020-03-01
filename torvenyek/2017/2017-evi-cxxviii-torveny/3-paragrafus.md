@@ -8,8 +8,10 @@ c) a törvényen alapuló tartással kapcsolatos perben, ideértve a tartásdíj
 
 d) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, kivéve azt a pert, amelyben a felet tárgyi illetékfeljegyzési jog illeti meg,
 
-e) a bányakár megtérítése iránti perben, és
+e) a bányakár megtérítése iránti perben,
 
-f) a személy életének, testi épségének vagy egészségének bűncselekménnyel történő megsértése miatti kár megtérítése, illetve sérelemdíj megfizetése iránt indított perben.
+f) a személy életének, testi épségének vagy egészségének bűncselekménnyel történő megsértése miatti kár megtérítése, illetve sérelemdíj megfizetése iránt indított perben, és
+
+g) a kapcsolattartásra vonatkozó határozat végrehajtása iránti nemperes eljárásban.
 
 (2) A tárgyi költségfeljegyzési jog nem mentesít a származás megállapításához szükséges orvosszakértői vizsgálat költségének előlegezése alól.
