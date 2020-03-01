@@ -1,6 +1,6 @@
 ### 131. § [A marasztalási per eljárási szabályai]
 
-(1) A védiratot a keresetlevél benyújtásától, illetve az alperessel való közlésétől számított harminc napon belül kell előterjeszteni.
+(1) A védiratot – a 40. § (2) bekezdésében meghatározott kivétellel – a keresetlevél benyújtásától, illetve az alperessel való közlésétől számított harminc napon belül kell előterjeszteni.
 
 (2) Szünetelésnek a polgári perrendtartás szabályai szerint van helye, ha a felek azt közösen kérik. Az eljárás a kérelem bírósághoz érkezésétől kezdve szünetel.
 
