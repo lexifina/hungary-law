@@ -1,3 +1,3 @@
 1. melléklet a 267/2012. (IX. 20.) Korm. rendelethez[^10]
 
-[^10]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 30. § (1) bekezdés a) pontjával megállapított és (2) bekezdés a) pontja, a 162/2017. (VI. 28.) Korm. rendelet 42. § a) pontja, a 458/2017. (XII. 28.) Korm. rendelet 55. §-a és 56. § d)–e) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
