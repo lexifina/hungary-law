@@ -1,3 +1,3 @@
-## 2. §[^2] A Kormány az 1. melléklet 2., 3. és 4. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát jelöli ki.
+## 2. §[^2]
 
-[^2]: A 2. § a 458/2017. (XII. 28.) Korm. rendelet 258. §-ával megállapított szöveg.
+[^2]: A 2. §-t a 361/2019. (XII. 30.) Korm. rendelet 83. §-a hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
