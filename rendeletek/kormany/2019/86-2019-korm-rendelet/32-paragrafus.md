@@ -10,4 +10,6 @@ c) elkészíti és a miniszter részére megküldi a fővárosi és megyei korm�
 
 d) gondoskodik a jogszabályban előírt belső szabályzatok elkészítéséről,
 
-e) kijelöli a társadalombiztosítási határozat felülvizsgálata iránt indított perben a képviseletre jogosult személyt, ha a közigazgatási perrel érintett társadalombiztosítási határozatot első fokon a járási hivatal vagy a fővárosi és megyei kormányhivatal hozta, és a közigazgatási pert az elsőfokú döntést hozó szervvel szemben kell megindítani.
+e)[^7]
+
+[^7]: A 32. § e) pontját a 30/2020. (II. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.

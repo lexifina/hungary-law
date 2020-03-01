@@ -12,7 +12,7 @@ a) átruházott feladatként a kifizető ügynökségi feladatok tekintetében a
 
 b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló kormányrendeletben a megyei kormányhivatalra átruházott feladatokat.
 
-(5) A megyei kormányhivatal megyeszékhely szerinti járási hivatala látja el a kölcsönös megfeleltetéssel összefüggő ellenőrzési feladatokat.
+(5)[^9] A megyei kormányhivatal látja el a kölcsönös megfeleltetéssel összefüggő ellenőrzési feladatokat.
 
 (6) A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Jelnyelvi Tolmácsok Országos Névjegyzékének vezetésével és a Névjegyzéken szereplő jelnyelvi tolmácsok továbbképzésével összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
@@ -24,4 +24,7 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (10) A Kormány a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendeletben és a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendeletben meghatározott irányító hatóságok egyes szakértőt igénylő feladatainak átmeneti ellátására – indokolt esetben – a fővárosi és megyei kormányhivatalokat jelölheti ki összeférhetetlenségi szempont figyelembevételével.
 
-(11) A (4) bekezdésben meghatározott feladatokat Csongrád megye tekintetében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala látja el. Ha jogszabály e feladatok tekintetében megyei kormányhivatalt említ, azon a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát is érteni kell.
+(11)[^10] A (4) bekezdésben meghatározott feladatokat Csongrád megye tekintetében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala látja el. Ha jogszabály e feladatok tekintetében megyei kormányhivatalt említ, azon a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát is érteni kell.
+
+[^9]: A 46. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 46. § (11) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 199. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

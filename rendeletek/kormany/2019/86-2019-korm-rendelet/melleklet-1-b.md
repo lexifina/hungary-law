@@ -42,7 +42,7 @@
 
 | 20. | Zala | Vas |
 
-1/B. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^11]
+1/B. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^19]
 
 Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivatal
 
@@ -522,4 +522,4 @@ helyett eljáró másik járási (fővárosi kerületi) hivatal
 
 | 6. | Zalaegerszeg | Lenti |
 
-[^11]: Az 1/B. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 199. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^19]: Az 1/B. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 199. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.

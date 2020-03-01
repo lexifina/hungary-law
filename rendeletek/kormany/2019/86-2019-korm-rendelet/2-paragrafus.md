@@ -10,4 +10,6 @@
 
 (5) Kormányrendelet a járási hivatal illetékességi területét egyes államigazgatási feladatok tekintetében az 1. mellékletben meghatározott illetékességtől eltérően is megállapíthatja.
 
-(6) Ha kormányrendelet a feladatellátásért felelős szervként, valamint eljáró hatóságként a megyei kormányhivatal megyeszékhely szerinti járási hivatalát jelöli ki, a megyeszékhely szerinti járási hivatal illetékességi területe a járási hivatal székhelye szerinti megyére terjed ki. Kormányrendelet a megyeszékhely szerinti járási hivatal illetékességi területét egyes államigazgatási feladatok tekintetében ettől eltérően is megállapíthatja. Ha kormányrendelet a feladatellátásért felelős szervként, valamint eljáró hatóságként kijelölt fővárosi kerületi hivatalt jelöl ki, a fővárosi kerületi hivatal illetékességi területe Budapest fővárosra terjed ki. Kormányrendelet a kijelölt fővárosi kerületi hivatal illetékességi területét egyes államigazgatási feladatok tekintetében ettől eltérően is megállapíthatja.
+(6)[^2]
+
+[^2]: A 2. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

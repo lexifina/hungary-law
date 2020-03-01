@@ -22,7 +22,7 @@ A kormányablakban azonnal intézhető ügyek
 
 10. Személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás korlátozásáról szóló nyilatkozat megtétele, visszavonása
 
-11. Egyéni vállalkozói igazolvány leadása (szünetelés, adatváltozás, megszűnés miatt)
+11.[^24]
 
 12. Forgalmi engedély cseréjére irányuló kérelem
 
@@ -120,9 +120,10 @@ A kormányablakban azonnal intézhető ügyek
 
 59. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlatának kiadása iránti kérelem
 
-60.[^15] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
+60.[^25] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
 
-61.[^16] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
+61.[^26] Hatósági erkölcsi bizonyítvány kiállítása iránti kérelem
 
-[^15]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
-[^16]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: Az 5. melléklet 11. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^25]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^26]: Az 5. melléklet 61. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.

@@ -2,11 +2,11 @@
 
 A kormányablak saját hatáskörében intézhető ügyek
 
-1. Egyéni vállalkozói igazolvány kiállítása iránti kérelem
+1.[^27]
 
-2. Egyéni vállalkozói igazolvány cseréje iránti kérelem
+2.[^28]
 
-3. Egyéni vállalkozói igazolvány pótlása iránti kérelem
+3.[^29]
 
 4. Egyéni vállalkozói tevékenység megkezdésének bejelentése és nyilvántartásba vétele
 
@@ -79,3 +79,7 @@ A kormányablak saját hatáskörében intézhető ügyek
 38. Származás-ellenőrzés nyilvántartásból adatszolgáltatás iránti kérelem
 
 39. Közúti közlekedési okmánytárból adatszolgáltatás iránti kérelem
+
+[^27]: A 6. melléklet 1. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^28]: A 6. melléklet 2. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^29]: A 6. melléklet 3. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
