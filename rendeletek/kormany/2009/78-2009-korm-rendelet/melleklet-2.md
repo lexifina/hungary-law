@@ -8,21 +8,21 @@
 
 | 3. | átemelő | Budapest XXIII. kerület, a szennyvíztelep kerítése és a Felső Duna part közötti részen | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 4. | környezetvédelmi engedély | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 4. | környezetvédelmi engedély | Pest Megyei Kormányhivatal |
 
 | 5. | meder alatti átvezetés és csatornaépítés | Budapest XXIII-XXI. kerületek | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 6. | környezetvédelmi engedély | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 6. | környezetvédelmi engedély | Pest Megyei Kormányhivatal |
 
 | 7. | 2. Műtárgy-rekonstrukció projektelem |
 
 | 8. | többfunkciójú vízleeresztő műtárgy | Tass | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 9. | környezetvédelmi engedély | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 9. | környezetvédelmi engedély | Bács-Kiskun Megyei Kormányhivatal |
 
 | 10. | többfunkciójú vízleeresztő műtárgy | Kvassay zsilip, Budapest IX. és XXI. kerületek | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 11. | környezetvédelmi engedély | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 11. | környezetvédelmi engedély | Pest Megyei Kormányhivatal |
 
 | 12. | 3. Szennyező anyagok kivezetése a parti sávból projektelem |
 
@@ -32,7 +32,7 @@
 
 | 15. | mederkotrás és iszapszikkasztó zagykazetták | RSD főág teljes hosszán, illetve a mellékágakon, kijelölt területenként | vízügyi hatósági engedély | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 16. | környezetvédelmi engedély | illetékes járási hivatal |
+| 16. | környezetvédelmi engedély | illetékes kormányhivatal |
 
 | 17. | 5. Vízimunka, közlekedési korlátozás, rakodási tevékenység |
 
