@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-128-00-00
 | 2018-12-25 | 2018. évi XCVIII. törvény | 2003-128-00-00.34 |
 | 2019-03-15 | 2018. évi CXXXIX. törvény | 2003-128-00-00.35 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2003-128-00-00.36 |
+| 2020-03-01 | 2019. évi CX. törvény | 2003-128-00-00.37 |
