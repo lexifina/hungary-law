@@ -8,9 +8,9 @@
 
 | 2. | szennyvíztisztító telep | Budapest, XXI. ker. (hrsz. 210005- 210020) | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 3. | általános építésügyi hatósági engedély a központi épületre | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 3. | általános építésügyi hatósági engedély a központi épületre | Budapest Főváros Kormányhivatala |
 
-| 4. | külső szállítási infrastruktúra | Budapest, XXI. ker. (hrsz. 209973, 209990, 209996, 210011) | építési engedély | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 4. | külső szállítási infrastruktúra | Budapest, XXI. ker. (hrsz. 209973, 209990, 209996, 210011) | építési engedély | Budapest Főváros Kormányhivatala |
 
 | 5. | főgyűjtő | Budapest, I., III., XI. ker. 7 km hosszúságú főgyűjtője | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -24,7 +24,7 @@
 
 | 10. | Budapest, XI-XXI. ker. összes folyó alatti átvezetése |
 
-| 11. | komposztáló telep | Budapest XVIII. ker. (hrsz. 140018) | általános építésügyi hatósági engedély | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 11. | komposztáló telep | Budapest XVIII. ker. (hrsz. 140018) | általános építésügyi hatósági engedély | Budapest Főváros Kormányhivatala |
 
 ## 2. Zalaegerszeg és térsége szennyvízelvezetés és kezelés
 
