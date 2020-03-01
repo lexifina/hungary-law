@@ -1,4 +1,4 @@
-6. §[^42] (1) A munkáltató – az 5. §-ban foglaltaktól eltérően – adatmódosítás iránti kérelmet nyújt be a Kormányhivatalhoz
+6. §[^43] (1) A munkáltató – az 5. §-ban foglaltaktól eltérően – adatmódosítás iránti kérelmet nyújt be a Kormányhivatalhoz
 
 a) a rehabilitációs akkreditációs tanúsítvány olyan adataiban bekövetkezett változás esetén, amelyek az akkreditáció alapjául szolgáló feltételeket nem érintik,
 
@@ -16,4 +16,4 @@ c) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltat
 
 (3) Az adatmódosítási eljárásban új rehabilitációs akkreditációs tanúsítványt kell kiállítani.
 
-[^42]: A 6. § a 457/2017. (XII. 28.) Korm. rendelet 417. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^43]: A 6. § a 457/2017. (XII. 28.) Korm. rendelet 417. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

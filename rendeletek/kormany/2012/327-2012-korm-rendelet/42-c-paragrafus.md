@@ -2,7 +2,7 @@
 
 42/C. § (1) A pályázaton kizárólag egyéni támogatásban részesülő munkáltató vehet részt.
 
-(2)[^168] A pályázati felhívást legalább a benyújtási határidőt 30 nappal megelőzően közzé kell tenni a miniszter által vezetett minisztérium, valamint a Kormányhivatal honlapján.
+(2)[^169] A pályázati felhívást legalább a benyújtási határidőt 30 nappal megelőzően közzé kell tenni a miniszter által vezetett minisztérium, valamint a Kormányhivatal honlapján.
 
 (3) A pályázati felhívásnak tartalmaznia kell:
 
@@ -28,4 +28,4 @@ j) a pályázat benyújtásának helyét és határidejét, a pályázat elbír�
 
 k) a munkahely-teremtési támogatás keretében elszámolható költségek körét.
 
-[^168]: A 42/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^169]: A 42/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.

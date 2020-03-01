@@ -1,6 +1,6 @@
 ## 28/C. A munkahely-teremtési szerződés szabályai
 
-## 42/E. §[^172] A munkahely-teremtési szerződést a Kormányhivatal köti meg. A szerződésben meg kell határozni
+## 42/E. §[^173] A munkahely-teremtési szerződést a Kormányhivatal köti meg. A szerződésben meg kell határozni
 
 a) a támogatás tárgyát,
 
@@ -16,4 +16,4 @@ f) a szerződés megszűnésének és megszüntetésének feltételeit, valamint
 
 g) a támogatás visszafizetésének részletes szabályait.
 
-[^172]: A 42/E. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^173]: A 42/E. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.

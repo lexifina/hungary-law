@@ -66,7 +66,7 @@
 
 A negatív értékelőpontok keretei a munkáltatói kötelezettségek megszegésének egyes eseteiben
 
-a)[^210] a munkaszerződés, a munkaköri leírás, illetve a munka törvénykönyvéről szóló 2012. évi I. törvény 46. §-ában előírt írásbeli tájékoztatás hiánya vagy hiányosságai (1–4 pont),
+a)[^211] a munkaszerződés, a munkaköri leírás, illetve a munka törvénykönyvéről szóló 2012. évi I. törvény 46. §-ában előírt írásbeli tájékoztatás hiánya vagy hiányosságai (1–4 pont),
 
 b) szabályszegések a jelenléti ív, munkaidő- és szabadság nyilvántartás, pihenőidő tekintetében (1–4 pont),
 
@@ -76,7 +76,7 @@ d) az irányítási, döntési folyamatok szabályozottságának hiányosságai 
 
 e) cégmegjelölés, cégtábla hiánya (1 pont),
 
-f)[^211] a foglalkozási rehabilitációs szakmai program vagy a személyes rehabilitációs terv hiánya, illetve e dokumentumokban foglaltak gyakorlati megvalósításának hiányosságai (1–4 pont),
+f)[^212] a foglalkozási rehabilitációs szakmai program vagy a személyes rehabilitációs terv hiánya, illetve e dokumentumokban foglaltak gyakorlati megvalósításának hiányosságai (1–4 pont),
 
 g) a rehabilitációs tanácsadó, rehabilitációs mentor foglalkoztatásával, feladatainak ellátásával kapcsolatos hiányosságok (1–4 pont),
 
@@ -84,11 +84,11 @@ h) az előírt akadálymentesítés hiányosságai (1–4 pont),
 
 i) a bejelentési és éves beszámolási kötelezettség elmulasztása, illetve határidőn túli megtétele (1–3 pont),
 
-j)[^212] a munkaköri orvosi alkalmassági vélemény hiánya (1–2 pont),
+j)[^213] a munkaköri orvosi alkalmassági vélemény hiánya (1–2 pont),
 
-k)[^213] a megváltozott munkaképességet igazoló dokumentum hiánya (1–3 pont).
+k)[^214] a megváltozott munkaképességet igazoló dokumentum hiánya (1–3 pont).
 
-[^210]: A 3. melléklet a) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^211]: A 3. melléklet f) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^212]: A 3. melléklet j) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^213]: A 3. melléklet k) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^211]: A 3. melléklet a) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^212]: A 3. melléklet f) pontja a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^213]: A 3. melléklet j) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^214]: A 3. melléklet k) pontját a 335/2013. (IX. 20.) Korm. rendelet 26. § (2) bekezdése iktatta be.

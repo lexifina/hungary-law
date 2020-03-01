@@ -1,3 +1,3 @@
-## 44. §[^176]
+## 44. §[^177]
 
-[^176]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^177]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
