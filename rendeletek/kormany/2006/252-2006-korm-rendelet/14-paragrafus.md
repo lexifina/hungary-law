@@ -1,18 +1,18 @@
-## 13/A. §[^71] A tájegységi tervtanács üléseit a világörökségi helyszínen helyben kell megtartani.
+## 13/A. §[^73] A tájegységi tervtanács üléseit a világörökségi helyszínen helyben kell megtartani.
 
 ## A tervtanácsi jegyzőkönyv
 
-14. § (1)[^72] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
+14. § (1)[^74] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
 
 (2) A jegyzőkönyvnek tartalmaznia kell:
 
 a) a tervtanács nevét és székhelyét, a tárgyalás helyét és idejét,
 
-b)[^73] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
+b)[^75] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
 
 c) napirendi pontonként a tervtanácsi tagok létszámát és a határozatképesség vagy határozatképtelenség tényét,
 
-d)[^74] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
+d)[^76] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
 
 e) a tervdokumentáció benyújtójának nevét, illetve elnevezését, címét, illetve székhelyét,
 
@@ -30,7 +30,7 @@ k) egyhangúság esetén annak tényére történő utalást, véleménykülönb
 
 l) a tervtanács jelen lévő tagjainak aláírását.
 
-[^71]: A 13/A. §-t a 306/2016. (X. 13.) Korm. rendelet 6. §-a iktatta be.
-[^72]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
-[^73]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
-[^74]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.
+[^73]: A 13/A. §-t a 306/2016. (X. 13.) Korm. rendelet 6. §-a iktatta be.
+[^74]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
+[^75]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
+[^76]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.

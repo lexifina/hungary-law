@@ -1,14 +1,14 @@
-## 2/A. §[^7] Világörökségi helyszínen a tájegységi tervtanácsba tervtanácsi tagként az e jogszabályban meghatározott követelményeknek megfelelő és szakmagyakorlási jogosultsággal rendelkező olyan tervezőt vagy szakértőt is delegálni kell, aki a tevékenységét az adott világörökségi helyszínen vagy világörökségi területen végzi, ilyen hiányában más tervező vagy szakértő is delegálható.
+## 2/A. §[^8] Világörökségi helyszínen a tájegységi tervtanácsba tervtanácsi tagként az e jogszabályban meghatározott követelményeknek megfelelő és szakmagyakorlási jogosultsággal rendelkező olyan tervezőt vagy szakértőt is delegálni kell, aki a tevékenységét az adott világörökségi helyszínen vagy világörökségi területen végzi, ilyen hiányában más tervező vagy szakértő is delegálható.
 
 ## A tervtanács elnöke
 
-3. §[^8] (1) A tervtanács elnöke
+3. §[^9] (1) A tervtanács elnöke
 
 a) a központi építészeti tervtanács esetében az országos főépítész,
 
-b)[^9] a területi tervtanács esetén a működési területén illetékes, állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt, az állami főépítészre vonatkozó képesítési követelményekkel rendelkező személy,
+b)[^10] a területi tervtanács esetén a működési területén illetékes, állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt, az állami főépítészre vonatkozó képesítési követelményekkel rendelkező személy,
 
-c)[^10] a helyi építészeti-műszaki tervtanács esetében a települési önkormányzat főépítésze, amennyiben a tárgyalandó tervdokumentáció tervezője a települési önkormányzat főépítésze, abban az esetben a tervtanács elnöke a b) pontban kijelölt személy.
+c)[^11] a helyi építészeti-műszaki tervtanács esetében a települési önkormányzat főépítésze, amennyiben a tárgyalandó tervdokumentáció tervezője a települési önkormányzat főépítésze, abban az esetben a tervtanács elnöke a b) pontban kijelölt személy.
 
 (2) A tervtanács elnöke
 
@@ -24,7 +24,7 @@ e) irányítja a tervtanácsi munkát, vezeti a tárgyalást,
 
 f) gondoskodik a jegyzőkönyv vezetéséről, a tárgyaláson elhangzott véleményeket szóban összefoglalja és ez alapján a tervtanácsi véleményt megfogalmazza a jegyzőkönyv számára,
 
-g)[^11] hitelesíti és kiadmányozza a tervtanácsi véleményt,
+g)[^12] hitelesíti és kiadmányozza a tervtanácsi véleményt,
 
 h) gondoskodik a tervtanácsi véleménynek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe (a továbbiakban: ÉTDR) való feltöltéséről, kérésre megküldi az érintettnek a tervtanácsi véleményt,
 
@@ -32,8 +32,8 @@ i) gondoskodik a tervtanács működésével kapcsolatos iratkezelési, nyilván
 
 j) gondoskodik akadályoztatása esetén a helyettesítéséről.
 
-[^7]: A 2/A. §-t újonnan a 306/2016. (X. 13.) Korm. rendelet 4. §-a iktatta be.
-[^8]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^9]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (1) bekezdés c) pontját a 150/2018. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^11]: A 3. § (2) bekezdés g) pontja a 150/2018. (VIII. 13.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^8]: A 2/A. §-t újonnan a 306/2016. (X. 13.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontját a 150/2018. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 3. § (2) bekezdés g) pontja a 150/2018. (VIII. 13.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
