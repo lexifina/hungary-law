@@ -1,4 +1,4 @@
-## 2/A. §[^4] A magyar állampolgár állandó személyazonosító igazolvánnyal összefüggő hatósági ügyében elsőfokon a hivatásos konzuli tisztviselő (a továbbiakban: konzuli tisztviselő) jár el, ha az állandó személyazonosító igazolvány kiadása iránti kérelmet a magyar állampolgár konzuli tisztviselőnél terjeszti elő.
+## 2/A. §[^4] A magyar állampolgár állandó személyazonosító igazolvánnyal összefüggő hatósági ügyében a hivatásos konzuli tisztviselő (a továbbiakban: konzuli tisztviselő) jár el, ha az állandó személyazonosító igazolvány kiadása iránti kérelmet a magyar állampolgár konzuli tisztviselőnél terjeszti elő.
 
 3. § (1) A járási hivatal
 
@@ -32,7 +32,7 @@ n)[^10] végzi az állandó személyazonosító igazolvány tároló elemén a p
 
 (2) A kormányablak az e rendeletben meghatározott eljárásokkal összefüggő hatásköreit a kormányablakokról szóló kormányrendeletben meghatározottak szerint gyakorolja. Ezen eljárások tekintetében a kormányablak eljárására a járási hivatalra megállapított eljárási szabályok megfelelően irányadók.
 
-[^4]: A 2/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (2) bekezdése iktatta be.
+[^4]: A 2/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 148. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^5]: A 3. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (3) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés k) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (4) bekezdésével megállapított szöveg.

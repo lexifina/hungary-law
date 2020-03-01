@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-414-20-
 | 2020-02-01 | 2015-414-20-22.14 | 6/2020. (I. 31.) Korm. rendelet |
 | 2020-02-13 | 2015-414-20-22.15 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-02-29 | 2015-414-20-22.16 | 28/2020. (II. 28.) Korm. rendelet |
+| 2020-03-01 | 2015-414-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
