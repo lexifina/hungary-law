@@ -18,8 +18,8 @@ d) az Országos Gravimetriai Hálózat pontjai tekintetében a bányászati ügy
 
 (5) A (4) bekezdés szerinti közérdekű használati jogot az államhatár földmérési jelei vonatkozásában a földmérési és térinformatikai államigazgatási szerv, a (2) bekezdés b) pontja szerinti alapponthálózati pontok vonatkozásában a területileg illetékes ingatlanügyi hatóság, a 10. § (5) bekezdés szerinti pontok esetében a bányászati ügyekért felelős miniszter által kijelölt szervezet gyakorolja.
 
-(6) A közérdekű használati jogot a jogosultnak az ingatlan-nyilvántartásba be kell jegyeztetnie. A közérdekű használati jog bejegyzését elrendelő határozat ellen közigazgatási úton fellebbezésnek helye nincs.
+(6) A közérdekű használati jogot a jogosultnak az ingatlan-nyilvántartásba be kell jegyeztetnie.
 
-(7) Új alapponthálózati pont létesítésekor az ingatlanügyi hatóság határozatban rendelkezik a közérdekű használati jog keletkezése miatt felmerülő, az ingatlan tulajdonosát megillető, értékbecsléssel alátámasztott kártalanításról. A kártalanítás összegét a közérdekű használati jog (5) bekezdésben meghatározott jogosultja téríti meg az ingatlan tulajdonosának. A határozat ellen közigazgatási úton fellebbezésnek helye nincs.
+(7) Új alapponthálózati pont létesítésekor az ingatlanügyi hatóság határozatban rendelkezik a közérdekű használati jog keletkezése miatt felmerülő, az ingatlan tulajdonosát megillető, értékbecsléssel alátámasztott kártalanításról. A kártalanítás összegét a közérdekű használati jog (5) bekezdésben meghatározott jogosultja téríti meg az ingatlan tulajdonosának.
 
 (8) A közigazgatási határok megjelölésére szolgáló földmérési jelek az érintett települési (fővárosban a kerületi, továbbá a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatok tulajdonában, a földrészleteket elhatároló jelek pedig a földrészletek tulajdonosainak tulajdonában vannak.
