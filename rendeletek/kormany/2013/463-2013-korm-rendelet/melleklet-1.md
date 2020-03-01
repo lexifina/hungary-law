@@ -1,3 +1,3 @@
-1. melléklet a 463/2013. (XII. 4.) Korm. rendelethez[^9]
+1. melléklet a 463/2013. (XII. 4.) Korm. rendelethez[^10]
 
-[^9]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 58. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 109. §-a és 110. § c) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 47. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.

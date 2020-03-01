@@ -1,33 +1,33 @@
 ## Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
 
-|  | A | B | C | D |
+|  |  | A | B | C | D |
 
-| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
+|  | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Nemzeti Kézilabda Akadémia beruházási program | Balatonboglár 1549/1 és 1262/17 helyrajzi számú terület | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Siófoki Járási Hivatal |
+|  | 2. | Nemzeti Kézilabda Akadémia beruházási program | Balatonboglár 1549/1 és 1262/17 helyrajzi számú terület | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Somogy Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala |
+|  | 3. | környezetvédelmi hatósági engedélyezési eljárások | Somogy Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala |
+|  | 4. | útügyi hatósági engedélyezési eljárások | Somogy Megyei Kormányhivatal |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala |
+|  | 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Baranya Megyei Kormányhivatal |
 
-| 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
+|  | 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
+|  | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Fonyódi Járási Hivatal |
+|  | 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Somogy Megyei Kormányhivatal |
 
-| 9. | talajvédelmi hatósági eljárások | Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala |
+|  | 9. | talajvédelmi hatósági eljárások | Somogy Megyei Kormányhivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
+|  | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
-| 11. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+|  | 11. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-| 12. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+|  | 12. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-| 13. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+|  | 13. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 463/2013. (XII. 4.) Korm. rendelethez[^10]
+2. melléklet a 463/2013. (XII. 4.) Korm. rendelethez[^11]
 
-[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 110. § d) pontja hatályon kívül helyezte.
+[^11]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 110. § d) pontja hatályon kívül helyezte.
