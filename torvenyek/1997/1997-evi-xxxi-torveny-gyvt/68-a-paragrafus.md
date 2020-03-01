@@ -18,4 +18,4 @@ b) nem mulasztott, kezdeményezi a családtámogatási feladatokat ellátó hat�
 
 (4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a családtámogatási feladatokat ellátó hatóságnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
-(5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.
+(5)

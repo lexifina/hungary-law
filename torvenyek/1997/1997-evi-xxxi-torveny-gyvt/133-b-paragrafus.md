@@ -1,1 +1,1 @@
-133/B. § A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban hozott valamennyi döntés ellen fellebbezésnek van helye.
+133/B. § A gyámhatóságnak a kapcsolattartás végrehajtásának felfüggesztésére, a kapcsolattartás megvonására és a kapcsolattartás szüneteltetésére vonatkozó döntése az Ákr. 84. §-a alapján azonnal végrehajtható.

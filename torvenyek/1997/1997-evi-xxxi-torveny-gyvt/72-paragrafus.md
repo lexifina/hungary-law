@@ -24,4 +24,4 @@ b) érdekében áll az anya letartóztatásának elrendelése esetén az anyáva
 
 (4) Az ideiglenes hatályú elhelyezéstől kezdődően az (1) bekezdés a) pontja szerinti esetben a szülő gondozási, nevelési joga szünetel.
 
-(5) A gyermek ideiglenes hatályú elhelyezéséről szóló másodfokú gyámhatósági döntés ellen az ügyfél tizenöt napon belül indíthat közigazgatási pert. A másodfokú gyámhatóság a keresetindítás tudomására jutásától számított nyolc napon belül terjeszti elő a védiratát. A bíróság lehetőleg a keresetlevél hozzá való érkezését követő harminc napon belül határoz.
+(5) A beutaló szerv ideiglenes hatályú elhelyezéséről szóló döntése ellen az ügyfél tizenöt napon belül indíthat közigazgatási pert. A beutaló szerv a benyújtástól számított nyolc napon belül továbbítja a bírósághoz a keresetlevelet. A bíróság a keresetlevél hozzá való érkezését követő harminc napon belül határoz.

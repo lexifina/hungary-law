@@ -6,7 +6,7 @@ b) 14. életévét betöltött gyermek örökbefogadása esetén az örökbefoga
 
 nyilatkozatban kérhetik a vér szerinti szülők születési családi és utónevének az anyakönyvben való feltüntetését.
 
-(2) Az (1) bekezdésben meghatározott nyilatkozatot az annak előterjesztésére jogosult személyek az örökbefogadást engedélyező elsőfokú határozat meghozataláig a gyámhatóság előtt visszavonhatják.
+(2) Az (1) bekezdésben meghatározott nyilatkozatot az annak előterjesztésére jogosult személyek az örökbefogadást engedélyező határozat meghozataláig a gyámhatóság előtt visszavonhatják.
 
 (3) A titkos örökbefogadás kivételével az örökbefogadott gyermek a nagykorúságának elérését követően a gyámhatóság előtt nyilatkozhat arról, hogy kéri a vér szerinti szülők születési családi és utónevének az anyakönyvben való feltüntetését.
 
