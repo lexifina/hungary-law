@@ -4,21 +4,21 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b) pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b)pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XIV. Kerületi Hivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 

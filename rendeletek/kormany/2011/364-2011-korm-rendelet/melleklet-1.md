@@ -4,4 +4,4 @@
 
 [^25]: A 10. §-t a 164/2019. (VII. 8.) Korm. rendelet 1. §-a iktatta be.
 [^26]: A hatálybalépés napja 2019. július 9.
-[^27]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 24. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 44. §-a és 45. § b) pontja, a 71/2018. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 96. §-át.
