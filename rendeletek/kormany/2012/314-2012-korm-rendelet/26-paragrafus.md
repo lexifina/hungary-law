@@ -12,7 +12,7 @@ bb)[^83] melyek a véleményezés részletes szempontjai.
 
 bc)[^84]
 
-(2)[^85] A polgármester építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési, összevont vagy fennmaradási engedélyezési eljáráshoz, valamint az összevont telepítési eljárás integrált építési engedélyezési szakaszához adhat településképi véleményt. A fővárosban a fővárosi helyi egyedi védelem alá vont építmények esetében az első fokú építésügyi hatósági eljáráshoz, valamint az összevont telepítési eljárás integrált építési engedélyezési szakaszához a főpolgármester adhat településképi véleményt.
+(2)[^85] A polgármester építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési, összevont vagy fennmaradási engedélyezési eljáráshoz, valamint az összevont telepítési eljárás integrált építési engedélyezési szakaszához adhat településképi véleményt. A fővárosban a fővárosi helyi egyedi védelem alá vont építmények esetében az építésügyi hatósági eljáráshoz, valamint az összevont telepítési eljárás integrált építési engedélyezési szakaszához a főpolgármester adhat településképi véleményt.
 
 (3) A véleményezési eljárás során vizsgálni kell
 
@@ -27,4 +27,4 @@ d) közterületen folytatott építési tevékenység végzése esetén a közte
 [^82]: A 26. § (1) bekezdés a) pontja a 150/2018. (VIII. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^83]: A 26. § (1) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 14. § 9. pontja szerint módosított szöveg.
 [^84]: A 26. § (1) bekezdés b) pont bc) alpontját a 16/2018. (II. 13.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
-[^85]: A 26. § (2) bekezdése a 150/2018. (VIII. 13.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^85]: A 26. § (2) bekezdése a 150/2018. (VIII. 13.) Korm. rendelet 23. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 110. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

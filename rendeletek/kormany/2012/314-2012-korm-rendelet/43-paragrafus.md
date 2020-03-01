@@ -6,11 +6,11 @@ a) teljes eljárás esetén a településrendezési eszköz (2) bekezdés szerin
 
 b) az egyszerűsített eljárás esetén a településrendezési eszköz (2) bekezdés szerinti közlését követő 5. napon, de leghamarabb az elfogadástól számított 15. napon,
 
-c)[^154] a tárgyalásos eljárás és az állami főépítészi eljárás esetén az elfogadást követő napon
+c)[^157] a tárgyalásos eljárás és az állami főépítészi eljárás esetén az elfogadást követő napon
 
 ## lép hatályba.
 
-(2)[^155] A polgármester gondoskodik a településrendezési eszköz Étv. 8. § (4) bekezdése szerinti nyilvánosságáról, továbbá az elfogadott településrendezési eszközt vagy módosítását az elfogadást követő 15 napon belül
+(2)[^158] A polgármester gondoskodik a településrendezési eszköz Étv. 8. § (4) bekezdése szerinti nyilvánosságáról, továbbá az elfogadott településrendezési eszközt vagy módosítását az elfogadást követő 15 napon belül
 
 a) rövid, közérthető összefoglaló kíséretében közzéteszi
 
@@ -20,7 +20,7 @@ ab) az önkormányzati hivatalban nyomtatásban, és
 
 b) megküldi hitelesített pdf és a ba) és bb) alpont szerinti szervnek szerkeszthető – jogszabályban meghatározottak szerinti nyilvántartásra alkalmas – digitális formátumban az elfogadásáról szóló jegyzőkönyvvel együtt
 
-ba)[^156] a Lechner Tudásközpont részére,
+ba)[^159] a Lechner Tudásközpont részére,
 
 bb) az állami főépítész hatáskörében eljáró fővárosi és megyei kormányhivatalnak,
 
@@ -28,12 +28,12 @@ bc) az eljárásban részt vevő összes államigazgatási szervnek vagy
 
 c) a megküldés helyett digitális formátumban a jegyzőkönyvvel együtt mint elektronikus úton hitelesített dokumentumot elérhetővé teszi a b) pont ba)–bc) alpontja szerinti szerveknek.
 
-(3)[^157] Amennyiben az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal vagy az eljárásban részt vevő államigazgatási szerv jogszabályi ütközést észlel, haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a településrendezési döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
+(3)[^160] Amennyiben az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal vagy az eljárásban részt vevő államigazgatási szerv jogszabályi ütközést észlel, haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a településrendezési döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
 
-(4)[^158]
+(4)[^161]
 
-[^154]: A 43. § (1) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.
-[^155]: A 43. § (2) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^156]: A 43. § (2) bekezdés b) pont ba) alpontja az 56/2017. (III. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^157]: A 43. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^158]: A 43. § (4) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
+[^157]: A 43. § (1) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.
+[^158]: A 43. § (2) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^159]: A 43. § (2) bekezdés b) pont ba) alpontja az 56/2017. (III. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^160]: A 43. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^161]: A 43. § (4) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
