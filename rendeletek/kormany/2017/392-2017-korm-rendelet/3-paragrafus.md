@@ -1,3 +1,5 @@
+## adatait tartalmazza.
+
 3. § (1) A Nyilvántartás a barlangra vonatkozó, az 1. melléklet szerinti
 
 a) alapadatokból,
