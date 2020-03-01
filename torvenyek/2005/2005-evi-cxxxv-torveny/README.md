@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-135-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2005-135-00-00.21 |
 | 2019-01-01 | 2018. évi XCI. törvény | 2005-135-00-00.22 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2005-135-00-00.23 |
+| 2020-03-01 | 2019. évi CX. törvény | 2005-135-00-00.24 |

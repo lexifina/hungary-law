@@ -12,4 +12,4 @@ c) a kárenyhítésre okot adó bűncselekmény és a bekövetkezett kár, jöve
 
 (3) Járadék iránti kérelem elbírálása esetén, az (1) bekezdés szerinti eljárást követően a döntő hatóság megállapítja az egy főre eső jövedelemcsökkenés mértékét, és ennek alapján meghatározza a járadék összegét és a folyósítás időtartamát, vagy a kérelmet elutasítja.
 
-(4) A döntő hatóság kárenyhítés tárgyában hozott döntésével szemben fellebbezésnek van helye.
+(4)
