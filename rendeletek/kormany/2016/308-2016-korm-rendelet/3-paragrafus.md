@@ -1,8 +1,8 @@
 ## 2. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
 
-3. § (1)[^2] A Kormány az 1. melléklet 1. pontja szerinti hatósági ügyekben eljáró hatóságként Budapest Főváros X. Kerület Kőbánya Önkormányzat jegyzőjét jelöli ki.
+3. § (1)[^2]
 
 (2)[^3]
 
-[^2]: A 3. § (1) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 287. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^3]: A 3. § (2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 287. § b) pontja hatályon kívül helyezte.
