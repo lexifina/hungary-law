@@ -1,8 +1,8 @@
 ## IV. Fejezet[^179]
 
-## AZ ILLETÉKES MEGYESZÉKHELY SZERINTI JÁRÁSI HIVATAL ÁLTAL FOLYTATOTT HATÓSÁGI ELLENŐRZÉS TÁRGYKÖREI
+## AZ ILLETÉKES KORMÁNYHIVATAL ÁLTAL FOLYTATOTT HATÓSÁGI ELLENŐRZÉS TÁRGYKÖREI
 
-38. § (1)[^180] Az illetékes megyeszékhely szerinti járási hivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
+38. § (1)[^180] Az illetékes kormányhivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
 
 a) az egyenlő bánásmód követelményére,
 
@@ -22,10 +22,10 @@ h)[^182] a tanulói fegyelmi eljárás megszervezésére, lefolytatására, a d�
 
 vonatkozó rendelkezések megtartását.
 
-(2)[^183] Az illetékes megyeszékhely szerinti járási hivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
+(2)[^183] Az illetékes kormányhivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
 
-[^179]: A IV. fejezet címe a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 16. pontja, a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^180]: A 38. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^179]: A IV. fejezet címe a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^180]: A 38. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^181]: A 38. § (1) bekezdés g) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 10. pontja szerint módosított szöveg.
 [^182]: A 38. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 7. §-a iktatta be.
-[^183]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^183]: A 38. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

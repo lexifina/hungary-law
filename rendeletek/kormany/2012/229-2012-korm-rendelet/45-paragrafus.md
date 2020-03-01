@@ -8,6 +8,6 @@
 
 45. § (1) Ez a rendelet – (2) és (3) bekezdésben meghatározott kivételekkel – 2012. szeptember 1-jén lép hatályba.
 
-(2)–(4)[^214]
+(2)–(4)[^225]
 
-[^214]: A 45. § (2)–(4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^225]: A 45. § (2)–(4) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.

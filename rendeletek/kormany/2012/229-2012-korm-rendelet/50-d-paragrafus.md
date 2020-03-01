@@ -1,3 +1,3 @@
-## 50/C. §[^223]
+## 50/C. §[^234]
 
-[^223]: Az 50/C. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 8. pontja.
+[^234]: Az 50/C. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 8. pontja.
