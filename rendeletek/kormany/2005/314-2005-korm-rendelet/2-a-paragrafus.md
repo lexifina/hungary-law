@@ -20,12 +20,12 @@ b) a szakhatóság a szakhatósági állásfoglalásának kialakítását megel�
 
 megkeresi a vízvédelmi hatóságot, amely nyilatkozik arról, hogy a megkeresésben szereplő tervezett tevékenység jelentős hatással bír-e a felszíni és felszín alatti vizekre.
 
-(5)[^38] A (4) bekezdésben foglaltakat a másodfokú eljárás során is alkalmazni kell azzal, hogy a másodfokú hatóság vagy szakhatóság a felülvizsgálat során a másodfokon eljáró vízvédelmi hatóságot keresi meg.
+(5)[^38]
 
 (6)[^39] A környezeti hatástanulmány az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését vagy véglegessé válását követő három éven belül nyújtható be.
 
 [^35]: A 2/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
 [^36]: A 2/A. §-t a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 61. §-ával megállapított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^37]: A 2/A. § (4) bekezdés záró szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^38]: A 2/A. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 2/A. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 39. § (4) bekezdése hatályon kívül helyezte Alkalmazására lásd e módosító rendelet 203. §-át.
 [^39]: A 2/A. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 156. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
