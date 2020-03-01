@@ -84,9 +84,9 @@
 
 ## II. A hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetében a földhasználó, részesművelés esetén a képviselő nyilatkozata arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
 
-## III. A bejelentési adatlapon a járási hivatal által feltüntetendő tartalmi elemek:
+## III. A bejelentési adatlapon az ingatlanügyi hatóság által feltüntetendő tartalmi elemek:
 
-## 1. A járási hivatal bélyegzője.
+## 1. Az ingatlanügyi hatóság bélyegzője.
 
 ## 2. A földhasználati bejelentés érkezési ideje.
 
@@ -100,6 +100,6 @@
 
 ## 7. Az ügyintéző aláírása.
 
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^118]
+2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^123]
 
-[^118]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^123]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

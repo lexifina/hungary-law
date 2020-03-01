@@ -1,3 +1,3 @@
-## 15/A. §[^81] A járási hivatal a törlés átvezetéséről szóló döntését a földhasználati lapnak a változással érintett adatokat tartalmazó részleges másolata megküldésével közli a nyilvántartásból törölt földhasználóval, illetve a használatba adóval, valamint a 14/A. §-ban és 14/B. §-ban meghatározott esetben az alhaszonbérlővel, illetve a kényszerhasznosítóval.
+## 15/A. §[^86] Az ingatlanügyi hatóság a törlés átvezetéséről szóló döntését a földhasználati lapnak a változással érintett adatokat tartalmazó részleges másolata megküldésével közli a nyilvántartásból törölt földhasználóval, illetve a használatba adóval, valamint a 14/A. §-ban és 14/B. §-ban meghatározott esetben az alhaszonbérlővel, illetve a kényszerhasznosítóval.
 
-[^81]: A 15/A. §-t a 45/2016. (III. 10.) Korm. rendelet 11. §-a iktatta be.
+[^86]: A 15/A. §-t a 45/2016. (III. 10.) Korm. rendelet 11. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

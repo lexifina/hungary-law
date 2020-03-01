@@ -1,6 +1,6 @@
-12. § (1)[^55] A nyilvántartásba vétel megtörténtét és időpontját az adatlapon fel kell tüntetni.
+12. § (1)[^58] A nyilvántartásba vétel megtörténtét és időpontját az adatlapon fel kell tüntetni.
 
-(2)[^56] A nyilvántartásbavételt a járási hivatal a földhasználati lapnak az újonnan nyilvántartásba vett adatokat tartalmazó részleges másolata megküldésével közli a földhasználóval és a használatba adóval.
+(2)[^59] A nyilvántartásbavételt az ingatlanügyi hatóság a földhasználati lapnak az újonnan nyilvántartásba vett adatokat tartalmazó részleges másolata megküldésével közli a földhasználóval és a használatba adóval.
 
-[^55]: A 12. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^56]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^58]: A 12. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^59]: A 12. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
