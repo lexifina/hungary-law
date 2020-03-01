@@ -10,7 +10,7 @@ c)[^34]
 
 d)[^35] ) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét vezető szervvel.
 
-(3)[^36] A befizetés megtörténtét a befizetést követő nyolc napon belül a kötelezett igazolja a bírságot megállapító elsőfokú építésfelügyeleti hatóság részére.
+(3)[^36] A befizetés megtörténtét a befizetést követő nyolc napon belül a kötelezett igazolja a bírságot megállapító építésfelügyeleti hatóság részére.
 
 (4)[^37]
 
@@ -24,7 +24,7 @@ d)[^35] ) a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét
 [^33]: A 3. § (2) bekezdés b) pontja a 266/2013. (VII. 11.) Korm. rendelet 55. § b) pont bb) alpontja, a 156/2016. (VI. 13.) Korm. rendelet 6. § o) pontja szerint módosított szöveg.
 [^34]: A 3. § (2) bekezdés c) pontját a 275/2013. (VII. 16.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.
 [^35]: A 3. § (2) bekezdés d) pontját a 177/2010. (V. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^36]: A 3. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (69) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^36]: A 3. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (69) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 38. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^37]: A 3. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 154. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^38]: A 3. § (5) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
 [^39]: A 3. § (6) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
