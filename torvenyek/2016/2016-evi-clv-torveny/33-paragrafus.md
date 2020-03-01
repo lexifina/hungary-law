@@ -12,6 +12,6 @@ b) a jogsértő magatartás ismétlődését és gyakoriságát,
 
 c) a jogsértést elkövető gazdasági súlyát.
 
-(5) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott, önálló jogorvoslattal támadható döntésével szemben fellebbezésnek van helye.
+(5)
 
-(6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
+(6) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
