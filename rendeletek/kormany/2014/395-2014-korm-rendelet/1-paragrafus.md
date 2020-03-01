@@ -12,7 +12,8 @@ c) mélygarázs
 
 (3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(4) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
+(4)[^3]
 
 [^1]: Az 1. § (1) bekezdése a 197/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 197/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 71. § (2) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.

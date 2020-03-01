@@ -1,3 +1,3 @@
-1. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^14]
+1. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^16]
 
-[^14]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 94. § (1) bekezdés a) pontjával megállapított, a 162/2017. (VI. 28.) Korm. rendelet 80. § a) pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
