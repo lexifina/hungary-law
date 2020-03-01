@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-242-00-00
 | 2019-03-15 | 2018. évi CXXXIX. törvény | 2013-242-00-00.6 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2013-242-00-00.7 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2013-242-00-00.8 |
+| 2020-03-01 | 2018. évi CVI. törvény | 2013-242-00-00.9 |

@@ -4,7 +4,7 @@
 
 a) a Budapest XIII. kerület, 28056 helyrajzi számú ingatlan 21667/38899 hányada,
 
-b) a Komárom 802 és Komárom 803 helyrajzi számú ingatlanok, valamint
+b)
 
 c) a városligeti ingatlanon lévő Magyar Műszaki és Közlekedési Múzeum épülete (a Magyar Műszaki és Közlekedési Múzeum javára bejegyzett vagyonkezelői joghoz kapcsolódó ingatlanrész)
 
