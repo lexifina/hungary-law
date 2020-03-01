@@ -1,4 +1,4 @@
-2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^40]
+2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^44]
 
 1. A népegészségügyi feladatokat ellátó járási hivatalok illetékességi területe
 
@@ -760,4 +760,4 @@
 
 2.
 
-[^40]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^44]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

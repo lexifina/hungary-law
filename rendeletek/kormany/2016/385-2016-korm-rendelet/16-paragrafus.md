@@ -2,22 +2,23 @@
 
 ## 7. A közigazgatási hatósági eljárásokban vizsgálandó szakkérdések köre és közreműködő szakhatóságok kijelölése
 
-16. § (1)[^31]
+16. § (1)[^34]
 
 (2) A fürdővíz használatának engedélyezésére irányuló eljárásban hozott határozatot a fürdővíz helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
-(3)–(4)[^32]
+(3)–(4)[^35]
 
-(5) A fürdőhely kijelölésével kapcsolatos másodfokú eljárásban szakértőként a Nemzeti Fejlesztési Minisztérium rendelhető ki. A fürdőhely kijelölésére irányuló eljárásban hozott határozatot a fürdőhely helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
+(5)[^36] A fürdőhely kijelölésére irányuló eljárásban hozott határozatot a fürdőhely helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
-(6)[^33]
+(6)[^37]
 
-(7)[^34] A gyógyhellyé nyilvánítással kapcsolatos eljárásban a földtani környezet és az ásványvagyon védelme szakkérdését az elsőfokú eljárásban a gyógyhely helye szerint illetékes bányafelügyeleti hatáskörében eljáró megyei kormányhivatal vizsgálja. A gyógyhellyé nyilvánítással kapcsolatos másodfokú eljárásban szakértőként a Magyar Bányászati és Földtani Szolgálat rendelhető ki.
+(7)[^38] A gyógyhellyé nyilvánítással kapcsolatos eljárásban a földtani környezet és az ásványvagyon védelme szakkérdését a gyógyhely helye szerint illetékes bányafelügyeleti hatáskörében eljáró megyei kormányhivatal vizsgálja.
 
-(8)–(12)[^35]
+(8)–(12)[^39]
 
-[^31]: A 16. § (1) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
-[^32]: A 16. § (3)–(4) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
-[^33]: A 16. § (6) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
-[^34]: A 16. § (7) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 89. §-a szerint módosított szöveg.
-[^35]: A 16. § (8)–(12) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
+[^34]: A 16. § (1) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
+[^35]: A 16. § (3)–(4) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
+[^36]: A 16. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: A 16. § (6) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.
+[^38]: A 16. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 161. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^39]: A 16. § (8)–(12) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 59. §-a hatályon kívül helyezte.

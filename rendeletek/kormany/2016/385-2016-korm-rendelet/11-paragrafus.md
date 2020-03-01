@@ -10,9 +10,9 @@ ca) 23. § d) pontja,
 
 cb) 24. § e) és f) pontja,
 
-d)[^25] az Ehi. 4. § (6) bekezdés h) pontja,
+d)[^27] az Ehi. 4. § (6) bekezdés h) pontja,
 
-e)[^26] az Eütv. 123. § (1)–(3) bekezdése
+e)[^28] az Eütv. 123. § (1)–(3) bekezdése
 
-[^25]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
-[^26]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^28]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be.

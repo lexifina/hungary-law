@@ -8,7 +8,7 @@ c) az Ebtv. 10. § (4) bekezdése,
 
 d) az Eütv.
 
-da)[^24]
+da)[^26]
 
 db) 143. §-a,
 
@@ -32,4 +32,4 @@ g) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módos
 
 (3) Az Eütv. 48. § c) pontja szerinti feladatokat az országos tisztifőorvos és a kormányhivatal látja el.
 
-[^24]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^26]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
