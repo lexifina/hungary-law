@@ -1,4 +1,4 @@
-6. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^64]
+6. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^68]
 
 Solymászmadár tartása, hasznosítása, bemutatása iránti kérelem tartalma
 
@@ -112,4 +112,4 @@ Kitöltési útmutató és magyarázat
 
 17. Kvóta: Természetes személy vadon élő állományból kivett héjából (Accipiter gentilis) és karvalyból (Accipiter nisus) egyidejűleg legfeljebb 2 példány tartására jogosult.
 
-[^64]: A 6. számú mellékletet a 441/2015. (XII. 28.) Korm. rendelet 85. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 186. §-a szerint módossított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^68]: A 6. számú mellékletet a 441/2015. (XII. 28.) Korm. rendelet 85. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 186. §-a szerint módossított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
