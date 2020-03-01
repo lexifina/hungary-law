@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-176-20-
 | 2011-01-01 | 2010-176-20-22.2 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2013-01-01 | 2010-176-20-22.3 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2010-176-20-22.4 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2020-03-01 | 2010-176-20-22.5 | 70/2015. (III. 30.) Korm. rendelet |
