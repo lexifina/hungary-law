@@ -12,7 +12,7 @@ d) az 1307/2013/EU és az 1308/2013/EU európai parlamenti és tanácsi rendelet
 
 a Kincstárt jelöli ki.
 
-(2)[^17] A Kincstárnak az (1) bekezdésben, továbbá a 17. és 18. §-ban meghatározott feladatkörök gyakorlásával összefüggésben – figyelemmel a Kit. 36. § (2) bekezdésére és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 13. § (2) bekezdésére –
+(2)[^20] A Kincstárnak az (1) bekezdésben, továbbá a 17. és 18. §-ban meghatározott feladatkörök gyakorlásával összefüggésben – figyelemmel a Kit. 36. § (2) bekezdésére és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 13. § (2) bekezdésére –
 
 a) az agrárpolitikáért felelős miniszter a (3) bekezdésben meghatározottak szerint,
 
@@ -82,6 +82,7 @@ j) az intézkedések végrehajtásához a közbenső szervezeti feladatot ellát
 
 k) a közbenső szervezeti feladatot ellátó szerv megkeresésére állásfoglalást ad ki az intézkedések vonatkozásában.
 
-(5) A megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (3) bekezdés b) pontjában meghatározott irányítási hatásköröket a Kincstár gyakorolja.
+(5)[^21] A megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 40. § (4) bekezdés b) pontjában meghatározott irányítási hatásköröket a Kincstár gyakorolja.
 
-[^17]: A 15. § (2) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.
+[^20]: A 15. § (2) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.
+[^21]: A 15. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
