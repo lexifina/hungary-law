@@ -40,6 +40,6 @@ b) munkaterve nem felel meg a külön jogszabályban foglaltaknak, továbbá ped
 
 (10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény akkor rendelkezik állandó saját székhellyel, telephellyel, ha a fenntartója igazolja, hogy a feladatai ellátásához szükséges jogszabályban meghatározott helyiségek feletti rendelkezési jog a nevelési-oktatási intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított. Ha a nevelési-oktatási intézmény székhelye, telephelye másik nevelési-oktatási intézmény által is használt ingatlanban található, az engedélyezési eljárásban vizsgálni kell azt is, hogy az épületben biztosítható-e valamennyi nevelési-oktatási intézmény zavartalan működése, az alapító okiratában megjelölt maximális gyermek-, tanulói létszám fogadása, a nevelőtestületek működése.
 
-(11) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban hozott elsőfokú döntés ellen fellebbezésnek van helye.
+(11)
 
 (12)

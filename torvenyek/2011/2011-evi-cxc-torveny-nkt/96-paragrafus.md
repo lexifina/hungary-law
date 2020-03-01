@@ -14,7 +14,7 @@
 
 (3d)
 
-(3e) A köznevelési feladatot ellátó hatóságnak a hatósági ellenőrzését követően indult eljárásban hozott döntése ellen – a kormányzati igazgatásról szóló törvényben meghatározott hatósághoz – fellebbezésnek van helye.
+(3e)
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten és irányításon a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
