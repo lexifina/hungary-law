@@ -16,4 +16,4 @@ e) a záradékolás dátumát és a mezőgazdasági igazgatási szerv bélyegző
 
 (4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli a haszonbérbeadóval, a haszonbérleti szerződés szerinti haszonbérlővel, valamint azokkal az előhaszonbérletre jogosultakkal, akik a haszonbérleti szerződésre elfogadó jognyilatkozatot tettek.
 
-(5) A mezőgazdasági igazgatási szerv döntésével szemben fellebbezésnek nincs helye.
+(5)
