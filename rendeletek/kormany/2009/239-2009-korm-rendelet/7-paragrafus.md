@@ -16,11 +16,11 @@ cb)[^28] – a honvédelmi és katonai célú ingatlanon működtetni kívánt s
 
 d)[^29] ha arra az építményre, amelyben a szálláshelyet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az általános építésügyi követelményeknek való megfelelés kérdésében –
 
-da) a honvédelmi és katonai célú ingatlanon kívül működtetni kívánt szálláshely engedélyezése esetében az elsőfokú eljárásban az építésügyi hatáskörben eljáró járási (fővárosi kerületi) hivatalt,
+da)[^30] a honvédelmi és katonai célú ingatlanon kívül működtetni kívánt szálláshely engedélyezése esetében az elsőfokú eljárásban az építésügyi hatáskörében eljáró fővárosi és megyei kormányhivatalt,
 
 db) a honvédelmi és katonai célú ingatlanon működtetni kívánt szálláshely engedélyezése esetében az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert,
 
-e)[^30] a honvédelmi és katonai célú ingatlanon működtetni kívánt szálláshely esetében a honvédelmi ágazati munkavédelmi követelményeknek való megfelelés kérdésében az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert
+e)[^31] a honvédelmi és katonai célú ingatlanon működtetni kívánt szálláshely esetében a honvédelmi ágazati munkavédelmi követelményeknek való megfelelés kérdésében az elsőfokú hatósági eljárásban a honvédelemért felelős minisztert
 
 [^24]: A 7. § a 441/2015. (XII. 28.) Korm. rendelet 119. § (4) bekezdésével megállapított, nyitó szövegrésze a 155/2019. (VI. 27.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
 [^25]: A 7. § a) pont aa) alpontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (4) bekezdés a) pontja szerint módosított szöveg.
@@ -28,4 +28,5 @@ e)[^30] a honvédelmi és katonai célú ingatlanon működtetni kívánt száll
 [^27]: A 7. § c) pont ca) alpontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg.
 [^28]: A 7. § c) pont cb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg.
 [^29]: A 7. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.
-[^30]: A 7. § e) pontját a 379/2016. (XII. 2.) Korm. rendelet 146. § (3) bekezdése iktatta be.
+[^30]: A 7. § d) pont da) alpontja a 30/2020. (II. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^31]: A 7. § e) pontját a 379/2016. (XII. 2.) Korm. rendelet 146. § (3) bekezdése iktatta be.

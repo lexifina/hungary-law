@@ -1,4 +1,4 @@
-19. §[^59] (1) Azon szálláshely-szolgáltató, amely a szálláshely-szolgáltatási tevékenységgel kapcsolatos egyes kormányrendeletek módosításáról szóló 155/2019. (VI. 27.) Korm. rendelet (a továbbiakban: Mód. R.) hatálybalépésekor[^60] a 4. § (1)–(2) bekezdése szerinti szálláshely-szolgáltatási tevékenységét már bejelentette, illetve működési engedéllyel rendelkezik, a jegyző részére 2019. november 30. napjáig benyújtja a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 1. és 2. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot.
+19. §[^60] (1) Azon szálláshely-szolgáltató, amely a szálláshely-szolgáltatási tevékenységgel kapcsolatos egyes kormányrendeletek módosításáról szóló 155/2019. (VI. 27.) Korm. rendelet (a továbbiakban: Mód. R.) hatálybalépésekor[^61] a 4. § (1)–(2) bekezdése szerinti szálláshely-szolgáltatási tevékenységét már bejelentette, illetve működési engedéllyel rendelkezik, a jegyző részére 2019. november 30. napjáig benyújtja a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 1. és 2. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot.
 
 (2) Azon szálláshely-szolgáltató, amely a Mód. R. hatálybalépésekor a 4. § (3)–(6) bekezdése szerinti szálláshely-szolgáltatási tevékenységét már bejelentette, illetve működési engedéllyel rendelkezik, 2019. november 30. napjáig benyújtja a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 3–6. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot.
 
@@ -8,5 +8,5 @@
 
 (5) A jegyző a 2019. december 31-ig bejelentett szálláshely-szolgáltatók nevéről, címéről, valamint adószámáról 2020. január 31-ig tájékoztatja a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét.
 
-[^59]: A 19. §-t újonnan a 155/2019. (VI. 27.) Korm. rendelet 11. §-a iktatta be.
-[^60]: A hatálybalépés időpontja 2019. június 28.
+[^60]: A 19. §-t újonnan a 155/2019. (VI. 27.) Korm. rendelet 11. §-a iktatta be.
+[^61]: A hatálybalépés időpontja 2019. június 28.
