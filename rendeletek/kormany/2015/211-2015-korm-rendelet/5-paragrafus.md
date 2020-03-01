@@ -12,6 +12,6 @@ c) az érintett ingatlan helyrajzi száma,
 
 d) az egyszeri kártalanítás bírói letéti számlára történő átutalásának napja.
 
-(4)[^4] A kormányhivatal a (2) és (3) bekezdésben foglaltak megtörténtéről az Ákr. döntés közlésére vonatkozó általános szabályai szerint értesíti az érintett ügyfeleket.
+(4)[^6] A kormányhivatal a (2) és (3) bekezdésben foglaltak megtörténtéről az Ákr. döntés közlésére vonatkozó általános szabályai szerint értesíti az érintett ügyfeleket.
 
-[^4]: Az 5. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 539. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: Az 5. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 539. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
