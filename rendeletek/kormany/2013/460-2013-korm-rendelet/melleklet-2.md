@@ -1,22 +1,20 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | A Nemzeti Lovarda fejlesztéséhez kapcsolódó beruházások | Budapest VIII. kerület, Kerepesi út 7. szám alatti, 38826, 38829/5 helyrajzi számú ingatlanok | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | A Nemzeti Lovarda fejlesztéséhez kapcsolódó beruházások | Budapest VIII. kerület, Kerepesi út 7. szám alatti, 38826, 38829/5 helyrajzi számú ingatlanok | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 3. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 4. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 4. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 6. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 7. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
+| 7. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 8. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 8. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 9. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
