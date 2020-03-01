@@ -34,11 +34,11 @@ i) a döntés rendelkező részét, ide nem értve véglegessé vált döntés e
 
 j) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(6) A fogyasztóvédelmi hatóság a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutásakor – a határozat, illetve végzés közzétételével megegyező módon – közzéteszi:
+(6) A fogyasztóvédelmi hatóság a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező bírósági határozat tudomására jutásakor – a határozat, illetve végzés közzétételével megegyező módon – közzéteszi:
 
 a) a jogorvoslattal érintett döntésre vonatkozó (5) bekezdés szerinti információkat,
 
-b) a jogorvoslat során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
+b) a jogorvoslat során hozott bírósági határozatot, annak rövid indokolását, valamint
 
 c) a közzététel napját.
 

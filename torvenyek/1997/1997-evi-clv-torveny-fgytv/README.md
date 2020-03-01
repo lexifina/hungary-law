@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2018-12-03 | 2018. évi LXXVI. törvény | 1997-155-00-00.56 |
 | 2019-09-01 | 2019. évi LXVII. törvény | 1997-155-00-00.57 |
 | 2020-01-17 | 2019. évi LXVII. törvény | 1997-155-00-00.58 |
+| 2020-03-01 | 2019. évi CX. törvény | 1997-155-00-00.59 |

@@ -10,7 +10,7 @@ b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában eml�
 
 (2b) A 46. § (6a) bekezdés b) pontjának alkalmazása esetén a fogyasztóvédelmi hatóság értesítheti a jelen lévő ügyfelet a hivatalbóli eljárás megindításáról az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 104. § (4) bekezdésében meghatározott, rendelkezésére álló adatok közlésével. E bekezdésben foglaltak alkalmazása során az ügyfél részéről a helyszínen eljáró személyt, akivel a hatóság a döntését a helyszínen közli, – az ellenkező bizonyításáig – az ügyfél képviseletére jogosultnak kell tekinteni, amennyiben erre irányuló nyilatkozatot tesz, illetve egyéb, ezt igazoló okiratot csatol.
 
-(2c) A (2b) bekezdésben foglalt vélelem megdöntése iránti kérelmet a döntéssel szembeni fellebbezéssel egyidejűleg terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
+(2c) A (2b) bekezdésben foglalt vélelem megdöntése iránt kérelmet terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
 
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
