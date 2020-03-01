@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-22
 | 2017-04-01 | 2015-9-20-22.6 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2015-9-20-22.7 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2015-9-20-22.8 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2020-03-01 | 2015-9-20-22.9 | 428/2020. (IX. 10.) Korm. rendelet |

@@ -4,25 +4,25 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A Beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | A Tokaj Kereskedőház Zrt. telephelyeinek fejlesztésére irányuló beruházások | a) Tolcsva község közigazgatási területén lévő, az ingatlan- nyilvántartás szerinti 142/1, 146, 148, 149 és 151 helyrajzi számú, b) Szegi község közigazgatási területén lévő, az ingatlan- nyilvántartás szerinti 031/36 és 031/108 helyrajzi számú, c) Szegilong község közigazgatási területén lévő, az ingatlan- nyilvántartás szerinti 037, 038, 039/1, 039/21, 039/22 és 039/23 helyrajzi számú ingatlanok, valamint ezen földrészletekből telekalakítást követően kialakított földrészletek | általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Sárospataki Járási Hivatal |
+| 2. | A Tokaj Kereskedőház Zrt. telephelyeinek fejlesztésére irányuló beruházások | a) Tolcsva község közigazgatási területén lévő, az ingatlan- nyilvántartás szerinti 142/1, 146, 148, 149 és 151 helyrajzi számú, b) Szegi község közigazgatási területén lévő, az ingatlan- nyilvántartás szerinti 031/36 és 031/108 helyrajzi számú, c) Szegilong község közigazgatási területén lévő, az ingatlan- nyilvántartás szerinti 037, 038, 039/1, 039/21, 039/22 és 039/23 helyrajzi számú ingatlanok, valamint ezen földrészletekből telekalakítást követően kialakított földrészletek | általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 3. | örökségvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 4. | régészeti feltárásokkal kapcsolatos eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 4. | régészeti feltárásokkal kapcsolatos eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 5. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 5. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 6. | útügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 8. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Katasztrófavédelmi Igazgatóság |
 
 | 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 10. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Tolcsva közigazgatási területe tekintetében: Sátoraljaújhelyi Járási Hivatal Szegi és Szegilong közigazgatási területe tekintetében: Szerencsi Járási Hivatal |
+| 10. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 11. | talajvédelmi hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 11. | talajvédelmi hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
 | 12. | bányahatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
@@ -30,8 +30,6 @@
 
 | 14. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. |  |  |
+2. melléklet a 9/2015. (I. 29.) Korm. rendelethez[^11]
 
-2. melléklet a 9/2015. (I. 29.) Korm. rendelethez[^10]
-
-[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 178. § e) pontja hatályon kívül helyezte.
+[^11]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 178. § e) pontja hatályon kívül helyezte.
