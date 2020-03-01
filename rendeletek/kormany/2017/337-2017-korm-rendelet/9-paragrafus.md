@@ -1,4 +1,4 @@
-9. § (1) Az igénylő a kérelemben hozzájárul ahhoz, hogy a támogatásra vonatkozó információkat, valamint
+9. § (1)[^9] Az igénylő a kérelemben hozzájárul ahhoz, hogy a támogatásra vonatkozó információkat, valamint
 
 a) az alábbi saját adatait:
 
@@ -26,9 +26,9 @@ bd) személyi azonosító jel és
 
 be) adóazonosító jel
 
-a támogatás szabályszerű igénybevételének ellenőrzése céljából a járási hivatal kezelje és továbbítsa a pénzügyi intézmény, Budapest Főváros Kormányhivatala, a Magyar Államkincstár (a továbbiakban: Kincstár), a Belügyminisztérium, valamint az állami adó- és vámhatóság részére.
+a támogatás szabályszerű igénybevételének ellenőrzése céljából a kormányhivatal kezelje és továbbítsa a pénzügyi intézmény, Budapest Főváros Kormányhivatala, a Magyar Államkincstár (a továbbiakban: Kincstár), a Belügyminisztérium, valamint az állami adó- és vámhatóság részére.
 
-(2) Az igénylő a kérelemben – az a) pont ac) alpontja szerinti adatkérés tekintetében a kérelemhez mellékelt közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozattal – hozzájárul ahhoz, hogy a járási hivatal a támogatásra jogosultság alábbi feltételeinek meglétét a következők szerint:
+(2)[^10] Az igénylő a kérelemben – az a) pont ac) alpontja szerinti adatkérés tekintetében a kérelemhez mellékelt közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozattal – hozzájárul ahhoz, hogy a kormányhivatal a támogatásra jogosultság alábbi feltételeinek meglétét a következők szerint:
 
 a) hivatalból, megkeresés útján ellenőrizze
 
@@ -40,7 +40,7 @@ ac) a lakáscélú jelzáloghitel tekintetében a (3) bekezdés szerinti adatoka
 
 b) hivatalból ellenőrizze a tulajdonjog fennállását a tulajdoni lapról elektronikus dokumentumként szolgáltatott nem hiteles másolatnak a számítógépes ingatlan-nyilvántartási rendszerből történő közvetlen lekérdezésével.
 
-(3) A pénzügyi intézmény a járási hivatal megkeresésének kézhezvételét követő 5 napon belül köteles igazolni a járási hivatal részére
+(3)[^11] A pénzügyi intézmény a kormányhivatal megkeresésének kézhezvételét követő 5 napon belül köteles igazolni a kormányhivatal részére
 
 a) annak tényét, hogy
 
@@ -52,4 +52,9 @@ b) a kölcsönszerződés megkötésének időpontját, valamint
 
 c) a kérelem benyújtásának napján fennálló tőketartozás és – az esetleges késedelmi kamatot külön feltüntetve – annak járulékai összegét.
 
-(4) A pénzügyi intézmény a járási hivatal megkeresését az igénylő előtörlesztési szándéka bejelentésének tekinti.
+(4)[^12] A pénzügyi intézmény a kormányhivatal megkeresését az igénylő előtörlesztési szándéka bejelentésének tekinti.
+
+[^9]: A 9. § (1) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 9. § (2) bekezdés nyitó szövegrésze a 30/2020. (II. 29.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^11]: A 9. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 9. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

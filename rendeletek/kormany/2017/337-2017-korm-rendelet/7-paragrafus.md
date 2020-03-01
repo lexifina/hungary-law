@@ -1,6 +1,6 @@
 ## 4. A támogatás mértéke
 
-7. § (1)[^4] A támogatás összege
+7. § (1)[^8] A támogatás összege
 
 a) a második – 6. § (1) bekezdése szerinti – gyermek esetén 1 000 000 forint,
 
@@ -12,4 +12,4 @@ c) a b) pont szerinti összegű támogatás igénybevételét követően szület
 
 (3) A (2) bekezdésben foglaltak esetén az igénybe vett támogatás és az (1) bekezdés szerinti összeg különbözetének igénylésére a támogatott személy későbbi időpontban nem jogosult.
 
-[^4]: A 7. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^8]: A 7. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 14. §-ával megállapított szöveg.

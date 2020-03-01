@@ -10,7 +10,7 @@
 
 (6) A gyermekszám számításánál a következő szempontokat kell figyelembe venni:
 
-a)[^2] gyermeknek – a (7) bekezdésben foglalt kivétellel – az igénylővel közös háztartásban élő gyermek, a halva született gyermek, továbbá az élve született és időközben elhalálozott gyermek minősül,
+a)[^5] gyermeknek – a (7) bekezdésben foglalt kivétellel – az igénylővel közös háztartásban élő gyermek, a halva született gyermek, továbbá az élve született és időközben elhalálozott gyermek minősül,
 
 b) a gyermek csak ugyanazon igénylő által több (1) bekezdés szerinti gyermekre tekintettel benyújtott külön kérelem vonatkozásában vehető ismételten figyelembe,
 
@@ -18,7 +18,7 @@ c) a más személy által igényelt támogatásnál már számításba vett gyer
 
 d) házastársak, illetve élettársak együttes igénylése esetén a velük közös háztartásban élő közös, valamint nem közös gyermekeket együttesen kell figyelembe venni.
 
-(7)[^3] Annak tényét, hogy a gyermek az igénylővel közös háztartásban él,
+(7)[^6] Annak tényét, hogy a gyermek az igénylővel közös háztartásban él,
 
 a) a gyermek nagykorúvá válását követően és
 
@@ -26,7 +26,8 @@ b) a gyermek halva születése vagy az élve született gyermek elhalálozása e
 
 nem kell figyelembe venni.
 
-(8) Ha az (1) bekezdés szerinti örökbefogadott gyermek vonatkozásában az örökbefogadást a támogatást megállapító határozat véglegessé válását követő két éven belül felbontják, a felbontás tényét a támogatott személy a határozat jogerőre emelkedését követő 30 napon belül köteles a járási hivatalnak bejelenteni. A járási hivatal intézkedik a támogatás Ptk. szerinti késedelmi kamattal növelten történő visszafizetése érdekében.
+(8)[^7] Ha az (1) bekezdés szerinti örökbefogadott gyermek vonatkozásában az örökbefogadást a támogatást megállapító határozat véglegessé válását követő két éven belül felbontják, a felbontás tényét a támogatott személy a határozat jogerőre emelkedését követő 30 napon belül köteles a kormányhivatalnak bejelenteni. A kormányhivatal intézkedik a támogatás Ptk. szerinti késedelmi kamattal növelten történő visszafizetése érdekében.
 
-[^2]: A 6. § (6) bekezdés a) pontja a 46/2019. (III. 12.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^3]: A 6. § (7) bekezdése a 46/2019. (III. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^5]: A 6. § (6) bekezdés a) pontja a 46/2019. (III. 12.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^6]: A 6. § (7) bekezdése a 46/2019. (III. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

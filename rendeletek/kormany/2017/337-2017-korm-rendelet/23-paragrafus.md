@@ -8,4 +8,6 @@
 
 (4) A pénzügyi intézmény a neki felróható okból eredő kár esetén a támogatott személlyel szemben köteles helytállni, e kötelezettségét az államra nem háríthatja át.
 
-(5) A támogatásra való jogosultság vizsgálatakor az igénylő által benyújtott nyilatkozatok, okiratok valódiságát – ha a járási hivataltól, illetve pénzügyi intézménytől elvárható gondosság tanúsítása mellett annak hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
+(5)[^33] A támogatásra való jogosultság vizsgálatakor az igénylő által benyújtott nyilatkozatok, okiratok valódiságát – ha a kormányhivataltól, illetve pénzügyi intézménytől elvárható gondosság tanúsítása mellett annak hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
+
+[^33]: A 23. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
