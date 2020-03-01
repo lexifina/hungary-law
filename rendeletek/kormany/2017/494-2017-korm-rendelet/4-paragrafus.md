@@ -1,18 +1,10 @@
 ## arányos mértékben jár.
 
-4. § (1) A nagycsaládos kedvezményre való jogosultság tekintetében, az igénylő kérelmére első fokon
+4. § (1)[^2] A nagycsaládos kedvezményre való jogosultság tekintetében – az igénylő kérelmére – a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jár el. A nagycsaládos kedvezményre való jogosultságot a kormányhivatal egyszerűsített határozattal állapítja meg. A jogosultakról a nyilvántartást a Kincstár vezeti.
 
-a) Budapest és Pest megye kivételével a megyei kormányhivatal megyeszékhely szerinti járási hivatala,
+(2)[^3] Ha a nagycsaládos kedvezményre vonatkozó kérelem szerint a családi pótlékot a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló kormányrendelet szerinti családtámogatási kifizetőhely folyósítja, a családi pótlékra való jogosultság igazolása érdekében a kormányhivatal megkeresi a Kincstárt és az igazolás alapján – a további jogosultsági feltételek fennállása esetén – az (1) bekezdés szerinti határozatot hoz.
 
-b) Budapest esetében Budapest Főváros VIII. Kerületi Hivatala,
-
-c) Pest megye esetében a Váci Járási Hivatal
-
-(a továbbiakban együtt: járási hivatal) jár el. A nagycsaládos kedvezményre való jogosultságot a járási hivatal egyszerűsített határozattal állapítja meg. A nagycsaládos kedvezménnyel összefüggő ügyekben fellebbezés elbírálására jogosult hatóságként és felügyeleti szervként – országos illetékességgel – Budapest Főváros Kormányhivatala jár el. A jogosultakról a nyilvántartást a Kincstár vezeti.
-
-(2) Ha a nagycsaládos kedvezményre vonatkozó kérelem szerint a családi pótlékot a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló kormányrendelet szerinti családtámogatási kifizetőhely folyósítja, a családi pótlékra való jogosultság igazolása érdekében a járási hivatal megkeresi a Kincstárt és az igazolás alapján – a további jogosultsági feltételek fennállása esetén – az (1) bekezdés szerinti határozatot hoz.
-
-(3) A felhasználási hely megállapítása szempontjából a személyi adat- és lakcímnyilvántartás adatai, a nagycsaládos kedvezményre való jogosultság megállapítása szempontjából a Kincstárnál és a járási hivatalnál a családi pótlékra való jogosultságra vonatkozó nyilvántartás adatai az irányadók.
+(3)[^4] A felhasználási hely megállapítása szempontjából a személyi adat- és lakcímnyilvántartás adatai, a nagycsaládos kedvezményre való jogosultság megállapítása szempontjából a Kincstárnál és a kormányhivatalnál a családi pótlékra való jogosultságra vonatkozó nyilvántartás adatai az irányadók.
 
 (4) A nagycsaládos kedvezményre való jogosultság megállapítása iránti kérelmet a 2. melléklet szerinti igénylőlapon kell benyújtani. Az igénylőlapot a Kincstár és a kormányhivatal, valamint az egyetemes szolgáltató honlapján elektronikusan hozzáférhetővé teszi.
 
@@ -25,3 +17,7 @@ c) Pest megye esetében a Váci Járási Hivatal
 (8) A nagycsaládos kedvezményre való jogosultság megállapítására irányuló kérelem a naptári év folyamán bármikor benyújtható.
 
 (9) A nagycsaládos kedvezmény a családi pótlékra való jogosultságot megállapító végleges határozat szerinti időponttól, a nagycsaládos kedvezményre való jogosultság fennállásának idejéig jár. Ha a kérelem benyújtásakor a családi pótlékra való jogosultság két hónapnál hosszabb ideje áll fenn, a nagycsaládos kedvezmény visszamenőlegesen legfeljebb a kérelem benyújtását megelőző második hónap első napjától állapítható meg.
+
+[^2]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^3]: A 4. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 4. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
