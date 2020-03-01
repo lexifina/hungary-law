@@ -108,4 +108,4 @@ b) a működést engedélyező szerv eljárása, vagy
 
 c) a fenntartó tevékenységével vagy a szociális szolgáltató, szociális intézmény működésével összefüggő büntetőeljárás
 
-van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a másodfokú eljárást, a közigazgatási pert és a megismételt eljárást is – függesztheti fel.
+van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a jogorvoslati eljárást és a megismételt eljárást is – függesztheti fel.

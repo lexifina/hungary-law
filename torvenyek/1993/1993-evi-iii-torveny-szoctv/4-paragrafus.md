@@ -102,7 +102,7 @@ nb) a betétszerződés és takarékbetét-szerződés alapján takarékbetétk�
 
 (5) Ahol e törvény jövedelmet említ, a családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
-(6) A súlyos mozgáskorlátozott személyek közlekedési kedvezményeivel kapcsolatos közigazgatási hatósági eljárásokban a szociális hatóság által hozott elsőfokú döntés ellen nincs helye fellebbezésnek.
+(6)
 
 (7)
 

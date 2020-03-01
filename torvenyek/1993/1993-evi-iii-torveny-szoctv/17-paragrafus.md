@@ -30,7 +30,7 @@ b) csökkentheti,
 
 c) részletekben fizettetheti meg.
 
-(6) A járási hivatal (4) bekezdés szerinti döntése ellen fellebbezésnek nincs helye.
+(6)
 
 (7) Az időskorúak járadékát, aktív korúak ellátását, gyermekek otthongondozási díját vagy ápolási díjat igénylő személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha
 

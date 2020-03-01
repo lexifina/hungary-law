@@ -48,8 +48,8 @@ c) állandó és tartós ápolásra, gondozásra szorul az a személy, akiről a
 
 (5) Szakértő kirendelése esetén az ápolási díjról döntést hozó szerv a szakvélemény elkészítéséért szakértői díjat fizet. A díjazás összegét az éves központi költségvetésről szóló törvény határozza meg.
 
-(6) A másodfokú eljárásban eljáró hatóság – ha a szükséges szakértelemmel nem rendelkezik – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértő útján gondoskodik a (3) bekezdés c) pontja szerinti szakvélemény felülvizsgálatáról, szükség esetén új szakvélemény beszerzéséről.
+(6)
 
-(7) A (4) és a (6) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
+(7) A (4) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
 
 (8) Ha az ápolási díjra való jogosultságot a gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásától számított 30 napon belül benyújtott kérelem alapján állapítják meg, az ápolási díjra való jogosultság kezdő napjának a gyermekek otthongondozási díja iránti kérelem benyújtásának napját kell tekinteni.
