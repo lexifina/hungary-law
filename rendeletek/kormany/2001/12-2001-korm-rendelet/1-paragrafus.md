@@ -74,7 +74,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 17.[^21] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-18.[^22] járási hivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal megyeszékhely szerinti járási hivatala, Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatalának XIII. Kerületi Hivatala;
+18.[^22] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
 
 19.[^23] építési engedély: új lakás építése esetén az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy az építésügyi hatóság által kiállított dokumentum arról, hogy az egyszerű bejelentéshez kötött építési tevékenység bejelentése megtörtént, valamint építési engedélyköteles bővítés esetén az építési engedély;
 
@@ -82,7 +82,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 (5)[^25] Az e rendeletben meg nem határozott fogalmakra vonatkozóan a Polgári Törvénykönyvben (a továbbiakban: Ptk.), az Étv.-ben és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottakat kell figyelembe venni.
 
-(6)[^26] Az 1. § (2) bekezdés a)–h) pontjai szerinti támogatások igénybevételének jogszerűségét a járási hivatal ellenőrzi. Ez alól kivétel a 19. § szerinti állami adóhatósági ellenőrzés, amelyet az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság végez.
+(6)[^26] Az 1. § (2) bekezdés a)–h) pontjai szerinti támogatások igénybevételének jogszerűségét a kormányhivatal ellenőrzi. Ez alól kivétel a 19. § szerinti állami adóhatósági ellenőrzés, amelyet az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság végez.
 
 [^1]: Az 1. § (1) bekezdése a 74/2011. (V. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 144/2012. (VII. 3.) Korm. rendelet 3. §-a, a 297/2013. (VII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdésének c) pontja a 3/2005. (I. 12.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2005. február 1-jét követően benyújtott támogatási kérelmekre kell alkalmazni.
@@ -105,8 +105,8 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 [^19]: Az 1. § (4) bekezdés 15. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^20]: Az 1. § (4) bekezdés 16. pontját a 74/2011. (V. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^21]: Az 1. § (4) bekezdés 17. pontját a 331/2014. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
-[^22]: Az 1. § (4) bekezdés 18. pontját a 70/2015. (III. 30.) Korm. rendelet 48. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 1. § (4) bekezdés 18. pontját a 70/2015. (III. 30.) Korm. rendelet 48. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^23]: Az 1. § (4) bekezdés 19. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^24]: Az 1. § (4) bekezdés 20. pontját a 455/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^25]: Az 1. § (5) bekezdését a 207/2001. (X. 30.) Korm. rendelet 1. §-a iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 17. § a) pontja, a 455/2015. (XII. 29.) Korm. rendelet 1. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^26]: Az 1. § (6) bekezdését a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 43. § (5) bekezdés 1. pontja szerint módosított szöveg.
+[^26]: Az 1. § (6) bekezdését a 155/2005. (VIII. 11.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

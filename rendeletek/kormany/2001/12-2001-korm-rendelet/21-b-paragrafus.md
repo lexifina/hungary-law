@@ -1,8 +1,8 @@
-21/B. §[^247] (1)[^248] A 21. § (3), (6)–(10) és (13) bekezdésében foglalt visszafizetési kötelezettséget a „10032000-01034080 Lakástámogatások visszafizetése bevételi számla” kincstári számlára kell teljesíteni.
+21/B. §[^249] (1)[^250] A 21. § (3), (6)–(10) és (13) bekezdésében foglalt visszafizetési kötelezettséget a „10032000-01034080 Lakástámogatások visszafizetése bevételi számla” kincstári számlára kell teljesíteni.
 
-(2)[^249] Az (1) bekezdés szerinti visszafizetési kötelezettség teljesítését követően a járási hivatal dönt
+(2)[^251] Az (1) bekezdés szerinti visszafizetési kötelezettség teljesítését követően a kormányhivatal dönt
 
-a)[^250] – a 21. § (3) és (6) bekezdése esetén – a támogatás visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásból történő törléséről,
+a)[^252] – a 21. § (3) és (6) bekezdése esetén – a támogatás visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásból történő törléséről,
 
 b) – a 21. § (7) és (8) bekezdése esetén – a teljes támogatási összeg visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak a törléséről, továbbá a visszafizetési kötelezettség alá nem eső támogatási összegnek megfelelő az államot megillető jelzálogjognak, illetve az azt biztosító elidegenítési és terhelési tilalomnak támogatott lakásra történő bejegyezéséről, vagy
 
@@ -14,7 +14,7 @@ a) a lakás átruházásából származó jövedelem után az állami adóhatós
 
 b) azzal az összeggel, melyet az adós az elidegenítésből származó bevételből az értékesített lakás építését, vásárlását vagy bővítését szolgáló lakáscélú hitelintézeti kölcsön egyösszegű előtörlesztésére és annak díjára fordított,
 
-[^247]: A 21/B. §-t a 253/2012. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
-[^248]: A 21/B. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
-[^249]: A 21/B. § (2) bekezdés nyitó szövegrésze a 379/2012. (XII. 19.) Korm. rendelet 12. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 43. § (5) bekezdés 1. pontja szerint módosított szöveg.
-[^250]: A 21/B. § (2) bekezdés a) pontja a 379/2012. (XII. 19.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^249]: A 21/B. §-t a 253/2012. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
+[^250]: A 21/B. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
+[^251]: A 21/B. § (2) bekezdés nyitó szövegrésze a 379/2012. (XII. 19.) Korm. rendelet 12. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^252]: A 21/B. § (2) bekezdés a) pontja a 379/2012. (XII. 19.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.

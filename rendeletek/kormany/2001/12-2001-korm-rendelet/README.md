@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2018-01-01 | 2001-12-20-22.69 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-10-01 | 2001-12-20-22.70 | 101/2019. (V. 2.) Korm. rendelet |
 | 2019-10-05 | 2001-12-20-22.71 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2020-03-01 | 2001-12-20-22.72 | 379/2012. (XII. 19.) Korm. rendelet |
