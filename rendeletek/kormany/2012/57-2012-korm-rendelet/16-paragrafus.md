@@ -12,7 +12,7 @@ d) – a kamattámogatás esetén – a gyermek adóazonosító jele és
 
 e) – a kamattámogatás és a vissza nem térítendő támogatás esetén – munkáltató neve, címe és adószáma.
 
-(2) Az e rendelet szerinti támogatásokat is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
+(2)[^36] Az e rendelet szerinti támogatásokat is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a kincstár üzemelteti és fejleszti.
 
 (3) A pénzügyi intézmény az e § szerinti adatszolgáltatási kötelezettségét a kincstár honlapjáról elérhető adatszolgáltatási felületén található útmutató szerinti formában teljesíti
 
@@ -25,3 +25,4 @@ b) a kamattámogatás és a vissza nem térítendő támogatás esetén havonta 
 (5) A pénzügyi intézmény az e § szerinti adatszolgáltatása keretében a lakáscélú nyilvántartások vezetéséhez – a támogatott hozzájárulása alapján – elektronikus úton tájékoztatja a kincstárt a megkötött, a megkötött és meghiúsult, a felmondott és lezárt, valamint a megszüntetett gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésekről és a visszafizetett támogatásokról.
 
 [^35]: A 11. alcím (16–17. §) a 101/2019. (V. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^36]: A 16. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

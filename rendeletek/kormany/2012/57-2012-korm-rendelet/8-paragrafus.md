@@ -24,7 +24,7 @@ nem rendelkezett, és
 
 f) saját maga és adóstársa írásban hozzájárul ahhoz, hogy
 
-fa)[^10] a 3. § (2) bekezdésében meghatározott adatokat, továbbá a munkáltatójának nevét, címét és adószámát, valamint a kamattámogatás szempontjából figyelembe vett gyermek adóazonosító jelét a pénzügyi intézmény a kincstár, valamint a járási hivatal részére átadja, és
+fa)[^10] a 3. § (2) bekezdésében meghatározott adatokat, továbbá a munkáltatójának nevét, címét és adószámát, valamint a kamattámogatás szempontjából figyelembe vett gyermek adóazonosító jelét a pénzügyi intézmény a kincstár, valamint a kormányhivatal részére átadja, és
 
 fb) az 5. § (1) bekezdése szerinti adatokat a munkáltatója kezelje.
 
@@ -36,4 +36,4 @@ b) a tulajdonukban lévő lakóingatlan lebontását az építésügyi hatóság
 
 c) a lakóingatlan több mint két éve öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonukba és a haszonélvező bent lakik.
 
-[^10]: A 8. § (1) bekezdés f) pont fa) alpontja a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 198. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdés f) pont fa) alpontja a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 103. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

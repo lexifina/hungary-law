@@ -1,4 +1,4 @@
-## 12. [^36] Elszámolás és adatszolgáltatás közös szabályai
+## 12. [^37] Elszámolás és adatszolgáltatás közös szabályai
 
 18. § (1) A pénzügyi intézmény a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
@@ -24,4 +24,4 @@ elszámolás szerinti folyósítással egyidejűleg történik.
 
 (6) A (4) bekezdés b) pontja szerinti felfüggesztés nem érinti a pénzügyi intézmény adatszolgáltatási hiánnyal nem érintett támogatásra vonatkozó elszámolási jogosultságát.
 
-[^36]: A 11. alcím (18–21. §) a 101/2019. (V. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^37]: A 11. alcím (18–21. §) a 101/2019. (V. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

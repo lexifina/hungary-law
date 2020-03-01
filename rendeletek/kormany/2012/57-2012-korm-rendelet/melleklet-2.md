@@ -30,6 +30,6 @@
 
 |  | aláírás |
 
-2. melléklet az 57/2012. (III. 30.) Korm. rendelethez[^45]
+2. melléklet az 57/2012. (III. 30.) Korm. rendelethez[^48]
 
-[^45]: A 2. mellékletet a 101/2019. (V. 2.) Korm. rendelet 4. § (3) bekezdése hatályon kívül helyezte.
+[^48]: A 2. mellékletet a 101/2019. (V. 2.) Korm. rendelet 4. § (3) bekezdése hatályon kívül helyezte.
