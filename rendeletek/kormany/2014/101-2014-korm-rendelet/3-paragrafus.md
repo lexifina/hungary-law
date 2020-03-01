@@ -1,3 +1,3 @@
-## 2. §[^3]
+## 2. §[^4]
 
-[^3]: A 2. §-t a 458/2017. (XII. 28.) Korm. rendelet 134. § b) pontja hatályon kívül helyezte.
+[^4]: A 2. §-t a 458/2017. (XII. 28.) Korm. rendelet 134. § b) pontja hatályon kívül helyezte.

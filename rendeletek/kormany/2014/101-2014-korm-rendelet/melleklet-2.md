@@ -4,25 +4,25 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Kiemelt beruházásként az Állami Ménesgazdaság Szilvásvárad fejlesztése során létrehozandó Szilvásváradi Lovasközpont építményei | Szilvásvárad község területén fekvő, az ingatlan- nyilvántartás szerinti 448/4, 455, 438/1, 441/3, 447/2, 457/1, 590/1, 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek, illetve az ezekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 2. | Kiemelt beruházásként az Állami Ménesgazdaság Szilvásvárad fejlesztése során létrehozandó Szilvásváradi Lovasközpont építményei | Szilvásvárad község területén fekvő, az ingatlan- nyilvántartás szerinti 448/4, 455, 438/1, 441/3, 447/2, 457/1, 590/1, 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek, illetve az ezekből telekalakítási eljárások végleges befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Heves Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Heves Megyei Kormányhivatal |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 6. | útügyi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal |
 
 | 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 9. | ingatlan-nyilvántartási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 9. | ingatlan-nyilvántartási hatósági eljárás | Heves Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 10. | telekalakítási hatósági eljárás | Heves Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 11. | földmérési hatósági eljárás | Heves Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
@@ -30,7 +30,7 @@
 
 | 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal |
 
-| 15. | talajvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala |
+| 15. | talajvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal |
 
 | 16. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter |
 
@@ -44,6 +44,6 @@
 
 | 21. | a jogszabályban rögzített egészségügyi hatósági eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala |
 
-2. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^11]
+2. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^12]
 
-[^11]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 134. § d) pontja hatályon kívül helyezte.
+[^12]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 134. § d) pontja hatályon kívül helyezte.
