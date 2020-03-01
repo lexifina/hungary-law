@@ -2,9 +2,9 @@
 
 ## Foglalkoztatási feltételek
 
-3. § (1)[^13] A fővárosi, a fővárosi kerületi, a megyei jogú városi és a megyei főépítészi feladatkör köztisztviselői kinevezéssel látható el.
+3. § (1)[^13] A fővárosi, a fővárosi kerületi, a megyei jogú városi főépítészi feladatkör köztisztviselői kinevezéssel látható el.
 
-(2)[^14] A települési – az (1) bekezdésben foglaltak kivételével – és a térségi főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
+(2)[^14] A települési – az (1) bekezdésben foglaltak kivételével –, a megyei és a térségi főépítészi feladatkör ellátható köztisztviselőként, vagy – az összeférhetetlenségre, a minősített adatra és a felelősségre vonásra vonatkozó jogszabályi előírásokra való figyelemfelhívást is tartalmazó, a feladatkör ellátására vonatkozó írásban megkötött – megbízási szerződés alapján.
 
 (3) A főépítészek foglalkoztatási feltétele:
 
@@ -34,8 +34,8 @@ cb) településmérnöki mesterképzési szakon szerzett okleveles településm�
 
 (6)[^18] A főépítészi feladatkör főépítészi vizsga nélkül legfeljebb a foglalkoztatásra irányuló jogviszony kezdetétől számított hat hónapig látható el.
 
-[^13]: A 3. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (3) bekezdésével megállapított szöveg.
-[^14]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (3) bekezdésével megállapított szöveg.
+[^13]: A 3. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (3) bekezdésével megállapított, a 30/2020. (II. 29.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (3) bekezdésével megállapított, a 30/2020. (II. 29.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
 [^15]: A 3. § (3) bekezdés c) pont cb) alpontját a 322/2012. (XI. 16.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte.
 [^16]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (4) bekezdésével megállapított szöveg.
 [^17]: A 3. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 7. §-ával megállapított szöveg.

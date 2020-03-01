@@ -6,7 +6,7 @@
 
 ## 1. a jogrendszer alapvető jellemzőit (jogszabályi hierarchia),
 
-## 2. a közigazgatási hatósági eljárás és szolgáltatás, valamint az építésügyi hatósági eljárások általános szabályait (az első fokú eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma),
+## 2.[^57] a közigazgatási hatósági eljárás és szolgáltatás, valamint az építésügyi hatósági eljárások általános szabályait (az eljárás megindítása, kérelem és mellékletei, a tényállás tisztázása, az egyes szakmagyakorlási tevékenységek közötti kapcsolatrendszer, a határozat tartalma és közlése, jogorvoslati lehetőségek, ügyfél fogalma),
 
 ## 3. a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény
 
@@ -72,7 +72,7 @@
 
 ## 6. az építészeti-műszaki tervek tartalmi követelményeit.
 
-## 7.[^57] Makovecz Imre településfejlesztési-épülettervezési modelljét.
+## 7.[^58] Makovecz Imre településfejlesztési-épülettervezési modelljét.
 
 ## III. Terület- és településrendezési különös követelmények
 
@@ -100,10 +100,11 @@
 
 ## 6. a településrendezési eszközök tartalmi és egyeztetési követelményeit.
 
-## 7.[^58] Makovecz Imre településfejlesztési-épülettervezési modelljét.
+## 7.[^59] Makovecz Imre településfejlesztési-épülettervezési modelljét.
 
-2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^59]
+2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^60]
 
-[^57]: A melléklet II. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^58]: A melléklet III. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^59]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés e) pontja.
+[^57]: Az 1. melléklet I. pont 2. alpontja a 360/2019. (XII. 30.) Korm. rendelet 73. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^58]: A melléklet II. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^59]: A melléklet III. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^60]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés e) pontja.

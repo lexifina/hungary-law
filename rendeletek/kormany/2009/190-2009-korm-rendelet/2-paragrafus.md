@@ -1,3 +1,5 @@
+## [az a)–c) pontokban foglaltak a továbbiakban együtt: főépítész] lát el.
+
 ## A főépítészi rendszer,[^2]
 
 2. §[^3] (1)[^4] Az állami főépítészi feladatokat illetékességi területén a fővárosi és megyei kormányhivatal látja el.
