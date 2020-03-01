@@ -2,7 +2,7 @@
 
 ## A területrendezési tervek véleményezésére jogosult szervek
 
-1.[^102] A miniszterek közül a(az):
+1. A miniszterek közül a(az):
 
 1.1. Budapest és a fővárosi agglomeráció fejlesztéséért,
 
@@ -52,15 +52,15 @@
 
 felelős miniszter;
 
-2.[^103] A következő önálló szabályozó szerv és kormányzati főhivatal:
+2. A következő önálló szabályozó szerv és kormányzati főhivatal:
 
 a) Magyar Energetikai és Közmű-szabályozási Hivatal,
 
 b) Országos Atomenergia Hivatal;
 
-3.[^104] Magyar Bányászati és Földtani Szolgálat;
+3. Magyar Bányászati és Földtani Szolgálat;
 
-4.[^105] országos tisztifőorvos;
+4. országos tisztifőorvos;
 
 5. Országos Környezetvédelmi Tanács;
 
@@ -80,21 +80,19 @@ aa) állami főépítészi hatáskörében,
 
 ab) ingatlanügyi hatósági hatáskörében,
 
-b)áfővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+ac) környezetvédelmi és természetvédelmi hatáskörében,
 
-ba) környezetvédelmi és természetvédelmi hatáskörében,
+ad) erdészeti hatáskörében,
 
-bb) erdészeti hatáskörében,
+ae) örökségvédelmi hatáskörében,
 
-bc) örökségvédelmi hatáskörében,
+af) közlekedési hatósági hatáskörében,
 
-bd) közlekedési hatósági hatáskörében,
+ag) egészségügyi államigazgatási hatáskörében,
 
-be) egészségügyi államigazgatási hatáskörében,
+b) a működési területével érintett nemzeti park igazgatóság,
 
-c) a működési területével érintett nemzeti park igazgatóság,
-
-d) a működési területével érintett vízügyi igazgatóság,
+c) a működési területével érintett vízügyi igazgatóság,
 
 11. a szomszédos megyei önkormányzatok;
 
@@ -108,8 +106,4 @@ d) a működési területével érintett vízügyi igazgatóság,
 
 16. az érintett települési önkormányzatok.
 
-[^101]: A 11. melléklet a 379/2016. (XII. 2.) Korm. rendelet 144. § (1) bekezdésével megállapított szöveg.
-[^102]: A 11. melléklet 1. pontja a 121/2019. (V. 27.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^103]: A 11. melléklet 2. pontja a 121/2019. (V. 27.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^104]: A 11. melléklet 3. pontja a 162/2017. (VI. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
-[^105]: A 11. melléklet 4. pontja a 379/2016. (XII. 2.) Korm. rendelet 144. § (2) bekezdés c) pontjával megállapított szöveg.
+[^101]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

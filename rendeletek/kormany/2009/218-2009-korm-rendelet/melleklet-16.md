@@ -14,13 +14,13 @@
 
 | 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7. | f) erdők övezete | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
+| 7. | f) erdők övezete | erdészeti hatáskörében eljáró megyei kormányhivatal |
 
 | 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | h) tájképvédelmi terület övezete | nemzeti park igazgatóság |
 
-| 10. | i) világörökségi és világörökségi várományos területek övezete | megyei kormányhivatal örökségvédelmi hatáskörében eljáró járási hivatala |
+| 10. | i) világörökségi és világörökségi várományos területek övezete | örökségvédelmi hatáskörében eljáró megyei kormányhivatal |
 
 | 11. | j) vízminőség-védelmi terület övezete | területi vízügyi igazgatóság |
 
@@ -38,7 +38,7 @@
 
 | 18. | c) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |
 
-16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^110]
+16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^106]
 
 A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
@@ -56,13 +56,13 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7. | f) erdők övezete | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
+| 7. | f) erdők övezete | erdészeti hatáskörében eljáró megyei kormányhivatal |
 
 | 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | h) tájképvédelmi terület övezete | nemzeti park igazgatóság |
 
-| 10. | i) világörökségi és világörökségi várományos területek övezete | fővárosi és megyei kormányhivatal örökségvédelmi hatáskörében eljáró járási (fővárosi kerületi) hivatala |
+| 10. | i) világörökségi és világörökségi várományos területek övezete | örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
 | 11. | j) vízminőség-védelmi terület övezete | területi vízügyi igazgatóság |
 
@@ -76,4 +76,4 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 16. | c) földtani veszélyforrás területe övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-[^110]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^106]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja szerint módosított szöveg.

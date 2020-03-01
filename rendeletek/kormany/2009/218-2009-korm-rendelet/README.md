@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-218-20-
 | 2019-03-15 | 2009-218-20-22.25 | 280/2017. (IX. 22.) Korm. rendelet |
 | 2019-06-04 | 2009-218-20-22.26 | 121/2019. (V. 27.) Korm. rendelet |
 | 2020-01-01 | 2009-218-20-22.27 | 121/2019. (V. 27.) Korm. rendelet |
+| 2020-03-01 | 2009-218-20-22.28 | 121/2019. (V. 27.) Korm. rendelet |
