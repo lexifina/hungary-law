@@ -1,4 +1,4 @@
-## 24. [^149] Az összevont telepítési eljárás iránti kérelem és az eljárás megindulása
+## 24. [^154] Az összevont telepítési eljárás iránti kérelem és az eljárás megindulása
 
 31. § (1) Az összevont telepítési eljárás lefolytatására irányuló kérelemnek – a kérelmezett eljárásoktól függően – tartalmaznia kell
 
@@ -30,11 +30,11 @@ aa) az építéssel vagy településrendezéssel érintett illetékes önkormán
 
 ab) nemzetközi eljárás esetén – a környezetvédelemért felelős miniszter útján – a hatásviselő felet,
 
-b)[^150] a kapcsolattartás módjára megjelölt rendelkezésének megfelelően értesíti
+b)[^155] a kapcsolattartás módjára megjelölt rendelkezésének megfelelően értesíti
 
 ba) az építtetőt és az építési tevékenységgel érintett telek – az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek, építmény, építményrész tulajdonosát,
 
 bb) az ismert ügyfelet.
 
-[^149]: A 24. alcím (31. §) a 70/2015. (III. 30.) Korm. rendelet 206. § (12) bekezdésével megállapított szöveg.
-[^150]: A 31. § (2) bekezdés b) pont nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 21. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^154]: A 24. alcím (31. §) a 70/2015. (III. 30.) Korm. rendelet 206. § (12) bekezdésével megállapított szöveg.
+[^155]: A 31. § (2) bekezdés b) pont nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 21. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

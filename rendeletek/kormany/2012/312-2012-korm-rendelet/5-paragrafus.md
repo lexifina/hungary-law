@@ -20,6 +20,8 @@ af) építtetője,
 
 b) a tervezett építési tevékenység helye
 
-ba) szerint illetékes építésügyi, építésfelügyeleti hatóság köztisztviselője,
+ba)[^19] szerint illetékes építésügyi, építésfelügyeleti hatóság kormánytisztviselője,
 
 bb) szerinti települési önkormányzat főépítésze.
+
+[^19]: Az 5. § (2) bekezdés b) pont ba) alpontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

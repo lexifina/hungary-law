@@ -1,4 +1,4 @@
-47. § (1)[^248] A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, az engedély tárgyától függően tartalmazza:
+47. § (1)[^260] A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, az engedély tárgyától függően tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítóját,
 
@@ -8,7 +8,7 @@ c) a bontási tevékenység rövid leírását, az építmény rendeltetését, 
 
 d) az engedély hatályát, meghosszabbításának módját, feltételeit.
 
-(2)[^249] A határozat indokolási része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, az engedély tárgyától függően tartalmazza:
+(2)[^261] A határozat indokolási része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, az engedély tárgyától függően tartalmazza:
 
 a) összefoglalóan az elfogadott, figyelembe vett szakértői véleményt,
 
@@ -22,17 +22,18 @@ b) a bontási engedély polgári jogi igényt nem dönt el,
 
 c) a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgyát képező építészeti-műszaki dokumentációba milyen módon tekinthet be,
 
-d)[^250] az építtető a bontási tevékenységet csak a végleges bontási engedély és az ahhoz tartozó – engedélyezési záradékkal ellátott – építészeti-műszaki dokumentáció alapján, az engedély hatályának időtartama alatt, továbbá a saját felelősségére és veszélyére végezhet,
+d)[^262] az építtető a bontási tevékenységet csak a végleges bontási engedély és az ahhoz tartozó – engedélyezési záradékkal ellátott – építészeti-műszaki dokumentáció alapján, az engedély hatályának időtartama alatt, továbbá a saját felelősségére és veszélyére végezhet,
 
-e)[^251] az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
+e)[^263] az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
 
 f) az építtető a bontási tevékenység befejezését követően – a külön jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania,
 
 g) a bontási tevékenység befejezését követően harminc napon belül az ingatlan-nyilvántartási változás átvezetése, valamint az OÉNY-ben történő feltüntetés érdekében a megvalósult állapotról hatályos földhivatali záradékkal ellátott változási vázrajzot kell az OÉNY-be feltölteni.
 
-(4) Az építésügyi hatóság a bontás tényéről és a (3) bekezdés g) pontjának teljesítéséről a változás átvezetése iránt végzéssel megkeresi az első fokú ingatlanügyi hatóságot.
+(4)[^264] Az építésügyi hatóság a bontás tényéről és a (3) bekezdés g) pontjának teljesítéséről a változás átvezetése iránt végzéssel megkeresi az ingatlanügyi hatóságot.
 
-[^248]: A 47. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 68. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^249]: A 47. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 69. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^250]: A 47. § (3) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 70. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^251]: A 47. § (3) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés b) pontja, a 13/2019. (II. 11.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
+[^260]: A 47. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 68. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^261]: A 47. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 69. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^262]: A 47. § (3) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 70. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^263]: A 47. § (3) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés b) pontja, a 13/2019. (II. 11.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
+[^264]: A 47. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

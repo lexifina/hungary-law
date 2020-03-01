@@ -1,12 +1,12 @@
 ## 11. Szakhatóság közreműködése
 
-12. § (1)–(3)[^63]
+12. § (1)–(3)[^65]
 
 (4) Előzetes szakhatósági állásfoglalás nélkül benyújtott építésügyi hatósági engedély iránti kérelem esetén a szakhatóságot szakhatósági állásfoglalás beszerzése érdekében az építésügyi hatóság
 
 a) hiánytalan kérelem és mellékletek esetén az eljárás megindulását követően haladéktalanul, de legkésőbb öt napon belül,
 
-b)[^64] hiányos kérelem esetén a hiánypótlást követően haladéktalanul, de legkésőbb három napon belül
+b)[^66] hiányos kérelem esetén a hiánypótlást követően haladéktalanul, de legkésőbb három napon belül
 
 az ÉTDR alkalmazásával, elektronikus úton keresi meg, biztosítva a szakhatóság számára a kérelem, az építészeti-műszaki dokumentáció és az 5. mellékletben meghatározott dokumentáció ÉTDR-ben történő megtekintésének, elérésének és véleményezésének lehetőségét.
 
@@ -20,11 +20,12 @@ c) a kérelem tárgyát és a kérelmezett engedély típusát,
 
 d) a kérelemmel érintett telek címét és helyrajzi számát,
 
-e) az arról való tájékoztatást, hogy amennyiben ellenérdekű ügyfél az első fokú építésügyi hatósági engedélyezési eljárásban nem vesz részt, és a szakhatóság az ügyintézési határidőn belül nem ad ki állásfoglalást, a hozzájárulását megadottnak kell tekinteni, valamint
+e)[^67] az arról való tájékoztatást, hogy amennyiben ellenérdekű ügyfél az építésügyi hatósági engedélyezési eljárásban nem vesz részt, és a szakhatóság az ügyintézési határidőn belül nem ad ki állásfoglalást, a hozzájárulását megadottnak kell tekinteni, valamint
 
 f) az építésügyi hatóság által a szakhatósági állásfoglalás megadásához szükségesnek ítélt egyéb információkat.
 
 (6) A szakhatóság állásfoglalásának kialakítását és az általa vizsgált dokumentáció záradékolását a számára biztosított ÉTDR-ben végzi.
 
-[^63]: A 12. § (1)–(3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 13. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^64]: A 12. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 6. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^65]: A 12. § (1)–(3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 13. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^66]: A 12. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 6. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^67]: A 10. § (5) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
