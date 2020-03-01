@@ -10,9 +10,9 @@ c)–d)
 
 e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok területe, amelyeket a tervezett tevékenység terület-igénybevétellel érinti, vagy amely a tevékenységgel igénybevett ingatlan tervezési határok közötti területével közvetlenül határos, vagy amelynek a kapubejárója az eljárás tárgyát képező útszakaszhoz közvetlenül csatlakozik.
 
-(3) A gyorsforgalmi közúthálózat közérdekűségéről és fejlesztéséről szóló külön törvényben megjelölt utakkal és az ezekkel az utakkal egy beruházásban megvalósuló egyéb utakkal kapcsolatos közlekedési hatósági eljárásokban az elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) A gyorsforgalmi közúthálózat közérdekűségéről és fejlesztéséről szóló külön törvényben megjelölt utakkal és az ezekkel az utakkal egy beruházásban megvalósuló egyéb utakkal kapcsolatos közlekedési hatósági eljárásokban hozott határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatónak nyilvánítható.
 
-(4) Az országos közutak forgalomba helyezése tárgyában hozott elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) Az országos közutak forgalomba helyezése tárgyában hozott határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatónak nyilvánítható.
 
 (5) Az elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az első fokú engedélyezési eljárásban nem vett részt.
 
