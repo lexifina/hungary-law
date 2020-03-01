@@ -1,5 +1,3 @@
-## 182. §[^179]
+## 182. § Hatályát veszti a Miniszterelnökséget vezető miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 1/2017. (I. 23.) MvM rendelet.
 
 ## 156. A szakképzési centrumok felnőttoktatási tevékenységének normatív támogatásáról szóló 1/2018. (II. 6.) NGM rendelet hatályon kívül helyezése
-
-[^179]: A 182. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

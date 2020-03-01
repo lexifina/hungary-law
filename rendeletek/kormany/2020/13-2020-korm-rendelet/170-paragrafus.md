@@ -1,5 +1,3 @@
-## 169. §[^166]
+## 169. § Hatályát veszti a felnőttképzési szakmai programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a szakmai végzettség megszerzésének igazolásáról szóló 59/2013. (XII. 13.) NGM rendelet.
 
 ## 143. A közlekedésért felelős miniszter ágazatába tartozó közlekedési szakképesítések mestervizsga követelményeiről szóló 78/2013. (XII. 20.) NFM rendelet hatályon kívül helyezése
-
-[^166]: A 169. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
