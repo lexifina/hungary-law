@@ -14,20 +14,8 @@
 
 (7)
 
-(7a) A büntetés-végrehajtási szervek tevékenységének közegészségügyi ellenőrzésével összefüggésben az egészségügyi államigazgatási szerv által hozott döntéssel szemben nincs helye fellebbezésnek.
+(7a)
 
-(7b) Az egészségügyi államigazgatási szerv által a következő hatósági ügyekben hozott első fokú döntésekkel szemben fellebbezésnek van helye:
-
-a) ivóvízbiztonsági engedély kiadása,
-
-b) további vizsgálatokra kötelezés, ha a hatóság az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben foglaltak szerint egy már nyilvántartásban lévő anyagot, terméket vagy ivóvízbiztonsági engedéllyel rendelkező technológiát közegészségügyi szempontból kockázatosnak ítél meg,
-
-c) természetes gyógytényezőkkel kapcsolatos hatósági ügyek,
-
-d) víz természetes ásványvízként való elismerése,
-
-e) harmadik országból származó természetes ásványvíz elismerése,
-
-f) egészségügyi, egészségvédelmi és kémiai terhelési bírság kiszabása.
+(7b)
 
 (8) Az ivóvízbiztonsággal, az ivóvíz vizsgálatával, valamint a természetes gyógytényezőkkel, természetes ásványvizekkel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.

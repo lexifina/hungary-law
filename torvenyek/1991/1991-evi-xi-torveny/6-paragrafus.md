@@ -18,7 +18,7 @@ h) ellátja a gyógyszerellátással és a fokozottan ellenőrzött szerekkel, i
 
 i) kijelöli azokat a gyógyszertárakat és egészségügyi intézményeket, amelyek az egészségügyért felelős miniszter által meghatározott gyógyszereket és immunbiológiai készítményeket kötelesek készletükben tartani;
 
-j) felügyeletet gyakorol a halottkémlés szakszerűsége felett, engedélyezi a nem kórházban elhunyt személy holttestének elhamvasztását;
+j) felügyeletet gyakorol a halottkémlés szakszerűsége felett;
 
 k) a helyi önkormányzatokat rendszeresen, szükség esetén alkalomszerűen tájékoztatja a lakosság egészségi állapotáról, az egészség romlását kiváltó vélelmezett okokról és a szükséges tennivalókról ;
 
