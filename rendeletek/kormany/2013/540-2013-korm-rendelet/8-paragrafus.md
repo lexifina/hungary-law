@@ -1,4 +1,4 @@
-## 7. §[^2] Az agrárgazdasági ágazat tekintetében a létfontosságú rendszerelem helyszíni ellenőrzését lefolytató szerv a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala, a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatala, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
+## 7. §[^2] Az agrárgazdasági ágazat tekintetében a létfontosságú rendszerelem helyszíni ellenőrzését lefolytató szerv a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala, a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatal, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
 
 ## 8. § Az agrárgazdasági létesítmény üzemeltetője által foglalkoztatott biztonsági összekötő személynek
 
@@ -12,4 +12,4 @@ d) a 4. § (4) bekezdésében meghatározott létesítmény esetében az állami
 
 kell rendelkeznie.
 
-[^2]: A 7. § a 379/2016. (XII. 2.) Korm. rendelet 262. §-ával megállapított szöveg.
+[^2]: A 7. § a 360/2019. (XII. 30.) Korm. rendelet 128. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
