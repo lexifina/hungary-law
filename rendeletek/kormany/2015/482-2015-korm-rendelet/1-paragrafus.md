@@ -8,6 +8,7 @@ b) a Beruházás megvalósításához, használatbavételéhez és üzemeltetés
 
 c)[^1] a Beruházás megvalósításával kapcsolatban az (1) bekezdés szerinti ingatlan, illetve a szomszédos, Budapest VIII. kerület, Reviczky utca 4. szám alatti, 36575 helyrajzi szám alatt nyilvántartott ingatlan közös telekhatárán történő, a két ingatlan között közvetlen belső átjárást biztosító összekötéséhez szükségesek.
 
-(3) A Kormány az 1. melléklet 4. pontja szerinti közigazgatási hatósági ügyekben első fokon eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokon eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+(3)[^2] A Kormány az 1. melléklet 4. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
 [^1]: Az 1. § (2) bekezdés c) pontját a 495/2016. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (3) bekezdése a 361/2019. (XII. 30.) Korm. rendelet – 30/2020. (II. 29.) Korm. rendelet 39. § (1) bekezdésével megállapított – 79. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
