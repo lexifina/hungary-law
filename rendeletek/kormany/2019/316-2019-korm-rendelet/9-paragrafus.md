@@ -1,3 +1,5 @@
-## 8. §[^8]
+## 8. § A dematerializált értékpapír előállításának és továbbításának módjáról és biztonsági szabályairól, valamint az értékpapírszámla, központi értékpapírszámla és az ügyfélszámla megnyitásának és vezetésének szabályairól szóló 284/2001. (XII. 26.) Korm. rendelet [a továbbiakban: 284/2001. (XII. 26.) Korm. rendelet] 2. § d) pontja helyébe a következő rendelkezés lép:
 
-[^8]: A 8. § a 20. § (3) bekezdése alapján 2020. március 1-jén lép hatályba.
+## [A dematerializált értékpapír előállítása, nyilvántartása, továbbítása és az ezekkel kapcsolatos adatkezelés csak olyan – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által jóváhagyott, az 5. §-ban meghatározott – szabályzat (a továbbiakban: szabályzat) alapján és olyan jóváhagyott számítógépprogram, valamint adathordozó felhasználásával történhet, amely biztosítja:]
+
+## „d) a dematerializált értékpapírba foglalt jogok és kötelezettségek (osztalék, kamat, törlesztés) mindenkori megállapíthatóságát, valamint dematerializált kötvény esetén a kezességvállaló egyoldalú jognyilatkozatának a megállapíthatóságát, ha a kötvényben a kibocsátójáért egyoldalú kezességet vállaltak,”
