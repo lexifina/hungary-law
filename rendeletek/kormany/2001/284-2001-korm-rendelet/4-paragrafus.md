@@ -8,9 +8,9 @@ c) a másolatot tartalmazó adathordozó biztonságos, a rendszerétől fizikail
 
 (2) A központi értéktár, az értékpapír-számlavezető haladéktalanul bejelenti a Felügyeletnek, ha valamely nyilvántartása megsérült vagy megsemmisült, illetve ha illetéktelen hozzáférést vagy ennek kísérletére utaló jelet észlelt.
 
-(3)[^2] A (2) bekezdésben meghatározottak esetén a központi értéktár, az értékpapír-számlavezető köteles a nyilvántartásáról másolatot készíteni, és az (1) bekezdés szerinti másolat, valamint a rendelkezésre álló bizonylatok alapján haladéktalanul helyreállítani a valós állapotot. Ha a valós állapotot az adott napon belül nem lehet helyreállítani, a központi értéktár, az értékpapír-számlavezető kérelmezi a Felügyeletnél az érintett dematerializált értékpapírok kereskedésének felfüggesztését.
+(3)[^3] A (2) bekezdésben meghatározottak esetén a központi értéktár, az értékpapír-számlavezető köteles a nyilvántartásáról másolatot készíteni, és az (1) bekezdés szerinti másolat, valamint a rendelkezésre álló bizonylatok alapján haladéktalanul helyreállítani a valós állapotot. Ha a valós állapotot az adott napon belül nem lehet helyreállítani, a központi értéktár, az értékpapír-számlavezető kérelmezi a Felügyeletnél az érintett dematerializált értékpapírok kereskedésének felfüggesztését.
 
-(4)[^3]
+(4)[^4]
 
-[^2]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 255. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A 4. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 256. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 255. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 256. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
