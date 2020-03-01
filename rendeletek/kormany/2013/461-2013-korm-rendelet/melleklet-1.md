@@ -4,4 +4,4 @@
 
 [^7]: Az 5. §-t a 12/2015. (II. 9.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A hatálybalépés időpontja 2015. február 10.
-[^9]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 56. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 105. §-a és 106. § c) pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 45. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
