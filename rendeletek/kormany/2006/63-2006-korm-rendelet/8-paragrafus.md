@@ -1,3 +1,3 @@
-8. §[^67]
+8. §[^68]
 
-[^67]: A 8. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § e) pontja hatályon kívül helyezte.
+[^68]: A 8. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § e) pontja hatályon kívül helyezte.

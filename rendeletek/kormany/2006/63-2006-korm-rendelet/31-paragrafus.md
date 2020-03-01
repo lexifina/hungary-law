@@ -1,3 +1,3 @@
-31–33. §[^164]
+31–33. §[^171]
 
-[^164]: A 31–33. §-t és a 31. §-t megelőző alcímet a 24/2015. (II. 20.) Korm. rendelet 28. § k) pontja hatályon kívül helyezte.
+[^171]: A 31–33. §-t és a 31. §-t megelőző alcímet a 24/2015. (II. 20.) Korm. rendelet 28. § k) pontja hatályon kívül helyezte.

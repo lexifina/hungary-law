@@ -1,3 +1,3 @@
-11. §[^78]
+11. §[^79]
 
-[^78]: A 11. §-t a 457/2017. (XII. 28.) Korm. rendelet 168. § f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^79]: A 11. §-t a 457/2017. (XII. 28.) Korm. rendelet 168. § f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

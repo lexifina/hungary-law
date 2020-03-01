@@ -1,3 +1,3 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^265]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^274]
 
-[^265]: A 4. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^274]: A 4. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.

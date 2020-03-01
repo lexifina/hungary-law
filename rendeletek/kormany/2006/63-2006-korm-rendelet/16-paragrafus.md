@@ -1,4 +1,4 @@
-16. §[^100] (1)[^101] A megelőző együttműködésen
+16. §[^101] (1)[^102] A megelőző együttműködésen
 
 a) az Flt. szerinti együttműködést – ideértve azokat az eseteket, amikor az álláskeresőként való nyilvántartás az Flt. 54. § (14a) bekezdés a) pontja szerinti képzésben, vagy az Flt. 54. § (14a) bekezdés c) pontja szerinti közfoglalkoztatásban való részvétel miatt szünetel –, és
 
@@ -6,11 +6,11 @@ b) a rehabilitációs hatósággal történő együttműködést
 
 ## kell érteni.
 
-(2)[^102]
+(2)[^103]
 
-(3)[^103] A megelőző együttműködés teljesítéséről kiadott igazolásnak tartalmaznia kell az együttműködés kezdő és befejező időpontját.
+(3)[^104] A megelőző együttműködés teljesítéséről kiadott igazolásnak tartalmaznia kell az együttműködés kezdő és befejező időpontját.
 
-[^100]: A 16. § a 75/2009. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^101]: A 16. § (1) bekezdése a 116/2016. (VI. 6.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^102]: A 16. § (2) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
-[^103]: A 16. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 15. § c) pontja, a 303/2018. (XII. 27.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^101]: A 16. § a 75/2009. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^102]: A 16. § (1) bekezdése a 116/2016. (VI. 6.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^103]: A 16. § (2) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^104]: A 16. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 15. § c) pontja, a 303/2018. (XII. 27.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

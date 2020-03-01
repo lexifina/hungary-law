@@ -1,3 +1,3 @@
-30. §[^163]
+30. §[^170]
 
-[^163]: A 30. §-t a 303/2018. (XII. 27.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.
+[^170]: A 30. §-t a 303/2018. (XII. 27.) Korm. rendelet 22. § d) pontja hatályon kívül helyezte.

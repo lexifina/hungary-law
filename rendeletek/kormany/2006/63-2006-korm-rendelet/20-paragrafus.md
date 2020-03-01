@@ -1,6 +1,6 @@
-## 19. §[^130] Az aktív korúak ellátására való jogosultság kérelemre történő megszüntetése – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén – automatikus döntéshozatal útján történik.
+## 19. §[^131] Az aktív korúak ellátására való jogosultság kérelemre történő megszüntetése – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén – automatikus döntéshozatal útján történik.
 
-## Gyermekek otthongondozási díja[^131]
+## Gyermekek otthongondozási díja[^132]
 
 20. § (1) A gyermekek otthongondozási díja iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
 
@@ -60,8 +60,8 @@ c) rokkantsági járadékra
 
 (7) Az intézmény vezetőjének a (3) bekezdés c) pontja szerinti igazolását a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. Az igazolás tartalmazza az ápolt gyermek, illetve személy azonosítására szolgáló adatot, az általa igénybe vett intézményi ellátás típusát, az intézmény azonosító adatait, az intézmény látogatásának időtartamára és az intézményi ellátás igénybe vételéhez a szülő, illetve az ápolást végző személy részéről szükséges személyes közreműködés mértékére vonatkozó adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
 
-(8)[^132] A gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásáról a kérelmezőt értesíteni kell.
+(8)[^133] A gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásáról a kérelmezőt értesíteni kell.
 
-[^130]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 165. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^131]: A Gyermekek otthongondozási díja alcímet (20–24. §-t) a 303/2018. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
-[^132]: A 20. § (8) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 5. §-a iktatta be.
+[^131]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 165. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^132]: A Gyermekek otthongondozási díja alcímet (20–24. §-t) a 303/2018. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^133]: A 20. § (8) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 5. §-a iktatta be.

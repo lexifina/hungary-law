@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2019-07-15 | 2006-63-20-22.54 | 171/2019. (VII. 12.) Korm. rendelet |
 | 2019-08-14 | 2006-63-20-22.55 | 190/2019. (VII. 30.) Korm. rendelet |
 | 2020-01-01 | 2006-63-20-22.56 | 313/2019. (XII. 18.) Korm. rendelet |
+| 2020-03-01 | 2006-63-20-22.57 | 360/2019. (XII. 30.) Korm. rendelet |

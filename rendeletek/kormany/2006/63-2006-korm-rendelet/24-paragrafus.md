@@ -1,6 +1,6 @@
-24. § (1) Másodfokú hatósági eljárásban a 20. § (3) bekezdés b) pontja szerinti igazolás, és a 23. § (1) bekezdése szerinti igazolás felülvizsgálatát a fővárosi és megyei kormányhivatal által népegészségügyi feladatkörben kijelölt, az ápolást indokoló diagnózis szerinti szakorvos vagy szerv végzi.
+24. § (1)[^138]
 
-(2) Másodfokú hatósági eljárásban
+(2)[^139] A közigazgatási per során
 
 a) a gyermek önellátási képességének mértékére vonatkozó, a 21. § (1) bekezdése szerinti állapot fennállására vonatkozó, az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításait a 21. § (5) bekezdésében meghatározott,
 
@@ -10,11 +10,14 @@ c) a szülő egészségi állapot miatti akadályozottságára vonatkozó, a 23.
 
 ## adattartalomnak megfelelően kell elkészíteni.
 
-(3) A (2) bekezdés a) pontja szerinti szakmai vélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
+(3)[^140]
 
-(4)[^137] A (2) bekezdés b) pontja szerinti szakmai vélemény elkészítésére a fővárosi és megyei kormányhivatal a szakmailag illetékes szakfelügyelő főorvost kéri fel.
+(4)[^141]
 
-(5)[^138] A (4) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók szakfelügyeletéről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
+(5)[^142]
 
-[^137]: A 24. § (4) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^138]: A 24. § (5) bekezdése a 190/2019. (VII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^138]: A 24. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^139]: A 24. § (2) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés c) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^140]: A 24. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^141]: A 24. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^142]: A 24. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
