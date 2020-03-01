@@ -76,4 +76,4 @@
 
 2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^73]
 
-[^73]: A 2. számú melléklet a 393/2017. (XII. 13.) Korm. rendelet 17. § b) pontjával megállapított szöveg. [A 2. számú mellékletben a 457/2017. (XII. 28.) Korm. rendlet 138. § b) pontjával elrendelt módosítás, amely szerint az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL.” az „az általános közigazgatási rendtartásról szóló 2016. évi CL.” szöveg lép, nem vezethető át.]
+[^73]: A 2. számú melléklet a 393/2017. (XII. 13.) Korm. rendelet 17. § b) pontjával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 31. § (2) bekezdés b) pontja szerint módosított szöveg. [A 2. számú mellékletben a 457/2017. (XII. 28.) Korm. rendlet 138. § b) pontjával elrendelt módosítás, amely szerint az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL.” az „az általános közigazgatási rendtartásról szóló 2016. évi CL.” szöveg lép, nem vezethető át.]

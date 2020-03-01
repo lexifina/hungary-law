@@ -56,7 +56,7 @@
 
 | 2. Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó olyan fizetési meghagyást kísérelt meg kézbesíteni, amellyel kapcsolatban a kézbesítési fikció korábban már beállt. A fizetési meghagyással szemben a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 33. §-a szerint lehet ellentmondást előterjeszteni. |
 
-| 3. Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó olyan ingatlan-nyilvántartási határozatot kísérelt meg kézbesíteni, amellyel kapcsolatban a kézbesítési fikció korábban már beállt. A kézbesítési fikció ellen az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben foglalt feltételek fennállása esetén a fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró járási (fővárosi kerületi) hivatalánál kifogás terjeszthető elő. A címzett az iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában. |
+| 3. Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó olyan ingatlan-nyilvántartási határozatot kísérelt meg kézbesíteni, amellyel kapcsolatban a kézbesítési fikció korábban már beállt. A kézbesítési fikció ellen az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben foglalt feltételek fennállása esetén az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatalnál kifogás terjeszthető elő. A címzett az iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában. |
 
 | 4. Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó felszámolói értesítést kísérelt meg kézbesíteni. |
 

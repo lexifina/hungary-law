@@ -52,7 +52,7 @@ p)[^14] közeli hozzátartozó: a Ptk. szerinti közeli hozzátartozó;
 
 q)[^15] ingatlan-nyilvántartási határozat: az ingatlan-nyilvántartásba bejegyezhető valamely jog bejegyzéséről, módosításáról vagy törléséről szóló, az ingatlanügyi hatóság által meghozott határozat, amellyel kapcsolatban a kézbesítési fikció valamely címzett vonatkozásában az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 86. § (1) bekezdése alapján beállt, és amelynek végrehajtói kézbesítése az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 52/A. § (2) bekezdése alapján kérhető;
 
-r)[^16] ingatlan-nyilvántartási irat: az ingatlan-nyilvántartási határozat fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: ingatlanügyi hatóság) által készített kiadmányáról, a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott másolat;
+r)[^16] ingatlan-nyilvántartási irat: az ingatlan-nyilvántartási határozat ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: ingatlanügyi hatóság) által készített kiadmányáról, a végrehajtó által e rendelet rendelkezései szerint készített és záradékkal ellátott másolat;
 
 s)[^17] felszámolói értesítés: a felszámolónak (felszámolóbiztosnak) a Cstv. alapján az adós gazdálkodó szervezet vezetői részére címzett felszólítása, értesítése, amellyel kapcsolatban a megkísérelt kézbesítés – a Cstv. 31. §-ában foglaltak szempontjából – eredménytelen volt, és amelynek végrehajtói kézbesítése a Cstv. 33. § (1) bekezdése alapján kérhető;
 
@@ -74,7 +74,7 @@ u)[^19] külföldi irat: a nemzetközi magánjogról szóló 2017. évi XXVIII. 
 [^13]: A 2. § n) pontja a 142/2010. (IV. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^14]: A 2. § p) pontját a 331/2007. (XII. 13.) Korm. rendelet 3. § 25. pontja hatályon kívül helyezte, újonnan a 142/2010. (IV. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^15]: A 2. § q) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendlet 137. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^16]: A 2. § r) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^16]: A 2. § r) pontját a 11/2008. (I. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^17]: A 2. § s) pontját a 238/2009. (X. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 2. § t) pontját a 238/2009. (X. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 477/2016. (XII. 27.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
 [^19]: A 2. § u) pontját a 480/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.

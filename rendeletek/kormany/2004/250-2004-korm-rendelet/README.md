@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-250-20-
 | 2015-09-09 | 2004-250-20-22.13 | 242/2015. (IX. 8.) Korm. rendelet |
 | 2017-01-01 | 2004-250-20-22.14 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2004-250-20-22.15 | 393/2017. (XII. 13.) Korm. rendelet |
+| 2020-03-01 | 2004-250-20-22.16 | 11/2008. (I. 26.) Korm. rendelet |
