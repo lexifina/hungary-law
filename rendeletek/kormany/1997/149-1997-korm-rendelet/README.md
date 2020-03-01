@@ -56,3 +56,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2019-07-19 | 1997-149-20-22.73 | 179/2019. (VII. 18.) Korm. rendelet |
 | 2019-08-30 | 1997-149-20-22.74 | 210/2019. (VIII. 27.) Korm. rendelet |
 | 2020-01-01 | 1997-149-20-22.75 | 311/2019. (XII. 18.) Korm. rendelet |
+| 2020-03-01 | 1997-149-20-22.76 | 31/2020. (II. 29.) Korm. rendelet |

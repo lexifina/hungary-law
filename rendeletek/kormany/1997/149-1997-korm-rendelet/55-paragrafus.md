@@ -4,14 +4,18 @@
 
 55. § (1) Az anya – gyermeke családi jogállásának rendezése érdekében történő – meghallgatásakor jegyzőkönyvbe kell foglalni mindazokat az adatokat, amelyek a későbbiekben az apaság megállapítása iránti per megindításához, vagy a képzelt személy apaként történő bejegyzéséhez szükségesek.
 
-(2) Az apaként megnevezett férfit a gyámhivatal meghallgatja és, ha az apaság tényét nem vitatja, felhívja őt az apai elismerő nyilatkozat megtételére, majd nyilatkozatát jegyzőkönyvben rögzíti.
+(1a)[^383] A települési önkormányzat jegyzője haladéktalanul értesíti a gyámhivatalt, ha az anya kiskorú személyt nevez meg apaként.
 
-(3)[^396] Ha az anya korlátozottan cselekvőképes kiskorú, a meghallgatásán – a Gyvt. 128. § (1a) bekezdése kivételével – a törvényes képviselője is jelen van. A gyámhivatal a korlátozottan cselekvőképes kiskorú férfit a törvényes képviselője jelenlétében hallgatja meg.
+(2)[^384] Az apaként megnevezett férfit kiskorú apa esetén a gyámhivatal, nagykorú apa esetén a települési önkormányzat jegyzője meghallgatja és, ha az apaság tényét nem vitatja, felhívja őt az apai elismerő nyilatkozat megtételére, majd nyilatkozatát jegyzőkönyvben rögzíti.
 
-(4)[^397] A gyámhivatal a törvényes képviselő jelenlétében hallgatja meg a cselekvőképességében a származás megállapításával összefüggő jognyilatkozatok tekintetében részlegesen korlátozott anyát és apaként megnevezett férfit.
+(3)[^385] Ha az anya korlátozottan cselekvőképes kiskorú, a meghallgatásán – a Gyvt. 128. § (1a) bekezdése kivételével – a törvényes képviselője is jelen van. A gyámhivatal, a települési önkormányzat jegyzője a korlátozottan cselekvőképes kiskorú férfit a törvényes képviselője jelenlétében hallgatja meg.
 
-(5)[^398] A gyámhivatal a meghallgatás során tájékoztatja az anyát és az apaként megnevezett férfit, hogy az apasági vélelem megtámadására ad alapot, ha a teljes hatályú apai elismerő nyilatkozatot jogszabály megkerülése céljából tették.
+(4)[^386] A gyámhivatal, a települési önkormányzat jegyzője a törvényes képviselő jelenlétében hallgatja meg a cselekvőképességében a származás megállapításával összefüggő jognyilatkozatok tekintetében részlegesen korlátozott anyát és apaként megnevezett férfit.
 
-[^396]: Az 55. § (3) bekezdését a 70/2014. (III. 13.) Korm. rendelet 43. §-a iktatta be.
-[^397]: Az 55. § (4) bekezdését a 70/2014. (III. 13.) Korm. rendelet 43. §-a iktatta be.
-[^398]: Az 55. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 43. §-a iktatta be.
+(5)[^387] A gyámhivatal, a települési önkormányzat jegyzője a meghallgatás során tájékoztatja az anyát és az apaként megnevezett férfit, hogy az apasági vélelem megtámadására ad alapot, ha a teljes hatályú apai elismerő nyilatkozatot jogszabály megkerülése céljából tették.
+
+[^383]: Az 55. § (1a) bekezdését a 31/2020. (II. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^384]: Az 55. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^385]: Az 55. § (3) bekezdését a 70/2014. (III. 13.) Korm. rendelet 43. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^386]: Az 55. § (4) bekezdését a 70/2014. (III. 13.) Korm. rendelet 43. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^387]: Az 55. § (5) bekezdését a 70/2014. (III. 13.) Korm. rendelet 43. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 1. § (9) bekezdés e) pontja szerint módosított szöveg.

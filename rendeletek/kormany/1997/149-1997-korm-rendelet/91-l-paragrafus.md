@@ -8,6 +8,6 @@ a) magas foka esetén részt vesz,
 
 b) közepes foka esetén részt vehet.
 
-(4)[^706] A gyámhivatal a pártfogó felügyelői szolgálatnak a tárgyalásról való értesítésével egyidejűleg felhívja a család- és gyermekjóléti központot, hogy küldje meg a pártfogó felügyelői szolgálat részére a gyermekjóléti alapellátás során felvett azon adatlapokat, amelyek még nem állnak a pártfogó felügyelői szolgálat rendelkezésére.
+(4)[^700] A gyámhivatal a pártfogó felügyelői szolgálatnak a tárgyalásról való értesítésével egyidejűleg felhívja a család- és gyermekjóléti központot, hogy küldje meg a pártfogó felügyelői szolgálat részére a gyermekjóléti alapellátás során felvett azon adatlapokat, amelyek még nem állnak a pártfogó felügyelői szolgálat rendelkezésére.
 
-[^706]: A 91/L. § (4) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.
+[^700]: A 91/L. § (4) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 22. pontja szerint módosított szöveg.

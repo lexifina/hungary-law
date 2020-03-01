@@ -1,4 +1,4 @@
-## 8/B. §[^28] Az ügyfél kérelmére az eljárás szünetelésének nincs helye az örökbefogadás engedélyezése iránti eljárásban, a családbafogadó gyám kirendelése iránti eljárásban, valamint a kapcsolattartás rendezése és végrehajtása iránti eljárásban.
+## 8/B. §[^28] Az ügyfél kérelmére az eljárás szünetelésének nincs helye az örökbefogadás engedélyezése iránti eljárásban, a családbafogadó gyám kirendelése iránti eljárásban, valamint a kapcsolattartás rendezése iránti eljárásban.
 
 ## Irat[^29]
 
@@ -6,6 +6,6 @@
 
 (2) A gyámhivatal hivatalból gondoskodik a gyermek bántalmazásáról, elhanyagolásáról érkezett jelzést vagy kezdeményezést tevő intézmény, személy adatainak zártan történő kezeléséről. A gyámhivatal elutasítja az ügyfélnek a zártan kezelendő adatokat tartalmazó irat azon részébe való betekintésre irányuló kérelmét, amelyből következtetés vonható le a jelzést vagy kezdeményezést tevő intézményre, személyre.
 
-[^28]: A 8/B. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 40. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^28]: A 8/B. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 40. § (3) bekezdése iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 1. § (10) bekezdés b) pontja szerint módosított szöveg.
 [^29]: A 8/C. §-t megelőző alcímet a 315/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be.
 [^30]: A 8/C. §-t a 315/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
