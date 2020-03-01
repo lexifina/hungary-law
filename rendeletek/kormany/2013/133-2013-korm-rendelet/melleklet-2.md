@@ -1,28 +1,26 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárás | Eljáró hatóság |
 
-| 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
-| 4. | természetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 4. | természetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
 | 5. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal |
 
-| 8. | művelési ágból történő kivétel hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 8. | művelési ágból történő kivétel hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 10. | telekalakítási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala |
+| 11. | földmérési hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
