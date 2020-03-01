@@ -4,21 +4,21 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Gödöllői uszoda beruházás | Gödöllő 5880 helyrajzi számú ingatlan | általános építésügyi hatósági engedélyezési eljárások | Gödöllői Járási Hivatal |
+| 2. | Gödöllői uszoda beruházás | Gödöllő 5880 helyrajzi számú ingatlan | általános építésügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Gödöllői Járási Hivatal |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Pest Megyei Kormányhivatal |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 

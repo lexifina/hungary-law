@@ -4,4 +4,4 @@
 
 [^9]: A 8. §-t a 33/2018. (III. 5.) Korm. rendelet 2. §-a iktatta be.
 [^10]: A hatálybalépés időpontja 2018. március 6.
-[^11]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 131. §-a és 132. § c) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
