@@ -2,14 +2,16 @@
 
 ## 4. Az erdészeti hatóság kijelölése
 
-## 10. §[^19] A Kormány erdészeti hatóságként
+## 10. §[^25] A Kormány erdészeti hatóságként
 
 a) a minisztert,
 
 b) a NÉBIH-et,
 
-c) a Pest Megyei Kormányhivatalt és
+c) a Pest Megyei Kormányhivatalt,
 
-d) a 2. mellékletben meghatározott járási hivatalt
+d) a 2. mellékletben meghatározott megyei kormányhivatalt,
 
-[^19]: A 10. § a 159/2019. (VI. 28.) Korm. rendelet 48. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+e) az NFK-t
+
+[^25]: A 10. § a 29/2020. (II. 28) Korm. rendelet 3. §-ával megállapított szöveg.

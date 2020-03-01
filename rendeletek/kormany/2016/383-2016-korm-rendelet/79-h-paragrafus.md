@@ -22,4 +22,6 @@ a (2)–(6) bekezdésben meghatározott közlekedésbiztonsági szakkérdéseket
 
 (6) Az (1) bekezdés e) pontja szerinti esetben vizsgálandó szakkérdés, hogy a tervezett telekalakítás korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú légiközlekedést, illetve a repülőtéri létesítmények működését.
 
-(7) Ha a (2)–(6) bekezdés szerinti közlekedésbiztonsági szakkérdés elbírálására a másodfokú ingatlanügyi hatóság nem rendelkezik szakértelemmel, a szakkérdés vizsgálatára szakértőként a közlekedésért felelős miniszter rendelhető ki.
+(7)[^203]
+
+[^203]: A 79/H. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 28. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

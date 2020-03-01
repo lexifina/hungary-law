@@ -1,6 +1,6 @@
-## Az erdészeti hatóságként eljáró járási hivatalok illetékességi területe
+## Az erdészeti hatóságként eljáró megyei kormányhivatalok illetékességi területe
 
-## 1. Pest Megyei Kormányhivatal Érdi Járási Hivatala
+## 1. Pest Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -36,7 +36,7 @@
 
 ## 16. Szentendrei
 
-## 2. Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala
+## 2. Veszprém Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -60,7 +60,7 @@
 
 ## 10. Zirci
 
-## 3. Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala
+## 3. Vas Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -94,7 +94,7 @@
 
 ## 15. Sopron-Fertőmelléki
 
-## 4. Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala
+## 4. Zala Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -120,7 +120,7 @@
 
 ## 11. Zalakomári
 
-## 5. Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala
+## 5. Somogy Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -150,7 +150,7 @@
 
 ## 13. Zamárdi
 
-## 6. Baranya Megyei Kormányhivatal Pécsi Járási Hivatala
+## 6. Baranya Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -188,7 +188,7 @@
 
 ## 17. Vajszlói
 
-## 7. Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala
+## 7. Bács-Kiskun Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -220,7 +220,7 @@
 
 ## 14. Marosszög-Csanádi
 
-## 8. Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala
+## 8. Hajdú-Bihar Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -244,7 +244,7 @@
 
 ## 10. Szolnok-Jászsági
 
-## 9. Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala
+## 9. Borsod-Abaúj-Zemplén Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -288,7 +288,7 @@
 
 ## 20. Tornai
 
-## 10. Heves Megyei Kormányhivatal Egri Járási Hivatala
+## 10. Heves Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -890,7 +890,7 @@ Szombathelyi járás
 
 Kőszegi járás
 
-18.[^123] Veszprém megye
+18.[^208] Veszprém megye
 
 18.1. Devecseri Járási Hivatal
 
@@ -942,4 +942,4 @@ Letenyei járás
 
 Zalaegerszegi járás
 
-[^123]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.
+[^208]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.

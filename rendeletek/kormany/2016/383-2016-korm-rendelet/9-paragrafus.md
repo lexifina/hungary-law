@@ -2,11 +2,11 @@
 
 a) 22. § (3) bekezdésében, 23. § (3) bekezdésében, 24/A. §-ában, 28. §-ában a tételes minősítés tekintetében, 29. §-ában, 30. § (2) bekezdésében, 32. § (2) bekezdésében, 45. §-ában foglaltak tekintetében a NÉBIH,
 
-b) 11. § (4) bekezdésében, 13/B. § (1) bekezdésében, 20. § (1) bekezdésében, 25. § (2) bekezdésében, 44. § (1) és (2) bekezdésében, 47/A. §-ában, 48. §-ában, 51. § (1) és (4) bekezdésében, 51/A. § (1) és (3) bekezdésében foglaltak tekintetében a NÉBIH és a megyeszékhely szerinti járási hivatal,
+b)[^23] 11. § (4) bekezdésében, 13/B. § (1) bekezdésében, 20. § (1) bekezdésében, 25. § (2) bekezdésében, 44. § (1) és (2) bekezdésében, 47/A. §-ában, 48. §-ában, 51. § (1) és (4) bekezdésében, 51/A. § (1) és (3) bekezdésében foglaltak tekintetében a NÉBIH és a megyei kormányhivatal,
 
 c) 24. § (1) bekezdésében a nyilvántartásba vétel, illetve annak honlapon történő közzététele, valamint a 44. § (4) bekezdése tekintetében a Pest Megyei Kormányhivatal,
 
-d)[^18] 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében, 24. § (2) bekezdésében a megyeszékhely szerinti járási hivatal
+d)[^24] 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében, 24. § (2) bekezdésében a megyei kormányhivatal
 
 ## a kijelölt borászati hatóság.
 
@@ -18,4 +18,5 @@ a) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: he
 
 b) az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vámtv.) 11. § (1) bekezdés e) pont ek) alpontjában
 
-[^18]: A 9. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 9. § (1) bekezdés b) pontja a 30/2020. (II. 29.) Korm. rendelet 29. § (4) bekezdése szerint módosított szöveg.
+[^24]: A 9. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja, (45) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

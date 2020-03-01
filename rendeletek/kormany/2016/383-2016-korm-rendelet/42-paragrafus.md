@@ -12,17 +12,17 @@ c) az Mkk tv.-ben,
 
 d) a 2012. évi CXX. törvény 9. § (3) bekezdés g) pontjában,
 
-e)[^81] a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Mgtpt.) 20. § (1) és (2) bekezdésében, 22. § (1), (2) és (5) bekezdésében
+e)[^130] a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Mgtpt.) 20. § (1) és (2) bekezdésében, 22. § (1), (2) és (5) bekezdésében
 
 ## foglaltak tekintetében.
 
-(2)[^82] A Kormány mezőgazdasági igazgatási szervként az Szja tv. 81/C. §-ában foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró járási (fővárosi kerületi) hivatalt jelöli ki.
+(2)[^131] A Kormány mezőgazdasági igazgatási szervként az Szja tv. 81/C. §-ában foglaltak tekintetében a NÉBIH-et jelöli ki.
 
-(2a)[^83] A Kormány mezőgazdasági igazgatási szervként az Mgtpt. 7. § (3) bekezdésében, 7/A. § (5) bekezdésében, valamint 8. § (7) bekezdésében foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró járási hivatalt jelöli ki azzal, hogy az Mgtpt. 7/A. § (5) bekezdésében foglaltak tekintetében a feldolgozó mezőgazdasági üzemközpontja szerint illetékes földművelésügyi igazgatási hatáskörben eljáró járási hivatal jár el.
+(2a)[^132] A Kormány mezőgazdasági igazgatási szervként az Mgtpt. 7. § (3) bekezdésében, 7/A. § (5) bekezdésében, valamint 8. § (7) bekezdésében foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatalt jelöli ki azzal, hogy az Mgtpt. 7/A. § (5) bekezdésében foglaltak tekintetében a feldolgozó mezőgazdasági üzemközpontja szerint illetékes földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal jár el.
 
 (3) A Kormány mezőgazdasági igazgatási szervként a földrendező és földkiadó bizottságokról szóló 1993. évi II. törvény (a továbbiakban: Fkbt.) 9/C. § (3) bekezdése tekintetében a földművelésügyi igazgatási hatáskörében eljáró megyei kormányhivatalt jelöli ki.
 
-(4) A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatalt jelöli ki
+(4)[^133] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatalt jelöli ki
 
 a) a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25/A. §-ában,
 
@@ -34,22 +34,17 @@ d) a hegyközségi törvény 34. § (4) bekezdésében, 51. § (2) és (3) bekez
 
 e) a Bit. 138. § (1) bekezdés t) pontjában és 145. § (1) bekezdés h) pontjában,
 
-f)[^84] a Földforgalmi tv. 35. § (1) bekezdésében, (4) bekezdésében és (5) bekezdés második mondatában
+f)[^134] a Földforgalmi tv. 35. § (1) bekezdésében, (4) bekezdésében és (5) bekezdés második mondatában
 
 ## foglaltak tekintetében.
 
-(5)[^85] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró járási hivatalt, a főváros területére kiterjedően az Érdi Járási Hivatalt jelöli ki
-
-a) a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 17. § (1) bekezdésében, 21. §-ában, 22. § (2) bekezdésében foglaltak, valamint
-
-b) a települési önkormányzat által létesített mezei őrszolgálat és a hegyközség által létrehozott hegyőrség megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás iránti kérelem elbírálása
-
-tekintetében.
+(5)[^135]
 
 (6) A Kormány mezőgazdasági igazgatási szervként a Tfvt. 5. § (6) bekezdése és a 61. § (1) bekezdése tekintetében a Magyar Államkincstárt jelöli ki.
 
-[^81]: A 42 § (1) bekezdés e) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
-[^82]: A 42. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 590. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^83]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (36) bekezdésével megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^84]: A 42. § (4) bekezdés f) pontját a 457/2017. (XII. 28.) Korm. rendelet 589. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
-[^85]: A 42. § (5) bekezdése a 20/2017. (II. 2.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^130]: A 42 § (1) bekezdés e) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
+[^131]: A 42. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^132]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (37) bekezdésével megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^133]: A 42. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^134]: A 42. § (4) bekezdés f) pontját a 457/2017. (XII. 28.) Korm. rendelet 589. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^135]: A 42. § (5) bekezdését a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés d) pontja hatályon kívül helyezte.

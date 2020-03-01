@@ -1,11 +1,9 @@
 ## jelöli ki.
 
-11. § (1) Elsőfokú erdészeti hatóságként – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az erdőterület fekvése szerint illetékes, 2. mellékletben meghatározott járási hivatal jár el.
+11. §[^26] (1) Erdészeti hatóságként – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az erdőterület fekvése szerint illetékes, a 2. mellékletben meghatározott megyei kormányhivatal jár el. Budapest területén fekvő erdőterület esetén a Pest Megyei Kormányhivatal jár el.
 
-(2) Másodfokú erdészeti hatóságként – ha kormányrendelet eltérően nem rendelkezik – a Pest Megyei Kormányhivatal jár el.
+(2) Az (1) bekezdés szerinti erdészeti hatóság felügyeleti szerveként a miniszter jár el.
 
-(2a)[^20] Az (1) bekezdés szerinti erdészeti hatóság felügyeleti szerveként a Pest Megyei Kormányhivatal jár el.
+(3) Az erdészeti hatóságként eljáró Pest Megyei Kormányhivatal illetékessége a 12. § (3) és (4) bekezdésében meghatározott feladatok tekintetében az ország egész területére kiterjed, valamint az erdészeti igazgatási feladatkörében eljáró Pest Megyei Kormányhivatal a 12. § (6) bekezdésében meghatározott feladat tekintetében az ország egész területén eljár.
 
-(3) Az erdészeti hatóságként eljáró Pest Megyei Kormányhivatal illetékessége az ország egész területére kiterjed.
-
-[^20]: A 11. § (2a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 13. §-a iktatta be.
+[^26]: A 11. § a 29/2020. (II. 28) Korm. rendelet 3. §-ával megállapított szöveg.
