@@ -1,6 +1,6 @@
 ## 1. A körzeti erdőtervezés szabályai
 
-1. § (1)[^1] Az erdészeti hatáskörben eljáró járási hivatal (a továbbiakban: erdészeti hatóság) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 33. § (1) bekezdés a) pontja szerinti igazgatási tevékenység megkezdéséről a Nemzeti Földügyi Központ (a továbbiakban: NFK) honlapján tájékoztatást helyez el. A tájékoztatás megjelenéséről az erdészeti hatóság értesíti
+1. § (1)[^1] A Nemzeti Földügyi Központ (a továbbiakban: NFK) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 33. § (1) bekezdés a) pontja szerinti igazgatási tevékenység megkezdéséről a Nemzeti Földügyi Központ (a továbbiakban: NFK) honlapján tájékoztatást helyez el. A tájékoztatás megjelenéséről az NFK értesíti
 
 a) az érintett erdőgazdálkodókat,
 
@@ -22,9 +22,9 @@ e) az erdőtervezési körzetnek az Országos Erdőállomány Adattár (a továb
 
 (3)[^2] Az (1) bekezdés szerinti tájékoztatást a NFK honlapján az Evt. 33. § (1) bekezdés b) pontja szerinti körzeti erdőtervezési eljárás lezárásáig fent kell tartani.
 
-(4) Az erdőterület elhelyezkedése szerint érintett település jegyzője az erdészeti hatóság értesítése alapján a körzeti erdőtervezés megkezdéséről szóló tájékoztatást a helyben szokásos módon közzéteszi.
+(4)[^3] Az erdőterület elhelyezkedése szerint érintett település jegyzője az NFK értesítése alapján a körzeti erdőtervezés megkezdéséről szóló tájékoztatást a helyben szokásos módon közzéteszi.
 
-(5) Az erdészeti hatóság a körzeti erdőtervezés során az alábbi hatóságokat (a továbbiakban: érintett hatóságok), illetve a feladatellátásuk során megszerzett, hatósági nyilvántartásban nem szereplő tények, adatok szolgáltatása céljából az alábbi szerveket (a továbbiakban: kezelő szerv) értesíti:
+(5)[^4] Az NFK a körzeti erdőtervezés során az alábbi hatóságokat (a továbbiakban: érintett hatóságok), illetve a feladatellátásuk során megszerzett, hatósági nyilvántartásban nem szereplő tények, adatok szolgáltatása céljából az alábbi szerveket (a továbbiakban: kezelő szerv) értesíti:
 
 a) az Evt. 24. § (2) bekezdés a) és j) pontjában foglalt rendeltetés, valamint Natura 2000 hálózat részeként kijelölt terület esetén hatóságként a természetvédelmi hatóságot, kezelő szervként a nemzeti park igazgatóságot,
 
@@ -50,7 +50,10 @@ k) az Evt. 26. § b) pontja szerinti esetben hatóságként a növénytermeszté
 
 l) az Evt. 26. § e) pontjában foglalt rendeltetés esetén hatóságként a talajvédelmi hatóságot.
 
-(6) Az érintett hatóságok és kezelő szervek hatósági nyilvántartásban nem szereplő tényeket és adatokat az erdőtervezés ütemtervében meghatározott év április 30-ig megküldik az erdészeti hatóság részére.
+(6)[^5] Az érintett hatóságok és kezelő szervek hatósági nyilvántartásban nem szereplő tényeket és adatokat az erdőtervezés ütemtervében meghatározott év április 30-ig megküldik az NFK részére.
 
-[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 53. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 53. § a) pontja, a 29/2020. (II. 28.) Korm. rendelet 6. § a) és b) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^3]: Az 1. § (4) bekezdése a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdés nyitó szövegrésze a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (6) bekezdése a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

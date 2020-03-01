@@ -30,6 +30,8 @@ a) a bejelentés időpontjának a bejelentés elküldése számít, valamint
 
 b) az erdészeti hatóság az ügyfélkapun keresztül legkésőbb a bejelentett tevékenységre való jogszerzés Evt.-ben rögzített időpontjáig
 
-ba) a jogszerűen végezhető tevékenységek felsorolását is tartalmazó igazolást állít ki azok jogszerű megkezdésére vonatkozóan, vagy
+ba)[^24]
 
 bb) tájékoztatja a bejelentőt a bejelentett tevékenység megtiltására, korlátozására, illetve feltételekhez kötésére irányuló eljárás megindításáról.
+
+[^24]: A 12. § (7) bekezdés b) pont ba) alpontját a 360/2019. (XII. 30.) Korm. rendelet 186. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

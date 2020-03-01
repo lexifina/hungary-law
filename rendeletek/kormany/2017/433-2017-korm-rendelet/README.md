@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-433-20-
 | 2018-01-01 | 2017-433-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-02 | 2017-433-20-22.4 | 2010: CXXX. törvény |
 | 2020-01-01 | 2017-433-20-22.5 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2020-03-01 | 2017-433-20-22.6 | 29/2020. (II. 28.) Korm. rendelet |

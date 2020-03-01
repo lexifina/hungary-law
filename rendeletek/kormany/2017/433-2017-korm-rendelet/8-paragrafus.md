@@ -2,11 +2,11 @@
 
 ## 2. Az erdészeti hatóság részére tett bejelentések, illetve hatósági engedélyezések eljárási szabályai
 
-8. § (1) Az erdészeti hatósághoz vagy a NÉBIH-hez tett bejelentést vagy kérelmet – ha jogszabály eltérően nem rendelkezik –
+8. § (1)[^21] Az erdészeti hatáskörben eljáró megyei kormányhivatalhoz (a továbbiakban: erdészeti hatóság) vagy a NÉBIH-hez tett bejelentést vagy kérelmet – ha jogszabály eltérően nem rendelkezik –
 
-a)[^7] a NFK által rendszeresített és a honlapján közzétett formanyomtatványon vagy
+a)[^22] a NFK által rendszeresített és a honlapján közzétett formanyomtatványon vagy
 
-b)[^8] a NFK által megadott adatformátumban és adattartalommal elektronikus úton
+b)[^23] a NFK által megadott adatformátumban és adattartalommal elektronikus úton
 
 ## kell megtenni.
 
@@ -14,5 +14,6 @@ b)[^8] a NFK által megadott adatformátumban és adattartalommal elektronikus �
 
 (3) A földrészlet vagy alrészlet részterületét érintő fásításra vonatkozó bejelentés esetén a bejelentéshez csatolni kell a bejelentett tevékenység területi elhelyezkedésének bemutatását 30 napnál nem régebbi, állami ingatlan-nyilvántartási térképi adatbázisból kiadott térképmásolaton feltüntetve.
 
-[^7]: A 8. § (1) bekezdés a) pontja a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^8]: A 8. § (1) bekezdés b) pontja a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^21]: A 8. § (1) bekezdés nyitó szövegrésze a 29/2020. (II. 28.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdés a) pontja a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^23]: A 8. § (1) bekezdés b) pontja a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
