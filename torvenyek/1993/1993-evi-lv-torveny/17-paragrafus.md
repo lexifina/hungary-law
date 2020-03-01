@@ -26,4 +26,4 @@ d) az állampolgárságot érintő adat vagy okirat beszerzése érdekében más
 
 (9) Az állampolgársági bizonyítvány kiadása iránti kérelem esetén az állampolgársági ügyekben eljáró szerv a kérelem visszautasításáról, az eljárás megszüntetéséről és felfüggesztéséről, valamint az eljárási költség viselése tekintetében végzéssel dönt.
 
-(10) Az állampolgársági ügyekben eljáró szerv döntésével szemben nincs helye fellebbezésnek.
+(10)
