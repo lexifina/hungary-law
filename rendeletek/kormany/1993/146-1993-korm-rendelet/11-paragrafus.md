@@ -12,7 +12,7 @@ c) intézkedik a tudomására jutott eljárási szabálytalanságok megszüntet�
 
 d)[^47]
 
-e)[^48] másodfokú hatósági jogkörrel rendelkezik a jegyző vagy a járási hivatal által nyilvántartási ügyben hozott első fokú döntéssel szemben benyújtott fellebbezés elbírálására;
+e)[^48] másodfokú hatósági jogkörrel rendelkezik a jegyző által nyilvántartási ügyben hozott első fokú döntéssel szemben benyújtott fellebbezés elbírálására;
 
 f) ellátja a nyilvántartás helyi szintű számítógépes kezelésének technikai felügyeletét;
 
@@ -24,4 +24,4 @@ h) gondoskodik a területi adatgyűjtő és adatszétosztó, valamint a kommunik
 [^45]: Az R. 11. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 9. pontja szerint módosított szöveg.
 [^46]: Az R. 11. § b) pontja a 417/2012. (XII. 29.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^47]: Az R. 11. § d) pontját a 345/2014. (XII. 23.) Korm. rendelet 29. §-a hatályon kívül helyezte.
-[^48]: Az R. 11. § e) pontja a 417/2012. (XII. 29.) Korm. rendelet 40. § f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 15. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^48]: Az R. 11. § e) pontja a 457/2017. (XII. 28.) Korm. rendelet 15. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

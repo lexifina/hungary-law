@@ -2,7 +2,7 @@
 
 ## A nyilvántartást kezelő szerv feladatai[^49]
 
-12. § (1)[^50] A nyilvántartást kezelő szerv elsőfokú hatósági jogkörében
+12. § (1)[^50] A nyilvántartást kezelő szerv hatósági jogkörében
 
 a) dönt a személyi azonosító kiadásáról, módosításáról vagy visszavonásáról;
 
@@ -25,7 +25,7 @@ f)[^51] dönt a nála, a járási hivatalnál, valamint a konzuli tisztviselőn�
 (5)[^55]
 
 [^49]: Az R. 12. §-a előtti alcím a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
-[^50]: Az R. 12. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^50]: Az R. 12. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (5) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^51]: Az R. 12. § (1) bekezdés f) pontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^52]: Az 12. § (2) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 10. pontja szerint módosított szöveg.
 [^53]: Az R. 12. §-ának (3) bekezdése a 9/2004. (I. 31.) Korm. rendelet 2. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
