@@ -1,4 +1,4 @@
-## 12. §[^77] A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrség és a megyeszékhely szerinti járási hivatal, valamint a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala jogosult. A NÉBIH a megyeszékhely szerinti és a népegészségügyi feladatkörben eljáró járási (fővárosi kerületi) hivatalok által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, az agrárpolitikáért felelős miniszter részére történő adatszolgáltatásról.
+## 12. §[^77] A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrség és a kormányhivatal, valamint a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal jogosult. A NÉBIH a kormányhivatal és a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, a miniszter részére történő adatszolgáltatásról.
 
 ## Ipari mákkal és magas THC tartalmú kenderrel végezhető egyéb tevékenységek
 
@@ -34,7 +34,7 @@ b) a kábítószer előállítására felhasználható növényekkel kapcsolatos
 
 (10) Az (1) bekezdés szerinti nemesítési és fajtafenntartási tevékenység fajtakísérletek, gyűjteményfenntartás, újraszaporítás, valamint a nemzetközi megrendelésekhez való adatszolgáltatás céljából csak ellenőrzött körülmények között végezhető.
 
-[^77]: A 12. § a 70/2015. (III. 30.) Korm. rendelet 61. § (4) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § m)–n) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
+[^77]: A 12. § a 360/2019. (XII. 30.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^78]: A 13. § (1) bekezdése a 332/2016. (XI. 8.) Korm. rendelet 6. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § o) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.
 [^79]: A 13. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § p) pontja szerint módosított szöveg.
 [^80]: A 13. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
