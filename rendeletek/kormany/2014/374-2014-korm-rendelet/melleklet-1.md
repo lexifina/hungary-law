@@ -2,9 +2,9 @@
 
 1. melléklet a 374/2014. (XII. 31.) Korm. rendelethez[^117]
 
-Az osztatlan közös földtulajdon megszüntetésével kapcsolatos, az Fkbt. 12/F. § (3) bekezdése alapján a járási hivatalt megillető költségtérítés
+Az osztatlan közös földtulajdon megszüntetésével kapcsolatos, az Fkbt. 12/F. § (3) bekezdése alapján a ingatlanügyi hatóságot megillető költségtérítés
 
-Járási hivatalok adminisztrációs költségei
+A fővárosi és megyei kormányhivatalok adminisztrációs költségei
 
 |  | A | B |
 
@@ -26,4 +26,4 @@ Járási hivatalok adminisztrációs költségei
 
 [^115]: A 36. §-t a 138/2017. (VI. 9.) Korm. rendelet 3. §-a iktatta be.
 [^116]: A hatálybalépés napja 2017. június 17.
-[^117]: Az 1. mellékletet a 478/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 138/2017. (VI. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^117]: Az 1. mellékletet a 478/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 138/2017. (VI. 9.) Korm. rendelet 4. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés g) és l) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

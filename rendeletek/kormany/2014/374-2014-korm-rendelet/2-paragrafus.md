@@ -16,22 +16,21 @@ g) a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tény
 
 (2)[^11] E rendelet alkalmazásában az (1) bekezdés b), c) és g) pontja szerinti, a változás ingatlan-nyilvántartásban történő átvezetésére irányuló eljárást, valamint az (1) bekezdés d) pont szerinti eljárást, akkor kell véglegesnek tekinteni, ha az ügy érdemében hozott határozat
 
-a) ellen a jogosultak részéről az arra nyitva álló határidőn belül fellebbezés nem került benyújtásra,
+a)[^12]
 
-b) elleni fellebbezési jogáról valamennyi jogosult írásban lemondott,
+b)[^13]
 
-c)[^12] ellen benyújtott fellebbezést az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) elutasította, a fellebbezés elbírálásának eredményeként született határozatot megváltoztatta, illetve az eljárást megszüntette, vagy
+c)[^14]
 
-d) ellen benyújtott fellebbezést,
+d)[^15]
 
-da) a fellebbezési határidő leteltét megelőzően visszavonták és más jogosult részéről újabb fellebbezés nem került benyújtásra, vagy
-
-db) a fellebbezési határidő leteltét követően visszavonták,
-
-e)[^13] ellen közigazgatási pert nem indítottak, vagy az annak alapján indult bírósági eljárás jogerősen lezárult.
+e)[^16] ellen közigazgatási pert nem indítottak, vagy az annak alapján indult bírósági eljárás jogerősen lezárult.
 
 [^9]: A 2. § (1) bekezdés a) pontja a 341/2016. (XI. 17.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (1) bekezdés b) pontja a 341/2016. (XI. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^11]: A 2. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 521. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^12]: A 2. § (2) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 5. pontja szerint módosított szöveg.
-[^13]: A 2. § (2) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 521. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 2. § (2) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 138. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 2. § (2) bekezdés b) pontját a 360/2019. (XII. 30.) Korm. rendelet 138. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^14]: A 2. § (2) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 138. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^15]: A 2. § (2) bekezdés d) pontját a 360/2019. (XII. 30.) Korm. rendelet 138. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^16]: A 2. § (2) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 521. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

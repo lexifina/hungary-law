@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-374-20-
 | 2017-01-01 | 2014-374-20-22.6 | 478/2015. (XII. 29.) Korm. rendelet |
 | 2017-06-17 | 2014-374-20-22.7 | 138/2017. (VI. 9.) Korm. rendelet |
 | 2018-01-01 | 2014-374-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2020-03-01 | 2014-374-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
