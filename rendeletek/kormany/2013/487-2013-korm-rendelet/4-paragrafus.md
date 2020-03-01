@@ -1,14 +1,12 @@
-## (a továbbiakban együtt: vizsgaszervező) szervezi.
-
-4. § (1) A köztisztviselő az építésügyi vizsgát megelőzően a vizsgaszervező által biztosított felkészítő tanfolyamon vesz részt. A felkészítés tartalma nem terjedhet túl az építésügyi vizsgakövetelményekben meghatározott témakörökön, valamint az annak alapján kiadott tananyag tartalmán.
+4. § (1)[^25] A kormánytisztviselő az építésügyi vizsgát megelőzően a vizsgaszervező által biztosított felkészítő tanfolyamon vesz részt. A felkészítés tartalma nem terjedhet túl az építésügyi vizsgakövetelményekben meghatározott témakörökön, valamint az annak alapján kiadott tananyag tartalmán.
 
 (2)[^26] Az építésügyi vizsga 3. § (3) bekezdés b) pontja szerinti szervezését és a vizsgával kapcsolatos feladatok végrehajtását a miniszter szakmai irányítása és felügyelete mellett az LTK látja el.
 
 (3) Az építésügyi vizsga tematikáját a 2. melléklet tartalmazza.
 
-(4)[^27] Az 1. § (1) bekezdés a)–c) pontja szerinti köztisztviselőnek a 2. melléklet A)–C) pontjában foglalt témakörökből kell vizsgát tenni.
+(4)[^27] Az 1. § (1) bekezdés a)–c) pontja szerinti kormánytisztviselőnek a 2. melléklet A)–C) pontjában foglalt témakörökből kell vizsgát tenni.
 
-(4a)[^28] Az 1. § (1) bekezdés b) pontja szerinti köztisztviselőnek a 2. melléklet D) pontjában foglalt témakörökből kell vizsgát tennie. Az 1. § (1) bekezdés c) pontja szerinti köztisztviselőnek a 2. melléklet D) pont 1–4. alpontjában foglalt témakörökből kell vizsgát tennie.
+(4a)[^28] Az 1. § (1) bekezdés b) pontja szerinti kormánytisztviselőnek a 2. melléklet D) pontjában foglalt témakörökből kell vizsgát tennie. Az 1. § (1) bekezdés c) pontja szerinti kormánytisztviselőnek a 2. melléklet D) pont 1–4. alpontjában foglalt témakörökből kell vizsgát tennie.
 
 (5)[^29] Az LTK – a (4) bekezdés szerinti építésügyi vizsgára vonatkozóan – a miniszter szakmai irányítása és felügyelete mellett gondoskodik
 
@@ -56,12 +54,14 @@ b) az (5) bekezdés b) pontja szerinti tananyagot,
 
 (7)[^32] A (6) bekezdés szerinti vizsgaszabályzatot és tananyagot minden év november 30-áig felül kell vizsgálni. A felülvizsgált vizsgaszabályzat és tananyag (6) bekezdés szerinti közzétételét követő 60. naptól már a felülvizsgált vizsgaszabályzatot és tananyagot kell alkalmazni.
 
-(8) A munkáltató közigazgatási szerv a vizsgára kötelezett köztisztviselők névsorát a vizsgakötelezettség keletkezésének időpontjától számított 15 napon belül megküldi a vizsgaszervezőnek.
+(8)[^33] A munkáltató közigazgatási szerv a vizsgára kötelezett kormánytisztviselők névsorát a vizsgakötelezettség keletkezésének időpontjától számított 15 napon belül megküldi a vizsgaszervezőnek.
 
+[^25]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 126. § (4) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^26]: A 4. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
-[^27]: A 4. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
-[^28]: A 4. § (4a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdése iktatta be.
+[^27]: A 4. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 126. § (4) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^28]: A 4. § (4a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 126. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^29]: A 4. § (5) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (10) bekezdésével megállapított, nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
 [^30]: A 4. § (5a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (10) bekezdése iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 253. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^31]: A 4. § (6) bekezdés a) pontja a 482/2016. (XII. 28.) Korm. rendelet 46. § d) pontja szerint módosított szöveg.
 [^32]: A 4. § (7) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^33]: A 4. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 126. § (4) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
