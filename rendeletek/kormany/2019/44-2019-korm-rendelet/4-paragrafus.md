@@ -32,11 +32,11 @@ fc) a harmadik országbeli állampolgárok beutazásáról és tartózkodásár�
 
 g) abban az esetben, ha a házaspár valamely tagja legalább egy gyermeket nevel, akkor legalább az egyik házastárs az első házasságában él, azzal, hogy az özvegyülés miatt megszűnt házasságot e feltétel érvényesülése szempontjából figyelmen kívül kell hagyni,
 
-h)[^1] egyiküknek sincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: 2011. évi CXXII. törvény) 11. § (1) bekezdése szerinti, a Központi Hitelinformációs Rendszerben (a továbbiakban: KHR) nyilvántartott tartozása, ide nem értve azt az esetet, amikor a késedelmes tartozás teljesítése már megtörtént, azonban a teljesítésre a kölcsönkérelem benyújtását megelőző egy éven belül került sor, és a 2011. évi CXXII. törvény 8. § (4) bekezdése alapján a hiteladósra vonatkozó referenciaadatot a KHR-ből még nem törölték.
+h)[^2] egyiküknek sincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: 2011. évi CXXII. törvény) 11. § (1) bekezdése szerinti, a Központi Hitelinformációs Rendszerben (a továbbiakban: KHR) nyilvántartott tartozása, ide nem értve azt az esetet, amikor a késedelmes tartozás teljesítése már megtörtént, azonban a teljesítésre a kölcsönkérelem benyújtását megelőző egy éven belül került sor, és a 2011. évi CXXII. törvény 8. § (4) bekezdése alapján a hiteladósra vonatkozó referenciaadatot a KHR-ből még nem törölték.
 
 i) esetükben nem áll fenn olyan tény vagy körülmény, amelynek alapján a közös gyermekvállalás nyilvánvalóan lehetetlennek tekinthető, és
 
-j)[^2] vállalják, hogy legalább egyikük a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeiket a nagykorúvá válásukig, de legfeljebb a kölcsönszerződés megszűnéséig a saját háztartásában neveli.
+j)[^3] vállalják, hogy legalább egyikük a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeiket a nagykorúvá válásukig, de legfeljebb a kölcsönszerződés megszűnéséig a saját háztartásában neveli.
 
 (2) Az (1) bekezdés c) pontja szerinti 3 éves időszak számítása során
 
@@ -54,5 +54,5 @@ d) a közfoglalkoztatási jogviszonyban töltött idő egy évet meghaladó rés
 
 (5) Ugyanazon igénylővel kölcsönszerződés csak egy alkalommal köthető.
 
-[^1]: A 4. § (1) bekezdés h) pontja a 151/2019. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés h) pontja a 151/2019. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

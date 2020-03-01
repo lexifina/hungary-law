@@ -4,7 +4,7 @@
 
 (2) A kölcsönkérelem benyújtásakor az igénylők teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárulnak ahhoz, hogy
 
-a) a kölcsönre és a babaváró támogatásra vonatkozó adatokat, valamint a saját és kiskorú gyermekeik
+a)[^4] a kölcsönre és a babaváró támogatásra vonatkozó adatokat, valamint a saját és kiskorú gyermekeik
 
 aa) nevét,
 
@@ -26,9 +26,9 @@ ai) személyi azonosítójukat és
 
 aj) adóazonosító jelüket
 
-## a kölcsönkérelem elbírálása, a kölcsönszerződés megkötése, a kölcsön folyósítása és a jogszerű igénybevétel ellenőrzése céljából a hitelintézet kezelje, és továbbítsa a kincstár, az állami adóhatóság, a járási hivatal és Budapest Főváros Kormányhivatala részére, és
+## a kölcsönkérelem elbírálása, a kölcsönszerződés megkötése, a kölcsön folyósítása és a jogszerű igénybevétel ellenőrzése céljából a hitelintézet kezelje, és továbbítsa a kincstár, az állami adóhatóság, a kormányhivatal részére, és
 
-b) az a) pont szerinti adataikat a kincstár, az állami adóhatóság, a járási hivatal és Budapest Főváros Kormányhivatala az e rendeletben meghatározott feladataik ellátása céljából kezelje, továbbá a kincstár a babaváró támogatás folyósításához nyilvántartsa.
+b)[^5] az a) pont szerinti adataikat a kincstár, az állami adóhatóság, a kormányhivatal az e rendeletben meghatározott feladataik ellátása céljából kezelje, továbbá a kincstár a babaváró támogatás folyósításához nyilvántartsa.
 
 (3) A kölcsönkérelem benyújtásakor az igénylők büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkoznak
 
@@ -42,7 +42,7 @@ c) arról, hogy az általuk közölt adatok a valóságnak megfelelnek, és hozz
 
 a) a házastársak nevét, személyi azonosítóját, születési helyüket és idejüket, valamint a házasságkötés helyét és idejét,
 
-b)[^3] a 4. § (1) bekezdés d) pontja szerinti feltétel esetében az igénylők írásbeli hozzájárulását ahhoz, hogy a nyilatkozatban foglalt személyes adatokat a hitelintézet, a kincstár, az állami adóhatóság, a járási hivatal és Budapest Főváros Kormányhivatala a kölcsönre való jogosultsága megállapításának és az igénybevétel jogszerűsége ellenőrzésének céljából és időtartamára kezelje.
+b)[^6] a 4. § (1) bekezdés d) pontja szerinti feltétel esetében az igénylők írásbeli hozzájárulását ahhoz, hogy a nyilatkozatban foglalt személyes adatokat a hitelintézet, a kincstár, az állami adóhatóság, a kormányhivatal a kölcsönre való jogosultsága megállapításának és az igénybevétel jogszerűsége ellenőrzésének céljából és időtartamára kezelje.
 
 (5) A kölcsönszerződés megkötésére való jogosultsághoz a (2)–(4) bekezdésben foglaltakon túl
 
@@ -52,7 +52,7 @@ b) a bejelentett lakcímet az azt igazoló hatósági igazolvánnyal,
 
 c) a személyi azonosítót a személyi azonosítót igazoló hatósági igazolvánnyal,
 
-d) a Tbj. szerinti biztosítási jogviszonyra vonatkozó feltételeknek való megfelelést a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó járási (fővárosi kerületi) hivatala által kiállított igazolással, illetve az illetékes külföldi hatóság által kiállított igazolással és annak hiteles magyar nyelvű fordításával,
+d)[^7] a Tbj. szerinti biztosítási jogviszonyra vonatkozó feltételeknek való megfelelést az egészségbiztosítási pénztári feladatokat ellátó fővárosi és megyei kormányhivatal által kiállított igazolással, illetve az illetékes külföldi hatóság által kiállított igazolással és annak hiteles magyar nyelvű fordításával,
 
 e) az adóazonosító jelet adóigazolvánnyal,
 
@@ -64,6 +64,10 @@ g) a hontalan jogállást a hontalankénti elismerésről szóló határozattal 
 
 (6) Az igénylők által benyújtott nyilatkozatok, okiratok valódiságát – ha a hitelintézettől elvárható gondosság tanúsítása mellett azok hamis vagy hamisított volta nem ismerhető fel – vélelmezni kell.
 
-(7) A hitelintézet az igénylők erre irányuló kérelme és hozzájáruló nyilatkozata esetén beszerzi a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó járási (fővárosi kerületi) hivatalától a Tbj. szerinti biztosítási jogviszonyra vonatkozó adatokat.
+(7)[^8] A hitelintézet az igénylők erre irányuló kérelme és hozzájáruló nyilatkozata esetén beszerzi az egészségbiztosítási pénztári feladatokat ellátó fővárosi és megyei kormányhivataltól a Tbj. szerinti biztosítási jogviszonyra vonatkozó adatokat.
 
-[^3]: Az 5. § (4) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (2) bekezdés a) pont záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: Az 5. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: Az 5. § (4) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^7]: Az 5. § (5) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: Az 5. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

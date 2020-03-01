@@ -1,5 +1,9 @@
-20. § (1) Ha a hitelintézet a gyermekvállalási támogatás iránti kérelmet elutasítja, a támogatott személyek a járási hivatalhoz fordulhatnak a gyermekvállalási támogatásra való jogosultság megállapítása iránt. A kérelemhez csatolni kell a gyermekvállalási támogatás elutasításáról szóló írásbeli tájékoztatást.
+20. § (1)[^22] Ha a hitelintézet a gyermekvállalási támogatás iránti kérelmet elutasítja, a támogatott személyek a kormányhivatalhoz fordulhatnak a gyermekvállalási támogatásra való jogosultság megállapítása iránt. A kérelemhez csatolni kell a gyermekvállalási támogatás elutasításáról szóló írásbeli tájékoztatást.
 
-(2) A járási hivatal megkeresésére a hitelintézet 8 napon belül köteles megküldeni a járási hivatalnak a gyermekvállalási támogatás iránti kérelem elutasítását megalapozó iratok másolatát.
+(2)[^23] A kormányhivatal megkeresésére a hitelintézet 8 napon belül köteles megküldeni a kormányhivatalnak a gyermekvállalási támogatás iránti kérelem elutasítását megalapozó iratok másolatát.
 
-(3) Ha a járási hivatal, illetve Budapest Főváros Kormányhivatala véglegessé vált határozata megállapítja a gyermekvállalási támogatás iránti jogosultságot, az a hitelintézetre nézve kötelező.
+(3)[^24] Ha a kormányhivatal véglegessé vált határozata megállapítja a gyermekvállalási támogatás iránti jogosultságot, az a hitelintézetre nézve kötelező.
+
+[^22]: A 20. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 20. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés e)–f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 20. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

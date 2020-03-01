@@ -10,11 +10,11 @@ b) harmadik gyermekük esetén az e rendelet szerinti teljes fennmaradó kölcs�
 
 (2) A gyermekvállalási támogatás
 
-a)[^9] a kölcsönkérelem benyújtásának időpontjában vagy azt követően fennálló várandósság esetén, a támogatott személyeknek a várandósság legalább 12. hetét betöltött magzata után igényelhető, és
+a)[^19] a kölcsönkérelem benyújtásának időpontjában vagy azt követően fennálló várandósság esetén, a támogatott személyeknek a várandósság legalább 12. hetét betöltött magzata után igényelhető, és
 
-b)[^10] az e rendelet hatálybalépését követően született, a támogatott személyek által közösen örökbefogadott gyermek után igényelhető, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé.
+b)[^20] az e rendelet hatálybalépését követően született, a támogatott személyek által közösen örökbefogadott gyermek után igényelhető, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé.
 
-(3)[^11] Ha a kölcsönkérelmet ikerterhesség ideje alatt, a várandósság betöltött 12. hetét követően nyújtják be, a gyermekvállalási támogatás iránti kérelmet a kölcsönkérelemmel egyidejűleg is be lehet nyújtani.
+(3)[^21] Ha a kölcsönkérelmet ikerterhesség ideje alatt, a várandósság betöltött 12. hetét követően nyújtják be, a gyermekvállalási támogatás iránti kérelmet a kölcsönkérelemmel egyidejűleg is be lehet nyújtani.
 
 (4) A (3) bekezdésben nem említett esetben a gyermekvállalási támogatás iránti kérelem
 
@@ -36,6 +36,6 @@ b) örökbefogadott gyermek esetén az örökbefogadást engedélyező határoza
 
 (10) A támogatott személyek nem jogosultak gyermekvállalási támogatásra, ha egyikük sem rendelkezik már magyarországi lakcímmel.
 
-[^9]: A 19. § (2) bekezdés a) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^10]: A 19. § (2) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^11]: A 19. § (3) bekezdése a 151/2019. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: A 19. § (2) bekezdés a) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^20]: A 19. § (2) bekezdés b) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^21]: A 19. § (3) bekezdése a 151/2019. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
