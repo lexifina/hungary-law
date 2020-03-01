@@ -6,8 +6,9 @@ a) a Beruházás megvalósításához és használatbavételéhez közvetlenül 
 
 b) útépítési, közmű csatlakozási és fejlesztési, valamint egyéb munkák tekintetében az (1) bekezdés szerinti ingatlannal szomszédos, Budapest I. kerület 14276 helyrajzi számú ingatlant, valamint a Budapest 14278/1, 14278/2, 14278/3 helyrajzi számú ingatlanokat, a Budapest 14271 helyrajzi számú Iskola utcát és a Budapest 14432 helyrajzi számú Fő utcát érintik.
 
-(3) A Kormány az 1. melléklet 3., 4., 5. és 7. pontja szerinti közigazgatási hatósági ügyekben első fokon eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát, másodfokon eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+(3)[^1]
 
-(4)[^1]
+(4)[^2]
 
-[^1]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 202. § a) pontja hatályon kívül helyezte.
+[^1]: Az 1. § (3) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 76. §-a hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
+[^2]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 202. § a) pontja hatályon kívül helyezte.
