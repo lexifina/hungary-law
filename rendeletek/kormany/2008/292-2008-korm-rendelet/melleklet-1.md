@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^59]
+1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^60]
 
 ## A bejelentési kötelezettség alól kivont fajok
 
@@ -76,7 +76,7 @@
 
 | Gallus sonneratii | Gyöngyös bankivatyúk |
 
-| Ithaginis cruentus | Vérfácán |
+| Syrmaticus reevesi | Királyfácán |
 
 | Lophura haitiensis | Annami fácán |
 
@@ -174,4 +174,4 @@
 
 | Poephila cincta cincta | Szakállas amandina törzsalakja |
 
-[^59]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^60]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése, a 30/2020. (II. 29.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
