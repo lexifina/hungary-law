@@ -10,9 +10,9 @@ c) az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze v
 
 (3) A településképi rendelet alátámasztásául szolgáló települési értékleltárt az önkormányzati főépítész is elkészítheti.
 
-(4)[^28] A településrendezési eszköz kidolgozása során további beépítés céljára szolgáló beépítésre szánt területnek kijelölt területen az örökségvédelmi hatástanulmány régészeti munkarészét régészeti terepbejárás alkalmazásával kell elkészíteni, amennyiben a terület alkalmas terepbejárással történő kutatásra.
+(4)[^31] A településrendezési eszköz kidolgozása során további beépítés céljára szolgáló beépítésre szánt területnek kijelölt területen az örökségvédelmi hatástanulmány régészeti munkarészét régészeti terepbejárás alkalmazásával kell elkészíteni, amennyiben a terület alkalmas terepbejárással történő kutatásra.
 
-(5)[^29] Az örökségvédelmi hatástanulmány elkészítése céljából végzett régészeti terepbejárásról, illetve műszeres lelőhely- és leletfelderítésről a 26. § és 27. §-ban meghatározott tartalmú jelentést és feltárási dokumentációt kell készíteni, amit el kell küldeni a 26. § (4) bekezdésében és a 27. § (4) bekezdésében meghatározott hatóságoknak és intézményeknek.
+(5)[^32] Az örökségvédelmi hatástanulmány elkészítése céljából végzett régészeti terepbejárásról, illetve műszeres lelőhely- és leletfelderítésről a 26. § és 27. §-ban meghatározott tartalmú jelentést és feltárási dokumentációt kell készíteni, amit el kell küldeni a 26. § (4) bekezdésében és a 27. § (4) bekezdésében meghatározott hatóságoknak és intézményeknek.
 
-[^28]: A 84. § (4) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
-[^29]: A 84. § (5) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
+[^31]: A 84. § (4) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
+[^32]: A 84. § (5) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.

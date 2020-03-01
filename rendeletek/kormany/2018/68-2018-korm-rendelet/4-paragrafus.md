@@ -22,7 +22,7 @@ d) két tagját az a)–c) pont hatálya alá nem tartozó egyéb, régészeti g
 
 e) egy tagját a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmények,
 
-f)[^7] egy tagját a Bölcsészettudományi Kutatóközpont Régészeti Intézet,
+f)[^10] egy tagját a Bölcsészettudományi Kutatóközpont Régészeti Intézet,
 
 g) egy tagját a 3. § (3) bekezdése szerinti örökségvédelmi szerv, valamint
 
@@ -54,7 +54,7 @@ i) a védetté nyilvánított régészeti lelőhelyet vagy az in situ (helyben �
 
 (5) A Műemléki Tanácsadó Testület a műemléki érték védelmével kapcsolatos hatósági és egyéb szakmai döntések előkészítésében vagy szakértőként a hatósági eljárás során véleményével segíti a miniszter, valamint az örökségvédelmi és építésügyi hatóság munkáját. A Műemléki Tanácsadó Testület húsz tagból áll, amelynek
 
-a)[^8] két tagját a Bölcsészettudományi Kutatóközpont Művészettörténeti Intézete,
+a)[^11] két tagját a Bölcsészettudományi Kutatóközpont Művészettörténeti Intézete,
 
 b) egy tagját a Magyar Tudományos Akadémia Építészeti Tudományos Bizottsága,
 
@@ -122,5 +122,5 @@ g) a Magyar Műkereskedők és Galériák Országos Szövetsége
 
 (14) A Kulturális Javak Bizottsága vizsgálja a védetté nyilvánításra vagy más, a megkeresésben foglalt intézkedésre vonatkozó javaslat megalapozottságát.
 
-[^7]: A 4. § (2) bekezdés f) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
-[^8]: A 4. § (5) bekezdés a) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdés f) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdés a) pontja a 204/2019. (VIII. 23.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 7. A régészeti lelőhely és a műemléki érték nyilvántartására, valamint védetté nyilvánítására vonatkozó közös szabályok
 
-10. § (1)[^10] A nyilvántartást vezető hatóság és – kormányrendeletben meghatározott esetekben – a járási hivatal a nyilvántartásban szereplő adatokról kérelemre adatot szolgáltat.
+10. § (1)[^13] A nyilvántartást vezető hatóság és – kormányrendeletben meghatározott esetekben – a fővárosi és megyei kormányhivatal a nyilvántartásban szereplő adatokról kérelemre adatot szolgáltat.
 
 (2) A kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését vagy a Kötv. 72. § (5) bekezdése szerinti díjmentességet.
 
@@ -18,7 +18,7 @@ b) a 9. § (1) bekezdés d) és j) pontjában
 
 (6) A Kötv. 71. § (1) bekezdés a), c) és d) pontja esetében a védettség tényére vonatkozó adatokat a nyilvántartást vezető hatóságnak fel kell tölteni az Országos Építésügyi Nyilvántartásba (a továbbiakban: OÉNY).
 
-(7)[^11] A nyilvántartást vezető hatóság az OÉNY-t vezető szervezet, az örökségvédelmi, építésügyi, ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalok, járási (fővárosi kerületi) hivatalok, a jegyző, a főjegyző, valamint a feltárási joggal rendelkező intézmények számára elektronikus hozzáférést biztosít az általa kezelt, a régészeti örökség, a műemléki értékek, a világörökségi és világörökségi várományos területek védelmével összefüggő feladataik ellátásához szükséges adatokhoz.
+(7)[^14] A nyilvántartást vezető hatóság az OÉNY-t vezető szervezet, az örökségvédelmi, építésügyi, ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalok, a jegyző, a főjegyző, valamint a feltárási joggal rendelkező intézmények számára elektronikus hozzáférést biztosít az általa kezelt, a régészeti örökség, a műemléki értékek, a világörökségi és világörökségi várományos területek védelmével összefüggő feladataik ellátásához szükséges adatokhoz.
 
-[^10]: A 10. § (1) bekezdése a 38/2019. (III. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^11]: A 10. § (7) bekezdése a 38/2019. (III. 6.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdése a 38/2019. (III. 6.) Korm. rendelet 9. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 194. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^14]: A 10. § (7) bekezdése a 38/2019. (III. 6.) Korm. rendelet 11. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 194. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

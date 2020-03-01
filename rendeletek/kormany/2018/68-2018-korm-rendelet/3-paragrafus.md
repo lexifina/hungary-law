@@ -2,9 +2,9 @@
 
 3. § (1) A Kormány a kulturális örökség védelmével (a továbbiakban: örökségvédelem) kapcsolatos hatósági feladatok ellátására örökségvédelmi feladatkörében
 
-a) örökségvédelmi hatóságként (a továbbiakban: hatóság) a c) és d) pontban meghatározott feladatok kivételével az 1. mellékletben felsorolt járási (fővárosi kerületi) hivatalt (a továbbiakban: járási hivatal) az 1. mellékletben meghatározott illetékességi területtel,
+a)[^4] örökségvédelmi hatóságként (a továbbiakban: hatóság) – a c) és d) pontban meghatározott feladatok kivételével – a fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal);
 
-b) a járási hivatalok örökségvédelmi hatósági feladatellátásának törvényességi, szakszerűségi ellenőrzésére és az e rendeletben meghatározott hatósági feladatokra örökségvédelmi hatóságként, valamint a hatóságnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti felügyeleti szerveként országos illetékességgel Budapest Főváros Kormányhivatalát;
+b)[^5] a kormányhivatalok örökségvédelmi hatósági feladatellátásának törvényességi, szakszerűségi ellenőrzésére és az e rendeletben meghatározott hatósági feladatokra örökségvédelmi hatóságként, valamint a hatóságnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti felügyeleti szerveként a minisztert;
 
 c) a Kötv. 71. § (1) bekezdésében foglalt nyilvántartásokat vezető hatóságként országos illetékességi területtel a minisztert (a továbbiakban: nyilvántartást vezető hatóság);
 
@@ -14,7 +14,7 @@ d) a Kötv.-ben és az e rendeletben meghatározott feladatok tekintetében a ku
 
 (2) A fővárosi és megyei kormányhivatal örökségvédelemmel kapcsolatos feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként a miniszter gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket, továbbá eljár az Ákr. szerinti felügyeleti szervként.
 
-(3)[^4] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság.
+(3)[^6] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság.
 
 (4) A magyar államot megillető elővásárlási jog gyakorlására a Kötv. 86. § (3) bekezdésében meghatározott kormányrendeletben kijelölt örökségvédelmi szerv
 
@@ -24,14 +24,19 @@ b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt áll
 
 (5) A hatóság ügyintézési határideje – ha a Kötv. vagy e rendelet eltérően nem rendelkezik – huszonöt nap.
 
-(6)[^5] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
+(6)[^7] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
 
-(7)[^6] A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
+(7)[^8] A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
 
 a) közreműködik a miniszter kulturális örökségvédelmi és világörökségi nem hatósági feladatainak ellátásában, és
 
 b) jogosult a miniszter nyilvántartási hatósági feladatai körében, a régészeti örökségre és műemléki értékre vonatkozó hatósági eljárásokban szemlét lefolytatni, ingatlanra vonatkozó adatellenőrzést és adatrögzítést végezni, valamint a miniszter megkeresésére szakértőként eljárni.
 
-[^4]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.
-[^6]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be.
+(8)[^9] Örökségvédelmi hatósági ügyintéző feladatkör ellátásához a 22. mellékletben meghatározott végzettség, illetve szakképesítés szükséges.
+
+[^4]: A 3. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: A 3. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be.
+[^9]: A 3. § (8) bekezdését a 30/2020. (II. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.
