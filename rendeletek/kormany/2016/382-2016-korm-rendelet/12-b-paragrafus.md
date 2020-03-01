@@ -1,5 +1,5 @@
 ## 12/A. § A Kkt. 18. § (15) bekezdése szerinti felügyeleti szervként a Kormány országos illetékességgel a minisztert jelöli ki.
 
-## 10/B. [^78] A vasúti vizsgaközpont tevékenysége tekintetében a felügyeleti szerv kijelölése
+## 10/B. [^84] A vasúti vizsgaközpont tevékenysége tekintetében a felügyeleti szerv kijelölése
 
-[^78]: A 10/B. alcímet (12/B. §) a 248/2019. (X. 24.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^84]: A 10/B. alcímet (12/B. §) a 248/2019. (X. 24.) Korm. rendelet 14. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-4. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^99]
+4. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^107]
 
 1. A kikötő, valamint a komp- és révátkelőhely elvi létesítési, létesítési, használatbavételi, fennmaradási, rendeltetéstől eltérő használati és megszüntetési engedélyezésére, valamint adatváltozás átvezetésére irányuló eljárásában, a tervtől eltérés engedélyezése iránti eljárásban közreműködő szakhatóságok
 
@@ -48,6 +48,16 @@
 
 | 2. | Ha a hajózási létesítmény nyilvántartott régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a hajózási létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-| 3. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
+| 3. | Vízi repülőtért érintő vízi sportpálya kijelölésekor | Annak elbírálása kérdésében, hogy vízi-közlekedés biztonságát nem veszélyezteti-e az intézkedés. |
 
-[^99]: A 4. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § d) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+| 4. | Vízi repülötér esetében az úszólétesítményen hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírásakor | Annak elbírálása kérdésében, hogy vízi-közlekedés biztonságát nem veszélyezteti-e az intézkedés. |
+
+9. Úszóműves rakodóhelyre, hajóállomásra, úszóműállásra, hajóhídra, veszteglőhelyre, vízisportpályára és vízi repülőtérre vonatkozó létesítési, fennmaradási és használatba vételi engedélyezési eljárásaiban, valamint ezen eljárások vonatkozásában a tervtől eltérés engedélyezési eljárásban a halgazdálkodási hatóság által vizsgált szakkérdés
+
+|  | A | B |
+
+|  | A szakkérdés vizsgálatának feltétele | Szakkérdés |
+
+| 1. | Vízisportpálya esetén, ha a tevékenység halgazdálkodási vízterületet érint. | Annak elbírálása kérdésében, hogy a tevékenység a halgazdálkodásról és a hal védelméről szóló jogszabályokban rögzített követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
+
+[^107]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 158. § (12) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

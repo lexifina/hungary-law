@@ -1,14 +1,14 @@
 ## 10. A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése
 
-12. § (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány elsőfokú építésfelügyeleti hatóságként
+12. § (1)[^80] A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány
 
-a) a 2. § (2) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatalát,
+a) a 2. § (2) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatalát,
 
-b)[^76] a 2. § (3) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében a megyeszékhely szerinti járási hivatalt, Pest megyében az Érdi Járási Hivatalt, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát,
+b) a 2. § (3) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a fővárosi és megyei kormányhivatalt,
 
-c) a 2. § (5) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a megyei kormányhivatal járási hivatalát,
+c) a 2. § (5) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a megyei kormányhivatalt,
 
-d) 2. § (6) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát
+d) 2. § (6) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest fővárosban Budapest Főváros Kormányhivatalát
 
 ## jelöli ki.
 
@@ -18,12 +18,10 @@ d) 2. § (6) bekezdése hatálya alá tartozó közúti közlekedési építmén
 
 (4) Építésfelügyeleti hatóságként az országos közforgalmú kikötők, valamint a vám- és határkikötők továbbá a nemzetközi személy- vagy áruforgalmat lebonyolító vagy azokhoz kapcsolódó hajózási létesítmények tekintetében a miniszter jár el.
 
-(5) Elsőfokú építésfelügyeleti hatóságként a (4) bekezdés hatálya alá nem tartozó víziközlekedési építmények vonatkozásában Budapest Főváros Kormányhivatala jár el.
+(5)[^81] Építésfelügyeleti hatóságként a (4) bekezdés hatálya alá nem tartozó víziközlekedési építmények vonatkozásában Budapest Főváros Kormányhivatala jár el.
 
-(6) Másodfokú építésfelügyeleti hatóságként – ha törvény a fellebbezést lehetővé teszi –
+(6)[^82]
 
-a) az (1) bekezdés a) pontja, valamint az (5) bekezdés szerinti ügyek vonatkozásában a miniszter,
-
-b) az (1) bekezdés b)–d) pontja szerinti ügyek vonatkozásában a fővárosi és megyei kormányhivatal
-
-[^76]: A 12. § (1) bekezdés b) pontja a 174/2019. (VII. 16.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^80]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (10) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^81]: A 12. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^82]: A 12. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés h) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

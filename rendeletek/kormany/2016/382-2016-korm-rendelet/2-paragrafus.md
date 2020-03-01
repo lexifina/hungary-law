@@ -1,16 +1,14 @@
 ## 2. Az útügyi közlekedési hatóságok kijelölése
 
-2. § (1) A Kormány útügyi közlekedési hatóságként
+2. § (1)[^2] A Kormány útügyi közlekedési hatóságként
 
-a) a (2) bekezdés szerinti ügyekben első fokon országos illetékességgel Budapest Főváros Kormányhivatalát, másodfokon – ha a fellebbezést törvény lehetővé teszi – a minisztert,
+a) a (2) bekezdés szerinti ügyekben országos illetékességgel Budapest Főváros Kormányhivatalát,
 
-b) a (3) bekezdés szerinti ügyekben első fokon a megyeszékhely szerinti járási hivatalt, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatalát, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatalát – összeférhetetlenség esetén a fővárosi és megyei kormányhivatal által kérelemre kijelölt járási (fővárosi kerületi) hivatalt –, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt,
+b) a (3) bekezdés szerinti ügyekben a fővárosi és megyei kormányhivatalt,
 
-c) a (4) bekezdés szerinti ügyekben első fokon a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt,
+c) a (4)–(5) bekezdés szerinti ügyekben a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát,
 
-d) az (5) bekezdés szerinti ügyekben első fokon a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt,
-
-e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatalát – összeférhetetlenség esetén a fővárosi és megyei kormányhivatal által kérelemre kijelölt járási (fővárosi kerületi) hivatalát –, másodfokon – ha a fellebbezést törvény lehetővé teszi – Budapest Főváros Kormányhivatalát
+d) a (6) bekezdés szerinti ügyekben Budapest Főváros Kormányhivatalát
 
 ## jelöli ki.
 
@@ -46,9 +44,9 @@ e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhiv
 
 ## során.
 
-(3) Útügyi közlekedési hatóságként a megyeszékhely szerinti járási hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban a Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el
+(3)[^3] Útügyi közlekedési hatóságként a fővárosi és megyei kormányhivatal jár el
 
-1.[^1] a (2) bekezdés 1–3. pontjában, valamint az (5)–(6) bekezdésben meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
+1.[^4] a (2) bekezdés 1–3. pontjában, valamint az (5)–(6) bekezdésben meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
 
 2. az engedélyezési hatáskörébe tartozó utak 30 m szabadnyílást meg nem haladó hídjai kiviteli tervének jóváhagyása,
 
@@ -104,33 +102,40 @@ e) a (6) bekezdés szerinti ügyekben első fokon Budapest Főváros Kormányhiv
 
 28. az engedélyezési hatáskörébe tartozó utak tekintetében elektronikus közúti ellenőrző rendszer, illetve ellenőrző berendezés elhelyezéséhez szükséges hozzájárulás kiadása,
 
-29.[^2] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
+29.[^5] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
 
-30.[^3] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
+30.[^6] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
 
 ## során.
 
-(4) Útügyi közlekedési hatóságként első fokon a megyei kormányhivatal járási hivatala, Budapest fővárosban Budapest Főváros Kormányhivatala III. Kerületi Hivatala, másodfokon a fővárosi és megyei kormányhivatal jár el:
+(4)[^7] Útügyi közlekedési hatóságként a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala jár el:
 
 1. az elhelyezési tilalom alá eső jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolításával kapcsolatos ügyek,
 
-2–3.[^4]
+2.[^8]
+
+3.[^9]
 
 4. a közlekedés biztonsága, az út állagának védelme érdekében az út melletti ingatlan tulajdonosának kötelezése
 
 ## során.
 
-(5)[^5] Útügyi közlekedési hatóságként első fokon a megyei kormányhivatal járási hivatala, másodfokon a megyei kormányhivatal jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
+(5)[^10] Útügyi közlekedési hatóságként megyei kormányhivatal járási hivatala jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
 
-(6) Útügyi közlekedési hatóságként Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el:
+(6)[^11] Útügyi közlekedési hatóságként Budapest Főváros Kormányhivatala kerületi hivatalai jár el:
 
 1. a fővárosi kerületi önkormányzatok tulajdonában lévő közutak és azok műtárgyai építésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése és
 
-2.[^6] a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
+2.[^12] a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
 
-[^1]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (3) bekezdés 29. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
-[^3]: A 2. § (3) bekezdés 30. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
-[^4]: A 2. § (4) bekezdés 2–3. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § (5) bekezdése a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § (6) bekezdés 2. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^3]: A 2. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdés 29. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
+[^6]: A 2. § (3) bekezdés 30. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
+[^7]: A 2. § (4) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdés 2. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^9]: A 2. § (4) bekezdés 3. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 2. § (5) bekezdése a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja, a 31/2020. (II. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^11]: A 2. § (6) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^12]: A 2. § (6) bekezdés 2. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

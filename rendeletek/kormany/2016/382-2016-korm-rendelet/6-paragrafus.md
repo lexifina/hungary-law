@@ -1,8 +1,8 @@
-## 5/B. §[^50] A Kormány a Magyar Autóklubot jelöli ki a muzeális minősítő bizottságok tevékenységével kapcsolatos közlekedési hatósági feladatok ellátása tekintetében.
+## 5/B. §[^54] A Kormány a Magyar Autóklubot jelöli ki a muzeális minősítő bizottságok tevékenységével kapcsolatos közlekedési hatósági feladatok ellátása tekintetében.
 
 ## 4. A vasúti közlekedési hatóság kijelölése
 
-6. §[^51] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
+6. §[^55] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
 
 (2) A vasúti közlekedés biztonságával összefüggő munkakört betöltő vasúti munkavállalók vizsgáztatását végző vizsgabiztosokat a miniszter nevezi ki.
 
@@ -14,12 +14,12 @@
 
 (6) A vasútszakmai oktatók névjegyzékét a vasúti közlekedési hatóság vezeti.
 
-(7)[^52] A vasúti közlekedési hatóság jár el
+(7)[^56] A vasúti közlekedési hatóság jár el
 
 a) a vasúti közlekedés alágazatba és
 
 b) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a logisztikai központok alágazatba
 
-[^50]: Az 5/B. §-t a 360/2019. (XII. 30.) Korm. rendelet 158. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^51]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^52]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^54]: Az 5/B. §-t a 360/2019. (XII. 30.) Korm. rendelet 158. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^56]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.

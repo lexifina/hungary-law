@@ -4,4 +4,6 @@
 
 a) 9. § (2) bekezdése szerint szükséges vélemény elkészítése során Budapest Főváros Kormányhivatala,
 
-b) 17. § (4) bekezdése szerinti hatáskör gyakorlása során első fokon Budapest Főváros Kormányhivatala, másodfokon – ha törvény a fellebbezést lehetővé teszi – a miniszter
+b)[^14] 17. § (4) bekezdése szerinti hatáskör gyakorlása során Budapest Főváros Kormányhivatala
+
+[^14]: A 3. § b) pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
