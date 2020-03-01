@@ -1,5 +1,5 @@
-## 13. §[^16]
+## 13. §[^17]
 
 ## 11. A mezőgazdasági és élelmiszer-ipari termékek exportjával összefüggő intézkedésekről szóló 158/2010. (V. 6.) Korm. rendelet módosítása
 
-[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

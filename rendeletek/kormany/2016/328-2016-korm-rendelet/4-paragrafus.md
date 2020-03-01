@@ -1,4 +1,4 @@
-4. §[^7] (1) A feladat átvevője és a feladatellátás vonatkozásában jogutód 2018. január 1-jétől
+4. §[^8] (1) A feladat átvevője és a feladatellátás vonatkozásában jogutód 2018. január 1-jétől
 
 a) a Borsod-Abaúj-Zemplén Megyei Kormányhivatal által Heves megyei illetékességgel ellátott területi kezelésű kérelemkezelési, helyszíni ellenőrzési, megyei ügyfélszolgálati feladatok tekintetében a Heves Megyei Kormányhivatal;
 
@@ -44,4 +44,4 @@ legkésőbb 2018. február 28-ig költségvetési megállapodást kötnek.
 
 (7) Az (1) és (2) bekezdésben foglaltakra az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet 2. § (1)–(3) bekezdését, 3. § (1), (4)–(6) bekezdését és 5. §-át megfelelően alkalmazni kell azzal, hogy ahol 2016. december 31-ét határoz meg, ott 2017. december 31-ét kell érteni.
 
-[^7]: A 4. §-t a 379/2016. (XII. 2.) Korm. rendelet 326. § (3) bekezdése hatályon kívül helyezte, újonnan a 358/2017. (XI. 29.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 4. §-t a 379/2016. (XII. 2.) Korm. rendelet 326. § (3) bekezdése hatályon kívül helyezte, újonnan a 358/2017. (XI. 29.) Korm. rendelet 2. §-a iktatta be.

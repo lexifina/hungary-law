@@ -1,6 +1,6 @@
-## 27. §[^29]
+## 27. §[^30]
 
-1. melléklet a 328/2016. (X. 28.) Korm. rendelethez[^30]
+1. melléklet a 328/2016. (X. 28.) Korm. rendelethez[^31]
 
 | Átadó kormányhivatal | Átvevő kormányhivatal |
 
@@ -24,5 +24,5 @@
 
 | Vas Megyei Kormányhivatal |
 
-[^29]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: Az 1. mellékletet újonnan a 358/2017. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^30]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: Az 1. mellékletet újonnan a 358/2017. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
