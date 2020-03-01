@@ -20,7 +20,7 @@ g) A beavatkozás tervezőjének, a dokumentáció készítőjének neve, enged�
 
 h) A beavatkozás kivitelezőjének, adatai engedélyének száma, hatályossága.
 
-i)[^353] A károsodás ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó dokumentumok. Ha a károkozó nem csatolja az ingatlan-nyilvántartásban szereplő adatokat tartalmazó dokumentumot, a hatóság a szükséges adatok szolgáltatása érdekében megkeresi az illetékes, első fokon eljáró ingatlanügyi hatóságot.
+i)[^353] A károsodás ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó dokumentumok. Ha a károkozó nem csatolja az ingatlan-nyilvántartásban szereplő adatokat tartalmazó dokumentumot, a hatóság a szükséges adatok szolgáltatása érdekében megkeresi az illetékes, ingatlanügyi hatóságot.
 
 2. Előzmények
 
@@ -126,7 +126,7 @@ A 2. a), 4. c), 4. g), 5. a), 5. ba), 5. bb), 6. a), 6. b), 6. fg), 7. ab), 7. b
 
 [^351]: A 9. számú melléklet címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
 [^352]: A 9. számú melléklet 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 357. § (14) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^353]: A 9. számú melléklet 1. pont i) alpontja a 70/2015. (III. 30.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
+[^353]: A 9. számú melléklet 1. pont i) alpontja a 70/2015. (III. 30.) Korm. rendelet 65. § b) pontja, a360/2019. (XII. 30.) Korm. rendelet 30. §- szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^354]: A 9. számú melléklet 2. pontjának b) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1)–(2) bekezdése szerint módosított szöveg.
 [^355]: A 9. számú melléklet 3. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
 [^356]: A 9. számú melléklet 4. pontjának címe a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
