@@ -16,7 +16,7 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret, illetve – a 118. § (1) bekezdése szerinti átcsoportosítás esetén – a (4) bekezdés szerinti bérkeret átcsoportosítással növelt összege erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
 
-(4) A képviselőcsoport a tárgyév január 1-jétől december 31-éig havonta a (2) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által a tárgyévet megelőző évben – az azt megelőző év egészére vonatkozóan – hivatalosan közzétett nemzetgazdasági havi átlagos bruttó kereset két és félszerese szorzatának megfelelő összegű bérkeretre jogosult.
+(4) A képviselőcsoport a tárgyév március 1-jétől a következő év február végéig havonta a (2) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset két és félszerese szorzatának megfelelő összegű bérkeretre jogosult.
 
 (5) A képviselőcsoport működését segítő, az Országgyűlés Hivatalánál foglalkoztatott személyekre az e törvényben foglalt, illetve az e törvény szerinti eltérő rendelkezés hiányában a köztisztviselőkre, továbbá munkavállalók esetében a közigazgatási szervnél foglalkoztatott munkavállalókra irányadó szabályokat kell alkalmazni azzal, hogy a munkáltatói jogkört a képviselőcsoport vezetője egyetértésével kell gyakorolni.
 
