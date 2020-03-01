@@ -1,5 +1,3 @@
-## 3. § A 125/1993. (IX. 22.) Korm. rendelet „Állampolgársági eskü és fogadalom” alcíme a következő 5/A. §-sal egészül ki:
+## 3. §[^3]
 
-## „5/A. § (1) Az állampolgársági eskü vagy fogadalom letételénél történő közreműködés megtagadásának tényét és időpontját a 9. számú melléklet szerinti jegyzőkönyvben rögzíteni kell. A jegyzőkönyvet három példányban kell elkészíteni, amelyből az első példányt – a honosítási vagy visszahonosítási okirattal együtt – öt napon belül vagy az első diplomáciai postával az állampolgársági ügyekben eljáró szervnek kell megküldeni. A második példányt a honosított, illetve visszahonosított személynek vagy törvényes képviselőjének kell átadni. A harmadik példányt az irattárban kell elhelyezni. A jegyzőkönyv nem selejtezhető.
-
-## (2) Az állampolgársági ügyekben eljáró szerv az (1) bekezdés szerint visszaküldött, záradék nélküli honosítási vagy visszahonosítási okiratot az állampolgársági eskü- vagy fogadalomtételre történő felhívás időpontjától számított egy év eltelte után érvényteleníti, és gondoskodik az állampolgársági okiratok selejtezéséről, valamint ezt követő megsemmisítéséről.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 1. § A magyar állampolgárságról szóló 1993. évi LV. törvény végrehajtásáról szóló 125/1993. (IX. 22.) Korm. rendelet [a továbbiakban: 125/1993. (IX. 22.) Korm. rendelet] 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(2) Az állampolgársági ügyekben eljáró szerv az Ápt. 17. § (6) bekezdése szerinti, a honosítási és visszahonosítási eljárást megszüntető döntését, valamint a köztársasági elnök döntését követően a honosítást, visszahonosítást elutasító döntést az Ápt. 16. § (1) bekezdésében meghatározottak szerint a polgármester vagy a magyar külképviselet vezetője útján közli a kérelmezővel.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

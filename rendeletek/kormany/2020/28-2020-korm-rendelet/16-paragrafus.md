@@ -1,1 +1,3 @@
-## „(3) Ha az automatizált ujjnyomat összevetés nem lehetséges vagy eredménytelen, az eljáró útlevélhatóság, járási hivatal vagy konzuli tisztviselő az (1) bekezdés a) és b) pontja szerint végzi el a személyazonosság ellenőrzését.”
+## 15. §[^15]
+
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
