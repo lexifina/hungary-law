@@ -6,11 +6,11 @@
 
 (4)[^2]
 
-(5)[^3] A Kormány a (2) bekezdés szerinti közigazgatási hatósági ügyben eljáró hatóságként általános építésügyi hatósági ügyekben a Bács-Kiskun Megyei Kormányhivatal Bajai Járási Hivatalát jelöli ki, az egyéb ügyekben azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerinti hatóságként jár el.
+(5)[^3]
 
 (6)[^4]
 
 [^1]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 95. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 95. § a) pontja hatályon kívül helyezte.
-[^3]: Az 1. § (5) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 94. §-ával megállapított szöveg.
+[^3]: Az 1. § (5) bekezdését a 361/2019. (XII. 30.) Korm. rendelet 41. §-a hatályon kívül helyezte. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 [^4]: Az 1. § (6) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 95. § a) pontja hatályon kívül helyezte.
