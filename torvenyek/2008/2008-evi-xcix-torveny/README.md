@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-99-00-00
 | 2018-07-26 | 2018. évi XL. törvény | 2008-99-00-00.28 |
 | 2019-12-19 | 2019. évi CXXIV. törvény | 2008-99-00-00.29 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2008-99-00-00.30 |
+| 2020-03-01 | 2019. évi CX. törvény | 2008-99-00-00.31 |
