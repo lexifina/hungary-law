@@ -24,9 +24,9 @@ j) a szennyezés kockázatának csökkentését szolgáló tevékenység.
 
 (2) A fürdővízminőség felügyelettel kapcsolatos feladatok végrehajtásáért az országos tisztifőorvos felel.
 
-(3)[^51]
+(3)[^50]
 
-(4)[^52] Az országos tisztifőorvos:
+(4)[^51] Az országos tisztifőorvos:
 
 a) rendszeresen értékeli a fürdővíz biztonsági helyzetet,
 
@@ -34,9 +34,9 @@ b) javaslatot tesz a fürdővíz biztonság megőrzéséhez, illetve helyreáll�
 
 c) szakmai ajánlásokat dolgoz ki annak érdekében, hogy a 2015. évi fürdési idény végéig az összes magyarországi fürdővíz elérje legalább a „tűrhető” minősítést és a lehetőségek szerinti mértékben nőjön a „jó” és „kiváló” osztályba tartozó fürdővizek aránya.
 
-(5)[^53] A fürdővizek minőségét érintő határon átnyúló hatások tekintetében az érintett tagállamokkal, illetve az Európai Unió tagjai közé nem tartozó érintett szomszédos államokkal történő együttműködés során a két- és többoldalú vízügyi keretegyezmények jelentik a megfelelő információcsere és az ilyen hatások ellenőrzése érdekében szükséges együttes fellépés keretrendszerét.
+(5)[^52] A fürdővizek minőségét érintő határon átnyúló hatások tekintetében az érintett tagállamokkal, illetve az Európai Unió tagjai közé nem tartozó érintett szomszédos államokkal történő együttműködés során a két- és többoldalú vízügyi keretegyezmények jelentik a megfelelő információcsere és az ilyen hatások ellenőrzése érdekében szükséges együttes fellépés keretrendszerét.
 
-(6)[^54] Az országos tisztifőorvos kidolgozza a nyilvánosság fürdővízminőség-felügyeleti feladatok végrehajtásába történő bevonására vonatkozó szakmai ajánlását, különös tekintettel:
+(6)[^53] Az országos tisztifőorvos kidolgozza a nyilvánosság fürdővízminőség-felügyeleti feladatok végrehajtásába történő bevonására vonatkozó szakmai ajánlását, különös tekintettel:
 
 a) a nyilvánosság által megfogalmazott észrevételek, javaslatok vagy panaszok fogadásának, nyilvántartásának és megválaszolásának rendjére,
 
@@ -44,13 +44,13 @@ b) az a) pont szerinti információ elemzésének és hasznosításának módjá
 
 c) az a) pontban foglaltak megválaszolásának formai és tartalmi követelményeire (beleértve ezek határidejét is).
 
-(7)[^55] Az országos tisztifőorvos kidolgozza a cianobaktérium kockázat esetén javasolt tevékenységekre, illetve intézkedésekre vonatkozó szakmai ajánlásait.
+(7)[^54] Az országos tisztifőorvos kidolgozza a cianobaktérium kockázat esetén javasolt tevékenységekre, illetve intézkedésekre vonatkozó szakmai ajánlásait.
 
-(8)[^56] Az országos tisztifőorvos szakmai ajánlásait és közérdekű tájékoztatásait közzéteszi az ÁNTSZ honlapján.
+(8)[^55] Az országos tisztifőorvos szakmai ajánlásait és közérdekű tájékoztatásait közzéteszi az ÁNTSZ honlapján.
 
-[^51]: A 12. § (3) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
-[^52]: A 12. § (4) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^53]: A 12. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^54]: A 12. § (6) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^55]: A 12. § (7) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^56]: A 12. § (8) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^50]: A 12. § (3) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^51]: A 12. § (4) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^52]: A 12. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^53]: A 12. § (6) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^54]: A 12. § (7) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^55]: A 12. § (8) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
