@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-191-00-00.32 |
 | 2019-01-01 | 2018. évi CXVII. törvény | 2011-191-00-00.33 |
 | 2020-01-01 | 2019. évi CX. törvény | 2011-191-00-00.34 |
+| 2020-03-01 | 2019. évi CX. törvény | 2011-191-00-00.35 |

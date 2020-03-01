@@ -30,6 +30,6 @@ meghatározott összeg 65 százaléka.
 
 (6) A kivételes rokkantsági ellátást a 13. § (2) bekezdésében foglaltakon túl, a megszüntetési ok megállapítását követő hónap első napjától abban az esetben is meg kell szüntetni, ha az ellátásban részesülő komplex minősítése során a rehabilitációs hatóság megállapítja, hogy az (1) bekezdés a) vagy b) pontjában meghatározott feltétel már nem áll fenn.
 
-(7) Az (1) bekezdés szerinti méltányossági jogkörben kiadott döntés ellen fellebbezésnek nincs helye.
+(7)
 
 (8) A kivételes rokkantsági ellátásra – ha e § eltérően nem rendelkezik – a rokkantsági ellátásra vonatkozó rendelkezéseket kell alkalmazni.
