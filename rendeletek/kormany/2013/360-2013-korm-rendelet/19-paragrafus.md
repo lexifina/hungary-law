@@ -1,4 +1,4 @@
-## 18. §[^8] Az energetikai létesítmény üzemeltetője által foglalkoztatott biztonsági összekötő személynek a Vhr. 6. §-ában foglalt képesítési követelményeken kívül szakirányú műszaki szakon szerzett felsőfokú végzettséggel kell rendelkeznie.
+## 18. §[^9] Az energetikai létesítmény üzemeltetője által foglalkoztatott biztonsági összekötő személynek a Vhr. 6. §-ában foglalt képesítési követelményeken kívül szakirányú műszaki szakon szerzett felsőfokú végzettséggel kell rendelkeznie.
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 22. § 2018. július 1-jén lép hatályba.
 
-[^8]: A 18. § a 22. §-al megállapított szöveg.
+[^9]: A 18. § a 22. §-al megállapított szöveg.

@@ -8,6 +8,6 @@ a) a villamosenergia-rendszer tekintetében a Magyar Energetikai és Közmű-sza
 
 b) a kőolaj-feldolgozás és kőolajtermék-tárolás kivételével a kőolajipar és a földgázipar tekintetében a bányafelügyelet,
 
-c)[^1] a kőolaj-feldolgozás és kőolajtermék-tárolás tekintetében első fokon a fővárosi és megyei kormányhivatal mérésügyi feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala.
+c)[^2] a kőolaj-feldolgozás és kőolajtermék-tárolás tekintetében a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal.
 
-[^1]: A 2. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 246. §-a szerint módosított szöveg.
+[^2]: A 2. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 122. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

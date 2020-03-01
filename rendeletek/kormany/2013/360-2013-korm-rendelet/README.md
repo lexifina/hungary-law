@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-360-20-
 | 2018-05-10 | 2013-360-20-22.8 | 394/2017. (XII. 13.) Korm. rendelet |
 | 2018-07-01 | 2013-360-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-07-02 | 2013-360-20-22.10 | 2010: CXXX. törvény |
+| 2020-03-01 | 2013-360-20-22.11 | 374/2020. (VII. 30.) Korm. rendelet |

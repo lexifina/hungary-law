@@ -1,4 +1,4 @@
-## 2/A. §[^2] Ha jogszabály az e rendelet hatálya alá tartozó eljárások tekintetében másként nem rendelkezik, az ügyintézési határidő 25 nap.
+## 2/A. §[^3] Ha jogszabály az e rendelet hatálya alá tartozó eljárások tekintetében másként nem rendelkezik, az ügyintézési határidő 25 nap.
 
 ## 3. Az európai létfontosságú rendszerelemek ágazati kritériumai
 
@@ -10,4 +10,4 @@ b) a kőolajipar tekintetében a rendszerelem 90 napot meghaladó kiesése a kő
 
 c) a földgázipar tekintetében a rendszerelem 1. mellékletben meghatározott idejű kiesése az adott tevékenység ellátása tekintetében más módon nem pótolható.
 
-[^2]: A 2/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 453. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: A 2/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 453. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
