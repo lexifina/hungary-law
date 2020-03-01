@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-222-20-
 | 2014-01-01 | 2007-222-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2007-222-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2007-222-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2020-03-01 | 2007-222-20-22.11 | 182/2009. (IX. 10.) Korm. rendelet |
