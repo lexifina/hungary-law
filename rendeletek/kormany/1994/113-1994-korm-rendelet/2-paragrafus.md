@@ -2,11 +2,11 @@
 
 2. §[^2] (1)[^3]
 
-(2) Azt a kérelmezőt, aki hadirokkantként kéri nyilvántartásba vételét, vagy azt a hadirokkantat, aki magasabb járadékosztályba történő besorolását kéri, az elsőfokú hadigondozási hatóság a 2. melléklet szerinti nyomtatvány felhasználásával a rehabilitációs szakértői szerv elé utalja vizsgálat céljából.
+(2)[^4] Azt a kérelmezőt, aki hadirokkantként kéri nyilvántartásba vételét, vagy azt a hadirokkantat, aki magasabb járadékosztályba történő besorolását kéri, a hadigondozási hatóság a 2. melléklet szerinti nyomtatvány felhasználásával a rehabilitációs szakértői szerv elé utalja vizsgálat céljából.
 
-(3)[^4] A Magyarországon lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetében a vizsgálat helyéről és idejéről a rehabilitációs szakértői szerv a vizsgálatot megelőzően legalább nyolc nappal írásban értesíti a kérelmezőt. A külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező kérelmező esetén a rehabilitációs szakértői szerv a vizsgálatot megelőzően legalább harminc nappal írásban értesíti a kérelmezőt.
+(3)[^5] A Magyarországon lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetében a vizsgálat helyéről és idejéről a rehabilitációs szakértői szerv a vizsgálatot megelőzően legalább nyolc nappal írásban értesíti a kérelmezőt. A külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező kérelmező esetén a rehabilitációs szakértői szerv a vizsgálatot megelőzően legalább harminc nappal írásban értesíti a kérelmezőt.
 
-(4) A rehabilitációs szakértő szerv a 3. melléklet szerinti szakvéleményt kiállítja és az elsőfokú hadigondozási hatóság részére megküldi.
+(4)[^6] A rehabilitációs szakértő szerv a 3. melléklet szerinti szakvéleményt kiállítja és a hadigondozási hatóság részére megküldi.
 
 (5) A (4) bekezdés szerinti szakvélemény közokirat, amely tartalmazza a hadieredetű fogyatkozást és az általa okozott járadék osztályba sorolás alapját képező egészségkárosodás százalékos mértékét.
 
@@ -14,4 +14,6 @@
 
 [^2]: Az R. 2. §-a a 259/2016. (VIII. 31.) Korm. rendelet 102. §-ával megállapított szöveg.
 [^3]: Az R. 2. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^4]: Az R. 2. § (3) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az R. 2. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: Az R. 2. § (3) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: Az R. 2. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

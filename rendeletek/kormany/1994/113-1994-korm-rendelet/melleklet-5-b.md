@@ -1,4 +1,4 @@
-## ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
+## A HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
 
 ## Igénybejelentés
 
@@ -40,7 +40,7 @@
 
 ## * A megfelelő szövegrész aláhúzandó!
 
-## 5/A. melléket a 113/1994. (VIII. 31.) Korm. rendelethez[^57]
+## 5/A. melléket a 113/1994. (VIII. 31.) Korm. rendelethez[^65]
 
 ## IGÉNYBEJELENTÉS A VOLT HADIÁRVA, A VOLT HADIGONDOZOTT CSALÁDTAG ÉS VOLT HADIGYÁMOLT RENDSZERES HAVI JÁRADÉKÁNAK MEGÁLLAPÍTÁSÁHOZ
 
@@ -94,7 +94,7 @@
 
 ## igénylő
 
-5/B. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^58]
+5/B. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^66]
 
-[^57]: Az R. 5/A. mellékletét a 200/2015. (VII. 23.) Korm. rendelet 5. §-a iktatta be.
-[^58]: Az R. 5/B. mellékletét a 479/2015. (XII. 29.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 18. § a) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^65]: Az R. 5/A. mellékletét a 200/2015. (VII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^66]: Az R. 5/B. mellékletét a 479/2015. (XII. 29.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 18. § a) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

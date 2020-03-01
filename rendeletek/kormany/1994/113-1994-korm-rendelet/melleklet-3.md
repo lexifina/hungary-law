@@ -1,6 +1,6 @@
 ## Hadirokkantként történő nyilvántartásba vételhez, valamint hadirokkant magasabb járadékosztályba történő besorolásához szükséges vizsgálat formanyomtatványa
 
-## Első- vagy másodfokú hadigondozási hatóság megnevezése
+## A hadigondozási hatóság megnevezése
 
 | Szám: | Tárgy: | Hadieredetű fogyatkozás vizsgálata |
 
@@ -40,6 +40,6 @@
 
 ## hatóság vezetőjének aláírása
 
-3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^54]
+3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^62]
 
-[^54]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) és c) pontja szerint módosított szöveg.
+[^62]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) és c) pontja szerint módosított szöveg.

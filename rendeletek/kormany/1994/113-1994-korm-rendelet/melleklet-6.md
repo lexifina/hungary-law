@@ -102,13 +102,13 @@
 
 ## igénylő aláírása
 
-6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^60]
+6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^68]
 
 Igazolvány száma: nyomdai szám
 
 1—100 000-ig
 
-[ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG MEGNEVEZÉSE]
+[A HADIGONDOZÁSI HATÓSÁG MEGNEVEZÉSE]
 
 HADIGONDOZOTTI IGAZOLVÁNY
 
@@ -166,4 +166,4 @@ Figyelmeztetés:
 
 3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
 
-[^60]: Az R. 6. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^68]: Az R. 6. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (6) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

@@ -1,3 +1,3 @@
-3. §[^5]
+3. §[^7]
 
-[^5]: Az R. 3. §-át az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte.
+[^7]: Az R. 3. §-át az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte.
