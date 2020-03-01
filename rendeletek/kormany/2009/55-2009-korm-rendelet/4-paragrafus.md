@@ -24,7 +24,7 @@ h) a vásár rendezésének, piac tartásának időpontját, időtartamát, ille
 
 i) a vásár, piac működésének rendjét;
 
-j)[^19] élelmiszer felhasználása, forgalmazása, továbbá termény, takarmány, élő állat, illetve állatgyógyászati készítmény és növényvédő szer értékesítése esetén a kérelmező nyilatkozatát arról, hogy a vásár vagy a piac területén az élelmiszerlánc-biztonsági és állategészségügyi, továbbá fővárosi és megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala részére állandó jelleggel ingyenes helyiséghasználatot biztosít.
+j)[^19] élelmiszer felhasználása, forgalmazása, továbbá termény, takarmány, élő állat, illetve állatgyógyászati készítmény és növényvédő szer értékesítése esetén a kérelmező nyilatkozatát arról, hogy a vásár vagy a piac területén az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási hivatal, továbbá növény- és talajvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal részére állandó jelleggel ingyenes helyiséghasználatot biztosít.
 
 (4)[^20]
 
@@ -68,7 +68,7 @@ l) a nyilvántartásból való törlés tényét, annak időpontját.
 [^16]: A 4. § (3) bekezdés bevezető szövegrésze a 212/2009. (IX. 29.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^17]: A 4. § (3) bekezdés a) pontja a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^18]: A 4. § (3) bekezdés c) pontja a 212/2009. (IX. 29.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
-[^19]: A 4. § (3) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 131. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 130. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 4. § (3) bekezdés j) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^20]: A 4. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 239. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^21]: A 4. § (4a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 131. § (3) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 130. § (3) bekezdés a) pontja.
 [^22]: A 4. § (5) bekezdése a 260/2011. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 238. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
