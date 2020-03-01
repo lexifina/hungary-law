@@ -8,9 +8,9 @@
 
 | 3. | Elektronikus hírközlési építmények (különösen antennák, antennatartó szerkezetek és felszín alatti elektronikus hírközlési alépítmények) | Hírközlés-hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 4. | Felszín feletti építmények (különösen: állomásépületek átalakítása) | Általános építésügyi hatósági engedélyek | illetékes járási (fővárosi kerületi) hivatal |
+| 4. | Felszín feletti építmények (különösen: állomásépületek átalakítása) | Általános építésügyi hatósági engedélyek | illetékes fővárosi és megyei kormányhivatal |
 
-| 5. | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes járási (fővárosi kerületi) hivatal |
+| 5. | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és megyei kormányhivatal |
 
 | 6. | Valamennyi, megvalósításhoz szükséges építmény | Környezetvédelmi hatósági eljárások, engedélyek | Pest Megyei Kormányhivatal |
 
