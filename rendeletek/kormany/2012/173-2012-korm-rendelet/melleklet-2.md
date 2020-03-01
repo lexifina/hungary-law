@@ -4,21 +4,21 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Az új ferencvárosi labdarúgó stadion, és a megépítéséhez kapcsolódó beruházások. | A Budapest IX. kerület 38293/75 hrsz. alatt nyilvántartott, természetben a Budapest IX. kerület, Üllői út 129. és a Budapest IX. kerület, Könyves Kálmán körút 34–36. szám alatt található ingatlan. A Budapest IX. kerület 38293/15 hrsz. (Könyves Kálmán körút); a Budapest IX. kerület 38298 hrsz. (Üllői út); a Budapest IX. kerület 38291 hrsz. (Gyáli út) alatt nyilvántartott ingatlan. A Budapest IX. kerület 38293/33 hrsz. alatt nyilvántartott, és ott található ingatlan. | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | Az új ferencvárosi labdarúgó stadion, és a megépítéséhez kapcsolódó beruházások. | A Budapest IX. kerület 38293/75 hrsz. alatt nyilvántartott, természetben a Budapest IX. kerület, Üllői út 129. és a Budapest IX. kerület, Könyves Kálmán körút 34–36. szám alatt található ingatlan. A Budapest IX. kerület 38293/15 hrsz. (Könyves Kálmán körút); a Budapest IX. kerület 38298 hrsz. (Üllői út); a Budapest IX. kerület 38291 hrsz. (Gyáli út) alatt nyilvántartott ingatlan. A Budapest IX. kerület 38293/33 hrsz. alatt nyilvántartott, és ott található ingatlan. | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 5. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 5. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala |
 
-| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -26,10 +26,10 @@
 
 | 12. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
 | 14. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
 
-2. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^9]
+2. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^11]
 
-[^9]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte.
+[^11]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 54. § c) pontja hatályon kívül helyezte.
