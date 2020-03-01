@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-297-20-
 | 2014-01-01 | 2001-297-20-22.9 | 537/2013. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2001-297-20-22.10 | 80/2010. (III. 25.) Korm. rendelet |
 | 2017-07-01 | 2001-297-20-22.11 | 172/2017. (VI. 29.) Korm. rendelet |
+| 2020-03-01 | 2001-297-20-22.12 | 80/2010. (III. 25.) Korm. rendelet |

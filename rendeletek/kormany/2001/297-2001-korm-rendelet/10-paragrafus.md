@@ -24,7 +24,7 @@ g) a 11. §-ban megjelölt technikai eszköz
 
 ## megléte esetén végezhető.
 
-(2)[^30] A pénzváltási tevékenységet közvetítő az (1) bekezdés a) pontjában említett feltétel meglétét az ingatlanra vonatkozó tulajdonjog és az ingatlan-nyilvántartásba bejegyezhető más, használati jog esetében az ingatlanügyi hatóságként eljáró járási (fővárosi kerületi) hivatal által kiállított tulajdoni lappal, bérleti jog esetén bérleti szerződéssel köteles igazolni. Ha a kérelmező – ide nem értve a bérleti jogot – az adatokat nem mellékeli, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz.
+(2)[^30] A pénzváltási tevékenységet közvetítő az (1) bekezdés a) pontjában említett feltétel meglétét az ingatlanra vonatkozó tulajdonjog és az ingatlan-nyilvántartásba bejegyezhető más, használati jog esetében az ingatlanügyi hatóság által kiállított tulajdoni lappal, bérleti jog esetén bérleti szerződéssel köteles igazolni. Ha a kérelmező – ide nem értve a bérleti jogot – az adatokat nem mellékeli, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz.
 
 (3)[^31] A pénzváltási tevékenységet közvetítőnek az (1) bekezdés d) pontjában említett feltétel meglétét valamelyik távközlési szolgáltatóval kötött szolgáltatási szerződéssel köteles igazolni.
 
@@ -38,7 +38,7 @@ g) a 11. §-ban megjelölt technikai eszköz
 
 [^28]: A 9. § a 182/2009. (IX. 10.) Korm. rendelet 259. §-a, a 172/2017. (VI. 29.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
 [^29]: A 10. § (1) bekezdés d) pontja az 537/2013. (XII. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^30]: A 10. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 53. §-a, a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^30]: A 10. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 24. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^31]: A 10. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^32]: A 10. § (5) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^33]: A 10. § (6) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
