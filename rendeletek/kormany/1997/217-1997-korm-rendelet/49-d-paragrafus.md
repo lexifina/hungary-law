@@ -1,10 +1,10 @@
-49/D. §[^625] (1)[^626] Az Ebtv. 68–68/A. §-a alapján a kötelező gépjármű-felelősségbiztosítás hatálya alá tartozó megtérítésre kötelezett helyett a gépjármű üzembentartójának kötelező felelősségbiztosításáról szóló rendelkezések alapján a biztosító áll helyt azzal, hogy e kötelezettségének átalányösszegben is eleget tehet. Az évenkénti átalányösszeg mértékét, az elszámolás ügyviteli rendjét a NEAK a kötelező gépjármű-felelősségbiztosítást nyújtó biztosítókkal és a Magyar Biztosítók Szövetségével megállapodásban rendezi.
+49/D. §[^627] (1)[^628] Az Ebtv. 68–68/A. §-a alapján a kötelező gépjármű-felelősségbiztosítás hatálya alá tartozó megtérítésre kötelezett helyett a gépjármű üzembentartójának kötelező felelősségbiztosításáról szóló rendelkezések alapján a biztosító áll helyt azzal, hogy e kötelezettségének átalányösszegben is eleget tehet. Az évenkénti átalányösszeg mértékét, az elszámolás ügyviteli rendjét a NEAK a kötelező gépjármű-felelősségbiztosítást nyújtó biztosítókkal és a Magyar Biztosítók Szövetségével megállapodásban rendezi.
 
-(2)[^627] Az Ebtv. 67–68/A. §-a alapján fennálló megtérítési kötelezettség teljesítésére a Honvédelmi Minisztérium Védelemgazdasági Hivatala a NEAK-kal megállapodást köthet.
+(2)[^629] Az Ebtv. 67–68/A. §-a alapján fennálló megtérítési kötelezettség teljesítésére a Honvédelmi Minisztérium Védelemgazdasági Hivatala a NEAK-kal megállapodást köthet.
 
-(3)[^628] Az (1) és (2) bekezdés szerinti megállapodások megkötése érdekében a NEAK hatóságtól vagy egyéb szervtől a megtérítési igényt megalapozó eseménnyel kapcsolatban adatszolgáltatást kérhet. Az adatszolgáltatást a kérelem kézhezvételétől számított 30 napon belül kell teljesíteni.
+(3)[^630] Az (1) és (2) bekezdés szerinti megállapodások megkötése érdekében a NEAK hatóságtól vagy egyéb szervtől a megtérítési igényt megalapozó eseménnyel kapcsolatban adatszolgáltatást kérhet. Az adatszolgáltatást a kérelem kézhezvételétől számított 30 napon belül kell teljesíteni.
 
-[^625]: A Vhr. 49/D. §-át a 360/2008. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^626]: A Vhr. 49/D. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^627]: A Vhr. 49/D. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 182. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés c) pontja szerint módosított szöveg.
-[^628]: A Vhr. 49/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (9) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^627]: A Vhr. 49/D. §-át a 360/2008. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^628]: A Vhr. 49/D. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^629]: A Vhr. 49/D. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 182. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^630]: A Vhr. 49/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (9) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.

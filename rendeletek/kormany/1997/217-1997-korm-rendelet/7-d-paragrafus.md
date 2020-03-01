@@ -1,3 +1,3 @@
-7/D. §[^182] A külön jogszabály szerint különleges táplálkozási igényt kielégítő tápszerek árára és az árához nyújtott támogatásra a gyógyszerek közfinanszírozási árára és az árához nyújtott támogatásra vonatkozó rendelkezéseket értelemszerűen alkalmazni kell.
+7/D. §[^184] A külön jogszabály szerint különleges táplálkozási igényt kielégítő tápszerek árára és az árához nyújtott támogatásra a gyógyszerek közfinanszírozási árára és az árához nyújtott támogatásra vonatkozó rendelkezéseket értelemszerűen alkalmazni kell.
 
-[^182]: A Vhr. 7/D. §-át a 295/2002. (XII. 27.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^184]: A Vhr. 7/D. §-át a 295/2002. (XII. 27.) Korm. rendelet 8. §-a iktatta a szövegbe.
