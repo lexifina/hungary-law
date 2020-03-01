@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-387-20-
 | 2019-09-01 | 2016-387-20-22.11 | 170/2019. (VII. 12.) Korm. rendelet |
 | 2020-01-01 | 2016-387-20-22.12 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-01-17 | 2016-387-20-22.13 | 170/2019. (VII. 12.) Korm. rendelet |
+| 2020-03-01 | 2016-387-20-22.14 | 360/2019. (XII. 30.) Korm. rendelet |
