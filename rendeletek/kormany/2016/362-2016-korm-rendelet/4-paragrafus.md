@@ -10,9 +10,9 @@ b)[^2] közösségi foglalkoztatót működtethet.
 
 a)[^3] az áldozatsegítési eljárásban személyre szabott tájékoztatást nyújt, és ennek érdekében megszakítás nélkül, folyamatosan működteti az erre a célra fenntartott, díjmentesen hívható Áldozatsegítő Vonalat, továbbá az áldozatsegítő központokban biztosítja a bűncselekmények és a tulajdon elleni szabálysértések áldozatai részére az érdekérvényesítés elősegítése szolgáltatás igénybevételének lehetőségét,
 
-b) az állami kárenyhítéssel kapcsolatban döntő hatóságként másodfokon eljár,
+b)[^4]
 
-c) az állami kárenyhítéssel kapcsolatban a visszatérítésre kötelezés tekintetében másodfokú hatóságként eljár,
+c)[^5]
 
 d) figyelemmel kíséri az áldozati jogok érvényesülését, tájékoztatást kér az áldozatokkal kapcsolatba kerülő hatóságoktól, intézményektől, szervezetektől, és tapasztalatairól évente összefoglaló elemzést készít,
 
@@ -20,3 +20,5 @@ e) elkészíti a bűncselekmények áldozatainak jogaira, támogatására és v�
 
 [^2]: A 4. § (1) bekezdés b) pontja a 33/2019. (III. 5.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 4. § (3) bekezdés a) pontja a 33/2019. (III. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § (3) bekezdés b) pontját a 30/2020. (II. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^5]: A 4. § (3) bekezdés c) pontját a 30/2020. (II. 29.) Korm. rendelet 28. §-a hatályon kívül helyezte.

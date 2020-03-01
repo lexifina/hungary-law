@@ -1,7 +1,9 @@
-## 8. § A Kormány a Családi Csődvédelmi Szolgálat területi szerveiként megyénként, megyei illetékességgel a megyeszékhely szerinti járási hivatalt, Pest megyében – az egész megyére kiterjedő illetékességgel – az Érdi Járási Hivatalt, a fővárosban – a fővárosra kiterjedő illetékességgel – Budapest Főváros Kormányhivatala XI. Kerületi Hivatalát jelöli ki.
+## 8. §[^8] A Kormány a Családi Csődvédelmi Szolgálat területi szerveként a fővárosi és megyei kormányhivatalt jelöli ki.
 
-9. § (1) A miniszter a feladat- és hatáskörében a fővárosi és megyei kormányhivatal és a járási hivatal e rendelet szerinti feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket.
+9. § (1)[^9] A miniszter a feladat- és hatáskörében a fővárosi és megyei kormányhivatal e rendelet szerinti feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket.
 
-(2)[^4] A miniszter feladat- és hatáskörében gyakorolja a felügyeleti szerv jogköreit a fővárosi és megyei kormányhivatal és a járási hivatal 6. § b) és c) pontja szerinti, valamint Budapest Főváros Kormányhivatala a 7. § szerinti feladatköreinek gyakorlásával összefüggésben.
+(2)[^10] A miniszter feladat- és hatáskörében gyakorolja a felügyeleti szerv jogköreit a fővárosi és megyei kormányhivatal 6. § b) és c) pontja szerinti, valamint Budapest Főváros Kormányhivatala a 7. § szerinti feladatköreinek gyakorlásával összefüggésben.
 
-[^4]: A 9. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 581. § (1) bekezdésével megállapított, a 73/2019. (IV. 5.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^8]: A 8. § a 360/2019. (XII. 30.) Korm. rendelet 156. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^9]: A 9. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 9. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 581. § (1) bekezdésével megállapított, a 73/2019. (IV. 5.) Korm. rendelet 11. §-a a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

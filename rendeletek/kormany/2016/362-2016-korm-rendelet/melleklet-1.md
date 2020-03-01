@@ -1,8 +1,8 @@
 ## 18. § A 4. § (3) bekezdése a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 8. cikk (1) bekezdésének és 28. cikkének való megfelelést szolgálja.
 
-1. melléklet a 362/2016. (XI. 29.) Korm. rendelethez[^13]
+1. melléklet a 362/2016. (XI. 29.) Korm. rendelethez[^20]
 
-A fővárosi és megyei kormányhivatalok, járási (fővárosi kerületi) hivatalok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok köre
+A fővárosi és megyei kormányhivatalok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok köre
 
 I. A kormánytisztviselő
 
@@ -28,4 +28,4 @@ II.
 
 6. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja
 
-[^13]: Az 1. mellékletet a 86/2019. (IV. 23.) Korm. rendelet 65. § (2) bekezdése iktatta be.
+[^20]: Az 1. mellékletet a 86/2019. (IV. 23.) Korm. rendelet 65. § (2) bekezdése iktatta be, címe a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés f) pontja szerint módosított szöveg.
