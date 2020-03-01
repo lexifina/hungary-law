@@ -4,4 +4,4 @@
 
 [^11]: A 7. §-t a 376/2016. (XI. 29.) Korm. rendelet 2. §-a iktatta be.
 [^12]: A hatálybalépés időpontja 2016. november 30.
-[^13]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 111. §-a és 112. § c) és d) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 48. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
