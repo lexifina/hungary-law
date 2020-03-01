@@ -30,7 +30,7 @@ c) a személyszállításra való körforgó felvonó,
 
 d) a mozgáskorlátozott személyek számára készült lépcsőfelvonó, ferdepályás vagy függőleges pályájú emelőlap;
 
-8.[^4] felvonó leállítása: az üzemeltető önkéntes elhatározása, illetve balesetveszély esetén a nyilvántartott szervezet, az ellenőr, a karbantartó, a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság) intézkedésének eredményeként a berendezés legfeljebb egy naptári évig tartó, villamos hálózatról való lekapcsolása;
+8.[^4] felvonó leállítása: az üzemeltető önkéntes elhatározása, illetve balesetveszély esetén a nyilvántartott szervezet, az ellenőr, a karbantartó, a műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: Hatóság) intézkedésének eredményeként a berendezés legfeljebb egy naptári évig tartó, villamos hálózatról való lekapcsolása;
 
 9. felvonó veszélytelenítése: a felvonó villamos táphálózatról történő leválasztása, a fülke és ha van, az ellensúly, illetve kiegyenlítősúly ütközőre ültetése, és valamennyi aknaajtó nem oldható kötéssel történő lezárása, hidraulikus felvonók esetében a munkafolyadék teljes eltávolítása;
 
@@ -59,7 +59,7 @@ c) a berendezés főbb műszaki adatainak megváltoztatásával járó átalakí
 [^1]: A 2. § 2. pontja a 70/2015. (III. 30.) Korm. rendelet 248. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 3. pontja a 80/2018. (IV. 20.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 6. pontja a 80/2018. (IV. 20.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § 8. pontja a 280/2015. (IX. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 271. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 2. § 8. pontja a 280/2015. (IX. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 132. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^5]: A 2. § 10. pont a) alpontja a 80/2018. (IV. 20.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
 [^6]: A 2. § 13. pontja a 280/2015. (IX. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^7]: A 2. § 15. pontja a 379/2016. (XII. 2.) Korm. rendelet 271. § (1) bekezdés d) pontja szerint módosított szöveg.
