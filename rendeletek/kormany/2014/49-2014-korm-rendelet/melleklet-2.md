@@ -1,24 +1,22 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | A dél-pesti utánpótlás-nevelési centrum | Budapest XIX. kerület, 169171/1 helyrajzi számú ingatlan | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | A dél-pesti utánpótlás-nevelési centrum | Budapest XIX. kerület, 169171/1 helyrajzi számú ingatlan | általános építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala III. Kerületi Hivatala |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala XII. Kerületi Hivatala |
+| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
 
 | 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
