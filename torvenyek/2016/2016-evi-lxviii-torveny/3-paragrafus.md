@@ -412,11 +412,15 @@ b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüv
 
 c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a)–b) pontban meghatározott kritériumoknak;
 
-2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a töltőfolyadék és az új dohánytermék-kategóriák, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;
+2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;
 
 3. dohánynövény: a 0602 90 50 KN-kód szerinti növény;
 
 4. dohánytörmelék: a dohány feldolgozása és a dohánytermékek előállítása során keletkező dohánylevél-maradvány és melléktermék;
+
+4a. dohányzást helyettesítő nikotintartalmú termék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
+
+4b. dohányzást imitáló elektronikus eszköz: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
 
 5. egyéb fogyasztási dohány:
 
@@ -438,6 +442,8 @@ b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot t
 
 9. fogyasztási dohány: az egyéb fogyasztási dohány és a finomra vágott fogyasztási dohány;
 
+9a. füst nélküli dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
+
 10. kész dohányvágat: olyan dohánygyártmány, amely pipadohány esetében pipában történő elszívásra, cigarettadohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is;
 
 11. szárított dohány: a tőről leszakított nyersdohány, a 2401 10 35-2401 20 95 KN-kód szerinti feldolgozatlan dohány, továbbá a 2401 30 00 KN-kód szerinti dohányhulladék;
@@ -450,6 +456,6 @@ b) a kocsányozott dohánykeverékből készült szivarbélből, valamint a sziv
 
 c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) és b) pontban meghatározott kritériumoknak;
 
-13. töltőfolyadék: olyan nikotintartalmú folyadék, amelyet az elektronikus cigarettába a gyártási folyamat során töltenek be, ideértve az elektronikus cigaretta utántöltésére szolgáló folyadékot is;
+13. töltőfolyadék: olyan folyadék, amelyet az elektronikus cigarettába vagy a dohányzást imitáló elektronikus eszközbe a gyártási folyamat során töltenek be, ideértve az elektronikus cigaretta vagy a dohányzást imitáló elektronikus eszköz utántöltésére, többszöri használatára szolgáló folyadékot is;
 
 14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.

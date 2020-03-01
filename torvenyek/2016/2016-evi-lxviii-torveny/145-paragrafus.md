@@ -24,13 +24,17 @@ cb) a 2020. július 1. és 2020. december 31. közötti időszakban 20 700 forin
 
 cc) 2021. január 1-jétől 21 480 forint kilogrammonként,
 
-d) a töltőfolyadékra 55 forint milliliterenként,
+d) a töltőfolyadékra 20 forint milliliterenként,
 
 e) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
 
 ea) egyszer használatos termékeire 10 forint darabonként (szálanként),
 
-eb) folyadékára 70 forint milliliterenként.
+eb) folyadékára 70 forint milliliterenként,
+
+f) a füst nélküli dohánytermékre 19 160 forint kilogrammonként,
+
+g) a dohányzást helyettesítő nikotintartalmú termékre 19 160 forint kilogrammonként.
 
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 

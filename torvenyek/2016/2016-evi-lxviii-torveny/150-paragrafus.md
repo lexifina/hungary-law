@@ -57,3 +57,5 @@
 (28) A 67. § (4) bekezdésétől és a 68. § (2) bekezdésétől eltérően 2020. április 30-ig nincs szükség az állami adó- és vámhatóság előzetes engedélyére nikotinmentes töltőfolyadék beszerzéséhez.
 
 (29) A (26) bekezdés szerinti személy a 2020. május 1-jén készleten lévő nikotinmentes töltőfolyadék készletének megsemmisítéséről legkésőbb 2020. május 5-ig bejelentést tesz az állami adó- és vámhatósághoz.
+
+(30) A 74. § rendelkezéseitől eltérően a füst nélküli dohánytermék és a dohányzást helyettesítő nikotintartalmú termék 2020. július 1. napjáig zárjegy nélkül bocsátható szabadforgalomba és forgalmazható belföldön azzal, hogy a 2020. június 30-ig szabadforgalomba bocsátott és 2020. augusztus 31-ig az Fdvtv.-ben meghatározott dohánytermék-kiskereskedelmi és az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés helyére kiszállított zárjegy nélküli füst nélküli dohánytermék és dohányzást helyettesítő nikotintartalmú termék korlátozás nélkül értékesíthető a 145. § (5) bekezdése szerinti áron.
