@@ -6,13 +6,13 @@
 
 | 1. | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Eljáró engedélyező hatóság |
 
-| 2. | hulladéklerakó telep | Királyszentistván (hrsz. 017) | egységes környezethasználati engedély | Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala |
+| 2. | hulladéklerakó telep | Királyszentistván (hrsz. 017) | egységes környezethasználati engedély | Veszprém Megyei Kormányhivatal |
 
-| 3. | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala |
+| 3. | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Veszprém Megyei Kormányhivatal |
 
 | 4. | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 5. | Bekötőút | Királyszentistván - a 7213. sz. úttól a hulladéklerakó telepre | építési engedély | Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala |
+| 5. | Bekötőút | Királyszentistván - a 7213. sz. úttól a hulladéklerakó telepre | építési engedély | Veszprém Megyei Kormányhivatal |
 
 | 6. |  |  | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
@@ -24,27 +24,27 @@
 
 | 2. | hulladéklerakó telep | Nyíregyháza (hrsz. 02350) | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 3. | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 3. | építési engedély hulladékudvarra, mérlegházra, központi épületre, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra, utóérlelő csarnokra, komposztáló csarnokra | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
 | 4. | bekötőút | Nyíregyháza - a Nyíregyházát elkerülő (épülő) 4. sz. úttól a hulladéklerakó telepre | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 5. | hulladéklerakó telep | Kisvárda (hrsz. 68) | egységes környezethasználati engedély (módosítás) | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 5. | hulladéklerakó telep | Kisvárda (hrsz. 68) | egységes környezethasználati engedély (módosítás) | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
-| 6. | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 6. | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
 | 7. | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 8. | bekötőút | Kisvárda - a 4108. és 4109. sz. úttól a hulladéklerakó telepre | építési engedély | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 8. | bekötőút | Kisvárda - a 4108. és 4109. sz. úttól a hulladéklerakó telepre | építési engedély | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
 | 9. | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 10. | hulladéklerakó telep | Nagyecsed (hrsz. 188) | egységes környezethasználati engedély (módosítás) | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 10. | hulladéklerakó telep | Nagyecsed (hrsz. 188) | egységes környezethasználati engedély (módosítás) | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
-| 11. | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 11. | építési engedély hulladékudvarra, mérlegházra, hulladékválogató csarnokra, mechanikai-biológiai hulladékkezelő csarnokra | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
 | 12. | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 13. | bekötőút | Nagyecsed - a 4918. sz. úttól a hulladéklerakó telepre | építési engedély | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Nyíregyházi Járási Hivatala |
+| 13. | bekötőút | Nagyecsed - a 4918. sz. úttól a hulladéklerakó telepre | építési engedély | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal |
 
 | 14. | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
 
