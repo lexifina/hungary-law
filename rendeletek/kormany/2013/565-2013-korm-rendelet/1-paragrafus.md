@@ -2,6 +2,6 @@
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági eljárásokban eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(3)[^1]
+(3)[^2]
 
-[^1]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 123. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 123. § a) pontja hatályon kívül helyezte.

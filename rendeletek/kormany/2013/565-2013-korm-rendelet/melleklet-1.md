@@ -1,3 +1,3 @@
-1. melléklet az 565/2013. (XII. 31.) Korm. rendelethez[^12]
+1. melléklet az 565/2013. (XII. 31.) Korm. rendelethez[^13]
 
-[^12]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 64. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 122. §-a és 123. § c) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 52. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
