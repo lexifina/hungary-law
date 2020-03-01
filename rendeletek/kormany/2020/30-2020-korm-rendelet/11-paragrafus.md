@@ -1,0 +1,5 @@
+## 11. A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet módosítása
+
+11. § (1) A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet (a továbbiakban: R5.) 1. számú mellékletében az „Ithaginis cruentus Vérfácán” szövegrész helyébe a „Syrmaticus reevesi Királyfácán” szöveg lép.
+
+(2) Hatályát veszti az R5. 4. § (3) bekezdésében az „Állatkertek esetében az állatkert és az állatotthon létesítésének, működésének és fenntartásának részletes szabályairól szóló miniszteri rendelet szerint minden év március 1-jéig elkészített és benyújtott éves jelentés megfelel az e rendelet szerinti bejelentésnek, ha az valamennyi bejelentésköteles egyed esetében tartalmazza azokat az adatokat, amelyek a származási igazoláson, az eredetigazoláson, illetve a tenyésztői bizonylaton feltüntetésre kerülnek.” szövegrész.
