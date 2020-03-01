@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2019-07-24 | 2019. évi LXXIII. törvény | 1997-80-00-00.99 |
 | 2020-01-01 | 2019. évi CXII. törvény | 1997-80-00-00.100 |
 | 2020-02-27 | 2019. évi CIX. törvény | 1997-80-00-00.101 |
+| 2020-03-01 | 2019. évi CX. törvény | 1997-80-00-00.102 |
