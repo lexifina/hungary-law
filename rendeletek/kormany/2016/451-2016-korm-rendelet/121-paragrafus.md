@@ -1,6 +1,6 @@
 ## Papíralapú irat átalakítása hiteles elektronikus irattá
 
-121. § (1)[^99] A papíralapú irat hiteles elektronikus irattá alakítása során
+121. § (1)[^100] A papíralapú irat hiteles elektronikus irattá alakítása során
 
 a) az elektronikus ügyintézést biztosító szerv saját feladatkörében,
 
@@ -12,7 +12,7 @@ c) a papíralapú irat hiteles elektronikus irattá alakítása KEÜSZ kijelölt
 
 (2) Az elektronikus másolatot a következő metaadatok elhelyezésével kell létrehozni, és azt egyértelműen az eredeti papíralapú dokumentumhoz rendelni:
 
-a)–b)[^100]
+a)–b)[^101]
 
 c) a másolatkészítő szervezet elnevezése és – ha a másolatkészítés nem az automatikus másolatkészítés 55. §-ban meghatározott szabályai szerint történik – a másolat képi vagy tartalmi egyezéséért felelős személy neve;
 
@@ -26,5 +26,5 @@ f) az irányadó másolatkészítési rend elérhetősége.
 
 (4) A szolgáltató a szolgáltatás során az igénybevevő elektronikus ügyintézést biztosító szerv adatfeldolgozójaként jár el.
 
-[^99]: A 121. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
-[^100]: A 121. § (2) bekezdés a)–b) pontját a 221/2017. (VIII. 7.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^100]: A 121. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^101]: A 121. § (2) bekezdés a)–b) pontját a 221/2017. (VIII. 7.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

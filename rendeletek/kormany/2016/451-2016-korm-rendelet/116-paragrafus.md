@@ -12,9 +12,9 @@ b) amely automatizált feldolgozásra alkalmas, strukturált módon tartalmazza 
 
 (4) A szolgáltatás része a kitöltött űrlapot és csatolmányait tartalmazó elektronikus dokumentum hivatali tárhelyre történő kézbesítésre átadása a biztonságos kézbesítési szolgáltatás részére.
 
-(5)[^96] A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartását vezető szerv ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő elektronikus ügyintézést biztosító szerv az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
+(5)[^97] A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartását vezető szerv ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő elektronikus ügyintézést biztosító szerv az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
 
-(6)[^97] Az elektronikus ügyintézést biztosító szerv köteles biztosítani, hogy az űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
+(6)[^98] Az elektronikus ügyintézést biztosító szerv köteles biztosítani, hogy az űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
 
-[^96]: A 116. § (5) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
-[^97]: A 116. § (6) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^97]: A 116. § (5) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^98]: A 116. § (6) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be.

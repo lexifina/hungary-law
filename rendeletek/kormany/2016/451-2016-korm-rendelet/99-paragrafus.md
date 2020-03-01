@@ -24,7 +24,7 @@
 
 10. kormányablak: a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának integrált ügyfélszolgálata;
 
-11. okmányiroda: a nyilvántartást vezető szervnek, a Kormány rendeletében kijelölt kormányhivatalnak, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) okmányirodai feladatokat ellátó szervezeti egysége, amely útján a járási hivatal ellátja a hatáskörébe utalt elsőfokú közigazgatási hatósági feladatait;
+11.[^77] okmányiroda: a nyilvántartást vezető szervnek, a Kormány rendeletében kijelölt kormányhivatalnak, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) okmányirodai feladatokat ellátó szervezeti egysége, amely útján a járási hivatal ellátja a hatáskörébe utalt közigazgatási hatósági feladatait;
 
 12. POS terminál: a pénztárba épített vagy különálló elektronikus berendezés, amely az elfogadóhelyen a bankkártyás fizetés lebonyolításának eszköze;
 
@@ -34,3 +34,4 @@
 [^74]: A 99. § 6. pontja a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^75]: A 99. § 8. pontja a 6/2020. (I. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
 [^76]: A 99. § 8a. pontját a 176/2019. (VII. 18.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^77]: A 99. § 11. pontja a 360/2019. (XII. 30.) Korm. rendelet 165. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
