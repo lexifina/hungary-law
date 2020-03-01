@@ -1,6 +1,6 @@
 ## A földminősítési eljárás és a földminősítő igazolvány kiállításának igazgatási szolgáltatási díja
 
-30/A. § (1) Az első fokon kérelemre induló földminősítési eljárásért, valamint a földminősítési eljárásban igénybe vehető valamennyi jogorvoslati eljárásért az e törvény végrehajtására kiadott rendeletben meghatározott összegű igazgatási szolgáltatási díjat kell fizetni.
+30/A. § (1) A kérelemre induló földminősítési eljárásért az e törvény végrehajtására kiadott rendeletben meghatározott összegű igazgatási szolgáltatási díjat kell fizetni.
 
 (2) Díjmentes az a földminősítési eljárás, amelynek tárgya
 

@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2018-01-01 | 2017. évi CCV. törvény | 2007-129-00-00.30 |
 | 2018-01-02 | 2017. évi CLXXXIII. törvény | 2007-129-00-00.31 |
 | 2020-01-01 | 2019. évi CX. törvény | 2007-129-00-00.32 |
+| 2020-03-01 | 2019. évi CX. törvény | 2007-129-00-00.33 |

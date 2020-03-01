@@ -1,6 +1,6 @@
 ## A földvédelmi járulékra és földvédelmi bírságra vonatkozó közös szabályok
 
-26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) e célra létrehozott központosított beszedési számlájára kell befizetni.
+26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és megyei kormányhivatal e célra létrehozott központosított beszedési számlájára kell befizetni.
 
 (2) A járulék a központi költségvetést illeti meg.
 
@@ -8,7 +8,7 @@
 
 (4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról nyilvántartást vezet.
 
-(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséhez a földügyért felelős miniszter hozzájárulása szükséges. A törléshez az ingatlanügyi hatóságnak a kormányhivatal útján felterjesztett kérelme alapján a földügyért felelős miniszter akkor járulhat hozzá, ha
+(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséhez a földügyért felelős miniszter hozzájárulása szükséges. A törléshez az ingatlanügyi hatóság kérelme alapján a földügyért felelős miniszter akkor járulhat hozzá, ha
 
 a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
 
@@ -44,7 +44,7 @@ c) 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatály�
 
 szóló jogerős határozatban szereplő földrészleteken.
 
-(9) A helyszíni szemlét követő 15 napon belül az ingatlanügyi hatóság a kormányhivatal útján a kérelmet – a (10), illetve a (11) bekezdésben meghatározott mellékletekkel együtt – felterjeszti döntésre a földügyért felelős miniszter részére.
+(9) A helyszíni szemlét követő 15 napon belül az ingatlanügyi hatóság a kérelmet – a (10), illetve a (11) bekezdésben meghatározott mellékletekkel együtt – felterjeszti döntésre a földügyért felelős miniszter részére.
 
 (10) Az (5) bekezdés a) pontja szerinti kérelem esetében a kérelem felterjesztéséhez csatolni kell:
 

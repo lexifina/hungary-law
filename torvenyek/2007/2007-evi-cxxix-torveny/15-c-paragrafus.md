@@ -1,6 +1,6 @@
 ## Kisajátítás alapjául szolgáló közérdekű cél megvalósításához szükséges más célú hasznosítás engedélyezésére vonatkozó különös szabályok
 
-15/C. § (1) A 9–13/A. §-ban foglaltakat az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+15/C. § (1) A 9–13. §-ban foglaltakat az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) A 13. § (2) bekezdése nem alkalmazható, ha a kisajátítás alapjául szolgáló közérdekű cél megvalósításához szükséges más célú hasznosítás engedélyezése iránti kérelem (a továbbiakban: kisajátítási célú kérelem) olyan földrészletet is tartalmaz, amely – a kisajátítási célú kérelemmel érintett – területének a végleges vagy időleges más célú hasznosítását az ingatlanügyi hatóság már engedélyezte, és az engedély időbeli hatálya még nem járt le.
 
