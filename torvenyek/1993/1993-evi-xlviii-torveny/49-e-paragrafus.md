@@ -1,7 +1,3 @@
-49/E. § (1) A kormányrendeletben meghatározott bányászati keresetkiegészítés megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő negyven nap, ha az eljárásban a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell.
+49/E. § (1) A kormányrendeletben meghatározott bányászati keresetkiegészítés megállapítása és felülvizsgálata iránti eljárásban az ügyintézési határidő negyven nap, ha az eljárásban a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell.
 
-(2) A bányászok – kormányrendeletben meghatározott – egészségkárosodási járadékának megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő harmincöt munkanap, ha az eljárásban a kérelmező egészségkárosodásának mértékét szakkérdésként vizsgálni kell. Az ügyintézési határidő tizenhét munkanap
-
-a) az elsőfokú eljárásban, ha a kérelmező egészségkárosodásának mértékét nem kell megvizsgálni, és
-
-b) a másodfokú eljárásban.
+(2) A bányászok – kormányrendeletben meghatározott – egészségkárosodási járadékának megállapítása és felülvizsgálata iránti eljárásban az ügyintézési határidő harmincöt munkanap, ha az eljárásban a kérelmező egészségkárosodásának mértékét szakkérdésként vizsgálni kell. Az ügyintézési határidő tizenhét munkanap az eljárásban, ha a kérelmező egészségkárosodásának mértékét nem kell megvizsgálni.
