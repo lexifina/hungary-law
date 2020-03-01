@@ -224,7 +224,7 @@ b) vízgazdálkodási bírságot (1995. évi LVII. tv. 29. § (3) bekezdés) meg
 
 c) vízkészletjárulékot, valamint ezzel összefüggő késedelmi pótlékot, mulasztási bírságot, adóbírságot megállapító határozat esetén a vitatott összeg 6%-a, de legalább 20 000 forint;
 
-d) hivatalból indult vagy folytatott környezet- és természetvédelmi, illetőleg vízgazdálkodási ügyben kötelezettséget megállapító egyéb – az a)–c) pontokban nem érintett – eljárásokban hozott határozat esetén a fellebbezés illetéke 15 000 forint.
+d) hivatalból indult vagy folytatott vízgazdálkodási ügyben kötelezettséget megállapító egyéb – az a)–c) pontokban nem érintett – eljárásokban hozott határozat esetén a fellebbezés illetéke 15 000 forint.
 
 XIV. A felszámolói névjegyzékbe vétel illetéke
 
@@ -288,11 +288,11 @@ b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. p
 
 12. az építésügyi hatósági intézkedés kezdeményezése 15 000 forint,
 
-13. az 1–12. pont alá nem eső első fokú építésügyi hatósági eljárás 10 000 forint.
+13. az 1–12. pont alá nem eső építésügyi hatósági eljárás 10 000 forint.
 
 II.
 
-III. Az építésügyi vagy építésfelügyeleti hatósági eljárásban hozott döntés elleni fellebbezés illetéke 30 000 forint.
+III.
 
 IV. Illetékmentes és igazgatási szolgáltatási díjmentes
 
@@ -372,7 +372,7 @@ XXIII. A haditechnikai termékek gyártása és a haditechnikai szolgáltatások
 
 1. A haditechnikai termékek gyártása és a haditechnikai szolgáltatások nyújtása engedélyezésének kérelemre indult eljárási illetéke 25 000 forint.
 
-2. A fellebbezés illetéke az alapeljárás illetékének kétszerese.
+2.
 
 XXIV. A településrendezéssel kapcsolatos
 

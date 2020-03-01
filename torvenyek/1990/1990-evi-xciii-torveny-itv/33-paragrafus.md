@@ -82,7 +82,7 @@ d)
 
 34. a pénzügyi közvetítőrendszer felügyeletét ellátó szerv fogyasztóvédelmi eljárása;
 
-35. a fogyasztóvédelmi hatóság első fokú fogyasztóvédelmi eljárása;
+35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása;
 
 36. az európai területi társulásban történő részvétel jóváhagyására irányuló eljárás;
 
