@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-369-20-
 | 2017-01-01 | 2014-369-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2014-369-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-26 | 2014-369-20-22.9 | 132/2018. (VII. 23.) Korm. rendelet |
+| 2020-03-01 | 2014-369-20-22.10 | 360/2019. (XII. 30.) Korm. rendelet |
