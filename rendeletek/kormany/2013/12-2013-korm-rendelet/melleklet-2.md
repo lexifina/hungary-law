@@ -24,4 +24,4 @@
 
 2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^10]
 
-[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 37. § a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 69. §-a és 70. § c) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet a 361/2019. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
