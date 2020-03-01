@@ -2,23 +2,23 @@
 
 |  | A | B | C | D |
 
-| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság |
+| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Debreceni Nagyerdei Labdarúgó Stadion Projekt | Debrecen II. kerület 22334 és 22331 helyrajzi számú terület, illetve e területből telekalakítás folytán kialakított terület | Általános építésügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala |
+| 2. | Debreceni Nagyerdei Labdarúgó Stadion Projekt | Debrecen II. kerület 22334 és 22331 helyrajzi számú terület, illetve e területből telekalakítás folytán kialakított terület | Általános építésügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 3. | Környezetvédelmi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala |
+| 3. | Környezetvédelmi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 4. | Útügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala |
+| 4. | Útügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 5. | Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala |
+| 5. | Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 6. | Vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
 
 | 7. | Hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 8. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | illetékes járási hivatal |
+| 8. | Földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 9. | Talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala |
+| 9. | Talajvédelmi hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 10. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
