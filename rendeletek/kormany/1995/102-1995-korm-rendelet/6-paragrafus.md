@@ -14,7 +14,8 @@ c) ha a keresőképtelensége alatt más orvos is kezeli, erről a keresőképte
 
 a) a munkavállaló esetén a munkáltató,
 
-b) közfoglalkoztatott esetén a közfoglalkoztató, illetve az állami foglalkoztatási szerv
+b)[^16] közfoglalkoztatott esetén a közfoglalkoztató, illetve az állami foglalkoztatási szerv
 
 [^14]: A 6. § (2) bekezdésének a) pontja a 252/2003. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^15]: A 6. § (3) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 1. §-ával megállapított, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^15]: A 6. § (3) bekezdése a 171/2011. (VIII. 24.) Korm. rendelet 1. §-ával megállapított, záró szövegrésze a 30/2020. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^16]: [A 6. § (3) bekezdés b) pontjában a 360/2019. (XII. 30.) Korm. rendelet 6. § (4) bekezdés b) pontjával elrendelt módosítás, amely szerint a „járási hivatalnál” szövegrész helyébe a „kormányhivatalnál” szöveg lép, nem vezethető át.]

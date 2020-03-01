@@ -1,3 +1,3 @@
-## 4. §[^13] A baleseti táppénz folyósítás időtartamának egy éven túli meghosszabbítására javaslatot a fővárosi és megyei kormányhivatal orvosszakértői feladatkörében eljáró járási (fővárosi kerületi) hivatala tehet.
+## 4. §[^13] A baleseti táppénz folyósítás időtartamának egy éven túli meghosszabbítására javaslatot az orvosszakértői feladatkörében eljáró kormányhivatal tehet.
 
-[^13]: A 4. §-t újonnan a 70/2015. (III. 30.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 4. § a 360/2019. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
