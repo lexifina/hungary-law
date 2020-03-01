@@ -68,7 +68,7 @@ a) létesítési engedély,
 
 b) üzembe helyezési engedély,
 
-c) üzemeltetési engedély
+c) üzemeltetési engedély,
 
 d) tervezett üzemidőn túli üzemeltetéshez engedély,
 
@@ -80,7 +80,7 @@ g) nukleáris létesítmény biztonsági övezetének kijelölése, felülvizsg�
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -126,7 +126,7 @@ g) nukleáris létesítmény biztonsági övezetének kijelölése, felülvizsg�
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -150,7 +150,7 @@ nukleáris létesítmény átalakításának engedélyezése.
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -176,7 +176,7 @@ nukleáris létesítmény átalakításának engedélyezése.
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -312,7 +312,7 @@ A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményei
 
 a) építési (bontási) engedély,
 
-b) használatba-vételi engedély
+b) használatbavételi engedély
 
 |
 
@@ -340,7 +340,7 @@ telephely vizsgálati és értékelési engedély
 
 |
 
-fővárosi és megyei kormányhivatal ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala; több, ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal illetékességi területét érintő esetben az ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal
+ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal
 
 |
 
@@ -388,7 +388,7 @@ Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések j�
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -418,7 +418,7 @@ d) radioaktívhulladék- tároló biztonsági övezetének kijelölése, felülv
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -442,7 +442,7 @@ radioaktívhulladék-tároló létesítmény átalakításának engedélyezése
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -472,9 +472,9 @@ létesítmények építése során kitermelni tervezett ásványi nyersanyag men
 
 a) telephely kutatási keretprogram engedély,
 
-b) (fázisonkénti) telephelykutatási engedély
+b) (fázisonkénti) telephelykutatási engedély,
 
-c) telepítési engedély
+c) telepítési engedély,
 
 d) létesítési engedély,
 
@@ -538,9 +538,7 @@ A radioaktívhulladék-tároló
 
 létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és
 
-műszaki biztonsági követelményeknek való megfelelés vizsgálata.
-
-A radioaktívhulladék-tároló létesítmények átalakítása során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása.
+műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények átalakítása során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása.
 
 |
 
@@ -622,7 +620,7 @@ Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések j�
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -722,7 +720,7 @@ telepítési engedély
 
 |
 
-illetékes fővárosi és megyei kormányhivatal ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala; több, ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal illetékességi területét érintő esetben az ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal
+ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal
 
 |
 
@@ -746,7 +744,7 @@ lakossági dózismegszorítás jóváhagyása
 
 |
 
-Budapest Főváros Kormányhivatala
+Nemzeti Népegészségügyi Központ
 
 |
 
@@ -770,7 +768,7 @@ létesítményi Munkahelyi Sugárvédelmi Szabályzat jóváhagyása
 
 |
 
-Budapest Főváros Kormányhivatala
+Nemzeti Népegészségügyi Központ
 
 |
 
@@ -818,9 +816,7 @@ Radioaktívhulladék-tároló létesítmény esetében.
 
 A baleset-elhárítási intézkedések telephelyen kívüli végrehajthatóságának vizsgálata.
 
-A nukleárisbaleset-
-
-elhárítási intézkedési terv katasztrófavédelmi és polgári védelmi vizsgálata a következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében.
+A nukleárisbaleset- elhárítási intézkedési terv katasztrófavédelmi és polgári védelmi vizsgálata a következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében.
 
 |
 
@@ -850,9 +846,7 @@ Nukleáris üzemanyag szállítása esetében
 
 |
 
-A nukleárisbaleset-
-
-elhárítási intézkedési terv katasztrófavédelmi és polgári védelmi vizsgálata a veszélyhelyzet megelőzése, következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében.
+A nukleárisbaleset- elhárítási intézkedési terv katasztrófavédelmi és polgári védelmi vizsgálata a veszélyhelyzet megelőzése, következmények elhárítása vagy enyhítése, a hatékony beavatkozás személyi és tárgyi feltételeinek megléte, biztosítása tekintetében.
 
 |
 
@@ -876,9 +870,7 @@ Az atomenergia minden alkalmazója esetében.
 
 |
 
-Az éves effektívdózis-
-
-korlát meghaladásának sugár-egészségügyi követelményeknek való megfelelés vizsgálata.
+Az éves effektívdózis- korlát meghaladásának sugár-egészségügyi követelményeknek való megfelelés vizsgálata.
 
 |
 
@@ -886,7 +878,7 @@ korlát meghaladásának sugár-egészségügyi követelményeknek való megfele
 
 |
 
-Budapest Főváros Kormányhivatala
+Nemzeti Népegészségügyi Központ
 
 |
 
@@ -910,7 +902,7 @@ fogyasztási cikk előállításának, forgalomba hozatalának, felhasználásá
 
 |
 
-Budapest Főváros Kormányhivatala
+Nemzeti Népegészségügyi Központ
 
 |
 
@@ -934,7 +926,7 @@ radioaktívan szennyezett terület kezelésének, az életvitelszerű tartózkod
 
 |
 
-Budapest Főváros Kormányhivatala
+Nemzeti Népegészségügyi Központ
 
 |
 
@@ -1010,7 +1002,7 @@ radioaktív anyag alkalmazása, radioaktív sugárforrás izotóplaboratóriumon
 
 |
 
-Baranya Megyei Kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró Pécsi Járási Hivatala
+környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal
 
 |
 
@@ -1052,9 +1044,7 @@ Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhe
 
 |
 
-Az építmény élelmiszer előállítást (beleértve vendéglátás, közétkeztetés); élelmiszer-forgalmazást, illetve tárolást szolgáló részeinek élelmiszerlánc-
-
-biztonsági, illetve állategészségügyi megfelelőségének vizsgálata.
+Az építmény élelmiszer előállítást (beleértve vendéglátás, közétkeztetés); élelmiszer-forgalmazást, illetve tárolást szolgáló részeinek élelmiszerlánc- biztonsági, illetve állategészségügyi megfelelőségének vizsgálata.
 
 |
 
@@ -1064,7 +1054,7 @@ használatbavételi engedély
 
 |
 
-illetékes fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatala
+illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatala
 
 |
 
@@ -1106,7 +1096,7 @@ Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhe
 
 |
 
-A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen létesülő új épület, illetve a meg lévő épület terepszint alatti vagy terepszintet is érintő bővítés örökségvédelmi megfelelőségének vizsgálata.
+A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen létesülő új épület, illetve a meglévő épület terepszint alatti vagy terepszintet is érintő bővítés örökségvédelmi megfelelőségének vizsgálata.
 
 |
 
@@ -1116,7 +1106,7 @@ használatbavételi engedély
 
 |
 
-illetékes fővárosi és megyei kormányhivatal örökségvédelmi hatáskörében eljáró járási (fővárosi kerületi) hivatala
+az örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal
 
 |
 
@@ -1156,7 +1146,9 @@ bányafelügyeleti hatáskörében eljáró megyei kormányhivatal
 
 |
 
-Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek létesítésekor, zajra vagy rezgésre érzékeny építmények építése, elhelyezése, megszüntetése esetén a vasúti pálya vágányának tengelyétől számított 100 méteren belüli, egyéb nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges építmény, esetében 50 méteren belüli övezetben történő építési tevékenységnél.
+Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek létesítésekor, zajra vagy rezgésre érzékeny építmények építése, elhelyezése, megszüntetése esetén a vasúti pálya vágányának tengelyétől számított
+
+100 méteren belüli, egyéb nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges építmény esetében 50 méteren belüli övezetben történő építési tevékenységnél.
 
 |
 
@@ -1182,7 +1174,9 @@ közlekedésért felelős miniszter
 
 |
 
-Nukleáris létesítmény célját szolgáló legalább 100 darab személygépkocsi vagy legalább 10 darab tehergépkocsi vagy autóbusz befogadására alkalmas parkoló, továbbá buszpályaudvar építése esetén.
+Nukleáris létesítmény célját szolgáló legalább
+
+100 darab személygépkocsi vagy legalább 10 darab tehergépkocsi vagy autóbusz befogadására alkalmas parkoló, továbbá buszpályaudvar építése esetén.
 
 |
 
@@ -1194,4 +1188,30 @@ Közlekedésből származó terhelések hatásainak, valamint a forgalomtechnika
 
 |
 
-illetékes megyeszékhely szerinti járási hivatal
+fővárosi és megyei kormányhivatal
+
+|
+
+44.
+
+|
+
+7
+
+|
+
+Minden esetben
+
+|
+
+a vizek és víztartó képződmények radioaktív és hőszennyezés elleni
+
+védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata kérdésében
+
+|
+
+radioaktív anyag belvízi szállítása
+
+|
+
+BM Országos Katasztrófavédelmi Főigazgatóság
