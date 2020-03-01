@@ -1,6 +1,6 @@
 ## 20. A beruházási támogatás szabályai
 
-46. § (1)[^29] A beruházás finanszírozásához hitelintézettel megkötendő szerződésben előírt önerő pótlására, illetve amennyiben az ingatlan tulajdonosa hitelfelvétel nélkül, részben saját forrásai felhasználásával kívánja a beruházást lebonyolítani, a beruházás részfinanszírozására támogatás nyújtható.
+46. § (1)[^32] A beruházás finanszírozásához hitelintézettel megkötendő szerződésben előírt önerő pótlására, illetve amennyiben az ingatlan tulajdonosa hitelfelvétel nélkül, részben saját forrásai felhasználásával kívánja a beruházást lebonyolítani, a beruházás részfinanszírozására támogatás nyújtható.
 
 (2) Az önerőt pótló támogatás csak olyan hitelszerződéshez igényelhető, amely alapján kizárólag forint alapú kölcsön vehető igénybe, és a kamat, a költség, valamint a tőke törlesztése is csak forintban történhet.
 
@@ -10,4 +10,4 @@
 
 (5) A támogatási kérelem benyújtásához a hitelintézetnek az (1) bekezdés szerinti szerződés megkötésére szóló ajánlatát, vagy a saját finanszírozású rész rendelkezésre állásának igazolását mellékelni kell.
 
-[^29]: A 46. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^32]: A 46. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
