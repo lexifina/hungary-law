@@ -10,4 +10,4 @@ a) az a hatóság látja el, amelynek eljárása idegenhonos inváziós fajt ér
 
 b) az a) pont szerinti hatóság hiányában a természetvédelmi hatóság látja el.
 
-(5) Az idegenhonos inváziós fajokkal kapcsolatban hozott hatósági határozat ellen nincs helye fellebbezésnek.
+(5)

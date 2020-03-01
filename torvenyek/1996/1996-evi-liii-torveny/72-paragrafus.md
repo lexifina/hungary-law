@@ -14,6 +14,6 @@ d) a tulajdonos vagy a jogszerű használó (1), (3) és (4) bekezdésben meghat
 
 (4) Ha védett természeti területen kívül elrendelt természetvédelmi célú korlátozás, tilalom, egyéb hatósági kötelezés miatt a tulajdonos vagy – amennyiben a tulajdonos a terület használatát átengedi – a jogszerű használó jelentős mértékű termelésszerkezet változtatásra kényszerül, kártalanítására a (3) bekezdés első fordulatában meghatározottak az irányadóak.
 
-(5) A kártalanítási igény jogalapjáról és mértékéről a természetvédelmi hatóság dönt, amely ellen nincs helye fellebbezésnek.
+(5) A kártalanítási igény jogalapjáról és mértékéről a természetvédelmi hatóság dönt.
 
 (6) Az (1), (3) és (4) bekezdés szerinti kártalanítás részletes szabályait – a 72/A. §-ban meghatározott kivétellel – a Kormány határozza meg.
