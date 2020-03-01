@@ -1,17 +1,17 @@
-## A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal hatásköre[^73]
+## A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal hatásköre[^71]
 
-## 13. §[^74] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal
+## 13. §[^72] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal
 
-a)[^75] ellátja az illetékességi területéhez tartozó települési önkormányzat jegyzőjének és a gyámhivatalnak a szakmai irányítását, felügyeletét és ellenőrzését,
+a)[^73] ellátja az illetékességi területéhez tartozó települési önkormányzat jegyzőjének és a gyámhivatalnak a szakmai irányítását, felügyeletét és ellenőrzését,
 
-b)[^76] ellátja a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásával és ellenőrzésével kapcsolatos, jogszabályban meghatározott feladatokat,
+b)[^74] ellátja a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásával és ellenőrzésével kapcsolatos, jogszabályban meghatározott feladatokat,
 
-c)[^77] másodfokú hatósági jogkört gyakorol a települési önkormányzat jegyzőjének, a gyámhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben, valamint az ügyészség és a bíróság kivételével a Gyvt. 72. § (1) bekezdése szerinti beutaló szerv által elrendelt ideiglenes hatályú elhelyezés tekintetében, továbbá a gyermekvédelmi jelzőrendszer elégtelen működése esetén megteszi a Gyvt. 17. § (4) és (5) bekezdésében foglalt intézkedéseket,
+c)[^75] másodfokú hatósági jogkört gyakorol a települési önkormányzat jegyzőjének a gyermekvédelmi és gyámügyi hatósági ügyeiben, valamint a gyermekvédelmi jelzőrendszer elégtelen működése esetén megteszi a Gyvt. 17. § (4) és (5) bekezdésében foglalt intézkedéseket,
 
 d) ellátja a jogszabályokban hatáskörébe utalt egyéb feladatokat.
 
-[^73]: A 13. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
-[^74]: A 13. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontjával megállapított szöveg.
-[^75]: A 13. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^76]: A 13. § b) pontja a 369/2013. (X. 24.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.
-[^77]: A 13. § c) pontja a 237/2010. (IX. 13.) Korm. rendelet 18. §-ával megállapított, a 360/2010. (XII. 30.) Korm. rendelet 55. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^71]: A 13. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 89. § (3) bekezdésével megállapított szöveg.
+[^72]: A 13. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontjával megállapított szöveg.
+[^73]: A 13. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^74]: A 13. § b) pontja a 369/2013. (X. 24.) Korm. rendelet 55. § (2) bekezdésével megállapított szöveg.
+[^75]: A 13. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 44. § (8) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
