@@ -24,7 +24,7 @@ k) közigazgatási bírságot szab ki a 7/B. §-ban, a 8/D. § (7) és (8) bekez
 
 (2) A munkaügyi hatóság az (1) bekezdés d) pontja szerinti intézkedés helyett a külön jogszabályban meghatározott, munkaügyi bírságot helyettesítő figyelmeztetést alkalmaz, kivéve, ha a munkaügyi bírság kiszabása a 6/A. § (1) bekezdés b) pontjára tekintettel nem mellőzhető.
 
-(2a) A munkaügyi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+(2a)
 
 (3) Az Ákr. 84. § b) pontja alkalmazásának akkor van helye, ha a munkaügyi hatóság az (1) bekezdés a) pontja szerinti intézkedést a 3. § (1) bekezdés a) pontjának első és második fordulata, továbbá az e) vagy i) pontja szerinti jogsértés miatt hozta.
 
