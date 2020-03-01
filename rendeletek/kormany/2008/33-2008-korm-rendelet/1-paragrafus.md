@@ -4,9 +4,9 @@
 
 a)[^2] az egészségügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Állami Egészségügyi Ellátó Központot,
 
-b)[^3]
+b)[^3] a felnőttképzésért felelős miniszter, a kereskedelemért felelős miniszter vagy az iparügyekért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a felnőttképzési államigazgatási szervet,
 
-c)[^4] a kereskedelemért felelős miniszter és az iparügyekért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a felnőttképzési feladatkörében eljáró Pest Megyei Kormányhivatalt,
+c)[^4]
 
 d) a területfejlesztésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél – az e) pontban meghatározott kivétellel – első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
@@ -40,7 +40,17 @@ r)[^14]
 
 ## jelöli ki.
 
-(3)[^15]
+(3)[^15] A Kormány az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek képzési és kimeneti követelményeinek meghatározása során a Kormány adott ágazatért felelős tagjaként
+
+a) az egészségügyért felelős miniszter egyetértési joggal rendelkezik, az Állami Egészségügyi Ellátó Központot,
+
+b) a felnőttképzésért felelős miniszter, a kereskedelemért felelős miniszter vagy az iparügyekért felelős miniszter egyetértési joggal rendelkezik, a felnőttképzési államigazgatási szervet,
+
+c) a közlekedésért felelős miniszter egyetértési joggal rendelkezik, a közlekedésért felelős minisztert,
+
+d) a postaügyért felelős miniszter, az elektronikus hírközlésért felelős miniszter vagy az informatikáért felelős miniszter egyetértési joggal rendelkezik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság elnökét
+
+## jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
 
 (4) A Kormány az Etv. 60/A–60/C. §-a szerinti eljárásokban – az (5) bekezdésben foglalt kivételekkel – eljáró hatóságként első fokon az Oktatási Hivatalt, másodfokon az oktatásért felelős minisztert jelöli ki.
 
@@ -52,12 +62,12 @@ b) az Etv. 60/B. §-a szerinti eljárásokban okleveles építészmérnök és o
 
 c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti eljárásokban, ha az adott szabályozott szakma folytatása Magyarország területén engedélyköteles vagy a szolgáltatási tevékenység folytatásának és megkezdésének általános szabályairól szóló 2009. évi LXXVI. törvény szerinti bejelentési kötelezettség hatálya alá tartozik, az engedélyezésre, illetve a bejelentéssel kapcsolatos eljárásra hatáskörrel rendelkező illetékes hatóságot jelöli ki.
 
-(6) Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezetének hatálya alá tartozó döntéseiről a szakmai és vizsgakövetelmények meghatározásáért felelős minisztert.
+(6)[^17] Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezetének hatálya alá tartozó döntéseiről a Kormány adott ágazatért felelős tagját.
 
 [^1]: Az 1. § a 282/2011. (XII. 21.) Korm. rendelet – 324/2011. (XII. 28.) Korm. rendelet 35. § (2)–(3) bekezdése szerint módosított – 26. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés b) pontját a 13/2020. (II. 7.) Korm. rendelet 38. § 1. pontja hatályon kívül helyezte.
-[^4]: Az 1. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontját a 13/2020. (II. 7.) Korm. rendelet 38. § 1. pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (2) bekezdés c) pontját a 30/2020. (II. 29.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
 [^5]: Az 1. § (2) bekezdés f) pontja a 314/2012. (XI. 8.) Korm. rendelet 59. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § c) pontja, a 345/2015. (XI. 19.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
 [^6]: Az 1. § (2) bekezdés g) pontja a 395/2015. (XII. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés h) pontja a 345/2015. (XI. 19.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
@@ -68,5 +78,6 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^12]: Az 1. § (2) bekezdés p) pontja a 393/2017. (XII. 13.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^13]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (2) bekezdés r) pontját a 122/2015. (V. 26.) Korm. rendelet 37. §-a iktatta be, hatályon kívül helyezte a 458/2016. (XII. 23.) Korm. rendelet 13. §-a.
-[^15]: Az 1. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 38. § 2. pontja hatályon kívül helyezte.
+[^15]: Az 1. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 38. § 2. pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^16]: Az 1. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (8) bekezdésével megállapított szöveg.
+[^17]: Az 1. § (6) bekezdése a 30/2020. (II. 29.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
