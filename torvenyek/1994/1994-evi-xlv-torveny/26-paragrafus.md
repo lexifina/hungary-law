@@ -2,11 +2,11 @@
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyben elsőfokon hozott határozattal szemben – a Kormány által kijelölt hatósághoz – fellebbezésnek van helye.
+(2)
 
 (2a)
 
-(2b) Az elsőfokú hadigondozási hatóság határozatban dönt:
+(2b) A hadigondozási hatóság határozatban dönt:
 
 a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről,
 
@@ -16,7 +16,7 @@ c) kizárólag a hadirokkant és a hadiözvegy esetében a hadigondozotti igazol
 
 d) a pénzellátás szüneteltetéséről, – haláleset kivételével – a megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
-(3) Az elsőfokú hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:
+(3) A hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:
 
 a) a hadigondozott gondozási minősítését (hadirokkant, hadiözvegy, hadiárva, hadigyámolt, hadigondozott családtag);
 
