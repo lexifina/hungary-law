@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-2-20-22
 | 2017-09-06 | 2005-2-20-22.23 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2018-10-01 | 2005-2-20-22.24 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2020-01-01 | 2005-2-20-22.25 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-03-01 | 2005-2-20-22.26 | 360/2019. (XII. 30.) Korm. rendelet |
