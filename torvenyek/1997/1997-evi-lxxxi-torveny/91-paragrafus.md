@@ -14,6 +14,6 @@ vagy más módon az ellenőrzést akadályozzák.
 
 (3) A mulasztási bírság kiszabásánál a nyugdíjbiztosítási igazgatási szervnek mérlegelnie kell a mulasztás körülményeit, így különösen a mulasztás súlyát, gyakoriságát, továbbá azt, hogy a mulasztó – a magánszemély, illetve a foglalkoztató, egyéb szerv esetén annak intézkedésre jogosult képviselője, alkalmazottja, tagja vagy megbízottja – az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
-(4) A mulasztási bírságot az elsőfokú nyugdíjbiztosítási igazgatási szervhez kell befizetni.
+(4) A mulasztási bírságot az ügyben eljárt nyugdíjbiztosítási igazgatási szervhez kell befizetni.
 
 (5) Aki a mulasztási bírságot a határozatban megállapított határidőn belül nem fizeti meg, – késedelmi pótlék helyett – a kiszabott mulasztási bírság kétszeresét köteles megfizetni.
