@@ -1,4 +1,4 @@
-## 4/B. [^12] A gépekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/B. [^14] A gépekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/E. § (1) Ha a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet (a továbbiakban: R1.) hatálya alá tartozó CE megfelelőségi jelöléssel, gyártói megfelelőségi nyilatkozattal ellátott gép a rendeltetésszerű használat során, az ésszerűen előre látható feltételek mellett veszélyeztetheti emberek és állatok életét, egészségét vagy anyagi javak biztonságát, a piacfelügyeleti hatóság elrendeli a már forgalomba hozott gép forgalomból való kivonását, megtiltja annak forgalomba hozatalát vagy üzembe helyezését, használatát, jogosult elrendelni a termék visszahívását és megtett intézkedéseiről haladéktalanul tájékoztatja az Európai Bizottságot, megjelölve az intézkedés alapjául szolgáló következő okok valamelyikét:
 
@@ -20,4 +20,4 @@ c) a gépen a megfelelőségi jelöléssel összetéveszthető, vagy annak láth
 
 (4) Ha a piacfelügyeleti hatóság megállapítja, hogy a honosított harmonizált szabványokban foglaltak nem felelnek meg teljes mértékben az R1. mellékletében foglalt, a gépek tervezésére és gyártására vonatkozó alapvető biztonsági és egészségvédelmi követelményeknek, köteles az ügyet haladéktalanul, indokolással ellátva az európai szabványosításról szóló, 2012. október 25-i 1025/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1025/2012/EU európai parlamenti és tanácsi rendelet) 22. cikke szerint létrehozott bizottság elé terjeszteni.
 
-[^12]: A 4/B. alcímet (6/E. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^14]: A 4/B. alcímet (6/E. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.

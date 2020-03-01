@@ -1,4 +1,4 @@
-## 4/D. [^14] A gyermekjátékokkal kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/D. [^16] A gyermekjátékokkal kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/G. § (1) A piacfelügyeleti hatóság ellenőrzi a gyermekjátékok biztonságáról szóló miniszteri rendeletben (a továbbiakban: R3.) meghatározott követelmények betartását.
 
@@ -48,4 +48,4 @@ b) a honosított harmonizált szabvány hiányossága.
 
 (17) Ha a gyártó nem tartja be az R3.-ban meghatározott kötelezettségeket, és az veszélyeztetheti a felhasználók egészségét, a piacfelügyeleti hatóság kötelezi arra, hogy meghatározott időn belül a honosított harmonizált szabványok és az alapvető biztonsági követelmények betartásának ellenőrzése érdekében saját költségen vizsgálatot végeztessen a bejelentett szervezettel.
 
-[^14]: A 4/D. alcímet (6/G. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^16]: A 4/D. alcímet (6/G. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.

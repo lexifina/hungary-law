@@ -1,4 +1,4 @@
-## 4/F. [^16] A meghatározott feszültséghatáron belüli használatra tervezett villamossági termékekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/F. [^18] A meghatározott feszültséghatáron belüli használatra tervezett villamossági termékekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/J. § (1) Ha a piacfelügyeleti hatóságnak olyan adat jut tudomására, amelynek alapján feltételezi, hogy a villamossági termék veszélyeztetheti az emberek és állatok életét, egészségét vagy anyagi javak biztonságát, valamint a villamossági termék használata kárt okozhat, akkor a terméken elvégzi az értékelést a meghatározott feszültséghatáron belüli használatra tervezett villamossági termékek forgalmazásáról, biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről szóló miniszteri rendeletben (a továbbiakban: R5.) megállapított valamennyi vonatkozó követelmény tekintetében. Az érintett gazdasági szereplők kötelesek e célból együttműködni a piacfelügyeleti hatósággal.
 
@@ -24,4 +24,4 @@ b) a megfelelőség vélelmezését megalapozó, az R5. szerinti harmonizált sz
 
 (10) A végleges intézkedés elrendelése esetén az érintett termékkel kapcsolatban a piacfelügyeleti hatóság gondoskodik a megfelelő korlátozó intézkedések haladéktalan meghozataláról, különösen a termék visszavonásáról.
 
-[^16]: A 4/F. alcímet (6/J–6/K. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^18]: A 4/F. alcímet (6/J–6/K. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
