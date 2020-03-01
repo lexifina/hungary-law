@@ -2,7 +2,7 @@
 
 14. § (1) A családi otthonteremtési kedvezmény igénybevételének feltétele, hogy
 
-a)[^36] az igénylő büntetőjogi felelősségét az 1. melléklet szerinti bűncselekmény elkövetése miatt bíróság nem állapította meg, vagy büntetőjogi felelősségét a bíróság az 1. melléklet szerinti bűncselekmény elkövetése miatt megállapította, de a családi otthonteremtési kedvezmény igénylésének időpontjában az igénylő e bűncselekmények vonatkozásában a büntetett előélethez fűződő hátrányos jogkövetkezmények alól már mentesült; és a büntetlen előéletről az igénylő a kérelem benyújtásakor büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkozik, amely nyilatkozathoz csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adatokat a hitelintézet és a járási hivatal a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje;
+a)[^36] az igénylő büntetőjogi felelősségét az 1. melléklet szerinti bűncselekmény elkövetése miatt bíróság nem állapította meg, vagy büntetőjogi felelősségét a bíróság az 1. melléklet szerinti bűncselekmény elkövetése miatt megállapította, de a családi otthonteremtési kedvezmény igénylésének időpontjában az igénylő e bűncselekmények vonatkozásában a büntetett előélethez fűződő hátrányos jogkövetkezmények alól már mentesült; és a büntetlen előéletről az igénylő a kérelem benyújtásakor büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkozik, amely nyilatkozathoz csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adatokat a hitelintézet és a kormányhivatal a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje;
 
 b)[^37] az igénylőnek nincs az állami adóhatóságnál nyilvántartott köztartozása, és a köztartozás-mentességről – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adatbázisban – az igénylő büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkozik;
 
@@ -24,7 +24,7 @@ g)[^43] lakás vásárlása esetén – a h) pontban foglaltak kivételével –
 
 h)[^44] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény alapján történő lakásvásárlás esetén az igénylő benyújtsa az ingatlan egy összegben történő megvásárlásáról szóló adásvételi szerződést, valamint a Nemzeti Eszközkezelő Zártkörűen működő Részvénytársaság által kiállított, az adásvételi szerződés ingatlan-nyilvántartási hatóság részére történő megküldéséről szóló nyilatkozatot.
 
-(2)[^45] Az (1) bekezdés c) pontjában foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül.
+(2)[^45] Az (1) bekezdés c) pontjában foglaltakat nem kell figyelembe venni, ha az igénylő végleges határozat alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül.
 
 (2a)[^46] Ha az igénylő a (9a) bekezdés alapján olyan tartalmú nyilatkozatot tett, hogy a legalább többségi tulajdonában álló gazdasági társaság – ide nem értve a részvénytársaságot –, illetve az általa folytatott egyéni vállalkozói tevékenység székhelyeként – az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt – a családi otthonteremtési kedvezményből vásárolt vagy bővített használt lakásba kerül bejelentésre a cégnyilvántartásba, illetve az egyéni vállalkozók nyilvántartásába, a családi otthonteremtési kedvezmény igénybevételének feltétele, hogy az igénylő megfeleljen az 1407/2013/EU bizottsági rendeletben foglalt, a csekély összegű (de minimis) támogatásokra vonatkozó feltételeknek.
 
@@ -58,7 +58,7 @@ ah) személyi azonosító és
 
 ai) adóazonosító jel
 
-## a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet kezelje és továbbítsa a járási hivatal, valamint Budapest Főváros Kormányhivatala, a Kincstár, valamint az állami adóhatóság részére;
+## a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellenőrzése céljából a hitelintézet kezelje és továbbítsa a kormányhivatal, a Kincstár, valamint az állami adóhatóság részére;
 
 b)[^49] – és azt megelőzően a kérelemben is – büntetőjogi felelőssége tudatában nyilatkozik arról, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtását megelőző 5 éven belül az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett, vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön visszafizetésre véglegesen nem kötelezték;
 
@@ -74,7 +74,7 @@ g)[^52] tudomásul veszi, hogy a hitelintézet kizárólag olyan számlát fogad
 
 h)[^53] vállalja, hogy lakás építésiengedély-köteles vagy egyszerű bejelentéshez kötött bővítése esetén legkésőbb a családi otthonteremtési kedvezmény utolsó részfolyósításáig a használatbavételi engedélyt, a használatbavétel tudomásulvételét igazoló vagy egyszerű bejelentés esetén a felépítés megtörténtét tanúsító hatósági bizonyítványt bemutatja;
 
-i)[^54] hozzájárul ahhoz, hogy az állami adóhatóság, a járási hivatal és a hitelintézet a dokumentumok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a családi otthonteremtési kedvezmény igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a járási hivatal hatáskörébe tartozik, a járási hivatalt hivatalból értesítse;
+i)[^54] hozzájárul ahhoz, hogy az állami adóhatóság, a kormányhivatal és a hitelintézet a dokumentumok valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben a családi otthonteremtési kedvezmény igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen ellenőrizze, és annak eredményéről a hitelintézetet tájékoztassa, illetve, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a kormányhivatal hatáskörébe tartozik, a kormányhivatalt hivatalból értesítse;
 
 j) vállalja, hogy az igénylő és azon gyermek, akire tekintettel a családi otthonteremtési kedvezmény folyósításra került, a családi otthonteremtési kedvezmény folyósításától, bővítés esetén az utolsó részfolyósítástól számított 10 évig – a meglévő gyermek legalább nagykorúvá válásáig – a lakásban életvitelszerűen lakik;
 
@@ -94,7 +94,7 @@ o) az igénylő a 12. § (2) bekezdése szerinti esetben vállalja, hogy tartóz
 
 (4) A (3) bekezdés a) és k) pontja szerinti nyilatkozatot azon nagykorú, közös háztartásban élő gyermeknek is meg kell tennie, akire tekintettel a családi otthonteremtési kedvezményt igénybe veszik.
 
-(5)[^57] Ha a támogatási szerződésben foglalt bármely feltétel nem teljesül, erről a hitelintézet tudomásszerzését követően haladéktalanul tájékoztatja a járási hivatalt.
+(5)[^57] Ha a támogatási szerződésben foglalt bármely feltétel nem teljesül, erről a hitelintézet tudomásszerzését követően haladéktalanul tájékoztatja a kormányhivatalt.
 
 (6)[^58] Az igénylő a családi otthonteremtési kedvezmény igénylésekor a fennálló házasságról büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokirattal nyilatkozik. A nyilatkozat tartalmazza a házastársak nevét, személyi azonosítóját, születési adatait, a házasságkötés helyét és idejét.
 
@@ -116,7 +116,7 @@ székhelyeként a cégnyilvántartásba, illetve az egyéni vállalkozók nyilv�
 
 (10)[^64] Az (1) bekezdés c) pont ca) alpontjában foglaltakat nem kell alkalmazni, ha a 12. § (1) bekezdés a) pontja szerinti igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a kérelem benyújtásának időpontjában kereső tevékenysége alapján valamely másik állam társadalombiztosítási rendszerének hatálya alatt áll és ezt az illetékes külföldi hatóság által kiállított igazolással igazolja, valamint teljes bizonyító erejű magánokiratba foglaltan vállalja, hogy a támogatási szerződés megkötését követő 180 napon belül a Tbj. 5. §-a szerinti biztosítottá válik.
 
-[^36]: A 14. § (1) bekezdés a) pontja a 26/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^36]: A 14. § (1) bekezdés a) pontja a 26/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^37]: A 14. § (1) bekezdés b) pontja a 26/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
 [^38]: A 14. § (1) bekezdés c) pont nyitó szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^39]: A 14. § (1) bekezdés c) pont cb) alpontja a 26/2018. (II. 28.) Korm. rendelet 37. § 6. pontja szerint módosított szöveg.
@@ -125,19 +125,19 @@ székhelyeként a cégnyilvántartásba, illetve az egyéni vállalkozók nyilv�
 [^42]: A 14. § (1) bekezdés f) pontját a 46/2019. (III. 12.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
 [^43]: A 14. § (1) bekezdés g) pontja a 210/2019. (VIII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^44]: A 14. § (1) bekezdés h) pontját a 210/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^45]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 570. § a) pontja, a 26/2018. (II. 28.) Korm. rendelet 37. § 8. pontja, a 46/2019. (III. 12.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^45]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 570. § a) pontja, a 26/2018. (II. 28.) Korm. rendelet 37. § 8. pontja, a 46/2019. (III. 12.) Korm. rendelet 11. § e) pontja, a 30/2020. (II. 29.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^46]: A 14. § (2a) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (1) bekezdése iktatta be.
 [^47]: A 14. § (2b) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^48]: A 14. § (3) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 1. pontja, a 152/2019. (VI. 26.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^48]: A 14. § (3) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 1. pontja, a 152/2019. (VI. 26.) Korm. rendelet 18. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^49]: A 14. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 570. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^50]: A 14. § (3) bekezdés c) pontja a 273/2016. (IX. 15.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 26/2018. (II. 28.) Korm. rendelet 37. § 9. pontja szerint módosított szöveg.
 [^51]: A 14. § (3) bekezdés f) pontját a 46/2019. (III. 12.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
 [^52]: A 14. § (3) bekezdés g) pontja a 46/2019. (III. 12.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
 [^53]: A 14. § (3) bekezdés h) pontja a 482/2016. (XII. 28.) Korm. rendelet 48. §-ával megállapított szöveg.
-[^54]: A 14. § (3) bekezdés i) pontja a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 2. és 3. pontja szerint módosított szöveg.
+[^54]: A 14. § (3) bekezdés i) pontja a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 2. és 3. pontja, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) és d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^55]: A 14. § (3) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
 [^56]: A 14. § (3) bekezdés m) pont mb) alpontja a 26/2018. (II. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^57]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^57]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^58]: A 14. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
 [^59]: A 14. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
 [^60]: A 14. § (8) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 ## 9. A családi otthonteremtési kedvezmény során figyelembe nem vett, utóbb született gyermek esetén alkalmazandó szabályok
 
-23. § (1)[^82] Lakáscélú hitelintézeti kölcsönszerződéssel rendelkező támogatott személy esetén a családi otthonteremtési kedvezmény azon utóbb született gyermek után is igényelhető, akire tekintettel a támogatott személy nem részesült a családi otthonteremtési kedvezményben. Az utóbb született gyermek után igényelhető családi otthonteremtési kedvezmény gyermekenként 400 000 forint.
+23. § (1)[^88] Lakáscélú hitelintézeti kölcsönszerződéssel rendelkező támogatott személy esetén a családi otthonteremtési kedvezmény azon utóbb született gyermek után is igényelhető, akire tekintettel a támogatott személy nem részesült a családi otthonteremtési kedvezményben. Az utóbb született gyermek után igényelhető családi otthonteremtési kedvezmény gyermekenként 400 000 forint.
 
 (2) Az (1) bekezdés szerinti családi otthonteremtési kedvezmény lakáscélú hitelintézeti kölcsönszerződésből eredő tartozás törlesztésére vehető igénybe az utóbb született gyermek után, – a születés időpontjában, örökbefogadásnál az örökbefogadás időpontjában már meglévő gyermekek számától és a lakás hasznos alapterületétől eltekintve – a lakáscélú hitelintézeti kölcsönszerződés megkötésének időpontjában hatályos jogszabályi feltételek mellett.
 
@@ -10,4 +10,4 @@
 
 (4) Az (1) bekezdés szerinti családi otthonteremtési kedvezmény kizárólag a vételár megfizetéséhez, bővítés esetén a bekerülési költségek fedezetére a hitelintézet által az adásvételt vagy a használatbavételt megelőzően nyújtott és folyósított, a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában fennálló kölcsönszerződésből a családi otthonteremtési kedvezmény iránti (1) bekezdés szerinti kérelem benyújtásának időpontjában még fennálló tartozás csökkentésére használható fel.
 
-[^82]: A 23. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^88]: A 23. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.

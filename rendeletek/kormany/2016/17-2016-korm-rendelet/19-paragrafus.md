@@ -24,13 +24,14 @@ d) a bővítés megépítése érdekében felmerült építménybontási költs�
 
 (6)[^74] Ha az (5) bekezdés szerinti esetben a támogatott személy hitelintézetnél a bővítendő lakással összefüggésben felmerülő lakáscélú kölcsönszerződéssel rendelkezik, a különbözet a kölcsöntartozás csökkentésére használható fel.
 
-(7) Ha a lakás bővítése során bontott anyagok is felhasználásra kerülnek, úgy ezeknek az építőipari kivitelezési tevékenység felelős műszaki vezetője által írásban igazolt értékéig a számlabenyújtási kötelezettség legfeljebb a 14. § (3) bekezdés e) pontja szerinti összeg 20 százalékával csökkenthető.
+(7)[^75] Ha a lakás bővítése során bontott anyagok is felhasználásra kerülnek, úgy ezeknek az építőipari kivitelezési tevékenység felelős műszaki vezetője által írásban igazolt értékéig a számlabenyújtási kötelezettség legfeljebb a 14. § (3) bekezdés e) pontja szerinti összeg 20 százalékával csökkenthető.
 
-(8)[^75] Ha a támogatott személy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti közhasznú jogállású szervezet vagy települési önkormányzat által kiírt nyilvános pályázat útján az építkezéshez szükséges természetbeni juttatásban részesül, a természetbeni juttatás támogatást nyújtó által igazolt értékéig a 14. § (3) bekezdés e) pontja szerinti számlabenyújtási kötelezettség csökkenthető.
+(8)[^76] Ha a támogatott személy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti közhasznú jogállású szervezet vagy települési önkormányzat által kiírt nyilvános pályázat útján az építkezéshez szükséges természetbeni juttatásban részesül, a természetbeni juttatás támogatást nyújtó által igazolt értékéig a 14. § (3) bekezdés e) pontja szerinti számlabenyújtási kötelezettség csökkenthető.
 
 [^70]: A 18. §-t a 46/2019. (III. 12.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
 [^71]: A 19. § (1a) bekezdését a 46/2019. (III. 12.) Korm. rendelet 9. §-a iktatta be.
 [^72]: A 19. § (3) bekezdését a 26/2018. (II. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte.
 [^73]: A 19. § (5) bekezdése a 46/2019. (III. 12.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
 [^74]: A 19. § (6) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^75]: A 19. § (8) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^75]: [A 19. § (7) bekezdésében a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés e) pontjával elrendelt módosítás, amely szerint a „járási hivatal, Budapest Főváros Kormányhivatala” szövegrész helyébe a „kormányhivatal” szöveg lép, nem vezethető át.]
+[^76]: A 19. § (8) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 23. § (2) bekezdése iktatta be. [A 19. § (8) bekezdésében a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontjával elrendelt módosítás, amely szerint a „járási hivatal” szövegrész helyébe a „kormányhivatal” szöveg lép, továbbá az f) pontjával elrendelt módosítás, amely szerint a „járási hivatalhoz” szövegrész helyébe a „kormányhivatalhoz” szöveg lép, nem vezethető át.]

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-17-20-2
 | 2019-10-01 | 2016-17-20-22.9 | 101/2019. (V. 2.) Korm. rendelet |
 | 2019-10-24 | 2016-17-20-22.10 | 482/2016. (XII. 28.) Korm. rendelet |
 | 2020-01-01 | 2016-17-20-22.11 | 276/2019. (XI. 21.) Korm. rendelet |
+| 2020-03-01 | 2016-17-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |

@@ -1,11 +1,14 @@
 ## 32. § A nem magyar állampolgár támogatott személy a tartózkodási jogosultsága fennállását évente, legkésőbb január 31-ig igazolja a hitelintézet részére. A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.
 
-33. §[^112] (1) Az állami adóhatóság a családi otthonteremtési kedvezmény igénylésekor tett nyilatkozatok valóságtartalmát, valamint a 14. § (10) bekezdése szerinti nyilatkozatban vállalt kötelezettség teljesülését valamennyi támogatott személynél a támogatási szerződés megkötésétől a 14. § (3) bekezdés j) pontjában meghatározott időszak végéig hatósági ellenőrzés keretében vizsgálja.
+33. §[^118] (1) Az állami adóhatóság a családi otthonteremtési kedvezmény igénylésekor tett nyilatkozatok valóságtartalmát, valamint a 14. § (10) bekezdése szerinti nyilatkozatban vállalt kötelezettség teljesülését valamennyi támogatott személynél a támogatási szerződés megkötésétől a 14. § (3) bekezdés j) pontjában meghatározott időszak végéig hatósági ellenőrzés keretében vizsgálja.
 
-(2) A járási hivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
+(2)[^119] A kormányhivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
 
-(3) Ha az állami adóhatóság az (1) bekezdés szerinti, vagy a járási hivatal a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, határozatban intézkedik a támogatás – az e rendeletben meghatározott esetekben késedelmi kamattal növelt összegének – visszatérítése iránt.
+(3)[^120] Ha az állami adóhatóság az (1) bekezdés szerinti, vagy a kormányhivatal a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, határozatban intézkedik a támogatás – az e rendeletben meghatározott esetekben késedelmi kamattal növelt összegének – visszatérítése iránt.
 
-(4) Az állami adóhatóság az (1) bekezdésben foglalt, a járási hivatal a (2) bekezdésben foglalt ellenőrzést követő eljárás eredményéről a folyósító hitelintézetet írásban tájékoztatja.
+(4)[^121] Az állami adóhatóság az (1) bekezdésben foglalt, a kormányhivatal a (2) bekezdésben foglalt ellenőrzést követő eljárás eredményéről a folyósító hitelintézetet írásban tájékoztatja.
 
-[^112]: A 33. § a 26/2018. (II. 28.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^118]: A 33. § a 26/2018. (II. 28.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^119]: A 33. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^120]: A 33. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^121]: A 33. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
