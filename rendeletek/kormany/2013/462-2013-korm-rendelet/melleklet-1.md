@@ -4,4 +4,4 @@
 
 [^7]: A 6. §-t a 133/2015. (V. 27.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A hatálybalépés időpontja 2015. május 28.
-[^9]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 57. § (1) bekezdés a) pontjával megállapított, a 458/2017. (XII. 28.) Korm. rendelet 107. §-a és 108. § c) és d) pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 46. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
