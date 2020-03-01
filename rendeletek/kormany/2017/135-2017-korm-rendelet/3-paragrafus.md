@@ -1,4 +1,4 @@
-3. § (1) Fás szárú ültetvény telepítését – a tervezett telepítés megkezdését megelőzően – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján közzétett formanyomtatványon az erdészeti hatósági hatáskörrel rendelkező járási hivatalnak (a továbbiakban: erdészeti hatóság) kell bejelenteni. A bejelentés akkor jogosít a telepítési tevékenység elvégzésére, ha az tartalmazza a (2) bekezdés szerinti adatokat és az erdészeti hatóság a telepítést nem tiltotta meg.
+3. § (1)[^1] Fás szárú ültetvény telepítését – a tervezett telepítés megkezdését megelőzően – a Nemzeti Földügyi Központ (a továbbiakban: NFK) honlapján közzétett formanyomtatványon az erdészeti hatósági hatáskörrel rendelkező megyei kormányhivatalnak (a továbbiakban: erdészeti hatóság) kell bejelenteni. A bejelentés akkor jogosít a telepítési tevékenység elvégzésére, ha az tartalmazza a (2) bekezdés szerinti adatokat és az erdészeti hatóság a telepítést nem tiltotta meg.
 
 (2) Az (1) bekezdés szerinti bejelentésnek (a továbbiakban: telepítési bejelentés) a következő adatokat kell tartalmaznia:
 
@@ -19,3 +19,5 @@ c) a telepíteni tervezett fafajok, illetve fajták,
 d) az ültetési hálózat, a felhasználni kívánt szaporítóanyag minősége és mennyisége, a talaj-előkészítés módja,
 
 e) a telepítéssel érintett ingatlan tulajdonosának, valamint az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, illetve használati jog jogosultjának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt, a telepítéséhez való hozzájáruló nyilatkozata, azzal, hogy tulajdonosi hozzájárulásnak minősül – külön nyilatkozat megtétele nélkül – a telepítéssel érintett ingatlan használati jogosultságának átengedésére vonatkozó írásbeli megállapodás, ha abban rögzítésre került a fás szárú ültetvény telepítésére vonatkozó megengedő feltétel.
+
+[^1]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 168. §-a, a 29/2020. (II. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

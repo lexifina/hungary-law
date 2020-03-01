@@ -1,6 +1,6 @@
 ## 4. A fás szárú ültetvény kitermelése, megszüntetése
 
-7. § (1) A fás szárú ültetvény faállomány teljes vagy részleges kitermelésének tényét előzetesen be kell jelenteni az erdészeti hatóság részére, a NÉBIH honlapján közzétett formanyomtatványon.
+7. § (1)[^3] A fás szárú ültetvény faállomány teljes vagy részleges kitermelésének tényét előzetesen be kell jelenteni az erdészeti hatóság részére, az NFK honlapján közzétett formanyomtatványon.
 
 (2) Az (1) bekezdés szerinti bejelentésnek (a továbbiakban: kitermelési bejelentés) a következő adatokat kell tartalmaznia:
 
@@ -25,3 +25,5 @@ b) hiányosan benyújtott kitermelési bejelentés esetén a bejelentőt a bejel
 (5) A kitermelési bejelentés szerinti fakitermelés a benyújtás évét követő év végéig hajtható végre.
 
 (6) Ha a fás szárú ültetvény részterülete kerül kitermelésre, akkor az (1) bekezdésben foglalt bejelentéshez mellékelni kell a tervezett tevékenységi terület töréspontjainak EOV szerinti koordinátáit 2 méteres pontossággal.
+
+[^3]: A 7. § (1) bekezdése a 29/2020. (II. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

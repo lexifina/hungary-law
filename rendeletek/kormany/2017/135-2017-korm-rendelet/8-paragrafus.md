@@ -1,4 +1,4 @@
-8. § (1) Fás szárú ültetvény teljes vagy részleges kitermelésének végrehajtását a NÉBIH honlapján közzétett formanyomtatványon 15 napon belül be kell jelenteni az erdészeti hatóság részére.
+8. § (1)[^4] Fás szárú ültetvény teljes vagy részleges kitermelésének végrehajtását az NFK honlapján közzétett formanyomtatványon 15 napon belül be kell jelenteni az erdészeti hatóság részére.
 
 (2) A kitermelési végrehajtási bejelentésnek a következő adatokat kell tartalmaznia:
 
@@ -13,3 +13,5 @@ d) amennyiben a kitermelési bejelentéstől eltér, a elvégzett tevékenységg
 e) a kitermelt faanyag nettó fatérfogata fafajonkénti bontásban.
 
 (3) Ha a tevékenységgel érintett terület eltér az előzetesen bejelentett területtől, akkor az (1) bekezdésben foglalt bejelentéshez mellékelni kell a tevékenységgel érintett terület töréspontjainak EOV szerinti koordinátáit 2 méteres pontossággal.
+
+[^4]: A 8. § (1) bekezdése a 29/2020. (II. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
