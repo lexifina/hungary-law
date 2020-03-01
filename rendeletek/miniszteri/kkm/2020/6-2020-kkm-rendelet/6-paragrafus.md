@@ -1,21 +1,29 @@
-## lép.
+## 6. §
 
-## 6. § Hatályát veszti a Rendelet
+a)[^11]
 
-a) 2. § (2) bekezdés b) és e) pontja,
+b)[^12]
 
-b) 3. § (1) bekezdésében a „ , valamint a jelölt 2. mellékletben megjelölt személyes adatait és a 2. melléklet szerinti hozzájárulást” szövegrész,
+c)[^13]
 
-c) 3. § (3) bekezdése,
+d)[^14]
 
-d) 4. § (3) bekezdése,
+e)[^15]
 
-e) 9. § (2) és (3) bekezdése,
+f)[^16]
 
-f) 11. §-a,
+g)[^17]
 
-g) 12/A. §-a,
+h)[^18]
 
-h) 13. § (2) és (3) bekezdése,
+i)[^19]
 
-i) 1. és 2. melléklete.
+[^11]: A 6. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 6. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 6. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 6. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 6. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 6. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 6. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

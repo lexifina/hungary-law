@@ -1,29 +1,20 @@
-## 4. § A Rendelet 2. alcíme a következő 12/F. és 12/G. §-sal egészül ki:
+## 4. §[^5]
 
-## „12/F. § (1) Bay Zoltán-díj az űrkutatás érdekében végzett kimagasló tevékenység, továbbá életmű elismerésére adományozható.
+## 5. §
 
-## (2) A díj évente legfeljebb két fő részére adományozható.
+a)[^6]
 
-## (3) A díj díszdobozban elhelyezett, „proof” kivitelű ezüstérem, átmérője 42,5 mm, vastagsága 3 mm. Előlapján a névadó mellképe, mellette két oldalon tölgy- és babérág látható, amelyben a díj elnevezése szerepel. Hátoldalán a „KÜLGAZDASÁGI ÉS KÜLÜGYMINISZTERTŐL” felirat helyezkedik el, alatta Magyarország egymást keresztező tölgy- és babérággal övezett címere látható.
+b)[^7]
 
-## (4) A díj átadására minden év április 12-én az Űrhajózás Világnapján és az október 23-i nemzeti ünnep alkalmából kerül sor.
+c)[^8]
 
-## 12/G. § (1) A Magyar Űrkutatásért Érdemérem az űrkutatás területén kimagaslóan eredményes szakmai munka elismerésére adományozható.
+d)[^9]
 
-## (2) Az érdemérem évente legfeljebb három fő részére adományozható.
+e)[^10]
 
-## (3) Az érem díszdobozban elhelyezett, ezüstből készült, „proof” kivitelű, átmérője 42,5 mm, vastagsága 3 mm. Előlapján az űrkutatást szimbolizáló ábra és „A Magyar Űrkutatásért” felirat látható. Hátoldalán Magyarország címere helyezkedik el, amelyet a „KÜLGAZDASÁGI ÉS KÜLÜGYMINISZTERTŐL” felirat övez.
-
-## (4) Az érem átadására minden év április 12-én, az Űrhajózás Világnapja alkalmából kerül sor.”
-
-## 5. § A Rendelet
-
-a) 3/A. § b) pontjában a „15.” szövegrész helyébe az „1.” szöveg,
-
-b) 10. § (2) bekezdésében a „3” szövegrész helyébe a „három” szöveg,
-
-c) 12. § (1) bekezdésében a „személynek” szövegrész helyébe a „– minisztérium állományába nem tartozó – személynek” szöveg,
-
-d) 12/C. § (4) bekezdésében az „579 750” szövegrész helyébe az „1 000 000” szöveg,
-
-e) 12/E. § (4) bekezdésében a „463 800” szövegrész helyébe a „600 000” szöveg
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 3. § A Rendelet 12/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(1) Miniszteri Dicséretben a minisztérium állományába tartozó, legalább kétéves politikai szolgálati jogviszonnyal, kormányzati szolgálati jogviszonnyal, biztosi jogviszonnyal rendelkező, kiemelkedő munkát végző személy részesíthető.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
