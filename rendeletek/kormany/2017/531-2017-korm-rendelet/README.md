@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2020-02-01 | 2017-531-20-22.18 | 103/2018. (VI. 11.) Korm. rendelet |
 | 2020-02-20 | 2017-531-20-22.19 | 22/2020. (II. 19.) Korm. rendelet |
 | 2020-03-01 | 2017-531-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-03-02 | 2017-531-20-22.21 | 360/2019. (XII. 30.) Korm. rendelet |
