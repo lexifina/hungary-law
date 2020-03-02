@@ -8,6 +8,6 @@
 
 (5) A fizető fél fizetési számláját vezető pénzforgalmi szolgáltató a hatósági átutalási megbízásról és az átutalási végzésről annak teljesítése, részteljesítése vagy törvényben meghatározottak szerinti sorba állítása előtt nem értesítheti a fizető fél számlatulajdonost.
 
-(6)[^21] A fizető felet a pénzforgalmi szolgáltatója a hatósági átutalási megbízás és az átutalási végzés teljesítéséről, részteljesítéséről, valamint sorba állításáról a teljesítéssel vagy a sorba állítással egyidejűleg az eredeti fizetési megbízás adattartalmának közlésével írásban értesíti. Ha a hatósági átutalás és az átutalási végzés sorba állításának kezdete nem munkanapra esik, a pénzforgalmi szolgáltató az értesítési kötelezettségének a következő munkanapon tesz eleget.
+(6)[^16] A fizető felet a pénzforgalmi szolgáltatója a hatósági átutalási megbízás és az átutalási végzés teljesítéséről, részteljesítéséről, valamint sorba állításáról a teljesítéssel vagy a sorba állítással egyidejűleg az eredeti fizetési megbízás adattartalmának közlésével írásban értesíti. Ha a hatósági átutalás és az átutalási végzés sorba állításának kezdete nem munkanapra esik, a pénzforgalmi szolgáltató az értesítési kötelezettségének a következő munkanapon tesz eleget.
 
-[^21]: A 34. § (6) bekezdése a 10/2019. (II. 21.) MNB rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 34. § (6) bekezdése a 10/2019. (II. 21.) MNB rendelet 7. § (1) bekezdése szerint módosított szöveg.

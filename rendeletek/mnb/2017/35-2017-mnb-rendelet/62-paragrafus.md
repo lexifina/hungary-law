@@ -1,5 +1,7 @@
-## 61. §[^30]
+## lép.
 
 ## 35. Hatályon kívül helyező rendelkezés
 
-[^30]: A 61. § az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+62. §[^25]
+
+[^25]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

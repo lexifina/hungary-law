@@ -1,5 +1,3 @@
-## 4. §[^5]
-
 ## 5. A hitelesítő tábla
 
 5. § (1) Az MNB a hitelesítő táblában a következő adatokat tartja nyilván a pénzforgalmi szolgáltatóról:
@@ -15,5 +13,3 @@ d) a fiók által használt pénzforgalmi jelzőszámok hosszát,
 e) a fizetési üzeneteknek az egyes belföldi fizetési rendszerekben történő továbbításához szükséges adatokat.
 
 (2) A pénzforgalmi szolgáltató a hitelesítő tábla (1) bekezdés szerinti adatainak megváltozásáról az MNB-t a változást megelőző hónap 4. munkanapjáig értesíti.
-
-[^5]: A 4. § az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

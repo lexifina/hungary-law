@@ -10,13 +10,13 @@ b) a devizaösszegre szóló beszedési megbízást a 3. melléklet szerinti PFN
 
 nyújtotta be.
 
-(3)[^14]
+(3) Az azonnali átutalási megbízás az (5) bekezdésben foglaltaktól eltérően oly módon is benyújtható, hogy abban a kedvezményezett neve és pénzforgalmi jelzőszáma helyett a kedvezményezett fizetési számlájához hozzárendelt másodlagos számlaazonosító szerepel.
 
 (4) A (2) bekezdésben felsorolt pénzforgalmi nyomtatványok technikai jellemzőit és azok mintáját a 3. melléklet I. pontja és a II.1–3. és 5–7. pontja tartalmazza.
 
 (5) A 3. melléklet II.1–3. és II.7. pontjában foglalt mintától eltérő pénzforgalmi nyomtatvány vagy elektronikus úton továbbított fizetési megbízás akkor alkalmazható, ha legalább a PFNY 11, PFNY 71, PFNY 41 és PFNY 51 kódú pénzforgalmi nyomtatvány adatait és legalább az abban megadott hosszúságú mezőket tartalmazza.
 
-(6)[^15]
+(6) A fizető fél pénzforgalmi szolgáltatója nem tagadhatja meg az azonnali átutalási megbízás átvételét arra való hivatkozással, hogy abban a fizető fél a kedvezményezett neve és pénzforgalmi jelzőszáma helyett másodlagos számlaazonosítót tüntetett fel.
 
 (7) A 3. melléklet II.5. pontjában foglalt mintától eltérő pénzforgalmi nyomtatvány akkor alkalmazható, ha az legalább a PFNY 31 kódú pénzforgalmi nyomtatvány 1–6. pontja szerinti adattartalmat és a kitöltési útmutatót tartalmazza. A PFNY 31 kódú pénzforgalmi nyomtatványnak nem kell tartalmaznia a kitöltési útmutatót, ha annak tartalmáról a pénzforgalmi nyomtatvány kitöltésében közreműködő, ennek hiányában a pénzforgalmi nyomtatványt a fizető féltől átvevő pénzforgalmi szolgáltató vagy kedvezményezett hitelt érdemlő módon tájékoztatta a fizető felet.
 
@@ -28,8 +28,4 @@ nyújtotta be.
 
 (11) A fizetési megbízások, valamint a 3. melléklet szerinti pénzforgalmi nyomtatványok kiállításának szabályait a 2. melléklet tartalmazza.
 
-(12)[^16]
-
-[^14]: A 14. § (3) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
-[^15]: A 14. § (6) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
-[^16]: A 14. § (12) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+(12) A pénzforgalmi szolgáltató az azonnali átutalási megbízás megadása céljából csak olyan adatbeviteli megoldást alkalmazhat, amellyel az azonnali átutalási megbízáshoz szükséges adatokat bárki képes beolvasni, értelmezni és kezelni.

@@ -1,8 +1,6 @@
-## 62. §[^31]
-
 1. melléklet a 35/2017. (XII. 14.) MNB rendelethez
 
-## A pénzforgalmi jelzőszám kialakítása
+A pénzforgalmi jelzőszám kialakítása
 
 1. A belföldi pénzforgalmi jelzőszámot az alábbi szabályoknak megfelelően kell kialakítani:
 
@@ -19,5 +17,3 @@ a) az első két karakter Magyarország ISO 3166 szabvány szerinti országkódj
 b) a 3. és 4. karakter az ellenőrzőszám, amelynek algoritmusát az Európai Banki Szabványügyi Bizottság [European Committee for Banking Standards (ECBS)] IBAN képzésére vonatkozó szabványa tartalmazza;
 
 c) az 5–28. karakter a belföldi pénzforgalmi jelzőszám (16 karakter hosszúságú pénzforgalmi jelzőszám esetében az IBAN képzésekor az utolsó 8 karaktert nulla számjeggyel kell feltölteni).
-
-[^31]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

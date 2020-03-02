@@ -4,12 +4,12 @@
 
 (2) A fedezethiány miatt nem teljesíthető csoportos beszedési megbízás a számlatulajdonossal történt megállapodás alapján legfeljebb a terhelési naptól számított négy munkanap időtartamra állítható sorba.
 
-(3)[^13]
+(3) A fedezethiány miatt nem teljesíthető azonnali átutalási megbízás nem állítható sorba.
 
 (4) A fizető fél fizetési számláját vezető pénzforgalmi szolgáltató – a csoportos beszedési megbízás kivételével – a fizetési számlán fedezet hiányában nem teljesíthető beszedési megbízások sorba állításáról a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató útján haladéktalanul értesíti a kedvezményezettet. Az értesítés az eredeti beszedési megbízás adatait és a sorba állítás utolsó napját tartalmazza.
 
 (5) A pénzforgalmi szolgáltató törvény előírása vagy a számlatulajdonossal kötött megállapodás alapján – a (6) bekezdésben foglalt kivétellel – a fedezethiányos fizetési megbízásra a rendelkezésre álló fedezet erejéig részfizetést teljesít.
 
-(6) Csoportos átutalási és csoportos beszedési megbízásra részfizetés nem teljesíthető.
+(6)[^10] Azonnali átutalási, csoportos átutalási és csoportos beszedési megbízásra részfizetés nem teljesíthető.
 
-[^13]: A 10. § (3) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^10]: A 10. § (6) bekezdése a 61. § 2. pontja szerint módosított szöveg.

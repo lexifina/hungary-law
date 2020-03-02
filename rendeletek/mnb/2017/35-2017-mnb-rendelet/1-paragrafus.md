@@ -10,7 +10,7 @@ a) a (2)–(4) bekezdésben foglaltak kivételével a hitelintézetekről és a 
 
 b) az a) pontban megjelölt pénzforgalmi szolgáltatások igénybevevőjére
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) – a (3) bekezdésben foglalt kivétellel – kizárólag a monetáris politika megvalósításán, valamint a kincstári egységes számla vezetésén kívül végzett pénzforgalmi szolgáltatása tekintetében terjed ki.
 
@@ -20,6 +20,6 @@ a) az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársas
 
 b) jogszabály előírása alapján vezetett számla
 
-## tekintetében.
+tekintetében.
 
 (4) E rendelet hatálya a kincstárra az államháztartásról szóló törvényben meghatározott kincstári körben végzett pénzforgalmi szolgáltatása tekintetében kizárólag a hatósági átutalási megbízás, az átutalási végzés alapján történő átutalás, a felhatalmazó levélen alapuló beszedési megbízás és a határidős beszedési megbízás lebonyolítására vonatkozó szabályok tekintetében terjed ki.

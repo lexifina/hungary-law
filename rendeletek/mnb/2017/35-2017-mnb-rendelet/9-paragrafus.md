@@ -24,11 +24,11 @@ c) a sorba állítás időtartamának lejárta esetén legkésőbb a sorba áll�
 
 követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A pénzforgalmi szolgáltató a jogszabály rendelkezésén vagy megállapodáson alapuló ellenjegyzéssel ellátott, valamint csatolt okiratot tartalmazó papíralapú fizetési megbízások teljesítésének visszautasítása esetén a fizetési megbízást és az okiratot visszaküldi az ügyfélnek.
 
-(9)[^11]
+(9) A nem teljesíthető azonnali átutalási megbízást a fizető fél pénzforgalmi szolgáltatója haladéktalanul visszautasítja és az erről szóló, (7) bekezdés szerinti értesítést a (8) bekezdésben foglaltaktól eltérően haladéktalanul küldi meg vagy teszi elérhetővé a fizető fél részére a keretszerződésben meghatározott módon.
 
 (10) Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a kedvezményezett felé a (7) és (8) bekezdésben foglaltaknak a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató útján, a beszedési megbízás hozzá történt beérkezésével azonos módon tesz eleget.
 
-(11)[^12] Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.
+(11)[^9] Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.
 
 (12) A (7) bekezdés szerint indokolt visszautasítás esetén a keretszerződés alapján a tényleges és közvetlenül felmerült költséggel arányos díj számítható fel.
 
@@ -36,5 +36,4 @@ követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A
 
 (14) A visszautasított fizetési megbízást teljesítésre át nem vettnek kell tekinteni.
 
-[^11]: A 9. § (9) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
-[^12]: A 9. § (11) bekezdése az 59. §-sal megállapított szöveg.
+[^9]: A 9. § (11) bekezdése az 59. §-sal megállapított szöveg.

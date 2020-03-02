@@ -30,7 +30,7 @@ c) az egyetlen, euró és forint közötti átváltást igénylő belföldi fize
 
 d) az olyan fizetési műveletre, amelynek során egyetlen, belföldön végrehajtott euró és forint közötti átváltásra kerül sor, és maga a teljesítés euróban történik
 
-## kötelezően kell alkalmazni.
+kötelezően kell alkalmazni.
 
 (4) A 18. § keretei között az (1)–(3) bekezdésben nem nevesített egyéb, valamely EGT-állam pénznemében teljesítendő EGT-n belüli fizetési művelet esetében a számlavezető pénzforgalmi szolgáltató és ügyfele a 17., 24. és 25. §-ban foglaltaktól eltérően is megállapodhat.
 

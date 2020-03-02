@@ -1,5 +1,3 @@
-## 35–36. §[^22]
-
 ## 21. A beszedés általános szabályai
 
 37. § (1) A beszedési megbízással a kedvezményezett megbízza a fizetési számláját vezető pénzforgalmi szolgáltatót, hogy fizetési számlája javára, a fizető fél fizetési számlája terhére meghatározott összeget szedjen be.
@@ -13,5 +11,3 @@
 (5) A kedvezményezett pénzforgalmi szolgáltató a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz közvetlenül is benyújthatja a beszedési megbízást.
 
 (6) Ha a beszedési megbízáshoz okiratot kell csatolni, vagy azt jogszabály vagy megállapodás alapján ellenjegyzéssel kell ellátni, akkor az így felszerelt beszedési megbízást a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató vagy az (5) bekezdés szerint közvetlen benyújtásra jogosult kedvezményezett a kézbesítés megtörténtének igazolására alkalmas módon továbbítja a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz.
-
-[^22]: A 35–36. § az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
