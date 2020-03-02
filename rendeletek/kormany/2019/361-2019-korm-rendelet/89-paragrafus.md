@@ -1,3 +1,5 @@
-## 88. § Hatályát veszti a Budapest XI. kerületében K+F ingatlanfejlesztési beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 491/2016. (XII. 28.) Korm. rendelet 2. § (2) bekezdése.
+## 88. §[^89]
 
 ## 89. A Győr közigazgatási területén megvalósuló K+F+I beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 34/2017. (II. 15.) Korm. rendelet módosítása
+
+[^89]: A 88. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

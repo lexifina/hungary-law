@@ -1,3 +1,5 @@
-## 73. § A Tokaj Kereskedőház Zrt. telephelyeinek fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 9/2015. (I. 29.) Korm. rendelet 1. melléklete helyébe a 71. melléklet lép.
+## 73. §[^74]
 
 ## 74. A Fővárosi Állat- és Növénykert fejlesztésére irányuló Pannon Park és Mesepark projektekhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 48/2015. (III. 12.) Korm. rendelet módosítása
+
+[^74]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

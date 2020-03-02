@@ -1,3 +1,5 @@
-## 82. § Hatályát veszti a Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban című KEHOP-1.3.0-15-2016-00014 azonosító számú projekt megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 149/2016. (VI. 13.) Korm. rendelet 3. § (2) bekezdése.
+## 82. §[^83]
 
 ## 83. A Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet módosítása
+
+[^83]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

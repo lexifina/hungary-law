@@ -1,33 +1,3 @@
-## „1. melléklet a 364/2011. (XII. 30.) Korm. rendelethez
+22. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^117]
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatáshoz hatáskörrel rendelkező közigazgatási szervek
-
-|  | A | B | C | D |
-
-| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
-
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b)pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
-
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
-
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
-
-| 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
-
-| 6. | vízjogi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
-
-| 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
-
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
-
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
-
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-## ”
-
-22. melléklet a 361/2019. (XII. 30.) Korm. rendelethez
+[^117]: A 22. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

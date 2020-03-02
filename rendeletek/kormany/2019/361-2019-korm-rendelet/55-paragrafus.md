@@ -1,3 +1,5 @@
-## 54. § A pécsi Nemzeti Kosárlabda Akadémia beruházási programjával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 50/2014. (II. 28.) Korm. rendelet 1. melléklete helyébe az 52. melléklet lép.
+## 54. §[^55]
 
 ## 55. A gödöllői uszoda beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 59/2014. (III. 4.) Korm. rendelet módosítása
+
+[^55]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

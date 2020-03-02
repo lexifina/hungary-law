@@ -1,3 +1,5 @@
-## 47. § A balatonboglári Nemzeti Kézilabda Akadémia beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 463/2013. (XII. 4.) Korm. rendelet 1. melléklete helyébe a 45. melléklet lép.
+## 47. §[^48]
 
 ## 48. A székesfehérvári stadionrekonstrukciós program megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 472/2013. (XII. 11.) Korm. rendelet módosítása
+
+[^48]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 66. § A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet 1. melléklete helyébe a 64. melléklet lép.
+## 66. §[^67]
 
 ## 67. A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem beruházási program megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 270/2014. (XI. 4.) Korm. rendelet módosítása
+
+[^67]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

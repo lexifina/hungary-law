@@ -1,5 +1,5 @@
-## 91. §[^6] A Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet 2. § (1) bekezdésében a „Kormányhivatala V. Kerületi Hivatalát” szövegrész helyébe a „Kormányhivatalát” szöveg lép.
+## 91. §[^92]
 
 ## 92. A Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 225/2018. (XI. 29.) Korm. rendelet módosítása
 
-[^6]: A 91. § a 30/2020. (II. 29.) Korm. rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^92]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

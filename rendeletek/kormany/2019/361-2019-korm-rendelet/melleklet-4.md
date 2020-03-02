@@ -1,21 +1,3 @@
-## „1. számú melléklet a 89/2007. (IV. 26.) Korm. rendelethez
+4. melléklet a 361/2019. (XII. 30.) Korm. rendelethez[^99]
 
-## A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításukhoz szükséges hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
-
-|  | A | B | C | D |
-
-| 1. | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges engedélyek | Eljáró engedélyező hatóság |
-
-| 2. | A budapesti 4-es számú metróvonal Budapest Kelenföldi pályaudvar-Bosnyák tér közötti szakasza | 10,5 km hosszú, 14 állomásos metrószakasz | Vasúthatósági engedélyek | közlekedésért felelős miniszter |
-
-| 3. | Metróállomások, üzemi létesítmények | Kelenföldi pályaudvar, Tétényi út, Bocskai út, Móricz Zsigmond körtér, Szent Gellért tér, Fővám tér, Kálvin tér, Rákóczi tér, Népszínház utca, Keleti pályaudvar, Dózsa György út, Hungária körút, Róna utca, Bosnyák tér metróállomások és minden üzemi létesítmény | Építésügyi hatósági engedélyek | közlekedésért felelős miniszter |
-
-| 4. | Felszín feletti építmények | Állomások és vonali műtárgyak felszínen megjelenő építményei (különösen: szellőző fejek, lépcső lefedések, liftépületek) | Általános építésügyi hatósági engedélyek | Budapest Főváros Kormányhivatala |
-
-| 5. | Felszíni rendezési munkák | A Fővárosi Önkormányzat tulajdonában lévő felszíni létesítmények, így különösen utak, járdák, forgalomtechnika, zöldterületek, villamosvágányok, aluljárók építési munkái | Közúthatósági engedélyek | Budapest Főváros Kormányhivatala |
-
-| 6. | A főváros kerületi önkormányzatai tulajdonában lévő utak, járdák | Budapest Főváros Kormányhivatala |
-
-## ”
-
-4. melléklet a 361/2019. (XII. 30.) Korm. rendelethez
+[^99]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

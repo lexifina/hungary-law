@@ -1,3 +1,5 @@
-## 5. § Az egyes vasúti beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 75/2008. (IV. 3.) Korm. rendelet 1. számú melléklete helyébe az 5. melléklet lép.
+## 5. §[^6]
 
 ## 6. Záhony térségében a vasúti, valamint a belső közúti infrastruktúra fejlesztéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 76/2008. (IV. 3.) Korm. rendelet módosítása
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

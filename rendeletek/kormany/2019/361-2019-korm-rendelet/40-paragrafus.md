@@ -1,3 +1,5 @@
-## 39. § A Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 289/2013. (VII. 26.) Korm. rendelet 1. melléklete helyébe a 38. melléklet lép.
+## 39. §[^40]
 
 ## 40. Az ifjúság- és gyermekvédelmi programok, az aktív kikapcsolódás lehetőségeit ötvöző közösségi tér megteremtése és működtetése érdekében megvalósuló Erzsébet téri beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 291/2013. (VII. 26.) Korm. rendelet módosítása
+
+[^40]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
