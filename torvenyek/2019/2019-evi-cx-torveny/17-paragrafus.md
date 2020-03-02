@@ -2,6 +2,6 @@
 
 17. § (1)
 
-(2) A Hdt. 26. § (2b) és (3) bekezdésében az „Az elsőfokú” szövegrész helyébe az „A” szöveg lép.
+(2)
 
-(3) Hatályát veszti a Hdt. 26. § (2) bekezdése.
+(3)

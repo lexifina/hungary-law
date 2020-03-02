@@ -4,4 +4,4 @@
 
 (2)
 
-(3) A Kt. 110. § (5) bekezdésében az „az elsőfokú” szövegrész helyébe az „a” szöveg lép.
+(3)

@@ -6,8 +6,4 @@
 
 (3)
 
-(4) Hatályát veszti a Vkt.
-
-a) 4. § (7) bekezdése,
-
-b) 5/C. §-a.
+(4)

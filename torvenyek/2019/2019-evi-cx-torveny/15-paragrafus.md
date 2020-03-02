@@ -12,8 +12,8 @@
 
 (6)
 
-(7) Hatályát veszti az Mvt.
+(7)
 
 a)
 
-b) 85. §-a.
+b)

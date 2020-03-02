@@ -6,8 +6,8 @@
 
 (3)
 
-(4) Hatályát veszti az Nsztv.
+(4)
 
 a)
 
-b) 23. § (4) bekezdése.
+b)

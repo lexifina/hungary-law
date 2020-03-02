@@ -2,4 +2,4 @@
 
 89. § (1)
 
-(2) Hatályát veszti a Fétv. 38. §-a.
+(2)

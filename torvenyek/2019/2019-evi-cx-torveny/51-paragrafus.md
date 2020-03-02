@@ -2,4 +2,4 @@
 
 51. § (1)
 
-(2) Hatályát veszti az Mktv. 35. § (4) bekezdésében az „Az eljárásban nincs helye fellebbezésnek.” szövegrész.
+(2)

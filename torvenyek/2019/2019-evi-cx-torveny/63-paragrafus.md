@@ -6,22 +6,20 @@
 
 (3)
 
-(4) Az Evt. „A faanyag származásának igazolása” alcíme a következő 90/N. §-sal egészül ki:
+(4)
 
-„90/N. § Az erdészeti hatóság faanyag kereskedelmi lánc hatósági felügyelete keretében hozott döntésével szemben indított közigazgatási perben a Fővárosi Törvényszék kizárólagosan illetékes.”
-
-(5) Hatályát veszti az Evt.
+(5)
 
 a)
 
 b)
 
-c) 76/A. § (3) bekezdésében a „fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja, és azt” szövegrész,
+c)
 
-d) 105/C. §-át megelőző alcím címében az „elsőfokú és másodfokú” szövegrész,
+d)
 
-e) 105/C. (1) bekezdés a) pontjában az „elsőfokú” szövegrész,
+e)
 
-f) 105/C. § (1) bekezdés b) pontja,
+f)
 
-g) 105/D. (1) bekezdés nyitó szövegrészében az „elsőfokú eljárásban” szövegrész.
+g)

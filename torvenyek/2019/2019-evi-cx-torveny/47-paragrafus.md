@@ -6,8 +6,8 @@
 
 (3)
 
-(4) Hatályát veszti a Kötv.
+(4)
 
 a)
 
-b) 75/C. §-a.
+b)
