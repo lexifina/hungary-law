@@ -2,8 +2,9 @@
 
 ## 32. § Hatályát veszti
 
-a) a prémiumévek programmal, valamint a különleges foglalkoztatási állománnyal kapcsolatos egyes munkáltatói költségek költségvetési megtérítésének eljárási szabályairól szóló 8/2005. (II. 8.) PM rendelet,
+a)[^22]
 
-b)–c)[^21]
+b)–c)[^23]
 
-[^21]: A 32. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 32. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 32. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
