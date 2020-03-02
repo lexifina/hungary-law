@@ -1,9 +1,14 @@
+## 109. §[^199]
+
 ## 110. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása
 
-110. § (1)[^121]
+110. § (1)[^200]
 
-(2) Az R67. 9. melléklete helyébe a 22. melléklet lép.
+(2)[^201]
 
-(3) Hatályát veszti az R67. 26. § (2) bekezdésében az „első fokú” szövegrész.
+(3)[^202]
 
-[^121]: A 110. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^199]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^200]: A 110. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^201]: A 110. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^202]: A 110. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,52 +1,60 @@
-## 106. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet 1. § (1) bekezdésében az „első fokon Budapest Főváros Kormányhivatalának – nyugdíjbiztosítási igazgatási szervként eljáró – VIII. Kerületi Hivatala” szövegrész helyébe az „a nyugdíjbiztosítási igazgatási szervként eljáró Budapest Főváros Kormányhivatala” szöveg lép.
+## 106. §[^180]
 
 ## 107. A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet módosítása
 
-107. § (1)[^111]
+107. § (1)[^181]
 
-(2)[^112]
+(2)[^182]
 
-(3)[^113]
+(3)[^183]
 
 (4) Az R64.
 
-a) 1. § (2) bekezdés 17. pontjában a „fővárosi és megyei kormányhivatal köznevelési feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala (a továbbiakban: megyeszékhely szerinti járási hivatal)” szövegrész helyébe a „köznevelési feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal)” szöveg,
+a)[^184]
 
-b) 7. § (1) bekezdés a) pontjában és (3) bekezdésében, 13. § (2) bekezdés b) pontjában, 26. § (3) bekezdésében, 37/B. § (4) bekezdésében, 37/O. § (6) bekezdésében, IV. fejezet címében, 38. § (1)–(2) bekezdésében, 39. § (1) bekezdésében, 40. § (1) bekezdésében, 40. § (2) nyitó szövegrészében és (5) bekezdésében a „megyeszékhely szerinti járási hivatal” szövegrész helyébe a „kormányhivatal” szöveg,
+b)[^185]
 
-c) 9. § (3) bekezdésében, 26. § (3) bekezdésében, 39. § (3) bekezdésében a „megyeszékhely szerinti járási hivatalnak” szövegrész helyébe a „kormányhivatalnak” szöveg,
+c)[^186]
 
-d) 12. § (4) bekezdésében, 39. § (3) bekezdésében a „megyeszékhely szerinti járási hivatalt” szövegrész helyébe a „kormányhivatalt” szöveg,
+d)[^187]
 
-e)[^114]
+e)[^188]
 
-f)[^115]
+f)[^189]
 
-g) 37/I. § (3) bekezdésében, 39. § (3) és (4) bekezdésében, 40. § (6) bekezdésében a „megyeszékhely szerinti járási hivatal” szövegrészek helyébe a „kormányhivatal” szöveg,
+g)[^190]
 
-h) 37/O. § (2) bekezdésében a „megyeszékhely szerinti járási hivatalnál” szövegrész helyébe a „kormányhivatalnál” szöveg,
+h)[^191]
 
-i)[^116]
+i)[^192]
 
-j) 39. § (5) bekezdésében a „megyeszékhely szerinti járási hivatalhoz” szövegrész helyébe a „kormányhivatalhoz” szöveg,
+j)[^193]
 
-k)[^117]
+k)[^194]
 
-l)[^118]
+l)[^195]
 
-m)[^119]
+m)[^196]
 
 ## lép.
 
-(5)[^120]
+(5)[^197]
 
-[^111]: A 107. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^112]: A 107. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^113]: A 107. § (3) bekezdése a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés d) pontja alapján nem lép hatályba.
-[^114]: A 107. § (4) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^115]: A 107. § (4) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^116]: A 107. § (4) bekezdés i) pontja a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés e) pontja alapján nem lép hatályba.
-[^117]: A 107. § (4) bekezdés k) pontja a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés f) pontja alapján nem lép hatályba.
-[^118]: A 107. § (4) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^119]: A 107. § (4) bekezdés m) pontja a 202. § (7) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^120]: A 107. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés h) pontja alapján nem lép hatályba.
+[^180]: A 106. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^181]: A 107. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: A 107. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^183]: A 107. § (3) bekezdése a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés d) pontja alapján nem lép hatályba.
+[^184]: A 107. § (4) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 107. § (4) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^186]: A 107. § (4) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^187]: A 107. § (4) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^188]: A 107. § (4) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^189]: A 107. § (4) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^190]: A 107. § (4) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^191]: A 107. § (4) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^192]: A 107. § (4) bekezdés i) pontja a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés e) pontja alapján nem lép hatályba.
+[^193]: A 107. § (4) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^194]: A 107. § (4) bekezdés k) pontja a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés f) pontja alapján nem lép hatályba.
+[^195]: A 107. § (4) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^196]: A 107. § (4) bekezdés m) pontja a 202. § (7) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^197]: A 107. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 21. § (2) bekezdés h) pontja alapján nem lép hatályba.

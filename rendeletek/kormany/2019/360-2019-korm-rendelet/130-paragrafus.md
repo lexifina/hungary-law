@@ -1,25 +1,17 @@
-## 129. §[^137]
+## 129. §[^224]
 
 ## 130. Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet módosítása
 
-130. § (1)[^138]
+130. § (1)[^225]
 
-(2) Az R77.
+(2)[^226]
 
-a) 3/A. melléklete helyébe a 23. melléklet,
+(3)[^227]
 
-b) 5. melléklete helyébe a 24. melléklet
+(4)[^228]
 
-## lép.
-
-(3)[^139]
-
-(4) Hatályát veszti az R77.
-
-a) 10. § (1) bekezdésében az „első fokon” szövegrész,
-
-b) 10/A. § (6) bekezdése.
-
-[^137]: A 129. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^138]: A 130. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^139]: A 130. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^224]: A 129. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^225]: A 130. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^226]: A 130. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^227]: A 130. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^228]: A 130. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

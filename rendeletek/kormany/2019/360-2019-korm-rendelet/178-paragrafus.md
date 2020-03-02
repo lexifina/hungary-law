@@ -1,17 +1,14 @@
-## 177. § Hatályát veszti a tartós ápolást végzők időskori támogatásáról szóló 383/2017. (XII. 12.) Korm. rendelet 1. §-ában az „első fokon” szövegrész.
+## 177. §[^372]
 
 ## 178. Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosítása
 
-178. § (1)[^234]
+178. § (1)[^373]
 
-(2)[^235]
+(2)[^374]
 
-(3) Hatályát veszti az R106. 1. melléklet
+(3)[^375]
 
-a)[^236]
-
-b) 1076–1078 és 1081 sorában az „elsőfokú” szövegrész.
-
-[^234]: A 178. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^235]: A 178. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^236]: A 178. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^372]: A 177. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^373]: A 178. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^374]: A 178. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^375]: A 178. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

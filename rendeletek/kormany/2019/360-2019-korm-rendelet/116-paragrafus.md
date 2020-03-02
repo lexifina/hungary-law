@@ -1,16 +1,17 @@
-## 115. §[^127]
+## 115. §[^207]
 
 ## 116. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet módosítása
 
-116. § (1)[^128]
+116. § (1)[^208]
 
-(2)[^129]
+(2)[^209]
 
-(3) Az R71. 76. § (5) bekezdésében az „a fővárosi és megyei kormányhivatal ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala” szövegrész helyébe az „az ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal” szöveg lép.
+(3)[^210]
 
-(4)[^130]
+(4)[^211]
 
-[^127]: A 115. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^128]: A 116. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^129]: A 116. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^130]: A 116. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^207]: A 115. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^208]: A 116. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^209]: A 116. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^210]: A 116. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^211]: A 116. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

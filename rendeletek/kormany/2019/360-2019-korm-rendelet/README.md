@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-360-20-
 | 2020-02-13 | 2019-360-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-02-14 | 2019-360-20-22.7 | 2010: CXXX. törvény |
 | 2020-03-01 | 2019-360-20-22.8 | 31/2020. (II. 29.) Korm. rendelet |
+| 2020-03-02 | 2019-360-20-22.9 | 2010: CXXX. törvény |

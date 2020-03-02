@@ -1,5 +1,5 @@
-## 84. §[^89]
+## 84. §[^136]
 
 ## 85. A vis maior támogatás felhasználásának részletes szabályairól szóló 9/2011. (II. 15.) Korm. rendelet módosítása
 
-[^89]: A 84. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 84. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

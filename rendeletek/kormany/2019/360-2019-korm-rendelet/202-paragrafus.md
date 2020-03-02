@@ -1,4 +1,4 @@
-## 201. §[^259]
+## 201. §[^415]
 
 ## 202. Záró rendelkezések
 
@@ -18,4 +18,4 @@
 
 (8) A 165. § (1) bekezdése 2021. január 1-jén lép hatályba.
 
-[^259]: A 201. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^415]: A 201. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
