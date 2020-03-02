@@ -1,5 +1,5 @@
-## 3. § A gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet a következő 6/A. §-sal egészül ki:
-
-## „6/A. § A települési önkormányzat jegyzője értesíti a gyámhivatalt gyám nevezéséről vagy gyámságból történő kizárásról.”
+## 3. §[^3]
 
 ## 4. A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
