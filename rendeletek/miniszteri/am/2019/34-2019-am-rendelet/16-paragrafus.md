@@ -1,1 +1,3 @@
-16. § Hatályát veszti az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2018. évi finanszírozásának szabályairól szóló 7/2018. (III. 28.) FM rendelet.
+16. §[^5]
+
+[^5]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
