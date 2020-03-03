@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-23-20-2
 | --- | --- | --- |
 | 2019-06-06 | 2019-23-20-2C.1 | 23/2019. (VI. 5.) MNB rendelet |
 | 2019-06-07 | 2019-23-20-2C.2 | 2010: CXXX. törvény |
+| 2020-03-03 | 2019-23-20-2C.3 | 2010: CXXX. törvény |
