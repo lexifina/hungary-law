@@ -28,7 +28,7 @@ III. Az egyes PFNY jelölésű pénzforgalmi nyomtatványok kiállításának to
 
 1. A PFNY 11 kódú átutalási megbízás (3. melléklet II.1. pont szerinti minta) „fizetési rendszer” rovatát, a számlavezető pénzforgalmi szolgáltató által meghatározott módon, akkor kell kitölteni, ha az átutalási megbízás teljesítését a fizető fél valamely meghatározott fizetési rendszer útján kéri.
 
-2.[^26] A PFNY 71 kódú hatósági átutalási megbízás (3. melléklet II.2. pont szerinti minta) „Közlemény” rovatában a benyújtás alapjául szolgáló dokumentum megnevezését, annak számát vagy szám hiányában a dokumentum beazonosítását lehetővé tévő hivatkozást, valamint határozat esetén az azt kibocsátó szervet, továbbá gyermektartásdíj iránti végrehajtásnál a „GY”, szüléssel járó költség behajtásánál az „SZ” rövidítést fel kell tüntetni.
+2.[^28] A PFNY 71 kódú hatósági átutalási megbízás (3. melléklet II.2. pont szerinti minta) „Közlemény” rovatában a benyújtás alapjául szolgáló dokumentum megnevezését, annak számát vagy szám hiányában a dokumentum beazonosítását lehetővé tévő hivatkozást, valamint határozat esetén az azt kibocsátó szervet, továbbá gyermektartásdíj iránti végrehajtásnál a „GY”, szüléssel járó költség behajtásánál az „SZ” rövidítést fel kell tüntetni.
 
 3. A PFNY 41 kódú beszedési megbízás (3. melléklet II.3. pontja szerinti minta) „A benyújtás indoka” rovatába
 
@@ -80,4 +80,4 @@ c) a 3. példánnyal értesíti a kedvezményezett a fizető felet a megbízás 
 
 6. A PFNY 31 kódú csoportos beszedési megbízás teljesítésére szóló felhatalmazás (3. melléklet II.5. pontja szerinti minta) pénzforgalmi nyomtatvány mind három példányos (fizető fél pénzforgalmi szolgáltatója, kedvezményezett, fizető fél példánya), mind két példányos (fizető fél pénzforgalmi szolgáltatója és fizető fél példánya) formában alkalmazható.
 
-[^26]: A 2. melléklet III.2. pontja a 10/2019. (II. 21.) MNB rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 2. melléklet III.2. pontja a 10/2019. (II. 21.) MNB rendelet 6. § (2) bekezdése szerint módosított szöveg.
