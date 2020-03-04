@@ -12,4 +12,6 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2020. június 30.
 
-3. visszavonja a Modern Városok Program keretében Szeged megyei jogú város tömegközlekedése elektromos alapra helyezésének megvalósítása érdekében történő támogatás biztosításáról szóló 1798/2018. (XII. 21.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
