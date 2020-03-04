@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1045-30
 | --- | --- | --- |
 | 2017-02-06 | 2017-1045-30-22.1 | 1045/2017. (II. 3.) Korm. határozat |
 | 2017-12-09 | 2017-1045-30-22.2 | 1935/2017. (XII. 8.) Korm. határozat |
+| 2020-03-04 | 2017-1045-30-22.3 | 1068/2020. (III. 3.) Korm. határozat |
