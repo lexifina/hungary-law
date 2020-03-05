@@ -1,29 +1,20 @@
-1. Az Európa Kulturális Fővárosai kezdeményezés Európa Kulturális Fővárosa 2023 cím viselésével kapcsolatos tagállami feladatok ellátásáról szóló 1045/2017. (II. 3.) Korm. határozat (a továbbiakban: Korm. határozat) 5. pontja helyébe a következő rendelkezés lép:
+1.[^2]
 
-„5. A Bizottság elnöke az Európa Kulturális Fővárosa 2023 Veszprém nyertes pályázati programja megvalósításának koordinálásáért felelős kormánybiztos.”
+2.[^3]
 
-2. A Korm. határozat 7. pont b) alpontja a következő bp) alponttal egészül ki:
+3.[^4]
 
-(A Bizottság állandó tagja:
+4.[^5]
 
-felelősségi körönként egy-egy személy)
+5.[^6]
 
-„bp) a kultúráért”
-
-(felelős miniszter által vezetett minisztérium képviseletében,)
-
-3. A Korm. határozat 7. pont e) alpontja helyébe a következő rendelkezés lép:
-
-(A Bizottság állandó tagja:)
-
-„e) a Modern Települések Fejlesztéséért felelős kormánybiztos vagy az általa delegált személy.”
-
-4. A Korm. határozat 15. pontja helyébe a következő rendelkezés lép:
-
-„15. A Bizottság működésével kapcsolatos szervezési, adminisztratív feladatokat az Európa Kulturális Fővárosa 2023 Veszprém nyertes pályázati programja megvalósításának koordinálásáért felelős kormánybiztos titkársága látja el.”
-
-5. A Korm. határozat 8. pontjában az „állami vezetői szolgálati jogviszonyban vagy állami vezetőként” szövegrész helyébe a „politikai vagy szakmai felsővezetőként” szöveg lép.
-
-6. Hatályát veszti a Korm. határozat 10. pontjában az „az általa vezetett minisztérium állományából” szövegrész.
+6.[^7]
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
