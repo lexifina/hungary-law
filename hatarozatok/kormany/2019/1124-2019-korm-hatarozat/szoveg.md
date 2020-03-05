@@ -54,11 +54,11 @@ a b) alpont tekintetében a 2020. évi központi költségvetés végrehajtása 
 
 a c) alpont tekintetében a 2021. évi központi költségvetés tervezése során
 
-6. felhívja az emberi erőforrások miniszterét, hogy a kormánybiztos, valamint a Közalapítvány bevonásával vizsgálja meg a rendszerváltoztatás eseményeinek és társadalmi jelentőségének bemutatását biztosító állandó kiállítás és múzeum létrehozásának lehetőségét, és erről tegyen jelentést a Kormány számára;
+6.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy vizsgálja meg a rendszerváltoztatás eseményeinek és társadalmi jelentőségének bemutatását biztosító állandó kiállítás és múzeum létrehozásának lehetőségét, és erről tegyen jelentést a Kormány számára;
 
-Felelős: emberi erőforrások minisztere kormánybiztos
+Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2019. szeptember 30.
+Határidő: 2020. szeptember 30.
 
 7. felhívja a külgazdasági és külügyminisztert, hogy a kormánybiztos bevonásával, a magyar külképviseletek révén gondoskodjon az emlékévvel kapcsolatos külföldi megemlékezések koordinálásáról.
 
@@ -69,3 +69,4 @@ kormánybiztos
 Határidő: folyamatos
 
 [^1]: Az 5. pontot az 1520/2019. (IX. 4.) Korm. határozat 1. pontja visszavonta, újonnan e módosító határozat 2. pontja iktatta be.
+[^2]: A 6. pont az 1079/2020. (III. 5.) Korm. határozat 2. pontjával megállapított szöveg.
