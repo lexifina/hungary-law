@@ -1,6 +1,6 @@
 A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemének keretében megvalósuló tanterem, tornaterem és tanuszoda beruházások előkészítésével kapcsolatos intézkedésekről szóló 1281/2017. (VI. 2.) Korm. határozatban foglaltak végrehajtása érdekében
 
-1. egyetért a Mezőszilasi Németh László Általános Iskola tornaterem építésének (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Mezőszilas belterület 452/60 helyrajzi számú ingatlanon;
+1.[^1] egyetért a Mezőszilasi Németh László Általános Iskola tornaterem építésének (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Mezőszilas belterület 452/6 helyrajzi számú ingatlanon;
 
 2. egyetért azzal, hogy a Beruházás keretében létrejövő vagyonelemek
 
@@ -37,3 +37,5 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
+
+[^1]: Az 1. pont az 1080/2020. (III. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
