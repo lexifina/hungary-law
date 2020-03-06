@@ -4,6 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^2] Ez a rendelet 2020. március 7-én hatályát veszti.
+(2)[^2] Ez a rendelet 2020. szeptember 7-én hatályát veszti.
 
-[^2]: Az 5. § (2) bekezdése a 217/2019. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 32/2020. (III. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
