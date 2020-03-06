@@ -28,9 +28,11 @@ k)[^1] a Terrorelhárítási Információs és Bűnügyi Elemző Központra,
 
 l)[^2] az Országos Idegenrendészeti Főigazgatóságra,
 
-m) a Büntetés-végrehajtás Országos Parancsnokságára, valamint
+m)[^3] a Büntetés-végrehajtás Országos Parancsnokságára,
 
-n) a 32. pontban meghatározott minisztériumokra.
+n)[^4] az Országos Atomenergia Hivatalra, valamint
+
+o)[^5] a 32. pontban meghatározott minisztériumokra.
 
 2. A terrorfokozatok
 
@@ -80,7 +82,7 @@ n) a 32. pontban meghatározott minisztériumokra.
 
 21. Ha a TKB a rendelkezésére álló adatok, információk alapján a 19. pontban meghatározott feladatellátása során megállapítja, hogy az 1. pontban meghatározott valamelyik szerv intézkedése szükséges, a TKB kezdeményezi a szervet irányító, felügyelő vagy vezető miniszternél az intézkedés előírását.
 
-22. Ha a késedelem jelentős nemzetbiztonsági sérelemmel járhat, a TKB közvetlenül kezdeményezheti az 1. pontban meghatározott valamelyik szerv intézkedését, a szervet irányító miniszter egyidejű értesítése mellett.
+22.[^6] Ha a késedelem jelentős nemzetbiztonsági sérelemmel járhat, a TKB közvetlenül kezdeményezheti az 1. pontban meghatározott valamelyik szerv intézkedését, a szervet irányító, felügyelő vagy vezető miniszter egyidejű értesítése mellett.
 
 23. A TKB Magyarország terrorfenyegetettségéről, a hozzá eljuttatott információkról és az annak alapján megtett intézkedésekről a belügyminiszter útján tájékoztatja a Nemzetbiztonsági Kabinetet.
 
@@ -122,7 +124,17 @@ d) a végrehajtott intézkedések hatását.
 
 31. A TEK az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével a TEK által működtetett BM ügyelet (a továbbiakban: BM ügyelet) útján értesti a TKB állandó tagjait.
 
-32. A BM ügyelet az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével soron kívül tájékoztatja a kormányügyeleti rendszer létrehozásáról szóló kormányhatározat (a továbbiakban: Korm. határozat) alapján a tájékoztatási körébe tartozó vezetőket, a jelentési rendszerbe tartozó minisztériumokat a biztonsági ügyeleteik útján, valamint a belügyminiszter irányítása alá tartozó szerveket, illetve az irányítási jogkörébe nem tartozó, a Korm. határozat hatálya alá tartozó szerveket.
+32.[^7] A BM ügyelet az elrendelt, módosított vagy megszüntetett fokozatról a fokozat számának és illetékességi területének megjelölésével soron kívül tájékoztatja
+
+a) a kormányügyeleti rendszer létrehozásáról szóló 1324/2011. (IX. 22.) Korm. határozat (a továbbiakban: Korm. határozat) alapján a tájékoztatási körébe tartozó vezetőket,
+
+b) a jelentési rendszerbe tartozó minisztériumokat a biztonsági ügyeleteik útján,
+
+c) a belügyminiszter irányítása alá tartozó szerveket,
+
+d) a belügyminiszter irányítása alá nem tartozó, a Korm. határozat hatálya alá tartozó szerveket, valamint
+
+e) az Országos Atomenergia Hivatalt.
 
 33. A BM ügyelet haladéktalanul megkezdi a TKB állandó tagjainak értesítését, valamint a Korm. határozat hatálya alá tartozó szervek vezetőinek tájékoztatását, amely szervek a fokozat elrendelését, módosítását vagy megszüntetését követően soron kívül intézkednek az elrendelt feladatok végrehajtásáról.
 
@@ -144,11 +156,11 @@ d) a tájékoztatás eszközeit, illetve módját.
 
 9. A terrorizmus elleni küzdelemre való felkészülés, a fokozatok tervezési feladatai
 
-37. A fokozatokhoz rendelt feladatok végrehajtását az 1. pont b)–m) alpontjában meghatározott szervek fokozatonként külön tervezik meg (a továbbiakban: egyedi intézkedési terv) a Nemzetbiztonsági Kabinet által meghatározott követelményrendszer alapján.
+37.[^8] A fokozatokhoz rendelt feladatok végrehajtását az 1. pont b)–n) alpontjában meghatározott szervek fokozatonként külön tervezik meg (a továbbiakban: egyedi intézkedési terv) a Nemzetbiztonsági Kabinet által meghatározott követelményrendszer alapján.
 
 38. Az egyedi intézkedési tervnek biztosítani kell bármely fokozat elrendelésétől számított legrövidebb időn belül az adott fokozatban előírt feladatok végrehajtásához, a rendszer folyamatos működésének fenntartásához szükséges feltételeket.
 
-39. Az egyedi intézkedési tervet az 1. pont b)–m) alpontjában meghatározott szervek vezetői hagyják jóvá.
+39.[^9] Az egyedi intézkedési tervet az 1. pont b)–n) alpontjában meghatározott szervek vezetői hagyják jóvá.
 
 40. A jóváhagyott egyedi intézkedési terveket minden év január 30-ig, az egyes fokozatok elrendelése esetén pedig a fokozatokra az egyedi intézkedési tervben meghatározott időpontig kell a Nemzetbiztonsági Kabinet által meghatározott tartalom szerint aktualizálni és pontosítani.
 
@@ -166,38 +178,31 @@ d) a tájékoztatás eszközeit, illetve módját.
 
 12. Átmeneti rendelkezések
 
-45. A Kormány elrendeli a terrorizmus elleni küzdelem aktuális feladatairól szóló 2112/2004. (V. 7.) Korm. határozat I. számú mellékletében foglalt Terrorizmus Elleni Nemzeti Akcióterv felülvizsgálatát, valamint felkéri a legfőbb ügyészt az ebben való közreműködésre.
+45.[^10] A terrorizmus elleni küzdelem feladatainak egységes végrehajtási rendjéről szóló 1824/2015. (XI. 19.) Korm. határozat módosításáról szóló 1075/2020. (III. 5.) Korm. határozat hatálybalépését követő 90 napon belül az 1. pont n) alpontjában meghatározott szerv elkészíti és a TKB részére megküldi a 37. pont szerinti egyedi intézkedési tervet.
 
-Felelős: belügyminiszter
+46.[^11]
 
-érintett miniszterek
+47.[^12]
 
-Határidő: a határozat hatálybalépését követő 45 napon belül
-
-46. A TKB előkészíti az egyedi intézkedési tervek elkészítésének főbb tartalmi követelményeit és arról – a Nemzetbiztonsági Kabinet döntését követően – az 1. pont b)–m) alpontjában meghatározott szerveket tájékoztatja.
-
-Felelős: TKB
-
-Határidő: a határozat hatálybalépését követő 45 napon belül
-
-47. Az 1. pont b)–m) alpontjában meghatározott szervek, a 46. pont szerint meghatározott tartalmi követelmények figyelembevételével egyedi intézkedési tervet készítenek és azt megküldik a TKB-nak.
-
-Felelős: 1. pont b)–m) alpontjában meghatározott szervek
-
-Határidő: a határozat hatálybalépését követő 90 napon belül
-
-48. A TKB az 1. pont b)–m) alpontjában meghatározott szervek egyedi intézkedési terveinek figyelembevételével központi intézkedési tervet készít elő.
-
-Felelős: TKB
-
-Határidő: a határozat hatálybalépését követő 120 napon belül
+48.[^13]
 
 13. Záró rendelkezések
 
 49. Ez a határozat a közzétételét követő napon lép hatályba.
 
-50.[^3]
+50.[^14]
 
 [^1]: Az 1. pont k) alpontja az 1853/2016. (XII. 27.) Korm. határozat 60. pont a) alpontjával megállapított szöveg.
 [^2]: Az 1. pont l) alpontja az 1405/2019. (VII. 8.) Korm. határozat 6. pontjával megállapított szöveg.
-[^3]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont m) alpontja az 1075/2020. (III. 5.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont n) alpontja az 1075/2020. (III. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. pont o) alpontját az 1075/2020. (III. 5.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 22. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^7]: A 32. pont az 1075/2020. (III. 5.) Korm. határozat 3. pontjával megállapított szöveg.
+[^8]: A 37. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^9]: A 39. pont az 1075/2020. (III. 5.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^10]: A 45. pont az 1075/2020. (III. 5.) Korm. határozat 4. pontjával megállapított szöveg.
+[^11]: A 46. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
+[^12]: A 47. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
+[^13]: A 48. pontot az 1075/2020. (III. 5.) Korm. határozat 6. pont b) alpontja hatályon kívül helyezte.
+[^14]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
