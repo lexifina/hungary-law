@@ -26,7 +26,7 @@
 
 ## Határidő: 2020. április 30.
 
-## 2. A Mezőszilasi Németh László Általános Iskola tornaterem építéséről szóló 1775/2019. (XII. 23.) Korm. határozat 1. pontjában a „452/60 helyrajzi számú” szövegrész helyébe a „452/6 helyrajzi számú” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1080/2020. (III. 5.) Korm. határozathoz
 
@@ -83,3 +83,5 @@
 |  |  | egyéb: |  | azonnal |  | 399 536 581 | 399 536 581 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
