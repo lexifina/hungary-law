@@ -14,7 +14,7 @@ d) megvizsgálja az érintett szervezet beszerzési tervét, költségkeretterv�
 
 e) központi beszerző szervként lebonyolítja az e rendeletben meghatározott keretek között az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzéseit, valamint
 
-f) az érintett szervezettel kötött megállapodás alapján projektmenedzsment feladatokat lát el az általa lefolytatott beszerzési eljárások eredményeként megkötött szerződések megvalósításában.
+f)[^2] az érintett szervezettel kötött megállapodás alapján projektmenedzsment feladatokat lát el az általa vagy az érintett szervezet által az e rendelet szerinti védelmi és biztonsági feladatokkal összefüggő beszerzésére kötött, valamint a 15. § (1) bekezdésében meghatározott kezdőnapon folyamatban lévő beszerzési és közbeszerzési eljárások eredményeként megkötött visszterhes szerződések megvalósításában.
 
 (3) A (2) bekezdésében meghatározott feladatkörében a VBÜ
 
@@ -37,3 +37,5 @@ b) a védelmi és biztonsági feladatokkal összefüggő beszerzés vonatkozás�
 (6) Ha a (2) bekezdés b) pontja szerinti ellenőrzés során a VBÜ halasztást nem tűrő intézkedést igénylő tényt vagy körülményt tapasztal, erről a VBÜ a Nemzetbiztonsági Kabinet elnökét legkésőbb a következő munkanapon tájékoztatja.
 
 (7) A (2) bekezdés b) pontja alapján lefolytatott ellenőrzésről a Nemzetbiztonsági Kabinet elnöke a Kormányt annak a következő ülésén tájékoztatja.
+
+[^2]: A 3. § (2) bekezdés f) pontja a 33/2020. (III. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
