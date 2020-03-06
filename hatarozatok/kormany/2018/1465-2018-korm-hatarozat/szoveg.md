@@ -10,7 +10,9 @@ c) a Debrecen Megyei Jogú Város Önkormányzata által megalkotott fejlesztés
 
 d) a debreceni innovációs és tudományos környezet, illetve science park koncepciójának kidolgozását és megvalósítását,
 
-e) a központ gazdasági környezetének fejlesztését elősegítő határon túli, valamint nemzetközi kapcsolatok élénkítését.
+e) a központ gazdasági környezetének fejlesztését elősegítő határon túli, valamint nemzetközi kapcsolatok élénkítését,
+
+f)[^2] Északkelet-Magyarország nemzeti, gazdasági és kulturális övezetének fejlesztési programjának kidolgozását és végrehajtását.
 
 3. A kormánybiztos tevékenységét a miniszterelnök irányítja.
 
@@ -19,3 +21,5 @@ e) a központ gazdasági környezetének fejlesztését elősegítő határon t�
 5. A kormánybiztos e tevékenységére tekintettel díjazásra, juttatásra nem jogosult.
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 2. pont f) alpontját az 1072/2020. (III. 5.) Korm. határozat 14. pontja iktatta be.
