@@ -1,1 +1,3 @@
-## „b) a tervezett beszerzésre vonatkozó igényét az igény felmerülését követő 5 munkanapon belül, valamint”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (1) bekezdése alapján hatályát vesztette.
