@@ -1,4 +1,4 @@
-12/B. §[^11] (1) Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget.
+12/B. §[^13] (1) Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget.
 
 (2) A működési eredmény mértékét
 
@@ -20,4 +20,4 @@ d) a közönség kulturális örökséghez való hozzáférésének javítását
 
 e) a kulturális projektek és tevékenységek, együttműködési és csereprogramok, valamint ösztöndíjak költsége (pl. a kiválasztási eljárással kapcsolatos marketing és a projekt eredményeként közvetlenül felmerülő költség).
 
-[^11]: A 12/B. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
+[^13]: A 12/B. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.

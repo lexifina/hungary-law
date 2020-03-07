@@ -1,8 +1,8 @@
-## 15. §[^17] E rendelet 1. mellékletében foglalt táblázat F:9 és F:11 mezői a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 13. cikkének való megfelelést szolgálják.
+## 15. §[^19] E rendelet 1. mellékletében foglalt táblázat F:9 és F:11 mezői a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 13. cikkének való megfelelést szolgálják.
 
-1. melléklet a 10/2015. (V. 29.) IM rendelethez[^18]
+1. melléklet a 10/2015. (V. 29.) IM rendelethez[^20]
 
-| X. Igazságügyi Minisztérium 2019. évi fejezeti kezelésű előirányzatainak feladatterve |
+| X. Igazságügyi Minisztérium 2020. évi fejezeti kezelésű előirányzatainak feladatterve |
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -36,7 +36,7 @@
 
 | 12a | 351795 |  |  | Magán- és egyéb jogi személyek kártérítése | Az előirányzat az igazságügyi miniszter feladatkörébe tartozó, az Emberi Jogok Európai Bírósága által hozott ítéletek, illetve határozatok alapján az államot terhelő fizetési kötelezettségek megtérítésével kapcsolatos kifizetések, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény szerinti alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás, illetve a kártalanításból történő – törvény szerinti – kielégítések megfizetésére, valamint az ezekkel összefüggő banki, kincstári díjak, jutalékok, költségek és postaköltség fedezetére szolgál. | természetes személyek, jogi személyek | - | - | közvetlen kifizetés | – | – | – | – | – |
 
-| 12b | 375928 |  |  | A közigazgatási bírósági szervezet létrehozásának és működésének előkészítésével kapcsolatos kiadások támogatása | Az előirányzat a közigazgatási bírósági szervezetrendszer létrehozásának és működésének előkészítésével kapcsolatosan felmerülő kiadások támogatására szolgál, így különösen a) az Esztergom belterület 16236 helyrajzi számú ingatlanon megvalósuló infrastruktúra fejlesztés előkészítésével és megvalósításával, valamint a Déli Kanonoksor épületének közcélú hasznosítás érdekében történő felújításával kapcsolatos kiadások, b) a közigazgatási bíráskodás önálló szervezeti keretek közötti működtetését elősegítő informatikai beruházásokkal összefüggő kiadások, valamint c) a regionális bírósági szervezetrendszer elhelyezésével, működtetésével összefüggő költségek kifizetésére fordítható. | költségvetési szerv, gazdálkodó szervezet, államháztartáson belüli szervezet, államháztartáson kívüli jogi személy | egyedi döntéssel | előleg biztosítható | előirányzat- átcsoportosítással vagy szerződésben foglaltak szerint | – | az Ávr. 84. § (2) bekez- dése szerint | – | – | – |
+| 12b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 12c | 263067 |  |  | EU utazási költségtérítések | Az előirányzat az Európai Unió tanácsi ülésein való részvétellel kapcsolatban felmerülő utazási költségek egy részének megtérítésére szolgál a Magyarország számára évente előre rögzített összeg erejéig. | költségvetési szerv | – | – | egyösszegű kifizetéssel, részletekben történő kifizetéssel | – | – | – | – | – |
 
@@ -46,5 +46,5 @@
 
 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^17]: A 15. §-t a 36/2015. (XI. 19.) IM rendelet 2. §-a iktatta be.
-[^18]: Az 1. melléklet a 36/2015. (XI. 19.) IM rendelet 3. §-a, a 4/2016. (III. 3.) IM rendelet 1–2. §-a, a 20/2016. (IX. 20.) IM rendelet 1. §-a, a 26/2016. (XII. 27.) IM rendelet 21. §-a, a 8/2018. (VI. 4.) IM rendelet 9–10. §-a, a 28/2018. (XI. 15.) IM rendelet 2. §-a, a 9/2019. (IV. 4.) IM rendelet 1–2. §-a, a 36/2019. (XII. 30.) IM rendelet 2. §-a szerint módosított szöveg.
+[^19]: A 15. §-t a 36/2015. (XI. 19.) IM rendelet 2. §-a iktatta be.
+[^20]: Az 1. melléklet a 36/2015. (XI. 19.) IM rendelet 3. §-a, a 4/2016. (III. 3.) IM rendelet 1–2. §-a, a 20/2016. (IX. 20.) IM rendelet 1. §-a, a 26/2016. (XII. 27.) IM rendelet 21. §-a, a 8/2018. (VI. 4.) IM rendelet 9–10. §-a, a 28/2018. (XI. 15.) IM rendelet 2. §-a, a 9/2019. (IV. 4.) IM rendelet 1–2. §-a, a 36/2019. (XII. 30.) IM rendelet 2. §-a, a 2/2020. (III. 6.) IM rendelet 2. és 3. §-a szerint módosított szöveg.
