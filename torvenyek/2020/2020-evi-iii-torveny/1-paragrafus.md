@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a polgári légi közlekedés szabályairól szóló EKLT-megállapodás I. mellékletének felváltásáról szóló EKLT vegyes bizottság 1/2019 határozatát (a továbbiakban: EKLT vegyes bizottság 1/2019 határozata) e törvénnyel kihirdeti.

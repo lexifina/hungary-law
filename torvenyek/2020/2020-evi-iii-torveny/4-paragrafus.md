@@ -1,0 +1,3 @@
+4. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+
+(2) Az Európai Közösség és tagállamai és az Albán Köztársaság, a Bolgár Köztársaság, Bosznia és Hercegovina, az Egyesült Nemzetek Ideiglenes Koszovói Közigazgatási Missziója, a Horvát Köztársaság, az Izlandi Köztársaság, Macedónia Volt Jugoszláv Köztársaság, a Montenegrói Köztársaság, a Norvég Királyság, Románia és a Szerb Köztársaság között európai közös légtér létrehozásáról szóló többoldalú megállapodásnak az EKLT vegyes bizottság 1/2019 határozatával egységes szerkezetbe foglalt, hiteles magyar nyelvű szövegének közzétételéről a miniszter gondoskodik.
