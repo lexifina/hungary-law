@@ -6,13 +6,11 @@ Az Alkotmánybíróságon három öttagú állandó tanács működik.
 
 Az 1. öttagú tanács tagjai:
 
-Dr. Balsai István tanácsvezető alkotmánybíró,
+Dr. Juhász Imre tanácsvezető alkotmánybíró,
 
 Dr. Czine Ágnes alkotmánybíró,
 
 Dr. Horváth Attila alkotmánybíró,
-
-Dr. Juhász Imre alkotmánybíró,
 
 Dr. Sulyok Tamás alkotmánybíró.
 
@@ -46,5 +44,5 @@ Dr. Szalay Péter alkotmánybíró.
 
 Alkotmánybírósági ügyszám: XVIII/1452/2019.
 
-[^1]: A 2. pont az 1001/2020. (I. 23.) AB Tü. határozat 1. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1001/2020. (I. 23.) AB Tü. határozat 1. pontja, az 1002/2020. (III. 6.) AB Tü. hattározat 1. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
