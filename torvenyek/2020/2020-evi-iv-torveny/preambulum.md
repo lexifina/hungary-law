@@ -1,0 +1,1 @@
+Az Országgyűlés a bűncselekmények áldozatai érdekeinek érvényesítésére, szem előtt tartva az ember sérthetetlen és elidegeníthetetlen alapvető jogait, valamint a társadalom igazságérzetét, a következő törvényt alkotja:

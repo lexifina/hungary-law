@@ -1,0 +1,1 @@
+2. § Az Országgyűlés felhívja a Kormányt, hogy a börtönzsúfoltság megszüntetése érdekében 2020. szeptember 30-áig biztosítsa, hogy a büntetés-végrehajtási intézetek átlagos kihasználtsága ne haladja meg a teljes (száz százalékos) kihasználtságot.

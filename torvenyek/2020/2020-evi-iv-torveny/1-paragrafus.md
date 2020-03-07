@@ -1,0 +1,1 @@
+1. § Az Országgyűlés felhívja a Kormányt, hogy a nemzeti konzultáció eredménye alapján a bűncselekményekből származó károk enyhítéséről szóló és a bűncselekmények áldozatainak érdekeit érvényre juttató új szabályozási rendszert dolgozzon ki 2020. május 15-éig.
