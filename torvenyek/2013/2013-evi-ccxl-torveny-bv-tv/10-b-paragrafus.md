@@ -8,7 +8,11 @@
 
 (5) A kifizetés
 
-a) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a megjelölt számlaszámra utalással, illetve ha fogva van – kérelmére – letéti számlájára való átutalással,
+a) az alapvető jogokat sértő elhelyezési körülmények tárgyában hozott határozat alapján az elítélt vagy egyéb jogcímen fogvatartott részére
+
+aa) – ha fogva van – a büntetés-végrehajtási intézet által kezelt letéti számlájára való átutalással,
+
+ab) szabadlábra helyezését követően kizárólag olyan fizetési számlára való átutalással, amelynek számlatulajdonosa és a számla feletti kizárólagos rendelkezési jogosultja az elítélt vagy egyéb jogcímen fogvatartott,
 
 b) a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának a megjelölt számlaszámra utalással vagy készpénzben
 
