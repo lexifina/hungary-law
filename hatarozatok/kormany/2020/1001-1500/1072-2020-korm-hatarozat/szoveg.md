@@ -48,8 +48,6 @@ Felelős: az 5. pontban meghatározott miniszterek
 
 Határidő: e határozat hatálybalépésétől számított egy hónapon belül
 
-14. A debreceni autóipari központ, illetve környezete gazdasági, oktatási és kulturális fenntartható fejlődéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1465/2018. (IX. 25.) Korm. határozat 2. pontja a következő f) alponttal egészül ki:
+14.[^2]
 
-(A kormánybiztos az 1. pont szerinti feladatkörében koordinálja:)
-
-„f) Északkelet-Magyarország nemzeti, gazdasági és kulturális övezetének fejlesztési programjának kidolgozását és végrehajtását.”
+[^2]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
