@@ -1,4 +1,4 @@
-35. § (1)[^84] Ha a bölcsődei ellátást nyújtó intézmény, szolgáltató sajátos nevelési igényű, illetve gyógypedagógiai tanácsadásra, korai fejlesztésre és gondozásra (a továbbiakban: korai fejlesztésre és gondozásra) jogosult gyermek napközbeni ellátását biztosítja, a gyermek bölcsődei nevelésének, gondozásának megkezdését követő legalább három hónap elteltével
+35. § (1)[^89] Ha a bölcsődei ellátást nyújtó intézmény, szolgáltató sajátos nevelési igényű, illetve gyógypedagógiai tanácsadásra, korai fejlesztésre és gondozásra (a továbbiakban: korai fejlesztésre és gondozásra) jogosult gyermek napközbeni ellátását biztosítja, a gyermek bölcsődei nevelésének, gondozásának megkezdését követő legalább három hónap elteltével
 
 a) bölcsődében és mini bölcsődében – az intézmény orvosának, gyógypedagógusának, kisgyermeknevelőjének, valamint a család- és gyermekjóléti központ munkatársának a véleménye alapján – az intézmény vezetője a szülővel együtt,
 
@@ -6,11 +6,11 @@ b) munkahelyi bölcsődében és családi bölcsődében a gyermek orvosa, a csa
 
 értékeli a gyermek beilleszkedését, és dönt a gyermek további neveléséről, gondozásáról.
 
-(2)[^85] Ha a bölcsődei ellátást nyújtó intézmény, szolgáltató sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását ellátó, területileg illetékes pedagógiai szakszolgálati intézménnyel.
+(2)[^90] Ha a bölcsődei ellátást nyújtó intézmény, szolgáltató sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását ellátó, területileg illetékes pedagógiai szakszolgálati intézménnyel.
 
-(3)[^86] A sajátos nevelési igényű, illetve a korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátás keretében való nevelése, gondozása történhet
+(3)[^91] A sajátos nevelési igényű, illetve a korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátás keretében való nevelése, gondozása történhet
 
-a)[^87] a nem sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra nem jogosult gyermekekkel közös csoportban, vagy
+a)[^92] a nem sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra nem jogosult gyermekekkel közös csoportban, vagy
 
 b) speciális bölcsődei csoportban.
 
@@ -22,13 +22,13 @@ b) családi bölcsőde esetén legfeljebb kettő gyermeket
 
 nevelhet, gondozhat.
 
-(5)[^88] A sajátos nevelési igényű, illetve a korai fejlesztésre és gondozásra jogosult gyermekek szükségleteihez igazodóan a (4) bekezdésben foglaltnál kevesebb számban is meghatározható az egy kisgyermeknevelő, szolgáltatást nyújtó személy által nevelhető, gondozható gyermekek száma.
+(5)[^93] A sajátos nevelési igényű, illetve a korai fejlesztésre és gondozásra jogosult gyermekek szükségleteihez igazodóan a (4) bekezdésben foglaltnál kevesebb számban is meghatározható az egy kisgyermeknevelő, szolgáltatást nyújtó személy által nevelhető, gondozható gyermekek száma.
 
-(6)[^89] Ha a bölcsődei nevelési év közben állapítják meg a gyermek sajátos nevelési igényét, illetve korai fejlesztésre és gondozásra jogosultságát, a bölcsődei ellátás egyes formáinál az e rendeletben meghatározott sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermekek ellátására vonatkozó csoportlétszám legfeljebb a bölcsődei nevelési év végéig túlléphető.
+(6)[^94] Ha a bölcsődei nevelési év közben állapítják meg a gyermek sajátos nevelési igényét, illetve korai fejlesztésre és gondozásra jogosultságát, a bölcsődei ellátás egyes formáinál az e rendeletben meghatározott sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermekek ellátására vonatkozó csoportlétszám legfeljebb a bölcsődei nevelési év végéig túlléphető.
 
-[^84]: A 35. § (1) bekezdés nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
-[^85]: A 35. § (2) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja és 7. §-a szerint módosított szöveg.
-[^86]: A 35. § (3) bekezdés nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
-[^87]: A 35. § (3) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § d) pontja szerint módosított szöveg.
-[^88]: A 35. § (5) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
-[^89]: A 35. § (6) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) és e) pontja szerint módosított szöveg.
+[^89]: A 35. § (1) bekezdés nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^90]: A 35. § (2) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja és 7. §-a szerint módosított szöveg.
+[^91]: A 35. § (3) bekezdés nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^92]: A 35. § (3) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § d) pontja szerint módosított szöveg.
+[^93]: A 35. § (5) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^94]: A 35. § (6) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) és e) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás[^490]
+## Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás[^502]
 
 155/B. § (1) A szakszolgálat a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást a szakmai programjában meghatározott szakmai egység működtetésével biztosítja, amelynek feladata az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermek áldozatok (a továbbiakban ezen alcímben együtt: bántalmazott gyermekek) vizsgálata és terápiája, valamint – hivatalos szerv megkeresése alapján – meghallgatása.
 
@@ -16,4 +16,4 @@ c) a feladatellátásra külső szakembereket kérhet fel.
 
 (5) A szakszolgálat a bántalmazott gyermekek vizsgálatára, terápiájára és meghallgatására irányuló szolgáltatását térítésmentesen nyújtja.
 
-[^490]: Az „Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás” alcímet (155/B. §) a 4/2019. (II. 27.) EMMI rendelet 6. §-a iktatta be.
+[^502]: Az „Az elhanyagolt és bántalmazott, különösen a szexuálisan bántalmazott gyermekek vizsgálatát és terápiáját végző szolgáltatás” alcímet (155/B. §) a 4/2019. (II. 27.) EMMI rendelet 6. §-a iktatta be.

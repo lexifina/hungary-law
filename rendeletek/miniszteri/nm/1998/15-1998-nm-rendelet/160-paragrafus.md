@@ -1,7 +1,7 @@
-## 159. §[^502] A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosításáról szóló 58/2011. (X. 21.) NEFMI rendelet (a továbbiakban: Mr.) hatálybalépésekor[^503] már működő gyermekjóléti, gyermekvédelmi szolgáltatónak, intézménynek a 4/A. § szerinti tartalmú szakmai programot a működési engedélynek az Mr. hatálybalépését követő első módosítása során kell elkészíteni és benyújtani a működést engedélyező szervnek.
+## 159. §[^514] A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet módosításáról szóló 58/2011. (X. 21.) NEFMI rendelet (a továbbiakban: Mr.) hatálybalépésekor[^515] már működő gyermekjóléti, gyermekvédelmi szolgáltatónak, intézménynek a 4/A. § szerinti tartalmú szakmai programot a működési engedélynek az Mr. hatálybalépését követő első módosítása során kell elkészíteni és benyújtani a működést engedélyező szervnek.
 
-160. §[^504]
+160. §[^516]
 
-[^502]: A 159. §-t a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 6. pontja hatályon kívül helyezte, újonnan az 58/2011. (X. 21.) NEFMI rendelet 4. §-a iktatta be.
-[^503]: A hatálybalépés időpontja: 2011. október 29.
-[^504]: A 160. §-t a 40/2018. (XII. 4.) EMMI rendelet 24. § b) pontja hatályon kívül helyezte.
+[^514]: A 159. §-t a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 6. pontja hatályon kívül helyezte, újonnan az 58/2011. (X. 21.) NEFMI rendelet 4. §-a iktatta be.
+[^515]: A hatálybalépés időpontja: 2011. október 29.
+[^516]: A 160. §-t a 40/2018. (XII. 4.) EMMI rendelet 24. § b) pontja hatályon kívül helyezte.

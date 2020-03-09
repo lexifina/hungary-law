@@ -1,4 +1,20 @@
-41. § (1) A bölcsődei ellátás keretén belül a nevelés és a gondozás a 10. mellékletben meghatározott Bölcsődei nevelés-gondozás országos alapprogramja alapján folyik.
+41. § (1)[^98] A bölcsődei ellátás keretén belül a nevelés és a gondozás a miniszter által jóváhagyott, a minisztérium és a bölcsődei módszertani szervezet honlapján közzétett Bölcsődei nevelés-gondozás országos alapprogramja alapján folyik. A Bölcsődei nevelés-gondozás országos alapprogramja tartalmazza:
+
+a) a bölcsődei nevelés céljának meghatározását,
+
+b) a bölcsődei nevelés alapelveit,
+
+c) a bölcsődei nevelés feladatait,
+
+d) a bölcsődei nevelés főbb helyzeteit,
+
+e) a bölcsődei nevelés megvalósításának sajátos feltételeit,
+
+f) a családok támogatásának módszereit és lehetőségeit,
+
+g) a bölcsődei ellátást nyújtó intézmény, szolgáltató más szolgáltatásokkal, intézményekkel való együttműködésére vonatkozó elveket,
+
+h) a bölcsődei ellátást nyújtó intézménynek, szolgáltatónak az alapellátáson túli, a családi nevelést támogató szolgáltatásai nyújtására vonatkozó elveket.
 
 (2) A Bölcsődei nevelés-gondozás országos alapprogramja alapján a bölcsődei ellátást biztosító intézmény, szolgáltató helyi szakmai programot készít.
 
@@ -21,3 +37,5 @@ b) a gyermek élettani szükségleteinek és az egészséges táplálkozás köv
 ba) a bölcsődében és a mini bölcsődében az étkeztetést a közétkeztetésre vonatkozó táplálkozás-egészségügyi előírásokról szóló miniszteri rendeletben foglaltaknak megfelelően kell biztosítani,
 
 bb) a saját otthonban nyújtott családi bölcsődei szolgáltatás keretében biztosított étkeztetés családi étkeztetésnek minősül.
+
+[^98]: A 41. § (1) bekezdése a 6/2020. (III. 6.) EMMI rendelet 3. §-ával megállapított szöveg.

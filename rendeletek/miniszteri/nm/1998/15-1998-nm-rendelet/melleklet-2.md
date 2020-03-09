@@ -1,4 +1,4 @@
-## 9K00673M_1
+## 0X01303M_1
 
 | Ellátás | Munkakör/fő |
 
@@ -92,6 +92,234 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^546]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^558]
 
-[^546]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+I. Rész
+
+Képesítési előírások a gyermekjóléti és gyermekvédelmi személyes gondoskodás egyes formáiban vezetői beosztásban dolgozók részére
+
+I. Alapellátások
+
+| Ellátási forma | Vezetői beosztás | Képesítés |
+
+| 1. Család- és gyermekjóléti szolgálat és család- és gyermekjóléti központ | magasabb vezető/vezető | felsőfokú szociális szakképzettség*, okleveles pszichológus, pszichopedagógus, mentálhigiénés szakképzettség**, okleveles szociálpolitikus-közgazdász, szociális menedzser, viselkedéselemző család- és gyermekvédelem szakos pedagógus, család- és gyermekvédő pedagógus, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, igazgatásszervező szociális szakigazgatás-szervező szakirányú szakképzettséggel, szociális igazgatásszervező oklevéllel rendelkező: nevelőtanár, pedagógus szakképzettség***, pedagógiai előadó, gyógypedagógus, védőnő, teológus, jogász, igazgatásszervező, közigazgatás-szervező és szervezetfejlesztő szakember, szociális menedzser oklevéllel rendelkező: pedagógus, védőnő, okleveles pasztorális tanácsadó, szociológus komplex szociális szolgáltatások |
+
+* Felsőfokú szociális szakképzettség: általános szociális munkás, szociális munkás, okleveles szociális munkás, okleveles egészségügyi szociális munkás, szociális szervező, szociálpolitikus, okleveles szociálpolitikus, okleveles szociálpedagógus, szociálpedagógus.
+
+** Mentálhigiénés szakképzettség: felsőfokú végzettség és mentálhigiénés szakképzettség, valamint az alap- vagy mesterképzést követően szerzett szakirányú továbbképzésben szerzett mentálhigiénés szakképzettség.
+
+*** Pedagógus szakképzettség: felsőfokú végzettség és tanító, tanár (közismereti, szakmai, hitéleti), óvodapedagógus, szakoktató szakképzettség, valamint a csecsemő- és kisgyermeknevelő.
+
+| 2. Bölcsőde |  |  |
+
+| A) Bölcsődei igazgatóság/egyesített bölcsődék | magasabb vezető | 1. csecsemő- és kisgyermeknevelő (BA) vagy 2. a) bölcsődei szakgondozó (OKJ), b) csecsemő- és kisgyermekgondozó (OKJ), c) csecsemő- és kisgyermeknevelő-gondozó (OKJ), d) csecsemő- és gyermeknevelő-gondozó (OKJ), e) kisgyermekgondozó, -nevelői (OKJ), f) csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), g) csecsemő- és gyermekgondozói (OKJ) végzettséggel rendelkező: orvos, pszichológus, pedagógus szakképzettségű személy, intézetvezető, szakoktató, védőnő vagy felsőfokú szociális szakképzettségű személy |
+
+| B) Önálló bölcsőde | magasabb vezető | 1. csecsemő- és kisgyermeknevelő (BA) vagy 2. a) bölcsődei szakgondozó (OKJ), b) csecsemő- és kisgyermekgondozó (OKJ), c) csecsemő- és kisgyermeknevelő-gondozó (OKJ), d) csecsemő- és gyermeknevelő-gondozó (OKJ), e) kisgyermekgondozó, -nevelői (OKJ), f) csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), g) csecsemő- és gyermekgondozói (OKJ) végzettséggel rendelkező: intézetvezető, szakoktató, védőnő, felsőfokú szociális szakképzettségű személy vagy pedagógus szakképzettségű személy |
+
+| C) Bölcsőde | vezető | 1. csecsemő- és kisgyermeknevelő (BA) vagy 2. a) bölcsődei szakgondozó (OKJ), b) csecsemő- és kisgyermekgondozó (OKJ), c) csecsemő- és kisgyermeknevelő-gondozó (OKJ), d) csecsemő- és gyermeknevelő-gondozó (OKJ), e) kisgyermekgondozó, -nevelői (OKJ), f) csecsemő- és kisgyermeknevelő asszisztens (FOKSZ) vagy 3. a 2. a)–f) pontja szerinti végzettség valamelyikével rendelkező: intézetvezető, szakoktató, védőnő, felsőfokú szociális szakképzettségű személy vagy pedagógus szakképzettségű személy vagy 4. a csecsemő- és gyermekgondozói végzettséggel rendelkező: intézetvezető, szakoktató, védőnő, felsőfokú szociális szakképzettségű személy vagy pedagógus szakképzettségű személy |
+
+| 3. Helyettes szülői hálózat | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+| 4. Gyermekek átmeneti otthona | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, népművelő, művelődésszervező, kulturális közösségszervező, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember vagy szociális menedzser oklevéllel rendelkező: védőnő, teológus, hittantanár, hittanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+| 5. Családok átmeneti otthona | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, népművelő, művelődésszervező, kulturális közösségszervező védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember vagy szociális menedzser oklevéllel rendelkező: védőnő, teológus, hittantanár, hittanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+II. Szakellátások
+
+| Ellátási forma | Vezetői beosztás | Képesítés |
+
+| 1. Nevelőszülői hálózat | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+| 2. Gyermekotthon | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, népművelő, művelődésszervező, kulturális közösségszervező, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember vagy szociális menedzser oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+| 2/a. Különleges gyermekotthon, speciális gyermekotthon | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség; – speciális gyermekotthonban tanító, tanár, gyógypedagógia-tanár, pedagógiatanár –, pszichológus, orvos vagy mentálhigiénés szakképzettséggel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+| 3. Területi gyermekvédelmi szakszolgálat | magasabb vezető/vezető | felsőfokú szociális szakképzettség, pedagógus – kivéve hittanár, hittantanár – szakképzettség, pszichológus vagy mentálhigiénés szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel, közigazgatás-szervező, szociális menedzser oklevéllel rendelkező: jogász, igazgatásszervező, közigazgatás-szervező, szociológus, közgazdász szociálpolitikai szakon, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember, hittanár, hittantanár |
+
+| Megyei gyermekvédelmi szakértői bizottság | vezető | pszichológus, pszichiáter, gyógypedagógus, gyermekszakorvos, felsőfokú szociális szakképzettség, pedagógus – kivéve hittantanár, hittanár – szakképzettség, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, szociális szakigazgatás-szervező szakirányú szakképzettséggel rendelkező: hittanár, hittantanár |
+
+II. Rész
+
+Képesítési előírások a gyermekjóléti és gyermekvédelmi személyes gondoskodás egyes formáiban dolgozók részére
+
+I. Alapellátások
+
+| Ellátási forma | Intézményi munkakör | Képesítés |
+
+| 1. Család- és gyermekjóléti szolgálat | családsegítő | felsőfokú szociális szakképzettség, okleveles pszichológus, pszichopedagógus, mentálhigiénés szakképzettség, szociológus, felekezeti szociális munkás, viselkedéselemző, közösségi szociális munkás, családterápiás konzultáns, családterapeuta, kognitív- és viselkedésterápiás konzultáns, család- és gyermekvédelem szakos pedagógus, család- és gyermekvédő tanár, család- és gyermekvédő pedagógus, játék- és szabadidő-szervező tanár, addiktológiai konzultáns vagy gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: nevelőtanár, pedagógus, pedagógiai előadó, gyógypedagógus, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember, |
+
+| 1/a. Család- és gyermekjóléti központ | esetmenedzser/szociális diagnózist készítő esetmenedzser | felsőfokú szociális szakképzettség, okleveles pszichológus, pszichopedagógus, mentálhigiénés szakképzettség, gyermekvédelmi pszichopatrónus, viselkedéselemző, szociológus, családterápiás konzultáns, családterapeuta, kognitív- és viselkedésterápiás konzultáns, család- és gyermekvédelem szakos pedagógus vagy gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: nevelőtanár, pedagógus, pedagógiai előadó, okleveles emberi erőforrás tanácsadó, gyógypedagógus, védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember |
+
+|  | tanácsadó | felsőfokú szociális szaképzettség, utcai szociális munka, gyógypedagógus, fejlesztőpedagógus, pedagógus szakképzettség, egészségügyi szociális munkás, okleveles szociálpolitikus-közgazdász, okleveles emberi erőforrás tanácsadó, szociálgerontológus, közösségi szociális munkás, szociológus, igazgatásszervező szociális szakigazgatás-szervező szakirányú szakképzettséggel, közigazgatás-szervező, jogász, teológus, pasztorális tanácsadó, humánerőforrás menedzser, humánszervező, mentálhigiénés szakképzettség, mentálhigiénés családtudományi és családterápiás szakember, ápoló (alapképzés), reflektív addiktológiai szociális segítés, addiktológiai konzultáns, addiktológiai szakpszichológus, jogi szakokleveles családvédelmi tanácsadó, népművelő, művelődésszervező, művelődési menedzser, kulturális közösségszervező, andragógus, okleveles pszichológus, pszichiáter, gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns, pszichopedagógus, családterápiás konzultáns, családterapeuta, kognitív- és viselkedésterápiás konzultáns, viselkedéselemző, társadalmi devianciák, életmód tanácsadó és terapeuta, életút-támogató tanácsadó, munkajogi szakokleveles tanácsadó szupervizor, mediátor, közösségi és családi mediáció, általános és családügyi mediáció, gyermekvédelmi pszicho-patrónus, egészségtan tanár, játék- és szabadidő-szervező tanár vagy gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember, kulturális antropológus |
+
+|  | óvodai és iskolai szociális segítő | felsőfokú szociális szakképzettség, mentálhigiénés szakképzettség, iskolai szociális munkás, család- és gyermekvédő tanár, család- és gyermekvédő pedagógus, család- és gyermekvédelem szakos pedagógus, ennek hiányában gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: nevelőtanár, pedagógus, pedagógiai előadó, pszichopedagógus, okleveles emberi erőforrás tanácsadó, mentálhigiénés szakképzettség, óvodapedagógus, tanító, gyógypedagógus |
+
+|  | szociális asszisztens | szociális asszisztens (OKJ), |
+
+|  |  | pedagógiai asszisztens (OKJ), |
+
+|  |  | pedagógiai és családsegítő munkatárs (OKJ), |
+
+|  |  | gyógypedagógiai segítő munkatárs (OKJ), gyógypedagógiai asszisztens (OKJ), |
+
+|  |  | gyógypedagógiai segítő munkatárs (OKJ), |
+
+|  |  | mentálhigiénés asszisztens (OKJ), |
+
+|  |  | szociális, gyermek- és ifjúságvédelmi ügyintéző (OKJ), |
+
+|  |  | szociális segítő (OKJ), |
+
+|  |  | szociokulturális animátor (OKJ), |
+
+|  |  | foglalkoztatás szervező (OKJ), |
+
+|  |  | pedagógiai és családsegítő munkatárs (OKJ), |
+
+|  |  | ifjúságsegítő (OKJ), |
+
+|  |  | felsőfokú szociális munkás asszisztens, |
+
+|  |  | felsőfokú ifjúságsegítő asszisztens, |
+
+|  |  | gyermek- és ifjúságvédelmi asszisztens |
+
+| 2. Bölcsődei ellátás |  |  |
+
+| 2.1. Bölcsőde | kisgyermeknevelő | csecsemő- és kisgyermeknevelő (BA), |
+
+|  |  | bölcsődei szakgondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő- gondozó (OKJ), |
+
+|  |  | csecsemő- és gyermeknevelő-gondozó (OKJ), |
+
+|  |  | kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), |
+
+|  |  | csecsemő- és gyermekgondozó (OKJ) |
+
+|  |  | vagy ezen képesítések valamelyikével rendelkező: védőnő, szakoktató, pedagógus szakképzettségű személy, felsőfokú szociális szakképzettségű személy vagy gyógypedagógiai asszisztens (OKJ) |
+
+|  |  | – [kizárólag csecsemő- és gyermekgondozó (OKJ) |
+
+|  |  | képesítéssel rendelkező személy esetén] |
+
+|  | bölcsődei dajka | a bölcsődei dajka képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
+
+|  | orvos | orvos |
+
+|  | gyógypedagógus | gyógypedagógus |
+
+|  | gyógytornász | gyógytornász |
+
+|  | konduktor | konduktor |
+
+|  | gyógypedagógiai asszisztens | gyógypedagógiai asszisztens (OKJ) |
+
+|  | szaktanácsadó | 1. csecsemő- és kisgyermeknevelő (BA) |
+
+|  |  | vagy |
+
+|  |  | 2. a) bölcsődei szakgondozó (OKJ), |
+
+|  |  | b) csecsemő- és kisgyermekgondozó (OKJ), |
+
+|  |  | c) csecsemő- és kisgyermeknevelő-gondozó (OKJ), |
+
+|  |  | d) csecsemő- és gyermeknevelő- |
+
+|  |  | gondozó (OKJ), |
+
+|  |  | e) kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | f) csecsemő- és kisgyermeknevelő asszisztens (FOKSZ) |
+
+|  |  | vagy |
+
+|  |  | 3. a 2. pont a)–f) alpontja szerinti végzettség valamelyikével rendelkező: intézetvezető, szakoktató, védőnő, felsőfokú szociális szakképzettségű személy vagy pedagógus szakképzettségű személy vagy |
+
+|  |  | 4. csecsemő- és gyermekgondozói végzettséggel rendelkező: intézetvezető, szakoktató, védőnő, felsőfokú szociális szakképzettségű személy vagy pedagógus szakképzettségű személy |
+
+| 2.2. Mini bölcsőde | kisgyermeknevelő | csecsemő- és kisgyermeknevelő (BA), |
+
+|  |  | bölcsődei szakgondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő- gondozó (OKJ), |
+
+|  |  | csecsemő- és gyermeknevelő-gondozó (OKJ), kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), |
+
+|  |  | csecsemő- és gyermekgondozó (OKJ) |
+
+|  |  | vagy ezen képesítések valamelyikével rendelkező: védőnő, szakoktató, pedagógus szakképzettségű személy, felsőfokú szociális szakképzettségű személy vagy gyógypedagógiai asszisztens (OKJ) |
+
+|  |  | – [kizárólag csecsemő- és gyermekgondozó (OKJ) |
+
+|  |  | képesítéssel rendelkező személy esetén] |
+
+|  | bölcsődei dajka | a bölcsődei dajka képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
+
+| 2.3. Munkahelyi bölcsőde | szolgáltatást nyújtó személy | a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
+
+|  | kisgyermeknevelő (egyéb szakképesítéssel rendelkező személy, a fenntartó döntése alapján létrehozható munkakör) | csecsemő- és kisgyermeknevelő (BA), bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő-gondozó (OKJ), |
+
+|  |  | csecsemő- és gyermeknevelő-gondozó (OKJ), |
+
+|  |  | kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), |
+
+|  |  | csecsemő- és gyermekgondozó (OKJ) |
+
+|  |  | vagy ezen képesítések valamelyikével rendelkező: védőnő, szakoktató, pedagógus szakképzettségű személy, felsőfokú szociális szakképzettségű személy |
+
+| 2.4. Családi bölcsőde | szolgáltatást nyújtó személy | a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
+
+|  | kisgyermeknevelő (egyéb szakképesítéssel rendelkező személy, a fenntartó döntése alapján létrehozható munkakör) | csecsemő- és kisgyermeknevelő (BA), bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő-gondozó (OKJ), |
+
+|  |  | csecsemő- és gyermeknevelő-gondozó (OKJ), |
+
+|  |  | kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), |
+
+|  |  | csecsemő- és gyermekgondozó (OKJ) |
+
+|  |  | vagy ezen képesítések valamelyikével rendelkező: védőnő, szakoktató, pedagógus szakképzettségű személy, felsőfokú szociális szakképzettségű személy |
+
+| 2.5. Családi bölcsőde hálózat | koordinátor | a bölcsődei szolgáltatást nyújó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam vagy |
+
+|  |  | a tanfolyamon túl a fenntartó döntése alapján egyéb szakképesítéssel rendelkező személy: csecsemő- és kisgyermeknevelő (BA), |
+
+|  |  | bölcsődei szakgondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermekgondozó (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő- |
+
+|  |  | gondozó (OKJ), |
+
+|  |  | csecsemő- és gyermeknevelő-gondozó (OKJ), |
+
+|  |  | kisgyermekgondozó, -nevelő (OKJ), |
+
+|  |  | csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), |
+
+|  |  | csecsemő- és gyermekgondozó (OKJ) |
+
+| 3. Napközbeni gyermekfelügyelet | szolgáltatást nyújtó személy | a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
+
+|  | nevelő | felsőfokú szociális szakképzettség, pedagógus |
+
+|  | szakgondozó (hivatásos gondozó) | bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő-gondozó (OKJ), csecsemő- és gyermeknevelő-gondozó (OKJ), kisgyermekgondozó, -nevelő (OKJ), csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), csecsemő- és gyermekápoló (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), gyógypedagógiai asszisztens (OKJ) |
+
+|  | gondozó | csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), pedagógiai asszisztens (OKJ), pedagógiai és családsegítő munkatárs (OKJ), gyógypedagógiai segítő munkatárs (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ) |
+
+|  | segédgondozó | alapfokú iskolai végzettség, dajka (OKJ), óvodai dajka (OKJ) |
+
+| 3.1. Napközbeni gyermekfelügyelet hálózat | koordinátor | a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
+
+[^558]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a szerint módosított szöveg.
