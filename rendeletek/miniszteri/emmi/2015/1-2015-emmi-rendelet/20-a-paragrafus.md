@@ -1,6 +1,6 @@
 ## 20. § A Bv. tv. 350. § (3) bekezdése szerinti javaslat kialakítása érdekében felkért szakértői csoport tagjai a fiatalkorú vizsgálatát összehangoltan végzik el. A szakértői csoport a befogadó csoportban való tartózkodás Bv. tv. 350. § (1) bekezdésében meghatározott időtartamának végső időpontjára figyelemmel közli javaslatát a javítóintézet igazgatójával.
 
-## 10/A. [^14] A javítóintézet igazgatójának intézkedése az együttes elhelyezéssel kapcsolatban
+## 10/A. [^17] A javítóintézet igazgatójának intézkedése az együttes elhelyezéssel kapcsolatban
 
 20/A. § (1) A javítóintézet igazgatója a fiatalkorú és gyermeke együttes elhelyezéséről való döntés meghozatala előtt beszerzi a fiatalkorú gyermekének ügyében eljáró gyámhivatal véleményét arról, hogy az együttes elhelyezés a gyermek érdekét megfelelően szolgálja-e. A véleményben a gyámhivatal adatot szolgáltat arról is, hogy fennáll-e a Bv. tv. 351. § (3) bekezdésében meghatározott, az együttes elhelyezést kizáró valamely ok.
 
@@ -8,7 +8,7 @@
 
 a) együttes elhelyezésének biztosításáról értesíti a fiatalkorú gyermekének ügyében eljáró gyámhivatalt, és – ha arra még nem került sor – kéri a gyámrendelés szükségességének vizsgálatát,
 
-b)[^15] befogadásáról értesíti a letartóztatásról és a gyermek ideiglenes hatályú elhelyezéséről döntést hozó bíróságot, valamint a fiatalkorú gyermekének ügyében eljáró gyámhivatalt,
+b)[^18] befogadásáról értesíti a letartóztatásról és a gyermek ideiglenes hatályú elhelyezéséről döntést hozó bíróságot, valamint a fiatalkorú gyermekének ügyében eljáró gyámhivatalt,
 
 c) együttes elhelyezésének megszüntetésére vonatkozó döntéséről értesíti a fiatalkorú gyermekének ügyében eljáró gyámhivatalt.
 
@@ -18,5 +18,5 @@ c) együttes elhelyezésének megszüntetésére vonatkozó döntéséről érte
 
 (5) A fiatalkorú gyermekének további gondozására a (3) vagy (4) bekezdés szerinti eljárásban hozott döntés alapján jogosult személy kérelmére a javítóintézet – szabad kapacitása terhére – gondoskodhat a gyermeket átvevő személynek és a gyermeknek a tartózkodási helyére történő szállításáról.
 
-[^14]: A 10/A. alcímet (20/A. §) a 4/2018. (I. 23.) EMMI rendelet 1. §-a iktatta be.
-[^15]: A 20/A. § (2) bekezdés b) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § f) pontja szerint módosított szöveg.
+[^17]: A 10/A. alcímet (20/A. §) a 4/2018. (I. 23.) EMMI rendelet 1. §-a iktatta be.
+[^18]: A 20/A. § (2) bekezdés b) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § f) pontja szerint módosított szöveg.

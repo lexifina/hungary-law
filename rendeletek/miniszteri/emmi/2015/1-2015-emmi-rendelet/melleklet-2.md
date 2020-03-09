@@ -28,7 +28,7 @@
 
 | Utógondozó | 1 fő/4 csoport |
 
-| Iskolai tanár, tanító | helyi döntés alapján, feladatoktól függően |
+| Iskolai tanár, tanító | 10 fő/intézmény |
 
 | Szakoktató, munkaoktató | helyi döntés alapján, feladatoktól függően |
 

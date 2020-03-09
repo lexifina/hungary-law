@@ -12,9 +12,9 @@
 
 (4) A fiatalkorú mindaddig nem helyezhető közösségbe, amíg egészségügyi vizsgálata nem történt meg. A fiatalkorút nyilatkoztatni kell betegségéről és rendszeres gyógyszerszedéséről. Közegészségügyi, járványügyi kockázat esetén a fiatalkorú egészségügyi elkülönítéséről kell gondoskodni.
 
-(5)[^5] Ha a fiatalkorún a befogadáskor külsérelmi nyomot észlelnek, vagy a rendőrségi fogdából, büntetés-végrehajtási intézetből vagy másik javítóintézetből átkísért fiatalkorú azt állítja, hogy bántalmazták, haladéktalanul orvosi vizsgálatot kell végezni és orvosi látleletet kell felvenni. Az orvosi vizsgálaton felvett jegyzőkönyv és a látlelet egy példányát az átkísérést végrehajtó szervnek, illetve a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészségnek meg kell küldeni.
+(5)[^8] Ha a fiatalkorún a befogadáskor külsérelmi nyomot észlelnek, vagy a rendőrségi fogdából, büntetés-végrehajtási intézetből vagy másik javítóintézetből átkísért fiatalkorú azt állítja, hogy bántalmazták, haladéktalanul orvosi vizsgálatot kell végezni és orvosi látleletet kell felvenni. Az orvosi vizsgálaton felvett jegyzőkönyv és a látlelet egy példányát az átkísérést végrehajtó szervnek, illetve a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészségnek meg kell küldeni.
 
-(6)[^6] Ha a befogadáskor a javítóintézet igazgatója tudomást szerez arról, hogy a fiatalkorú gyermeke felügyelet nélkül maradt, erről haladéktalanul értesíti a kiskorú lakóhelye szerint illetékes fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) vagy – hivatali időn kívül – az általános rendőrségi feladatokat ellátó rendőri szervet (a továbbiakban: rendőri szerv).
+(6)[^9] Ha a befogadáskor a javítóintézet igazgatója tudomást szerez arról, hogy a fiatalkorú gyermeke felügyelet nélkül maradt, erről haladéktalanul értesíti a kiskorú lakóhelye szerint illetékes fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) vagy – hivatali időn kívül – az általános rendőrségi feladatokat ellátó rendőri szervet (a továbbiakban: rendőri szerv).
 
-[^5]: A 13. § (5) bekezdése a 6/2019. (III. 12.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.
-[^6]: A 13. § (6) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.
+[^8]: A 13. § (5) bekezdése a 6/2019. (III. 12.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.
+[^9]: A 13. § (6) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.

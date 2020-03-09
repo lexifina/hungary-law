@@ -1,6 +1,6 @@
-## 11. [^16] Az együttes elhelyezés során a fiatalkorú gyermeke számára biztosított ellátás tartalma
+## 11. [^19] Az együttes elhelyezés során a fiatalkorú gyermeke számára biztosított ellátás tartalma
 
-21. § (1)[^17] Együttes elhelyezés során a javítóintézet szükség szerint, de legalább félévente tájékoztatja a fiatalkorú gyermekének ügyében eljáró gyámhivatalt a gyermeknek a fiatalkorú általi gondozásának, nevelésének tapasztalatairól.
+21. § (1)[^20] Együttes elhelyezés során a javítóintézet szükség szerint, de legalább félévente tájékoztatja a fiatalkorú gyermekének ügyében eljáró gyámhivatalt a gyermeknek a fiatalkorú általi gondozásának, nevelésének tapasztalatairól.
 
 (2) Együttes elhelyezés esetén a javítóintézet biztosítja
 
@@ -26,5 +26,5 @@ bc) a gyermek ellátásához szükséges biztonságos, célszerű berendezési �
 
 (5) Együttes elhelyezés esetén a fiatalkorú gyermeke számára biztosítani kell a gyermek életkorának megfelelő ellátásához szükséges eszközöket, ruhaneműt, tisztálkodási és testápolási szereket, valamint textíliákat, továbbá gyermekenként három váltás ágyneműt.
 
-[^16]: A 11. alcím címe a 4/2018. (I. 23.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^17]: A 21. § (1) bekezdése a 4/2018. (I. 23.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A 11. alcím címe a 4/2018. (I. 23.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: A 21. § (1) bekezdése a 4/2018. (I. 23.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.

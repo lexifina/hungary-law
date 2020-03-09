@@ -4,9 +4,9 @@
 
 (3) A fiatalkorú ideiglenes és végleges elbocsátásáról és annak időpontjáról a javítóintézet értesíti
 
-a)[^31] a fiatalkorú lakóhelye szerinti gyámhivatalt,
+a)[^34] a fiatalkorú lakóhelye szerinti gyámhivatalt,
 
-b)[^32] a nevelésbe vett fiatalkorú nevelésbe vételét elrendelő gyámhivatalt,
+b)[^35] a nevelésbe vett fiatalkorú nevelésbe vételét elrendelő gyámhivatalt,
 
 c) a fiatalkorú törvényes képviselőjét, és
 
@@ -16,5 +16,5 @@ d) a nevelésbe vett fiatalkorú szülőjét, ha szülői felügyeleti jogát a 
 
 (5) A fiatalkorú végleges elbocsátásáról és annak időpontjáról a javítóintézet értesíti a javítóintézeti nevelést elrendelő bíróságot.
 
-[^31]: A 48. § (3) bekezdés a) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
-[^32]: A 48. § (3) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^34]: A 48. § (3) bekezdés a) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^35]: A 48. § (3) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
