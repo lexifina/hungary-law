@@ -1,0 +1,1 @@
+A Kormány a Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs felállításáról szóló 1012/2020. (I. 31.) Korm. határozat alapján egyetért a koronavírus-járvány kapcsán kialakult helyzetben Magyarország polgárainak védelme érdekében elengedhetetlen intézkedések megtételéhez szükséges forrás biztosításával, ezért
