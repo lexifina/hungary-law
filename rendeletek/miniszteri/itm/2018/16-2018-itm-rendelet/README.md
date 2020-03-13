@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-16-20-7
 | --- | --- | --- |
 | 2018-09-26 | 2018-16-20-7Q.1 | 16/2018. (IX. 11.) ITM rendelet |
 | 2018-09-27 | 2018-16-20-7Q.2 | 2010: CXXX. törvény |
+| 2020-03-13 | 2018-16-20-7Q.3 | 3/2020. (I. 13.) ITM rendelet |
