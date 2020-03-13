@@ -44,6 +44,8 @@
 
 | 22. | Dunaújvárosi Szálloda és Rendezvényközpont | Dunaújváros közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 325/5 és 325/6 helyrajzi számú ingatlanok | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
+| 23. | Vas Megyei Kormányhivatal székhelyeként működő Megyeháza felújítása | Szombathely közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 6271 helyrajzi számú ingatlan | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
+
 2. melléklet a 202/2017. (VII. 10.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
