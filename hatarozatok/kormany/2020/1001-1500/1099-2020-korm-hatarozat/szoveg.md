@@ -24,8 +24,6 @@ a miniszterelnök kabinetfőnöke
 
 Határidő: folyamatos
 
-3. A Kormány visszavonja
+3.[^1]
 
-a) a turisztikai fejlesztések megvalósításához szükséges intézkedésekről szóló 1549/2017. (VIII. 18.) Korm. határozatot,
-
-b) a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 7. pontját.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
