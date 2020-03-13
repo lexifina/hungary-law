@@ -1,27 +1,3 @@
-## Szám: ............................................
+2. melléklet a 25/2017. (X. 18.) EMMI rendelethez[^16]
 
-## TANÚSÍTVÁNY
-
-## Szociális ágazati alap vezetőképzés alapozó képzésének teljesítéséről
-
-## Név:
-
-## Születési név:
-
-## Születési hely:
-
-## Születési idő: ........................... év .................................................. hó .......... nap
-
-## Anyja születési neve:
-
-## a szociális ágazati alap vezetőképzés alapozó képzését elvégezte, és ...................... év .................................................. hó .......... napján .................................................. eredménnyel sikeres vizsgát tett.
-
-## Kelt: .................................................., .......... év ........................................ hónap .......... napján.
-
-## ...........................................
-
-## képzésszervező
-
-## P. H.
-
-2. melléklet a 25/2017. (X. 18.) EMMI rendelethez
+[^16]: A 2. mellékletet a 7/2020. (III. 10.) EMMI rendelet 5. § c) pontja hatályon kívül helyezte.

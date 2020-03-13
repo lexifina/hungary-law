@@ -1,15 +1,7 @@
 18. § (1) A képzésszervező a 15. § (4) bekezdés a)–c) pontja szerinti sikeres vizsgát követő 8 napon belül tanúsítványt állít ki a képzésben részt vevő személy részére.
 
-(2) A tanúsítvány tartalmi és formai követelményeit
-
-a) az alap vezetőképzés alapozó képzése tekintetében az 1. melléklet,
-
-b) az alap vezetőképzés megújító képzése tekintetében a 2. melléklet,
-
-c) a mester vezetőképzés alapozó képzése tekintetében a 3. melléklet,
-
-d) a mester vezetőképzés megújító képzése tekintetében a 4. melléklet
-
-## tartalmazza.
+(2)[^11] A tanúsítványt a miniszter által jóváhagyott és a miniszter által vezetett minisztérium honlapján, valamint a Szociális Ágazati Portálon közzétett formában kell kiállítani.
 
 (3) A képzésszervező az általa kiadott tanúsítványokról nyilvántartást vezet.
+
+[^11]: A 18. § (2) bekezdése a 7/2020. (III. 10.) EMMI rendelet 2. §-ával megállapított szöveg.
