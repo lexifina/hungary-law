@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-26-20-5
 | 2020-01-01 | 2016-26-20-5H.13 | 1/2019. (I. 9.) EMMI rendelet |
 | 2020-01-14 | 2016-26-20-5H.14 | 1/2020. (I. 6.) EMMI rendelet |
 | 2020-02-18 | 2016-26-20-5H.15 | 7/2020. (II. 17.) ITM rendelet |
+| 2020-03-13 | 2016-26-20-5H.16 | 9/2020. (III. 12.) EMMI rendelet |
