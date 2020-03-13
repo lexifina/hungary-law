@@ -1,0 +1,1 @@
+## 3. § Az R. 5. § (1) bekezdésében a „valamint a Művészeti életpálya elismerést” szövegrész helyébe az „a Művészeti életpálya elismerést, valamint az „A Magyar Klasszikus Zene Ifjú Nagykövete” címet” szöveg lép.
