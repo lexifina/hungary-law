@@ -1,4 +1,4 @@
-## 31. §[^66] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 23/2020. (II. 20.) Korm. rendelettel (a továbbiakban: Módr23.) megállapított 3. § (3) bekezdését, 6/F. §-át és a 2. mellékletében foglalt táblázat 35. sorát a Módr23. hatálybalépésekor[^67] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 32. §[^68] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 44/2020. (III. 12.) Korm. rendelettel (a továbbiakban: Módr24.) megállapított 2. mellékletben foglalt táblázat 36. sorát a Módr24. hatálybalépésekor[^69] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^66]: A 31. §-t a 23/2020. (II. 20.) Korm. rendelet 2. §-a iktatta be.
-[^67]: A hatálybalépés időpontja 2020. február 21.
+[^68]: A 32. §-t a 44/2020. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^69]: A hatálybalépés időpontja 2020. március 13.
