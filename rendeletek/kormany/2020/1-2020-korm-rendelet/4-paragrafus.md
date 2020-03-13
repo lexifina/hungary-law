@@ -1,0 +1,3 @@
+4. § (1) A csatlakozóvezeték, a telephelyi vezeték, a felhasználói berendezés kiviteli tervét az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben megállapított, a műszaki biztonsági szabályzatban meghatározott szakterületre tervezési jogosultsággal rendelkező olyan tervező készítheti, aki a Magyar Mérnöki Kamara közhiteles hatósági nyilvántartásában szerepel.
+
+(2) A csatlakozóvezeték, a telephelyi vezeték, a felhasználói berendezés kiviteli terve kivitelezésre való alkalmasságának megítélésére indított eljárásban a Hatóság a döntéshozatal során vizsgálja a kiviteli tervet és a földgázelosztó jogszabályi hivatkozásokkal megindokolt elutasító nyilatkozatát.
