@@ -1,4 +1,4 @@
-22. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^48]
+22. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^50]
 
 Örökségvédelmi hatósági munkakör betöltéséhez szükséges végzettségek és szakképzettségek
 
@@ -8,4 +8,4 @@ b) Régészeti szakterületen: mesterképzésben szerzett régész szakképzetts
 
 c) Műtárgyvédelmi szakterületen: jogász, mesterképzésben szerzett művészettörténész, könyvtáros, levéltáros, néprajzos, történeti muzeológus, restaurátor szakképzettség.
 
-[^48]: A 22. mellékletet a 30/2020. (II. 29.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^50]: A 22. mellékletet a 30/2020. (II. 29.) Korm. rendelet 34. § (2) bekezdése iktatta be.

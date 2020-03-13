@@ -24,7 +24,7 @@ b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt áll
 
 (5) A hatóság ügyintézési határideje – ha a Kötv. vagy e rendelet eltérően nem rendelkezik – huszonöt nap.
 
-(6)[^7] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
+(6)[^7] A Tao tv. 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
 
 (7)[^8] A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
 
@@ -37,6 +37,6 @@ b) jogosult a miniszter nyilvántartási hatósági feladatai körében, a rég�
 [^4]: A 3. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^5]: A 3. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^6]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^7]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be.
 [^9]: A 3. § (8) bekezdését a 30/2020. (II. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.

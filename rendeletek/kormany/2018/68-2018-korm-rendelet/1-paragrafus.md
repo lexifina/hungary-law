@@ -18,8 +18,8 @@ e)[^1] a műemléki érték felderítésével és a védett műemléki érték k
 
 f)[^2] a kulturális javak védelmével kapcsolatos szabályokra, valamint
 
-g)[^3] a kulturális örökségvédelemmel összefüggésben, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott adózás előtti eredmény csökkentéséhez szükséges igazolás szabályaira
+g)[^3] a kulturális örökségvédelemmel összefüggésben, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 7. § (26) bekezdésében meghatározott adózás előtti eredmény csökkentéséhez szükséges igazolás szabályaira
 
 [^1]: Az 1. § e) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § f) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § g) pontját a 190/2018. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § g) pontját a 190/2018. (X. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
