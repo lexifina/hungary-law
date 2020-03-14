@@ -18,7 +18,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „60,97” szövegrész helyébe a „61,87” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1100/2020. (III. 12.) Korm. határozathoz
 
@@ -51,3 +51,5 @@
 | 13. | EFOP-4.1.2-17- 2017-00092 | A csákánydoroszlói Csaba József Általános Iskola infrastrukturális fejlesztése | Szombathelyi Tankerületi Központ | 590 000 000 | 58 599 060 | 102 170 166 | 750 769 226 | A projekt célja a 9919 Csákánydoroszló, Vasút 31. szám alatti köznevelési intézmények infrastrukturális fejlesztése. |
 
 | 14. | EFOP-4.1.2-17- 2017-00126 | Az Őriszentpéteri Általános Iskola infrastrukturális fejlesztése | Szombathelyi Tankerületi Központ | 396 180 063 | 45 385 422 | 148 419 152 | 589 984 637 | A projekt célja a 9941 Őriszentpéter, Kovácsszer 7. szám alatti köznevelési intézmények infrastrukturális fejlesztése. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
