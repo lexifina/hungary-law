@@ -1,1 +1,3 @@
-## 3. § A Korm. rendelet 4. § (3) bekezdésében a „3., 5. és 13.” szövegrész helyébe a „3., 5., 13. és 23.” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

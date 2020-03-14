@@ -1,3 +1,3 @@
-## 1. § A Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) a következő 9. §-sal egészül ki:
+## 1. §[^2]
 
-## „9. § E rendeletnek a Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet módosításáról szóló 43/2020. (III. 12.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését és 1. mellékletében foglalt táblázat 23. sorát a Módr3. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

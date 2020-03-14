@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-43-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-03-13 | 2020-43-20-22.1 | 43/2020. (III. 12.) Korm. rendelet |
+| 2020-03-14 | 2020-43-20-22.2 | 2010: CXXX. törvény |
