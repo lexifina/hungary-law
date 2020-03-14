@@ -1,3 +1,3 @@
-## 2. § Az R. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(2) A tanúsítványt a miniszter által jóváhagyott és a miniszter által vezetett minisztérium honlapján, valamint a Szociális Ágazati Portálon közzétett formában kell kiállítani.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
