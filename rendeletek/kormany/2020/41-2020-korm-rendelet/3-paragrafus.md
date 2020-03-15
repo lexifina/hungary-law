@@ -1,4 +1,4 @@
-3. § (1) Az Olasz Köztársaság, a Kínai Népköztársaság, a Koreai Köztársaság és az Iráni Iszlám Köztársaság területéről érkező magyar állampolgárok
+3. § (1)[^3] A 2. § (1) bekezdés szerinti országok területéről érkező magyar állampolgárok – a 3/A. §-ban meghatározott kivétellel –
 
 a) a Magyarországra való belépés során egészségügyi vizsgálaton esnek át, amely eltűrésére kötelesek,
 
@@ -17,3 +17,5 @@ da) a hatóság előírásainak megfelelően elhagyják Magyarország területé
 db) a kijelölt karanténban kerülnek elhelyezésre.
 
 (2) Az (1) bekezdés c) és d) pontja szerint a hatósági házi karanténban tartózkodók ellátásáról való gondoskodás a települési önkormányzat polgármesterének feladata.
+
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 45/2020. (III. 14.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
