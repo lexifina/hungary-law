@@ -1,4 +1,6 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^204]
+## 44. §[^204] A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendeletben kihirdetett veszélyhelyzet időtartama alatt a szervezett, célzott népegészségügyi szűrővizsgálatok elvégzése a veszélyhelyzet megszűnéséig elhalasztásra kerül.
+
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^205]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6788,12 +6790,5 @@ Nem szükséges.
 
 3.3. Járványügyi megfigyelés:
 
-Azon személyt, aki olyan beteggel, annak légúti váladékával került szoros kontaktusba, aki az esetdefiníció szerint gyanúsíthatóan, valószínűsíthetően vagy igazoltan e súlyos légúti tünetegyüttesben szenved, a beteggel történt utolsó kontaktustól számított 10 napra járványügyi megfigyelés alá kell helyezni. Ezen időszak alatt otthonában kell tartózkodnia, lázát naponta kell mérnie, és jeleznie kell kezelőorvosának, ha egészségi állapotában bármilyen változás áll be.
-
-3.4. Postexpozíciós profilaxis:
-
-Nem szükséges.
-
-3.5. Fertőzőforrás-kutatás:
-
-[^204]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^204]: A 44. §-t a 10/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be.
+[^205]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
