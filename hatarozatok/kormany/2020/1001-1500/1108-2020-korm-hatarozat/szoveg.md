@@ -1,0 +1,1 @@
+A Kormány – a Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény 5. § (2) bekezdése alapján – Vashegyi Györgyöt, a Magyar Művészeti Akadémia elnökét 2020. március 30-i hatállyal a Nemzeti Kulturális Tanács elnökévé nevezi ki.
