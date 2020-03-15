@@ -2,6 +2,9 @@
 
 (2) Az R.-rel megállapított 2. melléklet szerinti pontértékeket az R. hatálybalépését[^47] követően minősített továbbképzésekre kell alkalmazni.
 
+(3)[^48] 2021. december 31. napjáig a 2. § (6) bekezdése szerinti távoktatás formájában tartható meg a kötelező szakmacsoportos továbbképzési tanfolyam abban az esetben is, ha a 4. § (4) bekezdése szerinti továbbképzés szervezési jog nem tartalmazza a távoktatási formát. A 3. § (3) bekezdése szerinti reanimációra vonatkozó továbbképzési elem gyakorlati oktatás nélkül is teljesítettnek minősül.
+
 [^45]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 4/2015. (I. 20.) EMMI rendelet 10. §-a iktatta be.
 [^46]: A hatálybalépés időpontja 2015. január 21.
 [^47]: A hatálybalépés időpontja 2015. január 21.
+[^48]: A 18. § (3) bekezdését a 11/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be.
