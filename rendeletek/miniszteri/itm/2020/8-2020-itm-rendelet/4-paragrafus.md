@@ -1,3 +1,3 @@
-## 3. § Az R. a következő 2/A. §-sal egészül ki:
+## 3. §[^4]
 
-## „2/A. § Az egyes útdíjköteles elemi útszakaszok használatáért fizetendő díj mértékét – a Vhr.-ben meghatározott díj- és környezetvédelmi kategória figyelembevételével – az útdíjköteles elemi útszakaszok 1. mellékletben meghatározott hosszának és az 1–2. §-ban meghatározott alapmérték szorzataként kell meghatározni két tizedes pontossággal.”
+[^4]: A 3. § a 2020: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
