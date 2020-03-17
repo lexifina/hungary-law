@@ -12,7 +12,7 @@ c) – a leszállás nélküli áthaladás esetét kivéve – polgári légijá
 
 ## Magyarország területére – a 3/A. §-ban meghatározott kivétellel – nem léphet be.
 
-(2)[^2] Az (1) bekezdés szerinti országok területéről érkező nem magyar állampolgárok személyforgalomban Magyarország területére a – 3/A. §-ban meghatározott kivétellel – nem léphetnek be.
+(2)[^2] A külföldről érkező nem magyar állampolgárok személyforgalomban Magyarország területére a – 3/A. §-ban meghatározott kivétellel – nem léphetnek be.
 
 [^1]: A 2. § (1) bekezdés nyitó szövegrésze a 45/2020. (III. 14.) Korm. rendelet 6. § a) pontja, záró szövegrésze a 45/2020. (III. 14.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^2]: A 2. § (2) bekezdése a 45/2020. (III. 14.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 45/2020. (III. 14.) Korm. rendelet 6. § c) pontja, a 46/2020. (III. 16.) Korm. rendelet 14. §-a szerint módosított szöveg.

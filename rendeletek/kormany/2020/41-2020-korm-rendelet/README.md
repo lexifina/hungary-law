@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-41-20-2
 | --- | --- | --- |
 | 2020-03-12 | 2020-41-20-22.1 | 41/2020. (III. 11.) Korm. rendelet |
 | 2020-03-15 | 2020-41-20-22.2 | 45/2020. (III. 14.) Korm. rendelet |
+| 2020-03-17 | 2020-41-20-22.3 | 46/2020. (III. 16.) Korm. rendelet |

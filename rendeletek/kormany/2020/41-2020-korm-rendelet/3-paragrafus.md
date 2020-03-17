@@ -18,4 +18,7 @@ db) a kijelölt karanténban kerülnek elhelyezésre.
 
 (2) Az (1) bekezdés c) és d) pontja szerint a hatósági házi karanténban tartózkodók ellátásáról való gondoskodás a települési önkormányzat polgármesterének feladata.
 
+(3)[^4] Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 5. § (3) bekezdése szerint kezelt személyes adatot az adatkezelő – a rendőrség járványügyi hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén a rendőrség részére haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.
+
 [^3]: A 3. § (1) bekezdés nyitó szövegrésze a 45/2020. (III. 14.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdését a 46/2020. (III. 16.) Korm. rendelet 13. §-a iktatta be.
