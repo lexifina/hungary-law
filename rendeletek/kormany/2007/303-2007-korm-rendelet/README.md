@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-303-20-
 | 2014-09-05 | 2007-303-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2007-303-20-22.6 | 345/2014. (XII. 23.) Korm. rendelet |
 | 2019-09-01 | 2007-303-20-22.7 | 204/2019. (VIII. 23.) Korm. rendelet |
+| 2020-03-18 | 2007-303-20-22.8 | 38/2020. (III. 10.) Korm. rendelet |
