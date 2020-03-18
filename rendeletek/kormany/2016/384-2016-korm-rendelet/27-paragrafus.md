@@ -16,11 +16,11 @@ b) a 3. § (8) bekezdésében meghatározott bírósági döntésben szereplő f
 
 ## igazolja.
 
-(2)[^46] Az (1) bekezdés a) pont alapján az árverésen történő részvételhez kiállított hatósági bizonyítvány tartalmazza a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltétel fennállását.
+(2)[^47] Az (1) bekezdés a) pont alapján az árverésen történő részvételhez kiállított hatósági bizonyítvány tartalmazza a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltétel fennállását.
 
 (3) A hatósági bizonyítvány kiadására irányuló kérelemben meg kell jelölni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) bekezdés a) pontja szerinti adatokat, valamint az árverezésre kerülő vagy a bírósági döntés alapján történő tulajdonjog bejegyzéssel érintett föld fekvésének települését és helyrajzi számát, valamint a szerzéssel érintett tulajdoni hányadot.
 
-(4)[^47] A hatósági bizonyítvány kiállítása során a kormányhivatal az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén az automatikus döntéshozatali eljárás szabályai szerint jár el.
+(4)[^48] A hatósági bizonyítvány kiállítása során a kormányhivatal az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén az automatikus döntéshozatali eljárás szabályai szerint jár el.
 
-[^46]: A 27. § (2) bekezdése az 523/2017. (XII. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^47]: A 27. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 592. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^47]: A 27. § (2) bekezdése az 523/2017. (XII. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^48]: A 27. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 592. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

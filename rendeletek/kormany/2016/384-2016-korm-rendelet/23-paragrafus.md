@@ -24,6 +24,8 @@ c) egyesített telekalakítási eljárás esetén az a) pontban meghatározott n
 
 (9)[^40] Ha egyesített telekalakítási eljárás esetén a változásátvezetési eljárásra irányuló kérelem elutasításra kerül, a telekalakítási engedély jogosultja a szükséges okiratok benyújtásával a (4) bekezdésben megjelölt időn belül külön ingatlan-nyilvántartási eljárás megindításával kérheti a földrészlet adataiban történő, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetését.
 
+(10)[^41] A telekalakítási eljárásokban, ha a telekalakítás vasútként nyilvántartott földrészletet érint, akkor a kérelemhez szükséges mellékelni a vasút – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény szerinti – pályahálózat-működtetőjének a hozzájárulását.
+
 [^34]: A 23. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 594. § e) és f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^35]: A 23. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^36]: A 23. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 594. § g) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -31,3 +33,4 @@ c) egyesített telekalakítási eljárás esetén az a) pontban meghatározott n
 [^38]: A 23. § (6) bekezdése a 60/2017. (III. 20.) Korm. rendelet 30. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^39]: A 23. § (7) bekezdését a 60/2017. (III. 20.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.
 [^40]: A 23. § (9) bekezdése a 60/2017. (III. 20.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^41]: A 23. § (10) bekezdését a 38/2020. (III. 10.) Korm. rendelet 18. §-a iktatta be.
