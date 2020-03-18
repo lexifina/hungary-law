@@ -10,11 +10,11 @@
 
 (2) Az építésfelügyeleti hatóság
 
-a)[^328]
+a)[^329]
 
 b) a 62. §-ban foglaltak szerint ellenőrzi vagy ellenőrizheti
 
-ba)[^329] hogy a tervező és a fővállalkozó kivitelező rendelkezik-e a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással,
+ba)[^330] hogy a tervező és a fővállalkozó kivitelező rendelkezik-e a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással,
 
 bb) az építőipari kivitelezési tevékenység folytatását,
 
@@ -22,13 +22,13 @@ bc) azt, hogy az építési folyamat résztvevői rendelkeznek-e a tevékenység
 
 bd) az építőipari kivitelezési dokumentáció meglétét,
 
-be)[^330] az építési napló meglétét, vezetését és annak tartalmát,
+be)[^331] az építési napló meglétét, vezetését és annak tartalmát,
 
 bf) az építtetői fedezetkezelőre vonatkozó előírások betartását.
 
-(3)[^331]
+(3)[^332]
 
-(4)[^332] Az építésfelügyeleti hatóság hatósági ellenőrzés keretében vizsgálja
+(4)[^333] Az építésfelügyeleti hatóság hatósági ellenőrzés keretében vizsgálja
 
 a) az Étv. 48. §-a szerinti szabálytalan tevékenységeket, valamint
 
@@ -36,14 +36,14 @@ b) azon építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű beje
 
 (5) Az építésfelügyeleti hatóság a (4) bekezdésben meghatározott ellenőrzéséhez, a tényállás tisztázásához az ÉMO alkalmazásával adatokat szerezhet be, előzmény iratokat és állapotdokumentumokat vizsgálhat.
 
-(6)[^333] Az építésfelügyeleti hatóság az ellenőrzésbe más – jogszabályban erre felhatalmazott – szervet, szervezetet is bevonhat, az építési helyszín ellenőrzését az építésfelügyelő a bevont szerv, szervezet képviselőjével is lefolytathatja.
+(6)[^334] Az építésfelügyeleti hatóság az ellenőrzésbe más – jogszabályban erre felhatalmazott – szervet, szervezetet is bevonhat, az építési helyszín ellenőrzését az építésfelügyelő a bevont szerv, szervezet képviselőjével is lefolytathatja.
 
-(7)[^334] A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/D. § (1) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
+(7)[^335] A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/D. § (1) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
 
-[^328]: Az 58. § (2) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § o) pontja hatályon kívül helyezte.
-[^329]: Az 58. § (2) bekezdés b) pont ba) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § p) pontja hatályon kívül helyezte, újonnan a 353/2016. (XI. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^330]: Az 58. § (2) bekezdés b) pont be) alpontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
-[^331]: Az 58. § (3) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^332]: Az 58. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^333]: Az 58. § (6) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^334]: A 58. § (7) bekezdése a 13/2019. (II. 11.) Korm. rendelet 18. § 13. pontja szerint módosított szöveg.
+[^329]: Az 58. § (2) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § o) pontja hatályon kívül helyezte.
+[^330]: Az 58. § (2) bekezdés b) pont ba) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § p) pontja hatályon kívül helyezte, újonnan a 353/2016. (XI. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^331]: Az 58. § (2) bekezdés b) pont be) alpontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^332]: Az 58. § (3) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^333]: Az 58. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^334]: Az 58. § (6) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^335]: A 58. § (7) bekezdése a 13/2019. (II. 11.) Korm. rendelet 18. § 13. pontja szerint módosított szöveg.

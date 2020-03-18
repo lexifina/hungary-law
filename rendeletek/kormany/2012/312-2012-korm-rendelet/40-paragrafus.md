@@ -66,7 +66,9 @@ da) a rendeltetésszerű és biztonságos használatot nem veszélyeztető kiseb
 
 db)[^226]
 
-dc)[^227] arról, hogy a használatbavételi engedély véglegessé válását követő hatvan napon belül – amennyiben erre korábban nem került sor – a változás ingatlan-nyilvántartási átvezetése, valamint az OÉNY-ben történő feltüntetés érdekében a megvalósult állapotról a hatályos földhivatali záradékkal ellátott változási vázrajzot kell az OÉNY-be feltölteni.
+dc)[^227] arról, hogy a használatbavételi engedély véglegessé válását követő hatvan napon belül – amennyiben erre korábban nem került sor – a változás ingatlan-nyilvántartási átvezetése, valamint az OÉNY-ben történő feltüntetés érdekében a megvalósult állapotról a hatályos földhivatali záradékkal ellátott változási vázrajzot kell az OÉNY-be feltölteni,
+
+e)[^228] az építési tevékenység rövid leírását, az építmény rendeltetését, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként.
 
 (8) A határozat tájékoztatást tartalmaz arra vonatkozóan, hogy az építtető az építési, illetve bontási tevékenység befejezését követően, a használatbavételi engedély kézhezvételét követő harminc napon belül (de legkésőbb a kikötések teljesítésekor) – jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni az építési tevékenység során ténylegesen keletkezett hulladékról az előírt építési hulladék nyilvántartó lapot, illetve a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania.
 
@@ -90,3 +92,4 @@ dc)[^227] arról, hogy a használatbavételi engedély véglegessé válását k
 [^225]: A 40. § (7) bekezdés d) pont nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
 [^226]: A 40. § (7) bekezdés d) pont db) alpontját a 262/2015. (IX. 14.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^227]: A 40. § (7) bekezdés d) pont dc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 60. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^228]: A 40. § (7) bekezdés e) pontját a 38/2020. (III. 10.) Korm. rendelet 6. §-a iktatta be.
