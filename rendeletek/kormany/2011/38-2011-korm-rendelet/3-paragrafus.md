@@ -20,9 +20,9 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 7. | Elektronikus anyakönyvi nyilvántartás | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | kötelező |
 
-| 8. | Földhasználati nyilvántartás | ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal | teljes adatfeldolgozás | kötelező |
+| 8. | Földhasználati nyilvántartás | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság, továbbá az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal | teljes adatfeldolgozás | kötelező |
 
-| 9. | Az államhatár adatbázisa, az állami nagyméretarányú topográfiai térképi adatbázisok, az állami távérzékelési adatbázisok, a Földrajzinév-tár adatbázis | Budapest Főváros Kormányhivatala | teljes adatfeldolgozás | kötelező |
+| 9. | Az államhatár adatbázisa, az állami nagyméretarányú topográfiai térképi adatbázisok, az állami távérzékelési adatbázisok, a Földrajzinév-tár adatbázis | földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | teljes adatfeldolgozás | kötelező |
 
 | 10. | Az alapponthálózati pontok adatbázisa, az állami földmérési alaptérképi adatbázis, az archív analóg és digitális térképi adatok adatbázisai. | földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | teljes adatfeldolgozás | kötelező |
 
@@ -74,4 +74,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 34. | A magyarországi lakcímmel nem rendelkező választópolgárok levélben benyújtott névjegyzéki kérelmének regisztrációs előfeldolgozását végző informatikai rendszer | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
