@@ -46,23 +46,23 @@ a) a szankció megállapítását megelőzően ellenőrzi az adatállományban r
 
 b)[^50] a figyelmeztetés közlésekor vagy a döntés véglegessé válásakor az adatállományban rögzíti a saját eljárásában alkalmazott, az Étv. 52. § (1) és (2) bekezdése szerinti jogkövetkezmény fajtáját, a szankcionált személy vagy szervezet – rendelkezésre álló – cégnyilvántartási és személyi azonosító adatait.
 
-(6)[^51] A Nyilvántartás, valamint a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a 2. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
+(6)[^51]
 
-(7)[^52] A (6) bekezdés szerinti megkeresés az igényelt adatok megnevezése mellett tartalmazza a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság nyilatkozatát arról, hogy az adatbázisokat és az adatokat kizárólag a Nyilvántartás és a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez használja fel.
+(7)[^52]
 
-(8)[^53] A földmérési és térinformatikai államigazgatási szerv a (6) bekezdés szerinti hiánytalan megkeresés kézhezvételétől számított 15 napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság által biztosított digitális adathordozón adja át a 2. melléklet szerinti legfrissebb EOV rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(8)[^53]
 
-(9)[^54] A (8) bekezdés szerint szolgáltatott adatbázis és adat felhasználásával készült termékeken fel kell tüntetni az adatszolgáltató által megadott adatszolgáltatás sorszámát, valamint azt, hogy az állami alapadatbázisok felhasználásával készült.
+(9)[^54]
 
-(10)[^55] Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (8) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
+(10)[^55]
 
 [^46]: A 6. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 109. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^47]: A 6. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 109. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^48]: A 6. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 109. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^49]: A 6. § (4) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 415. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^50]: A 6. § (5) bekezdés b) pontja a a 457/2017. (XII. 28.) Korm. rendelet 415. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^51]: A 6. § (6) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be.
-[^52]: A 6. § (7) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be.
-[^53]: A 6. § (8) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be.
-[^54]: A 6. § (9) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be.
-[^55]: A 6. § (10) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be.
+[^51]: A 6. § (6) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § a) pontja.
+[^52]: A 6. § (7) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § a) pontja.
+[^53]: A 6. § (8) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § a) pontja.
+[^54]: A 6. § (9) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § a) pontja.
+[^55]: A 6. § (10) bekezdését a 334/217. (XI. 9.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § a) pontja.

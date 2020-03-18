@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-313-20-
 | 2019-12-31 | 2012-313-20-22.15 | 280/2018. (XII. 21.) Korm. rendelet |
 | 2020-01-01 | 2012-313-20-22.16 | 295/2019. (XII. 10.) Korm. rendelet |
 | 2020-03-01 | 2012-313-20-22.17 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-03-18 | 2012-313-20-22.18 | 38/2020. (III. 10.) Korm. rendelet |
