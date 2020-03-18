@@ -4,11 +4,11 @@
 
 | 1. | Adatbázis | Réteg | Attribútum | Formátum | Egyéb |
 
-| 2. | Állami ingatlan-nyilvántartási térképi adatbázis | Földrészlet | településazonosító, fekvés, helyrajzi szám (hrsz.), közterület/nem közterület, szektoradat, tulajdonos típusa (állami/önkormányzati/magán), művelés alól kivett terület esetén megnevezés | SHP shape, poligon | Budapest Főváros Kormányhivatala Téradat-tárházban rendelkezésre álló verzió |
+| 2. | Állami ingatlan-nyilvántartási térképi adatbázis | Földrészlet | településazonosító, fekvés, helyrajzi szám (hrsz.), közterület/nem közterület, szektoradat, tulajdonos típusa (állami/önkormányzati/magán), művelés alól kivett terület esetén megnevezés | SHP shape, poligon | földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság Téradat-tárházban rendelkezésre álló verzió |
 
-| 3. | Állami ingatlan-nyilvántartási térképi adatbázis | Művelési ág | településazonosító, művelési ág, minőségi osztály, AK érték | SHP shape, poligon | Budapest Főváros Kormányhivatala Téradat-tárházban rendelkezésre álló verzió |
+| 3. | Állami ingatlan-nyilvántartási térképi adatbázis | Művelési ág | településazonosító, művelési ág, minőségi osztály, AK érték | SHP shape, poligon | földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság Téradat-tárházban rendelkezésre álló verzió |
 
-| 4. | Állami ingatlan-nyilvántartási térképi adatbázis | Épület | rendeltetés, tulajdonos típusa (állami/önkormányzati/magán) | SHP shape, poligon | Budapest Főváros Kormányhivatala Téradat-tárházban rendelkezésre álló verzió |
+| 4. | Állami ingatlan-nyilvántartási térképi adatbázis | Épület | rendeltetés, tulajdonos típusa (állami/önkormányzati/magán) | SHP shape, poligon | földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság Téradat-tárházban rendelkezésre álló verzió |
 
 | 5. | Az ország 1:10 000 méretarányú digitális szintvonalrajza | Szintvonalak | tengerszint feletti magasság | SHP shape, vonal |  |
 
