@@ -18,7 +18,10 @@ bc) a tervezett rendeltetésváltozás nem felel meg a helyi építési szabály
 
 c) megszünteti az eljárást, ha a kérelem és melléklete nem felel meg a 26/B. § (2) és (3) bekezdésében meghatározott követelményeknek, vagy az eljárás okafogyottá válik.
 
-(2)[^99]
+(2)[^99] A polgármester kérelemre, amennyiben az építmény az országos építésügyi követelményeknek és a helyi építési szabályzatnak megfelel, szükség szerint helyszíni szemle alapján – az ingatlan-nyilvántartásban történő átvezetés céljából – rendeltetést is igazoló hatósági bizonyítványt állít ki arról, hogy az építési engedélyhez, egyszerű bejelentéshez vagy örökségvédelmi bejelentéshez nem kötött, 2012. december 31. után épített építmény felépült.
+
+(3)[^100] A polgármester kérelemre, amennyiben a rendeltetésmódosítás az örökségvédelmi vagy a rendeltetésmódosítási hatóság engedélyéhez nem kötött, és az építmény, az építményen belüli rendeltetési egység az országos építésügyi követelményeknek, valamint a helyi építési szabályzatnak megfelel, – az ingatlan-nyilvántartásban történő átvezetés céljából – hatósági bizonyítványt állít ki az építmény, az építményen belüli rendeltetési egység rendeltetésének megváltoztatásáról.
 
 [^98]: A 26/C. § a 16/2018. (II. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^99]: A 26/C. § (2) bekezdését a 217/2018. (XI. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^99]: A 26/C. § (2) bekezdését a 217/2018. (XI. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte, újonnan a 38/2020. (III. 10.) Korm. rendelet 12. §-a iktatta be.
+[^100]: A 26/C. § (3) bekezdését a 38/2020. (III. 10.) Korm. rendelet 12. §-a iktatta be.

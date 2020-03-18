@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2019-11-27 | 2012-314-20-22.32 | 269/2019. (XI. 19.) Korm. rendelet |
 | 2020-01-01 | 2012-314-20-22.33 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2012-314-20-22.34 | 30/2020. (II. 29.) Korm. rendelet |
+| 2020-03-18 | 2012-314-20-22.35 | 38/2020. (III. 10.) Korm. rendelet |

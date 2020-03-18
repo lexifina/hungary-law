@@ -1,28 +1,28 @@
-## 31/A. [^162] A településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának szabályai
+## 31/A. [^168] A településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának szabályai
 
 43/A. § (1) Az új kézikönyv és településképi rendelet készítése, valamint módosítása során a 28. §-t és 29. §-t, valamint a (2)–(10) bekezdést kell alkalmazni.
 
 (2) A polgármester
 
-a)[^163] a kézikönyv és településképi rendelet készítésének megkezdéséről a 29/A. § (1) vagy (3) bekezdése szerinti helyen tájékoztatja a partnereket,
+a)[^169] a kézikönyv és településképi rendelet készítésének megkezdéséről a 29/A. § (1) vagy (3) bekezdése szerinti helyen tájékoztatja a partnereket,
 
 b) adatszolgáltatási kérelmet küld a 9. mellékletben szereplő azon államigazgatási szerveknek, amelyek adatai szükségesek a kézikönyv kidolgozásához.
 
 (3) A kérelem átvételétől számított 21 napon belül az államigazgatási szerv teljesíti a 9. melléklet szerinti adatszolgáltatási témakörben adatszolgáltatási kötelezettségét, és felhasználásra biztosítja a kézikönyv készítéséhez szükséges adatokat.
 
-(4)[^164] A partnerek a kézikönyv és a településképi rendelet készítésénél a 29/A. § (1) bekezdése vagy (7) bekezdés b) pontja szerint javaslatokat, észrevételeket tehetnek, véleményt nyilváníthatnak.
+(4)[^170] A partnerek a kézikönyv és a településképi rendelet készítésénél a 29/A. § (1) bekezdése vagy (7) bekezdés b) pontja szerint javaslatokat, észrevételeket tehetnek, véleményt nyilváníthatnak.
 
 (5) A kézikönyv a (3) bekezdés szerinti javaslatok, észrevételek figyelembevételével, az önkormányzati főépítész közreműködésével készül.
 
 (6) A polgármester az elkészült
 
-a)[^165] kézikönyv és településképi rendelet tervezetét partnerségi véleményezésre bocsátja a 29/A. § (1) vagy (5) bekezdése szerinti helyen, a kézikönyv és a településképi rendelet módosításának tervezetét partnerségi véleményezésre bocsátja a 29/A. § (1) vagy (6) bekezdése szerinti helyen,
+a)[^171] kézikönyv és településképi rendelet tervezetét partnerségi véleményezésre bocsátja a 29/A. § (1) vagy (5) bekezdése szerinti helyen, a kézikönyv és a településképi rendelet módosításának tervezetét partnerségi véleményezésre bocsátja a 29/A. § (1) vagy (6) bekezdése szerinti helyen,
 
-b)[^166] kézikönyvet véleményezésre megküldi a Magyar Építész Kamarának, a Nemzeti Média- és Hírközlési Hatóságnak, az illetékes nemzeti park igazgatóságnak, a világörökségi, műemléki és régészeti egyeztetési szakterület tekintetében az örökségvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatalnak, honvédelmi és katonai rendeltetésű terület érintettsége esetén a honvédelemért felelős miniszternek,
+b)[^172] kézikönyvet véleményezésre megküldi a Magyar Építész Kamarának, a Nemzeti Média- és Hírközlési Hatóságnak, az illetékes nemzeti park igazgatóságnak, a világörökségi, műemléki és régészeti egyeztetési szakterület tekintetében az örökségvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatalnak, honvédelmi és katonai rendeltetésű terület érintettsége esetén a honvédelemért felelős miniszternek,
 
-c)[^167] településképi rendeletet véleményezésre megküldi az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak, a Nemzeti Média- és Hírközlési Hatóságnak, az illetékes nemzeti park igazgatóságnak, a világörökségi, műemléki és régészeti egyeztetési szakterület tekintetében az örökségvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatalnak, honvédelmi és katonai rendeltetésű terület érintettsége esetén a honvédelemért felelős miniszternek.
+c)[^173] településképi rendeletet véleményezésre megküldi az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak, a Nemzeti Média- és Hírközlési Hatóságnak, az illetékes nemzeti park igazgatóságnak, a világörökségi, műemléki és régészeti egyeztetési szakterület tekintetében az örökségvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatalnak, honvédelmi és katonai rendeltetésű terület érintettsége esetén a honvédelemért felelős miniszternek.
 
-(7)[^168] A (6) bekezdés szerint megküldött tervezetet a (6) bekezdésben meghatározott szervek – a (9) bekezdés szerinti feltöltést követő naptól számított – 21 napon belül véleményezik. A partnerségi véleményezésre a 29/A. § (7) bekezdés b) pontja az irányadó.
+(7)[^174] A (6) bekezdés szerint megküldött tervezetet a (6) bekezdésben meghatározott szervek – a (9) bekezdés szerinti feltöltést követő naptól számított – 21 napon belül véleményezik. A partnerségi véleményezésre a 29/A. § (7) bekezdés b) pontja az irányadó.
 
 (8) A polgármester az elfogadás előtt ismerteti a képviselő-testülettel a beérkezett véleményeket, az el nem fogadott véleményeket és azok indokolását, egyeztetés esetén a jegyzőkönyvet, illetve az elfogadott vélemények alapján a kézikönyv tervezetében és a településképi rendelet tervezetében javasolt módosításokat.
 
@@ -30,13 +30,13 @@ c)[^167] településképi rendeletet véleményezésre megküldi az állami fő�
 
 (10) A véleményezésre jogosult szervek véleményének digitális egyeztető felületre történő feltöltéséről a véleményező szerv gondoskodik, a feltöltésre kerülő szöveges dokumentumokat pdf vagy odt formátumban kell biztosítani.
 
-(11)[^169] Amennyiben a véleményezésre jogosult szerv a (7) bekezdés szerinti véleményét határidőn belül nem tölti fel a (9) bekezdés szerinti digitális egyeztető felületre, a véleményezésre jogosult szerv véleménye az eljárás során figyelmen kívül hagyható.
+(11)[^175] Amennyiben a véleményezésre jogosult szerv a (7) bekezdés szerinti véleményét határidőn belül nem tölti fel a (9) bekezdés szerinti digitális egyeztető felületre, a véleményezésre jogosult szerv véleménye az eljárás során figyelmen kívül hagyható.
 
-[^162]: A 31/A. alcímet (43/A–43/B. §) a 400/2016. (XII. 5.) Korm. rendelet 23. §-a iktatta be.
-[^163]: A 43/A. § (2) bekezdés a) pontja a 217/2018. (XI. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^164]: A 43/A. § (4) bekezdése a 217/2018. (XI. 27.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^165]: A 43/A. § (6) bekezdés a) pontja a 217/2018. (XI. 27.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^166]: A 43/A. § (6) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 30/2020. (II. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^167]: A 43/A. § (6) bekezdés c) pontja a 16/2018. (II. 13.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 217/2018. (XI. 27.) Korm. rendelet 24. § f) pontja, a 30/2020. (II. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^168]: A 43/A. § (7) bekezdése a 16/2018. (II. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 217/2018. (XI. 27.) Korm. rendelet 24. § g) pontja szerint módosított szöveg.
-[^169]: A 43/A. § (11) bekezdését 16/2018. (II. 13.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^168]: A 31/A. alcímet (43/A–43/B. §) a 400/2016. (XII. 5.) Korm. rendelet 23. §-a iktatta be.
+[^169]: A 43/A. § (2) bekezdés a) pontja a 217/2018. (XI. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^170]: A 43/A. § (4) bekezdése a 217/2018. (XI. 27.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^171]: A 43/A. § (6) bekezdés a) pontja a 217/2018. (XI. 27.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^172]: A 43/A. § (6) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 30/2020. (II. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^173]: A 43/A. § (6) bekezdés c) pontja a 16/2018. (II. 13.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 217/2018. (XI. 27.) Korm. rendelet 24. § f) pontja, a 30/2020. (II. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^174]: A 43/A. § (7) bekezdése a 16/2018. (II. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 217/2018. (XI. 27.) Korm. rendelet 24. § g) pontja szerint módosított szöveg.
+[^175]: A 43/A. § (11) bekezdését 16/2018. (II. 13.) Korm. rendelet 11. § (3) bekezdése iktatta be.
