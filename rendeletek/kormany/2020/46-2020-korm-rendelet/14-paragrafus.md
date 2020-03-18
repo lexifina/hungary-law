@@ -1,3 +1,3 @@
-## 13. § Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során teendő intézkedésekről szóló 41/2020. (III. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a a következő (3) bekezdéssel égészül ki:
+## 13. §[^3]
 
-## „(3) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 5. § (3) bekezdése szerint kezelt személyes adatot az adatkezelő – a rendőrség járványügyi hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén a rendőrség részére haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.”
+[^3]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,6 @@
-## 14. § A Korm. rendelet 2. § (2) bekezdésében az „Az (1) bekezdés szerinti országok területéről” szövegrész helyébe az „A külföldről” szöveg lép.
+## 14. §[^4]
 
-15. § Hatályát veszti a Korm. rendelet 4. § d) pontja.
+15. §[^5]
+
+[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
