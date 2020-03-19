@@ -1,1 +1,3 @@
-## „(4) Az (1) bekezdés c) pontja szerinti esetben a szakkérdés vizsgálata arra irányul, hogy a tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, valamint hajózási létesítmények működését. Ha a szakkérdés elbírálására az ingatlanügyi hatóság nem rendelkezik szakértelemmel, a szakkérdés vizsgálatára szakértőként Budapest Főváros Kormányhivatala rendelhető ki.”
+## 16. §[^17]
+
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

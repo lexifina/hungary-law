@@ -1,5 +1,3 @@
-## 6. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R3.) 40. § (7) bekezdése a következő e) ponttal egészül ki:
+## 6. §[^7]
 
-## [A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza:]
-
-## „e) az építési tevékenység rövid leírását, az építmény rendeltetését, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 12. § A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R4.) 26/C. §-a a következő (2) és (3) bekezdéssel egészül ki:
+## 12. §[^13]
 
-## „(2) A polgármester kérelemre, amennyiben az építmény az országos építésügyi követelményeknek és a helyi építési szabályzatnak megfelel, szükség szerint helyszíni szemle alapján – az ingatlan-nyilvántartásban történő átvezetés céljából – rendeltetést is igazoló hatósági bizonyítványt állít ki arról, hogy az építési engedélyhez, egyszerű bejelentéshez vagy örökségvédelmi bejelentéshez nem kötött, 2012. december 31. után épített építmény felépült.
-
-## (3) A polgármester kérelemre, amennyiben a rendeltetésmódosítás az örökségvédelmi vagy a rendeltetésmódosítási hatóság engedélyéhez nem kötött, és az építmény, az építményen belüli rendeltetési egység az országos építésügyi követelményeknek, valamint a helyi építési szabályzatnak megfelel, – az ingatlan-nyilvántartásban történő átvezetés céljából – hatósági bizonyítványt állít ki az építmény, az építményen belüli rendeltetési egység rendeltetésének megváltoztatásáról.”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
