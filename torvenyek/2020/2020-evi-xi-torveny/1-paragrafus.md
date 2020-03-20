@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Török Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
