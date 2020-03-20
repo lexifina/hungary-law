@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 1.2. egyetért az 1. melléklet szerinti magyarországi és erdélyi szervezetek működésének, tevékenységének támogatásával, illetve fejlesztéseinek, beruházásainak megvalósításával 1 511 050 000 forint összegben; ezért felhívja a Kormány nemzetpolitikáért felelős tagját, hogy a szükséges forrást – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap fejezet terhére, az 1. melléklet szerinti kedvezményezettek részére biztosítsa;
+## 1.2.[^1] egyetért az 1. melléklet szerinti magyarországi és erdélyi szervezetek működésének, tevékenységének támogatásával, illetve fejlesztéseinek, beruházásainak megvalósításával 1 371 050 000 forint összegben; ezért felhívja a Kormány nemzetpolitikáért felelős tagját, hogy a szükséges forrást – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap fejezet terhére, az 1. melléklet szerinti kedvezményezettek részére biztosítsa;
 
 ## Felelős: a Kormány nemzetpolitikáért felelős tagja
 
@@ -26,9 +26,9 @@
 
 ## Határidő: azonnal
 
-## 2.[^1]
+## 2.[^2]
 
-1. melléklet az 1146/2018. (III. 26.) Korm. határozathoz
+1. melléklet az 1146/2018. (III. 26.) Korm. határozathoz[^3]
 
 |  | Támogatási cél | Kedvezményezett | Összeg forintban |
 
@@ -36,7 +36,7 @@
 
 | 2. | erdélyi szervezet ingatlanberuházásainak, eszközbeszerzéseinek, gépjárművásárlásának, működésének támogatása | Áldás Népesség Egyesület | 170 000 000 |
 
-| 3. | erdélyi szervezet ingatlanberuházásainak és eszközbeszerzéseinek támogatása | Haáz Rezső Alapítvány | 140 000 000 |
+| 3. |  |  |  |
 
 | 4. | magyarországi szervezet működésének, tevékenységének támogatása | Rákóczi Szövetség | 35 000 000 |
 
@@ -48,4 +48,6 @@
 
 | 8. | erdélyi szervezet ingatlanberuházásainak és eszközbeszerzéseinek támogatása | Zöld Erdély Egyesület | 70 000 000 |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. alpontja az 1118/2020. (III. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1118/2020. (III. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
