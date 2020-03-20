@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2019-01-01 | 1996-72-20-22.44 | 288/2018. (XII. 21.) Korm. rendelet |
 | 2019-05-01 | 1996-72-20-22.45 | 98/2019. (IV. 30.) Korm. rendelet |
 | 2020-01-01 | 1996-72-20-22.46 | 286/2019. (XII. 4.) Korm. rendelet |
+| 2020-03-20 | 1996-72-20-22.47 | 35/2020. (III. 5.) Korm. rendelet |
