@@ -32,9 +32,12 @@ g) ha felszíni víz igénybevétele esetén hidrológiai vizsgálat megállapí
 
 (7)[^69] Az engedélyesnek az öntözésre igénybevett vízmennyiség mérését – a 60/B. § (2) bekezdésben foglalt eltéréssel – 2014. január 1-jétől összegző vízmérővel kell biztosítania.
 
+(8)[^70] Az öntözővíz átmeneti tározót úgy kell megtervezni és üzemeltetni, hogy az öntözés és a felszíni vízbeszerzés kapacitásbeli különbségét kiegyenlítse, valamint ár- és belvíz tározására is alkalmas legyen. Az öntözési célon kívül vízpótlás az öntözővíz átmeneti tározóba nem engedélyezhető.
+
 [^64]: A 60. § (1) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
 [^65]: A 60. § (1a) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 286/2019. (XII. 4.) Korm. rendelet 19. § (8) bekezdés c) pontja.
 [^66]: A 60. § (1b) bekezdését a 290/2012. (X. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 286/2019. (XII. 4.) Korm. rendelet 19. § (6) bekezdésével megállapított szöveg.
 [^67]: A 60. § (2) bekezdése a 348/2012. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^68]: A 60. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 87. §-a szerint módosított szöveg.
 [^69]: A 60. § (7) bekezdését a 400/2012. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^70]: A 60. § (8) bekezdését a 35/2020. (III. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.

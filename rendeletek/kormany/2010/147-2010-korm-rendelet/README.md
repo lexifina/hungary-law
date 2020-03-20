@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-147-20-
 | 2018-01-01 | 2010-147-20-22.18 | 518/2017. (XII. 29.) Korm. rendelet |
 | 2019-01-01 | 2010-147-20-22.19 | 288/2018. (XII. 21.) Korm. rendelet |
 | 2020-01-01 | 2010-147-20-22.20 | 286/2019. (XII. 4.) Korm. rendelet |
+| 2020-03-20 | 2010-147-20-22.21 | 35/2020. (III. 5.) Korm. rendelet |
