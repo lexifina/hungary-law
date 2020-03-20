@@ -27,3 +27,7 @@ b) nemzetközi tudásbázis létrehozása.
 9. Az emberi erőforrások minisztere által kijelölt személy vezetésével megalakul a Koronavírus Kutató Akciócsoport, amelynek feladata a betegség ellen felhasználható gyógyszerek és gyógymódok kifejlesztése.
 
 10. Az országos rendőrfőkapitány vezetésével megalakul a Határellenőrzési Akciócsoport, amelynek feladata Magyarország határátkelőhelyeinek koronavírus világjárvány-helyzetnek megfelelő működtetése.
+
+11.[^1] Az aktív Magyarországért felelős kormánybiztos vezetésével megalakul az Önkéntesség Akciócsoport, amelynek feladata a koronavírus elleni védekezéssel kapcsolatos adományozás és önkéntességi kezdeményezések segítése, a kezdeményezők és a Kormány közötti közvetítés.
+
+[^1]: A 11. pontot az 1119/2020. (III. 20.) Korm. határozat iktatta be.
