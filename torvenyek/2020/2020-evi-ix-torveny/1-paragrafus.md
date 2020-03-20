@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai, másrészről a Kínai Népköztársaság kormánya közötti, a tengeri szállításról szóló megállapodásnak a Horvát Köztársaság európai uniós csatlakozása figyelembevétele céljából történő módosításáról szóló jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
