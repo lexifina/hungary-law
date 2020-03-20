@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-115-20-
 | 2018-01-01 | 2014-115-20-22.3 | 518/2017. (XII. 29.) Korm. rendelet |
 | 2019-01-01 | 2014-115-20-22.4 | 288/2018. (XII. 21.) Korm. rendelet |
 | 2019-05-01 | 2014-115-20-22.5 | 98/2019. (IV. 30.) Korm. rendelet |
+| 2020-03-20 | 2014-115-20-22.6 | 35/2020. (III. 5.) Korm. rendelet |

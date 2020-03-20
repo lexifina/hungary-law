@@ -1,4 +1,4 @@
-4/A. §[^11] (1) A vízszolgáltatási egységre vonatkozó alapdíjtételt a vízszolgáltatási egységre egy mezőgazdasági vízszolgáltatási idényre eső összes állandó költség és az adott mezőgazdasági egységben a tárgyévben mezőgazdasági vízszolgáltatást igénybe vevők vízjogi engedélyeiben lekötött vízmennyiség hányadosaként kell megállapítani.
+4/A. §[^15] (1) A vízszolgáltatási egységre vonatkozó alapdíjtételt a vízszolgáltatási egységre egy mezőgazdasági vízszolgáltatási idényre eső összes állandó költség és az adott mezőgazdasági egységben a tárgyévben mezőgazdasági vízszolgáltatást igénybe vevők vízjogi engedélyeiben lekötött vízmennyiség hányadosaként kell megállapítani.
 
 (2) A vízszolgáltatási egységre vonatkozó változó díjtételt a vízszolgáltatási egységre a tárgyévre jóváhagyott összes változó költség és a vízhasználók által a – vízszolgáltatótól az adott vízszolgáltatási egységre – tárgyévre igényelt összes vízmennyiség hányadosaként kell megállapítani.
 
@@ -10,4 +10,4 @@
 
 (6) A (3)–(5) bekezdésben, a 6. § (1) bekezdésében és a 8. §-ban foglaltaktól eltérően a halastavi (tógazdasági) célra továbbított vízmennyiség után a mezőgazdasági vízhasználó a vízjogi üzemeltetési engedélyében meghatározott halastó területe alapján számítva évente 1500 Ft/hektár díjat fizet a vele közvetlen kapcsolatban álló mezőgazdasági vízszolgáltatónak.
 
-[^11]: A 4/A. §-t a 232/2016. (VII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 288/2018. (XII. 21.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^15]: A 4/A. §-t a 232/2016. (VII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 288/2018. (XII. 21.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
