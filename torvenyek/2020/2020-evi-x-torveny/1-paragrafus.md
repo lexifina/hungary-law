@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a közös államhatárt keresztező földgázszállító vezeték építésével, üzemeltetésével, fenntartásával, rekonstrukciójával és üzemzavar-elhárításával kapcsolatos együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
