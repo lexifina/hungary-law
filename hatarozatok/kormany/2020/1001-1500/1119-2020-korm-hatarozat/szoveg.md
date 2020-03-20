@@ -1,0 +1,3 @@
+Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során teendő intézkedések mind hatékonyabb végrehajtása érdekében a koronavírus elleni védekezés kapcsán szükséges további intézkedésekről szóló 1101/2020. (III. 14.) Korm. határozat a következő 11. ponttal egészül ki:
+
+„11. Az aktív Magyarországért felelős kormánybiztos vezetésével megalakul az Önkéntesség Akciócsoport, amelynek feladata a koronavírus elleni védekezéssel kapcsolatos adományozás és önkéntességi kezdeményezések segítése, a kezdeményezők és a Kormány közötti közvetítés.”
