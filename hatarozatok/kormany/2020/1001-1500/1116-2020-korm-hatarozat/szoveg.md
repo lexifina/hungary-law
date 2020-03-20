@@ -1,0 +1,21 @@
+A Kormány a Magyarország Kormánya és Zalaegerszeg Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1252/2015. (IV. 23.) Korm. határozat 6. pontjának megvalósítása érdekében
+
+1. egyetért a Modern Városok Program keretében a zalaegerszegi Alsóerdőn tervezett sport- és rekreációs központ kialakítása (a továbbiakban: Beruházás) érdekében Zalaegerszeg Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) mint kedvezményezett részére – a Modern Városok Program keretében Zalaegerszeg megyei jogú várossal kötött megállapodásban foglalt, Alsóerdőn tervezett sport- és rekreációs központ kialakítása, valamint Nyíregyháza megyei jogú várossal kötött megállapodásban foglalt, Sóstó fejlesztési program megvalósítása keretében négycsillagos szálloda fejlesztése tárgyú beruházások megvalósításához szükséges támogatás biztosításáról szóló 1204/2017. (IV. 10.) Korm. határozat alapján megállapított és kifizetésre került 1 349 668 591 forint összegű támogatáson felül – 1 500 000 000 forint költségvetési többlettámogatás biztosításával a 2021. évi Modern Városok Program előirányzat terhére;
+
+2. felhívja a Miniszterelnökséget vezető minisztert, hogy az 1. pontban foglaltak megvalósítása érdekében gondoskodjon 1 500 000 000 forint rendelkezésre állásáról a 2021. évi központi költségvetés Miniszterelnökség fejezetében;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a 2021. évi központi költségvetés tervezése során
+
+3. felhívja a Miniszterelnökséget vezető minisztert, hogy
+
+a) a Beruházás megvalósításának érdekében kiadott támogatói okiratot módosítsa az 1. pont szerinti költségvetési többlettámogatás biztosítása, valamint a támogatott tevékenység időtartamának meghosszabbítása érdekében,
+
+b) a 2021. évi többletforrást támogatási előlegként folyósítsa az Önkormányzat részére a támogatói okirat a) pontban foglaltak szerinti módosítását követően.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: az a) alpont tekintetében azonnal
+
+a b) alpont tekintetében a 2021. évi forrás rendelkezésre állását követő harminc napon belül
