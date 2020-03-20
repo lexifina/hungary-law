@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egyesült Nemzetek Szervezete között létrejövő, az Egyesült Nemzetek Terrorizmus Ellenes Hivatala regionális programtámogató irodájának Budapesten történő felállításáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
