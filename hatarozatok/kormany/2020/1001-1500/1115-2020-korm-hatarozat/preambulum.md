@@ -1,0 +1,1 @@
+A Kormány a Modern Városok Program keretében a szegedi atlétikai centrum megvalósítása érdekében szükséges intézkedésekről szóló 1111/2019. (III. 12.) Korm. határozat 1.1. pont b) alpontjának végrehajtása érdekében
