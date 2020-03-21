@@ -1,4 +1,4 @@
-5. melléklet az 53/2015. (IX. 24.) BM rendelethez[^27]
+5. melléklet az 53/2015. (IX. 24.) BM rendelethez[^29]
 
 ## A megszemélyesítés műszaki, technológiai, informatikai és biztonsági követelményei
 
@@ -88,4 +88,4 @@ n) a megszemélyesítő a biankó-, a megszemélyesített és a selejt okmányok
 
 o) a megszemélyesítő a megszemélyesítésben használt helyiségeket biztonsági kamerával, beléptető rendszerrel, riasztóval, tűzjelző berendezéssel és elektromos tüzek oltására alkalmas tűzoltó készülékkel köteles felszerelni.
 
-[^27]: Az 5. melléklet az 5/2018. (II. 23.) BM rendelet 2. §-ával megállapított szöveg.
+[^29]: Az 5. melléklet az 5/2018. (II. 23.) BM rendelet 2. §-ával megállapított szöveg.

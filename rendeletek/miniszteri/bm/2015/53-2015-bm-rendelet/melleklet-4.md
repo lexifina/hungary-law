@@ -10,6 +10,6 @@
 
 ## – memóriája egyedi kulcsokkal védett szektorokra tagolt, rendelkezik minimum 128 bites autentikációs kulccsal.
 
-4. melléklet az 53/2015. (IX. 24.) BM rendelethez[^26]
+4. melléklet az 53/2015. (IX. 24.) BM rendelethez[^28]
 
-[^26]: A 4. mellékletet az 5/2018. (II. 23.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^28]: A 4. mellékletet az 5/2018. (II. 23.) BM rendelet 3. §-a hatályon kívül helyezte.
