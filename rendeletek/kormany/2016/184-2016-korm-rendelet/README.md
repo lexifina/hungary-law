@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-184-20-
 | --- | --- | --- |
 | 2016-08-01 | 2016-184-20-22.1 | 184/2016. (VII. 13.) Korm. rendelet |
 | 2018-03-01 | 2016-184-20-22.2 | 27/2018. (II. 28.) Korm. rendelet |
+| 2020-03-21 | 2016-184-20-22.3 | 27/2018. (II. 28.) Korm. rendelet |

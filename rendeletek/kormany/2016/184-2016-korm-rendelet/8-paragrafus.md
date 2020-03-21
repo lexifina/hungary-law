@@ -2,13 +2,13 @@
 
 8. § (1) A Hatóság a szakmagyakorlókról és a szakmagyakorló cégekről szakterületekre bontott, közhiteles elektronikus nyilvántartást vezet.
 
-(2)[^26] A nyilvántartás tartalmazza
+(2)[^28] A nyilvántartás tartalmazza
 
 a) a szakmagyakorló természetes személyazonosító adatait, állampolgárságát, lakcímét és értesítési címét,
 
 b) szakmagyakorló cég esetén annak nevét, székhelyét, értesítési címét, a hatáskörrel rendelkező szerv által a kiállítás helye szerint irányadó szabályoknak megfelelő formában kiállított cégjegyzékszámát vagy nyilvántartásba vételi számát,
 
-c) a szakmagyakorló kérelmezett szakterületéhez kapcsolódó, releváns szakmai gyakorlatának rövid leírását, időtartamát,
+c)[^29]
 
 d) a szakmagyakorló szakterületét (szakág),
 
@@ -24,4 +24,5 @@ i) a szakmai tevékenység szünetelésének tényét, kezdő napját és időta
 
 j) a szakmagyakorlásra alkalmassági nyilvántartási számot.
 
-[^26]: A 8. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^28]: A 8. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^29]: A 8. § (2) bekezdés c) pontját a 36/2020. (III. 5.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.

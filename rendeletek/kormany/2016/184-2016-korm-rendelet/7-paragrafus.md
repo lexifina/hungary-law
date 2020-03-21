@@ -1,4 +1,4 @@
-7. § (1)[^18] A Hatóság a szakmagyakorlásra alkalmasságot megállapítja, és a szakmagyakorlót, illetve a szakmagyakorló céget nyilvántartásba veszi, ha
+7. § (1)[^20] A Hatóság a szakmagyakorlásra alkalmasságot megállapítja, és a szakmagyakorlót, illetve a szakmagyakorló céget nyilvántartásba veszi, ha
 
 a) rendelkezik a hatáskörrel rendelkező szerv által a kiállítás helye szerint irányadó szabályoknak megfelelő formában érvényes, a kérelmezett szakterülethez kapcsolódó végzettséget igazoló okirattal és szakmagyakorlásra jogosító okirattal, vagy szakmagyakorló cég esetében érvényes licenccel,
 
@@ -10,11 +10,11 @@ d) szakmagyakorló esetén nyilatkozik arról, hogy a Hatóság által megszabot
 
 e) a kérelmezett szakmagyakorlási tevékenység kizárólag olyan építményekre vonatkozik, melyek a nukleáris létesítmény és a radioaktívhulladék-tároló létesítéséhez szükségesek, de a létesítmény üzemeltetésében szerepet nem játszanak, és a tevékenység megfelel a 2. § 9. pontjában foglaltaknak, azzal a kivétellel, hogy a Hatóság nyilvántartásában már szereplő szakmagyakorló mellett végzett 6 hónapos tevékenységet nem szükséges teljesíteni és igazolni.
 
-(2)[^19] Amennyiben az általános közigazgatási rendtartásról szóló törvényben foglalt egyszerűsített határozat kiadására vonatkozó feltételek fennállnak, a Hatóság a kérelemnek egyszerűsített határozatban ad helyt.
+(2)[^21] Amennyiben az általános közigazgatási rendtartásról szóló törvényben foglalt egyszerűsített határozat kiadására vonatkozó feltételek fennállnak, a Hatóság a kérelemnek egyszerűsített határozatban ad helyt.
 
-(3)[^20] A Hatóság a határozatban megjelöli a szakmagyakorlási tevékenység szakterületét, a nyilvántartási számot, és a 2. melléklet alapján meghatározza a nyilvántartásba vétel időtartamát. A nyilvántartásba vétel időtartama nem lehet hosszabb, mint a szakmagyakorlásra jogosító engedélyének érvényessége.
+(3)[^22] A Hatóság a határozatban megjelöli a szakmagyakorlási tevékenység szakterületét, a nyilvántartási számot, és a 2. melléklet alapján meghatározza a nyilvántartásba vétel időtartamát. A nyilvántartásba vétel időtartama nem lehet hosszabb, mint a szakmagyakorlásra jogosító engedélyének érvényessége.
 
-(4)[^21] A Hatóság a nyilvántartásba vétel időtartama alatt kérelemre a nyilvántartásba vétel idejét meghosszabbítja, ha
+(4)[^23] A Hatóság a nyilvántartásba vétel időtartama alatt kérelemre a nyilvántartásba vétel idejét meghosszabbítja, ha
 
 a) a szakmagyakorlóval, szakmagyakorló céggel szemben támasztott követelményeknek továbbra is eleget tesz,
 
@@ -24,13 +24,13 @@ c) szakmagyakorló esetén eleget tesz a Hatóság által tartott továbbképzé
 
 d) a szakmagyakorló vagy szakmagyakorló cég nyilatkozik arról, hogy a nyilvántartásba vételhez kötött tevékenységet Magyarország területén az adott tevékenységre vonatkozó hatályos jogszabályok rendelkezései, valamint egyéb szakmai, hatósági előírások, továbbá a vonatkozó érvényes szabványok előírásainak betartásával és útmutatók ajánlásainak figyelembevételével végzi.
 
-(5)[^22] A (6) bekezdésben meghatározott kivétellel az első Hatóság általi nyilvántartásba vételt követően a nyilvántartás időtartamának meghosszabbításához a szakmagyakorlónak rendelkeznie kell a megelőző nyilvántartásba vétel időtartama alatt végzett tevékenységre vonatkozó referenciával.
+(5)[^24] A (6) bekezdésben meghatározott kivétellel az első Hatóság általi nyilvántartásba vételt követően a nyilvántartás időtartamának meghosszabbításához a szakmagyakorlónak rendelkeznie kell a megelőző nyilvántartásba vétel időtartama alatt végzett tevékenységre vonatkozó referenciával.
 
-(6)[^23] Az 1 éves nyilvántartásba vételi idővel rendelkező szakmagyakorlók esetén a nyilvántartásba vételi idő első meghosszabbításakor a Hatóság az eredetileg benyújtott referenciát elfogadja, minden további hosszabbításra irányuló kérelemhez új referenciát kell benyújtani.
+(6)[^25] Az 1 éves nyilvántartásba vételi idővel rendelkező szakmagyakorlók esetén a nyilvántartásba vételi idő első meghosszabbításakor a Hatóság az eredetileg benyújtott referenciát elfogadja, minden további hosszabbításra irányuló kérelemhez új referenciát kell benyújtani.
 
-[^18]: A 7. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 65. §-ával megállapított szöveg.
-[^19]: A 7. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 74. § f) pontja szerint módosított szöveg.
-[^20]: A 7. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^21]: A 7. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 66. §-a iktatta be.
-[^22]: A 7. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 66. §-a iktatta be.
-[^23]: A 7. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 66. §-a iktatta be.
+[^20]: A 7. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^21]: A 7. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 74. § f) pontja szerint módosított szöveg.
+[^22]: A 7. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^23]: A 7. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 66. §-a iktatta be.
+[^24]: A 7. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 66. §-a iktatta be.
+[^25]: A 7. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 66. §-a iktatta be.

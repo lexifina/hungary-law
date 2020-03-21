@@ -90,7 +90,7 @@
 
 ## A nukleáris létesítmény és radioaktívhulladék-tároló létesítéséhez szükséges, de a létesítmény üzemeltetésében szerepet nem játszó építmények esetén a fenti betűkódok után egy „(K)” jel kerül, ami korlátozott jogosultságot jelent, mellyel kizárólag a nukleáris létesítmény és radioaktívhulladék-tároló létesítéshez szükséges, de a létesítmény üzemeltetésében szerepet nem játszó építményekkel kapcsolatos szakmagyakorlási tevékenység végezhető.
 
-2. melléklet a 184/2016. (VII. 13.) Korm. rendelethez[^35]
+2. melléklet a 184/2016. (VII. 13.) Korm. rendelethez[^38]
 
 A szakmagyakorlási tevékenységet végző nyilvántartásba vételének időtartama
 
@@ -106,12 +106,12 @@ A szakmagyakorlási tevékenységet végző nyilvántartásba vételének időta
 
 A szakmagyakorlási tevékenységet végző nyilvántartásba vételének időtartama a nukleáris létesítmény és radioaktívhulladék-tároló létesítéséhez szükséges, de a létesítmény üzemeltetésében szerepet nem játszó építmények esetén
 
-|  | A | B |
+|  | A | B | C |
 
-| 1. | A referenciában bemutatott tevékenység időtartama | Nyilvántartásba vétel időtartama |
+| 1. | A referenciában bemutatott tevékenység időtartama | Első nyilvántartásba vétel időtartama | Nyilvántartásba vételi idő meghosszabbítása |
 
-| 2. | BSc diploma esetén minimum 4 év | 1 év |
+| 2. | BSc diploma esetén minimum 3 év | 1 év | a referenciában bemutatott tevékenység alapján legfeljebb 5 év |
 
-| 3. | MSc diploma esetén minimum 2 év | 3 év |
+| 3. | MSc diploma esetén minimum 2 év | 1 év | a referenciában bemutatott tevékenység alapján legfeljebb 5 év |
 
-[^35]: A 2. mellékletet a 27/2018. (II. 28.) Korm. rendelet 73. § (2) bekezdése iktatta be.
+[^38]: A 2. mellékletet a 27/2018. (II. 28.) Korm. rendelet 73. § (2) bekezdése iktatta be, szövege a 36/2020. (III. 5.) Korm. rendelet 21. §-a szerint módosított szöveg.

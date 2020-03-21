@@ -6,8 +6,8 @@
 
 a) a hiánypótlásra megadott határidő eredménytelenül telt el,
 
-b)[^17] a kérelmező a kérelmet ismételten hiányosan nyújtja be,
+b)[^19] a kérelmező a kérelmet ismételten hiányosan nyújtja be,
 
 c) a kérelmezett személy szakmagyakorlásra alkalmassága nem állapítható meg.
 
-[^17]: A 6. § (3) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 74. § e) pontja szerint módosított szöveg.
+[^19]: A 6. § (3) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 74. § e) pontja szerint módosított szöveg.

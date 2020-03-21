@@ -1,6 +1,6 @@
-## 4/A. §[^15] Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet szerinti EN-A, SZÉM6, ME-EN-A és MV-EN-A jelölésű szakmagyakorlási jogosultság megléte esetén az Atv. 18/D. §-a szerinti tevékenység a hatósági nyilvántartásba vételt követően folytatható.
+## 4/A. §[^16] Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet szerinti EN-A, SZÉM6, ME-EN-A és MV-EN-A jelölésű szakmagyakorlási jogosultság megléte esetén az Atv. 18/D. §-a szerinti tevékenység a hatósági nyilvántartásba vételt követően folytatható.
 
-5. § (1)[^16] A kérelem tartalmazza:
+5. § (1)[^17] A kérelem tartalmazza:
 
 a) a szakmagyakorlási alkalmasság megállapítását kérelmező nevét és székhelyét,
 
@@ -32,7 +32,8 @@ fc) szakmagyakorlásra jogosító okiratának magyarországi szakmagyakorló ese
 
 (3) A nyilvántartásba vétel iránti kérelemhez csatolandó dokumentumokat azok hiteles magyar nyelvű fordításával együtt kell benyújtani.
 
-(4) Ha a kérelem melléklete az eredeti dokumentum másolata, annak hitelességét a benyújtáskor az eredeti dokumentum egyidejű bemutatásával – közjegyző vagy az iratot eredetileg kiállító szerv, szervezet, oktatási intézmény hitelesítése helyett – a Hatóság is igazolhatja.
+(4)[^18]
 
-[^15]: A 4/A. §-t a 27/2018. (II. 28.) Korm. rendelet 63. §-a iktatta be.
-[^16]: Az 5. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^16]: A 4/A. §-t a 27/2018. (II. 28.) Korm. rendelet 63. §-a iktatta be.
+[^17]: Az 5. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^18]: Az 5. § (4) bekezdését a 36/2020. (III. 5.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
