@@ -6,67 +6,73 @@
 
 | 3. | központi | E | raktárvezető | 150 |  |
 
-| 4. | E | főfelügyelő (műveleti, készenléti) | 150 |  |
+| 4. | központi | E | főfelügyelő (műveleti, készenléti) | 350 |  |
 
-| 5. | D | referens | 150 | 100 |
+| 5. | központi | D | referens | 150 | 100 |
 
-| 5a. | C | segédelőadó | 150 | 100 |
+| 5a. | központi | C | segédelőadó | 150 | 100 |
 
-| 5b. | B | felügyelő (körlet) | 150 |  |
+| 5b. | központi | C | felügyelő (körlet) | 250 |  |
 
-| 6. | területi | E | körlet-főfelügyelő | 150 |  |
+| 6. | területi | E | körlet-főfelügyelő | 250 |  |
 
-| 7. | főfelügyelő | *150 vagy 125 |  |
+| 7. | területi | E | főfelügyelő | 200 |  |
 
-| 8. | raktárvezető | 100 |  |
+| 7a. | területi | E | főfelügyelő (műveleti) | 250 |  |
 
-| 9. | élelmezésvezető | 100 |  |
+| 8. | területi | E | raktárvezető | 100 |  |
 
-| 10. | D | kutyatelep-vezető | 125 |  |
+| 9. | területi | E | élelmezésvezető | 100 |  |
 
-| 11. | konyhavezető | 100 |  |
+| 10. | területi | D | kutyatelep-vezető | 150 |  |
 
-| 12. | mosodavezető | 100 |  |
+| 11. | területi | D | konyhavezető | 100 |  |
 
-| 13. | vezető szakasszisztens | 100 |  |
+| 12. | területi | D | mosodavezető | 100 |  |
 
-| 14. | főápoló | 100 |  |
+| 13. | területi | D | vezető szakasszisztens | 100 |  |
 
-| 15. | szakoktató |  | 100 |
+| 14. | területi | D | főápoló | 100 |  |
 
-| 16. | műhelyvezető | 100 |  |
+| 15. | területi | D | szakoktató |  | 100 |
 
-| 17. | kiemelt művezető | 100 |  |
+| 16. | területi | D | műhelyvezető | 100 |  |
 
-| 18. | C | biztonságtechnikus | 100 |  |
+| 17. | területi | D | kiemelt művezető | 100 |  |
 
-| 19. | fegyvermester | 100 |  |
+| 18. | területi | D | biztonságtechnikus | 100 |  |
 
-| 20. | szállítmányvezető | 100 |  |
+| 19. | területi | C | fegyvermester | 100 |  |
 
-| 21. | raktáros | 100 |  |
+| 20. | területi | C | szállítmányvezető | 100 |  |
 
-| 22. | szociális segédelőadó | 150** vagy 100 |  |
+| 21. | területi | C | raktáros | 100 |  |
 
-| 23. | segédelőadó | 150** vagy 100 | 50 |
+| 22. | területi | C | szociális segédelőadó | 150** vagy 100 |  |
 
-| 24. | művezető | 100 |  |
+| 23. | területi | C | segédelőadó | 150** vagy 100 | 50 |
 
-| 25. | szakasszisztens | 100 |  |
+| 23a. | területi | C | segédelőadó (műveleti) | 250 |  |
 
-| 26. | szakápoló | 100 |  |
+| 24. | területi | C | művezető | 100 |  |
 
-| 27. | B | felügyelő (körlet, foglalkoztatási, munkáltatási) | 150** vagy 100 |  |
+| 25. | területi | C | felügyelő (körlet) | 250 |  |
 
-| 28. | kutyavezető | 125 |  |
+| 25a. | területi | C | kutyavezető | 200 |  |
 
-| 29. | ápoló | 100 |  |
+| 26. | területi | C | szakasszisztens | 100 |  |
 
-| 30. | A | gépjárművezető | 125 | 75 |
+| 27. | területi | C | szakápoló | 100 |  |
 
-| 31. | biztonsági felügyelő | 125 |  |
+| 28. | területi | B | felügyelő (foglalkoztatási) | 150** vagy 100 |  |
 
-| 32. | segédfelügyelő | 100 |  |
+| 29. | területi | B | gépjárművezető | 200 | 75 |
+
+| 30. | területi | B | biztonsági felügyelő | 200 |  |
+
+| 31. | területi | B | ápoló | 100 |  |
+
+| 32. | területi | A | segédfelügyelő | 100 |  |
 
 | 33. | helyi | E | körlet-főfelügyelő | 150 |  |
 
@@ -130,6 +136,6 @@
 
 ## Budapesti Fegyház és Börtön, Fővárosi Büntetés-végrehajtási Intézet, Pálhalmai Országos Büntetés-végrehajtási Intézet, Sopronkőhidai Fegyház és Börtön, Szegedi Fegyház és Börtön, Szombathelyi Országos Büntetés-végrehajtási Intézet, Állampusztai Országos Büntetés-végrehajtási Intézet, Közép-dunántúli Országos Büntetés-végrehajtási Intézet, Márianosztrai Fegyház és Börtön, Tiszalöki Országos Büntetés-végrehajtási Intézet, Váci Fegyház és Börtön
 
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
 
-[^30]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 15/2017. (VI. 22.) BM rendelet 6. §-a, a 14/2018. (VI. 7.) BM rendelet 1. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (3) bekezdés b) pontja, a 13/2019. (IV. 12.) BM rendelet 3. §-a szerint módosított szöveg.
+[^32]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 15/2017. (VI. 22.) BM rendelet 6. §-a, a 14/2018. (VI. 7.) BM rendelet 1. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (3) bekezdés b) pontja, a 13/2019. (IV. 12.) BM rendelet 3. §-a szerint módosított szöveg.
