@@ -1,21 +1,3 @@
-## Irányadó kamatfelárak
-
-| Bázispontban kifejezett kamatfelárak |
-
-| Hitelminősítési kategória | Biztosítékokkal való fedezettség |
-
-| Magas | Általános | Alacsony |
-
-| Kiváló (AAA-A) | 60 | 75 | 100 |
-
-| Jó (BBB) | 75 | 100 | 220 |
-
-| Kielégítő (BB) | 100 | 220 | 400 |
-
-| Gyenge (B) | 220 | 400 | 650 |
-
-| Rossz/Pénzügyi nehézségek (CCC és ennél alacsonyabb) | 400 | 650 | 1000 |
-
 2. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^93]
 
 ## A 11/B. §-ban foglaltak teljesítéséhez az 1233/2011/EU rendelet alapján az Európai Bizottság számára összeállítandó éves tevékenységi jelentés tartalmára vonatkozó ellenőrzési lista

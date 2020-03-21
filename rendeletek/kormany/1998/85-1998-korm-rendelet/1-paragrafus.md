@@ -32,9 +32,9 @@ b) az (1) bekezdés h) és i) pontjában meghatározott termékei esetében e re
 
 (4)[^14] A (3) bekezdésnek megfelelő termékekhez kapcsolódóan az Eximbank az e rendelet szerinti kamatkiegyenlítést az (5) és (6) bekezdésben meghatározott kivétellel igénybe veheti.
 
-(5)[^15] Ha az (1) bekezdés e) és f) pontjában meghatározott hitelek kamatlába az Európai Unió állami támogatási szabályai szerint nem tartalmaz állami támogatást, és nem éri el legalább az Európai Unió Hivatalos Lapjában az Európai Bizottság által rendszeresen közzétett, a 3. § o) pontja szerinti referencia alapkamatláb értéke és az 1. melléklet szerinti, az adós hitelkockázati besorolása és a biztosítékok minősége alapján kalkulált kamatfelár együttes mértékét, az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
+(5)[^15] Ha az (1) bekezdés e) és f) pontjában meghatározott hitelek kamatlába az Európai Unió állami támogatási szabályai szerint nem tartalmaz állami támogatást, és nem éri el legalább a piaci kamatláb mértékét, az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
 
-(5a)[^16] Az 1. melléklet szerinti fedezettségi mértékek megállapításakor a magas fedezettségű biztosítékokra a 30 százalék alatti, illetve azzal egyenlő, az általános fedezettségű biztosítékokra a 31 százalék és 59 százalék közötti, az alacsony fedezettségű biztosítékokra a 60 százalékkal egyenlő, illetve annál magasabb nemteljesítéskori veszteség a besorolás alapja.
+(5a)[^16]
 
 (6)[^17] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel, export előfinanszírozási hitellel vagy versenyképességet javító hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, export előfinanszírozási hitel vagy versenyképességet javító hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
 
@@ -56,8 +56,8 @@ b) az (1) bekezdés h) és i) pontjában meghatározott termékei esetében e re
 [^12]: Az 1. § (2) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^13]: Az 1. § (3) bekezdése a 75/2017. (IV. 3.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^14]: Az 1. § (4) bekezdése a 75/2017. (IV. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^15]: Az 1. § (5) bekezdése a 75/2017. (IV. 3.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^16]: Az 1. § (5a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^15]: Az 1. § (5) bekezdése az 53/2020. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 1. § (5a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte az 53/2020. (III. 20.) Korm. rendelet 3. § a) pontja.
 [^17]: Az 1. § (6) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § c)–d) pontja szerint módosított szöveg.
 [^18]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § d)–e) pontja szerint módosított szöveg.
 [^19]: Az 1. § (8) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.
