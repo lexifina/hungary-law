@@ -1,4 +1,4 @@
-4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez
+4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^13]
 
 1. A kötelezően mérendő minták és mennyiségek
 
@@ -12,9 +12,9 @@
 
 | 4 | Környezeti sugárzási szint | a) Környezeti gammadózis-teljesítmény | a) Környezeti gammadózis-teljesítmény |
 
-| 5 | Felszíni víz | a) Cs-137 aktivitáskoncentráció, b) maradék béta és gamma sugárzó izotópok | a) Cs-137 aktivitáskoncentráció b) maradék béta és gamma sugárzó izotópok |
+| 5 | Felszíni víz | a) Cs-137 aktivitáskoncentráció, b) maradék béta és gamma sugárzó izotópok aktivitás- koncentrációja | a) Cs-137 aktivitáskoncentráció b) maradék béta és gamma sugárzó izotópok aktivitás-koncentrációja |
 
-| 6 | Ivóvíz | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitáskoncentrációja a 201/2001. (X. 25.) Korm. rendelet szerint c) radon d) indikatív dózis | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok a 201/2001. (X. 25.) Korm. rendelet szerint c) radon d) indikatív dózis |
+| 6 | Ivóvíz | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitáskoncentrációja a 201/2001. (X. 25.) Korm. rendelet szerint c) radon aktivitás-koncentrációja d) indikatív dózis | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitás-koncentrációja a 201/2001. (X. 25.) Korm. rendelet szerint c) radon aktivitás-koncentrációja d) indikatív dózis |
 
 | 7 | Tej | Cs-137, Sr-90 és K-40 aktivitáskoncentráció | Cs-137, Sr-90, K-40 aktivitáskoncentráció |
 
@@ -45,3 +45,5 @@
 2.2.1. (a) = Becquerel személyenként és naponta,
 
 2.2.2. (b) = Becquerel személyenként és naponta.
+
+[^13]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja szerint módosított szöveg.

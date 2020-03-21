@@ -1,4 +1,4 @@
-3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^6]
+3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^12]
 
 1. Ellenőrző adatszolgáltató központok, valamint
 
@@ -72,7 +72,7 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 |  | 7 | ELKH | Természettudományi Kutatóközpont környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
 
-|  | 8 | Mecsekérc Zártkörűen Működő Részvénytársaság | Mecsekérc Zrt. radiológiai laboratórium | levegő, szárazföldi környezet, vízi környezet, ivóvíz, radon, környezeti gamma-dózisteljesítmény |
+|  | 8 | Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | Mecseki Környezetvédelmi Bázis, Kővágószőlősi Fióktelep | levegő, szárazföldi környezet, vízi környezet, környezeti gamma-dózisteljesítmény, radon |
 
 |  | 9 | MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság | Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszer | levegő, vízi környezet, környezeti gamma-dózisteljesítmény |
 
@@ -84,4 +84,4 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^6]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^12]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.

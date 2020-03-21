@@ -1,4 +1,4 @@
-## 12. §[^3]
+## 12. §[^7]
 
 13. § (1) Ez a rendelet az Európai Atomenergia Közösséget létrehozó szerződés 2. cím III. fejezetének 35. cikkével összeegyeztethető szabályozást tartalmaz.
 
@@ -8,4 +8,4 @@
 
 (4) Az 5. § (4) bekezdés szerinti működési rendet első alkalommal 2016. március 31-ig kell benyújtani.
 
-[^3]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

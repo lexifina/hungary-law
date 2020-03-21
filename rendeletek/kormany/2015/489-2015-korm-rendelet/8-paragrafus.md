@@ -8,4 +8,6 @@
 
 (5) Az OKSER SZB a mérési eredményeket feldolgozások és elemzések készítéséhez kizárólag a Működési Rendben meghatározott módon használhatja fel.
 
-(6) A következő évre mérési programokat minden év október 30-ig el kell fogadni.
+(6)[^6] A következő évre vonatkozó mérési programokat minden év december 31-ig el kell fogadni.
+
+[^6]: A 8. § (6) bekezdése a 36/2020. (III. 5.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.

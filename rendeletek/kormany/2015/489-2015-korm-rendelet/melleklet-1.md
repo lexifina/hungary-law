@@ -30,9 +30,15 @@
 
 14. a Mecsekérc Zártkörűen Működő Részvénytársaság,
 
-15.[^4] Nemzeti Népegészségügyi Központ,
+15.[^8] Nemzeti Népegészségügyi Központ,
 
-16.[^5] az Eötvös Loránd Kutatási Hálózat (a továbbiakban: ELKH).
+16.[^9] az Eötvös Loránd Kutatási Hálózat (a továbbiakban: ELKH).
 
-[^4]: Az 1. melléklet 15. pontja a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontjával megállapított szöveg.
-[^5]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be.
+17.[^10] IZOTÓP INTÉZET Kutató, Fejlesztő, Termelő és Szolgáltató Korlátolt Felelősségű Társaság,
+
+18.[^11] Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság.
+
+[^8]: Az 1. melléklet 15. pontja a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be.
+[^10]: Az 1. melléklet 17. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^11]: Az 1. melléklet 18. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
