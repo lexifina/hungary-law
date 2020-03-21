@@ -1,0 +1,1 @@
+Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 21. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
