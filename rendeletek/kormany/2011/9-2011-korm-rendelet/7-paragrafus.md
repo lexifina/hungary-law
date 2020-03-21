@@ -22,7 +22,7 @@ d)[^122] a támogatás lehívására a miniszteri döntést követő 12 hónapon
 
 (5) A 3. § (10) bekezdése szerinti esetben a támogatás felhasználásának végső határidejét a Kormány határozza meg.
 
-(6)[^123] Ha a Támogatottnak a korábbi pályázatához kapcsolódóan, ugyanarra a költségvetési évre vonatkozó támogatási döntésből eredően visszafizetési kötelezettsége áll fenn, a visszafizetési kötelezettség teljesítéséig az újonnan megítélt támogatás folyósítása felfüggesztésre kerül. A miniszter a pályázat elbírálását felfüggesztheti, ha a pályázatban szereplő védekezési vagy helyreállítási munkálatokkal kapcsolatban valamely hatóság szabálysértés vagy bűncselekmény elkövetésének gyanúja miatt hatáskörében eljárást indít.
+(6)[^123] Ha a Támogatottnak a korábbi pályázatához kapcsolódóan, ugyanarra a költségvetési évre vonatkozó támogatási döntésből eredően visszafizetési kötelezettsége áll fenn, a visszafizetési kötelezettség teljesítéséig az újonnan megítélt támogatás folyósítása felfüggesztésre kerül. A miniszter a pályázat elbírálását, valamint a már megítélt támogatás folyósítását felfüggesztheti, ha a pályázatban szereplő védekezési vagy helyreállítási munkálatokkal kapcsolatban valamely hatóság szabálysértés vagy bűncselekmény elkövetésének alapos gyanúja miatt hatáskörében eljárást indít.
 
 (7) A támogatásról hozott miniszteri döntés ellen fellebbezés benyújtására nincs lehetőség.
 
@@ -35,4 +35,4 @@ d)[^122] a támogatás lehívására a miniszteri döntést követő 12 hónapon
 [^120]: A 7. § (4) bekezdés b) pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 15. és 44. pontja szerint módosított szöveg.
 [^121]: A 7. § (4) bekezdés c) pontja a 92/2013. (III. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^122]: A 7. § (4) bekezdés d) pontja a 227/2016. (VII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^123]: A 7. § (6) bekezdése a 92/2013. (III. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 21. pontja szerint módosított szöveg.
+[^123]: A 7. § (6) bekezdése az 54/2020. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

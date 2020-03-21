@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^158]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^160]
 
 Igénylésazonosító:
 
@@ -170,4 +170,4 @@ P. H.
 
 |  | polgármester/elnök | jegyző |
 
-[^158]: Az 5. melléklet a 31/2020. (II. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^160]: Az 5. melléklet a 31/2020. (II. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
