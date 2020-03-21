@@ -18,12 +18,12 @@ e) 9–12. §-ban meghatározott fizikai védelmi funkciókra vonatkozóan, mind
 
 (2) A kötelezett a minimálisan meghatározott védelmi szinteknél és a védelmi szintekhez tartozó követelményeknél magasabb szintű, illetve az előírt, minimálisan szükségesnél nagyobb számú, és a 2. és 3. mellékletben felsoroltakhoz képest további eltérő fizikai védelmi megoldást alkalmazhat. A magasabb fizikai védelmi szintekhez tartozó, illetve a minimálisan szükségesnél nagyobb számú, az előírtaktól eltérő további fizikai védelmi megoldás az emelt szintű fizikai védelem részének tekinthető.
 
-(3)[^43] Hordozható eszközökben alkalmazott 2. és 3. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az elrettentést sugárvédelmi lezárással és figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel és sugárzásjelző lámpák elhelyezésével, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával, a késleltetést elsősorban az eszköz helyszínen található rögzített tárgyhoz vagy ha ez nem lehetséges, egy 30 kilogrammnál nehezebb mobil súlyhoz való rögzítésével kell megvalósítani.
+(3)[^49] Hordozható eszközökben alkalmazott 2. és 3. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az elrettentést sugárvédelmi lezárással és figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel és sugárzásjelző lámpák elhelyezésével, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával, a késleltetést elsősorban az eszköz helyszínen található rögzített tárgyhoz vagy ha ez nem lehetséges, egy 30 kilogrammnál nehezebb mobil súlyhoz való rögzítésével kell megvalósítani.
 
-(4)[^44] Hordozható eszközökben alkalmazott, 4. és 5. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az alkalmazás során az elrettentést figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával kell megvalósítani.
+(4)[^50] Hordozható eszközökben alkalmazott, 4. és 5. kategóriába tartozó zárt radioaktív sugárforrások egyidejűleg két, mobil kommunikációs eszközzel ellátott személy jelenlétében alkalmazhatók. Az alkalmazás során az elrettentést figyelmeztető táblák kihelyezésével, a detektálást személyes megfigyeléssel, továbbá jogtalan eltulajdonítás esetén a rendőrség riasztásával kell megvalósítani.
 
-(5)[^45] Az A-, B- vagy C-szintű fizikai védelmet biztosító fizikai védelmi rendszer műszaki tervezését, illetve a szerelését csak olyan személy végezheti, aki érvényes vagyonvédelmi rendszert tervező és szerelő igazolvánnyal rendelkezik.
+(5)[^51] Az A-, B- vagy C-szintű fizikai védelmet biztosító fizikai védelmi rendszer műszaki tervezését, illetve a szerelését csak olyan személy végezheti, aki érvényes vagyonvédelmi rendszert tervező és szerelő igazolvánnyal rendelkezik.
 
-[^43]: A 29. § (3) bekezdését a 37/2012. (III. 9.) Korm. rendelet 17. §-a iktatta be.
-[^44]: A 29. § (4) bekezdését a 37/2012. (III. 9.) Korm. rendelet 17. §-a iktatta be.
-[^45]: A 29. § (5) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^49]: A 29. § (3) bekezdését a 37/2012. (III. 9.) Korm. rendelet 17. §-a iktatta be.
+[^50]: A 29. § (4) bekezdését a 37/2012. (III. 9.) Korm. rendelet 17. §-a iktatta be.
+[^51]: A 29. § (5) bekezdését a 488/2015. (XII. 30.) Korm. rendelet 4. § (3) bekezdése iktatta be.

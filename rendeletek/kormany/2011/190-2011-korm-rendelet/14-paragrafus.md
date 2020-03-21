@@ -1,4 +1,4 @@
-## 13. § A nukleáris létesítményt, kivéve az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt, a radioaktív hulladék átmeneti és végleges tárolóját, valamint az I. és II. kategóriába tartozó nukleáris anyagot fegyveres biztonsági őrséggel kell védeni.
+## 13. §[^36] A nukleáris létesítményt – az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt kivéve –, a radioaktív hulladék átmeneti és végleges tárolóját, valamint az I. és II. kategóriába tartozó nukleáris anyagot fegyveres biztonsági őrséggel kell védeni. Az ilyen létesítmények és nukleáris anyagok esetében a belső elhárító erő kizárólag a fegyveres biztonsági őrség lehet.
 
 ## 14. A fizikai védelmi zónák kialakítása
 
@@ -27,3 +27,5 @@ d) belső zóna.
 (8) A belső zónában A-szintű védelmet kell biztosítani. A belső zónában kell elhelyezni az A-szintű védelmet igénylő nukleáris anyagot.
 
 (9) A fizikai védelmi zónák közötti átjárás az áteresztési pontokon keresztül kizárólag ellenőrzött módon történhet.
+
+[^36]: A 13. § a 36/2020. (III. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## 20.[^38] A programozható rendszer védelmi követelményei
+## 20.[^43] A programozható rendszer védelmi követelményei
 
-20. §[^39] (1)[^40] A 7. § (4) és (5) bekezdésében meghatározott nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék birtokosa, kivételével a kötelezett biztosítja:
+20. §[^44] (1)[^45] A 7. § (4) és (5) bekezdésében meghatározott nukleáris anyag, radioaktív sugárforrás vagy radioaktív hulladék birtokosa, kivételével a kötelezett biztosítja:
 
 a) a programozható rendszerekben tárolt, kezelt adatok és információk bizalmasságát, sértetlenségét és rendelkezésre állását, valamint
 
@@ -16,6 +16,6 @@ b) a programozható rendszer sértetlensége és rendelkezésre állása kockáz
 
 (6) A nukleáris létesítmény engedélyesének – az 1 MW hőteljesítmény alatti reaktorral szerelt nukleáris létesítményt kivéve – a programozható rendszerek tervezése, létesítése és módosítása során a 6. melléklet alapján kell eljárnia.
 
-[^38]: A 20. alcím címe a 357/2014. (XII. 29.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
-[^39]: A 20. § a 357/2014. (XII. 29.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
-[^40]: A 20. § (1) bekezdés nyitó szövegrésze a 488/2015. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^43]: A 20. alcím címe a 357/2014. (XII. 29.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^44]: A 20. § a 357/2014. (XII. 29.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^45]: A 20. § (1) bekezdés nyitó szövegrésze a 488/2015. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
