@@ -1,8 +1,8 @@
-9. §[^46] (1) A veszélyhelyzeti sugárzási helyzetekre és fennálló sugárzási helyzetekre irányadó, lakosságot érintő vonatkoztatási szintek a következők:
+9. §[^52] (1) A veszélyhelyzeti sugárzási helyzetekre és fennálló sugárzási helyzetekre irányadó, lakosságot érintő vonatkoztatási szintek a következők:
 
-a) veszélyhelyzeti sugárzási helyzetekben – a veszélyhelyzet típusától és körülményeitől függően – a vonatkoztatási szint évenkénti vagy eseti 20–100 mSv közötti effektív dózis, amelynek a veszélyhelyzeti körülményektől függő pontos értékét az Országos Nukleárisbaleset-elhárítási Tervben kell rögzíteni,
+a)[^53] veszélyhelyzeti sugárzási helyzetekben – a veszélyhelyzet típusától és körülményeitől függően – a vonatkoztatási szint évenkénti vagy eseti 20–100 mSv közötti effektív dózis, amelynek a veszélyhelyzeti körülményektől függő pontos értékét az országos nukleárisbaleset-elhárítási rendszerről szóló kormányrendelet szerinti Országos Nukleárisbaleset-elhárítási Tervben kell rögzíteni,
 
-b) fennálló sugárzási helyzetekben a vonatkoztatási szint évenként legfeljebb 6 mSv effektív dózis, melynek a radiológiai körülményektől függő pontos értékét a társadalmi és gazdasági tevékenységek figyelembevételével, az érdekelt felekkel egyeztetve, a 48. § (1) bekezdésében foglalt védelmi stratégia alapján az OAH határozza meg.
+b)[^54] fennálló sugárzási helyzetekben a vonatkoztatási szint évenként legfeljebb 6 mSv effektív dózis, melynek a radiológiai körülményektől függő pontos értékét a társadalmi és gazdasági tevékenységek figyelembevételével, az érdekelt felekkel egyeztetve, a 48. § (1) bekezdésében foglalt védekezési stratégia alapján az OAH határozza meg.
 
 (2) A veszélyhelyzeti sugárzási helyzetről fennálló sugárzási helyzetre való áttérés jóváhagyásának feltétele, hogy az adott területeken való tartózkodás következtében a lakosság tagjainak sugárterhelése az (1) bekezdés b) pontjában meghatározott vonatkoztatási szintet ne haladja meg, valamint a terhesség teljes időtartamára vonatkoztatva a magzat sugárterhelése ne haladja meg a 6 mSv egyenérték dózist.
 
@@ -10,7 +10,7 @@ b) fennálló sugárzási helyzetekben a vonatkoztatási szint évenként legfel
 
 (4) Fennálló sugárzási helyzetben azon esetekben, amikor a lakossági sugárterhelés meghaladhatja a 6 mSv/év értéket, tájékoztatni kell az egyes személyeket az őket érő ionizáló sugárzás kockázatairól és csökkentésének lehetséges módjáról, annak érdekében, hogy a lehető legalacsonyabb szinten tarthassák a sugárterhelésüket. A 6 mSv/év értéket meghaladó sugárterhelések esetében az érintett területen közreműködő munkavállalók tevékenységét tervezett sugárzási helyzetként kell kezelni az e rendelet 10–14. §-ában foglalt előírások alkalmazásával.
 
-(5) Veszélyhelyzetben a 20 mSv/év értéket meghaladó lakossági sugárterhelések esetében intézkedni kell a személyi dózisok felméréséről és haladéktalanul tájékoztatást kell adni a sugárzás kockázatairól és a sugárterhelés csökkentésének lehetséges módjáról, a nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló kormányrendelet szerint.
+(5)[^55] Veszélyhelyzetben a 20 mSv/év effektív dózist meghaladó lakossági sugárterhelések esetében intézkedni kell a személyi dózisok felméréséről és haladéktalanul tájékoztatást kell adni a sugárzás kockázatairól és a sugárterhelés csökkentésének lehetséges módjáról, a nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló kormányrendelet szerint.
 
 (6) A védelem optimálása során elsősorban a vonatkoztatási szint feletti sugárterhelések csökkentésére kell figyelmet fordítani, de az optimálást a vonatkoztatási szint alatt is folytatni kell.
 
@@ -18,4 +18,7 @@ b) fennálló sugárzási helyzetekben a vonatkoztatási szint évenként legfel
 
 (8) Az építőanyagokból származó beltéri külső sugárterheléssel járó fennálló sugárzási helyzetekre irányadó vonatkoztatási szintekre a radon-expozícióval járó fennálló sugárzási helyzetekre irányadó vonatkoztatási szinteket és a 49. § (4)–(8) bekezdésében és az 50. §-ban foglalt védekezési stratégiát kell alkalmazni, azzal, hogy a radontól származó sugárterhelés helyett az építőanyagokból származó külső sugárterhelést kell figyelembe venni.
 
-[^46]: A 9. § a 27/2018. (II. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^52]: A 9. § a 27/2018. (II. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^53]: A 9. § (1) bekezdés a) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^54]: A 9. § (1) bekezdés b) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^55]: A 9. § (5) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.

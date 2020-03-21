@@ -1,12 +1,12 @@
-## 18. § Az atomenergia alkalmazási körébe tartozó tevékenységet csak megfelelő fokozatú sugárvédelmi képzettséggel és a tevékenységének gyakorlásához szükséges, jogszabályban meghatározott szakmai képesítéssel rendelkező személy végezhet.
+## 18. §[^68] Az atomenergia alkalmazási körébe tartozó tevékenységet csak megfelelő fokozatú és szakirányú sugárvédelmi képzettséggel és a tevékenységének gyakorlásához szükséges, jogszabályban meghatározott szakmai képesítéssel rendelkező személy végezhet.
 
 ## 12. Képzettségi követelmények
 
-19. §[^58] (1) Legalább alapfokozatú sugárvédelmi képzettséggel kell rendelkezniük azoknak, akik
+19. §[^69] (1) Legalább alapfokozatú sugárvédelmi képzettséggel kell rendelkezniük azoknak, akik
 
 a) sugárterhelésnek kitett munkavállalók, akik radioaktív sugárforrással nem dolgoznak, de munkaköri kötelességük teljesítése keretében tervezett sugárterhelésnek lehetnek kitéve,
 
-b) a 19. § (2) bekezdés a) pontjában foglaltak kivételével a III. sugárvédelmi kategóriába sorolt tevékenység során sugárforrással dolgoznak, vagy ilyen tevékenységet közvetlenül felügyelnek, irányítanak,
+b)[^70] a 19. § (2) bekezdés a) és e) pontjában foglaltak kivételével a III. sugárvédelmi kategóriába sorolt tevékenység során sugárforrással dolgoznak, vagy ilyen tevékenységet közvetlenül felügyelnek, irányítanak,
 
 c) radioaktív anyagok telephelyen kívüli szállítására vonatkozó előírások alapján sugárvédelmi képzésre kötelezettek, és a
 
@@ -20,27 +20,36 @@ b) kiemelt létesítményben, az I. vagy a II. sugárvédelmi kategóriába soro
 
 c) a II. vagy a III. sugárvédelmi kategóriába sorolt tevékenység sugárvédelmi szempontú felügyeletét szervezeti szinten irányítják,
 
-d) a veszélyhelyzet-elhárítási tervben vagy veszélyhelyzet-kezelési rendszerben meghatározott veszélyhelyzeti munkavállalók azon csoportjába tartoznak, akik a veszélyhelyzettel érintett területen a helyszíni védelmi intézkedések közvetlen végrehajtását irányítják.
+d)[^71] a veszélyhelyzet-elhárítási tervben vagy veszélyhelyzet-kezelési rendszerben meghatározott veszélyhelyzeti munkavállalók azon csoportjába tartoznak, akik a veszélyhelyzettel érintett területen a helyszíni védelmi intézkedések közvetlen végrehajtását irányítják, és
+
+e)[^72] zárt sugárforrásnak nem minősülő, csomagolatlan radioaktív készítménnyel folytatott tevékenységet közvetlenül felügyelnek, irányítanak, kivéve, ha a radioaktív anyag olyan – a munkahelyi sugárvédelmi szabályzatban meghatározott – csomagolóeszközben van, amely a normál munkakörülmények között megtartja tartalmát.
 
 (3) Átfogó fokozatú sugárvédelmi képzettséggel kell rendelkezniük azoknak, akik
 
-a) kiemelt létesítményben vagy az I. sugárvédelmi kategóriába sorolt tevékenységek során a sugárveszélyes munkavégzést tervezik vagy szervezeti szinten irányítják,
+a)[^73] kiemelt létesítményben vagy az I. sugárvédelmi kategóriába sorolt tevékenységek során a sugárveszélyes munkavégzést tervezik vagy a sugárveszélyes tevékenységet végző szervezeti egységet közvetlenül irányítják,
 
-b) kiemelt létesítmény vagy az I. sugárvédelmi kategóriába sorolt tevékenység sugárvédelmi szempontú felügyeletét szervezeti szinten irányítják,
+b)[^74] kiemelt létesítmény vagy az I. sugárvédelmi kategóriába sorolt sugárvédelmi szempontú felügyeletet ellátó szervezeti egységet közvetlenül irányítják,
 
 c) orvosfizikusként, orvosi fizikus szakértőként vagy klinikai sugárfizikusként sugárterápiás tervezést végeznek,
 
-d) a sugárveszélyes munkahelyek hatósági ellenőrzését végzik,
+d)[^75] sugárveszélyes tevékenységek sugárvédelmi hatósági ellenőrzését vagy engedélyezését végzik,
 
 e) alapfokú, bővített fokozatú vagy átfogó fokozatú sugárvédelmi tanfolyamokon oktatnak vagy vizsgáztatnak,
 
 f) a kiemelt létesítmények, az I. sugárvédelmi kategóriába tartozó sugárveszélyes munkahelyek, továbbá az országos nukleárisbaleset-elhárítási rendszer veszélyhelyzet-elhárítási terveiben vagy veszélyhelyzet-kezelési rendszerében meghatározott azon munkavállalók, akik veszélyhelyzeti sugárzási helyzet sugárvédelmi következményeinek értékelését végzik, valamint a sugárterhelés csökkentésére irányuló védelmi intézkedésekre javaslatot adnak.
 
-(4)[^59] Az átfogó fokozatú sugárvédelmi képesítés mellett sugárvédelmi szakértői kiegészítő képzettséggel is kell rendelkezniük azoknak, akik
+(4)[^76] Az átfogó fokozatú sugárvédelmi képesítés mellett sugárvédelmi szakértői kiegészítő képzettséggel is kell rendelkezniük azoknak, akik
 
 a) sugárveszélyes munkahelyek kialakításának sugárvédelmét vagy a már engedélyezett sugárvédelmi rendszer hatósági engedélyezéshez köthető átalakítását tervezik, vagy
 
 b) egyéb sugárvédelmi szakértői tevékenységet folytatnak.
 
-[^58]: A 19. § a 27/2018. (II. 28.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^59]: A 19. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^68]: A 18. § a 36/2020. (III. 5.) Korm. rendelet 13. § 8. pontja szerint módosított szöveg.
+[^69]: A 19. § a 27/2018. (II. 28.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^70]: A 19. § (1) bekezdés b) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 9. pontja szerint módosított szöveg.
+[^71]: A 19. § (2) bekezdés d) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^72]: A 19. § (2) bekezdés e) pontját a 36/2020. (III. 5.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^73]: A 19. § (3) bekezdés a) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^74]: A 19. § (3) bekezdés b) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 12. pontja szerint módosított szöveg.
+[^75]: A 19. § (3) bekezdés d) pontja a 36/2020. (III. 5.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^76]: A 19. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 23. § (2) bekezdése iktatta be.

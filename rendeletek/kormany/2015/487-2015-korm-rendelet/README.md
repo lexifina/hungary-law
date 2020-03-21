@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-487-20-
 | 2018-03-01 | 2015-487-20-22.5 | 27/2018. (II. 28.) Korm. rendelet |
 | 2018-10-01 | 2015-487-20-22.6 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2020-01-01 | 2015-487-20-22.7 | 27/2018. (II. 28.) Korm. rendelet |
+| 2020-03-21 | 2015-487-20-22.8 | 36/2020. (III. 5.) Korm. rendelet |

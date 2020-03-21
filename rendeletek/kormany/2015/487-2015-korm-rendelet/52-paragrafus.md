@@ -1,8 +1,8 @@
 ## 33. Mentesítés
 
-52. §[^148] (1) Az OAH egyes bejelentési kötelezettségek fenntartásával engedélyezési eljárásban mentesíti az e rendeletben szereplő sugárvédelmi előírások alkalmazása alól az ionizáló sugárzást létrehozó berendezés típusának alkalmazását, ha
+52. §[^194] (1) Az OAH egyes bejelentési kötelezettségek fenntartásával engedélyezési eljárásban mentesíti az e rendeletben szereplő sugárvédelmi előírások alkalmazása alól az ionizáló sugárzást létrehozó berendezés típusának alkalmazását, ha
 
-a) a berendezés típusát – az 53. § (1) bekezdés 3. pontja szerinti eljárásban – jóváhagyta, vagy az 54. § (3) bekezdésében felsorolt adatok rendelkezésre állnak,
+a)[^195] a berendezés típusát – az 53. § (1) bekezdés 3. pontja szerinti eljárásban – jóváhagyta, vagy az 54. § (5) bekezdésében felsorolt adatok rendelkezésre állnak,
 
 b) normál üzemelési körülmények között a berendezés hozzáférhető felszínétől mért 0,1 m távolságban a környezeti dózisegyenérték-teljesítmény 1 μSv/h-nál nem nagyobb,
 
@@ -20,7 +20,7 @@ b) a sugárvédelmi elemzés alapján a berendezés normál üzemi használata s
 
 (3) Az OAH a bejelentési kötelezettség fenntartásával mentesíti az e rendeletben szereplő sugárvédelmi hatósági felügyelete alól annak a radioaktív sugárforrást tartalmazó készülék típusának alkalmazását, amely
 
-a) készülék típusát – az 53. § (1) bekezdés 3. pontja szerinti eljárásban – jóváhagyta, vagy az 54. § (3) bekezdésében felsorolt adatok rendelkezésre állnak,
+a)[^196] készülék típusát – az 53. § (1) bekezdés 3. pontja szerinti eljárásban – jóváhagyta, vagy az 54. § (5) bekezdésében felsorolt adatok rendelkezésre állnak,
 
 b) a radioaktív anyagot a várható igénybevételnek megfelelően kialakított zárt sugárforrás formájában tartalmazza, és a radioaktív sugárforrást oly módon rögzítették a berendezésben, hogy az normál körülmények között megakadályozza a radioaktív anyaggal történő közvetlen érintkezést és a sugárforrás kijutását a környezetbe,
 
@@ -40,4 +40,6 @@ b) a sugárvédelmi elemzés alapján a készülék normál üzemi használata s
 
 (6) Az OAH a bejelentési kötelezettség fenntartásával, engedélyezési eljárásban mentesíti az e rendeletben szereplő sugárvédelmi hatósági felügyelet alól annak a radioaktív sugárforrásnak az alkalmazását, amely vonatkozásában arra jogosított sugárvédelmi szakértő által készített biztonsági értékelésben igazolják, hogy a tevékenységből eredően összes előrelátható körülmény figyelembevételével a lakosság bármely tagját várhatóan érő egyéni évi sugárterhelés nem haladja meg a 30 μSv effektív dózist, és az alacsony valószínűségű események bekövetkezésekor a dózis 1 mSv/év alatt marad, valamint természetben előforduló radionuklidok esetén az alkalmazó személyt érő többletdózis legfeljebb 1 mSv/év. A feltételezett események köréből kiszűrhetők az olyan események, amelyek bekövetkezési gyakorisága 10–6/évnél kisebb.
 
-[^148]: Az 52. § a 27/2018. (II. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^194]: Az 52. § a 27/2018. (II. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^195]: Az 52. § (1) bekezdés a) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 37. pontja szerint módosított szöveg.
+[^196]: Az 52. § (3) bekezdés a) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 37. pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## 1.1. Általános követelmények (sugárvédelmi képzések)
 
-## 1.1.1. A sugárvédelmi képzés lehetséges szakirányai:
+## 1.1.1. Az alap- és bővített fokozatú sugárvédelmi képzés lehetséges szakirányai:
 
 ## 1.1.1.1. Egészségügyi alkalmazások, beleértve oktatást és kutatást
 
@@ -13,6 +13,12 @@
 ## 1.1.1.4. Nukleáris létesítmények üzemeltetése
 
 ## 1.1.1.5. Több, az 1.1.1.2–1.1.1.4. pontban felsorolt ipari szakirányok együttesen
+
+## 1.1.2. Az átfogó fokozatú sugárvédelmi képzés lehetséges szakirányai
+
+## 1.1.2.1. Egészségügyi alkalmazások, beleértve az oktatást és a kutatást
+
+## 1.1.2.2. Nukleáris és egyéb ipari alkalmazások, beleértve az oktatást és a kutatást
 
 ## 1.2. Alapfokozatú képzés (1 nap)
 
@@ -36,13 +42,13 @@
 
 ## 1.3.4. Nukleáris védettségi ismeretek (legalább 2 óra)
 
-## 1.3.5. Választott szakirányú sugárvédelmi ismeretek (legalább 8 óra)
+## 1.3.5. Választott szakirányú sugárvédelmi ismeretek (legalább 8 óra szakirányonként)
 
 ## 1.3.6. Gyakorlati méréstechnika (legalább 4 óra)
 
 ## 1.3.7. Konzultáció (legalább 4 óra)
 
-## 1.4. Átfogó fokozatú képzés (8 nap és egy szakértői szakirány 2 nap)
+## 1.4. Átfogó fokozatú képzés (8 nap), sugárvédelmi szakértői kiegészítő képzés (szakirányonként 2 nap)
 
 ## 1.4.1. Kötelező tárgyak az átfogó fokozatú képzésen
 
@@ -58,7 +64,7 @@
 
 ## 1.4.1.6. Nukleáris védettségi ismeretek (legalább 2 óra)
 
-## 1.4.1.7 Jogszabályi előírások ismertetése, szabványok áttekintése (legalább 12 óra)
+## 1.4.1.7 Jogszabályi előírások ismertetése, szabványok áttekintése (legalább 9 óra)
 
 ## 1.4.1.8. Elméleti és gyakorlati dozimetriai ismeretek (legalább 4 óra elmélet és 2 óra gyakorlat)
 
@@ -68,37 +74,49 @@
 
 ## 1.4.1.11. Minőségbiztosítási, minőségellenőrzési vizsgálatok folyamata (legalább 1 óra)
 
-## 1.4.1.12. Sugárvédelmi tervezés és értékelés: kockázatelemzés, dózistervezés, optimálás (legalább 8 óra)
+## 1.4.1.12. Sugárvédelmi tervezés és értékelés alapjai: kockázatelemzés, dózistervezés, optimálás (legalább 4 óra)
 
-## 1.4.1.13. Sugárvédelmi tervezés és értékelés: árnyékolások számítása, transzport kódok alkalmazása (elméleti és gyakorlati képzés) (legalább 3 óra elmélet és 3 óra gyakorlat)
+## 1.4.1.13. Sugárvédelmi tervezés és értékelés alapjai: árnyékolások számítása, transzport kódok alkalmazása (elméleti és gyakorlati képzés) (legalább 3 óra elmélet és 3 óra gyakorlat)
 
-## 1.4.1.14. Sugárvédelmi tervezés és értékelés: kibocsátás és környezetellenőrzés, terjedésszámítás (legalább
+## 1.4.1.14. Sugárvédelmi tervezés és értékelés alapjai: kibocsátás és környezetellenőrzés, terjedésszámítás (legalább
 
 ## 2 óra)
 
 ## 1.4.1.15. Konzultáció (legalább 2 óra)
 
-## 1.4.2. Az 1.1.1.2–1.1.1.4. pontban felsorolt ipari szakirányokat együttesen tartalmazó ipari alkalmazások szakirányú elvárások szakértői munkavégzéshez kapcsolódóan (legalább 16 óra)
+## 1.4.2. Nukleáris és egyéb ipari szakirányhoz kapcsolódó elvárások
 
-## 1.4.2.1. Ipari alkalmazások, munkafolyamatok ismerete (legalább 8 óra)
+## 1.4.2.1. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok ismerete (legalább 4 óra)
 
-## 1.4.2.2. Munkavállalók és a lakosság sugárvédelme az ipari és energetikai alkalmazások során (legalább
+## 1.4.2.2. Munkavállalók és a lakosság sugárvédelme a nukleáris és egyéb ipari alkalmazások során (legalább 4 óra)
 
-## 6 óra)
+## 1.4.3. Egészségügyi szakirányhoz kapcsolódó elvárások
 
-## 1.4.2.3. Konzultáció (legalább 2 óra)
+## 1.4.3.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
 
-## 1.4.3. Az egészségügyi alkalmazások szakirányú elvárások szakértői munkavégzéshez kapcsolódóan (legalább
+## 1.4.3.2. Terápiás és diagnosztikai eljárások ismerete (legalább 4 óra)
 
-## 16 óra)
+## 1.4.3.3. Munkavállalók, páciensek és segítők sugárvédelme a terápiában és diagnosztikában (legalább 2 óra)
 
-## 1.4.3.1. Terápiás és diagnosztikai berendezések ismerete (legalább 4 óra)
+## 1.4.4. Szakértői kiegészítő modulok tárgyai szakirányonként
 
-## 1.4.3.2. Terápiás és diagnosztikai eljárások ismerete (legalább 6 óra)
+## 1.4.4.1. Nukleáris és egyéb ipari alkalmazások szakirányú elvárások szakértői munkavégzéshez kapcsolódóan
 
-## 1.4.3.3. Munkavállalók, páciensek és segítők sugárvédelme a terápiában és diagnosztikában (legalább 4 óra)
+## 1.4.4.1.1. A nukleáris és egyéb ipari alkalmazások sugárvédelmi szempontú biztonsági elemzése (legalább 6 óra)
 
-## 1.4.3.4. Konzultáció (legalább 2 óra)
+## 1.4.4.1.2. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok sugárvédelmi tervezése, munkavállalók és a lakosság sugárvédelme (legalább 8 óra)
+
+## 1.4.4.1.3. Konzultáció (legalább 2 óra)
+
+## 1.4.4.2. Az egészségügyi alkalmazások szakirányú elvárások szakértői munkavégzéshez kapcsolódóan
+
+## 1.4.4.2.1. Terápiás és diagnosztikai berendezések ismerete (legalább 4 óra)
+
+## 1.4.4.2.2. Terápiás és diagnosztikai eljárások sugárvédelmi szempontú biztonsági elemzése (legalább 4 óra)
+
+## 1.4.4.2.3. Munkavállalók, páciensek és segítők sugárvédelmének tervezése a terápiában és diagnosztikában (legalább 6 óra)
+
+## 1.4.4.2.4. Konzultáció (legalább 2 óra)
 
 ## 2.1. Alapfokozatú továbbképzés (1 nap)
 
@@ -146,25 +164,43 @@
 
 ## 2.3.1.7. Gyakorlati méréstechnika, dozimetria (legalább 2 óra)
 
-## 2.3.1.8. Sugárvédelmi tervezés (legalább 6 óra elmélet és 2 óra gyakorlati képzés)
+## 2.3.1.8. Sugárvédelmi tervezés alapjai (legalább 4 óra elmélet és 3 óra gyakorlati képzés)
 
-## 2.3.2. Választott szakirányú elvárások (legalább 10 óra)
+## 2.3.1.9. Konzultáció (legalább 1 óra)
 
-## 2.3.2.1. A választott szakirányú elvárások az 1.1.1.2–1.1.1.4. pontban felsorolt ipari szakirányokat együttesen tartalmazó ipari szakirányú képzés során
+## 2.3.2. Nukleáris és egyéb ipari szakirányhoz kapcsolódó elvárások
 
-## 2.3.2.1.1. Ipari alkalmazások, munkafolyamatok ismerete (legalább 6 óra)
+## 2.3.2.1. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok ismerete (legalább 6 óra)
 
-## 2.3.2.1.2. Munkavállalók és a lakosság sugárvédelme az ipari alkalmazások során (legalább 2 óra)
+## 2.3.2.2. Munkavállalók és a lakosság sugárvédelme a nukleáris és egyéb ipari alkalmazások során (legalább 2 óra)
 
-## 2.3.2.2. A választott szakirányú elvárások az egészségügyi szakirányú képzés során
+## 2.3.3. Egészségügyi szakirányhoz kapcsolódó elvárások
 
-## 2.3.2.2.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
+## 2.3.3.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
 
-## 2.3.2.2.2. Terápiás és diagnosztikai eljárások ismerete (legalább 4 óra)
+## 2.3.3.2. Terápiás és diagnosztikai eljárások ismerete (legalább 4 óra)
 
-## 2.3.2.2.3. Munkavállalók, páciensek és segítők sugárvédelme a terápiában és diagnosztikában (legalább 2 óra)
+## 2.3.3.3. Munkavállalók, páciensek és segítők sugárvédelme a terápiában és diagnosztikában (legalább 2 óra)
 
-## 2.3.2.3. Konzultáció (legalább 2 óra)
+## 2.3.4. Szakértői kiegészítő modulok tárgyai szakirányonként
+
+## 2.3.4.1. Nukleáris és egyéb ipari alkalmazások szakirányú elvárások szakértői munkavégzéshez kapcsolódóan
+
+## 2.3.4.1.1. A nukleáris és egyéb ipari alkalmazások sugárvédelmi szempontú biztonsági elemzése (legalább 3 óra)
+
+## 2.3.4.1.2. Nukleáris és egyéb ipari alkalmazások, munkafolyamatok sugárvédelmi tervezése, munkavállalók és a lakosság sugárvédelme (legalább 4 óra)
+
+## 2.3.4.1.3. Konzultáció (legalább 1 óra)
+
+## 2.3.4.2. Az egészségügyi alkalmazások szakirányú elvárások szakértői munkavégzéshez kapcsolódóan
+
+## 2.3.4.2.1. Terápiás és diagnosztikai berendezések ismerete (legalább 2 óra)
+
+## 2.3.4.2.2. Terápiás és diagnosztikai eljárások sugárvédelmi szempontú biztonsági elemzése (legalább 2 óra)
+
+## 2.3.4.2.3. Munkavállalók, páciensek és segítők sugárvédelmének tervezése a terápiában és diagnosztikában (legalább 3 óra)
+
+## 2.3.4.2.4. Konzultáció (legalább 1 óra)
 
 ## 3. Vizsgáztatás rendje
 
@@ -174,6 +210,6 @@
 
 ## 3.3. A vizsga akkor tekinthető sikeresnek, ha a vizsgázó az írásbeli vizsgán és a szóbeli vizsgán is elérte a „megfelelő” szintet. Abban az esetben, ha a vizsgázó a vizsga írásbeli vagy szóbeli részén nem érte el a „megfelelő” szintet, a vizsgát eredménytelennek kell tekinteni, és vizsgabizonyítvány nem adható ki.
 
-5. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^214]
+5. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^283]
 
-[^214]: Az 5. melléklet a 27/2018. (II. 28.) Korm. rendelet 56. § 44–47. pontja szerint módosított szöveg.
+[^283]: Az 5. melléklet a 27/2018. (II. 28.) Korm. rendelet 56. § 44–47. pontja, a 36/2020. (III. 5.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.

@@ -44,7 +44,7 @@
 
 ## 3.3. Az aktivitáskoncentráció-index értéke l-nek vehető olyan anyagok konzervatív kiszűrésére, amelyek miatt sor kerülhet
 
-## 46. § (1) bekezdésében megállapított vonatkoztatási szint meghaladására.
+## az 50. § (1) bekezdésében megállapított vonatkoztatási szint meghaladására.
 
 ## 3.4. Pontos dózisszámításnál figyelembe kell venni más tényezőket is, különösen az anyag fajsúlyát, az adott geometriát, valamint az épülettípushoz és az anyag rendeltetéséhez (ömlesztett formában felhasznált vagy felületi anyagok) kapcsolódó tényezőket.
 
@@ -86,6 +86,6 @@
 
 ## 17. timföldgyártás és -feldolgozás.
 
-7. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^216]
+7. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^285]
 
-[^216]: A 7. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (3) bekezdésével megállapított szöveg.
+[^285]: A 7. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (5) bekezdése szerint módosított szöveg.

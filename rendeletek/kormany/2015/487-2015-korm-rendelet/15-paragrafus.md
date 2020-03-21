@@ -1,4 +1,4 @@
-15. § (1)[^56] Veszélyhelyzetben a baleset következményeinek elhárításában részt vevő személyekre a vonatkoztatási szinteket az alábbiak szerint kell alkalmazni:
+15. § (1)[^66] Veszélyhelyzetben a baleset következményeinek elhárításában részt vevő személyekre a vonatkoztatási szinteket az alábbiak szerint kell alkalmazni:
 
 a) A veszélyhelyzet elhárításának tervezése során a veszélyhelyzeti munkavállalók munkáltatójának biztosítani kell, hogy a veszélyhelyzeti foglalkozási sugárterhelés – lehetőség szerint – ne érje el a 12. §-ban meghatározott dóziskorlátok szintjét.
 
@@ -32,4 +32,4 @@ b) a megjelenéshez szükséges költségek fedezését is beleértve feltétel 
 
 (9) Ha a vizsgálat időtartama nem számít betegállománynak és az egészségügyi követés részét képező vizsgálatokon történő megjelenés a munkáltatónál érvényes munkaidőben történik, a vizsgálatok és a vizsgálatokhoz szükséges utazás időtartamát a munkáltató köteles rendes munkaidőben eltöltött munkaként elszámolni.
 
-[^56]: A 15. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^66]: A 15. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 21. §-ával megállapított szöveg.

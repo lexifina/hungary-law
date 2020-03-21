@@ -2,13 +2,13 @@
 
 65. § (1) Az OAH a hatósági ellenőrzés rendjére tekintettel a honlapján köteles közzétenni és naprakész állapotban tartani
 
-a)[^199] a típusengedéllyel rendelkező, ionizáló sugárzást létrehozó és radioaktív sugárforrásokat tartalmazó berendezések listáját,
+a)[^262] a típusengedéllyel rendelkező, ionizáló sugárzást létrehozó és radioaktív sugárforrásokat tartalmazó berendezések listáját,
 
-b)[^200] a mentesített ionizáló sugárzást létrehozó és radioaktív sugárforrásokat tartalmazó berendezések listáját,
+b)[^263] a mentesített ionizáló sugárzást létrehozó és radioaktív sugárforrásokat tartalmazó berendezések listáját,
 
 c) az engedélyezett sugárvédelmi védőeszközök listáját,
 
-d)[^201]
+d)[^264]
 
 e) a lakosságra vonatkozó külső sugárterheléssel és a radioaktív szennyezéssel kapcsolatos mérések eredményeit, a radionuklid-felvétellel kapcsolatos becslések eredményeit, valamint a reprezentatív személy által kapott dózis-értékelések eredményeit,
 
@@ -22,9 +22,9 @@ g) a sugárvédelmi képzésre és továbbképzésre engedéllyel rendelkezők l
 
 (4) Az OAH tájékoztatja a többi tagállam illetékes hatóságának kapcsolattartóját az 53. § (1) 12. pontja szerinti engedélyezési eljárás során kapott adatokról és információkról, továbbá kérésre köteles tájékoztatást adni a vonatkozó határozatáról és annak műszaki megalapozásáról.
 
-(5)[^202] Az OAH az ionizáló sugárzást létrehozó berendezésekre és alkalmazásukra vonatkozóan naprakész nyilvántartást vezet. A nyilvántartáshoz az orvosi berendezésekre vonatkozó információk tekintetében hozzáférést biztosít az orvosi radiológiai létesítmények működését felügyelő társhatóságok részére.
+(5)[^265] Az OAH az ionizáló sugárzást létrehozó berendezésekre és alkalmazásukra vonatkozóan naprakész nyilvántartást vezet. A nyilvántartáshoz az orvosi berendezésekre vonatkozó információk tekintetében hozzáférést biztosít az orvosi radiológiai létesítmények működését felügyelő társhatóságok részére.
 
-[^199]: A 65. § (1) bekezdés a) pontja a 27/2018. (II. 28.) Korm. rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^200]: A 65. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 40. pontja szerint módosított szöveg.
-[^201]: A 65. § (1) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § l) pontja hatályon kívül helyezte.
-[^202]: A 65. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^262]: A 65. § (1) bekezdés a) pontja a 27/2018. (II. 28.) Korm. rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^263]: A 65. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 40. pontja szerint módosított szöveg.
+[^264]: A 65. § (1) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § l) pontja hatályon kívül helyezte.
+[^265]: A 65. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 54. § (2) bekezdése iktatta be.

@@ -40,31 +40,31 @@
 
 ## 2.3.2. A folyékony hulladékokat gyűjtő és elvezető rendszer jellemzőinek, biztonság szempontjából fontos részegységeinek ismertetése, nyomvonalának bemutatása a kibocsátási pontig,
 
-## 2.3.3. A telepített sugárvédelmi ellenőrzéshez alkalmazott telepített dózismérők, dózisteljesítmény-mérők, aeroszolaktivitáskoncentráció-mérők, személyi szennyezettség-ellenőrző monitorok, valamint személy- és teherforgalom ellenőrzésére szolgáló detektorok leírása és helyzetüknek a munkahely alaprajzán való feltüntetése,
+## 2.3.3. A sugárvédelmi ellenőrzéshez alkalmazott dózismérők, dózisteljesítmény-mérők, aeroszolaktivitáskoncentráció-mérők, személyi szennyezettség-ellenőrző monitorok, valamint személy- és teherforgalom ellenőrzésére szolgáló detektorok leírása és helyzetüknek a munkahely alaprajzán való feltüntetése,
 
 ## 2.3.4. A sugárvédelmi árnyékolást biztosító mobil vagy rögzített árnyékolások, épített árnyékoló falak jellemzőinek és árnyékoló képességének leírása.
 
-## 3. A potenciális foglalkozási és lakossági sugárterhelések értékelése normál üzemi, üzemzavari és baleseti körülmények között
+## 3. A tervezett (normális és potenciális), valamint veszélyhelyzeti foglalkozási és lakossági sugárterhelések értékelése
 
 ## 3.1. A sugárvédelem kialakítása során alkalmazott optimálási szempontok:
 
-## 3.1.1. A sugárvédelem rendszerszemléletű megközelítése, figyelembe véve a munkavállalók eltérő sugárveszélyes munkahelyen (más munkáltatónál, vagy másik telephelyen), vagy részben eltérő szabályozás alapján (szállítás, nukleáris létesítmények üzemeltetése, radioaktívhulladék-tárolók üzemeltetése, radontól származó fennálló sugárzási helyzet) végzett tevékenységét.
+## 3.1.1. A sugárvédelem rendszerszemléletű megközelítése, figyelembe véve a munkavállalók eltérő sugárveszélyes munkahelyen (más munkáltatónál vagy másik telephelyen) vagy részben eltérő szabályozás alapján (szállítás, nukleáris létesítmények üzemeltetése, radioaktívhulladék-tárolók üzemeltetése, radontól származó fennálló sugárzási helyzet) végzett tevékenységét.
 
 ## 3.1.2. Ahol nyitott radioaktív sugárforrásokkal is dolgoznak, a jelentős radioaktív szennyezés kockázatának csökkentése.
 
-## 3.1.3. a munkavállalókra vonatkozó foglalkozási dózismegszorítás – valamint jelentős sugárterhelés kockázatával járó, eltérő jellegű munkafolyamatok esetében dózismegszorítások – értéke,
+## 3.1.3. A munkavállalókra vonatkozó foglalkozási dózismegszorítás – valamint jelentős sugárterhelés kockázatával járó, eltérő jellegű munkafolyamatok esetében dózismegszorítások – értéke.
 
 ## 3.2. A környező lakosság védelmének a terve:
 
-## 3.2.1. A lakosság tagjainak lehetséges besugárzási útvonalai, a várható legnagyobb lakossági dózisterhelés becsült értéke,
+## 3.2.1. a lakosság tagjainak lehetséges besugárzási útvonalai, a várható legnagyobb lakossági dózisterhelés becsült értéke,
 
 ## 3.2.2. a lakossági dózismegszorítás értéke,
 
 ## 3.2.3. adott esetben a létesítmény és alkalmazás nukleáris veszélyhelyzeti tervezési kategóriája.
 
-## 3.3. A keletkező radioaktív hulladékok jellemzői és várható mennyiségük
+## 3.3. A keletkező radioaktív hulladékok jellemzői és várható mennyiségük.
 
-## 3.4. A tervszerű radioaktívanyag-kibocsátások útvonala és mértéke, a kibocsátásokból eredő lakossági dózisterhelés becslésével egyetemben, kiemelt létesítmény estén a környezeti kibocsátás határértékei és környezeti kibocsátások feltételeit megállapító, az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló jogszabály figyelembe vételével készített radioaktív környezeti kibocsátási tervek formájában.
+## 3.4. A tervszerű radioaktívanyag-kibocsátások útvonala és mértéke, a kibocsátásokból eredő lakossági dózisterhelés becslésével egyetemben, kiemelt létesítmény esetén a környezeti kibocsátás határértékei és környezeti kibocsátások feltételeit megállapító, az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló jogszabály figyelembevételével készített radioaktív környezeti kibocsátási tervek formájában.
 
 ## 4. A sugárvédelmi célú szervezeti biztonsági intézkedések leírása:
 
@@ -94,67 +94,83 @@
 
 ## 1. AZ ENGEDÉLYKÉRELEM BENYÚJTÁSÁNAK CÉLJA
 
-|  | □ | Új engedély |  |
+|  |  | A | B |
 
-|  | □ | Tevékenység módosítása | A meglévő engedély száma: |
+|  | 1 | □ Új engedély |  |
 
-|  | □ | Lejárt engedély megújítása | A meglévő engedély száma: |
+|  | 2 | □ Tevékenység módosítása | A meglévő engedély száma: |
 
-|  | □ | Átalakítási engedély | A meglévő engedély száma: |
+|  | 3 | □ Lejárt engedély megújítása | A meglévő engedély száma: |
+
+|  | 4 | □ Átalakítási engedély | A meglévő engedély száma: |
 
 ## 2. A SUGÁRVESZÉLYES TEVÉKENYSÉGÉRT FELELŐS SZERVEZET
 
-| Intézmény/Vállalkozás/Cég neve |  |
+|  |  | A | B |
 
-| A szervezet jellege: | □ természetes személy □ költségvetési szerv □ gazdasági társaság □ egyéni vállalkozó, egyéni cég |
+|  | 1 | Intézmény/Vállalkozás/Cég neve |  |
 
-| Székhely címe: |  |
+|  | 2 | A szervezet jellege: | □ természetes személy | □ költségvetési szerv |
 
-| Képviselője: |  |
+|  |  |  | □ gazdasági társaság | □ egyéni vállalkozó, egyéni cég |
 
-| Levelezési cím: |  |
+|  | 3 | Székhely címe: |  |
+
+|  | 4 | Képviselője: |  |
+
+|  | 5 | Levelezési cím: |  |
 
 ## 3. A SUGÁRVESZÉLYES MUNKAHELY ADATAI
 
-| A munkahely, szervezeti egység, laboratórium megnevezése: |  |
+|  |  | A | B |
 
-| A munkahely címe: |  |
+|  | 1 | A munkahely, szervezeti egység, laboratórium megnevezése: |  |
 
-| A munkahely helyiségeinek azonosítója: |  |
+|  | 2 | A munkahely címe: |  |
 
-| A munkahely / szervezeti egység vezetője: |  |
+|  | 3 | A munkahely helyiségeinek azonosítója: |  |
 
-| Telefon: |  |
+|  | 4 | A munkahely / szervezeti egység vezetője: |  |
 
-| E-mail: |  |
+|  | 5 | Telefon: |  |
+
+|  | 6 | E-mail: |  |
 
 ## 4. A SUGÁRVÉDELMI SZAKÉRTŐ ELÉRHETŐSÉGE
 
-| Neve: |  |
+|  |  | A | B |
 
-| Szakértői engedélyének száma: |  |
+|  | 1 | Neve: |  |
 
-| Telefon: |  |
+|  | 2 | Szakértői engedélyének száma: |  |
 
-| E-mail: |  |
+|  | 3 | Telefon: |  |
+
+|  | 4 | E-mail: |  |
 
 ## 5. A SUGÁRVÉDELMI MEGBÍZOTT ELÉRHETŐSÉGE
 
-| Neve: |  |
+|  |  | A | B |
 
-| Telefon: |  |
+|  | 1 | Neve: |  |
 
-| E-mail: |  |
+|  | 2 | Telefon: |  |
 
-## 6. A RADIOAKTIV ANYAGOK ALKALMAZÁSÁNAK JELLEGE ÉS SUGÁRVÉDELMI KATEGORIZÁLÁSA
+|  | 3 | E-mail: |  |
 
-| Az alkalmazott sugárforrások típusai: | □ nyitott sugárforrás alkalmazása □ zárt sugárforrás alkalmazása □ radioaktív sugárforrást tartalmazó készülék alkalmazása |
+## 6. A RADIOAKTÍV ANYAGOK ALKALMAZÁSÁNAK JELLEGE ÉS SUGÁRVÉDELMI KATEGORIZÁLÁSA
 
-| A radioaktív anyagok alkalmazásának jellege és sugárvédelmi kategorizálása: | Kiemelt létesítmények és I. kategóriába tartozó sugárveszélyes munkahelyek: □ I. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást tartalmazó készüléket – alkalmazása □ az MSZ 62-7 szabvány szerinti A-szintű ipari izotóplaboratóriumok üzemeltetése □ az MSZ 62-7 szabvány szerinti III. típusú orvosi izotóplaboratóriumok üzemeltetése □ teleterápiás, (afterloading) brachyterápiás munkahely □ egyéb nukleáris medicina izotópterápiás laboratórium II. kategóriába tartozó sugárveszélyes munkahelyek: □ II. és III. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást tartalmazó készüléket – alkalmazása □ az MSZ 62-7 szabvány szerinti B-szintű ipari izotóplaboratóriumok üzemeltetése □ az MSZ 62-7 szabvány szerinti II. típusú orvosi izotóplaboratóriumok üzemeltetése □ egyéb nukleáris medicina izotópdiagnosztikai laboratórium □ (implantációs) brachyterápiás orvosi terápiás munkahely III. kategóriába tartozó sugárveszélyes munkahelyek: □ IV. és V. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást tartalmazó készüléket – alkalmazása □ az MSZ 62-7 szabvány szerinti C-szintű ipari izotóplaboratóriumok üzemeltetése □ az MSZ 62-7 szabvány szerinti I. típusú orvosi izotóplaboratóriumok üzemeltetése □ a természetben előforduló, nem nukleáris radioaktív anyagokat feldolgozó – esetenként a feldolgozás következtében dúsító – tevékenység □ a nem orvosi radiológiai berendezés felhasználásával végzett nem-orvosi célú képalkotó tevékenység □ az olyan munkahely, ahol az átlagos évi radon-koncentráció meghaladja a munkahelyekre érvényes, a 487/2015. (XII. 30.) Korm. rendelet 49. § (3) bekezdés b) pontja szerinti vonatkoztatási szintet Egyéb munkahely/alkalmazás: |
+|  |  | A | B |
 
-| A végzendő tevékenység jellege: | Radioaktív anyag □ tárolása □ előállítása, termelése □ feldolgozása □ kezelése, felhasználása Radioaktív sugárforrást tartalmazó készülék □ tárolása □ üzemeltetése | Létesítmény □ létesítése és/vagy üzembehelyezése □ üzemeltetése □ Egyéb, radioaktív anyaggal kapcsolatos tevékenység |
+|  | 1 | A radioaktív anyagok alkalmazásának jellege és sugárvédelmi kategorizálása: | Kiemelt létesítmények és I. kategóriába tartozó sugárveszélyes munkahelyek: □ 1. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást tartalmazó készüléket – alkalmazása □ az MSZ 62-7 szabvány szerinti A-szintű ipari izotóplaboratóriumok üzemeltetése □ az MSZ 62-7 szabvány szerinti III. típusú orvosi izotóplaboratóriumok üzemeltetése □ teleterápiás, (afterloading) brachyterápiás munkahely □ egyéb nukleáris medicina izotópterápiás laboratórium □ 2. kategóriába tartozó radioaktív anyag – beleértve radioaktív sugárforrást tartalmazó készüléket – sugárveszélyes munkahelyen kívüli alkalmazása |
 
-| A végzendő tevékenység megnevezése: |  |
+|  | II. kategóriába tartozó sugárveszélyes munkahelyek: □ 2. és 3. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást tartalmazó készüléket – alkalmazása □ az MSZ 62-7 szabvány szerinti B-szintű ipari izotóplaboratóriumok üzemeltetése □ az MSZ 62-7 szabvány szerinti II. típusú orvosi izotóplaboratóriumok üzemeltetése □ egyéb nukleáris medicina izotópdiagnosztikai laboratórium □ (implantációs) brachyterápiás orvosi terápiás munkahely |
+
+|  | III. kategóriába tartozó sugárveszélyes munkahelyek: □ 4. és 5. kategóriába tartozó radioaktív anyag – beleértve a radioaktív sugárforrást tartalmazó készüléket – alkalmazása □ az MSZ 62-7 szabvány szerinti C-szintű ipari izotóplaboratóriumok üzemeltetése □ az MSZ 62-7 szabvány szerinti I. típusú orvosi izotóplaboratóriumok üzemeltetése □ a természetben előforduló, nem nukleáris radioaktív anyagokat feldolgozó – esetenként a feldolgozás következtében dúsító – tevékenység □ a nem orvosi radiológiai berendezés felhasználásával végzett nem-orvosi célú képalkotó tevékenység □ az olyan munkahely, ahol az átlagos évi radon-koncentráció meghaladja a munkahelyekre érvényes, a 487/2015. (XII. 30.) Korm. rendelet 49. § (2) bekezdés b) pontja szerinti vonatkoztatási szintet |
+
+|  | 2 | A végzendő tevékenység jellege: | Radioaktív anyag □ tárolása □ előállítása, termelése □ feldolgozása □ kezelése, felhasználása Radioaktív sugárforrást tartalmazó készülék □ tárolása □ üzemeltetése Létesítmény □ létesítése és/vagy üzembe helyezése □ üzemeltetése □ Egyéb, radioaktív anyaggal kapcsolatos tevékenység |
+
+|  | 3 | A végzendő tevékenység megnevezése: |  |
 
 ## 7. AZ ALKALMAZANDÓ RADIOAKTÍV ANYAGOK LEÍRÁSA
 
@@ -168,7 +184,15 @@
 
 ## 7.3. Radioaktív sugárforrást tartalmazó készülék
 
-| Sorszám | Izotóp (Elem és tömegszám) | A berendezésbe szerelt forrás aktivitás (Bq) | A készülék típusengedélyének (forgalomba hozatali engedélyének, hatósági minősítésének) a száma |
+|  | A | B | C | D | E |
+
+| 1 | Izotóp (Elem és tömegszám) | A berendezésbe szerelt forrás aktivitása (Bq) | Gyártó | Típus | A készülék típusengedélyének (forgalomba hozatali engedélyének, hatósági minősítésének) a száma |
+
+| 2 |  |  |  |  |  |
+
+| 3 |  |  |  |  |  |
+
+| 4 |  |  |  |  |  |
 
 ## 8. A SUGÁRVESZÉLYES TEVÉKENYSÉG HUMÁNERŐFORRÁS-IGÉNYE
 
@@ -404,7 +428,21 @@
 
 | Egyéb berendezés: |
 
-8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^217]
+## 9. A KÉRELEMHEZ MELLÉKELT DOKUMENTUMOK
+
+## 9.1. Sugárvédelmi Leírás, azonosítója:
+
+## 9.2. MSSZ azonosítója:
+
+## 9.3. Igazgatási díj befizetés igazolása
+
+## 9.4. Egyéb:
+
+## Adatlap készítésének dátuma:
+
+## Kérelmet benyújtó cégszerű aláírása:
+
+8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^286]
 
 A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
@@ -434,218 +472,4 @@ A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
 1.3.4. A sugárvédelmi szolgálat és sugárvédelmi szervezet, valamint a sugárvédelmi feladatokat ellátó személyek felelőssége
 
-1.3.5. A külső munkáltató felelőssége
-
-1.4. A foglalkozás-egészségügyi szolgáltatás rendje
-
-1.4.1. A foglalkozás-egészségügyi szolgálatról szóló jogszabálynak való megfelelőség biztosításának feltételei
-
-1.4.2. A sugáregészségügyi vizsgálatok szervezési rendje (beleértve a gyakoriságát, a megszervezésének módját, valamint az eltiltások kezelését)
-
-1.5. Annak meghatározását, hogy milyen időközönként szükséges az MSSZ felülvizsgálata
-
-1.5.1. A rendszeres felülvizsgálat rendje: az I. kategóriájú berendezések alkalmazása esetén legalább évente, a II. kategóriájú berendezések esetén legalább 2 évente, a III. kategóriájú berendezések esetén legalább 3 évente
-
-1.5.2. A rendkívüli felülvizsgálat rendje és az azt kiváltó események, állapotok
-
-2. A munkavállalókra vonatkozó előírások
-
-2.1. A sugárveszélyes munkakörök leírása, a munkavállalók sugárvédelmi besorolása, a sugárveszélyes munkahelyen dolgozó munkavállalók számára vonatkozó előírások
-
-2.1.1. A sugárveszélyes munkaköri tevékenységek megnevezése
-
-2.1.2. A sugárveszélyes tevékenységhez kapcsolódó munkakörök leírása, a lehetséges sugárterhelés módjának és mértékének meghatározása
-
-2.1.3. A sugárveszélyes tevékenységek munkaterületeinek megnevezése
-
-2.1.4. A sugárveszélyes munkahelyen dolgozó, valamint a sugárvédelmi felügyeletüket ellátó munkavállalók – biztonságos munkavégzéshez szükséges – létszáma, munkakörönként
-
-2.1.5. Annak meghatározása, hogy mely munkavállaló végezhet egyedül is sugárveszélyes munkát
-
-2.1.6. A munkavállalók sugárvédelmi besorolásának kritériumai a sugárterhelés kockázata szerint, a munkakörök feltüntetésével
-
-2.2. A sugárveszélyes munkahelyen dolgozó munkavállalók sugárvédelemmel kapcsolatos jogai és kötelezettségei
-
-2.3. A sugárveszélyes munkahelyen dolgozó munkavállalók szakmai és sugárvédelmi képzettségi követelményei, a sugárvédelmi képzések rendje (a 4. melléklet figyelembevételével)
-
-2.3.1. A sugárveszélyes munkahelyen dolgozók munkakörei és a munkakörhöz kapcsolódó szakmai és sugárvédelmi képzettségi követelmények
-
-2.3.2. A sugárveszélyes munkahelyen dolgozók felügyeletét ellátók munkakörei és a munkakörhöz kapcsolódó szakmai és sugárvédelmi képzettségi követelmények
-
-2.3.3. Azon munkavállalókra vonatkozó szakmai és sugárvédelmi képzettségi követelmények, akik nem végeznek sugárveszélyes munkát, ám önálló belépési jogosultságuk van a felügyelt vagy ellenőrzött területekre
-
-2.3.4. Új belépők képzése: MSSZ oktatása, gyakorlati munkahelyi sugárvédelmi képzés
-
-2.3.5. Sugárveszélyes munkafeltételek megváltozása, valamint az MSSZ változása esetén az új ismeretek oktatásának rendje
-
-3. A sugárveszélyes munkahely felügyelete
-
-3.1. Az ellenőrzött és felügyelt területek meghatározása, követelményrendszere (körülhatárolási intézkedések)
-
-3.1.1. A sugárveszélyes munkaterületek besorolása (ellenőrzött és felügyelt munkaterületek) a területen végezhető tevékenységekhez kapcsolódó sugárterhelés kockázata szerint
-
-3.1.2. Az ellenőrzött területen belüli további munkaterület-besorolás, amennyiben releváns
-
-3.1.3. Az egyes területek körülhatárolása: a területek körülhatárolásának módja és jelzései, a belépési jogosultságok leírása, a sugárvédelmi ellenőrzési pontok leírása
-
-3.1.4. Az egyes területek sugárvédelmi felügyeletére tett intézkedések, különösen a személyi sugárterhelés ellenőrzésének módja, a munkakörülmények ellenőrzésének (sugárvédelmi ellenőrző rendszerek alkalmazásának) módja, a felületi szennyezettség megengedett értékei, a környezeti dózisegyenérték-teljesítmény megengedett értékei, a levegő aktivitástartalmának megengedett értékei, az egyéni védőeszköz-használat elrendelésének feltételei
-
-3.2. A munkavállalók külső és belső sugárterhelésének ellenőrzésére vonatkozó követelmények, ezek gyakorisága és módja
-
-3.2.1. A sugárterhelés értékelését segítő viszonyítási szintek bemutatása: dóziskorlátok, dózismegszorítások és egyéb optimálás értékek, a sugárterhelés ellenőrzési és riasztási szintjei, származtatott korlátok
-
-3.2.2. A sugárterhelések értékelésének rendje, az értékelése után meghozott javító, korrigáló intézkedések
-
-3.2.3. A külső sugárzásból eredő sugárterhelés ellenőrzése:
-
-3.2.3.1. A sugárterhelés típusához (gamma-, neutron- és béta-sugárzás, egésztest-dózis, szemlencsedózis, végtagdózis) illeszkedő ellenőrzési módszerek felsorolása
-
-3.2.3.2. Az egyes munkaterületeken megkövetelt ellenőrzés technikai eszközei, gyakorisága és időtartama
-
-3.2.3.3. Számítási módszerek (becslés, modellezés, elemzés) leírása vagy hivatkozás megfelelő referenciára, a számítások felülvizsgálatának gyakorisága vagy kiváltó feltételei
-
-3.2.3.4. Annak meghatározása, hogy az egyes ellenőrzési módszerek mely munkavállalói, lakossági csoportokra alkalmazhatók
-
-3.2.4. A belső sugárterhelés ellenőrzése:
-
-3.2.4.1. Laboratóriumi vizsgálati módszerek ismertetése
-
-3.2.4.2. Az inhalációból származó belső sugárterhelés becslésének módja a levegőminőség ellenőrzése alapján
-
-3.2.4.3. Annak meghatározása, hogy az egyes ellenőrzési módszerek mely munkavállalói, lakossági csoportokra alkalmazhatók
-
-3.2.5. Amennyiben személyi sugárterheléseket más munkavállalókon végzett személyi mérések alapján becsülnek, a becsléshez felhasznált számítási módszerek ismertetése:
-
-3.2.5.1. A sugárterhelés típusához illeszkedő számítási (becslés, modellezés, elemzés) módszertan megnevezése és leírása vagy hivatkozás megfelelő referenciára
-
-3.2.5.2. A referencia munkavállalók munkaköre, a sugárterhelésük jellege, ideje és ellenőrzési módja
-
-3.2.5.3. A számítások felülvizsgálatának gyakorisága vagy kiváltó feltételei
-
-3.3. A felületi szennyezettség ellenőrzésének rendje:
-
-3.3.1. Az ellenőrzés műszaki módszerének megnevezése
-
-3.3.2. A mérési eredmény korrekciójára alkalmazott (felületfüggő) paraméterek ismertetése (amennyiben van ilyen)
-
-3.3.3. Az ellenőrzés rendszeres gyakorisága vagy elrendelésének feltételei, az ellenőrzést, végzésére jogosult munkakörök
-
-3.3.4. A felületi szennyezettség megszüntetésére irányuló módszerek és az alkalmazandó eszközök (dekontamináló készletek) típusa és mennyisége, a rendelkezésre állás ellenőrzésének rendje
-
-3.3.5. A dekontaminálás elrendelésének folyamata és végrehajtásának rendje
-
-3.3.6. A sugárvédelmi zsilipek helyének, használatának ismertetése, a testfelület szennyezettségének ellenőrzésére alkalmazott mérőeszközök típusának és a mért jellemzők ismertetése
-
-3.3.7. A bőrfelület-szennyezettség megszüntetésére irányuló módszerek és az alkalmazandó eszközök (dekontamináló készletek) típusa és mennyisége, a rendelkezésre állás ellenőrzésének rendje
-
-4. A munkavégzésre vonatkozó előírások
-
-4.1. A biztonsági rendszerek, személyi védőeszközök, sugárvédelmi műszerek, személyi dózismérők kezelésére, viselésére vonatkozó előírások
-
-4.1.1. A személyi védőeszközök alkalmazása, az általános munkaruházat használatának rendje, a kiegészítő egyéni védőeszközök használatának elrendelési rendje
-
-4.1.2. Műszaki sugárvédelmi árnyékolások alkalmazása, elrendelésük feltételei
-
-4.1.3. Az alkalmazott személyi dózismérők típusának megadása, kiolvasásuk, viselésük és tárolásuk rendje
-
-4.1.4. Az alkalmazott kézi vagy mobil műszerek típusai, alkalmazásuk elrendelése
-
-4.2. Mindazon sugárvédelmi ismeretek, amelyeket a biztonságos munkavégzéshez helyileg ismerni kell
-
-4.2.1. Be- és kilépés rendje a felügyelt és az ellenőrzött területre
-
-4.2.2. Munkavégzési engedélyek, dózistervezés
-
-4.2.3. Általános viselkedési és személyi higiéniai előírások
-
-4.2.4. A biztonságos munkavégzésre vonatkozó szabályok
-
-4.2.5. Az MSSZ megsértésének következményei
-
-4.3. Zárt sugárforrások alkalmazására vonatkozó különleges szabályok
-
-4.3.1. A zárt sugárforrások zártságvizsgálatának rendje
-
-4.3.2. A sugárforrások tárolási, kezelési rendje, a tárolási hely leírása, jelölése, a tárolóeszközök (konténerek, trezorok, munkatartók) leírása, jelölése
-
-4.3.3. A sugárforrás kivételi vagy visszavételi rendje, nyilvántartása, jogosult munkakörök megnevezése
-
-4.3.4. A sugárforrásra, a sugárforrástartóra vagy a tárolási helyre berendezésekre vonatkozó megengedett dózisteljesítmény-szintek
-
-4.3.5. A használaton kívüli sugárforrások megfelelő kezelésére, adott esetben beleértve a használaton kívüli sugárforrás gyártónak, szállítónak, másik arra jogosult vállalkozásnak vagy radioaktívhulladék-tároló létesítménynek történő átadására vonatkozó előírások
-
-4.3.6. A hiányzó radioaktív vagy nukleáris anyag lehetséges helyének a felkutatására és felügyelet alá helyezésére vonatkozó intézkedési terv
-
-4.4. A radioaktív hulladékok munkahelyi és üzemi gyűjtésének, kezelésének módja
-
-4.4.1. A szilárd hulladékok, valamint folyadék- és gáztartalmú készítmények esetén a munkahelyi gyűjtőhelyek üzemeltetése, a telephelyen belüli anyagmozgatás módja, a központi gyűjtőhelyen történő tárolás rendje, a gyűjtőedények és tárolók jelölésének módja, a munkahelyi és központi üzemi gyűjtőhelyek üzemeltetésére megengedett hulladékmennyiségek és radiológiai korlátok, a hulladékok minősítésének módszere, a felszabadítás rendje
-
-4.4.2. A folyékony hulladékok esetén a hulladékká minősítés folyamata, a folyékonyhulladék-gyűjtők üzemeltetése, a telephelyen belüli anyagmozgatás/továbbítás módja és a központi gyűjtőhelyen történő tárolás rendje, a gyűjtőtartályok és tárolóik jelölésének módja, a munkahelyi és központi üzemi gyűjtőtartályok üzemeltetésére megengedett hulladékmennyiségek és radiológiai korlátok, a hulladékok minősítésének módszere, a felszabadítás és kibocsátás rendje
-
-4.4.3. A hulladékok további kezelése, feldolgozása, kondicionálásának esetén az alkalmazott technológiai berendezések megnevezése és jóváhagyási engedély, a berendezések sugárvédelmi üzemi korlátai (hulladékmennyiség, radiológiai korlátok) a feldolgozás után létrejövő radioaktív hulladék jellemzői,
-
-4.4.4. A radioaktív hulladékok nyomkövetésének szabályozása a külső hulladékkezelő szervezet részére történő átadásig, a hulladékok átadásának rendje az egyes belső szervezetek között, valamint a külső szervezetek felé
-
-4.5. A biztonsági rendszerek, személyi védőeszközök, sugárvédelmi műszerek, személyi dózismérők karbantartására, hitelesítésére vonatkozó előírások
-
-4.5.1. Az alkalmazott személyi dózismérők kiértékelésének módja és gyakorisága, a mérési eredmények kezelése, valamint – amennyiben a kiolvasást vagy kiértékelést külső szervezet végzi – a szervezet megnevezése, továbbá a személyi dózismérők karbantartásának és hitelesítésének rendje
-
-4.5.2. Az alkalmazott kézi vagy mobil műszerek, mérőeszközök karbantartására, kalibrálására és hitelesítésére vonatkozó szabályok
-
-4.5.3. A telepített sugárvédelmi monitorozó rendszerek bemutatása, méréstartományuk, riasztási szintjük, a rendszer figyelemmel kísérésére vonatkozó előírások, a mérőeszközök karbantartására, kalibrálására és hitelesítésére vonatkozó szabályok
-
-4.5.4. A kibocsátás-ellenőrző rendszer üzemeltetésére vonatkozó eljárások ismertetése
-
-4.5.5. A kiemelt létesítmények esetén a környezet-ellenőrző rendszer üzemeltetésére vonatkozó eljárások ismertetése
-
-4.6. A sugárvédelmi minőségbiztosítási programban előírt feladatok, beleértve az ionizáló sugárzást létrehozó berendezéseken végzendő ellenőrzéseket és méréseket, végrehajtásának módját és gyakoriságát
-
-4.6.1. A sugárvédelmi minőségbiztosítási folyamatok azonosítása
-
-4.6.2. A berendezések beszerzése, átvételi vizsgálatok
-
-4.6.3. A berendezések időszakos, független szervezetek által végzett teljes állapotfelmérésének (állapotvizsgálat) rendje
-
-4.6.4. A berendezések rendszeres (napi, heti, havi, évi) minőségellenőrzési vizsgálatának rendje, módszerei, gyakorisága
-
-4.6.5. A biztonsági rendszerek, személyi védőeszközök, sugárvédelmi műszerek, személyi dózismérők rendszeres (napi, heti, havi, évi) minőségellenőrzési vizsgálatának rendje, módszerei, gyakorisága
-
-4.6.6. Az orvosi és ipari radiológiai munkahelyek esetében a sugárveszélyes munkahely kialakítására vonatkozó szabványok teljesülésének ellenőrzését célzó sugárvédelmi ellenőrzési és mérési program leírása
-
-5. Nyilvántartások és jelentések kezelése
-
-5.1. A sugárvédelemmel kapcsolatos nyilvántartások vezetési és a bizonylatok megőrzési rendje, a hatóságok részére történő bejelentési kötelezettség teljesítésének rendje
-
-5.1.1. A vezetett nyilvántartások ismertetése (személyi dózismérések, képzések, orvosi vizsgálatok, sugárvédelmi ellenőrzések és értékelések, sugárforrások és hulladékok nyilvántartása)
-
-5.1.2. Nyilvántartások kezelésének rendje
-
-5.1.3. A nukleáris biztonsági hatóság részére történő rendszeres adatszolgáltatások rendje (gyakoriság, információközlés módja, tartalma, felelőse, határideje)
-
-5.1.4. A nukleáris biztonsági hatóság részére történő eseti bejelentések rendje (kiváltó feltételek, információközlés módja, tartalma, felelőse, határideje)
-
-6. Üzemzavari és rendkívüli események kezelése
-
-6.1. A normál üzemi folyamatok körébe nem tartozó üzemzavari – de nem rendkívüli – események kezelése
-
-6.1.1. A normál üzemi folyamatok körébe nem tartozó üzemzavari vagy jelentésköteles – de nem rendkívüli – események köre és kivizsgálásuk rendje
-
-6.1.2. Üzemzavarok bekövetkezése esetén életbe lépő szervezeti intézkedések
-
-6.1.3. A foglalkozási dózismegszorítás túllépése esetén alkalmazott intézkedések
-
-6.1.4. Nem tervezett kibocsátások kezelése
-
-6.2. A rendkívüli események kezelésének rendje
-
-6.2.1. A rendkívüli esemény kezelésének terve, mely minimális tartalma
-
-6.2.1.1. A rendkívüli események körének meghatározása
-
-6.2.1.2. Rendkívüli esemény bekövetkezése esetén életbe lépő szervezeti intézkedések, amennyiben van külön baleset-elhárítási szervezet, annak felépítése, feladatai, riasztása,
-
-6.2.1.3. Nem tervezett sugárterheléssel járó események kezelése
-
-6.2.1.3.1. A foglalkozási dóziskorlát túllépése esetén végrehajtandó intézkedések
-
-[^217]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
+[^286]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (6) bekezdése szerint módosított szöveg.

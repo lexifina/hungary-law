@@ -1,6 +1,6 @@
 23. § (1) Az engedélyes külső munkavállalót ellenőrzött területen való munkavégzésre csak a külső munkavállaló munkáltatójával kötött szerződés alapján foglalkoztathat.
 
-(2) A külső munkavállalót a sugárveszélyes munkahelyen végzett munkája során ugyanolyan védelem illeti meg, mint az engedélyes saját munkavállalóit, amelynek biztosítása az engedélyes a felelőssége.
+(2)[^98] A külső munkavállalót a sugárveszélyes munkahelyen végzett munkája során ugyanolyan védelem illeti meg, mint az engedélyes saját munkavállalóit, amelynek biztosítása az engedélyes felelőssége.
 
 (3) Az engedélyes köteles meggyőződni arról, hogy a sugárveszélyes munkahelyen munkát végző külső munkavállaló rendelkezik a megfelelő sugárvédelmi képzettséggel, valamint az adott munkaterületre vonatkozó speciális sugárvédelmi ismeretekkel.
 
@@ -11,3 +11,5 @@
 (6) Külső munkavállaló külföldön csak megfelelő egyéni dozimetriai ellenőrzési igazolás birtokában végezhet ellenőrzött területen munkát.
 
 (7) A külföldön dolgozó külső munkavállaló a tevékenységének befejezésével az egyéni dozimetriai adatait az egyéni dozimetriai ellenőrzési igazolásba bejegyezteti. A bejegyzett adatokat a külföldön történő munkavégzés befejezését követő legkésőbb 15 napon belül bejelenti az Országos Személyi Dozimetriai Nyilvántartásnak és a munkáltatójának.
+
+[^98]: A 23. § (2) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 35. Engedélykérelmek
 
-54. §[^171] (1) Az engedélykérelemnek tartalmaznia kell:
+54. §[^221] (1) Az engedélykérelemnek tartalmaznia kell:
 
 a) a kérelmező megnevezését és címét,
 
@@ -20,7 +20,7 @@ b) a 8. melléklet szerinti MSSZ-t,
 
 c) az 53. § (1) bekezdés 2. pontja szerinti engedély iránti kérelemhez minden üzemeltetni kívánt berendezésre vonatkozó, 11. melléklet szerinti adatlapot.
 
-(3) Az 53/A. § (1) bekezdése szerinti, a létesítmény létesítésére vonatkozó engedély iránti kérelem benyújtásakor az (1) bekezdés b) és c) pontjaiban meghatározott dokumentumokat nem kell benyújtani.
+(3)[^222] Az 53/A. § (1) bekezdése szerinti, a létesítmény létesítésére vonatkozó engedély iránti kérelem benyújtásakor az (2) bekezdés b) és c) pontjaiban meghatározott dokumentumokat nem kell benyújtani.
 
 (4) Az 5. mellékletben meghatározott berendezéstípusokba nem besorolható berendezések kategóriáját az OAH állapítja meg a forgalomba hozatal engedélyezésekor.
 
@@ -56,9 +56,9 @@ k) orvosi radiológiai berendezés esetén egy tanúsító szervezet tanúsítv�
 
 (6) Az 53. § (1) bekezdés 4. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat és információkat:
 
-a) a 7. melléklet szerinti Sugárvédelmi Leírás I. pontjában megkövetelt információkat,
+a)[^223] a 7. melléklet szerinti Sugárvédelmi Leírás 1. pontjában megkövetelt információkat,
 
-b) a 7. melléklet szerinti Sugárvédelmi Leírás II. pontjában foglalt biztonsági értékelések elvégzésére vonatkozó általános projekttervet,
+b)[^224] a 7. melléklet szerinti Sugárvédelmi Leírás 2–4. pontjában foglalt biztonsági értékelések elvégzésére vonatkozó általános projekttervet,
 
 c) a 8. melléklet szerinti MSSZ-t.
 
@@ -100,15 +100,11 @@ e) lerakó lezárásakor a létesítményben elhelyezett melléktermékek mennyi
 
 f) a melléktermékek hasznosítása esetén az újrahasznosítást végző munkavállalók és az újrahasznosítás után a lakosság várható sugárterhelését, a nem tervezett eseményeket is beleértve.
 
-(10) Az 53. § (1) bekezdés 8. pontja szerinti engedély iránti kérelmet az OAH által rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A kérelem az alábbiakat tartalmazza:
+(10)[^225] Az 53. § (1) bekezdés 8. pontja szerinti engedély iránti kérelemben meg kell jelölni a 9. melléklet 1. pontjába foglalt táblázat „A” jelű oszlopában meghatározott választott szakirányt, továbbá igazolni kell
 
-a) természetes személyazonosító adatait, állampolgárságát, értesítési címét,
+a) a 9. melléklet 1. pontjába foglalt táblázat „C” jelű oszlopában előírt képesítést és
 
-b) a szükséges végzettséget igazoló okirat másolatát, külföldi felsőoktatási intézmény által kiállított okirat esetében annak magyar fordítását és a honosításról vagy elismerésről szóló döntést,
-
-c) a szakmai gyakorlat részletes leírását és idejét, részletes szakmai önéletrajz keretében és
-
-d) a szakmai gyakorlat igazolását, különösen foglalkoztatási jogviszony vagy vállalkozói tevékenység igazolása révén.
+b) a 9. melléklet 2. pontja szerinti adatlap, valamint a 9. melléklet 1. pontjába foglalt táblázat „B” és „D” jelű oszlopaiban előírt szakmai ismeretek szerinti szakmai gyakorlat meglétét a szakmai tapasztalatszerzés állomásainak részletes bemutatásával.
 
 (11) Az 53. § (1) bekezdés 9. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
@@ -194,7 +190,7 @@ c) a radioaktív sugárforrást tartalmazó készülék felhasználásával vég
 
 d) a berendezés üzemeltetése és karbantartása során alkalmazandó minőségellenőrzési utasítást.
 
-(18) Az 53. § (1) bekezdés 16. pontja szerinti engedély iránti kérelemnek radioaktív anyag alkalmazása esetén tartalmaznia kell a 10. mellékletben foglalt szempontok szerint összeállított sugárvédelmi elemzést, ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék üzemeltetése esetén a berendezés megszüntetésének (elszállításának vagy további használatra alkalmatlanná tételére vonatkozó) igazolását.
+(18)[^226] Az 53. § (1) bekezdés 16. pontja szerinti engedély iránti kérelemnek radioaktív anyag alkalmazása esetén tartalmaznia kell a 10. mellékletben foglalt szempontok szerint összeállított sugárvédelmi elemzést, és radioaktív sugárforrást tartalmazó készülék üzemeltetése esetén a berendezés megszüntetésének (elszállításának vagy további használatra alkalmatlanná tételére vonatkozó) igazolását.
 
 (19) Az 53. § (1) bekezdés 17. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
@@ -226,4 +222,9 @@ b) 1 évnél nem régebbi zártságvizsgálati jegyzőkönyvet.
 
 (23) Az 53. § (1) bekezdés 1. pontja szerinti eljáráshoz a 7. melléklet 1. táblázatába foglalt adatlapot, az 53. § (1) bekezdés 2. pontja szerinti eljáráshoz a 7. melléklet 2. táblázatába foglalt adatlapot, az 53. § (1) bekezdés 4. pontja szerinti eljáráshoz a 7. melléklet 3. táblázatába foglalt adatlapot kell kitölteni.
 
-[^171]: Az 54. § a 27/2018. (II. 28.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^221]: Az 54. § a 27/2018. (II. 28.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^222]: Az 54. § (3) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 42. pontja szerint módosított szöveg.
+[^223]: Az 54. § (6) bekezdés a) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 43. pontja szerint módosított szöveg.
+[^224]: Az 54. § (6) bekezdés b) pontja a 36/2020. (III. 5.) Korm. rendelet 13. § 44. pontja szerint módosított szöveg.
+[^225]: Az 54. § (10) bekezdését a 36/2020. (III. 5.) Korm. rendelet 11. § (14) bekezdése iktatta be.
+[^226]: Az 54. § (18) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 45. pontja szerint módosított szöveg.

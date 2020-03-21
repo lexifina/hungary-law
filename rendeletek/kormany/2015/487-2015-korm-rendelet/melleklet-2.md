@@ -6,7 +6,7 @@
 
 |  | A | B | C | D |
 
-| 1 | Radionuklid | Általános mentességi aktivitás-koncentráció (Bq/g) | Specifikus mentességi aktivitás-koncentráció (Bq/g) | Specifikus mentességi aktivitás (Bq) |
+| 1 | Radionuklid | Általános mentességi aktivitás-koncentráció (Bq/g) | Specifikus mentességi aktivitás-koncentráció (Bq/g) | Mentességi aktivitás (Bq) |
 
 | 2 | H-3 | 102 | 106 | 109 |
 
