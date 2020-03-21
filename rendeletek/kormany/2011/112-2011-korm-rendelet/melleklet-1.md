@@ -1,6 +1,6 @@
-## 10. §[^41] Ez a rendelet a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló 2014. július 8-i 2014/87/EURATOM tanácsi irányelv 1. cikk 9. pontjának való megfelelést szolgálja.
+## 10. §[^46] Ez a rendelet a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló 2014. július 8-i 2014/87/EURATOM tanácsi irányelv 1. cikk 9. pontjának való megfelelést szolgálja.
 
-1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^42]
+1. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^47]
 
 ## Adatszolgáltatás a radioaktív anyagok szállításának és fuvarozásának engedélykérelméhez
 
@@ -28,5 +28,5 @@
 
 12. Az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet (a továbbiakban: 190/2011. Korm. rendelet) 7. § (5) bekezdése szerinti szállítás esetén a 190/2011. Korm. rendelet 35. § (8) bekezdése szerinti nyilatkozat.
 
-[^41]: A 10. §-t a 225/2017. (VIII. 11.) Korm. rendelet 2. §-a iktatta be.
-[^42]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 330. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^46]: A 10. §-t a 225/2017. (VIII. 11.) Korm. rendelet 2. §-a iktatta be.
+[^47]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 330. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

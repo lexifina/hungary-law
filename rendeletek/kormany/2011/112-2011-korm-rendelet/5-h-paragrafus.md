@@ -1,4 +1,4 @@
-5/H. §[^32] (1) Az OAH vagy az illetékes nemzetközi szervezet helyszíni ellenőrzést végző munkatársa (a továbbiakban: ellenőr)
+5/H. §[^37] (1) Az OAH vagy az illetékes nemzetközi szervezet helyszíni ellenőrzést végző munkatársa (a továbbiakban: ellenőr)
 
 a) az ellenőrzés céljainak elérése érdekében szóbeli és írásbeli felvilágosítást kérhet, megfigyeléseket végezhet, iratmásolatokat, hang- és képfelvételeket készíthet, önálló méréseket végezhet,
 
@@ -22,4 +22,4 @@ b) az ellenőrzött szervezet dolgozójának utasítást nem adhat, a létesítm
 
 (4) Ha a helyszíni ellenőrzés során – az ellenőrzés céljainak elérése érdekében – az ellenőr úgy ítéli meg, hogy a létesítmény üzemeltetőjének különleges üzemviteli műveletet kell a létesítményben elvégeznie, akkor erre javaslatot tesz, amelyet – a létesítmény biztonságát figyelembe véve – a nukleáris anyaggal rendelkező szervezet vezetője vagy intézkedésre jogosult képviselője köteles elrendelni.
 
-[^32]: Az 5/H. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^37]: Az 5/H. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
