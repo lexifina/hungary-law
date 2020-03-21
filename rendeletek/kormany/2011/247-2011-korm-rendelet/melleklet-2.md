@@ -96,9 +96,9 @@ Az atomenergia alkalmazási körében eljáró szakértő szervezetek tevékenys
 
 | 8 | 2.2.2. Súlyos baleseti elemzések |
 
-| 9 | 3. Valószínűségi biztonsági elemzések | 3.0.1. szintű PSA |
+| 9 | 3. Valószínűségi biztonsági elemzések | 3.0.1. első szintű PSA |
 
-| 10 | 3.0.2. szintű PSA |
+| 10 | 3.0.1. második szintű PSA |
 
 | 11 | 3.0.3. Külső/belső veszély PSA |
 
@@ -268,4 +268,4 @@ Az atomenergia alkalmazási körében eljáró szakértő szervezetek tevékenys
 
 | 94 | 23. Ember-gép kapcsolat, ergonómia | nincs |
 
-[^40]: A 2. melléklet a 147/2018. (VIII. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^40]: A 2. melléklet a 147/2018. (VIII. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
