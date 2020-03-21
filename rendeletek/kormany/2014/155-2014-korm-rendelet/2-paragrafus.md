@@ -4,7 +4,7 @@
 
 1.[^2] „0” állapot: a biztonsági osztályba sorolt rendszerelemek üzemeltetés előtti állapotjellemzőinek összessége, amely az időszakos ellenőrzések eredményeivel összevethető;
 
-2.[^3] ALARA-elv: a sugárvédelem egyik alapelve, amely szerint bármely ionizáló sugárzást alkalmazó tevékenység esetében a védelmet és biztonságot optimalizálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége az észszerűen megvalósítható legalacsonyabb szinten maradjon – tekintettel a gazdasági és társadalmi tényezőkre – az egyéni dóziskorlátokon belül, figyelembe véve a forrásra vonatkozó dózismegszorításokat;
+2.[^3] ALARA-elv: a sugárvédelem egyik alapelve, amely szerint bármely sugárforrást alkalmazó tevékenység esetében – kivéve az orvosi terápiás besugárzást – a védelmet és biztonságot optimalizálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége az észszerűen elérhető legalacsonyabb szinten maradhasson – tekintettel a gazdasági és társadalmi tényezőkre – az egyéni dóziskorlátokon belül, figyelembe véve a forrásra vonatkozó dózismegszorításokat;
 
 3. Átalakítás: a tároló létesítmény üzemeltetési életciklus szakasza során
 
@@ -112,7 +112,7 @@ c) a következmények csökkentése;
 
 44.[^26] Lezárás: a tároló létesítményt érintő valamennyi olyan tevékenység, amelyek célja az üzemeltetés befejezése, és a létesítmény biztonságos állapotának hosszú időn át történő fenntartásához szükséges;
 
-45.[^27]
+45.[^27] Mélységi geológiai tároló: egy felszín alatt, stabil geológiai formációban kialakított radioaktívhulladék-tároló, amely alkalmas a hosszú élettartamú és a nagy aktivitású hulladékok végleges elhelyezésére is, hosszú időn át biztosítva az elhelyezett hulladékok elzárását és elszigetelését az élő környezettől;
 
 46. Nemmegfelelőség: a követelmények nem teljesülése esetén egy megállapítás, amely rögzíti egy vagy több minőségi jellemző, vagy irányítási rendszer, rendszerelem eltérését vagy hiányát a meghatározott követelményekhez képest;
 
@@ -161,7 +161,7 @@ c) a következmények csökkentése;
 67. Visszatartási pont: egy tevékenység folyamatában meghatározott olyan pont, amelyet követően a tevékenység csak egy kijelölt szervezet jóváhagyása után folytatható.
 
 [^2]: A 2. § 1. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 2. pontja a 28/2018. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 2. pontja a 28/2018. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § 5. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § 6. pontja a 28/2018. (II. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
 [^6]: A 2. § 7. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
@@ -185,7 +185,7 @@ c) a következmények csökkentése;
 [^24]: A 2. § 42. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
 [^25]: A 2. § 43. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
 [^26]: A 2. § 44. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^27]: A 2. § 45. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte.
+[^27]: A 2. § 45. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte, újonnan a 36/2020. (III. 5.) Korm. rendelet 8. §-a iktatta be.
 [^28]: A 2. § 49. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 3. pontja hatályon kívül helyezte.
 [^29]: A 2. § 56. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
 [^30]: A 2. § 57. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.

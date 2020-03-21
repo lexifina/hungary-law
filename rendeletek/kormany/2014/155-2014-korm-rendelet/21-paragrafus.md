@@ -8,9 +8,9 @@
 
 a) telephelyének vizsgálatához és értékeléséhez:
 
-aa)[^45] telephelykutatási keretprogram engedély,
+aa)[^47] telephelykutatási keretprogram engedély,
 
-ab)[^46] telephelykutatási engedély,
+ab)[^48] telephelykutatási engedély,
 
 b) telepítéséhez: telepítési engedély,
 
@@ -32,23 +32,25 @@ szükséges.
 
 a) építményeinek és épületszerkezeteinek, valamint az építmények felvonóinak építéséhez, bontásához, használatba vételéhez,
 
-b)[^47] a biztonság szempontjából fontos rendszere, rendszereleme átalakításához, és
+b)[^49] a biztonság szempontjából fontos rendszere, rendszereleme átalakításához, és
 
-c)[^48] engedélyesének szervezeti felépítése, irányítási rendszere, dokumentuma átalakításához.
+c)[^50] engedélyesének szervezeti felépítése, irányítási rendszere, dokumentuma átalakításához.
 
-(3) A tároló létesítményben üzemelő, az atomenergia-felügyeleti szerv felügyelete alá tartozó nyomástartó berendezések és csővezetékek időszakos ellenőrzési programjainak műszaki követelményrendszerét, továbbá a biztonság szempontjából fontos rendszerek, rendszerelemek roncsolásmentes anyagvizsgálatának terjedelmét, módszerét, a vizsgálati eredmények elfogadásának feltételeit és időbeli ütemezését rögzítő dokumentumokat az atomenergia-felügyeleti szerv a 2. melléklet szerint hagyja jóvá.
+(3)[^51] A tároló létesítményben üzemelő, az atomenergia-felügyeleti szerv felügyelete alá tartozó nyomástartó berendezések és csővezetékek időszakos ellenőrzési programjainak műszaki követelményrendszerét, továbbá a biztonság szempontjából fontos rendszerek, rendszerelemek roncsolásmentes anyagvizsgálatának terjedelmét, módszerét, a vizsgálati eredmények elfogadásának feltételeit és időbeli ütemezését rögzítő dokumentumokat az atomenergia-felügyeleti szerv a nukleáris biztonsági szempontokat figyelembe véve a 2. melléklet szerint hagyja jóvá.
 
 (4) A tároló létesítmény időszakos biztonsági jelentését az atomenergia-felügyeleti szerv felülvizsgálja és a 102. § szerint határozatot hoz.
 
-(5) Az atomenergia-felügyeleti szerv a baleset-elhárítási intézkedési tervet a 112. § szerint jóváhagyja.
+(5)[^52] Az atomenergia-felügyeleti szerv a baleset-elhárítási intézkedési tervet a nukleáris biztonsági szempontokat figyelembe véve a 112. § szerint jóváhagyja.
 
-(6)[^49] Az atomenergia-felügyeleti szerv a Munkahelyi Sugárvédelmi Szabályzatot (a továbbiakban: MSSZ) a 114/A. § szerint jóváhagyja.
+(6)[^53] Az atomenergia-felügyeleti szerv a Munkahelyi Sugárvédelmi Szabályzatot (a továbbiakban: MSSZ) a nukleáris biztonsági szempontokat figyelembe véve a 114/A. § szerint jóváhagyja.
 
-(7)[^50] Az atomenergia-felügyeleti szerv a lakossági dózismegszorítás értékét a 114/B. § szerint jóváhagyja.
+(7)[^54] Az atomenergia-felügyeleti szerv a lakossági dózismegszorítás értékét a 114/B. § szerint jóváhagyja.
 
-[^45]: A 21. § (1) bekezdés a) pont aa) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 13. pontja szerint módosított szöveg.
-[^46]: A 21. § (1) bekezdés a) pont ab) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 13. pontja szerint módosított szöveg.
-[^47]: A 21. § (2) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
-[^48]: A 21. § (2) bekezdés c) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 14. pontja szerint módosított szöveg.
-[^49]: A 21. § (6) bekezdését a 28/2018. (II. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^50]: A 21. § (7) bekezdését a 28/2018. (II. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^47]: A 21. § (1) bekezdés a) pont aa) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 13. pontja szerint módosított szöveg.
+[^48]: A 21. § (1) bekezdés a) pont ab) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 13. pontja szerint módosított szöveg.
+[^49]: A 21. § (2) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
+[^50]: A 21. § (2) bekezdés c) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 14. pontja szerint módosított szöveg.
+[^51]: A 21. § (3) bekezdése a 36/2020. (III. 5.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^52]: A 21. § (5) bekezdése a 36/2020. (III. 5.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^53]: A 21. § (6) bekezdését a 28/2018. (II. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 36/2020. (III. 5.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^54]: A 21. § (7) bekezdését a 28/2018. (II. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.

@@ -16,7 +16,7 @@
 
 ## I. Biztonsági célok
 
-## 2.2.1.0100. A tároló létesítménnyel szemben támasztott biztonsági célok teljesítése érdekében a 2.2.1.0320. pont szerinti alapvető biztonsági funkciókat kell teljesíteni a normál üzem, a várható üzemi események és a tervezési alapba tartozó események során.
+## 2.2.1.0100. A tároló létesítménnyel szemben támasztott biztonsági célok teljesítése érdekében a 2.2.1.0420. pont szerinti alapvető biztonsági funkciókat kell teljesíteni a normál üzem, a várható üzemi események és a tervezési alapba tartozó események során.
 
 ## 2.2.1.0110. Biztosítani kell, hogy a tároló létesítményből származó kibocsátás az észszerűen megvalósítható alacsony szintű legyen, és a normál állapot, valamint az üzemzavar során az előírt határértékeket ne érje el.
 
@@ -610,6 +610,54 @@
 
 ## 2.3.4.1900. Az engedélyesnek ki kell dolgoznia a biztonság szempontjából fontos, a munkakör betöltéséhez szükséges jogosítvány megszerzésének és megújításának eljárását. Dokumentált kritériumokat kell alkalmazni annak megítélésére, hogy az adott munkavállaló szaktudása és alkalmassága alapján hatósági jogosító vizsgára bocsátható.
 
+## 2.3.4.1910. A biztonság szempontjából fontos munkakörök betöltése hatósági jogosítványhoz kötött. A hatósági jogosítvány megszerzéséhez hatósági jogosító vizsgát kell tenni, amelynek az engedélyes által elkészített szabályozását az atomenergia-felügyeleti szerv a nukleáris biztonsági szempontokat figyelembe véve hagyja jóvá.
+
+## 2.3.4.1920. A jogosítvány megszerzésnek, megújításának feltétele, hogy a munkakört betöltő
+
+## a) fizikai, pszichológiai alkalmasságát megfelelő orvosi vizsgálat igazolja,
+
+## b) a munkakörre előírt elméleti és gyakorlati képzési programokat teljesíti, valamint
+
+## c) az adott munkakör betöltéséhez szükséges elméleti és gyakorlati ismeretei alkalmassá teszik a jogosítvány szerinti feladatok elvégzésére.
+
+## 2.3.4.1930. Az elméleti és gyakorlati ismeretek szükséges szintjének meglétéről a jogosítvány megszerzésekor írásbeli és szóbeli, a jogosítvány megújításakor szóbeli vizsga keretében kell meggyőződni. A szóbeli vizsga sikeres, ha az atomenergia-felügyeleti szerv képviselője a munkakör betöltéséhez megfelelőnek ítéli a vizsgázó teljesítményét. A vizsgán a munkakör betöltőjének bizonyítania kell, hogy a biztonságot figyelemmel kísérő és azt fenntartó képességgel rendelkezik, és beavatkozási jogosultságának megfelelően képes
+
+## a) a normál üzemi folyamatok végzéséhez, valamint a különböző, normáltól eltérő üzemállapotok elhárításához szükséges önálló és csoportmunkára,
+
+## b) megítélni a tároló üzemállapotát, meghatározni a normál üzemtől való eltéréseket, felismerni és értékelni a helyzetet, elvégezni az előírások szerinti ellenőrzéseket és intézkedéseket, meghatározni a tároló biztonságos üzemi állapotba viteléhez és tartásához szükséges további teendőket.
+
+## 2.3.4.1940. Új tároló létesítmény esetén a jogosítványokat a létesítmény üzemeltetési engedélyének kiadásáig kell megszerezni.
+
+## 2.3.4.1950. A jogosítványok kiadását és megújítását az engedélyes kérelmezi. A kérelemhez 2 példányban mellékelni kell a jogosítvány kiadásának, megújításának feltételeként előírtak teljesülését igazoló dokumentumokat.
+
+## 2.3.4.1960. A jogosítvány időbeli hatálya
+
+## a) 3 év az első jogosító vizsgát követően;
+
+## b) 3 év, ha a vizsgázó sikertelen megújító vizsga után sikeres ismétlő vizsgát tesz;
+
+## c) 5 év, ha a megújító vizsga kiváló minősítésű;
+
+## d) a megújító vizsgán elért eredmény alapján 4 vagy 3 évre korlátozható.
+
+## 2.3.4.1970. A jogosítvány hatálya megszűnik, ha
+
+## a) a 2.3.4.1960. pontban meghatározott időn belül nem került megújításra,
+
+## b) tulajdonosa 6 hónapot meghaladóan nem végzett munkát a jogosítvány szerinti munkakörben,
+
+## c) a szinten tartó képzésben való részvétel az előírásoknak nem felel meg, vagy
+
+## d) a jogosítvány megújítására irányuló vizsga sikertelen.
+
+## 2.3.4.1980. Az atomenergia-felügyeleti szerv a jogosítványt visszavonja
+
+## a) a jogosítvány tulajdonosának vagy az engedélyesnek a kérésére vagy
+
+## b) a tároló létesítmény nukleáris biztonságát veszélyeztető súlyos szabályszegés miatt.
+
+## 2.3.4.1990. Hatálytalan vagy visszavont jogosítvány megújításának feltételei megegyeznek az új jogosítvány megszerzésének feltételeivel.
+
 ## 2.3.4.2000. A tároló létesítmény üzemviteléért felelős személyzetnek rendelkeznie kell a munkaköri feladataik szakszerű, hatékony és biztonságos végrehajtásához kellő szintű biztonsági, sugárvédelmi, tűzvédelmi, telephelyi és telephelyen kívüli baleset-elhárítási és ipari biztonsági ismeretekkel.
 
 ## 2.3.5. Biztonsági kultúra
@@ -714,7 +762,7 @@
 
 ## 2.3.9.1000. A karbantartási és felügyeleti programot időszakosan felül kell vizsgálni az üzemeltetési tapasztalatok figyelembevételével, és minden, a programban javasolt változtatást a rendszerek rendelkezésre állásának, a tároló létesítmény biztonságának és az alkalmazandó előírásoknak való megfelelés céljának figyelembevételével kell értékelni.
 
-## 2.3.9.1100. Értékelni kell az alkalmazott karbantartási és felügyeleti program potenciális hatását a tároló létesítmény biztonságára.
+## 2.3.9.1100.
 
 ## 2.3.9.1200. A karbantartási és felügyeleti program kialakításakor optimális egyensúlyt kell találni a program végrehajtása által elérhető megbízhatóság növekedése és a karbantartás miatt bekövetkező üzemképtelenség kockázatnövelő hatása között. Ha az érvényes karbantartási programok által előirányzott karbantartási ütemezésektől eltérő programokat vezetnek be, úgy azok hatását elemezni kell.
 
@@ -778,7 +826,7 @@
 
 ## 2.3.11.0400. Az időszakos ellenőrzési programot a karbantartási és felügyeleti program kidolgozásával megegyező módon kell készíteni és felülvizsgálni.
 
-## 2.3.11.0500. Az időszakos roncsolásmentes vizsgálatok terjedelmét, időbeli ütemezését, kritériumait és a végrehajtásuk módszerét az engedélyes határozza meg és azt az atomenergia-felügyeleti szerv jóváhagyja. Az időszakos roncsolásmentes vizsgálatok ciklusidejét konzervatív módon úgy kell megállapítani, hogy az tegye lehetővé még a legjobban igénybe vett rendszerelemek esetén is a károsodás észlelését a meghibásodást megelőzően.
+## 2.3.11.0500. Az időszakos roncsolásmentes vizsgálatok terjedelmét, időbeli ütemezését, kritériumait és a végrehajtásuk módszerét az engedélyes határozza meg és azt az atomenergia-felügyeleti szerv, a nukleáris biztonsági szempontokat figyelembe véve jóváhagyja. Az időszakos roncsolásmentes vizsgálatok ciklusidejét konzervatív módon úgy kell megállapítani, hogy az tegye lehetővé még a legjobban igénybe vett rendszerelemek esetén is a károsodás észlelését a meghibásodást megelőzően.
 
 ## 2.3.11.0600. Az időszakos ellenőrzési programban előírt vizsgálatokat az adott terjedelemben a ciklusidőn belül legalább egyszer végre kell hajtani. Az engedélyes elkészíti és benyújtja a hatóságnak a következő évben elvégzendő vizsgálatok programját az előző év december 31-ig.
 
@@ -940,7 +988,7 @@
 
 ## 2.3.15.0510. A sugárvédelemről szóló kormányrendeletben megkövetelteken túlmenően az engedélyes sugárvédelmi programjára az e szabályzatban megkövetelteket is figyelembe kell venni.
 
-## 2.3.15.0520. Az üzemeltető szervezet a sugárvédelmi módszerek és eljárások felügyeletével, ellenőrzésével és auditálásokkal biztosítja a sugárvédelmi program helyes végrehajtását és céljainak teljesülését.
+## 2.3.15.0520. Az üzemeltető szervezet a sugárvédelmi módszerek és eljárások teljesülésének felügyeletével, ellenőrzésével és auditálásokkal biztosítja a sugárvédelmi program helyes végrehajtását és céljainak teljesülését.
 
 ## 2.3.15.0530. A sugárvédelmi program alapján ellenőrizni kell a dózisteljesítményeket azon tevékenységek végzésének helyszínén, ahol a rendszereket és rendszerelemeket sugárzás hagyhatja el, különös tekintettel az ellenőrzési, karbantartási tevékenységre.
 
@@ -1006,7 +1054,7 @@
 
 ## c) várható haszon figyelembevétele.
 
-## 2.3.15.2300. A dóziskorlátok és dózismegszorítások betartása érdekében az engedélyesnek dozimetriai és technológiai figyelmeztetési szinteket kell megállapítania az engedélyezett határértékek alatt. Ezen figyelmeztetési szinteket az MSSZ-ben kell rögzíteni. A vonatkoztatási szintek esetleges túllépését az engedélyesnek ki kell vizsgálnia.
+## 2.3.15.2300. A dóziskorlátok és dózismegszorítások betartása érdekében az engedélyesnek dozimetriai és technológiai figyelmeztetési szinteket kell megállapítania az engedélyezett határértékek alatt. Ezen figyelmeztetési szinteket az MSSZ-ben kell rögzíteni. A figyelmeztetési szintek esetleges túllépését az engedélyesnek ki kell vizsgálnia.
 
 ## 2.3.15.2400. A technológiai figyelmeztetési szinteket úgy kell definiálni, hogy kellő időben jelezzék a folyamatoknak, a rendszerelemek állapotának romlását vagy a sugárveszély váratlan események miatti növekedését.
 
@@ -1028,9 +1076,7 @@
 
 ## 2.3.15.2900. Törekedni kell a munkaterületen szükségtelenül ott lévő radioaktív anyagok eltávolítására.
 
-## 2.3.15/K. Munkahelyi ellenőrző és monitoring rendszer
-
-## Személyi dozimetriai ellenőrzés
+## 2.3.15/K. Személyi dozimetriai ellenőrzés
 
 ## 2.3.15.3000. Az engedélyesnek biztosítania kell az ellenőrzött területén tartózkodó személyek egyéni sugárvédelmi ellenőrzését passzív működésű és folyamatosan kiolvasható, elektronikus doziméterek alkalmazásával is, valamint szükség szerint béta-, illetve neutron doziméterek használatával, valamint a belső sugárterhelés akkreditált eljárásokkal történő meghatározásával.
 
@@ -1290,7 +1336,7 @@
 
 ## b) a terület hasznosításának bármilyen korlátozása, továbbá bármely más intézkedés, amely a lezárás utáni időszakban indokolt lehet, meghatározásra került.
 
-3. melléklet a 155/2014. (VI. 30.) Korm. rendelethez[^161]
+3. melléklet a 155/2014. (VI. 30.) Korm. rendelethez[^169]
 
 Biztonsági Szabályzat
 
@@ -1640,4 +1686,4 @@ d) széndioxid, szénhidrogén és más gázok geológiai tárolására igénybe
 
 3.4.4.0600. Nagy aktivitású vagy hosszú élettartamú radioaktív hulladékok tárolójának telepítést megalapozó biztonsági jelentésében számításokkal kell igazolni, hogy sem a létesítmény üzemelése, sem a lezárás után nem fordulhat elő olyan esemény, nem alakulhat ki olyan helyzet, amely a tárolóban vagy földtani környezetében a nukleáris anyag veszélyes mértékű feldúsulásához vezetne.”
 
-[^161]: A 3. mellékletet a 70/2018. (IV. 9.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^169]: A 3. mellékletet a 70/2018. (IV. 9.) Korm. rendelet 8. § (3) bekezdése iktatta be.

@@ -12,7 +12,7 @@ c) a tároló létesítmény sugárvédelmi jellemzőire, beleértve a foglalkoz
 
 d) a hulladék átvételi követelményrendszerre,
 
-e)[^147] a lezárást követő időszak biztonságát befolyásoló tényezőkre vonatkozó tapasztalatokra, elemezve a hulladékelhelyezési rendszer viselkedésének időbeli változásait,
+e)[^153] a lezárást követő időszak biztonságát befolyásoló tényezőkre vonatkozó tapasztalatokra, elemezve a hulladékelhelyezési rendszer viselkedésének időbeli változásait,
 
 f) a biztonsági elemzésekben szerepeltetett feltételezésekre, annak igazolására, hogy azok továbbra is érvényesek,
 
@@ -20,9 +20,9 @@ g) az elhelyezést biztosító rendszer vonatkozásában a tudomány eredményei
 
 h) ha új elemzési módszerekkel és eszközökkel megismételt elemzések végrehajtására kerül sor, akkor a korábbi és az új eredmények esetleges eltéréseinek azonosítására és értékelésére.
 
-(4)[^148] Az engedélyesnek a biztonsági felülvizsgálat meghatározott terjedelmét a (3) bekezdés alapján meg kell határoznia és meg kell indokolnia. A felülvizsgálat terjedelmének a gyakorlatban észszerűen megvalósítható legkiterjedtebbnek kell lennie, figyelembe véve a tároló létesítménynek az atomenergia biztonságos alkalmazására vonatkozóan előírt biztonsági szempontjait.
+(4)[^154] Az engedélyesnek a biztonsági felülvizsgálat meghatározott terjedelmét a (3) bekezdés alapján meg kell határoznia és meg kell indokolnia. A felülvizsgálat terjedelmének a gyakorlatban észszerűen megvalósítható legkiterjedtebbnek kell lennie, figyelembe véve a tároló létesítménynek az atomenergia biztonságos alkalmazására vonatkozóan előírt biztonsági szempontjait.
 
 (5) Minden, a biztonsági felülvizsgálat terjedelmébe tartozó (3) bekezdés szerinti területet meg kell vizsgálni, és az azonosított eltéréseket össze kell hasonlítani az engedélyezési követelményekkel, az aktuális biztonsági szabályzatokkal és gyakorlattal.
 
-[^147]: A 103. § (3) bekezdés e) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 50. pontja szerint módosított szöveg.
-[^148]: A 103. § (4) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 51. pontja szerint módosított szöveg.
+[^153]: A 103. § (3) bekezdés e) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 50. pontja szerint módosított szöveg.
+[^154]: A 103. § (4) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 51. pontja szerint módosított szöveg.
