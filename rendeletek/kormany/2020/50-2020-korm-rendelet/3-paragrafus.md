@@ -1,0 +1,7 @@
+3. § (1) Az 1. § alkalmazásában jövedelemnek minősül a 2020 januárjában, februárjában és márciusában a kormányzati szolgálati jogviszonya alapján az érintettnek kifizetett vagy kifizetésre kerülő illetmény, ha ugyanazon kormányzati igazgatási szervvel állt fenn a jogviszonya.
+
+(2) Az (1) bekezdés alkalmazásában az illetménykülönbözetre való jogosultság szempontjából a jogviszonyt ugyanazon kormányzati igazgatási szervvel fennálló jogviszonynak kell tekinteni, ha 2019. december 31. napját követően megszűnik az érintett valamely területi kormányzati igazgatási szervnél történő foglalkoztatása, és az érintett 30 napon belül más területi kormányzati igazgatási szervhez tartozó álláshelyet tölt be.
+
+(3) Ha az érintett a 2020. január 1. és 2020. március 31. közötti időszak egy részét fizetés nélküli szabadságon vagy olyan távolléten tölti, amelyre nem vagy csökkentett összegben jár díjazás, az 1. § alkalmazása során az érintett számára a Kit. 296. § (5) bekezdése alapján megállapított illetménynek az érintett által munkában töltött, illetve a Kit. 135. §-a szerinti díjazással érintett időtartammal arányos részét és összegét kell figyelembe venni.
+
+(4) Ha az érintett jogviszonya 2020. január 1. és 2020. március 31. között jött létre, az 1. § alkalmazása során az érintett számára a Kit. 296. § (5) és (6) bekezdése alapján megállapított illetménynek az érintett által munkában töltött napok, illetve a Kit. 135. §-a szerinti díjazással érintett időtartammal arányos részét kell figyelembe venni.
