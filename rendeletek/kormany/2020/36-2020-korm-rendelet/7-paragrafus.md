@@ -1,3 +1,5 @@
-## 6. § Az atomenergia alkalmazása körében eljáró független műszaki szakértőről szóló 247/2011. (XI. 25.) Korm. rendelet 2. melléklete a 3. melléklet szerint módosul.
+## 6. §[^10]
 
 ## 4. A Központi Nukleáris Pénzügyi Alap Szakbizottságról szóló 213/2013. (VI. 21.) Korm. rendelet módosítása
+
+[^10]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

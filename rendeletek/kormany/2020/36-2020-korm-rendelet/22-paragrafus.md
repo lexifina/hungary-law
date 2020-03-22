@@ -1,1 +1,3 @@
-## 21. § A 184/2016. (VII. 13.) Korm. rendelet 2. melléklete a 16. melléklet szerint módosul.
+## 21. §[^33]
+
+[^33]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 20. § Az atomenergiáról szóló törvény hatálya alá tartozó építményekkel, létesítményekkel kapcsolatos műszaki szakértői, tervezői, műszaki ellenőri és felelős műszaki vezetői tevékenység szerinti szakmagyakorlásra való alkalmasság igazolásának és nyilvántartásba vételének részletes szabályairól, továbbá a nyilvántartás adattartalmára vonatkozó szabályokról szóló 184/2016. (VII. 13.) Korm. rendelet [a továbbiakban: 184/2016. (VII. 13.) Korm. rendelet] 7/A. §-a helyébe a következő rendelkezés lép:
+## 20. §[^32]
 
-## „7/A. § Az Atv. 18/D. §-a szerinti tevékenységet csak az végezhet, aki hatósági nyilvántartásba vett szakmagyakorló vagy szakmagyakorló cég. Tervezési tevékenység esetén az összes szakági felelős tervezőnek vagy szakági felelős tervezőkkel rendelkező cégnek kell a nyilvántartásban szerepelnie. A szakértői dokumentumokat csak a Hatóság nyilvántartásában szereplő szakmagyakorlók vagy a szakmagyakorló cégek jegyezhetik. A benyújtott szakértői és tervezési dokumentumok csak szakági felelős tervező és szakértő személy aláírásával ellátva fogadhatók el.”
+[^32]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

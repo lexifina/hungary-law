@@ -1,7 +1,3 @@
-## lép.
+## 17. §[^29]
 
-## 18. § Hatályát veszti a 489/2015. (XII. 30.) Korm. rendelet
-
-a) 2. § 2. pontja,
-
-b) 3. § (1) bekezdésében az „(1) bekezdés” szövegrész.
+[^29]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
