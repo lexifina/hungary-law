@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 3. pontjában foglalt táblázat C:12 mezőjében a „46,35” szövegrész helyébe a „48,35” szöveg;
-
-## b) 2. mellékletében foglalt táblázat D:53 mezőjében a „46,35” szövegrész helyébe a „48,35” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1117/2020. (III. 20.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-3.2.4- 16-2016- 00001 | Digitális kompetencia fejlesztése | Klebelsberg Központ (konzorciumvezető) Kormányzati Informatikai Fejlesztési Ügynökség | 46 350 000 000 | 2 000 000 000 | 48 350 000 000 | A projekt fő célja, hogy hozzájáruljon a minőségi és méltányos köznevelési rendszer kialakításához, az egész életen át tartó tanulásban való sikeres részvétel elősegítéséhez, valamint a társadalom és a munkaerőpiac által elvárt digitális kompetenciák elsajátításához. A projekt feladata • a korszerű informatikai infrastruktúra és vezeték nélküli hálózat biztosítása a tankerületi központok által fenntartott köznevelési intézmények számára, • a pedagógusok tanórai információ- és kommunikációtechnológia (a továbbiakban: IKT) eszközhasználatának a támogatása IKT eszközök biztosításával, • a tanulók digitális kompetenciáinak fejlesztése, különösen a matematikai, természettudományos, informatikai és műszaki pályákra való felkészüléshez szükséges keretek biztosítása által, • korszerű pedagógiai módszerek szerinti tanítási- tanulási folyamat támogatása a tankerületi központok által fenntartott valamennyi köznevelési intézmény WiFi lefedettségének biztosításával. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
