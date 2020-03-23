@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-5-30-41
 | 2020-02-17 | 2018-5-30-41.24 | 2/2020. (II. 18.) OGY határozat |
 | 2020-02-24 | 2018-5-30-41.25 | 4/2020. (II. 25.) OGY határozat |
 | 2020-03-09 | 2018-5-30-41.26 | 5/2020. (III. 12.) OGY határozat |
+| 2020-03-23 | 2018-5-30-41.27 | 8/2020. (III. 25.) OGY határozat |
