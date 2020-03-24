@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-25-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-01-01 | 2015-25-20-2C.1 | 25/2015. (VII. 30.) MNB rendelet |
+| 2020-03-24 | 2015-25-20-2C.2 | 5/2020. (III. 19.) MNB rendelet |
