@@ -8,6 +8,8 @@ aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori,
 
 ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 
+ac) az állam által alapított vagy tulajdoni részesedésével működő gazdálkodó szervezet felügyelőbizottságának vagy ügyvezetésének tagja;
+
 b) központi államigazgatási szerv vezetője, köztisztviselője;
 
 c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
@@ -20,7 +22,7 @@ f) más települési önkormányzatnál képviselő;
 
 g) más települési önkormányzatnál polgármester, alpolgármester;
 
-h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület –, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
+h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület – tagja, személyes közreműködője, képviselet ellátására jogosultja;
 
 i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
