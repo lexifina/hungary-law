@@ -4,7 +4,7 @@
 
 (3) A devizafinanszírozás megfelelési mutató az 1. melléklet szerint számított mutatószám.
 
-(4)[^9] A devizafinanszírozás megfelelési mutatót a hitelintézet MNB számára teljesített negyedéves gyakoriságú adatszolgáltatása alapján kell kiszámítani.
+(4)[^9] A devizafinanszírozás megfelelési mutatót a hitelintézet által az MNB számára teljesített, MNB rendeletben, illetve az MNB hatósági határozatában előírt adatszolgáltatás alapján kell kiszámítani.
 
 [^8]: A 3. § (2) bekezdése a 26/2015. (VII. 30.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § (4) bekezdése a 22/2018. (VI. 27.) MNB rendelet 5. §-a szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdése az 5/2020. (III. 19.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
