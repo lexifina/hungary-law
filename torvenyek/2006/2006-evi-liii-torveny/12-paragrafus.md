@@ -8,7 +8,7 @@
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a kiemelten közérdekű beruházást, a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét,
+a) a kiemelten közérdekű beruházást, a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét, valamint a kiemelten közérdekű beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát,
 
 b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat,
 
