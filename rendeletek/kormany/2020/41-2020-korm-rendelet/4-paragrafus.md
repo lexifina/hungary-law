@@ -6,11 +6,11 @@ b) a felsőoktatási intézmények hallgatók általi látogatása tilos,
 
 c)[^6] az összehangolt védekezés érdekében köznevelési intézményben – az óvoda kivételével – rendkívüli szünetet az intézményvezető, a jegyző, valamint az Oktatási Hivatal nem rendelhet el,
 
-d)[^7]
+d)[^7] a gyermek gondozására, nevelésére tekintettel nyújtott – kormányrendeletben meghatározott – egészségbiztosítási és családtámogatási ellátásokra való jogosultság a veszélyhelyzet megszűnéséig meghosszabbodik,
 
 e) a Külföldi Nyelvtanulási Program felfüggesztésre kerül,
 
 f) a külföldre irányuló iskolai kirándulás tilos, a már lefoglalt, külföldre irányuló iskolai kirándulást le kell mondani.
 
 [^6]: A 4. § c) pontja a 45/2020. (III. 14.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^7]: A 4. § d) pontját a 46/2020. (III. 16.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^7]: A 4. § d) pontját a 46/2020. (III. 16.) Korm. rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2020. (III. 23.) Korm. rendelet 1. §-a iktatta be.
