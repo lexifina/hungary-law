@@ -30,7 +30,9 @@ g) zöldfelületek kialakításának
 
 biztosítása.
 
-(5) A közterületet rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
+(5) A közterületet – az (5a) bekezdésben foglaltak figyelembevételével – rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
+
+(5a) Amennyiben a közterület használatára törvényben vagy a Kormány rendeletében kiemelten közérdekű beruházássá nyilvánított olyan építési beruházással összefüggésben kerül sor, amely legalább 50%-ban központi költségvetési támogatásból valósul meg, úgy a beruházás megvalósítója – legfeljebb törvényben vagy a Kormány rendeletében meghatározott időtartamra – a helyi önkormányzat tulajdonában álló közterületet díjmentesen használhatja.
 
 (6) Amennyiben elosztóvezeték vagy elosztóhálózat létesítéséhez vagy felújításához a közterület tulajdonosának, kezelőjének nyilatkozata, hozzájárulása vagy jóváhagyása szükséges a közterület igénybevételével, felbontásával kapcsolatban, és arra az elosztó nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni.
 
