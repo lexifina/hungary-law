@@ -1,6 +1,6 @@
-## 2. §[^2] E rendelet alkalmazásában:
+## 2. §[^3] E rendelet alkalmazásában:
 
-1. árjegyzés: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 4. § (2) bekezdés 3. pontjában meghatározott árjegyző által kereskedési helyszín működtetőjével kötött árjegyzési megállapodás alapján végzett, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 80. pontja szerinti tevékenység;
+1.[^4]
 
 2. hitelminősítés: a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés a) pontjában ekként meghatározott fogalom;
 
@@ -14,4 +14,5 @@
 
 7. visszavásárlási vételár: a Jht. 8. § (5) bekezdése szerinti fogalom.
 
-[^2]: A 2. § a 2/2019. (I. 9.) MNB rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § a 2/2019. (I. 9.) MNB rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 1. pontját az 5/2020. (III. 19.) MNB rendelet 3. §-a hatályon kívül helyezte.
