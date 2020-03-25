@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-32-20-8
 | 2017-08-18 | 1999-32-20-82.21 | 42/2017. (VIII. 17.) FM rendelet |
 | 2017-12-30 | 1999-32-20-82.22 | 69/2017. (XII. 27.) FM rendelet |
 | 2020-01-01 | 1999-32-20-82.23 | 178/2009. (XII. 29.) FVM rendelet |
+| 2020-03-25 | 1999-32-20-82.24 | 20/2002. (III. 14.) FVM rendelet |

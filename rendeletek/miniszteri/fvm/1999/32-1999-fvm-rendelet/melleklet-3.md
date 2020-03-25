@@ -90,7 +90,7 @@
 
 ## 1.15.3. azt, hogy az állatok – kivéve a kocák és kocasüldők a fialást megelőző utolsó hét folyamán, valamint a fiaztató kutricában való tartás alatt – fajtársaikat láthassák.
 
-## 1.16. A sertéseknek biztosítani kell a viselkedésbeli sajátosságaikhoz tartozó magatartásformához (pl. fürkészés, turkálás, játék) szükséges, elegendő mennyiségű, egészségükre nem ártalmas anyagot (pl. szalmát, szénát, fát, fűrészport, gombakomposztot vagy ezek keverékét).
+## 1.16.[^64] A sertéseknek állandó jelleggel biztosítani kell a viselkedésbeli sajátosságaikhoz tartozó magatartásformához szükséges, elegendő mennyiségű, egészségükre nem ártalmas fürkészhető és manipulálható anyagot (például szalmát, szénát, fát, fűrészport, gombakomposztot, tőzeget vagy ezek keverékét).
 
 ## 2. A kanok tartásának követelményei
 
@@ -148,7 +148,7 @@
 
 ## 5.4. Az egyedek különböző csoportok között történő áthelyezésénél nyugtatószereket csak rendkívüli esetben és állatorvos szakvéleménye alapján lehet alkalmazni.
 
-3. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^64]
+3. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^65]
 
 ## A tojótyúkok tartásának minimális követelményei
 
@@ -156,15 +156,15 @@
 
 a) az alternatív rendszerekre, vagy
 
-b)[^65]
+b)[^66]
 
 c) a feljavított ketrecekre
 
 megállapított rendelkezéseket kötelesek betartani.
 
-2.[^66] Új vagy felújított fel nem javított ketreces rendszerek üzembe helyezése és üzemben tartása tilos.
+2.[^67] Új vagy felújított fel nem javított ketreces rendszerek üzembe helyezése és üzemben tartása tilos.
 
-2.1.[^67] Ketreces tojótyúktartás során tilos fel nem javított ketrecet üzemben tartani.
+2.1.[^68] Ketreces tojótyúktartás során tilos fel nem javított ketrecet üzemben tartani.
 
 3. E melléklet előírását nem kell alkalmazni
 
@@ -172,9 +172,9 @@ a) a 350 tojótyúknál kevesebbet tartó létesítményekre,
 
 b) a tenyész-tojótyúkokat nevelő létesítményekre,
 
-c)[^68]
+c)[^69]
 
-d)[^69]
+d)[^70]
 
 4. A rendelet 1–13. §-ában foglaltak a 3. a) és b) pontban felsorolt létesítményekre is vonatkoznak.
 
@@ -196,7 +196,7 @@ A tojótyúkok alternatív rendszerben való tartásának minimális követelmé
 
 6.2. ha szelepes vagy csészés itató használatos, minden 10 tyúkra legalább egy szelepes vagy csészés itató jusson, vagy ha itatópontokat szereltek be, minden egyes tyúknak legalább két csészés vagy két szelepes itató legyen elérhető,
 
-6.3.[^70] egy fészekre legfeljebb hét tyúk, valamint csoportos fészek esetében 1 négyzetméter területű fészekre legfeljebb 120 tyúk jusson,
+6.3.[^71] egy fészekre legfeljebb hét tyúk, valamint csoportos fészek esetében 1 négyzetméter területű fészekre legfeljebb 120 tyúk jusson,
 
 6.4. éles szélek nélküli megfelelő ülőrud(ak)at, és ebből minden tyúk számára legalább 15 cm-t kell biztosítani,
 
@@ -208,7 +208,7 @@ A tojótyúkok alternatív rendszerben való tartásának minimális követelmé
 
 6.8. az állomány sűrűsége nem haladhatja meg a hasznosítható terület egy négyzetméterére számítva a kilenc tojótyúkot.
 
-7.[^71]
+7.[^72]
 
 8. Az 5. és a 6. pontban megállapított rendelkezéseken kívül,
 
@@ -226,11 +226,11 @@ d) a szinteket úgy kell elrendezni, hogy az ürülék ne essen le az alsóbb sz
 
 a) az épület teljes hossza mentén több kijárati nyílásnak kell lennie, melyeken át a tyúkok közvetlenül kijutnak a külső területre, és amelyek legalább 35 centiméter magasak és 40 centiméter szélesek,
 
-b)[^72] összeadva legalább 2 méter nyílás álljon minden 1000 tyúk rendelkezésére,
+b)[^73] összeadva legalább 2 méter nyílás álljon minden 1000 tyúk rendelkezésére,
 
 c) a kifutó olyan területű legyen, amely megfelel az állomány sűrűségének és a talaj jellegének, hogy bármilyen fertőződés megakadályozható legyen. Legyen felszerelve menedékhellyel a szélsőséges időjárás és a ragadozók ellen, valamint megfelelő itatóvályúkkal is.
 
-9.[^73]
+9.[^74]
 
 A tojótyúkok feljavított ketreces rendszerben való tartásának minimális követelményei
 
@@ -254,31 +254,31 @@ d) tyúkonként legalább 15 centiméteres hosszúságú megfelelő ülőrudat,
 
 10.5. a ketreceket megfelelő karomkoptató eszközökkel kell ellátni.
 
-A tojótyúkok feljavított ketreces, valamint alternatív tartási rendszerekben való tartásának minimális követelményei[^74]
+A tojótyúkok feljavított ketreces, valamint alternatív tartási rendszerekben való tartásának minimális követelményei[^75]
 
-11.[^75] A tojótyúkoknál alkalmazott tartási rendszer csak akkor lehet két- vagy többszintes, ha megfelelő berendezésekkel vagy intézkedésekkel a tojók ellenőrzése minden szinten lehetséges, valamint azok eltávolítása nem okoz nehézséget.
+11.[^76] A tojótyúkoknál alkalmazott tartási rendszer csak akkor lehet két- vagy többszintes, ha megfelelő berendezésekkel vagy intézkedésekkel a tojók ellenőrzése minden szinten lehetséges, valamint azok eltávolítása nem okoz nehézséget.
 
-12.[^76] Minden épületben olyan fényerőt kell biztosítani, hogy minden tyúk láthassa a többi tyúkot és ők is láthatók legyenek, hogy szemrevételezhessék környezetüket, és természetes tevékenységeiket folytathassák. Ahol természetes fény van, a fény behatolását lehetővé tévő nyílásokat úgy kell megtervezni, hogy a fény az épületen belül egyenletesen oszoljon meg.
+12.[^77] Minden épületben olyan fényerőt kell biztosítani, hogy minden tyúk láthassa a többi tyúkot és ők is láthatók legyenek, hogy szemrevételezhessék környezetüket, és természetes tevékenységeiket folytathassák. Ahol természetes fény van, a fény behatolását lehetővé tévő nyílásokat úgy kell megtervezni, hogy a fény az épületen belül egyenletesen oszoljon meg.
 
 13. A beólazás első napjai után a fényforrásokat úgy kell elhelyezni, hogy az megakadályozza az egészségügyi és viselkedésbeli problémákat. A megvilágítás a 24 órás napi ritmust kövesse, és az utasítások szerint tartalmazzon egy, körülbelül a nap egyharmadát érintő zavartalan sötét időszakot is, hogy a tojótyúkok pihenhessenek, és ezáltal szemrendellenességek ne alakuljanak ki, az ellenállóképesség csökkenése ne következzen be. Gondoskodni kell a megfelelő hosszúságú félhomályos időszakról is, amikor a tyúkok zavartalanul, nyugodtan pihenhetnek anélkül, hogy megsérülnének.
 
-14.[^77] Az elhullott egyedeket minden nap, az ürüléket pedig szükség szerint el kell távolítani.
+14.[^78] Az elhullott egyedeket minden nap, az ürüléket pedig szükség szerint el kell távolítani.
 
-15.[^78] Tilos a tojásrakás megszüntetése vagy a vedlés mesterséges kiváltása érdekében az itatóvizet, a takarmányt, a fényt teljesen elvonni.
+15.[^79] Tilos a tojásrakás megszüntetése vagy a vedlés mesterséges kiváltása érdekében az itatóvizet, a takarmányt, a fényt teljesen elvonni.
 
-16.[^79] A zajszintet minimálisra kell csökkenteni. Kerülendő a hirtelen vagy állandó zaj. A szellőztető, etető és más berendezéseket úgy kell megtervezni, elhelyezni, működtetni és fenntartani, hogy azok a lehető legkisebb zajt okozzák.
+16.[^80] A zajszintet minimálisra kell csökkenteni. Kerülendő a hirtelen vagy állandó zaj. A szellőztető, etető és más berendezéseket úgy kell megtervezni, elhelyezni, működtetni és fenntartani, hogy azok a lehető legkisebb zajt okozzák.
 
-17.[^80] Az épületek, berendezések és szerszámok azon részeit, melyek kapcsolatba kerülnek az állatokkal, rendszeresen tisztítani és fertőtleníteni kell, és ezt minden kitelepítés után, az új egyedek érkezése előtt is meg kell tenni. A betelepített ketrecek külső felületeit és minden berendezést tisztán kell tartani.
+17.[^81] Az épületek, berendezések és szerszámok azon részeit, melyek kapcsolatba kerülnek az állatokkal, rendszeresen tisztítani és fertőtleníteni kell, és ezt minden kitelepítés után, az új egyedek érkezése előtt is meg kell tenni. A betelepített ketrecek külső felületeit és minden berendezést tisztán kell tartani.
 
-18.[^81] A ketreceket megfelelő szökésmegelőző rendszerrel kell felszerelni.
+18.[^82] A ketreceket megfelelő szökésmegelőző rendszerrel kell felszerelni.
 
-19.[^82] A ketrecek ajtaját úgy kell megtervezni, és annak olyan szélesnek kell lennie, hogy egy kifejlett tojótyúk kivétele ne okozzon annak felesleges szenvedést vagy maradandó károsodást.
+19.[^83] A ketrecek ajtaját úgy kell megtervezni, és annak olyan szélesnek kell lennie, hogy egy kifejlett tojótyúk kivétele ne okozzon annak felesleges szenvedést vagy maradandó károsodást.
 
-20.[^83] A tojótyúkok mindennemű csonkítása tilos, kivételt képez a tollcsipkedés és kannibalizmus megelőzése érdekében végzett csőrkurtítás, amennyiben azt tojásrakásra szánt 10 naposnál nem idősebb csibéken, állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végzi.
+20.[^84] A tojótyúkok mindennemű csonkítása tilos, kivételt képez a tollcsipkedés és kannibalizmus megelőzése érdekében végzett csőrkurtítás, amennyiben azt tojásrakásra szánt 10 naposnál nem idősebb csibéken, állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végzi.
 
-21–24.[^84]
+21–24.[^85]
 
-25.[^85]
+25.[^86]
 
 [^58]: A 2. számú melléklet 1.2.2. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
 [^59]: A 2. számú melléklet 1.3.1. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
@@ -286,25 +286,26 @@ A tojótyúkok feljavított ketreces, valamint alternatív tartási rendszerekbe
 [^61]: A 2. számú melléklet 1.5.1. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
 [^62]: A 2. számú melléklet 1.6. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
 [^63]: A 2. számú melléklet 1.10. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (5) bekezdése szerint módosított szöveg.
-[^64]: A 3. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^65]: A 3. számú melléklet 1. pont b) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
-[^66]: A 3. számú melléklet 2. pontja az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés j) pontja szerint módosított szöveg.
-[^67]: A 3. számú melléklet 2.1. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdése iktatta be.
-[^68]: A 3. számú melléklet 3. pont c) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^69]: A 3. számú melléklet 3. pont d) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^70]: A 3. számú melléklet 6.3. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés e) pontja szerint módosított szöveg.
-[^71]: A 3. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
-[^72]: A 3. számú melléklet 8.2. pont b) alpontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés f) pontja szerint módosított szöveg.
-[^73]: A 3. számú melléklet 9. pontját és az azt megelőző alcímet a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekedése hatályon kívül helyezte.
-[^74]: A 3. számú melléklet 11. pontját megelőző alcím a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^75]: A 3. számú melléklet 11. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^76]: A 3. számú melléklet 12. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés g) pontja szerint módosított szöveg.
-[^77]: A 3. számú melléklet 14. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^78]: A 3. számú melléklet 15. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^79]: A 3. számú melléklet 16. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^80]: A 3. számú melléklet 17. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^81]: A 3. számú melléklet 18. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^82]: A 3. számú melléklet 19. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^83]: A 3. számú melléklet 20. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^84]: A 3. számú melléklet 21–24. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^85]: A 3. számú melléklet 25. pontja a 20/2002. (III. 14.) FVM rendelet 17. § (8) bekezdése alapján 2007. január 1. napján hatályát vesztette.
+[^64]: A 2. számú melléklet 1. pont 1.16. alpontja az 5/2020. (III. 20.) AM rendelet 1. §-ával megállapított szöveg.
+[^65]: A 3. számú melléklet a 20/2002. (III. 14.) FVM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^66]: A 3. számú melléklet 1. pont b) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
+[^67]: A 3. számú melléklet 2. pontja az 51/2013. (VI. 17.) VM rendelet 2. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^68]: A 3. számú melléklet 2.1. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdése iktatta be.
+[^69]: A 3. számú melléklet 3. pont c) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^70]: A 3. számú melléklet 3. pont d) alpontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^71]: A 3. számú melléklet 6.3. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés e) pontja szerint módosított szöveg.
+[^72]: A 3. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése hatályon kívül helyezte.
+[^73]: A 3. számú melléklet 8.2. pont b) alpontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^74]: A 3. számú melléklet 9. pontját és az azt megelőző alcímet a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekedése hatályon kívül helyezte.
+[^75]: A 3. számú melléklet 11. pontját megelőző alcím a 178/2009. (XII. 29.) FVM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^76]: A 3. számú melléklet 11. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^77]: A 3. számú melléklet 12. pontja a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés g) pontja szerint módosított szöveg.
+[^78]: A 3. számú melléklet 14. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^79]: A 3. számú melléklet 15. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^80]: A 3. számú melléklet 16. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^81]: A 3. számú melléklet 17. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^82]: A 3. számú melléklet 18. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^83]: A 3. számú melléklet 19. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^84]: A 3. számú melléklet 20. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^85]: A 3. számú melléklet 21–24. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^86]: A 3. számú melléklet 25. pontja a 20/2002. (III. 14.) FVM rendelet 17. § (8) bekezdése alapján 2007. január 1. napján hatályát vesztette.
