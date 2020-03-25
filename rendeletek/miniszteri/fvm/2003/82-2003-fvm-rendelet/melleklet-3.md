@@ -524,7 +524,7 @@
 
 ## * A Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától kell feltüntetni.
 
-3. számú melléklet a 82/2003. (VII. 16.) FVM rendelethez[^21]
+3. számú melléklet a 82/2003. (VII. 16.) FVM rendelethez[^22]
 
 ## Kiegészítő információk a forgalomba hozatali engedély iránti kérelmek benyújtásához
 
@@ -574,4 +574,4 @@
 
 3.7. javasolt kiegészítő jelölés, amely magába foglalhatja – legalább összefoglalva – a 2.4., 2.5., 3.1–3.4. pontokban meghatározott információkat.
 
-[^21]: A 3. számú melléklet az 54/2019. (XII. 4.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3. számú melléklet az 54/2019. (XII. 4.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.

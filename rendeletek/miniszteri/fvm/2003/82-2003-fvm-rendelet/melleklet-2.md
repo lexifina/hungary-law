@@ -234,7 +234,7 @@
 
 ## 16. Egyéb lehetséges kölcsönhatások a környezettel.
 
-## V. A FELÜGYELETRE, SZABÁLYOZÁSRA, HULLADÉKKEZELÉSRE ÉS VÉSZHELYZETRE, ILLETVE BALESET-ELHÁRÍTÁSRA VONATKOZÓ TERVEKRE (A TOVÁBBIAKBAN: KÉSZENLÉTI TERV) VONATKOZÓ INFORMÁCIÓK[^18]
+## V. A FELÜGYELETRE, SZABÁLYOZÁSRA, HULLADÉKKEZELÉSRE ÉS VÉSZHELYZETRE, ILLETVE BALESET-ELHÁRÍTÁSRA VONATKOZÓ TERVEKRE (A TOVÁBBIAKBAN: KÉSZENLÉTI TERV) VONATKOZÓ INFORMÁCIÓK[^19]
 
 ## A) Felügyeleti technikák
 
@@ -262,7 +262,7 @@
 
 ## 3. Az előirányzott kezelés leírása.
 
-## D) Készenléti tervek[^19]
+## D) Készenléti tervek[^20]
 
 ## 1. A géntechnológiával módosított szervezetek elleni védekezés módszerei és eljárásai nem várt terjedés esetén.
 
@@ -274,7 +274,7 @@
 
 ## 5. Tervek az emberi egészség és a környezet védelmére nem kívánt hatás esetében.
 
-## ,,B'' Rész[^20]
+## ,,B'' Rész[^21]
 
 ## A géntechnológiával módosított magasabb rendű növények (Gymnospermae és Angiospermae) kibocsátására vonatkozó engedély iránti kérelem tartalma
 
@@ -634,6 +634,6 @@
 
 2. számú melléklet a 82/2003. (VII. 16.) FVM rendelethez
 
-[^18]: Az 1. számú melléklet A) rész V. pont címe a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés a) pontjával megállapított szöveg.
-[^19]: Az 1. számú melléklet A) rész V. pont D) alpont alcíme a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés b) pontjával megállapított szöveg.
-[^20]: Az 1. számú melléklet B) része az 54/2019. (XII. 4.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet A) rész V. pont címe a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés a) pontjával megállapított szöveg.
+[^20]: Az 1. számú melléklet A) rész V. pont D) alpont alcíme a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés b) pontjával megállapított szöveg.
+[^21]: Az 1. számú melléklet B) része az 54/2019. (XII. 4.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.

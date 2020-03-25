@@ -42,7 +42,7 @@ A 2. § (3) bekezdésének a) pontja szerinti kérelem engedélyezéséhez elő�
 
 9. a kibocsátásra vonatkozó környezeti kockázat értékelés összefoglalása,
 
-10.[^22] az illetékes hatóságok számára a vészhelyzetre, illetve baleset-elhárításra vonatkozó tervek (a továbbiakban: készenléti terv) értékeléséhez szükséges adatok.
+10.[^23] az illetékes hatóságok számára a vészhelyzetre, illetve baleset-elhárításra vonatkozó tervek (a továbbiakban: készenléti terv) értékeléséhez szükséges adatok.
 
 ,,C'' Rész
 
@@ -68,7 +68,7 @@ c) 1. az alkalmazandó elszigetelés és egyéb óvintézkedések leírása, bel
 
 3. a létesítmény részeinek leírása;
 
-d)[^23] a baleset-megelőzési és készenléti tervekre vonatkozó tájékoztatás, amennyiben vannak ilyen tervek:
+d)[^24] a baleset-megelőzési és készenléti tervekre vonatkozó tájékoztatás, amennyiben vannak ilyen tervek:
 
 1. a létesítmény elhelyezkedéséből eredő bármilyen meghatározott veszélyforrás,
 
@@ -78,8 +78,8 @@ d)[^23] a baleset-megelőzési és készenléti tervekre vonatkozó tájékoztat
 
 4. a dolgozók számára kiadott tájékoztatás leírása,
 
-5.[^24] az illetékes hatóságok számára a készenléti tervek értékeléséhez szükséges adatok.
+5.[^25] az illetékes hatóságok számára a készenléti tervek értékeléséhez szükséges adatok.
 
-[^22]: A 4. számú melléklet B) rész 10. pontja a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^23]: A 4. számú melléklet C) rész d) pont bevezető szövegrésze a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^24]: A 4. számú melléklet C) rész d) pont 5. alpontja a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^23]: A 4. számú melléklet B) rész 10. pontja a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^24]: A 4. számú melléklet C) rész d) pont bevezető szövegrésze a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^25]: A 4. számú melléklet C) rész d) pont 5. alpontja a 89/2009. (VII. 22.) FVM rendelet 3. § (2) bekezdés f) pontja szerint módosított szöveg.

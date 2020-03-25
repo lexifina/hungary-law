@@ -1,6 +1,6 @@
 4. § (1) Ez a rendelet a kihirdetését követő második hónap első napján lép hatályba, egyidejűleg a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvénynek a mezőgazdaság és az élelmiszeripar területén történő végrehajtásáról szóló 1/1999. (I. 14.) FVM rendelet 7. és 18. §-a, valamint 3. és 4. számú melléklete hatályát veszti.
 
-(2)[^17] Ez a rendelet
+(2)[^18] Ez a rendelet
 
 a) a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a 90/220/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2001. március 12-i 2001/18/EK európai parlamenti és tanácsi irányelv III., III/A., III/B. és IV. mellékletének,
 
@@ -12,4 +12,4 @@ d) a 2001/18/EK európai parlamenti és tanácsi irányelvnek a géntechnológi�
 
 való megfelelést szolgálja.
 
-[^17]: A 4. § (2) bekezdése az 54/2019. (XII. 4.) AM rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4. § (2) bekezdése az 54/2019. (XII. 4.) AM rendelet 2. §-ával megállapított szöveg.
