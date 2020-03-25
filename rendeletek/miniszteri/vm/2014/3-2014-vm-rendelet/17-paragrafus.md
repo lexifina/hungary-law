@@ -1,18 +1,18 @@
-## 12. [^48] A járási hivatal feladatai
+## 12. [^42] A járási hivatal feladatai
 
-## 17. §[^49] A járási hivatal köteles:
+## 17. §[^43] A járási hivatal köteles:
 
-a) az állományok minősítését határozatban kiadni;
+a)[^44] az állományok minősítését elvégezni;
 
 b) PRRS gyanúja esetén:
 
-ba) a helyszínre kiszállni és a hatósági állatorvos által hozott intézkedéseket felülvizsgálni, illetve szükség esetén módosítani;
+ba)[^45]
 
 bb) szükség esetén a fertőzöttség megállapítása érdekében diagnosztikai célú leölést elrendelni;
 
-bc)[^50] amennyiben a laboratóriumi vizsgálatok a PRRS vírusát vagy annak genomját mutatják ki, a fertőzöttséget megállapítani;
+bc)[^46] amennyiben a laboratóriumi vizsgálatok a PRRS vírusát vagy annak genomját mutatják ki, a fertőzöttséget megállapítani;
 
-c)[^51] a fertőzöttséget megállapítani és azt követően:
+c)[^47] a fertőzöttséget megállapítani és azt követően:
 
 ca) az állományt helyi zárlat alá helyezni;
 
@@ -22,7 +22,9 @@ cc) a hatósági állatorvos útján intézkedni annak érdekében, hogy mindazo
 
 cd) a megyei kormányhivatalt a megtett intézkedésekről tájékoztatni.
 
-[^48]: A 12. alcím címe a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
-[^49]: A 17. § nyitó szövegrésze a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
-[^50]: A 17. § b) pont bc) alpontja a 64/2016. (IX. 19.) FM rendelet 7. § a) pontja szerint módosított szöveg.
-[^51]: A 17. § c) pontja a 64/2016. (IX. 19.) FM rendelet 5. §-ával megállapított szöveg.
+[^42]: A 12. alcím címe a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
+[^43]: A 17. § nyitó szövegrésze a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
+[^44]: A 17. § a) pontja az 5/2020. (III. 20.) AM rendelet 12. § f) pontja szerint módosított szöveg.
+[^45]: A 17. § b) pont ba) alpontját az 5/2020. (III. 20.) AM rendelet 13. § e) pontja hatályon kívül helyezte.
+[^46]: A 17. § b) pont bc) alpontja a 64/2016. (IX. 19.) FM rendelet 7. § a) pontja szerint módosított szöveg.
+[^47]: A 17. § c) pontja a 64/2016. (IX. 19.) FM rendelet 5. §-ával megállapított szöveg.

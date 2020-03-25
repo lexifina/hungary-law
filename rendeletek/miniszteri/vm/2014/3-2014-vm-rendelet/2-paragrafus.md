@@ -1,23 +1,21 @@
-2. § (1) A sertés reprodukciós zavarokkal és légzőszervi tünetekkel járó szindrómájára (a továbbiakban: PRRS) nézve fertőzött az a sertés,
+2. § (1)[^2] PRRS-re nézve fertőzött az a sertés,
 
-a) amely a PRRS-re gyanút keltő tüneteket vagy kórbonctani elváltozásokat mutat, és a betegség jelenléte virológiai vizsgálattal igazolt;
+a) amelyből származó mintában – a vakcina törzseket kivéve – PRRS vírust mutattak ki,
 
-b) amelyből a PRRS vírusa vagy annak genomja kimutatható;
+b) amely járványtanilag kapcsolatba hozható PRRS vírus fertőzött sertéssel, és amelyből származó mintában PRRS vírus specifikus antigén vagy RNS lett kimutatva, amely nem vakcinázás következménye, vagy
 
-c)[^4] amely a betegségre gyanút keltő tüneteket mutat, és olyan sertés-tenyészállományban vagy önálló árutermelő hízóállományban (a továbbiakban együtt: állomány) tartják, amelyben a fertőzöttséget járási hivatal megállapította;
+c) amely járványtanilag kapcsolatba hozható megerősített PRRS vírus fertőzött sertéssel, és amelyből származó mintában PRRS vírus vakcina törzset, az antigénjét, az RNS-ét vagy PRRS vírus elleni specifikus ellenanyagokat mutattak ki, amely nem a vakcinázás következménye.
 
-d)[^5] amely két különböző szerológiai vizsgálattal pozitívnak bizonyult.
-
-(2)[^6] PRRS fertőzöttségére nézve gyanús az a sertés,
+(2)[^3] PRRS fertőzöttségére nézve gyanús az a sertés,
 
 a) amelynek klinikai tünetei vagy kórbonctani elváltozásai a PRRS-re utalnak és a laboratóriumi vizsgálatok a betegség jelenlétét még nem igazolták vagy zárták ki;
 
-b) amely a szerológiai vizsgálat során pozitív vagy kétes eredményt ad és a további vizsgálatok a fertőzöttséget még nem erősítették meg, illetve zárták ki;
+b)[^4] amely nem vakcinázott, valamint a szerológiai vizsgálat során pozitív vagy kétes eredményt ad és a további vizsgálatok a fertőzöttséget még nem erősítették meg, illetve zárták ki;
 
 c) amelyet a megelőző hatvan napon belül fertőzött sertéssel együtt tartottak, vagy fertőzött sertéstől származó ondóval termékenyítettek.
 
 (3) A PRRS bejelentési kötelezettség alá tartozó állatbetegség. A betegség vagy annak gyanújának észlelése esetén az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet előírásait is alkalmazni kell.
 
-[^4]: A 2. § (1) bekezdés c) pontja a 64/2016. (IX. 19.) FM rendelet 6. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés d) pontja a 16/2016. (III. 11.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (2) bekezdése a 16/2016. (III. 11.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdése az 5/2020. (III. 20.) AM rendelet 6. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 16/2016. (III. 11.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés b) pontja az 5/2020. (III. 20.) AM rendelet 12. § a) pontja szerint módosított szöveg.
