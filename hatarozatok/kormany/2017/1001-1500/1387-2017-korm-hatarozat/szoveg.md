@@ -134,21 +134,17 @@ Határidő: 2017. december 31.
 
 4. A Kormány támogatja Győr kulturális életének fellendítését, ennek érdekében
 
-a) felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy vizsgálják meg a Győri Nemzeti Színház komplex megújításának, valamint a II. János Pál tér rehabilitációjának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsenek előterjesztést a Kormány számára a fejlesztés ütemezett támogatása érdekében;
+a)[^1] felhívja az emberi erőforrások miniszterét, hogy vizsgálja meg a Győri Nemzeti Színház komplex megújításának, valamint a II. János Pál tér rehabilitációjának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés ütemezett támogatása érdekében;
 
 Felelős: emberi erőforrások minisztere
 
-nemzeti fejlesztési miniszter
+Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárást követően
 
-Határidő: a kormány-előterjesztés elkészítésére 2017. szeptember 30.[^1]
-
-b) felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat bevonásával vizsgálják meg egy új hangversenyterem építésének, fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsenek előterjesztést a Kormány számára a fejlesztés támogatása érdekében;
+b)[^2] felhívja az emberi erőforrások miniszterét, hogy az Önkormányzat bevonásával vizsgálja meg egy új hangversenyterem építésének, fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés támogatása érdekében;
 
 Felelős: emberi erőforrások minisztere
 
-nemzeti fejlesztési miniszter
-
-Határidő: 2017. december 31.[^2]
+Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárást követően
 
 c) felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzat bevonásával vizsgálja meg egy új konferenciaterem építésének, fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés támogatása érdekében;
 
@@ -176,5 +172,5 @@ Felelős: az 1–4. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
-[^1]: Az 1495/2018. (X. 10.) Korm. határozat 4. pont a) alpontja alapján a 4. pont a) alpontja szerinti határidő a megvalósítás előkészítési fázisát követően legkésőbb 2020. január 31.
-[^2]: Az 1495/2018. (X. 10.) Korm. határozat 4. pont b) alpontja alapján a 4. pont b) alpontja szerinti határidő a megvalósítás előkészítési fázisát követő 60 napon belül.
+[^1]: A 4. pont a) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
+[^2]: A 4. pont b) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
