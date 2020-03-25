@@ -34,7 +34,7 @@
 
 ## 6. Tartósítóipari mérnök
 
-## 7. Szőlész-borász mérnök
+## 7.[^252] Szőlész-borász mérnök vagy szakmérnök, szőlő- és borgazdasági szaktanácsadó
 
 ## 8. Borász-italtechnológus szakmérnöki
 
@@ -68,7 +68,7 @@
 
 ## 6. Tartósítóipari mérnök
 
-## 7. Szőlész-borász mérnök
+## 7.[^253] Szőlész-borász mérnök vagy szakmérnök, szőlő- és borgazdasági szaktanácsadó
 
 ## 8. Borász-italtechnológus szakmérnöki
 
@@ -96,6 +96,8 @@
 
 ## 7. Borász-italtechnológus szakmérnök
 
-13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^252]
+13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^254]
 
-[^252]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^252]: A 12. számú melléklet I. pont „Felsőfokú végzettség” felsorolás 7. pontja az 5/2020. (III. 20.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^253]: A 12. számú melléklet II. pont „Felsőfokú végzettség” felsorolás 7. pontja az 5/2020. (III. 20.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^254]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.

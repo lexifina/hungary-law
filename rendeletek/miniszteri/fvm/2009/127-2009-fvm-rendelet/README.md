@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-127-20-
 | 2018-08-01 | 2009-127-20-82.26 | 59/2017. (XII. 18.) FM rendelet |
 | 2018-09-01 | 2009-127-20-82.27 | 24/2018. (VIII. 31.) AM rendelet |
 | 2018-12-07 | 2009-127-20-82.28 | 60/2015. (X. 8.) FM rendelet |
+| 2020-03-25 | 2009-127-20-82.29 | 5/2020. (III. 20.) AM rendelet |
