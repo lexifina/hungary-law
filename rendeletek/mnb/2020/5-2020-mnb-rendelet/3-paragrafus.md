@@ -1,1 +1,0 @@
-## 2. § A hitelintézetek eszközei és forrásai közötti általános denominációs összhang szabályozásáról szóló 25/2015. (VII. 30.) MNB rendelet 2. § (2) bekezdésében a „0,15-ös” szövegrész helyébe a „0,1-es” szöveg lép.

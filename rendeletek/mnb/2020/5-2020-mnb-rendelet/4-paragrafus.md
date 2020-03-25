@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a hitelintézetek forint lejárati összhangjának szabályozásáról szóló 20/2015. (VI. 29.) MNB rendelet 2. § 1. pontja és 1. melléklet 6a. pontja.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
