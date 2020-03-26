@@ -1,5 +1,3 @@
-3. § (1) A veszélyhelyzettel kapcsolatos rendkívüli intézkedésekről külön kormányrendeletek rendelkeznek.
+3. §[^3]
 
-(2) A Kormány a veszélyhelyzet fennállásának szükségességét folyamatosan felülvizsgálja.
-
-(3) A Kormány az állampolgárok együttműködését kéri a különleges jogrenddel járó intézkedések végrehajtásában.
+[^3]: A 3. § az Alaptörvény 53. cikk (3) bekezdése alapján hatályát vesztette 2020. március 26-án 15 órakor.
