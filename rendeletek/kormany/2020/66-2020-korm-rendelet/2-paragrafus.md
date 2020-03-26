@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Status Power Invest Korlátolt Felelősségű Társaság (székhely: 1062 Budapest, Andrássy út 59., cégjegyzékszám: 01-09-306027) 100%-os üzletrészének az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság (székhely: 1031 Budapest, Szentendrei út 207–209.; cégjegyzékszám: 01-10-041828) által történő megszerzését az energiaellátás biztonsága érdekében közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
