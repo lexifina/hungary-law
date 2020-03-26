@@ -34,25 +34,25 @@
 
 | 14. |  |  |  |
 
-| 15. | DAKK Dél-alföldi Közlekedési Központ Zártkörűen működő Részvénytársaság | 03-10-100546 | 2022. december 31. |
+| 15. |  |  |  |
 
-| 16. | Dél-dunántúli Közlekedési Központ Zártkörűen működő Részvénytársaság | 14-10-300286 | 2022. december 31. |
+| 16. |  |  |  |
 
 | 17. | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság | 13-10-040189 | 2022. december 31. |
 
 | 18. | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 14-10-300050 | 2022. december 31. |
 
-| 19. | ÉNYKK Északnyugat-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 18-10-100701 | 2022. december 31. |
+| 19. |  |  |  |
 
 | 20. | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság | 05-10-000123 | 2022. december 31. |
 
 | 21. | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság | 11-10-001450 | 2022. december 31. |
 
-| 22. | Észak-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 05-10-000500 | 2022. december 31. |
+| 22. |  |  |  |
 
-| 23. | KMKK Középkelet-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 16-10-001794 | 2022. december 31. |
+| 23. |  |  |  |
 
-| 24. | KNYKK Középnyugat-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 11-10-001682 | 2022. december 31. |
+| 24. |  |  |  |
 
 | 25. | MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság | 01-10-041828 | 2022. december 31. |
 
@@ -230,13 +230,15 @@
 
 | 17. | NFFKÜ - Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2022. december 31. |
 
+| 18. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2022. december 31. |
+
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | KKM Oktatási és Rekreációs Korlátolt Felelősségű Társaság | 01-09-203215 | 2022. december 31. |
+| 1. | KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság | 01-09-203215 | 2022. december 31. |
 
 | 2. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2022. december 31. |
 
@@ -296,7 +298,7 @@
 
 | 1. | PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság | 01-09-295883 | 2022. december 31. |
 
-| 2. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2022. december 31. |
+| 2. |  |  |  |
 
 | 3. | Széchenyi Tőkealap-kezelő Zártkörűen működő Részvénytársaság | 01-10-046411 | 2022. december 31. |
 
