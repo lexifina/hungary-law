@@ -1,4 +1,4 @@
-## 16. §[^24]
+## 16. §[^24] Az Alaptörvény 53. cikke szerinti veszélyhelyzet fennállásának időtartama alatt a jelölt által végzett, a szakképzési tervtől eltérő egészségügyi tevékenység a szakképzése szakgyakorlati idejébe beszámítandó.
 
 ## 17. §[^25] Ez a rendelet
 
@@ -6,5 +6,5 @@ a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/
 
 b) az irányelvnek a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2013. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv 19. pontjával megállapított 25. cikk (3a) bekezdésének
 
-[^24]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 13/2020. (III. 25.) EMMI rendelet 2. §-a iktatta be.
 [^25]: A 17. § a 34/2015. (VI 30.) EMMI rendelet 24. §-ával megállapított szöveg.
