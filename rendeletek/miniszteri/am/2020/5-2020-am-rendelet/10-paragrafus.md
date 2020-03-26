@@ -1,3 +1,3 @@
-## 9. § A 3/2014. (I. 16.) VM rendelet 7. §-a helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „7. § Az állományok mentességének ellenőrzését a Nemzeti Mentesítési Tervben meghatározottak szerint kell elvégezni.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

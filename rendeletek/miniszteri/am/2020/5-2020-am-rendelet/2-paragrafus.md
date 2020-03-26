@@ -1,7 +1,3 @@
-## 1. § A mezőgazdasági haszonállatok tartásának állatvédelmi szabályairól szóló 32/1999. (III. 31.) FVM rendelet [a továbbiakban: 32/1999. (III. 31.) FVM rendelet] 2. számú melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
 
-## 2. § A 32/1999. (III. 31.) FVM rendelet 6. §-ában
-
-a) a „gázkoncentráció” szövegrész helyébe a „gázkoncentráció, légáramlás” szöveg,
-
-b) az „állatra ne legyenek káros hatással” szövegrész helyébe az „állatra nézve nem káros határértékek között legyenek tartva” szöveg
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
