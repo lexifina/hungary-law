@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-5-20-6F
 | --- | --- | --- |
 | 2019-01-01 | 2018-5-20-6F.1 | 5/2018. (XII. 21.) TNM rendelet |
 | 2019-01-02 | 2018-5-20-6F.2 | 2010: CXXX. törvény |
+| 2020-03-26 | 2018-5-20-6F.3 | 2/2020. (III. 25.) TNM rendelet |

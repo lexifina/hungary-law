@@ -1,4 +1,4 @@
-2. melléklet az 5/2018. (XII. 21.) TNM rendelethez
+2. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^5]
 
 ## A fakultatív hitoktatás támogatásához kapcsolódó adatszolgáltatás és elszámolás adattartalma
 
@@ -32,7 +32,7 @@ ebből
 
 8. Hittancsoportok száma összesen:
 
-8.1. ebből az egyházi elismerésről és az egyházi jogi személyek jogállásának és működésének sajátos szabályairól szóló 295/2013. (VII. 29.) Korm. rendelet szerinti átlaglétszám alapján figyelembe vehető csoportszám (legfeljebb a 8. pontban megadott csoportszám):
+8.1. ebből a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet szerinti átlaglétszám alapján figyelembe vehető csoportszám (legfeljebb a 8. pontban megadott csoportszám):
 
 Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
 
@@ -45,3 +45,5 @@ Kelt ....................................................................
 az egyház neve képviselő aláírása
 
 P. H.
+
+[^5]: A 2. melléklet a 2/2020. (III. 25.) TNM rendelet 3. § b) pontja szerint módosított szöveg.
