@@ -28,6 +28,8 @@
 
 | 13. | VP2-4.1.1.5-16 | Sertéstartó telepek korszerűsítése | 28,86 | 0,00 | 25,87 | 0,00 | 0,00 | 2,98 | 0,00 | standard | Meghirdetve: 2016. március |
 
+| 13a | VP2-4.1.1.7-20 | Baromfi- és sertéstartó telepek járványvédelmi rendszereinek fejlesztése | 2,00 | 0,00 | 1,80 | 0,00 | 0,00 | 0,20 | 0,00 | standard | 2020. március |
+
 | 14. | VP2-4.1.2-16 | Kisméretű terménytároló, -szárító és -tisztító építése, korszerűsítése | 38,03 | 0,00 | 36,50 | 0,00 | 0,00 | 1,53 | 0,00 | standard | Meghirdetve: 2016. június |
 
 | 15. | VP2-4.1.3.1-16 | Kertészet korszerűsítése – üveg- és fóliaházak létesítése, energiahatékonyságának növelése geotermikus energia felhasználásának lehetőségével | 25,29 | 0,00 | 21,80 | 0,00 | 0,00 | 3,49 | 0,00 | standard | Meghirdetve: 2016. február |
@@ -38,7 +40,7 @@
 
 | 18. | VP2-4.1.3.5-16 | Kertészet korszerűsítése – kertészeti gépbeszerzés támogatása | 24,31 | 0,00 | 24,31 | 0,00 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2016. november |
 
-| 18a. | VP2-4.1.3.6-17 | Borszőlőültetvény telepítés támogatása | 4,00 | – | 3,79 | – | – | 0,21 | – | standard | 2017. december |
+| 18a. | VP2-4.1.3.6-17 | Borszőlőültetvény telepítés támogatása | 4,00 | – | 3,79 | – | – | 0,21 | – | standard | Meghirdetve: 2018. január |
 
 | 19. | VP2-4.1.4-16 | Mezőgazdasági vízgazdálkodási ágazat fejlesztése | 49,57 | 0,00 | 28,52 | 0,00 | 0,00 | 21,05 | 0,00 | standard | Meghirdetve: 2016. május |
 
@@ -46,15 +48,15 @@
 
 | 21. | VP2-6.3.1-16 | Mezőgazdasági kisüzemek fejlesztése | 5,00 | 0,00 | 5,00 | 0,00 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2016. február |
 
-| 22. | VP3-3.1.1-19 | Mezőgazdasági termelők EU-s és nemzeti minőség-rendszerhez történő csatlakozásának támogatása | 2,52 | 0,00 | 0,00 | 2,52 | 0,00 | 0,00 | 0,00 | standard | 2019. október |
+| 22. | VP3-3.1.1-19 | Mezőgazdasági termelők EU-s és nemzeti minőség-rendszerhez történő csatlakozásának támogatása | 2,52 | 0,00 | 0,00 | 2,52 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2019. december |
 
 | 23. |  |  |  |  |  |  |  |  |  |  |  |
 
 | 24. | VP3-4.2.1-15 | Mezőgazdasági termékek értéknövelése és erőforrás-hatékonyság elősegítése a feldolgozásban | 114,18 | 0,00 | 0,00 | 92,96 | 0,00 | 9,51 | 11,71, | standard | Meghirdetve: 2015. december |
 
-| 24a. | VP3-4.2.1-4.2.2-18 | Mezőgazdasági termékek értéknövelése a feldolgozásban | 50,00 | – | – | 40,00 | – | 5,00 | 5,00 | standard | 2018. szeptember |
+| 24a. | VP3-4.2.1-4.2.2-18 | Mezőgazdasági termékek értéknövelése a feldolgozásban | 50,00 | – | – | 40,00 | – | 5,00 | 5,00 | standard | Meghirdetve: 2018. október |
 
-| 25. | VP3-4.2.1-4.2.2-19 | A Rövid Ellátási Lánchoz kapcsolódó beruházások támogatása az élelmiszeripar és a borászat területén | 1,50 | 0,00 | 0,00 | 1,50 | 0,00 | 0,00 | 0,00 | standard | 2019. október |
+| 25. | VP3-4.2.1-4.2.2-19 | A Rövid Ellátási Lánchoz kapcsolódó beruházások támogatása az élelmiszeripar és a borászat területén | 1,50 | 0,00 | 0,00 | 1,50 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2019. december |
 
 | 26. | VP3-4.2.2-16 | Borászat termékfejlesztésének és erőforrás-hatékonyságának támogatása | 34,72 | 0,00 | 0,00 | 30,69 | 0,00 | 4,03 | 0,00 | standard | Meghirdetve: 2016. július |
 
@@ -64,9 +66,11 @@
 
 | 29. | VP3-9.1.1-17 | Termelői csoportok és szervezetek létrehozása | 11,63 | 0,00 | 0,00 | 11,63 | 0,00 | 0,00 | 0,00 | standard | Meghirdetve: 2017. március |
 
+| 29a | VP3-9.1.1-20 | Termelői csoportok és szervezetek létrehozása | 3,00 | 0,00 | 0,00 | 3,00 | 0,00 | 0,00 | 0,00 | standard | 2020. február |
+
 | 30. | VP3-14.1.1-16 | A tejágazat szerkezetátalakítását kísérő állatjóléti támogatás | 71,05 | 0,00 | 0,00 | 71,05 | 0,00 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2016. március |
 
-| 30a. | VP3-14.1.1-18 | A tejágazat szerkezetátalakítását kísérő állatjóléti támogatás | 0,68 | – | – | 0,68 | – | – | – | egyszerűsített | 2018. október |
+| 30a. | VP3-14.1.1-18 | A tejágazat szerkezetátalakítását kísérő állatjóléti támogatás | 0,68 | – | – | 0,68 | – | – | – | egyszerűsített | Meghirdetve: 2018. október |
 
 | 31. | VP3-16.1.1-4.1.5- 4.2.1-4.2.2-8.1.1- 8.2.1-8.3.1-8.5.1- 8.5.2-8.6.1-17 | Innovációs operatív csoportok létrehozása és az innovatív projekt megvalósításához szükséges beruházás támogatása | 26,71 | 0,00 | 11,87 | 11,71 | 0,40 | 2,74 | 0,00 | standard | Meghirdetve: 2017. március |
 
@@ -94,7 +98,7 @@
 
 | 41. | VP4-11.1.1-11.2.1-15 | Ökológiai gazdálkodásra történő áttérés, ökológiai gazdálkodás fenntartása | 49,57 | 0,00 | 0,00 | 0,00 | 49,57 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2015. október |
 
-| 41a. | VP4-11.1.1-11.2.1-18 | Ökológiai gazdálkodásra történő áttérés, ökológiai gazdálkodás fenntartása | 36,68 | – | – | – | 36,68 | – | – | egyszerűsített | 2018. október |
+| 41a. | VP4-11.1.1-11.2.1-18 | Ökológiai gazdálkodásra történő áttérés, ökológiai gazdálkodás fenntartása | 36,68 | – | – | – | 36,68 | – | – | egyszerűsített | Meghirdetve: 2018. október |
 
 | 42. | VP4-12.1.1-16 | Natura 2000 mezőgazdasági területeknek nyújtott kompenzációs kifizetések | 26,66 | 0,00 | 0,00 | 0,00 | 26,66 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2016. február |
 
@@ -114,7 +118,7 @@
 
 | 50. | VP5-4.1.3.4-16 | Kertészet korszerűsítése – gombaházak-hűtőházak létrehozására, meglévő gombaházak-hűtőházak korszerűsítése | 22,45 | 0,00 | 18,89 | 0,00 | 0,00 | 3,56 | 0,00 | standard | Meghirdetve: 2016. február |
 
-| 50a. | VP5-4.1.6- 4.2.3-17 | Mezőgazdasági- és feldolgozó üzemek energia- hatékonyságának javítása | 17,54 | – | – | – | – | 17,54 | – | standard | 2017. december |
+| 50a. | VP5-4.1.6- 4.2.3-17 | Mezőgazdasági- és feldolgozó üzemek energia- hatékonyságának javítása | 17,54 | – | – | – | – | 17,54 | – | standard | Meghirdetve: 2018. január |
 
 | 51. | VP5-8.1.1-16 | Erdősítés támogatása | 39,83 | 0,00 | 0,00 | 0,00 | 0,00 | 37,90 | 1,93 | egyszerűsített | Meghirdetve: 2016. május |
 
@@ -160,13 +164,13 @@
 
 | 72. | VP-20-1-16 | A Vidékfejlesztési Program megvalósítását szolgáló Technikai Segítségnyújtás Projekt | 4,31 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. június |
 
-| 73. | VP-20-2-16 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | 9,95 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. június |
+| 73. | VP-20-2-16 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | 19,35 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. június |
 
 | 74. | VP-20-3-16 | Az EMVA kifizető ügynökségi és közbenső szervezeti tevékenységhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | 3,70 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2016. szeptember |
 
 | 75. | VP-20-4-17 | A megyei kormányhivatalok közbenső szervezeti tevékenységéhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | 3,60 | – | – | – | – | – | – | kiemelt | Meghirdetve: 2017. október |
 
-| 76. | VP-20-5-19 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | 9,40 | – | – | – | – | – | – | kiemelt | 2019. október |
+| 76. |  |  |  |  |  |  |  |  |  |  |  |
 
 2. melléklet az 1248/2016. (V. 18.) Korm. határozathoz[^4]
 
@@ -178,12 +182,12 @@ A Vidékfejlesztési Program nevesített kiemelt projektjei
 
 | 2. | VP-20-1-16 | A Vidékfejlesztési Program megvalósítását szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 4,31 | 2016 | A projekt célja a Vidékfejlesztési Program tevékenységei előkészítésének, monitoringjának és ellenőrzésének támogatása, amely tevékenységek segítik a folyamatos információszerzést a program végrehajtásának állapotáról, előrehaladásáról, valamint a szükséges módosítások előkészítéséről annak érdekében, hogy a program a lehető leghatékonyabb módon érje el a kitűzött céljait. A projekt célja továbbá, hogy az Európai Bizottság által elvárt monitoring és értékelési jelentési kötelezettség teljesüljön. |
 
-| 3. | VP-20-2-16 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 9,95 | 2016 | A projekt célja, hogy a Magyar Nemzeti Vidéki Hálózat működésén keresztül az érintettek Vidékfejlesztési Program végrehajtásában való részvételét fokozza és javítsa a vidékfejlesztési programok minőségét. Cél továbbá a vidék társadalmi-gazdasági fejlesztése, felzárkóztatása, a támogatási források hatékony felhasználása, a gyakorlat-orientált térségközi és nemzetközi kapcsolatok kiépítése, a magyar nemzeti érdekek és értékek európai képviselete. A projekt további célja az Európai Vidékfejlesztési Hálózatban együttműködő 27 tagország megismertetése a magyar fejlesztési eredményekkel, valamint a külföldi eredmények hazai vidékfejlesztő közösségekkel történő megismertetése. |
+| 3. | VP-20-2-16 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 19,35 | 2016 | A projekt célja, hogy a Magyar Nemzeti Vidéki Hálózat működésén keresztül az érintettek Vidékfejlesztési Program végrehajtásában való részvételét fokozza és javítsa a vidékfejlesztési programok minőségét. Cél továbbá a vidék társadalmi-gazdasági fejlesztése, felzárkóztatása, a támogatási források hatékony felhasználása, a gyakorlat-orientált térségközi és nemzetközi kapcsolatok kiépítése, a magyar nemzeti érdekek és értékek európai képviselete. A projekt további célja az Európai Vidékfejlesztési Hálózatban együttműködő 27 tagország megismertetése a magyar fejlesztési eredményekkel, valamint a külföldi eredmények hazai vidékfejlesztő közösségekkel történő megismertetése. |
 
 | 4. | VP-20-3-16 | Az EMVA kifizető ügynökségi és közbenső szervezeti tevékenységhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | Magyar Államkincstár | 3,70 | 2016 | A projekt célja a Magyar Államkincstár Vidékfejlesztési Program tevékenységeihez kapcsolódó kifizető ügynökségi intézmény- és ellenőrzési rendszer fejlesztése és működtetése, amely hozzájárul az ellenőrzés során folytatott kifizető ügynökségi tevékenységek folyamatos, magas szintű végrehajtásához. A projekt további célja az egyes fenti feladatok végrehajtásának biztosításához szükséges működési kiadások, speciális informatikai és egyéb eszköz beszerzések, fejlesztések támogatása. |
 
 | 5. | VP-20-4-17 | A megyei kormányhivatalok közbenső szervezeti tevékenységéhez kapcsolódó feladatok ellátását szolgáló Technikai Segítségnyújtás Projekt | A fővárosi és megyei kormányhivatalok | 3,60 | 2017 | A projekt célja a fővárosi és megyei kormányhivataloknak a Vidékfejlesztési Program Irányító Hatósága feladatkörébe tartozó, a Magyar Államkincstárra átruházott feladatok ellátásába történő bevonása, amely hozzájárul a közbenső szervezeti feladatok hatékony és eredményes végrehajtásához. A projekt további célja e feladatok végrehajtásának biztosításához szükséges működési kiadások, valamint egyedi eszközbeszerzések támogatása egy átalányalapú egységköltség módszertan alkalmazásával. |
 
-| 6. | VP-20-5-19 | A Magyar Nemzeti Vidéki Hálózat működését szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 9,40 | 2019 | A projekt célja, hogy a Magyar Nemzeti Vidéki Hálózat működésén keresztül az érintettek Vidékfejlesztési Program végrehajtásában való részvételét fokozza. Cél továbbá a vidék társadalmi-gazdasági fejlesztése, felzárkóztatása, a támogatási források hatékony felhasználása, a gyakorlatorientált térségközi és nemzetközi kapcsolatok kiépítése, a magyar nemzeti érdekek és értékek európai képviselete. A projekt további célja az Európai Vidékfejlesztési Hálózatban együttműködő 27 tagország megismertetése a magyar fejlesztési eredményekkel, valamint a külföldi eredmények hazai vidékfejlesztő közösségekkel történő megismertetése. |
+| 6. |  |  |  |  |  |  |
 
-[^4]: A 2. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont b) pontja, az 1210/2017. (IV. 10.) Korm. határozat 3. pont b) alpontja, az 1891/2017. (XI. 30.) Korm. határozat 1. pont b) alpontja és 2. pont 2.2. alpontja, az 1437/2018. (IX. 11.) Korm. határozat 1. pont b) alpontja, az 1598/2019. (X. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^4]: A 2. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont b) pontja, az 1210/2017. (IV. 10.) Korm. határozat 3. pont b) alpontja, az 1891/2017. (XI. 30.) Korm. határozat 1. pont b) alpontja és 2. pont 2.2. alpontja, az 1437/2018. (IX. 11.) Korm. határozat 1. pont b) alpontja, az 1598/2019. (X. 16.) Korm. határozat 1. pont b) alpontja, az 1130/2020. (III. 25.) Korm. határozat 2. pontja és 3. pont b) alpontja szerint módosított szöveg.
