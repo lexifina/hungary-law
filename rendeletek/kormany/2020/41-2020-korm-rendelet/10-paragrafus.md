@@ -1,7 +1,5 @@
 ## 9. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-## 10. § Felhatalmazást kap
+10. §[^4]
 
-a) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter az állami tulajdonú, létfontosságú infrastruktúra részét képező gazdasági társaságok tekintetében működőképességet garantáló különleges szabályok megalkotására,
-
-b) a feladat- és hatáskörrel rendelkező miniszter a feladat- és hatáskörébe tartozó nemzetközi mobilitási programok felfüggesztésére.
+[^4]: A 10. § az Alaptörvény 53. cikk (3) bekezdése alapján hatályát vesztette 2020. március 27. napjával.
