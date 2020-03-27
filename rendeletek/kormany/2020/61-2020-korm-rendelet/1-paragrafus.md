@@ -104,8 +104,22 @@ h) konferencia, kereskedelmi bemutató szervezése (TEÁOR és TESZOR 82.30),
 
 i) napilapkiadás (TEÁOR és TESZOR 58.13),
 
-j) folyóirat, időszaki kiadvány kiadása (TEÁOR és TESZOR 58.14) és
+j)[^2] folyóirat, időszaki kiadvány kiadása (TEÁOR és TESZOR 58.14),
 
-k) műsorösszeállítás, műsorszolgáltatás (TEÁOR és TESZOR 60).
+k) műsorösszeállítás, műsorszolgáltatás (TEÁOR és TESZOR 60),
+
+l)[^3] utazásközvetítés, utazásszervezés, egyéb foglalás (TEÁOR és TESZOR 79),
+
+m)[^4] fizikai közérzetet javító szolgáltatás (TEÁOR és TESZOR 96.04) és
+
+n)[^5] belvízi személyszállítás (TEÁOR és TESZOR 50.30).
 
 (11) Tényleges főtevékenységnek e rendelet alkalmazásában azt a tevékenységet kell érteni, amelyből az adózónak e rendelet hatálybalépését megelőző hat hónapban a legtöbb bevétele, de legalább bevételének 30%-a származott.
+
+(12)[^6] A (10) bekezdés m) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző megfelel a közfürdők létesítésének és üzemeltetésének közegészségügyi feltételeiről szóló 37/1996. (X. 18.) NM rendelet szabályainak.
+
+[^2]: Az 1. § (10) bekezdés j) pontja a 68/2020. (III. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: Az 1. § (10) bekezdés l) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (10) bekezdés m) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (10) bekezdés n) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be.
+[^6]: Az 1. § (12) bekezdését a 68/2020. (III. 26.) Korm. rendelet 2. §-a iktatta be.

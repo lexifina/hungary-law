@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-61-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-03-24 | 2020-61-20-22.1 | 61/2020. (III. 23.) Korm. rendelet |
+| 2020-03-27 | 2020-61-20-22.2 | 68/2020. (III. 26.) Korm. rendelet |
