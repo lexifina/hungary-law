@@ -1,0 +1,5 @@
+2. § (1) A veszélyhelyzet időtartama alatt a képzés – a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 14. § (1) bekezdése, valamint 14/A. §-a szerinti képzéseket kivéve – kizárólag távolléti oktatásban, távoktatás formájában, digitális képzésként szervezhető meg abban az esetben is, ha azt jogszabály, támogatási szerződés, felnőttképzési szerződés, támogatói okirat vagy képzési program egyébként nem teszi lehetővé.
+
+(2) A képzésben részt vevő személynek a veszélyhelyzet kihirdetése és e rendelet hatálybalépése közötti kontaktóráról való hiányzása igazoltnak minősül, továbbá személyes jelenlétként kell figyelembe venni a képzésben részt vevő személy e rendelet alapján távoktatásban történő részvételét.
+
+(3) A részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló, a veszélyhelyzet hatálybalépését megelőzően megkezdett és e rendelet alapján távoktatás formájában megtartott képzés elszámolására a kontaktórás képzés elszámolási szabályait kell alkalmazni.
