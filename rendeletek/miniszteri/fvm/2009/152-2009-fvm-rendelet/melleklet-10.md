@@ -172,6 +172,6 @@
 
 ## 5.3. Oldhatóság: desztillált vízben csaknem teljesen oldódik, a kalcium-kazeinát kivételével.
 
-10. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^66]
+10. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^70]
 
-[^66]: A 10. melléklet a 28/2015. (V. 28.) FM rendelet 3. §-a szerint módosított szöveg.
+[^70]: A 10. melléklet a 28/2015. (V. 28.) FM rendelet 3. §-a szerint módosított szöveg.

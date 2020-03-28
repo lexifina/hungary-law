@@ -1,3 +1,3 @@
-8. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^64]
+8. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^68]
 
-[^64]: A 8. mellékletet a 151/2012. (XII. 29.) VM rendelet 66. § c) pontja hatályon kívül helyezte.
+[^68]: A 8. mellékletet a 151/2012. (XII. 29.) VM rendelet 66. § c) pontja hatályon kívül helyezte.

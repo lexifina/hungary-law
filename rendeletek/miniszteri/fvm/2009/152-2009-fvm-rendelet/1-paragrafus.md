@@ -66,7 +66,9 @@ b) a tejtermékekről szóló 13. melléklet,
 
 c)[^19] a sütőipari termékekről szóló 39. melléklet,
 
-d)[^20] a hagyományőrző cukrászati termékekről szóló 40. melléklet.
+d)[^20] a hagyományőrző cukrászati termékekről szóló 40. melléklet,
+
+e)[^21] a füstölt fűszerpaprika-őrleményről szóló 41. melléklet.
 
 [^1]: Az 1. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 46. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 65/2010. (V. 12.) FVM rendelet 1. §-ával megállapított szöveg.
@@ -88,3 +90,4 @@ d)[^20] a hagyományőrző cukrászati termékekről szóló 40. melléklet.
 [^18]: Az 1. § (3) bekezdés a) pontja a 48/2016. (VII. 18.) FM rendelet 1. §-ával megállapított szöveg.
 [^19]: Az 1. § (3) bekezdés c) pontját a 85/2016. (XII. 19.) FM rendelet 1. §-a iktatta be.
 [^20]: Az 1. § (3) bekezdés d) pontját a 16/2017. (III. 29.) FM rendelet 1. §-a iktatta be.
+[^21]: Az 1. § (3) bekezdés e) pontját a 8/2020. (III. 25.) AM rendelet 1. §-a iktatta be.

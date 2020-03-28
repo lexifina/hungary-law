@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^87]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^91]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -244,12 +244,4 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 6. A vizsgálat módja
 
-6.1. Körülbelül 30 g kovaföldet (4.1.) helyezzünk az üvegbottal (5.5.) ellátott bemérőedénybe (5.4.). Az egészet 70 ±1 °C-os szárítószekrénybe (5.1.) tesszük, és a nyomást 3,3 kPa (34 mbar) vagy annál kisebb értékig csökkentjük. Legalább 5 óráig szárítjuk, mialatt a szárítóoszlopon keresztül lassú levegőáramlást biztosítunk a szárítószekrényben. A nyomást időnként ellenőrizzük és korrigáljuk, ha szükséges.
-
-6.2. Óvatosan növeljük a száraz levegő mennyiségét a külső légnyomás értékéig. Ekkor a bemérőedényt – az üvegbottal együtt – az exszikkátorba (5.6.) helyezzük. Lehűlés után megmérjük.
-
-6.3. Gondosan bemérünk – 1 mg pontossággal – kb. 10 g vizsgálandó mintát egy 100 cm3-es főzőpohárba.
-
-6.4. 10 cm3 meleg vízzel hígítjuk a mintát, és átmossuk az egész mennyiséget az üvegbot segítségével a bemérőedénybe.
-
-[^87]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^91]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
