@@ -80,6 +80,6 @@
 
 ## 18. Dátum, cégszerű aláírás, bélyegző
 
-2. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^86]
+2. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^89]
 
-[^86]: A 2. melléklet a 209/2012. (VII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^89]: A 2. melléklet a 209/2012. (VII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.

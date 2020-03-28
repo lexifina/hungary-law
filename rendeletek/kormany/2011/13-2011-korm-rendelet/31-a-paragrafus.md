@@ -1,0 +1,1 @@
+## 31. § Az e rendelet hatálybalépésekor folyamatban levő ügyekben a kettős felhasználású termékek és technológiák külkereskedelmi forgalmának engedélyezéséről szóló 50/2004. (III. 23.) Korm. rendelet rendelkezéseit kell alkalmazni.

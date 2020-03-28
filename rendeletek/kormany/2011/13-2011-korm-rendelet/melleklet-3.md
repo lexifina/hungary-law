@@ -8,6 +8,6 @@
 
 ## aláírás
 
-3. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^87]
+3. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^90]
 
-[^87]: A 3. melléklet a 209/2012. (VII. 27.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^90]: A 3. melléklet a 209/2012. (VII. 27.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

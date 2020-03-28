@@ -84,6 +84,6 @@
 
 ## 8. A címzett, a végfelhasználó aláírása, dátum
 
-5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^89]
+5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^92]
 
-[^89]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^92]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.
