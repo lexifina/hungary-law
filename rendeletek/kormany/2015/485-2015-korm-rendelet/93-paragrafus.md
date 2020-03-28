@@ -1,3 +1,3 @@
-## X. Fejezet[^157]
+## X. Fejezet[^158]
 
-[^157]: A X. fejezetet (93. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^158]: A X. fejezetet (93. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 40. §[^73] Az AEO feltételek vizsgálatát, az AEO engedély kiadását, az AEO státus nyomon követését, újraértékelését
+## 40. §[^74] Az AEO feltételek vizsgálatát, az AEO engedély kiadását, az AEO státus nyomon követését, újraértékelését
 
 a) ha a kérelmező székhelye vagy lakóhelye Budapest, illetve Pest megye közigazgatási területén található, és a kérelmező nem kiemelt adózó, az Észak-budapesti Adó- és Vámigazgatóság;
 
@@ -16,4 +16,4 @@ g) ha a kérelmező székhelye vagy lakóhelye Baranya megye, Somogy megye, Toln
 
 végzi.
 
-[^73]: A 40. § nyitó szövegrésze a 88/2016. (IV. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^74]: A 40. § nyitó szövegrésze a 88/2016. (IV. 29.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -14,6 +14,6 @@ szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság jár el.
 
 (3) Ha az (1) bekezdés b) és c) pontja alapján az eljáró szerv nem állapítható meg, az egyéni vállalkozó, egyéni cég, jogi személy, illetve egyéb szervezet számviteli nyilvántartásának (könyvvezetés) helye szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság jár el. Ha a számviteli nyilvántartás (könyvvezetés) helye nem állapítható meg vagy az nem Magyarországon van, akkor – az eljárás lefolytatására illetékes szervet meghatározó jogszabályi rendelkezés hiányában – az Észak-budapesti Adó- és Vámigazgatóság jár el.
 
-(4)[^32] Ha az eljárás meghatározott cselekmény végrehajtására irányul, az eljárást a cselekmény elvégzésének helye szerinti megyei igazgatóság folytatja le.
+(4)[^33] Ha az eljárás meghatározott cselekmény végrehajtására irányul, az eljárást a cselekmény elvégzésének helye szerinti megyei igazgatóság folytatja le.
 
-[^32]: A 16. § (4) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 4. §-a iktatta be.
+[^33]: A 16. § (4) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 4. §-a iktatta be.

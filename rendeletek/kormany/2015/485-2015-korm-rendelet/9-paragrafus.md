@@ -10,6 +10,11 @@ b) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügy
 
 ba) pénzügyi és vagyoni és
 
-bb) pénzeszközök átutalására vonatkozó
+bb) pénzeszközök átutalására vonatkozó,
+
+## korlátozó intézkedés foganatosításáért felelős szerv,
+
+c)[^19] az Európai Unió és az ENSZ Biztonsági Tanácsa által elfogadott nemzetközi szankcióban elrendelt kiviteli korlátozás alá eső termékekhez kapcsolódó finanszírozási, pénzügyi támogatási
 
 [^18]: A 9. § a 214/2017. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 9. § c) pontját a 65/2020. (III. 25.) Korm. rendelet 3. §-a iktatta be.
