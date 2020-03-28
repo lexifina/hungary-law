@@ -1,4 +1,4 @@
-2. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^73]
+2. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^74]
 
 A bérkompenzáció fajlagos összegei
 
@@ -138,4 +138,4 @@ A bérkompenzáció fajlagos összegei
 
 | 67. | családok átmeneti otthonában biztosított átmeneti ellátás (beleértve a külső férőhelyen biztosított ellátást is) | 143 000 Ft/ellátotti létszám |
 
-[^73]: A 2. mellékletet a 140/2019. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+[^74]: A 2. mellékletet a 140/2019. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
