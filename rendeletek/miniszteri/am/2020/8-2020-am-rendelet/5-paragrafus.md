@@ -1,1 +1,3 @@
-## 4. § Az R. az 1. melléklet szerinti 41. melléklettel egészül ki.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
