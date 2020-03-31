@@ -1,0 +1,1 @@
+## 72. § Ha az indítvány tárgya zár alá vétel elrendelése vagy a zár alá vétel miatti felülbírálati indítvány elbírálása, és a csatolt ügyiratok mennyisége jelentős, a bíróság az indítványról soron kívül, de legkésőbb az indítvány bíróságra érkezésétől számított három hónapon belül dönt.

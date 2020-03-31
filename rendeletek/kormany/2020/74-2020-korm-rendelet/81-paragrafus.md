@@ -1,0 +1,1 @@
+## 80. § A megkeresett bíróság a megkeresést három hónapon belül teljesíti. Ha a megkeresett bíróság a megkeresést három hónapon belül nem teljesítette, a teljesítés akadályát a megkereső bírósággal közli.
