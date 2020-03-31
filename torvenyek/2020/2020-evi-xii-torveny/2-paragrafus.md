@@ -1,0 +1,3 @@
+2. § (1) A Kormány a veszélyhelyzetben – a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényben meghatározott rendkívüli intézkedéseken és szabályokon túl – az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
+
+(2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a Rendelet szerinti humánjárvány megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja.

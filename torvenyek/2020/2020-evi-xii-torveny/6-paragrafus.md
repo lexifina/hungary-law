@@ -1,0 +1,5 @@
+6. § (1) A helyi önkormányzat vagy a nemzetiségi önkormányzat képviselő-testülete feloszlásának kimondása esetén e döntés hatálya a veszélyhelyzet megszűnését követő napon áll be.
+
+(2) A veszélyhelyzet megszűnését követő napig időközi választás nem tűzhető ki, a már kitűzött választások elmaradnak. A kiadott ajánlóíveket a törvény hatálybalépését követő tizenöt napon belül le kell adni a választási irodában, amely azokat megsemmisíti. A ki nem tűzött és az elmaradt választást a veszélyhelyzet megszűnését követő tizenöt napon belül ki kell tűzni.
+
+(3) A veszélyhelyzet megszűnését követő napig országos és helyi népszavazás nem kezdeményezhető, a már kitűzött országos és helyi népszavazások elmaradnak. A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény II–IV. Fejezetében meghatározott valamennyi határidő megszakad. A határidők a veszélyhelyzet megszűnését követő napon újra kezdődnek. A ki nem tűzött és az elmaradt országos és helyi népszavazást a veszélyhelyzet megszűnését követő tizenöt napon belül ki kell tűzni.

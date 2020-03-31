@@ -1,0 +1,1 @@
+4. § A Kormány a veszélyhelyzet elhárítása érdekében az intézkedések hatályának fenntartásáig megtett intézkedésekről rendszeresen, az Országgyűlés ülésén – annak hiányában az Országgyűlés elnöke és az országgyűlési képviselőcsoportok vezetői részére – ad tájékoztatást.
