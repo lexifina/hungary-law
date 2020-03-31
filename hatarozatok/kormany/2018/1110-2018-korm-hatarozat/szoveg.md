@@ -1,14 +1,6 @@
-1. A Kormány egyetért azzal, hogy a Budapest II. kerület belterület 13204/6, 13204/10, 13204/11, 13204/12, 13204/14, 13204/15, 13204/18, 13204/19 és 13211 helyrajzi szám alatt nyilvántartott, természetben a Budapest II. kerület, Lövőház utca – Fény utca – Kis Rókus utca – Marczibányi tér és Margit körút, valamint a Budapest II. kerület belterület 13200/1 helyrajzi szám alatt nyilvántartott ingatlan által határolt ingatlanok (a továbbiakban együtt: Millenáris) hosszú távú, területileg, műszakilag és arculati szempontból egyaránt egységes, fenntartható és gazdaságos működtetése érdekében
+1.[^1] A Kormány egyetért azzal, hogy az ingatlan-nyilvántartás szerinti Budapest II. kerület, belterület 13204/6, 13204/10, 13204/11, 13204/12, 13204/14, 13204/15, 13204/18 és 13204/19, valamint a 13211 helyrajzi szám alatt nyilvántartott, természetben a Budapest II. kerület, Lövőház utca – Fény utca – Kis Rókus utca – Marczibányi tér és Margit körút, valamint az ingatlan-nyilvántartás szerinti Budapest II. kerület, belterület 13200/1 helyrajzi szám alatti ingatlan által határolt ingatlanok területén meglévő, valamint megvalósuló építmények hosszú távú, területileg, műszakilag és arculati szempontból egyaránt egységes, továbbá fenntartható és gazdaságos üzemeltetetéséhez és fenntartásához szükséges intézkedések megtételéről a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Nkft.) gondoskodjon.
 
-a) a Millenáris területén meglévő, valamint megvalósuló építmények létesítménykezelési és üzemeltetési feladatainak megszervezéséről, koordinálásáról a Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Kft. gondoskodik;
-
-b) a Millenáris területén meglévő, valamint megvalósuló, vendéglátásra alkalmas ingatlanrészek vendéglátási célból történő hasznosításának megszervezéséről, koordinálásáról a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság gondoskodik.
-
-2. A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság, valamint a Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Kft. felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójaként az 1. pontban foglaltak végrehajtása érdekében tegye meg a szükséges intézkedéseket.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: folyamatos
+2.[^2] A Kormány a többségi állami tulajdonú gazdasági társaságok átlátható, hatékony és gazdaságos működésének kialakítása érdekében egyetért azzal, hogy a Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság a Budapest II. kerület, Margit körút 85–87. szám alatti ingatlan lebontásával összefüggő feladatokról szóló 1136/2013. (III. 19.) Korm. határozatban foglalt feladatainak teljesítését követően, a beruházáshoz kapcsolódó támogatások teljes körű elszámolása mellett a Millenáris Nkft.-be történő beolvadással, legkésőbb 2020. szeptember 30. napjával megszűnjön.
 
 3. A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy a Budapest II. kerület, Margit körút 85–87. szám alatti ingatlan lebontásával összefüggő feladatokról szóló 1136/2013. (III. 19.) Korm. határozat szerinti beruházás befejezéséhez szükséges további 1 300 000 000 forintot tőkeemelés formájában biztosítsa a Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Kft. részére.
 
@@ -21,3 +13,13 @@ Határidő: a 4. pont szerinti forrásbiztosítást követően azonnal
 Felelős: nemzetgazdasági miniszter
 
 Határidő: a 2018. évben a felmerülés ütemében
+
+5.[^3] A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy a Millenáris Nkft., valamint a Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójaként az 1. és a 2. pontban foglaltak végrehajtása érdekében a szükséges intézkedéseket és jóváhagyásokat tegye meg.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: folyamatos
+
+[^1]: Az 1. pont az 1135/2020. (III.31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont az 1135/2020. (III.31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pontot az 1135/2020. (III.31.) Korm. határozat 2. pontja iktatta be.
