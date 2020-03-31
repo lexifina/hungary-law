@@ -44,4 +44,6 @@ b) előkészíti a médiaszolgáltatási jogosultságok pályázati eljárását
 
 c) piaci elemző, értékelő, illetve más vizsgálati tevékenységet folytat a műsorfigyelő és -elemző szolgálat által,
 
-d) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
+d) az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás biztosításával kapcsolatban térítésmentes szolgáltatást nyújt a fogyasztók részére,
+
+e) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.

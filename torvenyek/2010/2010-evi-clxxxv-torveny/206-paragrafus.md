@@ -20,6 +20,12 @@ rendeletben megállapítsa.
 
 (3b)
 
+(3c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+a) az adatok végleges hozzáférhetetlenné tételét biztosító alkalmazás igénybevételével összefüggő eljárási szabályokat,
+
+b) az általános adatvédelmi rendelet alapján fennálló adattörlési kötelezettséget biztosító szoftver fejlesztését követően a minősített tanúsítvány kiadására kijelölt jogi személyt, továbbá a minősítés feltételeit.
+
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 
 (5) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy a 171. § szerinti szakhatósági eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének módjára, valamint a díj kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
