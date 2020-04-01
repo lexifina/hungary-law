@@ -1,1 +1,3 @@
-122. §
+122. § A Bjt. 101. §-a helyébe a következő rendelkezés lép:
+
+„101. § A bírák fegyelmi és az ezzel összefüggő kártérítési és személyiségi jogsértés miatti ügyeiben, a bírói álláspályázati eljárás során benyújtott kifogások elbírálása iránti eljárásban, továbbá a bíró munkájának szakmai értékelésével és vezetői munkájának értékelésével szemben előterjesztett jogorvoslati eljárásokban, az alkalmatlansági eljárásban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.”

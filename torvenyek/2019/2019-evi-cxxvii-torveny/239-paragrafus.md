@@ -4,10 +4,10 @@ a)
 
 b)
 
-c)
+c) 32. § c) pontjában az „a Kúriánál” szövegrész,
 
 d)
 
-e)
+e) 101. §-a,
 
-f)
+f) 120. § (3) bekezdése.

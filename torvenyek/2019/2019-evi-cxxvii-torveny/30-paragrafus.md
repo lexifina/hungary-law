@@ -4,6 +4,6 @@
 
 a)
 
-b)
+b) 55. § a) pontjában a „jogerős” szövegrész helyébe a „véglegessé vált” szöveg
 
 lép.

@@ -1,1 +1,3 @@
-185. §
+185. § A Pp. 346. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A jogi indokolás tartalmazza az ítélet alapjául szolgáló jogszabályokat és szükség esetén azok értelmezését, a megállapított tényekre vonatkozó bizonyítékokat azokkal a körülményekkel együtt, amelyeket a bíróság a bizonyítékok mérlegelésénél irányadónak vett, a tények megállapításának egyéb körülményeit, továbbá azokat az okokat, amelyek miatt a bíróság valamely tényállítást nem talált bizonyítottnak, vagy amelyek miatt a felajánlott bizonyítást mellőzte. A jogi indokolás tartalmazza azokat az okokat is, amelyek miatt a bíróság jogkérdésben eltért a Kúriának a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban: a Kúria közzétett határozata), vagy az arra irányuló indítványt elutasította.”

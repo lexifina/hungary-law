@@ -1,1 +1,3 @@
-87. §
+87. § A Bszi. 168. §-a helyébe a következő rendelkezés lép:
+
+„168. § A bírósági épület rendjének biztosítása a bíróság elnökének feladata. A bíróság elnöke – a járásbíróság esetében a törvényszék elnöke – e körben megállapítja a bírósági épület használatának rendjét, meghatározza a közönség és az ügyfélforgalom számára nyitva álló épületrészeket, valamint megalkotja az ezekről szóló szabályzatot, amelyet az érintett bíróság – járásbíróság esetén a törvényszék – honlapján közzé kell tenni. A szabályzatot a bíróság elnöke az OBH elnöke által meghatározott követelményeknek megfelelően készíti el.”
