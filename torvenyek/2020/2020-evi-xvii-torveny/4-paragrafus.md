@@ -1,0 +1,1 @@
+4. § Az Emtv. 39. § (2) és (3) bekezdésében, valamint 41. § (2) bekezdésében a „munkáltatói” szövegrész helyébe a „munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói –” szöveg lép.
