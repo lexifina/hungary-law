@@ -14,7 +14,7 @@
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
 
-a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, az elsődleges tűzoltási és tűzbiztonsági feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
+a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, az elsődleges tűzoltási és tűzbiztonsági feladatokat, a járőr- és őrszolgálati feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
 
 b) az országgyűlési őr képesítési követelményeit,
 

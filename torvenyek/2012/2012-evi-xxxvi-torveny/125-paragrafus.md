@@ -6,6 +6,8 @@
 
 125. § (1) Az Országgyűlési Őrség feladata az Országgyűlés védelme, függetlenségének és külső befolyástól mentes működésének biztosítása, tárgyalási rendjének fenntartásával összefüggő, az e törvényben meghatározott személyvédelmi, létesítménybiztosítási feladatok biztosítása, protokolláris díszelgési, valamint az elsődleges tűzoltási és tűzbiztonsági feladatok ellátása.
 
+(1a) Az Országgyűlési Őrség közreműködik a kiemelt nemzeti emlékhely méltóságának megőrzésében és a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartásában.
+
 (2) Az Országgyűlési Őrség
 
 a) ellátja a házelnök személyvédelmét,
@@ -18,8 +20,12 @@ d) az Országházban, az Országgyűlés Irodaházában, továbbá az Országgy�
 
 e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meghatározott feladatokat,
 
-f) protokolláris díszelgési feladatokat lát el, és
+f) a kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében járőr- és őrszolgálatot lát el,
 
-g) elvégzi a részére törvényben, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
+g) protokolláris díszelgési feladatokat lát el, és
+
+h) elvégzi a részére törvényben, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott feladatokat az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel látja el, a feladatok végrehajtásába azonban – együttműködési megállapodás vagy felkérés alapján – más szerveket is bevonhat.
+
+(4) A (2) bekezdés f) pontjában meghatározott feladatokat az Országgyűlési Őrség a közterület rendjének fenntartásában feladat- és hatáskörrel rendelkező szervek tevékenységét támogatva hajtja végre.
