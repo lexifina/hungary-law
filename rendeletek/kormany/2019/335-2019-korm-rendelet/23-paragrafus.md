@@ -1,11 +1,10 @@
 ## 23. § Hatályát veszti
 
-a)[^4]
+a)[^1]
 
-b)[^5]
+b) a világörökség védelmével összefüggésben a magyar államot megillető elővásárlási jog gyakorlásának szabályairól szóló 455/2017. (XII. 27.) Korm. rendelet,
 
-c)[^6]
+c)[^2]
 
-[^4]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 23. § b) pontja a 21. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^6]: A 23. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 23. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
