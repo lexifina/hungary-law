@@ -10,4 +10,4 @@ a) a lakóhelyéről nem idézhető, vagy
 
 b) ismeretlen helyre távozott.
 
-(5) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(5) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.

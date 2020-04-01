@@ -30,6 +30,6 @@ d) úti okmányának, valamint személyazonosító igazolványának elvesztésé
 
 (6) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt.
 
-(7) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(7) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
-(8) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(8) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben fellebbezésnek és perújításnak nincs helye.

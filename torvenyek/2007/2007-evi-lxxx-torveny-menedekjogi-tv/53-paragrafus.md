@@ -6,6 +6,6 @@
 
 (4) A bíróság a keresetlevél bírósághoz érkezésétől számított nyolc napon belül dönt.
 
-(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg. A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 (6) A közigazgatási perben – az 51. § (2) bekezdés e) és (7) bekezdés h) pontja alapján hozott menekültügyi döntések kivételével – a keresetlevél benyújtásának nincs halasztó hatálya a döntés végrehajtására.

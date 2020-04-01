@@ -14,4 +14,4 @@ c) az ismételt kérelem a korábbival azonos ténybeli alapon nyugszik.
 
 (5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg.
 
-(6) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(6) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.

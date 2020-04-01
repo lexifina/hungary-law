@@ -4,4 +4,4 @@
 
 (3) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt.
 
-(4) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(4) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
