@@ -872,6 +872,86 @@
 
 ## Ugyanakkor, ha az MNB-nél vezetett saját számlán olyan összeg van, amely nem a befektetési szolgáltatási tevékenységhez kapcsolódik, akkor azt nem kell a 7. oszlopban szerepeltetni.
 
+## 1.22. 33LEZ OTC származékos piac – A nap során lezárt pozíciók adatai és 33NYIPO OTC származékos piac – Nyitott pozíciók adatai a nap végén
+
+## A táblák kitöltése
+
+## A táblákban csak a szabályozott piacon kívüli (OTC) kereskedés adatai szerepelnek. A táblák tartalmazzák az OTC-n lebonyolított összes olyan műveletet, amelyeket az adatszolgáltató a Bszt. 5. §-a szerinti befektetési szolgáltatási tevékenység és az azt kiegészítő szolgáltatás keretében végez, tekintet nélkül a tőkeáttétel mértékére, és függetlenül attól, hogy ügyfél ügyletről vagy saját számlára végrehajtott ügyletről van-e szó. A tőkeáttétel mértékétől való függetlenség azt is magában foglalja, hogy azokat a műveleteket is jelenteni kell, amelyeknél a pozíció nyitásához minimálisan szükséges fedezetigény nulla, vagyis a tőkeáttétel mértéke (a pozíció főösszegének és a pozíció nyitásához minimálisan szükséges fedezetigény hányadosa) végtelen. Az összes ügyfélmegbízást figyelembe kell venni, függetlenül attól, hogy azokat az adatszolgáltató közvetlenül a piacon hajtotta végre, vagy pedig a saját számlával szemben. A saját számlára végrehajtott ügyfélmegbízások eredményeképpen az ügyfelek számláján nyilvántartott nyitott tőkeáttételes pozíciók adatait is jelenteni szükséges, ezen pozíciók adatait az ügyfelek irányából kell jelenteni. Nem kell jelenteni a szolgáltató azon saját számlás pozíciót, amelyek nem ügyfélmegbízások végrehajtásához kapcsolódnak.
+
+## A letétigényre vonatkozó adatoknál az adott pozíció megnyitásához, illetve nyitva tartásához minimálisan szükséges fedezetigény összegét kell szerepeltetni.
+
+## A veszteségre vonatkozó adatokat is pozitív számmal kell jelenteni (tekintettel arra, hogy külön oszlopban szerepelnek a nyereség-, illetve a veszteségadatok).
+
+## Ha egy nyitott ügyletnek csak egy részét zárják le, akkor a 33LEZ kódú táblában az eredeti ügyletnek csak azt a részét kell szerepeltetni, amelyet lezártak (a kötéskori elvi főösszeg megfelelő részét kell jelenteni). A 33NYIPO kódú táblában pedig az eredeti ügyletnek azt a részét kell jelenteni, amely továbbra is nyitott (a kötéskori elvi főösszeg megfelelő részét, illetve a nap végi elvi főösszeget).
+
+## A 33LEZ és a 33NYIPO kódú táblában az ügyleteket nem lehet összevonni.
+
+## Az árfolyamok alkalmazása: a kötéskori elvi főösszeg megadásakor a kötés napján érvényes árfolyamot kell használni. A lezárt pozíció eredményét a pozíció zárásakor érvényes árfolyamon kell átszámítani, a pozíció nyitása utáni befizetéseket a befizetés napján érvényes árfolyamon, míg a nap végi adatokat (a 33NYIPO kódú tábla 14-18. oszlopának adatait) a tárgynapi árfolyamon.
+
+## 33LEZ OTC származékos piac – A nap során lezárt pozíciók adatai
+
+## Az adatokat ügyfelenként, és azon belül pozíciónként kell jelenteni. Az opciós ügyletek esetében csak a lehívott opciókra vonatkozó adatokat kell szerepeltetni, a lejárt opciókra vonatkozókat nem. A tábla tartalmazza a day trade ügyleteket is.
+
+## A tábla oszlopai
+
+## 1. oszlop: Számlavezető megnevezése: annak az intézménynek a neve, amelynél a szolgáltató saját, illetve az ügyfelek tulajdonában lévő pénzügyi eszközeit, pénzeszközeit elhelyezték, és az adott pozíciót nyilvántartják.
+
+## 2. oszlop: Ügyfél kódja: az adatszolgáltató által az ügyfél azonosítására használt kód. Saját számlára végrehajtott ügylet esetén a saját BIC kódot kell megadni. A saját számlával szemben végrehajtott ügyfélmegbízás esetén is az ügyfél kódját kell szerepeltetni, tehát ugyanúgy kell jelenteni, mint általában az ügyfélmegbízások végrehajtása esetén.
+
+## 3. oszlop: Ügyfél minősítése: a Bszt. 47-51. §-ában előírtak szerint.
+
+## A lehetséges értékek: „L” = lakossági ügyfél, „SZ” = szakmai ügyfél, „E” = elfogadható partner. Saját számlás pozíció esetén nem kell kitölteni. A saját számlával szemben végrehajtott ügyfélmegbízás esetén is az ügyfélre vonatkozó információt kell megadni.
+
+## 4. oszlop: Ügyfél kockázati profilja: a Bszt. 44. és 45. §-a alapján – az előzetes tájékozódási kötelezettség keretén belül – kitöltött megfelelési, illetve alkalmassági teszt eredményeként az ügyfél kockázati profilját jelző fokozat. Az intézmény egyedi értékelési rendszerében használt kategóriának megfelelő fokozatot kell megadni. A lehetséges értékek: „1”, „2”, „3” stb., illetve a „kockázati kategóriába nem besorolt” kategória esetén „0”. Saját számlás pozíció esetén nem kell kitölteni.
+
+## 5. oszlop: A mögöttes termék típusa
+
+## A lehetséges értékek: „F” = két nem major deviza, „Fm1” = két major deviza, „Fm2” = egy major deviza, „E” = részvény, „B” = állampapír, „J” = kamatláb vagy hozam, „I” = (nem major) index, „Im” = major index, „K” = kötvény, „C”= kriptodeviza, „A” = áru, „Ag” = arany, „X” = Egyéb. Azoknál a kamatcserés ügyleteknél is „J”-t kell szerepeltetni, ahol a kamatcsere mellett devizacserére is sor kerül. Az Fm1, Fm2, Im és Ag megjelölések az ESMA-nak a különbözeten alapuló ügyletekkel és a bináris opciókkal kapcsolatos termékintervenciós határozatairól szóló értesítése
+
+## (https://www.esma.europa.eu/sites/default/files/library/esma35-43-1135_notice_of_pi_decisions_on_cfds_and_binary_options_hu.pdf ) I. mellékletének következő pontjaiban szereplő termékeknek felelnek meg: Fm1 = (a), Fm2 = (b) (ii), Im = (b) (i), Ag = (b) (iii).
+
+## 6. oszlop: A mögöttes termék megnevezése: az OTC ügylet tárgyát képező pénzügyi eszköz alaptermékének neve.
+
+## 7. oszlop: A mögöttes termék ISIN kódja: az ESMA FIRDS regiszterben szereplő azonosító. Ha a mögöttes terméknek nincs azonosítója az ESMA FIRDS regiszterben, akkor 0-t (nullát) kell jelenteni.
+
+## 8. oszlop: Ügylet megnevezése: kizárólag a következő megnevezések használhatók: bináris opció, call (nem bináris) opció, put (nem bináris) opció, határidős (forward) ügylet, csereügylet (swap), különbözetre vonatkozó pénzügyi megállapodás (CFD), rolling spot.
+
+## 9. oszlop: A pozíció jellege (H/R): a lehetséges értékek: „H” = hosszú, „R” = rövid.
+
+## 10. oszlop: A pozíció nyitásának napja: a dátumot „éééé.hh.nn” formátumban kell megadni.
+
+## 11. oszlop: A pozíció zárásának napja: a dátumot „éééé.hh.nn” formátumban kell megadni.
+
+## 13. oszlop: Tőkeáttétel mértéke a pozíció nyitásakor: a tőkeáttétel mértékét egész számra kerekítve kell megadni. Ha az ügylet kötése limitre történik, nem pedig biztosítékra, akkor 1-et kell szerepeltetni.
+
+## 14. és 15. oszlop: Az ügyfél szempontjából a lezárt pozíció bruttó nyeresége, illetve vesztesége: a pozíció lezárásának napján érvényes aktuális árfolyamon kell a nyereség/veszteség adatokat megadni.
+
+## 16. oszlop: Letétigény összege a pozíció nyitásakor: az ügyfél által a pozíció nyitásához minimálisan elhelyezni szükséges letét összege. Ha az ügylet kötése limitre történik, nem pedig biztosítékra, akkor nullát („0”) kell szerepeltetni. Portfólió szintű fedezettség esetén a fedezetigényt a pozíciók elvi főösszege arányában kell allokálni.
+
+## 17. oszlop: A pozíció nyitása utáni befizetések: a pozíció nyitva tartásához történt befizetések összege. A portfóliókezelés keretében kötött ügyletek esetében nem kell jelenteni.
+
+## 18. oszlop: Portfóliókezelt: a lehetséges értékek: portfóliókezelés keretében kötött ügylet esetén „I”, egyéb esetben „N”.
+
+## 33NYIPO OTC származékos piac – Nyitott pozíciók adatai a nap végén
+
+## A tábla adatait ügyfelenként, és azon belül pozíciónként kell megadni. A pozíciók egymással szemben nem nettósíthatók.
+
+## A tábla oszlopai
+
+## 1-8. oszlop: kitöltésük a 33LEZ kódú tábla 1-8. oszlopánál leírtak szerint történik.
+
+## 9. oszlop: A pozíció nyitásának napja: a dátumot „éééé.hh.nn” formátumban kell megadni.
+
+## 11. oszlop: A pozíció jellege (H/R): a lehetséges értékek: „H” = hosszú, „R” = rövid.
+
+## 12. Letétigény összege a pozíció nyitásakor: kitöltése a 33LEZ kódú tábla 16. oszlopánál leírtak szerint történik.
+
+## 13. és 18. oszlop: a tőkeáttétel mértékét egész számra kerekítve kell megadni. Ha az ügylet kötése limitre történik, nem pedig biztosítékra, akkor 1-et kell szerepeltetni.
+
+## 15. oszlop: Letétigény összege a nap végén: kizárólag az adott pozíció fedezetigényének megfelelő fedezetet kell szerepeltetni. Ha az ügylet kötése limitre történik, nem pedig biztosítékra, akkor nullát („0”) kell jelenteni. Portfólió szintű fedezettség esetén a fedezetigényt a pozíciók elvi főösszege arányában kell allokálni.
+
+## 19. oszlop: Portfóliókezelt: a lehetséges értékek: portfóliókezelés keretében kötött ügylet esetén „I”, egyéb esetben „N”.
+
 ## 1.23. 34A Értékpapír kölcsönzés
 
 ## A tábla kitöltése
