@@ -16,6 +16,6 @@ e) a döntéshozatal helyét, idejét, a kiadmányozó nevét, hivatali beosztá
 
 f) az állampolgársági bizonyítvány érvényességi idejét.
 
-(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
+(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozattal szemben indított közigazgatási perre a Fővárosi Törvényszék illetékes.
 
 (5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.

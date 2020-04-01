@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-55-00-00
 | 2020-01-01 | 2019. évi CV. törvény | 1993-55-00-00.29 |
 | 2020-02-01 | 2019. évi XCVII. törvény | 1993-55-00-00.30 |
 | 2020-03-01 | 2019. évi CX. törvény | 1993-55-00-00.31 |
+| 2020-04-01 | 2019. évi CXXVII. törvény | 1993-55-00-00.32 |
