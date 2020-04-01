@@ -4,7 +4,7 @@
 
 (3) Ha a helyi választási iroda vezetője a fellebbezésnek helyt ad, a névjegyzéket módosítja.
 
-(4) Ha a helyi választási iroda vezetője a fellebbezésnek nem ad helyt, a fellebbezést legkésőbb az elbírálására rendelkezésre álló határidő utolsó napján felterjeszti a járásbírósághoz.
+(4) Ha a helyi választási iroda vezetője a fellebbezésnek nem ad helyt, a fellebbezést legkésőbb az elbírálására rendelkezésre álló határidő utolsó napján felterjeszti a törvényszékhez.
 
 (5) A bíróság a fellebbezésről legkésőbb a beérkezését követő tizenötödik napon, a választás kitűzését követően meghozott döntés esetén a beérkezését követő három napon belül, de legkésőbb a szavazást megelőző napon dönt. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el.
 
