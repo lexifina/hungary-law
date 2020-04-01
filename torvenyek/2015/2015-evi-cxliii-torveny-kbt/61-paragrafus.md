@@ -6,7 +6,7 @@
 
 (3) Nem érinti valamely változat megfelelőségét az a tény, hogy elfogadása esetén a közbeszerzés tárgya árubeszerzés helyett szolgáltatás megrendelésének vagy szolgáltatás megrendelése helyett árubeszerzésnek minősülne.
 
-(4) Az ajánlatkérő köteles megvizsgálni, hogy a beszerzés tárgyának jellege és a szerződéshez kapcsolódó további körülmények lehetővé teszik-e a közbeszerzés egy részére történő ajánlattételt. Ha az ajánlatkérő nem biztosítja a részekre történő ajánlattételt, az eljárást megindító felhívásban köteles megadni ennek indokát.
+(4) Az ajánlatkérő köteles megvizsgálni, hogy a beszerzés tárgyának jellege és a szerződéshez kapcsolódó további körülmények lehetővé teszik-e a közbeszerzés egy részére történő ajánlattételt. Ha az ajánlatkérő nem biztosítja a részekre történő ajánlattételt, a közbeszerzési dokumentumokban köteles megadni ennek indokát.
 
 (5) A részekre történő ajánlattétel esetén az eljárást megindító felhívásban elő kell írni, hogy a közbeszerzés tárgyának mely elemeire lehet részajánlatot tenni, illetve részvételre jelentkezni. Az ajánlatkérő részekre történő ajánlattétel lehetőségének biztosítása esetén a közbeszerzés becsült értékét, tárgyát és mennyiségét részenként is meghatározza.
 

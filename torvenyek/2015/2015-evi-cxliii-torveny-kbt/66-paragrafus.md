@@ -14,7 +14,7 @@
 
 (5) Az ajánlatnak és a részvételi jelentkezésnek felolvasólapot kell tartalmaznia, amely feltünteti ajánlat esetében a 68. § (4) bekezdése, részvételi jelentkezés esetében a 68. § (5) bekezdése szerinti információkat.
 
-(6) Az ajánlatkérő a közbeszerzési eljárást megindító felhívásban előírhatja, hogy az ajánlatban, több szakaszból álló eljárásban a részvételi jelentkezésben meg kell jelölni
+(6) Az ajánlatkérő a közbeszerzési dokumentumokban előírhatja, hogy az ajánlatban, több szakaszból álló eljárásban a részvételi jelentkezésben meg kell jelölni
 
 a) a közbeszerzésnek azt a részét (részeit), amelynek teljesítéséhez az ajánlattevő (részvételre jelentkező) alvállalkozót kíván igénybe venni,
 
