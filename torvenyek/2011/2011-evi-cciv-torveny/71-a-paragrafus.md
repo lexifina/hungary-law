@@ -10,4 +10,4 @@
 
 (6) Az (5) bekezdés szerinti bírósági eljárás a határidő eredménytelen elteltétől, illetve a felhívás közlésétől számított harminc napos jogvesztő határidőn belül indítható meg.
 
-(7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Törvényszék kizárólagosan illetékes.

@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2020-01-01 | 2018. évi CXVII. törvény | 2011-204-00-00.58 |
 | 2020-02-01 | 2018. évi XC. törvény | 2011-204-00-00.59 |
 | 2020-02-15 | 2019. évi CXI. törvény | 2011-204-00-00.60 |
+| 2020-04-01 | 2019. évi CXXVII. törvény | 2011-204-00-00.61 |

@@ -1,6 +1,6 @@
 ## 44. A fenntartói irányítás keretei
 
-75. § (1) A fenntartói irányítás nem sértheti a felsőoktatási intézmény – a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében biztosított – önállóságát. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedést – a felsőoktatási intézmény e törvényben biztosított önállóságának védelme érdekében – a közléstől számított harminc napon belül közigazgatási perben támadhatja meg. A határidő jogvesztő. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+75. § (1) A fenntartói irányítás nem sértheti a felsőoktatási intézmény – a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében biztosított – önállóságát. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedést – a felsőoktatási intézmény e törvényben biztosított önállóságának védelme érdekében – a közléstől számított harminc napon belül közigazgatási perben támadhatja meg. A határidő jogvesztő. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (2) Állami felsőoktatási intézmény esetén a fenntartó
 
