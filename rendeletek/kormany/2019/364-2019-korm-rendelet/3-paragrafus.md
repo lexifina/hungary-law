@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 12. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
+## „o) szabályozási pótdíj: a KÁT termelőnek a menetrendjétől való, a KÁT mérlegkörrel megegyező irányú eltérése esetén a KÁT termelő vagy összevont menetrend esetén a Menetrend-csoport Képviselő által a Befogadó számára fizetendő díj;”

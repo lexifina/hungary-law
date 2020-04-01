@@ -2,21 +2,19 @@
 
 ## 11. § Hatályát veszti a 389/2007. (XII. 23.) Korm. rendelet
 
-1.[^19]
+1. 2. § (1) bekezdés t) pontja,
 
-2.[^20]
+2. 3. § (1a) bekezdés d) pontjában az „és szabályozási bónuszt” szövegrész, valamint az „és a Befogadó által a Menetrend-csoport Képviselő részére megfizetett szabályozási bónusz” szövegrész,
 
-3.[^21]
+3.[^13]
 
-4.[^22]
+4.[^14]
 
-5.[^23]
+5.[^15]
 
-6.[^24]
+6.[^16]
 
-[^19]: A 11. § 1. pontja a 12. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^20]: A 11. § 2. pontja a 12. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^21]: A 11. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 11. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 11. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 11. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 11. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

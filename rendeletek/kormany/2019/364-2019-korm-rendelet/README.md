@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-364-20-
 | --- | --- | --- |
 | 2020-01-01 | 2019-364-20-22.1 | 364/2019. (XII. 30.) Korm. rendelet |
 | 2020-01-02 | 2019-364-20-22.2 | 2010: CXXX. törvény |
+| 2020-04-01 | 2019-364-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

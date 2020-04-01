@@ -1,23 +1,21 @@
 ## 10. § A 389/2007. (XII. 23.) Korm. rendelet
 
-1.[^12]
+1. 3. § (1a) bekezdés d) pontjában a „7. § (4) és (7a) bekezdése” szövegrész helyébe a „7. § (4)–(5) bekezdése” szöveg,
 
-2.[^13]
+2. 3. § (1a) bekezdés d) pontjában a „7. § (4)–(7e) bekezdése” szövegrész helyébe a „7. § (6) és (7) bekezdése” szöveg,
 
-3.[^14]
+3.[^8]
 
-4.[^15]
+4.[^9]
 
-5.[^16]
+5.[^10]
 
-6.[^17]
+6.[^11]
 
-7.[^18]
+7.[^12]
 
-[^12]: A 10. § 1. pontja a 12. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^13]: A 10. § 2. pontja a 12. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^14]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 10. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 10. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 10. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
