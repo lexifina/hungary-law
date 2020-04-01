@@ -24,15 +24,16 @@ d) a kormányhivatallal történő előzetes egyeztetés szerint a speciális k�
 
 e) a speciális közfoglalkoztatási program megvalósításához szükséges anyagköltséghez, amelynek mértéke nem haladhatja meg a speciális közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz nyújtott támogatás 20 százalékát.
 
-(5) Amennyiben a közfoglalkoztató a Pftv. 8/A. § (1) bekezdése alapján a szociális hozzájárulási adóból kedvezményt vett igénybe, a (4) bekezdés a) pontja szerinti támogatás alapja a közfoglalkoztatási bérnek és az ahhoz kapcsolódó szociális hozzájárulási adónak a Pftv. 8/A. § (1) bekezdése alapján kapott szociális hozzájárulási adó kedvezménnyel csökkentett összege.
+(5)[^26] Ha a közfoglalkoztató a szociális hozzájárulási adóból kedvezményt vett igénybe, a (4) bekezdés a) pontja szerinti támogatás alapja a közfoglalkoztatási bérnek és az ahhoz kapcsolódó szociális hozzájárulási adónak az igénybe vett szociális hozzájárulási adó kedvezménnyel csökkentett összege.
 
 (6) A speciális közfoglalkoztatási program időtartama alatt a közfoglalkoztatási pont a közfoglalkoztatott részére az állami foglalkoztatási szerv, vagy az állami foglalkoztatási szerv nevében az általa nyilvántartásba vett munkaerő-piaci szolgáltatást nyújtó szervezet által nyújtott a munkaerő-piaci szolgáltatásokról, valamint az azokhoz kapcsolódóan nyújtható támogatásokról szóló 30/2000. (IX. 15.) GM rendelet 4. § a)–e) pontjában, valamint a 9/A. §-ában meghatározott munkaerő-piaci szolgáltatások, a szociális szolgáltatások nyújtására jogosult szervezet által nyújtott a szociális igazgatásról és szociális ellátásról szóló 1993. évi III. törvény 64. §-ában, 65/A. §-ában és 65/F. §-ában meghatározott szociális szolgáltatások, valamint az egészségügyi szolgáltatók által nyújtott a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 13. §-ában meghatározott szakellátás keretében pszichiátriai és szakpszichológusi, valamint addiktológiai ellátások igénybevételét biztosítja.
 
 (7) A támogatási időszak a speciális közfoglalkoztatási program tekintetében 5 hónap.
 
-(8)[^26] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
+(8)[^27] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
 
 [^23]: Az 5. §-t és az azt megelőző alcímet a 360/2019. (XII. 30.) Korm. rendelet 84. § (6) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^24]: Az 5/A. §-t és az azt megelőző alcímet a 125/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
 [^25]: A 5/A. § (4) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 84. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^26]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: Az 5/A. § (5) bekezdése a 76/2020. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
