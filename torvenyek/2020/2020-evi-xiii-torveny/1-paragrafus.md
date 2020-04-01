@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamaik, másrészről Izrael Állam közötti társulás létrehozásáról szóló euromediterrán megállapodáshoz, a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
