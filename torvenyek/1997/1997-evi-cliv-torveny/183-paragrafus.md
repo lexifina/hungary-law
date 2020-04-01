@@ -1,1 +1,1 @@
-183. § Az embriókkal vagy ivarsejtekkel végezhető kutatások, vizsgálatok és beavatkozások engedélyezésével kapcsolatos közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság a döntést nem változtathatja meg.
+183. § Az embriókkal vagy ivarsejtekkel végezhető kutatások, vizsgálatok és beavatkozások engedélyezésével kapcsolatos közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a döntést nem változtathatja meg.

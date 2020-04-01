@@ -6,4 +6,4 @@
 
 (4) A közigazgatási ügyben eljáró bíróság a kutatásengedélyezési ügyben hozott döntést nem változtathatja meg.
 
-(5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
