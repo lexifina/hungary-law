@@ -18,4 +18,6 @@ g) állapítsa meg a biztonsági összekötő személy képesítési követelmé
 
 h) állapítsa meg az üzemeltetői biztonsági terv lehetséges ágazati tartalmi és formai követelményeit,
 
-i) állapítsa meg a hálózatbiztonsági intézkedések megtételével kapcsolatos szabályokat.
+i) állapítsa meg a hálózatbiztonsági intézkedések megtételével kapcsolatos szabályokat,
+
+j) határozza meg a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét.

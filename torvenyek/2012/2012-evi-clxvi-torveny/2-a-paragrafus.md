@@ -12,6 +12,8 @@ c) az általa nyújtott szolgáltatást érintő biztonsági esemény jelentős 
 
 (3) Az ágazati kijelölő hatóság a nemzeti létfontosságú rendszerelemmé kijelölő határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
 
+(3a) A Kormány meghatározza a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét.
+
 (4) A nyilvántartó hatóság vezeti az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
 
 (5) A nyilvántartó hatóság törli az alapvető szolgáltatásokat nyújtó szereplők jegyzékéből az üzemeltetőt, ha az ágazati kijelölő hatóság dönt a nemzeti létfontosságú rendszerelemmé kijelölés visszavonásáról.

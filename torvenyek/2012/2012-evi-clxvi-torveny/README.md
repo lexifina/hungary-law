@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-166-00-00
 | 2018-05-10 | 2017. évi CXXXIV. törvény | 2012-166-00-00.9 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 2012-166-00-00.10 |
 | 2020-01-01 | 2019. évi CV. törvény | 2012-166-00-00.11 |
+| 2020-04-01 | 2019. évi CXVI. törvény | 2012-166-00-00.12 |
