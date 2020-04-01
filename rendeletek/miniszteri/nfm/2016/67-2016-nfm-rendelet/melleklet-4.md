@@ -1,3 +1,3 @@
-4. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^29]
+4. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^30]
 
-[^29]: A 4. melléklet a 48/2019. (XII. 23.) ITM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^30]: A 4. melléklet a 9/2020. (III. 31.) ITM rendelet 2. § (3) bekezdésével megállapított szöveg.

@@ -6,9 +6,9 @@
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/kWh |
 
-6. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^30]
+6. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^31]
 
-A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által fizetendő kapcsolt termelésszerkezet átalakítási hozzájárulás és kiegyenlítő hozzájárulás mértéke 2019. évben
+A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által fizetendő kapcsolt termelésszerkezet átalakítási hozzájárulás és kiegyenlítő hozzájárulás mértéke 2020. évben
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
@@ -18,4 +18,4 @@ A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által f
 
 | 3. | kiegyenlítő hozzájárulás (forint/kWh) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-[^30]: A 6. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (4) bekezdésével megállapított, a 36/2018. (XII. 21.) ITM rendelet 5. § c) pontja szerint módosított szöveg.
+[^31]: A 6. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (4) bekezdésével megállapított, a 36/2018. (XII. 21.) ITM rendelet 5. § c) pontja, a 9/2020. (III. 31.) ITM rendelet 3. §-a szerint módosított szöveg.
