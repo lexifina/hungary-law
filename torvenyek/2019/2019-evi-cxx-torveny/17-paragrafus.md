@@ -14,11 +14,11 @@
 
 7.
 
-8.
+8. 61. § (4) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
 
 9.
 
-10.
+10. 66. § (6) bekezdésében az „eljárást megindító felhívásban” szövegrész helyébe a „dokumentumokban”,
 
 11.
 
@@ -26,15 +26,15 @@
 
 13.
 
-14.
+14. 71. § (6) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
 
-15.
+15. 75. § (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
 
-16.
+16. 77. § (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
 
-17.
+17. 81. § (4) és (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
 
-18.
+18. 104. § (6) bekezdésében az „eljárást megindító felhívásban” szövegrész helyébe a „dokumentumokban”,
 
 19.
 
