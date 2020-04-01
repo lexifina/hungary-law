@@ -2,7 +2,7 @@
 
 ## 8. § A Klebelsberg Központ a köznevelési közfeladat-ellátásban részt vevő, tankerületi központ fenntartásában lévő köznevelési intézmények tekintetében
 
-a) ellátja az Nkt. 83. § (2b) bekezdésében meghatározott fenntartói feladatokat,
+a)[^12] ellátja az Nkt. 83. § (2b) bekezdésében meghatározott feladatokat,
 
 b) az oktatásért felelős miniszter számára a tankerületi központ kezdeményezése alapján javaslatot tesz a tankerületi központ fenntartásában lévő köznevelési intézmény
 
@@ -12,7 +12,7 @@ bb) vezetőjének kinevezésére, megbízására és megbízásának visszavoná
 
 c) országos szinten közreműködik a területi köznevelési feladatellátás megszervezése irányainak meghatározásában,
 
-d)[^10] koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és projekttevékenységének összehangolásáról,
+d)[^13] koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik a tankerületi központok pályázati és projekttevékenységének összehangolásáról,
 
 e) ellátja a tankerületi központ és a fenntartásában lévő köznevelési intézmények vonatkozásában az informatikai rendszerek fejlesztéséhez kapcsolódó feladatokat,
 
@@ -28,4 +28,5 @@ j) európai uniós forrásból finanszírozott fejlesztést valósít meg a tank
 
 k) jóváhagyja a tankerületi központok által elkészített fejlesztési terveket.
 
-[^10]: A 8. § d) pontja a 308/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 8. § a) pontja az 56/2020. (III. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^13]: A 8. § d) pontja a 308/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

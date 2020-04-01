@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-134-20-
 | 2019-05-07 | 2016-134-20-22.14 | 102/2019. (V. 6.) Korm. rendelet |
 | 2019-11-29 | 2016-134-20-22.15 | 189/2018. (X. 12.) Korm. rendelet |
 | 2020-01-01 | 2016-134-20-22.16 | 275/2019. (XI. 21.) Korm. rendelet |
+| 2020-04-01 | 2016-134-20-22.17 | 56/2020. (III. 20.) Korm. rendelet |

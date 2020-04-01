@@ -1,19 +1,31 @@
-10. § (1) A tankerületi központot a tankerületi igazgató (a továbbiakban: igazgató) vezeti.
+10. §[^18] (1)[^19] A tankerületi központot a tankerületi igazgató vezeti.
 
-(2) Igazgatónak az nevezhető ki, aki
+(2)[^20] Tankerületi igazgatónak az nevezhető ki, aki
 
 a) felsőfokú végzettséggel és szakképzettséggel,
 
 b) legalább ötéves vezetői gyakorlattal, és
 
-c)[^11] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
+c)[^21] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
 rendelkezik.
 
-(3) Az igazgatót és a tankerületi központ gazdasági vezetőjét a Klebelsberg Központ elnöke javaslatára az oktatásért felelős miniszter nevezi ki, menti fel, bízza meg, illetve vonja vissza megbízását. Az igazgatóval és a tankerületi központ gazdasági vezetőjével kapcsolatos egyéb munkáltatói jogokat a Klebelsberg Központ elnöke gyakorolja.
+(3)[^22] A tankerületi igazgató és a tankerületi központ gazdasági vezetője felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a Klebelsberg Központ elnöke gyakorolja. A tankerületi igazgatót és a tankerületi központ gazdasági vezetőjét a Klebelsberg Központ elnökének javaslatára az oktatásért felelős miniszter nevezi ki, illetve menti fel.
 
-(4) Az igazgató – az Nkt. 61. § (6) és (8) bekezdésében, valamint 68. §-ában meghatározott egyes munkáltatói jogok kivételével – gyakorolja a tankerületi központban foglalkoztatottak felett a munkáltatói jogokat. A munkáltatói jogok gyakorlását az igazgató vezetői munkakört betöltő kormánytisztviselőre vagy vezetői megbízással rendelkező közalkalmazottra átruházhatja.
+(4)[^23] A tankerületi központ szakmai vezetőjét a tankerületi igazgató nevezi ki és menti fel, valamint gyakorolja felette az egyéb munkáltatói jogokat.
 
-(5) A tankerületi központ költségvetése terhére a köznevelési közfeladat-ellátásban részt vevő, tankerületi központ fenntartásában lévő köznevelési intézmény a tankerületi központ 5. § (2) bekezdés 9. pontja szerinti belső szabályzatában meghatározott összeg erejéig és kiadási jogcímen átruházott hatáskörben kötelezettséget vállalhat és kiadás teljesítését kezdeményezheti.
+(5)[^24] A tankerületi igazgató – az Nkt. 61. § (6) és (8) bekezdésében, valamint 68. §-ában meghatározott egyes munkáltatói jogok kivételével – gyakorolja a tankerületi központban foglalkoztatottak felett a munkáltatói jogokat. A Kit. 81. § (3) bekezdésében foglaltak kivételével a munkáltatói jogok gyakorlását a tankerületi igazgató helyettesére, vagy
 
-[^11]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
+a) kormányzati szolgálati jogviszonyban álló foglalkoztatottakkal kapcsolatosan a főosztályvezetőre, osztályvezetőre,
+
+b) közalkalmazotti jogviszonyban álló foglalkoztatottakkal kapcsolatosan vezetői megbízással rendelkező közalkalmazottra
+
+átruházhatja.
+
+[^18]: [Az 56/2020. (III. 20.) Korm. rendelet 2. §-ával elrendelt módosítás, amely szerint a 10. § (6) bekezdése helyébe új rendelkezés lép, nem vezethető át.]
+[^19]: A 10. § (1) bekezdése az 56/2020. (III. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^20]: A 10. § (2) bekezdés nyitó szövegrésze az 56/2020. (III. 20.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^21]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^22]: A 10. § (3) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 10. § (4) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^24]: A 10. § (5) bekezdése az 56/2020. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
