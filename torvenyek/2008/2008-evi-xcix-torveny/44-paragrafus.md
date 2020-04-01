@@ -124,4 +124,6 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 
 56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
 
-57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.
+57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő,
+
+58. alapvető munkáltatói jogok: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 19. § b) pontja szerinti kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, és a fegyelmi büntetés kiszabása.

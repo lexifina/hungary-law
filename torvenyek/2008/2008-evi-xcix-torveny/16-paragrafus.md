@@ -17,3 +17,5 @@
 a) meghatározza – ideértve a vezetői kinevezés módját is – a színház közös működtetésének és működésének részletes szabályait;
 
 b) rögzíti a központi költségvetésből juttatandó támogatás és az önkormányzati támogatás mértékét.
+
+(9) Ha a közös működtetésre irányuló megállapodás keretében az önkormányzati fenntartású színház éves működésének pénzügyi feltételeit teljes egészében a központi költségvetés biztosítja, a színház vezető állású munkavállalója felett az alapvető munkáltatói jogokat a miniszter gyakorolja.
