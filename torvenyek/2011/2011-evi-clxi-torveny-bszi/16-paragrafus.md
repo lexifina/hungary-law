@@ -4,7 +4,7 @@
 
 ## 2. Közös szabályok
 
-16. § Magyarországon az igazságszolgáltatást a következő bíróságok gyakorolják:
+16. § (1) Magyarországon az igazságszolgáltatást a következő bíróságok gyakorolják:
 
 a) a Kúria,
 
@@ -12,6 +12,6 @@ b) az ítélőtábla,
 
 c) a törvényszék,
 
-d) a járásbíróság és a kerületi bíróság (a továbbiakban együtt: járásbíróság) és
+d) a járásbíróság és a kerületi bíróság (a továbbiakban együtt: járásbíróság).
 
-e) a közigazgatási és munkaügyi bíróság.
+(2) A bíróságok – a járásbíróság kivételével – gazdasági szervezettel rendelkeznek.

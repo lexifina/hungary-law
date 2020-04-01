@@ -6,11 +6,11 @@ b) az ítélőtábla, továbbá a törvényszék elnöke, elnökhelyettese és k
 
 c) a Kúria, az ítélőtábla, továbbá a törvényszék kollégiumvezetője, kollégiumvezető-helyettese, tanácselnöke, valamint a törvényszék csoportvezetője, csoportvezető-helyettese esetében a megfelelő szintű és ügyszakú kollégium,
 
-d) a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője és kollégiumvezető-helyettese esetén a közigazgatási és munkaügyi regionális kollégium,
+d)
 
-e) a közigazgatási és munkaügyi bíróság elnöke és elnökhelyettese esetében az érintett bíróságon működő bírói kar,
+e)
 
-f) a közigazgatási és munkaügyi bíróság csoportvezetője, csoportvezető-helyettese esetében a megfelelő csoport,
+f)
 
 g) a járásbíróság elnöke, elnökhelyettese esetében a járásbíróságon működő bírói kar,
 

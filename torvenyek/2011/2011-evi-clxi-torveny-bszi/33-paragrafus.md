@@ -1,8 +1,8 @@
 33. § (1) Jogegységi eljárást kell lefolytatni, ha azt
 
-a) a Kúria elnöke vagy kollégiumvezetője, illetve helyetteseik, valamint az ítélőtábla elnöke,
+a) a Kúria elnöke, vagy kollégiumvezetője, illetve helyetteseik, valamint az ítélőtábla elnöke,
 
-b) a 32. § (1) bekezdés b) pontjában említett esetben a Kúria tanácselnöke vagy
+b) a 32. § (1) bekezdés b) pontjában említett esetben a Kúria tanácsa vagy
 
 c) a legfőbb ügyész
 

@@ -1,9 +1,13 @@
-26. § (1) Ha az ítélőtábla, a törvényszék, a közigazgatási és munkaügyi bíróság vagy a járásbíróság tanácsa, illetve egyesbírája valamely elvi kérdésben határozott és a határozata jogerőre emelkedett vagy véglegessé vált, köteles az elvi jelentőségű határozatot a bíróság elnökének bemutatni.
+26. § (1) Az ítélőtábla és a törvényszék kollégiumvezetője, továbbá a járásbíróság elnöke köteles a vezetése alatt álló bíróságok ítélkezését folyamatosan figyelemmel kísérni.
 
-(2) Az ítélőtábla és a törvényszék elnöke, valamint kollégiumvezetője, a közigazgatási és munkaügyi bíróság, továbbá a járásbíróság elnöke köteles a vezetése alatt álló bíróságok – illetve a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője a regionális kollégiumhoz tartozó bíróságok – ítélkezését folyamatosan figyelemmel kísérni.
+(2) Az (1) bekezdés szerinti feladat ellátása keretében az elvi kérdésben hozott, jogerőre emelkedett vagy véglegessé vált határozatokat
 
-(3) Ha a bíróság elnöke, az ítélőtábla vagy a törvényszék kollégiumvezetője, illetve a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője az (1) bekezdés szerinti határozatból, a bíróság által elintézett ügyekből, a bíróságokon lefolytatott vizsgálat alkalmával vagy más módon arról szerzett tudomást, hogy a vezetése vagy a felügyelete alatt álló, illetve a közigazgatási és munkaügyi regionális kollégiumhoz tartozó bíróságon elvi jelentőségű döntés született, elvi kérdésben ellentétes gyakorlat alakult ki vagy ellentétes elvi alapokon nyugvó jogerős vagy véglegessé vált határozatokat hoztak, erről köteles a magasabb szintű bíróság elnökét – a határozatok és a szükséghez képest az egyéb iratok felterjesztésével – tájékoztatni.
+a) a járásbíróság elnöke, a törvényszék megfelelő ügyszakú kollégiuma kollégiumvezetőjének,
 
-(4) A közigazgatási és munkaügyi ügyekben a (3) bekezdés szerinti kötelezettségének teljesítése során a törvényszék elnöke, kollégiumvezetője, valamint a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője a Kúria elnökét tájékoztatja.
+b) a törvényszék kollégiumvezetője az ítélőtábla megfelelő ügyszakú kollégiuma kollégiumvezetőjének,
 
-(5) A (3) és (4) bekezdés szerinti tájékoztatás előtt a törvényszék és az ítélőtábla elnöke, valamint kollégiumvezetője, továbbá a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője kikérheti az elvi kérdés tárgya szerint érintett kollégium, illetve közigazgatási és munkaügyi regionális kollégium bíráinak véleményét.
+c) az ítélőtábla kollégiumvezetője a Kúria megfelelő ügyszakú kollégiuma kollégiumvezetőjének
+
+bemutatja.
+
+(3) A (2) bekezdés szerinti eljárása előtt a törvényszék és az ítélőtábla kollégiumvezetője kikérheti az elvi kérdés tárgya szerint érintett kollégium bíráinak véleményét.

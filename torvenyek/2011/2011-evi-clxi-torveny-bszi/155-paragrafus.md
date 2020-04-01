@@ -1,6 +1,6 @@
 155. § A kollégium
 
-a) véleményt nyilvánít – a járásbírósági, valamint a közigazgatási és munkaügyi bírósági állásra benyújtott pályázat kivételével – a bírói álláspályázatokról,
+a) véleményt nyilvánít – a járásbírósági állásra benyújtott pályázat kivételével – a bírói álláspályázatokról,
 
 b) részt vesz a bíró szakmai tevékenységének értékelésében,
 

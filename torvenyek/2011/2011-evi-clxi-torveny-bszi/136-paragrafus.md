@@ -2,12 +2,12 @@
 
 (2) A kinevezésre jogosult a tanácselnök vezetői tevékenységét szükség szerint, de legalább hatévente egyszer megvizsgálja.
 
-(3) A véleményező szerv – továbbá a járásbíróság, valamint a közigazgatási és munkaügyi bíróság elnöke, elnökhelyettese, csoportvezetője, csoportvezető-helyettese esetében a bírói tanács – javaslatára a vizsgálatot le kell folytatni.
+(3) A véleményező szerv – továbbá a járásbíróság elnöke, elnökhelyettese, csoportvezetője, csoportvezető-helyettese esetében a bírói tanács – javaslatára a vizsgálatot le kell folytatni.
 
 (4) Ha
 
 a) az OBH elnöke azt állapítja meg, hogy a határozatát vagy a szabályzataiban foglaltakat a bírósági vezető nem hajtja végre, az OBH elnöke,
 
-b) az összbírói értekezlet, illetve a véleményező szerv – továbbá a járásbíróság, valamint a közigazgatási és munkaügyi bíróság elnöke, elnökhelyettese, csoportvezetője, csoportvezető-helyettese esetében a bírói tanács – a bírósági vezető felmentését kezdeményezi, a kinevezésre jogosult
+b) az összbírói értekezlet, illetve a véleményező szerv – továbbá a járásbíróság elnöke, elnökhelyettese, csoportvezetője, csoportvezető-helyettese esetében a bírói tanács – a bírósági vezető felmentését kezdeményezi, a kinevezésre jogosult
 
 elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.

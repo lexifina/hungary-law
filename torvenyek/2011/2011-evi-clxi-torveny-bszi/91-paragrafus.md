@@ -1,4 +1,4 @@
-91. § (1) Az OBT tagjait megválasztani jogosult küldöttértekezlet a küldöttek közül az OBT bíró tagjává 1 ítélőtáblai, 5 törvényszéki, 7 járásbírósági és 1 közigazgatási és munkaügyi bírósági bírót választ.
+91. § (1) Az OBT tagjait megválasztani jogosult küldöttértekezlet a küldöttek közül az OBT bíró tagjává 1 ítélőtáblai, 6 törvényszéki és 7 járásbírósági bírót választ.
 
 (2) A küldöttértekezlet az OBT bíró tagjainak megválasztásával egyidejűleg a küldöttek közül 14 bírót – a szavazatoknak megfelelő, a szavazategyenlőséget kizáró sorrend meghatározásával – póttaggá választ az (1) bekezdésben foglaltaknak megfelelően.
 

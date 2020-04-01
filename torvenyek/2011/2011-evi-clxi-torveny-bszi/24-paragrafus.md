@@ -6,9 +6,9 @@ b) elbírálja a felülvizsgálati kérelmet,
 
 c) a bíróságokra kötelező jogegységi határozatot hoz,
 
-d) joggyakorlat-elemzést folytat a jogerős vagy véglegessé vált határozattal befejezett ügyekben, ennek keretében feltárja és vizsgálja a bíróságok ítélkezési gyakorlatát,
+d) elbírálja a jogegységi panaszokat,
 
-e) elvi bírósági határozatokat és elvi bírósági döntéseket tesz közzé,
+e) joggyakorlat-elemzést folytat a jogerős vagy véglegessé vált határozattal befejezett ügyekben, ennek keretében feltárja és vizsgálja a bíróságok ítélkezési gyakorlatát,
 
 f) dönt az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről,
 
@@ -16,4 +16,4 @@ g) dönt a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsé
 
 h) eljár a hatáskörébe tartozó egyéb ügyekben.
 
-(2) A Kúrián ítélkező, jogegységi, önkormányzati, valamint elvi közzétételi tanácsok, büntető, polgári, közigazgatási-munkaügyi kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek.
+(2) A Kúrián ítélkező, jogegységi, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi panasz tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.

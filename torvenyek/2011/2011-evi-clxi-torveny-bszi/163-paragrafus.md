@@ -4,7 +4,7 @@
 
 ## 51. A közzéteendő határozatok köre és a közzététel eljárási szabályai
 
-163. § (1) A Kúria a jogegységi határozatot, az elvi bírósági határozatot, az elvi bírósági döntést, az általa az ügy érdemében hozott határozatot, az ítélőtábla az általa az ügy érdemében hozott határozatot, a közigazgatási és munkaügyi bíróság – ha a felülvizsgált közigazgatási határozatot egyfokú eljárásban hozták, és a bíróság határozata ellen nincs helye rendes jogorvoslatnak – az általa a közigazgatási perben az ügy érdemében hozott határozatot a Bírósági Határozatok Gyűjteményében digitális formában közzéteszi.
+163. § (1) A Kúria a jogegységi határozatot, az általa az ügy érdemében hozott határozatot, az ítélőtábla az általa az ügy érdemében hozott határozatot, a törvényszék – ha a felülvizsgált közigazgatási határozatot egyfokú eljárásban hozták, és a bíróság határozata ellen nincs helye rendes jogorvoslatnak – az általa a közigazgatási perben az ügy érdemében hozott határozatot a Bírósági Határozatok Gyűjteményében digitális formában közzéteszi.
 
 (2) A Bírósági Határozatok Gyűjteményében
 

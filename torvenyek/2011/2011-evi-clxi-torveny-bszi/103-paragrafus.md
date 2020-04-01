@@ -36,7 +36,7 @@ c) egyetértési jogot gyakorol azon pályázatok elbírálása során, amelyekb
 
 d) egyetértési jogot gyakorol azon bírósági vezetői kinevezések esetében, amelyekben a pályázó nem kapta meg a véleményező szerv hozzájárulását [132. § (6) bekezdés],
 
-e) dönt az ítélőtáblai, a törvényszéki, a közigazgatási és munkaügyi bírósági, továbbá a járásbírósági elnök és elnökhelyettes újbóli kinevezéséhez való hozzájárulás kérdésében, ha az elnök vagy elnökhelyettes ugyanazon tisztséget korábban már két alkalommal betöltötte,
+e) dönt az ítélőtáblai, a törvényszéki, továbbá a járásbírósági elnök és elnökhelyettes újbóli kinevezéséhez való hozzájárulás kérdésében, ha az elnök vagy elnökhelyettes ugyanazon tisztséget korábban már két alkalommal betöltötte,
 
 f) évente közzéteszi véleményét az OBH, valamint a Kúria elnökének a bírói, valamint a bírósági vezetői pályázatok elbírálása tekintetében folytatott gyakorlatáról,
 

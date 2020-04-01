@@ -2,9 +2,9 @@
 
 118. § (1) Bírósági vezető:
 
-a) az ítélőtábla, a törvényszék, a közigazgatási és munkaügyi bíróság, valamint a járásbíróság elnöke (a továbbiakban együtt: a bíróság elnöke),
+a) az ítélőtábla, a törvényszék, valamint a járásbíróság elnöke (a továbbiakban együtt: a bíróság elnöke),
 
-b) a Kúria, az ítélőtábla, a törvényszék, a közigazgatási és munkaügyi bíróság, valamint a járásbíróság elnökhelyettese (a továbbiakban együtt: elnökhelyettes),
+b) a Kúria, az ítélőtábla, a törvényszék, valamint a járásbíróság elnökhelyettese (a továbbiakban együtt: elnökhelyettes),
 
 c) a kollégiumvezető,
 

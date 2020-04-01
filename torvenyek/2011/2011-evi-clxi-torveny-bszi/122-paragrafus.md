@@ -1,4 +1,4 @@
-122. § A közigazgatási és munkaügyi bíróság elnöke, valamint a járásbíróság elnöke a 119. §-ban meghatározott feladatokat a bíróság sajátosságainak megfelelő eltérésekkel gyakorolja:
+122. § A járásbíróság elnöke a 119. §-ban meghatározott feladatokat a bíróság sajátosságainak megfelelő eltérésekkel gyakorolja:
 
 a) gazdálkodik a rendelkezésére bocsátott költségvetési kerettel, e körben utalványozási és kötelezettségvállalási joga van; a rendes működés kereteit meghaladó – a szervezeti és működési szabályzatban megállapított összeghatáron felüli – kiadásokhoz a törvényszék elnökének előzetes írásbeli engedélye szükséges,
 
