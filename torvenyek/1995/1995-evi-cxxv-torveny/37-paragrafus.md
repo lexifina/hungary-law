@@ -8,4 +8,4 @@
 
 (5) Az elmulasztott határnaptól számított 30 napon belül igazolási kérelmet lehet előterjeszteni.
 
-(6) A miniszter határozata elleni perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság a határozatot nem változtathatja meg.
+(6) A közigazgatási per indításának előfeltétele a panasz kimerítése. A perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a miniszter döntését nem változtathatja meg.
