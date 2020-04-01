@@ -11,3 +11,7 @@
 (5) A másodfokú eljárásban az olyan végzést, amellyel szemben az elsőfokú eljárás szabályai szerint fellebbezésnek lenne helye, továbbá a fellebbezést visszautasító végzést a Kúria tanácsban, indokolással ellátva hozza meg.
 
 (6) Ha a másodfokú eljárásban a jóhiszemű eljárás követelményének megsértése miatt pénzbírság kiszabásának lenne helye, a másodfokú bíróság pénzbírság kiszabása helyett a jóhiszemű eljárás követelményét sértő cselekményt figyelmen kívül hagyhatja.
+
+(7) Ha a fellebbezés elbírálása során az ügyet érintő jogegységi eljárás indul, az eljárást a bíróság a jogegységi eljárás befejezéséig felfüggeszti. A felfüggesztés tárgyában hozott végzést a bíróság módosíthatja.
+
+(8) Ha jogkérdésben szükséges a Kúria közzétett határozatától eltérni, a bíróság indítványozza a jogegységi eljárást, amely a jogkérdés mikénti eldöntésére irányuló javaslatot is tartalmazza.

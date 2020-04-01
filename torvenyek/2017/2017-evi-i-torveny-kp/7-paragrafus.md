@@ -6,14 +6,10 @@
 
 (1) Elsőfokon ítélkezik
 
-a) a közigazgatási és munkaügyi bíróság,
+a) a közigazgatási kollégiummal működő törvényszék (a továbbiakban: törvényszék),
 
-b) törvényben meghatározott esetben a törvényszék vagy a Kúria.
+b) törvényben meghatározott esetben a Kúria.
 
-(2) Másodfokon ítélkezik
-
-a) a közigazgatási és munkaügyi bírósághoz tartozó ügyekben a törvényszék és
-
-b) a törvényszékhez tartozó ügyekben a Kúria.
+(2) Másodfokon a Kúria ítélkezik.
 
 (3) Felülvizsgálati ügyekben a Kúria jár el.

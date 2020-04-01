@@ -6,7 +6,7 @@
 
 (1) A képviseletre a polgári perrendtartás szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) Ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó a törvényszék és a Kúria előtt – az iratok megtekintése, azokról másolat kérése vagy készítése kivételével – nem járhat el.
+(2) Ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó a törvényszék végzése elleni fellebbezés kivételével, a Kúria előtt – az iratok megtekintése, azokról másolat kérése vagy készítése kivételével – nem járhat el.
 
 (3) A közigazgatási szerv vezetője, tisztségviselője vagy alkalmazottja a közigazgatási szerv szervezetét és működését meghatározó szabály szerinti képviseleti jogosultságát munkáltatói igazolványával is igazolhatja.
 

@@ -10,7 +10,7 @@ c) közigazgatási cselekmény megvalósításának megtiltása,
 
 d) a közigazgatási jogviszonyból eredő kötelezettség teljesítésére kötelezés,
 
-e) a közigazgatási szerződéses jogviszonnyal vagy a közszolgálati jogviszonnyal kapcsolatban okozott kár megtérítésére kötelezés,
+e) a közigazgatási szerződéses jogviszonnyal vagy a közszolgálati jogviszonnyal kapcsolatban okozott kár megtérítésére, illetve sérelemdíj megfizetésére kötelezés,
 
 f) a közigazgatási tevékenységgel előidézett jogsértés tényének vagy a közigazgatási jogviszony szempontjából lényeges egyéb ténynek a megállapítása.
 

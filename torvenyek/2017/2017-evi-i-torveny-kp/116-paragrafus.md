@@ -2,7 +2,7 @@
 
 Nincs helye felülvizsgálatnak
 
-a) az elsőfokon jogerőre emelkedett határozat ellen, kivéve, ha a fellebbezést törvény kizárja,
+a) az elsőfokon jogerőre emelkedett határozat ellen, kivéve, ha a fellebbezést törvény nem teszi lehetővé, vagy kizárja,
 
 b) ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú határozatot helybenhagyta,
 

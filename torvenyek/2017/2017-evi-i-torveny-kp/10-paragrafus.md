@@ -20,12 +20,12 @@ h) az, akitől az ügy tárgyilagos megítélése egyéb okból nem várható.
 
 (2) A perorvoslat elintézéséből ki van zárva az a bíró is, aki a perorvoslattal támadott határozat meghozatalát megelőző bírósági eljárásban részt vett.
 
-(3) A perben nem járhat el az a közigazgatási és munkaügyi bíróság,
+(3) A perben nem járhat el az a törvényszék,
 
 a) amelynek vezetőjével szemben az (1) bekezdés a)–e) pont szerinti kizárási ok áll fenn, vagy
 
 b) amely a perben félként vagy érdekeltként vehet részt.
 
-(4) A kizárás kérdésében a Fővárosi Törvényszék dönt, ha a közigazgatási és munkaügyi bíróságnak nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
+(4) A kizárás kérdésében a Kúria dönt, ha a törvényszéknek nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
 
 (5) A kizárási kérelem bejelentésére és elintézésére egyebekben a polgári perrendtartás szabályait kell megfelelően alkalmazni.

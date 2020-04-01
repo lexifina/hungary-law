@@ -1,14 +1,18 @@
 ### 118. § [Döntés a felülvizsgálati kérelem befogadhatóságáról]
 
-(1) A Kúria a felülvizsgálati kérelmet akkor fogadja be, ha az ügy érdemére kiható jogszabálysértés vizsgálata
+(1) A Kúria a felülvizsgálati kérelmet akkor fogadja be, ha
 
-a) a joggyakorlat egységének vagy továbbfejlesztésének biztosítása,
+a) az ügy érdemére kiható jogszabálysértés vizsgálata
 
-b) a felvetett jogkérdés különleges súlya, illetve társadalmi jelentősége,
+aa) a joggyakorlat egységének vagy továbbfejlesztésének biztosítása,
 
-c) az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségessége vagy
+ab) a felvetett jogkérdés különleges súlya, illetve társadalmi jelentősége,
 
-d) a Kúria közzétett ítélkezési gyakorlatától eltérő ítéleti rendelkezés
+ac) az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségessége,
+
+ad) a kérelmező alapvető eljárási jogának valószínűsíthető sérelme, vagy az ügy érdemére kiható egyéb eljárási szabályszegés, illetve
+
+b) a Kúria közzétett határozatától jogkérdésben való eltérés
 
 miatt indokolt.
 

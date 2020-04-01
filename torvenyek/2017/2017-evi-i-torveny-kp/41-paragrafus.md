@@ -1,6 +1,6 @@
 ### 41. § [A keresetlevél benyújtása a bíróságnál]
 
-(1) Ha a keresetlevelet törvény rendelkezése alapján a bíróságnál kell benyújtani, a bíróság a keresetlevelet annak vizsgálatát követően haladéktalanul közli az elsőfokon eljárt közigazgatási szervvel. Az ügy iratait a 40. § (1) bekezdése szabályai szerint kell a bírósághoz továbbítani.
+(1) Ha a keresetlevelet törvény rendelkezése alapján a bíróságnál kell benyújtani, a bíróság a keresetlevelet annak vizsgálatát követően haladéktalanul közli az elsőfokon eljárt, illetve a mulasztó közigazgatási szervvel. Az ügy iratait a 40. § (1) bekezdése szabályai szerint kell a bírósághoz továbbítani.
 
 (2) A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a jogi képviselő nélkül eljáró felperes – határidőn belül – tévesen a közigazgatási szervnél vagy a jogorvoslati szervnél nyújtja be. A tévesen benyújtott keresetlevelet haladéktalanul meg kell küldeni a bíróságnak.
 

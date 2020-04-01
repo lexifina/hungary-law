@@ -1,6 +1,12 @@
 ### 27. § [Kötelező jogi képviselet]
 
-(1) A törvényszék és a Kúria előtt, továbbá a közigazgatási szerződéssel kapcsolatos perben a jogi képviselet kötelező.
+(1) Kötelező a jogi képviselet
+
+a) a törvényszék végzése elleni fellebbezési eljárás kivételével a Kúria előtt,
+
+b) a 13. § (3) bekezdésében meghatározott jogvitában, továbbá
+
+c) a közigazgatási szerződéssel kapcsolatos perben.
 
 (2) Kötelező jogi képviselet esetén eljárásra jogosult a közigazgatási szerv jogi szakvizsgával rendelkező tisztségviselője vagy alkalmazottja is.
 

@@ -6,7 +6,7 @@
 
 a) a fellebbezéssel támadott ítélet számát,
 
-b) a fellebbezést megalapozó jogszabálysértést, a jogszabályhely pontos megjelölésével és
+b) a fellebbezést megalapozó jogszabálysértést, a jogszabályhely pontos megjelölésével, illetve azt a közzétett kúriai határozatot és annak azt a részét, amelytől az ítélet jogkérdésben eltér és
 
 c) a másodfokú bíróság döntésére vonatkozó határozott kérelmet.
 

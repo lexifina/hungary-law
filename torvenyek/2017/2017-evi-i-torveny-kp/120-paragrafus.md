@@ -4,7 +4,7 @@
 
 (2) A legfőbb ügyész törvény alapján megküldött szakmai véleményét a Kúria közli a felekkel és az érdekeltekkel, akik arra a kitűzött határidőn belül észrevételt tehetnek.
 
-(3) Ha a felülvizsgálati kérelem elbírálása során az ügyet érintő jogegységi eljárás indul, az eljárást a Kúria a jogegységi eljárás befejezéséig felfüggesztheti. A felfüggesztés tárgyában hozott végzést a Kúria módosíthatja.
+(3)
 
 (4) Közbenső ítélet elleni felülvizsgálati kérelem befogadása esetén a Kúria a peres eljárás folytatását hivatalból felfüggesztheti. A felfüggesztés tárgyában hozott végzést a Kúria módosíthatja.
 

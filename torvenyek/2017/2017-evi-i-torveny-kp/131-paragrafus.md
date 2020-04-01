@@ -13,3 +13,5 @@
 (6) A Közszolgálati Döntőbizottság határozatát támadó kereseti kérelem alapján indult perben a fél nem hivatkozhat olyan tényre, körülményre, bizonyítékra, amely a Közszolgálati Döntőbizottság eljárásnak nem képezte tárgyát, kivéve akkor, ha azt a Közszolgálati Döntőbizottság hivatkozása ellenére nem vette figyelembe, azt önhibáján kívül nem ismerte, illetve arra önhibáján kívül nem hivatkozott.
 
 (7) A fizetési meghagyásos eljárással indult marasztalási perben a bíróság a polgári perrendtartás fizetési meghagyásos eljárással összefüggő perekre vonatkozó szabályainak megfelelő alkalmazásával jár el.
+
+(8) Az első tárgyalást úgy kell kitűzni, hogy az legkésőbb a védirat bírósághoz érkezésétől számított hatvan napon belül megtartható legyen.

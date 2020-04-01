@@ -8,26 +8,26 @@
 
 a) a kétfokú közigazgatási eljárásban hozott közigazgatási cselekmény vizsgálatára indított perben,
 
-b) az ötmillió forintot meg nem haladó alapösszegű fizetési kötelezettséget vitató kereset alapján indult perben,
+b) a tízmillió forintot meg nem haladó alapösszegű fizetési kötelezettséget vitató kereset alapján indult perben,
 
 c) a szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok beutazásával és tartózkodásával, valamint a menedékjoggal kapcsolatos perben,
 
-d) a 13. § (4) bekezdésében meghatározott perben,
+d) a járási (kerületi) hivatal vezetője vagy helyi önkormányzat szerve által megvalósított közigazgatási tevékenységgel kapcsolatos perben,
 
 e) a hatósági igazolvánnyal, hatósági bizonyítvánnyal, illetve hatósági nyilvántartás vezetésével kapcsolatos perben,
 
 f) a hatósági határozattal szemben kizárólag a hatósági eljárás egyéb résztvevőjének keresete alapján indult perben,
 
-g) a járulékos közigazgatási cselekménnyel kapcsolatos perben,
+g) járulékos közigazgatási cselekménnyel, valamint a kérelmet visszautasító vagy az eljárást megszüntető döntéssel kapcsolatos perben,
 
 h) a mulasztási perben,
 
 i) a közszolgálati jogviszonnyal kapcsolatos perben,
 
-j) az e törvényben meghatározott egyéb perben.
+j) a közigazgatási nemperes eljárásban.
 
 (4) Ha az ügy különös bonyolultsága indokolja, az egyesbíró a (3) bekezdés szerinti perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(5) A törvényszék másodfokon három hivatásos bíróból álló tanácsban jár el.
+(5) A végzés elleni fellebbezést egyesbíró bírálja el.
 
 (6) A Kúria három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.
