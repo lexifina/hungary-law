@@ -28,4 +28,4 @@ d) a hozzáférést kérelmező vállalkozó vasúti társaság.
 
 (8) Amennyiben a vasúti igazgatási szerv az objektív gazdasági elemzést követően azt állapítja meg, hogy az egy adott kiindulási és célállomás között működtetni tervezett nagy sebességű személyszállítási szolgáltatás veszélyezteti az ugyanazon útvonalat vagy annak alternatíváját lefedő közszolgáltatási szerződés gazdasági egyensúlyát, a vasúti igazgatási szervnek jeleznie kell a szolgáltatás azon lehetséges módosításait, amelyekkel biztosítható lenne, hogy a hozzáférési jog megadásának feltételei teljesüljenek. E módosítások magukban foglalhatják a tervezett szolgáltatás módosítását is.
 
-(9) Az (1)–(4) és a (8) bekezdésben meghatározott döntésekről szóló határozatok ellen bírósági felülvizsgálat kezdeményezésének van helye.
+(9)

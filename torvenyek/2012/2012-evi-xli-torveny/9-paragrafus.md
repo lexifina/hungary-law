@@ -4,6 +4,6 @@
 
 9. § (1) A víziközlekedési személyszállítás engedélyezésére vonatkozó szabályokat a Vkt. és a vízi személyszállításról szóló rendelet, a vasúti személyszállítás engedélyezésére vonatkozó szabályokat a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben (a továbbiakban: Vtv.) állapítja meg.
 
-(2) Az autóbuszos piacfelügyeleti és utasjogi hatóság (a továbbiakban: autóbuszos hatóság) döntései megtámadására vonatkozó közigazgatási perekben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel jár el.
+(2) Az autóbuszos piacfelügyeleti és utasjogi hatóság (a továbbiakban: autóbuszos hatóság) döntései megtámadására vonatkozó közigazgatási perekben a Fővárosi Törvényszék kizárólagos illetékességgel jár el.
 
 (3) Az autóbuszos hatóság piacfelügyeleti és utasjogi hatósági eljárásaiban országos illetékességgel jár el.
