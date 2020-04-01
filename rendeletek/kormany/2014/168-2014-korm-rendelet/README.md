@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-168-20-
 | 2017-01-01 | 2014-168-20-22.7 | 328/2016. (X. 28.) Korm. rendelet |
 | 2019-05-11 | 2014-168-20-22.8 | 328/2016. (X. 28.) Korm. rendelet |
 | 2019-10-15 | 2014-168-20-22.9 | 220/2019. (IX. 12.) Korm. rendelet |
+| 2020-04-01 | 2014-168-20-22.10 | 373/2014. (XII. 31.) Korm. rendelet |
