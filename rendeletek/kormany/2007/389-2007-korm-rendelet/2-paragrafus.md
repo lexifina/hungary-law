@@ -28,9 +28,9 @@ l) mélyvölgy időszak: az e rendelet 3. számú mellékletében meghatározott
 
 m)[^18] Minősített KÁT termelő: a 3 MW-ot meghaladó telephelyi névleges villamos teljesítőképességű erőműegységgel rendelkező Értékesítő (az adott telephely vonatkozásában), aki az átviteli rendszerirányítóval elnyújtott mélyvölgy időszakra vonatkozó – az átviteli rendszerirányító üzletszabályzatának megfelelő – szerződést köt;
 
-n)[^19] önfogyasztás: az erőműegység telephelyének teljes villamosenergia-fogyasztása, beleértve az erőműegység villamosenergia- és hőenergia-termelésének, a termelőeszközök üzemének és üzemeltetésének fenntartására a saját termelésből vagy a hálózatból felhasznált villamos energiát, valamint az erőműegységet tulajdonló gazdasági társaságnak és az erőműegység üzemeltetőjének a telephelyen történő minden egyéb célú villamosenergia-fogyasztását is (ha az erőműegységben termelt villamos energiát csak részben értékesítik a kötelező átvételi rendszerben, akkor az önfogyasztást az értékesített mennyiségek arányában, ha a telephelyen több erőműegység üzemel, akkor az önfogyasztást az erőműegységek tényleges technológiai célú felhasználását is figyelembe véve kell megosztani);
+n)[^19] önfogyasztás: az erőműegység telephelyének teljes villamosenergia-fogyasztása, beleértve az erőműegység villamosenergia- és hőenergia-termelésének, a termelőeszközök üzemének és üzemeltetésének fenntartására a saját termelésből vagy a hálózatból felhasznált villamos energiát, valamint az erőműegységet tulajdonló gazdasági társaságnak és az erőműegység üzemeltetőjének a telephelyen történő, villamosenergia-tárolástól eltérő minden egyéb célú villamosenergia-fogyasztását is (ha az erőműegységben termelt villamos energiát csak részben értékesítik a kötelező átvételi rendszerben, akkor az önfogyasztást az értékesített mennyiségek arányában, ha a telephelyen több erőműegység üzemel, akkor az önfogyasztást az erőműegységek tényleges technológiai célú felhasználását is figyelembe véve kell megosztani);
 
-o)[^20] szabályozási pótdíj: a napi menetrend hiánya vagy a napi menetrendtől való eltérés esetén a KÁT termelő vagy összevont menetrend esetén a Menetrend-csoport Képviselő által a Befogadó számára fizetendő díj;
+o)[^20] szabályozási pótdíj: a KÁT termelőnek a menetrendjétől való, a KÁT mérlegkörrel megegyező irányú eltérése esetén a KÁT termelő vagy összevont menetrend esetén a Menetrend-csoport Képviselő által a Befogadó számára fizetendő díj;
 
 p) tárgyév: a kötelező átvételi rendszerben történő értékesítés árai érvényességének éves időszaka minden év január 1-jétől december 31-ig.
 
@@ -40,7 +40,7 @@ r)[^22]
 
 s)[^23] Menetrend-csoport Képviselő: a KÁT termelők által összevont menetrendadás céljából kijelölt – a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti – gazdálkodó szervezet,
 
-t)[^24] szabályozási bónusz: a napi menetrend vagy a napon belüli menetrend e rendeletben meghatározott pontossága esetén a Befogadó által a KÁT termelő vagy összevont menetrend esetén a Menetrend-csoport Képviselő részére fizetendő díj,
+t)[^24]
 
 u)[^25] villamosenergia-termelés megkezdése: az erőműegység közcélú hálózattal történő első párhuzamos kapcsolásának időpontja, melyet az illetékes hálózati engedélyes jegyzőkönyvvel igazol.
 
@@ -52,10 +52,10 @@ u)[^25] villamosenergia-termelés megkezdése: az erőműegység közcélú hál
 [^16]: A 2. § (1) bekezdés e) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 4. pontja, a 393/2016. (XII. 5.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
 [^17]: A 2. § (1) bekezdés k) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 5. pontja hatályon kívül helyezte.
 [^18]: A 2. § (1) bekezdés e) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 4. pontja, a 393/2016. (XII. 5.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
-[^19]: A 2. § (1) bekezdés n) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
-[^20]: A 2. § (1) bekezdés o) pontja a 232/2017. (VIII. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: A 2. § (1) bekezdés n) pontja a 364/2019. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: A 2. § (1) bekezdés o) pontja a 364/2019. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^21]: A 2. § (1) bekezdés q) pontja a 4/2018. (II. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^22]: A 2. § (1) bekezdés r) pontját a 270/2010. (XII. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 123/2015. (V. 26.) Korm. rendelet 28. § (1) bekezdés a) pontja.
 [^23]: A 2. § (1) bekezdés s) pontját a 232/2017. (VIII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^24]: A 2. § (1) bekezdés t) pontját a 232/2017. (VIII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 2. § (1) bekezdés t) pontját a 232/2017. (VIII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 364/2019. (XII. 30.) Korm. rendelet 11. § 1. pontja hatályon kívül helyezte.
 [^25]: A 2. § (1) bekezdés u) pontját a 232/2017. (VIII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
