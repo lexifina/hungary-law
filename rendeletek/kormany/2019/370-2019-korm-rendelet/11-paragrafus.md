@@ -1,38 +1,30 @@
 ## 11. § A 299/2017. (X. 17.) Korm. rendelet
 
-1.[^15]
+1.[^8]
 
-2.[^16]
+2. 8. § (3) bekezdésében a „kézhezvételétől számított tizenegy munkanapon belül” szövegrész helyébe a „kézhezvételétől számított tizenegy, szabályozási pótdíj tekintetében öt munkanapon belül” szöveg,
 
-3.[^17]
+3. 9. § (2) bekezdésében a „más” szövegrész helyébe az „a” szöveg,
 
-4.[^18]
+4. 9. § (3) bekezdésében az „egyéb” szövegrész helyébe az „a havi” szöveg,
 
-5.[^19]
+5. 9. § (3) bekezdésében a „nyújthatja be” szövegrész helyébe az „állítja ki” szöveg,
 
-6.[^20]
+6. 9. § (4) bekezdésében az „egyéb” szövegrész helyébe az „a havi” szöveg,
 
-7.[^21]
+7. 9. § (5) bekezdésében a „más” szövegrész helyébe az „a” szöveg,
 
-8.[^22]
+8. 9. § (6) bekezdésében a „hatodik” szövegrész helyébe a „kilencedik” szöveg,
 
-9.[^23]
+9. 9. § (6) bekezdésében az „és” szövegrész helyébe a „valamint a tárgyhónapot követő hónap hatodik munkanapjától” szöveg,
 
-10.[^24]
+10.[^9]
 
-11.[^25]
+11.[^10]
 
-12.[^26]
+12.[^11]
 
-[^15]: A 11. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 11. § 2. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^17]: A 11. § 3. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^18]: A 11. § 4. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^19]: A 11. § 5. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^20]: A 11. § 6. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^21]: A 11. § 7. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^22]: A 11. § 8. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^23]: A 11. § 9. pontja a 13. § (2) bekezdése alapján 2020. április 1-jén lép hatályba.
-[^24]: A 11. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 11. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 11. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 11. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 11. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 11. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
