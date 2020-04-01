@@ -16,7 +16,7 @@ cb) jogkérdés megjelölését, amelynek különleges súlya vagy társadalmi j
 
 cc) jogkérdés megjelölését, amely az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségességét indokolja, vagy
 
-cd) ítéleti rendelkezést, amely a Kúria közzétett ítélkezési gyakorlatától eltér.
+cd) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér.
 
 (3) Az engedélyezés iránti kérelemre a felülvizsgálati kérelem előzetes megvizsgálására és visszautasítására vonatkozó rendelkezések irányadók. Az engedélyezés iránti kérelmet az előterjesztő fél ellenfelének a kérelem elbírálását megelőzően nem kell megküldeni.
 

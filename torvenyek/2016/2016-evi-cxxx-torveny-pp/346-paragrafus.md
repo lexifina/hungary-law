@@ -22,7 +22,7 @@ tartalmazza.
 
 (4) Az indokolás a bíróság által megállapított tényeket, a feleknek a per tárgyára vonatkozó kérelmét, illetve nyilatkozatát és azok alapjának rövid ismertetését, az érdemi rendelkezés tartalmára történő utalást, továbbá a jogi indokolást tartalmazza.
 
-(5) A jogi indokolás tartalmazza az ítélet alapjául szolgáló jogszabályokat és szükség esetén azok értelmezését, a megállapított tényekre vonatkozó bizonyítékokat azokkal a körülményekkel együtt, amelyeket a bíróság a bizonyítékok mérlegelésénél irányadónak vett, a tények megállapításának egyéb körülményeit, továbbá azokat az okokat, amelyek miatt a bíróság valamely tényállítást nem talált bizonyítottnak, vagy amelyek miatt a felajánlott bizonyítást mellőzte.
+(5) A jogi indokolás tartalmazza az ítélet alapjául szolgáló jogszabályokat és szükség esetén azok értelmezését, a megállapított tényekre vonatkozó bizonyítékokat azokkal a körülményekkel együtt, amelyeket a bíróság a bizonyítékok mérlegelésénél irányadónak vett, a tények megállapításának egyéb körülményeit, továbbá azokat az okokat, amelyek miatt a bíróság valamely tényállítást nem talált bizonyítottnak, vagy amelyek miatt a felajánlott bizonyítást mellőzte. A jogi indokolás tartalmazza azokat az okokat is, amelyek miatt a bíróság jogkérdésben eltért a Kúriának a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban: a Kúria közzétett határozata), vagy az arra irányuló indítványt elutasította.
 
 (6) Az ítélet a jogi indokolást követően az eljárás folyamán hozott végzés indokolását akkor tartalmazza, ha e törvény szerint a végzés külön fellebbezéssel nem támadható, de a bíróság azt e törvény szerint köteles indokolni és arra az ítélet meghozataláig nem került sor.
 

@@ -1,7 +1,15 @@
 ### 513. § [Hatáskör és illetékesség]
 
-(1) Ha valamelyik pertársra, illetve kereseti kérelem elbírálására a munkaügyi perben eljáró bíróságnak, míg a többi pertársra, illetve kereseti kérelemre a járásbíróságnak vagy törvényszéknek van hatásköre, a per a munkaügyi bíróság hatáskörébe tartozik, feltéve, hogy a pertársaság vagy a keresethalmazat törvény által megengedett.
+(1) Pertársaság vagy keresethalmazat esetén, ha
 
-(2) Munkaügyi perben a munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes közigazgatási és munkaügyi bíróság előtt is megindíthatja.
+a) a törvényszék hatáskörébe tartozó valamelyik kereseti kérelem elbírálása munkaügyi perre, míg a többi kereseti kérelem nem munkaügyi perre tartozik, vagy
 
-(3) Munkaügyi perben a munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett megindíthatja azon közigazgatási és munkaügyi bíróság előtt is, amelynek illetékességi területén huzamos ideig munkát végez vagy végzett.
+b) valamelyik kereseti kérelem elbírálása munkaügyi perre, míg a többi kereseti kérelem járásbíróság hatáskörébe tartozik,
+
+a pert a munkaügyi perben eljáró tanács bírálja el, feltéve, hogy a pertársaság vagy a keresethalmazat törvény által megengedett.
+
+(2) A munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes munkaügyi perben eljáró bíróság előtt is megindíthatja.
+
+(3) A munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett megindíthatja azon munkaügyi perben eljáró bíróság előtt is, amelynek illetékességi területén huzamos ideig munkát végez vagy végzett.
+
+(4) A munkáltató felperes a pert kizárólag a munkavállaló belföldi lakóhelye, ennek hiányában a belföldi tartózkodási helye szerinti bíróság előtt indíthatja meg.

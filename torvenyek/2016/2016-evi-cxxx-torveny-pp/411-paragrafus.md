@@ -1,6 +1,6 @@
 ### 411. § [Döntés a felülvizsgálat engedélyezéséről]
 
-(1) Ha a felülvizsgálat engedélyezése iránti kérelem érdemi elbírálásra alkalmas, a Kúria háromtagú tanácsban, tárgyaláson kívül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról.
+(1) Ha a felülvizsgálat engedélyezése iránti kérelem érdemi elbírálásra alkalmas, a Kúria háromtagú tanácsban, tárgyaláson kívül, harminc napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról.
 
 (2) A felülvizsgálat megtagadásáról szóló végzést röviden indokolni kell.
 

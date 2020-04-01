@@ -8,7 +8,7 @@
 
 (1) A törvényszék hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a járásbíróság hatáskörébe.
 
-(2) A közigazgatási és munkaügyi bíróság hatáskörébe tartoznak az e törvény hatálya alá tartozó perek közül a munkaügyi perek.
+(2) A törvényszék mint munkaügyi bíróság jár el a munkaügyi perekben.
 
 (3) A járásbíróság hatáskörébe tartoznak:
 

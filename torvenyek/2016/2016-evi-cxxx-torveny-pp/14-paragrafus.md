@@ -1,6 +1,6 @@
 ### 14. § [A bíróság kizárása]
 
-(1) A perben az a járásbíróság, közigazgatási és munkaügyi bíróság, törvényszék, illetve ítélőtábla sem járhat el,
+(1) A perben az a járásbíróság, törvényszék, illetve ítélőtábla sem járhat el,
 
 a) amely a perben fél, a féllel együtt jogosított vagy kötelezett személy, továbbá az, amely a per tárgyát egészen vagy részben a maga részére követeli, vagy amelynek jogaira, illetve kötelezettségeire a per eredménye kihatással lehet, vagy
 

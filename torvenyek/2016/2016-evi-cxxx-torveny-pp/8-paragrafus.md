@@ -8,19 +8,17 @@
 
 (1) Elsőfokon ítélkezik:
 
-a) a járásbíróság,
+a) a járásbíróság és
 
-b) a közigazgatási és munkaügyi bíróság és
-
-c) a törvényszék.
+b) a törvényszék.
 
 (2) Másodfokon ítélkezik:
 
-a) a járásbírósághoz, valamint a közigazgatási és munkaügyi bírósághoz tartozó ügyekben a törvényszék,
+a) a járásbírósághoz tartozó ügyekben a törvényszék,
 
 b) a törvényszékhez tartozó ügyekben az ítélőtábla és
 
-c) az ítélőtáblához tartozó ügyekben, továbbá az e törvényben meghatározott esetben a Kúria.
+c) az ítélőtáblához tartozó ügyekben a Kúria.
 
 (3) Felülvizsgálati ügyekben a Kúria jár el.
 

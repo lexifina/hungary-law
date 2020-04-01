@@ -8,7 +8,7 @@
 
 a) a törvényszék határoz, ha az összeütközés a területén lévő járásbíróságok között merült fel, valamint, ha a területén lévő járásbíróság kizárása esetén a területén lévő másik járásbíróság kijelölhető,
 
-b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek, illetve közigazgatási és munkaügyi bíróságok között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék vagy közigazgatási és munkaügyi bíróság kizárása esetén a területén lévő másik járásbíróság, törvényszék vagy közigazgatási és munkaügyi bíróság kijelölhető,
+b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék kizárása esetén, a területén lévő másik járásbíróság, törvényszék kijelölhető,
 
 c) az a) és b) pont alá nem tartozó esetekben a Kúria határoz.
 

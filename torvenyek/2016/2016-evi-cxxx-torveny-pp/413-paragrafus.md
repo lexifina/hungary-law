@@ -6,9 +6,11 @@ a) a felülvizsgálni kívánt ítélet számát,
 
 b) a jogszabálysértés pontos megnevezésével, a jogszabályhely megjelölésével azt az eljárási, illetve anyagi jogi szabálysértést, amely kihatott az ügy érdemi eldöntésére, valamint annak indokait, hogy a fél az új határozat hozatalát vagy a határozat hatályon kívül helyezését milyen okból kívánja,
 
-c) a Kúria döntésére vonatkozó határozott kérelmet, hogy a kérelmező milyen tartalmú döntés meghozatalát kívánja, és
+c) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér,
 
-d) a végrehajthatóság felfüggesztése iránti kérelmet tartalmazó felülvizsgálati kérelem esetén a végrehajtásra vonatkozó adatokat.
+d) a Kúria döntésére vonatkozó határozott kérelmet, hogy a kérelmező milyen tartalmú döntés meghozatalát kívánja, és
+
+e) a végrehajthatóság felfüggesztése iránti kérelmet tartalmazó felülvizsgálati kérelem esetén a végrehajtásra vonatkozó adatokat.
 
 (2) A felülvizsgálati kérelemben nincs helye kereset- és ellenkérelem-változtatásnak, utólagos bizonyításnak és beszámítás előterjesztésének.
 

@@ -9,3 +9,5 @@
 (1) Törvény eltérő rendelkezése hiányában a felülvizsgálati eljárás során a Kúria az e fejezetben foglalt eltérésekkel a fellebbezésre vonatkozó szabályok alkalmazásával jár el.
 
 (2) A felülvizsgálati eljárásban a Kúria az olyan végzést, amellyel szemben az elsőfokú eljárás szabályai szerint külön fellebbezésnek lenne helye, továbbá a felülvizsgálati kérelmet visszautasító végzést tanácsban hozza meg és köteles azt indokolni.
+
+(3) A felülvizsgálati eljárással összefüggésben jogegységi panasz iránti eljárásnak a bíróságok szervezetéről és igazgatásáról szóló törvényben foglaltak szerint van helye.

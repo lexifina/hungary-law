@@ -8,7 +8,7 @@ b) tanács elnöke vagy tagja esetén ugyanannak a bíróságnak ugyanazon a fok
 
 tárgyaláson kívül határoz.
 
-(2) Ha ugyanannak a bíróságnak nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a törvényszéket mint másodfokú bíróságot és a közigazgatási és munkaügyi bíróságot érintő ok esetén az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetén a Kúria határoz.
+(2) Ha ugyanannak a bíróságnak nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a törvényszéket mint másodfokú bíróságot érintő ok esetén az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetén a Kúria határoz.
 
 (3) Ha a bejelentést nem maga a bíró tette, nyilatkozatát a döntés előtt be kell szerezni.
 
