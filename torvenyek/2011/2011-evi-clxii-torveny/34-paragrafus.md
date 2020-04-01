@@ -6,4 +6,4 @@
 
 (3) Ha a bírót a (2) bekezdés szerinti okból alacsonyabb szintű bíróságra helyezi át az OBH elnöke, megtartja korábbi illetményét és jogosult a korábbi bírói beosztására utaló elnevezés használatára.
 
-(4) Ha a bíró a (2) bekezdésben foglaltak szerinti áthelyezése esetén szolgálati jogvitát kezdeményez, a közigazgatási és munkaügyi bíróság az OBH elnökének döntését csak a döntés kialakítására irányadó jogszabályok betartása szempontjából vizsgálhatja.
+(4) Ha a bíró a (2) bekezdésben foglaltak szerinti áthelyezése esetén szolgálati jogvitát kezdeményez, a törvényszék mint munkaügyi bíróság az OBH elnökének döntését csak a döntés kialakítására irányadó jogszabályok betartása szempontjából vizsgálhatja.

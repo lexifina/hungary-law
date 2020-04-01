@@ -1,6 +1,6 @@
 174. § (1) Kiváló, magasabb bírói beosztásra alkalmas, illetve kiválóan alkalmas minősítés és az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább 6 év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBT
 
-a) a járásbírósági, valamint a közigazgatási és munkaügyi bírósági bíró részére „címzetes törvényszéki bíró”,
+a) a járásbírósági bíró részére „címzetes törvényszéki bíró”,
 
 b) a törvényszéki bíró részére „címzetes táblabíró”,
 
@@ -12,7 +12,7 @@ címet adományozhat.
 
 (2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBH elnöke
 
-a) a járásbírósági, valamint a közigazgatási és munkaügyi bírósági bíró részére „címzetes törvényszéki bíró”,
+a) a járásbírósági bíró részére „címzetes törvényszéki bíró”,
 
 b) a törvényszéki bíró részére „címzetes táblabíró”,
 

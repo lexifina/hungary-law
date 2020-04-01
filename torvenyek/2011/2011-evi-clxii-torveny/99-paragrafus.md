@@ -12,7 +12,7 @@ b) a kúriai bíró esetében a Kúria elnöke,
 
 c) az ítélőtáblai bíró esetében az ítélőtábla elnöke,
 
-d) a törvényszéki, a járásbírósági, valamint a közigazgatási és munkaügyi bírósági bíró esetében a törvényszék elnöke
+d) a törvényszéki, valamint a járásbírósági bíró esetében a törvényszék elnöke
 
 gyakorolja.
 
@@ -20,4 +20,6 @@ gyakorolja.
 
 a) az OBH elnöke a bíró helyettesére,
 
-b) a törvényszék elnöke a járásbírósági bírák tekintetében a járásbíróság elnökére, a közigazgatási és munkaügyi bírósági bírák esetében a közigazgatási és munkaügyi bíróság elnökére – a bíró értékelésének elrendelése kivételével – írásban átruházhatja.
+b) a törvényszék elnöke a járásbírósági bírák tekintetében a járásbíróság elnökére – a bíró értékelésének elrendelése kivételével –
+
+írásban átruházhatja.

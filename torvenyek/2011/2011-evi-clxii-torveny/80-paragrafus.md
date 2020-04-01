@@ -1,1 +1,1 @@
-80. § A jogorvoslat tárgyában hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
+80. § Az értékeléssel – ideértve a bírósági vezetői értékelést is – szemben előterjesztett jogorvoslat elbírálása során az elsőfokú szolgálati bíróság a 84. és 85. §-ban foglalt eltérésekkel a fegyelmi eljárás szabályainak megfelelő alkalmazásával jár el. A jogorvoslat tárgyában hozott indokolt határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.

@@ -1,6 +1,6 @@
 ## 14. A bíró beosztása
 
-26. § (1) A bírót első kinevezésekor az OBH elnöke, ezt követően a Kúriára a Kúria elnöke, az ítélőtáblára az ítélőtábla elnöke, a törvényszékre, a közigazgatási és munkaügyi bíróságra, valamint a járásbíróságra a törvényszék elnöke osztja be.
+26. § (1) A bírót első kinevezésekor az OBH elnöke, ezt követően a Kúriára a Kúria elnöke, az ítélőtáblára az ítélőtábla elnöke, a törvényszékre, valamint a járásbíróságra a törvényszék elnöke osztja be.
 
 (2) A bíró beosztásáról írásban kell rendelkezni, abban meg kell határozni a bíró szolgálati helyét, beosztását, a szolgálati ideje kezdetét, fizetési fokozatát, az ahhoz tartozó alapilletményét, a pótlékok jogcímét és összegét, valamint a kötelező előrelépése időpontját.
 

@@ -8,7 +8,7 @@ a) kúriai bíró esetén a Kúria elnöke,
 
 b) az ítélőtábla bírájánál az ítélőtábla elnöke,
 
-c) a törvényszéki bíró, a járásbírósági bíró, továbbá a közigazgatási és munkaügyi bírósági bíró esetén a törvényszék elnöke,
+c) a törvényszéki bíró, továbbá a járásbírósági bíró esetén a törvényszék elnöke,
 
 kezdeményezi az elsőfokú szolgálati bíróság elnökénél.
 
