@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-60-00-00
 | 2019-04-18 | 2019. évi XXVIII. törvény | 2007-60-00-00.25 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2007-60-00-00.26 |
 | 2019-12-20 | 2019. évi CI. törvény | 2007-60-00-00.27 |
+| 2020-04-01 | 2019. évi CXXVII. törvény | 2007-60-00-00.28 |
