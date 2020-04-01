@@ -2,7 +2,7 @@
 
 (2) Az OBH-ba beosztott bírósági titkár tekintetében a munkáltatói jogkört az OBH elnöke gyakorolja.
 
-(3) A bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
+(3) Az OBH-ba beosztott bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
 
 (4) A hivatali beosztás megszűnését követően a bírósági titkárt a hivatali tevékenységét megelőző szolgálati helyére kell beosztani.
 

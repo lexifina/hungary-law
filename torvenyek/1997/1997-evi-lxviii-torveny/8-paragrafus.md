@@ -10,7 +10,7 @@ d)
 
 e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
 
-f) az egyéb igazságügyi alkalmazottak tekintetében az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató)
+f) az egyéb igazságügyi alkalmazottak tekintetében – ha törvény eltérően nem rendelkezik – az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató)
 
 gyakorolja.
 
