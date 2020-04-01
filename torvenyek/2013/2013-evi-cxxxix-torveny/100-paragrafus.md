@@ -30,7 +30,7 @@ a) olyan magatartást tanúsított, amely az MNB rendeltetésszerű működésé
 
 b) száznyolcvan napon túl nem képes eleget tenni a megbízatásából eredő feladatainak.
 
-(10) A felmentésre vonatkozó kezdeményezést a Pénzügyi Békéltető Testület elnöke részére meg kell küldeni, aki az Mt. szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet, illetve a jogerős bírósági döntést a Pénzügyi Békéltető Testület elnöke az MNB elnökének haladéktalanul megküldi. Az MNB elnökének határozatával szemben jogorvoslatnak nincs helye.
+(10) A felmentésre vonatkozó kezdeményezést a Pénzügyi Békéltető Testület elnöke részére meg kell küldeni, aki az Mt. szabályai szerint bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet, illetve a jogerős bírósági döntést a Pénzügyi Békéltető Testület elnöke az MNB elnökének haladéktalanul megküldi. Az MNB elnökének határozatával szemben jogorvoslatnak nincs helye.
 
 (11) A Pénzügyi Békéltető Testület elnöke összeférhetetlenségének kimondására vagy felmentésére a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a kezdeményezés tekintetében meghozott bírósági döntés jogerőre emelkedését követően kerülhet sor.
 

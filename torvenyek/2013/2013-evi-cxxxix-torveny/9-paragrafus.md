@@ -50,7 +50,7 @@ d) halállal.
 
 (11) A (4) bekezdés c) pontja szerinti tagok választására és felmentésére az Országgyűlés gazdasági ügyekért felelős állandó bizottsága tesz javaslatot az Országgyűlés számára.
 
-(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
+(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
 (13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
 

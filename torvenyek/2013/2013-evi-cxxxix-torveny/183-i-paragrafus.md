@@ -1,1 +1,1 @@
-183/I. § A 2018. január 1. napján már folyamatban lévő azon engedélyezési, ellenőrzési, fogyasztóvédelmi ellenőrzési és piacfelügyeleti eljárásokban, ahol az MNB érdemi határozatot még nem hozott, illetve az eljárást még nem szüntette meg, e törvénynek a 2017. december 31-én hatályos rendelkezéseit kell alkalmazni az eljárás egésze tekintetében, és a döntések végrehajtása során azzal, hogy ahol e törvény Fővárosi Közigazgatási és Munkaügyi Bíróságot említ, azon Fővárosi Törvényszéket kell érteni és a bíróság az MNB döntését nem változtathatja meg.
+### 183/I. §
