@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-85-00-00
 | 2015-01-01 | 2014. évi LXXII. törvény | 2001-85-00-00.15 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2001-85-00-00.16 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2001-85-00-00.17 |
+| 2020-04-01 | 2019. évi CXXVII. törvény | 2001-85-00-00.18 |
