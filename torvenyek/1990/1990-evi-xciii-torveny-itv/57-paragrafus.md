@@ -1,6 +1,6 @@
 57. § (1) Illetékmentes a polgári és közigazgatási ügyekben:
 
-a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból megszünteti, vagy a Csődtv. 29. § (3) bekezdése alapján hivatalból megszünteti, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
+a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati és jogegységi panasz eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból megszünteti, vagy a Csődtv. 29. § (3) bekezdése alapján hivatalból megszünteti, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
 
 b) a költségkedvezmény tárgyában hozott határozat elleni jogorvoslati eljárás;
 
@@ -26,7 +26,7 @@ l) a helyi önkormányzat adósságrendezési eljárása;
 
 m) az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása;
 
-n) az eredményes alkotmányjogi panasz alapján induló eljárás;
+n) az eredményes alkotmányjogi panasz és a jogegységi panasz alapján induló eljárás;
 
 o) a személyes adatok védelmével, illetve a közérdekű adatok nyilvánosságával összefüggésben indított per;
 
@@ -70,7 +70,9 @@ f) a sértett részére másolat egyszeri kiadása az olyan eljárási cselekmé
 
 g) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, illetve az írásban tett feljelentés megtételét igazoló irat másolatának egyszeri kiadása;
 
-h) az elektronikus formában, elektronikus okiratként vagy papíralapú okirat elektronikus másolataként (a továbbiakban együtt: elektronikus formában) rendelkezésre álló ügyirat másolatának elektronikus kapcsolattartás útján vagy elektronikus levelezési címre történő továbbítása.
+h) az elektronikus formában, elektronikus okiratként vagy papíralapú okirat elektronikus másolataként (a továbbiakban együtt: elektronikus formában) rendelkezésre álló ügyirat másolatának elektronikus kapcsolattartás útján vagy elektronikus levelezési címre történő továbbítása;
+
+i) az eredményes jogegységi panasz alapján indult eljárás.
 
 (3) Illetékmentes:
 

@@ -20,4 +20,4 @@ d) a Kúria előtt:
 
 – fellebbezési eljárásban 500 000 forint,
 
-– felülvizsgálati eljárásban 700 000 forint.
+– felülvizsgálati és jogegységi panasz eljárásban 700 000 forint.
