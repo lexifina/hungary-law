@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-66-00-00
 | 2019-07-26 | 2019. évi LXX. törvény | 1994-66-00-00.27 |
 | 2020-01-01 | 2019. évi CXXVI. törvény | 1994-66-00-00.28 |
 | 2020-03-01 | 2019. évi CX. törvény | 1994-66-00-00.29 |
+| 2020-04-01 | 2019. évi CXXVII. törvény | 1994-66-00-00.30 |
