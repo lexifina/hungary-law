@@ -1,1 +1,1 @@
-3/A. § A közigazgatási és munkaügyi regionális kollégiumok számát, elnevezését és illetékességi területét a 4. melléklet tartalmazza.
+3/A. § A közigazgatási kollégiummal működő törvényszékek közigazgatási jogvitákban a 4. mellékletben meghatározott illetékességi területen járnak el.

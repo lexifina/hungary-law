@@ -4,4 +4,4 @@
 
 (3) Hatályát veszti az ítélőtáblák és a fellebbviteli ügyészi szervek székhelyének és illetékességi területének megállapításáról szóló 2002. évi XXII. törvény.
 
-(4) A Pest Megyei Munkaügyi Bíróság jogutódja a Budapest Környéki Munkaügyi Bíróság.
+(4)

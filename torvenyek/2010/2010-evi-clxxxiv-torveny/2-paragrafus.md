@@ -1,4 +1,4 @@
-2. § (1) A járásbíróság és a közigazgatási és munkaügyi bíróság székhelye – (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
+2. § (1) A járásbíróság székhelye – (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
 
 (2) A kerületi bíróságok székhelye Budapest.
 

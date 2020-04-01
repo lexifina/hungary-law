@@ -1,1 +1,1 @@
-9. § A közigazgatási és munkaügyi regionális kollégiumok az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel megállapított 4. mellékletben meghatározott illetékességgel 2018. január 1. napjától kezdődően működnek.
+9. §

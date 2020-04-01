@@ -1,20 +1,36 @@
 4. melléklet a 2010. évi CLXXXIV. törvényhez
 
-A közigazgatási és munkaügyi regionális kollégiumok és illetékességi területük
-
-1. ÉSZAK-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+A közigazgatási kollégiummal működő törvényszékek illetékességi területe közigazgatási jogvitákban
 
 |
 
-Borsod-Abaúj-Zemplén megye
+1. Fővárosi Törvényszék
+
+Budapest főváros
 
 |
 
-Heves megye
+|
+
+2. Budapest Környéki Törvényszék
 
 |
 
-2. ÉSZAK-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+|
+
+Nógrád megye
+
+|
+
+Pest megye
+
+|
+
+|
+
+3. Debreceni Törvényszék
+
+|
 
 |
 
@@ -28,31 +44,11 @@ Jász-Nagykun-Szolnok megye
 
 Szabolcs-Szatmár-Bereg megye
 
-3. DÉL-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
 |
 
-Bács-Kiskun megye
+4. Győri Törvényszék
 
 |
-
-Békés megye
-
-|
-
-Csongrád megye
-
-4. KÖZÉP-DUNA-VÖLGYI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-|
-
-Nógrád megye
-
-|
-
-Pest megye
-
-5. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 |
 
@@ -66,7 +62,27 @@ Komárom-Esztergom megye
 
 Vas megye
 
-6. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+|
+
+5. Miskolci Törvényszék
+
+|
+
+|
+
+Borsod-Abaúj-Zemplén megye
+
+|
+
+Heves megye
+
+|
+
+|
+
+6. Pécsi Törvényszék
+
+|
 
 |
 
@@ -80,7 +96,29 @@ Somogy megye
 
 Tolna megye
 
-7. KÖZÉP-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+|
+
+7. Szegedi Törvényszék
+
+|
+
+|
+
+Bács-Kiskun megye
+
+|
+
+Békés megye
+
+|
+
+Csongrád megye
+
+|
+
+8. Veszprémi Törvényszék
+
+|
 
 |
 
@@ -93,9 +131,3 @@ Veszprém megye
 |
 
 Zala megye
-
-8. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-|
-
-Budapest főváros
