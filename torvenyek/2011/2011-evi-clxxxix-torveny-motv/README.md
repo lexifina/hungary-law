@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2019-07-10 | 2019. évi LXVI. törvény | 2011-189-00-00.39 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2011-189-00-00.40 |
 | 2020-03-24 | 2020. évi VII. törvény | 2011-189-00-00.41 |
+| 2020-04-01 | 2019. évi CXXVII. törvény | 2011-189-00-00.42 |

@@ -26,6 +26,6 @@ c) önkormányzati vagyonról, vagyoni jogokról és kötelezettségekről szól
 
 (9) Az új község területéről a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. A megállapodásban az új község alakítására vonatkozó népszavazással érintett területtől eltérni nem lehet. Az új község külterülete a belterülethez kapcsolódó, egybefüggő terület. Eltérő megállapodás hiányában a település külterületét a belterületi népességgel arányosan kell megosztani.
 
-(10) Ha az új község vagyonára, területére vonatkozóan az önkormányzatok határidőn belül nem állapodnak meg, bármelyik érintett önkormányzat közigazgatási pert indíthat a szerződés bírósági létrehozása iránt.
+(10)
 
 (11) A községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az új község önkormányzata a törvényi feltételek keretei között polgármesteri hivatalt hoz létre vagy közös önkormányzati hivatalhoz (a továbbiakban: hivatal) csatlakozik. Eddig az időpontig az új község hivatali feladatait annak a településnek a hivatala látja el, amelyből az új község megalakult. A hivatal költségeinek viseléséről az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. Ennek hiányában a költségekhez az érintett önkormányzatok a települések lakosságszámának arányában járulnak hozzá.

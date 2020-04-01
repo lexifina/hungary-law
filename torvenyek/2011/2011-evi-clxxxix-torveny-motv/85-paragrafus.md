@@ -12,7 +12,7 @@
 
 (3c) A közös önkormányzati hivatal létrehozásáról szóló megállapodást és a kormányhivatal vezetője által pótolt közös önkormányzati hivatali megállapodást az érintett önkormányzatok szabadon módosíthatják. A módosító megállapodást a közös önkormányzati hivatal jegyzője megküldi az illetékes kormányhivatal részére.
 
-(3d) A kormányhivatal a közigazgatási és munkaügyi bíróságtól a módosító megállapodás kézhezvételétől számított harminc napon belül kérheti a módosító megállapodás érvénytelenségének megállapítását, ha a módosítás a közös önkormányzati hivatal működését ellehetetleníti.
+(3d) A kormányhivatal a bíróságtól a módosító megállapodás kézhezvételétől számított harminc napon belül kérheti a módosító megállapodás érvénytelenségének megállapítását, ha a módosítás a közös önkormányzati hivatal működését ellehetetleníti.
 
 (3e) A módosító megállapodás hatálybalépésének időpontja
 
@@ -20,7 +20,7 @@ a) a kormányhivatal (3d) bekezdésben meghatározott keresetindítási jogáró
 
 b) ha a kormányhivatal a számára a (3d) bekezdésben biztosított keresetindítási határidőben nem nyújt be keresetet, a keresetindítási határidő leteltét követő nap,
 
-c) ha a közigazgatási és munkaügyi bíróság jogerős döntésével elutasítja a kormányhivatal keresetét, a döntés jogerőre emelkedésének napja, vagy
+c) ha a bíróság jogerős döntésével elutasítja a kormányhivatal keresetét, a döntés jogerőre emelkedésének napja, vagy
 
 d) ha a módosító megállapodásban a megállapodás hatálybalépésének megjelölt időpontja az a)–c) pontokban meghatározott időpontoknál későbbi időpont, akkor a módosító megállapodásban megjelölt nap.
 
