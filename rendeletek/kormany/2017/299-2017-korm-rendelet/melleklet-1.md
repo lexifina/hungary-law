@@ -1,6 +1,6 @@
-## 28. §[^39]
+## 28. §[^49]
 
-1. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^40]
+1. melléklet a 299/2017. (X. 17.) Korm. rendelethez[^50]
 
 ## A megújuló energiaforrásból nyert energiával termelt villamos energia kötelező átvételi bázisára, valamint a pályázati eljárás alá nem tartozó zöld prémium támogatott bázisára
 
@@ -48,5 +48,5 @@ a) A 2020 előtti támogatási keretből kiadott támogatási jogosultságokra: 
 
 b) A 2020. évi vagy azt követő támogatási keretből kiadott támogatási jogosultságokra: 25,42 Ft/kWh.
 
-[^39]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: Az 1. melléklet a 99/2019. (IV. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^49]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: Az 1. melléklet a 99/2019. (IV. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.

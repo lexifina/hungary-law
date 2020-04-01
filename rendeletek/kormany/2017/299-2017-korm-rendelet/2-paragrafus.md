@@ -20,29 +20,30 @@
 
 9. kereskedelmi üzem: az erőműegység működésének az az időszaka, amikor a próbaüzem sikeres lezárása után értékesítésre termel villamos energiát;
 
-10. önfogyasztás: az erőműegység telephelyének teljes villamosenergia-fogyasztása, beleértve az erőműegység villamosenergia- és hőenergia-termelésének, a termelőeszközök üzemének és üzemeltetésének fenntartására a saját termelésből vagy a hálózatból felhasznált villamos energiát, valamint az erőműegységet tulajdonló gazdasági társaságnak és az erőműegység üzemeltetőjének a telephelyen történő minden egyéb célú villamosenergia-fogyasztását is;
+10.[^1] önfogyasztás: az erőműegység telephelyének teljes villamosenergia-fogyasztása, beleértve az erőműegység villamosenergia- és hőenergia-termelésének, a termelőeszközök üzemének és üzemeltetésének fenntartására a saját termelésből vagy a hálózatból felhasznált villamos energiát, valamint az erőműegységet tulajdonló gazdasági társaságnak és az erőműegység üzemeltetőjének a telephelyen történő, villamosenergia-tárolástól eltérő minden egyéb célú villamosenergia-fogyasztását is;
 
 11. premizált termelő: prémium típusú támogatásban részesülő villamosenergia-termelő;
 
-12.[^1] szabályozási pótdíj: a napi menetrend hiánya vagy a napi menetrendtől való eltérés esetén a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő által a befogadó számára fizetendő díj;
+12.[^2] szabályozási pótdíj: a KÁT termelőnek a menetrendjétől való, a KÁT mérlegkörrel megegyező irányú eltérése esetén a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő által a befogadó számára fizetendő díj;
 
 13. támogatott ár: a villamos energia ellenértéke, az az érték, amelyre a referencia piaci ár kiegészítésre kerül a prémium típusú támogatási rendszer keretében;
 
 14. tárgyév: a kötelező átvételi rendszerben történő értékesítés árai érvényességének éves időszaka minden év január 1-jétől december 31-éig;
 
-15.[^2] telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában, továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, valamint minden olyan, a termelő által meghatározott ingatlan, amely alkalmas a villamosenergia-termelési tevékenység végzésére;
+15.[^3] telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában, továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, valamint minden olyan, a termelő által meghatározott ingatlan, amely alkalmas a villamosenergia-termelési tevékenység végzésére;
 
 16. vegyes tüzelés: biomassza, biogáz, továbbá megújuló energiaforrástól eltérő energiaforrás ugyanazon technológiai (primerenergia-átalakítási) folyamatban, folyamatos működés mellett történő felhasználása;
 
 17. zöld prémium: a VET 11. § (2) bekezdés a) pontja szerinti, megújuló energiaforrások felhasználásával történő villamosenergia-termelést lehetővé tevő új beruházások ösztönzésére nyújtott prémium típusú támogatás.
 
-18.[^3] menetrend-csoport képviselő: a KÁT termelők által összevont menetrendadás céljából kijelölt – a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti – gazdálkodó szervezet;
+18.[^4] menetrend-csoport képviselő: a KÁT termelők által összevont menetrendadás céljából kijelölt – a polgári perrendtartásról szóló 2016. évi CXXX. törvény szerinti – gazdálkodó szervezet;
 
-19.[^4] szabályozási bónusz: a napi menetrend vagy a napon belüli menetrend e rendeletben meghatározott pontossága esetén a befogadó által a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő részére fizetendő díj.
+19.[^5] szabályozási bónusz: a napi menetrend vagy a napon belüli menetrend e rendeletben meghatározott pontossága esetén a befogadó által a KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő részére fizetendő díj.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, valamint a felhatalmazásuk alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
-[^1]: A 2. § (1) bekezdés 12. pontja a 22. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés 15. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés 18. pontját a 22. § (2) bekezdése iktatta be.
-[^4]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be.
+[^1]: A 2. § (1) bekezdés 10. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 12. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés 15. pontja a 370/2019. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 18. pontját a 22. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 19. pontját a 22. § (2) bekezdése iktatta be.

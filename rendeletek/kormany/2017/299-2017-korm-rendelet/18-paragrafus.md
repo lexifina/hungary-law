@@ -20,14 +20,14 @@ d) határidőt a kereskedelmi üzem megkezdésére.
 
 (4) Kötelező átvételi jogosultság vagy prémium típusú támogatás nem állapítható meg azon termelő javára, akinek esetében a 20. § szerinti kizáró okok valamelyike fennáll.
 
-(5)[^33] A KÁT mérlegkörbe való termelés a próbaüzem kezdetétől lehetséges. A befogadó a Hivatal határozatában megállapított időtartam és a kötelező átvételre kerülő éves villamosenergia-mennyiség szorzataként számított összes kötelező átvételre kerülő villamosenergia-mennyiséget (a továbbiakban: összes átveendő energia) folyamatosan – az éves mennyiség szerinti megszakítás alkalmazása nélkül – veszi át. A kötelező átvételi jogosultság a kötelező átvételre meghatározott időtartam leteltével vagy az összes átveendő energia értékesítésével egyaránt megszűnik.
+(5)[^39] A KÁT mérlegkörbe való termelés a próbaüzem kezdetétől lehetséges. A befogadó a Hivatal határozatában megállapított időtartam és a kötelező átvételre kerülő éves villamosenergia-mennyiség szorzataként számított összes kötelező átvételre kerülő villamosenergia-mennyiséget (a továbbiakban: összes átveendő energia) folyamatosan – az éves mennyiség szerinti megszakítás alkalmazása nélkül – veszi át. A kötelező átvételi jogosultság a kötelező átvételre meghatározott időtartam leteltével vagy az összes átveendő energia értékesítésével egyaránt megszűnik.
 
 (6) A prémium típusú támogatásra vonatkozó jogosultság a támogatásra meghatározott időtartam leteltével vagy a támogatásra jogosult maximális villamosenergia-mennyiség értékesítésével megszűnik.
 
-(7)[^34] Kötelező átvételi jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 81/2018. (IV. 20.) Korm. rendelet hatálybalépését követő 5. napig nyújtható be a Hivatal részére.
+(7)[^40] Kötelező átvételi jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 81/2018. (IV. 20.) Korm. rendelet hatálybalépését követő 5. napig nyújtható be a Hivatal részére.
 
-(8)[^35] A pályázati eljárás alá nem tartozó zöld prémium típusú támogatási jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 99/2019. (IV. 30.) Korm. rendelet (a továbbiakban: MódR.) hatálybalépését követően nem nyújtható be a Hivatal részére.
+(8)[^41] A pályázati eljárás alá nem tartozó zöld prémium típusú támogatási jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 99/2019. (IV. 30.) Korm. rendelet (a továbbiakban: MódR.) hatálybalépését követően nem nyújtható be a Hivatal részére.
 
-[^33]: A 18. § (5) bekezdése a 99/2019. (IV. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^34]: A 18. § (7) bekezdését a 81/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
-[^35]: A 12. § (8) bekezdését a 99/2019. (IV. 30.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A 18. § (5) bekezdése a 99/2019. (IV. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^40]: A 18. § (7) bekezdését a 81/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
+[^41]: A 12. § (8) bekezdését a 99/2019. (IV. 30.) Korm. rendelet 4. §-a iktatta be.
