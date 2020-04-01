@@ -37,3 +37,5 @@ hozta meg.
 (4) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálati indítvány terjeszthető elő, ha nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, hogy az eljárás lefolytatása vagy a bíróság jogerős ügydöntő határozata megsértette a törvényben kihirdetett nemzetközi szerződés valamely rendelkezését, feltéve, hogy a nemzetközi emberi jogi szerv joghatóságának Magyarország alávetette magát.
 
 (5) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálatnak akkor is helye van, ha a nemzetközi szerződéssel létrehozott emberi jogi szerv a nemzetközi szerződés azon rendelkezésének megsértését állapította meg, amely olyan eljárási szabálysértést valósított meg, amely e törvény szerint felülvizsgálattal nem, csak fellebbezéssel támadható.
+
+(6) A Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától való eltérés esetén felülvizsgálati indítvány akkor terjeszthető elő, ha az eltérés a büntető anyagi jog szabályainak (1) bekezdésben meghatározott megsértését eredményezte vagy a (2) bekezdésben meghatározott eljárási szabálysértést eredményezett.

@@ -30,4 +30,6 @@ d) azoknak a bizonyítékoknak a megjelölését, amelyekre a bíróság a dönt
 
 e) a bíróság által megállapított tényállás szerinti cselekmény minősítését,
 
-f) a határozat egyéb rendelkezéseinek és az indítványok, így különösen a bizonyítási indítványok elutasításának indokolását, az alkalmazott jogszabályok megjelölésével.
+f) a határozat egyéb rendelkezéseinek és az indítványok, így különösen a bizonyítási indítványok elutasításának indokolását, az alkalmazott jogszabályok megjelölésével,
+
+g) azokat az indokokat, amelyek miatt a bíróság – a 649. § (1) és (2) bekezdésében meghatározott, felülvizsgálati eljárás alapjául szolgáló kérdésben – eltért a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, ide nem értve a jogegységi határozatot.

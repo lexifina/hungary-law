@@ -1,4 +1,4 @@
-652. § (1) A felülvizsgálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati indítvány irányul, valamint az indítvány előterjesztésének okát és célját.
+652. § (1) A felülvizsgálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati indítvány irányul, valamint az indítvány előterjesztésének okát és célját. A 649. § (6) bekezdése esetén meg kell jelölni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ügydöntő határozat eltér.
 
 (2) A felülvizsgálati indítványnak tartalmaznia kell az indítványozó kézbesítésre alkalmas elérhetőségét.
 

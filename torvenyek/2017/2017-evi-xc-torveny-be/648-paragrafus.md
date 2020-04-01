@@ -10,6 +10,8 @@ a) a büntető anyagi jog szabályainak megsértése miatt,
 
 b) eljárási szabálysértés miatt,
 
-c) az Alkotmánybíróság vagy nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján
+c) az Alkotmánybíróság vagy nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján,
+
+d) a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától való eltérés esetén
 
 van helye.

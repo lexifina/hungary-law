@@ -24,4 +24,4 @@ b) a bíróságnak az (1) bekezdésben meghatározott döntését,
 
 c) az 561. § (2) bekezdés b) pontjában meghatározott személyes adatot abban az esetben, ha az megváltozott.
 
-(4) A határozat indokolása tartalmazza az elsőfokú bíróság ítélete rendelkező részének és a másodfokú bíróság mellett működő ügyészség indítványának lényegét, azt, hogy ki, miért fellebbezett, és kifejti a bíróság döntésének indokait, szükség esetén az 561. § (3) bekezdés b)–f) pontjában, az 564. § (4) bekezdés a), illetve b) pontjában, az 566. § (4) bekezdésében vagy az 567. § (5) bekezdésében meghatározottak feltüntetésével.
+(4) A határozat indokolása tartalmazza az elsőfokú bíróság ítélete rendelkező részének és a másodfokú bíróság mellett működő ügyészség indítványának lényegét, azt, hogy ki, miért fellebbezett, és kifejti a bíróság döntésének indokait, szükség esetén az 561. § (3) bekezdés b)–g) pontjában, az 564. § (4) bekezdés a), illetve b) pontjában, az 566. § (4) bekezdésében vagy az 567. § (5) bekezdésében meghatározottak feltüntetésével.
