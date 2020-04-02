@@ -1,13 +1,13 @@
-239. § Hatályát veszti a Kp.
+239. §
 
 a)
 
 b)
 
-c) 32. § c) pontjában az „a Kúriánál” szövegrész,
+c)
 
 d)
 
-e) 101. §-a,
+e)
 
-f) 120. § (3) bekezdése.
+f)

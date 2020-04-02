@@ -1,3 +1,1 @@
-245. § A Be. Átmeneti rendelkezések alcíme a következő 876/A. §-sal egészül ki:
-
-„876/A. § E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 561. § (3) bekezdés g) pontját, 604. § (4) bekezdését, 636. § (3) bekezdését, 648. § d) pontját, 649. § (6) bekezdését, 652. § (1) bekezdését és 670. § (6) bekezdését a bíróság 2020. július 1-jén vagy az azt követően meghozott ügydöntő határozata vonatkozásában kell alkalmazni.”
+245. §

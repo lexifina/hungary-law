@@ -1,3 +1,3 @@
 ## 27. Az európai üzemi tanács létrehozásáról, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakításáról szóló 2003. évi XXI. törvény módosítása
 
-34. § Az európai üzemi tanács létrehozásáról, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakításáról szóló 2003. évi XXI. törvény 23. § (2) bekezdésében a „közigazgatási és munkaügyi bíróság” szövegrész helyébe a „munkaügyi perben eljáró bíróság” szöveg lép.
+34. §

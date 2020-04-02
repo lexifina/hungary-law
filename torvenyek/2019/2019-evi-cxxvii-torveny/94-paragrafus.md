@@ -1,7 +1,1 @@
-94. § A Bjt. 13. §-a helyébe a következő rendelkezés lép:
-
-„13. § (1) Ha a pályázó pályázata elkésett, azt a bíróság elnöke – a (2) bekezdésben foglalt kivétellel – elutasítja. A bíróság elnöke a hiányos pályázatot benyújtó pályázót [12. §, 45. § (1) bekezdés] rövid határidő tűzésével felhívja a hiányok pótlására, ennek elmulasztása esetén a pályázatot elutasítja.
-
-(2) Ha a járásbíróság elnökéhez benyújtott pályázat hiányos vagy elkésett, a járásbíróság elnöke az (1) bekezdésben foglalt intézkedések megtétele érdekében a pályázatot haladéktalanul megküldi a törvényszék elnökének.
-
-(3) Az (1) bekezdés szerinti elutasító döntést a pályázó 3 napon belül az elsőfokú szolgálati bíróság előtt kifogásolhatja. Az elsőfokú szolgálati bíróság a kifogást, annak előterjesztését követő 8 napon belül – a felek meghallgatása nélkül, tanácsülésen – bírálja el, és döntését nyomban közli a pályázóval és a bíróság elnökével. Ha az elsőfokú szolgálati bíróság a kérelemnek helyt ad, az elutasító döntést hatályon kívül helyezi. Az elsőfokú szolgálati bíróság határozatával szemben további jogorvoslatnak nincs helye.”
+94. §

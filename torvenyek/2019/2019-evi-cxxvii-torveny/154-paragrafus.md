@@ -1,4 +1,4 @@
-154. § Hatályát veszti az Üjt.
+154. §
 
 a)
 

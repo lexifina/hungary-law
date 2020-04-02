@@ -1,7 +1,5 @@
-17. § Az Nbtv.
+17. §
 
 a)
 
-b) 72/D. § (10) bekezdésében a „Fővárosi Közigazgatási és Munkaügyi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék” szöveg
-
-lép.
+b)

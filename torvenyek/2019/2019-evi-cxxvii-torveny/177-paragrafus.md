@@ -1,13 +1,13 @@
-177. § Hatályát veszti az Mnbtv.
+177. §
 
-a) 9. § (12) bekezdésében a „közigazgatási és munkaügyi” szövegrész,
+a)
 
-b) 10. § (5) bekezdésében a „közigazgatási és munkaügyi” szövegrész,
+b)
 
 c)
 
 d)
 
-e) 100. § (10) bekezdésében a „közigazgatási és munkaügyi” szövegrész,
+e)
 
-f) 183/I. §-a.
+f)
