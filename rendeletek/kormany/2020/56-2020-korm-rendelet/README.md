@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-56-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-01 | 2020-56-20-22.1 | 56/2020. (III. 20.) Korm. rendelet |
+| 2020-04-02 | 2020-56-20-22.2 | 2010: CXXX. törvény |
