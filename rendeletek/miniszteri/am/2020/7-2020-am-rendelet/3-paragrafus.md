@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Duna mente természetes állapotára jellemző élőhelyek maradványainak megőrzése, különös tekintettel a területen található mocsárrétek és puhafás ligeterdők táji és természeti értékeire.
