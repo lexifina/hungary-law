@@ -1,4 +1,4 @@
-17. § A Kbt.
+17. §
 
 1.
 
@@ -14,11 +14,11 @@
 
 7.
 
-8. 61. § (4) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
+8.
 
 9.
 
-10. 66. § (6) bekezdésében az „eljárást megindító felhívásban” szövegrész helyébe a „dokumentumokban”,
+10.
 
 11.
 
@@ -26,15 +26,15 @@
 
 13.
 
-14. 71. § (6) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
+14.
 
-15. 75. § (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
+15.
 
-16. 77. § (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
+16.
 
-17. 81. § (4) és (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
+17.
 
-18. 104. § (6) bekezdésében az „eljárást megindító felhívásban” szövegrész helyébe a „dokumentumokban”,
+18.
 
 19.
 
@@ -59,5 +59,3 @@
 29.
 
 30.
-
-szöveg lép.
