@@ -46,15 +46,13 @@
 
 |  | - Veleučilišta i visoke škole u Republici Hrvatskoj |  |  |
 
-| 14. | Írország/Ireland | 1. Certificate in Midwifery (1) | 1. An Bórd Altranais (The Nursing Board) [up to 2012.10.1.]; | Registered Midwife (RM) | 1983.1.23. |
-
-|  | Bórd Altranais agus Cnáimh-seachais na hEireann (The Nursing and Midwifery Board of Ireland, NMBI) [from 2012.10.2.]. |  |  |
+| 14. | Írország/Ireland | 1. Certificate in Midwifery (1) | 1. An Bórd Altranais (The Nursing Board) (2012. október 1-ig); Bórd Altranais agus Cnáimhseachais na hEireann (The Nursing and Midwifery Board of Ireland, NMBI) (2012. október 2-től). | Registered Midwife (RM) | 1983.1.23. |
 
 | 2. B.Sc. in Midwifery approved by the NMBI (2) | 2. A third-level Institution delivering a Midwifery education programme approved by the NMBI |  |  |
 
-| 3. Higher/Post-graduate Diploma in Midwifery approved by the NMBI (2) | 3. Third-level Institution delivering Higher/Post-graduate Diploma in Midwifery approved by the NMBI |  |  |
+| 3. Higher/Post-graduate Diploma in Midwifery approved by the NMBI (2) | 3. Third-level Institution delivering Higher/Postgraduate Diploma in Midwifery approved by the NMBI |  |  |
 
-| 15. | Lengyelország/ Polska | - Dyplom ukończenia studiów wyższych na kierunku położnictwo z tytułem »magister położnictwa« - Dyplom ukończenia studiów wyższych zawodowych na kierunku/ specjalności położnictwo z tytułem »licencjat położ-nictwa« | Instytucja prowadząca kształcenie na poziomie wyższym uznana przez właściwe władze (Higher education institution recognised by the competent authorities) | Położna | 2004.5.1. |
+| 15. | Lengyelország/ Polska | - Dyplom ukończenia studiów wyższych na kierunku położnictwo z tytułem »magister położnictwa« - Dyplom ukończenia studiów wyższych zawodowych na kierunku/ specjalności położnictwo z tytułem »licencjat położ-nictwa« | Instytucja prowadząca kształcenie na poziomie wyższym uznana przez właściwe władze (az illetékes hatóságok által elismert felsőoktatási intézmény) | Położna | 2004.5.1. |
 
 | 16. | Izland/ Ísland | 1. Embættispróf í ljósmóðurfræði (Szülésznői oklevél) | 1. Háskóli Íslands (Izlandi Egyetem) |  | 1994.1.1. |
 
@@ -64,15 +62,15 @@
 
 | 19. | Litvánia/Lietuva | 1. Aukštojo mokslo diplomas, nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją, ir profesinės kvalifikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją | 1. Universitetas | Akušeris | 2004.5.1. |
 
-| - Pažymėjimas, liudijantis akušerio profesinę praktiką |  |  |  |
+| – Pažymėjimas, liudijantis akušerio profesinę praktiką |  |  |  |
 
 | 2. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją, ir profesinės kvalifikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją | 2. Kolegija |  |  |
 
-| - Pažymėjimas, liudijantis akušerio profesinę praktiką |  |  |  |
+| – Pažymėjimas, liudijantis akušerio profesinę praktiką |  |  |  |
 
 | 3. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą akušerio profesinę kvalifikaciją | 3. Kolegija |  |  |
 
-| 4. Bakalauro diplomas (slaugos bakalauro kvalifikacinis laipsnis ir bendrosios praktikos augytojo profesinė kvalifikacija) Ir Profesinės kvalifikacijos pažymėjimas (akušerio profesinė kvalifikacija) | 4. Universitetas |  |  |
+| 4. Bakalauro diplomas (slaugos bakalauro kvalifikacinis laipsnis ir bendrosios praktikos slaugytojo profesinė kvalifikacija) Ir Profesinės kvalifikacijos pažymėjimas (akušerio profesinė kvalifikacija) | 4. Universitetas |  |  |
 
 | 5. Profesinio bakalauro diplomas (slaugos profesinio bakalauro kvalifikacinis laipsnis ir bendrosios praktikos slaugytojo profesinė kvalifikacija) Ir Profesinės kvalifikacijos pažymėjimas (akušerio profesinė kvalifikacija) | 5. Kolegija |  |  |
 
@@ -206,7 +204,7 @@
 
 ## 2. az 1. pont 1.3. alpontja szerinti - az adott tagállam illetékes hatósága által kibocsátott - igazolás tanúsítja, hogy birtokosa az előírt szülésznői képesítés megszerzését tanúsító okirat megszerzését követően, kórházban vagy egy erre engedéllyel rendelkező egészségügyi intézményben, a megfelelő ideig kielégítő módon gyakorolta a szülésznői tevékenységek teljes körét.
 
-5. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^16]
+5. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^17]
 
 A) A gyógyszerészek számára előírt képesítés megszerzését tanúsító okiratok
 
@@ -334,4 +332,4 @@ a volt Jugoszláviában kezdték meg, amennyiben az érintett tagállam hatósá
 
 10. Amennyiben az adott gyógyszerészi tevékenység végzéséhez az A) pont szerinti oklevél megszerzése mellett a külön jogszabály szakmai gyakorlat követelményét írja elő, a szakmai gyakorlathoz kötött gyógyszerészi tevékenység megkezdésének feltételeként előírt gyakorlat igazolásaként el kell fogadni a tagállami állampolgár származási vagy küldő tagállamának illetékes hatósága által kiadott olyan igazolást, amely tanúsítja, hogy a tagállami állampolgár a gyógyszerészi tevékenységet a külön jogszabályban előírttal azonos ideig gyakorolta a származási vagy küldő tagállamban.
 
-[^16]: Az 5. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § e) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (5) bekezdése szerint módosított szöveg.
+[^17]: Az 5. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § e) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (5) bekezdése szerint módosított szöveg.

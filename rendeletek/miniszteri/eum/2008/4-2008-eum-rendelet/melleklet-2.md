@@ -10,13 +10,11 @@
 
 | 3. | Bulgária/ България | Диплома за висше образование на образователно-квалифи- кационна степен »магистър« по Медицина и професионална квалификация »Магистър-лекар« | Университет |  | 2007.1.1. |
 
-| 4. | Ciprus/Κύπρος | Πιστοποιητικό Εγγραφής Ιατρού | Ιατρικό Συμβούλιο |  | 2004.5.1. |
+| 4. | Ciprus/Κύπρος | Πιστοποιητικό Εγγραφής Ιατρού Πτυχίο Ιατρικής | Ιατρικό Συμβούλιο Ιατρικη σχολη πανεπιστημιου κυπρου (1) Ευρωπαϊκό Πανεπιστήμιο Κύπρου (2) Πανεπιστήμιο Λευκωσίας (3) |  | 2004.5.1. |
 
 | 5. | Cseh Köztársaság/ Česká Republika | Diplom o ukončení studia ve studijním programu všeobecné lékařství (doktor medicíny, MUDr.) | Lékářská fakulta univerzity v České republice |  | 2004.5.1. |
 
-| 6. | Dánia/ Danmark | Bevis for kandidatuddannelsen i medicin (cand.med.) Bevis for bestået lægevidenskabelig embedseksamen (cand. med.) | Universitet Styrelsen for Patientsikkerhed Medicinsk universitetsfakultet | - Autorisation som læge, udstedt af Sundhedssty-relsen og - Tilladelse til selvstændigt virke som læge (dokumentation for gennemført praktisk uddannelse), udstedt af Sundhedssty-relsen | 1976.12.20. |
-
-|  |  | - Autorisation som læge og tilladelse til selvstændigt virke som læge |  |
+| 6. | Dánia/Danmark | Bevis for kandidatud- dannelsen i medicin (cand.med.) Bevis for bestáet líegevidenskabelig embedseksamen (cand.med.) | Universitet | 1. Autorisation som líege 2. Tilladelse til selvstaaidigt virke som líege | 1976.12.20. |
 
 | 7. | Egyesült Királyság/United Kingdom | Primary qualification | Competent examining body | Certificate of experience | 1976.12.20. |
 
@@ -36,7 +34,7 @@
 
 | 15. | Izland/ Ísland | Embættispróf í læknisfræði, candidatus medicinae (cand. Med.) | Háskóli Íslands | Vottorð um viðbótarnám (kandidatsár) útgefið af Heilbrigðis-og Tryggingamála-ráðuneytinu | 1994.1.1. |
 
-| 16. | Lengyelország/ Polska | Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem »lekarza« | szkoły wyższe | Świadectwo złożenia Lekarskiego Egzaminu Państwowego (1) (3) /Świadectwo złożenia Lekarskiego Egzaminu Końcowego (2) (3) | 2004.5.1. |
+| 16. | Lengyelország/ Polska | Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem »lekarza« | szkoły wyższe | Świadectwo złożenia Lekarskiego Egzaminu Państwowego (4)/Świadectwo złożenia Lekarskiego Egzaminu Końcowego (5) Zaświadczenie o ukończeniu stażu podyplomowego | 2004.5.1. |
 
 | 17. | Lettország/Latvija | ārsta diploms | Universitātes tipa augstskola |  | 2004.5.1. |
 
@@ -62,7 +60,7 @@
 
 | 26. | Portugália/ Portugal | Carta de Curso de licenciatura em medicina Certificado de mestrado integrado em medicina | Universidades | Certificado emitido pela Ordem dos Médicos | 1986.1.1. |
 
-| 27. | Románia/ România | Diplomă de licenţă de doctor medic Diploma de licență şi master (4) | Universităţi Ministerul Educației Naționale (4) |  | 2007.1.1. |
+| 27. | Románia/ România | Diplomă de licenţă de doctor medic Diploma de licenţă şi master (6) | Universităţi Ministerul Educaţiei Naţionale (6) |  | 2007.1.1. |
 
 | 28. | Spanyolország/ España | Título de Licenciado en Medicina y Cirugía Título de Licenciado en Medicina Título de Graduado/a en Medicina | - Ministerio de Educación y Cultura - El rector de una Universidad |  | 1986.1.1. |
 
@@ -74,7 +72,7 @@
 
 | 32. | Szlovákia/ Slovensko | DIPLOM všeobecné lekárstvo doktor všeobecného lekárstva (»MUDr.«) | Univerzita |  | 2004.5.1. |
 
-|  | (1) 2012-ig. (2) 2013-tól. (3) 2017. október 1-jéig az előírt képesítés megszerzését tanúsító okirathoz mellékelni kell a posztgraduális szakmai gyakorlat teljesítéséről szóló igazolást (»staż podyplomowy«). (4) 2011-től. |
+|  | (1) 2013. szeptembertől. (2) 2013. szeptembertől. (3) 2014. októbertől. (4) 2012-ig. (5) 2013-tól. (6) 2011-től. |
 
 ## B) A szakorvosok számára előírt képesítés megszerzését tanúsító okiratok
 
@@ -92,7 +90,7 @@
 
 | 5. | Cseh Köztársaság/ Česká Republika | Diplom o specializaci | Ministerstvo zdravotnictví | 2004.5.1. |
 
-| 6. | Dánia/ Danmark | Bevis for tilladelse i lat betegne sig som speciallæge | Sundhedsstyrelsen Styrelsen for Patientsikkerhed | 1976.12.20. |
+| 6. | Dánia/ Danmark | Bevis for tilladelse til at betegne sig som specialk-ege | Sundhedsstyrelsen Styrelsen for Patientsikkerhed | 1976.12.20. |
 
 | 7. | Egyesült Királyság/United Kingdom | Certificate of Completion of training | Postgraduate Medical Education and Training Board General Medical Council | 1976.12.20. 2010.4.1. |
 
@@ -810,7 +808,7 @@
 
 | 20. | Luxemburg/Luxembourg | Chirurgie plastique | Biologie clinique |
 
-| 21. | Magyarország | Plasztikai és égés- sebészet | Orvosi laboratóriumi diagnosztika |
+| 21. | Magyarország | – Plasztikai (égési) sebészet – Plasztikai és égés-sebészet (6) | Orvosi laboratóriumi diagnosztika |
 
 | 22. | Málta/Malta | Kirurġija Plastika |  |
 
@@ -834,7 +832,7 @@
 
 | 32. | Szlovénia/Slovenija | Plastična, rekonstrukcijska in estetska kirurgija |  |
 
-|  | (1) 2006-tól. (2) 2012-től. (3) 2015. júniustól. (4) 2015. júniustól. (5) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1994. december 30. |
+|  | (1) 2006-tól. (2) 2012-től. (3) 2015. júniustól. (4) 2015. júniustól. (5) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1994. december 30. (6) 2012. októbertől. |
 
 ## 10. Mikrobiológia és bakteriológia és Biokémia
 
@@ -946,7 +944,7 @@
 
 | 12. | Hollandia/Nederland |  | Cardio-thoracale chirurgie |
 
-| 13. | Horvátország/Hrvatska | Alergologija i klinička imunologija |  |
+| 13. | Horvátország/Hrvatska | Alergologija i klinička imunologija | Specijalist kardiotorakalna kirurgija (4) |
 
 | 14. | Írország/Ireland | Immunology (clinical and laboratory) | Cardiothoracic surgery |
 
@@ -986,7 +984,7 @@
 
 | 32. | Szlovénia/Slovenija |  | Torakalna kirurgija |
 
-|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2015. júniustól. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2017. június 14. |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2015. júniustól. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2017. június 14. (4) 2011. szeptembertől. |
 
 ## 12. Gyermeksebészet és Érsebészet
 
@@ -1024,7 +1022,7 @@
 
 | 13. | Horvátország/Hrvatska | Dječja kirurgija | Vaskularna kirurgija |
 
-| 14. | Írország/Ireland | Paediatric surgery |  |
+| 14. | Írország/Ireland | Paediatric surgery | Vascular surgery (2) |
 
 | 15. | Izland/ Ísland | Barnaskurðlkæningar | Æðaskurðleakningar |
 
@@ -1062,7 +1060,7 @@
 
 | 32. | Szlovénia/Slovenija |  | Kardiovaskularna kirurgija |
 
-|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2017. júniustól. |
 
 ## 13. Kardiológia és Gasztroenterológia
 
@@ -1266,7 +1264,7 @@
 
 | 20. | Luxemburg/Luxembourg | Endocrinologie, maladies du métabolisme et de la nutrition | Rééducation et réadaptation fonctionnelles |
 
-| 21. | Magyarország | Endokrinológia Endokrinológia és anyag-cserebetegségek | Fizikális medicina és rehabilitációs orvoslás Rehabilitációs medicina (4) |
+| 21. | Magyarország | – Endokrinológia – Endokrinológia és anyagcserebetegségek (4) | Fizikális medicina és rehabilitációs orvoslás – Rehabilitációs medicina (5) |
 
 | 22. | Málta/Malta | Endokrinoloġija u Dijabete |  |
 
@@ -1290,7 +1288,7 @@
 
 | 32. | Szlovénia/Slovenija |  | Fizikalna in rehabilitacijska medicina |
 
-|  | (1) 2009. októbertől. (2) 2015. februártól. (3) 2008. szeptembertől. (4) 2016. szeptembertől. |
+|  | (1) 2009. októbertől. (2) 2015. februártól. (3) 2008. szeptembertől. (4) 2012. októbertől. (5) 2016. októbertől. |
 
 ## 16. Neuropszichiátria és Bőr-és nemibeteg-gyógyászat
 
@@ -1560,7 +1558,7 @@
 
 | 16 | Izland/ Ísland | Smitsjúkdómar | Félagslækningar |
 
-| 17. | Lengyelország/Polska | Choroby zakaźne | Zdrowie publiczne, epidemiologia (1) |
+| 17. | Lengyelország/Polska | Choroby zakaźne | Zdrowie publiczne, epidemiologia |
 
 | 18. | Lettország/Latvija | Infektoloģija |  |
 
@@ -1582,7 +1580,7 @@
 
 | 27. | Portugália/Portugal | Doenças infecciosas | Saúde pública |
 
-| 28. | Románia/România | Boli infecţioase | publică şi management |
+| 28. | Románia/România | Boli infecţioase | Sănătate publică şi management |
 
 | 29. | Spanyolország/España |  | Medicina preventiva y salud pública |
 
@@ -1646,7 +1644,7 @@
 
 | 20. | Luxemburg/Luxembourg |  | Médecine du travail |
 
-| 21. | Magyarország | Klinikai farmakológia | Foglalkozás-orvostan (üzemorvostan) Foglalkozás-orvostan |
+| 21. | Magyarország | Klinikai farmakológia | Foglalkozás-orvostan (üzemorvostan) |
 
 | 22. | Málta/Malta | Farmakoloġija Klinika u t-Terapewtika | Mediċina Okkupazzjonali |
 
@@ -1874,7 +1872,7 @@
 
 | 20. | Luxemburg/Luxembourg | Stomatologie |  |
 
-| 21. | Magyarország |  | Bőrgyógyászat |
+| 21. | Magyarország |  |  |
 
 | 22. | Málta/Malta |  | Dermatoloġija |
 
@@ -1980,7 +1978,7 @@
 
 |  | A. | B. | C. |
 
-|  |  | Gasztroenterológiai sebészet | Baleseti és sürgősségi orvostan |
+|  |  | Gasztroenterológiai sebészet | Traumatológia |
 
 |  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 5 év |
 
@@ -1996,11 +1994,11 @@
 
 | 5. | Cseh Köztársaság/ Česká Republika |  | - Traumatologie - Urgentní medicína |
 
-| 6. | Dánia/ Danmark |  |  |
+| 6. | Dánia/ Danmark |  | Akutmedicin (5) |
 
 | 7. | Egyesült Királyság/United Kingdom |  | Emergency medicine |
 
-| 8. | Észtország/Eesti |  |  |
+| 8. | Észtország/Eesti |  | Erakorralise meditsiini eriarst (6) |
 
 | 9. | Finnország/Suomi/Finland | Gastroenterologinen kirurgia/Gastroentero-logisk kirurgi | Akuuttilääketiede/Akutmedicin |
 
@@ -2050,7 +2048,7 @@
 
 | 32. | Szlovénia/Slovenija | Abdominalna kirurgija | Urgentna medicina |
 
-|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2006. február 17-től. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2015. június 3. (4) 2003. november 21-től. |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2006. február 17-től. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2015. június 3. (4) 2003. november 21-től. (5) 2018. februártól. (6) 2016. szeptembertől. |
 
 ## 26. Klinikai neurofiziológia és Arc-állcsont-szájsebészet (orvosi és fogorvosi alapképzés)
 
@@ -2250,7 +2248,7 @@
 
 | 21. | Magyarország | Háziorvostan szakorvosa bizonyítvány | Háziorvostan szakorvosa | 2004.5.1. |
 
-| 22. | Málta/Malta | Tabib tal-familja | Mediċina tal-familja | 2004.5.1. |
+| 22. | Málta/Malta | „Ċertifikat ta’ Speċjalista Mediku fil-Mediċina tal-Familja | Tabib Speċjalista fil-Mediċina tal-Familja | 2004.5.1. |
 
 | 23. | Németország/ Deutschland | Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin | Facharzt/ Fachärztin für Allgemeinmedizin | 1994.12.31. |
 
@@ -2364,6 +2362,6 @@
 
 ## 15. Feltétel nélkül elismerésre kerül az Olaszországban megszerzett és az irányelv V. melléklet 5.1.2. és 5.1.3. pontjában felsorolt szakorvosi képesítés azon orvosok esetében, akik szakorvosi képzésüket 1983. december 31. után és 1991. január 1. előtt kezdték meg, feltéve, hogy a képesítés megszerzését tanúsító okirathoz csatolják azt az illetékes olaszországi hatóságok által kiállított igazolást, amelynek értelmében az érintett orvos Olaszországban ugyanazon az érintett szakterületen ténylegesen és jogszerűen, az igazolás kiállítását megelőző tíz éven belül legalább hét egymást követő évben szakorvosként tevékenykedett.
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^13]
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^14]
 
-[^13]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése, a 12/2020. (III. 25.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.

@@ -18,7 +18,7 @@
 
 | 6. | Dánia/ Danmark | Bevis for kandidatuddannelsen i odontologi (cand.odont.) | Universitet Styrelsen for Patientsikkerhed | 1. Autorisation som tandlæge, udstedt af Sundhedsstyrelsen 2. Tilladelse til selvstændig virke som tandlæge | Tandlæge | 1980.1.28. |
 
-| 7. | Egyesült Királyság/United Kingdom | - Bachelor of Dental Surgery (BDS or B. Ch.D.) | - Universities |  | - Dentist | 1980.1.28. |
+| 7. | Egyesült Királyság/United Kingdom | – Bachelor of Dental Surgery (BDS or B. Ch.D.) – Licentiate in Dental Surgery | - Universities – Royal Colleges |  | - Dentist – Dental practitioner – Dental surgeon | 1980.1.28. |
 
 | 8. | Észtország/Eesti | Hambaarstikraad Degree in Dentistry (DD) Diplom hambaarstitea-duse õppekava läbimise kohta | Tartu Ülikool |  | Hambaarst | 2004.5.1. |
 
@@ -36,7 +36,7 @@
 
 | 15. | Izland/ Ísland | Próf frá tannlæknadeild Háskóla Íslands (Izlandi Egyetem Fogorvosi Karának oklevele) | Tannlæknadeild Háskóla Íslands (Az Izlandi Egyetem Fogorvosi Kara) |  |  | 1994.1.1. |
 
-| 16. | Lengyelország/ Polska | Dyplom ukończenia studiów wyższych na kierunku lekarsko- dentystycznym lekarskim z tytułem »lekarz dentysta« | Szkoły wyższe | Świadectwo złożenia Lekarsko - Dentystycznego Egzaminu Państwowego (1) (3)/ Świa-dectwo złożenia Lekarsko- Dentystycznego Egzaminu Końcowego (2) (3) | Lekarz dentysta | 2004.5.1. |
+| 16. | Lengyelország/ Polska | Dyplom ukończenia studiów wyższych na kierunku lekarsko- dentystycznym lekarskim z tytułem »lekarz dentysta« | Szkoły wyższe | Świadectwo złożenia Lekarsko – Dentystycznego Egzaminu Państwowego (1)/ Świadectwo złożenia Lekarsko- Dentystycznego Egzaminu Końcowego (2) Zaświadczenie o ukończeniu stażu podyplomowego (3) | Lekarz dentysta | 2004.5.1. |
 
 | 17. | Lettország/Latvija | Zobārsta diploms | Universitātes tipa augstskola | Sertifikāts - kompetentas iestādes izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu zobārstniecībā | Zobārsts | 2004.5.1. |
 
@@ -74,7 +74,7 @@
 
 | 32. | Szlovákia/Slovensko | DIPLOM zubné lekárstvo doktor zubného lekárstva (»MDDr.«) | Univerzita |  | Zubný lekár | 2004.5.1. |
 
-|  | (1) 2012-ig. (2) 2013-tól. (3) 2016. október 1-jéig az előírt képesítés megszerzését tanúsító okirathoz mellékelni kell a posztgraduális szakmai gyakorlat teljesítéséről szóló igazolást (»staż podyplomowy«). (4) 2011. október 1-jétől. (5) 2017. szeptember 1-jétől. |
+|  | (1) 2012-ig. (2) 2013-tól. (3) Az előírt képesítés megszerzését tanúsító okirathoz mellékelni kell a posztgraduális szakmai gyakorlat teljesítéséről szóló igazolást (»staż podyplo-mowy«), kivéve azon személyek esetében, akik 2016. október 2. előtt nem kezdték meg a szakmai gyakorlatot, és 2016. október 2. és 2017. február 28. között kérelmezték a fogorvosi szakma gyakorlásának jogát. (4) 2011. október 1-jétől. (5) 2017. szeptember 1-jétől. |
 
 ## B) A szakfogorvosok számára előírt képesítés megszerzését tanúsító okiratok
 
@@ -146,7 +146,7 @@
 
 | 30. | Svédország/Sverige | Bevis om specialistkompetens i oral kirurgi | Socialstyrelsen | 1994.1.1. |
 
-| 31. | Szlovákia/Slovensko | Diplom o špecializácii v špecializač-nom odbore maxilofaciálna chirurgia | - Slovenská zdravotnícka univerzita - Univerzita Pavla Jozefa Šafárika v Košiciach | 2008.12.17. |
+| 31. | Szlovákia/Slovensko | Diplom o špecializácii v špecializač-nom odbore maxilofaciálna chirurgia | Univerzita | 2008.12.17. |
 
 | 32. | Szlovénia/Slovenija | Potrdilo o opravljenem specialističnem izpitu iz oralne kirurgije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije | 2004.5.1. |
 
@@ -218,7 +218,7 @@
 
 | 30. | Svédország/Sverige | Bevis om specialistkompetens i ortodonti | Socialstyrelsen | 1994.1.1. |
 
-| 31. | Szlovákia/Slovensko | Diplom o špecializácii v špecializač-nom odbore čeľustná ortopédia | Slovenská zdravotnícka univerzita | 2008.12.17. |
+| 31. | Szlovákia/Slovensko | Diplom o špecializácii v špecializač-nom odbore čeľustná ortopédia | Univerzita | 2008.12.17. |
 
 | 32. | Szlovénia/Slovenija | Potrdilo o opravljenem specialističnem izpitu iz čeljustne in zobne ortopedije | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije | 2004.5.1. |
 
@@ -358,6 +358,6 @@
 
 ## 20.3. az érintett szakember az irányelv 36. cikkében említett tevékenységeket ugyanolyan feltételek mellett jogosult gyakorolni, illetve ténylegesen, jogszerűen és főtevékenységként ugyanolyan feltételek mellett gyakorolja, mint azok, akik az irányelv V. melléklet 5.3.2. pontjában Spanyolország tekintetében felsorolt, előírt képesítés megszerzését tanúsító okirattal rendelkeznek.
 
-4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^15]
+4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^16]
 
-[^15]: A 4. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § d) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^16]: A 4. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § d) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (4) bekezdése, a 12/2020. (III. 25.) EMMI rendelet 2. § (4) bekezdése szerint módosított szöveg.

@@ -74,6 +74,8 @@ m)[^10] az irányelv 5.1.1–5.1.4. pontja a Bizottság 2016/790 felhatalmazáso
 
 n)[^11] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2017. szeptember 11-i (EU) 2017/2113 felhatalmazáson alapuló bizottsági határozat.
 
+o)[^12] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2019. január 16-i (EU) 2019/608 felhatalmazáson alapuló bizottsági határozat.
+
 [^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^3]: A 3. § b) pont bk) alpontját a 24/2012. (IV. 18.) NEFMI rendelet 5. §-a iktatta be.
 [^4]: A 3. § g) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
@@ -84,3 +86,4 @@ n)[^11] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletén
 [^9]: A 3. § l) pontját az 56/2015. (XII.17.) EMMI rendelet 2. §-a iktatta be.
 [^10]: A 3. § m) pontját a 28/2016. (IX. 29.) EMMI rendelet 2. §-a iktatta be.
 [^11]: A 3. § n) pontját a 46/2018. (XII. 19.) EMMI rendelet 2. §-a iktatta be.
+[^12]: A 3. § o) pontját a 12/2020. (III. 25.) EMMI rendelet 1. §-a iktatta be.

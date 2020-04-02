@@ -30,13 +30,13 @@
 
 | Πτυχίο Γενικής Νοσηλευτικής | Σχολή Επιστημών Υγείας, Πανεπιστήμιο Frederick |  |
 
-| 5. | Cseh Köztársaság/ Česká Republika | 1. | Diplom o ukončení studia ve studijním programu ošetřovatelství ve studijním oboru všeobecná sestra (bakalář, Bc.) | 1. Vysoká škola zřízená nebo uznaná státem | — | Všeobecná sestra | 2004.5.1. |
+| 5. | Cseh Köztársaság/ Česká Republika | 1. Diplom o ukončení studia ve studijním programu ošetřovatelství ve studijním oboru všeobecná sestra (bakalář, Bc.) | 1. Vysoká škola zřízená nebo uznaná státem | — | Všeobecná sestra | 2004.5.1. |
 
-| 2. Diplom o ukončení studia ve studijním oboru diplomovaná všeobecná sestra (diplomovaný specialista, DiS.), accompanied by the following certificate: – Vysvědčení o absolutoriu | 2. Vyšší odborná škola zřízená nebo uznaná státem | — | Všeobecný ošetřovatel |
+| 2. Diplom o ukončení studia ve studijním oboru diplomovaná všeobecná sestra (diplomovaný specialista, DiS.), amelyet a következő igazolás kísér: Vysvědčení o absolutoriu | 2. Vyšší odborná škola zřízená nebo uznaná státem | — | Všeobecný ošetřovatel |
 
 | 6. | Dánia/ Danmark | Bevis for uddannelsen til professionsbachelor i sygepleje | Professionshøjskole | Sygeplejerske | 1979.6.29. |
 
-| 7. | Egyesült Királyság/ United Kingdom | A qualification approved by the Nursing and Midwifery Council or one of its predecessor bodies as attesting to the completion of training required for general nurses by Article 31 and the standard of proficiency as required for registration as a Registered Nurse – Adult in its register (81) | Education institutions approved by the Nursing and Midwifery Council or one of its predecessor bodies | Registered Nurse – Adult | 1979.6.29. |
+| 7. | Egyesült Királyság/ United Kingdom | A qualification approved by the Nursing and Midwifery Council or one of its predecessor bodies as attesting to the completion of training required for general nurses by Article 31 and the standard of proficiency as required for registration as a Registered Nurse – Adult in its register (3) | Education institutions approved by the Nursing and Midwifery Council or one of its predecessor bodies | Registered Nurse – Adult | 1979.6.29. |
 
 | 8. | Észtország/ Eesti | 1. | Diplom õe erialal | 1. Tallinna Meditsiinikool Tartu Meditsiinikool Kohtla-Järve Meditsiinikool | õde | 2004.5.1. |
 
@@ -78,11 +78,11 @@
 
 | 2. Svjedodžba »prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva« | 2. Medicinski fakulteti sveučilišta u Republici Hrvatskoj Sveučilišta u Republici Hrvatskoj Veleučilišta u Republici Hrvatskoj | 2. | prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva |
 
-| 14. | Írország/Ireland | 1. | Certificate of Registered General Nurse (79) | 1. An Bórd Altranais (The Nursing Board) [up to 2012.10.1.]; Bórd Altranais agus Cnáimhseachais na hEireann (The Nursing and Midwifery Board of Ireland) [from 2012.10.2.] | Registered General Nurse (RGN) | 1979.6.29. |
+| 14. | Írország/Ireland | 1. | Certificate of Registered General Nurse (1) | 1. An Bórd Altranais (The Nursing Board) (2012. október 1-ig); Bórd Altranais agus Cnáimhseachais na hEireann (The Nursing and Midwifery Board of Ireland) (2012. október 2-től). | Registered General Nurse (RGN) | 1979.6.29. |
 
-| 2. B.Sc. in Nursing Studies (General) approved by the NMBI (80) | 2. Third-level Institution delivering the B.Sc. in Nursing Studies approved by the NMBI [as of September 2002] |
+| 2. B.Sc. in Nursing Studies (General) approved by the NMBI (2) | 2. Third-level Institution delivering the B.Sc. in Nursing Studies approved by the NMBI (2002. szeptembertől) |
 
-| 3. B.Sc. in Children’s and General (Integrated) Nursing approved by the NMBI (80) | 3. Third-level Institution delivering the B.Sc. in Children’s and General (Integrated) Nursing approved by the NMBI [as of September 2006] |
+| 3. B.Sc. in Children’s and General (Integrated) Nursing approved by the NMBI (2) | 3. Third-level Institution delivering the B.Sc. in Children’s and General (Integrated) Nursing approved by the NMBI (2006. szeptembertől) |
 
 | 15. | Izland/ Ísland | 1. B.Sc. í hjúkrunarfræði (B. Sc. ápolástudományból) 2. B.Sc. í hjúkrunarfræði (B. Sc. ápolástudományból) 3. Hjúkrunarpróf (Ápolói vizsga) | 1. Háskóli Islands (Izlandi Egyetem) 2. Háskólinn á Akureyri (Az Izlandi Egyetem kihelyezett tagozata Akureyriben) 3. Hjúkrunarskóli Íslands (Izlandi Ápolóképző) |  | 1994. január 1. |
 
@@ -120,9 +120,9 @@
 
 | 24. | Norvégia/ Norge | Vitnemål for bestått Sykepleierutdanning (Ápolói/ápolónői képzés elvégzését bizonyító képesítő oklevél) | Høgskole (Főiskola) |  | 1994. január 1. |
 
-| 25. | Olaszország/ Italia | 1. | Diploma di infermiere professionale (82) | 1. Scuole riconosciute dallo Stato (82) | 1. | Infermiere professionale (82) | 1979.6.29. |
+| 25. | Olaszország/ Italia | 1. | Diploma di infermiere professionale (4) | 1. Scuole riconosciute dallo Stato (4) | 1. | Infermiere professionale (4) | 1979.6.29. |
 
-| 2. Diploma di laurea in infermieristica (83) | 2. Università (83) | 2. | Infermiere (83) |
+| 2. Diploma di laurea in infermieristica (5) | 2. Università (5) | 2. | Infermiere (5) |
 
 | 26. | Portugália/ Portugal | 1. | Diploma do curso de enfermagem geral | 1. Escolas de Enfermagem | Enfermeiro | 1986.1.1. |
 
@@ -140,7 +140,7 @@
 
 | 5. Certificat de calificare profesională nivel 5 |  |
 
-| 28. | Spanyolország/España | Título de Diplomado universitario en Enfermería | — Ministerio de Educación y Cultura | Enfermero/a diplomado/a | 1986.1.1. |
+| 28. | Spanyolország/España | Título de Diplomado universitario en Enfermería | — Ministerio de Educación y Cultura – El rector de una Universidad | Enfermero/a diplomado/a | 1986.1.1. |
 
 | Titulo de Graduado/a en Enfermería | — El rector de una Universidad | Graduado/a en Enfermería | 1986.1.1. |
 
@@ -234,6 +234,6 @@
 
 ## 12. Az 1–11. pont szerinti tevékenységhez a betegápolás tervezésével, megszervezésével és elvégzésével kapcsolatos teljes felelősségnek kell kapcsolódnia.
 
-3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^14]
+3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^15]
 
-[^14]: A 3. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § c) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^15]: A 3. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § c) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (3) bekezdése, a 12/2020. (III. 25.) EMMI rendelet 2. § (3) bekezdése szerint módosított szöveg.
