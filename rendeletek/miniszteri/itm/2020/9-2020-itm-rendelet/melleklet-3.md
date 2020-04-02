@@ -1,29 +1,3 @@
-## Az R. 2. melléklet 1. pontja helyébe a következő rendelkezés lép:
+3. melléklet a 9/2020. (III. 31.) ITM rendelethez[^7]
 
-## „1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2020. második negyedévre:
-
-|  | A | B | C | D |
-
-| 1. | hónap | szerződött egyetemes szolgáltató | földgázforrás mennyisége (kWh) | földgázforrás mennyiségarányos díja (forint/kWh) |
-
-| 2. | április | NKM Energia Zrt. | 0 | – |
-
-| 3. | május | NKM Energia Zrt. | 0 | – |
-
-| 4. | június | NKM Energia Zrt. | 0 | – |
-
-## ”
-
-3. melléklet a 9/2020. (III. 31.) ITM rendelethez
-
-„4. melléklet a 67/2016. (XII. 29.) NFM rendelethez
-
-A volt közüzemi nagykereskedőre vonatkozó, a 4. § szerinti hazai termelésű földgáz legmagasabb hatósági ára és mennyisége 2020. második negyedévre
-
-|  | A | B | C |
-
-| 1. | volt közüzemi nagykereskedő | földgázforrás mennyisége (kWh) | földgázforrás ára (forint/kWh) |
-
-| 2. | Magyar Földgázkereskedő Zrt. | 1 200 000 000 | 3,222 |
-
-”
+[^7]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
