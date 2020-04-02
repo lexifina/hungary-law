@@ -1,10 +1,12 @@
-## 8. §[^6]
+## 8. §[^9]
 
-9. § (1) A 389/2007. (XII. 23.) Korm. rendelet 4. számú melléklete helyébe az 1. melléklet lép.
+9. § (1)[^10]
 
-(2)[^7]
+(2)[^11]
 
-(3) A 389/2007. (XII. 23.) Korm. rendelet 14. számú melléklete helyébe a 3. melléklet lép.
+(3)[^12]
 
-[^6]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
