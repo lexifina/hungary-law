@@ -114,4 +114,6 @@
 
 ## Ugyanazon portfóliót következetesen, mindig azonos kódszámmal kell jelölni a felügyeleti jelentésben. Új azonosító kódot kell képezni új választható portfólió bevezetése, legalább kettő választható portfólió egyesítése, vagy egy választható portfólió szétválasztása esetén. Megszűnt portfólió kódja ismételten nem használható fel.
 
-2. melléklet a 41/2019. (XI. 21.) MNB rendelethez
+2. melléklet a 41/2019. (XI. 21.) MNB rendelethez[^3]
+
+[^3]: A 2. melléklet a 6/2020. (IV. 3.) MNB rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.

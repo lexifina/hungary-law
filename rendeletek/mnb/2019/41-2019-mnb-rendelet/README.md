@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-41-20-2
 | --- | --- | --- |
 | 2020-01-01 | 2019-41-20-2C.1 | 41/2019. (XI. 21.) MNB rendelet |
 | 2020-01-02 | 2019-41-20-2C.2 | 2010: CXXX. törvény |
+| 2020-04-04 | 2019-41-20-2C.3 | 6/2020. (IV. 3.) MNB rendelet |

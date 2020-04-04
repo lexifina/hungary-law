@@ -606,4 +606,6 @@
 
 ## Amennyiben egy portfólió egyik eszközosztályához több indexet kíván a pénztár hozzárendelni, úgy azt egy új ismétlősor beszúrásával teheti meg. A két vagy több index egymáshoz viszonyított arányát ennek az oszlopnak a kitöltésével kell jelölni. A portfólión belüli egy eszközosztályához hozzárendelt különböző indexek súlyának összege 100%-nak kell lennie.
 
-8. melléklet a 41/2019. (XI. 21.) MNB rendelethez
+8. melléklet a 41/2019. (XI. 21.) MNB rendelethez[^7]
+
+[^7]: A 8. melléklet a 6/2020. (IV. 3.) MNB rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
