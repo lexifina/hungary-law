@@ -1,6 +1,6 @@
-## 20192C20000038_1
+## 20192C20000038_10
 
-3. melléklet a 38/2019. (XI. 20.) MNB rendelethez
+3. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^4]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -2322,7 +2322,7 @@ Az adatokat az adott tárgynegyedévre és az év elejétől halmozott összegbe
 
 A devizában felmerülő állományi adatokat a tárgynegyedév végén érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon átszámított forint összegen kell szerepeltetni.
 
-A deviza ügyletet az adott tranzakció bonyolításakor érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni, kivéve a 17. és 18. sorban.
+A devizaügyletet az adott tranzakció bonyolításakor érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni, kivéve a 17. és 18. sorban.
 
 Az adatokat értelemszerűen mind az adott tárgynegyedévi, mind a halmozott (naptári év elejétől kumulált) oszlopokban fő/darabszám szerint, illetve az értékösszegeket forintban kell megadni.
 
@@ -2340,11 +2340,11 @@ A tábla sorai
 
 9D01 Nem névre szóló betét
 
-Ezen a soron az adott tárgynegyedév végi anonim betétek számát és ezeken felhalmozott összegek együttes állományát forintban kell feltüntetni. Ebben a sorban nem szerepelhet az az állomány, amelyek esetében az ügyfél átvilágítása megtörtént, de a jogszabályban előírt adatok és nyilatkozatok nem állnak teljes körűen és megfelelően rendelkezésre.
+Ezen a soron az adott tárgynegyedév végi anonim betétek számát és az ezeken felhalmozott összegek együttes állományát forintban kell feltüntetni. Ebben a sorban nem szerepelhet az az állomány, amely esetében az ügyfél átvilágítása megtörtént, de a jogszabályban előírt adatok és nyilatkozatok nem állnak teljeskörűen és megfelelően rendelkezésre.
 
 9D02 Nem teljeskörűen átvilágított ügyfél
 
-Ebben a sorban kell feltüntetni a tárgynegyedév végén azon ügyfelek számát, amelyeknél a hitelintézetnek nem áll rendelkezésre ügyfeléről a Pmt 7-10. §-ában előírt és annak megfelelő összes szükséges adat és nyilatkozat a tényleges tulajdonosról, illetve a Pmt. 19. §-ában előírt, a kiemelt közszereplői státuszra vonatkozó nyilatkozat.
+Ebben a sorban kell feltüntetni a tárgynegyedév végén azon ügyfelek számát, amelyeknél a hitelintézetnek nem áll rendelkezésre ügyfeléről a Pmt 7-10. §-ában előírt és annak megfelelő összes szükséges adat és nyilatkozat a tényleges tulajdonosról, illetve a kiemelt közszereplői státuszra vonatkozóan.
 
 9D021 ebből: ügyfélkövetelés
 
@@ -2358,7 +2358,7 @@ A 9D02 sorból az ügyfélkötelezettséghez kapcsolódó adatokat kell feltünt
 
 Ebben a sorban kell feltüntetni a tárgynegyedévben lefolytatott normál, egyszerűsített és fokozott ügyfél-átvilágítások összesített számát. Amennyiben az ügyfél átvilágítása során azonos eljárásban egyidejűleg több kapcsolódó személy azonosítása és személyazonosságának igazoló ellenőrzése, valamint nyilatkoztatása is megtörténik (például: képviselő, rendelkezésre jogosult, meghatalmazott, kedvezményezett), azt egy átvilágítási eljárásnak kell tekinteni.
 
-A 9D03 sorban kimutatott adatokat a 9D031-9D033 sorban három szempont szerint kell tovább bontani: az ügyfél-átvilágítás mélységére való tekintettel, a Pmt. 6. §-ának megfelelően, illetve a Pmt. 22-24. §-a szerint. Utóbbi két alábontás nem teljeskörű, ezért a 9D03 sor nagyobb vagy egyenlő a 9D032 sorok, illetve a 9D033 sorok összegénél.
+A 9D03 sorban kimutatott adatokat a 9D0311-9D0334 sorban három szempont szerint kell tovább bontani: az ügyfél-átvilágítás mélységére való tekintettel, a Pmt. 6. §-ának megfelelően, illetve a Pmt. 22-24. §-a szerint. Utóbbi két alábontás nem teljes körű, ezért a 9D03 sor nagyobb vagy egyenlő a 9D032 kezdetű sorok, illetve a 9D033 kezdetű sorok összegénél.
 
 9D0311 Normál ügyfél-átvilágítás
 
@@ -2370,15 +2370,15 @@ Ebben a sorban kell feltüntetni a Pmt. 15. §-a alapján, a Pmt. 65. §-ában m
 
 9D0313 Fokozott ügyfél-átvilágítás
 
-Ebben a sorban kell feltüntetni a Pmt. 16-21. §-a alapján lefolytatott fokozott ügyfél-átvilágítások számát.
+Ebben a sorban kell feltüntetni a Pmt. 16-17. §-a alapján lefolytatott fokozott ügyfél-átvilágítások számát.
 
 9D03131 ebből: kiemelt közszereplő ügyfél (PEP) átvilágítása
 
-Azon ügyfél-átvilágítások számát kell megadni, amelyek esetében az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplőnek minősül.
+Azon ügyfél-átvilágítások számát kell megadni, amelyek esetében az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplőnek minősül.
 
 9D03132 ebből: kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy átvilágítása
 
-Ebben a sorba azon ügyfél-átvilágítások számát kell beírni, amelyek esetében az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy ügyfele kiemelt közszereplő közeli hozzátartozója, vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
+Ebben a sorban azon ügyfél-átvilágítások számát kell megadni, amelyek esetében az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy ügyfele kiemelt közszereplő közeli hozzátartozója, vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
 
 9D03133 ebből: nem személyes ügyfél-átvilágítás
 
@@ -2388,13 +2388,13 @@ A sornak azon ügyfél-átvilágítások számát kell tartalmaznia, amelyeknél
 
 Azon ügyfél-átvilágítások számát kell megadni, amelyeknél az új ügyfelet a Pmt. 6. § (1) bekezdés a) pontja szerint átvilágították.
 
-9D0322 Hárommillió-hatszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás miatti átvilágítás
+9D0322 Négymillió-ötszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás miatti átvilágítás
 
-Ebben a sorban azon ügyfél-átvilágítások számát kell szerepeltetni, amelyeknél az ügyfeleket a tárgynegyedévben a Pmt 6. § (1) bekezdés b) pontja értelmében amiatt világította át az adatszolgáltató, mert hárommillió-hatszázezer forintot elérő vagy meghaladó összegű tranzakciót kezdeményeztek, az ügyleti megbízást megelőzően az adatszolgáltató nem létesített velük üzleti kapcsolatot, és átvilágításukra még nem került sor. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
+Ebben a sorban azon ügyfél-átvilágítások számát kell szerepeltetni, amelyeknél az ügyfeleket a tárgynegyedévben a Pmt. 6. § (1) bekezdés b) pontja értelmében amiatt világította át az adatszolgáltató, mert négymillió-ötszázezer forintot elérő vagy meghaladó összegű tranzakciót kezdeményeztek, az ügyleti megbízást megelőzően az adatszolgáltató nem létesített velük üzleti kapcsolatot, és átvilágításukra még nem került sor. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
 
-9D0323 Egymással ténylegesen összefüggő, hárommillió-hatszázezer forintot elérő vagy meghaladó összegű, több ügyleti megbízás miatti átvilágítás
+9D0323 Egymással ténylegesen összefüggő, négymillió-ötszázezer forintot elérő vagy meghaladó összegű, több ügyleti megbízás miatti átvilágítás
 
-Ebben a sorban kell feltüntetni azon ügyfél-átvilágítások számát, amelyeknél az ügyfeleket a tárgynegyedévben a Pmt. 6. § (2) bekezdése alapján amiatt világítottak át, mert a Pmt. 3. § 37. pontja szerinti ténylegesen összefüggő több olyan ügyleti megbízást kezdeményeztek, melyek együttes összege elérte vagy meghaladta a hárommillió-hatszázezer forintot. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
+Ebben a sorban kell feltüntetni azon ügyfél-átvilágítások számát, amelyeknél az ügyfeleket a tárgynegyedévben a Pmt. 6. § (2) bekezdése alapján amiatt világítottak át, mert a Pmt. 3. § 37. pontja szerinti ténylegesen összefüggő több olyan ügyleti megbízást kezdeményeztek, melyek együttes összege elérte vagy meghaladta a négymillió-ötszázezer forintot. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. Az adott sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
 
 9D0324 Háromszázezer forintot meghaladó összegű pénzátutalás miatti átvilágítás
 
@@ -2414,11 +2414,11 @@ A pénzváltó közvetítő által végzett átvilágításnál a 9D03321 sorhoz
 
 9D03331 Saját zálogtevékenység miatti átvilágítás
 
-A saját zálogtevékenység kapcsán, a hárommillió-hatszázezer forint becsértéket elérő, vagy meghaladó zálogtárggyal (több összefüggő tranzakció esetén zálogtárgyakkal), egy vagy több összefüggő tranzakció végrehajtása miatt történt ügyfél-átvilágítások számát és az ezen tranzakciók során kifizetett forintösszegeket kell feltüntetni.
+A saját zálogtevékenység kapcsán, négymillió-ötszázezer forint becsértéket elérő vagy meghaladó zálogtárggyal (több összefüggő tranzakció esetén zálogtárgyakkal), egy vagy több összefüggő tranzakció végrehajtása miatt történt ügyfél-átvilágítások számát és az ezen tranzakciók során kifizetett forintösszegeket kell feltüntetni.
 
 9D03332 Nem saját zálogtevékenység miatti átvilágítás
 
-A zálogházi közvetítő által a hárommillió-hatszázezer forint becsértéket elérő vagy meghaladó zálogtárggyal (több összefüggő tranzakció esetén zálogtárgyakkal), egy vagy több összefüggő tranzakció végrehajtása miatt történt ügyfél-átvilágítások számát és az ezen tranzakciók során kifizetett forintösszegeket kell feltüntetni.
+A zálogházi közvetítő által a négymillió-ötszázezer forint becsértéket elérő vagy meghaladó zálogtárggyal (több összefüggő tranzakció esetén zálogtárgyakkal), egy vagy több összefüggő tranzakció végrehajtása miatt történt ügyfél-átvilágítások számát és az ezen tranzakciók során kifizetett forintösszegeket kell feltüntetni.
 
 9D0334 Egyéb közvetítő által végzett átvilágítás
 
@@ -2434,7 +2434,7 @@ Ebben a sorban kell kimutatni a tárgynegyedévben, készpénzben teljesített a
 
 9D06 Okmányos ügyletek
 
-Ezen a soron kell jelenteni a kereskedelem finanszírozással kapcsolatos akkreditívek és okmányos beszedések tárgynegyedévi darabszámát, illetve millió forintban meghatározott értékösszegét.
+Ezen a soron kell jelenteni a kereskedelemfinanszírozással kapcsolatos akkreditívek és okmányos beszedések tárgynegyedévi darabszámát, illetve millió forintban meghatározott értékösszegét.
 
 9D07 Saját bejelentések
 
@@ -2442,23 +2442,23 @@ Az adatszolgáltató által a pénzügyi információs egységként működő ha
 
 9D0711 ebből: a Pmt. 30. §-a alapján pénzmosás gyanúja miatt tett bejelentések
 
-A 9D08 sorból az adatszolgáltató által pénzmosás gyanújával [Pmt. 30. § (1) bejezdés a) pontja] a pénzügyi információs egységként működő hatóság részére, a tárgynegyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét kell feltüntetni. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
+A 9D07 sorból az adatszolgáltató által pénzmosás gyanújával [Pmt. 30. § (1) bekezdés a) pontja] a pénzügyi információs egységként működő hatóság részére, a tárgynegyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét kell feltüntetni. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
 9D0712 ebből: a Pmt. 30. §-a alapján terrorizmus finanszírozása gyanúja miatt tett bejelentések
 
-A 9D08 sorból az adatszolgáltató által terrorizmus finanszírozása gyanújával [Pmt. 30. § (1) bekezdés b) pontja] a pénzügyi információs egységként működő hatóság részére, a tárgynegyedévben küldött bejelentések száma és a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
+A 9D07 sorból az adatszolgáltató által terrorizmus finanszírozása gyanújával [Pmt. 30. § (1) bekezdés b) pontja] a pénzügyi információs egységként működő hatóság részére, a tárgynegyedévben küldött bejelentések száma és a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
 9D0713 ebből: a Kit. alapján tett bejelentések
 
-Ebben a sorban kell szerepeltetni a 9D08 sorból az adatszolgáltató által a Kit. 4. § (1) bekezdése, illetve a 14. § (8) bekezdése alapján a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, illetve a pénzügyi információs egységként működő hatóság részére a tárgynegyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
+Ebben a sorban kell szerepeltetni a 9D07 sorból az adatszolgáltató által a Kit. 4. § (1) bekezdése, illetve 14. § (8) bekezdése alapján a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, illetve a pénzügyi információs egységként működő hatóság részére a tárgynegyedévben küldött bejelentések számát és a bejelentések teljes forintösszegét. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
 9D072 Bejelentésekből külföldi fizető eszközben bonyolított ügyletek
 
 Ebben a sorban azokat az ügyleteket kell feltüntetni, melyeket az adatszolgáltató devizában (pl. átutalás kezdeményezése és fogadása, konverzió), illetve valutában (pl. pénzváltás, készpénzátutalás) bonyolított le.
 
-9D81 Bejelentésekből 4 munkanapra felfüggesztett tranzakciók
+9D08 Bejelentésekből 4 munkanapra felfüggesztett tranzakciók
 
-Azon bejelentéseket kell feltüntetni, amelyek során az adatszolgáltató a Pmt. 34. § (1) bekezdése és 35. § (1) bekezdése alapján felfüggesztést alkalmazott..
+Azon bejelentéseket kell feltüntetni, amelyek esetében az adatszolgáltató a Pmt. 34. § (1) bekezdése és 35. § (1) bekezdése alapján felfüggesztést alkalmazott.
 
 9D081 ebből: szolgáltató által kezdeményezett felfüggesztések
 
@@ -2474,19 +2474,15 @@ A 9D081 és 9D082 sorok összege kiadja a hitelintézet által a tárgynegyedév
 
 A 9D08 sorból azon bejelentéseket kell feltüntetni, amelyek esetében az adatszolgáltató a Pmt. 35. § (3) bekezdése alapján a pénzügyi információs egységként működő hatóság jelzésére a felfüggesztést meghosszabbította.
 
-9D09 Bíróság, nyomozóhatóság által pénzmosás ganúja miatt zárolt, lefoglalt követelések
+9D09 Bíróság, nyomozóhatóság által pénzmosás gyanúja miatt zárolt, lefoglalt követelések
 
 Ebben a sorban a bíróság, illetve a nyomozóhatóság által pénzmosás gyanúja miatt zárolt, illetve lefoglalt ügyfélkövetelések számát és összegét kell feltüntetni.
 
 9D10 Terrorista, illetve szankciós listák alapján zárolt követelések
 
-Azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet az adatszolgáltató az ügyfél valamely, az adatszolgáltató által alkalmazott terrorista, illetve szankciós listán való szereplése miatt a tárgynegyedévben zárolt és ezt a pénzügyi információs egységként működő hatóságnak mint illetékes hatóságnak bejelentett.
+Azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet az adatszolgáltató az ügyfél valamely, az adatszolgáltató által alkalmazott terrorista, illetve szankciós listán való szereplése miatt a tárgynegyedévben zárolt, és ezt a pénzügyi információs egységként működő hatóságnak mint illetékes hatóságnak bejelentette.
 
-9D11 Pmt. 12. § (5) bekezdése alapján blokkolt ügyfél
-
-Azon ügyfelek számát kell megadni, akiknek számlája terhére vagy javára kezdeményezett megbízások teljesítését az adatszolgáltató a Pmt. 12. § (5) bekezdése alapján a tárgynegyedévben elutasította. Az adott sorban az ügyfelek száma mellett a blokkolt számlák egyenlegét is fel kell tüntetni.
-
-9D12 Privátbanki ügyfélkapcsolat létesítés
+9D11 Privátbanki ügyfélkapcsolat létesítés
 
 Ebben a sorban azoknak az ügyfeleknek a számát kell jelenteni, akikkel az adatszolgáltató adott negyedévben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló MNB rendelet szerint, vezetői jóváhagyás mellett létesített privátbanki üzleti kapcsolatot.
 
@@ -2532,11 +2528,11 @@ A 9E03 sorból azon levelező kapcsolatokat kell feltüntetni, mely esetekben a 
 
 9E04 Kiemelt közszereplő ügyfél (PEP)
 
-Azon ügyfelek tárgyév végi számát kell megadni, amelyekről az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
+Azon ügyfelek tárgyév végi számát kell megadni, amelyekről az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
 
 9E05 Kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
 
-Ebben a sorban azon ügyfelek tárgyév végi számát kell megadni, amelyekről az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy kiemelt közszereplő közeli hozzátartozója vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
+Ebben a sorban azon ügyfelek tárgyév végi számát kell megadni, amelyekről az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy kiemelt közszereplő közeli hozzátartozója vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
 
 9E06 9E04-ből és 9E05-ből kiemelt kockázatú országban lakóhellyel rendelkező ügyfél
 
@@ -3203,3 +3199,37 @@ Az i), illetve a j) oszlopban lévő összesen sorok összegének meg kell egyez
 A közvetett tulajdonlást a k) oszlopban kell kimutatni. A szavazati jogot, mint tulajdoni hányadot kell figyelembe venni.
 
 Az l) Szavazati arány összesen oszlopban kell összesíteni a tulajdonosnak – a j) és a k) oszlopban feltüntetett – együttes közvetett és közvetlen tulajdoni és szavazati arányát. Ennek az aránynak a mértékét kell figyelembe venni a minősített befolyás megállapításánál.
+
+A tábla sorai
+
+11AB1 Minősített befolyású tulajdonosok összesen
+
+Ez a sor összesíti az alábbi sorokban feltüntetett adatokat.
+
+11AB11 Minősített befolyások kapcsolódó ügylettel összesen (alább részletezve)
+
+Ebben a sorban kell azoknak a befolyásoló részesedéssel rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfeleknek – a tulajdoni, illetve szavazati arányát összesíteni, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
+
+11AB12 Minősített befolyások kapcsolódó ügylettel nem rendelkező összesen (alább részletezve)
+
+Ebben a sorban azoknak a minősített befolyással (10%-ot elérő vagy meghaladó közvetlen és közvetett) rendelkező tulajdonosoknak a részletező sorokban feltüntetett ügyfelek – az adatait kell összesíteni, amelyek a hitelintézetnél kapcsolódó ügylettel nem rendelkeznek.
+
+11AB21 5% és 10% közötti tulajdonosok, kapcsolódó ügylettel összesen (alább részletezve)
+
+Ebben a sorban kell azoknak a nem minősített befolyással (5%-ot elérő vagy meghaladó közvetlen és közvetett tulajdoni-, illetve szavazati aránnyal) rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfelek – az adatait összesíteni a tulajdonlás mértékétől függetlenül, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
+
+11AB22 1% és 5% közötti tulajdonosok, kapcsolódó ügylettel összesen (alább részletezve)
+
+Ebben a sorban kell összesíteni azoknak az 1% és 5% közötti tulajdoni-, illetve szavazati aránnyal rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfelek – az adatait összesíteni a tulajdonlás mértékétől függetlenül, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
+
+11AB3 1% és 10% közötti tulajdonosok, befektetési alapok, GDR társaságok kapcsolódó ügylet nélkül összesen (alább részletezve)
+
+Ebben a sorban kell összesíteni az ügyleti kapcsolatban nem álló, nem minősített befolyással (10% alatti tulajdoni-, illetve szavazati aránnyal) rendelkező részvényeseket, továbbá a befektetési letétkezelőket, a részvények tulajdonosaira letéti igazolásokat szolgáltató (pl. GDR társaságokat). A letéti igazolásokat nyújtó, illetve összefogó intézmények által képviselt tulajdoni adatokat a részletező sorokban fel kell tüntetni.
+
+11AB4 Egyéb 5% alatti tulajdonosok összesen (nem részletezve)
+
+Ebben a sorban kell azoknak az 5% alatti tulajdoni-, illetve szavazati aránnyal rendelkező tulajdonosoknak az adatait összesíteni, amelyek nem ismertek. Ebben a sorban kell szerepeltetni az 1 % alatti tulajdoni résszel rendelkező tulajdonosokat. Itt kell számba venni a visszavásárolt részvények névértékét, illetve arányát.
+
+Az Integrációs Szervezetnek a takarékszövetkezetekben fennálló teljes tulajdonrészét a 11AB5 sorban külön is ki kell mutatni, vagyis az előbbiekben feltüntetett sorokból kiemelésként kell szerepeltetni.
+
+[^4]: A 3. melléklet a 6/2020. (IV. 3.) MNB rendelet 1. § (1) és (2) bekezdése szerint módosított szöveg.
