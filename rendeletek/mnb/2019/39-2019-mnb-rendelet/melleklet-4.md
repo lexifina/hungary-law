@@ -1068,17 +1068,17 @@
 
 ## 37C1 Nem teljeskörűen átvilágított ügyfél
 
-## A tárgynegyedév végén azon ügyfelek száma, amelyeknél az adatszolgáltatónak nem áll rendelkezésére ügyfeléről a Pmt. 7-10. §-ában előírt és annak megfelelő összes szükséges adat és nyilatkozat a tényleges tulajdonosról, illetve a Pmt. 19. §-ában előírt, a kiemelt közszereplői státuszra vonatkozó nyilatkozat.
+## A tárgynegyedév végén azon ügyfelek száma, amelyeknél az adatszolgáltatónak nem áll rendelkezésére ügyfeléről a Pmt. 7-10. §-ában előírt és annak megfelelő összes szükséges adat és nyilatkozat a tényleges tulajdonosról, illetve a kiemelt közszereplői státuszra vonatkozóan.
 
 ## 37C11 ebből: ügyfélkövetelés
 
 ## A 37C1 sorból az ügyfélköveteléshez kapcsolódó adatokat kell feltüntetni. Ügyfélkövetelés összege: az ügyfél összes követelése az adatszolgáltatóval szemben. Az ügyfélkövetelés nem nettósítható.
 
-## A „Fő ill. darab” oszlopban az ügyfelek számát kell megadni.
+## A „Fő, ill. darab” oszlopban az ügyfelek számát kell megadni.
 
 ## 37C12 ebből: ügyfélkötelezettség
 
-## A 37C1 sorból az ügyfél-kötelezettséghez kapcsolódó adatokat kell feltüntetni. Ügyfél-kötelezettség összege: az ügyfél összes tartozása az adatszolgáltatóval szemben. Az ügyfél-kötelezettség nem nettósítható.
+## A 37C1 sorból az ügyfélkötelezettséghez kapcsolódó adatokat kell feltüntetni. Ügyfélkötelezettség összege: az ügyfél összes tartozása az adatszolgáltatóval szemben. Az ügyfélkötelezettség nem nettósítható.
 
 ## A „Fő, ill. darab” oszlopban az ügyfelek számát kell megadni.
 
@@ -1094,15 +1094,15 @@
 
 ## 37C212 Fokozott ügyfél-átvilágítás
 
-## A Pmt. 16-21. §-a alapján lefolytatott fokozott ügyfél-átvilágítások száma.
+## A Pmt. 16-17. §-a alapján lefolytatott fokozott ügyfél-átvilágítások száma.
 
 ## 37C2121 37C212-ből: kiemelt közszereplő ügyfél (PEP) átvilágítása
 
-## Azon ügyfél-átvilágítások száma, amelyeknél az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplőnek minősül.
+## Azon ügyfél-átvilágítások száma, amelyeknél az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplőnek minősül.
 
 ## 37C2122 37C212-ből: kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy átvilágítása
 
-## A 37C212 sorból azon ügyfél-átvilágítások száma, amelyeknél az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplő közeli hozzátartozója, vagy vele közeli kapcsolatban álló személynek minősül.
+## A 37C212 sorból azon ügyfél-átvilágítások száma, amelyeknél az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplő közeli hozzátartozója, vagy vele közeli kapcsolatban álló személynek minősül.
 
 ## 37C2123 37C212-ből: nem személyes ügyfél-átvilágítás
 
@@ -1116,13 +1116,13 @@
 
 ## Azon átvilágítások száma, ahol az új ügyfelet a Pmt. 6. § (1) bekezdés a) pontja alapján világították át.
 
-## 37C222 Hárommillió-hatszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás miatti átvilágítás
+## 37C222 Négymillió-ötszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás miatti átvilágítás
 
-## Azon ügyfél-átvilágítások száma, amelyeknél az ügyfeleket a tárgynegyedévben a Pmt. 6. § (1) bekezdés b) pontja értelmében amiatt világította át az adatszolgáltató, mert hárommillió-hatszázezer forintot elérő vagy meghaladó összegű tranzakciót kezdeményeztek, az ügyleti megbízást megelőzően az adatszolgáltató nem létesített velük üzleti kapcsolatot, és átvilágításukra még nem került sor. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. A ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
+## Azon ügyfél-átvilágítások száma, amelyeknél az ügyfeleket a tárgynegyedévben a Pmt. 6. § (1) bekezdés b) pontja alapján amiatt világította át az adatszolgáltató, mert négymillió-ötszázezer forintot elérő vagy meghaladó összegű tranzakciót kezdeményeztek, az ügyleti megbízást megelőzően az adatszolgáltató nem létesített velük üzleti kapcsolatot, és átvilágításukra még nem került sor. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. A ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell feltüntetni.
 
-## 37C223 Egymással ténylegesen összefüggő, hárommillió-hatszázezer forintot elérő vagy meghaladó összegű, több ügyleti megbízás miatti átvilágítás
+## 37C223 Egymással ténylegesen összefüggő, négymillió-ötszázezer forintot elérő vagy meghaladó összegű, több ügyleti megbízás miatti átvilágítás
 
-## Azon átvilágítások száma, ahol az ügyfeleket a tárgynegyedévben a Pmt. 6. § (2) bekezdése értelmében amiatt világították át, mert a Pmt. 3. § 37. pontjában meghatározott ténylegesen összefüggő több olyan ügyleti megbízást kezdeményeztek, amelyek együttes összege elérte vagy meghaladta a hárommillió-hatszázezer forintot. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. A sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell szerepeltetni.
+## Azon átvilágítások száma, ahol az ügyfeleket a tárgynegyedévben a Pmt. 6. § (2) bekezdése értelmében amiatt világították át, mert a Pmt. 3. § 37. pontjában meghatározott ténylegesen összefüggő több olyan ügyleti megbízást kezdeményeztek, amelyek együttes összege elérte vagy meghaladta a négymillió-ötszázezer forintot. Az adatszolgáltató belső eljárásrendjétől függően egy eseti ügyfél átvilágítása több alkalommal is megtörténhet. A sorban a ténylegesen lefolytatott átvilágítási eljárások számát, illetve az ügyleti megbízások forintösszegét kell szerepeltetni.
 
 ## 37C231 Más szolgáltató által végzett ügyfél-átvilágítás átvétele
 
@@ -1130,7 +1130,7 @@
 
 ## 37C232 Közvetítő által végzett átvilágítás
 
-## A Bszt. 111. § (1) és (2) bekezdésében meghatározott közvetítők által végzett átvilágítások szám a.
+## A Bszt. 111. § (1) és (2) bekezdésében meghatározott közvetítők által végzett átvilágítások száma.
 
 ## 37C3 10 millió forintot elérő vagy meghaladó készpénz ki- és befizetések
 
@@ -1140,17 +1140,17 @@
 
 ## Az adatszolgáltató által a pénzügyi információs egységként működő hatóság részére az adott negyedévben küldött bejelentések összesített száma, illetve a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
-## 37C411 37C4-ből: Pmt. 30. §-a alapján pénzmosás gyanúja miatt tett bejelentések
+## 37C411 37C4-ből: a Pmt. 30. §-a alapján pénzmosás gyanúja miatt tett bejelentések
 
 ## A 37C4 sorból az adatszolgáltató által pénzmosás gyanújával [Pmt. 30. § (1) bekezdés a) pontja] a pénzügyi információs egységként működő hatóság részére, adott negyedévben küldött bejelentések száma és a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
-## 37C412 37C4-ből: Pmt. 30. §-a alapján terrorizmus finanszírozása gyanúja miatt tett bejelentések
+## 37C412 37C4-ből: a Pmt. 30. §-a alapján terrorizmus finanszírozása gyanúja miatt tett bejelentések
 
 ## A 37C4 sorból az adatszolgáltató által terrorizmus finanszírozása gyanújával [Pmt. 30. § (1) bekezdés b) pontja] a pénzügyi információs egységként működő hatóság részére, adott negyedévben küldött bejelentések száma és a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
-## 37C413 37C4-ből: Kit. alapján tett bejelentések
+## 37C413 37C4-ből: a Kit. alapján tett bejelentések
 
-## A 37C4 sorból az adatszolgáltató által a Kit. 4. § (1) bekezdése, illetve a 14. § (8) bekezdése alapján pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, illetve a pénzügyi információs egységként működő hatóság részére az adott időszakban küldött bejelentések száma és a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
+## A 37C4 sorból az adatszolgáltató által a Kit. 4. § (1) bekezdése, illetve 14. § (8) bekezdése alapján a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv, illetve a pénzügyi információs egységként működő hatóság részére az adott időszakban küldött bejelentések száma és a bejelentések teljes forintösszege. A bejelentések teljes forintösszege az érintett tranzakciók együttes összege.
 
 ## 37C42 Bejelentésekből külföldi fizetőeszközben lebonyolított ügyletek
 
@@ -1158,7 +1158,7 @@
 
 ## 37C5 Bejelentésekből: 4 munkanapra felfüggesztett tranzakciók
 
-## Azon bejelentéseket kell szerepeltetni, amelyek során az adatszolgáltató a Pmt. 34. § (1) bekezdése és 35. § (1) bekezdése alapján felfüggesztést alkalmazott.
+## Azon bejelentéseket kell szerepeltetni, amelyek esetében az adatszolgáltató a Pmt. 34. § (1) bekezdése és 35. § (1) bekezdése alapján felfüggesztést alkalmazott.
 
 ## 37C51 37C5-ből: az adatszolgáltató által kezdeményezett felfüggesztések
 
@@ -1172,7 +1172,7 @@
 
 ## 37C53 37C5-ből: pénzügyi információs egységként működő hatóság kérésére meghosszabbított felfüggesztések
 
-## A 37C5 sorból azon bejelentések, amelyek során az adatszolgáltató a Pmt. 35. § (3) bekezdése alapján a pénzügyi információs egységként működő hatóság jelzésére a felfüggesztést meghosszabbította.
+## A 37C5 sorból azon bejelentések, amelyek esetében az adatszolgáltató a Pmt. 35. § (3) bekezdése alapján a pénzügyi információs egységként működő hatóság jelzésére a felfüggesztést meghosszabbította.
 
 ## 37C6 Bíróság, nyomozóhatóság által pénzmosás gyanúja miatt zárolt, lefoglalt követelések
 
@@ -1180,13 +1180,9 @@
 
 ## 37C7 Terrorista, illetve szankciós listák alapján zárolt követelések
 
-## Azon ügyfelek számát és azok teljes ügyfélkövetelését kell szerepeltetni, amelyeknél az adatszolgáltató által történt zárolásra azért került sor, mert az ügyfél valamely, az adatszolgáltató által alkalmazott terrorista, illetve szankciós listán szerepelt, és ezt az adatszolgáltató a pénzügyi információs egységként működő hatóságnak mint illetékes hatóságnak bejelentette.
+## Azon ügyfelek számát és azok teljes ügyfélkövetelését kell szerepeltetni, amelyeknél az adatszolgáltató általi zárolásra azért került sor, mert az ügyfél valamely, az adatszolgáltató által alkalmazott terrorista, illetve szankciós listán szerepelt, és ezt az adatszolgáltató a pénzügyi információs egységként működő hatóságnak mint illetékes hatóságnak bejelentette.
 
-## 37C8 A Pmt. 12. § (5) bekezdése alapján blokkolt ügyfelek
-
-## Azon ügyfelek száma, akiknek számlája terhére vagy javára kezdeményezett megbízások teljesítését a szolgáltató a Pmt. 12. § (5) bekezdése alapján az adott időszakban elutasította. Az ügyfelek számát és a blokkolt számlák egyenlegét kell szerepeltetni.
-
-## 37C9 Privátbanki ügyfélkapcsolat létesítése
+## 37C8 Privátbanki ügyfélkapcsolat létesítése
 
 ## Azon ügyfelek száma, akikkel az adatszolgáltató a tárgynegyedévben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló MNB rendelet szerint, vezetői jóváhagyás mellett létesített privátbanki üzleti kapcsolatot.
 
@@ -1224,11 +1220,11 @@
 
 ## 37D03 Kiemelt közszereplő ügyfél (PEP)
 
-## Azon ügyfelek tárgyév végi száma, amelyekről az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
+## Azon ügyfelek tárgyév végi száma, amelyekről az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
 
 ## 37D04 Kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
 
-## Azon ügyfelek tárgyév végi száma, amelyekről az adatszolgáltató a Pmt. 19. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplő Pmt. 4. § (3) bekezdése szerinti közeli hozzátartozója, vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
+## Azon ügyfelek tárgyév végi száma, amelyekről az adatszolgáltató a Pmt. 9/A. §-a alapján megállapította, hogy az ügyfél kiemelt közszereplő Pmt. 4. § (3) bekezdése szerinti közeli hozzátartozója, vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül.
 
 ## 37D06 Kiemelt kockázatú országban lakóhellyel vagy székhellyel rendelkező ügyfelek (beleértve a 37D05 sort is)
 
@@ -1624,4 +1620,6 @@
 
 ## Az összevont mérleget és eredménykimutatást a kitöltési előírásoknak az egyedi mérlegre, illetve eredménykimutatásra vonatkozó rendelkezései figyelembevételével, a Bkr. szabályai szerint kell kitölteni.
 
-4. melléklet a 39/2019. (XI. 20.) MNB rendelethez
+4. melléklet a 39/2019. (XI. 20.) MNB rendelethez[^8]
+
+[^8]: A 4. melléklet a 6/2020. (IV. 3.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.

@@ -252,4 +252,6 @@
 
 ## 5.6. Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, valamint a lejárt értékpapírokat nem kell szerepeltetni.
 
-2. melléklet a 39/2019. (XI. 20.) MNB rendelethez
+2. melléklet a 39/2019. (XI. 20.) MNB rendelethez[^6]
+
+[^6]: A 2. melléklet a 6/2020. (IV. 3.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
