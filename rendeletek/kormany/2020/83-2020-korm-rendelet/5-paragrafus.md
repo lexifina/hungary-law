@@ -1,0 +1,1 @@
+## 4. § A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet szerinti, fertőtlenítésre használt biocid termék gyártásához szükséges alkohol mint hatóanyag bármely forrásból beszerezhető.
