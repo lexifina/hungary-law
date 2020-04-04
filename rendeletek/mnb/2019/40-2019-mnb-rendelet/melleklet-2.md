@@ -112,4 +112,6 @@
 
 ## A hatjegyű kódot az adatszolgáltatónak úgy kell megképeznie, hogy annak első 2 karaktere egyértelműen utaljon a biztosító nevére, amit közvetlenül követ egy négy számjegyből álló kombináció. Amennyiben több biztosító nevének azonos a két kezdőbetűje, úgy javasolt az első kezdőbetűt követően egy jellegzetes további betű alkalmazása.
 
-2. melléklet a 40/2019. (XI. 21.) MNB rendelethez
+2. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^3]
+
+[^3]: A 2. melléklet a 6/2020. (IV. 4.) MNB rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.

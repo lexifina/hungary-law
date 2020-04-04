@@ -1,6 +1,6 @@
-## 20192C20000040_3
+## 20192C20000040_9
 
-7. melléklet a 40/2019. (XI. 21.) MNB rendelethez
+7. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^6]
 
 A kisbiztosítónak nem minősülő biztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
 
@@ -728,11 +728,11 @@ vagy tulajdonosainak részesedése nagyobb tíz százaléknál.
 
 42Y1903 sor Kiemelt közszereplő (PEP)
 
-Ebben a sorban azon ügyfelek, kedvezményezettek, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személyek, továbbá tényleges tulajdonosok tárgyév végi számát kell megadni, amelyekről a biztosító a Pmt. 19. és 20. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
+Ebben a sorban azon ügyfelek, kedvezményezettek, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személyek, továbbá tényleges tulajdonosok tárgyév végi számát kell megadni, amelyekről a biztosító a Pmt. 9/A. §-a alapján megállapította, hogy kiemelt közszereplőnek minősülnek.
 
 42Y1904 sor Kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
 
-Ebben a sorban azon ügyfelek, kedvezményezettek, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személyek, továbbá tényleges tulajdonosok tárgyév végi számát kell megadni, amelyekről a biztosító a Pmt. 19. és 20. §-a alapján megállapította, hogy kiemelt közszereplő közeli hozzátartozójának vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősülnek.
+Ebben a sorban azon ügyfelek, kedvezményezettek, biztosítási szerződés alapján a biztosító szolgáltatására jogosult személyek, továbbá tényleges tulajdonosok tárgyév végi számát kell megadni, amelyekről a biztosító a Pmt. 9/A. §-a alapján megállapította, hogy kiemelt közszereplő közeli hozzátartozójának vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősülnek.
 
 42Y1906 sor Kiemelt kockázatú országban lakóhellyel vagy székhellyel rendelkező ügyfelek
 
@@ -1615,3 +1615,63 @@ Ebben a sorban kell jelezni a biztosítót, mint panaszoltat érintő ügyek sz�
 42Q14A234 sor Pénzügyi békéltető testületi eljárásában az intézmény által tett alávetési nyilatkozatok száma a tárgyidőszakban
 
 Ebben a sorban kell jelezni azon ügyek számát, amelyekkel kapcsolatban a biztosító a tárgynegyedévben alávetési nyilatkozatot tett, függetlenül attól, hogy az eljárás mikor indult.
+
+42Q14A235 sor Az intézmény által végrehajtott pénzügyi békéltető testületi döntések száma a tárgyidőszakban
+
+Ebben a sorban kell jelezni azon ügyek számát, amelyekkel kapcsolatban a biztosító a tárgynegyedévben a Pénzügyi Békéltető Testület döntését végrehajtotta, függetlenül attól, hogy az eljárás mikor indult. Ügyek alatt a békéltető testületi határozatok és az ajánlások számát kell érteni.
+
+42Q14A236 sor Pénzügyi Békéltető Testület elé vitt ügyekben az intézmény és a panaszos között létrejött egyezségek száma a tárgyidőszakban
+
+Ebben a sorban kell jelezni azon, a Pénzügyi Békéltető Testület elé került ügyek számát, amelyekkel kapcsolatban a biztosító a tárgynegyedévben egyezségre jutott a panaszossal, függetlenül attól, hogy az eljárás mikor indult.
+
+15. 42Q18 Kötelező gépjármű-felelősségbiztosítások kiegészítő adatai
+
+A tábla kitöltése
+
+A darabszámok esetében az adott érték mögött lévő állomány nagyságát kell feltüntetni. A függő, beazonosítatlan tételek esetében a beérkezett, de még nem beazonosított, szerződésre nem könyvelt díjbefizetések összegét és az ilyen tételek számát kell bemutatni.
+
+A tábla sorai
+
+42Q1801-42Q18011 sor Díjkövetelés
+
+42Q1802-42Q18022 sor Függő, beazonosítatlan tételek állománya
+
+42Q1804, 42Q18041 sor Függőkár tartalék személyi sérüléses károkra a tárgyidőszak végén, Személyi sérüléses károkra képzett függőkár tartalékból tárgyidőszakban járadéktartalékba sorolt
+
+Tartalék alatt a számviteli biztosítástechnikai tartalékot kell érteni. A díjkövetelés; a függő, beazonosítatlan tételek állományát és a tartalékok értékeit (kártartalék, járadéktartalék) a tárgyidőszak végi állapotnak megfelelően kell szerepeltetni. A tartalékok értékét és a kárkifizetések összegét bruttó értékként kell kimutatni.
+
+42Q1805 sor Tárgyidőszaki kárkifizetés nemzetközi károkra
+
+42Q1806 sor Tárgyidőszaki függőkár tartalék nemzetközi károkra
+
+42Q18061 sor Nemzetközi károkra képzett függőkár tartalékból tárgyidőszakban járadéktartalékba sorolt
+
+Tartalék alatt a számviteli biztosítástechnikai tartalékot kell érteni. Nemzetközi kárnak minősül a kár, amennyiben a biztosítási esemény nem Magyarország területén következett be, vagy a károsult állandó lakóhelye (székhelye), illetve szokásos tartózkodási helye (az érintett telephelye, fióktelepe) külföldön van, valamint, ha a káresemény következtében károsodott gépjármű telephely vagy rendeltetési hely szerinti országa nem Magyarország.
+
+16. 42Q19 Pénzmosással és terrorizmusfinanszírozással kapcsolatos adatok
+
+A tábla kitöltése
+
+A táblában az adatszolgáltató által a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni. A tábla kitöltése csak azon biztosítónak kötelező, amely a Pmt. 1. § (1) bekezdés b) pontja, valamint a 3. § 28. pont g) alpontja értelmében a Pmt. hatálya alá tartozik.
+
+A devizában felmerülő állományi adatokat a negyedév végén érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni.
+
+A devizaügyletet az adott tranzakció lebonyolításakor érvényes MNB hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon számított összegen kell szerepeltetni.
+
+Az adatokat értelemszerűen mind az adott tárgynegyedévi, mind a halmozott (naptári év elejétől kumulált) oszlopokban fő/darabszám szerint, illetve az értékösszegeket forintban kell megadni.
+
+A táblában használt fogalmak:
+
+- kiemelt közszereplő: a Pmt. 4. § (1) és (2) bekezdése szerinti természetes személy;
+
+- kiemelt közszereplő közeli hozzátartozója: a Pmt. 4. § (3) bekezdése szerinti természetes személy;
+
+- kiemelt közszereplővel közeli kapcsolatban álló személy: a Pmt. 4. § (4) bekezdése szerinti természetes személy;
+
+- tényleges tulajdonos: a Pmt. 3. § 38. pontja szerinti jogalany.
+
+A tábla sorai
+
+42Q1901 Nem teljeskörűen átvilágított ügyfél
+
+[^6]: A 7. melléklet a 6/2020. (IV. 4.) MNB rendelet 3. § (1) bekezdés b) pontja és a (2) bekezdése szerint módosított szöveg.
