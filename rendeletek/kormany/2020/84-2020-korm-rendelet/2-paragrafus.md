@@ -1,0 +1,9 @@
+2. § (1) Az egyetemes postai szolgáltatásra és azzal összefüggésben az egyetemes postai szolgáltatóra – az 1. §-tól eltérően – a postai szolgáltatásokról szóló törvénytől a (2) és (3) bekezdésben meghatározott eltérő rendelkezéseket kell alkalmazni.
+
+(2) Az egyetemes postai szolgáltató a könyvelt postai küldeményeket a címzettnek vagy a Kormány által rendeletben meghatározott egyéb jogosult átvevőnek jogosult a személyes átadás mellőzésével úgy kézbesíteni, hogy
+
+a) a kizárólag ajánlott többletszolgáltatás igénybevételével feladott levélküldeményt a levélszekrénybe helyezi, a kézbesítés tényét rögzíti, aláírást nem vesz fel,
+
+b) a tértivevény, illetve értéknyilvánítás többletszolgáltatással feladott levélküldeményt, a hivatalos iratot és a postacsomagot a címhelyen és a kézbesítési ponton is személyes kapcsolatfelvételt követően kézbesíti, az átvevővel az annak azonosításához szükséges adatokat lehetőség szerint legalább 1,5 méter távolságot tartva egyezteti, és az átvevő nevét, valamint az átvevő személyazonosság igazolására alkalmas okmányának típusát és számát maga rögzíti a kézbesítés tényének egyidejű rögzítése mellett úgy, hogy aláírást az átvevőtől nem vesz fel.
+
+(3) A levélszekrény útján nem kézbesíthető küldeményeket a karantén helyeként nyilvántartott és megjelölt címen az egyetemes postai szolgáltató a karantén fennállásának ideje alatt nem kézbesíti, hanem a postai szolgáltatási szerződés teljesítését felfüggeszti. A levélszekrény útján nem kézbesíthető küldeményeket a karanténra vonatkozó jogszabályi és hatósági előírások megszűnését követően kísérli meg kézbesíteni, addig a kézbesítési ponton a karanténnal nem érintett jogosult átvevő rendelkezésére tartja. A kézbesítési kísérlet sikertelensége esetén az őrzési idő elteltével a kézbesíthetetlenségre vonatkozó szabályokat alkalmazza.
