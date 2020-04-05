@@ -1,3 +1,3 @@
-## 20202C20000006_7
+14. melléklet a 6/2020. (IV. 3.) MNB rendelethez[^19]
 
-14. melléklet a 6/2020. (IV. 3.) MNB rendelethez
+[^19]: A 14. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
