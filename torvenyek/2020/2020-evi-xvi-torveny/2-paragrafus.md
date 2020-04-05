@@ -1,0 +1,1 @@
+2. § Az Ingatlanok tulajdonjogának átruházására vonatkozó, az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében az egyes ingatlanok vonatkozásában a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg. A szerződésekben az Ingatlanok forgalmi értékeként a könyv szerinti értéket kell megjelölni.
