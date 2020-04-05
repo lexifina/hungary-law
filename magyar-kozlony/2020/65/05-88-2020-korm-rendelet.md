@@ -1,0 +1,224 @@
+# A Kormány 88/2020. (IV. 5.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 65. szám, 2020. április 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ehUFEb4Oi2A5BO53nqWc5e83ac55121f0/dokumentumok/a67ce792810ae64f0fa5758c88c5876a95204b4e/letoltes)
+
+---
+
+A Kormány 88/2020. (IV. 5.) Korm. rendelete
+a veszélyhelyzet során teendő, egyes szociális és gyermekvédelmi ellátásokkal kapcsolatos intézkedésekről,
+valamint a szociális szolgáltatásoknak a veszélyhelyzet során elrendelt működési rendjéről
+A Kormány az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus
+elleni védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 20. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus
+elleni védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. A veszélyhelyzet során teendő egyes szociális és gyermekvédelmi ellátásokkal kapcsolatos
+intézkedések
+1. §
+Ha
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) szerinti havi
+rendszeres szociális ellátás Szt. 25. § (4)–(6) bekezdése szerinti rendszeres felülvizsgálatának időpontja, vagy
+b) a gyermekek otthongondozási díja Szt. 134/H. § (5) bekezdése szerinti felülvizsgálatának időpontja
+a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet (a továbbiakban: Vr.) hatályvesztését követő
+15 napon belüli időszakban esedékes, a felülvizsgálatot nem kell lefolytatni. Ezekben az esetekben a felülvizsgálatot
+a Vr. hatályvesztésének hónapját követő második hónap végéig kell lefolytatni.
+2. §
+A Vr.-rel kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) alatt lejáró közgyógyellátásra való jogosultság
+a Vr. hatályvesztésének napjától számított további 90 nappal meghosszabbodik.
+3. §
+Az e rendelet hatálybalépésekor fennálló és a veszélyhelyzet alatt lejáró, az Szt. 54. §-a alapján az egészségügyi
+szolgáltatás igénybevétele céljából megállapított jogosultság időtartama meghosszabbodik a Vr. hatályvesztésének
+hónapját követő második hónap végéig.
+4. §
+Az Szt. 130. §-a szerinti támogatás a fejlesztő foglalkoztatásban résztvevő személy napi munkavégzésétől
+függetlenül érvényesíthető azon személyek után, akik a veszélyhelyzet kihirdetése napján a fejlesztő
+foglalkoztatónál fejlesztési jogviszonyban vagy munkaviszonyban álltak és jogviszonyuk a veszélyhelyzet alatti
+elszámolási időszakban is fennállt.
+5. §
+A veszélyhelyzet alatt lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes
+törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően csak a Vr.
+hatályvesztését követő második hónap utolsó napján szűnik meg.
+6. §
+A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint
+a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló
+327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: Mmtr.) rendelkezéseit a Vr. hatályvesztését követő harmincadik
+napig a következő eltérésekkel kell alkalmazni:
+a) megváltozott munkaképességű munkavállalónak kell tekinteni azt a személyt is, aki a veszélyhelyzet
+kihirdetésének napján az Mmtr. 1. § 6. pontja szerinti megváltozott munkaképességű személynek vagy
+fogyatékossági támogatásban részesülő személynek minősült,
+b) az Mmtr. 8. § (1) bekezdésének f) pontját, 11/A. § (4) bekezdését, 14. § (3) bekezdését, 21. § (3) bekezdés
+a) pont ab) alpontját, b), c) és e) pontját, és 37. § (2) bekezdését nem kell alkalmazni,
+c) az Mmtr. 17. § (1) bekezdés a) pontja szerinti bér- és többletköltség támogatás a munkavégzés időtartamától
+függetlenül érvényesíthető azon megváltozott munkaképességű munkavállalók után, akik a veszélyhelyzet
+kihirdetése napján az akkreditált munkáltatónál munkaviszonyban álltak és egyéni foglalkoztatási
+megállapodással rendelkeztek, valamint munkaviszonyuk a veszélyhelyzet alatti elszámolási időszakban is
+fennállt,
+d) az állásidő alkalmazása esetén az Mmtr. 38. § (1) bekezdés c) és d) pontját nem kell alkalmazni.
+
+7. § (1) A veszélyhelyzet alatt a gyámhatósági eljárásban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997.
+évi XXXI. törvény 128. § (3) bekezdése szerinti személyes jognyilatkozatok felvétele helyett az ügyfelek írásban
+nyilatkoznak, a gyámhatóság az írásba foglalt ügyféli nyilatkozatok mellett a tárgyalás megtartását mellőzi.
+(2) A gyámhatósági eljárásban a veszélyhelyzet alatt Magyarországon tartózkodó ügyfelek esetében is személyesen
+megtett jognyilatkozatnak kell tekinteni a kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton megtett
+nyilatkozatot.
+(3) A gyámhatóság a veszélyhelyzet alatt a gyermekek és a gondnokság alatt álló személyek érdekében a hatáskörébe
+tartozó azonnali és soronkívüliséget igénylő, így különösen az ideiglenes hatályú elhelyezés, a nevelésbe vétel,
+a gyám- és gondnokrendelés tárgyában a döntések meghozatalát folyamatosan biztosítja. Az örökbefogadható
+gyermekek érdekében folyamatosan biztosítani kell az örökbefogadás iránti kérelem felvételét, valamint a kötelező
+gondozásba történő kihelyezésről és az örökbefogadásról való döntés meghozatalát.
+(4) A gyámhatóság a veszélyhelyzet alatt indokolt esetben eltekinthet a tényállás tisztázásához szükséges
+környezettanulmány beszerzésétől vagy elvégzésétől.
+8. §
+Az e rendelet hatálybalépésekor fennálló és a veszélyhelyzet alatt lejáró rendszeres gyermekvédelmi kedvezményre
+való jogosultság időtartama, valamint a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozat
+hatályának időtartama meghosszabbodik a Vr. hatályvesztésének hónapját követő második hónap végéig.
+9. §
+A veszélyhelyzet alatt a szociális, gyermekjóléti és gyermekvédelmi szolgáltatóknál, intézményeknél és hálózatoknál
+a) a működést engedélyező szerv rendes ellenőrzést nem tarthat, rendkívüli ellenőrzést csak különösen
+indokolt esetben, ellátotti érdekből végezhet,
+b) a Magyar Államkincstár helyszíni ellenőrzést nem tarthat.
+10. §
+Ha a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+10. § (3) bekezdése vagy 11. § (3) bekezdése szerinti határidő a veszélyhelyzet időtartama alatt jár le, a határidő
+a veszélyhelyzet megszűnését követő harmincadik napig meghosszabbodik.
+11. §
+A Vr. hatályvesztéséig az egészségi állapottól, személyiség állapottól vagy fogyatékosságtól függő ellátások
+felülvizsgálata nem végezhető el, a felülvizsgálathoz irat megküldése nem kérhető, erre hivatkozva az ellátás,
+kedvezmény, mentesség a Vr. hatályvesztését követő második hónap utolsó napjáig nem szüntethető meg.
+12. § (1) Ha a nyugellátás, a nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó egyéb ellátás, a családtámogatási
+ellátások, a fogyatékossági támogatás vagy az egészségbiztosítás pénzbeli ellátásainak megállapítása iránti
+eljárásban az ügyfél a hiánypótlási felhívásban foglaltaknak határidőben nem tesz eleget, az eljáró hatóság
+az eljárást a hiánypótlás teljesítéséig, de legkésőbb a Vr. hatályvesztését követő 15. napig felfüggesztheti.
+(2) Ha a megállapított nyugellátás további folyósítása jogszabályban előírt, rendszeres időközönként jelentkező feltétel
+igazolásán alapul, a feltételt a Vr. hatályvesztéséig nem kell igazolni, az igazolás elmulasztása miatt a nyugellátás
+folyósítása a Vr. hatályvesztését követő 30. napig nem függeszthető fel.
+(3) A külföldön élő vagy tartózkodó jogosult esetében a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI.
+törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 76. §-a szerinti adategyeztetés elmaradása miatt
+az ellátás folyósítása a Vr. hatályvesztését követő második hónap utolsó napjáig nem szüntethető meg.
+(4) Ha a Nyugdíjfolyósító Igazgatóság a követelését az általa folyósított ellátásból levonással érvényesíti, a levonás a Vr.
+hatályvesztéséig méltányosságból, kérelemre szüneteltethető.
+13. §
+Ha a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló 45/2019. (III. 12.) Korm. rendelet 7. §
+(2) bekezdése szerinti határidő a veszélyhelyzet időtartama alatt jár le, a határidő a Vr. hatályvesztését követő
+hatvanadik napig meghosszabbodik.
+14. § (1) A veszélyhelyzet ideje alatt a gyermekek otthongondozási díja és az ápolási díj megállapítása iránti eljárásban
+a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes
+szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 21. § (1) bekezdése, illetve 25/B. § (1) bekezdése szerinti szakértői
+vizsgálat a Vr. hatályvesztéséig az ápolás helyszínén végzett vizsgálat mellőzésével, kizárólag az ápolt személy
+
+önkiszolgálási képességére, illetve ápolási-gondozási szükségletére vonatkozó hivatalos iratra – így különösen
+a kórházi zárójelentésre – alapozva is elvégezhető.
+(2) Ha a vizsgálat elvégzéséhez szükséges iratok nem állnak az eljáró hatóság rendelkezésére, azok hatóságnak történő
+megküldésére az ügyfelet hiánypótlás keretében fel kell hívni. A hiánypótlás az ügyfél rendelkezésére álló modern
+infokommunikációs eszköz használatával, elektronikus úton is teljesíthető.
+(3) Ha az ügyfél a (2) bekezdés szerinti hiánypótlási felhívásban foglaltaknak határidőben nem tesz eleget, vagy
+a hiánypótlás keretében megküldött iratanyagból az ápolt személy önkiszolgálási képességének, illetve
+ápolási gondozási szükségletének mértéke nem állapítható meg, az eljáró hatóság az eljárást legkésőbb a Vr.
+hatályvesztéséig felfüggesztheti.
+(4) Az (1) bekezdés alapján az ápolás helyszínén végzett vizsgálat mellőzésével megállapított ellátás esetén az ellátásra
+való jogosultságot a Vr. hatályvesztésének hónapját követő második hónap végéig felül kell vizsgálni.
+15. §
+A veszélyhelyzet kihirdetésekor fennálló, a tankötelezettsége megszűnését követően köznevelési intézményben
+vagy szakképző intézményben tanulmányokat folytató gyermekre (személyre) tekintettel, vagy részére
+megállapított iskoláztatási támogatásra való jogosultság akkor is a Vr. hatályvesztése hónapjának végén szűnik meg,
+ha annak időpontja későbbi, mint a 2019/2020-as tanév utolsó napja.
+2. A szociális szolgáltatásoknak a veszélyhelyzet során elrendelt működési rendje
+16. § (1) Az Szt. szerinti szociális szolgáltatások működése során az élet- és vagyonbiztonságot veszélyeztető tömeges
+megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok
+egészségének és életének megóvása érdekében a veszélyhelyzet időtartama alatt
+a) a nappali ellátást nyújtó intézmények – ide nem értve a nappali melegedőt – épületében nyújtott
+szolgáltatások szünetelnek, azok látogatása az ott foglalkoztatott munkatársak kivételével tilos, a nappali
+ellátást nyújtó intézmények az ellátottak lakókörnyezetében nyújthatják a szükséges ellátást,
+b) – a népkonyha kivételével – étkeztetés esetében a napi egyszeri meleg étel csak kiszállítással biztosítható,
+c) a települési önkormányzat vagy a települési önkormányzattal ellátási szerződést kötött egyházi és nem
+állami fenntartó által nyújtott alapszolgáltatások esetén a szolgáltatói nyilvántartásba bejegyzett, valamint
+a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogszabály szerinti finanszírozási rendszerbe
+befogadott ellátotti létszám, feladatmutató és férőhelyszám túlléphető,
+d) az alapszolgáltatások igénybevételéhez szükséges ellátotti jogosultság vizsgálatát nem kell elvégezni,
+e) alapszolgáltatások esetén a napi igénybevételt igazoló ellátotti aláírástól el kell tekinteni,
+f) az a) pont szerinti szolgáltatásnyújtás esetén az igénybevevői nyilvántartásban rögzíteni kell az igénybevevőt
+akkor is, ha a szolgáltatásnyújtás az otthonában vagy infokommunikációs eszközön keresztül történik,
+g) a szolgáltatások nyújtása során a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól
+és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendeletben meghatározott
+ga) személyi és tárgyi feltételektől ellátási érdekből, a fenntartó döntése alapján ideiglenesen el lehet
+térni, és
+gb) egyes szolgáltatási elemek nyújtása a fenntartó döntése alapján szüneteltethető,
+h) házi segítségnyújtás esetében az újonnan felvételre kerülő személlyel személyi gondozásra irányuló
+megállapodást kell kötni, és a veszélyhelyzet időszakát nem kell figyelembe venni a személyi gondozás éves
+átlagának meghatározásakor,
+i) a fővárosi és megyei kormányhivatal a fogyatékos személyek alapvizsgálatát és a szociális intézményben
+elhelyezettek felülvizsgálatát nem végezheti el,
+j) a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF) a komplex szükségletfelmérést nem
+végezheti el.
+(2) Ha az átmeneti elhelyezést nyújtó szociális intézmény ellátottja jogviszonyának időtartama a veszélyhelyzet
+időtartama alatt jár le, és állapotánál fogva további, tartós elhelyezésre lenne szüksége, de a felvételi tilalom miatt
+ideiglenesen nem helyezhető el tartós bentlakást nyújtó intézményben, jogviszonyát a felvételi tilalom fennállását
+követő 60 napig meg lehet hosszabbítani.
+(3) Az (1) bekezdés szerinti intézkedéseknek megfelelő működés a központi költségvetésről szóló törvényben
+biztosított támogatásra való jogosultságot nem érinti. Az (1) bekezdés c) pontja szerinti esetben az ellátotti létszám,
+feladatmutató és férőhelyszám a veszélyhelyzet időtartama alatt, valamint a Vr. hatályvesztését követő harmincadik
+
+napig a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogszabály szerinti finanszírozási rendszerbe
+történő befogadás hiányában is a központi költségvetésről szóló törvényben biztosított támogatásra jogosít.
+(4) Az (1) bekezdés d), i) és j) pontja szerinti vizsgálatok elvégzése nélkül a szociális szolgáltatás a veszélyhelyzet
+fennállása alatt, valamint a Vr. hatályvesztését követő harmincadik napig jogszerűen nyújtható.
+(5) A fejlesztő foglalkoztatásba bevontak rehabilitációs alkalmassági vizsgálatáról szóló, veszélyhelyzet alatt lejáró
+szakvélemények, javaslatok érvényessége a Vr. hatályvesztését követő hatvanadik napig meghosszabbodik.
+17. §
+A veszélyhelyzet időtartama alatt az idősek otthonában foglalkoztatottak számára 24 órás műszak is elrendelhető.
+A 24 órás műszakot követően 48 óra összefüggő pihenőidőt kell biztosítani.
+3. A veszélyhelyzet alatt a szociális, gyermekjóléti és gyermekvédelmi intézményekben élők
+folyamatos ellátásának biztosítása érdekében szükséges intézkedések
+18. § (1) A gyermekek napközbeni ellátását nyújtó szolgáltatók, intézmények fenntartói, a közgyűjtemények fenntartói,
+a közművelődési intézmények fenntartói, valamint a helyi önkormányzatok e rendelet hatálybalépésétől számított
+5 munkanapon belül – az SZGYF honlapján közzétett módon – adatot szolgáltatnak az SZGYF-nek azokról a 60.
+életévüket be nem töltött és nem krónikus beteg foglalkoztatottjaikról, akik a veszélyhelyzettel összefüggésben
+– különösen az elrendelt rendkívüli szünet, járványügyi zárlat vagy más intézkedés idejére – mentesültek
+a munkavégzési kötelezettség alól.
+(2) Az (1) bekezdés szerinti adatszolgáltatás tartalmazza
+a) a foglalkoztatott természetes személyazonosító adatait,
+b) a foglalkoztatott végzettségét,
+c) a foglalkoztatott lakcímét,
+d) a foglalkoztatott egyéb elérhetőségeit és
+e) azon személyek számát és életkorát, akikről a foglalkoztatott gondoskodik.
+(3) Az (1) bekezdés szerint adatszolgáltatásra kötelezettek a munkavégzés alól mentesülő személyek körében, valamint
+a (2) bekezdés szerinti adatokban bekövetkező változást a következő munkanapon bejelentik az SZGYF-nek.
+(4) A veszélyhelyzet időtartama alatt a szociális, gyermekjóléti és gyermekvédelmi intézményekben élők folyamatos
+ellátásának biztosítása, illetve az otthonukban élő, elsősorban idős rászorulók szociális alapszolgáltatásának
+biztosítása érdekében az (1) bekezdés szerinti foglalkoztatottak az SZGYF döntése alapján a munkaszerződéstől,
+kinevezéstől eltérő foglalkoztatás útján, az SZGYF vagy harmadik személy által fenntartott szociális szolgáltatónál,
+szociális intézménynél, gyermekek átmeneti gondozását nyújtó intézménynél vagy gyermekvédelmi intézménynél
+is foglalkoztathatók.
+(5) A fenntartó az SZGYF-től kérheti a (4) bekezdés alapján nála történő foglalkoztatást, ha az általa fenntartott
+szociális szolgáltatónál, szociális intézménynél, gyermekek átmeneti gondozását nyújtó intézménynél, illetve
+gyermekvédelmi intézménynél jelentkező munkaerőhiány az ellátás biztonságát veszélyezteti.
+(6) A (4) bekezdés alapján a foglalkoztatottat a (2) bekezdés e) pontja szerinti körülményekre, a várható napi utazási
+időre és a végzettségére figyelemmel lehet foglalkoztatni. 60 éven felüli személy és krónikus beteg a (4) bekezdés
+alapján nem foglalkoztatható.
+(7) A foglalkoztatott a (4) bekezdés szerinti foglalkoztatás esetén az általa ellátott munkakörre előírt, de legalább
+a szerződése, kinevezése szerinti alapbérre, illetményre jogosult. A munkabért, illetményt továbbra is
+a foglalkoztatott szerződése, kinevezése szerinti munkáltató fizeti meg. Ha az ellátott munkakörre előírt munkabér,
+illetmény magasabb, mint a szerződés, kinevezés alapján járó alapbér, illetmény, az a munkáltató, amelynél
+a foglalkoztatás történik, a különbözetet megtéríti a szerződés, kinevezés szerinti munkáltatónak.
+(8) A (4) bekezdés szerinti foglalkoztatás időtartama alatt a munkáltatói jogokat– a jogviszony megszüntetése
+kivételével – az a munkáltató gyakorolja, amelynél a foglalkoztatás történik.
+(9) A (4) bekezdés szerinti foglalkoztatás az SZGYF által meghatározott időpontban, de legkésőbb a veszélyhelyzet
+megszűnésének időpontjában megszűnik.
+
+4. Átmeneti és záró rendelkezések
+19. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 20. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+20. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+21. § (1) Az 1. §-ban és a 14. §-ban foglaltakat az e rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+(2) A 3. §-ban foglaltakat az egészségügyi szolgáltatásra való jogosultság iránti, a veszélyhelyzet alatt benyújtott
+kérelmek alapján indult, illetve az ismételt megállapítás tekintetében az e rendelet hatálybalépésekor folyamatban
+lévő ügyekben is alkalmazni kell.
+(3) A 8. §-ban foglaltakat a rendszeres gyermekvédelmi kedvezményre való jogosultság, valamint a hátrányos,
+halmozottan hátrányos helyzet fennállásának ismételt megállapítása iránti, a veszélyhelyzet alatt benyújtott
+kérelmek alapján indult, illetve az ismételt megállapítás tekintetében az e rendelet hatálybalépésekor folyamatban
+lévő ügyekben is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök
