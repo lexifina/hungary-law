@@ -144,8 +144,10 @@ a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylato
 
 b) az ellenérték megtérítését igazoló bizonylat,
 
-c) az I. végrehajtási időszak első kifizetési kérelmével egyidejűleg a számítástechnikai eszközök javítása, a szoftverfejlesztés, az informatikai rendszerek működtetése, fejlesztése érdekében kötött, cégszerű aláírással ellátott megbízási vagy vállalkozási szerződés, amelyet ismételten be kell nyújtani, ha a szerződés tartalmában, adataiban vagy a tevékenységet elvégző személyében változás következik be.
+c)[^11] az I. végrehajtási időszak első kifizetési kérelmével egyidejűleg a számítástechnikai eszközök javítása, a szoftverfejlesztés, az informatikai rendszerek működtetése, fejlesztése érdekében kötött, cégszerű aláírással ellátott megbízási vagy vállalkozási szerződés, amelyet ismételten be kell nyújtani, ha a szerződés tartalmában, adataiban vagy a tevékenységet elvégző személyében változás következik be, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat.
 
 (18) Ha az (1) bekezdés b) pontja szerinti kérelmező a (12) bekezdésben meghatározott határidőig, valamint az (1) bekezdés c) pontja szerinti kérelmező a (16) bekezdésben meghatározott határidőig nem tesz eleget az üzemben tartási, illetve megőrzési kötelezettségének, akkor az adott kifizetési kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
 
 (19) Az (1) bekezdés b) és c) pontja szerinti, nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
+
+[^11]: A 18. § (17) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 2. §-ával megállapított szöveg.

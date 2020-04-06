@@ -4,7 +4,7 @@
 
 a) méhészeti tárgyú, alkalmazott kutatás elvégzése,
 
-b) egy fő, a kutatások folyamatos szakmai koordinálását végző kutatási koordinátor egyéni vagy társas vállalkozói jogviszonyban történő feladatának ellátásával kapcsolatos vállalkozói díja,
+b)[^19] egy fő, a kutatások folyamatos szakmai koordinálását végző kutatási koordinátor egyéni vagy társas vállalkozói jogviszonyban történő feladatának ellátásával kapcsolatos vállalkozói díja vagy megbízási szerződés esetén a kutatási koordinátor megbízási díja,
 
 c) a kutatási tervet végrehajtó szervezet, intézmény által elkészített kutatási beszámoló elbírálása érdekében az OMME elnöksége által felkért szakmai bíráló bizottság díja
 
@@ -18,7 +18,7 @@ c) a kutatási tervet végrehajtó szervezet, intézmény által elkészített k
 
 (5) Kifizetési kérelem végrehajtási időszakonként több alkalommal is benyújtható. Ha a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylatok bármelyikének teljesítési dátuma nem az adott végrehajtási időszakra esik, azonban a felmerült költségek egyértelműen az adott végrehajtási időszakra vonatkoznak, akkor ezen költségek elszámolhatóak az adott végrehajtási időszakban, függetlenül a kiállított számla teljesítési dátumától.
 
-(6) Az (1) bekezdés a) pontja szerinti intézkedés keretében az előzetes vizsgálati, kutatási tervnek megfelelő, az OMME által elfogadott kutatási beszámoló alapján kiállított számlán szereplő forintösszeg számolható el.
+(6)[^20] Az (1) bekezdés a) pontja szerinti intézkedés keretében a miniszter által jóváhagyott kutatási tervnek megfelelő vállalkozói és megbízási szerződés költsége, és az OMME által elfogadott kutatási beszámoló alapján kiállított számlán szereplő forintösszeg számolható el.
 
 (7) Az (1) bekezdés b) pontja szerinti intézkedés keretében a kutatási koordinátori tevékenységet végző személy vállalkozói díja legfeljebb 600 000 forint/hó értékben számolható el.
 
@@ -26,7 +26,7 @@ c) a kutatási tervet végrehajtó szervezet, intézmény által elkészített k
 
 (9) Az (1) bekezdés a) pontja szerinti intézkedés esetén a kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
 
-a) a kutatással kapcsolatban felmerült, a kutatást végző nevére és címére kiállított számlák és az ellenérték megtérítését igazoló bizonylatok, a kutatáshoz kapcsolódó megbízás esetén a megbízási szerződés, a bérkifizetési lista, továbbá a bérkifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat,
+a)[^21] a kutatással kapcsolatban felmerült, a kutatást végző nevére és címére kiállított számlák és az ellenérték megtérítését igazoló bizonylatok, a kutatási tervnek megfelelő vállalkozói szerződés, és, a kutatáshoz kapcsolódó megbízás esetén a megbízási szerződés, a bérkifizetési lista, továbbá a bérkifizetési lista alapján történő kifizetés megtörténtét igazoló bizonylat,
 
 b) az előzetesen az OMME részére benyújtott kutatási terv,
 
@@ -54,8 +54,13 @@ c) a kutatási koordinátor által az OMME nevére és címére kiállított sz�
 
 a) a szakmai bíráló bizottság tagja által az OMME nevére és címére kiállított számla és az ellenérték megtérítését igazoló bizonylat,
 
-b) a szakmai bíráló bizottság tagjának cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése,
+b)[^22] a szakmai bíráló bizottság tagjának cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
 c) a szakmai bíráló bizottság tagjának vállalkozói igazolványa vagy egyéni vállalkozóként, egyéni cégként történő bejegyzését igazoló internetes nyilvántartás nyomtatott példánya, társas vállalkozás esetén a cégszerű aláírással ellátott társasági szerződés,
 
 d) kutatási beszámoló bírálati eredményéről készített rövid összefoglaló.
+
+[^19]: A 27. § (1) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^20]: A 27. § (6) bekezdése a 12/2020. (IV. 3.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^21]: A 27. § (9) bekezdés a) pontja a 12/2020. (IV. 3.) AM rendelet 7. § k) pontja szerint módosított szöveg.
+[^22]: A 27. § (11) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.

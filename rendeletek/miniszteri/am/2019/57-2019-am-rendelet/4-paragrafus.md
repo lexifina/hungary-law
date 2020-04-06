@@ -64,4 +64,6 @@ c) kérelmező címe,
 
 d) megye megnevezése.
 
-(17) A 2. § (1) bekezdés a) pont ab) és ad) alpontja, az ag) alpontban foglalt, az OMME szervezeti ülés költségeinek támogatása alintézkedés, valamint b) pont bc) alpontja szerinti intézkedés esetében a támogatás igénybevételének feltétele a rendezvényen elhangzott előadás vagy előadások tematikájának a kifizetési kérelemhez történő csatolása.
+(17)[^4] A 2. § (1) bekezdés a) pont ab) és ad) alpontja, az ag) alpontban foglalt, az OMME szervezeti ülés költségeinek támogatása alintézkedés, valamint b) pont bc) alpontja szerinti intézkedés esetében a támogatás igénybevételének feltétele a rendezvényen elhangzott előadás vagy rendezvény Kincstár honlapján közzétett közleményben foglaltaknak megfelelően elkészített tematikájának a kifizetési kérelemhez történő csatolása.
+
+[^4]: A 4. § (17) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § d) pontja szerint módosított szöveg.

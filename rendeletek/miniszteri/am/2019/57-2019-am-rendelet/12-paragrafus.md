@@ -2,7 +2,7 @@
 
 a) előadói díj legfeljebb 40 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b) előadó szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény, étkezési költsége, valamint az OMME tagszervezet elnökének vagy megbízottjának étkezési költsége legfeljebb 5000 forint/nap/fő/rendezvény összegig;
+b)[^7] előadó szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény, valamint az előadó és az OMME tagszervezet elnökének vagy megbízottjának étkezési költsége legfeljebb 5000 forint/nap/fő/rendezvény összegig;
 
 c) előadó utazási költsége:
 
@@ -47,3 +47,5 @@ j) szaktanácsadók képzése esetén a képzésen való részvételt igazoló d
 k) a szervező nyilatkozata arról, hogy a résztvevő méhészek, szaktanácsadók nem fizettek részvételi vagy belépődíjat;
 
 l) az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről, ha a kérelmet tagszervezete nyújtja be.
+
+[^7]: A 12. § (1) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § f) pontja szerint módosított szöveg.

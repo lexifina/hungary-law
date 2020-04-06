@@ -1,6 +1,6 @@
 ## 11. Méz és méhészeti termékek kinyeréséhez és kiszereléséhez, valamint léptároláshoz szükséges új eszköz beszerzésének támogatása
 
-16. § (1) A 2. § (1) bekezdés a) pont ae) alpontja szerinti intézkedés vonatkozásában támogatás a hatékonyabb és élelmiszer-biztonsági szempontból megfelelő pergetés, valamint az ahhoz kapcsolódó munkafolyamatok elvégzését elősegítő, méz és méhészeti termékek kinyeréséhez, kiszereléséhez, valamint a léptároláshoz szükséges új eszköz beszerzéséhez – a (4) bekezdésben felsorolt eszközcsoportokra – vehető igénybe.
+16. § (1)[^10] A 2. § (1) bekezdés a) pont ae) alpontja szerinti intézkedés vonatkozásában támogatás a hatékonyabb és élelmiszer-biztonsági szempontból megfelelő pergetés, valamint az ahhoz kapcsolódó munkafolyamatok elvégzését elősegítő, méz és méhészeti termékek kinyeréséhez, kiszereléséhez, valamint a léptároláshoz szükséges új eszköz beszerzéséhez – a (4) és (5) bekezdésben felsorolt eszközcsoportokra – vehető igénybe.
 
 (2) A támogatás keretösszege legfeljebb 450 000 eurónak megfelelő forintösszeg végrehajtási időszakonként.
 
@@ -73,3 +73,5 @@ c) új fagyasztóház (hűtőgépészettel együtt) vagy új fagyasztókonténer
 (15) Ha a kérelmező a (8) bekezdésben meghatározott határidőig nem tesz eleget az üzemben tartási, illetve megőrzési kötelezettségének, akkor az adott kifizetési kérelemre igénybe vett támogatás egésze jogosulatlannak minősül.
 
 (16) A nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
+
+[^10]: A 16. § (1) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § h) pontja szerint módosított szöveg.

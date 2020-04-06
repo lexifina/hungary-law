@@ -22,7 +22,7 @@ c) a III. végrehajtási időszakra vonatkozóan 2021. október 16-ától
 
 a) a 2. § (1) bekezdés b) pont ba) alpontja szerinti intézkedés esetén:
 
-aa) az I. végrehajtási időszak vonatkozásában 2020. április 6-a,
+aa)[^1] az I. végrehajtási időszak vonatkozásában 2020. május 31-e,
 
 ab) a II. végrehajtási időszak vonatkozásában 2021. április 6-a,
 
@@ -52,9 +52,9 @@ db) a II. végrehajtási időszak vonatkozásában 2021. augusztus 15-e,
 
 dc) a III. végrehajtási időszak vonatkozásában 2022. augusztus 15-e;
 
-e) a 2. § (1) bekezdés a) pont ab) és ad), valamint b) pont bc) alpontja szerinti intézkedések esetén a rendezvény zárónapjától számított hatvanadik nap, az adott végrehajtási időszakban október 16-át megelőzően megrendezett rendezvények esetén ugyanazon végrehajtási időszak október 16-át követő harmincadik nap, de legkésőbb a d) pontban meghatározott határidő azzal, hogy ha a rendezvény több napos, zárónapnak azon utolsó napot kell tekinteni, amely napon a támogatható rendezvény megvalósul;
+e)[^2] a 2. § (1) bekezdés a) pont ab) és ad), valamint b) pont bc) alpontja szerinti intézkedések esetén a rendezvény zárónapjától számított kilencvenedik nap, az adott végrehajtási időszakban október 16-át megelőzően megrendezett rendezvények esetén ugyanazon végrehajtási időszak október 16-át követő harmincadik nap, de legkésőbb a d) pontban meghatározott határidő azzal, hogy ha a rendezvény több napos, zárónapnak azon utolsó napot kell tekinteni, amely napon a támogatható rendezvény megvalósul;
 
-f) a 2. § (1) bekezdés a) pont aa) alpontjához tartozó alintézkedések közül a 10. § (1) bekezdés a) és c) alpontja szerinti alintézkedések, továbbá a 2. § (1) bekezdés a) pont ac) alpontja, valamint g) pontja szerinti intézkedések esetén a tárgyhónap utolsó napját követő hatvanadik nap, de legkésőbb a d) pontban meghatározott határidő.
+f)[^3] a 2. § (1) bekezdés a) pont aa) alpontjához tartozó alintézkedések közül a 9. § (1) bekezdés a) és c) alpontja szerinti alintézkedések, továbbá a 2. § (1) bekezdés a) pont ac) alpontja, valamint g) pontja szerinti intézkedések esetén a tárgyhónap utolsó napját követő hatvanadik nap, de legkésőbb a d) pontban meghatározott határidő.
 
 (6) A hiánypótlás benyújtásának jogvesztő határideje:
 
@@ -79,3 +79,7 @@ c) a III. végrehajtási időszak vonatkozásában 2022. szeptember 1-je.
 (13) Az elbírálási sorrendben a kifizetési kérelem beérkezési napjának a határidőben teljesített hiánypótlás beérkezésének napját, ennek elmaradása esetén a hiánypótlási határidő utolsó napját követő nyolcadik napot kell tekinteni.
 
 (14) A 4. § (9) bekezdése szerinti keretátcsoportosítás engedélyezése után, az adott intézkedésre meghatározott támogatási keret kimerülését követően beérkezett kifizetési kérelmek visszautasításáról a Kincstár dönt. A 2. § (1) bekezdés b) pont ba) alpontja, valamint e) pontja szerinti intézkedések esetén, ha a 4. § (9) bekezdése szerinti keretátcsoportosítás engedélyezése után a jóváhagyható támogatási igény meghaladja az elkülönített keretösszeget, akkor az egyes kifizetési kérelmek alapján jóváhagyható támogatási összegeket arányosan csökkenteni kell.
+
+[^1]: A 3. § (5) bekezdés a) pont aa) alpontja a 12/2020. (IV. 3.) AM rendelet 7. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (5) bekezdés e) pontja a 12/2020. (IV. 3.) AM rendelet 7. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (5) bekezdés f) pontja a 12/2020. (IV. 3.) AM rendelet 7. § c) pontja szerint módosított szöveg.
