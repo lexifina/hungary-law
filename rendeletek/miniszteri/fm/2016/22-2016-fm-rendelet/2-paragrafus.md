@@ -34,6 +34,12 @@ b) tehet nyilatkozatot az Mkk tv. 6. § (2) bekezdése szerinti mezőgazdasági 
 
 (6) Az (5) bekezdés szerinti nyilatkozat kizárólag azon év vagy évek vonatkozásában tehető meg, amelyre vagy amelyekre vonatkozóan az ügyfél valamely korábbi évben nem szolgáltatott az egységes kérelmében, az elektronikusan benyújtott kárenyhítő juttatás iránti kérelmében vagy az elektronikusan benyújtott biztosítási szerződés területösszesítő mellékletében hozamadatot. Az ügyfél által a korábbi egységes kérelemben és az (5) bekezdés szerinti nyilatkozatban megadott adat a nyilatkozat megtételét követően nem módosítható.
 
+(6a)[^7] A szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi- és egyéb borszőlőültetvény kultúrára vonatkozóan
+
+a) ha az ügyfél a 2019. évben nem igényelt kárenyhítő juttatást, akkor a 2019. évi hozamot az Mkk. tv. 2. § 2a. pontja szerinti, a Nemzeti Agrárkutatási és Innovációs Központ által meghatározott 2019. évi országos átlaghozam alapján a Kincstár állapítja meg,
+
+b) ha az ügyfél a 2019. évben igényelt kárenyhítő juttatást, akkor a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet 7. § (5) és (6) bekezdésében foglaltak szerint a kárenyhítő juttatás iránti kérelemben már kiszámított 2019. évi hozamot kell figyelembe venni.
+
 (7) Az (1) bekezdésben meghatározott támogatásokra vonatkozó igényléseken kívül az egységes kérelemben kell bejelentenie az összes, a hasznosításában lévő mezőgazdasági területet a 3. § (2) bekezdésében foglaltaknak megfelelően azon ügyfélnek, aki
 
 a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 46. cikke szerinti, a szőlőültetvények szerkezetátalakításához és átállításához nyújtott támogatást kérelmez, és rendelkezik mezőgazdasági területtel, vagy
@@ -41,3 +47,4 @@ a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, �
 b) az 1308/2013/EU európai parlamenti és tanácsi rendelet 46. cikke szerinti, a szőlőültetvények szerkezetátalakításához és átállításához nyújtott támogatásban részesül a támogatási döntés jogerőre emelkedésétől számított három évig.
 
 [^6]: A 2. § (3) bekezdését a 10/2019. (IV. 1.) AM rendelet 24. §-a hatályon kívül helyezte.
+[^7]: A 2. § (6a) bekezdését a 10/2020. (IV. 3.) AM rendelet 21. §-a iktatta be.
