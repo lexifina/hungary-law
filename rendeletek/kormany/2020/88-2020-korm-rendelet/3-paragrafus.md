@@ -1,0 +1,1 @@
+## 2. § A Vr.-rel kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) alatt lejáró közgyógyellátásra való jogosultság a Vr. hatályvesztésének napjától számított további 90 nappal meghosszabbodik.
