@@ -1,22 +1,22 @@
 ## 22. Az erdőszélek mentén fekvő támogatható sáv
 
-23. § (1)[^115] Az erdőszélek mentén fekvő támogatható sáv abban az esetben vehető figyelembe ökológiai jelentőségű területként, ha az erdő közvetlenül határos a támogatható földterülettel, ahol az erdőterületen a lombkorona borítottságának mértéke legalább ötvenszázalékos.
+23. § (1)[^119] Az erdőszélek mentén fekvő támogatható sáv abban az esetben vehető figyelembe ökológiai jelentőségű területként, ha az erdő közvetlenül határos a támogatható földterülettel, ahol az erdőterületen a lombkorona borítottságának mértéke legalább ötvenszázalékos.
 
 (2) Mezőgazdasági termelés alatt álló, és mezőgazdasági termelés alatt nem álló erdőszélek mentén fekvő támogatható sáv is figyelembe vehető ökológiai jelentőségű területként.
 
-(2a)[^116] Mezőgazdasági termelés alatt álló erdőszélek mentén fekvő támogatható sáv akkor vehető figyelembe ökológiai jelentőségű területként, ha a sávon az ott termelt növénykultúra vetésétől annak betakarításáig nem használnak növényvédő szert, továbbá nem használnak csávázott vetőmagot kivéve, ha
+(2a)[^120] Mezőgazdasági termelés alatt álló erdőszélek mentén fekvő támogatható sáv akkor vehető figyelembe ökológiai jelentőségű területként, ha a sávon az ott termelt növénykultúra vetésétől annak betakarításáig nem használnak növényvédő szert, továbbá nem használnak csávázott vetőmagot kivéve, ha
 
 a) az évelő növénnyel bevetett terület a vetést követő évben vagy években kerül elszámolásra ökológiai jelentőségű területként, vagy
 
 b) a 2018. január 1-jét megelőzően elvetett növénykultúra 2018-ban vagy azt követően kerül elszámolásra ökológiai jelentőségű területként.
 
-(2b)[^117] A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell az (2a) bekezdés szerinti növényvédőszer-tilalom betartásáról. Amennyiben a mezőgazdasági termelő nyilatkozata szerint az adott ökológiai jelentőségű területen a (2a) bekezdés a) és b) pontjában meghatározott eseten kívül növényvédő szert vagy csávázott vetőmagot használ, a terület nem fogadható el ökológiai jelentőségű területként.
+(2b)[^121] A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell az (2a) bekezdés szerinti növényvédőszer-tilalom betartásáról. Amennyiben a mezőgazdasági termelő nyilatkozata szerint az adott ökológiai jelentőségű területen a (2a) bekezdés a) és b) pontjában meghatározott eseten kívül növényvédő szert vagy csávázott vetőmagot használ, a terület nem fogadható el ökológiai jelentőségű területként.
 
-(2c)[^118] Az ökológiai jelentőségű területnek bejelentett termelés alatt álló erdőszélek mentén fekvő támogatható hektársávon a (2a) bekezdés szerinti időszak alatt a növényvédőszer-használati tilalom betartását a mezőgazdasági termelőnek a 9/2015. (III. 13.) FM rendelet 8. melléklete szerinti gazdálkodási napló GN01, GN06 és GN07 betétlapjaival kell igazolnia és azokat öt évig meg kell őriznie, amelyeket a Kincstár helyszíni ellenőrzés keretében jogosult ellenőrizni.
+(2c)[^122] Az ökológiai jelentőségű területnek bejelentett termelés alatt álló erdőszélek mentén fekvő támogatható hektársávon a (2a) bekezdés szerinti időszak alatt a növényvédőszer-használati tilalom betartását a mezőgazdasági termelőnek a 9/2015. (III. 13.) FM rendelet 1. § 7. pontja szerinti gazdálkodási napló GN01, GN06 és GN07 betétlapjaival kell igazolnia és azokat öt évig meg kell őriznie, amelyeket a Kincstár helyszíni ellenőrzés keretében jogosult ellenőrizni.
 
-(2d)[^119] Ha a mezőgazdasági termelő a (2a) bekezdésben hivatkozott, a vetés időpontját közvetlenül megelőző, illetve a betakarítást, beforgatást követő időszakban, de még tárgyévben használ növényvédő szert, vagy fennáll annak a veszélye, hogy a talajból a vetést megelőző növényvédőszer-használat miatt szermaradvány mutatható ki, akkor a (2a) bekezdésben foglalt feltétel teljesítését a (2c) bekezdésben foglaltakon túl a tárgyév vagy a növényvédőszer-használat évre vonatkozó gazdálkodási napló GN10 betétlapjával igazolja.
+(2d)[^123] Ha a mezőgazdasági termelő a (2a) bekezdésben hivatkozott, a vetés időpontját közvetlenül megelőző, illetve a betakarítást, beforgatást követő időszakban, de még tárgyévben használ növényvédő szert, vagy fennáll annak a veszélye, hogy a talajból a vetést megelőző növényvédőszer-használat miatt szermaradvány mutatható ki, akkor a (2a) bekezdésben foglalt feltétel teljesítését a (2c) bekezdésben foglaltakon túl a tárgyév vagy a növényvédőszer-használat évre vonatkozó gazdálkodási napló GN10 betétlapjával igazolja.
 
-(2e)[^120] Ha az ellenőrzés eredményeképpen megállapítást nyer, hogy a mezőgazdasági termelő a gazdálkodási naplót nem vagy hiányosan vezette vagy annak adatai alapján nem bizonyítható egyértelműen, hogy betartotta az adott ökológiai jelentőségű terület teljes egészén a (2a) bekezdésben előírt növényvédő szer és csávázószer mentességi előírást, abban az esetben a terület nem fogadható el ökológiai jelentőségű területként.
+(2e)[^124] Ha az ellenőrzés eredményeképpen megállapítást nyer, hogy a mezőgazdasági termelő a gazdálkodási naplót nem vagy hiányosan vezette vagy annak adatai alapján nem bizonyítható egyértelműen, hogy betartotta az adott ökológiai jelentőségű terület teljes egészén a (2a) bekezdésben előírt növényvédő szer és csávázószer mentességi előírást, abban az esetben a terület nem fogadható el ökológiai jelentőségű területként.
 
 (3) Azon erdőszélek mentén fekvő támogatható sávon, amely nem áll mezőgazdasági termelés alatt, legeltetés és kaszálás abban az esetben végezhető, ha az erdőszélek mentén fekvő támogatható sáv továbbra is megkülönböztethető marad a vele határos támogatható földterülettől.
 
@@ -24,9 +24,9 @@ b) a 2018. január 1-jét megelőzően elvetett növénykultúra 2018-ban vagy a
 
 (5) Mezőgazdasági termelés alatt nem álló erdőszélek mentén fekvő támogatható sáv a súlyozási tényezőjével akkor vehető figyelembe, ha annak teljes területén nem folytatnak mezőgazdasági termelést.
 
-[^115]: A 23. § (1) bekezdése a 8/2018. (III. 29.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^116]: A 23. § (2a) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
-[^117]: A 23. § (2b) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
-[^118]: A 23. § (2c) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
-[^119]: A 23. § (2d) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
-[^120]: A 23. § (2e) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
+[^119]: A 23. § (1) bekezdése a 8/2018. (III. 29.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^120]: A 23. § (2a) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
+[^121]: A 23. § (2b) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
+[^122]: A 23. § (2c) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be, szövege a 10/2020. (IV. 3.) AM rendelet 15. §-a szerint módosított szöveg.
+[^123]: A 23. § (2d) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
+[^124]: A 23. § (2e) bekezdését a 8/2018. (III. 29.) FM rendelet 30. § (2) bekezdése iktatta be.
