@@ -6,8 +6,8 @@
 
 (4) A MePAR fizikai blokkrendszer térképi megjelenítésének képi háttere az ortofotó vagy a nagyon nagy felbontású űrfelvétel.
 
-(5)[^7] A MePAR egy fizikai blokk-alapú térinformatikai rendszer, valamint annak adatbázisa.
+(5)[^8] A MePAR egy fizikai blokk-alapú térinformatikai rendszer, valamint annak adatbázisa.
 
 (6) A MePAR térinformatikai rendszerének térképi alapját az Egységes Országos Vetületi Rendszerben kell elkészíteni és aktualizálni.
 
-[^7]: A 2. § (5) bekezdése a 8/2018. (III. 29.) FM rendelet 40. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (5) bekezdése a 8/2018. (III. 29.) FM rendelet 40. § c) pontja szerint módosított szöveg.

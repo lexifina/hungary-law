@@ -38,7 +38,9 @@ e) szórakozási vagy szabadidős tevékenységre használt területek (külön�
 
 f) halas- és horgásztó, lőtér, valamint ezek rendeltetésszerű használatát biztosító területek,
 
-g)[^4] állandó trágyalerakók területe;
+g)[^4] állandó trágyalerakók területe,
+
+h)[^5] karácsonyfa ültetvények;
 
 11. ortofotó: az 1306/2013/EU rendelet céljainak megfelelő pontosságú méretek és területek meghatározására alkalmas, ortogonális vetítési rendszerű, térképszerűen átdolgozott légifelvétel;
 
@@ -48,13 +50,13 @@ g)[^4] állandó trágyalerakók területe;
 
 14. támogatható terület: az 1307/2013/EU európai parlamenti és tanácsi rendelet 32. cikk (2)–(6) bekezdésében meghatározott földterület;
 
-15.[^5] tárgyév: az a naptári év, amelyben az ügyfél változásvezetésre vonatkozó bejelentést tesz;
+15.[^6] tárgyév: az a naptári év, amelyben az ügyfél változásvezetésre vonatkozó bejelentést tesz;
 
 16. távérzékeléses ellenőrzés: a támogatási kérelmekben szereplő adatok valódiságának, valamint a támogatási feltételek teljesítésének vizsgálata az űr- és légifelvételek objektív adatainak kiértékelésével;
 
 17. tematikus réteg: a térinformatikai rendszer részét képező, logikailag összetartozó adatokat tartalmazó részhalmaz;
 
-18.[^6] változásvezetés: a 8. § (1) bekezdése szerinti adatoknak a tényleges helyszíni állapottól való eltérése miatt – a hatóság hivatalos tudomásszerzése vagy az ügyfél bejelentése alapján – indult, a nem helytálló adatok módosítására irányuló eljárás.
+18.[^7] változásvezetés: a 8. § (1) bekezdése szerinti adatoknak a tényleges helyszíni állapottól való eltérése miatt – a hatóság hivatalos tudomásszerzése vagy az ügyfél bejelentése alapján – indult, a nem helytálló adatok módosítására irányuló eljárás.
 
 19. védett tájképi elem: az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet 2. § n) pontjában meghatározott terület.
 
@@ -62,5 +64,6 @@ g)[^4] állandó trágyalerakók területe;
 [^2]: Az 1. § 10. pont a) alpontja a 8/2018. (III. 29.) FM rendelet 37. §-ával megállapított szöveg.
 [^3]: Az 1. § 10. pont c) alpontja a 8/2018. (III. 29.) FM rendelet 40. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § 10. pont g) alpontja a 8/2018. (III. 29.) FM rendelet 40. § b) pontja szerint módosított szöveg.
-[^5]: Az 1. § 15. pontja a 10/2019. (IV. 1.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § 18. pontja a 10/2019. (IV. 1.) AM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 10. pont h) alpontját a 10/2020. (IV. 3.) AM rendelet 20. §-a iktatta be.
+[^6]: Az 1. § 15. pontja a 10/2019. (IV. 1.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § 18. pontja a 10/2019. (IV. 1.) AM rendelet 13. § (2) bekezdésével megállapított szöveg.
