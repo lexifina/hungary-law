@@ -1,0 +1,1 @@
+## 7. § Ha a terhelt a külföldön folyamatban lévő büntetőeljárásban személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, a büntetőeljárás nem vehető át, ha a terhelt átszállítása az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályaival ellentétes.
