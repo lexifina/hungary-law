@@ -50,7 +50,7 @@
 
 ## – Az V–VI. fatermési osztályba sorolt erdőrészletekben végzett erdősítések sikeresnek minősülnek a program befejezésének évében, ha azok a táblázatban megadott tőszám és borítottsági elvárásoknak átlagosan 50%-ban (erdőssztyepp erdőkben 30%-ban) megfelelnek. Az ilyen kedvezőtlen termőhelyi viszonyú erdősítésekben ugyancsak elfogadható még, ha abban legfeljebb 0,5 ha-os, egymással nem érintkező üres foltok találhatóak, amelyek összes területe azonban nem haladja meg az erdőrészlet területének 20%-át.
 
-9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^78]
+9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^79]
 
 ## Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
@@ -406,4 +406,4 @@
 
 | 11. | C-Kizár: | Az adott célprogramban a teljes terület támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
-[^78]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése, a 68/2013. (VII. 29.) VM rendelet 7. § (8) bekezdése, az 53/2014. (IV. 29.) VM rendelet 7. § (9) bekezdése és (10) bekezdés b) pontja szerint módosított szöveg.
+[^79]: A 9. melléklet a 44/2012. (V. 3.) VM rendelet 29. §-ával megállapított, a 104/2012. (X. 1.) VM rendelet 10. § (3) bekezdése, a 68/2013. (VII. 29.) VM rendelet 7. § (8) bekezdése, az 53/2014. (IV. 29.) VM rendelet 7. § (9) bekezdése és (10) bekezdés b) pontja szerint módosított szöveg.

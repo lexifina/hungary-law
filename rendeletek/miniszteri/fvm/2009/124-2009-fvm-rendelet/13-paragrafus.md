@@ -1,6 +1,6 @@
 ## A kötelezettségvállalás területére vonatkozó visszavonás szabályai
 
-13. § (1)[^23] A támogatási időszak alatt az ügyfél az erre rendszeresített és a Kincstár honlapján közzétett formanyomtatványon kérelmezheti a Kincstárnál
+13. § (1)[^24] A támogatási időszak alatt az ügyfél az erre rendszeresített és a Kincstár honlapján közzétett formanyomtatványon kérelmezheti a Kincstárnál
 
 a) a teljes kérelem visszavonást,
 
@@ -18,4 +18,4 @@ c) egy adott célprogramba bevitt terület részleges visszavonását.
 
 (6) Ha a támogatott terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület a célprogramból kizárásra kerül.
 
-[^23]: A 13. § (1) bekezdés nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 18. § b) és d) pontja szerint módosított szöveg.
+[^24]: A 13. § (1) bekezdés nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 18. § b) és d) pontja szerint módosított szöveg.

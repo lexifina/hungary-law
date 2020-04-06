@@ -1,8 +1,8 @@
 ## Az elháríthatatlan külső okokra vonatkozó szabályok
 
-11. § (1) Az elháríthatatlan külső okokra (a továbbiakban: vis maior) vonatkozó bejelentést az erdészeti hatóságnak a vis maiorral érintett terület szerint illetékes szervéhez kell benyújtani az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendeletben és a Vhr.-ben foglaltak alapján.
+11. § (1)[^18] Az elháríthatatlan külső okra (a továbbiakban: vis maior) vonatkozó bejelentést az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról és a vis maiorral összefüggő egyes miniszteri rendeletek módosításáról szóló 94/2015. (XII. 23.) FM rendeletben és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben foglaltak szerint kell megtenni.
 
-(2)[^18] Vis maior fennállása esetén az ügyfél (1) bekezdésben foglalt bejelentése alapján – az erdészeti hatóság véleményét figyelembe véve – a Kincstár dönt arról, hogy a vis maior a kötelezettségeknek
+(2)[^19] Vis maior fennállása esetén az ügyfél (1) bekezdésben foglalt bejelentése alapján – az erdészeti hatóság véleményét figyelembe véve – a Kincstár dönt arról, hogy a vis maior a kötelezettségeknek
 
 a) az adott évre vonatkozó, vagy
 
@@ -20,4 +20,5 @@ teljesítését teszi lehetetlenné.
 
 (7) Ha az adott erdőterület vonatkozásában legalább három alkalommal vis maior következtében vis maior bejelentést jóváhagyó döntés születik, akkor az adott célprogramból az érintett terület a támogatási időszak végéig kizárásra kerül az addig felvett támogatási összeg visszafizetési kötelezettsége nélkül.
 
-[^18]: A 11. § (2) bekezdés nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 18. § b) pontja szerint módosított szöveg.
+[^18]: A 11. § (1) bekezdése a 10/2020. (IV. 3.) AM rendelet 3. §-ával megállapított szöveg.
+[^19]: A 11. § (2) bekezdés nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 18. § b) pontja szerint módosított szöveg.

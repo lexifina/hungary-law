@@ -18,11 +18,11 @@ e) a főfafaj esetében az erdőtervezéskor fennálló állapot szerinti csúcs
 
 (3) A célprogram előírásai:
 
-a)[^44] az első kifizetési kérelem benyújtásának időpontjáig a fakitermelést, amely lehet tarvágás vagy fokozatos felújítóvágás, úgy kell végrehajtani, hogy az erdőrészlet területének legalább 25%-áról kell, de legfeljebb 50%-áról lehet a fákat eltávolítani,
+a)[^45] az első kifizetési kérelem benyújtásának időpontjáig a fakitermelést, amely lehet tarvágás vagy fokozatos felújítóvágás, úgy kell végrehajtani, hogy az erdőrészlet területének legalább 25%-áról kell, de legfeljebb 50%-áról lehet a fákat eltávolítani,
 
 b) az összefüggő véghasználati terület nagysága legfeljebb 0,5 ha lehet,
 
-c)[^45] a szomszédos összefüggő véghasználati területek távolsága a határoló fák törzsétől mérve nem lehet kisebb, mint 30 méter,
+c)[^46] a szomszédos összefüggő véghasználati területek távolsága a határoló fák törzsétől mérve nem lehet kisebb, mint 30 méter,
 
 d) a visszamaradó faállomány egyedei között a fahasználatot követő 1 éven belül a csúcsszáradt egyedek elegyaránya nem haladhatja meg a 10%-ot,
 
@@ -48,8 +48,8 @@ n) a földön fekvő holtfát darabolni nem lehet.
 
 (4) A célprogram időtartama 7 év.
 
-(5)[^46] A támogatás éves mértéke hektáronként 224 eurónak megfelelő forintösszeg.
+(5)[^47] A támogatás éves mértéke hektáronként 224 eurónak megfelelő forintösszeg.
 
-[^44]: A 18. § (3) bekezdés a) pontja az 53/2014. (IV. 29.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^45]: A 18. § (3) bekezdés c) pontja az 53/2014. (IV. 29.) VM rendelet 7. § (5) bekezdésével megállapított szöveg.
-[^46]: A 18. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 20. §-ával megállapított szöveg.
+[^45]: A 18. § (3) bekezdés a) pontja az 53/2014. (IV. 29.) VM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^46]: A 18. § (3) bekezdés c) pontja az 53/2014. (IV. 29.) VM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^47]: A 18. § (5) bekezdése a 44/2012. (V. 3.) VM rendelet 20. §-ával megállapított szöveg.

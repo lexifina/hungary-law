@@ -176,7 +176,7 @@
 
 ## – Más faállománytípusok (pl. juharos, hársas, tölgyes-kőrises) csak bizonyos termőhelyi szituációban fogadhatók el természetszerű faállománytípusoknak, más termőhelyeken konszociációk, azaz nem lehetnek az erdősítésekben alkalmazott faállománytípusok.
 
-3. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^75]
+3. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^76]
 
 ## Támogatási kérelmek részletes pontozási rendszere
 
@@ -234,4 +234,4 @@
 
 Speciális szakmai pontozási szempontok:
 
-[^75]: A 3. melléklet a 139/2009. (X. 22.) FVM rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^76]: A 3. melléklet a 139/2009. (X. 22.) FVM rendelet 15. § (5) bekezdése szerint módosított szöveg.
