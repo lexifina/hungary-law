@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1. apaállat: az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: 1993. évi CXIV. törvény) 3. § 1. pontjában meghatározott feltételeknek megfelelő tenyészkos, illetve tenyészbak, amelyet az elismert tenyésztő szervezet (a továbbiakban: tenyésztő szervezet) a tenyésztési programjában előírtak szerint annak minősít;
+1.[^1] apaállat: az állattenyésztésről szóló 188/2019. (VII. 30.) Korm. rendelet [a továbbiakban: 188/2019. (VII. 30.) Korm. rendelet] 2. § 1. pontjában meghatározott feltételeknek megfelelő tenyészkos, illetve tenyészbak, amelyet az elismert tenyésztő szervezet (a továbbiakban: tenyésztő szervezet) a tenyésztési programjában előírtak szerint annak minősít;
 
 2. állattartó: tenyészkos, illetve tenyészbak tenyésztésben tartását végző természetes személy vagy jogi személy;
 
@@ -26,14 +26,18 @@ b) a tárgyév október 1-jétől október 31-éig tartó időszakban benyújtot
 
 10. tárgyév: a támogatási kérelem benyújtásának naptári éve;
 
-11. tenyészbak: az 1993. évi CXIV. törvény 3. § 16. pontjában meghatározott feltételeknek megfelelő hímivarú kecske;
+11.[^2] tenyészbak: a 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő hímivarú kecske;
 
 12. tenyészet: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] szerint nyilvántartásba vett állattartó a hozzá tartozó tartási hellyel együtt;
 
-13. tenyészkos: az 1993. évi CXIV. törvény 3. § 16. pontjában meghatározott feltételeknek megfelelő hímivarú juh;
+13.[^3] tenyészkos: a 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő hímivarú juh;
 
 14. tenyésztésbe állítás: az állattartó által elvégzett azon tevékenység, amelynek eredményeképp
 
 a) a vásárlásból származó tenyészkos, illetve tenyészbak a tenyészet állományába kerül, vagy
 
 b) a saját állományból származó hímivarú juh, illetve hímivarú kecske apaállattá történő minősítése megvalósul.
+
+[^1]: Az 1. § 1. pontja a 10/2020. (IV. 3.) AM rendelet 26. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 11. pontja a 10/2020. (IV. 3.) AM rendelet 26. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § 13. pontja a 10/2020. (IV. 3.) AM rendelet 26. § b) pontja szerint módosított szöveg.
