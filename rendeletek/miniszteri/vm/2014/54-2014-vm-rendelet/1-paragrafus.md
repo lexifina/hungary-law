@@ -14,7 +14,7 @@
 
 2. támogatási időszak: a januári benyújtási időszak vonatkozásában a tárgyévet megelőző év július 1. és december 31. közötti időszak, a júliusi benyújtási időszak vonatkozásában a tárgyév január 1. és június 30. közötti időszak,
 
-3. tenyésznyúl: az állattenyésztésről szóló 1993. évi CXIV. törvény 3. § 16. pontjában meghatározott feltételeknek megfelelő nőivarú nyúl, amelyet tenyésztésbe állítottak,
+3.[^5] tenyésznyúl: az állattenyésztésről szóló 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő nőivarú nyúl, amelyet tenyésztésbe állítottak,
 
 4. tenyésztésbe állítás: az az időpont, amikorra a tenyésznyúl eléri a tenyészérettséget.
 
@@ -22,3 +22,4 @@
 [^2]: Az 1. § 1b. pontját a 69/2015. (XI. 2.) FM rendelet 6. §-a iktatta be.
 [^3]: Az 1. § 1c. pontját a 69/2015. (XI. 2.) FM rendelet 6. §-a iktatta be.
 [^4]: Az 1. § 1d. pontját a 69/2015. (XI. 2.) FM rendelet 6. §-a iktatta be.
+[^5]: Az 1. § 3. pontja a 10/2020. (IV. 3.) AM rendelet 4. §-a szerint módosított szöveg.
