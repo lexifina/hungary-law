@@ -1,0 +1,3 @@
+1. § (1) E rendelet alkalmazásában egységes kérelem az 1306/2013/EU európai parlamenti és tanácsi rendelet 72. cikk (1) bekezdése alapján a 640/2014/EU bizottsági rendelet 11. cikke szerint benyújtásra kerülő kifizetési kérelem az elektronikusan és papíralapon benyújtott kérelemrészekkel együtt.
+
+(2) E rendelet alkalmazása során az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet (a továbbiakban: egységes kérelemről szóló FM rendelet) 1. §-ában meghatározott rendelkezéseket is alkalmazni kell.
