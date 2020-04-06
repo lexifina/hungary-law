@@ -4,7 +4,7 @@
 
 ## (5) A (2) bekezdés szerinti öröklés, illetve jogutódlás miatt bekövetkezett változás átvezetése iránti kérelem a 2009. évi egységes támogatási kérelem benyújtására nyitva álló időszak végéig nyújtható be.”
 
-13. §[^9] E rendeletnek az egyes agrártámogatási tárgyú rendeletek, valamint az agrárkár-enyhítési eljárási rendelet módosításáról szóló 97/2013. (X. 22.) VM rendelettel [a továbbiakban: módosító rendelet] megállapított 4. § (1) bekezdését a módosító rendelet hatályba lépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
+13. §[^10] E rendeletnek az egyes agrártámogatási tárgyú rendeletek, valamint az agrárkár-enyhítési eljárási rendelet módosításáról szóló 97/2013. (X. 22.) VM rendelettel [a továbbiakban: módosító rendelet] megállapított 4. § (1) bekezdését a módosító rendelet hatályba lépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^9]: A 13. §-t a 97/2013. (X. 22.) VM rendelet 6. §-a iktatta be.
-[^10]: A hatálybalépés időpontja 2013. október 23.
+[^10]: A 13. §-t a 97/2013. (X. 22.) VM rendelet 6. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2013. október 23.
