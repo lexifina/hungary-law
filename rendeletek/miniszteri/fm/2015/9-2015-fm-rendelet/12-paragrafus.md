@@ -1,6 +1,6 @@
 ## 9. Hízottbika-tartás támogatása
 
-12. § (1)[^67] A hízottbika-tartás támogatása azon, az a) pont szerinti vágás – kivéve a klinikai tünetek miatt elkülönített vágás – vagy a b) pont szerinti export napján kilenc hónapos vagy annál idősebb hímivarú szarvasmarhák vagy bivalyok után igényelhető, amelyeket a tárgyévet megelőző év április 1. és tárgyév március 31. között
+12. § (1)[^69] A hízottbika-tartás támogatása azon, az a) pont szerinti vágás – kivéve a klinikai tünetek miatt elkülönített vágás – vagy a b) pont szerinti export napján kilenc hónapos vagy annál idősebb hímivarú szarvasmarhák vagy bivalyok után igényelhető, amelyeket a tárgyévet megelőző év április 1. és tárgyév március 31. között
 
 a) vágóhídon levágtak, vagy
 
@@ -10,12 +10,12 @@ b) élő állatként az Európai Unión kívüli harmadik országba exportáltak
 
 a) a Szarvasmarha ENAR rendeletben meghatározott országos nyilvántartás alapján a hímivarú szarvasmarhát a tenyészetéből az (1) bekezdés szerinti módon történő kikerülése előtt közvetlenül legalább két hónapig tartotta,
 
-b)[^68] legkésőbb a birtokon tartás megkezdésének első napjáig gondoskodik a tenyészetében lévő szarvasmarha-állománynak a Szarvasmarha ENAR rendelet szerinti jelöléséről és nyilvántartásáról, és
+b)[^70] legkésőbb a birtokon tartás megkezdésének első napjáig gondoskodik a tenyészetében lévő szarvasmarha-állománynak a Szarvasmarha ENAR rendelet szerinti jelöléséről és nyilvántartásáról, és
 
 c) a Szarvasmarha ENAR rendelet szerinti jelentési kötelezettségnek megfelelően, az állat vágóhídon történő levágásának, illetve exportálásának igazolása megtörténik.
 
-(3)[^69] A támogatási kérelem tárgyévente – az egységes kérelem rendeletben foglalt időpontig – nyújtható be.
+(3)[^71] A támogatási kérelem tárgyévente – az egységes kérelem rendeletben foglalt időpontig – nyújtható be.
 
-[^67]: A 12. § (1) bekezdése a 25/2016. (IV. 11.) FM rendelet 49. § (1) bekezdésével megállapított szöveg.
-[^68]: A 12. § (2) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^69]: A 12. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 49. § (2) bekezdésével megállapított szöveg.
+[^69]: A 12. § (1) bekezdése a 25/2016. (IV. 11.) FM rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^70]: A 12. § (2) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^71]: A 12. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 49. § (2) bekezdésével megállapított szöveg.

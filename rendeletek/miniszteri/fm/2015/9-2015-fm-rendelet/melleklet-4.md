@@ -6,9 +6,9 @@
 
 | Minimum vetőmag db/hektár | Ezermagtömeg gramm | Minimum hagyma, fokhagymagerezd db/hektár | Minimum dugvány, tősarj vagy magonc db/hektár | Minimum palánta db/hektár | Minimum palánta db/hektár |
 
-| 2 | Görögdinnye, Tökre oltott görögdinnye | Citrullus lanatus | 2500 | 45 | – | – | 2300 | – |
+| 2 | Görögdinnye, Tökre oltott görögdinnye | Citrullus lanatus | 2 500 | 45 | – | – | 2 300 | – |
 
-| 3 | Sárgadinnye | Cucumis melo | 2500 | 30 | – | – | 2300 | – |
+| 3 | Sárgadinnye | Cucumis melo | 2 500 | 30 | – | – | 2 300 | – |
 
 | 4 | Karfiol | Brassica oleracea convar. botrytis | 35 000 | 4 | – | – | 30 000 | – |
 
@@ -46,21 +46,21 @@
 
 | 21 | Rebarbara | Rheum rhabarbarum | 12 000 | 10 | – | – | 10 000 | – |
 
-| 22 | Édeskömény | Foeniculum vulgare | 500 000 | 10 | – | – | – | – |
+| 22 | Édeskömény | Foeniculum vulgare | 250 000 | 7 | – | – | – | – |
 
 | 23 | Paradicsom | Lycopersicon esculentum | 34 000 | 1,8 | – | – | 30 000 | 20 000 |
 
-| 24 | Uborka | Cucumis sativus | 30 000 | 30 | – | –– | 27 000 | 11 000 |
+| 24 | Uborka | Cucumis sativus | 30 000 | 30 | – | – | 27 000 | 11 000 |
 
-| 25 | Padlizsán (Tojásgyümölcs) | Solanum melongena | 30 000 | 4 | – | – | 27 000 | 22 000 |
+| 25 | Padlizsán (tojásgyümölcs) | Solanum melongena | 30 000 | 4 | – | – | 27 000 | 22 000 |
 
-| 26 | Főzőtök, spárgatök | Cucurbita pepo var. Fastigata | 5500 | 150 | – | – | 5000 | – |
+| 26 | Főzőtök, spárgatök | Cucurbita pepo var. Fastigata | 5 500 | 150 | – | – | 5 000 | – |
 
-| 27 | Sütőtök | Cucurbita maxima var. maxima | 5500 | 340 | – | – | 5000 | – |
+| 27 | Sütőtök | Cucurbita maxima var. maxima | 5 500 | 340 | – | – | 5 000 | – |
 
-| 28 | Káposztatök | Cucurbita pepo var. Fastigata | 5500 | 200 | – | – | 5000 | – |
+| 28 | Káposztatök | Cucurbita pepo var. Fastigata | 5 500 | 200 | – | – | 5 000 | – |
 
-| 29 | Csillagtök/patiszon | Cucurbita pepo convar. patissoniana | 15 000 | 100 | – | – | 8000 | – |
+| 29 | Csillagtök/patiszon | Cucurbita pepo convar. patissoniana | 15 000 | 100 | – | – | 8 000 | – |
 
 | 30 | Cukkini | Cucurbita pepo convar. giromontiina | 30 000 | 120 | – | – | 25 000 | – |
 
@@ -84,22 +84,22 @@
 
 | 40 | Menta | Mentha piperita | – | – | – | 55 000 | – | – |
 
-| 41 | Citromfű | Melissa officinalis | 21 666 667 | 0,6 | – | – | 60 000 | – |
+| 41 | Citromfű | Melissa officinalis | 80 000 | 0,6 | – | – | 55 000 | – |
 
-| 42 | Bazsalikom | Ocimum basilicum | 1 500 000 | 1,5 | – | – | – | – |
+| 42 | Bazsalikom | Ocimum basilicum | 80 000 | 1,5 | – | – | 55 000 | – |
 
-| 43 | Kerti kakukkfű | Thymus vulgaris | 24 000 000 | 0,25 | – | – | 60 000 | – |
+| 43 | Kerti kakukkfű | Thymus vulgaris | 80 000 | 0,25 | – | – | 55 000 | – |
 
-| 44 | Orvosi zsálya | Salvia officinalis | 30 400 000 | 0,25 | – | – | 50 000 | – |
+| 44 | Orvosi zsálya | Salvia officinalis | 70 000 | 7,5 | – | – | 45 000 | – |
 
-| 45 | Rozmaring | Rozmarinus officinalis | 30 000 000 | 1 | – | – | 41 500 | – |
+| 45 | Rozmaring | Rozmarinus officinalis | 70 000 | 0,9 | – | 30 000 | 30 000 | – |
 
-| 46 | Tárkony | Artemisia dracunculus | – | – | – | 35 000 | – | – |
+| 46 | Tárkony | Artemisia dracunculus | – | – | – | 55 000 | – | – |
 
-| 47 | Majoranna | Origanum majorana | 1 320 000 | 0,22 | – | – | – | – |
+| 47 | Majoranna | Origanum majorana | 80 000 | 0,2 | – | – | 55 000 | – |
 
-| 48 | Közönséges szurokfű | Origanum vulgare | 1 500 000 | 0,1 |  |  | 70 000 |  |
+| 48 | Közönséges szurokfű | Origanum vulgare | 65 000 | 0,1 | – | – | 45 000 |  |
 
-4. melléklet a 9/2015. (III. 13.) FM rendelethez[^154]
+4. melléklet a 9/2015. (III. 13.) FM rendelethez[^157]
 
-[^154]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^157]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.

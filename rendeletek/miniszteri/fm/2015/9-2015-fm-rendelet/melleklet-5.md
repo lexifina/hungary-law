@@ -8,6 +8,6 @@
 
 | 2 | Olajtök | Cucurbita pepo ssp.styrica | 5500 | 200 | 5000 |
 
-5. melléklet a 9/2015. (III. 13.) FM rendelethez[^157]
+5. melléklet a 9/2015. (III. 13.) FM rendelethez[^160]
 
-[^157]: Az 5. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (6) bekezdésével megállapított, a 10/2019. (IV. 1.) AM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^160]: Az 5. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (6) bekezdésével megállapított, a 10/2019. (IV. 1.) AM rendelet 8. § (2) bekezdése szerint módosított szöveg.

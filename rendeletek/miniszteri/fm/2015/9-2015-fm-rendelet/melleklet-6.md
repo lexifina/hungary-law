@@ -60,6 +60,6 @@
 
 | 29 | Közönséges füge | Ficus carica | 330 | 625 | 25 év |
 
-6. melléklet a 9/2015. (III. 13.) FM rendelethez[^158]
+6. melléklet a 9/2015. (III. 13.) FM rendelethez[^161]
 
-[^158]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
+[^161]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
