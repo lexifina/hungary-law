@@ -1,6 +1,6 @@
 ## 13. Nyilvántartási és adatszolgáltatási kötelezettség, ellenőrzés, nyomonkövetés
 
-17. § (1)[^35] A nevelési-oktatási intézmény köteles – a Kincstár által a Kincstár honlapján közleményben közzétett nyomtatvány szerint – nyilvántartást vezetni az intézménybe felvett végső kedvezményezettek számáról és a kiosztott tejtermékek mennyiségéről a 15. § (2) és (3) bekezdésében meghatározott kategóriánkénti részletezésben. A nevelési-oktatási intézmény köteles a nyilvántartás eredeti, a nevelési-oktatási intézmény vezetője által jóváhagyott példányát az adott támogatási időszak lejártát követő öt évig megőrizni.
+17. § (1)[^37] A nevelési-oktatási intézmény köteles – a Kincstár által a Kincstár honlapján közleményben közzétett nyomtatvány szerint – nyilvántartást vezetni az intézménybe felvett végső kedvezményezettek számáról és a kiosztott tejtermékek mennyiségéről a 15. § (2) és (3) bekezdésében meghatározott kategóriánkénti részletezésben. A nevelési-oktatási intézmény köteles a nyilvántartás eredeti, a nevelési-oktatási intézmény vezetője által jóváhagyott példányát az adott támogatási időszak lejártát követő öt évig megőrizni.
 
 (2) Ha az adott nevelési-oktatási intézmény több, a programban részt vevő feladatellátási hellyel rendelkezik, akkor a nyilvántartást feladatellátási helyenként köteles vezetni.
 
@@ -18,10 +18,10 @@
 
 (9) Ha a szállító által az adott fenntartóhoz tartozó intézmények részére a tanév során kiszállított termékek összevont termékkategóriánkénti mennyisége kevesebb, mint a Kincstár által az adott fenntartó kapcsán az egyes összevont termékkategóriákra jóváhagyott mennyiség 80%-a, akkor a leszállított mennyiségre eső támogatási összeget a Kincstár a le nem szállított mennyiségre eső támogatás mértékével csökkenti.
 
-(10)[^36] Az 1308/2013/EU európai parlamenti és tanácsi rendelet célkitűzéseivel ellentétesen az ugyanezen rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályok kijátszásával történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése abban az esetben áll fenn, amennyiben bármely természetes vagy jogi személy az 1. § 3. pontjában meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el az óvoda- és iskolatej programban foglalt célokkal ellentétes előnyök megszerzése érdekében.
+(10)[^38] Az 1308/2013/EU európai parlamenti és tanácsi rendelet célkitűzéseivel ellentétesen az ugyanezen rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályok kijátszásával történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése abban az esetben áll fenn, amennyiben bármely természetes vagy jogi személy az 1. § 3. pontjában meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el az óvoda- és iskolatej programban foglalt célokkal ellentétes előnyök megszerzése érdekében.
 
-(11)[^37] Az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában, ha az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek mesterséges megteremtéséhez szükséges, a jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés meglétét az arra hatáskörrel rendelkező szerv megállapítja, az így megszerzett előny a (6) bekezdésben hivatkozott jogosulatlan támogatásnak minősül.
+(11)[^39] Az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában, ha az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek mesterséges megteremtéséhez szükséges, a jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés meglétét az arra hatáskörrel rendelkező szerv megállapítja, az így megszerzett előny a (6) bekezdésben hivatkozott jogosulatlan támogatásnak minősül.
 
-[^35]: A 17. § (1) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § a) pontja szerint módosított szöveg.
-[^36]: A 17. § (10) bekezdését a 30/2018. (X. 11.) AM rendelet 13. §-a iktatta be.
-[^37]: A 17. § (11) bekezdését a 30/2018. (X. 11.) AM rendelet 13. §-a iktatta be.
+[^37]: A 17. § (1) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § a) pontja szerint módosított szöveg.
+[^38]: A 17. § (10) bekezdését a 30/2018. (X. 11.) AM rendelet 13. §-a iktatta be.
+[^39]: A 17. § (11) bekezdését a 30/2018. (X. 11.) AM rendelet 13. §-a iktatta be.

@@ -24,7 +24,7 @@
 
 ## 4.2. Fenntartó azonosítója.
 
-## 4.3.[^40] Terméket gyártó üzem neve és részére az élelmiszerlánc-felügyeleti szerv által kiadott üzemengedély száma.
+## 4.3.[^42] Terméket gyártó üzem neve és részére az élelmiszerlánc-felügyeleti szerv által kiadott üzemengedély száma.
 
 ## 4.4. Intézmények adatai (OM azonosító, feladatellátási hely azonosító, név, megye, cím).
 
@@ -56,4 +56,4 @@
 
 5. melléklet a 21/2017. (IV. 26.) FM rendelethez
 
-[^40]: A 4. melléklet 4. pont 4.3. alpontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^42]: A 4. melléklet 4. pont 4.3. alpontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés e) pontja szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-21-20-1
 | 2018-08-18 | 2017-21-20-11.3 | 22/2018. (VIII. 17.) AM rendelet |
 | 2018-10-12 | 2017-21-20-11.4 | 30/2018. (X. 11.) AM rendelet |
 | 2018-12-07 | 2017-21-20-11.5 | 35/2018. (XII. 6.) AM rendelet |
+| 2020-04-06 | 2017-21-20-11.6 | 19/2021. (V. 5.) AM rendelet |

@@ -12,13 +12,13 @@ e) az ellátott intézmények adatai (név, székhely megyéje, címe, OM azonos
 
 f) a kérelmező (előfinanszírozó) megnevezése,
 
-g)[^16] a szállítani tervezett termékek termékkategóriánkénti adatainak kimutatása [termék megnevezése, termékkategória megnevezése, termék kiszerelése, tanév során összességében szállítani tervezett mennyisége, az élelmiszerlánc-felügyeleti szerv által engedélyezett saját üzemből szállított termék mennyisége (liter/kg), az élelmiszerlánc-felügyeleti szerv által engedélyezett másik üzemben bérgyártott termék mennyisége (liter/kg), az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemből származó és más módon beszerzett termék mennyisége (liter/kg), továbbá a saját, a bérgyártó és az egyéb módon bevont üzem vagy üzemek neve, működési engedélyszáma],
+g)[^18] a szállítani tervezett termékek termékkategóriánkénti adatainak kimutatása [termék megnevezése, termékkategória megnevezése, termék kiszerelése, tanév során összességében szállítani tervezett mennyisége, az élelmiszerlánc-felügyeleti szerv által engedélyezett saját üzemből szállított termék mennyisége (liter/kg), az élelmiszerlánc-felügyeleti szerv által engedélyezett másik üzemben bérgyártott termék mennyisége (liter/kg), az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemből származó és más módon beszerzett termék mennyisége (liter/kg), továbbá a saját, a bérgyártó és az egyéb módon bevont üzem vagy üzemek neve, működési engedélyszáma],
 
 h) a tanév megjelölése,
 
 i) feladatellátási helyenként az átvevő feladatellátási hely neve, OM azonosítója, az Oktatási Hivatal nyilvántartása szerinti feladatellátási hely kódja, pontos címe, megyéje, települése,
 
-j)[^17] feladatellátási helyenként az ellátni kívánt végső kedvezményezettek száma végső kedvezményezett típusonként,
+j)[^19] feladatellátási helyenként az ellátni kívánt végső kedvezményezettek száma végső kedvezményezett típusonként,
 
 k) feladatellátási helyenként az adott tanév tanítási napjainak száma, a kiosztási napok száma, valamint a kiosztási napok megjelölése,
 
@@ -32,34 +32,34 @@ o) a minőségi kifogás kezelésének módja,
 
 p) a számlázási és fizetési feltételek [számlázás ütemezése (hetente/havonta/időszakonként), számla kötelező adattartalmának rögzítése, pénzügyi teljesítés támogatási konstrukcióból eredő speciális menete],
 
-q)[^18] a promóciós intézkedések adatai [felelős megnevezése, kiterjedésének és elérhetőségének meghatározása, tervezett költsége, megvalósítás időszaka, ha helyi kiterjedésű, az érintett intézmények adatainak rögzítése is (OM azonosító, feladatellátási hely kód, részt vevő végső kedvezményezettek létszáma)],
+q)[^20] a promóciós intézkedések adatai [felelős megnevezése, kiterjedésének és elérhetőségének meghatározása, tervezett költsége, megvalósítás időszaka, ha helyi kiterjedésű, az érintett intézmények adatainak rögzítése is (OM azonosító, feladatellátási hely kód, részt vevő végső kedvezményezettek létszáma)],
 
 r) a felek általános szerződési és a támogatás igénybevételének feltételeként a 2017/39/EU bizottsági végrehajtási rendeletben és az 1308/2013/EU európai parlamenti és tanácsi rendeletben meghatározott kötelezettségei,
 
 s) az iratmegőrzési hely meghatározása,
 
-t)[^19] nyilatkozat arra vonatkozóan, hogy a szállító, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyta jóvá.
+t)[^21] nyilatkozat arra vonatkozóan, hogy a szállító, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyta jóvá.
 
 (2) A fenti kötelező adatokat is tartalmazó szállítási szerződés mintát a 3. melléklet tartalmazza.
 
-(3)[^20] A szállítási szerződésben a végső kedvezményezettek számát az ellátni kívánt intézmények alapító okiratában megjelölt keretlétszám figyelembevételével, vagy amennyiben a szerződés megkötésének pillanatában az intézménybe beiratkozott tanulók száma a keretlétszámnál kevesebb, úgy a nevelési-oktatási intézménybe a szállítási szerződés megkötését követő tanév első évfolyamára beíratott tanulóknak, valamint a szállítási szerződés megkötésének tanévében az első és az utolsó előtti évfolyamra járó tanulóknak a szállítási szerződés megkötésekor fennálló számának alapulvételével kell meghatározni.
+(3)[^22] A szállítási szerződésben a végső kedvezményezettek számát az ellátni kívánt intézmények alapító okiratában megjelölt keretlétszám figyelembevételével, vagy amennyiben a szerződés megkötésének pillanatában az intézménybe beiratkozott tanulók száma a keretlétszámnál kevesebb, úgy a nevelési-oktatási intézménybe a szállítási szerződés megkötését követő tanév első évfolyamára beíratott tanulóknak, valamint a szállítási szerződés megkötésének tanévében az első és az utolsó előtti évfolyamra járó tanulóknak a szállítási szerződés megkötésekor fennálló számának alapulvételével kell meghatározni.
 
-(4)[^21] A 11. § (1) bekezdés j) pontjában megjelölt és a (3) bekezdés szerint becsült, feladatellátási helyenkénti és végső kedvezményezett típusonkénti létszámok nem haladhatják meg az Oktatási Hivatal nyilvántartásában az adott feladatellátási hely kapcsán szereplő keretlétszámot. A keretlétszám feletti létszámra jutó termékmennyiséget a Kincstár a 12. § (5) bekezdése szerinti döntésében köteles elutasítani.
+(4)[^23] A 11. § (1) bekezdés j) pontjában megjelölt és a (3) bekezdés szerint becsült, feladatellátási helyenkénti és végső kedvezményezett típusonkénti létszámok nem haladhatják meg az Oktatási Hivatal nyilvántartásában az adott feladatellátási hely kapcsán szereplő keretlétszámot. A keretlétszám feletti létszámra jutó termékmennyiséget a Kincstár a 12. § (5) bekezdése szerinti döntésében köteles elutasítani.
 
-(5)[^22] Ha a szállító nem rendelkezik a szállított termék vonatkozásában saját, illetve a megrendelések teljesítését teljes mértékben lehetővé tevő saját tejfeldolgozó üzemmel, a kérelmezőnek azt a szerződést, amelyet a szállító egy, az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemmel a tejtermék előállítása tárgyában kötött, a szállítási szerződéssel együtt – a 12. § (1) bekezdésében meghatározott határidőben – csatolnia kell a szállítási szerződés jóváhagyása iránti kérelméhez.
+(5)[^24] Ha a szállító nem rendelkezik a szállított termék vonatkozásában saját, illetve a megrendelések teljesítését teljes mértékben lehetővé tevő saját tejfeldolgozó üzemmel, a kérelmezőnek azt a szerződést, amelyet a szállító egy, az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemmel a tejtermék előállítása tárgyában kötött, a szállítási szerződéssel együtt – a 12. § (1) bekezdésében meghatározott határidőben – csatolnia kell a szállítási szerződés jóváhagyása iránti kérelméhez.
 
-(6)[^23] A kiszállított termékek mennyiségét a szállító saját üzemében előállított, illetve az élelmiszerlánc-felügyeleti szerv által engedélyezett üzem által gyártott és egyéb módon beszerzett, továbbá az (5) bekezdés szerinti gazdálkodó szervezettel kötött szerződésben szereplő termékmennyiségnek le kell fednie. Ha az e bekezdésben foglalt feltétel nem teljesül, a kiszállított termékek után támogatás nem nyújtható.
+(6)[^25] A kiszállított termékek mennyiségét a szállító saját üzemében előállított, illetve az élelmiszerlánc-felügyeleti szerv által engedélyezett üzem által gyártott és egyéb módon beszerzett, továbbá az (5) bekezdés szerinti gazdálkodó szervezettel kötött szerződésben szereplő termékmennyiségnek le kell fednie. Ha az e bekezdésben foglalt feltétel nem teljesül, a kiszállított termékek után támogatás nem nyújtható.
 
 (7) A szállítási szerződésnek a kérelmező személyére vonatkozó eleme nem módosítható.
 
-(8)[^24] A szállító, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyta jóvá.
+(8)[^26] A szállító, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyta jóvá.
 
-[^16]: A 11. § (1) bekezdés g) pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^17]: A 11. § (1) bekezdés j) pontja a 30/2018. (X. 11.) AM rendelet 9. § (1) bekezdésével megállapított, a 35/2018. (XII. 6.) AM rendelet 33. § a)–b) pontja szerint módosított szöveg.
-[^18]: A 11. § (1) bekezdés q) pontja a 35/2018. (XII. 6.) AM rendelet 33. § a) pontja szerint módosított szöveg.
-[^19]: A 11. § (1) bekezdés t) pontját a 30/2018. (X. 11.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^20]: A 11. § (3) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § a) pontja szerint módosított szöveg.
-[^21]: A 11. § (4) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § b) pontja szerint módosított szöveg.
-[^22]: A 11. § (5) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^23]: A 11. § (6) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^24]: A 11. § (8) bekezdését a 30/2018. (X. 11.) AM rendelet 9. § (3) bekezdése iktatta be.
+[^18]: A 11. § (1) bekezdés g) pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^19]: A 11. § (1) bekezdés j) pontja a 30/2018. (X. 11.) AM rendelet 9. § (1) bekezdésével megállapított, a 35/2018. (XII. 6.) AM rendelet 33. § a)–b) pontja szerint módosított szöveg.
+[^20]: A 11. § (1) bekezdés q) pontja a 35/2018. (XII. 6.) AM rendelet 33. § a) pontja szerint módosított szöveg.
+[^21]: A 11. § (1) bekezdés t) pontját a 30/2018. (X. 11.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^22]: A 11. § (3) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § a) pontja szerint módosított szöveg.
+[^23]: A 11. § (4) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § b) pontja szerint módosított szöveg.
+[^24]: A 11. § (5) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^25]: A 11. § (6) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 11. § (8) bekezdését a 30/2018. (X. 11.) AM rendelet 9. § (3) bekezdése iktatta be.
