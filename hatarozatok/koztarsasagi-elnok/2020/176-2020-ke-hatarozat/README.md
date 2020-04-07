@@ -1,0 +1,9 @@
+# 176/2020. (IV. 7.) KE határozat
+
+vezérőrnagyi előléptetésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-176-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-04-07 | 2020-176-30-76.1 | 176/2020. (IV. 7.) KE határozat |
