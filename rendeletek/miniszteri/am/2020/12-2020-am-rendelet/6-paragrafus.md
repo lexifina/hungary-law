@@ -1,1 +1,0 @@
-## „b) a szakmai bíráló bizottság tagjának cégszerű aláírással ellátott vállalkozói vagy megbízási szerződése, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,”
