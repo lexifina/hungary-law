@@ -16,7 +16,7 @@ c) a kijelölésre, kijelölés visszavonására irányuló javaslatot elutasít
 
 d) jóváhagyja, hogy az üzemeltető egyetlen rendszerelemet sem azonosított lehetséges létfontosságú rendszerelemként,
 
-e) az a) pontban meghatározottakkal egyidejűleg rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe, ha a nemzeti létfontosságú rendszerelem tekintetében megvalósulnak az Lrtv. 2/A. § (2) bekezdésében foglaltak, vagy
+e)[^5] az a) pontban meghatározottakkal egyidejűleg rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe, ha a nemzeti létfontosságú rendszerelem tekintetében megvalósulnak az Lrtv. 2/A. § (2) bekezdésében foglaltak, és a 3. melléklet szerinti jegyzékben szereplő alapvető szolgáltatást nyújt, vagy
 
 f) a b) pontban foglaltak teljesülése esetén elrendeli az üzemeltető törlését az alapvető szolgáltatásokat nyújtó szereplők jegyzékéből.
 
@@ -27,3 +27,4 @@ f) a b) pontban foglaltak teljesülése esetén elrendeli az üzemeltető törl�
 (6) A nemzeti létfontosságú rendszerelemmé történő kijelölés, valamint a kijelölés visszavonására vonatkozó eljárásban kétszeri hiánypótlásra történő felszólításnak van helye.
 
 [^4]: A 4. § a 323/2018. (XII. 28.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^5]: A 4. § (3) bekezdés e) pontja a 94/2020. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.

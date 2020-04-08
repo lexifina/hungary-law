@@ -1,6 +1,6 @@
 ## 4. Az európai létfontosságú rendszerelemmé történő kijelölés, valamint a kijelölés visszavonásának szabályai
 
-5. §[^5] (1) Ha az üzemeltető által lefolytatott azonosítási eljárás alapján elkészített azonosítási jelentésben foglaltakkal vagy a javaslattevő hatóság európai létfontosságú rendszerelemmé történő kijelölésre irányuló kezdeményezésével a katasztrófák elleni védekezésért felelős miniszter nem ért egyet, a kijelölő hatóság köteles megvizsgálni a nemzeti létfontosságú rendszerelemmé történő kijelölés kérdését, és a jogszabályban meghatározott feltételek fennállása esetén dönt a nemzeti létfontosságú rendszerelemmé történő kijelölésről.
+5. §[^6] (1) Ha az üzemeltető által lefolytatott azonosítási eljárás alapján elkészített azonosítási jelentésben foglaltakkal vagy a javaslattevő hatóság európai létfontosságú rendszerelemmé történő kijelölésre irányuló kezdeményezésével a katasztrófák elleni védekezésért felelős miniszter nem ért egyet, a kijelölő hatóság köteles megvizsgálni a nemzeti létfontosságú rendszerelemmé történő kijelölés kérdését, és a jogszabályban meghatározott feltételek fennállása esetén dönt a nemzeti létfontosságú rendszerelemmé történő kijelölésről.
 
 (2) Ha az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT-állam) európai létfontosságú rendszerelemmé történő kijelölésre irányuló kezdeményezésével a katasztrófák elleni védekezésért felelős miniszter nem ért egyet, erről tájékoztatja a kezdeményező államot.
 
@@ -18,4 +18,4 @@
 
 (9) Az európai létfontosságú rendszerelemmé történő kijelölés, valamint a kijelölés visszavonására vonatkozó eljárásban kétszeri hiánypótlásra történő felszólításnak van helye.
 
-[^5]: Az 5. § a 323/2018. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^6]: Az 5. § a 323/2018. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.

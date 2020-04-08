@@ -1,3 +1,3 @@
-## 14. §[^18]
+## 14. §[^21]
 
-[^18]: A 14. §-t a 233/2013. (VI. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^21]: A 14. §-t a 233/2013. (VI. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
