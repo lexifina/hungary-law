@@ -16,17 +16,19 @@
 
 ## h)[^5] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 2. prioritása 420,58 milliárd forint összegű meghirdethető keretét, amely 24,18 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 2. prioritásának keretét,
 
-## i)[^6] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 1–4. prioritásainak terhére kötelezettségvállalás a prioritások operatív programban rögzített keretének 110,0%-áig tehető,
+## i)[^6] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 1., 2. és 4. prioritása terhére kötelezettségvállalás a prioritások operatív programban rögzített keretének 110,0%-áig tehető,
 
 ## j)[^7] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 5. prioritása esetén – az i) alponttal összhangban – kizárólag az európai uniós támogatás és a hazai társfinanszírozás összegének önerővel csökkentett mértékéig vállalható kötelezettség,
 
-## k)[^8] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 5. prioritásának terhére kötelezettségvállalás a prioritás operatív programban rögzített keretének legfeljebb 123,7%-áig tehető, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyását követően vállalható.
+## k)[^8] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 5. prioritásának terhére kötelezettségvállalás a prioritás operatív programban rögzített keretének legfeljebb 123,71%-áig tehető, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyását követően vállalható,
+
+## l)[^9] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 3. prioritásának terhére kötelezettségvállalás a prioritás operatív programban rögzített keretének legfeljebb 123,91%-áig tehető, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyását követően vállalható.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^9]
+## 3.[^10]
 
-1. melléklet az 1084/2016. (II. 29.) Korm. határozathoz[^10]
+1. melléklet az 1084/2016. (II. 29.) Korm. határozathoz[^11]
 
 A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési kerete
 
@@ -94,11 +96,11 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 1a. | KEHOP-3.1.1. | A települési hulladékgyűjtési, szállítási és előkezelő rendszerek fejlesztése | 1,06 | egyszerűsített | Meghirdetve 2017. március 30-án |
 
-| 1b. | KEHOP-3.1.2. | A biológiailag lebomló hulladék eltérítése a hulladéklerakóktól | 5,00 | egyszerűsített | Meghirdetve 2017. március 30-án |
+| 1b. | KEHOP-3.1.2. | A biológiailag lebomló hulladék eltérítése a hulladéklerakóktól | 0,89 | egyszerűsített | Meghirdetve 2017. március 30-án |
 
 | 2. | KEHOP- 3.1.3. | Szemléletformálás a hulladékképződés megelőzésére | 1,00 | kiemelt | Meghirdetve 2017. június 16-án |
 
-| 3. | KEHOP- 3.2.1. | Az előkezelés, a hasznosítás és az ártalmatlanítás alrendszereinek fejlesztése a települési hulladék vonatkozásában | 98,52 | kiemelt | Meghirdetve 2015. október 1-jén |
+| 3. | KEHOP- 3.2.1. | Az előkezelés, a hasznosítás és az ártalmatlanítás alrendszereinek fejlesztése a települési hulladék vonatkozásában | 102,63 | kiemelt | Meghirdetve 2015. október 1-jén |
 
 | 4. | KEHOP- 3.2.2. | Települési hulladékkezelő létesítmények hálózatának rendszerszerű fejlesztése – szakaszolt projektek | 14,18 | kiemelt | Meghirdetve 2015. július 28-án |
 
@@ -175,8 +177,9 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 [^3]: Az 1. pont f) alpontját az 1323/2016. (VII. 1.) Korm. határozat 4. pontja hatályon kívül helyezte, újonnan az 1463/2016. (VIII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: Az 1. pont g) alpontját az 1625/2017. (IX. 11.) Korm. határozat 3. pontja iktatta be, szövege az 1651/2017. (IX. 12.) Korm. határozat 2. pontjával megállapított, az 1268/2018. (VI. 11.) Korm. határozat 2. pont 2.1. alpontja, az 1273/2019. (V. 14.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
 [^5]: Az 1. pont h) alpontját az 1651/2017. (IX. 12.) Korm. határozat 3. pontja iktatta be, szövege az 1273/2019. (V. 14.) Korm. határozat 6. pont d) alpontja szerint módosított szöveg.
-[^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be, szövege az 1273/2019. (V. 14.) Korm. határozat 6. pont e) alpontja szerint módosított szöveg.
+[^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be, szövege az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
 [^7]: Az 1. pont j) alpontját az 1636/2018. (XII. 5.) Korm. határozat 5. pontja iktatta be.
-[^8]: Az 1. pont k) alpontját az 1237/2019. (V. 14.) Korm. határozat 4. pontja iktatta be.
-[^9]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja, az 1237/2019. (V. 14.) Korm. határozat 5. pont a) alpontja és 7. pontja szerint módosított szöveg.
+[^8]: Az 1. pont k) alpontját az 1237/2019. (V. 14.) Korm. határozat 4. pontja iktatta be, szövege az 1143/2020. (IV. 8.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
+[^9]: Az 1. pont l) alpontját az 1141/2020. (IV. 8.) Korm. határozat 3. pontja iktatta be.
+[^10]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja, az 1237/2019. (V. 14.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.2. alpontja szerint módosított szöveg.
