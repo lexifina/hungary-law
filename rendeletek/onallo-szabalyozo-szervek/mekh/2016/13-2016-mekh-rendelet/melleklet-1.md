@@ -118,7 +118,7 @@ e) Földgázelosztási díj elemei és mértékei a Magyar Gázszolgáltató Kft
 
 |  | 5. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 3228 | 308 | 25,15 |
 
-f) Földgázelosztási díj elemei és mértékei a Tigáz-DSO Földgázelosztó Kft. és a Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén:
+f) Földgázelosztási díj elemei és mértékei a Tigáz Földgázelosztó Zrt. és a Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén:
 
 |  |  | A) | B) | C) | D) | E) | F) |
 
@@ -170,4 +170,4 @@ B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
 
 K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
-[^5]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított, az 5/2019. (V. 31.) MEKH rendelet 24. §-a, a 9/2019. (VII. 12.) MEKH rendelet 1. §-a, a 2/2020. (II. 12.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított, az 5/2019. (V. 31.) MEKH rendelet 24. §-a, a 9/2019. (VII. 12.) MEKH rendelet 1. §-a, a 2/2020. (II. 12.) MEKH rendelet 1. §-a, a 3/2020. (III. 25.) MEKH rendelet 8. §-a szerint módosított szöveg.

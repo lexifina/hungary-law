@@ -78,7 +78,9 @@ A külön díjas szolgáltatások óradíját az alábbi táblázat tartalmazza 
 
 |  | 10. | Ózdi Energiaszolgáltató és Kereskedelmi Kft. | 4 028 |
 
-|  | 11. | TIGÁZ - DSO Földgázelosztó Kft. | 5 330 |
+|  | 11. | Tigáz Földgázelosztó Zrt. | 5 330 |
+
+|  | 12. | E.GAS Gázelosztó Kft. | 4 028 |
 
 3. A tmunkaidő meghatározásának módja:
 
@@ -174,4 +176,4 @@ A külön díjas szolgáltatások maximális munkaidejét az alábbi táblázat 
 
 Ha a külön díjas szolgáltatás elvégzésére veszélyhelyzet elhárítása miatt vagy külön megállapodás alapján a felhasználó kérésére az engedélyes hivatalos munkaidején kívül kerül sor, a külön díj mértéke legfeljebb pszolgáltatás * 1,5, a munkaszüneti napon végzett tevékenység esetében a külön díj mértéke legfeljebb pszolgáltatás * 2.
 
-[^6]: A 2. melléklet a 4/2017. (IV. 26.) MEKH rendelet 8. §-ával megállapított szöveg.
+[^6]: A 2. melléklet a 4/2017. (IV. 26.) MEKH rendelet 8. §-ával megállapított, a 3/2020. (III. 25.) MEKH rendelet 8–9. §-a szerint módosított szöveg.
