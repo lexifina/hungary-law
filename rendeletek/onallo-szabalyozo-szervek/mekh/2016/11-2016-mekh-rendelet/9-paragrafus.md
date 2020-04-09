@@ -8,11 +8,11 @@
 
 (3)[^43] A fizikai áramlással ellentétes irányú kapacitás lekötésekor fizetendő díjat
 
-a) az 1. § (1) bekezdés a) pont aa) alpont aaa), aal) és aam) alpontjában meghatározott kiadási pontok esetében az 1. § (1) bekezdés a) pont aa) alpont aae) alpontja szerinti hazai termelés betáplálási pontra,
+a)[^44] az 1. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pont esetében az 1. § (1) bekezdés a) pont aa) alpont aae) alpontja szerinti hazai termelés betáplálási pontra,
 
-b) az 1. § (1) bekezdés a) pont aa) alpont aac), aad), aae) és aak) alpontja szerinti betáplálási pontok esetében az 1. § (1) bekezdés a) pont aa) alpont aaa) alpontja szerinti kiadási pontokra,
+b)[^45] az 1. § (1) bekezdés a) pont aa) alpont aac) és aae) alpontja szerinti betáplálási pontok esetében az 1. § (1) bekezdés a) pont aa) alpont aaa) alpontja szerinti kiadási pontokra,
 
-c) az 1. § (1) bekezdés a) pont aa) alpont aaf) és aag) alpontjában meghatározott határkeresztező kiadási pontok esetében az adott aaf) vagy aag) alpont szerinti határkeresztező kiadási pontra,
+c)[^46] az 1. § (1) bekezdés a) pont aa) alpont aaf) alpontjában meghatározott határkeresztező kiadási pontok esetében az adott aaf) vagy aag) alpont szerinti határkeresztező kiadási pontra,
 
 d) az 1. § (1) bekezdés a) pont ac) alpont aca) és acb) alpontja szerinti átadási-átvételi pontok esetében az 1. § (1) bekezdés a) pont ac) alpont acb) alpontja szerinti betáplálási pontra
 
@@ -20,22 +20,25 @@ d) az 1. § (1) bekezdés a) pont ac) alpont aca) és acb) alpontja szerinti át
 
 (4) Az 1. § (1) bekezdés a) pont aa) alpont aaf) és aag) alpontja szerinti határkeresztező vezetékhez a fizikai áramlással ellentétes irányú hozzáférés esetében a rendszerhasználónak meg kell fizetni az 1. § (1) bekezdés a) pont aa) alpont aaa) alpontja szerinti kiadási pontokra meghatározott kapacitásdíjat is.
 
-(5)[^44] Ha a földgázellátás a szállítási rendszerüzemeltetőnek felróható okból egybefüggő 24 órás időtartamnál hosszabb ideig szünetel, a szállítási kapacitásdíjat a kieső napokra nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
+(5)[^47] Ha a földgázellátás a szállítási rendszerüzemeltetőnek felróható okból egybefüggő 24 órás időtartamnál hosszabb ideig szünetel, a szállítási kapacitásdíjat a kieső napokra nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
 
-(5a)[^45] Napon belüli lekötés esetén, ha a földgázellátás a szállítási rendszerüzemeltetőnek felróható okból egy óránál hosszabb ideig szünetel, a szállítási kapacitásdíjat a kieső órákra nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
+(5a)[^48] Napon belüli lekötés esetén, ha a földgázellátás a szállítási rendszerüzemeltetőnek felróható okból egy óránál hosszabb ideig szünetel, a szállítási kapacitásdíjat a kieső órákra nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
 
 (6) A rendszerhasználó az ÜKSZ szerint – a rendszerüzemeltetők üzletszabályzatában összevont átadóként megjelölt gázátadó állomások esetében – kapacitás-lekötését az összevont kiadási pontra adja meg. Az összevont gázátadó állomások kapacitás-lekötési, nominálási és gázforgalmi elszámolás szempontjából egy gázátadó állomásnak, azaz összevont kiadási pontnak minősülnek, amelyhez kapcsolódóan a nominálástól való eltérés, a kapacitás-túllépés és az energiamennyiség alapú forgalom elszámolási rendjét az ÜKSZ tartalmazza.
 
-(7)[^46]
+(7)[^49]
 
-(8)[^47]
+(8)[^50]
 
 (9) Az 1. § (1) bekezdés a) pont aa) alpont aao) alpontján kiadott energiamennyiségnek az 1. § (1) bekezdés a) pont aa) alpont aae) alpontján történő visszatáplálása érdekében az aae) alponton nem kell kapacitást lekötni.
 
 [^41]: A 9. § (1) bekezdése az 5/2019. (V. 31.) MEKH rendelet 17. § b) pontja szerint módosított szöveg.
 [^42]: A 9. § (2) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 7. §-ával megállapított szöveg.
 [^43]: A 9. § (3) bekezdése nyitó szövegrésze a 4/2018. (VI. 14.) MEKH rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^44]: A 9. § (5) bekezdése a 11/2016. (XI. 14.) MEKH rendelet – 11/2017. (VIII. 25.) MEKH rendelet 13. § (1) bekezdés a) pontja szerint módosított – 19. § h) pontja szerint módosított szöveg.
-[^45]: A 9. § (5a) bekezdését az 5/2019. (V. 31.) MEKH rendelet 12. §-a iktatta be.
-[^46]: A 9. § (7) bekezdését az 5/2019. (V. 31.) MEKH rendelet 19. § a) pontja hatályon kívül helyezte.
-[^47]: A 9. § (8) bekezdését az 5/2019. (V. 31.) MEKH rendelet 19. § a) pontja hatályon kívül helyezte.
+[^44]: A 9. § (3) bekezdés a) pontja a 3/2020. (III. 25.) MEKH rendelet 5. § c) pontja szerint módosított szöveg.
+[^45]: A 9. § (3) bekezdés b) pontja a 3/2020. (III. 25.) MEKH rendelet 5. § d) pontja szerint módosított szöveg.
+[^46]: A 9. § (3) bekezdés c) pontja a 3/2020. (III. 25.) MEKH rendelet 6. §-a szerint módosított szöveg.
+[^47]: A 9. § (5) bekezdése a 11/2016. (XI. 14.) MEKH rendelet – 11/2017. (VIII. 25.) MEKH rendelet 13. § (1) bekezdés a) pontja szerint módosított – 19. § h) pontja szerint módosított szöveg.
+[^48]: A 9. § (5a) bekezdését az 5/2019. (V. 31.) MEKH rendelet 12. §-a iktatta be.
+[^49]: A 9. § (7) bekezdését az 5/2019. (V. 31.) MEKH rendelet 19. § a) pontja hatályon kívül helyezte.
+[^50]: A 9. § (8) bekezdését az 5/2019. (V. 31.) MEKH rendelet 19. § a) pontja hatályon kívül helyezte.

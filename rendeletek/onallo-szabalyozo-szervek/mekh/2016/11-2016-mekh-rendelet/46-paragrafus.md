@@ -6,6 +6,6 @@ a) a felhasználási helyek száma nem nő és
 
 b) fejlesztés vagy kapacitásnövelés nem szükséges az igény kielégítése érdekében.
 
-(3)[^112] Nem kérhető csatlakozási díj, ha a felhasználó csatlakozási szerződésében szereplő vásárolt kapacitása nem haladja meg a felhasználási helyen felszerelt fogyasztásmérő (fogyasztásmérők) névleges (össz)kapacitását, és a felhasználó a vásárolt kapacitását a felhasználási helyen felszerelt fogyasztásmérő (fogyasztásmérők) névleges (össz)kapacitására kívánja megnövelni.
+(3)[^116] Nem kérhető csatlakozási díj, ha a felhasználó csatlakozási szerződésében szereplő vásárolt kapacitása nem haladja meg a felhasználási helyen felszerelt fogyasztásmérő (fogyasztásmérők) névleges (össz)kapacitását, és a felhasználó a vásárolt kapacitását a felhasználási helyen felszerelt fogyasztásmérő (fogyasztásmérők) névleges (össz)kapacitására kívánja megnövelni.
 
-[^112]: A 46. § (3) bekezdését a 4/2018. (VI. 14.) MEKH rendelet 6. §-a iktatta be.
+[^116]: A 46. § (3) bekezdését a 4/2018. (VI. 14.) MEKH rendelet 6. §-a iktatta be.

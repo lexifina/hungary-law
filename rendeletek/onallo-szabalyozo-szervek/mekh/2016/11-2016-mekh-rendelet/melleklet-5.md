@@ -4,7 +4,7 @@
 
 ## ahol NVHF jelöli a behívott erőmű – általa előzetesen, egy tizedesjegy pontosággal, %-ban megadott, a szállítási rendszerüzemeltető és az erőmű közötti Együttműködési megállapodásban rögzített – névleges villamosenergia termelés hatásfokát.
 
-5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^137]
+5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^141]
 
 I. Az éven belüli kapacitáslekötés esetében alkalmazandó szorzószámok a szállítási kapacitásdíjak esetén
 
@@ -160,4 +160,4 @@ II. 2. Havi lekötés esetén
 
 II. 3. Napi és napon belüli lekötés esetén
 
-[^137]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be, szövege a 11/2019. (IX. 12.) MEKH rendelet 4. §-a szerint módosított szöveg.
+[^141]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be, szövege a 11/2019. (IX. 12.) MEKH rendelet 4. §-a szerint módosított szöveg.
