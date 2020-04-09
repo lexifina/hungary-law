@@ -246,87 +246,87 @@
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N |
 
-| 1. | Területi szereplő megnevezése | 1.1. Helyi gazdasági infra- struktúra fejlesztése (Mrd Ft) | 1.2. Társadalmi és környezeti szempontból fenntartható turizmus- fejlesztés (Mrd Ft) | 1.3. A gazdaság- fejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedés- fejlesztés (Mrd Ft) | 1.4. A foglal- koztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszol- gáltatások fejlesztésével (Mrd Ft) | 2.1. Gazdaság- élénkítő és népesség- megtartó település- fejlesztés (Mrd Ft) | 3.1. Fenntartható települési közlekedés- fejlesztés (Mrd Ft) | 3.2. Önkormányzatok energiahaté- konyságának és a megújuló energia-felhasználás arányának növelése (Mrd Ft) | 4.1. Egészségügyi alapellátás infrastruk- turális fejlesztése (Mrd Ft) | 4.2. A szociális alapszolgál- tatások infrastruk- túrájának bővítése, fejlesztése (Mrd Ft) | 4.3. Leromlott városi területek rehabili- tációja (Mrd Ft) | 5.1. Foglalkoztatás-növelést célzó megyei és helyi foglalkoz- tatási együtt- működések (paktumok) (Mrd Ft) | 5.2. A társadalmi együtt- működés erősítését szolgáló helyi szintű komplex programok (Mrd Ft) | 5.3. Helyi közösségi programok megvaló- sítása (Mrd Ft) |
+| 1. | Területi szereplő megnevezése | 1.1.Helyi gazdasági infrastruktúra fejlesztése (Mrd Ft) | 1.2.Társadalmi és környezeti szempontból fenntartható turizmus-fejlesztés (Mrd Ft) | 1.3.A gazdaság-fejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedés-fejlesztés (Mrd Ft) | 1.4.A foglalkoztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztésével (Mrd Ft) | 2.1.Gazdaság-élénkítő és népességmegtartó településfejlesztés (Mrd Ft) | 3.1.Fenntartható települési közlekedésfejlesztés (Mrd Ft) | 3.2.Önkormányzatok energiahatékonyságának és a megújuló energiafelhasználás arányának növelése (Mrd Ft) | 4.1.Egészségügyi alapellátás infrastrukturális fejlesztése (Mrd Ft) | 4.2.A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése (Mrd Ft) | 4.3.Leromlott városi területek rehabilitációja (Mrd Ft) | 5.1.Foglalkoztatásnövelést célzó megyei és helyi foglalkoztatási együttműködések (paktumok) (Mrd Ft) | 5.2.A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok (Mrd Ft) | 5.3.Helyi közösségi programok megvalósítása (Mrd Ft) |
 
-| 2. | Bács-Kiskun Megyei Önkormányzat | 9,018 | 5,666 | 4,047 | 5,988 | 11,699 | 4,894 | 10,954 | 2,253 | 1,429 | 1,375 | 4,050 | 0,449 | 1,405 |
+| 2. | Bács-Kiskun Megyei Önkormányzat | 9,670 | 6,318 | 4,699 | 6,342 | 10,997 | 4,600 | 10,297 | 2,118 | 1,343 | 1,293 | 3,807 | 0,422 | 1,321 |
 
-| 3. | Baranya Megyei Önkormányzat | 5,478 | 3,395 | 2,434 | 3,916, | 7,034 | 3,583 | 5,984 | 1,024 | 0,813 | 1,103 | 2,138 | 0,410 | 0,704 |
+| 3. | Baranya Megyei Önkormányzat | 5,869 | 3,786 | 2,825 | 4,111 | 6,612 | 3,368 | 5,625 | 0,963 | 0,764 | 1,037 | 2,010 | 0,385 | 0,662 |
 
-| 4. | Békés Megyei Önkormányzat | 8,296 | 5,175 | 3,709 | 4,572 | 10,721 | 5,461 | 9,120 | 1,560 | 1,240 | 1,681 | 4,708 | 0,626 | 1,074 |
+| 4. | Békés Megyei Önkormányzat | 8,892 | 5,771 | 4,305 | 4,956 | 10,078 | 5,133 | 8,573 | 1,466 | 1,166 | 1,580 | 4,426 | 0,588 | 1,010 |
 
-| 5. | Borsod-Abaúj-Zemplén Megyei Önkormányzat | 13,323 | 8,310 | 5,956 | 7,141 | 17,218 | 8,770 | 14,646 | 2,542 | 2,005 | 2,699 | 7,712 | 1,005 | 1,724 |
+| 5. | Borsod-Abaúj-Zemplén Megyei Önkormányzat | 14,281 | 9,268 | 6,914 | 7,767 | 16,185 | 8,244 | 13,767 | 2,389 | 1,885 | 2,537 | 7,249 | 0,945 | 1,621 |
 
-| 6. | Csongrád Megyei Önkormányzat | 4,180 | 2,607 | 1,869 | 2,237 | 5,276 | 2,921 | 4,346 | 0,859 | 0,645 | 0,974 | 2,422 | 0,315 | 0,541 |
+| 6. | Csongrád Megyei Önkormányzat | 4,480 | 2,907 | 2,169 | 2,434 | 4,959 | 2,746 | 4,085 | 0,807 | 0,606 | 0,916 | 2,277 | 0,296 | 0,509 |
 
-| 7. | Fejér Megyei Önkormányzat | 4,073 | 2,792 | 2,055 | 2,458 | 5,939 | 3,151 | 5,520 | 1,084 | 0,690 | 0,731 | 2,663 | 0,347 | 0,595 |
+| 7. | Fejér Megyei Önkormányzat | 4,415 | 3,134 | 2,397 | 2,674 | 5,583 | 2,962 | 5,189 | 1,019 | 0,649 | 0,687 | 2,503 | 0,326 | 0,559 |
 
-| 8. | Győr-Moson-Sopron Megyei Önkormányzat | 3,344 | 2,086 | 1,495 | 2,702 | 4,321 | 2,201 | 3,676 | 0,629 | 0,500 | 0,677 | 1,038 | 0,080 | 0,605 |
+| 8. | Győr-Moson-Sopron Megyei Önkormányzat | 3,584 | 2,326 | 1,735 | 2,805 | 4,062 | 2,069 | 3,455 | 0,591 | 0,470 | 0,636 | 0,976 | 0,075 | 0,569 |
 
-| 9. | Hajdú-Bihar Megyei Önkormányzat | 7,105 | 4,432 | 3,176 | 4,310 | 9,182 | 4,677 | 7,810 | 1,336 | 1,062 | 1,440 | 3,637 | 0,536 | 0,919 |
+| 9. | Hajdú-Bihar Megyei Önkormányzat | 7,615 | 4,942 | 3,686 | 4,616 | 8,631 | 4,396 | 7,341 | 1,256 | 0,998 | 1,354 | 3,419 | 0,504 | 0,864 |
 
-| 10. | Heves Megyei Önkormányzat | 7,158 | 3,765 | 2,669 | 3,175 | 7,373 | 4,699 | 5,341 | 0,716 | 0,905 | 1,210 | 3,459 | 0,450 | 0,772 |
+| 10. | Heves Megyei Önkormányzat | 7,563 | 4,170 | 3,074 | 3,456 | 6,931 | 4,417 | 5,021 | 0,673 | 0,851 | 1,137 | 3,251 | 0,423 | 0,726 |
 
-| 11. | Jász-Nagykun- Szolnok Megyei Önkormányzat | 7,701 | 4,803 | 3,443 | 5,489 | 9,952 | 5,069 | 8,466 | 1,449 | 2,378 | 0,333 | 3,125 | 0,581 | 0,997 |
+| 11. | Jász-Nagykun-Szolnok Megyei Önkormányzat | 8,254 | 5,356 | 3,996 | 5,771 | 9,355 | 4,765 | 7,958 | 1,362 | 2,235 | 0,313 | 2,938 | 0,546 | 0,937 |
 
-| 12. | Komárom-Esztergom Megyei Önkormányzat | 3,714 | 2,472 | 1,661 | 2,502 | 4,600 | 2,445 | 4,283 | 0,699 | 0,400 | 0,753 | 1,652 | 0,280 | 0,481 |
+| 12. | Komárom-Esztergom Megyei Önkormányzat | 3,978 | 2,736 | 1,925 | 2,647 | 4,324 | 2,298 | 4,026 | 0,657 | 0,376 | 0,708 | 1,553 | 0,263 | 0,452 |
 
-| 13. | Nógrád Megye Önkormányzata | 5,889 | 3,673 | 2,633 | 3,174 | 7,610 | 3,876 | 6,474 | 1,233 | 1,030 | 0,918 | 3,413 | 0,444 | 0,762 |
+| 13. | Nógrád Megye Önkormányzata | 6,312 | 4,096 | 3,056 | 3,451 | 7,153 | 3,643 | 6,086 | 1,529 | 1,031 | 0,430 | 3,208 | 0,417 | 0,716 |
 
-| 14. | Somogy Megyei Önkormányzat | 6,244 | 3,734 | 2,781 | 3,325 | 8,040 | 4,095 | 6,839 | 1,170 | 0,930 | 1,260 | 3,757 | 0,469 | 0,805 |
+| 14. | Somogy Megyei Önkormányzat | 6,691 | 4,181 | 3,228 | 3,627 | 7,558 | 3,849 | 6,429 | 1,100 | 0,874 | 1,184 | 3,532 | 0,441 | 0,757 |
 
-| 15. | Szabolcs-Szatmár- Bereg Megyei Önkormányzat | 12,783 | 7,974 | 5,715 | 6,891 | 16,521 | 8,415 | 14,053 | 2,405 | 1,910 | 2,590 | 7,408 | 0,964 | 1,654 |
+| 15. | Szabolcs-Szatmár-Bereg Megyei Önkormányzat | 13,701 | 8,892 | 6,633 | 7,493 | 15,530 | 7,910 | 13,210 | 2,261 | 1,795 | 2,435 | 6,964 | 0,906 | 1,555 |
 
-| 16. | Tolna Megyei Önkormányzat | 3,944 | 2,460 | 1,763 | 2,657 | 5,097 | 2,596 | 4,336 | 0,742 | 0,589 | 0,799 | 1,755 | 0,297 | 0,510 |
+| 16. | Tolna Megyei Önkormányzat | 4,227 | 2,743 | 2,046 | 2,811 | 4,791 | 2,440 | 4,076 | 0,697 | 0,554 | 0,751 | 1,650 | 0,279 | 0,479 |
 
-| 17. | Vas Megyei Önkormányzat | 2,778 | 1,889 | 1,353 | 1,841 | 4,111 | 1,992 | 3,127 | 0,592 | 0,467 | 0,613 | 1,754 | 0,228 | 0,392 |
+| 17. | Vas Megyei Önkormányzat | 2,996 | 2,107 | 1,571 | 1,983 | 3,864 | 1,872 | 2,939 | 0,556 | 0,439 | 0,576 | 1,649 | 0,214 | 0,368 |
 
-| 18. | Veszprém Megyei Önkormányzat | 6,390 | 4,095 | 2,892 | 4,001 | 8,358 | 4,257 | 7,110 | 1,254 | 0,981 | 1,310 | 3,198 | 0,488 | 0,837 |
+| 18. | Veszprém Megyei Önkormányzat | 6,855 | 4,560 | 3,357 | 4,272 | 7,857 | 4,002 | 6,683 | 1,179 | 0,922 | 1,231 | 3,006 | 0,459 | 0,787 |
 
-| 19. | Zala Megyei Önkormányzat | 2,862 | 2,075 | 1,475 | 1,779 | 4,732 | 2,172 | 3,628 | 0,818 | 0,296 | 0,669 | 1,867 | 0,249 | 0,427 |
+| 19. | Zala Megyei Önkormányzat | 3,108 | 2,321 | 1,721 | 1,932 | 4,448 | 2,042 | 3,410 | 0,769 | 0,278 | 0,629 | 1,755 | 0,234 | 0,401 |
 
 3. Terület- és Településfejlesztési Operatív Program 1–5. prioritásai eredményességi keretbe tartozó indikátorok területi célértékei:
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U |
 
-|  | Területi szereplő megnevezése | A fejlesztett vagy újonnan létesített iparterületek és ipari parkok területe (ha) | A felújított vagy korszerűsített utak teljes hossza (km) | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | Városi területeken létrehozott vagy helyreállított nyitott terek (m2) | Kialakított kerékpárforgalmi létesítmények hossza (km) | Üvegházhatású gázok becsült éves csökkenése (tonna CO2-egyenérték) | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok száma (db) | Helyreállított lakóegységek városi területeken (lakóegység) | A foglalkoztatási paktumok keretében munkaerőpiaci programokban részt vevők száma (fő) | Helyi társadalmi akciókban részt vevők száma (fő) |
+| 1. | Területi szereplő megnevezése | A fejlesztett vagy újonnan létesített iparterületek és ipari parkok területe (ha) | A felújított vagy korszerűsített utak teljes hossza (km) | Fejlesztett, 0-3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | Városi területeken létrehozott vagy helyreállított nyitott terek (m2) | Kialakított kerékpárforgalmi létesítmények hossza (km) | Üvegházhatású gázok becsült éves csökkenése (tonna CO2-egyenérték) | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok száma (db) | Helyreállított lakóegységek városi területeken (lakóegység) | A foglalkoztatási paktumok keretében munkaerőpiaci programokban részt vevők száma (fő) | Helyi társadalmi akciókban részt vevők száma (fő) |
 
-| 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) |
+|  | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) |
 
-| 1. | Bács-Kiskun Megyei Önkormányzat | 22,00 | 108,28 | 6,00 | 27,00 | 198,00 | 990,00 | 22 500,00 | 110 432,00 | 19,00 | 44,60 | 927,00 | 9 272,00 | 29,00 | 97,00 | 20,00 | 69,00 | 525,00 | 2622,00 | 2 105,00 | 10 525,00 |
+| 2. | Bács-Kiskun Megyei Önkor- mányzat | 22,00 | 111,32 | 6,00 | 27,64 | 198,00 | 1 090,00 | 22 500,00 | 103 806,20 | 19,00 | 43,24 | 927,00 | 9 039,49 | 29,00 | 91,00 | 20,00 | 73,00 | 525,00 | 2 544,00 | 2 105,00 | 11 922,00 |
 
-| 2. | Baranya Megyei Önkormányzat | 14,00 | 65,78 | 3,40 | 16,19 | 120,00 | 592,00 | 13 281,40 | 66 399,84 | 11,55 | 32,66 | 527,00 | 5 183,00 | 10,00 | 45,00 | 12,00 | 56,00 | 277,00 | 1384,00 | 1 267,00 | 6 331,00 |
+| 3. | Baranya Megyei Önkor- mányzat | 14,00 | 67,56 | 3,40 | 16,62 | 120,00 | 706,00 | 13 281,40 | 62 413,27 | 11,55 | 31,66 | 527,00 | 4 938,14 | 10,00 | 42,00 | 12,00 | 58,72 | 277,00 | 1 343,00 | 1 267,00 | 5 974,00 |
 
-| 3. | Békés Megyei Önkormányzat | 20,00 | 99,61 | 5,00 | 25,00 | 182,00 | 907,00 | 20 239,94 | 101 199,69 | 18,00 | 49,77 | 770,00 | 7 699,00 | 14,00 | 68,00 | 17,00 | 85,00 | 610,00 | 3048,00 | 1 931,00 | 9 653,00 |
+| 4. | Békés Megyei Önkor- mányzat | 20,00 | 102,36 | 5,00 | 25,32 | 182,00 | 852,00 | 20 239,94 | 95 128,32 | 18,00 | 48,25 | 770,00 | 7 526,03 | 14,00 | 63,00 | 17,00 | 89,48 | 610,00 | 2 957,00 | 1 931,00 | 9 114,00 |
 
-| 4. | Borsod-Abaúj- Zemplén Megyei Önkormányzat | 32,04 | 159,97 | 7,93 | 39,61 | 290,00 | 1 447,00 | 32 505,48 | 162 527,39 | 27,97 | 79,93 | 1 230,00 | 12 296,00 | 22,00 | 110,00 | 28,00 | 136,00 | 999,00 | 4993,00 | 3 099,00 | 15 495,00 |
+| 5. | Borsod- Abaúj- Zemplén Megyei Önkor- mányzat | 32,04 | 164,39 | 7,93 | 40,67 | 290,00 | 1 334,00 | 32 505,48 | 152 776,74 | 27,97 | 77,48 | 1 230,00 | 12 086,21 | 22,00 | 102,00 | 28,00 | 144,00 | 999,00 | 4 843,00 | 3 099,00 | 14 629,00 |
 
-| 5. | Csongrád Megyei Önkormányzat | 10,06 | 50,19 | 2,49 | 12,43 | 91,00 | 454,00 | 9 962,00 | 49 806,79 | 9,32 | 26,63 | 348,00 | 3 483,00 | 7,00 | 37,00 | 11,00 | 49,00 | 314,00 | 1 569,00 | 973,00 | 4 862,00 |
+| 6. | Csongrád Megyei Önkor- mányzat | 10,06 | 51,58 | 2,49 | 12,76 | 91,00 | 418,00 | 9 962,00 | 46 814,39 | 9,32 | 25,81 | 348,00 | 3 586,42 | 7,00 | 35,00 | 11,00 | 51,85 | 314,00 | 1 521,00 | 973,00 | 4 591,00 |
 
-| 6. | Fejér Megyei Önkormányzat | 10,00 | 48,91 | 13,66 | 14,00 | 100,00 | 499,00 | 11 220,00 | 56 067,00 | 10,05 | 29,00 | 507,00 | 5 025,00 | 10,00 | 47,00 | 8,00 | 37,00 | 345,00 | 1 725,00 | 1 070,00 | 5 348,00 |
+| 7. | Fejér Megyei Önkor- mányzat | 10,00 | 50,83 | 13,66 | 14,11 | 100,00 | 460,00 | 11 220,00 | 52 697,24 | 10,05 | 27,84 | 507,00 | 4 555,23 | 10,00 | 44,00 | 8,00 | 39,00 | 345,00 | 1 673,00 | 1 070,00 | 5 049,00 |
 
-| 7. | Győr-Moson-Sopron Megyei Önkormányzat | 8,05 | 40,15 | 1,99 | 9,95 | 74,00 | 366,00 | 8 157,52 | 40 787,60 | 7,02 | 20,06 | 314,00 | 3 136,00 | 6,00 | 28,00 | 7,00 | 34,00 | 135,00 | 672,00 | 1089,00 | 5442,00 |
+| 8. | Győr- Moson- Sopron Megyei Önkor- mányzat | 8,05 | 41,26 | 1,99 | 10,21 | 74,00 | 482,00 | 8 157,52 | 38 340,59 | 7,02 | 19,45 | 314,00 | 3 033,52 | 6,00 | 26,00 | 7,00 | 36,00 | 135,00 | 652,00 | 1 089,00 | 5 134,00 |
 
-| 8. | Hajdú-Bihar Megyei Önkormányzat | 17,09 | 85,31 | 4,23 | 21,13 | 156,00 | 777,00 | 17 334,50 | 86 672,47 | 14,92 | 42,63 | 610,00 | 6 098,00 | 12,00 | 58,00 | 15,00 | 73,00 | 534,00 | 2355,00 | 1 652,00 | 8 260,00 |
+| 9. | Hajdú-Bihar Megyei Önkor- mányzat | 17,09 | 87,66 | 4,23 | 21,69 | 156,00 | 793,00 | 17 334,50 | 81 472,65 | 14,92 | 41,32 | 610,00 | 6 444,99 | 12,00 | 54,00 | 15,00 | 76,65 | 534,00 | 2 284,00 | 1 652,00 | 7 798,00 |
 
-| 9. | Heves Megyei Önkormányzat | 17,22 | 85,95 | 3,55 | 17,75 | 129,00 | 644,00 | 13 919,33 | 69 596,61 | 14,99 | 42,83 | 442,00 | 4 419,00 | 7,00 | 31,00 | 13,00 | 61,00 | 448,00 | 2 240,00 | 1 388,00 | 6 939,00 |
+| 10. | Heves Megyei Önkor- mányzat | 17,22 | 87,06 | 3,55 | 18,08 | 129,00 | 593,00 | 13 919,33 | 65 421,24 | 14,99 | 41,51 | 442,00 | 4 407,51 | 7,00 | 29,00 | 13,00 | 61,00 | 448,00 | 2 172,00 | 1 388,00 | 6 551,00 |
 
-| 10. | Jász-Nagykun-Szolnok Megyei Önkormányzat | 18,52 | 92,47 | 22,89 | 23,00 | 169,00 | 842,00 | 18 788,16 | 93 940,80 | 16,17 | 46,20 | 680,00 | 6 797,00 | 13,00 | 63,00 | 16,00 | 17,00 | 405,00 | 2023,00 | 1 793,00 | 8 961,00 |
+| 11. | Jász- Nagykun- Szolnok Megyei Önkor- mányzat | 18,52 | 95,02 | 22,89 | 23,51 | 169,00 | 992,00 | 18 788,16 | 88 304,92 | 16,17 | 44,79 | 680,00 | 6 986,34 | 13,00 | 59,00 | 16,00 | 17,73 | 405,00 | 1 963,00 | 1 793,00 | 8 460,00 |
 
-| 11. | Komárom-Esztergom Megyei Önkormányzat | 8,94 | 44,60 | 2,21 | 11,05 | 82,00 | 406,00 | 8 684,24 | 43 421,19 | 7,80 | 22,29 | 331,00 | 3 313,00 | 7,00 | 31,00 | 8,00 | 38,00 | 214,00 | 1070,00 | 865,00 | 4 324,00 |
+| 12. | Komárom- Esztergom Megyei Önkor- mányzat | 8,94 | 45,79 | 2,21 | 11,32 | 82,00 | 455,00 | 8 684,24 | 40 816,18 | 7,80 | 21,60 | 331,00 | 3 534,43 | 7,00 | 29,00 | 8,00 | 40,09 | 214,00 | 1 038,00 | 865,00 | 4 082,00 |
 
-| 12. | Nógrád Megyei Önkormányzat | 14,17 | 70,71 | 4,00 | 17,52 | 134,00 | 644,00 | 14 368,00 | 71 838,05 | 12,36 | 35,33 | 552,00 | 5 524,00 | 10,00 | 54,00 | 12,00 | 47,00 | 442,00 | 2 210,00 | 1 370,00 | 6 849,00 |
+| 13. | Nógrád Megyei Önkor- mányzat | 14,17 | 72,66 | 4,00 | 17,97 | 134,00 | 593,00 | 14 368,00 | 67 524,16 | 12,36 | 34,24 | 552,00 | 5 342,49 | 10,00 | 65,00 | 12,00 | 24,00 | 442,00 | 2 143,00 | 1 370,00 | 6 466,00 |
 
-| 13. | Somogy Megyei Önkormányzat | 15,02 | 74,97 | 3,70 | 18,50 | 135,00 | 675,00 | 15 178,54 | 75 892,69 | 13,06 | 37,32 | 584,00 | 5 839,00 | 11,00 | 51,00 | 13,00 | 64,00 | 487,00 | 2 433,00 | 1 448,00 | 7 236,00 |
+| 14. | Somogy Megyei Önkor- mányzat | 15,02 | 77,02 | 3,70 | 18,99 | 135,00 | 623,00 | 15 178,54 | 71 339,59 | 13,06 | 36,18 | 584,00 | 5 643,70 | 11,00 | 47,00 | 13,00 | 67,07 | 487,00 | 2 360,00 | 1 448,00 | 6 831,00 |
 
-| 14. | Szabolcs-Szatmár- Bereg Megyei Önkormányzat | 30,75 | 153,49 | 7,61 | 39,00 | 280,00 | 1 398,00 | 31 189,63 | 155 948,14 | 27,00 | 77,00 | 1 151,00 | 11 511,00 | 21,00 | 104,00 | 26,00 | 130,00 | 960,00 | 4 796,00 | 2 974,00 | 14 868,00 |
+| 15. | Szabolcs- Szatmár- Bereg Megyei Önkor- mányzat | 30,75 | 157,72 | 7,61 | 39,02 | 280,00 | 1 287,00 | 31 189,63 | 146 592,20 | 27,00 | 74,35 | 1 151,00 | 11 596,86 | 21,00 | 97,00 | 26,00 | 137,87 | 960,00 | 4 652,00 | 2 974,00 | 14 035,00 |
 
-| 15. | Tolna Megyei Önkormányzat | 9,61 | 47,96 | 2,35 | 12,00 | 87,00 | 432,00 | 9 622,52 | 48 112,57 | 8,28 | 23,66 | 376,00 | 3 758,00 | 7,00 | 32,00 | 9,00 | 41,00 | 228,00 | 1 137,00 | 917,00 | 4 584,00 |
+| 16. | Tolna Megyei Önkor- mányzat | 9,61 | 48,66 | 2,35 | 12,04 | 87,00 | 483,00 | 9 622,52 | 45 226,11 | 8,28 | 22,94 | 376,00 | 3 578,17 | 7,00 | 30,00 | 9,00 | 43,00 | 228,00 | 1 102,00 | 917,00 | 4 328,00 |
 
-| 16. | Vas Megyei Önkormányzat | 6,69 | 33,36 | 3,00 | 9,00 | 75,00 | 374,00 | 7 761,07 | 38 805,33 | 7,00 | 18,16 | 375,00 | 2 668,00 | 7,00 | 26,00 | 7,00 | 31,00 | 228,00 | 1 136,00 | 705,00 | 3 524,00 |
+| 17. | Vas Megyei Önkor- mányzat | 6,69 | 34,49 | 3,00 | 9,25 | 75,00 | 341,00 | 7 761,07 | 36 477,25 | 7,00 | 17,60 | 375,00 | 2 580,48 | 7,00 | 24,00 | 7,00 | 33,00 | 228,00 | 1 102,00 | 705,00 | 3 327,00 |
 
-| 17. | Veszprém Megyei Önkormányzat | 15,50 | 76,73 | 3,85 | 20,00 | 140,00 | 700,00 | 15 779,03 | 78 900,00 | 14,00 | 39,00 | 824,00 | 8 238,00 | 11,00 | 54,00 | 14,00 | 66,00 | 415,00 | 2071,00 | 1 505,00 | 7 523,00 |
+| 18. | Veszprém Megyei Önkor- mányzat | 15,50 | 78,92 | 3,85 | 19,75 | 140,00 | 734,00 | 15 779,03 | 74 161,23 | 14,00 | 37,61 | 824,00 | 5 867,34 | 11,00 | 51,00 | 14,00 | 70,00 | 415,00 | 2 009,00 | 1 505,00 | 7 103,00 |
 
-| 18. | Zala Megyei Önkormányzat | 14,45 | 34,37 | 5,81 | 9,81 | 120,00 | 361,00 | 10 200,00 | 44 667,00 | 20,00 | 20,00 | 2 559,00 | 2 559,00 | 14,00 | 47,00 | 15,00 | 34,00 | 242,00 | 1 209,00 | 768,00 | 3 838,00 |
+| 19. | Zala Megyei Önkor- mányzat | 14,45 | 35,78 | 5,81 | 10,13 | 120,00 | 332,00 | 10 200,00 | 41 987,43 | 20,00 | 19,19 | 2 559,00 | 2993,91 | 14,00 | 33,00 | 15,00 | 36,00 | 242,00 | 1 173,00 | 768,00 | 3 624,00 |
 
 [^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1304/2018. (VII. 4.) Korm. határozat 1. pontja, az 1072/2019. (II. 28.) Korm. határozat 1. pontja, az 1401/2019. (VII. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1304/2018. (VII. 4.) Korm. határozat 1. pontja, az 1072/2019. (II. 28.) Korm. határozat 1. pontja, az 1401/2019. (VII. 5.) Korm. határozat 1. pontja, az 1144/2020. (IV. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
