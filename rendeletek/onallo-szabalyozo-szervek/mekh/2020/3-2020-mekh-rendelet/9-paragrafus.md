@@ -1,0 +1,1 @@
+## 8. § A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló 13/2016. (XII. 20.) MEKH rendelet (a továbbiakban: R2.) 1. melléklet II. f) pontjában és a 2. melléklet 2. pontjában foglalt táblázatban a „Tigáz-DSO Földgázelosztó Kft.” szövegrész helyébe a „Tigáz Földgázelosztó Zrt.” szöveg lép.
