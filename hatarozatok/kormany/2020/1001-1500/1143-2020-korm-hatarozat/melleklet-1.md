@@ -1,0 +1,57 @@
+## 1. A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés f) pontjában és 87. § (1) bekezdés c) pontjában foglalt feladatkörében eljárva
+
+## a) egyetért az 1. melléklet szerint az ott felsorolt projektek összköltségének növelésével és forrásszerkezetének módosításával;
+
+## b) az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet (a továbbiakban: Korm. rendelet) 6/A. §-a alapján hozzájárul, hogy az 1. mellékletben foglalt táblázat 4. és 6. sora szerinti projektek keretemelése és annak végrehajtása során a Korm. rendelet 5. §-a ne kerüljön alkalmazásra;
+
+## c) egyetért az a) alpont szerinti projektek 1. mellékletben foglalt táblázat G oszlopa szerinti többlettámogatásának a Környezeti és Energiahatékonysági Operatív Program (a továbbiakban: KEHOP) 5. prioritása rendelkezésre álló kerete terhére történő finanszírozásával;
+
+## d) egyetért azzal, hogy az 1. mellékletben foglalt táblázat 4–8. sora szerinti projektek esetén az 1. mellékletben foglalt táblázat H oszlopában meghatározott, összesen legfeljebb 245 597 231 forint összegű, az Európai Unió felé nem elszámolható költségigénye – az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján – a KEHOP hazai társfinanszírozáson felüli felhasználásával kerüljön finanszírozásra;
+
+## e) egyetért az a) alpont szerinti projektek támogatási szerződésének az 1. melléklet szerinti módosításával.
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2020. április 30.
+
+## 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat
+
+## 3.1. 1. pont k) alpontjában a „123,7%-áig” szövegrész helyébe a „123,71%-áig” szöveg,
+
+## 3.2. 2. mellékletében foglalt táblázat
+
+## 3.2.1. D:520 mezőjében a „0,17” szövegrész helyébe a „0,18” szöveg,
+
+## 3.2.2. D:525e mezőjében a „0,26” szövegrész helyébe a „0,28” szöveg,
+
+## 3.2.3. D:525f mezőjében a „0,71” szövegrész helyébe a „0,75” szöveg,
+
+## 3.2.4. D:538 mezőjében a „0,20” szövegrész helyébe a „0,21” szöveg,
+
+## 3.2.5. D:547 mezőjében a „0,15” szövegrész helyébe a „0,16” szöveg,
+
+## 3.2.6. D:573b mezőjében a „0,31” szövegrész helyébe a „0,33” szöveg
+
+## lép.
+
+1. melléklet az 1143/2020. (IV. 8.) Korm. határozathoz
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Módosítás előtti forrásszerkezet | Projekt módosítás előtti összköltsége összesen (forint) | Változás | Módosítást követő forrásszerkezet | Projekt módosítást követő összköltség (forint) | Projekt rövid bemutatása |
+
+| 2. | KEHOP (forint) | Az Európai Unió (a továbbiakban: EU) felé nem elszámolható költség (forint) | KEHOP (forint) | Az EU felé nem elszámolható költség (forint) | Projekt összköltsége (forint) | KEHOP (forint) | Az EU felé nem elszámolható költség (forint) |
+
+| 3. | KEHOP-5.2.2- 16-2016-00044 | Kenderesi Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium épületenergetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Kenderesi Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium | 170 000 000 | – | 170 000 000 | +8 959 411 | – | +8 959 411 | 178 959 411 | – | 178 959 411 | A projekt a Kenderesi Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium 5331 Kenderes, Szent István út 27.; hrsz. 866 számon található „Könyvtár” , „Tanügyi” , „Diagnosztika” és „Tanműhely I.” épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás egyes épületek esetében a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési és hűtési rendszerek korszerűsítését, hőszivattyú beépítését, valamint egy napenergiát hasznosító villamos energiát termelő napelem rendszer telepítését tartalmazza a hatályos, az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet [a továbbiakban: 7/2006. (V. 24.) TNM rendelet] követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+| 4. | KEHOP-5.2.2- 16-2016-00080 | Vas Megyei Szakképzési Centrum Savaria Közlekedési Szakgimnáziuma és Kollégiuma energetikai korszerűsítése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Vas Megyei Szakképzési Centrum | 150 000 000 | – | 150 000 000 | +9 886 642 | +70 002 097 | +79 888 739 | 159 886 642 | 70 002 097 | 229 888 739 | A projekt a Szombathelyi Műszaki Szakképzési Centrum, 9700 Szombathely, Hadnagy u. 1., hrsz. 2702/1 számon található épületet érinti. Ezen épület az építési kornak megfelelő technológiai színvonalon épült, de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület jelentős hőveszteséggel működik. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+| 5. | KEHOP-5.2.2- 16-2016-00088 | Miskolci Szakképzési Centrum Mezőkövesdi Szent László Gimnáziuma és Közgazdasági Szakgimnáziuma energetikai korszerűsítése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Miskolci Szakképzési Centrum | 200 000 000 | 88 924 121 | 288 924 121 | +5 990 576 | +64 874 811 | +70 865 387 | 205 990 576 | 153 798 932 | 359 789 508 | A projekt a Miskolci Szakképzési Centrum, 3400 Mezőkövesd, Mátyás király út 146., hrsz. 2736/18 gimnázium és tornacsarnok épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a külső határoló födémszerkezetek utólagos hőszigetelését, fűtési és hűtési rendszerek korszerűsítését, tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+| 6. | KEHOP-5.2.2- 16-2017-00118 | A Roth Gyula Erdészeti, Faipari, Kertészeti, Környezetvédelmi Szakgimnázium, Szakközépiskola és Kollégium épületeinek energetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Roth Gyula Erdészeti, Faipari, Kertészeti, Környezetvédelmi Szakgimnázium, Szakközépiskola és Kollégium | 310 000 000 | – | 310 000 000 | +16 063 553 | +69 716 865 | +85 780 418 | 326 063 553 | 69 716 865 | 395 780 418 | A projekt a Roth Gyula Erdészeti, Faipari, Kertészeti, Környezetvédelmi Szakgimnázium, Szakközépiskola és Kollégium 9400 Sopron, Lackner Kristóf u. 7., hrsz. 477/1 épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a födémszerkezetek utólagos hőszigetelését, fűtési és hűtési rendszerek korszerűsítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+| 7. | KEHOP-5.2.2- 16-2017-00120 | Nemzeti Élelmiszerlánc- biztonsági Hivatal épületeinek energetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Nemzeti Élelmiszerlánc-biztonsági Hivatal | 710 000 000 | – | 710 000 000 | – | +35 500 624 | +35 500 624 | 710 000 000 | 35 500 624 | 745 500 624 | A projekt a Nemzeti Élelmiszerlánc-biztonsági Hivatal 1024 Budapest, Keleti Károly u. 24., hrsz. 13240/1 épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését, valamint egy villamos energiát termelő napelem rendszer telepítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+| 8. | KEHOP-5.2.2- 16-2017-00121 | Bábolna Nemzeti Ménesbirtok épületeinek épületenergetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Bábolna Nemzeti Ménesbirtok | 260 000 000 | – | 260 000 000 | +12 669 969 | +5 502 834 | +18 172 803 | 272 669 969 | 5 502 834 | 278 172 803 | A projekt a Bábolna Nemzeti Ménesbirtok 2943 Bábolna, Mészáros út 1., hrsz. 5 épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
