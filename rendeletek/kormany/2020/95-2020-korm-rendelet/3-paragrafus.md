@@ -1,0 +1,3 @@
+## 2. § A kijárási korlátozás meghosszabbított időszaka alatt a Rendelet szabályait azzal az eltéréssel kell alkalmazni, hogy a településen, illetve a fővárosi kerületben működő piac nyitva tartásának rendjéről és a piacnak a 65. életévüket betöltött személyek általi látogatásának rendjéről a települési – Budapest Főváros esetében a kerületi – önkormányzat a Rendeletben foglaltaktól eltérően rendelkezhet. A piac nyitva tartása alatt olyan kizárólagos látogatási idősávot kell megállapítani, amely alatt a piacot kizárólag 65. életévüket betöltött személyek látogathatják.
+
+## 2. Húsvéti ünnepekre vonatkozó rendkívüli rendelkezések
