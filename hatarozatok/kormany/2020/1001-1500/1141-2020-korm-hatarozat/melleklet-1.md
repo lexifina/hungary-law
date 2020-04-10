@@ -20,41 +20,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat] 1. pontja a következő l) alponttal egészül ki:
+## 3.[^1]
 
-## (A Kormány)
-
-## „l) egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 3. prioritásának terhére kötelezettségvállalás a prioritás operatív programban rögzített keretének legfeljebb 123,91%-áig tehető, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyását követően vállalható.”
-
-## 4. Az 1084/2016. (II. 29.) Korm. határozat
-
-## 4.1. 1. pont i) alpontjában az „1–4. prioritásainak” szövegrész helyébe az „1., 2. és 4. prioritása” szöveg,
-
-## 4.2. 1. melléklet 3. pontjában foglalt táblázat
-
-## 4.2.1. C:1b mezőjében az „5,00” szövegrész helyébe a „0,89” szöveg,
-
-## 4.2.2. C:3 mezőjében a „98,52” szövegrész helyébe a „102,63” szöveg,
-
-## 4.3. 2. mellékletében foglalt táblázat
-
-## 4.3.1. D:331 mezőjében a „2,40” szövegrész helyébe a „3,96” szöveg,
-
-## 4.3.2. E:331 mezőjében a „0,27” szövegrész helyébe a „0,45” szöveg,
-
-## 4.3.3. D:333 mezőjében a „3,65” szövegrész helyébe az „5,15” szöveg,
-
-## 4.3.4. E:333 mezőjében a „0,41” szövegrész helyébe a „0,58” szöveg,
-
-## 4.3.5. D:336 mezőjében a „2,78” szövegrész helyébe a „3,33” szöveg,
-
-## 4.3.6. E:336 mezőjében a „0,32” szövegrész helyébe a „0,38” szöveg,
-
-## 4.3.7. D:348 mezőjében a „2,20” szövegrész helyébe a „2,53” szöveg,
-
-## 4.3.8. E:348 mezőjében a „0,25” szövegrész helyébe a „0,28” szöveg
-
-## lép.
+## 4.[^2]
 
 1. melléklet az 1141/2020. (IV. 8.) Korm. határozathoz
 
@@ -69,3 +37,6 @@
 | 4. | KEHOP- 3.2.1-15- 2017-00014 | Komplex hulladékgazdálkodási rendszer fejlesztése az észak-balatoni közszolgáltatási területen, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Észak-Balatoni Térség Regionális Települési Szilárdhulladék Kezelési Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint | 2 599 981 853 | 721 484 032 | 370 496 963 | 3 321 465 885 | A projekt keretében a szelektív gyűjtés fejlesztése történik új hulladékgyűjtő járművek beszerzésével, továbbá hulladékudvarok építése, szelektív válogatómű, valamint mechanikai-biológiai előkezelő mű, illetve egyéb telephelyi fejlesztések valósulnak meg. |
 
 | 5. | KEHOP- 3.2.1-15- 2017-00023 | Komplex hulladékgazdálkodási rendszer fejlesztése Karcag Város, valamint a Tisza-tó térségében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Karcag Városi Önkormányzat és a Tisza-Tavi Regionális Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint | 2 399 999 988 | 1 551 983 213 | 444 598 131 | 3 951 983 201 | A projekt keretében a házhoz menő szelektív gyűjtés fejlesztése, új hulladékgyűjtő és -szállító járművek, munkagépek beszerzése, telephelyi infrastruktúra, valamint mechanikai-biológiai előkezelő mű és szelektív válogatómű fejlesztése valósul meg. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
