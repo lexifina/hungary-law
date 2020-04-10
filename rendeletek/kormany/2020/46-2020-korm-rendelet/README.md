@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-46-20-2
 | --- | --- | --- |
 | 2020-03-17 | 2020-46-20-22.1 | 46/2020. (III. 16.) Korm. rendelet |
 | 2020-03-18 | 2020-46-20-22.2 | 2010: CXXX. törvény |
+| 2020-04-10 | 2020-46-20-22.3 | 73/2020. (III. 31.) Korm. rendelet |
