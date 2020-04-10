@@ -16,25 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat
-
-## 3.1. 1. pont k) alpontjában a „123,7%-áig” szövegrész helyébe a „123,71%-áig” szöveg,
-
-## 3.2. 2. mellékletében foglalt táblázat
-
-## 3.2.1. D:520 mezőjében a „0,17” szövegrész helyébe a „0,18” szöveg,
-
-## 3.2.2. D:525e mezőjében a „0,26” szövegrész helyébe a „0,28” szöveg,
-
-## 3.2.3. D:525f mezőjében a „0,71” szövegrész helyébe a „0,75” szöveg,
-
-## 3.2.4. D:538 mezőjében a „0,20” szövegrész helyébe a „0,21” szöveg,
-
-## 3.2.5. D:547 mezőjében a „0,15” szövegrész helyébe a „0,16” szöveg,
-
-## 3.2.6. D:573b mezőjében a „0,31” szövegrész helyébe a „0,33” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1143/2020. (IV. 8.) Korm. határozathoz
 
@@ -55,3 +37,5 @@
 | 7. | KEHOP-5.2.2- 16-2017-00120 | Nemzeti Élelmiszerlánc- biztonsági Hivatal épületeinek energetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Nemzeti Élelmiszerlánc-biztonsági Hivatal | 710 000 000 | – | 710 000 000 | – | +35 500 624 | +35 500 624 | 710 000 000 | 35 500 624 | 745 500 624 | A projekt a Nemzeti Élelmiszerlánc-biztonsági Hivatal 1024 Budapest, Keleti Károly u. 24., hrsz. 13240/1 épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését, valamint egy villamos energiát termelő napelem rendszer telepítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
 
 | 8. | KEHOP-5.2.2- 16-2017-00121 | Bábolna Nemzeti Ménesbirtok épületeinek épületenergetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Bábolna Nemzeti Ménesbirtok | 260 000 000 | – | 260 000 000 | +12 669 969 | +5 502 834 | +18 172 803 | 272 669 969 | 5 502 834 | 278 172 803 | A projekt a Bábolna Nemzeti Ménesbirtok 2943 Bábolna, Mészáros út 1., hrsz. 5 épülete(i)t érinti. Ezen épület(ek) az építési kornak megfelelő technológiai színvonalon épült(ek), de a határoló szerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület(ek) jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
