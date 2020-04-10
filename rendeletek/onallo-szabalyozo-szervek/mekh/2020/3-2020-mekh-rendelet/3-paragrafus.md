@@ -1,3 +1,3 @@
-## 2. § Az R1. 19. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(6) Az aukciós díj megegyezik az aukciós felár, a lekötött kapacitás és az aukció időpontjában már kihirdetett, a kapacitáshasználat időszakára vonatkozóan hatályos – kedvezmény nyújtása esetén az azzal csökkentett – szállítási kapacitásdíj szorzatával, amelyet a szállítási kapacitásdíj aukció indulását követő módosítása nem változtat meg.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
