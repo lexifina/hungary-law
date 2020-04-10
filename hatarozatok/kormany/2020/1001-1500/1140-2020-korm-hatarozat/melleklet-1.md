@@ -18,8 +18,11 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat [a továbbiakban: 1037/2016. (II. 9.) Korm. határozat] 2. melléklete a 2. melléklet szerint módosul.
+## 4.[^1]
 
-## 5. Az 1037/2016. (II. 9.) Korm. határozat 1. melléklet 1. pontjában foglalt táblázat C:32 mezőjében a „6,57 (ebből VEKOP: 1,97)” szövegrész helyébe a „17,93 (ebből VEKOP: 1,97, indikatív önerő: 3,42)” szöveg lép.
+## 5.[^2]
 
 1. melléklet az 1140/2020. (IV. 8.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
