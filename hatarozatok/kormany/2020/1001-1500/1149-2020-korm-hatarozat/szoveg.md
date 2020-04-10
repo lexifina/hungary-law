@@ -1,0 +1,45 @@
+A Kormány a Budapest Főváros Önkormányzatával (a továbbiakban: Önkormányzat) kötött megállapodásban foglaltak végrehajtása céljából
+
+1. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával – a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) útján – tegye meg a szükséges intézkedéseket az Önkormányzat – a 29076/0/A/3. hrsz. számú ingatlan tekintetében 7/50 tulajdoni hányadban a Budapest Főváros VI. Kerület Önkormányzat – tulajdonában álló Budapest VI. kerület belterület 29081/0/A/2., 29064/0/A/7., 29076/0/A/3., 29086/0/A/1., 29086/0/A/2. és 29087/0/A/1. hrsz., a Thália Színház Nonprofit Korlátolt Felelősségű Társaság elhelyezésére szolgáló ingatlanoknak, továbbá a Thália Színház Nonprofit Korlátolt Felelősségű Társaságnak – legfeljebb a független szakértő által meghatározott forgalmi (piaci) értéken – a magyar állam javára történő megvásárlása érdekében;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: 2020. december 31.
+
+2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket az 1. pontban meghatározott ingatlanoknak a Thália Színház Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonkezelésbe adása érdekében;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Határidő: az 1. pontban foglaltak teljesülését követő 30 napon belül
+
+3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket az Önkormányzat tulajdonában álló Budapest XIV. kerület belterület 29753 hrsz. számú, természetben az Állatkerti körút 14–16. szám alatti ingatlan délnyugati területének a Lovarda épületével és a kapcsolódó földrészlettel, továbbá a 29732/9 hrsz. számú ingatlannak a fenti területtel határos délkeleti területrészének (a továbbiakban együtt: Lovarda) – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken – a magyar állam javára történő megvásárlása érdekében;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: 2020. december 31.
+
+4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket a 3. pont szerinti Lovardának a Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonkezelésbe adása érdekében;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a 3. pontban foglaltak teljesülését követő 30 napon belül
+
+5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával készítsen előterjesztést a Kormány részére az 1. és 3. pontban foglaltak végrehajtása érdekében szükséges források biztosítása tárgyában.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Határidő: 2020. május 31.
