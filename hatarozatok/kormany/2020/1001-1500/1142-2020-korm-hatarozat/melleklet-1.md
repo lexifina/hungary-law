@@ -14,19 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## 3.1. D:367 mezőjében a „0,90” szövegrész helyébe az „1,47” szöveg,
-
-## 3.2. D:386 mezőjében a „0,45” szövegrész helyébe a „0,58” szöveg,
-
-## 3.3. D:404 mezőjében a „0,80” szövegrész helyébe az „1,04” szöveg,
-
-## 3.4. D:426 mezőjében a „0,15” szövegrész helyébe a „0,21” szöveg,
-
-## 3.5. D:441 mezőjében a „0,30” szövegrész helyébe a „0,33” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1142/2020. (IV. 8.) Korm. határozathoz
 
@@ -45,3 +33,5 @@
 | 6. | KEHOP-4.1.0-15- 2016-00080 | A Péteri-tó természetes mederalakulatának helyreállítása | Kiskunsági Nemzeti Park Igazgatóság | 300 000 000 | 29 900 000 | 329 900 000 | A projekt célja az 1976-ban természetvédelmi oltalom alá helyezett 781 hektáros Péteri-tavi Madárrezervátum kiemelkedő természeti értékeinek megőrzése és jobb bemutathatósága érdekében a korábbi szikes tó helyén egykor kialakított halastórendszer természetvédelmi szempontú átalakítása, rekonstrukciója: a két legnagyobb tómedret elválasztó töltés és földút felszámolása, egységes tómeder kialakítása, a tavat övező töltések megerősítése, felhagyott, leromlott állapotú halgazdálkodási létesítmények (zsilipek, ivadéknevelő tavak, gátak, épületmaradványok stb.) felszámolása, a természetvédelmi célú vízvisszatartást szolgáló műtárgyak felújítása, a fejlesztés eredményeit és a terület természeti értékeit bemutató alapinfrastruktúra kiépítése (kiállítás, tanösvény, kilátó, magasles és madármegfigyelő ház). |
 
 | 7. | KEHOP-4.1.0-15- 2016-00086 | A Balaton-felvidéki Nemzeti Park Igazgatóság működési területén Natura 2000 területet bemutató hálózat kialakítása infrastruktúra-fejlesztéssel | Balaton-felvidéki Nemzeti Park Igazgatóság | 284 503 051 | 109 622 818 | 394 125 869 | Az infrastrukturális fejlesztéssel „Natura 2000 fogadókapu” jön létre Fonyód közelében, Ordacsehi helyszínnel a „Berek Világa Látogatóközpont” elnevezésű természetismereti élményparkkal. A megvalósításra kerülő kiállítások célja a látogatói élménynövelés az eltérő igényeknek megfelelően. A projekt eredményindikátora „A Natura 2000 területek bemutatásához kapcsolódó kommunikációs akciókban aktívan résztvevő lakosság száma”: 1000 fő. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
