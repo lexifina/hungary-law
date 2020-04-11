@@ -12,11 +12,11 @@ bb) legalább tízéves oktatói gyakorlattal felsőoktatási intézményben.
 
 (2a) A (2) bekezdés a) pontja szerinti gyakorlatnak kell tekinteni különösen a következőket:
 
-a) a Hivatalnál, illetve a Nemzeti Hírközlési Hatóságnál hírközlési területen folytatott hatósági tevékenység vezetői vagy ügyintézői munkakörben,
+a) a Hivatalnál, illetve a Nemzeti Hírközlési Hatóságnál hírközlési területen folytatott hatósági tevékenység vezetői vagy ügyintézői munkakörben vagy álláshelyen,
 
 b) a Hivatal, illetve a Nemzeti Hírközlési Hatóság határozataival kapcsolatos jogorvoslati eljárások lefolytatásában való bírói, ügyészi vagy jogi képviselői részvétel,
 
-c) az Országos Rádió és Televízió Testületnél vagy annak szerveinél, illetve a Médiatanácsnál a médiaszolgáltatások felügyeletével kapcsolatos tevékenység vezetői vagy ügyintézői munkakörben,
+c) az Országos Rádió és Televízió Testületnél vagy annak szerveinél, illetve a Médiatanácsnál a médiaszolgáltatások felügyeletével kapcsolatos tevékenység vezetői vagy ügyintézői munkakörben vagy álláshelyen,
 
 d) az Országos Rádió és Televízió Testület vagy annak szervei döntéseivel kapcsolatos jogorvoslati eljárások lefolytatásában való bírói, ügyészi vagy jogi képviselői részvétel,
 

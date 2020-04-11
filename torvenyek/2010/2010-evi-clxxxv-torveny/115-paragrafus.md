@@ -6,6 +6,8 @@
 
 (3) A főigazgató havi illetménye az Elnök havi illetményének 60%-a. Egyebekben a főigazgató államtitkári juttatásokra jogosult.
 
+(3a) A főigazgató minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
+
 (4) A főigazgatót nem lehet utasítani az elsőfokú hatósági határozathozatali joggyakorlása során.
 
 (5) A főigazgató megbízatása megszűnik

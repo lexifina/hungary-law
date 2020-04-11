@@ -8,7 +8,7 @@
 
 (4) A Közszolgálati Testület titkársági feladatait a Közalapítvány irodája látja el, költségei – beleértve az elnök és a tagok tiszteletdíját – a Közalapítványt terhelik.
 
-(5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok– a 118. § (1) bekezdés e) pontjának kivételével – értelemszerűen irányadók.
+(5) A Közszolgálati Testület elnökét a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa huszonkét százalékának, tagját a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa tizennégy százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezenfelül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok – a 118. § (1) bekezdés e) pontjának kivételével – irányadók.
 
 (6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltató felett.
 

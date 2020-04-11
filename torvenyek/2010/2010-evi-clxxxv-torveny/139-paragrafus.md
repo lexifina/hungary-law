@@ -6,7 +6,7 @@
 
 139. § (1) A Hatóság részeként Média- és Hírközlési Biztos (a továbbiakban: Biztos) működik. A Biztos az elektronikus hírközlési szolgáltatást, illetve médiaszolgáltatást igénybe vevő felhasználókat, előfizetőket, nézőket, hallgatókat, fogyasztókat, illetve a sajtótermékek olvasóit megillető, elektronikus hírközléssel és a médiaszolgáltatásokkal, sajtótermékekkel kapcsolatos méltánylást érdemlő érdekek érvényesülésének elősegítésében működik közre. A Biztos eljár az e törvényben meghatározott ügyekben.
 
-(2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos főosztályvezetői besorolású köztisztviselő. A Biztos e fejezet szerinti feladatai ellátása körében nem utasítható.
+(2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos szakmai vezető I. besorolású álláshelyen foglalkoztatott köztisztviselő. A Biztos e fejezet szerinti feladatai ellátása körében nem utasítható.
 
 (3) A Biztosra megfelelően alkalmazni kell a 111/A. § (2) és (2a) bekezdésében foglaltakat.
 

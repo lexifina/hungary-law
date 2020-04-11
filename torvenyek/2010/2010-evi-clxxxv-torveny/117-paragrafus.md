@@ -4,4 +4,6 @@
 
 (3) A főigazgató-helyettes havi illetménye az Elnök havi illetményének 50%-a. Egyebekben a főigazgató-helyettes helyettes államtitkári juttatásokra jogosult.
 
+(3a) A főigazgató-helyettes minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
+
 (4) A főigazgató-helyettesre a főigazgatóra vonatkozó, a 115. § (5)–(10) bekezdésében foglalt rendelkezéseket alkalmazni kell.

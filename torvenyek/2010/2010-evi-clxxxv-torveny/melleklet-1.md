@@ -17,11 +17,3 @@ e) Magyarországi Zsidó Hitközségek Szövetsége
 f) Magyar Olimpiai Bizottság
 
 g) Magyar Rektori Konferencia
-
-h) Magyar Kereskedelmi és Iparkamara
-
-i) Magyarország települési önkormányzatainak szövetségei, illetve szervezetei
-
-j) a magyarországi nemzetiségek országos önkormányzatai
-
-k) Magyarországgal szomszédos államokban bejegyzett, száz főnél nagyobb taglétszámú magyar kulturális szervezetek
