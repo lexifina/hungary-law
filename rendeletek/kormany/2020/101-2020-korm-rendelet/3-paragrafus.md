@@ -1,0 +1,5 @@
+## 2. § Ha a felsőoktatási intézmény az Nftv. 37. § (1) bekezdés a) és e) pontjában meghatározott magasabb vezetője vezetői megbízása a veszélyhelyzet kihirdetését követő 6 hónapon belül járna le és az arra jogosult a magasabb vezetői feladatra újabb megbízást nem adott, a magasabb vezető vezetői megbízása az adott magasabb vezetői feladat ellátására kiírt vezetői pályázat eredményes lebonyolításáig, de legfeljebb a magasabb vezetői feladatra szóló megbízás lejáratának időpontjától számított egyéves időtartamra meghosszabbodik, azzal, hogy ebben az esetben az Nftv. 37. § (3) és (6) bekezdésében előírt korlátozások nem alkalmazhatók.
+
+3. § (1) A 2019/2020. tanév tavaszi félévét az Nftv. – hallgatói jogviszony egybefüggő szüneteltetéséről rendelkező – 45. § (1) bekezdése, továbbá 53. § (4) bekezdése alkalmazása során nem kell figyelembe venni.
+
+(2) A 2019/2020. tanévben a felsőoktatási intézmények az Nftv. 108. § 5. és 40. pontjában a félév, illetve a tanév hosszára meghatározott időtartamoktól eltérhetnek.
