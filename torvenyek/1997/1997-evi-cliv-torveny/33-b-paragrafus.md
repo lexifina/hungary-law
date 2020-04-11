@@ -1,1 +1,1 @@
-33/B. § Az Integrált Jogvédelmi Szolgálatot vezető jogvédelmi biztos helyettes államtitkári illetményre és juttatásokra jogosult.
+33/B. § Az Integrált Jogvédelmi Szolgálatot vezető jogvédelmi biztos a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg, ezenfelül helyettes államtitkári juttatásokra jogosult.
