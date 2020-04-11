@@ -2,7 +2,7 @@
 
 (2) Az általános adatvédelmi rendelet 62. cikkében meghatározott módon, az EGT-állam felügyeleti hatóságával közösen végzett műveletek során
 
-a) a Hatóság személyi állományába tartozó, a Hatóság elnöke által a közös műveletben való közreműködésre kijelölt köztisztviselő a más EGT-állam területén, a más EGT-állam felügyeleti hatósága által átruházott feladat- és hatáskörök,
+a) a Hatóság személyi állományába tartozó, a Hatóság elnöke által a közös műveletben való közreműködésre kijelölt köztisztviselő vagy munkavállaló a más EGT-állam területén, a más EGT-állam felügyeleti hatósága által átruházott feladat- és hatáskörök,
 
 b) a más EGT-állam felügyeleti hatósága feladat- és hatáskörében eljáró és e felügyeleti hatóság által kijelölt személy Magyarország területén a Hatóság elnöke által írásban meghatározott terjedelemben a Hatóság feladat- és hatáskörének
 

@@ -1,5 +1,5 @@
-51. § (1) A Hatóság elnöke a Hatóság köztisztviselői létszámának legfeljebb húsz százalékáig vizsgálót nevezhet ki, a Hatóság azon köztisztviselői közül, akik felsőfokú informatikai vagy jogász végzettségűek és legalább három évet adatvédelmi szakértő vagy adatvédelmi felelős munkakörben töltöttek, valamint közigazgatási vagy jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkeznek.
+51. § (1) A Hatóság elnöke a Hatóság alaplétszámának legfeljebb húsz százalékáig vizsgálót nevezhet ki a Hatóság azon felsőfokú végzettségű köztisztviselői és munkavállalói közül, akik közszolgálati jogviszonya vagy munkaviszonya a Hatóságnál legalább öt éve fennáll.
 
-(2) A vizsgálói megbízatás határozatlan időre szól, amely a Hatóság elnöke által bármikor – indokolás nélkül – visszavonható. Ha a Hatóság elnöke a vizsgálói megbízatást visszavonja, a köztisztviselőt a vizsgálói megbízatását megelőzően betöltött utolsó munkakörébe kell visszahelyezni.
+(2) A vizsgálói megbízatás határozatlan időre szól, amely a Hatóság elnöke által bármikor – indokolás nélkül – visszavonható.
 
-(3) A vizsgáló vezetői pótlék nélkül számított osztályvezetői illetményre jogosult.
+(3) A vizsgáló illetményének és pótszabadságának mértékét, továbbá egyéb járandóságait az önálló szervezeti egység vezetőjére vonatkozó előírások alapján kell megállapítani.

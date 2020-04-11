@@ -18,7 +18,7 @@ f) a tisztségétől való megfosztással.
 
 (4) A Hatóság elnöke felmenti a Hatóság elnökhelyettesét, ha a Hatóság elnökhelyettese neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
 
-(5) A Hatóság elnöke a Hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a Hatóság elnökhelyettesének a Hatóságnál köztisztviselői munkakört és – az 51. § (1) bekezdésében meghatározott feltételek fennállásának hiányában is – vizsgálói megbízatást kell felajánlani.
+(5) A Hatóság elnöke a Hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a Hatóság elnökhelyettesének a Hatóságnál köztisztviselői álláshelyet és – az 51. § (1) bekezdésében meghatározott feltételek fennállásának hiányában is – vizsgálói megbízatást kell felajánlani.
 
 (6) A Hatóság elnöke megfosztja tisztségétől a Hatóság elnökhelyettesét, ha a Hatóság elnökhelyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
 
