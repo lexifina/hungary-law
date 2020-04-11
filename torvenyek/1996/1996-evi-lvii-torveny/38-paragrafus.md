@@ -24,7 +24,7 @@ a) felmenti, ha
 
 aa) kilencven napon túl – neki felróható okból – nem képes eleget tenni a megbízatásából eredő feladatainak,
 
-ab) a közszolgálati jogviszony létesítéséhez szükséges, a Kttv.-ben, illetve az e törvényben meghatározott feltételeknek nem felel meg, vagy
+ab) a közszolgálati jogviszony létesítéséhez szükséges, a Küt.-ben, illetve az e törvényben meghatározott feltételeknek nem felel meg, vagy
 
 ac) vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közöl, illetve
 
