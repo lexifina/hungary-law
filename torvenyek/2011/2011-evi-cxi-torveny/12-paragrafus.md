@@ -2,7 +2,7 @@
 
 (1a) Az alapvető jogok biztosa az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
 
-(2) Az alapvető jogok biztosának helyettese a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+(2) Az alapvető jogok biztosának helyettese a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
 
 (2a) Az alapvető jogok biztosának helyettese a (2) bekezdésben meghatározott illetményen túl államtitkári juttatásra jogosult.
 
