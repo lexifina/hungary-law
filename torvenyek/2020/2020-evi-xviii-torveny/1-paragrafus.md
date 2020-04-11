@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közötti keretmegállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozására tekintettel készült jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
