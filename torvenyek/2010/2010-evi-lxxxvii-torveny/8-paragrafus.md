@@ -20,4 +20,4 @@ i) javaslatot tesz az NFK elnöke által előterjesztett és a d)–f) és h) po
 
 (2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
-(3) A Tanács tagjai – a Tanács elnökének és az NFK elnökének kivételével – tevékenységükért helyettes államtitkári illetménynek megfelelő összegű tiszteletdíjban részesülnek. A Tanács elnöke tevékenységéért államtitkári illetménynek megfelelő összegű tiszteletdíjban részesül.
+(3) A Tanács tagja – a Tanács elnöke és az NFK elnöke kivételével – tevékenységéért a miniszter által vezetett minisztérium helyettes államtitkári illetményének megfelelő összegű tiszteletdíjban részesül. A Tanács elnöke tevékenységéért a miniszter által vezetett minisztérium közigazgatási államtitkári illetményének megfelelő összegű tiszteletdíjban részesül.

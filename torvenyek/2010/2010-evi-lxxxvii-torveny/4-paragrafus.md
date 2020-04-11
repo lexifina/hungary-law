@@ -16,9 +16,9 @@ c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan m
 
 (5) Az NFK elnökére, elnökhelyetteseire és alkalmazottaira a kormányzati igazgatásról szóló törvénynek a kormánytisztviselőkre vonatkozó rendelkezései, az NFK álláshelyeire pedig a kormányzati igazgatási létszámgazdálkodásra vonatkozó rendelkezései irányadók.
 
-(6) Az NFK elnöke államtitkári illetményre és juttatásokra jogosult.
+(6) Az NFK elnöke a miniszter által vezetett minisztérium közigazgatási államtitkárával azonos összegű illetményre jogosult.
 
-(7) Az NFK elnökhelyettese helyettes államtitkári illetményre jogosult.
+(7) Az NFK elnökhelyettese a miniszter által vezetett minisztérium helyettes államtitkárával azonos összegű illetményre jogosult.
 
 (8)
 
