@@ -231,3 +231,9 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 72. Mobil rádiótelefon szolgáltatás: olyan nyilvánosan elérhető telefon szolgáltatás, amelynek során e szolgáltatás nagy térben mozgó bármely előfizetője – mobil rádiótelefon hálózat hálózati végpontján csatlakoztatott – nem helyhez kötött berendezésről indított hívással kommunikálhat egy másik hálózati végponttal, amelynek elérése az ANFT-ben meghatározott választási eljárás útján lehetséges. E szolgáltatás beszédátvitelre, valamint az ehhez kapcsolódó szolgáltatásokra és egyéb szolgáltatásokra (például adatátviteli szolgáltatások, rövid szöveges üzenetküldés, WAP, GPRS alapú szolgáltatások) szolgál.
 
 73.
+
+74. Műsorelosztás: olyan műsorterjesztés, amely során az előfizető, vagy felhasználó elektronikus hírközlő végberendezése meghatározott földrajzi helyen csatlakozik a műsorterjesztő átviteli rendszerhez.
+
+75. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális médiaszolgáltatásokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat (egyidejűleg több frekvenciát használó, több adóval működő hálózat) vagy műsorszóró adó (ugyanazon frekvenciát egyidejűleg, azonos módon használó egy vagy több adó) segítségével végzett műsorterjesztés is.
+
+76.
