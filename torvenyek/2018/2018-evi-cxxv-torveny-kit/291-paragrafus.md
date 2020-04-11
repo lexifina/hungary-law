@@ -14,19 +14,13 @@ e) szakmai vezetőt említ, azon az e törvény szerinti közigazgatási államt
 
 kell érteni.
 
-(2) Ha jogszabály
-
-a) a Ksztv.-t vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig a Ksztv. 2018. december 31-én hatályos szabályai,
-
-b) az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletet vagy annak rendelkezését, illetve az állami vezetői juttatásokról szóló kormányrendeletet vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet 2018. december 31-én hatályos szabályai
-
-az irányadóak.
+(2)
 
 (3) Ha jogszabály
 
-a) a miniszterelnök, a miniszter, az államtitkár Ksztv. szerinti javadalmazásának szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti javadalmazására vonatkozó szabályok,
+a)
 
-b) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár vagy a helyettes államtitkár Ksztv. szerinti juttatásainak szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti juttatására vonatkozó szabályok,
+b)
 
 c) a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó Ksztv. szerinti szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig a Ksztv. miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályok
 
@@ -34,7 +28,7 @@ az irányadóak.
 
 (3a)
 
-(4) Ha jogszabály a közigazgatási államtitkár vagy a helyettes államtitkár illetményére vonatkozó szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig e tisztségviselőnek a Kttv. 2018. december 31-én hatályos szabályai szerinti illetményére vonatkozó szabályok az irányadóak.
+(4)
 
 (5) Ahol jogszabály állami tisztviselőt, illetve állami ügykezelőt említ, azon az e törvény szerinti fővárosi és megyei kormányhivatal kormánytisztviselőjét kell érteni.
 

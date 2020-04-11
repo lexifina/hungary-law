@@ -207,3 +207,7 @@ A toborzási adatbázis adatköre
 ## 5. fénykép
 
 ## II.
+
+## 1. szakmai tapasztalat
+
+## 2. munkáltatói megnevezése, tevékenységi területe
