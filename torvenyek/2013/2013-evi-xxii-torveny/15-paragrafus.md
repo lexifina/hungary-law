@@ -1,1 +1,1 @@
-15. § A Hivatal elnökére, elnökhelyettesére, valamint a Hivatallal közszolgálati jogviszonyban álló köztisztviselőkre és közszolgálati ügykezelőkre az e törvényben foglalt eltérésekkel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó rendelkezéseit kell alkalmazni.
+15. § A Hivatal elnökére, elnökhelyettesére, valamint a Hivatallal közszolgálati jogviszonyban álló köztisztviselőkre az e törvényben foglalt eltérésekkel a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvényt kell alkalmazni.

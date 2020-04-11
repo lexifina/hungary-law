@@ -4,15 +4,15 @@ a) rendeletben megállapítja az egyes villamos energia rendszerhasználati díj
 
 b) rendeletben megállapítja a földgázellátásról szóló törvény szerinti rendszerüzemeltető által nyújtott szolgáltatás minőségének a földgáz rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható földgáz rendszerhasználati díjszabályozás kereteit, valamint a földgáz rendszerhasználati díjak alkalmazásának feltételeit, a földgáz rendszerhasználat árszabályozásának kereteit, a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a földgáz csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjak alkalmazásának szabályait, a rendszerüzemeltetők által a felhasználó vagy a rendszerhasználó igénye alapján, valamint felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 
-c) kiadja a Hivatal szervezeti és működési szabályzatát és egyéb szabályzatait,
+c) kiadja a Hivatal szervezeti és működési szabályzatát, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti közszolgálati szabályzatát, valamint egyéb szabályzatait,
 
-d) irányítja a Hivatal munkaszervezetét, meghatározza létszámkeretét és a kiadmányozás rendjét,
+d) képviseli a Hivatalt,
 
-e) képviseli a Hivatalt,
+e) irányítja a Hivatal munkaszervezetét, meghatározza a kiadmányozás rendjét,
 
-f) gyakorolja a közszolgálati tisztviselőkről szóló törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
+f) gyakorolja a különleges jogállású szerv vezetője számára a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvényben meghatározott egyéb hatásköröket,
 
-g) gyakorolja a Hivatallal közszolgálati jogviszonyban vagy munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört,
+g) gyakorolja a Hivatal köztisztviselői és munkavállalói feletti munkáltatói jogkört,
 
 h) a Hivatal költségvetése tekintetében ellátja mindazon feladatokat, amelyeket az államháztartásról szóló törvény a fejezetet irányító szerv vezetőjének hatáskörébe utal,
 

@@ -10,7 +10,7 @@ d) felmentésével.
 
 (2) A Hivatal elnöke jogviszonyának megszűnését az (1) bekezdés a)–c) pontja esetén a miniszterelnök állapítja meg.
 
-(3) A miniszterelnök – a közszolgálati tisztviselőkről szóló törvény szerinti indokolási kötelezettség mellett – felmenti az elnököt,
+(3) A miniszterelnök – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti indokolási kötelezettség mellett – felmenti az elnököt,
 
 a) ha a 11. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
 
