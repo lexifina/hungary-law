@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-151-00-00
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2011-151-00-00.9 |
 | 2019-12-20 | 2019. évi CXXVII. törvény | 2011-151-00-00.10 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2011-151-00-00.11 |
+| 2020-04-11 | 2020. évi XIX. törvény | 2011-151-00-00.12 |
