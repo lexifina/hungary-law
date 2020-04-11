@@ -110,16 +110,64 @@ k) műsorösszeállítás, műsorszolgáltatás (TEÁOR és TESZOR 60),
 
 l)[^3] utazásközvetítés, utazásszervezés, egyéb foglalás (TEÁOR és TESZOR 79),
 
-m)[^4] fizikai közérzetet javító szolgáltatás (TEÁOR és TESZOR 96.04) és
+m)[^4] fizikai közérzetet javító szolgáltatás (TEÁOR és TESZOR 96.04),
 
-n)[^5] belvízi személyszállítás (TEÁOR és TESZOR 50.30).
+n)[^5] belvízi személyszállítás (TEÁOR és TESZOR 50.30),
+
+o)[^6] növényi szaporítóanyag termesztése (TEÁOR és TESZOR 01.30),
+
+p)[^7] egyéb, nem évelő növény termesztése (TEÁOR és TESZOR 01.19),
+
+q)[^8] egyéb évelő növény termesztése (TEÁOR és TESZOR 01.29),
+
+r)[^9] dísznövény nagykereskedelme (TEÁOR és TESZOR 46.22),
+
+s)[^10] dísznövény, vetőmag, műtrágya, hobbiállat-eledel kiskereskedelme (TEÁOR és TESZOR 47.76),
+
+t)[^11] vadgazdálkodás, vadgazdálkodási szolgáltatás (TEÁOR és TESZOR 01.70),
+
+u)[^12] desztillált szeszes ital gyártása (TEÁOR és TESZOR 11.01),
+
+v)[^13] szőlőbor termelése (TEÁOR és TESZOR 11.02),
+
+w)[^14] sörgyártás (TEÁOR és TESZOR 11.05) és
+
+x)[^15] szőlőtermesztés (TEÁOR és TESZOR 01.21).
 
 (11) Tényleges főtevékenységnek e rendelet alkalmazásában azt a tevékenységet kell érteni, amelyből az adózónak e rendelet hatálybalépését megelőző hat hónapban a legtöbb bevétele, de legalább bevételének 30%-a származott.
 
-(12)[^6] A (10) bekezdés m) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző megfelel a közfürdők létesítésének és üzemeltetésének közegészségügyi feltételeiről szóló 37/1996. (X. 18.) NM rendelet szabályainak.
+(12)[^16] A (10) bekezdés m) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző megfelel a közfürdők létesítésének és üzemeltetésének közegészségügyi feltételeiről szóló 37/1996. (X. 18.) NM rendelet szabályainak.
+
+(13)[^17] A (10) bekezdés o) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző megfelel a dísznövény szaporítóanyagok forgalomba hozataláról szóló 45/2008. (IV. 11.) FVM rendelet 2. § 2. pontjában foglaltaknak.
+
+(14)[^18] A (10) bekezdés p) és q) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző adózónak e rendelet hatálybalépését megelőző hat hónapban a legtöbb bevétele, de legalább bevételének 30%-a a virágok – ideértve a vágni való virágot és a virágsarjat is – termesztéséből, a vágott virág, virágcsokor és hasonló termékek kereskedelmi értékesítéshez való előkészítéséből vagy fonásra szánt növényi termékek termesztéséből származott.
+
+(15)[^19] A (10) bekezdés s) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző a (10) bekezdés s) pontjában szereplő tevékenységek közül kizárólag dísznövény kiskereskedelemmel foglalkozik.
+
+(16)[^20] A (10) bekezdés t) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a tevékenységet végző megfelel a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 50. § (2) bekezdés f) pontjának.
+
+(17)[^21] A (10) bekezdés u) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha az általa gyártott ital a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet II. melléklet 6. vagy 9. pontja szerinti szeszes ital.
+
+(18)[^22] A (10) bekezdés w) pontja szerinti tevékenységet végzőre akkor terjednek ki az (1)–(7) bekezdés szerinti rendelkezések, ha a gyártó megfelel a jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (3) bekezdés 17. pontjában foglaltaknak.
 
 [^2]: Az 1. § (10) bekezdés j) pontja a 68/2020. (III. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^3]: Az 1. § (10) bekezdés l) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § (10) bekezdés m) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (10) bekezdés m) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 97/2020. (IV. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^5]: Az 1. § (10) bekezdés n) pontját a 68/2020. (III. 26.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 1. § (12) bekezdését a 68/2020. (III. 26.) Korm. rendelet 2. §-a iktatta be.
+[^6]: Az 1. § (10) bekezdés o) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. § (10) bekezdés p) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (10) bekezdés q) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (10) bekezdés r) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (10) bekezdés s) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. § (10) bekezdés t) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 1. § (10) bekezdés u) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 1. § (10) bekezdés v) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^14]: Az 1. § (10) bekezdés w) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^15]: Az 1. § (10) bekezdés x) pontját a 97/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^16]: Az 1. § (12) bekezdését a 68/2020. (III. 26.) Korm. rendelet 2. §-a iktatta be.
+[^17]: Az 1. § (13) bekezdését a 97/2020. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^18]: Az 1. § (14) bekezdését a 97/2020. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 1. § (15) bekezdését a 97/2020. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^20]: Az 1. § (16) bekezdését a 97/2020. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^21]: Az 1. § (17) bekezdését a 97/2020. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^22]: Az 1. § (18) bekezdését a 97/2020. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
