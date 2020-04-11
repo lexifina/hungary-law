@@ -6,6 +6,6 @@
 
 (3) Az elnökhelyettesnek meg kell felelnie a Nemzeti Választási Iroda elnökének kinevezéséhez szükséges, az 55. § (1) és (2) bekezdésében előírt feltételeknek.
 
-(4) Az elnökhelyettes összeférhetetlenségére az 56. §-ban foglaltakat megfelelően alkalmazni kell.
+(4) Az elnökhelyettes összeférhetetlenségére az 56. §-ban és a 61. § (5) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (5) Az elnökhelyettes az elnök akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, gyakorolja az elnök hatásköreit és ellátja feladatait.

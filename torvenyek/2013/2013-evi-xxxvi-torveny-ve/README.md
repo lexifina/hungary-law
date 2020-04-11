@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2019-07-30 | 2014. évi XXVI. törvény | 2013-36-00-00.18 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2013-36-00-00.19 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2013-36-00-00.20 |
+| 2020-04-11 | 2020. évi XIX. törvény | 2013-36-00-00.21 |
