@@ -97,3 +97,5 @@ munkanap pótszabadság igénybevételére jogosult.
 a) a (9) és (10) bekezdés szerinti esetben a gyermek mindkét köztisztviselő szülője jogosult igénybe venni, ha a gyermekkel közös háztartásban él,
 
 b) a (13) bekezdés szerinti esetben minden köztisztviselő nagyszülő jogosult igénybe venni.
+
+(16) Az a köztisztviselő, aki vezetői pótszabadságra és a (9) és (10) bekezdés szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente 3 munkanap pótszabadságot is igénybe vehet.

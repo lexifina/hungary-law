@@ -44,6 +44,20 @@
 
 ## 6. társadalombiztosítási azonosító jele
 
+## I/C. unokája, unokái
+
+## 1. családi és utóneve
+
+## 2. születési helye, ideje
+
+## 3. anyja születési családi és utóneve
+
+## 4. lakóhelye, lakáscíme, tartózkodási helye
+
+## 5. adóazonosító jele
+
+## 6. társadalombiztosítási azonosító jele
+
 ## II.
 
 ## 1. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)

@@ -24,7 +24,7 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 a) a kérelem szerinti időpontig, de
 
-b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő köztisztviselő esetén a gyermek ötéves koráig
+b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő köztisztviselő esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően a köztisztviselő munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 

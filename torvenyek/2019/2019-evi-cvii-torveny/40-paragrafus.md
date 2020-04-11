@@ -16,6 +16,8 @@ meghosszabbodik, ha azt a köztisztviselő kéri.
 
 (5) A köztisztviselőt a felmentés időtartamának legalább a felére a munkavégzési kötelezettség alól mentesíteni kell, erre az időtartamra illetményre jogosult. A 51. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített köztisztviselővel szemben. A munkavégzés alól a köztisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.
 
+(5a) A köztisztviselő a felmentési idő egészére jogosult illetményre, ha a munkavégzési kötelezettség alól fizetés nélküli szabadság miatt mentesül.
+
 (6) A köztisztviselő a munkavégzési kötelezettség alóli mentesítés idejére járó illetményre havonta egyenlő részletekben jogosult.
 
 (7) A kifizetett illetményt visszakövetelni nem lehet, ha a köztisztviselőt a munkavégzés alól végleg mentesítették és az illetmény fizetését kizáró körülmény a köztisztviselőnek a munkavégzés alóli mentesítése után következett be.

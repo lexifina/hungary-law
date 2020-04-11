@@ -32,9 +32,9 @@
 
 (16) A (15) bekezdés szerinti döntéshozatal során a munkáltatói jogkör gyakorlója figyelembe veszi a köztisztviselő 2019. második félévi teljesítményértékelését és éves minősítését, valamint a közszolgálati ügykezelő utolsó értékelését.
 
-(17) Az érintett részére a 2020. április 30-án meglévő szabadságát 2020. április 30-át követően – a (20) bekezdésben meghatározott kivétellel – nem lehet kiadni.
+(17) Az érintett részére a 2020. április 30-án meglévő szabadságát 2020. április 30-át követően – a (20) és (21) bekezdésben meghatározott kivétellel – nem lehet kiadni.
 
-(18) Az érintett 2020. április 30-án meglévő, ki nem adott szabadságát 40 napon belül meg kell váltani.
+(18) Az érintett 2020. április 30-án meglévő, ki nem adott szabadságát – a (21) bekezdés szerinti szabadság kivételével – 40 napon belül meg kell váltani.
 
 (19) A (18) bekezdés szerinti megváltás során az érintettet 2020. április 1. napján megillető illetménnyel kell számolni.
 

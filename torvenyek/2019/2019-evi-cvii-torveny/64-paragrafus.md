@@ -10,7 +10,9 @@ b) a pótszabadságot – az a) pontra és a (6) bekezdésben foglaltakra tekint
 
 ha az esedékesség éve eltelt.
 
-(3) A (2) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe.
+(2a) Ha a köztisztviselő táppénz, szülési szabadság, vagy a gyermek, illetve az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság miatt nem tudja az esedékesség évében a szabadságát igénybe venni, az akadályoztatás megszűnésétől számított harminc napon belül – az esedékesség évét követően is – igénybe veheti a szabadságot.
+
+(3) A (2) és (2a) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe.
 
 (4) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen, ha az alapszabadság kiadása miatt
 
@@ -52,6 +54,6 @@ nem biztosítható.
 
 (20) Ha a szabadság mértékét érintő változásra év közben kerül sor, akkor a köztisztviselő számára az alapszabadság arányos része jár, illetve a pótszabadság arányos része vehető igénybe.
 
-(21) A köztisztviselőnek a szabadság kivételére vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a köztisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a köztisztviselő erről haladéktalanul értesíti a munkáltatót. Ebben az esetben a munkáltató a szabadságot a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A köztisztviselő a hivatali szervezet vezetőjének felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
+(21) A köztisztviselőnek a szabadság kivételére vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a köztisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a köztisztviselő erről haladéktalanul értesíti a munkáltatót. Ebben az esetben a munkáltató a szabadságot a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A köztisztviselő a munkáltatói jogkör gyakorlójának felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
 
-(22) Ha a köztisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően.
+(22) Ha a köztisztviselő a gyermek vagy az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani a gyermek vagy az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság megszűnését követően.

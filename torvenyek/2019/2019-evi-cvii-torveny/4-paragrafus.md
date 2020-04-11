@@ -42,4 +42,6 @@ bb) szakmai vezető II. (nem önálló szervezeti egység vezetője).
 
 (4) A (2) bekezdés b) pontja és (3) bekezdés b) pontja szerinti vezetői álláshely a szervezeti és működési szabályzatban meghatározott szervezeti egység vezetésére tölthető be.
 
+(4a) Ha az önálló szervezeti egység nem tagolódik nem önálló szervezeti egységekre vagy kizárólag az önálló szervezeti egység vezetője által közvetlenül vezetett nem önálló szervezeti egységekre tagolódik, – szabályzat eltérő rendelkezése hiányában – az önálló szervezeti egység vezetőjét az általa vagy a munkáltatói jogkör gyakorlója által írásban kijelölt köztisztviselő helyettesíti.
+
 (5) A különleges jogállású szerv vezetője és annak helyettese vonatkozásában az álláshely besorolási kategóriáját a szervet létrehozó törvény, a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.

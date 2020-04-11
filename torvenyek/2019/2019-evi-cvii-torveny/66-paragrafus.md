@@ -28,6 +28,8 @@ c) ha a gyermeket ideiglenes hatállyal elhelyezték, átmeneti vagy tartós nev
 
 (11) A köztisztviselőnek gyermeke személyes gondozása érdekében – a (7) bekezdésben foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának időtartama alatt.
 
+(11a) A köztisztviselőnek unokája személyes gondozása érdekében fizetés nélküli szabadság jár a gyermekgondozási díj folyósításának időtartama alatt.
+
 (12) A köztisztviselőnek hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
 (13) A köztisztviselőnek fizetés nélküli szabadság jár a tényleges önkéntes tartalékos katonai szolgálatteljesítés időtartamára.
