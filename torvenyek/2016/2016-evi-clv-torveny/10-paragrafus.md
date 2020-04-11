@@ -1,1 +1,1 @@
-10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a kormányzati igazgatásról szóló törvény szakmai vezetői álláshelyet betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
+10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a Kit. szakmai vezetői álláshelyet betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
