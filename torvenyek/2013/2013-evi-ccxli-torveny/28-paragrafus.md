@@ -1,5 +1,5 @@
-28. § (1) A Bizottság elnöke a Hivatal köztisztviselői tekintetében a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
+28. § (1) A Hivatal főigazgatója az álláshely betöltésének szakmai feltételeit, az álláshelynek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) 4. § (3) bekezdése szerinti besorolási kategóriáját, valamint az álláshelyen ellátandó feladatot a Bizottság elnökének iránymutatása alapján, szabályzatban állapítja meg.
 
-(2) A Hivatal főigazgatója a Hivatal köztisztviselőjét vezetői munkakörbe, ezen belül főosztályvezetőnek, főosztályvezető-helyettesnek, osztályvezetőnek kinevezheti és kinevezését visszavonhatja.
+(2) A Hivatal szervezeti felépítését a főigazgató által kiadott és a Bizottság elnöke által jóváhagyott szervezeti és működési szabályzat határozza meg.
 
-(3) Az e törvényben nem szabályozott kérdésekben a Hivatal köztisztviselőinek és közszolgálati ügykezelőinek jogviszonyára a közszolgálati tisztviselőkről szóló törvényt, a munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvényt kell alkalmazni.
+(3) Az e törvényben nem szabályozott kérdésekben a Hivatal által közszolgálati jogviszonyban foglalkoztatottak jogviszonyára a Küt.-öt, a munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvényt a Küt.-ben foglalt eltérésekkel kell alkalmazni.

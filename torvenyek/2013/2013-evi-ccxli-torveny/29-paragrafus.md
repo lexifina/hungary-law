@@ -1,6 +1,6 @@
-29. § (1) A Hivatalnál foglalkoztatott köztisztviselő, közszolgálati ügykezelő, valamint munkavállaló összeférhetetlenségére a közszolgálati tisztviselőkről szóló törvény szabályai az irányadóak a (2) és (3) bekezdésben foglalt kiegészítéssel.
+29. § (1) A Hivatalnál foglalkoztatott köztisztviselő és munkavállaló összeférhetetlenségére a Küt. szabályai az irányadóak a (2) és (3) bekezdésben foglalt kiegészítéssel.
 
-(2) A Hivatalnál foglalkoztatott köztisztviselő, közszolgálati ügykezelő, valamint munkavállaló nem lehet az,
+(2) A Hivatalnál foglalkoztatott köztisztviselő, valamint munkavállaló nem lehet az,
 
 a) aki az 1990. február 14-e előtti időszakban titkosszolgálati tevékenységet folytatott,
 
