@@ -10,7 +10,7 @@ c) a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról elnöki tájéko
 
 d) a Tanács hatáskörébe tartozó halasztást nem tűrő ügyek eldöntése érdekében – a Hatóság szervezeti és működési szabályzatában meghatározottak szerint – a tanácsülések közötti időszakban rövid úton való szavazást kezdeményez;
 
-e) gyakorolja a munkáltatói jogokat a Hatóság főtitkára (a továbbiakban: főtitkár), a Hatóság Titkárságának alkalmazottai, valamint a Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában;
+e) gyakorolja a munkáltatói jogokat a Hatóság főtitkára (a továbbiakban: főtitkár), a Hatóság Titkárságának alkalmazottai, valamint a Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában, továbbá szabályzatban meghatározhatja az álláshelyek besorolási kategóriáit;
 
 f) ellátja a részére törvényben előírt egyéb feladatokat.
 

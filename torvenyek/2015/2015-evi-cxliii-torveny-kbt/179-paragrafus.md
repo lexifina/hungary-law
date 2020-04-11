@@ -14,4 +14,4 @@
 
 (4) A Hatóság keretében Tanács (a továbbiakban: Tanács) és Közbeszerzési Döntőbizottság (a továbbiakban: Döntőbizottság) működik.
 
-(5) A Hatóságnál foglalkoztatottak jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.
+(5) A Hatóságnál foglalkoztatottak jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell alkalmazni.

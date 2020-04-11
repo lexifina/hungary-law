@@ -1,6 +1,6 @@
 181. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt.
 
-(2) A Hatóság elnökére a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
+(2) A Hatóság elnökére a Küt.-öt az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (3) A Hatóság elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a. Az illetményen túl a Hatóság elnöke a minisztert megillető juttatásra jogosult.
 
@@ -28,6 +28,6 @@ g) az összeférhetetlenség megállapításával.
 
 (8) Amennyiben a Hatóság elnöke megbízatása időtartamának lejártáig a Tanács nem dönt az új elnök kinevezéséről, az elnök megbízatása az adott naptári év végéig meghosszabbodik.
 
-(9) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
+(9) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
 
-(10) A Hatóság elnökét minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+(10) A Hatóság elnöke minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.

@@ -22,10 +22,10 @@ b) aki legalább hároméves bírói vagy ügyészi gyakorlattal
 
 rendelkezik.
 
-(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a Kttv.-t a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
+(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a Küt.-öt a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(7) A Döntőbizottság elnöke a közigazgatási államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy a vezetői illetménypótlék az alapilletmény 100%-a, továbbá az illetménykiegészítés az alapilletmény 80%-a. Az elnökhelyettes főosztályvezetői illetményre jogosult.
+(7) A Döntőbizottság elnökének havi illetménye a Hatóság elnöke havi illetményének 60%-a. A Döntőbizottság elnöke az államtitkárt megillető egyéb juttatásokra is jogosult.
 
-(8) A Döntőbizottság elnökét minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+(8) A Döntőbizottság elnöke minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
-(9) A Döntőbizottság elnöke személyi anyagának kezelését, valamint a Döntőbizottság elnöke tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá a Döntőbizottság elnökének foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a Döntőbizottság elnökhelyettese látja el.
+(9) A Döntőbizottság elnöke személyi anyagának kezelését, valamint a Döntőbizottság elnöke tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá a Döntőbizottság elnökének foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a Döntőbizottság elnökhelyettese látja el.
