@@ -1,0 +1,5 @@
+## 1. § A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet által elrendelt veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt a polgári jogi szabályok alapján létrejött jogi személyeknek és a nem jogi személy szervezeteknek (ezen alcím alkalmazásában a továbbiakban együtt: jogi személy) e rendelet hatálybalépésének napjától a Polgári Törvénykönyvről szóló 2013. évi V. törvényt (a továbbiakban: Ptk.), illetve a jogi személyre vonatkozó jogszabályi rendelkezéseket az ezen alcímben foglalt eltérésekkel kell alkalmazniuk.
+
+2. § (1) Ha a jogi személy döntéshozó szerve vagy az egyszemélyes jogi személy tagja (alapítója, az alapítói jogok gyakorlására jogosult személy) a kijárási korlátozásra vonatkozó előírások betartása mellet sem akadályozott a döntéshozatalban, a döntéshozó szerv működésére vagy az egyszemélyi tag (alapító, az alapítói jogok gyakorlására jogosult személy) döntéshozatalára e rendeletben foglalt rendelkezéseket nem kell alkalmazni.
+
+(2) A 7. § rendelkezéseit, továbbá a jogi személynek a döntéshozó szerven kívüli szerveire a 6. § rendelkezéseit az (1) bekezdés szerinti esetben is alkalmazni lehet.

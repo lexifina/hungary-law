@@ -1,0 +1,3 @@
+23. § (1) A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) országos elnöke a veszélyhelyzet ideje alatt a MOKK honlapján közzétett határozatában az alapszabálytól és a szabályzatoktól a veszélyhelyzet elhárításához, következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és a kamarai névjegyzékbe vagy nyilvántartásba vett személyekre háruló terhek csökkentése érdekében e személyekre kötelező eltérő döntést hozhat.
+
+(2) Az (1) bekezdés szerint meghozott döntést a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli választmányi, illetve országos elnökségi ülés napirendjére kell tűzni a testület tájékoztatása érdekében.

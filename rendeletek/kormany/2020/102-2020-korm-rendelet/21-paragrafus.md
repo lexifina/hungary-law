@@ -1,0 +1,3 @@
+## 20. § A köztestület költségvetését és beszámolóját a veszélyhelyzet ideje alatt az ügyvezetését ellátó szerv jogosult elfogadni. Az így meghozott határozatot a köztestület legfőbb szervének a veszélyhelyzet megszűnését követő legkésőbb 90. napra összehívandó rendkívüli ülése napirendjére kell tűzni. A köztestület legfőbb szervének határozata hiányában a költségvetés a veszélyhelyzet megszűnését követő 90. napon hatályát veszti, a beszámolót pedig legkésőbb a veszélyhelyzet megszűnését követő 90 napon belül a köztestület legfőbb szervének is el kell fogadnia.
+
+## 4. A közjegyzőkről szóló 1991. évi XLI. törvény rendelkezéseinek eltérő alkalmazásáról

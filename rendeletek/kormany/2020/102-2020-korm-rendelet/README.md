@@ -1,0 +1,9 @@
+# 102/2020. (IV. 10.) Korm. rendelet
+
+a veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-102-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-04-11 | 2020-102-20-22.1 | 102/2020. (IV. 10.) Korm. rendelet |

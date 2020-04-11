@@ -1,0 +1,5 @@
+7. § (1) A jogi személy szervei az írásbeli jognyilatkozatokat – ideértve a döntéshozó szerv működésével összefüggő okiratokat is – minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel, ennek hiányában azonosításra visszavezetett dokumentumhitelesítés szolgáltatással való hitelesítéssel aláírva a tag elektronikus levelezési címére (e-mail) is megküldhetik.
+
+(2) A tagok a jogi személlyel kapcsolatos jognyilatkozataikat elektronikus üzenetben (e-mail) is közölhetik a jogi személlyel. Ha a tag jogi személy, a jognyilatkozatát minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, ennek hiányában azonosításra visszavezetett dokumentumhitelesítés szolgáltatással való hitelesítéssel kell aláírni. A természetes személy tag a jognyilatkozata elektronikus aláírására nem köteles, azonban a jognyilatkozatnak a tag azonosíthatóságához szükséges adatokat tartalmaznia kell.
+
+(3) E § szerinti, elektronikus üzenetben foglalt nyilatkozat elektronikus írásbeli jognyilatkozatnak minősül.
