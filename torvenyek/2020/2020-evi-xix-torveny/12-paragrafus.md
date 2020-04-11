@@ -1,0 +1,3 @@
+12. § A Tpvt. a következő 42/D. §-sal egészül ki:
+
+„42/D. § A Versenytanács tagja és a vizsgáló a Gazdasági Versenyhivatallal fennálló jogviszonyának megszűnését követően nem vehet részt abban a versenyfelügyeleti eljárásban és az ahhoz kapcsolódó utóvizsgálatban, végrehajtási, peres és nemperes eljárásban annak jogerős lezárásáig, amelynek elintézésében jogviszonyának megszűnését megelőzően részt vett.”

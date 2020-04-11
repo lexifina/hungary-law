@@ -1,0 +1,3 @@
+49. § A Média tv. 97. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A Közszolgálati Testület elnökét a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa huszonkét százalékának, tagját a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa tizennégy százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezenfelül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok – a 118. § (1) bekezdés e) pontjának kivételével – irányadók.”
