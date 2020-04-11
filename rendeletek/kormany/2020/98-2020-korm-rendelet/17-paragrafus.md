@@ -1,0 +1,1 @@
+## – ha kockázatelemzés mást nem indokol – a projekt záró kifizetési igénylését jóváhagyhatja akkor is, ha a projekt záró kifizetési igénylésének jóváhagyását megelőzően elvégzendő helyszíni ellenőrzésre nem kerül sor.
