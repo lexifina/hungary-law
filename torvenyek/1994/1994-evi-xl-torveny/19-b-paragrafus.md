@@ -1,6 +1,6 @@
 ## Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára vonatkozó rendelkezések
 
-19/B. § (1) Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+19/B. § (1) Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A Kjt. határozott idejű jogviszony létesítésére vonatkozó rendelkezését azzal az eltéréssel kell alkalmazni, hogy az akadémiai költségvetési szerv közfeladatának ellátása során azonos foglalkoztatottra vonatkozóan egy alkalommal legfeljebb három év határozott időtartamra tudományos kutatói közalkalmazotti jogviszonyt létesíthet a Kjt. 21. § (2) bekezdésben felsorolt kivételi eseteken túlmenően.
 
