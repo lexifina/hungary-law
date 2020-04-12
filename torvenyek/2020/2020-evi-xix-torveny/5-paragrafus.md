@@ -1,11 +1,1 @@
-5. § A Tpvt. 34. §-a és 34/A. §-a helyébe a következő rendelkezések lépnek:
-
-„34. § A Gazdasági Versenyhivatal elnökének, elnökhelyetteseinek, főtitkárának, valamint a Versenytanács tagjainak a jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell alkalmazni.
-
-34/A. § A Küt. 24. §-ában meghatározott feltételeken túl nem lehet a Gazdasági Versenyhivatal elnöke, elnökhelyettese, valamint a Versenytanács tagja olyan személy, aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
-
-a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben (a továbbiakban: 1978. évi IV. törvény) meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, bűnpártolás, bűnszervezetben részvétel, az 1978. évi IV. törvény XVII. Fejezetében meghatározott gazdasági bűncselekmény, XVIII. Fejezetében meghatározott vagyon elleni bűncselekmény miatt,
-
-b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés, bűnszervezetben részvétel, XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt vagy
-
-c) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesítés (a továbbiakban: büntetőjogi mentesítés) beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított három évig.”
+5. §
