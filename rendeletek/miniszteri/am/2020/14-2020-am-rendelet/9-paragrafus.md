@@ -1,9 +1,5 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-## 9. § A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet
+9. §[^1]
 
-a) 3. § (3) bekezdésében az „a teljes hitelösszeg 0,4%-a” szövegrész helyébe az „a teljes hitelösszeg 0,75%-a” szöveg,
-
-b) 3. § (5) bekezdésében az „ennél alacsonyabb kezességvállalás esetén a kezességi díjtámogatás mértéke arányosan csökken” szövegrész helyébe az „ettől eltérő mértékű kezességvállalás esetén a kezességidíj-támogatás mértéke arányosan változik” szöveg
-
-lép.
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
