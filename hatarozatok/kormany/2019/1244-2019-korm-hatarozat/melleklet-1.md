@@ -20,7 +20,7 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2019. december 31., az Agrárkutatás támogatása előirányzat javára biztosított 974 464 000 forint tekintetében 2020. június 30., a Sport népszerűsítésével összefüggő kiadások jogcímcsoport javára biztosított 17 250 000 forint tekintetében 2020. december 31.
+## Határidő: 2019. december 31., az Agrárkutatás támogatása előirányzat javára biztosított 974 464 000 forint és a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára biztosított 100 000 000 forint tekintetében 2020. június 30., a Sport népszerűsítésével összefüggő kiadások jogcímcsoport javára biztosított 17 250 000 forint tekintetében 2020. december 31.
 
 ## b) a Kvtv. 19. § (2) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 28 377 350 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 2. Országvédelmi Alap alcím terhére, a 2. melléklet szerint;
 
@@ -77,7 +77,7 @@
 1. melléklet az 1244/2019. (IV. 30.) Korm. határozathoz
 
 [^1]: Az 1. pont az 1668/2019. (XI. 28.) Korm. határozat 14. pontja szerint módosított szöveg.
-[^2]: Az 1. pont a) alpontja az 1591/2019. (X. 16.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: Az 1. pont a) alpontja az 1591/2019. (X. 16.) Korm. határozat 6. pontja, az 1154/2020. (IV. 14.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
