@@ -1,7 +1,8 @@
-## 5. §[^1]
+## 5. §[^2]
 
 6. § (1) Felhatalmazást kap a települési – Budapest Főváros esetében a kerületi – önkormányzat polgármestere – mint a helyi önkormányzat képviselő-testülete hatáskörének gyakorlója a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Katv.) 46. § (4) bekezdése alapján –, hogy önkormányzati rendeletben határozza meg a településen működő piac nyitva tartásának és a 65. életévüket betöltött személyek általi látogatásának a Rendeletben foglaltaktól eltérő szabályait.
 
-(2) Felhatalmazást kap a települési önkormányzat polgármestere, a fővárosi önkormányzat által közvetlenül igazgatott terület esetében a főpolgármester, egyéb fővárosi terület esetében a kerületi polgármester mint a helyi önkormányzat képviselő-testülete, illetve a fővárosi közgyűlés hatáskörének a Katv. 46. § (4) bekezdése alapján gyakorlója, hogy önkormányzati rendeletben határozza meg a Rendeletben foglaltaktól szigorúbb – a 3. § szerinti időszakra vonatkozó – kijárási szabályokat.
+(2)[^3]
 
-[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. § (2) bekezdését a 4. § (3) bekezdése hatályon kívül helyezte.
