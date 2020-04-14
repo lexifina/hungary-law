@@ -30,7 +30,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a 2019. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-7. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a 2019. évben 565 000 000 forint forrás biztosításáról a „Semmelweis XXI. Fejlesztési Projekt” tervezési folyamatainak megkezdéséről szóló 1945/2017. (XII. 12.) Korm. határozat alapján biztosított forrásból a Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika 10 ágyas perioperatív transzplantációs részlegének kialakítására, a műtéti épület részleges átépítésére és a Budapest Határőr út 18. szám alatti épület korszerűsítésére;
+7.[^1] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a 2019. évben 588 000 000 forint forrás biztosításáról a „Semmelweis XXI. Fejlesztési Projekt” tervezési folyamatainak megkezdéséről szóló 1945/2017. (XII. 12.) Korm. határozat alapján biztosított forrásból a Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika 10 ágyas perioperatív transzplantációs részlegének kialakítására, a műtéti épület részleges átépítésére és a Budapest Határőr út 18. szám alatti épület korszerűsítésére;
 
 Felelős: emberi erőforrások minisztere
 
@@ -79,3 +79,5 @@ Felelős: emberi erőforrások minisztere
 innovációért és technológiáért felelős miniszter
 
 Határidő: 2019. április 30.
+
+[^1]: A 7. pont az 1154/2020. (IV. 14.) Korm. határozat 6. pontja szerint módosított szöveg.
