@@ -1,0 +1,397 @@
+# A Kormány 110/2020. (IV. 14.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 74. szám, 2020. április 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/y5Ogqf0dlrVQhjXlSxxn5e8fba71b306c/dokumentumok/274c69ba113d0dffd365a4d2320159df3f2652e7/letoltes)
+
+---
+
+A Kormány 110/2020. (IV. 14.) Korm. rendelete
+a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási
+válsághelyzet esetén szükséges egyéb intézkedésekről
+A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 19., 32. és 33. pontjában, valamint a földgáz biztonsági
+készletezéséről szóló 2006. évi XXVI. törvény 13. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A rendelet alkalmazási köre
+1. § (1) E rendeletet kell alkalmazni földgázellátási válsághelyzet esetén az együttműködő földgázrendszernek
+a rendszerüzemeltető üzemeltetésében lévő eleméhez történő hozzáférést érintő intézkedésekre, különösen
+a földgázvételezésnek a földgázellátási válsághelyzettel összefüggő korlátozására és a földgáz ellátásbiztonságot
+szolgáló egyéb intézkedések végrehajtására.
+(2) E rendeletet a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 98/D. §-a értelmében
+a földgázellátási válsághelyzet vészhelyzeti szintjének bekövetkezésekor esetileg szabályozható különös
+intézkedésekre akkor és azon rendelkezések vonatkozásában kell alkalmazni, amennyiben az ezen különös
+intézkedésekre vonatkozó jogszabály ezt kifejezetten elrendeli.
+(3) E rendeletet nem kell alkalmazni az e rendelet szerint nem korlátozható kategóriába sorolt felhasználók
+földgázvételezésének korlátozását eredményező földgázellátási válsághelyzet esetén szükséges intézkedésekre.
+(4) Ahol e rendelet írásbeli tájékoztatásról rendelkezik, azon az általános közigazgatási rendtartásról szóló 2016. évi
+CL. törvény 26. § (1) bekezdésében meghatározott írásbeliséget kell érteni, figyelemmel az érintett felek közötti
+kapcsolattartási módokra vagy az Üzemi és Kereskedelmi Szabályzatban (a továbbiakban: ÜKSZ) foglaltakra.
+2. Kockázatértékelés, megelőzési cselekvési terv és vészhelyzeti terv
+2. §
+A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) az (EU) 2017/1938 európai parlamenti
+és tanácsi rendelet 7. cikke szerinti kockázatértékelés Európai Bizottság részére történő megküldését megelőzően
+a kockázatértékelést az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) részére jóváhagyásra
+megküldi.
+3. § (1) A Hivatal az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdés a) pontja szerinti megelőzési
+cselekvési terv (a továbbiakban: megelőzési cselekvési terv) és az (EU) 2017/1938 európai parlamenti és tanácsi
+rendelet 8. cikk (2) bekezdés b) pontja szerinti vészhelyzeti terv (a továbbiakban: vészhelyzeti terv) tervezetének
+az Európai Bizottság és a szomszédos tagállamok hatáskörrel rendelkező hatóságai részére történő megküldését
+megelőzően a tervezeteket a miniszter részére jóváhagyásra megküldi.
+(2) Ha az Európai Bizottság az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 8. cikk (8) és (9) bekezdésére
+figyelemmel a megelőzési cselekvési terv tervezetének vagy a vészhelyzeti terv tervezetének módosítását javasolja,
+és a Hivatal egyetért a módosítás szükségességével, a módosított tervezetet a miniszter részére jóváhagyásra
+ismételten megküldi.
+(3) A miniszter által jóváhagyott terveknek az Európai Bizottság részére történő megküldéséről a Hivatal gondoskodik.
+(4) A megelőzési cselekvési tervnek az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 9. cikk (11) bekezdése
+szerinti aktualizálását, valamint a vészhelyzeti tervnek az (EU) 2017/1938 európai parlamenti és tanácsi rendelet
+10. cikk (3) bekezdése szerinti tesztelését a Hivatal végzi el.
+
+3. Ellátásbiztonságot szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályok
+4. § (1) A földgázipari vállalkozás az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (6) és (7) bekezdése
+szerinti adatszolgáltatási kötelezettségét a Hivatal honlapján közzétett táblázat kitöltésével és a Hivatal részére
+történő megküldésével teljesíti.
+(2) Az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (6) bekezdés b) pontja szerinti adatszolgáltatási
+kötelezettség teljesítése érdekében a Hivatal a honlapján adott év július 31-ig közzéteszi az éves gázfogyasztás
+adatszolgáltatás során figyelembe veendő mértékét.
+(3) A Hivatalnak az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (6) bekezdés második
+albekezdésében szabályozott adatszolgáltatási kötelezettségére tekintettel a földgázipari vállalkozás köteles
+a (2) bekezdés szerinti kitöltött táblázatot új gázbeszerzési szerződés kötése vagy meglévő szerződés módosítása
+esetén a Hivatal részére adott év augusztus 31-ig megküldeni.
+(4) Az (1) bekezdésben előírt feladatai ellátásához szükséges adatszolgáltatási kötelezettség nem teljesítése esetén
+a Hivatal a Get. 119. § (1) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.
+5. § (1) Földgázellátási válsághelyzet elrendelését valószínűsítő esemény bekövetkezése esetén a rendszerüzemeltető
+köteles a földgázellátási válsághelyzet elrendelését eredményező esemény jellegéről, várható időtartamáról,
+a földgázellátást és a rendszerhez történő hozzáférést érintő esetleges kihatásairól, valamint a földgázvételezés
+javasolt korlátozásának mértékéről a földgáz rendszerirányítására vonatkozó működési engedéllyel rendelkező
+engedélyesnek (a továbbiakban: szállítási rendszerirányító) haladéktalanul szóban és legkésőbb 24 órán belül
+írásban bejelentést tenni.
+(2) Ha a rendszerhasználó tudomást szerez a felhasználói ellátásához szükséges saját földgázforrása bármilyen mértékű
+tartós – a kereskedelmi egyensúlyt veszélyeztető – kieséséről, köteles azt haladéktalanul szóban, és legkésőbb
+24 órán belül írásban az esemény jellegének, a kiesés várható időtartamának és a kiesés mértékének megjelölésével
+bejelenteni a szállítási rendszerirányítónak.
+(3) A szállítási rendszerirányító köteles az (1) és (2) bekezdés szerinti bejelentéseket megalapozó események kihatásait
+mérlegelni, és ha az egyensúly visszaállítása nem biztosítható, regionális vagy országos korlátozást elrendelni.
+(4) A szállítási rendszerirányító a korlátozás elrendeléséről, a földgázellátási válsághelyzetet megalapozó események
+súlyosságáról és a rendszeregyensúly fenntartása érdekében megtett vagy tervezett további intézkedéseiről
+a Hivatalt haladéktalanul, de legfeljebb 24 órán belül írásban tájékoztatja.
+(5) Ha az (1) és (2) bekezdés szerinti bejelentés, vagy a szállítási rendszerirányító ezek alapján történő utasítása szóban
+történik, a szállítási rendszerirányító köteles arról hangfelvételt készíteni. A szállítási rendszerirányító köteles
+a hangfelvételt a Hivatalnak a Get. 98/A. § (8) bekezdése szerinti vizsgálatáig megőrizni.
+(6) A Get. 98/A. § (8) bekezdése szerinti vizsgálathoz a szállítási rendszerirányító
+a) az érintett rendszerüzemeltető vagy rendszerhasználó írásbeli tájékoztatását,
+b) a szóbeli tájékoztatóról, valamint a szállítási rendszerirányító szóbeli utasításáról készített hangfelvételt,
+továbbá
+c) a hangfelvételen elhangzottakat más módon rögzítő dokumentumot
+köteles a Hivatal rendelkezésére bocsátani.
+(7) A Hivatal a Get. 98/A. § (8) bekezdése szerinti vizsgálat során akkor állapítja meg, hogy a korlátozás a szállítási
+rendszerirányítónak felróható okból vált szükségessé, ha az elrendelést a jogszabályi előírások, az ÜKSZ vagy
+a szállítási rendszerirányító működési engedélyében foglaltak megsértése idézte elő.
+6. § (1) Földgázellátási válsághelyzet bármely szintjének kihirdetése esetén a földgázipari vállalkozás köteles
+az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdésében meghatározott információkat
+napi rendszerességgel a Hivatal részére megküldeni.
+(2) Vészhelyzeti szint kihirdetése esetén – az (1) bekezdésben meghatározottakon túl – a kihirdetést követő 1 órán
+belül a földgázkereskedők kötelesek a Hivatal és a szállítási rendszerirányító részére a vészhelyzeti szint fennállása
+alatt naponta a következő három napra vonatkozóan megadni az ellátásukban lévő felhasználók korlátozási
+kategóriánként, valamint gázátadó állomásonként összesített napi csúcsigényét –12 °C referencia hőmérsékletre és
+az Országos Meteorológiai Szolgálat előrejelzése alapján ténylegesen várható hőmérsékletre meghatározva.
+(3) Vészhelyzeti szint elrendelése esetén a rendszerhasználó köteles írásban tájékoztatni a Hivatalt és a szállítási
+rendszerirányítót minden nap 13 óráig a következő gáznapon és héten igénybe vehető szerződéssel lekötött vagy
+szerződéssel igénybe vehető földgázmennyiségekről és az igénybevétel technikai és árfeltételeiről.
+
+4. A válsághelyzetre vonatkozó döntések és intézkedések előkészítése
+7. § (1) A minisztert a földgázellátási válsághelyzet fennállása alatti intézkedésekhez szükséges döntések előkészítése során,
+tanácskozási jogkörrel a Válsághelyzeti Bizottság segíti.
+(2) A Válsághelyzeti Bizottság feladata
+a) a földgázellátási helyzet értékelése,
+b) a földgázellátási válsághelyzet fennállása esetén teendő intézkedésekre vonatkozó javaslat kialakítása,
+c) a vészhelyzeti szint elrendelésére vagy megszüntetésére vonatkozó javaslat kidolgozása.
+8. § (1) A Válsághelyzeti Bizottság állandó tagja:
+a) a miniszter,
+b) a Hivatal elnöke,
+c) a szállítási rendszerirányító,
+d) a szállítási rendszerüzemeltető,
+e) az egyetemes szolgáltatók képviselője,
+f) az egyetemes szolgáltatót ellátó volt közüzemi nagykereskedő,
+g) a földgáztárolói engedélyesek,
+h) a földgázelosztók,
+i) a földgázkereskedők képviselője,
+j) a szervezett földgázpiaci engedélyesek képviselője,
+k) a villamos energiáról szóló törvény szerinti átviteli rendszerirányításra vonatkozó működési engedéllyel
+rendelkező engedélyes,
+l) a nemzeti közműszolgáltatásokért felelős miniszter,
+m) a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) igazgatója.
+(2) A Válsághelyzeti Bizottságot a miniszter vezeti. A Válsághelyzeti Bizottság működését, ügyrendjét maga határozza
+meg. A miniszter szükség esetén más érintett hatóság, szervezet vagy gazdálkodó szervezet képviselőjét is
+meghívhatja a Válsághelyzeti Bizottság ülésére.
+5. Intézkedések földgázellátási válsághelyzet esetén
+9. § (1) A szállítási rendszerirányító a vészhelyzeti szint fennállásáról az azt megállapító miniszteri határozat közzétételétől
+számított 2 órán belül köteles a rendszerüzemeltetőket, valamint a hivatásos katasztrófavédelmi szerv központi
+szervét szóban és elektronikus úton értesíteni, amelyek az értesítéstől számított 2 órán belül kötelesek a velük
+szerződéses kapcsolatban álló rendszerhasználókat szóban és elektronikus úton tájékoztatni.
+(2) Vészhelyzeti szint elrendelése esetén a szállítási rendszerüzemeltető és a földgázelosztó köteles a szállítási
+rendszerirányító által elrendelt gyakorisággal, de 12 órás időköznél nem ritkábban, gázátadónként meghatározni
+az egyes korlátozási kategóriákba tartozó felhasználók tényleges fogyasztását – a 100 m3/h alatti fogyasztású
+felhasználók esetében az ÜKSZ-ben meghatározott profil szerinti fogyasztást tényleges fogyasztásnak tekintve –,
+és arról a szállítási rendszerirányítót tájékoztatni.
+(3) Ha a szállítási rendszerirányító a rendelkezésre álló információk alapján a Get. 98/B. § (1) és (2) bekezdésében foglalt
+intézkedéseket szükségesnek tartja, a vele közvetlen kapcsolatban álló, a földgáznak Magyarország területén
+keresztül történő átszállítását végző vállalkozást haladéktalanul írásban értesíti.
+(4) Ha a vészhelyzeti szint fennállása alatt a Get. 98/B. § (1) és (2) bekezdésében foglalt intézkedések alkalmazása
+szükséges, a Hivatal haladéktalanul köteles szóban és 24 órán belül írásban tájékoztatni a minisztert a szükséges
+intézkedésekről, különös tekintettel a szállíttató és a beszállító személyére, a szállítási célországra, valamint
+az intézkedés várható időtartamára és mértékére.
+10. § (1) A vészhelyzeti szint elrendelése esetén a biztonsági földgázkészlet igénybevételére jogosult földgázkereskedők
+között a Hivatal – az érvényben lévő és az előre láthatóan szükséges korlátozások tekintetében a szállítási
+rendszerirányító véleményének kikérése mellett – felosztja a felszabadított biztonsági földgázkészletet és a hozzá
+tartozó csúcskapacitást. A földgázkészlet igénybevételére vonatkozó jogosultság szempontjából a saját jogon eljáró
+felhasználó e rendelet alkalmazásában földgázkereskedőnek minősül.
+
+(2) Az igénybevételre jogosult földgázkereskedők a vészhelyzeti szint elrendelése esetén kötelesek a Hivatal részére
+megadni az ellátásukban lévő nem korlátozható és korlátozás esetén a korlátozással nem érintett felhasználók
+korlátozási kategóriánként, valamint gázátadó állomásonként összesített napi csúcsigényét –12 °C referencia
+hőmérsékletre meghatározva, valamint a rendelkezésre álló források várható alakulására vonatkozó információkat.
+(3) Az igénybevételre jogosult földgázkereskedők a rendelkezésükre bocsátott kapacitást és földgázmennyiséget
+kizárólag a korlátozással nem érintett felhasználók napi fogyasztásának kielégítésére használhatják fel.
+A korlátozással nem érintett felhasználóktól eltérő felhasználó ellátására átadott földgázmennyiséget jogszerűtlenül
+elfogyasztott mennyiségnek kell tekinteni, és a szállítási rendszerirányító a 19. § (3) bekezdésben foglaltak szerint
+köteles a földgázkereskedővel elszámolni.
+11. § (1) A vészhelyzeti szint elrendelése esetén a szállítási rendszerirányító – a Get. 98/C. § (2) bekezdése szerinti
+kötelezettsége alapján – köteles a földgázkereskedőknél rendelkezésre álló, illetve szerződéssel leköthető források,
+valamint a külön jogszabály szerint rendelkezésére bocsátott biztonsági földgázkészletek figyelembevételével,
+az aktuális gázév végéig a felhasználói igények alapján optimalizált földgázfelhasználási tervet készíteni. A szállítási
+rendszerirányító minden héten hétfőn köteles a Hivatalt tájékoztatni a földgázforrások tervezett felhasználásáról,
+valamint javaslatot tenni a forrásgazdálkodási célból bevezetendő korlátozás mértékére és a szerződéssel leköthető
+földgázforrások lekötésére.
+(2) Ha a vészhelyzeti szint elrendelése esetén a Get. 98/D. § (2) bekezdés a) pontja alapján a felhasználók ellátására
+vonatkozó szerződések teljesítése felfüggesztésre kerül, a földgázkereskedő mentesül a felhasználóval kötött
+szerződés e felfüggesztés miatti megszegésének jogkövetkezménye alól.
+(3) A Hivatal az (1) bekezdés szerinti tájékoztatás alapján javaslatot tesz a miniszternek a földgázforrásokkal történő
+gazdálkodást biztosító válsághelyzeti intézkedésekre.
+(4) Az érintett földgázkereskedők kötelesek felkészülni arra, hogy a Get. 98/D. § (2) bekezdése szerinti rendelet
+miniszter általi kibocsátásának esetére szerződéssel leköthető import forrásokra ajánlatot tegyenek, és ilyen
+forrásokat lekössenek a Get. 98/C. § (1) bekezdése szerinti kötelezettség teljesítése érdekében.
+(5) A vészhelyzeti szint megszűnését követő tíz napon belül a szállítási rendszerirányító köteles jelentést készíteni
+a válsághelyzet alatt megtett forrásgazdálkodási intézkedéseiről, és azt a Hivatalnak megküldeni.
+6. A korlátozási besorolás elkészítése
+12. § (1) A földgázkereskedő vagy a saját jogon eljáró felhasználó köteles a felhasználó korlátozási besorolásához szükséges
+adatokat a felhasználóval kapcsolatban álló földgázelosztó vagy szállítási rendszerüzemeltető részére minden év
+szeptember 30-ig megadni.
+(2) Az (1) bekezdés szerinti kötelezettségnek a Get. 3. § 75. pontja szerinti alapvető szociális szolgáltató tekintetében
+történő teljesítése érdekében az alapvető szociális szolgáltató földgáz-kereskedelmi szerződése tartalmazza
+az alapvető szociális szolgáltató nyilatkozatát arra vonatkozóan, hogy e minősége a földgázkereskedő részére
+bemutatott dokumentum alapján a Get. 3. § 75. pont mely alpontjára tekintettel áll fenn. A földgázkereskedő vagy
+a saját jogon eljáró felhasználó (1) bekezdés szerinti adatszolgáltatási kötelezettsége a nyilatkozatban foglaltak
+földgázelosztó vagy szállítási rendszerüzemeltető részére történő megküldésére is kiterjed.
+(3) A földgázelosztó és a szállítási rendszerüzemeltető minden év október 31-éig a rendszerhasználó adatszolgáltatása
+alapján köteles a működési területén lévő felhasználók teljesítményeinek korlátozási besorolását elvégezni,
+és gázátadó állomásonkénti, valamint rendszerhasználónkénti csoportosításban, felhasználónkénti
+bontásban a korlátozási kategóriáknak megfelelően – az ÜKSZ-ben meghatározott formátumban – a szállítási
+rendszerirányítónak és a földgázkereskedőnek megküldeni.
+(4) A szállítási rendszerirányító összeállítja az összesített korlátozási besorolást, amely gázátadónként tartalmazza
+a 100 m3/óra lekötött teljesítmény feletti felhasználók korlátozási besorolását felhasználónként, és a 100 m3/óra
+lekötött teljesítményt meg nem haladó felhasználókét összesítve. A korlátozási besorolásnak továbbá tartalmaznia
+kell az elvonható névleges földgáz-teljesítményeket (m3/óra) átadási pontonként, felhasználónként és korlátozási
+kategóriánként.
+(5) A szállítási rendszerirányító az összesített korlátozási besorolást véleményével együtt minden év november 30-ig
+a Hivatalnak jóváhagyásra megküldi.
+(6) A Hivatal a jóváhagyott korlátozási besorolást – a besorolásra irányadó szabályok szerint – hivatalból módosíthatja.
+(7) A határozatban jóváhagyott részletes korlátozási besorolás összefoglaló táblázatait a szállítási rendszerirányító és
+a Hivatal a határozat meghozatalának napján a honlapján közzéteszi.
+
+13. § (1) A földgázteljesítményeket a következő I–IX. korlátozási kategóriába kell besorolni:
+a) I. a villamos energiáról szóló törvény alapján villamos energia termelői működési engedéllyel rendelkező,
+és az 50 MW és annál nagyobb teljesítményű erőművek energiahordozó-készletének legkisebb mértékéről
+és a készletezés rendjéről szóló miniszteri rendelet rendelkezései szerint energiaforrás-készlet fenntartására
+kötelezett felhasználók lekötött földgázteljesítményei; a korlátozás végrehajtására rendelkezésre álló
+időtartam legfeljebb 4 óra;
+b) II. az I. kategóriába nem tartozó ipari, kereskedelmi, szolgáltató és mezőgazdasági célú – technológiai
+károkozás vagy tiszta technológiás rendszerek sérülése nélkül elvonható – 2500 m3/órát meghaladó lekötött
+földgázteljesítmények, a VII. és VIII. kategóriákba sorolt földgázteljesítmények kivételével; a korlátozás
+végrehajtására rendelkezésre álló időtartam legfeljebb 4 óra;
+c) III. az ipari, kereskedelmi, szolgáltató és mezőgazdasági célú – technológiai károkozás vagy tiszta
+technológiás rendszerek sérülése nélkül elvonható – 2500 m3/óra és 500 m3/óra közé eső lekötött
+földgázteljesítmények, a VII. és VIII. kategóriákba sorolt földgázteljesítmények kivételével; a korlátozás
+végrehajtására rendelkezésre álló időtartam legfeljebb 4 óra;
+d) IV. az ipari, kereskedelmi, szolgáltató és mezőgazdasági célú – az I–III. kategóriákba nem sorolható –
+500 m3/órát meghaladó lekötött földgázteljesítmények, a VII. és VIII. kategóriákba sorolt
+földgázteljesítmények kivételével; a korlátozás végrehajtására rendelkezésre álló időtartam legfeljebb 8 óra;
+e) V. az ipari, kereskedelmi, szolgáltató és mezőgazdasági célú, 500 m3/óra és 100 m3/óra közé eső lekötött
+földgázteljesítmények, a VII. és VIII. kategóriákba sorolt földgázteljesítmények kivételével; a korlátozás
+végrehajtására rendelkezésre álló időtartam legfeljebb 8 óra;
+f) VI. az ipari, kereskedelmi, szolgáltató és mezőgazdasági célú 100 m3/óránál nem nagyobb lekötött
+földgázteljesítmények – a VII. és VIII. kategóriákba sorolt földgázteljesítmények kivételével –, amelyeket
+összevontan gázátadó állomásonként összesítve kell feltüntetni a korlátozási besorolásban, a korlátozás
+végrehajtására rendelkezésre álló időtartam legfeljebb 8 óra;
+g) VII. a II–VI. kategóriákba sorolt felhasználók temperálásra, illetve alapanyag, félkész- vagy késztermék
+állagának megőrzésére indokoltan biztosított földgázteljesítményei, amelyek a korlátozásuk elrendelését
+követően a szállítási rendszerirányító naponta kiadott engedélye alapján igénybe vehetők; a szállítási
+rendszerirányító műszaki és egyensúlytartási szempontok figyelembevételével jogosult az egyes
+gázátadókon eltérő időben biztosítani a felhasználó tényleges órai lekötésének 10%-át nem meghaladó
+mennyiséget naponta legalább 2, de a szállítási rendszerirányító döntése alapján legfeljebb 8 órás
+időtartamra;
+h) VIII. azon földgázteljesítmények, amelyeket – az alkoholtartalmú italok és üdítőitalok kivételével –
+az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság
+létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i
+178/2002/EK európai parlamenti és tanácsi rendelet 2. cikke szerinti alapvető élelmiszerek vagy élelmiszer
+alapanyagok előállításához és forgalmazásához használnak fel, különösen az élőállat vágásához és
+feldolgozásához, tej feldolgozásához és kenyérfélék előállításához felhasznált földgázteljesítmények;
+i) IX. a Get. 3. § 75. pont f)–i) alpontja szerinti alapvető szociális szolgáltató, kivéve a központi államigazgatási
+szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi
+szerveket.
+(2) Nem korlátozható kategóriába kell besorolni:
+a) a rendszerüzemeltetők földgázteljesítményét a rendszerüzemeltetéshez szükséges mértékig;
+b) a védett felhasználók földgázteljesítményét, ide nem értve – a központi államigazgatási szervekről, valamint
+a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek kivételével –
+a Get. 3. § 75. pont f)–i) alpontja szerinti alapvető szociális szolgáltatókat;
+c) azon felhasználók földgázteljesítményét, amelyek földgázvételezésének korlátozása az emberi életet vagy
+egészséget, továbbá a környezetet súlyosan veszélyeztető anyagnak a szabadba kerülését eredményezné
+a veszélyeztetettség elkerüléséhez szükséges földgázvételezés mértékéig, amennyiben a földgázteljesítmény
+– szerződésben meghatározott hőmérséklet alatt történő – elvonása esetén a káros anyagok környezetbe
+jutása valószínűsíthető;
+d) a folyékony tüzelőanyag tartalékolására nem kötelezett erőművek, fűtőművek és kapcsolt villamosenergia-
+termelők lakossági távfűtési célra felhasznált földgázteljesítményét.
+
+(3) A (2) bekezdés c) pontjában foglalt, a környezetet súlyosan veszélyeztető anyagnak a szabadba kerülését
+eredményező körülmény fennállása vonatkozásában – a katasztrófavédelemről és a hozzá kapcsolódó egyes
+törvények módosításáról szóló 2011. évi CXXVIII. törvény IV. Fejezete hatálya alá tartozó felhasználó kérelmére –
+a felhasználó telephelye szerint illetékes katasztrófavédelmi kirendeltség hatósági bizonyítványt ad ki.
+A felhasználó a hatósági bizonyítvány egy eredeti példányát köteles minden év május 31-ig a földgázkereskedőhöz,
+földgázkereskedő hiányában minden év június 30-ig a vele jogviszonyban álló földgázelosztó vagy szállítási
+rendszerüzemeltető részére eljuttatni.
+(4) Az I–V. kategóriákba sorolt felhasználónak, valamint az engedélyesnek ki kell dolgoznia a korlátozás végrehajtására
+vonatkozó intézkedési tervét és szabályzatát, amelyet legalább évenként aktualizálni kell.
+(5) A felhasználó a (4) bekezdés szerinti intézkedési tervet és szabályzatot köteles a Polgári Törvénykönyvről szóló
+2013. évi V. törvény alapján fennálló kárenyhítési kötelezettségével összhangban kialakítani.
+(6) Az a (2) bekezdés c) pontja szerinti felhasználó, amelynek a veszélyeztetettség elkerüléséhez szükséges
+földgázteljesítménye nem a (2) bekezdés szerinti kategóriába került besorolásra, köteles a Hivatalnál kezdeményezni
+a nem korlátozható kategóriába sorolást. A Hivatal a kezdeményezés vagy hatósági észlelés alapján egyaránt köteles
+a korlátozási besorolás módosításának szükségességét hivatalból vizsgálni, és annak megalapozottsága esetén
+a korlátozási besorolást hivatalból módosítani.
+(7) A szigetüzemben vételező felhasználók korlátozását a szállítási rendszerirányító a szigetüzemben bekövetkezett
+zavar esetén rendeli el.
+(8) A szállítási rendszerirányító a korlátozási besorolásban – a felhasználó rendszerirányító részére benyújtott egyedi
+kérelmére – az egyes korlátozási kategóriákban meghatározott, a korlátozás végrehajtására rendelkezésre
+álló időtartam maximális tartamát az (1) bekezdésben meghatározottaktól eltérően – de legfeljebb 72 órai
+időtartamban – is megállapíthatja, ha a korlátozás (1) bekezdés szerinti időtartamban történő végrehajtása
+helyrehozhatatlan technológiai károkozással, környezetszennyezéssel, illetve környezetveszélyeztetéssel járna.
+(9) A felhasználó a korlátozási besorolástól való eltérést alátámasztó indok fennállását az egyedi kérelemhez mellékelt,
+a) helyrehozhatatlan technológiai károkozás lehetősége esetén az adott vállalkozás műszaki felügyeletét ellátó
+hatóság felhasználó telephelye szerint illetékes helyi szerve által, vagy
+b) környezetszennyezés, illetve környezetveszélyeztetés lehetősége esetén a felhasználó telephelye szerint
+illetékes környezetvédelmi hatóság által
+kiadott, egy évnél nem régebbi hatósági bizonyítvánnyal igazolja.
+(10) A szállítási rendszerirányító a felhasználó (8) bekezdés szerinti egyedi kérelmét a felhasználó által alkalmazott
+technológiára és a nemzetgazdaság működésében betöltött szerepére figyelemmel bírálja el.
+14. § (1) A szállítási rendszerüzemeltető és a földgázelosztó köteles a korlátozási sorrendhez szolgáltatott adatokat
+folyamatosan naprakészen tartani, és azokat korlátozás esetén a korlátozással kapcsolatos eljárásrend alapján
+felhasználni.
+(2) A felhasználóval kötött hálózathasználati szerződésnek – a Get. végrehajtásáról szóló kormányrendeletben
+rögzítetteken túlmenően – tartalmaznia kell:
+a) a szerződött teljesítményt korlátozási kategóriánként,
+b) a korlátozás esetén alkalmazandó felhasználói önkorlátozás kötelezettségét,
+c) a csatlakozó rendszerüzemeltető engedélyes beavatkozásának lehetőségét és a végrehajtás módját,
+beleértve a célvezetéken ellátott felhasználó földgázteljesítményének korlátozását is,
+d) azon felhasználók esetében, amelyek földgázvételezésének korlátozása az emberi életet vagy egészséget,
+továbbá a környezetet súlyosan veszélyeztető anyagnak a szabadba kerülését eredményezné, azt
+a hőmérsékleti határértéket, amely alatt a káros anyagok környezetbe jutása valószínűsíthető, valamint
+e) a felhasználó adatváltozás-bejelentésre vonatkozó kötelezettségét.
+7. A korlátozás elrendelése
+15. § (1) A felhasználói korlátozást a Get. 98/A. § (1) bekezdése alapján a szállítási rendszerirányító rendeli el és irányítja
+a Hivatal egyidejű tájékoztatása mellett, egyben szükség esetén javaslatot tesz további intézkedések megtételére.
+(2) A korlátozás a 13. § (1) bekezdésében meghatározott valamely korlátozási kategóriába tartozó összes
+földgázteljesítményre vagy annak százalékban meghatározott hányadára – a kategóriák növekvő sorrendjében –
+rendelhető el.
+
+(3) A szállítási rendszerirányító az intézkedések arányosságának és fokozatosságának elve alapján egy adott korlátozási
+kategória korlátozásának elrendelésekor vizsgálja a százalékban meghatározott részleges korlátozás lehetőségét,
+és amennyiben ez a lehetőség fennáll, akkor az adott korlátozási kategóriába tartozó összes földgázteljesítmény
+korlátozását megelőzően köteles törekedni a részleges korlátozásra.
+(4) Ha a felhasználót a korlátozás során a földgázellátásból részlegesen vagy teljes mértékben kizárták, a részére
+a betáplálási pontokon szerződés szerint rendelkezésre álló és a korlátozás életbe léptetésekor nominált
+földgázmennyiséget a szállítási rendszerirányító által megadott ütemezés szerint a szállítási rendszerüzemeltető
+a korlátozás időtartama alatt, a szükséges mértékben, egyensúlyozó földgázként jogosult átvenni. Az átvétel
+módját, valamint az így átvett földgázmennyiség igénybevételére és elszámolására vonatkozó szabályokat az ÜKSZ
+határozza meg.
+(5) A 13. § (1) bekezdése szerinti I–IV. kategóriába sorolt felhasználókat a velük jogviszonyban álló rendszerüzemeltető
+a rájuk vonatkozó korlátozás elrendeléséről haladéktalanul szóban és elektronikus úton értesíti. A 13. §
+(1) bekezdése szerinti korlátozás végrehajtására rendelkezésre álló időtartam az elektronikus üzenet elküldésének
+időpontjától kell számítani.
+(6) A 13. § (1) bekezdése szerinti V–VII. kategóriákba sorolt felhasználókat a korlátozás elrendeléséről a szállítási
+rendszerirányító a nemzeti hírügynökség útján értesíti. A korlátozást a nemzeti hírügynökség útján történő első
+értesítéstől számított, a 13. § (1) bekezdésében meghatározott időtartamon belül végre kell hajtani.
+16. § (1) Korlátozás elrendelésekor a rendszerhasználó köteles a nem korlátozott felhasználók tervezett vételezésének
+megfelelő forrásokat biztosítani.
+(2) Ha a Get. 98/D. § (2) bekezdése szerinti rendeletben a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági
+árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb ára nem kerül meghatározásra, a Get. 98/C. §
+(1) bekezdése alapján a szállítási rendszerirányítónak felajánlott földgáz eladási ára a beszerzési áron kívül legfeljebb
+a keletkezett indokolt költségeket tartalmazhatja. A Hivatal jogosult az eladási árat, valamint a felajánlott forrásokat
+és azok igénybevételét a korlátozás teljes időtartama alatt ellenőrizni.
+(3) A korlátozás során a szállítási rendszerirányító által igénybe vett földgáznak az érintett rendszerhasználóval történő
+elszámolása a szállítási rendszerirányító feladata.
+(4) Földgázellátási válsághelyzet esetén a válsághelyzet következtében felmerült földgáz rendszerhasználati díjakat
+tartalmazó rendelet szerinti esetleges pótdíj megfizetése alól – a kiegyensúlyozási pótdíj kivételével – a díjfizetésre
+kötelezett mentesül.
+8. A földgázvételezés elrendelt korlátozásának végrehajtása
+17. § (1) Ha a földgázvételezés elrendelt korlátozását a felhasználó nem hajtja végre, az érintett szállítási rendszerüzemeltető
+vagy földgázelosztó köteles – a (2) bekezdés szerinti eltéréssel – az érintett felhasználót az elzáró szerelvény
+zárt állapotában történő rögzítésével, rögzíthetőség hiányában a vezetékes kapcsolat megszüntetésével
+a földgázellátásból kizárni. A korlátozást be nem tartó felhasználó felel a mulasztásából eredő valamennyi kárért,
+különösen azokért a károkért, amelyek a nem korlátozott kategóriába tartozó felhasználóknál merülnek fel amiatt,
+hogy a kizárásra irányuló műszaki intézkedés más műszaki megoldás hiányában rájuk is kiterjed.
+(2) Ha a kizárásra irányuló műszaki intézkedés más műszaki megoldás hiányában olyan, nem korlátozható kategóriába
+sorolt felhasználói földgázteljesítményeket érintene, amelyek elvonása esetén az emberi életet vagy egészséget,
+továbbá a környezetet súlyosan veszélyeztető anyagok környezetbe jutása valószínűsíthető, akkor a korlátozást be
+nem tartó felhasználó földgázvételezését a veszélyeztetettség elkerüléséhez szükséges földgázvételezés mértékéig
+fizikailag korlátozni kell. A korlátozás végrehajtásával egyidejűleg a korlátozást végrehajtó rendszerüzemeltető
+írásban hívja fel a korlátozást be nem tartó felhasználó figyelmét a fennmaradó földgázteljesítmény felhasználási
+céljára, valamint a jogszerűtlen felhasználás következményeire. A jogszerűtlen felhasználásból eredő valamennyi
+kárért a korlátozást be nem tartó felhasználó felel.
+(3) A felhasználó kizárásának műszaki és egyéb körülményeit a rendszerüzemeltető köteles írásban rögzíteni,
+feltüntetve a korlátozás elrendelésének és a kizárásnak az időpontját, valamint az ezen idő alatt elfogyasztott
+földgáz mennyiségét.
+(4) A korlátozás megszüntetését követő 5 munkanapon belül a rendszerüzemeltető köteles a korlátozás végrehajtásáról
+– személyes adatot nem tartalmazó – írásos jelentést, továbbá a műszaki kizárásokról tételes kimutatást készíteni,
+és azt a szállítási rendszerirányítónak átadni. A korlátozás megszüntetését követően a rendszerüzemeltető köteles
+a hálózathasználati szerződésben foglalt határidőben, de legfeljebb 5 munkanapon belül a földgázvételezésből
+
+történő műszaki kizárást megszüntetni, valamint jogosult a kizárás és a szolgáltatás visszaállításával kapcsolatosan
+felmerült – az üzletszabályzatban meghatározott – költségeit az érintett felhasználóval megtéríttetni.
+9. A biztonsági földgázkészlet igénybevételére vonatkozó szabályok
+18. § (1) A biztonsági földgázkészletnek az igénybevételre jogosult földgázkereskedőknek (a továbbiakban: Igénybevevő)
+történő átadására a Szövetség és az Igénybevevő köteles megállapodást kötni.
+(2) A biztonsági földgázkészletnek az Igénybevevő részére történő átadására a Szövetség a készletet tároló
+engedélyessel kötött szerződésével összhangban álló mintaszerződést köteles kidolgozni, amelyet a tagokkal
+köteles egyeztetni. A tagokkal egyeztetett – és a Szövetség honlapján közzétett – mintaszerződésnek megfelelő
+tartalmú szerződést a biztonsági földgázkészlet felszabadításától számított legkésőbb 24 órán belül meg kell kötni.
+(3) A (2) bekezdés szerinti szerződés hiányában a földgázkereskedő nem jogosult a biztonsági földgázkészlet
+igénybevételére.
+19. § (1) A felhasználható biztonsági készlet a szervezett földgázpiacon vagy a kereskedési platformon nem értékesíthető.
+(2) A felhasznált biztonsági készletet az Igénybevevőnél kell elszámolni az ÜKSZ-ben meghatározott nominálási
+tűréshatár figyelembevételével.
+(3) A rendszerüzemeltetők a nomináltnál vagy a ténylegesen felhasznált mennyiségnél több biztonsági készletet
+nem számolhatnak el az Igénybevevőnek. A biztonsági készletből felhasznált földgáz pénzügyi elszámolása
+az Igénybevevő és a Szövetség között a tárolói jegyzőkönyv alapján történik, a Szövetség és az Igénybevevő közötti
+értékesítési szerződés és teljesítés figyelembevételével.
+(4) A Szövetség által kötött értékesítési szerződésekben a teljesítés helye mindenkor a biztonsági készletet tároló föld
+alatti gáztároló kiadási pontja, így a rendszerhasználati díjat az Igénybevevő fizeti.
+(5) A biztonsági készlet tekintetében a szállítási rendszerüzemeltető a miniszter által engedélyezett mennyiség feletti
+nominálást az engedélyezett készletfelhasználás mértékéig csökkenti.
+(6) Az Igénybevevő köteles nyilvántartásában a biztonsági készletből értékesített földgáz árát, mennyiségét és az erre
+eső rendszerhasználati díjakat elkülönítve feltüntetni és elszámolni.
+10. Záró rendelkezések
+20. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+21. §
+A korlátozási besorolás 12. § szerinti jóváhagyásáig az e rendelet hatálybalépésekor alkalmazott korlátozási
+besorolást kell alkalmazni.
+22. §
+Ez a rendelet a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet
+hatályon kívül helyezéséről szóló, 2017. október 25-i (EU) 2017/1938 európai parlamenti és tanácsi rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+23. §
+A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet
+74. § (3) bekezdés f) pontjában a „korlátozási besorolását” szövegrész helyébe a „korlátozási, védett felhasználói,
+szolidaritási alapon védett felhasználói besorolását”szöveg lép.
+24. §
+Hatályát veszti a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint
+a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló 265/2009. (XII. 1.) Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
