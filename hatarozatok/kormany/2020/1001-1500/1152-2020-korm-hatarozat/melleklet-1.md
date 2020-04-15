@@ -66,6 +66,8 @@
 
 ## Határidő: az 5. pont szerinti felülvizsgálat lezárását követő 30 napon belül
 
-## 7. visszavonja a 2014–2020 közötti programozási időszakra vonatkozó indikatív támogatási keretösszegekről szóló 1135/2019. (III. 18.) Korm. határozatot.
+## 7.[^1]
 
 1. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
