@@ -24,42 +24,23 @@
 
 ## Határidő: azonnal
 
-## 2. A székesfehérvári Gárdonyi Géza Művelődési Ház és Könyvtár felújítására irányuló beruházás előkészítéséhez szükséges forrás biztosításáról szóló 1841/2017. (XI. 10.) Korm. határozat [a továbbiakban: 1841/2017. (XI. 10.) Korm. határozat] 6. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „6. felhívja az emberi erőforrások miniszterét és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az előkészítési fázisok eredménye alapján készítsenek előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
+## 4.[^3]
 
-## Felelős: emberi erőforrások minisztere
+## 5.[^4]
 
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+## 6.[^5]
 
-## Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárás lezárását követően”
-
-## 3. Az 1841/2017. (XI. 10.) Korm. határozat
-
-## a) 2. pontjában a „2018. év november hó 30. napjáig” szövegrész helyébe a „2020. december 31-ig” szöveg,
-
-## b) 4. pontjában az „a fel nem használt rész visszafizetése tekintetében a 6. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül” szövegrész helyébe az „a fel nem használt rész visszafizetése tekintetében a Beruházás Előkészítési Alapból biztosított forrás felhasználásának elszámolását követő 15 napon belül” szöveg
-
-## lép.
-
-## 4. A Közép- és Kelet-Európai Történelem és Társadalom Kutatásáért Közalapítvány egyes infrastrukturális fejlesztéseinek támogatásáról szóló 1128/2018. (III. 19.) Korm. határozat [a továbbiakban: 1128/2018. (III. 19.) Korm. határozat] 8. pont b) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány, elismerve a Közép- és Kelet-Európai Történelem és Társadalom Kutatásáért Közalapítvány Magyarország kulturális életében betöltött kiemelt szerepét,
-
-## felhívja az emberi erőforrások miniszterét, hogy)
-
-## „b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a 4. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárás lezárását követően”
-
-## 5. Az 1128/2018. (III. 19.) Korm. határozat 4. pontjában a „2018. augusztus 31-ig” szövegrész helyébe a „2020. december 31-ig” szöveg lép.
-
-## 6. A Semmelweis XXI. Fejlesztési Projekthez kapcsolódó intézkedésekről szóló 1774/2018. (XII. 21.) Korm. határozat 7. pontjában az „565 000 000 forint” szövegrész helyébe az „588 000 000 forint” szöveg lép.
-
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból, a Központi Maradványelszámolási Alapból történő előirányzat-átcsoportosításról, fejezetek közötti átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1244/2019. (IV. 30.) Korm. határozat 1. pont a) alpontjában a „974 464 000 forint tekintetében 2020. június 30.” szövegrész helyébe a „974 464 000 forint és a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára biztosított 100 000 000 forint tekintetében 2020. június 30.” szöveg lép.
+## 7.[^6]
 
 1. melléklet az 1154/2020. (IV. 14.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
