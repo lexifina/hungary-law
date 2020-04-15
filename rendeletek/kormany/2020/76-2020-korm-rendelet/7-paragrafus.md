@@ -1,1 +1,1 @@
-## 6. §
+## „(6) A Kedvezményezett az ellátással kapcsolatos minőségi vagy mennyiségi kifogásait, reklamációit elektronikus úton, a kijelölt fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság részére küldi meg.”

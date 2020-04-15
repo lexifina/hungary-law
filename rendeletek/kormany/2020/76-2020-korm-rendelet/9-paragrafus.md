@@ -1,1 +1,1 @@
-## 8. §
+## „(3) A Kedvezményezett – a (7) bekezdésben meghatározott kivétellel – köteles a Központi Ellátó Szerv ajánlatát elfogadni, és a Központi Ellátó Szervvel a megkeresés és az elfogadott ajánlat alapján tárgyév március 20-áig ellátási megállapodást kötni. Ha a jelen bekezdésben meghatározott határidőig a Kedvezményezett az árajánlat elfogadásáról nem nyilatkozik, vagy az ellátási megállapodást nem köti meg, a Központi Ellátó Szerv az ellátási megállapodás megkötésétől és az ellátási igény teljesítésétől eláll.”

@@ -1,4 +1,4 @@
-## 13. §
+## 13. § Hatályát veszti az R2. 6. § (5) és (6) bekezdése.
 
 ## 3. Záró rendelkezések
 

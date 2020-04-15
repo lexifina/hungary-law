@@ -1,1 +1,1 @@
-## 12. §
+## „(5) A Központi Ellátó Szerv jogosult a kedvezőbb ár benyújtására és a teljesítési határidők el nem fogadására tekintettel engedélyezett saját hatáskörben történő beszerzések megvalósulásának jogszerűsége ellenőrzése céljából a Kedvezményezettet adatszolgáltatás-kéréssel megkeresni. A Kedvezményezett az adatszolgáltatás-kérésnek a megkeresés kézhez vételétől számított 5 napon belül köteles eleget tenni.”
