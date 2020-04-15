@@ -6,6 +6,7 @@
 
 (2) A 7. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
 
-(3) A húsvéti ünnepekre vonatkozó rendelkezéseket tartalmazó 3. § és a 6. § (2) bekezdése 2020. április 14-én hatályát veszti.
+(3)[^2]
 
 [^1]: A 3. §-t a 4. § (3) bekezdése hatályon kívül helyezte.
+[^2]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
