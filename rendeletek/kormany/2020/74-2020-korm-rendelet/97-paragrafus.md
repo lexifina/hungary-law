@@ -1,3 +1,5 @@
+## 96. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
+
 97. § (1) E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
 (2) Ha a határidő a polgári peres és nemperes eljárásokban, valamint a közigazgatási peres és nemperes eljárásokban, továbbá az egyéb közigazgatási bírósági eljárásokban az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során teendő intézkedésekről (II.) szóló 45/2020. (III. 14.) Korm. rendelet 1. §-ával elrendelt rendkívüli ítélkezési szünet [a továbbiakban: 45/2020. (III. 14.) Korm. rendelet szerinti rendkívüli ítélkezési szünet] elrendelése és e rendelet hatálybalépését követő 15. napig terjedő időszakban jár le, a határidő meghosszabbodik e rendelet hatálybalépését követő 30. napig.
