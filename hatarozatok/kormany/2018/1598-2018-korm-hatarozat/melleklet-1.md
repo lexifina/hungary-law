@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pontban foglaltak végrehajtása érdekében 74 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 4. Művészeti tevékenységek és egyéb fejezeti feladatok támogatása jogcímcsoport javára, az 1. melléklet szerint;
+## 3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pontban foglaltak végrehajtása érdekében 74 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 4. Művészeti tevékenységek és egyéb fejezeti feladatok támogatása jogcímcsoport javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. június 30.
 
 ## 4. az Attila király emlékmű helyszínéül az 1. pontban meghatározott szobor elhelyezésére Vác városát jelöli ki.
 
@@ -89,3 +89,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1158/2020. (IV. 15.) Korm. határozat 2. pontja szerint módosított szöveg.
