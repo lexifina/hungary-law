@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^3] A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 13/2016. (II. 9.) Korm. rendelet módosításáról szóló 113/2020. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (1) bekezdését a Módr1. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 13/2016. (II. 9.) Korm. rendelethez
 
@@ -51,3 +51,6 @@
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 7. §-t a 113/2020. (IV. 14.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2020. április 15.
