@@ -1,3 +1,3 @@
-## 5.[^15]
+## 5.[^28]
 
-[^15]: Az 5. alcímet (8. §) a 175/2015. (VII. 7.) Korm. rendelet 69. §-a hatályon kívül helyezte.
+[^28]: Az 5. alcímet (8. §) a 175/2015. (VII. 7.) Korm. rendelet 69. §-a hatályon kívül helyezte.

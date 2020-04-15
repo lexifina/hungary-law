@@ -2,16 +2,24 @@
 
 ## 6. Ellátási megállapodás
 
-## 9. § A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tartalmazza különösen:
+## 9. §[^29] A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tartalmazza különösen
 
-a) a Felek azonosító adatait;
+a) a felek azonosító adatait,
 
-b) az igényelt termékeket és szolgáltatásokat;
+b) az igényelt termékeket és szolgáltatásokat, azok mennyiségét, méret szerinti megoszlását,
 
-c)[^16] a megállapított mennyiségeket, műszaki tartalmat és paramétereket, minőséget, egységárakat, teljes ellenértéket, vagy a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti becsült értéket és a teljesítés helyét, idejét;
+c) az igényelt termékekre és szolgáltatásokra vonatkozó műszaki tartalmat és paramétereket, minőséget,
 
-d) az ellátáshoz szükséges források Központi Ellátó Szerv részére történő rendelkezésre bocsátását;
+d) az igényelt termékekre és szolgáltatásokra vonatkozó egységárakat, a Kbt. szerinti becsült értéket,
 
-e) a teljesítés részletes feltételeit.
+e) a teljesítés helyét, idejét,
 
-[^16]: A 9. § c) pontja a 9/2016. (II. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+f) az ellátáshoz szükséges források Központi Ellátó Szerv részére történő rendelkezésre bocsátását,
+
+g) a teljesítés részletes feltételeit,
+
+h) a Kedvezményezett által kiállított fedezetigazolást,
+
+i) a közbeszerzési eljárás lefolytatása érdekében a bíráló bizottságba delegált közbeszerzés tárgya szerinti szakértelemmel rendelkező tag megnevezését, és a delegált tag nyilatkozatát arról, hogy a delegálást elfogadja, és a bíráló bizottság munkájában a közbeszerzési eljárás során részt vesz.
+
+[^29]: A 9. § a 76/2020. (III. 31.) Korm. rendelet 10. §-ával megállapított szöveg.

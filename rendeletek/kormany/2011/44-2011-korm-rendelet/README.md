@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-44-20-2
 | 2017-05-30 | 2011-44-20-22.9 | 118/2017. (V. 29.) Korm. rendelet |
 | 2019-01-01 | 2011-44-20-22.10 | 17/2013. (I. 30.) Korm. rendelet |
 | 2019-11-20 | 2011-44-20-22.11 | 17/2013. (I. 30.) Korm. rendelet |
+| 2020-04-15 | 2011-44-20-22.12 | 76/2020. (III. 31.) Korm. rendelet |
