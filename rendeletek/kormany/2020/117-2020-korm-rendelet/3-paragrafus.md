@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 33. §-sal egészül ki:
+
+## „33. § E rendeletnek a Gazdaságvédelmi Akcióterv keretében az egyes gadaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 117/2020. (IV. 15.) Korm. rendelettel (a továbbiakban: Módr25.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/G. §-át és 2. mellékletében foglalt táblázat 37. sorát a Módr25. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
