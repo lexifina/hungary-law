@@ -76,7 +76,9 @@
 
 | 36. | Telephely bővítésre és fejlesztésre irányuló beruházás Tatabánya területén | Tatabánya közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 032/53 helyrajzi számú ingatlan | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^71]
+| 37. | A Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság fóti telephelyének fejlesztésére irányuló beruházás | Fót közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Fót külterület 0259, 0260, illetve Fót belterület 2020 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^74]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -256,4 +258,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^71]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^74]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

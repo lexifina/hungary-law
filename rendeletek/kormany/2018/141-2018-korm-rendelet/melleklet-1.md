@@ -1,4 +1,4 @@
-## 32. §[^68] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 44/2020. (III. 12.) Korm. rendelettel (a továbbiakban: Módr24.) megállapított 2. mellékletben foglalt táblázat 36. sorát a Módr24. hatálybalépésekor[^69] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 33. §[^71] E rendeletnek a Gazdaságvédelmi Akcióterv keretében az egyes gadaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 117/2020. (IV. 15.) Korm. rendelettel (a továbbiakban: Módr25.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/G. §-át és 2. mellékletében foglalt táblázat 37. sorát a Módr25. hatálybalépésekor[^72] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^68]: A 32. §-t a 44/2020. (III. 12.) Korm. rendelet 1. §-a iktatta be.
-[^69]: A hatálybalépés időpontja 2020. március 13.
+[^71]: A 33. §-t a 117/2020. (IV. 15.) Korm. rendelet 2. §-a iktatta be.
+[^72]: A hatálybalépés időpontja 2020. április 16.
