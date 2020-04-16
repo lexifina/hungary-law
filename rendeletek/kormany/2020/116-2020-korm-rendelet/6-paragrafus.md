@@ -1,0 +1,1 @@
+## 5. § A Korm. rendeletben foglalt hiánypótlási határidők a veszélyhelyzet ideje alatt indokolt esetben kérelemre vagy hivatalból, a veszélyhelyzet által indokolt körülmények figyelembevételével meghatározott hosszabb időtartamban is megállapíthatóak.
