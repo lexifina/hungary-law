@@ -1,1 +1,3 @@
-## „(6) A Kedvezményezett az ellátással kapcsolatos minőségi vagy mennyiségi kifogásait, reklamációit elektronikus úton, a kijelölt fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság részére küldi meg.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
