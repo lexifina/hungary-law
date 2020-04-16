@@ -12,20 +12,17 @@
 
 ## Határidő: azonnal
 
-## 2. Az Attila király emlékmű létrehozásáról szóló 1598/2018. (XI. 26.) Korm. határozat 3. pontjában a „2019. június 30.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 2.[^1]
 
-## 3. A magyarországi cserkészet támogatásáról szóló 1701/2018. (XII. 17.) Korm. határozat (a továbbiakban: Korm. határozat)
+## 3.[^2]
 
-## a) 2. pontjában a „2019. november 30-áig” szövegrész helyébe a „2021. március 31-ig” szöveg,
+## 4.[^3]
 
-## b) 3. pontjában az „a 7. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül” szövegrész helyébe az „az előkészítési fázisok befejezését követő 120 napon belül” szöveg,
-
-## c) 9. pontjában a „2019. június 30.” szövegrész helyébe a „2020. december 31.” szöveg
-
-## lép.
-
-## 4. A Kormány visszavonja a Korm. határozat 7. pont a) alpontját.
-
-## 5. A Központi Maradványelszámolási Alapból történő, illetve fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1528/2019. (IX. 17.) Korm. határozat 1. pont d) alpontjában a „2020. évre 2 695 000 000 forint” szövegrész helyébe a „2021. évre 1 700 000 000 forint” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1158/2020. (IV. 15.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
