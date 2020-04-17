@@ -160,7 +160,7 @@
 
 ## 6. A szakiskolában és a Szakképzési Hídprogram keretében megszerezhető részszakképesítések írásbeli vizsgatevékenységeinek időpontja 2020. június 12., a további vizsgatevékenységeket 2020. június 26-ig kell megszervezni.
 
-2. melléklet a 11/2019. (VII. 3.) EMMI rendelethez
+2. melléklet a 11/2019. (VII. 3.) EMMI rendelethez[^3]
 
 A középfokú iskolai, a kollégiumi, a Köznevelési és a Szakképzési Hídprogramba történő felvételi eljárás, valamint az Arany János Programokkal kapcsolatos feladatok lebonyolításának ütemezése a 2019/2020. tanévben
 
@@ -238,16 +238,18 @@ A középfokú iskolai, a kollégiumi, a Köznevelési és a Szakképzési Hídp
 
 | 36. | 2020. június 1. | A benyújtott kérelmek alapján lefolytatott jogorvoslati eljárás befejezése a fenntartónál. |
 
-| 37. | 2020. június 17. | Az általános iskola értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes megyeszékhely szerinti járási hivatal, valamint a Klebelsberg Központ részére, amennyiben kezdeményezi a tanköteles tanuló felvételét a Köznevelési Hídprogramba.A Klebelsberg Központ kijelöl legalább egy, a megye területén működő Köznevelési Hídprogramban részt vevő köznevelési intézményt, amely a tanulót felveszi tankötelezettségének teljesítése érdekében. |
+| 37. |  |  |
 
-| 38. | 2020. június 17. | Az általános iskola értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes megyeszékhely szerinti járási hivatal, valamint a Nemzeti Szakképzési és Felnőttképzési Hivatal vagy – az általa fenntartott iskolák tekintetében – az agrárpolitikáért felelős miniszter részére, amennyiben kezdeményezi a tanköteles tanuló felvételét a Szakképzési Hídprogramba. |
+| 38. |  |  |
 
-| 39. | 2020. június 22–24. | Beiratkozás a középfokú iskolákba, valamint a Köznevelési és a Szakképzési Hídprogramba az iskola igazgatója által meghatározott időben. |
+| 39. | 2020. június 22–24. | Beiratkozás a középfokú iskolákba. |
 
-| 40. | 2020. június 29–30. | A fogadó iskola értesítést küld a Szakképzési Hídprogramba beiratkozott, illetve elutasított tanulókról az általános iskolának. Az általános iskola, amennyiben három munkanapon belül nem kap értesítést a tanuló felvételéről, értesítést küld a tanuló állandó lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes megyeszékhely szerinti járási hivatal, valamint a Nemzeti Szakképzési és Felnőttképzési Hivatal vagy – az általa fenntartott iskolák tekintetében – az agrárpolitikáért felelős miniszter részére. |
+| 40. |  |  |
 
 | 41. | 2020. július 24. – augusztus 7. | Beiratkozás a honvédelemért felelős miniszter fenntartásában lévő, kizárólag a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre való felkészítést folytató szakképző iskolába. |
 
 | 42. | 2020. augusztus 1–31. | Beiratkozás a rendészetért felelős miniszter által fenntartott rendészeti szakgimnáziumokba. |
 
-| 43. | 2020. augusztus 31. | Pótbeiratkozás a Köznevelési és a Szakképzési Hídprogramba. |
+| 43. |  |  |
+
+[^3]: A 2. melléklet a 14/2020. (IV. 16.) EMMI rendelet 13. §-a szerint módosított szöveg.
