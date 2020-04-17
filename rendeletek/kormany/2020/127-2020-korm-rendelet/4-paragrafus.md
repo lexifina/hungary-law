@@ -1,0 +1,5 @@
+## 3. § Az Exim tv. 2. § (1) bekezdésében foglaltaktól eltérően a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó, az Exim tv. 2. § (1) bekezdés a)–h) pontja szerinti pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet, továbbá kezesség- és garanciavállaláshoz kapcsolódóan pénzügyi szolgáltatás közvetítését végzi.
+
+4. § (1) Az Eximbank jogosult bel- és külföldi alternatív befektetési alap alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni vagy megszerezni.
+
+(2) Az Eximbank jogosult alternatív befektetési alapkezelőt alapítani vagy abban részesedést szerezni.

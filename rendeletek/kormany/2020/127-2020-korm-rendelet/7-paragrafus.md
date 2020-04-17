@@ -1,0 +1,1 @@
+## 6. § Az Exim tv.-nek az Eximbank által az állam készfizető kezessége mellett vállalható garanciaügyletre vonatkozó rendelkezéseit az Eximbank által kormányrendeletben előírt feltételekkel vállalt készfizető kezességre is alkalmazni kell.
