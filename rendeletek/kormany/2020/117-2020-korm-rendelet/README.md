@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-117-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-16 | 2020-117-20-22.1 | 117/2020. (IV. 15.) Korm. rendelet |
+| 2020-04-17 | 2020-117-20-22.2 | 2010: CXXX. törvény |
