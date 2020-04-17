@@ -66,7 +66,7 @@ b) a kérelem elutasítására vonatkozó döntését határozati formában
 
 (6b)[^67]
 
-(7)[^68] A kijelölt óvoda vezetője a megküldött szakértői vélemény vagy a járási hivatal határozata alapján értesíti a hivatalt, ha a gyermeket az óvodába nem íratták be.
+(7)[^68] A kijelölt óvoda vezetője a megküldött szakértői vélemény vagy a tankerületi központ határozata alapján értesíti a hivatalt, ha a gyermeket az óvodába nem íratták be.
 
 (8)[^69] Az óvodába felvett gyermeket az óvoda nyilvántartja. Ha a gyermek óvodát változtat, további nyilvántartása az átadó óvoda értesítése alapján az átvevő óvoda feladata.
 
@@ -93,7 +93,7 @@ b) a kérelem elutasítására vonatkozó döntését határozati formában
 [^65]: A 20. § (6) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 14. § b) pont be) alpontja hatályon kívül helyezte.
 [^66]: A 20. § (6a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be, a 34/2019. (XII. 30.) EMMI rendelet 14. § b) pont be) alpontja hatályon kívül helyezte.
 [^67]: A 20. § (6b) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be, a 34/2019. (XII. 30.) EMMI rendelet 14. § b) pont be) alpontja hatályon kívül helyezte.
-[^68]: A 20. § (7) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 6. § 1. pontja, a 34/2019. (XII. 30.) EMMI rendelet 13. § 3. pont 3.5. alpontja szerint módosított szöveg.
+[^68]: A 20. § (7) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 3. pont 3.5. alpontja, a 14/2020. (IV. 16.) EMMI rendelet 1. § a) pontja szerint módosított szöveg.
 [^69]: A 20. § (8) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 14. § b) pont bf) alpontja szerint módosított szöveg.
 [^70]: A 20. § (9) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 1. §-a iktatta be.
 [^71]: A 20. § (10) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 1. §-a iktatta be.

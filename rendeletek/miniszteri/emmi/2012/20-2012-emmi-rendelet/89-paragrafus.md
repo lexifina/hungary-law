@@ -6,7 +6,7 @@
 
 a) a jelentkezés sorszámát, időpontját,
 
-b)[^211] a gyermek nevét, születési helyét és idejét, állampolgárságát, lakóhelyének, tartózkodási helyének címét, anyja születéskori nevét, apja nevét, nem magyar állampolgárság esetén a tartózkodás jogcímét,
+b)[^213] a gyermek nevét, születési helyét és idejét, állampolgárságát, lakóhelyének, tartózkodási helyének címét, anyja születéskori nevét, apja nevét, nem magyar állampolgárság esetén a tartózkodás jogcímét,
 
 c) a kijelölt óvoda megnevezését,
 
@@ -26,4 +26,4 @@ j) a felvétellel kapcsolatos fellebbezés időpontját és iktatószámát,
 
 k) a felvétel időpontját.
 
-[^211]: A 89. § (3) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 13. § 10. pontja szerint módosított szöveg.
+[^213]: A 89. § (3) bekezdés b) pontja a 34/2019. (XII. 30.) EMMI rendelet 13. § 10. pontja szerint módosított szöveg.

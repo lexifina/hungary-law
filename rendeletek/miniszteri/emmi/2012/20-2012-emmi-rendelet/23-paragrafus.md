@@ -4,7 +4,7 @@
 
 (3)[^79] Az iskola igazgatója a felvételi eljárásban a felvételről, átvételről tanulói jogviszonyt létesítő vagy a kérelmet elutasító döntést hoz. A kérelemnek helyt adó döntést az iskola igazgatója írásban közli a tanulóval, kiskorú tanuló esetén a szülővel, továbbá átvétel esetén a döntésről értesíti az előző iskola igazgatóját. Az iskola igazgatója tanuló felvételének, átvételének megtagadásáról határozat formájában dönt. Az iskola igazgatója a felvételi, átvételi kérelem benyújtásával kapcsolatos ügyintézés, határidő-számítás, mulasztás elbírása során a köznevelés rendszerében hozott döntésekkel kapcsolatos szabályok alapján jár el.
 
-(4)[^80] A kötelező felvételt biztosító iskola igazgatója a hivataltól kapott nyilvántartás, a kijelölt iskola a megküldött szakértői vélemény vagy a járási hivatal határozata alapján értesíti a hivatalt, ha a gyermeket az iskolába nem íratták be.
+(4)[^80] A kötelező felvételt biztosító iskola igazgatója a hivataltól kapott nyilvántartás, a kijelölt iskola a megküldött szakértői vélemény vagy a tankerületi központ határozata alapján értesíti a hivatalt, ha a gyermeket az iskolába nem íratták be.
 
 (5)[^81] Az iskola igazgatója értesíti a hivatalt és a kötelező felvételt biztosító iskola igazgatóját, ha olyan tanköteles tanulót vett fel vagy át, akinek lakóhelye, ennek hiányában tartózkodási helye nem a nevelési-oktatási intézmény körzetében van.
 
@@ -14,12 +14,12 @@
 
 (8)[^82] Az iskolába felvett gyermeket, tanulót – beleértve az egyéni munkarenddel rendelkezőt is – az iskola tartja nyilván. Az iskola a vele tanulói jogviszonyban álló és a 49. § (1)–(3) bekezdése szerint benyújtott kérelem alapján vendégtanulói jogviszony létesítésére engedélyt kapott tanulókról külön nyilvántartást vezet. Ha a tanköteles tanuló iskolát változtat, akkor a tanuló további nyilvántartása az átadó iskola értesítése alapján az átvevő iskola feladata, és a tanuló adatait az átadó iskola a hivatal egyidejű értesítése mellett tizenöt napon belül törli nyilvántartásából. Az iskola nyilvántartásában marad az a tanköteles tanuló, aki iskolai tanulmányait külföldön folytatja.
 
-(9)[^83] Ha a tanköteles tanuló az általános iskola utolsó évfolyamának elvégzése után a középfokú iskolai felvételi eljárásban nem vett részt, az általános iskola igazgatója értesíti a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes járási hivatalt, valamint a megyeszékhely szerinti járási hivatalt.
+(9)[^83] Ha a tanköteles tanuló az általános iskola utolsó évfolyamának elvégzése után a középfokú iskolai felvételi eljárásban nem vett részt, az általános iskola igazgatója értesíti a hivatalt.
 
 (10) Ha a tanulót rendkívüli felvételi eljárás keretében vették fel az iskolába, a beiratkozásának időpontját az iskola igazgatója állapítja meg.
 
 [^79]: A 23. § (3) bekezdése a 22/2013. (III. 22.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^80]: A 23. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § b)–d) pontja, a 34/2019. (XII. 30.) EMMI rendelet 13. § 5. pont 5.1. alpontja szerint módosított szöveg.
+[^80]: A 23. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § b)–d) pontja, a 34/2019. (XII. 30.) EMMI rendelet 13. § 5. pont 5.1. alpontja, a 14/2020. (IV. 16.) EMMI rendelet 1. § c) pont ca) alpontja szerint módosított szöveg.
 [^81]: A 23. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § d)–e) pontja, a 34/2019. (XII. 30.) EMMI rendelet 13. § 5. pont 5.2. alpontja szerint módosított szöveg.
 [^82]: A 23. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 12. §-ával megállapított, a 20/2019. (VIII. 30.) EMMI rendelet 24. § 5. pontja, a 34/2019. (XII. 30.) EMMI rendelet 13. § 5. pont 5.3. alpontja szerint módosított szöveg.
-[^83]: A 23. § (9) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^83]: A 23. § (9) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 2. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 1. § c) pont cb) alpontja szerint módosított szöveg.

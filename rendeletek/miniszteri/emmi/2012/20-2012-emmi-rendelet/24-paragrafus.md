@@ -1,6 +1,6 @@
 ## 12. A kötelező felvételt biztosító iskola kijelölésével kapcsolatos szabályok
 
-24. § (1)[^84] A felvételi körzetek megállapításához az illetékes tankerületi központ minden év október 15. napjáig beszerzi az illetékességi területén található települési önkormányzatok véleményét, amely tartalmazza a település jegyzőjének nyilvántartásában szereplő, a településen lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező hátrányos helyzetű, általános iskolába járó gyermekek létszámát intézményi és tagintézményi bontásban. Az illetékes tankerületi központ december 1-jéig tájékoztatja a települési önkormányzatokat, az illetékességi területén működő általános iskolákat, az illetékes tankerületi központokat, valamint az Nkt. 50. § (10) bekezdése szerinti esetben a nemzetiségi önkormányzatot a kijelölt körzetek tervezetéről.
+24. § (1)[^84] A felvételi körzetek megállapításához az illetékes tankerületi központ minden év október 15. napjáig beszerzi az illetékességi területén található települési önkormányzatok véleményét, amely tartalmazza a település jegyzőjének nyilvántartásában szereplő, a településen lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező hátrányos helyzetű, általános iskolába járó gyermekek létszámát intézményi és tagintézményi bontásban. Az illetékes tankerületi központ december 1-jéig tájékoztatja a települési önkormányzatokat, az illetékességi területén működő általános iskolákat, valamint az Nkt. 50. § (10) bekezdése szerinti esetben a nemzetiségi önkormányzatot a kijelölt körzetek tervezetéről.
 
 (1a)[^85] A települési önkormányzat a véleményéről, az Nkt. 50. § (10) bekezdése szerinti esetben a nemzetiségi önkormányzat az egyetértéséről vagy körzethatár módosítását kezdeményező javaslatáról február 15. napjáig tájékoztatja az illetékes tankerületi központot.
 
@@ -26,7 +26,7 @@ c) munkáltatói igazolás alapján szülőjének munkahelye az iskola körzeté
 
 d) az iskola a lakóhelyétől, ennek hiányában tartózkodási helyétől egy kilométeren belül található.
 
-[^84]: A 24. § (1) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 3. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 13. § 6. pont 6.1. alpontja szerint módosított szöveg.
+[^84]: A 24. § (1) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 3. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 13. § 6. pont 6.1. alpontja, a 14/2020. (IV. 16.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
 [^85]: A 24. § (1a) bekezdését az 51/2016. (XII. 29.) EMMI rendelet 3. §-a iktatta be,szövege a 34/2019. (XII. 30.) EMMI rendelet 13. § 6. pont 6.2. alpontja és 14. § d) pontja szerint módosított szöveg.
 [^86]: A 24. § (1b) bekezdését az 51/2016. (XII. 29.) EMMI rendelet 3. §-a iktatta be, szövege a 34/2019. (XII. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
 [^87]: A 24. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 3. pontja szerint módosított szöveg.
