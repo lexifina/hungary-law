@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2020-01-01 | 2014-272-20-22.52 | 358/2014. (XII. 29.) Korm. rendelet |
 | 2020-01-02 | 2014-272-20-22.53 | 366/2019. (XII. 30.) Korm. rendelet |
 | 2020-02-28 | 2014-272-20-22.54 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-04-17 | 2014-272-20-22.55 | 112/2020. (IV. 14.) Korm. rendelet |

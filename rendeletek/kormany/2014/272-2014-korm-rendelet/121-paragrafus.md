@@ -8,6 +8,6 @@
 
 (5) Igazolt a támogatás felhasználása, ha a kedvezményezett által benyújtott időközi kifizetési igénylésben bemutatásra kerülő fizikai, szakmai előrehaladás megvalósult a támogatási szerződéssel összhangban, a támogatási szerződésben, illetve felhívásban rögzített, megengedett eltérés mértékén belül.
 
-(6)[^736] A kifizetési igénylés formai és tartalmi követelményeit az európai uniós források felhasználásáért felelős miniszter – a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program esetén az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – határozza meg.
+(6)[^737] A kifizetési igénylés formai és tartalmi követelményeit az európai uniós források felhasználásáért felelős miniszter – a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program esetén az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – határozza meg.
 
-[^736]: A 121. § (6) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 46. pontja szerint módosított szöveg.
+[^737]: A 121. § (6) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 46. pontja szerint módosított szöveg.

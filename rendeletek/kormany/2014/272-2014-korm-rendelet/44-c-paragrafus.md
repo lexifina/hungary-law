@@ -4,5 +4,8 @@
 
 (3)[^271] Az éves fejlesztési keret (1) bekezdés szerinti módosítását követően az irányító hatóság vezetője köteles projektenként vagy a Kormány egyedi döntése esetén felhívásonként a Kormány előzetes jóváhagyását kérni a kötelezettségvállalás megtételéhez, ha a kötelezettségvállalás a prioritás (1) bekezdés szerint megemelt keretösszegén belül az eredeti keretösszeg 110%-át meghaladó rész terhére történne.
 
+(4)[^272] Ha kormányhatározat operatív program prioritására maximális kötelezettségvállalási szintet állapít meg, akkor a (3) bekezdéstől eltérően a Kormány projektenkénti, illetve felhívásonkénti előzetes jóváhagyására csak akkor van szükség, ha a kötelezettségvállalás a prioritásnak e kormányhatározatban megállapított maximális kötelezettségvállalási szintjét meghaladná.
+
 [^270]: A 44/C. §-t a 145/2016. (VI. 13.) Korm. rendelet 1. §-a iktatta be, szövege a 24/2017. (II. 3.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^271]: A 44/C. § (3) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^272]: A 44/C. § (4) bekezdését a 112/2020. (IV. 14.) Korm. rendelet 1. §-a iktatta be.
