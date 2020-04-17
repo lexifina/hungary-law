@@ -1,5 +1,5 @@
-## 45/C. §[^134] A nevelési-oktatási intézményben foglalkoztatott pedagógus munkáltatója az Intézmény írásbeli kérelmére, az Nkt. 65. § (5b) bekezdése szerinti célfeladatot állapíthat meg a pedagógus részére pedagógiai szakszolgálati tevékenységnek az Intézmény számára történő ellátására, ha a pedagógus a megfelelő szakképzettséggel rendelkezik és vállalja, hogy a célfeladatot az e rendeletben foglaltak szerint, az Intézmény szakmai vezetése alatt, az Intézmény pedagógusaira vonatkozó szabályok betartásával végzi. A célfeladat megállapításakor előnyben kell részesíteni azt a pedagógust, aki egyebekben a célfeladat ellátásával megegyező feladat-ellátási helyen végzi nevelési-oktatási feladatait. A célfeladatot vissza kell vonni, ha azt az Intézmény írásban kezdeményezi.
+## 45/D. §[^183] Ha e rendelet a szülő részére kötelezettséget vagy jogot állapít meg, nagykorú, cselekvőképes tanuló, képzésben részt vevő személy esetén a kötelezettség teljesítése és a jog gyakorlása a tanulót, képzésben részt vevő személyt terheli vagy illeti meg.
 
 ## 18. Záró rendelkezések
 
-[^134]: A 45/C. §-t a 20/2019. (VIII. 30.) EMMI rendelet 38. §-a iktatta be.
+[^183]: A 45/D. §-t a 14/2020. (IV. 16.) EMMI rendelet 9. §-a iktatta be.

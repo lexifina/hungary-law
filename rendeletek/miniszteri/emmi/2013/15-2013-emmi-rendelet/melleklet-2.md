@@ -160,7 +160,7 @@
 
 | ....................................................................... szülő(k) aláírása |
 
-2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^139]
+2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^188]
 
 A szakértői vizsgálat eljárásrendje
 
@@ -180,13 +180,13 @@ A vizsgálat helyének és időpontjának meghatározása, erről
 
 – a szülő,
 
-– amennyiben a vizsgálaton való részvételre közigazgatási hatósági eljárás keretében hozott döntés kötelezte a szülőt, a döntést kiadó járási hivatal,
+– amennyiben a vizsgálaton való részvételre közigazgatási hatósági eljárás keretében hozott döntés kötelezte a szülőt, a döntést kiadó tankerületi központ,
 
 – amennyiben a halmozottan hátrányos helyzetű vagy a gyermekvédelmi szakellátás keretében átmeneti nevelésbe vett gyermek, tanuló vizsgálatához az Oktatási Hivatal által kijelölt szakszolgálati-esélyegyenlőségi szakértő kirendelésére kerül sor, az Oktatási Hivatal értesítése.
 
 Amennyiben a szülő nem jelenik meg gyermekével a szakértői vizsgálat megjelölt időpontjában, úgy második vizsgálati időpont meghatározása, az időpontról a szülő, értesítése.
 
-Amennyiben a második vizsgálati időpontban sem jelenik meg a szülő gyermekével, – a gyermek, tanuló érdekében – a szakértői bizottság vezetője közigazgatási hatósági eljárás megindítását kezdeményezi a gyermek lakóhelye, tartózkodási helye szerint illetékes járási hivatalnál.
+Amennyiben a második vizsgálati időpontban sem jelenik meg a szülő gyermekével, – a gyermek, tanuló érdekében – a szakértői bizottság vezetője közigazgatási hatósági eljárás megindítását kezdeményezi a gyermek lakóhelye, tartózkodási helye szerint illetékes tankerületi központnál.
 
 3. A szakértői vizsgálat menete
 
@@ -232,4 +232,4 @@ A hivatalból elrendelt felülvizsgálattal megbízott munkatárs a beérkezett 
 
 A bizottságvezető kijelöli a vizsgálatvezetőt és a vizsgálatban résztvevőket, elkészíti a felülvizsgálatok ütemtervét, dönt arról, hogy a felterjesztő intézményben, vagy a bizottság székhelyén történjék-e a vizsgálat, és írásban értesíti az intézményeket a vizsgálat helyéről és időpontjáról.
 
-[^139]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja szerint módosított szöveg.
+[^188]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 20. pontja szerint módosított szöveg.

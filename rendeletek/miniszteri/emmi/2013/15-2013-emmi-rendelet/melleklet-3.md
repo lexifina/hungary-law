@@ -1,4 +1,4 @@
-3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^140]
+3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^189]
 
 A szakértői vélemény elkészítésének szakmai követelményei
 
@@ -188,7 +188,7 @@ A vélemény alapján a különleges bánásmód keretében történő ellátás
 
 A javaslattétel tartalmazza:
 
-– Az intézményes ellátásra vonatkozó javaslatot: a korai fejlesztésre, fejlesztő nevelésre fejlesztő nevelés-oktatásra, óvodai nevelésre, iskolai nevelésre, oktatásra rendelkezésre álló intézmény nevesítését
+– Az intézményes ellátásra vonatkozó javaslatot: a korai fejlesztésre, fejlesztő nevelés-oktatásra, óvodai nevelésre, iskolai nevelésre, oktatásra rendelkezésre álló intézmény nevesítését
 
 – Minden olyan intézményes fejlesztést kiegészítő lehetőséget, amelynek igénybevétele szintén javasolt a gyermek, a tanuló számára az optimális fejlődése szempontjából.
 
@@ -246,7 +246,7 @@ az Nkt.-ban a meghatározott jogosultságok köréből a tanuló érdekét szolg
 
 – Részletes fejlesztési javaslatok
 
-Óvodai nevelésére, iskolai nevelésére-oktatására (csoport/osztályfok meghatározásával), korai fejlesztésére, gondozására, fejlesztő nevelésére javasolt intézmény megnevezése, a beíratás időpontjának meghatározása.
+Óvodai nevelésére, iskolai nevelésére-oktatására (csoport/osztályfok meghatározásával), korai fejlesztésére, gondozására javasolt intézmény megnevezése, a beíratás időpontjának meghatározása.
 
 A hivatalból elrendelt kötelező felülvizsgálat idejének, helyének megjelölése.
 
@@ -394,4 +394,4 @@ A vizsgálatok céljai:
 
 – kognitív képességek és készségek, adaptív készségek, viselkedésproblémák szintjének felmérése
 
-[^140]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja szerint módosított szöveg.
+[^189]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja szerint módosított szöveg.

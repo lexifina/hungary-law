@@ -14,13 +14,13 @@
 
 | 6. | Tagintézményigazgató-helyettes (Tagintézményvezető-helyettes) | Tagintézményenként | 1 |
 
-6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^142]
+6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^191]
 
-1. A pedagógus-munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményei a megyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához
+1. A pedagógus-munkakörben foglalkoztatottak szakképzettségi követelményei a megyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához
 
 |  | A | B | C |
 
-| 1. | A pedagógiai szakszolgálati tevékenység | Pedagógus-munkakör megnevezése | A tevékenység ellátásához szükséges végzettség és szakképzettség |
+| 1. | A pedagógiai szakszolgálati tevékenység | Pedagógus-munkakör megnevezése | A tevékenység ellátásához szükséges szakképzettség |
 
 | 2. | korai fejlesztés és gondozás | gyógypedagógus | gyógypedagógus |
 
@@ -34,9 +34,9 @@
 
 | 7. | konduktor | konduktor |
 
-| 8. | fejlesztő nevelés | gyógypedagógus | gyógypedagógus |
+| 8. |  |  |  |
 
-| 9. | konduktor | konduktor |
+| 9. |  |  |
 
 | 10. | szakértői bizottsági tevékenység | pszichológus | klinikai gyermek szakpszichológus |
 
@@ -54,7 +54,7 @@
 
 | 17. | konduktor | konduktor |
 
-| 18. | nevelési tanácsadás | fejlesztő pedagógus | bármely pedagógus és a beilleszkedési, a tanulási, a magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség |
+| 18. | nevelési tanácsadás | fejlesztő pedagógus | óvodapedagógus, tanító, tanár, szociálpedagógus, konduktor, a továbbiakban meg nem nevezett gyógypedagógus, pedagógia szakos előadó, pedagógia szakos nevelőtanár és a beilleszkedési, a tanulási, a magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség |
 
 | 19. | oligofrénpedagógia szakos gyógypedagógiai tanár, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, gyógypedagógus tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon |
 
@@ -88,9 +88,9 @@
 
 | 34. | óvoda- és iskola-szakpszichológus |
 
-| 35. | tanácsadó pedagógus | bármely egyetemi szintű pedagógus végzettség és szakképzettség |
+| 35. | tanácsadó pedagógus | bármely egyetemi szintű pedagógus szakképzettség |
 
-| 36. | bármely főiskolai szintű pedagógus végzettség és szakképzettség, diáktanácsadás, vagy iskolai tanácsadó és konzultáns pedagógus vagy tanulási és pályatanácsadás vagy pályaorientációs tanár szakirányú továbbképzési szakképzettséggel vagy pályaorientáció szakterületen szerzett szakvizsgával |
+| 36. | bármely főiskolai szintű pedagógus szakképzettség, diáktanácsadás, vagy iskolai tanácsadó és konzultáns pedagógus vagy tanulási és pályatanácsadás vagy pályaorientációs tanár szakirányú továbbképzési szakképzettséggel vagy pályaorientáció szakterületen szerzett szakvizsgával |
 
 | 37. | konduktív pedagógiai ellátás | konduktor | konduktor |
 
@@ -124,4 +124,4 @@
 
 | 2 | Egyéb munkakörök | ügyviteli dolgozó, kisegítő dolgozó, munkaügyi, személyzeti előadó, gazdasági dolgozó, műszaki dolgozó |
 
-[^142]: A 6. melléklet az 53/2016. (XII. 29.) EMMI rendelet 45. §-ával megállapított és 48. § d) pontja, a 24/2017. (X. 3.) EMMI rendelet 26. §-a szerint módosított szöveg.
+[^191]: A 6. melléklet az 53/2016. (XII. 29.) EMMI rendelet 45. §-ával megállapított és 48. § d) pontja, a 24/2017. (X. 3.) EMMI rendelet 26. §-a, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 21. pontja, 12. § (1) bekezdés a), i) és l) pontja szerint módosított szöveg.
