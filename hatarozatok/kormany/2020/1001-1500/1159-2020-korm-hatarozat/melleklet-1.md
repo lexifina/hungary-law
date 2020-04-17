@@ -16,7 +16,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „61,87” szövegrész helyébe a „62,00” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1159/2020. (IV. 15.) Korm. határozathoz
 
@@ -33,3 +33,5 @@
 | 5. | EFOP-4.1.2-17- 2017-00028 | A nyírbogáti Vántus István Általános Iskola infrastrukturális felújítása | Mátészalkai Tankerületi Központ | 837 390 000 | 49 000 000 | – | 886 390 000 | A projekt célja a 4361 Nyírbogát, Hunyadi út 1. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
 
 | 6. | EFOP-4.1.2-17- 2017-00116 | A Bagodi Fekete István Általános Iskola infrastrukturális fejlesztése a hátránykompenzáció elősegítése és a minőségi oktatás megteremtése érdekében | Zalaegerszegi Tankerületi Központ | 610 394 319 | 39 831 906 | – | 650 226 225 | A projekt célja a 8992 Bagod, Kossuth Lajos utca 15. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
