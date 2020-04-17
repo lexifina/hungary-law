@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-16-20-2
 | 2016-06-14 | 2011-16-20-2T.7 | 1/2016. (I. 5.) MvM rendelet |
 | 2017-01-07 | 2011-16-20-2T.8 | 42/2016. (XII. 30.) MvM rendelet |
 | 2018-03-13 | 2011-16-20-2T.9 | 6/2018. (III. 12.) MvM rendelet |
+| 2020-04-17 | 2011-16-20-2T.10 | 4/2020. (IV. 16.) MvM rendelet |

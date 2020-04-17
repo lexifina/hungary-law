@@ -22,7 +22,9 @@ j)[^6] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vona
 
 k)[^7] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2016. évre történő megállapításáról szóló, 2016. október 6-ai (EU) 2016/1872 bizottsági rendelet
 
-l)[^8] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2017. évre történő megállapításáról szóló, 2017. november 22-i (EU) 2017/2119 bizottsági rendelet
+l)[^8] a 3924/91/EGK tanácsi rendeletben meghatározott, ipari termékekre vonatkozó Prodcom-lista 2017. évre történő megállapításáról szóló, 2017. november 22-i (EU) 2017/2119 bizottsági rendelet;
+
+m)[^9] a 3924/91/EGK tanácsi rendeletben meghatározott, az ipari termékekre vonatkozó Prodcom-lista megállapításáról szóló, 2019. november 6-i 2019/1933/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -34,3 +36,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^6]: A 4. § j) pontját az 1/2016. (I. 5.) MvM rendelet 2. §-a iktatta be, szövege a 17/2016. (VI. 13.) MvM rendelet 1. §-ával megállapított szöveg.
 [^7]: A 4. § k) pontját a 42/2016. (XII. 30.) MvM rendelet 1. §-a iktatta be.
 [^8]: A 4. § l) pontját a 6/2018. (III. 12.) MvM rendelet 1. §-a iktatta be.
+[^9]: A 4. § m) pontját a 4/2020. (IV. 16.) MvM rendelet 1. §-a iktatta be.

@@ -1,5 +1,3 @@
-1. melléklet a 16/2011. (V. 10.) KIM rendelethez[^9]
+1. melléklet a 16/2011. (V. 10.) KIM rendelethez[^10]
 
-Ipari Termékosztályozás (ITO)
-
-[^9]: Az 1. melléklet a 6/2018. (III. 12.) MvM rendelet 2. §-ával megállapított szöveg.
+[^10]: Az 1. melléklet a 4/2020. (IV. 16.) MvM rendelet 2. §-ával megállapított szöveg.
