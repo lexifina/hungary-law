@@ -1,0 +1,118 @@
+# A Kormány 129/2020. (IV. 17.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 79. szám, 2020. április 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1LSaLcoqLMDfJwchZIjF5e9761bd260d3/dokumentumok/0f3e5ec670c02ca736f3dc2b01e65c4857f8cd77/letoltes)
+
+---
+
+A Kormány 129/2020. (IV. 17.) Korm. rendelete
+a veszélyhelyzet ideje alatt a közvetítői tevékenységet és a megelőző pártfogói tevékenységet érintő egyes
+intézkedésekről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 12. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus
+elleni védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) A közvetítő a felfüggesztő határozatnak a pártfogó felügyelői szolgálathoz, ha közvetítőként ügyvéd jár el, a hozzá
+történt érkezésétől számított egy hónapon belül tűzi ki az első közvetítői megbeszélés időpontját, feltéve, hogy
+a közvetítői megbeszélés a 3. § alapján megtartható. Ellenkező esetben a közvetítői megbeszélést az elhalasztás
+okának megszűnésével haladéktalanul kell kitűzni.
+(2) Papíralapú kapcsolattartás esetén a közvetítői megbeszélésre az értesítés elsősorban
+a) elektronikus levelezési címre vagy más elektronikus elérhetőségre, illetve
+b) hangkapcsolatot biztosító elektronikus úton
+történik.
+(3) A közvetítő a (2) bekezdés a) pontjában meghatározott esetben az értesítésen feltünteti azt az elektronikus vagy
+hangkapcsolatot biztosító elérhetőségét, amelyen az értesített személy annak hitelességét ellenőrizni tudja.
+(4) A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bktv.)
+10. § (2) bekezdésében meghatározott következmények nem alkalmazhatók, ha
+a) a (2) bekezdésben meghatározott módon történő értesítés átvétele vagy tudomásulvétele nem igazolható,
+vagy
+b) a veszélyhelyzet ideje alatt a sértett vagy a gyanúsított közvetítői megbeszélésen való jelenlétének
+biztosítása telekommunikációs eszköz használatával nem lehetséges.
+(5) Az igazolási kérelem benyújtásának a Bktv. 10. § (3) bekezdésében meghatározott határidejébe a veszélyhelyzet
+ideje nem számít bele.
+2. § (1) A közvetítő – a Bktv. 10/A. § (2) bekezdésétől függetlenül – az ügyészséggel, az elektronikus ügyintézést biztosító
+szervekkel, illetve a Kormány által kijelölt közfeladatot ellátó szervekkel az elektronikus kapcsolattartás helyett
+indokolt esetben egyéb elektronikus úton is tarthat kapcsolatot. A kapcsolattartás formáját közösen határozzák
+meg.
+(2) A közvetítő az elektronikus kapcsolattartásra köteles vagy azt választó sértettel, a gyanúsítottal, a büntetőeljárásról
+szóló 2017. évi XC. törvény (a továbbiakban: Be.) 59. § (1) bekezdés a), c), e)–h) és m) pontjában meghatározott
+segítőjükkel, a védővel vagy a Bktv. 7. § (8) bekezdésében meghatározott személlyel kérelmére az általa megjelölt
+egyéb elektronikus úton tarthat kapcsolatot. A kérelem egyéb elektronikus úton is előterjeszthető.
+(3) Az elektronikus kapcsolattartásra nem köteles (2) bekezdésben meghatározott személy az egyéb elektronikus úton
+történő kapcsolattartást is választhatja.
+(4) A közvetítő eljárásban a Be. 161. § (1)–(3) bekezdése nem alkalmazható.
+(5) Az egyéb elektronikus úton történő kapcsolattartás papíralapú kapcsolattartásnak minősül.
+3. § (1) A közvetítő a közvetítői megbeszélést elhalasztja, ha közvetítői megbeszélésen a személyes jelenlét
+a) az ügy körülményeire figyelemmel különösen indokolt, és
+b) az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével járna,
+vagy a jelen levő személyek testi épségét, egészségét veszélyeztetné.
+
+(2) A közvetítő a közvetítői megbeszélésen való jelenlétet telekommunikációs eszköz útján biztosítja, ha a közvetítői
+megbeszélésen a személyes jelenlét az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés
+szabályainak megszegésével járna, és a közvetítői megbeszélés nem halasztható el, vagy a jelen levő személyek testi
+épségét, egészségét veszélyeztetné.
+4. § (1) A közvetítői megbeszélés lefolytatható a sértett és a gyanúsított egyidejű, telekommunikációs eszköz használatával
+biztosított jelenlétével is, valamint a segítő, a védő és a Bktv. 7. § (8) bekezdésében meghatározott személy jelenléte
+is biztosítható telekommunikációs eszköz használatával. Erre a Be. XX. Fejezetének szabályait a (2)–(8) bekezdésben
+meghatározott eltérésekkel kell alkalmazni.
+(2) A közvetítői megbeszélésen a sértett és a gyanúsított, valamint a segítő, a védő és a Bktv. 7. § (8) bekezdésében
+meghatározott személy, illetve a közvetítő közötti kapcsolatot folyamatos hangfelvétel továbbítása is biztosíthatja.
+(3) A közvetítő az értesítéssel egyidejűleg közli a telekommunikációs eszköz használatát elrendelő döntését. A döntés
+ellen jogorvoslatnak nincs helye, de a sértett és a gyanúsított a döntés közlésétől számított öt munkanapon belül
+kérelmezheti, hogy a közvetítő a személyes jelenlétét a közvetítői megbeszélésen biztosítsa.
+(4) A sértett és a gyanúsított (3) bekezdésben meghatározott kérelmére a közvetítő elhalasztja a közvetítői
+megbeszélést, ha a közvetítői megbeszélésen a személyes jelenlét a 3. § (1) bekezdés b) pontjára figyelemmel nem
+biztosítható.
+(5) Telekommunikációs eszköz használata esetén az elkülönített helyszínen nem szükséges a Be. 123. §-ában
+meghatározott személyek jelenléte.
+(6) Telekommunikációs eszköz használata esetén a felvétel bármilyen elektronikus módon rögzíthető. A rögzített
+felvételt a feljegyzéssel együtt, a feljegyzésre vonatkozó szabályok szerint kell kezelni.
+(7) Telekommunikációs eszköz használata esetén a közvetítő az elkülönített helyszínen jelen levő személy
+személyazonosságát a személyes adatainak egyeztetésével és más olyan módon ellenőrzi, amely alapján az érintett
+személy kiléte megállapítható.
+(8) Ha a közvetítői megbeszélés során észszerű kétely mutatkozik az érintett személy személyazonosságával,
+a közvetítői megbeszélésen való részvételének önkéntességével vagy befolyásmentességével kapcsolatban, akkor
+a közvetítői megbeszélés az érintett személlyel nem folytatható.
+5. §
+Ha a közvetítői megbeszélés a sértett és a gyanúsított egyidejű jelenlétében a 4. § alkalmazásával sem tartható meg,
+a közvetítői megbeszélés – ideértve a megállapodás megkötését is – a sértett és a gyanúsított hozzájárulásával úgy
+is lefolytatható, hogy azon – személyesen vagy telekommunikációs eszköz útján – nem egyidejűleg vannak jelen.
+6. § (1) A közvetítői megbeszélésről készült feljegyzésben rögzíteni kell
+a) a telekommunikációs eszköz használatának tényét és módját,
+b) annak a személynek a megjelölését, akinek a jelenlétét telekommunikációs eszköz útján biztosítják, valamint
+c) a Bktv.-ben meghatározott egyéb tényeket és körülményeket.
+(2) A megállapodás megkötésekor a Bktv. 11. § (6) bekezdésében meghatározott személyek jelenléte
+telekommunikációs eszköz használatával is biztosítható.
+7. §
+A megállapodásról kiállított okiratot a sértett és a gyanúsított is aláírja, vagy írásban vagy bármilyen elektronikus
+módon rögzített olyan nyilatkozatával elfogadja, amely alkalmas annak igazolására, hogy a megállapodás tartalmát
+megismerte és elfogadta.
+8. §
+A Bktv. 15. § (1) bekezdés h) pontjában meghatározott időtartamba a veszélyhelyzet ideje nem számít bele, feltéve,
+hogy a megállapodás megkötése a továbbiakban is várható.
+9. §
+A szabálysértési ügyekben alkalmazható közvetítői eljárás során a közvetítő az 1–8. § megfelelő alkalmazásával jár
+el.
+10. § (1) A pártfogó felügyelő a megelőző pártfogás elrendelése iránti eljárásban kért környezettanulmány elkészítése és
+a megelőző pártfogás végrehajtása során feladatát az együttműködésre köteles személyekkel történő írásbeli, kép-
+és hangkapcsolatot vagy hangkapcsolatot biztosító elektronikus kapcsolattartás útján is elláthatja.
+(2) Az (1) bekezdésben meghatározott kapcsolattartás során elhangzottakat lehetőség szerint – bármilyen elektronikus
+módon – rögzíteni kell.
+
+(3) A pártfogó felügyelő az (1) bekezdésben meghatározott kapcsolattartás során az érintett személy
+személyazonosságát a személyes adatainak egyeztetésével és más olyan módon ellenőrzi, amely alapján az érintett
+személy kiléte megállapítható.
+(4) Ha az (1) bekezdésben meghatározott kapcsolattartás során észszerű kétely mutatkozik az érintett személy
+személyazonosságával, közreműködésének önkéntességével vagy befolyásmentességével kapcsolatban, akkor
+az elektronikus kapcsolattartás vele nem folytatható.
+11. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 12. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+12. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+13. §
+E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök

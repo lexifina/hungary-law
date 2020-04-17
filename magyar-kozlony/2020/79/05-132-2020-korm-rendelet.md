@@ -1,0 +1,112 @@
+# A Kormány 132/2020. (IV. 17.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 79. szám, 2020. április 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1LSaLcoqLMDfJwchZIjF5e9761bd260d3/dokumentumok/0f3e5ec670c02ca736f3dc2b01e65c4857f8cd77/letoltes)
+
+---
+
+A Kormány 132/2020. (IV. 17.) Korm. rendelete
+a veszélyhelyzet során az elektronikus azonosítási feltételekkel, a végrehajtással és a médiaszolgáltatási
+díjjal kapcsolatos egyes jogszabályok eltérő alkalmazásáról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 10. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus
+elleni védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. A minősített elektronikus aláírás tanúsítványhoz szükséges azonosítási feltételekkel kapcsolatos
+eltérő rendelkezések
+1. §
+A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel kihirdetett veszélyhelyzet (a továbbiakban:
+veszélyhelyzet) megszűnéséig az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló
+2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 82. § (2) bekezdésétől eltérően a minősített bizalmi szolgáltatás
+esetén az Eüsztv. szerinti bizalmi szolgáltató (a továbbiakban: bizalmi szolgáltató) a személyazonosságot
+e rendeletben foglaltak szerint is ellenőrizheti.
+2. §
+Minősített bizalmi szolgáltatás esetén a bizalmi szolgáltató a személyazonosságot videotechnológiát biztosító
+elektronikus hírközlő eszköz útján (a továbbiakban: videotechnológiás azonosítás) is ellenőrizheti.
+3. § (1) Videotechnológiás azonosítás esetén a bizalmi szolgáltató összeveti az ügyfélről készített fényképet és
+az azonosításhoz felhasznált, a (4) bekezdés c) pontja szerinti okiratban szereplő képmást. Az azonosítás akkor
+megfelelő, amennyiben a szolgáltató által megnyugtatóan megállapítható, hogy az okiratban szereplő személy
+azonos a fénykép- vagy videofelvételen szereplő személlyel.
+(2) A bizalmi szolgáltató biztosítja, hogy az ügyfél a videotechnológiás azonosítás feltételeit részletesen megismerte, és
+ahhoz kifejezetten hozzájárult.
+(3) A bizalmi szolgáltató a videotechnológiás azonosítás során a bizalmi szolgáltató és az ügyfél között létrejött teljes
+kommunikációt, az ügyfél videotechnológiás azonosítással kapcsolatos részletes tájékoztatását és az ügyfél
+ehhez történő kifejezett hozzájárulását visszakereshető módon, kép- és hangfelvételen – a kép- és hangfelvétel
+minőségének romlását kizáró módon – rögzíti, és azt a felvételtől számított öt évig megőrzi.
+(4) A sikeres videotechnológiás azonosítás feltétele, hogy a videotechnológiás azonosítást lehetővé tévő elektronikus
+hírközlő eszköz képfelbontása és a kép megvilágítása alkalmas legyen az ügyfél nemének, korának, arcjellemzőinek
+felismerésére, valamint az ügyfél
+a) úgy nézzen bele a kamerába, hogy arcképe felismerhető és rögzíthető legyen,
+b) érthető módon közölje a videotechnológiás azonosításhoz használt okmány azonosítóját, és
+c) úgy mozgassa a videotechnológiás azonosításhoz használt személyazonosság igazolására alkalmas
+okmányát (a továbbiakban: okmány), hogy az azon található biztonsági elemek és adatsorok felismerhetőek
+és rögzíthetőek legyenek.
+(5) A videotechnológiás azonosítást végző bizalmi szolgáltató köteles megbizonyosodni arról, hogy az okmány
+alkalmas a videotechnológiás azonosítás elvégzésére, így
+a) az okmány megfelel az okmányt kiállító hatóság előírásainak,
+b) az egyes biztonsági elemek – különösen a hologram, a kinegram vagy ezekkel megegyező más biztonsági
+elemek – felismerhetőek és sérülésmentesek, és
+c) az okmány azonosítója megegyezik az ügyfél által közölt okmányazonosítóval, felismerhető és sérülésmentes.
+(6) A videotechnológiás azonosítás során a bizalmi szolgáltató feladata, hogy megbizonyosodjon arról, hogy
+a) az ügyfél arcképe felismerhető és azonosítható az általa bemutatott okmányon látható arckép alapján, és
+b) az okmányon megtalálható adatok logikailag megfeleltethetők az ügyfélről a bizalmi szolgáltatónál
+rendelkezésre álló adatokkal.
+
+(7) Nincs helye videotechnológiás azonosítást követő szerződéskötésnek, ha a videotechnológiás azonosítás e §-ban
+foglaltaknak nem felelt meg.
+4. § (1) A videotechnológiás azonosítást követően a bizalmi szolgáltató az Eüsztv. 82. § (3)–(9) bekezdése szerint jár el azzal,
+hogy a videotechnológiás azonosítást személyes jelenléttel történő azonosításnak kell tekinteni.
+(2) Az ügyfél részére a tanúsítvány, valamint a minősített aláírást létrehozó eszköz a bizalmi szolgáltató és az ügyfél
+közötti szerződésben meghatározott részletszabályok szerint az ügyfél részére is megküldhető, valamint
+elektronikusan továbbítható.
+(3) A videotechnológiás azonosítás útján biztosított tanúsítvány a kiállítástól számított hat hónapig érvényes.
+5. § (1) A kormányzati hitelesítésszolgáltató az elektronikus ügyintézést biztosító szerv (a továbbiakban: szolgáltatást
+igénybevevő szerv) tekintetében a szolgáltatást igénybevevő szerv nevében eljáró természetes személy
+azonosságának ellenőrzésére és a tanúsítványok (valamint a kapcsolódó adatok, eszközök) átadására
+a veszélyhelyzet ideje alatt az Eüsztv. 82. § (2) bekezdésétől eltérően az e § szerinti eljárást is alkalmazhatja.
+(2) Az ügyintézésben közreműködő személy elektronikus aláíráshoz szükséges adatokkal, valamint eszközökkel történő
+ellátásához a regisztráció – ideértve az aláírás létrehozásához szükséges adatok, eszközök átadását, valamint
+a személy azonosságának ellenőrzését – a szolgáltatást igénybevevő szerv kijelölt munkatársa által, a szerv saját
+személyzeti nyilvántartására alapozva is lefolytatható.
+(3) A (2) bekezdésben foglalt igénylésre vonatkozó részletszabályokat – ideértve a szolgáltatást igénybevevő szerv
+kijelölt munkatársának hivatalos elérhetőségi adatait, valamint a feladatok elvégzésének igazolását – a kormányzati
+hitelesítésszolgáltató és a szolgáltatást igénybevevő szerv külön szerződésben rögzíti.
+(4) A kormányzati hitelesítésszolgáltató a tanúsítványt – az Eüsztv. 82. § (3) és (4) bekezdése szerinti adatellenőrzést
+követően – a szolgáltatást igénybevevő szervtől kapott igénylés alapján állítja ki.
+(5) A szolgáltatást igénybevevő szerv nevében eljáró természetes személyek részére a tanúsítvány, valamint
+a minősített aláírást létrehozó eszköz a (3) bekezdés szerinti szerződésben meghatározott részletszabályok szerint
+a szolgáltatást igénybevevő szerv részére is megküldhető, valamint elektronikusan továbbítható.
+(6) Az e § szerint biztosított tanúsítvány a kiállítástól számított hat hónapig érvényes.
+6. §
+A belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi
+szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU
+európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdés d) pontjától eltérően a videotechnológiás azonosítás,
+valamint az 5. § szerinti azonosítás esetében a biztonság egyenértékűségét megfelelőségértékelő szervezetnek nem
+kell igazolnia.
+2. A végrehajtással kapcsolatos eltérő rendelkezések
+7. § (1) A végrehajtás során az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány
+megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása
+érdekében elrendelt veszélyhelyzet során a végrehajtással kapcsolatban teendő intézkedésekről szóló 57/2020.
+(III. 23.) Korm. rendelet 6. §-a szerint meghatározott cselekményre vonatkozó rendelkezéseket nem kell alkalmazni
+olyan meghatározott cselekmény foganatosítása esetén, amelyet az elrendelő hatóságok maguk hajtanak végre, és
+amelynek egyúttal célja az emberi élet vagy egészség megóvása, illetve az élet- és vagyonbiztonságot veszélyeztető
+tömeges megbetegedést okozó humánjárvány következményeinek elhárítása.
+(2) Járványügyi intézkedés hatálya alatt álló helyen e § ellenére sem lehet eljárási cselekményt foganatosítani.
+3. A médiaszolgáltatási díjjal kapcsolatos eltérő rendelkezések
+8. §
+A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 44. §-ától és 63. §
+(9) bekezdésétől eltérően a veszélyhelyzetre tekintettel a fizetésre kötelezettek mentesülnek a 2020. év második
+negyedévre vonatkozó médiaszolgáltatási díjfizetési kötelezettség alól.
+
+4. Záró rendelkezések
+9. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 10. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+10. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+11. §
+E rendelet 7. §-át a rendelet hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök
