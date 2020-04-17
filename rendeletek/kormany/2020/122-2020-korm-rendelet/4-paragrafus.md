@@ -1,0 +1,1 @@
+## 3. § A hatályos igazolvánnyal rendelkező mezőgazdasági őstermelő esetében az értékesítési betétlap akkor is az adóév első napjától hatályos, ha a betétlapot az őstermelő – a mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet 3. § (6) bekezdés a) pontjától eltérően – az adóévben a veszélyhelyzet megszűnését követő 30 napon belül kérelmezi.
