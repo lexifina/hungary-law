@@ -1,3 +1,3 @@
-## 5. § Az R. 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(5) A pedagógiai szakszolgálati feladatok országosan egységes szakmai irányítását a miniszter látja el.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

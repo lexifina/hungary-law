@@ -1,3 +1,3 @@
-## 6. § Az R. 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „(2) Ha a gyermek, a tanuló gyógypedagógiai intézményben történő nevelése, oktatása azért nem szervezhető meg, mert az Intézmény által vezetett jegyzékben nincsen megfelelő óvoda, iskola, a szakértői bizottság a szakértői véleményét megküldi a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes tankerületi igazgatónak. A tankerületi igazgató – szakképzésben részt vevő vagy szakképzésbe jelentkező tanuló esetén a szakképzési centrum vezetőjének egyetértésével – intézkedik arról, hogy a gyermek, tanuló kötelező felvételét ellátó nevelési-oktatási, illetve szakképző intézmény kijelölésre kerüljön. A tankerületi igazgató tizenöt napon belül tájékoztatja az intézkedéséről a szakértői bizottságot.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

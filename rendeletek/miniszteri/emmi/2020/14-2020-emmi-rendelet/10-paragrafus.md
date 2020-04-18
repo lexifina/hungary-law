@@ -1,3 +1,3 @@
-## 9. § Az R. 17. alcíme a következő 45/D. §-sal egészül ki:
+## 9. §[^9]
 
-## „45/D. § Ha e rendelet a szülő részére kötelezettséget vagy jogot állapít meg, nagykorú, cselekvőképes tanuló, képzésben részt vevő személy esetén a kötelezettség teljesítése és a jog gyakorlása a tanulót, képzésben részt vevő személyt terheli vagy illeti meg.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
