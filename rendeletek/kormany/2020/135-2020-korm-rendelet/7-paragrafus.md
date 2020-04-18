@@ -1,0 +1,3 @@
+7. § (1) A különleges gazdasági övezet kijelöléséről szóló kormányrendelet hatálybalépésének napján a helyi iparűzési adó alanyának a különleges gazdasági övezet fekvése szerinti települési önkormányzat illetékességi területén fennálló iparűzési adókötelezettsége megszűnik, amelyet az állandó jellegű iparűzési tevékenység utáni adókötelezettség szempontjából úgy kell tekinteni, mintha az iparűzési adó alanya székhelyét áthelyezte, telephelyét megszüntette volna.
+
+(2) A különleges gazdasági övezet fekvése szerinti megyei önkormányzat illetékességi területén a helyi iparűzési adókötelezettség a különleges gazdasági övezet kijelöléséről szóló kormányrendelet hatálybalépésének napját követő napon keletkezik.

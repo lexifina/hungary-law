@@ -1,0 +1,3 @@
+8. § (1) Ha az adóalany előrehozott adót fizetett a különleges gazdasági övezet fekvése szerinti települési önkormányzat számára, akkor a be nem számított előrehozott adót a település önkormányzati adóhatóságától visszaigényelheti az adózás rendjéről szóló törvény túlfizetésre vonatkozó szabályai szerint.
+
+(2) A különleges gazdasági övezet kijelöléséről szóló kormányrendelet hatálybalépését követő harminc napon belül a különleges gazdasági övezet fekvése szerinti település önkormányzati adóhatósága a különleges gazdasági övezet területén lévő épület, épületrész, telek tekintetében, hozzá benyújtott építményadó-, telekadó-, magánszemély kommunális adója bevallást, adatbejelentést az állami adóhatóság részére – adókivetés céljából – átadja.
