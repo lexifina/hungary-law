@@ -1,1 +1,1 @@
-22. §
+22. § Az EKtv. 1. § c) pontjában az „a 764/2008/EK európai parlamenti és tanácsi rendelet 2. cikkének (2) bekezdése” szövegrész helyébe az „az (EU) 2019/515 európai parlamenti és tanácsi rendelet 2. cikkének (2) bekezdése” szöveg lép.
