@@ -1,4 +1,4 @@
-50/E. §[^251] (1) A haszonbérlő és a vagyonkezelő a földhasználati jogviszonyának megszűnésekor, vagy a szerződésben meghatározott esetben köteles a földrészlet értékének az átvételkor fennálló állapothoz viszonyított, a gazdálkodási tevékenységével összefüggésben keletkezett értékkülönbözetével (értékcsökkenésével vagy értéknövekedésével) a szerződés és e rendelet előírásai szerint elszámolni.
+50/E. §[^255] (1) A haszonbérlő és a vagyonkezelő a földhasználati jogviszonyának megszűnésekor, vagy a szerződésben meghatározott esetben köteles a földrészlet értékének az átvételkor fennálló állapothoz viszonyított, a gazdálkodási tevékenységével összefüggésben keletkezett értékkülönbözetével (értékcsökkenésével vagy értéknövekedésével) a szerződés és e rendelet előírásai szerint elszámolni.
 
 (2) Amennyiben azonos földrészletre az elszámolási kötelezettséggel járó szerződés megszűnését követően a haszonbérlő vagy a vagyonkezelő földhasználati jogosultsága azonos vagy más jogcímen változatlanul fennáll, az elszámolásra haszonbérlő és a vagyonkezelő az újabb földhasználati jogviszonyának megszűnésekor jogosult és köteles.
 
@@ -26,4 +26,4 @@
 
 (14) Az e rendeletben foglalt értéknövelő beruházásokkal kapcsolatos elszámolási szabályok megfelelően vonatkoznak az egyéb jogcímen földhasználatra jogosultak értéknövelő beruházásokkal kapcsolatos elszámolási igényére.
 
-[^251]: Az 50/E. §-t a 159/2019. (VI. 28.) Korm. rendelet 36. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^255]: Az 50/E. §-t a 159/2019. (VI. 28.) Korm. rendelet 36. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.

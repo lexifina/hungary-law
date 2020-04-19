@@ -1,4 +1,4 @@
-7. § (1)[^45] A földrészlet nyilvános pályázat útján történő haszonbérbe adására irányuló pályázati felhívásnak tartalmaznia kell:
+7. § (1)[^46] A földrészlet nyilvános pályázat útján történő haszonbérbe adására irányuló pályázati felhívásnak tartalmaznia kell:
 
 1. a pályázati felhívást kiíró megnevezését és székhelyét;
 
@@ -42,11 +42,11 @@
 
 19. a birtokba lépés várható időpontját.
 
-(1a)[^46] Ha a haszonbérleti pályázati felhívás tárgyát képező birtoktest a Földforgalmi tv. hatálya alá tartozó földrészletet tartalmaz, akkor a pályázati felhívásnak – a Földforgalmi tv. 44. §-ában foglalt előírások figyelembevételével – tartalmaznia kell a haszonbérleti jogviszony időtartamát.
+(1a)[^47] Ha a haszonbérleti pályázati felhívás tárgyát képező birtoktest a Földforgalmi tv. hatálya alá tartozó földrészletet tartalmaz, akkor a pályázati felhívásnak – a Földforgalmi tv. 44. §-ában foglalt előírások figyelembevételével – tartalmaznia kell a haszonbérleti jogviszony időtartamát.
 
-(1b)[^47] Ha a haszonbérleti pályázati felhívás tárgyát képező birtoktest a Földforgalmi tv. hatálya alá tartozó földrészletet tartalmaz, a pályázati felhívásnak tartalmaznia kell továbbá a figyelemfelhívást arra vonatkozóan, hogy a pályázati eljárásban pályázóként az a természetes személy, illetve gazdálkodó szervezet vehet részt, aki a Földforgalmi tv. alapján földhasználati jogosultsággal rendelkezik, továbbá tájékoztatást arra vonatkozóan, hogy a pályázati eljárás során az előhaszonbérleti jog nem gyakorolható.
+(1b)[^48] Ha a haszonbérleti pályázati felhívás tárgyát képező birtoktest a Földforgalmi tv. hatálya alá tartozó földrészletet tartalmaz, a pályázati felhívásnak tartalmaznia kell továbbá a figyelemfelhívást arra vonatkozóan, hogy a pályázati eljárásban pályázóként az a természetes személy, illetve gazdálkodó szervezet vehet részt, aki a Földforgalmi tv. alapján földhasználati jogosultsággal rendelkezik, továbbá tájékoztatást arra vonatkozóan, hogy a pályázati eljárás során az előhaszonbérleti jog nem gyakorolható.
 
-(2)[^48] A pályázati kiírás a pályázati felhívásban foglalt adatokon túl tartalmazza:
+(2)[^49] A pályázati kiírás a pályázati felhívásban foglalt adatokon túl tartalmazza:
 
 1. a pályázat hivatalos nyelvének megjelölését;
 
@@ -78,28 +78,28 @@
 
 15. annak rögzítését, hogy a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok.
 
-(3)[^49]
+(3)[^50]
 
-(4)[^50] Ha a haszonbérleti pályázati felhívás tárgyát védett természeti terület, Natura 2000 terület, vízvédelmi terület, védetté nyilvánított régészeti lelőhely, régészeti védőövezet, műemlék vagy parti sávval érintett ingatlan képezi, az (1) bekezdés 12. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó, a feladatköre által érintett miniszter által az NFK rendelkezésére bocsátott hasznosítási előírásokat.
+(4)[^51] Ha a haszonbérleti pályázati felhívás tárgyát védett természeti terület, Natura 2000 terület, vízvédelmi terület, védetté nyilvánított régészeti lelőhely, régészeti védőövezet, műemlék vagy parti sávval érintett ingatlan képezi, az (1) bekezdés 12. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó, a feladatköre által érintett miniszter által az NFK rendelkezésére bocsátott hasznosítási előírásokat.
 
-(5)[^51]
+(5)[^52]
 
-(6)[^52]
+(6)[^53]
 
-(7)[^53]
+(7)[^54]
 
-(8)[^54]
+(8)[^55]
 
-(9)[^55]
+(9)[^56]
 
-[^45]: A 7. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^46]: A 7. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^47]: A 7. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^48]: A 7. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^49]: A 7. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^50]: A 7. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^51]: A 7. § (5) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^52]: A 7. § (6) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^53]: A 7. § (7) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^54]: A 7. § (8) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^55]: A 7. § (9) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^46]: A 7. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^47]: A 7. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^48]: A 7. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^49]: A 7. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^50]: A 7. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^51]: A 7. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^52]: A 7. § (5) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^53]: A 7. § (6) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^54]: A 7. § (7) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^55]: A 7. § (8) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^56]: A 7. § (9) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.

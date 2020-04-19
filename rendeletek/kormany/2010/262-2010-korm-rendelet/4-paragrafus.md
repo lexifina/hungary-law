@@ -6,9 +6,9 @@
 
 (2b)[^24] Nem kötelező helyszíni szemle lefolytatása a kizárólag szántó, rét, legelő alrészletet tartalmazó földrészlet értékesítését megalapozó értékbecslés elkészítéséhez, ha a földrészletben a Magyar Állam tulajdonrésze nem haladja meg a 10 hektárt.
 
-(2c)[^25] Ha az NFK tudomással bír arról, hogy a (2b) bekezdés alá tartozó földrészlet természetbeni állapota eltér az ingatlan-nyilvántartásban feltüntetett művelési ágtól, az értékbecslés elkészítése előtt a természetbeni és az ingatlan-nyilvántartási állapot egyezőségének biztosítása szükséges.
+(2c)[^25] Ha az NFK tudomással bír arról, hogy a (2b) bekezdés alá tartozó földrészlet természetbeni állapota eltér az ingatlan-nyilvántartásban feltüntetett művelési ágtól vagy a földrészlet értéknövelő beruházással érintett, azt köteles az értékbecslés megrendelésekor jelezni.
 
-(2d)[^26] Ha az értékbecslés készítése során a szakértő tudomására jut, hogy a földrészlet természetbeni állapota eltér az ingatlan-nyilvántartásban feltüntetett művelési ágtól vagy a földrészlet értéknövelő beruházással érintett, a (2c) bekezdés alkalmazandó.
+(2d)[^26] Ha a (2c) bekezdésben foglalt jelzés alapján vagy az értékbecslés készítése során egyéb módon a szakértő tudomására jut, hogy a földrészlet természetbeni állapota úgy tér el az ingatlan-nyilvántartásban feltüntetett művelési ágtól, hogy az a természetben nem kizárólag szántó, rét, legelő alrészletet tartalmaz, vagy a földrészlet értéknövelő beruházással érintett, a (2b) bekezdés nem alkalmazható.
 
 (2e)[^27] A (2b) bekezdésben foglaltak nem alkalmazhatóak, ha
 
@@ -29,8 +29,8 @@ b) az ingatlan a helyi építési szabályzat alapján nem mezőgazdasági övez
 [^22]: A 4. § (2) bekezdése a 285/2015. (X. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^23]: A 4. § (2a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^24]: A 4. § (2b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^25]: A 4. § (2c) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^26]: A 4. § (2d) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^25]: A 4. § (2c) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 111/2020. (IV. 14.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd a 159/2019. (VI. 28.) Korm. rendelet 56. §-át.
+[^26]: A 4. § (2d) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 111/2020. (IV. 14.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd a 159/2019. (VI. 28.) Korm. rendelet 56. §-át.
 [^27]: A 4. § (2e) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^28]: A 4. § (2f) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^29]: A 4. § (2g) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.

@@ -1,4 +1,4 @@
-7/A. §[^56] (1) A földrészlet nyilvános pályázat útján történő eladására irányuló pályázati felhívásnak tartalmaznia kell:
+7/A. §[^57] (1) A földrészlet nyilvános pályázat útján történő eladására irányuló pályázati felhívásnak tartalmaznia kell:
 
 1. a pályázati felhívást kiíró megnevezését és székhelyét;
 
@@ -78,6 +78,9 @@
 
 16. haszonbérleti szerződéssel terhelt földrészlet értékesítése esetén a haszonbérleti szerződés módosításával, továbbá elszámolási kötelezettséggel érintett ingatlan esetében az elszámolással kapcsolatos, az adásvételi szerződésben rögzítendő kötelezettségeket;
 
-17. a birtokba lépés várható időpontját.
+17. a birtokba lépés várható időpontját;
 
-[^56]: A 7/A. §-t a 159/2019. (VI. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+18.[^58] az értékesítésre kerülő földrészletre vonatkozó 20 éves visszavásárlási jogra, valamint elidegenítési és terhelési tilalomra vonatkozó utalást.
+
+[^57]: A 7/A. §-t a 159/2019. (VI. 28.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^58]: A 7/A. § (3) bekezdés 18. pontját a 111/2020. (IV. 14.) Korm. rendelet 3. §-a iktatta be.

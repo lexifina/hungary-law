@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-262-20-
 | 2018-01-01 | 2010-262-20-22.21 | 393/2017. (XII. 13.) Korm. rendelet |
 | 2019-07-01 | 2010-262-20-22.22 | 159/2019. (VI. 28.) Korm. rendelet |
 | 2020-03-01 | 2010-262-20-22.23 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2020-04-19 | 2010-262-20-22.24 | 111/2020. (IV. 14.) Korm. rendelet |
