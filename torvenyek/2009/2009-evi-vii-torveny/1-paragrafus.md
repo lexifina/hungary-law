@@ -4,4 +4,4 @@ a) áru: az Európai Közösség létrehozásáról szóló szerződés (a tová
 
 b) kényszerítő követelmény: az EK-Szerződés 30. cikkében meghatározott közérdekű indok, valamint az Európai Bíróság által az EK-Szerződés 28. és 30. cikke alkalmazásában ilyenként elismert közérdek, így különösen a fogyasztók érdekeinek védelme, a környezetvédelem, az adóügyi ellenőrzés hatékonyságának biztosítása, a kereskedelmi ügyletek tisztességességének biztosítása, a sajtó sokszínűségének biztosítása, a kultúra védelme, a munkakörülmények javítása;
 
-c) műszaki szabály: jogszabályban meghatározott, a 764/2008/EK európai parlamenti és tanácsi rendelet 2. cikkének (2) bekezdése szerinti előírás.
+c) műszaki szabály: jogszabályban meghatározott, az (EU) 2019/515 európai parlamenti és tanácsi rendelet 2. cikkének (2) bekezdése szerinti előírás.
