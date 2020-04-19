@@ -34,4 +34,4 @@
 
 3. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez[^14]
 
-[^14]: A 3. számú melléklet a 98/2014. (III. 25.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^14]: A 3. számú melléklet a 111/2020. (IV. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
