@@ -1,3 +1,3 @@
-33. §[^35]
+33. §[^36]
 
-[^35]: A 33. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés f) pontja hatályon kívül helyezte.
+[^36]: A 33. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés f) pontja hatályon kívül helyezte.
