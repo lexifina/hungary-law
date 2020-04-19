@@ -1,0 +1,5 @@
+## 8. § A Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló 168/2014. (VII. 18.) Korm. rendelet [a továbbiakban: 168/2014. (VII. 18.) Korm. rendelet] 5. § i) pontja helyébe a következő rendelkezés lép:
+
+## (A Kincstár a NÉBIH szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:)
+
+## „i) a tejkvóta-nyilvántartással, valamint a hízottbika-tartás, az anyatehén-tartás, a tejhasznú tehéntartás, az anyajuh-tartás és anyakecske-tartás támogatásával, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a genetikai erőforrások megőrzése intézkedés keretében a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzéséhez nyújtandó támogatással, valamint a tejágazat szerkezetátalakítását kísérő állatjóléti támogatással kapcsolatos, az élelmiszerlánc-felügyeleti információs rendszerhez (FELIR) kapcsolódó adatszolgáltatás és azok alapján elvégzett – kereszt vagy adminisztratív – ellenőrzés;”

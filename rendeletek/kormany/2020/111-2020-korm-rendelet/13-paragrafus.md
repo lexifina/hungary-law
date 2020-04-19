@@ -1,0 +1,1 @@
+## „e) szakmai értekezletet, egyeztetést tart, a mezőgazdasági és vidékfejlesztési támogatási szervet javaslattételre, véleményezésre felkéri, amely javaslattétel, illetve véleményezés kiterjed a Közös Agrárpolitika 2021–2027 tervezési dokumentációjára is;”
