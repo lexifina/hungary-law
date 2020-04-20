@@ -1,3 +1,3 @@
-## 9. § A 168/2014. (VII. 18.) Korm. rendelet 9. §-a helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „9. § A Kincstár szakértő közreműködését veheti igénybe a fehér cukor magántárolásának támogatása esetében a helyszíni ellenőrzés során vett minta laboratóriumi vizsgálatához.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

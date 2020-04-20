@@ -1,3 +1,5 @@
-## 17. § Hatályát veszti a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 46. § (5) bekezdése.
+## 17. §[^18]
 
 ## 8. Záró rendelkezések
+
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

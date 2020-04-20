@@ -1,5 +1,3 @@
-## 3. § A 262/2010. (XI. 17.) Korm. rendelet 7/A. § (3) bekezdése a következő 18. ponttal egészül ki:
+## 3. §[^4]
 
-## (Az értékesítési pályázati kiírás a pályázati felhívásban foglalt adatokon túl tartalmazza)
-
-## „18. az értékesítésre kerülő földrészletre vonatkozó 20 éves visszavásárlási jogra, valamint elidegenítési és terhelési tilalomra vonatkozó utalást.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

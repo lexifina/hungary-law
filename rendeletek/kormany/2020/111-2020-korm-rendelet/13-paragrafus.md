@@ -1,1 +1,3 @@
-## „e) szakmai értekezletet, egyeztetést tart, a mezőgazdasági és vidékfejlesztési támogatási szervet javaslattételre, véleményezésre felkéri, amely javaslattétel, illetve véleményezés kiterjed a Közös Agrárpolitika 2021–2027 tervezési dokumentációjára is;”
+## 12. §[^13]
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
