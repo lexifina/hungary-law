@@ -14,7 +14,13 @@ agrárminiszter
 
 Határidő: folyamatos
 
-2. felhívja az innovációért és technológiáért felelős minisztert, hogy a mikro-, kis- és középvállalkozások hitelezésének támogatása keretében gondoskodjon az intézményi garanciarendszer addicionális finanszírozásának növeléséhez szükséges intézkedésekről szóló 1783/2018. (XII. 21.) Korm. határozat 2. pontjában foglalt addicionalitási kritériumoknak megfelelő, a hitelintézetek által 2019. január 1-jétől kibocsátott legfeljebb tizenöt év futamidejű éven túli beruházási és fejlesztési, valamint a négy évet meghaladó, de legfeljebb tizenöt év futamidejű forgóeszköz finanszírozási új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióit – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 0,4%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,9%-át;
+2.[^1] felhívja az innovációért és technológiáért felelős minisztert, hogy a mikro-, kis- és középvállalkozások hitelezésének támogatása keretében
+
+a) gondoskodjon az intézményi garanciarendszer addicionális finanszírozásának növeléséhez szükséges intézkedésekről szóló 1783/2018. (XII. 21.) Korm. határozat 2. pontjában foglalt addicionalitási kritériumoknak megfelelő, a hitelintézetek által 2019. január 1. és 2020. április 20. napja között kibocsátott, legfeljebb tizenöt év futamidejű, éven túli beruházási és fejlesztési, valamint a négy évet meghaladó, de legfeljebb tizenöt év futamidejű forgóeszköz finanszírozási új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióit – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 0,4%-át kitevő mértékű garanciadíj-támogatás biztosításáról, azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,9%-át,
+
+b) gondoskodjon a hitelintézetek által 2020. április 21. napjától kibocsátott, legfeljebb tizenöt év futamidejű éven túli beruházási és fejlesztési, valamint a négy évet meghaladó, de legfeljebb tizenöt év futamidejű forgóeszköz finanszírozási új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióit – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 0,4%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 80%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 0,9%-át,
+
+c) gondoskodjon a hitelintézetek által 2020. április 21. és 2020. december 31. napja között kibocsátott, legfeljebb 6 év futamidejű folyószámla-, forgóeszköz-finanszírozási, beruházási célú, valamint egyéb ügyletkörbe tartozó új hitelek és hitelkiváltások – ide nem értve a Széchenyi Kártya Program egyes konstrukcióinak keretében, valamint a b) alpont alapján támogatott ügyleteket – kölcsönösszegére, azok teljes futamidejére a Garantiqa Hitelgarancia Zrt. által vállalt kezességi díjakhoz évente, a teljes hitelösszeg legfeljebb 1%-át kitevő mértékű garanciadíj-támogatás biztosításáról azzal, hogy a garanciadíj-támogatást figyelembe véve 90%-os mértékű, tőkére vállalt készfizető kezesség esetén a mikro-, kis- és középvállalkozások által fizetett éves kezességvállalási díj mértéke nem haladhatja meg a teljes hitelösszeg 1%-át;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -38,19 +44,19 @@ Felelős: pénzügyminiszter
 
 Határidő: Magyarország 2021–2030. évi központi költségvetéseinek tervezése során
 
-6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 5. Intézményi kezességi díjtámogatások jogcímcsoporton rendelkezésre álló előirányzat terhére vállalható tárgyéven túli kötelezettségek mértékét a 2020–2030. évekre az alábbiak szerint állapítja meg:
+6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 5. Intézményi kezességi díjtámogatások jogcímcsoporton rendelkezésre álló előirányzat terhére vállalható tárgyéven túli kötelezettségek mértékét a 2021–2032. évekre az alábbiak szerint állapítja meg:
 
-a) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 2 200 000 000 forint,
+a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 4 500 000 000 forint,
 
-b) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 2 100 000 000 forint,
+b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 4 000 000 000 forint,
 
-c) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 2 000 000 000 forint,
+c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 3 500 000 000 forint,
 
-d) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 1 900 000 000 forint,
+d) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000 000 forint,
 
-e) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 1 750 000 000 forint,
+e) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 2 500 000 000 forint,
 
-f) a 2025–2030. évekre vonatkozó kötelezettségvállalások felső korlátja 1 500 000 000 forint,
+f) a 2026–2032. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 000 000 000 forint;
 
 Felelős: pénzügyminiszter
 
@@ -64,6 +70,8 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: első alkalommal 2020. október 31., ezt követően minden második év október 31. napja
 
-8–9.[^1]
+8–9.[^3]
 
-[^1]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1170/2020. (IV. 21.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1170/2020. (IV. 21.) Korm. határozat 9. pontjával megállapított szöveg.
+[^3]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
