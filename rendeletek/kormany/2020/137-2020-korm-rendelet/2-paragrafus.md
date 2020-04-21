@@ -1,0 +1,1 @@
+## 1. § A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet által elrendelt veszélyhelyzet (a továbbiakban: veszélyhelyzet) megszűnéséig a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.

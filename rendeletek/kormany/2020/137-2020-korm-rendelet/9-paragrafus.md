@@ -1,0 +1,5 @@
+## 8. § Az MFB tv. 21. § 2. pontjától eltérően gazdálkodó szervezetnek minősül: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, a befektetési alap, az Európai Gazdasági Térség területén székhellyel rendelkező vállalkozás magyarországi fióktelepe is, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.
+
+9. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 10. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
