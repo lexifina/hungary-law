@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-93-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-07 | 2020-93-20-22.1 | 93/2020. (IV. 6.) Korm. rendelet |
+| 2020-04-21 | 2020-93-20-22.2 | 40/2020. (III. 11.) Korm. rendelet |
