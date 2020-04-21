@@ -2,7 +2,7 @@ A Kormány – a Fővárosi Közfejlesztések Tanácsa javaslatára –
 
 1. a Budapest XIII. kerület, Béke téri tehermentesítő főgyűjtőcsatorna építése (a továbbiakban: Beruházás) érdekében – a Környezeti és Energiahatékonysági Operatív Program keretében nyújtott támogatáson kívüli – a további tervezéshez és megvalósításhoz szükséges 600 000 000 forint központi költségvetési támogatást biztosít Budapest Főváros Önkormányzata részére;
 
-2. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához szükséges 600 000 000 forint biztosításáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 11. Fővárosi Közfejlesztések Tanácsa által jóváhagyott fejlesztések támogatása jogcím javára;
+2.[^1] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához szükséges 600 000 000 forint biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 11. Fővárosi Közfejlesztések Tanácsa által jóváhagyott fejlesztések támogatása jogcím javára;
 
 Felelős: pénzügyminiszter
 
@@ -21,3 +21,5 @@ Határidő: a 2. pont szerinti forrás biztosítását követően azonnal
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2019. április 30.
+
+[^1]: A 2. pont az 1165/2020. (IV. 21.) Korm. határozat 4. pontja szerint módosított szöveg.
