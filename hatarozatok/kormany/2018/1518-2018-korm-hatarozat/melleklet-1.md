@@ -1,8 +1,8 @@
 ## 1. egyetért azzal, hogy a Nemzeti Stadionfejlesztési Program keretében megvalósuló Bozsik Stadion fejlesztéséhez kapcsolódó intézkedésekről szóló 1656/2014. (XI. 19.) Korm. határozat 1. pont a) alpontja szerinti ingatlanon új, 8000 fő befogadására alkalmas fedett, UEFA 4. kategóriájú stadion létesüljön;
 
-## 2. az 1. pontban meghatározott új Bozsik Stadion megvalósítása érdekében felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak
+## 2.[^1] az 1. pontban meghatározott új Bozsik Stadion megvalósítása érdekében felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak
 
-## a) a 2019. évben további 9 350 300 000 forint forrásnak a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 3. Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése jogcím javára történő biztosításáról,
+## a)[^2] a korábban megítélt támogatás keretein belül a 2020. évben 10 520 556 000 forint többletforrásnak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 3. Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése jogcím javára történő biztosításáról,
 
 ## b) a 2020. évben további 4 199 600 000 forint forrásnak a központi költségvetés XI. Miniszterelnökség fejezet javára történő biztosításáról;
 
@@ -10,7 +10,7 @@
 
 ## Miniszterelnökséget vezető miniszter
 
-## Határidő: az a) alpont tekintetében 3 200 000 000 forint forrás vonatkozásában 2019. március 31., 6 150 300 000 forint forrás vonatkozásában 2019. június 30.,
+## Határidő: az a) alpont tekintetében a felmerülés ütemében,
 
 ## a b) alpont tekintetében a 2020. évi központi költségvetés tervezése során
 
@@ -28,11 +28,20 @@
 
 ## Határidő: azonnal
 
-## 4.[^1]
+## 4.[^3]
 
 ## 5. egyetért azzal, hogy az 1. pontban meghatározott új Bozsik Stadion megvalósítása tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-1. melléklet az 1518/2018. (X. 17.) Korm. határozathoz[^2]
+## 6.[^4] felhívja a Miniszterelnökséget vezető minisztert, hogy a 2. és 3. pont alapján megkötött megállapodást az 1. pont szerinti feladat megvalósítása céljából a költségvetési többlettámogatások biztosítása érdekében módosítsa.
 
-[^1]: A 4. pontot az 1806/2018. (XII. 23.) Korm. határozat 19. pontja visszavonta.
-[^2]: Az 1. mellékletet az 1806/2018. (XII. 23.) Korm. határozat 19. pontja visszavonta.
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## Határidő: a többletforrások rendelkezésre állásának ütemében
+
+1. melléklet az 1518/2018. (X. 17.) Korm. határozathoz[^5]
+
+[^1]: A 2. pont az 1165/2020. (IV. 21.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 2. pont a) alpontja az 1165/2020. (IV. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pontot az 1806/2018. (XII. 23.) Korm. határozat 19. pontja visszavonta.
+[^4]: A 6. pontot az 1165/2020. (IV. 21.) Korm. határozat 2. pontja iktatta be.
+[^5]: Az 1. mellékletet az 1806/2018. (XII. 23.) Korm. határozat 19. pontja visszavonta.
