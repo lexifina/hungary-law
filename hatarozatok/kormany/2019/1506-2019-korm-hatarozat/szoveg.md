@@ -28,6 +28,12 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
+6/A.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a 6. pont a) alpontja alapján kiadott támogatási szerződést a 6. pont b) alpontja szerinti költségvetési többlettámogatás biztosítása érdekében módosítsa;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a 6. pont b) alpontja szerinti költségvetési forrás rendelkezésre állását követően azonnal
+
 7. felhívja az emberi erőforrások miniszterét, hogy a Kormánybiztos bevonásával készítsen előterjesztést a Kormány számára az 1. pont szerinti feladatok ellátásához kapcsolódóan, a Nemzeti Sportközpontok működéséhez és feladatainak ellátásához szükséges forrásigény vonatkozásában;
 
 Felelős: emberi erőforrások minisztere
@@ -57,3 +63,5 @@ Határidő: 2019. október 30.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
+
+[^1]: A 6/A. pontot az 1165/2020. (IV. 21.) Korm. határozat 8. pontja iktatta be.
