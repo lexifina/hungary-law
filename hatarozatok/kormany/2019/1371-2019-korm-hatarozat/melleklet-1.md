@@ -12,7 +12,7 @@
 
 ## 3. a beruházás előkészítésének kormányzati felelőseként a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető minisztert jelöli ki;
 
-## 4. a beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés b), e), f), g), k), n), o) és p) pontja szerinti előkészítési fázisaira összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 697 000 000 forint forrást biztosít a Magyarország 2019. évi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy a támogatott előkészítési fázisok megvalósítási határideje legkésőbb 2019. december 31. napja;
+## 4.[^1] a beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés b), e), f), g), k), n), o) és p) pontja szerinti előkészítési fázisaira összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 697 000 000 forint forrást biztosít a Magyarország 2019. évi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy a támogatott előkészítési fázisok megvalósítási határideje legkésőbb 2021. december 31. napja;
 
 ## 5. egyetért azzal, hogy a beruházás előkészítését az MTK valósítsa meg;
 
@@ -22,7 +22,7 @@
 
 ## Határidő: azonnal
 
-## 7. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a 4. pont szerinti előkészítési fázisok megvalósítása érdekében összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 697 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 12. Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának előkészítése jogcím javára, elszámolási, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel, az 1. melléklet szerint;
+## 7.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a 4. pont szerinti előkészítési fázisok megvalósítása érdekében összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 697 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 12. Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának előkészítése jogcím javára, elszámolási, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -36,7 +36,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2020. január 31.
+## Határidő: 2022. április 30.
 
 ## 8. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a beruházás előkészítéséhez kapcsolódó, a Beruházás Előkészítési Alap előirányzat terhére nem finanszírozható költségek fedezetének biztosítására összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 200 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 50. Maccabi Játékok sportinfrastruktúra fejlesztése jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 12. Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának előkészítése jogcím javára, a 2. melléklet szerint;
 
@@ -48,11 +48,7 @@
 
 ## Határidő: azonnal
 
-## 9. felhívja a Miniszterelnökséget vezető minisztert, hogy készítsen jelentést a Rendelet 8. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 4. pont szerinti előkészítési fázisok végrehajtásának állapotáról, valamint a 7. pont szerint átcsoportosított forrás felhasznált összegéről;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: a 7. pont szerinti elszámolási határidő lejártát követő 30 napon belül
+## 9.[^3]
 
 ## 10. felhívja a Miniszterelnökséget vezető minisztert, hogy készítsen előterjesztést a Kormány részére – a beruházás megvalósítására irányuló feltételes közbeszerzési eljárások indítására és a beruházás megvalósításának ütemezésére irányuló döntés céljából – a kivitelezési dokumentációról és az ahhoz készült költségvetés szerinti becsült értékről, valamint tegyen javaslatot a beruházás által létrejövő létesítmények jövőbeni üzemeltetőjére;
 
@@ -91,3 +87,7 @@
 ## Határidő: a 11. pontban megjelölt ingatlanok állami tulajdonba kerülését követően azonnal
 
 1. melléklet az 1371/2019. (VI. 25.) Korm. határozathoz
+
+[^1]: A 4. pont az 1165/2020. (IV. 21.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 7. pont az 1165/2020. (IV. 21.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^3]: A 9. pontot az 1165/2020. (IV. 21.) Korm. határozat 6. pontja visszavonta.
