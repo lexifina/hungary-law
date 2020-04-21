@@ -16,8 +16,15 @@ Határidő: az a) alpont tekintetében 2019. június 30.
 
 a b) alpont tekintetében 2020. január 31.
 
+2/A.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a 2. pont a) alpontja alapján kiadott támogatási szerződést a 2. pont b) alpontja szerinti költségvetési többlettámogatás biztosítása érdekében módosítsa;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a 2. pont b) alpontja szerinti költségvetési forrás rendelkezésre állását követően azonnal
+
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4.[^1]
+4.[^2]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2/A. pontot az 1165/2020. (IV. 21.) Korm. határozat 7. pontja iktatta be.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
