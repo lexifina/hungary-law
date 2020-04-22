@@ -1,0 +1,1 @@
+## 14. § Az elektronikus kapcsolattartásra nem kötelezett adózó az elektronikus úton folytatott fizetési kedvezményi eljárásban a fizetési kedvezmény iránti kérelmét az általános célú elektronikus kérelem űrlap szolgáltatás útján is előterjesztheti.

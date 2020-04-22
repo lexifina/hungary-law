@@ -1,0 +1,1 @@
+## 15. § Az Art. 263. §-a szerinti közzététel során az állami adó- és vámhatóság figyelmen kívül hagyja a veszélyhelyzet ideje alatt és az azt követő harminc napon belül esedékes adókötelezettség megsértése miatt az adózó terhére megállapított adóhiány és jogkövetkezmény összegét.
