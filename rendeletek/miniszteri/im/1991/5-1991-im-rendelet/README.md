@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-5-20-06
 | 2015-10-01 | 1991-5-20-06.21 | 25/2015. (IX. 25.) IM rendelet |
 | 2018-01-01 | 1991-5-20-06.22 | 20/2017. (XII. 21.) IM rendelet |
 | 2019-04-13 | 1991-5-20-06.23 | 12/2019. (IV. 12.) IM rendelet |
+| 2020-04-22 | 1991-5-20-06.24 | 3/2020. (IV. 21.) IM rendelet |

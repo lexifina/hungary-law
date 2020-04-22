@@ -18,6 +18,6 @@
 
 ## a vizsgabizottság tagja a vizsgabizottság tagja
 
-2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^86]
+2. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^89]
 
-[^86]: A 2. számú melléklet a 25/2015. (IX. 25.) IM rendelet 5. §-ával megállapított szöveg.
+[^89]: A 2. számú melléklet a 25/2015. (IX. 25.) IM rendelet 5. §-ával megállapított szöveg.
