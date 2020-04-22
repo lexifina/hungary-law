@@ -14,6 +14,7 @@ B) Központi hivatalok
 
 1. A Nemzeti Kommunikációs Hivatalnál
 
-1.1. közbeszerzési feladatokat ellátó szervezeti egység vezetője
+1.1.[^2] valamennyi önálló szervezeti egység vezetője
 
 [^1]: Az 1. melléklet A) része az 1/2019. (III. 19.) MK rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet B) rész 1. pont 1.1. alpontja a 2/2020. (IV. 21.) MK rendelet 1. §-a szerint módosított szöveg.
