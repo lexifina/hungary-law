@@ -2,43 +2,19 @@
 
 ## 2. egyetért a Gödöllő közigazgatási területén levő iparterület további fejlesztését elősegítő – az 1. melléklet II. pontja szerinti – közúti infrastruktúra-fejlesztésekkel, valamint a megvalósításukhoz szükséges 500 000 000 forint biztosításával;
 
-## 3. felhívja a pénzügyminisztert, hogy gondoskodjon a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím Gazdaságfejlesztési célokhoz kapcsolódó közútfejlesztések jogcímcsoport létrehozásáról;
+## 3.[^1]
 
-## Felelős: pénzügyminiszter
+## 4.[^2]
 
-## Határidő: a 2021. évi központi költségvetés tervezése során
+## 5.[^3]
 
-## 4. felhívja a pénzügyminisztert, hogy az 1. és 2. pont szerinti közúti beruházások megvalósítása érdekében gondoskodjon összesen 1 000 000 000 forint összegű forrásnak a 3. pont szerinti jogcímcsoport javára történő biztosításáról, az alábbi ütemezéssel:
-
-## a) a 2021. évben 700 000 000 forint,
-
-## b) a 2022. évben 300 000 000 forint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: az a) alpont tekintetében a 2021. évi központi költségvetés tervezése során
-
-## a b) alpont tekintetében a 2022. évi központi költségvetés tervezése során
-
-## 5. felhívja a pénzügyminisztert és az innovációért és technológiáért felelős minisztert, hogy a 4. pontban előírt forrásbiztosítási feladatok kapcsán gondoskodjanak a kincstári díjak fedezetének a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 1. Innovációs és Technológiai Minisztérium igazgatása cím javára történő biztosításáról;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a 4. pont szerint biztosított források ütemezéséhez igazodóan
-
-## 6. felhívja az innovációért és technológiáért felelős minisztert, hogy a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság útján gondoskodjon az 1. és 2. pont szerinti közúti beruházások megvalósításáról;
+## 6.[^4] felhívja az innovációért és technológiáért felelős minisztert, hogy a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság útján gondoskodjon az 1. és 2. pont szerinti közúti beruházások megvalósításáról;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2022. december 31.
+## Határidő: 2021. december 31.
 
-## 7. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, Gazdaságfejlesztési célokhoz kapcsolódó közútfejlesztések jogcímcsoport kiadási előirányzata terhére vállalható kötelezettségek mértékét a 2021. és 2022. évre az alábbiak szerint állapítja meg:
-
-## a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja: 700 000 000 forint,
-
-## b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja: 300 000 000 forint.
+## 7.[^5]
 
 1. melléklet az 1112/2020. (III. 20.) Korm. határozathoz
 
@@ -51,3 +27,9 @@ I. Közúti fejlesztések – Ecser
 II. Közúti fejlesztések – Gödöllő
 
 1. Összekötő út kiépítése az M3 csomópont déli körforgalmától a Haraszti út – Kenyérgyári út csomópontig.
+
+[^1]: A 3. pontot az 1173/220. (IV. 22.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 4. pontot az 1173/220. (IV. 22.) Korm. határozat 3. pontja visszavonta.
+[^3]: Az 5. pontot az 1173/220. (IV. 22.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 6. pont az 1173/220. (IV. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 7. pontot az 1173/220. (IV. 22.) Korm. határozat 3. pontja visszavonta.
