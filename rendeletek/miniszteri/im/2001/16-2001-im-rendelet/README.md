@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-16-20-0
 | 2017-01-01 | 2001-16-20-06.25 | 5/2016. (III. 8.) IM rendelet |
 | 2019-01-01 | 2001-16-20-06.26 | 31/2018. (XII. 19.) IM rendelet |
 | 2019-08-12 | 2001-16-20-06.27 | 18/2019. (VI. 28.) IM rendelet |
+| 2020-04-22 | 2001-16-20-06.28 | 3/2020. (IV. 21.) IM rendelet |

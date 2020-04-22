@@ -58,6 +58,6 @@
 
 | 6.2. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |
 
-3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^153]
+3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^154]
 
-[^153]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a, szövege a 43/2015. (XII. 30.) IM rendelet 2. § (8) bekezdés a) pontjával megállapított szöveg.
+[^154]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a, szövege a 43/2015. (XII. 30.) IM rendelet 2. § (8) bekezdés a) pontjával megállapított szöveg.
