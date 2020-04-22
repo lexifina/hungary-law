@@ -1,0 +1,102 @@
+# A Kormány 143/2020. (IV. 22.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 83. szám, 2020. április 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/QAiI6efrzswCkW5CwNiS5e99f5eb0b2de/dokumentumok/de50ed427205b037eac9c1f628e590180ed3e3c8/letoltes)
+
+---
+
+A Kormány 143/2020. (IV. 22.) Korm. rendelete
+a veszélyhelyzet ideje alatt egyes településfejlesztési, településrendezési, településképi, építésügyi és
+örökségvédelmi, valamint közigazgatási hatósági eljárási szabályok eltérő alkalmazásáról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 10. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus
+elleni védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. Építésügyi tárgyú szabályozással kapcsolatos eltérő rendelkezések
+1. §
+Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 85. §
+(3) bekezdés a) pontjában meghatározott legalább 3,0 m átlagos belmagasságra vonatkozó előírást nem
+kell alkalmazni az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány
+megelőzése, illetve következményeinek elhárítása, az élet- és egészségvédelem céljából ideiglenes jelleggel létesülő
+egészségügyi épületek huzamos emberi tartózkodásra szolgáló helyiségei vonatkozásában.
+2. A településfejlesztési és településrendezési dokumentumok, valamint a településképi
+követelmények egyeztetésével kapcsolatos eltérő rendelkezések
+2. § (1) A településképi követelményekről szakmai konzultációt – ezen belül szakmai tájékoztatást – tartani kizárólag
+elektronikus úton lehet.
+(2) A településképi véleményezési eljárás lefolytatásához a településfejlesztési koncepcióról, az integrált
+településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos
+jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet [a továbbiakban: 314/2012. (XI. 8.) Korm. rendelet] 26/A. §
+(1) bekezdése szerinti kérelmet elektronikus úton kell benyújtani.
+(3) A településképi bejelentési eljárás során a 314/2012. (XI. 8.) Korm. rendelet 26/B. § (1b) bekezdése szerinti iratok
+kizárólag elektronikus úton terjeszthetőek elő.
+3. § (1) A helyi önkormányzat a partnerségi egyeztetés személyes megjelenést előíró szabályaitól eltérően a tájékoztatást,
+a véleménynyilvánítást és az egyeztetést elektronikus úton folytatja le.
+(2) A 314/2012. (XI. 8.) Korm. rendelet 29/A. § (3), (5) és (6) bekezdése szerinti előzetes és munkaközi tájékoztatás
+lakossági fóruma kizárólag elektronikus úton történik. Az észrevételeket és javaslatokat az előzetes tájékoztató és
+az elkészült tervezet önkormányzati honlapon történő közzétételétől számított tizenöt napon belül lehet megtenni,
+kizárólag elektronikus úton.
+(3) A véleményezési szakaszban a 314/2012. (XI. 8.) Korm. rendelet 38/A. § (1) és (2) bekezdése szerinti szakmai
+egyeztetés és a 314/2012. (XI. 8.) Korm. rendelet 39. § (1) bekezdése szerinti egyeztetés kizárólag elektronikus úton
+történik.
+(4) A végső szakmai véleményezési szakaszban a 314/2012. (XI. 8.) Korm. rendelet 40. § (2) bekezdés b) pontja szerinti
+egyeztető tárgyalás kizárólag elektronikus úton történik.
+(5) A tárgyalásos eljárás esetén a 314/2012. (XI. 8.) Korm. rendelet 42. § (3) bekezdése szerinti egyeztető tárgyalás
+megtartása kizárólag elektronikus úton történik.
+(6) Az állami főépítészi eljárásban a 314/2012. (XI. 8.) Korm. rendelet 42/A. § (3a) bekezdése szerinti egyeztető tárgyalás
+megtartása kizárólag elektronikus úton történik.
+3. A közigazgatási hatósági eljárással kapcsolatos eltérő rendelkezések
+4. § (1) A közigazgatási hatósági eljárásban a közmeghallgatást az érintettek személyes megjelenése nélkül, az e §-ban
+foglaltak szerint kell megtartani.
+(2) Az eljáró hatóság a honlapján közzéteszi mindazon információkat – így különösen iratokat, kép- és hangfelvételeket,
+internetes hivatkozásokat –, amelyek az érintettek közmeghallgatásban való részvétele szempontjából lényegesek.
+
+Ha az eljáró hatóság más szervet is megkeres az információk saját honlapon történő közzététele érdekében,
+a megkeresett szerv köteles azt teljesíteni.
+(3) A hatóság a közmeghallgatás eredményessége érdekében a (2) bekezdésben foglaltakon kívül más alkalmas eszközt
+– így különösen helyi műsorszóró szolgáltatást, interaktív kommunikációt lehetővé tévő információ-technikát,
+hirdetményi vagy közösségi felületeket – is igénybe vehet.
+(4) A közzététel tartalmazza azt a határidőt, amelyen belül az érintettek észrevételeket tehetnek és kérdéseket tehetnek fel.
+(5) Az eljáró hatóság – szükség szerint az érintett egyéb szervek, illetve a kérelmező ügyfél bevonásával – a (4) bekezdés
+szerint beérkezett észrevételekkel kapcsolatos tájékoztatását a honlapján közzéteszi. Ha az észrevételek sajátosságai
+megkívánják, a hatóság írásbelinek nem minősülő elektronikus úton tájékoztatja az ügyfelet. A honlapon történő
+közzétételt a (2) bekezdés szerint megkeresett szerv is köteles teljesíteni.
+(6) Az (1)–(5) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha jogszabály az eljárásban
+a közmeghallgatás megtartását az eljáró hatóságtól eltérő szerv vagy személy feladatává teszi.
+(7) Ha az eljáró hatóság a közmeghallgatás-tartási kötelezettségének nem tesz eleget, a közmeghallgatást
+a mulasztásról szóló bejelentést követő 30 napon belül az eljáró hatóság székhelye szerint illetékes fővárosi és
+megyei kormányhivatal tartja meg. Ha az eljáró hatóság a (2)–(5) bekezdésben foglaltakat nem teljesítette, akkor
+a közmeghallgatás előkészítése – a 30 napos határidőn belül – a kormányhivatal feladata.
+5. §
+Az eljáró hatóság a 4. §-ban foglalt cselekményen túl egyéb, személyes megjelenést igénylő eljárási cselekményt,
+így különösen helyszíni szemlét – ha a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzetre (a továbbiakban: veszélyhelyzet) vonatkozó más jogszabály eltérően nem rendelkezik – kizárólag
+akkor rendel el, ha azt az ügy jellege elengedhetetlenné teszi, vagy a tényállás másként nem tisztázható.
+4. Egyes építésügyi és örökségvédelmi eljárásokkal kapcsolatos eltérő rendelkezések
+6. §
+A veszélyhelyzet okán az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint
+az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet alapján kiadott építésügyi hatósági
+engedély hatálya – a használatbavételi engedély kivételével – az erre irányuló külön kérelem hiányában is egy
+évvel meghosszabbodik, ha az engedély hatálya e rendelet hatálybalépése és a veszélyhelyzet megszűnését követő
+30 napon belüli időtartamban jár le.
+7. §
+A veszélyhelyzet időtartama alatt a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.)
+Korm. rendelet alapján kiadott régészeti feltárási vagy örökségvédelmi engedély hatálya – erre irányuló külön
+kérelem hiányában is – egy évvel meghosszabbodik, ha az engedély hatálya e rendelet hatálybalépése és
+a veszélyhelyzet megszűnését követő 30 napon belüli időtartamban jár le.
+5. Záró rendelkezések
+8. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 10. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+9. § (1) E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
+(2) Ha a veszélyhelyzet kihirdetése és e rendelet hatálybalépése közötti időre kitűzött közmeghallgatást a veszélyhelyzetre
+tekintettel nem tartották meg, és a hatóság érdemi döntést hozott, a közmeghallgatást e rendelet hatálybalépését
+követő tizenöt napon belül a 4. §-ban szabályozott módon pótolni kell. A pótolt közmeghallgatás alapján
+a hatóság a döntését szükség szerint kiegészíti vagy módosítja. A döntés módosítására abban az esetben is sor
+kerülhet, ha az az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 120. §-a alapján nem minősül
+jogszabálysértőnek.
+10. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+ Orbán Viktor s. k.,
+ miniszterelnök
