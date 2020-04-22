@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2020-02-21 | 2018-141-20-22.24 | 23/2020. (II. 20.) Korm. rendelet |
 | 2020-03-13 | 2018-141-20-22.25 | 44/2020. (III. 12.) Korm. rendelet |
 | 2020-04-16 | 2018-141-20-22.26 | 3/2019. (I. 24.) Korm. rendelet |
+| 2020-04-22 | 2018-141-20-22.27 | 139/2020. (IV. 21.) Korm. rendelet |
