@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1231-30
 | 2018-04-25 | 2018-1231-30-22.1 | 1231/2018. (IV. 25.) Korm. határozat |
 | 2018-11-27 | 2018-1231-30-22.2 | 1603/2018. (XI. 27.) Korm. határozat |
 | 2019-05-27 | 2018-1231-30-22.3 | 1299/2019. (V. 27.) Korm. határozat |
+| 2020-04-23 | 2018-1231-30-22.4 | 1176/2020. (IV. 23.) Korm. határozat |
