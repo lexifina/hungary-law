@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1727-30
 | 2018-08-31 | 2017-1727-30-22.6 | 1013/2018. (II. 2.) Korm. határozat |
 | 2019-01-28 | 2017-1727-30-22.7 | 1013/2018. (II. 2.) Korm. határozat |
 | 2019-09-17 | 2017-1727-30-22.8 | 1013/2018. (II. 2.) Korm. határozat |
+| 2020-04-23 | 2017-1727-30-22.9 | 1013/2018. (II. 2.) Korm. határozat |
