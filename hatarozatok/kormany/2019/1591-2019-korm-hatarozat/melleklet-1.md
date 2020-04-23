@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, pénzügyminiszter, innovációért és technológiáért felelős miniszter, emberi erőforrások minisztere, nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, Magyar Művészeti Akadémia elnöke, a miniszterelnök általános helyettese
 
-## Határidő: 2019. december 31., a Bethlen Gábor Alap fejezet javára biztosított 2 500 000 000 forint tekintetében 2020. december 31.
+## Határidő: 2019. december 31., a Bethlen Gábor Alap fejezet javára biztosított 2 500 000 000 forint tekintetében 2021. december 31.
 
 ## b) az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 4 405 879 621 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, az 1. melléklet szerint;
 
@@ -40,7 +40,7 @@
 
 1. melléklet az 1591/2019. (X. 16.) Korm. határozathoz
 
-[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 13. pontja, az 1176/2020. (IV. 23.) Korm. határozat 20. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
