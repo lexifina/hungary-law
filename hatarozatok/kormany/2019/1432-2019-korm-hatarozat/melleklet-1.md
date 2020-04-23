@@ -66,7 +66,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2020. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 950 000 000 forint tekintetében 2020. december 31.
+## Határidő: 2020. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 950 000 000 forint tekintetében 2021. december 31.
 
 ## i) az Ávr. 152. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetnél keletkezett 867 907 732 forint, a XII. Agrárminisztérium fejezetnél keletkezett 4 929 851 667 forint, a XIV. Belügyminisztérium fejezetnél keletkezett 57 719 541 680 forint, a XV. Pénzügyminisztérium fejezetnél keletkezett 16 769 283 897 forint, valamint a XVII. Innovációs és Technológiai Minisztérium fejezetnél keletkezett 5 247 473 000 forint összegű, 2018. évi kötelezettségvállalással terhelt költségvetési maradvány 2019. június 30-át követő, változatlan célú felhasználását;
 
@@ -90,7 +90,7 @@
 
 1. melléklet az 1432/2019. (VII. 26.) Korm. határozathoz
 
-[^1]: Az 1. pont h) alpontja az 1755/2019. (XII. 20.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: Az 1. pont h) alpontja az 1755/2019. (XII. 20.) Korm. határozat 11. pontja, az 1176/2020. (IV. 23.) Korm. határozat 19. pontja szerint módosított szöveg.
 [^2]: Az 1. pont j) alpontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont b) alpontja visszavonta.
 [^3]: Az 1. pont k) alpontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont b) alpontja visszavonta.
 [^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
