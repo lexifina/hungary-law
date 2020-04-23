@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. június 30.
 
 ## 2. A Kormány felhívja a nemzetgazdasági minisztert, hogy az 1. pontban meghatározott célok érdekében további 5183,5 millió forint biztosításáról gondoskodjon a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára.
 
@@ -94,4 +94,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1104/2017. (III. 6.) Korm. határozat 14. pontja, az 1244/2019. (IV. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1104/2017. (III. 6.) Korm. határozat 14. pontja, az 1176/2020. (IV. 23.) Korm. határozat 3. pontja szerint módosított szöveg.
