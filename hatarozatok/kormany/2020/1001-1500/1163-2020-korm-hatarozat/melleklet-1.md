@@ -8,7 +8,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Hatályát veszti a Magyarország Nemzeti Biztonsági Stratégiájáról szóló 1035/2012. (II. 21.) Korm. határozat.
+## 4.[^1]
 
 1. melléklet az 1163/2020. (IV. 21.) Korm. határozathoz
 
@@ -92,7 +92,7 @@ IV. Alapvető adottságaink
 
 34. Jelenleg az egyik fő kihívás a földgáz ellátás tekintetében a 80%-ot meghaladó importfüggőségünk, amely nemcsak ellátás biztonsági kockázatokat jelent, hanem kitettséget is az importárak alakulásának. Az energiaszektorban lezajló jelentős globális változások immár az európai és ez által a hazai energiapiac jelentős átalakulását vetítik előre. A jövőben a villamos energia és földgáz felhasználás módjai és folyamatai jelentősen változni fognak, ami valószínűsíthetően a villamos energia és a gáz felhasználás arányának átrendeződésével, a villamos energia arányának jelentős növekedésével jár.
 
-35. A hazai lignit, barna- és feketeszén készlet[^1] az egyetlen itthon is rendelkezésre álló, nem megújuló energiaforrás, amely több száz évre elegendő alapanyagot szolgáltathat a megfelelő technológiák (tiszta szén technológiák) fejlődésével a diverzifikált korszerű energiaellátásban.
+35. A hazai lignit, barna- és feketeszén készlet[^2] az egyetlen itthon is rendelkezésre álló, nem megújuló energiaforrás, amely több száz évre elegendő alapanyagot szolgáltathat a megfelelő technológiák (tiszta szén technológiák) fejlődésével a diverzifikált korszerű energiaellátásban.
 
 36. Magyarország pénzügyi sebezhetősége az utóbbi években számottevően csökkent, a nemzetközi pénzpiacoknak való kitettségünk azonban kockázati tényezőt jelent. Hazánk gazdasági és pénzügyi rendszerének stabilitása és ellenálló képessége fontos nemzeti érdek és biztonságpolitikai szempont, szuverenitási kérdés.
 
@@ -280,7 +280,7 @@ VII. Kiemelt biztonsági kockázatok
 
 a) illegális migránsok tömeges érkezése a nyugat-balkáni vagy más, hazánkat érintő útvonalon, idegen népesség Magyarországra telepítése;
 
-b) váratlan fegyveres támadás[^2];
+b) váratlan fegyveres támadás[^3];
 
 c) összehangolt és széleskörű diplomáciai, információs és titkosszolgálati műveletek, pénzügyi-gazdasági nyomásgyakorlással, pénzügyi spekulációs támadásokkal vagy katonai fenyegetéssel párosulva (hibrid) Magyarország destabilizálása, kormányzati cselekvőképességének, politikai stabilitásának és társadalmi egységének gyengítése, továbbá nemzetközi érdekérvényesítő képességének korlátozása céljából;
 
@@ -428,5 +428,6 @@ X. Záró rendelkezések
 
 179. Hazánk biztonsági környezetének jelentős megváltozása, vagy más fontos körülmény módosulása esetén Magyarország Nemzeti Biztonsági Stratégiáját felül kell vizsgálni.
 
-[^1]: 2020. évi helyzet szerint ez mintegy 8,6 milliárd tonnányi készletet jelent.
-[^2]: Ideértve az Észak-atlanti Szerződés 5. cikke alá tartozó eseteket.
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: 2020. évi helyzet szerint ez mintegy 8,6 milliárd tonnányi készletet jelent.
+[^3]: Ideértve az Észak-atlanti Szerződés 5. cikke alá tartozó eseteket.
