@@ -1,0 +1,5 @@
+## 1. § E rendelet hatálya
+
+a) a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcímbe, a 2. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások cím, 2. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos kiadások alcímbe, a 3. A Nemzeti Útdíjfizetési Szolgáltató Zrt. tulajdonosi joggyakorlásával kapcsolatos kiadások címbe, a 4. Az MFB Zrt. tulajdonosi joggyakorlásával kapcsolatos kiadások címbe, az 5. A BMSK Zrt. tulajdonosi joggyakorlásával kapcsolatos kiadások címbe, valamint a 7. Fejezeti tartalék címbe sorolt központi kezelésű előirányzatokra és
+
+b) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet alapján a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben a költségvetési év során megállapított új központi kezelésű kiadási előirányzatokra
