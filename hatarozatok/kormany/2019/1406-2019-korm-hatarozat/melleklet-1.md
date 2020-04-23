@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdése és 33. § (2) bekezdése alapján – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és bankköltséggel együtt – a vajdasági magyarság nemzeti jelentőségű fejlesztései és programjai megvalósításához szükséges 1 093 356 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdése és 33. § (2) bekezdése alapján – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és bankköltséggel együtt – a vajdasági magyarság nemzeti jelentőségű fejlesztései és programjai megvalósításához szükséges 1 093 356 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. június 30.
 
 ## 2. felhívja a pénzügyminisztert, hogy a nemzeti jelentőségű vajdasági magyar intézmények programjai és megkezdett beruházásai finanszírozása érdekében gondoskodjon
 
@@ -95,3 +95,5 @@
 |  |  | egyéb: | azonnal | 1 093 356 000 |  |  |  |  |  |  |  |  |  |  | 1 093 356 000 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1176/2020. (IV. 23.) Korm. határozat 18. pontja szerint módosított szöveg.
