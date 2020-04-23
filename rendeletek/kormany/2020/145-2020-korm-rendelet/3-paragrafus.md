@@ -1,0 +1,1 @@
+## 2. § Az MNBtv. 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó személyek és szervezetek ügyfelei felé fennálló tájékoztatási és nyilatkozattételi kötelezettség teljesítésére vonatkozó, a veszélyhelyzet alatt lejáró határideje 30 nappal meghosszabbodik.
