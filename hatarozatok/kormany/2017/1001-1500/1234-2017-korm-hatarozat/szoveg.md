@@ -12,7 +12,7 @@ d) az a)–c) pontban foglalt népegészségügyi intézkedéseket támogató �
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2020. június 30.
+Határidő: 2021. december 31.
 
 2. felhívja az emberi erőforrások miniszterét, hogy dolgozza ki az 1. pont c) alpontja szerinti komplex programra vonatkozó előterjesztést;
 
@@ -80,5 +80,5 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a 2021. március 1.
 
-[^1]: Az 1. pont az 1764/2018. (XII. 20. Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1176/2020. (IV. 23.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 6. pont az 1764/2018. (XII. 20. Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
