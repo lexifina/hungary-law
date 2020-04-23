@@ -82,8 +82,11 @@
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 2. Az ecseri és gödöllői fejlesztési terület kialakításával összefüggő infrastruktúra-fejlesztésekről szóló 1112/2020. (III. 20.) Korm. határozat (a továbbiakban: Korm. határozat) 6. pontjában a „2022.” szövegrész helyébe a „2021.” szöveg lép.
+## 2.[^1]
 
-## 3. A Kormány visszavonja a Korm. határozat 3–5. és 7. pontját.
+## 3.[^2]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
