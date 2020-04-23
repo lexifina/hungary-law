@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1779-30
 | --- | --- | --- |
 | 2016-12-15 | 2016-1779-30-22.1 | 1779/2016. (XII. 15.) Korm. határozat |
 | 2018-12-06 | 2016-1779-30-22.2 | 1661/2018. (XII. 6.) Korm. határozat |
+| 2020-04-23 | 2016-1779-30-22.3 | 1661/2018. (XII. 6.) Korm. határozat |
