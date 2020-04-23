@@ -18,7 +18,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. június 30.
 
 1. melléklet az 1585/2018. (XI. 21.) Korm. határozathoz
 
@@ -84,4 +84,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1244/2019. (IV. 30.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1176/2020. (IV. 23.) Korm. határozat 17. pontja szerint módosított szöveg.
