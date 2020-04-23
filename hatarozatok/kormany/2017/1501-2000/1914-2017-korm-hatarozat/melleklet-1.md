@@ -18,7 +18,7 @@
 
 ## Felelős: a Kormány nemzetpolitikáért felelős tagja
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. december 31.
 
 1. melléklet az 1914/2017. (XII. 7.) Korm. határozathoz
 
@@ -100,4 +100,4 @@ Költségvetési év: 2017.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 3. pont az 1244/2019. (IV. 30.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1176/2020. (IV. 23.) Korm. határozat 13. pontja szerint módosított szöveg.
