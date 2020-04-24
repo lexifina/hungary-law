@@ -1,0 +1,3 @@
+4. § (1) A miniszter a natúrpark elnevezés használatához való hozzájárulással, a felülvizsgálattal, valamint a natúrpark elnevezés használatához való hozzájárulás visszavonásával összefüggő feladatok ellátása során kikéri a magyarországi natúrparkok hálózatát képviselő civil szervezet, a miniszter által kijelölt szervezet, továbbá a működési területével érintett nemzeti park igazgatóság véleményét.
+
+(2) A miniszter tájékoztatásul közzéteszi a magyar állami természetvédelem hivatalos honlapján a natúrpark elnevezés használatához való hozzájárulás, valamint a hozzájárulás visszavonásának időpontját, továbbá natúrpark elnevezés használatához való hozzájárulás esetén a natúrpark elnevezését és területét.
