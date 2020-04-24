@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-85-20-2
 | 2019-03-08 | 1998-85-20-22.21 | 26/2019. (II. 28.) Korm. rendelet |
 | 2019-03-22 | 1998-85-20-22.22 | 53/2019. (III. 14.) Korm. rendelet |
 | 2020-03-21 | 1998-85-20-22.23 | 53/2020. (III. 20.) Korm. rendelet |
+| 2020-04-24 | 1998-85-20-22.24 | 126/2020. (IV. 16.) Korm. rendelet |

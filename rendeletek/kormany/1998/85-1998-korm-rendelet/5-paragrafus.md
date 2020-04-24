@@ -1,16 +1,13 @@
-5. §[^39] (1)[^40] A kamatkiegyenlítés nem vehető igénybe reexportra. Nem minősül reexportnak az olyan külkereskedelmi szerződés alapján teljesített export, amely megfelel a 6. § (1) bekezdésében foglaltaknak.
+5. §[^40] (1)[^41] A kamatkiegyenlítés nem vehető igénybe reexportra. Nem minősül reexportnak az olyan külkereskedelmi szerződés alapján teljesített export, amely megfelel a 6. § (1) bekezdésében foglaltaknak.
 
-(2)[^41] A kamatkiegyenlítés két éves és két éven túli futamidejű exporthitelek, refinanszírozási exporthitelek és követelésvásárlás finanszírozásához csak akkor vehető igénybe, ha
+(2)[^42] A kamatkiegyenlítés kétéves és két éven túli futamidejű exporthitelek, refinanszírozási exporthitelek és követelésvásárlás finanszírozásához csak akkor vehető igénybe, ha
 
-a)[^42] az OECD Megállapodás hatálya alá tartozó ügyletek esetében azok megfelelnek az OECD Tanácsának vesztegetésről és a hivatalosan támogatott exporthitelekről szóló ajánlásában meghatározottaknak és
+a) az OECD Tanácsának vesztegetésről és a hivatalosan támogatott exporthitelekről szóló ajánlásának hatálya alá tartozó ügylet megfelel az ajánlásban meghatározottaknak,
 
-b)[^43] az Eximbank által az OECD Tanácsának az „Államilag támogatott exporthitelek közös környezetvédelmi szemléletéről” szóló, vagy az ennek helyébe lépő, az „Exporthitelekről és a kellő környezeti és társadalmi körültekintésről” szóló Ajánlásának megfelelően elvégzett környezeti célú átvilágítás, környezeti hatástanulmány vagy környezeti és társadalmi hatástanulmány alapján a finanszírozott ügylet nem minősül a környezetre nézve károsnak és
+b) az OECD Tanácsának a hivatalosan támogatott exporthitelekkel és a környezeti és társadalmi átvilágítással kapcsolatos közös megközelítésről szóló ajánlásának hatálya alá tartozó ügylet esetében a megfelelően elvégzett környezeti célú átvilágítás, valamint az annak keretében készített környezeti hatástanulmány vagy környezeti és társadalmi hatástanulmány alapján az Eximbank által finanszírozott ügylet nem minősül a környezetre nézve károsnak, és
 
-c)[^44] az Eximbank lefolytatta az OECD „Alacsony jövedelmű országoknak történő hivatalos exporthitelnyújtása vonatkozó fenntartható hitelezési gyakorlatok támogatására vonatkozó elvekről és iránymutatásokról” szóló dokumentumban előírt eljárásokat.
+c) az Eximbank lefolytatta az OECD Tanácsának a fenntartható hitelezési gyakorlatokról és a hivatalosan támogatott exporthitelekről szóló ajánlásának hatálya alá tartozó ügylet esetében az ajánlásban előírt eljárásokat.
 
-[^39]: Az 5. § a 311/2001. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^40]: Az 5. § (1) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^41]: Az 5. § (2) bekezdésének nyitó szövegrésze a 434/2012. (XII. 29.) Korm. rendelet 13. § b) pontja, a 140/2014. (IV. 30.) Korm. rendelet 2. § 4. pontja szerint módosított szöveg.
-[^42]: Az 5. § (2) bekezdés a) pontja az 537/2013. (XII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^43]: Az 5. § (2) bekezdés b) pontja a 204/2012. (VII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^44]: Az 5. § (2) bekezdés c) pontját a 204/2012. (VII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^40]: Az 5. § a 311/2001. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^41]: Az 5. § (1) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^42]: Az 5. § (2) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
