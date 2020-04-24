@@ -114,7 +114,20 @@ Felelős: pénzügyminiszter
 
 Határidő: 2019. október 31.
 
+12.[^5] Zalaegerszeg gazdaságélénkítő közlekedési infrastruktúrájának növelése céljából
+
+a) egyetért a zalaegerszegi közúthálózat és a kapcsolódó terek fejlesztésével, valamint a munkálatok elvégzéséhez szükséges eszközbeszerzés támogatásával,
+
+b) felhívja az innovációért és technológiáért felelős minisztert és a Miniszterelnökséget vezető minisztert, hogy Zalaegerszeg Megyei Jogú Város Önkormányzatával egyeztetve tegyék meg a szükséges intézkedéseket az a) alpont szerinti beruházás előkészítéséhez és megvalósításához szükséges források biztosítására.
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
 [^1]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
 [^2]: A 9. pontot az 1106/2019. (III. 11.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 10. pontot az 1339/2019. (VI. 7.) Korm. határozat iktatta be, szövege az 1020/2020. (II. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 11. pontot az 1582/2019. (X. 15.) Korm. határozat iktatta be.
+[^5]: A 12. pontot az 1183/2020. (IV. 24.) Korm. határozat iktatta be.
