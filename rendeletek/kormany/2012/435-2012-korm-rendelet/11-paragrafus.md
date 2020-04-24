@@ -1,4 +1,4 @@
-## 10. § Az Eximbank az 1. melléklet szerint a Bizottság számára készítendő éves tevékenységi jelentéshez e rendelet hatálya alá tartozóan a 6. §-ban meghatározottak szerinti ügyletekkel kapcsolatban szolgáltat adatot. A jelentésben azokat az ügyleteket, amelyekhez az Eximbank és a Magyar Exporthitel Biztosító Részvénytársaság közösen nyújtott hivatalos támogatást, az Európai Uniónak és az OECD-nek megküldött jelentések esetén követett gyakorlatnak megfelelően csak az egyik intézmény szerepeltetheti. Az Eximbank a tevékenységi jelentésben megadja közérdekű adatai elektronikus elérhetőségét is és határidőben gondoskodik ezek nyilvánosan hozzáférhetővé tételéről.
+## 10. §[^29] Az Eximbank a 8. és 9. §-ban meghatározott értesítési, konzultációs, adatszolgáltatási és bejelentési kötelezettségeinek jogosult a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársasággal közösen eleget tenni.
 
 ## 4. A kereskedelmi és egyéb garanciák nyújtásának feltételei
 
@@ -10,10 +10,11 @@ a) a megbízó a 12. § szerint elvégzett minősítés alapján nincs nehéz he
 
 b) a garanciavállalás terjedelme a garancia nyújtásának időpontjában megfelelően mérhető, azaz a garanciavállalás meghatározott ügylethez kapcsolódik, meghatározott maximális összegre vonatkozik, és időben korlátozott,
 
-c)[^21] egy ügylettel kapcsolatosan az Eximbank által vállalt kereskedelmi garanciák együttes mértéke nem haladja meg a kereskedelmi ügylet szerződéses értékének 80%-át, továbbá
+c)[^30] egy ügylettel kapcsolatosan az Eximbank által vállalt kereskedelmi garanciák együttes mértéke nem haladja meg a kereskedelmi ügylet szerződéses értékének 80%-át, továbbá
 
 d) a garanciavállalásért piaci alapú díjat fizetnek.
 
 (3) A piaci alapú díjszámításra vonatkozó módszertanát az Eximbank a kezesi közleményben meghatározottakkal összhangban alakítja ki és az alkalmazott módszer és díjszámítás leírását belső szabályzatában rögzíti.
 
-[^21]: A 4. § (2) bekezdése a 26/2019. (II. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^29]: A 10. § a 126/2020. (IV. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^30]: A 4. § (2) bekezdése a 26/2019. (II. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
