@@ -4,7 +4,7 @@
 
 ## c) fejlesztési célú ügylet esetében az ügyletet csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
 
-1. melléklet az 1801/2019. (XII. 23.) Korm. határozathoz
+1. melléklet az 1801/2019. (XII. 23.) Korm. határozathoz[^1]
 
 | Sorszám | Önkormányzat neve | Ügylet adatai | Fejlesztés adatai | Kormány által engedélyezett fejlesztéshez kapcsolódó ügyletérték | Kormány az ügylethez/ fejlesztéshez hozzájárul (Igen, Nem, Részben) | Jóváhagyott ügylet adatai |
 
@@ -20,7 +20,7 @@
 
 | 2. | BEREKBÖSZÖRMÉNY KÖZSÉG ÖNKORMÁNYZATA | 31 643 056 | 1 | 7.5. Egyéb (nem köznevelési, szociális, kulturális és sportcélú) önkormányzati tulajdonú létesítmények felújítása, fejlesztés, valamint a fűtés- és világítási rendszer korszerűsítése | 31 643 056 | 31 643 056 | Igen | 0 | 2 876 641 | 2 876 641 | 25 889 774 |
 
-| 3. | BUDAPEST FŐVÁROS X. KERÜLET KŐBÁNYAI ÖNKORMÁNYZAT | 3 000 000 000 |  |  |  |  | Igen | 0 | 0 | 0 | 3 000 000 000 |
+| 3. | BUDAPEST FŐVÁROS X. KERÜLET KŐBÁNYAI ÖNKORMÁNYZAT | 3 000 000 000 |  |  |  |  | Igen | 0 | 3 000 000 000 | 0 | 0 |
 
 | 3.1. |  |  | 1 | 2.1. Óvoda építése, bővítése, műszaki felújítása és rekonstrukciója, a fűtés- és világítási rendszer korszerűsítése | 1 400 000 000 | 1 400 000 000 |  |  |  |  |  |
 
@@ -163,3 +163,5 @@
 | 34. | TISZAÚJVÁROS VÁROS ÖNKORMÁNYZATA | 152 186 000 | 3 | 7.6. Egyéb rendezési tervekhez kapcsolódó infrastrukturális beruházások | 152 186 000 | 152 186 000 | Igen | 0 | 152 186 000 | 0 | 0 |
 
 | 35. | VASSZÉCSENY KÖZSÉG ÖNKORMÁNYZATA | 29 874 313 | 1 | 7.1. Közutak, hidak építése, felújítása | 29 874 313 | 29 874 313 | Igen | 29 874 313 | 0 | 0 | 0 |
+
+[^1]: Az 1. melléklet az 1180/2020. (IV. 24.) Korm. határozat a)–b) pontja szerint módosított szöveg.
