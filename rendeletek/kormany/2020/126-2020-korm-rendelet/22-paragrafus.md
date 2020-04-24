@@ -1,0 +1,1 @@
+## „(4) Belföldi gazdálkodó szervezetnek a külföldiek Magyarországra történő utaztatási tevékenységéből származó követelése e rendelet alkalmazásában úgy minősül, mint a külföldi adóssal szembeni exportirányú külkereskedelmi és hitelszerződésből származó követelés.”
