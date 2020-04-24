@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti az a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet központi kezelésű előirányzatai felhasználásáról szóló 4/2018. (X. 10.) NVTNM rendelet.
+## 5. §[^1]
 
 1. melléklet a 2/2020. (IV. 22.) NVTNM rendelethez
 
@@ -103,3 +103,5 @@
 | 48 | 379940 | A BMSK Zrt. tulajdonosi joggyakorlásával kapcsolatos kiadások |  | Az előirányzat a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt. (a továbbiakban: BMSK Zrt.) tulajdonosi joggyakorlása alá tartozó gazdasági társaságban az állam nevében végrehajtott készpénzes tőkeemelésre, törvényben szabályozott pótbefizetésre, illetve tulajdonosi támogatás nyújtására szolgál. | Az állam tulajdonában lévő, a BMSK Zrt. tulajdonosi joggyakorlása alá tartozó gazdasági társaságok. | Támogatási szerződés vagy támogatói okirat. | előleg nyújtása lehetséges | Tőkeemelés, pótbefizetés jogcímen. Részletekben, vagy egyösszegben, idő- vagy teljesítésarányosan. | Pótbefizetés esetén a szerződés szerint. | - | BMSK Zrt. | - | - |
 
 | 49 | 278645 | Fejezeti tartalék |  |  | Az előirányzat a fejezet év közben felmerülő, előre nem látható kiadásaira használható fel. | - | - | - | Az előirányzat felhasználása fejezeten belüli átcsoportosítással történik a Fejezeti tartalék éves költségvetési törvényben meghatározott felhasználási szabályai szerint. | - | - |  | - | - |
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
