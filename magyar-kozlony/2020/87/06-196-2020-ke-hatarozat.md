@@ -1,0 +1,19 @@
+# A köztársasági elnök 196/2020. (IV. 24.) KE határozata
+
+Magyar Közlöny 2020. évi 87. szám, 2020. április 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/KAOA5It7SEss693sjMRI5ea0aab453af4/dokumentumok/b9cfd1e05a3811dd1d510b4084c215bef62b51bd/letoltes)
+
+---
+
+A köztársasági elnök 196/2020. (IV. 24.) KE határozata
+állampolgárság visszavonással történő megszüntetéséről
+Az Alaptörvény 9. cikk (4) bekezdés i) pontja, valamint a magyar állampolgárságról szóló 1993. évi LV. törvény 9. §-a
+alapján – a Miniszterelnökséget vezető miniszter TKF-1/474/3/2020. számú előterjesztésére – Knezevic Branimir
+(születési hely, idő: Főherceglak [Jugoszlávia], 1978. március 17.) magyar állampolgárságát visszavonom.
+Budapest, 2020. április 6.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2020. április 8.
+ Dr. Gulyás Gergely s. k.,
+ Miniszterelnökséget vezető miniszter
+KEH ügyszám: KEH/01493-3/2020.
