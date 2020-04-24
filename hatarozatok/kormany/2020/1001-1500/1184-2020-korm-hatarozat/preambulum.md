@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Magyarország Kormánya és Zalaegerszeg Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1252/2015. (IV. 23.) Korm. határozat (a továbbiakban: Korm. határozat) 12. pontjára –
