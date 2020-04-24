@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. §[^2]
 
 ## 3. Hatályba léptető rendelkezések
 
@@ -6,7 +6,7 @@
 
 (2) A 7. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
 
-(3)[^2]
+(3)[^3]
 
-[^1]: A 3. §-t a 4. § (3) bekezdése hatályon kívül helyezte.
-[^2]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. §-t a 4. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
