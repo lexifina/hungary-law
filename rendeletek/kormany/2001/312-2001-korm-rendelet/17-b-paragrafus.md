@@ -1,6 +1,6 @@
-17/B. §[^128] (1) A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
+17/B. §[^152] (1)[^153] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Zrt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
 
-a)[^129] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
+a)[^154] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
 
 aa) ezzel ok-okozati összefüggésben következik be a biztosított kára,
 
@@ -12,14 +12,15 @@ c) a biztosított a biztosított ügylethez kapcsolódóan jogerős bírósági 
 
 (2) Az egyes termékek esetén a (1) bekezdés alapján alkalmazandó mentesülési okokat a 19. § c) pontjának megfelelően az általános szerződési feltételek tartalmazzák.
 
-(3)[^130] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén a 17/A. § (1) bekezdésében szereplő mentesülési okok az (1) bekezdés c) pontjában, valamint a 17/A. § (1) bekezdés d) pont db) és dd) alpontjában meghatározott kivétellel nem alkalmazandók.
+(3)[^155] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén a 17/A. § (1) bekezdésében szereplő mentesülési okok az (1) bekezdés c) pontjában, valamint a 17/A. § (1) bekezdés d) pont db) és dd) alpontjában meghatározott kivétellel nem alkalmazandók.
 
-(4)[^131] A 17/A. § (4) bekezdésében meghatározottakat a forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén is alkalmazni kell azzal, hogy ezen ügyletek esetén is lehetőség van a 6. § (2) és (3) bekezdésében meghatározott visszkereset alkalmazására.
+(4)[^156] A 17/A. §-ban foglalt közép- és hosszú lejáratú és az e §-ban foglalt forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetében ha az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja, a Mehib Zrt. a 6. § (2) és (3) bekezdésében meghatározott eset kivételével a vitatott összeg vonatkozásában mindaddig elhalasztja a kárfizetést, amíg a vitát a külkereskedelmi szerződésben vagy a hitelmegállapodásban kikötött választottbíróság, ezek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. A Mehib Zrt. a kárfizetést a választottbíróság vagy bíróság jogerős ítéletének vagy határozatának kézhezvételétől számított 30 napon belül teljesíti.
 
-(5)[^132] Az egyéb módozatok esetén lehetőség van arra, hogy a Mehib Rt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse.
+(5)[^157] Az egyéb módozatok esetén lehetőség van arra, hogy a Mehib Zrt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse.
 
-[^128]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^129]: A 17/B. § (1) bekezdés a) pontja a 185/2013. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^130]: A 17/B. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^131]: A 17/B. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^132]: A 17/B. § (5) bekezdése a 185/2013. (VI. 7.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^152]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^153]: A 17/B. § (1) bekezdés nyitó szövegrésze a 126/2020. (IV. 16.) Korm. rendelet 36. § 38. pontja szerint módosított szöveg.
+[^154]: A 17/B. § (1) bekezdés a) pontja a 185/2013. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^155]: A 17/B. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^156]: A 17/B. § (4) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^157]: A 17/B. § (5) bekezdése a 185/2013. (VI. 7.) Korm. rendelet 11. § d) pontja, a 126/2020. (IV. 16.) Korm. rendelet 36. § 39. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
-## A kárfizetés alóli mentesülés[^124]
+## A kárfizetés alóli mentesülés[^145]
 
-17/A. §[^125] (1) Közép- és hosszú lejáratú ügyletek és az egyedi módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. mentesül a kárfizetési kötelezettség alól, ha
+17/A. §[^146] (1)[^147] Közép- és hosszú lejáratú ügyletek és az egyedi módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Zrt. mentesül a kárfizetési kötelezettség alól, ha
 
 a) a biztosított a biztosítási szerződés megkötéséhez valótlan vagy megtévesztő adatokat közölt, kivéve, ha a biztosított bizonyítja, hogy a biztosítónak tudomása volt arról, hogy az adatok valótlanok vagy megtévesztőek, vagy azok nem befolyásolják a biztosító által vállalt kockázat mértékét, vagy nem hatottak közre a biztosítási esemény bekövetkeztében;
 
-b)[^126] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
+b)[^148] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
 
 ba) ezzel ok-okozati összefüggésben következik be a biztosított kára,
 
@@ -12,11 +12,11 @@ bb) ennek következtében a biztosító kockázatvállalásának vagy kártérí
 
 c) a biztosított a biztosított ügylethez kapcsolódóan jogerős bírósági ítéletben megállapított bűncselekményt vagy jogerős bírósági ítéletben vagy hatósági határozatban megállapítottan jogszabálysértést követ el;
 
-d) a Mehib Rt. a 19. §-ban meghatározott általános szerződési feltételeiben előírja kárfizetési kötelezettsége alóli mentesülését azokra az esetekre, ha a kár közvetve vagy közvetlenül az alábbi okok miatt következett be:
+d)[^149] a kár közvetve vagy közvetlenül az alábbi okok miatt következett be:
 
 da) a biztosított vagy a nevében eljáró személy cselekménye vagy mulasztása,
 
-db)[^127] olyan rendelkezés, előírás a biztosított kereskedelmi vagy hitelszerződésben, vagy bármely, a Mehib Rt. által előírt, a hitelintézet által vállalt garanciával, egyéb biztosítékokkal kapcsolatos dokumentumokban, amely a biztosított igényérvényesítési jogait korlátozza,
+db) olyan rendelkezés, előírás a biztosított külkereskedelmi vagy hitelszerződésben vagy bármely, a Mehib Zrt. által előírt, a hitelintézet által vállalt garanciával, egyéb biztosítékokkal kapcsolatos dokumentumokban, amely a biztosított igényérvényesítési jogait olyan módon korlátozza, hogy a követelés érvényesítésére vagy végrehajtására vonatkozó bármely peren kívüli, peres vagy nemperes eljárás megindítását kizárja, korlátozza, illetve amelynek eredményeképpen az adós vagy a biztosíték kötelezettje a tartozás megfizetése alól részben vagy egészben mentesül,
 
 dc) a biztosítási szerződés megkötését követően a biztosított és az adós által létrejött olyan megállapodás, amely a követelés kifizetését késlelteti vagy megakadályozza,
 
@@ -24,11 +24,14 @@ dd) szállítói hitel esetében a 6. § (2) bekezdésében meghatározott eset 
 
 (2) Az egyes termékek esetén a (1) bekezdés alapján alkalmazandó mentesülési okokat a 19. § c) pontnak megfelelően az általános szerződési feltételek tartalmazzák.
 
-(3) Az (1) bekezdés d) pont dd) alpontjában meghatározott ok a 6. § (2) bekezdésében meghatározott visszkereseti jog alkalmazása esetén nem minősül mentesülési oknak.
+(3)[^150] Az (1) bekezdés d) pont dd) alpontjában meghatározott ok a 6. § (2) bekezdésében meghatározott megtérítési igényre vonatkozó megállapodás megkötése esetén nem minősül mentesülési oknak.
 
-(4) Ha az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja, a Mehib Rt. a 6. § (2) bekezdésben meghatározott eset kivételével mindaddig elhalasztja a kárfizetést, amíg a vitát a külkereskedelmi szerződésben vagy a hitelmegállapodásban kikötött választottbíróság, ezek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. A Mehib Rt. a kárfizetést a választottbíróság vagy bíróság jogerős ítéletének vagy határozatának kézhezvételétől számított 30 napon belül teljesíti.
+(4)[^151]
 
-[^124]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^125]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^126]: A 17/A. § (1) bekezdés b) pontja a 185/2013. (VI. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^127]: A 17/A. § (1) bekezdés d) pont db) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^145]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^146]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^147]: A 17/A. § (1) bekezdés nyitó szövegrésze a 126/2020. (IV. 16.) Korm. rendelet 36. § 37. pontja szerint módosított szöveg.
+[^148]: A 17/A. § (1) bekezdés b) pontja a 185/2013. (VI. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^149]: A 17. § (1) bekezdés d) pontja a 126/2020. (IV. 16.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^150]: A 17/A. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^151]: A 17/A. § (4) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.

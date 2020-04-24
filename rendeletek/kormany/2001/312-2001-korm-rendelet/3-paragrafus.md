@@ -1,20 +1,17 @@
-## 3. §[^32] A biztosítás alanyai egyrészről a Mehib Rt., mint biztosító vagy viszontbiztosító, másrészről
+## 3. §[^33] A biztosítás, illetve a viszontbiztosítás alanyai egyrészről a Mehib Zrt. mint biztosító, viszontbiztosító vagy viszontbiztosított, másrészről
 
-a) a külkereskedelmi tevékenységet folytató belföldi gazdálkodó szervezet,
+a) mint biztosított
 
-b)[^33] a külföldi vállalkozásba közvetlenül vagy közvetetten befektető belföldi gazdálkodó szervezet, abban az esetben, ha a Mehib Rt. kockázatviselése az egyéb módozat alá tartozó ügyletre terjed ki,
+aa) a külkereskedelmi tevékenységet folytató belföldi gazdálkodó szervezet,
 
-c)[^34] a 4. § (1) bekezdés c) pontjában meghatározott pénzügyi szolgáltatás valamelyikét nyújtó pénzügyi intézmény,
+ab) a külföldi vállalkozásba közvetlenül vagy közvetetten befektető belföldi gazdálkodó szervezet, abban az esetben, ha a Mehib Zrt. kockázatviselése az egyéb módozat alá tartozó ügyletre terjed ki,
 
-d)[^35] az utazásszervezési szolgáltatást végző belföldi vállalkozás, abban az esetben, ha a Mehib Rt. kockázatviselése rövid lejáratú ügyletnek minősülő ügyletre terjed ki,
+ac) a 4. § (1) bekezdés c) pontjában meghatározott pénzügyi szolgáltatás valamelyikét nyújtó pénzügyi intézmény, vagy
 
-mint biztosított vagy
+ad) az utazásszervezési szolgáltatást végző belföldi vállalkozás, abban az esetben, ha a Mehib Zrt. kockázatviselése rövid lejáratú ügyletnek minősülő ügyletre terjed ki, vagy
 
-e) a külföldi székhelyű hitelbiztosító vagy belföldi hitelbiztosító,
+b) a külföldi székhelyű biztosító mint viszontbiztosított vagy viszontbiztosító, vagy
 
-mint viszontbiztosított.
+c) a belföldi székhelyű biztosító mint viszontbiztosított.
 
-[^32]: A 3. § az 50/2010. (III. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^33]: A 3. § b) pontja a 185/2013. (VI. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^34]: A 3. § c) pontja a 22/2011. (III. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^35]: A 3. § d) pontja a 437/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^33]: A 3. § a 126/2020. (IV. 16.) Korm. rendelet 20. §-ával megállapított szöveg.

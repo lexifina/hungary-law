@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-312-20-
 | 2016-05-01 | 2001-312-20-22.19 | 88/2016. (IV. 29.) Korm. rendelet |
 | 2019-03-08 | 2001-312-20-22.20 | 26/2019. (II. 28.) Korm. rendelet |
 | 2019-03-26 | 2001-312-20-22.21 | 60/2019. (III. 25.) Korm. rendelet |
+| 2020-04-24 | 2001-312-20-22.22 | 126/2020. (IV. 16.) Korm. rendelet |
