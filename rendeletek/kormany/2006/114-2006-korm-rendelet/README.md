@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-114-20-
 | 2018-06-26 | 2006-114-20-22.26 | 108/2018. (VI. 25.) Korm. rendelet |
 | 2019-03-13 | 2006-114-20-22.27 | 108/2018. (VI. 25.) Korm. rendelet |
 | 2020-02-15 | 2006-114-20-22.28 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-04-25 | 2006-114-20-22.29 | 151/2020. (IV. 24.) Korm. rendelet |
