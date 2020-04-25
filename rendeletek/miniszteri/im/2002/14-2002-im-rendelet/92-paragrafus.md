@@ -1,4 +1,4 @@
-92. §[^226] (1) 2018. január 1-jén vagy azt követően indult, a polgári perrendtartásról szóló törvény hatálya alá tartozó polgári ügy:
+92. §[^230] (1) 2018. január 1-jén vagy azt követően indult, a polgári perrendtartásról szóló törvény hatálya alá tartozó polgári ügy:
 
 a) papíralapú kapcsolattartás esetén az a polgári ügy, amelyben a bírósági eljárást megindító irat 2018. január 1-jén vagy azt követően érkezett a bíróságra,
 
@@ -14,4 +14,4 @@ b) elektronikus kapcsolattartás esetén az a közigazgatási ügy, amelyben a b
 
 ide nem értve az újraindult ügyeket.
 
-[^226]: A 92. §-t a 20/2017. (XII. 21.) IM rendelet 11. §-a iktatta be.
+[^230]: A 92. §-t a 20/2017. (XII. 21.) IM rendelet 11. §-a iktatta be.

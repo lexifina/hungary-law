@@ -30,7 +30,7 @@ d) a bv. bíró a közérdekű munkának szabadságvesztésre történő átvál
 
 e) a közérdekű munka végrehajtása befejeződött és a bv. bíró a végrehajtási ügyet lezárta,
 
-f)[^172] a büntetést kiszabó bíróság a gyermekgondozási díj vagy a gyermekgondozási segély folyósítása, miatt a végrehajtás megkezdését elhalasztotta, illetve a bv. bíró a végrehajtást egy évre félbeszakította,
+f)[^176] a büntetést kiszabó bíróság a gyermekgondozási díj vagy a gyermekgondozási segély folyósítása, miatt a végrehajtás megkezdését elhalasztotta, illetve a bv. bíró a végrehajtást egy évre félbeszakította,
 
 g) a bv. bíró a büntetés végrehajtását kizáró vagy megszüntető okot állapított meg,
 
@@ -38,17 +38,17 @@ h) új munkahely kijelölése esetén az új munkahely más bv. csoport illeték
 
 (3) A F. ügy befejeződik, illetve azt befejezettként kell kezelni, ha a bv. bíró a feltételes szabadság kérdésében döntött, vagy az eljárást megszüntette.
 
-(4)[^173]
+(4)[^177]
 
-(5)[^174] Az egyéb bv. ügy befejeződik, illetve azt befejezettként kell kezelni, ha
+(5)[^178] Az egyéb bv. ügy befejeződik, illetve azt befejezettként kell kezelni, ha
 
-a)[^175] érdemi határozatot hoztak,
+a)[^179] érdemi határozatot hoztak,
 
 b) az eljárást felfüggesztették,
 
 c) az eljárást megszüntették.
 
-[^172]: A 73. § (2) bekezdésének f) pontjában az „egy évre” szövegrész a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lépett hatályba. Az f) pont a 41/2004. (XII. 21.) IM rendelet 9. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
-[^173]: A 73. § (4) bekezdése a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba.
-[^174]: A 73. § (5) bekezdése a 22/2004. (V. 18.) IM rendelet 18. § (2) bekezdésének c) pontja szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^175]: A 73. § (5) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 5. § 22. pontja szerint módosított szöveg.
+[^176]: A 73. § (2) bekezdésének f) pontjában az „egy évre” szövegrész a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lépett hatályba. Az f) pont a 41/2004. (XII. 21.) IM rendelet 9. §-a (4) bekezdésének a) pontja szerint módosított szöveg.
+[^177]: A 73. § (4) bekezdése a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba.
+[^178]: A 73. § (5) bekezdése a 22/2004. (V. 18.) IM rendelet 18. § (2) bekezdésének c) pontja szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^179]: A 73. § (5) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 5. § 22. pontja szerint módosított szöveg.
