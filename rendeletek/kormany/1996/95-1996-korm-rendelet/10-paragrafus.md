@@ -2,7 +2,7 @@
 
 ## A helyi önkormányzatok adósságrendezésére irányuló hitelfelvételhez nyújtandó visszterhes kamattámogatás megállapítása és folyósítása
 
-10. §[^25] (1) A pénzügyi gondnok a Har. törvény 20/A. § (1) bekezdése és 22/A. § (1) bekezdése szerinti kamattámogatás iránti kérelemhez a következő dokumentumokat csatolja:
+10. §[^28] (1) A pénzügyi gondnok a Har. törvény 20/A. § (1) bekezdése és 22/A. § (1) bekezdése szerinti kamattámogatás iránti kérelemhez a következő dokumentumokat csatolja:
 
 a) a helyi önkormányzat és a hitelezői között létrejövő egyezség adósságrendezési bizottság által elfogadott tervezetét, vagy a hitelezők által a Har. törvény 22/A. §-ában foglaltak szerint a pénzügyi gondnok részére átadott egyezségi tervet (terveket) tartalmazó okiratot;
 
@@ -32,4 +32,4 @@ d) az adósságrendezés során készített válságköltségvetésről, tovább
 
 (3) A kamattámogatás iránti kérelemmel és a kamattörlesztéshez kapcsolódó kamatmentes visszatérítendő támogatás iránti kérelemmel összefüggő döntés-előkészítés során a helyi önkormányzatokért felelős miniszter az (1) és (2) bekezdésben meghatározott dokumentumokon túl a helyi önkormányzattól további információt kérhet.
 
-[^25]: A 10. § a 243/2012. (VIII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^28]: A 10. § a 243/2012. (VIII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

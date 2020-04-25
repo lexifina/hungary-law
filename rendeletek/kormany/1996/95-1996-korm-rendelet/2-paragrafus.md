@@ -8,9 +8,11 @@ b) amely felszámoló maga vagy tagja, alkalmazottja több mint 3 éves felszám
 
 c)[^2] aki költségvetési minősítésű könyvvizsgáló, vagy aki költségvetési minősítésű könyvvizsgálót bíz meg az eljárás lebonyolításának a felügyeletével;
 
-d) aki a tevékenységéből eredő esetleges kártérítési kötelezettségek fedezetére legalább 30 millió forint értékben biztosítási vagy bankgarancia szerződést kötött;
+d)[^3]
 
-e) amely részvénytársaság csak névre szóló részvényekkel rendelkezik.
+e)[^4]
 
 [^1]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 90. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^2]: A 2. § c) pontja a 243/2012. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § d) pontját a 151/2020. (IV. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^4]: A 2. § e) pontját a 151/2020. (IV. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
