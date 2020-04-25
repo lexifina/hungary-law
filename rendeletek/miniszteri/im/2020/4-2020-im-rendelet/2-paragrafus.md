@@ -1,0 +1,1 @@
+## „(3) A bírósági irattárban őrzött, 1992. január 1. napján és azt követően keletkezett közjegyzői nemperes eljárások iratait a közjegyzői ügyviteli szabályok irattári terve szerint, az abban meghatározott megőrzési idő letelte után a bíróság selejtezi.”
