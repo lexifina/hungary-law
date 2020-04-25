@@ -1,3 +1,3 @@
-## 9. § Az R2. 1. alcíme a következő 1/A. §-sal egészül ki:
+## 9. §[^10]
 
-## „1/A. § E rendelet garanciákra vonatkozó rendelkezéseit az Eximbank által az állam készfizető kezessége mellett vállalható készfizető kezességek esetében is alkalmazni kell.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

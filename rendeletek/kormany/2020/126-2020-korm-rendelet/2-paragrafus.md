@@ -1,5 +1,3 @@
-## 1. § A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet (a továbbiakban: R1.) 3. § c) pontja helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## (E rendelet alkalmazása szempontjából)
-
-## „c) diszkontkamatláb: az az éves szintű kamatláb, amely a futamidő alatt a faktorált, forfetírozott, leszámítolt exportkövetelések hátralévő, még nem törlesztett összegére (névértékére) vetítve, a diszkontértékkel (jelenértékkel) megegyező összegű exporthitelnyújtás és követelésvásárlás esetén az exporthitelekre érvényesített – a kétéves és két éven túli futamidő esetén a 7. § (2) bekezdésében, egyébként a 7. § (1) bekezdésében meghatározott legkisebb kamatlábbal számított – kamattal egyező hozamot eredményezne. A faktorált, forfetírozott, leszámítolt követelések diszkontértékének (jelenértékének) számításakor kétéves és két éven túli futamidő esetén a 7. § (2) bekezdése, egyébként a 7. § (1) bekezdése szerinti kamatlábakat kell alapul venni. [d = ((1–D)/t)*n; ahol „d” az éves szintű diszkontkamatláb századrésze; „n” az éven belüli elszámolási időszakok száma; „D” a diszkonttényező: 1/(1+i/n)t; „i” a kétéves és két éven túli futamidő esetén a 7. § (2) bekezdése, egyébként a 7. § (1) bekezdése szerinti kamatláb éves szinten meghatározott mértékének századrésze; „t” az években kifejezett futamidő és az éven belüli elszámolási időszakok számának szorzata];”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

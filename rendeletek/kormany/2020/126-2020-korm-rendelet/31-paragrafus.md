@@ -1,1 +1,3 @@
-## „(3) Az (1) bekezdés d) pont dd) alpontjában meghatározott ok a 6. § (2) bekezdésében meghatározott megtérítési igényre vonatkozó megállapodás megkötése esetén nem minősül mentesülési oknak.”
+## 30. §[^31]
+
+[^31]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

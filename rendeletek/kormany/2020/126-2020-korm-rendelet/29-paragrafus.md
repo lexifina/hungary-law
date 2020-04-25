@@ -1,3 +1,3 @@
-## 28. § Az R3. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 28. §[^29]
 
-## „(1) A biztosítási esemény bekövetkeztének és a kár összegének bizonyítása a biztosított kötelezettsége. A Mehib Zrt. nem ismerhet el olyan kárigényt, amely a teljes kárigény tényleges értékét, illetve a biztosítottnak az exportirányú külkereskedelmi szerződés vagy a hitelmegállapodás alapján járó összeget meghaladja, ide nem értve azokat az eseteket, amikor a 6. § (2) és (3) bekezdésében foglaltak szerint az általános szerződési feltételek nem tartalmazzák a mentesülést arra az esetre, ha a kár a szerződés teljesítésében részt vevők szerződésben meghatározott kötelezettségeinek nem teljesítéséből vagy nem szerződésszerű teljesítéséből ered, továbbá ha nem tartalmazzák a 17/B. § (4) bekezdésében leírt kárfizetési halasztást.”
+[^29]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

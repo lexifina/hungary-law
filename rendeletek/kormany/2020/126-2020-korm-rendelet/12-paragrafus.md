@@ -1,1 +1,3 @@
-## „(2) Szolgáltatásexporthoz e rendelet alapján akkor nyújtható garancia, ha a szolgáltatást nyújtó belföldi gazdálkodó szervezet vagy annak az exportált szolgáltatás nyújtásában részt vevő, belföldi gazdálkodó szervezetnek minősülő alvállalkozója által foglalkoztatottak több mint fele olyan személy, aki a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szabályai szerint vele biztosítási kötelezettséggel járó jogviszonyban áll. A feltételek megvalósulását az Eximbank belső szabályzatában foglaltak szerint ellenőrzi.”
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

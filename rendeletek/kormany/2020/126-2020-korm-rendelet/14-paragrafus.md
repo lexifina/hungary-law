@@ -1,1 +1,3 @@
-## „a) amennyiben az Eximbank egy bizonyos ügyletre vagy ügyletcsoportra, egy bizonyos ágazatra vagy ágazatokra, egy bizonyos országra vagy országokra, vagy teljes rendszerére vonatkozóan az e rendelet rendelkezéseinél kedvezőbb fedezeti feltételek nyújtásával el szándékozik térni, döntése hatálybalépését megelőzően legalább hét munkanappal értesíti e szándékáról az Európai Unió tagállamában lévő export-hitelügynökségeket (a továbbiakban: ECA) és a Bizottságot, megjelölve a tervezett eltérés okát, amely lehet a nemzetközi versenyhez történő igazodás is, és közli a felszámításra kerülő megfelelő díjmértéket,”
+## 13. §[^14]
+
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
