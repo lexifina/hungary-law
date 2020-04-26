@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-151-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-25 | 2020-151-20-22.1 | 151/2020. (IV. 24.) Korm. rendelet |
+| 2020-04-26 | 2020-151-20-22.2 | 2010: CXXX. törvény |

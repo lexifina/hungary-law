@@ -1,3 +1,3 @@
-## 7. § Az Fnj. Korm. r. 4. § (1a) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(1a) A nyilvántartásba vétellel kapcsolatos közigazgatási hatósági eljárás ügyintézési határideje az értékelő jegyzőkönyv felszámolók névjegyzékét vezető hatósághoz történő megérkezését követő napon kezdődik. A pályázó nyilvántartásba vételével kapcsolatos közigazgatási hatósági eljárásban más pályázókat az ügyféli jogállás nem illeti meg.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

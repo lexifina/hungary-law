@@ -1,7 +1,3 @@
-## „c) a pályázat benyújtásáig esedékes, a megelőző két üzleti évre vonatkozó számviteli törvény szerinti éves beszámolót,”
+## 1. §[^2]
 
-## 2. § A Harvhr.
-
-a) 3. § (1) bekezdésében az „ötévente” szövegrész helyébe a „hétévente” szöveg,
-
-b) 4. § (4) bekezdés nyitó szövegrészében az „A pályázatot írásban kell benyújtani” szövegrész helyébe az „A pályázatot elektronikusan kell benyújtani” szöveg
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

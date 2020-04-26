@@ -1,1 +1,3 @@
-## „(3) E rendeletnek a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény végrehajtásának egyes kérdéseiről szóló 95/1996. (VII. 4.) Korm. rendelet és a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet módosításáról szóló 151/2020. (IV. 24.) Korm. rendelettel [a továbbiakban: Módr1.] megállapított 2. § (3) bekezdése szerinti 30 millió forintos biztosítékra vonatkozó követelményt először az (1) bekezdés szerinti új névjegyzék felállítására kiírt pályázatokat követő névjegyzékbe vételt követően kell érvényesíteni az új felszámolói névjegyzékbe felvett és a Cstv. 27/A. § (6a) bekezdése szerinti hatósági nyilvántartásba felvett felszámoló szervezeteknél.”
+## 10. §[^11]
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
