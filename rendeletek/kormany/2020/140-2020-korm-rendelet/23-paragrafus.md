@@ -1,12 +1,12 @@
-## 22. §[^6]
+## 22. §[^2]
 
-23. § (1)[^7]
+23. § (1)[^3]
 
-(2)[^8]
+(2)[^4]
 
-(3)[^9]
+(3)[^5]
 
-[^6]: A 22. § a 25. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
-[^7]: A 23. § (1) bekezdése a 25. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
-[^8]: A 23. § (2) bekezdése a 25. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^9]: A 23. § (3) bekezdése a 25. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^2]: A 22. § a 25. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^3]: A 23. § (1) bekezdése a 25. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^4]: A 23. § (2) bekezdése a 25. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^5]: A 23. § (3) bekezdése a 25. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.

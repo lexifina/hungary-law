@@ -1,3 +1,1 @@
-## 5. §[^1]
-
-[^1]: Az 5. § a 25. § (2) bekezdése alapján 2020. április 26-án lép hatályba.
+## 5. § Az e rendelkezés hatálybalépésétől 2020. december 31-ig terjedő időszakban eltöltött vendégéjszaka utáni idegenforgalmi adót az adó alanyának nem kell megfizetnie, az adó beszedésére kötelezettnek nem kell beszednie, befizetne, a megállapított, de be nem szedett adót azonban be kell vallania az adóhatósághoz. Nem kell bevallani a megállapított adót, ha annak összege nulla.

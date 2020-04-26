@@ -1,3 +1,7 @@
-## 7. §[^3]
+8. § (1) A Kvtv. 2. melléklet I. pont 1. alpont e) pont Üdülőhelyi feladatok támogatása jogcímen (a továbbiakban: üdülőhelyi támogatás) a Kvtv. 2. melléklet I. pont 1. alpont f) pontja szerinti beszámítással csökkentett és kiegészítéssel növelt összegre a települési önkormányzat e rendelkezés hatálybalépésétől a veszélyhelyzet megszűnéséig, de legfeljebb 2020. december 31-ig nem jogosult.
 
-[^3]: A 7. § a 25. § (2) bekezdése alapján 2020. április 26-án lép hatályba.
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az (1) bekezdésben foglalt, a települési önkormányzat részére ki nem fizetett üdülőhelyi támogatás terhére a Kvtv. 1. melléklet XLVI. Járvány Elleni Védekezési Alap fejezetbe átcsoportosítson.
+
+(3) Az (1) bekezdés végrehajtása érdekében az üdülőhelyi támogatásra a 2020. január 1. és az e rendelkezés hatálybalépésének napja közötti időszakra időarányosan jogosult a települési önkormányzat, akként, hogy a támogatás folyósítása a 2020. május havi nettó finanszírozástól kezdődően a veszélyhelyzet megszűnésével érintett hónap utolsó napjáig, legfeljebb a 2020. december havi nettó finanszírozással bezárólag szünetel. Túlfizetés esetén a különbözet a 2020. május havi nettó finanszírozás keretében kell visszavonni.
+
+(4) A települési önkormányzatot a (3) bekezdés szerint megillető időarányos összeg a Kvtv. 2. melléklet Kiegészítő szabályok 3. Az I. jogcím szerinti támogatásokra vonatkozó speciális kiegészítő szabályok pont fa) alpontjában felsorolt kiadásokra használható fel, és azzal a 2020. évi éves költségvetési beszámoló keretében kell elszámolni.
