@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a Büsz. 7. § (4) bekezdésében az „ , illetve közigazgatási és munkaügyi bíróság” szövegrész.
+## 1–5. §[^2]
 
 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
