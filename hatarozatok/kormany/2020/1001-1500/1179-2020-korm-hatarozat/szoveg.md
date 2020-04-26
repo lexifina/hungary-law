@@ -52,4 +52,6 @@ c) a közfoglalkoztatás, társadalmi felzárkózás és a szociális földprogr
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti a közfoglalkoztatás új rendszerének kialakításával összefüggésben a kormányzati feladatok átalakításáról szóló 1192/2011. (VI. 14.) Korm. határozat.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
