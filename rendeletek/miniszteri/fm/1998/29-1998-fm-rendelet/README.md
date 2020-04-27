@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-29-20-1
 | 2013-06-04 | 1998-29-20-11.4 | 45/2013. (VI. 3.) VM rendelet |
 | 2013-08-01 | 1998-29-20-11.5 | 118/2009. (VIII. 31.) FVM rendelet |
 | 2017-08-18 | 1998-29-20-11.6 | 42/2017. (VIII. 17.) FM rendelet |
+| 2020-04-27 | 1998-29-20-11.7 | 15/2020. (IV. 22.) AM rendelet |

@@ -6,7 +6,7 @@
 
 ## 2. Az alapanyagba integrált arckép méretének legalább 30x24 mm-nek kell lenni. Az arcképmezőn belül az áll és a fejtető közötti résznek a teljes képmagasság 70-80%-a közöttinek kell lenni.
 
-7. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^22]
+7. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^24]
 
 ## A mezőőri és a hegyőri szolgálati napló formája és vezetése
 
@@ -20,4 +20,4 @@ I. A szolgálati napló kemény borítólapú, 1–50-ig számozott kettős lapo
 
 II. Kitöltési útmutató a szolgálati naplóhoz (2. oldal)
 
-[^22]: A 7. számú melléklet a 118/2009. (VIII. 31.) FVM rendelet 10. § (1) bekezdésének d) pontja, a 45/2013. (VI. 3.) VM rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^24]: A 7. számú melléklet a 118/2009. (VIII. 31.) FVM rendelet 10. § (1) bekezdésének d) pontja, a 45/2013. (VI. 3.) VM rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.

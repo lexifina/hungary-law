@@ -1,17 +1,3 @@
-## Kiállító szerv: ....................
-
-## ESKÜOKMÁNY
-
-## Igazolom, hogy ......................... mezőőr/hegyőr (szül. hely, idő: ....................... lakcím: .......................................) a fegyveres biztonsági őrségről a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény szerinti esküt a mai napon előttem letette.
-
-## Ennek alapján részére ........... számú szolgálati igazolványt, szolgálati jelvényt és szolgálati naplót kiadtam. Az esküt tett mezőőrök nyilvántartásába ................. sorszámmal bevezettem.
-
-## Kelt: ..............................
-
-## P. H.
-
-## ......................
-
-## a járási hivatal vezetője/hegybíró
+## Én .................... esküszöm, hogy működési területemen a termőföldeket, a termőföldön lévő terményeket és termékeket, felszereléseket, eszközöket, haszonállatokat, mezőgazdasági építményeket és földmérési jeleket a vonatkozó jogszabályok rendelkezései szerint lelkiismeretesen őrzöm. A hatályos jogszabályok szerint mindazon személyekkel szemben késedelem nélkül eljárok, akik a mezőgazdaság vagy a tulajdonosok érdekeit sértik, értékeit veszélyeztetik. A jogszabályban biztosított jogommal vissza nem élek.
 
 4. számú melléklet a 29/1998. (IV. 30.) FM rendelethez

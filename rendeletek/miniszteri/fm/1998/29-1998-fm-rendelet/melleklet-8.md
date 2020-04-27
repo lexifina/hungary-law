@@ -16,6 +16,6 @@
 
 ## Az eseményekről a legrövidebb úton az őrzési utasítás szerint a mezőőr köteles tájékoztatni a munkáltatóját. A munkáltató a szolgálati napló eseményt tartalmazó első példányát szükség esetén magához veszi, amelynek tényét a másodpéldányon dátummal, alírásával és pecsétjével igazol.
 
-8. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^23]
+8. számú melléklet a 29/1998. (IV. 30.) FM rendelethez[^25]
 
-[^23]: A 8. számú mellékletet a 42/2017. (VIII. 17.) FM rendelet 12. §-a hatályon kívül helyezte.
+[^25]: A 8. számú mellékletet a 42/2017. (VIII. 17.) FM rendelet 12. §-a hatályon kívül helyezte.
