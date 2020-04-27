@@ -1,33 +1,3 @@
-## Kérelem a mezei őrszolgálat és hegyőrség megalakulásához nyújtott támogatás igényléséhez
-
-## ...................... Megyei Kormányhivatal ................................ Járási Hivatala
-
-## Az állami hozzájárulás igénylése céljából a mezei őrszolgálat megalakításához, fenntartásához nyújtandó állami hozzájárulás igénybevételének rendjéről és feltételeiről szóló 64/2009. (V. 22.) FVM–PM együttes rendelet alapján megküldöm a nyilvántartásba vett működési területű mezei őrszolgálat/hegyőrség megalakításának költségeiről készült kimutatást.
-
-## A költségek részletezése:
-
-## Bizonylat száma: Összeg (Ft):
-
-## ................................................ ................................................
-
-## ................................................ ................................................
-
-## ................................................ ................................................
-
-## ................................................ ................................................
-
-## Összesen: ................................................
-
-## Kijelentem, hogy a mezei őrszolgálat/hegyőrség a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvényben és a mezőőrök és hegyőrök szolgálati viszonyáról szóló 29/1998. (IV. 30.) FM rendeletben előírt valamennyi eszközzel rendelkezik.
-
-## Ezek alapján kérem az önkormányzat/hegyközség részére a hatályos jogszabályok szerint .................... Ft összegű támogatás kifizetése iránti intézkedést.
-
-## ................................................, 20..... ......... hó ..... nap
-
-## ................................................................
-
-## önkormányzat jegyzője/hegybíró
-
 2. számú melléklet a 64/2009. (V. 22.) FVM–PM együttes rendelethez[^12]
 
-[^12]: A 2. melléklet a 42/2017. (VIII. 17.) FM rendelet 127. § c) pontja szerint módosított szöveg.
+[^12]: A 2. számú mellékletet a 15/2020. (IV. 22.) AM rendelet 9. §-a hatályon kívül helyezte.
