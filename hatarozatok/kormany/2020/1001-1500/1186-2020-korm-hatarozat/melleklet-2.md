@@ -1,0 +1,181 @@
+## A Kedvezményezett Települések Gazdaságélénkítő Programja
+
+## 2. ütemébe javasolt települések
+
+## 1. Drávacsehi
+
+## 2. Rátka
+
+## 3. Karancslapujtő
+
+## 4. Kismarja
+
+## 5. Almáskamarás
+
+## 6. Bakonszeg
+
+## 7. Karancskeszi
+
+## 8. Pusztamérges
+
+## 9. Ludányhalászi
+
+## 10. Biharnagybajom
+
+## 11. Cece
+
+## 12. Gávavencsellő
+
+## 13. Magyarhomorog
+
+## 14. Csanádapáca
+
+## 15. Sellye
+
+## 16. Biharkeresztes
+
+## 17. Nyíribrony
+
+## 18. Csökmő
+
+## 19. Tetétlen
+
+## 20. Bodrogkeresztúr
+
+## 21. Madaras
+
+## 22. Hőgyész
+
+## 23. Mezőhegyes
+
+## 24. Cigánd
+
+## 25. Boldva
+
+## 26. Vajdácska
+
+## 27. Jászkisér
+
+## 28. Dédestapolcsány
+
+## 29. Mozsgó
+
+## 30. Földes
+
+## 31. Tarhos
+
+## 32. Ásotthalom
+
+## 33. Vajszló
+
+## 34. Laskod
+
+## 35. Vésztő
+
+## 36. Kállósemjén
+
+## 37. Abádszalók
+
+## 38. Tiszaszentimre
+
+## 39. Mezőtárkány
+
+## 40. Mélykút
+
+## 41. Tiszagyenda
+
+## 42. Tornyospálca
+
+## 43. Furta
+
+## 44. Tyukod
+
+## 45. Sárrétudvari
+
+## 46. Buj
+
+## 47. Kadarkút
+
+## 48. Nyírtass
+
+## 49. Nagyhalász
+
+## 50. Fegyvernek
+
+2. melléklet az 1186/2020. (IV. 28.) Korm. határozathoz
+
+## A „Felzárkózó települések” következő körébe bevonni javasolt települések
+
+1. Arló
+
+2. Átány
+
+3. Bagamér
+
+4. Balajt
+
+5. Cserdi
+
+6. Drávaiványi
+
+7. Értény
+
+8. Felsődobsza
+
+9. Gadna
+
+10. Hernádvécse
+
+11. Karancsság
+
+12. Kerecsend
+
+13. Kistolmács
+
+14. Kömlő
+
+15. Litke
+
+16. Lúzsok
+
+17. Mátraverebély
+
+18. Mezőladány
+
+19. Nagycserkesz
+
+20. Oltárc
+
+21. Pálmajor
+
+22. Piricse
+
+23. Piskó
+
+24. Pocsaj
+
+25. Pusztakovácsi
+
+26. Ságújfalu
+
+27. Sárkeresztúr
+
+28. Sósvertike
+
+29. Szakácsi
+
+30. Székely
+
+31. Táska
+
+32. Tatárszentgyörgy
+
+33. Vejti
+
+34. Vilmány
+
+35. Zajk
+
+36. Zalakomár
+
+37. Miskolc
