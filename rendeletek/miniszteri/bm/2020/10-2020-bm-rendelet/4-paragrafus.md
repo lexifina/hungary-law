@@ -1,0 +1,1 @@
+## 3. A tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló 45/2011. (XII. 7.) BM rendelet módosítása
