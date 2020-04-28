@@ -4,4 +4,6 @@
 
 (3) A bioetanol-üzem területén alapanyag-tároló, valamint előkészítő építmény akkor létesíthető, ha azok külön tűzszakaszként kerülnek kialakításra.
 
-(4) A bioetanol-üzem „A” vagy „B” tűzveszélyességi osztályba tartozó helyiségeit csak hasadó vagy hasadó- nyíló felület kialakításával szabad létesíteni. A hasadó vagy hasadó-nyíló felület kialakítása nem kötelező, ha a helyiség beépített tűzjelző és tűzoltó berendezéssel van ellátva, továbbá a helyiségben az ott alkalmazott technológiának megfelelő folyadékgőzkoncentráció-érzékelő van elhelyezve, amely az alsó robbanási határérték 20%-ának elérését érzékelve hallható és látható módon jelzést adva elindítja a vészszellőzést; az alsó robbanási határérték 40%-ának elérését érzékelve elindítja az üzemeltető által előírt, a technológiának megfelelő beavatkozásokat, amelyek megakadályozzák a tüzet vagy a robbanást.
+(4)[^11]
+
+[^11]: A 13. § (4) bekezdését a 10/2020. (IV. 27.) BM rendelet 3. § c) pontja hatályon kívül helyezte.

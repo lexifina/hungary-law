@@ -2,7 +2,7 @@
 
 a) a tartályok, egyéb berendezések és technológiai csővezetékek belső terei,
 
-b) a robbanásveszélyes folyadékot gyakran és nagy mennyiségben tartalmazó akna belseje.
+b)[^14] a fokozottan tűz- vagy robbanásveszélyes folyadékot gyakran és nagy mennyiségben tartalmazó akna belseje.
 
 (2) 1-es robbanásveszélyességi zónába tartoznak a biodízelüzem azon területei, ahol a robbanásveszélyes közeg normál üzemben várhatóan alkalmanként fordul elő, így különösen
 
@@ -29,3 +29,5 @@ d) az 1-es zónába sorolt akna fölötti tér 0,8 méter magasságig és az akn
 e) a helyiségben elhelyezett szivattyú esetén a szivattyú körüli – a 3 méter sugarú gömb alakú 1-es zónán túli – további 3 méter sugarú gömb alakú tér.
 
 (4) Ha a létesítés során az (1)–(3) bekezdésben meghatározottól eltérő típusú és kiterjedésű zónabesorolást kívánnak kialakítani, azt csak a vonatkozó szabványokban foglaltak szerint vagy azzal egyenértékű műszaki megoldásnak megfelelően lehet végrehajtani. Ennek igazolására a tervező által elkészített, a robbanásveszélyességi zónák besorolását tartalmazó dokumentáció szolgál.
+
+[^14]: A 19. § (1) bekezdés b) pontja a 10/2020. (IV. 27.) BM rendelet 2. §-a szerint módosított szöveg.

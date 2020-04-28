@@ -8,7 +8,7 @@
 
 ## Megjegyzés: Épületbe telepített gáztárolók esetén a védőtávolságot az épület külső falsíkjától kell mérni.
 
-2. melléklet a 3/2009. (II. 4.) ÖM rendelethez[^12]
+2. melléklet a 3/2009. (II. 4.) ÖM rendelethez[^17]
 
 A föld feletti gáztárolók és a biogázüzemhez technológiailag közvetlenül nem kapcsolódó építmények közötti minimális elhelyezési távolság
 
@@ -24,4 +24,4 @@ A föld feletti gáztárolók és a biogázüzemhez technológiailag közvetlen�
 
 Megjegyzés: Az 1–2. melléklet táblázatainak fejlécében megállapított „tól–ig” értékek értelmezése: az alsó határnál nagyobb, de legfeljebb a felső határértékig. A távolságértékek méterben értendők.
 
-[^12]: A 2. melléklet a 4/2015. (II. 27.) BM rendelet 5. §-ával megállapított szöveg.
+[^17]: A 2. melléklet a 4/2015. (II. 27.) BM rendelet 5. §-ával megállapított szöveg.
