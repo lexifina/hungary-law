@@ -1,4 +1,4 @@
-## 3. §[^4] A Szabályzatnak tartalmaznia kell:
+## 3. §[^5] A Szabályzatnak tartalmaznia kell:
 
 a) a tűzvédelmi feladatokat ellátó személyek feladatait és kötelezettségeit;
 
@@ -22,4 +22,4 @@ j) a készítője nevét és elérhetőségét, a készítő aláírását; vala
 
 k) a készítés dátumát, a készítő tűzvédelmi szakmai képesítését igazoló dokumentum egyedi azonosítóit (a kiállító intézmény nevét, címét, a dokumentum számát, a szakmai képesítés megnevezését, a kiállítás dátumát).
 
-[^4]: A 3. § a 10/2017. (VI. 1.) BM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 3. § a 10/2017. (VI. 1.) BM rendelet 3. §-ával megállapított szöveg.
