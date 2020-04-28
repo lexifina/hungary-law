@@ -14,6 +14,8 @@
 
 (7) A veszélyhelyzet ideje alatt az állomány tagja számára a Hjt. 105. § (3) bekezdés a) és c) pontja szerint elrendelt laktanyán kívüli készenléti szolgálat után fokozott igénybevételi illetménypótlék nem jár, valamint a Hjt. 105. § (3) bekezdés b) és c) pontja szerint elrendelt laktanyai készenléti szolgálat után a fokozott igénybevételi illetménypótlék óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
 
+(7a)[^2] A veszélyhelyzet ideje alatt a tényleges szolgálatot teljesítő önkéntes tartalékos katona részére a Hjt. 105. § (3) bekezdés b) pontja szerint elrendelt laktanyai készenléti szolgálat után fokozott igénybevételi pótlék jár, melynek óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
+
 (8) A veszélyhelyzet ideje alatt a Hjt. 96. § (4) bekezdése szerinti fokozottan veszélyes szolgálati beosztás esetén a tevékenységre fordítható napi szolgálatteljesítési idő legfeljebb kilenc óra lehet.
 
 (9) A veszélyhelyzet ideje alatt, ha a Hjt. hatálya alá tartozó a Hjt. 108. § (1) bekezdés c) pontja szerint mentesül a szolgálatteljesítési kötelezettség alól, akkor erre az időtartamra az időarányos illetményének 50%-ára jogosult.
@@ -24,4 +26,10 @@
 
 (12) A veszélyhelyzet ideje alatt a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a Hjt. 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
 
-(13) A veszélyhelyzet ideje alatt elrendelt laktanyai készenléti szolgálat esetében a Hjt. 106. § (1) bekezdésétől eltérően nem kell figyelembe venni a készenlét miniszteri rendeletben meghatározott besorolását.
+(13)[^3] A veszélyhelyzet ideje alatt elrendelt őr-, ügyeleti és készenléti szolgálat esetében a Hjt. 106. § (1) bekezdésétől eltérően nem kell figyelembe venni a szolgálat miniszteri rendeletben meghatározott besorolását.
+
+(14)[^4] A Hjt. 247/I. § (4) bekezdését a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg.
+
+[^2]: A 4. § (7a) bekezdését a 153/2020. (IV. 27.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^3]: A 4. § (13) bekezdése a 153/2020. (IV. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § (14) bekezdését a 153/2020. (IV. 27.) Korm. rendelet 2. § (3) bekezdése iktatta be.
