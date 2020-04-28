@@ -6,7 +6,7 @@
 
 1. Hegesztők és az építőipari tevékenység során nyílt lánggal járó munkát végzők.
 
-2.[^31] Az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyagoknak bármely időpontban 300 kg tömegmennyiséget meghaladó mennyiségű tárolását vagy 100 kg tömegmennyiséget meghaladó mennyiségű ipari vagy szolgáltatás körébe tartozó feldolgozását, technológiai felhasználását végzők.
+2.[^31] Az Országos Tűzvédelmi Szabályzat szerint fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyagoknak bármely időpontban 300 kg tömegmennyiséget meghaladó mennyiségű tárolását vagy 100 kg tömegmennyiséget meghaladó mennyiségű ipari vagy szolgáltatás körébe tartozó feldolgozását, technológiai felhasználását végzők.
 
 3. Éghető gáz lefejtését, töltését, kiszolgálását, továbbá autógáz kiszolgálását végzők.
 
@@ -37,7 +37,7 @@
 16.[^36] Tűzállóságot növelő burkolatok beépítését, karbantartását végzők.
 
 [^30]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 64/2013. (XII. 4.) BM rendelet 7. §-a iktatta be.
-[^31]: Az 1. melléklet 2. pontja a 4/2015. (II. 27.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet 2. pontja a 4/2015. (II. 27.) BM rendelet 10. § (1) bekezdésével megállapított, a 10/2020. (IV. 27.) BM rendelet 4. §-a szerint módosított szöveg.
 [^32]: Az 1. melléklet 4. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (10) bekezdésével megállapított, a 64/2013. (XII. 4.) BM rendelet 10. § b) pontja szerint módosított szöveg.
 [^33]: Az 1. melléklet 13. pontja a 67/2012. (XII. 14.) BM rendelet 14. § (11) bekezdésével megállapított szöveg.
 [^34]: Az 1. melléklet 14. pontját a 67/2012. (XII. 14.) BM rendelet 14. § (12) bekezdése iktatta be.
