@@ -1,1 +1,3 @@
-## 3. § Az R. 5. § (8) bekezdésében az „Mt. 110. §-a szerint elrendelt rendelkezésre állás idejére” szövegrész helyébe az „Mt. 110. §-a szerint elrendelt készenlét idejére” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(14) A Hjt. 247/I. § (4) bekezdését a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
