@@ -356,6 +356,6 @@
 
 |  | RT – ruházati jellegű tartós használatra szánt eszközök |
 
-9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^153]
+9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^155]
 
-[^153]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.
+[^155]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.
