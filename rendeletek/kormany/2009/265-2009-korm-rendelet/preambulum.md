@@ -1,1 +1,0 @@
-A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 19., 29., 32. és 33. pontjában, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 13. § (1) bekezdésében kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva – a következőket rendeli:
