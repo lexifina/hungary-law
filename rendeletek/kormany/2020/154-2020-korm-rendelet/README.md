@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-154-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-28 | 2020-154-20-22.1 | 154/2020. (IV. 27.) Korm. rendelet |
+| 2020-04-29 | 2020-154-20-22.2 | 2010: CXXX. törvény |
