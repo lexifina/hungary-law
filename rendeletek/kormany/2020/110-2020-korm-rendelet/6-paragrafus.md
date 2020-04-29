@@ -1,0 +1,5 @@
+6. § (1) Földgázellátási válsághelyzet bármely szintjének kihirdetése esetén a földgázipari vállalkozás köteles az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (1) bekezdésében meghatározott információkat napi rendszerességgel a Hivatal részére megküldeni.
+
+(2) Vészhelyzeti szint kihirdetése esetén – az (1) bekezdésben meghatározottakon túl – a kihirdetést követő 1 órán belül a földgázkereskedők kötelesek a Hivatal és a szállítási rendszerirányító részére a vészhelyzeti szint fennállása alatt naponta a következő három napra vonatkozóan megadni az ellátásukban lévő felhasználók korlátozási kategóriánként, valamint gázátadó állomásonként összesített napi csúcsigényét –12 °C referencia hőmérsékletre és az Országos Meteorológiai Szolgálat előrejelzése alapján ténylegesen várható hőmérsékletre meghatározva.
+
+(3) Vészhelyzeti szint elrendelése esetén a rendszerhasználó köteles írásban tájékoztatni a Hivatalt és a szállítási rendszerirányítót minden nap 13 óráig a következő gáznapon és héten igénybe vehető szerződéssel lekötött vagy szerződéssel igénybe vehető földgázmennyiségekről és az igénybevétel technikai és árfeltételeiről.
