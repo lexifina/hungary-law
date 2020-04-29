@@ -1,0 +1,1 @@
+## „f) alapbér: a kérelem benyújtásának napján hatályos alapbér, melynek részeként figyelembe kell venni a felszolgálási díj mértékének megállapításáról, valamint a felszolgálási díj alkalmazásának és felhasználásának szabályairól szóló 71/2005. (IX. 27.) GKM rendeletben meghatározott, veszélyhelyzet kihirdetésének napja szerinti felszolgálási díjat is;”

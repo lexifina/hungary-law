@@ -1,0 +1,1 @@
+## „(6a) E rendelet erejénél fogva a határozathozatal napján a kérelemben foglaltak szerint módosul a munkaszerződés a támogatás időtartamára a csökkentett munkaidő és egyéni fejlesztési idő tekintetében, kivéve, ha a felek a kérelem benyújtását megelőzően már módosították a munkaszerződést.”
