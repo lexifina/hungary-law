@@ -12,10 +12,12 @@ bb) a támogatással összefüggően valamely kötelezettségének nem tesz eleg
 
 c) ha a munkaadó
 
-ca) a támogatásban részesülő munkavállaló tekintetében munkahelyteremtő vagy munkahelymegőrzés támogatásban részesül, vagy kutató-fejlesztő tevékenységet végző munkavállalók foglalkoztatásának támogatásában részesül,
+ca)[^24] a támogatásban részesülő munkavállaló tekintetében a 103/2020. Korm. rendelet szerinti támogatásában, vagy uniós forrásból finanszírozott munkahelymegőrző, vagy munkahelyteremtő bérjellegű támogatásban részesül,
 
 cb) a támogatással összefüggően valamely kötelezettségének nem tesz eleget,
 
 d) ha a csökkentett munkaidő a támogatási időtartam alatt módosításra kerül,
 
 e) ha a támogatás a jogszabályban meghatározott feltételek hiányában nem lett volna megállapítható.
+
+[^24]: A 8. § c) pont ca) alpontja a 141/2020. (IV. 21.) Korm. rendelet 9. §-ával megállapított szöveg.

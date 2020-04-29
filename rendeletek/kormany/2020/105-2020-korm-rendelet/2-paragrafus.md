@@ -10,14 +10,20 @@ ac) nem tölti a felmondási idejét,
 
 b) a munkaadó
 
-ba) a vele munkaviszonyban álló, vele együttes kérelmet benyújtó munkavállalót csökkentett munkaidőben foglalkoztatja a munkavállalói létszám csökkentésének megelőzése érdekében,
+ba)[^6] a vele munkaviszonyban álló, vele együttes kérelmet benyújtó munkavállalót csökkentett munkaidőben foglalkoztatja – ideértve a távmunkát és az otthoni munkavégzést is – a munkavállalói létszám csökkentésének megelőzése érdekében,
 
-bb) a támogatás iránti kérelmében bemutatja a csökkentett munkaidőben történő foglalkoztatást megalapozó gazdasági körülményeit, ezeknek a veszélyhelyzettel való közvetlen és szoros összefüggését, a gazdasági nehézségek áthidalására vonatkozó eddig megtett és várható intézkedését,
+bb)[^7]
 
-bc) a bb) ponttal összefüggésben munkavégzés átütemezésére nyitva álló munkaidő-beosztási lehetőségeket a kérelem benyújtásáig kimerítette,
+bc)[^8]
 
 bd) legalább hat hónapja működik, és
 
-be) a vele együttes kérelmet benyújtó munkavállaló vonatkozásában a kérelem benyújtásakor nem részesül munkahelyteremtő, vagy munkahelymegőrzés támogatásban, vagy kutató-fejlesztő tevékenységet végző munkavállalók foglalkoztatásának támogatásában,
+be)[^9] a vele együttes kérelmet benyújtó munkavállaló vonatkozásában nem részesül a kérelem benyújtásakor a kutató-fejlesztő tevékenységet végző munkavállalók veszélyhelyzet idején megvalósuló foglalkoztatásának a Gazdaságvédelmi Akcióterv keretében történő támogatásáról szóló 103/2020. (IV. 10.) Korm. rendelet (a továbbiakban: 103/2020. Korm. rendelet) szerinti támogatásában, vagy uniós forrásból finanszírozott munkahelymegőrző, vagy munkahelyteremtő bérjellegű támogatásban.
 
-c) a munkaidőkeret lejárt vagy lezárásra került.
+c)[^10]
+
+[^6]: A 2. § b) pont ba) alpontja a 141/2020. (IV. 21.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § b) pont bb) alpontját a 141/2020. (IV. 21.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § b) pont bc) alpontját a 141/2020. (IV. 21.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § b) pont be) alpontja a 141/2020. (IV. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: A 2. § c) pontját a 141/2020. (IV. 21.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.

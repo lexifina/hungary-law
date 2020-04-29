@@ -2,16 +2,15 @@
 
 a) a munkavállalónak az állami foglalkoztatási szerv által végleges határozattal visszakövetelt, támogatással összefüggő fizetési kötelezettsége nem áll fenn,
 
-b) a munkaadó
+b)[^19] a munkaadó
 
-ba) megfelel a rendezett munkaügyi kapcsolatok – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott – feltételeinek, valamint e feltételek fennállása a külön jogszabályban meghatározott módon igazolásra kerül,
+ba) megfelel a rendezett munkaügyi kapcsolatok – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott – feltételeinek, valamint e feltételek fennállása a külön jogszabályban meghatározott módon igazolásra kerül, és
 
 bb) nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban,
 
-és
-
-bc) 2019. december 31-én nem minősült az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szerint nehéz helyzetben lévő vállalkozásnak,
-
 c) a munkaadó bemutatja, hogy a csökkentett munkaidőben történő foglalkoztatás gazdasági indoka a veszélyhelyzettel közvetlen és szoros összefüggésben áll, és hitelt érdemlő módon alátámasztja, hogy a munkavállalók megtartása a folyamatos gazdasági tevékenyégével összefüggő nemzetgazdasági érdek.
 
-(2) Nem nyújtható e rendelet szerinti támogatás az Mt. 53. §-a, valamint 214. § (1) bekezdés a) pontja szerinti foglalkoztatáshoz.
+(2)[^20] Nem nyújtható e rendelet szerinti támogatás az Mt. 53. §-a szerinti foglalkoztatáshoz.
+
+[^19]: Az 5. § (1) bekezdés b) pontja a 141/2020. (IV. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^20]: Az 5. § (2) bekezdése a 141/2020. (IV. 21.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.

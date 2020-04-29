@@ -6,10 +6,12 @@
 
 (4) A munkaadó a folyósított támogatás összegének megfelelő mértékű befizetést köteles teljesíteni, ha jogszabályban meghatározott, munkaadóra vonatkozó feltételek hiányában a támogatás a munkavállalója részére nem lett volna megállapítható.
 
-(5) Mentesül a munkaadó az (1) bekezdésben meghatározott befizetési kötelezettség alól, ha igazolja, hogy a munkaviszony a munkaadó jogutód nélküli megszűnése, vagy a munkavállaló felmondása következtében szűnt meg.
+(5)[^25] Mentesül a munkaadó az (1) bekezdésben meghatározott befizetési kötelezettség alól, ha igazolja, hogy a munkaviszony a munkaadó jogutód nélküli megszűnése, a munkáltató azonnali hatályú felmondása, vagy a munkavállaló felmondása következtében szűnt meg.
 
 (6) Az Flt. 21. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy az (1) bekezdésben meghatározott befizetési kötelezettség esetében az állami foglalkoztatási szerv vezetője erre irányuló kérelem esetén, különös méltánylást érdemlő esetben határozatában dönthet a befizetési kötelezettség részben történő elengedéséről, kivéve, ha a végrehajtás az állami adó- és vámhatóság előtt van folyamatban.
 
 (7) Az (1) és (4) bekezdésben foglalt befizetés kötelezettségre az Flt. visszakövetelésre vonatkozó szabályait kell alkalmazni az Flt. 21. § (4) és (4a) bekezdésének kivételével.
 
 (8) Az (1) és (4) bekezdésben foglalt befizetés kötelezettség nem teljesítése esetén az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 57. alcíme szerint kell eljárni.
+
+[^25]: A 9. § (5) bekezdése a 141/2020. (IV. 21.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
