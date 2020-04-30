@@ -1,3 +1,3 @@
-72. §[^170]
+72. §[^171]
 
-[^170]: A 70–75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^171]: A 70–75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

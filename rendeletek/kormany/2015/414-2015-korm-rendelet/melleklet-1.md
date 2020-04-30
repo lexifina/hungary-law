@@ -20,9 +20,9 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 9. Neme
 
-10.[^176] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
+10.[^177] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
 
-10a.[^177] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
+10a.[^178] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
 
 11. Okmány belföldi kézbesítési címe
 
@@ -50,8 +50,8 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 23. Az elektronikus aláíráshoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a visszavonási jelszó átvételének ténye és a kódokat tartalmazó boríték azonosítója, ha e-aláírás funkciót igényelt
 
-24.[^178] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
+24.[^179] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
 
-[^176]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^177]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^178]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
+[^177]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^178]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^179]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
