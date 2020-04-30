@@ -8,4 +8,6 @@
 
 (4) A hajótulajdonosoknak intézkedéseket kell hozni abból a célból, hogy a beteg, sérült, valamint elhalálozott tengerészek által a hajófedélzeten hátrahagyott vagyontárgyakat megőrizzék, majd visszajuttassák nekik vagy a legközelebbi hozzátartozóiknak.
 
-(5) A hajótulajdonos köteles a tulajdonában lévő hajón dolgozó tengerészekre vonatkozóan élet-, baleset- és egészségbiztosítást kötni, és azt a tengerész munkahelyi sérülése, betegsége, veszély következtében beálló halála vagy tartós rokkantsága esetén az érintett tengerész részére kártalanítás biztosítása érdekében díjfizetéssel hatályban tartani.
+(5)[^7] A hajótulajdonos köteles a tulajdonában lévő hajón dolgozó tengerészek munkahelyi sérülése, betegsége, veszély következtében beálló halála vagy tartós rokkantsága esetére vonatkozóan az érintett tengerész részére kártalanítás biztosítása érdekében biztosítást kötni, és azt díjfizetéssel hatályban tartani.
+
+[^7]: A 17. § (5) bekezdése a 12/2020. (IV. 22.) ITM rendelet 5. §-ával megállapított szöveg.
