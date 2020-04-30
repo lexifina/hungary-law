@@ -1,26 +1,24 @@
-## 22. §[^22]
+## 22. §[^21]
 
 ## 23. § A 414/2015. (XII. 23.) Korm. rendelet
 
-a)[^23]
+a)[^22]
 
-b)[^24]
+b)[^23]
 
-c)[^25]
+c) 22. § (1) bekezdés c) pontjában a „– ha annak feltételei fennállnak – automatizált ujjnyomat összevetéssel” szövegrész helyébe a „jogszabályban meghatározott automatizált arcképmás összehasonlítással és – ha annak feltételei fennállnak – automatizált ujjnyomat összevetéssel” szöveg,
 
-d)[^26]
+d) 22. § (2) bekezdésében az „az automatizált ujjnyomat összevetés” szövegrész helyébe az „az automatizált arcképmás összehasonlítás és az automatizált ujjnyomat összevetés” szöveg,
 
-e)[^27]
+e)[^24]
 
-f)[^28]
+f)[^25]
 
-g)[^29]
+g)[^26]
 
-[^22]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 23. § c) pontja a 25. § (2) bekezdése alapján 2020. április 30-án lép hatályba.
-[^26]: A 23. § d) pontja a 25. § (2) bekezdése alapján 2020. április 30-án lép hatályba.
-[^27]: A 23. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 23. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 23. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 23. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 23. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
