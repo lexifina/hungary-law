@@ -1,4 +1,4 @@
-29/A. §[^147] (1) A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelek biztonságos megőrzéséről és azok naprakész nyilvántartásáról az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv vezetője (a továbbiakban: nyilvántartó szerv) gondoskodik.
+29/A. §[^148] (1) A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelek biztonságos megőrzéséről és azok naprakész nyilvántartásáról az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv vezetője (a továbbiakban: nyilvántartó szerv) gondoskodik.
 
 (2) A sorszámozott nyilvántartásnak tartalmaznia kell az útlevél birtokosa által megadott következő adatokat:
 
@@ -22,4 +22,4 @@ f) az utazás célját (hivatalos vagy magán).
 
 (6) Az útlevelek rendeltetésszerű használatát, őrzését és a vezetett nyilvántartást a külgazdasági és külügyminiszter ellenőrizheti.
 
-[^147]: A 29/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^148]: A 29/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
