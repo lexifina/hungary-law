@@ -1,4 +1,4 @@
-## 2/B. §[^6]
+## 2/B. §[^6] A 2. § (1) bekezdés alkalmazásában a gyógyászati segédeszközt tartalmazó elektronikus vény esetében az elszámolás alapja az Elektronikus Egészségügyi Szolgáltatási Térben kiadottként megjelölt vény.
 
 3. § (1) A támogatás folyósítására irányuló elszámolás összesítő és részletező elszámolásból áll.
 
@@ -36,7 +36,7 @@ c) amelynek szerzője a kezelt adatok védelmére és biztonságára vonatkozó 
 
 (8)[^15] A NEAK minden év február 25-éig minden forgalmazónak összesítő eredményszemléletű kimutatást küld írott formában a megelőző naptári évben felmerült támogatási összegekről.
 
-[^6]: A 2/B. §-t újonnan a 200/2006. (X. 2.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 141/2009. (VII. 3.) Korm. rendelet 3. §-a. Ez utóbbi módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni.
+[^6]: A 2/B. §-t újonnan a 155/2020. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
 [^7]: A 3. § (3) bekezdése a 288/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően beváltott vények esetén kell alkalmazni.
 [^8]: A 3. § (3) bekezdés b) pontját a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^9]: A 3. § (4) bekezdése a 201/2010. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
