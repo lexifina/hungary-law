@@ -18,7 +18,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „62,00” szövegrész helyébe a „62,64” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1188/2020. (IV. 28.) Korm. határozathoz
 
@@ -43,3 +43,5 @@
 | 9. | EFOP-4.1.2-17-2017-00094 | Akadály nélkül a hatékony tanulásért a répcelaki iskolában | Sárvári Tankerületi Központ | 259 251 397 | 48 032 876 | – | 307 284 273 | A projekt célja a 9653 Répcelak, József Attila utca 32. és a 9651 Uraiújfalu, Szentivánfa utca 1. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
 
 | 10. | EFOP-4.1.2-17-2017-00097 | Balatonfűzfői Irinyi János Általános Iskola és AMI infrastrukturális fejlesztése | Veszprémi Tankerületi Központ | 485 085 894 | 108 077 283 | 454 697 313 | 1 047 860 490 | A projekt célja a 8175 Balatonfűzfő, Irinyi János utca 2. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
