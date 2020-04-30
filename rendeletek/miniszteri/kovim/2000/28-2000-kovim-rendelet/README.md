@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-28-20-9
 | 2017-01-03 | 2000-28-20-93.14 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2000-28-20-93.15 | 55/2017. (XII. 27.) NFM rendelet |
 | 2020-01-01 | 2000-28-20-93.16 | 45/2019. (XII. 20.) ITM rendelet |
+| 2020-04-30 | 2000-28-20-93.17 | 12/2020. (IV. 22.) ITM rendelet |

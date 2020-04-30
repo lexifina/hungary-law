@@ -24,6 +24,6 @@
 
 |  | M A G Y A R O R S Z Á G H U N G A R Y |  |
 
-3. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^35]
+3. számú melléklet a 28/2000. (XII. 18.) KöViM rendelethez[^36]
 
-[^35]: A 3. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja, az 1/2017. (I. 3.) NFM rendelet 18. § e) pontja szerint módosított szöveg.
+[^36]: A 3. számú melléklet a 91/2011. (XII. 30.) NFM rendelet 10. § b) pontja, az 1/2017. (I. 3.) NFM rendelet 18. § e) pontja szerint módosított szöveg.

@@ -4,13 +4,13 @@
 
 (2) A hajózási engedélyt a hatóság
 
-a)[^16] Magyarország államhatárain belüli vizekre, illetve azok meghatározott területére, vagy
+a)[^17] Magyarország államhatárain belüli vizekre, illetve azok meghatározott területére, vagy
 
-b)[^17] Magyarország államhatárán belüli és kívüli vizekre, illetve azok meghatározott területére
+b)[^18] Magyarország államhatárán belüli és kívüli vizekre, illetve azok meghatározott területére
 
 ## adja ki.
 
 (3) A hajózási engedély (3. számú melléklet) kivonatát (4. számú melléklet) az engedély alapján üzemeltetett úszólétesítményen kell tartani.
 
-[^16]: A 9. § (2) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
-[^17]: A 9. § (2) bekezdés b) pontja a 91/2011. (XII. 30.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^17]: A 9. § (2) bekezdés a) pontja a 91/2011. (XII. 30.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^18]: A 9. § (2) bekezdés b) pontja a 91/2011. (XII. 30.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
