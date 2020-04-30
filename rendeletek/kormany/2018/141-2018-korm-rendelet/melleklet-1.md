@@ -1,4 +1,4 @@
-## 35. §[^75] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 156/2020. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr27.) megállapított 2. mellékletben foglalt táblázat 39. sorát a Módr27. hatálybalépésekor[^76] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 36. §[^79] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 161/2020. (IV. 29.) Korm. rendelettel (a továbbiakban: Módr28.) módosított 3. § (3) bekezdését és megállapított 6/H. és 6/I. §-át, valamint a 2. mellékletében foglalt táblázat 40., 41. és 42. sorát a Módr28. hatálybalépésekor[^80] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^75]: A 35. §-t a 156/2020. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
-[^76]: A hatálybalépés időpontja 2020. április 29.
+[^79]: A 36. §-t a 161/2020. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^80]: A hatálybalépés időpontja 2020. április 30.

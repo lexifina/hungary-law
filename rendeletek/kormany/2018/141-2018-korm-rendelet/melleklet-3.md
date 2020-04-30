@@ -82,7 +82,13 @@
 
 | 39. | Új gyártóüzem létrehozására irányuló beruházás Kecskeméten | Kecskemét közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 8364/32 helyrajzi számú ingatlan | Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^78]
+| 40. | Budapest XI. kerületében megvalósuló ingatlanfejlesztés | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XI. kerület belterület 3475/48 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 41. | Budapest VIII. kerületében megvalósuló ingatlanfejlesztés | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest VIII. kerület belterület 36795 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 42. | Telephely bővítésre és fejlesztésre irányuló beruházás Bük külterületén | Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 04/11, 04/16, 04/17, 04/19, 04/45, 04/48, 04/57, 1471/1, 1474/2 és 1475/2 helyrajzi számú ingatlanok | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^82]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -262,4 +268,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^78]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^82]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
