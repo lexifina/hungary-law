@@ -1,3 +1,1 @@
-4. §[^1]
-
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2020. április 30-án lép hatályba.
+4. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
