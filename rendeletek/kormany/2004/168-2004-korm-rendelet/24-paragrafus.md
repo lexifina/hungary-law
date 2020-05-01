@@ -1,8 +1,8 @@
 ## A keretszerződés, a keretmegállapodás és a szerződés
 
-24. §[^64] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
+24. §[^73] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
 
-(2) A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti az összesített intézményi igények alapján lebonyolított nyílt, meghívásos, vagy amennyiben a tárgyalásos eljárás alkalmazásának a közbeszerzési törvény 85. § (2) bekezdése, illetve 98. § (2)–(5) bekezdése szerinti feltételei fennállnak, tárgyalásos közbeszerzési eljárás, továbbá a közbeszerzési törvény 90. § (3) bekezdésére tekintettel a közbeszerzési törvény 85. § (2) bekezdésében meghatározott feltételek fennállása esetén versenypárbeszéd eredményeként.
+(2)[^74] A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti a 26. § (1) bekezdése szerint lebonyolított közbeszerzési eljárás eredményeként.
 
 (3) A központosított közbeszerzési eljárás eredményeképpen keretszerződés vagy keretmegállapodás legfeljebb 4 évre köthető.
 
@@ -24,7 +24,7 @@ g) a megrendelések kezdeményezésével, ezek visszaigazolásával, valamint a 
 
 h) a szerződésszegésért való felelősség szabályait,
 
-i) az intézményeknek és a szállítóknak a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségére vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
+i)[^75] a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
 
 j) annak rögzítését, hogy az intézmény előleget nem adhat.
 
@@ -44,6 +44,9 @@ f) a szerződésszegésért való felelősség szabályait,
 
 g) a keretmegállapodáson alapuló egyedi szerződés megkötésére irányuló kiválasztási eljárás során alkalmazandó – a közbeszerzési törvény 105. § (4) bekezdése alapján meghatározott – értékelési szempontokat,
 
-h) az intézményeknek és a szállítóknak a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségére vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
+h)[^76] a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
 
-[^64]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^73]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^74]: A 24. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^75]: A 24. § (4) bekezdés i) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^76]: A 24. § (5) bekezdés h) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.

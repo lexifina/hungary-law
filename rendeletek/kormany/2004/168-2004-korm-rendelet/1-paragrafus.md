@@ -26,9 +26,19 @@ e)[^3] – a nemzetbiztonsági szolgálatok, a külpolitikáért felelős minisz
 
 (2c)[^7] Nem kell alkalmazni e rendelet előírásait a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 10. § (1) bekezdés a) pontja szerinti eljárásokra.
 
-(3)[^8] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: közbeszerzési törvény) hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+(2d)[^8] Az 1. számú melléklet 7. és 8. pontjában meghatározott beszerzések során kizárólag az Egészségbiztosítási Alapból (a továbbiakban: Alap) finanszírozott, az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 36. § (1) bekezdése szerinti fekvőbeteg-szakellátást nyújtó intézmények kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 7. pontjában felsorolt beszerzéseik megvalósítása során e rendelet szerint kötelesek eljárni az egészségügyről szóló 1997. évi CLIV. törvény hatálya alá tartozó, az Alapból finanszírozott egyéb szervezetek is.
 
-(4)[^9] A központosított közbeszerzési rendszerbe bejelentkezett egyéb szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
+(2e)[^9] A (2d) bekezdésben foglalt rendelkezéseket nem kell alkalmazni az Alapból finanszírozott azon intézményekre és szervezetekre, amelyek fenntartója nem a Magyar Állam, költségvetési szerv, helyi önkormányzat vagy önkormányzati társulás.
+
+(2f)[^10] A (2d) bekezdésben foglaltaktól eltérően a klinikai központot, egészségügyi szolgáltatót vagy egyetemi kórházat működtető állami felsőoktatási intézmény, továbbá a Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 8. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 8. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+
+(2g)[^11] A Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 7. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni a nem az Alapból finanszírozott ellátásokhoz történő beszerzéseire, de az 1. számú melléklet 7. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+
+(2h)[^12] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet az 1. számú melléklet 9. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 9. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+
+(3)[^13] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: közbeszerzési törvény) hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+
+(4)[^14] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
 
 [^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 266. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 204/2019. (VIII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -37,5 +47,10 @@ e)[^3] – a nemzetbiztonsági szolgálatok, a külpolitikáért felelős minisz
 [^5]: Az 1. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (2b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (2c) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^8]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (4) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 20. § b) pontja szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^8]: Az 1. § (2d) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (2e) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^10]: Az 1. § (2f) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: Az 1. § (2g) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: Az 1. § (2h) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
