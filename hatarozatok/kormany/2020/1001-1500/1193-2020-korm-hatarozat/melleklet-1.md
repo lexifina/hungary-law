@@ -38,17 +38,7 @@
 
 ## Határidő: 2020. június 30.
 
-## 10. visszavonja
-
-## a) a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében tervezett iskolafejlesztések előkészítéséhez szükséges további intézkedésekről szóló 1126/2019. (III. 13.) Korm. határozat
-
-## aa) 1. pont a) alpontját,
-
-## ab) 4. pont a) alpontjában az „az 1. pont a) alpont szerinti beruházás esetében legkésőbb 2020. december 31. napjáig,” szövegrészt,
-
-## ac) 4. pont b) alpontjában az „az 1. pont a) alpontja szerinti beruházás esetében legkésőbb 2021. március 1. napja,” szövegrészt,
-
-## b) a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében tervezett iskolafejlesztések előkészítésének a Beruházás Előkészítési Alapból történő további támogatásáról szóló 1762/2019. (XII. 23.) Korm. határozatot.
+## 10.[^1]
 
 1. melléklet az 1193/2020. (IV. 30.) Korm. határozathoz
 
@@ -105,3 +95,5 @@
 |  |  | egyéb: |  | azonnal |  | 90 000 000 |  |  |  |  |  |  |  |  |  | 90 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
