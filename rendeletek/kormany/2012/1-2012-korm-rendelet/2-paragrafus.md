@@ -62,10 +62,10 @@ c)[^4] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely id
 
 25. törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő által a Diákhitel szervezetnek a törlesztési kötelezettség kezdetét követően, havi rendszerességgel fizetendő összeg;
 
-26.[^6] támogatott nyelv: az érintett személy állampolgársága szerinti ország hivatalos nyelvétől eltérő, a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. melléklet 1. pontjában, 2. pont l) alpontjában és 4. pontjában meghatározott idegen nyelvek valamelyike, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a)–h) pontjában meghatározott személy tekintetében a magyar nyelv.
+26.[^6]
 
 [^2]: A 2. § 9. pontja a 13/2020. (II. 7.) Korm. rendelet 65. §-a szerint módosított szöveg.
 [^3]: A 2. § 10a. pontját a 291/2017. (X. 3.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § 26. pontját a 114/2019. (V. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 2. § 26. pontját a 114/2019. (V. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 106/2020. (IV. 10.) Korm. rendelet 2. §-a.
