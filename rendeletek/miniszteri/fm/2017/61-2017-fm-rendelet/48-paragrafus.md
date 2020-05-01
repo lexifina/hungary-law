@@ -1,5 +1,3 @@
-## végezhető.
-
 ## 15. Az erdőfelújítási biztosítékra vonatkozó szabályok
 
 48. § (1) Az erdőfelújítási biztosíték összege hektáronként

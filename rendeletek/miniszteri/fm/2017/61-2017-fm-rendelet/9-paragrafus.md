@@ -1,4 +1,4 @@
-## 8. § Természetes erdő, természetszerű erdő és származék erdő természetességi állapotú erdőben a közelítő nyomokat a jogosult erdészeti szakszemélyzet köteles azok használatával járó erdőgazdálkodási tevékenység megkezdése előtt jól látható módon kijelölni.
+## 8. §[^12] Természetes erdő, természetszerű erdő és származék erdő természetességi állapotra vonatkozó alapelvárású erdőben a közelítő nyomokat a jogosult erdészeti szakszemélyzet köteles azok használatával járó erdőgazdálkodási tevékenység megkezdése előtt jól látható módon kijelölni.
 
 ## 4. Az erdőgazdálkodási egységek határainak jelölése
 
@@ -17,3 +17,5 @@ ba) fafajösszetétele jelentősen elkülönül, vagy
 bb) magasságkülönbsége legalább 4 méter, valamint
 
 c) az Adattárban egyéb részletként nyilvántartott területek határait.
+
+[^12]: A 8. § a 13/2020. (IV. 8.) AM rendelet 9. § a) pontja szerint módosított szöveg.

@@ -46,10 +46,12 @@ d) a fahasználat időtartamára – attól eltérő hatósági engedély hiány
 
 e) ha a műveleti lapon fokozatos felújítóvágással vagy szálalóvágással érintett erdőben bontóvágást jelölt meg, a fahasználat eredményeként a visszamaradó állomány záródása megfelel a jogszabályban előírt mértéknek,
 
-f) természetes erdő, természetszerű erdő és származék erdő természetességi állapotú erdőben a használandó közelítő nyomokat jól látható módon kijelölte,
+f)[^31] természetes erdő, természetszerű erdő és származék erdő természetességi állapotra vonatkozó alapelvárású erdőben a használandó közelítő nyomokat jól látható módon kijelölte,
 
 g) az erdőgazdálkodási tevékenységgel érintett terület és az erdőrészlet határait kijelölte, és
 
 h) az ápoló- és tisztítóvágás, a felújítóvágás végvágása és a szálalóvágás végvágása, a tarvágás, valamint – kultúrerdők és faültetvények kivételével – a kivágásra tervezett fák szakszerű megjelölése megtörtént.
 
 (8) Ha az erdőfelújítás érdekében végzett vágástakarítás során erdei faválaszték felkészítése történik az (1) bekezdés szerinti műveleti lapot kell kiállítani, azzal, hogy fakitermelés alatt a vágástakarítást kell érteni.
+
+[^31]: A 43. § (7) bekezdés f) pontja a 13/2020. (IV. 8.) AM rendelet 9. § a) pontja szerint módosított szöveg.

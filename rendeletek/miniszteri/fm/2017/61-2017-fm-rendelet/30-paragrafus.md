@@ -26,7 +26,7 @@ g) az erdő javasolt üzemmódját,
 
 h) a telepítendő földterület termőhelyi viszonyait bemutató, az erdőtelepítés fő- és elegyfafajainak alkalmazhatóságát alátámasztó, az erdészeti termőhely-feltárásról szóló jogszabály szerinti termőhely-feltárási szakvéleményt,
 
-i) a telepíteni tervezett fő- és elegyfafajokat, illetve fajtákat, erdőszegély tervezése esetén a cserjefajokat, azok elegyarányát, az elegyítés tervezett módjait, a létrehozni kívánt célállományt,
+i)[^19] a telepíteni tervezett fő- és elegyfafajokat, illetve fajtákat, erdőszegély tervezése esetén a cserjefajokat, azok elegyarányát, az elegyítés tervezett módjait, a létrehozni kívánt faállománytípust, illetve szabad rendelkezésű erdő esetén faállománytípus csoportot, hektáronként és fafajonként a műszaki befejezéshez szükséges darabszámokat,
 
 j) az ültetési hálózatot (magvetés esetén a sortávolságot), a felhasználni kívánt szaporítóanyag minőségét és mennyiségét, a talaj-előkészítés, valamint az ültetés, illetve magvetés módját,
 
@@ -58,4 +58,10 @@ v) a környezeti hatások jelentőségének vizsgálatára szolgáló – a kör
 
 (3) Az erdőtelepítési-kivitelezési tervet három példányban kell elkészíteni.
 
-(4) Az erdészeti hatóság az erdőtelepítés befejezetté nyilvánítása során az erdőtelepítés fafajösszetétele és minősége tekintetében azt vizsgálja, hogy az erdőtelepítési tervben meghatározott célállományt alapul véve a meghatározott fafajú, másfél méter magasságú, és ép vezérhajtású faegyedek egyenletes eloszlás mellett a telepítési kiviteli tervben meghatározott egyedszámban jelen vannak-e.
+(4)[^20] Az erdészeti hatóság az erdőtelepítés befejezetté nyilvánítása során az erdőtelepítés fafajösszetétele és minősége tekintetében azt vizsgálja, hogy az erdőtelepítési tervben meghatározott célállományt alapul véve a meghatározott fafajú, másfél méter magasságú, és ép vezérhajtású faegyedek egyenletes eloszlás mellett a telepítési kiviteli tervben meghatározott egyedszámban jelen vannak-e. Ha a telepítési kivitelezési terv az egyedszámot nem tartalmazza, akkor a telepítés befejezéséhez a 8. mellékletben meghatározott faegyed-szám az irányadó.
+
+(5)[^21] Az erdészeti hatóság a (4) bekezdés szerint erdőtelepítés befejezetté nyilvánításnál meghatározott egyedszámnál kevesebbel is engedélyezheti az erdőtelepítés befejezetté nyilvánítását, ha az erdőtelepítési kivitelezési terv szerinti állományalkotó főfafajú egyedek átlagos magassága meghaladja a 2 métert és az erdősítési részterületen ezek Evt. 5. § 12. pont szerinti záródása meghaladja a 80%-ot.
+
+[^19]: A 30. § (1) bekezdés i) pontja a 13/2020. (IV. 8.) AM rendelet 9. § e) pontja szerint módosított szöveg.
+[^20]: A 30. § (4) bekezdése a 13/2020. (IV. 8.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^21]: A 30. § (5) bekezdését a 13/2020. (IV. 8.) AM rendelet 4. § (2) bekezdése iktatta be.

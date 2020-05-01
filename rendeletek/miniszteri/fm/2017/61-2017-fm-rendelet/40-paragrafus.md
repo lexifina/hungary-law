@@ -16,7 +16,7 @@ g) a károsítás gyakorisága és kárerélye,
 
 h) a károsítással érintett terület,
 
-i) a károsítással érintett fatömeg,
+i)[^28] a károsítással érintett fatérfogat,
 
 j) a károsítás észlelésének időpontja,
 
@@ -25,3 +25,5 @@ k) a károsítás elleni védekezés módja, a védekezés állapota,
 l) zárlati károsító megerősítése.
 
 (2) Az Erdővédelmi kárbejelentő lapokat naptári negyedévenkénti bontásban, az adott tárgynegyedévet követő hónap 8. napjáig, zárlati károsító esetén a káresemény észlelését követően haladéktalanul meg kell küldeni az erdészeti hatóság részére.
+
+[^28]: A 40. § (1) bekezdés i) pontja a 13/2020. (IV. 8.) AM rendelet 9. § f) pontja szerint módosított szöveg.

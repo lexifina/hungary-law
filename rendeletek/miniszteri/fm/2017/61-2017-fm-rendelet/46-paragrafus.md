@@ -18,9 +18,11 @@
 
 a) az erdősítés érdekében végzett ápolás,
 
-b) a befejezett ápolás során végzett ápolóvágás, továbbá
+b)[^32] a befejezett ápolás során végzett ápolóvágás,
 
-c) a korábbi fakitermelésből származó faanyag felkészítése.
+c) a korábbi fakitermelésből származó faanyag felkészítése,
+
+d)[^33] az örökerdő üzemmódú erdő utánpótlás állományának gondozása, ápolása.
 
 (9) Ha az erdei haszonvétel gyakorlása során erdei faválaszték felkészítése történik, és a 43. § (1) bekezdés szerinti műveleti lap kiállítására nem kerül sor, az erdőgazdálkodó köteles a munka végrehajtója számára írásban rögzíteni az erdei haszonvétel gyakorlásának feltételeit. A haszonvétel gyakorlásának feltételeit rögzítő okiratot a munka végrehajtója köteles a munkavégzése során magánál tartani, és azt az arra jogosult személynek felszólítására bemutatni.
 
@@ -28,7 +30,7 @@ c) a korábbi fakitermelésből származó faanyag felkészítése.
 
 a) az erdőgazdálkodó neve, címe, erdőgazdálkodói kódszáma és elérhetősége,
 
-b) az erdőgazdasági azonosító adatai (helység, tagszám, részlet jel),
+b)[^34] az erdészeti azonosító adatai (helység, tagszám, részlet jel),
 
 c) a haszonvétel módja és érintett területe,
 
@@ -39,3 +41,7 @@ e) a haszonvétel tervezett kezdete és befejezése,
 f) a haszonvétel végrehajtására vonatkozó utasítások,
 
 g) az erdőgazdálkodó aláírása.
+
+[^32]: A 46. § (8) bekezdés b) pontja a 13/2020. (IV. 8.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^33]: A 46. § (8) bekezdés d) pontját a 13/2020. (IV. 8.) AM rendelet 6. §-a iktatta be.
+[^34]: A 46. § (10) bekezdés b) pontja a 13/2020. (IV. 8.) AM rendelet 9. § c) pontja szerint módosított szöveg.

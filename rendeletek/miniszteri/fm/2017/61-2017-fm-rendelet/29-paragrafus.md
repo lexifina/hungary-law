@@ -30,7 +30,7 @@ b) az erdőgazdálkodó – erdő engedélyezett igénybevétele esetén az enge
 
 c) a jogosult erdészeti szakszemélyzet neve, erdészeti hatósági nyilvántartási kódja,
 
-d) a bejelentéssel érintett részlet erdőgazdasági azonosító adatai (helység, tagszám, részlet jel),
+d)[^17] a bejelentéssel érintett terület erdészeti azonosító adatai (helység, tagszám, részlet jel),
 
 e) a bejelentett tevékenység érintett területe,
 
@@ -78,6 +78,7 @@ c) a jogszerűen végezhető erdőgazdálkodási tevékenységek szakszerű vég
 
 d) a jogszerűtlenül végrehajtott erdőgazdálkodási tevékenység típusát és mértékét a végrehajtás utáni valós állapotnak megfelelően feltüntették.
 
-(11)[^1] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
+(11)[^18] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
 
-[^1]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 29. § (4) bekezdés d) pontja a 13/2020. (IV. 8.) AM rendelet 9. § d) pontja szerint módosított szöveg.
+[^18]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.
