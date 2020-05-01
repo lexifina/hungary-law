@@ -8,9 +8,11 @@
 
 3.[^2] elemzői helyiség: kizárólag arcképelemző tevékenység végzésére szolgáló, az arcképelemző tevékenységet végző szerv egyéb, jogszabály által előírt feladatainak ellátására szolgáló más objektumaitól és helyiségeitől fizikailag elkülönített, saját beléptető rendszerrel rendelkező épületrész,
 
-4. találati lista: az arcképelemző rendszer által elvégzett informatikai jellegű összehasonlító tevékenység eredménye alapján képzett, arckép profilokat, technikai kapcsoló számokat, valamint az arckép profilok alapját képező arcképmásokat és azok metaadatait tartalmazó adathalmaz,
+4.[^3]
 
-5. metaadat: az arckép profil alapját képező arcképmás felvételezésének dátuma, az arcképmáshoz tartozó személy születési éve és neme.
+5.[^4]
 
 [^1]: Az 1. § 2. pontja a 60/2016. (XII. 29.) BM rendelet 22. § a) és b) pontja szerint módosított szöveg.
 [^2]: Az 1. § 3. pontja a 60/2016. (XII. 29.) BM rendelet 22. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 4. pontját a 10/2020. (IV. 27.) BM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § 5. pontját a 10/2020. (IV. 27.) BM rendelet 10. § a) pontja hatályon kívül helyezte.
