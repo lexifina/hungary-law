@@ -14,7 +14,7 @@
 
 (7) A veszélyhelyzet ideje alatt az Mt. 97. § (4) és (5) bekezdésétől és az Mt. 110. § (6) bekezdésétől eltérően a munkaidő-beosztás és a rendelkezésre állás tartama öt napon belül és egy hétnél rövidebb időtartamra is közölhető.
 
-(8)[^5] A veszélyhelyzet ideje alatt a honvédelmi alkalmazott részére az Mt. 110. §-a szerint elrendelt készenlét idejére illetménypótlék nem jár, ide nem értve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a) és c) pontjának hatálya alá tartozó honvédelmi alkalmazottat.
+(8)[^6] A veszélyhelyzet ideje alatt a honvédelmi alkalmazott részére az Mt. 110. §-a szerint elrendelt készenlét idejére illetménypótlék nem jár, ide nem értve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a) és c) pontjának hatálya alá tartozó honvédelmi alkalmazottat.
 
 (9) A veszélyhelyzet ideje alatt, ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés j) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor az állomány tagja erre az időtartamra az időarányos havi távolléti díjának 50%-ára jogosult. A honvédelmi alkalmazott és a munkáltató az Mt. 146. § (2) bekezdésétől eltérően ezzel összefüggésben eltérő megállapodást nem köthet.
 
@@ -24,4 +24,4 @@
 
 (12) A veszélyhelyzet ideje alatt a honvédelmi alkalmazott Haj.tv. 21. § (2) bekezdés c) pontja szerinti jogviszony-megszüntetéssel nem élhet. A Haj.tv. 21. § (1) bekezdés a) pontjától eltérően nem szűnik meg a honvédelmi alkalmazotti jogviszony a kinevezésben foglalt határozott idő lejártával, kivéve, ha a munkáltatói jogkör gyakorlója írásban – legkésőbb a jogviszony megszűnésének napján – így rendelkezik, és azt közli a honvédelmi alkalmazottal.
 
-[^5]: Az 5. § (8) bekezdése a 153/2020. (IV. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^6]: Az 5. § (8) bekezdése a 153/2020. (IV. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
