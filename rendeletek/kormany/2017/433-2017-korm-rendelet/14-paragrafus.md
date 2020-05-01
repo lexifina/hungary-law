@@ -1,5 +1,3 @@
-## 13. § Az erdő rendeltetésének az Evt. 23. § (2) bekezdés b)–d) pontja szerinti megállapítása érdekében a hatáskörrel rendelkező hatóság, illetve miniszter a rendeltetést megalapozó változásról 30 napon belül értesíti a területileg illetékes erdészeti hatóságot.
-
 ## 4. A műszaki átvételek eljárási szabályai
 
 14. § (1) Az erdősítések műszaki átvétele során az erdősítések műszaki átvételi jegyzőkönyvén (a továbbiakban: E-lap) az alábbi adatokat kell rögzíteni:

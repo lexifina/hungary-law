@@ -2,7 +2,7 @@
 
 a) az Adattár a tervezett igénybevétel engedélyezése kapcsán felmerülő módosításához szükséges 18. § (1) és (2) bekezdése szerinti dokumentumokat,
 
-b) az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 25/2013. (IV. 16.) VM rendelet szerint elkészített változási vázrajzot és területkimutatást, illetve abban az esetben, ha az igénybevétel teljes földrészletet vagy teljes alrészletet érint, a tervezett igénybevétel határainak és föld-, illetve alrészletenkénti területének megjelölését, az állami ingatlan-nyilvántartási térképi adatbázisból kiadott 30 napnál nem régebbi másolaton feltüntetve,
+b)[^24] az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 8/2018. (VI. 29.) AM rendelet (a továbbiakban: Ftr.) szerint elkészített változási vázrajzot és területkimutatást, illetve abban az esetben, ha az igénybevétel teljes földrészletet vagy teljes alrészletet érint, a tervezett igénybevétel határainak és föld-, illetve alrészletenkénti területének megjelölését, az állami ingatlan-nyilvántartási térképi adatbázisból kiadott 30 napnál nem régebbi másolaton feltüntetve,
 
 c) az erdőtalaj 400 m2-t meghaladó beépítése esetén
 
@@ -38,6 +38,9 @@ a) a létesítmény létesítési engedélyét,
 
 b) az igénybevétellel érintett ingatlan tulajdonosának közokiratba vagy teljes bizonyító erejű magánokiratba foglalt, az igénybevételhez való hozzájárulását és
 
-c) az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 25/2013. (IV. 16.) VM rendelet szerint elkészített változási vázrajzot és terület-kimutatást, vagy közművek esetén közműtérképet.
+c)[^25] az Ftr. szerint elkészített változási vázrajzot és terület-kimutatást, vagy közművek esetén közműtérképet.
 
 (7) Az Evt. hatálybalépése előtt legalább 20 évvel korábban elhelyezett burkolt út, villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, illetve nyilvántartott műemléki érték esetében – engedély hiányában – a (6) bekezdés b) és c) pontja szerinti dokumentumokat elegendő csatolni.
+
+[^24]: A 11. § (1) bekezdés b) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^25]: A 11. § (6) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
