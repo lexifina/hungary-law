@@ -38,6 +38,12 @@ m) a Harmtv. alapján harmadik országbeli állampolgárnak minősülő személy
 
 n) a menedékjogról szóló törvény hatálya alá tartozó személyek személyazonosságának megállapítása, valamint
 
-o) a magyar állampolgárság megszerzésére irányuló eljárás során a kérelmező személyazonosságának megállapítása.
+o) a magyar állampolgárság megszerzésére irányuló eljárás során a kérelmező személyazonosságának megállapítása,
+
+p) a rendőri intézkedéssel érintett személyek személyazonosságának megállapítása, ellenőrzése,
+
+q) az elektronikus ügyintézést igénybe vevő személyek személyazonosság-ellenőrzésének támogatása az ügyfélazonosítás keretében,
+
+r) az elektronikus ügyintézés során a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárásokban a személyazonosság ellenőrzésének támogatása.
 
 (4) A jogosultsági nyilvántartás vezetésének a célja az igénybevételre jogosult szerv, a hozzáférésre felhatalmazott személy, valamint a központi szervnek az arcképelemző rendszer működtetésére jogosult tagja arckép profil nyilvántartáshoz való hozzáféréséhez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.

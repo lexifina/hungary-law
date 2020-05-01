@@ -10,11 +10,17 @@
 
 (5) A (4) bekezdés szerinti összehasonlítást követően az arcképelemző tevékenységet végző szerv az összehasonlítás eredményét kiértékeli.
 
+(5a) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást igényelni közvetlen adatkapcsolat útján.
+
+(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással.
+
 (6) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult felhasználni a metaadatokat.
 
 (7) Az (5) bekezdésben meghatározott kiértékelési tevékenység elvégzését követően az arcképelemző tevékenységet végző szerv az (1) bekezdésben megjelölt, részére átadott adatokat haladéktalanul törli.
 
 (8) Az (5) bekezdés szerinti kiértékelő tevékenység eredményessége esetén az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv részére az igény beérkezésétől számított nyolc munkanapon belül átadja az arcképelemzői tevékenység eredményét.
+
+(8a) Az (5) bekezdés szerinti kiértékelés abban az esetben tekinthető eredménytelennek, ha az arcképelemző tevékenység nem végezhető el.
 
 (9) Az (5) bekezdés szerinti kiértékelés eredménytelensége esetén az arcképelemző tevékenységet végző szerv az eredménytelenség tényéről az igénybevételre jogosult szervet nyolc munkanapon belül tájékoztatja.
 

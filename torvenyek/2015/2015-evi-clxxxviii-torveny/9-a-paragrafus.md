@@ -1,0 +1,5 @@
+9/A. § (1) A 3. § (3) bekezdés p) pontjában meghatározott célból jogosult az általános rendőrségi feladatok ellátására létrehozott szerv igazoltatás során az általa rögzített arcképmás felhasználásával az Rtv. 29. §-a alapján igazoltatott személy személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
+
+(2) A 3. § (3) bekezdés q) pontjában meghatározott célból jogosult az elektronikus azonosítási szolgáltatást végző szerv az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával az elektronikus ügyintézést igénybe vevő személy személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
+
+(3) A 3. § (3) bekezdés r) pontjában meghatározott célból jogosult a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárások esetén az eljáró szerv, az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával, az ügyfél személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.

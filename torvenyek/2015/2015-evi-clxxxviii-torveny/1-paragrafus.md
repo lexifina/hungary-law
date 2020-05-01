@@ -14,7 +14,7 @@ c) arckép profil: az arcképmásból képzett alfanumerikus adatsor, mely az an
 
 d) arcképelemző rendszer: az arckép profilok létrehozására, valamint összehasonlító elemzésére képes, a személyazonosítást elősegítő informatikai alkalmazás,
 
-e) központi szerv: a nyilvántartás vezetéséért felelős, a Kormány által rendeletben kijelölt központi államigazgatási szerv,
+e) központi szerv: a nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős, a Kormány által rendeletben kijelölt központi államigazgatási szerv,
 
 f) technikai kapcsoló szám: az adatközlésre kötelezett szerv által képzett olyan alfanumerikus azonosító, amelynek célja a polgár természetes személyazonosító adatainak, valamint arcképmásának az arckép profil adataihoz történő hozzárendelése,
 
@@ -30,4 +30,8 @@ k) jogosultság nyilvántartás: az e törvényben megjelölt, az arcképelemző
 
 l) arcképelemző tevékenységet végző szerv: az arcképelemző tevékenység működtetéséért felelős, a Kormány által rendeletben kijelölt szerv,
 
-m) metaadat: az arckép profil alapját képző arcképmás nyilvántartásba kerülésének a dátuma, valamint az arcképmáshoz tartozó személy születési éve és neme.
+m) metaadat: az arckép profil alapját képző arcképmás nyilvántartásba kerülésének a dátuma, valamint az arcképmáshoz tartozó személy születési éve és neme,
+
+n) automatizált összehasonlítás: az arcképelemző rendszer gépi interfész útján történő igénybevételével végzett, elemzői kiértékelés nélküli, szoftveres arckép-összehasonlításon alapuló eljárás,
+
+o) találati lista: az arcképelemző rendszer által elvégzett informatikai jellegű összehasonlító tevékenység eredménye alapján képzett, arckép profilokat, technikai kapcsoló számokat, valamint az arckép profilok alapját képező arcképmásokat és azok metaadatait tartalmazó adathalmaz.

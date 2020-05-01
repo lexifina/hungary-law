@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-188-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2015-188-00-00.9 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 2015-188-00-00.10 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2015-188-00-00.11 |
+| 2020-05-01 | 2019. évi CXVI. törvény | 2015-188-00-00.12 |
