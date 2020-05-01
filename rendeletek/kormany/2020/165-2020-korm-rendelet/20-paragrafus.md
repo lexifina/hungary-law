@@ -1,0 +1,3 @@
+## 19. § Az R1. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, a központi beszerző szervezet a minisztériummal együttműködést alakíthat ki annak érdekében, hogy – a támogatások által érintett beszerzési tárgyakra lefolytatott – keretmegállapodásos eljárásban a közbeszerzési dokumentumok minőségellenőrzésére és a közbeszerzési eljárások ellenőrzésére az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló, tárgyidőszakban hatályos jogszabályokban meghatározott eljárásrendet alkalmazzák.”
