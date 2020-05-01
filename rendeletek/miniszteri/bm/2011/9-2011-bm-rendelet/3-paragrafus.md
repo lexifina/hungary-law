@@ -4,4 +4,7 @@
 
 (2)[^1] E rendelet alkalmazásában közbeszerzési értékhatárok alatti ellátási igényen a költségvetési törvényben meghatározott uniós közbeszerzési értékhatárokat el nem érő ellátási igényt, közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényen valamennyi, az uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényt kell érteni.
 
+(3)[^2] A Kedvezményezett egyenruházati termékekre vonatkozó, Korm. rendelet szerinti igénybejelentést csak a Kedvezményezettnél már rendszeresített vagy alkalmazásba vett termékekre nyújthatja be.
+
 [^1]: A 3. § (2) bekezdése a 34/2012. (VII. 4.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (3) bekezdését a 9/2020. (IV. 16.) BM rendelet 1. §-a iktatta be.

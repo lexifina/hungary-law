@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-0A
 | 2018-09-21 | 2011-9-20-0A.14 | 4/2016. (I. 22.) BM rendelet |
 | 2019-01-01 | 2011-9-20-0A.15 | 35/2018. (XII. 21.) BM rendelet |
 | 2019-07-01 | 2011-9-20-0A.16 | 27/2019. (VI. 28.) BM rendelet |
+| 2020-05-01 | 2011-9-20-0A.17 | 9/2020. (IV. 16.) BM rendelet |
