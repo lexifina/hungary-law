@@ -1,25 +1,3 @@
-1. melléklet a 46/2012. (III. 28.) Korm. rendelethez
+1. melléklet a 46/2012. (III. 28.) Korm. rendelethez[^23]
 
-Azon gyógyszerek és orvostechnikai eszközök, amelyek beszerzésére az 1. § (1) bekezdésében meghatározottakon túl az 1. § (3) bekezdése szerinti egyéb szervezetek is e rendelet szerint kötelesek eljárni:
-
-1. Tisztító hatású eszközfertőtlenítő szerek
-
-2. Röntgen-kontrasztanyagok
-
-3. Kötésrögzítő kötszerek
-
-4. Műtéti kötszerek
-
-5. Primer sebfedők
-
-6. Orvosi kesztyűk
-
-7. Infúziós és transzfúziós szerelékek
-
-8. Intravénás kanülök
-
-9. Egyszerhasználatos fecskendők
-
-10. Egyszerhasználatos injekciós tűk
-
-11. Zárt vérvételi rendszerek
+[^23]: Az 1. mellékletet a 165/2020. (IV. 30.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.

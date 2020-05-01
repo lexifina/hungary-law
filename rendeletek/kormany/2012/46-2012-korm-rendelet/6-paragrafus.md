@@ -6,7 +6,7 @@ a) a szükséges beszerzés megvalósítása előre nem látható okból rendkí
 
 b) a szükséges hatóanyag, orvostechnikai generikus eszközcsoport vagy fertőtlenítőszer vonatkozásában nincs hatályos keretmegállapodás vagy szerződés;
 
-c)[^6] lehetősége van más egészségügyi szolgáltató vagy az Állami Egészségügyi Ellátó Központ készletének átvételére;
+c)[^8] lehetősége van más egészségügyi szolgáltató vagy az Állami Egészségügyi Ellátó Központ készletének átvételére;
 
 d) a központosított közbeszerzés útján történő beszerzésnél gyógyszer esetében alacsonyabb napi terápiás költséggel, orvostechnikai eszköz vagy fertőtlenítőszer esetében alacsonyabb áron tudja beszerzését megvalósítani, feltéve, hogy a központi beszerző szervezet által kötött keretmegállapodás alapján az adott gyógyszerből, orvostechnikai eszközből vagy fertőtlenítőszerből időarányosan az adott intézmény által rendelhető, az igényfelmérés alapján megállapított mennyiség vagy érték 70%-át elérő mértékben már megrendelés valósult meg;
 
@@ -22,7 +22,7 @@ e) finanszírozása európai uniós forrásból történik és a központosítot
 
 (6) Az intézmény a saját hatáskörben megvalósítani kívánt közbeszerzés becsült értékének kiszámítása során mindazon beszerzések értékét köteles egybeszámítani, amelyek vonatkozásában fennállnak a Kbt.-ben meghatározott feltételek, függetlenül attól, hogy azokat a központosított közbeszerzési rendszer keretében vagy saját hatáskörben szerezte be.
 
-(7)[^7] Az (1) bekezdés b) pontja alapján gyógyszer vagy fertőtlenítőszer beszerzésére kötött szerződésben, amennyiben a szerződés egy évet meghaladó időtartamú tartós jogviszonyt hoz létre, az intézmény szerződéses kötelezettséget kizárólag a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:116. § (2) bekezdése szerinti, arra vonatkozó bontó feltétellel vagy arra az esetre rögzített felmondási joggal vállalhat, hogy amennyiben az adott hatóanyagra vagy fertőtlenítőszerre vonatkozóan a központosított közbeszerzési rendszerben keretmegállapodás vagy szerződés kerül megkötésre, a központosított közbeszerzés rendszerében kell a beszerzést megvalósítania.
+(7)[^9] Az (1) bekezdés b) pontja alapján gyógyszer vagy fertőtlenítőszer beszerzésére kötött szerződésben, amennyiben a szerződés egy évet meghaladó időtartamú tartós jogviszonyt hoz létre, az intézmény szerződéses kötelezettséget kizárólag a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:116. § (2) bekezdése szerinti, arra vonatkozó bontó feltétellel vagy arra az esetre rögzített felmondási joggal vállalhat, hogy amennyiben az adott hatóanyagra vagy fertőtlenítőszerre vonatkozóan a központosított közbeszerzési rendszerben keretmegállapodás vagy szerződés kerül megkötésre, a központosított közbeszerzés rendszerében kell a beszerzést megvalósítania.
 
-[^6]: A 6. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 196. § b) pontja szerint módosított szöveg.
-[^7]: A 6. § (7) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 5. §-ával megállapított, a 46/2014. (II. 26.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 196. § b) pontja szerint módosított szöveg.
+[^9]: A 6. § (7) bekezdése a 238/2013. (VI. 30.) Korm. rendelet 5. §-ával megállapított, a 46/2014. (II. 26.) Korm. rendelet 12. §-a szerint módosított szöveg.

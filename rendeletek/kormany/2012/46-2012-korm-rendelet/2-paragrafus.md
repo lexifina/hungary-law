@@ -6,7 +6,7 @@
 
 2. gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 1. pontja szerinti anyag;
 
-3.[^3] központi beszerző szervezet: az Állami Egészségügyi Ellátó Központ;
+3.[^5] központi beszerző szervezet: az Állami Egészségügyi Ellátó Központ;
 
 4. országos kórházi gyógyszeralaplista: az Országos Gyógyszerterápiás Tanács (a továbbiakban: Tanács) által kialakított, az intézmények által felhasznált készítmények alaplistája, amely hatóanyagot vagy hatóanyagcsoportot, gyógyszerformát és hatáserősséget tartalmaz;
 
@@ -18,4 +18,4 @@ b) az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III.
 
 6. orvostechnikai eszközök országos alaplistája: az intézmények által felhasznált orvostechnikai eszközök alaplistája, amely generikus eszközcsoportokat tartalmaz, és amelyet az egészségügyi szakmai kollégiumnak az elnöke által kijelölt tagozatai hoznak létre.
 
-[^3]: A 2. § 3. pontja a 30/2015. (II. 25.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^5]: A 2. § 3. pontja a 30/2015. (II. 25.) Korm. rendelet 62. §-ával megállapított szöveg.
