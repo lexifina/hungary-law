@@ -1,8 +1,8 @@
-## 120/D. §[^403] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^404] előtt kezdték meg.
+## 120/D. §[^389] A 17. § (6) bekezdésében foglalt egy éves határidőtől a közlekedési igazgatási hatóság eltekinthet azon kérelmezők esetében, akik magyarországi külszolgálatukat a Módr.2. hatálybalépése[^390] előtt kezdték meg.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^405] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^391] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,12 +14,9 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^406] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
+f)[^392] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke.
 
-g)[^407] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
-
-[^403]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
-[^404]: A hatálybalépés időpontja 2017. január 2.
-[^405]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^406]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
-[^407]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^389]: A 120/D. §-t a 468/2016. (XII. 23.) Korm. rendelet 29. §-a iktatta be.
+[^390]: A hatálybalépés időpontja 2017. január 2.
+[^391]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^392]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.

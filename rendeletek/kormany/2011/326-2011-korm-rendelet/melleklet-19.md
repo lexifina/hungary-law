@@ -1,3 +1,3 @@
-19. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^440]
+19. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^425]
 
-[^440]: A 19. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 369. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^425]: A 19. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 369. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

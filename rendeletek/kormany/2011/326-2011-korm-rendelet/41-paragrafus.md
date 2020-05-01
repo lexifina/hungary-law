@@ -2,23 +2,18 @@
 
 41. § (1) Az eljáró hatóság soron kívüli orvosi vizsgálatot kezdeményez, ha
 
-a)[^151] a járművezető vagy járművezető jelölt a közúti közlekedés szabályainak megszegésével halállal, tömegszerencsétlenséggel járó balesetet okozott,
+a) a járművezető a közúti közlekedés szabályainak megszegésével halállal, tömegszerencsétlenséggel járó balesetet okozott,
 
-b)[^152] a közlekedési bűncselekmény vagy szabálysértés elkövetésével gyanúsítható járművezető vagy járművezető jelölt a járművezetést hátrányosan befolyásoló egészségi állapotára vagy gyógyszer hatására hivatkozik,
+b) a közlekedési bűncselekmény vagy szabálysértés elkövetésével gyanúsítható járművezető a járművezetést hátrányosan befolyásoló egészségi állapotára vagy gyógyszer hatására hivatkozik,
 
-c)[^153] az eljárás során a járművezető vagy járművezető jelölt betegségére, testi vagy szellemi, vagy érzékszervi fogyatékosságára vonatkozóan olyan tény merül fel, amely őt a járművezetésre egészségi szempontból alkalmatlanná teheti,
+c) az eljárás során a járművezető betegségére, testi vagy szellemi, vagy érzékszervi fogyatékosságára vonatkozóan olyan tény merül fel, amely őt a járművezetésre egészségi szempontból alkalmatlanná teheti,
 
-d)[^154] a járművezetőt vagy a járművezető jelöltet a bíróság cselekvőképességet részlegesen korlátozó gondnokság alá helyezte.
+d)[^146] a járművezetőt a bíróság cselekvőképességet részlegesen korlátozó gondnokság alá helyezte.
 
-(2)[^155] Az eljáró hatóság a járművezető vagy járművezető jelölt rendkívüli pályaalkalmassági vizsgálatát kezdeményezi,
+(2) Az eljáró hatóság a járművezető rendkívüli pályaalkalmassági vizsgálatát kezdeményezi,
 
-a)[^156] ha a járművezető vagy járművezető jelölt az (1) bekezdés a) pontjában meghatározott balesetet okozott, vagy
+a) ha a járművezető az (1) bekezdés a) pontjában meghatározott balesetet okozott, vagy
 
 b) az eljárás során a járművezetést hátrányosan befolyásoló pszichés állapotára hivatkozik.
 
-[^151]: A 41. § (1) bekezdés a) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^152]: A 41. § (1) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^153]: A 41. § (1) bekezdés c) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^154]: A 41. § (1) bekezdés d) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^155]: A 41. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^156]: A 41. § (2) bekezdés a) pontja a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^146]: A 41. § (1) bekezdés d) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (4) bekezdése iktatta be.

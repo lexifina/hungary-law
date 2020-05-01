@@ -10,11 +10,7 @@ b) a nemzetközi vezetői engedély.
 
 (2)[^28] Magyarország területén a járművezetési jogosultság igazolására alkalmas:
 
-a)[^29] a vezetői engedély igénylésétől az új vezetői engedély kézhezvételéig, de legfeljebb a kérelem benyújtásától számított 30 napig
-
-aa) a vezetői engedély kiállítására irányuló kérelem adatlap,
-
-ab) az elektronikus ügyintézési ponton keresztül sikeresen benyújtott vezetői engedély pótlás iránti kérelemről az elektronikus ügyintézési pont által kiállított bizonylat;
+a) a vezetői engedélyben feltüntetett kategória tekintetében a lejárt érvényességű vezetői engedély és a vezetői engedély kiállítására irányuló kérelem adatlap az új vezetői engedély kiadásáig, de legfeljebb a kérelem benyújtásától számított 60 napig.
 
 b) a külföldi hatóság által kiállított érvényes vezetői engedély Magyarország területén történő
 
@@ -34,4 +30,3 @@ a feljelentés vagy jegyzőkönyv kiállításának napjától számított legfe
 
 [^27]: A 3. § az 544/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^28]: A 3. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^29]: A 3. § (2) bekezdés a) pontja a 284/2020. (VI. 17.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
