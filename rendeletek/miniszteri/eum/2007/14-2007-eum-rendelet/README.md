@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2018-07-05 | 2007-14-20-0B.46 | 34/2010. (V. 14.) EüM rendelet |
 | 2019-12-18 | 2007-14-20-0B.47 | 32/2019. (XII. 17.) EMMI rendelet |
 | 2020-04-29 | 2007-14-20-0B.48 | 15/2020. (IV. 28.) EMMI rendelet |
+| 2020-05-01 | 2007-14-20-0B.49 | 16/2020. (IV. 30.) EMMI rendelet |
