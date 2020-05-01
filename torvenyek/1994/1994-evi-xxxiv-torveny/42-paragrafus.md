@@ -38,6 +38,8 @@ ad) a rendőri intézkedés jogszerűségének közigazgatási eljárásban tör
 
 ae) az érintett személy jogainak gyakorlása érdekében,
 
+af) az érintett személy személyazonosságának megállapítása érdekében,
+
 b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
 c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében,

@@ -16,7 +16,11 @@ c) amennyiben a 24/A. § (1) bekezdésében meghatározott személy felkérése 
 
 (3) Ha további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják, az igazoltatás során rögzíteni kell az igazoltatott személyazonosító adatait, az igazolvány sorozatát és számát, az igazoltatás helyét, idejét és okát, valamint – az (1) bekezdés b) pontjában meghatározott felkérés teljesítése esetén – az igazoltatott személy lakóhelyét, tartózkodási helyét.
 
-(4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén előállítható, ha a személyazonosítás megállapítása más módon nem biztosítható, a személyazonosság megállapítása céljából az igazoltatottól ujjnyomat vehető, az igazoltatottról fényképfelvétel készíthető, továbbá a külső testi jegyek észlelés és mérés alapján rögzíthetők.
+(4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén – ha a személyazonosság megállapítása más módon nem biztosítható vagy hitelt érdemlően nem bizonyítható – a személyazonosság megállapítása céljából az igazoltatottról fényképfelvétel készíthető, az igazoltatottól ujjnyomat vehető, továbbá a külső testi jegyek észlelés és mérés alapján rögzíthetők.
+
+(4a) A (4) bekezdés szerint készített fényképfelvételt az erre a célra rendszeresített eszköz alkalmazásával az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben szabályozott automatizált összehasonlítás igénybevételével, az ott meghatározott szabályoknak megfelelően – személyazonosság megállapítása céljából – a helyszínen ellenőrizni lehet.
+
+(4b) Ha az igazoltatott személy személyazonosságának megállapítása a helyszínen sikertelen, akkor az igazoltatott előállítható a további adategyeztetés érdekében.
 
 (5) A igazoltatás vagy a személyazonosság megállapításának sikertelensége esetén az előállítás csak a személyazonosság megállapításához szükséges ideig tarthat.
 

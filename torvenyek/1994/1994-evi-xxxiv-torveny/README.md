@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2020-01-01 | 2019. évi CX. törvény | 1994-34-00-00.93 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 1994-34-00-00.94 |
 | 2020-02-27 | 2019. évi CIX. törvény | 1994-34-00-00.95 |
+| 2020-05-01 | 2019. évi CXVI. törvény | 1994-34-00-00.96 |
