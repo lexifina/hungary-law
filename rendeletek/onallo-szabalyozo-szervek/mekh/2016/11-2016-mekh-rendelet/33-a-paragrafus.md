@@ -1,4 +1,4 @@
-33/A. §[^101] (1) A rendszerhasználó gázéven belüli nem téli fogyasztási időszaki kapacitásterméket köthet le az általa ellátott azon felhasználási helyre – az 1. § (1) bekezdés a) pont ab) alpont aba) alpontjában meghatározott átadási-átvételi pontra vonatkozóan –, amelyre teljesülnek az alábbi feltételek:
+33/A. §[^103] (1) A rendszerhasználó gázéven belüli nem téli fogyasztási időszaki kapacitásterméket köthet le az általa ellátott azon felhasználási helyre – az 1. § (1) bekezdés a) pont ab) alpont aba) alpontjában meghatározott átadási-átvételi pontra vonatkozóan –, amelyre teljesülnek az alábbi feltételek:
 
 a) a felhasználási helyhez kapcsolódóan a rendszerhasználó elosztási kapacitásdíjat fizet, továbbá
 
@@ -32,4 +32,4 @@ b) pótdíjként a (3) bekezdésben meghatározott, számlázás alapját képez
 
 (9) Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-[^101]: A 33/A. § a 4/2019. (IV. 12.) MEKH rendelet 5. §-ával megállapított szöveg.
+[^103]: A 33/A. § a 4/2019. (IV. 12.) MEKH rendelet 5. §-ával megállapított szöveg.

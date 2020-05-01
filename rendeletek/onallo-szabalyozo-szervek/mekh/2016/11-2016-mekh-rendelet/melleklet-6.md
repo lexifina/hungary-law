@@ -26,6 +26,6 @@
 
 | 13. | december | 1,17% |
 
-6. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^142]
+6. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^146]
 
-[^142]: A 6. mellékletet a 4/2018. (VI. 14.) MEKH rendelet 10. § (2) bekezdése iktatta be.
+[^146]: A 6. mellékletet a 4/2018. (VI. 14.) MEKH rendelet 10. § (2) bekezdése iktatta be.

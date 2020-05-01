@@ -1,4 +1,4 @@
-71. §[^135] (1) A 2018/2019-es gázévre vonatkozóan kiállított igazolással rendelkező, elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után kiszámított éves elosztási kapacitásdíj 5%-át köteles megfizetni a földgázelosztó által kiszámlázott, a szerződésben meghatározott vagy – erre vonatkozó megállapodás hiányában – havi ütemezésben.
+71. §[^137] (1) A 2018/2019-es gázévre vonatkozóan kiállított igazolással rendelkező, elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után kiszámított éves elosztási kapacitásdíj 5%-át köteles megfizetni a földgázelosztó által kiszámlázott, a szerződésben meghatározott vagy – erre vonatkozó megállapodás hiányában – havi ütemezésben.
 
 (2) Ha az elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó esetén az (1) bekezdés szerinti elszámolás alá vont átadási-átvételi ponton október, november és december hónapokban is sor kerül a nem téli fogyasztási időszakra vonatkozó kapacitás – ÜKSZ szerinti – igénybevételére, akkor a rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitásnak és az éves elosztási kapacitásdíj (3) bekezdés szerinti részének szorzatát is köteles megfizetni – az (1) bekezdés szerinti összegen felül – azokra az októberi, novemberi és decemberi napokra, amelyeken az átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a gáznapra lekötött kapacitást.
 
@@ -22,14 +22,14 @@ b) pótdíjként a (1) bekezdésben meghatározott, számlázás alapját képez
 
 (6) A földgázelosztó a jogosulatlan gázéven belüli nem téli fogyasztási időszaki kapacitástermék igénybevételét a 6. mellékletben rögzített adatok alapján határozza meg, és számlázza ki az (5) bekezdés szerinti díjat és pótdíjat legkésőbb június 30-áig. A határidő jogvesztő hatályú. A földgázelosztó a jogosulatlan igénybevétel megállapítását követően a 6. melléklet szerinti adatszolgáltatást 5 napon belül elektronikusan megküldi a szállítási rendszerüzemeltető részére. A földgázelosztó a jogosulatlan kapacitástermék igénybevételével kapcsolatban részletes beszámolót készít a Hivatal részére legkésőbb 2019. december 31-ig.
 
-(7)[^136] A 70. § és e § alkalmazásában jogosulatlan igénybevételnek minősül, ha
+(7)[^138] A 70. § és e § alkalmazásában jogosulatlan igénybevételnek minősül, ha
 
 a) az érintett rendszerhasználó nem rendelkezik a Hivatal által kiadott 2018/2019-es gázévre kiadott igazolással, vagy
 
-b)[^137] az érintett felhasználási hely tekintetében az érintett átadási-átvételi ponton a téli fogyasztási időszakra lekötött éves és negyedéves legnagyobb összkapacitás a nem téli fogyasztási időszakra lekötött legnagyobb kapacitás felénél nagyobb.
+b)[^139] az érintett felhasználási hely tekintetében az érintett átadási-átvételi ponton a téli fogyasztási időszakra lekötött éves és negyedéves legnagyobb összkapacitás a nem téli fogyasztási időszakra lekötött legnagyobb kapacitás felénél nagyobb.
 
 (8) Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-[^135]: A 71. §-t a 4/2019. (IV. 12.) MEKH rendelet 7. §-a iktatta be.
-[^136]: A 71. § (7) bekezdés nyitó szövegrésze az 5/2019. (V. 31.) MEKH rendelet 17. § e) pontja szerint módosított szöveg.
-[^137]: A 71. § (7) bekezdés b) pontja az 5/2019. (V. 31.) MEKH rendelet 17. § f) pontja szerint módosított szöveg.
+[^137]: A 71. §-t a 4/2019. (IV. 12.) MEKH rendelet 7. §-a iktatta be.
+[^138]: A 71. § (7) bekezdés nyitó szövegrésze az 5/2019. (V. 31.) MEKH rendelet 17. § e) pontja szerint módosított szöveg.
+[^139]: A 71. § (7) bekezdés b) pontja az 5/2019. (V. 31.) MEKH rendelet 17. § f) pontja szerint módosított szöveg.
