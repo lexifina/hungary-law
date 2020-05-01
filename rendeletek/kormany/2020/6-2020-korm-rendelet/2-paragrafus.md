@@ -1,5 +1,3 @@
-## 1. §[^1]
+## „(2c) Az Arcképtörvény 9. §-a és 9/A. §-a szerinti szervnek az Nytv. 24/F. § (2a) bekezdésében meghatározott adatszolgáltatás igénylésekor a polgár természetes személyazonosító adatait kell megadnia.”
 
 ## 2. A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet módosítása
-
-[^1]: Az 1. § a 28. § (3) bekezdése alapján 2020. május 1-jén lép hatályba.
