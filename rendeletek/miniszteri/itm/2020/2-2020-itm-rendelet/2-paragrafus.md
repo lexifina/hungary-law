@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § az 5. § (2) bekezdése alapján 2020. május 1-jén lép hatályba.
+## „j) a tárgyhónapot megelőző termelési időszak a) és c)–d) pont szerint meghatározott összegeinek, valamint a szabályozási bónusz 2020. április tárgyhót megelőző összegeinek még figyelembe nem vett módosulásait;”
