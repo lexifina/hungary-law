@@ -1,4 +1,4 @@
-## 83. §[^61]
+## 83. §[^62] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^63] folyamatban lévő ügyekre is alkalmazni kell.
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2496,40 +2496,5 @@ Idült pyelonephritis súlyos formájának tekinthető, ha a kóros vizeletelté
 
 d) K: 4, 6, 11–13, 15, 17–18, 21; F: 1–4, 6.
 
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-| 130 Zsákvese | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | enyhe | E | E | K | K | N13 |
-
-| 2. | súlyos | E | E | E | E |
-
-a) Hydronephrosis.
-
-b) We, teljes vérkép és vizelet, Se kreatinin, UN, koncentrálási próba, vizelet bact. és Koch tenyésztés, UH, izotopos renographia CT, kontrasztanyagos CT vizsgálat.
-
-c) Egyoldali plasticai műtéttel jól corrigálható parenchyma károsodást okozó hydronephrosis, veseelégtelenség tünetei nélkül 130.2 rovat szerint „K” is lehet. Hivatásos és szerződéses állományba vételkor a minősítés a 130.1 „E”.
-
-d) K: 3–4, 11–12, 14; F: 1–2.
-
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-| 131 Vesekőbetegség | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | vesekőroham utáni állapot maradványtünet nélkül | A | A | A | A | N20–N23 |
-
-| 2. | ismétlődő vesekőroham maradványtünet nélkül | E | KLGS | K | K |
-
-| 3. | elfolyási akadályt és húgyúti fertőzést okozó vesekövesség | E |  | E | KLGS |
-
-a) Nephrolithiasis, calculus ureteris, calculus vesicae urinariae, calculus urethrae.
-
-b) We, teljes vérkép és vizelet, Se kreatinin, UN, natív hasi rtg. vizsgálat, szükség esetén iv. pyelographia, hasi Echo vizsgálat, CT, kontrasztanyagos CT vizsgálat.
-
-c) A kórelőzményben szereplő vesekőroham függetlenül attól, hogy az kőürítéssel vagy anélkül zajlott le, a minősítés: „A”, ha maradványtünetek nem észlelhetők, illetőleg kőhordozás esetében panaszok sem jelentkeznek. Kétoldali vesekárosodást okozó, veseelégtelenséggel járó nephrolithiasis esetén 131 rovatban a veseelégtelenség fokától függően a 129-es szakaszban foglaltak szerint kell minősíteni. Hivatásos és szerződéses állományba vétel esetén a 131.2 „E”. A vesekő műtéti eltávolítása után 2 évvel tünet- és panaszmentesség esetén a 135/1. szerint is minősíthető.
-
-d) K: 3–4, 6, 12, 14, 21; F: 1–2.
-
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-[^61]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
+[^63]: A hatálybalépés időpontja 2020. május 1.
