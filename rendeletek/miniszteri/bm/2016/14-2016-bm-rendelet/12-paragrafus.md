@@ -12,7 +12,7 @@ b) vegyes ruhás alapellátási norma, amely azon állomány ruházati és felsz
 
 c) tábornoki alapellátási norma, amely a tábornoki rendfokozatot viselők ruházati és felszerelési cikkeket tartalmazza, akik szolgálati feladataik során egyenruhát és polgári ruházatot is viselhetnek,
 
-d)[^15] polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló- és társasági ruházatot, valamint polgári ruhapénzt vagy csak polgári ruhapénzt tartalmaz azok számára, akik alapvetően polgári ruházatban teljesítenek szolgálatot,
+d)[^16] polgári ruhás alapellátási norma, amely a hivatásos állomány esetében gyakorló- és társasági ruházatot, valamint polgári ruhapénzt vagy csak polgári ruhapénzt tartalmaz azok számára, akik alapvetően polgári ruházatban teljesítenek szolgálatot,
 
 e) szenior alapellátási norma, amely a különleges foglalkoztatási állomány (a továbbiakban: szenior állomány) számára tartalmazza a ruházati és felszerelési cikkek összetételét.
 
@@ -24,4 +24,4 @@ e) szenior alapellátási norma, amely a különleges foglalkoztatási állomán
 
 (7) A ruházati ellátási normába való besorolás a szolgálati beosztás alapján történik. Eltérő szolgálati beosztásban történő foglalkoztatás esetében a ruházati normabesorolásról az állományilletékes parancsnok határoz. A ruházati ellátási normába történő besorolásról, illetve a más normába történő átsorolásról az állományilletékes parancsnok a gazdasági vezető ellenjegyzésével állományparancsban intézkedik.
 
-[^15]: A 12. § (3) bekezdés d) pontja a 29/2017. (XI. 6.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^16]: A 12. § (3) bekezdés d) pontja a 29/2017. (XI. 6.) BM rendelet 12. § c) pontja szerint módosított szöveg.

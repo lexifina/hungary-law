@@ -1,4 +1,4 @@
-3. melléklet a 14/2016. (V. 10.) BM rendelethez[^44]
+3. melléklet a 14/2016. (V. 10.) BM rendelethez[^45]
 
 ## A Terrorelhárítási Központ hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -354,4 +354,4 @@ a) Megjegyzés:
 
 | 4 | Öltönyzsák | db |  |  |  | 10 |  |  |  |
 
-[^44]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^45]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja szerint módosított szöveg.

@@ -58,7 +58,7 @@
 
 ## * Az egyenruházati cikkeknél és a ruházati felszereléseknél meghatározott tervezett viselési idők azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló-, speciális vagy munkaruházati) termékek vegyes használata mellett a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati utánpótlási ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – az önálló szerv költségvetése terhére történő – kártérítésénél a tervezett viselési időket figyelembe kell venni.
 
-2. melléklet a 14/2016. (V. 10.) BM rendelethez[^43]
+2. melléklet a 14/2016. (V. 10.) BM rendelethez[^44]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -76,7 +76,7 @@
 
 | 5 | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 | 2 |
 
-| 5a | Teniszing, sötétkék* | db | 4 | 2 | 2 | 2 | 2 |  |  | 2 | 2 |
+| 5a | Teniszing, sötétkék* | db | 4 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | 6 | 10M e. r. gyakorló zubbony, felirattal | db | 1 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
@@ -666,4 +666,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^43]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a szerint módosított szöveg.
+[^44]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a szerint módosított szöveg.
