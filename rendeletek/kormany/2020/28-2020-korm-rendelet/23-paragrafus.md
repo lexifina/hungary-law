@@ -1,24 +1,27 @@
-## 22. §[^21]
+## 22. §[^23]
 
-## 23. § A 414/2015. (XII. 23.) Korm. rendelet
+## 23. §[^24]
 
-a)[^22]
+a)[^25]
 
-b)[^23]
+b)[^26]
 
-c) 22. § (1) bekezdés c) pontjában a „– ha annak feltételei fennállnak – automatizált ujjnyomat összevetéssel” szövegrész helyébe a „jogszabályban meghatározott automatizált arcképmás összehasonlítással és – ha annak feltételei fennállnak – automatizált ujjnyomat összevetéssel” szöveg,
+c)[^27]
 
-d) 22. § (2) bekezdésében az „az automatizált ujjnyomat összevetés” szövegrész helyébe az „az automatizált arcképmás összehasonlítás és az automatizált ujjnyomat összevetés” szöveg,
+d)[^28]
 
-e)[^24]
+e)[^29]
 
-f)[^25]
+f)[^30]
 
-g)[^26]
+g)[^31]
 
-[^21]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 23. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 23. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 23. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 23. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 23. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 23. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 23. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 23. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
