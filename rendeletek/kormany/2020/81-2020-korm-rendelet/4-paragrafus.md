@@ -1,4 +1,4 @@
-4. § (1) A 2. §-ban és a 3. § (1) bekezdésében meghatározott rendelkezések alól – a (2) és az (5) bekezdés szerinti kivétellel – különös méltánylást érdemlő esetben a rendészeti országos rendőrfőkapitány-helyettes felmentést adhat, illetve egyedi magatartási szabályt állapíthat meg, ha
+4. § (1)[^4] A 2. §-ban és a 3. § (1) bekezdésében meghatározott rendelkezések alól – a (2) és az (5) bekezdés, valamint a 4/A. § szerinti kivétellel – különös méltánylást érdemlő esetben a rendészeti országos rendőrfőkapitány-helyettes felmentést adhat, illetve egyedi magatartási szabályt állapíthat meg, ha
 
 a) az egészségügyi vizsgálat során COVID-19 fertőzés gyanúját nem állapították meg, és
 
@@ -25,3 +25,5 @@ b) az Országgyűlés vagy a Kormány által már engedélyezett katonai csapatm
 c) kizárólag Magyarország területén való áthaladást szolgálja, és
 
 d) magyar rendőri vagy katonai rendészi biztosítással, meghatározott útvonalon és – a feltétlenül szükséges üzemanyag-felvétel, valamint a biztosítást végző által kijelölt helyen végrehajtható pihenő kivételével – megállás nélkül történik.
+
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 174/2020. (IV. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 2. § A külföldről érkező nem magyar állampolgárok személyforgalomban Magyarország területére – a 4. § (1), (2) és (5) bekezdésében meghatározott kivétellel – nem léphetnek be.
+## 2. §[^2] A külföldről érkező nem magyar állampolgárok személyforgalomban Magyarország területére – a 4. § (1), (2) és (5) bekezdésében és a 4/A. §-ban meghatározott kivétellel – nem léphetnek be.
 
-3. § (1) Személyforgalomban külföldről érkező magyar állampolgárok – a 4. § (1), (2) és (5) bekezdésében meghatározott kivétellel –
+3. § (1)[^3] Személyforgalomban külföldről érkező magyar állampolgárok – a 4. § (1), (2) és (5) bekezdésében és a 4/A. §-ban meghatározott kivétellel –
 
 a) a Magyarországra való belépés során egészségügyi vizsgálaton esnek át, amely eltűrésére kötelesek,
 
@@ -33,3 +33,6 @@ b) a belépést megelőzően legalább 14 napig járványügyi megfigyelés hat�
 (6) A rendőrség a (4) bekezdésben meghatározott adatokat a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nyilvántartja. A nyilvántartásba nem vehető fel olyan adat, amely a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nem szükséges. A nyilvántartásban szereplő adatokat a hatósági házi karantén, a járványügyi elkülönítés, a járványügyi megfigyelés, a járványügyi zárlat, valamint a járványügyi korlátozás megszűnésének időpontjában törölni kell.
 
 (7) E kormányrendelet 2. és 3. §-a szerinti rendelkezései a teherforgalomra nem alkalmazandóak.
+
+[^2]: A 2. § a 174/2020. (IV. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 174/2020. (IV. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
