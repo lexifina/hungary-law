@@ -20,15 +20,15 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-4. Az 1–3. pont szerinti kamattámogatás és kezességi díjtámogatás tárgyévi és tárgyévet követő éveket terhelő kötelezettségvállalásainak forrása az éves költségvetési törvényekben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: GFC). A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2020. évben a GFC terhére vállalható kötelezettség mértékét a 2021–2030 közötti évekre az alábbiak szerint állapítja meg:
+4.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2020. évben a Gazdaságfejlesztést szolgáló célelőirányzat terhére vállalható kötelezettség mértékét a 2021–2031 közötti évekre az alábbiak szerint állapítja meg:
 
-a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 1650 millió forint,
+a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 6200 millió forint,
 
-b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 1600 millió forint,
+b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 5000 millió forint,
 
-c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 1500 millió forint,
+c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 4800 millió forint,
 
-d) a 2024–2030. évekre vonatkozó kötelezettségvállalások felső korlátja évente 1400 millió forint.
+d) a 2024–2031. évekre vonatkozó kötelezettségvállalások felső korlátja évente 4000 millió forint.
 
 5. A Kormány felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon az 1–3. pont szerinti konstrukciók támogatásához szükséges költségvetési források rendelkezésre állásáról a 2021 és 2030 közötti években.
 
@@ -49,3 +49,5 @@ Határidő: a források 75%-ának lekötését követő harminc napon belül
 7. Az 1–3. pont szerinti kamattámogatás mértékét ügyletenként olyan módon kell meghatározni, hogy a kamattámogatással csökkentett ügyleti kamat mértéke ne legyen kevesebb, mint 0%.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont az 1194/2020. (IV. 30.) Korm. határozat 5. pontjával megállapított szöveg.
