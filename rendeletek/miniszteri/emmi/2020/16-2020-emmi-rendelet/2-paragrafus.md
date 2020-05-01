@@ -1,0 +1,3 @@
+## 1. § A törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet 2. számú melléklet Eü100 69. pontjában az „ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot) E5610, Y4430” szövegrész helyébe az „ELFOGADHATÓ BNO KÓDOK: (beleértve az összes azonosan kezdődő kódot) E5610, Z298, Z299” szöveg lép.
+
+## 2. A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosítása
