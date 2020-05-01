@@ -1,1 +1,0 @@
-## 1. A kutató-fejlesztő tevékenységet végző munkavállalók veszélyhelyzet idején megvalósuló foglalkoztatásának a Gazdaságvédelmi Akcióterv keretében történő támogatásáról szóló 103/2020. (IV. 10.) Korm. rendelet módosítása
