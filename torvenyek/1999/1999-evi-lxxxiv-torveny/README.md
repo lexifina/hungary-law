@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2019-07-25 | 2019. évi LXVII. törvény | 1999-84-00-00.65 |
 | 2020-01-01 | 2019. évi CX. törvény | 1999-84-00-00.66 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 1999-84-00-00.67 |
+| 2020-05-01 | 2019. évi CXVI. törvény | 1999-84-00-00.68 |
