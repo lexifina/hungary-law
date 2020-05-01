@@ -12,15 +12,15 @@ c) a KÁT mérlegkör működtetéséhez kötődő pénzforgalmi szaldóját.
 
 (3)[^3] A KÁT pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen figyelembe venni:
 
-a) a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
+a)[^4] a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
 
-b)[^4] a KÁT termelőtől a jogosulatlanul értékesített villamos energia után a tárgyhónapban fizetett visszatérítések összegét;
+b)[^5] a KÁT termelőtől a jogosulatlanul értékesített villamos energia után a tárgyhónapban fizetett visszatérítések összegét;
 
-c) a KÁT mérlegkör kiegyenlítése során a KÁT mérlegkörre vonatkozó, a kereskedelmi szabályzatban meghatározott előzetes elszámolási adatok alapján a tárgyhónapban igénybe vett szabályozási energia költségét;
+c)[^6] a KÁT mérlegkör kiegyenlítése során a KÁT mérlegkörre vonatkozó, a villamosenergia-ellátási szabályzatokban meghatározott előzetes elszámolási adatok alapján a tárgyhónapban igénybe vett kiegyenlítő energia költségét;
 
 d) a KÁT termelőre tárgyhónapra kirótt szabályozási pótdíj összegét;
 
-e) a KÁT termelőnek tárgyhónapra megállapított szabályozási bónusz összegét;
+e)[^7]
 
 f) a KÁT mérlegkör folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, beleértve az igazolt banki költségeket és kamatokat is;
 
@@ -30,9 +30,13 @@ h) a szervezett villamosenergia-piacon történő tárgyhavi ügyletkötésekbő
 
 i) a szervezett villamosenergia-piacon történő ügyletkötésekkel összefüggő tárgyhavi technikai költségek összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
 
-j) a tárgyhónapot megelőző termelési időszak a) és c)–e) pont szerint meghatározott összegeinek még figyelembe nem vett módosulásait;
+j)[^8] a tárgyhónapot megelőző termelési időszak a) és c)–d) pont szerint meghatározott összegeinek, valamint a szabályozási bónusz 2020. április tárgyhót megelőző összegeinek még figyelembe nem vett módosulásait;
 
 k) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
 
 [^3]: Az 5. § (3) bekezdése a 43/2017. (XI. 8.) NFM rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 5. § (3) bekezdés b) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (3) bekezdés a) pontja a 2/2020. (I. 13.) ITM rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdés b) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (3) bekezdés c) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (3) bekezdés e) pontját a 2/2020. (I. 13.) ITM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^8]: Az 5. § (3) bekezdés j) pontja a 2/2020. (I. 13.) ITM rendelet 1. § (2) bekezdésével megállapított szöveg.

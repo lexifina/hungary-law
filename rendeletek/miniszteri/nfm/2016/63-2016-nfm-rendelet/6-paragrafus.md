@@ -8,7 +8,7 @@ b) a prémium típusú támogatási rendszer működtetéséhez kötődő pénzf
 
 (3) A Prémium pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen figyelembe venni:
 
-a) a Premizált termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése és a Premizált termelőre vonatkozó aktuális támogatott ár figyelembevételével a vonatkozó Korm. rendelet alapján kalkulált prémium mérték szorzatainak összegét;
+a)[^9] a Premizált termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése és a Premizált termelőre vonatkozó aktuális támogatott ár figyelembevételével a vonatkozó Korm. rendelet alapján kalkulált prémium mérték szorzatainak összegét;
 
 b) a Premizált termelőtől a tárgyhónapban befolyt, jogosulatlanul igénybe vett támogatás után fizetett visszatérítések összegét;
 
@@ -19,3 +19,5 @@ d) a prémium típusú támogatási rendszer működtetésének a Hivatal által
 e) a tárgyhónapot megelőző termelési időszak a) pont szerint meghatározott összegeinek még figyelembe nem vett módosulásait;
 
 f) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a Prémium pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
+
+[^9]: A 6. § (3) bekezdés a) pontja a 2/2020. (I. 13.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
