@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
 
 1. melléklet a 123/2020. (IV. 16.) Korm. rendelethez
 
@@ -101,5 +101,3 @@ cb) 032 Halgazdálkodás
 cba) 0322 Édesvízihal-gazdálkodás
 
 2. Az 1. pontban meghatározott TEÁOR 08 szakágazatoknak megfelelő Önálló Vállalkozók Tevékenységi Jegyzéke szerinti mezőgazdasági tevékenységek.
-
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2020. május 1-jén lép hatályba.
