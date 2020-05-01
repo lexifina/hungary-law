@@ -40,4 +40,14 @@ k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő elj
 
 (7a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
+(7b) A személyazonosság megállapítása céljából
+
+a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során,
+
+b) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során,
+
+c) a rendőrségről szóló törvényben meghatározott rendőrség a rendőri igazoltatás során
+
+közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+
 (8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.

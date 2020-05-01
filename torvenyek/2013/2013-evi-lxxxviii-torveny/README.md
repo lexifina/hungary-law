@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-88-00-00
 | 2018-10-01 | 2017. évi CLXXXI. törvény | 2013-88-00-00.15 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 2013-88-00-00.16 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2013-88-00-00.17 |
+| 2020-05-01 | 2019. évi CXVI. törvény | 2013-88-00-00.18 |
