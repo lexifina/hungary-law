@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § Az R1. a következő 72. §-sal egészül ki:
 
-[^3]: A 3. § a 10. § (2) bekezdése alapján 2020. május 1-jén lép hatályba.
+## „72. § A 2020. május 1-jei gáznap kezdetétől a 2020. május 1. napját megelőzően létrejött és 2020. május 1-jei gáznapra vagy azt követő használati időszakra Beregdaróc 1400 UA>HU pontra szóló kapacitáslekötéseket a VIP Bereg UA>HU pontra, míg a Beregdaróc 800 HU>UA pontra szóló kapacitáslekötéseket a VIP Bereg HU>UA pontra vonatkozónak kell tekinteni, és a lekötött kapacitásokért az 1. § (1) bekezdés a) pont aa) alpont aad), illetve aam) alpontjában meghatározott pontokra vonatkozóan meghatározott kapacitásdíjat kell a rendszerhasználóknak a szállítási rendszerüzemeltető részére megfizetni.”
