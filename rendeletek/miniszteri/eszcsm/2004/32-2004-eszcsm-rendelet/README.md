@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2020-01-01 | 2004-32-20-0M.70 | 14/2019. (VII. 26.) EMMI rendelet |
 | 2020-01-15 | 2004-32-20-0M.71 | 53/2006. (XII. 28.) EüM rendelet |
 | 2020-02-01 | 2004-32-20-0M.72 | 53/2006. (XII. 28.) EüM rendelet |
+| 2020-05-01 | 2004-32-20-0M.73 | 53/2006. (XII. 28.) EüM rendelet |
