@@ -1,7 +1,3 @@
-## Az R. 6. számú melléklet 3. pontja helyébe a következő rendelkezés lép:
+2. melléklet a 16/2020. (IV. 30.) EMMI rendelethez[^6]
 
-## (A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:)
-
-## „3. a diagnosztikai eszközöket és anyagokat a vércukorszintmérő, a vércukor- és ketonmérő, valamint a légzési csúcsáramlásmérő kivételével,”
-
-2. melléklet a 16/2020. (IV. 30.) EMMI rendelethez
+[^6]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
