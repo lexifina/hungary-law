@@ -744,8 +744,10 @@
 
 ## c) az SZMSZ-2012. 5.7. pontja alapján adományozott szakmai tanácsadói, szakmai főtanácsadói, valamint az SZMSZ-2012. 5.9. pontja alapján adományozott címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, címzetes főmunkatársi címek megszűnnek. Az ilyen címekkel rendelkező köztisztviselők esetében a Küt. 105. § (15) bekezdésének a végrehajtása során ezeknek a címeknek, illetve az azokkal járó juttatásoknak a figyelembevételével kell eljárni.
 
-## 20.2. Ez a határozat 2020. május 1-jén lép hatályba. Ezzel egyidejűleg hatályát veszti az SZMSZ-2012., valamint az annak módosításáról szóló AB Tü. határozatok.
+## 20.2.[^1] Ez a határozat 2020. május 1-jén lép hatályba.
 
 ## 20.3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 1. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz
+
+[^1]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.
