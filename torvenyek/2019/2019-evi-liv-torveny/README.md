@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-54-00-00
 | --- | --- | --- |
 | 2019-06-28 | 2019. évi LIV. törvény | 2019-54-00-00.0 (közlönyállapot) |
 | 2019-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-54-00-00.1 |
+| 2020-05-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-54-00-00.2 |
