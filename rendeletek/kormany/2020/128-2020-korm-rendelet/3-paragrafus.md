@@ -1,3 +1,1 @@
-3. §[^1]
-
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2020. május 2-án lép hatályba.
+3. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
