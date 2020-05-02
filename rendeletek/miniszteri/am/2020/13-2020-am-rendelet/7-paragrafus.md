@@ -1,5 +1,3 @@
-## 6. § A 61/2017. (XII. 21.) FM rendelet 46. § (8) bekezdése a következő d) ponttal egészül ki:
+## 6. §[^7]
 
-## [Az Evt. 71. § (1) bekezdés h) pontja alkalmazásában nem minősül egyéb termelésnek, ennek értelmében fakitermelésnek:]
-
-## „d) az örökerdő üzemmódú erdő utánpótlás állományának gondozása, ápolása.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 5. § A 61/2017. (XII. 21.) FM rendelet 37. §-a a következő (6a) bekezdéssel egészül ki:
+## 5. §[^6]
 
-## „(6a) Faültetvény természetességi állapotú faállomány záródása alatt, ha az Evt. 5. § 12. pont szerinti záródás nem éri el a 60%-ot, a faállomány aktuális egyedszámának és az ültetési hálózatból számított egyedszám százalékban kifejezett viszonyszámát kell érteni.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
