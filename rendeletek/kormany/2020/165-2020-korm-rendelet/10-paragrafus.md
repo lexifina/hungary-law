@@ -1,1 +1,0 @@
-## „(3) Az intézmények (2) bekezdés szerinti adataikat a tárgyév január 31. napjáig változás hiányában is kötelesek évente felülvizsgálni, és a változásokat a központosított közbeszerzési portálon rögzíteni.”

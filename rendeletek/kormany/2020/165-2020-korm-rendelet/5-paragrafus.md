@@ -1,1 +1,0 @@
-## „(4) Az önként csatlakozott szervezetet – a központosított közbeszerzési rendszerben a csatlakozással érintett beszerzése esetén – megilletik mindazon jogosultságok és terhelik mindazon kötelezettségek – kivéve a 17. §-ban meghatározott kötelezettségeket –, amelyeket e rendelet határoz meg az 1. § (1) bekezdése szerinti szervezetek részére.”
