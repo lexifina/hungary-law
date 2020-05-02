@@ -1,1 +1,3 @@
-## „j) a tárgyhónapot megelőző termelési időszak a) és c)–d) pont szerint meghatározott összegeinek, valamint a szabályozási bónusz 2020. április tárgyhót megelőző összegeinek még figyelembe nem vett módosulásait;”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
