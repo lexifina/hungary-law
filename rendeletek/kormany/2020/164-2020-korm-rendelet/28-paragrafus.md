@@ -1,1 +1,3 @@
-## 27. § A KR6. 6/B. § (2) bekezdésében az „in vitro diagnosztikai eszközök” szövegrész helyébe az „orvostechnikai eszközök és az in vitro diagnosztikai eszközök” szöveg lép.
+## 27. §[^12]
+
+[^12]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
