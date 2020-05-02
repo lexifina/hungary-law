@@ -1,5 +1,3 @@
-## 12. §[^1]
+## 12. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
 
 13. § E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
-
-[^1]: A 12. § a 11. § (2) bekezdése alapján 2020. május 2-án lép hatályba.
