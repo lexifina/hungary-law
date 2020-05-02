@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-106-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-01 | 2020-106-20-22.1 | 106/2020. (IV. 10.) Korm. rendelet |
+| 2020-05-02 | 2020-106-20-22.2 | 2010: CXXX. törvény |
