@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-3-20-5Z
 | 2020-04-09 | 2020-3-20-5Z.1 | 3/2020. (III. 25.) MEKH rendelet |
 | 2020-04-10 | 2020-3-20-5Z.2 | 2010: CXXX. törvény |
 | 2020-05-01 | 2020-3-20-5Z.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-05-02 | 2020-3-20-5Z.4 | 2010: CXXX. törvény |
