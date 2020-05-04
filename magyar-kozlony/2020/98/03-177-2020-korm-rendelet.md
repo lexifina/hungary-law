@@ -1,0 +1,122 @@
+# A Kormány 177/2020. (V. 4.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 98. szám, 2020. május 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8kGGfNvTeu9K9vNlCUoB5eab3bea8b653/dokumentumok/008772a9660e8ff51e7dd1f3d39ec056853ab26c/letoltes)
+
+---
+
+A Kormány 177/2020. (V. 4.) Korm. rendelete
+EU-típusvizsgálati tanúsítvánnyal nem rendelkező egyéni légzésvédő eszközök és a használat után
+fertőtlenített egyéni légzésvédő eszközök vizsgálatáról, felhasználásáról, az egyes munkavédelmi célú
+időszakos felülvizsgálatok elhalasztásáról, a munkavégzéshez szükséges kezelői jogosítványok orvosi
+érvényességének meghosszabbításáról, valamint az egyes időszakos felülvizsgálatok elhalasztásáról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 8. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. EU-típusvizsgálati tanúsítvánnyal nem rendelkező egyéni légzésvédő eszközök és a használat után
+fertőtlenített egyéni légzésvédő eszközök vizsgálata és felhasználása
+1. § (1) A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban:
+veszélyhelyzet) fennállása alatt, a koronavírus világjárvány kitörésével összefüggésben szükséges egyéni
+védőeszközök biztosítása érdekében kizárólag az e rendeletben foglaltak szerint lehet felhasználni
+az EU-típusvizsgálati tanúsítvánnyal nem rendelkező új egyéni légzésvédő eszközöket (a továbbiakban: egyéni
+légzésvédő eszköz) és a használat után fertőtlenített egyéni légzésvédő eszközöket.
+(2) Az egyéni légzésvédő eszközökre vonatkozó 2. § (1) bekezdése szerinti vizsgálatot az egyéni védőeszközökről
+és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/425 európai
+parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2016/425 európai parlamenti és tanácsi rendelet] szerinti
+megfelelőségértékelési eljárás elindítását követően lehet kérelmezni.
+2. § (1) A Budapesti Műszaki és Gazdaságtudományi Egyetem Villamosmérnöki és Informatikai Karának megbízott
+vizsgálólaboratóriuma (a továbbiakban: BME vizsgálólaboratórium) a hozzá benyújtott vizsgálati kérelemre
+(a továbbiakban: kérelem) jogosult a veszélyhelyzet ideje alatt egyéni légzésvédő eszközök és a használat után
+fertőtlenített egyéni légzésvédő eszközök darabvizsgálatának elvégzésére.
+
+(2) A kérelmet állami költségvetési szerv, egészségügyi szolgáltató, a gyártó, a gyártó meghatalmazott képviselője,
+az importőr, a forgalmazó (a továbbiakban együtt: kérelmező) nyújthatja be, az (1) bekezdésben felsorolt egyéni
+védőeszközök egészségügyi szolgáltató vagy a koronavírus elleni védekezésben közvetlenül részt vevő szerv
+(a továbbiakban: együtt: felhasználó) általi felhasználás céljából.
+(3) A kérelemhez a műszaki dokumentációt és az egyéni légzésvédő eszköz esetén a megfelelőségértékelési eljárás
+megindításáról szóló igazolást a kérelmezőnek csatolnia kell.
+(4) A BME vizsgálólaboratórium működésének az MSZ EN ISO/IEC 17025:2005, illetve az MSZ EN ISO/IEC 17025:2018
+szabvány előírásainak kell megfelelnie.
+(5) A BME vizsgálólaboratóriumnak rendelkeznie kell a darabvizsgálat elvégzéséhez szükséges eljárásrenddel.
+(6) A darabvizsgálat során a BME vizsgálólaboratórium megvizsgálja, hogy
+a) az adott cikkszámmal ellátott egyéni légzésvédő eszköz, használat után fertőtlenített egyéni légzésvédő
+eszköz megfelel-e az MSZ EN 149:2001+A1:2009 szabványban foglalt előírásoknak,
+b) a vizsgált egyéni légzésvédő eszköz megfelel-e a műszaki dokumentációjában foglaltaknak, és
+c) a vizsgált egyéni légzésvédő eszköz, használat után fertőtlenített egyéni légzésvédő eszköz megfelel-e
+az (EU) 2016/425 európai parlamenti és tanácsi rendeletben meghatározott, rá vonatkozó alapvető
+egészségvédelmi és biztonsági követelményeknek, valamint ténylegesen véd-e azon kockázatokkal
+szemben, amelyek ellen a légzésvédő eszköz rendeltetése szerint védelmet nyújt.
+(7) A BME vizsgálólaboratórium az elvégzett darabvizsgálatról vizsgálati jegyzőkönyvet készít.
+(8) Ha a darabvizsgálat során megállapításra kerül, hogy a vizsgált egyéni légzésvédő eszköz, használat után
+fertőtlenített egyéni légzésvédő eszköz a (6) bekezdésben foglaltaknak megfelel, akkor a BME vizsgálólaboratórium
+ezt a tényt az „Igazolás darabvizsgálat elvégzéséről” elnevezésű dokumentum (a továbbiakban: Igazolás)
+kibocsátásával igazolja.
+(9) Ha a darabvizsgálat során megállapításra kerül, hogy a vizsgált egyéni légzésvédő eszköz, használat
+után fertőtlenített egyéni légzésvédő eszköz a (6) bekezdésben foglaltaknak nem felel meg, akkor
+a BME vizsgálólaboratórium erről a kérelmezőt értesíti.
+(10) A darabvizsgálat díjköteles. A darabvizsgálat díjának összegében a vizsgálati módszer és a vizsgált darabszám
+függvényében a felek állapodnak meg, azzal, hogy a díj maximális összege kérelmenként legfeljebb 500 000 forint
+lehet.
+3. § (1) Igazolással rendelkező egyéni légzésvédő eszköz, használat után fertőtlenített egyéni légzésvédő eszköz kizárólag
+egészségügyi dolgozó és a koronavírus elleni védekezésben közvetlenül részt vevő személy részére biztosítható.
+(2) A kérelmező köteles gondoskodni arról, hogy a felhasználó tájékoztatást kapjon arról, hogy olyan egyéni légzésvédő
+eszközt kap, amely még nem esett át megfelelőségértékelési eljáráson, de a megfelelőségértékelési eljárás
+az (EU) 2016/425 európai parlamenti és tanácsi rendeletben foglaltak szerint megindult.
+(3) A felhasználó biztosítja az (1) bekezdésben foglalt személyek részére EU-típusvizsgálati tanúsítvánnyal rendelkező új
+egyéni légzésvédő eszköz hiányában
+a) az e rendelet szerinti Igazolással rendelkező, új egyéni légzésvédő eszközt,
+b) az a) pontban foglaltak hiányában (a továbbiakban: végszükség) az expozíció kockázatának értékelése után
+az Igazolással rendelkező, használat után fertőtlenített egyéni légzésvédő eszközt.
+(4) Magas kockázatú expozíciónak kitett egészségügyi dolgozó a (3) bekezdés b) pontja szerinti, használat után
+fertőtlenített egyéni légzésvédő eszközt végszükség esetén sem használhat.
+(5) Igazolással rendelkező egyéni légzésvédő eszköz, használat után fertőtlenített egyéni légzésvédő eszköz
+az (1)–(4) bekezdés szerinti használat céljára kizárólag Magyarország területén, a veszélyhelyzet időtartama alatt
+hozható forgalomba, azzal, hogy kereskedelmi forgalomba nem hozható.
+4. §
+Az e rendelet 1–3. §-ában foglaltak nem érintik az (EU) 2016/425 európai parlamenti és tanácsi rendelet szerint
+szükséges megfelelőségértékelési eljárások lefolytatását.
+2. A munkavédelmi célú időszakos felülvizsgálatok elhalasztása és a munkavégzéshez szükséges
+kezelői jogosítványok orvosi érvényességének meghosszabbítása
+5. § (1) A veszélyhelyzet megszűnését követő 60. napig elhalasztható a munkavédelmi célú időszakos felülvizsgálatok közül
+a) a munkavédelemről szóló 1993. évi XCIII. törvény 23. § (1) bekezdésében meghatározott veszélyes
+munkaeszközök időszakos biztonsági felülvizsgálata,
+
+b) a munkaeszközök és használatuk biztonsági és egészségügyi követelményeinek minimális szintjéről szóló
+10/2016. (IV. 5.) NGM rendelet (a továbbiakban: 10/2016. NGM rendelet) 17. §-ában és 18. § (1) bekezdésében
+meghatározott nem veszélyes munkaeszközök időszakos ellenőrző felülvizsgálata,
+c) a villamos berendezések esetében a 10/2016. NGM rendelet
+ca) 19. § (2) bekezdése szerinti szerelői ellenőrzés,
+cb) 19. § (3) bekezdése szerinti szabványossági felülvizsgálat,
+cc) 19. § (6) bekezdése szerinti szerelői ellenőrzéssel történő időszakos ellenőrző felülvizsgálat,
+cd) 19. § (7) bekezdése szerinti szabványossági felülvizsgálattal történő időszakos ellenőrző
+felülvizsgálat,
+d) az Emelőgép Biztonsági Szabályzat kiadásáról szóló 47/1999. (VIII. 4.) GM rendelet Melléklet I. Fejezet
+7.2.7. pontja szerinti emelőgép-szerkezeti és fővizsgálat,
+e) a Hegesztési Biztonsági Szabályzat kiadásáról szóló 143/2004. (XII. 22.) GKM rendelet Melléklet 8.1. pontja
+szerinti hegesztő berendezések és biztonsági szerelvények időszakos ellenőrzése.
+(2) A veszélyhelyzet idején lejáró, a munkavégzés során egyes tevékenységek végzéséhez szükséges kezelői
+jogosítványok orvosi érvényessége a veszélyhelyzet megszűnését követő 60. napig meghosszabbodik.
+3. Egyes műszaki berendezések, készülékek, szerkezetek időszakos felülvizsgálati, karbantartási
+kötelezettségével összefüggő előírások veszélyhelyzet ideje alatt történő eltérő alkalmazásáról
+6. § (1) A veszélyhelyzet ideje alatt – amennyiben azok végrehajtása a fennálló veszélyhelyzettel összefüggésben kialakult
+körülmények következtében aránytalan nehézségbe ütközik – az Országos Tűzvédelmi Szabályzatról szóló
+54/2014. (XII. 5.) BM rendelet 18. mellékletében foglalt 1. táblázatban meghatározott műszaki megoldások időszakos
+felülvizsgálatát, karbantartását nem kell végrehajtani.
+(2) Az (1) bekezdés alkalmazása esetén az üzemeltetői ellenőrzéseket – amennyiben jogszabály annak végrehajtására
+hosszabb időt határoz meg – legalább havonta egy alkalommal végre kell hajtani.
+(3) Az (1) bekezdés nem vonatkozik az érintett műszaki berendezés, készülék, szerkezet meghibásodásának
+elhárításával, javításával, folyamatos készenlétben tartásával kapcsolatos, jogszabályban meghatározott
+kötelezettségre.
+(4) Az (1) bekezdés alapján elmaradt időszakos felülvizsgálat, karbantartás végrehajtására az arra kötelezettnek
+a veszélyhelyzet megszűnését követő 30 napon belül – igazolt módon dokumentálva – intézkednie kell.
+4. Záró rendelkezések
+7. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 8. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+8. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+ Orbán Viktor s. k.,
+ miniszterelnök
