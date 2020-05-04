@@ -1,0 +1,5 @@
+2. § (1) Az érme réz 75% és nikkel 25% ötvözetéből készült, súlya 7,70 gramm, átmérője 27,4 mm, peremvastagsága 1,8 mm, széle sima.
+
+(2) Az érme előlapjának szélén található gyöngysorszegélyen belül, köriratban, fent a „MAGYARORSZÁG” felirat, lent, egy-egy lángnyelvmotívum között a „150 ÉVES A SZERVEZETT MAGYAR TŰZOLTÓSÁG” felirat olvasható. A középmezőben egy díszes tűzoltósisak és két, keresztben elhelyezett bontóbalta ábrázolása látható, babérkoszorúval övezve. A középmező szélén mentőkötél ábrázolása látható, a mentőkötél két végén elhelyezkedő karabinerek között a 2020-as verési évszám olvasható. Az érme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az érme hátlapjának szélén található gyöngysorszegélyen belül, a középmezőben – kissé egymásra csúsztatott számjegyekből álló – „50” értékjelzés, az értékjelzés bal és jobb oldalán, alul díszítővonal látható. Az értékjelzés alatti két vízszintes sorban a „FORINT” felirat és a „BP.” verdejel olvasható. Az érme hátlapjának képét a 2. melléklet tartalmazza.
