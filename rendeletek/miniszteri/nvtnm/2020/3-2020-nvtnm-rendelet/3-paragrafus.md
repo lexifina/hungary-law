@@ -1,0 +1,1 @@
+## 2. § A Rendelet 1. melléklet X. pontjában foglalt táblázat 2. sorában a „KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság” szöveg lép.
