@@ -158,7 +158,7 @@
 
 | 27. | Szegedi SZEFO Fonalfeldolgozó „zártkörűen működő” Részvénytársaság | 06-10-000122 | 2022. december 31. |
 
-| 28. | Új Nemzedék Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-192608 | 2022. december 31. |
+| 28. |  |  |  |
 
 | 29. | Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-919878 | 2022. december 31. |
 
@@ -252,6 +252,8 @@
 
 | 7. | Adria Port Zártkörűen Működő Részvénytársaság | 01-10-140567 | 2022. december 31. |
 
+| 8. | KKM Subsidium Korlátolt Felelősségű Társaság | 01-09-355242 | 2022. december 31. |
+
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
@@ -270,7 +272,7 @@
 
 | 1. | Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140096 | 2022. december 31. |
 
-| 2. | KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-048661 | 2022. december 31. |
+| 2. | BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-048661 | 2022. december 31. |
 
 | 3. | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2022. december 31. |
 
