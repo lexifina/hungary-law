@@ -1,0 +1,13 @@
+2. § (1) A veszélyhelyzet megszűnéséig az Infotv. szerinti, a közérdekű és a közérdekből nyilvános adat (a továbbiakban együtt: közérdekű adat) megismerésére irányuló igényekre vonatkozó, az Infotv. III. Fejezete szerinti rendelkezéseket az e §-ban foglalt kiegészítésekkel, illetve eltérésekkel kell alkalmazni.
+
+(2) Az Infotv. 28. § (1) bekezdésétől eltérően a közérdekű adat megismerése iránti igényt szóban nem lehet benyújtani, valamint az Infotv. 30. § (2) bekezdésétől eltérően az adatigénylés csak akkor teljesíthető az igénylő által kívánt formában, ha az egyébként nem jár az igénylőnek az Infotv. szerinti közfeladatot ellátó szerv előtti személyes megjelenésével.
+
+(3) Az Infotv. 29. § (1) bekezdésétől eltérően a közérdekű adat megismerésére irányuló igénynek az adatot kezelő, az Infotv. szerinti közfeladatot ellátó szerv az igény beérkezését követő 45 napon belül tesz eleget, ha valószínűsíthető, hogy az igénynek az Infotv. 29. § (1) bekezdése szerinti határidőben való teljesítése a veszélyhelyzettel összefüggő közfeladatai ellátását veszélyeztetné. Erről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
+
+(4) Az Infotv. 29. § (2) bekezdésében meghatározottakat nem érintve, a (3) bekezdés szerinti határidő egy alkalommal 45 nappal meghosszabbítható, ha az igénynek a (3) bekezdés szerinti határidőben való teljesítése az Infotv. szerinti közfeladatot ellátó szervnek a veszélyhelyzettel összefüggő közfeladatai ellátását továbbra is veszélyeztetné. Erről az igénylőt a (3) bekezdésben meghatározott határidő leteltét megelőzően tájékoztatni kell.
+
+(5) Az Infotv. 29. § (4) bekezdésében meghatározottaktól eltérően az adatigénylést az adatigénylés teljesítéséért az Infotv. szerint megállapított költségtérítésnek az igénylő általi megfizetését követő 45 napon belül kell teljesíteni akkor, ha egyúttal valószínűsíthető, hogy az igénynek az Infotv. 29. § (4) bekezdése szerinti határidőben való teljesítése a veszélyhelyzettel összefüggő közfeladatai ellátását veszélyeztetné. Ebben az esetben az Infotv. 29. § (4) bekezdésében meghatározott tájékoztatást az igény beérkezését követő 45 napon belül teljesíteni kell.
+
+(6) A (3) bekezdés alkalmazása esetén – az Infotv. 30. § (3) bekezdésétől eltérően – az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt az Infotv. alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 45 napon belül kell írásban vagy – ha az igényben az elektronikus levelezési címét közölte – elektronikus levélben értesíteni az igénylőt.
+
+(7) Az Infotv. 31. § (1) bekezdésében az Infotv. 29. § (2) bekezdése szerint meghosszabbított határidő alatt a (4) bekezdés szerint meghosszabbított határidőt is érteni kell.
