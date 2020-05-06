@@ -1,4 +1,4 @@
-## 24. §[^6]
+## 24. §[^7]
 
 ## 8. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 26. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
 
-[^6]: A 24. § a 25. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^7]: A 24. § a 25. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.

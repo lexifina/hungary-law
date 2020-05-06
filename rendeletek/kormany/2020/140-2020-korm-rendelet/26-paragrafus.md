@@ -1,3 +1,1 @@
-26. §[^7]
-
-[^7]: A 26. § a 25. § (5) bekezdése alapján 2020. május 6-án lép hatályba.
+26. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
