@@ -1,0 +1,23 @@
+## 11. § A 2 000 000 eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9. § (1) és (2) bekezdésében, valamint a 10. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+
+12. § (1) A zenei és irodalmi alkotások kiadásához nyújtott támogatás keretében
+
+a) a szerző díjazása (pl. szerzői joggal kapcsolatos költség),
+
+b) a fordító díjazása,
+
+c) a szerkesztő díjazása,
+
+d) az egyéb szerkesztési költség (pl. korrektúrázás, javítás, lektorálás),
+
+e) az elrendezés és nyomdai előkészítés költsége és
+
+f) a nyomtatás vagy elektronikus közzététel költsége
+
+számolható el.
+
+(2) Az (1) bekezdés f) pontja szerinti tevékenységekhez nyújtott támogatás esetén
+
+a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
+
+b) a támogatás összege nem haladhatja meg az elszámolható költségek és a projektből származó bevételek jelenértékének különbségét, azzal, hogy a bevételeket az elszámolható költségekből előzetesen vagy visszakövetelési mechanizmus alkalmazásával kell levonni.
