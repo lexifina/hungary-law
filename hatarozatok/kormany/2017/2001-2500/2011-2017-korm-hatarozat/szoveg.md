@@ -38,39 +38,11 @@ Határidő: az a) alpont esetében a felmerülés ütemében
 
 a b) alpont esetében a 2019. évi központi költségvetés tervezése során
 
-8. felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Kormány részére:
+8.[^3]
 
-a) a Beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával,
-
-b) a Beruházás megkezdése előtt indítandó gyűjteménybővítési és restaurációs feladatokról, azok ütemezéséről, költségeiről, forrásigényéről,
-
-c) a Múzeum repüléstörténeti gyűjteményének egy helyszínen történő elhelyezéséről és az annak előkészítéséhez, ütemezéséhez szükséges döntésekről,
-
-d) a Múzeum komplex szakmai és infrastrukturális megújításához, továbbá a Beruházás időtartama alatt közfeladat ellátásához szükséges feladatokról, azok forrásigényéről és ütemezéséről,
-
-e) a nemzeti fejlesztési miniszter bevonásával az 1. pontban kijelölt területnek a Beruházás megvalósítására történő alkalmassá tételéhez szükséges intézkedésekről, azok forrásigényéről és ütemezéséről;
-
-Felelős: az a)–d) alpontok esetében emberi erőforrások minisztere
-
-az e) alpont esetében emberi erőforrások minisztere nemzeti fejlesztési miniszter
-
-Határidő: az a) alpont esetében a kiviteli tervek rendelkezésre állását követő 30 napon belül,
-
-a b) alpont esetében 2018. augusztus 31.,
-
-a c) alpont esetében 2018. augusztus 31.,
-
-a d) alpont esetében 2018. január 31.,
-
-az e) alpont esetében 2018. január 31.
-
-9. felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján, a Múzeum bevonásával tegyék meg a szükséges intézkedéseket az 1. pontban kijelölt területnek a Beruházás megvalósítására történő előkészítése érdekében.
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a 8. pont e) alpontjában meghatározott feladat végrehajtását, valamint a szükséges forrás rendelkezésre állását követően
+9.[^4]
 
 [^1]: A 2. pont az 1751/2019. (XII. 19.) Korm. határozat a) pontja szerint módosított szöveg.
 [^2]: A 7. pont b) alpont az 1751/2019. (XII. 19.) Korm. határozat b) pontja szerint módosított szöveg.
+[^3]: A 8. pontot az 1198/2020. (V. 6.) Korm. határozat 14. pontja visszavonta.
+[^4]: A 9. pontot az 1198/2020. (V. 6.) Korm. határozat 14. pontja visszavonta.
