@@ -1,0 +1,1 @@
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) bekezdésében és (3) bekezdés c) pontjában foglaltakra figyelemmel megújuló energia projektek megvalósítása céljából beruházási célterületté nyilvánítja
