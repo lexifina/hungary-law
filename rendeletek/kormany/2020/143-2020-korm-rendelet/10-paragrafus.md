@@ -1,3 +1,1 @@
-10. §[^1]
-
-[^1]: A 10. § a 8. § (2) bekezdése alapján 2020. május 7-én lép hatályba.
+10. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
