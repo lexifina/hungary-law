@@ -1,5 +1,3 @@
-## 16. § Hatályát veszti a fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 18/2019. (V. 10.) BM rendelet.
-
 1. melléklet a 13/2020. (V. 5.) BM rendelethez
 
 A XIV. Belügyminisztérium fejezet 2020. évi költségvetési kiadási előirányzatainak feladatterve
