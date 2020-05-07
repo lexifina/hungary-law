@@ -1,0 +1,23 @@
+## „5. § (1) Az a nem magyar állampolgár, aki a 2. §-ban meghatározott szabályokat megszegi, Magyarország területéről kiutasításra, kitoloncolásra kerül.
+
+## (2) Nem bűncselekmény, hanem szabálysértés valósul meg, ha a Btk. 361. §-ában meghatározott bűncselekményt a COVID-19 fertőzöttség vagy annak gyanúja miatt elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével követik el.
+
+## (3) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 11. § (1) bekezdésétől eltérően a (2) bekezdés szerinti szabálysértés esetén a pénzbírság legalacsonyabb összege ötezer forint, legmagasabb összege ötszázezer forint.
+
+## (4) A (2) bekezdés szerint szabálysértés esetén a helyszíni bírság összege a Szabs. tv. 99. § (2) bekezdésétől eltérően ötezer forinttól százezer forintig, a szabálysértés ismételt elkövetése esetén százötvenezer forintig terjed, és a Szabs. tv. 100/A. §-ától eltérően szóbeli figyelmeztetés nem alkalmazható.
+
+## (5) Ha a (2) bekezdés szerinti szabálysértés miatti helyszíni intézkedés során az eljárás alá vont személy a szabálysértés elkövetését nem ismeri el, a szabálysértési hatóság meghallgatás nélküli eljárásban hoz határozatot. Meghallgatás iránti kérelem esetén, a veszélyhelyzet során alkalmazandó egyes belügyi és közigazgatási tárgyú szabályokról szóló 85/2020. (IV. 5.) Korm. rendelet 12. § (1) bekezdésétől eltérően, ha a meghallgatás telekommunikációs eszköz útján nem foganatosítható, kötelező az írásbeli vallomástétel engedélyezése.
+
+## (6) A Szabs. tv. 1. § (1) bekezdésétől eltérően szabálysértést követ el, aki
+
+## a) a 4. § (1) bekezdése alapján meghatározott egyedi magatartási szabályt vagy
+
+## b) a 4. § (2) bekezdése szerinti határozatban foglalt határátlépési, tartózkodási, közlekedési, egészségvédelmi, valamint útvonalra és megállási lehetőségekre vonatkozó szabályt
+
+## megszegi.
+
+## (7) A (6) bekezdés szerinti szabálysértés esetén a Szabs. tv. 11. § (1) bekezdésétől eltérően a pénzbírság legalacsonyabb összege ötezer forint, legmagasabb összege ötszázezer forint.
+
+## (8) A (6) bekezdés szerinti szabálysértés esetén a helyszíni bírság összege a Szabs. tv. 99. § (2) bekezdésétől eltérően ötezer forinttól százezer forintig, a szabálysértés ismételt elkövetése esetén százötvenezer forintig terjed.”
+
+8. § Az R. 3. § (3) bekezdésében az „Az (1) bekezdés c) és d) pontja” szövegrész helyébe az „Az (1) bekezdés c) és d) pontja, valamint a (2a) bekezdése” szöveg lép.
