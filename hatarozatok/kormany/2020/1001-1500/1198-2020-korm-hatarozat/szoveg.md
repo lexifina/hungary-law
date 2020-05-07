@@ -92,4 +92,6 @@ a c) alpont tekintetében 2022. december 31.
 
 a d) alpont tekintetében 2023. december 31.
 
-14. visszavonja a Korm. határozat 8. és 9. pontját.
+14.[^1]
+
+[^1]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
