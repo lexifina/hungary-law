@@ -1,0 +1,3 @@
+7. § (1) Az 1. § (1) bekezdése szerinti telek területén a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározott személygépkocsik számának legalább 35%-a elhelyezését kell biztosítani.
+
+(2) Az (1) bekezdésben megjelölt személygépkocsi-parkolóhelyek részben vagy egészben az 1. § (1) bekezdése szerinti telekhatártól számított 500 méteres távolságon belül parkolóban, parkolóházban vagy a közterületek közlekedésre szánt területei egy részének, illetve a közforgalom céljára átadott magánút egy részének felhasználásával biztosíthatók.
