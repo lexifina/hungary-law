@@ -8,10 +8,10 @@ a) 6. § (8) bekezdésében,
 
 b) 10. § (1) és (3) bekezdésében vagy
 
-c)[^2]
+c)[^3]
 
 ## foglalt határidő a veszélyhelyzet időtartama alatt járna le, akkor az a veszélyhelyzet megszűnését követő 30. napig meghosszabbodik.
 
 (2) A veszélyhelyzet időtartama alatt, valamint az annak megszűnését követő 30. napig benyújtott kérelmek esetén az R8. 8. § b) pontjában foglalt feltétel fennállását a 2020. március 10-én fennállt állapot szerint kell vizsgálni.
 
-[^2]: A 9. § (1) bekezdés c) pontja a 14. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^3]: A 9. § (1) bekezdés c) pontja a 14. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.

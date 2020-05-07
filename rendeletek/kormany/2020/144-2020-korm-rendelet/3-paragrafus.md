@@ -22,6 +22,6 @@ d) 13. § (2) bekezdésében
 
 (6) A hitelintézetnek az R4. 17/B. § (3) bekezdése szerinti adatszolgáltatási kötelezettsége az R2. 1. § (1) bekezdése szerinti fizetési moratórium igénybevételére is kiterjed.
 
-(7)[^1]
+(7)[^2]
 
-[^1]: A 3. § (7) bekezdése a 14. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^2]: A 3. § (7) bekezdése a 14. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
