@@ -24,7 +24,9 @@ a) COVID-19 fertőzésből gyógyult, fertőzés tüneteit nem mutatja, vagy
 
 b) a belépést megelőzően legalább 14 napig járványügyi megfigyelés hatálya alatt állt.
 
-(3) Az (1) bekezdés c) és d) pontja szerint hatósági házi karanténban vagy kijelölt karanténban tartózkodók ellátásáról való gondoskodás a települési önkormányzat polgármesterének feladata.
+(2a)[^4] E rendelet szerinti hatósági házi karanténnak minősül az is, ha a járványügyi hatóság COVID-19 fertőzés vagy annak gyanúja miatt előírja, hogy a járványügyi intézkedés alá vont személy a számára meghatározott lakást, ahhoz tartozó bekerített helyet vagy egyéb, egészségügyi intézménynek nem minősülő helyet ne hagyja el.
+
+(3)[^5] Az (1) bekezdés c) és d) pontja, valamint a (2a) bekezdése szerint hatósági házi karanténban vagy kijelölt karanténban tartózkodók ellátásáról való gondoskodás a települési önkormányzat polgármesterének feladata.
 
 (4) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 5. § (3) bekezdése szerint kezelt személyes adatot az adatkezelő – a rendőrség járványügyi hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén a rendőrség részére haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.
 
@@ -36,3 +38,5 @@ b) a belépést megelőzően legalább 14 napig járványügyi megfigyelés hat�
 
 [^2]: A 2. § a 174/2020. (IV. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés nyitó szövegrésze a 174/2020. (IV. 30.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (2a) bekezdését a 181/2020. (V. 4.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^5]: A 3. § (3) bekezdése a 181/2020. (V. 4.) Korm. rendelet 8. §-a szerint módosított szöveg.

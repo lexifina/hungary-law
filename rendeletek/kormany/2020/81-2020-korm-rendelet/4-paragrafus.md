@@ -1,16 +1,18 @@
-4. § (1)[^4] A 2. §-ban és a 3. § (1) bekezdésében meghatározott rendelkezések alól – a (2) és az (5) bekezdés, valamint a 4/A. § szerinti kivétellel – különös méltánylást érdemlő esetben a rendészeti országos rendőrfőkapitány-helyettes felmentést adhat, illetve egyedi magatartási szabályt állapíthat meg, ha
+4. § (1)[^6] A 2. §-ban és a 3. § (1) bekezdésében meghatározott rendelkezések alól – a (2) és az (5) bekezdés, valamint a 4/A. § szerinti kivétellel – különös méltánylást érdemlő esetben a rendészeti országos rendőrfőkapitány-helyettes felmentést adhat, illetve egyedi magatartási szabályt állapíthat meg, ha
 
 a) az egészségügyi vizsgálat során COVID-19 fertőzés gyanúját nem állapították meg, és
 
 b) az érintettet a 3. § (1) bekezdés d) pont db) alpontja szerinti kijelölt karantén, valamint a hatósági házi karantén idejére nyilvántartásba vették.
 
-(2) Az országos rendőrfőkapitány
+(2)[^7] Az országos rendőrfőkapitány
 
-a) a szomszédos állam polgárai esetében, valamint
+a) a szomszédos állam állampolgárai esetében,
 
-b) a humanitárius célból történő tranzitáthaladás során
+b) a humanitárius célból történő tranzitáthaladás során, valamint
 
-## a határátlépésre, a Magyarország területén tartózkodásra, az áthaladásra, az útvonalra, a megállási lehetőségekre, a humanitárius tranzitforgalomra vonatkozó különös közlekedésre vonatkozó szabályokat határozatban is megállapíthat.
+c) a szomszédos országokból érkező olyan személyek esetében, akik az agrárágazat (TEÁOR és TESZOR 01, 02 és 03) munkaerőigényének biztosítása céljából utaznak be, és a szomszédos állam állampolgárai vagy magyarországi lakóhellyel nem rendelkező magyar állampolgárok (a továbbiakban: agrárágazatban dolgozó),
+
+## a határátlépésre, a Magyarország területén tartózkodásra, az áthaladásra, az útvonalra, a megállási lehetőségekre, a humanitárius tranzitforgalomra vonatkozó különös közlekedésre vonatkozó szabályokat, valamint – kizárólag a c) pont szerinti esetben – a munkahelyi karanténra vonatkozó szabályokat határozatban is megállapíthat.
 
 (3) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 89. § (2) bekezdésétől eltérően a (2) bekezdés szerinti határozatról készült közleményt a Hivatalos Értesítőben kell közzétenni.
 
@@ -26,4 +28,5 @@ c) kizárólag Magyarország területén való áthaladást szolgálja, és
 
 d) magyar rendőri vagy katonai rendészi biztosítással, meghatározott útvonalon és – a feltétlenül szükséges üzemanyag-felvétel, valamint a biztosítást végző által kijelölt helyen végrehajtható pihenő kivételével – megállás nélkül történik.
 
-[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 174/2020. (IV. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdés nyitó szövegrésze a 174/2020. (IV. 30.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 185/2020. (V. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

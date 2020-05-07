@@ -1,4 +1,4 @@
-4/A. §[^5] (1) Magyar állampolgár személyforgalomban
+4/A. §[^8] (1) Magyar állampolgár személyforgalomban
 
 a) a Cseh Köztársaság,
 
@@ -18,4 +18,4 @@ területéről, ezen országok valamelyikének területén tett üzleti célú u
 
 (3) Az (1) és (2) bekezdés szerint történő belépés során valószínűsítenie kell az üzleti célú utazás tényét.
 
-[^5]: A 4/A. §-t a 174/2020. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 4/A. §-t a 174/2020. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
