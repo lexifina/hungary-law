@@ -20,7 +20,7 @@
 
 ## Felelős: a Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2020. december 31., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2020. december 15.
+## Határidő: 2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2021. december 31., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2020. december 15.
 
 ## c) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 43. Központi Maradványelszámolási Alap címmel történő kiegészítését;
 
@@ -110,6 +110,6 @@
 
 1. melléklet az 1013/2018. (II. 2.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja, az 1263/2019. (V. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja, az 1263/2019. (V. 7.) Korm. határozat 6. pontja, az 1210/2020. (V. 8.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
