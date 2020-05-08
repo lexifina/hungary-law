@@ -58,7 +58,7 @@ i) a tagállamok külső szárazföldi határain való kishatárforgalom szabál
 
 j) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) című, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet,
 
-k) a Közösségi Vízumkódex létrehozásáról (vízumkódex) című, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet,
+k)[^592] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet, valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet,
 
 l) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet,
 
@@ -70,15 +70,15 @@ o) az egy harmadik ország állampolgára által a tagállamok egyikében benyú
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^592]
+I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^593]
 
-II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^593]
+II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^594]
 
 Vízum
 
 1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendeletben, a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2002. február 18-i 334/2002/EK tanácsi rendeletben és a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2017. július 4-i (EU) 2017/1370 rendeletben meghatározott formájú és adattartalmú okmány.
 
-2.[^594] A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra:
+2.[^595] A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra:
 
 a) a kishatárforgalmi engedély/local border traffic permit
 
@@ -130,7 +130,7 @@ III. melléklet a 114/2007. (V. 24.) Korm. rendelethez
 
 Tartózkodási engedély okmányok
 
-1–2.[^595]
+1–2.[^596]
 
 3. Humanitárius tartózkodási engedély okmány menedékjogot kérő számára
 
@@ -164,7 +164,7 @@ Az okmány adattartalma a következő:
 
 12. egyéb megjegyzések
 
-IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^596]
+IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^597]
 
 I. Rövid távú mobilitási igazolás/short term mobility certificate
 
@@ -304,9 +304,9 @@ A közösségi szállás házirendje
 
 11. Az elhelyezett a szálláshelyen köteles olyan magatartást tanúsítani, amellyel a többi elhelyezett jogait nem sérti, nyugalmát nem zavarja.
 
-12.[^597] Az elhelyezett a szálláshelyről történő 24 órát meg nem haladó eltávozás esetén köteles a szállás rendjének fenntartása, mások nyugalmának biztosítása érdekében a napirendben foglaltakat betartani.
+12.[^598] Az elhelyezett a szálláshelyről történő 24 órát meg nem haladó eltávozás esetén köteles a szállás rendjének fenntartása, mások nyugalmának biztosítása érdekében a napirendben foglaltakat betartani.
 
-VI. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^598]
+VI. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^599]
 
 Az emberkereskedelem áldozatává vált harmadik országbeli állampolgár
 
@@ -460,7 +460,7 @@ Minden kérelmező és befogadott (tehát az együtt érkező házastárs, kisko
 
 A nyilatkozatot nyomtatott betűvel kell kitölteni!
 
-VII. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^599]
+VII. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^600]
 
 [^582]: A 183. § (1) bekezdés h)–i) pontját a 411/2017. (XII. 15.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
 [^583]: A 183. § (1) bekezdés k) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
@@ -472,11 +472,12 @@ VII. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^599]
 [^589]: A 183. § (1) bekezdés r) pontját a 113/2016. (V. 30.) Korm. rendelet 55. §-a iktatta be.
 [^590]: A 183. § (1) bekezdés s) pontját a 411/2017. (XII. 15.) Korm. rendelet 32. §-a iktatta be.
 [^591]: A 183. § (2) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^592]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^593]: A II. melléklet a 411/2017. (XII. 15.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^594]: A II. melléklet 2. pontja a 267/2019. (XI. 19.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^595]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
-[^596]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 33. § (2) bekezdése iktatta be.
-[^597]: Az V. melléklet 12. pontját a 409/2012. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
-[^598]: A VI. melléklet a 62/2016. (III. 31.) Korm. rendelet 3. § b) és e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 96. § h) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés k)–l) pontja szerint módosított szöveg.
-[^599]: A VII. mellékletet a 409/2012. (XII. 28.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^592]: A 183. § (2) bekezdés k) pontja a 189/2020. (V. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^593]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^594]: A II. melléklet a 411/2017. (XII. 15.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^595]: A II. melléklet 2. pontja a 267/2019. (XI. 19.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^596]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
+[^597]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^598]: Az V. melléklet 12. pontját a 409/2012. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^599]: A VI. melléklet a 62/2016. (III. 31.) Korm. rendelet 3. § b) és e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 96. § h) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés k)–l) pontja szerint módosított szöveg.
+[^600]: A VII. mellékletet a 409/2012. (XII. 28.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
