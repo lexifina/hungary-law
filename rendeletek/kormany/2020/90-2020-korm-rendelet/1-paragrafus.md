@@ -10,7 +10,7 @@
 
 (5) E rendelet hatálybalépésétől, ha a bíróság a szabadságvesztés, az elzárás, a javítóintézeti nevelés, vagy a rendbírság helyébe lépő elzárás végrehajtásának megkezdésére fontos okból, így különösen az elítélt személyi és családi, vagy járványügyi intézkedéssel összefüggő körülményeire tekintettel halasztást engedélyez, annak tartamát legfeljebb hat hónapban határozhatja meg.
 
-(6) E rendelet hatálybalépésétől a büntetés-végrehajtási bíró az elítélt, vagy az egyéb jogcímen fogvatartott vagy védője által benyújtott kérelmek elbírálását – ide nem értve a biztonsági zárkába vagy részlegre helyezés, és a magánelzárás fenyítés elleni bírósági felülvizsgálati kérelmet – elhalasztja.
+(6)[^2] E rendelet hatálybalépésétől a büntetés-végrehajtási bíró az elítélt, az egyéb jogcímen fogvatartott vagy a védő által benyújtott kérelmek elbírálását – ide nem értve a halasztás iránti kérelmet, a reintegrációs őrizet elrendeléséről hozott határozat megváltoztatása iránti kérelmet, valamint a biztonsági zárkába vagy részlegre helyezés, a magánelzárás fenyítés és a zárt jellegű javítóintézeti részlegre helyezés elleni bírósági felülvizsgálati kérelmet – felfüggeszti. E végzés ellen nincs helye fellebbezésnek.
 
 (7) A végrehajtásért felelős szerv szervezeti egységének vezetője az elítélt és az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében, illetve a fogvatartással kapcsolatos egyéb ügyében
 
@@ -25,3 +25,5 @@ b) a Bv. tv. 20. § (3) bekezdésében maghatározott esetben a kérelem benyúj
 (9) A büntetés-végrehajtási pártfogó felügyelő a reintegrációs őrizet elrendelésére irányuló előterjesztés előkészítése során az elektronikus távfelügyeleti eszköz lakásban való alkalmazhatóságának a felmérését a rendelkezésre álló iratok alapján, valamint telefonos vagy elektronikus kapcsolattartás útján végzi. A reintegrációs őrizet elrendelése esetén, ha az elektronikus távfelügyeleti eszköz mégsem telepíthető, az elítélt nem helyezhető reintegrációs őrizetbe.
 
 (10) E rendelet hatálybalépésével a kegyelmi ügyekben további intézkedésnek helye nincs, de az igazságügyért felelős miniszter a büntetés vagy az intézkedés végrehajtását elhalaszthatja vagy félbeszakíthatja.
+
+[^2]: Az 1. § (6) bekezdése a 188/2020. (V. 7.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.

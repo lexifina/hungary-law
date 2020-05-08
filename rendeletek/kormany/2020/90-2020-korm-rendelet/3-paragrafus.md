@@ -1,3 +1,5 @@
+## hozott elsőfokú határozat felülbírálata iránt indult eljárást – a reintegrációs őrizet elrendeléséről hozott határozat megváltoztatása iránti kérelem tárgyában hozott határozat kivételével – felfüggeszti.
+
 ## 3. A szabadságvesztés végrehajtásának különös szabályai
 
 3. § (1) Ha a befogadás során az elítélt személyazonossága más módon kétséget kizáróan megállapítható, a bv. intézet az elítélt ujj- és tenyérnyomatának rögzítésétől eltekinthet.
