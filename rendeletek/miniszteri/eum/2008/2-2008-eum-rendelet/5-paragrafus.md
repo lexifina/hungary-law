@@ -1,11 +1,11 @@
-5. § (1)[^24] A gyógyszertárból a gyógyszer, egyéb termék kiszolgáltatója a beteg, az egészségügyi intézmény, az orvos által igényelt gyógyszert vagy egyéb terméket az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendeletben foglalt szabályok figyelembevételével a gyógyszertárban tartott és forgalmazott gyógyszerkészletből, illetve termékkészletből (a továbbiakban együtt: készlet) köteles kiadni.
+5. § (1)[^25] A gyógyszertárból a gyógyszer, egyéb termék kiszolgáltatója a beteg, az egészségügyi intézmény, az orvos által igényelt gyógyszert vagy egyéb terméket az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendeletben foglalt szabályok figyelembevételével a gyógyszertárban tartott és forgalmazott gyógyszerkészletből, illetve termékkészletből (a továbbiakban együtt: készlet) köteles kiadni.
 
 (2) Ha a gyógyszerész, szakasszisztens az (1) bekezdés szerint igényelt gyógyszert vagy egyéb terméket a meglévő készletből nem tudja kiadni, a helyettesítés felajánlását követően, a beszerzés lehetséges legkorábbi időpontjának megjelölésével köteles a beszerzést felajánlani.
 
-(2a)[^25] Elektronikus vény esetén a gyógyszerbeszerzés időtartamára, de legfeljebb 2 munkanapra a vény „foglalt” státuszba tehető, amely időtartam alatt más gyógyszertár ezt a vényt nem expediálhatja. Ha a beteg felírási igazolással rendelkezik, azt a gyógyszertár a foglalás időtartama alatt megőrzi. A beteg kérésére a foglalást végző gyógyszertár köteles az elektronikus vényt – annak érdekében, hogy azt más gyógyszertár expediálhassa – a foglalt státuszból azonnal felszabadítani, és a felírási igazolást a betegnek átadni.
+(2a)[^26] Elektronikus vény esetén a gyógyszerbeszerzés időtartamára, de legfeljebb 2 munkanapra a vény „foglalt” státuszba tehető, amely időtartam alatt más gyógyszertár ezt a vényt nem expediálhatja. Ha a beteg felírási igazolással rendelkezik, azt a gyógyszertár a foglalás időtartama alatt megőrzi. A beteg kérésére a foglalást végző gyógyszertár köteles az elektronikus vényt – annak érdekében, hogy azt más gyógyszertár expediálhassa – a foglalt státuszból azonnal felszabadítani, és a felírási igazolást a betegnek átadni.
 
-(3)[^26] Preferált referencia ársávba tartozó gyógyszer, ennek hiányában referenciagyógyszer esetén a (2) bekezdés szerinti beszerzés időtartama nem haladhatja meg a 24 órát, de legkésőbb a gyógyszertár szolgálati rendje szerinti következő nyitvatartási napra a beszerzésnek teljesülnie kell.
+(3)[^27] Preferált referencia ársávba tartozó gyógyszer, ennek hiányában referenciagyógyszer esetén a (2) bekezdés szerinti beszerzés időtartama nem haladhatja meg a 24 órát, de legkésőbb a gyógyszertár szolgálati rendje szerinti következő nyitvatartási napra a beszerzésnek teljesülnie kell.
 
-[^24]: Az 5. § (1) bekezdése az 5/2019. (III. 1.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
-[^25]: Az 5. § (2a) bekezdését a 29/2017. (X. 31.) EMMI rendelet 22. §-a iktatta be.
-[^26]: Az 5. § (3) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 19. §-ával megállapított szöveg.
+[^25]: Az 5. § (1) bekezdése az 5/2019. (III. 1.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^26]: Az 5. § (2a) bekezdését a 29/2017. (X. 31.) EMMI rendelet 22. §-a iktatta be.
+[^27]: Az 5. § (3) bekezdése a 2/2012. (I. 3.) NEFMI rendelet 19. §-ával megállapított szöveg.

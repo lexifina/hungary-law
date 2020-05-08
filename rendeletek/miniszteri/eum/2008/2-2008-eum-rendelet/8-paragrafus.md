@@ -1,10 +1,10 @@
 8. § (1) E rendelet 2008. február 1. napján lép hatályba.
 
-(2)[^29]
+(2)[^30]
 
-(3)[^30]
+(3)[^31]
 
 (4) A (2) bekezdés e rendelet hatálybalépését követő 30. napon hatályát veszti.
 
-[^29]: A 8. § (2) bekezdése e rendelet 8. § (4) bekezdése alapján hatályát vesztette.
-[^30]: A 8. § (3) bekezdését a 10/2011. (III. 30.) NEFMI rendelet 63. § (2) bekezdése hatályon kívül helyezte.
+[^30]: A 8. § (2) bekezdése e rendelet 8. § (4) bekezdése alapján hatályát vesztette.
+[^31]: A 8. § (3) bekezdését a 10/2011. (III. 30.) NEFMI rendelet 63. § (2) bekezdése hatályon kívül helyezte.
