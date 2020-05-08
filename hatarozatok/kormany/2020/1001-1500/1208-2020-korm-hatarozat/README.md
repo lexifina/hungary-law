@@ -1,0 +1,9 @@
+# 1208/2020. (V. 8.) Korm. határozat
+
+a Nyíregyháza Spartacus-Bozsik József Labdarúgó Akadémia örökösföldi edzőközpont beruházás előkészítésének támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1208-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-05-08 | 2020-1208-30-22.1 | 1208/2020. (V. 8.) Korm. határozat |
