@@ -1,4 +1,4 @@
-5. §[^10] (1) Az a nem magyar állampolgár, aki a 2. §-ban meghatározott szabályokat megszegi, Magyarország területéről kiutasításra, kitoloncolásra kerül.
+5. §[^10] (1)[^11] Az a nem magyar állampolgár, aki a 2. §-ban és a 4. § (2) bekezdés c) pontjában meghatározott szabályokat megszegi, Magyarország területéről kiutasításra, kitoloncolásra kerül.
 
 (2) Nem bűncselekmény, hanem szabálysértés valósul meg, ha a Btk. 361. §-ában meghatározott bűncselekményt a COVID-19 fertőzöttség vagy annak gyanúja miatt elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével követik el.
 
@@ -12,7 +12,7 @@
 
 a) a 4. § (1) bekezdése alapján meghatározott egyedi magatartási szabályt vagy
 
-b) a 4. § (2) bekezdése szerinti határozatban foglalt határátlépési, tartózkodási, közlekedési, egészségvédelmi, valamint útvonalra és megállási lehetőségekre vonatkozó szabályt
+b)[^12] a 4. § (2) bekezdése alapján kiadott határozatba foglalt határátlépési, tartózkodási, közlekedési, egészségvédelmi, valamint útvonalra és megállási lehetőségekre vonatkozó, továbbá a Magyarország területén tartózkodásra, illetve a munkahelyi karanténra vonatkozó szabályt
 
 ## megszegi.
 
@@ -21,3 +21,5 @@ b) a 4. § (2) bekezdése szerinti határozatban foglalt határátlépési, tart
 (8) A (6) bekezdés szerinti szabálysértés esetén a helyszíni bírság összege a Szabs. tv. 99. § (2) bekezdésétől eltérően ötezer forinttól százezer forintig, a szabálysértés ismételt elkövetése esetén százötvenezer forintig terjed.
 
 [^10]: Az 5. § a 181/2020. (V. 4.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (1) bekezdése a 185/2020. (V. 6.) Korm. rendelet 2. §-a szerint módosíott szöveg.
+[^12]: Az 5. § (6) bekezdés b) pontja a 185/2020. (V. 6.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
