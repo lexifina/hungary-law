@@ -1,1 +1,3 @@
-4. § Hatályát veszti az egészség és élet megóvása, valamint a nemzetgazdaság helyreállítása érdekében elrendelt veszélyhelyzettel kapcsolatos rendkívüli intézkedésekről szóló 81/2020. (IV. 1.) Korm. rendelet módosításáról szóló 174/2020. (IV. 30.) Korm. rendelet.
+4. §[^2]
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
