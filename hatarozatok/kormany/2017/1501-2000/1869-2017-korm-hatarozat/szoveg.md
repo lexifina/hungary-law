@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért a Piarista Rend Magyar Tartománya által tervezett beruházás előkészítésével;
 
-2. az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés i), k), m), n), o) pontja szerinti előkészítési fázisaira összesen 1 080 000 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. október 31. napjáig kell megvalósítani;
+2.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés i), k), m), n), o) pontja szerinti előkészítési fázisaira összesen 1 080 000 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. május 31. napjáig kell megvalósítani;
 
 3. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -31,3 +31,5 @@ b) az előkészítési fázisok eredménye alapján készítsen előterjesztést
 Felelős: emberi erőforrások minisztere
 
 Határidő: a jelentés elfogadását követően
+
+[^1]: A 2. pont az 1210/2020. (V. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
