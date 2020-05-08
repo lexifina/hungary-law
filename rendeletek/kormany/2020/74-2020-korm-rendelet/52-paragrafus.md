@@ -6,6 +6,8 @@
 
 (4) A jogorvoslatra jogosult a Be. 369. § (1) bekezdése szerinti panaszt a határozat közlésétől számított tizenöt napon belül jelentheti be.
 
-(5) Ha a védő a gyanúsítás, illetve a gyanúsítás változásának közlésekor nincs jelen, a Be. 372. § (2) bekezdése szerinti panaszt a gyanúsított kihallgatásától számított tizenöt napon belül terjesztheti elő.
+(5)[^8] Ha a védő a gyanúsítás, illetve a gyanúsítás változásának közlésekor nincs jelen, a Be. 372. § (1) bekezdése szerinti panaszt a gyanúsított kihallgatásától számított tizenöt napon belül terjesztheti elő.
 
 (6) A felülbírálati indítvány Be. 374. § (2) bekezdésében meghatározott határideje tizenöt nap.
+
+[^8]: Az 52. § (5) bekezdése a 188/2020. (V. 7.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
