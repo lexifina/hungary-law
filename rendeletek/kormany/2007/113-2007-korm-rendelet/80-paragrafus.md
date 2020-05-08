@@ -28,11 +28,11 @@ b) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 
 c) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet,
 
-5.[^227] a 4. §-ban, a 7. §-ban, a 12. §-ban, a 16. §-ban, 16/A.–16/C. §-ban, a 17. §-ban és 18. §-ban a Közösségi Vízumkódex létrehozásáról (Vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
+5.[^227] a 4. §-ban, a 7. §-ban, a 12. §-ban és a 16–18. §-ban a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet, valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet
 
 [^222]: A 80. § (2) bekezdése a 15/2013. (I. 28.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
 [^223]: A 80. § (2) bekezdés c) pontját a 446/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^224]: A 80. § (3) bekezdését a 327/2007. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 96/2010. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^225]: A 80. § (3) bekezdés 2. pontja a 441/2016. (XII. 16.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^226]: A 80. § (3) bekezdés 4. pontja a 267/2019. (XI. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^227]: A 80. § (3) bekezdés 5. pontját a 290/2010. (XII. 21.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^227]: A 80. § (3) bekezdés 5. pontját a 290/2010. (XII. 21.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 189/2020. (V. 7.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
