@@ -6,7 +6,7 @@
 
 ## c) a Szent István Király Zeneművészeti Szakgimnázium és Alapfokú Művészeti Iskola infrastrukturális fejlesztésének a Közép-Pesti Tankerületi Központ által történő előkészítését;
 
-## 2. az 1. pont a) alpont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés l) pontja szerinti előkészítési fázisra legfeljebb – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 206 908 216 forint forrást biztosít 2019. évben a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2019. szeptember 30. napig kell megvalósítani;
+## 2.[^1] az 1. pont a) alpont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés l) pontja szerinti előkészítési fázisra legfeljebb – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 206 908 216 forint forrást biztosít 2019. évben a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. augusztus 31. napig kell megvalósítani;
 
 ## 3. az 1. pont b) alpont szerinti beruházásnak a Korm. rendelet 2. § (2) bekezdés l) pontja szerinti előkészítési fázisra legfeljebb – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 135 681 858 forint forrást biztosít a 2019. évben a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2019. szeptember 30. napig kell megvalósítani;
 
@@ -173,3 +173,5 @@
 | Pénzügyminisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1210/2020. (V. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
