@@ -22,7 +22,7 @@
 
 ## Határidő: 2021. január 31.; külgazdasági és külügyminiszter esetében 2021. március 31.
 
-1. melléklet az 1064/2020. (II. 28.) Korm. határozathoz
+1. melléklet az 1064/2020. (II. 28.) Korm. határozathoz[^1]
 
 1. Magyarországi kedvezményezettek
 
@@ -32,7 +32,7 @@
 
 |  | Nemzeti Örökség Intézete | 22 496 000 |
 
-|  | HM Hadtörténeti Intézet és Múzeum | 136 620 000 |
+|  | HM Hadtörténeti Intézet és Múzeum | 96 620 000 |
 
 |  | Liszt Ferenc Zeneművészeti Egyetem, Zeneakadémia | 13 600 000 |
 
@@ -78,6 +78,8 @@
 
 |  | Központi Statisztikai Hivatal | 120 000 000 |
 
+|  | HM Zrínyi Térképészeti és Kommunikációs Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 40 000 000 |
+
 2. Nemzetpolitikai és határon túli kedvezményezettek
 
 |  |  | Kedvezményezett | Többlettámogatás összege (forint) |
@@ -91,3 +93,5 @@
 |  | Bethlen Gábor Alap; Magyarság Háza program | 100 000 000 |
 
 |  | Bethlen Gábor Alap; Határtalanul! program | 2 100 000 000 |
+
+[^1]: Az 1. melléklet az 1210/2020. (V. 8.) Korm. határozat 6. és 7. pontja szerint módosított szöveg.
