@@ -1,0 +1,9 @@
+# 184/2020. (V. 6.) Korm. rendelet
+
+megújuló energia projektek megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-184-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-05-09 | 2020-184-20-22.1 | 184/2020. (V. 6.) Korm. rendelet |
