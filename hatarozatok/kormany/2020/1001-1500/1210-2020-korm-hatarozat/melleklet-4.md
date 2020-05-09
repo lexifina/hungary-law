@@ -62,10 +62,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-4. melléklet az 1210/2020. (V. 8.) Korm. határozathoz
+4. melléklet az 1210/2020. (V. 8.) Korm. határozathoz[^6]
 
-Az 1064/2020. (II. 28.) Korm. határozat 1. melléklet 1. táblázata a következő sorral egészül ki:
-
-| [Kedvezményezett | Többlettámogatás összege (forint)] |
-
-| HM Zrínyi Térképészeti és Kommunikációs Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 40 000 000 |
+[^6]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
