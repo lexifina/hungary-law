@@ -1,14 +1,9 @@
-## 15. §[^14]
+## 15. §[^15]
 
-16. § (1) A Harmvhr. 183. § (2) bekezdés k) pontja helyébe a következő rendelkezés lép:
+16. § (1)[^16]
 
-(Ez a rendelet)
+(2)[^17]
 
-## „k) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet, valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet,”
-
-## (végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-(2)[^15]
-
-[^14]: A 15. § a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
-[^15]: A 16. § (2) bekezdése a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+[^15]: A 15. § a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+[^16]: A 16. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 16. § (2) bekezdése a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.

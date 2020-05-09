@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-189-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-08 | 2020-189-20-22.1 | 189/2020. (V. 7.) Korm. rendelet |
+| 2020-05-09 | 2020-189-20-22.2 | 2010: CXXX. törvény |
