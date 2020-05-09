@@ -1,7 +1,6 @@
-1. § (1)–(2)[^1]
+1. § (1)–(2)[^2]
 
-(3) Az R. 5. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(3)[^3]
 
-[A Szabs. tv. 1. § (1) bekezdésétől eltérően szabálysértést követ el, aki]
-
-[^1]: Az 1. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
