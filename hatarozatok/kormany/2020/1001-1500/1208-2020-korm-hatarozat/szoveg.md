@@ -40,4 +40,6 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően
 
-10. visszavonja a Nyíregyháza Spartacus-Bozsik József Labdarúgó Akadémia örökösföldi edzőközpont megvalósítása előkészítésének a Beruházás Előkészítési Alap terhére történő finanszírozásáról szóló 1163/2019. (III. 27.) Korm. határozatot.
+10.[^1]
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
