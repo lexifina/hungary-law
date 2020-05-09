@@ -1,3 +1,3 @@
-## 6. § A Veir. 50. §-a a következő (4) bekezdéssel egészül ki:
+## 6. §[^3]
 
-## „(4) A bíróság a Be. 120. § (1) bekezdésére figyelemmel – ha annak technikai feltételei fennállnak – az ügyész jelenlétét elsősorban telekommunikációs eszköz útján biztosítja az eljárási cselekményen.”
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

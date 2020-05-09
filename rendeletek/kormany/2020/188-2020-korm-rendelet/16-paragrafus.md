@@ -1,3 +1,3 @@
-## 15. § A Veir. 87. §-a helyébe a következő rendelkezés lép:
+## 15. §[^12]
 
-## „87. § A bíróság a Be. C. Fejezetében meghatározott egyéb feltételek fennállása esetén – a terhelt beismerésétől függetlenül – a fiatalkorúval szemben bármely bűncselekmény esetén hozhat büntetővégzést.”
+[^12]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
