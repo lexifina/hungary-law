@@ -70,11 +70,11 @@ Felelős: Miniszterelnökséget vezető miniszter, az Országgyűlés Hivatala f
 
 Határidő: azonnal
 
-3. felhívja az emberi erőforrások miniszterét, hogy az 1788/2016. (XII. 17.) Korm. határozat 6. pontjában meghatározott, az Igazságügyi Palota rekonstrukciója határidőben történő megvalósítása érdekében intézkedjen a Néprajzi Múzeum Igazságügyi Palota épületéből való kiköltöztetéséről és elhelyezéséről;
+3.[^2] felhívja az emberi erőforrások miniszterét, hogy az 1788/2016. (XII. 17.) Korm. határozat 6. pontjában meghatározott, az Igazságügyi Palota rekonstrukciója határidőben történő megvalósítása érdekében intézkedjen a Néprajzi Múzeum Igazságügyi Palota épületéből való kiköltöztetéséről és elhelyezéséről;
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2019. december 31.
+Határidő: 2021. március 31.
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az Igazságügyi Palota rekonstrukciója határidőben történő megvalósítása érdekében gondoskodjon a Politikatörténeti Intézet Igazságügyi Palotára vonatkozó használati jogának megszüntetéséről, illetve a Politikatörténeti Intézet Igazságügyi Palotából való kiköltözésére vonatkozó koncepció elkészítéséről;
 
@@ -103,3 +103,4 @@ Felelős: Miniszterelnökséget vezető miniszter, az Országgyűlés Hivatala f
 Határidő: az 5.2. pont szerinti forrás rendelkezésre állását követően azonnal
 
 [^1]: A 2.1. pont c) alpontját az 1216/2019. (IV. 23.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 3. pont az 1211/2020. (V. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
