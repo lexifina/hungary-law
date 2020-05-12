@@ -10,9 +10,9 @@ a) 1.7. pontjában foglaltaktól eltérően, az abban meghatározott támogatás
 
 b) 2.1. pont b) alpontjában foglaltaktól eltérően egyetért azzal, hogy a Vértanúk tere az átépítést követően a BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság délre tartó autóbuszjáratai mellett az érintett Szabadság téri és Vértanúk tere 1. szám alatt található mélygarázsokat használó gépjárművek kivételével váljon autómentes övezetté,
 
-c) 3. pontjában foglaltaktól eltérően, az abban meghatározott határidőt – 2019. december 31. napja helyett – 2020. június 30. napjában határozza meg;
+c)[^1]
 
-4.[^1]
+4.[^2]
 
 5. felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy szükséges esetben gondoskodjanak a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársasággal megkötött egyes támogatási szerződések módosításáról az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 95. § (5) bekezdése alapján.
 
@@ -20,4 +20,5 @@ Felelős: Miniszterelnökséget vezető miniszter, az Országgyűlés Hivatala f
 
 Határidő: a felmerülés ütemében
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont c) alpontját az 1211/2020. (V. 12.) Korm. határozat 1. pont e) alpontja visszavonta.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
