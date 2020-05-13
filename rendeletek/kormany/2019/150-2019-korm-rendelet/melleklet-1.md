@@ -1,4 +1,4 @@
-## 9. §[^2]
+## 9. §[^2] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (1) bekezdését a Módr. hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 150/2019. (VI. 25.) Korm. rendelethez
 
@@ -56,4 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 196/2020. (V. 12.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^3]: A hatálybalépés időpontja 2020. május 13.
