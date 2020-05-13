@@ -1,4 +1,4 @@
-3. §[^3] (1) A Beruházásokkal összefüggésben
+3. §[^4] (1) A Beruházásokkal összefüggésben
 
 a) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
 
@@ -24,4 +24,4 @@ d) a meglévő épületrészek az építmény funkciójához és működéséhez
 
 e) a szükséges homlokzat- és tetőrekonstrukció, valamint a rizalitok visszaépítése során az épületek eredeti tervei alapján megépült homlokzatot és tetőt a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 43. § (5c) bekezdés b) pontja tekintetében a korábbi és jelentős korszak maradványának és hiteles állapotnak kell tekinteni.
 
-[^3]: A 3. § a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 3. § a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.

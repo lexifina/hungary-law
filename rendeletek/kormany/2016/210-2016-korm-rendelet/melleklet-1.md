@@ -1,6 +1,6 @@
-## 9. §[^10] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó kormányrendeleteknek a fővárosi és megyei kormányhivatalok egyszerűsítésével összefüggő módosításáról szóló 361/2019. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-át, 2–5/D. §-át, valamint 1. és 2. mellékletét a Módr. hatálybalépésekor[^11] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^13] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 2. § (1) bekezdés a) pontját a Módr2. hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^12]
+1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^15]
 
 1. A Budai Palotanegyed fenntartható fejlesztését, valamint tervszerű és egységes szemléletű helyreállítását szolgáló, kiemelten közérdekű beruházások felsorolása
 
@@ -68,6 +68,6 @@
 
 | 3. | A Budapest, I. kerület Táncsics u. 9. szám alatti ingatlan fejlesztése | Budapest I. kerület, belterület 6546 helyrajzi számú ingatlan |  |
 
-[^10]: A 9. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (3) bekezdése iktatta be. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
-[^11]: A hatálybalépés időpontja 2020. január 1.
-[^12]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdés a) pontjával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^13]: A 10. §-t a 196/2020. (V. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^14]: A hatálybalépés időpontja 2020. május 13.
+[^15]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdés a) pontjával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.

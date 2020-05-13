@@ -1,4 +1,4 @@
-## 5/C. §[^8] Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – az eredeti tervek alapján történő homlokzat- és tetőrekonstrukció, épületrekonstrukció, az elbontott rizalitok visszaépítése –, valamint az ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló Beruházásokkal érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a hatályos településrendezési eszközöket a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
+## 5/C. §[^9] Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – az eredeti tervek alapján történő homlokzat- és tetőrekonstrukció, épületrekonstrukció, az elbontott rizalitok visszaépítése –, valamint az ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló Beruházásokkal érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a hatályos településrendezési eszközöket a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
 
 1. a Beruházások során felépítendő épületek eredeti építészeti arculatának kialakítása és a hozzá kapcsolódó Beruházások során nem kell a helyi építési szabályzat szerinti funkcióvizsgálatot, illetve rehabilitációs tervet készíteni,
 
@@ -36,4 +36,4 @@
 
 18. a helyi településrendezési eszközben előírt infrastruktúra fejlesztések elmaradása a Beruházásokkal összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem lehet a feltétele.
 
-[^8]: Az 5/C. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdése iktatta be. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^9]: Az 5/C. §-t a 361/2019. (XII. 30.) Korm. rendelet 84. § (2) bekezdése iktatta be. E módosító rendelet 96. §-a alapján a 2020. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
