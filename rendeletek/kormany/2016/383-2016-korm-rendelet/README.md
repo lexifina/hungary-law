@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2020-01-01 | 2016-383-20-22.17 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2016-383-20-22.18 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-18 | 2016-383-20-22.19 | 38/2020. (III. 10.) Korm. rendelet |
+| 2020-05-13 | 2016-383-20-22.20 | 31/2020. (II. 29.) Korm. rendelet |
