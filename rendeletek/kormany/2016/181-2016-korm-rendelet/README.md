@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-181-20-
 | 2017-01-01 | 2016-181-20-22.3 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2016-181-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2016-181-20-22.5 | 361/2019. (XII. 30.) Korm. rendelet |
+| 2020-05-13 | 2016-181-20-22.6 | 361/2019. (XII. 30.) Korm. rendelet |
