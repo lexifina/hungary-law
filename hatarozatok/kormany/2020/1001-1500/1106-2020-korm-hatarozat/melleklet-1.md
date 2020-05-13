@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 779 389 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## 2.[^2] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 779 389 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -16,7 +16,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2020. december 31.
+## Határidő: 2021. június 30.
 
 ## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva összesen 600 000 000 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint.
 
@@ -25,3 +25,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1106/2020. (III. 14.) Korm. határozathoz
+
+[^2]: A 2. pont az 1215/2020. (V. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
