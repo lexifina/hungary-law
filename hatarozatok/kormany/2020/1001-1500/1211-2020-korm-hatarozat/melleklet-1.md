@@ -22,11 +22,11 @@
 
 ## Határidő: azonnal
 
-## e) visszavonja a Steindl Imre Programmal kapcsolatos további döntések meghozataláról szóló 1216/2019. (IV. 23.) Korm. határozat 3. pont c) alpontját.
+## e)[^1]
 
-## 2. A Steindl Imre Program harmadik ütemével kapcsolatos további döntések meghozataláról szóló 1372/2018. (VIII. 13.) Korm. határozat 3. pontjában a „2019. december 31.” szövegrész helyébe a „2021. március 31.” szöveg lép.
+## 2.[^2]
 
-## 3. A Steindl Imre Programra vonatkozó egyes részhatáridők egységesítéséről szóló 1444/2019. (VII. 26.) Korm. határozat 1. és 2. pontjában a „2020. október 31.” szövegrész helyébe a „2021. január 31.” szöveg lép.
+## 3.[^3]
 
 1. melléklet az 1211/2020. (V. 12.) Korm. határozathoz
 
@@ -101,3 +101,7 @@
 |  |  | egyéb: | azonnal |  |  | 597 900 000 |  | 597 900 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
