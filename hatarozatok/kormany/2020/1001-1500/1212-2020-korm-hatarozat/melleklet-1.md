@@ -1,4 +1,4 @@
-## 1. e határozat 1. mellékleteként közzéteszi a Magyarország Kormánya és a Magyarországi Evangélikus Egyház között 2020. március 17-én létrejött Megállapodást (a továbbiakban: megállapodás), és ezzel egyidejűleg a Magyar Köztársaság Kormánya és a Magyarországi Evangélikus Egyház között 1998. december 7-én létrejött Megállapodás közzétételéről szóló 1056/1999. (V. 26.) Korm. határozatot visszavonja;
+## 1.[^1] e határozat 1. mellékleteként közzéteszi a Magyarország Kormánya és a Magyarországi Evangélikus Egyház között 2020. március 17-én létrejött Megállapodást (a továbbiakban: megállapodás),
 
 ## 2. felhívja az érintett minisztereket, hogy a megállapodásban foglaltak végrehajtásáról gondoskodjanak.
 
@@ -267,3 +267,5 @@ nevében
 A Magyarországi Evangélikus Egyház
 
 nevében
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
