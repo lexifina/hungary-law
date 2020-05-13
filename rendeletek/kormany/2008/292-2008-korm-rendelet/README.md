@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-292-20-
 | 2017-07-18 | 2008-292-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2008-292-20-22.13 | 41/2013. (II. 14.) Korm. rendelet |
 | 2020-03-01 | 2008-292-20-22.14 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-05-13 | 2008-292-20-22.15 | 41/2013. (II. 14.) Korm. rendelet |

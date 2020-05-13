@@ -56,7 +56,7 @@
 
 | Tudományos név | Magyar név |
 
-| ANSERIFORMES | Lúdalakúak |
+| ARTIODACTYLA Ammotragus lervia ANSERIFORMES | Párosujjú patások Sörényes juh Lúdalakúak |
 
 | Coscoroba coscoroba | Koszkoróbahattyú |
 
@@ -67,10 +67,6 @@
 | Sarkidiornis melanotos | Bütykös fényréce |
 
 | GALLIFORMES | Tyúkalakúak |
-
-| Arborophila charltonii | Örvös hegyifogoly |
-
-| Arborophila orientalis | Fehérarcú hegyifogoly |
 
 | Argusianus argus | Argosz-páva |
 
@@ -174,4 +170,4 @@
 
 | Poephila cincta cincta | Szakállas amandina törzsalakja |
 
-[^60]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése, a 30/2020. (II. 29.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^60]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése, a 30/2020. (II. 29.) Korm. rendelet 11. § (1) bekezdése, a 196/2020. (V. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
