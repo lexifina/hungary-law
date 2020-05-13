@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2020-01-01 | 2012-229-20-22.38 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-02-15 | 2012-229-20-22.39 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-03-01 | 2012-229-20-22.40 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-05-13 | 2012-229-20-22.41 | 196/2020. (V. 12.) Korm. rendelet |

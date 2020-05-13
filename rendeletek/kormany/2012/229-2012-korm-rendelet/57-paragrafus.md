@@ -1,6 +1,6 @@
-## 56. §[^248]
+## 56. §[^249]
 
-## 21.[^249]
+## 21.[^250]
 
-[^248]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^249]: A 21. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^249]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^250]: A 21. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

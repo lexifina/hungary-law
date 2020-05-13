@@ -1,6 +1,6 @@
-## 16/I. [^204] A sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapításával, illetve a szakértői véleményben foglaltakkal összefüggő eljárási szabályok
+## 16/I. [^205] A sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapításával, illetve a szakértői véleményben foglaltakkal összefüggő eljárási szabályok
 
-42. § (1)[^205] Az illetékes tankerületi központ közigazgatási hatósági eljárás keretében hoz döntést a beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény megállapításával, illetve a szakértői véleményben foglaltakkal összefüggésben.
+42. § (1)[^206] Az illetékes tankerületi központ közigazgatási hatósági eljárás keretében hoz döntést a beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény megállapításával, illetve a szakértői véleményben foglaltakkal összefüggésben.
 
 (2) Az eljárás megindítását a szülő kérheti, ha nem ért egyet a szakértői véleményben foglaltakkal, illetve a szakértői bizottság eljárásával.
 
@@ -14,14 +14,14 @@ c) a szakszolgálati-esélyegyenlőségi szakértő, ha a szakértői bizottság
 
 d) a kijelölt nevelési-oktatási intézmény vezetője, ha a gyermeket a szakértői vélemény alapján a kijelölt nevelési-oktatási intézménybe nem íratják be.
 
-(4)[^206] Az eljárásra az a tankerületi központ illetékes, amelynek a működési területén a gyermek, tanuló lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek, tanuló tartózkodási helye található.
+(4)[^207] Az eljárásra az a tankerületi központ illetékes, amelynek a működési területén a gyermek, tanuló lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek, tanuló tartózkodási helye található.
 
-(5)[^207] Ha a gyermeket, tanulót a gyámhivatal átmeneti vagy tartós nevelésbe vette a tankerületi központ illetékességét a gyermek tartózkodási helye határozza meg.
+(5)[^208] Ha a gyermeket, tanulót a gyámhivatal átmeneti vagy tartós nevelésbe vette a tankerületi központ illetékességét a gyermek tartózkodási helye határozza meg.
 
-(6)[^208] A tankerületi központ az eljárása megindításáról nyolc napon belül értesíti a szakértői bizottságot. A tankerületi központ az (1) bekezdés szerinti döntés egy példányát a döntés véglegessé válását követő nyolc napon belül megküldi az érintett nevelési-oktatási intézménynek és a szakértői bizottságnak.
+(6)[^209] A tankerületi központ az eljárása megindításáról nyolc napon belül értesíti a szakértői bizottságot. A tankerületi központ az (1) bekezdés szerinti döntés egy példányát a döntés véglegessé válását követő nyolc napon belül megküldi az érintett nevelési-oktatási intézménynek és a szakértői bizottságnak.
 
-[^204]: A 16/I. alcím címe a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^205]: A 42. § (1) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^206]: A 42. § (4) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés d) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^207]: A 42. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^208]: A 42. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^205]: A 16/I. alcím címe a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^206]: A 42. § (1) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^207]: A 42. § (4) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés d) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^208]: A 42. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^209]: A 42. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

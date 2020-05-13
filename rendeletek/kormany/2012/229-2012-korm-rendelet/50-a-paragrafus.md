@@ -1,3 +1,3 @@
-## 50. §[^231]
+## 50. §[^232]
 
-[^231]: Az 50. §-t a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^232]: Az 50. §-t a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 5. pontja hatályon kívül helyezte.
