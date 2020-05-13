@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1-20-22
 | 2020-01-01 | 2012-1-20-22.20 | 316/2019. (XII. 18.) Korm. rendelet |
 | 2020-02-15 | 2012-1-20-22.21 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-05-01 | 2012-1-20-22.22 | 114/2019. (V. 15.) Korm. rendelet |
+| 2020-05-13 | 2012-1-20-22.23 | 114/2019. (V. 15.) Korm. rendelet |

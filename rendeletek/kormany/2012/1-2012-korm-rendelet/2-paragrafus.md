@@ -32,7 +32,7 @@ a) szabad felhasználású: a hallgatói hitel azon része, amelyet Fot. 46. § 
 
 b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46. § (1) bekezdése szerinti magyar állami részösztöndíjas és önköltséges képzésben tanulmányokat folytató hallgatók képzésük finanszírozása érdekében vehetnek igénybe;
 
-c)[^4] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely idegennyelv-tanulás és nyelvvizsga bizonyítvány-szerzés céljából vehető igénybe;
+c)[^4]
 
 12. hitelfelvevő: az a 3. § (1) bekezdésében, illetve a 21. § (1) bekezdésében meghatározott személy, aki hallgatói hitelt vesz fel vagy korábban hallgatói hitelt vett fel, és tartozását törleszti;
 
@@ -66,6 +66,6 @@ c)[^4] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely id
 
 [^2]: A 2. § 9. pontja a 13/2020. (II. 7.) Korm. rendelet 65. §-a szerint módosított szöveg.
 [^3]: A 2. § 10a. pontját a 291/2017. (X. 3.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 196/2020. (V. 12.) Korm. rendelet 2. § a) pontja.
 [^5]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § 26. pontját a 114/2019. (V. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 106/2020. (IV. 10.) Korm. rendelet 2. §-a.
