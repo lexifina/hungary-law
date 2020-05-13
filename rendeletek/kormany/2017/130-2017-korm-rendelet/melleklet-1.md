@@ -1,4 +1,4 @@
-## 9. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^4] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (1) bekezdését a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 130/2017. (VI. 8.) Korm. rendelethez
 
@@ -51,3 +51,6 @@
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: A 10. §-t a 196/2020. (V. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^5]: A hatálybalépés időpontja 2020. május 13.
