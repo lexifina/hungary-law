@@ -1,5 +1,3 @@
-## 20. §[^96]
-
 21. § (1) A sorsolás megkezdéséig lehetőség van sorsolási megállapodást kötni. A sorsolási megállapodás irányulhat:
 
 a) az önálló földrészlet osztatlan közös tulajdonként történő kiosztására, vagy
@@ -22,7 +20,6 @@ b) a visszamaradó tulajdoni hányadok egy földrészletben kialakíthatóak.
 
 (6)[^99] Ha az (5) bekezdés szerint kialakítandó új önálló földrészlet nem haladja meg a területi minimumot, akkor ezen tulajdoni hányadokat a visszamaradó földrészlethez kell rendelni.
 
-[^96]: A 20. §-t a 360/2019. (XII. 30.) Korm. rendelet 138. § (4) bekezdés d) pontja hatályon kívül helyezte.
 [^97]: A 21. § (4a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 341/2016. (XI. 17.) Korm. rendelet 36. § j) pontja szerint módosított szöveg.
 [^98]: A 21. § (5) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^99]: A 21. § (6) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 32. §-a iktatta be.
