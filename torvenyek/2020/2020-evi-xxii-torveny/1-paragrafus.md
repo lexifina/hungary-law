@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, és másrészről a Szingapúri Köztársaság közötti Partnerségi és Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
