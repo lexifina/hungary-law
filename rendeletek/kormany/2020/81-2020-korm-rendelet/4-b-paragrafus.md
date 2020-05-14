@@ -1,4 +1,4 @@
-4/B. §[^9] (1) Az agrárágazatban dolgozó csak az országos rendőrfőkapitány által erre a célra kijelölt határátkelőhelyen, csoportosan léptethető be Magyarország területére.
+4/B. §[^14] (1) Az agrárágazatban dolgozó csak az országos rendőrfőkapitány által erre a célra kijelölt határátkelőhelyen, csoportosan léptethető be Magyarország területére.
 
 (2) A beléptetés feltételeiről és tervezett idejéről az agrárágazatban dolgozót előzetesen az agrárágazatban dolgozó munkáltatója (a továbbiakban: munkáltató) az anyanyelvén írásos formában tájékoztatja.
 
@@ -20,4 +20,4 @@ b) egészségügyi vizsgálaton átesett, és ennek során COVID-19 fertőzés g
 
 (5) Az agrárágazatban dolgozót a járványügyi hatóság nyilvántartásba veszi.
 
-[^9]: A 4/B. §-t a 185/2020. (V. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 4/B. §-t a 185/2020. (V. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.
