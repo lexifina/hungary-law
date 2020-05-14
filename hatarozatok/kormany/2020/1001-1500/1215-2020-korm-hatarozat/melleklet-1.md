@@ -20,9 +20,9 @@
 
 ## Határidő: azonnal
 
-## 2. A Nemzetközi Eucharisztikus Kongresszus megrendezésével összefüggő beszerzési és szervezési feladatok további támogatásához szükséges kormányzati intézkedésekről szóló 1097/2020. (III. 12.) Korm. határozat 2. pontjában az „azonnal” szövegrész helyébe a „felmerülés ütemében” szöveg lép.
+## 2.[^2]
 
-## 3. A Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő és fejezetek közötti előirányzat-átcsoportosításról szóló 1106/2020. (III. 14.) Korm. határozat 2. pontjában a „2020. december 31.” szövegrész helyébe a „2021. június 30.” szöveg lép.
+## 3.[^3]
 
 1. melléklet az 1215/2020. (V. 13.) Korm. határozathoz
 
@@ -115,3 +115,6 @@
 |  |  | egyéb: |  | azonnal |  | 1 164 623 634 |  | 1 164 623 634 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
