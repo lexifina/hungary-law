@@ -18,4 +18,8 @@
 
 ## 4. egyetért azzal, hogy az e határozat szerinti beszerzések mentesüljenek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
 
-1. melléklet az 1219/2019. (IV. 23.) Korm. határozathoz
+1. melléklet az 1219/2019. (IV. 23.) Korm. határozathoz[^1]
+
+XV. Pénzügyminisztérium fejezetből biztosított forrás (bruttó, forint)
+
+[^1]: Az 1. melléklet az 1223/2020. (V. 14.) Korm. határozat a) pontjával megállapított szöveg.
