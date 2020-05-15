@@ -16,8 +16,10 @@ berendezésekre.
 
 a) a közlekedési nyomvonal jellegű építmények (így különösen vasutak, repülőterek, tömegközlekedési mozgólépcsők) közbeiktatott vagy csatlakozó építményei tekintetében a rájuk vonatkozó jogszabályban,
 
-b) a nukleáris létesítményben lévő felvonók tekintetében a rájuk vonatkozó jogszabályban,
+b)[^1] a nukleáris létesítményben és a radioaktív hulladékok átmeneti tárolását vagy végleges elhelyezését biztosító radioaktívhulladék-tárolóban lévő felvonók tekintetében a rájuk vonatkozó jogszabályban,
 
 c) a nemzetgazdasági szempontból kiemelt jelentőségű beruházásnak minősülő ügy tárgyát képező beruházás esetében a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletben
 
 foglalt eltérésekkel kell alkalmazni.
+
+[^1]: Az 1. § (3) bekezdés b) pontja a 190/2020. (V. 7.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-1. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^78]
+1. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^81]
 
 A berendezés kivitelezési dokumentációja
 
@@ -44,4 +44,4 @@ ce) műemléki védettség esetén az örökségvédelmi hatósági engedély re
 
 d) annak ismertetését, ha a létesítési dokumentációtól a kivitelezési dokumentáció eltér.
 
-[^78]: Az 1. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^81]: Az 1. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.

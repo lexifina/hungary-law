@@ -1,3 +1,3 @@
-26. §[^70]
+26. §[^73]
 
-[^70]: A 26. §-t a 280/2015. (IX. 22.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
+[^73]: A 26. §-t a 280/2015. (IX. 22.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
