@@ -1,4 +1,4 @@
-## 5. §[^9] Az ösztöndíjprogram működési szabályzata magában foglalja
+## 5. §[^13] Az ösztöndíjprogram működési szabályzata magában foglalja
 
 a) az ösztöndíjasok képzésének, előmenetelének monitorozását,
 
@@ -22,4 +22,4 @@ j) a miniszteri jelölés rendjét,
 
 k) az ösztöndíjas jogviszony megszűnésének és megszüntetésének eseteit.
 
-[^9]: Az 5. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^13]: Az 5. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
