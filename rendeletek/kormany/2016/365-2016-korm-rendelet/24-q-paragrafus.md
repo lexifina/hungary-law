@@ -1,4 +1,4 @@
-## 13/J. [^81] A villamos berendezésekhez kapcsolódó, egyes továbbképzési kötelezettségekkel kapcsolatos hatósági jellegű képzésekre vonatkozó eljárási szabályok
+## 13/J. [^82] A villamos berendezésekhez kapcsolódó, egyes továbbképzési kötelezettségekkel kapcsolatos hatósági jellegű képzésekre vonatkozó eljárási szabályok
 
 24/Q. § (1) A (2) bekezdésben meghatározott munkakörök betöltése továbbképzéshez kötött, melynek eredményes elvégzéséről a továbbképzést záró vizsga szervezője továbbképzési igazolást állít ki.
 
@@ -10,4 +10,4 @@ b) erősáramú berendezések felülvizsgálója, és
 
 c) a villámvédelmi berendezések felülvizsgálója.
 
-[^81]: A 13/J. alcímet (24/Q–24/T. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^82]: A 13/J. alcímet (24/Q–24/T. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
