@@ -8,4 +8,6 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-2. Az 1710/2019. (XII. 11.) Korm. határozat 2. pontjában az „5 770 148 656” szövegrész helyébe a „7 768 187 763” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
