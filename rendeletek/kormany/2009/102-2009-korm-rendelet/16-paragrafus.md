@@ -1,13 +1,13 @@
-## III. Fejezet
+## III. Fejezet[^7]
 
-## A 764/2008/EK EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET VÉGREHAJTÁSÁVAL ÖSSZEFÜGGŐ ELJÁRÁSOK
+## AZ (EU) 2019/515 EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET VÉGREHAJTÁSÁVAL ÖSSZEFÜGGŐ ELJÁRÁSOK
 
 ## Általános rendelkezések
 
-16. § (1) E fejezet alkalmazásában:
+## 16. § E fejezet alkalmazásában
 
-a) műszaki szabály: a 764/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 764/2008/EK rendelet) 2. cikke (2) bekezdésében ekként meghatározott fogalom,
+a) nemzeti műszaki szabály: az (EU) 2019/515 európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdésében ekként meghatározott szabály;
 
-b) hatóság: a 764/2008/EK rendelet hatálya alá tartozó határozat hozatalára hatáskörrel és illetékességgel rendelkező szerv.
+b) hatóság: az (EU) 2019/515 európai parlamenti és tanácsi rendelet hatálya alá tartozó döntés meghozatalára hatáskörrel és illetékességgel rendelkező szerv.
 
-(2) Az igazságügyért felelős miniszter a 764/2008/EK rendelet hatálya alá nem tartozó intézkedések megállapíthatósága érdekében az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 764/2008/EK rendelet 3. cikkében hivatkozott uniós jogi rendelkezéseket átültető, illetve végrehajtó jogszabályi rendelkezések felsorolását.
+[^7]: A III. fejezet (16–19. §) a 190/2020. (V. 7.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-25. §[^13]
+## 24. §[^11]
 
-[^13]: A 25. § és az azt megelőző alcím e rendelet 26. § (1)–(2) bekezdése alapján hatályát vesztette.
+[^11]: A 24. § és az azt megelőző alcím e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
