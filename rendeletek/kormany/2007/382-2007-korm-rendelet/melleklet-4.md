@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^146]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^149]
 
 1. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -60,4 +60,4 @@
 
 | 6. | Napelemes erőmű létesítésének vagy bővítésének építési engedélyezési eljárása, meglévő napelemes erőmű fennmaradási engedélyezési eljárása során | A területrendezési és településrendezési előírásoknak való megfelelés vizsgálata. |
 
-[^146]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^149]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
