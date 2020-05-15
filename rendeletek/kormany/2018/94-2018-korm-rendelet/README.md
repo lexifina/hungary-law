@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-94-20-2
 | 2019-11-28 | 2018-94-20-22.23 | 282/2019. (XI. 27.) Korm. rendelet |
 | 2020-01-01 | 2018-94-20-22.24 | 341/2019. (XII. 23.) Korm. rendelet |
 | 2020-02-15 | 2018-94-20-22.25 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-05-15 | 2018-94-20-22.26 | 203/2020. (V. 14.) Korm. rendelet |
