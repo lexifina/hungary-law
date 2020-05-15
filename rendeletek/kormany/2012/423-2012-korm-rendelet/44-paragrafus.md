@@ -1,21 +1,21 @@
-44. § (1)[^137] A 8. § (3) bekezdésében szabályozott pótfelvételi eljárás díjmentes.
+44. § (1)[^138] A 8. § (3) bekezdésében szabályozott pótfelvételi eljárás díjmentes.
 
 (2) A külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzésre történő jelentkezés esetén a felsőoktatási intézmény intézményi eljárási díjat határozhat meg. A díjat a felsőoktatási intézmény részére kell befizetni és teljes egészében a felsőoktatási intézményt illeti meg.
 
-(3)[^138]
+(3)[^139]
 
 (4) A felsőoktatási felvételi eljárásért fizetendő felvételi eljárási díj visszatérítendő, ha a jelentkező
 
-a)[^139] legkésőbb a jelentkezési határidő lejártáig visszavonja jelentkezési kérelmét;
+a)[^140] legkésőbb a jelentkezési határidő lejártáig visszavonja jelentkezési kérelmét;
 
-b)[^140] elkésett jelentkezési kérelme elutasításra kerül;
+b)[^141] elkésett jelentkezési kérelme elutasításra kerül;
 
 c) a meghatározott felvételi eljárási díjnál magasabb összeget fizetett be, a különbözet erejéig;
 
-d)[^141] nem nyújtott be jelentkezési kérelmet.
+d)[^142] nem nyújtott be jelentkezési kérelmet.
 
-[^137]: A 44. § (1) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^138]: A 44. § (3) bekezdését a 392/2015. (XII. 11.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
-[^139]: A 44. § (4) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
-[^140]: A 44. § (4) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
-[^141]: A 44. § (4) bekezdés d) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^138]: A 44. § (1) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^139]: A 44. § (3) bekezdését a 392/2015. (XII. 11.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
+[^140]: A 44. § (4) bekezdés a) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^141]: A 44. § (4) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^142]: A 44. § (4) bekezdés d) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.

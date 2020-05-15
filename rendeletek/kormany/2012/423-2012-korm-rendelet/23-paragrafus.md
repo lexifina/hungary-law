@@ -6,7 +6,10 @@
 
 (4)[^100] A (3) bekezdést nem kell alkalmazni, ha a jelentkező olyan képzésre jelentkezik, amely képzés esetén a felvételi összpontszámot kizárólag a gyakorlati vizsga alapján kell megállapítani.
 
+(5)[^101] A (3) bekezdés alkalmazásában emelt szintű idegen nyelvi érettségi vizsgának minősül a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt magára nézve kötelezőnek elismerő állam joga szerint kiállított, külföldi oktatási intézmény elvégzését tanúsító és az adott országban felsőoktatási intézménybe történő jelentkezésre jogosító bizonyítványban szereplő, az adott állam hivatalos nyelvéből vagy a hivatalos nyelvéből és irodalmából letett érettségi vizsga.
+
 [^97]: A 23. § (1) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^98]: A 23. § (2) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^99]: A 23. § (3) bekezdését a 261/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^100]: A 23. § (4) bekezdését a 261/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^101]: A 23. § (5) bekezdését a 203/2020. (V. 14.) Korm. rendelet 12. § (1) bekezdése iktatta be.
