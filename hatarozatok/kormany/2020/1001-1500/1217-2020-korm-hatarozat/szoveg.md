@@ -14,4 +14,6 @@ Felelős: pénzügyminiszter
 
 Határidő: a tárgyévi központi költségvetésről szóló törvényjavaslat összeállítása során
 
-6. visszavonja az afganisztáni Eltökélt Támogatás Műveletben (RSM) történő magyar katonai szerepvállalásról szóló 1730/2014. (XII. 12.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
