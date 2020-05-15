@@ -2,7 +2,7 @@
 
 (2) Az üzembevételi engedély iránti kérelem tartalmazza:
 
-a) – ha a kérelem benyújtását megelőzően még nem bocsátották a Hatóság rendelkezésére – a nyomástartó berendezésnek a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben előírt megfelelőségi tanúsítványt;
+a)[^2] – ha a kérelem benyújtását megelőzően még nem bocsátották a Hatóság rendelkezésére – a nyomástartó berendezésnek a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben előírt EU-megfelelőségi nyilatkozatot;
 
 b) nyomástartó létesítmény esetén a 10. § szerinti üzemeltetési utasítást;
 
@@ -13,3 +13,5 @@ d) a létesítési dokumentációban és a hatósági engedélyben előírt eset
 e) ha a Hatóság a létesítési engedélyben előírta a próbaüzemeltetésnek az üzembevételi engedély iránti eljárást megelőzően történő lefolytatását, vagy ennek hiányában az üzemeltető kérelmezte a próbaüzemeltetés elrendelését és a Hatóság azt elrendeli, a nyomástartó berendezések, a töltő berendezések, a kisteljesítményű sűrített gáztöltő berendezések műszaki-biztonsági hatósági felügyeletéről és az autógáz tartályok időszakos ellenőrzéséről szóló miniszteri rendelet szerinti Műszaki Biztonsági Szabályzatban közzétett szempontok szerint kiértékelt próbaüzemeltetés lefolytatásának igazolását és
 
 f) az érintett közmű üzemeltetők, közszolgáltatók írásbeli hozzájáruló nyilatkozatait.
+
+[^2]: A 9. § (2) bekezdés a) pontja a 190/2020. (V. 7.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.

@@ -16,7 +16,7 @@ b) a szakterületnek megfelelő képzési programmal, és
 
 c) a képzési programnak megfelelő, korszerű tananyaggal.
 
-(4) A képzés szervezője a képzési program jóváhagyása iránti kérelmét a (6) bekezdésben meghatározott adattartalommal, a Budapest Főváros Kormányhivatala által meghatározott és a honlapján közzétett formanyomtatványon készíti el.
+(4)[^8] A képzés szervezője a képzési program jóváhagyása iránti kérelmét az (5) bekezdésben meghatározott adattartalommal, a Budapest Főváros Kormányhivatala által meghatározott és a honlapján közzétett formanyomtatványon készíti el.
 
 (5) A képzési program jóváhagyása iránti kérelem tartalmazza:
 
@@ -27,3 +27,5 @@ b) a képzés szervezőjének nyilatkozatát arról, hogy rendelkezik a képzés
 c) annak megjelölését, hogy a képzés szervezője mely képzés képzési programjának jóváhagyását kérelmezi;
 
 d) a képzési programot.
+
+[^8]: A 37. § (4) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.

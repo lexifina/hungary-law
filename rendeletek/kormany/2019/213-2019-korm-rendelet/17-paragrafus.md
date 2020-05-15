@@ -8,7 +8,7 @@
 
 a) gáztöltetű nyomástartó edény – a (4) bekezdésben meghatározottak kivételével –, amelynek töltete veszélyes töltet: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 25 liter és a PS × V szorzat nagyobb, mint 1000 bar × liter,
 
-b) gáztöltetű nyomástartó edény – a (4) bekezdésben meghatározottak, valamint a szabadtéren elhelyezett olyan nitrogéntöltetű nyomástartó edények kivételével, amelyek esetében a PS × V szorzat nem nagyobb, mint 10 000 bar × liter –, amelynek töltete nem veszélyes töltet: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 50 liter és a PS × V szorzat nagyobb, mint 10 000 bar × liter,
+b)[^7] gáztöltetű nyomástartó edény – a (4) bekezdésben meghatározottak kivételével –, amelynek töltete nem veszélyes töltet: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 50 liter és a PS × V szorzat nagyobb, mint 10 000 bar × liter,
 
 c) folyadék töltetű nyomástartó edény – a (4) bekezdésben meghatározottak kivételével –, amelynek töltete veszélyes töltet: ha a nyomása (PS) nagyobb, mint 10 bar, térfogata (V) nagyobb, mint 100 liter és a PS × V szorzat nagyobb, mint 5000 bar × liter,
 
@@ -23,3 +23,5 @@ d) folyadék töltetű nyomástartó edény – a (4) bekezdésben meghatározot
 (7) A hordozható tűzoltó készülék palackjának és a légzőkészülék palackjának szerkezeti és szilárdsági ellenőrző vizsgálatát a gyártó által előírt időközönként kell elvégezni.
 
 (8) A Hatóság az ellenőrző vizsgálatok megállapításainak és az üzemeltetés körülményeinek figyelembevételével – a nyomástartó berendezés, töltő berendezés állapota alapján – a ciklusidőt indokolt esetben a vizsgálati tervben rögzítve módosíthatja.
+
+[^7]: A 17. § (3) bekezdés b) pontja a 190/2020. (V. 7.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.

@@ -34,8 +34,10 @@ b) a nyomástartó berendezés, töltő berendezés az üzembevételi engedélyb
 
 (7) A nyomástartó berendezés, töltő berendezés vagy annak különálló főalkatrészének átalakítással elért állapota igazolható a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendelet szerinti megfelelőségtanúsítással.
 
-(8) A (7) bekezdés szerinti esetben az átalakítási bejelentés tartalmazza a megfelelőségi tanúsítvány egy másolati példányát.
+(8)[^6] A (7) bekezdés szerinti esetben az átalakítási bejelentés tartalmazza az EU-megfelelőségi nyilatkozat egy másolati példányát.
 
 (9) Ha a megfelelőség tanúsítása a nyomástartó berendezés, töltő berendezés részegységére vonatkozik, és új létesítési eljárást nem kell lefolytatni, akkor a nyomástartó berendezés, töltő berendezés időszakos ellenőrző vizsgálatainak határideje nem változik.
 
 (10) Az üzemeltető az átalakítási bejelentési dokumentációt vagy a megfelelőségtanúsítás dokumentumait a nyomástartó berendezés, töltő berendezés teljes élettartama alatt megőrzi.
+
+[^6]: A 15. § (8) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
