@@ -1,4 +1,4 @@
-5/D. §[^42] (1) Az Etv. Harmadik része szerinti eljárásban az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez – az 5/C. §-ban foglaltaktól eltérően – az ügyfélnek mellékelnie kell
+5/D. §[^45] (1) Az Etv. Harmadik része szerinti eljárásban az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez – az 5/C. §-ban foglaltaktól eltérően – az ügyfélnek mellékelnie kell
 
 a) az állampolgárságát igazoló közokirat másolatát,
 
@@ -6,7 +6,7 @@ b) az adott szakma gyakorlásának megkezdésére jogosító, képzés sikeres e
 
 c) a szakmai tapasztalatáról szóló igazolást és ennek hiteles fordítását, amennyiben a szakmai tapasztalat igazolását az Etv. előírja, továbbá
 
-d)[^43] az igazgatási szolgáltatási díj megfizetését tanúsító okiratot.
+d)[^46] az igazgatási szolgáltatási díj megfizetését tanúsító okiratot.
 
 (2) A tagállam állampolgárával az Etv. 28. § (2) bekezdése alapján azonos megítélés alá eső ügyfélnek – az (1) bekezdésben foglaltakon túl – kérelméhez csatolnia kell
 
@@ -22,5 +22,5 @@ c) a bevándorlási engedély, illetve a letelepedett jogállást igazoló okmá
 
 (5) Ha a kérelem az Etv. IX. Fejezetének hatálya alá tartozik, az eljáró hatóság előírhatja, hogy az ügyfél mellékeljen olyan más tagállami igazolást, amely azt tanúsítja, hogy az ügyfél képzés sikeres elvégzését tanúsító okirata az Etv. IX. Fejezetének hatálya alá tartozik.
 
-[^42]: Az 5/D. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
-[^43]: Az 5/D. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 218. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^45]: Az 5/D. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^46]: Az 5/D. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 218. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

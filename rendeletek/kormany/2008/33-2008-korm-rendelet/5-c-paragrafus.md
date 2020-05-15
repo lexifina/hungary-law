@@ -18,11 +18,24 @@ b) nyújtson be olyan, a külföldi oktatási intézmény által kiállított ok
 
 (4) Az eljáró hatóság kivételes méltányosságból felmentheti az ügyfelet az (1) bekezdésben meghatározott okiratainak benyújtása alól, ha az ügyfél – a menedékjogról szóló törvény alapján – menekült, oltalmazott, menedékes vagy befogadott, és az ügyfél bizonyítja vagy valószínűsíti, hogy okiratai neki fel nem róható okból nem állnak rendelkezésére.
 
-(5)[^41] A résztanulmányok beszámítására irányuló kérelemhez – az (1) bekezdésben foglaltaktól eltérően – az (1) bekezdés b) pontja szerinti okiratokat és azok hiteles fordítását kell csatolni. Az oktatási intézmény résztanulmányok beszámítása esetében és a továbbtanulási célú elismerési eljárás során nem hiteles fordítást és szakfordítást is elfogadhat, továbbá mentesítheti a kérelmezőt a fordítás benyújtásának kötelezettsége alól.
+(4a)[^41] Az eljáró hatóság az (1) bekezdéstől eltérően a továbbtanulási célú elismerésre irányuló kérelemről a kérelmező származási országának oktatásért felelős minisztériuma által kiállított igazolás hiteles fordítása alapján hozza meg a döntését, ha a kérelmező
+
+a) államközi vagy állami ösztöndíjprogram keretében érkezett Magyarországra, és
+
+b) igazolja, hogy a továbbtanulási céllal elismerni kért bizonyítvány vagy oklevél még nem áll rendelkezésére.
+
+(4b)[^42] A (4a) bekezdés szerinti esetben a kérelmező köteles az (1) bekezdés a)–c) pontja szerinti okiratokat az eljáró hatóság részére a beiratkozást követő hat hónapon belül benyújtani.
+
+(4c)[^43] Az olyan hallgató részére, akinek a kérelméről a (4a) bekezdés alapján hoztak döntést, akkor állítható ki oklevél, ha a (4b) bekezdés szerinti kötelezettségének eleget tett.
+
+(5)[^44] A résztanulmányok beszámítására irányuló kérelemhez – az (1) bekezdésben foglaltaktól eltérően – az (1) bekezdés b) pontja szerinti okiratokat és azok hiteles fordítását kell csatolni. Az oktatási intézmény résztanulmányok beszámítása esetében és a továbbtanulási célú elismerési eljárás során nem hiteles fordítást és szakfordítást is elfogadhat, továbbá mentesítheti a kérelmezőt a fordítás benyújtásának kötelezettsége alól.
 
 [^36]: Az 5/C. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
 [^37]: Az 5/C. § (1) bekezdés b) pontja a 191/2019. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^38]: Az 5/C. § (1) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^39]: Az 5/C. § (1) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^40]: Az 5/C. § (2) bekezdés nyitó szövegrésze a 191/2019. (VII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^41]: Az 5/C. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 218. § (1) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^41]: Az 5/C. § (4a) bekezdését a 203/2020. (V. 14.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^42]: Az 5/C. § (4b) bekezdését a 203/2020. (V. 14.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^43]: Az 5/C. § (4c) bekezdését a 203/2020. (V. 14.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^44]: Az 5/C. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 218. § (1) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
