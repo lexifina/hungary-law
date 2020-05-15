@@ -60,7 +60,7 @@
 
 | 29. | Eljárási (technológiai) feltételek: |
 
-| 30. | az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának igazolásáról szóló rendelet szerinti igazolás és nyilvántartásba vétel | x | x* | x* | x | – | – | – |
+| 30. | az ömlesztőhegesztés végzésének feltételeiről szóló rendelet szerinti igazolás és nyilvántartásba vétel | x | x* | x* | x | – | – | – |
 
 | 31. | tevékenységre vonatkozó munkautasítás | x | x | x | x | x | x | x |
 
@@ -88,7 +88,7 @@ a) minőségügyi szakképzettség, minőségbiztosítási vagy minőségirány�
 
 b) műszaki tudományok területén szerzett tudományos fokozat.
 
-3. Legalább 5 év szakirányú gyakorlat, jártasság a veszélyes folyadékok vagy olvadékok tárolótartályai üzemeltetéséhez kapcsolódó tevékenységek területén, vagy a településtervezési és az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői jogosultság szabályairól szóló kormányrendelet szerint a Magyar Mérnöki Kamara által kiadott tervezői jogosultság, amely lehet:
+3.[^6] Legalább 5 év szakirányú gyakorlat, jártasság a veszélyes folyadékok vagy olvadékok tárolótartályai üzemeltetéséhez kapcsolódó tevékenységek területén, vagy az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerint a Magyar Mérnöki Kamara által kiadott tervezői jogosultság, amely lehet:
 
 a) gépészmérnöki tervező vagy energetikai tervező,
 
@@ -105,3 +105,5 @@ a) a tevékenységi területre vonatkozó szabványokkal és egyéb műszaki el�
 b) belső szabályzattal a veszélyes folyadékok vagy olvadékok tárolótartályai üzemeltetéséhez kapcsolódó szolgáltatási tevékenységet végző gazdálkodó szervezetek alkalmasságának vizsgálatára és értékelésére és
 
 c) az irányítási rendszerek auditjára és tanúsítására vonatkozó szabvány szerint akkreditált rendszertanúsítással.
+
+[^6]: A 3. melléklet I. pont 3. alpont nyitó szövegrésze a 190/2020. (V. 7.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
