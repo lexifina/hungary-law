@@ -1,0 +1,135 @@
+# A Kormány 212/2020. (V. 16.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 112. szám, 2020. május 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ou0dLCtqlFXtd5nv4bYi5ebc65e750ec1/dokumentumok/fa4b18d6c413b214189da23ead50cc6225e825a0/letoltes)
+
+---
+
+A Kormány 212/2020. (V. 16.) Korm. rendelete
+a belföldi hasznosításra szolgáló közegészségügyi kényszerengedélyről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 7. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) az egészségügyről szóló 1997. évi CLIV. törvény
+228. § (2) bekezdése szerinti egészségügyi válsághelyzettel összefüggő belföldi szükségletek kielégítése céljából
+közegészségügyi kényszerengedélyt (a továbbiakban: közegészségügyi kényszerengedély) ad
+a) szabadalmi vagy kiegészítő oltalom alatt álló gyógyszer vagy hatóanyag, szabadalmi oltalom alatt álló
+orvostechnikai eszköz vagy vizsgálati készítmény (a továbbiakban együtt: egészségügyi termék), vagy
+b) egészségügyi termék előállításához szükséges, szabadalmi oltalom alatt álló eljárás, berendezés vagy eszköz
+hasznosítására.
+(2) A közegészségügyi kényszerengedély alapján a kényszerengedélyes az egészségügyi terméket, eljárást, berendezést
+vagy eszközt kizárólag az (1) bekezdésben meghatározott belföldi szükségletek kielégítése céljából hasznosíthatja.
+(3) A közegészségügyi kényszerengedély nem ad kizárólagos jogot a hasznosításra, a közegészségügyi
+kényszerengedélyes a közegészségügyi kényszerengedély alapján hasznosítási engedélyt nem adhat.
+(4) A közegészségügyi kényszerengedély időtartamát az SZTNH a gyógyszerészeti államigazgatási szerv tájékoztatása
+alapján az egészségügyi válsághelyzet kezelésére alkalmas szükségletekre tekintettel állapítja meg azzal, hogy
+közegészségügyi kényszerengedély legfeljebb 2021. március 31. napjáig adható.
+(5) A (4) bekezdés szerinti ellátási szükséglettel kapcsolatos igazolást a gyógyszerészeti államigazgatási szerv
+saját hatáskörben – a rendelkezésre álló készletek mennyiségére vonatkozó információk elemzésével, illetve
+kockázatértékelés alapján – állítja ki. Az igazolás kiállításához szükséges további adatok beszerzése érdekében
+a gyógyszerészeti államigazgatási szerv az Állami Egészségügyi Tartalék kezelőjéhez vagy az egészségügyért felelős
+miniszter által vezetett minisztériumhoz is fordulhat adatszolgáltatás iránt.
+(6) A közegészségügyi kényszerengedélyért a szabadalmasnak megfelelő díj jár. A díjat az SZTNH állapítja meg. A díjnak
+ki kell fejeznie a közegészségügyi kényszerengedély gazdasági értékét, így különösen arányban kell állnia azzal
+a díjjal, amelyet a közegészségügyi kényszerengedélyesnek – a találmány tárgya szerinti műszaki területen kialakult
+licenciaforgalmi viszonyokra figyelemmel – a szabadalmassal kötött hasznosítási szerződés alapján fizetnie kellene.
+
+(7) Az SZTNH a (6) bekezdés szerinti díj megállapítása során figyelembe veszi különösen
+a) az adott iparágban a hasznosítási díj és a nettó értékesítési árbevétel jellemző arányát, illetve
+b) hogy az adott egészségügyi termékben, vagy az egészségügyi termék előállításához szükséges, szabadalmi
+oltalom alatt álló eljárásban, berendezésben vagy eszközben megjelenő gazdasági előny milyen arányban
+vezethető vissza a közegészségügyi kényszerengedéllyel érintett szabadalom alkalmazására (fedési hányad).
+(8) A közegészségügyi kényszerengedélyes a közegészségügyi kényszerengedélyről az SZTNH-hoz címzett
+nyilatkozattal bármikor lemondhat. A lemondásról az SZTNH értesíti szabadalmast és a gyógyszerészeti
+államigazgatási szervet.
+(9) A közegészségügyi kényszerengedély az arról való lemondással, a (4) bekezdés szerinti határozott idő lejártával,
+vagy a szabadalmi vagy kiegészítő oltalom megszűnésével megszűnik.
+(10) A közegészségügyi kényszerengedély lemondás vagy a (4) bekezdés szerinti határozott idő letelte miatti
+megszűnése esetén a közegészségügyi kényszerengedélyes által jogszerűen forgalomba nem hozott egészségügyi
+termék, vagy egészségügyi termék előállításához szükséges eljárás, berendezés vagy eszköz megsemmisítését
+a gyógyszerészeti államigazgatási szerv határozatban rendeli el.
+(11) A (10) bekezdés nem alkalmazandó, ha a közegészségügyi kényszerengedélyes a (4) bekezdés szerinti határozott idő
+letelte előtt újabb, az egészségügyi termékek előállítását megalapozó közegészségügyi kényszerengedéllyel azonos
+tárgyi hatályú közegészségügyi kényszerengedélyt szerez.
+(12) Ha a közegészségügyi kényszerengedély alapján előállított egészségügyi termék forgalomba hozatala
+törvény alapján hatósági engedélyhez kötött, az engedélyező hatóság az engedélyezésre irányuló eljárásában
+a közegészségügyi kényszerengedélyben foglaltakat a kérelem elbírálása során bizonyítottnak tekinti.
+2. § (1) A közegészségügyi kényszerengedély alapján előállított egészségügyi termékeket a szabadalmas által előállított
+terméktől egyedi jelzéssel kell megkülönböztetni. A csomagoláson és valamennyi kapcsolódó iraton egyértelműen
+fel kell tüntetni, hogy az egészségügyi termék előállítására az SZTNH által adott közegészségügyi kényszerengedély
+alapján, kizárólag belföldi forgalmazás céljából került sor.
+(2) Ha a közegészségügyi kényszerengedély jogosultja nem tesz eleget az (1) bekezdésben foglalt kötelezettségnek,
+a gyógyszerészeti államigazgatási szerv az egészségügyi termék – az (1) bekezdésnek, illetve a 3. § (2) bekezdés
+c) pontjának megfelelő – átcsomagolására kötelezi.
+(3) A szabadalmi oltalom alatt álló egészségügyi termék vagy egészségügyi termék előállításához szükséges eljárás,
+berendezés vagy eszköz jogosulatlan hasznosításáért a szabadalmas a találmányok szabadalmi oltalmáról szóló
+1995. évi XXXIII. törvény (a továbbiakban: Szt.) 35. § (3) bekezdése szerint kártérítést követelhet. E rendelkezést
+a kiegészítő oltalom tekintetében is megfelelően alkalmazni kell.
+3. § (1) A közegészségügyi kényszerengedéllyel kapcsolatos eljárásra az Szt. rendelkezéseit az alábbi eltérésekkel kell
+alkalmazni:
+a) az SZTNH háromtagú tanácsban jár el,
+b) a hiánypótlásra, illetve nyilatkozattételre legalább tizenöt, de legfeljebb harminc napos határidőt kell kitűzni,
+valamint határidő-hosszabbítás csak különösen indokolt esetben adható,
+c) az SZTNH soron kívül jár el.
+(2) A közegészségügyi kényszerengedély iránti kérelemnek – az Szt. 45. § (5) és (6) bekezdésében foglaltakon
+túlmenően – tartalmaznia kell:
+a) a közegészségügyi kényszerengedély alapján hasznosítani kívánt találmányra adott szabadalom vagy
+kiegészítő oltalmi tanúsítvány lajstromszámát,
+b) a kényszerengedély alapján a kérelmező által gyártani kívánt egészségügyi termék megnevezését, gyógyszer
+esetén pedig a termék szabadnevét,
+c) azokat a jelzéseket, amelyek a közegészségügyi kényszerengedély alapján gyártani kívánt egészségügyi
+terméket a 2. § (1) bekezdése szerint megkülönböztetik a szabadalmas termékétől,
+d) gyógyszerészeti államigazgatási szerv igazolását arról, hogy a kérelmező az egészségügyi válsághelyzettel
+összefüggő belföldi szükségletek kielégítése céljára alkalmas, az igazolásban meghatározott szükséges
+mennyiségű egészségügyi termékre kéri a közegészségügyi kényszerengedélyt,
+
+e) annak igazolását, hogy a közegészségügyi kényszerengedély kérelmezője rendelkezik a közegészségügyi
+kényszerengedély alapján előállítani szándékozott, a d) pont szerinti igazolásban meghatározott
+mennyiséghez megfelelő kapacitással,
+f) az e) pontban meghatározottak hiányában annak igazolását, hogy a kérelmező a d) pont szerinti
+igazolásban meghatározott mennyiség előállításához szükséges kapacitások biztosítása érdekében komoly
+előkészületeket tett.
+(3) A közegészségügyi kényszerengedély iránti kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól
+szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg. Ennek elmaradása esetén
+a kérelmet visszavontnak kell tekinteni.
+(4) Az SZTNH a kérelem beérkezését követően megvizsgálja, hogy
+a) a kérelem megfelel-e a (2) és (3) bekezdésben foglalt feltételeknek;
+b) teljesülnek-e az 1. § (1) bekezdésében foglalt feltételek.
+(5) Az SZTNH a kérelem beérkezésétől számított nyolc napon belül értesíti a kérelemben érintett szabadalmast annak
+a tényéről, hogy találmánya tekintetében kényszerengedély megadása iránt kérelmet nyújtottak be.
+(6) Az SZTNH döntéséig a közegészségügyi kényszerengedély kérelmezőjével szemben a kérelemben megjelölt
+szabadalommal vagy kiegészítő oltalmi tanúsítvánnyal kapcsolatban folyó bitorlási pert, és az ahhoz kapcsolódó
+ideiglenes intézkedést fel kell függeszteni.
+(7) Ha a közegészségügyi kényszerengedély iránti kérelem nem felel meg a (4) bekezdésben előírt feltételeknek,
+a kérelmezőt hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás,
+illetve nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha a kérelmező a hiánypótlási felhívásra
+a kitűzött határidőn belül nem válaszol, a kérelmet visszavontnak kell tekinteni.
+4. § (1) Az SZTNH tárgyalás tartása nélkül határoz a közegészségügyi kényszerengedély megadásáról vagy a kérelem
+elutasításáról. A döntést írásba kell foglalni és közölni kell a kérelmezővel. A döntésről az SZTNH a szabadalmast
+a döntés meghozatalától számított nyolc napon belül értesíti.
+(2) A közegészségügyi kényszerengedély megadásáról szóló határozatnak tartalmaznia kell:
+a) a közegészségügyi kényszerengedély időtartamát;
+b) azokat a jellemzőket, amelyek a közegészségügyi kényszerengedély alapján előállítani kívánt egészségügyi
+terméket megkülönböztetik a szabadalmas termékétől;
+c) a szabadalmasnak fizetendő díj meghatározását;
+d) a szabadalom vagy a kiegészítő oltalmi tanúsítvány lajstromszámát; és
+e) az egészségügyi termék megnevezését, gyógyszer esetén pedig a termék szabadnevét.
+(3) A közegészségügyi kényszerengedélyt be kell jegyezni a szabadalmi vagy a kiegészítő oltalmi tanúsítványokról
+vezetett lajstromba, és arról hatósági tájékoztatást kell közölni az SZTNH hivatalos lapjában.
+(4) A közegészségügyi kényszerengedély megadásáról az SZTNH haladéktalanul tájékoztatja a gyógyszerészeti
+államigazgatási szervet.
+5. § (1) Az SZTNH-nak a 4. § (1) bekezdésében meghatározott döntése elleni jogorvoslat vonatkozásában
+az Szt. rendelkezéseit kell alkalmazni azzal, hogy a megváltoztatási kérelemnek a megadott közegészségügyi
+kényszerengedély tekintetében halasztó hatálya nincs.
+(2) A gyógyszerészeti államigazgatási szervnek a kényszerengedély időtartama alatt, a kényszerengedély alapján
+előállított gyógyszerrel összefüggő döntéseivel szemben indított perben azonnali jogvédelemnek nincs helye.
+6. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 7. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+7. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+ Orbán Viktor s. k.,
+ miniszterelnök
