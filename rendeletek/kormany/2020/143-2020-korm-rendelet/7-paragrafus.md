@@ -1,1 +1,3 @@
-## 6. § A veszélyhelyzet okán az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet alapján kiadott építésügyi hatósági engedély hatálya – a használatbavételi engedély kivételével – az erre irányuló külön kérelem hiányában is egy évvel meghosszabbodik, ha az engedély hatálya e rendelet hatálybalépése és a veszélyhelyzet megszűnését követő 30 napon belüli időtartamban jár le.
+## 6. §[^2]
+
+[^2]: A 6. §-t a 208/2020. (V. 15.) Korm. rendelet 4. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 5. §-át.

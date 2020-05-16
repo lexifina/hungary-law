@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-143-20-
 | --- | --- | --- |
 | 2020-04-23 | 2020-143-20-22.1 | 143/2020. (IV. 22.) Korm. rendelet |
 | 2020-05-07 | 2020-143-20-22.2 | 40/2020. (III. 11.) Korm. rendelet |
+| 2020-05-16 | 2020-143-20-22.3 | 208/2020. (V. 15.) Korm. rendelet |
