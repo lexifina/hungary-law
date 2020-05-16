@@ -1,1 +1,3 @@
-## „(5a) A (4) bekezdés d) pontjában meghatározott esetben indult eljárásban a Hatóság elrendeli az építmény bontását, amennyiben az építmény tulajdonosa a Hatóság felhívására az építmény új funkciójáról nem nyilatkozik. Amennyiben az építmény tulajdonosa nyilatkozik az építmény új funkciójáról, és az építmény nem tartja meg a villamosenergia-ipari rendeltetését, akkor a Hatóság továbbítja a tulajdonos nyilatkozatát az új funkciójú építményfajta tekintetében hatáskörrel és illetékességgel rendelkező építésügyi hatóság részére. Amennyiben a megváltoztatni tervezett rendeltetésű építmény nem a villamosenergia-ipari építésügyi hatóság hatáskörébe tartozik, akkor az építményre vonatkozó jókarbantartási kötelezettség teljesítésének ellenőrzése a továbbiakban a fentiek szerint értesített építésügyi hatóság hatáskörébe tartozik.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

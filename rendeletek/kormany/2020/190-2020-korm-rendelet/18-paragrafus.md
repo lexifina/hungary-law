@@ -1,4 +1,4 @@
-## lép.
+## 17. §[^17]
 
 ## 8. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 1. és 2. §, valamint az 1. melléklet 2020. június 13-án lép hatályba.
 
 (3) A 12. §, a 14. § és a 3. melléklet 2020. november 30-án lép hatályba.
+
+[^17]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
