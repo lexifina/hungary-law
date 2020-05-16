@@ -1,0 +1,1 @@
+## 4. § Hatályát veszti a veszélyhelyzet ideje alatt egyes településfejlesztési, településrendezési, településképi, építésügyi és örökségvédelmi, valamint közigazgatási hatósági eljárási szabályok eltérő alkalmazásáról szóló 143/2020. (IV. 22.) Korm. rendelet 6. és 7. §-a.
