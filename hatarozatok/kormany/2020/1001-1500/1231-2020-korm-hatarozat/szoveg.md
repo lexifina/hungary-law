@@ -64,6 +64,8 @@ Határidő: a Magyarország 2020. évi központi költségvetéséről szóló 2
 
 a 2021. költségvetési évtől kezdődően a 2027. költségvetési évig az éves központi költségvetés XII. Agrárminisztérium fejezet tervezése során
 
-3. A Kormány visszavonja a kisméretű szálló por (PM10) csökkentés ágazatközi intézkedési programjáról szóló 1330/2011. (X. 12.) Korm. határozatot.
+3.[^1]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
