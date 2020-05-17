@@ -18,7 +18,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „62,64” szövegrész helyébe a „63,25” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1236/2020. (V. 15.) Korm. határozathoz
 
@@ -35,3 +35,5 @@
 | 5. | EFOP-4.1.2-17- 2017-00036 | Az Egervári Iskola infrastrukturális fejlesztése a hátránykompenzáció elősegítése és a minőségi oktatás megteremtése érdekében | Zalaegerszegi Tankerületi Központ | 423 434 315 | 147 368 339 | 52 842 600 | 623 645 254 | A projekt célja a 8913 Egervár, József Attila utca 3. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
 
 | 6. | EFOP-4.1.2-17- 2017-00073 | Szakmai és infrastrukturális megújulás az iregszemcsei Deák Ferenc Általános Iskolában | Tamási Tankerületi Központ | 1 154 273 165 | 190 972 422 | – | 1 345 245 587 | A projekt célja a 7095 Iregszemcse, Móricz Zsigmond utca 8–10. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
