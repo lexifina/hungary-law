@@ -1,0 +1,296 @@
+# A Kormány 1241/2020. (V. 18.) Korm. határozata
+
+Magyar Közlöny 2020. évi 113. szám, 2020. május 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/lGDlsItkNDD8TpB26AqA5ebd94f23de2e/dokumentumok/46bea9b99f4a1c275022cc7930f5def5e266b608/letoltes)
+
+---
+
+A Kormány 1241/2020. (V. 18.) Korm. határozata
+a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból történő és
+fejezetek közötti előirányzat-átcsoportosításról
+A Kormány
+1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított
+jogkörében eljárva összesen 83 103 852 551 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi
+központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi
+Alap fejezet, 1. Gazdaságvédelmi programok cím terhére, az 1. melléklet szerint;
+Felelős: pénzügyminiszter
+Határidő: azonnal
+2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 168 000 000 forint egyszeri átcsoportosítását rendeli el,
+a 2. melléklet szerint;
+Felelős: pénzügyminiszter
+Miniszterelnökséget vezető miniszter
+emberi erőforrások minisztere
+Miniszterelnöki Kormányiroda közigazgatási államtitkára
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: azonnal
+3. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.)
+Korm. rendelet 153. §-ában biztosított jogkörében eljárva 3 868 450 000 forint egyszeri átcsoportosítását rendeli el
+a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási
+Alap cím terhére, a 3. melléklet szerint.
+Felelős: pénzügyminiszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1241/2020. (V. 18.) Korm. határozathoz
+XII. Agrárminisztérium
+XVII. Innovációs és Technológiai Minisztérium
+XVIII. Külgazdasági és Külügyminisztérium
+XLV. Kiemelt kormányzati magasépítési beruházások
+XLVII. Gazdaságvédelmi Alap
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- K I A D Á S O K A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XII. Agrárminisztérium
+20 Fejezeti kezelésű előirányzatok
+5 Nemzeti támogatások
+250734 8 Nemzeti agrártámogatások
+K5 Egyéb működési célú kiadások 25 000 000 000
+20 Európai uniós fejlesztési programok
+1 Uniós programok kiegészítő támogatása
+260167 3 Egyes speciális szövetkezések (TÉSZ) támogatása
+K5 Egyéb működési célú kiadások 1 000 000 000
+XVII. Innovációs és Technológiai Minisztérium
+20 Fejezeti kezelésű előirányzatok
+32 Közlekedési ágazati programok
+358584 30 Közúthálózat felújítása
+K8 Egyéb felhalmozási célú kiadások 11 056 800 000
+33 Hazai fejlesztési programok
+294835 3 Gazdaságfejlesztést szolgáló célelőirányzat
+K5 Egyéb működési célú kiadások 2 900 000 000
+342573 5 Intézményi kezességi díjtámogatások
+K5 Egyéb működési célú kiadások 5 500 000 000
+XVIII. Külgazdasági és Külügyminisztérium
+004107 1 Külgazdasági és Külügyminisztérium központi igazgatása
+K1 Személyi juttatások 295 113 000
+K3 Dologi kiadások 35 842 000
+7 Fejezeti kezelésű előirányzatok
+1 Célelőirányzatok
+375817 32 Határon túli gazdaságfejlesztési programok támogatása
+K3 Dologi kiadások 21 472 041
+K5 Egyéb működési célú kiadások 225 000 000
+K8 Egyéb felhalmozási célú kiadások 36 228 510 247
+XLV. Kiemelt kormányzati magasépítési beruházások
+2 Programszerű magasépítési beruházások
+384551 9 Sportpark beruházások megvalósítása
+K6 Beruházások 841 115 263
+XLVII. Gazdaságvédelmi Alap
+385484 1 Gazdaságvédelmi programok
+K5 Egyéb működési célú kiadások -83 103 852 551
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+Költségvetési év: 2020.
+A módosítást elrendelő
+jogszabály/határozat száma
+Államháztartási
+egyedi azonosító
+
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- B E V É T E L A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- T Á M O G A T Á S A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XII. Agrárminisztérium
+20 Fejezeti kezelésű előirányzatok
+5 Nemzeti támogatások
+250734 8 Nemzeti agrártámogatások 25 000 000 000
+20 Európai uniós fejlesztési programok
+1 Uniós programok kiegészítő támogatása
+260167 3 Egyes speciális szövetkezések (TÉSZ) támogatása 1 000 000 000
+XVII. Innovációs és Technológiai Minisztérium
+20 Fejezeti kezelésű előirányzatok
+32 Közlekedési ágazati programok
+358584 30 Közúthálózat felújítása 11 056 800 000
+33 Hazai fejlesztési programok
+294835 3 Gazdaságfejlesztést szolgáló célelőirányzat 2 900 000 000
+342573 5 Intézményi kezességi díjtámogatások 5 500 000 000
+XVIII. Külgazdasági és Külügyminisztérium
+004107 1 Külgazdasági és Külügyminisztérium központi igazgatása 330 955 000
+7 Fejezeti kezelésű előirányzatok
+1 Célelőirányzatok
+375817 32 Határon túli gazdaságfejlesztési programok támogatása 36 474 982 288
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+Foglalkoztatottak létszáma (fő) - időszakra
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I. n.év II. n.év III. n.év IV. n.év
+időarányos
+teljesítésarányos
+egyéb: azonnal 83 103 852 551 83 103 852 551
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+A módosítást elrendelő
+jogszabály/határozat száma
+Magyar Államkincstár 1 példány
+Az adatlap 1 eredeti példányban töltendő ki
+Államháztartási
+egyedi azonosító
+Államháztartási
+egyedi azonosító
+A módosítást elrendelő
+jogszabály/határozat száma
+
+2. melléklet az 1241/2020. (V. 18.) Korm. határozathoz
+XI. Miniszterelnökség
+XX. Emberi Erőforrások Minisztériuma
+XXII. Miniszterelnöki Kormányiroda
+XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név évre
+szám név áthúzódó
+hatása
+XI. Miniszterelnökség
+30 Fejezeti kezelésű előirányzatok
+296668 2 Fejezeti általános tartalék
+K5 Egyéb működési célú kiadások -133 000 000
+XX. Emberi Erőforrások Minisztériuma
+380040 9 Petőfi Irodalmi Múzeum
+K5 Egyéb működési célú kiadások 75 000 000
+20 Fejezeti kezelésű előirányzatok
+13 Művészeti tevékenységek
+271489 4 Művészeti tevékenységek és egyéb fejezeti feladatok támogatása
+K5 Egyéb működési célú kiadások 48 000 000
+264178 28 Gazdasági társaságok által ellátott feladatok támogatása
+K5 Egyéb működési célú kiadások 10 000 000
+XXII. Miniszterelnöki Kormányiroda
+375506 1 Miniszterelnöki Kormányiroda
+K3 Dologi kiadások 35 000 000
+XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
+2 Az NVTNM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások
+2 Az NVTNM tulajdonosi joggyakorlásával kapcsolatos kiadások
+383095 9 Egyéb kiadások
+K3 Dologi kiadások -35 000 000
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név évre
+szám név áthúzódó
+hatása
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név évre
+szám név áthúzódó
+hatása
+XI. Miniszterelnökség
+30 Fejezeti kezelésű előirányzatok
+296668 2 Fejezeti általános tartalék -133 000 000
+XX. Emberi Erőforrások Minisztériuma
+380040 9 Petőfi Irodalmi Múzeum 75 000 000
+20 Fejezeti kezelésű előirányzatok
+13 Művészeti tevékenységek
+271489 4 Művészeti tevékenységek és egyéb fejezeti feladatok támogatása 48 000 000
+264178 28 Gazdasági társaságok által ellátott feladatok támogatása 10 000 000
+XXII. Miniszterelnöki Kormányiroda
+375506 1 Miniszterelnöki Kormányiroda 35 000 000
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I. n.év II. n.év III. n.év IV. n.év
+időarányos
+teljesítésarányos
+egyéb: azonnal 168 000 000 168 000 000
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+K I A D Á S O K
+Kiemelt előirányzat
+Magyar Államkincstár 1 példány
+Az adatlap 1 eredeti példányban töltendő ki
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+A módosítást elrendelő jogszabály/
+határozat száma
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+B E V É T E L
+Kiemelt előirányzat
+Kiemelt előirányzat
+T Á M O G A T Á S
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+A módosítást elrendelő jogszabály/
+határozat száma
+Államháztartási
+egyedi
+azonosító
+Államháztartási
+egyedi
+azonosító
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+Költségvetési év: 2020.
+Államháztartási
+egyedi
+azonosító
+A módosítást elrendelő jogszabály/
+határozat száma
+
+3. melléklet az 1241/2020. (V. 18.) Korm. határozathoz
+XVII. Innovációs és Technológiai Minisztérium
+XLII. A költségvetés közvetlen bevételei és kiadásai
+LXV. Bethlen Gábor Alap
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- K I A D Á S O K A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XVII. Innovációs és Technológiai Minisztérium
+227942 14 Egyetemek, főiskolák
+K3 Dologi kiadások 3 700 000 000
+XLII. A költségvetés közvetlen bevételei és kiadásai
+42 Alapok támogatása
+263478 2 Bethlen Gábor Alap támogatása
+K5 Egyéb működési célú kiadások 168 113 100
+K8 Egyéb felhalmozási célú kiadások 336 900
+374873 43 Központi Maradványelszámolási Alap
+K5 Egyéb működési célú kiadások -3 868 450 000
+LXV. Bethlen Gábor Alap
+263145 4 Nemzetpolitikai célú támogatások
+K5 Egyéb működési célú kiadások 168 113 100
+K8 Egyéb felhalmozási célú kiadások 336 900
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- B E V É T E L A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+LXV. Bethlen Gábor Alap
+2 Költségvetési támogatás
+284901 3 Eseti támogatás
+B1 Működési célú támogatások államháztartáson belülről 168 113 100
+B2 Felhalmozási célú támogatások államháztartáson belülről 336 900
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- T Á M O G A T Á S A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XVII. Innovációs és Technológiai Minisztérium
+227942 14 Egyetemek, főiskolák 3 700 000 000
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+Foglalkoztatottak létszáma (fő) - időszakra
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I. n.év II. n.év III. n.év IV. n.év
+időarányos
+teljesítésarányos
+egyéb: azonnal 3 868 450 000 3 868 450 000
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+A módosítást elrendelő
+jogszabály/határozat száma
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+Költségvetési év: 2020.
+A módosítást elrendelő
+jogszabály/határozat száma
+Államháztartási
+egyedi azonosító
+A módosítást elrendelő
+jogszabály/határozat száma
+Magyar Államkincstár 1 példány
+Az adatlap 1 eredeti példányban töltendő ki
+Államháztartási
+egyedi azonosító
+Államháztartási
+egyedi azonosító
