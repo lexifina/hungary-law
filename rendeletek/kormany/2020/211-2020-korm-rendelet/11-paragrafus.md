@@ -1,1 +1,3 @@
-11. § Hatályát veszti a kijárási korlátozás Budapest fővárosban és Pest megye területén való fenntartásáról szóló 169/2020. (IV. 30.) Korm. rendelet.
+11. §[^2]
+
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
