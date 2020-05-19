@@ -24,4 +24,6 @@ f) véleményezi a feladat- és hatáskörébe tartozó kormány-előterjesztés
 
 7. Ez a határozat 2020. május 18. napján lép hatályba.
 
-8. Hatályát veszti a Modern Települések Fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1251/2018. (V. 25.) Korm. határozat.
+8.[^2]
+
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
