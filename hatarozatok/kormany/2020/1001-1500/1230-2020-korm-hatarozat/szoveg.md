@@ -28,4 +28,6 @@ b) a kiemelt nemzetközi sportrendezvények lebonyolításának koordinációjá
 
 9. Ez a határozat 2020. május 18-án lép hatályba, és 2022. május 18-án hatályát veszti.
 
-10. Hatályát veszti az egyes Kárpát-medencei gazdaságélénkítő programok és összehangolt fejlesztési feladatok, valamint turisztikai fejlesztések koordinációjáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1253/2018. (V. 30.) Korm. határozat.
+10.[^2]
+
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
