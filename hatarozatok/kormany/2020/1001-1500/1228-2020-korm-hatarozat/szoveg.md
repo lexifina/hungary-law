@@ -32,4 +32,6 @@ i) az a)–h) alpont szerinti feladatokkal kapcsolatos kutatások elvégzéséve
 
 7. Ez a határozat 2020. május 18. napján lép hatályba.
 
-8. Hatályát veszti az aktív Magyarországért felelős kormánybiztos kinevezéséről és feladatairól szóló 1252/2018. (V. 25.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
