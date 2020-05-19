@@ -72,4 +72,6 @@ emberi erőforrások minisztere
 
 Határidő: a fejlesztések megvalósítását célzó feltételes közbeszerzési eljárásokat követően
 
-14. visszavonja a Váci és Pápai Tankerületi Központ fenntartásában működő köznevelési intézmények infrastrukturális fejlesztésének megvalósításáról szóló 1547/2019. (IX. 25.) Korm. határozatot.
+14.[^1]
+
+[^1]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
