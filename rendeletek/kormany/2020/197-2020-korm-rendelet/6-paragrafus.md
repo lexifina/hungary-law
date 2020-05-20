@@ -1,0 +1,1 @@
+## „(1a) Közműellátási hálózat létesítményei és szerelvényei közterületen, terepszint felett a KNEB által előzetesen meghatározott módon és időtartamra helyezhetők el. A terepszint feletti elhelyezést a KNEB részére be kell jelenteni.”
