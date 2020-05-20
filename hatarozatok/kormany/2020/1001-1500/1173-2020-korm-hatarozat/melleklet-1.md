@@ -54,7 +54,11 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.10. egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 11 984 389 200 forint biztosításával;
+## 1.10.[^1] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 11 984 389 200 forint biztosításával, amelynek érdekében
+
+## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésének érdekében legfeljebb 11 984 389 200 forint kötelezettséget vállaljon,
+
+## b) az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcím, 7. Állami többletfeladatok jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját a 2021. év vonatkozásában 10 962 478 500 forint összegben állapítja meg;
 
 ## 1.11. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával az 1.10. alpont szerinti feladat megvalósítása érdekében gondoskodjon a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcím, 7. Állami többletfeladatok jogcímcsoport javára
 
@@ -76,17 +80,26 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.13. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
+## 1.13.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a DMRV Zrt. útján – gondoskodjon az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság bevonásáról annak érdekében, hogy az 1.10 alpont szerinti feladat előkészítése és megvalósítása keretében tervezési, mérnöki, műszaki ellenőri feladatokat lásson el, valamint a DMRV Zrt. nevében és javára a kivitelezési szerződéshez kapcsolódó közbeszerzési eljárásokat lefolytassa, és a kapcsolódó projektmenedzsment-feladatokat ellássa;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## Határidő: a forrás rendelkezésre állását követően azonnal
+
+## 1.14.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 2.[^1]
+## 2.[^4]
 
-## 3.[^2]
+## 3.[^5]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.10. alpontja az 1248/2020. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. pont 1.13. alpontja az 1248/2020. (V. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
