@@ -1,20 +1,20 @@
-## 1. § E rendelet alkalmazásában
+## 1. §[^1] E rendelet alkalmazásában
 
-1. felderítő gyűjtés: szakmai közintézmények vagy egyéb, engedéllyel rendelkezők által, egyszerű kézi eszközökkel végzett, a működési területével érintett nemzeti park igazgatósággal előzetesen egyeztetett olyan jellegű tevékenység, amely új előfordulási helyek megtalálására, ezen keresztül újabb előfordulási helyek védetté nyilvánításának megalapozására irányul vagy irányulhat;
+1. felderítő gyűjtés: az e rendelet 1. és 2. mellékletében meghatározott területeken kívüli, valamint az Aggtelek–Rudabánya–Szendrői hegység földtani alapszelvényeinek védetté nyilvánításáról szóló 13/1991. (XII. 24.) KTM rendelet mellékletében meghatározott területeken kívüli országos jelentőségű védett természeti területen szakmai közintézmények vagy egyéb, engedéllyel rendelkezők által egyszerű kézi eszközökkel végzett, a működési területével érintett nemzeti park igazgatósággal előzetesen egyeztetett tevékenység, amely ásvány, kőzet vagy ősmaradvány új előfordulási helyének megtalálására irányul;
 
-2. feltárás: a földtani alapszelvények és földtani képződmények természetes vagy mesterséges, felszíni vagy felszín alatti előfordulási helye;
+2. feltárás: földtani alapszelvény vagy földtani képződmény természetes vagy mesterséges, felszíni vagy felszín alatti előfordulási helye;
 
-3. földtani alapszelvény (alapszelvény): olyan természetes vagy mesterséges kőzetfeltárás, ami valamilyen kőzetrétegtani egység, időrétegtani egység, vagy más földtani jelenség szakirodalomban feldolgozott, a földtani alapszelvények meghatározásáért felelős földtudományi szakmai fórum által kijelölt és számon tartott típusos előfordulási helye, etalonja, amihez más területek földtani képződményeit viszonyítani lehet azok tudományos megítélése érdekében;
+3. földtani alapszelvény (alapszelvény): a földtani alapszelvények meghatározásáért felelős tudományos fórum által kijelölt és nyilvántartott természetes vagy mesterségesen kialakított kőzetelőfordulás, amely valamely kőzetrétegtani egység, időrétegtani egység, vagy más földtani jelenség típusos előfordulási helye, etalonja, amihez tudományos megítélésük érdekében más területek földtani képződményeit viszonyítani lehet;
 
-4. földtani képződmény: kőzetféleség, rétegtani egység, tektonikai elem, felszínforma, vagy más, a feltárásban megjelenő földtani, felszínalaktani jelenség;
+4. földtani képződmény: kőzetféleség, rétegtani egység, tektonikai elem, felszínforma, vagy más földtani, felszínalaktani jelenség;
 
 5. gyűjtés: ásványok, kőzetek és ősmaradványok nem kereskedelmi célú, korlátozott mennyiségű begyűjtése érdekében, egyszerű kézi eszközökkel végzett tevékenység;
 
-6. kutatás: földtudományi ismeretek bővülését szolgáló, a természetvédelmi hatóság engedélyével történő, földtani alapszelvények esetében a kijelölésüket végző földtudományi szakmai fórummal egyeztetett tevékenység, amely a felszín vagy a feltárás számottevő mértékű megbontásával, a terület jelentősebb zavarásával jár;
+6. kutatás: földtudományi ismeretek bővülését szolgáló, a természetvédelmi hatóság engedélyével történő, földtani alapszelvények esetében a meghatározásukért felelős tudományos fórummal egyeztetett tevékenység, amely a felszín vagy a feltárás számottevő mértékű megbontásával, a terület jelentősebb zavarásával jár;
 
-7. összeszedés: ásvány-, ősmaradvány- és kőzetpéldányokra irányuló, segédeszköz nélkül folytatott tevékenység;
+7. összeszedés: ásvány-, ősmaradvány- és kőzetpéldányok felszedésére irányuló, segédeszköz nélkül folytatott tevékenység;
 
-8. próbagyűjtés: szakmai közintézmények vagy egyéb, engedéllyel rendelkezők által egy későbbi földtudományi célú kutatás tudományos megalapozása, megtervezése érdekében, kézi eszközökkel végrehajtott, a működési területével érintett nemzeti park igazgatósággal előzetesen egyeztetett tevékenység;
+8. próbagyűjtés: e rendeletben, valamint az Aggtelek-Rudabánya-Szendrői hegység földtani alapszelvényeinek védetté nyilvánításáról szóló 13/1991. (XII. 24.) KTM rendelet mellékletében meghatározott területeken szakmai közintézmények vagy egyéb, engedéllyel rendelkezők által egy későbbi földtudományi célú kutatás tudományos megalapozása, megtervezése érdekében, kézi eszközökkel végzett, a működési területével érintett nemzeti park igazgatósággal előzetesen egyeztetett tevékenység;
 
 9. szakmai közintézmény: alaptevékenységként földtudományi tárgyú szakmai kutatással, oktatással, ismeretterjesztéssel, értékmegőrzéssel foglalkozó
 
@@ -23,3 +23,5 @@ a) állami vagy önkormányzati fenntartású kutatóhely, oktatási intézmény
 b) köztestület; vagy
 
 c) egyesület.
+
+[^1]: Az 1. § a 16/2020. (V. 12.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.

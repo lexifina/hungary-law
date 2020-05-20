@@ -58,7 +58,11 @@
 
 ## 3.1.3.6. Nem szükséges a természetvédelmi hatóság gyűjtésre vonatkozó engedélyének beszerzése, amennyiben az 1. § 9. pontjában meghatározott szakmai közintézmény a felszínt csekély mértékben, egyszerű kézi eszközzel megbontó módon, oktatási demonstráció, az 1. § 8. pontjában meghatározott próbagyűjtés céljából vagy annak részeként, a 3.1.3.8. pontban foglaltak betartásával végez tevékenységet.
 
-## 3.1.3.7. Nem szükséges a természetvédelmi hatóság gyűjtésre vonatkozó engedélyének beszerzése, amennyiben az 1. § 9. pontjában meghatározott szakmai közintézmény vagy magánszemély a felszín megbontása nélkül történő, az 1. § 5. pontja szerinti gyűjtést, továbbá kipergett, törmelékbe került kőzetdarabok 1. § 7. pontja szerinti összeszedését a 3.1.3.8. pontban foglaltak betartásával végzi.
+## 3.1.3.7. Nem szükséges a természetvédelmi hatóság gyűjtésre vonatkozó engedélyének beszerzése, amennyiben
+
+## az 1. § 9. pontjában meghatározott szakmai közintézmény vagy magánszemély a felszín megbontása nélkül történő,
+
+## az 1. § 5. pontja szerinti gyűjtést a 3.1.3.8. pontban foglaltak betartásával végzi.
 
 ## 3.1.3.8. A 3.1.3.5., 3.1.3.6. és 3.1.3.7. pont szerinti tevékenység megkezdése előtt egyeztetni kell az igazgatósággal. Az egyeztetés során az igazgatóság tájékoztatást ad az adott területekre vonatkozó aktuális természetvédelmi célú korlátozásokról.
 
@@ -88,24 +92,120 @@
 
 ## 3.2.1. Erdők kezelése
 
-## Közelítés, fadöntés, készletezés csak olyan módon végezhető, hogy az az 1. pontban meghatározott természetvédelmi célkitűzések megvalósulását ne befolyásolja károsan.
+## Fadöntés, fakitermelés, közelítés, készletezés csak olyan módon végezhető, hogy az az 1. pontban meghatározott természetvédelmi célkitűzések megvalósulását ne befolyásolja károsan.
 
-## B) Egyes, az 1. vagy a 2. mellékletben meghatározott területekre vonatkozó speciális rész
+## B) Egyes, az 1. vagy a 2. mellékletben meghatározott, továbbá az Aggtelek-Rudabánya-Szendrői hegység földtani alapszelvényeinek védetté nyilvánításáról szóló 13/1991. (XII. 24.) KTM rendeletben meghatározott területekre vonatkozó speciális rész
 
-## 1. A Mórágyi kőfejtő földtani alapszelvény természeti emlék esetében:
+## 1. Mórágyi kőfejtő földtani alapszelvény természeti emlék
 
-## A területhasználat jelenlegi módja (szabadtéri színpad) vagy annak esetleges megváltoztatása az Általános rész 1. pontjában meghatározott természetvédelmi célkitűzésekkel összhangban történhet, utóbbi esetben az igazgatósággal előzetesen egyeztetett módon.
+## A területhasználat jelenlegi módja (szabadtéri színpad) vagy annak esetleges megváltoztatása az Általános rész 1. pontjában meghatározott természetvédelmi célkitűzésekkel összhangban történhet, utóbbi esetben a működési területével érintett nemzeti park igazgatósággal előzetesen egyeztetett módon.
 
-## 2. A Nándor-magaslat nyugati földtani alapszelvény természeti emlék és a Soproni Tájvédelmi Körzet Nándor-magaslat nyugati földtani alapszelvény természeti emlék környezete néven meghatározott részterülete esetében:
+## 2. Soproni Tájvédelmi Körzet Nándor-magaslat nyugati földtani alapszelvény néven meghatározott részterülete Az Általános rész előírásainak érvényesítése során biztosítani kell a Geodinamikai Obszervatórium alapfunkcióinak ellátásához szükséges rendszeres tevékenységek zavartalan ellátását.
 
-## Az Általános rész előírásainak érvényesítése során biztosítani kell a Geodinamikai Obszervatórium alapfunkcióinak ellátásához szükséges rendszeres tevékenységek zavartalan ellátását.
+## 3. Paksi löszfal földtani alapszelvény természeti emlék
 
-## 3. A Paksi löszfal földtani alapszelvény természeti emlék esetében:
+## 3.1. A fokozottan védett haragos sikló (Coluber caspius) élőhelyéül szolgáló pusztafüves lejtősztyepp és erdős sztyepprét foltok fenntartását a cserjék részleges, továbbá az akác teljes eltávolításával biztosítja a működési területével érintett nemzeti park igazgatóság.
 
-## 3.1. A fokozottan védett haragos sikló (Coluber caspius) élőhelyéül szolgáló pusztafüves lejtősztyepp és erdőssztyepprét foltok fenntartását a cserjék részleges, továbbá az akác teljes eltávolításával biztosítja a természetvédelmi kezelésért felelős Duna-Dráva Nemzeti Park Igazgatóság (a továbbiakban: DDNPI).
+## 3.2. A rekultiváció keretében kialakított rézsűk és teraszok nyílt jellegét a természetes visszagyepesedés feltételeinek biztosítása érdekében a 3.1. pontban említett beavatkozásokkal tartja fenn a működési területével érintett nemzeti park igazgatóság.
 
-## 3.2. A rekultiváció keretében kialakított rézsűk és teraszok nyílt jellegét a természetes visszagyepesedés feltételeinek biztosítása érdekében a 3.1. pontban említett beavatkozásokkal tartja fenn a DDNPI.
+## 4. Borzavári Templom-domb földtani alapszelvénye természeti emlék
 
-4. melléklet az 55/2015. (IX. 18.) FM rendelethez[^2]
+## 4.1. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
 
-[^2]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## 4.2. Az erózióveszély kiküszöbölése és a feltárás stabilitásának megőrzése érdekében fa vagy cserje eltávolítására irányuló tevékenység tervezett időpontját megelőző legalább 5 napon belül a tervezett tevékenységről tájékoztatni kell a működési területével érintett nemzeti park igazgatóságot.
+
+## 4.3. A lágyszárú inváziós fajok eltávolítása a működési területével érintett nemzeti park igazgatósággal előzetesen egyeztetett módon történhet.
+
+## 4.4. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 5. Borzavári úti kőfejtő földtani alapszelvény természeti emlék
+
+## 5.1. Az alapszelvény felső része felárkolódásának megakadályozása érdekében a működési területével érintett nemzeti park igazgatóság gondoskodik a középső bányaudvar pereme fölötti vízelvezető árok rendszeres, évente legalább egy alkalommal történő karbantartásáról és tisztításáról.
+
+## 5.2. Az erózióveszély kiküszöbölése és a feltárás stabilitásának megőrzése érdekében a bányaudvar felső peremvonalától Ny-i irányban mért 25 méter szélességű sávon belül az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá.
+
+## 5.3. A bányaudvarban és a nyugati oldal meddőhányóin néhány idősebb élő faegyedet az árnyékhatás miatt meg kell hagyni.
+
+## 5.4. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
+
+## 5.5. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 5.6. A földtani alapszelvénynek a területtel határos közútról történő megközelítését szolgáló, a területen belül létesítendő infrastruktúra létesítését egyeztetni kell a közút fenntartójával.
+
+## 6. Hosszú-árok és Tankcsapda földtani alapszelvények természeti emlék, a Lókúti legelő földtani alapszelvény természeti emlék
+
+## 6.1. Az alapszelvény árok állékonyságának és a kőzetrétegek stabilitásának megőrzése, az alapszelvény láthatóságának biztosítása, továbbá az erózióveszély kiküszöbölése érdekében az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá.
+
+## 6.2. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 6.3. A feltárásban és annak közvetlen szomszédságában járművel közlekedni tilos.
+
+## 6.4. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
+
+## 7. Köves-tábla földtani alapszelvény természeti emlék
+
+## 7.1. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
+
+## 7.2. Az erózióveszély kiküszöbölése és a feltárás stabilitásának megőrzése érdekében a rézsű felső peremvonalától K-i irányban mért 15 m szélességű sávon belül az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá.
+
+## 7.3. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 8. Pintér-hegyi földtani alapszelvény természeti emlék
+
+## 8.1. Az alapszelvény területéről a törmelékanyag rendszeres (évente legalább egy alkalom) eltávolításáról a működési területével érintett nemzeti park igazgatóság gondoskodik.
+
+## 8.2. A működési területével érintett nemzeti park igazgatóság a szelvény felső vége fölött egy keresztárok kialakításával gondoskodik a csapadékvíz elvezetéséről. A vízelvezető árok rendszeres (évente legalább egy alkalommal történő) karbantartását és tisztítását a működési területével érintett nemzeti park igazgatóság végzi el.
+
+## 8.3. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 8.4. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
+
+## 9. Szappan-völgyi kőfejtő földtani alapszelvény természeti emlék
+
+## 9.1. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
+
+## 9.2. Az erózióveszély kiküszöbölése és a feltárás stabilitásának megőrzése érdekében a kőfejtő udvar felső peremvonalától Ny-i irányban mért 25 méter szélességű sávon belül az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá.
+
+## 9.3. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 10. Szilas-árok földtani alapszelvénye természeti emlék
+
+## 10.1. A területre csak természetvédelmi kezelés céljából lehet gépjárművel behajtani.
+
+## 10.2. Az erózióveszély kiküszöbölése és a feltárás stabilitásának megőrzése érdekében a sziklakibúvások felső peremvonala és a terület határa között az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá.
+
+## 10.3. A működési területével érintett nemzeti park igazgatóság a szelvény felső vége fölött egy keresztárok kialakításával gondoskodik a csapadékvíz elvezetéséről. A létesítést követően a működési területével érintett nemzeti park igazgatóság gondoskodik a vízelvezető árok rendszeres (évente legalább egy alkalommal történő) karbantartásáról és tisztításáról.
+
+## 10.4. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 11. Tilos-erdei földtani alapszelvény természeti emlék
+
+## 11.1. Az erózióveszély kiküszöbölése, a törmelék- és talajmegkötés, és a feltárás stabilitásának megőrzése érdekében az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá. 11.2. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 12. Zsidó-hegyi útbevágás földtani alapszelvény természeti emlék
+
+## 12.1. Az alapszelvény felső része felárkolódásának megakadályozása érdekében az alapszelvény pereme fölött egy oldalirányú vízelvezető árkot kell kialakítani, amelynek rendszeres (évente legalább egy alkalommal történő) karbantartásáról és tisztításáról a működési területével érintett nemzeti park igazgatóság gondoskodik.
+
+## 12.2. Az erózióveszély kiküszöbölése és a feltárás stabilitásának megőrzése érdekében az útbevágás felső peremvonalától D-i irányban mért 30 m szélességű sávon belül az Országos Erdőállomány Adattárban erdőként nyilvántartott területen fakitermelés úgy végezhető, hogy fakitermelés miatt a faállomány záródása nem csökkenhet 50% alá.
+
+## 12.3. Tilos a területen olyan sport- és szabadidős tevékenységet folytatni, amely a feltárás közvetlen károsításával jár.
+
+## 13. Az 1. és 2. mellékletben meghatározott, az Aggteleki Nemzeti Park Igazgatóság működési területén lévő területek, valamint a 13/1991. (XII. 24.) KTM rendelet mellékletében meghatározott területek A növényzetnek az A) Általános rész 1.1. és 1.3. pontjában meghatározott természetvédelmi célkitűzések érdekében történő eltávolítása csak mechanikus módszerekkel történhet a vegetációs időszakon és a területen fészkelő védett, fokozottan védett madárfaj fészkelési időszakán kívül. Amennyiben a növényzet eltávolítását nem a működési területével érintett nemzeti park igazgatóság végzi vagy végezteti el, a tevékenységet a beavatkozás tervezett időpontja előtt legalább 5 nappal be kell jelenteni a működési területével érintett nemzeti park igazgatóságnak. A működési területével érintett nemzeti park igazgatóság tájékoztatja a bejelentőt a tevékenység elvégzésének természetvédelmi feltételeiről, korlátairól, illetve amennyiben ez a területen található természeti értékek megőrzése érdekében szükséges, a Természetvédelmi Őrszolgálat útján biztosítja a tevékenység helyszíni természetvédelmi szakmai felügyeletét.
+
+## 14. Az Erdőbényei fás legelő Természetvédelmi Terület Erdőbényei fás legelő földtani képződmény néven meghatározott részterülete
+
+## 14.1. Személyenként, naponta legfeljebb összesen 2 kg kőzet vagy ásvány nem kereskedelmi célra történő gyűjtéséhez nem szükséges a természetvédelmi hatóság engedélye, amennyiben a gyűjtést megelőzően legalább 5 nappal megtörténik annak bejelentése a működési területével érintett nemzeti park igazgatóságnak. Ettől eltérő feltételekkel csak a természetvédelmi hatóság engedélyével végezhető gyűjtés. A természetvédelmi hatóság engedélyének beszerzése nem ad felmentést az esetlegesen szükséges egyéb engedélyek beszerzésének kötelezettsége alól.
+
+## 14.2. Közintézmények oktatási, kutatási, kiállítási célra az előző pontban meghatározott mértéket meghaladó mennyiségű kőzetet vagy ásványt is begyűjthetnek a természetvédelmi hatóság engedélyének beszerzése nélkül. A tevékenység előzetes bejelentésén kívül a működésével érintett nemzeti park igazgatóság utólagos tájékoztatása is szükséges a gyűjtés körülményeiről és a begyűjtött kőzetről vagy ásványról.
+
+## 15. Az Aggteleki Nemzeti Park Kettős-bánya földtani alapszelvény néven meghatározott részterülete
+
+## 15.1. A sziklafalak csak klasszikus gumitalpú cipővel mászhatók, felső vagy alsó kötélbiztosításhoz szükséges eszközökön kívül egyéb technikai eszközök nem használhatók a sziklamászáshoz. A technikai mászás tilos.
+
+## 15.2. Tilos a területen táborozni, bivakolni és tüzet rakni.
+
+## 16. A Zempléni Tájvédelmi Körzet Telkibányai perlitfolyás néven meghatározott részterülete A terület kezelése során elsősorban a nem őshonos, tájidegen fafajok egyedeinek eltávolítását kell előtérbe helyezni, amelyhez mechanikus módszereket kell alkalmazni.
+
+4. melléklet az 55/2015. (IX. 18.) FM rendelethez[^7]
+
+[^7]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
