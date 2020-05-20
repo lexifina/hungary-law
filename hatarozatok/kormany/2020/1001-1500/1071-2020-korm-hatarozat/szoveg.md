@@ -54,8 +54,6 @@ belügyminiszter
 
 Határidő: 2020. március 20.
 
-8. egyetért azzal, hogy az 1–7. pont szerinti fejlesztések megvalósítása érdekében együttműködési megállapodás kerüljön megkötésre Göd Város Önkormányzatával.
+8.[^1]
 
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2020. március 20.
+[^1]: A 8. pont az 1248/2020. (V. 20.) Korm. határozat 4. pontja visszavonta.
