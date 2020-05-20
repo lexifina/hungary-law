@@ -1,0 +1,9 @@
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 3. pontjában,
+
+a 2. alcím tekintetében a természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 3. és 13. pontjában
+
+kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 10. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
