@@ -1,6 +1,6 @@
-## 60. §[^39]
+## 60. §[^65]
 
-1. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^40]
+1. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^66]
 
-[^39]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: Az 1. melléklet a 90/2018. (IV. 25.) Korm. rendelet 9. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^65]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: Az 1. melléklet a 90/2018. (IV. 25.) Korm. rendelet 9. § b) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.

@@ -1,6 +1,10 @@
 ## 17. A településképi bejelentési eljárás
 
-34. § (1) A hatóság településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytat le az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek nem minősülő azon építési tevékenységek tekintetében, amelyek megkezdése, és azon építmények rendeltetésének megváltoztatása tekintetében, amelyek rendeltetésének megváltoztatása a 37. §-ban foglaltak szerint bejelentési eljárás lefolytatásához kötött.
+34. § (1)[^40] A hatóság településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytat le
+
+a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek nem minősülő azon építési tevékenységek tekintetében, amelyek megkezdése a 37. § a) pontjának hatálya alá tartozik, és
+
+b) az építmények rendeltetésének megváltoztatása esetében, ha a rendeltetésmódosítás a 37. § b) pontjának hatálya alá tartozik, de nem tartozik az Étv. 57/F. §-ának hatálya alá.
 
 (2) A hatóság településképi bejelentési eljárást folytat le a 37. §-ban foglaltak szerint bejelentési eljárás lefolytatásához kötött reklámok és reklámhordozók tekintetében
 
@@ -31,3 +35,5 @@ e) az építési tevékenység elvégzésének, a rendeltetésváltozás megval�
 (7) A KNEB nyilatkozatát a hatóság felhívásának beérkezésétől számított 90 napon belül küldi meg a hatóságnak.
 
 (8) A hatóság nem kéri be a KNEB (6) bekezdés szerinti nyilatkozatát, amennyiben az előzetes szakmai konzultáción készült jegyzőkönyv nyilatkozatot is tartalmaz, és abban szerepel, hogy a kiadott nyilatkozat felhasználható a településképi bejelentés során.
+
+[^40]: A 34. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 8. §-ával megállapított szöveg.

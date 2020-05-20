@@ -24,8 +24,8 @@ ba) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit
 
 bb) az állami főépítészi hatáskörében eljáró Budapest Főváros Kormányhivatalának, és
 
-bc)[^25]
+bc)[^34]
 
 c) elérhetővé teszi hitelesített kép formátumban, az elfogadásról szóló jegyzőkönyvvel együtt a b) pont szerinti szerveknek.
 
-[^25]: A 28. § (8) bekezdés b) pont bc) alpontját a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^34]: A 28. § (8) bekezdés b) pont bc) alpontját a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

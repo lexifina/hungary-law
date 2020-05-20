@@ -12,7 +12,7 @@ a) a területi építészeti,
 
 b) az építészeti,
 
-c)[^5] a cégjelzésekre, üzletjelzésekre, plakátokra, emléktáblákra, egyéb berendezésre és egyéb műszaki berendezésekre vonatkozó,
+c)[^6] a cégjelzésekre, üzletjelzésekre, plakátokra, emléktáblákra, egyéb berendezésre és egyéb műszaki berendezésekre vonatkozó,
 
 d) a sajátos építményfajtákra, műtárgyakra vonatkozó és
 
@@ -22,7 +22,7 @@ e) a közterületek alakítására vonatkozó
 
 (2) A kiemelt településkép-védelmi környezetben lévő telken az egyedi településképi követelményekkel, a IV. fejezetben és a 2. mellékletben meghatározott beépítési szabályokkal összhangban tartható fenn építmény, valamint végezhető építési és egyéb tevékenység.
 
-(3)[^6] A kiemelt településkép-védelmi környezetben cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés önállóan vagy építményen az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon tevékenység.
+(3)[^7] A kiemelt településkép-védelmi környezetben cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés önállóan vagy építményen az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon tevékenység.
 
 (4) A kiemelt településkép-védelmi környezetben lévő telken sajátos építményfajta, műtárgy az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon építési és egyéb tevékenység.
 
@@ -34,9 +34,10 @@ e) a közterületek alakítására vonatkozó
 
 (8) Építészeti együttes részét képező, vagy az 1. mellékletben utcaképi védelemmel jelölt, épület közterületi traktusát, illetve a közterületre néző homlokzatát eredeti formájában kell megőrizni, illetve azon építési tevékenység egyszerűsített építéstörténeti tudományos dokumentáció alapján végezhető.
 
-(9) Az egyszerűsített építéstörténeti tudományos dokumentáció tartalmát a 3. melléklet határozza meg. Az egyszerűsített építéstörténeti tudományos dokumentációt okleveles építészmérnök vagy okleveles művészettörténész készíti.
+(9)[^8] Az egyszerűsített építéstörténeti tudományos dokumentáció tartalmát a 3. melléklet határozza meg. Az egyszerűsített építéstörténeti tudományos dokumentáció – a 30. § (2) bekezdése szerinti településkép-védelmi konzultáción meghatározott és kizárólag az adott építési tevékenységgel összefüggésben lévő tartalommal – építményrészre, berendezésre is kidolgozható. Az egyszerűsített építéstörténeti tudományos dokumentációt okleveles építészmérnök vagy okleveles művészettörténész készíti. A (7) vagy (8) bekezdés szerinti építési tevékenység során a már elkészült egyszerűsített építéstörténeti tudományos dokumentáció felhasználható, az adott feladat tekintetében kiegészíthető.
 
 (10) Az egyedi településképi követelmények a kiemelt településkép-védelmi környezetben lévő nyilvántartott műemléki értékekre, műemléki környezetre, műemléki jelentőségű területre és a fővárosi helyi egyedi és területi védett értékekre is kiterjednek.
 
-[^5]: A 6. § (1) bekezdés c) pontja a 85/2019. (IV. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^6]: A 6. § (3) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdés c) pontja a 85/2019. (IV. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § 9. pontját a 197/2020. (V. 12.) Korm. rendelet 2. §-a iktatta be.

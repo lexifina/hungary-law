@@ -1,8 +1,8 @@
-43. § (1) A támogatás vissza nem térítendő formában, a központi költségvetés fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter irányítása alá tartozó fejezetben szereplő előirányzat terhére nyújtható.
+43. § (1)[^45] A támogatás vissza nem térítendő formában, a kulturális örökség védelméért felelős miniszter irányítása alá tartozó fejezetben szereplő előirányzat terhére nyújtható.
 
-(2) A támogatások az államháztartásról szóló 2011. évi CXCV. törvény 49. §-a szerinti lebonyolításával kapcsolatos feladatok ellátására lebonyolító szervként az NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Kezelő) kerül kijelölésre. A támogatási kérelmet javaslatával együtt a Kezelő a 44. § (3) bekezdésében meghatározott döntéshozó részére felterjeszti.
+(2)[^46] A támogatásokkal összefüggő, az államháztartásról szóló 2011. évi CXCV. törvény 6/B. § (3) bekezdése szerinti feladatok tekintetében a kulturális örökség védelméért felelős miniszter által kijelölt kezelő szervként a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Kezelő) kerül kijelölésre. A támogatási kérelmet javaslatával együtt a Kezelő a 44. § (3) bekezdésében meghatározott döntéshozó részére felterjeszti.
 
-(3) A Kezelő a (2) bekezdésben rögzített feladatait az (1) bekezdésben meghatározott központi költségvetés fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter irányítása alá tartozó fejezetben szereplő előirányzat terhére látja el, azzal, hogy a Kezelő (2) bekezdésben meghatározott feladatainak ellátására az (1) bekezdés szerinti előirányzat legfeljebb 10%-a használható fel.
+(3)[^47] A Kezelő a (2) bekezdésben rögzített feladatait a kulturális örökség védelméért felelős miniszter irányítása alá tartozó fejezetben szereplő kulturális örökségvédelmi célú előirányzat terhére látja el, azzal, hogy a Kezelő (2) bekezdésben meghatározott feladatainak ellátására az (1) bekezdés szerinti előirányzat mértékének legfeljebb 5%-a használható fel.
 
 (4) A támogatás megítélését
 
@@ -19,3 +19,7 @@ a) a (4) bekezdés a) pontja szerint megállapított sorrend,
 b) a beruházást sürgető körülmény fennállása,
 
 c) a kiemelt településkép-védelmi környezetben folyó, vagy tervezett más örökségvédelmi beavatkozással való összehangolás.
+
+[^45]: A 43. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^46]: A 43. § (2) bekezdése a 197/2020. (V. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^47]: A 43. § (3) bekezdése a 197/2020. (V. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
