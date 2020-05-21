@@ -1,6 +1,6 @@
 ## A kibocsátási engedély tartalmi követelményei
 
-## A kibocsátási engedély az alábbiakat tartalmazza:[^162]
+## A kibocsátási engedély az alábbiakat tartalmazza:[^172]
 
 ## a) ÜHG engedélyazonosító;
 
@@ -8,17 +8,17 @@
 
 ## c) a létesítmény azonosító adatai;
 
-## d)[^163] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
+## d)[^173] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
 
 ## e) a villamosenergia- és hőtermelés során használt technológia;
 
-## f)[^164] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
+## f)[^174] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
 
 ## g) a környezethasználat feltételeit megállapító, alapul szolgáló engedély megnevezése;
 
 ## h) a létesítményben folytatott tevékenység leírása;
 
-## i)[^165] az engedélyezett kibocsátási kategória (A; B; C);
+## i)[^175] az engedélyezett kibocsátási kategória (A; B; C);
 
 ## j) az engedélyezett üvegházhatású gázkibocsátások nyomon követésére jóváhagyott általános és létesítményspecifikus módszertan és intézkedések (jóváhagyott nyomon követési terv):
 
@@ -36,15 +36,15 @@
 
 ## jg) az átadott CO2 mennyiségének meghatározása (ha van ilyen),
 
-## jh)[^166] a jóváhagyott adatkezelő és adatminőség-ellenőrzési tevékenység;
+## jh)[^176] a jóváhagyott adatkezelő és adatminőség-ellenőrzési tevékenység;
 
 ## k) az eseti adatszolgáltatási kötelezettség megállapítása;
 
 ## l) az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év április 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni;
 
-## m)[^167] a létesítmény üzemmódjának megnevezése tartalék, készenléti, vagy szezonális üzemmód esetén.
+## m)[^177] a létesítmény üzemmódjának megnevezése tartalék, készenléti, vagy szezonális üzemmód esetén.
 
-4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^168]
+4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^178]
 
 1. A számlavezetési díj mértéke és alapja üzemeltetői számla esetében
 
@@ -76,10 +76,10 @@
 
 Az üzemeltetői számla esetében a díjfizetés alapja a tárgyévre a létesítmény részére térítésmentesen kiosztott kibocsátási egység mennyisége [kibocsátási egységmennyiség (db)/év] létesítményenként, a nemzeti kiosztási táblával összhangban.
 
-[^162]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
-[^163]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^164]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^165]: A 3. melléklet i) pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^166]: A 3. melléklet j) pont jh) alpontja a 394/2016. (XII. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^167]: A 3. melléklet m) pontját a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^168]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése, a 131/2015. (V. 27.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^172]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^173]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^174]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^175]: A 3. melléklet i) pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^176]: A 3. melléklet j) pont jh) alpontja a 394/2016. (XII. 5.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^177]: A 3. melléklet m) pontját a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^178]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése, a 131/2015. (V. 27.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.

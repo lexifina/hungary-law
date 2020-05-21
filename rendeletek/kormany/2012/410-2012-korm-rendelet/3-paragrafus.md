@@ -12,7 +12,7 @@ cb) az a) pontban hivatkozott ténylegesen jelentős változáson átesett léte
 
 cc) korábban a kiosztandó kibocsátási egységmennyiséget módosító jelentős változás következett be, és azóta nem következett be olyan újabb változás, amely ismét szükségessé tenné az egységek legutóbb elfogadott számának módosítását, akkor ennek tényéről
 
-## elektronikus jelentést nyújt be az iparügyekért felelős miniszternek (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
+elektronikus jelentést nyújt be az iparügyekért felelős miniszternek (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
 
 (1a)[^43] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
 
@@ -38,7 +38,7 @@ a) a létesítmény részére utoljára kiosztásra került kibocsátási egysé
 
 b) ha a létesítményre vonatkozóan jelentős változás miatti adatszolgáltatás került benyújtásra, és emiatt a létesítmény térítésmentes egységkiosztásban nem részesült, úgy az utolsó alkalommal a miniszterhez benyújtott változásbejelentést követően a miniszter által jóváhagyott adatok
 
-## az irányadóak.
+az irányadóak.
 
 (5) Az (1) bekezdés szerinti bejelentés azon Ügkr. tv. 2. § 29. pont a) és c) alpontja szerinti új belépő létesítmények számára is kötelező, amelyeknek e rendelet 11. § (1) bekezdésének megfelelően a miniszterhez benyújtott kérelme még nem került elbírálásra.
 

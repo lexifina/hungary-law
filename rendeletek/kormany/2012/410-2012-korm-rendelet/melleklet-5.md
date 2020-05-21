@@ -1,6 +1,6 @@
-5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^169]
+5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^179]
 
-## A kibocsátások nyomon követésére és jelentésére vonatkozó szabályok
+A kibocsátások nyomon követésére és jelentésére vonatkozó szabályok
 
 Egyes tüzelőanyagok országspecifikus értékei
 
@@ -30,13 +30,13 @@ A) Ha a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus fűt
 
 | 10 | Biogáz | 36 | 22,7a | (54,6)c |
 
-a A fűtőérték dimenziója nem MJ/kg, hanem MJ/m3 15 °C-ra vonatkoztatva 1013,25 hPa nyomáson.
+## a A fűtőérték dimenziója nem MJ/kg, hanem MJ/m3 15 °C-ra vonatkoztatva 1013,25 hPa nyomáson.
 
-b 0 °C-ra vonatkoztatott érték 35,87 MJ/Nm3 1013,25 hPa nyomáson.
+## b 0 °C-ra vonatkoztatott érték 35,87 MJ/Nm3 1013,25 hPa nyomáson.
 
-c A tiszta biomassza tüzelőanyagokat nulla kibocsátási tényezővel kell figyelembe venni.
+## c A tiszta biomassza tüzelőanyagokat nulla kibocsátási tényezővel kell figyelembe venni.
 
-B) Amennyiben a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus oxidációs tényező alkalmazását, az alábbi 2. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál.
+## B) Amennyiben a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifikus oxidációs tényező alkalmazását, az alábbi 2. táblázatban szereplő értékeket kell figyelembe venni a kibocsátások számításánál.
 
 2. táblázat: Országspecifikus tüzelőanyag oxidációs tényezők
 
@@ -50,4 +50,4 @@ B) Amennyiben a 601/2012/EU bizottsági rendelet lehetővé teszi országspecifi
 
 | 4 | Gáz | 1 |
 
-[^169]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^179]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

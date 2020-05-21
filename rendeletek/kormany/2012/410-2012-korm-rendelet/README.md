@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-410-20-
 | 2019-10-23 | 2012-410-20-22.19 | 131/2015. (V. 27.) Korm. rendelet |
 | 2019-10-31 | 2012-410-20-22.20 | 236/2019. (X. 15.) Korm. rendelet |
 | 2020-01-01 | 2012-410-20-22.21 | 236/2019. (X. 15.) Korm. rendelet |
+| 2020-05-21 | 2012-410-20-22.22 | 199/2020. (V. 13.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 1/A. §[^16] Az üzemeltető és a légi jármű üzembentartó a tárgyévet követő évben benyújtandó kibocsátási jelentése és tonnakilométer-adatokat tartalmazó jelentésének hitelesítésére – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről és a hitelesítők akkreditálásáról szóló 2018/2067/EU bizottsági végrehajtási rendelet 77. cikke által előírt kötelezettségének való megfelelése biztosítása érdekében – legkésőbb a tárgyév november 15-éig akkreditált hitelesítőt bíz meg.
+## 1/A. §[^16] Az üzemeltető és a légi jármű üzembentartó a tárgyévet követő évben benyújtandó kibocsátási jelentése és tonnakilométer-adatokat tartalmazó jelentésének hitelesítésére – a 2003/87/EK európai parlamenti és tanácsi irányelv és az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről és a hitelesítők akkreditálásáról szóló 2018/2067/EU bizottsági végrehajtási rendelet 77. cikke által előírt kötelezettségének való megfelelése biztosítása érdekében – legkésőbb a tárgyév november 15-éig akkreditált hitelesítőt bíz meg.
 
 2. §[^17] (1) A kibocsátási engedély alapján a létesítmény üzembe helyezhető:
 
@@ -22,7 +22,7 @@ bb)[^24] ha a tevékenységváltozás a már kiadott, a környezethasználat fel
 
 c)[^25] a 3. melléklet j) pont jd) és jh) alpontjában foglalt, a jóváhagyott nyomonkövetési tervben rögzített adatok tervezett megváltozását a változtatás tervezett időpontját megelőző 15 napon belül, vagy az előre nem látható változás miatt a bejelentés alapjául szolgáló esemény bekövetkezésének napját követő 15 napon belül
 
-## bejelenteni a hatóság részére.
+bejelenteni a hatóság részére.
 
 (3a)[^26] Az üzemeltető a (3) bekezdés a)–b) pontjaiban foglalt bejelentéssel egyidejűleg a kibocsátási engedély módosítása iránti kérelmet köteles benyújtani, ha e változás a már kiadott kibocsátási engedély módosítását is szükségessé teszi.
 
@@ -32,7 +32,7 @@ a) a változást követő 15 napon belül,
 
 b)[^28] ha a változás a már kiadott környezethasználat feltételeit megállapító határozat tartalmát is érinti, a változás nyomán kiadott környezethasználat feltételeit megállapító határozat véglegessé válását követő 15 napon belül,
 
-## a hatóság részére bejelenteni.
+a hatóság részére bejelenteni.
 
 (4a)[^29] Az üzemeltető köteles
 
@@ -44,7 +44,7 @@ ba) a változást megelőzően legalább 45 nappal,
 
 bb)[^30] ha a változás a már kiadott környezethasználat feltételeit megállapító határozat tartalmát is érinti, a változás nyomán kiadott környezethasználat feltételeit megállapító határozat véglegessé válását követő 15 napon belül,
 
-## a hatóság részére bejelenteni.
+a hatóság részére bejelenteni.
 
 (5)[^31] Az üzemeltető haladéktalanul köteles a hatóság részére bejelenteni a kibocsátási engedély módosítása iránti kérelem benyújtásával egyidejűleg, ha a kibocsátások a kibocsátási engedélyben előírt, illetve a jóváhagyott adatmeghatározási szintekhez tartozó pontosságnál nagyobb pontossággal határozhatók meg, vagy ha a hitelesítő a kibocsátások pontosabb meghatározására tesz javaslatot.
 
@@ -70,7 +70,7 @@ c) a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a fol
 
 (11b)[^39] Ha a hatóság a hatósági ellenőrzés során jogsértést nem tapasztal, az ellenőrzés lezárásáról feljegyzést készít, és megállapításairól az ellenőrzés lezárásától számított 15 napon belül értesíti az ellenőrzés alá vontat.
 
-[^16]: Az 1/A. §-t a 178/2016. (VII. 1.) Korm. rendelet 2. §-a iktatta be, szövege a 435/2017. (XII. 21.) Korm. rendelet 9. § a) pontja, a 236/2019. (X. 15.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^16]: Az 1/A. §-t a 178/2016. (VII. 1.) Korm. rendelet 2. §-a iktatta be, szövege a 435/2017. (XII. 21.) Korm. rendelet 9. § a) pontja, a 236/2019. (X. 15.) Korm. rendelet 9. § a) pontja, a 199/2020. (V. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^17]: A 2. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^18]: A 2. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 422. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^19]: A 2. § (1) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
