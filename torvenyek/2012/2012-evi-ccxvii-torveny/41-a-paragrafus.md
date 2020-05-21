@@ -9,3 +9,7 @@
 (5)
 
 (6) Amennyiben egy légi jármű üzembentartó összes éves kibocsátása kevesebb, mint 25 000 tonna szén-dioxid, és e kibocsátás meghatározása a 606/2010/EU bizottsági rendelet által jóváhagyott, az Eurocontrol által kifejlesztett eszközzel történt, úgy a légi jármű üzembentartó kibocsátását hitelesítettnek kell tekinteni.
+
+(7) A légi jármű üzembentartó az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülésekről készített nyomonkövetési tervet – a hatóság felhívására – jóváhagyás céljából a hatóság részére megküldi.
+
+(8) A légi jármű üzembentartó a 2019. évi kibocsátására vonatkozóan a 10. § (1a) bekezdése szerinti jelentését – első alkalommal – 2020. május 31-ig a hatóság részére megküldi.

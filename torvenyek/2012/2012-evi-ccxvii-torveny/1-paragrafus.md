@@ -2,9 +2,11 @@
 
 1. § (1) E törvény hatálya kiterjed:
 
-a) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére, és
+a) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére
 
-b) a (2)–(4) bekezdés szerinti kivétellel az 1. mellékletben meghatározott tevékenységekre és az e tevékenységekből származó, az 1. mellékletben felsorolt üvegházhatású gázok kibocsátására.
+b) a (2)–(4) bekezdés szerinti kivétellel az 1. mellékletben meghatározott tevékenységekre és az e tevékenységekből származó, az 1. mellékletben felsorolt üvegházhatású gázok kibocsátására, és
+
+c) az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikkében meghatározott repülésekre és az azokból származó üvegházhatású gázok kibocsátására.
 
 (2) Nem terjed ki a törvény hatálya a kizárólag kutatásra, fejlesztésre és új termékek és folyamatok tesztelésére használt létesítményekre vagy létesítményrészekre, valamint a kizárólag biomasszát használó létesítményekre.
 

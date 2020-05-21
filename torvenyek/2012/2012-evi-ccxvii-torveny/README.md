@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-217-00-00
 | 2019-04-18 | 2019. évi XXVIII. törvény | 2012-217-00-00.23 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2012-217-00-00.24 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2012-217-00-00.25 |
+| 2020-05-21 | 2020. évi XXV. törvény | 2012-217-00-00.26 |

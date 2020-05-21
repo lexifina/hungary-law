@@ -1,6 +1,6 @@
 6. § (1) A légi jármű üzembentartó
 
-a) az 1. melléklet XXII. pontja szerinti tevékenysége során keletkező szén-dioxid kibocsátása, és
+a) az 1. melléklet XXII. pontja szerinti tevékenysége, valamint az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülések során keletkező szén-dioxid kibocsátása, és
 
 b) amennyiben térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, a tonnakilométer adatai
 

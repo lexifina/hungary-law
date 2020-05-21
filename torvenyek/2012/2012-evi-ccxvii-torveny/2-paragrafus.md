@@ -6,7 +6,7 @@
 
 a) az adott légi jármű üzembentartó számára az 1008/2008/EK európai parlamenti és tanácsi rendelet rendelkezéseivel összhangban a tagállam által kiadott érvényes üzembentartási engedéllyel rendelkező légi jármű üzembentartó esetében az engedélyt kiadó tagállam,
 
-b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb,
+b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb, vagy – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 5. cikkében meghatározott tagállam,
 
 2. akkreditált hitelesítő szervezet: a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
 
@@ -52,13 +52,13 @@ b) a fizikai változások által érintett létesítményrész jelentősen magas
 
 19. központi tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
 
-20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
+20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában és – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
 
 21. légiközlekedési kibocsátási egység: az e törvény szerinti kötelezettségek teljesítésére a légi jármű üzembentartó által felhasználható, egy tonna szén-dioxid-egyenérték meghatározott időn belül történő kibocsátását lehetővé tévő forgalomképes vagyoni értékű jog,
 
 22.
 
-23. légiközlekedésnek tulajdonított kibocsátások: az 1. melléklet XXII. pontjában felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik,
+23. légiközlekedésnek tulajdonított kibocsátások: az 1. melléklet XXII. pontjában felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik, továbbá – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikkében meghatározott repülésből származó kibocsátás,
 
 24. létesítmény: minden olyan helyhez kötött műszaki egység, ahol egy vagy több, az 1. melléklet I–XXI. pontjában felsorolt tevékenység vagy bármely más, azzal technológiailag összefüggő tevékenység, valamint az adott telephelyen folytatott tevékenységhez műszakilag kapcsolódó tevékenység folyik, és amely az 1. mellékletben meghatározott üvegházhatású gáz kibocsátását eredményezi vagy arra közvetlenül hatással van,
 

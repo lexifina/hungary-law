@@ -46,7 +46,9 @@ u) az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó r
 
 v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait,
 
-w) a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait
+w) a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait,
+
+x) az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet szerinti repülések üvegházhatású gázkibocsátásának nyomon követésére és jelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
