@@ -1,1 +1,3 @@
-## „(1a) Közműellátási hálózat létesítményei és szerelvényei közterületen, terepszint felett a KNEB által előzetesen meghatározott módon és időtartamra helyezhetők el. A terepszint feletti elhelyezést a KNEB részére be kell jelenteni.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

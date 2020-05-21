@@ -1,7 +1,3 @@
-## 7. § Az R1. 31. §-a a következő e) ponttal egészül ki:
+## 7. §[^8]
 
-## (A KNEB szakmai konzultációt biztosít)
-
-## „e) az egyszerűsített építéstörténeti tudományos dokumentáció tartalmának meghatározása”
-
-## (esetében.)
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

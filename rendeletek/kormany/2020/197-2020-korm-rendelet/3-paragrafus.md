@@ -1,3 +1,3 @@
-## 2. § Az R1. 6. § (9) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(9) Az egyszerűsített építéstörténeti tudományos dokumentáció tartalmát a 3. melléklet határozza meg. Az egyszerűsített építéstörténeti tudományos dokumentáció – a 30. § (2) bekezdése szerinti településkép-védelmi konzultáción meghatározott és kizárólag az adott építési tevékenységgel összefüggésben lévő tartalommal – építményrészre, berendezésre is kidolgozható. Az egyszerűsített építéstörténeti tudományos dokumentációt okleveles építészmérnök vagy okleveles művészettörténész készíti. A (7) vagy (8) bekezdés szerinti építési tevékenység során a már elkészült egyszerűsített építéstörténeti tudományos dokumentáció felhasználható, az adott feladat tekintetében kiegészíthető.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
