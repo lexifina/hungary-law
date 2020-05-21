@@ -26,7 +26,7 @@ d) az adatszolgáltatásban közölt személyi vagy lakcímadatok megegyeznek az
 
 a)[^6]
 
-b)[^7] települési (fővárosi kerületi) önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járt el, a fővárosi és megyei kormányhivatal a Magyar Államkincstárnál vezetett – az eljárt szerv által megjelölt – előirányzat-felhasználási keretszámlájára
+b)[^7] települési (fővárosi kerületi) önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző járt el, a fővárosi és megyei kormányhivatal a Magyar Államkincstárnál vezetett – az eljárt szerv által megjelölt – előirányzat-felhasználási keretszámlájára
 
 átutalással vagy készpénz-átutalási megbízással kell teljesíteni.
 
@@ -34,4 +34,4 @@ b)[^7] települési (fővárosi kerületi) önkormányzat jegyzője, a Főváros
 [^4]: A 4. § (6) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 3. §-ával megállapított szöveg.
 [^5]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
 [^6]: A 4. § (7) bekezdés a) pontját az 58/2016. (XII. 22.) BM rendelet 18. §-a hatályon kívül helyezte.
-[^7]: A 4. § (7) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 23. §-a, a 19/2013. (VII. 23.) KIM rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 4. § (7) bekezdés b) pontja az 54/2012. (XII. 28.) KIM rendelet 23. §-a, a 19/2013. (VII. 23.) KIM rendelet 2. §-a, a 14/2020. (V. 20.) BM rendelet 1. §-a szerint módosított szöveg.
