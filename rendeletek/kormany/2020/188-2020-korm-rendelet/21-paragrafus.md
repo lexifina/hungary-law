@@ -1,3 +1,1 @@
-21. §[^17]
-
-[^17]: A 21. § a 20. § (2) bekezdése alapján 2020. május 22-én lép hatályba.
+21. § A Kormány e rendelet 1–3. §-ának hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.

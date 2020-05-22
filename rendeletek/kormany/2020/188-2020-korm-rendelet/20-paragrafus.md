@@ -1,4 +1,4 @@
-## 19. §[^16]
+## 19. §[^20]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 21. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
 
-[^16]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
