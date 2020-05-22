@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-14-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-21 | 2020-14-20-0A.1 | 14/2020. (V. 20.) BM rendelet |
+| 2020-05-22 | 2020-14-20-0A.2 | 2010: CXXX. törvény |
