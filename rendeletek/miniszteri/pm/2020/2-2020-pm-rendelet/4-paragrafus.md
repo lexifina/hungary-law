@@ -1,0 +1,7 @@
+## 3. § A Rendelet 60. §-a a következő e) ponttal egészül ki:
+
+## (Az 1. mellékletben foglalt táblázat)
+
+## „e) 20. sora, 23. sora az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza”
+
+## (hatálya alá tartozó támogatást tartalmaz.)
