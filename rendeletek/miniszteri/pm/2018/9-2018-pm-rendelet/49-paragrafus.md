@@ -1,3 +1,5 @@
+## 48/F. § Az egyedi támogatásoknak az Atr. 6. melléklete szerinti adatait a közlemény alapján közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel a támogatást nyújtó 2021. február 1-ig továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait.
+
 ## 21. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
 49. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.

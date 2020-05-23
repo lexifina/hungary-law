@@ -82,7 +82,7 @@ a) független szakértő értékelésével alá tudja támasztani, hogy a belát
 
 b) esetén a támogatás nyújtását megelőző három üzleti év legalább egyikében a működési költségek legalább 10%-át kutatásfejlesztési költségek teszik ki;
 
-35a.[^17] integrált településfejlesztési stratégia: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 12. pontja szerinti stratégia,
+35a.[^18] integrált településfejlesztési stratégia: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 12. pontja szerinti stratégia,
 
 36. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat;
 
@@ -154,7 +154,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 70. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
-71.[^18] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
+71.[^19] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
 
 72. szennyezett terület: a 651/2014/EU bizottsági rendelet 2. cikk 121. pontja szerinti terület;
 
@@ -186,11 +186,11 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 86. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-86a.[^19] városfejlesztési alap: a 651/2014/EU bizottsági rendelet 2. cikk 57. pontja szerinti alap,
+86a.[^20] városfejlesztési alap: a 651/2014/EU bizottsági rendelet 2. cikk 57. pontja szerinti alap,
 
-86b.[^20] városfejlesztésialap-kezelő: a 651/2014/EU bizottsági rendelet 2. cikk 58. pontja szerinti alapkezelő,
+86b.[^21] városfejlesztésialap-kezelő: a 651/2014/EU bizottsági rendelet 2. cikk 58. pontja szerinti alapkezelő,
 
-86c.[^21] városfejlesztési projekt: a 651/2014/EU bizottsági rendelet 2. cikk 59. pontja szerinti beruházási projekt,
+86c.[^22] városfejlesztési projekt: a 651/2014/EU bizottsági rendelet 2. cikk 59. pontja szerinti beruházási projekt,
 
 87. végső kedvezményezett: az az első kockázatfinanszírozási célú befektetés időpontjában tőzsdén nem jegyzett kis- és középvállalkozás, amely megfelel az alábbi feltételek legalább egyikének:
 
@@ -210,8 +210,8 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 
 4. mentesített ártér: a folyók és egyéb vízfolyások melletti olyan területek (völgyek), amelyek védelmére elsőrendű árvízvédelmi műnek minősített árvízvédelmi töltés épült.
 
-[^17]: Az 5. § (1) bekezdés 35a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (1) bekezdése iktatta be.
-[^18]: Az 5. § (1) bekezdés 71. pontja a 11/2019. (IX. 4.) PM rendelet 7. § a) pontja szerint módosított szöveg.
-[^19]: Az 5. § (1) bekezdés 86a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
-[^20]: Az 5. § (1) bekezdés 86b. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
-[^21]: Az 5. § (1) bekezdés 86c. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
+[^18]: Az 5. § (1) bekezdés 35a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (1) bekezdése iktatta be.
+[^19]: Az 5. § (1) bekezdés 71. pontja a 11/2019. (IX. 4.) PM rendelet 7. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § (1) bekezdés 86a. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
+[^21]: Az 5. § (1) bekezdés 86b. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.
+[^22]: Az 5. § (1) bekezdés 86c. pontját a 11/2019. (IX. 4.) PM rendelet 2. § (2) bekezdése iktatta be.

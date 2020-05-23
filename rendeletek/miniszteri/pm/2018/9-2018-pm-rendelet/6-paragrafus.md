@@ -18,7 +18,7 @@ b) a 10. § (4) bekezdésében foglaltak figyelembevételével – a 4–6. és 
 
 a) az 1379/2013/EU rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4., 5., 7–9., 12–13., 17–23. alcím szerinti támogatás,
 
-b)[^22] elsődleges mezőgazdasági termeléshez a 4., 7., 8., 11., 21–23. alcím szerinti támogatás,
+b)[^23] elsődleges mezőgazdasági termeléshez a 4., 7., 8., 11., 21–23. alcím szerinti támogatás,
 
 c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4. alcím szerinti támogatás, illetve az 5. alcím szerinti támogatás, ha
 
@@ -32,7 +32,7 @@ e) import áru helyett hazai áru használatától függővé tett támogatás,
 
 f) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsértését eredményezi,
 
-g)[^23] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
+g)[^24] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
 
 (5) A 8–10., 14. alcím szerinti támogatás kis- és középvállalkozás vagy a támogatást kis- és középvállalkozásnak továbbadó vállalkozás részére nyújtható.
 
@@ -52,5 +52,5 @@ g)[^23] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat 
 
 (13) Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
-[^22]: A 6. § (4) bekezdés b) pontja a 11/2019. (IX. 4.) PM rendelet 7. § b) pontja szerint módosított szöveg.
-[^23]: A 6. § (4) bekezdés g) pontját a 11/2019. (IX. 4.) PM rendelet 3. §-a iktatta be.
+[^23]: A 6. § (4) bekezdés b) pontja a 11/2019. (IX. 4.) PM rendelet 7. § b) pontja szerint módosított szöveg.
+[^24]: A 6. § (4) bekezdés g) pontját a 11/2019. (IX. 4.) PM rendelet 3. §-a iktatta be.

@@ -44,6 +44,6 @@ e) meghaladja az a)–d) alpont szerinti összeg 150%-át, ha a kutatás-fejlesz
 
 17. szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetében vállalkozásonként és beruházási projektenként meghaladja a 20 millió eurónak megfelelő forintösszeget.
 
-(2)[^24] A regionális városfejlesztési támogatás esetén előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget, amelyet az Európai Bizottság elektronikus bejelentőrendszerén keresztül kell megtenni.
+(2)[^25] A regionális városfejlesztési támogatás esetén előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget, amelyet az Európai Bizottság elektronikus bejelentőrendszerén keresztül kell megtenni.
 
-[^24]: A 7. § (2) bekezdését a 11/2019. (IX. 4.) PM rendelet 4. §-a iktatta be.
+[^25]: A 7. § (2) bekezdését a 11/2019. (IX. 4.) PM rendelet 4. §-a iktatta be.
