@@ -30,4 +30,6 @@ bc) évi 800 ezer forint, ha a magánszemély munkaviszonya a magánszemély hal
 
 (3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 1. § (4) bekezdés a) pontjától eltérően nem terheli adókötelezettség a Széchenyi Pihenő Kártya kártyaszámlájára utalt béren kívüli juttatásnak minősülő összeget.
 
-(4) A (3) bekezdés szerinti adómentesség e kormányrendelet hatálybalépésétől a 2020. június 30-ig adott juttatások tekintetében alkalmazható.
+(4)[^2] A (3) bekezdés szerinti adómentesség e kormányrendelet hatálybalépésétől a 2020. december 31-ig adott juttatások tekintetében alkalmazható.
+
+[^2]: A 3. § (4) bekezdése a 225/2020. (V. 22.) Korm. rendelet 1. §-a szerint módosított szöveg.
