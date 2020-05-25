@@ -1,0 +1,9 @@
+# 215/2020. (V. 20.) Korm. rendelet
+
+az óvodák és bölcsődék újranyitásáról, valamint a nyári táborok megszervezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-215-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-05-25 | 2020-215-20-22.1 | 215/2020. (V. 20.) Korm. rendelet |
