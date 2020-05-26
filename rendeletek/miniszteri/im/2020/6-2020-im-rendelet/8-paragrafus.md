@@ -1,0 +1,5 @@
+8. § (1) A vizsgálat alapján a vizsgált személy részére a részletes értékelést tartalmazó szakmai véleményben alkalmas vagy nem alkalmas minősítés adható. A szakmai véleménynek tartalmaznia kell az egyes részvizsgálatoknak az alkalmasságot érintő megállapításait, valamint a kompetenciákra vonatkozó értékelést, a kompetenciák tekintetében elért összesített pontszám megadásával.
+
+(2) A bizottság a bírói pályára való alkalmasság kérdésében egyhangúlag dönt. Ha a bizottság döntése szerint a vizsgált személy a bírói munka ellátására nem alkalmas, a szakmai véleményben köteles a döntését indokolni.
+
+(3) Nem alkalmas az, akiről a vizsgálatot végző bármelyik szakértő – az általa végzett részvizsgálat tekintetében – azt állapítja meg, hogy a bírói munka végzését kizáró vagy számottevően befolyásoló betegségben szenved, vagy személyiségének intelligencia- és karakterjellemzői alapján várhatóan nem képes a bírói munka ellátására, vagy a vizsgált kompetenciák bármelyike tekintetében 0 pontot vagy összesen 30 alatti pontszámot ér el.
