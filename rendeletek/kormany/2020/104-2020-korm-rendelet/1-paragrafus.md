@@ -5,3 +5,7 @@
 (3) Az Mt. 99. §-ában, valamint az Mt. 104–106. §-ában foglaltaktól eltérni nem lehet, mely nem érinti az Mt. 135. § (4) bekezdésében foglalt eltérési lehetőséget.
 
 (4) Az e rendeletben foglalt szabályoktól eltérő kollektív szerződéses rendelkezéseket e rendelet hatályának tartama alatt alkalmazni nem lehet.
+
+(5)[^2] Az (1)–(4) bekezdésekben foglaltakat a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 18/C. § (2)–(3) bekezdéseiben foglalt rendelkezésektől eltérően a Kkt. 18/A. §-ának hatálya alá tartozó munkavállalók tekintetében is alkalmazni kell.
+
+[^2]: Az 1. § (5) bekezdését a 232/2020. (V. 25.) Korm. rendelet 1. §-a iktatta be.
