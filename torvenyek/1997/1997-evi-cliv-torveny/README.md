@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2020-01-01 | 2019. évi CXXI. törvény | 1997-154-00-00.91 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 1997-154-00-00.92 |
 | 2020-04-11 | 2020. évi XIX. törvény | 1997-154-00-00.93 |
+| 2020-05-26 | 2019. évi CXXI. törvény | 1997-154-00-00.94 |
