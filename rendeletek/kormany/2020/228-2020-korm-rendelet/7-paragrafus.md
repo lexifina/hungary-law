@@ -1,0 +1,1 @@
+## 6. § Az építőipari nyers- és alapanyag esetében a Bt. 43/B. § (1) bekezdésében meghatározott ügyfelek mellett a hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti eljárásban a bányászati joggal érintett ingatlan tulajdonosa is ügyfélnek minősül.
