@@ -1,0 +1,3 @@
+7. § (1) A 8. § (1) bekezdés a) pontja szerinti vizsgálat alapján a miniszter a bejelentésben és mellékleteiben meg nem jelölt további adatok és információk közlését, illetve a bejelentéshez nem mellékelt további iratok eredeti vagy hiteles másolati példányának benyújtását kérheti a bejelentőtől, legalább 3 napos, de legfeljebb 10 napos vagy a bejelentőtől eltérő természetes személytől, jogi személytől vagy egyéb szervezettől legfeljebb 20 napos határidő tűzésével.
+
+(2) Az (1) bekezdés szerinti felhívás eredménytelensége esetén a miniszter a benyújtott iratok alapján vizsgálja meg a bejelentést.
