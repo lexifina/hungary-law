@@ -6,4 +6,6 @@
 
 (2) Ha az önkormányzat általános forgalmi adófizetésre kötelezett adóalany, az áfa megállapítására vonatkozó adó-megállapítási időszaka a naptári év.
 
-(3) Az Áht. 63. alcímétől eltérően a 2019. költségvetési évre vonatkozó zárszámadási rendeletet úgy kell a képviselő-testület elé terjeszteni, hogy az legkésőbb a veszélyhelyzet megszűnését követő 30. napon hatályba lépjen.
+(3)[^2] Ha a helyi önkormányzat nem rendelkezik a 2019. költségvetési évre vonatkozó elfogadott és hatályos zárszámadási rendelettel, akkor a zárszámadási rendeletet úgy kell a helyi önkormányzatnak elfogadnia, hogy az legkésőbb a veszélyhelyzet megszűnését követő 30. napon hatályba lépjen.
+
+[^2]: A 17. § (3) bekezdése a 230/2020. (V. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
