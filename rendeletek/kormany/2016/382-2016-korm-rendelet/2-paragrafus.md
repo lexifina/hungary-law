@@ -6,9 +6,11 @@ a) a (2) bekezdés szerinti ügyekben országos illetékességgel Budapest Főv�
 
 b) a (3) bekezdés szerinti ügyekben a fővárosi és megyei kormányhivatalt,
 
-c) a (4)–(5) bekezdés szerinti ügyekben a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát,
+c) a (4) bekezdés szerinti ügyekben a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát,
 
-d) a (6) bekezdés szerinti ügyekben Budapest Főváros Kormányhivatalát
+d) az (5) bekezdés szerinti ügyekben a megyei kormányhivatal járási hivatalát,
+
+e) a (6) bekezdés szerinti ügyekben Budapest Főváros Kormányhivatala kerületi hivatalát
 
 ## jelöli ki.
 
@@ -122,13 +124,13 @@ d) a (6) bekezdés szerinti ügyekben Budapest Főváros Kormányhivatalát
 
 (5)[^10] Útügyi közlekedési hatóságként megyei kormányhivatal járási hivatala jár el a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést) során.
 
-(6)[^11] Útügyi közlekedési hatóságként Budapest Főváros Kormányhivatala kerületi hivatalai jár el:
+(6)[^11] Útügyi közlekedési hatóságként Budapest Főváros Kormányhivatala kerületi hivatalai járnak el:
 
 1. a fővárosi kerületi önkormányzatok tulajdonában lévő közutak és azok műtárgyai építésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése és
 
 2.[^12] a fővárosban a járdák, a gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése (ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést)
 
-[^2]: A 2. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 2. § (1) bekezdése a 236/2020. (V. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^4]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdés 29. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
@@ -137,5 +139,5 @@ d) a (6) bekezdés szerinti ügyekben Budapest Főváros Kormányhivatalát
 [^8]: A 2. § (4) bekezdés 2. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
 [^9]: A 2. § (4) bekezdés 3. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
 [^10]: A 2. § (5) bekezdése a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja, a 31/2020. (II. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^11]: A 2. § (6) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^11]: A 2. § (6) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 16. § c) pontja, a 236/2020. (V. 26.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^12]: A 2. § (6) bekezdés 2. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

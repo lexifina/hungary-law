@@ -164,7 +164,7 @@ f)[^32]
 
 ## során.
 
-(4)[^36] Közúti gépjármű-közlekedési hatóságként a megyeszékhely szerinti járási hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala jár el
+(4)[^36] Közúti gépjármű-közlekedési hatóságként a fővárosi és megyei kormányhivatal jár el
 
 1. a Kkt. szerinti vizsgáló állomási tevékenység engedélyezésével kapcsolatos hatáskör gyakorlása, a vizsgáló állomással a hatósági szerződés megkötése, a vizsgáló állomások és a műszaki vizsgabiztosok tevékenységének ellenőrzése, az ellenőrzés alapján a jogkövetkezmények alkalmazása, továbbá a hatóság által üzemeltetett, valamint az illetékességi területén hatósági szerződéssel rendelkező vizsgáló állomáson – a jármű tulajdonosára egyébként irányadó illetékességi szabálytól függetlenül – a közlekedési hatóság telephelyén végzett egyedi forgalomba helyezés engedélyezése, jármű-honosítási eljárás, a bármely telephelyen végzett forgalomba helyezés előtti és időszakos vizsgálat végzése, valamint a vizsgáló állomás és a járműfenntartó szervezetek tekintetében a Szolgtv. szerinti szolgáltatás felügyelete;
 
@@ -242,7 +242,7 @@ b)[^41] a tachográf beépítését, vizsgálatát, javítását és illesztés�
 
 (8)[^48] A 4. § (2a) bekezdés b) és d) pontjában meghatározott feladattal összefüggésben a másodfokú hatósági jogkört – ha a fellebbezést törvény lehetővé teszi – a miniszter gyakorolja.
 
-(9) Közlekedési hatóságként első fokon Budapest Főváros Kormányhivatala jár el a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendeletben továbbá a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendeletben meghatározott
+(9)[^49] Közlekedési hatóságként Budapest Főváros Kormányhivatala jár el a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendeletben továbbá a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendeletben meghatározott
 
 a) éves piacfelügyeleti ellenőrzési terv összeállítása, valamint
 
@@ -262,9 +262,9 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 
 (11) A központi közlekedési közigazgatási bírságnyilvántartás üzemeltetésével, működtetésével, fejlesztésével kapcsolatos feladatokat, valamint a központi közlekedési közigazgatási bírságnyilvántartás vezetésével kapcsolatos feladatokat a miniszter látja el a bírságolásra hatáskörrel rendelkező szervek adatszolgáltatása alapján.
 
-(12)[^49] A (3) és (4) bekezdésben meghatározott közlekedési hatóság az általa folytatott eljárásokkal kapcsolatban a (2) és a (2a) bekezdésben meghatározott hatóság országos nyilvántartásához vagy szakmai irányítási feladataihoz szükséges adatszolgáltatásra köteles.
+(12)[^50] A (3) és (4) bekezdésben meghatározott közlekedési hatóság az általa folytatott eljárásokkal kapcsolatban a (2) és a (2a) bekezdésben meghatározott hatóság országos nyilvántartásához vagy szakmai irányítási feladataihoz szükséges adatszolgáltatásra köteles.
 
-(13)[^50] A közúti járművezetők pályaalkalmassági vizsgálatához kapcsolódó közlekedéspszichológiai igazságügyi szakértői vizsgálatokat a Kkt. 18. § (8) bekezdése alapján kijelölt szervezet végzi.
+(13)[^51] A közúti járművezetők pályaalkalmassági vizsgálatához kapcsolódó közlekedéspszichológiai igazságügyi szakértői vizsgálatokat a Kkt. 18. § (8) bekezdése alapján kijelölt szervezet végzi.
 
 [^15]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^16]: A 4. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, nyitó szövegrésze a 233/2017. (VIII. 14.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
@@ -287,7 +287,7 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 [^33]: A 4. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^34]: A 4. § (3) bekezdés 2. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés e) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
 [^35]: A 4. § (3) bekezdés 8. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés e) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^36]: A 4. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 174/2019. (VII. 16.) Korm. rendelet 5. § b) pontja szerint módosított szöveg. [A 4. § (4) bekezdés nyitó szövegrészében a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés b) pontjával elrendelt módosítás nem vezethető át.]
+[^36]: A 4. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, nyitó szövegrésze a 174/2019. (VII. 16.) Korm. rendelet 5. § b) pontja, a 236/2020. (V. 26.) Korm. rendelet 12. § b) pontja szerint módosított szöveg. [A 4. § (4) bekezdés nyitó szövegrészében a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés b) pontjával elrendelt módosítás nem vezethető át.]
 [^37]: A 4. § (4) bekezdés 4. pontja a 289/2018. (XII. 21.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
 [^38]: A 4. § (4) bekezdés 5. pontját a 285/2018. (XII. 21.) Korm. rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^39]: A 4. § (4) bekezdés 8. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
@@ -300,5 +300,6 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 [^46]: A 4. § (7) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (2)–(3) bekezdése szerint módosított szöveg.
 [^47]: A 4. § (7a) bekezdését a 233/2017. (VIII. 14.) Korm. rendelet 14. § (4) bekezdése iktatta be.
 [^48]: A 4. § (8) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 38. § (3) bekezdésével megállapított, a 285/2018. (XII. 21.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^49]: A 4. § (12) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
-[^50]: A 4. § (13) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^49]: A 4. § (9) bekezdés nyitó szövegrésze a 236/2020. (V. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^50]: A 4. § (12) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^51]: A 4. § (13) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
