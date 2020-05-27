@@ -1,4 +1,4 @@
-## 15. § Hatályát veszti a bírák és a bírósági titkárok pályaalkalmassági vizsgálatáról szóló 1/1999. (I. 18.) IM–EüM együttes rendelet.
+## 15. §[^1]
 
 1. melléklet a 6/2020. (V. 25.) IM rendelethez
 
@@ -29,3 +29,5 @@ III. Pszichológiai alkalmassági vizsgálat:
 2. Tesztvizsgálatok: alaptesztek (Rorschach, MMPI, RAVEN).
 
 3. Kiegészítő vizsgálatok szükség esetén: MAWI (intelligenciavizsgálat), SZONDI, CPI, illetve más olyan vizsgálat, aminek magyar standardja van, és elvégzése speciális okok felmerülése miatt indokolt.
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
