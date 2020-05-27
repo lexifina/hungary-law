@@ -1,0 +1,78 @@
+# A Kormány 242/2020. (V. 27.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 123. szám, 2020. május 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/uxq949DxWpyEVFrpI4W25ecb6d2fcce97/dokumentumok/bd52d38038b085b5ffdebc8a1798ca3e73e433cb/letoltes)
+
+---
+
+A Kormány 242/2020. (V. 27.) Korm. rendelete
+a veszélyhelyzet ideje alatt az utazási szolgáltatásokra vonatkozó szerződésekre alkalmazandó különös
+szabályokról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény rendelkezéseire,
+a 8. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus elleni
+védekezésről szóló 2020. évi XII. törvény 3. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) 2020. augusztus 31. napjáig az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási
+csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet
+(a továbbiakban: R.) 21. § (3) és (4) bekezdése szerinti felmondás esetében az R. 21. § (5) bekezdését az e rendelet
+szerinti eltérésekkel kell alkalmazni, ha a szerződés felmondására a koronavírus világjárványra tekintettel került sor.
+(2) Az (1) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha a koronavírus világjárvány következtében
+az utazási szolgáltatásokra vonatkozó szerződés teljesítése a Polgári Törvénykönyvről szóló 2013. évi V. törvény
+(a továbbiakban: Ptk.) 6:179. § (1) bekezdése szerint lehetetlenné vált.
+2. § (1) Az 1. § szerinti felmondás esetén az utazási csomag ellenértékeként befizetett előleg vagy teljes díj visszatérítése
+helyett az utazásszervező utalványt bocsáthat ki.
+(2) Ha az utazásszervező utalványt bocsát ki, az utazó 15 napon belül nyilatkozhat az utalvány elfogadásáról.
+(3) Ha az utazó a felajánlott utalványt nem fogadja el vagy nem nyilatkozik a (2) bekezdésben meghatározott határidőn
+belül, a részére a befizetett előleget, illetve díjat az R. rendelkezései szerint vissza kell utalni.
+(4) Az utazót vagyoni vagy egyéb hátrány nem érheti az utalvány kiállításából adódóan és annak felhasználása során.
+(5) Ha az utazó az utalványt a 3. § (1) bekezdés d) pontjában, illetve a 4. § (2) bekezdés d) pontjában meghatározott
+érvényességi idő alatt nem használja fel, az utazásszervező köteles részére az utalványon feltüntetett értéknek
+megfelelő összeget legkésőbb 14 napon belül megtéríteni.
+(6) Az utazó és az utazásszervező megállapodhatnak az utalvány érvényességi idejének meghosszabbításában. Ebben
+az esetben az utazásszervező új utalványt állít ki.
+3. § (1) A 2. § (1) bekezdésében rögzített utalvány megfelel a következő feltételeknek:
+a) tartalmazza az utazásszervező megnevezését,
+b) tartalmazza az utazó által már befizetett összeg teljes értékét,
+c) kiállításáért az utazásszervező nem számít fel díjat vagy más költséget,
+d) érvényessége 2021. augusztus 31. napjáig tart,
+e) egyértelműen tartalmazza, hogy utazási csomag igénybevételére jogosít,
+
+f) egyértelműen tartalmazza, hogy a koronavírus világjárvány miatt került kiállításra,
+g) tartalmazza az utasjogokra vonatkozó ismertetőt,
+h) az utazó választása szerint elektronikus formában kerül megküldésre.
+(2) Az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet vonatkozásában
+az utazásszervező által az (1) bekezdésnek, valamint 4. § (2) bekezdésének megfelelően kiállított utalvány a vagyoni
+biztosíték szempontjából az utazó által az utazási csomag igénybevételére befizetett előlegnek vagy részvételi
+díjnak minősül.
+4. § (1) A 2. § alkalmazandó az R. 9. § (1) bekezdése szerinti felmondás esetén is.
+(2) Az (1) bekezdés szerint kiállított utalvány megfelel a következő feltételeknek:
+a) tartalmazza az utazásszervező megnevezését,
+b) tartalmazza az utazó által már befizetett összeg teljes értékét,
+c) kiállításáért az utazásszervező nem számít fel díjat vagy más költséget,
+d) érvényessége 2021. augusztus 31. napjáig tart,
+e) egyértelműen tartalmazza, hogy utazási szolgáltatás igénybevételére jogosít,
+f) egyértelműen tartalmazza, hogy a koronavírus világjárvány miatt került kiállításra,
+g) tartalmazza az utasjogokra vonatkozó ismertetőt,
+h) az utazó választása szerint elektronikus formában kerül megküldésre.
+5. § (1) Az e rendelet szerint kiállított utalvány kizárólag a Ptk. szerinti közeli hozzátartozóra ruházható át.
+(2) Az utazásszervező nyilvántartást vezet az általa kibocsátott utalványokról.
+(3) A (2) bekezdés szerinti nyilvántartás tartalmazza
+a) az utalvány értékét,
+b) a tulajdonos
+ba) természetes személyazonosító adatait vagy
+bb) a jogi személy megnevezését és cégjegyzékszámát.
+6. §
+A kereskedelemről szóló 2005. évi CLXIV. törvény 6/F. § (2) bekezdés d) pontja szerinti vagyoni biztosítéknak
+fedezetet kell nyújtania az e rendelet alapján kiadott utalványok értékének megtérítésére az utazásszervezői
+tevékenységet végző fizetésképtelensége esetében.
+7. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 8. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+8. §
+A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti
+veszélyhelyzet megszűnéséig meghosszabbítja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
