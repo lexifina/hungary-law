@@ -1,4 +1,6 @@
-## 2. [^9] Struktúraváltó képzések támogatása
+## 5. §[^10]
+
+## 2. [^11] Struktúraváltó képzések támogatása
 
 5/A. § (1) A veszélyhelyzet munkaerőpiacot érintő hátrányos következményeinek elhárítása céljából költségvetési támogatás nyújtható az olyan képzések felnőttképzési tevékenység keretében történő megszervezéséhez és megvalósításához, valamint az azokban való részvételhez, amelyek a munkavállalók és az álláskeresők számára új kompetenciák megszerzését biztosítják, munkaerőpiaci szempontból azok megszervezéséhez és megvalósításához kiemelt közérdek fűződik, és hosszú távon hozzájárulnak Magyarország gazdasági növekedéséhez.
 
@@ -20,4 +22,5 @@ d) a felnőttképzőnek vagyoni biztosítékkal és minőségirányítási rends
 
 (6) Ha a költségvetési támogatás feltétele, hogy a képzésben részt vevő személy a felnőttképző által egy vállalkozás részére foglalkoztatási céllal kiközvetítésre kerüljön, a felnőttképző részére kifizetett képzési díj a képzésben részt vevő személyt foglalkoztató vállalkozás részére nyújtott, az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és a 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet 41/A. vagy 46. alcíme szerint nyújtható.
 
-[^9]: A 2. alcímet (5/A–5/B. §) a 195/2020. (V. 11.) Korm. rendelet 3. §-a iktatta be.
+[^10]: Az 5. §-t a 234/2020. (V. 26.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^11]: A 2. alcímet (5/A–5/B. §) a 195/2020. (V. 11.) Korm. rendelet 3. §-a iktatta be.
