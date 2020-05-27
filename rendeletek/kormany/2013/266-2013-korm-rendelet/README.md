@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-266-20-
 | 2019-01-01 | 2013-266-20-22.20 | 280/2018. (XII. 21.) Korm. rendelet |
 | 2020-01-01 | 2013-266-20-22.21 | 290/2019. (XII. 5.) Korm. rendelet |
 | 2020-03-01 | 2013-266-20-22.22 | 290/2019. (XII. 5.) Korm. rendelet |
+| 2020-05-27 | 2013-266-20-22.23 | 290/2019. (XII. 5.) Korm. rendelet |

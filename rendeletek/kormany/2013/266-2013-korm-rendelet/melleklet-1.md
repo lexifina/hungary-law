@@ -70,7 +70,7 @@ II. Szakma
 
 |  | 21. |  | Vízgazdálkodási építmények tervezési szakterület vízkészlet gazdálkodás építmények tervezési részszakterület | VZ-VKG | Vízkészlet gazdálkodás építmények, vízrajz, vízfeltárás kútfúrás, vízbázis-védelem, vízminőségi kárelhárítás építményei tervezése, valamint az ezek alapját képező hidraulikai, hidrodinamikai, hidrológiai, vízgyűjtő-gazdálkodási tervezés. | okleveles építőmérnök, építőmérnök, vízépítési üzemmérnök | 3 év 5 év |
 
-|  | 22. |  | Bányászati építmények tervezési szakterület | B | Szilárdásványi nyersanyagok bányászatával kapcsolatos bányászati létesítmények, műtárgyak, bányaművelési üzemi technológiai és üzemeltetési tervei, nem bányászati célú, bányászati módszerekkel épülő földalatti létesítmények, közmű és közlekedési célú alagutak tervezése. | okleveles bánya- és geotechnika mérnök | 3 év |
+|  | 22. |  | Bányászati építmények tervezési szakterület | B | Szilárdásványi nyersanyagok bányászatával kapcsolatos bányászati létesítmények, műtárgyak, bányaművelési üzemi technológiai és üzemeltetési tervei, nem bányászati célú, bányászati módszerekkel épülő föld alatti létesítmények, alagutak bányászati tervezése. | okleveles bánya- és geotechnika mérnök | 3 év |
 
 |  | 23. |  | Gáz- és olajipari építmények tervezési szakterület | GO | Kőolaj- és földgáz bányászatához, valamint ezek és a kőolajtermékek szállításához, feldolgozásához, tárolásához szükséges építmények és vezetékhálózat, cseppfolyós gáz tárolás és töltés építményei, vezetékes földgáz és PB-gáz elosztás, egyéb természetben képződő vagy mesterségesen előállított gázok továbbítására szolgáló építmények tervezése. | okleveles gáz- és olajipari mérnök | 3 év |
 
@@ -86,7 +86,7 @@ II. Szakma
 
 |  | 29. | Szakági műszaki tervezési terület | Hídszerkezeti tervezési szakterület | HT | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő tervezése, beleértve a földrengés és tűzhatásra történő tervezést, híd-és különleges szerkezetek tervezése. | okleveles szerkezet-építőmérnök (emelt szintű szakirányú kredit-tartalommal) | 7 év |
 
-|  | 30. | Tartószerkezeti tervezési szakterület | T | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő tervezése, beleértve a földrengés és tűzhatásra történő tervezést. | okleveles szerkezet-építőmérnök | 5 év |
+|  | 30. | Tartószerkezeti tervezési szakterület | T | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő tervezése, beleértve a földrengés és tűzhatásra történő tervezést, különleges szerkezetek tervezése. | okleveles szerkezet-építőmérnök | 5 év |
 
 |  | 31. | Tartószerkezeti tervezési szakterület épületek tartószerkezeti tervezési részszakterület | T-É | Épületek tartószerkezeteinek mechanikai ellenállás és stabilitásra történő tervezése. | okleveles építészmérnök (épületek tartószerkezeti kredit-teljesítéssel) | 5 év |
 
@@ -96,7 +96,7 @@ II. Szakma
 
 |  | 34. | Építményvillamossági tervezési szakterület | V | Építmények és szabad terek közép- és kisfeszültségű rendszereinek (kül- és beltéri világítás, villámvédelem, folyamatirányítás, építményautomatika, távközlési és informatikai hálózat, villamos energiaellátó rendszerek a fogyasztói oldaltól a közcélú csatlakozási pontig) tervezése. | okleveles villamosmérnök, villamosmérnök épületvillamossági szakirány | 3 év 5 év |
 
-|  | 35. | Geotechnikai tervezési szakterület | GT | Talajvizsgálati jelentések készítése, földművek, sziklamunkák, víztelenítés, talajjavítás, talajerősítés tervezése, talajdinamika, dinamikus hatásoknak kitett szerkezetek tervezése, földalatti műtárgyak, mély munkagödrök, talajhorgonyzások támszerkezetek tervezése, geotechnikai szerkezetek mérése, próbaterhelése, geotechnikai monitoring. | okleveles építőmérnök szerkezet szakirány, okleveles építőmérnök geotechnika szakirány | 3 év |
+|  | 35. | Geotechnikai tervezési szakterület | GT | Talajvizsgálati jelentések készítése, földművek, sziklamunkák, víztelenítés, talajjavítás, talajerősítés tervezése, talajdinamika, dinamikus hatásoknak kitett szerkezetek geotechnikai tervezése, föld alatti műtárgyak, alagutak, mély munkagödrök, talajhorgonyzások, támszerkezetek geotechnikai tervezése, geotechnikai szerkezetek mérése, próbaterhelése, geotechnikai monitoring. | okleveles építőmérnök szerkezet szakirány, okleveles építőmérnök geotechnika szakirány | 3 év |
 
 III. Szakma
 
@@ -138,7 +138,7 @@ IV. Szakma
 
 |  | 7. | Sajátos építményfajtákkal összefüggő építésügyi műszaki szakértői szakterület vízgazdálkodási építmények szakértői részszakterület | SZÉM3 | SZÉM3 | A települési vízellátási, területi vízgazdálkodási, vízkészletgazdálkodás szakterület építményeinek szakértése. | okleveles építőmérnök, okleveles vízmérnök |
 
-|  | 8. | Sajátos építményfajtákkal összefüggő építésügyi műszaki szakértői szakterület bányászati építmények szakértői részszakterület | SZÉM4 | SZÉM5 | Szilárdásványi nyersanyagok bányászatával kapcsolatos bányászati létesítmények, műtárgyak, bányaművelési üzemi technológiai és üzemeltetési tervei, nem bányászati célú, bányászati módszerekkel épülő földalatti létesítmények, közmű és közlekedési célú alagutak szakértése. | okleveles bánya- és geotechnika mérnök |
+|  | 8. | Sajátos építményfajtákkal összefüggő építésügyi műszaki szakértői szakterület bányászati építmények szakértői részszakterület | SZÉM4 | SZÉM5 | Szilárdásványi nyersanyagok bányászatával kapcsolatos bányászati létesítmények, műtárgyak, bányaművelési üzemi technológiai és üzemeltetési tervei, nem bányászati célú, bányászati módszerekkel épülő földalatti létesítmények, alagutak bányászati szakértése. | okleveles bánya- és geotechnika mérnök |
 
 |  | 9. | Sajátos építményfajtákkal összefüggő építésügyi műszaki szakértői szakterület gáz- és olajipari építmények szakértői részszakterület | SZÉM5 | SZÉM6 | Kőolaj- és földgáz bányászatához, valamint ezek és a kőolajtermékek szállításához, feldolgozásához, tárolásához szükséges építmények és vezetékhálózat, cseppfolyós gáz tárolás és töltés építményei, vezetékes földgáz és PB-gáz elosztás, egyéb természetben képződő vagy mesterségesen előállított gázok továbbítására szolgáló építmények szakértése. | okleveles gáz- és olajipari mérnök |
 
@@ -146,7 +146,7 @@ IV. Szakma
 
 |  | 11. | Szakági építésügyi műszaki szakértői szakterület | SZÉS |  | részszakterület szerint | részszakterület szerint |
 
-|  | 12. | Szakági építésügyi műszaki szakértői szakterület tartószerkezeti szakértői részszakterület | SZÉS1 | SZÉS1 | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő szakértése, beleértve a földrengés és tűzhatásra történő szakértést. | okleveles szerkezet-építőmérnök, okleveles építészmérnök |
+|  | 12. | Szakági építésügyi műszaki szakértői szakterület tartószerkezeti szakértői részszakterület | SZÉS1 | SZÉS1 | Építmények tartószerkezeteinek mechanikai ellenállás és stabilitásra történő szakértése, beleértve a földrengés és tűzhatásra történő szakértést, továbbá különleges szerkezetek szakértése. | okleveles szerkezet-építőmérnök, okleveles építészmérnök |
 
 |  | 13. | Szakági építésügyi műszaki szakértői szakterület épületszerkezeti szakértői részszakterület | SZÉS2 | SZÉS2/SZÉSZ2 | Magas- és mélyépítési épületszerkezetek vizsgálata, amelyek természetes anyagokból, előregyártott vagy helyszínen előállított anyagstruktúrával kialakítottak, ezen szerkezetek elemeinek és építéstechnológiával összeépített és struktúráinak ok-okozati összefüggéseinek magas színvonalú értékelése az előírt teljesítményadatok alapján. | okleveles építészmérnök, okleveles szerkezet-építőmérnök |
 
@@ -158,7 +158,7 @@ IV. Szakma
 
 |  | 17. | Szakági építésügyi műszaki szakértői szakterület építményvillamossági szakértői részszakterület | SZÉS7 | SZÉS5 | Építmények és szabad terek közép- és kisfeszültségű rendszereinek (kül- és beltéri világítás, villámvédelem, folyamatirányítás, építményautomatika, távközlési és informatikai hálózat, villamos energiaellátó rendszerek a fogyasztói oldaltól a közcélú csatlakozási pontig) szakértése. | okleveles villamosmérnök |
 
-|  | 18. | Szakági építésügyi műszaki szakértői szakterület geotechnikai szakértői részszakterület | SZÉS8 | SZGT | Talajvizsgálati jelentések, sík- és mélyalapok, alapmegerősítések földművek, sziklamunkák, víztelenítés, talajjavítás, talajerősítés, talajdinamika, dinamikus hatásoknak kitett szerkezetek, földalatti műtárgyak, mély munkagödrök, talajhorgonyzások támszerkezetek szakértése, geotechnikai szerkezetek mérése, próbaterhelése, geotechnikai monitoring. | okleveles építőmérnök |
+|  | 18. | Szakági építésügyi műszaki szakértői szakterület geotechnikai szakértői részszakterület | SZÉS8 | SZGT | Talajvizsgálati jelentések, sík- és mélyalapok, alapmegerősítések, földművek, sziklamunkák, víztelenítés, talajjavítás, talajerősítés, talajdinamika, dinamikus hatásoknak kitett szerkezetek, föld alatti műtárgyak, alagutak, mély munkagödrök, talajhorgonyzások, támszerkezetek geotechnikai szakértése, geotechnikai szerkezetek mérése, próbaterhelése, geotechnikai monitoring. | okleveles építőmérnök |
 
 |  | 19. | Szakági építésügyi műszaki szakértői szakterület építési szakipari szakértői részszakterület | SZÉS9 | SZASZ1 | Építési szakipari struktúrák anyagainak, elemeinek és technológiai rendszereinek vizsgálata, valamint kompatibilitás vizsgálat az épület csatlakozó szerkezeteihez, rendszereihez, ezek ok-okozati összefüggéseinek magas színvonalú értékelése az előírt teljesítményadatok alapján | okleveles építészmérnök, okleveles szerkezet-építőmérnök |
 
@@ -322,4 +322,4 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 
 VII. Szakma
 
-[^113]: Az 1. melléklet a 290/2019. (XII. 5.) Korm. rendelet 7. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^113]: Az 1. melléklet a 290/2019. (XII. 5.) Korm. rendelet 7. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 20. §-a, a 236/2020. (V. 26.) Korm. rendelet 10. §-a szerint módosított szöveg.
