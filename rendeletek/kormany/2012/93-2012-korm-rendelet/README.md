@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-93-20-2
 | 2018-07-10 | 2012-93-20-22.11 | 117/2018. (VII. 2.) Korm. rendelet |
 | 2018-12-29 | 2012-93-20-22.12 | 289/2018. (XII. 21.) Korm. rendelet |
 | 2020-01-01 | 2012-93-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-05-27 | 2012-93-20-22.14 | 236/2020. (V. 26.) Korm. rendelet |

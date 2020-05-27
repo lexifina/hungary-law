@@ -1,6 +1,6 @@
-## 31. §[^46] E rendeletnek a közlekedési tárgyú kormányrendeletek módosításáról szóló 289/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 15. §-át a Módr2. hatálybalépése[^47] előtt kiadott építési engedélyek esetében is alkalmazni kell azzal, hogy a meghosszabbítás időtartama összesen tíz évnél több nem lehet.
+## 32. §[^49] E rendeletnek a közlekedési infrastruktúra-fejlesztéssel összefüggő egyes kormányrendeletek módosításáról szóló 236/2020. (V. 26.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 16. § (1) bekezdését a Módr3. hatálybalépésekor[^50] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 93/2012. (V. 10.) Korm. rendelethez[^48]
+1. melléklet a 93/2012. (V. 10.) Korm. rendelethez[^51]
 
 Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
@@ -416,6 +416,6 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 8.2.7. | Tűzvédelmi dokumentáció. |
 
-[^46]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 289/2018. (XII. 21.) Korm. rendelet 19. §-a iktatta be.
-[^47]: A hatálybalépés napja 2018. december 29.
-[^48]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése szerint módosított szöveg.
+[^49]: A 32. §-t a 236/2020. (V. 26.) Korm. rendelet 3. §-a iktatta be.
+[^50]: A hatálybalépés időpontja 2020. május 27.
+[^51]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése szerint módosított szöveg.
