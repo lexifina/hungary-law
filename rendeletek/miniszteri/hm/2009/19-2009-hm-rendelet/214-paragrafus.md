@@ -1,8 +1,8 @@
-214. §[^281] (1) Nem adható albérleti díj hozzájárulás, ha az igénylő
+214. §[^298] (1) Nem adható albérleti díj hozzájárulás, ha az igénylő
 
-a)[^282] a honvédelmi szervezettől korábban vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült vagy a házastársa, élettársa a házasság vagy az élettársi kapcsolat fennállása alatt részesült e támogatásokban;
+a)[^299] a honvédelmi szervezettől korábban vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült vagy a házastársa, élettársa a házasság vagy az élettársi kapcsolat fennállása alatt részesült e támogatásokban;
 
-b)[^283] a honvédelmi szervezettől munkáltatói kölcsönt kapott, vagy a házastársa, élettársa a házasság vagy az élettársi kapcsolat fennállása alatt részesült e támogatásban;
+b)[^300] a honvédelmi szervezettől munkáltatói kölcsönt kapott, vagy a házastársa, élettársa a házasság vagy az élettársi kapcsolat fennállása alatt részesült e támogatásban;
 
 c) a munkahelye szerinti településen vagy annak vonzáskörzetében a 10. §-ban megállapított jogos igényének megfelelő, beköltözhető lakás van a tulajdonában vagy a haszonélvezetében, vagy ha a házastársa, élettársa, továbbá a saját háztartásában nevelt kiskorú gyermeke (örökbe fogadott, mostoha vagy nevelt gyermeke) tulajdonában, haszonélvezetében – beleértve a felsoroltak közös tulajdonát, haszonélvezetét is – van ilyen lakás;
 
@@ -20,7 +20,7 @@ i) a saját vagy közeli hozzátartozója tulajdonában lévő gazdálkodó szer
 
 j) a HM rendelkezésű lakás kiürítése ellenében pénzbeli térítésben részesült, vagy házastársa, élettársa a házasság vagy az élettársi kapcsolat fennállása alatt részesült térítésben;
 
-k)[^284] házastársa, élettársa a honvédelmi szervezettől lakáspénzben részesül.
+k)[^301] házastársa, élettársa a honvédelmi szervezettől lakáspénzben részesül.
 
 (2) Nem kell alkalmazni
 
@@ -28,7 +28,7 @@ a) az (1) bekezdés b) pontját, ha a munkáltatói kölcsön és az abból jóv
 
 b) az (1) bekezdés j) pontját, ha a térítés
 
-[^281]: A 214. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.
-[^282]: A 214. § (1) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
-[^283]: A 214. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
-[^284]: A 214. § (1) bekezdés k) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^298]: A 214. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.
+[^299]: A 214. § (1) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^300]: A 214. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^301]: A 214. § (1) bekezdés k) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.

@@ -174,7 +174,7 @@
 
 |  | Verőce |
 
-1/A. melléklet a 19/2009. (XII. 29.) HM rendelethez[^374]
+1/A. melléklet a 19/2009. (XII. 29.) HM rendelethez[^394]
 
 ## A lakáskiürítési és cseretérítés megállapítása szempontjából kiemelt települések jegyzéke
 
@@ -214,4 +214,4 @@
 
 18. Veszprém
 
-[^374]: Az 1/A. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (1) bekezdése iktatta be.
+[^394]: Az 1/A. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (1) bekezdése iktatta be.

@@ -40,11 +40,11 @@ a)[^48] a hivatásos szolgálati viszonyban, az állománytáblában dandártáb
 
 b)[^49] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
 
-c)[^50] hivatásos szolgálati viszony, kormánytisztviselői vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
+c)[^50] hivatásos szolgálati viszony, kormánytisztviselői, honvédelmi alkalmazotti vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
 
 (7) Vezetői lakás tekintetében az igény mértékét nem kell figyelembe venni.
 
 [^47]: A 10. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
 [^48]: A 10. § (6) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
 [^49]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^50]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^50]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 8/2020. (V. 27.) HM rendelet 5. § c) pontja szerint módosított szöveg.
