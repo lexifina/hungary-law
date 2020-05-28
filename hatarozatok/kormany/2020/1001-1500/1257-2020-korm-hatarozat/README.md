@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1257-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-27 | 2020-1257-30-22.1 | 1257/2020. (V. 26.) Korm. határozat |
+| 2020-05-28 | 2020-1257-30-22.2 | 2010: CXXX. törvény |
