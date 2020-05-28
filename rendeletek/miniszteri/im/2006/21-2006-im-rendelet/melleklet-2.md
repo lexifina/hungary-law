@@ -92,6 +92,8 @@
 
 ## a) Elnevezés
 
+## b) Ha a cégnévben az „állami” vagy „nemzeti” kifejezés szerepeltetése a Kormány határozatán alapul, a kormányhatározat száma
+
 ## 3.) 3. rovat: A cég rövidített elnevezése:
 
 ## a) Rövidített elnevezés
@@ -1468,9 +1470,19 @@
 
 ## bc) Annak jelölése, ha a szervezet EUID-val nem rendelkezik
 
-## bd) Elnevezés
+## bd) Cégnek nem minősülő egyéb szervezet esetén nyilvántartási szám
 
-## be) Székhely
+## be) Elnevezés
+
+## bf) Székhely
+
+## c) Szakmai tevékenysége keretein belül eljáró természetes személy adatai:
+
+## ca) Nyilvántartási szám/kamarai azonosító szám
+
+## cb) Név
+
+## cc) Székhely
 
 ## 2.) Kiskorú törvényes képviselőjének adatai: (Minden adat megadása kötelező, ha a nyomtatványban kiskorú személy szerepel.)
 
@@ -1880,6 +1892,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^68]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^70]
 
-[^68]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 15. § (1) bekezdése alapján rendelkezéseit a 2006. július 1. napját követően indult ügyekben kell alkalmazni.
+[^70]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 15. § (1) bekezdése alapján rendelkezéseit a 2006. július 1. napját követően indult ügyekben kell alkalmazni.

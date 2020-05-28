@@ -1,4 +1,4 @@
-## 20/C. §[^64] E rendeletnek a cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosításáról szóló 23/2019. (VIII. 2.) IM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^65] követően benyújtott cégbejegyzési (változásbejegyzési) kérelmek esetében kell alkalmazni.
+## 20/D. §[^66] E rendeletnek a cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosításáról szóló 5/2020. (V. 13.) IM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépését[^67] követően benyújtott cégbejegyzési (változásbejegyzési) kérelmek esetében kell alkalmazni.
 
-[^64]: A 20/C. §-t a 23/2019. (VIII. 2.) IM rendelet 1. §-a iktatta be.
-[^65]: A hatálybalépés időpontja 2019. augusztus 17.
+[^66]: A 20/D. §-t az 5/2020. (V. 13.) IM rendelet 1. §-a iktatta be.
+[^67]: A hatálybalépés időpontja 2020. május 28.

@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-21-20-0
 | 2018-09-05 | 2006-21-20-06.29 | 12/2014. (II. 28.) KIM rendelet |
 | 2019-08-17 | 2006-21-20-06.30 | 23/2019. (VIII. 2.) IM rendelet |
 | 2019-12-28 | 2006-21-20-06.31 | 12/2014. (II. 28.) KIM rendelet |
+| 2020-05-28 | 2006-21-20-06.32 | 5/2020. (V. 13.) IM rendelet |
