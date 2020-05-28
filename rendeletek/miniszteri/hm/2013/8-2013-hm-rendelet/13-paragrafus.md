@@ -1,8 +1,8 @@
 13. § (1) A HM vagyonkezelésű lakás elidegenítése során a bérlőtársra a bérlőre irányadó rendelkezéseket kell megfelelően alkalmazni.
 
-(2)[^22]
+(2)[^31]
 
-(3)[^23]
+(3)[^32]
 
-[^22]: A 13. § (2) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § g) pontja hatályon kívül helyezte.
-[^23]: A 13. § (3) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § g) pontja hatályon kívül helyezte.
+[^31]: A 13. § (2) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § g) pontja hatályon kívül helyezte.
+[^32]: A 13. § (3) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § g) pontja hatályon kívül helyezte.

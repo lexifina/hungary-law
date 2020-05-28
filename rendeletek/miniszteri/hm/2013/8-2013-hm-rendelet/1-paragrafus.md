@@ -24,9 +24,9 @@ cc) a helyőrségparancsnoki megbízatással együtt járó parancsnoki beosztá
 
 cd) a Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló 19/2009. (XII. 29.) HM rendelet (a továbbiakban: R.) vagy azt megelőzően hatályos HM rendelet alapján a HM főosztályvezetői, valamint a velük azonos vagy magasabb besorolású vezetői vagy parancsnoki beosztást ellátó személyek, továbbá a HM Központi Lakásbizottság elnöke, titkára és a Magyar Honvédség (a továbbiakban: MH) vezénylő zászlósa részére a beosztás ellátása alatt juttatott olyan lakás, amelynek nagysága az R. 10. § (1) bekezdése szerinti jogos lakásigény mérték felső határát a bérbeadáskor több, mint egy lakószobával meghaladta,
 
-ce) a 100 m2 hasznos alapterületet meghaladó nagyságú HM rendelkezésű lakás,
+ce)[^1] a 100 m2 alapterületet meghaladó nagyságú HM rendelkezésű lakás,
 
-cf)[^1]
+cf)[^2]
 
 cg) az R. szerint garzonlakásként, helyőrségi szállóként vagy egyéb, rendeltetésétől eltérően hasznosított lakás, és
 
@@ -38,10 +38,15 @@ a) HM központi lakásgazdálkodási szerv,
 
 b) helyi lakásgazdálkodási szerv,
 
-c) HM vagyonkezelői feladatokat ellátó szerv, és
+c)[^3] HM vagyonkezelői feladatokat ellátó szerv,
 
-d) helyi lakóházkezelő szerv
+d) helyi lakóházkezelő szerv,
+
+e)[^4] HM jogi képviseletének ellátásáért felelős szerv
 
 feladatait ellátó szerveket honvédelmi miniszteri utasítás határozza meg.
 
-[^1]: Az 1. § (1) bekezdés c) pont cf) alpontját a 2/2020. (II. 20.) HM rendelet 1. §-a hatályon kívül helyezte.
+[^1]: Az 1. § (1) bekezdése c) pont ce) alpontja a 8/2020. (V. 27.) HM rendelet 19. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés c) pont cf) alpontját a 2/2020. (II. 20.) HM rendelet 1. §-a hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdése c) pontja a 8/2020. (V. 27.) HM rendelet 19. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontját a 8/2020. (V. 27.) HM rendelet 6. §-a iktatta be.
