@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-234-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-27 | 2020-234-20-22.1 | 234/2020. (V. 26.) Korm. rendelet |
+| 2020-05-28 | 2020-234-20-22.2 | 2010: CXXX. törvény |

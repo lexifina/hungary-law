@@ -1,3 +1,3 @@
-## 2. § Az R. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(1) Képzés abban az esetben is megszervezhető és befejezhető távolléti oktatásban, távoktatás formájában vagy digitális képzésként, ha azt jogszabály, támogatói okirat, támogatási szerződés, felnőttképzési szerződés vagy képzési program egyébként nem teszi lehetővé. Ha jogszabály, támogatói okirat, támogatási szerződés, felnőttképzési szerződés vagy képzési program a képzés vagy a modulzáró vizsga tekintetében a távolléti oktatás, távoktatás vagy digitális képzés valamelyik formáját lehetővé teszi, a képzés, illetve a modulzáró vizsga kizárólag akként szervezhető meg.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
