@@ -1,3 +1,3 @@
-## „(6) Az 1. melléklet 3.2.17. pontjában meghatározott beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+## 4. §[^5]
 
-## (7) A Kormány az 1. melléklet 1.2.29. pontjában meghatározott beruházás esetén a 2. melléklet 9. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt jelöli ki.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## lép.
+## 8. §[^9]
 
-## 9. § Hatályát veszti a 345/2012. (XII. 6.) Korm. rendelet
-
-a) 1. § (2) bekezdése és
-
-b) 1/a. melléklete.
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
