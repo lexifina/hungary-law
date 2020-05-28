@@ -1,0 +1,1 @@
+A Kormány – a Gazdaságvédelmi Akcióterv céljaival összhangban – támogatja Budapest Főváros XXIII. kerület Soroksár Önkormányzata (a továbbiakban: Önkormányzat) fejlesztési programját (a továbbiakban: Program), amely érdekében
