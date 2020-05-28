@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-10-20-1
 | 2019-01-01 | 2014-10-20-15.10 | 22/2018. (XII. 28.) HM rendelet |
 | 2019-04-18 | 2014-10-20-15.11 | 6/2019. (IV. 15.) HM rendelet |
 | 2019-08-31 | 2014-10-20-15.12 | 9/2019. (VIII. 30.) HM rendelet |
+| 2020-05-28 | 2014-10-20-15.13 | 8/2020. (V. 27.) HM rendelet |
