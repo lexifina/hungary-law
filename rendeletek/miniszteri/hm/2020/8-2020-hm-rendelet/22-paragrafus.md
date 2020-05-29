@@ -1,5 +1,7 @@
-## 21. § Az R3. 4/A. § (2) bekezdésében az „az R.” szövegrész helyébe az „a Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló 19/2009. (XII. 29.) HM rendelet (a továbbiakban: R.)” szöveg lép.
+## 21. §[^22]
 
 ## 4. Záró rendelkezések
 
 22. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

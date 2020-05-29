@@ -1,7 +1,3 @@
-## 6. § A Honvédelmi Minisztérium rendelkezése alatt lévő lakások és nem lakáscélú helyiségek elidegenítésének feltételeiről szóló 8/2013. (VIII. 9.) HM rendelet (a továbbiakban: R2.) 1. § (2) bekezdése a következő e) ponttal egészül ki:
+## 6. §[^7]
 
-## (Az e rendeletben meghatározott)
-
-## „e) HM jogi képviseletének ellátásáért felelős szerv”
-
-## (feladatait ellátó szerveket honvédelmi miniszteri utasítás határozza meg.)
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
