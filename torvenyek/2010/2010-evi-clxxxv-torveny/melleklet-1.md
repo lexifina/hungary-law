@@ -11,9 +11,3 @@ b) Magyar Katolikus Egyház
 c) Magyarországi Református Egyház
 
 d) Magyarországi Evangélikus Egyház
-
-e) Magyarországi Zsidó Hitközségek Szövetsége
-
-f) Magyar Olimpiai Bizottság
-
-g) Magyar Rektori Konferencia
