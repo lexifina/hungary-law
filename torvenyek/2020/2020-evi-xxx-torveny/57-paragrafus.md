@@ -7,11 +7,3 @@ b) 34. §-a az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján,
 c) 53. és 54. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján
 
 sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

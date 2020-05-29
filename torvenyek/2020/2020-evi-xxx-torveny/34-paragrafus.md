@@ -4,4 +4,4 @@
 
 „206/B. § E törvénynek a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvénnyel módosított 184. § (2) bekezdés d) és e) pontját, valamint 206. § (3c) bekezdését 2021. január 1. napját követően kell alkalmazni.”
 
-(2) Hatályát veszti az Mttv. 149. § (7) bekezdése.
+(2)

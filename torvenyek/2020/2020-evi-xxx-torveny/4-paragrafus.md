@@ -8,8 +8,4 @@
 
 „(25) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 5. § (6) bekezdését a Módtv3. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.”
 
-(3) Hatályát veszti a Btv.
-
-a) 43/C. § (2) bekezdés a) pontja,
-
-b) 44. § (7) bekezdése.
+(3)
