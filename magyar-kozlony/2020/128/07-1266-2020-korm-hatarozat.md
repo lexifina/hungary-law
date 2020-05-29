@@ -1,0 +1,51 @@
+# A Kormány 1266/2020. (V. 29.) Korm. határozata
+
+Magyar Közlöny 2020. évi 128. szám, 2020. május 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2G7go27KAwLhQBTiJDBZ5ecfae98cadec/dokumentumok/4ec1babf83c9ede10a87c1ad864fead9f80fbf73/letoltes)
+
+---
+
+A Kormány 1266/2020. (V. 29.) Korm. határozata
+bevett egyházak és belső egyházi jogi személyek egyházi személyeinek kiegészítő jövedelempótlékáról
+A Kormány
+1. támogatja, hogy a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási
+közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet
+5. mellékletében meghatározott bevett egyházak és belső egyházi jogi személyeik egyházi személyei – függetlenül
+a szolgálati helynek minősülő magyarországi település lakosságszámától – kiegészítő jövedelempótlékban
+részesüljenek, annak érdekében, hogy egyházi szolgálatukat Magyarország teljes területén végezhessék;
+2. felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon
+az 1. pontban meghatározott feladat megvalósulása érdekében 1 575 787 500 forint összegű költségvetési forrás
+biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet
+XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú
+központi költségvetési hozzájárulások jogcímcsoport, 8. Egyházi közösségi célú programok támogatása jogcím
+javára;
+Felelős: pénzügyminiszter
+a miniszterelnök általános helyettese
+Határidő: 2020. július 31.
+3. felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon
+az 1. pontban meghatározott feladat megvalósulása érdekében 2021. évtől bázisba épülő jelleggel
+2 625 000 000 forint összegű költségvetési forrás biztosításáról – első alkalommal – a Magyarország 2021. évi
+központi költségvetéséről szóló törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok
+cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi
+közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
+Felelős: pénzügyminiszter
+a miniszterelnök általános helyettese
+Határidő: adott évi központi költségvetés tervezése során
+4. felhívja a miniszterelnök általános helyettesét, hogy
+a) vizsgálja meg az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek
+jövedelempótléka – Bevett egyházak fejezeti kezelésű előirányzat felosztására vonatkozó jogi szabályozást,
+valamint a kapcsolódó, korábbi megállapodásokat, és
+b) készítsen előterjesztést a felosztás és elszámolás új szabályaira vonatkozóan
+annak érdekében, hogy az 1. pontban meghatározott új feladat költségvetési finanszírozása a jövőben
+céltámogatásként legyen biztosítható.
+Felelős: a miniszterelnök általános helyettese
+Határidő: 2020. december 31.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó Kft.
+Felelős kiadó: Papp Tibor ügyvezető.
