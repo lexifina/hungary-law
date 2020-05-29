@@ -8,13 +8,15 @@ b) nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészet
 
 c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
 
-d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását.
+d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását,
+
+e) amennyiben a nyilvántartott műemléki érték, műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
 
 (2) A hatóság
 
 a) az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, a társasházat, továbbá a használót vagy az építtetőt, és a kivitelezőt,
 
-b) az (1) bekezdés d) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
+b) az (1) bekezdés d) és e) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
 
 kötelezheti.
 
@@ -28,7 +30,7 @@ c) elrendelheti a védetté nyilvánított kulturális javak közgyűjteményben
 
 d) kezdeményezheti a vagyonkezelői szerződés felülvizsgálatát, illetve a használati jog megszüntetését.
 
-(3a) Ha a kötelezett az (1) bekezdés d) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
+(3a) Ha a kötelezett az (1) bekezdés d) és e) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
 
 a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
 
