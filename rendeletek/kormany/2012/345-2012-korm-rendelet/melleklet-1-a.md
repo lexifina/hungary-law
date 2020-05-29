@@ -1296,6 +1296,10 @@
 
 ## 3.4.13. Debrecen, 33. számú főút és 354. számú főút összekötés I. ütemének (354. számú főút – Vezér utca közötti szakasza) és a 33. számú főútra történő kikötésének előkészítése.
 
+## 3.4.14. Budapest Vecsés út – Nagykőrösi út összekötését szolgáló elkerülő út megvalósítása.
+
+## 3.4.15. M0 gyorsforgalmi út – Haraszti út összekötő út és híd megvalósítása.
+
 ## 4. Országos vízi közlekedési projektek
 
 ## 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.

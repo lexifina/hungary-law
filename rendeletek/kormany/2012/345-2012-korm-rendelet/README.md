@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-345-20-
 | 2019-04-24 | 2012-345-20-22.25 | 490/2016. (XII. 28.) Korm. rendelet |
 | 2019-08-02 | 2012-345-20-22.26 | 490/2016. (XII. 28.) Korm. rendelet |
 | 2020-05-27 | 2012-345-20-22.27 | 236/2020. (V. 26.) Korm. rendelet |
+| 2020-05-29 | 2012-345-20-22.28 | 236/2020. (V. 26.) Korm. rendelet |
