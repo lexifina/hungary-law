@@ -55,3 +55,5 @@ c) a kiadott és érvényes kutatási engedélyükben meghatározott nyersanyagr
 (23) Az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 43. § (9c) bekezdése szerinti visszafizetést a Hivatal elsőként 2017. január 1-jét követően alkalmazza.
 
 (24) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(25) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 5. § (6) bekezdését a Módtv3. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
