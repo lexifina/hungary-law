@@ -42,7 +42,7 @@ Határidő: 2017. év tekintetében 2017. március 31.
 
 2018. év tekintetében 2018. március 31.
 
-6. elrendeli, hogy a nemzetgazdasági miniszter a Széchenyi Tőkealap-kezelő Zrt. kezelésébe tartozó, egyes kiemelt gazdaságfejlesztési, iparpolitikai és versenyképességi célokat szolgáló tőkealapok létrehozásáról szóló 1599/2016. (XI. 8.) Korm. határozatban megjelölt, a kis- és középvállalkozások fejlesztését szolgáló alapok létrehozása, feltőkésítése céljából a Széchenyi Tőkealap-kezelő Zártkörűen Működő Részvénytársaság részére legfeljebb 56 milliárd forint visszatérítendő támogatást biztosítson a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet 25. Fejezeti kezelésű előirányzat cím, 7. Egyéb fejezeti kezelésű előirányzatok alcím, 3. A 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználása és kezelése jogcímcsoport terhére.
+6.[^3] elrendeli, hogy a nemzetgazdasági miniszter a Széchenyi Tőkealap-kezelő Zrt. kezelésébe tartozó, egyes kiemelt gazdaságfejlesztési, iparpolitikai és versenyképességi célokat szolgáló tőkealapok létrehozásáról szóló 1599/2016. (XI. 8.) Korm. határozatban megjelölt, elsősorban kis- és középvállalkozások fejlesztését szolgáló alapok létrehozása, feltőkésítése céljából a Széchenyi Tőkealap-kezelő Zártkörűen Működő Részvénytársaság részére legfeljebb 56 milliárd forint visszatérítendő támogatást biztosítson a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet 25. Fejezeti kezelésű előirányzat cím, 7. Egyéb fejezeti kezelésű előirányzatok alcím, 3. A 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználása és kezelése jogcímcsoport terhére.
 
 Felelős: nemzetgazdasági miniszter
 
@@ -50,3 +50,4 @@ Határidő: folyamatos, de legkésőbb 2018. december 31.
 
 [^1]: Az 5. pont az 1531/2019. (IX. 17.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: Az 5. pont c) alpontját az 1531/2019. (IX. 17.) Korm. határozat 7. pontja visszavonta.
+[^3]: A 6. pont az 1267/2020. (V. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
