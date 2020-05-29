@@ -1,0 +1,1 @@
+52. § Az 50. § szerinti tulajdon-átruházásoknak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésekben az 50. § szerinti ingatlanok forgalmi értékeként a könyv szerinti értéket kell megjelölni.
