@@ -1,7 +1,5 @@
-57/F. § (1) A 400 m2 vagy az azt meghaladó bruttó alapterületű építmény rendeltetésének kereskedelmi rendeltetésre változtatására, vagy kereskedelmi rendeltetésű építmény jogszabályban meghatározott átalakítására hatósági engedély (a továbbiakban: rendeltetésmódosítási engedély) alapján van lehetőség.
+57/F. § (1) A 400 m2-nél nagyobb bruttó alapterületű építmény rendeltetésének kereskedelmi rendeltetésre történő változtatására, vagy kereskedelmi rendeltetésű építmény jogszabályban meghatározott átalakítására a rendeltetésmódosítási hatóság engedélye alapján van lehetőség.
 
-(2) A rendeltetésmódosítási engedély iránti eljárásban a Kormányhivatal szakhatósági állásfoglalását be kell szerezni. A szakhatósági állásfoglalás kialakítása során az 57/C. és 57/D. § rendelkezéseit kell alkalmazni.
+(2) A rendeltetésmódosítási hatóság engedélye iránti eljárásban a Kormányhivatal szakkérdésben nyilatkozik. A nyilatkozat kialakítása során az 57/C. és 57/D. § rendelkezéseit kell alkalmazni.
 
-(3)
-
-(4) Ha rendeltetésmódosítási engedély nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a rendeltetésmódosítási engedély iránti eljárásban eljáró hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.
+(3) Ha rendeltetésmódosítási hatóság engedélye nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a rendeltetésmódosítási hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.

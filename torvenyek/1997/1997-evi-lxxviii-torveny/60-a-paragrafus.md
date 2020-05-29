@@ -1,1 +1,1 @@
-60/A. §
+60/A. § A fővárosi önkormányzat vagy a fővárosi kerületi önkormányzat tulajdonában álló, az 54. § (5b) és (5c) bekezdése szerinti közterület 2020. augusztus 15–25. közötti időszakban tervezett foglalására vonatkozóan a 2020. április 1-je után benyújtott kérelmeket az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvény hatálybalépését követően ismételten be kell nyújtani.

@@ -156,7 +156,7 @@ rendelettel állapítsa meg.
 
 (1c) Felhatalmazást kap a Kormány, hogy
 
-a) a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket, az azoktól való eltérés feltételeit, valamint az előzetes engedély iránti kérelem tartalmi követelményeit,
+a) a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket, az azoktól való eltérés feltételeit, valamint az engedély iránti kérelem tartalmi követelményeit,
 
 b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rendjét, valamint a Bizottság véleményének kialakítása során irányadó részletes szempontrendszert,
 
@@ -169,6 +169,14 @@ rendeletben állapítsa meg.
 (1d) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéssel érintett építési tevékenységek tekintetében az építészeti-műszaki tervezői tevékenység, valamint a vállalkozó kivitelezői tevékenység végzéséhez szükséges felelősségbiztosítási szerződés tartalmi elemeire és a meglétének az ellenőrzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
+
+(1f) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+a) az 54. § (5b) bekezdése szerinti állami ünnep megszervezőjét,
+
+b) az 54. § (5d) bekezdés a) pontja szerinti értesítésre, az 54. § (5d) bekezdés b) pontja szerinti nyilatkozat megadására és az 54. § (5e) bekezdése szerinti tájékoztatás megtételére vonatkozó részletes szabályokat,
+
+c) az 54. § (5g) bekezdése szerinti eljárási szabályokat és az eljáró hatóságot.
 
 (2) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy
 

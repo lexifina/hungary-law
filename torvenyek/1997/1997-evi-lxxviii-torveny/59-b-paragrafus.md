@@ -43,3 +43,5 @@ b) egyéb, a szerzőt a védelmi idő lejárta után megillető jogok biztosít�
 (4) Az (1) bekezdés szerinti adatok kezelője az állam 100%-os tulajdonában álló Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság.
 
 (5) Az (1) bekezdés szerinti adatok vonatkozásában az adatkezelést végző háromévente felülvizsgálja az adatkezelés szükségességét.
+
+(6) Az építészeti szerzői jogi nyilvántartás elektronikus ügyintézés keretében működik.
