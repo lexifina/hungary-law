@@ -12,7 +12,7 @@ bc) születési idejét, ennek hiányában életkorát,
 
 bd) személyi azonosítóját,
 
-be) nemét,
+be) születési nemét,
 
 bf) anyjának születési családi és utónevét,
 
@@ -40,6 +40,6 @@ h) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén a család
 
 (2) A szülő születési családi és utónevének megváltozását vagy a családi név korrekcióját nagykorú személy esetében kizárólag a nagykorú személy kérelmére kell a saját személyazonosító adatainál adatváltozásként átvezetni és megjeleníteni.
 
-(3) Nem vezethető át adatváltozásként a szülők neme adatának és ahhoz kapcsolódóan az utónevének megváltozása a gyermek személyazonosító adatainál.
+(3) Az (1) bekezdés b) pont be) alpontjában meghatározott adat nem változtatható meg.
 
-(4) A nem megváltozásának anyakönyvbe való bejegyzését meg kell tagadni, ha az érintett személy házassága vagy bejegyzett élettársi kapcsolata fennáll.
+(4)

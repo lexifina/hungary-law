@@ -22,7 +22,7 @@ i) anyakönyvvezető: a Kormány által rendeletben kijelölt személy,
 
 j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki, illetve az anyakönyvi szerv, amely a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
 
-k) személyazonosításra alkalmas adat: az érintett születési családi és utóneve, házassági neve, neme, születési helye és ideje, anyja születési családi és utóneve, az érintett személyi azonosítója, előző születési családi és utóneve vagy házassági neve, állampolgársága, előző állampolgársága, valamint lakcíme,
+k) személyazonosításra alkalmas adat: az érintett születési családi és utóneve, házassági neve, születési neme, születési helye és ideje, anyja születési családi és utóneve, az érintett személyi azonosítója, előző születési családi és utóneve vagy házassági neve, állampolgársága, előző állampolgársága, valamint lakcíme,
 
 l) születés: az élveszületés,
 
@@ -46,4 +46,6 @@ u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történ
 
 v) harmadik országbeli állampolgár: a magyar állampolgár kivételével minden olyan személy, aki nem EGT-állampolgár, ideértve a hontalant is,
 
-w) hivatali munkaidő: a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő.
+w) hivatali munkaidő: a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő,
+
+x) születési nem: az elsődleges nemi jelleg, illetve kromoszóma alapján meghatározott biológiai nem.

@@ -44,4 +44,4 @@ k) eljár a 70. § (3) bekezdésében meghatározott esetben.
 
 (6)
 
-(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek jogosultak. Az anyakönyvi szerv – a 89. § (4) bekezdésében foglaltak kivételével – az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.
+(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek jogosultak. Az anyakönyvi szerv az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.

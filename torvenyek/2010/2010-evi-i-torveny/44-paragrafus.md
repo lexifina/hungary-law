@@ -6,9 +6,9 @@
 
 (2a) Az a személy, akinek korábbi személyes joga alapján kettős családi nevét a magyar anyakönyvi szabályoktól eltérő írásmóddal anyakönyvezték, a magyar állampolgárság megszerzése után kérheti, hogy kettős családi nevét a magyar anyakönyvi szabályoknak megfelelő írásmóddal jegyezzék be az anyakönyvbe.
 
-(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek nemének megfelelő utónevet lehet a Bölcsészettudományi Kutatóközpont által összeállított utónévjegyzékből. Az utónévjegyzéket az Bölcsészettudományi Kutatóközpont a honlapján teszi közzé.
+(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek születési nemének megfelelő utónevet lehet a Nyelvtudományi Intézet által összeállított utónévjegyzékből. Az utónévjegyzéket a Nyelvtudományi Intézet a honlapján teszi közzé.
 
-(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti az Bölcsészettudományi Kutatóközpont nyilatkozatát a kért utónév anyakönyvezhetőségéről. Az Bölcsészettudományi Kutatóközpont az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha az Bölcsészettudományi Kutatóközpont nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
+(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti a Nyelvtudományi Intézet nyilatkozatát a kért utónév anyakönyvezhetőségéről. A Nyelvtudományi Intézet az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha a Nyelvtudományi Intézet nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
 
 (5) Az ugyanattól az anyától származó, ugyanazon a napon született gyermekek nem viselhetnek megegyező utónevet.
 
