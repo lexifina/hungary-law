@@ -1,0 +1,7 @@
+# 2020. évi XXXVII. törvény a Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-37-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-05-29 | 2020. évi XXXVII. törvény | 2020-37-00-00.0 (közlönyállapot) |
