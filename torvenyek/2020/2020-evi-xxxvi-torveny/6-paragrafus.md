@@ -1,5 +1,3 @@
 ## 4. A Magyarországi Református Egyház részére történő vagyonjuttatás
 
-6. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése és (2) bekezdés g) pontja alapján a Magyarországi Református Egyház szociális, oktatási, kulturális és hitéleti feladatainak elősegítése érdekében a Kecskemét, Piaristák tere 4. szám alatt található, az ingatlan-nyilvántartás szerint Kecskemét 3963 helyrajzi szám alatt nyilvántartott és a Kecskemét, Bocskai utca 19. szám alatt található, az ingatlan-nyilvántartás szerint Kecskemét 4127/1 helyrajzi szám alatt nyilvántartott, és Kecskemét, Kaszap utca 6–14. szám alatt található, az ingatlan-nyilvántartás szerint Kecskemét 4342 helyrajzi szám alatt nyilvántartott állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel a Magyarországi Református Egyház tulajdonába kerülnek. Az ingatlanok tulajdonjogát a Magyarországi Református Egyház a terhekkel együtt szerzi meg.
-
-(2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. köti meg a Magyarországi Református Egyházzal.
+6. §
