@@ -13,3 +13,5 @@
 (5) A konzuli tisztviselő eljár a személyazonosító igazolvánnyal kapcsolatos ügyekben.
 
 (6) A konzuli tisztviselőnél előterjesztett állandó személyazonosító igazolvány kiadására irányuló eljárással összefüggésben a közigazgatási per megindítására irányuló keresetlevelet a vitatott közigazgatási cselekmény közlésétől számított hatvan napon belül kell benyújtani.
+
+(7) A jegyző e törvény alapján meghozott döntésével szemben nincs helye fellebbezésnek.

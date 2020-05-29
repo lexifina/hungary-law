@@ -72,3 +72,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2020-01-01 | 1999. évi LXXII. törvény | 1992-66-00-00.104 |
 | 2020-02-01 | 2019. évi XCVII. törvény | 1992-66-00-00.105 |
 | 2020-05-01 | 2019. évi CXVI. törvény | 1992-66-00-00.106 |
+| 2020-05-29 | 2020. évi XXX. törvény | 1992-66-00-00.107 |
