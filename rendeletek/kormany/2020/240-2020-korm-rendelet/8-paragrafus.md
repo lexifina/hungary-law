@@ -1,0 +1,3 @@
+## 7. § Felhatalmazást kap a fővárosi kerületi önkormányzat polgármestere – mint a helyi önkormányzat képviselő-testülete hatáskörének gyakorlója, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 46. § (4) bekezdése alapján –, hogy a vendéglátóhelyek közterület-használatának elősegítésére, akár a rendelkezésre bocsájtott közterületek méretének növelésével, intézkedést tegyen.
+
+8. § A védelmi intézkedésekről szóló rendelet 10. § (3) bekezdésében az „e rendeletben” szövegrész helyébe az „e rendeletben, valamint a fővárosi védelmi intézkedések következő üteméről szóló 240/2020. (V. 27.) Korm. rendeletben” szöveg lép.
