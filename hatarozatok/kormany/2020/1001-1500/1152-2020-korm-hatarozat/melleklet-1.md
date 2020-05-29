@@ -1,6 +1,6 @@
 ## 1. elfogadja a 2014–2020 programozási időszak operatív programjaiban az egyes prioritások – árfolyamváltozással és operatív program módosítással változtatott – indikatív támogatási keretösszegeit, az 1. melléklet szerint;
 
-## 2. felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, valamint a pénzügyminisztert mint az államháztartásért felelős minisztert, hogy gondoskodjanak a 2. mellékletben foglalt táblázat E oszlopa szerinti összegeknek megfelelő kötelezettségvállalásról a 2014–2020 programozási időszakban a Magyarország rendelkezésére álló európai uniós források teljes felhasználása érdekében;
+## 2.[^1] felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, valamint a pénzügyminisztert mint az államháztartásért felelős minisztert, hogy gondoskodjanak a 2. mellékletben foglalt táblázat E oszlopa szerinti összegeknek megfelelő kötelezettségvállalásról a 2014–2020 programozási időszakban a Magyarország rendelkezésére álló európai uniós források teljes felhasználása érdekében;
 
 ## Felelős: agrárminiszter
 
@@ -12,7 +12,7 @@
 
 ## pénzügyminiszter
 
-## Határidő: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmények esetében a felmerülés ütemében, minden egyéb esetben 2020. december 31.
+## Határidő: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekmények esetében a felmerülés ütemében, minden egyéb esetben 2020. december 31., a Vidékfejlesztési Program esetén 2021. december 31.
 
 ## 3. felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, hogy gondoskodjanak a 2. pont szerinti kötelezettségvállalás oly módon történő megtételéről, hogy szükség esetén az annak eredményeként teljesített kifizetések a 2021–2027 programozási időszak forrásai terhére is elszámolhatóak legyenek;
 
@@ -28,15 +28,7 @@
 
 ## Határidő: folyamatos
 
-## 4. felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, valamint a pénzügyminisztert mint az államháztartásért felelős minisztert, hogy gondoskodjanak a 2. mellékletben foglalt táblázat D oszlopa szerinti összegeknek megfelelő kötelezettségvállalások megtételéhez szükséges éves fejlesztési keret módosításáról oly módon, hogy az igények a következő sorrend szerint kerüljenek kielégítésre:
-
-## a) a projektek végrehajtása során felmerült költségnövekmények támogatása,
-
-## b) a közbeszerzéssel vagy feltételes közbeszerzéssel rendelkező projektek támogatása,
-
-## c) a túljegyzett felhívások keretösszegének emelése,
-
-## d) a tartaléklistákon szereplő projektek támogatása;
+## 4.[^2] felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, valamint a pénzügyminisztert mint az államháztartásért felelős minisztert, hogy gondoskodjanak a 2. mellékletben foglalt táblázat D oszlopa szerinti összegeknek megfelelő kötelezettségvállalások megtételéhez szükséges éves fejlesztési keret módosításáról oly módon, hogy ennek révén elsősorban a Gazdaságvédelmi Akciótervben meghatározott célok elérését, azaz a koronavírus világjárvány gazdasági hatásainak mérséklését támogassák;
 
 ## Felelős: agrárminiszter
 
@@ -50,24 +42,51 @@
 
 ## Határidő: 2020. június 30.
 
-## 5. felhívja az innovációért és technológiáért felelős minisztert, valamint a pénzügyminisztert, hogy gondoskodjanak az 1. mellékletben foglalt táblázat D oszlopa és a 2. mellékletben foglalt táblázat D és E oszlopa szerinti összegek felülvizsgálatáról;
+## 5.[^3] felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket és az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, hogy a pénzügyminiszter mint az államháztartásért felelős miniszter bevonásával a 2020. július 1. napjától 2021. június 30. napjáig tartó számviteli év tekintetében 100%-os európai uniós társfinanszírozást alkalmazzanak a programok végrehajtása során;
 
-## Felelős: innovációért és technológiáért felelős miniszter
+## Felelős: emberi erőforrások minisztere
 
-## pénzügyminiszter
+## innovációért és technológiáért felelős miniszter
 
-## Határidő: minden év március 31-ig vagy szükség szerint
-
-## 6. felhívja az innovációért és technológiáért felelős minisztert, valamint a pénzügyminisztert, hogy ha az 5. pont szerinti felülvizsgálat tapasztalatai azt indokolják, akkor tegyenek javaslatot a Kormány részére az 1. mellékletben foglalt táblázat D oszlopa és a 2. mellékletben foglalt táblázat D és E oszlopa szerinti összegeknek a felülvizsgálat eredménye szerinti módosítására;
-
-## Felelős: innovációért és technológiáért felelős miniszter
+## Miniszterelnökséget vezető miniszter
 
 ## pénzügyminiszter
 
-## Határidő: az 5. pont szerinti felülvizsgálat lezárását követő 30 napon belül
+## Határidő: 2020. június 30.
 
-## 7.[^1]
+## 6.[^4] felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket és az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, hogy a pénzügyminiszter mint az államháztartásért felelős miniszter bevonásával a Gazdaságvédelmi Akcióterv minél nagyobb mértékű uniós finanszírozása érdekében – az 5. pont szerinti feladat végrehajtásának eredményeit is figyelembe véve – vizsgálják meg a programokon belüli, a programok közötti, az Európai Szociális Alap, az Európai Regionális Fejlesztési Alap és a Kohéziós Alap közötti, illetve a régiókategóriák közötti átcsoportosítási lehetőségeket;
 
-1. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz
+## Felelős: agrárminiszter
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+## emberi erőforrások minisztere
+
+## innovációért és technológiáért felelős miniszter
+
+## Miniszterelnökséget vezető miniszter
+
+## pénzügyminiszter
+
+## Határidő: 2020. augusztus 31.
+
+## 7.[^5] felhívja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket és az innovációért és technológiáért felelős minisztert mint az európai uniós források felhasználásáért felelős minisztert, hogy az 5. és a 6. pont szerint készítsenek elő a programok módosítására vonatkozó javaslatokat, és azokat – a Kormány általi jóváhagyásuk esetén – nyújtsák be az Európai Bizottság részére.
+
+## Felelős: agrárminiszter
+
+## emberi erőforrások minisztere
+
+## innovációért és technológiáért felelős miniszter
+
+## Miniszterelnökséget vezető miniszter
+
+## pénzügyminiszter
+
+## Határidő: folyamatos
+
+1. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz[^6]
+
+[^1]: A 2. pont az 1264/2020. (V. 28.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1264/2020. (V. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont az 1264/2020. (V. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1264/2020. (V. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1264/2020. (V. 28.) Korm. határozat 1. pontja iktatta be.
+[^6]: Az 1. melléklet az 1264/2020. (V. 28.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.

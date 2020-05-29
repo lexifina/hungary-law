@@ -4,218 +4,220 @@
 
 | 1. | Program végrehajtásáért felelős minisztérium | Program | Prioritás | Indikatív támogatási keretösszeg (milliárd Ft)* |
 
-| 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | EFOP-1 – Együttműködő társadalom | 336,5 |
+| 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | EFOP-1 – Együttműködő társadalom | 351,4 |
 
-| 3. | EFOP-2 – Infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében | 189,2 |
+| 3. | EFOP-2 – Infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében | 197,4 |
 
-| 4. | EFOP-3 – Gyarapodó tudástőke | 311,7 |
+| 4. | EFOP-3 – Gyarapodó tudástőke | 321,1 |
 
-| 5. | EFOP-4 – Infrastrukturális beruházások a gyarapodó tudástőke érdekében | 162,3 |
+| 5. | EFOP-4 – Infrastrukturális beruházások a gyarapodó tudástőke érdekében | 168,7 |
 
-| 6. | EFOP-5 – Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések | 11,9 |
+| 6. | EFOP-5 – Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések | 12,4 |
 
-| 7. | Rászoruló Személyeket Támogató Operatív Program | RSZTOP-1 – Élelmiszersegély biztosítása szegény gyermekes családok számára | 19,6 |
+| 7. | Rászoruló Személyeket Támogató Operatív Program | RSZTOP-1 – Élelmiszersegély biztosítása szegény gyermekes családok számára | 18,7 |
 
-| 8. | RSZTOP-2 – Alapvető fogyasztási cikkek biztosítása szegény gyermekes családok számára | 2,1 |
+| 8. | RSZTOP-2 – Alapvető fogyasztási cikkek biztosítása szegény gyermekes családok számára | 5,1 |
 
-| 9. | RSZTOP-3 – Élelmiszersegély biztosítása közterületen élők csoportjába tartozók számára | 4,2 |
+| 9. | RSZTOP-3 – Élelmiszersegély biztosítása közterületen élők csoportjába tartozók számára | 3,8 |
 
-| 10. | RSZTOP-4 – Élelmiszersegély biztosítása szociálisan rászoruló megváltozott munkaképességű, valamint rendkívül alacsony jövedelmű időskorú személyek számára | 10,2 |
+| 10. | RSZTOP-4 – Élelmiszersegély biztosítása szociálisan rászoruló megváltozott munkaképességű valamint rendkívül alacsony jövedelmű időskorú személyek számára | 9,9 |
 
-| 11. | RSZTOP-5 – Technikai segítségnyújtás | 0,3 |
+| 11. | RSZTOP-5 – Technikai segítségnyújtás | 0,2 |
 
-| 12. | Pénzügyminisztérium | Gazdaságfejlesztési és Innovációs Operatív Program | GINOP-1 – Kis- és középvállalkozások versenyképességének javítása | 453,2 |
+| 12. | Pénzügyminisztérium | Gazdaságfejlesztési és Innovációs Operatív Program | GINOP-1 – Kis- és középvállalkozások versenyképességének javítása | 456,8 |
 
-| 13. | GINOP-2 – Kutatás, technológiai fejlesztés és innováció | 487,4 |
+| 13. | GINOP-2 – Kutatás, technológiai fejlesztés és innováció | 500,1 |
 
-| 14. | GINOP-3 – Infokommunikációs fejlesztések | 132,2 |
+| 14. | GINOP-3 – Infokommunikációs fejlesztések | 137,9 |
 
-| 15. | GINOP-4 – Energia | 59,8 |
+| 15. | GINOP-4 – Energia | 62,9 |
 
-| 16. | GINOP-5 – ESZA – Foglalkoztatás | 517,8 |
+| 16. | GINOP-5 – ESZA – Foglalkoztatás | 533,1 |
 
 | 17. | GINOP-5 – YEI – Foglalkoztatás | 33,6 |
 
-| 18. | GINOP-6 – Versenyképes munkaerő | 142,9 |
+| 18. | GINOP-6 – Versenyképes munkaerő | 148,0 |
 
-| 19. | GINOP-7 – Turizmus | 118,5 |
+| 19. | GINOP-7 – Turizmus | 122,8 |
 
-| 20. | GINOP-8 – Pénzügyi eszközök | 687,3 |
+| 20. | GINOP-8 – Pénzügyi eszközök | 703,6 |
 
-| 21. |  | Terület- és Településfejlesztési Operatív Program | TOP-1 – Térségi gazdasági környezet fejlesztése a foglalkoztatás elősegítésére | 354,9 |
+| 21. | Terület- és Településfejlesztési Operatív Program | TOP-1 – Térségi gazdasági környezet fejlesztése a foglalkoztatás elősegítésére | 368,6 |
 
-| 22. | TOP-2 – Vállalkozásbarát, népességmegtartó településfejlesztés | 148,1 |
+| 22. | TOP-2 – Vállalkozásbarát, népességmegtartó településfejlesztés | 154,3 |
 
-| 23. | TOP-3 – Alacsony széndioxid kibocsátású gazdaságra való áttérés kiemelten a városi területeken prioritási tengely | 201,4 |
+| 23. | TOP-3 – Alacsony széndioxid kibocsátású gazdaságra való áttérés kiemelten a városi területeken prioritási tengely | 210,0 |
 
-| 24. | TOP-4 – A helyi közösségi szolgáltatások fejlesztése és a társadalmi együttműködés erősítése | 61,7 |
+| 24. | TOP-4 – A helyi közösségi szolgáltatások fejlesztése és a társadalmi együttműködés erősítése | 64,1 |
 
-| 25. | TOP-5 – Megyei és helyi emberi erőforrás fejlesztések, foglalkoztatás-ösztönzés és társadalmi együttműködés | 83,3 |
+| 25. | TOP-5 – Megyei és helyi emberi erőforrás fejlesztések, foglalkoztatás-ösztönzés és társadalmi együttműködés | 86,7 |
 
-| 26. | TOP-6 – ERFA Fenntartható városfejlesztés a megyei jogú városokban | 381,7 |
+| 26. | TOP-6 – ERFA Fenntartható városfejlesztés a megyei jogú városokban | 396,1 |
 
-| 27. | TOP-6 – ESZA Fenntartható városfejlesztés a megyei jogú városokban | 39,8 |
+| 27. | TOP-6 – ESZA Fenntartható városfejlesztés a megyei jogú városokban | 41,4 |
 
-| 28. | TOP-7 – ERFA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 25,5 |
+| 28. | TOP-7 – ERFA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 26,7 |
 
-| 29. | TOP-7 – ESZA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 13,1 |
+| 29. | TOP-7 – ESZA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 13,8 |
 
-| 30. | Versenyképes Közép-Magyarország Operatív Program | VEKOP-1 – Vállalkozások versenyképességének javítása | 19,9 |
+| 30. | Versenyképes Közép- Magyarország Operatív Program | VEKOP-1 – Vállalkozások versenyképességének javítása | 20,3 |
 
-| 31. | VEKOP-2 – Kutatás, fejlesztés és technológiai innováció | 33,8 |
+| 31. | VEKOP-2 – Kutatás, fejlesztés és technológiai innováció | 34,7 |
 
-| 32. | VEKOP-3 – Infokommunikációs fejlesztések | 6,3 |
+| 32. | VEKOP-3 – Infokommunikációs fejlesztések | 6,5 |
 
-| 33. | VEKOP-4 – Turisztikai és természetvédelmi fejlesztések | 10,6 |
+| 33. | VEKOP-4 – Turisztikai és természetvédelmi fejlesztések | 11,1 |
 
-| 34. | VEKOP-5 – Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatása | 33,2 |
+| 34. | VEKOP-5 – Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatása | 34,5 |
 
-| 35. | VEKOP-6 – Települési környezet- és közszolgáltatás-fejlesztés | 27,1 |
+| 35. | VEKOP-6 – Települési környezet- és közszolgáltatás-fejlesztés | 28,3 |
 
-| 36. | VEKOP-7 – Társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programok | 37,9 |
+| 36. | VEKOP-7 – Társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programok | 39,3 |
 
-| 37. | VEKOP-8 – Foglalkoztathatóságot szolgáló programok | 42,9 |
+| 37. | VEKOP-8 – Foglalkoztathatóságot szolgáló programok | 44,1 |
 
-| 38. | VEKOP-9 – Közigazgatás- és közszolgáltatás fejlesztés | 59,6 |
+| 38. | VEKOP-9 – Közigazgatás- és közszolgáltatás fejlesztés | 60,7 |
 
-| 39. | Innovációs és Technológiai Minisztérium | Integrált Közlekedésfejlesztési Operatív Program | IKOP-1 – Nemzetközi (TEN-T) közúti elérhetőség javítása | 329,2 |
+| 39. | Innovációs és Technológiai Minisztérium | Integrált Közlekedésfejlesztési Operatív Program | IKOP-1 – Nemzetközi (TEN-T) közúti elérhetőség javítása | 332,1 |
 
-| 40. | IKOP-2 – Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 483,9 |
+| 40. | IKOP-2 – Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 500,7 |
 
-| 41. | IKOP-3 – ERFA Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása | 124,2 |
+| 41. | IKOP-3 – ERFA Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása | 126,0 |
 
-| 42. | IKOP-3 – KA Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása | 223,5 |
+| 42. | IKOP-3 – KA Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása | 231,6 |
 
-| 43. | IKOP-4 – TEN-T hálózat közúti elérhetőségének javítása | 115,2 |
+| 43. | IKOP-4 – TEN-T hálózat közúti elérhetőségének javítása | 117,5 |
 
-| 44. |  | Környezet és Energiahatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 342,6 |
+| 44. | Környezet és Energiahatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 354,9 |
 
-| 45. | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 409,4 |
+| 45. | KEHOP -2 – Települési vízellátás, szennyvíz- elvezetés és –tisztítás, szennyvízkezelés fejlesztése | 424,8 |
 
-| 46. | KEHOP-3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 132,1 |
+| 46. | KEHOP -3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 137,7 |
 
-| 47. | KEHOP-4 – Természetvédelmi és élővilág-védelmi fejlesztések | 33,1 |
+| 47. | KEHOP 4 – Természetvédelmi és élővilág-védelmi fejlesztések | 34,3 |
 
-| 48. | KEHOP-5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 276,5 |
+| 48. | KEHOP -5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 285,1 |
 
-| 49. | Miniszterelnökség | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 168,9 |
+| 49. | Miniszterelnökség | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 172,8 |
 
-| 50. | KÖFOP-2 – A szolgáltatási szemlélet és az etikus működés megerősítése a közszolgálatban | 59,5 |
+| 50. | KÖFOP-2 – A szolgáltatási szemlélet és az etikus működés megerősítése a közszolgálatban | 60,5 |
 
-| 51. | KÖFOP-3 – Az ESZA, ERFA, KA finanszírozású operatív programok végrehajtásához kapcsolódó technikai segítségnyújtás | 73,8 |
+| 51. | KÖFOP-3 – Az ESZA, ERFA, KA finanszírozású operatív programok végrehajtásához kapcsolódó technikai segítségnyújtás | 75,0 |
 
-| 52. | Agrárminisztérium | Vidékfejlesztési Program | – | 1369,7 |
+| 52. | Agrárminisztérium | Vidékfejlesztési Program | – | 1 413,8 |
 
-| 53. | Magyar Halgazdálkodási Operatív Program | – | 16,9 |
+| 53. | Magyar Halgazdálkodási Operatív Program | – | 17,5 |
 
-## *minden program esetén egységes 332,16 HUF/EUR árfolyammal számolva
+## *minden program esetén egységes 350 HUF/EUR árfolyammal számolva
 
-2. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz
+2. melléklet az 1152/2020. (IV. 14.) Korm. határozathoz[^7]
 
 Kötelezettségvállalási szükséglet a 2020. február 15. és 2020. december 31. közötti időszakban
 
 |  | A | B | C | D | E |
 
-| 1. | Program végrehajtásáért felelős minisztérium | Program | Prioritás | Kötelezettség-vállalási szükséglet (milliárd Ft) | Maximális kötelezettség- vállalási szint 2020. december 31-ig (milliárd Ft) |
+| 1. | Program végrehajtásáért felelős minisztérium | Program | Prioritás | Kötelezettség- vállalási szükséglet (milliárd Ft) | Maximális kötelezettség- vállalási szint 2020. december 31-ig (milliárd Ft) |
 
-| 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | EFOP-1 – Együttműködő társadalom | 60,50 | 404,42 |
+| 2. | Emberi Erőforrások Minisztériuma | Emberi Erőforrás Fejlesztési Operatív Program | EFOP-1 – Együttműködő társadalom | 75,36 | 419,28 |
 
-| 3. | EFOP-2 – Infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében | 61,74 | 198,68 |
+| 3. | EFOP-2 – Infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében | 69,90 | 206,84 |
 
-| 4. | EFOP-3 – Gyarapodó tudástőke | 0,93 | 319,05 |
+| 4. | EFOP-3 – Gyarapodó tudástőke | 10,39 | 328,51 |
 
-| 5. | EFOP-4 – Infrastrukturális beruházások a gyarapodó tudástőke érdekében | 26,63 | 191,60 |
+| 5. | EFOP-4 – Infrastrukturális beruházások a gyarapodó tudástőke érdekében | 33,03 | 198,00 |
 
-| 6. | EFOP-5 – Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések | 6,26 | 18,39 |
+| 6. | EFOP-5 – Pénzügyi eszközök alkalmazása a társadalmi együttműködés erősítése érdekében, valamint társadalmi innováció és transznacionális együttműködések | 6,79 | 18,92 |
 
-| 7. | Rászoruló Személyeket Támogató Operatív Program | RSZTOP-1 – Élelmiszersegély biztosítása szegény gyermekes családok számára | 2,06 | 21,44 |
+| 7. | Rászoruló Személyeket Támogató Operatív Program | RSZTOP-1 – Élelmiszersegély biztosítása szegény gyermekes családok számára | 1.22 | 20,59 |
 
-| 8. | RSZTOP-2 – Alapvető fogyasztási cikkek biztosítása szegény gyermekes családok számára | 0,07 | 2,36 |
+| 8. | RSZTOP-2 – Alapvető fogyasztási cikkek biztosítása szegény gyermekes családok számára | 3,03 | 5,32 |
 
-| 9. | RSZTOP-3 – Élelmiszersegély biztosítása közterületen élők csoportjába tartozók számára | 0,58 | 4,58 |
+| 9. | RSZTOP-3 – Élelmiszersegély biztosítása közterületen élők csoportjába tartozók számára | 0,18 | 4,18 |
 
-| 10. | RSZTOP-4 – Élelmiszersegély biztosítása szociálisan rászoruló megváltozott munkaképességű, valamint rendkívül alacsony jövedelmű időskorú személyek számára | 1,16 | 11,16 |
+| 10. | RSZTOP-4 – Élelmiszersegély biztosítása szociálisan rászoruló megváltozott munkaképességű, valamint rendkívül alacsony jövedelmű időskorú személyek számára | 0,87 | 10,87 |
 
-| 11. | RSZTOP-5 – Technikai segítségnyújtás | 0,02 | 0,33 |
+| 11. | RSZTOP-5 – Technikai segítségnyújtás | 0,00 | 0,31 |
 
-| 12. | Pénzügyminisztérium | Gazdaságfejlesztési és Innovációs Operatív Program | GINOP-1 – Kis- és középvállalkozások versenyképességének javítása | 112,60 | 522,95 |
+| 12. | Pénzügy- minisztérium | Gazdaságfejlesz- tési és Innovációs Operatív Program | GINOP-1 – Kis- és középvállalkozások versenyképességének javítása | 116,21 | 526,55 |
 
-| 13. | GINOP-2 – Kutatás, technológiai fejlesztés és innováció | 96,43 | 568,15 |
+| 13. | GINOP-2 – Kutatás, technológiai fejlesztés és innováció | 109,05 | 580,77 |
 
-| 14. | GINOP-3 – Infokommunikációs fejlesztések | 32,93 | 145,97 |
+| 14. | GINOP-3 – Infokommunikációs fejlesztések | 38,64 | 151,67 |
 
-| 15. | GINOP-4 – Energia | 52,91 | 65,83 |
+| 15. | GINOP-4 – Energia | 56,33 | 69,25 |
 
-| 16. | GINOP-5 – ESZA – Foglalkoztatás | 50,07 | 576,06 |
+| 16. | GINOP-5 – ESZA – Foglalkoztatás | 65,38 | 591,37 |
 
 | 17. | GINOP-5 – YEI – Foglalkoztatás | 0,00 | 33,59 |
 
-| 18. | GINOP-6 – Versenyképes munkaerő | 31,53 | 159,23 |
+| 18. | GINOP-6 – Versenyképes munkaerő | 36,61 | 164,30 |
 
-| 19. | GINOP-7 – Turizmus | 11,28 | 135,00 |
+| 19. | GINOP-7 – Turizmus | 15,66 | 139,39 |
 
-| 20. | Terület- és Településfejlesztési Operatív Program | TOP-1 – Térségi gazdasági környezet fejlesztése a foglalkoztatás elősegítésére | 85,75 | 432,59 |
+| 20. | Terület- és Településfejlesz- tési Operatív Program | TOP-1 – Térségi gazdasági környezet fejlesztése a foglalkoztatás elősegítésére | 99,39 | 446,23 |
 
-| 21. | TOP-2 – Vállalkozásbarát, népességmegtartó településfejlesztés | 39,04 | 190,56 |
+| 21. | TOP-2 – Vállalkozásbarát, népességmegtartó településfejlesztés | 45,24 | 196,76 |
 
-| 22. | TOP-3 – Alacsony széndioxid kibocsátású gazdaságra való áttérés kiemelten a városi területeken prioritási tengely | 21,46 | 234,82 |
+| 22. | TOP-3 – Alacsony széndioxid kibocsátású gazdaságra való áttérés kiemelten a városi területeken prioritási tengely | 30,02 | 243,37 |
 
-| 23. | TOP-4 – A helyi közösségi szolgáltatások fejlesztése és a társadalmi együttműködés erősítése | 14,15 | 72,66 |
+| 23. | TOP-4 – A helyi közösségi szolgáltatások fejlesztése és a társadalmi együttműködés erősítése | 16,60 | 75,11 |
 
-| 24. | TOP-5 – Megyei és helyi emberi erőforrás fejlesztések, foglalkoztatás-ösztönzés és társadalmi együttműködés | 10,94 | 94,64 |
+| 24. | TOP-5 – Megyei és helyi emberi erőforrás fejlesztések, foglalkoztatás-ösztönzés és társadalmi együttműködés | 14,34 | 98,04 |
 
-| 25. | TOP-6 – ERFA Fenntartható városfejlesztés a megyei jogú városokban | 43,48 | 418,37 |
+| 25. | TOP-6 – ERFA Fenntartható városfejlesztés a megyei jogú városokban | 57,92 | 432,81 |
 
-| 26. | TOP-6 – ESZA Fenntartható városfejlesztés a megyei jogú városokban | 0,69 | 42,17 |
+| 26. | TOP-6 – ESZA Fenntartható városfejlesztés a megyei jogú városokban | 2,23 | 43,71 |
 
-| 27. | TOP-7 – ERFA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 9,63 | 26,36 |
+| 27. | TOP-7 – ERFA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 10,88 | 27,61 |
 
-| 28. | TOP-7 – ESZA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 8,95 | 13,12 |
+| 28. | TOP-7 – ESZA Közösségi szinten irányított városi helyi fejlesztések (clld) prioritási tengely | 9,65 | 13,83 |
 
-| 29. |  | Versenyképes Közép- Magyarország Operatív Program | VEKOP-1 – Vállalkozások versenyképességének javítása | 7,98 | 21,62 |
+| 29. | Versenyképes Közép- Magyarország Operatív Program | VEKOP-1 – Vállalkozások versenyképességének javítása | 8,39 | 22,03 |
 
 | 30. | VEKOP-2 – Kutatás, fejlesztés és technológiai innováció | 0,00 | 47,97 |
 
-| 31. | VEKOP-3 – Infokommunikációs fejlesztések | 0,27 | 6,59 |
+| 31. | VEKOP-3 – Infokommunikációs fejlesztések | 0,50 | 6,82 |
 
 | 32. | VEKOP-4 – Turisztikai és természetvédelmi fejlesztések | 0,00 | 14,29 |
 
-| 33. | VEKOP-5 – Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatása | 1,47 | 35,01 |
+| 33. | VEKOP-5 – Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatása | 2,76 | 36,30 |
 
 | 34. | VEKOP-6 – Települési környezet- és közszolgáltatás-fejlesztés | 0,00 | 29,73 |
 
-| 35. | VEKOP-7 – Társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programok | 0,51 | 39,87 |
+| 35. | VEKOP-7 – Társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programok | 1,99 | 41,35 |
 
-| 36. | VEKOP-8 – Foglalkoztathatóságot szolgáló programok | 3,43 | 45,24 |
+| 36. | VEKOP-8 – Foglalkoztathatóságot szolgáló programok | 4,57 | 46,38 |
 
-| 37. | VEKOP-9 – Közigazgatás- és közszolgáltatás fejlesztés | 2,34 | 62,84 |
+| 37. | VEKOP-9 – Közigazgatás- és közszolgáltatás fejlesztés | 3,44 | 63,94 |
 
-| 38. | Innovációs és Technológiai Minisztérium | Integrált Közlekedés- fejlesztési Operatív Program | IKOP-1 – Nemzetközi (TEN-T) közúti elérhetőség javítása | 0,00 | 599,14 |
+| 38. | Innovációs és Technológiai Minisztérium | Integrált Közlekedésfej- lesztési Operatív Program | IKOP-1 – Nemzetközi (TEN-T) közúti elérhetőség javítása | 0,00 | 599,14 |
 
-| 39. | IKOP-2 – Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 13,07 | 566,64 |
+| 39. | IKOP-2 – Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 29,89 | 583,46 |
 
 | 40. | IKOP-3 – ERFA Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása | 0,00 | 190,67 |
 
 | 41. | IKOP-3 – KA Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása | 0,00 | 282,36 |
 
-| 42. | IKOP-4 – TEN-T hálózat közúti elérhetőségének javítása | 33,78 | 181,44 |
+| 42. | IKOP-4 – TEN-T hálózat közúti elérhetőségének javítása | 16,06 | 163,72 |
 
-| 43. | Környezet és Energia- hatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 55,54 | 411,16 |
+| 43. | Környezet és Energiahatékony- sági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 67,76 | 423,39 |
 
-| 44. | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 152,74 | 504,44 |
+| 44. | KEHOP -2 – Települési vízellátás, szennyvíz-elvezetés és –tisztítás, szennyvízkezelés fejlesztése | 168,15 | 519,86 |
 
-| 45. | KEHOP-3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 0,00 | 152,09 |
+| 45. | KEHOP -3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 5,44 | 157,54 |
 
-| 46. | KEHOP-4 – Természetvédelmi és élővilágvédelmi fejlesztések | 3,39 | 37,43 |
+| 46. | KEHOP 4 – Természetvédelmi és élővilág-védelmi fejlesztések | 4,63 | 38,66 |
 
-| 47. | KEHOP-5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 0,00 | 311,80 |
+| 47. | KEHOP -5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 0,00 | 311,80 |
 
-| 48. | Miniszterelnökség | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 6,95 | 202,02 |
+| 48. | Miniszterelnökség | Közigazgatás- és Közszolgáltatás- fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 10,88 | 205,94 |
 
-| 49. | KÖFOP-2 – A szolgáltatási szemlélet és az etikus működés megerősítése a közszolgálatban | 2,93 | 64,12 |
+| 49. | KÖFOP-2 – A szolgáltatási szemlélet és az etikus működés megerősítése a közszolgálatban | 3,89 | 65,07 |
 
 | 50. | KÖFOP-3 – Az ESZA, ERFA, KA finanszírozású operatív programok végrehajtásához kapcsolódó technikai segítségnyújtás | 0,00 | 78,64 |
 
-| 51. | Agrárminisztérium | Vidékfejlesztési Program | – | 71,40 | 1487,72 |
+| 51. | Agrárminisztérium | Vidékfejlesztési Program | – | 115,50 | 1531,82 |
 
-| 52. | Magyar Halgazdálkodási Operatív Program | – | 7,87 | 18,59 |
+| 52. | Magyar Halgazdálkodási Operatív Program | – | 8,53 | 19,24 |
+
+[^7]: A 2. melléklet az 1264/2020. (V. 28.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
