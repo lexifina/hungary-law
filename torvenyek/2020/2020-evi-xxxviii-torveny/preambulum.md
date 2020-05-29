@@ -1,0 +1,1 @@
+A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az innovatív vállalkozásokat támogatni kész magyar felsőoktatási intézményrendszer és környezetének megerősítése, a képzést folytató oktatók, kutatók, tanárok, a képzésben részt vevők támogatása érdekében az Országgyűlés a következő törvényt alkotja:
