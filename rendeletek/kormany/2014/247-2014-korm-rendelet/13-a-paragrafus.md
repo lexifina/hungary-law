@@ -1,4 +1,4 @@
-## 5/A. [^59] Rendezvényszervezésre vonatkozó igények
+## 5/A. [^60] Rendezvényszervezésre vonatkozó igények
 
 13/A. § (1) A 8. § (1) bekezdés b) pontja alapján a Hivatalhoz kizárólag olyan rendezvényszervezésre vonatkozó igény nyújtható be elbírálásra, amely az éves rendezvényszervezési tervben szerepel.
 
@@ -28,4 +28,4 @@ c) a rendezvényszervezésre vonatkozó igény összes körülménye alapján a 
 
 (6) A rendezvényszervezés megvalósítása kizárólag a Hivatal (4) bekezdés a)–c) pontja szerinti hozzájárulása esetén a hozzájárulás megadásától számított hat hónapon belül kezdhető meg. A Hivatal döntése hiányában, döntése ellenére vagy a hozzájárulás megadásától számított hat hónapon túl megvalósított rendezvényszervezésre megkötött szerződés semmis.
 
-[^59]: Az 5/A. alcímet (13/A. §) a 99/2018. (VI. 8.) Korm. rendelet 10. §-a iktatta be.
+[^60]: Az 5/A. alcímet (13/A. §) a 99/2018. (VI. 8.) Korm. rendelet 10. §-a iktatta be.

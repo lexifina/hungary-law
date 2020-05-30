@@ -1,4 +1,4 @@
-11/A. §[^57] (1) A 10. § (1) bekezdése szerinti közbeszerzési eljárás, valamint a Hivatal működésével összefüggésben álló beszerzési eljárás, továbbá az ezek eredményeképpen megkötött szerződések módosítása esetében a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet előírásait akként kell alkalmazni, hogy a közbeszerzési eljárásban, valamint a szerződésmódosítással összefüggésben csak utólagos ellenőrzés szükséges.
+11/A. §[^58] (1) A 10. § (1) bekezdése szerinti közbeszerzési eljárás, valamint a Hivatal működésével összefüggésben álló beszerzési eljárás, továbbá az ezek eredményeképpen megkötött szerződések módosítása esetében a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet előírásait akként kell alkalmazni, hogy a közbeszerzési eljárásban, valamint a szerződésmódosítással összefüggésben csak utólagos ellenőrzés szükséges.
 
 (2) A 10. § (1) bekezdése szerinti közbeszerzési eljárás, valamint a Hivatal működésével összefüggésben álló beszerzési eljárás, továbbá az ezek eredményeképpen megkötött szerződések módosítása esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet előírásait nem kell alkalmazni.
 
@@ -8,4 +8,4 @@
 
 (5) A 10. § (1) bekezdése szerinti közbeszerzési eljárás, valamint a Hivatal működésével összefüggésben álló beszerzési eljárás esetében a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet előírásait nem kell alkalmazni.
 
-[^57]: A 11/A. §-t a 134/2019. (VI. 7.) Korm. rendelet 5. §-a iktatta be.
+[^58]: A 11/A. §-t a 134/2019. (VI. 7.) Korm. rendelet 5. §-a iktatta be.
