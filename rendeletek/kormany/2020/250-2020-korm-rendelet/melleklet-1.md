@@ -1,3 +1,5 @@
-## 7. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet [a továbbiakban: 345/2012. (XII. 6.) Korm. rendelet] 1. melléklete a 3. melléklet szerint módosul.
+## 7. §[^1]
 
 1. melléklet a 250/2020. (V. 28.) Korm. rendelethez
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
