@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-240-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-29 | 2020-240-20-22.1 | 240/2020. (V. 27.) Korm. rendelet |
+| 2020-05-30 | 2020-240-20-22.2 | 2010: CXXX. törvény |
