@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-208-20-
 | --- | --- | --- |
 | 2020-05-16 | 2020-208-20-22.1 | 208/2020. (V. 15.) Korm. rendelet |
 | 2020-05-17 | 2020-208-20-22.2 | 2010: CXXX. törvény |
+| 2020-05-30 | 2020-208-20-22.3 | 40/2020. (III. 11.) Korm. rendelet |
