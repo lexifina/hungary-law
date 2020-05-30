@@ -4,7 +4,7 @@
 
 a)
 
-b) 61. § (5) bekezdésében az „a járási hivatalnál” szövegrész helyébe az „az egészségbiztosítási szervnél” szöveg
+b)
 
 lép.
 

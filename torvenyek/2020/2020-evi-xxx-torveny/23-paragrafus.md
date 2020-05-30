@@ -1,11 +1,3 @@
 ## 23. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-23. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) 11/C. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha az adott kiemelten közérdekű beruházásra vonatkozó 11/B. § (1) bekezdés a) pontja szerinti beépítési szabálynak, építési követelménynek megfelelő beépítést a szomszédos ingatlan építményének az ingatlan határvonalán átnyúló része akadályozza, a szomszédos ingatlan tulajdonosa az adott építményrész elbontását, átalakítását köteles elvégezni. Az elbontásról a kiemelten közérdekű beruházás építtetője és a szomszédos ingatlan tulajdonosa a költségek viselésére is kiterjedő módon megállapodnak. Amennyiben a megállapodás nem jön létre a felek között a szerződéskötésre vonatkozó ajánlat megtételétől számított 90 napon belül a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:71. §-a szerint, a felek bármelyike bírósághoz fordulhat és a megállapodást a bíróság ítéletével pótolja. A bíróság ítélete elleni fellebbezésnek az ítélet végrehajtására nincs halasztó hatálya.”
-
-(2) Az Ngtv. 11/F. §-a a következő (8) és (9) bekezdéssel egészül ki:
-
-„(8) Kiemelten közérdekű beruházás megvalósításával összefüggésben, az építmény rendeltetésszerű és biztonságos használhatósága, közszolgálati járművel, vagy gyalogosan történő megközelíthetőségének, valamint közhasználatú építmény esetén az akadálymentes módon történő megközelítésének biztosítása szempontjából, illetve a biztonságos kiürítés biztosíthatósága érdekében, a közterület és az építmény szintkülönbségének áthidalása (terepcsatlakozás) céljából az építtető által – a közterületre a feltétlenül szükséges mértékben – rámpa, lépcső, vagy egyéb szintemelés építéséhez nem szükséges tulajdonosi hozzájárulás.
-
-(9) Az építtető a (8) bekezdés szerint közterületen elhelyezett építményrészt az adott közterületre vonatkozó jogszabályi és építési követelményeknek megfelelően köteles megvalósítani. Az építtető vagy az ingatlan tulajdonosa, használója a (8) bekezdés szerint létrejött, közterületen elhelyezkedő építményrész tekintetében a beruházás befejezését követően a közhasználatot nem korlátozhatja, és a beruházást követően egyebekben az építményrészre a közterületre vonatkozó szabályokat kell alkalmazni.”
+23. §
