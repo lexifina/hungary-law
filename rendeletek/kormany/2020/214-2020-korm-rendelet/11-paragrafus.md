@@ -1,0 +1,3 @@
+## 10. § Ez a rendelet 2020. május 30-án lép hatályba.
+
+11. § Ez a rendelet a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i 2016/1148 európai parlamenti és tanácsi irányelvnek történő megfelelést szolgálja.
