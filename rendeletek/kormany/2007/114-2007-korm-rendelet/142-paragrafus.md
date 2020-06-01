@@ -1,17 +1,17 @@
-142. § (1)[^477] Visszairányítás végrehajtása esetén a kitoloncolást a Rendőrség, kiutasítás végrehajtása esetén az idegenrendészeti kiutasítást elrendelő idegenrendészeti hatóság vagy a bíróság által elrendelt kiutasítást végrehajtó regionális igazgatóság rendeli el. A Tv. 65. § (2) bekezdésében meghatározott esetben a menekültügyi hatóság által elrendelt kiutasítás végrehajtása esetén a kitoloncolást a harmadik országbeli állampolgár tartózkodásának helye szerint illetékes regionális igazgatóság rendeli el.
+142. § (1)[^478] Visszairányítás végrehajtása esetén a kitoloncolást a Rendőrség, kiutasítás végrehajtása esetén az idegenrendészeti kiutasítást elrendelő idegenrendészeti hatóság vagy a bíróság által elrendelt kiutasítást végrehajtó regionális igazgatóság rendeli el. A Tv. 65. § (2) bekezdésében meghatározott esetben a menekültügyi hatóság által elrendelt kiutasítás végrehajtása esetén a kitoloncolást a harmadik országbeli állampolgár tartózkodásának helye szerint illetékes regionális igazgatóság rendeli el.
 
 (2) A kitoloncolásról szóló határozatnak tartalmaznia kell a kitoloncolás elrendelésének indokát, a végrehajtás idejét, valamint azt az államot, ahová a kitoloncolás történik.
 
-(3)[^478]
+(3)[^479]
 
-(4)[^479] A kitoloncolás feltételeinek megteremtésére – az (5) bekezdésben foglalt kivétellel – a Rendőrség intézkedik.
+(4)[^480] A kitoloncolás feltételeinek megteremtésére – az (5) bekezdésben foglalt kivétellel – a Rendőrség intézkedik.
 
-(5)[^480] Ha a kitoloncolás kiutasítás végrehajtása érdekében légi úton történik, a kitoloncolás feltételeinek megteremtésére a Főigazgatóság intézkedik.
+(5)[^481] Ha a kitoloncolás kiutasítás végrehajtása érdekében légi úton történik, a kitoloncolás feltételeinek megteremtésére a Főigazgatóság intézkedik.
 
-(6)[^481] A kitoloncolást a Rendőrség foganatosítja.
+(6)[^482] A kitoloncolást a Rendőrség foganatosítja.
 
-[^477]: A 142. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^478]: A 142. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^479]: A 142. § (4) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^480]: A 142. § (5) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^481]: A 142. § (6) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^478]: A 142. § (1) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^479]: A 142. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^480]: A 142. § (4) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^481]: A 142. § (5) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^482]: A 142. § (6) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

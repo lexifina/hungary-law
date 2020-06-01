@@ -1,4 +1,4 @@
-## VIII/A. Fejezet[^534]
+## VIII/A. Fejezet[^535]
 
 ## ELJÁRÁSI SZABÁLYOK
 
@@ -6,4 +6,4 @@
 
 (2) A cselekvőképtelen vagy korlátozottan cselekvőképes személy idézésében, valamint annak az idézésében, aki szellemi vagy egyéb állapota miatt korlátozottan képes megítélni a tanúvallomás megadásának a jelentőségét, korára, érettségére, szellemi és egyéb állapotára figyelemmel, számára érthető módon tájékoztatást kell adni az idézés tartalmáról.
 
-[^534]: A VIII/A. fejezetet (169/A. §–169/F. §) a 411/2017. (XII. 15.) Korm. rendelet 29. §-a iktatta be.
+[^535]: A VIII/A. fejezetet (169/A. §–169/F. §) a 411/2017. (XII. 15.) Korm. rendelet 29. §-a iktatta be.

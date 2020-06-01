@@ -2,9 +2,9 @@
 
 129. § (1) Őrzött szállás olyan épületben vagy épületrészben létesíthető, ahol
 
-a)[^440] az őrizetben lévő harmadik országbeli állampolgárok elhelyezésére szolgáló helyiségekben fejenként legalább 15 m3 légtér és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,
+a)[^441] az őrizetben lévő harmadik országbeli állampolgárok elhelyezésére szolgáló helyiségekben fejenként legalább 15 m3 légtér és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,
 
-b)[^441] az étkezés, a szabadidő eltöltésére beleértve a kiskorú őrizetes korának megfelelő játék- és rekreációs tevékenységet , illetve a látogatók fogadására alkalmas közösségi helyiség,
+b)[^442] az étkezés, a szabadidő eltöltésére beleértve a kiskorú őrizetes korának megfelelő játék- és rekreációs tevékenységet , illetve a látogatók fogadására alkalmas közösségi helyiség,
 
 c) az engedélyezett férőhelyek számának megfelelő számú, nemenként elkülönített, hideg-meleg folyóvízzel ellátott mosdó és zuhanyozó, valamint WC helyiségek,
 
@@ -26,13 +26,13 @@ k) az őrizetben lévő harmadik országbeli állampolgárok és a személyzet e
 
 biztosítható.
 
-(1a)[^442] Amennyiben az őrizet időtartama indokolja, a kiskorú őrizetes számára korának és fejlettségi szintjének megfelelő oktatást kell biztosítani az őrzött szálláson vagy más arra alkalmas intézményben.
+(1a)[^443] Amennyiben az őrizet időtartama indokolja, a kiskorú őrizetes számára korának és fejlettségi szintjének megfelelő oktatást kell biztosítani az őrzött szálláson vagy más arra alkalmas intézményben.
 
 (2) Őrzött szállás rendőrségi fogda vagy büntetés-végrehajtási intézet területén nem létesíthető.
 
-(2a)[^443] A (2) bekezdésben foglaltaktól el lehet térni a Tv. 61/A. § (1) bekezdésében meghatározott szükséghelyzet esetén, amennyiben az elhelyezés őrzött szálláson nem megoldható.
+(2a)[^444] A (2) bekezdésben foglaltaktól el lehet térni a Tv. 61/A. § (1) bekezdésében meghatározott szükséghelyzet esetén, amennyiben az elhelyezés őrzött szálláson nem megoldható.
 
-(3)[^444] Az őrizetben lévő
+(3)[^445] Az őrizetben lévő
 
 a) férfiakat és nőket,
 
@@ -44,11 +44,11 @@ d) az idegenrendészeti őrizet és az előzetes letartóztatás hatálya alatt 
 
 külön épületben vagy épületrészben kell elhelyezni.
 
-(4)[^445] A Főigazgatóság és a Rendőrség a Tv. 61/A. § (1) bekezdésében meghatározott szükséghelyzet bekövetkezéséről, az alkalmazott intézkedésekről, valamint a szükséghelyzet megszűnéséről soron kívül értesíti az idegenrendészetért és menekültügyért felelős miniszter útján az Európai Bizottságot.
+(4)[^446] A Főigazgatóság és a Rendőrség a Tv. 61/A. § (1) bekezdésében meghatározott szükséghelyzet bekövetkezéséről, az alkalmazott intézkedésekről, valamint a szükséghelyzet megszűnéséről soron kívül értesíti az idegenrendészetért és menekültügyért felelős miniszter útján az Európai Bizottságot.
 
-[^440]: 129. § (1) bekezdés a) pontja a 290/2010. (XII. 21.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^441]: 129. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^442]: 129. § (1a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (2) bekezdése iktatta be.
-[^443]: 129. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (3) bekezdése iktatta be.
-[^444]: A 129. § (3) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^445]: 129. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (5) bekezdése iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^441]: 129. § (1) bekezdés a) pontja a 290/2010. (XII. 21.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^442]: 129. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^443]: 129. § (1a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^444]: 129. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (3) bekezdése iktatta be.
+[^445]: A 129. § (3) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^446]: 129. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (5) bekezdése iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.

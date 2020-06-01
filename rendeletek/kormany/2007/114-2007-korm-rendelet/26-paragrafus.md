@@ -1,3 +1,3 @@
-26. §[^71]
+26. §[^72]
 
-[^71]: A 26. §-t a 411/2017. (XII. 15.) Korm. rendelet 35. § a) pontja hatályon kívül helyezte.
+[^72]: A 26. §-t a 411/2017. (XII. 15.) Korm. rendelet 35. § a) pontja hatályon kívül helyezte.
