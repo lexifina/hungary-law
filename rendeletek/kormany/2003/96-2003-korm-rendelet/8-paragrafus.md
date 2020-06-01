@@ -48,29 +48,32 @@ g) az (1) bekezdés f) pontja szerinti tevékenységet végzők jogszabály szer
 
 h) a 2. melléklet szerinti szakmai programot;
 
-i) alapellátás esetén a helyettesítő személy nyilatkozatát arról, hogy vállalja a kérelmező helyettesítését.
+i) alapellátás esetén a helyettesítő személy nyilatkozatát arról, hogy vállalja a kérelmező helyettesítését;
+
+j)[^48] a kérelmező nyilatkozatát arról, hogy az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Térhez (a továbbiakban: EESZT) történő csatlakozási kötelezettségét a működési engedély véglegessé válását követő 8 napon belül, majd adatszolgáltatási kötelezettségét ezt követően folyamatosan teljesíti.
 
 (5) A működési engedély kiadása iránti eljárásban az egészségügyi államigazgatási szerv az alábbi adatokat szerzi be:
 
-a)[^48] a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
+a)[^49] a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
 
 b) amennyiben a kérelmező egészségügyi szolgáltató már rendelkezik működési engedéllyel, az egészségügyi szolgáltatók nyilvántartásában kapott azonosító számát, továbbá működési engedélye (engedélyei) számát,
 
-c)[^49] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
+c)[^50] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
 
 ca) szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése,
 
 cb) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, az Eütv. és más jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye.
 
-(6)[^50]
+(6)[^51]
 
-(7)[^51] A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései véglegessé válnak, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(7)[^52] A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései véglegessé válnak, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
 [^44]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^45]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
 [^46]: A 8. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
 [^47]: A 8. § (4) bekezdés d) pontja a 60/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^48]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^49]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^50]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
-[^51]: A 8. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^48]: A 8. § (4) bekezdés j) pontját a 147/2020. (IV. 22.) Korm. rendelet 1. §-a iktatta be.
+[^49]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^50]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^51]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
+[^52]: A 8. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

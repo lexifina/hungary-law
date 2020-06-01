@@ -1,4 +1,4 @@
-16/A. §[^129] (1) Az egészségügyi szolgáltatók infekciókontrollal kapcsolatos kötelezettségeit, az infekciókontroll-minimumok biztosítását és működését, továbbá a fertőző betegségek jelentésének rendjéről szóló miniszteri rendelet szerint érkezett bejelentésben foglalt információk megalapozottságát a szolgáltatás helye szerint illetékes hatóság is ellenőrzi a (3)–(5) bekezdésben foglaltak szerint. A hatósági ellenőrzésben szükség szerint szakfelügyelő főorvos is részt vesz.
+16/A. §[^136] (1) Az egészségügyi szolgáltatók infekciókontrollal kapcsolatos kötelezettségeit, az infekciókontroll-minimumok biztosítását és működését, továbbá a fertőző betegségek jelentésének rendjéről szóló miniszteri rendelet szerint érkezett bejelentésben foglalt információk megalapozottságát a szolgáltatás helye szerint illetékes hatóság is ellenőrzi a (3)–(5) bekezdésben foglaltak szerint. A hatósági ellenőrzésben szükség szerint szakfelügyelő főorvos is részt vesz.
 
 (2) Ha az egészségügyi szolgáltató megsérti az infekciókontrollal összefüggő feladatait meghatározó, jogszabályban, módszertani levélben, illetve szakmai irányelvben foglalt szabályokat, a hatóság a 16. § (2) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.
 
@@ -28,4 +28,4 @@ b) a (3) bekezdés b) pontja szerinti esetben évente legalább egy alkalommal
 
 végzi a hatóság, és szükség esetén intézkedik, vagy szakmai javaslatot tesz a szükséges intézkedések megtételére.
 
-[^129]: A 16/A. §-t a 164/2018. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
+[^136]: A 16/A. §-t a 164/2018. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
