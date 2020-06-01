@@ -1,3 +1,0 @@
-4. § (1) E rendelet hatálybalépésétől a büntetés-végrehajtási szervezet adottságai szerint és a lehetőségektől függően kell biztosítani az elítélt munkáltatását. Az elítélt munkáltatása átmenetileg, a munkába állását akadályozó ok fennállásáig vagy a büntetés-végrehajtás országos parancsnokának döntése alapján szünetelhet.
-
-(2) Az elítélt részére a beosztás szerinti napi munkaidő vagy a napi munkaidő-beosztástól eltérő rendkívüli munkaidő tartama alatt három óránként huszonöt perc munkaközi szünetet kell biztosítani. A munkáltató az elítéltek számára hatvan percnél hosszabb munkaközi szünetet is biztosíthat.
