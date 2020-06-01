@@ -1,3 +1,3 @@
-## Az EGT-állampolgár és családtag ellenőrzése[^133]
+## Az EGT-állampolgár és családtag ellenőrzése[^134]
 
-[^133]: A 43/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
+[^134]: A 43/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 18. §-a iktatta be.

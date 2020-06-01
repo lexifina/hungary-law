@@ -1,8 +1,8 @@
-17. §[^51] (1)[^52] A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Főigazgatóság látja el.
+17. §[^52] (1)[^53] A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Főigazgatóság látja el.
 
-(2)[^53]
+(2)[^54]
 
-(3)[^54] A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulásáról vagy a hozzájárulás megtagadásáról
+(3)[^55] A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulásáról vagy a hozzájárulás megtagadásáról
 
 a) ha a Tv. 3. § (7) bekezdése szerinti egyeztetésre nincs szükség, vagy attól a központi vízumhatóság eltekint, vagy a Vízumkódex 8. cikke szerinti képviseleti megállapodás szerint az egyeztetést a képviselő tagállam végzi, a vízumkérelem felterjesztésétől számított hét napon belül,
 
@@ -10,10 +10,10 @@ b) a Tv. 3. § (7) bekezdése szerinti egyeztetés esetén, valamennyi válasz b
 
 tájékoztatja a konzuli tisztviselőt.
 
-(4)–(5)[^55]
+(4)–(5)[^56]
 
-[^51]: A 17. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^52]: A 17. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^53]: A 17. § (2) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^54]: A 17. § (3) bekezdés nyitó szövegrésze a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^55]: A 17. § (4)–(5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^52]: A 17. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^53]: A 17. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^54]: A 17. § (2) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^55]: A 17. § (3) bekezdés nyitó szövegrésze a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^56]: A 17. § (4)–(5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés b) pontja hatályon kívül helyezte.
