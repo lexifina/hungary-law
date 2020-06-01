@@ -1,4 +1,4 @@
-## 9. §[^1]
+## 9. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
 
 10. § (1) E rendelet hatálya alá tartozó területen az egészség és élet megóvása, valamint a nemzetgazdaság helyreállítása érdekében elrendelt veszélyhelyzettel kapcsolatos rendkívüli intézkedésekről szóló 81/2020. (IV. 1.) Korm. rendelet 6. § (2) bekezdése nem alkalmazható.
 
@@ -10,5 +10,4 @@
 
 (5) A (3) bekezdés szerinti szabálysértés esetén a helyszíni bírság összege a Szabs. tv. 99. § (2) bekezdésétől eltérően ötezer forinttól százezer forintig, a szabálysértés ismételt elkövetése esetén százötvenezer forintig terjed.
 
-[^1]: A 9. § a 8. § (2) bekezdése alapján 2020. június 1-jén lép hatályba.
 [^2]: A 10. § (3) bekezdése a 240/2020. (V. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
