@@ -1,1 +1,0 @@
-## 77. § A bíróság legkésőbb az előkészítő ülés berekesztésétől számított három hónapon belül megvizsgálja a bizonyítási indítványokat, kitűzi a tárgyalás határnapját és gondoskodik a tárgyalás megtartásának feltételeiről, az idézésekről és értesítésekről.

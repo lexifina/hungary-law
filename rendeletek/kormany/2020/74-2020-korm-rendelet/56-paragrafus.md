@@ -4,7 +4,7 @@
 
 (2) Telekommunikációs eszköz használata esetén az elkülönített helyszínen nem szükséges a Be. 123. § (1) és (2) bekezdésében meghatározott személyek jelenléte.
 
-(3)[^11] Telekommunikációs eszköz használata esetén a felvétel bármilyen elektronikus módon rögzíthető. Ha a felvétel rögzítése olyan formátumban történik, amely nem tölthető fel a Központi Médiatárba, akkor a felvételt az eljárás ügyiratai között kell kezelni.
+(3)[^35] Telekommunikációs eszköz használata esetén a felvétel bármilyen elektronikus módon rögzíthető. Ha a felvétel rögzítése olyan formátumban történik, amely nem tölthető fel a Központi Médiatárba, akkor a felvételt az eljárás ügyiratai között kell kezelni.
 
 (4) A telekommunikációs eszköz használata a terhelt hozzájárulása nélkül is elrendelhető. A telekommunikációs eszköz használatának elrendelése esetén, ha a vádlott indítványozza, hogy a személyes jelenlétét a tárgyalás kitűzött helyszínén biztosítsa, a bíróság megvizsgálja, hogy az 50. § alapján az eljárási cselekmény elhalasztására van-e lehetőség.
 
@@ -36,4 +36,4 @@ c) vallomásának vagy nyilatkozatának befolyásmentességével
 
 kapcsolatban, akkor az eljárási cselekmény nem folytatható.
 
-[^11]: Az 56. § (3) bekezdése a 188/2020. (V. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^35]: Az 56. § (3) bekezdése a 188/2020. (V. 7.) Korm. rendelet 9. §-ával megállapított szöveg.

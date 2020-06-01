@@ -1,6 +1,4 @@
-## 80. § A megkeresett bíróság a megkeresést három hónapon belül teljesíti. Ha a megkeresett bíróság a megkeresést három hónapon belül nem teljesítette, a teljesítés akadályát a megkereső bírósággal közli.
-
-81. §[^22] (1) Ha a bíróság a bizonyítási eljárást befejezettnek nyilvánítja, felhívhatja a jogosultakat, hogy a perbeszédeket és a felszólalásokat a tárgyalás határnapjától vagy a felhívás kézbesítésétől számított tizenöt napon belül írásban nyújtsák be.
+81. §[^58] (1) Ha a bíróság a bizonyítási eljárást befejezettnek nyilvánítja, felhívhatja a jogosultakat, hogy a perbeszédeket és a felszólalásokat a tárgyalás határnapjától vagy a felhívás kézbesítésétől számított tizenöt napon belül írásban nyújtsák be.
 
 (2) A bíróság az (1) bekezdés alapján írásban benyújtott perbeszédeket és felszólalásokat kézbesíti az ügyészségnek, a vádlottnak, a védőnek, a sértettnek, a magánfélnek és a vagyoni érdekeltnek, azzal, hogy a perbeszédekre és felszólalásokra írásban tizenöt napon belül van helye viszonválasznak. A viszonválaszt a bíróság azzal kézbesíti az ügyészségnek, a vádlottnak, a védőnek, a sértettnek, a magánfélnek és a vagyoni érdekeltnek, hogy az esetleges további viszonválasz a tárgyaláson szóban adható elő.
 
@@ -16,4 +14,4 @@
 
 (8) A (7) bekezdésben meghatározott esetben a vádemelés után az elsőfokú bíróság által elrendelt vagy fenntartott személyi szabadságot érintő bírói engedélyes kényszerintézkedés – letartóztatás esetén a Be. 298. §-ában meghatározott kivétellel – az elsőfokú bíróság ügydöntő határozat meghozatala céljából tartott tanácsülésig tart.
 
-[^22]: A 81. § a 188/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^58]: A 81. § a 188/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,5 +1,7 @@
-29. § (1) A fellebbezési és a felülvizsgálati eljárásokban a felek tárgyalás tartását nem kérhetik.
+29. §[^13] (1) A fellebbezési és felülvizsgálati eljárásban eljáró bíróság a továbbiakban is tárgyaláson kívül jár el, ha az e rendelet hatálybalépése és a Módr. hatálybalépése[^14] közötti időszakban értesítette a feleket a tárgyaláson kívüli elbírálásról.
 
-(2) A bíróság a fellebbezési és felülvizsgálati eljárásokban a korábbi kérelem alapján már kitűzött tárgyalások esetében is dönthet a tárgyaláson kívüli elbírálásról. A bíróság e döntéséről soron kívül értesíti a feleket.
+(2) Ha a bíróságnak az e rendelet hatálybalépése és a Módr. hatálybalépése[^15] közötti időszakban hatályos rendelkezések szerinti, a tárgyaláson kívüli elbírálásról szóló értesítését követően a felek közös kérelemben kérik a tárgyalás megtartását, a bíróság kitűzi a tárgyalást.
 
-(3) Az (1) bekezdéstől eltérően a bíróság (2) bekezdés szerinti értesítését követően a felek 15 napon belül benyújtott közös kérelme alapján a bíróság a 21. § (3) és (4) bekezdése alapján jár el.
+[^13]: A 29. § a 229/2020. (V. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^14]: A hatálybalépés időpontja 2020. június 1.
+[^15]: A hatálybalépés időpontja 2020. június 1.

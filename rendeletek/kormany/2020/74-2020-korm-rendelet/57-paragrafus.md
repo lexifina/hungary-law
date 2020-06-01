@@ -4,12 +4,12 @@
 
 (3) A kézbesítés szabályszerűségéhez fűződő jogkövetkezmények az (1) és (2) bekezdésben meghatározott esetben akkor alkalmazhatók, ha az ügyirat címzett részére történő kézbesítése – akár a címzett visszajelzése, akár az eljáró szerv kapcsolatfelvétele alapján – igazolható.
 
-(4)[^12] A hirdetményt a bíróság, az ügyészség vagy a nyomozó hatóság elektronikus tájékoztatásra szolgáló honlapján a jogszabályban meghatározottak szerint kell közzétenni.
+(4)[^36] A hirdetményt a bíróság, az ügyészség vagy a nyomozó hatóság elektronikus tájékoztatásra szolgáló honlapján a jogszabályban meghatározottak szerint kell közzétenni.
 
-(5)[^13] Ha az ügyiratot az ismeretlen helyen tartózkodó terhelt részére kell hirdetmény útján kézbesíteni, akkor a hirdetményt a terhelt utolsó ismert magyarországi lakcíme vagy tényleges tartózkodási helye szerinti helyi önkormányzat saját vagy társulásaik által közösen működtetett, vagy a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott honlapon is közzé kell tenni.
+(5)[^37] Ha az ügyiratot az ismeretlen helyen tartózkodó terhelt részére kell hirdetmény útján kézbesíteni, akkor a hirdetményt a terhelt utolsó ismert magyarországi lakcíme vagy tényleges tartózkodási helye szerinti helyi önkormányzat saját vagy társulásaik által közösen működtetett, vagy a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott honlapon is közzé kell tenni.
 
-(6)[^14] Az ügyiratot a hirdetmény (4) bekezdés szerinti közzétételétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(6)[^38] Az ügyiratot a hirdetmény (4) bekezdés szerinti közzétételétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
-[^12]: Az 57. § (4) bekezdését a 188/2020. (V. 7.) Korm. rendelet 10. §-a iktatta be.
-[^13]: Az 57. § (5) bekezdését a 188/2020. (V. 7.) Korm. rendelet 10. §-a iktatta be.
-[^14]: Az 57. § (6) bekezdését a 188/2020. (V. 7.) Korm. rendelet 10. §-a iktatta be.
+[^36]: Az 57. § (4) bekezdését a 188/2020. (V. 7.) Korm. rendelet 10. §-a iktatta be.
+[^37]: Az 57. § (5) bekezdését a 188/2020. (V. 7.) Korm. rendelet 10. §-a iktatta be.
+[^38]: Az 57. § (6) bekezdését a 188/2020. (V. 7.) Korm. rendelet 10. §-a iktatta be.

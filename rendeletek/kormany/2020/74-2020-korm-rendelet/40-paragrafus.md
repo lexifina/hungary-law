@@ -1,5 +1,3 @@
-## 39. § A veszélyhelyzet ideje alatt a beadványok a bírósági kezelőirodán személyesen nem adhatók be, azokat a bíróság bejáratánál lévő, zárt gyűjtőszekrényben lehet elhelyezni.
-
 40. § (1) A veszélyhelyzet ideje alatt nincs helye – a (3) bekezdésben fogalt kivétellel – az eljárási cselekmény lefolytatásának, ha azt olyan helyen kellene foganatosítani, amely járványügyi intézkedés hatálya alatt áll.
 
 (2) Az (1) bekezdés szerinti eljárási cselekményt a járványügyi intézkedés feloldását követően lehet lefolytatni azzal, hogy az eljárási cselekmény lefolytatására vonatkozó határidő a járványügyi intézkedés feloldását követő napon újrakezdődik.
