@@ -1,3 +1,1 @@
-8. §[^4]
-
-[^4]: A 8. § a 4. § (2) bekezdése alapján 2020. június 2-án lép hatályba.
+8. § Hatályát veszti az egészség és élet megóvása, valamint a nemzetgazdaság helyreállítása érdekében elrendelt veszélyhelyzettel kapcsolatos rendkívüli intézkedésekről szóló 81/2020. (IV. 1.) Korm. rendelet 6. § (4) bekezdése.
