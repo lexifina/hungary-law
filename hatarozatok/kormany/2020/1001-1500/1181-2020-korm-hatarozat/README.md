@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1181-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-24 | 2020-1181-30-22.1 | 1181/2020. (IV. 24.) Korm. határozat |
+| 2020-06-02 | 2020-1181-30-22.2 | 1275/2020. (VI. 2.) Korm. határozat |
