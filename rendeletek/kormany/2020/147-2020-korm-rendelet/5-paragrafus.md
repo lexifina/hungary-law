@@ -1,5 +1,3 @@
-## 4. § Az R. 12/B. § (1) bekezdése a következő j) ponttal egészül ki:
+## 4. §[^5]
 
-## (A személyes közreműködői szerződés tartalmazza:)
-
-## „j) a személyes közreműködő feladatait a személyes közreműködés keretében végzett tevékenységgel összefüggő EESZT adatszolgáltatási kötelezettség teljesítésében.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

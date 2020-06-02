@@ -1,5 +1,3 @@
-## 3. § Az R. 12. § (3) bekezdése a következő j) ponttal egészül ki:
+## 3. §[^4]
 
-## (A közreműködői szerződés kötelezően tartalmazza:)
-
-## „j) a közreműködő egészségügyi szolgáltató feladatait a közreműködés keretében végzett tevékenységgel összefüggő EESZT adatszolgáltatási kötelezettség teljesítésében.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
