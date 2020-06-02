@@ -1,3 +1,3 @@
-## 5. §[^5]
+6. §[^6]
 
-[^5]: Az 5. § a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+[^6]: A 6. § a 9. § (3) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
