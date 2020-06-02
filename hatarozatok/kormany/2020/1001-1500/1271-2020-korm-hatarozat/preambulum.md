@@ -1,0 +1,1 @@
+A Kormány a Bük Város külterületén fekvő földrészletek beruházási célterületté nyilvánításáról szóló 1143/2019. (III. 18.) Korm. határozatra figyelemmel egyetért az abban rögzített beruházási célterületet érintő fejlesztésekkel, amelynek megvalósítása érdekében
