@@ -12,8 +12,10 @@ a miniszterelnök általános helyettese
 
 Határidő: a felmerülés ütemében
 
-3. felhívja az innovációért és technológiáért felelős minisztert, hogy – az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. bevonásával – a szabadkai Avilai Szent Teréz székesegyház statikai problémáinak feltárását követően készítsen javaslatot a teljes rekonstrukcióra.
+3.[^2] felhívja az innovációért és technológiáért felelős minisztert, hogy – az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. bevonásával – a szabadkai Avilai Szent Teréz székesegyház statikai problémáinak feltárását követően készítsen javaslatot a teljes rekonstrukcióra.
 
 Felelős: innovációért és technológiáért felelős miniszter
 
-Határidő: 2020. június 30.
+Határidő: 2020. december 31.
+
+[^2]: A 3. pont az 1273/2020. (VI. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
