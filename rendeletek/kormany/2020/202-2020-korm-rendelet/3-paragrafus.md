@@ -1,1 +1,3 @@
-## 2. § A 114/2007. (V. 24.) Korm. rendelet II. melléklete helyébe az 1. melléklet lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
