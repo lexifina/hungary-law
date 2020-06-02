@@ -1,3 +1,3 @@
-## 1. § A veszélyhelyzet ideje alatt érvényesülő egyes eljárásjogi intézkedésekről szóló 74/2020. (III. 31.) Korm. rendelet (a továbbiakban: Veir.) 12. §-a helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „12. § A veszélyhelyzet ideje alatt az összbírói értekezlet és a Kúria teljes ülése – a rendezvények megtartására vonatkozó korlátozásoktól eltérően – megtartható.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

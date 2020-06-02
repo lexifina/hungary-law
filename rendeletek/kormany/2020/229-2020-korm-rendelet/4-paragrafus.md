@@ -1,5 +1,3 @@
-## 3. § A Veir. 23. §-a helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „23. § (1) Ha járványügyi intézkedések indokolják, a tárgyalás elektronikus hírközlő hálózat vagy más elektronikus kép és hang továbbítására alkalmas eszköz útján is megtartható.
-
-## (2) A bíróság a tárgyalásról a nyilvánosságot akkor is kizárhatja, ha az a járványügyi intézkedésnek a tárgyalóteremben történő betarthatóságát biztosítja.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

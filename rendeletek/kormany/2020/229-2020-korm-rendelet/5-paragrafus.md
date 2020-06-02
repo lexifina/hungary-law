@@ -1,9 +1,3 @@
-## 4. § A Veir. 28. §-a helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „28. § (1) Ha az e rendelet hatálybalépése és a Módr. hatálybalépése közötti időszakban a bíróság írásban figyelmeztette a feleket a tárgyalás berekesztésére, és a felek a bíróság felhívására a nyilatkozataikat megtették, vagy a megadott határidő alatt nyilatkozatot nem tettek, a bíróság az ítéletet tárgyaláson kívül hozza meg.
-
-## (2) Ha az e rendelet hatálybalépése és a Módr. hatálybalépése közötti időszakban a bíróság a Pp. hatálya alá tartozó peres eljárásokban az érdemi tárgyalást, az 1952-es Pp. hatálya alá tartozó perekben a tárgyalást még nem tűzte ki – ideértve azt az esetet is, ha a bíróság a személyes közreműködést igénylő eljárási cselekményt az e rendelet hatálybalépése és a Módr. hatálybalépése közötti időszakban hatályos rendelkezések szerint tárgyaláson kívül nem tartotta lefolytathatónak, és ezért az eljárás megakadt –, valamint, ha az (1) bekezdés szerinti eljárásnak nincs helye, a bíróság az eljárást a tárgyalás kitűzésével folytatja.
-
-## (3) Ha az e rendelet hatálybalépése és a Módr. hatálybalépése közötti időszakban hatályos rendelkezések szerint a bíróság a Pp. hatálya alá tartozó peres eljárásokban az érdemi tárgyalást, az 1952-es Pp. hatálya alá tartozó perekben a tárgyalást kitűzte, a bíróság a Pp. 226. § (3) bekezdésének vagy az 1952-es Pp. 125. § (5) bekezdésének alkalmazásával meghatározza a tárgyalás helyét – kivéve a 23. § (1) bekezdésében foglalt esetet – és erről értesíti a tárgyalásra megidézetteket.
-
-## (4) Ha az e rendelet hatálybalépése és a Módr. hatálybalépése közötti időszakban hatályos rendelkezések szerint a bíróság a feleket már megnyilatkoztatta az egyezség kérdésében, a perbeli egyezséget végzésével tárgyaláson kívül is jóváhagyhatja. Az egyezséget jóváhagyó végzést a felekkel kézbesítés útján kell közölni. Az ilyen módon meghozott jóváhagyó végzés elleni fellebbezésnek az egyezség végrehajtására halasztó hatálya van.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
