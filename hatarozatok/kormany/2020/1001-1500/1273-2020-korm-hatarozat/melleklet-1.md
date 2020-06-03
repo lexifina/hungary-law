@@ -42,14 +42,11 @@
 
 ## f) az Áht. 36. § (4b) bekezdésében, (4c) bekezdés a) pontjában, valamint az Ávr. 45/A. §-ában biztosított jogkörében eljárva egyetért azzal, hogy a honvédelmi miniszter – az irányítása alatt álló Védelemgazdasági Hivatal útján – a tatai Klapka György laktanya 20. épületének bővítése és felújítása érdekében a XIII. Honvédelmi Minisztérium fejezet, 2. Egyéb HM szervezetek címen a 2020. évben 2 200 000 000 forint, a 2021. évben 6 300 000 000 forint, mindösszesen a 2020–2021. években 8 500 000 000 forint összegben kötelezettséget vállaljon.
 
-## 2. Az egyes egyedi települési sportcélú infrastruktúra-fejlesztési beruházások forrásszükségletének biztosításáról szóló 1800/2016. (XII. 20.) Korm. határozat 1. mellékletében foglalt táblázatban
+## 2.[^1]
 
-## a) a „Gödi Szabadtéri műugró torony és medence fejlesztés” szövegrész helyébe a „Dunakeszi, valamint Gödi Szabadtéri műugró torony és medence fejlesztésének előkészítése és a Dunakeszi Futsal Csarnok építésének II. üteme” szöveg,
-
-## b) az „a szabadtéri műugró torony és medence fejlesztésének támogatása” szövegrész helyébe az „a dunakeszi, valamint gödi műugró torony és medence fejlesztés előkészítésének és a dunakeszi futsal csarnok építése II. ütemének támogatása” szöveg
-
-## lép.
-
-## 3. A szabadkai Avilai Szent Teréz székesegyház rekonstrukciója során felmerült statikai problémák megoldásához szükséges intézkedésekről szóló 1673/2019. (XII. 4.) Korm. határozat 3. pontjában a „2020. június 30.” szövegrész helyébe a „2020. december 31.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1273/2020. (VI. 2.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
