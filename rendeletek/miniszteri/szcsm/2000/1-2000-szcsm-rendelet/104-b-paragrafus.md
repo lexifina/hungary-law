@@ -1,6 +1,6 @@
-## Diszpécserszolgálat[^337]
+## Diszpécserszolgálat[^338]
 
-104/B. §[^338] (1)[^339] Az utcákon, közterületeken élő hajléktalan emberek ellátásának hatékonyabbá tétele érdekében a szociális ágazatot irányító miniszter öt éves időtartamra regionális hatáskörű diszpécserszolgálatokat jelöl ki.
+104/B. §[^339] (1)[^340] Az utcákon, közterületeken élő hajléktalan emberek ellátásának hatékonyabbá tétele érdekében a szociális ágazatot irányító miniszter öt éves időtartamra regionális hatáskörű diszpécserszolgálatokat jelöl ki.
 
 (2) A diszpécserszolgálat
 
@@ -14,15 +14,15 @@ d) gyűjti és rendszerezi a régióban működő, hajléktalan emberek ellátá
 
 e) számítógépes adatbázisában nyilvántartja a bejelentések kapcsán tett intézkedéseket,
 
-f)[^340] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a Hajléktalanokért Közalapítványt,
+f)[^341] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a Hajléktalanokért Közalapítványt,
 
-g)[^341] téli krízisidőszakban összehangolja és koordinálja a területéhez tartozó megyei krízisautók működését,
+g)[^342] téli krízisidőszakban összehangolja és koordinálja a területéhez tartozó megyei krízisautók működését,
 
-h)[^342] koordinálja az életet és testi épséget veszélyeztető helyzetek elhárításával kapcsolatos feladatokat, ennek érdekében együttműködik az önkormányzattal,
+h)[^343] koordinálja az életet és testi épséget veszélyeztető helyzetek elhárításával kapcsolatos feladatokat, ennek érdekében együttműködik az önkormányzattal,
 
-i)[^343] együttműködik a területükön illetékes rendőrkapitányságok és határrendészeti kirendeltségek kijelölt személyeivel a rászoruló személyeket a téli időjárási viszonyok következtében fenyegető veszélyhelyzetek megelőzésével és kezelésével összefüggő rendőri feladatok végrehajtása érdekében,
+i)[^344] együttműködik a területükön illetékes rendőrkapitányságok és határrendészeti kirendeltségek kijelölt személyeivel a rászoruló személyeket a téli időjárási viszonyok következtében fenyegető veszélyhelyzetek megelőzésével és kezelésével összefüggő rendőri feladatok végrehajtása érdekében,
 
-j)[^344] az utcai szociális munkát végző szolgáltatókkal kötött együttműködési megállapodással gondoskodik a téli időszakban 18 órát követően közterületen tartózkodó hajléktalan személyek ellátásának biztosításáról.
+j)[^345] az utcai szociális munkát végző szolgáltatókkal kötött együttműködési megállapodással gondoskodik a téli időszakban 18 órát követően közterületen tartózkodó hajléktalan személyek ellátásának biztosításáról.
 
 (3) A diszpécserszolgálat a (2) bekezdés szerinti feladatokat
 
@@ -30,14 +30,14 @@ a) a téli időszakban folyamatosan, napi 24 órában biztosítja,
 
 b) a téli időszakon kívül legalább munkaidőben biztosítja, és gondoskodik a munkaidőn kívüli telefonhívások fogadásáról.
 
-(4)[^345] A diszpécserszolgálat az Szt. 65/E. § (3) bekezdése szerinti jelzéssel akkor él, ha a hajléktalan személyeket ellátó intézmények kapacitáshiány következtében nem tudják biztosítani a hajléktalan személy ellátását.
+(4)[^346] A diszpécserszolgálat az Szt. 65/E. § (3) bekezdése szerinti jelzéssel akkor él, ha a hajléktalan személyeket ellátó intézmények kapacitáshiány következtében nem tudják biztosítani a hajléktalan személy ellátását.
 
-[^337]: A 104/B. §-t megelőző alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be.
-[^338]: A 104/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^339]: [A 4/2019. (II. 27.) EMMI rendelet 21. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti az „ötéves időtartamra” szövegrész, nem vezethető át.]
-[^340]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
-[^341]: A 104/B. § (2) bekezdés g) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
-[^342]: A 104/B. § (2) bekezdés h) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
-[^343]: A 104/B. § (2) bekezdés i) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
-[^344]: A 104/B. § (2) bekezdés j) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
-[^345]: A 104/B. § (4) bekezdését a 26/2017. (X. 18.) EMMI rendelet 5. §-a iktatta be.
+[^338]: A 104/B. §-t megelőző alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be.
+[^339]: A 104/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^340]: [A 4/2019. (II. 27.) EMMI rendelet 21. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti az „ötéves időtartamra” szövegrész, nem vezethető át.]
+[^341]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja, a 43/2016. (XII. 27.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^342]: A 104/B. § (2) bekezdés g) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^343]: A 104/B. § (2) bekezdés h) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^344]: A 104/B. § (2) bekezdés i) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^345]: A 104/B. § (2) bekezdés j) pontját az 1/2017. (II. 14.) EMMI rendelet 47. §-a iktatta be.
+[^346]: A 104/B. § (4) bekezdését a 26/2017. (X. 18.) EMMI rendelet 5. §-a iktatta be.

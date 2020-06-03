@@ -12,9 +12,9 @@ d) a személyes ruházat tisztítására,
 
 e) az étel melegítésére, tálalására, elfogyasztására.
 
-(2)[^319]
+(2)[^320]
 
-(3)[^320]
+(3)[^321]
 
-[^319]: A 103. § (2) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ac) alpontja hatályon kívül helyezte.
-[^320]: Az 103. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § f) pontja hatályon kívül helyezte.
+[^320]: A 103. § (2) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdés a) pontjának ac) alpontja hatályon kívül helyezte.
+[^321]: Az 103. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 16. § f) pontja hatályon kívül helyezte.

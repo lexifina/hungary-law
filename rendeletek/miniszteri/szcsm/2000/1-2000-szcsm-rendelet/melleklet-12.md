@@ -1,3 +1,3 @@
-12. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^438]
+12. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^442]
 
-[^438]: A 12. számú mellékletet a 78/2011. (XII. 30.) NEFMI rendelet 1. melléklet 5. pont b) alpontja hatályon kívül helyezte.
+[^442]: A 12. számú mellékletet a 78/2011. (XII. 30.) NEFMI rendelet 1. melléklet 5. pont b) alpontja hatályon kívül helyezte.

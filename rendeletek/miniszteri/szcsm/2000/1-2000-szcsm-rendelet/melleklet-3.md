@@ -324,6 +324,6 @@
 
 |  | segítő | 2 fő |
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^429]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^433]
 
-[^429]: A 3. számú melléklet a 4/2020. (II. 6.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^433]: A 3. számú melléklet a 4/2020. (II. 6.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.

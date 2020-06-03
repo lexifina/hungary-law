@@ -24,13 +24,15 @@ k) folyamatosan nyújtott – általános és speciális – szociális munka es
 
 l) az egyén együttműködési szándékának felmérésére.
 
-(2)[^374] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
+(2)[^375] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
 
-(3)[^375] A komplex szükségletfelmérés szerint
+(3)[^376] A komplex szükségletfelmérés szerint
 
-a) fokozott támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a 14. számú melléklet Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább két kategóriában teljes támogatást igényel,
+a)[^377] fokozott támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább két kategóriában teljes támogatást igényel,
 
-b) magas támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a 14. számú melléklet Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább egy kategóriában teljes támogatást igényel.
+b)[^378] magas támogatási szükséglettel rendelkező fogyatékos személynek minősül az a személy, aki a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott, a Szociális Ágazati Portálon közzétett Összegző lap II. pont I. Személyi higiéné, II. Személyi függetlenség, III. Mobilitás kategóriák közül legalább egy kategóriában teljes támogatást igényel.
 
-[^374]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
-[^375]: A 110/C. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 11. §-a iktatta be.
+[^375]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^376]: A 110/C. § (3) bekezdését a 4/2020. (II. 6.) EMMI rendelet 11. §-a iktatta be.
+[^377]: A 110/C. § (3) bekezdés a) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
+[^378]: A 110/C. § (3) bekezdés b) pontja a 19/2020. (VI. 2.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
