@@ -22,6 +22,8 @@ b) az 1. mellékletben felsorolt szerveket a postai szolgáltató írásbeli jel
 
 (5)[^193] E rendeletnek a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 137/2019. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr. 3.) megállapított 61. § (7) bekezdése szerinti, az iratról az Eür. szerinti hiteles elektronikus másolat készítésére vonatkozó kötelezettséget az 1. mellékletben és a 3. mellékletben felsorolt szerveknek a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben támasztott követelményekről szóló 3/2018. (II. 21.) BM rendeletnek megfelelő iratkezelő szoftver működtetésének időpontjától kell teljesíteniük, ha a Módr. 3. hatálybalépésekor[^194] még nem rendelkeznek ilyen iratkezelő szoftverrel.
 
+(6)[^195] A fővárosi és megyei kormányhivataloknak, valamint járási (fővárosi kerületi) hivatalaiknak a 61. § (7) bekezdése szerinti – az iratról az Eür. szerinti hiteles elektronikus másolat készítésére vonatkozó – kötelezettséget 2022. január 1-jétől kell teljesíteniük.
+
 [^188]: A 70. §-t újonnan a 346/2014. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 34/2015. (II. 27.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^189]: A 70. § (1) bekezdése a 113/2015. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^190]: A 70. § (1a) bekezdését a 113/2015. (IV. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
@@ -29,3 +31,4 @@ b) az 1. mellékletben felsorolt szerveket a postai szolgáltató írásbeli jel
 [^192]: A 70. § (3) bekezdése a 113/2015. (IV. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^193]: A 70. § (5) bekezdését a 137/2019. (VI. 11.) Korm. rendelet 13. §-a iktatta be.
 [^194]: A hatálybalépés időpontja 2019. június 19.
+[^195]: A 70. § (6) bekezdését a 255/2020. (VI. 2.) Korm. rendelet 1. §-a iktatta be.

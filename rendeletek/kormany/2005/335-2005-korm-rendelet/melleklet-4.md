@@ -1,4 +1,4 @@
-4. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^246]
+4. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^247]
 
 ## Kötelezően biztosítandó központosított irattári szolgáltatások
 
@@ -24,7 +24,7 @@
 
 11. Elektronikus adatszolgáltatás (e-mailen keresztül), irat kikérése és visszatárolása (e-betekintés)
 
-12.[^247] digitális másolat készítése
+12.[^248] digitális másolat készítése
 
 13. Iratkölcsönzés: doboz kikérése
 
@@ -46,5 +46,5 @@
 
 22. Levéltári átadás előkészítése
 
-[^246]: A 4. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^247]: A 4. melléklet 12. pontja a 137/2019. (VI. 11.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^247]: A 4. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^248]: A 4. melléklet 12. pontja a 137/2019. (VI. 11.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
