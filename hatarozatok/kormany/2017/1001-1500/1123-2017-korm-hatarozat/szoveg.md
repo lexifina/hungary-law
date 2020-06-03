@@ -8,7 +8,7 @@ a) 2017. évben 1000,0 millió forint,
 
 b) 2018. évben 8550,0 millió forint,
 
-c)[^2] 2020. évben 11 400,0 millió forint
+c)[^2] 2020. évben 12 200,0 millió forint
 
 többletforrás rendelkezésre bocsátásáról a XX. Emberi Erőforrások Minisztériuma fejezetben, a 20. Fejezeti kezelésű előirányzatok cím, 4. Köznevelési feladatok támogatása alcím, 12. Erzsébet gyermek- és ifjúsági táborok támogatása elnevezésű fejezeti kezelésű előirányzat javára.
 
@@ -25,4 +25,4 @@ a b) pont tekintetében: a 2018. évi központi költségvetés tervezésével e
 a c) pont tekintetében: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
 [^1]: A 2. pont az 1579/2019. (X. 15.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^2]: A 2. pont c) alpontja az 1579/2019. (X. 15.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
+[^2]: A 2. pont c) alpontja az 1579/2019. (X. 15.) Korm. határozat 2. pont a) alpontjával megállapított, az 1283/2020. (VI. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
