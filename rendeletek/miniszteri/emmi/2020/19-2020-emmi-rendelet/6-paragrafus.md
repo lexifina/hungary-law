@@ -1,4 +1,4 @@
-## 5. §[^3]
+## 5. §[^5]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. §, a 4. § és az 5. § 2021. január 1-jén lép hatályba.
 
-[^3]: Az 5. § a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^5]: Az 5. § a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
