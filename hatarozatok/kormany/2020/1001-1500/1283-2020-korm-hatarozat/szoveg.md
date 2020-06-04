@@ -6,4 +6,6 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-2. Az Erzsébet Táborok infrastrukturális fejlesztéséről szóló 1123/2017. (III. 17.) Korm. határozat 2. pont c) alpontjában a „11 400,0” szövegrész helyébe a „12 200,0” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
