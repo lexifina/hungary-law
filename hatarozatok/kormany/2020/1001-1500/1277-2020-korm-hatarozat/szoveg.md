@@ -24,4 +24,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2020. június 30.
 
-6. visszavonja a kötött segélyhitel projektek felülvizsgálatának végrehajtásáról és Magyarország kötött segélyhitelezési koncepciójáról szóló 1516/2012. (XI. 22.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
