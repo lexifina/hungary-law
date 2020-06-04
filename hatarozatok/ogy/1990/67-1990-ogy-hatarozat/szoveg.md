@@ -16,7 +16,7 @@ székhelye: Békéscsaba;
 
 székhelye: Miskolc;
 
-5. Csongrád megye,
+5.[^2] Csongrád-Csanád megye,
 
 székhelye: Szeged;
 
@@ -81,3 +81,5 @@ székhelye: Veszprém;
 székhelye: Zalaegerszeg.
 
 2. Ez a határozat a helyi önkormányzati képviselőtestületek tagjai 1990. évi választásának napjával lép hatályba.
+
+[^2]: Az 1. pont 5. alpontja a 19/2017. (X. 5.) OGY határozat 1. pontjával megállapított szöveg.
