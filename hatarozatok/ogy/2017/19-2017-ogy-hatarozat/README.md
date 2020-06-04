@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-19-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-10-06 | 2017-19-30-41.1 | 19/2017. (X. 5.) OGY határozat |
+| 2020-06-04 | 2017-19-30-41.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
