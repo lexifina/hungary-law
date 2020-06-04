@@ -1,4 +1,4 @@
-## 37. §[^81] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr29.) módosított 6/C. §-át a Módr29. hatálybalépésekor[^82] folyamatban lévő ügyekben is alkalmazni kell.
+## 38. §[^83] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 256/2020. (VI. 3.) Korm. rendelettel (a továbbiakban: Módr30.) megállapított 2. mellékletben foglalt táblázat 43. sorát a Módr30. hatálybalépésekor[^84] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^81]: A 37. §-t a 196/2020. (V. 12.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^82]: A hatálybalépés időpontja 2020. május 13.
+[^83]: A 38. §-t a 256/2020. (VI. 3.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A hatálybalépés időpontja 2020. június 4.
