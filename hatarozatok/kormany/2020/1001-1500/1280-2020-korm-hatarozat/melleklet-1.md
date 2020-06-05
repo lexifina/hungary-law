@@ -12,21 +12,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról szóló 1347/2016. (VII. 6.) Korm. határozat [a továbbiakban: 1347/2016. (VII. 6.) Korm. határozat] 1. mellékletében foglalt táblázat
+## 3.[^1]
 
-## a) C:3 mezőjében a „2,291” szövegrész helyébe az „5,197” szöveg,
-
-## b) C:6 mezőjében a „0,310” szövegrész helyébe a „0,250” szöveg
-
-## lép.
-
-## 4. Az 1347/2016. (VII. 6.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:4 mezőjében a „2,291” szövegrész helyébe az „5,197” szöveg,
-
-## b) D:7 mezőjében a „0,100” szövegrész helyébe a „0,040” szöveg
-
-## lép.
+## 4.[^2]
 
 1. melléklet az 1280/2020. (VI. 3.) Korm. határozathoz
 
@@ -35,3 +23,6 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | RSZTOP-2.1.1-16- 2017-00001 | Alapvető fogyasztási cikkek biztosítása szegény gyermekes családok számára | Szociális és Gyermekvédelmi Főigazgatóság (konzorciumvezető) Klebelsberg Központ | 2 290 281 319 | 2 906 511 777 | 5 196 793 096 | A projekt célja alapvető fogyasztási cikkek és taneszközök eljuttatása a program szerint beazonosított leginkább rászoruló személyek részére, figyelembe véve a szociális gazdasági szereplők bevonásának lehetőségét a beszerzésre kerülő élelmiszerek előállításának folyamatába. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
