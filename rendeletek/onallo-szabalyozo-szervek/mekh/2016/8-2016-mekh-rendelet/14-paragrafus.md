@@ -16,7 +16,7 @@ ad) a felhasználónak a földgázellátásból való jogszerű kikapcsolása ut
 
 ae) a fogyasztásmérő berendezésnek az elosztóhálózat-használati szerződés alapján történő leolvasásán felüli leolvasása – felhasználási helyenként felszámítva,
 
-af)[^16] a földgázelosztó számára jogszabályokban, ÜKSZ-ben, üzletszabályzatban, rendszerhasználati szerződésben kötelezettségként előírt adatszolgáltatásokon túli adatok, információk, dokumentumok szolgáltatása, ideértve minden hiteles formában csak az engedélyesnél rendelkezésre álló hiteles dokumentummásolat (különösen számla, tervrajz, térkép) készítését, a távlehívható fogyasztásmérő berendezésből kinyerhető, a felhasználó földgázfogyasztására vonatkozó elszámolási alapadatokon felüli adatok felhasználó rendelkezésére bocsátását azonos mérési időszakra vonatkozóan, 12 hónapon belül a második alkalmat követően,
+af)[^18] a földgázelosztó számára jogszabályokban, ÜKSZ-ben, üzletszabályzatban, rendszerhasználati szerződésben kötelezettségként előírt adatszolgáltatásokon túli adatok, információk, dokumentumok szolgáltatása, ideértve minden hiteles formában csak az engedélyesnél rendelkezésre álló hiteles dokumentummásolat (különösen számla, tervrajz, térkép) készítését, a távlehívható fogyasztásmérő berendezésből kinyerhető, a felhasználó földgázfogyasztására vonatkozó elszámolási alapadatokon felüli adatok felhasználó rendelkezésére bocsátását azonos mérési időszakra vonatkozóan, 12 hónapon belül a második alkalmat követően,
 
 ag) a nem a földgázelosztó tulajdonában lévő csatlakozóvezetéken, fogyasztói vezetéken vagy felhasználói berendezésben észlelt gázszivárgás vagy egyéb veszélyhelyzet feltárása és elhárítása, valamint a szolgáltatás visszaállítása, ha a hiba bizonyíthatóan a felhasználó tevékenysége miatt keletkezett,
 
@@ -34,11 +34,11 @@ a) jogcím-átvezetés, amelynek során a szállítási rendszerüzemeltető a r
 
 b) az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatszolgáltatások,
 
-c)[^17]
+c)[^19]
 
 (3) A külön díjak ellenében végezhető szolgáltatások díjait a Hivatal a GET 104. § (2) bekezdésben rögzített módon határozza meg.
 
-(3a)[^18] A (2) bekezdés szerinti, nem szállítási szolgáltatások körébe tartozó szolgáltatások díját meghatározó módszertant a referenciaár-módszertan tartalmazza.
+(3a)[^20] A (2) bekezdés szerinti, nem szállítási szolgáltatások körébe tartozó szolgáltatások díját meghatározó módszertant a referenciaár-módszertan tartalmazza.
 
 (4) A külön díjak megállapítása során – a 3. § (3) bekezdéssel összhangban – a következő célkitűzések is irányadóak:
 
@@ -50,6 +50,6 @@ c) a felhasználó szerződésszegéséből származó többletkiadások, felhas
 
 (5) A külön díjak mértéke az árszabályozási cikluson belül – a rendszerhasználati díjakkal összehangoltan – módosítható.
 
-[^16]: A 14. § (1) bekezdés a) pont af) alpontja a 6/2018. (VII. 25.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^17]: A 14. § (2) bekezdés c) pontját a 14/2016. (XII. 20.) MEKH rendelet 1. §-a iktatta be, hatályon kívül helyezte a 15/2019. (XII. 14.) MEKH rendelet 1. § a) pontja.
-[^18]: A 14. § (3a) bekezdését az 5/2019. (V. 31.) MEKH rendelet 4. §-a iktatta be.
+[^18]: A 14. § (1) bekezdés a) pont af) alpontja a 6/2018. (VII. 25.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^19]: A 14. § (2) bekezdés c) pontját a 14/2016. (XII. 20.) MEKH rendelet 1. §-a iktatta be, hatályon kívül helyezte a 15/2019. (XII. 14.) MEKH rendelet 1. § a) pontja.
+[^20]: A 14. § (3a) bekezdését az 5/2019. (V. 31.) MEKH rendelet 4. §-a iktatta be.
