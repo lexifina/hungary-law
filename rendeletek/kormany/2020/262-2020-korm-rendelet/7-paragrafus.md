@@ -1,5 +1,3 @@
-## 7. § Hatályát veszti
+7. §[^3]
 
-a) az Osztrák Köztársaságból történő határátlépésről szóló 216/2020. (V. 21.) Korm. rendelet,
-
-b) a Cseh Köztársaságból és a Szlovák Köztársaságból történő határátlépésről szóló 235/2020. (V. 26.) Korm. rendelet.
+[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
