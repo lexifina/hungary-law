@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 3. § (2) bekezdése alapján 2020. únius 8-án lép hatályba.
+## 1. § A víziközlekedés rendjéről szóló 57/2011. (XI. 22.) NFM rendelet (a továbbiakban: HSz.) 1. melléklete az 1. melléklet szerint módosul.
