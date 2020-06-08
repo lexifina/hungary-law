@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-29-20-9
 | 2017-04-25 | 2001-29-20-93.15 | 97/2006. (XII. 28.) GKM rendelet |
 | 2017-06-30 | 2001-29-20-93.16 | 22/2017. (VI. 29.) NFM rendelet |
 | 2020-01-01 | 2001-29-20-93.17 | 45/2019. (XII. 20.) ITM rendelet |
+| 2020-06-08 | 2001-29-20-93.18 | 27/2012. (V. 25.) NFM rendelet |

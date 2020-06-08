@@ -144,6 +144,10 @@
 
 |  | j) rajnai hajózásban való részvételi jogosultságot igazoló okmány kiállítása | 84 000 |
 
+|  | k) nyaralóhajó bérbeadására vonatkozó egyedi engedélyezés alapdíja, továbbá nyaralóhajónként | 92 500 43 700 |
+
+|  | l) nyaralóhajó bérbeadására vonatkozó egyedi engedély módosításának alapdíja, továbbá a módosítással érintett nyaralóhajónként | 88 000 43 700 |
+
 | 19. | a víziközlekedés irányítására szolgáló jelzések |  |
 
 |  | a) elhelyezése (létesítés), üzembe helyezése, fennmaradása, üzemeltetése, valamint megszüntetése engedélyezésének alapdíja | 54 000 |
