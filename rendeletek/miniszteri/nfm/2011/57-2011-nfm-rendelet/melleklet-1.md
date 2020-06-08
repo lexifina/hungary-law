@@ -2528,4 +2528,4 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.13 cikk 6. bekezdése: Gép- és vitorlás hajónak nem minősülő magányosan haladó kishajó minden oldalról látható szokásos fehér fény |
 
-[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a, a 29/2014. (V. 5.) NFM rendelet 25. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a, a 29/2014. (V. 5.) NFM rendelet 25. §-a, a 13/2020. (V. 8.) ITM rendelet 5. §-a szerint módosított szöveg.
