@@ -1,6 +1,6 @@
-## 16. §[^63] Ez a rendelet a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 16. §[^59] Ez a rendelet a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^64]
+1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^60]
 
 A FÖLDRAJZILAG AZ 1., 2., 3. ÉS 4. HAJÓZÁSI ZÓNÁBA TARTOZÓ UNIÓS BELVÍZI UTAK JEGYZÉKE
 
@@ -880,5 +880,5 @@ III. FEJEZET
 
 4. zóna
 
-[^63]: A 16. §-t a 36/2019. (IX. 20.) ITM rendelet 10. §-a iktatta be.
-[^64]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (1) bekezdése, a 42/2019. (XI. 21.) ITM rendelet 9. § c) pontja szerint módosított szöveg.
+[^59]: A 16. §-t a 36/2019. (IX. 20.) ITM rendelet 10. §-a iktatta be.
+[^60]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (1) bekezdése, a 42/2019. (XI. 21.) ITM rendelet 9. § c) pontja szerint módosított szöveg.

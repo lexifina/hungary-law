@@ -192,7 +192,7 @@
 
 ## Bridgewater-csatorna Az egész csatorna
 
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^65]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^61]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -732,7 +732,7 @@ A Budapest Főváros Kormányhivatala az Európai Bizottságnak az ideiglenes un
 
 II. RÉSZ
 
-A vízi járművekre alkalmazandó műszaki követelmények megegyeznek az ES-TRIN 2017/1 számú szabványban foglaltakkal.
+A vízi járművekre alkalmazandó műszaki követelmények megegyeznek az ES-TRIN 2019/1 számú szabványban foglaltakkal.
 
 III. RÉSZ
 
@@ -2958,7 +2958,33 @@ az 1. utasításhoz
 
 A kitérési manőver diagramja
 
-[^65]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja, a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdése, a 45/2019. (XII. 20.) ITM rendelet 2. §-a szerint módosított szöveg. [A 2. mellékletnek a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdésével elrendelt módosítása, amely szerint a 7. melléklet I. rész 1. és 13 pontjában és 9. melléklet III. rész 8. cikkében a „közösségi” szövegrész helyébe „uniós” szöveg lép, nem vezethető át.]
+t0 = A kitérési manőver kezdete
+
+t1 = Az r1 fordulási sebesség eléréséhez szükséges idő
+
+t2 = Az r2 = 0 fordulási sebesség eléréséhez szükséges idő
+
+t3 = Az r3 fordulási sebesség eléréséhez szükséges idő
+
+t4 = Az r4 = 0 fordulási sebesség eléréséhez szükséges idő (a kitérési manőver vége)
+
+δ = Kormány-állásszög [°]
+
+r = Fordulási sebesség [°/perc]
+
+II. melléklet
+
+az 1. utasításhoz
+
+A kitérési manőverről és a fordulási tulajdonságról készített jelentés
+
+A KITÉRÉSI MANŐVERRŐL ÉS A FORDULÁSI TULAJDONSÁGRÓL KÉSZÍTETT JELENTÉS
+
+Hatósági szerv:
+
+Dátum:
+
+[^61]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja, a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdése, a 45/2019. (XII. 20.) ITM rendelet 2. §-a, a 13/2020. (V. 8.) ITM rendelet 2. §-a szerint módosított szöveg. [A 2. mellékletnek a 42/2019. (XI. 21.) ITM rendelet 8. § (1) bekezdésével elrendelt módosítása, amely szerint a 7. melléklet I. rész 1. és 13 pontjában és 9. melléklet III. rész 8. cikkében a „közösségi” szövegrész helyébe „uniós” szöveg lép, nem vezethető át.]
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
