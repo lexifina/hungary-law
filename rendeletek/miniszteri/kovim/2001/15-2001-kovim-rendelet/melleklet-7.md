@@ -608,7 +608,7 @@
 
 ## Holder entitled to operate radar on pleasure craft.
 
-## 3.5.[^299] Tengeri kedvtelési célú hajóvezetői bizonyítvány (ID-1, kártya)
+## 3.5.[^300] Tengeri kedvtelési célú hajóvezetői bizonyítvány (ID-1, kártya)
 
 ## A bizonyítvány adattartalma a kártya előoldalán:
 
@@ -682,7 +682,7 @@
 
 ## 13. Feltételek – Conditions
 
-7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^300]
+7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^301]
 
 ## VIZSGASZABÁLYZAT
 
@@ -690,9 +690,9 @@
 
 A jelentkezés formai és tárgyi követelményei
 
-1.1.[^301] A vizsgára jelentkezni legalább 5 munkanappal a kijelölt vizsgaidőpont előtt a szükséges dokumentumoknak a vizsgaközpontnál történő leadásával lehet. Ha a hajózási hatóság hiányosságot állapít meg, erről a vizsgázót értesíti. A vizsgázó csak a hiánypótlást követően vizsgázhat, vehető fel a vizsgajegyzőkönyvre, és csak a hiánypótlást követően határozható meg részére az új vizsgaidőpont. Az előírt tanfolyam elvégzéséről szóló igazolást legkésőbb a vizsga kezdete előtt a vizsgabizottság számára kell átadni. A képesítő okmány kiállításához szükséges igazolványképet az okmány kiállítására vonatkozó kérelemmel egyidőben kell benyújtani.
+1.1.[^302] A vizsgára jelentkezni legalább 5 munkanappal a kijelölt vizsgaidőpont előtt a szükséges dokumentumoknak a vizsgaközpontnál történő leadásával lehet. Ha a hajózási hatóság hiányosságot állapít meg, erről a vizsgázót értesíti. A vizsgázó csak a hiánypótlást követően vizsgázhat, vehető fel a vizsgajegyzőkönyvre, és csak a hiánypótlást követően határozható meg részére az új vizsgaidőpont. Az előírt tanfolyam elvégzéséről szóló igazolást legkésőbb a vizsga kezdete előtt a vizsgabizottság számára kell átadni. A képesítő okmány kiállításához szükséges igazolványképet az okmány kiállítására vonatkozó kérelemmel egyidőben kell benyújtani.
 
-1.2.[^302] Jóváhagyott képzés esetén, a képző szerv kérésére, a vizsga kihelyezve és tárgyanként vagy tárgycsoportonként, a képzés ütemezése szerinti bontásban is megtartható. Ilyen esetben a javító vizsgákra vonatkozó szabályokat tárgyanként vagy tárgycsoportonként kell alkalmazni. Olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, a vizsga kihelyezésére csak a a vizsgaközponttal kötött megállapodás alapján van lehetőség.
+1.2.[^303] Jóváhagyott képzés esetén, a képző szerv kérésére, a vizsga kihelyezve és tárgyanként vagy tárgycsoportonként, a képzés ütemezése szerinti bontásban is megtartható. Ilyen esetben a javító vizsgákra vonatkozó szabályokat tárgyanként vagy tárgycsoportonként kell alkalmazni. Olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, a vizsga kihelyezésére csak a a vizsgaközponttal kötött megállapodás alapján van lehetőség.
 
 1.3. A vizsgákhoz az előírt gyakorlati időket a következők szerint kell figyelembe venni:
 
@@ -706,9 +706,9 @@ c) A hajónapló vezetésére 2001. január 1-je előtt nem kötelezett úszól�
 
 d) A nem magyar lobogójú úszólétesítményen megszerzett, az illetékes külföldi hajózási hatóság által a külföldi hajós szolgálati könyvben igazolt gyakorlatot a hajózási hatóság elfogadja.
 
-e)[^303] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
+e)[^304] Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozóként, üzemelő úszólétesítményen ellátott tényleges szolgálat alapján igazolható. Minden szolgálati bejegyzésnek tartalmaznia kell azt, hogy az úszólétesítményre előírt mely szolgálatot látta el a jelentkező.
 
-1.3.2.[^304] Tengeri hajózásban:
+1.3.2.[^305] Tengeri hajózásban:
 
 A tengerész szolgálati könyvben a hajózási hatóság hitelesítéssel igazolja a gyakorlati időt. A gyakorlati idő naptári hónapban (az összegezett töredékidő 30 napos hónapban) számolható. Nem magyar nyelven kiállított szolgálati igazolás csak hivatalos magyar nyelvű fordítással fogadható el, kivéve ha erre nyilvánvalóan nincs szükség.
 
@@ -716,23 +716,23 @@ Szolgálat csak munkaviszony, megbízási szerződés alapján vagy vállalkozó
 
 1.4. A „gyakorlatok vizsgakönyve”-ként csak a hajózási hatóság által hitelesített vizsgakönyv fogadható el.
 
-1.5.[^305] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti.
+1.5.[^306] Belvízi kedvtelési célú vizsga esetén a vizsgázó a vizsgakövetelményeket elméleti és gyakorlati részre bontva teljesítheti.
 
 2. A vizsga megtartásának feltételei, körülményei
 
 2.1. A vizsgák időpontja, ütemezése, szervezése
 
-2.1.1.[^306] A vizsgaközpontnál szervezett vizsgák
+2.1.1.[^307] A vizsgaközpontnál szervezett vizsgák
 
 Az elméleti vizsgákat – az igénytől függően – hetente, illetve havonta lehetőleg azonos napon bonyolítja le. A vizsgaidőpontokat a hajózási hatóság a nála történő kifüggesztéssel, a honlapján, illetve tájékoztatójában történő kihirdetéssel teszi közzé.
 
-2.1.2.[^307] A hajózási hatóság székhelyén kívül szervezett vizsgák
+2.1.2.[^308] A hajózási hatóság székhelyén kívül szervezett vizsgák
 
 – A hajózási hatóság a székhelyén kívüli vizsgahelyszínen kérelemre szervez vizsgát, ha annak e Szabályzatban meghatározott feltételei fennállnak; ilyen esetben a vizsgabizottság igazolt költségeit a szervező köteles megtéríteni; olyan vizsga esetében, amelynél az elméleti vizsgatárgyak vizsgái elektronikus formában történnek, vizsga kihelyezésére csak a vizsgaközponttal kötött megállapodás alapján van lehetőség.
 
 – A hajózási hatóság a gyakorlati vizsgákat egyedi beosztás szerint szervezi.
 
-2.1.3[^308] A vizsga alapfeltételei
+2.1.3[^309] A vizsga alapfeltételei
 
 – Vizsgán a vizsga jellegéhez (elméleti, illetve gyakorlati) illő ruházatban lehet részt venni.
 
@@ -814,23 +814,23 @@ i) A gyakorlati vizsga időtartamát a vizsgabizottság úgy határozza meg, hog
 
 a) A vizsgahely feleljen meg az e Szabályzat függelékében foglalt követelményeknek.
 
-b)[^309] A vizsgahelyet a vizsgaközpont hagyja jóvá, illetve jelöli ki.
+b)[^310] A vizsgahelyet a vizsgaközpont hagyja jóvá, illetve jelöli ki.
 
-3.[^310] A vizsgabiztosok
+3.[^311] A vizsgabiztosok
 
 A Vizsgabiztosok Névjegyzékében szereplő vizsgabiztos – külön erre vonatkozó megállapodás nélkül – bármely vizsgára kijelölhető a kinevezésben szereplő jogosultságnak megfelelően. A vizsgabiztosok felkérését a vizsgaközpont végzi.
 
 4. A vizsgabizottság
 
-4.1.[^311] A vizsgabizottság – a számítógépes elméleti vizsgák kivételével – legalább két tagból áll. A vizsgáztatásban a vizsgabizottság tagjai (vizsgabiztosok) együttesen vesznek részt. Számítógépes elméleti vizsgán a vizsgáztatást a vizsgaprogram használatára kiképzett, legalább egy fő vizsgabiztos végzi.
+4.1.[^312] A vizsgabizottság – a számítógépes elméleti vizsgák kivételével – legalább két tagból áll. A vizsgáztatásban a vizsgabizottság tagjai (vizsgabiztosok) együttesen vesznek részt. Számítógépes elméleti vizsgán a vizsgáztatást a vizsgaprogram használatára kiképzett, legalább egy fő vizsgabiztos végzi.
 
-4.2.[^312] A vizsgabizottság elnökét a 4.3–4.4. bekezdésekben meghatározott esetek kivételével a vizsgaközpont jelöli ki.
+4.2.[^313] A vizsgabizottság elnökét a 4.3–4.4. bekezdésekben meghatározott esetek kivételével a vizsgaközpont jelöli ki.
 
 4.3. Tengeri hajó fedélzetén tartott vizsga esetén a vizsgabizottság összetétele fedélzeti vizsgánál a hajó parancsnoka és I. tisztje, gépüzemi vizsgánál a hajó parancsnoka és gépüzemvezetője (vizsgabiztosok), illetve külföldi lobogójú hajó esetében a hajó parancsnoka és egy magyar állampolgárságú tengerész (vizsgabiztos). Ha ezek a feltételek nem állnak rendelkezésre, akkor a vizsgabiztos egyedül vizsgáztathat.
 
 4.4. Ha a tengeri hajón nincs magyar állampolgárságú vizsgabiztos vagy kinevezett vizsgabiztos, akkor a hajó parancsnoka által kiállított tanúsítvány alapján a hajózási hatóság hitelesíti a vizsgajegyzőkönyvet. Ilyen esetben a hajózási hatóság jogosult pótlólagos szóbeli kérdéseket feltenni. A vizsgajegyzőkönyv alapján, ha a vizsgához előírt egyéb feltételek fennállnak és ezek dokumentálhatók, a hajózási hatóság az okmányt kiállítja.
 
-4.5.[^313] A vizsga egyéb résztvevői:
+4.5.[^314] A vizsga egyéb résztvevői:
 
 – A vizsgát szakfelügyelő, ellenőrző hatóság feladatkörében a vizsga teljes folyamatában eljárhat. A vizsgabizottságot indokolt esetben felmenthetik, a vizsgát felfüggeszthetik. A vizsgázókat a vizsgához kapcsolódó dokumentumok átadására kötelezhetik.
 
@@ -880,7 +880,7 @@ A vizsgabizottsági tag:
 
 – végzi az elnök által rábízott feladatokat.
 
-4.7.[^314] A vizsgabiztosok díjazása
+4.7.[^315] A vizsgabiztosok díjazása
 
 A vizsgabiztost díjazás illeti meg. A díjazás magában foglalja a vizsgáztatási díjat és – amennyiben a vizsga a vizsgabiztos lakóhelyétől eltérő helységben kerül megrendezésre – a vizsgabiztos utazási és szállásköltségét is.
 
@@ -912,7 +912,7 @@ A vizsgaszervező – a vizsgáztatóval egyeztetetten – gondoskodhat az utazt
 
 A vizsgadíj kifizetésére, illetve átutalására vonatkozóan a vizsgaközpont havi, illetve kéthavonta történő (göngyölített) kifizetést köthet ki (ezt a kijelölési okiratban rögzíteni kell). A vizsgabiztos kérelmére a vizsgadíj összevontan is kifizethető. Ha a vizsgabiztos lemond a vizsgadíjról, erről külön nyilatkoznia kell.
 
-4.8.[^315]
+4.8.[^316]
 
 5. A vizsgák részei, követelményei és értékelésük
 
@@ -1042,19 +1042,19 @@ c) A javító- és megismételt vizsgát külön jegyzőkönyvben kell rögzíte
 
 a) A hivatásos képesítő vizsga esetében a sikeres elméleti vizsgáról, ha azt gyakorlati vizsga 30 napon belül nem követi – a vizsgázó kérelmére – igazolást kell kiadni.
 
-b)[^316]
+b)[^317]
 
-c)[^317] A képesítő okmány megfelelő helyére a képesítés törzskönyvi számát be kell jegyezni.
+c)[^318] A képesítő okmány megfelelő helyére a képesítés törzskönyvi számát be kell jegyezni.
 
 d) A képesítő okmány kiadásakor egy másolati példányt a tulajdonossal alá kell íratni és azt, a törzskönyvi nyilvántartás szabályainak megfelelően, kell megőrizni.
 
-6.3.[^318]
+6.3.[^319]
 
 7. A vizsga eredménye, kihirdetése
 
 Sikeres a képesítő vizsgája annak, aki minden tárgyból „Megfelelt” minősítéssel tett vizsgát, illetve az e Szabályzatban előírt pontszámot elérte (illetve felmentése volt). A vizsga eredményét a vizsgázóval a vizsga befejezése után közvetlenül, vizsgatárgyanként ismertetni kell.
 
-Függelék a Vizsgaszabályzathoz[^319]
+Függelék a Vizsgaszabályzathoz[^320]
 
 A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
@@ -1090,24 +1090,24 @@ A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek ki
 
 | – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad. |
 
-[^299]: A 6. számú melléklet 3. pont 3.5. alpontját a 23/2015. (V. 8.) NFM rendelet 5. § (4) bekezdése iktatta be.
-[^300]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
-[^301]: A 7. számú melléklet 1.1. pontja a 66/2015. (XI. 18.) NFM rendelet 11. § (4) bekezdésével megállapított, a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^302]: A 7. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^303]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^304]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
-[^305]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított, a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^306]: A 7. számú melléklet 2.1.1. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^307]: A 7. számú melléklet 2.1.2. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^308]: A 7. számú melléklet 2.1.3. alpont 6.és 9. bekezdése a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg. [A 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével elrendelt, a 7. számú melléklet 2.1.3. alpont 6. alpontjára vonatkozó módosítás nem vezethető át.]
-[^309]: A 7. számú melléklet 2.3.2. alpont b) pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^310]: A 7. számú melléklet 3. pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével megállapított szöveg.
-[^311]: A 7. számú melléklet 4.1. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével megállapított szöveg.
-[^312]: A 7. számú melléklet 4. pont 4.2. alpontját a 33/2019. (IX. 10.) ITM rendelet 4. § b) pontja hatályon kívül helyezte, újonnan a 45/2019. (XII. 20.) ITM rendelt 9. § (5) bekezdése iktatta be.
-[^313]: A 7. számú melléklet 4. pont 4.5. alpontja a 33/2019. (IX. 10.) ITM rendelet 3. §-a, a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
-[^314]: A 7. számú melléklet 4.7. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével megállapított szöveg.
-[^315]: A 7. számú melléklet 4.8. alpontját a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése hatályon kívül helyezte.
-[^316]: A 7. számú melléklet 6.2. alpont b) alpontját a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése hatályon kívül helyezte.
-[^317]: A 7. számú melléklet 6. pont 6.2. alpont c) pontja a 33/2019. (IX. 10.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
-[^318]: A 7. számú melléklet 6.3. alpontját a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése hatályon kívül helyezte.
-[^319]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.
+[^300]: A 6. számú melléklet 3. pont 3.5. alpontját a 23/2015. (V. 8.) NFM rendelet 5. § (4) bekezdése iktatta be.
+[^301]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be.
+[^302]: A 7. számú melléklet 1.1. pontja a 66/2015. (XI. 18.) NFM rendelet 11. § (4) bekezdésével megállapított, a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^303]: A 7. számú melléklet 1.2. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^304]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
+[^305]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
+[^306]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított, a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^307]: A 7. számú melléklet 2.1.1. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^308]: A 7. számú melléklet 2.1.2. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^309]: A 7. számú melléklet 2.1.3. alpont 6.és 9. bekezdése a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg. [A 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével elrendelt, a 7. számú melléklet 2.1.3. alpont 6. alpontjára vonatkozó módosítás nem vezethető át.]
+[^310]: A 7. számú melléklet 2.3.2. alpont b) pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^311]: A 7. számú melléklet 3. pontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^312]: A 7. számú melléklet 4.1. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^313]: A 7. számú melléklet 4. pont 4.2. alpontját a 33/2019. (IX. 10.) ITM rendelet 4. § b) pontja hatályon kívül helyezte, újonnan a 45/2019. (XII. 20.) ITM rendelt 9. § (5) bekezdése iktatta be.
+[^314]: A 7. számú melléklet 4. pont 4.5. alpontja a 33/2019. (IX. 10.) ITM rendelet 3. §-a, a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^315]: A 7. számú melléklet 4.7. alpontja a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^316]: A 7. számú melléklet 4.8. alpontját a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése hatályon kívül helyezte.
+[^317]: A 7. számú melléklet 6.2. alpont b) alpontját a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése hatályon kívül helyezte.
+[^318]: A 7. számú melléklet 6. pont 6.2. alpont c) pontja a 33/2019. (IX. 10.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
+[^319]: A 7. számú melléklet 6.3. alpontját a 45/2019. (XII. 20.) ITM rendelet 9. § (5) bekezdése hatályon kívül helyezte.
+[^320]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.
