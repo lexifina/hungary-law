@@ -1,3 +1,1 @@
-14. §[^1]
-
-[^1]: A 14. § a 13. § (2) bekezdése alapján 2020. június 9-én lép hatályba.
+14. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
