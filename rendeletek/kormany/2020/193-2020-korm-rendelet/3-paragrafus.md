@@ -1,3 +1,5 @@
-## 2. § Hatályát veszti az R1. 1. melléklet 5. pont 5.19. alpontja.
+## 2. §[^3]
 
 ## 2. Az egyes hajózási hatósági eljárások részletes szabályairól szóló 515/2017. (XII. 29.) Korm. rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

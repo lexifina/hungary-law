@@ -1,1 +1,3 @@
-## 1. § A kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítéséről, használatbavételéről, üzemben tartásáról és megszüntetéséről szóló 510/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R1.) 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
