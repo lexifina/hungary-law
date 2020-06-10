@@ -1,0 +1,3 @@
+6. § A Külszoltv. 33. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) Ha a felkészülési állományba kinevezett kormánytisztviselő táppénzre, baleseti táppénzre, csecsemőgondozási díjra, gyermekgondozási díjra, örökbefogadói díjra jogosult, akkor a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) szabályai az irányadóak. A 11. § (3) bekezdése szerinti külföldi felkészülési állományba, valamint a 21. § (2) bekezdése szerinti belföldi felkészülési állományba kinevezett kormánytisztviselőt az Ebtv.-ben meghatározott betegszabadsága idejére a 11. § (4) bekezdése szerinti illetményének a 60%-a illeti meg.”

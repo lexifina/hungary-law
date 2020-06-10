@@ -1,0 +1,1 @@
+12. § Hatályát veszti a Gazdaságvédelmi Akcióterv keretében a veszélyhelyzet során a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény eltérő rendelkezéseiről szóló 127/2020. (IV. 16.) Korm. rendelet 2–4. §-a, valamint a 6. és 7. §-a.
