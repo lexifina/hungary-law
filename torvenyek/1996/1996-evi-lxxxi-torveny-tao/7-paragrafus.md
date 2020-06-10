@@ -26,7 +26,7 @@ ea) az adózó (ideértve a jogelődjét is) az immateriális jószágot az ért
 
 eb) a bejelentés adóévét megelőző adóév(ek)ben az ugyanazon jogdíjra jogosító immateriális jószág értékesítéséből, kivezetéséből származó nyereségre nem alkalmazta az (1) bekezdés c) pontját, figyelemmel a (22)–(25) bekezdésben foglaltakra,
 
-f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség 50 százaléka és legfeljebb adóévenként 10 milliárd forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
+f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség és legfeljebb adóévenként 10 milliárd forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
 
 g) az adózónál a kapott (járó) osztalék és részesedés címén
 
