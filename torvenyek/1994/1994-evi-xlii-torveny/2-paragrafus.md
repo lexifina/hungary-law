@@ -18,7 +18,9 @@ ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1)
 
 gb) kötvények kibocsátása;
 
-h) követelésvásárlás.
+h) követelésvásárlás,
+
+i) kezesség- és garanciavállaláshoz kapcsolódóan pénzügyi szolgáltatás közvetítése.
 
 (1a) Az Eximbank nemzetközi fejlesztési együttműködési céllal az alábbi tevékenységet végzi:
 
@@ -32,9 +34,11 @@ c) bel- és külföldi kockázati- és magántőkealap alapítása vagy ahhoz t�
 
 (1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési együttműködési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről a nemzetközi pénzügyi kapcsolatokért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
 
-(1d) Az Eximbank (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi kockázati- és magántőkealap alapításához, vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni.
+(1d) Az Eximbank az (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi alternatív befektetési alap alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni vagy megszerezni.
 
 (1e) Az Eximbank a Kormány határozata alapján az (1d) bekezdés szerinti tevékenységet az állam nevében is végezheti, ekkor az alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket a külgazdaságért felelős miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
+
+(1f) Az Eximbank jogosult alternatív befektetési alapkezelőt alapítani vagy abban részesedést szerezni.
 
 (2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 

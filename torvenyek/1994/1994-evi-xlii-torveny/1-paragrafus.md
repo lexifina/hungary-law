@@ -22,11 +22,11 @@
 
 4. nemzetközi fejlesztési együttműködés: a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló törvényben meghatározott fogalom;
 
-5. nemzetközi versenyképességet javító befektetés: a devizabelföldi gazdálkodó szervezet olyan belföldi működő tőke befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló, a befektetéssel érintett belföldi gazdálkodó szervezetnél a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint számszerűsíthető előny mutatható ki vagy ami a befektetéssel érintett gazdálkodó szervezet nemzetközi piacra lépését segíti elő;
+5.
 
-6. nemzetközi versenyképességet javító beruházás: devizabelföldi gazdálkodó szervezet belföldön megvalósuló beruházása, amelynek eredményeként a beruházást megvalósító vagy az azt üzembe helyező devizabelföldi gazdálkodó szervezetnél a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint számszerűsíthető előny mutatható ki, vagy amely a beruházást megvalósító vagy az azt üzembe helyező devizabelföldi gazdálkodó szervezet nemzetközi piacra lépését segíti elő;
+6.
 
-7. nemzetközi versenyképességet javító forgóeszközigény: devizabelföldi gazdálkodó szervezet versenyképes termeléséhez vagy szolgáltatásnyújtásához szükséges erőforrások, árukészletek vagy szolgáltatások finanszírozásához szükséges, vagy nemzetközi versenyképességet javító beruházásához kapcsolódó forgóeszköz-növekményhez köthető likvid források iránti igény, amely kielégítésével a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint a gazdálkodó szervezetnél számszerűsíthető előny mutatható ki, vagy amely igény kielégítése a gazdálkodó szervezet nemzetközi piacra lépését segíti elő.
+7.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
