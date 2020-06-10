@@ -1,0 +1,1 @@
+Az Országgyűlés a fogyasztási-forgalmi adók adórendszerben betöltött szerepének erősítése és a jövedelemadóknak, élőmunka-terheknek – az államháztartás egyensúlyának megőrzése mellett véghezvihető – csökkentése érdekében, figyelemmel a jogalanyok teherviselő képességére, valamint a kiskereskedelmi tevékenység negatív környezeti hatásaira a következő törvényt alkotja:
