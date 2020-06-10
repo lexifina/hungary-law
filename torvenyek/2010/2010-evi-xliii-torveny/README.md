@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2019-01-01 | 2018. évi CXXV. törvény | 2010-43-00-00.41 |
 | 2019-07-01 | 2019. évi LIX. törvény | 2010-43-00-00.42 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2010-43-00-00.43 |
+| 2020-06-10 | 2020. évi XLVII. törvény | 2010-43-00-00.44 |
