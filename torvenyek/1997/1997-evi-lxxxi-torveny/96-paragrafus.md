@@ -66,7 +66,7 @@ g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tev
 
 h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont,
 
-i) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók esetében a (2) bekezdés a), c), valamint a g)–h) pont,
+i) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), valamint a g)–h) pont,
 
 j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
 
