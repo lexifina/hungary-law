@@ -46,7 +46,7 @@ o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
 p) a külügyi szakmai vizsga,
 
-q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett orvosi vizsgálat,
+q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági és pszichológiai alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
 
 r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének,
 
