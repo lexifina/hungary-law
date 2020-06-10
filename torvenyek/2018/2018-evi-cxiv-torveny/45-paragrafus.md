@@ -2,11 +2,11 @@
 
 a) vezetőként a vezetői megbízást követő második év elteltével, valamint a magasabb vezetői vagy vezetői megbízás lejárta előtt legalább három hónappal,
 
-b) a várakozási idő 62. § (3) bekezdés szerinti csökkentése előtt, kivéve, ha a várakozási idő csökkentése kötelező,
+b) a várakozási idő 66. § (3) bekezdés szerinti csökkentése előtt, kivéve, ha a várakozási idő csökkentése kötelező,
 
 c) a 67. § (1)–(5) bekezdés szerinti garantáltnál magasabb összegű illetmény megállapítása előtt,
 
-d) a 67. § (9) bekezdés szerinti esetben, illetve
+d) a 67. § (8) és (9) bekezdés szerinti esetben, illetve
 
 e) kérésére, legkorábban honvédelmi alkalmazotti jogviszonyának keletkezését, illetve a korábbi minősítését követő három évet követően, illetve honvédelmi alkalmazotti jogviszonyának megszűnése esetén,
 

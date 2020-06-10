@@ -12,7 +12,7 @@
 
 3. a honvédelmi alkalmazottak fizetési osztályának első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat,
 
-4. az egyes pótlékok mértékét, a honvédelmi illetménykiegészítés mértékét, a keresetkiegészítés feltételeit,
+4. az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét, a honvédelmi illetménykiegészítés mértékét, a keresetkiegészítés feltételeit,
 
 5. a gyakornoki idővel kapcsolatosan a honvédelmi szervezet alaptevékenységébe tartozó munkaköröket,
 
@@ -34,7 +34,7 @@
 
 14. a honvédelmi alkalmazottnak adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
-15. a honvédelmi alkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
+15. a honvédelmi alkalmazottak illetményének folyósítására, illetve teljesítményjuttatásra vonatkozó részletes szabályokat,
 
 16. az 51. § (7) bekezdése szerinti hátrányos jogkövetkezményeket,
 
@@ -54,8 +54,12 @@
 
 24. az illetménynövekedés feltételeit azon esetekben, ahol a további szakképesítés hasznosításának mértéke előre nem határozható meg,
 
-25. azokat az eseteket, ahol a jubileumi jutalom alapjául szolgáló illetmény összegébe a 70–75. § szerinti pótlékot is be kell számítani,
+25. azokat az eseteket, ahol a jubileumi jutalom alapjául szolgáló illetmény összegébe a 70–74. § szerinti pótlékot és a 75. § szerinti honvédelmi illetménykiegészítést is be kell számítani,
 
 26. a honvédelmi alkalmazott önként vállalt többletkötelezettségeit, különösen a hadkötelezettség bevezetése esetére vállalt katonai szolgálatvállalással és az ehhez kapcsolódó kiképzéssel, felkészítéssel kapcsolatos kötelezettségeket,
 
-27. a honvédelmi alkalmazott feladatellátási helyére történő visszarendelésére, a visszarendelés ellentételezésére, a honvédelmi alkalmazott külföldre utazásának bejelentésére vonatkozó részletes szabályokat.
+27. a honvédelmi alkalmazott feladatellátási helyére történő visszarendelésére, a visszarendelés ellentételezésére, a honvédelmi alkalmazott külföldre utazásának bejelentésére vonatkozó részletes szabályokat,
+
+28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának szabályait,
+
+29. a fegyelmi eljárás részletes eljárási szabályait.

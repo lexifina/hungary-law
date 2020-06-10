@@ -8,7 +8,7 @@ b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó 
 
 c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
 
-d) a honvédek jogállásról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban eltöltött időt,
+d) a Hjt. szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban eltöltött időt,
 
 e) a d) ponttól eltérő szolgálati jogviszony időtartamát,
 
@@ -30,13 +30,13 @@ töltött időt.
 
 (2) A honvédelmi alkalmazott fizetési fokozatának megállapításánál az (1) bekezdésen túlmenően figyelembe kell venni
 
-a) a munkaviszonynak, illetve közalkalmazotti jogviszonynak azt az időtartamát, amely alatt a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonyban betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
+a) a munkaviszonynak azt az időtartamát, amely alatt a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonyban betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
 
 b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartamát,
 
 c) a sor- vagy tartalékos katonai szolgálatban, illetve a polgári szolgálatban, valamint
 
-d) az (1) bekezdés g) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
+d) az (1) bekezdés h) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
 
 eltöltött időt.
 

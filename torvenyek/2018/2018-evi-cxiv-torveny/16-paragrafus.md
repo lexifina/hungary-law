@@ -1,6 +1,6 @@
 16. § (1) Az E–H fizetési osztályba sorolt, a honvédelmi szervezet alaptevékenységének ellátásával összefüggő munkakörbe történő határozatlan időre szóló kinevezés esetén – ideértve az ilyen tartalmú áthelyezést is – a gyakornoki idő kikötése kötelező, ha a honvédelmi alkalmazott nem rendelkezik a munkaköréhez szükséges iskolai végzettséget és szakképzettséget, szakképesítést igénylő, legalább három év időtartamú szakmai gyakorlattal.
 
-(2) A gyakornoki idő folyamatosságát nem érinti a 21. § (2) bekezdés b) pont 1. alpontja szerinti áthelyezés. Ha a honvédelmi alkalmazotti jogviszony a gyakornoki idő alatt megszűnt, annak tartamát a szakmai gyakorlat megállapításakor abban az esetben kell figyelembe venni, ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya megszűnését követően a korábbival azonos vagy – a (4) bekezdésben foglaltak megfelelő alkalmazása alapján – azzal egyenlő értékű munkakörre honvédelmi alkalmazotti jogviszonyt létesít. Ettől eltérően, nem lehet a szakmai gyakorlat megállapításakor beszámítani a honvédelmi alkalmazotti jogviszony időtartamát, ha az a gyakornoki idő alatt
+(2) A gyakornoki idő folyamatosságát nem érinti a 21. § (2) bekezdés b) pontja szerinti áthelyezés. Ha a honvédelmi alkalmazotti jogviszony a gyakornoki idő alatt megszűnt, annak tartamát a szakmai gyakorlat megállapításakor abban az esetben kell figyelembe venni, ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya megszűnését követően a korábbival azonos vagy – a (4) bekezdésben foglaltak megfelelő alkalmazása alapján – azzal egyenlő értékű munkakörre honvédelmi alkalmazotti jogviszonyt létesít. Ettől eltérően, nem lehet a szakmai gyakorlat megállapításakor beszámítani a honvédelmi alkalmazotti jogviszony időtartamát, ha az a gyakornoki idő alatt
 
 a) a (16) bekezdésben foglaltak szerint megszűnik, vagy
 
@@ -16,11 +16,11 @@ során szerezhető meg. Az a)–b) pont szerinti, több jogviszonyban megszerzet
 
 (4) Az (1) és (2) bekezdés alkalmazásával kapcsolatban miniszteri rendelet állapítja meg a honvédelmi szervezet alaptevékenységének ellátásával összefüggő munkakört. Miniszteri rendelet meghatározhatja munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a honvédelmi alkalmazott által korábban ellátott, a (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani. A szakmai gyakorlat meglétét a honvédelmi alkalmazott köteles igazolni.
 
-(5) A gyakornoki idő az E fizetési osztályba tartozó munkakörben két, az F–H fizetési osztályba tartozó, illetve az (1) bekezdésben meghatározott tudományos kutatói munkakörben három év. Ha a honvédelmi alkalmazott
+(5) A gyakornoki idő az E fizetési osztályba tartozó munkakörben két, az F–H fizetési osztályba tartozó munkakörben három év. Ha a honvédelmi alkalmazott
 
 a) az E fizetési osztályba tartozó munkakörben egy évet,
 
-b) az F–H fizetési osztályba tartozó, illetve a tudományos kutatói munkakörben két évet
+b) az F–H fizetési osztályba tartozó munkakörben két évet
 
 meghaladó szakmai gyakorlattal rendelkezik, a gyakornoki idő tartama egy év. Miniszteri rendelet meghatározhatja azokat a munkaköröket, ahol – az egyenértékű követelményrendszer, vizsga, illetve továbbképzések miatt – nem kell gyakornoki időt kikötni.
 

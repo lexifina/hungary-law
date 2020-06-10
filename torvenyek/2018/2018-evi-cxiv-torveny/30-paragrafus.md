@@ -22,7 +22,7 @@ c) száz vagy annál több, de háromszáznál kevesebb honvédelmi alkalmazott 
 
 d) háromszáz vagy annál több honvédelmi alkalmazott foglalkoztatása esetén legalább harminc fő.
 
-(5) A (4) bekezdés alkalmazása szempontjából a hivatásos és szerződéses, a kormányzati szolgálati jogviszonyban, a közalkalmazotti jogviszonyban, a honvédelmi alkalmazotti jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.
+(5) A (4) bekezdés alkalmazása szempontjából a hivatásos és szerződéses, a honvédelmi alkalmazotti jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.
 
 (6) Ha az (1) bekezdés c) pontjában meghatározott alkalmatlanság a honvédelmi alkalmazott munkavégzésével vagy magatartásával függ össze, a felmentés előtt lehetőséget kell adni számára a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a honvédelmi szervezettől nem várható el.
 

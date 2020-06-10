@@ -6,4 +6,4 @@ a) magasabb vezető megbízással rendelkező honvédelmi alkalmazott esetén a 
 
 b) vezető megbízással rendelkező honvédelmi alkalmazott esetén a pótlékalap száz-kétszázötven százaléka.
 
-(3) A pótlék munkakörönkénti mértékét a (2) bekezdésben foglalt keretek között miniszteri rendelet állapítja meg.
+(3) A pótlék beosztás szerinti mértékét a (2) bekezdésben foglalt keretek között miniszteri rendelet állapítja meg.

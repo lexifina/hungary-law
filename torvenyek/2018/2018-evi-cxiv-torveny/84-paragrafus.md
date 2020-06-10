@@ -14,4 +14,4 @@ c) a szervezeti rendet és a fegyelmet sértő nyilatkozatot nem tehet,
 
 d) a sajtónyilvánosság igénybevételével hivatalos eljárásban magánvéleményt nem nyilváníthat,
 
-e) nem állíthat elő, nem terjeszthet, nem tehet közzé, nem jelentethet meg, és nem hozhat nyilvánosságra a Magyar Honvédség szervezeti rendjét és fegyelmét veszélyeztető sajtóterméket, ilyen tartalmú kiadványt, plakátot, hirdetményt, emblémát, más szöveges vagy képi adatot.
+e) nem állíthat elő, nem terjeszthet, nem tehet közzé, nem jelentethet meg, és nem hozhat nyilvánosságra a honvédelmi szervezet szervezeti rendjét és fegyelmét veszélyeztető sajtóterméket, ilyen tartalmú kiadványt, plakátot, hirdetményt, emblémát, más szöveges vagy képi adatot.

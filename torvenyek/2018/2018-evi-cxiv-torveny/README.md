@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-114-00-00
 | 2019-01-02 | 2010. évi CXXX. törvény | 2018-114-00-00.2 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2018-114-00-00.3 |
 | 2020-01-02 | 2010. évi CXXX. törvény | 2018-114-00-00.4 |
+| 2020-06-10 | 2020. évi XLVII. törvény | 2018-114-00-00.5 |

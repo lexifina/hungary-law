@@ -4,4 +4,4 @@
 
 (3) A honvédelmi szervezet viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
 
-(4) Az (1)–(3) bekezdésben foglaltaktól a Katonai Nemzetbiztonsági Szolgálat személyi állományába tartozó honvédelmi alkalmazottak tekintetében el lehet térni.
+(4)

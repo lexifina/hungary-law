@@ -1,4 +1,4 @@
-53. § A honvédelmi alkalmazottat
+53. § A honvédelmi alkalmazottat a besorolása alapján
 
 a) az „A”, „B”, „C” és „D” fizetési osztályban évi húsz munkanap,
 

@@ -1,3 +1,3 @@
-## 18. Módosító rendelkezések
+## 18.
 
 ### 100. §

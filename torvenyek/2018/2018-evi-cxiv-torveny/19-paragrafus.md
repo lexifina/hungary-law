@@ -30,4 +30,4 @@ köteles foglalkoztatni. Ezt követően a honvédelmi alkalmazott munkaidejét a
 
 (8) Az (1)–(7) bekezdés nem alkalmazható a magasabb vezetői és vezetői megbízású honvédelmi alkalmazott tekintetében.
 
-(9) A honvédelmi alkalmazott gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a honvédelmi alkalmazott kérésének megfelelő időpontban kell kiadni.
+(9)
