@@ -10,11 +10,11 @@
 
 a) a honvédségi nyugdíjasnak, a nyugállományú katonának, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
 
-b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
+b) a hivatásos, a szerződéses és az önkéntes tartalékos katonai szolgálatteljesítéssel, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
 
-c)
+c) az állomány elhunyt tagjának, az önkéntes tartalékos szolgálatteljesítéssel vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggésben elhunyt katonának, az elhunyt nyugállományú katonának, az elhunyt honvédségi nyugdíjasnak, az elhunyt kormánytisztviselőnek, az elhunyt kormányzati ügykezelőnek, az elhunyt honvédelmi alkalmazottnak és az elhunyt közalkalmazottnak,
 
-d) az a)–b) pont szerint ellátásra jogosult hozzátartozóinak, és
+d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak és
 
 e) az egyéb munkavégzésre irányuló jogviszony alapján foglalkoztatott állomány esetén a jogviszony megszűnését vagy megszüntetését követően, a Honvédséggel kötött egyéni megállapodás alapján
 

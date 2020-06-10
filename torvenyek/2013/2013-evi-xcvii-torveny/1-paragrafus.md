@@ -24,7 +24,7 @@ db) akinek nyugdíjazását közvetlenül megelőző utolsó foglalkoztatási jo
 
 dc) aki a da) alpontban meghatározott szervekkel fennálló jogviszonyának megszűnése és nyugdíjba vonulása között új jogviszonyt nem létesített, feltéve, hogy a két időpont között eltelt idő az 1 évet nem haladja meg,
 
-e) Honvédség személyi állománya: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 40. § (1) bekezdése szerinti személyi állomány, a Honvédelmi Minisztérium által foglalkoztatott kormánytisztviselők, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél foglalkoztatott honvédelmi alkalmazottak és az önkéntes tartalékos katonák,
+e) Honvédség személyi állománya: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 40. § (1) bekezdése szerinti személyi állomány, a Honvédelmi Minisztérium által foglalkoztatott kormánytisztviselők ideértve a politikai szolgálati és a biztosi jogviszonyban állókat is, munkavállalók, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél foglalkoztatott honvédelmi alkalmazottak és az önkéntes tartalékos katonák,
 
 f) hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontjában meghatározott személy,
 

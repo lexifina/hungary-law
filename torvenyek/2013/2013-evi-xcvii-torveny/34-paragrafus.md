@@ -6,4 +6,4 @@
 
 a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartást kezelő szerv, a választási szerv és a Honvédség központi személyügyi szerve, és
 
-b) a természetes személyazonosító adatokkal szolgáltatja minden további adatszolgáltató.
+b) a természetes személyazonosító adatokkal és – amennyiben kezelheti, továbbíthatja, – a társadalombiztosítási azonosító jellel szolgáltatja minden további adatszolgáltató.
