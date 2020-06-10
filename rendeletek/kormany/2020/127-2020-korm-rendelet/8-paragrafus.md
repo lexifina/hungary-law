@@ -1,5 +1,7 @@
-## 7. § Az Exim tv. 21. § (2) bekezdésében foglaltaktól eltérően a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát. A hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az Eximbank szavatoló tőkéjének kétszáz százalékát. Az 575/2013/EU rendelet I. melléklet 4. pontja szerinti „Alacsony kockázatú kategóriába” sorolandók azok a mérlegen kívüli kötelezettségvállalások, amelyekből a kötelezettségvállaláshoz kapcsolódó fedezet még nem érvényesíthető állapota miatt az Eximbank belső szabályzata szerint lehívás, folyósítás nem valósulhat meg.
+## 7. §[^6]
 
 8. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 9. § az e rendelet kihirdetését követő tizenötödik napon lép hatályba.
+
+[^6]: A 7. §-t a 2020: LIV. törvény 12. §-a hatályon kívül helyezte.

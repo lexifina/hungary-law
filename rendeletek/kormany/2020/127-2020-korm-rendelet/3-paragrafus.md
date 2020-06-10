@@ -1,1 +1,3 @@
-## 2. § Nem alkalmazható az Exim tv. 1. § (5a) bekezdés 5–7. pontja.
+## 2. §[^2]
+
+[^2]: A 2. §-t a 2020: LIV. törvény 12. §-a hatályon kívül helyezte.
