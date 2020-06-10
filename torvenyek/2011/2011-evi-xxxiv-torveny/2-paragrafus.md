@@ -8,6 +8,12 @@ b) külföldi fegyveres erő állományának tagja: az a) pontban foglalt fegyve
 
 c) nemzetközi katonai parancsnokság: az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv (a továbbiakban: Párizsi Jegyzőkönyv) I. cikk b), c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján, vagy nemzetközi szerződésben nemzetközi katonai parancsnokság jogállással felállított nemzetközi katonai szervezet;
 
+d) védelmi együttműködésről szóló magyar–amerikai megállapodás: a 2019. évi LI. törvénnyel kihirdetett, 2019. április 4-én aláírt, Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás;
+
+e) USA fegyveres erői: a védelmi együttműködésről szóló magyar–amerikai megállapodás II. cikk 1. pontja szerinti fegyveres erő;
+
+f) USA-vállalkozók: a védelmi együttműködésről szóló magyar–amerikai megállapodás II. cikk 4. pontja hatálya alá tartozók.
+
 (2) E törvény alkalmazásában hozzátartozónak minősül az (1) bekezdés b) pontjában foglalt személynek vagy az (1) bekezdés c) pontjában foglalt nemzetközi katonai parancsnoksághoz tartozó állomány tagjának
 
 a) házastársa,
