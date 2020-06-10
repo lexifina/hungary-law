@@ -20,9 +20,9 @@ b) az állomány tagja az egészségi vagy a pszichikai állapota alapján a kat
 
 c) az állomány tagja a megváltozott munkaképességű személyek ellátására jogosultságot szerzett, feltéve, hogy ezt írásban kéri,
 
-d) az állomány tagja szolgálati beosztásában nem foglalkoztatható tovább, mert a maximális várakozási időtartam lejárt és meghosszabbítására nem került sor,
+d)
 
-e) a tiszti vagy az altiszti állománycsoport legalacsonyabb szintű, általános előmeneteli rendbe tartozó beosztásában (a továbbiakban: kezdő beosztás) szolgálatot teljesítő hadnagy vagy őrmester a kötelező várakozási idő leteltekor teljesítményértékelése alapján nem léptethető elő,
+e)
 
 f) az állomány tagja rendelkezési állományba nem helyezhető át, vagy abban tovább nem tartható, kivéve, ha a szolgálati viszonya megszűnésének módjára e törvény eltérően rendelkezik, vagy
 
@@ -42,7 +42,7 @@ d) rendelkezési állományba nem helyezhető át.
 
 (4) Az (1) bekezdés e) pontja akkor alkalmazható, ha a szolgálati beosztás betöltése nemzetbiztonsági alkalmassághoz kötött.
 
-(5) A (2) bekezdés d) pontja szerint akkor szüntethető meg a szolgálati viszony, ha a hivatásos állomány tagja a 46. § (1) bekezdés r) pontja szerinti rendelkezési állományba helyezését nem kérte, vagy arra nem jogosult. A (2) bekezdés d) pontjára is alkalmazni kell az 59. § (4) bekezdés b) pontját és az (5) bekezdését.
+(5)
 
 (6) A felmentés a (2) bekezdés alapján nem kötelező, ha az állomány tagja a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományban tartható.
 

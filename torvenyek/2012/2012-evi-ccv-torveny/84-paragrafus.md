@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdéstől eltérően, ha az állomány kettős rendfokozattal rendszeresített, nem kezdő beosztást betöltő tagjának a viselt rendfokozata eltér a beosztáshoz rendszeresített rendfokozattól, a viselt rendfokozatához meghatározott várakozási idő leteltekor, vagy azt követően léptethető elő vagy nevezhető ki első tábornoki rendfokozatba, ha rendelkezik a 83. § (2) bekezdés c), d) és f) pontja szerinti feltételekkel.
 
-(4) Ha az állomány kezdő beosztást betöltő tagjának a viselt rendfokozata eltér a beosztáshoz rendszeresített rendfokozattól, a viselt rendfokozatához meghatározott várakozási idő leteltekor elő kell léptetni, ha rendelkezik a 83. § (2) bekezdés c), d) és f) pontja szerinti feltételekkel. Ellenkező esetben szolgálati viszonyát a 62. § (2) bekezdés e) pontja szerint meg kell szüntetni.
+(4) Ha az állomány kezdő beosztást betöltő tagjának a viselt rendfokozata eltér a beosztáshoz rendszeresített rendfokozattól, a viselt rendfokozatához meghatározott kötelező várakozási idő leteltekor elő kell léptetni, ha rendelkezik a 83. § (2) bekezdés c), d) és f) pontja szerinti feltételekkel. Ellenkező esetben akkor kell előléptetni az állomány tagját, amikor a várakozási idő letelte után először rendelkezik a 83. § (2) bekezdés c), d) és f) pontja szerinti feltételekkel.
 
 (5) Nem nevezhető ki, nem léptethető elő a magasabb rendfokozatba az állomány tagja, ha
 

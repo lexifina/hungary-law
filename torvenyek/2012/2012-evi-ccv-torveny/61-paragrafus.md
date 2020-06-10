@@ -12,6 +12,6 @@ b) a veszélyhelyzet időtartama alatt
 
 feltéve, hogy a feladat-végrehajtásban személyesen részt vesz.
 
-(4) A lemondást követően a hivatásos állomány tagja kizárólag szerződéses állományba vehető vissza. A szerződésben vállalt szolgálati idő leteltét követően a 32. § (1) bekezdés d) pontja alkalmazható.
+(4)
 
 (5) A szerződéses állomány tagjának egyoldalú szerződésbontása esetén a lemondás szabályait kell alkalmazni azzal, hogy az (1) bekezdés szerinti időtartam nem haladhatja meg a szerződésben vállalt szolgálati időt.

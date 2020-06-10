@@ -4,6 +4,6 @@
 
 (3) Amennyiben a figyelmeztetés alkalmazását megalapozó körülmények a fegyelmi eljárás elrendelését követően állapíthatók meg, a (2) bekezdés rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a fenyítés kiszabása mellőzhető.
 
-(4) Az állomány tagja a közléstől számított 8 munkanapon belül kifogással élhet, ha a figyelmeztetést nem fogadja el. A kifogásról való tudomásszerzést követően a (2) bekezdés esetén a fegyelmi eljárást haladéktalanul meg kell indítani, a (3) bekezdés esetén a fegyelmi eljárást haladéktalanul folytatni kell.
+(4) Az állomány tagja a közléstől számított 8 munkanapon belül kifogással élhet, ha a figyelmeztetést nem fogadja el. A kifogásról való tudomásszerzést követően a (2) bekezdés esetén a fegyelmi eljárást haladéktalanul meg kell indítani.
 
 (5) A (4) bekezdés szerinti kifogás benyújtására irányadó határidő jogvesztő.

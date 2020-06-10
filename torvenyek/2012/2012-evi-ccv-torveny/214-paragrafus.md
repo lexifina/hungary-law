@@ -1,4 +1,8 @@
-214. § (1) Az önkéntes tartalékos katona szerződésében legalább 3, de legfeljebb 6 hónapig terjedő próbaidőt kell kikötni. Nem kell próbaidőt kikötni, ha az önkéntes tartalékos szolgálati viszony létesítésére a hivatásos vagy a szerződéses szolgálati viszony megszűnésével egyidejűleg kerül sor.
+214. § (1) Az önkéntes tartalékos katona szerződésében legfeljebb 6 hónapig terjedő próbaidőt kell kikötni. Nem kell próbaidőt kikötni, ha az önkéntes tartalékos szolgálati viszony létesítésére a hivatásos vagy a szerződéses szolgálati viszony megszűnésével egyidejűleg kerül sor.
+
+(1a) Annak az önkéntes tartalékos katonának, aki a szerződésében vállalja, hogy a tényleges szolgálatteljesítését miniszteri rendeletben meghatározottak szerint egybefüggően látja el, a szerződésében 3 hónap próbaidőt kell kikötni.
+
+(1b) A szolgálati járandóságban részesülő nem létesíthet az (1a) bekezdés szerinti önkéntes tartalékos szolgálati viszonyt.
 
 (2) Az önkéntes tartalékos katona honvéd esküt tesz.
 

@@ -36,9 +36,9 @@ a) állománycsoporton belül magasabb beosztásba a (2) bekezdés a), c) és f)
 
 b) az általa betöltött szolgálati beosztásban elérhető legmagasabb rendfokozat eléréséig a (2) bekezdés b) és f) pontja szerinti feltétel alapján léptethető elő.
 
-(8) Az állomány bírósági szervezethez, a bíróságok igazgatási feladatait ellátó szervezethez vagy az ügyészi szervezethez vezényelt tagjának rendfokozati előmenetelére – az általa betöltött beosztáshoz rendszeresített rendfokozat eléréséig – a speciális beosztást betöltőkre vonatkozó rendfokozati várakozási időket kell alkalmazni. A rendfokozati előmenetel feltétele az éves fizikai állapotfelmérés és az éves kiképzési feladatok eredményes végrehajtása.
+(8) Az állomány bírósági szervezethez, a bíróságok igazgatási feladatait ellátó szervezethez vagy az ügyészi szervezethez, illetve a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti eleméhez vezényelt tagjának rendfokozati előmenetelére – az általa betöltött beosztáshoz rendszeresített rendfokozat eléréséig – a speciális beosztást betöltőkre vonatkozó rendfokozati várakozási időket kell alkalmazni. A rendfokozati előmenetel feltétele az éves fizikai állapotfelmérés és az éves kiképzési feladatok eredményes végrehajtása.
 
-(9) Az állomány (8) bekezdésben meghatározottaktól eltérő más szervhez vezényelt tagjának rendfokozati előmenetelére – a (10) bekezdésben meghatározott eltéréssel – a speciális beosztást betöltőkre vonatkozó rendfokozati várakozási időket kell alkalmazni azzal, hogy előléptetésükre a vezénylés időtartama alatt egyszer, a más szerv vezetőjének kezdeményezésére, a miniszter döntésével kerülhet sor, ha
+(9) Az állomány (8) bekezdésben meghatározottaktól eltérő más szervhez vezényelt tagjának rendfokozati előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati várakozási időket kell alkalmazni azzal, hogy előléptetésükre a vezénylés időtartama alatt egyszer, a más szerv vezetőjének kezdeményezésére, a miniszter döntésével kerülhet sor, ha
 
 a) a más szervnél teljesített szolgálat időtartama meghaladja az 5 évet,
 
@@ -46,6 +46,6 @@ b) az állomány tagja megfelel a (2) bekezdés b) pontja szerinti feltételnek,
 
 c) az állomány tagja az éves fizikai állapotfelmérést és az éves kiképzési feladatokat eredményesen végrehajtotta.
 
-(10) Az állomány központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti eleméhez, általános előmeneteli renddel rendszeresített beosztásba vezényelt tagja esetében a (9) bekezdés alkalmazása során az általános beosztást betöltőkre irányadó rendfokozati várakozási időket kell figyelembe venni.
+(10)
 
 (11) Az állomány más szervhez – ide nem értve a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti elemét – vezényelt tagjának a vezénylés megszüntetését követő beosztásba kinevezésekor a (2) bekezdés f) pontja szerinti feltétel nem alkalmazható.

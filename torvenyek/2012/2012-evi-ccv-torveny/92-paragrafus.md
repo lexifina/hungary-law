@@ -2,7 +2,7 @@
 
 92. § (1) A tényleges szolgálati viszonyban töltött idő az állományba vétel napjától a szolgálati viszony megszűnésének, megszüntetésének napjáig tart. A szolgálati viszony szünetelésének időtartama a tényleges szolgálati viszonyban töltött időbe nem számítható be.
 
-(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés, valamint a Hvt. 40/B. §-a szempontjából
+(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés, valamint a Hvt. 46. § (1a) bekezdése szempontjából
 
 a) a 2002. január 1-je előtt a fegyveres szervek állományában szolgálati viszonyban eltöltött, és a korábbi szabályok szerint beszámítható szolgálati időt, és
 
@@ -10,9 +10,9 @@ b) a 2012. január 1-je előtt hatályos szabályok szerint rögzített szolgál
 
 tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
-(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani.
+(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani.
 
-(2b) A végkielégítés szempontjából a honvédelmi szervezet állományában a katonai szolgálati viszony létesítését közvetlenül megelőző, nem katonai szolgálati viszonyban eltöltött időket is figyelembe kell venni.
+(2b) A végkielégítés szempontjából a honvédelmi szervezet állományában a katonai szolgálati viszony létesítését közvetlenül megelőző, nem katonai szolgálati viszonyban eltöltött időket is figyelembe kell venni, kivéve, ha a korábbi jogviszony alapján a végkielégítés kifizetésre került.
 
 (3) Az 1996. szeptember 1-je után létesített szolgálati viszony esetén a szolgálati viszonyban töltött időként csak a sor-, a tartalékos-, a póttartalékos, a továbbszolgáló és a szerződéses katonai, a fegyveres szervnél hivatásos és szerződéses szolgálati viszonyban eltöltött, továbbá a katonai és a rendvédelmi felsőoktatási intézménynél 1996. szeptember 1-jét megelőzően hallgatói, növendéki és a tiszthelyettes-képző szakközépiskolában hallgatói jogviszonyban eltöltött idő vehető figyelembe.
 

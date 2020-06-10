@@ -4,7 +4,7 @@
 
 ## 48. A szolgálatteljesítés általános keretei
 
-77. § (1) Ha e törvény eltérően nem rendelkezik, az állomány tagja szolgálati beosztásban teljesít szolgálatot. A szolgálati beosztásokat, az azokhoz kapcsolódó előmeneteli rendet és a rendszeresített rendfokozatot jogszabály állapítja meg. A kezdő beosztásokat, valamint az általános előmeneteli rendbe tartozó, jogszabályban meghatározott szolgálati beosztásokat kettős rendfokozattal rendszeresített beosztásként kell rendszeresíteni. Ahol e törvény rendszeresített rendfokozatot említ, azon a kettős rendfokozattal rendszeresített beosztások esetén a magasabb rendfokozatot kell érteni. A szolgálati beosztásokat, a szolgálati beosztáshoz kapcsolódó alapvető követelményeket munkaköri jegyzékben, állománytáblában rögzíteni kell.
+77. § (1) Ha e törvény eltérően nem rendelkezik, az állomány tagja szolgálati beosztásban teljesít szolgálatot. A szolgálati beosztásokat, az azokhoz kapcsolódó előmeneteli rendet és a rendszeresített rendfokozatot jogszabály állapítja meg. Az általános előmeneteli rendbe tartozó, jogszabályban meghatározott szolgálati beosztásokat – ideértve a tiszti vagy az altiszti állománycsoport legalacsonyabb szintű, általános előmeneteli rendbe tartozó beosztásait (a továbbiakban: kezdő beosztás) is kettős rendfokozattal rendszeresített beosztásként kell rendszeresíteni.
 
 (1a) Az állomány tagja által viselt és a szolgálati beosztáshoz rendszeresített rendfokozat eltérhet egymástól
 
@@ -18,9 +18,9 @@ d) az általános előmeneteli rendű beosztásokban a rendfokozatban történő
 
 e) a 85. § szerinti alacsonyabb beosztásban történő szolgálatteljesítés során.
 
-(2) A honvédelmi szervezet állományába tartozó, de a honvédelmi szervezetnél szolgálati beosztást be nem töltő személy a 46–48. § szerinti feltételeknek való megfelelés esetén a 42. § (1) bekezdés b) pontja szerint rendelkezési állományba áthelyezhető és meghatározott időre rendelkezési állományban tartható.
+(2)
 
-(3) Szolgálati beosztás betöltése és rendelkezési állományba helyezés nélkül is a honvédelmi szervezet állományába tartozik a szerződéses pályakezdő, valamint az alapkiképzés teljesítéséig a közkatona.
+(3)
 
 (4) Az állomány központi államigazgatási szervek védelmi igazgatással foglalkozó szervezeti elemeinél szolgálatot teljesítő tagjának szolgálati viszonyára az 54. § (1) bekezdés a)–c) pontját, valamint (2) bekezdését kell alkalmazni.
 

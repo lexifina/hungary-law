@@ -14,6 +14,6 @@ b) a tudomására jutott tények alapján külön eljárás nélkül állapítja
 
 (6) Az (5) bekezdéstől eltérően a tábornok méltatlanságának megállapítására a 187. §-t kell alkalmazni.
 
-(7) A méltatlanság megállapítása esetén az állomány tagja egyenruha-viselésre nem jogosult, rendfokozatát nem használhatja.
+(7) A méltatlanság megállapítása esetén az állomány tagja egyenruha-viselésre nem jogosult, rendfokozatát elveszíti.
 
 (8) Nem alkalmazható a 145. § (1) bekezdése, a 147–150. §, a 152. § (3) bekezdés b) pontja, és (4) bekezdése, a 153. § (1) bekezdés f) pontja és (2) bekezdése, továbbá a 154–156. §. A 145. § (3) bekezdésének alkalmazása során miniszteri rendelet a méltatlansági eljárásra eltérő szabályokat állapíthat meg.

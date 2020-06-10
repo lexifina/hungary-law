@@ -3,3 +3,5 @@
 (2) A főigazgató a hivatásos állomány tagját fedőbeosztásba áthelyezheti. A szolgálati feladatok befejezését követően, amennyiben a hivatásos állomány tagja részére a KNBSZ-nél más megfelelő szolgálati beosztás nem biztosítható, a hivatásos állomány tagja a 46. § (1) bekezdés f) és j) pontja szerint rendelkezési állományba áthelyezhető. A hivatásos állomány fedőbeosztást ellátó tagjának szolgálati viszonyát folyamatosnak kell tekinteni, előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati előmeneteli szabályok az irányadók.
 
 (3) A hivatásos állomány tagja nemzetbiztonsági feladatait külső munkaviszonyt létesítve is elláthatja, továbbá külső intézményeknél és szervezeteknél is teljesíthet szolgálatot. A szolgálatteljesítést a főigazgató saját hatáskörben szabályozza.
+
+(4) Az 51–52/A. §-tól eltérően a főigazgató javaslata alapján az állomány 46. § (1) bekezdés d) pontja szerinti tagja – beleegyezése esetén – a miniszter és a más szerv vezetőjének megállapodásával katonai nemzetbiztonsági vagy azzal összefüggő honvédelmi szakfeladatok ellátására, illetve álláshely vagy munkakör betöltésére más szervnél történő szolgálatteljesítésre vezényelhető.

@@ -1,6 +1,6 @@
 ## 124. A X. és a XI. Fejezethez kapcsolódó rendelkezések
 
-219. § (1) Az önkéntes tartalékos katona a tényleges szolgálatteljesítése időtartamára
+219. § (1) Az önkéntes tartalékos katona – a 214. § (1a) bekezdése szerinti önkéntes tartalékos katona kivételével – a tényleges szolgálatteljesítése időtartamára
 
 a) illetményként
 
@@ -18,6 +18,14 @@ jogosult.
 
 (1b) Miniszteri rendeletben meghatározott beosztások esetében az önkéntes tartalékos katona illetménye az (1) bekezdéstől – honvédelmi érdekből, az önkéntes tartalékos katona javára – eltérően is meghatározható.
 
+(1c) A 214. § (1a) bekezdése szerinti önkéntes tartalékos katona a miniszter által rendeletben meghatározott
+
+a) illetményre,
+
+b) az (1) bekezdés b) pontja szerinti térítésmentes élelmezési és ruházati ellátásra, továbbá egyes utazási költségeinek a megtérítésére
+
+jogosult.
+
 (2) Ha a szolgálati járandóságban részesülő önkéntes tartalékos katona tényleges szolgálatteljesítése évente
 
 a) a 60 napot nem haladja meg, akkor távolléti díjba tartozó illetményelemekre nem jogosult,
@@ -26,6 +34,6 @@ b) a 60 napot meghaladja, akkor a 60 napot meghaladó időtartamra az önkéntes
 
 (3) Az önkéntes tartalékos katona illetményéről, szerződéskötési díjáról, rendelkezésre állási díjáról és egyéb pénzbeli juttatásairól részben vagy egészben írásban lemondhat.
 
-(4) Az önkéntes tartalékos katona miniszteri rendeletben meghatározottak szerint szerződéskötési díjra, illetve rendelkezésre állási díjra jogosult.
+(4) Az önkéntes tartalékos katona – a 214. § (1a) bekezdése szerinti önkéntes tartalékos katona kivételével – miniszteri rendeletben meghatározottak szerint szerződéskötési díjra, illetve rendelkezésre állási díjra jogosult.
 
 (5) Az önkéntes tartalékos katona köteles visszafizetni a részére kifizetett szerződéskötési díjat, ha szolgálati viszonya a vállalt szolgálati idő letöltése előtt, az 59. § (1) bekezdés c) pontja, a 68. § (1) bekezdés c), e)–g), i)–m) vagy p) pontja, a 215. § (3) bekezdés, vagy az állomány tagjának felróható okból a 215. § (1) bekezdés d) pontja alapján szűnik meg, vagy ha a vállalt szolgálati idő letöltése előtt az önkéntes tartalékos katona a 215. § (2) bekezdés szerinti egyoldalú nyilatkozatot tett.

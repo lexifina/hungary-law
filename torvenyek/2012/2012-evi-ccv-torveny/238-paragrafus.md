@@ -56,15 +56,15 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 17. a megváltozott egészségi állapot felülvizsgálatának eljárási rendjét, a felülvizsgálatot végző szervek és a felülvizsgálatban közreműködők kijelölését,
 
-18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás, a szerződés-hosszabbítási díj, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására, valamint az ösztöndíj elemeire, kiszámítási módjára, mértékére vonatkozó szabályokat, a teljesítményjuttatás megállapításának alapelveit,
+18. az illetmény, az illetményjellegű juttatások, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás, a szerződés-hosszabbítási díj, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására, valamint az ösztöndíj elemeire, kiszámítási módjára, mértékére vonatkozó szabályokat, a teljesítményjuttatás megállapításának alapelveit,
 
 19. a fokozati vizsgára, a vizsgára jelentkezés és a vizsgáztatás rendjére, a vizsgáztatásért felelős szervezet kijelölésére, a fokozati vizsga halasztására vonatkozó részletes szabályokat,
 
-20. az illetménypótlékok, egyéb pótlékok – ide nem értve a területi pótlékot –, valamint a szerződéskötési díj és a rendelkezésre állási díj jogosultságával, megállapításával, kifizetésével kapcsolatos szabályokat,
+20. az illetménypótlékok, egyéb pótlékok – ide nem értve a területi pótlékot –, a kiegészítő illetmények, valamint a szerződéskötési díj és a rendelkezésre állási díj mértékét, illetve az ezek jogosultságával, megállapításával, kifizetésével kapcsolatos szabályokat,
 
 21. a szerződés-hosszabbítási díj, a visszailleszkedési támogatás és a 74/A. § szerinti juttatás visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét,
 
-22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
+22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársuknak és örökösüknek nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 
 23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja túlélő hozzátartozói lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
 
@@ -76,7 +76,7 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 27. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható regenerálódást segítő, rekreációs és üdültetési szolgáltatások fajtáit, igénybevételük feltételeit és módját,
 
-28. az élelmezési ellátásra és az étkezési hozzájárulásra jogosultak körét, lehetséges formáit és igénybevételük feltételeit, módját,
+28. az élelmezési ellátásra és az étkezési hozzájárulásra jogosultak körét, lehetséges formáit és igénybevételük, pénzbeli megváltásuk feltételeit, módját,
 
 29. a ruházati ellátások rendszerét, módját, fajtáit, összegét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit,
 
@@ -102,7 +102,9 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 40. a hivatásos és szerződéses állomány tagja nyelvvizsga díjának megtérítésére vonatkozó szabályokat,
 
-41. a speciális végzettsége, képzettsége, valamint az általa ellátandó feladat fontossága vagy speciális jellege miatt a honvédelmi szervezet kiemelt érdekében alkalmazandó önkéntes tartalékos katona alapkiképzésére, tényleges szolgálatteljesítésére, behívására, szolgálatteljesítési idő beosztására, túlszolgálat elrendelésére, valamint az illetményére vonatkozó eltérő szabályokat.
+41. a speciális végzettsége, képzettsége, valamint az általa ellátandó feladat fontossága vagy speciális jellege miatt a honvédelmi szervezet kiemelt érdekében alkalmazandó önkéntes tartalékos katona alapkiképzésére, tényleges szolgálatteljesítésére, behívására, szolgálatteljesítési idő beosztására, túlszolgálat elrendelésére, valamint az illetményére vonatkozó eltérő szabályokat,
+
+42. azon beosztások körét, amelyekben az állomány tagjának illetménye szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel eltérően is meghatározható.
 
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 

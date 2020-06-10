@@ -18,7 +18,7 @@ b) speciális előmeneteli rendben azonos elérhető rendfokozatú,
 
 c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összevetése alapján azonosnak minősül,
 
-4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter) döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
+4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Magyar Honvédség parancsnokának a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 39. § (2) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
 
 5. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet az állomány tagja szolgálati beosztásához kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni,
 
@@ -64,7 +64,7 @@ b) akinek tanulmányait a miniszter által alapított ösztöndíj elnyerését 
 
 20. közeli hozzátartozó: a házastárs, az egyenes ágbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelő szülő, a testvér,
 
-21. közkatona: a szerződéses pályakezdő kivételével az a katona, aki rendfokozat nélkül teljesít szolgálatot,
+21. közkatona: a legénységi állomány azon tagja, aki a 39. § (1) bekezdése szerint rendfokozat nélkül teljesít szolgálatot,
 
 22. legénységi állomány tagja: a közkatona és az 1. melléklet szerinti tisztesi rendfokozattal rendelkező szerződéses katona,
 
@@ -104,7 +104,9 @@ b) aki öregségi nyugdíjban, más olyan pénzbeli ellátásban részesül, ame
 
 kivéve, ha a szolgálati viszonya e törvény alapján lemondás, a szerződéses állomány tagjának egyoldalú szerződésbontása, lefokozás vagy szolgálati viszony megszüntetése fenyítés kiszabásával, büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, vagy méltatlanná válás, kifogástalan életvitel követelményének való meg nem felelés, nemzetbiztonsági szempontból katonai szolgálatra alkalmatlanság miatt szűnt meg,
 
-31. önkéntes tartalékos katona: az a katona, aki szerződésben vállalja az e törvényben meghatározott feltételrendszer szerint a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 41. § (5) bekezdésében foglaltakat,
+31. önkéntes tartalékos katona: az a katona, aki szerződésben vállalja az e törvényben meghatározott feltételrendszer szerint a Hvt. 41. § (5) bekezdésében foglaltakat,
+
+31a. pályakezdő: az állomány azon tagja, aki első alkalommal létesít tiszti vagy altiszti szolgálati viszonyt – ide nem értve a honvéd tisztjelöltet és a honvéd altiszt-jelöltet, az állománycsoport-váltással tiszti vagy altiszti állományba, az önkéntes tartalékosból szerződéses vagy hivatásos állományba kerülőket, valamint a szerződésesből hivatásos állományba kerülőket,
 
 32. rendszeres illetménypótlék: a havi mértékben megállapított illetménypótlék,
 
@@ -112,9 +114,9 @@ kivéve, ha a szolgálati viszonya e törvény alapján lemondás, a szerződés
 
 33. szerződéses állomány tagja: az állomány azon tagja, aki határozott időre szerződésben vállalja a katonai szolgálatot,
 
-34. szerződéses pályakezdő: a közkatona kivételével a szerződéses állomány rendfokozattal nem rendelkező tagja, aki első alkalommal létesít szerződéses tiszti vagy szerződéses altiszti szolgálati viszonyt, és kizárólag e törvény alkalmazásában minősül pályakezdőnek,
+34.
 
-35. szolgálati érdek: a honvédelmi szervezet rendeltetésszerű működéséhez, jogszabályban, közjogi szervezetszabályozó eszközben vagy alapító okiratban meghatározott feladatainak teljesítéséhez szükséges, vagy azt meghatározó módon befolyásoló személyi feltétel, körülmény,
+35. szolgálati érdek: a Magyar Honvédség, illetve honvédelmi szervezet rendeltetésszerű és eredményes működéséhez, jogszabályban, közjogi szervezetszabályozó eszközben vagy alapító okiratban meghatározott feladatainak teljesítéséhez szükséges, vagy azt meghatározó módon befolyásoló személyi feltétel, körülmény,
 
 36. szolgálati hely: az a honvédelmi szervezet, amelynek állományába a katona tartozik,
 

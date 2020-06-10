@@ -1,6 +1,6 @@
-165. § (1) A kártérítés mértéke a károkozó 2 havi alapilletményét, vezetői pótlékra jogosító beosztásban lévő károkozó esetén 4 havi alapilletményét nem haladhatja meg.
+165. § (1) A kártérítés mértéke a károkozó 2 havi alapilletményét, vezetői beosztásban lévő károkozó esetén 4 havi alapilletményét nem haladhatja meg.
 
-(2) Az (1) bekezdéstől eltérően a károkozó 4 havi, vezetői pótlékra jogosító beosztásban levő károkozó 6 havi alapilletménye erejéig felel, ha a kárt
+(2) Az (1) bekezdéstől eltérően a károkozó 4 havi, vezetői beosztásban levő károkozó 6 havi alapilletménye erejéig felel, ha a kárt
 
 a) a honvédelmi szervezet gazdálkodására, személyügyi tevékenységére, az illetmény-besorolásra, az anyagi-technikai eszközök kezelésére vonatkozó szabályok megsértésével,
 

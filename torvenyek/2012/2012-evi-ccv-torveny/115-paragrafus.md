@@ -2,7 +2,7 @@
 
 115. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult azzal, hogy ebből legalább két hetet köteles igénybe venni. A szülési szabadságot úgy kell kiadni, hogy abból négy hét lehetőleg a szülés várható időpontja elé essen.
 
-(2) A szülési szabadságot az (1) bekezdés szerinti időtartamból még hátralévő időre engedélyezni kell továbbá
+(2) A szülési szabadságot az (1) bekezdés szerinti – a gyermek születése napjától számított – időtartamból még hátralévő időre engedélyezni kell továbbá
 
 a) annak a nőnek, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, a gondozásba vétel napjától,
 

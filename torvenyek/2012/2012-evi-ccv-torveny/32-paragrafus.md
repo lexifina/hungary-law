@@ -6,9 +6,11 @@ b) a honvéd altiszt-jelölttel,
 
 c) a legénységi állomány azon tagjával, aki a honvédelmi szervezet által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 
-d) a miniszteri rendeletben meghatározottak szerint szerződéses szolgálati viszonnyal, önkéntes tartalékos szolgálati viszonnyal, honvédelmi szervezettel fennálló kormányzati szolgálati jogviszonnyal, közalkalmazotti jogviszonnyal, honvédelmi alkalmazotti jogviszonnyal vagy munkaviszonnyal rendelkező személlyel,
+d) a szerződéses szolgálati viszonyban, önkéntes tartalékos szolgálati viszonyban, honvédelmi szervezetnél kormányzati szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban álló személlyel,
 
-e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából áthelyezésre kerülő személlyel.
+e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából áthelyezésre kerülő személlyel,
+
+f) a polgári életből a 35. § (1) bekezdése szerinti állományba vétellel tiszti vagy altiszti állományba kerülő személlyel.
 
 (2) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni akkor, ha törvény a szolgálati viszony létesítését és fenntartását a hivatásos állományba vételhez köti.
 

@@ -30,7 +30,7 @@ m) a 162. § (1) bekezdés c) pontja szerinti katonai szolgálatra méltatlansá
 
 n) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően honvédelmi egészségkárosodási járadékra való jogosultságát állapítják meg,
 
-o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően a honvédelmi szervezetnél történő munkaviszony létesítésére tekintettel részére honvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
+o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően a honvédelmi szervezetnél történő kormányzati szolgálati jogviszony vagy munkaviszony létesítésére tekintettel részére honvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
 
 p) az a)–o) pontban nevesített eseteken kívül, ha e törvény azt kifejezetten elrendeli.
 

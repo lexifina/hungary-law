@@ -16,6 +16,10 @@ d) jogszabály alapján meghatározott esetekben kiegészítő illetményből
 
 áll.
 
+(1a) Miniszteri rendeletben meghatározott egyes beosztások esetében az állomány tagjának illetménye – szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel, az állomány tagja javára – az (1) bekezdéstől eltérően is meghatározható. A miniszteri rendelet szerint meghatározott illetmény nem lehet alacsonyabb az (1) bekezdés szerint járó illetménynél.
+
+(1b) Az (1a) bekezdés alapján megállapított illetmény honvédelmi szervezetenként legfeljebb az állomány 20 százalékának biztosítható.
+
 (2) Rész-szolgálatteljesítés engedélyezése esetén a 99. § (4) bekezdése szerinti időponttól az állomány tagja illetményre a rész-szolgálatteljesítési idő alapján arányosítva jogosult.
 
 (3) A tört havi illetményt – figyelemmel a 102. § (4) bekezdésére is – a tárgyhónap munkanapjainak száma alapján kell meghatározni.

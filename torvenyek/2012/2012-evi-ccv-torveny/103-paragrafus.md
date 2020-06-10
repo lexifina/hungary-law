@@ -10,7 +10,7 @@
 
 (5) A (4) bekezdéstől eltérően szolgálatteljesítési időkeret alkalmazása esetén a túlszolgálat időtartamát a munkáltatói jogkört gyakorló az időkeret lejártakor állapítja meg.
 
-(6) A túlszolgálat naptári évenként legfeljebb 300 óra lehet.
+(6) A túlszolgálat naptári évenként 400 óra lehet.
 
 (7) A (6) bekezdés szerinti mérték miniszteri rendeletben további 50%-kal növelhető, és arányosan csökken, ha a szolgálati viszony év közben kezdődött.
 

@@ -10,7 +10,7 @@
 
 a) a közkatona alapilletményét az 1. besorolási kategóriának megfelelő szorzószámmal,
 
-b) az f) pontban foglalt kivétellel a szerződéses pályakezdő alapilletményét a tervezett szolgálati beosztásának megfelelő szorzószámmal,
+b)
 
 c) a kezdő beosztást betöltő hadnagy vagy őrmester alapilletményét a viselt rendfokozatához tartozó besorolási kategóriának megfelelő szorzószámmal,
 
@@ -18,11 +18,11 @@ d) a miniszteri rendeletben meghatározott vezénylő zászlós beosztást betö
 
 e) az állomány 6. melléklet szerinti felsővezetői szolgálati beosztást betöltő tagjának alapilletményét a 6. melléklet szerinti szorzószámokkal, továbbá
 
-f) az alapilletményt az állomány speciális beosztást betöltő tagja esetében addig, amíg a viselt rendfokozata elmarad a beosztásához rendszeresített rendfokozattól, valamint azon szerződéses pályakezdő alapilletményét, akinek tervezett első rendfokozata alacsonyabb a tervezett beosztásához rendszeresített rendfokozatnál, a rendszeresített rendfokozatba való előléptetésig a beosztásban elérhető rendfokozatnál eggyel alacsonyabb rendfokozathoz tartozó besorolási kategóriának megfelelő szorzószámmal
+f) az alapilletményt az állomány speciális beosztást betöltő tagja esetében addig, amíg a viselt rendfokozata elmarad a beosztásához rendszeresített rendfokozattól,, a rendszeresített rendfokozatba való előléptetésig a beosztásban elérhető rendfokozatnál eggyel alacsonyabb rendfokozathoz tartozó besorolási kategóriának megfelelő szorzószámmal
 
 kell megállapítani.
 
-(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–s) és v) pontja, valamint – ha az állomány tagjának illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok irányadóak – b) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
+(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–o), q)–s) és v) pontja, valamint – ha az állomány tagjának illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok irányadóak – b) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
 
 a) a 46. § (1) bekezdés adott pontja alapján történő rendelkezési állományba helyezést megelőző napon érvényes
 
@@ -34,7 +34,13 @@ b) ha az a) pont aa) alpontja alapján nem állapítható meg a besorolás, vagy
 
 kell megállapítani.
 
-(6) Az állomány 46. § (1) bekezdés u) pontja alapján rendelkezési állományba tartozó tagja a rendelkezési állományba helyezését megelőző napon érvényes alapilletményére jogosult.
+(6) Kettős rendfokozattal rendszeresített szolgálati beosztásba kinevezéssel, áthelyezéssel, vagy a szolgálati beosztás ellátására történő megbízással egyidejűleg, a munkáltatói jogkört gyakorló dönt a besorolási kategóriáról. A besorolási kategória a szolgálati beosztás betöltésére alkalmas rendfokozatok közül nem lehet alacsonyabb, mint az állomány tagja által viselt rendfokozat, és nem haladhatja meg a rendszeresített rendfokozatot. E szolgálati beosztás betöltése alatt a munkáltatói jogkört gyakorló a besorolási kategóriát – legfeljebb rendszeresített rendfokozathoz tartozó besorolási kategóriáig – kizárólag az érintett javára változtathatja meg.
+
+(6a) Ha az állomány tagjának szolgálati beosztása átszervezés miatt megszűnt, és a részére felajánlott szolgálati beosztás rendszeresített rendfokozata alacsonyabb, mint az állomány tagja által viselt rendfokozat, a 43. § (3a) bekezdése szerinti áthelyezéskor és e szolgálati beosztás betöltésének időtartama alatt az állomány tagjának alapilletményét a viselt rendfokozat szerinti besorolási kategória alapján kell megállapítani.
+
+(6b) Az állomány 46. § (1) bekezdés p) és u) pontja szerinti rendelkezési állományba tartozó tagjának alapilletményét a rendelkezési állományba helyezését megelőző napon betöltött szolgálati beosztás vezetési szintjével azonos beosztotti besorolási osztály és a (6c) bekezdés szerinti besorolási kategória alapján kell megállapítani.
+
+(6c) A 46. § (1) bekezdés p) és u) pontja szerinti rendelkezési állományba áthelyezéssel egyidejűleg a munkáltatói jogkört gyakorló dönt a besorolási kategóriáról. A besorolási kategória a rendelkezési állományba helyezést megelőző napon betöltött szolgálati beosztás betöltésére alkalmas rendfokozatok közül nem lehet alacsonyabb, mint az állomány tagja által viselt rendfokozat, és nem haladhatja meg a rendszeresített rendfokozatot. A munkáltató a besorolási kategória megállapítása során nincs kötve a (6) bekezdés szerinti döntéséhez.
 
 (7) Az (1)–(4) bekezdést az állomány 46. § (1) bekezdés e) pontja szerinti rendelkezési állományba tartozó, vagy a nem Magyarországon települő honvédelmi szervezet vagy a Magyarországon települő honvédelmi szervezet külföldön működő szervezeti elemének szolgálati beosztásában tartós külföldi szolgálatot teljesítő tagja esetében azzal az eltéréssel kell alkalmazni, hogy ha a tartós külföldi szolgálatot megelőző napon alapilletményre
 
