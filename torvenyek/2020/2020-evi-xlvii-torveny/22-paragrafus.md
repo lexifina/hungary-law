@@ -1,0 +1,3 @@
+22. § A Hjt. 83. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Az állomány bírósági szervezethez, a bíróságok igazgatási feladatait ellátó szervezethez vagy az ügyészi szervezethez, illetve a központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti eleméhez vezényelt tagjának rendfokozati előmenetelére – az általa betöltött beosztáshoz rendszeresített rendfokozat eléréséig – a speciális beosztást betöltőkre vonatkozó rendfokozati várakozási időket kell alkalmazni. A rendfokozati előmenetel feltétele az éves fizikai állapotfelmérés és az éves kiképzési feladatok eredményes végrehajtása.”

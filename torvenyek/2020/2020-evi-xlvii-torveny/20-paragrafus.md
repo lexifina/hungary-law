@@ -1,0 +1,3 @@
+20. § A Hjt. 77. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha e törvény eltérően nem rendelkezik, az állomány tagja szolgálati beosztásban teljesít szolgálatot. A szolgálati beosztásokat, az azokhoz kapcsolódó előmeneteli rendet és a rendszeresített rendfokozatot jogszabály állapítja meg. Az általános előmeneteli rendbe tartozó, jogszabályban meghatározott szolgálati beosztásokat – ideértve a tiszti vagy az altiszti állománycsoport legalacsonyabb szintű, általános előmeneteli rendbe tartozó beosztásait (a továbbiakban: kezdő beosztás) is kettős rendfokozattal rendszeresített beosztásként kell rendszeresíteni.”

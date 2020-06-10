@@ -1,0 +1,3 @@
+54. § A Haj.tv. a következő 76/A. §-sal egészül ki:
+
+„76/A. § A honvédelmi alkalmazott a kimagasló teljesítményére, kiemelkedő feladatvégzésére, tartósan magas színvonalon kifejtett munkájára figyelemmel, vagy életútjának elismeréseként a miniszter által rendeletben meghatározott alapelvek figyelembevételével az erre a célra a személyi juttatások előirányzatán belül biztosított keret terhére teljesítményjuttatásban részesíthető.”
