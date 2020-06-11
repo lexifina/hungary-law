@@ -1,1 +1,1 @@
-10. § A Külszoltv. 58/C. § (2) bekezdésében a „131. § (2) bekezdése szerinti esetben” szövegrész helyébe a „131. § (1) bekezdés b) pontja szerinti esetben, vagy ha a kormánytisztviselőnek munkavégzési és rendelkezésre állási kötelezettsége alóli, a munkáltató által engedélyezett mentesülésére a minisztériummal jogviszonyban álló házas- vagy élettársa a)–c) pont szerinti tevékenysége miatt kerül sor,” szöveg lép.
+10. §

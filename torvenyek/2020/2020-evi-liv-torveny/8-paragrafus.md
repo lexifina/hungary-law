@@ -1,3 +1,1 @@
-8. § A Külszoltv. 20. alcíme a következő 58/F. §-sal egészül ki:
-
-„58/F. § E törvénynek a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosításáról szóló 2020. évi LIV. törvénnyel (a továbbiakban: Módtv4.) megállapított rendelkezéseit a Módtv4. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.”
+8. §
