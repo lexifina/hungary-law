@@ -1,4 +1,4 @@
-10. § (1) Hatályát veszti a Korm. rendelet.
+10. § (1)
 
 (2) Nem kell
 
