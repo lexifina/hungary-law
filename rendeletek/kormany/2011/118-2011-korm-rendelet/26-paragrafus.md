@@ -1,22 +1,22 @@
-26. § (1)[^62] A nukleáris biztonsági hatóság a nukleáris létesítmény életciklusának valamennyi szakaszára kiterjedően értékeli a vizsgálat alá vont nukleáris létesítményt és annak tevékenységét.
+26. § (1)[^67] A nukleáris biztonsági hatóság a nukleáris létesítmény életciklusának valamennyi szakaszára kiterjedően értékeli a vizsgálat alá vont nukleáris létesítményt és annak tevékenységét.
 
-(2)[^63] Nukleáris létesítmények hatósági értékelése kiterjed különösen:
+(2)[^68] Nukleáris létesítmények hatósági értékelése kiterjed különösen:
 
 a) az üzemeltetés biztonságával összefüggő üzemeltetési jellemzők alakulására;
 
 b) a vezetési, szervezeti és adminisztratív tényezők biztonságra gyakorolt hatására;
 
-c)[^64] az átalakítások hatásaira;
+c)[^69] az átalakítások hatásaira;
 
 d) az események és azok kivizsgálása során megszerzett tapasztalatok hasznosítására;
 
-e)[^65] a létesítést, üzembe helyezést és az üzemeltetést befolyásoló kérdésekre; valamint
+e)[^70] a létesítést, üzembe helyezést és az üzemeltetést befolyásoló kérdésekre; valamint
 
 f) a nukleáris biztonság szintjének növelésére irányuló tevékenység bemutatására.
 
 (3) Az értékelés során a nukleáris biztonsági hatóság a betartandó korlátozások, a kijelölt célok és a ténylegesen elért eredmények összevetését végzi előre meghatározott, mérhető célokból és kritériumokból álló mutatórendszer alapján, lehetővé téve trendek megjelenítését az értékelés szubjektivitásának csökkentése céljából.
 
-[^62]: A 26. § (1) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^63]: A 26. § (2) bekezdés nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^64]: A 26. § (2) bekezdés c) pontja a 357/2014. (XII. 29.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
-[^65]: A 26. § (2) bekezdés e) pontja a 70/2018. (IV. 9.) Korm. rendelet 2. § 12. pontja szerint módosított szöveg.
+[^67]: A 26. § (1) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^68]: A 26. § (2) bekezdés nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^69]: A 26. § (2) bekezdés c) pontja a 357/2014. (XII. 29.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
+[^70]: A 26. § (2) bekezdés e) pontja a 70/2018. (IV. 9.) Korm. rendelet 2. § 12. pontja szerint módosított szöveg.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-118-20-
 | 2018-01-01 | 2011-118-20-22.13 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-03-01 | 2011-118-20-22.14 | 28/2018. (II. 28.) Korm. rendelet |
 | 2018-04-10 | 2011-118-20-22.15 | 70/2018. (IV. 9.) Korm. rendelet |
+| 2020-06-11 | 2011-118-20-22.16 | 198/2020. (V. 12.) Korm. rendelet |
