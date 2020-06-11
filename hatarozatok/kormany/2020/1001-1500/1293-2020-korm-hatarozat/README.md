@@ -1,0 +1,9 @@
+# 1293/2020. (VI. 11.) Korm. határozat
+
+a Gazdaságvédelmi Akcióterv végrehajtásához kapcsolódó honvédelmi munkaerőpiaci helyzet fejlesztéséhez szükséges források biztosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1293-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-06-11 | 2020-1293-30-22.1 | 1293/2020. (VI. 11.) Korm. határozat |
