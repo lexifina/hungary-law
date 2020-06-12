@@ -1,4 +1,4 @@
-2. melléklet a 65/2019. (III. 27.) Korm. rendelethez
+2. melléklet a 65/2019. (III. 27.) Korm. rendelethez[^5]
 
 Nemzetgazdasági szempontból kiemelt jelentőségű, sportinfrastruktúra-fejlesztések megvalósításával összefüggő beruházások
 
@@ -11,3 +11,7 @@ Nemzetgazdasági szempontból kiemelt jelentőségű, sportinfrastruktúra-fejle
 | 3. | Szeged-Maty-ér Olimpiai Központ 2019. évi Gyorsasági Kajak-Kenu világbajnokság megrendezéséhez kapcsolódó beruházás | Szeged közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 02065/12, 02065/13, 02065/4 és 02065/12/A helyrajzi számú ingatlanok |
 
 | Domaszék közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 064/63, 064/65 és 068/2 helyrajzi számú ingatlanok |
+
+| 4. | Kőbányai multifunkcionális csarnok és uszoda megvalósítására irányuló beruházás | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38403/2 és 38403/4 helyrajzi számú ingatlanok |
+
+[^5]: A 2. melléklet a 269/2020. (VI. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
