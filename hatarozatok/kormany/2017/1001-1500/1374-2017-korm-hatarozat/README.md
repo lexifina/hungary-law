@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1374-30
 | 2018-12-06 | 2017-1374-30-22.6 | 1124/2018. (III. 19.) Korm. határozat |
 | 2019-03-01 | 2017-1374-30-22.7 | 1082/2019. (III. 1.) Korm. határozat |
 | 2019-12-23 | 2017-1374-30-22.8 | 1789/2019. (XII. 23.) Korm. határozat |
+| 2020-06-12 | 2017-1374-30-22.9 | 1082/2019. (III. 1.) Korm. határozat |
