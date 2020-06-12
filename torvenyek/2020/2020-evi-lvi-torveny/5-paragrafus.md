@@ -27,11 +27,3 @@
 (14) A Jegyzőkönyv 28. cikke szerinti feladatok végrehajtásáról a közigazgatás-szervezésért adópolitikáért, kereskedelemért, a bűncselekmények megelőzéséért, büntetés-végrehajtásért, határrendészetért, minősített adatok védelmének szakmai felügyeletéért, szabálysértési szabályozásért, az adópolitikáért és az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter gondoskodik.
 
 (15) A Jegyzőkönyv 32. cikke szerinti feladatok végrehajtásának összehangolásáról az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
