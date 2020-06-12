@@ -1,9 +1,3 @@
-## lép.
+## 3. §[^4]
 
-## 4. § Hatályát veszti az NBSZ Kr.
-
-a) 21/E. § (4) bekezdés a) pontjában a „ , de” szövegrész,
-
-b) 21/E. § (4) bekezdés b) pontja,
-
-c) 21/E. § (5) bekezdése.
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
