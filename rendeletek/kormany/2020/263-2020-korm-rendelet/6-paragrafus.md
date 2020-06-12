@@ -1,3 +1,3 @@
-6. §[^1]
+6. §[^3]
 
-[^1]: A 6. § az 5. § (2) bekezdése alapján 2020. június 21-én lép hatályba.
+[^3]: A 6. § az 5. § (2) bekezdése alapján 2020. június 21-én lép hatályba.
