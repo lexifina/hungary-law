@@ -66,3 +66,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1084-30
 | 2019-09-27 | 2016-1084-30-22.58 | 1717/2016. (XII. 5.) Korm. határozat |
 | 2019-10-25 | 2016-1084-30-22.59 | 1717/2016. (XII. 5.) Korm. határozat |
 | 2020-04-09 | 2016-1084-30-22.60 | 1905/2017. (XII. 6.) Korm. határozat |
+| 2020-06-12 | 2016-1084-30-22.61 | 1717/2016. (XII. 5.) Korm. határozat |
