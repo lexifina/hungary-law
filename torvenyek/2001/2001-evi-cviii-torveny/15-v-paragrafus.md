@@ -1,0 +1,1 @@
+15/V. § Az e törvényben foglalt, a társszabályozásra vonatkozó rendelkezések nem érintik, és nem korlátozzák a videómegosztóplatform-szolgáltatók azon jogát, hogy önszerveződéseik útján, e törvény keretei között önszabályozási kezdeményezéseket fogadjanak el és érvényesítsenek a tevékenységük körében. A Hivatal és a Hatóság e kezdeményezéseket támogatja és tiszteletben tartja.

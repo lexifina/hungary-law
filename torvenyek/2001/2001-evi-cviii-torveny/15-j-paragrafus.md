@@ -1,0 +1,9 @@
+15/J. § (1) A Hivatal a videómegosztóplatform-szolgáltatók szakmai önszabályozó szervezeteivel és alternatív vitarendező fórumaival (a továbbiakban együtt: önszabályozó szervezet) az önkéntes jogkövetés előmozdítása érdekében együttműködik.
+
+(2) A Hivatal az (1) bekezdés szerinti együttműködés keretében a jogszabályoknak megfelelően létrehozott és a jogszabályoknak megfelelően működő önszabályozó szervezettel együttműködési megállapodás tartalmú közigazgatási szerződést (a továbbiakban: közigazgatási szerződés) köthet a 15/K. § (2) bekezdésében meghatározott hatósági hatáskörébe tartozó ügyek önszabályozó szervezettel történő megosztott ellátása, illetve hatósági hatáskörként nem szabályozott, de e törvény szabályaival összhangban álló feladatok együttműködésben történő ellátása érdekében.
+
+(3) A Hivatal a közigazgatási szerződésben felhatalmazhatja az önszabályozó szervezetet, hogy nyilvántartott tagsága és a 15/M. §-ban meghatározott magatartási kódexet magukra kötelező érvénnyel elfogadó videómegosztóplatform-szolgáltatók (a továbbiakban együtt: a kódex hatálya alá tartozó vállalkozások) irányában a 15/K. § (2) bekezdésében meghatározott hatósági ügytípusok körében – a közigazgatási szerződésben kapott felhatalmazás terjedelmében – a konkrét hatósági hatáskörgyakorlást megelőzően önigazgatási feladatokat lásson el nem hatósági feladatként.
+
+(4) A (3) bekezdés szerinti felhatalmazás nem telepít az önszabályozó szervezetre hatósági, közhatalmi jogkört, hatósági hatáskört, illetve az önszabályozó szervezet e felhatalmazás keretében sem minősül közigazgatási hatóságnak, illetve a közigazgatási szervezetrendszer alanyának.
+
+(5) A közigazgatási szerződésben történő felhatalmazás nem érinti a Hivatalnak a videómegosztóplatform-szolgáltatásokkal összefüggésben e törvényben meghatározott hatásköreit, a Hivatal a hatósági ügyben e felhatalmazástól függetlenül eljárhat.

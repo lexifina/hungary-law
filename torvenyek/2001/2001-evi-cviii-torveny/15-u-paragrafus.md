@@ -1,0 +1,1 @@
+15/U. § Az önszabályozó szervezet a közigazgatási szerződés alapján végzett tevékenységéről, feladatairól rendszeresen, de legalább évente, az önszabályozási eljárásainak menetéről, tartalmáról, alanyairól, döntéseinek típusairól, tartalmáról, érvényesüléséről pedig legalább félévente írásban benyújtott beszámolót készít a Hivatal számára.

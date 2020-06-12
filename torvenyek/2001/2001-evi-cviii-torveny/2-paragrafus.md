@@ -40,22 +40,30 @@ lc) az igénybe vevő által biztosított információt tárolja (tárhelyszolg�
 
 ld) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás);
 
-le) alkalmazásszolgáltató.
+le) alkalmazásszolgáltató;
+
+lf) videómegosztóplatform-szolgáltató.
 
 m) Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi- vagy használat alapú ellenszolgáltatás fejében vagy ingyenes formában.
 
 n) Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
 
-o)
+o) Videómegosztóplatform-szolgáltatás: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 203. § 71a. pontjában meghatározott szolgáltatás;
 
-p)
+p) Videómegosztóplatform-szolgáltató: az Mttv. 203. § 71b. pontjában meghatározott szolgáltató;
 
-q)
+q) Felhasználó által létrehozott videó: az Mttv. 203. § 10a. pontjában meghatározott videó;
 
-r)
+r) Kereskedelmi közlemény: az Mttv. 203. § 20. pontjában meghatározott közlemény;
 
 s) Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
 
 t) Vállalkozás: a természetes személy, jogi személy, jogi személyiség nélküli szervezet – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is –, aki, illetve amely önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
 
-v) Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
+v) Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
+
+w) Anyavállalat: olyan vállalat, amely egy vagy több leányvállalat felett kontrollt gyakorol;
+
+x) Leányvállalat: olyan vállalat, amely felett egy anyavállalat – a legfelső szintű anyavállalat leányvállalatait is ideértve – kontrollt gyakorol;
+
+y) Vállalatcsoport: egy anyavállalat, annak minden leányvállalata, valamint minden további olyan vállalat, amely ezekkel gazdasági és jogi szervezeti kapcsolatban áll.

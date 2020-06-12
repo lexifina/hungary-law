@@ -1,0 +1,5 @@
+15/P. § (1) Az önszabályozó szervezet tagjai tekintetében a közigazgatási szerződés felhatalmazásának tárgyát képező hatósági ügyben saját – nem hatósági – feladataként jár el az e törvényben, illetve a közigazgatási szerződésben meghatározottak szerint. Ennek keretében eljárása megelőzi, illetve kiegészíti a Hivatal hatósági hatáskörgyakorlását (a továbbiakban: önszabályozási eljárás).
+
+(2) A közigazgatási szerződésben meghatározott hatósági feladatok tekintetében a Hivatal az önszabályozó szervezet tagjaival szemben csak abban az esetben járhat el, ha az önszabályozó szervezet vonatkozó eljárása megítélése szerint nem felel meg a jogszabályoknak vagy a felek közötti közigazgatási szerződés rendelkezéseinek.
+
+(3) Az önszabályozó szervezet felelőssége belső működésében olyan eljárási szabályozás kialakítása, elfogadása és érvényesítése tagjai irányában, amely biztosítja a videómegosztóplatform-szolgáltatásokkal összefüggő, e törvényben foglalt feladatok megfelelő és hatékony ellátását és az e törvény szerinti szabályok megfelelő érvényesülését.
