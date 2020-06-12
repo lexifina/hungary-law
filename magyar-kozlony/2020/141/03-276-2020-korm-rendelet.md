@@ -1,0 +1,86 @@
+# A Kormány 276/2020. (VI. 12.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 141. szám, 2020. június 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/I71Ap5CqAxLMVPkacpfi5edfc8ace0ef5/dokumentumok/99638f8bdeb06484de0a2202e2e50d7b057014be/letoltes)
+
+---
+
+A Kormány 276/2020. (VI. 12.) Korm. rendelete
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól
+szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet 5. számú melléklete helyébe az 1. melléklet lép.
+2. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 276/2020. (VI. 12.) Korm. rendelethez
+„5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez
+Millió forint
+Megnevezés
+2020. évi
+előirányzat
+Háziorvosi, háziorvosi ügyeleti ellátás
+Praxisfinanszírozás 121 492,0
+Indikátorrendszer finanszírozása 7 300,0
+Eseti ellátás díjazása 649,3
+Ügyeleti szolgálat 10 106,2
+1. Háziorvosi, háziorvosi ügyeleti ellátás összesen 139 547,5
+Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem
+Iskolaegészségügyi ellátás 2 317,1
+Védőnői ellátás 24 009,8
+Anya-, gyermek- és csecsemővédelem 483,4
+MSZSZ: gyermekgyógyászat 121,6
+MSZSZ: nőgyógyászat 96,3
+2. Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen 27 028,2
+3. Fogászati ellátás 42 494,1
+4. Otthoni szakápolás 5 596,8
+5. Betegszállítás és orvosi rendelvényű halottszállítás 9 796,9
+8. Művesekezelés 27 771,1
+11. Működési költségelőleg 2 000,0
+
+Célelőirányzatok
+Méltányossági alapon történő térítések
+Alapellátási vállalkozás támogatási átalánydíj
+Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi
+tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása
+Tervezett külföldi ellátások orvosi felülvizsgálata
+Egészségügyi dolgozók 2018–2020. évi béremelésének fedezete
+Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete
+Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése
+Fiatal szakorvosok támogatása
+Működési támogatás
+2020. évi egyszeri rendkívüli juttatás fedezete
+2 611,3
+55,0
+1 250,0
+20,0
+102 635,6
+3 830,1
+11 860,9
+326,3
+46 283,0
+94 342,0
+13. Célelőirányzatok összesen 263 214,2
+15. Mentés 43 343,5
+17. Laboratóriumi ellátás 23 938,7
+Összevont szakellátás
+Járóbeteg-szakellátás 179 438,1
+Molekuláris diagnosztikai (PCR) ellátás 3 501,4
+Fekvőbeteg-szakellátás 628 347,9
+aktív fekvőbeteg-szakellátás 534 288,1
+krónikus fekvőbeteg-szakellátás 87 484,8
+bázis finanszírozású szakellátás (BVOP) 1 575,0
+várólista csökkentés 5 000,0
+Extrafinanszírozás 1 000,0
+Nagyértékű gyógyszerfinanszírozás 105 309,8
+Speciális finanszírozású szakellátás 45 061,9
+18. Összevont szakellátás összesen 962 659,1
+19. Népegészségügy fejlesztése 2 717,5
+20. Alapellátás fejlesztése 400,7
+21. Gyógyító-megelőző ellátás céltartalék 5 000,0
+22. Finanszírozási rendszer átalakítása 17 764,0
+ÖSSZESEN 1 573 272,3
+”
