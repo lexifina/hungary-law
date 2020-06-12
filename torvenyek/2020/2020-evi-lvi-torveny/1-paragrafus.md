@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye dohánytermékek illegális kereskedelmének felszámolásáról szóló Jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
