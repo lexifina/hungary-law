@@ -1,4 +1,4 @@
-3. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^104]
+3. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^117]
 
 ## A közúti közlekedési szolgáltatást végző vállalkozás szakmai irányítójának képzésére és vizsgáztatására vonatkozó követelmények
 
@@ -72,7 +72,7 @@ f) vámismeretek (20 perc a felkészülési idővel együtt).
 
 a) jogi, államigazgatási, számviteli vagy pénzügyi szakirányú felsőfokú végzettség, vagy
 
-b)[^105] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
+b)[^118] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
 
 c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
@@ -142,10 +142,10 @@ e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek 
 
 a) jogi, államigazgatási, számviteli vagy pénzügyi szakirányú felsőfokú végzettség, vagy
 
-b)[^106] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
+b)[^119] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
 
 c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
-[^104]: A 3. melléklet a 280/2013. (VII. 24.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^105]: A 3. melléklet 1. pont 1.5. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
-[^106]: A 3. melléklet 2. pont 2.6. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^117]: A 3. melléklet a 280/2013. (VII. 24.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^118]: A 3. melléklet 1. pont 1.5. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^119]: A 3. melléklet 2. pont 2.6. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
