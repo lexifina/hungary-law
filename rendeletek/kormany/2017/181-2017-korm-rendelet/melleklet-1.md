@@ -1,4 +1,4 @@
-## 18. §[^7]
+## 18. §[^8]
 
 1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
 
@@ -158,4 +158,4 @@ GAZ (Gáz-benzin kettős üzemű járművek vizsgálata)
 
 * (Kivéve az első minősítő vizsgálat)
 
-[^7]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

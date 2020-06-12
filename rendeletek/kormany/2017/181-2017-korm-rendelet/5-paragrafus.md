@@ -1,4 +1,4 @@
-## 5. §[^4] A kérelem tartalmazza:
+## 5. §[^5] A kérelem tartalmazza:
 
 a) a kérelmező szervezetnél rendelkezésre álló technikai eszközökre és az alkalmazni kívánt műszaki vizsgabiztosokra vonatkozó adatokat a 2. melléklet szerint,
 
@@ -10,4 +10,4 @@ d) annak igazolását, hogy a kérelmező szervezet rendelkezik akkreditált st�
 
 e) a kérelmező szervezet által írásban meghatározott műszaki vizsgálattal kapcsolatos ügyviteli eljárást, amely tartalmazza az ügyfélpanasz kezelését, továbbá a jótállási igény rendezésének leírását is.
 
-[^4]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 609. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 609. § (2) bekezdésével megállapított szöveg.
