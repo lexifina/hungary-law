@@ -90,7 +90,9 @@
 
 | 43. | Telephely bővítésére és fejlesztésére irányuló beruházás Foktő külterületén | Foktő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 07/2 helyrajzi számú ingatlan. | Bács-Kiskun megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^86]
+| 44. | Gyártóüzem építésére irányuló beruházás Sóskút külterületén | Sóskút közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti külterület 067/4 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^88]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -270,4 +272,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^86]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^88]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
