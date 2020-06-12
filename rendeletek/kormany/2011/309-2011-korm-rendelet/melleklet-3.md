@@ -206,4 +206,7 @@
 
 102. Álláshely Nyilvántartó Rendszer (ÁNYR)
 
+103.[^36] Nemzeti Határforgalom Ellenőrző és Regisztrációs Rendszer (NHERR)
+
 [^35]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^36]: A 3. melléklet 103. sorát a 260/2020. (VI. 4.) Korm. rendelet 1. §-a iktatta be.
