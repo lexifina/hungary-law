@@ -1,4 +1,4 @@
-## 112/C. §[^237] A versenyjárműnek – a gépkönyvében meghatározott versenyzési célú műszaki jellemzői tekintetében – nem kell megfelelnie az e rendeletben meghatározott további műszaki feltételeknek.
+## 112/C. §[^238] A versenyjárműnek – a gépkönyvében meghatározott versenyzési célú műszaki jellemzői tekintetében – nem kell megfelelnie az e rendeletben meghatározott további műszaki feltételeknek.
 
 ## Csoportos személyszállításra használt tehergépkocsikra vonatkozó üzemeltetési műszaki feltételek
 
@@ -14,4 +14,4 @@ d) olyan könnyen kezelhető jelzőkészülékkel, amely a szállított személy
 
 e) az e rendeletben az utóbuszra előírt mentődobozzal.
 
-[^237]: A 112/C. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
+[^238]: A 112/C. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.

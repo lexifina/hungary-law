@@ -296,7 +296,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## 9K06457P_1
+## 0X03325M_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -514,19 +514,23 @@
 
 ## 2. A 167/2013/EU rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
-| MR | EU | Műszaki terület | A | B(1) |
+## 2. A 167/2013/EU rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
-| függelék/ melléklet (műszaki terület) sorszáma | a bizottsági rendelet száma | Alkalmazási kötelezettség |
+|  | A | B | C | D | E |
 
-| típus- jóváhagyási eljárásban | egyedi eljárásban |
+| 1. | MR | EU | Műszaki terület | A | B(1) |
 
-| C/1. | 1322/2014 | Járműszerkezeti és általános követelmények | + | – |
+| 2. | Alkalmazási kötelezettség |
 
-| C/2. | 2015/68 | Fékezési követelmények | + | – |
+| 3. | függelék/melléklet (műszaki terület) sorszáma | a bizottsági rendelet száma | típusjóváhagyási eljárásban | egyedi eljárásban |
 
-| C/3. | 2015/96 | Környezetvédelemre és a motor teljesítményére vonatkozó követelmények | + | – |
+| 4. | C/1. | 1322/2014 | Járműszerkezeti és általános követelmények | + | – |
 
-| C/4. | 2015/208 | Funkcionális járműbiztonsági követelmények | + | – |
+| 5. | C/2. | 2015/68 | Fékezési követelmények | + | – |
+
+| 6. | C/3. | 2018/985 | Környezetvédelemre és a motor teljesítményére vonatkozó követelmények | + | – |
+
+| 7. | C/4. | 2015/208 | Funkcionális járműbiztonsági követelmények | + | – |
 
 ## Megjegyzés
 
@@ -626,19 +630,15 @@
 
 ## (1) A X. melléklet szerinti jóváhagyás megléte esetén a jármű fékezési szempontból megfelel, további vizsgálat nem szükséges.
 
-## 3.3. A 2015/96/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+## 3.3. Az (EU) 2018/985 felhatalmazáson alapuló bizottsági rendelet szerinti kötelezettségek:
 
-| 2015/96/EU rendelet mellékletének száma | 2015/96/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+|  | A | B | C |
 
-| I. | Mezőgazdasági és erdészeti járművek motortípusának, vagy motorcsaládjának önálló mű szaki egységként a szennyezőanyag-kibocsátás tekintetében történő uniós típusjóváhagyására vonatkozó követelmények | K |
+| 1. | (EU) 2018/985 rendelet mellékletének száma | (EU) 2018/985 rendelet mellékletének címe | Alkalmazási kötelezettség |
 
-| II. | Adott motortípussal vagy motorcsaláddal rendelkező mezőgazdasági és erdészeti járművek szennyezőanyag-kibocsátás tekintetében történő uniós típusjóváhagyására vonatkozó követelmények | K |
+| 2. | I. | A szennyező anyag-kibocsátás tekintetében történő EU-típusjóváhagyás követelményei | K |
 
-| III. | Külső zajszintre vonatkozó követelmények | K |
-
-| IV. | Alternatív típusjóváhagyások elismerése | K |
-
-| V. | A 14. cikkben megállapított rugalmas végrehajtási eljárás keretében forgalomba hozott mezőgazdasági és erdészeti járművekre és motorokra vonatkozó rendelkezések | K |
+| 3. | II. | A külső zajkibocsátásra vonatkozó követelmények | K |
 
 ## 3.4. A 2015/208/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
 
@@ -740,7 +740,7 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^372]
+1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^373]
 
 A gépjármű és pótkocsija közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészeinek és tartozékainak minősítési követelményei
 
@@ -768,4 +768,4 @@ tekintetében meghatározott minősítési követelményeknek.
 
 7. Az e melléklet szerinti minősítési követelmények vizsgálatát a jogszabályban meghatározott vagy egyéb vonatkozó kötelező előírás – így különösen ENSZ-EGB előírás – szerint kell elvégezni. Kötelező előírás hiányában a vizsgálatot a vonatkozó szabvány betartásával vagy attól részben vagy teljesen eltérő módon kell elvégezni, ha a vizsgálat egyenértékűségét a kérelmező igazolja. Az előzőek hiányában összehasonlító vizsgálatot kell végezni a gépjármű és pótkocsija gyártása (gyári szerelése) során beépített alkatrész és a pótalkatrész között, azzal, hogy a működésmód és paraméterek vizsgálatánál a helyes működést tanúsító jellemző adatokat ilyen esetben műszeres próbapadi vagy üzemi összehasonlító vizsgálattal kell ellenőrizni.
 
-[^372]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
+[^373]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
