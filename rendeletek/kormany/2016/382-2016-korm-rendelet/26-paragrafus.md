@@ -30,7 +30,7 @@ g) a Közösségben a légi járatok működtetésére vonatkozó közös szabá
 
 h) a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légialkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról szóló, 2010. február 5-i 127/2010/EU bizottsági rendelet,
 
-i) a könnyű haszongépjárművek szén-dioxid-kibocsátásának csökkentésére irányuló közösségi integrált megközelítés keretében az új személygépkocsikra vonatkozó kibocsátási követelmények meghatározásáról szóló, 2009. április 23-i 443/2009/EK európai parlamenti és tanácsi rendelet,
+i)[^101] az új személygépkocsikra és az új könnyű haszongépjárművekre vonatkozó szén-dioxid-kibocsátási előírások meghatározásáról, valamint a 443/2009/EK és az 510/2011/EU rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/631 európai parlamenti és tanácsi rendelet,
 
 j) az új személygépkocsik nyilvántartásba vett adatainak a 443/2009/EK európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről szóló, 2010. november 10-i 1014/2010/EU bizottsági rendelet és az 1014/2010/EU rendeletnek a személygépkocsigyártók által észlelt hibákra vonatkozó értesítések egységes formátumának megállapítása céljából történő módosításáról szóló, 2012. május 22-i 429/2012/EU bizottsági végrehajtási rendelet,
 
@@ -54,7 +54,7 @@ s) a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsí
 
 t) a polgári légi közlekedéshez kapcsolódó műszaki követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő rögzítéséről szóló, 2011. november 3-i 1178/2011/EU bizottsági rendelet,
 
-u)[^101] a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet,
+u)[^102] a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet,
 
 v) az új könnyű haszongépjárművek nyilvántartásba vett adatainak az 510/2011/EU európai parlamenti és tanácsi rendelet szerinti ellenőrzéséről és bejelentéséről szóló, 2012. április 3-i 293/2012/EU bizottsági végrehajtási rendelet,
 
@@ -118,7 +118,7 @@ e) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 f) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelvnek,
 
-g)[^102] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
+g)[^103] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
 
 h) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelvnek,
 
@@ -128,7 +128,7 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-l)[^103] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
+l)[^104] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
 
 [^95]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
 [^96]: A hatálybalépés időpontja 2017. július 1.
@@ -136,6 +136,7 @@ l)[^103] az Unió területén közlekedő haszonjárművek közlekedésre való 
 [^98]: A 26. § (1) bekezdés c) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (1) bekezdése iktatta be.
 [^99]: A 26. § (1) bekezdés d) pontját a 128/2019. (V. 30.) Korm. rendelet 6. §-a iktatta be.
 [^100]: A 26. § (2) bekezdés d) pontja a 348/2019. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^101]: A 26. § (2) bekezdés u) pontja a 170/2019. (VII. 12.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
-[^102]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^103]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^101]: A 26. § (2) bekezdés i) pontja a 245/2020. (V. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^102]: A 26. § (2) bekezdés u) pontja a 170/2019. (VII. 12.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^103]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^104]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
