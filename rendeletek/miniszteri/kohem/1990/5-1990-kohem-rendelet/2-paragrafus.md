@@ -186,7 +186,7 @@ g) „mobil ellenőrzési egység”: a részletes közúti műszaki ellenőrzé
 
 h) „műszaki vizsgálat”: a 2014/45/EU európai parlamenti és tanácsi rendelet 3. cikk 9. pontja szerinti vizsgálat,
 
-i) „műszaki vizsgálati bizonyítvány”: az illetékes hatóság vagy egy műszaki vizsgálóállomás által kiállított bizonyítvány, amely tartalmazza a műszaki vizsgálat eredményét,
+i)[^50]
 
 j) „tagállami nyilvántartásba vett gépjármű”: egy tagállamban nyilvántartásba vett vagy forgalomba helyezett gépjármű,
 
@@ -243,3 +243,4 @@ n) „összehangolt közúti műszaki ellenőrzés”: két vagy több tagállam
 [^47]: A 2. § (13) bekezdését a 14/2009. (III. 31.) KHEM rendelet 1. § (2) bekezdése iktatta be.
 [^48]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.
 [^49]: A 2. § (15) bekezdését a 2/2018. (II. 5.) NFM rendelet 2. § (2) bekezdése iktatta be.
+[^50]: A 2. § (15) bekezdés i) pontját a 15/2020. (VI. 4.) ITM rendelet 7. § a) pontja szerint módosított szöveg.

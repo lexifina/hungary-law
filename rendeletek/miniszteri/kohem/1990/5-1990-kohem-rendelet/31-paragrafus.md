@@ -98,7 +98,7 @@ való megfelelést szolgálja.
 
 39.[^387] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó fékezési követelmények tekintetében történő kiegészítéséről szóló, 2014. október 15-i 2015/68 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
-40.[^388] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek környezeti teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről szóló, 2014. október 1-i 2015/96 bizottsági (EU) felhatalmazáson alapuló rendelet;
+40.[^388] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek és motorjaik környezeti teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről és az (EU) 2015/96 felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2018. február 12-i (EU) 2018/985 felhatalmazáson alapuló bizottsági rendelet,
 
 41.[^389] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
@@ -122,7 +122,13 @@ való megfelelést szolgálja.
 
 51.[^399] a 2007/46/EK európai parlamenti és tanácsi irányelvnek, a 692/2008/EK bizottsági rendeletnek és az (EU) 2017/1151 bizottsági rendeletnek a könnyű személy- és haszongépjárművek kibocsátás tekintetében történő típusjóváhagyása céljából alkalmazott vizsgálatok és eljárások, ezen belül a használatban lévő járművek megfelelőségére és a valós vezetési feltételek melletti kibocsátásokra vonatkozó vizsgálatok és eljárások továbbfejlesztése, valamint a tüzelőanyag- és elektromosenergia-fogyasztás nyomon követésére szolgáló berendezések bevezetése érdekében történő módosításáról szóló, 2018. november 5-i (EU) 2018/1832 bizottsági rendelet,
 
-51.[^400] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet
+52.[^400] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet,
+
+53.[^401] az (EU) 2017/2400 rendeletnek és a 2007/46/EK európai parlamenti és tanácsi irányelvnek a nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának meghatározása tekintetében történő módosításáról szóló, 2019. február 19-i (EU) 2019/318 bizottsági rendelet,
+
+54.[^402] a 661/2009/EK európai parlamenti és tanácsi rendelet IV. mellékletének, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv I., III. és IV. mellékletének az Egyesült Nemzetek Európai Gazdasági Bizottságának gépjárművek típusjóváhagyásáról szóló bizonyos előírásaira való hivatkozások aktualizálása és bizonyos előírások felvétele tekintetében történő módosításáról szóló, 2019. április 3-i (EU) 2019/543 bizottsági rendelet, valamint
+
+55.[^403] az új személygépkocsikra és az új könnyű haszongépjárművekre vonatkozó szén-dioxid-kibocsátási előírások meghatározásáról, valamint a 443/2009/EK és az 510/2011/EU rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/631 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -172,7 +178,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^385]: A 31. § (2) bekezdés 37. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
 [^386]: A 31. § (2) bekezdés 38. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
 [^387]: A 31. § (2) bekezdés 39. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
-[^388]: A 31. § (2) bekezdés 40. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
+[^388]: A 31. § (2) bekezdés 40. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be, szövege a 15/2020. (VI. 4.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^389]: A 31. § (2) bekezdés 41. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
 [^390]: A 31. § (2) bekezdés 42. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
 [^391]: A 31. § (2) bekezdés 43. pontját az 58/2016. (XII. 23.) NFM rendelet 1. §-a iktatta be.
@@ -184,4 +190,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^397]: A 31. § (2) bekezdés 49. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^398]: A 31. § (2) bekezdés 50. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^399]: A 31. § (2) bekezdés 51. pontját a 15/2019. (VI. 18.) ITM rendelet 1. §-a iktatta be.
-[^400]: A 31. § (2) bekezdés második 51. pontját a 36/2019. (IX. 20.) ITM rendelet 1. §-a iktatta be.
+[^400]: A 31. § (2) bekezdés második 51. pontját a 36/2019. (IX. 20.) ITM rendelet 1. §-a iktatta be. A 31. § (2) bekezdés 51. pontjának megjelölését 52. pontra változtatta és szövegét megállapította a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése.
+[^401]: A 31. § (2) bekezdés 53. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
+[^402]: A 31. § (2) bekezdés 54. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
+[^403]: A 31. § (2) bekezdés 55. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.

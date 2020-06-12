@@ -1,5 +1,3 @@
-## amennyiben azok az MR. 15. számú mellékletének tartalmával összhangban állnak és a vizsgált járműre vonatkoztathatók.
-
 ## Közúti ellenőrzés
 
 14. §[^202] (1)[^203] A járművek (ideértve a külföldi hatósági jelzéssel közlekedő járműveket is) műszaki, közlekedésbiztonsági és környezetvédelmi állapotát, valamint a közúti forgalomban való részvételükhöz kapcsolódó előírások megtartását a közlekedési hatóság a közúti forgalomban közúti ellenőrzés keretében ellenőrzi.

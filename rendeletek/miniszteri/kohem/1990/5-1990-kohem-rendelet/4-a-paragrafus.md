@@ -1,19 +1,13 @@
-4/A. §[^71] (1)[^72]
+4/A. §[^72] (1) A közlekedési hatóság minden naptári évre vonatkozóan – a járműgyártóktól vagy az általuk kijelölt importőröktől kapott adatszolgáltatás alapján – nyilvántartást vezet az illetékességi területén nyilvántartásba vett új személygépkocsi és új könnyű haszongépjármű adatairól az új személygépkocsikra és az új könnyű haszongépjárművekre vonatkozó szén-dioxid-kibocsátási előírások meghatározásáról, valamint a 443/2009/EK és az 510/2011/EU rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/631 európai parlamenti és tanácsi rendelet 7. cikkében foglaltak szerint. A járműgyártó vagy az általuk kijelölt importőr minden naptári hónapot követő 15. napig megküldi a közlekedési hatóság részére a naptári hónapban nyilvántartásba vett új személygépkocsi és új könnyű haszongépjármű adatait.
 
-(2)[^73] Az M1, valamint az N1 kategóriába tartozó gépkocsitípushoz kiadott típusbizonyítvány és az új gépkocsi forgalomba helyezési engedély alapján forgalomba helyezendő gépkocsikra vonatkozóan a 443/2009/EK európai parlamenti és tanácsi rendeletben, valamint az azt módosító 397/2013/EK bizottsági rendeletben, a 333/2014/EU európai parlamenti és tanácsi rendeletben, az 510/2011/EU európai parlamenti és tanácsi rendeletben, és az azt módosító 253/2014/EU európai parlamenti és tanácsi rendeletben, valamint a 404/2014/EU felhatalmazáson alapuló bizottsági rendeletben, az 1014/2010/EU bizottsági rendeletben és az azt módosító 396/2013/EK bizottsági végrehajtási rendeletben meghatározott módon történő CO2-kibocsátási adatgyűjtésről, valamint a 293/2012/EU és az azt módosító 410/2014/EU bizottsági végrehajtási rendeletben, valamint a 429/2012/EU bizottsági végrehajtási rendeletben meghatározott adatgyűjtésről, az adatok karbantartásáról, ellenőrzéséről, hitelesítéséről, valamint az adatoknak e rendeletekben meghatározott határidőig történő továbbításáról
+(2) Az (1) bekezdéshez kapcsolódóan a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és -karbantartási információk elérhetőségéről szóló, 2007. június 20-i 715/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 715/2007/EK rendelet) szerinti típusjóváhagyással nem rendelkező személygépkocsiknak a fajlagos szén-dioxid-kibocsátását a megfelelőségi nyilatkozatban rögzíteni kell.
 
-a) az általános forgalomba helyezési engedély alapján történő forgalomba helyezés esetében a gyártó, illetve képviselője által kiadott Megfelelőségi nyilatkozatok adatai alapján,
+(3) A közlekedési hatóság az (1) bekezdés szerint összegyűjtött adatokat – a megelőző évre vonatkozóan – minden év február 28-ig megküldi az Európai Bizottság (a továbbiakban: Bizottság) részére.
 
-b) a sorozat- és egyedi forgalomba helyezési engedéllyel történő forgalomba helyezés esetében az engedély adatai alapján
+(4) A közlekedési hatóságnak a Bizottság erre vonatkozó külön kérésére is át kell adnia az (1) bekezdés szerint összegyűjtött adatokat.
 
-## a közlekedési hatóság gondoskodik.
+(5) A közlekedési hatóság haladéktalanul értesíti a Bizottságot, ha az üzemelő járművek szén-dioxid-kibocsátása meghaladja a megfelelőségi nyilatkozatban feltüntetett fajlagos szén-dioxid-kibocsátási értéket.
 
-(3)–(4)[^74]
+(6) A közlekedési hatóság adatokat gyűjt és jelentést készít a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkatrészeinek és önálló műszaki egységeinek jóváhagyásáról szóló, 2007. szeptember 5-i 2007/46/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2007/46/EK irányelv) II. mellékletében meghatározott, 2610 kg referenciatömeget meg nem haladó, M2 és N2 kategóriájú járművek nyilvántartásba vételére, továbbá azon járművekre vonatkozóan, amelyekre a típusjóváhagyást a 715/2007/EK rendelet 2. cikk (2) bekezdése szerint kiterjesztették.
 
-(5)[^75] A közlekedési hatóság a forgalomba helyezett új személygépkocsik és könnyű haszonjárművek (2) bekezdésben meghatározott összesített adatairól, valamint a 293/2012/EU bizottsági rendelet 1. cikkében meghatározott, nyilvántartásba vett gépjárművek számáról értesíti az Európai Bizottságot.
-
-[^71]: Az új 4/A. §-t a 39/2002. (XII. 28.) GKM rendelet 2. §-a iktatta be, egyidejűleg az eredeti 4/A. § számozását 4/B. §-ra változtatva; e módosító rendelet 13. § (3) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^72]: A 4/A. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § b) pontja hatályon kívül helyezte.
-[^73]: A 4/A. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 1. §-ával megállapított szöveg.
-[^74]: A 4/A. § (3)–(4) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^75]: A 4/A. § (5) bekezdése a 30/2014. (VI. 27.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^72]: Az új 4/A. §-t a 39/2002. (XII. 28.) GKM rendelet 2. §-a iktatta be, egyidejűleg az eredeti 4/A. § számozását 4/B. §-ra változtatva. A 4/A. § a 15/2020. (VI. 4.) ITM rendelet 2. §-ával megállapított szöveg.
