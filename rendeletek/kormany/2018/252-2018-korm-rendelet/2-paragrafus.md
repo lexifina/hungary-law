@@ -4,7 +4,7 @@
 
 (2) A miniszter az (1) bekezdés szerinti szolgáltatás keretében
 
-a) a 3. § a) pontjában szereplő szervezet útján – a Kormányzati Adatközpontban – központi alapinfrastruktúrát és annak a helyi érdekű fejlesztések általi elérése érdekében adatátviteli hálózatot működtet,
+a)[^1] a 3. § c) pontjában szereplő szervezet útján – a Kormányzati Adatközpontban – központi alapinfrastruktúrát és annak a helyi érdekű fejlesztések általi elérése érdekében adatátviteli hálózatot működtet,
 
 b) a központi szolgáltatók útján az 1. melléklet szerinti központosított közszolgáltatásokat nyújtja,
 
@@ -23,3 +23,5 @@ d) a szolgáltatásokkal kapcsolatos kommunikációs feladatokat.
 (4) Az 1. melléklet szerinti központosított közszolgáltatások részletes tartalmát az annak nyújtásával megbízott központi szolgáltatók honlapjukon, az 1. melléklet szerinti központi közszolgáltatások és a 2. melléklet szerinti helyi érdekű fejlesztések részletes tartalmát a helyi önkormányzatokért felelős miniszter az általa működtetett helyi közszolgáltatás információs rendszerben (IKIR) elektronikusan elérhetővé és nyilvánossá teszi.
 
 (5) Az okos város központi platformszolgáltatás keretében nyújtott központosított közszolgáltatások igénybevételével összefüggésben felmerülő ügyféltámogatói feladatokat, valamint a felmerülő alkalmazásüzemeltetési és rendszertámogatási feladatokat – ideértve a központosított közszolgáltatás nyújtásával összefüggésben a központi szolgáltató oldalán felmerülő adatfeldolgozói feladatokat is – a központi szolgáltatók látják el az 1. mellékletben meghatározottak szerint.
+
+[^1]: A 2. § (2) bekezdés a) pontja a 260/2020. (VI. 4.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
