@@ -34,7 +34,7 @@ n) az Innovációs Pénzügyi Tesztkörnyezetben való részvétel engedélyezé
 
 o) az a)–n) pontban nem nevesített minden olyan egyéb ügy, melyben a Magyar Nemzeti Bank Szervezeti és Működési Szabályzata (a továbbiakban: SZMSZ) szerint illetékes szervezeti egység irányításáért felelős alelnök, ügyvezető igazgató írásbeli kezdeményezése alapján a PST a döntés meghozatalát magához vonja.
 
-(2) A monetáris politikáért, pénzügyi stabilitásért és hitelösztönzésért felelős alelnök hoz döntést – az (1), (3) és (4) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+(2)[^1] A monetáris politikáért és pénzügyi stabilitásért felelős alelnök hoz döntést – az (1), (3) és (4) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
 a) a felügyelt szervezet MNB rendelettel elrendelt statisztikai adatszolgáltatási kötelezettsége teljesítésének ellenőrzése során, az irányítása alatt álló szervezeti egység által kezdeményezett bírság alkalmazása, ide nem értve az eljárási bírság kiszabását,
 
@@ -86,7 +86,7 @@ h) belső tőkemegfelelés értékelési folyamat felülvizsgálata keretében m
 
 i) az (1) bekezdés e)–i) pontja alapján a PST döntési jogkörébe nem tartozó valamennyi határozat.
 
-(4) A nemzetközi kapcsolatokért, készpénzlogisztikáért, pénzügyi infrastruktúrákért és digitalizációért felelős alelnök hoz döntést – az (1)–(3) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+(4)[^2] A nemzetközi kapcsolatokért, készpénzlogisztikáért, pénzügyi infrastruktúrákért, digitalizációért és hitelösztönzésért felelős alelnök hoz döntést – az (1)–(3) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
 a) a pénzforgalmi, a pénzfeldolgozási és a készpénzforgalmazási tevékenység, a felügyelt szervezet MNB rendelettel elrendelt statisztikai adatszolgáltatási kötelezettsége, valamint a c) pont szerint elrendelt adatszolgáltatási kötelezettség teljesítésének ellenőrzése során, az irányítása alatt álló szervezeti egység által kezdeményezett intézkedés, kivételes intézkedés és bírság alkalmazása, ide nem értve az eljárási bírság kiszabását,
 
@@ -100,7 +100,7 @@ a) az irányítása alá tartozó szervezeti egység által felügyelt intézmé
 
 b) az irányítása alá tartozó szervezeti egység által felügyelt pénzpiaci szervezet felügyeletének keretében hozott fogyasztóvédelmi tárgyú, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat,
 
-c) a pénzmosás és terrorizmus finanszírozásának megelőzése és megakadályozása tárgyában folytatott, cél-, téma-, rendkívüli cél- és utóvizsgálatban, valamint folyamatos felügyelés gyakorlása keretében hozott döntés.
+c)[^3] a pénzmosás és terrorizmus finanszírozásának megelőzése és megakadályozása tárgyában folytatott, cél-, téma-, rendkívüli cél- és utóvizsgálatban, valamint folyamatos felügyelés gyakorlása keretében hozott döntés, kivéve a (17) bekezdésben foglalt végzést.
 
 (6) A tőkepiacok és biztosítók prudenciális, fogyasztóvédelmi felügyeletéért és piacfelügyeletért felelős ügyvezető igazgató hoz döntést – az (1) és (3) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
@@ -114,7 +114,7 @@ d) az irányítása alá tartozó szervezeti egység által felügyelt tőkepiac
 
 e) a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet 17. cikke alapján hozott döntés,
 
-f) az irányítása alá tartozó szervezeti egység által kezdeményezett – ezen szervezeti egység feladatellátáshoz szükséges –, a felügyelt szervezet részére rendszeres és rendkívüli adatszolgáltatást előíró határozat,
+f)[^4] az irányítása alá tartozó szervezeti egység által kezdeményezett – ezen szervezeti egység feladatellátáshoz szükséges –, a felügyelt szervezet részére rendszeres és rendkívüli adatszolgáltatást előíró határozat, kivéve az egyidejűleg, azonos adatartalommal, több felügyelt szervezet számára rendkívüli adatszolgáltatást elrendelő határozatot,
 
 g) az irányítása alá tartozó szervezeti egység által folytatott hatósági eljárásban hozott, 2 000 000 Ft-ot meghaladó összegű eljárási bírságot tartalmazó döntés,
 
@@ -327,3 +327,8 @@ a) a PST érintettsége esetén a PST,
 b) – különböző vezetési szinten álló, vezetői hatáskörrel rendelkező személyek érintettsége esetén – az SZMSZ szerint a magasabb vezetési szinten álló személy,
 
 c) – azonos vezetési szinten álló, vezetői hatáskörrel rendelkező személyek érintettsége esetén, illetve amennyiben a b) pont alapján nem határozható meg a döntéshozatalra jogosult személy – a felügyelt szervezet felügyeletéért SZMSZ szerint felelős szervezeti egység tekintetében vezetői hatáskörrel rendelkező személy.
+
+[^1]: A 2. § (2) bekezdés nyitó szövegrésze a 16/2020. (VI. 11.) MNB rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdés nyitó szövegrésze a 16/2020. (VI. 11.) MNB rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (5) bekezdés c) pontja a 16/2020. (VI. 11.) MNB rendelet 1. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (6) bekezdés f) pontja a 16/2020. (VI. 11.) MNB rendelet 1. § d) pontja szerint módosított szöveg.
