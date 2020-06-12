@@ -1,0 +1,3 @@
+## 1. § A sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2019. (III. 27.) Korm. rendelet (a továbbiakban: Rendelet) a következő 4/A. §-sal egészül ki:
+
+## „4/A. § A 2. mellékletben foglalt táblázat 4. sora szerinti beruházással összefüggésben az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 16. §-ában foglalt rendelkezéseket, valamint a budapesti fejlesztések előkészítésével, megvalósításával és a kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos egyes feladatok ellátásáról szóló 175/2019. (VII. 16.) Korm. rendelet rendelkezéseit nem kell alkalmazni.”
