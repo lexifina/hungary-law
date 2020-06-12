@@ -18,7 +18,9 @@ bc)[^34] a „D” kategóriánál 24. életév.
 
 A nemzeti kategóriára érvényesített vezetői engedély csak belföldön történő járművezetésre jogosít.
 
-(4)[^35] A vezetői engedély a személyazonosság igazolására a vezetői engedély érvényességi időpontjáig, a 65. életévüket betöltöttek esetében a vezetői engedély érvényességi idejének lejártát követően is alkalmas.
+(3a)[^35] A 2. mellékletben a „B” kategória meghatározásától eltérően, belföldön a 3500 kg-ot meghaladó, de 4250 kg-ot meg nem haladó megengedett legnagyobb össztömegű, pótkocsi nélküli olyan jármű is vezethető, amely az Országos Mentőszolgálat sürgősségi betegellátást végző mentőjárműve.
+
+(4)[^36] A vezetői engedély a személyazonosság igazolására a vezetői engedély érvényességi időpontjáig, a 65. életévüket betöltöttek esetében a vezetői engedély érvényességi idejének lejártát követően is alkalmas.
 
 (5) A vezetői engedély vezetési jogosultság igazolására a következő határidőig alkalmas:
 
@@ -34,4 +36,5 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 [^32]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^33]: Az 5. § (3) bekezdés b) pont bb) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^34]: Az 5. § (3) bekezdés b) pont bc) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
-[^35]: Az 5. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^35]: Az 5. § (3a) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^36]: Az 5. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
