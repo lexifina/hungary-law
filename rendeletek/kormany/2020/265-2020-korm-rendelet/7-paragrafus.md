@@ -1,3 +1,3 @@
-## 6. § Az R2. 84. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „(3) A törzskönyvet csak a tulajdonosnak, illetve arra feljogosított meghatalmazottnak, valamint a magyar állam tulajdona esetén, ha a vagyonszerzés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) vagy (9) bekezdése alapján történt, a vagyonkezelő részére lehet kiadni.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
