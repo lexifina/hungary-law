@@ -1,0 +1,1 @@
+## „(4a) A jogosultságot megalapozza, ha annak – (1) és (2) bekezdés szerinti – feltétele a kölcsönkérelem és a gyermekvállalási támogatás iránti kérelem benyújtása közötti időszakban bármikor fennáll.”

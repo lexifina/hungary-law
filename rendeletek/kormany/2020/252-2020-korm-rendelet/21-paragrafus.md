@@ -1,0 +1,1 @@
+## „(7) A hitelintézet – a kamattámogatás megszűnése esetén az ügyleti kamaton, továbbá az 5. § (7) bekezdésének alkalmazása esetén felmerülő indokolt költségein kívül – a kölcsönkérelem elbírálásáért és a kölcsön folyósításáért az igénylők, illetve a támogatott személyek felé díjat, költséget vagy egyéb ellenszolgáltatást nem számíthat fel.”
