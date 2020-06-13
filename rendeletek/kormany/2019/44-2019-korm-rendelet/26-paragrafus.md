@@ -1,4 +1,4 @@
-26. § (1) A hitelintézet – az eAdaton található útmutató szerinti formában, a tárgyhónapot követő hónap 10. napjáig – ellenőrzési célból megküldi a kincstár részére
+26. § (1)[^73] A hitelintézet – az eAdaton található útmutató szerinti formában, haladéktalanul – ellenőrzési célból megküldi a kincstár részére
 
 a) a kölcsönszerződés megkötésének, módosításának vagy megszűnésének adatait,
 
@@ -18,7 +18,7 @@ c) azon gyermekek
 
 ca) nevét,
 
-cb) személyi azonosítóját és
+cb)[^74]
 
 cc) adóazonosító jelét,
 
@@ -41,3 +41,6 @@ b) hiányos teljesítése esetén a hiányos adatszolgáltatással érintett bab
 (6) A (4) bekezdés b) pontja szerinti felfüggesztés nem érinti a hitelintézetnek az adatszolgáltatási hiánnyal nem érintett babaváró támogatásokra vonatkozó elszámolási jogosultságát.
 
 (7) Az adatszolgáltatási kötelezettséget a hitelintézet megbízásából másik hitelintézet is teljesítheti. A megbízási szerződésnek ki kell terjednie a megbízott hitelintézet felelősségére.
+
+[^73]: A 26. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^74]: A 26. § (1) bekezdés c) pont cb) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.

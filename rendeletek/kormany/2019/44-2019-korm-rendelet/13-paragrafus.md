@@ -6,6 +6,8 @@
 
 (2) A kamattámogatás igénybevételéhez külön kérelmet nem kell benyújtani, az igénylők a kamattámogatásra a kölcsönszerződés megkötésétől – ha e rendelet másként nem rendelkezik – a kölcsön teljes futamidejére jogosultak.
 
-(3) A kamattámogatás havi összege legfeljebb az ügyleti vagy üzleti év kezdetekor fennálló, még esedékessé nem vált tőketartozás után számított kamattámogatás 1/12-ed része. A kölcsön egyhavi törlesztőrészletet meghaladó előtörlesztése esetén a kamattámogatás a fennálló, még esedékessé nem vált tőketartozás után számított összeg havi időarányos része.
+(3)[^35] A kamattámogatás havi összege az adott hónapra eső ügyleti kamat összege, de legfeljebb az ügyleti vagy üzleti év kezdetekor fennálló, még esedékessé nem vált tőketartozás után számított kamattámogatás 1/12 része. A kölcsön egyhavi törlesztőrészletet meghaladó előtörlesztése esetén a kamattámogatás a fennálló, még esedékessé nem vált tőketartozás után számított összeg havi időarányos része.
 
 (4) A hitelintézet az igénybe vett kamattámogatás éves összegéről évente egyszer, az éves elszámolás keretében tájékoztatja a támogatott személyeket.
+
+[^35]: A 13. § (3) bekezdése a 252/2020. (V. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
