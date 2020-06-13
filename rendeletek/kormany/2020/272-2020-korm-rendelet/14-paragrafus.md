@@ -1,0 +1,3 @@
+## 13. § Az előadó-művészeti szervezetek támogatásának részletes szabályairól szóló 428/2016. (XII. 15.) Korm. rendelet (a továbbiakban: R2.) 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek nem minősített szervezetek az Emtv. 19. §-a szerinti, működés és szakmai programmegvalósítás támogatására irányuló pályázatokról történő döntés megalapozásához a miniszter az érintett előadó-művészeti bizottság – az érintett előadó-művészeti szervezetek szakmai érdekképviseleti szervezetei által véleményezett – javaslata figyelembevételével szakmai kuratóriumot kér fel.”
