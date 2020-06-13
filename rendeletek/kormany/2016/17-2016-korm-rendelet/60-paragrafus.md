@@ -1,6 +1,6 @@
-## 59. §[^177] A Módr2. hatálybalépését[^178] követően a menedékjogról szóló 2007. évi LXXX. törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy nem jogosult családi otthonteremtési kedvezményre. A Módr2. hatálybalépését megelőzően benyújtott kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra e rendeletnek a Módr2. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+## 59. §[^184] A Módr2. hatálybalépését[^185] követően a menedékjogról szóló 2007. évi LXXX. törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy nem jogosult családi otthonteremtési kedvezményre. A Módr2. hatálybalépését megelőzően benyújtott kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra e rendeletnek a Módr2. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
-60. §[^179] (1) Az az igénylő, aki a családi otthonteremtési kedvezményt az egyes otthonteremtési tárgyú kormányrendeletek módosításáról szóló 152/2019. (VI. 26.) Korm. rendelet (a továbbiakban: Módr4.) által megállapított 3. § (2c) bekezdése, 14. § (2a), (2b), (9a) és (9b) bekezdése, 30. § (1) bekezdés 23. pontja, 36. § (1a) és (1b) bekezdése és 51/I. § (1) bekezdése hatálybalépését megelőzően igényelte, 2019. december 31-éig teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozhat arról a hitelintézetnek, hogy az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt a kedvezménnyel szerzett használt lakást
+60. §[^186] (1) Az az igénylő, aki a családi otthonteremtési kedvezményt az egyes otthonteremtési tárgyú kormányrendeletek módosításáról szóló 152/2019. (VI. 26.) Korm. rendelet (a továbbiakban: Módr4.) által megállapított 3. § (2c) bekezdése, 14. § (2a), (2b), (9a) és (9b) bekezdése, 30. § (1) bekezdés 23. pontja, 36. § (1a) és (1b) bekezdése és 51/I. § (1) bekezdése hatálybalépését megelőzően igényelte, 2019. december 31-éig teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozhat arról a hitelintézetnek, hogy az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt a kedvezménnyel szerzett használt lakást
 
 a) a legalább többségi tulajdonában álló gazdasági társaság – ide nem értve a részvénytársaságot –, illetve
 
@@ -20,6 +20,6 @@ b) azt, hogy ez az 1407/2013/EU bizottsági rendelet szerint nyújtott csekély 
 
 c) az 1407/2013/EU bizottsági rendelet teljes címét és az Európai Unió Hivatalos Lapjában való kihirdetésének adatait.
 
-[^177]: Az 59. §-t a 26/2018. (II. 28.) Korm. rendelet 36. §-a iktatta be.
-[^178]: A hatálybalépés időpontja 2018. március 15.
-[^179]: A 60. §-t a 152/2019. (VI. 26.) Korm. rendelet 16. §-a iktatta be.
+[^184]: Az 59. §-t a 26/2018. (II. 28.) Korm. rendelet 36. §-a iktatta be.
+[^185]: A hatálybalépés időpontja 2018. március 15.
+[^186]: A 60. §-t a 152/2019. (VI. 26.) Korm. rendelet 16. §-a iktatta be.
