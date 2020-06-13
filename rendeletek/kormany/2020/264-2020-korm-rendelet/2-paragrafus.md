@@ -1,5 +1,3 @@
-## 1. § A határátlépésre vonatkozó különös szabályokról szóló 263/2020. (VI. 6.) Korm. rendelet 2. §-a a következő e) ponttal egészül ki:
+2. §[^3]
 
-## [Az egészség és élet megóvása, valamint a nemzetgazdaság helyreállítása érdekében elrendelt veszélyhelyzettel kapcsolatos rendkívüli intézkedésekről szóló 81/2020. (IV. 1.) Korm. rendelet (a továbbiakban: Korm. rendelet) szabályaitól eltérően Magyarország területére az alábbi államok állampolgára beléphet:]
-
-## „e) Horvát Köztársaság.”
+[^3]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
