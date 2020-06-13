@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-251-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-05-30 | 2020-251-20-22.1 | 251/2020. (V. 29.) Korm. rendelet |
+| 2020-06-13 | 2020-251-20-22.2 | 40/2020. (III. 11.) Korm. rendelet |
