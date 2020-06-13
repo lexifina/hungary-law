@@ -1,6 +1,6 @@
 ## 62. § A családi otthonteremtési kedvezményt és az azokhoz kapcsolódó költségtérítést az „Egyéb lakástámogatások” előirányzatból kell finanszírozni.
 
-## 10. [^156] A családi otthonteremtési kedvezménnyel kapcsolatos adatszolgáltatás
+## 10. [^162] A családi otthonteremtési kedvezménnyel kapcsolatos adatszolgáltatás
 
 63. § (1) A hitelintézet havi rendszerességgel, elektronikus úton megküldi a Kincstárnak ellenőrzési céllal az e rendelet szerinti támogatás igénybevételére irányuló szerződés megkötése, módosítása vagy megszűnése adatait, valamint a támogatás új igénybevevőinek és azon gyermekeknek, akikre tekintettel a támogatást igénybe veszik, következő adatait:
 
@@ -16,4 +16,4 @@ d) a gyermek neve, személyi azonosítója és adóazonosító jele.
 
 (3) A hitelintézet az e § szerinti adatszolgáltatása keretében a lakáscélú nyilvántartások vezetéséhez – a támogatott személy hozzájárulása alapján – elektronikus úton tájékoztatja a Kincstárt a megkötött, a megkötött és meghiúsult, a felmondott és lezárt, valamint a megszüntetett e rendelet szerinti támogatás igénybevételére irányuló szerződésekről és a visszafizetett támogatásokról.
 
-[^156]: A 10. alcím (63–67/A. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^162]: A 10. alcím (63–67/A. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

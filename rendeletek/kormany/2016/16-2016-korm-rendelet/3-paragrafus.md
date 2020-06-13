@@ -82,7 +82,7 @@ l) egyéb fűthető helyiség, ide nem értve a gépjárműtárolót és a pince
 
 9. új lakás: a meglévő épület vagy épületrész átalakítása kivételével
 
-a)[^12] az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel (a továbbiakban: lakás), amely elkészültét követően használatbavételi vagy hatósági bizonyítvánnyal igazolandó használatbavétel tudomásulvételi vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány iránti eljárásra köteles, ideértve a tanyán vagy birtokközpontban található lakóépületet is, és amely legalább az alábbi feltételeknek megfelel:
+a)[^12] az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített, a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel (a továbbiakban: lakás), amely elkészültét követően használatbavételi vagy hatósági bizonyítvánnyal igazolandó használatbavétel tudomásulvételi vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány iránti eljárásra köteles, ideértve a tanyán vagy birtokközpontban található lakóépületet is, és amely legalább az alábbi feltételeknek megfelel:
 
 aa) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel rendelkezik,
 
@@ -107,5 +107,5 @@ b) ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvez
 [^9]: A 3. § (1) bekezdés 4. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés 4. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: A 3. § (1) bekezdés 5. pont nyitó szövegrésze a 26/2018. (II. 28.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^12]: A 3. § (1) bekezdés 9. pont a) alpontja a 46/2019. (III. 12.) Korm. rendelet – 109/2019. (V. 13.) Korm. rendelet 6. § a) pontja, és a 152/2019. (VI. 26.) Korm. rendelet 21. §-a szerint módosított – 1. §-ával megállapított szöveg.
+[^12]: A 3. § (1) bekezdés 9. pont a) alpontja a 46/2019. (III. 12.) Korm. rendelet – 109/2019. (V. 13.) Korm. rendelet 6. § a) pontja, és a 152/2019. (VI. 26.) Korm. rendelet 21. §-a szerint módosított – 1. §-ával megállapított, a 252/2020. (V. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés 10. pontját a 26/2018. (II. 28.) Korm. rendelet 2. §-a iktatta be.
