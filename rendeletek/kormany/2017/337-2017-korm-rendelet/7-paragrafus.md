@@ -1,15 +1,19 @@
 ## 4. A támogatás mértéke
 
-7. § (1)[^8] A támogatás összege
+7. § (1)[^13] A támogatás összege
 
-a) a második – 6. § (1) bekezdése szerinti – gyermek esetén 1 000 000 forint,
+a) a második – a 29. § (1) bekezdése szerinti – gyermek esetén 1 000 000 forint,
 
-b) a harmadik vagy további – 6. § (1) bekezdése szerinti – gyermek esetén 4 000 000 forint,
+b) a harmadik vagy további,
 
-c) a b) pont szerinti összegű támogatás igénybevételét követően született minden egyes további – 6. § (1) bekezdése szerinti – gyermek esetén 1 000 000 forint.
+ba) a 6. § (1) bekezdése szerinti gyermek esetén – ide nem értve a bb) alpont szerinti esetet – 1 000 000 forint, vagy
+
+bb) a 29. § (1) bekezdése szerinti gyermek esetén – ide nem értve a c) pont szerinti esetet – 4 000 000 forint,
+
+c) a bb) alpont szerinti összegű támogatás igénybevételét követően született minden egyes további gyermek esetén 1 000 000 forint.
 
 (2) Ha a kérelem benyújtásának időpontjában a lakáscélú jelzáloghitel tőketartozása és annak járulékai összege alacsonyabb az igénybe vehető támogatás összegénél, az igénylő legfeljebb a tőketartozás és annak járulékai összegének megfelelő támogatásra jogosult.
 
 (3) A (2) bekezdésben foglaltak esetén az igénybe vett támogatás és az (1) bekezdés szerinti összeg különbözetének igénylésére a támogatott személy későbbi időpontban nem jogosult.
 
-[^8]: A 7. § (1) bekezdése a 46/2019. (III. 12.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^13]: A 7. § (1) bekezdése a 252/2020. (V. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
