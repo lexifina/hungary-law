@@ -14,10 +14,11 @@ d) a szerződéskötés, valamint a fogyasztási cikk fogyasztó részére tört
 
 e) a fogyasztó jótállásból eredő jogait, azok érvényesíthetőségének határidejét, helyét és feltételeit, továbbá
 
-f) az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a megyei (fővárosi) kereskedelmi és iparkamarák mellett működő békéltető testület eljárását is kezdeményezheti.
+f)[^6] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a megyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti.
 
-(4)[^6] A jótállási jegynek utalnia kell arra, hogy a jótállás a fogyasztó jogszabályból eredő jogait nem érinti.
+(4)[^7] A jótállási jegynek utalnia kell arra, hogy a jótállás a fogyasztó jogszabályból eredő jogait nem érinti.
 
 [^4]: A 3. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^5]: A 3. § (3) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^6]: A 3. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (10) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^6]: A 3. § (3) bekezdés f) pontja a 270/2020. (VI. 12.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (10) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.

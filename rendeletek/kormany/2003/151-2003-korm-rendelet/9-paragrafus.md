@@ -1,6 +1,6 @@
-9. §[^16] E rendelet 7/A. §-a a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelv 1. cikk (2) bekezdés d) pontjának való megfelelést szolgálja.
+9. §[^17] E rendelet 7/A. §-a a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelv 1. cikk (2) bekezdés d) pontjának való megfelelést szolgálja.
 
-Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^17]
+Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^18]
 
 1. Háztartási készülékek 10 000 Ft eladási ár felett, így különösen hűtőszekrény, fagyasztó, kombinált hűtőszekrény, villanytűzhely, mosógép, centrifuga, szárítógép és ezek bármely kombinációja, mosogatógép, vasaló, vízmelegítő, fűtő-, légkondicionáló- és egyéb légállapot-szabályozó berendezés, porszívó, gőzzel működő tisztítógép, szőnyegtisztító-gép, padlósúroló- és fényesítőgép, varrógép, kötőgép, villanybojler, szivattyú;
 
@@ -60,5 +60,5 @@ Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^17]
 
 29. az előzőekben felsorolt termékcsoportokhoz tartozó termékek tartozékai és alkotórészei 10 000 Ft eladási ár felett.
 
-[^16]: A 9. §-t a 97/2014. (III. 25.) Korm. rendelet 1. § (9) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^17]: A melléklet a 97/2014. (III. 25.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^17]: A 9. §-t a 97/2014. (III. 25.) Korm. rendelet 1. § (9) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^18]: A melléklet a 97/2014. (III. 25.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.

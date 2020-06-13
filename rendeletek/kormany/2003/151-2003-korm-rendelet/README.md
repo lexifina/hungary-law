@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-151-20-
 | 2012-07-04 | 2003-151-20-22.5 | 144/2012. (VII. 3.) Korm. rendelet |
 | 2014-04-09 | 2003-151-20-22.6 | 97/2014. (III. 25.) Korm. rendelet |
 | 2014-09-15 | 2003-151-20-22.7 | 97/2014. (III. 25.) Korm. rendelet |
+| 2020-06-13 | 2003-151-20-22.8 | 270/2020. (VI. 12.) Korm. rendelet |
