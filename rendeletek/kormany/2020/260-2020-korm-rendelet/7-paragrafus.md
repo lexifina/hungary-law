@@ -1,4 +1,4 @@
-## 6. §[^2]
+## 6. §[^8]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4. § (3) bekezdése, a 6. § és a 4. melléklet 2020. szeptember 1-jén lép hatályba.
 
-[^2]: A 6. § a 7. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^8]: A 6. § a 7. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.

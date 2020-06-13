@@ -1,1 +1,3 @@
-1. melléklet a 260/2020. (VI. 4.) Korm. rendelethez
+1. melléklet a 260/2020. (VI. 4.) Korm. rendelethez[^9]
+
+[^9]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

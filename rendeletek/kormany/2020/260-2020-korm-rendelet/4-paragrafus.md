@@ -1,11 +1,14 @@
-## lép.
+## 3. §[^3]
 
 ## 3. A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet módosítása
 
-4. § (1) A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet (a továbbiakban: KAK Korm. rendelet) 2. melléklete helyébe a 2. melléklet lép.
+4. § (1)[^4]
 
-(2) A KAK Korm. rendelet 3. melléklete a 3. melléklet szerint módosul.
+(2)[^5]
 
-(3)[^1]
+(3)[^6]
 
-[^1]: A 4. § (3) bekezdése a 7. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § (3) bekezdése a 7. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
