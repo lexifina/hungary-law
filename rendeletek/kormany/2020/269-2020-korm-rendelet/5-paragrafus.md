@@ -1,1 +1,3 @@
-## 4. § A Rendelet 2. §-ában a „2. és 3. sora” szövegrész helyébe a „2., 3. és 4. sora” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
