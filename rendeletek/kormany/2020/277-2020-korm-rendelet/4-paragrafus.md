@@ -1,0 +1,1 @@
+## 3. § A Kormány az állami ünnep megtartásával összefüggő, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendeletben meghatározott, a jegyző hatáskörébe tartozó feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
