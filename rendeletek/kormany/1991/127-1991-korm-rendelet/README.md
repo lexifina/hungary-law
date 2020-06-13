@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-127-20-
 | 2017-07-01 | 1991-127-20-22.26 | 294/2001. (XII. 26.) Korm. rendelet |
 | 2018-05-06 | 1991-127-20-22.27 | 136/2004. (IV. 29.) Korm. rendelet |
 | 2019-08-18 | 1991-127-20-22.28 | 178/2019. (VII. 18.) Korm. rendelet |
+| 2020-06-13 | 1991-127-20-22.29 | 190/2020. (V. 7.) Korm. rendelet |

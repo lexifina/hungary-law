@@ -2,39 +2,41 @@
 
 ## I. Fejezet
 
-## A Nemzetközi Mértékegység-rendszer (továbbiakban: SI) egységei
+## A Nemzetközi Mértékegység-rendszer (a továbbiakban: SI) alapegységei
 
-## Az SI rendszer alapegységei
+## 1. Az idő mértékegysége a másodperc; jele: s.
 
-## 1. A hosszúság mértékegysége a méter; jele: m.
+## Definíció szerint a cézium-133 atom ΔνCs perturbálatlan alapállapoti hiperfinom átmeneti frekvenciájának rögzített számértéke legyen 9 192 631 770, amely Hz egységben van kifejezve, ami megegyezik a s–1-nel.
 
-## A méter annak az útnak a hosszúsága, melyet a fény vákuumban 1/299 792 458 másodperc időtartam alatt megtesz.
+## 2. A hosszúság mértékegysége a méter; jele: m.
 
-## 2. A tömeg mértékegysége a kilogramm; jele: kg.
+## Definíció szerint a vákuumbeli fénysebesség (c) rögzített számértéke legyen 299 792 458, amely m/s egységben van kifejezve, ahol a másodpercet ΔνCs határozza meg.
 
-## A kilogramm az 1889. évben, Párizsban megtartott 1. Általános Súly- és Mértékügyi Értekezlet által a tömeg nemzetközi etalonjának elfogadott, a Nemzetközi Súly- és Mértékügyi Hivatalban, Sčvres-ben őrzött platina-irídium henger tömege.
+## 3. A tömeg mértékegysége a kilogramm; jele: kg.
 
-## 3. Az idő mértékegysége a másodperc; jele: s.
+## Definíció szerint a Planck-állandó (h) rögzített számértéke legyen 6,626 070 15 × 10–34, amely J × s egységben van kifejezve, ami megegyezik a kg × m2 × s–1-nel, ahol a métert és a másodpercet c, illetve ΔνCs határozza meg.
 
-## A másodperc az alapállapotú cézium-133 atom két hiperfinom energiaszintje közötti átmenetnek megfelelő sugárzás 9 192 631 770 periódusának időtartama.
+## 4. Az áramerősség mértékegysége az amper; jele: A.
 
-## 4. A villamos áramerősség mértékegysége az amper; jele: A.
-
-## Az amper olyan állandó villamos áram erőssége, amely két egyenes, párhuzamos, végtelen hosszúságú, elhanyagolhatóan kicsiny, kör keresztmetszetű és egymástól 1 méter távolságban, vákuumban elhelyezkedő vezetőben fenntartva, e két vezető között méterenként 2 × 10–7 newton erőt hozna létre.
+## Definíció szerint az elemi töltés (e) rögzített számértéke legyen 1,602 176 634 × 10–19, amely C egységben van kifejezve, ami megegyezik az A × s-mal, ahol a másodpercet ΔνCs határozza meg.
 
 ## 5. A termodinamikai hőmérséklet mértékegysége a kelvin; jele: K.
 
-## A kelvin a víz hármaspontja termodinamikai hőmérsékletének 273,16-od része, olyan vízre vonatkozóan, amelynél a következő izotóparányok állnak fenn: 1 mól 1H-ra 0,00015576 mól 2H jut, 1 mól 16O-ra 0,0003799 mól 17O jut és 1 mól 16O-ra 0,0020052 mól 18O jut.
+## Definíció szerint a Boltzmann-állandó (k) rögzített számértéke legyen 1,380 649 × 10–23, amely J × K–1 egységben van kifejezve, ami megegyezik a kg × m2 × s–2 × K–1-nel, ahol a kilogrammot, a métert és a másodpercet
+
+## h, c, illetve ΔνCs határozza meg.
 
 ## 6. Az anyagmennyiség mértékegysége a mól; jele: mol.
 
-## A mól annak a rendszernek az anyagmennyisége, amely annyi elemi egységet tartalmaz, mint ahány atom van 0,012 kilogramm szén-12-ben.
+## Egy mól pontosan 6,022 140 76 × 1023 elemi egységet tartalmaz. Ez a szám az Avogadro-állandó (NA) rögzített értéke mol–1 egységben kifejezve, az ún. Avogadro-szám.
 
-## A mól alkalmazásakor meg kell határozni az elemi egység fajtáját; ez atom, molekula, ion, elektron, más részecske vagy ilyen részecskék meghatározott csoportja lehet.
+## Az anyagmennyiség (jele: n) egy rendszer meghatározott elemi egységei számának a mérőszáma. Az elemi egység lehet atom, molekula, ion, elektron, bármely más részecske vagy meghatározott részecskecsoport.
 
 ## 7. A fényerősség mértékegysége a kandela; jele: cd.
 
-## A kandela az olyan fényforrás fényerőssége adott irányban, amely 540 × 1012 hertz frekvenciájú monokromatikus fényt bocsát ki és sugárerőssége ebben az irányban 1/683 watt per szteradián.
+## Definíció szerint az 540 × 1012 Hz frekvenciájú monokromatikus sugárzás fényhatásfoka állandójának Kcd rögzített számértéke legyen 683, amely lm × W–1 egységben van kifejezve, ami megegyezik a cd × sr × W–1-nel, vagy
+
+## a cd × sr × kg–1 × m–2 × s3-nal, ahol a kilogrammot, a métert és a másodpercet h, c és ΔνCs határozza meg.
 
 ## II. Fejezet
 
@@ -272,8 +274,8 @@
 
 ## 1 var = 1 W.
 
-2. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^80]
+2. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^81]
 
 Kötelező hitelesítésű mérőeszközök
 
-[^80]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 247/2012. (VIII. 31.) Korm. rendelet 2. §-a, a 405/2015. Korm. rendelet 1. §-a, a 344/2016. (XI. 17.) Korm. rendelet 2. §-a, a 423/2016. (XII. 14.) Korm. rendelet 1. §-a, a 419/2016. (XII. 14.) Korm. rendelet 1. §-a, a 80/2018. (IV. 20.) Korm. rendelet 1. §-a, a 178/2019. (VII. 18.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^81]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 247/2012. (VIII. 31.) Korm. rendelet 2. §-a, a 405/2015. Korm. rendelet 1. §-a, a 344/2016. (XI. 17.) Korm. rendelet 2. §-a, a 423/2016. (XII. 14.) Korm. rendelet 1. §-a, a 419/2016. (XII. 14.) Korm. rendelet 1. §-a, a 80/2018. (IV. 20.) Korm. rendelet 1. §-a, a 178/2019. (VII. 18.) Korm. rendelet 3. §-a szerint módosított szöveg.
