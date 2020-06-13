@@ -16,13 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:284 mezőjében a „2,52” szövegrész helyébe a „2,88” szöveg,
-
-## b) E:284 mezőjében a „0,45” szövegrész helyébe a „0,52” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1304/2020. (VI. 11.) Korm. határozathoz
 
@@ -31,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, forint) | Többlettámogatás legfeljebb (nettó, forint) | Megnövelt önerő összege (nettó, forint) | Megnövelt támogatás legfeljebb (nettó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-2.2.2- 15-2016-00122 | Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 12. (ÉMO 12) | Mezőtárkány Község Önkormányzata, Egerfarmos Községi Önkormányzata, Egerlövő Község Önkormányzata és Mezőszemere Községi Önkormányzat az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint. | 2 511 000 000 | 367 929 837 | 511 898 344 | 2 878 929 837 | A projekt keretében szennyvíztisztító telep létesül, valamint csatornahálózat bővítésére kerül sor Mezőtárkány településen. Továbbá Mezőszemere, Egerfarmos és Egerlövő településeken a szennyvízelvezető hálózat bővítése valósul meg. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
