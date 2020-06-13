@@ -1,4 +1,4 @@
-## 12. §[^4]
+## 12. §[^5]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) E rendelet 5. § (1) bekezdés g) pontjának és (2)–(5) bekezdésének, 6. §-ának, 7. § (1) bekezdés d) pontjának és (2)–(5) bekezdésének, 8. §-ának, 9. § (2) bekezdésének, 10. § (2)–(5) bekezdésének, valamint 11. §-ának rendelkezéseit a veszélyhelyzet kihirdetésének időpontját követően benyújtott támogatás iránti kérelmekre kell alkalmazni.
 
-[^4]: A 12. § a 14. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^5]: A 12. § a 14. § (3) bekezdése alapján 2020. július 1-jén lép hatályba.
