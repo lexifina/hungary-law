@@ -1,4 +1,4 @@
-## 41. §[^6] A miniszter feladat- és hatáskörébe tartozó, a kereskedelemfejlesztéssel, illetve a közép-európai területi fókuszú kereskedelmi és regionális gazdaságfejlesztéssel összefüggő feladatainak körében az alább felsorolt feladatokat:
+## 41. §[^15] A miniszter feladat- és hatáskörébe tartozó, a kereskedelemfejlesztéssel, illetve a közép-európai területi fókuszú kereskedelmi és regionális gazdaságfejlesztéssel összefüggő feladatainak körében az alább felsorolt feladatokat:
 
 1. a miniszter segítése a külgazdasági tevékenység ellátásában,
 
@@ -84,4 +84,4 @@
 
 a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság, valamint a közép-európai térség tekintetében a CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
 
-[^6]: A 41. § záró szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
+[^15]: A 41. § záró szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
