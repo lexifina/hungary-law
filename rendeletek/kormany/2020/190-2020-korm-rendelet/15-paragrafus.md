@@ -1,3 +1,3 @@
-## 14. §[^14]
+## 14. §[^12]
 
-[^14]: A 14. § a 18. § (3) bekezdése alapján 2020. november 30-án lép hatályba.
+[^12]: A 14. § a 18. § (3) bekezdése alapján 2020. november 30-án lép hatályba.
