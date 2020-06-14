@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-136-20-
 | --- | --- | --- |
 | 2020-04-18 | 2020-136-20-22.1 | 136/2020. (IV. 17.) Korm. rendelet |
 | 2020-05-02 | 2020-136-20-22.2 | 40/2020. (III. 11.) Korm. rendelet |
+| 2020-06-14 | 2020-136-20-22.3 | 280/2020. (VI. 13.) Korm. rendelet |
