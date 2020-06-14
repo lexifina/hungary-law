@@ -1,3 +1,3 @@
-## 21. § Az R4. 7. §-a helyébe a következő rendelkezés lép:
+## 21. §[^23]
 
-## „7. § A hitelintézet a kölcsönkérelem benyújtását, valamint az elbíráláshoz szükséges nyilatkozatok és okiratok bemutatását követően az igénylők 5. § (2) bekezdése szerinti adatait haladéktalanul megküldi a kincstár részére. A kincstár a megküldött adatok alapján a kölcsönkérelmet benyújtó igénylőkről a 4. § (5) bekezdésében foglalt feltétel érvényesítése érdekében a feltétel ellenőrzésére alkalmas nyilvántartást vezet, amely alapján biztosítja a hitelintézet számára azt az információt, hogy az igénylők más hitelintézettől igényeltek-e már kölcsönt.”
+[^23]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

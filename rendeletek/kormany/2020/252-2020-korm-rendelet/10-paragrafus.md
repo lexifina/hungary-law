@@ -1,3 +1,3 @@
-## 9. § Az R3. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^11]
 
-## „(3) Az igénylőn kívül más adós – az igénylő volt házastársát vagy volt élettársát ide nem értve, ha az a támogatási kérelemben figyelembe vett valamely gyermek vér szerinti vagy örökbefogadó szülője – a jelzáloghitel-szerződésben nem szerepelhet.”
+[^11]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

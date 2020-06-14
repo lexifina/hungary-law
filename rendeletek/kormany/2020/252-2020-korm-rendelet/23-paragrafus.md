@@ -1,5 +1,3 @@
-## 22. § Az R4. 9. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 22. §[^24]
 
-## (A kölcsönszerződés tartalmazza a támogatott személyek)
-
-## „b) nyilatkozatát, amelyben vállalják, hogy a várandósság betöltött 12. hetét és a szülés várható időpontját a várandósgondozásról szóló miniszteri rendeletben meghatározott várandósgondozási könyvvel vagy a kezelőorvos által kiállított, a 2. mellékletben meghatározott tartalmú dokumentummal igazolják, és hozzájárulnak ezen adatok kezeléséhez,”
+[^24]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

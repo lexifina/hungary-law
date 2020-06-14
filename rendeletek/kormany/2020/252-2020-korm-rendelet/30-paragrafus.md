@@ -1,3 +1,3 @@
-## 29. § Az R4. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 29. §[^31]
 
-## „(2) A gyermekvállalási támogatást a kérelem és az igazolások hiánytalan benyújtását követő 3. munkanapon kell előtörlesztésként elszámolni. A gyermekvállalási támogatás elszámolt összegének megállapításánál az elszámolás napján fennálló, nem lejárt tőke- és nem lejárt ügyleti kamattartozás összegét kell figyelembe venni.”
+[^31]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(2a) Együttes igénylés esetén a 4. § (2) bekezdése szerinti feltételnek az igénylők legalább egyikének meg kell felelnie.”
+## 8. §[^10]
+
+[^10]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

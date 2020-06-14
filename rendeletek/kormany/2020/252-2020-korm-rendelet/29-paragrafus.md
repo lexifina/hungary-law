@@ -1,1 +1,3 @@
-## „(4a) A jogosultságot megalapozza, ha annak – (1) és (2) bekezdés szerinti – feltétele a kölcsönkérelem és a gyermekvállalási támogatás iránti kérelem benyújtása közötti időszakban bármikor fennáll.”
+## 28. §[^30]
+
+[^30]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

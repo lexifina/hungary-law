@@ -1,1 +1,3 @@
-## „(3) E rendelet alkalmazásában az iratok vagy azok másolatának megküldése alatt a papíralapú és az elektronikus úton történő küldést egyaránt érteni kell.”
+## 16. §[^18]
+
+[^18]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

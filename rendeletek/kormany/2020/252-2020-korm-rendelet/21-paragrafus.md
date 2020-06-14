@@ -1,1 +1,3 @@
-## „(7) A hitelintézet – a kamattámogatás megszűnése esetén az ügyleti kamaton, továbbá az 5. § (7) bekezdésének alkalmazása esetén felmerülő indokolt költségein kívül – a kölcsönkérelem elbírálásáért és a kölcsön folyósításáért az igénylők, illetve a támogatott személyek felé díjat, költséget vagy egyéb ellenszolgáltatást nem számíthat fel.”
+## 20. §[^22]
+
+[^22]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
