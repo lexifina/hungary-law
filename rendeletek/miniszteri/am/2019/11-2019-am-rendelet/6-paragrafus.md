@@ -16,11 +16,11 @@ a) az egyes tevékenységeknél az e rendeletben meghatározott dokumentumokat,
 
 b) a naposkori letelepítés darabszámát, illetve az átminősítéskori állatlétszámot, valamint annak időpontját, továbbá a támogatási igény megalapozottságát tartalmazó szolgáltató állatorvosi igazolás eredeti példányát,
 
-c) a támogatási évben az első kifizetési kérelem benyújtásakor az érintett termékpályán működő, államilag elismert termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet eredeti igazolását arról, hogy az igénylő a tárgyévre vonatkozóan érvényes tagsággal rendelkezik,
+c)[^4] – a BTT-ben tagsággal rendelkező igénylő kivételével – a támogatási évben az első kifizetési kérelem benyújtásakor az érintett termékpályán működő, államilag elismert termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet eredeti igazolását arról, hogy az igénylő a tárgyévre vonatkozóan érvényes tagsággal rendelkezik,
 
 d) a támogatási évben az első kifizetési kérelem benyújtásakor a tartáshely szerint illetékes járási hivatalnak az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló, a támogatási évre vonatkozóan kiadott igazolását, valamint
 
-e) a BTT javaslatával és ellenjegyzésével ellátott szakmai ellenőrzési lap egy eredeti példányát.
+e)[^5]
 
 (4) A szakmai ellenőrzési lap az alábbi adatokat tartalmazza:
 
@@ -36,7 +36,18 @@ d) a támogatási igényre vonatkozó adatokat.
 
 (6) A támogatási kérelemben meg nem jelölt tartási helyre, tevékenységre, illetve a jóváhagyott állatlétszámot meghaladó állatlétszámra vonatkozó kifizetési kérelmet a Kincstár elutasítja.
 
-(7)[^4] A Kincstár által rendszeresített és a honlapján közleményben közzétett, a (4) bekezdésben meghatározott adattartalmú nyomtatvány szerint kiállított szakmai ellenőrzési lapok a BTT címére folyamatosan, de legkésőbb a tárgynegyedév utolsó napját követő tizedik napig nyújthatók be. A szakmai ellenőrzési lapból negyedévenként és baromfi megnevezés-csoportonként több is benyújtható, de egy ellenőrzési lapon csak egy baromfi megnevezés-csoport jeleníthető meg.
+(7)[^6] A Kincstár által rendszeresített és a honlapján közleményben közzétett, a (4) bekezdésben meghatározott adattartalmú nyomtatvány szerint kiállított szakmai ellenőrzési lapok a BTT címére folyamatosan, de legkésőbb a tárgynegyedév utolsó napját követő tizedik napig nyújthatók be. A szakmai ellenőrzési lapból negyedévenként és baromfi megnevezés-csoportonként több is benyújtható, de egy ellenőrzési lapon csak egy baromfi megnevezés-csoport jeleníthető meg.
+
+(8)[^7] A szakmai ellenőrzési lapot a BTT – ellenjegyzést követően – a beérkezéstől számított tizenöt napon belül – az ügyfél tájékoztatásával egyidejűleg – elektronikus úton továbbítja a Kincstár részére.
+
+(9)[^8] A BTT az igénylő tagja tagsági igazolását a szakmai ellenőrzési lappal együtt a beérkezéstől számított tizenöt napon belül – az ügyfél tájékoztatásával egyidejűleg – elektronikus úton továbbítja a Kincstár részére.
+
+(10)[^9] Ha az igénylő a (7) bekezdésben meghatározott határidőig nem nyújtja be a BTT-hez a szakmai ellenőrzési lapot, és ezért a tárgynegyedévre vonatkozóan a benyújtási időszak utolsó napját követő harmincadik napig nem érkezik be a BTT által ellenjegyzett szakmai ellenőrzési lap a Kincstárhoz, a kifizetési kérelmet a Kincstár elutasítja. A szakmai ellenőrzési lap benyújtása tekintetében hiánypótlásra nincs lehetőség.
 
 [^3]: A 6. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § c) pontja szerint módosított szöveg.
-[^4]: A 6. § (7) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § d) pontja szerint módosított szöveg.
+[^4]: A 6. § (3) bekezdés c) pontja a 18/2020. (VI. 12.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § (3) bekezdés e) pontját a 18/2020. (VI. 12.) AM rendelet 21. §-a hatályon kívül helyezte.
+[^6]: A 6. § (7) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § d) pontja szerint módosított szöveg.
+[^7]: A 6. § (8) bekezdését a 18/2020. (VI. 12.) AM rendelet 17. § (2) bekezdése iktatta be.
+[^8]: A 6. § (9) bekezdését a 18/2020. (VI. 12.) AM rendelet 17. § (2) bekezdése iktatta be.
+[^9]: A 6. § (10) bekezdését a 18/2020. (VI. 12.) AM rendelet 17. § (2) bekezdése iktatta be.

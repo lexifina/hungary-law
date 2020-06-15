@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-11-20-7
 | 2019-06-01 | 2019-11-20-7R.4 | 2010: CXXX. törvény |
 | 2019-06-08 | 2019-11-20-7R.5 | 26/2019. (VI. 7.) AM rendelet |
 | 2019-11-15 | 2019-11-20-7R.6 | 52/2019. (XI. 14.) AM rendelet |
+| 2020-06-15 | 2019-11-20-7R.7 | 18/2020. (VI. 12.) AM rendelet |

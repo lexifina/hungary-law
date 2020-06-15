@@ -1,39 +1,37 @@
-## A 2019/2020. évre vonatkozó támogatási keret
+|  | A | B | C | D |
 
-|  | A | B | C |
+| 1. | Baromfi megnevezés | Időszak | 2019/2020. támogatási évi keret (millió forint) | 2020/2021. támogatási évi keret (millió forint) |
 
-| 1. | Baromfi megnevezése | Időszak | Támogatási keret (millió Ft) |
+| 2. | növendék csirke, szabadtartásos csirke és gyöngyös | I. negyedév | 1350,00 | 1350,00 |
 
-| 2. | növendék csirke, szabadtartásos csirke és gyöngyös | I. tárgynegyedév | 1350 |
+| 3. | növendék csirke, szabadtartásos csirke és gyöngyös | II. negyedév | 1350,00 | 1350,00 |
 
-| 3. | II. tárgynegyedév | 1350 |
+| 4. | növendék csirke, szabadtartásos csirke és gyöngyös | III. negyedév | 1350,00 | 1350,00 |
 
-| 4. | III. tárgynegyedév | 1350 |
+| 5. | növendék csirke, szabadtartásos csirke és gyöngyös | IV. negyedév | 1350,00 | 1350,00 |
 
-| 5. | IV. tárgynegyedév | 1350 |
+| 6. | házi tyúk | I. negyedév | 170,00 | 170,00 |
 
-| 6. | házi tyúk | I. tárgynegyedév | 170 |
+| 7. | házi tyúk | II. negyedév | 200,00 | 200,00 |
 
-| 7. | II. tárgynegyedév | 200 |
+| 8. | házi tyúk | III. negyedév | 170,00 | 170,00 |
 
-| 8. | III. tárgynegyedév | 170 |
+| 9. | házi tyúk | IV. negyedév | 170,00 | 170,00 |
 
-| 9. | IV. tárgynegyedév | 170 |
+| 10. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | I. negyedév | 1700,00 | 925,92 |
 
-| 10. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | I. tárgynegyedév | 1700 |
+| 11. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | II. negyedév | 1750,00 | 1095,55 |
 
-| 11. | II. tárgynegyedév | 1750 |
+| 12. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | III. negyedév | 853,91 | 773,95 |
 
-| 12. | III. tárgynegyedév | 853,91 |
+| 13. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | IV. negyedév | 630,12 | 738,61 |
 
-| 13. | IV. tárgynegyedév | 630,12 |
+| 14. | növendék pulyka | I. negyedév | 710,00 | 710,00 |
 
-| 14. | növendék pulyka | I. tárgynegyedév | 710 |
+| 15. | növendék pulyka | II. negyedév | 710,00 | 710,00 |
 
-| 15. | II. tárgynegyedév | 710 |
+| 16. | növendék pulyka | III. negyedév | 650,00 | 650,00 |
 
-| 16. | III. tárgynegyedév | 650 |
-
-| 17. | IV. tárgynegyedév | 650 |
+| 17. | növendék pulyka | IV. negyedév | 650,00 | 650,00 |
 
 3. melléklet a 11/2019. (IV. 1.) AM rendelethez
