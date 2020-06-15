@@ -14,4 +14,4 @@ b) az a) pont szerinti követelések behajtása iránt végrehajtási eljárás 
 
 c) az elítélt vagy védője ilyen irányú védekezését vizsgálva megállapította, hogy a Polgári Törvénykönyv szerinti általános elévülési idő még nem telt el.
 
-(6) A büntetés-végrehajtási bíró a határozatban a kártalanítás megfizetésére az államot kötelezi és a kifizetésre a határozat kézbesítésétől számított hatvannapos határidő kitűzésével hívja fel.
+(6) A büntetés-végrehajtási bíró a határozatban a kártalanítás megfizetésére az államot kötelezi és a kifizetésre a határozat kézbesítésétől számított kilencvennapos határidő kitűzésével hívja fel.
