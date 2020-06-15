@@ -1,3 +1,3 @@
-9–11. §[^22]
+9–11. §[^24]
 
-[^22]: A 9–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 9–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
