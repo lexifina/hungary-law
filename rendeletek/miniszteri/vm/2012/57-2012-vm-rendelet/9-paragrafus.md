@@ -82,7 +82,7 @@ b) kifizetési kérelmet elutasítják.
 
 a) a működtetési időszak 5. évében teljesül az üzleti tervben a 4. évre vállalt üzemméret, vagy
 
-b) a működtetési időszak 5. évét követő év május 1. és 31. között benyújtott kifizetési kérelem alapján legfeljebb 10%-kal tér el a 4. évre vállalt üzemmérettől, feltéve, hogy az eltérés nem eredményezi az 5. § (2) bekezdése szerinti üzemméret kategória változását.
+b)[^32] a működtetési időszak 5. évét követő év május 1. és augusztus 31. között benyújtott kifizetési kérelem alapján legfeljebb 10%-kal tér el a 4. évre vállalt üzemmérettől, feltéve, hogy az eltérés nem eredményezi az 5. § (2) bekezdése szerinti üzemméret kategória változását.
 
 [^15]: A 9. § (1) bekezdése a 7/2015. (II. 17.) MvM rendelet 58. § (1) bekezdésével megállapított szöveg.
 [^16]: A 9. § (1a) bekezdését a 7/2015. (II. 17.) MvM rendelet 58. § (1) bekezdése iktatta be, szövege a 35/2017. (XII. 27.) MvM rendelet 8. § d) pontja szerint módosított szöveg.
@@ -101,3 +101,4 @@ b) a működtetési időszak 5. évét követő év május 1. és 31. között b
 [^29]: A 9. § (8) bekezdés b) pontja a 35/2017. (XII. 27.) MvM rendelet 6. §-ával megállapított szöveg.
 [^30]: A 9. § (11) bekezdését a 35/2017. (XII. 27.) MvM rendelet 7. §-a iktatta be.
 [^31]: A 9. § (12) bekezdését a 35/2017. (XII. 27.) MvM rendelet 7. §-a iktatta be.
+[^32]: A 9. § (12) bekezdés b) pontja a 18/2020. (VI. 12.) AM rendelet 1. § b) pontja szerint módosított szöveg.
