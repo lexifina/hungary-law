@@ -1,3 +1,5 @@
-## 2. § Hatályát veszti a Göd város közigazgatási területén különleges gazdasági övezet kijelöléséről szóló 136/2020. (IV. 17.) Korm. rendelet 6. §-a.
+## 2. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
