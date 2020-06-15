@@ -1,4 +1,4 @@
-## 23/B. §[^54] E rendeletnek az egyes borászati tárgyú miniszteri rendeletek módosításáról szóló 19/2018. (VII. 27.) AM rendelettel [a továbbiakban: 19/2018. (VII. 27.) AM rendelet] megállapított 6. § (4), (4a), (5) és (7) bekezdését a 19/2018. (VII. 27.) AM rendelet hatálybalépésekor[^55] folyamatban lévő eljárásokban is alkalmazni kell.
+## 23/B. §[^63] E rendeletnek az egyes borászati tárgyú miniszteri rendeletek módosításáról szóló 19/2018. (VII. 27.) AM rendelettel [a továbbiakban: 19/2018. (VII. 27.) AM rendelet] megállapított 6. § (4), (4a), (5) és (7) bekezdését a 19/2018. (VII. 27.) AM rendelet hatálybalépésekor[^64] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^54]: A 23/B. §-t a 19/2018. (VII. 27.) AM rendelet 17. §-a iktatta be.
-[^55]: A hatálybalépés időpontja 2018. július 30.
+[^63]: A 23/B. §-t a 19/2018. (VII. 27.) AM rendelet 17. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2018. július 30.

@@ -32,7 +32,7 @@
 
 ## *** Az oszlop minden esetben töltendő!
 
-7. melléklet az 1/2018. (II. 1.) FM rendelethez[^61]
+7. melléklet az 1/2018. (II. 1.) FM rendelethez[^73]
 
 | 1. |  | Abony |
 
@@ -310,4 +310,4 @@
 
 | 138. |  | Zsámbék |
 
-[^61]: A 7. mellékletet a 61/2019. (XII. 18.) AM rendelet 10. § (2) bekezdése iktatta be.
+[^73]: A 7. mellékletet a 61/2019. (XII. 18.) AM rendelet 10. § (2) bekezdése iktatta be.

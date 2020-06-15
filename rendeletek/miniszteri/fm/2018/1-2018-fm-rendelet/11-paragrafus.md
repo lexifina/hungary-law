@@ -18,7 +18,7 @@ a) amely esetében a műveletet az egyéni terv benyújtását megelőzően kezd
 
 b) amely az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatásban részesült;
 
-c)[^34] amely a b) pontban meghatározott időszakot megelőzően szerkezetátalakítási és átállítási támogatás keretében az ültetvény támberendezésének megújítását célzó támogatásban részesült;
+c)[^39] amely a b) pontban meghatározott időszakot megelőzően szerkezetátalakítási és átállítási támogatás keretében az ültetvény támberendezésének megújítását célzó támogatásban részesült;
 
 d) amely támogatható területnagysága kisebb, mint 0,2 ha;
 
@@ -26,7 +26,7 @@ e) amennyiben a hegybíró igazolása alapján az egyéni tervben megjelölt ter
 
 (3) Az egyéni tervben kizárólag olyan szőlőfajta szerepelhet, amelyet a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló miniszteri rendelet alapján engedélyezett kategóriába soroltak, vagy amelyet a Btv. 2. § 9. pontjának megfelelően a minőségi bortermelést szolgáló kísérleti ültetvény létesítésére szánnak (a továbbiakban: kísérleti szőlőfajta). Egy egyéni tervben legfeljebb 2 ha kísérleti szőlőfajta ültetése vagy átoltása szerepelhet.
 
-(4)[^35] Nem nyújthat be egyéni tervet három borpiaci éven belül az, aki esetében a Kincstár megállapította, hogy művelési kötelezettségének nem tett eleget. A három borpiaci évet a művelési kötelezettség elmaradásának megállapítása napjának borpiaci évétől kell számítani.
+(4)[^40] Nem nyújthat be egyéni tervet három borpiaci éven belül az, aki esetében a Kincstár megállapította, hogy művelési kötelezettségének nem tett eleget. A három borpiaci évet a művelési kötelezettség elmaradásának megállapítása napjának borpiaci évétől kell számítani.
 
-[^34]: A 11. § (2) bekezdés c) pontja a 30/2018. (X. 11.) AM rendelet 16. §-ával megállapított szöveg.
-[^35]: A 11. § (4) bekezdését a 61/2019. (XII. 18.) AM rendelet 6. §-a iktatta be.
+[^39]: A 11. § (2) bekezdés c) pontja a 30/2018. (X. 11.) AM rendelet 16. §-ával megállapított szöveg.
+[^40]: A 11. § (4) bekezdését a 61/2019. (XII. 18.) AM rendelet 6. §-a iktatta be.
