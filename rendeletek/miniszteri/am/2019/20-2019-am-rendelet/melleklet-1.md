@@ -1,3 +1,3 @@
-1. melléklet a 20/2019. (V. 27.) AM rendelethez[^16]
+1. melléklet a 20/2019. (V. 27.) AM rendelethez[^18]
 
-[^16]: Az 1. melléklet a 32/2019. (VII. 8.) AM rendelet 4. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet a 32/2019. (VII. 8.) AM rendelet 4. §-ával megállapított szöveg.

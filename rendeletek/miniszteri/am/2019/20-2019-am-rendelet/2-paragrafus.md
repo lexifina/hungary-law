@@ -1,6 +1,6 @@
 2. § (1) E rendelet alapján a (2) bekezdés szerinti vállalkozás a szárítmány-előállításhoz felhasznált hőenergia-mennyiség után – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) alapján nyújtott támogatásként – vissza nem térítendő támogatásra jogosult.
 
-(2)[^3] Támogatás igénybevételére az a szárítmány-előállító tevékenységet folytató vállalkozás (a továbbiakban: igénylő) jogosult, aki vagy amely
+(2)[^4] Támogatás igénybevételére az a szárítmány-előállító tevékenységet folytató vállalkozás (a továbbiakban: igénylő) jogosult, aki vagy amely
 
 a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett;
 
@@ -20,4 +20,4 @@ f) a támogatási kérelméhez csatolja az európai uniós versenyjogi értelemb
 
 (3) A (2) bekezdés b) pontja szerinti belső nyilvántartást a tárgyévben szigorú számadású bizonylatként kell kezelni.
 
-[^3]: A 2. § (2) bekezdés nyitó szövegrésze a 43/2019. (IX. 20.) AM rendelet 10. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdés nyitó szövegrésze a 43/2019. (IX. 20.) AM rendelet 10. §-ával megállapított szöveg.

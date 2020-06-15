@@ -1,66 +1,26 @@
-## A támogatható fűszernövények jegyzéke
+| 1. | A | B |
 
-|  | A | B |
+| Megnevezés magyarul | Megnevezés latinul |
 
-| 1. | Megnevezés magyarul | Megnevezés latinul |
+| 2. | Tök(mag) | Cucurbitaceae nemzetsége |
 
-| 2. | Medvehagyma | Allium ursinum |
+| 3. | Vad (indián) rizs | Zizania |
 
-| 3. | Kerti kapor | Anethum graveolens |
+| 4. | Kesudió | Anacardium occidentale |
 
-| 4. | Orvosi angyalgyökér | Angelica archangelica |
+| 5. | Földimogyoró (amerikai mogyoró) | Arachis hypogaea |
 
-| 5. | Tárkony | Artemisia dracunculus |
+| 6. | Közönséges mogyoró (európai mogyoró) | Corylus avellana |
 
-| 6. | Barna mustár | Brassica juncea |
+| 7. | Török mogyoró | Corylus colurna |
 
-| 7. | Paprika | Capsicum annuum |
+| 8. | Diófafélék termése | Juglandaceae |
 
-| 8. | Konyhakömény | Carum carvi |
+| 9. | Mandulafa termése | Prunus dulcis, Prunus communis, Prunus amygdalus vagy Amygdalus communis |
 
-| 9. | Sáfrányos szeklice | Carthamus tinctorius |
+| 10. | Pisztáciafa termése | Pistacia |
 
-| 10. | Koriander | Coriandrum sativum |
-
-| 11. | Valódi sáfrány | Crocus sativus |
-
-| 12. | Édeskömény | Foeniculum vulgare |
-
-| 13. | Izsóp | Hyssopus officinalis |
-
-| 14. | Közönséges boróka | Juniperus communis |
-
-| 15. | Babér | Laurus nobilis |
-
-| 16. | Lestyán | Levisticum officinale |
-
-| 17. | Kerti majoránna | Majorana hortensis |
-
-| 18. | Borsmenta | Mentha x piperita |
-
-| 19. | Kerti bazsalikom | Ocimum basilicum |
-
-| 20. | Görög oregano | Origanum vulgare subsp. hirtum |
-
-| 21. | Petrezselyem | Petroselinum crispum |
-
-| 22. | Ánizs | Pimpinella anisum |
-
-| 23. | Rozmaring | Rosmarinus officinalis |
-
-| 24. | Orvosi zsálya | Salvia officialis |
-
-| 25. | Borsikafű | Satureja hortensis |
-
-| 26. | Fehér mustár | Sinapis alba |
-
-| 27. | Fekete mustár | Sinapis nigra |
-
-| 28. | Kerti kakukkfű | Thymus vulgaris |
-
-| 29. | Görögszéna | Trigonella foenum-graecum |
-
-4. melléklet a 20/2019. (V. 27.) AM rendelethez[^17]
+4. melléklet a 20/2019. (V. 27.) AM rendelethez[^20]
 
 A tárgyévben igénybe vehető támogatás mértéke a szárítmány-előállítás céljára felhasznált hőenergia-mennyiség alapján
 
@@ -96,4 +56,4 @@ A tárgyévben igénybe vehető támogatás mértéke a szárítmány-előállí
 
 | 15. | 10 000 000 |  | 66 666 |
 
-[^17]: A 4. melléklet a 38/2019. (VIII. 10.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4. melléklet a 38/2019. (VIII. 10.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
