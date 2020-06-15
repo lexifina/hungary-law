@@ -1,0 +1,67 @@
+## „2. melléklet a 11/2019. (IV. 1.) AM rendelethez
+
+|  | A | B | C | D |
+
+| 1. | Baromfi megnevezés | Időszak | 2019/2020. támogatási évi keret (millió forint) | 2020/2021. támogatási évi keret (millió forint) |
+
+| 2. | növendék csirke, szabadtartásos csirke és gyöngyös | I. negyedév | 1350,00 | 1350,00 |
+
+| 3. | növendék csirke, szabadtartásos csirke és gyöngyös | II. negyedév | 1350,00 | 1350,00 |
+
+| 4. | növendék csirke, szabadtartásos csirke és gyöngyös | III. negyedév | 1350,00 | 1350,00 |
+
+| 5. | növendék csirke, szabadtartásos csirke és gyöngyös | IV. negyedév | 1350,00 | 1350,00 |
+
+| 6. | házi tyúk | I. negyedév | 170,00 | 170,00 |
+
+| 7. | házi tyúk | II. negyedév | 200,00 | 200,00 |
+
+| 8. | házi tyúk | III. negyedév | 170,00 | 170,00 |
+
+| 9. | házi tyúk | IV. negyedév | 170,00 | 170,00 |
+
+| 10. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | I. negyedév | 1700,00 | 925,92 |
+
+| 11. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | II. negyedév | 1750,00 | 1095,55 |
+
+| 12. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | III. negyedév | 853,91 | 773,95 |
+
+| 13. | pecsenyeliba, növendék liba, fiatal liba, pecsenyekacsa, növendék kacsa | IV. negyedév | 630,12 | 738,61 |
+
+| 14. | növendék pulyka | I. negyedév | 710,00 | 710,00 |
+
+| 15. | növendék pulyka | II. negyedév | 710,00 | 710,00 |
+
+| 16. | növendék pulyka | III. negyedév | 650,00 | 650,00 |
+
+| 17. | növendék pulyka | IV. negyedév | 650,00 | 650,00 |
+
+## ”
+
+3. melléklet a 18/2020. (VI. 12.) AM rendelethez
+
+„3a. melléklet a 20/2019. (V. 27.) AM rendelethez
+
+| 1. | A | B |
+
+| Megnevezés magyarul | Megnevezés latinul |
+
+| 2. | Tök(mag) | Cucurbitaceae nemzetsége |
+
+| 3. | Vad (indián) rizs | Zizania |
+
+| 4. | Kesudió | Anacardium occidentale |
+
+| 5. | Földimogyoró (amerikai mogyoró) | Arachis hypogaea |
+
+| 6. | Közönséges mogyoró (európai mogyoró) | Corylus avellana |
+
+| 7. | Török mogyoró | Corylus colurna |
+
+| 8. | Diófafélék termése | Juglandaceae |
+
+| 9. | Mandulafa termése | Prunus dulcis, Prunus communis, Prunus amygdalus vagy Amygdalus communis |
+
+| 10. | Pisztáciafa termése | Pistacia |
+
+”
