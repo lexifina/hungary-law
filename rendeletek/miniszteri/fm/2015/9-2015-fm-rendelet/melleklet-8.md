@@ -60,6 +60,6 @@
 
 ## esetében 250 g/ezer mag értékkel kell számolni.
 
-8. melléklet a 9/2015. (III. 13.) FM rendelethez[^163]
+8. melléklet a 9/2015. (III. 13.) FM rendelethez[^166]
 
-[^163]: A 8. mellékletet a 10/2020. (IV. 3.) AM rendelet 13. §-a hatályon kívül helyezte.
+[^166]: A 8. mellékletet a 10/2020. (IV. 3.) AM rendelet 13. §-a hatályon kívül helyezte.

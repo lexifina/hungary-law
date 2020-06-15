@@ -46,9 +46,11 @@ a) a szántóföldi növényfajok vetőmagvainak előállításáról és forgal
 
 b) a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendelet [a továbbiakban: 50/2004. (IV. 22.) FVM rendelet] 1–3., 5–9. számú mellékletében meghatározott paramétereknek teljeskörűen megfelelő vagy
 
-c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b) pontban meghatározott mellékletekben nem nevesített kultúrák esetében az 50/2004. (IV. 22.) FVM rendelet 19. és 20. §-a szerint minősített, standard szaporítóanyag, amely a termesztésben felhasználható;
+c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b) pontban meghatározott mellékletekben nem nevesített kultúrák esetében az 50/2004. (IV. 22.) FVM rendelet 19. és 20. §-a szerint minősített, standard szaporítóanyag, amely a termesztésben felhasználható,
 
-12.[^15] minősítési eljárás:
+d)[^15] édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. számú mellékletében, citromfű, bazsalikom, kerti kakukkfű, orvosi zsálya, majoranna és közönséges szurokfű vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 4. számú mellékletében meghatározott paramétereknek – a növénytermesztési hatóság által kiállított vizsgálati jegyzőkönyv szerint – teljeskörűen megfelelő szaporítóanyag;
+
+12.[^16] minősítési eljárás:
 
 a) a 48/2004. (IV. 21.) FVM rendelet 1., 3., és 4. számú mellékletében vagy
 
@@ -56,21 +58,23 @@ b) az 50/2004. (IV. 22.) FVM rendelet 1–3., 5–9. számú mellékletében
 
 meghatározott paraméterek teljes körére lefolytatott minősítés vagy
 
-c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b) pontban meghatározott mellékletekben nem nevesített kultúrák esetében az 50/2004. (IV. 22.) FVM rendelet 19. és 20. §-a szerinti, standard szaporítóanyag minősítésére vonatkozó eljárás;
+c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b) pontban meghatározott mellékletekben nem nevesített kultúrák esetében az 50/2004. (IV. 22.) FVM rendelet 19. és 20. §-a szerinti, standard szaporítóanyag minősítésére vonatkozó eljárás,
 
-13.[^16] szaporítóanyag: vetőmag, palánta, dugvány, tősarj, gumó, hagyma vagy hagymagerezd;
+d)[^17] édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. számú mellékletében, citromfű, bazsalikom, kerti kakukkfű, orvosi zsálya, majoranna és közönséges szurokfű vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 4. mellékletében foglalt előírásoknak való megfelelőség megállapítására irányuló eljárás;
 
-14.[^17] támogatási időszak: 2015. január 1-jétől 2020. december 31-ig tartó időszak;
+13.[^18] szaporítóanyag: vetőmag, palánta, dugvány, tősarj, gumó, hagyma vagy hagymagerezd;
 
-15.[^18] tárgyév: a támogatási időszak azon naptári éve, amelynek vonatkozásában a mezőgazdasági termelő a támogatást kérelmezi;
+14.[^19] támogatási időszak: 2015. január 1-jétől 2020. december 31-ig tartó időszak;
 
-16.[^19] tejhasznú tehén: Angelni (85), Ayrshire (14), Borzderes (03), Brown Swiss (88), Dán vörös (61), Egyéb tejhasznú (99), Holstein-fríz (22), Jersey (12), Kosztromai (15), Norvég vörös (62), SMR (60) fajtához vagy tejtermelés céljából kettőshasznú fajtához tartozó, legalább huszonhárom hónapos nőivarú szarvasmarha;
+15.[^20] tárgyév: a támogatási időszak azon naptári éve, amelynek vonatkozásában a mezőgazdasági termelő a támogatást kérelmezi;
 
-17.[^20] termeléshez kötött közvetlen támogatás: az 1307/2013/EU európai parlamenti és tanácsi rendelet 52. cikke szerinti támogatás;
+16.[^21] tejhasznú tehén: Angelni (85), Ayrshire (14), Borzderes (03), Brown Swiss (88), Dán vörös (61), Egyéb tejhasznú (99), Holstein-fríz (22), Jersey (12), Kosztromai (15), Norvég vörös (62), SMR (60) fajtához vagy tejtermelés céljából kettőshasznú fajtához tartozó, legalább huszonhárom hónapos nőivarú szarvasmarha;
 
-18.[^21] tételazonosító: a minősített szaporítóanyag-tétel azonosító adatait tartalmazó egyedi számsor, azonosító szám;
+17.[^22] termeléshez kötött közvetlen támogatás: az 1307/2013/EU európai parlamenti és tanácsi rendelet 52. cikke szerinti támogatás;
 
-19.[^22] tőszámbeállottság: a tárgyévben az adott támogatási jogcím vonatkozásában igényelt területen a termés hozatalára képes egyedek és a telepítési engedélyben meghatározott tőszám szerinti egyedek – telepítési engedély hiányában a területen meghatározó térállásra jellemző tőszám alapján számított egyedek – aránya.
+18.[^23] tételazonosító: a minősített szaporítóanyag-tétel azonosító adatait tartalmazó egyedi számsor, azonosító szám;
+
+19.[^24] tőszámbeállottság: a tárgyévben az adott támogatási jogcím vonatkozásában igényelt területen a termés hozatalára képes egyedek és a telepítési engedélyben meghatározott tőszám szerinti egyedek – telepítési engedély hiányában a területen meghatározó térállásra jellemző tőszám alapján számított egyedek – aránya.
 
 [^1]: Az 1. § 1. pontja a 2/2019. (I. 25.) AM rendelet 2. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pont b) alpontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
@@ -86,11 +90,13 @@ c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b)
 [^12]: Az 1. § 9. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^13]: Az 1. § 10. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^14]: Az 1. § 11. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 1. § 12. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^16]: Az 1. § 13. pontja a 8/2018. (III. 29.) FM rendelet 8. §-ával megállapított szöveg.
-[^17]: Az 1. § 14. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^18]: Az 1. § 15. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^19]: Az 1. § 16. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított, a 13/2017. (III. 17.) FM rendelet 30. § b) pontja szerint módosított szöveg.
-[^20]: Az 1. § 17. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^21]: Az 1. § 18. pontját a 25/2016. (IV. 11.) FM rendelet 44. §-a iktatta be, szövege a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^22]: Az 1. § 19. pontját a 72/2016. (XI. 3.) FM rendelet 3. §-a iktatta be.
+[^15]: Az 1. § 11. pont d) alpontját a 18/2020. (VI. 12.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^16]: Az 1. § 12. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^17]: Az 1. § 12. pont d) alpontját a 18/2020. (VI. 12.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^18]: Az 1. § 13. pontja a 8/2018. (III. 29.) FM rendelet 8. §-ával megállapított szöveg.
+[^19]: Az 1. § 14. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^20]: Az 1. § 15. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^21]: Az 1. § 16. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított, a 13/2017. (III. 17.) FM rendelet 30. § b) pontja szerint módosított szöveg.
+[^22]: Az 1. § 17. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^23]: Az 1. § 18. pontját a 25/2016. (IV. 11.) FM rendelet 44. §-a iktatta be, szövege a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^24]: Az 1. § 19. pontját a 72/2016. (XI. 3.) FM rendelet 3. §-a iktatta be.

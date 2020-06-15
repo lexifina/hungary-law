@@ -4,6 +4,6 @@
 
 (3) A mezőgazdasági termelő a 6. § b) pontja szerinti támogatást nem igényelheti, amennyiben ugyanazon állategyed(ek)re, tárgyévben a 6. § d) pontja szerinti támogatást már igényelte, de a támogatási kérelmét még nem vonta vissza.
 
-(4)[^34] A támogatási összeg kifizetéséről a Kincstár a tárgyévet követő év június 30-áig intézkedik.
+(4)[^36] A támogatási összeg kifizetéséről a Kincstár a tárgyévet követő év június 30-áig intézkedik.
 
-[^34]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § d) pontja szerint módosított szöveg.
+[^36]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § d) pontja szerint módosított szöveg.
