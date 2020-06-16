@@ -1,3 +1,5 @@
-## 27. § A 41/2019. (VIII. 30.) AM rendelet 5. § (2) bekezdés b) pontjában a „tartási hely azonosítót” szövegrész helyébe a „tenyészetkód-azonosítót” szöveg lép.
+## 26–27. §[^12]
 
 ## 12. Záró rendelkezések
+
+[^12]: A 26–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

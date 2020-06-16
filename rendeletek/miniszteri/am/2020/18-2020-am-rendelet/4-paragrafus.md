@@ -1,1 +1,0 @@
-## „d) édeskömény vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 3. számú mellékletében, citromfű, bazsalikom, kerti kakukkfű, orvosi zsálya, majoranna és közönséges szurokfű vonatkozásában az 50/2004. (IV. 22.) FVM rendelet 4. mellékletében foglalt előírásoknak való megfelelőség megállapítására irányuló eljárás;”

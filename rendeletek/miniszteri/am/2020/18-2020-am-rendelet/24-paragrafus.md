@@ -1,3 +1,0 @@
-## 23. § A 20/2019. (V. 27.) AM rendelet 3. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A felhasznált hőenergia-mennyiség éves felhasználását igazoló, a (3) bekezdés a) pontja szerinti számlának tartalmaznia kell az igénylő nevét, címét vagy fogyasztói azonosító számát, az elszámolási időszakot, az átadási pont, fogyasztási hely címét, azonosító számát, az átadott-átvett tüzelőanyag mennyiséget (m3 vagy kg mértékegységben kifejezve), továbbá az égéshőt (kWh/m3 vagy kWh/kg vagy MJ/m3 vagy MJ/kg mértékegységben kifejezve) vagy az energiamennyiséget (kWh vagy MJ mértékegységben kifejezve).”
