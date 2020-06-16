@@ -1,1 +1,3 @@
-46. §
+46. § A Kbvt. 10/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Súlyos vasúti baleset esetén – valamint, ha a közlekedésbiztonsági szerv úgy dönt, hogy vasúti balesettel vagy váratlan vasúti eseménnyel kapcsolatban szakmai vizsgálatot indít – a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat megindításáról szóló döntés meghozatalát követő egy héten belül tájékoztatja az Európai Unió Vasúti Ügynökségét. A tájékoztatás tartalmazza a baleset dátumát, idejét és helyét, valamint annak jellegét és következményeit a halálos áldozatok, személyi sérülések és anyagi károk tekintetében.”
