@@ -22,9 +22,9 @@
 
 1.9. térségi szolgáltatás: az a szolgáltatás, amely esetében a szolgáltatással érintett pályahálózat hossza nem haladja meg a 400 kilométert, vagy amely legfeljebb három megyét érint;
 
-1.10. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró, saját kerekein a vasúti sínen közlekedő jármű. A vasúti pályán történő közlekedés esetén vasúti járműnek minősül a kétéltű jármű is az alkalmazott forgalmi szabályok, valamint a vasúti járművezetőre vonatkozó képzési feltételek szempontjából. A transzeurópai hagyományos és nagy sebességű vasúti rendszerben a vasúti jármű az Átjárhatósági Műszaki Előírások szerinti egy vagy több alrendszerből, vagy ezen alrendszerek egy vagy több részéből áll;
+1.10. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró, saját kerekein a vasúti sínen közlekedő jármű. A vasúti pályán történő közlekedés esetén vasúti járműnek minősül a kétéltű jármű is az alkalmazott forgalmi szabályok, valamint a vasúti járművezetőre vonatkozó képzési feltételek szempontjából. Az uniós vasúti rendszerben a vasúti jármű egy vagy több strukturális és funkcionális alrendszerből áll;
 
-1.11. vasút-villamos (tram-train): az országos vasúti pályahálózaton és városi, helyi vagy elővárosi vasúti pályahálózaton való közlekedésre egyaránt alkalmas vasúti jármű.
+1.11. vasút-villamos (tram-train): olyan vasúti jármű, amelyet a könnyű vasúti pályahálózaton és az országos vasúti pályahálózaton való kombinált használatra terveztek.
 
 2. Vasúti pályákkal, vasúti létesítményekkel, vasúti pályahálózatokkal és azok létesítésével kapcsolatos fogalmak:
 
@@ -70,7 +70,7 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.18. stratégiai jelentőséggel nem bíró vasúti pályahálózat: olyan vasúti pálya vagy pályahálózat, amelynek hossza nem haladja meg a 30 kilométert, és kihasználtsági szintje, valamint a rajta folyó szállítási forgalom nem éri el az elméleti kapacitás 10%-át;
 
-2.19. tároló vágánycsoport: üzembehelyezési engedéllyel rendelkező vasúti járművek két szerződés alapján történő járműmozgás közötti, legfeljebb egyéves időtartamra történő tárolására szolgáló vágányok;
+2.19. tároló vágánycsoport: forgalombahozatali járműengedéllyel rendelkező vasúti járművek két szerződés alapján történő járműmozgás közötti, legfeljebb egyéves időtartamra történő tárolására szolgáló vágányok;
 
 2.20. térségi vasúti pályahálózat: térségi vasúti szolgáltatás végzéséhez szükséges vasúti pályahálózat;
 
@@ -232,15 +232,17 @@ d) a vállalkozás különálló részlegekből áll, magában foglal egy pálya
 
 6. A vasúti rendszer átjárhatóságával kapcsolatos fogalmak:
 
-6.1. Átjárhatósági Műszaki Előírás (ÁME): a kölcsönös átjárhatóságot lehetővé tevő azon műszaki előírások összessége, amelyek az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó műszaki feltételeket és előírásokat szabályozza;
+6.1. Átjárhatósági Műszaki Előírás (ÁME): a kölcsönös átjárhatóságot lehetővé tevő azon előírások összessége, amelyek az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és az uniós vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és az uniós vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy azok részeire vonatkozó műszaki feltételeket és előírásokat szabályozza;
 
-6.2. kölcsönös átjárhatóság: egy vasúti rendszer azon képessége, amely lehetővé teszi az ezen előírt teljesítményt elérő vonatok biztonságos és zavartalan haladását. Ez a képesség azoktól a szabályozási, műszaki és üzemeltetési feltételektől függ, amelyeket az alapvető követelményeknek való megfelelés érdekében be kell tartani;
+6.2. kölcsönös átjárhatóság: egy vasúti rendszer azon képessége, amely lehetővé teszi az ezen előírt teljesítményt elérő vonatok biztonságos és zavartalan haladását;
 
-6.3. nagy sebességű vasúti rendszer: a 200 km/h vagy azt meghaladó sebességű közlekedésre alkalmas vasúti pályahálózat és járművek;
+6.3.
 
 6.4. üzemszerű átjárhatóság: két vasúti pályahálózat olyan tulajdonsága, amely biztosítja a pályahálózatok közötti rendszeres vasúti közlekedés lehetőségét azáltal, hogy a két pályahálózat közötti fizikai összeköttetésen túl a két pályahálózat között a lényeges műszaki paraméterek – a nyomtáv, űrszelvény, tengelyterhelés, jelző- és biztosítóberendezések, az áramellátás módja és a vonatbefolyásoló berendezések –, valamint a vasúti járművekre érvényes műszaki előírások és a pályahálózatokra vonatkozó forgalmi szabályok tekintetében nincs eltérés, vagy – az áramellátás módja, a vonatbefolyásoló berendezések vagy a vasúti járműre érvényes műszaki szabályok és a pályahálózatokra vonatkozó eltérő forgalmi szabályok esetében – ez az eltérés mindkét hálózaton való közlekedésre alkalmas vasúti járművel megoldható;
 
-6.5. nemzeti szabályok: minden olyan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű vasútbiztonsági vagy műszaki követelményeket tartalmazó szabályok összessége, amelynek célja az Átjárhatósági Műszaki Előírások valamint a közös biztonsági célok és közös biztonsági módszerek mellett az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó vasútbiztonsági és műszaki feltételek és előírások szabályozása.
+6.5. nemzeti szabályok: minden olyan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű vasútbiztonsági vagy műszaki követelményeket tartalmazó szabályok összessége, amelynek célja az Átjárhatósági Műszaki Előírások valamint a közös biztonsági célok és közös biztonsági módszerek mellett az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó vasútbiztonsági és műszaki feltételek és előírások szabályozása;
+
+6.6. Előrehaladott fejlesztési stádiumban lévő projekt: bármely olyan projekt, amelynek a tervezési vagy kivitelezési szakasza már elérte azt a pontot, hogy a műszaki előírások módosítása veszélyeztethetné a tervezett projekt életképességét.
 
 7. A vasúti közlekedés biztonságával kapcsolatos fogalmak:
 
@@ -248,17 +250,39 @@ d) a vállalkozás különálló részlegekből áll, magában foglal egy pálya
 
 7.2. biztonságirányítási rendszer: a pályahálózat-működtető vagy a vállalkozó vasúti társaság által az üzemeltetés biztonságos irányítására létrehozott irányítási rendszer, beleértve az azt működtető szervezeti egységet és az e szervezeti egység által meghozott intézkedések összességét;
 
-7.3. közös biztonsági célok: azon biztonsági szint megfogalmazása, amelyet a vasúti rendszer különböző részein (így különösen a hagyományos vasúti rendszer, nagy sebességű vasúti rendszer, kizárólag áruszállításra használt hosszú vasúti alagutak vagy vonalak) és a rendszer egészén meg kell valósítani. A közös biztonsági célokat az utasokkal, a személyzettel – beleértve az alvállalkozók személyzetét is – a vasúti átjárók használóival és más személyekkel kapcsolatos egyedi kockázatokra, és a vasúti létesítményeken tartózkodó illetéktelen személyekkel kapcsolatos egyedi kockázatokra, továbbá a társadalmi kockázatokra vonatkozóan a kockázatelfogadási feltétel fejezi ki;
+7.3. közös biztonsági célok: azok a minimális biztonsági szintek, amelyeket az uniós vasúti rendszer egészén és – amennyiben lehetséges – annak különböző részein (így különösen a hagyományos vasúti rendszeren, a nagysebességű vasúti rendszeren, a hosszú vasúti alagutakban vagy a kizárólag árufuvarozásra használt vonalakon) meg kell valósítani. A közös biztonsági célokat az utasokkal, a személyzettel – beleértve az alvállalkozók személyzetét is – a vasúti átjárók használóival és más személyekkel, valamint a vasúti létesítményeken tartózkodó illetéktelen személyekkel kapcsolatos egyedi kockázatokra, továbbá a társadalmi kockázatokra vonatkozóan a kockázatelfogadási feltétel vagy a kitűzött biztonsági szint fejez ki;
 
-7.4. közös biztonsági módszerek: a biztonsági szintek, a biztonsági célok megvalósítása és más biztonsági követelmények teljesítése értékelésének szabályait meghatározó előírások, amelyek a következőkre terjednek ki:
+7.4. közös biztonsági módszerek: a biztonsági szintek, a biztonsági célok megvalósítására és más, biztonsági követelmények teljesítésére vonatkozó értékelési eljárást meghatározó előírások összessége, amely a következőkre terjed ki:
 
-a) kockázatelemzési és értékelési módszerek,
+a) a kockázatelemzési és -értékelési módszerek,
 
-b) a biztonsági tanúsítványok és biztonsági engedélyek követelményeinek való megfelelés értékelésére szolgáló módszerek, és
+b) a biztonsági tanúsítványok és biztonsági engedélyek követelményeinek való megfelelés értékelésére szolgáló módszerek,
 
-c) annak ellenőrzésére szolgáló módszerek, hogy a nagy sebességű és hagyományos transzeurópai vasúti rendszer strukturális alrendszereinek üzemeltetése és karbantartása megfelel-e a rájuk vonatkozó alapvető követelményeknek. Utóbbiak nem alkalmazhatóak akkor, ha az ÁME-k meghatározzák ezeket a követelményeket;
+c) a közlekedési hatóság által alkalmazandó felügyeleti módszerek, valamint a vállalkozó vasúti társaságok, a pályahálózat-működtetők és a karbantartásért felelős szervezetek által alkalmazandó nyomonkövetési módszerek,
 
-7.5. vasúti rendszer: a hagyományos és a nagy sebességű vasúti rendszerek strukturális és működési alrendszereinek összessége, valamint ezek irányítása és üzemeltetése.
+d) a vasúti üzemeltetők biztonsági szintjének és biztonsági teljesítményének nemzeti és uniós szintű értékelésére vonatkozó módszerek;
+
+e) a biztonsági célok megvalósításának nemzeti és uniós szintű értékelésére vonatkozó módszerek; és
+
+f) minden olyan módszer, amely a biztonságirányítási rendszereknek valamely, uniós szinten harmonizálásra szoruló folyamatára vonatkozik;
+
+7.5. könnyű vasút: olyan városi vagy elővárosi vasúti közlekedési rendszer, amely (az EN 15227:2011 alapján) C-III vagy C-IV törésbiztonsággal rendelkezik, és járműveinek szilárdsága legfeljebb 800 kN (hosszirányú nyomóerő a kapcsolási ponton); a könnyű vasúti rendszerek rendelkezhetnek saját pályatesttel, vagy pályatestük lehet a közúttal közös, és járműveik általában nem vesznek részt a távolsági személyszállítási vagy árufuvarozási forgalomban;
+
+7.6. berakodó: az a vállalkozás, amely a küldeménydarabos árut, a kiskonténert vagy a mobil tartányt a kocsira vagy a konténerbe rakja, valamint a konténert, ömlesztettáru-konténert, MEG-konténert, tankkonténert vagy mobil tartányt a kocsira rakja;
+
+7.7. kirakodó: a konténert, ömlesztettáru-konténert, MEG-konténert, tankkonténert vagy mobil tartányt a kocsiról eltávolító vállalkozás, vagy a küldeménydarabos árut, a kiskonténert vagy a mobil tartányt a kocsiról vagy a konténerből kirakodó vállalkozás, vagy az árukat tartálykocsiból, leszerelhető tartányból, mobil tartányból vagy tankkonténerből, battériás kocsiból vagy MEG-konténerből, valamint ömlesztettáru szállításához való vasúti kocsiból, nagykonténerből vagy kiskonténerből, vagy pedig ömlesztettáru-konténerből kirakó vállalkozás;
+
+7.8. töltő: az a vállalkozás, amely az árut tartányba – beleértve a tartálykocsit, vagy leszerelhető tartánnyal, mobil tartánnyal vagy tankkonténerrel rendelkező kocsit –, ömlesztettáru szállításához való vasúti kocsiba, nagykonténerbe vagy kiskonténerbe, vagy battériás kocsiba vagy MEG-konténerbe tölti;
+
+7.9. lefejtő: az a vállalkozás, amely az árut tartányból – beleértve a tartálykocsit, leszerelhető tartánnyal rendelkező kocsit, mobil tartányt és tankkonténert –, ömlesztettáru szállításához való vasúti kocsiból, nagykonténerből vagy kiskonténerből, vagy battériás kocsiból vagy MEG-konténerből lefejti;
+
+7.10. ajánlatkérő: olyan közjogi vagy magánjogi szervezet, amely alrendszerek tervezését, kivitelezését, korszerűsítését, vagy felújítását rendeli meg;
+
+7.11. a tevékenység jellege: a tevékenységnek kizárólag a személyszállítással – a nagysebességű szolgáltatásokkal vagy azok nélkül –, az árufuvarozással – a veszélyes árukkal kapcsolatos szolgáltatásokkal vagy azok nélkül – vagy a tolatási szolgáltatásokkal jellemezhető típusa;
+
+7.12. a tevékenység mértéke: a tevékenységnek az utasszámmal vagy árumennyiséggel és a vasúti társaság becsült, a vasúti ágazatban dolgozó munkavállalók számában kifejezett méretével jellemezhető mértéke;
+
+7.13. szolgáltatási terület: az egységes biztonsági tanúsítvány szempontjából egy vagy több pályahálózat, amelyeken a vállalkozó vasúti társaság vállalkozó vasúti tevékenységet szándékozik folytatni.
 
 8. A vasúti munkavállalókra vonatkozó fogalmak:
 

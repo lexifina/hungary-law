@@ -52,7 +52,7 @@ f) a munkáltatóval szemben bírságot szabhat ki,
 
 g) a 2007/59/EK irányelv 29. cikk (5) bekezdése szerinti eljárást lefolytatja, ha úgy véli, hogy egy másik tagállam illetékes hatósága által hozott határozat az a)–d) pontokban rögzített feltételeknek nem felel meg.
 
-(9) Ha a közlekedési hatóság a vasútbiztonsági tanúsítvánnyal (kiegészítő tanúsítvánnyal) vagy vasútbiztonsági engedéllyel kapcsolatos jogszabályi rendelkezés megsértését állapítja meg,
+(9) Ha a közlekedési hatóság az egységes biztonsági tanúsítvánnyal vagy vasútbiztonsági engedéllyel kapcsolatos jogszabályi rendelkezés megsértését állapítja meg,
 
 a) a vasútbiztonsági tanúsítvánnyal (kiegészítő tanúsítvány) vagy vasútbiztonsági engedély hiányában, illetve az abban előírt feltételektől eltérően végzett vasúti közlekedési tevékenység végzését megtiltja, és
 
@@ -98,7 +98,7 @@ a) a vasúti pályahálózat vonatkozásában merül fel, a bírság 50 millió 
 
 b) vasúti járművek és gépészeti berendezések vonatkozásában merül fel, a bírság 15 millió forintig,
 
-c) vasútbiztonsági tanúsítvány és engedély vonatkozásában merül fel, a bírság 15 millió forintig,
+c) egységes biztonsági tanúsítvány és engedély vonatkozásában merül fel, a bírság 15 millió forintig,
 
 d) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzése és vizsgáztatása vonatkozásában merül fel, a bírság 3 millió forintig,
 

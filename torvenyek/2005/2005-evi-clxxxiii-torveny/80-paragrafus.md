@@ -6,7 +6,7 @@
 
 a) a műszaki engedély kiadása,
 
-b) a vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása és visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
+b) – ha a vállalkozó vasúti társaság szolgáltatási területe Magyarország területére korlátozódik, és a vállalkozó vasúti társaság a közlekedési hatóság eljárását kérelmezte – az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása, visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
 
 c) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések munkavállalók, vállalkozó vasúti társaságok, pályahálózat-működtetők, oktatók, vizsgabiztosok és képzőszervek által történő betartásának rendszeres ellenőrzése, a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás rendszeres ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak rendszeres ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
 
@@ -20,9 +20,9 @@ g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti s
 
 h) a (2) bekezdés szerinti éves jelentés elkészítése,
 
-i) a vasútbiztonsági tanúsítvány, kiegészítő vasútbiztonsági tanúsítvány megszerzéséhez szükséges tudnivalókról ingyenesen hozzáférhető útmutató készítése,
+i) az egységes biztonsági tanúsítvány megszerzéséhez szükséges tudnivalókról ingyenesen hozzáférhető útmutató készítése,
 
-j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal,
+j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal döntéshozatali kritériumaik uniós szintű harmonizálása érdekében, elsősorban az Ügynökség által létrehozott hálózaton belül,
 
 k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése, amely nem érinti a munkaügyi hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
 
@@ -34,19 +34,23 @@ n) a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgá
 
 o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
 
-p) a vasúti járművek üzembe helyezésének engedélyezése,
+p) a vasúti járművek – e törvényben foglaltak szerinti – forgalomba hozatalának engedélyezése, típusengedélyek kiadása,
 
 q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban a hatósági engedélyezési és ellenőrzési feladatok ellátása,
 
-r) a vasúti járművek üzembe helyezésére vonatkozó nemzeti szabályozása mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának ellenőrzése és a módosítás jóváhagyása,
+r) a vasúti járművek forgalomba hozatalára vonatkozó nemzeti szabályozása mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának ellenőrzése és a módosítás jóváhagyása,
 
 s) a tehervagonok karbantartásáért felelős szervezetek tanúsítása,
 
-t) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet feladatkörébe utal.
+t) együttműködés az Ügynökséggel a forgalombahozatali járműengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke (5) bekezdésének megfelelően, vagy jármű-típusengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 24. cikkének megfelelően történő kiállításában, megújításában, módosításában és visszavonásában, valamint az (EU) 2016/798 európai parlamenti és tanácsi irányelv 10. cikk (5) bekezdése szerinti egységes biztonsági tanúsítványok kiállításában, megújításában, módosításában és visszavonásában, valamint az ÁME-k kidolgozásában és felülvizsgálatában,
 
-(2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Európai Vasúti Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
+u) a vasúti járművezetők munkaidejére, vezetési idejére és pihenőidejére vonatkozó szabályok betartásának vasúti közlekedésbiztonsági szempontból történő ellenőrzése,
 
-(3) A vasúti közlekedési hatóság feladat- és hatáskörébe tartozó ügyekben a kérelem szóban nem terjeszthető elő. A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. A műszaki engedélyezési eljárásra irányuló kérelmet a közlekedési hatósághoz kell benyújtani. A hatóság a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott, a nemzeti vasúti jármű-nyilvántartásba történő adatfelvételi eljárásokon kívül írásban tart kapcsolatot az ügyféllel és az eljárásban részt vevőkkel. A vasúti infrastruktúra engedélyezési eljárásaiban a nagy terjedelmű tervek, dokumentumok benyújtása az elektronikus formán túl legalább egy példányban papíralapon is kötelező.
+v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet feladatkörébe utal.
+
+(2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
+
+(3) A vasúti közlekedési hatóság feladat- és hatáskörébe tartozó ügyekben a kérelem szóban nem terjeszthető elő. A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. A műszaki engedélyezési eljárásra irányuló kérelmet a közlekedési hatósághoz kell benyújtani. A hatóság a vasúti járművek forgalomba hozatali engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott, a nemzeti vasúti jármű-nyilvántartásba történő adatfelvételi eljárásokon kívül írásban tart kapcsolatot az ügyféllel és az eljárásban részt vevőkkel. A vasúti infrastruktúra engedélyezési eljárásaiban a nagy terjedelmű tervek, dokumentumok benyújtása az elektronikus formán túl legalább egy példányban papíralapon is kötelező.
 
 (4) Az ügyfél a közlekedési hatóság felhívására köteles a szakértői vizsgálatokban közreműködni.
 

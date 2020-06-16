@@ -36,7 +36,13 @@
 
 17. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását, az általa kiszabható bírság részletszabályait,
 
-18. a vasúti telekalakítás szabályait, továbbá a vasúti telekalakítási eljárást lefolytató hatóság vagy hatóságok kijelölését, eljárásuk részletes szabályait
+18. a vasúti telekalakítás szabályait, továbbá a vasúti telekalakítási eljárást lefolytató hatóság vagy hatóságok kijelölését, eljárásuk részletes szabályait,
+
+19. a vasút-villamosra alkalmazandó engedélyezési eljárások eljárásjogi szabályait,
+
+20. a vasúti járművek forgalomba hozatalának engedélyezésével, típus engedélyezésével kapcsolatos eljárások eljárásjogi szabályait,
+
+21. az egységes biztonsági tanúsítvánnyal és a vasútbiztonsági engedéllyel összefüggő eljárások eljárásjogi szabályait
 
 rendeletben állapítsa meg.
 
@@ -46,7 +52,7 @@ rendeletben állapítsa meg.
 
 2. a vasúti tevékenység megkezdésének és folytatásának bejelentésére vonatkozó anyagi jogi szabályokat,
 
-3. a vasútbiztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a városi, elővárosi és helyi vasúti szolgáltatások esetén a biztonságirányítási rendszerekre vonatkozó eltérő szabályokat, a biztonsági jelentésre vonatkozó szabályokat, valamint a tevékenység megkezdésének bejelentésére vonatkozó anyagi jogi szabályokat,
+3. az egységes biztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a városi, elővárosi és helyi vasúti szolgáltatások esetén a biztonságirányítási rendszerekre vonatkozó eltérő szabályokat, a biztonsági jelentésre vonatkozó szabályokat, valamint a tevékenység megkezdésének bejelentésére vonatkozó anyagi jogi szabályokat,
 
 4. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
 
@@ -56,9 +62,9 @@ rendeletben állapítsa meg.
 
 7. a vasúti pályahálózat kapacitásának elosztására vonatkozó részletes szabályokat,
 
-8. a vasúti igazgatási szerv, valamint a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó anyagi jogi, valamint a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
+8. a vasúti igazgatási szerv, valamint a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó anyagi jogi, továbbá a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat, valamint az Ügynökség eljárásába bevont közlekedési hatóság nemzeti óradíját az adópolitikáért felelős miniszterrel egyetértésben,
 
-9. a vasúti járművek üzembe helyezése engedélyezésének és időszakos vizsgálatának, hatósági nyilvántartásának anyagi jogi szabályait, valamint a különleges menet részletes szabályait,
+9. a vasúti járművek forgalomba hozatalának engedélyezésével, típus engedélyezésével kapcsolatos eljárások anyagi jogi szabályait,
 
 10. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények
 
@@ -108,7 +114,7 @@ rendeletben állapítsa meg.
 
 27. a vasúti pálya és tartozékai tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
 
-28. a hazai üzembehelyezési engedéllyel rendelkező vasúti vontatójárművekre szerelt sebességmérő és menetíró berendezések hitelesítésére és kalibrálására vonatkozó anyagi jogi szabályokat,
+28. a hazai forgalombahozatali járműengedéllyel rendelkező vasúti vontatójárművekre szerelt sebességmérő és menetíró berendezések hitelesítésére és kalibrálására vonatkozó anyagi jogi szabályokat,
 
 29. a karbantartásért felelős szervezetekre és a karbantartási rendszerre vonatkozó részletes szabályokat,
 
@@ -116,7 +122,7 @@ rendeletben állapítsa meg.
 
 31. a kiszolgáló létesítményben nyújtott szolgáltatások igénybevétele érdekében szükséges, a kiszolgáló létesítmény üzemeltetője által nyújtott naprakész információk felsorolását,
 
-32. a vasút-villamosra vonatkozó műszaki előírásokat, a vasút-villamos üzemeltetésére, továbbá a vasút-villamos közlekedése esetén követendő forgalmi szabályokra és azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat, továbbá a vasút-villamos pályahálózat üzemeltetésére és forgalomirányítására vonatkozó anyagi jogi szabályokat,
+32. a vasút-villamosra vonatkozó műszaki előírásokat, a vasút-villamos üzemeltetésére, a vasút-villamosokra alkalmazandó engedélyezési eljárásokra, továbbá a vasút-villamos közlekedése esetén követendő forgalmi szabályokra és azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat, valamint a vasút-villamos pályahálózat üzemeltetésére és forgalomirányítására vonatkozó anyagi jogi szabályokat,
 
 33. a nagy sebességű vasútvonalak létesítésének, üzemeltetésének részletes szabályait,
 

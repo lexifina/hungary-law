@@ -1,6 +1,6 @@
 ## A vasúti igazgatási szerv együttműködése a külföldi hatóságokkal
 
-79/A. § (1) A vasúti igazgatási szerv információt cserélhet a más EGT-tagállamokban működő nemzeti szabályozó szervezetekkel, a Bizottsággal és az Európai Unió Vasúti Ügynökségével a tevékenységéről, a döntéshozatali elveiről és gyakorlatáról, abból a célból, hogy a vasúti szabályozás döntéshozatali elvei az EGT-n belül összehangolhatók legyenek. E célból részt vehet az igazgatási szervek 2012/34/EU európai parlamenti és tanácsi irányelvben meghatározott hálózatában.
+79/A. § (1) A vasúti igazgatási szerv információt cserélhet a más EGT-tagállamokban működő nemzeti szabályozó szervezetekkel, a Bizottsággal és az Ügynökséggel a tevékenységéről, a döntéshozatali elveiről és gyakorlatáról, abból a célból, hogy a vasúti szabályozás döntéshozatali elvei az EGT-n belül összehangolhatók legyenek. E célból részt vehet az igazgatási szervek 2012/34/EU európai parlamenti és tanácsi irányelvben meghatározott hálózatában.
 
 (2) A vasúti igazgatási szerv részt vehet az EGT-tagállamokban működő nemzeti szabályozó szervezetek olyan együttműködésében, amelynek célja, hogy közös elveket és gyakorlatokat dolgozzanak ki a feladataik ellátása és döntéseik meghozatalára vonatkozóan.
 

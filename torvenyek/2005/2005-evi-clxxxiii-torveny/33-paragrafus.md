@@ -1,19 +1,15 @@
-## VASÚTBIZTONSÁGI TANÚSÍTVÁNY ÉS VASÚTBIZTONSÁGI ENGEDÉLY
+## EGYSÉGES BIZTONSÁGI TANÚSÍTVÁNY ÉS VASÚTBIZTONSÁGI ENGEDÉLY
 
-33. § (1) A belföldön bejegyzett vasúti társaság a vasúti pályahálózatot – a (7) bekezdésben meghatározott kivétellel – kizárólag a közlekedési hatóság által kiállított vasútbiztonsági tanúsítvány birtokában használhatja. A vasútbiztonsági tanúsítvány igazolja, hogy a vasúti társaság létrehozta a biztonsági rendszerét, és a kockázatok korlátozása és a vasúti pályahálózaton biztonságos vasúti közlekedési tevékenység végzése érdekében képes megfelelni az ÁME-kben, valamint a nemzeti szabályokban meghatározott követelményeknek.
+33. § (1) A belföldön bejegyzett vállalkozó vasúti társaság a vasúti pályahálózatot kizárólag az Ügynökség vagy a közlekedési hatóság által – jogszabályban meghatározottak szerint – kiállított egységes biztonsági tanúsítvány birtokában használhatja. Az egységes biztonsági tanúsítvány igazolja, hogy a vállalkozó vasúti társaság létrehozta a biztonsági rendszerét, és a rendeltetés szerinti szolgáltatási területén képes biztosítani a biztonságos működést.
 
-(2) A vasútbiztonsági tanúsítvány a következő részekből áll:
+(2) A vállalkozó vasúti társaság az egységes biztonsági tanúsítvány iránti kérelmében feltünteti a vasúti tevékenysége jellegét és mértékét, amelyekre az egységes biztonsági tanúsítvány vonatkozik, valamint a rendeltetés szerinti szolgáltatási területet.
 
-a) vasútbiztonsági tanúsítvány a jogosult biztonságirányítási rendszerének elfogadásáról,
+(3) Ha az egységes biztonsági tanúsítványt az Ügynökség állítja ki, a kérelmet, valamint a kérelemre, a vonatkozó eljárások állására és kimenetelére, a fellebbezési tanács kéréseire és határozataira vonatkozó információt az (EU) 2016/796 európai parlamenti és tanácsi rendelet 12. cikke szerinti egyablakos információs és kommunikációs rendszeren keresztül kell benyújtani.
 
-b) vasútbiztonsági tanúsítvány a jogosultnak az igénybe venni kívánt vasúti pályahálózaton való biztonságos közlekedéséhez szükséges – az ÁME-k, a nemzeti vasútbiztonsági szabályok és a vasúti pályahálózatok üzemeltetésére vonatkozó szabályok alkalmazásával, a személyzet bizonyítványainak elfogadásával, és a jogosult által használt vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos – sajátos követelmények teljesítése érdekében tett intézkedései elfogadásáról, a jogosult által benyújtott dokumentáció alapján.
+(4) Ha a szolgáltatási terület Magyarország területére korlátozódik, a vállalkozó vasúti társaság kérelmére az egységes biztonsági tanúsítványt kiadása iránti eljárást a közlekedési hatóság folytatja le.
 
-(3) A (2) bekezdés a) pontja szerinti vasútbiztonsági tanúsítványban részletezni kell a vasútbiztonsági tanúsítvány által érintett vasúti tevékenység jellemzőit.
+(5) A közlekedési hatóság az egységes biztonsági tanúsítványon feltünteti, hogy milyen jellegű és mértékű vasúti tevékenységekre, valamint mely szolgáltatási területre vonatkozik. Az egységes biztonsági tanúsítvány a vasúti társaság tulajdonában lévő mellékvágányokra is kiterjedhet, amennyiben azok a biztonságirányítási rendszer hatálya alá tartoznak.
 
-(4) Az országos működési engedéllyel rendelkező vasúti társaság részére a (2) bekezdés a) pontja szerint kiadott vasútbiztonsági tanúsítvány valamennyi EGT-állam területén hatályos az egyenértékű vasúti szolgáltatásokra.
+(6) Ha a vállalkozó vasúti társaság már rendelkezik az Ügynökség által kiállított egységes biztonsági tanúsítvánnyal, és ki kívánja terjeszteni az abban foglalt szolgáltatási területet, vagy ha már rendelkezik a közlekedési hatóság által kiállított egységes biztonsági tanúsítvánnyal, és az abban foglalt szolgáltatási területet ki kívánja terjeszteni egy másik Európai Uniós tagállamra, a további szolgáltatási területre vonatkozó dokumentációt az (EU) 2016/796 európai parlamenti és tanácsi rendelet 12. cikke szerinti egyablakos információs és kommunikációs rendszeren keresztül nyújtja be az Ügynökségnek.
 
-(5) A vasútbiztonsági tanúsítvánnyal már rendelkező vasúti társaságnak a vasútbiztonsági tanúsítvány a hatálya alá nem tartozó vasúti pályahálózat használatához kiegészítő vasútbiztonsági tanúsítványt kell kérnie. A kiegészítő vasútbiztonsági tanúsítványban a közlekedési hatóság azt igazolja, hogy a vasúti társaság e további vasúti pályahálózatra vonatkozóan is megfelel a (2) bekezdés b) pontjában foglalt feltételeknek. E rendelkezést megfelelően alkalmazni kell abban az esetben is, ha más EGT-államban a 95/18/EK irányelvvel összhangban kiadott működési engedély alapján működő és ott vasútbiztonsági tanúsítványt szerzett vasúti társaság Magyarország területén lévő vasúti pályahálózatot kívánja használni.
-
-(6) A kiegészítő vasútbiztonsági tanúsítvány vonatkozásában alkalmazni kell a 35. § (2)–(7) bekezdéseiben foglaltakat.
-
-(7)
+(7) Ha a vállalkozó vasúti társaság már rendelkezik a közlekedési hatóság által kiállított egységes biztonsági tanúsítvánnyal, és Magyarországon belül ki kívánja terjeszteni a szolgáltatási területét, a további szolgáltatási területre vonatkozó, (3) bekezdés szerinti dokumentációt az (EU) 2016/796 európai parlamenti és tanácsi rendelet 12. cikke szerinti egyablakos információs és kommunikációs rendszeren keresztül nyújtja be a közlekedési hatóságnak.

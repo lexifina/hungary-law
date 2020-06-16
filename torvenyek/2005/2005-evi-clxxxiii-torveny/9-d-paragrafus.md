@@ -1,1 +1,1 @@
-9/D. § A vasúti igazgatási szerv haladéktalanul tájékoztatja az Európai Vasúti Ügynökséget az országos vállalkozó vasúti működési engedély vagy ideiglenes működési engedély kiadásáról, módosításáról, felfüggesztéséről vagy visszavonásáról.
+9/D. § A vasúti igazgatási szerv haladéktalanul tájékoztatja az Európai Unió Vasúti Ügynökségét (a továbbiakban: Ügynökség) az országos vállalkozó vasúti működési engedély vagy ideiglenes működési engedély kiadásáról, módosításáról, felfüggesztéséről vagy visszavonásáról.

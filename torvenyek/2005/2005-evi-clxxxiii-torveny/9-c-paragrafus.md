@@ -2,6 +2,6 @@
 
 (2) Ha a vasúti társaság pénzügyi teljesítőképessége kevesebb, mint tizenkettő, de több mint hat hónapra igazolt, a vasúti igazgatási szerv ideiglenes működési engedélyt adhat ki. Ha a vasúti társaság tevékenységére vonatkozóan a pénzügyi teljesítőképessége kevesebb, mint hat hónapra igazolt, a vasúti igazgatási szerv ideiglenes működési engedély kiadása nélkül az engedélyt visszavonja.
 
-(3) Az (1) bekezdés értelmezése szempontjából, ha a vasúti társaság felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal vagy vasútbiztonsági tanúsítvánnyal nem rendelkezik, akkor úgy kell tekinteni, hogy a vasúti társaság működése a vasúti közlekedés biztonságát veszélyezteti.
+(3) Az (1) bekezdés értelmezése szempontjából, ha a vasúti társaság felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal vagy egységes biztonsági tanúsítvánnyal nem rendelkezik, akkor úgy kell tekinteni, hogy a vasúti társaság működése a vasúti közlekedés biztonságát veszélyezteti.
 
 (4) Ha a vasúti igazgatási szerv olyan információról szerez tudomást, amely alapján alappal feltételezheti, hogy a más EGT-tagállamban a kiadott működési engedélyt szerzett vállalkozó vasúti társaság nem teljesíti a működési engedély kiadásának valamely feltételét, a vasúti igazgatási szerv a működési engedélyt kiállító külföldi hatóságot haladéktalanul értesíti.

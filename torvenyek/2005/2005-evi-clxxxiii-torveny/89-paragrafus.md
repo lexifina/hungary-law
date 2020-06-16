@@ -2,15 +2,15 @@
 
 89. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a 88. § (2) bekezdés 1., 2., 8. és 12. pontjában adott felhatalmazások alapján kiadott rendeletekkel együtt; a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló, 2004. április 29-i 2004/49/EK európai parlamenti és tanácsi irányelv, az irányelv 1. cikk d) pontja, 3. cikk j)–o) pontja, valamint 19–25. cikke kivételével;
+a) a vasútbiztonságról szóló, 2016. május 11-i (EU) 2016/798 európai parlamenti és tanácsi irányelv, az irányelv 3. cikk 10–14. pontjai, 20–26. cikkei valamint I. melléklete kivételével;
 
 b) az Európai Vasúti Közösség (CER) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a vasúti szektorban a határokon átnyúló interoperábilis szolgáltatásokat ellátó utazó munkavállalók alkalmazási feltételeinek egyes szempontjairól szóló megállapodásról szóló, 2005. július 18-i 2005/47/EK tanácsi irányelv;
 
 c) a 88. § (1) bekezdés g) pontjában, valamint a 88. § (2) bekezdés 2. és 12. pontjában adott felhatalmazások alapján kiadott rendeletekkel együtt; a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők minősítéséről szóló, 2007. október 23-i 2007/59/EK európai parlamenti és tanácsi irányelv;
 
-d) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról szóló, 2008. június 17-i 2008/57/EK európai parlamenti és tanácsi irányelv 2. cikk b)–c) pontja, 21. cikk (8) bekezdése, 23. cikk (7) bekezdése és 25. cikk (5) bekezdése;
+d) a vasúti rendszer Európai Unión belüli kölcsönös átjárhatóságáról szóló, 2016. május 11-i (EU) 2016/797 európai parlamenti és tanácsi irányelv;
 
-e) a közösségi vasutak biztonságáról szóló 2004/49/EK irányelv (vasúti biztonsági irányelv) módosításáról szóló, 2008. december 16-i 2008/110/EK európai parlamenti és tanácsi irányelv 1. cikk 1. és 2. pontja, 5. pont b) pontja, valamint 7. és 9. pontja;
+e)
 
 f) a 88. § (2) bekezdés 1–6. és 14. pontjában adott felhatalmazás alapján kiadott rendeletekkel együtt; az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv;
 
@@ -32,4 +32,8 @@ f) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról 
 
 g) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a mozdonyvezetők képzésében részt vevő képzési központok elismerésére, a mozdonyvezetők vizsgáztatóinak elismerésére és a vizsgák szervezésére vonatkozó feltételekről szóló, 2011. november 22-i 2011/765/EU határozat;
 
-h) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
+h) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet;
+
+i) az Európai Unió Vasúti Ügynökségéről és a 881/2004/EK rendelet hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/796 európai parlamenti és tanácsi rendelet,
+
+j) a 2012/34/EU európai parlamenti és tanácsi irányelv 11. cikke szerinti gazdasági egyensúlyra irányuló vizsgálat alkalmazására vonatkozó eljárás és kritériumok megállapításáról szóló, 2018. november 20-i (EU) 2018/1795 bizottsági végrehajtási rendelet 11. cikkének (3) bekezdése.
