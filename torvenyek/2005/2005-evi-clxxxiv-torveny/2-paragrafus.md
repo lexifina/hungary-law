@@ -50,7 +50,7 @@ ke) tűzeset,
 
 kf) egyéb vasúti baleset;
 
-l) váratlan vasúti esemény: a súlyos vasúti baleseten és a vasúti baleseten kívül minden olyan esemény, amely a vonatok üzemeltetését és az üzemeltetés biztonságát károsan érinti;
+l) váratlan vasúti esemény: a súlyos vasúti baleseten és a vasúti baleseten kívül minden olyan esemény, amely a vasúti tevékenységek biztonságát károsan érinti;
 
 m) víziközlekedési baleset: nagyon súlyos víziközlekedési balesetnek nem minősülő, az úszólétesítmény működésével kapcsolatban lévő, olyan bekövetkezett – nem szándékos emberi magatartásra visszavezethető – esemény vagy eseménysorozat, amely során
 

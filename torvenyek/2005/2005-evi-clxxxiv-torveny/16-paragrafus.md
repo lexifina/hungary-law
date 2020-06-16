@@ -10,7 +10,7 @@
 
 (5) A zárójelentésben meg kell jelölni az eljárt vizsgálóbizottság vezetőjének, tagjainak, valamint a vizsgálóbizottság munkáját segítő meghatalmazott képviselőknek, tanácsadóknak és az EU rendelet 21. cikk (4) bekezdése szerinti szakértőknek a nevét. A zárójelentést a vizsgálóbizottság tagjai írják alá. Az esetleges véleményeltérésre a zárójelentés aláírásakor utalni kell, és az eltérő véleményt a zárójelentéshez csatolni kell.
 
-(6) A vasúti és víziközlekedési balesetek és események kapcsán készült zárójelentést a közlekedésbiztonsági szerv köteles megküldeni a közlekedési balesetben vagy egyéb közlekedési eseményben érintetteknek, a biztonsági ajánlás címzettjeinek, valamint minden olyan szervezetnek, amely abból, biztonsági szempontból hasznos következtetéseket vonhat le. A zárójelentést meg kell küldeni az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott nemzetközi szervezeteknek, az Európai Bizottságnak és az Európai Vasúti Ügynökségnek.
+(6) A vasúti és víziközlekedési balesetek és események kapcsán készült zárójelentést a közlekedésbiztonsági szerv köteles megküldeni a közlekedési balesetben vagy egyéb közlekedési eseményben érintetteknek, a biztonsági ajánlás címzettjeinek, valamint minden olyan szervezetnek, amely abból, biztonsági szempontból hasznos következtetéseket vonhat le. A zárójelentést meg kell küldeni az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott nemzetközi szervezeteknek, az Európai Bizottságnak és az Európai Unió Vasúti Ügynökségének.
 
 (7) A közlekedésbiztonsági szerv a zárójelentést a honlapján közzéteszi.
 

@@ -18,11 +18,17 @@ e) kezelő személyzet jogosításait kiadó
 
 a) az állami légiközlekedési infrastruktúrát érintő légiközlekedési baleset, súlyos repülőesemény, repülőesemény szakmai vizsgálatában – a közlekedésbiztonsági szerv vizsgálóbizottsága mellé – az állami közlekedésbiztonsági szerv,
 
-b) légiközlekedési infrastruktúrát érintő légiközlekedési baleset, súlyos repülőesemény, repülőesemény szakmai vizsgálatában – az állami közlekedésbiztonsági szerv vizsgálóbizottsága mellé – a közlekedésbiztonsági szerv.
+b) légiközlekedési infrastruktúrát érintő légiközlekedési baleset, súlyos repülőesemény, repülőesemény szakmai vizsgálatában – az állami közlekedésbiztonsági szerv vizsgálóbizottsága mellé – a közlekedésbiztonsági szerv,
+
+c) annak az EU tagállamnak a kivizsgáló szerve, amely a súlyos vasúti balesetben, a vasúti balesetben és a váratlan vasúti eseményben érintett vállalkozó vasúti társaság letelepedési helyének minősül és működését ott engedélyezték,
+
+d) annak az EU tagállamnak a kivizsgáló szerve, amelyben a súlyos vasúti balesetben, a vasúti balesetben és a váratlan vasúti eseményben érintett vasúti járművet nyilvántartásba vették, vagy
+
+e) annak az EU tagállamnak a kivizsgáló szerve, amelynek a területén a súlyos vasúti balesetben, a vasúti balesetben és a váratlan vasúti eseményben érintett vasúti jármű karbantartására sor került.
 
 (2b) A (2) és (2a) bekezdés szerinti meghatalmazott képviselő a vizsgálóbizottság vezetőjének felügyelete alatt a szakmai vizsgálat során jogosult
 
-a) megtekinteni a baleset helyszínét és megvizsgálni a roncsokat,
+a) megtekinteni a baleset helyszínét és megvizsgálni a roncsokat, és részt venni a bizonyítékok összegyűjtésében,
 
 b) javaslatot tenni a tanúmeghallgatás témaköreire és hozzáférni a tanúk által szolgáltatott információkhoz,
 

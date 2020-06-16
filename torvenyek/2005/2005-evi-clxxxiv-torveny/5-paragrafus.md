@@ -1,4 +1,4 @@
-5. § (1) E törvény eltérő rendelkezésének hiányában a közigazgatási hatósági ügynek nem minősülő szakmai vizsgálatra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt megfelelően kell alkalmazni.
+5. § (1) E törvény eltérő rendelkezésének hiányában a közigazgatási hatósági ügynek nem minősülő szakmai vizsgálatra az általános közigazgatási rendtartásról szóló törvényt megfelelően kell alkalmazni.
 
 (2) A szakmai vizsgálattal érintett személyek nem minősülnek ügyfélnek, őket az eljárás egyéb résztvevőjének jogállása illeti meg.
 

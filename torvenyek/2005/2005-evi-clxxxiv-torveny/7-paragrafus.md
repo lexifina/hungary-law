@@ -36,7 +36,9 @@ fb) a közlekedési infrastruktúra üzemeltetőinek, a járművet üzemeltetőn
 
 fc) állami légijármű érintettsége esetén a légijármű üzemben tartójának, továbbá a katonai légijármű érintettsége esetén a honvédelemért felelős miniszternek,
 
-fd) a közlekedési hatóságnak, és az eljárásban érintett más hatóságnak;
+fd) a közlekedési hatóságnak, és az eljárásban érintett más hatóságnak,
+
+fe) súlyos vasúti baleset, vasúti baleset és váratlan vasúti esemény esetén – amennyiben az ajánlás jellege miatt ez szükséges – az Ügynökségének;
 
 g) a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eseményjelentések, elemzések, és a légiközlekedési balesetekre, súlyos repülőeseményekre, repülőeseményekre – ide nem értve a kizárólag állami légijárművel bekövetkezett légiközlekedési baleseteket, súlyos repülőeseményeket, repülőeseményeket – vonatkozó adatok, információk nyilvántartására, nyomon követésére és feldolgozására adatbázist hoz létre és működtet;
 
@@ -52,7 +54,9 @@ l) a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdés
 
 m) ellátja a 376/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (3) bekezdésében meghatározott kapcsolattartási pont feladatait;
 
-n) a közlekedési balesetek és egyéb közlekedési események bejelentése, vagy a szakmai vizsgálat során tudomására jutott információk alapján tematikus vizsgálatot végezhet és a vizsgálat alapján biztonsági ajánlást adhat ki.
+n) a közlekedési balesetek és egyéb közlekedési események bejelentése, vagy a szakmai vizsgálat során tudomására jutott információk alapján tematikus vizsgálatot végezhet és a vizsgálat alapján biztonsági ajánlást adhat ki;
+
+o) az Európai Unió más tagállamainak vasúti kivizsgáló szervezeteivel együttműködve részt vesz egy vasúti szakértői értékelő program kialakításában, és bekapcsolódik abba saját hatékonyságának és függetlenségének nyomon követése érdekében.
 
 (2) A közlekedésbiztonsági szerv az (1) bekezdés g) pontjában megjelölt adatbázisban tartja nyilván az e törvényben meghatározott légiközlekedési balesettel, súlyos repülőeseménnyel és repülőeseménnyel összefüggő bejelentéseket és a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott adatokat, információkat, továbbá a szakmai vizsgálat során az e törvénnyel és a 376/2014/EU európai parlamenti és tanácsi rendelettel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló kormányrendeletben meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, az EU-rendeletben és a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott célokra használhatók fel.
 

@@ -26,7 +26,7 @@ d) biztonsági ajánlásokat dolgozhat ki.
 
 (3) A közlekedésbiztonsági szerv bevételeit működésének fedezetére használja fel, azok más célra nem vonhatók el.
 
-(4) A közlekedésbiztonsági szerv évente beszámol a Kormánynak az előző évben vizsgált balesetek okainak feltárása során szerzett tapasztalatokról, a közlekedés biztonságát érintő folyamatokról, és a közlekedésbiztonság állapotáról, és ezt követően – legkésőbb szeptember 30-áig – a honlapján közzéteszi az előző évben végzett vizsgálatokról, a kiadott biztonsági ajánlásokról és a korábban kiadott biztonsági ajánlásokkal összhangban végrehajtott intézkedésekről készített beszámolóját, és azt az Európai Bizottság, valamint az Európai Vasúti Ügynökség részére megküldi.
+(4) A közlekedésbiztonsági szerv évente beszámol a Kormánynak az előző évben vizsgált balesetek okainak feltárása során szerzett tapasztalatokról, a közlekedés biztonságát érintő folyamatokról, és a közlekedésbiztonság állapotáról, és ezt követően – legkésőbb szeptember 30-áig – a honlapján közzéteszi az előző évben végzett vizsgálatokról, a kiadott biztonsági ajánlásokról és a korábban kiadott biztonsági ajánlásokkal összhangban végrehajtott intézkedésekről készített beszámolóját, és azt az Európai Bizottság, valamint az Európai Unió Vasúti Ügynöksége (a továbbiakban: az Ügynökség) részére megküldi.
 
 (5) A közlekedésbiztonsági szerv vezetője és a helyettesítésére jogosult foglalkoztatott felmenthető, ha a tisztségével való összeférhetetlenségét 30 napon belül nem szüntette meg, illetve tisztségének ellátására tartósan alkalmatlanná vált.
 
@@ -50,7 +50,9 @@ g) a vasúti közlekedésről szóló törvény szerinti bejelentett szervezetek
 
 h) a biztonsági hatóságtól,
 
-i) a többi vasúti szabályozó szervezettől.
+i) a többi vasúti szabályozó szervezettől,
+
+j) az Európai Unió Vasúti Ügynökségétől.
 
 (8) A közlekedésbiztonsági szerv foglalkoztatottja a (7) bekezdésben meghatározott szervekkel
 

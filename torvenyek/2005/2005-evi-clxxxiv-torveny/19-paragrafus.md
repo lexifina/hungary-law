@@ -8,7 +8,7 @@
 
 (1b) Ugyanazon tengeri víziközlekedési baleset vagy tengeri víziközlekedési esemény párhuzamos vizsgálatára csak kivételes esetekben kerülhet sor. Tengeri víziközlekedési baleset vagy tengeri víziközlekedési esemény párhuzamos vizsgálata esetén a közlekedésbiztonsági szerv a miniszter útján értesíti az Európai Bizottságot a párhuzamos vizsgálat indokairól. Párhuzamos vizsgálat során az abban részt vevő más tagállam vizsgálóbizottságával együtt kell működni, és a vizsgálat során gondoskodni kell a kölcsönös tájékoztatásról.
 
-(2) A vizsgálóbizottság kezdeményezésére a közlekedésbiztonsági szerv vezetője felkérheti más államok vizsgáló testületeit vagy nemzetközi szervezetet, így különösen az Európai Vasúti Ügynökséget, hogy
+(2) A vizsgálóbizottság kezdeményezésére a közlekedésbiztonsági szerv vezetője felkérheti más államok vizsgáló testületeit vagy nemzetközi szervezetet, így különösen az Európai Unió Vasúti Ügynökségét, hogy
 
 a) a megfelelő szakismeretek biztosításával, a műszaki ellenőrzések, elemzések vagy értékelések elvégzésével, berendezések, felszerelések és készülékek biztosításával, a roncsok és fedélzeti felszerelések, valamint egyéb, a vizsgálathoz fontos tárgyak szakmai vizsgálatához, az adatrögzítőkről nyert információk kiértékeléséhez, a balesetek adatainak tárolásához és kiértékeléséhez nyújtsanak segítséget,
 
