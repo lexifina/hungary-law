@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2019-07-24 | 2019. évi LXXII. törvény | 2007-17-00-00.47 |
 | 2020-01-01 | 2017. évi CXXXIV. törvény | 2007-17-00-00.48 |
 | 2020-01-02 | 2019. évi LXXXII. törvény | 2007-17-00-00.49 |
+| 2020-06-17 | 2020. évi LII. törvény | 2007-17-00-00.50 |

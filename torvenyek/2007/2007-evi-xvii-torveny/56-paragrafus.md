@@ -8,9 +8,9 @@ c) az intézkedés során arányos csökkentést alkalmaz és a kérelmet kizár
 
 d) a döntését közhiteles nyilvántartás adatainak – a 29/A. § (3) bekezdése alkalmazásával – az ügyfél-nyilvántartási rendszerben történt átvezetésével hozta meg,
 
-e) a kérelmet a (2) bekezdés b), c) vagy f) pontjában meghatározott indokkal utasítja vissza.
+e) a kérelmet a (2) bekezdés b), c), f) vagy n) pontjában meghatározott indokkal utasítja vissza.
 
-(2) A vissza kell utasítani, ha:
+(2) A kérelmet vissza kell utasítani, ha:
 
 a) a kérelmet a keret kimerülését követően nyújtották be;
 

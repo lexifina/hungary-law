@@ -6,4 +6,4 @@
 
 (5)
 
-(6) Az e törvény végrehajtására kiadott jogszabályban meghatározott esetben az ügyfélnek elektronikus úton kell a kérelmet, pályázatot benyújtania, adatszolgáltatási kötelezettségét teljesítenie, illetve elektronikus úton kell kapcsolatot tartania.
+(6)

@@ -2,7 +2,7 @@
 
 57/A. § (1) A jogorvoslati eljárás során a törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntései ellen irányuló fellebbezést kormányrendeletben meghatározottak szerint a miniszter bírálja el.
+(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntése ellen irányuló fellebbezést a miniszter bírálja el.
 
 (1b)
 

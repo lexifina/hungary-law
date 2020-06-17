@@ -2,9 +2,9 @@
 
 38. § (1) Jogszabály vagy a pályázati felhívást tartalmazó közlemény eltérő rendelkezése hiányában a kérelmet a mezőgazdasági és vidékfejlesztési támogatási szervhez kell benyújtani.
 
-(2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
+(2) A (3) bekezdésben foglalt esetek kivételével a kérelmet elektronikus úton kell benyújtani.
 
-(3) Amennyiben az e törvény végrehajtására kiadott jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása iránti kérelem személyesen is, az ügyél-nyilvántartási adatok módosítása iránti kérelem személyes és elektronikus úton is benyújtható.
+(3) Ha az e törvény végrehajtására kiadott rendelet vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a mezőgazdasági és vidékfejlesztési támogatási szerv irányába kérelmet benyújtani és adatszolgáltatási kötelezettséget teljesíteni személyesen, telefax útján vagy postai úton is lehet a rendeletben vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító megállapítása iránti kérelem és az ügyfélnyilvántartási adatok módosítása iránti kérelem személyesen, postai úton és a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített elektronikus nyomtatványon, elektronikus úton is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában vagy a miniszternek az általa vezetett minisztérium honlapján közzétett közleményében meghatározott, a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelem a határidő leteltét követően érkezett meg, de a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
