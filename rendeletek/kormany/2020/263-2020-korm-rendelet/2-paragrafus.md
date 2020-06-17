@@ -12,6 +12,9 @@ c) Osztrák Köztársaság,
 
 d) Szlovák Köztársaság,
 
-e)[^1] Horvát Köztársaság.
+e)[^2] Horvát Köztársaság,
 
-[^1]: A 2. § e) pontját a 264/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+f)[^3] Románia.
+
+[^2]: A 2. § e) pontját a 264/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § f) pontját a 281/2020. (VI. 16.) Korm. rendelet 1. §-a iktatta be.
