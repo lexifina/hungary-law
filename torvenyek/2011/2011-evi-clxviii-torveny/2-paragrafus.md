@@ -36,11 +36,15 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 
 15. jégesőkár: a kockázatviselés helyén termesztett növényekben a jégeső miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 
+15a. jövedelemcsökkenés: a referenciajövedelem és a tárgyévi mezőgazdasági jövedelem különbsége;
+
 16. kárenyhítő juttatás: a 7. § szerinti mezőgazdasági kockázatkezelési pénzeszköz terhére a kockázatközösségben tag mezőgazdasági termelő számára történő kifizetés;
 
 16/a. kármegállapítást támogató szerv: a káreseményt kiváltó időjárási jelenséget és természeti eseményt vagy annak következményét megfigyelő, arról adatot gyűjtő és a kármegállapítást alátámasztó adatot szolgáltató szerv;
 
 17. kockázatviselés helye: az egységes kérelemben feltüntetett azon terület, amely alapján a mezőgazdasági termelő kárenyhítési hozzájárulás-fizetési kötelezettsége megállapításra kerül;
+
+17a. krízisbiztosítási kompenzáció: a krízisbiztosítási pénzeszköz terhére a mezőgazdasági krízisbiztosítási rendszerben tag mezőgazdasági termelő részére történő kifizetés;
 
 18. mezőgazdasági árvíz: a folyók vagy vízfolyások védművekkel határolt területéről nem emberi beavatkozás miatt kilépő víz;
 
@@ -48,13 +52,21 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 
 20. mezőgazdasági biztosítás: a lábon álló növénykultúrára, továbbá a gazdasági céllal tartott, illetve tenyésztett haszonállatra kötött vagyonbiztosítás;
 
+20a. mezőgazdasági jövedelem: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 39. cikk (1) bekezdésében foglaltaknak megfelelően számított jövedelem;
+
 21. mezőgazdasági káresemény: a mezőgazdasági termelő használatában lévő termőföldön a káreseménnyel érintett területen a termesztett növénykultúra 30%-ot meghaladó mértékű várható hozamcsökkenését okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 
 22. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 
-23. mezőgazdasági termelő: az egységes kérelmet benyújtó, a mezőgazdasági és vidékfejlesztési támogatási szerv által kérelemre nyilvántartásba vett ügyfél;
+23. mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a) pontjában és 9. cikkében foglaltaknak megfelelő, a mezőgazdasági és vidékfejlesztési támogatási szerv által kérelemre nyilvántartásba vett ügyfél;
+
+23a. mezőgazdasági termék: az Európai Unió működéséről szóló Szerződés I. számú mellékletében felsorolt, mezőgazdasági termelő által előállított termék, a halászati és akvakultúra termékek kivételével;
 
 24. mezőgazdasági termény termeltetése: a mezőgazdasági termény termelőjével kötött olyan megállapodás, amely keretében a mezőgazdasági termény termelője a mezőgazdasági termény megtermelését segítő szolgáltatást vesz igénybe, és az így megtermelt mezőgazdasági terményt a szolgáltatás nyújtója saját felhasználás vagy továbbértékesítés céljára átveszi;
+
+24a. mezőgazdasági tevékenység: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés c) pontja szerinti tevékenység;
+
+24b. önkéntes befizetés: olyan befizetés, amit természetes vagy jogi személy teljesít az országos jégkármegelőző rendszer vagy a krízisbiztosítási rendszer részére;
 
 25. őszi fagy: a kockázatviselés helyén az őszi időszakban a talajszinttől számított két méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
 
@@ -65,6 +77,8 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 27. referencia hozamérték: a referenciahozam alapján számított átlagtermésnek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott referenciaáron számított értéke;
 
 28. referencia-időszak: a tárgyévet megelőző ötéves időszakból a legmagasabb és a legalacsonyabb hozammal rendelkező kettő év elhagyásával képzett három év;
+
+28a. referenciajövedelem: a mezőgazdasági termelő mezőgazdasági jövedelmének a tárgyévet megelőző háromévi átlaga;
 
 29. szántóföldi zöldség: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. melléklet második rész II. áruosztály 7. árucsoportjába tartozó termékek, továbbá a görög- és a sárgadinnye;
 
