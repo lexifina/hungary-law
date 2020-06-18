@@ -1,5 +1,5 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^232]
+1. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^234]
 
-[^232]: Az 1. melléklet a 40/2019. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^234]: Az 1. melléklet a 40/2019. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg.

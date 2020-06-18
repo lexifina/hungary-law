@@ -10,11 +10,11 @@ b) a támogatott szervezetre, ha a részben lehívott támogatás teljes összeg
 
 (3) A támogatott szervezet a felhívás kézhezvételétől számított 8 napon belül bankszámlakivonat csatolásával igazolhatja a fel nem használt támogatás teljes összegének rendelkezésre állását.
 
-(4)[^140] A támogatott szervezet – a 15. §-ban foglaltak kivételével – az elszámolás, valamint az (1) és (3) bekezdés szerinti igazolás ellenőrző szervezet részére történő benyújtásával egyidejűleg a jóváhagyást végző szervezetnél, a jóváhagyást végző szervezet által erre a célra rendszeresített felületen kérelmezheti a sportfejlesztési program további, legfeljebb egy támogatási időszakkal történő meghosszabbítását.
+(4)[^140] A támogatott szervezet – a 15. §-ban foglaltak kivételével – az elszámolás, valamint az (1) és (3) bekezdés szerinti igazolás ellenőrző szervezet részére történő benyújtásával egyidejűleg a jóváhagyást végző szervezetnél, a jóváhagyást végző szervezet által erre a célra rendszeresített felületen kérelmezheti a sportfejlesztési program további, legfeljebb kettő támogatási időszakkal történő meghosszabbítását.
 
 (4a)[^141] Az (1a) bekezdés a) vagy b) pontjában meghatározott támogatás igénybevételére jogosult szervezet vagy támogatott szervezet a (4) bekezdésben meghatározott igazolás benyújtása nélkül is kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program további meghosszabbítását.
 
-(4b)[^142] A támogatott szervezet – a 15. §-ban foglaltak kivételével, a (4a) bekezdésben foglaltakra is tekintettel – az ingatlan-fejlesztést érintő tárgyi eszköz beruházás, felújítás jogcím esetén a jóváhagyást végző szervezetnél az adott támogatási időszak vonatkozásában az elszámolás, valamint az (1) és (3) bekezdés szerinti igazolás ellenőrző szervezet részére történő benyújtásával egyidejűleg kérelmezheti a sportfejlesztési program összesen legfeljebb négy támogatási időszakkal történő meghosszabbítását.
+(4b)[^142] A támogatott szervezet – a 15. §-ban foglaltak kivételével, a (4a) bekezdésben foglaltakra is tekintettel – az ingatlan-fejlesztést érintő tárgyi eszköz beruházás, felújítás jogcím esetén a jóváhagyást végző szervezetnél az adott támogatási időszak vonatkozásában az elszámolás, valamint az (1) és (3) bekezdés szerinti igazolás ellenőrző szervezet részére történő benyújtásával egyidejűleg kérelmezheti a sportfejlesztési program összesen legfeljebb öt támogatási időszakkal történő meghosszabbítását.
 
 (5)[^143] Ha a jóváhagyást végző szervezet a szakszövetség, a támogatott szervezet a (4) bekezdés szerinti kérelem 1 példányát az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet részére is megküldi.
 
@@ -47,9 +47,9 @@ b) a támogatott szervezetre, ha a részben lehívott támogatás teljes összeg
 [^137]: A 14. § (1) bekezdése a 134/2013. (V. 9.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § o) pontja szerint módosított szöveg.
 [^138]: A 14. § (1a) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (9) bekezdése iktatta be.
 [^139]: A 14. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 567. § c) pontja, a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
-[^140]: A 14. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 327. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^140]: A 14. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 327. § (5) bekezdésével megállapított, a 284/2020. (VI. 17.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
 [^141]: A 14. § (4a) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^142]: A 14. § (4b) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 25/2020. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^142]: A 14. § (4b) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 25/2020. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 284/2020. (VI. 17.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^143]: A 14. § (5) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
 [^144]: A 14. § (6) bekezdése a 96/2016. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 164/2017. (VI. 28.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
 [^145]: A 14. § (6a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
