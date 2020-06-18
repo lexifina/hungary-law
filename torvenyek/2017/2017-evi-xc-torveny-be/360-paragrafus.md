@@ -2,11 +2,11 @@
 
 360. § (1) Az eljárási cselekményről a jegyzőkönyvet egyidejűleg kell elkészíteni.
 
-(2) Az ügyészség és a nyomozó hatóság gondoskodik arról, hogy a gyanúsított, a tanú és a tolmács a jegyzőkönyv aláírása előtt annak tartalmát megismerje. Ha a gyanúsított, a tanú és a tolmács a jegyzőkönyv tartamának megismerését megtagadja, úgy kell tekinteni, mint aki a jegyzőkönyv aláírását tagadta meg.
+(2) Az ügyészség és a nyomozó hatóság gondoskodik arról, hogy a jegyzőkönyv hitelesítése előtt annak tartalmát a jogszabályban meghatározott, az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy (a továbbiakban: hitelesítésben való közreműködésre köteles személy) megismerje. Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv tartalmának megismerését megtagadja, úgy kell tekinteni, mint aki a jegyzőkönyv hitelesítésében való közreműködést tagadta meg.
 
-(3) A jegyzőkönyvet az eljárási cselekményt végző ügyész vagy nyomozó hatóság tagja és a jegyzőkönyvvezető aláírja.
+(3) Az észrevétlenül nem megváltoztatható módon lezárt jegyzőkönyvet az eljárási cselekményt végző ügyész vagy nyomozó hatóság tagja a hitelesítésben való közreműködésre köteles személlyel együtt jogszabályban meghatározott módon hitelesíti.
 
-(4) A gyanúsított, a tanú és a tolmács a jegyzőkönyv minden oldalát aláírja. Ha a gyanúsított, a tanú vagy a tolmács a jegyzőkönyv aláírását megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát a jegyzőkönyvben fel kell tüntetni.
+(4) Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv hitelesítésében való közreműködést megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát jogszabályban meghatározott módon rögzíteni kell.
 
 (5) Folyamatos hangfelvétel vagy kép- és hangfelvétel esetén a felvételt az ügyiratok között kell kezelni.
 

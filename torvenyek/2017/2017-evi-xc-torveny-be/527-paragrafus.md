@@ -10,8 +10,8 @@ c) a tárgyalást az 518. § (3) bekezdése alapján meg kell ismételni,
 
 d) a tanú a 181. § alapján írásban tett vallomást, és a tanú tárgyaláson történő kihallgatását a bíróság nem tartja szükségesnek.
 
-(2) Az (1) bekezdésben meghatározott eseteken kívül az egyesbíró vagy a tanács elnöke a tanúnak a korábban tanúként tett vallomását indítványra felolvassa, lényegét ismerteti vagy a jegyzőkönyvvezetővel felolvastatja, ha
+(2) Az (1) bekezdésben meghatározott eseteken kívül az egyesbíró vagy a tanács elnöke hivatalból vagy indítványra a tanú korábban tett vallomásának lényegét ismerteti, a vallomását felolvassa vagy a jegyzőkönyvvezetővel felolvastatja,
 
-a) a tanú tárgyaláson történő kihallgatását a bíróság nem tartja szükségesnek és azt a vádlott vagy a védő sem indítványozza, vagy
+a) annak érdekében, hogy a 163. § (4) bekezdés c) pontjának alkalmazhatóságát tisztázza, vagy
 
-b) azt e törvény lehetővé teszi.
+b) ha a tanú vallomása szükséges a bizonyításhoz, de a tanú tárgyaláson történő kihallgatása nem indokolt, azt a bíróság sem tartja szükségesnek, és azt az ügyész, a vádlott vagy a védő sem indítványozza.

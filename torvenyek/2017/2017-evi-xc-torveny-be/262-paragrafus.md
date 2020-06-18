@@ -1,8 +1,8 @@
 262. § (1) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve kizárólag az ügyészség engedélyével kérhet adatszolgáltatást
 
-a) az adóhatóságtól,
+a)
 
-b) a vámhatóságtól,
+b)
 
 c) az elektronikus hírközlési szolgáltatótól,
 

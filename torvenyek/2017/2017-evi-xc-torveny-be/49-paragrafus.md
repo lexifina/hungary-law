@@ -16,10 +16,10 @@ a) a védő a távolmaradását előzetesen kimentette, azonban helyettesítés�
 
 b) az eljárási cselekmény elhalasztása az eljárási cselekmény eredményes elvégzését veszélyeztetné, vagy a büntetőeljárás lefolytatását jelentősen késleltetné.
 
-(3) Helyettes védő kirendelése esetén a bírósági eljárásban a terhelt védőjének távollétében nem lehet befejezni a bizonyítási eljárást, a helyettes védő perbeszédet nem tarthat.
+(3) Helyettes védő kirendelése esetén a bírósági eljárásban a terhelt védőjének távollétében nem lehet befejezni a bizonyítási eljárást, a helyettes védő perbeszédet nem tarthat, kivéve, ha a terhelt ehhez hozzájárul.
 
-(4) A helyettes védő kirendelésére a védő kirendelésére vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az eljáró védőt a kirendelő bíróság, ügyészség vagy nyomozó hatóság jelöli ki.
+(4) A helyettes védő kirendelésére a védő kirendelésére vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az eljáró védőt a kirendelő bíróság, ügyészség vagy nyomozó hatóság jelöli ki. Helyettes védőként az eljárási cselekményen jelen lévő, más bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy terhelt védőjeként eljáró ügyvéd is kijelölhető, feltéve, hogy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyek vagy terheltek érdekei nem ellentétesek.
 
-(5) A helyettes védő kirendelésének hatálya a védő távollétében lefolytatott eljárási cselekmény befejezéséig tart.
+(5) A helyettes védő kirendelésének hatálya a védő távollétében lefolytatott eljárási cselekmény befejezéséig tart. A 47. § (1) bekezdése esetén a helyettes védő a nyomban egymást követően tartott eljárási cselekményeken mindaddig eljárhat, amíg a kirendelt védő meg nem jelenik vagy nem lép kapcsolatba az eljáró ügyészséggel, nyomozó hatósággal.
 
 (6) A helyettes védő díjára és költségeinek megtérítésére a kirendelt védőre vonatkozó rendelkezéseket kell alkalmazni.
