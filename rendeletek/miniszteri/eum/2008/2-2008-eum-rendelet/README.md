@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-2-20-0B
 | 2017-11-01 | 2008-2-20-0B.12 | 29/2017. (X. 31.) EMMI rendelet |
 | 2019-03-02 | 2008-2-20-0B.13 | 5/2019. (III. 1.) EMMI rendelet |
 | 2020-05-08 | 2008-2-20-0B.14 | 18/2020. (V. 7.) EMMI rendelet |
+| 2020-06-18 | 2008-2-20-0B.15 | 18/2020. (V. 7.) EMMI rendelet |

@@ -80,7 +80,7 @@ d) csökkentett cukortartalmú vagy
 
 e) csökkentett szénhidráttartalmú,
 
-34.[^24] a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet által elrendelt veszélyhelyzet időtartama alatt az egyéni védőeszköznek minősülő FFP1, FFP2 és FFP3 szűrőosztályú légzésvédők.
+34.[^24] egyéni védőeszköznek minősülő FFP1, FFP2 és FFP3 szűrőosztályú légzésvédők.
 
 [^13]: A 4. § a 3/2015. (I. 14.) EMMI rendelet 23. §-ával megállapított szöveg.
 [^14]: A 4. § 1. pontja a 23/2015. (IV. 28.) EMMI rendelet 95. § b) pontja szerint módosított szöveg.
@@ -93,4 +93,4 @@ e) csökkentett szénhidráttartalmú,
 [^21]: A 4. § 31. pontját az 5/2019. (III. 1.) EMMI rendelet 1. §-a iktatta be.
 [^22]: A 4. § 32. pontját az 5/2019. (III. 1.) EMMI rendelet 1. §-a iktatta be.
 [^23]: A 4. § 33. pontját az 5/2019. (III. 1.) EMMI rendelet 1. §-a iktatta be.
-[^24]: A 4. § 34. pontját a 18/2020. (V. 7.) EMMI rendelet 1. §-a iktatta be.
+[^24]: A 4. § 34. pontját a 18/2020. (V. 7.) EMMI rendelet 1. §-a iktatta be, szövege a 21/2020. (VI. 17.) EMMI rendelet 6. §-ával megállapított szöveg.
