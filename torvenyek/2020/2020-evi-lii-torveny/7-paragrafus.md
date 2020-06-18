@@ -1,3 +1,0 @@
-7. § A Támtv. 38. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha az e törvény végrehajtására kiadott rendelet vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a mezőgazdasági és vidékfejlesztési támogatási szerv irányába kérelmet benyújtani és adatszolgáltatási kötelezettséget teljesíteni személyesen, telefax útján vagy postai úton is lehet a rendeletben vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító megállapítása iránti kérelem és az ügyfélnyilvántartási adatok módosítása iránti kérelem személyesen, postai úton és a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített elektronikus nyomtatványon, elektronikus úton is benyújtható.”
