@@ -1,0 +1,1 @@
+## „(9) EÖI területeként az ingatlan-nyilvántartásba a hasznos alapterületet kell bejegyezni. Az EÖI-n belüli szintek közötti közlekedést szolgáló szintkülönbség-áthidalók területét az EÖI hasznos alapterületébe egyszer kell beszámítani.”

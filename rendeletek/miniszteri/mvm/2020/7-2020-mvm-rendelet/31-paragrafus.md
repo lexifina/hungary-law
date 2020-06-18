@@ -1,0 +1,1 @@
+## „(4) Nem kezdeményezhető szakmaetikai panasz az ingatlanügyi hatóság hatósági eljárásával kapcsolatban. A sérelmezett tevékenység vagy mulasztás bekövetkeztétől számított két éven túl előterjesztett szakmaetikai panasz érdemben nem vizsgálható.”
