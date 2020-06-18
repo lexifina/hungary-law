@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-95-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 2009-95-00-00.9 |
 | 2018-01-01 | 2017. évi L. törvény | 2009-95-00-00.10 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2009-95-00-00.11 |
+| 2020-06-18 | 2020. évi LVIII. törvény | 2009-95-00-00.12 |

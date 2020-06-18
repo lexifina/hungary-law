@@ -6,7 +6,9 @@ a) kötelezettségvállaló nyilatkozata nem terjed ki valamennyi feltárt jogs�
 
 b) ugyanezen jogsértő magatartása vonatkozásában a mezőgazdasági igazgatási szerv korábban már hozott az (1) bekezdés szerinti döntést vagy a (4) bekezdés szerint termékpálya-felügyeleti bírságot szabott ki; vagy
 
-c) jogsértő magatartása kirívóan súlyos vagy a beszállítók széles körét érintő érdeksérelmet, illetve kárt okozott.
+c) jogsértő magatartása kirívóan súlyos vagy a beszállítók széles körét érintő érdeksérelmet, illetve kárt okozott;
+
+d) ellen a 3. § (2) bekezdés x) pontjának alkalmazása miatt folyik az eljárás.
 
 (2) Az (1) bekezdés szerinti végzés meghozatala nem zárja ki, hogy az ügyben – a körülmények lényeges változása miatt, illetve akkor, ha a végzés a döntés meghozatala szempontjából fontos tény félrevezető közlésén alapult – újabb eljárás kerüljön megindításra. Az újabb eljárás során rendelkezni kell a korábban az (1) bekezdés alapján hozott végzésről.
 
