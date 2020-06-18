@@ -11,3 +11,11 @@ b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása �
 (4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
 
 (5) Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított hatvan napon belül az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv dönt.
+
+(6) Kiemelt járványügyi érdekből az adott járvánnyal összefüggő beavatkozással nem járó vizsgálatnak minősülő orvostudományi kutatásba (a továbbiakban: kutatás) bevonni kívánt cselekvőképes személy telekommunikációs eszköz útján is tájékoztatható a 159. § (3) bekezdésében foglaltakról.
+
+(7) A (6) bekezdés szerinti kutatásban való részvételéhez a beleegyezését – a 159. § (1) bekezdés e) pontjában foglaltakon túl – telekommunikációs eszköz útján is megteheti és kutatásban való részvételéhez adott beleegyezését – a 159. § (3) bekezdés a) pontja alapján – telekommunikációs eszköz útján is visszavonhatja.
+
+(8) A kutatásban való részvételéhez adott beleegyezését az érintett személy kiemelt járványügyi érdek megszűnését követően is visszavonhatja telekommunikációs eszköz útján.
+
+(9) A (6)–(8) bekezdés alkalmazásában telekommunikációs eszköz minden olyan eszköz, amely alkalmas a tájékoztatás, illetve a nyilatkozat utólag ellenőrizhető módon történő megtételére, így különösen a hangfelvétel rögzítésére alkalmas eszköz.
