@@ -1,1 +1,0 @@
-## 4. § Az előre nem látható, elháríthatatlan oknál fogva elmaradt 2019. évi minősítő vizsgát és minősítési eljárást a 2020. évben 2020. december 31-ig kell megszervezni, amennyiben az a 2. § szerint nem kerül megszervezésre.
