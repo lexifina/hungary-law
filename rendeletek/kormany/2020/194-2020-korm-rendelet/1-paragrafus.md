@@ -1,3 +1,0 @@
-1. § (1) Az egészség és élet megóvása, valamint a nemzetgazdaság helyreállítása érdekében elrendelt veszélyhelyzettel kapcsolatos rendkívüli intézkedésekről szóló 81/2020. (IV. 1.) Korm. rendelet 4. § (1) bekezdése szerinti rendészeti országos rendőrfőkapitány-helyettes által meghozható méltányossági döntés iránti kérelem kizárólag elektronikus úton terjeszthető elő.
-
-(2) Az (1) bekezdés szerinti elektronikus kérelem formai és tartalmi követelményeit az országos rendőrfőkapitány határozatban állapítja meg. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 89. § (2) bekezdésétől eltérően a határozatról készült közleményt a Hivatalos Értesítőben kell közzétenni. A határozat ellen jogorvoslatnak nincs helye, valamint bíróság előtt nem támadható meg.
