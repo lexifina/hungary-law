@@ -1,0 +1,1 @@
+340/B. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje az egészségügyi válsághelyzet idején a hivatásos állományra és a rendvédelmi igazgatási alkalmazotti állományra vonatkozó különös szabályok alkalmazásának bevezetését.

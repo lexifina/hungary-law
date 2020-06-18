@@ -63,25 +63,3 @@ I. A rendvédelmi alkalmazott
 II. Képzettség, szakképzettség
 
 ## – legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
-
-## – szakképzettsége(i)
-
-## – iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
-
-## – tudományos fokozata
-
-## – idegennyelv-ismerete
-
-III. Korábbi igazgatási jogviszonyok
-
-## – a korábbi igazgatási jogviszonyban töltött időtartamok megnevezése,
-
-## – a korábbi munkahely megnevezése,
-
-## – a megszűnés módja, időpontja
-
-IV. A jelenlegi igazgatási jogviszony adatai
-
-## – a rendvédelmi igazgatási szolgálati igazgatási jogviszony kezdete
-
-## – a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
