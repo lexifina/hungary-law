@@ -6,7 +6,7 @@
 
 a) a gazdasági szervezettel rendelkező költségvetési szerv kiadási előirányzatai terhére vállalt kötelezettség esetén – az e) pontban meghatározott kivétellel – a gazdasági vezető vagy az általa írásban kijelölt, a költségvetési szerv alkalmazásában álló személy,
 
-b)[^218] a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve esetén a 9. § (1), (6), (7) vagy (8) bekezdése szerinti szervezeti egység vezetője vagy az általa írásban kijelölt, a kötelezettséget vállaló szerv alkalmazásában álló személy,
+b)[^218] a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve esetén a 9. § (1), (6), (7) vagy (8) bekezdése szerinti szervezeti egység vezetője vagy az általa írásban kijelölt, a kötelezettséget vállaló szerv alkalmazásában álló személy, az 1/D. § (1) bekezdés b) pontja szerinti központi kezelésű előirányzat esetén a fejezetet irányító szerv vezetője által írásban kijelölt, a kezelő szerv alkalmazásában álló személy,
 
 c)[^219] a gazdasági szervezettel nem rendelkező költségvetési szerv esetén
 
@@ -40,7 +40,7 @@ k) a térségi fejlesztési tanács esetén a munkaszervezet gazdasági vezetőj
 
 (4)[^228] Ha a kötelezettségvállalásra elektronikus aláírással ellátott dokumentumban kerül sor, a pénzügyi ellenjegyzés az e dokumentumnak a pénzügyi ellenjegyző legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (2) bekezdés szerinti írásos kijelölés az arra jogosult legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
 
-[^218]: Az Ávr. 55. § (2) bekezdés b) pontja a 74/2013. (III. 11.) Korm. rendelet 32. § 8. pontja szerint módosított szöveg.
+[^218]: Az Ávr. 55. § (2) bekezdés b) pontja a 284/2020. (VI. 17.) Korm. rendelet 49. §-ával megállapított szöveg.
 [^219]: Az Ávr. 55. § (2) bekezdés c) pontja a 20/2015. (II. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^220]: Az 55. § (2) bekezdés c) pont cd) alpontját a 340/2019. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
 [^221]: Az Ávr. 55. § (2) bekezdés d) pontját a 20/2015. (II. 17.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
