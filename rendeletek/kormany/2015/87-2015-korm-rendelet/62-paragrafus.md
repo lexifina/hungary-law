@@ -16,7 +16,7 @@ e) az írásbeli feladatok megoldásához szükséges speciális eszközök, ber
 
 f) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
 
-g)[^183] a hallgató tanulmányai alatt személyi segítő biztosítása.
+g)[^184] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (3) Hallássérült (siket, nagyothalló) hallgató esetében alkalmazható kedvezmények:
 
@@ -32,7 +32,7 @@ e) minden vizsgáztatás alkalmával segédeszközök, vizuális szemléltetés 
 
 f) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
 
-g)[^184] a hallgató tanulmányai alatt személyi segítő, jegyzetelő tolmács, jelnyelvi tolmács biztosítása.
+g)[^185] a hallgató tanulmányai alatt személyi segítő, jegyzetelő tolmács, jelnyelvi tolmács biztosítása.
 
 (4) Látássérült (vak, aliglátó, gyengénlátó) hallgató esetében alkalmazható kedvezmények:
 
@@ -48,7 +48,7 @@ e) az előadások, gyakorlatok és vizsgák alkalmával a kérdések, tételek h
 
 f) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
 
-g)[^185] a hallgató tanulmányai alatt személyi segítő biztosítása.
+g)[^186] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (5) Beszédfogyatékos (diszfázia, diszlália, diszfónia, dadogás, hadarás, afázia, orrhangzós beszéd, dizartria, mutizmus, súlyos beszédészlelési és beszédmegértési zavar, centrális pöszeség, megkésett beszédfejlődés) hallgató esetében alkalmazható kedvezmények:
 
@@ -58,7 +58,7 @@ b) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
 
 c) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
 
-d)[^186] a hallgató tanulmányai alatt személyi segítő biztosítása.
+d)[^187] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (6) Pszichés fejlődési zavarral küzdő hallgató esetében alkalmazható kedvezmények:
 
@@ -96,7 +96,7 @@ cg) az egyéni sajátosságok függvényében a szóbeli vizsgáztatás során �
 
 ch) az előadások, gyakorlatok és vizsgák alkalmával a kérdések, tételek hanghordozó eszközön, digitálisan történő hozzáférhetősége,
 
-ci)[^187] a hallgató tanulmányai alatt személyi segítő biztosítása;
+ci)[^188] a hallgató tanulmányai alatt személyi segítő biztosítása;
 
 d) a magatartásszabályozási zavarral (szocio-adaptív folyamatok zavaraival, az érzelmi kontroll, ön-, vagy mások felé irányuló agresszió, a szorongás, az én-szabályozás gyengeségét mutató magatartásjellemzők, az alkalmazkodóképesség, a célirányos viselkedés, az önszervezés, valamint a metakogníció eltérő fejlődésével) küzdő hallgatónak:
 
@@ -110,7 +110,7 @@ dd) a szóbeli vizsgáztatás során – hallgatói igény esetén – a kérdé
 
 de) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő,
 
-df)[^188] a hallgató tanulmányai alatt személyi segítő biztosítása.
+df)[^189] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (7) Az autizmussal élő hallgató esetében alkalmazható kedvezmények:
 
@@ -126,7 +126,7 @@ e) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
 
 f) a fejlődési zavarából következő nehézségek miatt egyes gyakorlati követelmények alóli mentesítés, vagy ezek teljesítésének megfelelő, nem gyakorlati feladatokkal való helyettesítése,
 
-g)[^189] a hallgató tanulmányai alatt személyi segítő biztosítása.
+g)[^190] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (8) A hosszabb felkészülési időt a nem fogyatékossággal élő hallgatókra megállapított időtartamhoz képest legalább 30%-kal hosszabb időtartamban kell megállapítani.
 
@@ -134,15 +134,15 @@ g)[^189] a hallgató tanulmányai alatt személyi segítő biztosítása.
 
 (10) Indokolt esetben a hallgató kérelmére, a szakvélemény alapján a felsőoktatási intézmény a (2)–(7) bekezdésben szabályozott kedvezményektől eltérő, további vagy más kedvezményt is biztosíthat a hallgató részére.
 
-(11)[^190] A nyelvvizsga szintje alóli mentesítés a doktori képzés tekintetében nem illeti meg a doktori képzésre jelentkező hallgatót, a doktorandusz hallgatót és a doktorjelöltet. A nyelvvizsga egy része alóli mentesség azonban a szakértői véleményben megállapított fogyatékosság típusától függően illeti meg a doktori képzésre jelentkező hallgatót, a doktorandusz hallgatót és a doktorjelöltet.
+(11)[^191] A nyelvvizsga szintje alóli mentesítés a doktori képzés tekintetében nem illeti meg a doktori képzésre jelentkező hallgatót, a doktorandusz hallgatót és a doktorjelöltet. A nyelvvizsga egy része alóli mentesség azonban a szakértői véleményben megállapított fogyatékosság típusától függően illeti meg a doktori képzésre jelentkező hallgatót, a doktorandusz hallgatót és a doktorjelöltet.
 
 (12) A nyelvvizsga vagy annak egy része, illetve szintje alóli mentesítés megilleti azt a fogyatékossággal élő volt hallgatót, aki záróvizsgát tett és hallgatói jogviszonya megszűnt, de a szakképzettség megszerzéséhez szükséges nyelvvizsga kötelezettségét nem teljesítette.
 
-[^183]: A 62. § (2) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^184]: A 62. § (3) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^185]: A 62. § (4) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^186]: A 62. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^187]: A 62. § (6) bekezdés c) pont ci) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^188]: A 62. § (6) bekezdés d) pont df) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^189]: A 62. § (7) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^190]: A 62. § (11) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^184]: A 62. § (2) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^185]: A 62. § (3) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^186]: A 62. § (4) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^187]: A 62. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^188]: A 62. § (6) bekezdés c) pont ci) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^189]: A 62. § (6) bekezdés d) pont df) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^190]: A 62. § (7) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
+[^191]: A 62. § (11) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 64. §-ával megállapított szöveg.

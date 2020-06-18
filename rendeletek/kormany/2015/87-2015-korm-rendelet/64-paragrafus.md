@@ -1,4 +1,4 @@
-64. § (1)[^194] A hallgató fogyatékosságára tekintettel a 63. § (1) bekezdése szerinti szakértői vélemény alapján kérheti a tanulmányi kötelezettségek teljesítése, illetve a vizsgák alóli részleges vagy teljes felmentését vagy azok más módon történő teljesítésének engedélyezését.
+64. § (1)[^195] A hallgató fogyatékosságára tekintettel a 63. § (1) bekezdése szerinti szakértői vélemény alapján kérheti a tanulmányi kötelezettségek teljesítése, illetve a vizsgák alóli részleges vagy teljes felmentését vagy azok más módon történő teljesítésének engedélyezését.
 
 (2) A felsőoktatási intézmény szabályzatában meghatározottak szerint
 
@@ -24,4 +24,4 @@ d) javaslattétel a fogyatékossággal élő hallgatók tanulmányainak segíté
 
 (5) A fogyatékossággal élő hallgatókat megillető különleges bánásmód elbírálásához szükséges adatokhoz való hozzáférést a felsőoktatási intézménynek biztosítania kell a koordinátor részére.
 
-[^194]: A 64. § (1) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 41. § k) pontja szerint módosított szöveg.
+[^195]: A 64. § (1) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 41. § k) pontja szerint módosított szöveg.
