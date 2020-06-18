@@ -4,7 +4,7 @@
 
 (3) Az alappontok meghatározásához szükséges adatok:
 
-a)[^18] a kormányhivataltól, vagy országos szinten a földmérési és térinformatikai államigazgatási szervtől;
+a)[^18] az ingatlanügyi hatóságtól, vagy országos szinten a földmérési és térinformatikai államigazgatási szervtől;
 
 b) a GNSSnet.hu hálózatra támaszkodó pontmeghatározás esetén a GSZK által nyújtott szolgáltatás keretében szerezhetők be.
 
@@ -20,4 +20,4 @@ b) külső permanens állomásra támaszkodva a 47. § (2) bekezdésének betart
 
 (7) Az OP jelzésű iránypontok eredeti koordinátái a vasbetonlapokkal körülvett felső kőre vonatkoznak, ezért ezeknek a pontoknak a védőberendezését megbontani tilos.
 
-[^18]: A 48. § (3) bekezdés a) pontja a 29/2015. (VI. 5.) FM rendelet 9. § f) pontja, a 42/2017. (VIII. 17.) FM rendelet 190. § f) pontja szerint módosított szöveg.
+[^18]: A 48. § (3) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 190. § f) pontja, a 7/2020. (VI. 10.) MvM rendelet 15. § e) pontja szerint módosított szöveg.

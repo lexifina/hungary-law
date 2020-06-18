@@ -8,8 +8,8 @@ c) az ellenőrző mérések végrehajtása és
 
 d) a dokumentáció teljessége tekintetében.
 
-(2)[^26] A kormányhivatal a munkát akkor fogadhatja be, ha az a 16. mellékletben foglalt követelmények valamennyi pontjának megfelelt. Ellenkező esetben a leadott dokumentációt hiánypótlásra vissza kell adni.
+(2)[^27] Az ingatlanügyi hatóság a munkát akkor fogadhatja be, ha az a 16. mellékletben foglalt követelmények valamennyi pontjának megfelelt. Ellenkező esetben a leadott dokumentációt hiánypótlásra vissza kell adni.
 
 (3) A munka vizsgálata a záradékolással fejeződik be.
 
-[^26]: A 68. § (2) bekezdése a 29/2015. (VI. 5.) FM rendelet 9. § d) pontja szerint módosított szöveg.
+[^27]: A 68. § (2) bekezdése a 7/2020. (VI. 10.) MvM rendelet 15. § d) pontja szerint módosított szöveg.

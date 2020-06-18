@@ -24,7 +24,7 @@
 
 ## l) Koordináta jegyzék (EOV, ETRS89).
 
-9. melléklet a 15/2013. (III. 11.) VM rendelethez[^31]
+9. melléklet a 15/2013. (III. 11.) VM rendelethez[^32]
 
 ## Az állami átvételi eljárás szempontjai
 
@@ -130,4 +130,4 @@ e) a levezetett előzetesnek tekintendő koordinátákat.
 
 12. Az új pont pontleírását (pausz, és impúrum) el kell készíteni a tágabb környezet ábrázolásával (síkrajzi elemek, utcanév, házszámozás, közművek, út km szelvény, szomszédos települések megírása, művelési ág, új pont jelölése, pont kitűzési méreteinek feltüntetése: lehetőség szerint ortogonális méretek megadásával)
 
-[^31]: A 9. melléklet a 42/2017. (VIII. 17.) FM rendelet 190. § a) pontja szerint módosított szöveg.
+[^32]: A 9. melléklet a 42/2017. (VIII. 17.) FM rendelet 190. § a) pontja szerint módosított szöveg.

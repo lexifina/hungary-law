@@ -16,9 +16,9 @@ c) adott pontként felhasználhatók az e rendelet szerint meghatározott felmé
 
 (5) Az (1) bekezdésben meghatározott mérésekhez:
 
-a)[^27] a földmérési és térinformatikai államigazgatási szerv, vagy
+a)[^28] a földmérési és térinformatikai államigazgatási szerv, vagy
 
-b)[^28] a kormányhivatalok által hitelesített állami alapadatok használhatók fel.
+b)[^29] az ingatlanügyi hatóságok által hitelesített állami alapadatok használhatók fel.
 
-[^27]: A 70. § (5) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 190. § a) pontja szerint módosított szöveg.
-[^28]: A 70. § (5) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 9. § b) pontja szerint módosított szöveg.
+[^28]: A 70. § (5) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 190. § a) pontja szerint módosított szöveg.
+[^29]: A 70. § (5) bekezdés b) pontja a 7/2020. (VI. 10.) MvM rendelet 15. § b) pontja szerint módosított szöveg.

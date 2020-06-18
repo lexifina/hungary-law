@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-2
 | 2013-03-20 | 2013-15-20-2Y.2 | 2010: CXXX. törvény |
 | 2015-06-06 | 2013-15-20-2Y.3 | 29/2015. (VI. 5.) FM rendelet |
 | 2017-08-18 | 2013-15-20-2Y.4 | 42/2017. (VIII. 17.) FM rendelet |
+| 2020-06-18 | 2013-15-20-2Y.5 | 7/2020. (VI. 10.) MvM rendelet |

@@ -1,4 +1,4 @@
-## 66. §[^25] GNSS alkalmazásával végzett geodéziai munkák kormányhivatali vizsgálatát a 16. mellékletben meghatározott „GNSS alkalmazásával végzett pontmeghatározások vizsgálati jegyzőkönyve” alapján kell végezni.
+## 66. §[^26] GNSS alkalmazásával végzett geodéziai munkák ingatlanügyi hatósági vizsgálatát a 16. mellékletben meghatározott „GNSS alkalmazásával végzett pontmeghatározások vizsgálati jegyzőkönyve” alapján kell végezni.
 
 67. § (1) A 16. melléklet 1. pontjában a hivatalos vonatkoztatási rendszer kötelező használatának ellenőrzését kell dokumentálni.
 
@@ -10,4 +10,4 @@
 
 (5) Ha az EHT2 alkalmazásával végzett ellenőrzés szisztematikus eltéréseket mutat, akkor az 53. § (1) bekezdésében foglaltak szerint kell eljárni.
 
-[^25]: A 66. § a 29/2015. (VI. 5.) FM rendelet 9. § g) pontja szerint módosított szöveg.
+[^26]: A 66. § a 7/2020. (VI. 10.) MvM rendelet 15. § i) pontja szerint módosított szöveg.
