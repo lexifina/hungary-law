@@ -4,7 +4,7 @@
 
 (3) A honvédek jogállásáról szóló 2012. évi CCV. törvény 2. § 12a. pontja szerinti honvédelmi illetményalap 2020. január 1-jétől 44 600 forint.
 
-(4) A költségvetési szervek által foglalkoztatottak éves cafetéria-juttatásának kerete, illetve cafetéria-juttatást nem nyújtó költségvetési szervek esetében az egy foglalkoztatottnak éves szinten – az Szja tv. 71. § (1) bekezdésében meghatározott juttatások – az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterheket is magában foglaló együttes összege, törvény eltérő rendelkezése hiányában, 2020. évben nem haladhatja meg a bruttó 200 000 forintot.
+(4) A költségvetési szervek által foglalkoztatottak éves cafetéria-juttatásának kerete, illetve cafetéria-juttatást nem nyújtó költségvetési szervek esetében az egy foglalkoztatottnak éves szinten – az Szja tv. 71. § (1) bekezdésében meghatározottak alapján adott juttatások – nettó összege, törvény eltérő rendelkezése hiányában, 2020. évben nem haladhatja meg a 400 000 forintot.
 
 (5) A fizetési számlához kapcsolódóan törvény alapján az egy foglalkoztatottnak havonta adható bankszámla-hozzájárulás mértéke a 2020. évben legfeljebb 1000 forint.
 

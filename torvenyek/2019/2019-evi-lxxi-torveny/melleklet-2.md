@@ -748,7 +748,7 @@ Borsod-Abaúj-Zemplén Megyei Önkormányzat
 
 |
 
-Csongrád Megyei Önkormányzat
+Csongrád-Csanád Megyei Önkormányzat
 
 |
 
@@ -2680,7 +2680,7 @@ A támogatás megállapításához szükséges adatszolgáltatás rendjét a Kie
 
 V. SZOLIDARITÁSI HOZZÁJÁRULÁS
 
-A 34 000 forint feletti egy lakosra jutó adóerő-képességgel rendelkező települési önkormányzattól – Budapest Főváros Önkormányzatának kivételével – a támogatáscsökkentés beszámítás alapját meghaladó része (a továbbiakban: szolidaritási hozzájárulás alapja) a nettó finanszírozás keretében elvonásra kerül szolidaritási hozzájárulás jogcímen. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
+A 34 000 forint feletti egy lakosra jutó adóerő-képességgel rendelkező települési önkormányzattól a támogatáscsökkentés beszámítás alapját meghaladó része (a továbbiakban: szolidaritási hozzájárulás alapja) a nettó finanszírozás keretében elvonásra kerül szolidaritási hozzájárulás jogcímen. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
 
 |
 
@@ -2840,7 +2840,7 @@ a-d = a szolidaritási hozzájárulás számításakor alkalmazandó paramétert
 
 KT = 500 fő lakosságszám alatti települések esetében alkalmazandó korrekciós tényező, amelynek összege 15 millió forint
 
-Budapest Főváros Önkormányzata esetében a szolidaritási hozzájárulás összege 10 000,0 millió forint.
+Budapest Főváros Önkormányzata esetében a szolidaritási hozzájárulás összege a számított összegnél 15%-kal alacsonyabb.
 
 Kiegészítő szabályok:
 

@@ -252,6 +252,8 @@ g) Az előirányzat szolgál fedezetül a helyi önkormányzat és társulása s
 
 h) Az előirányzatból 1 500,0 millió forint a bölcsődei fejlesztési program célját szolgálja.
 
+i) Az előirányzatból a települési önkormányzat vissza nem térítendő támogatást igényelhet az illetékességi területén bevallott, de meg nem fizetett idegenforgalmi adó összegével egyező összegben. A negyedévi összegre vonatkozó igénylés a helyi önkormányzatokért felelős miniszter által üzemeltetett elektronikus rendszerben nyújtható be, a tárgynegyedévet követő hónap 20. napjáig.
+
 A IX. Helyi önkormányzatok támogatásai fejezetben első ízben 2018. évben létrehozott Bölcsődei fejlesztési program cím terhére biztosított támogatás felhasználási határideje a támogatás folyósításának évét követő második év december 31-e.
 
 11. A költségvetési szerveknél foglalkoztatottak 2019. évi áthúzódó és 2020. évi kompenzációja

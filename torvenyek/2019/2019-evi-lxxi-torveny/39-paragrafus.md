@@ -13,3 +13,9 @@ b) a települési önkormányzat a tárgyévet megelőző év decemberében nem 
 (4) Az önkormányzattól a 2. melléklet V. pontja szerinti szolidaritási hozzájárulás elvonása a települési önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás keretében történik. Ennek összegét a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 5. Önkormányzati szolidaritási hozzájárulás alcímen kell elszámolni.
 
 (5) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (4) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2020. december 16-án bármilyen elmaradása van a (4) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
+
+(6) A települési önkormányzat a 2. melléklet I. pont 1. alpont e) pont Üdülőhelyi feladatok támogatása jogcímen a 2. melléklet I. pont 1. alpont f) pontja szerinti beszámítással csökkentett és kiegészítéssel növelt összegre nem jogosult.
+
+(7) A települési önkormányzat 2020. december hónapban a 3. melléklet I. pont 14. Kulturális illetménypótlék jogcímen az 3. melléklet I. pont 14. alpont szabályaitól eltérően a 2020. november havi támogatással azonos összegű támogatásban részesül.
+
+(8) A 2. melléklet III. pont 2. alpont j) pontja szerinti támogatás esetében és a 2. melléklet III. pont 3. alpont a) pont aa) alpontjában meghatározottaktól eltérően a támogatás szempontjából figyelembe vehető gyermekek száma alatt 2020. augusztus 31-éig a veszélyhelyzet megszűnésének napján beíratott gyermekek számát kell érteni.

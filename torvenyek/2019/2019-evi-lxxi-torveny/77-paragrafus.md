@@ -1,0 +1,1 @@
+77. § Az Országgyűlés megállapítja, hogy a gépjárműadóról szóló törvény alapján a belföldi gépjárművek után a települési önkormányzatot az általa 2020. évben beszedett gépjárműadó nem illeti meg. A beszedett gépjárműadó 40%-a a XLVI. Járvány Elleni Védekezési Alap fejezet bevételét képezi.

@@ -2,7 +2,11 @@
 
 9. § (1) A LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram címen rendelkezésre álló előirányzat biztosít fedezetet a 2019. évben, illetve azt megelőző években az e címen keletkezett, 2020. évre áthúzódó kötelezettségvállalásokra is.
 
-(2) A Nemzeti Foglalkoztatási Alap a központi költségvetésbe 71 000,0 millió forintot ad át az állami fenntartású szakképző iskolák működési költségeihez és a foglalkoztatást helyettesítő támogatásban részesülők ellátásához. A befizetési kötelezettséget negyedévente egyenlő részletekben kell teljesíteni.
+(2)
+
+(2a) Az Országgyűlés megállapítja, hogy a LXIII. Nemzeti Foglalkoztatási Alap fejezet előirányzatai a XLVII. Gazdaságvédelmi Alap fejezetbe kerültek át, azzal, hogy az előirányzatok tekintetében a központi kezelésű előirányzatok fedezetének biztosítására vonatkozó szabályokat kell alkalmazni. A 2020. évben a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39/A. § (8) bekezdésében foglaltakat nem kell alkalmazni.
+
+(2b) A XLVII. Gazdaságvédelmi Alap fejezetben a Munkahely-megtartási program, továbbá a 2014–2020-as időszak munkaerőpiaci programjainak előfinanszírozása megnevezésű előirányzatok terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető.
 
 (3) Az Elektronikus Információszolgáltatás Nemzeti Program működtetésével kapcsolatos feladatokra a feladatot ellátó MTA Könyvtár és Információs Központ részére a LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap fejezet, 1. Kutatási Alaprész cím terhére 2020. évben 1950,0 millió forint támogatást kell biztosítani.
 

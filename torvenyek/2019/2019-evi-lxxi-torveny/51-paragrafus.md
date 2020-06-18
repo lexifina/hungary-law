@@ -1,4 +1,4 @@
-51. § (1) Az Agrár-Vállalkozási Hitelgarancia Alapítvány (e § alkalmazásában a továbbiakban: Alapítvány) által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(6) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
+51. § (1) Az Agrár-Vállalkozási Hitelgarancia Alapítvány (e § alkalmazásában a továbbiakban: Alapítvány) által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(7) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
 
 (2) Az (1) bekezdés szerinti viszontgarancia mértéke az Alapítvány által vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 85%-a.
 
@@ -14,4 +14,6 @@ b) a Magyar Vállalkozásfejlesztési Alapítvány az Országos Mikrohitel Alapb
 
 c) a megyei és fővárosi vállalkozásfejlesztési alapítvány mikrohitelezési tevékenység esetén.
 
-(6) Az Alapítvány által az (1) bekezdés szerinti viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 300 000,0 millió forintot.
+(6) Az állami viszontgarancia mértéke az Alapítvány által a Közlemény alapján az Európai Bizottság határozatában jóváhagyott feltételek szerinti Krízis Agrárgarancia Program keretében vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 90%-a.
+
+(7) Az Alapítvány által állami viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 350 000,0 millió forintot azzal, hogy ezen belül 100 000,0 millió forint kizárólag a Krízis Agrárgarancia Program keretében történő készfizető kezességvállalásra használható fel.

@@ -351,5 +351,3 @@ Országos Roma Önkormányzat és Média
 |
 
 433,4
-
-A támogatás az – Njtv. alapján létrehozott – országos nemzetiségi önkormányzatot a működésével összefüggő kiadásokhoz és a nemzetiségi média feladatainak ellátásához kapcsolódóan illeti meg.
