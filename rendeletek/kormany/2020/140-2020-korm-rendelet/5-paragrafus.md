@@ -1,3 +1,0 @@
-## 4. § Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 58. § (4) bekezdésétől eltérően a költségvetési szervek által foglalkoztatottak éves cafetéria-juttatásának kerete, illetve cafetéria-juttatást nem nyújtó költségvetési szervek esetében az egy foglalkoztatottnak éves szinten – az Szja tv. 71. § (1) bekezdésében meghatározott juttatások – adott juttatások együttes nettó összege – törvény eltérő rendelkezése hiányában – a 2020. évben nem haladhatja meg a 400 000 forintot.
-
-## 4. Az idegenforgalmi adó felfüggesztése és az azzal összefüggő költségvetési rendelkezések

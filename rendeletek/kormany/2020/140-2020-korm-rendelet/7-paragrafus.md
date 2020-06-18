@@ -1,5 +1,0 @@
-## 6. § A veszélyhelyzet megszűnéséig a Kvtv. rendelkezéseit a 7. és 8. §-ban meghatározott eltérésekkel kell alkalmazni.
-
-7. § (1) Az 5. § alapján bevallott, de meg nem fizetett adónak megfelelő összegű vissza nem térítendő költségvetési támogatásra a települési önkormányzat a (2) bekezdés szerint jogosult.
-
-(2) A Kvtv. 3. melléklet I. Működési célú támogatások 10. Önkormányzati elszámolások pontja terhére – a Kvtv.-ben felsorolt célokon túl – vissza nem térítendő támogatást igényelhet a települési önkormányzat az illetékességi területén bevallott, de meg nem fizetett idegenforgalmi adó összegével egyező összegben. A negyedévi összegre vonatkozó igénylés a helyi önkormányzatokért felelős miniszter által üzemeltetett elektronikus rendszerben nyújtható be, a tárgynegyedévet követő hónap 20. napjáig. A kapott támogatások elszámolása a 2020. évi éves költségvetési beszámoló keretében történik, és ennek keretében érvényesíthető a 2020. utolsó negyedévi összegre vonatkozó igény is. A támogatás folyósítása előfinanszírozás formájában, a nettó finanszírozás keretében történik. Az ilyen módon folyósított támogatás esetében támogatói okiratot nem kell kibocsátani.
