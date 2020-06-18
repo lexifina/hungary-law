@@ -1,5 +1,0 @@
-2. § (1) A közegészségügyi kényszerengedély alapján előállított egészségügyi termékeket a szabadalmas által előállított terméktől egyedi jelzéssel kell megkülönböztetni. A csomagoláson és valamennyi kapcsolódó iraton egyértelműen fel kell tüntetni, hogy az egészségügyi termék előállítására az SZTNH által adott közegészségügyi kényszerengedély alapján, kizárólag belföldi forgalmazás céljából került sor.
-
-(2) Ha a közegészségügyi kényszerengedély jogosultja nem tesz eleget az (1) bekezdésben foglalt kötelezettségnek, a gyógyszerészeti államigazgatási szerv az egészségügyi termék – az (1) bekezdésnek, illetve a 3. § (2) bekezdés c) pontjának megfelelő – átcsomagolására kötelezi.
-
-(3) A szabadalmi oltalom alatt álló egészségügyi termék vagy egészségügyi termék előállításához szükséges eljárás, berendezés vagy eszköz jogosulatlan hasznosításáért a szabadalmas a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 35. § (3) bekezdése szerint kártérítést követelhet. E rendelkezést a kiegészítő oltalom tekintetében is megfelelően alkalmazni kell.
