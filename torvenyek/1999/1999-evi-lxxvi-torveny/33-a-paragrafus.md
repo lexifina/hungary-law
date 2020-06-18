@@ -1,0 +1,1 @@
+33/A. § E fejezet alkalmazásában biztonságos elektronikus hálózat az olyan műszaki megoldás, amely megakadályozza a lehívásra hozzáférhetővé tett műnek az iskolai oktatást végző és igénybe vevő személyek körén kívülre irányuló közvetítését.
