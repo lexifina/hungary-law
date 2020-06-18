@@ -1,0 +1,5 @@
+## 3. § A koronavírus világjárvány hátrányos hatásainak megelőzése, enyhítése, illetve elhárítása érdekében a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.) Korm. rendelet (a továbbiakban: Kbfr.) szerinti nyilvános, nyílt végű alternatív befektetési alap (a továbbiakban: ABA), valamint az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási szabályairól szóló 281/2001. (XII. 26.) Korm. rendelet (a továbbiakban: Öbr.) szerinti pénztár a 4–6. § szerint is kezdeményezheti hitel felvételét.
+
+4. § (1) A Kbfr. 27. §-ában, valamint 42. § (1) bekezdésében meghatározottakon túl a nyilvános, nyílt végű ABA kizárólag likviditási célból a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 18. §-a szerinti monetáris politikai eszköztár keretében, eszközeinek 30 százaléka erejéig is felvehet hitelt, 5 évet meg nem haladó futamidőre.
+
+(2) Az (1) bekezdésben meghatározott hitelfelvétel nem jár együtt a kezelési szabályzat módosítási kötelezettségével.

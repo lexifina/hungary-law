@@ -1,0 +1,1 @@
+## 29. § A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 5.) Korm. rendelet 1. § (1) bekezdésétől eltérően a vizsgálóállomások 2020. december 31-éig sikeres auditálás vagy a nemzeti akkreditálásról szóló törvény szerinti akkreditált státusz nélkül is működhetnek.
