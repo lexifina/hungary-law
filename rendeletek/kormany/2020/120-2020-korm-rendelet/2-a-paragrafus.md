@@ -1,1 +1,0 @@
-## 2. § A veszélyhelyzet ideje alatt a Hjt. hatálya alá tartozók szolgálati viszonya a Hjt. 38. § (8) bekezdésétől, a Hjt. 68. § (1) bekezdés b) pontjától, valamint a Hjt. 78. § (2) bekezdés f) pontjától eltérően nem szűnik meg a törvény erejénél fogva az ott meghatározott kiképzési, képzési és vizsgakötelezettség teljesítésének elmulasztása esetén.

@@ -1,5 +1,0 @@
-## 1. A honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó rendkívüli intézkedések
-
-1. § (1) A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt, a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 1. § (1) bekezdése szerinti állomány tagjának a veszélyhelyzettel összefüggésben a más szervnél történő szolgálatteljesítésére vonatkozó megállapodásban a Hjt. 52/A. § (2) bekezdésében foglaltakon túl, a Hjt. 52. § (1) bekezdésében szereplő bármely kérdésben el lehet térni, ide nem értve a más szerv vezetőjének az állomány más szervhez vezényelt tagja tekintetében a szolgálatteljesítésre vonatkozó rendelkezési jogát.
-
-(2) A veszélyhelyzet ideje alatt a Hjt. 52. § (1) bekezdésében foglaltaktól eltérően a veszélyhelyzetet megelőzően, valamint annak elrendelését követően más szervhez vezényelt hivatásos vagy szerződéses katona a honvédelemért felelős miniszter döntése alapján egyenruha viselésére köteles.
