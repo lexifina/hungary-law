@@ -1,0 +1,5 @@
+## 54/A. § A támogatást igénylő vállalkozás indokolt kérelmére az 1. § m) pontja szerinti támogatási időszak kezdete a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) időtartamával elhalasztható. Ebben az esetben az e rendeletben meghatározott határidőket a támogatási időszak módosított kezdő időpontjától kell számítani.
+
+54/B. § (1) Ha a bölcsődei szolgáltató a 39. § (2) és (3) bekezdésében, a 42. § (2) bekezdésében valamint a 42. § (4) bekezdés a) pontjában meghatározott személyi térítési díj helyett a veszélyhelyzet ideje alatt más jogcímen – különösen rendelkezésre állási díjként – állít ki számlát a támogatást igénylő részére azon gyermek ellátásával összefüggésben, amely gyermekre tekintettel a kisgyermeket nevelő a támogatást igényli, úgy ezen számla kifizetési igénylés keretében benyújtható és a továbbadott támogatás kifizetésének alapjául szolgál.
+
+(2) Az (1) bekezdés szerinti eltérő jogcímen kiállított számla a veszélyhelyzet megszűnésének napját követő hónap utolsó napjáig nyújtható be.
