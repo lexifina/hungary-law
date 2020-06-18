@@ -1,3 +1,0 @@
-## 32. § A 2019. december 31-én a nyilvántartásban szereplő igazságügyi szakértő Szaktv. 44. § (1a) bekezdése alapján az ügyintézési rendelkezések nyilvántartásába legkésőbb a veszélyhelyzet megszűnését követő 15. napig köteles bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét. Ha a veszélyhelyzet megszűnése 2020. szeptember 1-jét követő időpontra esik, akkor a kamarai tisztségviselők általános választását a veszélyhelyzet megszűnését követő két hónapon belül kell megtartani.
-
-## 7. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény rendelkezéseinek eltérő alkalmazásáról
