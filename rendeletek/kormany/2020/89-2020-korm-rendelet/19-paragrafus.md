@@ -1,5 +1,0 @@
-19. § (1) Ha az elítélt külföldön van fogvatartásban, és a bíróság a büntetőügyekben hozott, szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó ítélet végrehajtásának átvételéről döntött, az elítélt személy nem vehető át, ha az az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályaival ellentétes.
-
-(2) A magyar bíróság által kiszabott jogerős szabadságvesztés büntetés vagy alkalmazott szabadságelvonással járó intézkedés végrehajtásának átadása nem kezdeményezhető, ha az elítélt Magyarországon tartózkodik és az átadása az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályaival ellentétes.
-
-(3) Ha a magyar bíróság által kiszabott jogerős szabadságvesztés büntetés vagy alkalmazott szabadságelvonással járó intézkedés végrehajtásának átadását kezdeményezték és a végrehajtó tagállam a végrehajtás átvételéről döntött, az elítélt személy nem szállítható át, ha az az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályaival ellentétes.

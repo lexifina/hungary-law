@@ -1,1 +1,0 @@
-## 6. § Ha terhelt a magyar büntetőeljárásban személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, a büntetőeljárás nem adható át, ha a terhelt átszállítása az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályaival ellentétes.

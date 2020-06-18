@@ -1,7 +1,0 @@
-## 21. § A Kormány e rendelet hatályát a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig meghosszabbítja.
-
-22. § (1) E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) Ha e rendelet hatálybalépését megelőzően elrendelt kiadatási letartóztatás hatálya alatt álló terhelt átadása az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályai miatt nem volt lehetséges, és a terhelt a kiadatási letartóztatás elrendelését megelőzően ideiglenes kiadatási bűnügyi felügyelet hatálya alatt állt vagy annak feltételei fennálltak, a bíróság hivatalból vagy indítványra a kiadatási letartóztatás helyett a terhelt ideiglenes kiadatási bűnügyi felügyeletét rendelheti el az Nbjt. 25/A. § (2) bekezdése értelemszerű alkalmazásával.
-
-(3) Ha e rendelet hatálybalépését megelőzően elrendelt átadási letartóztatás hatálya alatt álló terhelt átadásának végrehajtása az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályai miatt nem volt lehetséges, és a terhelt az átadási letartóztatás elrendelését megelőzően ideiglenes átadási bűnügyi felügyelet hatálya alatt állt vagy annak feltételei fennálltak, a bíróság hivatalból vagy indítványra az átadási letartóztatás helyett a terhelt ideiglenes átadási bűnügyi felügyeletét rendelheti el az EUtv. 9/A. §-a értelemszerű alkalmazásával.
