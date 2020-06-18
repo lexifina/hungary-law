@@ -1,1 +1,0 @@
-## 3. § Az e rendelet hatálybalépésekor fennálló és a veszélyhelyzet alatt lejáró, az Szt. 54. §-a alapján az egészségügyi szolgáltatás igénybevétele céljából megállapított jogosultság időtartama meghosszabbodik a Vr. hatályvesztésének hónapját követő második hónap végéig.

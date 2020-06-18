@@ -1,1 +1,0 @@
-## 10. § Ha a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 10. § (3) bekezdése vagy 11. § (3) bekezdése szerinti határidő a veszélyhelyzet időtartama alatt jár le, a határidő a veszélyhelyzet megszűnését követő harmincadik napig meghosszabbodik.

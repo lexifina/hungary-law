@@ -1,1 +1,0 @@
-## a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet (a továbbiakban: Vr.) hatályvesztését követő 15 napon belüli időszakban esedékes, a felülvizsgálatot nem kell lefolytatni. Ezekben az esetekben a felülvizsgálatot a Vr. hatályvesztésének hónapját követő második hónap végéig kell lefolytatni.

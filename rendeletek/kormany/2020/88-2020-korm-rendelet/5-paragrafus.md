@@ -1,1 +1,0 @@
-## 4. § Az Szt. 130. §-a szerinti támogatás a fejlesztő foglalkoztatásban résztvevő személy napi munkavégzésétől függetlenül érvényesíthető azon személyek után, akik a veszélyhelyzet kihirdetése napján a fejlesztő foglalkoztatónál fejlesztési jogviszonyban vagy munkaviszonyban álltak és jogviszonyuk a veszélyhelyzet alatti elszámolási időszakban is fennállt.
