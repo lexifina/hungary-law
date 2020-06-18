@@ -4,7 +4,8 @@
 
 (2) Ha a szakorvosi javaslat érvényessége a veszélyhelyzet időtartama alatt lejárt, a háziorvos az egészségügyi dokumentációban rögzíti, hogy a veszélyhelyzetre tekintettel – az (1) bekezdés szerinti időtartamig – ideiglenesen meghosszabbításra került a szakorvosi javaslat.
 
-(3) A veszélyhelyzet időtartama alatt a stabil állapotú krónikus betegek szokásos gyógyszereinek elektronikus vényen történő rendelése és a betegek számára történő tanácsadás távkonzultáció során is történhet.
+(3)[^129]
 
 [^127]: A 23/B. §-t az 56/2013. (VII. 31.) EMMI rendelet 7. §-a iktatta be.
 [^128]: A 23/C. §-t a 10/2020. (III. 14.) EMMI rendelet 3. §-a iktatta be.
+[^129]: A 23/C. § (3) bekezdését a 21/2020. (VI. 17.) EMMI rendelet 5. §-a hatályon kívül helyezte.
