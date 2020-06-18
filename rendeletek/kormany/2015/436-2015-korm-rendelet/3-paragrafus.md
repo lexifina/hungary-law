@@ -2,7 +2,7 @@
 
 (2) Az igazolvány – a (3) bekezdésben foglalt kivétellel – a kiállítása napjától a kiállítást követő ötödik adóév utolsó napjáig hatályos.
 
-(3) Amennyiben a mezőgazdasági őstermelő igazolványa tárgyév végével hatályát veszti, az őstermelő tárgyév október 1. és december 31. napja között kérheti új igazolvány kiállítását. Ez esetben az új igazolvány a tárgyévet követő év első napjától a hatályának kezdetét követő ötödik adóév utolsó napjáig hatályos.
+(3)[^4]
 
 (4) Az igazolvány az ügyfél választása alapján a
 
@@ -14,12 +14,9 @@ b) hatályának kezdetétől számított legfeljebb három adóévre
 
 (5) A (4) bekezdés szerinti értékesítési betétlap kiadását követően értékesítési betétlap az ügyfél kérelmére kizárólag a kérelmezés időpontja szerinti évnek megfelelő adóévre, valamint az azt követő két adóévre adható ki. Értékesítési betétlap csak az igazolvány hatályossági ideje szerinti adóévekre adható ki.
 
-(6) Amennyiben a mezőgazdasági őstermelő hatályos igazolvánnyal rendelkezik, akkor az értékesítési betétlap
-
-a) az adóév első napjától hatályos, ha azt az adóév március 20. napjáig,
-
-b) a kiállítás napjától hatályos, ha az a) pontban említett időpontot követően
-
-## kérelmezi.
+(6)[^5]
 
 (7) Ugyanarra az adóévre vonatkozó, folytatólagos sorszámmal ellátott értékesítési betétlapot kell kiadni, ha az előző értékesítési betétlap betelt. Az értékesítési betétlap elvesztése, megsemmisülése, megrongálódása esetén ennek tényét az ismételten kiadott értékesítési betétlapon fel kell tüntetni.
+
+[^4]: A 3. § (3) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 78. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (6) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 78. § a) pontja hatályon kívül helyezte.

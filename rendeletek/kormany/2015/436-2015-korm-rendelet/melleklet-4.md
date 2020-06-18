@@ -18,7 +18,7 @@
 
 ## 8. az ügyfél Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben tárolt ügyfél-azonosítója (amennyiben a kérelmében szerepel)
 
-## 9.[^24] az ügyfél bejelentett lakóhelye
+## 9.[^31] az ügyfél bejelentett lakóhelye
 
 ## 10. az ügyfél tartózkodási helye (amennyiben a kérelmében szerepel)
 
@@ -104,7 +104,7 @@
 
 ## 23. a saját gazdaságról, a termeléssel összefüggő rendelkezési jogosultságokról, a gazdaság és a termelési eszközök folyamatos működtetéséről, továbbá a közös őstermelői tevékenység folytatásáról szóló nyilatkozatok meglétére vonatkozó információk
 
-## 24.[^25] a tevékenység jellegére vonatkozó adat (állattenyésztés, növénytermesztés, virágtermesztés, erdőgazdálkodás, bortermelés, vadon gyűjthető termékek gyűjtése)
+## 24.[^32] a tevékenység jellegére vonatkozó adat (állattenyésztés, növénytermesztés, virágtermesztés, erdőgazdálkodás, bortermelés, vadon gyűjthető termékek gyűjtése)
 
 ## 25. az őstermelői tevékenység megnevezése (ÖVTJ-kód)
 
@@ -118,7 +118,7 @@
 
 ## 29. az értékesítési betétlap kiadásának oka
 
-## IV.[^26] Egyéb adatok:
+## IV.[^33] Egyéb adatok:
 
 ## 30. az ügyfél élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott azonosító száma
 
@@ -136,6 +136,6 @@
 
 4. melléklet a 436/2015. (XII. 28.) Korm. rendelethez
 
-[^24]: A 3. melléklet 9. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
-[^25]: A 3. melléklet 24. pontja a 420/2016. (XII. 14.) Korm. rendelet 2. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^26]: A 3. melléklet IV. pontja a 203/2016. (VII. 21.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^31]: A 3. melléklet 9. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^32]: A 3. melléklet 24. pontja a 420/2016. (XII. 14.) Korm. rendelet 2. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^33]: A 3. melléklet IV. pontja a 203/2016. (VII. 21.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
