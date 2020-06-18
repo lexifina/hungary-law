@@ -1,5 +1,0 @@
-## 1. EU-típusvizsgálati tanúsítvánnyal nem rendelkező egyéni légzésvédő eszközök és a használat után fertőtlenített egyéni légzésvédő eszközök vizsgálata és felhasználása
-
-1. § (1) A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) fennállása alatt, a koronavírus világjárvány kitörésével összefüggésben szükséges egyéni védőeszközök biztosítása érdekében kizárólag az e rendeletben foglaltak szerint lehet felhasználni az EU-típusvizsgálati tanúsítvánnyal nem rendelkező új egyéni légzésvédő eszközöket (a továbbiakban: egyéni légzésvédő eszköz) és a használat után fertőtlenített egyéni légzésvédő eszközöket.
-
-(2) Az egyéni légzésvédő eszközökre vonatkozó 2. § (1) bekezdése szerinti vizsgálatot az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/425 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2016/425 európai parlamenti és tanácsi rendelet] szerinti megfelelőségértékelési eljárás elindítását követően lehet kérelmezni.
