@@ -1,1 +1,0 @@
-## 7. § A megállapodásról kiállított okiratot a sértett és a gyanúsított is aláírja, vagy írásban vagy bármilyen elektronikus módon rögzített olyan nyilatkozatával elfogadja, amely alkalmas annak igazolására, hogy a megállapodás tartalmát megismerte és elfogadta.
