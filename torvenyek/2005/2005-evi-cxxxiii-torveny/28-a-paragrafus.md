@@ -1,0 +1,1 @@
+28/A. § Egészségügyi válsághelyzetben az egészségügyi készlet megóvása érdekében eljáró vagyonőr az e törvényben meghatározott jogkörét gyakorolja azzal az eltéréssel, hogy az emberi méltóság tiszteletben tartásával jogosult az érintett beleegyezése nélkül ruházat, csomag, jármű átvizsgálására a 28. § (1) bekezdésében meghatározott feltételek hiányában is.
