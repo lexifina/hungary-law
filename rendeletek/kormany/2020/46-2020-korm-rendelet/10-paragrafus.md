@@ -1,3 +1,0 @@
-10. § (1) Az innovációért és technológiáért felelős miniszter – mint a Kormány tudománypolitikáért és informatikáért felelős tagja – az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében, a járvány terjedésének modellezése, elemzése céljából jogosult bármely rendelkezésre álló adat megismerésére, kezelésére.
-
-(2) Az innovációért és technológiáért felelős minisztert a feladata ellátása érdekében az állami és önkormányzati szervek, gazdálkodó szervezetek, magánszemélyek támogatni, a kért adatszolgáltatást teljesíteni kötelesek.
