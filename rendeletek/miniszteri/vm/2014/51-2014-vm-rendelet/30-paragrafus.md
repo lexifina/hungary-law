@@ -6,7 +6,7 @@
 
 a) országos hatáskörrel előállítja és vezeti az alapponthálózati pontok adatbázisát,
 
-b)[^36] az alapponthálózati pontok adatbázisából átadja a kormányhivataloknak az illetékességi területükre vonatkozó adatbázis tartalmat,
+b)[^36] az alapponthálózati pontok adatbázisából átadja az ingatlanügyi hatóságoknak az illetékességi területükre vonatkozó adatbázis tartalmat,
 
 c) vezeti és nyilvántartja a bekövetkezett változásokat,
 
@@ -16,7 +16,7 @@ e) ellenőrzi és nyilvántartja az alapponthálózati pontok pótlási és áth
 
 f) az alapponthálózati pontok pótlásának vagy áthelyezésének állami átvétele.
 
-(3)[^37] A kormányhivatal feladata:
+(3)[^37] Az ingatlanügyi hatóság feladata:
 
 a)[^38] illetékességi területén a földmérési és térinformatikai államigazgatási szerv alapponthálózati adatbázisa alapján szolgáltatja az alapponthálózati pontok adatait,
 
@@ -30,6 +30,6 @@ e) új alapponthálózati pont elhelyezése esetén intézkedik az Fttv. 26. § 
 
 [^34]: A 30. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 207. § d) pontja szerint módosított szöveg.
 [^35]: A 30. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 207. § i) pontja szerint módosított szöveg.
-[^36]: A 30. § (2) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 11. § h) pontja szerint módosított szöveg.
-[^37]: A 30. § (3) bekezdés nyitó szövegrésze a 29/2015. (VI. 5.) FM rendelet 11. § b) pontja szerint módosított szöveg.
+[^36]: A 30. § (2) bekezdés b) pontja a 7/2020. (VI. 10.) MvM rendelet 21. § g) pontja szerint módosított szöveg.
+[^37]: A 30. § (3) bekezdés nyitó szövegrésze a 7/2020. (VI. 10.) MvM rendelet 21. § h) pontja szerint módosított szöveg.
 [^38]: A 30. § (3) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 207. § d) pontja szerint módosított szöveg.
