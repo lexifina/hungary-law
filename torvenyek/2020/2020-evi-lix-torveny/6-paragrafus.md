@@ -1,0 +1,1 @@
+6. § A 2. § (1) bekezdése alapján a különleges gazdasági övezet fekvése szerinti megye megyei önkormányzata tulajdonába kerülő közút üzemeltetési és fenntartási feladatainak ellátása érdekében a megyei önkormányzat szerződést köthet a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal.
