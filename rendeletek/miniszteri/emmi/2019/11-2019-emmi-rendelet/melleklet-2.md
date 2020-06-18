@@ -160,7 +160,7 @@
 
 ## 6. A szakiskolában és a Szakképzési Hídprogram keretében megszerezhető részszakképesítések írásbeli vizsgatevékenységeinek időpontja 2020. június 12., a további vizsgatevékenységeket 2020. június 26-ig kell megszervezni.
 
-2. melléklet a 11/2019. (VII. 3.) EMMI rendelethez[^3]
+2. melléklet a 11/2019. (VII. 3.) EMMI rendelethez[^6]
 
 A középfokú iskolai, a kollégiumi, a Köznevelési és a Szakképzési Hídprogramba történő felvételi eljárás, valamint az Arany János Programokkal kapcsolatos feladatok lebonyolításának ütemezése a 2019/2020. tanévben
 
@@ -252,4 +252,4 @@ A középfokú iskolai, a kollégiumi, a Köznevelési és a Szakképzési Hídp
 
 | 43. |  |  |
 
-[^3]: A 2. melléklet a 14/2020. (IV. 16.) EMMI rendelet 13. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 14/2020. (IV. 16.) EMMI rendelet 13. §-a szerint módosított szöveg.
