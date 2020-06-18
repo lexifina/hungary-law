@@ -1,1 +1,0 @@
-## 4. § A 3. § b) pontja szerinti felhasználást úgy kell tekinteni, hogy a művet az iskolai oktatás céljából [Szjt. 33. § (4) bekezdése] felhasználó intézmény székhelye szerinti tagállamban valósul meg.

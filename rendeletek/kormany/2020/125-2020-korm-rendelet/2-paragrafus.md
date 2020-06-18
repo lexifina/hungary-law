@@ -1,1 +1,0 @@
-## 1. § A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet által elrendelt veszélyhelyzet megszűnéséig a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni.
