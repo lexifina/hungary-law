@@ -1,0 +1,3 @@
+3. § (1) Az Operatív Törzs a járványügyi készültség körülményeire figyelemmel, szükség szerint ülésezik. Az ülés összehívását bármely tag kezdeményezheti, az ülés összehívásáról az Operatív Törzs vezetője dönt.
+
+(2) Az Operatív Törzs elsősorban a tagok személyes részvételével ülésezik. A járványügyi készültség körülményeire figyelemmel, az Operatív Törzs vezetőjének kezdeményezésére az Operatív Törzs úgy is ülésezhet és hozhat döntést, illetve alakíthat ki véleményt, hogy az adott ügyben a tagok elektronikus hírközlő eszköz használatával, vagy más, a személyazonosítást az Operatív Törzs vezetője számára elfogadható módon biztosító elektronikus eszköz igénybevételével közlik álláspontjukat vagy szavazatukat.
