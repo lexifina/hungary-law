@@ -10,6 +10,4 @@
 
 ## céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;”
 
-308. § Az egészségügyről szóló 1997. évi CLIV. törvény 3. § h) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
+### 308. §

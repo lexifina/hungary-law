@@ -4,6 +4,6 @@ a) 4. § (2) bekezdése,
 
 b) 4. § (3) bekezdés a) pontjában az „a (2) bekezdésben meghatározott célú” szövegrész,
 
-c) 8. § (1) bekezdés c) pontja,
+c)
 
 d) 18. § (2) bekezdés b) pontjában és 18. § (4) bekezdés c) pontjában az „– a 4. § (2) vagy (3) bekezdése szerint –” szövegrész.
