@@ -90,6 +90,8 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 
 (2k) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 82/O. § szerinti többletköltségek megtérítésének szabályait.
 
+(2l) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyógyászati segédeszközök árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósításának szabályait.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,

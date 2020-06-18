@@ -19,3 +19,5 @@ b) felhasználásáról a helyi önkormányzat vagy a helyi önkormányzat inté
 (7) Ha az egészségbiztosító a szolgáltató részére járó havi finanszírozási összeg utalványozását nem a szolgáltató hibájából külön jogszabályban meghatározott határidőig nem teljesíti, a határidő lejártát követő naptól köteles a szolgáltató részére a Ptk. szabályainak megfelelően az E. Alap ellátási költségvetés egyéb kiadásai terhére késedelmi kamatot fizetni, amennyiben a kamat összege meghaladja az 1000 forintot.
 
 (8) Amennyiben az egészségbiztosító tévesen utal valamely egészségügyi szolgáltató részére finanszírozási összeget, jogosult azt a téves utalás megállapításától számított hat hónapon belül az egészségügyi szolgáltató finanszírozási díjából egy összegben vagy több részletben levonni.
+
+(9) Azon gyógyászati segédeszköz forgalmazó számára, amely járóbeteg-ellátás keretében rendelt gyógyászati segédeszköz árához támogatással igénybe vehető szolgáltatást nyújt, a lakosság biztonságos ellátása érdekében az egészségbiztosító – az E. Alap éves költségvetésében e célra megjelölt előirányzat terhére – kamatmentes finanszírozási előleget nyújthat.

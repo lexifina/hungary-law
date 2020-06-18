@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2020-01-01 | 2018. évi CXVII. törvény | 1997-83-00-00.89 |
 | 2020-03-01 | 2019. évi CX. törvény | 1997-83-00-00.90 |
 | 2020-05-29 | 2020. évi XXX. törvény | 1997-83-00-00.91 |
+| 2020-06-18 | 2020. évi LVIII. törvény | 1997-83-00-00.92 |
