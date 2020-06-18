@@ -1,1 +1,0 @@
-## 1. § A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) megszűnését követő 60 napig a pénzforgalmi szolgáltató a Széchenyi Pihenő Kártya juttatásként átutalt, fel nem használt pénzeszköz erejéig és annak terhére a munkavállalóval szemben díjat nem számíthat fel.
