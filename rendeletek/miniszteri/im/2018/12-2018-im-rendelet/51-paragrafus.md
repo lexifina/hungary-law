@@ -12,4 +12,6 @@ a) a közvetítés technikai körülményeit, ideértve a technikai eszközök e
 
 b) a közvetítés megkezdésének és befejezésének időpontját.
 
-(5) Telekommunikációs eszköz használata esetén az írásbeli jegyzőkönyv elkülönített helyszínen tartózkodó személy általi aláírását pótolja, ha az 52. §-nak megfelelően rögzített felvétel kezelésére az 53. §-ban meghatározott módon kerül sor.
+(5)[^4]
+
+[^4]: Az 51. § (5) bekezdését a 8/2020. (VI. 17.) IM rendelet 3. §-a hatályon kívül helyezte.

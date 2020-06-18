@@ -1,4 +1,4 @@
-## 67. §[^4]
+## 67. §[^6]
 
 1. melléklet a 12/2018. (VI. 12.) IM rendelethez
 
@@ -96,4 +96,4 @@ A különleges bánásmód körébe tartozó intézkedés alkalmazásáról val�
 
 7.2. A különleges bánásmód megszüntetésével kapcsolatos tájékoztatás adatai:
 
-[^4]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
