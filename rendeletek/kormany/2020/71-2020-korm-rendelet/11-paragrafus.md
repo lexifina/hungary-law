@@ -1,1 +1,0 @@
-11. § Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során teendő intézkedésekről (III.) szóló 46/2020. (III. 16.) Korm. rendelet 1. §-a nem alkalmazható.
