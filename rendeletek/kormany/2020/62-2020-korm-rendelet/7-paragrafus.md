@@ -1,3 +1,0 @@
-7. § (1) Az R. 1. § (1) bekezdése alkalmazásában adósnak minősül a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvényben meghatározott eljárások alatt álló adós, valamint az adós hiteltörlesztési kötelezettségeiért helytállni köteles személyek is.
-
-(2) Az (1) bekezdés szerinti fizetési haladék kiterjed a főhitelező részére fizetendő minimális törlesztőrészlet megfizetésére, a bíróságon kívüli adósságrendezési megállapodásban, bírósági adósságrendezési egyezségben, valamint a bírósági adósságtörlesztési végzésben megállapításra kerülő vagy megállapított, az R. 1. § (1) bekezdésében felsorolt, hitelviszonyból származó fizetési kötelezettségek teljesítésére is, az R. hatálybalépése után esedékessé váló törlesztési részletekre vonatkozóan.
