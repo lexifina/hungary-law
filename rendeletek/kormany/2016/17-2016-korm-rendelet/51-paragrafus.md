@@ -1,6 +1,6 @@
 ## 50. § A családi otthonteremtési kedvezményt is magába foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a Kincstár üzemelteti és fejleszti.
 
-51. §[^174] (1) A 45. § (12) bekezdése szerinti tájékoztató eléréséhez és az ezen alcím szerinti adatszolgáltatás teljesítéséhez a hitelintézet számára az eAdaton történő regisztráció szükséges.
+51. §[^176] (1) A 45. § (12) bekezdése szerinti tájékoztató eléréséhez és az ezen alcím szerinti adatszolgáltatás teljesítéséhez a hitelintézet számára az eAdaton történő regisztráció szükséges.
 
 (2) A hitelintézet az adatszolgáltatását a 47. § szerinti adatszolgáltatás esetén a Kincstár, a 48. § és 49. § szerinti adatszolgáltatás esetén a miniszter kérésére felülvizsgálja, és szükség esetén a javított adatszolgáltatását ismételten megküldi.
 
@@ -28,4 +28,4 @@ c) az összesítő hitelintézet felel a hitelintézeti elszámolások és adats
 
 d) az összesítő hitelintézetet az összesített elszámolás és adatszolgáltatás teljesítéséért a hitelintézetek tárgyhavi elszámolásában lehívott a Kincstár által az elszámolás ellenőrzése alapján jóváhagyott támogatási összeg 1,5‰-ének megfelelő összegű költségtérítés illeti meg, melyet az összesített tárgyhavi elszámolásban, külön jogcímen feltüntetve igényelhet a Kincstártól.
 
-[^174]: Az 51. § a 152/2019. (VI. 26.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^176]: Az 51. § a 152/2019. (VI. 26.) Korm. rendelet 15. §-ával megállapított szöveg.

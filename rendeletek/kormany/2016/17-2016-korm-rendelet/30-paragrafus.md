@@ -36,19 +36,19 @@ c) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elte
 
 23.[^119] a 14. § (2a) bekezdése szerinti esetben a csekély összegű (de minimis) támogatásokra vonatkozó feltételek teljesítését az igénylő által benyújtott nyilatkozattal.
 
-(1a)[^120] Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés 12. pontja szerinti igazolás nem megfelelősége vagy hiánya miatt a hitelintézet a támogatás iránti kérelmet elutasítja – az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal a 28. § (1) bekezdése szerinti hatósági eljárás során, az igénylő külön kérelmére, méltányosság keretében
+(1a)[^120] Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés 12. pontja szerinti igazolás nem megfelelősége vagy hiánya miatt a hitelintézet a támogatás iránti kérelmet elutasítja – a kormányhivatal a 28. § (1) bekezdése szerinti hatósági eljárás során, az igénylő külön kérelmére, méltányosság keretében
 
 a) az illetékes külföldi hatóságtól – az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal bevonásával – nemzetközi jogsegély igénybevételével beszerzett vagy
 
-b) az igénylő által benyújtott (1) bekezdés n) pontja szerinti igazolásban, valamint a külföldi foglalkoztató által kiállított, foglalkoztatási jogviszonyról szóló igazolásban szereplő
+b)[^121] az igénylő által benyújtott (1) bekezdés 12. pontja szerinti igazolásban, valamint a külföldi foglalkoztató által kiállított, foglalkoztatási jogviszonyról szóló igazolásban szereplő
 
 ## adatok mérlegelése alapján, a 28. § (1) és (2) bekezdése szerint meghozott határozatában megállapíthatja, hogy a 14. § (1) bekezdés c) pont cc) alpontja vagy (10) bekezdése szerinti jogviszony Nagy-Britannia és Észak-Írország Egyesült Királyságában fennáll vagy fennállt.
 
-(1b)[^121] Az (1a) bekezdés b) pontja szerinti, külföldi foglalkoztató által kiállított igazolás akkor fogadható el, ha
+(1b)[^122] Az (1a) bekezdés b) pontja szerinti, külföldi foglalkoztató által kiállított igazolás akkor fogadható el, ha
 
 a) azt a külföldi foglalkoztató a támogatás iránti kérelem benyújtását legfeljebb 30 nappal megelőzően, vagy a kérelem benyújtását követően állította ki,
 
-b) olyan foglalkoztatási jogviszonyt igazol, amelyre nézve az igénylő nem nyújtott be az (1) bekezdés n) pontja szerinti igazolást,
+b)[^123] olyan foglalkoztatási jogviszonyt igazol, amelyre nézve az igénylő nem nyújtott be az (1) bekezdés 12. pontja szerinti igazolást,
 
 c) teljes bizonyító erejű magánokiratba vagy a kiállítási hely joga szerinti más bizonyító erővel rendelkező okiratba foglalták, és
 
@@ -56,11 +56,11 @@ d) az igénylő annak hiteles magyar nyelvű fordítását is benyújtja a korm�
 
 (2) Ha az igazolandó tény a hitelintézet általi megkeresés útján, az igénylő közreműködése nélkül is igazolható, az (1) bekezdés szerinti csatolandó dokumentum megjelölésével és a felmerült költségek utólagos megfizetésének vállalásával az igénylő kérheti, hogy a megjelölt dokumentumot – az igénylő helyett és nevében történő eljárásra feljogosító, a szükséges adatkezeléshez való hozzájárulást is tartalmazó meghatalmazás alapján – a hitelintézet szerezze be. A meghatalmazáshoz szükséges nyomtatványokat a hitelintézet biztosítja.
 
-(3)[^122] A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot nem hiteles tulajdoni lap másolat lekérésével ellenőrzi.
+(3)[^124] A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot nem hiteles tulajdoni lap másolat lekérésével ellenőrzi.
 
-(4)[^123] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy az állami adóhatóság, illetve a kormányhivatal a kérelembeli nyilatkozatokban foglaltak ellenőrzése céljából az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat beszerezze, az azokban foglalt személyes adatait kezelje.
+(4)[^125] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy az állami adóhatóság, illetve a kormányhivatal a kérelembeli nyilatkozatokban foglaltak ellenőrzése céljából az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat beszerezze, az azokban foglalt személyes adatait kezelje.
 
-(5)[^124] A családi otthonteremtési kedvezmény igénylésekor az igénylő a büntetőjogi felelősség vállalásával tett nyilatkozat helyett – választása szerint – a következők szerint igazolhatja a kedvezményre való jogosultság feltételeinek meglétét:
+(5)[^126] A családi otthonteremtési kedvezmény igénylésekor az igénylő a büntetőjogi felelősség vállalásával tett nyilatkozat helyett – választása szerint – a következők szerint igazolhatja a kedvezményre való jogosultság feltételeinek meglétét:
 
 a) a házasságot anyakönyvi kivonattal,
 
@@ -95,8 +95,10 @@ j) a gyámság fennállását a gyámhatóság kirendelő határozatával.
 [^117]: A 30. § (1) bekezdés 20–21. pontját a 273/2016. (IX. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 26/2018. (II. 28.) Korm. rendelet 38. § f) pontja.
 [^118]: A 30. § (1) bekezdés 22. pontját a 482/2016. (XII. 28.) Korm. rendelet 52. §-a iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^119]: A 30. § (1) bekezdés 23. pontját a 152/2019. (VI. 26.) Korm. rendelet 13. §-a iktatta be.
-[^120]: A 30. § (1a) bekezdését újonnan a 252/2020. (V. 29.) Korm. rendelet 5. §-a iktatta be.
-[^121]: A 30. § (1b) bekezdését a 252/2020. (V. 29.) Korm. rendelet 5. §-a iktatta be.
-[^122]: A 30. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^123]: A 30. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 32. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^124]: A 30. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 32. §-a iktatta be.
+[^120]: A 30. § (1a) bekezdését újonnan a 252/2020. (V. 29.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 284/2020. (VI. 17.) Korm. rendelet 82. § a) pontja szerint módosított szöveg.
+[^121]: A 30. § (1a) bekezdés b) pontja a 284/2020. (VI. 17.) Korm. rendelet 82. § b) pontja szerint módosított szöveg.
+[^122]: A 30. § (1b) bekezdését a 252/2020. (V. 29.) Korm. rendelet 5. §-a iktatta be.
+[^123]: A 30. § (1b) bekezdés b) pontja a 284/2020. (VI. 17.) Korm. rendelet 82. § b) pontja szerint módosított szöveg.
+[^124]: A 30. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^125]: A 30. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 32. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^126]: A 30. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 32. §-a iktatta be.
