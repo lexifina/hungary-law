@@ -1,7 +1,0 @@
-## 36. § Az 1952-es Pp. hatálya alá tartozó eljárásokban végrehajtás felfüggesztésének, a Kp. hatálya alá tartozó eljárásokban azonnali jogvédelemnek nincs helye, ha a közigazgatási cselekmény az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány következményeinek elhárításához vagy a magyar állampolgárok egészségének és életének megóvásához kapcsolódik.
-
-37. § (1)[^16]
-
-(2) Ha a jogi képviselő nélkül eljáró fél által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a bíróságnak részletes, a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan. Ennek eredménytelensége esetén van csak helye visszautasításnak.
-
-[^16]: A 37. § (1) bekezdését a 229/2020. (V. 25.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte.

@@ -1,1 +1,0 @@
-## 24. § A veszélyhelyzet ideje alatt a keresetlevelet, a keresetet tartalmazó iratot, a viszontkeresetlevelet, a beszámítást tartalmazó iratot és az írásbeli ellenkérelmet a jogi képviselő nélkül eljáró fél kizárólag írásban, a jogszabályban előírt nyomtatvány alkalmazása nélkül is előterjesztheti.

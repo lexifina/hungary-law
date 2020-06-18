@@ -1,1 +1,0 @@
-## 86. § Ha a perújítási indítványt a bíróságnál terjesztették elő, a bíróság azt az alapügy bírósági ügyirataival együtt észrevételének megtétele érdekében megküldi az ügyészségnek. Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt három hónapon belül visszaküldi a bíróságnak.
