@@ -40,15 +40,17 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (17)[^454] Az egyes köznevelési tárgyú miniszteri rendeletek módosításáról szóló 45/2014. (X. 27.) EMMI rendelet (a továbbiakban: Mód. r.) hatálybalépését[^455] megelőzően megalakított intézményi tanács a Mód. r. hatálybalépését követő negyvenöt napon belül ügyrendjét a 121. § (5b) bekezdése alapján felülvizsgálja és módosított ügyrendjét megküldi a hivatal számára.
 
-(18)[^456]
+(18)[^456] A 2020/2021. nevelési évre történő óvodai beiratkozások során a kötelező felvételt biztosító óvodába való beiratkozáshoz szükséges iratok bemutatására a gyermek első óvodai nevelési napján kerül sor.
 
-(19)–(20)[^457]
+(19)[^457] A 2020. évre kiadott országos pedagógiai-szakmai ellenőrzési tervet nem kell alkalmazni, a 2020. évben nem teljesített pedagógiai szakmai ellenőrzéseket a 2021. évi országos pedagógiai-szakmai ellenőrzési tervben kell szerepeltetni. Az Oktatási Hivatal a 2021. évre szóló országos pedagógiai-szakmai ellenőrzési tervet a 2019/2020. tanév végéig készíti el.
 
-(21)–(25)[^458]
+(20)[^458]
 
-(26)[^459] E rendeletnek a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet módosításáról szóló 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával módosított 123. § (4) bekezdésében meghatározott megnevezéseket, az Nkt. 4. § 1. pontja szerinti alapfeladatokat, továbbá az Nkt. 7. §-a szerinti intézménytípusokat az érintett nevelési-oktatási intézmények tekintetében a fenntartó 2016. szeptember 30-ig köteles átvezetni az intézmény alapító okiratában, szakmai alapdokumentumában.
+(21)–(25)[^459]
 
-(27)[^460] Az EQAVET alapján a hivatal által átdolgozott ellenőrzési eszközöket a szakképző iskolában az országos pedagógiai-szakmai ellenőrzés során a 2018/2019-es tanévtől kezdődően kell alkalmazni.
+(26)[^460] E rendeletnek a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet módosításáról szóló 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával módosított 123. § (4) bekezdésében meghatározott megnevezéseket, az Nkt. 4. § 1. pontja szerinti alapfeladatokat, továbbá az Nkt. 7. §-a szerinti intézménytípusokat az érintett nevelési-oktatási intézmények tekintetében a fenntartó 2016. szeptember 30-ig köteles átvezetni az intézmény alapító okiratában, szakmai alapdokumentumában.
+
+(27)[^461] Az EQAVET alapján a hivatal által átdolgozott ellenőrzési eszközöket a szakképző iskolában az országos pedagógiai-szakmai ellenőrzés során a 2018/2019-es tanévtől kezdődően kell alkalmazni.
 
 [^450]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
 [^451]: A 193. § (10)–(11) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 13. § a) alpontja hatályon kívül helyezte.
@@ -56,8 +58,9 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 [^453]: A 193. § (16) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
 [^454]: A 193. § (17) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
 [^455]: A hatálybalépés időpontja 2014. november 4.
-[^456]: A 193. § (18) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
-[^457]: A 193. § (19)–(20) bekezdését a 13/2015. (III. 6.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
-[^458]: A 193. § (21)–(25) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 23. §-a iktatta be, hatályon kívül helyezte az 53/2016. (XII. 29.) EMMI rendelet 13. § b) alpontja.
-[^459]: A 193. § (26) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 26. §-a iktatta be.
-[^460]: A 193. § (27) bekezdését a 24/2017. (X. 3.) EMMI rendelet 12. §-a iktatta be.
+[^456]: A 193. § (18) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja hatályon kívül helyezte, újonnan a 21/2020. (VI. 17.) EMMI rendelet 7. §-a iktatta be.
+[^457]: A 193. § (19) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja hatályon kívül helyezte, újonnan a 21/2020. (VI. 17.) EMMI rendelet 7. §-a iktatta be.
+[^458]: A 193. § (20) bekezdését a 13/2015. (III. 6.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
+[^459]: A 193. § (21)–(25) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 23. §-a iktatta be, hatályon kívül helyezte az 53/2016. (XII. 29.) EMMI rendelet 13. § b) alpontja.
+[^460]: A 193. § (26) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 26. §-a iktatta be.
+[^461]: A 193. § (27) bekezdését a 24/2017. (X. 3.) EMMI rendelet 12. §-a iktatta be.
