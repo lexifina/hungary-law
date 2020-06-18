@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a minimális építőipari rezsióradíj 2019. évi mértékéről szóló 23/2019. (VIII. 14.) ITM rendelet.
+## 6. §[^2]
 
 1. melléklet a 17/2020. (VI. 12.) ITM rendelethez
 
@@ -65,3 +65,5 @@ A minimális építőipari rezsióradíj költségnemei és értékei
 | 29. | Elvárt eredmény értéke (23.+25.+27. sor összesen × 0,02) | 82 |
 
 | 30. | Mindösszesen 23.+25.+27.+29. sor | 4165 |
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
