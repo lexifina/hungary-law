@@ -4,18 +4,18 @@
 
 (2) Azok a hallgatók, akik tanulmányaikat a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: 2005. évi törvény), valamint az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet szerinti felsőfokú szakképzésben kezdték meg, azt a korábbi szakmai és vizsgakövetelmények alapján fejezhetik be és szerezhetnek bizonyítványt, vagy szakváltással e rendelet szerint indított felsőoktatási szakképzésben folytathatják tanulmányaikat és szerezhetnek oklevelet. A 2005. évi törvény szerinti felsőfokú szakképzésben tanulmányaikat megkezdett hallgatók szakmai gyakorlatára a 2005. évi törvény, valamint a szakképzésről szóló 1993. évi LXXIX. törvény rendelkezései irányadók.
 
-(3)[^36]
+(3)[^39]
 
-(4)[^37]
+(4)[^40]
 
-(5)[^38] Az Oktatási Hivatal 2016. április 30-át követően vizsgálhatja a 15. § (4) bekezdésében foglalt követelmények teljesülését.
+(5)[^41] Az Oktatási Hivatal 2016. április 30-át követően vizsgálhatja a 15. § (4) bekezdésében foglalt követelmények teljesülését.
 
-(6)[^39]
+(6)[^42]
 
-(7)[^40] E rendelettől az államtudományi képzési területhez tartozó képzések tekintetében jogszabály eltérhet.
+(7)[^43] E rendelettől az államtudományi képzési területhez tartozó képzések tekintetében jogszabály eltérhet.
 
-[^36]: A 20. § (3) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
-[^37]: A 20. § (4) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 8. pontja hatályon kívül helyezte.
-[^38]: A 20. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^39]: A 20. § (6) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
-[^40]: A 20. § (7) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 9. §-a szerint módosíott szöveg.
+[^39]: A 20. § (3) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
+[^40]: A 20. § (4) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 8. pontja hatályon kívül helyezte.
+[^41]: A 20. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^42]: A 20. § (6) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
+[^43]: A 20. § (7) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 9. §-a szerint módosíott szöveg.

@@ -1,6 +1,6 @@
-## 18/A. §[^32] Az Nftv. 44. § (3a) bekezdésében meghatározott szakmai gyakorlatra a 17. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+## 18/A. §[^35] Az Nftv. 44. § (3a) bekezdésében meghatározott szakmai gyakorlatra a 17. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-18/B. §[^33] (1) A hallgatóval kötendő megállapodásnak tartalmaznia kell különösen:
+18/B. §[^36] (1) A hallgatóval kötendő megállapodásnak tartalmaznia kell különösen:
 
 a) a szakmai gyakorlóhely költségvetési szerv adatait (nevét, székhelyét, elérhetőségét, vezetőjének nevét);
 
@@ -26,5 +26,5 @@ b) a szakmai gyakorlati ismereteket a képességeinek megfelelően elsajátítja
 
 c) a biztonsági, az egészségügyi és a munkavédelmi előírásokat megtartja.
 
-[^32]: A 18/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 21. §-a iktatta be.
-[^33]: A 18/B. §-t a 345/2015. (XI. 19.) Korm. rendelet 21. §-a iktatta be.
+[^35]: A 18/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 21. §-a iktatta be.
+[^36]: A 18/B. §-t a 345/2015. (XI. 19.) Korm. rendelet 21. §-a iktatta be.
