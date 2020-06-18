@@ -1,1 +1,0 @@
-## 5. § A veszélyhelyzet megszűnéséig, de legkésőbb 2020. december 31-ig az Exim tv. 2. § (2a) bekezdésétől eltérően az ügyfél az Eximbank által folyósított kölcsönt bármely pénzügyi intézmény által folyósított kölcsön kiváltására is fordíthatja, ha a kiváltandó kölcsön megfelel az Exim tv. 2. § (1) bekezdésében meghatározott hitelcéloknak.
