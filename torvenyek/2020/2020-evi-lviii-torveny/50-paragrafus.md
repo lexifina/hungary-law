@@ -1,0 +1,1 @@
+50. § Ha a pénztárgép éves felülvizsgálatának határideje a veszélyhelyzet időtartama alatt járt le, a felülvizsgálatot az üzemeltető a veszélyhelyzet megszűnését követő százhúsz napon belül köteles elvégeztetni.

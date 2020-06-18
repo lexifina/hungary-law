@@ -1,0 +1,1 @@
+51. § Ha az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automatában működő automata felügyeleti egység éves felülvizsgálatának határideje a veszélyhelyzet ideje alatt járt le, a felülvizsgálatot az üzemeltető a veszélyhelyzet megszűnését követő százhúsz napon belül köteles elvégeztetni.

@@ -1,0 +1,5 @@
+137. § (1) Ha a bíróság a 2020. március 31. napja és 2020. június 1. napja közötti időszakban beszerezte a tárgyalás mellőzésével lefolytatott perfelvétel lezárásához szükséges – a jogvita kereteit meghatározó – nyilatkozatokat, a perfelvételt perfelvételi tárgyalás mellőzésével zárja le. A bíróság a perfelvétel lezárása előtt a feleket erre írásban figyelmezteti, és lehetőséget biztosít további nyilatkozatok írásban történő megtételére. A bíróság a perfelvétel lezárását írásban közli a felekkel.
+
+(2) Ha a bíróság a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a perfelvétel lefolytatását megkezdte, de a felek a veszélyhelyzet megszűnéséig még nem tették meg valamennyi, a jogvita kereteit meghatározó nyilatkozataikat, a bíróság a perfelvételt a perfelvételi tárgyalás kitűzésével vagy a Pp. 197. § (1) bekezdés b) és c) pontja szerinti eljárással folytatja.
+
+(3) Ha a veszélyhelyzet ideje alatt a bíróság ideiglenes intézkedést – erre irányuló kérelem esetén – a perindítást megelőzően rendelt el, a per megindítására a bíróság által megállapított határidő a veszélyhelyzet megszűnését követő napon kezdődik.

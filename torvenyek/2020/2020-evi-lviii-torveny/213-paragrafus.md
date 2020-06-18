@@ -1,0 +1,1 @@
+213. § A bíróság a Be. C. Fejezetében meghatározott egyéb feltételek fennállása esetén – a terhelt beismerésétől függetlenül – a fiatalkorúval szemben bármely bűncselekmény esetén hozhat büntetővégzést.

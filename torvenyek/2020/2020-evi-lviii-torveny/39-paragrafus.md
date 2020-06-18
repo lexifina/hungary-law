@@ -1,0 +1,5 @@
+## 17. A munkahelyi gyermekfelügyelet kapcsán érvényesíthető adó és járulékkedvezmények
+
+39. § (1) A munkahelyi gyermekfelügyelet végzése céljából foglalkoztatott személy esetében a 2020. április, május és június hónapra vonatkozóan a Tbj. szerint járulékalapot képező jövedelem után járulékként kizárólag a Tbj. szerinti természetbeni egészségbiztosítási járulékot kell megfizetni azzal, hogy ennek összege a 7710 forintot nem haladhatja meg. A járulékfizetés e bekezdés szerinti teljesítése nem érinti a Tbj. szerinti biztosítottnak a társadalombiztosítási és munkaerőpiaci ellátásokra való jogosultságát és ezen ellátások összegét.
+
+(2) A munkahelyi gyermekfelügyelet végzése céljából foglalkoztatott személy számára a 2020. április, május és június hónapra kifizetett jövedelem, juttatás után a kifizetőnek a szociális hozzájárulási adóról szóló 2018. évi LII. törvény szerinti szociális hozzájárulási adó, valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény szerinti szakképzési hozzájárulás megfizetésének kötelezettségét nem kell teljesítenie.

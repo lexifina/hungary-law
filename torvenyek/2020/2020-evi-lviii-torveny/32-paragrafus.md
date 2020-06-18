@@ -1,0 +1,5 @@
+32. § (1) A veszélyhelyzet fennállása alatt lejáró, az állam vagy helyi önkormányzat tulajdonában lévő lakásra kötött lakásbérleti szerződés, valamint az állami vagy önkormányzati tulajdonú helyiségekre vonatkozó bérleti szerződés új pályázat kiírása nélkül a bérlő egyoldalú, a veszélyhelyzet fennállása alatt – de legkésőbb a szerződés lejártának utolsó napján – megtett írásbeli nyilatkozata alapján a veszélyhelyzet megszűnését követő 90. napig meghosszabbodik.
+
+(2) A veszélyhelyzet megszűnését követő harmincadik napig a nemzeti vagyonról szóló törvény rendelkezéseitől az állam vagy helyi önkormányzat tulajdonában lévő lakás tekintetében fennálló lakásbérleti szerződés, illetve az állami vagy önkormányzati tulajdonú helyiségek tekintetében fennálló bérleti szerződés tartalma vonatkozásában a felek közös megegyezéssel eltérhetnek.
+
+(3) Az (1) és (2) bekezdés rendelkezéseit a 2020. május 6. napján vagy azt megelőzően kötött, az állam vagy helyi önkormányzat tulajdonában lévő lakás tekintetében fennálló lakásbérleti szerződésre, valamint az állami vagy önkormányzati tulajdonú helyiségek tekintetében fennálló bérleti szerződésre is alkalmazni kell.

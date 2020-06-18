@@ -1,0 +1,3 @@
+## „(3) Az (1) bekezdés c) pontja szerinti esetben a szolgálatteljesítés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy az állomány tagja előző évről megmaradt szabadságát, a túlszolgálat ellentételezését biztosító pihenőidőt és az éves szabadságának 112. § (1) bekezdésében foglaltak szerinti időarányos részét már kiadta. Ebben az esetben a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.”
+
+371. § A Hjt. 122. §-a a következő (8) bekezdéssel egészül ki:

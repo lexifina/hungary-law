@@ -1,0 +1,1 @@
+208. § A bíróság eljárásnak a Be. 488. § (2) bekezdése alapján történő felfüggesztésének tartamát járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel három hónappal meghosszabbíthatja.

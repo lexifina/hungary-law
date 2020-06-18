@@ -1,0 +1,1 @@
+46. § Az elektronikus kapcsolattartásra nem kötelezett adózó az elektronikus úton folytatott fizetési kedvezményi eljárásban a fizetési kedvezmény iránti kérelmét 2020. szeptember 30-ig az általános célú elektronikus kérelem űrlapszolgáltatás útján is előterjesztheti.

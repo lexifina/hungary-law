@@ -1,0 +1,3 @@
+## 8. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény eltérő alkalmazása
+
+24. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: 1994. évi XLII. törvény) 2. § (2a) bekezdésétől eltérően 2020. december 31-ig az ügyfél a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság által folyósított kölcsönt bármely pénzügyi intézmény által folyósított kölcsön kiváltására is fordíthatja, ha a kiváltandó kölcsön megfelel az 1994. évi XLII. törvény 2. § (1) bekezdésében meghatározott hitelcéloknak.

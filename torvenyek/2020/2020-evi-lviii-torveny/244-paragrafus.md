@@ -1,0 +1,1 @@
+244. § A rendbírság helyébe lépő elzárás és a szabálysértési elzárás végrehajtása során a szabadságvesztés végrehajtására vonatkozó különös szabályait megfelelően alkalmazni kell azzal, hogy a befogadást követő tizennégy napos elkülönítés alatt is biztosítani kell a Bv. tv. 273. § (5) bekezdése szerinti szabályokat.

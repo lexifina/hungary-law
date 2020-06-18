@@ -1,0 +1,3 @@
+## „106/B. § A kincstár a belföldi gépjárművek után beszedett adó központi költségvetés részére történő befizetésének a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.”
+
+363. § Az Áht. a következő 111/G. és 111/H. §-sal egészül ki:

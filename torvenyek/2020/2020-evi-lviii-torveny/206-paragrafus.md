@@ -1,0 +1,1 @@
+206. § A bíróság – a Be. 484. § (1) bekezdés f) pontja kivételével – az ügyiratok bírósághoz érkezését követő három hónapon belül vizsgálja meg, hogy szükséges, illetve lehetséges-e a Be. 484. § (1) bekezdésében meghatározott valamely intézkedés.

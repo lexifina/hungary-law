@@ -1,0 +1,1 @@
+129. § Ha a veszélyhelyzet ideje alatt a szakértői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte a szakértői vagy szakértői testületi tagi tevékenységet, az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.

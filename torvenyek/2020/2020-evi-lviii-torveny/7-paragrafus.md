@@ -1,0 +1,1 @@
+7. § Az e törvény hatálybalépéséig létrejött, a központi költségvetés terhére nyújtott költségvetési támogatásból megvalósuló programokkal, projektekkel összefüggő támogatási jogviszonyokban meghatározott támogatott tevékenység időtartama e törvény hatálybalépését követő 180. napig meghosszabbodik.

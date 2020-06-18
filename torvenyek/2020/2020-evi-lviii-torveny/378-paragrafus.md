@@ -1,0 +1,3 @@
+## 107. Egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény módosítása
+
+378. § Hatályát veszti az egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény 1. mellékletében foglalt táblázat 232. sora.

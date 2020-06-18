@@ -1,0 +1,1 @@
+199. § A Be. 189. § (6) bekezdésében a szakvélemény előterjesztésére meghatározott határidőt a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel a bíróság, az ügyészség vagy a nyomozó hatóság legfeljebb három hónappal meghosszabbíthatja.

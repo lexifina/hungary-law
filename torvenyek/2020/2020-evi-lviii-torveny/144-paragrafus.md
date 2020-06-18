@@ -1,0 +1,1 @@
+144. § E törvénynek az 1952-es Pp. és a Pp. tekintetében megállapított eltérő rendelkezéseit alkalmazni kell a bírósági hatáskörbe tartozó polgári nemperes eljárásokban is az eljárás nemperes jellegéből adódó eltérésekkel, kivéve, ha e törvény az adott eljárásra eltérő szabályt állapít meg.

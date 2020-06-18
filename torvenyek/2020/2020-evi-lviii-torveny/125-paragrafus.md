@@ -1,0 +1,1 @@
+125. § A közjegyzőkről szóló 1991. évi XLI. törvény 18. § (3) bekezdésében foglaltaktól eltérően a megüresedő közjegyzői állásra a pályázatot a veszélyhelyzet megszűnését követő három hónapon belül kell meghirdetni.

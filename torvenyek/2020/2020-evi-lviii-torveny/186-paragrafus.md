@@ -1,0 +1,1 @@
+186. § Nem bűncselekmény, hanem szabálysértés valósul meg, ha a Büntető Törvénykönyvről szóló 2012. évi C. törvény 361. §-ában meghatározott bűncselekményt a COVID-19 fertőzöttség vagy annak gyanúja miatt elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével követik el.

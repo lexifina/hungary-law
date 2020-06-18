@@ -1,0 +1,3 @@
+116. § (1) Ha az éves elszámolásról és a következő évi költségvetésről való döntés, vagy más kötelező döntés határideje a veszélyhelyzet ideje alatt járt le, és ezekben az ügyekben a veszélyhelyzet ideje alatt irányadó szabályok alkalmazásával nem született döntés, akkor e tárgykörökben a veszélyhelyzet megszűnését követő 90 napon belül kell a közgyűlésnek döntenie.
+
+(2) Ha a közgyűlési döntés írásbeli szavazással történő meghozatalát a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a veszélyhelyzet ideje alatt irányadó szabályok szerint a veszélyhelyzet megszűnéséig kérték, az írásbeli szavazást és eredményének közlését a kérelem benyújtásakor hatályos rendelkezések szerint kell lefolytatni.

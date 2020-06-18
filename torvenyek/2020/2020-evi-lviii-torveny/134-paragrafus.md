@@ -1,0 +1,1 @@
+134. § Ha a veszélyhelyzet ideje alatt az ügyvédi eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte az ügyvédi tevékenységet, az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.

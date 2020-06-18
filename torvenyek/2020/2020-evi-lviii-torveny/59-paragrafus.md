@@ -1,0 +1,3 @@
+## 27. Kormánytisztviselőkre vonatkozó átmeneti szabályok
+
+59. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) 11. § (2) bekezdése szerinti tartós külszolgálati kihelyezés előtt álló kormánytisztviselő felkészítésének időtartama a kihelyező vezető döntése alapján a veszélyhelyzet megszűnése napját követően meghosszabbítható addig a napig, amíg az érintett kihelyezésének feltételei biztosítottá válnak, azzal, hogy az e § szerinti hosszabbítás és a veszélyhelyzet ideje alatt egyes külszolgálattal kapcsolatos eltérő rendelkezésekről szóló 121/2020. (IV. 16.) Korm. rendelet 1. §-a szerinti hosszabbítás a Külszoltv. 11. § (2) bekezdése szerinti időtartamot nem haladhatja meg.

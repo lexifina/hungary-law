@@ -1,0 +1,3 @@
+## 42. Bizalmi szolgáltatási tanúsítványokra vonatkozó átmeneti szabályok
+
+92. § A veszélyhelyzet során az elektronikus azonosítási feltételekkel, a végrehajtással és a médiaszolgáltatási díjjal kapcsolatos egyes jogszabályok eltérő alkalmazásáról szóló 132/2020. (IV. 17.) Korm. rendelet [a továbbiakban: 132/2020. (IV. 17.) Korm. rendelet] szerinti videotechnológiás azonosítás útján vagy a kormányzati hitelesítésszolgáltató által a 132/2020. (IV. 17.) Korm. rendelet szerinti azonosítás útján és a 132/2020. (IV. 17.) Korm. rendelet szerint átadott bizalmi szolgáltatási tanúsítványok a kiállításuktól számított hat hónapig érvényesek.

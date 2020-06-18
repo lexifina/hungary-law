@@ -1,0 +1,1 @@
+48. § Az Art. 264. §-a szerinti, a veszélyhelyzet megszűnését követő harmincadik nap negyedévét követő közzététel során az állami adó- és vámhatóság figyelmen kívül hagyja a veszélyhelyzet ideje alatt és az azt követő harminc napon belül esedékes adótartozást.

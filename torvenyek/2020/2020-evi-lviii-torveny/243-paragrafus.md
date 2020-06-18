@@ -1,0 +1,1 @@
+243. § Az őrizet és a letartóztatás végrehajtása során a szabadságvesztés végrehajtására vonatkozó különös szabályokat megfelelően alkalmazni kell azzal, hogy a letartóztatott befogadását követő tizennégy napos elkülönítés alatt is biztosítani kell a Bv. tv. 391. § (1) bekezdése szerinti szabályokat.

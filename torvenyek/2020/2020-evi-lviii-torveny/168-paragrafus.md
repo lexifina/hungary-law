@@ -1,0 +1,1 @@
+168. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvénytől eltérően a vendéglátó-ipar területén működő felügyeleti díj fizetésére kötelezettnek 2020. évben a felügyeleti díj bevallására vonatkozó kötelezettségét és az első részlet megfizetését 2020. szeptember 30-ig kell teljesítenie.

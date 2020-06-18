@@ -1,0 +1,1 @@
+84. § A koronavírus járvány terjedésének csökkentése érdekében a gyógyszer kiadója a gyógyszer kiadását felírási igazolás nélkül is teljesíti azon személy részére, aki a beteg társadalombiztosítási azonosító jelét közli, és saját természetes személyazonosító adatait törvényben meghatározottak szerint hitelt érdemlően igazolja.

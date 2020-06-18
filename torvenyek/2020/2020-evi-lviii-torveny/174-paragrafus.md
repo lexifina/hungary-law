@@ -1,0 +1,1 @@
+174. § Az építőipari nyers- és alapanyag esetében a Bt. 22. §-ában meghatározott kutatási műszaki üzemi tervnek a 203/1998. (XII. 19.) Korm. rendelet 6/D. §-ában előírt tartalmi követelményeit megfelelően alkalmazni kell azzal, hogy a Bt. 3. § (4) bekezdésében meghatározott bejelentésben az ásványi nyersanyag megnevezése helyett a megkutatni kívánt térrészt kell megjelölni.

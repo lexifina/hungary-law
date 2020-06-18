@@ -1,0 +1,15 @@
+260. § (1) Ha a bíróság az átadás feltételeinek fennállását megállapította, és a terhelt átadása a 259. § (1) bekezdése alapján nem hajtható végre, a bíróság az ideiglenes átadási bűnügyi felügyelet, illetve az átadási letartóztatás indokoltságát az átadás feltételeinek fennállásának megállapítását követően legfeljebb háromhavonta az ügyiratok alapján hivatalból felülvizsgálja.
+
+(2) A bíróság a kényszerintézkedés indokoltságának felülvizsgálata során az igazságügyért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) útján megkeresi a kibocsátó tagállami igazságügyi hatóságot annak érdekében, hogy
+
+a) az európai elfogatóparancs kibocsátásának feltételei továbbra is fennállnak-e, illetve
+
+b) a kibocsátott európai elfogatóparanccsal elérni kívánt cél egyéb jogsegéllyel nem biztosítható-e.
+
+(3) A bíróság a kényszerintézkedés indokoltságát az (1)–(2) bekezdésben meghatározottak szerint felülvizsgálja és határozatot hoz, amelyben a kényszerintézkedést
+
+a) fenntartja, vagy
+
+b) megszünteti.
+
+(4) A 259. § (1) bekezdése szerinti akadály megszűnését követően a NEBEK haladéktalanul intézkedik a terhelt átadásáról.

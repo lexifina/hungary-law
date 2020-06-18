@@ -1,0 +1,5 @@
+117. § (1) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt járt le, a közös képviselő (intézőbizottság) az új közös képviselő (intézőbizottság) megválasztásáig, de legkésőbb a veszélyhelyzet megszűnését követő 90. napig köteles a feladatait – változatlan díjazás mellett – ellátni.
+
+(2) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt az (1) bekezdésben foglaltakon kívüli okból szűnt meg, vagy a közös képviselő (intézőbizottság) a veszélyhelyzet folytán nem volt képes ellátni a feladatait, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat a számvizsgáló bizottság látja el. Számvizsgáló bizottság hiányában, vagy ha a veszélyhelyzet folytán a számvizsgáló bizottság sem volt képes eljárni, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat bármely tulajdonostárs elláthatja.
+
+(3) Az (1) és (2) bekezdés szerinti esetben az új közös képviselőt (intézőbizottságot) a veszélyhelyzet megszűnését követő 90 napon belül kell megválasztani, feltéve, hogy erről a veszélyhelyzet ideje alatt irányadó szabályok alkalmazásával nem született döntés.

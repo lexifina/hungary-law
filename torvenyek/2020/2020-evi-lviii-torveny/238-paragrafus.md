@@ -1,0 +1,1 @@
+238. § Az elzárás végrehajtása során a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel a szabadságvesztés végrehajtására vonatkozó különös szabályokat megfelelően alkalmazni kell azzal, hogy az elítélt befogadását követő tizennégy napos elkülönítés alatt is biztosítani kell a Bv. tv. 273. § (5) bekezdése szerinti szabályokat.

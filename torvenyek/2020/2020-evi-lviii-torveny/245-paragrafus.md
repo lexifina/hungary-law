@@ -1,0 +1,1 @@
+245. § A bv. intézet és a javítóintézet a járványügyi védekezés, a hatósági házi karantén, a kijelölt karantén, valamint a járványügyi megfigyelés, zárlat vagy elkülönítés fennállásának ellenőrzése céljából adatot igényelhet a rendőrségnek a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából vezetett nyilvántartásából.

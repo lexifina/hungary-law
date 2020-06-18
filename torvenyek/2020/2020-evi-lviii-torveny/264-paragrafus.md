@@ -1,0 +1,3 @@
+264. § (1) A bíróság e törvény hatálybalépését követően vagy az ezen alcím szerinti akadály elhárulását követően soron kívül intézkedik az átadás végrehajtása érdekében, ha a 89/2020. (IV. 5.) Korm. rendelet 15. § (1) bekezdése alapján a terhelt átadásának végrehajtását ideiglenesen elhalasztotta.
+
+(2) A miniszter e törvény hatálybalépését követő vagy az ezen alcím szerinti akadály elhárulását követő három hónapon belül meghozza a 89/2020. (IV. 5.) Korm. rendelet 19. § (2) bekezdése miatt nem kezdeményezett, magyar bíróság által kiszabott jogerős szabadságvesztés büntetés vagy alkalmazott szabadságelvonással járó intézkedés végrehajtásának átadásával kapcsolatos döntését.

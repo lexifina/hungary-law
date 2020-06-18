@@ -1,0 +1,3 @@
+262. § (1) Az eljárási jogsegély teljesítése során a fogvatartott személy Magyarországra vagy külföldre történő átszállítása vagy visszaszállítása nem hajtható végre, ha az a járványügyi intézkedés vagy az egészségügyi válsághelyzettel összefüggő egyéb rendelkezés miatt Magyarország határának vagy a járványügyi helyzettel összefüggésben az át- vagy visszaszállítással érintett más állam határának átlépésére vonatkozó szabályokkal ellentétes.
+
+(2) Az (1) bekezdés szerinti akadály megszűnését követően a NEBEK haladéktalanul intézkedik a fogvatartott személy átszállításáról vagy visszaszállításáról.

@@ -1,0 +1,1 @@
+204. § A bíróság járványügyi intézkedés megtartása érdekében vagy egészségügyi válsághelyzettel összefüggő más okra figyelemmel hivatalból vagy az ügyész, a vádlott, a védő, a sértett, illetve a vagyoni érdekelt és az egyéb érdekelt indítványára meghatározhatja a hallgatóság létszámát a tárgyaláson.

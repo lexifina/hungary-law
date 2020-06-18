@@ -1,0 +1,7 @@
+26. § (1) A 2019/2020. tanévben a tanuló év végi osztályzatát – a tanulmányi követelmények teljesítettségétől függetlenül – a tanítási év közben adott érdemjegyek alapján kell megállapítani.
+
+(2) A 2019/2020. tanév tanulmányi követelményeit teljesítettnek kell tekinteni, ha a tanuló az általa a 2019/2020. tanévben látogatott évfolyamra a szakmai és vizsgakövetelményben előírt összefüggő szakmai gyakorlat legalább hatvan százalékát teljesítette.
+
+(3) A 2020/2021. tanév október–novemberi vizsgaidőszakában kötelező – javító-, pótlóvizsgának nem tekintendő – vizsgalehetőséget biztosítani az olyan tanuló számára is, aki a (4) bekezdés szerinti gyakorlati képzést teljesítette és a veszélyhelyzet időtartama alatt azért nem volt vizsgára bocsátható, mert nem teljesítette az iskola pedagógiai programjában meghatározott gyakorlati követelmények hatvan százalékát.
+
+(4) A (3) bekezdés szerinti tanuló vizsgára történő felkészítése érdekében az iskola vagy – tanulószerződéssel rendelkező tanuló esetén – a gyakorlati képzést folytató gazdálkodó szervezet az elmaradt tanulmányi követelmények teljesítése figyelembevételével a 2020. augusztus 24. és 2020. október 2. közötti időszakban gyakorlati képzést köteles szervezni, amelyen a tanuló részvétele kötelező. A tanuló számára a tanulmányi követelmények teljesítését igazoló bizonyítvány azt követően állítható ki, ha teljesítette az iskola pedagógiai programjában meghatározott gyakorlati követelmények hatvan százalékát.
