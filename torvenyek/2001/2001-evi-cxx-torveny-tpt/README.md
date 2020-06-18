@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2020-01-01 | 2019. évi CXVIII. törvény | 2001-120-00-00.79 |
 | 2020-01-03 | 2019. évi CXVIII. törvény | 2001-120-00-00.80 |
 | 2020-01-18 | 2019. évi CXVIII. törvény | 2001-120-00-00.81 |
+| 2020-06-18 | 2020. évi LVIII. törvény | 2001-120-00-00.82 |
