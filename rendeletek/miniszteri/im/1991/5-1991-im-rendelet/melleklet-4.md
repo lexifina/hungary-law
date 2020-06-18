@@ -2,7 +2,7 @@
 
 | ………………………………. aláírás |
 
-4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^91]
+4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^90]
 
 ## A jogi szakvizsga vizsgaszabályzata
 
@@ -88,9 +88,9 @@ e) a sikeres részvizsgáról szóló tanúsítványt a jelölt részére átadn
 
 11. A pótvizsgára, valamint a vizsgatárgyból tett ismétlő vizsgára a részvizsga menetének szabályait kell megfelelően alkalmazni.
 
-IV. A jogi szakvizsga vizsgaszabályzatának a veszélyhelyzet ideje alatt érvényesülő eltérő rendelkezései
+IV. A jogi szakvizsga vizsgaszabályzatának 2020. december 31-ig érvényesülő eltérő rendelkezései
 
-1. A veszélyhelyzet ideje alatt a vizsgáztatók beosztására vonatkozó I. alcím 2. és 3. pontjában meghatározott határidőknél rövidebb határidők is megállapíthatóak azzal, hogy a vizsgáztatónak az értesítés megküldésétől számított két napon belül elektronikus úton jeleznie kell, hogy a vizsgán részt tud-e venni, vagy a vizsgáztatást lemondja.
+1. A vizsgáztatók beosztására vonatkozó I. alcím 2. és 3. pontjában meghatározott határidőknél rövidebb határidők is megállapíthatóak azzal, hogy a vizsgáztatónak az értesítés megküldésétől számított két napon belül elektronikus úton jeleznie kell, hogy a vizsgán részt tud-e venni, vagy a vizsgáztatást lemondja.
 
 2. A jelölt az írásbeli vizsga dolgozatának valamennyi lapját aláírja. Ha az írásbeli vizsgára nem Budapesten kerül sor, a vizsgabiztos a jegyzőkönyvet és a dolgozatok feladatlapjait elektronikus levélben a minisztériumnak a vizsga befejezését követően haladéktalanul megküldi, majd a borítékot két másik személy jelenlétében leragasztja.
 
@@ -102,4 +102,4 @@ IV. A jogi szakvizsga vizsgaszabályzatának a veszélyhelyzet ideje alatt érv�
 
 6. Miután a jelölt mindegyik vizsgatárgyból vizsgázott, a vizsgabizottság a videókonferenciát a jelölt kizárásával folytatja, ahol zárt tanácskozásban értékeli a jelölt részvizsgán nyújtott teljesítményét; a vizsga eredményét a jegyzőkönyvben fel kell tüntetni. A vizsgabizottság elnöke ezt követően a jelölttel a videókonferencia keretében szóban röviden ismerteti a részvizsga értékelését, valamint annak eredményét, és sikeres vizsga esetén tájékoztatja arról, hogy részére a tanúsítványt a minisztérium küldi meg. Sikertelen vagy részben sikertelen részvizsga esetén a vizsgabizottság elnöke a jelöltet a vizsgaismétlésre irányadó rendelkezésekről tájékoztatja.
 
-[^91]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése, a 3/2020. (IV. 21.) IM rendelet 2. §-a szerint módosított szöveg.
+[^90]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése, a 3/2020. (IV. 21.) IM rendelet 2. §-a, a 7/2020. (VI. 17.) IM rendelet 2–3. §-a szerint módosított szöveg.
