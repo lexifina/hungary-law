@@ -1,10 +1,10 @@
-## 6. §[^11] Az egészségügyi válsághelyzeti ellátásra történő felkészülés érdekében az egészségügyért felelős miniszter elrendelheti egészségügyi szolgáltató vagy egyéb, az egészségügyi válsághelyzeti feladatokra igénybe vehető szervezet részére tervezési, felkészülési feladatok végrehajtását.
+## 6. §[^12] Az egészségügyi válsághelyzeti ellátásra történő felkészülés érdekében az egészségügyért felelős miniszter elrendelheti egészségügyi szolgáltató vagy egyéb, az egészségügyi válsághelyzeti feladatokra igénybe vehető szervezet részére tervezési, felkészülési feladatok végrehajtását.
 
 7. § (1) Az egészségügyi válsághelyzeti ellátásra történő felkészülés keretében
 
 a) az egészségügyért felelős miniszter az országos tisztifőorvos közreműködésével az egészségügyi szolgáltatók részére közvetlenül vagy a közigazgatás-szervezésért felelős miniszter egyetértésével a megyei védelmi bizottság útján egészségügyi válsághelyzeti gyakorlatot vagy nemzetközi gyakorlatban való részvételt rendelhet el, ebben az esetben szervezi és irányítja annak végrehajtását,
 
-b)[^12] a megyei védelmi bizottság a megyei kormányhivatal javaslatára vagy egyetértésével az egészségügyi szolgáltató részére szakmai felkészítőt, egészségügyi válsághelyzeti gyakorlatot vagy megyei katasztrófavédelmi vagy honvédelmi felkészülési gyakorlatban való részvételt rendelhet el, azzal, hogy a megyei védelmi bizottság elnöke legalább 30 nappal korábban tájékoztatja az országos tisztifőorvost, valamint a közigazgatás-szervezésért felelős minisztert, illetve az egészségügyért felelős minisztert és lehetővé teszi kijelölt képviselőik részére a gyakorlat megtekintését.
+b)[^13] a megyei védelmi bizottság a megyei kormányhivatal javaslatára vagy egyetértésével az egészségügyi szolgáltató részére szakmai felkészítőt, egészségügyi válsághelyzeti gyakorlatot vagy megyei katasztrófavédelmi vagy honvédelmi felkészülési gyakorlatban való részvételt rendelhet el, azzal, hogy a megyei védelmi bizottság elnöke legalább 30 nappal korábban tájékoztatja az országos tisztifőorvost, valamint a közigazgatás-szervezésért felelős minisztert, illetve az egészségügyért felelős minisztert és lehetővé teszi kijelölt képviselőik részére a gyakorlat megtekintését.
 
 (2) Szakmai felkészítőre és gyakorlatra egészségügyi dolgozó, gyakorlatra egészségügyi szolgáltató nem egészségügyi dolgozója is kijelölhető.
 
@@ -18,17 +18,17 @@ b)[^12] a megyei védelmi bizottság a megyei kormányhivatal javaslatára vagy 
 
 a) ha munkavégzésre irányuló jogviszonyban áll, a foglalkoztató által folyósított időarányos munkabér,
 
-b)[^13] az a) pont hatálya alá nem tartozó egyéb esetben a megyei kormányhivatal által megállapított és folyósított, a munkavégzésre irányuló jogviszonyban álló, munkaköre szerint ugyanolyan tevékenységet végző, teljes munkaidőben foglalkoztatott munkavállalók átlagos havi munkabérének alapulvételével meghatározott díj
+b)[^14] az a) pont hatálya alá nem tartozó egyéb esetben a megyei kormányhivatal által megállapított és folyósított, a munkavégzésre irányuló jogviszonyban álló, munkaköre szerint ugyanolyan tevékenységet végző, teljes munkaidőben foglalkoztatott munkavállalók átlagos havi munkabérének alapulvételével meghatározott díj
 
 illeti meg.
 
-(7)[^14] Az országos gyógyintézet, az orvostudományi egyetem, valamint az egészségügyi oktatási intézmény a megyei kormányhivatal vezetője, az országos tisztifőorvos, illetve az egészségügyért felelős miniszter felkérésére a szakmai felkészítőre oktatót biztosít, akire a (6) bekezdés szerinti résztvevő személyre vonatkozó szabályokat kell alkalmazni. A felkérés alapján az országos gyógyintézet, az orvostudományi egyetem, illetve az egészségügyi szak- és főiskola vezetője a kiképzés előtt legalább 30 nappal e feladat ellátására az oktatót kijelöli.
+(7)[^15] Az országos gyógyintézet, az orvostudományi egyetem, valamint az egészségügyi oktatási intézmény a megyei kormányhivatal vezetője, az országos tisztifőorvos, illetve az egészségügyért felelős miniszter felkérésére a szakmai felkészítőre oktatót biztosít, akire a (6) bekezdés szerinti résztvevő személyre vonatkozó szabályokat kell alkalmazni. A felkérés alapján az országos gyógyintézet, az orvostudományi egyetem, illetve az egészségügyi szak- és főiskola vezetője a kiképzés előtt legalább 30 nappal e feladat ellátására az oktatót kijelöli.
 
 (8) Az egészségügyért felelős miniszter az általa elrendelt gyakorlattal kapcsolatos költségeket az általa vezetett minisztérium költségvetéséből megtéríti.
 
 (9) A gyakorlat elrendeléséről az elrendelő tájékoztatja a Magyar Honvédség és a rendvédelmi szervek egészségügyi szolgálatainak vezetőit, és biztosítja az általuk kijelölt megfigyelők részvételét.
 
-[^11]: A 6. § a 70/2015. (III. 30.) Korm. rendelet 241. § (4) bekezdésével megállapított szöveg.
-[^12]: A 7. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés e) pontja és (9) bekezdés a) pontja szerint módosított szöveg.
-[^13]: A 7. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés f) pontja szerint módosított szöveg.
-[^14]: A 7. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés f) pontja szerint módosított szöveg.
+[^12]: A 6. § a 70/2015. (III. 30.) Korm. rendelet 241. § (4) bekezdésével megállapított szöveg.
+[^13]: A 7. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés e) pontja és (9) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 7. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés f) pontja szerint módosított szöveg.
+[^15]: A 7. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés f) pontja szerint módosított szöveg.

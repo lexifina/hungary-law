@@ -1,4 +1,4 @@
-10. §[^19] (1) Az állam egészségügyi válsághelyzet esetére a tömeges ellátás feltételeinek biztosítása, a szükséggyógyintézetek működéséhez, továbbá az egészségügyi válsághelyzeti ellátáshoz szükséges gyógyszerek, egészségügyi anyagok és eszközök azonnali rendelkezésre állása céljából ÁEüT-t tart fenn.
+10. §[^20] (1) Az állam egészségügyi válsághelyzet esetére a tömeges ellátás feltételeinek biztosítása, a szükséggyógyintézetek működéséhez, továbbá az egészségügyi válsághelyzeti ellátáshoz szükséges gyógyszerek, egészségügyi anyagok és eszközök azonnali rendelkezésre állása céljából ÁEüT-t tart fenn.
 
 (2) Az ÁEüT-t az egészségügyért felelős miniszter felügyeli, és annak elemeiről évente tájékoztatja a megyei kormányhivatalokat és a megyei védelmi bizottságokat.
 
@@ -24,4 +24,4 @@
 
 (13) Az Országos Tervet az OMSZ, a NEAK, az ÁEEK és az OGYÉI és az országos tisztifőorvos részére az egészségügyért felelős miniszter küldi meg közvetlenül.
 
-[^19]: A 10. § a 113/2019. (V. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^20]: A 10. § a 113/2019. (V. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
