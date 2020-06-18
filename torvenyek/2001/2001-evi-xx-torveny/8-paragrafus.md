@@ -4,9 +4,15 @@
 
 a) a hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kétszáz százalékát,
 
-b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem hitelintézet tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének negyvenöt százalékát.
+b) pénzügyi vállalkozással szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének száz százalékát,
+
+c) pénzügyi intézménynek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem pénzügyi intézmény tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hatvan százalékát.
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
+
+(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt és amelyek a befektetési alapra, az alapkezelőre vagy azok keresztkapcsolataira tekintettel képeznének egyetlen kockázati tényezőt.
+
+(1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az 1. mellékletben meghatározott gazdasági társaságokra.
 
 (2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.
 
@@ -24,7 +30,7 @@ d) közműszolgáltató gazdálkodó szervezetben,
 
 e) ingatlanforgalmazó, ingatlankezelő gazdálkodó szervezetben,
 
-f) egyéb módon be nem hajtható követelés ellenértékeként átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrész csereügylet vagy felszámolás következtében, korlátolt felelősségű társaságban, részvénytársaságban
+f) korlátolt felelősségű társaságban, részvénytársaságban átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrészre vonatkozó csereügylet vagy követelése ellenértékeként csődeljárás, felszámolás során,
 
 g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából korlátolt felelősségű társaságban, részvénytársaságban,
 

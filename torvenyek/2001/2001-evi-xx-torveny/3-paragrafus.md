@@ -56,7 +56,7 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (6) Kizárólag az (5) bekezdésben meghatározott társasági részesedések tulajdonjogának – az erre feljogosított szervezet által történő – átruházása, biztosítékul adása vagy más módon történő megterhelése, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítása, illetve a gazdálkodó szervezet végelszámolással történő megszüntetése esetén kell az állami vagyonról szóló 2007. évi CVI. törvény, valamint annak végrehajtására kiadott más jogszabályok rendelkezéseit alkalmazni.
 
-(7)
+(7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
 
 (8)
 

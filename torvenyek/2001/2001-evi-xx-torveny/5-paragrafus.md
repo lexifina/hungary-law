@@ -8,7 +8,7 @@
 
 a) forrásszerzés céljából igénybe vett hitelekből, felvett kölcsönökből és kibocsátott kötvényekből az MFB Zrt.-t terhelő fizetési kötelezettségek teljesítéséért;
 
-b) nyújtott hitelfinanszírozásból, valamint harmadik fél javára vállalt, érvényesített készfizető kezességből, továbbá garanciából származó, az MFB Zrt. felé fennálló fizetési kötelezettségek teljesítéséért a Kormány határozatában megjelölt ügyletek tekintetében;
+b) közvetlenül vagy pénzügyi intézményen keresztül közvetetten nyújtott hitel- és pénzkölcsönből, készfizető kezességvállalásból, garanciavállalásból, valamint egyéb bankári kötelezettségvállalásból az MFB Zrt. vagy a pénzügyi intézmény felé fennálló fizetési kötelezettségek teljesítéséért a Kormány határozatában megjelölt ügyletek tekintetében azzal, hogy a Kormány által meghatározott keretösszeg felhasználásának nyilvántartása és az erre vonatkozó adatszolgáltatások elkészítése az MFB Zrt. feladata, továbbá a kezesség beváltására szerződésátruházást vagy engedményezést követően kizárólag az MFB Zrt. jogosult;
 
 c) forrásszerzés céljából a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 48. § (1) bekezdése szerinti bel- és külföldi szakmai ügyféltől bankközi piacon elfogadott betétekből, valamint
 

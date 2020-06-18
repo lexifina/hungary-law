@@ -1,5 +1,5 @@
 9. § (1)
 
-(2) Az MFB Zrt. által egy befektetési alapba befektetett tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének húsz százalékát.
+(2) Egy befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulás összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hetvenöt százalékát.
 
-(3) Az MFB Zrt. által befektetési alapokba befektetett tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjét.
+(3) Befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulások együttes összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kettőszázötven százalékát.

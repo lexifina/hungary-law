@@ -6,7 +6,7 @@
 
 a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
 
-b) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2) vagy (3) bekezdése szerint –kockázatot vállalt.
+b) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. kockázatot vállalt.
 
 (3) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjai, alkalmazottai pártban tisztséget nem viselhetnek, párt nevében vagy érdekében – az országgyűlési, illetve az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhatnak.
 
@@ -16,7 +16,7 @@ a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelk
 
 b) helyi önkormányzat közvetlen vagy közvetett többségi részesedéssel rendelkezik a gazdasági társaságban,
 
-c) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2) vagy (3) bekezdése szerint – kockázatot vállalt.
+c) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. kockázatot vállalt.
 
 (4a) A munkáltatói jogkör gyakorlója a (2) és (4) bekezdés szerinti előzetes engedélyt kizárólag abban az esetben adja meg, ha az új jogviszony
 
