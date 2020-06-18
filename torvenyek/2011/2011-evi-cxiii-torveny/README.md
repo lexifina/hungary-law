@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-113-00-00
 | 2019-01-01 | 2018. évi CX. törvény | 2011-113-00-00.22 |
 | 2019-02-01 | 2016. évi CXXXIII. törvény | 2011-113-00-00.23 |
 | 2020-01-01 | 2019. évi CV. törvény | 2011-113-00-00.24 |
+| 2020-06-18 | 2020. évi LVIII. törvény | 2011-113-00-00.25 |

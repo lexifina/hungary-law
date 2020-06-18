@@ -54,6 +54,8 @@ y) a honvédelmi veszélyhelyzet kihirdetését és meghosszabbítását,
 
 z) a közérdekű használati jog gyakorlására jogosultak körét, továbbá az ezzel összefüggő kártalanítás és kártalanítási eljárás szabályait.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Honvédség veszélyhelyzettel és egészségügyi válsághelyzettel összefüggő feladatokban történő közreműködésének tartalmát.
+
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 
 a) a hadkötelesek katonai szolgálatra behívásának, katonai szolgálatának és leszerelésének rendjét,

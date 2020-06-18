@@ -18,7 +18,9 @@ h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta v�
 
 i) – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában,
 
-j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való részvétel.
+j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való részvétel,
+
+k) a Kormány döntése alapján közreműködés különleges jogrend szerinti veszélyhelyzettel (a továbbiakban: veszélyhelyzet) és az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
 
 (2) A Honvédség fegyverhasználati jog nélkül látja el a következő feladatokat:
 
