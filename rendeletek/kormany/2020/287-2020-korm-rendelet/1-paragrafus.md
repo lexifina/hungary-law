@@ -1,0 +1,5 @@
+## 1. Általános rendelkezések
+
+1. § (1) A járványügyi készültség bevezetéséről szóló 283/2020. (VI. 17.) Korm. rendelet szerinti, egészségügyi válsághelyzet elrendelésével bevezetett járványügyi készültség (a továbbiakban: járványügyi készültség) idején a fekvőbeteg szakellátást, illetve a fekvőbeteg szakellátáshoz kapcsolódó járóbeteg szakellátást nyújtó egészségügyi intézmény (a továbbiakban: egészségügyi intézmény) fenntartója – a fenntartó személyétől függetlenül – székhelyén és valamennyi telephelyén fokozott figyelemmel gondoskodik a járvány elleni védekezés érdekében a szükséges, költségvetési forrásból beszerzett egészségügyi felszerelések, berendezések, gyógyszerkészletek és fertőtlenítőszerek (a továbbiakban együtt: egészségügyi készlet) megóvásáról.
+
+(2) A járványügyi készültség idején a legalább 200 férőhellyel működtetett, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti idősek tartós vagy átmeneti ellátását nyújtó engedélyes fenntartója – a fenntartó személyétől függetlenül – az (1) bekezdés szerint fokozott figyelemmel gondoskodik a költségvetési forrásból beszerzett egészségügyi készlet megóvásáról.
