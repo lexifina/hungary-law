@@ -1,0 +1,1 @@
+## 1. § A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény (a továbbiakban: Átv.) IV. fejezetének hatálya alá tartozó, az 1. mellékletben felsorolt ügyekben az ellenőrzött bejelentéssel történő jogszerzés kizárt.
