@@ -1,3 +1,0 @@
-1. § (1) A 2015/2366 európai parlamenti és tanácsi irányelvnek az erős ügyfél-hitelesítésre, valamint a közös és biztonságos nyílt kommunikációs standardokra vonatkozó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, 2017. november 27-i (EU) 2018/389 felhatalmazáson alapuló bizottsági rendelet 11. cikkében meghatározottak figyelembevételével a pénzforgalmi szolgáltató nem alkalmaz erős ügyfél-hitelesítést, ha az érintéses elektronikus fizetési művelet egyedi összege nem haladja meg a tizenötezer forintot.
-
-(2) Az (1) bekezdésben meghatározottak nem érintik a pénzforgalmi szolgáltatónak a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben meghatározott felelősségét.
