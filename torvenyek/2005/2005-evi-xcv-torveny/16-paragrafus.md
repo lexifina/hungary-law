@@ -8,6 +8,8 @@
 
 (2a) A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja, ennek hiányában a forgalmazó köteles gondoskodni.
 
+(2b) A gyógyszerészeti államigazgatási szerv a gyógyszerhiányt vagy annak kockázatát bármely, a jogszabályban foglalt feladatainak ellátásával összefüggésben tudomására jutó információk alapján, a (2) bekezdés szerinti értesítés hiányában is megállapíthatja.
+
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja köteles azon gyógyszereket beszerezni és forgalmazni, amelyek forgalmazására nagykereskedelmi tevékenységi engedélyt kapott.
 
 (3a) A gyógyszer-nagykereskedelmi engedély jogosultja a (3) bekezdés szerinti forgalmazási tevékenysége körében köteles a megrendelések szokásos üzletmenet szerinti arányos kielégítése mellett a betegellátási szükségletet is figyelembe venni.

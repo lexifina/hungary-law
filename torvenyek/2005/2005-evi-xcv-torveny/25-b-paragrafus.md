@@ -31,3 +31,9 @@ b) amennyiben hasonszenvinek jelzett és ilyen eljárással készült gyógyszer
 (7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele. A díjak nyilvántartására, elszámolására az államháztartás számviteléről szóló jogszabályokat kell alkalmazni. A befizetett díjból a gyógyszerészeti államigazgatási szerv és a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott megosztás szerint részesül.
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
+
+(9) Egészségügyi válsághelyzet ideje alatt az e törvény szerinti igazgatási szolgáltatási díj befizetésének igazolását a gyógyszerészeti államigazgatási szerv a kérelem elbírálásnak előfeltételeként nem vizsgálja, ha
+
+a) a kérelem az egészségügyi válsághelyzet szerinti tömeges megbetegedést okozó humánjárvány kezelése céljából, ellátási érdekből szükséges hatósági döntés kiadására irányul, vagy
+
+b) az a) pont szerinti célhoz kapcsolódóan az gyógyszerészeti államigazgatási szerv legfeljebb hat hónapos határozott időre szóló hatósági döntést ad ki.
