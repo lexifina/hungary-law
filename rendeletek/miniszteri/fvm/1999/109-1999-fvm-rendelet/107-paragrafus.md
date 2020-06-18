@@ -1,3 +1,3 @@
-## 106. §[^302] A járási hivatal a fellebbezést iratjegyzékkel terjeszti fel a kormányhivatalhoz.
+## 106. §[^311]
 
-[^302]: A 106. § a 48/2010. (IV. 27.) FVM rendelet 79. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. és 18. pontja szerint módosított szöveg.
+[^311]: A 106. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § k) pontja hatályon kívül helyezte.

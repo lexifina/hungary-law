@@ -1,3 +1,3 @@
-## 102. §[^299] A fellebbezés visszavonása esetén a kormányhivatal eljárást megszüntető végzése alapján a járási hivatal törli a fellebbezés benyújtásának tényére vonatkozó feljegyzést.
+## 102. §[^307]
 
-[^299]: A 102. § a 48/2010. (IV. 27.) FVM rendelet 78. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. és 15. pontja szerint módosított szöveg.
+[^307]: A 102. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § j) pontja hatályon kívül helyezte.

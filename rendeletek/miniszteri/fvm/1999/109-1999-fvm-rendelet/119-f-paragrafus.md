@@ -1,16 +1,16 @@
-119/F. §[^357] (1)[^358] A megváltozott adatok tulajdoni lapokon történő feltüntetése után a tulajdoni lapokat és a külön jogszabályban meghatározott állami földmérési alaptérképi adatbázist, valamint a hozzá tartozó területjegyzéket a járási hivatalnál harminc napra közszemlére kell tenni. Erről az érdekelteket a helyben szokásos módon és egy országos napilapban közzétett közlemény útján kell értesíteni.
+119/F. §[^370] (1)[^371] A megváltozott adatok tulajdoni lapokon történő feltüntetése után a tulajdoni lapokat és a külön jogszabályban meghatározott állami földmérési alaptérképi adatbázist, valamint a hozzá tartozó területjegyzéket az ingatlanügyi hatóságnál harminc napra közhírré kell tenni. Erről az érdekelteket a helyben szokásos módon és egy országos napilapban közzétett közlemény útján kell értesíteni.
 
-(2)[^359] A közszemlére tétel ideje alatt az érdekeltek az általuk kifogásolt térképi és ingatlan-nyilvántartási tartalommal kapcsolatban a járási hivatalnál felszólalással élhetnek.
+(2)[^372] A közszemlére tétel ideje alatt az érdekeltek az általuk kifogásolt térképi és ingatlan-nyilvántartási tartalommal kapcsolatban az ingatlanügyi hatóságnál felszólalással élhetnek.
 
-(3)[^360] A felszólalásban foglaltakat a járási hivatalnak soron kívül meg kell vizsgálnia és határozatot kell hoznia.
+(3)[^373] A felszólalásban foglaltakat az ingatlanügyi hatóságnak soron kívül meg kell vizsgálnia és határozatot kell hoznia.
 
-(4)[^361]
+(4)[^374]
 
-(5)[^362] Az ingatlan-nyilvántartás átalakításáról szóló határozat – a (2) bekezdés szerinti felszólalástól és a (3) bekezdés szerinti határozat véglegessé válásától függetlenül – a közszemle utolsó napját követő napon hatályba lép.
+(5)[^375] Az ingatlan-nyilvántartás átalakításáról szóló határozat – a (2) bekezdés szerinti felszólalástól és a (3) bekezdés szerinti határozat véglegessé válásától függetlenül – a közszemle utolsó napját követő napon hatályba lép.
 
-[^357]: A 119/F. §-t a 117/2005. (XII. 19.) FVM rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^358]: A 119/F. § (1) bekezdése a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 24. § q) pontja, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 21. pontja szerint módosított szöveg.
-[^359]: A 119/F. § (2) bekezdése a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 21. pontja szerint módosított szöveg.
-[^360]: A 119/F. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 87. § (1) bekezdésével megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 17. pontja szerint módosított szöveg.
-[^361]: A 119/F. § (4) bekezdését a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
-[^362]: A 119/F. § (5) bekezdése a 48/2010. (IV. 27.) FVM rendelet 87. § (2) bekezdésével megállapított, a 60/2017. (XII. 20.) FM rendelet 22. § m) pontja szerint módosított szöveg.
+[^370]: A 119/F. §-t a 117/2005. (XII. 19.) FVM rendelet 46. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^371]: A 119/F. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 11. §-ával megállapított szöveg.
+[^372]: A 119/F. § (2) bekezdése a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 7/2020. (VI. 10.) MvM rendelet 13. § 7. pontja szerint módosított szöveg.
+[^373]: A 119/F. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 87. § (1) bekezdésével megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 7/2020. (VI. 10.) MvM rendelet 13. § 5. pontja szerint módosított szöveg.
+[^374]: A 119/F. § (4) bekezdését a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^375]: A 119/F. § (5) bekezdése a 48/2010. (IV. 27.) FVM rendelet 87. § (2) bekezdésével megállapított, a 60/2017. (XII. 20.) FM rendelet 22. § m) pontja szerint módosított szöveg.

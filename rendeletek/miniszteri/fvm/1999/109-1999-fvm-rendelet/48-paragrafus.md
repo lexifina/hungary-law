@@ -1,6 +1,6 @@
-## 45.[^142] Fásított terület
+## 45.[^143] Fásított terület
 
-48. §[^143] (1) Fásított terület művelési ágban kell nyilvántartani
+48. §[^144] (1) Fásított terület művelési ágban kell nyilvántartani
 
 a) a település külterületén
 
@@ -20,5 +20,5 @@ bb) amelynek kiterjedése – a szélső fák egymástól mért tőtávolsága s
 
 (3) Az (1)–(2) bekezdésben foglaltakat kell alkalmazni akkor is, ha az érintett terület az ingatlan-nyilvántartás szerint a település zártkertjében fekszik.
 
-[^142]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
-[^143]: A 48. § a 60/2017. (XII. 20.) FM rendelet 13. §-ával megállapított szöveg.
+[^143]: A 45. alcím a 48/2010. (IV. 27.) FVM rendelet 52. §-ával megállapított szöveg.
+[^144]: A 48. § a 60/2017. (XII. 20.) FM rendelet 13. §-ával megállapított szöveg.

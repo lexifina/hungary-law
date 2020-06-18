@@ -48,9 +48,9 @@ ténye az ügyszám megjelölésével,
 
 10. ingatlan-nyilvántartási hatósági döntéssel szembeni
 
-10.1. fellebbezés benyújtásának,
+10.1.[^15]
 
-10.2.[^15] közigazgatási per lefolytatása iránti keresetlevél benyújtásának,
+10.2.[^16] közigazgatási per lefolytatása iránti keresetlevél benyújtásának,
 
 10.3. ügyészi felhívás benyújtásának,
 
@@ -80,7 +80,7 @@ megindításának ténye,
 
 14. az árverés, a nyilvános pályázat kitűzésének ténye,
 
-15.[^16] a zárlat, a zár alá vétel, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására irányuló zárlat ténye,
+15.[^17] a zárlat, a zár alá vétel, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására irányuló zárlat ténye,
 
 16. tulajdonjog fenntartással történt eladás ténye,
 
@@ -92,7 +92,7 @@ megindításának ténye,
 
 20. az ingatlan-nyilvántartási eljárás felfüggesztésének ténye,
 
-21.[^17] végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
+21.[^18] végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
 
 22. az épület (építmény, műtárgy)
 
@@ -118,9 +118,9 @@ ténye,
 
 30. föld tulajdonjogának átruházására irányuló szerződés benyújtásának ténye,
 
-31.[^18] eljárás megszüntetésének ténye,
+31.[^19] eljárás megszüntetésének ténye,
 
-32.[^19] olyan egyéb tény, amelynek feljegyzését – a tv. 2. § (2) bekezdése alapján – törvény elrendeli.
+32.[^20] olyan egyéb tény, amelynek feljegyzését – a tv. 2. § (2) bekezdése alapján – törvény elrendeli.
 
 (3) A tulajdoni lap III. része tartalmazza továbbá az ingatlan III. részen szereplő adataihoz, vagy a III. részen bejegyzett jogokhoz, feljegyzett tényekhez, illetve azok jogosultjaihoz kapcsolódó következő adatokat.
 
@@ -140,7 +140,7 @@ g) törölt bejegyzésre való utalás,
 
 h) kiegészítő szöveges bejegyzés.
 
-(3a)[^20] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az ingatlanügyi hatóságként eljáró járási hivatal, a fővárosban a Fővárosi XI. és XIV. Kerületi Hivatal (a továbbiakban: járási hivatal) megjelölését.
+(3a)[^21] Az illetékességiterület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó és az átvevő ingatlanügyi hatóság megjelölését.
 
 (4) A tulajdoni lap természetes személy jogosult esetén tartalmazza a személyi azonosítót, a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet esetén annak statisztikai számjelét.
 
@@ -152,9 +152,10 @@ h) kiegészítő szöveges bejegyzés.
 [^12]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^13]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
 [^14]: A 4. § (2) bekezdés 5. pontja a 39/2014. (XII. 18.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^15]: A 4. § (2) bekezdés 10. pont 10.2. alpontja a 60/2017. (XII. 20.) FM rendelet 22. § a) pontja szerint módosított szöveg.
-[^16]: A 4. § (2) bekezdés 15. pontja a 60/2017. (XII. 20.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (2) bekezdés 21. pontja a 60/2017. (XII. 20.) FM rendelet 22. § b) pontja szerint módosított szöveg.
-[^18]: A 4. § (2) bekezdés 31. pontja a 60/2017. (XII. 20.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^19]: A 4. § (2) bekezdés 32. pontját a 60/2017. (XII. 20.) FM rendelet 1. § (2) bekezdése iktatta be.
-[^20]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 1. pontja szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdés 10.1. pontját a 7/2020. (VI. 10.) MvM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^16]: A 4. § (2) bekezdés 10. pont 10.2. alpontja a 60/2017. (XII. 20.) FM rendelet 22. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdés 15. pontja a 60/2017. (XII. 20.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (2) bekezdés 21. pontja a 60/2017. (XII. 20.) FM rendelet 22. § b) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdés 31. pontja a 60/2017. (XII. 20.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. § (2) bekezdés 32. pontját a 60/2017. (XII. 20.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 7/2020. (VI. 10.) MvM rendelet 1. §-ával megállapított szöveg.

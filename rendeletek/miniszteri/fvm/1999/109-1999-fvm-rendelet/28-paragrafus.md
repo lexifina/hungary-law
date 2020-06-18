@@ -1,8 +1,8 @@
 ## 27. § Közigazgatási per lefolytatása iránti keresetre, ügyészi fellépésre, valamint az annak alapján indult perben hozott bírósági döntés ellen rendkívüli perorvoslatként előterjesztett felülvizsgálati kérelem benyújtására vonatkozó feljegyzésben fel kell tüntetni annak a döntésnek a számát és annak a bejegyzésnek a sorszámát, amellyel kapcsolatban a közigazgatási per iránti keresetlevelet, ügyészi fellépést vagy a felülvizsgálati kérelmet benyújtották.
 
-## 23. [^87] Elidegenítési és terhelési tilalom, elidegenítési tilalom
+## 23. [^88] Elidegenítési és terhelési tilalom, elidegenítési tilalom
 
-28. §[^88] (1) Elidegenítési és terhelési tilalmat, elidegenítési tilalmat, rendelkezési jogot korlátozó egyéb tilalmat egész ingatlanra vagy egész tulajdoni illetőségre, illetve ezek eszmei hányadára lehet feljegyezni.
+28. §[^89] (1) Elidegenítési és terhelési tilalmat, elidegenítési tilalmat, rendelkezési jogot korlátozó egyéb tilalmat egész ingatlanra vagy egész tulajdoni illetőségre, illetve ezek eszmei hányadára lehet feljegyezni.
 
 (2) Az elidegenítési és terhelési tilalomra, valamint az elidegenítési tilalomra vonatkozó feljegyzésben fel kell tüntetni azt a jogot, amelynek biztosítására a tilalom szolgál és a tilalom jogosultjának adatait.
 
@@ -12,5 +12,5 @@
 
 (5) A rendelkezés jogát egyéb módon korlátozó tilalmat az okirat tartalmára történő utalással kell az (1) és (2) bekezdésben meghatározott módon az ingatlan-nyilvántartásba feljegyezni.
 
-[^87]: A 23. alcím címe a 21/2014. (III. 14.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^88]: A 28. § a 21/2014. (III. 14.) VM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^88]: A 23. alcím címe a 21/2014. (III. 14.) VM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^89]: A 28. § a 21/2014. (III. 14.) VM rendelet 14. § (2) bekezdésével megállapított szöveg.

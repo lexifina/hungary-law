@@ -1,1 +1,3 @@
-## 105. § Ha az érintett ingatlanok tulajdonosai – a tv. 56. § (3) bekezdése szerint – a nekik megküldött fellebbezésre észrevételt tesznek, azt a fellebbezés elbírálásakor figyelembe kell venni.
+## 105. §[^310]
+
+[^310]: A 105. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § k) pontja hatályon kívül helyezte.

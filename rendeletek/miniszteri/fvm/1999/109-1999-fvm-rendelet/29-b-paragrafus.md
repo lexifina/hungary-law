@@ -10,7 +10,7 @@ ab) a kifüggesztéshez kötött jogügylet esetében nyilatkozni kell az előv�
 
 b) az elővásárlási jog gyakorlására jogosult által benyújtott kérelem esetében a határidőben megtett és a jegyző által aláírt elfogadó jognyilatkozatát másolatban.
 
-(3)[^92] A járási hivatal a (2) bekezdés a) pontjának ab) alpontjában meghatározott nyilatkozat valóságtartalmát az elektronikus tájékoztató alapján ellenőrzi. Ha a tájékoztató alapján nem állapítható meg a kifüggesztés megtörténte, a kérelmezőt felhívja annak igazolására. Ha a kérelmező nem tudja igazolni a kifüggesztés megtörténtét, a tényfeljegyzésre vonatkozó eljárást a járási hivatal megszünteti.
+(3)[^93] Az ingatlanügyi hatóság a (2) bekezdés a) pontjának ab) alpontjában meghatározott nyilatkozat valóságtartalmát az elektronikus tájékoztató alapján ellenőrzi. Ha a tájékoztató alapján nem állapítható meg a kifüggesztés megtörténte, a kérelmezőt felhívja annak igazolására. Ha a kérelmező nem tudja igazolni a kifüggesztés megtörténtét, a tényfeljegyzésre vonatkozó eljárást az ingatlanügyi hatóság megszünteti.
 
 (4) Hivatalból törölni kell a 29/A. § (1) bekezdése szerinti tényt és a feljegyzését követően függő hatállyal történt jogbejegyzések esetében
 
@@ -18,13 +18,13 @@ a) a bejegyzés függő hatályára történő utalást
 
 aa) a tulajdonjog bejegyzési kérelem elutasításáról, vagy az eljárás megszüntetéséről szóló döntés esetén a döntés meghozatalával egyidejűleg,
 
-ab)[^93] a hatósági jóváhagyás megtagadása, a kérelem visszautasítása, vagy az eljárás megszüntetése esetén az (5) bekezdés szerinti tájékoztatástól számított 15 napon belül, vagy
+ab)[^94] a hatósági jóváhagyás megtagadása, a kérelem visszautasítása, vagy az eljárás megszüntetése esetén az (5) bekezdés szerinti tájékoztatástól számított 15 napon belül, vagy
 
 ac) a hatósági jóváhagyáshoz nem kötött jogügylet esetében a tény feljegyzése iránti kérelem benyújtását követő 6 hónap elteltével,
 
 b) a függő hatállyal bejegyzett jogokat a tulajdonjog bejegyzési kérelem alapján történő tulajdonosváltozás bejegyzésével egyidejűleg.
 
-(5)[^94] A járási hivatal minden hónap tizenötödik napjáig megkeresi a hatósági jóváhagyás megadására jogosult szervet – a tényfeljegyzéssel érintett ingatlanok listája megküldésével – a hatósági jóváhagyás megtagadásáról, a kérelem visszautasításáról, továbbá az eljárás megszüntetéséről szóló végleges döntésekről történő tájékoztatás érdekében.
+(5)[^95] Az ingatlanügyi hatóság minden hónap tizenötödik napjáig megkeresi a hatósági jóváhagyás megadására jogosult szervet – a tényfeljegyzéssel érintett ingatlanok listája megküldésével – a hatósági jóváhagyás megtagadásáról, a kérelem visszautasításáról, továbbá az eljárás megszüntetéséről szóló végleges döntésekről történő tájékoztatás érdekében.
 
 (6) Kérelemre a tény csak akkor törölhető az ingatlan-nyilvántartásból, ha
 
@@ -36,6 +36,6 @@ b) a kizárólag hatósági jóváhagyáshoz kötött jogügylet esetén a felek
 
 (8) A tény feljegyzéséről, valamint a tény törléséről szóló határozatot a kérelmezőnek, valamint a szerződő feleknek kell kézbesíteni.
 
-[^92]: A 29/B. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja, a 60/2017. (XII. 20.) FM rendelet 22. § c) pontja szerint módosított szöveg.
-[^93]: A 29/B. § (4) bekezdés a) pont ab) alpontja a 60/2017. (XII. 20.) FM rendelet 22. § d) pontja szerint módosított szöveg.
-[^94]: A 29/B. § (5) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja, 60/2017. (XII. 20.) FM rendelet 22. § e) és f) pontja szerint módosított szöveg.
+[^93]: A 29/B. § (3) bekezdése a 60/2017. (XII. 20.) FM rendelet 22. § c) pontja, a 7/2020. (VI. 10.) MvM rendelet 13. § 2–3. pontja szerint módosított szöveg.
+[^94]: A 29/B. § (4) bekezdés a) pont ab) alpontja a 60/2017. (XII. 20.) FM rendelet 22. § d) pontja szerint módosított szöveg.
+[^95]: A 29/B. § (5) bekezdése a 60/2017. (XII. 20.) FM rendelet 22. § e) és f) pontja, a 7/2020. (VI. 10.) MvM rendelet 13. § 3. pontja szerint módosított szöveg.

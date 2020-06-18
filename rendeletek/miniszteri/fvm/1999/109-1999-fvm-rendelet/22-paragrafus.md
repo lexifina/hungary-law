@@ -1,3 +1,3 @@
-## 17.[^77] Felszámolási eljárás, végelszámolás
+## 17.[^78] Felszámolási eljárás, végelszámolás
 
-[^77]: A 17. alcím a 48/2010. (IV. 27.) FVM rendelet 24. §-ával megállapított szöveg.
+[^78]: A 17. alcím a 48/2010. (IV. 27.) FVM rendelet 24. §-ával megállapított szöveg.

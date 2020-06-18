@@ -1,4 +1,4 @@
-## 14/A. [^67] Zálogjog átváltoztatása
+## 14/A. [^68] Zálogjog átváltoztatása
 
 20/A. § (1) Az önálló zálogjog – ranghelyének megtartása mellett – a felek erre irányuló és a tv. 32. § (3) vagy (5) bekezdésében meghatározott alakban kötött megállapodásával követelést biztosító jelzálogjoggá, ez utóbbi pedig önálló zálogjoggá változtatható át.
 
@@ -8,4 +8,4 @@
 
 (4) Ha a (3) bekezdés szerinti különbözet összegének új ranghelyen történő bejegyzéséhez a rangsorban ezt megelőzően feljegyzett elidegenítési és terhelési tilalom jogosultja nem járul hozzá, az ingatlanügyi hatóság – a különbözet új ranghelyen történő bejegyzésének mellőzésével – a (2) bekezdés szerint jár el.
 
-[^67]: A 14/A. alcímet (20/A. §) a 21/2014. (III. 14.) VM rendelet 10. §-a iktatta be, szövege a 76/2016. (XII. 8.) FM rendelet 3. §-ával megállapított szöveg.
+[^68]: A 14/A. alcímet (20/A. §) a 21/2014. (III. 14.) VM rendelet 10. §-a iktatta be, szövege a 76/2016. (XII. 8.) FM rendelet 3. §-ával megállapított szöveg.

@@ -1,7 +1,7 @@
-## 132. §[^389] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 76/2016. (XII. 8.) FM rendelet hatálybalépését[^390] megelőző napon hatályos 20/A. §-át a 2016. október 1-jét megelőzően jelzálogjog átruházásával keletkezett különvált zálogjog esetében továbbra is alkalmazni kell.
+## 133. §[^397] E rendeletnek az ingatlan-nyilvántartási és térképészeti tárgyú miniszteri rendeletek módosításáról szóló 7/2020. (VI. 10.) MvM rendelet (a továbbiakban: Mr4.) által módosított 65. § (3)–(3i) bekezdését és 73. § (5) bekezdését az Mr4. hatálybalépésekor[^398] már folyamatban lévő ügyekben is alkalmazni kell, kivéve, ha a korábbi szabályozásnak megfelelő dokumentumok már rendelkezésre állnak.
 
-1. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^391]
+1. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^399]
 
-[^389]: A 132. §-t a 76/2016. (XII. 8.) FM rendelet 10. §-a iktatta be.
-[^390]: A hatálybalépés időpontja 2016. december 9.
-[^391]: Az 1. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 1. számú melléklete iktatta be, szövege az 57/2013. (VI. 29.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^397]: A 133. §-t a 7/2020. (VI. 10.) MvM rendelet 12. §-a iktatta be.
+[^398]: A hatálybalépés időpontja 2020. június 18.
+[^399]: Az 1. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 1. számú melléklete iktatta be, szövege az 57/2013. (VI. 29.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
