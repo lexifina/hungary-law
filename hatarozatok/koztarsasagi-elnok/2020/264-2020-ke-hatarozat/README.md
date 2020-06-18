@@ -1,0 +1,9 @@
+# 264/2020. (VI. 18.) KE határozat
+
+bírói kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-264-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-06-18 | 2020-264-30-76.1 | 264/2020. (VI. 18.) KE határozat |
