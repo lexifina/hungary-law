@@ -124,6 +124,6 @@
 
 ## a kérelmező aláírása
 
-5. melléklet az 52/2014. (IV. 29.) VM rendelethez[^41]
+5. melléklet az 52/2014. (IV. 29.) VM rendelethez[^75]
 
-[^41]: Az 5. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^75]: Az 5. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés j) pontja szerint módosított szöveg.

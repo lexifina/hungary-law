@@ -2,21 +2,21 @@
 
 4. § (1) Az Ingatlanrendező Minősítő Bizottság (a továbbiakban: Bizottság) hét tagból áll. Tagjait a térképészetért felelős miniszter (a továbbiakban: miniszter) bízza meg a feladatok ellátásával.
 
-(2) A Bizottság:
+(2)[^9] A Bizottságnak hét tagja van. A miniszter felkérése alapján
 
-a) elnöke a miniszter által vezetett minisztériumból,
+a) a Bizottság elnöke,
 
-b)[^5] két tagja – akik közül az egyik a titkári teendőket ellátja – a földmérési és térinformatikai államigazgatási szervtől,
+b) a földmérési és térinformatikai államigazgatási szerv javaslatára két tag, valamint
 
-c) a miniszter felkérésére, a szakirányú felsőoktatási intézmények vezetőjének javaslatára két-két fő földmérési szakirányú oktató
+c) a szakirányú felsőoktatási intézmények vezetőjének javaslatára két-két fő földmérési szakirányú oktató
 
-kerül megbízásra.
+## kerül megbízásra.
 
 (3) A Bizottságot a miniszter működteti. A Bizottság tagjait a miniszter 5 évre nevezi ki.
 
 (4) A Bizottság üléseit a jelentkezések mértékében, de legalább félévenként tartja.
 
-(5) A Bizottság üléseit az elnök hívja össze. A Bizottság a szakértői véleményét szótöbbséggel hozza meg. A Bizottság akkor határozatképes, ha a tagok több mint fele jelen van.
+(5)[^10] A Bizottság üléseit a titkár hívja össze. A Bizottság a szakértői véleményét szótöbbséggel hozza meg. A Bizottság akkor határozatképes, ha a tagok több mint fele jelen van.
 
 (6) A titkár feladata a minősítéssel kapcsolatos ügyek intézése.
 
@@ -24,4 +24,5 @@ kerül megbízásra.
 
 (8) Bizottsági tagnak az jelölhető, aki legalább 10 éve ingatlanrendező földmérő minősítéssel rendelkezik.
 
-[^5]: A 4. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 210. § e) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése a 7/2020. (VI. 10.) MvM rendelet 24. §-ával megállapított szöveg.
+[^10]: A 4. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 35. § a) pontja szerint módosított szöveg.

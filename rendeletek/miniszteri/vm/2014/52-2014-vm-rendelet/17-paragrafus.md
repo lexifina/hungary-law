@@ -2,7 +2,7 @@
 
 17. § (1) A földmérési és térképészeti tevékenység összhangját és a szakmai követelmények érvényesülését az ingatlanügyi hatóság a földmérési szakfelügyelet útján látja el.
 
-(2)[^33] A földmérési szakfelügyeleti feladatokat a megyei földmérési szakfelügyelő révén kormányhivatalok látják el.
+(2)[^66] A földmérési szakfelügyeleti feladatokat a megyei földmérési szakfelügyelő révén kormányhivatalok látják el.
 
 (3) A szakfelügyeleti feladatok körébe tartozik különösen:
 
@@ -30,4 +30,4 @@ j) az ingatlanrendező földmérő minősítés felfüggesztésének, vagy vissz
 
 (5) Amennyiben a földmérő szervezet székhelyén kívül végez a szakfelügyeleti ellenőrzés hatálya alá tartozó munkát, az ellenőrzésbe a munkavégzés helye szerint illetékes megyei szakfelügyelőt – megkeresés útján – be kell vonni.
 
-[^33]: A 17. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 208. § (2) bekezdésével megállapított szöveg. [Ugynaezen módosító rendelet 210. § c) pontjával elrendelt módosítás, amely szerint az „a FÖMI” szövegrész helyébe az „a földmérési és térinformatikai államigazgatási szerv” lép, nem vezethető át.]
+[^66]: A 17. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 208. § (2) bekezdésével megállapított szöveg. [Ugynaezen módosító rendelet 210. § c) pontjával elrendelt módosítás, amely szerint az „a FÖMI” szövegrész helyébe az „a földmérési és térinformatikai államigazgatási szerv” lép, nem vezethető át.]

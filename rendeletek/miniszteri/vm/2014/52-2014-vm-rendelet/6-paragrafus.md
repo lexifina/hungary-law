@@ -1,10 +1,10 @@
 6. § (1) Szakmai gyakorlattal az rendelkezik, aki
 
-a)[^6] a felsőoktatási szakképzettség megszerzését követően ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) vagy a járási (fővárosi kerületi) hivatalnál (a továbbiakban: járási hivatal) legalább 3 évet a földmérési szakterületen eltöltött,
+a)[^12] a felsőoktatási szakképzettség megszerzését követően ingatlanügyi hatóságnál legalább 3 évet a földmérési szakterületen eltöltött,
 
-b) a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet) a felsőoktatási szakképzettséget követően legalább 5 év földmérési gyakorlatot szerzett, vagy
+b)[^13] a Polgári Törvénykönyvről szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet) a felsőoktatási szakképzettség megszerzését követően legalább 3 év földmérési gyakorlatot szerzett, vagy
 
-c) legalább 5 évig közép- vagy felsőfokú oktatási intézményben földmérési szakmai oktatói tevékenységet végzett.
+c)[^14] legalább 3 évig közép- vagy felsőfokú oktatási intézményben földmérési szakmai oktatói tevékenységet végzett.
 
 (2) Szakmai gyakorlati időként a felsőoktatási szakképzettséget tanúsító oklevél kiállítását követően, az adott földmérési szakterületen eltöltött idő vehető figyelembe. A különböző munkahelyeken megszerzett gyakorlati időt együttesen kell figyelembe venni.
 
@@ -36,4 +36,6 @@ cc) cégszerű aláírását.
 
 (6) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a szakmai gyakorlati idő igazolására a munkáltatóval vagy foglalkoztatóval kötött olyan megállapodás is alkalmas, amely hitelt érdemlően tanúsítja a földmérési szakterületen szerzett gyakorlati időt, és amely tartalmazza az (5) bekezdés a) és b) pontjában meghatározott adatokat.
 
-[^6]: A 6. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 210. § f) pontja szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdés a) pontja a 7/2020. (VI. 10.) MvM rendelet 35. § d) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdés b) pontja a 7/2020. (VI. 10.) MvM rendelet 25. §-ával megállapított szöveg.
+[^14]: A 6. § (1) bekezdés c) pontja a 7/2020. (VI. 10.) MvM rendelet 35. § c) pontja szerint módosított szöveg.

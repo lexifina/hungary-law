@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-52-20-2
 | 2015-06-06 | 2014-52-20-2Y.3 | 29/2015. (VI. 5.) FM rendelet |
 | 2017-08-18 | 2014-52-20-2Y.4 | 42/2017. (VIII. 17.) FM rendelet |
 | 2018-07-14 | 2014-52-20-2Y.5 | 8/2018. (VI. 29.) AM rendelet |
+| 2020-06-18 | 2014-52-20-2Y.6 | 7/2020. (VI. 10.) MvM rendelet |

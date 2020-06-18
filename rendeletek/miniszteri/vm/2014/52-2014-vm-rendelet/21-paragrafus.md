@@ -6,6 +6,8 @@
 
 (3) E rendelet hatálybalépése előtt kiadott ingatlanrendező földmérő minősítések a rendelet hatálybalépését követő 5 évig érvényesek.
 
-(4) E rendelet hatálybalépését megelőzően kiadott ingatlanrendező földmérő minősítéssel rendelkező személyek földmérő igazolványt a szakképzettség igazolása nélkül a rendelet hatálybalépését követően kérhetnek. Ezen földmérő igazolványok a (3) bekezdésben meghatározott ideig érvényesek.
+(4)[^71] A 10 évig érvényes földmérő igazolványokat a földmérési és térinformatikai államigazgatási szerv a földmérő kérelme alapján köteles visszavonásig érvényes földmérő igazolványra cserélni. Az ismételt kiállítási kérelemhez kizárólag az igazgatási szolgáltatási díj megfizetéséről szóló igazolást kell csatolni.
 
 (5) A 15. § (1) bekezdés szerinti nyilvántartásnak e rendelet hatálybalépése előtt jogosultságot szerzett ingatlanrendező földmérő jogosultággal rendelkezők adatait is tartalmaznia kell.
+
+[^71]: A 21. § (4) bekezdése a 7/2020. (VI. 10.) MvM rendelet 34. §-ával megállapított szöveg.
