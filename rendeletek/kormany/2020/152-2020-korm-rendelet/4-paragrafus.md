@@ -1,3 +1,0 @@
-4. § (1) A munkahelyi gyermekfelügyelet végzése céljából foglalkoztatott személy 2020. április, május és június hónapra a járulékalapot képező jövedelme után kizárólag a 4 százalékos mértékű természetbeni egészségbiztosítási járulékot, de legfeljebb 7710 forint összeget fizeti meg. A járulékfizetés e bekezdés szerinti teljesítése nem érinti a biztosított társadalombiztosítási és munkaerőpiaci ellátásokra való jogosultságát és az ellátások összegét.
-
-(2) A munkahelyi gyermekfelügyelet végzésére foglalkoztatott személy számára 2020. április, május és június hónapra kifizetett jövedelem, juttatás után a kifizetőnek szociális hozzájárulási adó és szakképzési hozzájárulás fizetési kötelezettséget nem kell teljesítenie.
