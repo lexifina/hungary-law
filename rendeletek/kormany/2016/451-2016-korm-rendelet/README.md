@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-451-20-
 | 2020-01-01 | 2016-451-20-22.18 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2020-02-01 | 2016-451-20-22.19 | 6/2020. (I. 31.) Korm. rendelet |
 | 2020-03-01 | 2016-451-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-06-18 | 2016-451-20-22.21 | 284/2020. (VI. 17.) Korm. rendelet |
