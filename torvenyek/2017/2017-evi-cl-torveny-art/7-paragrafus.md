@@ -118,6 +118,8 @@ c) az államháztartás alrendszereinek költségvetése terhére jogosulatlanul
 
 36. kutatás-fejlesztési tevékenység: a tudományos kutatásról, fejlesztésről és innovációról szóló törvényben meghatározott kutatás-fejlesztés,
 
+36a. különleges gazdasági övezet: a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény felhatalmazása alapján alkotott kormányrendeletek szerinti különleges gazdasági övezet,
+
 37. lakóhely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhely,
 
 38. munkaviszony:

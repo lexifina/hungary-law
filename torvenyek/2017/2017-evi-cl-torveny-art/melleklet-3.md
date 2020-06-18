@@ -239,5 +239,3 @@
 ## 4.1. Természetbeni egészségbiztosítási járulék, pénzbeli egészségbiztosítási járulék, munkaerőpiaci járulék, valamint nyugdíjjárulék
 
 ## 4.1.1. A munkáltató az általa levont járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
