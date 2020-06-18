@@ -1,6 +1,6 @@
-## 64–69. §[^141]
+## 64–69. §[^137]
 
-70. § (1)[^142]
+70. § (1)[^138]
 
 (2) 2010. április 2-án hatályát veszti az (1) bekezdés és a 64–69. §.
 
@@ -14,5 +14,5 @@
 
 (7) 2013. január 1-jén hatályát veszti a 62. § (5) bekezdése.
 
-[^141]: A 64–69. §-t a 70. § (2) bekezdése hatályon kívül helyezte.
-[^142]: A 70. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^137]: A 64–69. §-t a 70. § (2) bekezdése hatályon kívül helyezte.
+[^138]: A 70. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.

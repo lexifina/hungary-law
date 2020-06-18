@@ -154,6 +154,6 @@
 
 | 76. | Összes pontszám: F1+F2+F3+F4+F5 |  |
 
-2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^144]
+2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^140]
 
-[^144]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^140]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
