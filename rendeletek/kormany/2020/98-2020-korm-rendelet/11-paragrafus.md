@@ -1,1 +1,0 @@
-## 10. § A 272/2014. (XI. 5.) Korm. rendelet 115. § (7) bekezdésétől és 1. melléklet 229.1. pontjától eltérően állami támogatás esetén a kedvezményezettnek az előleg folyósításától számított harminckilenc hónapon belül kell elszámolnia az előleggel.

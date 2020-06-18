@@ -1,1 +1,0 @@
-## 11. § A 272/2014. (XI. 5.) Korm. rendelet 116. § (2) bekezdésétől eltérően a támogatási előleg mértéke a megítélt támogatás összegének legfeljebb 50%-a, ETHA esetén legfeljebb 80%-a a veszélyhelyzet kezelése érdekében elrendelt kormányzati intézkedésekkel érintett ágazatok esetén.

@@ -1,1 +1,0 @@
-## 12. § A 272/2014. (XI. 5.) Korm. rendelet 117. § (7) bekezdésétől eltérően akkor kell a 272/2014. (XI. 5.) Korm. rendelet XXIII. Fejezete szerint visszafizetni a támogatási előleget, ha a kedvezményezett nem nyújt be kifizetési igénylést a támogatási előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított 15 hónapon belül.

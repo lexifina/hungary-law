@@ -1,1 +1,0 @@
-## 13. § A 272/2014. (XI. 5.) Korm. rendelet 118/A. § (6) bekezdésétől eltérően a szállítói előleget akkor kell visszakövetelni, ha a kedvezményezett nem nyújt be igénylést időközi kifizetésre a szállítói előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított 15 hónapon belül.
