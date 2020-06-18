@@ -2,7 +2,7 @@
 
 46. § (1)
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban, a nemleges megállapítási eljárásban, valamint – e törvény eltérő rendelkezése hiányában – a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő eljárásokban (83/A–83/H. §-ok). A szabadalmi leírás értelmezése tárgyában szintén háromtagú tanácsban eljárva ad szakvéleményt. A tanács szótöbbséggel dönt.
+(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban, a nemleges megállapítási eljárásban, valamint – e törvény eltérő rendelkezése hiányában – a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő eljárásokban (83/A–83/H. §), és a közegészségügyi kényszerengedéllyel [33/B. § (1) bek.] összefüggő eljárásokban (83/I–83/K. §). A szabadalmi leírás értelmezése tárgyában szintén háromtagú tanácsban eljárva ad szakvéleményt. A tanács szótöbbséggel dönt.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala döntése a kézbesítéssel emelkedik jogerőre, ha nem kérik annak megváltoztatását.
 

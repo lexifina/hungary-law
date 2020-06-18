@@ -1,0 +1,1 @@
+83/K. § A gyógyszerészeti államigazgatási szervnek a közegészségügyi kényszerengedély időtartama alatt, a közegészségügyi kényszerengedély alapján előállított gyógyszerrel összefüggő döntéseivel szemben indított perben azonnali jogvédelemnek nincs helye.

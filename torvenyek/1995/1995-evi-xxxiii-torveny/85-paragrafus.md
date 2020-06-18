@@ -22,6 +22,8 @@ e) az eljárási bírságot kiszabó, valamint az eljárási költség megállap
 
 (2) Az eljárási bírságot kiszabó, valamint az eljárási költség megállapításával és viselésével kapcsolatos döntés ellen előterjesztett megváltoztatási kérelemnek nincs halasztó hatálya a döntés többi – a megváltoztatási kérelemben nem támadott – rendelkezése tekintetében, és nem akadályozza meg azok jogerőre emelkedését.
 
+(2a) A közegészségügyi kényszerengedély megadása tárgyában hozott döntés ellen előterjesztett megváltoztatási kérelemnek a megadott közegészségügyi kényszerengedély tekintetében halasztó hatálya nincs.
+
 (3) A Szellemi Tulajdon Nemzeti Hivatalának az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
 
 (4) A döntés megváltoztatását kérheti:

@@ -1,0 +1,1 @@
+116/A. § A belföldi hasznosításra szolgáló közegészségügyi kényszerengedélyről szóló 212/2020. (V. 16.) Korm. rendelet alapján megadott közegészségügyi kényszerengedélyre az e törvény szerinti, közegészségügyi kényszerengedélyre vonatkozó szabályokat kell alkalmazni.
