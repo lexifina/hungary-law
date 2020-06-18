@@ -1,0 +1,1 @@
+## „(3) Az utólagos ellenőrzésről készült jelentés egyenértékű az eljárás megindítására vonatkozó tanúsítvánnyal, a közbeszerzési záró tanúsítvánnyal és a szerződés-módosításra vonatkozó írásbeli véleménnyel.”
