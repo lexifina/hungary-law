@@ -1,5 +1,0 @@
-1. § (1) Az egyetemes postai szolgáltatásra, az egyetemes postai szolgáltatást helyettesítő, illetve az egyetemes postai szolgáltatást nem helyettesítő postai szolgáltatásokra, valamint ezen szolgáltatásokkal összefüggésben a postai szolgáltatókra – a 2. és 3. §-ban foglalt eltéréssel – a postai szolgáltatásokról szóló törvénytől a (2) és (3) bekezdésben meghatározott közös eltérő rendelkezéseket kell alkalmazni.
-
-(2) A levélszekrény útján nem kézbesíthető küldeményeket a járványügyi hatóság által az elkülönítés, megfigyelés vagy zárlat (a továbbiakban együtt: karantén) helyeként nyilvántartott és megjelölt címen a postai szolgáltató a karantén fennállásának ideje alatt nem kézbesíti, hanem a postai szolgáltatási szerződésnek megfelelő őrzési ideig a kézbesítési ponton a karanténnal nem érintett jogosult rendelkezésére tartja, az őrzési idő leteltével pedig a kézbesíthetetlenségre vonatkozó szabályokat alkalmazza.
-
-(3) A postacsomagot a postai szolgáltató alkalmi átvevő részére akkor is jogosult kézbesíteni, ha a feladó nem rendelkezett kifejezetten így, de az alkalmi átvevő részére történő kézbesítést a címzett kifejezetten kéri.
