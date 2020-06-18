@@ -1,3 +1,0 @@
-1. § (1) A veszélyhelyzet ideje alatt az egészségügyi oxigén alkalmazási körébe tartozó egészségügyi ellátások során a bentlakásos szociális intézmény az egészségügyi oxigén beteg részére történő kiszolgáltatásával összefüggésben – az ellátás egyéb szakmai feltételeinek megléte esetén – az azonos ellátást fekvőbeteg-ellátás keretében nyújtó egészségügyi intézménnyel egy tekintet alá tartozik.
-
-(2) Az (1) bekezdésben meghatározottakon túl a bentlakásos szociális intézményben gondozott beteg részére vényen rendelt és kiszolgáltatott egészségügyi oxigén a vény beteg által történő aláírásának hiányában is kiszolgáltatható, és a társadalombiztosítási támogatás körében elszámolható.
