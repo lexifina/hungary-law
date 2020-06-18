@@ -1,0 +1,7 @@
+A járványügyi készültségi időszak utazási korlátozásairól szóló 291/2020. (VI. 17.) Korm. rendelet 15. § a) pontjában kapott felhatalmazás alapján,
+
+a 2. § tekintetében a járványügyi készültségi időszak utazási korlátozásairól szóló 291/2020. (VI. 17.) Korm. rendelet 15. § b) pontjában kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 5. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben –
+
+a következőket rendelem el:

@@ -1,0 +1,1 @@
+## 1. § A járványügyi készültségi időszak utazási korlátozásairól szóló 291/2020. (VI. 17.) Korm. rendelet 9. §-a szerinti, a járványügyi készültségi időszakban nemzetközi viszonosság alapján belépésére jogosultság körébe tartozó állam a Szerb Köztársaság.
