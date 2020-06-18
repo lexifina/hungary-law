@@ -46,7 +46,7 @@
 
 | Veleszületett és szerzett végtaghiányos állapotok | 7. |
 
-## 1.[^51] Szív- és keringési eredetű megbetegedések
+## 1.[^54] Szív- és keringési eredetű megbetegedések
 
 ## Javallat:
 
@@ -76,7 +76,7 @@
 
 ## Rendelésre jogosult: gyermekkardiológus szakorvos, illetve javaslata alapján házi gyermekorvos és vegyes háziorvosi körzetet ellátó orvos.
 
-## 2.[^52] Chronicus obstruktiv légzészavarok
+## 2.[^55] Chronicus obstruktiv légzészavarok
 
 ## Javallat:
 
@@ -96,7 +96,7 @@
 
 ## Rendelésre jogosult: gyermekpulmonológus szakorvos, klinikai immunológus és allergológus szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 3.[^53] Gerinc- és mellkasdeformitások
+## 3.[^56] Gerinc- és mellkasdeformitások
 
 ## Javallat:
 
@@ -126,7 +126,7 @@
 
 ## Rendelésre jogosult: gyermeksebész, ortopéd szakorvos vagy rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 4.[^54] Ízületi megbetegedések
+## 4.[^57] Ízületi megbetegedések
 
 ## Javallat:
 
@@ -148,7 +148,7 @@
 
 ## Rendelésre jogosult: reumatológus, ortopéd, hematológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos és vegyes háziorvosi körzetet ellátó orvos.
 
-## 5.[^55] Obesitas és szövődményei
+## 5.[^58] Obesitas és szövődményei
 
 ## Javallat:
 
@@ -166,7 +166,7 @@
 
 ## Rendelésre jogosult: gyermekendokrinológus vagy ortopéd szakorvos, illetve javaslataik alapján gyermekgyógyász szakorvos, házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 6.[^56] Központi és perifériás idegrendszeri károsodás
+## 6.[^59] Központi és perifériás idegrendszeri károsodás
 
 ## Javallat: szakmailag illetékes szakintézeti kivizsgálás és javaslat alapján, egyéb párhuzamosan végzendő kondíciót javító rendszeres fizikai tevékenység mellett. Ideértendő az infantilis cerebralparesis, plexus brachialis születéskori sérülés, minimális cerebrális dysfunkcio, morbus Down, neuromusculáris kórképek, szellemi fogyatékosok.
 
@@ -174,7 +174,7 @@
 
 ## Rendelésre jogosult: gyermekneurológus szakorvos, rehabilitációs szakorvos, illetve javaslataik alapján házi gyermekorvos, vegyes háziorvosi körzetet ellátó orvos és iskolaorvos.
 
-## 7.[^57] Veleszületett és szerzett végtaghiányos állapotok
+## 7.[^60] Veleszületett és szerzett végtaghiányos állapotok
 
 ## Javallat: önálló életvitelt korlátozó esetekben, ortopéd vagy rehabilitációs szakorvos indikációja alapján, egyéb, párhuzamosan végzendő kondíciót javító rendszeres fizikai tevékenység mellett.
 
@@ -214,13 +214,13 @@
 
 | Az alapbetegség diagnózisa önmagában elegendő | 4. c) | a rendelő szakorvos által előírt időszakonként |
 
-7. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^58]
+7. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^61]
 
-[^51]: A 6. számú melléklet 1. Szív- és keringési eredetű megbetegedések pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^52]: A 6. számú melléklet 2. Chronicus obstruktiv légzészavarok pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^53]: A 6. számú melléklet 3. Gerinc- és mellkasdeformitások pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^54]: A 6. számú melléklet 4. Ízületi megbetegedések pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^55]: A 6. számú melléklet 5. Obesitas és szövődményei pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^56]: A 6. számú melléklet 6. Központi és perifériás idegrendszeri károsodás pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^57]: A 6. számú melléklet 7. Veleszületett és szerzett végtaghiányos állapotok pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^58]: A 7. számú mellékletet a 27/2011. (V. 31.) NEFMI rendelet 10. § (4) bekezdése iktatta be.
+[^54]: A 6. számú melléklet 1. Szív- és keringési eredetű megbetegedések pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^55]: A 6. számú melléklet 2. Chronicus obstruktiv légzészavarok pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^56]: A 6. számú melléklet 3. Gerinc- és mellkasdeformitások pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^57]: A 6. számú melléklet 4. Ízületi megbetegedések pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^58]: A 6. számú melléklet 5. Obesitas és szövődményei pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^59]: A 6. számú melléklet 6. Központi és perifériás idegrendszeri károsodás pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^60]: A 6. számú melléklet 7. Veleszületett és szerzett végtaghiányos állapotok pontja a 41/2014. (VI. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^61]: A 7. számú mellékletet a 27/2011. (V. 31.) NEFMI rendelet 10. § (4) bekezdése iktatta be.

@@ -28,11 +28,17 @@ c) az 1. § (2) bekezdés c) pontja szerinti ellátás esetében 4 hétig
 
 (3b)[^19] A (3) bekezdés szerinti, a beteg egészségi állapotában bekövetkezett változást a háziorvos, illetve a szakmailag illetékes szakorvos igazolja. Az igazolást a beteg a lezárt kezelőlappal egyidejűleg átadja az igénybe nem vett kezeléseket ismételten elrendelő orvosnak.
 
-(4)[^20] Ha a beteg az (1) bekezdés szerinti időtartam alatt a rendelt kúra igénybevételét nem kezdte meg és a vényt átadja az újabb kúrát elrendelő orvosnak, a kúrát – a 7. § (1) bekezdésének alkalmazása során – el nem rendeltnek kell tekinteni.
+(3c)[^20] A (3) bekezdésében foglaltakon túl a beteg a részére rendelt kúrát egészségügyi válsághelyzet időtartamára is megszakíthatja. Az (1) és (2) bekezdésben foglalt határidők az egészségügyi válsághelyzet időtartamával meghosszabbodnak.
+
+(3d)[^21] A (3c) bekezdés szerinti esetben részkúra is elszámolható.
+
+(4)[^22] Ha a beteg az (1) bekezdés szerinti időtartam alatt a rendelt kúra igénybevételét nem kezdte meg és a vényt átadja az újabb kúrát elrendelő orvosnak, a kúrát – a 7. § (1) bekezdésének alkalmazása során – el nem rendeltnek kell tekinteni.
 
 [^15]: Az 5. § (1) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 47/2015. (X. 19.) EMMI rendelet 8. §-a szerint módosított szöveg.
 [^16]: Az 5. § (1a) bekezdését a 47/2015. (X. 19.) EMMI rendelet 4. § (1) bekezdése iktatta be.
 [^17]: Az 5. § (2) bekezdése a 27/2011. (V. 31.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^18]: Az 5. § (3a) bekezdését a 41/2014. (VI. 30.) EMMI rendelet 3. § (2) bekezdése iktatta be.
 [^19]: Az 5. § (3b) bekezdését a 47/2015. (X. 19.) EMMI rendelet 4. § (2) bekezdése iktatta be.
-[^20]: Az 5. § (4) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^20]: Az 5. § (3c) bekezdését a 21/2020. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
+[^21]: Az 5. § (3d) bekezdését a 21/2020. (VI. 17.) EMMI rendelet 3. §-a iktatta be.
+[^22]: Az 5. § (4) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 3. § (3) bekezdésével megállapított szöveg.

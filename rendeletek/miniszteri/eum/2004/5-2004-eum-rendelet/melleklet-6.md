@@ -48,6 +48,6 @@
 
 ## traumatológus szakorvos kizárólag traumatológiai indikáció esetén.
 
-6. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^50]
+6. számú melléklet az 5/2004. (XI. 19.) EüM rendelethez[^53]
 
-[^50]: A 6. számú melléklet a 7/2012. (VI. 29.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^53]: A 6. számú melléklet a 7/2012. (VI. 29.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
