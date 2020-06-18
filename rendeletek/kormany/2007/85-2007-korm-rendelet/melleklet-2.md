@@ -112,6 +112,6 @@
 
 | 55. | a szülő (szülők) és a vele (velük) együtt utazó legalább 3 gyermekük | 9. § (1) bekezdés f) pontja | 90% | – | – |
 
-2. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^41]
+2. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^43]
 
-[^41]: A 2. számú melléklet a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
+[^43]: A 2. számú melléklet a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
