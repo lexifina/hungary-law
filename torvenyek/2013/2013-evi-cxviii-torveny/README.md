@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-118-00-00
 | 2016-04-12 | 2016. évi XXI. törvény | 2013-118-00-00.3 |
 | 2016-12-22 | 2016. évi CLXX. törvény | 2013-118-00-00.4 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2013-118-00-00.5 |
+| 2020-06-18 | 2020. évi LVIII. törvény | 2013-118-00-00.6 |

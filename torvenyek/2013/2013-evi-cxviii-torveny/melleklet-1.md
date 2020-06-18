@@ -5594,23 +5594,13 @@ Budapest
 
 |
 
-Budapest
+|
 
 |
 
-Budapest Főváros XXI. kerület Csepel Önkormányzata
-
 |
 
-Budapest
-
 |
-
-209961/8
-
-|
-
-1/1
 
 |
 
