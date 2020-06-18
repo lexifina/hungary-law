@@ -1,6 +1,6 @@
 12. § (1) A változási vázrajzokhoz az ingatlan-nyilvántartási átvezetés céljának megfelelő területkimutatás tartozik.
 
-(2) A területkimutatás változás előtti része az előzetes változásokkal kiegészítetten, a hatályos ingatlan-nyilvántartásnak megfelelően tartalmazza:
+(2)[^37] A területkimutatás változás előtti része a hatályos ingatlan-nyilvántartásnak megfelelően, az előzetes változások figyelembevételével tartalmazza:
 
 a) a változás előtti helyrajzi számokat növekvő sorrendben,
 
@@ -10,7 +10,7 @@ c) a földrészletek, az alrészletek és a termőföld minőségi osztályok te
 
 d) a földrészletek területének összegét, valamint
 
-e) a tulajdonosi adatokat és a tulajdoni hányadokat a 4. § (4) bekezdés b) pontja esetén.
+e)[^38]
 
 (3) A területkimutatás változás utáni része tartalmazza:
 
@@ -24,6 +24,10 @@ d) az alrészletek – a termőföld minőségi osztályok – területének és
 
 e) a földrészletek területének összegét,
 
-f) a változással érintett földrészletet terhelő jogokat, tényeket tartalmazó vázrajzmellékletekre való hivatkozásokat, valamint
+f)[^39] földrészlethatár változásával összefüggő vázrajz esetén a változással érintett földrészletet terhelő jogokat, tényeket tartalmazó vázrajzmellékletekre való hivatkozásokat, valamint
 
 g) a 4. § (4) bekezdés b) pontja szerinti változási vázrajz esetén a használati viszonyokat és arányokat.
+
+[^37]: A 12. § (2) bekezdés nyitó szövegrésze a 7/2020. (VI. 10.) MvM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^38]: A 12. § (2) bekezdés e) pontját a 7/2020. (VI. 10.) MvM rendelet 57. § 5. pontja hatályon kívül helyezte.
+[^39]: A 12. § (3) bekezdés f) pontja a 7/2020. (VI. 10.) MvM rendelet 44. § (2) bekezdésével megállapított szöveg.

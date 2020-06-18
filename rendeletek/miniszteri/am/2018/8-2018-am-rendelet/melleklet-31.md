@@ -1,8 +1,8 @@
-31. melléklet a 8/2018. (VI. 29.) AM rendelethez
+31. melléklet a 8/2018. (VI. 29.) AM rendelethez[^156]
 
 ## Földmérési és térképészeti munkák bejelentése
 
-| …............................................................ a bejelentő nyilvántartási száma | …............................................................ a járási hivatal nyilvántartási száma |
+| …............................................................ a bejelentő nyilvántartási száma | …............................................................ az ingatlanügyi hatóság nyilvántartási száma |
 
 1. A bejelentő földmérő neve és címe:
 
@@ -39,3 +39,5 @@ Kelt:……………………… 20…. év ………………… hó …. nap.
 …………………………………
 
 bejelentő aláírás
+
+[^156]: A 31. melléklet a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.

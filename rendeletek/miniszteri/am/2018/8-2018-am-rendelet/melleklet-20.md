@@ -20,7 +20,7 @@ f) a vázrajz méretarányát.
 
 a) a változással érintett földrészletek és környezetének térképmásolatát;
 
-b) a szolgalommal érintett területek földrészlet-határvonaltól eltérő határvonalát vastag, szaggatott vonallal;
+b)[^139] a vagyonkezelői joggal vagy jogilag jelentős ténnyel érintett területek földrészlet-határvonaltól eltérő határvonalát vastag, szaggatott vonallal;
 
 c) a joggal érintett terület területszámítás szerinti azonosítóját.
 
@@ -40,7 +40,7 @@ c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 d) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz iktatószámára történő hivatkozást;
 
-e) a záradékolás helyét és időpontját, valamint a záradékoló járási hivatal színes körbélyegző lenyomatát;
+e)[^140] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 f) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -49,3 +49,6 @@ g) a készítő aláírását, színes bélyegző lenyomatát, földmérő igazo
 h) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, akkor a minőségtanúsító aláírását, színes bélyegző lenyomatát és az ingatlanrendező földmérő minősítésének számát;
 
 i) a készítés helyét és időpontját.
+
+[^139]: A 20. melléklet 2. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 26. pontja szerint módosított szöveg.
+[^140]: A 20. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 69–72. §[^1]
+## 69–72. §[^122]
 
 1. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
@@ -6,7 +6,7 @@
 
 1. A táblázat fejrészének tartalmaznia kell:
 
-a) az „a földmérési és térképészeti adatok igénylése egyéb célból, mely az ingatlan-nyilvántartás tartalmát nem érinti” feliratot;
+a)[^123] az „a földmérési és térképészeti adatok igénylése ingatlan-nyilvántartási célra” feliratot;
 
 b) az adatszolgáltató szervezet megnevezését és az iktatószámot.
 
@@ -22,7 +22,7 @@ d) személyazonosító okmányának megnevezését és a számát;
 
 e) statisztikai azonosítójának számjelét;
 
-f) földmérési tevékenység végzésére vonatkozó jogosultságának igazolását, amennyiben ingatlan-nyilvántartási célú munkához kéri az adatot; valamint
+f)[^124] földmérési tevékenység végzésére vonatkozó jogosultságának igazolását; valamint
 
 g) az elektronikus kapcsolattartást biztosító e-mail-címét.
 
@@ -80,4 +80,6 @@ d) az adatátvevő aláírását.
 
 Megjegyzés: az ingatlan-nyilvántartás tartalmában változást eredményező földmérési munkákhoz, valamint a kitűzési munkákhoz igényelt földmérési és térképészeti állami alapadatok csak hitelesítve szolgáltathatók!
 
-[^1]: A 69–72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 69–72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: Az 1. melléklet 1. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 24. pontja szerint módosított szöveg.
+[^124]: Az 1. melléklet 2. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 12. pontja szerint módosított szöveg.

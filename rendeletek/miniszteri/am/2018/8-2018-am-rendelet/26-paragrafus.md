@@ -18,4 +18,6 @@ b) az önálló ingatlanok helyrajzi számozásáról és az alrészletek megjel
 
 (7) Az átcsatolt ingatlanokra vonatkozó irattári anyagot a növekvő területű település iratai között kell tárolni.
 
-(8) A kormányhivatal az illetékességi területére vonatkozó végleges közigazgatási és fekvéshatárvonal változásait digitálisan negyedévenként összesítve megküldi a földmérési és térinformatikai államigazgatási szervnek a Magyarország közigazgatási határok adatbázisába történő átvezetés céljából.
+(8)[^49] Az ingatlanügyi hatóság az illetékességi területére vonatkozó végleges közigazgatási és fekvéshatárvonal változásait digitálisan negyedévenként összesítve megküldi a földmérési és térinformatikai államigazgatási szervnek a Magyarország közigazgatási határok adatbázisába történő átvezetés céljából.
+
+[^49]: A 26. § (8) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 13. pontja szerint módosított szöveg.

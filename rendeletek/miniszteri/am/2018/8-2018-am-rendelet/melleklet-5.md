@@ -362,6 +362,9 @@ e) a készítés helyét és időpontját;
 
 f) a „területkimutatás a változási vázrajzzal együtt érvényes” feliratot;
 
-g) a záradékolás helyét és időpontját, valamint a záradékoló járási hivatal színes körbélyegző lenyomatát;
+g)[^127] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
-h) a vizsgálatot végző járási hivatali személy aláírását és ingatlanrendező földmérő minősítésének számát.
+h)[^128] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát.
+
+[^127]: Az 5. melléklet 2. pont g) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^128]: Az 5. melléklet 2. pont h) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.

@@ -26,7 +26,7 @@ a) termőföld esetén a 30. § (2) vagy (3) bekezdés szerinti mezőgazdász-z�
 
 b) a változási vázrajz céljától függően az 51. § (1) vagy az 51. § (2) bekezdés szerinti záradékot;
 
-c) a záradékolás helyét és időpontját, valamint a záradékoló járási hivatal színes körbélyegző lenyomatát;
+c)[^129] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 d) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -37,3 +37,5 @@ f) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 g) a készítés helyét és időpontját, szükség esetén a megelőző vázrajzra történő hivatkozást;
 
 h) az „A területkimutatás a változási vázrajzzal együtt érvényes!” feliratot.
+
+[^129]: A 6. melléklet 3. pont c) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

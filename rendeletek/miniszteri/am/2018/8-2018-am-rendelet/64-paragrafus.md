@@ -6,6 +6,9 @@
 
 (3) A helyszínelést a közigazgatási egység vagy annak valamely fekvése teljes területére kiterjedően kell végrehajtani.
 
-(4) Ha a földmérési helyszínelés során a járási hivatal az Fttv. 14. § (2) bekezdése hatálya alá tartozó olyan változást észlel, amelyet az arra kötelezett nem jelentett be, az Fttv. 14. § (3) és (4) bekezdésében foglaltak szerint jár el.
+(4)[^120] Ha a földmérési helyszínelés során az ingatlanügyi hatóság az Fttv. 14. § (2) bekezdése hatálya alá tartozó olyan változást észlel, amelyet az arra kötelezett nem jelentett be, az Fttv. 14. § (3) és (4) bekezdésében foglaltak szerint jár el.
 
-(5) Termőföldön észlelt művelésiág-változásokról eltérési jegyzéket kell készíteni, amelyet át kell adni a járási hivatal földvédelmi szakterületének a szükséges intézkedések megtételére.
+(5)[^121] Termőföldön észlelt művelésiág-változásokról eltérési jegyzéket kell készíteni, amelyet át kell adni az ingatlanügyi hatóság földvédelmi szakterületének a szükséges intézkedések megtételére.
+
+[^120]: A 64. § (4) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.
+[^121]: A 64. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.

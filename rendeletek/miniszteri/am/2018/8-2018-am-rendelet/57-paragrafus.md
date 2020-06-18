@@ -1,4 +1,4 @@
-57. § (1) Felmérési, térképezési vagy területszámítási hiba kijavítását járási hivatali hatósági eljárásban a következő esetekben lehet végrehajtani:
+57. § (1)[^112] Felmérési, térképezési vagy területszámítási hiba kijavítását ingatlanügyi hatósági hatósági eljárásban a következő esetekben lehet végrehajtani:
 
 a) a mérés során tévesen azonosították a határvonalat, és a helyes határvonal helyett nem megfelelő határvonalat mértek,
 
@@ -39,3 +39,5 @@ b) az analóg térképek digitalizálása során a digitalizálás, az azonosít
 c) tévesen ábrázolták vagy foglalták adatállományba a helyes mérési adatokat, vagy hibás összekötéseket hajtottak végre a struktúrák előállításánál, és ezek alapján végezték a területszámítást.
 
 (3) Felmérési, térképezési vagy területszámítási hiba fennállása esetén, ha az (1) és (2) bekezdésben foglalt esetek egyike alapján sem szüntethető meg a hiba, akkor az Fttv. 12. § (7) bekezdése szerint kell eljárni.
+
+[^112]: Az 57. § (1) bekezdés nyitó szövegrésze a 7/2020. (VI. 10.) MvM rendelet 56. § 6. pontja szerint módosított szöveg.

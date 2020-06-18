@@ -22,11 +22,13 @@ a) a jogok bejegyzésére és tények feljegyzésére, valamint ezek módosítá
 
 b) az építmények feltüntetésével, változásával vagy megszüntetésével, illetve önálló ingatlanná alakításával összefüggő változási vázrajz,
 
-c) egyéb önálló ingatlanok esetén az Inytv.-ben előírt alaprajz,
+c)[^23] társas- vagy szövetkezeti házban lévő önálló ingatlanok esetén az Inytv.-ben előírt alaprajz,
 
 d) a művelési ág, illetve minőségi osztály változásával összefüggő változási vázrajz,
 
-e) egyéb önálló ingatlanok tekintetében a tulajdoni viszonyok megváltoztatására készített változási alaprajz.
+e) egyéb önálló ingatlanok tekintetében a tulajdoni viszonyok megváltoztatására készített változási alaprajz,
+
+f)[^24] a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló változási vázrajz.
 
 (4) Változási vázrajzként kell kezelni az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező alábbi változási vázrajzokat vagy vázlatokat:
 
@@ -38,8 +40,12 @@ c) tények és jogi jellegek feljegyzéséhez és törléséhez szükséges váz
 
 d) vezetékjog előzetes engedélyezése iránti kérelemhez készített vázlat,
 
-e) földmérési igazságügyi szakértői vélemény és a felmérési, térképezési vagy területszámítási hiba bejelentéséhez szükséges szakvélemény mellékleteként készített vázlat.
+e)[^25] igazságügyi földmérő és térképész szakvélemény, valamint a felmérési, térképezési vagy területszámítási hiba bejelentéséhez szükséges szakvélemény mellékleteként készített vázlat.
 
 (5) Az (1)–(4) bekezdésben meghatározott vázrajzokat az ingatlan-nyilvántartási célú földmérési tevékenységhez az adatszolgáltató által kezelt állami ingatlan-nyilvántartási térképi adatbázis adatszerkezeti formátumában, fájlformátumában kell vizsgálatra, illetve vizsgálatra és záradékolásra benyújtani.
 
 (6) Az (5) bekezdésben meghatározott formátum adatbázis-szerkezetét, adattábláit, adatcsere-formátumát meghatározó műszaki dokumentációt a földügyi szakigazgatás hivatalos honlapján (a továbbiakban: honlap) letölthető formában közzé kell tenni.
+
+[^23]: A 4. § (3) bekezdés c) pontja a 7/2020. (VI. 10.) MvM rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^24]: A 4. § (3) bekezdés f) pontját a 7/2020. (VI. 10.) MvM rendelet 40. § (2) bekezdése iktatta be.
+[^25]: A 4. § (4) bekezdés e) pontja a 7/2020. (VI. 10.) MvM rendelet 56. § 5. pontja szerint módosított szöveg.

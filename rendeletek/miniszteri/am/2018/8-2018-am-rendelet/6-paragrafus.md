@@ -12,4 +12,6 @@ b) több mint három tulajdonos esetén a legnagyobb tulajdoni hányaddal rendel
 
 ## kell megküldeni.
 
-(5) A földmérési és térképészeti tevékenység végzése során észlelt felmérési, térképezési vagy területszámítási hiba kijavítását a munkát végző földmérőnek a járási hivatalnál kell kezdeményeznie. Ebben az esetben a földmérési munkálatokat fel kell függeszteni, és csak a hiba kijavítására vonatkozó járási hivatali határozat véglegessé válása után szabad folytatni azt.
+(5)[^28] A földmérési és térképészeti tevékenység végzése során észlelt felmérési, térképezési vagy területszámítási hiba kijavítását a munkát végző földmérőnek az ingatlanügyi hatóságnál kell kezdeményeznie. Ebben az esetben a földmérési munkálatokat fel kell függeszteni, és csak a hiba kijavítására vonatkozó ingatlanügyi hatósági határozat véglegessé válása után szabad folytatni azt.
+
+[^28]: A 6. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 6–7. pontja szerint módosított szöveg.

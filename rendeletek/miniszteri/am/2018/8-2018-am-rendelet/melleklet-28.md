@@ -34,10 +34,13 @@ a) a 43. § (2) és (3) bekezdése szerinti megfelelő záradékot;
 
 b) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-c) a nyilvántartásba vétel helyét és időpontját, valamint a nyilvántartásba vevő járási hivatal színes körbélyegző lenyomatát;
+c)[^152] a nyilvántartásba vétel helyét és időpontját, valamint a nyilvántartásba vevő ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
-d) a vizsgálatot végző járási hivatali személy aláírását és ingatlanrendező földmérő minősítésének számát;
+d)[^153] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát;
 
 e) a készítő aláírását, színes bélyegző lenyomatát, valamint ingatlanrendező földmérő minősítésének számát;
 
 f) a készítés helyét és időpontját.
+
+[^152]: A 28. melléklet 3. pont c) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^153]: A 28. melléklet 3. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.

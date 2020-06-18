@@ -4,7 +4,7 @@
 
 1. A táblázat fejrészének tartalmaznia kell:
 
-a) a „földmérési és térképészeti adatok igénylése ingatlan-nyilvántartási célra” feliratot;
+a)[^125] a „földmérési és térképészeti adatok igénylése egyéb célból, mely az ingatlan-nyilvántartás tartalmát nem érinti” feliratot;
 
 b) az adatszolgáltató szervezet megnevezését és az iktatószámot.
 
@@ -20,7 +20,7 @@ d) személyazonosító okmányának megnevezését és a számát;
 
 e) statisztikai azonosítójának számjelét;
 
-f) földmérési tevékenység végzésére vonatkozó jogosultságának igazolását, amennyiben ingatlan-nyilvántartási célú munkához kéri az adatot; valamint
+f)[^126] földmérési tevékenység végzésére vonatkozó jogosultságának igazolását; valamint
 
 g) az elektronikus kapcsolattartást biztosító e-mail-címét.
 
@@ -73,3 +73,6 @@ b) a kérelmező aláírását;
 c) az adatátvétel dátumát és
 
 d) az adatátvevő aláírását.
+
+[^125]: A 2. melléklet 1. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 25. pontja szerint módosított szöveg.
+[^126]: A 2. melléklet 2. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 13. pontja szerint módosított szöveg.

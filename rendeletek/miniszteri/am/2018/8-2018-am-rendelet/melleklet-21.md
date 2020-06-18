@@ -42,7 +42,7 @@ c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 d) szükség esetén a megelőző vagy hatályon kívül helyezendő vázrajz iktatószámára történő hivatkozást;
 
-e) a záradékolás helyét és időpontját, valamint a záradékoló járási hivatal színes körbélyegző lenyomatát;
+e)[^141] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 f) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -51,3 +51,5 @@ g) a készítő aláírását, színes bélyegző lenyomatát, földmérő igazo
 h) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, akkor a minőségtanúsító aláírását, színes bélyegző lenyomatát és az ingatlanrendező földmérő minősítésének számát;
 
 i) a készítés helyét és időpontját.
+
+[^141]: A 21. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

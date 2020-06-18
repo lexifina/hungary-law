@@ -26,9 +26,9 @@ c) a vezetékjoggal érintett terület természetbeni szélességét és a terü
 
 3. A területkimutatás tartalmazza:
 
-a) a 12. § (2) bekezdése szerinti változás előtti adatokat;
+a)[^142] a 12. § (2) bekezdése szerinti változás előtti adatokat úgy, hogy a helyrajzi számozás sorrendje lehet nyomvonal folytonos is;
 
-b) a 12. § (3) bekezdése szerinti változás utáni adatokat;
+b)[^143] a 12. § (3) bekezdése szerinti változás utáni adatokat úgy, hogy a helyrajzi számozás sorrendje lehet nyomvonal folytonos is;
 
 c) a megjegyzés rovatban a vezeték műszaki adatait, továbbá a vezetékjog jogosultját.
 
@@ -40,7 +40,7 @@ b) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz i
 
 c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-d) a záradékolás helyét és időpontját, valamint a záradékoló járási hivatal színes körbélyegző lenyomatát;
+d)[^144] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 e) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -49,3 +49,7 @@ f) a készítő aláírását, színes bélyegző lenyomatát, földmérő igazo
 g) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, akkor a minőségtanúsító aláírását, színes bélyegző lenyomatát és az ingatlanrendező földmérő minősítésének számát;
 
 h) a készítés helyét és időpontját.
+
+[^142]: A 22. melléklet 3. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 27. pontja szerint módosított szöveg.
+[^143]: A 22. melléklet 3. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 27. pontja szerint módosított szöveg.
+[^144]: A 22. melléklet 4. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
