@@ -26,7 +26,7 @@ veheti át.
 
 (6)[^121] A megjelölt belföldi kézbesítési címre postai úton megküldött és át nem vett útlevelet a kérelmező személyesen, törvényes képviselője vagy meghatalmazottja útján veheti át a kézbesítési cím szerint illetékes járási hivatalnál.
 
-(7)[^122] Az át nem vett útlevelet – az átvételre való felhívást követően – a járási hivatal, illetve a konzuli tisztviselő az útlevél kiállításától számított egy év elteltével selejtezi, és megküldi az általános hatáskörű útlevélhatóságnak. Az általános hatáskörű útlevélhatóság az át nem vett útlevelet beérkezését követően megsemmisíti, és gondoskodik e ténynek az útiokmány-nyilvántartásban való feltüntetéséről.
+(7)[^122] Az át nem vett útlevelet – az átvételre való felhívást követően, annak meghiúsulása esetén – a járási hivatal, az eljáró útlevélhatóság az útlevél kiállításától számított 60 nap, a konzuli tisztviselő az útlevél kiállításától számított egy év elteltével érvényteleníti, selejtezi és gondoskodik ezen tényeknek az útiokmány-nyilvántartásban való feltüntetéséről, továbbá az okmányok általános hatáskörű útlevélhatóság részére történő megküldéséről. Az általános hatáskörű útlevélhatóság az át nem vett útlevelet beérkezését követően megsemmisíti és gondoskodik e ténynek az útiokmány-nyilvántartásban való feltüntetéséről.
 
 [^113]: A 23. § (1) bekezdése a 98/2010. (IV. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^114]: A 23. § (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2011. (XII. 30.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 6/2020. (I. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
@@ -37,4 +37,4 @@ veheti át.
 [^119]: A 23. § (4) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^120]: A 23. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^121]: A 23. § (6) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
-[^122]: A 23. § (7) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (13) bekezdése iktatta be.
+[^122]: A 23. § (7) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (13) bekezdése iktatta be, szövege a 284/2020. (VI. 17.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.

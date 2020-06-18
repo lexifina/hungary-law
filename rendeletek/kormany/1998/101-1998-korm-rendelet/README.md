@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2020-02-01 | 1998-101-20-22.37 | 117/2009. (VI. 4.) Korm. rendelet |
 | 2020-02-29 | 1998-101-20-22.38 | 28/2020. (II. 28.) Korm. rendelet |
 | 2020-04-30 | 1998-101-20-22.39 | 28/2020. (II. 28.) Korm. rendelet |
+| 2020-06-18 | 1998-101-20-22.40 | 176/2019. (VII. 18.) Korm. rendelet |
