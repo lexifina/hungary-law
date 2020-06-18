@@ -1,3 +1,0 @@
-1. § (1) 2020. augusztus 31. napjáig az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 21. § (3) és (4) bekezdése szerinti felmondás esetében az R. 21. § (5) bekezdését az e rendelet szerinti eltérésekkel kell alkalmazni, ha a szerződés felmondására a koronavírus világjárványra tekintettel került sor.
-
-(2) Az (1) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha a koronavírus világjárvány következtében az utazási szolgáltatásokra vonatkozó szerződés teljesítése a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:179. § (1) bekezdése szerint lehetetlenné vált.
