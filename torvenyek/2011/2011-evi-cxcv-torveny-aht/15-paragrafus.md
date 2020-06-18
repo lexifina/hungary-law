@@ -10,6 +10,6 @@
 
 (5)
 
-(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú, továbbá a központi költségvetésről szóló törvényben az elkülönített állami pénzalap számára előírt befizetési kötelezettség fedezetéül szolgáló költségvetési kiadási előirányzatokat, valamint az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat cím, alcím szerinti bontásban tartalmazza.
+(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet vagy cím az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú, továbbá a központi költségvetésről szóló törvényben az elkülönített állami pénzalap számára előírt befizetési kötelezettség fedezetéül szolgáló költségvetési kiadási előirányzatokat, valamint az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat tartalmazza.
 
 (7) A társadalombiztosítás pénzügyi alapjai költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet a szabályozási szempontból összetartozó költségvetési bevételi előirányzatokat és költségvetési kiadási előirányzatokat cím, alcím, jogcím-csoport, jogcím szerinti bontásban tartalmazza. A működési bevételek és kiadások címként jelennek meg, ezen belül alcímet alkotnak a központi hivatali szervek.

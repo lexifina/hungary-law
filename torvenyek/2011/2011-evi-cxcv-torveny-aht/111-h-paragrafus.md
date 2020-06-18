@@ -1,0 +1,1 @@
+111/H. § A 41. § (6) bekezdésétől eltérően a központi költségvetés terhére az egészségügyi válsághelyzettel összefüggésben történő eszközbeszerzések és kapcsolódó szolgáltatások beszerzése tekintetében felmerülő szerződések esetében a szerződéses fél a megkötött szerződés vonatkozásában átlátható szervezetnek minősül.

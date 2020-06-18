@@ -2,7 +2,7 @@
 
 14. § (1) A központi költségvetésről szóló törvény a költségvetési bevételeket és költségvetési kiadásokat fejezetekbe tagolva állapítja meg. A központi költségvetésről szóló törvényben szereplő fejezetek fejezetrendet képeznek.
 
-(2) A központi költségvetésről szóló törvényben az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai alaponként külön fejezetben jelennek meg.
+(2) A központi költségvetésről szóló törvényben az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai alaponként külön címen vagy külön fejezetben jelennek meg.
 
 (3) A központi költségvetésről szóló törvény a helyi önkormányzatok általános működésének és ágazati feladatai támogatásait, valamint a részükre juttatandó költségvetési támogatásokat önálló fejezetként tartalmazza.
 
