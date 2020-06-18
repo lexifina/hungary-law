@@ -1,3 +1,0 @@
-9. § (1) E rendeletet a hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) Ha a veszélyhelyzet kihirdetése és e rendelet hatálybalépése közötti időre kitűzött közmeghallgatást a veszélyhelyzetre tekintettel nem tartották meg, és a hatóság érdemi döntést hozott, a közmeghallgatást e rendelet hatálybalépését követő tizenöt napon belül a 4. §-ban szabályozott módon pótolni kell. A pótolt közmeghallgatás alapján a hatóság a döntését szükség szerint kiegészíti vagy módosítja. A döntés módosítására abban az esetben is sor kerülhet, ha az az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 120. §-a alapján nem minősül jogszabálysértőnek.
