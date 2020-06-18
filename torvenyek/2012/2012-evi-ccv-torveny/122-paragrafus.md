@@ -41,3 +41,5 @@ c) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tarto
 d) a jogellenes távollét időtartamára, vagy
 
 e) a szolgálati viszony 58. § (1) bekezdése és 58/A. § (1) bekezdése szerinti szünetelése időtartamára.
+
+(8) Az állomány tagja a 108. § (1) bekezdés c) pontja szerinti esetben miniszteri rendeletben meghatározott mértékű illetményre jogosult.

@@ -1,0 +1,5 @@
+237/C. § (1) A más szervnél történő szolgálatteljesítésére vonatkozó megállapodásban az 52/A. § (2) bekezdésében foglaltakon túl, az 52. § (1) bekezdésében szereplő bármely kérdésben el lehet térni, ide nem értve a más szerv vezetőjének az állomány más szervhez vezényelt tagja tekintetében a szolgálatteljesítésre vonatkozó rendelkezési jogát.
+
+(2) Az 52. § (1) bekezdésében foglaltaktól eltérően a más szervhez vezényelt hivatásos vagy szerződéses katona a miniszter döntése alapján egyenruha viselésére köteles.
+
+(3) A miniszter az 51. § (3) bekezdésétől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő közreműködés időtartama alatt az 51. § (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.

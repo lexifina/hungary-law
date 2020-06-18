@@ -1,0 +1,1 @@
+237/G. § A Kit. 3. § (7) bekezdés b) pontja szerinti szakmai felsővezető – ha az 58/A. §-a alapján szünetel a jogviszonya – az 58/C. §-ban meghatározottakon túlmenően a feladatai ellátása során jogosult egyenruhát viselni, a miniszter előzetes egyetértése esetén.

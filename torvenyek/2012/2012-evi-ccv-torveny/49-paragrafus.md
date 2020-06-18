@@ -4,7 +4,7 @@
 
 (2) A munkáltatói jogkört gyakorló az állomány 46. § (1) bekezdés f)–i), k), l), és p)–r) és u) pontja alá tartozó tagját megfelelő szolgálati feladat ellátására vezényli. A vezénylés időtartama a 46. § (1) bekezdés r) pontja esetén nem haladhatja meg a rendelkezési állomány időtartamának felét.
 
-(3) A más helységbe történő vezénylések együttes időtartama 3 évenként a 6 hónapot nem haladhatja meg. A vezénylés befejezésétől számított 6 hónapon belül újabb vezénylésre nem kerülhet sor. E bekezdés szerinti korlátozásoktól az állomány tagjának kérelmére vagy beleegyezésével el lehet térni.
+(3)
 
 (4) Beleegyezésével vezényelhető más helységbe az állomány tagja, a várandóssága megállapításától gyermeke 3 éves koráig, ha kiskorú gyermekét egyedül neveli, vagy ha tartósan ápolásra szoruló közeli hozzátartozóját vagy élettársát gondozza.
 

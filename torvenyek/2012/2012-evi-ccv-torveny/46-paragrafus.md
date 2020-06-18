@@ -4,7 +4,7 @@
 
 a) az állomány azon tagja, aki Magyarországon települő katonai szervezetnél teljesít szolgálatot, a vezénylés időtartamára,
 
-b) az állomány azon tagja, aki más szervnél teljesít szolgálatot, az 51. § (3) bekezdésében foglalt kivétellel, a más szervnél történő szolgálatteljesítés időtartamára,
+b) az állomány azon tagja, aki más szervnél teljesít szolgálatot, az 51. § (3) bekezdésében és a 237/C. § (3) bekezdésében foglalt kivétellel, a más szervnél történő szolgálatteljesítés időtartamára,
 
 c) az állomány azon tagja, aki nem katonai oktatási intézményben teljesít szolgálatot, a vezénylés időtartamára,
 

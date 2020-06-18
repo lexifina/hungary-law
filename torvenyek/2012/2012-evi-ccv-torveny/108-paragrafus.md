@@ -26,4 +26,4 @@ k) az önkéntes, vagy a létesítményi tűzoltói szolgálat ellátásának id
 
 (2) Az (1) bekezdésen túl mentesül az állomány tagja a szolgálatteljesítési kötelezettség alól, ha jogszabály ezt előírja, vagy a munkáltatói jogkört gyakorló írásban engedélyezi. A szolgálatteljesítési kötelezettség alóli mentesülés igénybevételének rendjét miniszteri rendelet határozza meg.
 
-(3)
+(3) Az (1) bekezdés c) pontja szerinti esetben a szolgálatteljesítés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy az állomány tagja előző évről megmaradt szabadságát, a túlszolgálat ellentételezését biztosító pihenőidőt és az éves szabadságának 112. § (1) bekezdésében foglaltak szerinti időarányos részét már kiadta. Ebben az esetben a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.

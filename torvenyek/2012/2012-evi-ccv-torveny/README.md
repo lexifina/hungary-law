@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2019-02-01 | 2010. évi CXXX. törvény | 2012-205-00-00.34 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2012-205-00-00.35 |
 | 2020-06-10 | 2020. évi XLVII. törvény | 2012-205-00-00.36 |
+| 2020-06-18 | 2020. évi LVIII. törvény | 2012-205-00-00.37 |

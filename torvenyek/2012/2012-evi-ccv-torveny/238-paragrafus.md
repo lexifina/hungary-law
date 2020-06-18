@@ -18,7 +18,9 @@ e) a gyermek születése esetén az apát megillető pótszabadság igénybevét
 
 f) a 47. § (4) bekezdése szerinti együttműködés rendjét,
 
-g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének, valamint a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait.
+g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének, valamint a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait,
+
+h) a XXI/B. Fejezet szerinti különös szabályok alkalmazásának bevezetését.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 

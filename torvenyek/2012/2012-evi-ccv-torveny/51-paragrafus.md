@@ -4,7 +4,7 @@
 
 (2) A megállapodás megkötése alapján az állomány tagja a vezénylés tartamára további külön munkáltatói döntés nélkül kerül a 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba.
 
-(3) Ha a más szervnél történő szolgálatteljesítés nem haladja meg a hat hónapot, a miniszter – a szolgálati érdek figyelembevételével – az (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
+(3) Ha a más szervnél történő szolgálatteljesítés – e törvény eltérő rendelkezése hiányában – nem haladja meg a hat hónapot, a miniszter – a szolgálati érdek figyelembevételével – az (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
 
 (4) A más szervnél történő szolgálatteljesítés időtartama legfeljebb öt év, amely egy alkalommal, legfeljebb öt évvel meghosszabbítható.
 

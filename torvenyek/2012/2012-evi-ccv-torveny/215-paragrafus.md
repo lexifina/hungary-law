@@ -14,6 +14,8 @@ e) az önkéntes tartalékos katona honvédelmi alkalmazotti jogviszonyt létes�
 
 (2) Megszüntethető az önkéntes tartalékos szolgálati viszony bármelyik fél által tett egyoldalú jognyilatkozattal, indokolás nélkül. Az egyoldalú megszüntetés esetén az önkéntes tartalékos szolgálati viszony a jognyilatkozat közlését követő legalább 1, legfeljebb 6 hónap elteltével szűnik meg. A felek ennél rövidebb időpontban is megállapodhatnak. E bekezdést a rendelkezésre állás időszakában is alkalmazni kell.
 
+(2a) A (2) bekezdéstől eltérően, különleges jogrend idején az önkéntes tartalékos katona a szolgálati viszonyát egyoldalú nyilatkozattal nem szüntetheti meg.
+
 (3) Ha az önkéntes tartalékos katona kezdeményezi a szerződés megszüntetését, részére az illetmény és a rendelkezésre állási díj időarányos részét ki kell fizetni.
 
 (4) Ha az önkéntes tartalékos katona szerződésének megszüntetésére közös megegyezéssel vagy a honvédelmi szervezet kezdeményezésére kerül sor, a megkezdett év után járó rendelkezésre állási díjat részére teljes összegben ki kell fizetni.
