@@ -10,6 +10,8 @@ c) a honvédelmi szervezet jogutód nélküli megszűnésével, vagy
 
 d) a 16. § (16) bekezdésében és a 22. § (1) bekezdésében meghatározott esetben, továbbá ha törvény így rendelkezik.
 
+(1a) Az (1) bekezdés a) pontjától eltérően különleges jogrend ideje alatt nem szűnik meg a honvédelmi alkalmazotti jogviszony a kinevezésben foglalt határozott idő lejártával, kivéve, ha a munkáltatói jogkör gyakorlója írásban – legkésőbb a jogviszony megszűnésének napján – így rendelkezik, és azt közli a honvédelmi alkalmazottal.
+
 (2) A honvédelmi alkalmazotti jogviszony megszüntethető:
 
 a) közös megegyezéssel,
@@ -54,7 +56,7 @@ b) a 12. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározo
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
-(5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény IX. Fejezetében szabályozott különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
+(5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény IX. Fejezetében szabályozott különleges jogrend, illetve veszélyhelyzet kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
 (6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
 

@@ -1,9 +1,3 @@
-## VII. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
-
-## 15. Felhatalmazó rendelkezések
-
 93. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 1. a munkáltatói jogkörök gyakorlására jogosultak körét és hatáskörüket,
@@ -34,7 +28,7 @@
 
 14. a honvédelmi alkalmazottnak adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 
-15. a honvédelmi alkalmazottak illetményének folyósítására, illetve teljesítményjuttatásra vonatkozó részletes szabályokat,
+15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5a) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.
 
 16. az 51. § (7) bekezdése szerinti hátrányos jogkövetkezményeket,
 
