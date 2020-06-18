@@ -22,6 +22,6 @@ d) a biztonsági mentési állományok elhelyezését
 
 ## az adatkezelő szervek által elkészített, a szakmai felügyeletet gyakorló szerv által jóváhagyott adatbázis archiválási műszaki szabályzat tartalmazza.
 
-(4)[^16] A (3) bekezdésben meghatározott adatbázis archiválási műszaki szabályzatot az országos illetékességgel eljáró földmérési és térinformatikai államigazgatási szerv, a kormányhivatalok, valamint azok illetékességi területéhez tartozó járási hivatalok vonatkozásában a kormányhivatal vezetője készíti el.
+(4)[^16] A (3) bekezdésben meghatározott adatbázis archiválási műszaki szabályzatot az országos illetékességgel eljáró földmérési és térinformatikai államigazgatási szerv és az ingatlanügyi hatóságok vezetői készítik el.
 
-[^16]: A 7. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 203. §-ával megállapított szöveg.
+[^16]: A 7. § (4) bekezdése a 7/2020. (VI. 10.) MvM rendelet 16. §-ával megállapított szöveg.
