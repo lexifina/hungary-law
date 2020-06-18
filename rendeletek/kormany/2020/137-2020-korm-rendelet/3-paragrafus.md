@@ -1,3 +1,0 @@
-## 2. § A Tpvt. 24. §-ától eltérően nem kell bejelenteni a Gazdasági Versenyhivatalnak a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap részvételével a COVID-19 koronavírus miatt szükségessé vált finanszírozási ügylettel – az e célra létrehozott tőkeprogramon keresztül – megvalósuló összefonódást, amely révén a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap egyedül vagy más vállalkozásokkal közös, befektetésvédelmi célú irányítási jogokat szerez.
-
-## 2. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény rendelkezéseinek eltérő alkalmazásáról
