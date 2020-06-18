@@ -1,0 +1,1 @@
+1. § Az Országgyűlés felhívja a Kormányt, hogy a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzetet (a továbbiakban: veszélyhelyzet) az Alaptörvény 54. cikk (3) bekezdése szerint szüntesse meg.
