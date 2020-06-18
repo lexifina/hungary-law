@@ -22,9 +22,9 @@ b) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, ad�
 
 (7)
 
-(8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
+(8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának a (2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 

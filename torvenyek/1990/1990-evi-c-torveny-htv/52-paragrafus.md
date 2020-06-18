@@ -4,7 +4,7 @@
 
 52. § E törvény alkalmazásában:
 
-1. önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt — bel- és külterületet magában foglaló — térség, amelyre az önkormányzati hatáskör kiterjed,
+1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a megyei önkormányzat illetékességi területe;
 
 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 
@@ -212,11 +212,11 @@ keretében végzett kötelezettség;
 
 55. alapítvány: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil törvény) szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt;
 
-56.
+56. különleges gazdasági övezet: a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény felhatalmazása alapján alkotott kormányrendeletek szerinti különleges gazdasági övezet;
 
-57.
+57. települési önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térség, amelyre az önkormányzati hatáskör kiterjed, ide nem értve a különleges gazdasági övezet területét;
 
-58.
+58. megyei önkormányzat illetékességi területe: a megyei önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térségben lévő különleges gazdasági övezet területe;
 
 59.
 

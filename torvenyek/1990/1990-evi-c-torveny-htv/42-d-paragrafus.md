@@ -4,7 +4,7 @@
 
 (3) A számszaki hibát, ellentmondást nem tartalmazó vagy a (2) bekezdés szerint javított adóbevallást az önkormányzati adóhatóságnál határidőben teljesítettnek kell tekinteni, feltéve, hogy azt az állami adóhatósághoz határidőben benyújtották.
 
-(4) A sportvállalkozás az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
+(4) A sportvállalkozás és a különleges gazdasági övezetbe tartozó területen székhellyel, telephellyel rendelkező adóalany az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
 
 (5) Az állami adóhatóság a sportvállalkozás által a (4) bekezdés szerint benyújtott adóbevallás (2) bekezdés szerinti továbbítását megelőzően az adóbevallásban feltüntetett adatokat nyilvántartásba veszi.
 
