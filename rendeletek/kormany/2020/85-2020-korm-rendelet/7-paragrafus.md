@@ -1,1 +1,0 @@
-## 6. § Az Szmtv. és a Harmtv. alapján kiadott tartózkodásra jogosító okmányok, valamint a letelepedési engedély és bevándorlási engedély okmányok érvényességi ideje – a rövid időtartamú beutazásra jogosító vízum, valamint a tartózkodási engedély átvételére jogosító vízum okmányok kivételével – a veszélyhelyzet megszűnését követő 45. napig automatikusan meghosszabbodik.

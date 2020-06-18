@@ -1,3 +1,0 @@
-## 3. § A veszélyhelyzet ideje alatt a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja esetében – a Hszt. 82. § (1) bekezdés a) pontjától eltérően – nem szűnik meg a hivatásos szolgálati jogviszony a törvény erejénél fogva az ott meghatározott képzési és vizsgakötelezettség teljesítésének önhibából történő elmulasztása esetén. A hivatásos állomány tagjának lehetősége van arra, hogy a képzési és vizsgakötelezettségét a veszélyhelyzet megszűnésétől számított három hónapon belül teljesítse.
-
-## 2. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény rendelkezéseinek eltérő alkalmazása

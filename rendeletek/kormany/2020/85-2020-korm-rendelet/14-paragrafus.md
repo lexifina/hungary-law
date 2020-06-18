@@ -1,5 +1,0 @@
-## 13. § Az ügyirat tartalmáról felvilágosítás adása vagy tájékoztatás nyújtása, az ügy iratainak megismerése csak személyes jelenlétet nem igénylő módon biztosítható.
-
-14. § (1) A bíróság, a szabálysértési hatóság és az előkésztő eljárást lefolytató szerv legfeljebb három hónapra felfüggesztheti az eljárást, ha a szabálysértési eljárásban részt vevő személyek személyes jelenlétével járó eljárási cselekmény elvégzése szükséges, és a személyes jelenlét a szükséges technikai és műszaki feltételek hiányában telekommunikációs eszköz útján nem biztosítható, vagy a bíróság, a szabálysértési hatóság az írásbeli vallomástételt nem engedélyezte, továbbá annak az érintett nem, vagy nem megfelelő módon tett eleget. A határozat ellen nincs helye jogorvoslatnak.
-
-(2) A bíróság, a szabálysértési hatóság és az előkésztő eljárást lefolytató szerv az eljárás felfüggesztésének (1) bekezdésben meghatározott tartamát alkalmanként legfeljebb három hónappal meghosszabbíthatja, ha annak feltételei továbbra is fennállnak. A határozat ellen nincs helye jogorvoslatnak.

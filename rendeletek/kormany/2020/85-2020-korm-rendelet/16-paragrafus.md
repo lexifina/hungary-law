@@ -1,1 +1,0 @@
-## 15. § A bíróság és a szabálysértési hatóság a nyilvánosságot a tárgyalásról vagy a meghallgatásról indokolt határozattal hivatalból kizárja, ha járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályaira figyelemmel az szükséges. A határozat ellen nincs helye jogorvoslatnak.

@@ -1,3 +1,0 @@
-18. § (1) A veszélyhelyzet megszűnésének napjáig a központi költségvetés terhére nyújtott költségvetési támogatásból megvalósuló, a veszélyhelyzet kihirdetése napján megvalósítási határidőben lévő programokkal, projektekkel összefüggő támogatási jogviszonyokban meghatározott támogatott tevékenység időtartama a veszélyhelyzet időtartamával megegyező mértékben meghosszabbodik.
-
-(2) Az (1) bekezdést kell alkalmazni azon központi költségvetés terhére nyújtandó költségvetési támogatásból megvalósuló programok, projektek esetében is, amelyeknél a támogatási jogviszony a veszélyhelyzet időtartama alatt jön létre.
