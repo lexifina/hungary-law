@@ -1,4 +1,4 @@
-## 9. § A jegyzőkönyv aláírásának kell tekinteni, ha az elektronikus formában készült jegyzőkönyvet az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy az elektronikus ügyintézésről szóló jogszabályokban foglalt követelményeknek megfelelően elektronikusan hitelesíti.
+## 9. §[^3]
 
 ## 8. A jegyzőkönyv kijavítása vagy kiegészítése
 
@@ -15,3 +15,5 @@ d) a javításokat, kiegészítéseket az azt végzőnek – az időpont megjel�
 (2) Ha a papíralapú jegyzőkönyv kijavításáról vagy kiegészítéséről új jegyzőkönyv készül, abban egyértelmű azonosításra alkalmas módon meg kell jelölni az eredeti jegyzőkönyv kijavított vagy kiegészített részét is. A kijavítás vagy kiegészítés tényét, idejét az eredeti jegyzőkönyvön is fel kell tüntetni, és meg kell jelölni a kijavítással, kiegészítéssel érintett jegyzőkönyv részletet is.
 
 (3) Elektronikus formában készült jegyzőkönyv kijavítását, illetve kiegészítését a kijavítandó, kiegészítendő rész megjelölésével külön elektronikus okiratban kell elkészíteni, feltüntetve a javított vagy kiegészített jegyzőkönyv iktatószámát is.
+
+[^3]: A 9. §-t a 284/2020. (VI. 17.) Korm. rendelet 86. § b) pontja hatályon kívül helyezte.

@@ -10,6 +10,9 @@ b) papír alapon készült jegyzőkönyv esetén az oldalakat össze kell fűzni
 
 c) az elektronikus formában készült jegyzőkönyvet egyetlen adatállományba kell foglalni.
 
-(3) A Be. 360. § (4) bekezdésében megjelöltek mellett a papír alapon készült jegyzőkönyvet az eljárási cselekmény befejezésekor jelen lévő, a büntetőeljárásban részt vevő más személy is aláírja. Ha a büntetőeljárásban részt vevő személy az eljárási cselekmény során eltávozik, lehetőség szerint biztosítani kell, hogy a távozás időpontjának megjelölésével az addig elkészült jegyzőkönyvet aláírhassa.
+(3)[^1]
 
-(4) Ha a (3) bekezdés szerinti személy a jegyzőkönyv aláírását megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát a jegyzőkönyvben fel kell tüntetni.
+(4)[^2]
+
+[^1]: A 8. § (3) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte.
+[^2]: A 8. § (4) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 86. § a) pontja hatályon kívül helyezte.
