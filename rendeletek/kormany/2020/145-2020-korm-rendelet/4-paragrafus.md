@@ -1,1 +1,0 @@
-## 3. § Az MNBtv. 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó személyek és szervezetek panaszkezelése a veszélyhelyzet ideje alatt kizárólag írásban – ideértve az elektronikus utat is – vagy telefonon történik.
