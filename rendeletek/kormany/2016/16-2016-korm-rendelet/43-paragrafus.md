@@ -48,7 +48,7 @@ w)[^109] annak tényét, hogy az igénylő építőközösség tagja, az épít�
 
 z)[^110]
 
-(1a)[^111] Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés n) pontja szerinti igazolás nem megfelelősége vagy hiánya miatt a hitelintézet a támogatás iránti kérelmet elutasítja – az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal a 39. § (1) bekezdése szerinti hatósági eljárás során, az igénylő külön kérelmére, méltányosság keretében
+(1a)[^111] Nagy-Britannia és Észak-Írország Egyesült Királysága esetében – amennyiben az (1) bekezdés n) pontja szerinti igazolás nem megfelelősége vagy hiánya miatt a hitelintézet a támogatás iránti kérelmet elutasítja – a kormányhivatal a 39. § (1) bekezdése szerinti hatósági eljárás során, az igénylő külön kérelmére, méltányosság keretében
 
 a) az illetékes külföldi hatóságtól – az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal bevonásával – nemzetközi jogsegély igénybevételével beszerzett vagy
 
@@ -115,7 +115,7 @@ j) a gyámság fennállását a gyámhatóság kirendelő határozatával.
 [^108]: A 43. § (1) bekezdés v) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
 [^109]: A 43. § (1) bekezdés w) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^110]: A 43. § (1) bekezdés z) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
-[^111]: A 43. § (1a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 1. §-a iktatta be.
+[^111]: A 43. § (1a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 284/2002. (VI. 17.) Korm. rendelet 80. § a) pontja szerint módosított szöveg.
 [^112]: A 43. § (1b) bekezdését a 252/2020. (V. 29.) Korm. rendelet 1. §-a iktatta be.
 [^113]: A 43. § (2) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 14. pontja és 23. § h) pontja szerint módosított szöveg.
 [^114]: A 43. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 567. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
