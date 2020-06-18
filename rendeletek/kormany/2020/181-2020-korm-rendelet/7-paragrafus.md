@@ -1,1 +1,0 @@
-## 6. § A járványügyi hatóság – az 1. § (2) bekezdése szerinti feltételekkel – a szoftver alkalmazását az e rendelet hatálybalépését megelőzően elrendelt hatósági házi karantén tekintetében is elrendelheti.
