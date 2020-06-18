@@ -1,3 +1,0 @@
-1. § (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 113. § (25) bekezdésében meghatározott szerződések – az Evt. 113. § (25a) bekezdésében meghatározott időponttól eltérően – a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet által elrendelt veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt hatályban maradnak.
-
-(2) Az Evt. 52. § (3) bekezdésében meghatározott, az újulat károsodása eredményeképpen bekövetkező eredménycsökkenés pótlására vonatkozó kötelezettség a veszélyhelyzet megszűnését követő év április 15. napjáig teljesíthető.

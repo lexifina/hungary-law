@@ -1,1 +1,0 @@
-## 7. § A hegyközségekről szóló 2012. évi CCXIX. törvény 6. § (2) bekezdés e) pontjától, valamint 47. § (2) bekezdésétől eltérően a hegyközségi járulék mértékét az elnök javaslata alapján a választmány határozza meg.
