@@ -8,7 +8,9 @@ b) az eljárás alá vont személy ismeretlen helyen vagy külföldön tartózko
 
 c) a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljárásra utalja,
 
-d) az eljárás alá vont személy tartós, súlyos betegsége vagy a szabálysértés elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt.
+d) az eljárás alá vont személy tartós, súlyos betegsége vagy a szabálysértés elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt,
+
+e) a szabálysértési eljárásban részt vevő személyek személyes jelenlétével járó eljárási cselekmény elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével járna.
 
 (2) A bíróság az eljárást hivatalból vagy indítványra felfüggeszti és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt vagy közjogi szervezetszabályozó eszközt, illetve jogegységi határozatot kell alkalmazni, amelynek alaptörvény-ellenességét vagy nemzetközi szerződésbe ütközését észleli.
 
