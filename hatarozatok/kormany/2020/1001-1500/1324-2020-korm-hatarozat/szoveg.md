@@ -1,1 +1,0 @@
-A Kormány – a járványügyi készültség során működő Operatív Törzs feladatairól szóló kormányrendeletre figyelemmel – visszavonja a Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs felállításáról szóló 1012/2020. (I. 31.) Korm. határozatot.
