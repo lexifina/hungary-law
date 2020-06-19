@@ -29,3 +29,9 @@ f) a bejelentés visszaélésszerű joggyakorlást valósít meg, vagy arra vona
 (4) A végzés közlését követően a hatóság engedélyezési eljárást folytat le.
 
 (5) A (4) bekezdés szerinti eljárásban
+
+a) a bejelentést kérelemnek kell tekinteni,
+
+b) az ügyintézési határidő kezdőnapja a bejelentést követő nap azzal, hogy az ügyintézési határidő az engedélyezéshez képest öt nappal meghosszabbodik,
+
+c) a díjat a jogszabályban megállapított díj 100%-ára kell kiegészíteni.
