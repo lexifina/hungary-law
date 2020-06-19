@@ -1,1 +1,3 @@
-## 2. § Az R. 4. számú melléklet IV. alcímének címében az „a veszélyhelyzet ideje alatt” szövegrész helyébe a „2020. december 31-ig” szöveg lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

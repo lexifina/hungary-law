@@ -1,1 +1,3 @@
-## 4. § Hatályát veszti az egyes igazságügyi tárgyú miniszteri rendeleteknek a koronavírus elleni védekezéssel összefüggő módosításáról szóló 3/2020. (IV. 21.) IM rendelet 5. § (2) bekezdése.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
