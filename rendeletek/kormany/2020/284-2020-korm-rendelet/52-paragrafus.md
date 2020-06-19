@@ -1,1 +1,3 @@
-## „(3) Az Igazgatóság az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettség teljesítését követő hatvan napon belül a rendelkezésre álló adatok alapján ellenőrzi, hogy az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségét és a gépjárműadó központi költségvetés részére való befizetését megfelelően teljesítette-e az önkormányzati adóhatóság. Ha az ellenőrzés eredményeként ezek helyessége nem állapítható meg, vagy az Igazgatóság tartalmi vagy formai hibát talál, pótlólagos információért, illetve hiánypótlásért megkeresi az önkormányzati adóhatóságot.”
+## 51. §[^17]
+
+[^17]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

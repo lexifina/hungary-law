@@ -1,3 +1,3 @@
-## 67. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 67. §[^33]
 
-## „(1) Az egészségügyi válsághelyzetben az egészségügyi dolgozó kirendelhető egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó, az egészségügyi válsághelyzet felszámolásában részt vevő intézménybe vagy időszakosan működő gyógyintézetbe.”
+[^33]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

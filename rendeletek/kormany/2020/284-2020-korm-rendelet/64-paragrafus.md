@@ -1,3 +1,3 @@
-## 63. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+## 63. §[^29]
 
-## „4. § Az egészségügyi válsághelyzet visszavonásának közzétételére a 2. § (1) bekezdésében foglaltakat kell alkalmazni.”
+[^29]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

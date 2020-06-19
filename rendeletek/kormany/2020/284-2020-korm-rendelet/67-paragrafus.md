@@ -1,5 +1,3 @@
-## 66. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 13. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+## 66. §[^32]
 
-## „(2) A megyei kormányhivatal vagy az országos tisztifőorvos határozatában rendelkezik az egészségügyi válsághelyzettel érintett gyógyintézet átmeneti működtetésének formájáról. Az egészségügyi válsághelyzettel érintett gyógyintézet folyamatos működtetése érdekében meghozott közigazgatási hatósági intézkedések érintettje köteles az intézkedéseket tűrni és azok végrehajtásában közreműködni.
-
-## (3) A megyei kormányhivatal vagy az országos tisztifőorvos az egészségügyi válsághelyzettel érintett gyógyintézet működési engedélyét az (1) bekezdés b) és c) pontja esetében visszavonja, és egyúttal a gyógyintézetet az (1) bekezdés b) és c) pontja szerint átmenetileg működtetőnek kiadja az átmeneti működési engedélyt. Az átmeneti működési engedély kiadásának nem feltétele az egészségügyi szolgáltatás gyakorlásához szükséges, az egészségügyért felelős miniszter rendeletében meghatározott személyi, tárgyi, szakmai és környezeti követelményeknek történő megfelelés, de ezen követelményeknek lehetőség szerint eleget kell tennie a gyógyintézetet az (1) bekezdés b) és c) pontja szerint átmenetileg működtetőnek.”
+[^32]: A 66. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

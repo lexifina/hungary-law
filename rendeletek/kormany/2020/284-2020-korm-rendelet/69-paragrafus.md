@@ -1,3 +1,3 @@
-## 68. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 68. §[^34]
 
-## „(1) Az Eütv. 228. § (2) bekezdés c) pontjában meghatározott egészségügyi válsághelyzet esetén a kirendelés az egészségügyi válsághelyzettel érintett gyógyintézetbe történhet. A kirendelést a 13. § (1) bekezdésében meghatározott személy vagy szerv vezetője kezdeményezi. A megyei kormányhivatal dönt a kirendelés szükségességéről, és az általa meghatározott egészségügyi intézmény vezetőjét kötelezi a kirendelés végrehajtására vagy a 14. § (3) bekezdése szerinti esetben kiadja a kirendelő határozatot. A megyei kormányhivatal a kirendelésekről tájékoztatja a megyei védelmi bizottság elnökét.”
+[^34]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

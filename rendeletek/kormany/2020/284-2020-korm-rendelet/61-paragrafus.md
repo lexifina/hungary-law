@@ -1,3 +1,3 @@
-## 60. § A Posta rendelet 16. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 60. §[^26]
 
-## „(4) Ha a postacsomag kézbesítése megkísérlésének időpontjában jogosult átvevő nem tartózkodik a címhelyen, a postai szolgáltató a küldemény átvételére – alkalmi átvevőként – jogosultnak tekintheti a címhely szerinti közvetlen szomszédot abban az esetben, ha erről a címzett kifejezetten így rendelkezett, megjelölve az alkalmi átvevőt. A közvetlen szomszédnak történő kézbesítés megtörténtéről a postai szolgáltató a címzettet értesíteni köteles. Nem kézbesíthető a közvetlen szomszédnak a sérült állapotban lévő postacsomag.”
+[^26]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

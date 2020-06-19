@@ -1,3 +1,3 @@
-## 65. § Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 65. §[^31]
 
-## „(2) A országos tisztifőorvos az (1) bekezdésben foglaltakról az Országos Mentőszolgálat (a továbbiakban: OMSZ) főigazgatóját, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) főigazgatóját, az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) főigazgatóját, a megyei kormányhivatalokat, az egészségügyért felelős minisztert, valamint a külön jogszabállyal létrehozott Operatív Törzset soron kívül tájékoztatja.”
+[^31]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

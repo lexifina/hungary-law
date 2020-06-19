@@ -1,4 +1,4 @@
-## 89. § A köztulajdonban álló gazdasági társaságok belső kontrollrendszeréről szóló 339/2019. (XII. 23.) Korm. rendelet 26. § (1) bekezdésében a „július” szövegrész helyébe az „október” szöveg lép.
+## 89. §[^58]
 
 ## V. Fejezet
 
@@ -13,3 +13,5 @@
 (3) A 84. § 2021. január 1-jén lép hatályba.
 
 (4) A 92. § 2021. július 1-jén lép hatályba.
+
+[^58]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

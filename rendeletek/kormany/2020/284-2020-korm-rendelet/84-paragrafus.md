@@ -1,3 +1,3 @@
-## 83. § Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet „A Kormány által kötelezően nyújtandó azonosítási szolgáltatás” alcíme a következő 72/A. §-sal egészül ki:
+## 83. §[^52]
 
-## „72/A. § Az ügyfélkapu regisztrációval már rendelkező felhasználó számára a regisztrációhoz tartozó felhasználói neve megismerését az országos telefonos ügyfélszolgálat telefonon keresztül biztosítja.”
+[^52]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

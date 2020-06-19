@@ -1,4 +1,4 @@
-## 92. §[^6]
+## 92. §[^60]
 
 ## 51. Jogharmonizációs záradék
 
@@ -10,4 +10,4 @@ b) az élő fák és egyéb növények, a hagymák, gumók, gyökerek és hasonl
 
 c) a tej- és tejtermékágazatban a termelési tervekre vonatkozó megállapodások és határozatok engedélyezéséről szóló, 2020. április 30-i európai bizottsági (EU) 2020/599 végrehajtási rendelet
 
-[^6]: A 92. § a 90. § (4) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^60]: A 92. § a 90. § (4) bekezdése alapján 2021. július 1-jén lép hatályba.
