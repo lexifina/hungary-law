@@ -1,1 +1,3 @@
-## „d) ha az ingatlanügyi hatóság igazolja az ingatlan-nyilvántartásban változást eredményező legalább 50 darab változási vázrajz vizsgálatában való részvételt.”
+## 26. §[^27]
+
+[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

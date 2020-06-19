@@ -1,3 +1,3 @@
-## 19. § Az alapponthálózati pontokkal kapcsolatos szabályokról szóló 51/2014. (IV. 29.) VM rendelet (a továbbiakban: R2.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 19. §[^20]
 
-## „(2) A földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: ingatlanügyi hatóság) az alapponthálózati pontok tekintetében az Fttv. 25. § (4) bekezdése szerinti döntés alapján a megszüntetés, áthelyezés tárgyában jár el.”
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

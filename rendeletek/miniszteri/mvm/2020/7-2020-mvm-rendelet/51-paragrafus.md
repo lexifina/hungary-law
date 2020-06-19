@@ -1,3 +1,3 @@
-## 50. § Az AMr. 35. § (1) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
+## 50. §[^51]
 
-## „(1) A vektoros szintenkénti alaprajzhoz tartozó műszaki dokumentáció tartalma:”
+[^51]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

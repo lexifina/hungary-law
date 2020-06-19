@@ -1,1 +1,3 @@
-## „f) földrészlethatár változásával összefüggő vázrajz esetén a változással érintett földrészletet terhelő jogokat, tényeket tartalmazó vázrajzmellékletekre való hivatkozásokat, valamint”
+## 44. §[^45]
+
+[^45]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

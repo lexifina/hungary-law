@@ -1,3 +1,3 @@
-## 46. § Az AMr. 17. §-a a következő (3) bekezdéssel egészül ki:
+## 46. §[^47]
 
-## „(3) A földrészletek határvonalának megállapítását az érintett földmérési alaptérkép készítési technológiájával összhangban kell végezni.”
+[^47]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

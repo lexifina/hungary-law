@@ -1,5 +1,3 @@
-## lép.
+## 35. §[^36]
 
-36. § (1) Az R3. 3. melléklete helyébe az 1. melléklet lép.
-
-(2) Az R3. a 2. melléklet szerinti 7. melléklettel egészül ki.
+[^36]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

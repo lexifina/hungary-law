@@ -1,1 +1,3 @@
-## „(9) EÖI területeként az ingatlan-nyilvántartásba a hasznos alapterületet kell bejegyezni. Az EÖI-n belüli szintek közötti közlekedést szolgáló szintkülönbség-áthidalók területét az EÖI hasznos alapterületébe egyszer kell beszámítani.”
+## 49. §[^50]
+
+[^50]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

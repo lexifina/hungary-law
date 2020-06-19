@@ -1,3 +1,3 @@
-## 7. § Az Inyvhr. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(1) Szövetkezeti ház bejegyzéséhez lakásszövetkezeti alapszabály és az ingatlanügyi hatóság által az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendelet szerint nyilvántartásba vett alaprajz szükséges. Az ingatlan alapterületének ingatlan-nyilvántartási átvezetéséhez az ingatlanügyi hatóság az alaprajzhoz tartozó numerikus területszámítást használja fel.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

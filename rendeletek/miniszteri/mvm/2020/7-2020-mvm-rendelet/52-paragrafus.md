@@ -1,5 +1,3 @@
-## 51. § Az AMr. 36. §-a helyébe a következő rendelkezés lép:
+## 51. §[^52]
 
-## „36. § (1) Az ingatlan-nyilvántartásba már korábban bejegyzett EÖI-ben történő időközi és építésiengedély-köteles változás, átalakítás átvezetéséhez, valamint az EÖI-ket érintő, az ingatlan-nyilvántartásba bejegyezhető jogok és jogilag jelentős tények ábrázolásához a 4. § (3) bekezdés c) pontjában nevesített változási vázrajzot kell készíttetni.
-
-## (2) Az (1) bekezdés szerinti változás esetén az alaprajzot csak a változással érintett EÖI-k vonatkozásában kell elkészíteni úgy, hogy az adott épületszinten történő beazonosíthatósága egyértelmű legyen.”
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

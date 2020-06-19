@@ -1,5 +1,3 @@
-## 3. § Az Inyvhr. 50. §-a a következő (8a) és (8b) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(8a) A (7) bekezdés b) pontja szerinti „Állami terület II.” megjelölésű területek közül azokat, amelyeket a belügyminiszter határozatával a feladat- és hatáskörébe tartozó célra feleslegessé nyilvánított, és ezzel egyidejűleg a területeknek a Nemzeti Földalapba történő átadása céljából való kijelöléséről döntött, – a belügyminiszter megkeresése alapján – művelés alól kivett területként „a belügyminiszter feladat- és hatáskörébe tartozó célra feleslegessé nyilvánított terület” megnevezéssel kell nyilvántartani, függetlenül attól, hogy az ingatlan a Nemzeti Földalapról szóló törvényben foglaltak szerint a tulajdonosi joggyakorló részére átadásra került.
-
-## (8b) A (7) bekezdés c) pontja szerinti „Állami terület III.” megjelölésű területek közül azokat, amelyeket az igazságügyért felelős miniszter határozatával a feladat- és hatáskörébe tartozó célra feleslegessé nyilvánított, és ezzel egyidejűleg a területeknek a Nemzeti Földalapba történő átadása céljából való kijelöléséről döntött, – az igazságügyért felelős miniszter megkeresése alapján – művelés alól kivett területként „az igazságügyért felelős miniszter feladat- és hatáskörébe tartozó célra feleslegessé nyilvánított terület” megnevezéssel kell nyilvántartani, függetlenül attól, hogy az ingatlan a Nemzeti Földalapról szóló törvényben foglaltak szerint a tulajdonosi joggyakorló részére átadásra került.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

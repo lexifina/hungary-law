@@ -1,1 +1,3 @@
-## „(7) A megyei (fővárosi) kormányhivatal évente egy alkalommal köteles megszervezni az ingatlanrendező földmérő minősítéssel rendelkező dolgozóik részére az (1) bekezdés d) pontjában meghatározott, a földmérési és térinformatikai államigazgatási szerv által akkreditált rendezvényt. Több megyei (fővárosi) kormányhivatal közösen, valamint a földmérési és térinformatikai államigazgatási szervvel együttműködve is megszervezheti a rendezvényt. A szaktanfolyam témaköreinek 80%-ban egyezni kell az ingatlanrendező minősítő vizsga témaköreivel.”
+## 32. §[^33]
+
+[^33]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

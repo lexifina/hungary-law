@@ -1,3 +1,3 @@
-## 2. § Az Inyvhr. 26. § (1) bekezdése a helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(1) Az ingatlan-nyilvántartási ügyben hozott döntés ellen benyújtott ügyészi felhívás tényének feljegyzésében fel kell tüntetni a felhívással érintett döntés ügyiratszámát és annak a bejegyzésnek a sorszámát, amellyel kapcsolatban az ügyészi felhívást benyújtották.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

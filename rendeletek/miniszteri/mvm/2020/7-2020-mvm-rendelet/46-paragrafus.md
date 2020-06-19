@@ -1,3 +1,3 @@
-## 45. § Az AMr. 13. §-a a következő (3) bekezdéssel egészül ki:
+## 45. §[^46]
 
-## „(3) Ha a területkimutatás több különálló lapból áll, akkor azokat össze kell kapcsolni.”
+[^46]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
