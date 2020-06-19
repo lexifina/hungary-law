@@ -108,7 +108,11 @@
 
 54.[^50] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes diódák bevonatrétegében lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/176 bizottsági irányelvnek,
 
-55.[^51] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a foszforokat tartalmazó kisülőlámpákban található fluoreszkáló porban aktivátorként alkalmazott ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/177 bizottsági irányelvnek
+55.[^51] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a foszforokat tartalmazó kisülőlámpákban található fluoreszkáló porban aktivátorként alkalmazott ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/177 bizottsági irányelvnek,
+
+56.[^52] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a motorrendszerekben alkalmazott egyes gumi alkatrészekben lévő bisz(2-etil-hexil)-ftalátra (DEHP) vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. augusztus 8-i (EU) 2019/1845 felhatalmazáson alapuló bizottsági irányelvnek,
+
+57.[^53] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az egyes belső égésű motorokban használt forrasztásokban lévő ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. augusztus 8-i (EU) 2019/1846 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -141,3 +145,5 @@ való megfelelést szolgálja.
 [^49]: A 16. § 53. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
 [^50]: A 16. § 54. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
 [^51]: A 16. § 55. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
+[^52]: A 16. § 56. pontját a 266/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^53]: A 16. § 57. pontját a 266/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.

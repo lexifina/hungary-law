@@ -308,6 +308,8 @@
 
 | 78b. | Nem közúti használatra szánt járművekben alkalmazott, dízel vagy gáznemű tüzelőanyaggal működő belső égésű motorok csapágyaiban és csapágybéléseiben lévő ólom: amelynél a motor teljes lökettérfogata < 15 liter, és a motort olyan alkalmazásokban való működésre tervezték, ahol az indítási jelzés és a teljes terhelés közötti idő 10 másodpercnél rövidebb kell, hogy legyen; vagy a rendszeres karbantartást jellemzően zord és piszkos kültéri környezetben végzik, mint például bányászati, építőipari és a mezőgazdasági alkalmazások esetén. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik, kivéve az e melléklet 49–49b. sorainak hatálya alá tartozó alkalmazásokat. |
 
+| 78c. | Az (EU) 2016/1628 európai parlamenti és tanácsi rendelet hatálya alá tartozó belső égésű motorok érzékelői, működtetői és motorvezérlő egységei forrasztásaiban használt ólom a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök estében, amennyiben ezeket működés közben statikus helyzetű, szakemberek általi használatra tervezett, de nem szakmai felhasználók által is használt berendezésekbe építik be. |
+
 | 79. | III. KADMIUM ÉS KADMIUMVEGYÜLETTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
 | 80. | Egyszerhasználatos, szemcsés töltetű hőkioldókban lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
@@ -342,7 +344,13 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^55]
+| 89. | V. BISZ(2-ETIL-HEXIL)-FTALÁTRA (DEHP) VONATKOZÓ MENTESSÉGEK |
+
+| 90. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó alábbi eszközök esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával, vagy tartósan emberi bőrrel: 1. tömítések bevonatai, 2. tömörgumiból készült tömítések, 3. a motorhoz csatlakoztatott, elektromos, mechanikus vagy hidraulikus energiával működő, legalább három összetevőből álló szerelvények gumialkatrészei. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 30 m% | 2024. július 21-ig |
+
+| 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
+
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^57]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -526,4 +534,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^55]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^57]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
