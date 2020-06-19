@@ -1,1 +1,3 @@
-## „(3) Az utólagos ellenőrzésről készült jelentés egyenértékű az eljárás megindítására vonatkozó tanúsítvánnyal, a közbeszerzési záró tanúsítvánnyal és a szerződés-módosításra vonatkozó írásbeli véleménnyel.”
+3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

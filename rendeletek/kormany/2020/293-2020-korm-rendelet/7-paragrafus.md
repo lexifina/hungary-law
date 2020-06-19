@@ -1,16 +1,20 @@
 ## 7. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
 
-a) 109. § (1) bekezdésében az „azzal, hogy az esetleges korrekcióra elsődlegesen a projektmenedzsment vagy közbeszerzés sorok terhére kerül sor” szövegrész,
+a)[^8]
 
-b)[^1]
+b)[^9]
 
-c) 1. melléklet 379. pontja,
+c)[^10]
 
-d) 1. melléklet 380. pont nyitó szövegrészében az „ , illetve a közbeszerzési dokumentumokat jóváhagyó” szövegrész,
+d)[^11]
 
-e) 1. melléklet 380. pont c) alpontjában a „– ha a közbeszerzési eljárást még nem indították meg –” szövegrész,
+e)[^12]
 
-f)[^2]
+f)[^13]
 
-[^1]: A 7. § b) pontja a 8. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^2]: A 7. § f) pontja a 8. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^8]: A 7. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § b) pontja az 554/2020. (XII. 3.) Korm. rendelet 4. §-a alapján nem lép hatályba.
+[^10]: A 7. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 7. § f) pontja az 554/2020. (XII. 3.) Korm. rendelet 4. §-a alapján nem lép hatályba.
