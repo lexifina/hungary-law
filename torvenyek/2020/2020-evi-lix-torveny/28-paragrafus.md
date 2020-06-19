@@ -1,1 +1,1 @@
-28. § Hatályát veszti az R.
+28. §

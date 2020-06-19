@@ -1,7 +1,1 @@
-11. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 29. §-a a következő (4f)–(4h) bekezdéssel egészül ki:
-
-„(4f) Ha a NIF Zrt., illetve a Magyar Közút Nonprofit Zrt. különleges gazdasági övezet területén lát el építtetői feladatokat a területi önkormányzati tulajdonban álló ingatlanokon, a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közutak az ingatlantulajdonos területi önkormányzat tulajdonaként jönnek létre.
-
-(4g) A NIF Zrt., illetve a Magyar Közút Nonprofit Zrt. a (4f) bekezdés szerinti eszközöket a végleges vagy ennek hiányában az ideiglenes forgalomba helyezést követően, ingyenesen, könyv szerinti értéken adja át a területi önkormányzat részére. A NIF Zrt., illetve a Magyar Közút Nonprofit Zrt. a forgalomba helyezést követő 6 hónapon belül elszámolási kimutatást készít annak céljából, hogy a (4f) bekezdés szerinti eszközöket a forgalomba helyezés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és az érintett területi önkormányzat könyveiben azokat nyilvántartásba vegye.
-
-(4h) Ha a NIF Zrt., illetve a Magyar Közút Nonprofit Zrt. különleges gazdasági övezet területén lát el építtetői feladatokat a magyar állam tulajdonában álló ingatlanokon, a forgalomba helyezett vagy ideiglenesen forgalomba helyezett helyi közutak, továbbá az ezeket magukban foglaló, a magyar állam tulajdonában álló egyes ingatlanok tulajdonjogát a végleges vagy ennek hiányában az ideiglenes forgalomba helyezését követően a magyar állam képviseletében eljáró tulajdonosi joggyakorló – ingatlan-nyilvántartáson való átvezetésre is alkalmas – megállapodással ingyenesen, könyv szerinti értéken köteles átadni az érintett területi önkormányzat részére, amely köteles azokat átvenni.”
+11. §
