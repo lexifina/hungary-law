@@ -10,8 +10,11 @@ d) mezőgazdasági káresemény: a mezőgazdasági termelő használatában lév
 
 e) nullás szüreti jelentés: adott borpiaci évre vonatkozó, igazolt termés nélküli szüreti jelentés, melyet a hegybíró a Hegyközségi Információs Rendszerben (a továbbiakban: HEGYIR) rögzít, és a bejelentő részére arról igazolást állít ki;
 
-f) összefüggő terület: a kérelmező használatában lévő, akár több helyrajzi számon nyilvántartott terület, amelyet a zöldszürettel nem érintett terület – kivéve út, csatorna, árok – vagy másik gazdálkodó használatában álló terület nem szakít meg;
+f)[^1] összefüggő terület: a kérelmező használatában lévő, akár több szomszédos földrészlet, amelyet út, csatorna, árok kivételével a zöldszürettel nem érintett más terület vagy másik gazdálkodó használatában álló terület nem szakít meg;
 
-g) támogatható területnagyság: a kérelem egy betétlapján megjelölt, valamint az ellenőrzésen mért összefüggő terület nagysága közül a legkisebb, amelynek el kell érnie a 0,2 hektárt;
+g)[^2] támogatható területnagyság: a kérelemben megjelölt, valamint a helyszíni ellenőrzés alapján megállapított összefüggő terület nagysága közül a legkisebb, amelynek el kell érnie a 0,2 hektárt;
 
 h) zöldszüret: a még éretlen állapotban lévő szőlőfürtök teljes eltávolításával az érintett terület terméshozamának nullára való csökkentése.
+
+[^1]: Az 1. § f) pontja a 21/2020. (VI. 19.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § g) pontja a 21/2020. (VI. 19.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
