@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti az R. 1. mellékletében foglalt táblázat 23. és 24. sora.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
