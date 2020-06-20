@@ -1,0 +1,3 @@
+4. § (1) Az átmeneti támogatás az azonos vagy részben azonos, azonosítható elszámolható költségek esetén abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással vagy csekély összegű támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás vagy támogatási összeg túllépéséhez.
+
+(2) Az átmeneti támogatás különböző, azonosítható elszámolható költségek esetén halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással vagy csekély összegű támogatással.
