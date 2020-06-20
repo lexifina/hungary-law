@@ -1,0 +1,211 @@
+## 1. A Kormány elfogadja a 2020–2022 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégiáról szóló dokumentumot (a továbbiakban: Stratégia), valamint az ahhoz kapcsolódó, 1. melléklet szerinti, a 2020–2022 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégia végrehajtásának intézkedési tervét (a továbbiakban: intézkedési terv), és felhívja a belügyminisztert, hogy gondoskodjon a Stratégia kormányzati portálon való közzétételéről.
+
+## 2. A Kormány a Stratégia célkitűzéseinek megvalósítását szolgáló, a 2020–2022 közötti időszakban végrehajtandó intézkedéseket az alábbiak szerint fogadja el:
+
+## a) a korrupció elleni küzdelemben való együttműködésről szóló közös nyilatkozatot aláíró szervek körének bővítése érdekében felkéri a nyilatkozathoz eddig nem csatlakozott állami szerveket a csatlakozásra,
+
+## b) felkéri a korrupció elleni küzdelemért különös felelősséget viselő Alapvető Jogok Biztosának Hivatalát, az Állami Számvevőszéket, az Országos Bírósági Hivatalt, a Gazdasági Versenyhivatalt, a Közbeszerzési Hatóságot, a Legfőbb Ügyészséget, a Kúriát, a Magyar Nemzeti Bankot, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóságot, hogy szakpolitikai eszközeikkel támogassák az e határozatban és a Stratégiában szereplő célkitűzések megvalósítását, működjenek közre a Stratégiában és az ahhoz kapcsolódó intézkedési tervben szereplő feladatok végrehajtásában, és saját stratégiájukban kiemelt helyen szerepeltessék a korrupciómegelőzést, továbbá a korrupció elleni küzdelem keretében megvalósított együttműködésük eredményeiről 2022. március 31-ig tájékoztassák a belügyminiszteren keresztül a Kormányt,
+
+## c) a korrupció elleni küzdelem iránt elkötelezett társadalmi, szakmai és érdekképviseleti szervezeteket, gazdasági kamarákat, valamint oktatási és kutató intézményeket, hogy eszközeikkel működjenek közre az e határozatban, az intézkedési tervben és a Stratégiában szereplő célkitűzések megvalósításában.
+
+## 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 4. Hatályát veszti
+
+## a) a Nemzeti Korrupcióellenes Program és az azzal összefüggő intézkedések 2015–2016. évre vonatkozó terve elfogadásáról szóló 1336/2015. (V. 27.) Korm. határozat,
+
+## b) a Nemzeti Korrupcióellenes Program és az azzal összefüggő intézkedések 2017–2018. évre vonatkozó terve elfogadásáról szóló 1239/2017. (IV. 28.) Korm. határozat.
+
+1. melléklet az 1328/2020. (VI. 19.) Korm. határozathoz
+
+## A 2020–2022 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégia végrehajtásának intézkedési terve
+
+1. A belügyminiszter – a miniszterelnök kabinetfőnöke és a feladat- és hatáskörrel rendelkező miniszterek bevonásával – készítse el az e-közigazgatási fejlesztések tervezése és megvalósítása során érvényesítendő egységes korrupciómegelőzési szempontrendszert, és biztosítsa annak folyamatos érvényesülését.
+
+Felelős: belügyminiszter
+
+a miniszterelnök kabinetfőnöke
+
+a feladat- és hatáskörrel rendelkező miniszterek
+
+Határidő: 2021. szeptember 30.
+
+2. A belügyminiszter kísérleti projekt keretében intézkedjen egyes – a hatáskörébe tartozó – eljárások vonatkozásában automatizált döntéstámogató rendszer kifejlesztéséről a döntéshozatali folyamat átláthatóságának és ellenőrizhetőségének javítása, valamint ezáltal az eljárás korrupciómentességének biztosítása érdekében.
+
+Felelős: belügyminiszter
+
+Határidő: 2021. december 31.
+
+3. A belügyminiszter – a pénzügyminiszter bevonásával – készítse el egy olyan informatikai rendszer koncepcióját, amely a belső kontrollrendszer, különösen az integrált kockázatkezelési rendszer megfelelő működéséhez elengedhetetlen, a folyamatmodellek egységes kezelését és a szervek közötti megosztását támogatja.
+
+Felelős: belügyminiszter
+
+pénzügyminiszter
+
+Határidő: 2021. december 31.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+4. A belügyminiszter – az igazságügyi miniszter bevonásával – évente gondoskodjon antikorrupciós közös képzés megtartásáról a bírák, ügyészek és a rendőrség részére.
+
+Felelős: belügyminiszter
+
+igazságügyi miniszter
+
+Határidő: évente
+
+Forrás: Belső Biztonsági Alap
+
+5. A Kormány felkéri az Országos Bírósági Hivatal elnökét és a legfőbb ügyészt a 4. pontban meghatározott feladatban való közreműködésre.
+
+6. A belügyminiszter
+
+a) korrupciós bűncselekményi esettár formájában foglalja össze a bűnügyi bizonyítási metodikákat és tapasztalatokat a bűnüldöző és az igazságszolgáltatási szervek, továbbá az oktatási intézményeik részére,
+
+Felelős: belügyminiszter
+
+Határidő: 2022. június 30.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+b) a szervezzen képzést a nyomozó ügyészek számára a titkos információgyűjtés során alkalmazott eszközök rendvédelmi szervek által alkalmazott gyakorlatáról.
+
+Felelős: belügyminiszter
+
+Határidő: 2022. június 30.
+
+Forrás: Belső Biztonsági Alap
+
+7. A belügyminiszter – a feladat- és hatáskörrel rendelkező miniszterek bevonásával – a Nemzeti Közszolgálati Egyetem közreműködésével a korrupciós és integritási kockázatokkal fokozottan érintett álláshelyek és munkakörök feltérképezése érdekében
+
+a) hozzon létre online adatgyűjtési felületet, és végezzen adatfelmérést az államigazgatási szervek körében,
+
+Felelős: belügyminiszter
+
+a feladat- és hatáskörrel rendelkező miniszterek
+
+Határidő: 2021. június 30.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+b) gondoskodjon az a) alpont szerinti adatfelmérés eredményének elemzéséről,
+
+Felelős: belügyminiszter
+
+a feladat- és hatáskörrel rendelkező miniszterek
+
+Határidő: kétévente, első alkalommal 2021. december 31.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+c) tegye alkalmassá a Nemzeti Védelmi Szolgálat központi kockázatelemzési szakrendszerét az a) alpont alapján gyűjtött adatok kezelésére, majd a Nemzeti Védelmi Szolgálat építse be a szakrendszerébe az a) alpont alapján gyűjtött adatokat.
+
+Felelős: belügyminiszter
+
+a feladat- és hatáskörrel rendelkező miniszterek
+
+Határidő: szakrendszer alkalmassá tétele 2020. december 31.
+
+adatok beépítése 2022. június 30.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+8. A Kormány felkéri a Nemzeti Közszolgálati Egyetem rektorát a 7. pontban meghatározott feladatban való közreműködésre és elemzések elvégzésére.
+
+9. A nemzeti vagyon kezeléséért felelős tárca nélküli miniszter – az innovációért és technológiáért felelős miniszter, a pénzügyminiszter, a belügyminiszter és az igazságügyi miniszter bevonásával – vizsgálja meg az egységes jogszabályi háttér megteremtésének lehetőségét a közpénzből finanszírozott jelentős beruházások előkészítésére és lebonyolítására, illetve integritási kockázatainak kezelésére.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+belügyminiszter
+
+igazságügyi miniszter
+
+Határidő: 2021. december 31.
+
+10. A belügyminiszter egy kijelölt határrendészeti kirendeltség vonatkozásában vizsgálja meg a korrupciós kockázatok csökkentésének lehetséges feltételeit, illetve módjait.
+
+Felelős: belügyminiszter
+
+Határidő: 2022. március 31.
+
+Forrás: Belső Biztonsági Alap
+
+11. A nemzeti vagyon kezeléséért felelős tárca nélküli miniszter – az innovációért és technológiáért felelős miniszter, a pénzügyminiszter és a belügyminiszter bevonásával – vizsgálja meg az ISO rendszer alkalmazásának feltételeit és várható hatásait az állam többségi befolyása alatt álló gazdasági társaságoknál, majd – a vizsgálat eredményeitől függően – tegyen javaslatot a Kormány részére a szükséges intézkedésekre.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+belügyminiszter
+
+Határidő: 2021. december 31.
+
+12. A Kormány felkéri a korrupció elleni közös nyilatkozatot aláíró szervek képviselőit, hogy vizsgálják meg, milyen lehetőségek nyílnak a belső képzéseik vonatkozásában a további együttműködésre, a belső minőségfejlesztési törekvéseik tekintetében a jó gyakorlatok kölcsönös megosztására, továbbá az integritási, biztonsági, valamint ehhez kapcsolódó egyéb, így például adatvédelmi, beszerzési tudatosságot fejlesztő tevékenységeik összehangolására a közszféra minél szélesebb körének tájékoztatása érdekében.
+
+13. A belügyminiszter – a pénzügyminiszter és a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – a közszféra integritásának továbbfejlesztése érdekében – az államigazgatási szervek integritásirányítási rendszere működési tapasztalatainak felhasználásával – vizsgálja meg, hogy – az igények és a jó gyakorlatok költségvetési szervek körében végzett felmérése alapján – milyen integritásirányítási modell alkalmazása lenne célszerű a különféle ágazatokba és szervtípusokba tartozó költségvetési szervek, valamint az állam többségi befolyása alatt álló gazdasági társaságok esetében.
+
+Felelős: belügyminiszter
+
+pénzügyminiszter
+
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+Határidő: 2022. március 31.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+14. A Miniszterelnökséget vezető miniszter a hazai korrupciós helyzet kiegyensúlyozott és a valóságnak megfelelő értékelése érdekében, az Állami Számvevőszék iránymutatásának figyelembevételével, a Központi Statisztikai Hivatal közreműködésével dolgozza ki a korrupcióérzékelés mérésének nemzeti sajátosságokat figyelembe vevő, a Jó Állam Mutató rendszeréhez igazodó módszertanát.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: 2021. december 31.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+15. A Kormány felkéri a Nemzeti Közszolgálati Egyetem rektorát a 14. pontban meghatározott feladatban való közreműködésre.
+
+16. A belügyminiszter – a külgazdasági és külügyminiszter, a pénzügyminiszter és az igazságügyi miniszter bevonásával – az OECD Vesztegetés elleni Munkacsoport ajánlásait figyelembe véve terjessze a külföldi hivatalos személy megvesztegetésével kapcsolatos feljelentési kötelezettséggel, valamint a jogi személyek nemzetközi vesztegetéssel összefüggő felelősségével kapcsolatos ismereteket a közszféra intézményei, valamint az üzleti élet szereplői, kiváltképpen a kis- és középvállalkozások körében, továbbá ezzel kapcsolatosan képzési programokat dolgozzon ki.
+
+Felelős: belügyminiszter
+
+külgazdasági és külügyminiszter
+
+pénzügyminiszter
+
+igazságügyi miniszter
+
+Határidő: 2022. június 30.
+
+Forrás: Belső Biztonsági Alap
+
+17. A belügyminiszter az államigazgatási szervek integritásirányítási rendszerei hatékonyságának további növelése érdekében gondoskodjon az integritás tanácsadók tevékenységét segítő – egyes részfeladatokat specializált módon ellátó, illetve az integritási ügyek koordinációját egy-egy nagyobb szervezeti egységnél támogató – integritás munkatársak és integritás referensek képzéséről.
+
+Felelős: belügyminiszter
+
+Határidő: képzési rendszer kialakítása 2021. december 31.
+
+képzések biztosítása folyamatos
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+18. A belügyminiszter gondoskodjon az állami szervek integritásfejlesztési folyamatait támogató képzések, oktatások és kommunikációs célra felhasználható médiatartalmak kidolgozásáról.
+
+Felelős: belügyminiszter
+
+Határidő: 2022. március 31.
+
+Forrás: felszabaduló forrás függvényében Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+
+19. A feladat- és hatáskörrel rendelkező miniszterek a 2020–2022 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégia végrehajtásának intézkedési tervében és a 2020–2022 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégiában szereplő feladatok végrehajtásáról készítsenek beszámolót, amelyek alapján a belügyminiszter készítsen jelentést a Kormány részére.
+
+Felelős: a feladat- és hatáskörrel rendelkező miniszterek
+
+Határidő: beszámoló elkészítése 2022. május 31.
+
+jelentés elkészítése 2022. június 30.
