@@ -82,4 +82,6 @@
 
 | 41. | 12,9 vagy ennél nagyobb | 115 |
 
-2. melléklet a 21/2020. (VI. 19.) AM rendelethez
+2. melléklet a 21/2020. (VI. 19.) AM rendelethez[^2]
+
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
