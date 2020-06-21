@@ -10,11 +10,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Hatályát veszti
-
-## a) a Nemzeti Korrupcióellenes Program és az azzal összefüggő intézkedések 2015–2016. évre vonatkozó terve elfogadásáról szóló 1336/2015. (V. 27.) Korm. határozat,
-
-## b) a Nemzeti Korrupcióellenes Program és az azzal összefüggő intézkedések 2017–2018. évre vonatkozó terve elfogadásáról szóló 1239/2017. (IV. 28.) Korm. határozat.
+## 4.[^1]
 
 1. melléklet az 1328/2020. (VI. 19.) Korm. határozathoz
 
@@ -209,3 +205,5 @@ Felelős: a feladat- és hatáskörrel rendelkező miniszterek
 Határidő: beszámoló elkészítése 2022. május 31.
 
 jelentés elkészítése 2022. június 30.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
