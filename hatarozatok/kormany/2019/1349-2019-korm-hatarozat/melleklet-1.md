@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a Beruházás előkészítésének megvalósítója a Miniszterelnökséget vezető miniszter együttműködésével és szakmai felügyeletével a Törökszentmiklósi Mezőgazdasági Zrt. legyen;
 
-## 4. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a), c), e), g), j), n) és p) pontja szerinti előkészítési fázisaira a 2019. évben összesen 307 000 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat 2020. március 30. napjáig kell megvalósítani;
+## 4.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a), c), e), g), j), n) és p) pontja szerinti előkészítési fázisaira a 2019. évben összesen 307 000 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat 2021. március 30. napjáig kell megvalósítani;
 
 ## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházás előkészítési feladatainak finanszírozása érdekében összesen 307 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelési előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, 8. Egyéb gazdasági társaság kulturális fejlesztési, örökségvédelmi és egyéb feladatai ellátásának támogatása jogcím javára, az 1. melléklet szerint, az elszámolási, valamint a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
@@ -107,3 +107,5 @@
 |  |  | egyéb: |  | azonnal |  | 307 000 000 |  |  |  |  |  |  |  |  |  | 307 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont az 1332/2020. (VI. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
