@@ -36,6 +36,6 @@
 
 ## 0150 Vegyes gazdálkodás
 
-3. melléklet a 77/2015. (XII. 1.) FM rendelethez[^24]
+3. melléklet a 77/2015. (XII. 1.) FM rendelethez[^29]
 
-[^24]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított, a 17/2017. (IV. 10.) FM rendelet 18. §-a szerint módosított szöveg.
+[^29]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított, a 17/2017. (IV. 10.) FM rendelet 18. §-a szerint módosított szöveg.
