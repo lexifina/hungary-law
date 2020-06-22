@@ -10,6 +10,9 @@ beruházást valósít meg.
 
 (2) A kezességi díjtámogatás az (1) bekezdés a) pontja tekintetében a mezőgazdasági csoportmentességi rendelet 14. cikke, az (1) bekezdés b) pontja tekintetében a mezőgazdasági csoportmentességi rendelet 17. cikke szerinti állami támogatásnak minősül.
 
-(3) A kezességi díjtámogatás mértéke évente legfeljebb a teljes hitelösszeg 0,4%-a.
+(3)[^1] A kezességi díjtámogatás mértéke évente legfeljebb a teljes hitelösszeg 0,75%-a.
 
-(4) A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ennél alacsonyabb mértékű kezességvállalás esetén a kezességi díjtámogatás (3) bekezdés szerinti mértéke arányosan csökken.
+(4)[^2] A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ettől eltérő mértékű kezességvállalás esetén a kezességi díjtámogatás mértéke arányosan változik.
+
+[^1]: A 2. § (3) bekezdése a 23/2020. (VI. 19.) AM rendelet 7. §-a szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése a 23/2020. (VI. 19.) AM rendelet 6. §-ával megállapított szöveg.
