@@ -26,7 +26,9 @@ bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^26] kezdődően hatá
 
 (4b)[^27] A 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő és a hitelprogram keretében a 2017. augusztus 8. és 2017. december 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező vállalkozás vagy az 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen működő vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolással rendelkező és a hitelprogram keretében, az egyes nemzeti forrásból finanszírozott agrártámogatásokat és közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 66/2017. (XII. 22.) FM rendelet hatálybalépésének napja[^28] és 2018. május 31. között (a határnapokat is beleértve) hatályba lépett hitelszerződéssel rendelkező vállalkozás esetében a támogatás mértéke a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, kockázatkezelés szempontjából releváns terület szerinti besorolás alapján „ültetvény” minősítésű, összes földterület és a vállalkozás választása szerint vagy a 2017. év vonatkozásában benyújtott egységes kérelemben feltüntetett, fóliás termesztésként jelölt összes terület vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által igazolt terület összegének minden megkezdett hektárja után számított, legfeljebb 1 000 000 forint összegű hitel kezességi díjai tekintetében 100% kezességi díjtámogatás a kezességvállalás teljes idejére, továbbá a hitelprogram keretében igénybe vett hitelnek a 100%-os kezességi díjtámogatású részén felüli részére számított kezességi díjtámogatás mértéke megegyezik a 3. § (3) bekezdésében foglalt mértékkel és az a rá vonatkozó szabályok szerint vehető igénybe.
 
-(5)[^29] A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ettől eltérő mértékű kezességvállalás esetén a kezességidíj-támogatás mértéke arányosan változik.
+(4c)[^29] A Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja[^30] és 2020. december 31. között (a határnapokat is beleértve) az MFB Agrár Forgóeszköz Hitelprogram 2020, az MFB TÉSZ Forgóeszköz Hitelprogram 2020 vagy az MFB Élelmiszeripari Forgóeszköz Hitelprogram 2020 keretében hatályba lépett hitelszerződéssel rendelkező kedvezményezett esetében a támogatás mértéke az esedékessé vált kezességi díjak 100%-a a kezességvállalás teljes futamidejére.
+
+(5)[^31] A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ettől eltérő mértékű kezességvállalás esetén a kezességidíj-támogatás mértéke arányosan változik.
 
 (6) Kezességi díjtámogatás nem vehető igénybe a kezességvállaló intézmény által az ügylet kamatára vállalt készfizető kezesség díjára.
 
@@ -36,7 +38,7 @@ bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^26] kezdődően hatá
 
 (9) Ha a kezességi díjtámogatás ugyanazon elszámolható költség vonatkozásában más európai uniós támogatással halmozódik, úgy a támogatás vonatkozásában az adott uniós jogcímre vonatkozó szabályokat kell alkalmazni.
 
-(10)[^30]
+(10)[^32]
 
 (11) A támogatástartalom euróra történő átszámításakor a kezesség elbírálásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
@@ -57,5 +59,7 @@ bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^26] kezdődően hatá
 [^26]: A hatálybalépés időpontja 2017. április 11.
 [^27]: A 3. § (4b) bekezdését a 39/2017. (VIII. 7.) FM rendelet 9. §-a iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 9. §-ával megállapított szöveg.
 [^28]: A hatálybalépés időpontja 2017. december 23.
-[^29]: A 3. § (5) bekezdése a 14/2020. (IV. 10.) AM rendelet 9. § b) pontja szerint módosított szöveg.
-[^30]: A 3. § (10) bekezdését a 4/2019. (III. 6.) AM rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^29]: A 3. § (4c) bekezdését a 23/2020. (VI. 19.) AM rendelet 1. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2020. június 22.
+[^31]: A 3. § (5) bekezdése a 14/2020. (IV. 10.) AM rendelet 9. § b) pontja szerint módosított szöveg.
+[^32]: A 3. § (10) bekezdését a 4/2019. (III. 6.) AM rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
