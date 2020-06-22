@@ -1,0 +1,5 @@
+## 1. § A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet 3. §-a a következő (4c) bekezdéssel egészül ki:
+
+## „(4c) A Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja és 2020. december 31. között (a határnapokat is beleértve) az MFB Agrár Forgóeszköz Hitelprogram 2020, az MFB TÉSZ Forgóeszköz Hitelprogram 2020 vagy az MFB Élelmiszeripari Forgóeszköz Hitelprogram 2020 keretében hatályba lépett hitelszerződéssel rendelkező kedvezményezett esetében a támogatás mértéke az esedékessé vált kezességi díjak 100%-a a kezességvállalás teljes futamidejére.”
+
+## 2. Az MFB Agrár Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 47/2015. (VIII. 12.) FM rendelet módosítása
