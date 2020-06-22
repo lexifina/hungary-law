@@ -1,4 +1,4 @@
-## 13/A. §[^53] E rendeletnek az egyes mezőgazdasági csekély összegű támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 14/2019. (IV. 10.) AM rendelettel megállapított 11. §-át a 2019. március 14-től nyújtott támogatásokra kell alkalmazni.
+## 13/A. §[^55] E rendeletnek az egyes mezőgazdasági csekély összegű támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 14/2019. (IV. 10.) AM rendelettel megállapított 11. §-át a 2019. március 14-től nyújtott támogatásokra kell alkalmazni.
 
 ## 14. § Ez a rendelet
 
@@ -10,4 +10,4 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^53]: A 13/A. §-t a 14/2019. (IV. 10.) AM rendelet 33. §-a iktatta be.
+[^55]: A 13/A. §-t a 14/2019. (IV. 10.) AM rendelet 33. §-a iktatta be.

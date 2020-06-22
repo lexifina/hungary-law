@@ -18,7 +18,7 @@
 
 5.[^1] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
 
-5a.[^2] kedvezőtlen időjárással érintett vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1., 3., 4., illetve 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen tevékenységet folytató – kizárólag az 1. mellékletben szereplő település vonatkozásában a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő –, vagy a 2017. októberi viharkár által a fóliás növénykultúrák termesztésére szolgáló építményekben keletkezett károk kompenzálására igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 65/2017. (XII. 22.) FM rendelet [a továbbiakban: 65/2017. (XII. 22.) FM rendelet] 1. melléklete alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának a viharkárral érintett építmény fekvése szerint illetékes megyei szervezete (a továbbiakban: NAK) által kiállított igazolással rendelkező hitelfelvevő, aki a hitelprogram keretében
+5a.[^2] kedvezőtlen időjárással érintett vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1., 3., 4., illetve 5. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen tevékenységet folytató – kizárólag a 77/2015. (XII. 1.) FM rendelet 1. mellékletében szereplő település vonatkozásában a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR '08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő – vagy a 2017. októberi viharkár által a fóliás növénykultúrák termesztésére szolgáló építményekben keletkezett károk kompenzálására igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 65/2017. (XII. 22.) FM rendelet [a továbbiakban: 65/2017. (XII. 22.) FM rendelet] 1. melléklete alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának a viharkárral érintett építmény fekvése szerint illetékes megyei szervezete (a továbbiakban: NAK) által kiállított igazolással rendelkező hitelfelvevő, aki a hitelprogram keretében
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetében 2016. június 30-ig,
 
@@ -29,6 +29,8 @@ c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szerepl�
 d) a 77/2015. (XII. 1.) FM rendelet 4. mellékletében szereplő település esetén 2017. augusztus 8. és 2018. május 31. között (a határnapokat is beleértve),
 
 e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás rendelkezésre állása esetén az egyes nemzeti forrásból finanszírozott agrártámogatásokat és közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 66/2017. (XII. 22.) FM rendelet [a továbbiakban: 66/2017. (XII. 22.) FM rendelet] hatálybalépésének napja[^3] és 2018. május 31. között (a határnapokat is beleértve)
+
+## hatályba lépett hitelszerződéssel rendelkezik;
 
 5b.[^4] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében a kedvezőtlen időjárással érintett vállalkozás által benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely
 
@@ -61,7 +63,7 @@ d)[^9] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település
 12.[^13] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
 [^1]: Az 1. § 5. pontja a 77/2015. (XII. 1.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 23/2020. (VI. 19.) AM rendelet 2. §-ával megállapított szöveg.
 [^3]: A hatálybalépés időpontja 2017. december 23.
 [^4]: Az 1. § 5b. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § 5b. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 18. §-a, a 17/2017. (IV. 10.) FM rendelet 15. §-a szerint módosított szöveg.
