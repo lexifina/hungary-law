@@ -14,6 +14,8 @@
 
 ## c) egyetért azzal, hogy a Központi Maradványelszámolási Alapból, a Beruházás Előkészítési Alapból, a Gazdaságvédelmi programok előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1176/2020. (IV. 23.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára átcsoportosított 1 200 000 000 forintból 915 435 264 forint a XV. Pénzügyminisztérium fejezet, 5. Közbeszerzési és Ellátási Főigazgatóság címen a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 2. A szenttamási Almásy-kastély és a hozzá tartozó park kertépítészeti, kertművészeti és tájökológiai felújítása előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1349/2019. (VI. 11.) Korm. határozat 4. pontjában a „2020.” szövegrész helyébe a „2021.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1332/2020. (VI. 22.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
