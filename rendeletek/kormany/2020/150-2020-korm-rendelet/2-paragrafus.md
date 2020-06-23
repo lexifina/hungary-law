@@ -1,0 +1,1 @@
+## 1. § A 2020. évre vonatkozó, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti minimális vagyonvédelmi szolgáltatási rezsióradíj általános forgalmi adó nélküli legkisebb mértéke 2336 forint/óra.
