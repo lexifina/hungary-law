@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemének keretében megvalósuló tanterem, tornaterem és tanuszoda beruházások előkészítésével kapcsolatos intézkedésekről szóló 1281/2017. (VI. 2.) Korm. határozatban foglaltak végrehajtása érdekében
