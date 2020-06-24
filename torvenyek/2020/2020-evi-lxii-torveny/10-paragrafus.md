@@ -1,0 +1,1 @@
+10. § Az Országgyűlés a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Jegyzőkönyv 3. mellékletében foglalt, az Egyezmény E Függelékének módosítására vonatkozó határozatát e törvénnyel kihirdeti.

@@ -1,0 +1,1 @@
+3. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Nemzetközi Vasúti Fuvarozási Államközi Szervezet (OTIF) 2018. évi Közgyűlésének Jegyzőkönyve (a továbbiakban: Jegyzőkönyv) 1. mellékletében foglalt, az Egyezmény módosítására vonatkozó határozata kötelező hatályának elismerésére.

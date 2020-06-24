@@ -1,0 +1,1 @@
+12. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Jegyzőkönyv 4. mellékletében foglalt, az Egyezmény G Függelékének módosítására vonatkozó határozata kötelező hatályának elismerésére.

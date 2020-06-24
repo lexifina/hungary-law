@@ -1,0 +1,1 @@
+[A Nemzetközi Vasúti Fuvarozási Államközi Szervezet (OTIF) 2009. évi, a Bernben, 1980. május 9-én kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv szerinti szövege és annak B Függeléke módosítására vonatkozó határozata Magyarország vonatkozásában 2010. december 1-jén nemzetközi jogilag hatályba lépett.]

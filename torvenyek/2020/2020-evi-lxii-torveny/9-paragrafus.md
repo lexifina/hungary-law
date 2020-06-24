@@ -1,0 +1,1 @@
+9. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Jegyzőkönyv 3. mellékletében foglalt, az Egyezmény E Függelékének módosítására vonatkozó határozata kötelező hatályának elismerésére.

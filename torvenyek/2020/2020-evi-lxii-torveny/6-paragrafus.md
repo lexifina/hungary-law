@@ -1,0 +1,1 @@
+6. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Jegyzőkönyv 2. mellékletében foglalt, az Egyezmény H Függelékének létrehozására vonatkozó határozata kötelező hatályának elismerésére.
