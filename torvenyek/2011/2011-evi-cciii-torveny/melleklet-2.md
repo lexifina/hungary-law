@@ -2102,11 +2102,11 @@ Területe:
 
 54. Vatta
 
-Csongrád megye
+Csongrád-Csanád megye
 
 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 01. OEVK
+Rövidítése: Csongrád-Csanád 01. OEVK
 
 Székhelye: Szeged
 
@@ -2128,7 +2128,7 @@ Területe:
 
 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 02. OEVK
+Rövidítése: Csongrád-Csanád 02. OEVK
 
 Székhelye: Szeged
 
@@ -2162,7 +2162,7 @@ Területe:
 
 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 03. OEVK
+Rövidítése: Csongrád-Csanád 03. OEVK
 
 Székhelye: Szentes
 
@@ -2214,7 +2214,7 @@ Területe:
 
 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 04. OEVK
+Rövidítése: Csongrád-Csanád 04. OEVK
 
 Székhelye: Hódmezővásárhely
 

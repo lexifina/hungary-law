@@ -76,7 +76,7 @@ Borsod-Abaúj-Zemplén
 
 |
 
-Csongrád
+Csongrád-Csanád
 
 |
 
