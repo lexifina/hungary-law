@@ -334,7 +334,7 @@
 
 ## | 5.1. | BOLDOGKŐVÁRALJA | várrom | 5.2. | EDELÉNY Borsodi út 7. | L’Huillier-Coburg-kastély együttese | 5.3. | FÁJ Bolt u. 1. | Fáy-kastély | 5.4. | FÜZÉR Várhegy | vár | 5.5. | FÜZÉRRADVÁNY Kossuth u. 2. | Károlyi-kastély együttese | 5.6. | GÖNC Kossuth u. 85. és 85/A | huszita ház | 5.7. | GÖNC Dobogóhegy | pálos templom- és kolostorrom | 5.8. | KOMLÓSKA Rákóczi u. 50. | rutén tájház | 5.9. | KURITYÁN | pálos templom- és kolostorrom | 5.10. | MARTONYI Háromhegy | pálos templom- és kolostorrom | 5.11. | | | 5.12. | MISKOLC Bükkszentlélek | pálos templom- és kolostorrom | 5.13. | MISKOLC Diósgyőr Vár u. | vár | 5.14. | MISKOLC Hámor Újmassa | őskohó | 5.15. | MOGYORÓSKA külterület | a Regéci vár romjai | 5.16. | ÓNOD | várrom | 5.17. | PÁCIN Kossuth-kert | Mágochy-Alaghy-Sennyei-kastély együttese | 5.18. | SÁROSPATAK, Szent Erzsébet u. 19–21. | Rákóczi-vár együttese | 5.19. | SZERENCS Rákóczi u. 96. | Rákóczi-várkastély | 5.20. | SZOMOLYA Toldi u. 28–30. | barlanglakás és udvara | 5.21. | SZÖGLIGET Várhegy | Szádvár romjai | 5.22. | TARD Béke u. 55. és 57. | tájház
 
-## 6. CSONGRÁD MEGYE
+## 6. CSONGRÁD-CSANÁD MEGYE
 
 ## | 6.1. | DEREKEGYHÁZ Köztársaság tér | Károlyi-kastély együttese | 6.2. | FÁBIÁNSEBESTYÉN Gádorosi műút Külső dűlő 48. | Cserna-féle szélmalom | 6.3. | NAGYMÁGOCS Szentesi út 2. | Károlyi-kastély együttese | 6.4. | SZEGVÁR Kossuth tér 1. | Károlyi-kastély
 
