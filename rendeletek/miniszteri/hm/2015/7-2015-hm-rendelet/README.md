@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-7-20-15
 | 2019-01-02 | 2015-7-20-15.17 | 2010: CXXX. törvény |
 | 2019-10-05 | 2015-7-20-15.18 | 10/2019. (X. 4.) HM rendelet |
 | 2020-01-18 | 2015-7-20-15.19 | 1/2020. (I. 17.) HM rendelet |
+| 2020-06-24 | 2015-7-20-15.20 | 11/2020. (VI. 23.) HM rendelet |
