@@ -1,1 +1,0 @@
-1. § Az Országgyűlés a Magyar Köztársaság és a Lett Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Budapesten, 1999. június 10-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 2000. augusztus 25-én megtörtént, és a Megállapodás 2000. augusztus 25-én hatályba lépett.)
