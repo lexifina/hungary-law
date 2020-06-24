@@ -1,1 +1,1 @@
-7. § Az Országgyűlés a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Jegyzőkönyv 2. mellékletében foglalt, az Egyezmény H Függelékének létrehozására vonatkozó határozatát e törvénnyel kihirdeti.
+7. §

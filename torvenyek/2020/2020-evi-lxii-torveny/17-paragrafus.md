@@ -1,9 +1,1 @@
 17. § A Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvény 2. §-ában A Nemzetközi Vasúti Árufuvarozási Szerződésre vonatkozó Egységes Szabályok (CIM – az Egyezmény B Függeléke) 46. cikk 1. § a) pontjában az „a felperes” szövegrész helyébe az „az alperes” szöveg lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

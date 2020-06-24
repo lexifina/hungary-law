@@ -1,1 +1,1 @@
-13. § Az Országgyűlés a Nemzetközi Vasúti Fuvarozási Államközi Szervezetnek (OTIF) a Jegyzőkönyv 4. mellékletében foglalt, az Egyezmény G Függelékének módosítására vonatkozó határozatát e törvénnyel kihirdeti.
+13. §
