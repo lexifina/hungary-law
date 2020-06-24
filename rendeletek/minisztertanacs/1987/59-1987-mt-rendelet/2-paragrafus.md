@@ -1,1 +1,0 @@
-## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Francia Köztársaság Kormánya között a beruházások kölcsönös elősegítéséről és védelméről Párizsban, az 1986. évi november hó 6. napján aláírt megállapodást e rendelettel kihirdeti.
