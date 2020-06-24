@@ -35,11 +35,3 @@ p) a Magyar Köztársaság és a Lett Köztársaság között a beruházások ö
 q) a Magyar Köztársaság és a Horvát Köztársaság között, 1996. május 15-én, Zágrábban aláírt, a beruházások ösztönzéséről és kölcsönös védelméről szóló Megállapodás kihirdetéséről szóló 2002. évi XXVI. törvény;
 
 r) a Magyar Köztársaság és a Litván Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Budapesten, 1999. május 25-én aláírt Megállapodás kihirdetéséről szóló 2003. évi LXXI. törvény.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
