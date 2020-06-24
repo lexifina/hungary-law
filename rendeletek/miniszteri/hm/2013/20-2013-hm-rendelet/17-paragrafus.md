@@ -8,7 +8,7 @@ a) a meghosszabbítás kizárólag 1000 forint feletti illetménymaradvány eset
 
 b) a ruházati utalványfüzet meghosszabbított érvényességi idejének bejegyzését a szakmai főnök hajtja végre;
 
-c)[^2] meghosszabbított ruházati utalványfüzetből pénzbeli juttatás nem teljesíthető, kivéve azt az esetet, ha a jogosult szolgálati viszonya a Hjt. 59. § (1) bekezdés a) pontja alapján szűnik meg.
+c)[^4] meghosszabbított ruházati utalványfüzetből pénzbeli juttatás nem teljesíthető, kivéve azt az esetet, ha a jogosult szolgálati viszonya a Hjt. 59. § (1) bekezdés a) pontja alapján szűnik meg.
 
 (3) Az éves utánpótlási ruházati illetmény összege indokolt esetben előrehozható, a következő szabályok szerint:
 
@@ -22,4 +22,4 @@ c) előrehozott utánpótlási ruházati utalványfüzetből pénzbeli juttatás
 
 (5) A nyugdíjas ruházati utalványfüzet meghosszabbítása nem engedélyezhető.
 
-[^2]: A 13. § (2) bekezdés c) pontja a 9/2016. (VI. 29.) HM rendelet 8. §-ával megállapított szöveg.
+[^4]: A 13. § (2) bekezdés c) pontja a 9/2016. (VI. 29.) HM rendelet 8. §-ával megállapított szöveg.
