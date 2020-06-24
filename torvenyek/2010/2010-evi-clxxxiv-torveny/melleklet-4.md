@@ -112,7 +112,7 @@ Békés megye
 
 |
 
-Csongrád megye
+Csongrád-Csanád megye
 
 |
 

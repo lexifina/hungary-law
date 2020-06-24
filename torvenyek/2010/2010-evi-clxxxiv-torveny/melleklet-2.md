@@ -20,7 +20,7 @@ Pest megye
 
 |
 
-Csongrád megye
+Csongrád-Csanád megye
 
 Jász-Nagykun-Szolnok megye
 

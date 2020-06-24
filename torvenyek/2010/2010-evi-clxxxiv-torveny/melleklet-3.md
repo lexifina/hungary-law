@@ -48,7 +48,7 @@ Békés megye
 
 |
 
-Csongrád megye
+Csongrád-Csanád megye
 
 3. GYŐRI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
