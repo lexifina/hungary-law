@@ -1,1 +1,0 @@
-1. § Az Országgyűlés a Magyar Köztársaság és a Szlovén Köztársaság között a beruházások kölcsönös védelméről és ösztönzéséről Budapesten, 1996. október 15-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 2000. június 9-én megtörtént, és a Megállapodás 2000. június 9-én hatályba lépett.)
