@@ -2,19 +2,19 @@
 
 241. § (1) A Hjt. 215. § (1) és (2) bekezdése esetén az önkéntes tartalékos szolgálati viszony megszűnéséről külön határozat vagy parancs nem készül. Az önkéntes tartalékos szolgálati viszony
 
-a)[^374] a Hjt. 215. § (1) bekezdés a) pontja esetén a hivatásos, a szerződéses, honvéd tisztjelölti vagy honvéd altiszt-jelölti szolgálati viszony létesítését megelőző napon,
+a)[^376] a Hjt. 215. § (1) bekezdés a) pontja esetén a hivatásos, a szerződéses, honvéd tisztjelölti vagy honvéd altiszt-jelölti szolgálati viszony létesítését megelőző napon,
 
-b)[^375] a Hjt. 215. § (1) bekezdés b) pontja esetén a 237. § (4) bekezdése szerinti más típusú önkéntes tartalékos szolgálati viszony létesítését megelőző napon, és
+b)[^377] a Hjt. 215. § (1) bekezdés b) pontja esetén a 237. § (4) bekezdése szerinti más típusú önkéntes tartalékos szolgálati viszony létesítését megelőző napon, és
 
 c) a Hjt. 215. § (1) bekezdés c) pontja esetén az ok bekövetkezésének napján,
 
-d)[^376] a Hjt. 215. § (1) bekezdés e) pontja esetén a honvédelmi alkalmazotti jogviszony létesítését megelőző napon
+d)[^378] a Hjt. 215. § (1) bekezdés e) pontja esetén a honvédelmi alkalmazotti jogviszony létesítését megelőző napon
 
 szűnik meg.
 
-(2)[^377] A Hjt. 215. § (1) bekezdés a) pontja esetén a megszűnést a hivatásos állományba vételről szóló munkáltatói döntésben vagy a szerződésben rögzíteni kell.
+(2)[^379] A Hjt. 215. § (1) bekezdés a) pontja esetén a megszűnést a hivatásos állományba vételről szóló munkáltatói döntésben vagy a szerződésben rögzíteni kell.
 
-[^374]: A 241. § (1) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 39. §-ával megállapított szöveg.
-[^375]: A 241. § (1) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 39. §-ával megállapított szöveg.
-[^376]: A 241. § (1) bekezdés d) pontját a 4/2020. (II. 28.) HM rendelet 14. §-a iktatta be.
-[^377]: A 241. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 49. § e) pontja szerint módosított szöveg.
+[^376]: A 241. § (1) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 39. §-ával megállapított szöveg.
+[^377]: A 241. § (1) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 39. §-ával megállapított szöveg.
+[^378]: A 241. § (1) bekezdés d) pontját a 4/2020. (II. 28.) HM rendelet 14. §-a iktatta be.
+[^379]: A 241. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 49. § e) pontja szerint módosított szöveg.

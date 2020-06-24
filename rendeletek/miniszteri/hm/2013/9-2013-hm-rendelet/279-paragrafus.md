@@ -1,6 +1,6 @@
-## 278. §[^422] A 90. § (2) bekezdésétől eltérően az általános előmeneteli rendbe tartozó szolgálati beosztásokban szolgálatot teljesítő főhadnagyok 2017. június 30-ig egy évvel a főhadnagyi rendfokozatba történő előléptetést követően minősítő vizsgára jelentkezhetnek.
+## 278. §[^425] A 90. § (2) bekezdésétől eltérően az általános előmeneteli rendbe tartozó szolgálati beosztásokban szolgálatot teljesítő főhadnagyok 2017. június 30-ig egy évvel a főhadnagyi rendfokozatba történő előléptetést követően minősítő vizsgára jelentkezhetnek.
 
-279. §[^423]
+279. §[^426]
 
-[^422]: A 278. § a 4/2015. (VI. 22.) HM rendelet 25. §-ával megállapított szöveg.
-[^423]: A 279. §-t a 4/2015. (VI. 22.) HM rendelet 29. § n) pontja hatályon kívül helyezte.
+[^425]: A 278. § a 4/2015. (VI. 22.) HM rendelet 25. §-ával megállapított szöveg.
+[^426]: A 279. §-t a 4/2015. (VI. 22.) HM rendelet 29. § n) pontja hatályon kívül helyezte.
