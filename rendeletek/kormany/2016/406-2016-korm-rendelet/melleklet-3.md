@@ -34,4 +34,6 @@
 
 ## i) a termékkiszerelés információi.
 
-3. melléklet a 406/2016. (XII. 10.) Korm. rendelethez
+3. melléklet a 406/2016. (XII. 10.) Korm. rendelethez[^16]
+
+[^16]: A 3. melléklet a 300/2020. (VI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

@@ -1,25 +1,23 @@
 ## A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett termékek köre
 
-## 1. A Jöt.-ben meghatározott
+## 1. Az Fdvtv. 1. § (1) bekezdésében meghatározott
 
-## a) cigaretta,
+## a) dohánytermék: az a fogyasztható termék, amely akár csak részben is dohányt tartalmaz, így különösen a cigaretta, cigarettadohány, szivar, szivarka, pipadohány és más fogyasztási dohány, füst nélküli dohánytermék és az új-dohánytermék kategória,
 
-## b) szivar,
+## b) cigarettahüvely és cigarettapapír,
 
-## c) szivarka,
+## c) elektronikus cigaretta,
 
-## d) finomra vágott fogyasztási dohány (cigarettadohány),
+## d) utántöltő flakon, patron,
 
-## e) egyéb fogyasztási dohány (pipadohány),
+## e) nikotinmentes utántöltő flakon,
 
-## f) bármely olyan egyéb termék, amelyet dohányzás céljából gyártanak, még abban az esetben is, ha csupán részben tartalmaz – akár géntechnológiával módosított formában, akár nem ilyen formában – dohányt.
+## f) dohányzást imitáló elektronikus eszköz,
 
-## 2. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendeletben meghatározott
+## g) dohányzást helyettesítő nikotintartalmú termék, valamint
 
-## a) cigarettapapír, akár cigarettapapír-lap, akár cigarettapapír-hüvely formájában hozzák azt forgalomba,
+## h) az új dohánytermék-kategóriák kiegészítő terméke.
 
-## b) füstszűrő.
-
-## 3. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben meghatározott utántöltő flakon.
+## 2. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendeletben meghatározott füstszűrő.
 
 2. melléklet a 406/2016. (XII. 10.) Korm. rendelethez

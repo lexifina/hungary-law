@@ -12,21 +12,27 @@
 
 ## c) alfajtája (ha megkülönböztethető),
 
-## d) egyedi jellemző (ha megkülönböztethető),
+## d) egyedi jellemző (ha megkülönböztethető; illetve elektronikus cigaretta esetén az (EU) 2015/2186 bizottsági végrehajtási határozat 5. cikke szerinti Termékazonosító szám),
 
-## e) a termék megnevezése,
+## e) a termék megnevezése (amennyiben releváns, az ízesítés jelölése is),
 
-## f)[^6] egyéb jellemző kódok [így különösen: EAN kód, a Jöt. szerinti KN-kód (ennek hiányában vámtarifaszám), OGYÉI engedélyszám, fogyasztóvédelmi hatósági engedélyszám, gyártói cikkszám],
+## f) egyéb jellemző kódok [így különösen: EAN kód, a Jöt. szerinti KN-kód (ennek hiányában vámtarifaszám), OGYÉI igazolás száma, fogyasztóvédelmi hatósági engedélyszám, egyéb engedélyszám, gyártói cikkszám],
 
 ## g) jövedéki besorolása,
 
-## h) kasszagyűjtő kódja.
+## h) kasszagyűjtő kódja,
+
+## i) ártípus,
+
+## j) érvénybe lépés napja,
+
+## k) érvényesség vége.
 
 ## 4. A termék fogyasztói csomagolási egységének grafikai és (teljes) szövegterve (képi megjelenítéssel együtt, elektronikus formában is).
 
 ## 5. A fogyasztói, a gyűjtő- és a szállítási csomagolás módja és azok egyéb átváltási mennyiségei.
 
-## 6. Dohánytermék esetén a dohánytermék:
+## 6. Termékregisztrációs adatok, melyek megadása termékspecifikusan történik:
 
 ## a) mérete (mm):
 
@@ -38,19 +44,19 @@
 
 ## b) kémiai jellemzők:
 
-## ba) nikotintartalom (mg),
+## ba) nikotintartalom (mg/termékegység, cigaretta esetén a kibocsátás során, egyéb termékek esetén a termék összetevőben mért nikotintartalom),
 
-## bb) kátránytartalom (mg),
+## bb) kátránytartalom (mg/termékegység),
 
-## bc) szén-monoxid-tartalom (mg);
+## bc) szén-monoxid-tartalom (mg/termékegység);
 
 ## c) mennyiségi jellemzők:
 
-## ca) a fogyasztói csomagolási egységben lévő darabszám,
+## ca) a legkisebb csomagolási egység mértékegysége,
 
-## cb) a fogyasztói csomagolási egységben lévő termék tömege,
+## cb) a fogyasztói csomagolási egységen belüli töltési mennyiség,
 
-## cc) a csomagolási egységben lévő termék mennyiségi egysége (szál, darab stb.);
+## cc) a csomagolási egységben lévő termék mennyiségi egysége (szál, darab, g, ml stb.);
 
 ## d) füstszűrő alkalmazása;
 
@@ -58,21 +64,11 @@
 
 ## f) mentol alkalmazása;
 
-## g) fogyasztási dohány esetében annak meghatározása, hogy az adott csomagolási egységből megközelítőleg hány szál cigaretta készíthető, az ehhez kapcsolódó átváltási szám meghatározásával együtt.
+## g) finomra vágott fogyasztási dohány esetében annak meghatározása, hogy egy szál cigaretta töltéséhez hány gramm dohányra van szükség.
 
-## 7. Utántöltő flakon esetén:
+4. melléklet a 406/2016. (XII. 10.) Korm. rendelethez[^17]
 
-## a) az utántöltő flakon töltési mennyisége,
-
-## b) a nikotintartalom,
-
-## c) az ízesítés.
-
-## 8. Árközzétételi kötelezettséggel nem érintett dohánytermék kiskereskedelmi eladási ára.
-
-4. melléklet a 406/2016. (XII. 10.) Korm. rendelethez
-
-A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánytermékek regisztrációs lapjának tartalmi elemei árváltozás esetén
+A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánygyártmány regisztrációs lapjának tartalmi elemei árváltozás esetén
 
 1. A termékregisztrátor megnevezése.
 
@@ -80,14 +76,14 @@ A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánytermékek
 
 a) részvénytársasági azonosítója (ND cikkszám),
 
-b) termék megnevezése,
+b) gyártói/forgalomba hozói rendszerben definiált egyedi azonosítója.
 
-c) gyártói/forgalomba hozói rendszerben definiált egyedi azonosítója.
-
-3. A dohánytermék kiskereskedelmi eladási árával kapcsolatos adatok:
+3. A dohánygyártmány kiskereskedelmi eladási árával kapcsolatos adatok:
 
 a) kiskereskedelmi eladási ár hatálybalépésének kezdő dátuma,
 
-b) kiskereskedelmi eladási ár.
+b) kiskereskedelmi eladási ár,
 
-[^6]: A 3. melléklet 3. pont f) alpontja a 12. § (2) bekezdése szerint módosított szöveg.
+c) ártípus.
+
+[^17]: A 4. melléklet a 300/2020. (VI. 24.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
