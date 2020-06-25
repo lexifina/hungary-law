@@ -1,0 +1,1 @@
+## 4. § A foglalkoztató szervezet munkaköri jegyzékében vagy állománytáblájában kell kijelölni a 2. melléklet és az Nbtv. 74. § i) pont io) alpontja szerinti jogviszonyt betöltők körét, illetve kijelölni vagy feltüntetni a 3. § és az 1. melléklet szerinti jogviszonyt betöltők körét.
