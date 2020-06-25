@@ -1,0 +1,3 @@
+## 2. § A Korm. rendelet 7. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) E rendeletnek a Sopron-Fertő kiemelt turisztikai térségben megvalósítandó beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a turisztikai térségek és a kiemelt turisztikai fejlesztési térségek meghatározásáról szóló 429/2016. (XII. 15.) Korm. rendelet módosításáról szóló 201/2018. (X. 30.) Korm. rendelet módosításáról szóló 301/2020. (VI. 24.)Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
