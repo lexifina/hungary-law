@@ -6,13 +6,15 @@
 
 2. alrendszer: a lezuhanásgátló rendszer részét képező elemek, illetve részegységek együttese;
 
+2a.[^1] begyakorlás: olyan műveleti kötéltechnikai tevékenység, amely során az alapszintű műveleti kötéltechnikai képzésen megszerzett ismereteket elsajátított állomány az alapszintű műveleti kötéltechnikai képzésen elsajátított technikákat a műveletvezető irányításával – új technikák alkalmazása nélkül – ismétli;
+
 3. beülő hevederzet: egyéni védőeszköz, amely hevederből, szerelvényekből, csatokból és más elemekből áll, és amely alkalmas a hivatásos és a közalkalmazotti állomány (a továbbiakban együtt: személyi állomány) tagja munkahelyzetének pozícionálására, valamint a kötélen való mozgásra;
 
 4. csatlakozó: a lezuhanásgátló rendszer eleme vagy részegysége, amely lehet karabiner vagy zárkapocs és horog vagy kampó;
 
 5. dinamikus kötél: a személyi állomány tagjának zuhanása során fellépő erőhatás csökkentése érdekében alkalmazott olyan körszövött kötél, amelyet a gyártó vagy szabvány dinamikus kötélként jelöl meg;
 
-6. elölmászás: a műveleti kötéltechnikai tevékenység előkészítő része, amelynek során a személyi állomány e tevékenységre kiképzett elölmászó tagja köztes biztosítási pontokat helyez el, miközben a személyi állomány egy független rögzítési ponton kikötött másik tagja dinamikus vagy erre a célra alkalmas félstatikus kötéllel biztosítja;
+6.[^2] elölmászás: a műveleti kötéltechnikai tevékenység előkészítő része, amely során a személyi állomány e tevékenységre kiképzett elölmászó tagja köztes biztosítási pontok elhelyezésével jut fel egy magasban elhelyezkedő pontba, miközben a személyi állomány egy független rögzítési ponton kikötött másik tagja dinamikus vagy erre a célra alkalmas félstatikus kötéllel biztosítja, meggátolva ezzel a talajszintig történő esetleges visszaesését;
 
 7. energiaelnyelő: a lezuhanásgátló rendszer azon része, amely a zuhanás során keletkező energia egy részének elnyelésével a zuhanás hatását az emberi szervezet számára elviselhető mértékűre csökkenti;
 
@@ -21,6 +23,8 @@
 9. esési tényező: a zuhanó test felfogásakor az esési magasság és a zuhanás megállításában részt vevő kiengedett kötél hosszának a hányadosa, ahol a kiengedett kötél hossza az a távolság, amelyet a mászó a zuhanás bekövetkeztéig a biztosítási ponttól megtett; az esési tényező értéke akkor a legnagyobb, 2-es értékű, ha a zuhanás hossza kétszer akkora, mint a biztosításban kiengedett kötél hossza;
 
 10. félstatikus kötél: a személyi állomány tagja statikus vagy dinamikus terhelésének megtartása érdekében alkalmazott olyan körszövött kötél, amelyet a gyártó vagy szabvány félstatikus kötélként jelöl meg;
+
+10a.[^3] gyorskötél: olyan, 40 mm-es átmérőt meghaladó kötél, amelyen az ereszkedés ereszkedő eszköz és lezuhanásgátló rendszer használata nélkül, kizárólag a műveletvégrehajtó kezével és lábával történő szorítás alkalmazásával történik;
 
 11. karabiner: véletlenszerű kinyílás ellen önzáródó elemmel ellátott, vagy kézzel zárható csatlakozó, amely gyorsan oldható kapcsolatot biztosít a különböző eszközök között;
 
@@ -57,3 +61,7 @@
 27. vezérelt típusú lezuhanásgátló: olyan önzáró képességgel és vezérlési lehetőséggel rendelkező szerkezet, amely a felfelé vagy lefelé történő helyzetváltoztatáshoz nem igényel kézi beavatkozást, a személyi állomány tagjával összekapcsolva mozog a rögzített vezeték mentén és a zuhanás bekövetkezésekor automatikusan zár a rögzített vezetékre;
 
 28. visszahúzható típusú lezuhanásgátló: olyan önzáró szerkezet, amely önműködően feszíti és húzza vissza a rögzítő kötelet vagy hevedert.
+
+[^1]: Az 1. § 2a. pontját a 17/2020. (VI. 24.) BM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § 6. pontja a 17/2020. (VI. 24.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. § 10a. pontját a 17/2020. (VI. 24.) BM rendelet 3. §-a iktatta be.

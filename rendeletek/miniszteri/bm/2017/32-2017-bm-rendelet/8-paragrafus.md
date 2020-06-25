@@ -4,7 +4,7 @@
 
 (2) A műveleti kötéltechnikai tevékenység ellátása során a műveletvégrehajtót a rögzítési ponthoz biztosító, a magasból történő lezuhanást megakadályozó, vagy annak biztonságos lefékezését, illetve a műveleti terület megközelítését szolgáló eszközként kizárólag egyéni védőeszköz alkalmazható.
 
-(3) A kötéltechnikai képzések, illetve a műveleti kötéltechnikai tevékenység ellátására való felkészülés során a következő egyéni védőeszközöket és felszerelést kell biztosítani:
+(3)[^8] A műveleti kötéltechnikai képzések, illetve a begyakorlás során legalább a következő egyéni védőeszközöket és felszerelést kell biztosítani:
 
 a) 2 db félstatikus kötél, ebből egy ereszkedő és egy biztosító,
 
@@ -35,3 +35,5 @@ k) csatlakozó, amely két kötél biztonságos elhelyezésére alkalmas.
 (6) A műveletvégrehajtók és a műveleti területen tartózkodó egyéb személyek számára a védősisak használata kötelező. A műveletvégrehajtóknak a fejről való leesés biztosítására Y kialakítású állhevederes védősisakot kell viselni.
 
 (7) Műveleti kötéltechnikai tevékenység ellátásához kizárólag megfelelő méretű, a beállító elemekkel a használó műveletvégrehajtó alakjához igazított teljes testhevederzet vagy beülő hevederzet használható.
+
+[^8]: A 8. § (3) bekezdés nyitó szövegrésze a 17/2020. (VI. 24.) BM rendelet 6. § c) pontja szerint módosított szöveg.
