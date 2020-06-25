@@ -60,7 +60,7 @@
 
 |  | 5b. Az igazolvány sorozatszáma / Serial No |  |  |
 
-|  | 10. Közösségi kód / Community code |  |  |
+|  | 10. Uniós kód/Union code |  |  |
 
 ## 4. Az igazolvány rovatainak kitöltése:
 
@@ -90,13 +90,13 @@
 
 ## 9. azon gépjármű kategória, amelyre vonatkozóan a gépjárművezető megfelel az alapképesítési vagy szakmai továbbképzési követelménynek;
 
-## 10. közösségi kód: 95 szám és a vezetői engedély kategóriájához tartozó alapképesítés vagy szakmai továbbképzés érvényességi dátuma;
+## 10. a 95. harmonizált uniós kód és a vezetői engedély kategóriájához tartozó alapképesítés vagy szakmai továbbképzés érvényességi dátuma;
 
 ## 11. nem kell kitölteni.
 
 ## 5. Az igazolvány hátoldalán feltüntetett, az egyes rovatok magyarázatát tartalmazó részt magyar és angol nyelven kell kitölteni.
 
-## 6. Az elülső oldal tartalmazza továbbá az „Európai Közösségi minta” címet, továbbá az igazolvány háttereként kék színű nyomtatásban a „Gépjárművezetői Képesítési Igazolvány” feliratot magyar nyelven és a tagállamok nyelvein a következő szöveggel:
+## 6. Az elülső oldal tartalmazza továbbá az „európai uniós minta” címet, továbbá az igazolvány háttereként kék színű nyomtatásban a „Gépjárművezetői Képesítési Igazolvány” feliratot magyar nyelven és a tagállamok nyelvein a következő szöveggel:
 
 ## tarjeta de cualificación del conductor
 
@@ -156,6 +156,6 @@
 
 ## db) sárga: Pantone Yellow.
 
-15. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^314]
+15. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^318]
 
-[^314]: A 15. számú mellékletet a 85/2009. (XII. 30.) KHEM rendelet 20. § (5) bekezdése iktatta be, hatályon kívül helyezet a 45/2013. (VIII. 7.9 NFM rendelet 21. § p) pontja.
+[^318]: A 15. számú mellékletet a 85/2009. (XII. 30.) KHEM rendelet 20. § (5) bekezdése iktatta be, hatályon kívül helyezet a 45/2013. (VIII. 7.9 NFM rendelet 21. § p) pontja.

@@ -1,6 +1,8 @@
+## 41/A. §[^265] E rendeletnek az egyes közlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 20/2020. (VI. 24.) ITM rendelettel módosított rendelkezései nem érintik a 2020. május 23. előtt, a 14. számú melléklet szerint kiállított „Gépjárművezetői képesítési igazolványok” hatályát.
+
 ## Az Európai Unió jogának való megfelelés
 
-42. §[^263] (1) Ez a rendelet
+42. §[^266] (1) Ez a rendelet
 
 a) a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelvnek, valamint az azt módosító 2000/56/EK bizottsági irányelvnek és 2008/65/EK bizottsági irányelvnek;
 
@@ -20,10 +22,14 @@ h) a közlekedéspolitika területén elfogadott egyes irányelveknek a Horvát 
 
 i) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2013. október 2-i 2013/47/EU bizottsági irányelvnek;
 
-j) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2014. július 1-jei 2014/85/EU bizottsági irányelv Melléklet 1. pontjának
+j) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2014. július 1-jei 2014/85/EU bizottsági irányelv Melléklet 1. pontjának;
+
+k)[^267] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelvnek.
 
 ## való megfelelést szolgálja.
 
 (2) Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^263]: A 42. § a 74/2016. (XII. 29.) NFM rendelet 12. §-ával megállapított szöveg.
+[^265]: A 41/A. §-t a 20/2020. (VI. 24.) ITM rendelet 6. §-a iktatta be.
+[^266]: A 42. § a 74/2016. (XII. 29.) NFM rendelet 12. §-ával megállapított szöveg.
+[^267]: A 42. § (1) bekezdés k) pontját a 20/2020. (VI. 24.) ITM rendelet 7. §-a iktatta be.

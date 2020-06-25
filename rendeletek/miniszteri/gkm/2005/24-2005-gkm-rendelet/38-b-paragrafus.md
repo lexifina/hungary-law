@@ -1,4 +1,4 @@
-38/B. §[^254] (1) A közlekedési hatóság évente egy alkalommal – a Közlekedési Szakértői Testület akkreditációs eljárás kiírásával kapcsolatos javaslata alapján – pályázatot hirdet a járművezetési veszélyhelyzetek gyakorlására alkalmas szimulátor típusok tanúsításának, minősítésének (a továbbiakban: akkreditáció) megszerzésére.
+38/B. §[^256] (1) A közlekedési hatóság évente egy alkalommal – a Közlekedési Szakértői Testület akkreditációs eljárás kiírásával kapcsolatos javaslata alapján – pályázatot hirdet a járművezetési veszélyhelyzetek gyakorlására alkalmas szimulátor típusok tanúsításának, minősítésének (a továbbiakban: akkreditáció) megszerzésére.
 
 (2) A közlekedési hatóság a pályázati kiírást a honlapján közzéteszi. A pályázatok beadásának határideje a kiírástól számított 30 nap, a pályázathoz mellékelni kell az igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -14,4 +14,4 @@
 
 (8) A közlekedési hatóság a képzőszerv erre irányuló kérelme alapján – típusakkreditációs eljárás lefolytatása nélkül, a típusra vonatkozó akkreditációs érvényességi időtartamig akkreditációs számmal és matricával látja el azon szimulátor berendezést, amely tekintetében megállapította, hogy az típus azonos valamely érvényes akkreditációval rendelkező szimulátor típussal.
 
-[^254]: A 38/B. §-t a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be.
+[^256]: A 38/B. §-t a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be.
