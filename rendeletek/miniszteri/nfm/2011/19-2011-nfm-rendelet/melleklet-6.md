@@ -250,18 +250,8 @@ A mozdonyvezetőknek képesnek kell lenniük az alábbiakra:
 
 A képzési programok az előzőeken túl tartalmazhatják az a transzeurópai vasúti rendszerre vonatkozó átjárhatóságot biztosító műszaki előírásokról szóló miniszteri rendeletben meghatározott, az Európai Unió vasúti rendszerének forgalmi szolgálat és forgalomirányítás alrendszerére vonatkozó átjárhatósági műszaki előírásokról és a 2007/756/EK határozat módosításáról szóló, 2012. november 14-i 2012/757/EU bizottsági határozat szerinti képzési célokat, illetve követelményeket is, továbbá az Ügynökség által javasolt kritériumokat.
 
-3. Szóbeli kommunikációs képesség osztályozása, nyelvvizsgák
+3. A mozdonyvezetőkkel szemben támasztott nyelvi követelmények
 
-3.1. Azon mozdonyvezetőknek, akiknek fontos biztonsági kérdésekről kell kommunikálniuk a pályahálózat-működtetővel, nyelvismerettel kell rendelkezniük az adott pályahálózat-működtető által megjelölt nyelvek közül legalább az egyik nyelven. E nyelvismeretnek olyan szintűnek kell lennie, amely képessé teszi őket az aktív és hatékony kommunikációra rutinhelyzetekben, korlátozott üzemmód esetén és vészhelyzetekben egyaránt. Képeseknek kell lenniük a „forgalomirányítási és forgalmi szolgálati” ÁME-ben foglalt üzenetek és kommunikációs módszer használatára.
+3.1. A mozdonyvezetők nyelvi követelményeit a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők minősítéséről szóló 2007/59/EK európai parlamenti és tanácsi irányelv VI. mellékletének módosításáról szóló, 2019. április 5-i (EU) 2019/554 bizottsági rendelet tartalmazza.
 
-3.2. Ahhoz, hogy teljesítsék a 3.1. pontban meghatározott követelményeket, a mozdonyvezetőknek az Európa Tanács által létrehozott közös európai nyelvi referenciakeret (CEFR) B1 szintjének megfelelően kell érteniük a beszédet és az írott szöveget, illetve szóban és írásban is e szinten kell tudniuk kommunikálni.
-
-3.3. A határon átnyúló műveletekre kijelölt, a határhoz közel elhelyezkedő állomások és a határ közötti szakaszok esetében a vasúttársaság által üzemeltetett vonatok mozdonyvezetőit a pályahálózat-működtető mentesítheti a 3.2. pontban meghatározott követelmények alól, a következő eljárás alkalmazásával:
-
-a) A vasúttársaság eltérést kér a pályahálózat-működtetőtől az adott mozdonyvezetőkre vonatkozóan. Annak érdekében, hogy a kérelmezők tisztességes és egyenlő elbánásban részesüljenek, a pályahálózat-működtető minden benyújtott eltérési kérelem tekintetében ugyanolyan, a hálózati üzletszabályzatnak is részét képező értékelési eljárást alkalmaz;
-
-b) A pályahálózat-működtető engedélyezi az eltérést, ha a vasúttársaság bizonyítja, hogy megfelelő rendelkezéseket vezetett be annak biztosítására, hogy az érintett mozdonyvezetők a 3.1. pontban meghatározott előírásoknak megfelelően kommunikálni tudjanak a pályahálózat-működtető személyzetével rutinhelyzetekben, korlátozott üzemmód esetén és vészhelyzetekben;
-
-c) A vasúttársaságok és a pályahálózat-működtetők biztonsági rendszereik útján gondoskodnak arról, hogy a személyzet érintett tagjai ismerjék a vonatkozó szabályokat és rendelkezéseket, és megfelelő képzésben részesüljenek.
-
-[^212]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja szerint módosított szöveg.
+[^212]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja, a 20/2020. (VI. 24.) ITM rendelet 9. §-a szerint módosított szöveg.
