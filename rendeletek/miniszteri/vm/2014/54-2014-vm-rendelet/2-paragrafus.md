@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alapján az állattartó vissza nem térítendő mezőgazdasági csekély összegű (de minimis) támogatás (a továbbiakban: támogatás) igénybevételére jogosult.
 
-(2)[^6] A támogatás mértéke a támogatási időszakban tenyésztésbe állított tenyésznyulanként 2000 forint azzal, hogy az nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésére álló szabad csekély összegű támogatási keretet.
+(2)[^6] A támogatás mértéke a támogatási időszakban tenyésztésbe állított tenyésznyulanként 3200 forint azzal, hogy az nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésére álló szabad csekély összegű támogatási keretet.
 
 (3)[^7] Egy tenyésznyúl után csak a tenyésztésbe állítást követő első támogatási kérelem benyújtási időszakban és csak egy alkalommal igényelhető támogatás, kivéve a 4/A. § szerinti kiegészítő támogatási kérelem benyújtása esetét.
 
@@ -16,7 +16,7 @@
 
 (8)[^12] A támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
 
-[^6]: A 2. § (2) bekezdése a 69/2015. (XI. 2.) FM rendelet 7. §-ával megállapított szöveg.
+[^6]: A 2. § (2) bekezdése a 69/2015. (XI. 2.) FM rendelet 7. §-ával megállapított, a 27/2020. (VI. 22.) AM rendelet 12. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (3) bekezdése a 69/2015. (XI. 2.) FM rendelet 7. §-ával megállapított szöveg.
 [^8]: A 2. § (4) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be, szövege a 14/2019. (IV. 10.) AM rendelet 24. §-ával megállapított szöveg.
 [^9]: A 2. § (5) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be.
