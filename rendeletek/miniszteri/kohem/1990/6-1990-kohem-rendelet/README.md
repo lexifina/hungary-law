@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2019-10-21 | 1990-6-20-5E.96 | 72/2013. (XII. 2.) NFM rendelet |
 | 2020-01-09 | 1990-6-20-5E.97 | 1/2020. (I. 8.) ITM rendelet |
 | 2020-06-12 | 1990-6-20-5E.98 | 15/2020. (VI. 4.) ITM rendelet |
+| 2020-06-25 | 1990-6-20-5E.99 | 20/2020. (VI. 24.) ITM rendelet |

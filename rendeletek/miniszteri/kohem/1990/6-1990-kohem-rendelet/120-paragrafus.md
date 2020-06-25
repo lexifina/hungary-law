@@ -192,7 +192,7 @@
 
 93.[^332]
 
-94.[^333] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, a 2013/28/EU bizottsági irányelvnek, a 2016/774 bizottsági irányelvnek, valamint az (EU) 2017/2096 irányelvnek;
+94.[^333] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2010. február 23-i 2010/115/EU bizottsági határozatnak, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2011. március 30-i 2011/637/EU bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2013. május 17-i 2013/28/EU bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2016. május 18-i (EU) 2016/774 bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2017. november 15-i (EU) 2017/2096 bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének a lakóautók abszorpciós hűtőgépeinek szénacél hűtőrendszerében korrózióálló anyagként használt hat vegyértékű krómra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/362 felhatalmazáson alapuló bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének alkatrészekben használt ólomra és ólomvegyületekre vonatkozó egyes mentességek tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/363 felhatalmazáson alapuló bizottsági irányelvnek;
 
 95.[^334]
 
@@ -309,7 +309,7 @@ való megfelelést szolgálja.
 [^330]: A 120. § 91. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^331]: A 120. § 92. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^332]: A 120. § 93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^333]: A 120. § 94. pontja a 11/2018. (VIII. 29.) ITM rendelet 1. §-ával megállapított szöveg.
+[^333]: A 120. § 94. pontja a 20/2020. (VI. 24.) ITM rendelet 1. §-ával megállapított szöveg.
 [^334]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^335]: A 120. § 103. pontja a 31/2014. (VI. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^336]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 13. §-ával megállapított szöveg.
