@@ -1,4 +1,4 @@
-## 13. § Az anyakecsketartás csekély összegű támogatásáról szóló 26/2014. (XI. 20.) FM rendelet 3. § (1) bekezdésében a „7000 forint/anyakecske” szövegrész helyébe a „8200 forint/anyakecske” szöveg lép.
+## 13. §[^2]
 
 1. melléklet a 27/2020. (VI. 22.) AM rendelethez
 
@@ -93,3 +93,5 @@ Zöldségnövények listája
 | 43. | VEG53 | Tavaszi vöröshagyma | 1,0 |
 
 | 44 | GOM01 | Gomba | 1,0 |
+
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
