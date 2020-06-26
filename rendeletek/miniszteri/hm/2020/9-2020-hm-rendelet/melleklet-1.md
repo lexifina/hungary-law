@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a honvédelmi miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 2/2015. (IV. 10.) HM rendelet.
+## 6. §[^1]
 
 1. melléklet a 9/2020. (VI. 10.) HM rendelethez
 
@@ -77,3 +77,5 @@
 4.7. az állandó személyi védelemben részesülő állami vezetők állami légi járművel történő szállításában közvetlenül részt vevő gépszemélyzeti beosztás,
 
 4.8. olyan külföldi szolgálat teljesítése, amely esetében a fogadó fél igényli a személyi biztonsági tanúsítvány meglétét.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
