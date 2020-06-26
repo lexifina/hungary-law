@@ -1,5 +1,3 @@
-## 3. § A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet (a továbbiakban: R2.) 33/C. §-a a következő (5) és (6) bekezdéssel egészül ki:
+## 3. §[^3]
 
-## „(5) A közlekedésért felelős miniszter az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv I. mellékletében foglaltak alapulvételével összeállított tantervi és vizsgakövetelmények meghatározása során figyelembe veszi, hogy a továbbképzés során kiemelt figyelmet kapjon a közúti közlekedés biztonsága, a munkahelyi egészség és biztonság, valamint a járművezetés környezetre gyakorolt hatásának csökkentése.
-
-## (6) A továbbképzés tantermi oktatásból, gyakorlati képzésből és, ha rendelkezésre áll, információs és kommunikációs technológiai eszközök vagy szimulátorok segítségével végzett képzésből áll.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

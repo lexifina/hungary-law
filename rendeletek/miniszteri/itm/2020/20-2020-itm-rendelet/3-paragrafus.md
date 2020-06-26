@@ -1,3 +1,5 @@
-## 2. § Az R1. 7/A. számú melléklete az 1. melléklet szerint módosul.
+## 2. §[^2]
 
 ## 2. A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló 24/2005. (IV. 21.) GKM rendelet módosítása
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
