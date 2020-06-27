@@ -2261,23 +2261,3 @@ akkor a forrás zaj pontosítását a gyári adatokból kell meghatározni a hat
 | Vy | A legnagyobb emelkedés mértékéhez tartozó sebesség |  |
 
 8.6.2. Felszállás (lásd F-A-4. ábrát)
-
-| Helyzet | Leírás |  |
-
-| A | A zajvizsgálatnál alkalmazott repülési pálya kezdete felszállás alkalmával |  |
-
-| B | Az emelkedésre áttérés kezdete |  |
-
-| F | A zajvizsgálatnál alkalmazott repülési pálya vége felszállás alkalmával |  |
-
-| K1 | A felszállási repülési pálya referencia pontja |  |
-
-| K1’ K1” | A kapcsolódó (3 mikrofonos) zajmérő pontok |  |
-
-| M | A vizsgálatnál alkalmazott repülési nyomvonal vége |  |
-
-| N | Az emelkedésre való áttérés kezdőpontja alatt függőleges irányban a talajon lévő pont |  |
-
-| T | A vizsgálatnál alkalmazott repülési nyomvonal kezdete a talajon, az A alatt függőleges irányban lévő pont |  |
-
-8.6.3. Átrepülés (lásd az F-A-5. ábrát)
