@@ -1,3 +1,3 @@
-2. melléklet az 50/2017. (X. 10.) FM rendelethez[^85]
+2. melléklet az 50/2017. (X. 10.) FM rendelethez[^105]
 
-[^85]: A 2. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.
+[^105]: A 2. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.

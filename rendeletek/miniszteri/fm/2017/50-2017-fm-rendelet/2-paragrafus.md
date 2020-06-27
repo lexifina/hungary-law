@@ -32,7 +32,7 @@ c) a gazdasági ügyek, valamint a kereskedelem irányítására teljes napi mun
 
 ca) gazdasági vagy kereskedelmi felsőfokú végzettséggel vagy
 
-cb) legalább ötéves munkaszerződéssel és munkaköri leírással vagy vállalkozói, megbízási szerződéssel igazolt szakmai tapasztalattal
+cb)[^6] legalább ötéves munkaszerződéssel és munkaköri leírással vagy vállalkozói, megbízási szerződéssel igazolt, a gazdasági ügyek vagy kereskedelem irányításáért felelős munkakörben szerzett szakmai tapasztalattal rendelkezik; és
 
 rendelkezik; és
 
@@ -41,3 +41,4 @@ d) – amennyiben gazdasági társaságként működik – a létesítő okirat�
 [^3]: A 2. § (2) bekezdés a) pontja a 30/2019. (VI. 25.) AM rendelet 13. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (2a) bekezdését a 30/2019. (VI. 25.) AM rendelet 2. § (1) bekezdése iktatta be.
 [^5]: A 2. § (5) bekezdése a 30/2019. (VI. 25.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (6) bekezdés c) pont cb) alpontja a 22/2020. (VI. 19.) AM rendelet 1. §-ával megállapított szöveg.
