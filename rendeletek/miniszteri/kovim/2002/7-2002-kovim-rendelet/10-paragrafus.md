@@ -4,7 +4,7 @@
 
 a) a jogosult a kérelemben valótlan adatokat jelölt meg,
 
-b) a jogosult a 3. és 4. számú mellékletben meghatározott szakmai követelményeket nem teljesíti,
+b)[^12] a jogosult a 3. és 4. számú mellékletben meghatározott szakmai követelményeket nem teljesíti, vagy nem rendelkezik a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendeletben meghatározott telephelybiztonsági tanúsítvánnyal;
 
 c) a jogosult a földi kiszolgálást az engedélyben foglaltaktól eltérően gyakorolja,
 
@@ -22,6 +22,7 @@ c) a jogosult nem tartja be a repülőtérrendet,
 
 d) a jogosult a 11. §-ban meghatározott, a számviteli elkülönítéssel kapcsolatos kötelezettségét megszegi.
 
-(3)[^12]
+(3)[^13]
 
-[^12]: A 10. § (3) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 20. § (6) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 10. § (1) bekezdés b) pontja a 21/2020. (VI. 26.) ITM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 10. § (3) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 20. § (6) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
