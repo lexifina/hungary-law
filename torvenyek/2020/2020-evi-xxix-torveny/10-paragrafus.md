@@ -1,0 +1,3 @@
+10. § (1) A Kormány rendeletben állapítja meg a Beruházás helyszínére, közvetlen környezetére és az azzal érintett építményekre vonatkozó egyedi településképi és építési követelményeket, valamint sajátos településrendezési, beépítési és örökségvédelmi szabályokat, ennek keretében megállapítja az építésügyi hatósági, építési engedélyezési és használatbavételi eljárás – közműegyeztetésekre is kiterjedő –, a telekalakítási hatósági eljárás, az örökségvédelmi hatósági eljárás, valamint a környezetvédelmi és természetvédelmi hatósági eljárás sajátos szabályait.
+
+(2) Az (1) bekezdés szerinti követelmény, illetve sajátos eljárási szabály a környezetvédelmi előírások és a védett természeti területek védettségi szintjének sérelmével nem járhat.

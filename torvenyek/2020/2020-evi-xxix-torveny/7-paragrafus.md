@@ -1,0 +1,1 @@
+7. § A Beruházással összefüggésben közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkák elvégzése esetén a Vtv. előírásait az Ngtv. 11/E. §-ában és 11/F. § (2)–(7) bekezdésében foglalt eltérésekkel kell alkalmazni.
