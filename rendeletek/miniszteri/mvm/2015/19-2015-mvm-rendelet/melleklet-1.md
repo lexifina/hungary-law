@@ -2,7 +2,7 @@
 
 1. melléklet a 19/2015. (IV. 10.) MvM rendelethez
 
-## Nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
+Nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
 ## A) Kormányhivatalok
 
@@ -16,11 +16,13 @@
 
 B) Központi hivatalok
 
-3.[^2]
+3.[^3]
 
-4.[^3]
+4.[^4]
 
-5–6.[^4]
+5.[^5]
+
+6.[^6]
 
 7. Nemzetstratégiai Kutatóintézet
 
@@ -42,27 +44,28 @@ C) Fővárosi és megyei kormányhivatalok
 
 9.4. minősített iratkezelési feladatot ellátó munkakör
 
-9.5.[^5] agrár- és vidékfejlesztést támogató főosztály vezetője
+9.5.[^7] agrár- és vidékfejlesztést támogató főosztály vezetője
 
-9.6.[^6] Budapest Főváros Kormányhivatala Földmérési, Távérzékelési és Földhivatali Főosztály valamennyi vezetői munkaköre
+9.6.[^8]
 
-9.7.[^7] Budapest Főváros Kormányhivatala Kereskedelmi, Haditechnikai Exportellenőrzési és Nemesfémhitelesítési Főosztály valamennyi vezetői munkaköre
+9.7.[^9] Budapest Főváros Kormányhivatala Kereskedelmi, Haditechnikai Exportellenőrzési és Nemesfémhitelesítési Főosztály valamennyi vezetői munkaköre
 
-9.8.[^8] Budapest Főváros Kormányhivatala Állampolgársági és Anyakönyvi Főosztály valamennyi vezetői munkaköre
+9.8.[^10] Budapest Főváros Kormányhivatala Állampolgársági és Anyakönyvi Főosztály valamennyi vezetői munkaköre
 
-9.9.[^9] Budapest Főváros Kormányhivatala Közlekedési Főosztály valamennyi vezetői munkaköre
+9.9.[^11] Budapest Főváros Kormányhivatala Országos Közúti és Hajózási Hatósági Főosztály valamennyi vezetői munkaköre
 
-9.10.[^10] Budapest Főváros Kormányhivatala Rehabilitációs Főosztály vezetője
+9.10.[^12] Budapest Főváros Kormányhivatala Rehabilitációs Főosztály vezetője
 
-9.11.[^11] Pest Megyei Kormányhivatal Szakképzési és Felnőttképzési Főosztály vezetője
+9.11.[^13] Pest Megyei Kormányhivatal Szakképzési és Felnőttképzési Főosztály vezetője
 
-[^2]: Az 1. melléklet B) rész 3. pontját a 2/2018. (VII. 18.) ME rendelet 7. §-a hatályon kívül helyezte.
-[^3]: Az 1. melléklet 4. pontját a 37/2016. (XII. 29.) MvM rendelet 8. §-a hatályon kívül helyezte.
-[^4]: Az 1. melléklet B) rész 5–6. pontját az 5/2017. (II. 10.) MvM rendelet 2. §-a hatályon kívül helyezte.
-[^5]: Az 1. melléklet 9. pont 9.5. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
-[^6]: Az 1. melléklet 9. pont 9.6. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
-[^7]: Az 1. melléklet 9. pont 9.7. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
-[^8]: Az 1. melléklet 9. pont 9.8. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
-[^9]: Az 1. melléklet 9. pont 9.9. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
-[^10]: Az 1. melléklet 9. pont 9.10. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
-[^11]: Az 1. melléklet 9. pont 9.11. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
+[^3]: Az 1. melléklet B) rész 3. pontját a 2/2018. (VII. 18.) ME rendelet 7. §-a hatályon kívül helyezte.
+[^4]: Az 1. melléklet 4. pontját a 37/2016. (XII. 29.) MvM rendelet 8. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet B) rész 5–6. pontját az 5/2017. (II. 10.) MvM rendelet 2. §-a hatályon kívül helyezte.
+[^6]: Az 1. melléklet B) rész 5–6. pontját az 5/2017. (II. 10.) MvM rendelet 2. §-a hatályon kívül helyezte.
+[^7]: Az 1. melléklet 9. pont 9.5. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
+[^8]: Az 1. melléklet 9. pont 9.6. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 9/2020. (VI. 26.) MvM rendelet 3. § (2) bekezdése.
+[^9]: Az 1. melléklet 9. pont 9.7. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
+[^10]: Az 1. melléklet 9. pont 9.8. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
+[^11]: Az 1. melléklet 9. pont 9.9. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be, szövege a 9/2020. (VI. 26.) MvM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^12]: Az 1. melléklet 9. pont 9.10. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.
+[^13]: Az 1. melléklet 9. pont 9.11. alpontját a 13/2017. (IV. 10.) MvM rendelet 2. §-a iktatta be.

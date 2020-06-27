@@ -1,5 +1,3 @@
-## minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
-
 4. § (1) Az 1. § b)–d) pontjában meghatározott foglalkoztató szervezetnél
 
 a) a gazdasági vezető,
