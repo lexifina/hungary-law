@@ -24,11 +24,11 @@ meghatározott ingatlan-nyilvántartási, illetve állami földmérési és tér
 
 (10)[^24] A Kötv. 71. § (1) bekezdés a), c) és d) pontja esetében a védettség tényére vonatkozó adatokat a nyilvántartást vezető hatóságnak fel kell tölteni az Országos Építésügyi Nyilvántartásba (a továbbiakban: OÉNY).
 
-(11)[^25] A nyilvántartást vezető hatóság az OÉNY-t vezető szervezet, az örökségvédelmi, építésügyi, ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalok, járási (fővárosi kerületi) hivatalok, a jegyző, a főjegyző, valamint a feltárási joggal rendelkező intézmények számára elektronikus hozzáférést biztosít az általa kezelt, a régészeti örökség és a műemléki értékek védelmével összefüggő feladataik ellátásához szükséges adatokhoz.
+(11)[^25] A nyilvántartást vezető hatóság az OÉNY-t vezető szervezet, az örökségvédelmi, építésügyi, ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalok, valamint a feltárási joggal rendelkező intézmények számára elektronikus hozzáférést biztosít az általa kezelt, a régészeti örökség és a műemléki értékek védelmével összefüggő feladataik ellátásához szükséges adatokhoz.
 
 [^20]: A 6. § (1) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^21]: A 6. § (4) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (1) bekezdés 10. pontja szerint módosított szöveg.
 [^22]: A 6. § (7) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^23]: A 6. § (9) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be.
 [^24]: A 6. § (10) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be.
-[^25]: A 6. § (11) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be.
+[^25]: A 6. § (11) bekezdését a 32/2016. (XII. 14.) MvM rendelet 4. §-a iktatta be, szövege a 9/2020. (VI. 26.) MvM rendelet 2. §-a szerint módosított szöveg.
