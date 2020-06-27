@@ -1,4 +1,4 @@
-34. §[^136] (1) Ez a rendelet
+34. §[^139] (1) Ez a rendelet
 
 a) az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló, 2005. május 10-i 2005/387/IB tanácsi határozatnak,
 
@@ -24,4 +24,4 @@ c) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopr
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^136]: A 34. § a 347/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^139]: A 34. § a 347/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.

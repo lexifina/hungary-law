@@ -1,8 +1,19 @@
 ## 13. Tájékoztatási és adatszolgáltatási kötelezettség
 
-28. § (1)[^129] Amennyiben hatóság, hivatalos személy, kábítószer-vizsgáló laboratórium, toxikológiai laboratórium, egészségügyi szolgáltató, kutatást végző intézmény, valamint büntetés-végrehajtási intézet feltételezett új pszichoaktív anyag, illetve ismert szer új visszaélési módjának, formájának – ideértve azok előállítását, kereskedelmét, illetve fogyasztását – megjelenését észleli, köteles arról az OAC-ot, a Nemzeti Drog Fókuszpontot és az Europol Nemzeti Irodát a 10. melléklet szerinti adattartalmú nyilatkozattal haladéktalanul értesíteni. A Nemzeti Drog Fókuszpont a hazai bejelentést 30 napon belül továbbítja a Kábítószer és Kábítószerfüggőség Európai Megfigyelőközpont (EMCDDA) Korai Jelzőrendszerének.
+28. § (1)[^131] Ha hatóság, hivatalos személy, kábítószer-vizsgáló laboratórium, toxikológiai laboratórium, egészségügyi szolgáltató, kutatást végző intézmény vagy büntetés-végrehajtási intézet feltételezett új pszichoaktív anyag, illetve ismert szer új visszaélési módjának, formájának megjelenését – ideértve azok előállítását, kereskedelmét, illetve fogyasztását – észleli,
 
-(2)[^130] Amennyiben az ENSZ kábítószerügyi szervei kábítószerekre vagy pszichotróp anyagokra vonatkozó adatokat vagy tájékoztatást kérnek Magyarországtól, annak beszerzése érdekében az OGYÉI a KKB útján megkeresi az érintett hatóságokat és szerveket. E megkeresést az abban feltüntetett időpontig, de legkésőbb 30 napon belül kell teljesíteni.
+a) a 10. melléklet szerinti tartalommal haladéktalanul rögzíti a bejelentést EMCDDA korai jelzőrendszerében, ha a bejelentés rögzítéséhez szükséges hozzáférési jogosultsággal rendelkezik,
 
-[^129]: A 28. § (1) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 20. § c)–d) pontja szerint módosított szöveg.
-[^130]: A 28. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja szerint módosított szöveg.
+b) a bejelentés rögzítéséhez szükséges hozzáférési jogosultság hiányában a 10. melléklet szerinti bejelentőlap megküldésével haladéktalanul értesíti a Nemzeti Drog Fókuszpontot és az Europol Nemzeti Irodát.
+
+(1a)[^132] A Nemzeti Drog Fókuszpont
+
+a) az (1) bekezdés a) pontja szerinti esetben ellenőrzi a bejelentésben foglaltakat, és megfelelő adattartalom esetén haladéktalanul jóváhagyja a bejelentést,
+
+b) az (1) bekezdés b) pontja szerinti esetben a bejelentést haladéktalanul megteszi az EMCDDA korai jelzőrendszerébe.
+
+(2)[^133] Amennyiben az ENSZ kábítószerügyi szervei kábítószerekre vagy pszichotróp anyagokra vonatkozó adatokat vagy tájékoztatást kérnek Magyarországtól, annak beszerzése érdekében az OGYÉI a KKB útján megkeresi az érintett hatóságokat és szerveket. E megkeresést az abban feltüntetett időpontig, de legkésőbb 30 napon belül kell teljesíteni.
+
+[^131]: A 28. § (1) bekezdése a 271/2020. (VI. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^132]: A 28. § (1a) bekezdését a 271/2020. (VI. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^133]: A 28. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja szerint módosított szöveg.
