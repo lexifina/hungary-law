@@ -1,1 +1,0 @@
-## „(7) A 891/2017/EU bizottsági rendelet 31. cikk (5) bekezdésében foglalt kötelezettségeknek való megfelelést a Kincstár – a számvitelről szóló 2000. évi C. törvényben foglalt, a tárgyi eszközök nyilvántartására és azonosítására vonatkozó szabályokra figyelemmel – ellenőrzi.”

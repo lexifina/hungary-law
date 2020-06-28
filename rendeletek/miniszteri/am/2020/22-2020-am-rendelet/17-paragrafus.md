@@ -1,1 +1,3 @@
-## „(5a) Az (5) bekezdés c) pontja szerinti intézkedést a miniszter akkor hagyja jóvá, ha az nem jár káros környezeti hatással, illetve növényegészségügyi kockázattal.”
+## 16. §[^16]
+
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

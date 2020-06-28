@@ -1,1 +1,3 @@
-## „d) ha az ajánlat adásának idején vagy azt megelőző öt éven belül ugyanabban az időpontban a támogatást igénylővel vagy másik ajánlattevővel azonos székhelyen vagy telephelyen működött.”
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
