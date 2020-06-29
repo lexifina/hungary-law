@@ -1,0 +1,5 @@
+## 3. § A pénzügyi hozzájárulás forrása a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20/20/1/4. „Egyes állatbetegségek megelőzésének és felszámolásának támogatása” című fejezeti kezelésű előirányzat, valamint az Európai Unió általános költségvetésének terhére a SANTE/VP/2020/HU/SI2.823607. számú támogatási határozat alapján a 2. § szerinti célterületek finanszírozására biztosított pénzösszeg.
+
+4. § (1) Kizárólag az adott tárgyidőszakban vagy azt megelőzően – de a végrehajtási időszak alatt – elvégzett feladat végrehajtásáról, és az ahhoz kapcsolódó egyéb költségekről kiállított számlák, vagy az e rendeletben meghatározott egyéb bizonylat vagy – a 9. § (6) bekezdésében meghatározott esetben – nyilatkozat alapján vehető igénybe pénzügyi hozzájárulás. A 11. §-ban meghatározott alcélterület tekintetében a 11. § (2) bekezdése szerinti pénzügyi hozzájárulás kizárólag pénzügyileg teljesített számla alapján folyósítható.
+
+(2) A pénzügyi hozzájárulás kiszámításának alapja a számlán szereplő költségek általános forgalmi adót és egyéb adót nem tartalmazó összege.
