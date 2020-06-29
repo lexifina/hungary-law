@@ -148,7 +148,7 @@ V. Németh Zsolt (Fidesz)[^31]
 
 Szabó Zsolt (Fidesz)[^32]
 
-Horváth István (Fidesz)[^33]
+F Kovács Sándor (Fidesz)[^33]
 
 Potocskáné Kőrösi Anita (Jobbik)[^34]
 
@@ -475,7 +475,7 @@ Kissné Köles Erikát (nemzetiségi szószóló)[^90]
 [^30]: A 31/2019. (X. 22.) OGY határozat 1. pontjával megállapított szöveg.
 [^31]: A 30/2018. (XI. 13.) OGY határozat 1. pontjával megállapított szöveg.
 [^32]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
-[^33]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^33]: A 21/2020. (VI. 30.) OGY határozat 1. pontjával megállapított szöveg.
 [^34]: A 16/2019. (V. 28.) OGY határozat 1. pontjával megállapított szöveg.
 [^35]: A 2/2020. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^36]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
