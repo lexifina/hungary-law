@@ -1,12 +1,12 @@
 ## megfelelő forintösszeget.
 
-9. § (1) Az afrikai sertéspestis tekintetében a pénzügyi hozzájárulás a SANTE/VP/2019/HU/SI2.798238. számú támogatási határozat II. Mellékletében elfogadott nemzeti program szerinti, az elhullott vaddisznók bejelentésének ösztönzésére, a vaddisznók virológiai vizsgálatainak költségeire, a házi sertések virológiai vizsgálatainak költségeire, a vaddisznókból és házi sertésekből történő mintavétel költségeire, az országhatáron és a sertéstartó telepeken a behurcolás megelőzése érdekében történő fertőtlenítés, a lőtt vaddisznó testek tárolására alkalmazott hűtők vásárlása, továbbá a betegségről szóló tájékoztató anyagok elkészítésének költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 696 502,16 eurónak megfelelő forintösszeg.
+9. § (1)[^8] Az afrikai sertéspestis tekintetében a pénzügyi hozzájárulás a SANTE/VP/2019/HU/SI2.798238. számú támogatási határozat II. Mellékletében elfogadott nemzeti program szerinti, az elhullott vaddisznók bejelentésének ösztönzésére, a vaddisznók virológiai vizsgálatainak költségeire, a házi sertések virológiai vizsgálatainak költségeire, a vaddisznókból és házi sertésekből történő mintavétel költségeire, az országhatáron és a sertéstartó telepeken a behurcolás megelőzése érdekében történő fertőtlenítés, a lőtt vaddisznó testek tárolására alkalmazott hűtők vásárlása, továbbá a betegségről szóló tájékoztató anyagok elkészítésének költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 2 756 745,1 eurónak megfelelő forintösszeg.
 
-(2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 58 135,64 euró keretösszegig a laboratóriumi vizsgálatok költségei tekintetében, 200 000 euró keretösszegig a fertőtlenítőszerek és felszerelések vásárlása, 220 000 euró keretösszegig a lőtt vaddisznó testek tárolására alkalmazott hűtők vásárlása, valamint 200 000 euró keretösszegig a betegségről szóló figyelemfelhívó kampány költségei tekintetében.
+(2)[^9] A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 791 076,9 euró keretösszegig a laboratóriumi vizsgálatok költségei tekintetében, 200 000 euró keretösszegig a fertőtlenítőszerek és felszerelések vásárlása, 1 547 301,8 euró keretösszegig a lőtt vaddisznó testek tárolására alkalmazott hűtők vásárlása, valamint 200 000 euró keretösszegig a betegségről szóló figyelemfelhívó kampány költségei tekintetében.
 
 (3) A (2) bekezdés szerinti pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, azonban az átalányösszeg mértéke nem haladhatja meg
 
-a) PCR tesztenként a 0,62 eurónak,
+a)[^10] PCR tesztenként a 9,52 eurónak,
 
 b) vírusizolálás esetén vizsgálatonként a 19,02 eurónak
 
@@ -23,3 +23,7 @@ b) vírusizolálás esetén vizsgálatonként a 19,02 eurónak
 (8) A megyei kormányhivatal a bejelentést követő hét napon belül elektronikus levélben tájékoztatja a bejelentőt, hogy jogosult-e a támogatási összegre. A támogatásra jogosult bejelentőnek az elmúlt naptári félévre vonatkozóan bizonylatot, vagy bizonylat kiállítására nem jogosult természetes személynek nyilatkozatot kell kiállítania, amelyben szerepelnie kell a bejelentő nevének, címének, adószámának vagy adóazonosítójának, fizetési számlaszámának, vadászatra jogosultak esetében a kódszámának, továbbá az egy vaddisznó bejelentéséért járó nettó forintösszegnek, a naptári félévben bejelentett összes elhullott vaddisznó számának és a bejelentésekért összesen járó nettó forintösszegnek. A vadászatra jogosult által kiállított bizonylatot sorszámmal kell ellátni.
 
 (9) A támogatásra jogosult bejelentőnek az adott naptári félévre vonatkozóan egy alkalommal, a tárgyfélévet követő hónap 15. napjáig – 2019. első félévére vonatkozóan 2019. augusztus 1-jéig, 2019 második félévére vonatkozóan 2020. január 15-éig – kell benyújtania a megyei kormányhivatalhoz a (8) bekezdés szerinti bizonylatot, amelyhez mellékelnie kell a bizonylatban szereplő írásbeli bejelentések másolati példányait is. A megyei kormányhivatal ellenőrzi a benyújtott bizonylat és annak mellékletei alapján, hogy az abban szereplő valamennyi bejelentett vaddisznóhullát a mintavétellel megbízott személy megtalálta, ellenkező esetben felszólítja a bejelentőt a bizonylat kijavítására. A megyei kormányhivatal a pénzügyi hozzájárulás számlájára történt átutalását követően haladéktalanul intézkedik az összegnek az elhullott vaddisznót bejelentő fizetési számlájára történő továbbításáról.
+
+[^8]: A 9. § (1) bekezdése a 32/2020. (VI. 26.) AM rendelet 17. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 9. § (2) bekezdése a 32/2020. (VI. 26.) AM rendelet 17. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^10]: A 9. § (3) bekezdés a) pontja a 32/2020. (VI. 26.) AM rendelet 17. § (2) bekezdés e) pontja szerint módosított szöveg.
