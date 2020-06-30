@@ -1,5 +1,3 @@
-## szerinti feladatok ellátására.
-
 ## 12. § A Kormány egészségügyi államigazgatási szervként Budapest Főváros Kormányhivatalát jelöli ki
 
 a)[^29]

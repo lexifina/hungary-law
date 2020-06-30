@@ -14,7 +14,7 @@ a) 29. § (1) bekezdése,
 
 b) 32. § (1) bekezdés a) pontja
 
-## alkalmazásában.
+alkalmazásában.
 
 (5) Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. § (1) bekezdésének alkalmazása során egészségügyi államigazgatási szervként az egészségügyi dolgozó lakóhelye vagy az egészségügyi szolgáltató telephelye szerint illetékes járási hivatal jár el.
 

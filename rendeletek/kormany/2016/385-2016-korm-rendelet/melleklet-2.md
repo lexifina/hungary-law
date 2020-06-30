@@ -758,6 +758,22 @@
 
 | 377. |  | Lenti járás |
 
-2.
+2. A sugáregészségügyi feladatokat ellátó kormányhivatalok illetékessége
 
-[^44]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+|  | A | B |
+
+| 1. | A sugáregészségügyi feladatokat ellátó kormányhivatalok | A sugáregészségügyi feladatokat ellátó kormányhivatalok illetékességi területe |
+
+| 2. | Budapest Főváros Kormányhivatala | Budapest és Pest megye |
+
+| 3. | Tolna Megyei Kormányhivatal | Baranya, Somogy, Tolna és Fejér megye |
+
+| 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Borsod-Abaúj-Zemplén, Nógrád és Heves megye |
+
+| 5. | Csongrád-Csanád Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád-Csanád megye |
+
+| 6. | Győr-Moson-Sopron Megyei Kormányhivatal | Győr-Moson-Sopron, Vas, Zala, Komárom-Esztergom és Veszprém megye |
+
+| 7. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye |
+
+[^44]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 6. §-át.

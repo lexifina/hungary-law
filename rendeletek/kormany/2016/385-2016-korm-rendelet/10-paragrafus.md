@@ -26,7 +26,7 @@ f) a Kbtv. 33. § (3) bekezdése,
 
 g) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 2. § (1) bekezdése és 34. § (2) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (2) A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter jogszabály szerint, az országos tisztifőorvos és a kormányhivatal útján látja el.
 

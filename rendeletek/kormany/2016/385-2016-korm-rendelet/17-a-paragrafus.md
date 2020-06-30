@@ -16,7 +16,7 @@ c) tárgyi eszközök,
 
 d) vagyoni jogok és kötelezettségek
 
-## tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Nemzeti Népegészségügyi Központ.
+tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Nemzeti Népegészségügyi Központ.
 
 (5) A (3) bekezdés szerinti feladatokhoz kapcsolódó
 
@@ -28,7 +28,7 @@ c) tárgyi eszközök,
 
 d) vagyoni jogok és kötelezettségek
 
-## tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Heim Pál Országos Gyermekgyógyászati Intézet.
+tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Heim Pál Országos Gyermekgyógyászati Intézet.
 
 (6)[^41] A (2) bekezdéstől eltérően az Emberi Erőforrások Minisztériuma látja el 2019. január 1. napjától a Nemzeti Népegészségügyi Központ által 2018. október 1. napjával átvett, a Dohányzás Fókuszponttal, a Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központtal, a Nemzeti Addiktológiai Fókuszponttal kapcsolatos, valamint a kábítószer-megelőzéssel, kábítószerügyi koordinációval kapcsolatos feladatokat.
 

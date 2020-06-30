@@ -100,7 +100,7 @@ h) az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14.
 
 i)[^18] a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (2) Az országos tisztifőorvos kijelöli a mikrobiológiai referencia laboratóriumokat, valamint a járványügyi feladatok ellátására kijelölt laboratóriumokat. Ha a kijelölés érinti a kormányhivatalt, a kijelöléshez a közigazgatás-szervezésért felelős miniszter egyetértése szükséges.
 

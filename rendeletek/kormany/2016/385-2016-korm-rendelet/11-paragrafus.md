@@ -14,5 +14,7 @@ d)[^27] az Ehi. 4. § (6) bekezdés h) pontja,
 
 e)[^28] az Eütv. 123. § (1)–(3) bekezdése
 
+szerinti feladatok ellátására.
+
 [^27]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
 [^28]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be.
