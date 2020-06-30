@@ -40,6 +40,6 @@
 
 | 19. | a termeléskiesésből fakadó költségek |  |  |  | 2 400 | 2 400 | – |
 
-2. melléklet az 1/2018. (II. 1.) FM rendelethez[^70]
+2. melléklet az 1/2018. (II. 1.) FM rendelethez[^71]
 
-[^70]: A 2. mellékletet a 61/2019. (XII. 18.) AM rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^71]: A 2. mellékletet a 61/2019. (XII. 18.) AM rendelet 12. § (2) bekezdése hatályon kívül helyezte.
