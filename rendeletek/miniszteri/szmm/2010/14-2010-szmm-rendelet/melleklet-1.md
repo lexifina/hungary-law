@@ -1,6 +1,6 @@
-1. melléklet a 14/2010. (IV. 28.) SZMM rendelethez[^5]
+1. melléklet a 14/2010. (IV. 28.) SZMM rendelethez[^6]
 
-1. A munkabiztonsági szakértői tevékenység gyakorlására irányuló engedélyezési eljárásban első fokon eljáró hatóságok számlaszámai
+1. A munkabiztonsági szakértői tevékenység gyakorlására irányuló engedélyezési eljárásban eljáró hatóságok számlaszámai
 
 1.1. A foglalkoztatáspolitikáért felelős miniszter hatáskörébe tartozó eljárás esetén:
 
@@ -124,7 +124,7 @@ Pénzforgalmi számla elnevezése: Zala Megyei Mérnöki Kamara
 
 Pénzforgalmi számla száma: 12092309-00223530-00100008
 
-2. A munkabiztonsági szakértői tevékenység gyakorlására irányuló engedélyezési eljárásban másodfokon eljáró hatóságok számlaszámai
+2. A munkabiztonsági szakértői tevékenység gyakorlására irányuló jogorvoslati eljárásban eljáró hatóságok számlaszámai
 
 2.1
 
@@ -136,4 +136,4 @@ Pénzforgalmi számla elnevezése: Magyar Mérnöki Kamara
 
 Pénzforgalmi számla száma: 10102086-68905702-00000007
 
-[^5]: Az 1. melléklet a 3/2012. (II. 10.) NGM rendelet 23. § (1) bekezdése, az 55/2014. (XII. 31.) NGM rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet a 3/2012. (II. 10.) NGM rendelet 23. § (1) bekezdése, az 55/2014. (XII. 31.) NGM rendelet 10. § (3) bekezdése, a 22/2020. (VI. 29.) ITM rendelet 21. § (1) bekezdése szerint módosított szöveg.
