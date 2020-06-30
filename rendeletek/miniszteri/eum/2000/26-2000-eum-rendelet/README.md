@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-26-20-0
 | 2017-01-01 | 2000-26-20-0B.21 | 9/2015. (III. 31.) NGM rendelet |
 | 2018-01-01 | 2000-26-20-0B.22 | 51/2017. (XII. 29.) NGM rendelet |
 | 2020-02-08 | 2000-26-20-0B.23 | 6/2020. (II. 7.) ITM rendelet |
+| 2020-06-30 | 2000-26-20-0B.24 | 9/2015. (III. 31.) NGM rendelet |
