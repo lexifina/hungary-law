@@ -24,9 +24,9 @@ cc) tekintetében adatváltozás bejegyzéséért;
 
 d) az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló rendeletben meghatározott
 
-da) termékek forgalomba hozójának és gyártójának (a továbbiakban: kötelezett) engedélyezéséért, nyilvántartásba való bejegyzéséért,
+da)[^1] termékek forgalomba hozójának és gyártójának (a továbbiakban: kötelezett) bejelentéséért, nyilvántartásba való bejegyzéséért,
 
-db) nyilvántartás adatainak kötelezett kérelmére történő módosításáért.
+db)[^2] nyilvántartás adatainak kötelezett bejelentése alapján történő módosításáért.
 
 (2) Az igazgatási szolgáltatási díj mértéke:
 
@@ -37,3 +37,6 @@ b) az (1) bekezdés b) pontjában meghatározott eljárások esetén 20 000 fori
 c) az (1) bekezdés c) pontjában meghatározott eljárások esetén 10 000 forint,
 
 d) az (1) bekezdés d) pontjában meghatározott eljárások esetén 40 000 forint.
+
+[^1]: Az 1. § (1) bekezdés d) pont da) alpontja a 22/2020. (VI. 29.) ITM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés d) pont db) alpontja a 22/2020. (VI. 29.) ITM rendelet 24. § (1) bekezdésével megállapított szöveg.
