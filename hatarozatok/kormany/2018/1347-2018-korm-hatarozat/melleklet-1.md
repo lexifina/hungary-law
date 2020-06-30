@@ -54,11 +54,11 @@
 
 ## e) egyetért azzal, hogy a pénzügyminiszter
 
-## ea)[^2] a Tarján–Bajót–(Péliföldszentkereszt) kerékpárút nyomvonal tervezéséhez, engedélyeztetéséhez és a kapcsolódó ingatlanvásárláshoz 226 000 000 forint,
+## ea)[^2] a Tarján–Bajót–(Péliföldszentkereszt) kerékpárút nyomvonal tervezéséhez, engedélyeztetéséhez és a kapcsolódó ingatlanvásárláshoz 118 000 000 forint,
 
-## eb) a megvalósult Etyek–Bicske–Csabdi–Tarján közötti kerékpárút és a Szent László-patak kivitelezés előtt álló mederrendezéséhez csatlakozó gyalogút megvalósításához 62 000 000 forint,
+## eb)[^3] a megvalósult Etyek–Bicske–Csabdi–Tarján közötti kerékpárút és a Szent László-patak kivitelezés előtt álló mederrendezéséhez csatlakozó gyalogút megvalósításához 70 000 000 forint,
 
-## ec) az 1-es főút átkelési szakaszán közlekedésbiztonsági szempontból szükséges további kerékpárút építésére 225 000 000 forint,
+## ec)[^4] az 1-es főút átkelési szakaszán közlekedésbiztonsági szempontból szükséges további kerékpárút építésére 325 000 000 forint,
 
 ## ed) az Etyek újhegyi alsó út burkolásához és eszközbeszerzéshez 166 000 000 forint,
 
@@ -204,51 +204,51 @@
 
 ## Határidő: azonnal
 
-## 7.[^3]
+## 7.[^5]
 
 ## 8. A Kormány egyetért azzal, hogy a Nemzeti Sírkerttel kapcsolatos feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1574/2014. (X. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 7. Nemzeti Örökség Intézete cím, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat javára átcsoportosított 900 000 forintból 59 200 forint a K1. Személyi juttatások kiemelt előirányzaton, valamint a K7. Felújítások kiemelt előirányzat javára átcsoportosított 500 000 000 forintból – összhangban a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi és tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1038/2017. (II. 2.) Korm. határozat 1. pont e) alpontjával – 4 412 323 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 ## 9. A Kormány egyetért azzal, hogy az Óbudai Egyetem már megkezdett kollégiumi beruházásának megvalósításához szükséges – részben a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosítással történő – forrás biztosításáról szóló 1457/2015. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 600 300 000 forintból – összhangban a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1514/2016. (IX. 22.) Korm. határozat 1. pont b) alpontjával – 73 084 474 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 10.[^4]
+## 10.[^6]
 
-## 11.[^5]
+## 11.[^7]
 
-## 12.[^6]
+## 12.[^8]
 
-## 13.[^7]
+## 13.[^9]
 
-## 14.[^8]
+## 14.[^10]
 
-## 15.[^9]
+## 15.[^11]
 
-## 16.[^10]
+## 16.[^12]
 
-## 17.[^11]
+## 17.[^13]
 
-## 18.[^12]
+## 18.[^14]
 
 ## 19. A Kormány egyetért azzal, hogy a Határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 52 768 613 forintból 222 155 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 ## 20. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1178/2017. (IV. 3.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 45 778 600 forintból – a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, tárgyéven túli kötelezettségvállalás engedélyezéséről, fejezetek közötti előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1895/2017. (XII. 4.) Korm. határozat 4. pontja szerinti módosításon túl – 750 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 21.[^13]
+## 21.[^15]
 
-## 22. A Kormány egyetért azzal, hogy a Határozat1.[^14] 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 2. Kormányzati kommunikációval és konzultációval kapcsolatos feladatok jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 368 043 460 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 22. A Kormány egyetért azzal, hogy a Határozat1.[^16] 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 2. Kormányzati kommunikációval és konzultációval kapcsolatos feladatok jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 368 043 460 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 ## 23. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat (a továbbiakban: Határozat2.) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 11 000 000 forintból 1 700 808 forint a K1. Személyi juttatások kiemelt előirányzaton, 438 749 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 361 270 forint a K3. Dologi kiadások kiemelt előirányzaton, 8 499 173 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 24.[^15]
+## 24.[^17]
 
-## 25.[^16]
+## 25.[^18]
 
 ## 26. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat (a továbbiakban: Határozat3.) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 1 600 000 000 forintból 292 337 900 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 27.[^17]
+## 27.[^19]
 
-## 28.[^18]
+## 28.[^20]
 
-## 29.[^19]
+## 29.[^21]
 
 ## 30. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat (a továbbiakban: Határozat4.) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 36. Magyar Kézilabda Szövetség szakmai feladatainak támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 3 000 000 000 forintból 657 000 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -258,40 +258,42 @@
 
 ## 33. A Kormány egyetért azzal, hogy a Határozat4. 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoport, 2. Közművelődési szakmai feladatok jogcím, B2. Felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzat javára átcsoportosított 2 000 000 000 forintból 19 300 000 forint a B1. Működési célú támogatások államháztartáson belülről kiemelt előirányzaton kerüljön felhasználásra.
 
-## 34.[^20]
+## 34.[^22]
 
-## 35.[^21]
+## 35.[^23]
 
-## 36.[^22]
+## 36.[^24]
 
 ## 37. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet címrendjének kiegészítéséről, a 2017. évi költségvetési maradványok átcsoportosításáról, egyes kormányhatározatok módosításáról és a szociális hozzájárulási adóhoz kapcsolódó 2018. évi megtakarítások kezeléséről szóló 1013/2018. (II. 2.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 13. Arany János-emlékév programjainak támogatása jogcímcsoport, K3. Dologi kiadások javára átcsoportosított 50 000 000 forintból 9 200 000 forint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása címen kerüljön felhasználásra és elszámolásra.
 
-## 38.[^23]
+## 38.[^25]
 
 ## 39. A Kormány egyetért azzal, hogy a Határozat5. 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 310 000 000 forintból 294 500 000 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton, a LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai célú támogatások cím, K8. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 310 000 000 forintból 294 500 000 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton és a LXV. Bethlen Gábor Alap fejezet, 2. Költségvetési támogatás cím, 3. Eseti támogatás alcím, B2. Felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzat javára átcsoportosított 310 000 000 forintból 294 500 000 forint a B1. Működési célú támogatások államháztartáson belülről kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 1. melléklet az 1347/2018. (VII. 26.) Korm. határozathoz
 
 [^1]: Az 1. pont b) alpontja az 1104/2019. (III. 8.) Korm. határozat 9. pontja, az 1263/2019. (V. 7.) Korm. határozat 8. pontja, az 1343/2019. (VI. 11.) Korm. határozat 3. pontja, az 1432/2019. (VII. 26.) Korm. határozat 4. pontja, az 1528/2019. (IX. 17.) Korm. határozat 8. pontja, az 1591/2019. (X. 16.) Korm. határozat 3. pontja, az 1619/2019. (X. 28.) Korm. határozat 2. pontja, az 1668/2019. (XI. 28.) Korm. határozat 9. pontja, az 1755/2019. (XII. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 2. pont e) alpont ea) pontja az 1207/2019. (IV. 18.) Korm. határozat 9. pontja szerint módosított szöveg.
-[^3]: A 7. pontot az 1099/2020. (III. 12.) Korm. határozat 3. pont b) alpontja visszavonta.
-[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 21. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A Határozat1. az 1276/2017. (V. 31.) Korm. határozatot jelöli.
-[^15]: A 24. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 25. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 27. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 29. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 34. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 35. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 36. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 38. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont e) alpont ea) pontja az 1207/2019. (IV. 18.) Korm. határozat 9. pontja, az 1348/2020. (VI. 30.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: A 2. pont e) pont eb) alpontja az 1348/2020. (VI. 30.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: A 2. pont e) pont ec) alpontja az 1348/2020. (VI. 30.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^5]: A 7. pontot az 1099/2020. (III. 12.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^6]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 21. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A Határozat1. az 1276/2017. (V. 31.) Korm. határozatot jelöli.
+[^17]: A 24. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 25. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 27. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 29. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 34. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 35. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 36. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 38. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
