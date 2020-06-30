@@ -1,4 +1,4 @@
-1. melléklet a 21/2018. (IX. 27.) ITM rendelethez
+1. melléklet a 21/2018. (IX. 27.) ITM rendelethez[^2]
 
 A Gázelosztó Vezetékek Biztonsági Szabályzata
 
@@ -810,7 +810,7 @@ Tpt: a nyomáspróba időtartama órában.
 
 4.2.4. összesítő a felhasznált anyagokról, szerelvényekről, mennyiségi és bizonylatszám megjelölésével, bizonylatok,
 
-4.2.5. munkakezdés bejelentése,
+4.2.5.
 
 4.2.6. értesítés munkaterület átadás-átvételi eljárásról,
 
@@ -1409,3 +1409,5 @@ e) a védőeszköz alapvető funkcionális alkalmasságának ellenőrzését a m
 6.3. A berendezések megfelelő műszaki-biztonsági állapotának biztosítása, az időszakos felülvizsgálatok és a rendszeres karbantartások elvégeztetése a munkáltató feladata.
 
 6.4. A felülvizsgálati és a karbantartási időközöket a jogszabályokban, valamint a munkáltató által választott szabványokban előírtak alapján a munkáltató az MBIR-ben szabályozza. A karbantartásokat és a felülvizsgálatokat határidőben el kell végezni, a megfelelő állapotot haladéktalanul helyre kell állítani. A munkavállaló köteles a munkavégzésre alkalmas állapotot ellenőrizni a munka megkezdése előtt.
+
+[^2]: Az 1. melléklet a 22/2020. (VI. 29.) ITM rendelet 28. §-a szerint módosított szöveg.
