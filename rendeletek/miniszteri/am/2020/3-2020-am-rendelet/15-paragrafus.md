@@ -22,13 +22,13 @@ d) a beadvány érkeztetési számát.
 
 (7) Kifizetési kérelmet
 
-a) a program megvalósításának kezdetétől 2020. június 30-ig felmerült költségek vonatkozásában 2020. július 15-ig,
+a)[^3] a program megvalósításának kezdetétől 2020. június 30-ig felmerült költségek vonatkozásában 2020. augusztus 3. és 2020. augusztus 17. között,
 
-b) a 2020. július 1. és 2021. június 30. között felmerült költségek vonatkozásában 2021. július 15-ig,
+b)[^4] a 2020. július 1. és 2021. június 30. között felmerült költségek vonatkozásában 2021. július 1. és 2021. július 15. között,
 
-c) a 2021. július 1. és 2022. június 30. között felmerült költségek vonatkozásában 2022. július 15-ig,
+c)[^5] a 2021. július 1. és 2022. június 30. között felmerült költségek vonatkozásában 2022. július 1. és 2022. július 15. között,
 
-d) a 2022. július 1. és 2023. június 30. között felmerült költségek vonatkozásában 2023. július 15-ig
+d)[^6] a 2022. július 1. és 2023. június 30. között felmerült költségek vonatkozásában 2023. július 1. és 2023. július 15. között
 
 [az a)–d) pont a továbbiakban együtt: éves kifizetési kérelem] kell benyújtani.
 
@@ -79,3 +79,8 @@ j) ha a kifizetési kérelemben szereplő bármely akció költségeltéréssel 
 (16) Ha a kérelmező a program egészének vagy egy részének a megvalósítására szerződést köt, a (12) bekezdés szerinti dokumentumok alatt a kérelmezővel szerződő megvalósító részére kiállított bizonylatokat és a megvalósító által kötött szerződéseket is érteni kell.
 
 (17) A támogatás alapjául szolgáló számlának az egyes gazdasági eseményeket és értéküket tételesen tartalmaznia kell.
+
+[^3]: A 15. § (7) bekezdés a) pontja a 34/2020. (VI. 29.) AM rendelet 18. § a) pontja szerint módosított szöveg.
+[^4]: A 15. § (7) bekezdés b) pontja a 34/2020. (VI. 29.) AM rendelet 18. § b) pontja szerint módosított szöveg.
+[^5]: A 15. § (7) bekezdés c) pontja a 34/2020. (VI. 29.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^6]: A 15. § (7) bekezdés d) pontja a 34/2020. (VI. 29.) AM rendelet 18. § d) pontja szerint módosított szöveg.
