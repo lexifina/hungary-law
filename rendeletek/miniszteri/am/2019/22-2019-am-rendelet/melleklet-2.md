@@ -22,6 +22,8 @@
 
 | 10. | 150–159,99 | 1 017 600 | 908 400 |
 
-2. melléklet a 22/2019. (V. 31.) AM rendelethez[^28]
+| 11. | 160 vagy felette | 1 083 630 | 967 527 |
 
-[^28]: A 2. melléklet a 21/2020. (VI. 19.) AM rendelet 17. § (14) bekezdésével megállapított szöveg.
+2. melléklet a 22/2019. (V. 31.) AM rendelethez[^34]
+
+[^34]: A 2. melléklet a 21/2020. (VI. 19.) AM rendelet 17. § (14) bekezdésével megállapított szöveg.

@@ -16,7 +16,7 @@
 
 | 7. | Tokaji Borvidék | 65,47 |
 
-3. melléklet a 22/2019. (V. 31.) AM rendelethez[^29]
+3. melléklet a 22/2019. (V. 31.) AM rendelethez[^35]
 
 A területi referencia cukortartalom 2. § (6) bekezdésében meghatározott alternatív értékei
 
@@ -36,4 +36,4 @@ A területi referencia cukortartalom 2. § (6) bekezdésében meghatározott alt
 
 | 7. | Tokaji Borvidék | 13,63 |
 
-[^29]: A 3. mellékletet a 21/2020. (VI. 19.) AM rendelet 17. § (15) bekezdése iktatta be.
+[^35]: A 3. mellékletet a 21/2020. (VI. 19.) AM rendelet 17. § (15) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-5. §[^11] (1) A támogatási kérelem 2020. június 22. és július 10. között elektronikus úton nyújtható be a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: E-ügyintézési törvény) foglaltaknak megfelelően a Kincstárhoz, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
+5. §[^11] (1)[^12] A támogatási kérelem 2020. június 22-től az (EU) 2017/892, az (EU) 2016/1150, a 615/2014/EU, az (EU) 2015/1368 és az (EU) 2017/39 végrehajtási rendelettől a COVID-19-világjárvány okozta válság kezelésére irányuló egyes intézkedések tekintetében való eltérésről szóló, 2020. április 30-i 2020/600/EU bizottsági végrehajtási rendelet 2. cikk (2) bekezdés a) pontjában meghatározott időpontig elektronikus úton nyújtható be a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: E-ügyintézési törvény) foglaltaknak megfelelően a Kincstárhoz, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
 
 (2) Az eljárás során kötelező az elektronikus kapcsolattartás. A Kincstár az értesítéseket, döntéseket elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.
 
@@ -18,7 +18,7 @@ ab) név,
 
 ac) kapcsolattartási adatok,
 
-ad) adószám vagy adóazonosító jel,
+ad)[^13] adószám,
 
 ae) HEGYIR gazdasági akta száma;
 
@@ -61,3 +61,5 @@ dc) az intézkedésbe vont terület a 2017., 2018. és 2019. szüreti évben ter
 (9) A HNT csak arról a kérelemről köteles adatot szolgáltatni, amelynek benyújtója a hegyközségi járulékot megfizette, illetve adatszolgáltatási kötelezettségét teljesítette.
 
 [^11]: Az 5. § a 21/2020. (VI. 19.) AM rendelet 17. § (6) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 34/2020. (VI. 29.) AM rendelet 8. § b) pontja szerint módosított szöveg.
+[^13]: Az 5. § (6) bekezdés a) pont ad) alpontja a 34/2020. (VI. 29.) AM rendelet 8. § c) pontjával megállapított szöveg.
