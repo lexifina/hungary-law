@@ -1,12 +1,12 @@
-## foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
+## 9. §[^13]
 
 ## Záró rendelkezések
 
 10. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba. Rendelkezéseit a hatálybalépést követően kezdeményezett eljárások esetében kell alkalmazni.
 
-(2)[^15]
+(2)[^14]
 
-Melléklet a 78/1997. (XII. 30.) IKIM rendelethez[^16]
+Melléklet a 78/1997. (XII. 30.) IKIM rendelethez[^15]
 
 Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárási díjai
 
@@ -472,5 +472,6 @@ Hitelesítésre kötelezett mérőeszközök hitelesítési és egyéb eljárás
 
 | 230. | 22211 | Hitelesítési bizonyítvány kiadása (a kötelezően elő nem írt esetekben) | db | 0,15 |
 
-[^15]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 9. pontja hatályon kívül helyezte.
-[^16]: A melléklet a 18/2019. (VII. 18.) ITM rendelet 3. §-ával megállapított szöveg.
+[^13]: Az „A fellebbezési eljárás díja” alcímet (9. §) a 22/2020. (VI. 29.) ITM rendelet 5. §-a hatályon kívül helyezte.
+[^14]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 9. pontja hatályon kívül helyezte.
+[^15]: A melléklet a 18/2019. (VII. 18.) ITM rendelet 3. §-ával megállapított szöveg.
