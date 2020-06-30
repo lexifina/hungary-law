@@ -32,6 +32,6 @@
 
 | 6. | a lajstrom adataiban igazolt változás miatti módosítás, lajstromból és ideiglenes lajstromból történő törlés és a változás bejegyzésének tanúsítása | 17 000 |
 
-3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^23]
+3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^22]
 
-[^23]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (3) bekezdése szerint módosított szöveg.
