@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-4-20-85
 | 2011-01-01 | 2002-4-20-85.4 | 27/2010. (XII. 31.) NGM rendelet |
 | 2015-04-01 | 2002-4-20-85.5 | 27/2010. (XII. 31.) NGM rendelet |
 | 2017-01-01 | 2002-4-20-85.6 | 27/2010. (XII. 31.) NGM rendelet |
+| 2020-06-30 | 2002-4-20-85.7 | 27/2010. (XII. 31.) NGM rendelet |
