@@ -1,0 +1,9 @@
+# 1349/2020. (VI. 30.) Korm. határozat
+
+egyes települési önkormányzatok fejlesztési feladatainak támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1349-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-06-30 | 2020-1349-30-22.1 | 1349/2020. (VI. 30.) Korm. határozat |
