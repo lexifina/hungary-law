@@ -26,6 +26,6 @@
 
 ## 1 A belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásairól szóló 14/2001. (IV. 20.) KöViM rendelet, valamint az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló 49/2001. (XII. 22.) KöViM rendelet.
 
-2. számú melléklet a 44/2004. (IV. 13.) GKM rendelethez[^6]
+2. számú melléklet a 44/2004. (IV. 13.) GKM rendelethez[^5]
 
-[^6]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének i) pontja hatályon kívül helyezte.
+[^5]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének i) pontja hatályon kívül helyezte.
