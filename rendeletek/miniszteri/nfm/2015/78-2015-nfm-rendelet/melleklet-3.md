@@ -14,6 +14,6 @@
 
 | 6. | Előzetes szakhatósági állásfoglalás adása | az irányadó díjtétel 100 %-a | az irányadó eljárás kódszáma |
 
-3. melléklet a 78/2015. (XII. 30.) NFM rendelethez[^16]
+3. melléklet a 78/2015. (XII. 30.) NFM rendelethez[^17]
 
-[^16]: A 3. melléklet az 1/2017. (I. 3.) NFM rendelet 68. § (1) bekezdése, a 12/2017. (IV. 24.) NFM rendelet 11. §-a szerint módosított szöveg.
+[^17]: A 3. melléklet az 1/2017. (I. 3.) NFM rendelet 68. § (1) bekezdése, a 12/2017. (IV. 24.) NFM rendelet 11. §-a szerint módosított szöveg.
