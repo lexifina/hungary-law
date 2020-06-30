@@ -12,6 +12,8 @@
 
 (6) Az akcióbejelentő késedelmes benyújtása esetén a Kincstár a támogatás összegét a késedelem minden egyes napja után a költségtípusonként megítélhető támogatási összeg 1/10 részével, míg Magyarországon megvalósított akció esetén 1/5 részével csökkenti. A csökkentés alapját az az összeg képezi, amelyre a kérelmező a bejelentés határidőben történő benyújtása esetén lett volna jogosult.
 
-(7) Az akciók megvalósításának akcióbejelentő lapon feltüntetett költsége az akció programjavaslatban jóváhagyott költségvetésétől legfeljebb +20%-kal vagy –30%-kal térhet el (a továbbiakban: költségeltérés). A költségeltérés nem okozhatja a jóváhagyott teljes támogatási összeg változását. A költségeltérés nem okozhatja a költségtípusok határértékeinek túllépését.
+(7)[^3] Az akciók megvalósításának költsége az akció programjavaslatban jóváhagyott költségvetésnél legfeljebb 20%-kal több vagy 30%-kal kevesebb összegű lehet (a továbbiakban: költségeltérés), feltéve, hogy az nem jár a jóváhagyott teljes támogatási összeg változásával vagy a költségtípusok határértékeinek túllépésével.
 
 (8) A költségeltérést indokolni kell. Az indokolást a kifizetési kérelemhez kell mellékelni.
+
+[^3]: A 14. § (7) bekezdése a 34/2020. (VI. 29.) AM rendelet 12. §-ával megállapított szöveg.

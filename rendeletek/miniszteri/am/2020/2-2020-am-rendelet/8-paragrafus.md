@@ -1,6 +1,12 @@
 ## 6. A programjavaslat benyújtása
 
-8. § (1) A programjavaslat jóváhagyása iránti kérelmet a programjavaslattal és mellékleteivel együtt a miniszter részére postai úton, a minisztérium honlapján közzétett nyomtatványon egy eredeti és egy másolati példányban, valamint egy példányban elektronikus adathordozón 2020. március 12. és 2020. április 30. között kell a minisztériumhoz benyújtani. A programjavaslat benyújtási napjának a programjavaslat postára adásának napját kell tekinteni.
+8. § (1)[^1] A programjavaslat jóváhagyása iránti kérelmet a programjavaslattal és mellékleteivel együtt a miniszter részére postai úton, a minisztérium honlapján közzétett nyomtatványon egy eredeti és egy másolati példányban, valamint egy példányban elektronikus adathordozón
+
+a) 2020. március 12. és 2020. április 30. között (a továbbiakban: első benyújtási időszak) vagy
+
+b) 2020. október 19. és 2020. november 2. között (a továbbiakban: második benyújtási időszak)
+
+## kell a minisztériumhoz benyújtani azzal, hogy a programjavaslat benyújtási napjának a programjavaslat postára adásának napját kell tekinteni.
 
 (2) A programjavaslatnak tartalmaznia kell
 
@@ -25,3 +31,5 @@ i) annak bemutatását, hogy a kérelmező megfelelő mennyiségű és minőség
 j) annak részletes bemutatását, hogy a kérelmező korábban milyen promóciós tevékenységet végzett az Európai Unió területén, illetve végez jelenleg a programjavaslatban érintett földrajzi árujelzőkkel kapcsolatban, és
 
 k) annak részletes bemutatását, hogy a kérelmező mely földrajzi árujelzőt és mely borászati terméket kívánja népszerűsíteni.
+
+[^1]: A 8. § (1) bekezdése a 34/2020. (VI. 29.) AM rendelet 10. §-ával megállapított szöveg.
