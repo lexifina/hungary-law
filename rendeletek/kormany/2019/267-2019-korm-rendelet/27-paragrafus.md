@@ -1,3 +1,1 @@
-## 26. §[^26]
-
-[^26]: A 26. § a 28. § (2) bekezdése alapján 2020. június 30-án lép hatályba.
+## „(5) Az Emberi Erőforrások Minisztériuma és az EMET között, a társadalmi felzárkózással kapcsolatos költségvetési támogatások felhasználásának lebonyolítása vonatkozásában létrejött, 2020. június 30-ig nem teljesített lebonyolító szervi megállapodások esetében az EMET jogai és kötelezettségei tekintetében 2020. július 1-től a Főigazgatóság az EMET jogutódja.”

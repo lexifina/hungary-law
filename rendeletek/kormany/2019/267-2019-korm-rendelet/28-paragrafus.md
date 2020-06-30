@@ -1,4 +1,4 @@
-## 27. §[^27]
+## 27. §[^26]
 
 ## 15. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 26. § 2020. június 30-án lép hatályba.
 
-[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
