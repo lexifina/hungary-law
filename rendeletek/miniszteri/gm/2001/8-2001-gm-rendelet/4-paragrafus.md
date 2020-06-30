@@ -1,4 +1,4 @@
-## 3. §[^3] A Szabályzatban foglalt műszaki-biztonsági rendelkezések felügyeletét első fokon a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság), másodfokon a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala látja el.
+## 3. §[^3] A Szabályzatban foglalt műszaki-biztonsági rendelkezések felügyeletét a műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: Hatóság) látja el.
 
 ## 4. §[^4] A Hatóság ellenőrzési hatásköre kiterjed:
 
@@ -10,5 +10,5 @@ c) a jogszabályokban és szabályzatokban előírt műszaki-biztonsági felülv
 
 d) a villamosmű üzemi személyzetére vonatkozó képzési és feljogosítási előírások betartásának ellenőrzésére.
 
-[^3]: A 3. § a 62/2016. (XII. 29.) NGM rendelet 7. §-ával megállapított szöveg.
+[^3]: A 3. § a 22/2020. (VI. 29.) ITM rendelet 12. §-ával megállapított szöveg.
 [^4]: A 4. § nyitó szövegrésze a 27/2010. (XII. 31.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
