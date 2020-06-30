@@ -1,3 +1,3 @@
-18. melléklet a 22/2020. (VI. 26.) EMMI rendelethez[^36]
+18. melléklet a 22/2020. (VI. 26.) EMMI rendelethez[^38]
 
-[^36]: A 18. melléklet a 8. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^38]: A 18. melléklet a 8. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
