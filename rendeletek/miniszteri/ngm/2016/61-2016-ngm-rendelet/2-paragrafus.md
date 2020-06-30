@@ -10,9 +10,9 @@ b) a hatósági eljárás megindítására irányuló kérelmének előterjeszt�
 
 (4) Ha az ügyfél készpénzátutalási megbízással kívánja teljesíteni az igazgatási szolgáltatási díjat, az ügyben eljáró hatóság az ügyfél részére számlát állít ki, melynek melléklete a készpénzátutalási megbízás.
 
-(5) Ha a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél tévesen vagy az e rendeletben meghatározott mértéket meghaladóan fizetett díjat, a Kormányhivatal a téves befizetés, illetve a díjtöbblet visszatérítéséről az ügyfél számlavezető pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, legkésőbb az önálló fellebbezéssel támadható döntést követő nyolc napon belül, átutalási megbízás útján intézkedik.
+(5)[^3] Ha a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél tévesen vagy az e rendeletben meghatározott mértéket meghaladóan fizetett díjat, a Kormányhivatal a téves befizetés, illetve a díjtöbblet visszatérítéséről az ügyfél számlavezető pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, átutalási megbízás útján intézkedik.
 
-(6)[^3]
+(6)[^4]
 
 (7) Ha jogszabály a hatósági eljárás elektronikus úton történő kezdeményezését nem zárja ki, a díjat az eljárás kezdeményezését követően, átutalási megbízás útján kell megfizetni. Az ügyfélnek az átutalási megbízás „Közlemény” rovatában fel kell tüntetnie a központi elektronikus szolgáltató rendszer által adott 27 jegyű érkeztető számot. Ez esetben a díjat legkésőbb – a (2) bekezdés b) pontja szerinti – díjbekérőben foglaltak ügyfél általi megismerését követő három napon kell megfizetnie. Az elektronikus közszolgáltatás igénybevételével kezdeményezett eljárással kapcsolatos fizetési kötelezettségek teljesítésére egyebekben az elektronikus közszolgáltatásról és annak igénybevételéről szóló kormányrendeletben foglalt rendelkezéseket kell alkalmazni.
 
@@ -21,4 +21,5 @@ b) a hatósági eljárás megindítására irányuló kérelmének előterjeszt�
 (9) A Kormányhivatal a díjat egyéb bevételeitől elkülönítve tartja nyilván és kezeli.
 
 [^2]: A 2. § (2) bekezdés a) pontját az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^3]: A 2. § (6) bekezdését az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^3]: A 2. § (5) bekezdése a 22/2020. (VI. 29.) ITM rendelet 25. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (6) bekezdését az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés b) pontja hatályon kívül helyezte.

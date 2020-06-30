@@ -1,4 +1,4 @@
-1. melléklet a 61/2016. (XII. 29.) NGM rendelethez[^8]
+1. melléklet a 61/2016. (XII. 29.) NGM rendelethez[^9]
 
 A műszaki biztonsági, valamint a műszaki biztonsági hatóság hatáskörébe utalt építésügyi hatósági eljárásokért fizetendő igazgatási szolgáltatási díj mértéke
 
@@ -316,7 +316,7 @@ D) Egyéb, a nyomástartó berendezésekkel kapcsolatos eljárási díjak
 
 | 4. Veszélyes anyagok csomagolóeszközei |  |
 
-| 4.1. Csomagolóeszközök engedélyezésével kapcsolatos eljárások, típusonként | 40 500 Ft |
+| 4.1. |  |
 
 | 4.2. Összetett (konténeres) csomagolóeszközök vizsgálataival kapcsolatos eljárások | 58 000 Ft |
 
@@ -774,7 +774,7 @@ Egyéb építményfajták építésének engedélyezése (a műszaki-biztonsági
 
 | 2. | Határidő meghosszabbítása iránti eljárás díja | 28 000 Ft |
 
-| 3. | A gázszerelők nyilvántartásáról szóló jogszabály szerinti nyilvántartásba történő bejegyzésnek, a nyilvántartott adatokban bekövetkezett változások bejegyzésének, igazolvány pótlásának, cseréjének és hosszabbításának a díja | 7 500 Ft |
+| 3. |  |  |
 
 11. A felvonók, mozgólépcsők és mozgójárdák engedélyezéséért és a nyilvántartásba vételért fizetendő igazgatási szolgáltatási díjak
 
@@ -790,4 +790,4 @@ Egyéb építményfajták építésének engedélyezése (a műszaki-biztonsági
 
 4. a felvonó- és mozgólépcső ellenőri továbbképzés felkészítő tanfolyam és képzési program jóváhagyásának díja 11 000 Ft.
 
-[^8]: Az 1. melléklet a 14/2018. (IX. 4.) ITM rendelet 14. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet a 14/2018. (IX. 4.) ITM rendelet 14. §-a, a 22/2020. (VI. 29.) ITM rendelet 25. § c)–d) pontja szerint módosított szöveg.

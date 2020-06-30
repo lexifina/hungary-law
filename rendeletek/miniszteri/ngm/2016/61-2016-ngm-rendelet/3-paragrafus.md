@@ -12,6 +12,6 @@ e) a díjfizetés törlésére és visszatérítésére az Itv. 80. § (1) bekez
 
 ## foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
-(2)[^4]
+(2)[^5]
 
-[^4]: A 3. § (2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^5]: A 3. § (2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 28. § (2) bekezdés c) pontja hatályon kívül helyezte.
