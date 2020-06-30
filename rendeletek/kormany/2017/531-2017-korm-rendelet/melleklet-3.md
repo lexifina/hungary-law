@@ -92,8 +92,4 @@
 
 32. a Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdés a) és b) pontja szerinti beruházás,
 
-33. a Budapest I. kerület, Nándor utca 5–7. szám alatti irodaépület felújításával, átalakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról, valamint a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet módosításáról szóló 336/2016. (XI. 11.) Korm. rendelet szerinti beruházás,
-
-34. az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet szerinti beruházás,
-
 [^2]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
