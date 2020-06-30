@@ -12,7 +12,7 @@ bc) a Repülőtéri Rendőr Igazgatóság, a megyei (fővárosi) rendőr-főkapi
 
 bd) a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) megyei (fővárosi) adó- és vámigazgatósága, másodfokon a NAV Fellebbviteli Igazgatósága,
 
-be)[^4] a fővárosi és megyei kormányhivatal munkaügyi hatósági hatáskörében eljáró járási (fővárosi kerületi) hivatala,
+be)[^4] a munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
 bf) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 4/A. §-a szerinti hivatásos katasztrófavédelmi szerv,
 
@@ -21,4 +21,4 @@ bg) a közterület-felügyelet,
 c) az 1. § c)–e) pontja alapján a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben kijelölt közlekedési hatóság
 
 [^3]: A 2. § az 1/2017. (I. 3.) NFM rendelet 61. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § b) pont be) alpontja az 55/2017. (XII. 27.) NFM rendelet 47. §-ával megállapított szöveg.
+[^4]: A 2. § b) pont be) alpontja a 22/2020. (VI. 29.) ITM rendelet 22. § (1) bekezdésével megállapított szöveg.

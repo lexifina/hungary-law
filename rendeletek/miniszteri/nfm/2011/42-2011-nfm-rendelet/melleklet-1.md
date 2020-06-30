@@ -104,8 +104,8 @@
 
 | 23. | ORFK Objektív felelősségen alapuló központosított bírságbevételek | 10032000-01040061-00000000 |
 
-5. A Nemzetgazdasági Minisztérium számlaszáma: 10032000-01460658-00000000
+5. A Pénzügyminisztérium számlaszáma: 10032000-01460658-00000000
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla.
 
-[^23]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^23]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése szerint módosított szöveg.

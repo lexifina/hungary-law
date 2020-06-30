@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-42-20-2
 | 2017-11-08 | 2011-42-20-2W.12 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2011-42-20-2W.13 | 55/2017. (XII. 27.) NFM rendelet |
 | 2019-11-05 | 2011-42-20-2W.14 | 31/2019. (XI. 4.) AB határozat |
+| 2020-06-30 | 2011-42-20-2W.15 | 22/2020. (VI. 29.) ITM rendelet |
