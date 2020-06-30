@@ -36,7 +36,7 @@ b) a borászati termékek átvételi árának megfizetését igazoló dokumentum
 
 c) az átvett borászati termékekre vonatkozó forgalombahozatali engedély másolatát és
 
-d) a tárolótartály-nyilvántartás másolatát, azon feltüntetve a tárolótartályok hitelesítési engedélyének számát és időbeli hatályát.
+d)[^3] a tárolótartály-nyilvántartás másolatát.
 
 (6) A lepárlóüzem az 1. mellékletben meghatározott támogatási összeg 20%-ának igénylésére jogosult, ha a lepárlásra szánt borászati terméket lepárolta, és a (7) bekezdés szerinti támogatási kérelmét benyújtotta.
 
@@ -116,7 +116,7 @@ ac) székhelyét,
 
 ad) kapcsolattartási információit,
 
-b) a lepárlás helyét (cím, helyrajzi szám),
+b)[^4] az átvett borászati termék mennyiségét hektoliterben,
 
 c) a lepárlás alábbi adatait:
 
@@ -168,8 +168,12 @@ dd) az előállított ipari és gyógyászati célú nyers alkohol mennyiségét
 
 de) az előállított ipari és gyógyászati célú nyers alkohol alkoholtartalmát térfogatszázalékban, valamint térfogatszázalék/hektoliterben kifejezve,
 
-e) a tárolótartály-nyilvántartás másolatát, azon feltüntetve a tárolótartályok hitelesítési engedélyének számát és időbeli hatályát,
+e)[^5] a tárolótartály-nyilvántartás másolatát,
 
 f) az átvett borászati termékekre vonatkozó forgalombahozatali engedély másolatát és
 
 g) a jövedéki vhr. 49. §-a szerint kérelmezett helyszíni szemléről készült jegyzőkönyvet.
+
+[^3]: A 8. § (5) bekezdés d) pontja a 34/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^4]: A 8. § (10) bekezdés b) pontja a 34/2020. (VI. 29.) AM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^5]: A 8. § (11) bekezdés e) pontja a 34/2020. (VI. 29.) AM rendelet 21. § (3) bekezdésével megállapított szöveg.

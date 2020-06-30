@@ -58,7 +58,7 @@ c) az átvett borászati termékért legalább a támogatási összeggel megegye
 
 d) az átvételi árat az átvétel napját követő hetven napon belül megfizeti,
 
-e) az átvett borászati termékeket a Kincstár közleményében közzétett időpontig lepárolja,
+e)[^1] az átvett borászati terméket 2020. szeptember 25-éig lepárolja,
 
 f) a krízislepárlással előállított nyers alkoholt kizárólag ipari vagy gyógyászati felhasználásra értékesíti vagy hasznosítja,
 
@@ -73,3 +73,5 @@ a) a lepárlási vállalását és
 b) arra vonatkozó kötelezettségvállalását, hogy a lepárlási vállalását a Kincstár közleményében közétett időpontig lepárolja.
 
 (11) Ha a jogos igények együttesen meghaladják a (2) bekezdésben meghatározott keretösszeget, akkor a rendelkezésre álló forrást a benyújtott támogatási kérelmekben foglalt jogos igények között egyenlő arányban kell felosztani.
+
+[^1]: A 2. § (9) bekezdés e) pontja a 34/2020. (VI. 29.) AM rendelet 19. §-ával megállapított szöveg.
