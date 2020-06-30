@@ -1,0 +1,3 @@
+11. § (1) Ha az öntözési közösség vagy a 2019. évi CXIII. törvény 10. § (1) bekezdésében meghatározott mezőgazdasági termelő környezeti körzeti terv elkészítését kéri az öntözési igazgatási szervtől, akkor a 3. mellékletben meghatározott adatokat kell benyújtania az öntözési igazgatási szervnek, kivéve azokat, amelyek már korábban benyújtásra kerültek.
+
+(2) Ha az öntözési közösség vagy a 2019. évi CXIII. törvény 11. § (1) bekezdés b) vagy c) pontjában meghatározott mezőgazdasági termelő a vízjogi engedélyezési eljárás során kéri az öntözési igazgatási szerv képviseletét, akkor meghatalmazást kell adnia az öntözési igazgatási szervnek.

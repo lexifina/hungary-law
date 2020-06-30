@@ -1,0 +1,3 @@
+9. § (1) Az öntözési közösség a 2. mellékletben meghatározott adatokban bekövetkezett változások tényéről és tartalmáról, valamint az agrárkár-megállapító szerv részére bejelentett káreseményekről azok bekövetkezésétől számított 30 napon belül tájékoztatja az öntözési igazgatási szerv útján a minisztert, és kezdeményezi az elismerés módosítását.
+
+(2) Ha a miniszter az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: 2019. évi CXIII. törvény) alapján felfüggeszti az öntözési közösség elismerését, akkor a felfüggesztés időtartama alatt az öntözési közösség nem kezdeményezheti a környezeti körzeti terv elkészítését, valamint az öntözési igazgatási szerv közreműködését a vízjogi engedélyezési eljárásban.
