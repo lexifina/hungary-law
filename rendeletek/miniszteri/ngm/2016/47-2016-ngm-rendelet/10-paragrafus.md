@@ -13,3 +13,5 @@ b) a vállalt darabszámú terminál telepítését és üzemeltetését tényle
 c) az általa telepített és üzemeltett terminál nem felel meg a 4. § szerinti követelményeknek,
 
 d) neki felróható egyéb okból jogosulatlanul vett igénybe támogatást,
+
+a támogatás jogosulatlan igénybevételét, valamint az 5. § (4) és (5) bekezdése szerinti jogkövetkezményeket a szolgáltató terhére állapítja meg.

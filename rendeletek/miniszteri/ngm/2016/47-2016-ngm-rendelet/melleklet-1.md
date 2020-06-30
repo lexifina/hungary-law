@@ -1,6 +1,6 @@
 1. melléklet a 47/2016. (XII. 6.) NGM rendelethez
 
-## Nyilatkozat a csekély összegű támogatás igénybevételéhez
+Nyilatkozat a csekély összegű támogatás igénybevételéhez
 
 1. Az elfogadóhelyet üzemeltető vállalkozó vagy vállalkozás (a továbbiakban: kedvezményezett) adatai
 

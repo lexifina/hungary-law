@@ -6,7 +6,7 @@ a)[^10] 2017. november 30-ig elektronikusan az eAdaton keresztül és
 
 b) az a) pont szerinti elektronikus kérelem benyújtását követő 7 napon belül – a 3. § (8) bekezdés c) pontja szerinti aláírással ellátott – papír alapon
 
-## kell a kezelő szerv részére benyújtani.
+kell a kezelő szerv részére benyújtani.
 
 (3) A kérelmek elbírálása az elektronikus formában benyújtás sorrendjében történik. A kérelem akkor tekinthető benyújtottnak, amikor az az eAdaton rögzítésre került.
 
