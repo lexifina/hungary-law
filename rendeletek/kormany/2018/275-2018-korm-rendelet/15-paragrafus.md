@@ -1,1 +1,0 @@
-## 14. § Amennyiben a 9. § (2) bekezdése alapján benyújtott elszámolás alapján igazolt többlettámogatásra vonatkozó jogosultság merül fel, a többlettámogatást a támogatói okirat módosításával kell biztosítani.
