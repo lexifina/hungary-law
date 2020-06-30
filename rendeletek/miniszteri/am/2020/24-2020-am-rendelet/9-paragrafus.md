@@ -1,0 +1,1 @@
+## 8. § A miniszter visszavonja a termelői integrációs szervezet elismerését – egy vagy több ágazatra vonatkozóan –, ha az elismerésnél figyelembe vett, illetve az elismerést követő egy éven belül elérendő feltételek nem teljesülnek, és a termelői integrációs szervezet ezt az állapotot az erre irányuló felhívásban meghatározott észszerű határidőn belül sem szünteti meg.

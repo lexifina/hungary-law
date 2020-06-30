@@ -1,0 +1,3 @@
+3. § (1) A termelői integrációs szervezet – az 1308/2013/EU európai parlamenti és tanácsi rendelet 156. cikke alapján történő elismerés céljából – más termelői integrációs szervezettel történő társulás révén új szervezetet hozhat létre, ha az összesített forgalmazott termékük mennyisége meghaladja a 2. § (3) bekezdésében és (5) bekezdése b) és c) pontjában megállapított mennyiség, illetve a 2. § (5) bekezdés a) pontjában megállapított terület ötszörösét.
+
+(2) A termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet alapján elismert termelői csoportok által létrehozott szervezet kérheti termelői integrációs szervezetek társulásaként történő elismerését, ha megfelel az e rendeletben foglalt követelményeknek.
