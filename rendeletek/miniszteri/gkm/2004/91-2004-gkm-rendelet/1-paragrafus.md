@@ -10,12 +10,14 @@ d)[^2] IV. fejezete a közúti közlekedésben használt menetíró készüléke
 
 igazgatási szolgáltatási díjait tartalmazza.
 
-(2) Az 1. számú mellékletben meghatározott első fokú eljáráshoz kapcsolódó másodfokú eljárás díja megegyezik az első fokú eljárás díjával, amelyet a fellebbezés benyújtásával egyidejűleg kell a másodfokon eljáró hatóság számlájára befizetni.
+(2)[^3]
 
-(3) Ha a másodfokon eljáró hatóság megállapítja, hogy az első fokú határozat jogszabálysértő volt, a fellebbezési eljárás díját vissza kell téríteni. Erről a másodfokú hatóság határozatában rendelkezik.
+(3)[^4]
 
-(4)[^3] Az újrafelvételi eljárás díja megegyezik az első fokú eljárás díjával.
+(4)[^5]
 
 [^1]: Az 1. § (1) bekezdése a 81/2009. (XII. 29.) KHEM rendelet 1. §-ával megállapított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
 [^2]: Az 1. § (1) bekezdés d) pontja a 75/2015. (XII. 29.) NFM rendelet 9. §-ával megállapított, a 74/2016. (XII. 29.) NFM rendelet 2. §-a szerint módosított szöveg.
-[^3]: Az 1. § (4) bekezdését a 86/2005. (X. 21.) GKM rendelet 27. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdését a 22/2020. (VI. 29.) ITM rendelet 17. §-a hatályon kívül helyezte.
+[^4]: Az 1. § (3) bekezdését a 22/2020. (VI. 29.) ITM rendelet 17. §-a hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdését a 86/2005. (X. 21.) GKM rendelet 27. §-a iktatta be, hatályon kívül helyezte a 22/2020. (VI. 29.) ITM rendelet 17. §-a.

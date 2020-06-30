@@ -1,6 +1,6 @@
-## 10. §[^21] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 10. §[^23] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^22]
+1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^24]
 
 I. FEJEZET
 
@@ -150,5 +150,5 @@ IV. FEJEZET
 
 A MENETÍRÓ KÉSZÜLÉKRŐL SZÓLÓ MINISZTERI RENDELETBEN MEGHATÁROZOTT HATÓSÁGI ELJÁRÁSOK IGAZGATÁSI SZOLGÁLTATÁSI DÍJAI
 
-[^21]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
-[^22]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a, a 12/2017. (IV. 24.) NFM rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^23]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
+[^24]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a, a 12/2017. (IV. 24.) NFM rendelet 6. § (7) bekezdése szerint módosított szöveg.
