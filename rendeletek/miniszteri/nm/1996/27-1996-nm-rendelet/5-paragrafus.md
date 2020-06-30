@@ -12,7 +12,7 @@
 
 (5)[^26] Halálos kimenetelű vagy tömeges foglalkozási megbetegedés kivizsgálásába a munkavédelmi hatóság az (1)–(2) bekezdésben foglaltakon túl bevonja
 
-a)[^27] növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatalát;
+a)[^27] növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalt;
 
 b) a biológiai kóroki tényező okozta megbetegedés esetén a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási hivatalát;
 
@@ -56,7 +56,7 @@ d) külső szakértőt igénybe venni.
 
 (9)[^34] Betegség esetén, annak foglalkozási megbetegedésként történő elfogadásáról a munkahigiénés és foglalkozás-egészségügyi szerv 30 napon belül tájékoztatja a munkavédelmi hatóságot.
 
-(9a)[^35] A munkavédelmi hatóság az elfogadott foglalkozási betegségről 5 napon belül értesíti a társadalombiztosítási kifizetőhelyet, ennek hiányában a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatalt. Az alkalmazandó értesítési nyomtatványt a munkavédelmi hatóság a miniszter hivatalos honlapján közzéteszi. Az értesítés tartalmazza:
+(9a)[^35] A munkavédelmi hatóság az elfogadott foglalkozási betegségről 5 napon belül értesíti a társadalombiztosítási kifizetőhelyet, ennek hiányában az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatalt. Az alkalmazandó értesítési nyomtatványt a munkavédelmi hatóság a miniszter hivatalos honlapján közzéteszi. Az értesítés tartalmazza:
 
 a) az érintett munkavállaló nevét, nemét, TAJ számát, születési helyét, idejét, anyja nevét, lakóhelyét vagy tartózkodási helyét,
 
@@ -74,7 +74,7 @@ a) a munkavállalónak, halált okozó foglalkozási megbetegedés esetén a hoz
 
 b) a foglalkozás-egészségügyi szolgálat orvosának, továbbá
 
-c) TAJ számmal ellátva és a bejelentőlappal, valamint a munkahigiénés és foglalkozás-egészségügyi szerv tájékoztatásával együtt a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatal részére
+c)[^39] TAJ számmal ellátva és a bejelentőlappal, valamint a munkahigiénés és foglalkozás-egészségügyi szerv tájékoztatásával együtt az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal részére
 
 ## küldi meg.
 
@@ -86,7 +86,7 @@ c) TAJ számmal ellátva és a bejelentőlappal, valamint a munkahigiénés és 
 [^24]: A 5. § (2) bekezdése az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés g) pontja, a 10/2019. (IX. 4.) PM rendelet 12. § b) pontja, 13. § c) pontja szerint módosított szöveg.
 [^25]: Az 5. § (3) bekezdése a 10/2019. (IX. 4.) PM rendelet 12. § c) pontja szerint módosított szöveg.
 [^26]: Az 5. § (5) bekezdése a 9/2015. (III. 31.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 10/2019. (IX. 4.) PM rendelet 12. § d) pontja szerint módosított szöveg.
-[^27]: Az 5. § (5) bekezdés a) pontja a 62/2016. (XII. 29.) NGM rendelet 48. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^27]: Az 5. § (5) bekezdés a) pontja a 22/2020. (VI. 29.) ITM rendelet 4. § b) pontja szerint módosított szöveg.
 [^28]: Az 5. § (5) bekezdés c) pontja a 62/2016. (XII. 29.) NGM rendelet 48. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^29]: Az 5. § (6) bekezdése a 10/2019. (IX. 4.) PM rendelet 13. § d) pontja szerint módosított szöveg.
 [^30]: Az 5. § (7) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (3) bekezdésével megállapított szöveg.
@@ -94,7 +94,8 @@ c) TAJ számmal ellátva és a bejelentőlappal, valamint a munkahigiénés és 
 [^32]: A 5. § (8) bekezdés nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés g) pontja, a 62/2016. (XII. 29.) NGM rendelet 48. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^33]: Az 5. § (8) bekezdés c) pontja a 9/2015. (III. 31.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^34]: Az 5. § (9) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^35]: Az 5. § (9a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be.
+[^35]: Az 5. § (9a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be, nyitó szövegrésze a 22/2020. (VI. 29.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
 [^36]: Az 5. § (9b) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be.
 [^37]: Az 5. § (9c) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (6) bekezdése iktatta be.
 [^38]: Az 5. § (10) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (7) bekezdésével megállapított szöveg.
+[^39]: Az 5. § (10) bekezdés c) pontja a 22/2020. (VI. 29.) ITM rendelet 4. § d) pontja szerint módosított szöveg.
