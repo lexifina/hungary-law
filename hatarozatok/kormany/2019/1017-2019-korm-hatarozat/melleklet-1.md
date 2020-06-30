@@ -1,6 +1,6 @@
 ## 1. egyetért a Pécsi Sport Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: PSN Zrt.) sportcélú működéséhez nyújtandó költségvetési támogatás biztosításával;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti támogatási cél megvalósításához 890 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 29. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása jogcímcsoport javára, az 1. melléklet szerint;
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti támogatási cél megvalósításához 890 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 29. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása jogcímcsoport javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. január 31.
 
 ## 3. egyetért azzal, hogy a 2. pont alapján biztosított forrás terhére a PSN Zrt. részére az emberi erőforrások minisztere – külön pályázat és kérelem benyújtása nélkül, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatási előlegként – 2020. június 30-ig történő elszámolási kötelezettséggel támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
 
@@ -89,3 +89,5 @@
 | Magyar Államkincstár 1 példány |  |  | egyéb: |  | azonnal |  | 890 000 000 |  |  |  |  |  |  |  |  | 890 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1348/2020. (VI. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
