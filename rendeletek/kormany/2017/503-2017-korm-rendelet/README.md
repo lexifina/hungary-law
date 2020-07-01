@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-503-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-503-20-22.1 | 503/2017. (XII. 29.) Korm. rendelet |
+| 2020-07-01 | 2017-503-20-22.2 | 146/2020. (IV. 22.) Korm. rendelet |
