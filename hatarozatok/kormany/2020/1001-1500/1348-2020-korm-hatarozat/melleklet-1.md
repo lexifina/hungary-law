@@ -36,16 +36,11 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 2. pont
+## 2.[^1]
 
-## a) ea) alpontjában a „226 000 000 forint” szövegrész helyébe a „118 000 000 forint” szöveg,
-
-## b) eb) alpontjában a „62 000 000 forint” szövegrész helyébe a „70 000 000 forint” szöveg,
-
-## c) ec) alpontjában a „225 000 000 forint” szövegrész helyébe a „325 000 000 forint” szöveg
-
-## lép.
-
-## 3. A Pécsi Sport Nonprofit Zártkörűen Működő Részvénytársaság sportcélú működéséhez szükséges forrás biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1017/2019. (I. 30.) Korm. határozat 2. pontjában a „2020. június 30.” szövegrész helyébe a „2021. január 31.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1348/2020. (VI. 30.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
