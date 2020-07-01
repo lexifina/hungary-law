@@ -1,1 +1,1 @@
-### 40/A. §
+40/A. § A megyei (fővárosi) rendőr-főkapitányság vezetője az illetékességi területén a szabálysértési eljárásban kiszabott pénzbírság és helyszíni bírság végrehajtása iránti eljárásra illetékes szabálysértési hatóság helyett más szabálysértési hatóság illetékességét is megállapíthatja.

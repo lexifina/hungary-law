@@ -8,7 +8,7 @@ b) az adatoknak a szabálysértési nyilvántartásokból a szabálysértési ny
 
 előírja.
 
-(2) Adatigénylés alapján kizárólag abban az esetben továbbítható adat, ha az adatigénylő közölte a következő adatokat:
+(2) Adatigénylés alapján – a (2a) bekezdésben meghatározott kivétellel – kizárólag abban az esetben továbbítható adat, ha az adatigénylő közölte a következő adatokat:
 
 a) annak a személynek, akire az adatigénylés vonatkozik
 
@@ -25,6 +25,14 @@ ae) az állampolgárságát,
 af)
 
 b) az adatigénylő pontos megnevezését és címét.
+
+(2a) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartásából történő adatigénylés teljesítéséhez
+
+a) az adatigénylő pontos megnevezését és címét,
+
+b) a gépjármű egyedi azonosító adatát
+
+kell közölni.
 
 (3) A szabálysértési nyilvántartó szerv az érintett kérelmére a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásában, valamint a szabálysértési eljárás hatálya alatt állók nyilvántartásában kezelt adatokra tekintettel, a kérelemben megjelölt körben, célra hatósági bizonyítványt állít ki.
 

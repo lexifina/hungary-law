@@ -40,7 +40,9 @@ d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak ala
 
 e) gyűlés a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés,
 
-f) nyilvános rendezvény a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.
+f) nyilvános rendezvény a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll,
+
+g) szexuális szolgáltatásra felajánlkozás: a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló törvény szerinti szexuális szolgáltatásra felajánlkozás.
 
 (3) E törvény
 

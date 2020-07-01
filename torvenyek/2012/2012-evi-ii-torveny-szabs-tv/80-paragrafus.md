@@ -12,7 +12,7 @@ d) a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgat
 
 e) elkobzás alkalmazása szükséges felelősségre vonás nélkül,
 
-f) a szabálysértés elévült.
+f) halál vagy elévülés folytán a büntethetőség megszűnt,
 
 g) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
 

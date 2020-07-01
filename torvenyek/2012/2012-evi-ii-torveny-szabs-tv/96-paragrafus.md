@@ -14,6 +14,6 @@ e) rövid indokolást, utalva a megállapított tényekre, az ezek alapjául szo
 
 f) utalást az érdemi döntés alapját képező jogszabályra;
 
-g) a határozathozatal helyét, idejét, a szabálysértési hatóság részéről eljáró személy aláírását és az eljáró hatóság bélyegző lenyomatát.
+g) a határozathozatal helyét, idejét, a szabálysértési hatóság részéről eljáró személy aláírását és az eljáró hatóság bélyegző vagy elektronikus bélyegző lenyomatát.
 
 (2) A szabálysértési hatóság egyéb határozatainak alaki és tartalmi követelményeire az (1) bekezdés rendelkezései megfelelően irányadóak.
