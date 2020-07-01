@@ -10,4 +10,4 @@ b) korlátozottan forgalomképesek a törzsvagyonhoz tartozó mindazon vagyonré
 
 (4) A nemzetiségi önkormányzat az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlannal a felelős gazdálkodás szabályai szerint gazdálkodik. Amennyiben az ettől eltérő gazdálkodás következményeként az ingatlan elzálogosításra vagy hitellel megterhelésre kerül, a nemzetiségi önkormányzat az államtól vagy a helyi önkormányzattól ingatlant ingyenes tulajdonba adással ismételten nem kaphat.
 
-(5) A fenntartói jog 24. § (1) bekezdése vagy 36. §-a szerinti átadása esetén – a nemzetiségpolitikáért felelős miniszter előzetes hozzájárulásával – a helyi önkormányzat és az országos nemzetiségi önkormányzat megállapodás alapján a köznevelési intézmény vagy a kulturális intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyon ingyenesen az országos nemzetiségi önkormányzat tulajdonába kerül.
+(5)

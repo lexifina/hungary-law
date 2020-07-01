@@ -28,6 +28,8 @@ a) az a szakképző intézmény, amelynek alapító okirata a szakképzésről s
 
 b) nemzetiségi többcélú szakképző intézményen a többcélú szakképző intézmény értendő;
 
+4b. nemzetiségi nevelésben-oktatásban részt vevő köznevelési intézmény: az a köznevelési intézmény, amelynek alapító okirata a nemzeti köznevelésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a köznevelési intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetén a tanulók huszonöt százalékánál kevesebben vesznek részt a nemzetiségi óvodai nevelésben, illetve a nemzetiségi iskolai nevelésben-oktatásban;
+
 5. nemzetiségi kulturális intézmény:
 
 olyan kulturális intézmény, amelynek jogszabályban, alapító okiratban előírt feladata a nemzetiségi identitáshoz kötődő tárgyi és szellemi kultúra, kulturális értékek, javak megőrzése, hozzáférhetővé tétele, hagyományok és a közösségi nyelvhasználat megőrzése, gyakorlása, terjesztése és továbbörökítése;
@@ -64,9 +66,7 @@ a nemzetiségi közösség anyanyelvén, elsősorban a közösség médiaműhely
 
 11. az intézmény alapításának joga magában foglalja az intézmény átvételének, átszervezésének és megszüntetésének jogát;
 
-12. hozzátartozó:
-
-az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
+12. hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozó;
 
 13. nemzetiségi köznevelésben alkalmazottak köre:
 
@@ -74,6 +74,6 @@ a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatá
 
 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában – a nemzetiségi önkormányzati választás évét megelőzően legalább 3 éve – rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
 
-15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó egyesület;
+15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó egyesület;
 
-16. nemzetiségi alapítvány: az alapító okirata szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó alapítvány.
+16. nemzetiségi alapítvány: az alapító okirata szerint adott nemzetiség érdekvédelmét, érdekképviseletét, a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó alapítvány.

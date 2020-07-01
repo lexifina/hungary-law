@@ -4,6 +4,6 @@ a) a szülőföldjén való zavartalan boldoguláshoz, a saját, a szülők, ős
 
 b) az óhazával való zavartalan kapcsolattartáshoz;
 
-c) képviselője útján részt venni az Országgyűlés nemzetiségek érdekeit, jogait érintő törvényalkotási munkájában.
+c) a nemzetiségi listáról mandátumot szerző képviselője vagy a nemzetiségi szószólója útján részt venni az Országgyűlés munkájában, különösen a nemzetiségek érdekeit, jogait érintő kérdésekben.
 
 (2) A nemzetiséghez tartozó személynek joga van mind az óhaza és a nyelvnemzetek állami és közösségi intézményeivel, mind a más országokban élő nemzetiségekkel való kapcsolattartásra.

@@ -1,4 +1,4 @@
-6. § (1) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során regisztrált aránya eléri a tíz százalékot, a helyi önkormányzat az illetékességi területén működő érintett települési nemzetiségi önkormányzat kérésére köteles biztosítani, hogy
+6. § (1) Azokon a településeken, ahol valamely nemzetiségnek a legutóbbi népszámlálás során regisztrált aránya eléri a tíz százalékot, a helyi önkormányzat az illetékességi területén működő érintett települési nemzetiségi önkormányzat kérésére köteles biztosítani, hogy
 
 a) rendeletének kihirdetése, hirdetményének közzététele – a magyar nyelven történő közzététel mellett – a nemzetiség anyanyelvén is megtörténjék,
 
@@ -8,10 +8,12 @@ c) a közhivatalok, közszolgáltatást végző szervek elnevezését feltüntet
 
 d) a helység- és utcaneveket megjelölő táblák feliratai a magyar nyelvű szövegezés és írásmód mellett a hagyományos nemzetiségi elnevezés a nemzetiség anyanyelvén, ennek hiányában a magyar nyelvű elnevezéssel azonos tartalmú és formájú elnevezés a nemzetiség anyanyelvén is olvashatóak legyenek.
 
-(2) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során regisztrált aránya eléri a húsz százalékot, az érintett települési nemzetiségi önkormányzat kérésére a helyi köztisztviselői és közalkalmazotti, valamint közjegyzői és bírósági végrehajtói állások betöltése során – az általános szakmai követelmények megtartása mellett – biztosítani kell az adott nemzetiség anyanyelvét is ismerő személy alkalmazását.
+(2)
 
-(3) Azokon a településeken, ahol valamely nemzetiségnek a népszámlálás során regisztrált aránya eléri a tíz százalékot és a településen nemzetiségi önkormányzat, vagy nemzetiségi egyesület működik, az érintett települési nemzetiségi önkormányzat, vagy nemzetiségi egyesület kérésére a helyi önkormányzat által fenntartott vagy finanszírozott médiaszolgáltató rendszeres nemzetiségi közszolgálati műsort biztosít az adott településen élő nemzetiségi közösség anyanyelvű tájékoztatása érdekében. A rendelkezés a helyi önkormányzat által kiadott vagy finanszírozott sajtótermékre is vonatkozik.
+(3) Azokon a településeken, ahol valamely nemzetiségnek a legutóbbi népszámlálás során regisztrált aránya eléri a tíz százalékot, a helyi önkormányzat által fenntartott vagy finanszírozott médiaszolgáltató – az illetékességi területén működő települési nemzetiségi önkormányzat kérésére – rendszeres nemzetiségi közszolgálati műsort biztosít az adott településen élő nemzetiségi közösség anyanyelvű tájékoztatása érdekében. A rendelkezés a helyi önkormányzat által kiadott vagy finanszírozott sajtótermékre is vonatkozik.
 
 (4) A (3) bekezdés szerint megvalósuló médiaszolgáltatással kapcsolatos kérdésekben ki kell kérni az érintett települési nemzetiségi önkormányzat, ennek hiányában a településen székhellyel rendelkező nemzetiségi egyesület véleményét.
 
-(5) Ha a településen nemzetiséghez tartozó személyek élnek – az érintett nemzetiség települési nemzetiségi önkormányzata, ennek hiányában települési székhelyű nemzetiségi szervezete, intézménye, vagy az adott nemzetiséghez tartozók kezdeményezésére – a képviselő-testület biztosíthatja az (1)–(4) bekezdés szerinti nyelvhasználati jogokat.
+(5) Az 5. § (5) és (6) bekezdése, valamint az (1)–(4) bekezdés szerinti nyelvhasználati jogok gyakorolhatóságát a települési nemzetiségi önkormányzat mellett a települési székhelyű nemzetiségi egyesület is kezdeményezheti.
+
+(6) Ha a településen, a legutóbbi népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint nemzetiséghez tartozó személyek élnek – az érintett nemzetiség települési nemzetiségi önkormányzata, települési székhelyű nemzetiségi egyesülete kezdeményezésére – a képviselő-testület biztosíthatja az 5. § (5) és (6) bekezdése, valamint az (1)–(4) bekezdés szerinti nyelvhasználati jogokat.

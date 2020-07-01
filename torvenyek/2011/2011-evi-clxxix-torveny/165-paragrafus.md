@@ -1,5 +1,1 @@
-165. § (1)–(4)
-
-(5)–(11)
-
-(12)
+165. § A 115. § (2) és (3) bekezdését első alkalommal a Módtv2. hatálybalépését követő nemzetiségi önkormányzati képviselők általános választása eredményeként létrejövő új helyi nemzetiségi önkormányzatokra kell alkalmazni.

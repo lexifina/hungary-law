@@ -4,7 +4,7 @@
 
 148. § (1) Az Országgyűlés feloszlatja azt a nemzetiségi önkormányzati testületet, amelynek működése Alaptörvény-ellenes.
 
-(2) Az Országgyűlés kizárólagos hatáskörébe tartozik a központi költségvetésről szóló törvényben a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében megállapított,
+(2) Az Országgyűlés kizárólagos hatáskörébe tartozik – a fejezetet irányító szervek vezetőinek a költségvetési fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítása kivételével – a központi költségvetésről szóló törvényben a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében megállapított,
 
 a) az országos nemzetiségi önkormányzatok működési támogatását,
 
@@ -14,7 +14,7 @@ c) az országos nemzetiségi önkormányzatok fenntartásában lévő intézmén
 
 d) a nemzetiségpolitikai tevékenység támogatását
 
-szolgáló előirányzatok évközi módosítása.
+szolgáló előirányzatok évközi csökkentése.
 
 (3) Ha az 1. mellékletben felsoroltakon kívül további nemzetiség kíván bizonyságot tenni arról, hogy megfelel a feltételeknek, legalább ezer, magát e nemzetiséghez tartozónak valló, a helyi önkormányzati képviselők és polgármesterek választásán szavazati joggal rendelkező magyar állampolgár választópolgár kezdeményezheti a nemzetiség Magyarországon honos népcsoporttá nyilvánítását. Az eljárás során a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvénynek az országos népszavazás kezdeményezésére vonatkozó rendelkezéseit kell alkalmazni, a (4) és (5) bekezdésben foglalt eltéréssel.
 

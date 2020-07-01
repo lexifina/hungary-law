@@ -1,6 +1,6 @@
 ## Az országos nemzetiségi önkormányzati hivatal vezetője
 
-123. § (1) Az országos nemzetiségi önkormányzat közgyűlése át nem ruházható hatáskörében, pályázat alapján, határozatlan időre, gazdaságtudományi, jogi, igazgatásszervezői, közigazgatási, államtudományi, vagy felsőoktatásban szerzett egyéb egyetemi vagy főiskolai végzettséggel és közigazgatási szakvizsgával rendelkező hivatalvezetőt nevez ki az országos nemzetiségi önkormányzati hivatal élére. Az érvényesen pályázó jelöltek közül a hivatalvezető személyére az elnök tesz javaslatot. Amennyiben az elnök egyik pályázót sem támogatja, új pályázatot kell kiírni.
+123. § (1) Az országos nemzetiségi önkormányzat közgyűlése át nem ruházható hatáskörében, pályázat alapján, határozatlan időre, gazdaságtudományi, jogi, igazgatásszervezői, közigazgatási, államtudományi, vagy felsőoktatásban szerzett egyéb egyetemi vagy főiskolai végzettséggel és közigazgatási szakvizsgával rendelkező, legalább kétévi közigazgatási gyakorlatot szerzett hivatalvezetőt nevez ki az országos nemzetiségi önkormányzati hivatal élére. Az érvényesen pályázó jelöltek közül a hivatalvezető személyére az elnök tesz javaslatot. Amennyiben az elnök egyik pályázót sem támogatja, új pályázatot kell kiírni.
 
 (2) A kinevezés vezetői megbízásnak minősül. A hivatal vezetője tekintetében – a felmentés esetét kivéve – az elnök gyakorolja a munkáltatói jogokat. A felmentés jogát a közgyűlés gyakorolja.
 
@@ -16,6 +16,8 @@ c) előkészíti a testületi döntéseket, tanácskozási joggal részt vesz az
 
 d) jelzi, ha a testület döntése vagy döntéshozatali eljárása jogszabálysértő,
 
-e) évente beszámol a közgyűlésnek a hivatal tevékenységéről.
+e) évente beszámol a közgyűlésnek a hivatal tevékenységéről,
+
+f) a közgyűlés felé történő utólagos beszámolása mellett, az elnök megbízatása megszűnésének napjától az új elnök megválasztásának napjáig – az alapvető munkáltatói jogok gyakorlása kivételével – kizárólag az országos nemzetiségi önkormányzat működéséhez szükséges tárgyévi kiadási előirányzatai terhére vonatkozó kötelezettségvállalás gyakorlására jogosult.
 
 (5) A hivatalvezető a (4) bekezdés c)–d) pontjával összefüggő feladatai körében ellátja az önkormányzati költségvetés, a zárszámadás és az önkormányzati pénzügyi beszámolók összeállításával kapcsolatos feladatokat.

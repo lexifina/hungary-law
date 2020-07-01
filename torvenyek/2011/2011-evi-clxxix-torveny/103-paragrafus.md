@@ -2,7 +2,7 @@
 
 103. § (1) A nemzetiségi önkormányzati képviselő a megválasztásától számított harminc napon belül, majd ezt követően minden év január 31-ig a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házastársának vagy élettársának, valamint gyermekének az e törvény melléklete szerinti vagyonnyilatkozatát.
 
-(2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – a képviselő nem gyakorolhatja képviselői jogait, és nem részesülhet tiszteletdíjban, természetbeni juttatásban, költségtérítésben.
+(2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – a képviselő nem gyakorolhatja képviselői jogait, és nem részesülhet tiszteletdíjban, természetbeni juttatásban, költségtérítésben. Amennyiben a képviselő kilencven napon belül nem tesz eleget vagyonnyilatkozat-tételi kötelezettségének, nemzetiségi önkormányzati képviselői megbízatása megszűnik.
 
 (3) A vagyonnyilatkozatot a szervezeti és működési szabályzatban erre kijelölt bizottság, vagy legalább két képviselő tartja nyilván és ellenőrzi. A képviselő vagyonnyilatkozata – az ellenőrzéshez szolgáltatott azonosító adatok kivételével – nyilvános. A képviselő hozzátartozójának nyilatkozata nem nyilvános, abba csak az ellenőrző bizottság tagjai tekinthetnek be az ellenőrzés céljából.
 

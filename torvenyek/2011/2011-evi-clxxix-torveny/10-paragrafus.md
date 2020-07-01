@@ -18,4 +18,4 @@ b) nemzetiségi egyesülettel történő együttműködés során, ide értve a 
 
 (8) A helyi önkormányzat a településen, megyében települési, területi nemzetiségi önkormányzat hiányában az adott nemzetiség országos önkormányzata javaslataira tekintettel látja el a településen, megyében a nemzetiségi jogok érvényesülésével kapcsolatos feladatait.
 
-(9) A helyi önkormányzat képviselő-testülete a települési nemzetiségi önkormányzat képviselő-testülete kezdeményezésére a nemzetiségek ügyeivel foglalkozó bizottságot hoz létre, vagy e feladattal megbízza valamely bizottságát. A nemzetiségi ügyekkel foglalkozó bizottságban a települési nemzetiségi önkormányzat képviselő-testület kijelölt tagja részt vehet és a napirendi pontokhoz hozzászólhat.
+(9) A helyi önkormányzat képviselő-testülete a települési nemzetiségi önkormányzat képviselő-testülete kezdeményezésére a nemzetiségek ügyeivel foglalkozó bizottságot hoz létre, vagy e feladattal megbízza valamely bizottságát. A nemzetiségi ügyekkel foglalkozó bizottságban a települési nemzetiségi önkormányzat képviselő-testületének kijelölt tagja tanácskozási jogú állandó meghívottként a napirendi pontokhoz hozzászólhat.

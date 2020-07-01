@@ -1,359 +1,359 @@
+## „E törvény értelmében nemzetiségnek minősül: a bolgár, a görög, a horvát, a lengyel, a német, az örmény, a roma, a román, a ruszin, a szerb, a szlovák, a szlovén és az ukrán.”
+
 2. melléklet a 2011. évi CLXXIX. törvényhez
 
-|
+## | Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat a nemzetiségi önkormányzati képviselő (elnök, elnökhelyettes), valamint a vele közös háztartásban élő házastársa vagy élettársa és gyermeke számára
 
-Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat a nemzetiségi önkormányzati képviselő (elnök, elnökhelyettes), valamint a vele közös háztartásban élő házastársa vagy élettársa és gyermeke számára
+## A nyilatkozatot adó személye
 
-A nyilatkozatot adó személye
+## 1. A nyilatkozatot adó:
 
-1. A nyilatkozatot adó:
+## a) nemzetiségi önkormányzati képviselő, elnök, elnökhelyettes (a továbbiakban együtt: képviselő)
 
-a) nemzetiségi önkormányzati képviselő, elnök, elnökhelyettes (a továbbiakban együtt: képviselő)
+## b) a képviselővel közös háztartásban élő házas- vagy élettárs (a továbbiakban: házas-/élettárs)
 
-b) a képviselővel közös háztartásban élő házas- vagy élettárs (a továbbiakban: házas-/élettárs)
+## c) a képviselővel közös háztartásban élő gyermek (a továbbiakban: gyermek)
 
-c) a képviselővel közös háztartásban élő gyermek (a továbbiakban: gyermek)
+## 2. A képviselő neve:
 
-2. A képviselő neve:
+## 3. A házas-/élettárs neve:
 
-3. A házas-/élettárs neve:
+## 4. A gyermek neve:
 
-4. A gyermek neve:
+## A) Rész
 
-A) Rész
+## VAGYONI NYILATKOZAT
 
-VAGYONI NYILATKOZAT
+## I. Ingatlanok
 
-I. Ingatlanok
+## 1.
 
-1.
+## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+## b) Az ingatlan területnagysága:
 
-b) Az ingatlan területnagysága:
+## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
 
-c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
+## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
 
-d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
+## e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
 
-e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
+## f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
 
-f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
+## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
-g) Közös tulajdon esetén a tulajdoni hányad mértéke:
+## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-h) A szerzés jogcíme, ideje (a jogviszony kezdete):
+## 2.
 
-2.
+## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+## b) Az ingatlan területnagysága:
 
-b) Az ingatlan területnagysága:
+## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
 
-c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
+## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
 
-d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
+## e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
 
-e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
+## f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
 
-f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
+## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
-g) Közös tulajdon esetén a tulajdoni hányad mértéke:
+## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-h) A szerzés jogcíme, ideje (a jogviszony kezdete):
+## 3.
 
-3.
+## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+## b) Az ingatlan területnagysága:
 
-b) Az ingatlan területnagysága:
+## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
 
-c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
+## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
 
-d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
+## e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
 
-e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
+## f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
 
-f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
+## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
-g) Közös tulajdon esetén a tulajdoni hányad mértéke:
+## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-h) A szerzés jogcíme, ideje (a jogviszony kezdete):
+## 4.
 
-4.
+## a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
 
-a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+## b) Az ingatlan területnagysága:
 
-b) Az ingatlan területnagysága:
+## c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
 
-c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
+## d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
 
-d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
+## e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
 
-e) Az ingatlan jogi jellege (társasház, szövetkezeti ház, műemlék, bányatelek stb.):
+## f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
 
-f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
+## g) Közös tulajdon esetén a tulajdoni hányad mértéke:
 
-g) Közös tulajdon esetén a tulajdoni hányad mértéke:
+## h) A szerzés jogcíme, ideje (a jogviszony kezdete):
 
-h) A szerzés jogcíme, ideje (a jogviszony kezdete):
+## II. Nagy értékű ingóságok
 
-II. Nagy értékű ingóságok
+## 1. Gépjárművek:
 
-1. Gépjárművek:
+## a) személygépkocsi: típus
 
-a) személygépkocsi: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## b) tehergépjármű, autóbusz: típus
 
-b) tehergépjármű, autóbusz: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## c) motorkerékpár: típus
 
-c) motorkerékpár: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## a szerzés ideje, jogcíme: típus
 
-a szerzés ideje, jogcíme: típus
+## 2. Vízi vagy légi jármű:
 
-2. Vízi vagy légi jármű:
+## a) jellege:
 
-a) jellege:
+## típusa:
 
-típusa:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## b) jellege:
 
-b) jellege:
+## típusa:
 
-típusa:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## 3. Védett műalkotás, védett gyűjtemény:
 
-3. Védett műalkotás, védett gyűjtemény:
+## a) egyedi alkotások: megnevezés ..... db
 
-a) egyedi alkotások: megnevezés ..... db
+## a szerzés ideje, jogcíme: megnevezés ..... db
 
-a szerzés ideje, jogcíme: megnevezés ..... db
+## a szerzés ideje, jogcíme: megnevezés ..... db
 
-a szerzés ideje, jogcíme: megnevezés ..... db
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## b) gyűjtemény: megnevezés ..... db
 
-b) gyűjtemény: megnevezés ..... db
+## a szerzés ideje, jogcíme: megnevezés ..... db
 
-a szerzés ideje, jogcíme: megnevezés ..... db
+## a szerzés ideje, jogcíme: megnevezés ..... db
 
-a szerzés ideje, jogcíme: megnevezés ..... db
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## 4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hathavi összegét meghaladó értékű ingóság:
 
-4. Egyéb, darabonként vagy készletenként (gyűjteményenként) a mindenkori képviselői alapdíj hathavi összegét meghaladó értékű ingóság:
+## a) megnevezés:
 
-a) megnevezés:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## b) megnevezés:
 
-b) megnevezés:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## c) megnevezés:
 
-c) megnevezés:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## d) megnevezés:
 
-d) megnevezés:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## e) megnevezés:
 
-e) megnevezés:
+## a szerzés ideje, jogcíme:
 
-a szerzés ideje, jogcíme:
+## 5. Értékpapírban elhelyezett megtakarítás vagy egyéb befektetés (részvény, kötvény, részjegy, nagy értékű biztosítás stb.):
 
-5. Értékpapírban elhelyezett megtakarítás vagy egyéb befektetés (részvény, kötvény, részjegy, nagy értékű biztosítás stb.):
+## megnevezés:
 
-megnevezés:
+## névérték, biztosítási összeg:
 
-névérték, biztosítási összeg:
+## megnevezés:
 
-megnevezés:
+## névérték, biztosítási összeg:
 
-névérték, biztosítási összeg:
+## megnevezés:
 
-megnevezés:
+## névérték, biztosítási összeg:
 
-névérték, biztosítási összeg:
+## megnevezés:
 
-megnevezés:
+## névérték, biztosítási összeg:
 
-névérték, biztosítási összeg:
+## megnevezés:
 
-megnevezés:
+## névérték, biztosítási összeg:
 
-névérték, biztosítási összeg:
+## 6. Takarékbetétben elhelyezett megtakarítás: Ft
 
-6. Takarékbetétben elhelyezett megtakarítás: Ft
+## 7. A közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hathavi összegét meghaladó készpénz: Ft
 
-7. A mindenkori képviselői alapdíj hathavi összegét meghaladó készpénz: Ft
+## 8. Az összességében a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
 
-8. Az összességében a mindenkori képviselői alapdíj hathavi összegét meghaladó pénzintézeti számlakövetelés vagy más, szerződés alapján fennálló pénzkövetelés:
+## a) pénzintézeti számlakövetelés:
 
-a) pénzintézeti számlakövetelés:
+## forintban:
 
-forintban:
+## devizában (forintértéken):
 
-devizában (forintértéken):
+## b) más szerződés alapján fennálló pénzkövetelés összege: Ft
 
-b) más szerződés alapján fennálló pénzkövetelés összege: Ft
+## 9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a közszolgálati tisztviselőkről szóló törvény szerinti illeményalap hathavi összegét meghaladja:
 
-9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a közszolgálati tisztviselőkről szóló törvény szerinti illeményalap hathavi összegét meghaladja:
+## megnevezés:
 
-megnevezés:
+## megnevezés:
 
-megnevezés:
+## megnevezés:
 
-megnevezés:
+## megnevezés:
 
-megnevezés:
+## megnevezés:
 
-megnevezés:
+## III. Tartozások
 
-III. Tartozások
+## Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a pénzintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
 
-Ebben a rovatban kérjük feltüntetni a köztartozás címén, valamint a pénzintézettel vagy magánszemélyekkel szemben esetlegesen fennálló tartozásait
+## 1. Köztartozás (adó, vám, illeték, tb-járulék stb.): forint
 
-1. Köztartozás (adó, vám, illeték, tb-járulék stb.): forint
+## 2. Pénzintézettel szembeni tartozás (hitel, kölcsön stb.): forint
 
-2. Pénzintézettel szembeni tartozás (hitel, kölcsön stb.): forint
+## 3. Magánszemélyekkel szembeni tartozás: forint
 
-3. Magánszemélyekkel szembeni tartozás: forint
+## IV. Egyéb közlendők
 
-IV. Egyéb közlendők
+## B) Rész
 
-B) Rész
+## JÖVEDELEMNYILATKOZAT
 
-JÖVEDELEMNYILATKOZAT
+## (a képviselői tiszteletdíjon kívüli adóköteles jövedelmek)
 
-(a képviselői tiszteletdíjon kívüli adóköteles jövedelmek)
+## 1. Foglalkozása:
 
-1. Foglalkozása:
+## Munkahelye:
 
-Munkahelye:
+## Szünetelteti-e foglalkozását: igen
 
-Szünetelteti-e foglalkozását: igen
+## nem
 
-nem
+## Foglalkozásából származó havi adóköteles (bruttó) jövedelme: Ft
 
-Foglalkozásából származó havi adóköteles (bruttó) jövedelme: Ft
+## 2. Az 1. pontban írt foglalkozásán kívüli, valamennyi olyan tevékenysége, amelyből adóköteles jövedelme származik:
 
-2. Az 1. pontban írt foglalkozásán kívüli, valamennyi olyan tevékenysége, amelyből adóköteles jövedelme származik:
+## a) A tevékenység megnevezése:
 
-a) A tevékenység megnevezése:
+## b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek):
 
-b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek):
+## c) A jövedelem rendszeressége (havi, egyéb rendszerességű, eseti vagy időszakos):
 
-c) A jövedelem rendszeressége (havi, egyéb rendszerességű, eseti vagy időszakos):
+## d) A jövedelem (bruttó) összege: Ft
 
-d) A jövedelem (bruttó) összege: Ft
+## a) A tevékenység megnevezése:
 
-a) A tevékenység megnevezése:
+## b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek):
 
-b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek):
+## c) A jövedelem rendszeressége (havi, egyéb rendszerességű, eseti vagy időszakos):
 
-c) A jövedelem rendszeressége (havi, egyéb rendszerességű, eseti vagy időszakos):
+## d) A jövedelem (bruttó) összege: Ft
 
-d) A jövedelem (bruttó) összege: Ft
+## a) A tevékenység megnevezése:
 
-a) A tevékenység megnevezése:
+## b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek):
 
-b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek):
+## c) A jövedelem rendszeressége (havi, egyéb rendszerességű, eseti vagy időszakos):
 
-c) A jövedelem rendszeressége (havi, egyéb rendszerességű, eseti vagy időszakos):
+## d) A jövedelem (bruttó) összege: Ft
 
-d) A jövedelem (bruttó) összege: Ft
+## C) Rész
 
-C) Rész
+## GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
 
-GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
+## Gazdasági társaságban fennálló tisztsége vagy érdekeltsége:
 
-Gazdasági társaságban fennálló tisztsége vagy érdekeltsége:
+## I.
 
-I.
+## 1. Gazdasági társaság neve:
 
-1. Gazdasági társaság neve:
+## 2. Gazdasági társaság formája:
 
-2. Gazdasági társaság formája:
+## 3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
 
-3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
+## 4. A tulajdoni érdekeltség keletkezésekori aránya: %
 
-4. A tulajdoni érdekeltség keletkezésekori aránya: %
+## 5. A tulajdoni érdekeltség jelenlegi aránya: %
 
-5. A tulajdoni érdekeltség jelenlegi aránya: %
+## 6. A gazdasági társaságban viselt tisztsége:
 
-6. A gazdasági társaságban viselt tisztsége:
+## II.
 
-II.
+## 1. Gazdasági társaság neve:
 
-1. Gazdasági társaság neve:
+## 2. Gazdasági társaság formája:
 
-2. Gazdasági társaság formája:
+## 3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
 
-3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
+## 4. A tulajdoni érdekeltség keletkezésekori aránya: %
 
-4. A tulajdoni érdekeltség keletkezésekori aránya: %
+## 5. A tulajdoni érdekeltség jelenlegi aránya: %
 
-5. A tulajdoni érdekeltség jelenlegi aránya: %
+## 6. A gazdasági társaságban viselt tisztsége:
 
-6. A gazdasági társaságban viselt tisztsége:
+## III.
 
-III.
+## 1. Gazdasági társaság neve:
 
-1. Gazdasági társaság neve:
+## 2. Gazdasági társaság formája:
 
-2. Gazdasági társaság formája:
+## 3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
 
-3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
+## 4. A tulajdoni érdekeltség keletkezésekori aránya: %
 
-4. A tulajdoni érdekeltség keletkezésekori aránya: %
+## 5. A tulajdoni érdekeltség jelenlegi aránya: %
 
-5. A tulajdoni érdekeltség jelenlegi aránya: %
+## 6. A gazdasági társaságban viselt tisztsége:
 
-6. A gazdasági társaságban viselt tisztsége:
+## IV.
 
-IV.
+## 1. Gazdasági társaság neve:
 
-1. Gazdasági társaság neve:
+## 2. Gazdasági társaság formája:
 
-2. Gazdasági társaság formája:
+## 3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
 
-3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
+## 4. A tulajdoni érdekeltség keletkezésekori aránya: %
 
-4. A tulajdoni érdekeltség keletkezésekori aránya: %
+## 5. A tulajdoni érdekeltség jelenlegi aránya: %
 
-5. A tulajdoni érdekeltség jelenlegi aránya: %
+## 6. A gazdasági társaságban viselt tisztsége:
 
-6. A gazdasági társaságban viselt tisztsége:
+## V.
 
-V.
+## 1. Gazdasági társaság neve:
 
-1. Gazdasági társaság neve:
+## 2. Gazdasági társaság formája:
 
-2. Gazdasági társaság formája:
+## 3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
 
-3. Az érdekeltség formája (tulajdonos, részvényes, bt. esetén beltag/kültag stb.):
+## 4. A tulajdoni érdekeltség keletkezésekori aránya: %
 
-4. A tulajdoni érdekeltség keletkezésekori aránya: %
+## 5. A tulajdoni érdekeltség jelenlegi aránya: %
 
-5. A tulajdoni érdekeltség jelenlegi aránya: %
-
-6. A gazdasági társaságban viselt tisztsége:
+## 6. A gazdasági társaságban viselt tisztsége:

@@ -1,8 +1,8 @@
 ## A nemzetiségi önkormányzat bizottságai
 
-104. § (1) A nemzetiségi önkormányzat képviselő-testülete, közgyűlése bizottságot (bizottságokat) hozhat létre. Az országos nemzetiségi önkormányzat kötelező bizottsága a pénzügyi bizottság.
+104. § (1) A nemzetiségi önkormányzat képviselő-testülete, közgyűlése három tagból vagy öt tagból álló bizottságot (bizottságokat) hozhat létre. Az országos nemzetiségi önkormányzat kötelezően létrehozandó bizottsága a pénzügyi bizottság.
 
-(2) A háromfős bizottság legalább egy tagja a nemzetiségi önkormányzat tagja, a négy-öt fős bizottság tagjainak legalább fele a nemzetiségi önkormányzat képviselője. A bizottság működésének részletes szabályait a szervezeti és működési szabályzata tartalmazza.
+(2) A három tagból álló bizottság legalább egy képviselője a nemzetiségi önkormányzat képviselője, az öt tagból álló bizottság legalább két képviselője a nemzetiségi önkormányzat képviselője.
 
 (3) A bizottság a feladatkörében előkészíti a testület döntését. A nemzetiségi önkormányzat testülete által ráruházott hatáskörben döntést hoz, e jogkörében hozott döntéseit a nemzetiségi önkormányzat képviselő-testülete, közgyűlése felülvizsgálhatja.
 

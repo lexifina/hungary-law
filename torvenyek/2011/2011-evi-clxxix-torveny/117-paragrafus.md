@@ -26,6 +26,8 @@ b) a megyei önkormányzat által ellátott önkormányzati feladatok kapcsán �
 
 c) ellátja az általa képviselt nemzetiség érdekeinek országos szintű képviseletét és védelmét,
 
-d) a nemzetiségi kulturális autonómia fejlesztése érdekében országos szintű nemzetiségi intézményhálózatot tart fenn.
+d) a nemzetiségi kulturális autonómia fejlesztése érdekében országos szintű nemzetiségi intézményhálózatot tart fenn,
 
-(3) Az országos nemzetiségi önkormányzat elláthatja továbbá a 116. § (1) bekezdésben felsorolt közfeladatokat is.
+e) az 56. § (1) bekezdése szerinti javaslat megtétele.
+
+(3) Az országos nemzetiségi önkormányzat elláthatja továbbá a 116. § (1) bekezdésében felsorolt közfeladatokat, valamint az érintett miniszter engedélyével szociális ellátó intézmény alapítására és fenntartására jogosult.

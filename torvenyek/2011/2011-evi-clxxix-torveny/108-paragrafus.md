@@ -16,7 +16,7 @@ g) az elnöki tisztségnek a bíróság által történő megszüntetésével,
 
 h) halálával.
 
-(2) Az (1) bekezdés b)–f) pontja esetén a képviselő-testület, közgyűlés határozatban állapítja meg az elnöki megbízatás megszűnését. Határozatát a döntéshozatalt követő munkanapon megküldi
+(2) Az (1) bekezdés b) és e)–f) pontja esetén a képviselő-testület, közgyűlés határozatban állapítja meg az elnöki megbízatás megszűnését. Határozatát a döntéshozatalt követő munkanapon megküldi
 
 a) az elnöknek,
 

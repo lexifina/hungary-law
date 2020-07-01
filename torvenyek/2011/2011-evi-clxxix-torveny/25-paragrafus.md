@@ -14,7 +14,11 @@ engedélyével. A kezdeményezéshez csatolni kell a köznevelési intézmény i
 
 (5) A nevelési-oktatási intézmény átadására az átadó és az átvevő között írásbeli megállapodás alapján kerülhet sor.
 
-(6) A fenntartói jog átadásával együtt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont ingyenesen – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő vagyonkezelésébe kell adni mindaddig, amíg a köznevelési közfeladatnak az átvevő részéről történő ellátása az adott ingatlanban meg nem szűnik.
+(6) A fenntartói jog átadásával együtt a köznevelési intézmény nevelési-oktatási feladatainak ellátását szolgáló ingó és ingatlan vagyont a feladatátvételt követően haladéktalanul, de legkésőbb a nevelési, illetve a tanév kezdetéig ingyenesen a fenntartó nemzetiségi önkormányzat tulajdonába kell adni, azzal, hogy a vagyonelemek tulajdonjoga visszaszáll az eredeti tulajdonosra akkor, ha
+
+a) a fenntartó jogutód nélkül megszűnik, vagy
+
+b) a köznevelési intézmény megszűnik.
 
 (7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és megyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
 

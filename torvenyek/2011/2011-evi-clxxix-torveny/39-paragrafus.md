@@ -2,7 +2,7 @@
 
 (2) A munkáltatói jogokat az átvételt követően az átvevő gyakorolja. Az átadás nem minősül átszervezésnek. Az intézmény fenntartói jogának átadása nem járhat átalakítással. Az ellenkező bizonyításáig az átadás tervezett időpontját megelőző és az átadás időpontját követő két éven belüli átszervezést a fenntartói jog átadásával összefüggő átszervezésnek kell tekinteni. E rendelkezés alkalmazásában átszervezés az intézmény összevonása, illetve egy intézménynek több intézményre tagolása.
 
-(3) A kulturális feladat átadásával együtt a feladat ellátását szolgáló ingó és ingatlan vagyont ingyenesen – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő vagyonkezelésébe kell adni mindaddig, amíg a kulturális közfeladatnak az átvevő részéről történő ellátása az adott ingatlanban meg nem szűnik.
+(3) A kulturális feladat átadásával együtt a feladat ellátását szolgáló ingó és ingatlan vagyont a feladatátvételt követően haladéktalanul, de legfeljebb hat hónapon belül ingyenesen az átvevő vagyonkezelésébe kell adni mindaddig, amíg a kulturális közfeladatnak az átvevő részéről történő ellátása az adott ingatlanban meg nem szűnik.
 
 (4) A jogszabályi feltételek és kötelezettségek nem teljesülése esetén a szakterületet ellátó és felügyelő államigazgatási szerv a bíróságnál kezdeményezheti a megállapodás felbontását és a szerződést megelőző eredeti állapot helyreállítását. A bírósági eljárásban a kultúráért felelős minisztert – szakértői állásfoglalás céljából – meg kell keresni.
 
