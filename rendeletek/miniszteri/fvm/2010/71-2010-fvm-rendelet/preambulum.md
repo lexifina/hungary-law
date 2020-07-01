@@ -1,1 +1,0 @@
-Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. §-a (2) bekezdésének 17. és 21. pontjaiban kapott felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
