@@ -1,1 +1,1 @@
-27. § Az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi LIV. törvénnyel módosított 11. § (2) bekezdését a 2017. június 30-át követő időszakban teljesített tényleges szolgálatra tekintettel kifizetett juttatásra kell alkalmazni.
+27. § 2020. évben a Tbj.-vel megállapított 11. § (1) bekezdése szerinti éves keretösszegbe be kell számítani a Tny. 2020. június 30-án hatályos 83/B. §-a szerinti szüneteléshez a 2020. január–június hónapokra figyelembe vett keresetet, jövedelmet is.
