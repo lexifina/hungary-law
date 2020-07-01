@@ -1,0 +1,144 @@
+# A Kormány 1359/2020. (VII. 1.) Korm. határozata
+
+Magyar Közlöny 2020. évi 157. szám, 2020. július 1. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1Bfcsp3JSCuczzlVXoEf5ef612382901c/dokumentumok/8b8821e84983129357d563ccf45fed350a7e7d0e/letoltes)
+
+---
+
+A Kormány 1359/2020. (VII. 1.) Korm. határozata
+a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság sikeres megrendezését
+szolgáló új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósító építtetői feladat átadás-
+átvételéhez szükséges kormányzati intézkedésekről
+1. A Budapest Fejlesztési Központ létrehozásáról, a kiemelt budapesti állami magasépítési beruházások
+megvalósításának felelősségi rendjéről, valamint a budapesti városfejlesztési, várostervezési, urbanisztikai,
+városkutatási és közlekedéstervezési feladatok, továbbá a nemzetközi sportesemények megpályázásával és
+megrendezésével összefüggő feladatok ellátásáról szóló 1063/2020. (II. 26.) Korm. határozatban foglaltak
+végrehajtása érdekében a Kormány
+a) egyetért azzal, hogy a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság sikeres
+megrendezését szolgáló új budapesti multifunkcionális sport- és rendezvénycsarnok létesítését célzó
+beruházás (a továbbiakban: Beruházás) megvalósításához szükséges – a 2019. évben Budapesten zajló World
+Urban Games sportesemény és a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság
+
+megrendezéséhez szükséges egyes létesítmények megvalósítását szolgáló kiemelten közérdekű beruházások
+helyszínének meghatározásáról szóló 63/2019. (III. 27.) Korm. rendelet 2. melléklet I. pontja szerinti –
+ingatlanok a Beruházási Ügynökség tulajdonosi joggyakorlásába kerüljenek;
+b) felhívja a nemzeti vagyon kezelésért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő
+Zártkörűen működő Részvénytársaság útján tegye meg a szükséges intézkedéseket az a) alpontban foglaltak
+végrehajtása érdekében;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: azonnal
+c) a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható
+kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti
+kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét a 2022. évi
+magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges további
+kormányzati intézkedésekről szóló 1507/2019. (VIII. 23.) Korm. határozat 3. pontjában foglalt összeg szerint
+határozza meg;
+d) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított
+jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény
+1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások
+címének a 21. Új budapesti multifunkcionális sport- és rendezvénycsarnok előkészítése és megvalósítása
+alcímmel történő kiegészítését;
+Felelős: pénzügyminiszter
+Határidő: azonnal
+e) a c) alpont szerinti összeg 2020. évi részének finanszírozása érdekében az Áht. 33. § (2) bekezdésében
+biztosított jogkörében eljárva 7 371 420 756 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+Felelős: pénzügyminiszter
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Miniszterelnökséget vezető miniszter
+Határidő: azonnal
+f) felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+kezdeményezése alapján gondoskodjon a c) alpont szerinti összeg 2020. évi további esetlegesen felmerülő
+kifizetései fedezetének rendelkezésre állásáról a d) alpont szerinti előirányzaton;
+Felelős: pénzügyminiszter
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: a felmerülés ütemében
+g) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával
+gondoskodjon a c) alpont szerinti összeg 2021. évi részének rendelkezésre állásáról a 2021. évi központi
+költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+pénzügyminiszter
+Határidő: a felmerülés ütemében
+h) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával
+gondoskodjon a c) alpont szerinti összeg 2022. évi részének rendelkezésre állásáról a 2022. évi központi
+költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében.
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+pénzügyminiszter
+Határidő: a 2022. évi központi költségvetés tervezése során
+2. A Kormány visszavonja a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság
+megrendezéséhez szükséges létesítményfejlesztés előkészítésének Beruházás Előkészítési Alapból történő
+támogatásáról szóló 1158/2019. (III. 27.) Korm. határozat 11. pontját.
+3. A Kormány visszavonja a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság
+megrendezéséhez szükséges további kormányzati intézkedésekről szóló 1507/2019. (VIII. 23.) Korm. határozat 2. és
+4–6. pontját.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1359/2020. (VII. 1.) Korm. határozathoz
+XI. Miniszterelnökség
+XLV. Kiemelt kormányzati magasépítési beruházások
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- K I A D Á S O K A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XI. Miniszterelnökség
+30 Fejezeti kezelésű előirányzatok
+1 Célelőirányzatok
+11 Budapest és a fővárosi agglomeráció fejlesztése
+376584 10 Új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósításának támogatása
+K8 -7 371 420 756
+XLV. Kiemelt kormányzati magasépítési beruházások
+1 Egyedi magasépítési beruházások
+386095 21 Új budapesti multifunkcionális sport- és rendezvénycsarnok előkészítése és megvalósítása
+K6 7 371 420 756
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- B E V É T E L A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- T Á M O G A T Á S A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XI. Miniszterelnökség
+30 Fejezeti kezelésű előirányzatok
+1 Célelőirányzatok
+11 Budapest és a fővárosi agglomeráció fejlesztése
+376584 10 Új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósításának támogatása -7 371 420 756
+Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I.n.év II. n.év III.n.év IV.n.év
+időarányos
+teljesítésarányos
+egyéb: azonnal 7 371 420 756 7 371 420 756
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+A módosítást elrendelő
+jogszabály/határozat száma
+Államháztartási
+egyedi azonosító
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+Költségvetési év: 2020.
+A módosítást elrendelő
+jogszabály/határozat száma
+Államháztartási
+egyedi azonosító
+Egyéb felhalmozási célú kiadások
+Beruházások
+A módosítást elrendelő
+jogszabály/határozat száma
+Az adatlap 1 eredeti példányban töltendő ki
+Államháztartási
+egyedi azonosító
+Magyar Államkincstár 1 példány
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó Kft.
+Felelős kiadó: Papp Tibor ügyvezető.
