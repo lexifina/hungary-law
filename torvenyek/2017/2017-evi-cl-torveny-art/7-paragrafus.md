@@ -58,7 +58,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 24. irat: jogszabályban meghatározott bizonylat, nyilvántartás, a könyvvezetésről szóló jogszabályokban előírt könyvek, nyilvántartások, továbbá a tervek, szerződések, levelezések, nyilatkozatok, jegyzőkönyvek, határozatok (végzések), számlák és más kivonatok, igazolások, tanúsítványok, köz- és magánokiratok, megjelenési formájuktól függetlenül,
 
-25. járulék: a nyugdíjjárulék, a biztosított egészségbiztosítási és munkaerőpiaci járuléka (ideértve a természetbeni egészségbiztosítási járulékot, a pénzbeli egészségbiztosítási járulékot és munkaerőpiaci járulékot), az egészségügyi szolgáltatási járulék, a táppénz-hozzájárulás, továbbá a végrehajtás tekintetében a jogalap nélkül felvett és visszakövetelt társadalombiztosítási és – a társadalombiztosítási szervek által folyósított – egyéb ellátások, valamint a társadalombiztosítás ellátásainak fedezetére előírt más kötelező járulékbefizetések, ideértve a jogosulatlan kifizetőhelyi költségtérítést is,
+25. járulék: a társadalombiztosítási járulék, az egészségügyi szolgáltatási járulék, a táppénz-hozzájárulás, továbbá a végrehajtás tekintetében a jogalap nélkül felvett és visszakövetelt társadalombiztosítási és – a társadalombiztosítási szervek által folyósított – egyéb ellátások, valamint a társadalombiztosítás ellátásainak fedezetére előírt más kötelező járulékbefizetések, ideértve a jogosulatlan kifizetőhelyi költségtérítést is,
 
 26. jövőbeni ügylet:
 
@@ -98,7 +98,7 @@ g) az adóköteles társadalombiztosítási ellátás tekintetében, aki az ell�
 
 h) az adóköteles nyeremény szempontjából a szerencsejáték szervezője, függetlenül attól, hogy az adóköteles nyereményt közvetlenül vagy közvetítő útján juttatja a természetes személynek,
 
-i) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 4. § a) pontja szerinti foglalkoztató, kivéve a Tbj. 56/A. §-a szerinti külföldi vállalkozást,
+i) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 4. § 4. pontja szerinti foglalkoztató, kivéve a Tbj. 87. §-a szerinti külföldi vállalkozást,
 
 j) letétből történő kifizetés esetén nem lehet a hatóság, nyomozó hatóság, ügyészség, bíróság, ügyvéd, közjegyző és a bírósági végrehajtó,
 
@@ -130,7 +130,7 @@ b) a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolg�
 
 c) az egyházi személy foglalkoztatásának alapjául szolgáló jogviszony,
 
-39. munkáltató: belföldön székhellyel, telephellyel, képviselettel rendelkező jogi személy, bejegyzett cég, személyi egyesülés és egyéb szervezet, egyéni és társas vállalkozó, ideértve a belföldön lakóhellyel rendelkező természetes személyt is, valamint – a Tbj. 56/A. §-a szerinti külföldi vállalkozás kivételével – a Tbj. 4. § a) pontja szerinti foglalkoztatót a munkaviszony alapján foglalkoztatottak tekintetében,
+39. munkáltató: belföldön székhellyel, telephellyel, képviselettel rendelkező jogi személy, bejegyzett cég, személyi egyesülés és egyéb szervezet, egyéni és társas vállalkozó, ideértve a belföldön lakóhellyel rendelkező természetes személyt is, valamint – a Tbj. 87. §-a szerinti külföldi vállalkozás kivételével – a Tbj. 4. § 4. pontja szerinti foglalkoztatót a munkaviszony alapján foglalkoztatottak tekintetében,
 
 40. rendvédelmi feladatokat ellátó szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatot ellátó szerv,
 

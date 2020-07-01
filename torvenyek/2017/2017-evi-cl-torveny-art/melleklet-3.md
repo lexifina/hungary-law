@@ -96,7 +96,7 @@
 
 ## 3.6. Az egyéni vállalkozó adózó általános forgalmiadó-bevallási gyakoriságának meghatározásánál a beépített ingatlan, ingatlanrész és ehhez tartozó földrészlet, illetve építési telek, telekrész természetes személyként, sorozat jelleggel történő értékesítését terhelő általános forgalmi adót figyelmen kívül kell hagyni.
 
-## 3.7. Az egészségügyi szolgáltatási járulék és nyugdíjjárulék fizetésére kötelezett kiegészítő tevékenységet folytató egyéni vállalkozó az egészségügyi szolgáltatási járulékot és a nyugdíjjárulékot évente, a személyijövedelemadó-bevallásában vallja be.
+## 3.7.
 
 ## 4. A költségvetési támogatás bevallása
 
@@ -236,6 +236,6 @@
 
 ## 4. Járulékok
 
-## 4.1. Természetbeni egészségbiztosítási járulék, pénzbeli egészségbiztosítási járulék, munkaerőpiaci járulék, valamint nyugdíjjárulék
+## 4.1. Társadalombiztosítási járulék, nyugdíjjárulék
 
-## 4.1.1. A munkáltató az általa levont járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
+## 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,

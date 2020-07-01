@@ -6,13 +6,13 @@ a) a munkáltató;
 
 b) a kifizető (ideértve az egyéni vállalkozónak nem minősülő természetes személy munkáltatót is);
 
-c) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett.
+c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
-(1a) A foglalkoztatónak nem minősülő, a Tbj. 5. § (1) bekezdés e) pontja szerinti egyéni vállalkozó havonta, a tárgyhót követő hónap tizenkettedik napjáig, a Tbj. 5. § (1) bekezdés i) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
+(1a) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés e) pontja szerinti egyéni vállalkozó havonta, a tárgyhót követő hónap tizenkettedik napjáig, a Tbj. 6. § (1) bekezdés h) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
 (2) Az (1)–(1a) bekezdés szerinti bevallás tartalmazza:
 
-1. a Tbj. 44. § (1) bekezdése szerinti nyilvántartásra kötelezett adatait (neve, székhelye, adóazonosító száma),
+1. a Tbj. 66. § (1) bekezdése szerinti nyilvántartásra kötelezett adatait (neve, székhelye, adóazonosító száma),
 
 2. a munkáltató, kifizető jogelődjének adóazonosító számát,
 
@@ -48,13 +48,13 @@ b) az Szja tv. 29/D. § (2) bekezdés szerint a kedvezmény alapját képező j�
 
 8. a 6. és 7. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 
-9. a nyugdíjjárulék alapját képező jövedelmet, a nyugdíjjárulék-köteles jutalom összegét, illetve a levont nyugdíjjárulék összegét,
+9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
 
-10. a természetes személy által fizetendő természetbeni egészségbiztosítási járulék, pénzbeli egészségbiztosítási járulék és munkaerőpiaci járulék alapját, a levont (befizetett) természetbeni egészségbiztosítási járulék, pénzbeli egészségbiztosítási járulék és munkaerőpiaci járulék összegét,
+10. a társadalombiztosítási járulék levonása, illetve levonás elmaradásának okát,
 
-11. a természetbeni egészségbiztosítási, a pénzbeli egészségbiztosítási és a munkaerőpiaci járulékok levonása és/vagy a nyugdíjjárulék-levonás elmaradásának okát,
+11. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont társadalombiztosítási járulék alapját és összegét,
 
-12. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont természetbeni és pénzbeli egészségbiztosítási, munkaerőpiaci és nyugdíjjárulék alapját és összegét,
+12.
 
 13. a gyermekgondozási díj (gyed), gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
 
@@ -90,7 +90,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 24. a START-, START PLUSZ-, START EXTRA, START BÓNUSZ, valamint Rehabilitációs kártyával rendelkező személy után, valamint a Karrier Híd programban részt vevő személy után a kedvezmény figyelembevétele nélkül számított szociális hozzájárulási adó alapját és összegét, továbbá a jogszabály szerint meghatározott szociális hozzájárulási adóból igénybevett részkedvezmény alapját és összegét, valamint a jogszabály szerint gyermekgondozási szabadságról visszatérő munkavállaló és az ő gyermekgondozási szabadságának időtartama alatt munkakörében foglalkoztatott vagy gyermekgondozási szabadságának lejártát követően a vele azonos vagy hasonló munkakörben foglalkoztatott munkavállaló részmunkaidős foglalkoztatása után a foglalkoztató által igénybevett szociális hozzájárulási adóból igénybevett részkedvezmény összegét,
 
-25. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 31. § (5) bekezdése szerinti nyilatkozatában foglalt választását,
+25. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 42. § (4) bekezdése szerinti nyilatkozatában foglalt választását,
 
 26. a külföldi illetőségű természetes személynek kifizetett jövedelem összegét, és az általános mértéktől eltérően levont, le nem vont adó, adóelőleg összegét,
 
@@ -100,11 +100,11 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 29. az Európai Unió más tagállamában illetőséggel rendelkező személy részére ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelemmel (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelemmel) összefüggésben kifizetett bevétel (jövedelem) összegét,
 
-30. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választását,
+30. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 42. § (8) bekezdése szerinti nyilatkozatában foglalt választását,
 
 31. az a munkáltató, amely a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait),
 
-32. a felszolgálási díj után fizetett nyugdíjjárulék alapját és összegét,
+32. a felszolgálási díjból levont (megfizetett) társadalombiztosítási járulék alapját és összegét,
 
 33. a tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapját és összegét, valamint az egészségügyi szolgáltatási járulékot,
 
@@ -116,7 +116,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (3) Az az adózó, aki vagy amely az adóév során bármely hónapban az (1) bekezdés szerinti bevallás benyújtására volt köteles, az adóév minden ezt követő hónapjára akkor is bevallás vagy a 49. § (4) bekezdés szerinti nyilatkozat benyújtására kötelezett, ha az adott hónapban adó- és/vagy járulék kötelezettsége – adó- (adóelőleg-), és/ vagy járulékalapot képező kifizetés, juttatás hiányában – nem keletkezett.
 
-(4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1)–(1a) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 30/A. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.
+(4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1)–(1a) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 41. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.
 
 (5) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett nyugdíj, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék, illetve a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
 

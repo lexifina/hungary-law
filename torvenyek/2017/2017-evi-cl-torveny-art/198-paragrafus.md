@@ -18,7 +18,7 @@ a) a természetes személyek jövedelemadójának előlegére és a levont jöve
 
 b) a beszedett adóra,
 
-c) a kifizető által a természetes személytől levont járulékokra,
+c) a kifizető által a természetes személytől levont járulék,
 
 d) az Áfa tv. szerinti csoportos adóalany számára a csoportos adóalanyiság időszakában.
 

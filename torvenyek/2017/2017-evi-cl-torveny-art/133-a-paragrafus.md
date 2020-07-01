@@ -4,7 +4,7 @@
 
 a) a Tbj. szerinti biztosítással járó munkaviszonyban álló foglalkoztatott magánszemély esetén a foglalkoztató nevét, adószámát, a foglalkoztatott természetes személyazonosító adatainak átadása nélkül biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a teljes vagy részmunkaidőben történő vagy munkaidő-szervezési intézkedéssel csökkentett munkaidőben történő foglalkoztatásra vonatkozó adatot, a heti óraszámot, a foglalkoztatott munkaviszonyból származó jövedelmét és a munkáltatót terhelő közterheket,
 
-b) az Szja tv. szerinti egyéni vállalkozó nevét, adószámát, biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összegét, a vállalkozó által fizetendő járulékok és szociális hozzájárulási adó havi összegét,
+b) az Szja tv. szerinti egyéni vállalkozó nevét, adószámát, biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összegét, a vállalkozó által fizetendő járulék és szociális hozzájárulási adó havi összegét,
 
 c) a kisadózó egyéni vállalkozó nevét, adószámát, biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a fizetendő tételes adó havi összegét, fizetendő tételes adó havi egyenlegét,
 
