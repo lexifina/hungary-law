@@ -40,7 +40,9 @@ r) ellátja az országos ellenőrzőhitelesítő hatósági (CVCA), valamint a d
 
 s)[^21] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
 
-t)[^22] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését.
+t)[^22] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
+
+u)[^23] dönt az állandó személyazonosító igazolvány az Nytv. 29. § (16a) bekezdésében foglalt kiadásáról, kiadásának megtagadásáról.
 
 [^17]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
 [^18]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
@@ -48,3 +50,4 @@ t)[^22] a nála előterjesztett kérelem esetén végzi az állandó személyazo
 [^20]: A 4. § g) pontja a 181/2019. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^21]: A 4. § s) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be.
 [^22]: A 4. § t) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (6) bekezdése iktatta be.
+[^23]: A 4. § u) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
