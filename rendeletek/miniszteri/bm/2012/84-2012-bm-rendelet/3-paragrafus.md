@@ -1,18 +1,20 @@
 ## 1. [^9] Az Országgyűlési Őrség szolgálati ágai és szakszolgálatai
 
-3. § (1) Az Országgyűlési Őrség feladatainak ellátását szolgálati ágakra, valamint ügyeleti szolgálatra és a szakszolgálatra lebontva kell megszervezni.
+3. § (1)[^10] Az Országgyűlési Őrség feladatainak ellátását szolgálati ágakra, szakszolgálatokra, valamint ügyeleti szolgálatra lebontva kell megszervezni.
 
-(2)[^10] A szolgálati ágak:
+(2)[^11] A szolgálati ágak:
 
 a) a személyvédelmi szolgálati ág,
 
-b)[^11] a létesítménybiztosítási szolgálati ág,
+b) a létesítménybiztosítási szolgálati ág,
 
 c) a protokolláris díszelgési szolgálati ág,
 
-d) a tárgyalási rendfenntartói szolgálati ág, valamint
+d) a tárgyalási rendfenntartói szolgálati ág,
 
-e) a tűzoltási és tűzbiztonsági szolgálati ág.
+e) a tűzoltási és tűzbiztonsági szolgálati ág, valamint
+
+f) a járőr- és őrszolgálati szolgálati ág.
 
 (3)[^12] Az Országgyűlési Őrségnél
 
@@ -25,6 +27,6 @@ c) humánigazgatási, valamint
 d) hivatali
 
 [^9]: Az 1. alcím címe a 9/2018. (IV. 25.) BM rendelet 54. § a) pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 20. §-ával megállapított szöveg.
-[^11]: A 3. § (2) bekezdés b) pontja a 37/2018. (XII. 28.) BM rendelet 25. § b) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdése a 19/2020. (VI. 30.) BM rendelet 1. §-ával megállapított szöveg.
+[^11]: A 3. § (2) bekezdése a 19/2020. (VI. 30.) BM rendelet 1. §-ával megállapított szöveg.
 [^12]: A 3. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 35. §-ával megállapított szöveg.

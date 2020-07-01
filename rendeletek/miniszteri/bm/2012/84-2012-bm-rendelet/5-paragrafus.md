@@ -6,7 +6,7 @@
 
 (2) Több, egy időben szükséges intézkedés közül először a súlyosabb sérelemmel fenyegető helyzetnek megfelelő intézkedést kell foganatosítani.
 
-(3)[^16] Az országgyűlési őr meghatározott szolgálati feladat végrehajtása során észlelt vagy tudomására jutott kisebb súlyú jogsértő cselekmény esetén a meghatározott szolgálati feladatának teljesítését folytatja, azonban a szolgálati elöljárójának vagy a szolgálati elöljáró akadályoztatása esetén az ügyeletesnek jelentést tesz, aki az illetékes rendőrkapitányság ügyeleti szolgálati feladatokat ellátó szervezeti elemének értesítésével köteles intézkedést kezdeményezni.
+(3)[^16] Az országgyűlési őr meghatározott szolgálati feladat végrehajtása során észlelt vagy tudomására jutott kisebb súlyú jogsértő cselekmény esetén a meghatározott szolgálati feladatának teljesítését folytatja, azonban a szolgálati elöljárójának vagy a szolgálati elöljáró akadályoztatása esetén az ügyeletesnek jelentést tesz, aki köteles intézkedést kezdeményezni a feladatkörében érintett szervezetnél. Az általános rendőrségi feladatok ellátására létrehozott szerv intézkedését az ügyeletes az intézkedés helye szerint illetékes rendőri szerv tevékenység-irányítási központjának az értesítése útján köteles kezdeményezni.
 
 (4)[^17] Az országgyűlési őr az életet, testi épséget és a vagyonbiztonságot közvetlenül veszélyeztető magatartás észlelése esetén köteles intézkedni. Az országgyűlési őr az intézkedés végrehajtása helyett – intézkedés kezdeményezése érdekében – jelentést tesz, ha az intézkedés végrehajtása az Országgyűlés elnöke vagy a védett objektum tekintetében jelentkező személyvédelmi vagy létesítménybiztosítási szolgálati feladat végrehajtásának biztonságát vagy eredményességét veszélyeztetné.
 
@@ -16,6 +16,6 @@
 
 [^14]: A 4. §-t a 9/2018. (IV. 25.) BM rendelet 55. § a) pontja hatályon kívül helyezte.
 [^15]: Az 5. § (1) bekezdését a 9/2018. (IV. 25.) BM rendelet 55. § b) pontja hatályon kívül helyezte.
-[^16]: Az 5. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 37. §-ával megállapított szöveg.
+[^16]: Az 5. § (3) bekezdése a 19/2020. (VI. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^17]: Az 5. § (4) bekezdése a 9/2018. (IV. 25.) BM rendelet 37. §-ával megállapított, a 37/2018. (XII. 28.) BM rendelet 25. § c) pontja szerint módosított szöveg.
 [^18]: Az 5. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 37. §-ával megállapított szöveg.

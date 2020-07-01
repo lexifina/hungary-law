@@ -1,4 +1,4 @@
-## 12. § Az Ogytv. 139. § (1) bekezdésében meghatározott elfogás esetén az országgyűlési őr az illetékes rendőrkapitányság ügyeleti szolgálati feladatokat ellátó szervezeti elemét értesíti.
+## 12. §[^22] Az Ogytv. 139. § (1) bekezdésében meghatározott elfogás esetén az országgyűlési őr értesíti az elfogás helye szerint illetékes rendőri szerv tevékenység-irányítási központját.
 
 ## 7. Biztonsági intézkedések
 
@@ -29,3 +29,5 @@ c) bűncselekmény, közlekedési és egyéb baleset esetén,
 d) súlyos fertőző betegség, talált sugárzó anyag, robbanóanyag, robbantással történő fenyegetés esetén, valamint
 
 e) terrortámadás veszélye vagy terrorcselekmény esetén.
+
+[^22]: A 12. § a 19/2020. (VI. 30.) BM rendelet 6. § a) pontja szerint módosított szöveg.

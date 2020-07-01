@@ -1,4 +1,4 @@
-## 34. §[^35] Az Rtv. 51. § (3) bekezdésében meghatározott megállásra kényszerítéshez az országgyűlési őr szolgálati járművet, továbbá gépjármű elfogó hálót is felhasználhat. Ennek során a szolgálati járműben keletkezett kárért – ha az erre vonatkozó vizsgálat a kényszerítő eszközök alkalmazásával kapcsolatos szabályok megsértése miatt más következtetésre nem jut – az országgyűlési őrt kártérítési felelősség nem terheli.
+## 34. §[^39] Az Rtv. 51. § (3) bekezdésében meghatározott megállásra kényszerítéshez az országgyűlési őr szolgálati járművet, továbbá gépjármű elfogó hálót is felhasználhat. Ennek során a szolgálati járműben keletkezett kárért – ha az erre vonatkozó vizsgálat a kényszerítő eszközök alkalmazásával kapcsolatos szabályok megsértése miatt más következtetésre nem jut – az országgyűlési őrt kártérítési felelősség nem terheli.
 
 ## 23. Lőfegyverhasználat
 
@@ -12,4 +12,4 @@
 
 (5) Szolgálati elöljárója parancsára az országgyűlési őr köteles a lőfegyverét használni. A lőfegyver parancsra történő használatának jogszerűségéért a parancsot kiadó szolgálati elöljáró a felelős. E parancs végrehajtása csak akkor tagadható meg, ha az országgyűlési őr tudja, hogy a lőfegyver használatával bűncselekményt követne el.
 
-[^35]: A 34. § a 9/2018. (IV. 25.) BM rendelet 54. § h) pontja szerint módosított szöveg.
+[^39]: A 34. § a 9/2018. (IV. 25.) BM rendelet 54. § h) pontja szerint módosított szöveg.

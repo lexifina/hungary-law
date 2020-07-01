@@ -1,6 +1,6 @@
 ## 9. Eljárás katasztrófa esetén
 
-15. § (1)[^24] Katasztrófa bekövetkezésének vagy veszélyének észlelése esetén az országgyűlési őr haladéktalanul gondoskodik az elhárításra köteles hatóságok és szervek értesítéséről. A szolgálatteljesítés során észlelt katasztrófa vagy annak veszélye esetében az országgyűlési őr haladéktalanul jelentést tesz az ügyeletesnek, aki haladéktalanul értesíti a hivatásos katasztrófavédelmi szerv területileg illetékes ügyeleti szolgálatát, valamint a védett objektummal kapcsolatos észlelés esetében az Országgyűlési Őrség tűzoltási és tűzbiztonsági feladatokat ellátó szervezeti elemét.
+15. § (1)[^26] Katasztrófa bekövetkezésének vagy veszélyének észlelése esetén az országgyűlési őr haladéktalanul gondoskodik az elhárításra köteles hatóságok és szervek értesítéséről. A szolgálatteljesítés során észlelt katasztrófa vagy annak veszélye esetében az országgyűlési őr haladéktalanul jelentést tesz az ügyeletesnek, aki haladéktalanul értesíti a hivatásos katasztrófavédelmi szerv területileg illetékes ügyeleti szolgálatát, valamint a védett objektummal kapcsolatos észlelés esetében az Országgyűlési Őrség tűzoltási és tűzbiztonsági feladatokat ellátó szervezeti elemét.
 
 (2) Katasztrófa helyszínén az országgyűlési őr az elhárításra jogosult hatóságok és szervek megérkezéséig intézkedik
 
@@ -14,4 +14,4 @@ c) – a tűzoltóság tűzoltási és műszaki mentési tevékenységének ált
 
 (4) Az országgyűlési őr a kialakult helyzetről és a megtett intézkedésekről a szolgálati helyére történő bevonulása után haladéktalanul írásos jelentést készít.
 
-[^24]: A 15. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 41. §-ával megállapított szöveg.
+[^26]: A 15. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 41. §-ával megállapított szöveg.

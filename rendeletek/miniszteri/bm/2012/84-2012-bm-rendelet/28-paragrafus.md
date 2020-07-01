@@ -1,3 +1,5 @@
+## 27/A. §[^36] Ha a kényszerítő eszköz alkalmazása az ellenszegülés megtörését, illetve a támadás megakadályozását szolgálta, az országgyűlési őr – a kényszerítő eszköz alkalmazását követően – köteles haladéktalanul szóban is jelentést tenni a szolgálati elöljárójának vagy – a szolgálati elöljáró akadályoztatása esetén – az ügyeletesnek.
+
 28. § (1) Az Ogytv. 133. § (3) bekezdése szerinti kényszerítő eszköz csak akkor alkalmazható, ha az intézkedés alá vont magatartása, ellenszegülésének mértéke annak Rtv. szerinti alkalmazását indokolja. A nagyobb korlátozással, sérüléssel vagy károkozással járó kényszerítő eszköz akkor alkalmazható, ha a kisebb korlátozással, sérüléssel vagy károkozással járó kényszerítő eszköz alkalmazása nem vezetett eredményre vagy sikere eleve kilátástalan.
 
 (2) Az intézkedés alá vont személy magatartása szempontjából az országgyűlési őr az alábbiak szerint tesz különbséget:
@@ -13,3 +15,5 @@ c) támadó magatartást tanúsító személy, aki az intézkedő országgyűlé
 a) a jogellenes magatartás abbahagyására való felszólításnak, „a törvény nevében” szavak előrebocsátásával, valamint
 
 b) a figyelmeztetésnek, hogy kényszerítő eszköz alkalmazása következik.
+
+[^36]: A 27/A. §-t a 19/2020. (VI. 30.) BM rendelet 3. §-a iktatta be.

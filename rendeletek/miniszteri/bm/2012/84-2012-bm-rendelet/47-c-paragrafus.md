@@ -1,4 +1,4 @@
-## 26/C. [^55] Feladatok ellátásának folyamatos biztosítása
+## 26/C. [^59] Feladatok ellátásának folyamatos biztosítása
 
 47/C. § (1) Az Országgyűlési Őrség
 
@@ -18,4 +18,4 @@ d) a rendkívüli eseményekkel összefüggő, halaszthatatlan intézkedések me
 
 (4) Az ügyeletest a feladatának teljesítésétől elvonni, más feladatra igénybe venni nem lehet.
 
-[^55]: A 26/C. alcímet (47/C. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
+[^59]: A 26/C. alcímet (47/C. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.

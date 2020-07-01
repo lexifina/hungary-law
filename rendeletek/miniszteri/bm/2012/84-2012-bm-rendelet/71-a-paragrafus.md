@@ -1,4 +1,4 @@
-71/A. §[^64] (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában az Országgyűlés elnökének külföldi utazása során az Országgyűlési Őrség szolgálati lőfegyvereinek és lőszereinek a személyvédelmi feladatok ellátásával kapcsolatos szolgálati célból történő külföldre vitelére az Országgyűlési Őrség parancsnokának írásbeli engedélye alapján kerülhet sor.
+71/A. §[^71] (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában az Országgyűlés elnökének külföldi utazása során az Országgyűlési Őrség szolgálati lőfegyvereinek és lőszereinek a személyvédelmi feladatok ellátásával kapcsolatos szolgálati célból történő külföldre vitelére az Országgyűlési Őrség parancsnokának írásbeli engedélye alapján kerülhet sor.
 
 (2) A kísérőokmányként felhasználható engedélynek magyar és angol nyelven tartalmaznia kell
 
@@ -28,4 +28,4 @@ c) a kiszállított, illetve a visszaszállított szolgálati lőfegyverek, lős
 
 (5) A kiadott engedély másolatát az Országgyűlési Őrség tájékoztatásul az általános rendőrségi feladatok ellátására létrehozott szerv részére megküldi.
 
-[^64]: A 71/A. §-t a 9/2018. (IV. 25.) BM rendelet 51. §-a iktatta be.
+[^71]: A 71/A. §-t a 9/2018. (IV. 25.) BM rendelet 51. §-a iktatta be.

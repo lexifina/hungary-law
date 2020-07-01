@@ -6,8 +6,9 @@
 
 (3) Az út szolgálati járművel történő eltorlaszolása sürgős esetben, az útzár telepítésének elrendelésére jogosult engedélyével hajtható végre. Ebben az esetben a szolgálati jármű megkülönböztető fényjelzését folyamatosan működtetni kell.
 
-(4)[^34] Az útzár alkalmazását a védett objektum vagy az Országgyűlés elnöke programhelyszíneinek vonatkozásában az Országgyűlési Őrség parancsnoka rendeli el.
+(4)[^37] Az útzár alkalmazását a védett objektum vagy az Országgyűlés elnöke programhelyszíneinek vonatkozásában az Országgyűlési Őrség parancsnoka rendeli el.
 
-(5) Ha az Országgyűlési Őrség parancsnokának az útzár telepítésének elrendelésére vonatkozó döntésének meghozatala indokolatlan késedelemmel járna, az útzár telepítésének engedélyezésére az Országgyűlési Őrség parancsnokának általános helyettese, az ő akadályoztatása esetén az ügyeletes is jogosult.
+(5)[^38] Ha az Országgyűlési Őrség parancsnokának az útzár telepítésének elrendelésére vonatkozó döntésének meghozatala indokolatlan késedelemmel járna, az útzár telepítésének engedélyezésére az Országgyűlési Őrség parancsnokának szakmai helyettese, az ő akadályoztatása esetén az ügyeletes is jogosult.
 
-[^34]: A 33. § (4) bekezdése a 9/2018. (IV. 25.) BM rendelet 54. § g) pontja szerint módosított szöveg.
+[^37]: A 33. § (4) bekezdése a 9/2018. (IV. 25.) BM rendelet 54. § g) pontja szerint módosított szöveg.
+[^38]: A 33. § (5) bekezdése a 19/2020. (VI. 30.) BM rendelet 6. § d) pontja szerint módosított szöveg.

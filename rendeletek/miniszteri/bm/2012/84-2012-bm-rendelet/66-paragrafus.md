@@ -20,7 +20,7 @@ f) a Magyar Honvédség, a rendvédelmi szervek egységei által kísért temet�
 
 (4) A kötelező tiszteletadás szabályai – a helyzetnek megfelelően – nyilvános helyeken, közlekedési eszközökön is érvényesek.
 
-(5)[^60] Ha a szolgálati elöljáró, valamint a feljebbvaló az országgyűlési őrt megdicséri, „Hazámat szolgálom hűséggel, becsülettel!” szavakkal kell válaszolni. Csoport vagy kötelék megdicsérése esetén a parancsnok válaszol.
+(5)[^64] Ha a szolgálati elöljáró, valamint a feljebbvaló az országgyűlési őrt megdicséri, „Hazámat szolgálom hűséggel, becsülettel!” szavakkal kell válaszolni. Csoport vagy kötelék megdicsérése esetén a parancsnok válaszol.
 
 (6) Tiszteletadást nem kell teljesíteni
 
@@ -28,7 +28,7 @@ a) az országgyűlési őr intézkedése közben,
 
 b) forgalomirányításkor,
 
-c)[^61] személyvédelem, lakásbiztosítás, programhely-biztosítás és útvonal-biztosítás közben,
+c)[^65] személyvédelem, lakásbiztosítás, programhely-biztosítás és útvonal-biztosítás közben,
 
 d) tűzoltás közben,
 
@@ -46,5 +46,5 @@ j) a temetési menetben,
 
 k) az alaki szabályzatban meghatározott egyéb esetekben.
 
-[^60]: A 66. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 54. § n) pontja szerint módosított szöveg.
-[^61]: A 66. § (6) bekezdés c) pontja a 37/2018. (XII. 28.) BM rendelet 25. § e) pontja szerint módosított szöveg.
+[^64]: A 66. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 54. § n) pontja szerint módosított szöveg.
+[^65]: A 66. § (6) bekezdés c) pontja a 37/2018. (XII. 28.) BM rendelet 25. § e) pontja szerint módosított szöveg.
