@@ -10,4 +10,4 @@
 
 (6) Az élelmiszerlánc-felügyeleti szerv az (5) bekezdés szerinti minősítést a közétkeztetést nem végző vendéglátó-ipari létesítményekben is lefolytatja az érintettek erre irányuló kérelme esetén.
 
-(7) Az (5) és (6) bekezdés szerinti minősítési eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(7)
