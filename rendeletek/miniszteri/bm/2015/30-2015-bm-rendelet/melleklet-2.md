@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^26]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^23]
 
 Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -6,7 +6,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 1. Központi szervnél
 
-## 0X00180M_0
+## 0X04348M_0
 
 |  | A | B | C | D | E |
 
@@ -40,7 +40,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 2. Területi szervnél
 
-## 0X00180M_1
+## 0X04348M_1
 
 |  | A | B | C | D | E |
 
@@ -72,7 +72,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 3. Helyi szervnél
 
-## 0X00180M_2
+## 0X04348M_2
 
 |  | A | B | C | D | E |
 
@@ -98,7 +98,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_3
+## 0X04348M_3
 
 |  | A | B | C | D | E |
 
@@ -250,7 +250,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_4
+## 0X04348M_4
 
 |  | A | B | C | D | E |
 
@@ -418,7 +418,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_5
+## 0X04348M_5
 
 |  | A | B | C | D | E |
 
@@ -438,7 +438,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_6
+## 0X04348M_6
 
 |  | A | B | C | D |
 
@@ -460,7 +460,7 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_7
+## 0X04348M_7
 
 |  | A | B | C | D |
 
@@ -484,67 +484,87 @@ IV. Nemzetközi Bűnügyi Együttműködési Központ
 
 V. Rendőrségi Oktatási és Kiképző Központ
 
-## (területi szerv besorolású)
+(területi szerv besorolású)
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_8
-
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
 | 3. | kiemelt vezető | területi szerv vezetője | igazgató |  | 100 |
 
-| 4. | közép- vezető | szakirányító 2 | igazgató-helyettes |  | 100 |
+| 4. | középvezető | szakirányító 1 | igazgatóhelyettes |  | 100 |
 
-| 5. | főosztályvezető 1 | főosztályvezető |  | 100 |
+| 5. | középvezető | szakirányító 2 | intézményvezető-helyettes |  | 100 |
 
-| 6. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes |  | 100 |
+| 6. | középvezető | főosztályvezető 1 | tagozatparancsnok |  | 100 |
 
-| 7. | osztályvezető 1 | osztályvezető |  | 100 |
+| 7. | középvezető | főosztályvezető 1 | főosztályvezető |  | 100 |
+
+| 8. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes |  | 100 |
+
+| 9. | beosztott vezető | osztályvezető 1 | osztályvezető |  | 100 |
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_9
-
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | alosztályvezető |  | 100 |
+| 3. | E | osztályvezető- helyettes |  | 100 |
 
-| 4. | osztályvezető-helyettes |  | 100 |
+| 4. | E | alosztályvezető |  | 100 |
 
-| 5. | D | kiemelt főelőadó |  | 100 |
+| 5. | E | szakcsoportvezető |  | 100 |
 
-| 6. | kiképzésvezető |  | 100 |
+| 6. | E | kiemelt főreferens |  | 100 |
 
-| 7. | kiképzésszervező |  | 100 |
+| 7. | E | mesteroktató |  | 100 |
 
-| 8. | lőtérvezető |  | 100 |
+| 8. | E | főorvos |  | 100 |
 
-| 9. | C | főelőadó |  | 100 |
+| 9. | D | kiemelt főelőadó |  | 100 |
+
+| 10. | D | kiképzésvezető |  | 100 |
+
+| 11. | D | kiképzésszervező |  | 100 |
+
+| 12. | D | lőtérvezető |  | 100 |
+
+| 13. | D | kiemelt oktató |  | 100 |
+
+| 14. | D | csoportvezető |  | 100 |
+
+| 15. | D | orvos |  | 100 |
+
+| 16. | C | főelőadó |  | 100 |
+
+| 17. | C | oktatótiszt |  | 100 |
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_10
-
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | referens |  | 100 |
+| 3. | E | mesterkiképző |  | 100 |
 
-| 4. | szakoktató |  | 100 |
+| 4. | E | ügyeletes |  | 100 |
 
-| 5. | C | segédelőadó |  | 100 |
+| 5. | D | referens |  | 100 |
+
+| 6. | D | szakoktató |  | 100 |
+
+| 7. | D | felcser |  | 100 |
+
+| 8. | C | segédelőadó |  | 100 |
 
 VI. Készenléti Rendőrség szolgálati beosztásai
 
@@ -552,7 +572,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_11
+## 0X04348M_11
 
 |  | A | B | C | D | E |
 
@@ -598,7 +618,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 2. Tiszti szolgálati beosztások
 
-## 0X00180M_12
+## 0X04348M_12
 
 |  | A | B | C | D |
 
@@ -670,7 +690,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 3. Tiszthelyettesi szolgálati beosztások
 
-## 0X00180M_13
+## 0X04348M_13
 
 |  | A | B | C | D |
 
@@ -766,7 +786,7 @@ VII. Budapesti Rendőr-főkapitányság
 
 a) Területi szervnél
 
-0X00180M_14
+0X04348M_14
 
 |  | A | B | C | D | E |
 
@@ -794,7 +814,7 @@ a) Területi szervnél
 
 b) Helyi szervnél
 
-0X00180M_15
+0X04348M_15
 
 |  | A | B | C | D | E |
 
@@ -816,7 +836,7 @@ b) Helyi szervnél
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 0X00180M_16
+## 0X04348M_16
 
 |  | A | B | C | D | E |
 
@@ -920,7 +940,7 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 2. Tiszthelyettesi szolgálati beosztások
 
-## 0X00180M_17
+## 0X04348M_17
 
 |  | A | B | C | D | E |
 
@@ -1094,4 +1114,4 @@ VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
 | 5. | B | gépjárművezető |  | 100 |
 
-[^26]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 12. §-a szerint módosított szöveg.

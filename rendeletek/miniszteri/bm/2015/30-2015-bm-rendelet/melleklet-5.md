@@ -58,7 +58,7 @@
 
 | 10. | igazgatóság | B | referens | 100 | 100 |
 
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^27]
 
 A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -256,4 +256,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^30]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^27]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.

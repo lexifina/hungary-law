@@ -4,7 +4,7 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_0
+## 0X04348N_0
 
 |  | A | B | C | D | E |
 
@@ -38,7 +38,7 @@
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_1
+## 0X04348N_1
 
 |  | A | B | C | D |
 
@@ -52,7 +52,7 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_2
+## 0X04348N_2
 
 |  | A | B | C | D |
 
@@ -70,7 +70,7 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_3
+## 0X04348N_3
 
 |  | A | B | C | D | E |
 
@@ -86,7 +86,7 @@
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_4
+## 0X04348N_4
 
 |  | A | B | C | D |
 
@@ -102,7 +102,7 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_5
+## 0X04348N_5
 
 |  | A | B | C | D |
 
@@ -114,11 +114,11 @@
 
 | 4. | C | segédelőadó | 100 | 100 |
 
-## B) A rendészeti szakgimnáziumok szolgálati beosztásai
+## B) A rendvédelmi technikum szolgálati beosztásai
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_6
+## 0X04348N_6
 
 |  | A | B | C | D | E |
 
@@ -128,45 +128,47 @@
 
 | 3. | kiemelt vezető | területi szerv vezetője | igazgató | 100 |  |
 
-| 4. | középvezető | főosztályvezető 2 | igazgató-helyettes | 100 | 100 |
+| 4. | középvezető | főosztályvezető 1 | igazgató-helyettes | 100 | 100 |
 
 | 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 100 | 100 |
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_7
-
 |  | A | B | C | D |
 
 | 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alap- feladat | nem alapfeladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | alosztályvezető, osztályvezető helyettes | 100 | 100 |
+| 3. | E | alosztályvezető | 100 | 100 |
 
-| 4. | szakcsoportvezető | 100 |  |
+| 4. | E | osztályvezető-helyettes | 100 | 100 |
 
-| 5. | szolgálatvezető | 100 | 100 |
+| 5. | E | szakcsoportvezető | 100 |  |
 
-| 6. | vezetőorvos |  | 100 |
+| 6. | E | vezetőorvos |  | 100 |
 
-| 7. | évfolyamparancsnok | 100 |  |
+| 7. | E | évfolyamparancsnok | 100 |  |
 
-| 8. | kiemelt főreferens | 100 | 100 |
+| 8. | E | kiemelt főreferens |  | 100 |
 
-| 9. | D | kiemelt főelőadó | 100 | 100 |
+| 9. | E | mesteroktató | 100 |  |
 
-| 10. | főtanár | 100 |  |
+| 10. | D | kiemelt oktató | 100 | 100 |
 
-| 11. | csoportvezető | 100 | 100 |
+| 11 | D | kiemelt főelőadó |  | 100 |
 
-| 12. | C | tanár | 100 |  |
+| 12. | D | csoportvezető | 100 | 100 |
 
-| 13. | főelőadó | 100 | 100 |
+| 13. | C | oktatótiszt | 100 |  |
+
+| 14. | C | főelőadó | 100 | 100 |
+
+| 15. | C | orvos |  | 100 |
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 9K02155N_8
+## 0X04348N_8
 
 |  | A | B | C | D |
 
@@ -192,7 +194,7 @@
 
 ## D)
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^33]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
 
 A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -290,4 +292,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^33]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.
+[^30]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.
