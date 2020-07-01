@@ -6,7 +6,7 @@ a) a hivatásos szolgálatra való egészségi, pszichikai, fizikai alkalmasság
 
 aa)[^1] a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, az Országgyűlési Őrség (e rendelet alkalmazásában a továbbiakban együtt: rendvédelmi szerv) állományába tartozó hivatásos szolgálati jogviszonyban álló személyekre, a rendvédelmi szerveknél hivatásos állományba pályázókra,
 
-ab)[^2] – a Nemzeti Közszolgálati Egyetem rendészeti igazgatási szak biztonsági, migrációs, valamint vám- és jövedéki igazgatási szakirányára felvételre jelentkezőket, vagy ilyen szakirányon tanulmányokat folytató hallgatókat kivéve – a Nemzeti Közszolgálati Egyetem nappali munkarendben folytatott rendészeti képzésére és a rendészeti szakgimnáziumokba (a továbbiakban együtt: rendészeti oktatási intézmény) felvételre jelentkezőkre, valamint a rendészeti oktatási intézmény nappali tagozatos hallgatóira és tanulóira;
+ab)[^2] – a Nemzeti Közszolgálati Egyetem rendészeti igazgatási szak biztonsági, migrációs, valamint vám- és jövedéki igazgatási szakirányára felvételre jelentkezőket, vagy ilyen szakirányon tanulmányokat folytató hallgatókat kivéve – a Nemzeti Közszolgálati Egyetem nappali munkarendben folytatott rendészeti képzésére és a rendvédelmi technikumba (a továbbiakban együtt: rendészeti oktatási intézmény) felvételre jelentkezőkre, valamint a rendészeti oktatási intézmény nappali tagozatos hallgatóira és tanulóira;
 
 b) a szolgálati lőfegyver ideiglenes bevonása, a szolgálati-, munkabalesetek (betegségek) minősítése, a megváltozott egészségi állapotúak hivatásos szolgálatra való alkalmasságának felülvizsgálata, a hivatásos állomány tagját megillető egészségügyi alapellátás tekintetében – az a) pontban meghatározott szerveken túl – a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjaira;
 
@@ -21,7 +21,7 @@ a)[^5] az Országgyűlési Őrség kivételével a rendvédelmi szervek és a be
 b)[^6] a hivatásos, a rendvédelmi alkalmazotti, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre, valamint szolgálati járandóságra jogosultakra, az Országgyűlési Őrség esetében a hivatásos, a rendvédelmi alkalmazotti állományból nyugállományba helyezettekre.
 
 [^1]: Az 1. § (1) bekezdés a) pont aa) alpontja az 56/2012. (XI. 22.) BM rendelet 159. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés a) pont ab) alpontja a 31/2012. (VI. 28.) BM rendelet 6. §-a és 8. §-a, a 20/2018. (VI. 29.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés a) pont ab) alpontja a 31/2012. (VI. 28.) BM rendelet 6. §-a és 8. §-a, a 20/2018. (VI. 29.) BM rendelet 2. § (2) bekezdése, a 18/2020. (VI. 30.) BM rendelet 2. §-a szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés d) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (2) bekezdése, az 56/2012. (XI. 22.) BM rendelet 159. § b) pontja szerint módosított szöveg. [Az 1. § (1) bekezdés d) pontjának a 6/2019. (III. 11.) BM rendelet 2. § a) pontjával elrendelt módosítása, amely szerint a „közalkalmazotti, kormánytisztviselői, köztisztviselői állományába” szövegrész helyébe a „rendvédelmi alkalmazotti állományába” szöveg lép, nem vezethető át.]
 [^4]: Az 1. § (2) bekezdése a 10/2010. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. § (2) bekezdés a) pontja az 56/2012. (XI. 22.) BM rendelet 159. § c) pontja, a 6/2019. (III. 11.) BM rendelet 2. § b) pontja szerint módosított szöveg.
