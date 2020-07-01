@@ -16,4 +16,4 @@
 
 (7) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére kiadott építési engedély hatályának megszűnésével a hatósági határozattal alapított vezetékjog is megszűnik.
 
-(8) A Hatóságnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(8)
