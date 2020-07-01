@@ -1,0 +1,1 @@
+17/B. § Az NFK köteles az ingatlan-nyilvántartásban az állam tulajdonában lévő területek vonatkozásában a vadászterületeket nyilvántartani, azok határainak változását figyelemmel kísérni.

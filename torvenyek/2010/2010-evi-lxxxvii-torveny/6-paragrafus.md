@@ -1,4 +1,4 @@
-6. § A miniszter a 3. §-ban és az 5. §-ban foglaltakon túl
+6. § A miniszter a 3. §-ban foglaltakon túl
 
 a) kiadja az NFK alapító okiratát, valamint jóváhagyja a szervezeti és működési szabályzatát;
 

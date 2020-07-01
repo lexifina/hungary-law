@@ -1,1 +1,1 @@
-28. § A Nemzeti Földalapba tartozó földrészletek hasznosításából származó bevételeket földvásárlásra, a 15. §-ban foglaltak megvalósítására vagy az államadósság csökkentésére kell fordítani.
+28. § A Nemzeti Földalapba tartozó földrészletek hasznosításából származó bevételeket földvásárlásra, az osztatlan közös földtulajdon megszüntetésére, a kiadatlan részaránytulajdonnal rendelkezők kártalanítására, az öntözési infrastruktúra fejlesztésére, a 15. §-ban foglaltak megvalósítására vagy az államadósság csökkentésére kell fordítani.

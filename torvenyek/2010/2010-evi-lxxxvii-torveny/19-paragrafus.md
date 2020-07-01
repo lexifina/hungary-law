@@ -4,7 +4,7 @@ a) csőd- vagy felszámolási eljárás, végelszámolás, önkormányzati adós
 
 b) tevékenységét felfüggesztette vagy akinek tevékenységét felfüggesztették;
 
-c) az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-ának 20. pontja szerinti, hatvan napnál régebben lejárt esedékességű köztartozással rendelkezik;
+c) az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti, hatvan napnál régebben lejárt esedékességű köztartozással rendelkezik;
 
 d) állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásban hamis adatot szolgáltatott.
 
@@ -22,4 +22,4 @@ követő napon.
 
 (3) A Nemzeti Földalapba tartozó földrészlet hasznosításának részletes szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
-(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni. Ha a szerződés tárgyát föld képezi, a szerződés létrejöttére irányuló eljárásban a szerződő félnek, illetve pályázónak nyilatkoznia kell arról, hogy a szerződés létrejöttével nem lépi túl a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot. A nyilatkozathoz az NFK a földről szóló törvény szerinti földhasználati összesítő eredeti vagy hitelesített másolatának becsatolását kérheti.
+(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni. Ha a szerződés tárgyát föld képezi, a szerződés létrejöttére irányuló eljárásban a szerződő félnek, illetve pályázónak nyilatkoznia kell arról, hogy a szerződés létrejöttével nem lépi túl a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot. A nyilatkozathoz az NFK a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény szerinti földhasználati összesítő eredeti vagy hitelesített másolatának becsatolását kérheti.

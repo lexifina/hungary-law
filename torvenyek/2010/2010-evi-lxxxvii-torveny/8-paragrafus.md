@@ -12,7 +12,7 @@ e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrés
 
 f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 1 millió forintot;
 
-g) véleményezi Nemzeti Földalap helyzetéről és az NFK tevékenységéről készült éves országgyűlési beszámoló tervezetét.
+g)
 
 h) az MNV Zrt.-vel közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint.
 

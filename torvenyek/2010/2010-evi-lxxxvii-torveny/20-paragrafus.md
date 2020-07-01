@@ -12,7 +12,19 @@ c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami fel
 
 (4)
 
-(5) Vagyonkezelési szerződés – erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó szerződést kivéve – határozott időtartamra köthető, melynek időtartama legalább 5 év, legfeljebb a mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt, a földre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
+(5) Vagyonkezelési szerződés – az (5a) bekezdésben meghatározott esetek kivételével – határozott időtartamra köthető, amelynek időtartama legalább 5 év, legfeljebb a mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt, a földre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
+
+(5a) Határozatlan időtartamra köthető vagyonkezelési szerződés
+
+a) az erdőre és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre;
+
+b) a védett természeti területek természetvédelmi kezeléséért felelős szervvel;
+
+c) az állami génmegőrzési feladatot ellátó intézménnyel;
+
+d) az állami tulajdonú vizek és vízilétesítmények fenntartási alapfeladatainak ellátását közvetlenül szolgáló földterületre vízügyi igazgatási szervvel, vagy
+
+e) a 21. § (3d) bekezdésében meghatározott intézménnyel, az ott meghatározott esetben.
 
 (6) A szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásba való bejegyzéssel jön létre, a vagyonkezelőt azonban a szerződés megkötésének időpontjától kezdve megilletik a vagyonkezelő jogai és terhelik kötelezettségei.
 

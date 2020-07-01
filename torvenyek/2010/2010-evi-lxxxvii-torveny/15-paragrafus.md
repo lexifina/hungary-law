@@ -42,7 +42,7 @@ q) szociális földprogram és közfoglalkoztatási program támogatása;
 
 r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 
-s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes föld biztosítás.
+s) különleges rendeltetésű gazdaságok (különösen oktatási, kutatási, büntetés-végrehajtási intézetek), továbbá mintagazdaságok működéséhez kedvezményes föld biztosítása;
 
 t) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. §-a alapján létrehozott szociális szövetkezet részére föld kedvezményes biztosítása;
 

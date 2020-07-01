@@ -1,16 +1,6 @@
-18. § (1) Az NFK – a 21. és 22. §-ban meghatározottak kivételével – a Nemzeti Földalapba tartozó földrészletet
+18. § (1) Az NFK a Nemzeti Földalapba tartozó földrészletet eladással, haszonbérbe adással, vagyonkezelésbe adással, mintagazdasági földhasználati szerződés útján vagy cserével hasznosítja. A 21. és 22. §-ban meghatározott kivételekkel az NFK a Nemzeti Földalapba tartozó földrészletet nyilvános pályázat vagy árverés útján adhat el, továbbá nyilvános pályázat útján adhat haszonbérbe.
 
-a) nyilvános pályázat vagy árverés útján történő eladással,
-
-b) nyilvános pályázat útján történő haszonbérbe adással,
-
-c) vagyonkezelésbe adással,
-
-d) cserével
-
-hasznosítja.
-
-(1a) Föld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
+(1a) Föld vagy tanya haszonbérbe adása során a jogszabály vagy szerződés alapján fennálló előhaszonbérleti jog nem gyakorolható.
 
 (1b) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvénynek a közös tulajdonban álló földek használatára vonatkozó szabályait – ide nem értve a használati megosztásról szóló megállapodásra vonatkozó rendelkezéseket – nem kell alkalmazni az állam tulajdoni hányadának megfelelő területnek pályáztatás útján történő haszonbérbe adása során.
 
@@ -18,10 +8,22 @@ hasznosítja.
 
 (1d) A már működő halastavak esetében a haszonbérbeadó előzetes írásbeli engedélyével létesített beruházást követően – függetlenül a beruházás értékétől – a szerződés időtartama legfeljebb tíz évvel hosszabbítható meg.
 
-(2) Az eladás, a haszonbérbe adás, és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni, valamint előnyben kell részesíteni az élethivatásszerűen mezőgazdasági tevékenységet folytató személyeket.
+(1e) A mintagazdaságnak minősülő haszonbérlővel fennálló haszonbérleti szerződés időtartama legfeljebb 50 évre meghosszabbítható.
+
+(1f) A Nemzeti Földalapba tartozó földrészlet hasznosítása során a vagyonkezelői jog jogosultja tekintetében a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumba nem kell beleszámítani az állam tulajdonában álló olyan földrészlet területnagyságát, amelyet a vagyonkezelői jog jogosultja vagyonkezelőként használ.
+
+(1g) A Nemzeti Földalapba tartozó földrészlet hasznosítása során az (5) bekezdésében meghatározott megbízási szerződés és a 20/A. §-ban meghatározott mintagazdasági földhasználati szerződés jogosultjai tekintetében a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumba nem kell beleszámítani az állam tulajdonában álló olyan földrészlet területnagyságát, amelyet a szerződés jogosultja megbízottként vagy mintagazdaságként használ.
+
+(2) Az eladás, a haszonbérbe adás és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni.
 
 (3) Az NFK a Nemzeti Földalapba tartozó földrészletet érintően csereszerződést elsősorban birtokösszevonási célú földcsere megvalósítása, állattenyésztő telep működésének biztosítása, vagy nemzetgazdasági szempontból kiemelt beruházás megvalósítása céljából köthet.
 
 (4) Addig, amíg az NFK a Nemzeti Földalapba került földrészletet az e törvényben meghatározott módon nem tudja hasznosítani, köteles – a termőföld védelméről szóló törvényben meghatározottak szerint – a föld hasznosítási kötelezettségének teljesítéséről, valamint a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni.
 
-(5) A (4) bekezdésben foglalt feladatok ellátása érdekében a földrészlet e törvény szerinti hasznosításáig, de legfeljebb egy gazdasági évre terjedő időszakra az NFK megbízási szerződést köthet. A megbízási szerződés időtartama meghosszabbítással sem lehet egy gazdasági évnél hosszabb.
+(5) Az NFK megbízási szerződést köthet a (4) bekezdésben foglalt feladatok ellátása érdekében a földrészlet e törvény szerinti hasznosításáig, de legfeljebb egy gazdasági évre terjedő időszakra. A megbízási szerződés időtartama – a (6) bekezdésben meghatározott kivétellel – meghosszabbítással sem lehet egy gazdasági évnél hosszabb.
+
+(6) Ha az NFK vagy jogelődje a (4) bekezdésben foglalt feladatokat három egymást követő évben csak megbízási szerződés útján tudta ellátni, az NFK további három évre megbízási szerződést köthet a földrészletre.
+
+(7) Haszonbérleti szerződés vagy az (5) bekezdés szerinti megbízási szerződés alapján gyakorolt használati jogosultságért ellenértékként – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – legalább a földnek az ingatlan-nyilvántartásban feltüntetett aranykoronában kifejezett kataszteri tiszta jövedelme kétezer-ötszázszorosának megfelelő forint összegű éves díjat kell fizetni.
+
+(8) Ha a haszonbérleti szerződés alapján a használati jogosultság megszerzéséért a haszonbérlő ellenértéket fizetett, annak a haszonbérleti jogviszony – haszonbérleti szerződés szerinti – teljes időtartamából egy évre arányosan számított részét az évente fizetendő haszonbér összegébe bele kell számítani.

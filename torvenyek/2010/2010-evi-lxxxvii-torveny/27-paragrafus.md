@@ -1,1 +1,1 @@
-27. § Az NFK a székhelyén, az internetes honlapján a miniszter által vezetett minisztérium hivatalos lapjában, és honlapján, valamint az önkormányzat polgármesteri hivatalánál történő kifüggesztés útján rendszeresen közzéteszi a Nemzeti Földalapba tartozó értékesítésre vagy haszonbérbeadásra szánt földrészletek jegyzékét.
+### 27. §
