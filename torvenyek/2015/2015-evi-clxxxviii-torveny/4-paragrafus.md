@@ -14,7 +14,7 @@ e) a központi idegenrendészeti nyilvántartásnak a Harmtv. 99. § szerinti r�
 
 f) a menekültügyi nyilvántartásban tárolt arcképmásból képzett arckép profilokat,
 
-g) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok központi útiokmány-nyilvántartásban tárolt arcképmásából képzett arckép profilokat, valamint
+g) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgárok útiokmány-nyilvántartásban tárolt arcképmásából képzett arckép profilokat, valamint
 
 h) az a)–g) pontban meghatározott adathoz rendelt technikai kapcsoló számot, valamint a metaadatokat.
 
