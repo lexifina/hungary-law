@@ -1,4 +1,4 @@
-5/A. §[^5] (1) Hirdetményt közzétételre csak az az ajánlatkérő küldhet meg, illetve hirdetményben ajánlatkérőként csak olyan szervezet szerepelhet, amely a Kbt. 26. § (1) bekezdése szerinti értesítési kötelezettségének – legkésőbb a hirdetmény Hatóság részére történő megküldése előtt két munkanappal – eleget tett.
+5/A. §[^7] (1) Hirdetményt közzétételre csak az az ajánlatkérő küldhet meg, illetve hirdetményben ajánlatkérőként csak olyan szervezet szerepelhet, amely a Kbt. 26. § (1) bekezdése szerinti értesítési kötelezettségének – legkésőbb a hirdetmény Hatóság részére történő megküldése előtt két munkanappal – eleget tett.
 
 (2) Az ajánlatkérőnek minősülő szervezetek esetében a Kbt. 26. § (1) bekezdése szerinti kötelezettség teljesítése az ajánlatkérő felvételére, adatváltozására, illetve törlésére irányuló kérelemmel az EKR-ben történik.
 
@@ -10,4 +10,4 @@
 
 (6) A (2)–(5) bekezdésben foglalt rendelkezések a Kbt. 26. § (1) bekezdésben foglalt kivétel alá tartozó ajánlatkérők esetében is megfelelően alkalmazandók.
 
-[^5]: Az 5/A. §-t az 5/2019. (III. 28.) MvM rendelet 4. §-a iktatta be.
+[^7]: Az 5/A. §-t az 5/2019. (III. 28.) MvM rendelet 4. §-a iktatta be.

@@ -18,7 +18,7 @@
 
 ## 2 adott esetben
 
-9. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+9. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^99]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -58,7 +58,7 @@ I. szakasz: Ajánlatkérő
 
 ## I.4) Az ajánlatkérő típusa
 
-| ⬜Központi szintű ⬜Regionális/helyi szintű ⬜Közjogi szervezet | ⬜Közszolgáltató ⬜Támogatott szervezet [Kbt. 5. § (2)-(3) bekezdés] ⬜Egyéb: |
+| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
 
 ## I.5) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -123,3 +123,5 @@ IV. szakasz: Eljárás
 | IV.3.5) A bírálóbizottság tagjainak neve: 1 2 |
 
 VI. szakasz: Kiegészítő információk
+
+[^99]: A 9. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (8) bekezdése szerint módosított szöveg.

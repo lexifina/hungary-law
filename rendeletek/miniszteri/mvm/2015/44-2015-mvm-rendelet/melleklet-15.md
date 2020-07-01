@@ -124,6 +124,6 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben |
 
-15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^94]
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^104]
 
-[^94]: A 15. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^104]: A 15. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.

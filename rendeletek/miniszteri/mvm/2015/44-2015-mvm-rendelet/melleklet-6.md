@@ -22,7 +22,7 @@
 
 ## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-6. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+6. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^96]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -64,7 +64,7 @@ I. szakasz: Ajánlatkérő
 
 ## I.4) Az ajánlatkérő típusa
 
-| ⬜Központi szintű ⬜Regionális/helyi szintű ⬜Közjogi szervezet | ⬜Közszolgáltató ⬜Támogatott szervezet [Kbt. 5. § (2)-(3) bekezdés] ⬜Egyéb: |
+| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
 
 ## I.5) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -75,3 +75,5 @@ I. szakasz: Ajánlatkérő
 | ⬜Gáz- és hőenergia termelése, szállítása és elosztása ⬜Villamos energia ⬜Földgáz és kőolaj kitermelése ⬜Szén és más szilárd tüzelőanyag feltárása és kitermelése ⬜Víz ⬜Postai szolgáltatások | ⬜Vasúti szolgáltatások ⬜Városi vasúti, villamos-, trolibusz- és autóbusz-szolgáltatások ⬜Kikötői tevékenységek ⬜Repülőtéri tevékenységek ⬜Egyéb tevékenység: |
 
 II. szakasz: Tárgy
+
+[^96]: A 6. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (5) bekezdése szerint módosított szöveg.

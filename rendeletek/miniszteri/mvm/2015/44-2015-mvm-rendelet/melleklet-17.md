@@ -38,7 +38,7 @@
 
 | V.1 A szerződést kötő fél (felek) |
 
-| V.1.1) A szerződést kötő fél (felek)1 |
+| V.1.1) A szerződést kötő fél (felek) |
 
 | Hivatalos név: |
 
@@ -46,7 +46,7 @@
 
 | Város: | Postai irányítószám: |
 
-| V.2) A szerződés teljesítése |
+| V.2) A szerződés teljesítése1 |
 
 | V.2.1) A teljesítés szerződésszerű volt o igen o nem A nem szerződésszerű teljesítés indoka: |
 
@@ -64,6 +64,6 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben |
 
-17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^96]
+17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^106]
 
-[^96]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.
+[^106]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.

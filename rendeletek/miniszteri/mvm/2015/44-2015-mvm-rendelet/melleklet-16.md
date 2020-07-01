@@ -96,6 +96,6 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben |
 
-16. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^95]
+16. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^105]
 
-[^95]: A 16. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^105]: A 16. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (12) bekezdése szerint módosított szöveg.

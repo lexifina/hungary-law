@@ -1,4 +1,4 @@
-1. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+1. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^92]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -48,7 +48,7 @@ I. szakasz: Ajánlatkérő
 
 ## I.4) Az ajánlatkérő típusa
 
-| ⬜Központi szintű ⬜Regionális/helyi szintű ⬜Közjogi szervezet | ⬜Közszolgáltató ⬜Támogatott szervezet [Kbt. 5. § (2)-(3) bekezdés] ⬜Egyéb: |
+| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
 
 ## I.5) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -130,7 +130,7 @@ IV. szakasz: Eljárás
 
 | IV.1.1) Az eljárás fajtája 5 ○Meghívásos eljárás ○Tárgyalásos eljárás |
 
-| IV.1.2) Keretmegallápodásra vagy dinamikus beszerzési rendszerre vonatkozó információk 5 19 ⬜A hirdetmény keretmegállapodás megkötésére irányul ○Keretmegállapodás egy ajánlattevővel ○Keretmegállapodás több ajánlattevővel A keretmegállapodás résztvevőinek tervezett maximális létszáma: 2 [ ] ⬜A hirdetmény dinamikus beszerzési rendszer létrehozására irányul ⬜A dinamikus beszerzési rendszert további beszerzők is alkalmazhatják Keretmegállapodások esetén – klasszikus ajánlatkérők esetében a négy évet meghaladó időtartam indokolása: Keretmegállapodások esetén – közszolgáltató ajánlatkérők esetében a nyolc évet meghaladó időtartam indokolása: |
+| IV.1.2) Keretmegállapodásra vagy dinamikus beszerzési rendszerre vonatkozó információk5 19 □ A hirdetmény keretmegállapodás megkötésére irányul  Keretmegállapodás egy ajánlattevővel  Keretmegállapodás több ajánlattevővel A keretmegállapodás résztvevőinek tervezett maximális létszáma:2 [ ] □ A hirdetmény dinamikus beszerzési rendszer létrehozására irányul □ A dinamikus beszerzési rendszert további beszerzők is alkalmazhatják |
 
 | IV.1.3) Elektronikus árlejtésre vonatkozó információk 12 ⬜Elektronikus árlejtést fognak alkalmazni További információk az elektronikus árlejtésről: |
 
@@ -145,3 +145,5 @@ IV. szakasz: Eljárás
 | IV.2.4) A közbeszerzési eljárás tervezett kezdőnapja: (éééé/hh/nn) 4 5 19 |
 
 VI. szakasz: Kiegészítő információk
+
+[^92]: Az 1. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (1) bekezdése szerint módosított szöveg.

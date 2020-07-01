@@ -1,4 +1,4 @@
-6. §[^6] (1) A hirdetmények TED-en történő közzétételre való feladását, illetve az Értesítőben történő közzétételét a Hatósághoz megküldött kérelemmel kell kezdeményezni.
+6. §[^8] (1) A hirdetmények TED-en történő közzétételre való feladását, illetve az Értesítőben történő közzétételét a Hatósághoz megküldött kérelemmel kell kezdeményezni.
 
 (2) A kérelmet és mellékleteit – a (3) bekezdés szerinti esetek kivételével – az EKR-ben kell létrehozni és az EKR-en keresztül kell a Hatóság részére megküldeni.
 
@@ -42,4 +42,4 @@ k) a Kbt. 75. § (4) bekezdése alapján, ha a Kbt. 41/C. § (1) bekezdésében 
 
 (7) A kérelem és a hirdetmény, illetve a közbeszerzési dokumentumok kézhezvételét a Hatóság a kézhezvétel napján, elektronikus úton visszaigazolja a kérelmezőnek.
 
-[^6]: A 6. § az 5/2019. (III. 28.) MvM rendelet 5. §-ával megállapított szöveg.
+[^8]: A 6. § az 5/2019. (III. 28.) MvM rendelet 5. §-ával megállapított szöveg.

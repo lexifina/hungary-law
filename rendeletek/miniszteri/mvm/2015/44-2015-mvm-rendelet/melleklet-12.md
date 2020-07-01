@@ -10,7 +10,7 @@
 
 ## 2 adott esetben
 
-12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^92]
+12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^101]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -58,7 +58,7 @@ II. szakasz: Tárgy
 
 | II.2.4) A közbeszerzés mennyisége: (az építési beruházás, árubeszerzés vagy szolgáltatás jellege és mennyisége, illetve az igények és követelmények meghatározása) |
 
-| II.2.5) A szerződés, keretmegállapodás vagy dinamikus beszerzési rendszer időtartama Időtartam hónapban: [ ] vagy napban: [ ] vagy Kezdés: (éééé/hh/nn) / Befejezés: (éééé/hh/nn) Keretmegállapodások esetén – klasszikus ajánlatkérők esetében a négy évet meghaladó időtartam indokolása: Keretmegállapodások esetén – közszolgáltató ajánlatkérők esetében a nyolc évet meghaladó időtartam indokolása: |
+| II.2.5) A szerződés, keretmegállapodás vagy dinamikus beszerzési rendszer időtartama Időtartam hónapban: [ ] vagy napban: [ ] vagy Kezdés: (éééé/hh/nn) / Befejezés: (éééé/hh/nn) |
 
 | II.2.6) Európai uniós alapokra vonatkozó információk A közbeszerzés európai uniós alapokból finanszírozott projekttel és/vagy programmal kapcsolatos ○ igen ○ nem Projekt száma vagy hivatkozási száma: |
 
@@ -106,7 +106,7 @@ VI. szakasz: A szerződés módosításai
 
 | VI.1.4) A közbeszerzés mennyisége: (az építési beruházás, árubeszerzés vagy szolgáltatás jellege és mennyisége) |
 
-| VI.1.5) A szerződés, keretmegállapodás vagy dinamikus beszerzési rendszer időtartama Időtartam hónapban: [ ] vagy napban: [ ] vagy Kezdés: (éééé/hh/nn) / Befejezés: (éééé/hh/nn) Keretmegállapodások esetén – klasszikus ajánlatkérők esetében a négy évet meghaladó időtartam indokolása: Keretmegállapodások esetén – közszolgáltató ajánlatkérők esetében a nyolc évet meghaladó időtartam indokolása: |
+| VI.1.5) A szerződés, keretmegállapodás vagy dinamikus beszerzési rendszer időtartama Időtartam hónapban: [ ] vagy napban: [ ] vagy Kezdés: (éééé/hh/nn) / Befejezés: (éééé/hh/nn) |
 
 | VI.1.6) A szerződés értékére vonatkozó információk (ÁFA nélkül) A szerződés végleges összértéke: [ ] Pénznem: [ ][ ][ ] |
 
@@ -136,4 +136,4 @@ VI. szakasz: A szerződés módosításai
 
 VII. szakasz: Kiegészítő információk
 
-[^92]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^101]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (10) bekezdése szerint módosított szöveg.

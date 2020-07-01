@@ -26,6 +26,6 @@
 
 (13) A Kbt. 137. § (2) bekezdése szerinti, szerződéskötési szándékra vonatkozó (önkéntes előzetes átláthatóságra vonatkozó) hirdetmény mintáját, ha szerződés becsült értéke nem éri el az uniós értékhatárt, a 13. melléklet tartalmazza.
 
-(14)[^66] A Kbt. Harmadik Része alkalmazásában a Kbt. 107. § (9) bekezdése szerinti esetben a dinamikus beszerzési rendszer időtartamának megváltozásáról a 2. melléklet szerinti hirdetményt, előzetes tájékoztatóval, valamint időszakos előzetes tájékoztatóval meghirdetett eljárás esetén az 1. melléklet szerinti hirdetménymintát kell alkalmazni.
+(14)[^69] A Kbt. Harmadik Része alkalmazásában a Kbt. 107. § (9) bekezdése szerinti esetben a dinamikus beszerzési rendszer időtartamának megváltozásáról a 2. melléklet szerinti hirdetményt, előzetes tájékoztatóval, valamint időszakos előzetes tájékoztatóval meghirdetett eljárás esetén az 1. melléklet szerinti hirdetménymintát kell alkalmazni.
 
-[^66]: A 34. § (14) bekezdését a 43/2016. (XII. 30.) MvM rendelet 8. §-a iktatta be.
+[^69]: A 34. § (14) bekezdését a 43/2016. (XII. 30.) MvM rendelet 8. §-a iktatta be.

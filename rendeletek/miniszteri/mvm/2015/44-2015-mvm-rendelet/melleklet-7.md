@@ -28,7 +28,7 @@
 
 ## 15 ezt az információt itt vagy – adott esetben – az eljárás megindító felhívásban adja meg
 
-7. melléklet a 44/2015. (XI. 2.) MvM rendelethez
+7. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^97]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -68,7 +68,7 @@ I. szakasz: Ajánlatkérő
 
 ## I.4) Az ajánlatkérő típusa
 
-| ⬜Központi szintű ⬜Regionális/helyi szintű ⬜Közjogi szervezet | ⬜Közszolgáltató ⬜Támogatott szervezet [Kbt. 5. § (2)-(3) bekezdés] ⬜Egyéb: |
+| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
 
 ## I.5) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -155,3 +155,5 @@ IV. szakasz: Eljárás
 | IV.2.2) Azok a nyelvek, amelyeken az ajánlatok vagy részvételi jelentkezések benyújthatók: [ ] [ ] 1 |
 
 VI. szakasz: Kiegészítő információk
+
+[^97]: A 7. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (6) bekezdése szerint módosított szöveg.
