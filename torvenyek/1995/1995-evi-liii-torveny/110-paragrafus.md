@@ -96,7 +96,9 @@
 
 39. a vízvédelmi hatósági eljárással kapcsolatos kiegészítő eljárási szabályokat;
 
-40. a levegőtisztaság-védelemmel kapcsolatos hatósági eljárások és a nyilvántartásba vétel szabályait, valamint a nyilvántartásba vétel tartalmi követelményeit.
+40. a levegőtisztaság-védelemmel kapcsolatos hatósági eljárások és a nyilvántartásba vétel szabályait, valamint a nyilvántartásba vétel tartalmi követelményeit;
+
+41. az Országos Környezeti Kármentesítési Program végrehajtásával és az állami felelősségi körbe tartozó területek kármentesítésével kapcsolatos feladatokat, valamint a barnamezős területek hasznosításával kapcsolatos részletes szabályokat, ideértve a barnamezős területekre vonatkozó adatszolgáltatás és nyilvántartás rendjét.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

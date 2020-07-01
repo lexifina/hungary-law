@@ -1,0 +1,1 @@
+49/B. § A klímavédelemért felelős hatóság az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvényben meghatározott feladatai ellátása céljából jogosult az Információs Rendszer adataihoz való közvetlen hozzáférésre, továbbá az Információs Rendszerben adatok rögzítésére.

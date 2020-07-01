@@ -18,7 +18,7 @@ d) környezetkárosodás bekövetkezése esetén az eredeti állapotot vagy a k�
 
 e) az általa okozott környezetkárosodásért helytállni és a megelőzési, illetve helyreállítási költségeket viselni.
 
-(3) A (2) bekezdés a), illetve e) pontjában foglaltak elmaradása vagy eredménytelensége esetén a környezetvédelmi hatóság, illetőleg a más hatóság által engedélyezett tevékenység esetén a környezetvédelmi hatóság megkeresésére az engedélyező hatóság, illetve a bíróság – a környezetveszélyeztetés vagy környezetkárosodás mértékétől függően – a környezetveszélyeztető, illetve környezetkárosító tevékenység folytatását korlátozza, az általa megállapított feltételek biztosításáig felfüggeszti vagy megtiltja.
+(3) A (2) bekezdés a), illetve e) pontjában foglaltak elmaradása vagy eredménytelensége esetén a környezetvédelmi hatóság, vagy a más hatóság által engedélyezett tevékenység esetén a környezetvédelmi hatóság megkeresésére az engedélyező hatóság, illetve a bíróság – a környezetveszélyeztetés vagy környezetkárosodás mértékétől függően – a környezetveszélyeztető, illetve környezetkárosító tevékenység folytatását korlátozza, az általa megállapított feltételek biztosításáig felfüggeszti vagy megtiltja.
 
 (4) Ha a megelőző és a helyreállítási intézkedések elvégzése más tulajdonában, birtokában (használatában) álló területet érint, az érintett ingatlan tulajdonosa, birtokosa (használója) tűrni köteles a megelőző és helyreállítási intézkedések elvégzését. Az érintett ingatlan tulajdonosát, birtokosát (használóját) kártalanítás illeti meg.
 

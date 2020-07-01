@@ -4,7 +4,7 @@ a) engedélyezi a tevékenység folytatását (a továbbiakban: működési enge
 
 b) az engedély megadásával egyidejűleg a szükséges környezetvédelmi intézkedések megtételére kötelezi az érdekeltet, ideértve a kormányrendeletben meghatározott biztosítékadási, illetve környezetvédelmi biztosítási kötelezettségeket is;
 
-c) korlátozza, felfüggeszti vagy megtiltja a tevékenység folytatását, illetőleg az erre hatáskörrel rendelkező szervnél azt kezdeményezi.
+c) korlátozza, felfüggeszti vagy megtiltja a tevékenység folytatását, vagy az erre hatáskörrel rendelkező szervnél azt kezdeményezi.
 
 (2) Korlátozó vagy felfüggesztő döntés esetén a környezetvédelmi hatóság meghatározza a tevékenység folytatásának környezetvédelmi feltételeit.
 

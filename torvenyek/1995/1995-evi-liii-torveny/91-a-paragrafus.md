@@ -8,4 +8,4 @@ b) a kármentesítési beavatkozás záródokumentációjának elfogadásáról,
 
 c) a kármentesítési monitoring záródokumentációjának elfogadásáról és a kármentesítési intézkedések befejezéséről.
 
-(3) A (2) bekezdés szerinti eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3)

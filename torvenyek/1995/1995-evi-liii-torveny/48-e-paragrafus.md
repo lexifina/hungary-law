@@ -2,7 +2,7 @@
 
 a) a légszennyezettség-csökkentési intézkedési programmal, valamint a légszennyezéssel,
 
-b) a zaj és rezgés elleni védelemmel, a külön jogszabály alapján stratégiai zajtérkép készítésére kötelezett települési önkormányzatok esetén a stratégiai zajtérképek alapján készítendő intézkedési tervekkel,
+b) a zaj és rezgés elleni védelemmel, valamint a stratégiai zajtérképekre épülő intézkedési tervekkel,
 
 c) a zöldfelület-gazdálkodással,
 
