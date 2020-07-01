@@ -10,7 +10,7 @@ ab) tartósan beteg vagy fogyatékos, vagy olyan családban él, amelyben tartó
 
 ac) olyan családban él, amelyben három vagy több gyermeket nevelnek,
 
-ad) olyan családban él, amelyben a szülő nyilatkozata alapján az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének 130%-át vagy
+ad) olyan családban él, amelyben a szülő nyilatkozata alapján az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér személyi jövedelemadóval és társadalombiztosítási járulékkal csökkentett összegének 130%-át vagy
 
 ae) nevelésbe vették;
 

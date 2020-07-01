@@ -24,7 +24,9 @@ ba) a súlyos személyiségfejlődési, érzelmi élet- és impulzuskontroll-zav
 
 bb) a súlyos magatartási és beilleszkedési zavarokat vagy súlyos antiszociális viselkedésformákat tanúsító gyermek (a továbbiakban együtt: súlyos disszociális tüneteket mutató gyermek),
 
-bc) az alkohol, drog és egyéb pszichoaktív szert használó gyermek (a továbbiakban: pszichoaktív szert használó gyermek)
+bc) az alkohol, drog és egyéb pszichoaktív szert használó gyermek (a továbbiakban: pszichoaktív szert használó gyermek),
+
+bd) a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló törvényben meghatározott szexuális szolgáltatásra felajánlkozás tilalmát megszegő gyermek (a továbbiakban: emberkereskedelem feltételezett áldozatává vált gyermek)
 
 számára;
 

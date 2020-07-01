@@ -17,3 +17,5 @@ a) a gyermek örökbefogadó családjába és új környezetébe történő beil
 b) a gyermek örökbefogadó családjában történő nevelésének személyes tanácsadással történő segítése.
 
 (5) A területi gyermekvédelmi szakszolgálat az utánkövetés megtörténtéről és annak tapasztalatairól tájékoztatja az örökbefogadást engedélyező gyámhatóságot.
+
+(6) A területi gyermekvédelmi szakszolgálat vezetője az örökbefogadás utánkövetéséről a 135. § (5) bekezdés c) pontjában meghatározott adatokat a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszerben rögzíti.

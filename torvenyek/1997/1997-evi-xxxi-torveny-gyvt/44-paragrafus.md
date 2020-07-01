@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés alkalmazásában
 
-a) foglalkoztató: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 1. és 3. alpontja szerinti személy, szervezet,
+a) foglalkoztató: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 4. § 4. pont 4.1. és 4.2. alpontja szerinti személy, szervezet,
 
 b) keresőtevékenység: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés e) pontja szerinti tevékenység.
 

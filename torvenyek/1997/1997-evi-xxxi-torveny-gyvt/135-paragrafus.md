@@ -62,11 +62,11 @@ bf) áldozattá válásának körülményeire vonatkozó, az Ást. 16. § (2) be
 
 c) a gyermek
 
-ca) testvéreinek személyazonosító,
+ca) testvéreinek személyazonosító és társadalombiztosítási azonosító jelére vonatkozó,
 
-cb) saját gyermekének személyazonosító,
+cb) saját gyermekének személyazonosító és társadalombiztosítási azonosító jelére vonatkozó,
 
-cc) kapcsolattartásra jogosult hozzátartozójának személyazonosító,
+cc) kapcsolattartásra jogosult hozzátartozójának személyazonosító és társadalombiztosítási azonosító jelére vonatkozó,
 
 cd) lakóhelyén életvitelszerűen tartózkodó személyek személyazonosító és személyes körülményeire vonatkozó,
 
@@ -96,7 +96,27 @@ di) a javítóintézet utógondozó részlegén történő ellátás biztosítá
 
 adatainak a kezelésére.
 
-(3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését az (1) és (2) bekezdésben meghatározott adattartalmú – külön jogszabályban meghatározott – környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök pontos tartalmát a külön jogszabály szerinti gyermekvédelmi nyilvántartás rögzíti.
+(3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
+
+a) a gyermekjóléti alapellátások tekintetében a gyermekvédelmi nyilvántartásban,
+
+b) a gyermekvédelmi szakellátások tekintetében a Gyermekeink védelmében elnevezésű informatikai rendszerben,
+
+c) a javítóintézeti ellátás tekintetében a javítóintézeti informatikai rendszerben
+
+történik.
+
+(3a) A Gyermekeink védelmében elnevezésű informatikai rendszerben
+
+a) a (2) bekezdés a)–c) pontjai szerinti adatok rögzítése a törzsadat alrendszerben,
+
+b) a gyermek nevelkedésének megtervezése a környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv alapján, valamint a gondozási-nevelési tevékenység megvalósításának értékelése a tervező és értékelő alrendszerben,
+
+c) a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
+
+d) az örökbefogadás előkészítésének és utánkövetésének megvalósítását szolgáló adminisztráció az örökbefogadási alrendszerben
+
+történik.
 
 (4) A gyermekjóléti központ, a gyámhatóság, a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő a 15. § (2)–(4) bekezdésében meghatározott ellátások nyújtása vagy intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
 
@@ -132,7 +152,7 @@ bh) – hozzájárulása esetén – fényképét,
 
 bi) hozzájárulását ahhoz, hogy az e pont szerinti adatait – az országos örökbefogadást elősegítő szerv közreműködésével – az örökbefogadható gyermek szerinti másik területi gyermekvédelmi szakszolgálat a gyermek örökbefogadásának elősegítése céljából kezelje.
 
-c) az örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat, valamint a gyermek örökbefogadó családjába történő beilleszkedésére, nevelésére és fejlődésére vonatkozó adatokat,
+c) az örökbe fogadó szülő személyazonosító adatait, családi helyzetére, egészségi állapotára, vagyoni helyzetére vonatkozó adatokat, a Magyarországon élő örökbe fogadó szülő társadalombiztosítási azonosító jelére vonatkozó adatot, valamint az örökbe fogadott gyermek személyazonosító adatait, társadalombiztosítási azonosító jelére vonatkozó adatot és az örökbefogadó családjába történő beilleszkedésére, nevelésére és fejlődésére vonatkozó adatokat,
 
 d) a válsághelyzetben lévő várandós anya, a vér szerinti szülő személyazonosító adatait, az egészségi állapotára vonatkozó adatokat és – önkéntes adatszolgáltatása alapján – a vagyoni helyzetére, a családi helyzetére és a terhesség eltitkolásának tényére, okára vonatkozó adatokat,
 
@@ -161,6 +181,10 @@ ej) fényképét, róla készített mozgóképet,
 ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósági és a családi helyzetére vonatkozó bírósági döntésekben foglalt adatokat.
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(4) bekezdései szerinti célból egymásnak átadhatják.
+
+(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a megyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
+
+(6b) A gyermekjogi képviselő a feladat- és hatáskörébe tartozó ügy intézése során a Gyermekeink védelmében elnevezésű informatikai rendszerben rögzített adatokat jogosult megtekinteni.
 
 (7) Gyámhatóság, a gyermekjóléti központ vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(5) bekezdésében meghatározott szolgáltatások, ellátások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő központ tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 

@@ -10,6 +10,8 @@ c) a gyermekotthon telephelye vagy a nevelőszülő lakóhelye megváltozik, vag
 
 d) a nagy létszámú fogyatékosok vagy pszichiátriai betegek otthona az Szt. 75. §-a szerinti támogatott lakhatássá kerül átalakításra,
 
+e) a rendőrség a 76/B. § b) pontja szerinti általános védelmi intézkedéséről értesítette,
+
 és ezért a gyermek nevelését az addigi ellátási formában már nem vagy nem megfelelő módon lehet biztosítani.
 
 (2) A gyámhatóság a gondozási hely megváltoztatásáról soron kívül, azonnal végrehajtható határozatban dönt.

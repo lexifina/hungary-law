@@ -24,6 +24,6 @@ b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkés�
 
 (10a) A kötelezett írásban vállalhatja a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben nem kell a 150. § (3) bekezdésében foglaltakat alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő ne kerüljön előnyösebb helyzetbe, mint ha a vállalást a kötelezett nem tenné meg.
 
-(10b) Bölcsődei ellátás biztosítása esetén a térítési díj fizetésére köteles szülő, más törvényes képviselő a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 1. és 3. alpontja szerinti foglalkoztatója részben vagy egészben átvállalhatja a térítési díj megfizetését.
+(10b) Bölcsődei ellátás biztosítása esetén a térítési díj fizetésére köteles szülő, más törvényes képviselő a Tbj. 4. § 4. pont 4.1. és 4.2. alpontja szerinti foglalkoztatója részben vagy egészben átvállalhatja a térítési díj megfizetését.
 
 (11) A központi költségvetésről szóló törvényben biztosított támogatásban nem részesülő fenntartó esetén a 147. §-t, a 148. § (4) bekezdését és a 150. §-t nem kell alkalmazni.

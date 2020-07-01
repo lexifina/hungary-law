@@ -34,15 +34,25 @@ i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás terület�
 
 j) gondoskodik az országos örökbefogadás elősegítéséről,
 
-k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit.
+k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit,
 
-(3) A miniszter gondoskodik a nevelésbe vett
+l) kijelöli az emberkereskedelem feltételezett áldozatává vált gyermekeket befogadó speciális gyermekotthonokat.
 
-a) súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő, továbbá
+(3) A miniszter gondoskodik az ideiglenes hatállyal elhelyezett és a nevelésbe vett
+
+a) súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő, vagy az emberkereskedelem feltételezett áldozatává vált gyermekek ellátásának feltételeiről, és
 
 b) akut orvosi ellátást nem igénylő – egyedi gondozásra szoruló – szerzett immunhiányos tünetegyüttesben szenvedő gyermekek ellátásának feltételeiről,
 
-feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye alapján – a gondozásuk máshol nem biztosítható, vagy ha külön elhelyezésük szükséges. Ennek érdekében a Kormány rendeletében kijelölt szerv központi szerve útján speciális gyermekotthonok fenntartásáról gondoskodik.
+feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye vagy az általános védelmi intézkedés alapján – a gondozásuk máshol nem biztosítható, vagy ha külön elhelyezésük szükséges. Ennek érdekében a Kormány rendeletében kijelölt szerv központi szerve útján speciális gyermekotthonok fenntartásáról gondoskodik.
+
+(3a) A (3) bekezdés szerinti, a miniszter által az emberkereskedelem feltételezett áldozatává vált gyermek befogadására kijelölt speciális gyermekotthon legfeljebb 60 napra befogadja a rendőrség általános védelmi intézkedése alapján az országos gyermekvédelmi szakértői bizottság véleménye hiányában is
+
+a) az ideiglenes hatállyal elhelyezett, továbbá
+
+b) a már nevelésbe vett és ideiglenes gondozási hellyel vagy gondozási hellyel rendelkező
+
+gyermeket a gyermek biztonsága és azonnali terápiában való részesítése érdekében.
 
 (4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont, kizárólag menekültként, oltalmazottként vagy menedékesként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthont, ideiglenes befogadó férőhelyet, tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyet tart fenn, vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
