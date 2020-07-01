@@ -10,7 +10,7 @@ a) a kérelem a kormányablaknál nem terjeszthető elő,
 
 b) a területi elnökség hatáskörébe tartozó ügyben nincs helye sommás eljárásnak,
 
-c) a függő hatályú döntésben a hatóság nem rendelkezik arról, hogy a kérelmezett jog gyakorlása az ügyfelet megilleti, valamint
+c)
 
 d) meghatározott cselekmény végrehajtása tekintetében a végrehajtást foganatosító szerv az elsőfokú határozatot hozó ügyvédi kamara.
 
