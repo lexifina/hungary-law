@@ -10,6 +10,7 @@
 
 (3) Az üzemeltető a belső védelmi terv készítése során lehetőséget biztosít arra, hogy a tervről a veszélyes anyagokkal foglalkozó üzem munkavállalói és az üzem területén folyamatos megbízással tevékenységet végző alvállalkozók véleményt nyilváníthassanak.
 
-(4) A belső védelmi tervben foglaltakat az üzemeltető valamennyi, a veszélyes anyagokkal foglalkozó üzem területén dolgozó személlyel – beleértve a hosszabb távú együttműködés keretében foglalkoztatott alvállalkozókat is – megismerteti, és annak alkalmazására a munkavállalókat felkészíti.
+(4)[^48] A belső védelmi tervben foglaltakat az üzemeltető valamennyi, a veszélyes anyagokkal foglalkozó üzem területén dolgozó személlyel – beleértve a hosszabb távú együttműködés keretében foglalkoztatott alvállalkozókat is – megismerteti, és annak alkalmazására a munkavállalókat évente, dokumentáltan felkészíti.
 
 [^47]: A 19. § (2) bekezdése a 34/2015. (II. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^48]: A 19. § (4) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.

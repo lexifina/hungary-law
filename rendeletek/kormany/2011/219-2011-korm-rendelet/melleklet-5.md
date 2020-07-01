@@ -88,7 +88,7 @@ f) a feltárt súlyos balesetekhez kapcsolódó kárelhárítási feladatok vég
 
 a) a külső védelmi terv beindításáért felelős szervezet riasztásának módja, a riasztáskor közlendő információk, a helyzet kialakulását követő részletes információk tartalma, és az információk átadásának módja,
 
-b)[^153] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
+b)[^156] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
 
 1.6. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
@@ -100,4 +100,4 @@ b)[^153] a küszöbérték alatti üzem környezetében kialakult veszélyhelyze
 
 A súlyos káresemény elhárítási terv formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
 
-[^153]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
+[^156]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^155]
+7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^158]
 
 A hatósági engedélyezési és felügyeleti tevékenység során alkalmazott követelmények,
 
@@ -124,7 +124,7 @@ b) Az állásfoglalás kialakítása során figyelembe kell venni, hogy az a) po
 
 |  | A. | Lakóépület, kereskedelmi szálláshely, nyaraló | 1. Ha a lakóház háromnál kevesebb lakást foglal magába vagy ha kereskedelmi szálláshely 10 főnél kisebb férőhelyes, a B. kategóriába kell sorolni. 2. Idős vagy fogyatékos személyeknek épült lakóházakat, közösségi otthonokat a C. kategóriába kell sorolni. 3. Ötszintes vagy magasabb házakat a D. kategóriába kell sorolni. |
 
-|  | B. | Munkahely, parkoló | 1. Ha 200 gépjárműnél nagyobb befogadóképességű a parkoló vagy más létesítmények tartoznak hozzá, a C. kategóriába kell sorolni. 2. A 100 főnél több személyt befogadó, vagy 3 szintesnél magasabb kereskedelmi vagy ipari épületet, vagy mozgássérülteknek készült ipari vagy kereskedelmi építményeket a C. kategóriába kell sorolni. |
+|  | B. | Munkahely, parkoló | 1. Ha 200 gépjárműnél nagyobb befogadóképességű a parkoló vagy más létesítmények tartoznak hozzá, a C. kategóriába kell sorolni. 2. A 100 főnél több személyt befogadó, vagy 3 szintesnél magasabb kereskedelmi vagy ipari épületet, munkahelyet, vagy mozgássérülteknek készült ipari vagy kereskedelmi építményeket, munkahelyeket a C. kategóriába kell sorolni. |
 
 |  | C. | Kiskereskedelmi üzlet, kis befogadóképességű közösségi létesítmény, szabadidős létesítmény | 1. A 250 m2-nél kisebb kisipari célú, 100 m2-nél kisebb közösségi épületek és szabadidőközpontok a B. kategóriába tartoznak. 2. Az 5000 m2-nél nagyobb épületek a D. kategóriába tartoznak. 3. A nyitott terű létesítmények, ahol alkalmanként 1000-nél több ember lehet jelen (piac, stadion stb.), a D. kategóriába tartoznak. |
 
@@ -250,4 +250,4 @@ f) részt vesz a hatósági ellenőrzéseken és a helyszíni szemléken.
 
 6.5. A veszélyes ipari védelmi ügyintéző alkalmazását vagy megbízását követően a veszélyes anyagokkal foglalkozó üzem üzemeltetője 8 napon belül a hatóság felé bejelenti a veszélyes ipari védelmi ügyintéző nevét, telefonszámát.
 
-[^155]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 43. § d) pontja szerint módosított szöveg.
+[^158]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 43. § d) pontja, a 317/2020. (VII. 1.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.

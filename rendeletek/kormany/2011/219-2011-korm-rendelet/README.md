@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-219-20-
 | 2017-01-01 | 2011-219-20-22.13 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2011-219-20-22.14 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-08-17 | 2011-219-20-22.15 | 176/2019. (VII. 18.) Korm. rendelet |
+| 2020-07-01 | 2011-219-20-22.16 | 317/2020. (VII. 1.) Korm. rendelet |

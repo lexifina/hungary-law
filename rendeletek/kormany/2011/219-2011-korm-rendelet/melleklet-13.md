@@ -1,4 +1,4 @@
-13. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^170]
+13. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^173]
 
 Súlyos baleset veszélyét magában nem hordozó veszélyes anyag vagy keverék bejelentésének kötelező tartalmi elemei
 
@@ -46,4 +46,4 @@ d) amennyiben rendelkezésre áll, az anyag vagy keverék uniós besorolása,
 
 e) információ az anyagra nézve egyedi üzemi feltételekről (hőmérséklet, nyomás és – adott esetben – egyéb feltételek), amelyek között a veszélyes anyagot tárolják, felhasználják és/vagy rendellenes működés és vagy üzemzavar, tűz esetén feltételezhetően fennállhatnak.
 
-[^170]: A 13. mellékletet a 34/2015. (II. 27.) Korm. rendelet 30. § (7) bekezdése iktatta be.
+[^173]: A 13. mellékletet a 34/2015. (II. 27.) Korm. rendelet 30. § (7) bekezdése iktatta be.
