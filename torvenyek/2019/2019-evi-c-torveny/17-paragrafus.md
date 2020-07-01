@@ -1,1 +1,3 @@
-### 17. §
+17. § Az Áfa tv. a következő 337. §-sal egészül ki:
+
+„337. § Az adólevonási jog gyakorlására vonatkozó tárgyi feltételt – az egyéb, e törvényben meghatározott feltételek fennállása esetén – teljesíti az olyan 2020. július 1-jét megelőzően, de 2020. június 30-át követő teljesítési időponttal kibocsátott, kiállított, 100 000 forintot el nem érő áthárított adót tartalmazó számla is, amely nem tartalmazza a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel módosított 169. § d) pont dc) alpontja szerinti adatot.”
