@@ -58,7 +58,7 @@ b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ell
 
 c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szerinti állam irányadó szociális és munkajoga alapján a tagra irányadó öregségi nyugdíjkorhatár;
 
-26. önfoglalkoztató: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § b) pontjának 1–6. alpontjában, valamint c) pontjában megjelölt személyek;
+26. önfoglalkoztató: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 2. pont 2.1–2.6. alpontjában, valamint 21. pontjában megjelölt személyek;
 
 27. szavatoló tőke: a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álló, e törvény szabályai szerint megállapított tőkeösszeg, amely a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben fennálló követelések kielégítésébe tőkeként azonnal, harmadik fél hozzájárulása nélkül bevonható, és amely arra szolgál, hogy a foglalkoztatói nyugdíjszolgáltató intézmény akkor is teljesíteni tudja kötelezettségeit, ha erre a beérkezett hozzájárulások, illetve a nyugdíjtechnikai tartalékok nem nyújtanak fedezetet;
 

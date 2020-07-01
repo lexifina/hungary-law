@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-117-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2007-117-00-00.30 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2007-117-00-00.31 |
 | 2020-01-18 | 2019. évi CXVIII. törvény | 2007-117-00-00.32 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 2007-117-00-00.33 |
