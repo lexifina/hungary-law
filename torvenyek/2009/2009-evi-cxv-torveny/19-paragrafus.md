@@ -2,7 +2,7 @@
 
 19. § (1) Az egyéni vállalkozói tevékenységre való jogosultság e törvény erejénél fogva megszűnik
 
-a) ha az egyéni vállalkozó tevékenysége megszüntetését a Hatóságnak vagy a nyilvántartó szervnek bejelenti, a bejelentés napján,
+a) ha az egyéni vállalkozó tevékenysége megszüntetését a Közreműködő Szervnek vagy a nyilvántartó szervnek bejelenti, a bejelentés napján,
 
 b) ha az egyéni vállalkozó egyéni céget vagy a 19/C. § szerinti korlátolt felelősségű társaságot alapított, a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, vagy ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
 
@@ -18,7 +18,7 @@ g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem j
 
 (2) Az egyéni vállalkozói tevékenységre való jogosultság megszűnése alapjául szolgáló tényről
 
-a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1) és (2) bekezdés szerinti tények igazolása érdekében, az egyéni vállalkozó gondnokság alá helyezése esetén a Hatóság, halála esetén a Hatóság vagy a személyiadat- és lakcímnyilvántartást, illetve a központi idegenrendészeti nyilvántartást vezető szerv,
+a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1) és (2) bekezdés szerinti tények igazolása érdekében, az egyéni vállalkozó gondnokság alá helyezése esetén a Közreműködő Szerv, halála esetén a Közreműködő Szerv vagy a személyiadat- és lakcímnyilvántartást, illetve a központi idegenrendészeti nyilvántartást vezető szerv,
 
 b) az egyéni vállalkozó adószámának törlése esetén az állami adóhatóság,
 
@@ -34,4 +34,4 @@ b)
 
 c) ha az egyéni vállalkozó a 11. § (1) bekezdés c) pontja szerinti tevékenységek egyikét sem folytathatja jogszerűen,
 
-(4) A nyilvántartást vezető szerv azt az egyéni vállalkozót, akinek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból, és erről az egyéni vállalkozót – az (1) bekezdés c) és e) pontjának kivételével – tájékoztatja. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(4) A nyilvántartást vezető szerv azt az egyéni vállalkozót, akinek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból, és erről az egyéni vállalkozót – az (1) bekezdés c) és e) pontjának kivételével – tájékoztatja. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja a Központi Statisztikai Hivatalt, valamint a Hatóságot.

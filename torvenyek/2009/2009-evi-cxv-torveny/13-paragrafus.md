@@ -12,4 +12,4 @@ d) a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladataik ell
 
 (3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja nevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
 
-(4) A nyilvántartást vezető szerv és a Hatóság kérelemre adatszolgáltatást teljesít és hatósági bizonyítványt állít ki.
+(4) A nyilvántartást vezető szerv és a Közreműködő Szerv kérelemre adatszolgáltatást teljesít és hatósági bizonyítványt állít ki.

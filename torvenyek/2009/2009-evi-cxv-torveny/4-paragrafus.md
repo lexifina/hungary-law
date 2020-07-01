@@ -6,7 +6,7 @@
 
 a) elektronikus úton, elektronikus azonosítást követően vagy
 
-b) a Hatóságnál
+b) a Közreműködő Szervnél
 
 kezdeményezhető.
 

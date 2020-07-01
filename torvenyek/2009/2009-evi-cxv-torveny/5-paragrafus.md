@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti bejelentést
 
-a) a Hatóság útján vagy
+a) a Közreműködő Szerv útján vagy
 
 b) elektronikus azonosítást követően az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
 

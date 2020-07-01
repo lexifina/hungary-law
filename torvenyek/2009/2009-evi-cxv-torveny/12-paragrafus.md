@@ -1,3 +1,3 @@
-12. § (1) A nyilvántartást vezető szerv az állami adóhatóság elektronikus értesítése alapján, hivatalból intézkedik az egyéni vállalkozó adószámának törlése, valamint e határozat megsemmisítése vagy hatályon kívül helyezése, továbbá a határozat véglegessé válása napjának bejegyzéséről.
+12. § (1)
 
 (2) A nyilvántartást vezető szerv köteles az egyéni vállalkozók családi és utónevét, valamint a 11. § (1) bekezdés b)–h) pontjában meghatározott adatokat, az egyéni vállalkozói tevékenységre való jogosultság megszűnése esetén annak időpontját – ha az egyéni cég vagy a 19/C. § szerinti korlátolt felelősségű társaság alapítása miatt történt, akkor ennek tényét – a nyilvántartásból törölt egyéni vállalkozó családi és utónevét, valamint nyilvántartási számát a törlés tényének feltüntetésével naprakészen, bárki számára díjmentesen megtekinthetően az interneten folyamatosan hozzáférhetővé tenni.

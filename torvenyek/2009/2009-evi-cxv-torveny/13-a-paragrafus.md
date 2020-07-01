@@ -1,0 +1,1 @@
+13/A. § A nyilvántartást vezető szerv közvetlen hozzáférést biztosít az egyéni vállalkozók nyilvántartásához a Hatóságnak az egyéni vállalkozói tevékenység hatósági ellenőrzésével kapcsolatos feladatok ellátása érdekében.
