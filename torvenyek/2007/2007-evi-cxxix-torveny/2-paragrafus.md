@@ -47,3 +47,5 @@
 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
 
 22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű, a napenergiát felhasználva villamos energiát termelő erőmű.
+
+23. állandó jellegű növényház: stabil építésű, fém-, fa- vagy műanyag vázú, üveg vagy műanyag borítású, fedett növénytermesztő létesítmény, melyben az évszaktól, illetve az időjárástól függetlenül biztosíthatók az optimális feltételek a növények fejlődéséhez.

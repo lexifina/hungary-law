@@ -8,4 +8,4 @@
 
 (3) A hivatalból indult, illetve folytatott földvédelmi eljárás, valamint a földvédelmi szakkérdés vizsgálata során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek eljárási költségnek minősülnek.
 
-(4) Az ingatlanügyi hatóságnak a földvédelmi eljárásban meghozott, az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésében nem kell rendelkeznie a kérelmezett jog gyakorlásáról.
+(4)

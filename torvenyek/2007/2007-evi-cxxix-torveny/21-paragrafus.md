@@ -32,7 +32,9 @@ k) – amennyiben mezőgazdasági vízszolgáltatás céljából veszik igénybe
 
 l) csapadékvíz összegyűjtésére szolgáló tározó létesítése, üzemeltetése, bővítése,
 
-m) kis teljesítményű erőmű építése
+m) kis teljesítményű erőmű építése,
+
+n) állandó jellegű növényház létesítése
 
 céljából engedélyezi.
 
