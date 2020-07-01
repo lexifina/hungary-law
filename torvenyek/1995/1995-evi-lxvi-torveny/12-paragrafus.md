@@ -4,7 +4,7 @@
 
 (2) A nem selejtezhető köziratok átadásának-átvételének időpontjáról az átadó szerv és az illetékes közlevéltár közösen állapodik meg.
 
-(3) Az (1) bekezdésben meghatározott átadás-átvételi határidő abban az esetben, ha a közfeladatot ellátó szervnek a nem selejtezhető iratokra ügyviteli szempontból még rendszeresen szüksége van, vagy akkor, ha az illetékes közlevéltár az iratok átvételéhez szükséges raktári férőhellyel nem rendelkezik, további öt évre külön engedély nélkül meghosszabbítható. Az átadási-átvételi határidő öt éven túli meghosszabbítását egy alkalommal, legfeljebb tíz év időtartamra a kultúráért felelős miniszter engedélyezi. Ennél hosszabb irattári őrzési időt csak jogszabály állapíthat meg.
+(3) Az (1) bekezdésben meghatározott átadás-átvételi határidő abban az esetben, ha a közfeladatot ellátó szervnek a nem selejtezhető iratokra ügyviteli szempontból még rendszeresen szüksége van, vagy akkor, ha az illetékes közlevéltár az iratok átvételéhez szükséges raktári férőhellyel nem rendelkezik, további tíz évre külön engedély nélkül meghosszabbítható. Az átadási-átvételi határidő tíz éven túli meghosszabbítását egy alkalommal, legfeljebb további tizenöt év időtartamra a kultúráért felelős miniszter engedélyezi.
 
 (4) A közlevéltár tizenöt éven belül keletkezett közirat átvételére csak jogszabály alapján kötelezhető.
 
@@ -13,3 +13,5 @@
 (6) Az iratokat őrző szerv kezdeményezésére az illetékes közlevéltár az érvényességi idő lejárta előtt is átvehet minősített adatot tartalmazó iratokat, ha azok megfelelő őrzésének és kezelésének feltételeit biztosítani tudja.
 
 (7) A közfeladatot ellátó szerv azoknak a nem selejtezhető iratoknak a használatát, amelyek a 22. § (1) bekezdésében meghatározott kutatási korlátozási idő eltelte után is az őrizetében vannak, a közlevéltárban lévő anyagra vonatkozó szabályok szerint köteles biztosítani.
+
+(8) Az elektronikus formában megőrzött maradandó értékű iratokat jogszabályban meghatározott követelményeknek megfelelően kell átadni az illetékes levéltárnak.

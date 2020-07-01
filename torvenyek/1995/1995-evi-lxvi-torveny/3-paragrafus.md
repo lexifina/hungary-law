@@ -4,9 +4,9 @@
 
 a) szerv: a jogi személy és a jogi személyiséggel nem rendelkező szervezet;
 
-b) közfeladatot ellátó szerv: az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv és személy;
+b) közfeladatot ellátó szerv: az állami és önkormányzati közfeladat-kataszterről szóló kormányrendeletben meghatározott közfeladat-kataszter adatbázisában szereplő közfeladatot ellátó, továbbá a nemzeti vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott vagy többségi állami vagy önkormányzati tulajdonban lévő gazdasági társaság;
 
-c) irat: valamely szerv működése vagy személy tevékenysége során keletkezett vagy hozzá érkezett, egy egységként kezelendő rögzített információ, adategyüttes, amely megjelenhet papíron, mikrofilmen, mágneses, elektronikus vagy bármilyen más adathordozón; tartalma lehet szöveg, adat, grafikon, hang, kép, mozgókép vagy bármely más formában lévő információ vagy ezek kombinációja;
+c) irat: valamely szerv működése vagy személy tevékenysége során keletkezett vagy hozzá érkezett, bármely jelrendszerrel és adathordozón rögzített, egy egységként kezelendő rögzített információ, adategyüttes;
 
 d) közirat: a keletkezés idejétől és az őrzés helyétől függetlenül minden olyan irat, amely a közfeladatot ellátó szerv irattári anyagába tartozik vagy tartozott;
 
@@ -16,7 +16,7 @@ f) irattári anyag: rendeltetésszerűen a szervnél maradó, tartalmuk miatt á
 
 g) irattár: az irattári anyag szakszerű és biztonságos őrzése, valamint kezelésének biztosítása céljából létrehozott és működtetett fizikai, illetve elektronikus tárolóhely;
 
-h) iratkezelés: az irat készítését, nyilvántartását, rendszerezését és a selejtezhetőség szempontjából történő válogatását, segédletekkel való ellátását, szakszerű és biztonságos megőrzését, használatra bocsátását, selejtezését, illetve levéltárba adását együttesen magába foglaló tevékenység;
+h) iratkezelés: az iratokkal kapcsolatos bármely műveletet vagy azok összességét együttesen magába foglaló tevékenység, különösen az azok készítését, hitelesítését, továbbítását, nyilvántartását, rendszerezését és a selejtezhetőség szempontjából történő válogatását, segédletekkel való ellátását, hiteles másolatkészítését, szakszerű és biztonságos megőrzését, használatra bocsátását, selejtezését, megsemmisítését, illetve levéltárba adását érintő feladatok;
 
 i) irattári terv: a köziratok rendszerezésének és a selejtezhetőség szempontjából történő válogatásának alapjául szolgáló jegyzék, amely az irattári anyagot tételekre (tárgyi csoportokra, indokolt esetben iratfajtákra) tagolva, a közfeladatot ellátó szerv feladat- és hatásköréhez, valamint szervezetéhez igazodó rendszerezésben sorolja fel, s meghatározza a kiselejtezhető irattári tételekbe tartozó iratok ügyviteli célú megőrzésének időtartamát, továbbá a nem selejtezhető iratok levéltárba adásának határidejét;
 
@@ -38,4 +38,12 @@ r) közlevéltár illetékessége (illetékességi köre): a maradandó érték�
 
 s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
 
-t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala.
+t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala;
+
+u) iratkezelési szoftver: az iratkezelés folyamatát támogató, jogszabályban meghatározott módon tanúsított informatikai alkalmazás, amely alapfunkcióját tekintve a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben foglalt iratkezelési műveleteket vagy azok egy részének végrehajtását támogatja, és emellett egyéb funkciókat is elláthat;
+
+v) mintavétel: a levéltár által kezdeményezett eljárás olyan selejtezendő iratok levéltári átvétele érdekében, amelyeknél az irattári tétel egészének levéltárba adása nem indokolt, de egyes ügyiratok maradandó értékű iratként történő kiemelése és levéltárba adása a levéltári érdek érvényesítése céljából szükséges;
+
+w) ügyviteli értékű irat: természetes vagy jogi személyek részére a feladataik folyamatos ellátásához, jogszabályból adódó kötelezettség teljesítéséhez, az állampolgári jogok érvényesítéséhez, jogok biztosításához, létfontosságú személyes érdek vagy jogos érdek érvényesítéséhez szükséges adatot tartalmazó irat;
+
+x) selejtezés: az iratok meghatározott szabályok szerint történő selejtezési eljárás keretében történő kiemelése az irattári anyagból, megsemmisítésre történő előkészítése és ennek dokumentálása.

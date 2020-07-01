@@ -26,7 +26,7 @@ levéltári anyaga, valamint minden olyan levéltári anyag, amely nem tartozik 
 
 a) a külön jogszabályban meghatározott szakmai követelmények érvényesítése érdekében módszertani ajánlásokat és egyéb segédanyagokat dolgoz ki, s azokat a kultúráért felelős miniszter egyetértésével közzéteszi.
 
-b)
+b) mint elektronikus ügyintézésre kötelezett szerv biztosítja az elektronikus ügyintézésre vonatkozó jogszabályokban előírt kötelezettségek teljesítését;
 
 c) nyilvántartja a közlevéltárakat és a magánlevéltárakat;
 

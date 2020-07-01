@@ -8,6 +8,8 @@ b) rendelkezzék a levéltári anyag rendszeres átvételét biztosító, zárt,
 
 (2) Közlevéltárat létesíteni csak az (1) bekezdés a) és b) pontjában meghatározott feltételek együttes biztosításával lehet.
 
+(2a) A közlevéltárnak, valamint a felsőoktatási intézménynek a nemzeti felsőoktatásról szóló törvény alapján levéltári feladatokat ellátó szervezeti egysége elnevezésében szerepelnie kell a „levéltár” kifejezésnek.
+
 (3) A közlevéltár vezetőjét pályázat útján
 
 a) a Magyar Nemzeti Levéltár esetében a kultúráért felelős miniszter,

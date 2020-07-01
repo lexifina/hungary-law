@@ -1,0 +1,3 @@
+13/A. § (1) A közlevéltár segítségnyújtás keretében átmeneti tárolást biztosíthat más közlevéltár, nyilvános magánlevéltár vagy más maradandó értékű iratokat őrző intézmény számára a veszélyeztetett maradandó értékű iratanyag megőrzése érdekében, az annak épségére jelentős kockázatot jelentő körülmények kialakulása esetén. A segítségnyújtást a közlevéltár szabad raktári kapacitásai függvényében biztosítja, amennyiben saját levéltári anyagát ezzel nem veszélyezteti.
+
+(2) A közlevéltár a segítségnyújtást az (1) bekezdés szerinti segítségre szoruló intézmény vagy annak fenntartója kérelmére, saját fenntartójának egyidejű tájékoztatása mellett teljesítheti. A felmerülő költségek a segítségre szoruló intézményt, illetve fenntartóját terhelik.
