@@ -26,9 +26,13 @@ h)[^224] a Bizottság 2011/180/EU határozata (2011. március 23.) a 2002/55/EK 
 
 i)[^225] a Bizottság 2013/45/EU végrehajtási irányelve (2013. augusztus 7.) a 2002/55/EK és a 2008/72/EK tanácsi irányelveknek és a 2009/145/EK bizottsági irányelvnek a paradicsom botanikai nevének tekintetében történő módosításáról,
 
-j)[^226] a Bizottság 2016/317/EU végrehajtási irányelve (2016. március 3.) a 66/401/EGK, a 66/402/EGK, a 2002/54/EK, a 2002/55/EK, a 2002/56/EK és a 2002/57/EK tanácsi irányelvnek a vetőmagcsomagok hatósági címkéje tekintetében történő módosításáról.
+j)[^226] a Bizottság 2016/317/EU végrehajtási irányelve (2016. március 3.) a 66/401/EGK, a 66/402/EGK, a 2002/54/EK, a 2002/55/EK, a 2002/56/EK és a 2002/57/EK tanácsi irányelvnek a vetőmagcsomagok hatósági címkéje tekintetében történő módosításáról,
 
-(3)[^227] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+l)[^227] a Bizottság 2019/990/EU végrehajtási irányelve (2019. június 17.) a 2002/55/EK tanácsi irányelv 2. cikk (1) bekezdés b) pontjában, a 2008/72/EK tanácsi irányelv II. mellékletében és a 93/61/EGK bizottsági irányelv mellékletében szereplő nemzetség- és fajlista módosításáról,
+
+m)[^228] a Bizottság 2020/432/EU végrehajtási irányelve (2020. március 23.) a 2002/55/EK tanácsi irányelvnek a zöldségek fogalmának meghatározása, valamint a 2. cikk (1) bekezdésének b) pontjában szereplő nemzetség- és fajlista tekintetében történő módosításáról.
+
+(3)[^229] E rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^218]: A 39. § (1a) bekezdését az 1/2012. (I. 20.) VM rendelet 4. § (1) bekezdése iktatta be.
 [^219]: A hatálybalépés napja: 2012. január 21.
@@ -39,4 +43,6 @@ j)[^226] a Bizottság 2016/317/EU végrehajtási irányelve (2016. március 3.) 
 [^224]: A 39. § (2) bekezdés h) pontját a 81/2013. (IX. 13.) VM rendelet 5. § (2) bekezdése iktatta be.
 [^225]: A 39. § (2) bekezdés i) pontját a 27/2014. (III. 26.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^226]: A 39. § (2) bekezdés j) pontját a 47/2016. (VII. 15.) FM rendelet 8. §-a iktatta be.
-[^227]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.
+[^227]: A 39. § (2) bekezdés l) pontját a 36/2020. (VI. 29.) AM rendelet 4. §-a iktatta be.
+[^228]: A 39. § (2) bekezdés m) pontját a 36/2020. (VI. 29.) AM rendelet 4. §-a iktatta be.
+[^229]: A 39. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 8. §-a iktatta be, ugyanezen szöveggel újonnan beiktatta a 124/2007. (X. 20.) FVM rendelet 17. §-a.

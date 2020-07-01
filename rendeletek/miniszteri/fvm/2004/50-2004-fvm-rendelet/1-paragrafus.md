@@ -2,7 +2,7 @@
 
 1. § (1) A rendelet hatálya kiterjed
 
-a)[^1] az 1. számú mellékletben felsorolt zöldségnövények fajtáinak és hibridjeinek vetőmagjaira és ültetési anyagaira, valamint egyéb fajokra és hibridekre, amennyiben azokat a 2. számú mellékletben felsorolt növények oltásánál alanyként vagy nemesként használják fel,
+a)[^1] az 1. számú mellékletben felsorolt mezőgazdasági vagy kertészeti termesztésre szánt növényfajok, zöldségnövények fajtáinak és hibridjeinek vetőmagjaira és ültetési anyagaira, valamint egyéb fajokra és hibridekre, amennyiben azokat a 2. számú mellékletben felsorolt növények oltásánál alanyként vagy nemesként használják fel,
 
 b)[^2] a Nemzeti Fajtajegyzék – Zöldségnövények B és C fejezeteiben felsorolt zöldség-, valamint a Nemzeti Fajtajegyzék – Gyógy- és fűszernövények A és B fejezeteiben felsorolt gyógy- és fűszernövények (a továbbiakban együtt: zöldségnövény) fajták hazai előállítású szaporítóanyagaira,
 
@@ -48,7 +48,7 @@ h)[^12] a zöldségnövények mint fajok vetőmagvainak, illetve palántáinak h
 
 (3)[^13] A regisztrált tájfajták és az elismert házikerti fajták esetében e rendelet előírásait a külön jogszabályban foglalt eltérésekkel kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított, a 36/2020. (VI. 29.) AM rendelet 6. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 63. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés c) pontja a 14/2011. (II. 24.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés e) pontja a 14/2011. (II. 24.) VM rendelet 1. § (2) bekezdésével megállapított, nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 22. § a) pontja szerint módosított szöveg.

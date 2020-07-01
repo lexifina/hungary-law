@@ -1,123 +1,149 @@
-## A rendelet hatálya alá tartozó zöldség vetőmagvak
+2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^231]
 
-## A rendelet hatálya az alábbi zöldségnövények vetőmagjára terjed ki.
+## A rendelet hatálya alá tartozó palánták
 
-## Allium cepa L.
+1. Allium cepa L.
 
-| – Cepa csoport | vöröshagyma |
+1.1. Cepa csoport (vöröshagyma)
 
-| – Aggregatum csoport | salottahagyma |
+1.2. Aggregatum csoport (salottahagyma)
 
-| Allium fistulosum L. | téli sarjadékhagyma |
+2. Allium fistulosum L. (téli sarjadékhagyma)
 
-| Allium porrum L. | póréhagyma |
+3. Allium porrum L. (póréhagyma)
 
-| Allium sativum L. | fokhagyma |
+4. Allium sativum L. (fokhagyma)
 
-| Allium schoenoprasum L. | metélőhagyma |
+5. Allium schoenoprasum L. (metélőhagyma)
 
-| Anthriscus cerefolium (L.) Hoffm. | turbolya |
+6. Anthriscus cerefolium (L.) Hoffm. (turbolya)
 
-| Apium graveolens L. | gyökérzeller |
+7. Apium graveolens L.
 
-|  | (levélzeller) |
+7.1. levélzeller csoport
 
-| Asparagus officinalis L. | spárga |
+7.2. gyökérzeller csoport
 
-| Beta vulgaris L. | mángold |
+8. Asparagus officinalis L. (spárga)
 
-|  | cékla |
+9. Beta vulgaris L.
 
-| Brassica oleracea L | leveles kel |
+9.1. cékla csoport (cékla, a cheltenham répát is beleértve)
 
-|  | karfiol |
+9.2. csoport (mángold)
 
-|  | brokkoli vagy calabrese |
+10. Brassica oleracea L.
 
-|  | bimbóskel |
+10.1. leveles kel csoport
 
-|  | kelkáposzta |
+10.2. karfiol csoport
 
-|  | fejes káposzta |
+10.3. fejes káposzta csoport (vöröskáposzta és fejes káposzta)
 
-|  | vörös káposzta |
+10.4. bimbós kel csoport
 
-|  | karalábé |
+10.5. karalábé csoport
 
-| Brassica rapa L. | kínai kel |
+10.6. kelkáposzta csoport
 
-|  | tarlórépa |
+10.7. brokkoli csoport (calabrese és sprouting típus)
 
-| Capsicum annuum L. | paprika |
+10.8. feketekáposzta csoport
 
-| Chicorium endivia L. | borzaslevelű endívia |
+10.9. portugál kel csoport (portugál káposzta)
 
-|  | széleslevelű endívia |
+11. Brassica rapa L.
 
-| Chicorium intybus L. | hajtató cikória |
+11.1. kínai kel csoport
 
-|  | leveles cikória |
+11.2. tarlórépa csoport
 
-|  | ipari cikória |
+12. Capsicum annuum L. (paprika)
 
-| Citrullus lanatus (Thunb.) Matsum. et Nakai | görögdinnye |
+13. Cichorium endivia L. (endívia)
 
-| Cucumis melo L. | sárgadinnye |
+14. Cichorium intybus L.
 
-| Cucumis sativus L. | salátauborka |
+14.1. hajtató cikória csoport
 
-|  | konzervuborka |
+14.2. leveles cikória csoport
 
-| Cucurbita maxima Duchesne | sütőtök |
+14.3. ipari cikória csoport
 
-| Cucurbita pepo L. | tök |
+15. Citrullus lanatus (Thunb.) Matsum. et Nakai (görögdinnye)
 
-| Cynara cardunculus L. | articsóka |
+16. Cucumis melo L. (sárgadinnye)
 
-|  | kardi |
+17. Cucumis sativus L.
 
-| Daucus carota L. | sárgarépa |
+17.1. hajtatási uborka csoport
 
-|  | takarmány sárgarépa |
+17.2. konzervuborka csoport
 
-| Foeniculum vulgare Mill. | édeskömény |
+18. Cucurbita maxima Duchesne (sütőtök)
 
-| Lactuca sativa L. | fejessaláta |
+19. Cucurbita pepo L. (tök, beleértve a kifejlett muskotálytököt is, valamint cukkini, beleértve a bébicukkinit is)
 
-| Solanum Lycopersicum L. | paradicsom |
+20. Cynara cardunculus L.
 
-| Petroselinum crispum (Mill.) Nyman et A. W. Hill | petrezselyem |
+20.1. articsóka csoport
 
-| Phaseolus coccineus L. | tűzbab |
+20.2. kárdi csoport
 
-| Phaseolus vulgaris L. | zöldbab (bokorbab és futóbab) |
+21. Daucus carota L. (sárgarépa és takarmányrépa)
 
-| Pisum sativum L. (partim) | kifejtőborsó |
+22. Foeniculum vulgare Mill. (édeskömény)
 
-|  | velőborsó |
+22.1. Azoricum csoport
 
-|  | cukorborsó |
+23. Lactuca sativa L. (saláta)
 
-| Raphanus sativus L. | retek |
+24. Solanum lycopersicum L. (paradicsom)
 
-|  | fekete retek |
+25. Petroselinum crispum (Mill.) Nyman ex A. W. Hill
 
-| Rheum rhabarbarum L. | rebarbara |
+25.1. levélpetrezselyem csoport
 
-| Scorsonera hispanica L. | feketegyökér |
+25.2. gyökérpetrezselyem csoport
 
-| Solanum melongena L. | tojásgyümölcs |
+26. Phaseolus coccineus L. (tűzbab)
 
-| Spinacia oleracea L. | spenót |
+27. Phaseolus vulgaris L.
 
-| Valerianella locusta (L.) Laterr. | galambbegysaláta |
+27.1. bokorbab csoport
 
-| Vicia faba L. (partim) | lóbab |
+27.2. futóbab csoport
 
-| Zea mays L. (partim) | csemegekukorica |
+28. Pisum sativum L.
 
-|  | pattogató kukorica |
+28.1. kifejtőborsó csoport
 
-2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^229]
+28.2. velőborsó csoport
 
-[^229]: A 2. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+28.3. cukorborsó csoport
+
+29. Raphanus sativus L.
+
+29.1. hónaposretek csoport
+
+29.2. feketeretek csoport
+
+30. Rheum rhabarbarum L. (rebarbara)
+
+31. Scorzonera hispanica L. (feketegyökér vagy fekete bakszakáll)
+
+32. Solanum melongena L. (padlizsán vagy tojásgyümölcs)
+
+33. Spinacia oleracea L. (spenót)
+
+34. Valerianella locusta (L.) Laterr. (galambbegysaláta)
+
+35. Vicia faba L. (lóbab)
+
+36. Zea mays L.
+
+36.1. csemegekukorica csoport
+
+36.2. pattogató kukorica csoport
+
+[^231]: A 2. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
