@@ -40,7 +40,7 @@ a) a Büntetés-végrehajtási Tanszéken szolgálatot teljesítő tanári, vala
 
 b) a Katasztrófavédelmi Intézethez vezényelt hivatásos állomány,
 
-14. a rendészeti szakgimnáziumhoz vezényelt hivatásos állomány,
+14.[^2] a rendvédelmi technikumhoz vezényelt hivatásos állomány,
 
 15. a tárgyévben hat hónapot meghaladóan külszolgálaton szolgálatot teljesítő hivatásos állomány,
 
@@ -55,3 +55,5 @@ b) a Katasztrófavédelmi Intézethez vezényelt hivatásos állomány,
 20. az, aki felmentési idejét tölti, valamint
 
 21. az, akinek hivatásos szolgálati jogviszonya a nyugdíjazásra tekintettel 2020. december 31. napjáig megszűnik.
+
+[^2]: A 6. § 14. pontja a 18/2020. (VI. 30.) BM rendelet 17. §-a szerint módosított szöveg.
