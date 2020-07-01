@@ -76,7 +76,7 @@
 
 35. színpadi próba: minden olyan próba, amely színpadi körülmények között zajlik, jelmezzel, díszlettel, világítással, hanggal vagy ezek nélkül úgy, hogy a próba közvetlen célja az alkotás színpadi körülmények között történő előadásának valamennyi művészi, szakmai és technikai feltételének együttes kialakítása és összehangolása,
 
-36. társulat: művészek olyan csoportja, akik munkaviszony, közalkalmazotti jogviszony, vagy munkavégzésre irányuló egyéb jogviszony alapján egy vagy több évadon keresztül folyamatosan kapcsolódnak egy előadó-művészeti szervezethez,
+36. társulat: művészek olyan csoportja, akik munkaviszony vagy munkavégzésre irányuló egyéb jogviszony alapján egy vagy több évadon keresztül folyamatosan kapcsolódnak egy előadó-művészeti szervezethez,
 
 37. többtagozatos színház: próza, opera/operett és/vagy balett, táncjátékokat repertoáron tartó, állandó társulattal rendelkező színházi együttes,
 
@@ -112,11 +112,11 @@
 
 53. biztosítással járó jogviszony:
 
-a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
+a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) és d)–f) pontja szerinti biztosítással járó jogviszony,
 
-b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 6. § (1) bekezdés a), b) és d)–f) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
 
-c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 6. § (1) bekezdés a), b) és d)–f) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
 
 54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 
@@ -126,4 +126,6 @@ c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartoz�
 
 57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő,
 
-58. alapvető munkáltatói jogok: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 19. § b) pontja szerinti kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, és a fegyelmi büntetés kiszabása.
+58. alapvető munkáltatói jogok: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 19. § b) pontja szerinti kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, és a fegyelmi büntetés kiszabása,
+
+59. művészeti elismerés: a Kossuth-díj, a Magyarország Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyarország Babérkoszorúja-díj, valamint e díjakkal egyenértékű, már nem hatályos jogszabályok alapján adományozott elismerés, valamint a miniszter feladatkörében adományozott művészeti elismerés.

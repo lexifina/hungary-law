@@ -4,7 +4,7 @@
 
 a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
 
-b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 
 c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 
@@ -14,7 +14,7 @@ d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tev
 
 a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
 
-b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy a Kjt. 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 
 c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 

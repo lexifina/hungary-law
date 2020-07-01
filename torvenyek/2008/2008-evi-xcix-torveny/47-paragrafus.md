@@ -20,7 +20,7 @@ h) határozza meg a létesítménygazdálkodási célú működési támogatás 
 
 i) határozza meg a nem minősített előadó-művészeti szervezetek működésének és szakmai program megvalósításának támogatására irányuló pályázatok részletes szabályait,
 
-j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások részletes szabályait,
+j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások, valamint az önkormányzati fenntartású színházak közös működtetés keretében biztosított költségvetési támogatás részletes szabályait,
 
 k) határozza meg az előadó-művészeti szervezettel kötendő, közfeladatellátásra irányuló közszolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat,
 

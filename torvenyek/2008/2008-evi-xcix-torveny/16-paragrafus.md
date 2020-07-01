@@ -19,3 +19,5 @@ a) meghatározza – ideértve a vezetői kinevezés módját is – a színház
 b) rögzíti a központi költségvetésből juttatandó támogatás és az önkormányzati támogatás mértékét.
 
 (9) Ha a közös működtetésre irányuló megállapodás keretében az önkormányzati fenntartású színház éves működésének pénzügyi feltételeit teljes egészében a központi költségvetés biztosítja, a színház vezető állású munkavállalója felett az alapvető munkáltatói jogokat a miniszter gyakorolja.
+
+(10) A (9) bekezdésben meghatározott esetben a színház felügyelőbizottságának létszáma 5 fő lehet, akik közül 3 főt a miniszter jogosult megbízni és a megbízásból visszahívni.

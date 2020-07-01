@@ -1,6 +1,6 @@
 ## Az opera-, szimfonikus-, kamara- és egyéb zenekari tag, az énekkari tag, valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltérő szabályok
 
-37. § (1) A zenekari és énekkari tag esetében a foglalkoztatásra irányuló jogviszony létrehozásának feltétele az eredményes szakmai próbajáték, illetve próbaéneklés, amelyek meghirdetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+37. § (1) A zenekari és énekkari tag esetében a munkajogviszony létrehozásának feltétele az eredményes szakmai próbajáték, illetve próbaéneklés, amelyek meghirdetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
 (2) Zenekari tag, énekkari tag és tánckari tag határozott időre létesített foglalkoztatására irányuló jogviszony esetén a munkáltató a továbbfoglalkoztatásra irányuló igenlő vagy nemleges nyilatkozatát legkésőbb a határozott időtartam lejárata előtt négy hónappal írásban közli a foglalkoztatottal.
 

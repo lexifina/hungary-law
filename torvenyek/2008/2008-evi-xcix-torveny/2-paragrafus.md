@@ -4,7 +4,7 @@ a) az előadó-művészeti szervezetekre és az előadó-művészeti szakmai ér
 
 b) az előadó-művészeti szervezetek fenntartóira,
 
-c) az előadó-művészeti szervezetekkel munkaviszonyban vagy közalkalmazotti jogviszonyban álló természetes személyekre, és
+c) az előadó-művészeti szervezetekkel munkaviszonyban álló természetes személyekre, és
 
 d) az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetre.
 
