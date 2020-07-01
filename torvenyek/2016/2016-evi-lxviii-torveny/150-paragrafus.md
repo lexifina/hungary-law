@@ -18,7 +18,7 @@
 
 (9) A 24. § szerinti adatszolgáltatásnak az adatszolgáltatásra kötelezett által 2017. szeptember 30-áig, valamint – abban az esetben, ha az adóraktár engedélyese által nyújtott jövedéki biztosíték mértéke eléri a 2017. június 30-i szintet – 2017. december 31-ig okozott hibája miatt az állami adó- és vámhatóság csak akkor alkalmazhat hátrányos jogkövetkezményt, ha bizonyítható, hogy az adatküldésre kötelezett célja a központi költségvetés bevételének csökkentése vagy a jövedéki biztosítéki szabályok kikerülése volt a hibás adatszolgáltatás által.
 
-(10) E § alkalmazásakor a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény sommás eljárásra és függő hatályú döntésre vonatkozó szabályait nem lehet alkalmazni.
+(10) E § alkalmazásakor a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény sommás eljárásra vonatkozó szabályait nem lehet alkalmazni.
 
 (11) A 2017. július 1-jét megelőző időpontig érvényesíthető jövedéki biztosíték esetén a felajánlott új jövedéki biztosíték nyújtásakor az engedélyes nyújthat a régi Jöt. szerinti biztosítékmaximumot meghaladó jövedéki biztosítékot is.
 

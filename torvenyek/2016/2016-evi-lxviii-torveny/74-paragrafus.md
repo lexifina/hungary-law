@@ -6,7 +6,7 @@
 
 74. § (1) Dohánygyártmányt és alkoholterméket csak zárjeggyel ellátva bocsáthat szabadforgalomba forgalmazási céllal az adóraktár engedélyese, importálhat az importáló és lehet belföldön forgalmazni, kivéve
 
-a) a töltőfolyadékot,
+a) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott töltőfolyadékot,
 
 b) a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholterméket,
 
@@ -38,9 +38,13 @@ h) a 2208 20 12-2208 90 99 KN-kód szerinti, 1,2 térfogatszázaléknál nagyobb
 
 i) a 9. § (1) bekezdés a) és b) pontja szerint értékesített jövedéki terméket, akkor is, ha az utas vagy a repülőgép úti célja tagállam, és
 
-j) az új dohánytermék-kategóriákat,
+j) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott új dohánytermék-kategóriákat,
 
-k) az étrend-kiegészítőt.
+k) az étrend-kiegészítőt,
+
+l) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott dohányzást helyettesítő nikotintartalmú terméket,
+
+m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott füst nélküli dohányterméket.
 
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
