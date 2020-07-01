@@ -16,7 +16,7 @@
 
 (8)
 
-(9) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(9)
 
 (10) Az e törvényben meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
