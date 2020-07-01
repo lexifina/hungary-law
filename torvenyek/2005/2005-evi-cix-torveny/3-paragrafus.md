@@ -4,7 +4,7 @@
 
 (2)–(4)
 
-(5) A 2. §, a 2/A. § és a 2/B. § szerinti engedélyezési eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5)
 
 (6) A 2. § és a 2/A. § szerinti engedélyezési eljárás ügyintézési határideje negyvenöt nap.
 

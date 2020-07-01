@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2005-109-00-00.16 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2005-109-00-00.17 |
 | 2019-12-28 | 2019. évi LXXXIII. törvény | 2005-109-00-00.18 |
+| 2020-07-01 | 2020. évi XXX. törvény | 2005-109-00-00.19 |
