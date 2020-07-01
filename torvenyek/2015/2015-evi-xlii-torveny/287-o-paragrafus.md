@@ -2,6 +2,14 @@
 
 287/O. § (1) Az igazgatási jogviszony kinevezéssel és annak elfogadásával határozatlan vagy e törvény rendelkezése alapján határozott időre létesül.
 
+(1a) Igazgatási jogviszony határozott időre történő kinevezéssel
+
+a) helyettesítés céljából, vagy
+
+b) meghatározott munka elvégésére vagy feladat ellátására
+
+létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni.
+
 (2) A rendvédelmi alkalmazottnak kinevezésekor esküt kell tennie.
 
 (3) Az eskü szövege a következő:

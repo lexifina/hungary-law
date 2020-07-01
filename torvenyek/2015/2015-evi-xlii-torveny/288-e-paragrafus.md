@@ -46,8 +46,8 @@ b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szósz
 
 c) az összeférhetetlenség megszüntetését elmulasztotta,
 
-d) állami vezetővé nevezték ki, vagy
+d) állami vezetővé nevezték ki,
 
-e) a kifogástalan életvitel ellenőrzésével kapcsolatos, a 287/M. § (1) bekezdése szerinti nyilatkozatát az igazgatási jogviszony fennállása alatt visszavonja.
+e)
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.

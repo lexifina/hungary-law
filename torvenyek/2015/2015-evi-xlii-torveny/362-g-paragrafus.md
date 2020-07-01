@@ -2,6 +2,8 @@
 
 (2) Az igazgatási jogviszonnyá alakulással érintett közalkalmazott rendvédelmi alkalmazottként első alkalommal megállapított illetményének összege nem lehet alacsonyabb a 2019. január 1-jei hatállyal megállapított illetménynél.
 
+(2a) A rendvédelmi alkalmazott illetménye a rendvédelmi alkalmazott rendvédelmi szerven belüli áthelyezése esetén sem csökkenhet a (2) bekezdésben meghatározott illetmény alá.
+
 (3) A (2) bekezdés szerinti illetmény megállapítása során az alábbi illetményelemeket kell figyelembe venni:
 
 a) a garantált illetmény, illetve magasabb összegű illetmény [Kjt. 62. §, 66. §],

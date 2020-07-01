@@ -4,7 +4,7 @@
 
 ## 106. Társadalombiztosítási ellátások
 
-258. § (1) A hivatásos állomány tagjának és hozzátartozóinak társadalombiztosítási ellátására a Tny., a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény, továbbá a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+258. § (1) A hivatásos állomány tagjának és hozzátartozóinak társadalombiztosítási ellátására a Tny., a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény, továbbá a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A hivatásos állomány tagja a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben foglaltak szerinti baleseti járadékra szolgálati kötelmekkel összefüggő balesete, sérülése vagy szolgálati eredetű betegsége következtében jogosult.
 

@@ -72,7 +72,7 @@ III. Iskolai végzettségek, képzettségek, képesítések adatai
 
 a) közép- és felsőfokú iskolai végzettségek (képzőintézmény és befejezés idejének megjelölésével),
 
-b) szakképzettségek,
+b) felsőfokú szakképzettségek, szakképzettségek, szakképesítések
 
 c) rendvédelmi vagy katonai szakmai képesítések és vizsgák,
 

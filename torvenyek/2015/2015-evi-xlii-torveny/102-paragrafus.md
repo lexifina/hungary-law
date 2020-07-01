@@ -6,7 +6,7 @@ b) a szolgálati feladatait a törvényes előírásoknak, a parancsoknak és in
 
 c) a munkatársaival együttműködni, munkáját úgy végezni és általában olyan magatartást tanúsítani, hogy az – kivéve, ha ez a feladat végrehajtásával elkerülhetetlenül együtt jár – más egészségét, testi épségét ne veszélyeztesse, anyagi károsodását ne idézze elő,
 
-d) a számára meghatározott iskolai rendszerű vagy iskolai rendszeren kívüli oktatásban, képzésben részt venni, és az előírt vizsgákat letenni,
+d) a számára meghatározott oktatásban, képzésben részt venni, és az előírt vizsgákat letenni,
 
 e) az egészségi, pszichikai és fizikai alkalmassági követelményeknek eleget tenni, és az ezek ellenőrzése érdekében szükséges, a miniszter által meghatározott felméréseknek, szűréseknek és vizsgálatoknak magát alávetni, egészségének megóvása, valamint gyógyulása érdekében az előírt orvosi utasításokat betartani,
 

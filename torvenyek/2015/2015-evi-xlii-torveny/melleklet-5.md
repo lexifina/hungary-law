@@ -20,7 +20,7 @@
 
 ## 3. képzés időtartama, végzés időpontja
 
-## 4. szakképzettségei
+## 4. felsőfokú szakképzettségei, szakképzettségei, szakképesítései
 
 ## 5. iskolarendszeren kívüli oktatás keretében szerzett szakképesítései
 

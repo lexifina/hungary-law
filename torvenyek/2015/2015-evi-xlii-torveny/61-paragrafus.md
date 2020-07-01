@@ -1,4 +1,4 @@
-61. § (1) A hivatásos állomány tagja a rendvédelmi szerv hatékony működéséhez szükséges szolgálatszervezési okból, ideiglenesen az eredetei szolgálati beosztásához tartozó feladatok helyett a szervezeti egységen belül más szolgálati feladatok ellátására rendelhető át (a továbbiakban: ideiglenes átrendelés), az eredeti szolgálati beosztásában való megtartása mellett.
+61. § (1) A hivatásos állomány tagja a rendvédelmi szerv hatékony működéséhez szükséges szolgálatszervezési okból, ideiglenesen az eredetei szolgálati beosztásához tartozó feladatok helyett a szervezeti egységen belül más szolgálati feladatok ellátására vagy szervezeti egységen belül azonos szolgálati feladatok más szolgálatteljesítési helyen történő ellátására rendelhető át (a továbbiakban: ideiglenes átrendelés), az eredeti szolgálati beosztásában való megtartása mellett.
 
 (2) Az ideiglenes átrendelést a munkáltatói jogkör gyakorlója írásban rendeli el.
 

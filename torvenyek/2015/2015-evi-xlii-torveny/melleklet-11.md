@@ -24,7 +24,7 @@ II. Az alapösztöndíj-kiegészítés szorzószáma havonta az egyes kiképzés
 
 5. V. szemeszter: 0,29
 
-6. VI. szemeszter: 0,30
+6. VI–VIII. szemeszter: 0,30
 
 III. A rendészeti tisztjelölt az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlaga alapján számítandó tanulmányi pótlékának szorzószáma havonta:
 

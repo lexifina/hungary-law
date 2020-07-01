@@ -2,6 +2,8 @@
 
 289/R. § (1) A munkáltató a rendvédelmi alkalmazott számára a betegség miatti keresőképtelenség időtartamára naptári évenként tizenöt munkanap betegszabadságot ad ki.
 
+(1a) A betegszabadság tartamára a távolléti díj 70%-a jár.
+
 (2) Az (1) bekezdésben foglaltaktól eltérően nem jár betegszabadság a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenség, valamint a várandósság miatti keresőképtelenség időtartamára.
 
 (3) Év közben kezdődő igazgatási jogviszony esetén a rendvédelmi alkalmazott a betegszabadság arányos részére jogosult.

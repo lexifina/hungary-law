@@ -4,9 +4,9 @@ a) név, születési név, születési hely és idő,
 
 b) iskolai végzettség, több végzettség esetén valamennyi,
 
-c) szakképzettségek,
+c) felsőfokú szakképzettségek, szakképzettségek,
 
-d) államilag elismert szakképesítések,
+d) szakképesítések,
 
 e) tudományos fokozat,
 

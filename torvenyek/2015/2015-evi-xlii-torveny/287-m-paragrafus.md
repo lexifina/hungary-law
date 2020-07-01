@@ -1,6 +1,6 @@
 287/M. § (1) A miniszter rendeletben állapítja meg azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzéshez a 2. és a 3. melléklet szerinti nyilatkozat megtétele.
 
-(2) Az igazgatási jogviszony létesítését megelőző, valamint az igazgatási jogviszony fennállása alatti kifogástalan életvitel ellenőrzés lehetőségének tudomásulvételével egyidejűleg a kinevezés feltétele annak tudomásul vétele, hogy az igazgatási jogviszony fennállása alatt a a kifogástalan életvitel ellenőrzésével kapcsolatos, (1) bekezdés szerinti nyilatkozat visszavonása az igazgatási jogviszony törvény erejénél fogva történő megszűnését eredményezi.
+(2)
 
 (3) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény alapján meghatározott munkakörök esetében a kinevezés feltétele a vagyonnyilatkozat-tételi kötelezettség teljesítése.
 

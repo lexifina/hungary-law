@@ -10,7 +10,9 @@ b) a munkaszüneti napon teljesített rendkívüli munkaidő ellenértékeként 
 
 megfelelő mértékű szabadidő jár.
 
-(3) A rendvédelmi alkalmazottat a napi munkaidőn túl teljesített ügyeletért, készenlétért legfeljebb annak időtartamával megegyező mértékű szabadidő illeti meg. Ha az ügyeletre, készenlétre a rendvédelmi alkalmazott heti pihenőnapján, illetve munkaszüneti napon kerül sor, részére a (2) bekezdés szerinti szabadidő jár.
+(3) A rendvédelmi alkalmazottat a napi munkaidőn túl teljesített ügyeletért legfeljebb annak időtartamával megegyező mértékű szabadidő illeti meg. Ha az ügyeletre a rendvédelmi alkalmazott heti pihenőnapján, illetve munkaszüneti napon kerül sor, részére a (2) bekezdés szerinti szabadidő jár.
+
+(3a) A rendvédelmi alkalmazottat a napi munkaidőn túl teljesített készenlét ellentételezéseként készenléti pótlék, a készenlét során teljesített rendkívüli munkaidő ellentételezéseként az (1) vagy (2) bekezdés szerinti mértékű szabadidő illeti meg.
 
 (4) A rendszeresen rendkívüli munkaidőt teljesítő rendvédelmi alkalmazott számára legfeljebb évi huszonöt munkanap szabadidő-átalány állapítható meg.
 

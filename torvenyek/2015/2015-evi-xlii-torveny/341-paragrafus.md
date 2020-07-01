@@ -94,7 +94,7 @@ d) a rendvédelmi szerv hivatásos állományát érintő továbbképzési rends
 
 e) az utánpótlási és vezetői adatbank vezetésének és az adatkezelésének, valamint a vezetőkiválasztási eljárásnak a részletes szabályait, a kezelt adatoknak a vezetői beosztást betöltők kiválasztása során történő felhasználásának szabályait,
 
-19. megállapítsa a vezetői és a tiszti besorolási osztályba tartozó szolgálati beosztások betöltéséhez elismerhető felsőfokú végzettségeket, továbbá az egyes szolgálati beosztások ellátásához szükséges szakképzettségeket, szakmai alap-, közép- és felsőfokú szakmai képzettségeket, valamint az egyéb képzettségi feltételeket,
+19. megállapítsa a vezetői és a tiszti besorolási osztályba tartozó szolgálati beosztások betöltéséhez elismerhető felsőfokú végzettségeket, továbbá az egyes szolgálati beosztások ellátásához felsőfokú szakképzettségeket, szakképzettségeket, szakképesítéseket, egyéb szakmai képesítéseket, valamint az egyéb képzettségi feltételeket,
 
 20. meghatározza
 

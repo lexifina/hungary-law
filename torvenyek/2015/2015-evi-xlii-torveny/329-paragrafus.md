@@ -29,3 +29,5 @@ c) a 262. § (1) bekezdése szerinti hősi halottá, szolgálat halottjává nyi
 d) a 308. § (1) bekezdése szerinti, az ágazati érdekvédelmi tanáccsal történő egyeztetés esetében.
 
 (5) A 163. § (6) bekezdése alkalmazásában az Országgyűlési Őrség hivatásos állományának illetményszámfejtését végző szerv ad elszámolást.
+
+(6) Az Országgyűlési Őrség vonatkozásában a 21. § (3) bekezdésében, a 163. § (4) bekezdésében, valamint a 176. § (6) bekezdésében foglaltaktól eltérően a miniszter vagy az országos parancsnok által kiadott közjogi szervezetszabályozó eszköz helyett a megjelölt tárgyköröket az Országgyűlési Őrség parancsnoka belső szabályzatban szabályozza.

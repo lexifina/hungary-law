@@ -2,7 +2,9 @@
 
 a) az Országgyűlés, a Kormány, a miniszter vagy a rendvédelmi szerv vezetőjének döntése alapján a rendvédelmi szervnél létszámcsökkentést kell végrehajtani és emiatt továbbfoglalkoztatására nincs lehetőség,
 
-b) átszervezés következtében munkaköre megszűnt, és a számára felajánlott, a végzettségének és képzettségének megfelelő más munkakört nem fogadta el.
+b) átszervezés következtében munkaköre megszűnt, és a számára felajánlott, a végzettségének és képzettségének megfelelő más munkakört nem fogadta el,
+
+c) a rendvédelmi alkalmazott teljesítményértékelése alapján munkáját nem végzi megfelelően.
 
 (2) A rendvédelmi alkalmazott igazgatási jogviszonyát felmentéssel meg kell szüntetni, ha
 
@@ -31,5 +33,7 @@ ab) a felajánlott másik, állapotának megfelelő munkakört a rendvédelmi al
 ac) a megváltozott munkaképességű személyek ellátására jogosultságot szerzett,
 
 b) az átszervezés miatt megszűnt munkakört betöltő rendvédelmi alkalmazott a számára felajánlott, a végzettségének és képzettségének megfelelő más munkakört méltányolható okból nem fogadta el.
+
+(5a) A rendvédelmi alkalmazottat akkor lehet felmenteni nem megfelelő munkavégzés miatt, ha őt az utolsó egyéni teljesítményértékelése során elfogadhatatlan teljesítményfokozattal értékelték.
 
 (6) Az igazgatási jogviszonyról történő lemondásnak kell tekinteni, ha a rendvédelmi alkalmazott az (5) bekezdés szerint felajánlott munkakört nem fogadja el.
