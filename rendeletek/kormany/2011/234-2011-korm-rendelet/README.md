@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-234-20-
 | 2019-11-20 | 2011-234-20-22.15 | 268/2019. (XI. 19.) Korm. rendelet |
 | 2020-01-01 | 2011-234-20-22.16 | 268/2019. (XI. 19.) Korm. rendelet |
 | 2020-02-15 | 2011-234-20-22.17 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-07-01 | 2011-234-20-22.18 | 372/2016. (XI. 29.) Korm. rendelet |
