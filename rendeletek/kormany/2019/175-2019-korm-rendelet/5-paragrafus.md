@@ -1,6 +1,6 @@
 ## 2. Az egységes budapesti városfejlesztési és a budapesti agglomerációs infrastruktúra fejlesztési tevékenységgel összefüggő kormányzati feladatok támogatásával kapcsolatos feladatok
 
-5. § (1) A KKBK Nonprofit Zrt. a 94/2018. (V. 22.) Korm. rendelet 17. §-ában meghatározott feladatokkal kapcsolatban közreműködik a budapesti városfejlesztési és a budapesti agglomerációs infrastruktúra fejlesztési, kormányzati szakpolitikai döntéshozatal előkészítésében, ennek keretében
+5. § (1)[^5] A BFK Budapest Fejlesztési Központ Nonprofit Zrt. a 94/2018. (V. 22.) Korm. rendelet 17. §-ában meghatározott feladatokkal kapcsolatban közreműködik a budapesti városfejlesztési és a budapesti agglomerációs infrastruktúra fejlesztési, kormányzati szakpolitikai döntéshozatal előkészítésében, ennek keretében
 
 a) elemzi és értékeli a fejlesztésekhez szükséges tervezési, beruházás-előkészítési és kivitelezési kapacitások rendelkezésre állását,
 
@@ -12,8 +12,11 @@ d) kapcsolatot tart és együttműködik a fejlesztésekkel érintett állami sz
 
 e) közreműködik a kiemelt budapesti fejlesztésekkel kapcsolatos adatgyűjtésben, ennek érdekében meghatározza az egységes adatszolgáltatás szempontjait.
 
-(2) A KKBK Nonprofit Zrt. a 94/2018. (V. 22.) Korm. rendelet 17. §-ában meghatározott feladatokkal kapcsolatban
+(2)[^6] A BFK Budapest Fejlesztési Központ Nonprofit Zrt. a 94/2018. (V. 22.) Korm. rendelet 17. §-ában meghatározott feladatokkal kapcsolatban
 
 a) részt vesz a kiemelt budapesti fejlesztéssé minősítéshez, valamint az e rendelet hatálya alá tartozó további ügyekkel kapcsolatos kormányzati döntéshozatalhoz szükséges dokumentáció elkészítésében,
 
 b) közreműködik a kiemelt budapesti fejlesztések körében a Kormány irányítása vagy felügyelete alá tartozó szervek munkájának összehangolásában, és a kiemelt budapesti fejlesztések megvalósításával összefüggő, azt biztosító szervezetrendszer működésének, hatékonyságának fejlesztésében.
+
+[^5]: Az 5. § (1) bekezdés nyitó szövegrésze a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdés nyitó szövegrésze a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

@@ -34,6 +34,9 @@ g) a beruházás előkészítésével kapcsolatban megtett intézkedéseket,
 
 h) bármely egyéb, a beruházáshoz kapcsolódó lényeges tényt vagy körülményt;
 
-4. egyéb előkészítő építtető: a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaságtól (a továbbiakban: KKBK Nonprofit Zrt.) vagy annak 100%-os tulajdonában álló gazdasági társaságtól eltérő az a személy, akit vagy amelyet e rendelet, jogszabály vagy kormányhatározat az adott kiemelt budapesti fejlesztés kapcsán egyedileg kijelöl, és amely felelős a fejlesztéssel létrehozandó létesítmény vagy infrastruktúra megvalósítására irányuló beruházás előkészítéséért;
+4.[^1] egyéb előkészítő építtető: a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaságtól (a továbbiakban: BFK Budapest Fejlesztési Központ Nonprofit Zrt.) vagy annak 100%-os tulajdonában álló gazdasági társaságtól eltérő az a személy, akit vagy amelyet e rendelet, jogszabály vagy kormányhatározat az adott kiemelt budapesti fejlesztés kapcsán egyedileg kijelöl, és amely felelős a fejlesztéssel létrehozandó létesítmény vagy infrastruktúra megvalósítására irányuló beruházás előkészítéséért;
 
-5. egyéb megvalósító építtető: a Beruházási Ügynökségtől, a KKBK Nonprofit Zrt.-től vagy annak 100%-os tulajdonában álló gazdasági társaságtól eltérő azon személy, akit vagy amelyet kormányhatározat az adott kiemelt budapesti fejlesztés kapcsán egyedileg kijelöl, és amely felelős a fejlesztéssel létrehozandó létesítmény vagy infrastruktúra megvalósítására irányuló beruházás megvalósításáért.
+5.[^2] egyéb megvalósító építtető: a Beruházási Ügynökségtől, a BFK Budapest Fejlesztési Központ Nonprofit Zrt.-től vagy annak 100%-os tulajdonában álló gazdasági társaságtól eltérő azon személy, akit vagy amelyet kormányhatározat az adott kiemelt budapesti fejlesztés kapcsán egyedileg kijelöl, és amely felelős a fejlesztéssel létrehozandó létesítmény vagy infrastruktúra megvalósítására irányuló beruházás megvalósításáért.
+
+[^1]: Az 1. § 4. pontja a 321/2020. (VII. 1.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 5. pontja a 321/2020. (VII. 1.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

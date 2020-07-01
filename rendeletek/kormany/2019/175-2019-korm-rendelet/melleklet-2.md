@@ -1,5 +1,3 @@
-## A 7. § szerinti kiemelt budapesti fejlesztések
-
 |  | A | B |
 
 | 1. | Fejlesztés megnevezése | Kijelölt egyéb előkészítő építtető |
@@ -10,10 +8,14 @@
 
 | 4. | Új, korszerű, nemzetközi versenyek lebonyolítására is alkalmas pályakerékpáros csarnok megvalósítása |  |
 
-| 5. | H5 Budapest – Szentendre HÉV vonal fejlesztésének teljes körű előkészítése és megvalósítása | KKBK Nonprofit Zrt. – MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV-HÉV Zrt.) |
+| 5. | H5 Budapest – Szentendre HÉV vonal fejlesztésének teljes körű előkészítése és megvalósítása | BFK Budapest Fejlesztési Központ Nonprofit Zrt. – MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV-HÉV Zrt.) |
 
-| 6. | H6/H7 HÉV vonalak fejlesztésének és utóbbiak Kálvin térig történő meghosszabbításának, beleértve a Boráros tér és a Boráros térről délre felszabaduló Duna-parti szakasz rendezésének teljes körű előkészítése és megvalósítása | KKBK Nonprofit Zrt. – MÁV-HÉV Zrt. |
+| 6. | H6/H7 HÉV vonalak fejlesztésének és utóbbiak Kálvin térig történő meghosszabbításának, beleértve a Boráros tér és a Boráros térről délre felszabaduló Duna-parti szakasz rendezésének teljes körű előkészítése és megvalósítása | BFK Budapest Fejlesztési Központ Nonprofit Zrt. – MÁV-HÉV Zrt. |
 
-| 7. | H5-H6/H7 HÉV vonalak mélyvezetésű összekötésének előkészítése | KKBK Nonprofit Zrt. – MÁV-HÉV Zrt. |
+| 7. | H5-H6/H7 HÉV vonalak mélyvezetésű összekötésének előkészítése | BFK Budapest Fejlesztési Központ Nonprofit Zrt. – MÁV-HÉV Zrt. |
 
-2. melléklet a 175/2019. (VII. 16.) Korm. rendelethez
+2. melléklet a 175/2019. (VII. 16.) Korm. rendelethez[^32]
+
+A 8. § szerinti kiemelt budapesti fejlesztések
+
+[^32]: A 2. melléklet a 321/2020. (VII. 1.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
