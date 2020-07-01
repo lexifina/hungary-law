@@ -24,7 +24,7 @@ j) civil érdek-képviseleti tevékenység támogatása;
 
 k) az Alap működtetésével kapcsolatos költségek fedezete;
 
-l) civil információs centrumok működésének támogatása.
+l) civil közösségi szolgáltató központok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 

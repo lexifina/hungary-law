@@ -10,7 +10,7 @@ c) három tagot pedig a miniszter a jogszabályok előkészítésében való tá
 
 (3) A kollégium elnökét a kollégium tagjai közül a miniszter nevezi ki.
 
-(4) A kollégium akkor döntésképes, ha a tagjainak több mint fele a szavazásban részt vesz. A kollégium minden tagjának egy szavazata van.
+(4) A kollégium akkor határozatképes, ha a tagjainak több mint fele a szavazásban részt vesz. A kollégium minden tagjának egy szavazata van.
 
 (5) A kollégium működésének szabályait – a jogszabályok és a Tanács vonatkozó döntéseinek keretein belül – ügyrendjében maga határozza meg. A kollégium az ügyrendjét, illetve annak módosítását a tagok legalább kétharmadának egyetértésével fogadja el és a miniszter hagyja jóvá.
 

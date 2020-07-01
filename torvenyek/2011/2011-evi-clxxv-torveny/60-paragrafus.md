@@ -16,6 +16,6 @@ c) három tagját a jogszabályok előkészítésében való társadalmi részv�
 
 (5) A Tanács valamennyi tagjának kijelölése és a megbízásának átvétele után kezdi meg működését. A Tanács első ülését a miniszter hívja össze.
 
-(6) A szabályszerűen összehívott ülésen a Tanács akkor döntésképes, ha a tagok több mint fele a szavazásban részt vesz. A Tanács minden tagjának egy szavazata van. A Tanács a döntéseit a jelen lévő tagok többségének egyetértésével hozza meg.
+(6) A szabályszerűen összehívott ülésen a Tanács akkor határozatképes, ha a tagok több mint fele a szavazásban részt vesz. A Tanács minden tagjának egy szavazata van. A Tanács a döntéseit a jelen lévő tagok többségének egyetértésével hozza meg.
 
 (7) A Tanács működésének részletes szabályait a miniszter által jóváhagyott ügyrend határozza meg. A Tanács az ügyrendjét, illetve annak módosítását a tagok legalább kétharmadának az egyetértésével fogadja el.

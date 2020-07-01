@@ -1,4 +1,4 @@
-52. § (1) A civil információs centrumok 51. § szerinti tevékenységük keretében az alábbi feladatokat látják el:
+52. § (1) A civil közösségi szolgáltató központok 51. § szerinti tevékenységük keretében az alábbi feladatokat látják el:
 
 a) igény esetén közreműködnek a civil szervezetek e törvény szerinti adminisztratív (elektronikus úton teljesítendő) kötelezettségeik teljesítésében,
 

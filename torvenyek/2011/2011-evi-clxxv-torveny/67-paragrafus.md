@@ -1,6 +1,6 @@
 67. § (1) A támogatási igény érvénytelen, ha a döntéshozó, illetve a döntési folyamatban közreműködő személy vagy közeli hozzátartozója
 
-a) az alapítvány alapítója, a civil szervezet döntéshozó vagy ügyvezető szervének tagja,
+a) az alapítvány alapítója, a civil szervezet vezető tisztségviselője,
 
 b) a civil szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 

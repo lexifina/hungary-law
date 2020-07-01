@@ -14,12 +14,12 @@ c) a Központi Statisztikai Hivatal az általa a hivatalos statisztikáról szó
 
 d) az adóhatóság a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény alapján a kedvezményezett számára kiutalt összegekről és azok felhasználásáról az adóhatóság rendelkezésére álló,
 
-e) a közérdekű önkéntes tevékenységről szóló törvény szerint, a hatósági nyilvántartásban szereplő
+e)
 
 civil szervezetekre vonatkozó adatokat.
 
 (4) A Civil Információs Portál felé a (3) bekezdés szerinti adatokat azok jogerőre emelkedését, érvényessé válását vagy az adatszolgáltató tudomására jutását követő legfeljebb három munkanapos késleltetéssel kell szolgáltatni.
 
-(5) A Civil Információs Portálon a civil szervezetekre vonatkozóan a (3) bekezdés szerint szolgáltatott adatok közül a közzétételt követően közhiteles a civil szervezetre vonatkozóan a (3) bekezdés d) pontja szerinti adatok közül a kiutalt összeg felhasználására vonatkozó adat és a (3) bekezdés e) pontja szerinti adat.
+(5) A Civil Információs Portálon a civil szervezetekre vonatkozóan a (3) bekezdés szerint szolgáltatott adatok közül a közzétételt követően közhiteles a civil szervezetre vonatkozóan a (3) bekezdés d) pontja szerinti adatok közül a kiutalt összeg felhasználására vonatkozó adat.
 
 (6) A Civil Információs Portálon jelölni kell azt, hogy mely adat közhiteles.

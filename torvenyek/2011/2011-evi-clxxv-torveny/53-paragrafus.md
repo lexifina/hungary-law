@@ -4,7 +4,7 @@
 
 53. § (1) Az államháztartás alrendszerei terhére kötött támogatási szerződés vagy kibocsátott támogatói okirat alapján létesített támogatási jogviszonyt az államháztartás működésére vonatkozó jogszabályok szabályozzák.
 
-(2)
+(2) A Nemzeti Együttműködési Alap terhére nyújtott 56. § (1) bekezdése szerinti, és a Magyar Falu Program jogcímcsoport terhére nyújtott támogatások kedvezményezettje lehet az 5000 fő és az az alatti lakosságszámú településen székhellyel rendelkező azon civil szervezet is, amelynek vezető tisztségviselője a polgármester.
 
 (3) Az államháztartás központi alrendszeréből a civil szervezetek részére nyújtott költségvetési támogatások szakmai összehangolása, az azonos projekt célok párhuzamos finanszírozásának kiszűrése érdekében a miniszter szakmai monitoring rendszert működtet.
 

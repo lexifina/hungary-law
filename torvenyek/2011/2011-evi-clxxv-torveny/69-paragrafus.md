@@ -2,9 +2,9 @@
 
 (2) A Tanács, illetve a kollégium zárt ülésről vagy a napirendi pont zárt tárgyalásáról dönthet, ha a személyiségi jogok védelme, a személyes adatok védelme vagy a testület működőképességének fenntartása ezt indokolja. A zárt ülésen hozott döntést közzé kell tenni. A zárt ülés, valamint a napirendi pont zárt tárgyalásának elrendeléséhez a jelen lévő tagok kétharmadának egyetértése szükséges.
 
-(3) Az Alapkezelő – a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 3. §-ában foglaltak szerint – biztosítja a nyertes pályázattal és az elnyert támogatással kapcsolatos, kezelésében lévő adatok nyilvánosságát.
+(3)
 
-(4) A pályázati felhívást és a hozzá kapcsolódó döntéseket az Alap honlapján (Civil Információs Portálon) és az alapkezelő honlapján közzé kell tenni.
+(4) A pályázati felhívást és a hozzá kapcsolódó döntéseket az Alap honlapján (Civil Információs Portálon) és az Alapkezelő honlapján közzé kell tenni.
 
 (5) Az Alap működésének nyilvánossága érdekében a miniszter a Civil Információs Portál keretein belül internetes honlapot működtet. A honlapon közzétételre kerül
 

@@ -8,7 +8,7 @@ b) a létesítő okirat eltérő rendelkezése hiányában a jogutód nélkül m
 
 c) az Szftv. 4. § (1) bekezdés h) pontja szerint felajánlott összeg;
 
-d) a tárgyévre vonatkozó költségvetési törvényben az Alap támogatásaként meghatározott összeg;
+d) a tárgyévre vonatkozó központi költségvetésről szóló törvényben az Alap támogatásaként meghatározott összeg;
 
 e) átvett központi költségvetési előirányzatok;
 

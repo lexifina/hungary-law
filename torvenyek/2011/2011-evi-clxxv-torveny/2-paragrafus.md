@@ -56,15 +56,7 @@ d) nemzetközi: a civil szervezet több országban fejti ki tevékenységét.
 
 14. induló tőke: a civil szervezet létrehozásakor az alapító(k), illetve alapító tag(ok) által a civil szervezet rendelkezésére bocsátott vagyon;
 
-15. költségvetési támogatás: az államháztartás alrendszerei terhére nyújtott pénzbeli vagy nem pénzbeli juttatás, amelyet a támogató nem elsősorban ellenszolgáltatás ellenében, de konkrét program megvalósítása vagy meghatározott időszakban a támogatott szervezet működtetése érdekében nyújt. Költségvetési támogatás különösen:
-
-a) a pályázat útján, valamint egyedi döntéssel kapott költségvetési támogatás,
-
-b) az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból származó, a költségvetésből juttatott támogatás,
-
-c) az Európai Unió költségvetéséből vagy más államtól, nemzetközi szervezettől származó támogatás,
-
-d) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint felajánlott összege;
+15.
 
 16. közcélú tevékenység: személyek csoportja által, valamely a csoportnál tágabb közösség érdekében – más, e közösségbe nem tartozó személyek érdekeinek sérelme nélkül – végzett tevékenység.
 
