@@ -8,6 +8,6 @@
 
 a) nincs helye sommás eljárásnak,
 
-b) a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+b)
 
 (5) A hegybíró felügyeleti szerve a Hegyközségek Nemzeti Tanácsának főtitkára.
