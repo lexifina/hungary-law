@@ -1,0 +1,3 @@
+7. § Az Fktv. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A felnőttképzési szerződést az engedélyhez kötött felnőttképzési tevékenység esetén írásban kell megkötni. A zárt rendszerű elektronikus távoktatás esetén – ha a felnőttképzési szerződést írásban kell megkötni – a felnőttképzési szerződés megköthető a Polgári Törvénykönyvről szóló 2013. évi V. törvénynek (a továbbiakban: Ptk.) az elektronikus úton történő szerződéskötésre vonatkozó különös szabályai szerint is, ha a felnőttképző az ehhez szükséges elektronikus utat biztosítja. Az írásban megkötött felnőttképzési szerződésben fel kell tüntetni, hogy a felnőttképzési szerződés az e törvény alapján megkötött felnőttképzési szerződés.”
