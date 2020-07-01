@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2012-134-00-00.20 |
 | 2019-12-15 | 2019. évi CIII. törvény | 2012-134-00-00.21 |
 | 2020-01-01 | 2019. évi CIII. törvény | 2012-134-00-00.22 |
+| 2020-07-01 | 2020. évi XXXX. törvény | 2012-134-00-00.23 |
