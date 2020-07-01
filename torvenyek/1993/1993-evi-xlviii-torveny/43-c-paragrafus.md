@@ -12,7 +12,7 @@ c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
 
 (2) A bányafelügyelet
 
-a) eljárásaiban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról,
+a)
 
 b) eljárásaiban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
