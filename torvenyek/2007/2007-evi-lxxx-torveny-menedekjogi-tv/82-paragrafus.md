@@ -12,7 +12,7 @@ e) születési helye és ideje;
 
 f) neme;
 
-g) anyja születési családi és utóneve vagy -nevei;
+g) anyja születési és az előző születési családi és utóneve vagy -nevei;
 
 h) jelenlegi és korábbi állampolgársága, állampolgárságai vagy hontalan státusza;
 

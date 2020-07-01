@@ -16,6 +16,12 @@
 
 (8) A végrehajtást meg kell szüntetni, ha a követelés elévült vagy a további eljárási cselekményektől már nem várható eredmény. A végrehajtást foganatosító szerv a megszűnési okról és a végrehajtás befejezéséről a végrehajtást elrendelő menekültügyi hatóságot értesíti.
 
+(8a) Megszűnik a végrehajtási eljárás
+
+a) az adóhatóságnak a végrehajtás eredménytelenségéről szóló értesítése és a behajtási eljárásának második alkalommal történő megszüntetése esetén;
+
+b) ha az adós meghal.
+
 (9) A végrehajtási jog a teljesítési határidő utolsó napjától számított öt év elteltével elévül.
 
 (10) A végrehajtási jog elévülését bármely végrehajtási cselekmény megszakítja.

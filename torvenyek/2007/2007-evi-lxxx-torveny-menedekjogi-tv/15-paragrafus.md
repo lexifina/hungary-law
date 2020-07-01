@@ -10,4 +10,4 @@ ab) vele szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn;
 
 ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 
-b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot sérti.
+b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot veszélyezteti.

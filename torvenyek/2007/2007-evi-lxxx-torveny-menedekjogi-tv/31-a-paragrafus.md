@@ -14,7 +14,7 @@ e) a kérelem előterjesztésére repülőtéri eljárásban került sor, vagy
 
 f) a dublini átadási eljárások biztosítása érdekében szükséges, és komoly veszély áll fenn a szökésre.
 
-(1a) A dublini átadás végrehajtása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, és esetében dublini átadásnak van helye.
+(1a) A dublini eljárás lefolytatása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, esetében dublini átadásnak lehet helye, és szökésének komoly veszélye áll fenn.
 
 (1b) Az (1a) bekezdés alapján őrizetbe vett külföldire a menekültügyi őrizet időtartama alatt az elismerését kérőre vonatkozó szabályok megfelelően alkalmazandók. A menekültügyi őrizet megszüntetését, továbbá az átadás meghiúsulását követően – az őrizet megszüntetésével egyidőben meghozott, rendelkezésre állást biztosító intézkedésre vonatkozó döntés kivételével – az idegenrendészeti szabályok alkalmazásának van helye.
 
@@ -46,4 +46,4 @@ f) nyilvánvalóvá válik, hogy a dublini átadást nem lehet végrehajtani.
 
 (9) A menekültügyi őrizetnek a (8) bekezdés a), c), d), illetve f) pontja alapján történő megszüntetése esetén a menekültügyi hatóság az elismerését kérő számára kijelölt tartózkodási helyet rendel el. A menekültügyi őrizetnek a (8) bekezdés e) pontja alapján történő megszüntetése esetén a menekültügyi hatóság kijelölt tartózkodási helyet rendelhet el.
 
-(10) A menekültügyi őrizetet a menekültügyi hatóság – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – az erre a célra kijelölt, az őrizet végrehajtására szolgáló intézményben hajtja végre.
+(10) A menekültügyi őrizetet a menekültügyi hatóság – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – az erre a célra kijelölt, az őrizet végrehajtására szolgáló intézményben vagy – kivételesen indokolt esetben – egészségügyi intézményben hajtja végre.

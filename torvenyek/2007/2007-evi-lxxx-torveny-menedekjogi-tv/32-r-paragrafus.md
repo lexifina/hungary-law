@@ -6,7 +6,7 @@
 
 (4) Ha a menekültügyi hatóság megállapítja, hogy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
 
-(5) A döntést a hatósági igazolványba és bizonyítványba felvett téves bejegyzés kivételével nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
+(5) A döntést a hatósági igazolványba, bizonyítványba, valamint hatósági nyilvántartásba felvett téves bejegyzés kivételével nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
 (6) Az ügyfél – az önálló jogorvoslattal nem támadható végzések kivételével – a véglegessé vált döntés ellen közigazgatási pert indíthat.
 

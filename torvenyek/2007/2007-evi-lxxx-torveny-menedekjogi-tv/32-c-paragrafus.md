@@ -26,10 +26,12 @@ j) 81. § (2) bekezdés a) pontja,
 
 k) 90. §,
 
-l) 113. § (2) bekezdés a) és c) pontja,
+l) 108–110. §,
 
-m) 114. § (2) bekezdés,
+m) 113. § (2) bekezdés a) és c) pontja,
 
-n) 122. §
+n) 114. § (2) bekezdés,
+
+o) 122. §
 
 előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.

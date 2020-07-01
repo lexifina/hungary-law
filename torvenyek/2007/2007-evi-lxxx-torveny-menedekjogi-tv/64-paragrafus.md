@@ -8,7 +8,7 @@ c) a nemzeti hovatartozás fogalma nem korlátozódik az állampolgárságra vag
 
 d) valamely csoport különösen akkor minősül meghatározott társadalmi csoportnak, ha:
 
-da) a csoport tagjai olyan velük született jellemző tulajdonsággal vagy meg nem változtatható közös háttérrel rendelkeznek, vagy olyan közös meggyőződésük, illetve jellemző tulajdonságaik vannak, amelyek olyannyira alapvetőek az önazonosság, illetve a lelkiismeret szabadsága szempontjából, hogy az érintett személyeket nem lehet ezek feladására kényszeríteni, vagy
+da) a csoport tagjai olyan velük született jellemző tulajdonsággal vagy meg nem változtatható közös háttérrel rendelkeznek, vagy olyan közös meggyőződésük, illetve jellemző tulajdonságaik vannak, amelyek olyannyira alapvetőek az önazonosság, illetve a lelkiismeret szabadsága szempontjából, hogy az érintett személyeket nem lehet ezek feladására kényszeríteni és
 
 db) a csoport az érintett országban egyértelműen elkülöníthető identitással rendelkezik, mivel a csoportot az azt körülvevő társadalom különbözőként kezeli;
 

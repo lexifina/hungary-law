@@ -20,7 +20,9 @@ h) az elektronikus és papíralapú anyakönyvi alapiratokból;
 
 i) a gondnokoltak nyilvántartásából;
 
-j) az egységes szociális nyilvántartásból.
+j) az egységes szociális nyilvántartásból
+
+k) az állampolgársági ügyekben eljáró szervtől.
 
 (2) A menekültügyi hatóság eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzésére adatot igényelhet:
 

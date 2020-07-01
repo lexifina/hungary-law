@@ -26,4 +26,4 @@ d) a tranzitzónát elhagyja.
 
 (10) Az elismerését kérő a további jogorvoslattal nem támadható döntés közlését követően a tranzitzónát elhagyja.
 
-(11) Ha az elismerését kérő ismételt kérelmét azt követően nyújtja be, hogy korábbi kérelme tárgyában végleges megszüntető vagy elutasító döntés született, az elismerését kérőt nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
+(11) Ha az elismerését kérő ismételt kérelmét azt követően nyújtja be, hogy korábbi kérelme tárgyában végleges megszüntető, elutasító vagy státusz-visszavonó döntés született, az elismerését kérőt nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
