@@ -10,7 +10,7 @@ a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a közpo
 
 b)
 
-1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében,
+1. a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében,
 
 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék,
 

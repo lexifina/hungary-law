@@ -16,7 +16,7 @@ kiadásainak fedezetére szolgál.
 
 a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 
-b) a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
+b) a biztosított által fizetett társadalombiztosítási járulék Egészségbiztosítási Alapot megillető része;
 
 c) egyéb járulékok és hozzájárulások, ideértve
 
