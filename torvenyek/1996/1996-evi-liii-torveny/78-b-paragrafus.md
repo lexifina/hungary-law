@@ -24,6 +24,8 @@ a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért 
 
 b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat véglegessé válásától számított három évig.
 
+(3a) A (3) bekezdés nem vonatkozik a kérelmező által jogszerűen tartott egyeddel és annak utódjával kapcsolatos kérelmekre.
+
 (4) Az (1) bekezdésben meghatározott jogosultság megszerzéséhez a kérelmező
 
 a) a természetvédelmi hatóság részére hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn a (2) bekezdésben meghatározott kizáró ok, vagy
