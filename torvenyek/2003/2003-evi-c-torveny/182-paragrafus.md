@@ -16,7 +16,9 @@ f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munk
 
 g)
 
-g) a 127. § (2d) bekezdésében meghatározott szervet.
+g) a 127. § (2d) bekezdésében meghatározott szervet;
+
+h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét.
 
 (2)
 

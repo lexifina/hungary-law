@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2019-01-01 | 2018. évi CXXI. törvény | 2003-100-00-00.74 |
 | 2019-07-17 | 2019. évi LXVII. törvény | 2003-100-00-00.75 |
 | 2020-04-11 | 2020. évi XIX. törvény | 2003-100-00-00.76 |
+| 2020-07-01 | 2019. évi LXVII. törvény | 2003-100-00-00.77 |

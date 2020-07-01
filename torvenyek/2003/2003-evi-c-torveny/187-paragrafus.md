@@ -53,3 +53,5 @@ m) a spektrumhasználatra vonatkozó információk Közösségen belüli harmoni
 n) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+(3) A 92/C. §, a 145/A. § és a 182. § (1) bekezdésének h) pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
