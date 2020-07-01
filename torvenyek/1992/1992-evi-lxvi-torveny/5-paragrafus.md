@@ -40,7 +40,7 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 
 (16) Értesítési cím bejelentése: az értesítési cím nyilvántartásba vételének első alkalommal történő igénylése, a bejelentett értesítési cím megújítása, megváltoztatásának vagy törlésének kérése.
 
-(17) Központi címregiszter: az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott nyilvántartás.
+(17) Központi címregiszter: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott nyilvántartás.
 
 (18) Elektronikus egyedi azonosító: az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvényben meghatározott, az elsődleges kártya funkcióhoz szükséges elektronikus egyedi azonosító.
 

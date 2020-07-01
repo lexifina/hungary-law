@@ -18,15 +18,21 @@ h) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bej
 
 i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 
-j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
+j) az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
 
 k) a nyugdíjfolyósító szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
 
 l) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához, a nyilvántartást kezelő szervtől;
 
-m) a bejegyzett élettársi kapcsolat megszüntetésére irányuló polgári nemperes eljáráshoz a közjegyző,
+m) a közjegyző
 
-n) az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz a közjegyző, az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara,
+ma) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével – a lakcímadatok vonatkozásában azonban a történeti adatokat is beleértve – a fizetési meghagyásos eljáráshoz, az európai fizetési meghagyásos eljáráshoz, a végrehajtási eljáráshoz, az európai uniós jogforráson alapuló tanúsítvány, igazolás, kivonat kiállítása iránti eljáráshoz,
+
+mb) a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz,
+
+mc) a bejegyzett élettársi kapcsolat megszüntetésére irányuló, valamint az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz, továbbá az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az egyéb közjegyzői nemperes eljárásokhoz;
+
+n) az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara;
 
 o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
 

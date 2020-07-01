@@ -12,7 +12,7 @@ b) természetes személyazonosító adatok és lakcímadatok, értesítési cím
 
 c) a b) pontban felsorolt adatok és a személyazonosító jel;
 
-d) a 9. § (2) bekezdés i) pontja, a 11. § (1) bekezdés q) pontja, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;
+d) a 9. § (2) bekezdés i) pontja, a 11. § (1) bekezdés q) pontja és (4) bekezdése, valamint az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye kivételével, a nyilvántartásba felvett adatok teljes köre;
 
 e) természetes személyazonosító adatok és állampolgárság;
 

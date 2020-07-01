@@ -1,4 +1,4 @@
-39. § (1) A jegyző – az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvényben meghatározott központi címregiszter létrehozásának előkészítése céljából – ellenőrzi az illetékességi területén lévő települési címeket.
+39. § (1) A jegyző – a központi címregiszter létrehozásának előkészítése céljából – ellenőrzi az illetékességi területén lévő települési címeket.
 
 (2) Az ellenőrzés a 28/A. § (2) bekezdés a)–e) pontjaiban meghatározott adatok teljes körűségére, pontosságára és valóságtartalmának ellenőrzésére terjed ki.
 

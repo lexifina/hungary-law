@@ -10,7 +10,7 @@
 
 (4) 1996. december 31-ig a 17. § (2) bekezdésének c) pontjában, ezen időpont után pedig a 17. § (2) bekezdésének b) pontjában foglalt adatok igénylésére jogosult:
 
-a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. § (2) bekezdése alapján a Kormány rendeletében meghatározott, társadalombiztosítási feladatokat ellátó szervek – a családi állapottal kiegészítve – a járulékfizetéssel, a nyilvántartással, az adatszolgáltatással kapcsolatos, jogszabályban előírt kötelezettségük teljesítése, továbbá e szervek hatáskörébe tartozó ellátásoknak (szolgáltatásoknak) a jogosultak részére történő megállapítása és folyósítása (szolgáltatása), valamint ezeknek ellenőrzése céljából.;
+a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti társadalombiztosítási feladatokat ellátó szervek – a családi állapottal kiegészítve – a járulékfizetéssel, a nyilvántartással, az adatszolgáltatással kapcsolatos, jogszabályban előírt kötelezettségük teljesítése, továbbá e szervek hatáskörébe tartozó ellátásoknak (szolgáltatásoknak) a jogosultak részére történő megállapítása és folyósítása (szolgáltatása), valamint ezeknek ellenőrzése céljából;
 
 b) az egészségügyi államigazgatási szerv, valamint az egészségügyi igazgatás szervei az egészségügyi alap- és szakellátással, a gondozóhálózati ellátással, a vérellátással, a közegészségügyi-járványügyi nyilvántartásokkal kapcsolatos feladatai ellátásához; valamint
 

@@ -34,7 +34,7 @@ j) ellátja a 4. § (2a) bekezdés a) és h) pontja szerinti külföldön élő 
 
 m)
 
-n)
+n) vezeti a 33/B. § (1) bekezdése szerinti nyilvántartást.
 
 o)
 

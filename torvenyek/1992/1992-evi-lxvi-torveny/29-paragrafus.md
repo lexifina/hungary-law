@@ -90,6 +90,8 @@ e) a kiadásának okát.
 
 (12) A polgár a személyazonosságát a személyazonosító igazolványon túl az érvényes útlevéllel vagy kártyaformátumú vezetői engedéllyel igazolhatja. Személyazonosítás céljából – jogszabályban meghatározott kivételekkel – a polgár nem kötelezhető más okmány bemutatására.
 
+(12a) A hadköteles katona a személyazonosságát a katonai szolgálatteljesítési ideje alatt a Honvédség katonai igazgatási és központi adatfeldolgozó szerve által a hadköteles katonák részére kibocsátott katonai igazolvánnyal igazolja. Személyazonosítás céljából a hadköteles katona nem kötelezhető más okmány bemutatására.
+
 (13) A cselekvőképtelen kiskorú polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes kiskorú és a cselekvőképességében részlegesen korlátozott nagykorú jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 
 (14) A polgár köteles a személyazonosító igazolvány kiadását igényelni, ha nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal. A cselekvőképtelen kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár törvényes képviselője köteles biztosítani azt, hogy a kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár személyazonosságot igazoló hatósági igazolvánnyal rendelkezzen.
@@ -97,6 +99,8 @@ e) a kiadásának okát.
 (15) A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem – jogszabályban meghatározott kivétellel – csak személyes megjelenéssel terjeszthető elő. Jogszabályban meghatározott esetekben a személyazonosság igazolására alkalmas hatósági igazolvány hivatalból is kiállítható.
 
 (16) A polgár az elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye, illetve magánútlevele, második magánútlevele, szolgálati útlevele, hajós szolgálati útlevele pótlását, ha az adataiban nem következett be változás, ideiglenes okmány kiadására nincs szükség, és a magánútlevél, a második magánútlevél, illetve hajós szolgálati útlevél esetében az érintett hozzájárulása alapján az útiokmány-nyilvántartás tartalmazza az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát.
+
+(16a) A polgár elektronikus azonosítást követően elektronikus kapcsolattartás útján kezdeményezheti az elvesztett, eltulajdonított vagy megsemmisült állandó személyazonosító igazolványának pótlását annak érvényességi idején belül azzal – az okmányazonosító, a kiállításának ideje, a 29. § (3) bekezdés szerinti gépi olvasásra alkalmas adatsor, a 29. § (5) bekezdés szerinti kódszám, a 29. § (6) bekezdés szerinti adattároló kód, a személyazonosító igazolvány elektronikus egyedi azonosítója és a vészhelyzet esetén értesítendő telefonszám kivételével – megegyező adattartalommal.
 
 (17) A (18)–(20) bekezdésben meghatározottak szerint a szolgáltatásazonosító kezelésére jogosult szerv vagy személy valamely jogosultság fennállását elektronikus úton a tároló elem olvasásával, felhasználói közreműködés – további kódok megadása – nélkül a szolgáltatásazonosítóhoz kötötten rögzítheti, a jogosultság fennállását ellenőrizheti, a szolgáltatásazonosítót kizárólag e célból megismerheti.
 
