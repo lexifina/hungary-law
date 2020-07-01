@@ -1,0 +1,1 @@
+## 2. § A biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet 11. § (6) bekezdésében a „100 bázispontnál” szövegrész helyébe a „85 bázispontnál” szöveg lép.
