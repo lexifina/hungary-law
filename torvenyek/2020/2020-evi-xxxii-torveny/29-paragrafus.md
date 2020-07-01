@@ -8,6 +8,4 @@
 
 ## b) meghatározni a muzeális intézmények tevékenységének és feladatellátásának, valamint a közgyűjteményekben őrzött kulturális javakhoz történő hozzáférésnek a szabályait,”
 
-(2) A Kultv. 1. §-a a következő g) és h) ponttal egészül ki:
-
-(E törvény célja:)
+(2)

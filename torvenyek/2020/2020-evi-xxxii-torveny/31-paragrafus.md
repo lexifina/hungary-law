@@ -6,6 +6,4 @@
 
 ## „c) a közművelődési feladatot ellátókra, a közösségi színterek és a közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.”
 
-(2) A Kultv. 5. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(E törvény hatálya kiterjed:)
+(2)
