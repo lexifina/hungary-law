@@ -1116,7 +1116,7 @@
 
 |  | 2915 Semmelweis Egyetem |
 
-|  | 32. 01501 Aorta stent-graftok |
+|  | 32. 01501 Stent-graftok (aorta, artéria iliaca) |
 
 |  | Elszámolásra jogosult intézetek: |
 
@@ -1426,6 +1426,6 @@
 
 |  | K403 Magyar Honvédség Egészségügyi Központ |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^106]
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^108]
 
-[^106]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^108]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
