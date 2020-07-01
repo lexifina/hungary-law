@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-337-20-
 | 2020-03-01 | 2017-337-20-22.4 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-06-13 | 2017-337-20-22.5 | 252/2020. (V. 29.) Korm. rendelet |
 | 2020-06-18 | 2017-337-20-22.6 | 284/2020. (VI. 17.) Korm. rendelet |
+| 2020-07-01 | 2017-337-20-22.7 | 252/2020. (V. 29.) Korm. rendelet |
