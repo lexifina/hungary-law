@@ -1,0 +1,3 @@
+2. § A Tftv. a következő 28. §-sal egészül ki:
+
+„28. § E törvénynek a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosításáról szóló 2020. évi XXIII. törvénnyel megállapított 15–17. §-ára tekintettel a térségi fejlesztési tanácsok legkésőbb 2020. augusztus 31-ig módosítják szervezeti és működési szabályzatukat.”
