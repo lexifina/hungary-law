@@ -1,1 +1,3 @@
-## 2. § Az előadó-művészeti szervezetek támogatásának részletes szabályairól szóló 428/2016. (XII. 15.) Korm. rendelet módosításáról és a kiadványok kötelespéldányainak szolgáltatásáról, megőrzéséről és használatáról szóló 195/2019. (VIII. 1.) Korm. rendelet eltérő időpontban történő hatálybalépéséről szóló 369/2019. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 6. §-ában az „a Rendelet2.” szövegrész helyébe az „a kiadványok kötelespéldányainak szolgáltatásáról, megőrzéséről és használatáról szóló 195/2019. (VIII. 1.) Korm. rendelet” szöveg lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
