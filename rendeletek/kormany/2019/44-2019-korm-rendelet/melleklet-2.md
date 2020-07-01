@@ -12,7 +12,7 @@
 
 ## miatt megállapította, és az elkövető az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
 
-2. melléklet a 44/2019. (III. 12.) Korm. rendelethez[^82]
+2. melléklet a 44/2019. (III. 12.) Korm. rendelethez[^84]
 
 ## A várandósság igazolása a babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet szerinti kedvezmények és támogatások igénybevételéhez
 
@@ -48,4 +48,4 @@ III. Az igazolást kiállító szülész-nőgyógyász szakorvos adatai
 
 4. szakorvos aláírása és bélyegzője
 
-[^82]: A 2. mellékletet a 252/2020. (V. 29.) Korm. rendelet 31. § a) pontja iktatta be.
+[^84]: A 2. mellékletet a 252/2020. (V. 29.) Korm. rendelet 31. § a) pontja iktatta be.

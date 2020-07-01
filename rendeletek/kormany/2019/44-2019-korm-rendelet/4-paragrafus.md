@@ -8,7 +8,7 @@ b) mindkét házasfél rendelkezik magyarországi lakcímmel,
 
 c)[^6] legalább az egyik házasfél legalább 3 éve folyamatosan
 
-ca) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. §-a alapján biztosított,
+ca)[^7] a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. §-a alapján biztosított,
 
 cb) a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali képzés keretében hallgatói jogviszonyban állt,
 
@@ -32,25 +32,25 @@ fb) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás
 
 fc) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján hontalan jogállásúnak ismerték el,
 
-g)[^7]
+g)[^8]
 
-h)[^8] egyiküknek sincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: 2011. évi CXXII. törvény) 11. § (1) bekezdése szerinti, a Központi Hitelinformációs Rendszerben (a továbbiakban: KHR) nyilvántartott tartozása, ide nem értve azt az esetet, amikor a késedelmes tartozás teljesítése már megtörtént, azonban a teljesítésre a kölcsönkérelem benyújtását megelőző egy éven belül került sor, és a 2011. évi CXXII. törvény 8. § (4) bekezdése alapján a hiteladósra vonatkozó referenciaadatot a KHR-ből még nem törölték.
+h)[^9] egyiküknek sincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: 2011. évi CXXII. törvény) 11. § (1) bekezdése szerinti, a Központi Hitelinformációs Rendszerben (a továbbiakban: KHR) nyilvántartott tartozása, ide nem értve azt az esetet, amikor a késedelmes tartozás teljesítése már megtörtént, azonban a teljesítésre a kölcsönkérelem benyújtását megelőző egy éven belül került sor, és a 2011. évi CXXII. törvény 8. § (4) bekezdése alapján a hiteladósra vonatkozó referenciaadatot a KHR-ből még nem törölték.
 
 i) esetükben nem áll fenn olyan tény vagy körülmény, amelynek alapján a közös gyermekvállalás nyilvánvalóan lehetetlennek tekinthető, és
 
-j)[^9] vállalják, hogy legalább egyikük a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeiket a nagykorúvá válásukig, de legfeljebb a kölcsönszerződés megszűnéséig a saját háztartásában neveli.
+j)[^10] vállalják, hogy legalább egyikük a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeiket a nagykorúvá válásukig, de legfeljebb a kölcsönszerződés megszűnéséig a saját háztartásában neveli.
 
 (2) Az (1) bekezdés c) pontja szerinti 3 éves időszak számítása során
 
-a)[^10] az (1) bekezdés c) pontja szerinti egymást követő időszakokat össze kell számítani,
+a)[^11] az (1) bekezdés c) pontja szerinti egymást követő időszakokat össze kell számítani,
 
-b)[^11] folyamatosnak kell tekinteni az időszakot, ha abban legfeljebb 30 nap megszakítás van, illetve a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézménynél fennálló hallgatói jogviszony megszűnését követően a következő, babaváró támogatásra jogosító jogviszony megkezdéséig hat hónapnál hosszabb megszakítás nincs,
+b)[^12] folyamatosnak kell tekinteni az időszakot, ha abban legfeljebb 30 nap megszakítás van, illetve a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézménynél fennálló hallgatói jogviszony megszűnését követően a következő, babaváró támogatásra jogosító jogviszony megkezdéséig hat hónapnál hosszabb megszakítás nincs,
 
-c) a kölcsönkérelem benyújtását megelőző 180 napos időtartamnak a Tbj. 5. § (1) bekezdés a), b) vagy e)–j) pontja szerinti jogviszonyban töltött időnek kell minősülnie, és
+c)[^13] a kölcsönkérelem benyújtását megelőző 180 napos időtartamnak a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti jogviszonyban töltött időnek kell minősülnie, és
 
 d) a közfoglalkoztatási jogviszonyban töltött idő egy évet meghaladó része nem számítható be.
 
-(2a)[^12] Ha az igénylő a kölcsönkérelem benyújtásának időpontját megelőző 180 napon belül az (1) bekezdés c) pont cc) alpontja szerinti jogviszonyban áll, akkor a (2) bekezdés c) pontjában foglalt feltételnek csak a kölcsönkérelem benyújtását megelőző 90 napos időtartamra nézve kell fennállnia.
+(2a)[^14] Ha az igénylő a kölcsönkérelem benyújtásának időpontját megelőző 180 napon belül az (1) bekezdés c) pont cc) alpontja szerinti jogviszonyban áll, akkor a (2) bekezdés c) pontjában foglalt feltételnek csak a kölcsönkérelem benyújtását megelőző 90 napos időtartamra nézve kell fennállnia.
 
 (3) Nem magyar állampolgár támogatott személlyel kölcsönszerződés a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt köthető.
 
@@ -59,9 +59,11 @@ d) a közfoglalkoztatási jogviszonyban töltött idő egy évet meghaladó rés
 (5) Ugyanazon igénylővel kölcsönszerződés csak egy alkalommal köthető.
 
 [^6]: A 4. § (1) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^7]: A 4. § (1) bekezdés g) pontját a 252/2020. (V. 29.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.
-[^8]: A 4. § (1) bekezdés h) pontja a 151/2019. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^10]: A 4. § (2) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^11]: A 4. § (2) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^7]: A 4. § (1) bekezdés c) pont ca) alpontja a 252/2020. (V. 29.) Korm. rendelet 32. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés g) pontját a 252/2020. (V. 29.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.
+[^9]: A 4. § (1) bekezdés h) pontja a 151/2019. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^12]: A 4. § (2) bekezdés b) pontja a 252/2020. (V. 29.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. § (2) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 32. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 4. § (2a) bekezdését a 252/2020. (V. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be.
