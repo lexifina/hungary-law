@@ -1,10 +1,10 @@
-## 12/A. [^74] A normatív támogatásokra vonatkozó különös szabályok
+## 12/A. [^78] A normatív támogatásokra vonatkozó különös szabályok
 
-14/A. § (1)[^75] Normatív támogatásra – beérkezési sorrendben, az erre vonatkozó keret kimerüléséig – jogosult az a civil szervezet, amelynek a döntéshozó szerve által elfogadott beszámolójában feltüntetett adományai értékének tíz százaléka eléri a tízezer forintot. Az adományok összegéről, a beszámoló alapján a szervezet képviselője a normatív támogatás iránti kérelemhez csatolt mellékletben nyilatkozik. Normatív támogatást önrész nélkül, támogatási előlegként, vissza nem térítendő támogatásként kell biztosítani.
+14/A. § (1)[^79] Normatív támogatásra – beérkezési sorrendben, az erre vonatkozó keret kimerüléséig – jogosult az a civil szervezet, amelynek a döntéshozó szerve által elfogadott beszámolójában feltüntetett adományai értékének tíz százaléka eléri a tízezer forintot. Az adományok összegéről, a beszámoló alapján a szervezet képviselője a normatív támogatás iránti kérelemhez csatolt mellékletben nyilatkozik. Normatív támogatást önrész nélkül, támogatási előlegként, vissza nem térítendő támogatásként kell biztosítani.
 
-(1a)[^76] Az Alap terhére az (1) bekezdés szerinti pályázati kiírást minden kollégiumra összevontan, egységes tartalommal és feltételekkel kell megjelentetni.
+(1a)[^80] Az Alap terhére az (1) bekezdés szerinti pályázati kiírást minden kollégiumra összevontan, egységes tartalommal és feltételekkel kell megjelentetni.
 
-(2) A normatív támogatás keretében legfeljebb ötszázezer forint támogatás nyújtható, és azt a civil szervezet kizárólag a működési költségeinek fedezésére fordíthatja.
+(2)[^81] A normatív támogatás keretében legfeljebb hétszázötvenezer forint támogatás nyújtható, és azt a civil szervezet kizárólag a működési költségeinek fedezésére fordíthatja.
 
 (3) A normatív támogatás biztosítására irányuló kérelmet az Alapkezelőhöz kell elektronikusan, az e célra rendszeresített elektronikus pályáztatási rendszeren keresztül benyújtani.
 
@@ -12,9 +12,10 @@
 
 (5) A formailag érvényes támogatási igényekre vonatkozóan az Alapkezelő – beérkezési sorrendben, az erre vonatkozó keret kimerüléséig – támogatói okiratot bocsát ki, vagy támogatási szerződést köt. A támogatói okirat kibocsátására, a támogatási szerződés megkötésére és a folyósításra az 5. §-ban foglaltakat kell megfelelően alkalmazni.
 
-(6)[^77] A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.
+(6)[^82] A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.
 
-[^74]: A 12/A. alcímet (14/A. §) a 35/2016. (XI. 30.) EMMI rendelet 7. §-a iktatta be.
-[^75]: A 14/A. § (1) bekezdése a 23/2017. (X. 3.) EMMI rendelet 7. § (1) bekezdésével megállapított, a 20/2018. (XII. 20.) MvM rendelet 5. § f) pontja szerint módosított szöveg.
-[^76]: A 14/A. § (1a) bekezdését a 23/2017. (X. 3.) EMMI rendelet 7. § (2) bekezdése iktatta be.
-[^77]: A 14/A. § (6) bekezdését a 23/2017. (X. 3.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^78]: A 12/A. alcímet (14/A. §) a 35/2016. (XI. 30.) EMMI rendelet 7. §-a iktatta be.
+[^79]: A 14/A. § (1) bekezdése a 23/2017. (X. 3.) EMMI rendelet 7. § (1) bekezdésével megállapított, a 20/2018. (XII. 20.) MvM rendelet 5. § f) pontja szerint módosított szöveg.
+[^80]: A 14/A. § (1a) bekezdését a 23/2017. (X. 3.) EMMI rendelet 7. § (2) bekezdése iktatta be.
+[^81]: A 14/A. § (2) bekezdése a 11/2020. (VI. 30.) MvM rendelet 7. § c) pontja szerint módosított szöveg.
+[^82]: A 14/A. § (6) bekezdését a 23/2017. (X. 3.) EMMI rendelet 7. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## Nyilatkozat a költségtérítés, költségátalány érvényesítéséről, annak módjáról
+## Nyilatkozat a költségátalány érvényesítéséről
 
 ## A nyilatkozatot adó testületi tag
 
@@ -8,21 +8,21 @@
 
 ## testületének megnevezése:
 
-## ......... évben
+## .............................. évben
 
-## a) költségtérítést kívánok igénybe venni*
+## a) költségátalányt kívánok igénybe venni*
 
-## b) költségátalányt kívánok igénybe venni*
+## b) a testületi tagsághoz kapcsolódó juttatást nem kívánok igénybe venni*
 
-## c) a testületi tagsághoz kapcsolódó juttatást nem kívánok igénybe venni*
+## Kelt: ...............................................................................
 
-## Kelt: ............................................................
-
-## ...........................................................
+## ...............................................................................
 
 ## a testületi tag aláírása
 
-## * A megfelelő rész aláhúzandó
+## _______________________
+
+## * A megfelelő rész aláhúzandó!
 
 ## 1. Tanú: 2. Tanú:
 
@@ -32,6 +32,6 @@
 
 ## Aláírás: Aláírás:
 
-6. melléklet az 5/2012. (II. 16.) KIM rendelethez[^142]
+6. melléklet az 5/2012. (II. 16.) KIM rendelethez[^154]
 
-[^142]: A 6. mellékletet a 74/2013. (XII. 2.) EMMI rendelet 10. §-a hatályon kívül helyezte.
+[^154]: A 6. mellékletet a 74/2013. (XII. 2.) EMMI rendelet 10. §-a hatályon kívül helyezte.

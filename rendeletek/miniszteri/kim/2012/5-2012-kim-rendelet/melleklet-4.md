@@ -12,7 +12,7 @@
 
 ## aláírás
 
-4. melléklet az 5/2012. (II. 16.) KIM rendelethez[^140]
+4. melléklet az 5/2012. (II. 16.) KIM rendelethez[^152]
 
 Nyilatkozat az összeférhetetlennek minősülő civil szervezetekről
 
@@ -44,4 +44,4 @@ Kelt: ......................................, 20........... (év) ..............
 
 aláírás
 
-[^140]: A 4. melléklet a 23/2017. (X. 3.) EMMI rendelet 11. § b) pontjával megállapított szöveg.
+[^152]: A 4. melléklet a 23/2017. (X. 3.) EMMI rendelet 11. § b) pontjával megállapított szöveg.

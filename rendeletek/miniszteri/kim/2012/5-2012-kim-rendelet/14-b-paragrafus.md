@@ -1,16 +1,16 @@
-## 12/B. [^78] Az egyszerűsített támogatásokra vonatkozó különös szabályok
+## 12/B. [^83] Az egyszerűsített támogatásokra vonatkozó különös szabályok
 
 14/B. § (1) Egyszerűsített támogatásra – beérkezési sorrendben, az erre vonatkozó keret kimerüléséig – jogosult az a helyi vagy területi hatókörű civil szervezet, amely
 
 a) a támogatási igény benyújtását megelőző két évben letétbe helyezett teljes és közzétett számviteli beszámolóval rendelkezik,
 
-b)[^79] a pályázat megjelenését megelőző utolsó két lezárt üzleti évben a beszámolóval igazolható éves összes bevétele egyik évben sem éri el az ötmillió forintot, és
+b)[^84] a pályázat megjelenését megelőző utolsó két lezárt üzleti évben a beszámolóval igazolható éves összes bevétele egyik évben sem éri el az ötmillió forintot, és
 
 c) az adott költségvetési év forrása tekintetében nem nyújtott be a Civil tv. 56. § (1) bekezdés b)–g), i) és j) pontjaira vonatkozó támogatási igényt.
 
 (2) A támogatást önrész nélkül, támogatási előlegként, vissza nem térítendő támogatásként kell biztosítani.
 
-(3) Az egyszerűsített támogatás keretében a támogatási igényben jelzett, de legfeljebb kétszázezer forint összegű támogatás nyújtható, és azt a civil szervezet kizárólag az alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordíthatja.
+(3)[^85] Az egyszerűsített támogatás keretében a támogatási igényben jelzett, de legfeljebb háromszázezer forint összegű támogatás nyújtható, és azt a civil szervezet kizárólag az alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordíthatja.
 
 (4) A támogatás biztosítására irányuló kérelmet az Alapkezelőhöz kell elektronikusan, az e célra rendszeresített elektronikus pályázatkezelési rendszeren keresztül benyújtani.
 
@@ -20,5 +20,6 @@ c) az adott költségvetési év forrása tekintetében nem nyújtott be a Civil
 
 (7) A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.
 
-[^78]: A 12/B. alcímet (14/B. §) a 23/2017. (X. 3.) EMMI rendelet 8. §-a iktatta be.
-[^79]: A 14/B. § (1) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § g) pontja szerint módosított szöveg.
+[^83]: A 12/B. alcímet (14/B. §) a 23/2017. (X. 3.) EMMI rendelet 8. §-a iktatta be.
+[^84]: A 14/B. § (1) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § g) pontja szerint módosított szöveg.
+[^85]: A 14/B. § (3) bekezdése a 11/2020. (VI. 30.) MvM rendelet 7. § d) pontja szerint módosított szöveg.
