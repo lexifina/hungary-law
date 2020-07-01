@@ -1,0 +1,3 @@
+## 3. § A közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról szóló 55/2018. (III. 23.) Korm. rendelet (a továbbiakban: R2.) a következő 2/A. §-sal egészül ki:
+
+## „2/A. § A támogatást – a 2. §-ban foglaltakon túl – az a magyar állampolgár vagy a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a) és c)–h) pontjában meghatározott személy is igénybe veheti, aki a sikeres közlekedési alapismeretek vizsga napján a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti csecsemőgondozási díjban, gyermekgondozási díjban vagy a családok támogatásáról szóló törvény szerinti gyermekgondozást segítő ellátásban részesült, feltéve hogy a 2. § alapján a támogatást még nem vette igénybe.”
