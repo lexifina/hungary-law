@@ -44,7 +44,7 @@ bg) sommás eljárásnak nincs helye,
 
 bh) az ÁRMB ügyintézési határideje 120 nap,
 
-bi) nincs helye függő hatályú döntés meghozatalának,
+bi)
 
 bj) az ÁRMB döntését módosíthatja vagy visszavonhatja akkor is, ha az jóhiszeműen szerzett és gyakorolt jogot sért,
 
