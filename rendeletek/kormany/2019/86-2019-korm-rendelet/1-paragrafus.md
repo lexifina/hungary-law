@@ -34,7 +34,7 @@ feladatok.
 
 (5) E rendelet alkalmazásában, a kormányhivatalok kormánytisztviselőinek és kormányzati ügykezelőinek továbbképzéséhez és előírható képzési és továbbképzési kötelezettségeihez kapcsolódóan
 
-1.[^1] belső továbbképzés: az olyan szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
+1.[^1] belső továbbképzés: a kormányzati igazgatási szerv, felsőoktatási vagy felnőttképzési intézmény által folytatott szakmai továbbképzés, amely a megrendelő kormányzati igazgatási szerv számára speciális intézményi vagy álláshellyel összefüggő feladatokhoz szükséges ismereteket, illetve képességeket közvetít;
 
 2. egyéni továbbképzési terv: a kormányzati szolgálati jogviszonyban álló tárgyévre meghatározott továbbképzési kötelezettségeinek és egyéni fejlesztési igényeinek teljesítését biztosító képzési terv;
 

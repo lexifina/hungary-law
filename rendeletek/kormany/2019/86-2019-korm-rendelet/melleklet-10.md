@@ -1,4 +1,4 @@
-10. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^39]
+10. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^46]
 
 Megállapodás az építésügyi igazgatási feladatok átvételéről
 
@@ -368,4 +368,4 @@ Telekommunikációs eszközök
 
 | Telephely címe | Eszköz fajtája | Eszköz típusa | Eszköz fizikai helye | Eszköz egyedi azonosítója | Darabszám | Egyéb információk |
 
-[^39]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 360/2019. (XII. 30.) Korm. rendelet 199. § (8) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^46]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 360/2019. (XII. 30.) Korm. rendelet 199. § (8) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
