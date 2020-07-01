@@ -28,7 +28,7 @@ i) járadékos időszak: a nyugdíjszolgáltatás megállapításától kezdőd�
 
 j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag kérése alapján a nyugdíjkorhatár elérése után, illetőleg a pénztártag elhalálozása esetén hozzátartozója részére, az egyéni számláján nyilvántartott összeg mint fedezet alapján megállapított, a pénztártag által választott szolgáltatáshoz tartozó szolgáltatási tartalékból folyósított nyugdíjjáradék, a hozzátartozó, illetve kedvezményezett (a továbbiakban: kedvezményezett) járadéka, és az e törvényben szabályozott egy összegben történő pénzbeli kifizetés,
 
-k) társadalombiztosítási jogszabályok: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), valamint a Tbj. 13. §-ában hivatkozott külön jogszabály és nemzetközi egyezmény,
+k) társadalombiztosítási jogszabályok: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), valamint a Tbj. 13. §-ában hivatkozott külön jogszabály és nemzetközi egyezmény,
 
 l)
 
