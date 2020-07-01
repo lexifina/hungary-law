@@ -248,7 +248,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 1.9. a nemzetközi terület vezetője
 
-2.[^45] A rendészeti szakgimnáziumok
+2.[^45] A rendvédelmi technikumok
 
 2.1. az igazgató
 
@@ -309,7 +309,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^42]: Az 1. melléklet B) pont 4. alpontját a 20/2019. (V. 15.) BM rendelet 5. §-a iktatta be.
 [^43]: Az 1. melléklet C) része a 40/2019. (XI. 19.) BM rendelet 3. §-ával megállapított szöveg.
 [^44]: Az 1. melléklet D) rész 1. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^45]: Az 1. melléklet D) rész 2. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^45]: Az 1. melléklet d) pont 2. alpontja a 18/2020. (VI. 30.) BM rendelet 9. §-a szerint módosított szöveg.
 [^46]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
 [^47]: Az 1. melléklet D) rész 3. pont 3.4. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^48]: Az 1. melléklet D) rész 3. pont 3.7. alpontja a 31/2019. (VII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
