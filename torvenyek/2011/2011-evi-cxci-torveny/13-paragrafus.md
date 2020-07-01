@@ -16,7 +16,7 @@ f) az értesítési kötelezettségét neki felróható okból nem teljesíti, v
 
 g) a felülvizsgálat során neki felróható okból nem működik együtt.
 
-(2a) A (2) bekezdés d) pontjának alkalmazása során, a biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § s) pont 2. alpontjában foglaltakat kell érteni.
+(2a) A (2) bekezdés d) pontjának alkalmazása során, a biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § 14. pont 14.2. alpontjában foglaltakat kell érteni.
 
 (3) A rokkantsági ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés c) és e)–g) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával, a (2) bekezdés d) pontja szerinti esetben a megszüntetési ok bekövetkezését követő hónap első napjával kell megszüntetni.
 

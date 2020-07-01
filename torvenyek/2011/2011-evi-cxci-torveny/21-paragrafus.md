@@ -48,7 +48,7 @@ vonatkozó adatokat kezelheti.
 
 (6) Az egészségügyi adatok kezelésére és az adatok védelmére egyebekben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény rendelkezései az irányadók.
 
-(7) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás Tbj. 42. § (1) bekezdésében meghatározott adatait
+(7) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás Tbj. 60. § (1) bekezdésében meghatározott adatait
 
 a) a megváltozott munkaképességű személyek ellátása iránti kérelmet elutasító döntés jogerőre emelkedésétől számított 5 évig,
 

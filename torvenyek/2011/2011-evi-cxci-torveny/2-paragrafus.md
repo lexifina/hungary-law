@@ -10,7 +10,7 @@ ab) 10 éven belül legalább 2555 napon át vagy
 
 ac) 15 éven belül legalább 3650 napon át
 
-a Tbj. 5. §-a szerinti biztosított volt;
+biztosított volt;
 
 b) keresőtevékenységet nem végez és
 
@@ -28,6 +28,6 @@ a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhess
 
 b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és a kivételes rokkantsági ellátás kivételével a megváltozott munkaképességű személyek ellátása folyósításának idejét.
 
-c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték,
+c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték,
 
 d) a gyermekek otthongondozási díja és az ápolási díj folyósításának idejét.

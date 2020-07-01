@@ -10,7 +10,7 @@
 
 a) a 2009. december 31-ét követő időszakra vonatkozóan a biztosításban töltött napok számát,
 
-b) a 2010. december 31-ét követő időszakra vonatkozóan – a havi átlagjövedelem meghatározása érdekében – az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti havi adó- és járulékbevallásban bevallott pénzbeli egészségbiztosítási járulék alapot képező havi jövedelmi adatokat.
+b) a 2010. december 31-ét követő időszakra vonatkozóan – a havi átlagjövedelem meghatározása érdekében – az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti havi adó- és járulékbevallásban bevallott társadalombiztosítási járulék alapot képező havi jövedelmi adatokat.
 
 (4) A rehabilitációs hatóság a biztosításban töltött idő és a havi átlagjövedelem számításához szükséges adatok beszerzése céljából – amennyiben az a tényállás tisztázása érdekében szükséges – a foglalkoztatótól, más adatszolgáltatásra kötelezettől, továbbá az egykorú iratokat őrző más személytől vagy szervezettől adatot kérhet.
 
