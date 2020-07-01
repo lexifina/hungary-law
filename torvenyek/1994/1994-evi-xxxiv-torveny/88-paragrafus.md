@@ -22,7 +22,7 @@ d) az adatkezelő szerv vezetőjének,
 
 e) az adatátvevő szerv vezetőjének a szerv részéről adatátvételt végzők tevékenységének ellenőrzése céljából,
 
-f) bűnüldöző szerveknek a jogosulatlan adatkezelés miatt folytatott büntetőeljárás során a tényállás tisztázása céljából.
+f) büntetőeljárás során a bíróság, az ügyészség, illetve a nyomozó hatóság részére.
 
 (4) Az adattovábbítási nyilvántartásba való betekintést és az abból történő adattovábbítást dokumentálni kell.
 

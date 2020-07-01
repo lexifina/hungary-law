@@ -10,17 +10,17 @@ a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellá
 
 b) elvégzi
 
-ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők,
+ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, továbbá az (1c) bekezdésben meghatározott szervezetnél meghatározott feladatkört ellátó munkavállalók,
 
 bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
 
-bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
+bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, az idegenrendészeti szerv és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
 
 bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, rendvédelmi igazgatási alkalmazottai,
 
 be) a Kormány által a kormányzati igazgatásról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai felsővezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
 
-(a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
+(a ba)–be) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 
 c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
@@ -36,9 +36,23 @@ d) egyedi állami támogatásról való döntésre irányuló eljárás lefolyta
 
 e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
 
-f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben.
+f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben,
+
+g) a jármű műszaki megvizsgálásával, illetve környezetvédelmi felülvizsgálatával összefüggő ügyekben.
 
 (1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
+
+(1c) Megbízhatósági vizsgálat alá vonható – az (1) bekezdés b) pont bc) alpontjában meghatározott szervek munkavállalóin túl –
+
+a) a közbeszerzésekről szóló törvény szerinti
+
+aa) fekvőbeteg-szakellátást nyújtó intézmények, illetve speciális finanszírozású gyógyszerek és orvostechnikai eszközök beszerzései vonatkozásában központi beszerző szervként eljáró, valamint
+
+ab) általános hatáskörrel központi beszerző szervként eljáró
+
+szervezetnek a közbeszerzési eljárás során döntés előkészítésére, döntésre vagy ellenőrzésre jogosult munkavállalója,
+
+b) a közlekedési hatóság által engedélyezett tanúsító szervezettel munkaviszonyban álló műszaki vizsgabiztos.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 

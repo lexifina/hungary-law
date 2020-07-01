@@ -20,7 +20,7 @@
 
 (5e) Az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítmény és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, továbbá a rendőrség kezelésében lévő létesítmények rendjének és jogszerű működésének védelme, illetve az abban tartózkodók biztonsága érdekében a létesítmény folyosóin, a közös használatú – a megfigyelés elől az emberi méltóság védelme érdekében el nem zárt – helyiségeiben, valamint a létesítmények területét határoló külső falakon és kapuknál a rendőrség képfelvevőt helyezhet el és felvételt készíthet.
 
-(5f) A rendőrség az (1)–(2), valamint (5)–(5a) bekezdés alapján készített felvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használhatja fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
+(5f) A rendőrség az (1)–(2), valamint (5)–(5a) bekezdés alapján készített felvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése, illetve az állomány képzése, oktatása érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használhatja fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
 
 (5g) A rendőrség a rendőri intézkedéssel, illetve az ellátott szolgálati feladattal összefüggésben az intézkedéssel, illetve a szolgálati feladat ellátásával érintett személyről a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében – az érintett hozzájárulásával – felvételt készíthet.
 

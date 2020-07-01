@@ -18,7 +18,7 @@ e) tisztjelöltekből
 
 állhat.
 
-(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint vezényelt rendőrökből, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
+(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 
 (5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 

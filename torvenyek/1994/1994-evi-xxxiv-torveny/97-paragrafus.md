@@ -16,7 +16,7 @@ f) automatizált keresés: másik szerv automatizált állományaihoz való köz
 
 g) fedett nyomozó: a rendőrséghez tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott rendőr;
 
-h) fogvatartott: akit törvény, illetőleg törvény alapján kiadott hatósági határozat alapján a szabad mozgáshoz és a tartózkodási hely szabad megválasztásához való jogában korlátoznak (őrizetbe vett, letartóztatott, közbiztonsági őrizetben lévő, elfogott és előállított, elővezetett);
+h) fogvatartott: akit törvény vagy törvény alapján kiadott hatósági határozat alapján a szabad mozgáshoz és a tartózkodási hely szabad megválasztásához való jogában a rendőrség korlátoz;
 
 i) súlyos bűncselekmény: az a bűntett, amelyet a törvény 5 évi, vagy ennél súlyosabb szabadságvesztéssel fenyeget;
 
