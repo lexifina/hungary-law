@@ -1,0 +1,1 @@
+77. § A Módtv.-vel megállapított 34. § (4) bekezdésében foglalt kártalanítási összeg megilleti azt a személyt is, aki a Módtv. hatálybalépését megelőzően bekövetkezett öröklés tekintetében az e törvény szerinti szerzőképesség hiánya miatt az örökségétől elesett, és az örökléssel érintett földrészlet az állam tulajdonába került.

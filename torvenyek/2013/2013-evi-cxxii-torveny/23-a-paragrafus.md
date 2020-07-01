@@ -18,4 +18,4 @@ vonatkozó általános agrárpolitikai és földbirtok-politikai érdekeknek.
 
 (3) Ha a 23. § (4) bekezdésben foglalt esetek valamelyike áll fenn, a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg a helyi földbizottságot.
 
-(4) A helyi földbizottságot a mezőgazdasági igazgatási szerv adás-vételi, valamint csere szerződést jóváhagyó, vagy megtagadó határozatával kapcsolatos e törvény szerinti eljárásában az ügyfél jogállása, a mezőgazdasági igazgatási szerv adás-vételi, valamint csere szerződést jóváhagyó, vagy megtagadó határozatának bírósági felülvizsgálata vonatkozásában pedig keresetindítási jog illeti meg.
+(4) A helyi földbizottsági jogkörben eljárva a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarát a mezőgazdasági igazgatási szerv adás-vételi, valamint csere szerződést jóváhagyó, vagy megtagadó határozatával kapcsolatos e törvény szerinti eljárásában az ügyfél jogállása, a mezőgazdasági igazgatási szerv adás-vételi, valamint csere szerződést jóváhagyó, vagy megtagadó határozatának bírósági felülvizsgálata vonatkozásában pedig keresetindítási jog illeti meg.

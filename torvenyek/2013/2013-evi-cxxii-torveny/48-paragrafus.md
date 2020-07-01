@@ -1,4 +1,4 @@
-48. § (1) E törvény szerinti előhaszonbérleti jog nem áll fenn
+48. § (1) Előhaszonbérleti jog nem áll fenn
 
 a) a közeli hozzátartozók közötti,
 

@@ -6,7 +6,7 @@ a) az állam, illetve az önkormányzat tulajdonában álló föld földhasznál
 
 b) a tulajdonostársak közötti használati megosztáshoz;
 
-c) ha a földműves földhasználó közeli hozzátartozója a használatba adó;
+c) ha a földhasználó közeli hozzátartozója a használatba adó;
 
 d) a föld használati jogosultságának jogszabályban foglalt módon, támogatás feltételeként más földműves vagy mezőgazdasági termelőszervezet részére való átadásával megvalósuló földhasználati szerződéshez;
 

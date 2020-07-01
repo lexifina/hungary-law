@@ -8,6 +8,10 @@ c) a földnek jogszabályban foglalt módon, támogatás feltételeként más f�
 
 d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel,
 
-e) rekreációs célú földszerzés
+e) rekreációs célú földszerzés,
+
+f) az állam szerzése,
+
+g) a részarány-tulajdonost megillető vételi jog gyakorlása útján történő földtulajdonszerzés
 
 esetén.

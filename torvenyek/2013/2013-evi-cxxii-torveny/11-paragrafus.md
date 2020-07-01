@@ -6,6 +6,6 @@ a) a bevett egyház vagy annak belső egyházi jogi személye tartási, életjá
 
 b) jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben foglalt korlátozásokkal és időtartamra,
 
-c) a föld fekvése szerint illetékes települési önkormányzat közfoglalkoztatás és szociális földprogram és településfejlesztés céljára
+c) a föld fekvése szerint illetékes települési önkormányzat közfoglalkoztatás, szociális földprogram és településfejlesztés céljára, továbbá ha a föld helyi jelentőségű védett természeti területnek minősül, a földnek a természet védelméről szóló törvényben meghatározott védelme céljából
 
 szerezheti meg.

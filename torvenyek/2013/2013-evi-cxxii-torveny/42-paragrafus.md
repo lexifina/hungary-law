@@ -1,4 +1,4 @@
-42. § (1) A földhasználati jogosultság megszerzésének feltétele – ide nem értve a 40. § (2)–(5) bekezdésében foglalt eseteket –, hogy a földhasználati jogosultságot szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben (a továbbiakban együtt: földhasználati szerződés), illetve teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozatban vállalja, hogy a földhasználati szerződés fennállása alatt megfelel a 40. § (1)–(4) bekezdésében, valamint a 41. §-ban foglalt feltételeknek, a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének.
+42. § (1) A földhasználati jogosultság megszerzésének feltétele – ide nem értve a 40. § (2)–(5) bekezdésében foglalt eseteket –, hogy a földhasználati jogosultságot szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben (a továbbiakban együtt: földhasználati szerződés) vállalja, hogy a földhasználati szerződés fennállása alatt megfelel a 40. § (1)–(4) bekezdésében, valamint a 41. §-ban foglalt feltételeknek, a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének.
 
 (2) Az (1) bekezdés alkalmazásában nem minősül a használat átengedésének az, ha a földhasználati jogosultságot szerző fél
 
@@ -10,7 +10,7 @@ ab) a legalább 25%-ban a tulajdonában, vagy a közeli hozzátartozójának leg
 
 javára engedi át,
 
-b) társult erdőgazdálkodást folytat, vagy
+b) társult erdőgazdálkodást folytat vagy az erdőnek minősülő földet erdőkezelésbe adja, vagy
 
 c) vetőmagtermeléshez szükséges terület biztosítása céljából engedi át a használatot más személy részére.
 

@@ -8,7 +8,7 @@ b) a szerzés feltételeként az e törvényben előírt meghatározott célú f
 
 c) földműves, illetve mezőgazdasági termelőszervezeti minősége bármely okból megszűnt, vagy
 
-d) az e törvényben meghatározott határidőn belül a hatósági jóváhagyáshoz kötött szerződést nem nyújtotta be a hatósághoz, vagy – adás-vétel, illetve a haszonbérlet esetén az elővásárlási, illetve előhaszonbérleti jog gyakorlása céljából a 21. § (1) bekezdésében vagy a 49. § (1) bekezdésében meghatározottak szerint – a jegyzőhöz,
+d)
 
 felhívja a figyelmét a jogszabálysértésre, és határidő megállapításával a figyelmeztetést tartalmazó döntésben felszólítja a jogszerű állapot helyreállítására.
 

@@ -4,7 +4,7 @@
 
 (2) A földműves, valamint mezőgazdasági termelőszervezet – a (3) bekezdésben meghatározott esetek kivételével – a föld birtokát – a már birtokában lévő föld területnagyságának a beszámításával – legfeljebb 1200 hektár mértékig szerezheti meg (birtokmaximum).
 
-(3) Az állattartó telep üzemeltetője, a szántóföldi és kertészeti növényfajok vetőmagjának előállítója esetében – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározottak szerint – a birtokmaximum mértéke – a (2) bekezdésben meghatározottaktól eltérően – 1800 hektár területnagyság (kedvezményes birtokmaximum).
+(3) Az állattartó telep üzemeltetője, a szántóföldi és kertészeti növényfajok vetőmagjának előállítója esetében – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) meghatározottak szerint – a birtokmaximum mértéke – a (2) bekezdésben meghatározottaktól eltérően – 1800 hektár területnagyság (kedvezményes birtokmaximum).
 
 (4) A részarány-tulajdon megszerzése esetében az (1) bekezdésben foglalt földszerzési maximumot azzal az eltéréssel kell alkalmazni, hogy a szerző fél tulajdonában és haszonélvezetében álló földterület hektárban kifejezett térmértéke mennyiségének hússzorosa, valamint a már tulajdonában álló és megszerzésre kerülő részarány-tulajdon összesített aranykorona értéke mennyiségének együttes összege legfeljebb 6000 lehet.
 
@@ -13,3 +13,5 @@
 (6) A föld kényszerhasznosítójaként kijelölt személy vagy szervezet esetében a (2)–(4) bekezdésben meghatározott birtokmaximum mértékének megállapításánál figyelmen kívül kell hagyni az általa kényszerhasznosítással hasznosított föld területnagyságát.
 
 (7) A 11. §-ban meghatározott jogi személyekre és a 40. § (3) bekezdésében meghatározott intézményre az (1)–(4) bekezdésben megállapított korlátozások nem terjednek ki.
+
+(8) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 1. mellékletében szereplő 100%-os állami tulajdonban álló gazdálkodó szervezetre a (2) és (3) bekezdésben megállapított korlátozások nem terjednek ki.

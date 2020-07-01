@@ -1,4 +1,4 @@
-13. § (1) A tulajdonszerzési jogosultság feltétele – ide nem értve a 10. § (3) bekezdésében, a 11. §-ban, és a 17. §-ban foglalt eseteket –, hogy a szerző fél a tulajdonjog átruházásáról szóló szerződésben, illetve teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozatban vállalja, hogy a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének, továbbá vállalja, hogy a földet a tulajdonszerzés időpontjától számított 5 évig – a (3) bekezdésben meghatározott esetek kivételével – más célra nem hasznosítja.
+13. § (1) A tulajdonszerzési jogosultság feltétele – ide nem értve a 10. § (3) bekezdésében, a 11. §-ban, és a 17. §-ban foglalt eseteket –, hogy a szerző fél a tulajdonjog átruházásáról szóló szerződésben vállalja, hogy a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének, továbbá vállalja, hogy a földet a tulajdonszerzés időpontjától számított 5 évig – a (3) bekezdésben meghatározott esetek kivételével – más célra nem hasznosítja.
 
 (2) Az (1) bekezdés alkalmazásában nem minősül a használat átengedésének az, ha a tulajdonjogot szerző fél
 
@@ -10,7 +10,7 @@ ab) a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legal
 
 javára engedi át;
 
-b) társult erdőgazdálkodást folytat, vagy
+b) társult erdőgazdálkodást folytat vagy az erdőnek minősülő földet erdőkezelésbe adja, vagy
 
 c) vetőmagtermeléshez szükséges terület biztosítása céljából engedi át a használatot más személy részére.
 
@@ -30,7 +30,9 @@ f) mezőgazdasági termeléshez, erdőgazdálkodáshoz szükséges gazdasági é
 
 g) lakóépület létesítése;
 
-h) a föld megközelítését, illetve a föld használatát biztosító út kialakítása.
+h) a föld megközelítését, illetve a föld használatát biztosító út kialakítása;
+
+i) állandó jellegű növényház létesítése.
 
 (4) Ha a tulajdonjog átruházásáról szóló szerződés tárgyát képező föld harmadik személy használatában van, a szerző félnek kötelezettséget kell vállalnia, hogy a fennálló földhasználati jogviszony
 

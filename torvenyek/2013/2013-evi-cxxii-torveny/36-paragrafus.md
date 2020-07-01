@@ -14,7 +14,7 @@ e) a tulajdonostársak közötti tulajdonjog átruházáshoz, ha ezzel a közös
 
 f) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vételhez;
 
-g) a telekalakítási engedélyezési eljárás keretében történő tulajdonszerzéshez;
+g) a telekalakítás keretében történő tulajdonszerzéshez, ha egy vagy több, önálló helyrajzi számú földet érintő telekalakítás következtében a tulajdonosok tulajdoni hányadát képező földterület nagysága az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot nem haladja meg;
 
 h) a 11. § (2) bekezdésében meghatározott tulajdonszerzéshez.
 

@@ -12,6 +12,8 @@
 
 5. családi gazdálkodó: a családi gazdaságot vezető természetes személy;
 
+5a. erdőnek minősülő föld: a fekvésétől (belterület, külterület) függetlenül valamennyi olyan földrészlet, amely az ingatlan-nyilvántartásban erdő és fásított terület művelési ágban van nyilvántartva, továbbá az olyan művelés alól kivett területként nyilvántartott földrészlet, amelyre az ingatlan-nyilvántartásban Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg van feljegyezve, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény szerinti erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület;
+
 6. fiatal földműves: az a földműves, aki az elővásárlási, illetve előhaszonbérleti jog gyakorlása időpontjában elmúlt 16 éves, de a 40. életévét még nem töltötte be;
 
 7. földműves: Magyarországon nyilvántartásba vett belföldi természetes személy, illetve tagállami állampolgár, aki e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik vagy ennek hiányában igazoltan legalább 3 éve
@@ -20,11 +22,15 @@ a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenysége
 
 b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, aki mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi;
 
-8. gazdálkodó család tagjai: a családi gazdálkodó, továbbá annak olyan házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére, ahol a gyermeken az örökbe fogadott és a nevelt gyermeket is érteni kell;
+8. gazdálkodó család tagjai: a családi gazdálkodó, továbbá annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére; a gyermeken az örökbe fogadott és a nevelt gyermeket is érteni kell;
 
 9. helyben lakó: az a természetes személy, akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekszik;
 
-10. helyben lakó szomszéd: az a helyben lakó, vagy az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekvése szerinti településsel szomszédos település vonatkozásában helyben lakó, akinek a tulajdonában vagy használatában lévő föld szomszédos az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező földdel;
+10. helyben lakó szomszéd:
+
+a) aki helyben lakó és a tulajdonában vagy használatában lévő föld szomszédos az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező földdel, vagy
+
+b) akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, mely szomszédos az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező föld fekvése szerinti településsel, és a tulajdonában vagy használatában lévő, a lakóhelye szerinti településen fekvő földje szomszédos az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező földdel;
 
 11. helybeli illetőségű: az a jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási területén a haszonbérleti szerződés tárgyát képező föld fekszik;
 
@@ -52,7 +58,9 @@ ab) éves értékesítése nettó árbevételének több mint a fele a mező-, e
 
 ac) legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve a kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja, és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, vagy
 
-b) amely újonnan alapított mezőgazdasági termelőszervezetnek minősül;
+b) amely újonnan alapított mezőgazdasági termelőszervezetnek minősül,
+
+c) amely nemzeti park igazgatóságnak minősül;
 
 20. mezőgazdasági üzem: az azonos céllal működtetett mezőgazdasági termelési tényezők (föld, mezőgazdasági felszerelés, egyéb vagyonelemek) szervezeti alapegysége, amely a gazdasági összetartozás révén gazdálkodási alapegység is;
 
@@ -75,6 +83,8 @@ d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő 
 24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;
 
 25. tanya: a település külterületén fekvő, legfeljebb 1 hektár nagyságú olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás céljára létesített lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként szerepel;
+
+25a. társult erdőgazdálkodás: a föld használati jogosultságának erdőbirtokossági társulat részére történő átengedése;
 
 26. újonnan alapított mezőgazdasági termelőszervezet: Magyarországon nyilvántartásba vett tagállami székhelyű jogi személy, illetve jogi személyiséggel nem rendelkező szervezet
 

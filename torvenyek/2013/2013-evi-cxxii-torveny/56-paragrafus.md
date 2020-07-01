@@ -6,4 +6,4 @@
 
 (3) A földhasználati szerződés jóváhagyása, illetve megtagadása során figyelmen kívül kell hagyni az előhaszonbérleti jogról, az előhaszonbérletre jogosultakról, az előhaszonbérletre jogosult elfogadó jognyilatkozatáról, a jegyzékről, a tulajdonos választási jogáról, és az ezzel összefüggő, a mezőgazdasági igazgatási szerv általi kijelöléséről szóló rendelkezéseket.
 
-(4) Több föld használatának valamely földhasználati jogcímen történő átengedéséről szóló szerződést akkor lehet jóváhagyni, ha azok egymással szomszédosak, vagy egy mezőgazdasági üzemközponthoz tartoznak.
+(4) Több föld használatának valamely földhasználati jogcímen történő átengedéséről szóló szerződést akkor lehet jóváhagyni, ha azok egymással szomszédosak, vagy a földhasználati nyilvántartásba bejegyzett földhasználója ugyanaz a személy.

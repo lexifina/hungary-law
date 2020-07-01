@@ -1,0 +1,1 @@
+42/A. § A szerző fél tekintetében a 42. §-ban jogosultsági feltételként előírt kötelezettségvállalásokat és nyilatkozatokat a földhasználati jogosultság átengedéséről szóló szerződésnek kell tartalmaznia.
