@@ -28,8 +28,12 @@ e) a munkaügyi hatóságtól;
 
 f) az állami foglalkoztatási szervtől;
 
-g) az e törvényben meghatározott véleményezési eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
+g) az e törvényben meghatározott véleményezési eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől;
+
+h) az állampolgársági ügyekben eljáró szervtől.
 
 (2) Az (1) bekezdés d) pontjában meghatározott nyilvántartásból az eljáró idegenrendészeti hatóság csak akkor igényelhet adatot, ha az EGT-állampolgárt vagy a családtagot Magyarország más elbánásban részesíti, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 
 (3) Az eljáró idegenrendészeti hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések modul hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
+(3a) Az idegenrendészeti hatóság e törvény szerinti eljárása során átveheti és kezelheti a közérdekből nyilvános, e törvény alapján kezelhető adatok körébe tartozó személyes adatokat, ideértve a nyilvános külföldi adatforrásból származó adatot is.
