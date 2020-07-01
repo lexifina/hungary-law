@@ -2,7 +2,7 @@
 
 9. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény
 
-a)
+a) 10. § (1) bekezdésében a „98 100 forint” szövegrész helyébe a „102 ezer forint” szöveg, a „164 000 forint” szövegrész helyébe a „170 ezer forint” szöveg,
 
 b)
 
