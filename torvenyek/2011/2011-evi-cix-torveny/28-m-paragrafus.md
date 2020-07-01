@@ -14,4 +14,4 @@ db) a művészjáradék megállapítását megalapozó elismerésről történő
 
 dc) büntetőjogi felelőssége tudatában kijelenti, hogy a kérelemben foglaltak a valóságnak megfelelnek.
 
-(2) A Titkárság a művészjáradék megállapítása iránti eljárásban hozott függő hatályú döntésében nem rendelkezik arról, hogy a művészjáradék a kérelmezőt megilleti.
+(2)
