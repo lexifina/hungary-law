@@ -1,6 +1,6 @@
 3. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegének meghatározása során – az (5) bekezdésben nem említett esetben – a nyugdíjbiztosítási átutalásra jogosító jogviszony létrejöttének napját megelőző napig terjedő időre meg kell állapítani a figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet. Ennek során a társadalombiztosítási nyugellátásra irányadó szabályokat kell megfelelően alkalmazni azzal, hogy
 
-a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után nyugdíjjárulék-fizetési kötelezettség nem állt fenn, és
+a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után a 2020. július 1-jét megelőző időszakra nyugdíjjárulék, a 2020. július 1-jétől kezdődő időszakra társadalombiztosítási járulék vagy nyugdíjjárulék (a továbbiakban együtt: nyugdíjjárulék) fizetésének kötelezettsége nem állt fenn, és
 
 b) a figyelembevételre kerülő szolgálati idő teljes tartamára a járulékfizetés alapjául szolgáló keresetet, jövedelmet kell figyelembe venni, a 2013. január 1-jét megelőző időszakra legfeljebb a járulékfizetési felső határnak megfelelő összegig.
 
