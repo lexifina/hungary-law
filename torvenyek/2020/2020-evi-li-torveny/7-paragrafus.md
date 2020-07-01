@@ -20,4 +20,4 @@ i) 103. § (1) bekezdésében az „illetőleg” szövegrész helyébe a „vag
 
 lép.
 
-(2) Hatályát veszti a Kvt. 48. § (4) bekezdés b) pontja.
+(2)
