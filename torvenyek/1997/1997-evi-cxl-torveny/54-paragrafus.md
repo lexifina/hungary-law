@@ -22,7 +22,7 @@ j) elnevezésében megjelenik a könyvtár kifejezés.
 
 (1a) Azok a fegyveres és rendvédelmi testületek által fenntartott könyvtárak, amelyek vállalják a nyilvános könyvtárak 55. § (1) bekezdés szerinti alapfeladatainak ellátását, a hozzáférést távhasználat útján is biztosíthatják.
 
-(2) A nyilvános könyvtárakról a miniszter jegyzéket vezet.
+(2) A nyilvános könyvtárakról a miniszter jegyzéket vezet, az alapkövetelmények és alapfeladatok teljesítését a könyvtári intézet bevonásával értékeli.
 
 (3) Nyilvános könyvtár
 

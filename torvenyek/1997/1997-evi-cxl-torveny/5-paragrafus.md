@@ -6,12 +6,14 @@ a) a muzeális intézményekre, fenntartóikra és foglalkoztatottaikra, a kultu
 
 b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a kiadványok kötelespéldányainak szolgáltatóira,
 
-c) a közművelődési tevékenység megvalósulásában résztvevőkre, a közösségi színterek, közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
+c) a közművelődési feladatot ellátókra, a közösségi színterek és a közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
 
 (2) A könyvtári dokumentumok védelmére és nyilvántartására vonatkozó szabályok tekintetében e törvény hatálya kiterjed a nem nyilvános könyvtárakra is.
 
 (3) A könyvtári tevékenységről és a könyvtári alkalmazottakról szóló szabályok vonatkoznak a nem nyilvános könyvtárakra is.
 
-(4) A 3/A. §-ban, a 92–96. és 99. §-ban foglaltak kivételével e törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) hatálya alá tartozó iratokra, szervekre és személyekre.
+(4) A 3/A. §-ban, a 92–96. §-ban, a 99. §-ban és a 100. §-ban foglaltak kivételével e törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) hatálya alá tartozó iratokra, szervekre és személyekre.
 
-(5)–(6)
+(5)
+
+(6)

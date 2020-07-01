@@ -2,6 +2,6 @@
 
 (2) A kulturális központ vezetője szakirányú mesterfokozatú szakképzettséggel rendelkezik.
 
-(2a) A kulturális központban közművelődési szakmai munkakörben foglalkoztatottak legalább 30%-ának szakirányú mesterfokozatú szakképzettséggel kell rendelkeznie.
+(2a)
 
 (3) A kulturális központ elnevezésében szerepelnie kell a „kulturális központ” vagy az „agóra” kifejezés valamelyikének.

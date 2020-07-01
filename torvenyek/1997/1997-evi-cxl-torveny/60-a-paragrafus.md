@@ -8,4 +8,6 @@
 
 (4) A könyvtár gondoskodik a könyvtári dokumentumok feltárásáról, rendelkezésre bocsátásáról és az archiválásra vonatkozó szabályok figyelembevételével történő megőrzéséről.
 
+(4a) A könyvtári dokumentum feltárása és rendelkezésre bocsátása során a könyvtár tájékoztatást ad a könyvtári dokumentum szerzőjének munkásságáról, a szerző születési és halálozási adatairól, alkotói névként használt álnevéről, a működési területéről. A könyvtár a tájékoztatáshoz szükséges adatokat a könyvtári dokumentumból, a szerzőktől vagy a nyilvánosságra hozott egyéb forrásokból szerzi be.
+
 (5) A könyvtári állomány ellenőrzésének szabályait a miniszter rendeletben határozza meg.

@@ -22,4 +22,6 @@ i) a Központi Statisztikai Hivatal Könyvtár,
 
 j) Magyar Nemzeti Filmarchívum Könyvtára,
 
-k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár.
+k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár,
+
+l) az Országos Széchényi Könyvtár Könyvtári Intézet Könyvtártudományi Szakkönyvtára.

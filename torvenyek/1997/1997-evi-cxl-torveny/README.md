@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2019-07-16 | 2019. évi LXIV. törvény | 1997-140-00-00.53 |
 | 2019-12-18 | 2019. évi CX. törvény | 1997-140-00-00.54 |
 | 2020-01-01 | 2019. évi CXII. törvény | 1997-140-00-00.55 |
+| 2020-07-01 | 2020. évi XXXII. törvény | 1997-140-00-00.56 |

@@ -36,6 +36,8 @@ l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejleszt�
 
 m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint,
 
-n) részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében.
+n) részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében,
+
+o) a könyvtári intézet szakmailag önálló szervezeti egységként való működtetése.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.

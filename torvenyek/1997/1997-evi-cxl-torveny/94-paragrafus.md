@@ -1,12 +1,14 @@
-94. § (1) Az állami és önkormányzati fenntartású muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban és közművelődési intézményekben alkalmazottként csak olyan személy foglalkoztatható, aki
+94. § (1) Az állami és önkormányzati fenntartású muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban, továbbá a közművelődési intézményben és a közösségi színtérben foglalkoztatott az lehet, aki
 
-a) büntetlen előéletű, és nem áll muzeális intézményben, nyilvános könyvtárban, közlevéltárban és közművelődési intézményben végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+a) cselekvőképes,
 
-b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és szakképesítéssel rendelkezik.
+b) büntetlen előéletű és nem áll a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és
 
-(2) A Kormány rendeletben meghatározhatja azon intézmények körét, amelyeknél – az ellátott közfeladat jellegéből adódóan – közszolgáltatás ellátására irányuló foglalkoztatási jogviszonyként munkaviszony létesíthető.
+c) megfelel a miniszter rendeletében előírt képesítési és egyéb feltételeknek.
 
-(3)
+(2) Azt a tényt, hogy a foglalkoztatott vagy foglalkoztatni kívánt személy az (1) bekezdés b) pontjában meghatározott feltételnek megfelel, a tevékenység megkezdését megelőzően, illetve a tevékenységének gyakorlása alatt hatósági bizonyítvánnyal igazolja.
+
+(3) Az (1) bekezdés szerinti intézmény vezetői feladatainak ellátására a munkáltatói jogkör gyakorlója pályázatot ír ki. A pályázat kiírásának, benyújtásának és értékelésének rendjét a miniszter rendeletben határozza meg.
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 

@@ -2,4 +2,4 @@
 
 (2) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet vezetője szakirányú mesterfokozatú szakképzettséggel rendelkezik.
 
-(3) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezetben közművelődési szakmai munkakörben foglalkoztatottak legalább 50%-ának szakirányú mesterfokozatú szakképzettséggel kell rendelkeznie.
+(3)

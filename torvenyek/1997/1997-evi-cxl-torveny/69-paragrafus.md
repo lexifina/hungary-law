@@ -16,6 +16,8 @@ b) kidolgozza az országos könyvtári informatikai hálózat és a nyilvános k
 
 c) ösztönzi a könyvtári szolgáltatások összehangolását,
 
-d) véleményezési jogot gyakorol a települési és megyei hatókörű városi könyvtár átszervezése vagy megszüntetése esetén,
+d)
 
-e) a szakfelügyelet keretében könyvtári szakértő bevonásával ellenőrzi e törvény, a könyvtári tevékenységre vonatkozó jogszabályok, a szakmai követelmények és normatívák betartását és a központi támogatások felhasználását.
+e) a szakfelügyelet keretében könyvtári szakértő bevonásával ellenőrzi e törvény, a könyvtári tevékenységre vonatkozó jogszabályok, a szakmai követelmények és normatívák betartását és a központi támogatások felhasználását,
+
+f) szabályozza és szervezi a 64. § (8) bekezdése szerinti feladatok ellátását.

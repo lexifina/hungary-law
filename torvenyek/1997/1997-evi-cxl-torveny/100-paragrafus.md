@@ -30,9 +30,7 @@ m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őr
 
 n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
 
-n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
-
-o) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) adattartalmát és a kérelemhez csatolandó mellékletek körét, a kérelem elbírálásának rendjét, a működési engedély tartalmát, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
+o) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) adattartalmát és a kérelemhez csatolandó mellékletek körét, a kérelem elbírálásának rendjét, a működési engedély tartalmát, a működési engedély visszavonása esetén követendő eljárást,
 
 p) a tanfolyam jellegű szakmai továbbképzések nyilvántartásba vételének feltételeit és eljárási szabályait,
 
@@ -44,7 +42,7 @@ s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állam
 
 t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat,
 
-u) azon intézmények körét, amelyeknél közszolgáltatás ellátására irányuló foglalkoztatási jogviszonyként munkaviszony létesíthető.
+u) a közgyűjtemények és a közművelődési intézmények névviselésének és névhasználatának szabályait.
 
 (2)
 
@@ -56,7 +54,7 @@ b) a múzeum, valamint az országos szakkönyvtár és a megyei hatókörű vár
 
 c) a közművelődési alapszolgáltatások körében ellátható egyes szakmai feladatokat, a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
 
-d)
+d) a 64. § (8) bekezdése szerinti megyei hatókörű városi könyvtárak körét, regionális illetékességi területüket, valamint regionális feladatellátásuk részletes szabályait,
 
 e) a kulturális alapellátás kiterjesztésének prioritási rendjét és szempontrendszerét,
 
@@ -86,7 +84,7 @@ q)
 
 r)
 
-s) a muzeális intézményben, a könyvtárban, valamint a közművelődési intézményben nem közalkalmazotti jogviszonyban foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket,
+s) a közművelődési intézmény és az állami vagy önkormányzati fenntartású muzeális intézmény, nyilvános könyvtár, közlevéltár vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, valamint a pályázatok elbírálásának rendjét, továbbá a közművelődési intézményben, a közösségi színtérben és az állami vagy önkormányzati fenntartású muzeális intézményben, nyilvános könyvtárban, közlevéltárban foglalkoztatottak munkaköreit, valamint a munkakörök és a vezető beosztás betöltéséhez szükséges képesítési és egyéb feltételeket,
 
 t) az integrált kulturális intézmény működését,
 

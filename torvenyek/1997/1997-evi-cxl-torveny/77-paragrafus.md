@@ -16,7 +16,7 @@ e) alaptevékenysége körében nem gazdasági haszonszerzés céljából jön l
 
 f) részt vesz a kulturális alapellátás kiterjesztésében.
 
-(4) Az állam, a települési önkormányzat, a nemzetiségi önkormányzat vagy az önkormányzati társulás által fenntartott közművelődési intézmény költségvetési szervként működik.
+(4) Az állam, a települési önkormányzat, a nemzetiségi önkormányzat vagy az önkormányzati társulás által fenntartott közművelődési intézmény az állam vagy az önkormányzat 100%-os tulajdonában álló nonprofit gazdasági társaságként vagy költségvetési szervként működik.
 
 (5) A közművelődési intézmény típusa – jogszabályban meghatározott szakmai, személyi és infrastrukturális feltételek megléte esetén – lehet:
 

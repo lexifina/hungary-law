@@ -14,7 +14,11 @@ f) a miniszter által meghatározott egyéb feladatok,
 
 g) a szakfelügyelet működtetése,
 
-h) a könyvtári informatikai hálózat fenntartása és fejlesztése, valamint a dokumentumok elektronikus tartalmi feltárása és digitalizálása.
+h) a könyvtári informatikai hálózat fenntartása és fejlesztése, valamint a dokumentumok elektronikus tartalmi feltárása és digitalizálása,
+
+i) a könyvtári minőségirányítási rendszer szervezését,
+
+j) a könyvtári intézet könyvtári szakemberek iskolarendszeren kívüli képzésével és továbbképzésével összefüggő feladatainak ellátását.
 
 (2) Az (1) bekezdés a)–b) pontjaiban felsorolt feladatokra csak a nyilvános könyvtárak jegyzékében szereplő könyvtárak adhatják be pályázatukat.
 

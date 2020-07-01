@@ -12,10 +12,12 @@ b) a megyei hatókörű városi könyvtári és a fővárosi könyvtári feladat
 
 c) a települési önkormányzatok által kötelező feladatként biztosított nyilvános könyvtári ellátás biztosításához a helyi önkormányzatok költségvetési fejezetében,
 
-d) a kistelepülések által igénybe vehető megyei hatókörű városi könyvtári feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
+d) a kistelepülések által igénybe vehető megyei hatókörű városi könyvtári feladatok, valamint a 64. § (8) bekezdése szerinti feladatok támogatásához a helyi önkormányzatok költségvetési fejezetében,
 
 e) a települési önkormányzatok által működtetett könyvtárak állománygyarapítási kereteinek érdekeltségnövelő támogatásához a helyi önkormányzatok költségvetési fejezetében.
 
 (3) A helyi önkormányzatok számára a települési és megyei hatókörű városi (fővárosi) könyvtárak állománygyarapítási keretei érdekeltségnövelő támogatása elosztásának szabályait a miniszter rendeletben határozza meg.
 
 (4) Az érdekeltségnövelő támogatásra a nyilvános könyvtárak jegyzékében szereplő könyvtárak fenntartói adhatják be pályázataikat.
+
+(5) A 70. § (2) bekezdés a)–d) pontjában meghatározott támogatásnak az ellátott feladathoz és az ellátottak számához kell igazodnia.
