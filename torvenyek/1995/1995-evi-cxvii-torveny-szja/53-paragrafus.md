@@ -22,7 +22,7 @@ c) a c) pontban meghatározott helyett 83,
 
 d) a d) pontban meghatározott helyett 91,
 
-akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint kiegészítő tevékenységet folytatónak minősül.
+akkor, ha az egyéni vállalkozó a Tbj. szerint kiegészítő tevékenységet folytatónak minősül.
 
 (3) Az (1) bekezdés b) pontjában említett tevékenységek a következők:
 

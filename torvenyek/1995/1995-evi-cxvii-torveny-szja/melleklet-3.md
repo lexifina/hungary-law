@@ -32,9 +32,9 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 7. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 
-8. a mezőgazdasági őstermelő által a bevétel, illetve az ehhez szükséges feltételek biztosítása érdekében kifizetett vagyon-, felelősség-, kockázati biztosítás díja;
+8. a Tbj. rendelkezései szerint nem megállapodás alapján fizetett járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
 
-9. a mezőgazdasági őstermelő által a tevékenységével kapcsolatban felvett pénzintézeti hitelre (kölcsönre) kifizetett kamat;
+9. a Tbj., a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján fizetett járulék, illetve tagdíj;
 
 10. a központi költségvetésbe, a helyi önkormányzatoknak fizetett, kizárólag az adott önálló tevékenységhez kapcsolódó adó (ide nem értve a személyi jövedelemadót), illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék;
 

@@ -18,7 +18,7 @@ g) a magánszemélynek adott olyan összeget (utalvány értékét) – ideértv
 
 h) a hatóság által jogszabály alapján elengedett köztartozást;
 
-i) azt az összeget, amelyet a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint
+i) azt az összeget, amelyet a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló Tbj. szerint
 
 ia) nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából megállapodás alapján, és/vagy
 
@@ -80,7 +80,7 @@ x) azt az összeget, amelyet a belföldi jogszabályok szerint bejegyzésre nem 
 
 y) a közérdekű önkéntes tevékenységről szóló törvény alapján az önkéntesnek nyújtott, ellenszolgáltatásnak nem minősülő juttatást;
 
-z) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény (a továbbiakban: Tbj.) 5. §-ának (1)–(2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonyra tekintettel a magánszemélynek a Tbj. szerint nem a foglalkoztatójától származó vagyoni értékkel összefüggésben – a foglalkoztató és a magánszemély egybehangzó nyilatkozata alapján – a foglalkoztató által átvállalt (ide értve az utólagos megtérítést is) szociális hozzájárulási adó összegét, amennyiben a magánszemély nyilatkozik arról, hogy a kötelezettség teljesítéséhez szükséges valamennyi adatot a foglalkoztató rendelkezésére bocsátja.
+z) a Tbj. szerinti biztosítási kötelezettséggel járó jogviszonyra tekintettel a magánszemélynek a Tbj. szerint nem a foglalkoztatójától származó vagyoni értékkel összefüggésben – a foglalkoztató és a magánszemély egybehangzó nyilatkozata alapján – a foglalkoztató által átvállalt (ide értve az utólagos megtérítést is) szociális hozzájárulási adó összegét, amennyiben a magánszemély nyilatkozik arról, hogy a kötelezettség teljesítéséhez szükséges valamennyi adatot a foglalkoztató rendelkezésére bocsátja.
 
 (1a) A 3. § 89. pontjától eltérően nem szerez bevételt a díjfizetés időpontjában a biztosított magánszemély, ha a biztosító teljesítésére korlátozások nélkül a díjat fizető más személy jogosult. Ha a kockázati biztosítás kedvezményezettje nem a díjat fizető más személy, akkor a megtakarítási díjrész erejéig nem szerez bevételt a magánszemély, feltéve, hogy a megtakarítási díj alapján járó biztosítói teljesítésre korlátozások nélkül a díjat fizető más személy jogosult.
 

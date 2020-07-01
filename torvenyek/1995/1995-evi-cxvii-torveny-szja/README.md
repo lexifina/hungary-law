@@ -99,3 +99,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2019-09-01 | 2019. évi LXVIII. törvény | 1995-117-00-00.168 |
 | 2019-12-13 | 2019. évi C. törvény | 1995-117-00-00.169 |
 | 2020-01-01 | 2019. évi CXII. törvény | 1995-117-00-00.170 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 1995-117-00-00.171 |
