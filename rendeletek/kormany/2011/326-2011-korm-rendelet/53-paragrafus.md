@@ -14,7 +14,7 @@ c) egyedileg előállított, vagy
 
 d) különleges
 
-## lehet.
+lehet.
 
 (4) A járműre sorozatban előállított rendszámtáblát kell kiadni, ha a jármű eltérő üzemeltetése vagy e rendeletben meghatározott egyéb körülmény más rendszámtábla kiadását nem teszi szükségessé.
 

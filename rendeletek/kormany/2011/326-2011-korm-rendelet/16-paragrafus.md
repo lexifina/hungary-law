@@ -24,6 +24,8 @@ c) egészségi alkalmasság vagy
 
 d) a pályaalkalmasság igazolásához
 
+kötötte, a közlekedésbiztonsági alkalmatlanság mindaddig fennáll, amíg a járművezető ezen kötelezettségének vagy az utánképzésre vonatkozó kötelezettségének eleget nem tett.
+
 [^59]: A 16. § (1) bekezdés a) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
 [^60]: A 16. § (1) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
 [^61]: A 16. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -10,7 +10,7 @@ b)[^267] forgalomba nem helyezett jármű esetében – a jármű forgalomba hel
 
 c) a forgalmi engedéllyel rendelkező jármű esetében – szabad érvényesítési hely hiányában – időszakos vizsgálat alapján a közlekedési hatóság által kiadott Műszaki vizsgálati bizonyítvány – a Műszaki vizsgálati bizonyítványban „Következő időszakos vizsgálat időpontja”-ként meghatározva –
 
-## igazolja.
+igazolja.
 
 (2) Az időszakos vagy forgalomba helyezés előtti vizsgálat azonosítóját és a műszaki érvényességi időt a jármű forgalmi engedélyébe
 
@@ -18,7 +18,7 @@ a) az időszakos vizsgálata során a közlekedési hatóság,
 
 b) egyéb esetekben a közlekedési igazgatási hatóság a Műszaki vizsgálati bizonyítványban vagy a nyilvántartásban szereplő adatok alapján
 
-## jegyzi be.
+jegyzi be.
 
 (3) A (2) bekezdés a) és b) pontja szerinti bejegyzést le kell bélyegezni.
 

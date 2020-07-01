@@ -16,7 +16,7 @@ e) az önjáró munkagépre és arra a járműre, amely forgalmi engedéllyel, v
 
 f) a 44. §-ban felsorolt járművek tulajdonosa (üzemben tartója) részére M betűjelű
 
-## ideiglenes rendszámtábla használatát engedélyezi és az ideiglenes rendszámtáblát kiadja.
+ideiglenes rendszámtábla használatát engedélyezi és az ideiglenes rendszámtáblát kiadja.
 
 (2a)[^230] A külföldi fegyveres erő állományának tagja és hozzátartozója számára a Küfetv. 13. §-a alapján regisztrációs adó fizetési kötelezettség alól mentes, harmadik országból származó gépjárműre a (2) bekezdéstől eltérően állandó rendszámtáblát kell kiadni.
 

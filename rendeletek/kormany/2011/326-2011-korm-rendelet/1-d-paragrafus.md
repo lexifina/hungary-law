@@ -1,5 +1,3 @@
-## kapcsolatos feladatokat.
-
 1/D. §[^17] (1) A hivatalból induló közlekedési igazgatási eljárásokban, valamint azokban az esetekben, ahol e rendelet az alakszerű döntés meghozatalát kifejezetten előírja, a döntés szóbeli közlésének nincs helye.
 
 (2) Ha jogszabály az e rendelet hatálya alá tartozó eljárások tekintetében eltérően nem rendelkezik, az ügyintézési határidő 25 nap.

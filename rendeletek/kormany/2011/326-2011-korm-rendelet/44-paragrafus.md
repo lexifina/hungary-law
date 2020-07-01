@@ -12,7 +12,7 @@ d) a speciális magajáró eszközhordozó alvázak,
 
 e) a mezőgazdasági tevékenységre alkalmazandó magajáró rakodógép,
 
-## amely tervezési sebessége szerint 25 km/óránál gyorsabb sebességgel haladni nem képes, vagy amelynek megengedett legnagyobb sebességét a típusbizonyítvány, vagy a közlekedési hatóság 25 km/óra értékben határozta meg.
+amely tervezési sebessége szerint 25 km/óránál gyorsabb sebességgel haladni nem képes, vagy amelynek megengedett legnagyobb sebességét a típusbizonyítvány, vagy a közlekedési hatóság 25 km/óra értékben határozta meg.
 
 (3) A mezőgazdasági vontatmánnyal a közúti forgalomban hatósági engedély és jelzés, vagy ideiglenes forgalomban tartási engedély nélkül lehet részt venni.
 
