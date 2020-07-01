@@ -72,4 +72,6 @@
 
 ## 3. Lejárt vízjogi engedély megléte és adatai (megnevezésük, hatósági határozat száma, hatósági határozat kelte)
 
-4. melléklet a 302/2020. (VI. 29.) Korm. rendelethez
+4. melléklet a 302/2020. (VI. 29.) Korm. rendelethez[^4]
+
+[^4]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
