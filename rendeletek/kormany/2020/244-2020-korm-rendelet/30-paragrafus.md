@@ -1,0 +1,15 @@
+## 16. Egyenruha
+
+30. § (1) A kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet, valamint a minisztérium vagy az erdészeti hatóság szervezetében erdészeti hatósági vagy erdészeti igazgatási feladatkört ellátó kormánytisztviselője eltérő kiegészítő jelzések alkalmazása mellett azonos formájú egyenruha viselésére jogosult. Az egyenruha és kiegészítő jelzéseinek felsorolását a 3. melléklet tartalmazza. Az egyenruha viseletelemeinek részletes leírásáról, műszaki tartalmáról a miniszter közleményt ad ki, melyet a minisztérium hivatalos értesítőjében, valamint honlapján tesz közzé.
+
+(2) A rendszeresítettől eltérő ruházati viseletelemek – szolgálati jelvény, illetve névkitűző kivételével – egyenruhaként, illetve egyenruhával együtt nem viselhetők. Az egyenruha kiegészítő jelzései más öltözéken nem viselhetők, az egyenruha vagy egyes elemeinek, kiegészítő jelzéseinek bármilyen megváltoztatása vagy átalakítása tilos.
+
+(3) A terepi, irodai és az ünnepi ruházati viseletelemek vegyesen nem viselhetők.
+
+(4) Az egyenruha, illetve a szolgálati jelvény viselése az erdészeti hatóság és az NFK kormánytisztviselői ellenőrzési feladatainak ellátása során kötelező.
+
+(5) A ruházati alapellátás feltételeit, alapellátási és utánpótlási normáit, az azokkal történő elszámolás feltételeit, az erdészeti hatóság, az NFK, illetve a minisztérium kormánytisztviselői esetében a közszolgálati szabályzatban kell meghatározni.
+
+(6) Az egyenruha szabályszerű viselését a szakszemélyzet esetében a munkahelyi vezető és az erdészeti hatóság, az erdészeti hatóság és az NFK kormánytisztviselői esetében a közvetlen munkahelyi vezető, továbbá a minisztérium, a minisztérium kormánytisztviselői esetében pedig a közvetlen munkahelyi vezető ellenőrzi.
+
+(7) A rendészeti feladatokat ellátó erdészeti szakszemélyzet egyenruha viseletére, valamint egyenruhával való ellátására a Rendészeti törvény rendelkezései az irányadóak.
