@@ -20,7 +20,7 @@ c) teljes eljárásban hatvan nap.
 
 a) az eljárás felfüggesztésének, szünetelésének és
 
-b) – ha függő hatályú döntés meghozatalának nincs helye – az ügyfél mulasztásának vagy késedelmének
+b) az ügyfél mulasztásának vagy késedelmének
 
 időtartama.
 

@@ -14,7 +14,7 @@ a) automatikus döntéshozatali eljárásban intézhető ügyben törvény vagy 
 
 b) sommás eljárásban intézhető ügyben törvény vagy kormányrendelet így rendelkezik,
 
-c) teljes eljárásban törvény vagy kormányrendelet így rendelkezik, továbbá nincs helye függő hatályú döntés meghozatalának, és az ügyben nincs ellenérdekű ügyfél.
+c) teljes eljárásban törvény vagy kormányrendelet így rendelkezik, és az ügyben nincs ellenérdekű ügyfél.
 
 (3) A jogszerű hallgatás esetén a hatóság a megszerzett jogot rávezeti a kérelemre, és annak az ügyfél birtokában levő másolati példányára, vagy a hatóságnál levő példányról az ügyfél részére másolatot ad ki.
 
