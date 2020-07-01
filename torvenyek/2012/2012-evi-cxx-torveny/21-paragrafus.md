@@ -10,12 +10,16 @@ c) az 1. § (1) bekezdés c), d), i), j, k) és l) pontjában meghatározott kor
 
 tarthat magánál.
 
-(2) A település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén, szolgálati feladatainak ellátása során nyíltan viselve
+(2) A szolgálati feladatainak ellátása során
 
-a) a mezőőr, valamint a hegyőr, az állami halőr és a hivatásos halőr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
+a) a település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén nyíltan viselve
 
-b) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
+aa) a mezőőr, valamint a hegyőr, az állami halőr és a hivatásos halőr – jogszabályban meghatározott közegészségügyi okból, a légi közlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
 
-c) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert
+ab) az erdészeti hatóság rendészeti feladatokat ellátó tagja, a rendészeti feladatokat ellátó erdészeti szakszemélyzet, valamint a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
+
+ac) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert,
+
+b) a természetvédelmi őr önvédelmi célból, nyíltan viselve szolgálati maroklőfegyvert
 
 tarthat magánál.
