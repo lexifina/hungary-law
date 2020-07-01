@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^118]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^119]
 
 I. RÉSZ
 
@@ -22,15 +22,17 @@ I. RÉSZ
 
 | 4/b. | Festuca pratensis Huds. | Réti csenkesz | TP 39/1, 2015.10.1. |
 
-| 5. | Lolium multiflorum Lam. | Olasz perje | TP 4/1 2011. 6. 23. |
+| 5. | Lolium multiflorum Lam. | Olasz perje | TP 4/2, 2019.3.19. |
 
-| 6. | Lolium perenne L. | Évelő perje | TP 4/1 2011. 6. 23. |
+| 6. | Lolium perenne L. | Évelő perje | TP 4/2, 2019.3.19. |
 
-| 7. | Lolium x hybridum Hausskn | Hibrid perje | TP 4/1 2011. 6. 23. |
+| 7. | Lolium x hybridum Hausskn | Hibrid perje | TP 4/2, 2019.3.19. |
 
 | 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 rev. 2., 2017. 3. 15. |
 
 | 8/a. | Vicia sativa L. | Tavaszi bükköny | TP 32/1, 2016.4.19. |
+
+| 8/b. | Vicia faba L. | Lóbab | TP 8/1, 2019.3.19. |
 
 | 9. | Brassica napus L. | Káposztarepce | TP 36/2 2011. 11. 16. |
 
@@ -48,15 +50,21 @@ I. RÉSZ
 
 | 14. | Avena sativa L. (továbbá A. byzantina K. Koch) | Zab és bizánci zab | TP 20/2, 2015.10.1. |
 
-| 15. | Hordeum vulgare L. | Árpa | TP 19/4, 2015.10.1. |
+| 15. | Hordeum vulgare L. | Árpa | TP 19/5, 2019.3.19. |
 
 | 16. | Oryza sativa L. | Rizs | TP 16/3, 2015.10.1. |
 
 | 17. | Secale cereale L. | Rozs | TP 58/1 2002. 10. 31. |
 
+| 17/a. | Sorghum bicolor (L.) Moench | Cirok | TP 122/1, 2019.3.19. |
+
+| 17/b. | Sorghum sudanense (Piper) Stapf. | Szudánifű | TP 122/1, 2019.3.19. |
+
+| 17/c. | Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf | A Sorghum bicolor és a Sorghum sudanense keresztezéséből származó hibridek | TP 122/1, 2019.3.19. |
+
 | 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/2rev.1. 2011. 2. 16. |
 
-| 19. | Triticum aestivum L. | Búza | TP 3/4rev.2. 2011. 2. 16. |
+| 19. | Triticum aestivum L. | Búza | TP 3/5, 2019.3.19. |
 
 | 20. | Triticum durum Desf. | Durumbúza | TP 120/3, 2014.3.19. |
 
@@ -124,7 +132,7 @@ II. RÉSZ
 
 | 22. | Trifolium repens L. | Fehérhere | TG/38/7 2003. 4. 9. |
 
-| 23. | Vicia faba L. | Lóbab | TG/8/6 2002. 4. 17. |
+| 23. |  |  |  |
 
 | 24. |  |  |  |
 
@@ -146,11 +154,11 @@ II. RÉSZ
 
 | 33. |  |  |  |
 
-| 34. | Sorghum bicolor (L.) Moench | Cirok | TG/122/4, 2015.3.25. |
+| 34. |  |  |  |
 
-| 35. | Sorghum sudanense (Piper) Stapf. | Szudánifű | TG/122/4, 2015.3.25. |
+| 35. |  |  |  |
 
-| 36. | Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf | A Sorghum bicolor és a Sorghum sudanense keresztezéséből származó hibridek | TG/122/4, 2015.3.25. |
+| 36. |  |  |  |
 
 | 37. | Medicago doliata Carmign. | Egyenestövisű lucerna | TG 228/1, 2006.4.5. |
 
@@ -174,4 +182,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^118]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^119]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a szerint módosított szöveg.

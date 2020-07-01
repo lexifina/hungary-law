@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^119]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^120]
 
 I. RÉSZ
 
@@ -56,13 +56,13 @@ I. RÉSZ
 
 | 21. | Cichorium intybus L. | Cikóriasaláta | TP 173/2, 2018.3.21. |
 
-| 21/a. | Cichorium intybus L. | Leveles cikória | TP 154/1, 2018.3.21. |
+| 21/a. | Cichorium intybus L. | Leveles cikória | TP 154/1 Rev., 2019.3.19. |
 
 | 22. | Citrullus lanatus (Thumb.) Matsum. et Nakai | Görögdinnye | TP 142/2, 2014.3.19. |
 
 | 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 2007. 3. 21. |
 
-| 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 Rev., 2018.3.21. |
+| 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 Rev. 2., 2019.3.19. |
 
 | 24/a. | Cucurbita maxima Duchesne | Sütőtök | TP 155/1, 2015.3.11. |
 
@@ -74,7 +74,7 @@ I. RÉSZ
 
 | 28. | Foeniculum vulgare Mill | Édeskömény | TP 183/1 2004. 3. 25. |
 
-| 29. | Lactuca sativa L. | Saláta | TP 13/6, 2018.3.21. |
+| 29. | Lactuca sativa L. | Saláta | TP 13/6 Rev., 2019.2.15. |
 
 | 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 Rev. 3., 2018.3.21. |
 
@@ -132,4 +132,4 @@ III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^119]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a szerint módosított szöveg.
+[^120]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése szerint módosított szöveg.

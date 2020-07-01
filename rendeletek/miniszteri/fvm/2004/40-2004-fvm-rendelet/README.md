@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-40-20-8
 | 2018-06-25 | 2004-40-20-82.24 | 3/2018. (VI. 22.) AM rendelet |
 | 2018-09-01 | 2004-40-20-82.25 | 70/2006. (IX. 27.) FVM rendelet |
 | 2019-09-23 | 2004-40-20-82.26 | 70/2006. (IX. 27.) FVM rendelet |
+| 2020-07-01 | 2004-40-20-82.27 | 70/2006. (IX. 27.) FVM rendelet |
