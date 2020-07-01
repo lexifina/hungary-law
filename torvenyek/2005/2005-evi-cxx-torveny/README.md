@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-120-00-00
 | 2019-07-01 | 2019. évi XLVIII. törvény | 2005-120-00-00.24 |
 | 2019-07-24 | 2019. évi LXXIII. törvény | 2005-120-00-00.25 |
 | 2020-01-01 | 2019. évi C. törvény | 2005-120-00-00.26 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 2005-120-00-00.27 |

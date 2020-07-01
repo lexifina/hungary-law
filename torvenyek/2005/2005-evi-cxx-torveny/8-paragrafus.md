@@ -4,7 +4,7 @@
 
 a) a szociális hozzájárulási adóra vonatkozó törvényi rendelkezésekben meghatározott, a kifizetőt terhelő közterheket,
 
-b) a Tbj.-ben meghatározott biztosítottat terhelő járulékokat
+b) a Tbj.-ben meghatározott biztosítottat terhelő járulékot
 
 érintő befizetési, illetve levonási, továbbá
 

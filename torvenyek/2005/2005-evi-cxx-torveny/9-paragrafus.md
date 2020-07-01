@@ -1,14 +1,14 @@
 ## Az ekho megoszlása
 
-9. § (1) A 4. § (2) bekezdése szerinti, a magánszemélyt terhelő ekhoból az ekhoalap
+9. § (1) A 15 százalékos mértékkel levont, magánszemélyt terhelő ekhoból az ekhoalap
 
-a) 1,6 százaléka természetbeni egészségbiztosítási járuléknak,
+a) 9,5 százaléka személyi jövedelemadónak,
 
-b) 9,5 százaléka személyi jövedelemadónak,
-
-c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas – nyugdíjjáruléknak
+b) 5,5 százaléka társadalombiztosítási járuléknak
 
 minősül.
+
+(1a) A 9,5 százalékos mértékkel levont, magánszemélyt terhelő ekho személyi jövedelemadónak minősül.
 
 (2) A 4. § (3) bekezdése szerint a kifizetőt terhelő ekho és a 6. § szerint a magánszemélyt terhelő különadó szociális hozzájárulási adónak minősül.
 
