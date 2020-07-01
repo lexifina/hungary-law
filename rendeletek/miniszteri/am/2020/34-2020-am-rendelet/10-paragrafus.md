@@ -1,3 +1,5 @@
-## 9. § Hatályát veszti a 22/2019. (V. 31.) AM rendelet 7. § (4) bekezdése.
+## 9. §[^10]
 
 ## 3. Az Európai Unió területén történő borpromóció támogatásáról szóló 2/2020. (II. 28.) AM rendelet módosítása
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

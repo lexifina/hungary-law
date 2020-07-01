@@ -1,11 +1,5 @@
 ## 22. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 34/2020. (VI. 29.) AM rendelethez
+1. melléklet a 34/2020. (VI. 29.) AM rendelethez[^23]
 
-A 22/2019. (V. 31.) AM rendelet 1. mellékletében foglalt táblázat a következő 11. sorral egészül ki:
-
-|  | [A | B | C | D |
-
-| 1. | területi referenciahozam (q/ha) | referenciaár (Ft/kg) | átalányösszeg kompenzációs felár megtéríttetésére jogosult igénylő esetében (Ft/ha) | átalányösszeg kompenzációs felár megtéríttetésére nem jogosult igénylő esetében (Ft/ha)] |
-
-| 11. | 160 vagy felette |  | 1 083 630 | 967 527 |
+[^23]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

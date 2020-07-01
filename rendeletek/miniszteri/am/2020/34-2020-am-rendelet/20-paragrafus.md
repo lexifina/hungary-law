@@ -1,5 +1,3 @@
-## 19. § A borászati termékek krízislepárlására a 2020. évben igényelhető támogatásról szóló 21/2020. (VI. 19.) AM rendelet [a továbbiakban: 21/2020. (VI. 19.) AM rendelet] 2. § (9) bekezdés e) pontja helyébe a következő rendelkezés lép:
+## 19. §[^20]
 
-## (A lepárlóüzem nyilatkozatban vállalja, hogy)
-
-## „e) az átvett borászati terméket 2020. szeptember 25-éig lepárolja,”
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
