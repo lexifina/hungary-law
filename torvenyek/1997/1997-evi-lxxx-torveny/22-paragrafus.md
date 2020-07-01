@@ -1,1 +1,0 @@
-Tbj. 22. § Nem kell járulékalapot képező jövedelemként figyelembe venni azt a jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a 11. §, a 11/B. § vagy a 13. § alapján nem állt fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.

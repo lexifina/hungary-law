@@ -1,1 +1,0 @@
-Tbj. 56/G. § Ha a biztosított pénztártagsági jogviszonya a társadalombiztosítási nyugdíjrendszerbe visszalépése miatt már nem áll fenn, a pénztártagsági jogviszony idejére járó, meg nem fizetett tagdíj, bírság, pótlék tekintetében az eljárást az állami adóhatóság a Nyugdíjbiztosítási Alap javára folytatja le.

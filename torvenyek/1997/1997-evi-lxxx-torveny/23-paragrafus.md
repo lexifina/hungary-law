@@ -1,1 +1,0 @@
-Tbj. 23. § A 5. § (1) bekezdésének a) pontjában említett szervek a hivatásos, szerződéses állományú tagjaik részére a társadalombiztosítási ellátás helyett kifizetett pénzbeli juttatásokat a társadalombiztosítási ellátásoknak megfelelő mértékben elszámolhatják.

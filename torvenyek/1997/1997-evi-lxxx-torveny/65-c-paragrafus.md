@@ -1,1 +1,0 @@
-Tbj. 65/C. § A nyugdíjjárulék megállapításakor e törvény 2012. december 31-én hatályos 24., 27., 28., 29., 31., 36., 37. és 56/A. § rendelkezéseit kell alkalmazni a 2013. január 10-éig megszerzett, 2012 decemberi járulékalapot képező olyan jövedelmekre, amelyeket a 2012. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.

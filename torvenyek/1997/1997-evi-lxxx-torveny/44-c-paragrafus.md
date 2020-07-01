@@ -1,5 +1,0 @@
-Tbj. 44/C. § (1) Ha az egészségügyi szolgáltatónak az Eb. tv. rendelkezései szerinti ellenőrzése során megállapítást nyer, hogy az ellátást igénybe vevő személy nem szerepel az egészségügyi szolgáltatásra jogosultak nyilvántartásában, akkor a jogosultságának tisztázása érdekében az érintett személy hatósági eljárást kezdeményezhet az egészségbiztosítási szervnél.
-
-(2) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában az érintett személyt – a biztosítotti, illetve az egyéb jogcímen egészségügyi szolgáltatásra jogosító jogviszony fennállásának tisztázásáig – az egészségügyi szolgáltatásra jogosultként szerepelteti, ha az érintett személy okirattal valószínűsíti a jogviszony fennállását.
-
-(3) Az egészségbiztosítási szerv a (2) bekezdésben meghatározott bejegyzést követően – az okirat másolatának megküldésével együtt – a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából a 44/B. § (3) bekezdésében meghatározott adatokat haladéktalanul továbbítja az állami adóhatóságnak.
