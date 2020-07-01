@@ -6,23 +6,31 @@
 
 28. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a felnőttképzési államigazgatási szervet és
+a) a felnőttképzési államigazgatási szervet,
 
-b) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szervet
+b) az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szervet,
+
+c) a képzési hitelt nyújtó szervet és
+
+d) a munkaerő-piaci előrejelző rendszer működéséért felelős szervet
 
 rendeletben jelölje ki.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-a) a felnőttképzési tevékenység folytatásához szükséges bejelentés és engedély részletes feltételeit, a bejelentés, illetve az engedély megadása iránti kérelem adattartalmát, benyújtásának és elbírálásának részletes szabályait, a vagyoni biztosíték formáit, mértékét és felhasználásának szabályait, a felnőttképzők nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat, a nyilvántartás módosításának és a nyilvántartásból való törlés eseteit, a felnőttképzési szerződés tartalmát, a felnőttképzési tevékenység személyi és tárgyi feltételeit, a felnőttképző dokumentum- és nyilvántartásvezetési kötelezettségének szabályait, a felnőttképzők ellenőrzésére vonatkozó részletes szabályokat, valamint a felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
+a) a felnőttképzési tevékenység folytatásához szükséges bejelentés és engedély részletes feltételeit, a bejelentés, illetve az engedély megadása iránti kérelem adattartalmát, benyújtásának és elbírálásának részletes szabályait, a vagyoni biztosíték formáit, mértékét és felhasználásának szabályait, a felnőttképzők nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, és a felnőttképzők nyilvántartásának vezetésére vonatkozó részletes eljárási szabályokat, a nyilvántartás módosításának és a nyilvántartásból való törlés eseteit, a felnőttképzési szerződés tartalmát, a felnőttképzési tevékenység folytatásának feltételeit, a felnőttképző dokumentum- és nyilvántartásvezetési kötelezettségének szabályait, a felnőttképzők ellenőrzésére vonatkozó részletes szabályokat, valamint a felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 
-b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait, a felnőttképzési szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
+b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
 
 c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére vonatkozó részletes szabályokat,
 
 d) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul,
 
-e) a képzési hitel igénybevételének feltételeit.
+e) a képzési hitel és az ösztöndíj igénybevételének feltételeit,
+
+f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősítésének feltételeit, eljárását és módját,
+
+g) a munkaerő-piaci előrejelző rendszer működésére, az adatszolgáltatás rendjére, továbbá a munkaerő-piaci előrejelző rendszer működéséért felelős szervnek a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat,
 
 (3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott bírság befizetésének rendjét.
 

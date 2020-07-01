@@ -1,4 +1,4 @@
-## 9. A felnőttképzés adatszolgáltatási rendszere, a képzés megvalósításával összefüggő dokumentumok
+## 9. A felnőttképző adatszolgáltatási kötelezettsége és a képzés megvalósításával összefüggő dokumentumok
 
 15. § (1) A felnőttképző
 
@@ -6,36 +6,22 @@ a) a bejelentéshez kötött felnőttképzési tevékenység esetén
 
 aa) a képzés megnevezésére, jellegére, helyére, óraszámára, első képzési napjára és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontjára,
 
-ab) a képzésben részt vevő személyek létszámára,
+ab) – ha a képzésben részt vevő személy előzetesen írásban vagy a Ptk. 6:7. § (3) bekezdése szerinti módon megtett jognyilatkozatában annak továbbítását nem tiltotta meg – a képzésben részt vevő személyek természetes személyazonosító adataira, elektronikus levelezési címére, adóazonosító jelére,
 
 b) az engedélyhez kötött felnőttképzési tevékenység esetén
 
-ba) a képzés megnevezésére, jellegére, helyére, óraszámára, első képzési napjára és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontjára, és
+ba) a képzés megnevezésére, jellegére, helyére, óraszámára, első képzési napjára és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontjára,
 
-bb) a képzési díjra és annak költségviselőjére,
+bb) a képzési díjra és annak költségviselőjére és
 
-bc) a képzésben részt vevő személyek létszámára, iskolai, korcsoportos és nemek szerinti megoszlására, továbbá – ha a képzés államilag elismert szakképzettségre, illetve szakképesítésre készít fel – a képzésben részt vevő személy természetes személyazonosító adataira, lakcímére, elektronikus levelezési címére, valamint adóazonosító jelére és – ha azzal rendelkezik – oktatási azonosító számára,
-
-c) az általa kiállított tanúsítványra
+bc) a képzésben részt vevő személyek iskolai és nemek szerinti megoszlására, természetes személyazonosító adataira, elektronikus levelezési címére, adóazonosító jelére és – ha a képzés államilag elismert szakképzettségre, illetve szakképesítésre készít fel – lakcímére
 
 vonatkozó adatot szolgáltat a felnőttképzési államigazgatási szerv részére a felnőttképzés adatszolgáltatási rendszerében. Az adatszolgáltatási kötelezettségnek legkésőbb a képzés megkezdését, az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését követő harmadik munkanapig kell eleget tenni.
 
-(2) A felnőttképzési államigazgatási szerv az (1) bekezdés szerinti adatokról – a 20. § (1) bekezdése szerinti ellenőrzési jogkörének gyakorlása céljából, valamint a (3) bekezdésben meghatározott célból – elektronikus nyilvántartást vezet, és a nyilvántartás adatait – annak keletkezésétől számított öt évig – kezeli.
+(2) A felnőttképzési államigazgatási szerv az (1) bekezdés szerinti adatokról és a felnőttképző által kiállított tanúsítványról – a 20. § (1) bekezdése szerinti ellenőrzés és a pályakövetési rendszer működtetése céljából – elektronikus nyilvántartást vezet, és a nyilvántartás adatait – az e bekezdésben meghatározott kivétellel – azok keletkezésétől számított ötödik év utolsó napjáig kezeli. A felnőttképzési államigazgatási szerv a tanúsítványokat tartalmazó központi nyilvántartás adatait azok keletkezésétől számított ötvenedik év utolsó napjáig kezeli, azt követően pedig azokat átadja az illetékes levéltárnak, és az átadott vizsgatörzslapok nyilvántartási adatait törli.
 
-(3) A felnőttképzési államigazgatási szerv a honlapján az (1) bekezdés szerinti adatok alapján – képzések szerinti bontásban és országosan összesítve – minden év január 30-áig nyilvánosságra hozza
+(3) Az (1) és (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók, továbbá a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
-a) az induló képzési létszámra,
-
-b) a képzésbe időközben bekapcsolódók létszámára,
-
-c) a képzésből kimaradtak létszámára,
-
-d) a képzést befejezők létszámára,
-
-e) a képzésben részt vevő személyek elégedettségmérésére
-
-vonatkozó adatokat.
-
-(4) Az (1)–(3) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók, továbbá a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
+(4)
 
 (5) A felnőttképző a tervezett képzéseiről – a képzés indítását legalább harminc nappal megelőzően – önkéntes adatszolgáltatást teljesíthet a felnőttképzési államigazgatási szerv részére elektronikus úton. A felnőttképzési államigazgatási szerv a beérkezett adatokat a képzés iránt érdeklődők tájékoztatása érdekében a honlapján közzéteszi. A felnőttképzési államigazgatási szerv a határidőn túl beérkezett adatokat nem köteles közzétenni.

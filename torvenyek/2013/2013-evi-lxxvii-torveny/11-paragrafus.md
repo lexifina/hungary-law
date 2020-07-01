@@ -2,7 +2,7 @@
 
 a) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 
-b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek és jogszabályban meghatározott tartalommal a 21. § (4) bekezdése szerinti statisztikai célú adatszolgáltatásnak.
+b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek, a 17. § a) és c) pontjában meghatározott tájékoztatási kötelezettségének és jogszabályban meghatározott tartalommal a 21. § (4) bekezdése szerinti statisztikai célú adatszolgáltatásnak.
 
 (2) A felnőttképzőnek, ha felnőttképzési tevékenysége engedélyhez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
@@ -10,7 +10,7 @@ a) felnőttképzési tevékenységét az általa szervezett képzésre vonatkoz�
 
 aa) a 12. § szerinti – a felnőttképző által folytatott szakképzés esetén a képzési és kimeneti követelményekre, illetve a programkövetelményekre is figyelemmel – kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programnak megfelelően és
 
-ab) a Kormány rendeletében meghatározott személyi és tárgyi feltételek biztosításával
+ab) a Kormány rendeletében meghatározott feltételek biztosításával
 
 kell folytatnia,
 
@@ -18,7 +18,7 @@ b) a képzésre jelentkező kérésére előzetes tudásmérést kell biztosíta
 
 c) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 
-d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie és gondoskodnia kell a minőségirányítási rendszer külső értékeléséről, valamint a képzésben részt vevő személyek elégedettségmérésről,
+d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie és gondoskodnia kell a minőségirányítási rendszer külső értékeléséről,
 
 e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezettségének,
 

@@ -10,10 +10,8 @@
 
 a) a szakképzésről szóló törvény szerinti szakmai képzést vagy – nem szakképző intézményként – részszakmára felkészítő szakmai oktatást vagy
 
-b) – a belső képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést
+b) – a belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést
 
 szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti engedély alapján végezheti.
 
-(3) Szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységet engedély nélkül is végezhet.
-
-(4) Ha jogszabály a képzés megszervezését bejelentéshez vagy engedélyhez köti, az e törvény szerinti bejelentést megtenni, illetve engedély megadása iránti kérelmet benyújtani azon a szerven keresztül kell, amelynél a képzésre vonatkozó bejelentést meg kell tenni, illetve amely a képzés megszervezésére vonatkozó engedély megadására jogosult. Az e törvény szerinti engedély megadása iránti kérelem tárgyában hozott döntést azon a szerven keresztül kell közölni, amely a képzés megszervezésére vonatkozó engedély megadására jogosult. Az e törvény szerinti bejelentés, illetve engedély hiányában a képzés nem szervezhető meg és a képzés megszervezésére engedély nem adható. E bekezdést az adatváltozás és a tevékenység megszüntetésének bejelentésére, valamint a tevékenység folytatásának megtiltására is alkalmazni kell.
+(3) A felnőttképzési államigazgatási szerv felnőttképzési tevékenységet bejelentés és engedély nélkül, a szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységet engedély nélkül is végezhet.

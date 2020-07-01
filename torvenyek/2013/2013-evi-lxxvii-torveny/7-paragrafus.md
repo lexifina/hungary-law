@@ -20,4 +20,4 @@ tartalmazza.
 
 (3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatokból a felnőttképzési államigazgatási szerv a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl honlapján közzéteszi a felnőttképzési szakértő (1) bekezdés a)–f) pontjában meghatározott adatait.
 
-(4) A felnőttképzési államigazgatási szerv az adatokat a felnőttképzési szakértőnek a névjegyzékből való kikerülése időpontjától számított öt évig kezeli, ezt követően az adatokat törli. A nyilvántartásban szereplő felnőttképzési szakértők adatait a nyilvántartásból kikerült felnőttképzési szakértők adataitól elkülönítetten kell kezelni.
+(4) A felnőttképzési államigazgatási szerv az adatokat – a felnőttképzési szakértőnek a képzési program előzetes minősítésével kapcsolatos tevékenységének ellenőrzése érdekében – a felnőttképzési szakértőnek a felnőttképzési szakértők nyilvántartásából való törlése időpontjától számított harmadik év utolsó napjáig kezeli.

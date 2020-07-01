@@ -10,10 +10,10 @@ a) a jogi személy, a személyes joga szerint jogképes szervezet, az egyéni v�
 
 aa) – a szakképzésről szóló törvény alapján szervezett – szakképzésre,
 
-ab) szervezett célirányos kompetenciakialakításra és kompetencia-fejlesztésre irányuló, szervezetten megvalósuló – az aa) alpontba nem tartozó – oktatásra és képzésre [az aa) és ab) alpont a továbbiakban együtt: felnőttképzési tevékenység], valamint
+ab) szervezett célirányos kompetenciakialakításra és kompetencia-fejlesztésre irányuló, szervezetten megvalósuló – a köznevelési intézmény, a szakképző intézmény és a felsőoktatási intézmény alapfeladatába és az aa) alpontba nem tartozó – oktatásra és képzésre [az aa) és ab) alpont a továbbiakban együtt: felnőttképzési tevékenység], valamint
 
 b) a felnőttképzési tevékenységhez kapcsolódó szolgáltatásra.
 
-(2) Jogszabály alapján szervezett oktatás és képzés felnőttképző által történő megszervezésére e törvényt a jogszabályban meghatározott eltérésekkel kell alkalmazni.
+(2) Jogszabály alapján szervezett oktatás és képzés felnőttképző által történő megszervezésére e törvényt a jogszabályban meghatározott eltérésekkel kell alkalmazni. Jogszabály a 2/A. § (1) bekezdése szerinti bejelentési kötelezettséget nem zárhatja ki és a 15. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettség tartalmát nem szűkítheti.
 
 (3) E törvény felnőttképzőre vonatkozó szabályait a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.

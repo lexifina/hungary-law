@@ -14,11 +14,15 @@
 
 6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
 
+6a. képzés befejezésének időpontja: a képzési programban meghatározottak szerint a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag vagy résztananyag elsajátítására megállapított utolsó időpont vagy ha a képzési program a képzés elvégzését meghatározott követelményhez köti, annak teljesítésének napja,
+
 7. kompetencia: olyan ismeretek, készségek és képességek összessége, amely által a személy egy adott területen képes meghatározott döntésen és a megvalósításon alapuló eredmény elérésére,
 
 8. kontaktóra: a képzésben részt vevő személyes jelenlétét igénylő tanóra,
 
 9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy és az oktató, tutor közötti megbeszélés, amely elektronikus úton is megvalósulhat,
+
+9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével az iparügyekért felelős miniszter által ilyennek minősített képzés,
 
 10. tananyagegység: a képzési program felépítését adó, önálló tartalommal bíró képzési egység,
 

@@ -4,8 +4,10 @@
 
 a) a felnőttképzési tevékenység folytatásához szükséges engedély megszerzésére,
 
-b) felnőttképzési tevékenység keretében szervezett oktatásra, képzésre és
+b) felnőttképzési tevékenység keretében szervezett képzésre,
 
-c) a felnőttképzők technikai feltételei fejlesztésére.
+c) a felnőttképzők technikai feltételei fejlesztésére és
 
-(2) A képzésben részt vevő személy a felnőttképzési szerződéshez kapcsolódóan képzési hitelt vehet igénybe.
+d) a nemzetgazdasági szempontból kiemelt jelentőségű képzés megszervezésére.
+
+(2)

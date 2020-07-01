@@ -1,7 +1,3 @@
-## VI. Fejezet
-
-## STATISZTIKAI CÉLÚ ADATNYILVÁNTARTÁS ÉS ADATSZOLGÁLTATÁS
-
 ## 11. A felnőttképző adatkezelése
 
 21. § (1) A felnőttképző a képzés lebonyolítása érdekében kezeli
