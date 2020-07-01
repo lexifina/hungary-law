@@ -74,7 +74,9 @@ j) törvényben meghatározott esetben az adóhatóságtól,
 
 k) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől,
 
-l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
+l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől,
+
+m) az állampolgársági ügyekben eljáró szervtől.
 
 (5) Az idegenrendészeti hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 
@@ -85,3 +87,5 @@ l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarorsz
 (8) Az idegenrendészeti hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását átadja.
 
 (9) Az idegenrendészeti hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések modul hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
+(10) Az idegenrendészeti hatóság e törvény szerinti eljárása során átveheti és kezelheti a közérdekből nyilvános, e törvény alapján kezelhető adatok körébe tartozó személyes adatokat, ideértve a nyilvános külföldi adatforrásból származó adatot is.

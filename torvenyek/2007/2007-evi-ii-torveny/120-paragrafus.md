@@ -66,7 +66,7 @@ b) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 
 c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
 
-d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
+d) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §], valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet;
 
 e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet;
 
@@ -88,6 +88,6 @@ m) az egy harmadik ország állampolgára által a tagállamok egyikében benyú
 
 n) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet,
 
-o) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2001. március 15-i 539/2001/EK tanácsi rendelet, és az azt módosító 509/2014/EU európai parlamenti és tanácsi rendelet
+o) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

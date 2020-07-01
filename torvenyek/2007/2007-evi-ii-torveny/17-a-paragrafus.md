@@ -4,7 +4,7 @@ a) a kivételes méltánylást érdemlő körülményt igazolta,
 
 b) a kilencven napot meghaladó tartózkodás célja kutatás, vagy
 
-c) az 539/2001/EK rendelet II. mellékletében szereplő állam állampolgáraként vagy ilyen harmadik országbeli állampolgárral együtt, családtagként tartózkodik jogszerűen Magyarország területén.
+c) az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő állam állampolgáraként vagy ilyen harmadik országbeli állampolgárral együtt, családtagként tartózkodik jogszerűen Magyarország területén.
 
 (1a) A Magyarország területén tartózkodó, az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadása iránti kérelmét, valamint az ilyen engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó családtag tartózkodási engedély iránti kérelmét Magyarországon terjesztheti elő, amennyiben az első tagállam által kiadott tartózkodási engedélye érvényes.
 
