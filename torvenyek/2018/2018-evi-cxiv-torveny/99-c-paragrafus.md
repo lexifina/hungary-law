@@ -1,0 +1,1 @@
+99/C. § Az elhunyt honvédelmi alkalmazottnak árvaellátásban részesülő árvája vonatkozásában az árvák kiegészítő támogatásának megállapításáról szóló határozatokat a kincstár adatszolgáltatását követő 30 napon belül kell meghozni.
