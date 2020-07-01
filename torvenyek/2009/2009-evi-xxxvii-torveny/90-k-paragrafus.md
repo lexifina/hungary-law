@@ -4,13 +4,13 @@ a) elrendeli az e törvény hatály alá tartozó jogellenesen forgalomba hozott
 
 b) az elkobzott faanyagot értékesíti vagy megsemmisíti,
 
-c) illegális kitermelés vagy annak vélelme esetén zárlati intézkedést rendel el, melynek keretében:
+c) zárlati intézkedést rendel el, melynek keretében:
 
 ca) a cselekményhez felhasznált szállítóeszköz használatát korlátozza, vagy megtiltja és a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
 
 cb) elrendeli a már forgalomba hozott fatermék forgalomból való kivonását, behozatalát, kivitelét; reklámozását feltételhez köti, korlátozza, felfüggeszti, megtiltja; a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
 
-cc) elrendeli, hogy az importőr saját költségére, kockázatára haladéktalanul vigye vissza a faterméket a származási helyére, amennyiben egy hónapon belül nem igazolja a fa vagy fatermékek 995/2010/EU rendelet 2. cikk f) pontja szerinti legális eredetét,
+cc) elrendeli, hogy az importőr saját költségére, kockázatára haladéktalanul vigye vissza a faterméket a származási helyére,
 
 cd) vállalkozás, létesítmény működési engedélyének módosítását, felfüggesztését, visszavonását kezdeményezi, illetve
 
@@ -26,7 +26,7 @@ g)–i)
 
 j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 
-(2)
+(2) Az (1) bekezdés c) pontjában meghatározott zárlati intézkedés e törvényben foglalt szempontok alapján legfeljebb a döntés véglegessé válásától számított kilencven napra vagy a zárlati intézkedés betartásához szükséges kísérő intézkedés teljesítéséig rendelhető el.
 
 (3) Az erdészeti hatóság az illegális fakitermelés esetén a helyszínen talált faanyag elszállítását engedélyezi, ha annak tulajdonosa a faanyag felett fennálló, jogszerűen szerzett rendelkezési jogosultságát hitelt érdemlően bizonyítja.
 
@@ -45,3 +45,15 @@ b) közhasznú szervezet részére, az általa átvállalt állami vagy önkorm�
 c) egyház, egyházi jogi személy részére, hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi – feladatok ellátásának elősegítése érdekében
 
 ingyenesen tulajdonba adhatja.
+
+(8) Az erdészeti hatóság az (1) bekezdés e) pontja szerinti erdővédelmi bírság helyszíni bírságként történő kiszabására jogosult.
+
+(9) Nem alkalmazható közigazgatási szankcióként figyelmeztetés:
+
+a) a 90/A. § (1) bekezdésben foglaltak megsértése esetén,
+
+b) az (1) bekezdés c) pontja szerint elrendelt zárlati intézkedések megszegése esetén,
+
+c) az (1) bekezdés j) pontjában foglalt határidő elmulasztása esetén,
+
+d) az erdészeti hatóság zár alá vételt, lefoglalást vagy elkobzást elrendelő döntésének megszegése esetén.

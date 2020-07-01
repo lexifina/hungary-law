@@ -20,7 +20,9 @@ a) erdőterv-módosítási eljárás, az erdő igénybevételének elvi engedél
 
 b) a körzeti erdőtervezési eljárás és a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárás esetén százhúsz nap.
 
-(5) Az erdészeti hatóságnak az Ákr. szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról
+(5)
+
+(6) Sommás eljárás nem alkalmazható
 
 a) az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére,
 
@@ -38,10 +40,8 @@ g) a szennyvíziszap alkalmazásának engedélyezésére
 
 irányuló eljárásban.
 
-(6) Az (5) bekezdés szerinti eljárásokban sommás eljárás nem alkalmazható.
-
 (7) Az erdő igénybevételének engedélyezésére vagy elvi engedélyezésére irányuló eljárásban súlyos eljárási jogszabálysértésként semmisségi oknak minősül, ha az erdészeti hatóság a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
 
-(8) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
+(8) Bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
 (9)

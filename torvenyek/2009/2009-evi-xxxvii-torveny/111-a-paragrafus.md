@@ -1,4 +1,4 @@
-111/A. § (1) Az erdészeti hatóság az általa határozattal kiszabott erdőgazdálkodási és erdővédelmi bírságokról hatósági nyilvántartást vezet az alábbi adattartalommal:
+111/A. § (1) Az erdészeti hatóság az általa határozattal kiszabott bírságokról hatósági nyilvántartást vezet az alábbi adattartalommal:
 
 a) bírsággal sújtott természetes személy vagy gazdálkodó szervezet azonosító adatai,
 

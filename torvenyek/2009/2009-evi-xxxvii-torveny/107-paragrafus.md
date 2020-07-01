@@ -1,65 +1,29 @@
-## Az erdőgazdálkodási bírság
+## Az erdővédelmi bírság
 
-107. § (1) Az erdészeti hatóság az erdőgazdálkodóra erdőgazdálkodási bírságot szab ki, ha az erdőgazdálkodó
+107. § (1) Az erdészeti hatóság az e törvényben és az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat, közigazgatási szankcióként figyelmeztetést alkalmazhat vagy bírságot szabhat ki.
 
-a) erdejében jogszerűtlen fakitermelést végzett vagy arra megbízást adott, illetve ilyen fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak;
+(2) Az erdészeti hatóság intézkedésként
 
-b) a 41. § (1) bekezdésében foglalt bejelentési kötelezettséget fahasználatot nem érintő tevékenység esetében megsérti;
+a) nyilvántartásból törlést,
 
-c) a 16. § (9) bekezdésében foglaltakat megsérti;
+b) erdőfelújításibiztosíték-nyújtási kötelezettség előírását,
 
-d) az 63. § (5) bekezdésében foglalt előírásokat megsérti;
+c) tevékenység megtiltását,
 
-e) a 73. § (1) bekezdésében foglalt előírásokat megsérti;
+d) erdőgazdálkodási tevékenység elrendelését,
 
-f) a 69. § (1) bekezdésében foglalt előírásokat megsérti;
+e) faanyag kereskedelmi lánc felügyeletével kapcsolatos eljárásban a 90/K. § (1) bekezdése szerinti intézkedést
 
-g) a 95. § (3) és (6) bekezdésében, a 102. §-ban foglalt bejelentési kötelezettséget elmulasztja;
+alkalmaz.
 
-h) valamely tevékenység végrehajtására vagy az erdő állapotára vonatkozóan e törvényben előírt bejelentési kötelezettségének nem tesz eleget;
+(3) Nem alkalmazható az (1) és (2) bekezdésben felsorolt jogkövetkezmény, ha a jogsértő magatartásnak az erdészeti hatóság tudomására jutásától számított egy év eltelt. A faanyag kereskedelmi lánc felügyeletével kapcsolatos eljárások kivételével nem alkalmazható közigazgatási szankció, ha az elkövetéstől számított három év eltelt (elévülés).
 
-i) megsérti a 90. § (1) bekezdésében foglalt előírásokat;
+(4) Az elkövetés napja
 
-j) az erdő faállományának szerkezetét, egészségi állapotát károsan befolyásoló módon hajtja végre az állomány nevelését vagy a fenyőgyanta gyűjtését;
+a) az a nap, amikor a jogsértő magatartás megvalósul,
 
-k) az erdőnevelési feladatok elmulasztásával akadályozza az erdő e törvény szerint elvárt állapotának kialakulását és fenntartását;
+b) jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megszűnik.
 
-l) az állam 100%-os tulajdonában álló erdőben
+(5) Az elévülési időt a hatóság bármely eljárási cselekménye megszakítja. Az elévülés megszakadásával az elévülési idő újrakezdődik.
 
-la) túllépi az erdő felújítására és a felújítás befejezésére megállapított határidőt, vagy
-
-lb) pótlási kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz határidőben eleget;
-
-m) az állam 100%-os tulajdonában nem álló erdőben túllépi az erdőfelújítás befejezésére megállapított határidőt;
-
-n)
-
-o) az erdészeti hatóság erdészeti termékek készletezését, szállítását kizáró vagy korlátozó határozatában foglaltakat megsérti;
-
-p) a jogosult erdészeti szakszemélyzet alkalmazására vonatkozó kötelezettségének az erdészeti hatóság felhívására sem tesz eleget, vagy a jogosult erdészeti szakszemélyzet személyében bekövetkezett változást az erdészeti hatóságnak 8 napon belül nem jelenti be;
-
-q) a külön jogszabály szerinti erdőtűzvédelmi terv vagy egyszerűsített erdőtűz-védelmi terv készítési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget;
-
-r) a külön jogszabály szerinti erdőtűz-megelőzési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget;
-
-s) megsérti a 15. § (2) bekezdésben foglaltakat;
-
-t) a 106. § (7) bekezdésében foglalt mulasztást követi el;
-
-u) erdei legeltetési tevékenységhez jogszerűtlenül járul hozzá.
-
-(2)
-
-(3) Az erdészeti hatóság erdőgazdálkodási bírságot szab ki arra, aki
-
-a) a 18. § (2) vagy (5) bekezdésében foglalt bejelentési kötelezettségét elmulasztja;
-
-b) e törvény alapján engedélyhez vagy bejelentéshez kötött tevékenységet – a fakitermelés kivételével – engedély nélkül, vagy az engedélyben, illetve a bejelentésben foglaltaktól, valamint az erdészeti hatóság rendelkezésétől eltérően hajtja végre;
-
-c)
-
-d) a 70. § (3) bekezdésében foglalt előírásokat megsérti;
-
-e)
-
-(4) Az erdőgazdálkodási bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
+(6) Ha a jogsértés elbírálásakor hatályban lévő jogszabály szerint a cselekmény már nem jogsértő, vagy enyhébben bírálandó el, akkor az elbíráláskor hatályos jogszabályt kell alkalmazni.

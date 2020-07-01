@@ -8,7 +8,7 @@
 
 a) jelölje ki az erdészeti hatóságot vagy hatóságokat;
 
-b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét és kiszámításának módját, valamint kiszabásának és megfizetésének részletes szabályait;
+b) határozza meg az erdővédelmi bírság mértékét és kiszámításának módját, valamint kiszabásának és megfizetésének részletes szabályait;
 
 c) határozza meg az erdészeti hatóság faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos feladat- és hatáskörét;
 
@@ -20,9 +20,9 @@ f) határozza meg az erdőgazdálkodói nyilvántartásba vétel, az egyszerűs�
 
 g) határozza meg az erdőkezelés részletes szabályait és feltételeit;
 
-h) határozza meg az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet, és az erdészeti szakirányító vállalkozás nyilvántartásba vételének, nyilvántartásból történő törlésének, valamint az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tevékenységének, továbbképzésének részletes szabályait és feltételeit;
+h) határozza meg az erdészeti szakszemélyzet és az erdészeti szakirányító vállalkozás tevékenységének, nyilvántartásba vételének, nyilvántartásból történő törlésének, az erdészeti szakszemélyzet továbbképzésének, valamint az erdészeti szakszemélyzettel és az erdészeti szakirányító vállalkozással szemben alkalmazható jogkövetkezmények részletes szabályait és feltételeit;
 
-i) határozza meg az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+i) határozza meg az erdészeti szakszemélyzet egyenruhájára, szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
 
 j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat;
 

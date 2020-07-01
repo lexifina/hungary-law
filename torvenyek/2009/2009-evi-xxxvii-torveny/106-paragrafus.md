@@ -1,6 +1,6 @@
 ## XII. Fejezet
 
-## AZ ELRENDELT ERDŐGAZDÁLKODÁSI TEVÉKENYSÉG, AZ ERDŐGAZDÁLKODÁSI BÍRSÁG ÉS AZ ERDŐVÉDELMI BÍRSÁG
+## JOGKÖVETKEZMÉNYEK
 
 ## Az elrendelt erdőgazdálkodási tevékenység
 
@@ -24,10 +24,10 @@ b) az erdőfelújítási kötelezettséget eredményező véghasználat végreha
 
 (3) Az elrendelt erdőgazdálkodási tevékenység költségeinek megelőlegezését a költségvetési törvényben e célra meghatározott előirányzatból kell biztosítani.
 
-(4) Az elrendelt erdőgazdálkodási tevékenység végrehajtásával az erdészeti hatóság erdőkezelésre jogosult erdészeti szakirányító vállalkozást bíz meg. A megbízott erdőkezelő felel a rábízott tevékenység végrehajtásának szakszerűségéért.
+(4) Az elrendelt erdőgazdálkodási tevékenység végrehajtásával erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozást lehet megbízni.
 
 (5) Az elrendelt erdőgazdálkodási tevékenység során keletkezett bevételt az elrendelt erdőgazdálkodási tevékenység költségeire kell fordítani. Amennyiben a keletkezett bevétel meghaladja az elrendelt tevékenység költségét, a különbözetet a jogosultak részére meg kell téríteni.
 
-(6) Az erdészeti hatóság az erdő felújításához kapcsolódó erdőgazdálkodási tevékenység elrendelését mellőzheti, ha a felszólítására a kötelezett a tevékenység elvégzésével legkésőbb a mulasztás megállapítása évének végéig egy erdőkezelésre jogosult erdészeti szakirányító vállalkozást bíz meg, és a hatályos megbízási szerződést az erdészeti hatóság részére bemutatja.
+(6) Az erdészeti hatóság az erdő felújításához kapcsolódó erdőgazdálkodási tevékenység elrendelését mellőzheti, ha a felszólítására a kötelezett a tevékenység elvégzésével legkésőbb a mulasztás megállapítása évének végéig egy erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozást bíz meg, és a hatályos megbízási szerződést az erdészeti hatóság részére bemutatja.
 
 (7) Ha a kötelezett mulasztása miatt a (6) bekezdésben foglalt tevékenység a következő évben az erdőfelújítás műszaki átvételéig nem kerül végrehajtásra, az erdészeti hatóság a kötelezett részére a tárgyévet követő öt évben erdőgazdálkodási tevékenység elrendeléséhez kapcsolódóan a (6) bekezdésben foglalt lehetőséget nem biztosít.

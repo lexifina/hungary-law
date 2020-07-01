@@ -4,9 +4,9 @@
 
 a) ellátja az erdőben jogszerűen végezhető erdőgazdálkodási tevékenységek szakmai irányítását, valamint
 
-b) az erdő fennmaradását, fejlődését veszélyeztető állapotról, eseményről, vad általi károsításról való tudomásszerzést követően az erdőgazdálkodót vagy az erdőgazdálkodó által alkalmazott jogosult erdészeti szakszemélyzetet haladéktalanul értesíti, illetve a veszély elhárításában a tőle elvárható módon közreműködik.
+b) az erdő fennmaradását, fejlődését veszélyeztető állapotról, eseményről, vad általi károsításról való tudomásszerzést követően az alkalmazóját haladéktalanul értesíti, illetve a veszély elhárításában a tőle elvárható módon közreműködik.
 
-(2) A jogosult erdészeti szakszemélyzet az (1) bekezdésében megfogalmazottakon túl
+(2) Az alkalmazott szakirányító az (1) bekezdésében megfogalmazottakon túl
 
 a) az erdőgazdálkodó részére szakmai tájékoztatást és tanácsot ad a jogai gyakorlása és kötelezettségei teljesítése érdekében,
 
@@ -18,7 +18,17 @@ d) az erdőgazdálkodó erdészeti hatóság felé tett bejelentéseit, adatszol
 
 e) kiállítja a műveleti lapot.
 
-(3) Felsőfokú erdészeti szakirányú végzettséggel rendelkező jogosult erdészeti szakszemélyzet jogosult
+(2a) Felsőfokú erdészeti szakirányú végzettséggel rendelkező
+
+a) jogosult erdészeti szakszemélyzet,
+
+b) erdészeti tudományos fokozattal rendelkező személy, vagy
+
+c) erdészeti hatósági, illetve erdészeti igazgatási feladatot ellátó személy
+
+a (3) bekezdésben foglalt tevékenységek elvégzésére jogosult.
+
+(3) A (2a) bekezdésben meghatározott személy jogosult
 
 a) erdőtelepítési kivitelezési terv készítésére,
 
@@ -30,6 +40,6 @@ d) körzeti erdőtervezés kivételével erdészeti térképezésre,
 
 e) erdő rendeltetését szolgáló műtárgy, csatorna, tározó tervezésére, felelős műszaki vezetésére, műszaki ellenőrzésére,
 
-f) közjóléti létesítmény engedélyezési tervének készítésére, felelős műszaki vezetésére, műszaki ellenőrzésére, valamint
+f) közjóléti létesítmény létesítési tervének készítésére, felelős műszaki vezetésére, műszaki ellenőrzésére, valamint
 
 g) örökerdő fenntartási terv, átalakítási terv és erdőfelújítási terv készítésére.

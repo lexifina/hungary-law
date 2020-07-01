@@ -27,3 +27,5 @@ e) a bűncselekmény elkövetésén tetten ért vagy az intézkedésének ellens
 az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
 (5) Az erdészeti hatóság rendészeti feladatokat ellátó tagja szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+
+(6) Az erdészeti hatósági rendészeti feladatokat ellátó személy által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.

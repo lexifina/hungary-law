@@ -1,6 +1,6 @@
 90/J. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyelete keretében végzett, e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat vagy figyelmeztetésben részesítheti az eljárás alá vont személyt.
 
-(2) Az (1) bekezdés szerinti jogkövetkezmények alkalmazásának nincs helye, ha a cselekménynek az erdészeti hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+(2) Az (1) bekezdés szerinti jogkövetkezmények alkalmazásának nincs helye, ha a cselekménynek az erdészeti hatóság tudomására jutásától számított egy év eltelt. Nem alkalmazható közigazgatási szankció, ha az elkövetéstől számított öt év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
 
 (3) Szállítójármű használatának tiltására vagy korlátozására vonatkozó döntés tekintetében, amennyiben a szállítójármű üzemben tartója, annak hiányában tulajdonosa személyében változás következik be, a gépjármű nyilvántartásba bejegyzett új üzemben tartót vagy tulajdonost kell jogutódnak tekinteni.
 

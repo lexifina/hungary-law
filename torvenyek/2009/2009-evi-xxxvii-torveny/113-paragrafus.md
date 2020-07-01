@@ -60,7 +60,7 @@ b) a településvédelmi rendeltetést, ha az nem erdőgazdálkodó kérelmére 
 
 (25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
 
-(25a) A (25) bekezdés szerinti szerződések 2020. május 7-én hatályukat vesztik, az ilyen jogcímen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
+(25a) A (25) bekezdés szerinti szerződések 2021. december 31-én hatályukat vesztik, az ilyen jogcímen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
 
 (26) A módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdő természetességi állapotára vonatkozó alapelvárásnak az erdő Adattárban nyilvántartott természetességi állapota minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
 
