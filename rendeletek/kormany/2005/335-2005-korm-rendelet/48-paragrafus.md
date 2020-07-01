@@ -1,7 +1,7 @@
-48. §[^118] (1) Téves iktatás esetén a papír alapú iktatókönyvben a bejegyzést áthúzással kell érvényteleníteni oly módon, hogy az érvénytelenítés ténye – az eredeti bejegyzés olvashatósága mellett – kétségtelen legyen.
+48. §[^125] (1) Téves iktatás esetén a papír alapú iktatókönyvben a bejegyzést áthúzással kell érvényteleníteni oly módon, hogy az érvénytelenítés ténye – az eredeti bejegyzés olvashatósága mellett – kétségtelen legyen.
 
 (2) Elektronikus iktatókönyv használata esetén a változásokat (módosítás, az adatok fizikai törlése nélküli törlésre jelölése), tartalmuk megőrzésével, naplózással dokumentálni kell.
 
 (3) A tévesen kiadott iktatószám nem használható fel újra.
 
-[^118]: A 48. § a 64/2010. (III. 18.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^125]: A 48. § a 64/2010. (III. 18.) Korm. rendelet 19. §-ával megállapított szöveg.

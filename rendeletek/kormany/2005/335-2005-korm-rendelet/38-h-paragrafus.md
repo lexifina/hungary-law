@@ -1,4 +1,4 @@
-38/H. §[^98] (1) Az 1. melléklet szerinti szervek a 38/A. § (1) bekezdés b) pontjában meghatározott szolgáltatóhoz megküldésre kerülő elektronikus iraton Magyarország hivatalos címerén kívül más, a szerv egyedi megkülönböztetésére használt jelzést nem tüntethetnek fel, e szervek a szolgáltatónak a papír alapú irat borítékjának ilyen jellegű jelzéssel történő ellátására irányuló kézbesítési utasítást nem adhatnak.
+38/H. §[^102] (1) Az 1. melléklet szerinti szervek a 38/A. § (1) bekezdés b) pontjában meghatározott szolgáltatóhoz megküldésre kerülő elektronikus iraton Magyarország hivatalos címerén kívül más, a szerv egyedi megkülönböztetésére használt jelzést nem tüntethetnek fel, e szervek a szolgáltatónak a papír alapú irat borítékjának ilyen jellegű jelzéssel történő ellátására irányuló kézbesítési utasítást nem adhatnak.
 
 (2) Az 1. melléklet szerint szerveknél a 38/A. § (1) bekezdés b) pontjában meghatározott szolgáltató részére megküldött elektronikus iratot a lapok sorszámozása mellett úgy kell megszerkeszteni, hogy laponként a lap felső részéből legalább 5 milliméter, jobb és bal oldalából legalább 10 milliméter, alsó részéből legalább 20 milliméter a papír alapú irat kötelező elemeinek elhelyezése céljából elhagyásra kerüljön. Bármilyen nyomtatható információ, ide értve a fej- és láblécet, a lábjegyzetet és az oldalszámot is csak ebben a keretben helyezhető el.
 
@@ -12,4 +12,4 @@ c) a postai feladáshoz szükséges egyéb utasításokat (pl. elsőbbségi kül
 
 d) amennyiben az irat színes formátumú megjelenítést igényel, úgy az erre vonatkozó információkat.
 
-[^98]: A 38/H. §-t a 62/2015. (III. 24.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^102]: A 38/H. §-t a 62/2015. (III. 24.) Korm. rendelet 11. § (2) bekezdése iktatta be.

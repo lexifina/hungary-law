@@ -32,13 +32,13 @@
 
 ## b) a Magyar Közlöny Szerkesztőség küldeményei;
 
-## c)[^227] a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését a Magyar Államkincstár végzi;
+## c)[^237] a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését a Magyar Államkincstár végzi;
 
 ## d) diplomáciai és konzuli küldemények, valamint a Magyarországon akkreditált diplomáciai testületek küldeményei;
 
 ## e) különleges digitalizálási eljárást igénylő küldemények;
 
-## f)[^228] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
+## f)[^238] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
 
 ## g) kegyelmi ügyek;
 
@@ -46,19 +46,19 @@
 
 ## i) nemzetbiztonsági kérdőív, nemzetbiztonsági ellenőrzés eredményeit tartalmazó dokumentumok;
 
-## j)[^229] az 1. mellékletben meghatározott szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott egyes iratok;
+## j)[^239] az 1. mellékletben meghatározott szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott egyes iratok;
 
-## k)[^230] az 1. mellékletben felsorolt szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik;
+## k)[^240] az 1. mellékletben felsorolt szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik;
 
-## l)[^231] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
+## l)[^241] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
 
-## m)[^232] feladóhoz visszaérkezett tértivevények;
+## m)[^242] feladóhoz visszaérkezett tértivevények;
 
-## n)[^233] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
+## n)[^243] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-## o)[^234] a megyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
+## o)[^244] a megyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
 
-3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^235]
+3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^245]
 
 ## A központosított irattári szolgáltatásokat igénybe vevő szervek
 
@@ -76,7 +76,7 @@
 
 7. Nemzeti Örökség Intézete
 
-8.[^236] Magyarságkutató Intézet
+8.[^246] Magyarságkutató Intézet
 
 9. Nemzeti Kommunikációs Hivatal
 
@@ -88,7 +88,7 @@
 
 13. Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság
 
-14.[^237] Országos Idegenrendészeti Főigazgatóság
+14.[^247] Országos Idegenrendészeti Főigazgatóság
 
 15. Büntetés-végrehajtás Országos Parancsnoksága
 
@@ -120,7 +120,7 @@
 
 29. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-30.[^238] Agrárminisztérium
+30.[^248] Agrárminisztérium
 
 31. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -138,41 +138,41 @@
 
 38. Szellemi Tulajdon Nemzeti Hivatala
 
-39.[^239] Innovációs és Technológiai Minisztérium
+39.[^249] Innovációs és Technológiai Minisztérium
 
-40.[^240] Magyar Bányászati és Földtani Szolgálat
+40.[^250] Magyar Bányászati és Földtani Szolgálat
 
-41.[^241] Pénzügyminisztérium
+41.[^251] Pénzügyminisztérium
 
 42. Igazságügyi Minisztérium
 
-43.[^242] Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság
+43.[^252] Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság
 
-44.[^243] Nemzeti Szakértői és Kutató Központ
+44.[^253] Nemzeti Szakértői és Kutató Központ
 
-45.[^244]
+45.[^254]
 
-46.[^245] Miniszterelnöki Kormányiroda
+46.[^255] Miniszterelnöki Kormányiroda
 
-47.[^246] Nemzeti Földügyi Központ
+47.[^256] Nemzeti Földügyi Központ
 
-[^227]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^228]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^229]: A 2. melléklet II. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (4) bekezdésével megállapított szöveg.
-[^230]: A 2. melléklet II. pont k) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (5) bekezdésével megállapított szöveg.
-[^231]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^232]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^233]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
-[^234]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be.
-[^235]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^236]: A 3. melléklet 8. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
-[^237]: A 3. melléklet 14. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^238]: Az 1. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
-[^239]: Az 1. melléklet 39. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 2. pontjával megállapított szöveg.
-[^240]: Az 1. melléklet 40. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^241]: Az 1. melléklet 41. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 4. pontjával megállapított szöveg.
-[^242]: A 3. melléklet 43. pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § u) pontjával megállapított szöveg.
-[^243]: A 3. melléklet 44. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 6/2020. (I. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^244]: A 3. melléklet 45. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^245]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.
-[^246]: A 3. melléklet 47. pontját a 159/2019. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^237]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^238]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^239]: A 2. melléklet II. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (4) bekezdésével megállapított szöveg.
+[^240]: A 2. melléklet II. pont k) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (5) bekezdésével megállapított szöveg.
+[^241]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^242]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^243]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
+[^244]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be.
+[^245]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^246]: A 3. melléklet 8. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
+[^247]: A 3. melléklet 14. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^248]: Az 1. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^249]: Az 1. melléklet 39. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^250]: Az 1. melléklet 40. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^251]: Az 1. melléklet 41. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^252]: A 3. melléklet 43. pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § u) pontjával megállapított szöveg.
+[^253]: A 3. melléklet 44. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 6/2020. (I. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^254]: A 3. melléklet 45. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^255]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.
+[^256]: A 3. melléklet 47. pontját a 159/2019. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.

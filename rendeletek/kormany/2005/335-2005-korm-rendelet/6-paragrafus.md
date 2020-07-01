@@ -1,6 +1,6 @@
 ## 5. § Az iratkezelési szabályzatban foglaltak végrehajtásáért, a szervezeti, működési és ügyrendi szabályok, az alkalmazott informatikai eszközök és eljárások, valamint az irattári tervek és iratkezelési előírások folyamatos összhangjáért, az iratok szakszerű és biztonságos megőrzésére alkalmas irattár kialakításáért és működtetéséért, továbbá az iratkezeléshez szükséges egyéb tárgyi, technikai és személyi feltételek biztosításáért, felügyeletéért a közfeladatot ellátó szerv vezetője felelős.
 
-## 6. §[^20] A közfeladatot ellátó szervek iratkezelését úgy kell megszervezni, hogy:
+## 6. §[^23] A közfeladatot ellátó szervek iratkezelését úgy kell megszervezni, hogy:
 
 a) a szervhez érkezett, ott keletkező, illetve onnan továbbított irat azonosítható, fellelési helye, útja követhető, ellenőrizhető és visszakereshető legyen;
 
@@ -16,4 +16,4 @@ f) a rendszeres selejtezés elvégzésével az irattári iratanyag felesleges fe
 
 g) az ügyintézéshez, a döntések előkészítéséhez, a szervezet rendeltetésszerű működéséhez megfelelő támogatást biztosítson.
 
-[^20]: A 6. § a 196/2013. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 6. § a 196/2013. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
