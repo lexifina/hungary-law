@@ -42,6 +42,6 @@ g)
 
 (8) Az oktatási hivatal 67. § (3) bekezdés c), e) és f) pontja szerinti eljárásában első fokon hozott döntésével szemben – kormányrendeletben meghatározott hatósághoz – fellebbezésnek van helye.
 
-(9) A 67. § (3) bekezdés a) pontja szerinti eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(9)
 
 (10) A 76–77. § szerinti eljárásban nincs helye sommás eljárásnak.
