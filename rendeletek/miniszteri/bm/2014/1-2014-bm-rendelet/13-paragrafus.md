@@ -26,6 +26,7 @@ b) mely földrajzi területen
 
 javasolja a kötelező védőoltás elrendelését.
 
-(4) A rendészeti szakgimnáziumba vagy rendvédelmi szervhez történő jelentkezés esetén oltási könyv bemutatása szükséges.
+(4)[^11] A rendvédelmi technikumba vagy rendvédelmi szervhez történő jelentkezés esetén oltási könyv bemutatása szükséges.
 
 [^10]: A 9. alcím (13–14/A. §) a 19/2017. (VIII. 10.) BM rendelet 2. §-ával megállapított szöveg.
+[^11]: A 13. § (4) bekezdése a 18/2020. (VI. 30.) BM rendelet 8. §-a szerint módosított szöveg.

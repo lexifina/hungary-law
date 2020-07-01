@@ -1,4 +1,4 @@
-3. melléklet az 1/2014. (I. 10.) BM rendelethez[^20]
+3. melléklet az 1/2014. (I. 10.) BM rendelethez[^21]
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szervnél rendszeresített azon szolgálati beosztások, illetve azon szolgálati feladatok, amelyek esetében a kötelező védőoltás elrendelésének van helye
 
@@ -402,4 +402,4 @@ Az idegenrendészeti szervnél
 
 rendszeresített szolgálati beosztások esetében hepatitis-A és hepatitis-B védőoltás elrendelésének van helye.
 
-[^20]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.
+[^21]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.

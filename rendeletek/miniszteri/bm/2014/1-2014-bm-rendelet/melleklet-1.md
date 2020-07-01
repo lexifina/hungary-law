@@ -38,6 +38,6 @@ A közegészségügyi szakképesítésű személyek és a közegészségügyi fe
 
 | 10. | Alkotmányvédelmi Hivatal | közegészségügyi felügyelő | szakirányú felsőfokú | 1 | teljes vagy rész |
 
-| 11.[^19] | Országos Idegenrendészeti Főigazgatóság | közegészségügyi felügyelő | szakirányú felsőfokú | 1 | teljes vagy rész |
+| 11.[^20] | Országos Idegenrendészeti Főigazgatóság | közegészségügyi felügyelő | szakirányú felsőfokú | 1 | teljes vagy rész |
 
-[^19]: Az 1. melléklet 2. pontjában foglalt táblázat 11. sorát a 39/2019. (XI. 15.) BM rendelet 18. §-a iktatta be.
+[^20]: Az 1. melléklet 2. pontjában foglalt táblázat 11. sorát a 39/2019. (XI. 15.) BM rendelet 18. §-a iktatta be.
