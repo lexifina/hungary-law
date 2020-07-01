@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2020-03-04 | 6/2020. (III. 3.) AB határozat | 2017-90-00-00.6 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2017-90-00-00.7 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 2017-90-00-00.8 |
+| 2020-07-01 | 2017. évi XC. törvény | 2017-90-00-00.9 |
