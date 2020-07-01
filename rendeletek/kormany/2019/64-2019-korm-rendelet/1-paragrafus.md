@@ -8,4 +8,15 @@ b) a Beruházáshoz közvetlenül kapcsolódó – az (1) bekezdés szerinti lé
 
 (3) A Kormány a Beruházást kiemelt budapesti fejlesztéssé nyilvánítja. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
 
-(4) Az állam Beruházás előkészítésével összefüggő – a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvényben meghatározott – feladatait a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság látja el.
+(4)[^1] Az állam Beruházás előkészítésével összefüggő – a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvényben meghatározott – feladatait a BFK Budapest Fejlesztési Központ Nonprofit Zrt. 2020. június 30-ig látja el.
+
+(5)[^2] A (4) bekezdés szerinti feladatokat, valamint a Beruházás megvalósításával kapcsolatos feladatokat 2020. július 1. napjától a Beruházási Ügynökség látja el.
+
+(6)[^3] A Beruházási Ügynökség az (5) bekezdésből eredő átruházással összefüggésben a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: BFK Budapest Fejlesztési Központ Nonprofit Zrt.) részére megtéríti a Beruházás megvalósítása érdekében a BFK Budapest Fejlesztési Központ Nonprofit Zrt. által tervezésre és kivitelezésre kötött vállalkozási szerződés alapján már kifizetett, de a teljesítése során még el nem számolt előleg összegét. A megtérítés az (5) bekezdésben meghatározott határnapot követő 75 napon belül megkötött megállapodás alapján és elszámolás mellett történik.
+
+(7)[^4] A BFK Budapest Fejlesztési Központ Nonprofit Zrt. az (5) bekezdésből eredő átruházással összefüggésben felmerült, a Miniszterelnökség részére teljesítendő visszafizetési kötelezettségére az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 98. § (6) bekezdését kell alkalmazni.
+
+[^1]: Az 1. § (4) bekezdése a 322/2020. (VII. 1.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § (5) bekezdését a 322/2020. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (6) bekezdését a 322/2020. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (7) bekezdését a 322/2020. (VII. 1.) Korm. rendelet 1. §-a iktatta be.

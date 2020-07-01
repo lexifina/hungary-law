@@ -1,7 +1,3 @@
-## 1/A. §[^1] A Beruházással összefüggő építési, felújítási, átalakítási, bővítési, helyreállítási, korszerűsítési, fejlesztési, bontási és beszerzési tevékenység közfeladatnak minősül.
-
 2. § (1) A Beruházás előkészítésével és megvalósításával összefüggő közbeszerzési eljárások, valamint az azokkal összefüggő szerződések megkötése és módosítása esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló kormányrendelet előírásait nem kell alkalmazni.
 
 (2) A Beruházás előkészítésére és megvalósítására irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
-
-[^1]: Az 1/A. §-t a 212/2019. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
