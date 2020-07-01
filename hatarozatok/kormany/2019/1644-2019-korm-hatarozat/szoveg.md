@@ -14,17 +14,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a 2021. és 2022. évi központi költségvetés tervezése során
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. pont szerinti beszerzés érdekében a központi költségvetés Innovációs és Technológiai Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési Ágazati Programok alcím terhére
-
-a) a 2021. évre 55 858 910 112 forint,
-
-b) a 2022. évre 50 762 081 642 forint
-
-összegben éven túli kötelezettséget vállaljon;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. pont szerinti beszerzés megvalósítása érdekében kössön támogatási szerződést a MÁV-START Zrt.-vel 106 567 707 900 forint értékben a 2. pont szerinti forrás terhére oly módon, hogy a támogatási szerződésben rendelkezni kell arról, hogy hazai költségvetési forrás terhére történő kifizetésre csak abban az esetben kerülhet sor, ha a 2021–2027 közötti európai uniós programozási időszakban az európai uniós finanszírozás nem biztosított;
 
@@ -43,3 +33,5 @@ Határidő: a 2021–2027 közötti európai uniós programozási időszak közl
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
+
+[^1]: A határozat 3. pontját az 1357/2020. (VII. 1.) Korm. határozat 5. pontja visszavonta.
