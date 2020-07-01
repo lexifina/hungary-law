@@ -8,4 +8,4 @@ b) 12/D. § (1) bekezdésében az „A földkiadás lezárását követően a sz
 
 szöveg lép.
 
-(2) Hatályát veszti az Fkbt. 1–8. §-a, 9/A–12. §-a, 12/B. §-a, 12/C. §-a, 14. és 15. §-a.
+(2)

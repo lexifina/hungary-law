@@ -11,11 +11,3 @@ d) 17. § (2) és (3) bekezdése;
 e) 20. §-a;
 
 f) 54. §-a.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

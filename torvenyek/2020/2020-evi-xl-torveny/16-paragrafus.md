@@ -12,4 +12,4 @@
 
 „(2a) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy rendeletben határozza meg a 4. § (2), (3) és (3a) bekezdése szerinti földrészleteket.”
 
-(4) Hatályát veszti a Vszt.
+(4)
