@@ -12,6 +12,8 @@ B
 
 |
 
+1.
+
 |
 
 ÁGAZAT
@@ -22,7 +24,7 @@ ALÁGAZAT
 
 |
 
-1
+2.
 
 |
 
@@ -34,7 +36,9 @@ villamosenergia-rendszer létesítményei (kivéve az atomerőmű nukleáris biz
 
 |
 
-2
+3.
+
+|
 
 |
 
@@ -42,7 +46,9 @@ kőolajipar
 
 |
 
-3
+4.
+
+|
 
 |
 
@@ -50,7 +56,17 @@ földgázipar
 
 |
 
-4
+5.
+
+|
+
+|
+
+távhő
+
+|
+
+6.
 
 |
 
@@ -62,7 +78,9 @@ közúti közlekedés
 
 |
 
-5
+7.
+
+|
 
 |
 
@@ -70,7 +88,9 @@ vasúti közlekedés
 
 |
 
-6
+8.
+
+|
 
 |
 
@@ -78,7 +98,9 @@ légi közlekedés
 
 |
 
-7
+9.
+
+|
 
 |
 
@@ -86,8 +108,268 @@ vízi közlekedés
 
 |
 
-8
+10.
+
+|
 
 |
 
 logisztikai központok
+
+|
+
+11.
+
+|
+
+Agrárgazdaság
+
+|
+
+mezőgazdaság
+
+|
+
+12.
+
+|
+
+|
+
+élelmiszeripar
+
+|
+
+13.
+
+|
+
+|
+
+elosztó hálózatok
+
+|
+
+14.
+
+|
+
+Egészségügy
+
+|
+
+aktív fekvőbeteg-ellátás, és a működtetéséhez szükséges szolgáltatások
+
+|
+
+15.
+
+|
+
+|
+
+mentésirányítás
+
+|
+
+16.
+
+|
+
+|
+
+egészségügyi tartalékok és vérkészletek
+
+|
+
+17.
+
+|
+
+|
+
+magas biztonsági szintű biológiai laboratóriumok
+
+|
+
+18.
+
+|
+
+|
+
+gyógyszer-nagykereskedelem
+
+|
+
+19.
+
+|
+
+Társadalombiztosítás
+
+|
+
+társadalombiztosítási ellátások igénybevételéhez kapcsolódó informatikai rendszerek és nyilvántartások
+
+|
+
+20.
+
+|
+
+Pénzügy
+
+|
+
+pénzügyi eszközök kereskedelmi, fizetési, valamint klíring- és elszámolási infrastruktúrái és rendszerei
+
+|
+
+21.
+
+|
+
+|
+
+bank- és hitelintézeti biztonság
+
+|
+
+22.
+
+|
+
+|
+
+készpénzellátás
+
+|
+
+23.
+
+|
+
+Infokommunikációs technológiák
+
+|
+
+internet-hozzáférési szolgáltatás és internet-infrastruktúra
+
+|
+
+24.
+
+|
+
+|
+
+elektronikus
+
+hírközlési szolgáltatások, elektronikus hírközlő hálózatok
+
+|
+
+25.
+
+|
+
+|
+
+műsorszórás
+
+|
+
+26.
+
+|
+
+|
+
+postai szolgáltatások
+
+|
+
+27.
+
+|
+
+|
+
+kormányzati elektronikus információs rendszerek
+
+|
+
+28.
+
+|
+
+Víz
+
+|
+
+ivóvíz-szolgáltatás
+
+|
+
+29.
+
+|
+
+|
+
+felszíni és felszín alatti vizek minőségének ellenőrzése
+
+|
+
+30.
+
+|
+
+|
+
+szennyvízelvezetés és -tisztítás
+
+|
+
+31.
+
+|
+
+|
+
+vízbázisok védelme
+
+|
+
+32.
+
+|
+
+|
+
+árvízi védművek, gátak
+
+|
+
+33.
+
+|
+
+Honvédelem
+
+|
+
+honvédelmi rendszerek és létesítmények
+
+|
+
+34.
+
+|
+
+Közbiztonság-védelem
+
+|
+
+rendvédelmi szervek infrastruktúrái

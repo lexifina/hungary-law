@@ -1,0 +1,1 @@
+9/A. § A kijelölt létfontosságú rendszerelemeket érintő karbantartások, javítások és rendkívüli események kezelésében, elhárításában közreműködő szervezetek, illetve további résztevők kötelesek biztosítani, hogy a rendszerelem működése a lehető legrövidebb ideig legyen korlátozott.

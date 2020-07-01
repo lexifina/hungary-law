@@ -2,7 +2,7 @@
 
 3. § (1) Európai létfontosságú rendszerelemmé történő kijelölési eljárást az ágazati kijelölő hatóság hivatalból folytatja le
 
-a) az üzemeltető által lefolytatott azonosítási eljárás alapján elkészített azonosítási jelentés benyújtását követően,
+a) az üzemeltető által lefolytatott azonosítási vizsgálat alapján elkészített azonosítási jelentés benyújtását követően,
 
 b) EGT-állam kezdeményezése alapján, vagy
 
@@ -14,7 +14,7 @@ a) hivatalból,
 
 b) EGT-állam kezdeményezése alapján hivatalból, vagy
 
-c) az üzemeltető kérelme alapján
+c) az üzemeltető nyilatkozata alapján
 
 dönthet.
 
