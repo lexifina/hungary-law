@@ -2,4 +2,4 @@
 
 34. § (1)
 
-(2)
+(2) Hatályát veszti az Mttv. 149. § (7) bekezdése.
