@@ -8,9 +8,17 @@ c) határozattal jóváhagyja a fegyveres biztonsági őrség őrségutasítás�
 
 d) hatósági ellenőrzés keretében ellenőrzi a fegyveres biztonsági őrök szolgálatellátását;
 
-e) kezdeményezi az őrszolgálat ideiglenes korlátozását vagy megerősítését;
+e) megerősített szolgálatot, riadót rendelhet el;
 
-f) ellenőrzi a fegyveres biztonsági őr alkalmassága elbírálásához szükséges adatokat.
+f) ellenőrzi a fegyveres biztonsági őr alkalmassága elbírálásához szükséges adatokat;
+
+g) jog- és szakszerűség szempontjából kivizsgálja a fegyveres biztonsági őr személyi szabadságot korlátozó intézkedését és kényszerítő eszköz alkalmazását;
+
+h) különleges jogrendi időszakban kezdeményezheti a rendészetért felelős miniszternél a fegyveres biztonsági őrség feletti parancsnokság rendőrség általi átvételét;
+
+i) ellenőrzi, figyelemmel kíséri és szakmai felügyeletet gyakorol a fegyveres biztonsági őrség képzési, kiképzési, továbbképzési tevékenysége felett, végrehajtja a fegyveres biztonsági őrök vizsgáztatását;
+
+j) a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére kiadja a fegyveres biztonsági őr szolgálati jelvényét.
 
 (2) A fegyveres biztonsági őrség őrségutasítása tartalmazza az 1. § (3) bekezdése szerinti határozatban vagy a fegyveres biztonsági őrséget működtető szervezet vezetője által meghatározott objektum, létesítmény, szállítmány vagy tevékenység őrzésének, védelmének végrehajtására vonatkozó szabályokat, továbbá a szolgálat ellátásának módját. A fegyveres biztonsági őrség őrutasítása tartalmazza az őr őrhelyére vonatkozó őrzési és védelmi feladatokat.
 
@@ -20,7 +28,7 @@ a) az 1. § (3) bekezdése szerinti, végleges határozatban elrendelt fegyveres
 
 b) a fegyveres biztonsági őrséget a kötelezett engedély nélkül megszüntette,
 
-c) a fegyveres biztonsági őrzés nem felel meg a jóváhagyott őrségutasításban foglaltaknak,
+c) a fegyveres biztonsági őrzés nem felel meg az 1. § (3) bekezdése szerinti határozatban, a jóváhagyott őrutasításban vagy a jóváhagyott őrségutasításban foglaltaknak,
 
 határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott esetben – a fegyveres biztonsági őrséget működtető szervezetet a fegyveres biztonsági őrséggel kapcsolatos feladatainak teljesítésére, a hiányosságok megszüntetésére.
 

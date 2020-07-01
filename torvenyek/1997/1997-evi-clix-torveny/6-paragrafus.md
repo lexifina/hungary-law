@@ -1,5 +1,7 @@
 6. § (1) A fegyveres biztonsági őr a fegyveres biztonsági őrség – szolgálatban közfeladatot ellátó, szolgálati fegyver viselésére jogosult – tagja. A fegyveres biztonsági őrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott hatósági szolgálati igazolvány igazolja.
 
+(1a) A szolgálati igazolvány kiállításáig a fegyveres biztonsági őr e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által rendszeresített és a szolgálati igazolvány kiállításának kezdeményezését alátámasztó, a rendőrség által hitelesített igénylőlap igazolja.
+
 (2) Fegyveres biztonsági őr az a magyar állampolgár, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki tizennyolcadik életévét betöltötte, fegyver viselésére alkalmas, és rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel. A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
 
 (3) Nem lehet fegyveres biztonsági őr,

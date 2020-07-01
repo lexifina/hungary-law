@@ -21,3 +21,5 @@ a) jogszabályban meghatározott esetben helyszíni bírságot kiszabni,
 b) természeti terület vagy érték károsításának megelőzése, illetve megakadályozása érdekében természeti területet – a természetvédelmi hatóság egyidejű értesítése mellett, a károsítás veszélyének elhárításáig ideiglenesen, vagy a természetvédelmi hatóság közlekedést vagy tartózkodást korlátozó vagy megtiltó határozata alapján – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon lezárni,
 
 c) intézkedése végrehajtásának helyszíni biztosítása érdekében természeti területet – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon – lezárni.
+
+(3) A természetvédelmi őr jogosult a védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan, továbbá a faj számára alkalmatlan élőhelyen fellelt egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartására, gondozására, belföldi szállítására, amely az egyed mentőközpontba vagy természetes élőhelyére való eljuttatásáig tart.

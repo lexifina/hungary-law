@@ -6,7 +6,7 @@
 
 (2)
 
-(3) A törvény I. fejezetének hatálybalépésekor alkalmazott fegyveres biztonsági őr további alkalmazhatóságának alapfeltétele, hogy ismerje e törvényt, a végrehajtására kiadott rendelkezéseket és a szolgálati helye őrszolgálati okmányait, ezekből eredményes vizsgát tegyen. A továbbképzést és vizsgáztatást e törvény kihirdetése után az I. fejezet hatálybalépéséig kell végrehajtani.
+(3) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Módtv.) hatálybalépésekor foglalkoztatási jogviszonyban lévő őr további alkalmazhatóságának alapfeltétele, hogy legkésőbb 2021. december 31-ig e törvény, a végrehajtására kiadott rendeletek és a szolgálati helye őrszolgálati okmányainak ismeretéből eredményes vizsgát tegyen. A Módtv. hatálybalépését követően a jogviszony létesítésekor az alkalmazhatóság feltétele a 7. § (1) bekezdésében meghatározottak mellett, az e törvény, a végrehajtására kiadott rendeletek, továbbá a szolgálati hely őrszolgálati okmányainak ismeretéből tett eredményes vizsga.
 
 (4) Felhatalmazást kap a Kormány, hogy az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrség tekintetében a fizikai állóképességre és az iskolai végzettségre vonatkozó követelményeket meghatározza.
 

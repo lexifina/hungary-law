@@ -1,3 +1,7 @@
 2. § (1) Az 1. § (3) bekezdése szerinti határozat kötelezettje (a továbbiakban: kötelezett) a fegyveres biztonsági őrséget saját szervezetében, többségi befolyást biztosító tulajdonosi részvételével működő gazdálkodó szervezet vagy az irányítása alá tartozó költségvetési szerv útján köteles létrehozni, működtetni, fenntartani, vagy az őrzést más fegyveres biztonsági őrséggel rendelkező szerv útján biztosítani. A fegyveres biztonsági őrség költségeit a kötelezett viseli.
 
+(1a) Az atomenergia alkalmazása körében fegyveres biztonsági őrséggel védendő nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint a vonatkozó jogszabály szerinti I. és II. kategóriába tartozó nukleáris anyag őrzésére a kötelezett a fegyveres biztonsági őrséggel történő őrzést kizárólag saját szervezetében vagy többségi befolyást biztosító tulajdonosi részvételével működő gazdálkodó szervezet vagy az irányítása alá tartozó költségvetési szerv útján biztosíthatja.
+
+(1b) A kötelezett a védendő nukleáris létesítmény őrzött üzemi területén kívül, de még a tulajdonában lévő terület határáig különleges jogrendben, emelt szintű fizikai védelem elrendelésénél, vagy a létesítmény közvetlen fenyegetettsége esetén fokozott ellenőrzést vezethet be, valamint korlátozhatja a gépjárműforgalmat.
+
 (2) A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet biztosítja a szervezetében létrehozott fegyveres biztonsági őrség működésének szervezeti, személyi, anyagi-technikai és pénzügyi feltételeit, fegyver- és lőszerellátását.
