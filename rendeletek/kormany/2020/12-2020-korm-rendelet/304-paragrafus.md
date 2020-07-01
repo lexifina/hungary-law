@@ -8,4 +8,6 @@
 
 3. vizsgálja a feladatkörével kapcsolatos és az azzal összefüggő jogi szabályozás hatályosulásának gyakorlati tapasztalatait, ez alapján javaslatot tesz a szakképzésért felelős miniszternek jogszabályok előkészítésére,
 
-4. ellátja a szakképzéssel összefüggő ügyfélszolgálati és tájékoztatási feladatokat.
+4.[^58]
+
+[^58]: A 304. § 4. pontját a 319/2020. (VII. 1.) Korm. rendelet 26. § i) pontja hatályon kívül helyezte.

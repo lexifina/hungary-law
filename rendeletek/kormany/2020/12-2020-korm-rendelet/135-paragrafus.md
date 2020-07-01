@@ -1,8 +1,8 @@
-135. § (1) Az oktató – a szakképző intézmény szervezeti és működési szabályzatában meghatározottak szerint – a tanévre vetített munkaidőkerete nyolcvan százalékát (a továbbiakban: kötött munkaidő) az igazgató által meghatározott feladatok ellátásával köteles tölteni, amelybe bele kell számítani
+135. § (1)[^43] Az oktató – a szakképző intézmény szervezeti és működési szabályzatában meghatározottak szerint – a tanítási évre vetített munkaidőkerete nyolcvan százalékát (a továbbiakban: kötött munkaidő) az igazgató által meghatározott feladatok ellátásával köteles tölteni, amelybe bele kell számítani
 
-a) a kötött munkaidő hetven százalékában, osztályfőnök esetében hatvanöt százalékában elrendelhető kötelező foglalkozások,
+a)[^44] a kötött munkaidő hetven százalékában, osztályfőnök esetében hatvanöt százalékában a foglalkozások és
 
-b) a kötelező foglalkozásnak nem minősülő, a szakmai oktatással összefüggő egyéb feladatok
+b)[^45] a kötelező foglalkozásnak nem minősülő, a szakmai oktatással összefüggésben elrendelhető egyéb feladatok
 
 időtartamát. A munkaidő fennmaradó részében az oktató munkaideje beosztását vagy felhasználását önmaga határozza meg.
 
@@ -10,4 +10,9 @@ időtartamát. A munkaidő fennmaradó részében az oktató munkaideje beosztá
 
 (3) A szakképzési centrum a fejlesztő pedagógiai ellátást, az egészségügyi és pedagógiai célú habilitációs, rehabilitációs foglalkozást, az iskolapszichológusi feladatot, illetve a könyvtárostanári tevékenységet szakképzési centrumonként szolgáltatásvásárlás útján is megszervezheti.
 
-(4) Az intézményvezető a heti teljes munkaidőnek foglalkozásokkal le nem kötött részében látja el a magasabb vezetői, vezetői megbízással kapcsolatos feladatokat. Az intézményvezető heti foglalkozásainak számát kettő-nyolc foglalkozás között a fenntartó, szakképzési centrum részeként működő szakképző intézmény esetében a főigazgató határozza meg.
+(4)[^46]
+
+[^43]: A 135. § (1) bekezdés nyitó szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 21. pontja szerint módosított szöveg.
+[^44]: A 135. § (1) bekezdés a) pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 22. pontja szerint módosított szöveg.
+[^45]: A 135. § (1) bekezdés b) pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 23. pontja szerint módosított szöveg.
+[^46]: A 135. § (4) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 26. § f) pontja hatályon kívül helyezte.

@@ -4,8 +4,11 @@ a) aki az ugyanazon támogatótól korábban kapott költségvetési támogatás
 
 b) akinek a támogatási kérelem benyújtásakor
 
-ba) a Nemzeti Foglalkoztatási Alap képzési alaprész javára elszámolandó lejárt esedékességű kötelezettsége áll fenn, vagy
+ba)[^72] a Nemzeti Foglalkoztatási Alap képzési alaprész javára elszámolandó lejárt esedékességű és nem teljesített kötelezettsége áll fenn, vagy
 
 bb) esedékessé vált és meg nem fizetett adótartozása – ide nem értve az önkormányzati adóhatóság hatáskörébe tartozó adókat –, valamint járulék-, illeték- vagy vámtartozása van.
 
-(2) A Nemzeti Foglalkoztatási Alap képzési alaprésze terhére nyújtott költségvetési támogatás kedvezményezettjének a költségvetési támogatás felhasználásával összefüggésben felmerülő működési költségei finanszírozására a költségvetési támogatás legfeljebb öt százaléka használható fel.
+(2)[^73] A Nemzeti Foglalkoztatási Alap képzési alaprésze terhére a 335. § 1. pont b) és c) alpontja, 2. pont b)–d) és f) alpontja, valamint 2. és 3. pontja alapján nyújtott költségvetési támogatás kedvezményezettjének a költségvetési támogatás felhasználásával összefüggésben felmerülő működtetési költségei finanszírozására a költségvetési támogatás legfeljebb öt százaléka használható fel.
+
+[^72]: A 338. § (1) bekezdés b) pont ba) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 46. pontja szerint módosított szöveg.
+[^73]: A 338. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 48. pontja szerint módosított szöveg.

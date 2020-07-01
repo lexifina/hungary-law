@@ -16,11 +16,11 @@ c) a szakképző intézményben tanulók korai iskolaelhagyásának csökkentés
 
 2. a szakképzés működtetése keretében
 
-a) az állami szakképző intézmény központi támogatással nem fedezett működési költségére,
+a)[^63] az állami szakképző intézmény és a szakképzési államigazgatási szerv központi támogatással nem fedezett működési költségére,
 
-b) az állami szakképző intézmények és a Nemzeti Szakképzési és Felnőttképzési Hivatal beruházási és felújítási célú támogatására,
+b)[^64] az állami szakképző intézmény, a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság beruházási és felújítási célú támogatására,
 
-c) a Nemzeti Szakképzési és Felnőttképzési Hivatal szakképzéssel összefüggő feladata ellátására,
+c)[^65] a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság szakképzéssel összefüggő feladata ellátására,
 
 d) a gazdasági kamarának a gazdasági kamarákról szóló törvényben és az Szkt.-ben meghatározott feladata, továbbá a szakképzésért felelős miniszterrel kötött megállapodásban foglalt szakképzési feladatok ellátására,
 
@@ -47,3 +47,7 @@ f) szakképzési célú uniós finanszírozású program elő- és társfinansz�
 5. a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. § (4) bekezdésében meghatározott díjak, kiadások és költségek finanszírozására
 
 használható fel.
+
+[^63]: A 335. § 2. pont a) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 37. pontja szerint módosított szöveg.
+[^64]: A 335. § 2. pont b) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 38. pontja szerint módosított szöveg.
+[^65]: A 335. § 2. pont c) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 39. pontja szerint módosított szöveg.

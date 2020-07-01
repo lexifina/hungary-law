@@ -1,23 +1,30 @@
-336. § (1) A Nemzeti Foglalkoztatási Alap képzési alaprészéből – erre irányuló támogatási kérelem alapján – a képzőközpont részére támogatás nyújtható
+336. § (1)[^66] A Nemzeti Foglalkoztatási Alap képzési alaprészéből – erre irányuló támogatási kérelem alapján – támogatás nyújtható
 
-a) szakirányú oktatási célt szolgáló tanműhely létesítéséhez, illetve
+a) szakirányú oktatási célt szolgáló tanműhely létesítéséhez, ha az képzőközpontként való működésre irányuló szándékhoz kapcsolódik, illetve
 
-b) tanműhelyben folytatott szakirányú oktatás tárgyi feltételeinek fejlesztéséhez.
+b) képzőközpont szakirányú oktatási célt szolgáló meglévő tanműhelyében folytatott szakirányú oktatás tárgyi feltételeinek fejlesztéséhez.
 
 (2) Az (1) bekezdés szerinti támogatás (a továbbiakban: tanműhely-létesítési és -fejlesztési támogatás) iránti támogatási kérelmet a szakképzésért felelős miniszter által vezetett minisztérium honlapján közzétett adattartalomnak megfelelően kell benyújtani. A szakképzésért felelős miniszter a támogatási kérelem benyújtását követő hatvan napon belül dönt a támogatás odaítéléséről.
 
-(3) A tanműhely-létesítési és -fejlesztési támogatás mértékét az alapján kell meghatározni, hogy
+(3)[^67] A tanműhely-létesítési és -fejlesztési támogatás mértékét az alapján kell meghatározni, hogy
 
 a) a beruházás milyen mértékben járul hozzá a szakirányú oktatásban alkalmazott technológia modernizálásához, innovatív eszközök alkalmazásához,
 
-b) a képzőközpont a szakképzési munkaszerződés alapján foglalkoztatott tanulók, illetve képzésben részt vevők növelésére vonatkozóan mekkora létszámot vállalt, amelyet legalább három tanév átlagában fenntart,
+b) a képzőközpont a szakképzési munkaszerződés alapján foglalkoztatott tanulók, illetve képzésben részt vevők létszámának növelésére vonatkozóan mekkora létszámot vállalt, amelyet legalább három tanév átlagában fenntart,
 
-c) a beruházással érintett tanműhely társadalmi-gazdasági és infrastrukturális szempontból kedvezményezett településen van,
+c) a beruházással érintett tanműhely társadalmi-gazdasági és infrastrukturális szempontból kedvezményezett településen van-e,
 
 d) a beruházás elősegíti-e a képzőközpont vállalati kapcsolatainak, magyarországi jelenlétének erősítését vagy terjeszkedését
 
-azzal, hogy a szakképzési munkaszerződés alapján foglalkoztatott tanulónként, illetve képzésben részt vevőnként legfeljebb tízezer eurónak megfelelő forintösszeg és a támogatás mértéke nem haladhatja meg kedvezményezettenként a két és félmillió eurónak megfelelő forintösszeget.
+azzal, hogy a támogatás mértéke szakképzési munkaszerződés alapján foglalkoztatott tanulónként, illetve képzésben részt vevőnként a tízezer eurónak megfelelő forintösszeget, kedvezményezettenként a két és félmillió eurónak megfelelő forintösszeget nem haladhatja meg.
 
 (4) A tanműhely-létesítési és -fejlesztési támogatás azonos elszámolható költségek esetén nem halmozható más támogatással.
 
-(5) A tanműhely-létesítési és -fejlesztési támogatáshoz kapcsolódó beruházási vagy fejlesztési tevékenység – kivéve a beruházáshoz kapcsolódó kiviteli terv elkészítése – megkezdésének napja nem lehet korábbi a támogatói okirat kiadásának napjánál.
+(5)[^68] A tanműhely-létesítési és -fejlesztési támogatáshoz kapcsolódó beruházási vagy fejlesztési tevékenység – kivéve a beruházáshoz kapcsolódó kiviteli terv elkészítése – megkezdésének napja nem lehet korábbi a támogatási szerződés megkötésének, illetve a támogatói okirat kiadásának napjánál.
+
+(6)[^69] A fenntartási időszak alatt a tárgyi eszköz termelési célra történő használatából származó bevételt a kedvezményezett köteles az általa folytatott szakirányú oktatás céljaira fordítani a támogató által meghatározott módon.
+
+[^66]: A 336. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^67]: A 336. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^68]: A 336. § (5) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 41. pontja szerint módosított szöveg.
+[^69]: A 336. § (6) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 18. § (3) bekezdése iktatta be.

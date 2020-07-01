@@ -10,6 +10,9 @@ c) köznevelési igazgatási, szakképzési igazgatási vagy közigazgatási tap
 
 rendelkezik.
 
-(2) A főigazgató megbízására és megbízásának visszavonására a szakképzésért felelős miniszter jogosult. A főigazgató felett a munkáltatói jogokat – a főigazgatói megbízás és annak visszavonása kivételével – a szakképzési intézményfenntartó központ vezetője gyakorolja.
+(2)[^21] A főigazgató megbízására és megbízásának visszavonására a szakképzésért felelős miniszter jogosult. A főigazgató felett a munkáltatói jogkört – a főigazgatói megbízás és annak visszavonása kivételével – a szakképzési intézményfenntartó központ vezetője gyakorolja.
 
-(3) A főigazgató-helyettes megbízásának feltételeire a főigazgatóra vonatkozó szabályokat kell alkalmazni azzal, hogy a főigazgató-helyettes megbízására és megbízásának visszavonására és felette a munkáltatói jogok gyakorlására a főigazgató jogosult.
+(3)[^22] A főigazgató-helyettes megbízásának feltételeire a főigazgatóra vonatkozó szabályokat kell alkalmazni azzal, hogy a főigazgató-helyettes megbízására és megbízásának visszavonására és felette a munkáltatói jogkör gyakorlására a főigazgató jogosult.
+
+[^21]: A 80. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 10. pontja szerint módosított szöveg.
+[^22]: A 80. § (3) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 11. pontja szerint módosított szöveg.

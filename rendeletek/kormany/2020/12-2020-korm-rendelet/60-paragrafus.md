@@ -1,6 +1,6 @@
 ## 20. Az Szkt. 22. § (3) bekezdéséhez
 
-60. § A nyilvántartásba vételhez csatolni kell
+60. §[^9] A nyilvántartásba vételi kérelemhez csatolni kell
 
 a) a szakképző intézmény alapító okiratát,
 
@@ -9,3 +9,5 @@ b) – ha a szakképző intézmény a szakképzési alapfeladatot nem jogszabál
 c) a szakképző intézmény törvényes képviseletére jogosult személy nevét és képviseletének jogosultságát igazoló dokumentumot, valamint
 
 d) a szakképző intézmény állandó székhelyének meglétét igazoló okiratot.
+
+[^9]: A 60. § nyitó szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 3. pontja szerint módosított szöveg.

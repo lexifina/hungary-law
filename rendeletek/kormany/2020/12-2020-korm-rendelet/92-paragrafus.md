@@ -44,4 +44,8 @@ bb) a szakképzésért felelős miniszter megkeresése alapján – a közérdek
 
 c) a fenntartói megállapodás módosítására és megszüntetésére vonatkozó feltételeket.
 
+(6a)[^32] A fenntartói megállapodást úgy kell megkötni, hogy a szakképző intézményenként, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményenként meghatározott képzési szerkezet a fenntartói megállapodás hatálya alatt egyik tanévben se haladja meg a középtávú képzési szerkezetre vonatkozó javaslat országos szintű kumulált mutatóit.
+
 (7) A középtávú képzési szerkezetre vonatkozó javaslat, illetve a fenntartói megállapodásnak az (5) bekezdésben meghatározott határidőig történő megkötése hiányában a középtávú képzési szerkezetet az érintett megyére, illetve a fővárosra vonatkozóan a szakképzésért felelős miniszter közigazgatási hatósági eljárásban hozott határozatban állapítja meg.
+
+[^32]: A 92. § (6a) bekezdését a 319/2020. (VII. 1.) Korm. rendelet 9. §-a iktatta be.

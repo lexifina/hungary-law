@@ -8,7 +8,7 @@
 
 1. képviseli a szakképző intézményt,
 
-2. – a szakképzési centrum részeként működő szakképző intézmény esetében az e rendeletben meghatározott kivétellel – gyakorolja a munkáltatói jogokat a szakképző intézmény alkalmazottai felett,
+2.[^39] – a szakképzési centrum részeként működő szakképző intézmény esetében az e rendeletben meghatározott kivétellel – munkáltatói jogkört gyakorol a szakképző intézmény alkalmazottai felett,
 
 3. dönt a szakképző intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés vagy más szabályzat nem utal más személy vagy testület hatáskörébe, ennek keretében kiadmányozási jogot gyakorol a szakképző intézmény által a tanulói jogviszonnyal, a képzési jogviszonnyal, a törvényes képviselőkkel való kapcsolattartással összefüggésben a feladatkörében hozott döntések tekintetében.
 
@@ -75,3 +75,5 @@
 (4) Az igazgató szakmai ellenőrzést indíthat a szakképző intézményben végzett oktatói munka színvonalának külső szakértővel történő értékelése céljából.
 
 (5) Az igazgató munkáját az oktatói testület és a képzési tanács a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli.
+
+[^39]: A 124. § (1) bekezdés 2. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 18. pontja szerint módosított szöveg.

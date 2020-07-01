@@ -1,1 +1,0 @@
-349. § A szakképzési államigazgatási szerv országos és megyei szintű programnaptárt vezet és tesz ingyenesen elérhetővé a pályaorientációs szolgáltatások keretében nyújtott szolgáltatásokról, azok időpontjáról, megszervezésének helyéről és tartalmáról.

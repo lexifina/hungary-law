@@ -6,13 +6,13 @@
 
 a) a tananyagegységeket, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt időkeretet,
 
-b) az egyes tananyagegységek
+b)[^5] az egyes tananyagegységek
 
-ba) évfolyamonkénti megoszlását, tagolását,
+ba) évfolyamonkénti ajánlott megoszlását,
 
-bb) az oktató képesítési követelményeit,
+bb) oktatójának képesítési követelményeit és
 
-bc) az alkalmazott képzési módszereket,
+bc) alkalmazott képzési módszereit,
 
 c) a végrehajtásához szükséges személyi és tárgyi feltételeket, valamint az oktatáshoz kapcsolódó egyéb speciális feltételeket és ezek biztosításának módját és
 
@@ -27,3 +27,5 @@ b) a szakképző iskolában a kötelező foglalkozások megtartásához a kilenc
 c) a technikumban a kilencedik–tizenkettedik évfolyamon a kötelező foglalkozások megtartásához együttesen rendelkezésre álló időkeret legalább hatvan százaléka a közismereti kerettantervben meghatározottak átadásához álljon rendelkezésre.
 
 (4) A programtanterv kidolgozása során biztosítani kell, hogy a programtanterv tartalmazzon a szakképző intézmény által a helyi gazdasági környezet egyedi elvárásaihoz igazodó szakmai célokra szabadon felhasználható időkeretet.
+
+[^5]: A 13. § (2) bekezdés b) pontja a 319/2020. (VII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -17,13 +17,3 @@
 8. az osztályok számát és az egyes osztályokban a tanulók létszámát,
 
 9. a tanulók, illetve a képzésben részt vevő személyek le- és kimaradásával, évfolyamismétlésével kapcsolatos adatokat,
-
-10. az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsga tervezett idejét,
-
-11. – évenként feltüntetve – az érettségi vizsga átlageredményeit,
-
-12. az egyéb foglalkozás igénybevételének lehetőségét.
-
-(2) A szakképző intézmény a honlapján – szakképzési centrum részeként működő szakképző intézmény esetén a szakképzési centrum honlapján – közzéteszi a 343. § (1) bekezdés a) pont aa), ae) alpontjában és az (1) bekezdésben meghatározott adatokat.
-
-(3) Az (1) és (2) bekezdésben meghatározott adatokat az október elsejei állapotnak megfelelően kell közzétenni és azokat szükség szerint, de legalább tanévenként egyszer, az OSAP-jelentés megküldését követő tizenöt napon belül felül kell vizsgálni.
