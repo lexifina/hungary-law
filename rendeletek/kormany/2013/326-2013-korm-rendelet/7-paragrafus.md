@@ -1,4 +1,4 @@
-## 3. [^34] A minősítő vizsga és a minősítési eljárás tartalma
+## 3. [^36] A minősítő vizsga és a minősítési eljárás tartalma
 
 7. § (1) A minősítő vizsga és a minősítési eljárás során a pedagóguskompetenciákhoz kapcsolódó indikátorok alapján minősítő bizottság értékeli a pedagógus tevékenységét.
 
@@ -12,21 +12,21 @@ c) a tanulás támogatása,
 
 d) a tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesülése, a hátrányos helyzetű, sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló többi gyermekkel, tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges megfelelő módszertani felkészültség,
 
-e)[^35] a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, esélyteremtés, nyitottság a különböző társadalmi-kulturális sokféleségre és a fenntarthatóság szempontjaira, integrációs tevékenység, osztályfőnöki tevékenység,
+e)[^37] a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, esélyteremtés, nyitottság a különböző társadalmi-kulturális sokféleségre és a fenntarthatóság szempontjaira, integrációs tevékenység, osztályfőnöki tevékenység,
 
 f) a pedagógiai folyamatok és a tanulók személyiségfejlődésének folyamatos értékelése, elemzése,
 
-g)[^36] a környezeti nevelésben mutatott jártasság, a fenntarthatóság értékrendjének hiteles képviselete és a környezettudatossághoz kapcsolódó attitűdök átadásának módja,
+g)[^38] a környezeti nevelésben mutatott jártasság, a fenntarthatóság értékrendjének hiteles képviselete és a környezettudatossághoz kapcsolódó attitűdök átadásának módja,
 
-h)[^37] kommunikáció és szakmai együttműködés, problémamegoldás, valamint
+h)[^39] kommunikáció és szakmai együttműködés, problémamegoldás, valamint
 
-i)[^38] elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
+i)[^40] elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
 
-(3)[^39] A pedagóguskompetenciák adott munkakörre vonatkozó értelmezését a pedagógiai szakszolgálati intézményben és a pedagógiai-szakmai szolgáltató intézményben pedagógus-munkakörben, pedagógiai szakértő, pedagógiai előadó munkakörben, továbbá a Gyvt. hatálya alá tartozó intézménynél foglalkoztatottakra az oktatásért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá és az Oktatási Hivatal (a továbbiakban: OH) közzéteszi a honlapján. Ezen munkakörök esetében a pedagóguskompetenciák értékelésekor a (2) bekezdésben felsorolt kompetenciák közül csak a munkakör ellátásával összefüggésben értelmezhetőket kell figyelembe venni.
+(3)[^41] A pedagóguskompetenciák adott munkakörre vonatkozó értelmezését a pedagógiai szakszolgálati intézményben és a pedagógiai-szakmai szolgáltató intézményben pedagógus-munkakörben, pedagógiai szakértő, pedagógiai előadó munkakörben, továbbá a Gyvt. hatálya alá tartozó intézménynél foglalkoztatottakra az oktatásért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá és az Oktatási Hivatal (a továbbiakban: OH) közzéteszi a honlapján. Ezen munkakörök esetében a pedagóguskompetenciák értékelésekor a (2) bekezdésben felsorolt kompetenciák közül csak a munkakör ellátásával összefüggésben értelmezhetőket kell figyelembe venni.
 
-[^34]: A 3. alcím (7–9/B. §) a 249/2015. (IX. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^35]: A 7. § (2) bekezdés e) pontja a 122/2018. (VII. 10.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^36]: A 7. § (2) bekezdés g) pontja a 122/2018. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^37]: A 7. § (2) bekezdés h) pontja a 122/2018. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^38]: A 7. § (2) bekezdés i) pontját a 122/2018. (VII. 10.) Korm. rendelet 21. §-a iktatta be.
-[^39]: A 7. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.
+[^36]: A 3. alcím (7–9/B. §) a 249/2015. (IX. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 7. § (2) bekezdés e) pontja a 122/2018. (VII. 10.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^38]: A 7. § (2) bekezdés g) pontja a 122/2018. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^39]: A 7. § (2) bekezdés h) pontja a 122/2018. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^40]: A 7. § (2) bekezdés i) pontját a 122/2018. (VII. 10.) Korm. rendelet 21. §-a iktatta be.
+[^41]: A 7. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.

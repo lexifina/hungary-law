@@ -1,4 +1,4 @@
-## Az óvoda és a szakképzési centrum kivételével a nevelési-oktatási intézményekben alkalmazott vezetők, valamint a gyakorlati oktatásvezetők kötelező létszáma
+## Az óvoda kivételével a nevelési-oktatási intézményekben alkalmazott vezetők kötelező létszáma
 
 |  | A | B | C |
 
@@ -18,34 +18,12 @@
 
 | 8 | intézményvezető-helyettes | 750-nél több gyermek, tanuló esetén | 3 |
 
-| 9 | tagintézmény-, intézményegységvezető- helyettes | intézményegységenként, tagintézményenként 250 gyermek, tanuló létszám alatt | – |
+| 9 | tagintézmény-, intézmény-egységvezető-helyettes | intézményegységenként, tagintézményenként 250 gyermek, tanuló létszám alatt | – |
 
-| 10 | tagintézmény-, intézményegységvezető- helyettes | intézményegységenként, tagintézményenként 250–750 gyermek, tanuló | 1 |
+| 10 | tagintézmény-, intézmény-egységvezető-helyettes | intézményegységenként, tagintézményenként 250–750 gyermek, tanuló | 1 |
 
-| 11 | tagintézmény-, intézményegységvezető- helyettes | intézményegységenként, tagintézményenként 750-nél több gyermek, tanuló | 2 |
+| 11 | tagintézmény-, intézmény-egységvezető-helyettes | intézményegységenként, tagintézményenként 750-nél több gyermek, tanuló | 2 |
 
-| 12 | gyakorlati oktatásvezető | állami fenntartású szakképző iskolában, 200-nál több tanuló | 1 |
+4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^272]
 
-| 13 | gyakorlati oktatásvezető | állami fenntartású szakképző iskola tagintézményében, tagintézményenként 200-nál több tanuló | 1 |
-
-## A szakképzési centrum tagintézményében alkalmazott vezetők, valamint a gyakorlati oktatásvezetők kötelező létszáma
-
-|  | A | B | C |
-
-| 1 | Magasabb vezetői, vezetői megbízás | Feltétel | Létszám |
-
-| 2 | intézményvezető | tagintézményenként | 1 |
-
-| 3 | intézményvezető-helyettes | tagintézményenként 50 tanuló létszám alatt | 0 |
-
-| 4 | intézményvezető-helyettes | tagintézményenként 50-250 tanuló | 1 |
-
-| 5 | intézményvezető-helyettes | tagintézményenként 251-750 tanuló | 2 |
-
-| 6 | intézményvezető-helyettes | tagintézményenként 750-nél több tanuló | 3 |
-
-| 7 | gyakorlati oktatásvezető | tagintézményenként 200-nál több tanuló | 1 |
-
-4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^260]
-
-[^260]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a, a 275/2019. (XI. 21.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^272]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a, a 275/2019. (XI. 21.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
