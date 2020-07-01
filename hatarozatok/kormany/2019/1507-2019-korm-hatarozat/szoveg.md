@@ -2,26 +2,17 @@ A Kormány
 
 1. egyetért azzal, hogy a 2019. évben Budapesten zajló World Urban Games sportesemény és a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges egyes létesítmények megvalósítását szolgáló kiemelten közérdekű beruházások helyszínének meghatározásáról szóló 63/2019. (III. 27.) Korm. rendelet 2. melléklet I. pontjában foglalt táblázat B:2 mezőjében meghatározott területen (a továbbiakban: beruházási terület) 2021. november 30-ig a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság sikeres megrendezéséhez szükséges műszaki tartalommal valósuljon meg az új budapesti multifunkcionális sport- és rendezvénycsarnok, beleértve a kapcsolódó területrendezési és közlekedésfejlesztési munkálatokat is (a továbbiakban együtt: Beruházás);
 
-2. egyetért azzal, hogy
-
-a) a Beruházás megvalósítását a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos irányítsa,
-
-b) a Beruházás megvalósító építtetője a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság legyen;
+2.[^1]
 
 3. úgy rendelkezik, hogy a Beruházás teljes költsége nem haladhatja meg a bruttó 101 544 852 000 forintot;
 
-4. egyetért azzal, hogy a Miniszterelnökséget vezető miniszter a Beruházás 1. pont szerinti megvalósítása érdekében – a 2019. évben teljesítendő kötelezettségvállaláson felül – az államháztartásról szóló 2011. évi CXCV. törvény szerinti éven túli kötelezettséget vállaljon, azzal, hogy a 2019–2022. évekre összesen vállalható kötelezettség a 3. pont szerinti összeget nem haladhatja meg;
+4.[^2]
 
-5. felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszterrel történő egyeztetést követően gondoskodjon a Beruházás 1. pont szerinti megvalósításával összefüggő feladatok finanszírozása érdekében – a 2020. évre tervezett 35 000 000 000 forint összegű központi költségvetési forráson felül – szükséges források biztosításáról a 2019. évi, illetve a 2021. és 2022. évi központi költségvetés XI. Miniszterelnökség fejezet javára;
+5.[^3]
 
-Felelős: pénzügyminiszter
+6.[^4]
 
-Miniszterelnökséget vezető miniszter
-
-Határidő: a 2019. évi forrás tekintetében a felmerülés ütemében, a 2021. és 2022. évi források tekintetében az adott évi központi költségvetés tervezése során
-
-6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás megvalósítása érdekében, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján tegye meg a szükséges intézkedéseket a beruházási terület 2. pont b) alpontja szerinti megvalósító építtető részére történő vagyonkezelésbe adása érdekében.
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-Határidő: azonnal
+[^1]: A 2. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 4. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
+[^3]: Az 5. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 6. pontot az 1359/2020. (VII. 1.) Korm. határozat 3. pontja visszavonta.
