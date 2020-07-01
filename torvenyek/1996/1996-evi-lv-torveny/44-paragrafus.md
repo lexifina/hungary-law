@@ -1,6 +1,6 @@
 ## Vadgazdálkodási üzemterv
 
-44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített, húsz évre szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
+44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített, 2037. február 28. napjáig szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
 
 (2) A tájegységi vadgazdálkodási terv hatálybalépésétől számított három hónapon belül a tájegységi fővadász elkészíti a vadászatra jogosult részére a vadgazdálkodási üzemtervre vonatkozó javaslatát. A vadászatra jogosult a tájegységi vadgazdálkodási terv hatálybalépésétől számított hat hónapon belül jóváhagyásra benyújtja a vadászati hatóság részére a vadászterületre vonatkozó vadgazdálkodási üzemtervet.
 
