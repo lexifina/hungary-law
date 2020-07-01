@@ -1,0 +1,1 @@
+## 9. § A BM OKF és a szolgáltató a megállapodást legalább évente egy alkalommal felülvizsgálja. A megállapodás végrehajtásával kapcsolatos körülmények előre nem látható lényeges változása esetén a BM OKF és a szolgáltató haladéktalanul tájékoztatja egymást, és szükség esetén kezdeményezik a másik félnél a megállapodás módosítását.
