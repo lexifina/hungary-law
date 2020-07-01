@@ -1,7 +1,5 @@
 ## Az úti okmány cseréje
 
-## 27. § Az úti okmány cseréjét kell kérni, ha
+27. §[^150]
 
-a) az állampolgárnak az úti okmányban szereplő adatai megváltoztak, vagy az
-
-b) személyazonosításra alkalmatlanná vált, betelt, megrongálódott.
+[^150]: A 27. §-t a 317/2020. (VII. 1.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
