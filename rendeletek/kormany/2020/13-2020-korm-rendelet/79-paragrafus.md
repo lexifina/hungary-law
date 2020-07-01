@@ -1,3 +1,5 @@
-## 78. § Hatályát veszti a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdés j) pontjában a „saját maga vagy felnőttképzést megvalósító intézmény bevonásával” szövegrész.
+## 78. §[^79]
 
 ## 64. A 2013/2014-es tanévre vonatkozó szakmaszerkezeti döntésről, a 2013/2014-es tanévben induló képzésekben szakiskolai tanulmányi ösztöndíjra jogosító szakképesítésekről, valamint egyes szakképzési tárgyú kormányrendeletek módosításáról szóló 331/2012. (XI. 28.) Korm. rendelet hatályon kívül helyezése
+
+[^79]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

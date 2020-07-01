@@ -1,1 +1,3 @@
-## 141. § A szakképzésért és felnőttképzésért felelős miniszter által alapított és fenntartott szakképzési centrumok tagintézményeiben történő világításkorszerűsítési feladatok elvégzésére vonatkozó kijelölésről szóló 239/2019. (X. 16.) Korm. rendelet 1. §-ában a „szakképzésért és felnőttképzésért felelős miniszter” szövegrész helyébe a „szakképzésért felelős miniszter (a továbbiakban: miniszter)” szöveg lép.
+## 141. §[^139]
+
+[^139]: A 141. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

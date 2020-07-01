@@ -1,3 +1,5 @@
-## 89. § Hatályát veszti a felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásra és követelményrendszerre, a felnőttképzést folytató intézmények nyilvántartásának vezetésére, valamint a felnőttképzést folytató intézmények ellenőrzésére vonatkozó részletes szabályokról szóló 393/2013. (XI. 12.) Korm. rendelet.
+## 89. §[^87]
 
 ## 71. A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosítása
+
+[^87]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

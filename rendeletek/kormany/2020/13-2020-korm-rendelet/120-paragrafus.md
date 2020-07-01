@@ -1,3 +1,5 @@
-## 119. § A Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet 3. § (1) bekezdés e) pontjában a „képzési, valamint az információs társadalom fejlesztésével és a DJP Hálózat szakmai koordinálásával kapcsolatos” szövegrész helyébe az „az információs társadalom fejlesztésével és a DJP Hálózat szakmai koordinálásával kapcsolatos” szöveg lép.
+## 119. §[^117]
 
 ## 98. Az egyes szakképzési tárgyú kormányrendeletek módosításáról szóló 149/2017. (VI. 12.) Korm. rendelet hatályon kívül helyezése
+
+[^117]: A 119. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

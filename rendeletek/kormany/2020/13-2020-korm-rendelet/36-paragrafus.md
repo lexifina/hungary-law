@@ -1,3 +1,5 @@
-## 35. § A Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti oktatási, tudományos, kulturális, sport- és ifjúsági együttműködésről szóló Egyezmény Szerbia Köztársaság vonatkozásában történő kihirdetéséről szóló 164/2007. (VI. 27.) Korm. rendelet 4. § (4) bekezdésében az „az oktatásért” szövegrész helyébe az „az oktatásért felelős miniszter, a szakképzésért” szöveg lép.
+## 35. §[^35]
 
 ## 30. A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Egyezmény kihirdetéséről szóló 183/2007. (VII. 13.) Korm. rendelet módosítása
+
+[^35]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

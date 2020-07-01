@@ -1,3 +1,5 @@
-## 90. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 15. § (1) bekezdés 13. pontjában az „az alap-, közép- és felsőfokú” szövegrész helyébe az „az” szöveg, az „oktatásért” szövegrész helyébe az „oktatásért felelős miniszter vagy a szakképzésért” szöveg lép.
+## 90. §[^88]
 
 ## 72. A szociálpolitikai menetdíj-támogatást nem tartalmazó, adómentes közlekedési kedvezményekről szóló 498/2013. (XII. 29.) Korm. rendelet módosítása
+
+[^88]: A 90. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

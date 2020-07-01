@@ -1,3 +1,5 @@
-## 144. § Hatályát veszti az ipari és kereskedelmi szakképesítések szakmai és vizsgakövetelményeiről szóló 18/1995. (VI. 6.) IKM rendelet módosításáról szóló 22/2003. (VII. 11.) OM rendelet.
+## 144. §[^142]
 
 ## 118. Az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelet hatályon kívül helyezése
+
+[^142]: A 144. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
