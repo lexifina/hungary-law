@@ -4,27 +4,27 @@
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
-|  | Praxisfinanszírozás | 121 492,0 |
+|  |  | Praxisfinanszírozás | 121 492,0 |
 
-| Indikátorrendszer finanszírozása | 7 300,0 |
+|  |  | Indikátorrendszer finanszírozása | 7 300,0 |
 
-| Eseti ellátás díjazása | 649,3 |
+|  |  | Eseti ellátás díjazása | 649,3 |
 
-| Ügyeleti szolgálat | 10 106,2 |
+|  |  | Ügyeleti szolgálat | 10 106,2 |
 
 | 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 139 547,5 |
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-|  | Iskolaegészségügyi ellátás | 2 317,1 |
+|  |  | Iskolaegészségügyi ellátás | 2 317,1 |
 
-| Védőnői ellátás | 24 009,8 |
+|  |  | Védőnői ellátás | 24 009,8 |
 
-| Anya-, gyermek- és csecsemővédelem | 483,4 |
+|  |  | Anya-, gyermek- és csecsemővédelem | 483,4 |
 
-| MSZSZ: gyermekgyógyászat | 121,6 |
+|  |  | MSZSZ: gyermekgyógyászat | 121,6 |
 
-| MSZSZ: nőgyógyászat | 96,3 |
+|  |  | MSZSZ: nőgyógyászat | 96,3 |
 
 | 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 27 028,2 |
 
@@ -40,27 +40,27 @@
 
 |  | Célelőirányzatok |  |
 
-|  | Méltányossági alapon történő térítések Alapellátási vállalkozás támogatási átalánydíj Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása Tervezett külföldi ellátások orvosi felülvizsgálata Egészségügyi dolgozók 2018–2020. évi béremelésének fedezete Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése Fiatal szakorvosok támogatása Működési támogatás 2020. évi egyszeri rendkívüli juttatás fedezete | 2 611,3 |
+|  |  | Méltányossági alapon történő térítések | 2 611,3 |
 
-| 55,0 |
+|  |  | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
 
-| 1 250,0 |
+|  |  | Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 1 250,0 |
 
-| 20,0 |
+|  |  | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-| 102 635,6 |
+|  |  | Egészségügyi dolgozók 2018–2020. évi béremelésének fedezete | 102 635,6 |
 
-| 3 830,1 |
+|  |  | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 3 830,1 |
 
-| 11 860,9 |
+|  |  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése | 11 860,9 |
 
-| 326,3 |
+|  |  | Fiatal szakorvosok támogatása | 326,3 |
 
-| 46 283,0 |
+|  |  | Működési támogatás | 46 283,0 |
 
-| 94 342,0 |
+|  |  | 2020. évi egyszeri rendkívüli juttatás fedezete | 101 342,0 |
 
-| 13. | Célelőirányzatok összesen | 263 214,2 |
+| 13. | Célelőirányzatok összesen | 270 214,2 |
 
 | 15. | Mentés | 43 343,5 |
 
@@ -68,25 +68,25 @@
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg-szakellátás | 179 438,1 |
+|  |  | Járóbeteg-szakellátás | 179 438,1 |
 
-| Molekuláris diagnosztikai (PCR) ellátás | 3 501,4 |
+|  |  | Molekuláris diagnosztikai (PCR) ellátás | 3 501,4 |
 
-| Fekvőbeteg-szakellátás | 628 347,9 |
+|  |  | Fekvőbeteg-szakellátás | 628 347,9 |
 
-| aktív fekvőbeteg-szakellátás | 534 288,1 |
+|  |  | aktív fekvőbeteg-szakellátás | 534 288,1 |
 
-| krónikus fekvőbeteg-szakellátás | 87 484,8 |
+|  |  | krónikus fekvőbeteg-szakellátás | 87 484,8 |
 
-| bázis finanszírozású szakellátás (BVOP) | 1 575,0 |
+|  |  | bázis finanszírozású szakellátás (BVOP) | 1 575,0 |
 
-| várólista csökkentés | 5 000,0 |
+|  |  | várólista csökkentés | 5 000,0 |
 
-| Extrafinanszírozás | 1 000,0 |
+|  |  | Extrafinanszírozás | 1 000,0 |
 
-| Nagyértékű gyógyszerfinanszírozás | 105 309,8 |
+|  |  | Nagyértékű gyógyszerfinanszírozás | 105 309,8 |
 
-| Speciális finanszírozású szakellátás | 45 061,9 |
+|  |  | Speciális finanszírozású szakellátás | 45 061,9 |
 
 | 18. | Összevont szakellátás összesen | 962 659,1 |
 
@@ -98,7 +98,7 @@
 
 | 22. | Finanszírozási rendszer átalakítása | 17 764,0 |
 
-| ÖSSZESEN | 1 573 272,3 |
+| ÖSSZESEN | 1 580 272,3 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^636]
 
