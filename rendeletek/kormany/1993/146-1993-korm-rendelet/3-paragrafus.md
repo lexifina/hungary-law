@@ -4,7 +4,7 @@
 
 3. §[^5] (1)[^6] Az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárokat az állampolgársági ügyekben eljáró szerv elektronikus úton megküldött értesítésében szereplő adatokkal – a honosítási, visszahonosítási okirat kiállításának időpontjával – a kijelölt kormányhivatal hivatalból veszi nyilvántartásba.
 
-(2)[^7] Az Nytv. 4. § (2a) bekezdés a) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét a a járási hivatalnál, a hivatásos konzuli tisztviselőnél (a továbbiakban: konzuli tisztviselő) vagy a nyilvántartást kezelő szervnél terjesztheti elő.
+(2)[^7] Az Nytv. 4. § (2a) bekezdés a) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét a járási hivatalnál, a hivatásos konzuli tisztviselőnél (a továbbiakban: konzuli tisztviselő) vagy a nyilvántartást kezelő szervnél terjesztheti elő.
 
 (3)[^8] Az Nytv. 4. § (2a) bekezdés b) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló eljárás a külföldi letelepedési nyilatkozat megtételét követően hivatalból indul.
 
@@ -29,7 +29,7 @@
 [^4]: Az R. 3. §-át megelőző alcím a 26/2011. (III. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^5]: Az R. 3. §-a a 26/2011. (III. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^6]: Az R. 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 1. pontja szerint módosított szöveg.
-[^7]: Az R. 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 2. és 3. pontja szerint módosított szöveg.
+[^7]: Az R. 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 2. és 3. pontja, a 317/2020. (VII. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^8]: Az R. 3. § (3) bekezdése 417/2012. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^9]: Az R. 3. § (4a) bekezdését 417/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
 [^10]: Az R. 3. § (4b) bekezdését 417/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 4. pontja szerint módosított szöveg.
