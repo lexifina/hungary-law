@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 15. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
+## „36. megsemmisítés: a selejtezési vagy hiteles másolatkészítési eljárást követően megsemmisíthető irat vagy iratpéldány végleges megsemmisítése, a benne foglalt információ helyreállításának lehetőségét kizáró módon történő hozzáférhetetlenné tétele, törlése, amely következtében az irat tartalma nem rekonstruálható;”

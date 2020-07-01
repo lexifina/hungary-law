@@ -1,3 +1,3 @@
-## 4. §[^4]
+## 4. § Az R. 40. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 4. § a 15. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
+## „(1) Az iktatószámnak tartalmaznia kell számot, betűt vagy ezek tetszőleges kombinációját és az irat főszáma iktatási évének négy számjegyét.”

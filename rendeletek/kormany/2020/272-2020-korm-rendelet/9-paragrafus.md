@@ -1,3 +1,3 @@
-## 8. §[^8]
+## 8. § Az R. 53. §-a a következő (7) bekezdéssel egészül ki:
 
-[^8]: A 8. § a 15. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
+## „(7) A szerv a kiadmány egy hiteles példányát köteles irattárában az ügyirat részeként megőrizni.”

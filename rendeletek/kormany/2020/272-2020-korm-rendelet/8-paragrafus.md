@@ -1,3 +1,7 @@
-## 7. §[^7]
+## 7. § Az R. 47. §-a a következő l) és m) ponttal egészül ki:
 
-[^7]: A 7. § a 15. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
+## (Nem kell iktatni, de jogszabályban meghatározott esetekben nyilván kell tartani:)
+
+## „l) egészségügyi dokumentációkat;
+
+## m) tervdokumentációkat.”
