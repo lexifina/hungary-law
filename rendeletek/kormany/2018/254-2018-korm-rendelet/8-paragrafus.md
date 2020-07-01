@@ -1,6 +1,6 @@
 8. § (1) A Hatóság a hatósági ellenőrzést
 
-a)[^3]
+a)[^4]
 
 b) ellenőrzési terv alapján indított hatósági ellenőrzés esetén az ellenőrzési tervben meghatározott időpontban, valamint
 
@@ -12,4 +12,4 @@ megindítja.
 
 (3) Ha a hatósági ellenőrzés megindítását követően a Hatóság megállapítja, hogy a hatósági ellenőrzés alá vont egyéni vállalkozó egyéni vállalkozói tevékenység folytatására való jogosultsága időközben megszűnt, a hatósági ellenőrzést lezárja.
 
-[^3]: A 8. § (1) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 196. § (2) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 8. § (1) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 196. § (2) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
