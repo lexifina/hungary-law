@@ -2,9 +2,11 @@
 
 a) a halottvizsgálati bizonyítvány alapján,
 
-b) az a) pont szerinti irat hiányában a holtnak nyilvánító vagy a halál tényét megállapító végzés alapján, vagy
+b) az a) pont szerinti irat hiányában a holtnak nyilvánító vagy a halál tényét megállapító végzés alapján,
 
-c) olyan személynek a bejelentése alapján, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik,
+c) olyan személynek a bejelentése alapján, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik, vagy
+
+d) az ingatlanügyi hatóság bejelentése alapján
 
 az örökhagyó haláláról értesül.
 
