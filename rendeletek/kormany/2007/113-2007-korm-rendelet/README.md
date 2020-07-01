@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-113-20-
 | 2020-01-01 | 2007-113-20-22.34 | 308/2009. (XII. 28.) Korm. rendelet |
 | 2020-05-08 | 2007-113-20-22.35 | 290/2010. (XII. 21.) Korm. rendelet |
 | 2020-06-01 | 2007-113-20-22.36 | 189/2020. (V. 7.) Korm. rendelet |
+| 2020-07-01 | 2007-113-20-22.37 | 304/2019. (XII. 12.) Korm. rendelet |
