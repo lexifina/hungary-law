@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2020-01-01 | 2019. évi CX. törvény | 1999-84-00-00.66 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 1999-84-00-00.67 |
 | 2020-05-01 | 2019. évi CXVI. törvény | 1999-84-00-00.68 |
+| 2020-07-01 | 2020. évi XXXI. törvény | 1999-84-00-00.69 |
