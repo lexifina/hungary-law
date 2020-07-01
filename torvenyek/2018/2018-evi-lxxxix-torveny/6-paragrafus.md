@@ -45,3 +45,5 @@ e) a családtámogatási ügyben eljáró hatóság a tartós betegség megálla
 f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására
 
 vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
+
+vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.

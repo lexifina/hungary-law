@@ -28,7 +28,7 @@ j) szerepel az Országos érettségi vizsgaelnöki névjegyzéken, az Országos 
 
 a) tanulói jogviszonyban áll,
 
-b) felnőttképzési jogviszonyban áll,
+b)
 
 c) a szakképző intézmény alkalmazottja,
 
@@ -45,5 +45,7 @@ d) felsőoktatási intézményben oktató, kutató, tanári munkakörben dolgozi
 e) felsőoktatási intézményben oktatási tevékenység ellátására megbízási jogviszonyban dolgozik,
 
 f) részére oktatási igazolvány kerül kibocsátásra,
+
+3a. felnőttképzési jogviszonyban áll,
 
 4. a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szerepel.

@@ -38,21 +38,25 @@ továbbítható.
 
 (15) A személyes adatokat A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszerből (a továbbiakban: INYR) az adatkezelő a pedagógiai szakszolgálati intézmény ellátásának utolsó igénybevételétől számított húsz év elteltével törli a nyilvántartásból.
 
-(15a) A tanulók és a képzésben részt vevő személyek nyilvántartásából a képzési hitelhez kapcsolódóan
+(15a) A képzési hitelhez kapcsolódóan
 
-a) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan
+a) tanulók és a képzésben részt vevő személyek nyilvántartásából
 
-aa) az 1/A. melléklet II. rész 1. pont a) alpontjában meghatározott adatokból az oktatási azonosító száma és adóazonosító jele,
+aa) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont a) alpontjában meghatározott adatokból az oktatási azonosító száma és adóazonosító jele, az 1/A. melléklet II. rész 1. pont d)–g) és i) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
 
-ab) az 1/A. melléklet II. rész 1. pont c) és d) alpontjában meghatározott adata és
+ab) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
 
-ac) a 2. § a)–j) pontja szerinti adata,
+ac) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont l), o) és t) alpontjában meghatározott adatok,
 
-b) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont b) alpontjában adatok,
+b) a képzési és személyi törzsből
 
-c) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont l), m) és p) pontjában adatok
+ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont a), c) és f) alpontjában és 3. pont a), c), d) és e) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
 
-továbbíthatók.
+bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont d) alpontjában meghatározott adatok,
+
+bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 3. pont a) és d) alpontjában meghatározott adatok
+
+továbbíthatóak a Diákhitel Központnak.
 
 (16) A Felsőoktatási alkalmazotti személyi törzsből továbbítható – az érintetten kívül – a fenntartónak a fenntartói jogok gyakorlásához szükséges valamennyi adat; a Magyar Felsőoktatási Akkreditációs Bizottságnak a szakértői tevékenyég ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek az alkalmazottjával kapcsolatos adatok.
 
