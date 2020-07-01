@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-103-00-00
 | 2019-04-14 | 2019. évi XXXIII. törvény | 2012-103-00-00.11 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2012-103-00-00.12 |
 | 2020-01-01 | 2019. évi LXVI. törvény | 2012-103-00-00.13 |
+| 2020-07-01 | 2020. évi LXIV. törvény | 2012-103-00-00.14 |
