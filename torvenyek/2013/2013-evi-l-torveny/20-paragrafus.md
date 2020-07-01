@@ -22,4 +22,6 @@ j) együttműködik a hatósággal, továbbá szükség szerint a biztonsági es
 
 k) a biztonságtudatos felhasználói magatartás elősegítése céljából oktatási anyagokat dolgozhat ki és tréningeket tarthat, felvilágosító, szemléletformáló kampányokat szervezhet.
 
-(2) A 19. § (2) és (3) bekezdése szerinti eseménykezelő központok az általuk támogatott ágazatok tekintetében ellátják az (1) bekezdés b), c), d,) e), f), i), j) és k) pontja szerinti feladatokat.
+(2) A 19. § (2) bekezdése szerinti eseménykezelő központ az általa támogatott ágazatok tekintetében ellátja az (1) bekezdés b), c), d,) e), f), i), j) és k) pontja szerinti feladatokat.
+
+(3) A 19. § (1) bekezdése szerinti eseménykezelő központ az (1) bekezdés szerinti feladatait a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában – az azokon tárolt adatok megismerése nélkül – kormányrendeletben meghatározottak szerint látja el.

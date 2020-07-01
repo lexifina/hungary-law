@@ -14,7 +14,11 @@ f) a nemzetközi információbiztonsági, kibervédelmi gyakorlatokon felkérés
 
 g) véleményezési jogot gyakorolni az eseménykezelő központnak az ágazatok közötti, a biztonsági események esetén követendő szabályokról és felelősségi körökről szóló tervezetével kapcsolatban,
 
-h) eljárása során független, képesített ellenőrt igénybe venni, és az általa végzett ellenőrzés eredményét figyelembe venni.
+h) eljárása során független, képesített ellenőrt igénybe venni, és az általa végzett ellenőrzés eredményét figyelembe venni,
+
+i) a minimálisan elvárt biztonsági követelményeket meghatározni.
+
+(1a) A 2. § (5) bekezdése szerinti szerv az általa felügyelt ágazat tekintetében ellátja az (1) bekezdés a), b), c), d) és i) pontja szerinti feladatokat.
 
 (2) A (3) bekezdésben meghatározott kivétellel, ha a szervezet a jogszabályokban foglalt biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, a hatóság
 

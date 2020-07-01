@@ -22,7 +22,7 @@ g) a jogszabály által kijelölt központosított informatikai és elektronikus
 
 h) a 2. § (3) bekezdése szerinti elektronikus információs rendszereket, valamint e rendszerek tekintetében a hatósági feladatokat ellátó szerveket és a feladatellátás részletes szabályait,
 
-i) a 2. § (4)–(6) bekezdése szerinti hatóságot és a feladatellátás részletes szabályait,
+i) a 2. § (5) bekezdése szerinti hatóságot és a feladatellátás részletes szabályait,
 
 j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdálkodó szervezettel szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
 
@@ -30,7 +30,9 @@ k) a 19. § (2)–(4) bekezdése szerinti eseménykezelő központot, feladat- �
 
 l) a 16. § (1) bekezdése szerinti független, képesített ellenőr igénybevételével kapcsolatos eljárásrendet,
 
-m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét.
+m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
+
+n) a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a hatóság 14. § (2) bekezdése, valamint a 20. § (1) bekezdése szerinti feladatait, továbbá a sérülékenység vizsgálat, illetve a biztonsági esemény vizsgálat részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
 

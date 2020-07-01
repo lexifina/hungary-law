@@ -4,7 +4,7 @@
 
 ## 7. Az elektronikus információs rendszerek biztonságának felügyelete
 
-14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonságának felügyeletét – a 2. § (3)–(6) bekezdésében meghatározott kivétellel – a Kormány által kijelölt hatóság látja el.
+14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonsági felügyeletét – a honvédelmi célú elektronikus információs rendszerek, valamint a honvédelmi létfontosságú rendszerelemek és a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá eső szervek kivételével – a Kormány által kijelölt hatóság látja el.
 
 (2) A hatóság feladata:
 
@@ -29,6 +29,8 @@ i) kapcsolattartás az elektronikus információbiztonság területén a nemzetb
 j) kapcsolattartás a 19. § (1)–(4) bekezdésében meghatározott eseménykezelő központokkal,
 
 k)–n)
+
+(2a) A hatóság a (2) bekezdés szerinti feladatait a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában – az azokon tárolt adatok megismerése nélkül – kormányrendeletben meghatározottak szerint látja el.
 
 (3) A hatóság eljárásainak általános ügyintézési határideje – a (3a) bekezdésben meghatározott kivétellel – 30 nap.
 
