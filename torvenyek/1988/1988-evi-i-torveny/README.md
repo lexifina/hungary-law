@@ -77,3 +77,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2020-01-01 | 2019. évi LXVII. törvény | 1988-1-00-00.108 |
 | 2020-03-01 | 2019. évi CX. törvény | 1988-1-00-00.109 |
 | 2020-06-18 | 2020. évi LIX. törvény | 1988-1-00-00.110 |
+| 2020-07-01 | 2020. évi XXXI. törvény | 1988-1-00-00.111 |
