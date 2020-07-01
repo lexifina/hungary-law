@@ -24,7 +24,7 @@ bd) jogszabályban meghatározott tartalommal kötötte-e meg a képzésben rés
 
 be) eleget tett-e az Fktv. szerinti tájékoztatási kötelezettségének, és az Fktv.-nek megfelelően alakítja-e ki a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját,
 
-bf) az Fktv. és az e rendelet szerint elvégezte-e az elégedettségmérést,
+bf)[^34]
 
 bg) rendelkezik-e minőségirányítási rendszerrel, és elvégeztette-e annak külső értékelését, továbbá működtet-e ügyfélszolgálati és panaszkezelési rendszert,
 
@@ -34,16 +34,20 @@ bi) teljesítette-e a felnőttképzési tevékenységgel összefüggésben az Fk
 
 (4) A szakértői bizottság a (3) bekezdésben foglaltakon túl bármely folyamatban lévő képzés és legalább egy lezárt képzés teljes dokumentációját is megvizsgálhatja.
 
-(5) A szakértői bizottság vezetője vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés szakértői vizsgálata keretében elméleti órát, illetve gyakorlati képzési részt tartalmazó képzés esetén gyakorlati képzést látogat. A kijelölt bizottsági tag csak olyan elméleti órát, gyakorlati képzést látogathat, amelynek szakmai tartalmához kapcsolódóan szakképzettsége alapján megfelelő szakértelemmel rendelkezik.
-
-(6) A kijelölt bizottsági tag a látogatás keretében megvizsgálja, hogy
+(5)[^35] A szakértői bizottság vezetője vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés szakértői vizsgálata keretében olyan elméleti órát, illetve gyakorlati képzési részt tartalmazó képzés esetén gyakorlati képzést látogathat, amelynek szakmai tartalmához kapcsolódóan szakképzettsége alapján megfelelő szakértelemmel rendelkezik. A kijelölt bizottsági tag a látogatás keretében megvizsgálja, hogy
 
 a) a kontaktóra tartalmában a képzési program megvalósulását szolgálja-e, és
 
-b) az oktató által alkalmazott módszerek a szakmai és a pedagógiai, andragógiai követelményeknek megfelelnek-e.
+b) az oktató által alkalmazott módszerek a szakmai, a pedagógiai és az andragógiai követelményeknek megfelelnek-e.
+
+(6)[^36]
 
 (7) A szakértői bizottság vezetője a szakértői vizsgálat megállapításairól jegyzőkönyvet készít, amelyet a felnőttképző részére a helyszínen átad, vagy a szakértői vizsgálat befejezését követő öt napon belül a felnőttképzőnek megküld. A felnőttképző a jegyzőkönyv kézhezvételét követő három napon belül jogosult a szakértői vizsgálatról készült jegyzőkönyvre észrevételt tenni.
 
 (8) A szakértői bizottság vezetője a szakértői vizsgálattal kapcsolatos megállapításait tartalmazó szakértői véleményt a szakértői vizsgálatról készült – vizsgált felnőttképző észrevételeit tartalmazó – jegyzőkönyvvel együtt nyújtja be a felnőttképzési államigazgatási szervnek.
 
 (9) A szakértői bizottság vezetőjeként vagy tagjaként eljáró felnőttképzési szakértő díjazására az igazságügyi szakértők díjazására vonatkozó szabályokat kell alkalmazni.
+
+[^34]: A 28. § (3) bekezdés b) pont bf) alpontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 15. pontja hatályon kívül helyezte.
+[^35]: A 28. § (5) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^36]: A 28. § (6) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 16. pontja hatályon kívül helyezte.

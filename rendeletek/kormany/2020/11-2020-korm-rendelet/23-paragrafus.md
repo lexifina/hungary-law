@@ -66,7 +66,7 @@ d) a felnőttképzés adatszolgáltatási rendszerével kapcsolatos dokumentum, 
 
 da) a képzésben részt vevő személyek eredményeivel kapcsolatos adatok gyűjtésére és elemzésére,
 
-db) a képzésben részt vevő személyek elégedettségmérésével kapcsolatos adatok gyűjtésére és elemzésére,
+db)[^28] a képzésben részt vevő személyek elégedettségmérésével kapcsolatos adatok elemzésére,
 
 dc) az oktatói teljesítményekkel kapcsolatos adatok gyűjtésére és elemzésére,
 
@@ -85,3 +85,5 @@ a) a minőségi jellemző legyen alkalmas a tartalmi elem eredményének, eredm�
 b) a minőségi jellemzőhöz az érintett tartalmi elemmel elérni kívánt célérték, célértékek hozzárendelése szükséges a felnőttképzési tevékenység megszervezéséhez.
 
 (5) A (3) bekezdés szerint meghatározott minőségi jellemzőhöz rendelt célérték nem teljesülése esetén a felnőttképző feltárja az okokat, és a (3) bekezdés f) pontjában meghatározott helyesbítő tevékenységet végez, amely a kitűzött célérték teljesítéséhez szükséges lépéseket tartalmazza, vagy a célérték – következő időszakra vonatkozó – indokolt módosítását valósítja meg.
+
+[^28]: A 23. § (3) bekezdés d) pont db) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.

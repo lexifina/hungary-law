@@ -4,11 +4,7 @@
 
 ## 8. Az Fktv. 11. § (2) bekezdés a) pont aa) alpontjához
 
-18. § (1) A képzési program előzetes minősítését olyan felnőttképzési szakértő végezheti, aki
-
-a) felnőttképzési minőségirányítás területen szerzett ötéves szakmai gyakorlattal vagy felnőttképzési oktatási, gyakorlatvezetési, oktatásszervezési, mérési-értékelési területek valamelyikén szerzett ötéves szakmai gyakorlattal rendelkezik, vagy
-
-b) szakirányú képzési program- vagy tananyagfejlesztési, szakértői vagy lektorálási referenciákkal rendelkezik.
+18. § (1)[^19]
 
 (2) A felnőttképzési szakértő a képzési program előzetes minősítése során vizsgálja, hogy
 
@@ -25,3 +21,5 @@ c) – több oldalból álló képzési program esetén – a képzési program 
 (5) Az előzetesen minősített képzési programot a felnőttképző képviseletére jogosult személynek – a képzési program utolsó oldalán – alá kell írnia. A felnőttképző az előzetes minősítés alapját képező, (3) bekezdés szerinti szakértői véleményt a képzési programhoz mellékeli.
 
 (6) A képzés program módosítása esetén a felnőttképzőnek el kell végeztetnie a módosított képzési program előzetes minősítését.
+
+[^19]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte.

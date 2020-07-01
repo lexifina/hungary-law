@@ -22,8 +22,11 @@ bc) a 12. § (2) bekezdése szerinti jogviszony megnevezését és a jogviszonyb
 
 bd) a szakmai gyakorlat teljesítését igazoló szerv vagy személy megnevezését, címét és aláírását,
 
-c) – ha a kérelmező képzési program előzetes minősítésére vonatkozó tevékenységet is kíván folytatni – a 18. § (1) bekezdésének való megfelelést alátámasztó dokumentumok másolatát,
+c)[^11]
 
-d) az általános tételű eljárási illeték – a kérelmen – illetékbélyeggel történő lerovását vagy elektronikus úton benyújtott kérelem esetén az általános tételű eljárási illeték átutalással történő megfizetését igazoló bizonylat másolatát.
+d)[^12] az általános tételű eljárási illeték megfizetését igazoló bizonylat másolatát.
 
 (4) Ha a bejelentéshez a szakmai gyakorlat igazolása a munkáltató, foglalkoztató vagy a szakmai gyakorlat teljesítését igazoló más szerv jogutód nélküli megszűnése vagy egyéb ok miatt nem csatolható, a szakmai gyakorlat a kérelmező (3) bekezdés b) pont bb) és bc) alpontja szerinti adatait tartalmazó munkaszerződés vagy a munkavégzés igazolására alkalmas más dokumentum benyújtásával is igazolható.
+
+[^11]: A 13. § (3) bekezdés c) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 5. pontja hatályon kívül helyezte.
+[^12]: A 13. § (3) bekezdés d) pontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.

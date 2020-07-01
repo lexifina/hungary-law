@@ -1,33 +1,31 @@
 ## 17. Az Fktv. 20. § (3)–(5) bekezdéséhez
 
-29. § A felnőttképzési államigazgatási szerv az Fktv. 20. § (3) bekezdés a) pontjában meghatározott jogkövetkezményt alkalmazza, ha
+29. §[^37] A felnőttképzési államigazgatási szerv az Fktv. 20. § (3) bekezdés a) pontjában meghatározott jogkövetkezményt alkalmazza, ha
 
 a) a bejelentéshez kötött felnőttképzési tevékenység esetén a felnőttképző
 
-aa) határidőben nem tett eleget a 10. § (1) bekezdése szerinti bejelentési kötelezettségének, vagy
+aa) nem tett eleget a felnőttképzési tevékenységgel összefüggő bejelentési kötelezettségének, vagy
 
-ab) a képzések több mint öt százalékában nem teljesítette az Fktv. szerinti adatszolgáltatási kötelezettségét,
+ab) – az Fktv.-ben meghatározott kivétellel – nem teljesítette a felnőttképzési tevékenységgel összefüggő adatszolgáltatási kötelezettségét, vagy nem a valóságnak megfelelő adatot szolgáltatott,
 
 b) az engedélyhez kötött felnőttképzési tevékenység esetén a felnőttképző
 
-ba) határidőben nem tett eleget a 10. § (1) bekezdése szerinti bejelentési kötelezettségének,
+ba) nem tett eleget a felnőttképzési tevékenységgel összefüggő bejelentési kötelezettségének,
 
-bb) a képzések több mint öt százalékában nem teljesítette az Fktv. szerinti adatszolgáltatási kötelezettségét,
+bb) nem teljesítette a felnőttképzési tevékenységgel összefüggő adatszolgáltatási kötelezettségét, vagy nem a valóságnak megfelelő adatot szolgáltatott,
 
 bc) az ellenőrzés vagy szakértői vizsgálat során nem bocsátott az ellenőrzést vagy a szakértői vizsgálatot végző személy rendelkezésére jogszabályban előírt dokumentumot,
 
-bd) nem teljesíti az Fktv. szerinti tájékoztatási kötelezettségét, vagy a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját nem az Fktv.-nek megfelelően alakította ki,
+bd) nem teljesítette az Fktv. szerinti tájékoztatási kötelezettségét, vagy a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját nem az Fktv.-nek megfelelően alakította ki,
 
-be) nem teljesítette az Fktv. hatálya alá tartozó, befejezett képzéseinek több mint tíz százalékában a résztvevők elégedettségének mérésére vonatkozó kötelezettségét vagy az elégedettségméréssel kapcsolatos adatszolgáltatást,
+be) nem biztosította az előzetes tudásmérést,
 
-bf) nem biztosította az előzetes tudásmérést,
+bf) nem működtet ügyfélszolgálati és panaszkezelési rendszert,
 
-bg) a megvalósult képzések öt százalékát érintően nem a valóságnak megfelelően szolgáltatott adatot a felnőttképzés adatszolgáltatási rendszere számára,
+bg) nem rendelkezik felnőttképzési minőségirányítási rendszerrel, vagy nem végeztette el annak külső értékelését,
 
-bh) nem működtet ügyfélszolgálati és panaszkezelési rendszert,
+bh) nem rendelkezik az e rendeletben meghatározott vagyoni biztosítékkal, vagy
 
-bi) nem rendelkezik a felnőttképzési minőségirányítási rendszerrel, vagy nem végeztette el annak külső értékelését,
+bi) nem vezeti vagy hiányosan vezeti a képzés megvalósításának az Fktv.-ben és az e rendeletben előírt dokumentumait.
 
-bj) nem rendelkezik az e rendeletben meghatározott vagyoni biztosítékkal, vagy határidőben nem tett eleget a 2. § (2) bekezdésében meghatározott kötelezettségének, vagy
-
-bk) nem vezeti vagy hiányosan vezeti a képzés megvalósításának az Fktv.-ben és az e rendeletben előírt dokumentumait.
+[^37]: A 29. § a 318/2020. (VII. 1.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
-## 18. Az Fktv. 24. § (2) bekezdéséhez
+## 18.[^41]
 
-33. § A képzési hitel igénybevételének lehetőségét a képzésben részt vevő személy számára a hallgatói hitelrendszerről szóló kormányrendeletben meghatározottak szerint, a hallgatói hitelrendszert működtető szervezet útján kell biztosítani.
+33. §
+
+[^41]: A 18. alcímet (33. §) a 318/2020. (VII. 1.) Korm. rendelet 17. § 17. pontja hatályon kívül helyezte.

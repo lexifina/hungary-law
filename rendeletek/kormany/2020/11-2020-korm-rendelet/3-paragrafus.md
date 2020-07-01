@@ -6,7 +6,7 @@ a) a felnőttképző
 
 aa) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 22. § (1) bekezdés a) és b) pontjában meghatározott adatait,
 
-ab) levelezési címét, telefonszámát és faxszámát, elektronikus levelezési címét,
+ab)[^1] levelezési címét, telefonszámát és elektronikus levelezési címét,
 
 ac) képviseletére jogosult személy családi és utónevét,
 
@@ -14,13 +14,15 @@ ad) adószámát, oktatási intézmény esetén oktatási azonosító számát,
 
 b) a Szolg. tv. 22. § (1) bekezdés c) pontjában meghatározottak tekintetében a felnőttképzési tevékenység végzésére irányuló szándék konkrét megjelölését.
 
+(1a)[^2] A bejelentéshez csatolni kell az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
+
 (2) Az engedély megadása iránti kérelemnek tartalmaznia kell
 
 a) a felnőttképző
 
 aa) Szolg. tv. 22. § (1) bekezdés a) és b) pontjában meghatározott adatait,
 
-ab) levelezési címét, telefonszámát és faxszámát, elektronikus levelezési címét,
+ab)[^3] levelezési címét, telefonszámát és elektronikus levelezési címét,
 
 ac) képviseletére jogosult személy családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, a képviseleti joga kezdetének időpontját,
 
@@ -36,4 +38,26 @@ ca) családi és utónevét, születési helyét és idejét, anyja nevét, áll
 
 cb) egyetemi vagy főiskolai végzettségét és pedagógiai vagy andragógiai szakképzettségét igazoló okiratának számát és az okiratot kiállító intézmény megnevezését.
 
-(3) A bejelentés módosításának, valamint az engedély módosítása iránti kérelemnek a felnőttképző nyilvántartásba vételi számát és a módosítással érintett új adatokat kell tartalmaznia.
+(2a)[^4] Az engedély megadása iránti kérelemhez csatolni kell
+
+a) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot,
+
+b) a szakmai vezető szakmai vezetésre való alkalmasságát igazoló, egyetemi vagy főiskolai végzettségét és pedagógiai vagy andragógiai szakképzettségét bizonyító oklevél másolatát,
+
+c) a vagyoni biztosítékkal való rendelkezést bizonyító, az 1. § (4) bekezdése szerinti szerződést és
+
+d) a felnőttképző nyilatkozatát arról, hogy
+
+da) nem áll fenn vele szemben az engedély megszerzését kizáró ok,
+
+db) rendelkezik az e rendeletben meghatározott minőségirányítási rendszerrel, és
+
+dc) biztosítja az ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételeket.
+
+(3)[^5] A szakképzési centrum részeként működő szakképző intézmény esetén a bejelentést, illetve az engedély megadása iránti kérelmet a szakképzési centrum nyújtja be a felnőttképzési államigazgatási szervhez.
+
+[^1]: A 3. § (1) bekezdés a) pont ab) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^2]: A 3. § (1a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 3. § (2) bekezdés a) pont ab) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
+[^4]: A 3. § (2a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 3. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

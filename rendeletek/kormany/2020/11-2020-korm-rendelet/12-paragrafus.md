@@ -18,6 +18,8 @@ bc) pedagógiai jellegű – így különösen szociálpedagógus, pedagógia sz
 
 bd) nyelvi képzés esetén az adott nyelvből szerzett nyelvtanári végzettséggel vagy – ha az adott nyelvből nincs felsőfokú végzettségi szintű nyelvtanári vagy nyelv- és irodalomtanári képzés – az adott nyelvből az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet 2. számú mellékletében meghatározott Közös Európai Referenciakeret szerinti C1 szintű, okirattal igazolt nyelvismerettel és
 
-c) oktatási, oktatásszervezési vagy -irányítási, minőségirányítási, programkészítési, lektorálási, mérési-értékelési vagy felnőttképzési szakértői szakterületen szerzett legalább ötéves szakmai gyakorlattal.
+c)[^10] oktatási, oktatásszervezési vagy -irányítási, minőségirányítási, programkészítési, lektorálási, mérési-értékelési vagy felnőttképzési szakértőként szerzett legalább ötéves szakmai gyakorlattal.
 
 (2) E rendelet alkalmazásában szakmai gyakorlatnak minősül a munkavégzésre irányuló bármely jogviszony keretében vagy egyéni vállalkozóként folytatott tevékenység.
+
+[^10]: A 12. § (1) bekezdés c) pontja a 318/2020. (VII. 1.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
