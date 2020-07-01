@@ -40,7 +40,7 @@ c) idegenrendészeti vagy menekültügyi eljárásban az idegenrendészeti vagy 
 
 (6) E törvény hatálya nem terjed ki
 
-a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.),
+a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.),
 
 b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.),
 

@@ -67,3 +67,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2019-07-24 | 2007. évi CXXI. törvény | 1993-3-00-00.116 |
 | 2020-01-01 | 2019. évi CXXVI. törvény | 1993-3-00-00.117 |
 | 2020-03-01 | 2019. évi CX. törvény | 1993-3-00-00.118 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 1993-3-00-00.119 |
