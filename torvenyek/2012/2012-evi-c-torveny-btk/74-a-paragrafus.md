@@ -14,7 +14,7 @@ a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176.
 
 b) az új pszichoaktív anyag előállítása, az ország területére behozatala, kivitele, átszállítása, forgalomba hozatala, illetve az azzal való kereskedés [184. § (1)–(3) és (5) bekezdés, 184/A. § (1) bekezdés b) pont és c) pont cb) alpont, (2)–(3) és (5) bekezdés, 184/B. § (1) bekezdés a) pont, (2)–(5) bekezdés, 184/C. § (1) bekezdés a) pont aa) alpont, b) pont ba) alpont, (2)–(5) bekezdés],
 
-c) az emberkereskedelem [192. § (1)–(7) bekezdés], a kényszermunka (193. §),
+c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
 
 d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a gyermekpornográfia [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés a) és c) pont és (6) bekezdés],
 

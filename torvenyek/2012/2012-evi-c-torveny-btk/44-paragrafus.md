@@ -18,7 +18,7 @@ h) emberölés súlyosabban minősülő esete [160. § (2) bekezdés],
 
 i) emberrablás súlyosabban minősülő esete [190. § (3)–(4) bekezdés],
 
-j) emberkereskedelem súlyosabban minősülő esete [192. § (6) bekezdés],
+j) emberkereskedelem és kényszermunka súlyosabban minősülő esete [192. § (6) bekezdés],
 
 k) alkotmányos rend erőszakos megváltoztatása [254. § (1) bekezdés],
 

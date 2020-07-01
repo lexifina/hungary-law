@@ -1,63 +1,51 @@
-## Emberkereskedelem
+## Emberkereskedelem és kényszermunka
 
 192. § (1) Aki mást
 
-a) elad, megvásárol, elcserél, ellenszolgáltatásként átad vagy átvesz, illetve
+a) elad, megvásárol, elcserél, ellenszolgáltatásként átad, átvesz, vagy
 
-b) az a) pontban meghatározott cselekmény megvalósítása érdekében szállít, elszállásol, elrejt vagy másnak megszerez,
+b) az a) pontban meghatározott cselekmény megvalósítása érdekében szállít, elszállásol, elrejt, vagy másnak megszerez,
 
-bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki mást kizsákmányolás céljából elad, megvásárol, elcserél, átad, átvesz, toboroz, szállít, elszállásol, elrejt vagy másnak megszerez, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+(2) Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű tevékenység végzésére, egyéb szolgáltatásra, vagy jogellenes cselekmény folytatására
 
-(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az emberkereskedelmet
+a) megtévesztéssel, a sértett nevelésével, felügyeletével, gondozásával, gyógykezelésével kapcsolatos, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve, vagy a sértett kiszolgáltatott helyzetét kihasználva rábír, vagy
 
-a) személyi szabadságától megfosztott személy sérelmére,
+b) erőszakkal vagy fenyegetéssel kényszerít,
 
-b) erőszakkal vagy fenyegetéssel,
+bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-c) megtévesztéssel,
+(3) Aki mást a (2) bekezdésben meghatározott cselekmény megvalósítása érdekében toboroz, átad, átvesz, elad, megvásárol, elcserél, ellenszolgáltatásként átad vagy átvesz, másnak megszerez, szállít, elszállásol, elrejt, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-d) a sértett sanyargatásával,
+(4) Aki a (2) vagy a (3) bekezdésben meghatározott bűncselekményt szexuális cselekmény végzése vagy emberi test tiltott felhasználása érdekében követi el, bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
 
-e) az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonnyal visszaélve,
+(5) A büntetés a (2) vagy a (3) bekezdésben meghatározott bűncselekmény esetén öt évtől tíz évig terjedő szabadságvesztés, a (4) bekezdésben meghatározott bűncselekmény esetén öt évtől tizenöt évig terjedő szabadságvesztés, ha azt
 
-f) emberi test tiltott felhasználása céljából,
+a) tizennyolcadik életévét be nem töltött személy sérelmére,
 
-g) hivatalos személyként, e minőséget felhasználva,
+b) a sértett sanyargatásával,
 
-h) bűnszövetségben vagy
+c) hivatalos személyként, e minőséget felhasználva, vagy
 
-i) üzletszerűen
+d) több ember sérelmére
 
 követik el.
 
-(4) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha
+(6) A büntetés a (2) vagy a (3) bekezdésben meghatározott bűncselekmény esetén öt évtől tizenöt évig terjedő szabadságvesztés, a (4) bekezdésben meghatározott bűncselekmény esetén öt évtől húsz évig vagy életfogytig terjedő szabadságvesztés, ha azt
 
-a) a (2) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követik el,
+a) tizenkettedik életévét be nem töltött személy sérelmére, vagy
 
-b) a személyi szabadságától megfosztott személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés b)–i) pontjaiban foglaltak valamelyike szerint minősül, vagy
+b) életveszélyt vagy különösen súlyos hátrányt okozva
 
-c) a (2) bekezdésben meghatározott bűncselekmény különösen súlyos hátrányt vagy életveszélyt okoz.
+követik el.
 
-(5) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha
+(7) Aki emberkereskedelem és kényszermunkára irányuló előkészületet követ el, az (1) bekezdésben meghatározott esetben vétség miatt egy évig, a (2) vagy (3) bekezdésben meghatározott esetben bűntett miatt három évig, a (4) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-a) a (2) bekezdésben meghatározott bűncselekményt tizennegyedik életévét be nem töltött személy sérelmére követik el,
+(8) Aki
 
-b) a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett. a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés valamely pontja szerint is minősül,
+a) a (2) bekezdésben meghatározott emberkereskedelem és kényszermunka sértettjének munkáját, munka jellegű tevékenységét, egyéb szolgáltatását vagy jogellenes cselekményét igénybe veszi vagy felhasználja, három évig terjedő szabadságvesztéssel,
 
-c) a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény különösen súlyos hátrányt vagy életveszélyt okoz, vagy
+b) az a) pontban meghatározott bűncselekményt szexuális cselekmény igénybevételével vagy emberi test tiltott felhasználása érdekében követi el, egy évtől öt évig terjedő szabadságvesztéssel
 
-d) a (2) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére gyermekpornográfia céljából követik el.
-
-(6) A büntetés öt évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha
-
-a) a tizennegyedik életévét be nem töltött személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés valamely pontja szerint is minősül,
-
-b) a tizennegyedik életévét be nem töltött személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény különösen súlyos hátrányt vagy életveszélyt okoz, vagy
-
-c) a (2) bekezdésben meghatározott bűncselekményt tizennegyedik életévét be nem töltött személy sérelmére gyermekpornográfia céljából követik el.
-
-(7) Aki emberkereskedelemre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(8) E § alkalmazásában kizsákmányolás a kiszolgáltatott helyzetbe hozott vagy helyzetben tartott sértett e helyzetének kihasználásával előny szerzésére törekvés.
+büntetendő.

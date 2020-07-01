@@ -12,7 +12,7 @@ foglalkoztat, vétség miatt két évig terjedő szabadságvesztéssel bünteten
 
 a) keresőtevékenység folytatására jogosító engedéllyel nem rendelkező harmadik országbeli állampolgárt különösen kizsákmányoló foglalkoztatási feltételek között foglalkoztat,
 
-b) olyan, keresőtevékenység folytatására jogosító engedéllyel nem rendelkező harmadik országbeli állampolgárt foglalkoztat, akinek sérelmére emberkereskedelmet követtek el.
+b)
 
 (3) E § alkalmazásában
 

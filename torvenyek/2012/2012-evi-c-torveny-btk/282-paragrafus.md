@@ -16,7 +16,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 a) a XIII., a XIV. vagy a XXIV. Fejezetben meghatározott bűncselekménnyel [kivéve az állam elleni bűncselekmény feljelentésének elmulasztása (263. § (1) bekezdés],
 
-b) emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. § (1)–(4) bekezdés], emberkereskedelemmel [192. § (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével [320. § (1)–(2) bekezdés],
+b) emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. § (1)–(4) bekezdés], emberkereskedelem és kényszermunkával [192. § (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével [320. § (1)–(2) bekezdés],
 
 c) az a)–b) pontokban fel nem sorolt, életfogytig tartó szabadságvesztéssel is büntethető bűncselekménnyel
 

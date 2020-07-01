@@ -8,7 +8,7 @@ b) a lakosságot vagy annak egy részét olyan életfeltételek közé kényszer
 
 c) a lakosságot vagy annak egy részét jogszerű tartózkodási helyéről kitelepíti,
 
-d) emberkereskedelmet követ el, vagy kényszermunkát végeztet,
+d) emberkereskedelem és kényszermunkát követ el,
 
 e) mást személyi szabadságától megfoszt, vagy fogva tartását jogellenesen tartja fenn,
 

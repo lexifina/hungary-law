@@ -192,7 +192,7 @@ b) a hadikövet elleni erőszak (148. §), a védett személyek elleni erőszak 
 
 c) az emberölés [160. § (1)–(3) és (5) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (3)–(6) és (8) bekezdés],
 
-d) az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem [192. § (1)–(6) bekezdés], a kényszermunka (193. §), a személyi szabadság megsértése (194. §), a kényszerítés (195. §),
+d) az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem és kényszermunka [192. § (1)–(6) bekezdés], a személyi szabadság megsértése (194. §), a kényszerítés (195. §),
 
 e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4) bekezdés],
 
