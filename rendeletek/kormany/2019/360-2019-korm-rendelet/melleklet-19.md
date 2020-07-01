@@ -1,3 +1,3 @@
-19. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^434]
+19. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^429]
 
-[^434]: A 19. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^429]: A 19. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

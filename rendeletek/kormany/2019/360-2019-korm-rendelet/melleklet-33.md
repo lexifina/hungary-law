@@ -1,3 +1,3 @@
-33. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^448]
+33. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^443]
 
-[^448]: A 33. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^443]: A 33. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

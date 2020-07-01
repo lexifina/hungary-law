@@ -1,3 +1,3 @@
-38. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^453]
+38. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^448]
 
-[^453]: A 38. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^448]: A 38. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

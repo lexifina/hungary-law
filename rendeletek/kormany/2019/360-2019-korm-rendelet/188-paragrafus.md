@@ -1,5 +1,5 @@
-## 187. §[^384]
+## 187. §[^383]
 
 ## 188. A nagycsaládosokat megillető földgáz árkedvezményről szóló 494/2017. (XII. 29.) Korm. rendelet módosítása
 
-[^384]: A 187. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^383]: A 187. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

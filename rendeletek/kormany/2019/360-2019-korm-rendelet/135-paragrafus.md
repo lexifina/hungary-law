@@ -1,5 +1,5 @@
-## 134. §[^234]
+## 134. §[^233]
 
 ## 135. Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet módosítása
 
-[^234]: A 134. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^233]: A 134. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

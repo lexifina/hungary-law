@@ -1,3 +1,3 @@
-44. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^459]
+44. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^454]
 
-[^459]: A 44. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^454]: A 44. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

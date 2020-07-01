@@ -1,3 +1,3 @@
-11. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^426]
+11. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^421]
 
-[^426]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^421]: A 11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
