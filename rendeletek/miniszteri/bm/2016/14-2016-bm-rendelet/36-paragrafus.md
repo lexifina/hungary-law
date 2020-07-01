@@ -2,7 +2,7 @@
 
 ## V. Fejezet[^28]
 
-## AZ NKE-RTK HALLGATÓINAK, VALAMINT A RENDÉSZETI SZAKGIMNÁZIUMOK TANULÓINAK RUHÁZATI ELLÁTÁSA
+## AZ NKE-RTK HALLGATÓINAK, VALAMINT A RENDVÉDELMI TECHNIKUMOK TANULÓINAK RUHÁZATI ELLÁTÁSA
 
 ## 20. Az NKE-RTK nappali munkarendű képzésben részt vevő hallgatóinak ruházati ellátása
 
@@ -14,4 +14,4 @@
 
 (4) Az egyetemi formaruházati termékek karbantartását a hallgató maga végzi.
 
-[^28]: Az V. fejezet címe a 29/2017. (XI. 6.) BM rendelet 12. § g) pontja szerint módosított szöveg.
+[^28]: Az V. fejezet címe a 18/2020. (VI. 30.) BM rendelet 16. § b) pontja szerint módosított szöveg.

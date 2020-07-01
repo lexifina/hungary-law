@@ -2,9 +2,9 @@
 
 ## A rendvédelmi oktatási intézmények hallgatói és tanulói állományára vonatkozó ruházati ellátási normák
 
-Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti szakgimnáziumokra vonatkozó ruházati alapellátás norma
+Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendvédelmi technikumokra vonatkozó ruházati alapellátás norma
 
-1. Az NKE-RTK rendőr- és katasztrófavédelemi szakirányán tanulmányokat folytató, hivatásos szolgálati jogviszonnyal nem rendelkező hallgatói, valamint a rendészeti szakgimnáziumok tanulói állományának ruházati ellátási normája:
+1. Az NKE-RTK rendőr- és katasztrófavédelemi szakirányán tanulmányokat folytató, hivatásos szolgálati jogviszonnyal nem rendelkező hallgatói, valamint a rendvédelmi technikumok tanulói állományának ruházati ellátási normája:
 
 |  | A | B | C |
 
@@ -36,7 +36,7 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti sza
 
 | 14 | Hímzett névkitűző | db | 1 |
 
-2. A rendészeti szakgimnáziumok tanulói állománya részére egységfelszerelésként 1 db málhazsákot és 1 db jó láthatósági mellényt kell kiadni.
+2. A rendvédelmi technikumok tanulói állománya részére egységfelszerelésként 1 db málhazsákot és 1 db jó láthatósági mellényt kell kiadni.
 
 3. Az NKE-RTK rendőr- és katasztrófavédelemi szakirányán tanulmányokat folytató, hivatásos szolgálati jogviszonnyal nem rendelkező hallgató által megengedett öltözetként viselhető ruházati termékek:
 
@@ -66,7 +66,7 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti sza
 
 | 12 | Téli ing | – |
 
-4. A rendészeti szakgimnáziumok tanulói állománya által megengedett öltözetként viselhető ruházati termékek:
+4. A rendvédelmi technikumok tanulói állománya által megengedett öltözetként viselhető ruházati termékek:
 
 |  | A | B |
 
@@ -92,4 +92,4 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti sza
 
 | 11 | Téli ing | 2018. március 31 |
 
-[^50]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése szerint módosított szöveg.
+[^50]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése, a 18/2020. (VI. 30.) BM rendelet 16. § a) és d) pontja szerint módosított szöveg.
