@@ -1,0 +1,19 @@
+85. § (1) A Földforgalmi tv. 21. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A föld eladása esetén a földre vonatkozó, a tulajdonos által elfogadott vételi ajánlatot egységes okiratba foglalt szerződésbe (a továbbiakban: adásvételi szerződés) kell foglalni, és azt a tulajdonosnak – a felek aláírásától számított 8 napon belül – a föld fekvése szerint illetékes települési önkormányzat jegyzője részére – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – meg kell küldeni az e törvényen, valamint más törvényen vagy a megállapodáson alapuló elővásárlási jog jogosultjaival hirdetményi úton való közlés érdekében.
+
+(2) Az adásvételi szerződés hirdetményi úton történő közlése az elektronikus tájékoztatási rendszer keretében működő kormányzati honlapon (a továbbiakban: kormányzati portál) történő közzététellel valósul meg azzal, hogy a szerződésben felismerhetetlenné kell tenni az eladó és a vevő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot. A szerződés tájékoztató jelleggel a föld fekvése szerint illetékes települési önkormányzat polgármesteri hivatala hirdetőtábláján is kifüggeszthető az elektronikus közzététellel megegyező időtartamra.
+
+(3) Az elővásárlási jog jogosultja 60 napos jogvesztő határidőn belül tehet az adásvételi szerződésre elfogadó, vagy az elővásárlási jogáról lemondó jognyilatkozatot. A nyilatkozattételi határidő az adásvételi szerződésnek a kormányzati portálon történő közzétételét követő napon kezdődik. Az elővásárlásra jogosult – ide nem értve az államot megillető elővásárlási jog esetén a Nemzeti Földalap kezeléséért felelős szervet és az önkormányzatot – a jognyilatkozatát a jegyző részére személyesen adja át. A Nemzeti Földalap kezeléséért felelős szerv, illetve az önkormányzat a jognyilatkozatát a jegyzőnek megküldi, vagy a Nemzeti Földalap kezeléséért felelős szerv, illetve az önkormányzat képviseletében eljáró személy átadja a jegyzőnek. Az elővásárlási jogról való lemondásnak kell tekinteni, ha az elővásárlásra jogosult az e bekezdésben meghatározott határidőn belül nem nyilatkozik.”
+
+(2) A Földforgalmi tv. 21. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A más jogszabály alapján elővásárlásra jogosult is a (3) bekezdés szerinti határidőn belül és az e §-ban foglaltak szerint tehet elfogadó jognyilatkozatot.”
+
+(3) A Földforgalmi tv. 21. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az elfogadó jognyilatkozatot legalább teljes bizonyító erejű magánokiratba kell foglalni. Az elfogadó jognyilatkozatban meg kell jelölni az elővásárlási jogosultság jogalapját, továbbá ha az elővásárlási jog törvényen alapul, akkor az elfogadó jognyilatkozatban azt is meg kell jelölni, hogy az elővásárlásra jogosult mely törvényen és az ott meghatározott sorrend melyik ranghelyén gyakorolja az elővásárlási jogát. Az elfogadó jognyilatkozatnak tartalmaznia kell a 13–15. §-ban foglalt jogosultsági feltételként előírt nyilatkozatokat. Az elfogadó jognyilatkozathoz csatolni kell az elővásárlási jogosultságot bizonyító okiratokat is.”
+
+(4) A Földforgalmi tv. 21. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az államot megillető elővásárlási jog gyakorlása esetén az elfogadó jognyilatkozatnak tartalmaznia kell, hogy a Nemzeti Földalap kezeléséért felelős szerv a 18. § (1) bekezdés a) pontjában meghatározott mely célból gyakorolja az elővásárlási jogot. Ha a Nemzeti Földalap kezeléséért felelős szerv valamely földbirtok-politikai irányelv érvényesítése céljából vagy közérdekű cél megvalósítása érdekében tesz elfogadó jognyilatkozatot, meg kell jelölnie, hogy a Nemzeti Földalapról szóló törvény szerinti mely földbirtok-politikai irányelv, illetve milyen közérdekű cél megvalósítása érdekében gyakorolja az állam nevében az elővásárlási jogot.”

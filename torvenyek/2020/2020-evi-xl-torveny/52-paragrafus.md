@@ -1,0 +1,3 @@
+52. § Az Nfatv. 19/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A vagyonkezelő jogosult a vagyonkezelési szerződésben meghatározott földrészlet birtoklására, használatára és hasznai szedésére. A vagyonkezelő köteles a földrészlet értékét megőrizni, állagának megóvásáról, jó karbantartásáról gondoskodni, továbbá – a védett természeti területek természetvédelmi kezeléséért felelős szervek, a vizek és vízilétesítmények fenntartását közvetlenül szolgáló földrészletek kezeléséért felelős vízügyi igazgatási szervek és az e törvényben meghatározott egyéb esetek kivételével – díjat fizetni vagy a szerződésben előírt más kötelezettséget teljesíteni.”

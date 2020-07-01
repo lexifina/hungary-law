@@ -1,0 +1,3 @@
+4. § (1) Azok a személyek, akik az 1. § (1) bekezdésében meghatározott időpontban kiadatlan részarány-tulajdonnal rendelkeznek, a (2) bekezdésben meghatározott mértékű kártalanításra tarthatnak igényt. Az a természetes személy minősül kiadatlan részarány-tulajdonnal rendelkezőnek, akinek a nevén 2021. január 1-jén az ingatlanügyi hatóság által vezetett termelőszövetkezeti különlapon aranykorona értékben kifejezett részarány-tulajdon van nyilvántartva, és amely ellenében sem ingatlan tulajdonához, sem kártalanításhoz nem jutott.
+
+(2) A kártalanítás mértéke aranykorona jogosultságonként ötvenezer forint.

@@ -1,0 +1,5 @@
+## 7. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
+
+17. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban: Vtv.) 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A tulajdonosi közösség a vadászati jog gyakorlásával, hasznosításával kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, továbbá önállóan perelhet és perelhető. A tulajdonosi közösséget az (1) bekezdés szerint megválasztott, és a vadászati hatóságnál nyilvántartásba vett – hatósági igazolással rendelkező – képviselő külön meghatalmazás nélkül képviseli. A tulajdonosi közösség ügyeiben eljárva a tulajdonosi képviselő szerezhet jogokat és vállalhat kötelezettségeket a tulajdonosi közösség nevében és javára, továbbá gyakorolja az ügyféli és keresetindítási jogot, képviseli a tulajdonosi közösséget a vadászati jog gyakorlásával, hasznosításával összefüggő hatósági, illetve bírósági eljárásban és más szervek előtt, valamint harmadik személyekkel szemben.”

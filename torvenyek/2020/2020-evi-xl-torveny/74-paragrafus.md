@@ -1,0 +1,5 @@
+74. § A Földforgalmi tv. 8. §-a helyébe a következő rendelkezés lép:
+
+„8. § (1) A föld tulajdonjogának átruházására vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására, továbbá azok ingatlan-nyilvántartási bejegyzéséhez szükséges jognyilatkozatok megtételére csak olyan papíralapú okmányon kerülhet sor, amely az e törvény végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkezik.
+
+(2) A föld tulajdonjogát érintő más jogügylet alatt a vételi, az eladási, az elővásárlási, valamint a visszavásárlási jog – szerződéssel történő – alapítását és az ezekkel kapcsolatos joggyakorlás érdekében megtett egyoldalú nyilatkozatokat kell érteni (ide nem értve az elővásárlási jog gyakorlását). Az ingatlan-nyilvántartási bejegyzéshez szükséges jognyilatkozatok alatt a bejegyzési engedélyt, valamint az ügyleti meghatalmazást kell érteni.”
