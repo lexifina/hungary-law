@@ -18,4 +18,4 @@ nyújthat be.
 
 (4) A tankönyvvé nyilvánítási eljárásban az ügyintézési határidő három hónap.
 
-(5) A tankönyvvé nyilvánítási eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5)

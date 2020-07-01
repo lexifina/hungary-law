@@ -6,11 +6,11 @@
 
 (3) A kerettanterv jóváhagyásával összefüggő eljárásokban az ügyintézési határidő három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
 
-(3a) Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények – a központi költségvetésről szóló törvényben biztosított – fenntartói támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról és az ellenőrzés a fenntartó kérelmére nem indítható meg.
+(3a) Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények – a központi költségvetésről szóló törvényben biztosított – fenntartói támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
 (3b) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos elsőfokú határozat ellen fellebbezésnek van helye.
 
-(3c) A köznevelési intézmény nyilvántartásba vételére vonatkozó eljárásban, a működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a kerettanterv jóváhagyásával összefüggő eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3c)
 
 (3d)
 
