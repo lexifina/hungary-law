@@ -75,7 +75,3 @@ II. A multinacionális vállalatcsoport csoporttagjainak felsorolása adójogren
 1.1.1.1.13. Egyéb (Az „Egyéb” rovat bejelölése esetén a »Kiegészítő információk« táblázatban kell ismertetni a csoporttag tevékenységének jellegét)
 
 III. Kiegészítő információk
-
-## i. A multinacionális vállalatcsoport neve
-
-## ii. A multinacionális vállalatcsoport érintett pénzügyi éve
