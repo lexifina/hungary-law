@@ -58,11 +58,7 @@
 
 ## 10. egyetért azzal, hogy a KKBK Nonprofit Zrt. a lefolytatott feltételes közbeszerzési eljárás eredményeként megkötött szerződéseket a Beruházás megvalósítójára átruházhassa;
 
-## 11. felhívja a kormánybiztost, hogy a Kormány részére benyújtott előterjesztésben tegyen javaslatot a létesítmény jövőbeni vagyonkezelőjére és üzemeltetőjére.
-
-## Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
-
-## Határidő: 2019. szeptember 30.
+## 11.[^1]
 
 1. melléklet az 1158/2019. (III. 27.) Korm. határozathoz
 
@@ -141,3 +137,5 @@
 | Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 3 045 000 000 | 3 045 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 11. pontot az 1359/2020. (VII. 1.) Korm. határozat 2. pontja visszavonta.
