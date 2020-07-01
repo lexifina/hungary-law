@@ -28,11 +28,13 @@ l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keret�
 
 m) a nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 
-n)
+n) a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
 
 o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 
 p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
+
+q) az útlevélhatóság és az eljárásában közreműködő hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
 
 r) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében;
 

@@ -32,7 +32,7 @@ n) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvény
 
 o) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében;
 
-p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási eljáráshoz;
+p) a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a nyilvántartási és közlekedési igazgatási eljáráshoz;
 
 q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
 
