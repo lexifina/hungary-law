@@ -1,1 +1,3 @@
-59. § Az 56–58. §-okban foglaltakat az 1997. december 31-ét követően szerzett szolgálati időre is alkalmazni kell.
+59. §[^93]
+
+[^93]: Az 59. §-t a 306/2020. (VI. 30.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## Egyes közjogi tisztséget betöltött személyek és hozzátartozóik nem társadalombiztosítási juttatásai[^327]
+## Egyes közjogi tisztséget betöltött személyek és hozzátartozóik nem társadalombiztosítási juttatásai[^328]
 
-89/B. §[^328] (1) A köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 18. § (1) bekezdése, valamint a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 2012. január 1-je előtt hatályos 14. § (1) bekezdése, 22. §-a, 24. § (1) bekezdése, 25. § (1) bekezdése és 26. § (1) bekezdése szerinti juttatást (a továbbiakban együtt: juttatás) a Nyugdíjfolyósító Igazgatóság folyósítja.
+89/B. §[^329] (1) A köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 18. § (1) bekezdése, valamint a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 2012. január 1-je előtt hatályos 14. § (1) bekezdése, 22. §-a, 24. § (1) bekezdése, 25. § (1) bekezdése és 26. § (1) bekezdése szerinti juttatást (a továbbiakban együtt: juttatás) a Nyugdíjfolyósító Igazgatóság folyósítja.
 
 (2) A juttatás igénybevételéhez szükséges adatokat a volt köztársasági elnök tekintetében a Köztársasági Elnöki Hivatal, a volt miniszterelnök tekintetében a Miniszterelnökség haladéktalanul továbbítja a Nyugdíjfolyósító Igazgatóság részére.
 
@@ -10,5 +10,5 @@
 
 (5) A juttatás és a (4) bekezdés szerinti hozzátartozói nyugellátás fedezetének átadására vonatkozó eljárási szabályokat a fedezetet átadó szervek és a Központ megállapodásban határozzák meg.
 
-[^327]: A 89/B. §-t megelőző alcímet a 379/2016. (XII. 2.) Korm. rendelet 25. § (6) bekezdése iktatta be.
-[^328]: A 89/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 25. § (6) bekezdése iktatta be.
+[^328]: A 89/B. §-t megelőző alcímet a 379/2016. (XII. 2.) Korm. rendelet 25. § (6) bekezdése iktatta be.
+[^329]: A 89/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 25. § (6) bekezdése iktatta be.

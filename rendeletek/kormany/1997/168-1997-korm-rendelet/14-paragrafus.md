@@ -1,6 +1,6 @@
 ## A havi átlagkereset meghatározása
 
-14. §[^45] (1)[^46] A Tbj. 34. §-ának (1) bekezdése szerint megállapodást kötő személy e minőségben eltöltött idejére a nyugellátás megállapításánál az az összeg számít keresetnek, amely után nyugdíjjárulékot, illetve a 2012. január 1-jét megelőző időszakra nyugdíjbiztosítási és nyugdíjjárulékot fizet.
+14. §[^45] (1)[^46] A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából megállapodást kötő személy e minőségben eltöltött idejére a nyugellátás megállapításánál az az összeg számít keresetnek, amely után nyugdíjjárulékot, illetve a 2012. január 1-jét megelőző időszakra nyugdíjbiztosítási és nyugdíjjárulékot fizet.
 
 (2) Ha a nyugdíjigénylőt 1997. január 1-je előtt főfoglalkozásában a teljes (törvényes) munkaidőnél rövidebb időben foglalkoztatták, a mellékfoglalkozásból származó keresetet is figyelembe kell venni a havi átlagkereset meghatározásánál.
 
@@ -8,7 +8,13 @@
 
 (4) Ha a havi átlagkereset megállapításánál figyelembe vehető keresettel, jövedelemmel azonos időre baleseti rokkantsági nyugdíj járt, erre az időtartamra a 4. fokozatú baleseti járadéknak megfelelő összeget kell figyelembe venni.
 
-(5)[^48] A Tbj. 30/A. § (2) bekezdése szerinti mezőgazdasági őstermelő esetén – a Tny. 22. § (1) bekezdés i) pontjának alkalmazásánál – annak a bevételnek a 6 százalékát kell keresetként, jövedelemként figyelembe venni, amely bevétel 20 százaléka után a mezőgazdasági őstermelő a nyugdíjjárulékot megfizette. A felszolgálási díj, illetőleg a fogyasztótól közvetlenül kapott borravaló 81 százalékát kell a havi átlagkereset meghatározásánál keresetként, jövedelemként figyelembe venni.
+(5)[^48] A Tny. 22. § (1) bekezdés i) pontjának alkalmazása során
+
+a) a 2020. július 1-jét megelőző időszakra az 1997. évi LXXX. törvény 2007. január 1-je és 2020. június 30-a között hatályos 30/A. § (2) bekezdése szerinti mezőgazdasági őstermelő esetén annak a bevételnek a 6 százalékát kell keresetként, jövedelemként figyelembe venni, amely bevétel 20 százaléka után a nyugdíjjárulékot,
+
+b) a 2020. június 30-át követő időszakra a Tbj. 41. § (2) bekezdése szerinti mezőgazdasági őstermelő esetén annak a bevételnek a 6 százalékát kell keresetként, jövedelemként figyelembe venni, amely bevétel 15 százaléka után a társadalombiztosítási járulékot
+
+a mezőgazdasági őstermelő megfizette.
 
 (6) Az öregségi nyugdíj összegének meghatározásánál a Tny. 22. §-ának (2) bekezdésében meghatározott ellátásokat, juttatásokat keresetként a 15. § rendelkezéseinek megfelelő alkalmazásával kell számításba venni.
 
@@ -23,9 +29,9 @@
 (11)[^51]
 
 [^45]: A 14. § a 365/2007. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17. § (3) bekezdését.
-[^46]: A 14. § (1) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 28. § b) pontjával módosított szöveg.
+[^46]: A 14. § (1) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 28. § b) pontj, a 306/2020. (VI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^47]: A 14. § (3) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^48]: A 14. § (5) bekezdése a 266/2009. (XII. 1.) Korm. rendelet 2. §-ával megállapított és az 58/2010. (III. 16.) Korm. rendelet 5. §-a, a 333/2011. (XII. 29.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
+[^48]: A 14. § (5) bekezdése a 306/2020. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^49]: A 14. § (9) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § h) pontja hatályon kívül helyezte.
 [^50]: A 14. § (10) bekezdése a 425/2012. (XII. 29.) Korm. rendelet 11. § e) pontja, a 318/2014. (XII. 13.) Korm. rendelet 3. §-a, a 353/2014. (XII. 29.) Korm. rendelet 26. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 4. § d) pontja, a 102/2019. (V. 6.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
 [^51]: A 14. § (11) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

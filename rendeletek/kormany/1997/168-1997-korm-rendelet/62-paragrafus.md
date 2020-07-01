@@ -1,32 +1,32 @@
-62. § (1)[^114]
+62. § (1)[^118]
 
-(2)[^115]
+(2)[^119]
 
-(3) A Tny. 50. § (6)[^116] bekezdés alapján özvegyi nyugdíj a Tny. 45–49., illetőleg a Tny. 53. §-aiban foglalt feltételek fennállása esetén jár.
+(3) A Tny. 50. § (6)[^120] bekezdés alapján özvegyi nyugdíj a Tny. 45–49., illetőleg a Tny. 53. §-aiban foglalt feltételek fennállása esetén jár.
 
-(4)[^117] Ha az özvegy az 1998. január 1-je előtt elhunyt jogszerző jogán a saját jogú öregségi nyugdíjának folyósítása mellett a Tny. 50. § (2)[^118] bekezdés b) pontja alapján özvegyi nyugdíj folyósítását kéri, az 1998. január 1-je előtt az együttfolyósítási összeghatárig részben folyósított vagy teljes egészében szüneteltetett özvegyi nyugdíj helyébe lépő, 1998. január 1-jétől járó özvegyi nyugdíjat az 1998. január 1-jétől történő emelés szempontjából 1998. január 1-jét megelőző időponttól megállapított nyugellátásnak, baleseti hozzátartozói nyugdíjnak kell tekinteni.
+(4)[^121] Ha az özvegy az 1998. január 1-je előtt elhunyt jogszerző jogán a saját jogú öregségi nyugdíjának folyósítása mellett a Tny. 50. § (2)[^122] bekezdés b) pontja alapján özvegyi nyugdíj folyósítását kéri, az 1998. január 1-je előtt az együttfolyósítási összeghatárig részben folyósított vagy teljes egészében szüneteltetett özvegyi nyugdíj helyébe lépő, 1998. január 1-jétől járó özvegyi nyugdíjat az 1998. január 1-jétől történő emelés szempontjából 1998. január 1-jét megelőző időponttól megállapított nyugellátásnak, baleseti hozzátartozói nyugdíjnak kell tekinteni.
 
-(5)[^119] Ha az 1998. január 1-jét megelőzően elhunyt jogszerző jogán az özvegyi nyugdíjat első ízben 1997. december 31-ét követő időponttól olyan összegű saját jogú nyugellátásból állapítják meg, amely a jogszerzőnek az özvegyi nyugdíj megállapítása időpontját megelőző naptári év december 31-én járt volna, az özvegyi nyugdíjhoz az emelés a megállapítás kezdő időpontjának naptári évére is jár.
+(5)[^123] Ha az 1998. január 1-jét megelőzően elhunyt jogszerző jogán az özvegyi nyugdíjat első ízben 1997. december 31-ét követő időponttól olyan összegű saját jogú nyugellátásból állapítják meg, amely a jogszerzőnek az özvegyi nyugdíj megállapítása időpontját megelőző naptári év december 31-én járt volna, az özvegyi nyugdíjhoz az emelés a megállapítás kezdő időpontjának naptári évére is jár.
 
-(6) A Tny. 50. § (6)[^120] bekezdésének alkalmazásánál a Kormány által meghatározott összeghatár[^121] szempontjából figyelmen kívül kell hagyni a saját jogú nyugellátás megállapítását követően elszenvedett üzemi baleset alapján megállapított baleseti járadékot, az ösztönző nyugdíjpótlékot, az egyes saját jogú nyugellátások emeléséről szóló 93/1992. (V. 10.) Korm. rendelet 4. § (1) bekezdése szerinti emelést, továbbá az egyes személyes szabadságot korlátozó intézkedésekkel, valamint a semmissé nyilvánított elítéléssel összefüggésben járó emelést, illetőleg a nemzeti helytállásért járó pótlékot és a méltányosságból engedélyezett emelést.
+(6) A Tny. 50. § (6)[^124] bekezdésének alkalmazásánál a Kormány által meghatározott összeghatár[^125] szempontjából figyelmen kívül kell hagyni a saját jogú nyugellátás megállapítását követően elszenvedett üzemi baleset alapján megállapított baleseti járadékot, az ösztönző nyugdíjpótlékot, az egyes saját jogú nyugellátások emeléséről szóló 93/1992. (V. 10.) Korm. rendelet 4. § (1) bekezdése szerinti emelést, továbbá az egyes személyes szabadságot korlátozó intézkedésekkel, valamint a semmissé nyilvánított elítéléssel összefüggésben járó emelést, illetőleg a nemzeti helytállásért járó pótlékot és a méltányosságból engedélyezett emelést.
 
-(7)[^122] A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2020. január 1-jétől havi 96 835 forint összeghatárig folyósítható együtt.
+(7)[^126] A saját jogú nyugellátás és az özvegyi nyugdíj, baleseti özvegyi nyugdíj 2020. január 1-jétől havi 96 835 forint összeghatárig folyósítható együtt.
 
-(8)[^123] A (6)–(7) bekezdésben foglaltakat kell akkor is alkalmazni, ha saját jogú nyugellátást vagy özvegyi nyugdíjat, mezőgazdasági szövetkezeti öregségi, munkaképtelenségi, illetőleg özvegyi járadékkal folyósítanak együtt.
+(8)[^127] A (6)–(7) bekezdésben foglaltakat kell akkor is alkalmazni, ha saját jogú nyugellátást vagy özvegyi nyugdíjat, mezőgazdasági szövetkezeti öregségi, munkaképtelenségi, illetőleg özvegyi járadékkal folyósítanak együtt.
 
-(9)[^124] Az özvegyi nyugdíj mértékének a Tny. 50. §-a (2)–(3) bekezdése alapján történő meghatározásánál a Tny. 73. §-a alapján megállapított előleg saját jogú nyugdíjnak minősül.
+(9)[^128] Az özvegyi nyugdíj mértékének a Tny. 50. §-a (2)–(3) bekezdése alapján történő meghatározásánál a Tny. 73. §-a alapján megállapított előleg saját jogú nyugdíjnak minősül.
 
-(10)[^125] Az özvegyi nyugdíj Tny. 50. §-ának (2)–(3) bekezdése szerinti mértékét a saját jogú ellátás szünetelése nem érinti.
+(10)[^129] Az özvegyi nyugdíj Tny. 50. §-ának (2)–(3) bekezdése szerinti mértékét a saját jogú ellátás szünetelése nem érinti.
 
-[^114]: A 62. § (1) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § k) pontja hatályon kívül helyezte.
-[^115]: A 62. § új (2) bekezdését a 234/1998. (XII. 30.) Korm. rendelet 14. §-a iktatta a szövegbe, s egyidejűleg az eredeti (2)-(7) bekezdés számozását (3)-(8) bekezdésre változtatta. A 62. § (2) bekezdését a 449/2016. (XII. 19.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
-[^116]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint megfelelően módosított szöveg.
-[^117]: A 62. § (4) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (5) bekezdésének b) pontja, a 333/2011. (XII. 29.) Korm. rendelet 29. § l) pontja szerint módosított szöveg.
-[^118]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint módosított szöveg.
-[^119]: A 62. § (5) bekezdése a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (2) bekezdésével megállapított szöveg.
-[^120]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint módosított szöveg.
-[^121]: A 157/2003. (X. 1.) Korm. rendelet 7. § (4) bekezdése alapján az együttfolyósítási összeghatár – 2003. január 1-jei visszamenőleges hatállyal – havi 46 700 forint.
-[^122]: A 62. § (7) bekezdése a 300/2019. (XII. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^123]: A 62. § új (8) bekezdését a 249/2003. (XII. 23.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatva.
-[^124]: A 62. § (9) bekezdését a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (5) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 365/2007. (XII. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (3) bekezdését.
-[^125]: A 62. § (9) bekezdését a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (4) bekezdése iktatta be. A 62. § eredeti (9) bekezdésének számozását a 249/2003. (XII. 23.) Korm. rendelet 10. §-a (10) bekezdésre változtatta. A 62. § (10) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 8. § (2) bekezdése, a 333/2011. (XII. 29.) Korm. rendelet 29. § m) pontja, a 425/2012. (XII. 29.) Korm. rendelet 11. § j) pontja szerint módosított szöveg.
+[^118]: A 62. § (1) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 29. § k) pontja hatályon kívül helyezte.
+[^119]: A 62. § új (2) bekezdését a 234/1998. (XII. 30.) Korm. rendelet 14. §-a iktatta a szövegbe, s egyidejűleg az eredeti (2)-(7) bekezdés számozását (3)-(8) bekezdésre változtatta. A 62. § (2) bekezdését a 449/2016. (XII. 19.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^120]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint megfelelően módosított szöveg.
+[^121]: A 62. § (4) bekezdése a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (5) bekezdésének b) pontja, a 333/2011. (XII. 29.) Korm. rendelet 29. § l) pontja szerint módosított szöveg.
+[^122]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint módosított szöveg.
+[^123]: A 62. § (5) bekezdése a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (2) bekezdésével megállapított szöveg.
+[^124]: A 234/1998. (XII. 30.) Korm. rendelet 29. §-ának (1) bekezdése szerint módosított szöveg.
+[^125]: A 157/2003. (X. 1.) Korm. rendelet 7. § (4) bekezdése alapján az együttfolyósítási összeghatár – 2003. január 1-jei visszamenőleges hatállyal – havi 46 700 forint.
+[^126]: A 62. § (7) bekezdése a 300/2019. (XII. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^127]: A 62. § új (8) bekezdését a 249/2003. (XII. 23.) Korm. rendelet 10. §-a iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatva.
+[^128]: A 62. § (9) bekezdését a 377/2004. (XII. 28.) Korm. rendelet 18. §-a (5) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 365/2007. (XII. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (3) bekezdését.
+[^129]: A 62. § (9) bekezdését a 201/1999. (XII. 26.) Korm. rendelet 12. §-ának (4) bekezdése iktatta be. A 62. § eredeti (9) bekezdésének számozását a 249/2003. (XII. 23.) Korm. rendelet 10. §-a (10) bekezdésre változtatta. A 62. § (10) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 8. § (2) bekezdése, a 333/2011. (XII. 29.) Korm. rendelet 29. § m) pontja, a 425/2012. (XII. 29.) Korm. rendelet 11. § j) pontja szerint módosított szöveg.

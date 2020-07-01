@@ -1,6 +1,6 @@
 12. §[^36] (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek
 
-a)[^37] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–k) pontjában, valamint (2) és (3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló kötelező nyári gyakorlatát, valamint a szakközépiskolai tanuló biztosítási kötelezettséggel járó jogviszonyban eltöltött nyári gyakorlatát, továbbá a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
+a)[^37] az 1998. január 1-je és 2020. június 30-a között a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: 1997. évi LXXX. törvény) 2020. július 1-jét megelőzően hatályos 5. § (1) bekezdés a), b) és e)–k) pontja, valamint (2) és (3) bekezdése, vagy 2020. június 30-át követően a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) és d)–j) pontja, valamint (2) és (3) bekezdése szerinti jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló kötelező nyári gyakorlatát, valamint a szakközépiskolai tanuló biztosítási kötelezettséggel járó jogviszonyban eltöltött nyári gyakorlatát, továbbá az 1997. évi LXXX. törvény 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
 
 b) az 1998. január 1-jét megelőzően
 
@@ -67,7 +67,7 @@ bb) a háromévesnél idősebb, de tízévesnél fiatalabb, tartósan beteg vagy
 (4)–(5)[^43]
 
 [^36]: A 12. §-t a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés e) pontja hatályon kívül helyezte, újonnan a 354/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be. A 12. §-t megelőző alcímet a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^37]: A 12. § (1) bekezdés a) pontja a 90/2014. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 360/2017. (XI. 30.) Korm. rendelet 4. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^37]: A 12. § (1) bekezdés a) pontja a 306/2020. (VI. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^38]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^39]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^40]: A 12. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 90/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
