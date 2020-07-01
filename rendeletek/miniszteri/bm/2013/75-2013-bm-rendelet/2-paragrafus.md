@@ -6,7 +6,7 @@ b)[^3] helyi lakásügyi szerv:
 
 ba) a Belügyminisztérium Pénzügyi Erőforrás-gazdálkodási Főosztály: a Belügyminisztérium hivatali szervezetében a saját dolgozói állomány vonatkozásában,
 
-bb)[^4] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakgimnáziumok, a Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ dolgozói állománya vonatkozásában,
+bb)[^4] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendvédelmi technikumok, a Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ dolgozói állománya vonatkozásában,
 
 bc) a Budapesti Rendőr-főkapitányság: a saját dolgozói állománya vonatkozásában,
 
@@ -34,7 +34,7 @@ bn)[^8] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendé
 
 [^2]: A 2. § nyitó szövegrésze az 1/2018. (I. 18.) BM rendelet 14. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § b) pontja a 15/2016. (V. 11.) BM rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^4]: A 2. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 34. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 14. §-a, az 58/2016. (XII. 22.) BM rendelet 40. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 14. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 34. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 14. §-a, az 58/2016. (XII. 22.) BM rendelet 40. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 14. § b) pontja, a 18/2020. (VI. 30.) BM rendelet 7. §-a szerint módosított szöveg.
 [^5]: A 2. § b) pont bg) alpontja a 35/2016. (VIII. 30.) BM rendelet 5. §-ával megállapított szöveg.
 [^6]: A 2. § b) pont bi) alpontja a 35/2018. (XII. 21.) BM rendelet 20. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 41. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § b) pont bl) alpontját az 58/2016. (XII. 22.) BM rendelet 40. § (3) bekezdése hatályon kívül helyezte.
