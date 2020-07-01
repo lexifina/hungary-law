@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-2-00-00
 | 2017-06-23 | 2017. évi LVIII. törvény | 1993-2-00-00.31 |
 | 2018-01-01 | 2017. évi L. törvény | 1993-2-00-00.32 |
 | 2020-03-01 | 2019. évi CX. törvény | 1993-2-00-00.33 |
+| 2020-07-01 | 2020. évi XL. törvény | 1993-2-00-00.34 |
