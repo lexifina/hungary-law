@@ -50,8 +50,6 @@ g) határon túli magyarlakta területeken felzárkózási modellprogramok átv�
 
 (4) A Főigazgatóság ellátja a „Felzárkózó települések” hosszú távú programjával, illetve a munkaerőpiaci hátrányok csökkentése, a helyi foglalkoztatás bővítése, a vidék lakosságmegtartó képességének növelése céljából szükséges gazdaságélénkítő programokkal kapcsolatos feladatokat.
 
-(5)[^1]
+(5) A Főigazgatóság a költségvetési fejezetet irányító szervvel kötött lebonyolítói megállapodások alapján ellátja a társadalmi felzárkózást elősegítő költségvetési támogatások lebonyolításával kapcsolatos feladatokat.
 
 (6) A Főigazgatóság közreműködik a roma nemzetiséghez kapcsolódó feladatok ellátásában.
-
-[^1]: A 4. § (5) bekezdése a 10. § (4) bekezdése alapján 2020. július 1-jén lép hatályba.

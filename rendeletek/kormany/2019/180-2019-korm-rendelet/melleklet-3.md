@@ -14,6 +14,6 @@
 
 | 6. | EFOP-3.7.1-17-2017-00001 | Aktívan a tudásért | Társadalmi Esélyteremtési Főigazgatóság |
 
-3. melléklet a 180/2019. (VII. 26.) Korm. rendelethez[^13]
+3. melléklet a 180/2019. (VII. 26.) Korm. rendelethez[^12]
 
-[^13]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
