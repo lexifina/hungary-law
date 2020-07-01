@@ -18,7 +18,7 @@
 
 (4a) Jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv eljárása során a kérelmezővel és a kérelmező által felhasznált okmánnyal kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában és a körözött dolgok nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
-(5) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
+(5)
 
 (5a) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során a szabálysértési eljárás alá vont személlyel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a szabálysértési eljárás alá vont személyt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti, illetve kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 

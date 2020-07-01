@@ -1,4 +1,4 @@
-## 20. Az eltűnt személyekre vonatkozó különös körözési eljárási szabályok
+## 20. Az eltűnt személyekre vonatkozó különös körözési eljárási szabályok, a mintavételi eljárás rendje az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából
 
 20. § (1) A rendőrség körözését rendelheti, – eltűnt személy esetén – rendeli el
 

@@ -96,9 +96,11 @@ lb) elrendelésének időpontját,
 
 lc) befejezésének időpontját, valamint
 
-ld) tartalmi leírását.
+ld) tartalmi leírását,
 
-(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b) és d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
+p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés azonosítására szolgáló kapcsolati kódot, valamint a szakrendszeri azonosító kódot.
+
+(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b), d)–j), valamint p) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
 
 (4) A körözött személyek nyilvántartásába a (2) bekezdés c) pontjában meghatározott adatokat a körözést elrendelő rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
 

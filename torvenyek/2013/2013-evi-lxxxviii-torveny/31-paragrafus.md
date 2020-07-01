@@ -29,3 +29,11 @@ j) a 47. § (5) bekezdés c) pontja.
 (4) A 2013. december 31-én a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény szerint folyamatban lévő személy és tárgykörözéseket a törvény rendelkezései szerint kell végrehajtani.
 
 (5) A 2013. december 31-én a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény szerint nyilvántartatott adatokat 2014. január 1-jétől a nyilvántartásban kell kezelni e törvény rendelkezései szerint.
+
+(6) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvénnyel megállapított
+
+a) ismeretlen holttestek, holttestrész ujj- és tenyérnyomatának, valamint DNS-profiljának nyilvántartása létrehozásához szükséges informatikai fejlesztéseket, valamint
+
+b) az eltűnt személyek ujj- és tenyérnyomatának, valamint DNS-profiljának, valamint az eltűnt személyek hozzátartozói DNS-profiljának nyilvántartása létrehozásához szükséges informatikai fejlesztéseket
+
+2023. január 1-jéig kell megvalósítani.

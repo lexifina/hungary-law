@@ -40,11 +40,17 @@ ea) megnevezését,
 
 eb) elrendelésének időpontját,
 
-ec) befejezésének időpontját, valamint
+ec) befejezésének időpontját,
 
-ed) tartalmi leírását.
+ed) tartalmi leírását,
 
-(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–d) pontjában foglalt adatot a körözést elrendelő rögzíti.
+f) a belső azonosító kódot,
+
+g) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+
+h) a szakrendszeri azonosító kódot.
+
+(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–d), valamint f)–h) pontjában foglalt adatot a körözést elrendelő rögzíti.
 
 (4) Az ismeretlen holttestek, holttestrészek nyilvántartásában a körözési eljárás során ismertté vált, a (2) bekezdés a) pont ad) alpontjában, b) pont bc) alpontjában c) pontjában és e) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
 
