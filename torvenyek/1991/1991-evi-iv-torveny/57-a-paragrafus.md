@@ -122,7 +122,7 @@ b) a szociális igazgatás szerve az aktív korúak ellátása megállapítási 
 
 c) a központi és területi idegenrendészeti hatóság a külföldiek beutazásához és tartózkodásához kapcsolódó, törvényben meghatározott feladataik ellátása céljából az a)–d) és f)–h) pontjai,
 
-d) az állami adó- és vámhatóság az adókötelezettség ellenőrzése, valamint a munkaerő-piaci járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
+d) az állami adó- és vámhatóság az adókötelezettség ellenőrzése, valamint a társadalombiztosítási járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
 
 e) a rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése céljából a TAJ alkalmazásával az a), valamint c)–i) pontjai,
 

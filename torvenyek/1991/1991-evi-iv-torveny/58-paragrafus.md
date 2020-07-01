@@ -94,9 +94,9 @@ q) jövedelem: az Szt. 4. §-a (1) bekezdésének a) pontjában meghatározott j
 
 r) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
 
-s) egyéni vállalkozó: a Tbj. 5. §-a (1) bekezdésének e) pontja szerint biztosított, a Tbj. 4. §-ának b) pontjában meghatározott személy,
+s) egyéni vállalkozó: a Tbj. 6. § (1) bekezdés d) pontja szerint biztosított, a Tbj. 4. § 2. pontjában meghatározott személy,
 
-t) társas vállalkozó: a Tbj. 5. §-a (1) bekezdésének f) pontja szerint biztosított, a Tbj. 4. §-ának d) pontjában meghatározott személy,
+t) társas vállalkozó: a Tbj. 6. § (1) bekezdés e) pontja szerint biztosított, a Tbj. 4. § 21. pontjában meghatározott személy,
 
 u) havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, munkaerőpiaci járulék alapját képező jövedelem napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa. A 180 naptári napi jövedelmet legfeljebb a kérelem benyújtásának napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni.
 
