@@ -18,6 +18,8 @@
 
 (4) Az útlevélhatóság, illetve az adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve, valamint a konzuli tisztviselő részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
 
+(4a) Az útlevélhatóság a közúti közlekedési nyilvántartó szerv és közlekedési igazgatási hatóság részére a közlekedési igazgatási eljárások során a személyazonosítás céljára a 24. § (1) bekezdés a)–b), valamint e) pontjában meghatározott adatokat szolgáltathatja.
+
 (5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevél és magánútlevél törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság, vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
 
 (6) Ha az (5) bekezdés szerinti hivatalos útlevél vagy magánútlevél

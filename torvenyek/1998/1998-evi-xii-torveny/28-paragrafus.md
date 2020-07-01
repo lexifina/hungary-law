@@ -4,7 +4,7 @@ a) arra vonatkozóan, hogy az érintett személy rendelkezik-e érvényes úti o
 
 b) az úti okmány birtokosának családi és utónevéről – ideértve a születési családi és utónevet is –,
 
-c) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megkerülésének tényéről, valamint
+c) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megtalálásának tényéről, valamint
 
 d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére az érintett arcképmásáról és saját kezű aláírásáról is, de a személyazonosítást követően ezen adatokat haladéktalanul törölni kell, kivéve, ha az érintett a további adatkezeléshez hozzájárult, vagy azt törvény lehetővé teszi.
 
@@ -12,7 +12,7 @@ d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésér
 
 (2a) Ha a kérelmező saját, az útlevélhatóság által nyilvántartott adatáról kér tájékoztatást, a kérelemre és annak teljesítésére az érintettnek a személyes adataihoz való hozzáférésre vonatkozó jogát szabályozó előírásokat kell alkalmazni.
 
-(2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
+(2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező – a második biometrikus adat kivételével – bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
 
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra – a (3a) bekezdésben foglalt kivétellel – személyazonosító adat nélkül adatot szolgáltathat.
 

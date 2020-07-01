@@ -12,6 +12,8 @@ d) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségr
 
 e) gazdálkodó szervezet: gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
-f) pótlás: úti okmány kiállítása az útlevélhatóság által kiadott elveszett, eltulajdonított vagy megsemmisült úti okmány helyett, annak érvényességi idején belül a korábbi úti okmánnyal – az okmányazonosító adat és a kiállítás dátumának kivételével – megegyező adattartalommal;
+f) pótlás: úti okmány kiállítása az útlevélhatóság által kiadott elveszett, eltulajdonított vagy megsemmisült magánútlevél, második magánútlevél, szolgálati útlevél és hajós szolgálati útlevél helyett, annak érvényességi idején belül a korábbi úti okmánnyal – az okmányazonosító adat és a kiállítás dátumának kivételével – megegyező adattartalommal;
 
-g) elektronikus adat: az útiokmány-nyilvántartás számítógépes adathordozón kezelt adatállománya.
+g) elektronikus adat: az útiokmány-nyilvántartás számítógépes adathordozón kezelt adatállománya;
+
+h) kapcsolattartási adat: telefonszám, e-mail-cím.

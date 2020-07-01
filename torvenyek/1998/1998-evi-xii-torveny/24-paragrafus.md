@@ -2,7 +2,7 @@
 
 ## Adatkezelés és adatszolgáltatás
 
-24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban kezeli:
+24. § (1) Az adatkezelő szerv – az úti okmány valódiságának ellenőrzése, a birtokosa személyazonosságának és állampolgárságának, valamint a külföldre utazáshoz, illetve hazatéréshez való jogosultság igazolása céljából – az útiokmány-nyilvántartásban kezeli:
 
 a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, nemét, állampolgárságát (a továbbiakban együtt: személyi adat), személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát, kézbesítési címét valamint kapcsolattartási adatát,
 
