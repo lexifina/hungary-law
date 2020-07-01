@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 83/2010. (III. 25.) Korm. rendelethez[^40]
+1. melléklet a 83/2010. (III. 25.) Korm. rendelethez[^42]
 
 A THM kiszámítására vonatkozóan a következő képletet kell alkalmazni:
 
@@ -28,4 +28,4 @@ X: a THM értéke.
 
 ahol „S” a pénzáramlás jelenlegi egyenlege. A kétirányú pénzáramlás egyenlősége esetén ennek értéke nulla.
 
-[^40]: Az 1. melléklet a 468/2015. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^42]: Az 1. melléklet a 468/2015. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
