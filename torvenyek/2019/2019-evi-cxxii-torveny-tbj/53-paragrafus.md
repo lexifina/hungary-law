@@ -1,0 +1,1 @@
+53. § A 48. § szerinti megállapodást a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatallal kell megkötni.

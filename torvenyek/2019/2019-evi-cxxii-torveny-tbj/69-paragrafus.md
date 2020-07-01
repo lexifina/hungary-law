@@ -1,0 +1,7 @@
+69. § (1) Ha az egészségügyi szolgáltatónak az Ebtv. rendelkezései szerinti ellenőrzése során megállapítást nyer, hogy az ellátást igénybe vevő személy nem szerepel az egészségügyi szolgáltatásra jogosultak nyilvántartásában, a jogosultságának tisztázása érdekében az érintett személy hatósági eljárást kezdeményezhet az egészségbiztosítási szervnél.
+
+(2) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában az érintett személyt – a biztosítotti, illetve az egyéb jogcímen egészségügyi szolgáltatásra jogosító jogviszony fennállásának tisztázásáig – az egészségügyi szolgáltatásra jogosultként szerepelteti, ha az érintett személy okirattal valószínűsíti a jogviszony fennállását.
+
+(3) Az egészségbiztosítási szerv a (2) bekezdésben meghatározott bejegyzést követően – az okirat másolatának megküldésével együtt – a bejelentési és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából a 68. § (4) bekezdésében meghatározott adatokat haladéktalanul továbbítja az állami adóhatóságnak.
+
+(4) Az (1)–(3) bekezdésben meghatározott eljárás során felhasználható minden olyan közokirat és teljes bizonyító erejű magánokirat, valamint minden más, erre alkalmas további bizonyítási eszköz, amely a biztosítással járó jogviszony fennállását, illetve az egészségügyi szolgáltatásra való jogosultságot valószínűsíti.

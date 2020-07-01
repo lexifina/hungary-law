@@ -1,0 +1,3 @@
+## 44. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
+
+123. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 3. számú melléklet A) Nem a vállalkozási tevékenység érdekében felmerülő egyes költségek, ráfordítások rész 7. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerinti megállapodás alapján fizetett egészségbiztosítási” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti egészségügyi szolgáltatás biztosítására kötött megállapodás alapján fizetett” szöveg lép.

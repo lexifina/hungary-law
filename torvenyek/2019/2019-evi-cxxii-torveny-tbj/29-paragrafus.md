@@ -1,0 +1,1 @@
+29. § Az esedékességet követő időpontban kifizetett járulékalapot képező jövedelmet (elmaradt követelés) a járulékfizetési kötelezettség megállapításánál arra az évre (időszakra) kell figyelembe venni, amely évre (időszakra) azt kifizették.

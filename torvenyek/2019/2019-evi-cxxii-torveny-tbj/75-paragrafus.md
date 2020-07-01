@@ -1,0 +1,5 @@
+75. § (1) A 74. § (4) bekezdése szerinti nyilvántartást a nyilvántartásra kötelezett havonta lezárja, archiválja, és arról az Art.-ban meghatározottak szerint az állami adóhatósághoz bevallást teljesít.
+
+(2) A foglalkoztató a jövedelemigazoláshoz csatoltan a tárgyévet követő év január 31. napjáig köteles a nyilvántartás adataival egyező igazolást kiadni a biztosított részére a tárgyévben fennállt biztosítási idő kezdetének és végének időpontjáról, a tárgyévre, illetve a tárgyévtől eltérő időre levont járulékok összegéről, valamint az egyes járulékokból érvényesített családi járulékkedvezményről. A biztosítással járó jogviszony év közben történő megszűnése esetén az igazolást soron kívül kell kiadni.
+
+(3) Ha az e § szerinti bevallási kötelezettség teljesítése, vagy a már teljesített adatszolgáltatás módosítása a 2008. évet megelőző időszakra, illetve az Art.-ban meghatározott elévülési időn túli évre, évekre vonatkozik, az adatszolgáltatást a nyugdíjbiztosítási igazgatási szerv részére kell teljesíteni.

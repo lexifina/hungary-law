@@ -1,0 +1,1 @@
+102. § A prémium évek programban részt vevő és a különleges foglalkoztatási állományban lévő személyek esetében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. június 30-án hatályos szabályait kell alkalmazni.

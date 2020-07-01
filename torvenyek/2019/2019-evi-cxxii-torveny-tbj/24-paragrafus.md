@@ -1,0 +1,1 @@
+24. § A járulékokat havonta a járulékalapot képező jövedelem kifizetésekor irányadó járulékmértékek szerint kell megfizetni. A járulékokat a biztosítási kötelezettséggel járó jogviszony megszűnését követően kifizetett (kiosztott) járulékalapot képező jövedelem után is meg kell fizetni.

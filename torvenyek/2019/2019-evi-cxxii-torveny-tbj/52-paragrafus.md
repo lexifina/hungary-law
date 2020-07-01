@@ -1,0 +1,13 @@
+52. § (1) A 48. § és 49. § szerinti megállapodásnak tartalmaznia kell a szerződő felek megnevezését, címét, valamint a megállapodást kötő személynek, illetve a kedvezményezettnek a nyilvántartásra, adatszolgáltatásra vonatkozó rendelkezések szerinti adatait, a fizetendő járulék alapját vagy összegét, a szerződés keltét, és ha a járulékfizetési kötelezettség (a szerződés hatálya) ettől eltér, ennek időpontját.
+
+(2) Az egészségügyi szolgáltatásra megállapodás csak a megállapodás megkötését követő hónap első napjától kezdődő hatállyal, az első hónapra esedékes járulék egyidejű befizetése mellett köthető. Ezt követően a járulékot havonta előre, a tárgyhónapot közvetlenül megelőző hónap 12. napjáig kell megfizetni. A befizetési határidő elmulasztása esetén a megállapodás megszűnik a járulék esedékességének napját magában foglaló naptári hónap utolsó napján, kivéve, ha addig a tartozást megfizetik. Az egészségügyi szolgáltatásra való jogosultság a megállapodás megszűnéséig áll fenn.
+
+(3) Az egészségügyi szolgáltatás biztosítására kötött megállapodás megkötésére a megállapodást kötni kívánó személy egészségügyi állapotának felmérését követően kerülhet sor, azzal, hogy az egészségi állapotfelmérés során megállapított, fennálló betegséggel, egészségkárosodással összefüggő egészségügyi szolgáltatásra a megállapodás nem terjedhet ki. Az egészségügyi állapotfelmérés díjköteles. Az egészségügyi állapotfelmérést a megállapodás megkötésére jogosult igazgatási szerv – az egészségbiztosításért felelős miniszter által meghatározott egészségügyi szolgáltatónál és rendben – rendeli el.
+
+(4) A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A tárgyhónap első napját megelőző időre megállapodás nem köthető. Ezt követően a nyugdíjjárulékot a tárgyhónapot követő hónap 12. napjáig kell megfizetni. A befizetés elmulasztása a megállapodás megszűnését vonja maga után.
+
+(5) A megállapodás alapján megszerzett jogosultságra – ha e törvény másként nem rendelkezik – a Tny., illetve az Ebtv. rendelkezéseit kell alkalmazni.
+
+(6) A (4) bekezdés rendelkezéseitől eltérően, a 49. § (1) és (3) bekezdése szerint kötött megállapodás alapján egészségügyi szolgáltatás – a sürgősségi ellátás kivételével – a megállapodás megkötését követő huszonnegyedik hónap első napjától jár, kivéve, ha a megállapodás megkötésével egyidejűleg az előírt járulék befizetése visszamenőleg huszonnégy hónapra megtörtént. Az utóbbi esetben az egészségügyi szolgáltatás a megállapodás megkötését követő hónap első napjától jár.
+
+(7) Megállapodás alapján egészségügyi szolgáltatásra jogosult külföldi részére az igazolást a vele megállapodást kötő igazgatási szerv adja ki.

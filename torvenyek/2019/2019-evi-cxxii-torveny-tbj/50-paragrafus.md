@@ -1,0 +1,1 @@
+50. § A 48. § és a 49. § szerinti megállapodást a kedvezményezett személy javára a járulékfizetés átvállalásával más személy vagy szerv is megkötheti. Az előzőekben említett megállapodások alapján fizetendő járulékokat Magyarország hivatalos pénznemében és a megállapodás megkötése utáni mértékváltozások figyelembevételével kell megállapítani és megfizetni.

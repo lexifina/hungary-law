@@ -1,0 +1,3 @@
+18. § (1) A 17. § (2) bekezdés a) pontjában foglalt rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását az 1. melléklet szerint igazolja, függetlenül attól, hogy a kiküldött személy állampolgársága szerinti állammal Magyarországnak hatályos szociális biztonsági egyezménye áll fenn.
+
+(2) A 17. § (2) bekezdés a) pontjában foglalt rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását az 1. melléklet szerint igazolja és nem tartozik a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá.

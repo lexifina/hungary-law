@@ -1,0 +1,1 @@
+31. § A biztosítás szünetelése alatt a szünetelést megelőzően fennálló biztosítással járó jogviszony alapján kifizetett (juttatott) járulékalapot képező jövedelmet úgy kell figyelembe venni, mintha annak kifizetésére a szünetelés kezdő napját megelőző napon került volna sor.

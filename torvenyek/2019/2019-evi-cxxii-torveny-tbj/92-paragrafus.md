@@ -1,0 +1,5 @@
+92. § (1) Ha az önálló vállalkozó belföldön folytatott vállalkozói tevékenységét átmenetileg a koordinációs rendeletek hatálya alá tartozó másik tagállamban vagy egyezményben részes másik államban (a továbbiakban együtt: másik állam) folytatja, a magyar jog alkalmazásának meghatározása érdekében választása szerint a lakóhelye, tartózkodási helye vagy vállalkozásának székhelye szerint illetékes egészségbiztosítási szervnek a NEAK által erre a célra rendszeresített és honlapján közzétett nyomtatványon a 3. melléklet 4. pontja szerinti adatokat szolgáltatja.
+
+(2) A koordinációs rendeletekben, illetve egyezményben előírt feltételek teljesítése esetén az egészségbiztosítási szerv alkalmazandó jogként meghatározza a magyar jogot és ezt igazolja.
+
+(3) Nem alkalmazható a magyar jog az önálló vállalkozó másik államban folytatott tevékenységének időtartama alatt, ha e tevékenységéhez – a 3. melléklet 4. pont b) alpontja szerint – hasonló belföldi tevékenységet az önálló vállalkozó a másik tagállami munkavégzés megkezdése előtt kevesebb mint 60 napig folytatott.

@@ -1,0 +1,3 @@
+## 52. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
+
+151. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 26. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § b) pontjának 1–6. alpontjában, valamint c) pontjában” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 2. pont 2.1–2.6. alpontjában, valamint 21. pontjában” szöveg lép.

@@ -1,0 +1,1 @@
+30. § A biztosítással járó jogviszony megszűnését követően, e jogviszony alapján kifizetett (juttatott) járulékalapot képező jövedelmet úgy kell figyelembe venni, mintha annak kifizetésére a jogviszony fennállásának utolsó napján került volna sor.
