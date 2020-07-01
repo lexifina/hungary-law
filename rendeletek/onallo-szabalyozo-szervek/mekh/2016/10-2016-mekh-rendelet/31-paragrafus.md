@@ -12,9 +12,9 @@ a) az erőmű a betáplálási csatlakozási ponton jelentkező rendszerhasznál
 
 b) a felhasználó a felhasználási helyen az igénybejelentés időpontjában már rendelkezésére álló teljesítményért,
 
-c)[^14] a kisfeszültségű vételezés céljából csatlakozást igénylő felhasználási helyenként egy csatlakozási pont esetén, ha annál a csatlakozási pontnál a fázisonként igényelt névleges áramerősségek összege – az új csatlakozási igény alapján vagy a már meglévő szerződésben szereplő érték és a többletigény együttes figyelembevétele alapján számítva – nem haladja meg a 32 ampert, ideértve a VET 146/A. § (9) bekezdés szerint meghatározott, összesen legfeljebb 32 amper áramerősségű kisfeszültségű csatlakozást igénylőt is.
+c)[^17] a kisfeszültségű vételezés céljából csatlakozást igénylő felhasználási helyenként egy csatlakozási pont esetén, ha annál a csatlakozási pontnál a fázisonként igényelt névleges áramerősségek összege – az új csatlakozási igény alapján vagy a már meglévő szerződésben szereplő érték és a többletigény együttes figyelembevétele alapján számítva – nem haladja meg a 32 ampert, ideértve a VET 146/A. § (9) bekezdés szerint meghatározott, összesen legfeljebb 32 amper áramerősségű kisfeszültségű csatlakozást igénylőt is.
 
-(2)[^15] Ha a csatlakozást igénylő által igényelt teljesítmény meghaladja az (1) bekezdés szerinti teljesítményhatárokat, a csatlakozási alapdíjat csak az e feletti teljesítmény után fizeti meg.
+(2)[^18] Ha a csatlakozást igénylő által igényelt teljesítmény meghaladja az (1) bekezdés szerinti teljesítményhatárokat, a csatlakozási alapdíjat csak az e feletti teljesítmény után fizeti meg.
 
 (3) A közcélú hálózaton már rendelkezésre álló teljesítményen felüli többletteljesítmény-igény esetén a csatlakozási alapdíjat a többletteljesítményt igénylő az igényelt többletteljesítménynek megfelelően fizeti meg, figyelembe véve az (1) és (2) bekezdésben foglaltakat is.
 
@@ -24,5 +24,5 @@ a) időszakos, külön mért, vezérelt, illetve
 
 b) idényjellegű, külön mért
 
-[^14]: A 31. § (1) bekezdés c) pontja a 6/2017. (VII. 13.) MEKH rendelet 5. §-ával megállapított szöveg.
-[^15]: A 31. § (2) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^17]: A 31. § (1) bekezdés c) pontja a 6/2017. (VII. 13.) MEKH rendelet 5. §-ával megállapított szöveg.
+[^18]: A 31. § (2) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (3) bekezdése szerint módosított szöveg.
