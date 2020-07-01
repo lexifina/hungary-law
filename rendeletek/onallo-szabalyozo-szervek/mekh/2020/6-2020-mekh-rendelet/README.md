@@ -1,0 +1,9 @@
+# 6/2020. (VI. 29.) MEKH rendelet
+
+az egyes adatszolgáltatási, műszaki és díjfizetési tárgyú MEKH rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-6-20-5Z
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-07-01 | 2020-6-20-5Z.1 | 6/2020. (VI. 29.) MEKH rendelet |
