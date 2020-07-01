@@ -1,1 +1,1 @@
-40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a Tbj. 5. § (1) bekezdés a) pontja szerinti jogviszony jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
+40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a Tbj. 6. § (1) bekezdés a) pontja szerinti jogviszony jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.

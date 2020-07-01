@@ -1,17 +1,29 @@
-102/A. § (1) Az öregségi nyugdíj 22/A. § szerinti növelése iránti, 2016. december 31-éig jogerősen le nem zárt ügyekben a kérelmeket a 2016. december 31-én hatályos rendelkezések szerint kell elbírálni.
+102/A. § (1) A saját jogú nyugellátás mellett 2020. július 1-jét megelőzően folytatott, nyugdíjjárulék-köteles keresettel, jövedelemmel járó keresőtevékenységre a 2020. június 30-án hatályos
 
-(2) Ha a saját jogú nyugellátásban részesülő személy 2016. december 31-éig nem kérte a 2016. január 1-jét megelőző időszakban szerzett jövedelem alapján járó nyugdíjnövelést, annak összegét a nyugdíjbiztosítási igazgatási szerv 2017. június 30-áig hivatalból állapítja meg. A nyugdíjnövelést
+a) 22/A. § (1), (2), (4) és (5) bekezdését, valamint
 
-a) a 2007–2010. évben szerzett jövedelem után e § 2016. december 31-én hatályos szövegében foglaltak szerint,
+b) 102/A. § (2)–(5) bekezdését
 
-b) a 2011–2015. évben szerzett jövedelem után a 2016. december 31-én hatályos 22/A. §-ban foglaltak szerint
+kell alkalmazni.
 
-kell megállapítani.
+(2) A 2019. évi keresőtevékenységgel szerzett nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv
 
-(3) A (2) bekezdés szerinti nyugdíjnövelést visszamenőlegesen, attól az időponttól kezdődően kell megállapítani, amelytől kezdődően az a jogosultat a nyugdíjnövelés iránti kérelem legkorábbi benyújtása esetén megillette volna. A nyugdíjnövelést és annak visszamenőlegesen járó összegét a jogosultság megszerzésének időpontját követő időközi nyugdíjemelések mértékével megemelt összegben kell folyósítani.
+a) 2020. szeptember 30-áig hivatalból állapítja meg, ha kizárólag a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
 
-(4) A nyugdíjnövelés összegét a (2) bekezdésben foglaltak szerint akkor is meg kell állapítani, ha az azóta megszűnt saját jogú nyugellátás mellett korábban szerzett nyugdíjnövelés jogosultja nem minősül öregségi nyugdíjasnak. A megállapított nyugdíjnövelést az öregségi nyugdíj folyósításának időpontjától kezdődően kell – a jogosultság megszerzésének időpontját követő időközi nyugdíjemelések mértékével megemelt összegben – folyósítani.
+b) 2020. október 31-éig hivatalból állapítja meg az a) pontban nem említett esetben,
 
-(5) Ha a 2016. január 1-jét megelőző időszakban nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt, a nyugdíjnövelést a hozzátartozói nyugellátás megállapítására irányuló eljárásban kérelemre, a (2) bekezdés a) és b) pontjában foglaltak szerint kell megállapítani.
+kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt.
+
+(3) A 2020. január–június hónapjaiban végzett keresőtevékenységgel szerzett nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv
+
+a) 2021. szeptember 30-áig hivatalból állapítja meg, ha kizárólag a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
+
+b) 2021. október 31-éig hivatalból állapítja meg az a) pontban nem említett esetben,
+
+kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt.
+
+(4) A szüneteltetett öregségi nyugdíj újbóli folyósítása során a jogosultat – a 83/A. § (3) bekezdésében foglaltakon túl, a növelés időpontjának figyelembevételével – a megállapított nyugdíjnövelés is megilleti.
+
+(5)
 
 (6)

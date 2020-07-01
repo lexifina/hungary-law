@@ -6,7 +6,9 @@ a) saját jogú nyugellátás és a hozzátartozói nyugellátás: olyan kereset
 
 b) öregségi nyugdíj: meghatározott életkor elérése és meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
 
-c)–d)
+c) nyugdíjjárulék: a 2020. július 1-jét megelőzően elért keresetek, jövedelmek tekintetében a nyugdíjjárulék, a 2020. július 1-jétől elért keresetek, jövedelmek tekintetében a társadalombiztosítási járulék és a nyugdíjjárulék;
+
+d)
 
 e) özvegyi nyugdíj: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy házastársának, meghatározott feltételek mellett élettársának, valamint elvált házastársának járó nyugellátás;
 

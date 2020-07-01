@@ -14,7 +14,7 @@ c) az 1987. december 31-ét követő időszakra vonatkozó nyugdíjjárulék-kö
 
 d) az 1987. december 31-ét követő időszakra vonatkozóan a foglalkoztató által levont, befizetett nyugdíjjárulék, és
 
-e) azok a szolgálati időnek minősülő időszakok, amelyek után nem történt járulék-, illetve nyugdíjjárulék-fizetés.
+e) azok a szolgálati időnek minősülő időszakok, amelyek után nem történt járulékfizetés.
 
 (4) A biztosított, volt biztosított a (3) bekezdés szerinti értesítés vele való közlését követő hatvan napon belül nyilatkozik a nyugdíjbiztosítási igazgatási szervnek azokról az általa ismert, (3) bekezdés a)–e) pontja szerinti adatokról, amelyeket a nyilvántartás nem tartalmaz, vagy amelyek nem egyeznek meg a nyilvántartott adatokkal. A biztosított, volt biztosított az általa közölt adatokat igazoló, rendelkezésére álló okiratokat megküldi a nyugdíjbiztosítási igazgatási szervnek.
 

@@ -1,9 +1,1 @@
-83/B. § (1) Ha az öregségi nyugdíjkorhatárt be nem töltött, a 18. § (2a)–(2d) bekezdése alapján megállapított, vagy a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés c) pontja alapján továbbfolyósított öregségi teljes nyugdíjban részesülő személy a tárgyévben a Tbj. 5. §-a szerinti biztosítással járó jogviszonyban áll, illetve egyéni vagy társas vállalkozóként kiegészítő tevékenységet folytat, és az általa fizetendő nyugdíjjárulék alapja meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér havi összegének tizennyolcszorosát (a továbbiakban: éves keretösszeg), az éves keretösszeg elérését követő hónap első napjától az adott tárgyév december 31-éig, de legfeljebb az öregségi nyugdíjkorhatár betöltéséig a nyugdíj folyósítását szüneteltetni kell. Ha a fizetendő nyugdíjjárulék alapja az éves keretösszeget a tárgyév decemberében haladja meg, a nyugellátás szüneteltetésére nem kerül sor, de a tárgyév december havi nyugellátást – a 84. § alkalmazásával – vissza kell fizetni. E § alkalmazása során a fizetendő nyugdíjjárulék alapjába nem számít bele a 83/C. § (1) bekezdése szerinti jogviszonyból származó, a szünetelés időtartama alatt szerzett kereset, jövedelem.
-
-(2) A nyugdíjbiztosítási igazgatási szerv a nyugdíj folyósításának szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett nyugellátás visszafizettetéséről – a nyugellátásban részesülő személynek a 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
-
-(3) Az e §-ban foglalt rendelkezések nem alkalmazhatók arra a személyre, aki a nyugdíjának folyósítását a 83/A. § alapján teljes naptári évre szünetelteti.
-
-(4) A nyugellátás szüneteltetésének időtartama alatt az érintett nyugdíjasnak minősül. Az ellátás újbóli folyósítása során a 83/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(5)
+### 83/B. §

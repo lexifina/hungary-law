@@ -12,4 +12,4 @@ c)
 
 (3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat vagy hatósági bizonyítvány kiadásának ügyintézési határideje tizenöt nap.
 
-(4) A nyugdíj-biztosítási igazgatási szervek által lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(4)

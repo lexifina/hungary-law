@@ -4,9 +4,9 @@
 
 a) a biztosított természetes személyazonosító adatait és társadalombiztosítási azonosító jelét,
 
-b) a biztosított után a 2012. december 31-ét követő időszakra bevallott nyugdíjjárulék összegére vonatkozó, az állami adóhatóságtól átvett adatokat,
+b) a 2012. december 31-étől 2020. június 30-áig terjedő időszakra a biztosított után bevallott nyugdíjjárulék összegére, a 2020. július 1-jétől kezdődő időszakra a biztosított után bevallott társadalombiztosítási járuléknak a Nyugdíjbiztosítási Alapot nyugdíjjárulékként megillető összegére vonatkozó, az állami adóhatóságtól átvett adatokat,
 
-c) a Tbj. 34. §-a alapján kötött megállapodás alapján fizetett nyugdíjjárulék összegét, és a megállapodással érintett időtartamot, valamint
+c) a megállapodás alapján fizetett nyugdíjjárulék összegét, és a megállapodással érintett időtartamot, valamint
 
 d) a rehabilitációs járadék, rehabilitációs ellátás összegéből levont nyugdíjjárulék összegét, és az ellátás folyósításának időtartamát.
 

@@ -2,7 +2,7 @@
 
 a) az 1988. január 1-je és 1996. december 31-e közötti, illetőleg az 1988. január 1-je előtti keresetek, jövedelmek esetén az 1996. december 31. napján érvényes társadalombiztosítási szabályok szerint a főfoglalkozásban elért jövedelmet, az ezen időszak alatt kifizetett év végi részesedést, prémiumot, jutalmat és a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
 
-b) 1997. január 1-jétől az 1998. január 1-je előtti rendelkezések szerinti, illetőleg 1998. január 1-jétől a Tbj.-ben meghatározott biztosítással járó jogviszonyból vagy jogviszonyokból származó, nyugdíjjárulék-alapot képező keresetet, jövedelmet és 1997. évben a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
+b) 1997. január 1-jétől a biztosítással járó jogviszonyból vagy jogviszonyokból származó, nyugdíjjárulék-alapot képező keresetet, jövedelmet és 1997. évben a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
 
 c) amennyiben a nyugdíjjárulékot a biztosítási jogviszony keretében meghatározott összeg után kellett fizetni, ezt az összeget,
 
@@ -10,13 +10,13 @@ d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosí
 
 e) a felszolgálási díj 81%-át,
 
-f) a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
+f) a 2020. június 30-áig terjedő időszakra a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
 
 g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 százalékát, 2008. január 1-jétől 61 százalékát, amely után a magánszemélyt terhelő ekho mértéke 15 százalék,
 
 h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
 
-i) a Tbj. 30/A. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
+i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
 
 j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
@@ -42,13 +42,15 @@ h) az a)–f) pont szerinti ellátások folyósításának időtartama alatt sze
 
 (3) A Péptv. 2011. január 1-jét megelőzően hatályos 4/A. §-a szerinti prémiumévek programban részt vevő biztosított esetében a nyugdíj alapjául szolgáló havi átlagkereset megállapításánál a részmunkaidőre megállapított, ténylegesen kifizetett kereset mellett a nyugdíjjárulék-, illetve nyugdíjbiztosítási járulékkiegészítés alapjaként számított összeget is figyelembe kell venni. Ha a prémiumévek programba történő belépése és munkaviszonya megszűnése közötti időszakban a biztosított prémiumévek programhoz kapcsolódó, részmunkaidőre szóló munkabérét emelték, akkor a járulékkiegészítés alapjaként számított összeget szintén ezen emelés százalékos arányával megemelten kell figyelembe venni. Többszöri béremelés esetén a prémiumévek programba történő bekerüléskor, illetve annak megszűnésekor érvényes bér közötti százalékos arányt kell alapul venni. A 39. §-ban foglalt rendelkezéseket ebben az esetben nem kell alkalmazni.
 
+(3a) A saját jogú nyugellátás mellett folytatott keresőtevékenységgel szerzett kereset, jövedelem összege az öregségi nyugdíj alapját képező havi átlagkereset kiszámítása során nem vehető figyelembe.
+
 (4) Amennyiben a biztosított az (1) bekezdésben meghatározott időszaknak – vagy ha ennél a szolgálati idő kevesebb, e rövidebb időnek – legalább a felében rendelkezik a nyugdíjszámítás alapjául szolgáló keresettel, jövedelemmel, a havi átlagkeresetet a tényleges – a kifizetés időpontjában érvényes jogszabályok szerint nyugdíjjárulék-alapot képező – kereset, jövedelem alapján kell meghatározni.
 
 (5) Ha a (4) bekezdés szerinti időszakban, az átlagszámítási időnek legalább a fele részére a nyugdíjat igénylőnek nincs keresete, jövedelme, a hiányzó időre eső napokra a keresetet, jövedelmet az 1988. január 1-je előtti legközelebbi időszak keresete, jövedelme alapján kell figyelembe venni. Ha ez sem áll rendelkezésre, keresetként – a nyugellátás megállapításának kezdő napjától folyamatosan visszaszámítva – a hiányzó időre érvényes, külön jogszabályban általánosan meghatározott minimálbér harmincad részét kell figyelembe venni azokra a naptári napokra, amelyekre nyugdíjalapot képező kereset, jövedelem nem volt és a (10) bekezdés alkalmazásánál e naptári napok is osztószámot képeznek.
 
 (6) Az 1988. január 1-jétől elért, (1)–(5) bekezdés szerinti kereseteket, jövedelmeket – ideértve a minimálbér összegét is – naptári évenként csökkenteni kell
 
-a) a kifizetés időpontjában hatályos jogszabályokban meghatározott járulékmértékek figyelembevételével számított természetbeni és pénzbeli egészségbiztosítási járulék, nyugdíjjárulék, magánnyugdíj-pénztári tagdíj, munkavállalói járulék, vállalkozói járulék, valamint 2010. január 1-jétől egészségbiztosítási és munkaerő-piaci járulék összegével, továbbá
+a) a kifizetés időpontjában hatályos jogszabályokban meghatározott járulékmértékek figyelembevételével számított természetbeni és pénzbeli egészségbiztosítási járulék, nyugdíjjárulék, magánnyugdíj-pénztári tagdíj, munkavállalói járulék, vállalkozói járulék, valamint egészségbiztosítási és munkaerő-piaci járulék összegével, továbbá
 
 b) a személyi jövedelemadónak
 

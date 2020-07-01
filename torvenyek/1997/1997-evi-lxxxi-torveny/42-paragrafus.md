@@ -7,3 +7,5 @@
 a) a letartóztatás idejét, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette,
 
 b) a szabadságvesztés idejét, ha az elítéltet a bíróság utóbb jogerősen felmentette.
+
+(3) A saját jogú nyugellátás mellett folytatott keresőtevékenység időtartama szolgálati időként nem vehető figyelembe.

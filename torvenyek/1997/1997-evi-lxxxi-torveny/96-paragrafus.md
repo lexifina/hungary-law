@@ -72,7 +72,7 @@ j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvén
 
 szerinti adatok igénylésére jogosultak.
 
-(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok a Tbj. 42. §-ának (4) bekezdése, egyéb szervek pedig a Tbj. 43. §-ának (1) bekezdése szerint jogosultak a nyilvántartásba felvett adatok igénylésére.
+(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (5) A (2) bekezdés szerinti adatok statisztikai célra felhasználtatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
