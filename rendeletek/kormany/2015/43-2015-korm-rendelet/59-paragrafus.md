@@ -14,7 +14,7 @@ b) a biztosító vagy a viszontbiztosító kockázati profilja jelentősen elté
 
 c) a biztosító vagy a viszontbiztosító irányítási rendszere jelentősen eltér a Bit. 76–92. §-ában meghatározott szabályoktól, és az eltérés gátolja a biztosítót vagy viszontbiztosítót abban, hogy képes legyen helyesen meghatározni, felmérni, figyelemmel kísérni, kezelni és jelenteni azokat a kockázatokat, amelyeknek ki van, vagy ki lehet téve, és más eszközök alkalmazása önmagában nem valószínű, hogy a megfelelő határidőn belül orvosolni tudná a hiányosságokat, és
 
-d)[^10] a biztosító vagy a viszontbiztosító kockázati profilja jelentősen eltér a 9–10. §-ban meghatározott illeszkedési kiigazítás, a 11. §-ban meghatározott volatilitási kiigazítás vagy a 88–89. § szerinti átmeneti intézkedések alapjául szolgáló feltételezésektől.
+d)[^11] a biztosító vagy a viszontbiztosító kockázati profilja jelentősen eltér a 9–10. §-ban meghatározott illeszkedési kiigazítás, a 11. §-ban meghatározott volatilitási kiigazítás vagy a 88–89. § szerinti átmeneti intézkedések alapjául szolgáló feltételezésektől.
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott esetben a többlettőke-követelményt oly módon kell kiszámítani, hogy az megfeleljen a 26. § (2)–(3) bekezdésében előírtaknak.
 
@@ -24,4 +24,4 @@ d)[^10] a biztosító vagy a viszontbiztosító kockázati profilja jelentősen 
 
 (5) Az (1) bekezdés b) és c) pontjában meghatározott esetekben a Felügyelet köteles olyan intézkedést hozni, amely alkalmas a többlettőke-követelmény előírás alapjául szolgáló hiányosságok megszüntetésére.
 
-[^10]: Az 59. § (1) bekezdés d) pontja a 278/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 59. § (1) bekezdés d) pontja a 278/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
