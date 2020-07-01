@@ -14,7 +14,7 @@ f) érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezi
 
 g) nem állampolgára a fogadó államnak, valamint
 
-h) egyéb módon nem biztosított házastársa részére – amennyiben a kihelyezett családi állapota indokolja – a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti, nyugellátásra jogosító szolgálatiidő- és nyugdíjalapot képező jövedelem szerzését célzó megállapodás megkötésére kötelezettséget vállal.
+h) egyéb módon nem biztosított házastársa részére – amennyiben a kihelyezett családi állapota indokolja – a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti, nyugellátásra jogosító szolgálatiidő- és nyugdíjalapot képező jövedelem szerzését célzó megállapodás megkötésére kötelezettséget vállal.
 
 (2) Az (1) bekezdésben meghatározott feltételek alól kizárólag az e bekezdésben foglaltak szerint meghatározott halasztás és felmentés adható. Az (1) bekezdés d) pontjában foglalt, az adott külképviselet vonatkozásában releváns idegennyelv-ismeret teljesítésére – indokolt esetben – a kihelyező vezető legfeljebb egy év halasztást engedélyezhet. Külképviselet-vezető esetében az (1) bekezdés a) és g) pontjában foglalt feltétel alól indokolt esetben – a polgári nemzetbiztonsági szolgálatok és a polgári hírszerzési tevékenység irányításáért felelős miniszter egyetértésével – a kihelyező szerv vezetője felmentést adhat.
 
