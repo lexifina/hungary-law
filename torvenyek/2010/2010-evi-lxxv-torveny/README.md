@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-75-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2010-75-00-00.17 |
 | 2019-01-01 | 2018. évi LII. törvény | 2010-75-00-00.18 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 2010-75-00-00.19 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 2010-75-00-00.20 |

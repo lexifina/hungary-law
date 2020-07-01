@@ -1,6 +1,6 @@
 ## Az egyszerűsített foglalkoztatáshoz kapcsolódó közteherfizetés
 
-7. § (1) Az egyszerűsített foglalkoztatás keretében alkalmazott személy utáni személyi jövedelemadó- és járulékfizetési kötelezettségekre – a (2) bekezdésben meghatározott kivételekkel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja.tv.), illetve a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) rendelkezéseit kell alkalmazni.
+7. § (1) Az egyszerűsített foglalkoztatás keretében alkalmazott személy utáni személyi jövedelemadó- és járulékfizetési kötelezettségekre – a (2) bekezdésben meghatározott kivételekkel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja.tv.), illetve a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) rendelkezéseit kell alkalmazni.
 
 (2) A személyi jövedelemadó- és járulékfizetési kötelezettségekre az egyszerűsített foglalkoztatás esetén
 
