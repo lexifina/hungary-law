@@ -30,7 +30,7 @@ h)
 
 i) nemzetbiztonsági ellenőrzés alá eső személy:
 
-ia) a nagykövet és az önálló külképviseletet irányító főkonzul;
+ia) a külképviselet-vezető;
 
 ib) a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
 
@@ -66,7 +66,7 @@ ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
 
 is) az 55. §-ban meghatározott kijelölt ügyész;
 
-it)
+it) azon alapítvány, közalapítvány vezető tisztségviselője, vezető állású munkavállalója, felügyelőbizottságának tagja, amely felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja;
 
 iu) az Országgyűlési Őrség személyi állománya;
 

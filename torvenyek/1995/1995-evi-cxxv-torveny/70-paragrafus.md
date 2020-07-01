@@ -10,7 +10,7 @@ c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
 
 d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
 
-e) ij) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter,
+e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi jogok gyakorlására kijelölt személy,
 
 f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 

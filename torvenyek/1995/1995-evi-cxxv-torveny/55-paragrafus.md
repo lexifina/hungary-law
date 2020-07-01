@@ -4,7 +4,7 @@
 
 (3) Ha a bűncselekmény elkövetője a megállapodásban foglaltakat teljesíti, vele szemben büntetőeljárás nem indítható, illetve a folyamatban lévő büntetőeljárást meg kell szüntetni.
 
-(4) Az (1) bekezdésben meghatározott jogosultság a Nemzetbiztonsági Szakszolgálatot és a Terrorelhárítási Információs és Bűnügyi Elemző Központot nem illeti meg.
+(4) Az (1) bekezdésben meghatározott jogosultság a Terrorelhárítási Információs és Bűnügyi Elemző Központot, valamint – a 8. § (1) bekezdés i) pontja szerinti feladat kivételével – a Nemzetbiztonsági Szakszolgálatot nem illeti meg.
 
 (5) Ha a megállapodás teljesítésére tekintettel az elkövetővel szemben nem indul büntetőeljárás vagy azt megszüntetik, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére az elkövető a polgári jog szerint köteles, amennyiben azt az elkövető nem térítette meg. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a nemzetbiztonsági szolgálatok a sértettel titoktartási megállapodás megkötését kezdeményezhetik, illetve az ehhez szükséges iratokat elkészíthetik.
 
