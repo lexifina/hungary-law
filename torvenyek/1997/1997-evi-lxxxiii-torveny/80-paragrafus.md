@@ -10,7 +10,7 @@
 
 a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
 
-b) a Tbj. 11. § a) pont hatálya alá tartozó magyar állampolgár,
+b) a Tbj. 17. § (1) bekezdés a) pontja hatálya alá tartozó magyar állampolgár,
 
 köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
@@ -18,6 +18,6 @@ köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági 
 
 a) természetes személy 10 ezertől 100 ezer forintig,
 
-b) a Tbj. 4. § a) pontjában meghatározott foglalkoztató, és a Tbj. 4. § b) pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű,
+b) a Tbj. 4. § 4. pontjában meghatározott foglalkoztató, és a Tbj. 4. § 2. pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű,
 
 az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.

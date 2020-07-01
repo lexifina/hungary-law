@@ -1,4 +1,4 @@
-46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 5. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
+46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
 a) de legfeljebb egy éven át;
 

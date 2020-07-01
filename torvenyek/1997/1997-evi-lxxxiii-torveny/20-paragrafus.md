@@ -46,9 +46,9 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (5) A transzplantációs várólistára való felvételre jogosult:
 
-a) a Tbj. 5. §-a szerinti biztosított,
+a) a Tbj. 6. §-a szerinti biztosított,
 
-b) a Tbj. 16. § (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. 16. § (1) bekezdés p) pontja alapján egészségügyi szolgáltatásra jogosultakat,
+b) a Tbj. alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. alapján egészségügyi szolgáltatás megszerzése érdekében kötött megállapodás alapján jogosultakat,
 
 c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét az uniós rendeletek, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
 

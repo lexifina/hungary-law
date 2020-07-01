@@ -1,6 +1,6 @@
 ## Betegség és anyaság esetére járó pénzbeli ellátások iránti igény
 
-62. § (1) A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz iránti kérelmet a biztosítottnak a Tbj. 4. § a) pontja szerinti foglalkoztatónál kell előterjeszteni.
+62. § (1) A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz iránti kérelmet a biztosítottnak a Tbj. 4. § 4. pontja szerinti foglalkoztatónál kell előterjeszteni.
 
 (1a) A vér szerinti apa, valamint a gyermek születésének napján nem biztosított szülő nő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet a lakóhelye szerint illetékes egészségbiztosítóhoz nyújthatja be.
 

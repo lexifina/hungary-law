@@ -4,13 +4,13 @@
 
 a) biztosított:
 
-aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 5. §-a szerinti biztosított, valamint a Tbj. 13. §-a és a 16. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
+aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 6. §-a szerinti biztosított, valamint a Tbj. 3. §-a és a 22. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
 
-ab) az egészségbiztosítás pénzbeli ellátásai tekintetében a Tbj. 5. §-a szerinti biztosított,
+ab) az egészségbiztosítás pénzbeli ellátásai tekintetében a Tbj. 6. §-a szerinti biztosított,
 
-ac) a baleseti táppénz és baleseti járadék tekintetében a Tbj. 5. §-a szerinti biztosított és a Tbj. 15. §-ának (1) bekezdésében meghatározott személy,
+ac) a baleseti táppénz és baleseti járadék tekintetében a Tbj. 6. §-a szerinti biztosított,
 
-ad) a baleseti egészségügyi szolgáltatás tekintetében a Tbj. 5. §-a szerinti biztosított, a Tbj. 15. § (1) és (2) bekezdésében meghatározott személy, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdése szerinti foglalkoztatás keretében alkalmazott munkavállaló,
+ad) a baleseti egészségügyi szolgáltatás tekintetében a Tbj. 6. §-a szerinti biztosított, a Tbj. 21. §-a szerint baleseti egészségügyi szolgáltatásra jogosult személy, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdése szerinti foglalkoztatás keretében alkalmazott munkavállaló,
 
 b) egészségügyi szolgáltató: a külön jogszabály alapján egészségügyi szolgáltatás nyújtására jogosult természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet,
 

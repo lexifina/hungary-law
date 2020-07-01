@@ -1,6 +1,6 @@
 56. § (1)
 
-(2) Pénzbeli egészségbiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze az öregségi nyugdíj mindenkori legkisebb összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
+(2) Társadalombiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze az öregségi nyugdíj mindenkori legkisebb összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
 
 (3)
 

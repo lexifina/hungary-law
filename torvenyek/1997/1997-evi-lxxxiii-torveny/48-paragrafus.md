@@ -12,9 +12,9 @@
 
 (7) A táppénz összege
 
-a) a táppénz alapjának 60%-a, ha a biztosított a 48/A. § (1) bekezdése szerinti folyamatos biztosítási időszak alatt rendelkezik legalább 730 – a Tbj. 5. §-a szerinti – biztosításban töltött nappal;
+a) a táppénz alapjának 60%-a, ha a biztosított a 48/A. § (1) bekezdése szerinti folyamatos biztosítási időszak alatt rendelkezik legalább 730 – a Tbj. 6. §-a szerinti – biztosításban töltött nappal;
 
-b) a táppénz alapjának 50%-a, ha a biztosított az a) pontban meghatározottnál kevesebb – a Tbj. 5. §-a szerinti – biztosításban töltött nappal rendelkezik;
+b) a táppénz alapjának 50%-a, ha a biztosított az a) pontban meghatározottnál kevesebb – a Tbj. 6. §-a szerinti – biztosításban töltött nappal rendelkezik;
 
 c) a táppénz alapjának 50%-a a fekvőbeteg-gyógyintézeti ellátás tartama alatt, illetve a 44. § d) pontjában meghatározott esetben,
 

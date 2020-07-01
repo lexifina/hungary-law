@@ -1,4 +1,4 @@
-39/B. § (1) Ha a pénzbeli ellátásra, baleseti táppénzre való jogosultság megállapítása során az ellátás összege – az Ákr. 50. § (5) bekezdésében meghatározott időtartam figyelmen kívül hagyásával – huszonöt napon belül azért nem állapítható meg, mert nem került sor a biztosított jövedelméről bevallás benyújtására az adóelőleg megállapításához, a rendelkezésre álló adatok alapján kell megállapítani az ellátást.
+39/B. § (1) Ha a pénzbeli ellátásra, baleseti táppénzre való jogosultság megállapítása során az ellátás összege – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 50. § (5) bekezdésében meghatározott időtartam figyelmen kívül hagyásával – huszonöt napon belül azért nem állapítható meg, mert nem került sor a biztosított jövedelméről bevallás benyújtására az adóelőleg megállapításához, a rendelkezésre álló adatok alapján kell megállapítani az ellátást.
 
 (2)
 

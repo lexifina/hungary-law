@@ -10,8 +10,8 @@
 
 (6) Az (1) bekezdés szerint megállapított táppénz folyósítása esetén
 
-a) az egészségbiztosító a Tbj. 19. § (5) bekezdésében meghatározott táppénz-hozzájárulásról szóló határozatot a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő 15 napon belül hozza meg,
+a) az egészségbiztosító a Tbj. 25. § (5) bekezdésében meghatározott táppénz-hozzájárulásról szóló határozatot a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő 15 napon belül hozza meg,
 
-b) a társadalombiztosítási kifizetőhely a Tbj. 19. § (5) bekezdésében meghatározott táppénz-hozzájárulási kötelezettségét a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő hónapban benyújtott elszámolásában teljesíti.
+b) a társadalombiztosítási kifizetőhely a Tbj. 25. § (5) bekezdésében meghatározott táppénz-hozzájárulási kötelezettségét a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő hónapban benyújtott elszámolásában teljesíti.
 
 (7) Az (1) bekezdés alapján megállapított táppénz folyósítását a keresőképtelenség fennállása alatt meg kell szüntetni, ha a biztosított táppénzre már nem jogosult.

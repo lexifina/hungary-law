@@ -2,7 +2,7 @@
 
 a)
 
-b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra, az örökbefogadói díjra, vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
+b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra, az örökbefogadói díjra, vagy a gyermekgondozási díjra való jogosultság kezdő napján társadalombiztosítási járulék fizetésére kötelezett;
 
 c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 

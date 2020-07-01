@@ -1,6 +1,6 @@
 5/C. § (1) E törvény alkalmazásában
 
-a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
+a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, társadalombiztosítási járulékalapot képező jövedelem;
 
 b) szerződés szerinti havi jövedelem:
 
@@ -8,15 +8,15 @@ ba) betegszabadságra jogosultak esetén az ellátásra való jogosultság kezd�
 
 bb) egészségügyi szabadságra jogosultak esetében az ellátásra való jogosultság kezdő napjának hónapjára számított, egészségügyi szabadság idejére járó távolléti díj,
 
-bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér másfélszerese,
+bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér,
 
-bd) a Tbj. 5. § (1) bekezdés g) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
+bd) a Tbj. 6. § (1) bekezdés f) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
 
-be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér;
+be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér 92 százaléka,
 
 c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz;
 
-d) kereset: a Tbj. 5. §-ában meghatározott jogviszonyban személyes munkavégzésért járó pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
+d) kereset: a Tbj. 6. §-ában meghatározott jogviszonyban személyes munkavégzésért járó társadalombiztosítási járulékalapot képező jövedelem.
 
 e) egyedülálló: az, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van.
 
