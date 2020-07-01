@@ -28,7 +28,7 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 
 8. felhasználói engedély: állami vagy közfeladat végrehajtása érdekében a minősítő, illetve a felhasználói engedély kiadására jogosult vezető által, a minősített adat felhasználására jogosult személy részére írásban adott felhatalmazás, a minősített adattal kapcsolatos egyes rendelkezési jogosultságok meghatározásával;
 
-9. megismerési engedély: a minősítő által a jogosult személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos rendelkezési jogosultságok megjelölésével, a nemzeti minősített adat megismerésére írásban adott felhatalmazás;
+9. megismerési engedély: a minősítő által az érintett személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos rendelkezési jogosultságok megjelölésével, az érintett személyes adatait tartalmazó nemzeti minősített adat megismerésére írásban adott felhatalmazás;
 
 10. titoktartási nyilatkozat: a minősített adatot felhasználó vagy megismerő személy nyilatkozata arról, hogy a minősített adat védelmére vonatkozó szabályokat megismerte, és az őt terhelő titoktartási kötelezettséget tudomásul vette;
 

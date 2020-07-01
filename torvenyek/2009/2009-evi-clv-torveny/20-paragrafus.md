@@ -14,7 +14,7 @@ b) engedélyezi a minősített adatok kezelésére szolgáló elektronikus rends
 
 c) nyilvántartja az a) és b) pontban meghatározott engedéllyel rendelkező minősített adatot kezelő szerveket nevük és székhelyük feltüntetésével,
 
-d)
+d) nyilvántartja a minősített adatot kezelő szervek biztonsági vezetőinek, valamint helyettes biztonsági vezetőinek nevét, hivatali telefonszámát, hivatali e-mail-címét és munkahelyének nevét,
 
 e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
 

@@ -23,3 +23,9 @@ b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi
 (4) A bíróság, az ügyészség, a nyomozó hatóság és a nemzetbiztonsági szolgálatok megkeresésére vagy adatkérésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
 
 (5) A Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pont aa)–ad) alpontjában és b) pontjában szereplő adatokat – a nemzetközi kötelezettségvállalások alapján – továbbíthatja a külföldi adatkezelők részére.
+
+(6) A Nemzeti Biztonsági Felügyelet a biztonsági vezetőkkel és a helyettes biztonsági vezetőkkel jogszabályban meghatározott feladatok végrehajtása érdekében történő kapcsolattartás céljából kezeli a minősített adatot kezelő szervek biztonsági vezetőinek, valamint a helyettes biztonsági vezetőinek nevét, hivatali telefonszámát, hivatali e-mail-címét és munkahelyének nevét.
+
+(7) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a biztonsági vezetői, valamint a helyettes biztonsági vezetői kinevezés megszűnéséig kezeli.
+
+(8) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a minősített adatot kezelő szervek részére továbbíthatja.

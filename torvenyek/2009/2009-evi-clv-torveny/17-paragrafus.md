@@ -7,3 +7,5 @@
 a) adja ki a szerven belül a nemzeti minősített adatot felhasználók, valamint a szervvel közreműködők személyi biztonsági tanúsítványát,
 
 b) a szükséges biztonsági feltételek hiánya vagy megszűnése esetén a személyi biztonsági tanúsítvány kiállítását megtagadja, illetve a már kiadott tanúsítványt visszavonja.
+
+c) adja ki az igazolást a nemzeti és külföldi minősített adatot felhasználó személyi biztonsági tanúsítványairól más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából, illetve a szükséges biztonsági feltételek hiánya vagy megszűnése esetén visszavonja.
