@@ -22,7 +22,7 @@ b) fogvatartott.
 
 (6) Amennyiben az (5) bekezdésben meghatározott körülmények a naptári hónap egészében nem állnak fenn, akkor egy-egy naptári napra az adófizetési kötelezettség kiszámításánál egyéni vállalkozó esetében a 8. § (3) bekezdése szerinti adóalap harmincad részét, társas vállalkozó esetében a 8. § (1) bekezdés szerinti adóalap harmincad részét kell figyelembe venni.
 
-(7) Az (5) bekezdésben az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a Tbj. vhr. 7/B. §-a szerint kell igazolni.
+(7) Az (5) bekezdésben az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a Tbj. 42. § (11) bekezdése szerint kell igazolni.
 
 (8) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja kifizetővel is az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, vagy egyéni vállalkozóként az adóalap megállapításának különös szabályai hatálya alatt áll, feltéve, hogy a kifizető e napot a taggal fennálló jogviszonya alapján őt terhelő adó, illetve az egyéni vállalkozó e napot a saját maga után fizetendő adó alapjának megállapításkor számításba veszi.
 

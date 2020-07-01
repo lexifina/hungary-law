@@ -18,7 +18,7 @@ c) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló t
 
 d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig;
 
-5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
+5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat és a Tbj. szerint kiegészítő tevékenységet folytató személynek minősül.
 
 6. kifizető: az Art. szerinti kifizető
 

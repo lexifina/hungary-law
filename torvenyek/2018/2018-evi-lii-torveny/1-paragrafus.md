@@ -8,7 +8,13 @@
 
 (2) Az (1) bekezdésben meghatározott jövedelmeken kívül adófizetési kötelezettség terheli az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíjat és a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíjat.
 
-(3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 4. § k) pont 2. alpontja alapján járulékalapot képez.
+(3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint
+
+a) biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 27. § (1) bekezdés b) pontja alapján,
+
+b) a Tbj. 30. §-a alapján
+
+járulékalapot képez.
 
 (4) Az (1)–(3) bekezdésen túl adófizetési kötelezettség terheli az Szja tv. szerint külön adózó jövedelmek közül
 
@@ -45,3 +51,5 @@ Magyarországon adóztatható része után.
 (8) Ha a természetes személy ugyanazon adómegállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is szerez, az adóalap megállapításánál az (1)–(3) bekezdéseket megfelelően együttesen kell alkalmazni, azzal az eltéréssel, hogy a (3) bekezdés alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
+
+(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja megegyezik a társadalombiztosítási járulék alapjával.

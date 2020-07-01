@@ -20,7 +20,7 @@ alapján létrejött jogviszonyra tekintettel;
 
 f) a közérdekű nyugdíjas szövetkezetnek az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja között fennálló jogviszonyára tekintettel;
 
-g) a kifizetőnek az Mt. szerinti munkaviszonyban foglalkoztatott saját jogú nyugdíjas személyre tekintettel;
+g) a kifizetőnek a Tbj. szerint kiegészítő tevékenységet folytató személyre tekintettel;
 
 h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, járulékalapot nem képező jövedelemre tekintettel;
 
@@ -40,11 +40,11 @@ e) a kifizető által megállapított és folyósított társadalombiztosítási
 
 f) táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermeknevelési támogatás, gyermekgondozási díj;
 
-g) az olyan személynek juttatott bevétel, akire a Tbj. 11. §-a, 11/B. §-a, és 13. §-a szerint a biztosítási kötelezettség nem terjed ki;
+g) az olyan személynek juttatott bevétel, akire a Tbj. 3. §-a, 17. §-a, és 18. §-a szerint a biztosítási kötelezettség nem terjed ki;
 
 h) az ingatlan bérbeadásából származó jövedelem;
 
-i) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
+i) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. 3. §-a, 17. §-a, vagy 18. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
 
 j) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosítópénztár által szolgáltatásként kifizetett összeg, a kedvezményezett részére a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 28. § (1) bekezdésének a) pontja alapján fizetett összeg, az önkéntes kölcsönös biztosítópénztár megszűnése esetén a tag részére teljesített adóköteles pénztári kifizetés, valamint a volt pénztártagnak a társadalombiztosítási nyugdíjrendszerbe történő visszalépése miatt visszafizetett magán-nyugdíjpénztári tagdíj-kiegészítés,
 

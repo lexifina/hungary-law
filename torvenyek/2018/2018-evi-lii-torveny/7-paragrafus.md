@@ -1,10 +1,10 @@
 ## 7. A mezőgazdasági őstermelő által fizetendő adó alapja
 
-7. § (1) A Tbj. 30/A. § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+7. § (1) A Tbj, 41 § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(2) A Tbj. 30/A. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+(2) A Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(3) A (2) bekezdés szerinti adóalap hiányában a Tbj. 30/A. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
+(3) A (2) bekezdés szerinti adóalap hiányában a Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
 
 a) a tárgyévi összevont adóalapba tartozó jövedelem,
 
@@ -14,7 +14,7 @@ c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújt
 
 csökkentve a tárgyévi Tbj. szerinti járulékalapját képező összeggel.
 
-(4) A Tbj. 30/A. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
+(4) A Tbj. 41. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
 
 a) a tárgyévi összevont adóalapba tartozó jövedelem,
 
