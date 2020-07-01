@@ -12,13 +12,13 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
 
-b) az a) ponttól eltérően tag esetén a Tbj. 4. § s) pont 2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 27. § (2) bekezdése szerinti járulékalap utáni járulékfizetési kötelezettsége,
+b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 
 c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 
 d) a Szocho. tv. 1. § (4) bekezdés b) pontja szerinti béren kívüli juttatásnak nem minősülő egyes meghatározott juttatás.
 
-(2a) A (2) bekezdés alkalmazásában nem minősül személyi jellegű kifizetésnek a kiegészítő tevékenységet folytató egyéni vagy társas vállalkozó járulékalapja, valamint a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összege.
+(2a) A (2) bekezdés alkalmazásában nem minősül személyi jellegű kifizetésnek a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összege.
 
 (2b) A (2) bekezdés alkalmazásában tagnak a Tbj. szerinti társas vállalkozó minősül.
 

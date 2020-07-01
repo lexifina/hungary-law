@@ -18,7 +18,7 @@
 
 a) legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, azzal, hogy a heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani,
 
-b) a társadalombiztosítás ellátásairól és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerinti kiegészítő tevékenységet folytatónak minősül,
+b) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerinti kiegészítő tevékenységet folytatónak minősül,
 
 c) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján külföldön biztosított személynek minősül,
 

@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2019-07-24 | 2019. évi LXXII. törvény | 2012-147-00-00.27 |
 | 2019-08-23 | 2019. évi LXXII. törvény | 2012-147-00-00.28 |
 | 2020-01-01 | 2019. évi LXXII. törvény | 2012-147-00-00.29 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 2012-147-00-00.30 |
