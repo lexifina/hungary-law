@@ -80,3 +80,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2020-01-01 | 2019. évi LXXII. törvény | 1996-81-00-00.125 |
 | 2020-06-10 | 2020. évi XLVI. törvény | 1996-81-00-00.126 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 1996-81-00-00.127 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 1996-81-00-00.128 |
