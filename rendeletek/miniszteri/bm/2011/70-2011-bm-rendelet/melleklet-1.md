@@ -1,6 +1,6 @@
-## 35–36. §[^60]
+## 35–36. §[^61]
 
-1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^61]
+1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^62]
 
 ## A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó
 
@@ -56,7 +56,7 @@ személyek létszáma, a szakképesítési követelmények és a munkavégzés n
 
 | 14/a. | Terrorelhárítási és Információs Bűnügyi Elemző Központ | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
 
-| 15. | Rendészeti Szakközépiskolák | munkavédelmi felügyelő | középfokú | 1/rész* |
+| 15. | Rendvédelmi technikumok | munkavédelmi felügyelő | középfokú | 1/rész* |
 
 | 16. | A rendvédelmi szervek helyi szervei | egészségvédelmi megbízott | a rendelet 2. § c) pontja szerinti képzési tematika alapján tett vizsga | 1/rész |
 
@@ -86,5 +86,5 @@ Ahol felsőfokú munkavédelmi szakképesítésű személy alkalmazása kötelez
 
 * A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden megyében és megyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
 
-[^60]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^61]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a szerint módosított szöveg.
+[^61]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a szerint módosított szöveg.

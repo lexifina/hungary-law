@@ -2,7 +2,7 @@
 
 ## [Az Mvt. 64–69. §-ához]
 
-21. §[^27] (1) A baleset és a foglalkozási megbetegedés kivizsgálásának, minősítésének általános szabályait a MüM rendelet és az e rendeletben meghatározott speciális munkajogi szabályok szerint, az e rendeletben meghatározott eltérésekkel kell alkalmazni.
+21. §[^28] (1) A baleset és a foglalkozási megbetegedés kivizsgálásának, minősítésének általános szabályait a MüM rendelet és az e rendeletben meghatározott speciális munkajogi szabályok szerint, az e rendeletben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A személyi állomány tagja a szervezett munkavégzés során vagy szolgálati kötelmekkel összefüggésben elszenvedett balesetét haladéktalanul bejelenti a szervezett munkavégzést közvetlenül irányító szolgálati elöljárónak vagy vezetőnek (a továbbiakban együtt: szolgálati elöljáró). A szolgálati elöljáró a baleset bejelentéséről haladéktalanul tájékoztatja az állományilletékes parancsnokot és a munkavédelmi felügyelőt.
 
@@ -16,4 +16,4 @@
 
 (7) A személyi állomány tagja a külföldi kiküldetés, szolgálati út vagy külszolgálat során elszenvedett munkabaleset és a szolgálati kötelmekkel összefüggő baleset bejelentési kötelezettségét, ha a kiküldő szerv elérésére más lehetőség nincs a magyar külképviseleti szervek útján köteles teljesíteni.
 
-[^27]: A 21. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^28]: A 21. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

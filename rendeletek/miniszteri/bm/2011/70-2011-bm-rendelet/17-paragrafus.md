@@ -6,8 +6,9 @@
 
 a) I. veszélyességi osztály: hivatásos katasztrófavédelmi szerv helyi szervei, önkormányzati tűzoltóság, főfoglalkozású létesítményi tűzoltóságok,
 
-b) II. veszélyességi osztály: hivatásos katasztrófavédelmi szerv központi és területi szervei, a hivatásos katasztrófavédelmi szerv központi szervének területi jogállású szervei, rendőrség, a belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok, büntetés-végrehajtás szervei és a rendészeti szakközépiskolák.
+b)[^21] II. veszélyességi osztály: hivatásos katasztrófavédelmi szerv központi és területi szervei, a hivatásos katasztrófavédelmi szerv központi szervének területi jogállású szervei, rendőrség, a belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok, büntetés-végrehajtás szervei és a rendvédelmi technikumok.
 
 (2) A szerv II. veszélyességi osztályba sorolása esetén az érintett szerv vezetője a szerv szervezeti egységét az ott végzett tevékenység és az adott munkakörre vonatkozó kockázatértékelés alapján I. veszélyességi osztályba sorolhatja.
 
 [^20]: A 16/A. §-t a 71/2013. (XII. 16.) BM rendelet 4. §-a iktatta be.
+[^21]: A 17. § (1) bekezdés b) pontja a 18/2020. (VI. 30.) BM rendelet 5. §-a szerint módosított szöveg.

@@ -4,13 +4,13 @@
 
 33. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^56] A munkavédelmi tevékenység ellátásának e rendeletben meghatározott személyi feltételeit az állományilletékes parancsnokok 2015. december 31-ig alakítják ki. Az e rendeletben meghatározott személyi feltételek megteremtéséig a munkavédelmi tevékenység személyi feltételei tekintetében a 2011. december 31-én hatályos szabályok alkalmazhatók.
+(2)[^57] A munkavédelmi tevékenység ellátásának e rendeletben meghatározott személyi feltételeit az állományilletékes parancsnokok 2015. december 31-ig alakítják ki. Az e rendeletben meghatározott személyi feltételek megteremtéséig a munkavédelmi tevékenység személyi feltételei tekintetében a 2011. december 31-én hatályos szabályok alkalmazhatók.
 
-(3)[^57] E rendelet hatálybalépését követő 90 napon belül aktualizálni kell a rendvédelmi szervek meglévő munkavédelmi szabályzatait. E rendelet hatálybalépését követően létrejövő új állományilletékes parancsnokok a működésük megkezdését követő 90 napon belül kötelesek elkészíteni a munkavédelmi szabályzatot.
+(3)[^58] E rendelet hatálybalépését követő 90 napon belül aktualizálni kell a rendvédelmi szervek meglévő munkavédelmi szabályzatait. E rendelet hatálybalépését követően létrejövő új állományilletékes parancsnokok a működésük megkezdését követő 90 napon belül kötelesek elkészíteni a munkavédelmi szabályzatot.
 
-(4)[^58] A belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 70/2011. (XII. 30.) BM rendelet módosításáról szóló 71/2013. (XII. 16.) BM rendelet hatálybalépését[^59] követő 60 napon belül a BM munkavédelemért felelős szervezeti egységének vezetője gondoskodik a 16/A. §-ban foglalt módszertani útmutató előkészítéséről és kiadásáról.
+(4)[^59] A belügyminiszter irányítása alá tartozó rendvédelmi szervek munkavédelmi feladatai, valamint foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 70/2011. (XII. 30.) BM rendelet módosításáról szóló 71/2013. (XII. 16.) BM rendelet hatálybalépését[^60] követő 60 napon belül a BM munkavédelemért felelős szervezeti egységének vezetője gondoskodik a 16/A. §-ban foglalt módszertani útmutató előkészítéséről és kiadásáról.
 
-[^56]: A 33. § (2) bekezdése a 71/2013. (XII. 16.) BM rendelet 10. § g) pontja szerint módosított szöveg.
-[^57]: A 33. § (3) bekezdése a 71/2013. (XII. 16.) BM rendelet 10. § h) pontja szerint módosított szöveg.
-[^58]: A 33. § (4) bekezdését a 71/2013. (XII. 16.) BM rendelet 9. § (1) bekezdése iktatta be.
-[^59]: A hatálybalépés időpontja: 2013. december 24.
+[^57]: A 33. § (2) bekezdése a 71/2013. (XII. 16.) BM rendelet 10. § g) pontja szerint módosított szöveg.
+[^58]: A 33. § (3) bekezdése a 71/2013. (XII. 16.) BM rendelet 10. § h) pontja szerint módosított szöveg.
+[^59]: A 33. § (4) bekezdését a 71/2013. (XII. 16.) BM rendelet 9. § (1) bekezdése iktatta be.
+[^60]: A hatálybalépés időpontja: 2013. december 24.
