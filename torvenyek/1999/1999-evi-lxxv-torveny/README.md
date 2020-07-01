@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-75-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 1999-75-00-00.32 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1999-75-00-00.33 |
 | 2020-01-01 | 2019. évi CXII. törvény | 1999-75-00-00.34 |
+| 2020-07-01 | 2020. évi V. törvény | 1999-75-00-00.35 |
