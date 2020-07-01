@@ -1,1 +1,3 @@
-## „(5) Az Emberi Erőforrások Minisztériuma és az EMET között, a társadalmi felzárkózással kapcsolatos költségvetési támogatások felhasználásának lebonyolítása vonatkozásában létrejött, 2020. június 30-ig nem teljesített lebonyolító szervi megállapodások esetében az EMET jogai és kötelezettségei tekintetében 2020. július 1-től a Főigazgatóság az EMET jogutódja.”
+## 26. §[^27]
+
+[^27]: A 26. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
