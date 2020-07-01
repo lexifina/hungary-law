@@ -1,0 +1,9 @@
+# 319/2020. (VII. 1.) Korm. rendelet
+
+a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-319-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-07-01 | 2020-319-20-22.1 | 319/2020. (VII. 1.) Korm. rendelet |

@@ -1,0 +1,5 @@
+## 5. § A Korm. rendelet 63. §-a helyébe a következő rendelkezés lép:
+
+## „63. § (1) A szakképzési centrum és a költségvetési szervként működő szakképző intézmény a törzskönyvi nyilvántartásba vétel iránti kérelem benyújtásával kéri OM azonosítójának megállapítását. A szakképzési centrumnak és a költségvetési szervként működő szakképző intézménynek a szakképzési államigazgatási szerv által vezetett nyilvántartásba történő bejegyzéshez szükséges adatait a kincstár továbbítja a szakképzési államigazgatási szervnek. A szakképzési államigazgatási szerv a szakképzési centrum, illetve a költségvetési szervként működő szakképző intézmény nyilvántartásba vételét és OM azonosítójának megállapítását követően a szakképzési centrum és a költségvetési szervként működő szakképző intézmény OM azonosítóját a kincstár útján közli.
+
+## (2) A nem költségvetési szervként működő szakképző intézmény OM azonosítóját a szakképzési államigazgatási szerv a nem költségvetési szervként működő szakképző intézmény nyilvántartásba vétele keretében állapítja meg.”
