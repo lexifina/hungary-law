@@ -1,6 +1,6 @@
 ## Értékelési szempontok
 
-125. § (1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8) és (11) és (13) bekezdését alkalmazni kell, azzal a különbséggel, hogy az értékelési szempontok keretében értékelt alszempontok esetében elegendő súlyszám helyett azokat csökkenő fontossági sorrendben feltüntetni.
+125. § (1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8), (11) és (13) bekezdését alkalmazni kell, azzal a különbséggel, hogy az értékelési szempontok keretében értékelt alszempontok esetében elegendő súlyszám helyett azokat csökkenő fontossági sorrendben feltüntetni.
 
 (2) Az eljárást megindító felhívásban az értékelési szempontokat elegendő csökkenő fontossági sorrendben megadni, azok súlyszámát és a 76. § (9) bekezdésében foglalt egyéb információkat, valamint az értékelés során alkalmazott módszer leírását a közbeszerzési dokumentumokban kell meghatározni.
 

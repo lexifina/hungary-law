@@ -6,9 +6,9 @@
 
 (2a) A közbeszerzésekért felelős miniszter jogosult a (2) bekezdésben foglalt közbeszerzési tárgyú, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges szakmai képzéseknek az elismerése céljából a képzéseken előadó oktatók természetes személyazonosító adatait, elérhetőségi adatait, végzettségét, szakmai tapasztalatát érintő adatok kezelésére.
 
-(3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
+(3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat jogszabály tartalmazza.
 
-(4)
+(4) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján a Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, a közbeszerzésekért felelős miniszter kérésére kötelesek a közbeszerzéseikkel összefüggő bármely adatot, dokumentumot a miniszter részére öt munkanapon belül megküldeni. Ezen ajánlatkérők kötelesek a közbeszerzési értékhatárt el nem érő értékű, a 4. § (3) bekezdése szerinti beszerzéseikkel kapcsolatos adatokat a Kormány rendeletében meghatározottak szerint a közbeszerzésekért felelős miniszter részére megküldeni. A közbeszerzésekért felelős miniszter jogosult arra, hogy más szerv feladatkörébe tartozó jogsértés gyanúja esetén a hatáskörrel rendelkező szervnek átadja a Kormány rendeletében meghatározottak szerint végzett, a közbeszerzési értékhatárt el nem érő értékű beszerzések ellenőrzése révén rendelkezésére álló bármely adatot.
 
 (5)
 

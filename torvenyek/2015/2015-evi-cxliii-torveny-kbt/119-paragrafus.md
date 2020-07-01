@@ -14,7 +14,7 @@ e) a teljesítés helyét;
 
 f) a részajánlattétel lehetőségét vagy annak kizárását; ha részajánlat tételére lehetőség van, tájékoztatást arról, hogy egy vagy több, vagy valamennyi részre lehet-e ajánlatot tenni, valamint arról, hogy korlátozva van-e az egy ajánlattevőnek odaítélhető részek száma;
 
-g) az ajánlatok értékelési szempontjait a 125. § (2) bekezdése szerint;
+g) az ajánlatok értékelési szempontjait a 125. § (2) bekezdése alapján;
 
 h) az adott eljárásban alkalmazandó kizáró okokat és a megkövetelt igazolási módokat;
 

@@ -16,7 +16,7 @@ e) a koncesszió részét képező bármilyen eszköz értékesítéséből szá
 
 f) a koncesszió teljesítéséhez szükséges, az ajánlatkérő által rendelkezésre bocsátott áru és szolgáltatás értéke;
 
-g) a részvételre jelentkezők vagy az ajánlattevők részére fizetendő jutalék vagy egyéb kifizetés.
+g) a részvételre jelentkezők, vagy az ajánlattevők részére fizetendő jutalék vagy egyéb kifizetés.
 
 (3) Az építési vagy szolgáltatási koncesszió becsült értékének meghatározása során a 19. § (1)–(3) bekezdését megfelelően kell alkalmazni.
 

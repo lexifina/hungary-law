@@ -1,6 +1,6 @@
 ## Koncessziók esetében alkalmazandó további kivételek
 
-14. § (1) E törvényt építési vagy szolgáltatási koncesszió megkötésére a 9. §-ban foglalt eseteken túl nem kell alkalmazni az e §-ban meghatározott esetekben. Az építési vagy szolgáltatási koncesszió közszolgáltató ajánlatkérő általi beszerzésére a 10–13. §-ban foglalt kivételek is alkalmazandóak.
+14. § (1) E törvényt építési vagy szolgáltatási koncesszió megkötésére a 9. §-ban foglalt eseteken túl nem kell alkalmazni az e §-ban meghatározott esetekben. Az építési vagy szolgáltatási koncesszió közszolgáltató ajánlatkérő általi beszerzésére a 10–13. §-ban foglalt kivételeket is alkalmazni kell.
 
 (2) E törvényt – építési vagy szolgáltatási koncesszió esetén – nem kell alkalmazni
 

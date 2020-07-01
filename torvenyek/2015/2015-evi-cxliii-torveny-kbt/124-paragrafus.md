@@ -6,6 +6,6 @@
 
 (3) Ha az előírt alkalmassági követelményeknek az ajánlattevő vagy részvételre jelentkező más szervezet kapacitására támaszkodva felel meg, e szervezetnek az előírt igazolási módokkal azonos módon kell igazolnia az adott alkalmassági feltételnek történő megfelelést. Koncessziós beszerzési eljárásban nem írható elő, hogy a szerződés meghatározott részét személyesen az ajánlattevő teljesítse.
 
-(4) A 62–64. § rendelkezéseit koncessziós beszerzési eljárásban is alkalmazni kell. A 62. § (1) bekezdés i) pontjában az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alátámasztására szolgáló igazolások be nem nyújtásához kapcsolódó kizáró ok akkor alkalmazandó, ha az ajánlatkérő a koncessziós beszerzési eljárásban is a kizáró okok előzetes igazolására előírja e dokumentum használatát.
+(4) A 62–64. § rendelkezéseit koncessziós beszerzési eljárásban is alkalmazni kell. A 62. § (1) bekezdés i) pontjában az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alátámasztására szolgáló igazolások be nem nyújtásához kapcsolódó kizáró ok akkor alkalmazandó, ha az ajánlatkérő a koncessziós beszerzési eljárásban is a kizáró okok előzetes igazolására előírja a dokumentum használatát.
 
 (5) Az alvállalkozó vagy az alkalmasság igazolásába bevont szervezet kizáró ok hatálya alá tartozása esetében a 71. § (4) bekezdését alkalmazni kell.

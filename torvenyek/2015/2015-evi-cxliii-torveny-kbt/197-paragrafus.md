@@ -34,4 +34,6 @@
 
 (17) A Mód4. tv. hatályba lépéséig az 5. § (5) bekezdése alapján a Magyar Közlönyben egyszerre még közzé nem tett egyedi határozatok szövegét a Kormány a Mód4. tv. hatályba lépését követő év március 31-ig egy tájékoztatóban egyszerre is közzéteszi.
 
-(18) E törvénynek a 2019. december 31-ig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-ig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
+(18) E törvénynek a 2019. december 31-éig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-éig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
+
+(19) E törvénynek az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló törvénnyel megállapított 4. § (3) bekezdését a hatálybalépését követően megkötött szerződésekre kell alkalmazni.

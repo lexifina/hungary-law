@@ -40,9 +40,9 @@
 
 18. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
 
-19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
+19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 
-20.
+20. az ajánlatkérők közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzéseinek megvalósítására vonatkozó követelményeket, valamint a 195. § (4) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel kapcsolatos adatoknak, dokumentumoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és ezen ajánlatkérők beszerzéseinek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;
 
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 
