@@ -1,0 +1,1 @@
+7. § Az Erzsébet-programról szóló 2012. évi CIII. törvény (a továbbiakban: Ept.) szerinti, 2020. január 1-jén folyamatban lévő üdülési pályázatokat az Ept. 2019. december 31. napján hatályban lévő rendelkezései alapján kell lebonyolítani.
