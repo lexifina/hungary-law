@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-40-20-6
 | 2018-12-19 | 2017-40-20-6N.2 | 19/2018. (XII. 18.) MvM rendelet |
 | 2019-04-01 | 2017-40-20-6N.3 | 5/2019. (III. 28.) MvM rendelet |
 | 2019-05-01 | 2017-40-20-6N.4 | 5/2019. (III. 28.) MvM rendelet |
+| 2020-07-01 | 2017-40-20-6N.5 | 10/2020. (VI. 26.) MvM rendelet |
