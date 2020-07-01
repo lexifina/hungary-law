@@ -1,3 +1,3 @@
-7. melléklet a 36/2020. (III. 5.) Korm. rendelethez[^42]
+7. melléklet a 36/2020. (III. 5.) Korm. rendelethez[^41]
 
-[^42]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
