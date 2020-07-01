@@ -56,6 +56,4 @@ b) a (6) bekezdés szerinti döntését honvédelmi érdekre tekintettel gyorsí
 
 (12) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága részére a (3) bekezdés b) pontja szerinti ügyindító javaslatot a honvédelmi ágazati javaslattevő hatóság adja.”
 
-(2) Az Lrtv. 2. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) Az azonosítási jelentés benyújtásának elmulasztása esetén kormányrendeletben meghatározott mértékű bírság kiszabásának van helye.”
+(2)

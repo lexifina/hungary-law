@@ -13,11 +13,3 @@ a) a hálózati és információs rendszerek biztonságának az egész Unióban 
 b) a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről, valamint a 96/82/EK tanácsi irányelv módosításáról és későbbi hatályon kívül helyezéséről szóló 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

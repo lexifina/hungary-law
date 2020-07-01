@@ -18,7 +18,7 @@ h) 23. § (1) bekezdésében az „intézkedésre feljogosított tagja,” szöv
 
 i) 24. § (1) bekezdésében az „Az adatkezelő szerv az útiokmány-nyilvántartásban kezeli:” szövegrész helyébe az „Az adatkezelő szerv – az úti okmány valódiságának ellenőrzése, a birtokosa személyazonosságának és állampolgárságának, valamint a külföldre utazáshoz, illetve hazatéréshez való jogosultság igazolása céljából – az útiokmány-nyilvántartásban kezeli:” szöveg,
 
-j) 24. § (1) bekezdés o) pontjában az „az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását” szövegrész helyébe az „az ellenőrző sorszámot, a kiállítás okát és az utazás célországát” szöveg,
+j)
 
 k) 28. § (1) bekezdés c) pontjában a „megkerülésének” szövegrész helyébe a „megtalálásának” szöveg,
 
