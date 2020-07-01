@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-167-20-
 | 2017-09-30 | 2010-167-20-22.11 | 286/2017. (IX. 22.) Korm. rendelet |
 | 2019-09-01 | 2010-167-20-22.12 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2020-01-02 | 2010-167-20-22.13 | 345/2019. (XII. 23.) Korm. rendelet |
+| 2020-07-01 | 2010-167-20-22.14 | 317/2020. (VII. 1.) Korm. rendelet |
