@@ -10,8 +10,8 @@ A rendszeres adatszolgáltatási kötelezettség adatkörei, teljesítésének g
 
 | 2. | Engedélyes tevékenységgel kapcsolatos mennyiségi, hátralékos és aggregált fogyasztóvédelmi adatok | Negyedévenkénti | tárgyi negyedévet követő hónap utolsó napja |
 
-| 3. | Műszaki és aggregált fogyasztóvédelmi adatok | Évenkénti | tárgyév március 20. |
+| 3. | Műszaki és aggregált fogyasztóvédelmi adatok | Évenkénti | tárgyévet követő év március 20. |
 
-| 4. | Díjelőkészítést megalapozó gazdasági adatok | Évenkénti | tárgyév június 10. |
+| 4. | Díjelőkészítést megalapozó gazdasági adatok | Évenkénti | tárgyévet követő év június 10. |
 
-[^1]: Az 1. melléklet a 17/2019. (XII. 20.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 6/2020. (VI. 29.) MEKH rendelet 7. §-ával megállapított szöveg.
