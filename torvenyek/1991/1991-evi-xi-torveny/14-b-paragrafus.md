@@ -1,4 +1,4 @@
-14/B. § (1) Az e törvény alapján lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+14/B. § (1)
 
 (2) Az egészségügyi szolgáltatók működésének engedélyezésére, a működési engedély módosítására és visszavonására irányuló eljárásokban a kérelem a kormányablaknál nem terjeszthető elő.
 
