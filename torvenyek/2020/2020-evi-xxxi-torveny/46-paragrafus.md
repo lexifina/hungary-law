@@ -1,0 +1,3 @@
+46. § Az Fbő. tv. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Módtv.) hatálybalépésekor foglalkoztatási jogviszonyban lévő őr további alkalmazhatóságának alapfeltétele, hogy legkésőbb 2021. december 31-ig e törvény, a végrehajtására kiadott rendeletek és a szolgálati helye őrszolgálati okmányainak ismeretéből eredményes vizsgát tegyen. A Módtv. hatálybalépését követően a jogviszony létesítésekor az alkalmazhatóság feltétele a 7. § (1) bekezdésében meghatározottak mellett, az e törvény, a végrehajtására kiadott rendeletek, továbbá a szolgálati hely őrszolgálati okmányainak ismeretéből tett eredményes vizsga.”

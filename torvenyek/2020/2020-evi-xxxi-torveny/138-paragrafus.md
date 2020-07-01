@@ -1,0 +1,3 @@
+138. § Az Lrtv. a következő 15/D. §-sal egészül ki:
+
+„15/D. § A Módtv.-nyel megállapított 13/A. § (3) bekezdésében meghatározott előírásokat a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel elrendelt veszélyhelyzet során kijelölt nemzeti létfontosságú rendszerelemek kijelölése tekintetében is alkalmazni kell.”
