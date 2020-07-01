@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2019-01-01 | 2018. évi CXVIII. törvény | 2006-98-00-00.51 |
 | 2020-01-01 | 2019. évi CXI. törvény | 2006-98-00-00.52 |
 | 2020-01-17 | 2019. évi LXVII. törvény | 2006-98-00-00.53 |
+| 2020-07-01 | 2019. évi XXII. törvény | 2006-98-00-00.54 |
