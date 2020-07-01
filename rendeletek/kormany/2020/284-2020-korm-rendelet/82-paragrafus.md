@@ -1,14 +1,13 @@
-## 81. §[^48]
+## 81. §[^47]
 
 ## 82. § A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
-a)[^49]
+a)[^48]
 
-b)[^50]
+b)[^49]
 
-c)[^51]
+c) 63. § (4) bekezdésében a „Tbj. 5. §-a” szövegrész helyébe a „Tbj. 6. §-a” szöveg
 
-[^48]: A 81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^49]: A 82. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: A 82. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: A 82. § c) pontja a 90. § (2) bekezdése alapján 2020. július 1-jén lép hatályba.
+[^47]: A 81. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 82. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 82. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
