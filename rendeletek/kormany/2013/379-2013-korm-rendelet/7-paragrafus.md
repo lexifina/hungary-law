@@ -1,3 +1,3 @@
-## 6. §[^5]
+7. §[^9]
 
-[^5]: A 6. § a 33. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^9]: A 7–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-379-20-
 | 2015-12-31 | 2013-379-20-22.5 | 511/2013. (XII. 29.) Korm. rendelet |
 | 2016-12-17 | 2013-379-20-22.6 | 511/2013. (XII. 29.) Korm. rendelet |
 | 2018-12-29 | 2013-379-20-22.7 | 323/2018. (XII. 28.) Korm. rendelet |
+| 2020-07-01 | 2013-379-20-22.8 | 323/2018. (XII. 28.) Korm. rendelet |
