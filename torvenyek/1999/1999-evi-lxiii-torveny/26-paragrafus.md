@@ -1,1 +1,1 @@
-26. § Akinek a felügyelő intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása jogát vagy jogos érdekét sértette, panasszal fordulhat a rendőrséghez. A panasz előterjesztésére, valamint elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+26. §
