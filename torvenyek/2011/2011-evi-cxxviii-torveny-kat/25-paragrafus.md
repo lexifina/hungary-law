@@ -10,4 +10,4 @@
 
 (4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
 
-(5) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5)

@@ -6,7 +6,7 @@
 
 (3) A törvény IV. fejezetének hatálya nem terjed ki:
 
-a) az atomenergiáról szóló 1996. évi CXVI. törvény 1. § (1) bekezdésében az atomenergia alkalmazásával összefüggésben meghatározott tevékenységekre, jogosultságokra és kötelezettségekre,
+a) anyagokból, keverékekből, nyersanyagokból, készítményekből származó ionizáló sugárzás által okozott veszélyekre,
 
 b) a veszélyes anyagoknak a veszélyes anyagokkal foglalkozó üzemen és küszöbérték alatti üzemen kívüli közúti, vasúti, légi vagy vízi szállítására,
 
