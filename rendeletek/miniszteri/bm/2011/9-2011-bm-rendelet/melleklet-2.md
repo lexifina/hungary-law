@@ -410,7 +410,7 @@
 
 3. Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek
 
-4.[^33] rendészeti szakgimnáziumok
+4.[^33] rendvédelmi technikumok
 
 5.[^34]
 
@@ -464,7 +464,7 @@
 [^30]: Az 1. melléklet 39. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^31]: Az 1. melléklet 40. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^32]: Az 1. melléklet 41. pontját a 24/2018. (IX. 20.) BM rendelet 1. §-a iktatta be.
-[^33]: A 2. melléklet 4. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^33]: A 2. melléklet 4. pontja a 18/2020. (VI. 30.) BM rendelet 3. §-ával megállapított szöveg.
 [^34]: A 2. melléklet 5. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
 [^35]: A 2. melléklet 9. pontja a 29/2016. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
 [^36]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
