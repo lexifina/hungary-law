@@ -1,4 +1,4 @@
-## 33. §[^36]
+## 33. §[^32]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. § (2) bekezdése, a 6. § (2) bekezdése, a 13. §, valamint a 32. § (2) bekezdése 2020. július 1-jén lép hatályba.
 
-[^36]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
