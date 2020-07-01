@@ -8,4 +8,4 @@
 
 (3) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld használatának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban a sommás eljárás szabályai nem alkalmazhatóak.
 
-(4) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld használati jogosultságának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban a hatóságnak a függő hatályú döntésben nem kell rendelkeznie az ügyfelet megillető kérelmezett jog gyakorlásáról.
+(4)

@@ -16,7 +16,7 @@ e) a használatért fizetendő ellenszolgáltatás módját és mértékét, ill
 
 f) a használat tervezett időtartamát,
 
-g) az ajánlat elfogadására megszabott határidőt (az ajánlati kötöttség határidejét), amely nem lehet kevesebb 30 napnál, és
+g) az ajánlat elfogadására megszabott határidőt (az ajánlati kötöttség határidejét), amely nem lehet kevesebb 60 napnál, és
 
 h) olyan egyéb körülményeket, információkat, amelyek a jogok gyakorlása és kötelezettségek teljesítése, valamint a föld hasznosításának módja szempontjából lényegesek.
 

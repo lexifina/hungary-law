@@ -1,6 +1,6 @@
 71. § (1) A közös tulajdonban álló földön a 70. § szerinti használati rend kialakításához az e §-ban meghatározottak szerint a tulajdonostársak tulajdoni hányad alapján számított többségi döntése szükséges azzal, hogy ha a tulajdonostársak tulajdoni hányad alapján számított legalább egytizede a használati megosztásról szóló (5) bekezdés szerinti ajánlatban foglaltakkal nem ért egyet, akkor a használati rend kialakításához a tulajdonostársak tulajdoni hányad alapján számított kétharmados döntése szükséges. A használati rendet a használati megosztásról szóló megállapodásban kell rögzíteni.
 
-(1a) Mellőzhető a használati megosztásáról szóló megállapodás, ha a földrészlet teljes területét egyetlen személy használatába adják.
+(1a) Mellőzhető a használati megosztásáról szóló megállapodás, ha a földrészlet teljes területét egyetlen harmadik személy használatába adják.
 
 (2) A használati megosztásról szóló megállapodásban rögzíteni kell a megállapodás időtartamát, vagy ha azt a tulajdonostársak határozatlan időre hozták létre, akkor ennek tényét.
 
@@ -28,7 +28,7 @@ a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai
 
 b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.
 
-(5) A használati rend kialakítását kezdeményező tulajdonostársnak a használati megosztásról szóló ajánlatot vagy tervezett megállapodást írásban, igazolt módon kell közölnie a tulajdonostársakkal. Az ajánlat vagy a tervezett megállapodás elfogadására biztosított határidő nem lehet kevesebb 30 napnál.
+(5) A használati rend kialakítását kezdeményező tulajdonostársnak a használati megosztásról szóló ajánlatot vagy tervezett megállapodást írásban, igazolt módon kell közölnie a tulajdonostársakkal. Az ajánlat vagy a tervezett megállapodás elfogadására biztosított határidő nem lehet kevesebb 60 napnál.
 
 (6) A használati megosztásról szóló megállapodást egységes okiratba kell foglalni. A megállapodást legalább azoknak a tulajdonostársaknak alá kell írnia, akik az (1) bekezdés szerinti döntést jóváhagyták, ide nem értve azt a tulajdonostársat, akinek esetében a használati megosztáshoz való hozzájárulást – a (3) bekezdésben foglaltak alapján, az ott meghatározott valamely körülmény miatt – megadottnak kell tekinteni. A használati megosztásról szóló megállapodás valamennyi tulajdonostársra kiterjed.
 

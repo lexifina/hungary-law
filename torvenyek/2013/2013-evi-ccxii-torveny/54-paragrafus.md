@@ -1,5 +1,1 @@
-54. § (1) Más törvényen alapuló előhaszonbérleti jog esetében a haszonbérbeadónak a hirdetményi úton történő közlés mellett a Földforgalmi törvény 49. § (1) bekezdése szerinti, a haszonbérleti szerződés közvetlen közlésére vonatkozó kötelezettsége teljesítése érdekében a haszonbérleti szerződést a más törvényen alapuló előhaszonbérleti jog jogosultja részére postai úton kell megküldenie, vagy az átvétel igazolása mellett személyesen átadnia. E bekezdés szerinti közlésnek a Földforgalmi törvény 49. § (1) bekezdésében meghatározott határidőn belül kell megtörténnie.
-
-(2) Az (1) bekezdésben meghatározott esetben is a joghatályos közlésnek a haszonbérleti szerződés hirdetményi úton történő közlése minősül, a más törvényen alapuló előhaszonbérleti jog jogosultja e jogát a Földforgalmi törvény 49. § (3) bekezdésében meghatározott határidőn belül gyakorolhatja.
-
-(3)
+### 54. §

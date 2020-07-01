@@ -20,7 +20,9 @@ i) a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a me
 
 j) a családi gazdálkodókról vezetett nyilvántartásban szereplő adatokat,
 
-k)
+k) a takarmány-vállalkozásokról vezetett nyilvántartásban szereplő adatokat,
+
+l) a vetőmag-előállítókról vezetett nyilvántartásban szereplő adatokat
 
 díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vonatkozó adatszolgáltatási formáktól, módoktól.
 

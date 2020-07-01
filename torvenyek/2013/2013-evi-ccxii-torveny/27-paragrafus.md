@@ -8,7 +8,7 @@
 
 (1a) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld tulajdonjogának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban sommás eljárásnak nincs helye, ide nem értve a mezőgazdasági igazgatási szerv hatósági bizonyítvány kiadása iránti eljárását.
 
-(1b) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld tulajdonjogának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban a hatóságnak a függő hatályú döntésben nem kell rendelkeznie az ügyfelet megillető kérelmezett jog gyakorlásáról.
+(1b)
 
 (2) Az eljárásban ügyfél
 

@@ -2,7 +2,7 @@
 
 a) az eljáró szervezet megnevezését,
 
-b) az érintett természetes személy személyazonosító adatait,
+b) az érintett természetes személy nevét, lakcímét,
 
 c) az érintett földrészletek azonosítására szolgáló adatokat,
 

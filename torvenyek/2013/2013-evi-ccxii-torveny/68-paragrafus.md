@@ -10,7 +10,7 @@ b) felmondással,
 
 c) azonnali hatályú felmondással,
 
-d) a határozatlan időtartamú szerződés esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
+d) a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
 
 (3) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
 
