@@ -91,3 +91,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2020-01-01 | 2019. évi LXXXI. törvény | 1994-53-00-00.143 |
 | 2020-02-01 | 2019. évi CXVII. törvény | 1994-53-00-00.144 |
 | 2020-03-01 | 2019. évi CXXVII. törvény | 1994-53-00-00.145 |
+| 2020-07-01 | 2019. évi CXXII. törvény | 1994-53-00-00.146 |
