@@ -12,6 +12,6 @@ d) a kereskedő a külön jogszabályban meghatározott veszélyes mértékű k�
 
 (3) Amennyiben az ellenőrzés során megállapítást nyer, hogy a kereskedő működési engedéllyel nem rendelkező üzletben folytat kizárólag üzlethez kötött kereskedelmi tevékenységet, a jegyző köteles az üzletet azonnal bezáratni.
 
-(4)[^53] A jegyző az (1)–(3) bekezdés alapján hozott határozatát elektronikus úton közli a 6. § (2) bekezdésében megjelölt és a külön engedélyt kiadó hatósággal, a hulladékkezelési és hulladékgazdálkodási követelményeknek való megfelelőség kapcsán eljáró területi környezetvédelmi hatósággal, valamint az egyéni vállalkozót nyilvántartásba vevő járási (fővárosi kerületi) hivatallal, gazdasági társaság esetén az illetékes cégbírósággal.
+(4)[^53] A jegyző az (1)–(3) bekezdés alapján hozott határozatát elektronikus úton közli a 6. § (2) bekezdésében megjelölt és a külön engedélyt kiadó hatósággal, a hulladékkezelési és hulladékgazdálkodási követelményeknek való megfelelőség kapcsán eljáró területi környezetvédelmi hatósággal, valamint az egyéni vállalkozót nyilvántartásba vevő állami adóhatósággal, gazdasági társaság esetén az illetékes cégbírósággal.
 
-[^53]: A 27. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 264. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^53]: A 27. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 264. § (7) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 75. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
