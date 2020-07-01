@@ -1,3 +1,5 @@
-## 19. § A munkavállalókat érő zajexpozícióra vonatkozó minimális egészségi és biztonsági követelményekről szóló 66/2005. (XII. 22.) EüM rendelet 6. § (2) bekezdésében a „kormányhivatal járási hivatalának” szövegrész helyébe a „kormányhivatalnak” szöveg lép.
+## 19. §[^20]
 
 ## 20. Az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 12/2006. (III. 23.) EüM rendelet módosítása
+
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
