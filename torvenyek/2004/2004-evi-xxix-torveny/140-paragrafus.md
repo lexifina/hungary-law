@@ -10,4 +10,4 @@
 
 (5) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban az engedélyező hatóság az eljárást felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amely más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
-(6) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(6)
