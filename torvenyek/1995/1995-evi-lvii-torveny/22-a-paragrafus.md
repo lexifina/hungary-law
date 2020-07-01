@@ -1,13 +1,25 @@
-22/A. § (1) A vízügyi igazgatási szerv vizsgálja, hogy van-e az öntözővíz továbbítását akadályozó vízfolyás- vagy csatornaszakasz.
+22/A. § (1) A vízügyi igazgatási szerv a mezőgazdasági vízszolgáltatás, az aszálykár és a vízkár elhárítása érdekében vizsgálja, hogy az öntözővíz továbbítását, a vízelvezetést akadályozza-e vízfolyás- vagy csatornaszakasz.
 
-(2) Ha a vízügyi igazgatási szerv az (1) bekezdés szerinti vizsgálat eredményeképpen megállapítja, hogy van nem állami tulajdonban lévő, az öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz, úgy kezdeményezi a vízügyi hatóságnál a vízügyi igazgatási szerv üzemeltetőként, fenntartóként történő kijelölését.
+(2) Ha a vízügyi igazgatási szerv az (1) bekezdés szerinti vizsgálat alapján megállapítja, hogy az öntözővíz továbbítását, a vízelvezetést akadályozó vízfolyás- vagy csatornaszakasz
 
-(3) A vízügyi hatóság – hatvan napon belül lefolytatott hatósági eljárásban – a vízügyi igazgatási szervet üzemeltetőnek és fenntartónak akkor jelöli ki, ha
+a) nem állami tulajdonban van,
 
-a) megállapítja, hogy az adott nem állami tulajdonban lévő vízfolyásnak, csatornának az öntözésben betöltött szerepe közérdekű, és
+b) más nyomvonalon történő elvezetéssel nem váltható ki,
 
-b) a vízfolyás, csatorna elhanyagolt állapota akadályozza az öntözővíz-továbbítást.
+c) használata a mezőgazdasági vízszolgáltatásban vagy az aszálykár, vízkár elhárításában közérdekű célú, valamint
 
-(4) A vízügyi hatóság kijelölő döntése két évig hatályos és fellebbezésre tekintet nélkül végrehajtható.
+d) rendeltetésszerű használatához állami vízgazdálkodási fejlesztés szükséges,
 
-(5) A kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
+kezdeményezi a terület tulajdonjogának az állam javára történő megszerzését.
+
+(3) A (2) bekezdés alapján állami tulajdonba kerülő vízfolyás- vagy csatornaszakasz közcélú vízilétesítménynek minősül.
+
+(4) A (2) bekezdés szerinti tulajdonszerzés hiányában a vízügyi igazgatási szerv üzemeltetőként, fenntartóként történő kijelölését kezdeményezi a vízügyi hatóságnál az öntözővíz továbbítását, a vízelvezetést akadályozó, nem állami tulajdonban lévő vízfolyás- vagy csatornaszakasz tekintetében. A vízügyi hatóság a vízügyi igazgatási szervet üzemeltetőnek és fenntartónak kijelöli, ha
+
+a) megállapítja, hogy a nem állami tulajdonban lévő vízfolyás, csatorna használata a mezőgazdasági vízszolgáltatásban vagy az aszálykár, vízkár elhárításában közérdekű célú, és
+
+b) a vízfolyás, csatorna elhanyagolt állapota akadályozza a mezőgazdasági vízszolgáltatáshoz vagy az aszálykár, vízkár elhárításához szükséges vízelvezetést, öntözővíz-továbbítást.
+
+(5) A vízügyi hatóság (4) bekezdés szerinti kijelölő döntése két évig hatályos.
+
+(6) A (4) bekezdés szerinti kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.

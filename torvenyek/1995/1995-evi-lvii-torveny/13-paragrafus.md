@@ -25,3 +25,5 @@ f) a 82. § bekezdésében a „magasabb vezető” alatt az e törvény szerint
 kell érteni.
 
 (4) E törvény alkalmazása során a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottakra a munka törvénykönyvéről szóló 2012. évi I. törvény 53. § (1) és (2) bekezdése nem alkalmazható.
+
+(5) A vízügyi igazgatási szerv a vizek kártételei elleni védelem és védekezés (vízkárelhárítás) során a figyelőszolgálat működtetésével összefüggésben munkaviszony vagy megbízási jogviszony keretében is gondoskodhat a feladatellátásról.

@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2018-12-21 | 2018. évi CXXI. törvény | 1995-57-00-00.57 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 1995-57-00-00.58 |
 | 2020-01-01 | 2018. évi CXXI. törvény | 1995-57-00-00.59 |
+| 2020-07-01 | 2020. évi XXXI. törvény | 1995-57-00-00.60 |
