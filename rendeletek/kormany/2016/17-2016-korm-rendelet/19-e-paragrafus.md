@@ -1,22 +1,22 @@
-19/E. § (1) A preferált kistelepülésen – a (2) bekezdésben foglalt kivétellel – a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a Tbj. 5. §-a szerint biztosított, és legalább egy éve – legfeljebb 30 nap megszakítással – folyamatosan
+19/E. § (1)[^84] A preferált kistelepülésen – a (2) bekezdésben foglalt kivétellel – a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a Tbj. 6. §-a szerint biztosított, és legalább egy éve – legfeljebb 30 nap megszakítással – folyamatosan
 
 a) a Tbj. 5. §-a alapján biztosított,
 
 b) a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban az oktatási intézmény azonosító adatait, a képzésre vonatkozó adatokat – ideértve a képzés kezdetét és várható befejezését is – tartalmazó nyilatkozatot tesz, vagy
 
-c)[^83] a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja.
+c)[^85] a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja.
 
 (2) A 19/D. § (2) bekezdés c) pontja szerinti családi otthonteremtési kedvezmény esetén a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
 
-a) 30 napnál nem régebbi okirattal igazolja, hogy a Tbj. 5. §-a szerint biztosított – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt –, vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, valamint
+a)[^86] 30 napnál nem régebbi okirattal igazolja, hogy a Tbj. 6. §-a szerint biztosított – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt –, vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, valamint
 
 b) legalább 2 éve folyamatosan – ideértve azt is, ha a legalább 2 év folyamatos biztosításban legfeljebb 30 nap megszakítás van –
 
-ba) a Tbj. 5. §-a alapján biztosított, és ezt 30 napnál nem régebbi okirattal igazolja,
+ba)[^87] a Tbj. 6. §-a alapján biztosított, és ezt 30 napnál nem régebbi okirattal igazolja,
 
 bb) a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, vagy
 
-bc)[^84] a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja.
+bc)[^88] a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja.
 
 (3) Az ezen alcím rendelkezéseiben meghatározott családi otthonteremtési kedvezmény igénylésekor az igénylő a 14. § (1) bekezdés a) pontjától eltérően a büntetlen előéletet érvényes hatósági erkölcsi bizonyítvánnyal igazolja. A kérelemhez csatolni kell az igénylő teljes bizonyító erejű magánokiratba foglalt írásbeli hozzájárulását annak érdekében, hogy a hatósági bizonyítványban foglalt személyes adatait a hitelintézet a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje.
 
@@ -42,8 +42,11 @@ b) korszerűsítéséhez felvett lakáscélú hitelintézeti, illetve lakás-tak
 
 (11) A lakás korszerűsítésére e rendeletnek a bővítésre irányadó rendelkezéseit megfelelően alkalmazni kell.
 
-(12)[^85] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
+(12)[^89] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
 
-[^83]: A 19/E. § (1) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^84]: A 19/E. § (2) bekezdés b) pont bc) alpontja a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^85]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.
+[^84]: A 19/E. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint móosított szöveg.
+[^85]: A 19/E. § (1) bekezdés c) pontja a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^86]: A 19/E. § (2) bekezdés a) pontja a 252/2020. (V. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint móosított szöveg.
+[^87]: A 19/E. § (2) bekezdés b) pont ba) alpontja a 252/2020. (V. 29.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint móosított szöveg.
+[^88]: A 19/E. § (2) bekezdés b) pont bc) alpontja a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^89]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.

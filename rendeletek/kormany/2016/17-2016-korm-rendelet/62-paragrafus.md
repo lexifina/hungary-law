@@ -1,4 +1,4 @@
-## 62. §[^192] E rendeletnek az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosításáról szóló 276/2019. (XI. 21.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 19/A. § (3) bekezdését és 19/I. §-át a Módr5. hatálybalépését[^193] megelőzően benyújtott, a Módr5. hatálybalépéséig még el nem bírált kérelmek esetén is alkalmazni kell azzal, hogy
+## 62. §[^196] E rendeletnek az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosításáról szóló 276/2019. (XI. 21.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 19/A. § (3) bekezdését és 19/I. §-át a Módr5. hatálybalépését[^197] megelőzően benyújtott, a Módr5. hatálybalépéséig még el nem bírált kérelmek esetén is alkalmazni kell azzal, hogy
 
 a) az igénylő a Módr5. hatálybalépését megelőzően hitelintézethez benyújtott kérelme kiegészítésével kérheti kérelmének ismételt elbírálását,
 
@@ -10,5 +10,5 @@ d) a hitelintézet az a) pont szerinti kérelem kiegészítésére tekintettel a
 
 e) a 26. § (4a) bekezdése szerinti bírálati idő az a) pont szerinti kérelem kiegészítésének időpontjától újraindul.
 
-[^192]: A 62. §-t a 276/2019. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^193]: A hatálybalépés időpontja 2020. január 1.
+[^196]: A 62. §-t a 276/2019. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
+[^197]: A hatálybalépés időpontja 2020. január 1.

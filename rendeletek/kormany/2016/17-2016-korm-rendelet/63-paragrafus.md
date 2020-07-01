@@ -1,4 +1,4 @@
-63. §[^194] (1) Ha a
+63. §[^198] (1) Ha a
 
 a) 14. § (3) bekezdés k) pontjában, m) pont mb) alpontjában, valamint (10) bekezdésében,
 
@@ -26,7 +26,7 @@ j) 44. § (4) bekezdésében
 
 (3) A veszélyhelyzet megszűnését követő 30. napig benyújtott kérelmek esetén a 14. § (1) bekezdés b) pontjában foglalt feltétel fennállását – ha az az igénylő számára kedvezőbb – a 2020. március 10. napján fennállt állapot szerint kell vizsgálni.
 
-(4) A 14. § (1) bekezdés c) pontjában, valamint a 19/E. § (1) és (2) bekezdésében foglaltaktól eltérően, a biztosítási jogviszonyban a veszélyhelyzet időtartama alatt vagy az azt követő 30 napos időszakon belül bekövetkező megszakítás esetén a veszélyhelyzet megszűnéséig, valamint ezt követően további 90 napos időtartamig nem kell figyelembe venni a megszakítás időtartamát akkor sem, ha az a 30 napot meghaladja. Ha az igénylő a veszélyhelyzet időtartama alatt vagy annak megszűnését követően – de legkésőbb a megszűnést követő 90 napos határidőn belül – újabb, a Tbj. 5. §-a szerinti biztosítási jogviszonyt létesít, akkor 90 napot a 14. § (1) bekezdés c) pontja, valamint a 19/E. § (1) és (2) bekezdése alkalmazása során a Tbj. 5. §-a szerinti biztosítási jogviszonyban töltött időnek kell tekinteni.
+(4)[^199] A 14. § (1) bekezdés c) pontjában, valamint a 19/E. § (1) és (2) bekezdésében foglaltaktól eltérően, a biztosítási jogviszonyban a veszélyhelyzet időtartama alatt vagy az azt követő 30 napos időszakon belül bekövetkező megszakítás esetén a veszélyhelyzet megszűnéséig, valamint ezt követően további 90 napos időtartamig nem kell figyelembe venni a megszakítás időtartamát akkor sem, ha az a 30 napot meghaladja. Ha az igénylő a veszélyhelyzet időtartama alatt vagy annak megszűnését követően – de legkésőbb a megszűnést követő 90 napos határidőn belül – újabb, a Tbj. 6. §-a szerinti biztosítási jogviszonyt létesít, akkor 90 napot a 14. § (1) bekezdés c) pontja, valamint a 19/E. § (1) és (2) bekezdése alkalmazása során a Tbj. 6. §-a szerinti biztosítási jogviszonyban töltött időnek kell tekinteni.
 
 (5) Ha a 14. § (1) bekezdés c) pontjában vagy a 19/E. § (1) bekezdésében és (2) bekezdés a) pontjában szereplő okirat kiállításától számított 30 napos időtartam a veszélyhelyzet fennállása alatt telt le, a kiállítás időpontját a veszélyhelyzet megszűnését követő 30. napig nem kell figyelembe venni.
 
@@ -36,4 +36,5 @@ j) 44. § (4) bekezdésében
 
 (8) Az (1) bekezdés a)–c) és e)–j) pontja, valamint a (6) és a (7) bekezdés rendelkezéseit a veszélyhelyzet megszűnését megelőzően benyújtott, de még el nem bírált támogatás iránti kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra, folyamatban lévő eljárásokra, valamint megkezdett eljárási cselekményekre kell alkalmazni.
 
-[^194]: A 63. §-t a 284/2020. (VI. 17.) Korm. rendelet 81. §-a iktatta be.
+[^198]: A 63. §-t a 284/2020. (VI. 17.) Korm. rendelet 81. §-a iktatta be.
+[^199]: A 63. § (4) bekezdése a 284/2020. (VI. 17.) Korm. rendelet 82. § c) pontja szerint módosított szöveg.

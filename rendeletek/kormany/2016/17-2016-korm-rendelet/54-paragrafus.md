@@ -1,4 +1,4 @@
-## 53. §[^180] Felhatalmazást kap az általános politikai koordinációért felelős miniszter, hogy az e rendelet szerinti családi otthonteremtési kedvezményre és az otthonteremtési kamattámogatásra vonatkozó hitelintézeti reklámok, hirdetések részletes szabályait rendeletben állapítsa meg.[^181]
+## 53. §[^184] Felhatalmazást kap az általános politikai koordinációért felelős miniszter, hogy az e rendelet szerinti családi otthonteremtési kedvezményre és az otthonteremtési kamattámogatásra vonatkozó hitelintézeti reklámok, hirdetések részletes szabályait rendeletben állapítsa meg.[^185]
 
-[^180]: Az 53. § a 46/2019. (III. 12.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
-[^181]: Lásd a 2/2016. (III. 5.) MK rendeletet.
+[^184]: Az 53. § a 46/2019. (III. 12.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
+[^185]: Lásd a 2/2016. (III. 5.) MK rendeletet.
