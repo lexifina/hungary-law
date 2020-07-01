@@ -228,7 +228,7 @@ b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajt�
 
 56. társas vállalkozó: a Tbj. 4. § d) pontja szerinti jogviszonyban álló személy,
 
-57. Tbj.: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény,
+57. Tbj.: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény,
 
 58. természetes személyazonosító adatok: a következő adatok együttesen: név, születési név, születési idő, hely (ország, település), anyja születési neve,
 
