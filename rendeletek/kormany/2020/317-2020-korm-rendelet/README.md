@@ -1,0 +1,9 @@
+# 317/2020. (VII. 1.) Korm. rendelet
+
+a nyilvántartásokhoz kapcsolódó eljárások egyszerűsítése és elektronizálása érdekében szükséges kormányrendelet-módosításokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-317-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-07-01 | 2020-317-20-22.1 | 317/2020. (VII. 1.) Korm. rendelet |
