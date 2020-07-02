@@ -26,6 +26,6 @@
 
 | Engedélyezés dátuma: |
 
-21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^224]
+21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^225]
 
-[^224]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^225]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte.
