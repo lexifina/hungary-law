@@ -50,9 +50,9 @@
 
 ## Határidő: a 2022. évi központi költségvetés tervezése során
 
-## 2. A Kormány visszavonja a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges létesítményfejlesztés előkészítésének Beruházás Előkészítési Alapból történő támogatásáról szóló 1158/2019. (III. 27.) Korm. határozat 11. pontját.
+## 2.[^1]
 
-## 3. A Kormány visszavonja a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges további kormányzati intézkedésekről szóló 1507/2019. (VIII. 23.) Korm. határozat 2. és 4–6. pontját.
+## 3.[^2]
 
 1. melléklet az 1359/2020. (VII. 1.) Korm. határozathoz
 
@@ -119,3 +119,6 @@
 |  |  | egyéb: | azonnal |  |  | 7 371 420 756 |  |  |  |  |  |  |  |  |  |  | 7 371 420 756 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
