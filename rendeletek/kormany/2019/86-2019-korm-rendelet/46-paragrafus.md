@@ -24,7 +24,7 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (10) A Kormány a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendeletben és a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendeletben meghatározott irányító hatóságok egyes szakértőt igénylő feladatainak átmeneti ellátására – indokolt esetben – a fővárosi és megyei kormányhivatalokat jelölheti ki összeférhetetlenségi szempont figyelembevételével.
 
-(11)[^10] A (4) bekezdésben meghatározott feladatokat Csongrád megye tekintetében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala látja el. Ha jogszabály e feladatok tekintetében megyei kormányhivatalt említ, azon a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát is érteni kell.
+(11)[^10] A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 208/A. § (2) bekezdése szerinti szabálysértési hatóságként a fővárosi és megyei kormányhivatalt jelöli ki.
 
 [^9]: A 46. § (5) bekezdését a 111/2020. (IV. 14.) Korm. rendelet 17. §-a hatályon kívül helyezte.
-[^10]: A 46. § (11) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 199. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 46. § (11) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
