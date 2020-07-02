@@ -1,3 +1,3 @@
-## 10. § Az R2. az 5. §-t követően a következő alcím címmel egészül ki:
+## 10. §[^10]
 
-## „Záró rendelkezések”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

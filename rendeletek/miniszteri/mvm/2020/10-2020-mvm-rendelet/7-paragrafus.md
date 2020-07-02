@@ -1,5 +1,3 @@
-## 7. § Hatályát veszti az R1.
+## 6. §[^6]
 
-a) 41. §-a,
-
-b) 19. és 20. melléklete.
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

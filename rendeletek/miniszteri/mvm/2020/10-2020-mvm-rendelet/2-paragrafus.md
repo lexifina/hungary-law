@@ -1,1 +1,3 @@
-## „(4) Ha a Kbt. rendelkezéseinek megfelelően az EKR tartós üzemzavara miatt a (3) bekezdés szerinti hirdetményeket a Hatóságon keresztül, közvetlenül a Hatóság által üzemeltetett informatikai rendszer igénybevételével kell megküldeni a Hatóságnak, az ajánlatkérő a Hatóság által üzemeltetett informatikai rendszerben regisztrációra köteles.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

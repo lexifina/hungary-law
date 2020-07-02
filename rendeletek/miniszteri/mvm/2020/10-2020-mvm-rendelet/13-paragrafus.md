@@ -1,4 +1,4 @@
-## 12. §[^1]
+## 12. §[^12]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 12. § az e rendelet kihirdetését követő harmincegyedik napon lép hatályba.
 
-[^1]: A 12. § a 13. § (2) bekezdése alapján 2020. július 27-én lép hatályba.
+[^12]: A 12. § a 13. § (2) bekezdése alapján 2020. július 27-én lép hatályba.

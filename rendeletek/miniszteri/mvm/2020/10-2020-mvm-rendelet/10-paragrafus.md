@@ -1,3 +1,3 @@
-## 9. § Az R2. 1/A. § (1c) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^9]
 
-## „(1c) Nem köteles az ajánlatkérő az (1b) bekezdés szerinti rendszerhasználati díj fizetésére, ha az utólagos közzétételi és adatrögzítési kötelezettség teljesítésére a Kbt. 31. § (5) bekezdése alapján kerül sor, valamint ha az utólagos közzétételre és adatrögzítésre azért került sor, mert az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet szerinti, az EKR üzemeltetője honlapján közétett üzemzavar, működési hiba miatt az ajánlatkérőnek az elektronikus úttól eltérő kommunikáció használatával kellett lefolytatnia a közbeszerzési eljárást.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

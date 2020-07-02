@@ -1,11 +1,3 @@
-## Az R1. 10. melléklet I.3) pontja helyébe a következő rendelkezés lép:
+10. melléklet a 10/2020. (VI. 26.) MvM rendelethez[^22]
 
-## „I.3) Az ajánlatkérő típusa
-
-## □ Központi szintű □ Közszolgáltató
-
-## □ Regionális/helyi szintű □ Támogatott szervezet [Kbt. 5. § (2) bekezdés]
-
-## □ Közjogi szervezet □ Egyéb:”
-
-10. melléklet a 10/2020. (VI. 26.) MvM rendelethez
+[^22]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
