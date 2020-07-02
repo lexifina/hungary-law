@@ -1,1 +1,1 @@
-24. § Hatályát veszti az Inytv. 91. § (4) bekezdésében a „ , továbbá a bejegyzett kezelői jogok tekintetében a külön törvénynek azt a rendelkezését, amely szerint az ingatlan-nyilvántartásba bejegyzett kezelői jogon, a továbbiakban vagyonkezelői jogot kell érteni” szövegrész.
+24. §

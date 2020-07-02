@@ -1,5 +1,1 @@
-47. § Az Nfatv. 16/A. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdésben foglaltaktól eltérően, ha a honvédelmi célra feleslegessé nyilvánított és az (1) bekezdésben foglaltak szerint átvett területet az NFK állandó jellegű növényház megvalósítása céljából kívánja hasznosítani, úgy a mentesítéssel, valamint az ingatlan művelési ágának megállapításával és esetleges megosztásával – ideértve a szükséges változási vázrajz készítését – kapcsolatban felmerült költséget az állandó jellegű növényházat megvalósító beruházó viseli, de az elszámolt és kimutatott költség összege az ingatlan hasznosításáért járó ellenszolgáltatás összegébe beszámítható.
-
-(3b) A (3) bekezdésben foglaltaktól eltérően a mentesítéssel, valamint az ingatlan művelési ágának megállapításával és esetleges megosztásával – ideértve a szükséges változási vázrajz készítését – kapcsolatban felmerült összes elszámolt és kimutatott költséget az ingatlan használója a hasznosítási szerződésben előzetesen is átvállalhatja.”
+47. §

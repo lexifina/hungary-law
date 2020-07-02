@@ -1,3 +1,1 @@
-62. § Az Nfatv. 28. §-a helyébe a következő rendelkezés lép:
-
-„28. § A Nemzeti Földalapba tartozó földrészletek hasznosításából származó bevételeket földvásárlásra, az osztatlan közös földtulajdon megszüntetésére, a kiadatlan részaránytulajdonnal rendelkezők kártalanítására, az öntözési infrastruktúra fejlesztésére, a 15. §-ban foglaltak megvalósítására vagy az államadósság csökkentésére kell fordítani.”
+62. §

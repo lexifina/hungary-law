@@ -1,3 +1,1 @@
-23. § Az Inytv. a következő 93/B. §-sal egészül ki:
-
-„93/B. § E törvénynek a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvénnyel (a továbbiakban: 2020. évi XL. törvény) megállapított 91. § (9) bekezdését a tartós földhasználó, illetve az ingyenes örökhasználó által a 2020. évi XL. törvény hatálybalépése napjáig benyújtott tulajdonjog bejegyzés iránti kérelme alapján folyamatban lévő eljárásokban is alkalmazni kell.”
+23. §

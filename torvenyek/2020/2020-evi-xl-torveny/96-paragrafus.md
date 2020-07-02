@@ -1,13 +1,1 @@
-96. § (1) A Földforgalmi tv. 49. § (1)–(4) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A föld haszonbérbe adása esetén a földre vonatkozó, és a haszonbérbeadó által elfogadott haszonbérleti ajánlatot egységes okiratba foglalt szerződésbe (a továbbiakban: haszonbérleti szerződés) kell foglalni, és azt a haszonbérbeadónak a föld fekvése szerint illetékes települési önkormányzat jegyzője részére – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – meg kell küldeni az e törvényen, valamint más törvényen alapuló előhaszonbérleti jog jogosultjaival hirdetményi úton történő közlés érdekében.
-
-(2) A haszonbérleti szerződés hirdetményi úton történő közlése a kormányzati portálon történő közzététellel valósul meg azzal, hogy a haszonbérleti szerződésben felismerhetetlenné kell tenni a haszonbérbeadó és a haszonbérlő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot. A haszonbérleti szerződés tájékoztató jelleggel a föld fekvése szerint illetékes települési önkormányzat polgármesteri hivatala hirdetőtábláján is kifüggeszthető az elektronikus közzététellel megegyező időtartamra.
-
-(3) Az előhaszonbérleti jog jogosultja a közlést kezdő napjától számított 15 napos jogvesztő határidőn belül tehet a haszonbérleti szerződésre elfogadó, vagy az előhaszonbérleti jogáról lemondó jognyilatkozatot. A nyilatkozattételi határidő a haszonbérleti szerződésnek a kormányzati portálon történő közzétételét követő napon kezdődik. Az előhaszonbérleti jogról való lemondásnak kell tekinteni, ha az előhaszonbérletre jogosult az e bekezdésben meghatározott határidőn belül nem nyilatkozik.
-
-(4) Az elfogadó jognyilatkozatot legalább teljes bizonyító erejű magánokiratba kell foglalni. Az elfogadó jognyilatkozatban meg kell jelölni az előhaszonbérleti jogosultság jogalapját, továbbá ha az előhaszonbérleti jog törvényen alapul, akkor az elfogadó jognyilatkozatban azt is meg kell jelölni, hogy az előhaszonbérletre jogosult mely törvényen és az ott meghatározott sorrend melyik ranghelyén gyakorolja az előhaszonbérleti jogát. Az elfogadó jognyilatkozatnak tartalmaznia kell a 42. §-ban foglalt jogosultsági feltételként előírt nyilatkozatokat. Az elfogadó jognyilatkozathoz csatolni kell az előhaszonbérleti jogosultságot bizonyító okiratokat is. A 46. § (3) bekezdésében meghatározott előhaszonbérletre jogosultak esetében az elfogadó jognyilatkozatnak tartalmaznia kell azt is, hogy a 46. § (3) bekezdés melyik pontjában (alpontjában) meghatározott célból gyakorolják az előhaszonbérleti jogukat.”
-
-(2) A Földforgalmi tv. 49. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A más törvény alapján előhaszonbérletre jogosult is a (3) bekezdés szerinti határidőn belül és e §-ban foglaltak szerint tehet elfogadó jognyilatkozatot.”
+96. §
