@@ -1,1 +1,3 @@
-## „i) a képzésben részt vevő személy és a felnőttképző szerződésszegésének következményeit.”
+8. §[^9]
+
+[^9]: Az 1–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

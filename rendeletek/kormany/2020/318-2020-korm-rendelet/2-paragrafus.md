@@ -1,1 +1,3 @@
-## „(3) A szakképzési centrum részeként működő szakképző intézmény esetén a bejelentést, illetve az engedély megadása iránti kérelmet a szakképzési centrum nyújtja be a felnőttképzési államigazgatási szervhez.”
+2. §[^3]
+
+[^3]: Az 1–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
