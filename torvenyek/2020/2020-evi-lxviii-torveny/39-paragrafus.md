@@ -1,3 +1,1 @@
-39. § A Nek. tv. 140. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az önkormányzat vagy a képviselő-testület, közgyűlés megbízatásának megszűnésével egyidejűleg az elnök megbízatása is megszűnik, azonban az elnök elszámolási kötelezettséggel tartozik az önkormányzati vagyon, ezen belül az állami támogatás jogszerű és időarányos felhasználásáról az új képviselő-testületnek, közgyűlésnek. Ha a képviselők száma a működéshez szükséges létszám alá csökken vagy nem alakul új képviselő-testület, közgyűlés, az elszámolási kötelezettség a települési és területi nemzetiségi önkormányzat esetén a fővárosi és megyei kormányhivatal, országos nemzetiségi önkormányzat esetén az országos önkormányzati hivatal felé áll fenn.”
+39. §

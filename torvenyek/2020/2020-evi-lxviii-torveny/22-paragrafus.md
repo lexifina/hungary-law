@@ -1,3 +1,1 @@
-22. § A Nek. tv. 83. §-a helyébe a következő rendelkezés lép:
-
-„83. § Az e törvény által meghatározott nemzetiségi jogok védelmében, különösen a helyi kollektív nyelvhasználat, az oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás tárgyában folyó hatósági eljárásokban az adott nemzetiség területileg illetékes települési nemzetiségi önkormányzatát, ennek hiányában területi, ennek hiányában országos önkormányzatát az – általános közigazgatási rendtartásról szóló törvény által meghatározott rendben – ügyféli jogállás, e körben nyilatkozattételi és jogorvoslati jogosultság illeti meg.”
+22. §
