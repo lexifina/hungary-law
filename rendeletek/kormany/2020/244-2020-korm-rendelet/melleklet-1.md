@@ -1,4 +1,4 @@
-## 34. § Hatályát veszti az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet nyilvántartásba vételének és nyilvántartásból való törlésének, továbbképzésének, szolgálati tevékenységének részletes szabályairól, valamint az erdészeti hatósági és igazgatási feladatokat ellátó személyek szolgálati tevékenységének egyes szabályairól szóló 71/2010. (V. 13.) FVM rendelet.
+## 34. §[^1]
 
 1. melléklet a 244/2020. (V. 28.) Korm. rendelethez
 
@@ -45,3 +45,5 @@ megszerzett erdőmérnök képesítés.
 2.10. az állam által elismert erdészeti és vadgazdálkodási technikus, erdésztechnikus
 
 szakképesítés.
+
+[^1]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
