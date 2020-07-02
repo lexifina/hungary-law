@@ -1,3 +1,5 @@
-## 12. § Hatályát veszti az R. 2. § 43. pontja.
+## 12. §[^12]
 
 ## 2. Az előadó-művészeti szervezetek támogatásának részletes szabályairól szóló 428/2016. (XII. 15.) Korm. rendelet módosítása
+
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

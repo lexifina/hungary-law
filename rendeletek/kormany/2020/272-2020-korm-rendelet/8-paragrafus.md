@@ -1,7 +1,3 @@
-## 7. § Az R. 47. §-a a következő l) és m) ponttal egészül ki:
+## 7. §[^7]
 
-## (Nem kell iktatni, de jogszabályban meghatározott esetekben nyilván kell tartani:)
-
-## „l) egészségügyi dokumentációkat;
-
-## m) tervdokumentációkat.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

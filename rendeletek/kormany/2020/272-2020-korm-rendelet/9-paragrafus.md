@@ -1,3 +1,3 @@
-## 8. § Az R. 53. §-a a következő (7) bekezdéssel egészül ki:
+## 8. §[^8]
 
-## „(7) A szerv a kiadmány egy hiteles példányát köteles irattárában az ügyirat részeként megőrizni.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

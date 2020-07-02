@@ -1,3 +1,3 @@
-## 4. § Az R. 40. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^4]
 
-## „(1) Az iktatószámnak tartalmaznia kell számot, betűt vagy ezek tetszőleges kombinációját és az irat főszáma iktatási évének négy számjegyét.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

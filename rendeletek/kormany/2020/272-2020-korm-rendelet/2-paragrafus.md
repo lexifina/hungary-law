@@ -1,1 +1,3 @@
-## „36. megsemmisítés: a selejtezési vagy hiteles másolatkészítési eljárást követően megsemmisíthető irat vagy iratpéldány végleges megsemmisítése, a benne foglalt információ helyreállításának lehetőségét kizáró módon történő hozzáférhetetlenné tétele, törlése, amely következtében az irat tartalma nem rekonstruálható;”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
