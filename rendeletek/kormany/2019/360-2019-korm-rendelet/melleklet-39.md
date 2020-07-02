@@ -1,3 +1,3 @@
-39. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^449]
+39. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^446]
 
-[^449]: A 39. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^446]: A 39. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

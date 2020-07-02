@@ -1,3 +1,3 @@
-2. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^412]
+2. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^409]
 
-[^412]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^409]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

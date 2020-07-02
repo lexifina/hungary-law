@@ -4,20 +4,11 @@
 
 75. § (1)[^119]
 
-(2) Az R47.
+(2)[^120]
 
-a)[^120]
-
-b)[^121]
-
-c) 27. § (4) bekezdésében a „járási (fővárosi kerületi) hivatallal” szövegrész helyébe az „állami adóhatósággal” szöveg
-
-## lép.
-
-(3)[^122]
+(3)[^121]
 
 [^118]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^119]: A 75. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^120]: A 75. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^121]: A 75. § (2) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^122]: A 75. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 75. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 75. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-18. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^428]
+18. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^425]
 
-[^428]: A 18. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^425]: A 18. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^419]
+9. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^416]
 
-[^419]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^416]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

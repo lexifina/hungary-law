@@ -1,5 +1,5 @@
-## 78. §[^125]
+## 78. §[^124]
 
 ## 79. Az integrált ügyintézési és tájékoztatási pont kialakításáról, működtetéséről, valamint a működtető és az érintett szervek együttműködésének rendjéről szóló 160/2010. (V. 6.) Korm. rendelet módosítása
 
-[^125]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

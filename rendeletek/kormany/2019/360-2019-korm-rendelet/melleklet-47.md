@@ -1,3 +1,3 @@
-47. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^457]
+47. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^454]
 
-[^457]: A 47. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^454]: A 47. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

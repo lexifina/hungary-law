@@ -1,5 +1,5 @@
-## 168. §[^362]
+## 168. §[^361]
 
 ## 169. A Magyar Bányászati és Földtani Szolgálatról szóló 161/2017. (VI. 28.) Korm. rendelet módosítása
 
-[^362]: A 168. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^361]: A 168. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
