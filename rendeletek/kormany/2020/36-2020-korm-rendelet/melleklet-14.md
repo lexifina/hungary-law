@@ -1,3 +1,3 @@
-14. melléklet a 36/2020. (III. 5.) Korm. rendelethez[^47]
+14. melléklet a 36/2020. (III. 5.) Korm. rendelethez[^49]
 
-[^47]: A 14. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 14. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
