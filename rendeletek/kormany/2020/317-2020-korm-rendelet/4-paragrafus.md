@@ -1,7 +1,3 @@
-## 4. § A Vhr1.
+4. §[^10]
 
-a) 3. § (2) bekezdésében az „a a járási” szövegrész helyébe az „a járási” szöveg,
-
-b) 19. § (4) bekezdésében a „szervnek az” szövegrész helyébe a „szervnek, az” szöveg
-
-lép.
+[^10]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

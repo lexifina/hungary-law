@@ -1,11 +1,3 @@
-## A Vhr3. 3. melléklet 1. pont 1.8.4. alpontja helyébe a következő rendelkezés lép:
+3. melléklet a 317/2020. (VII. 1.) Korm. rendelethez[^46]
 
-## „1.8.4. Az elvégzett veszélyazonosítás és kockázatelemzés eredményei alapján az üzemeltető kialakítja, felülvizsgálja és szükség szerint kiegészíti a biztonsági irányítási rendszer normáit: kidolgozza, kiegészíti és alkalmazza a biztonságos üzemre vonatkozó technológiai leírásokat, utasításokat és más szabályzókat, figyelembe véve a vonatkozó legjobb gyakorlatokkal kapcsolatban rendelkezésre álló információkat. A normák kialakításába – az őket érintő területeken és mértékben – a végrehajtó személyzetet is bevonja. Részükre a megfelelő feltételeket és felkészítést biztosítja. A normarendszerben figyelembe veszi a normálüzemi technológiákat, a leállításokat, az indításokat, a berendezések karbantartását és a technológiai veszélyhelyzetek jelzését és kezelését is, külön figyelmet fordít az alvállalkozói rendszerben végzett tevékenységekre. A normarendszer részeként az üzemeltető a rendszerhiba kockázatának csökkentése céljából, az üzemben lévő, a biztonsági jelentésben rögzített veszélyes anyagokkal kapcsolatos súlyos baleseti eseménysorokhoz rendelhető technológiai berendezések, tároló edények elhasználódásával és a korrózióval járó kockázatok kezelése és ellenőrzése érdekében kidolgozza ezen technológiai berendezések, tárolóedények állapotának nyomon követésére és ellenőrzésére szolgáló stratégiát és módszertant, gondoskodik a megfelelő utókövetési intézkedések és az esetlegesen szükséges ellenintézkedések megtételéről. A biztonsági irányítási rendszer normáit megismerteti a fenti tevékenységekben érintett személyekkel is.”
-
-3. melléklet a 317/2020. (VII. 1.) Korm. rendelethez
-
-A Vhr3. 7. melléklet 2. pont 2.3. alpontjában szereplő táblázat B. sora helyébe a következő sor lép:
-
-|  | (Az építmény jellege | Kivételek) |
-
-| B. | Munkahely, parkoló | 1. Ha 200 gépjárműnél nagyobb befogadóképességű a parkoló vagy más létesítmények tartoznak hozzá, a C. kategóriába kell sorolni. 2. A 100 főnél több személyt befogadó, vagy 3 szintesnél magasabb kereskedelmi vagy ipari épületet, munkahelyet, vagy mozgássérülteknek készült ipari vagy kereskedelmi építményeket, munkahelyeket a C. kategóriába kell sorolni. |
+[^46]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 8. § Hatályát veszti a Vhr2.
+8. §[^22]
 
-a) 17. § (1) bekezdésében az „A kiskorú vagy gondnokság alatt álló személy kérelmét törvényes képviselője nyújtja be és írja alá.” szövegrész,
-
-b) 27. §-a,
-
-c) 31. § (1) bekezdésében a „15. § (2) bekezdése” szövegrész.
+[^22]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

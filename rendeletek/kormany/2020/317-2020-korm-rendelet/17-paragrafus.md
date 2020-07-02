@@ -1,5 +1,3 @@
-## 16. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény végrehajtásáról szóló 145/1999. (X. 1.) Korm. rendelet, valamint az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 379/2013. (X. 25.) Korm. rendelet 33. § (2) bekezdésében a „2021. január 1-jén” szövegrész helyébe a „2022. január 1-jén” szöveg lép.
-
 ## 8. Záró rendelkezések
 
 17. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetése napján 21 órakor lép hatályba.
