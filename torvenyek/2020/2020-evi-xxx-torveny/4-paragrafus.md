@@ -4,8 +4,4 @@
 
 (2)
 
-(3) Hatályát veszti a Btv.
-
-a) 43/C. § (2) bekezdés a) pontja,
-
-b) 44. § (7) bekezdése.
+(3)
