@@ -84,7 +84,7 @@
 
 ## Munkahelyei az elmúlt öt évben Magyarországon: ………………………………………………………………………
 
-## II. A kérelmező családi állapotára vonatokozó adatok:
+## II. A kérelmező családi állapotára vonatkozó adatok:
 
 ## 1. Családi állapota:
 
@@ -336,7 +336,7 @@
 
 ## Munkahelyei az elmúlt öt évben Magyarországon: ………………………………………………………………………
 
-## VII. A kérelmező házastársának korábbi családi állapotára vonatokozó adatok:
+## VII. A kérelmező házastársának korábbi családi állapotára vonatkozó adatok:
 
 ## Ha a jelenlegi házassága nem az első:
 
@@ -796,6 +796,6 @@
 
 ## kérelmező aláírása
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^91]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^93]
 
-[^91]: A 2. számú melléklet a 28/2020. (II. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^93]: A 2. számú melléklet a 28/2020. (II. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

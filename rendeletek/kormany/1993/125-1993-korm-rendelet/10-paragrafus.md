@@ -1,5 +1,5 @@
-## 9/A. §[^54]
+## 9/A. §[^55]
 
 ## A kérelmet átvevő a kérelemmel együtt felterjeszti a hazai anyakönyvezés kezdeményezéséhez szükséges iratokat, valamint – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba való felvételhez szükséges adatlapot.
 
-[^54]: A 9/A. §-t a 417/2012. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^55]: A 9/A. §-t a 417/2012. (XII. 29.) Korm. rendelet 4. §-a iktatta be.

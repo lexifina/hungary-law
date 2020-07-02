@@ -136,7 +136,7 @@
 
 ## a kérelmet átvevő aláírása
 
-4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^93]
+4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^95]
 
 A köztársasági elnöknek
 
@@ -384,4 +384,4 @@ Kelt: ..........................................................................
 
 | .................................................................... korlátozottan cselekvőképes kérelmező aláírása | .................................................................... korlátozottan cselekvőképes kérelmező aláírása |
 
-[^93]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^95]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
