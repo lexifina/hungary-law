@@ -1,3 +1,1 @@
-8. § Az Fktv. 13/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bejelentéshez kötött felnőttképzési tevékenység, a belső képzés és – ha jogszabály a képzés elvégzése igazolásának más módját határozza meg – a jogszabály alapján szervezett oktatás és képzés kivételével, a felnőttképző a képzés elvégzésének igazolására a felnőttképzés adatszolgáltatási rendszerében tanúsítványt állít ki és azt a képzésben részt vevő személy választása szerint elektronikus úton vagy papíralapon a képzésben részt vevő személy rendelkezésére bocsátja. A bejelentéshez kötött felnőttképzési tevékenység esetén a tanúsítványt a képzésben részt vevő személy kérésére kell kiállítani.”
+8. §
