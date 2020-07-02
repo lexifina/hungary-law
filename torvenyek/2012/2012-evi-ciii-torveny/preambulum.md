@@ -1,1 +1,0 @@
-Az Országgyűlés a gyermekekről való felelős gondoskodás jegyében, az ahhoz kapcsolódó források megteremtése, valamint a társadalmi szolidaritásra építve a Szent Erzsébet-i hagyományok újraélesztése érdekében a következő törvényt alkotja.
