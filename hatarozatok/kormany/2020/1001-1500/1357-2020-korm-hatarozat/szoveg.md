@@ -46,4 +46,6 @@ a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 55 932 52
 
 b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 55 314 194 016 forint;
 
-5. visszavonja a MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság részére 21 db nagykapacitású motorvonat beszerzéséről szóló 1644/2019. (XI. 19.) Korm. határozat 3. pontját.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
