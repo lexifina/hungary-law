@@ -1,5 +1,5 @@
-## 8. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 4/B. §-a helyébe a következő rendelkezés lép:
-
-## „4/B. § A közlekedésért felelős miniszter a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat belföldi alkalmazásáról szóló rendeletében foglaltak alapján a belföldi belvízi veszélyes áru szállítási műveletnek a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodásban (ADN) előírt feltételektől eltérő feltételekkel való végrehajtására vonatkozó, a hajózási hatóságnál kérelmezett egyedi engedélyhez szükséges katasztrófavédelmi véleményt a hivatásos katasztrófavédelmi szervnek a hajó tervezett indulási vagy a határátlépés helye szerint illetékes területi szerve adja ki.”
+## 8. §[^9]
 
 ## 8. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
