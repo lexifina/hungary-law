@@ -1,3 +1,5 @@
-## 6. § Az 50/2004. (IV. 22.) FVM rendelet 1. § (1) bekezdés a) pontjában a „zöldségnövények” szövegrész helyébe a „mezőgazdasági vagy kertészeti termesztésre szánt növényfajok, zöldségnövények” szöveg lép.
+## 6. §[^7]
 
 ## 3. Záró rendelkezések
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
