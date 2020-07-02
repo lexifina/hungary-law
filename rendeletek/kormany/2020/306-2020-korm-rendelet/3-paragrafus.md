@@ -1,7 +1,3 @@
-## 2. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet (a továbbiakban: TnyR.) 12. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## [A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek]
-
-## „a) az 1998. január 1-je és 2020. június 30-a között a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: 1997. évi LXXX. törvény) 2020. július 1-jét megelőzően hatályos 5. § (1) bekezdés a), b) és e)–k) pontja, valamint (2) és (3) bekezdése, vagy 2020. június 30-át követően a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) és d)–j) pontja, valamint (2) és (3) bekezdése szerinti jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló kötelező nyári gyakorlatát, valamint a szakközépiskolai tanuló biztosítási kötelezettséggel járó jogviszonyban eltöltött nyári gyakorlatát, továbbá az 1997. évi LXXX. törvény 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;”
-
-## (szerzett szolgálati idő minősül.)
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

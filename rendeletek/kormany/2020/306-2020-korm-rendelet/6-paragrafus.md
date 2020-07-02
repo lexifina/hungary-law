@@ -1,3 +1,3 @@
-## 5. § A TnyR. 74. §-a helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „74. § A Vasutas Önkéntes Támogatási Alap Közhasznú Egyesület, a Rudolf Segélyező Egyesület, a Vasutas Segélyező Egyesület, a Vasutasok és Közlekedési Dolgozók Jótékonysági Egyesülete, valamint a Mozdonyvezetők, Vasútüzemi Dolgozók Segélyező Egyesülete (a továbbiakban együtt: egyesületek) nyugellátásban vagy a nyugdíjfolyósító szerv által folyósított más ellátásban részesülő tagjai tagdíjának az ellátásból történő levonásáról a tag írásbeli felhatalmazása alapján – térítés ellenében – a nyugdíjfolyósító szerv gondoskodik. A tagdíjlevonások és a térítés elszámolásának rendjét az egyesületek és a nyugdíjfolyósító szerv megállapodásban rögzítik.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

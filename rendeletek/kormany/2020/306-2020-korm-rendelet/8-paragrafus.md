@@ -1,11 +1,3 @@
-## lép.
+## 7. §[^7]
 
-## 8. § Hatályát veszti a TnyR.
-
-a) 9/A. §-a,
-
-b) 59. §-a,
-
-c) 73/B. §-a,
-
-d) 85. § (4) bekezdése.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

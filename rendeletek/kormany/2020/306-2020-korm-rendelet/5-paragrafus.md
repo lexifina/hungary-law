@@ -1,3 +1,3 @@
-## 4. § A TnyR. az 55/A. §-t megelőzően a következő alcím címmel egészül ki:
+## 4. §[^4]
 
-## „A szolgálati idő figyelembevétele”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

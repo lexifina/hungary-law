@@ -1,4 +1,4 @@
-## 9. §[^1]
+## 9. §[^9]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 9. § 2020. október 1-jén lép hatályba.
 
-[^1]: A 9. § a 10. § (2) bekezdése alapján 2020. október 1-jén lép hatályba.
+[^9]: A 9. § a 10. § (2) bekezdése alapján 2020. október 1-jén lép hatályba.
