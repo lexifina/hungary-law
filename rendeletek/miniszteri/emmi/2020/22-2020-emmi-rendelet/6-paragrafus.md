@@ -1,12 +1,14 @@
 ## 4. A gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosítása
 
-6. § (1) A gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet (a továbbiakban: R4.) 2. melléklete a 14. melléklet szerint módosul.
+6. § (1)[^16]
 
-(2)[^9]
+(2)[^17]
 
-(3) Az R4. 4. melléklete a 16. melléklet szerint módosul.
+(3)[^18]
 
-(4)[^10]
+(4)[^19]
 
-[^9]: A 6. § (2) bekezdése a 8. § (3) bekezdése alapján 2020. november 1-jén lép hatályba.
-[^10]: A 6. § (4) bekezdése a 8. § (3) bekezdése alapján 2020. november 1-jén lép hatályba.
+[^16]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 6. § (2) bekezdése a 8. § (3) bekezdése alapján 2020. november 1-jén lép hatályba.
+[^18]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 6. § (4) bekezdése a 8. § (3) bekezdése alapján 2020. november 1-jén lép hatályba.
