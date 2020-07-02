@@ -1,3 +1,3 @@
-## 17. §[^16]
+## 17. §[^20]
 
-[^16]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
