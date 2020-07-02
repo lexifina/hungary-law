@@ -8,7 +8,7 @@ a) a Polgári Perrendtartásról szóló 1952. évi III. törvény 341. § c) po
 
 b) az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 5. § (2) bekezdés a) pontjában és (3) bekezdésében,
 
-c)[^24] a Tbj. 52. § (2) bekezdésében
+c)[^24] a Tbj. 2. melléklet 1. pontjában
 
 ## foglalt feladatok ellátására.
 
@@ -40,15 +40,19 @@ gb) 10. § (1) bekezdésében,
 
 h)[^27] a Tbj.
 
-ha) 4. § r) pont 3. alpontjában,
+ha) 45. § (6) és (7) bekezdésében,
 
-hb) 42. § (1) és (3) bekezdésében,
+hb) 49. §-ában,
 
-hc) 44. § (4) bekezdésében,
+hc) 59. § (3) bekezdésében,
 
-hd) 44/A. § (7) és (8) bekezdésében,
+hd) 60–61. §-ában,
 
-he) 54. § (2) bekezdés a) pontjában,
+he) 66. § (3) bekezdésében,
+
+hf) 67. § (8) és (9) bekezdésében,
+
+hg) 84. § (2) bekezdés a) pontjában,
 
 i) az Eütv. 147. § (2) bekezdésében
 
@@ -65,9 +69,9 @@ b) az Európai Egészségbiztosítási Kártya kibocsátásával
 kapcsolatos feladatok ellátására.
 
 [^23]: A 8. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^24]: A 8. § (3) bekezdés c) pontja a 155/2018. (IX. 3.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^24]: A 8. § (3) bekezdés c) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^25]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^26]: A 8. § (4) bekezdés e) pont ec) alpontja a 147/2019. (VI. 25.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^27]: A 8. § (4) bekezdés h) pont nyitó szövegrésze a 155/2018. (IX. 3.) Korm. rendelet 6. § d) pontjával megállapított szöveg.
+[^27]: A 8. § (4) bekezdés h) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^28]: A 8. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^29]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

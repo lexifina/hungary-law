@@ -106,7 +106,7 @@ dc) a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve
 
 dd) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
 
-de)[^19] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 44/C. § szerinti okirati bizonyítási eljárásokkal kapcsolatos feladatokat,
+de)[^19] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 69. §-a szerinti okirati bizonyítási eljárásokkal kapcsolatos feladatokat,
 
 e) az anyatej-elszámolások fogadásával, ellenőrzésével, feldolgozásával kapcsolatos feladatokat,
 
@@ -141,7 +141,7 @@ m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a h
 [^16]: A 7. § (3) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^17]: A 7. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^18]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^19]: A 7. § (5) bekezdés d) pont de) alpontja a 155/2018. (IX. 3.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^19]: A 7. § (5) bekezdés d) pont de) alpontja a 155/2018. (IX. 3.) Korm. rendelet 6. § b) pontja, a 316/2020. (VII. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^20]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^21]: A 7. § (6) bekezdése a 311/2017. (X. 31.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
 [^22]: A 7. § (7) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
