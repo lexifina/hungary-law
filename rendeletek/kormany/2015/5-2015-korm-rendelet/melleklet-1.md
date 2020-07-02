@@ -2,7 +2,7 @@
 
 1. melléklet az 5/2015. (I. 29.) Korm. rendelethez
 
-## Az előzetes szakhatósági hozzájárulás benyújtásához szükséges kérelem adattartalma
+## A szakkérdés vizsgálatához szükséges kérelem adattartalma[^12]
 
 1. A kérelmező
 
@@ -10,7 +10,9 @@ a) neve, címe;
 
 b) cégjegyzékszáma, vagy vállalkozói száma;
 
-c) eddigi beruházásai.
+c) eddigi beruházásai;
+
+d)[^13] vagy képviselőjének elektronikus elérhetősége.
 
 2. Az építeni, átalakítani, vagy bővíteni kívánt kereskedelmi építmény
 
@@ -64,7 +66,7 @@ c) a kereskedelmi építmény közlekedési kapcsolatai által érintett állami
 
 5. Közlekedési hatásvizsgálat az alábbi elemekre kiterjedően:
 
-a) a kereskedelmi építmény közlekedési kapcsolataira vonatkozó műszaki tervek, a tervezett kapcsolatok forgalmi méretezése, közúti biztonsági hatásvizsgálat és közúti biztonsági audit;
+a)[^14]
 
 b) a kereskedelmi építmény üzemeltetése által várható térségi forgalomnövekedés (különös tekintettel a nehéz tehergépjármű forgalomra) modellezése, hatáselemzés;
 
@@ -74,13 +76,13 @@ d) a kereskedelmi építmény megközelíthetősége közösségi közlekedésse
 
 e) a kereskedelmi építmény gyalogos és kerékpáros megközelíthetőségének vizsgálata, járdák, kerékpárutak, kerékpártárolók kialakításának tervei;
 
-f) a közlekedési kapcsolatok által érintett állami és önkormányzati tulajdonú területeken megvalósítandó közvilágítás kiépítésére vonatkozó tervek, illetve a közvilágítás üzemeltetésére vonatkozó kötelezettségvállalási nyilatkozat;
+f)[^15]
 
-g) az 5000 m2 alapterületet meghaladó kereskedelmi építmények esetében a közlekedési hatásvizsgálatnak ki kell térnie a kereskedelmi építmény közlekedési kapcsolatainak megvalósításához tartozó értékelemzés bemutatására és részletes költség-haszon elemzésre;
+g)[^16]
 
-h) a közlekedési hatásvizsgálatnak ki kell terjednie a kereskedelmi építmény működésével kapcsolatos közúti forgalomból származó, a közutak műszaki állapotára, a közlekedésre gyakorolt hatására, és annak függvényében a közutak felújítására, illetve fejlesztésére;
+h)[^17]
 
-i) a kereskedelmi építmény esetében biztosítani kell a biztonságos gyalogos és a kerékpáros megközelíthetőséget, továbbá a környezetkímélő közösségi közlekedési eszközzel történő megközelítést is.
+i)[^18]
 
 6. Az Étv. 57/C. § (1) bekezdése szerinti kérelem részletes indokolása.
 
@@ -89,3 +91,11 @@ i) a kereskedelmi építmény esetében biztosítani kell a biztonságos gyalogo
 8. Kötelezettségvállalási nyilatkozat arról, hogy a kérelmező az építés és a létesítmény kereskedelmi célú hasznosítása során gondoskodik a kérelemben foglaltak érvényre juttatásáról.
 
 9. Cégszerű aláírás és dátum.
+
+[^12]: Az 1. melléklet címe a 315/2020. (VII. 1.) Korm. rendelet 6. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 1. pont d) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^14]: Az 1. melléklet 5. pont a) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^15]: Az 1. melléklet 5. pont f) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: Az 1. melléklet 5. pont g) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^17]: Az 1. melléklet 5. pont h) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: Az 1. melléklet 5. pont i) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
