@@ -1,1 +1,3 @@
-## 7. § A névváltoztatásért felelős anyakönyvi szerv a nem megváltoztatásáról, valamint az ennek következtében szükséges utónév módosításáról a nem megváltozását támogató egészségügyi szakvélemény beérkezését követő 8 napon belül értesíti a születést nyilvántartó anyakönyvvezetőt az anyakönyvben történő átvezetés érdekében. A nyilvántartó anyakönyvvezető a nem megváltozását a névváltoztatásért felelős anyakönyvi szerv alapiratnak minősülő értesítése és az egészségügyi szakvélemény hitelesített fénymásolata alapján jegyzi be az anyakönyvbe.
+## 7. §[^1]
+
+[^1]: A 7. §-t a 315/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdése hatályon kívül helyezte.
