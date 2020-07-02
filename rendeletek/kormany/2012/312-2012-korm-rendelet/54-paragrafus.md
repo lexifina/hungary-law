@@ -62,7 +62,7 @@ f)[^307] az Épkiv. 14. §-a szerinti nyilatkozat nem áll rendelkezésre, vagy 
 
 (7)[^309] Ha az építésügyi hatóság a (6) és (6a) bekezdés szerinti határidőben a használatbavételt nem tiltja meg, a használatbavételt hallgatással tudomásul veszi, és az építmény az eljárás megindulásától számított 15 nap elteltével használatba vehető.
 
-(7a)[^310] A használatbavétel (7) bekezdés szerinti tudomásulvételét a függő hatályú döntésre vonatkozó rendelkezések tekintetében a (6) és (6a) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
+(7a)[^310] A használatbavétel (7) bekezdés szerinti tudomásulvételét a (6) és (6a) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
 
 (7b)[^311] A használatbavétel tudomásulvétele nem akadálya annak, hogy azzal egyidejűleg az építésügyi hatóság határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezze az építtetőt.
 
@@ -110,7 +110,7 @@ b) azzal a hatósággal, amely az építési engedélyezési eljárásban részt
 [^307]: Az 54. § (6) bekezdés f) pontját a 441/2015. (XII. 28.) Korm. rendelet 179. § (16) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^308]: Az 54. § (6a) bekezdését a 306/2016. (X. 13.) korm. rendelet 13. §-a iktatta be.
 [^309]: Az 54. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (17) bekezdésével megállapított, a 306/2016. (X. 13.) korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^310]: Az 54. § (7a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 179. § (17) bekezdésével megállapított, a 306/2016. (X. 13.) korm. rendelet 14. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 39. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^310]: Az 54. § (7a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 179. § (17) bekezdésével megállapított, a 306/2016. (X. 13.) korm. rendelet 14. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 39. pontja, a 315/2020. (VII. 1.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^311]: Az 54. § (7b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 179. § (17) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^312]: Az 54. § (7c)–(7d) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 181. § 15. pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^313]: Az 54. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (18) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

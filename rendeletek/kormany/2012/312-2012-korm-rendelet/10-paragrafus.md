@@ -4,7 +4,7 @@
 
 (2)[^42]
 
-(3)[^43] Az eljáró hatóság – a 11. § (2) bekezdés kivételével – az ÉTDR-ben kiállított dokumentummal az ügyfél által megjelölt kapcsolattartási forma alkalmazásával értesíti az eljárás megindulásáról az építtetőt és a már ismert ügyfelet. Amennyiben az építésügyi hatóság függő hatályú döntést is hoz, az értesítést a döntésbe foglalja.
+(3)[^43] Az eljáró hatóság – a 11. § (2) bekezdés kivételével – az ÉTDR-ben kiállított dokumentummal az ügyfél által megjelölt kapcsolattartási forma alkalmazásával értesíti az eljárás megindulásáról az építtetőt és a már ismert ügyfelet.
 
 (4)[^44] A (3) bekezdés szerinti értesítés tartalmazza
 
@@ -57,7 +57,7 @@ b) a döntés kiadmányozását követő munkanapon a döntés rövid tartalma �
 c)[^49] a döntés véglegessé válását követően, az építtető értesítésével egyidejűleg a döntés véglegessé válásának napja.
 
 [^42]: A 10. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 10. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^43]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 13. § 13. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^43]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 413. § 11. pontja, a 315/2020. (VII. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^44]: A 10. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^45]: A 10. § (4) bekezdés i) pontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^46]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.

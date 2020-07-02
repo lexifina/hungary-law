@@ -20,7 +20,7 @@ a) az elutasításról határozatban dönt, vagy
 
 b)[^321] a szabálytalanságot – bírság kiszabásának mellőzésével – hallgatással tudomásul veszi.
 
-(5)[^322] A (4) bekezdés b) pontja szerinti tudomásulvételt a függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
+(5)[^322] A (4) bekezdés b) pontja szerinti tudomásulvételt a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
 
 (6)[^323] Az építésügyi hatóság az (1) és (4) bekezdésben foglalt tudomásulvételt az építtető, vagy ha az építtető személye nem ismert, a tulajdonos kérelmére írásba foglalja.
 
@@ -28,5 +28,5 @@ b)[^321] a szabálytalanságot – bírság kiszabásának mellőzésével – h
 [^319]: Az 55. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 181. § 16. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^320]: Az 55. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 180. § 12. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^321]: Az 55. § (4) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 10. pontja szerint módosított szöveg.
-[^322]: Az 55. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 179. § (20) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 413. § 40. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^322]: Az 55. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 179. § (20) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 413. § 40. pontja, a 315/2020. (VII. 1.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^323]: Az 55. § (6) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 27. §-a iktatta be.
