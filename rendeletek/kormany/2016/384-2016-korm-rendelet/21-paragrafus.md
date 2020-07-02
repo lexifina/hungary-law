@@ -34,7 +34,7 @@ f) az a személy, aki a telekalakításról a tulajdonossal írásban megállapo
 
 (4) Egyesített telekalakítási eljárás iránti kérelmet az – a (3) bekezdés szerinti kérelem benyújtására jogosult – nyújthat be, aki az ingatlan-nyilvántartásról szóló törvényben foglaltak szerint az ingatlan-nyilvántartási eljárás megindítására egyébként jogosult.
 
-(5)[^32] A telekalakítási eljárás megindítása iránti kérelemnek az Ákr.-ben meghatározottakon túl a következő adatokat kell tartalmaznia:
+(5)[^32] A telekalakítási eljárás megindítása iránti kérelemnek az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározottakon túl a következő adatokat kell tartalmaznia:
 
 a) természetes személy kérelmező esetén a természetes személyazonosító adatokat;
 
@@ -75,5 +75,5 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 (11)[^33] Több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási átvezetésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület(ek) nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többlet terület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént
 
 [^31]: A 21. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^32]: A 21. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 594. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 21. § (5) bekezdés nyitó szövegrésze a 315/2020. (VII. 1.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
 [^33]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be.

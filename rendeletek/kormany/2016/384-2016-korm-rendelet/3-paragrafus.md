@@ -12,7 +12,7 @@
 
 (4)[^6] Ha az eredeti okiratot a (2) és (3) bekezdés szerinti esetben ugyanazon a napon több kormányhivatalhoz is benyújtották, ezért a megelőzés alapján nem állapítható meg a döntés meghozatalára jogosult hatóság, az ügyfeleket hiánypótlás keretében közös nyilatkozattételre kell felhívni. A felhívást a kérelem szerint több ingatlannal érintett, ennek hiányában az a kormányhivatal bocsátja ki, amelyiknél a beadvány alacsonyabb iktatószámot kapott.
 
-(5)[^7] Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 43. §-a szerinti függő hatályú döntés meghozatalára az a kormányhivatal jogosult, amely a (4) bekezdés szerinti hiánypótlási felhívást kiadja.
+(5)[^7]
 
 (6)[^8] Az eljárás lefolytatására és a döntés meghozatalára a (2) és (3) bekezdés szerint jogosult kormányhivatal köteles a döntés meghozatala előtt valamennyi érintett kormányhivatal írásos véleményét kikérni a kérelem teljesíthetősége tekintetében. Az érintett kormányhivatal a megkeresésre 8 napon belül köteles válaszolni. Véleményeltérés esetén az eljárás lefolytatására jogosult kormányhivatal álláspontja az irányadó. A döntés meghozatalát követően a véleményeltérés okairól az érintett kormányhivatalokat tájékoztatni kell. Az egységes joggyakorlat kialakítása érdekében az eljáró kormányhivatal a döntés véglegessé válását követően tájékoztatja a minisztert a véleményeltérés okairól.
 
@@ -26,6 +26,6 @@
 [^4]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^5]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b)–d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^6]: A 3. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^7]: A 3. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 594. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^7]: A 3. § (5) bekezdését a 315/2020. (VII. 1.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^8]: A 3. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^9]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
