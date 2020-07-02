@@ -26,7 +26,7 @@ c) megállapítja, hogy az építési engedélytől és a hozzá tartozó enged�
 
 (6)[^44] Ha az építésügyi hatóság az (5) bekezdés szerinti határidőben a használatbavételt nem tiltja meg, a használatbavételt hallgatással tudomásul veszi, és az építmény az eljárás megindulásától számított 15 nap elteltével használatba vehető.
 
-(7)[^45] A használatbavétel (6) bekezdés szerinti tudomásulvétele az Ákr. szerinti függő hatályú döntésre vonatkozó rendelkezések tekintetében az (5) bekezdés szerinti határidőben meghozott érdemi döntésnek minősül.
+(7)[^45]
 
 (8)[^46] A használatbavétel tudomásulvétele nem akadálya annak, hogy azzal egyidejűleg az építésügyi hatóság határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezze az építtetőt.
 
@@ -55,7 +55,7 @@ b) azzal a hatósággal, amely az építési engedélyezési eljárásban részt
 [^42]: A 29. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 225. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^43]: A 29. § (5) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 224. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^44]: A 29. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 223. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^45]: A 29. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 223. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 485. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^45]: A 29. § (7) bekezdését a 315/2020. (VII. 1.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
 [^46]: A 29. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 223. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^47]: A 29. § (9)–(10) bekezdésé a 441/2015. (XII. 28.) Korm. rendelet 225. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^48]: A 29. § (13) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 485. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
