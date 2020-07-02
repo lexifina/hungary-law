@@ -66,7 +66,7 @@
 
 ## Határidő: az 5. pont szerinti forrás rendelkezésre állását követően azonnal
 
-## 8. felhívja a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető minisztert és az innovációért és technológiáért felelős minisztert, hogy a NIF Nemzeti Infrastruktúra Fejlesztési zártkörűen működő Részvénytársaság útján tegyék meg a szükséges intézkedéseket annak érdekében, hogy az 1. pont b), c) és d) alpontjára tekintettel valósuljon meg a Hungária körútnál létesítendő vasúti megállóhely építési engedélyeinek megszerzése, valamint a kiviteli tervek és tenderdokumentáció elkészítése az IKOP-2.1.0-15-2017-00044 azonosító számú, Budapest–Hatvan elővárosi célú fejlesztések című támogatási szerződés terhére.
+## 8.[^1] felhívja a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető minisztert és az innovációért és technológiáért felelős minisztert, hogy a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság és a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság konzorcium útján tegyék meg a szükséges intézkedéseket annak érdekében, hogy az 1. pont b), c) és d) alpontjára tekintettel valósuljon meg a Hungária körútnál létesítendő vasúti megállóhely építési engedélyeinek megszerzése, valamint a kiviteli tervek és tenderdokumentáció elkészítése az IKOP-2.1.0-15-2017-00044 azonosító számú, Budapest–Hatvan elővárosi célú fejlesztések című támogatási szerződés terhére.
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
@@ -153,3 +153,5 @@
 | Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 30 000 000 |  | 30 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 8. pont az 1360/2020. (VII. 1.) Korm. határozat 4. pontja szerint módosított szöveg.
