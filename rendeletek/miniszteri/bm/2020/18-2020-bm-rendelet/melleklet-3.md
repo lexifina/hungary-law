@@ -1,5 +1,3 @@
-## Az R2. 2. melléklet 4. pontja helyébe a következő pont lép:
+3. melléklet a 18/2020. (VI. 30.) BM rendelethez[^21]
 
-## „4. rendvédelmi technikumok”
-
-3. melléklet a 18/2020. (VI. 30.) BM rendelethez
+[^21]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
