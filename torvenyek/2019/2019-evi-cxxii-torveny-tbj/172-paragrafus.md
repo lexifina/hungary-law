@@ -1,5 +1,1 @@
-## „75. § [Felosztási rendelkezéssel nem rendezett befizetések elszámolása]
-
-## Az adóhatóságnál nyilvántartott adótartozással vagy köztartozással rendelkező adózó esetében az elektronikus fizetéseket és elszámolásokat biztosító alrendszer elszámolási számlájára átutalással teljesített, felosztási rendelkezéssel nem rendezett befizetéseket az adóhatóság először a természetes személy jövedelemadó előlegére, a levont jövedelemadóra, vagy a kifizető által a természetes személytől levont járulékra az esedékesség sorrendjében, azonos esedékesség esetén a tartozások arányában számolja el. Az ezt követően fennmaradó összeget először az egyéb, az állami adó- és vámhatóság által nyilvántartott tartozásokra kell elszámolni azok esedékességének sorrendjében, azonos esedékesség esetén a tartozások arányában. Az ezt követően fennmaradó összeget a köztartozás jogosultjainak kell átutalni a köztartozás erejéig, a tartozások arányában. Az ezt követően fennmaradó összegre a túlfizetésre vonatkozó szabályokat kell megfelelően alkalmazni.”
-
-172. § Az Art. 3. melléklete a 7. melléklet szerint módosul.
+### 172. §

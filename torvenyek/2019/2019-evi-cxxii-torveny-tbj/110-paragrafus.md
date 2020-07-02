@@ -1,3 +1,3 @@
 ## 36. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-110. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 37. § (4) bekezdés a) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. § (2) bekezdése alapján a Kormány rendeletében meghatározott, társadalombiztosítási feladatokat ellátó szervek” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti társadalombiztosítási feladatokat ellátó szervek” szöveg lép.
+### 110. §

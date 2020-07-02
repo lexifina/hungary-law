@@ -1,3 +1,3 @@
 ## 59. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény módosítása
 
-163. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 3. § (1) bekezdés a) pontjában a „nyugdíjjárulék-fizetési kötelezettség” szövegrész helyébe az „a 2020. július 1-jét megelőző időszakra nyugdíjjárulék, a 2020. július 1-jétől kezdődő időszakra társadalombiztosítási járulék vagy nyugdíjjárulék (a továbbiakban együtt: nyugdíjjárulék) fizetésének kötelezettsége” szöveg lép.
+### 163. §
