@@ -1,3 +1,3 @@
-16. §[^156]
+16. §[^157]
 
-[^156]: A 16. §-t a 293/2002. (XII. 27.) Korm. renedelet 26. § (4) bekezdésének b) pontja hatályon kívül helyezte.
+[^157]: A 16. §-t a 293/2002. (XII. 27.) Korm. renedelet 26. § (4) bekezdésének b) pontja hatályon kívül helyezte.

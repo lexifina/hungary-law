@@ -1,6 +1,6 @@
-## 48/E. §[^541] Ha a beteg a TEF program szerinti kezeléssorozatban részt venni a továbbiakban bármilyen oknál fogva nem tud, akkor a kezeléssorozat időarányos finanszírozási díját az ellátásszervező koordinátor a finanszírozó részére visszatéríti vagy azt a finanszírozó új beteg kezeléssorozatába beszámíthatja.
+## 48/E. §[^542] Ha a beteg a TEF program szerinti kezeléssorozatban részt venni a továbbiakban bármilyen oknál fogva nem tud, akkor a kezeléssorozat időarányos finanszírozási díját az ellátásszervező koordinátor a finanszírozó részére visszatéríti vagy azt a finanszírozó új beteg kezeléssorozatába beszámíthatja.
 
-48/F. §[^542] (1) Az ellátásszervező koordinátor a TEF program szerinti kezeléssorozatról az e rendeletben szabályozott módon, az adott ellátási formára előírt adattartalommal, „I” térítési kategóriában jelentést küld a finanszírozó számára.
+48/F. §[^543] (1) Az ellátásszervező koordinátor a TEF program szerinti kezeléssorozatról az e rendeletben szabályozott módon, az adott ellátási formára előírt adattartalommal, „I” térítési kategóriában jelentést küld a finanszírozó számára.
 
 (2) A finanszírozó az „I” térítési kategóriában jelentett fekvő- és járóbeteg-szakellátási esetekre a hatályos finanszírozási szabályok alapján az egészségbiztosítás által finanszírozott szolgáltatásokra járó finanszírozási díjak összegét az R.-ben meghatározott díjtételek alapján megállapítja.
 
@@ -10,5 +10,5 @@
 
 (5) Ha a TEF program során egyéb egészségügyi szolgáltató – ideértve azt az esetet is, ha az ellenőrzött gyógyszer-bevétel otthoni körülmények között háziorvos bevonásával történik – bevonása szükséges, az ellátásszervező koordinátor a jogszerűen igénybe vett és teljesített szolgáltatások díját a bevonásra került egészségügyi szolgáltató részére megfizeti.
 
-[^541]: A 48/E. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^542]: A 48/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^542]: A 48/E. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^543]: A 48/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.

@@ -66,8 +66,8 @@
 
 ## 5 Ha az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet alapján többletkapacitásként befogadásra került, és teljesülnek az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben a „Gyermek- és Ifjúsági Addiktológiai Rehabilitációs Intézet fekvőbeteg szakellátás 10–18 éves kor között” elnevezésű ellátásra előírt feltételek.
 
-8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^642]
+8/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^643]
 
 A nem pszichiátriai rehabilitációs minősítési kritériumok
 
-[^642]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított, a 259/2012. (IX. 14.) Korm. rendelet 5. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 27. § k) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § n) pontja szerint módosított szöveg.
+[^643]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított, a 259/2012. (IX. 14.) Korm. rendelet 5. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 27. § k) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § n) pontja szerint módosított szöveg.

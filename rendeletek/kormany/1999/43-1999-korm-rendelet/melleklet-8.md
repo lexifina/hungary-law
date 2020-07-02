@@ -1,3 +1,3 @@
-8. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^641]
+8. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^642]
 
-[^641]: A 8. számú melléklet a 205/2016. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^642]: A 8. számú melléklet a 205/2016. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

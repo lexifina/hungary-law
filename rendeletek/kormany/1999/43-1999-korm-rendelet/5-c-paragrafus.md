@@ -1,4 +1,4 @@
-5/C. §[^61] (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője minden hónap 5. munkanapjáig megküldi a finanszírozó részére a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató által az EESZT-ben rögzített, általa nyújtott előző havi ellátási eseményre vonatkozóan a 14. számú melléklet szerint definiáltak szerint az alábbi adatokat:
+5/C. §[^62] (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője minden hónap 5. munkanapjáig megküldi a finanszírozó részére a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató által az EESZT-ben rögzített, általa nyújtott előző havi ellátási eseményre vonatkozóan a 14. számú melléklet szerint definiáltak szerint az alábbi adatokat:
 
 a) az intézmény nevét,
 
@@ -14,4 +14,4 @@ e) az ellátó orvos kódját.
 
 (3) Ha a finanszírozó megállapítja, hogy a finanszírozásra jelentett ellátási esemény nem szerepel az EESZT-ben, úgy az ellátási eseményre vonatkozó finanszírozási díjat visszavonja.
 
-[^61]: Az 5/C. §-t a 154/2020. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^62]: Az 5/C. §-t a 154/2020. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
