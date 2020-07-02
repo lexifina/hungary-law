@@ -1,3 +1,3 @@
-## 2. § Az Országgyűlési Őrség szolgálati szabályzatáról szóló 84/2012. (XII. 28.) BM rendelet 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(3) Az országgyűlési őr meghatározott szolgálati feladat végrehajtása során észlelt vagy tudomására jutott kisebb súlyú jogsértő cselekmény esetén a meghatározott szolgálati feladatának teljesítését folytatja, azonban a szolgálati elöljárójának vagy a szolgálati elöljáró akadályoztatása esetén az ügyeletesnek jelentést tesz, aki köteles intézkedést kezdeményezni a feladatkörében érintett szervezetnél. Az általános rendőrségi feladatok ellátására létrehozott szerv intézkedését az ügyeletes az intézkedés helye szerint illetékes rendőri szerv tevékenység-irányítási központjának az értesítése útján köteles kezdeményezni.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
