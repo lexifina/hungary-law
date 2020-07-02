@@ -1,3 +1,3 @@
-2. melléklet a 13/2020. (II. 7.) Korm. rendelethez[^188]
+2. melléklet a 13/2020. (II. 7.) Korm. rendelethez[^189]
 
-[^188]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^189]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

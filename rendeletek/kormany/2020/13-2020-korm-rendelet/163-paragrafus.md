@@ -1,5 +1,5 @@
-## 162. §[^160]
+## 162. §[^161]
 
 ## 136. A nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések mestervizsga követelményeiről szóló 8/2013. (III. 6.) NGM rendelet hatályon kívül helyezése
 
-[^160]: A 162. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^161]: A 162. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
