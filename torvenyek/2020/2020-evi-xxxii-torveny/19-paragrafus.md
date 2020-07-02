@@ -1,3 +1,1 @@
-## „(1) A közlevéltárban őrzött, a keletkezés naptári évétől számított harminc éven túli levéltári anyagban – a 24. §-ban és a 25. §-ban foglalt kivételekkel –, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már nyilvánosságra hoztak, vagy amelynek tartalma az adatvédelmi jogszabályok rendelkezései alapján bárki számára kutatható, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.”
-
-19. § Az Ltv. 23. §-a helyébe a következő rendelkezés lép:
+### 19. §

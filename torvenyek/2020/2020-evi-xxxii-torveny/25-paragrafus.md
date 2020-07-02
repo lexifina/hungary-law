@@ -1,3 +1,1 @@
-## „(1) A nyilvános magánlevéltár köziratnak minősülő levéltári anyag kivételével bármilyen levéltári anyagot gyűjthet. A vallási közösség levéltára gyűjtheti a vallási közösség által fenntartott intézmény köziratnak minősülő levéltári anyagát is, ha a levéltár fenntartója az anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi, továbbá az általa őrzött köziratok esetében az egyedi adatokról a 27. §-ban foglaltaknak megfelelően tájékoztatást nyújt.”
-
-25. § Az Ltv. Nyilvános magánlevéltár alcíme a következő 31/A. §-sal egészül ki:
+### 25. §
