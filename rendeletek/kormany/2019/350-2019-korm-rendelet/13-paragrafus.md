@@ -1,4 +1,4 @@
-## 12. §[^11]
+## 12. §[^13]
 
 ## 9. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 7. és a 9. § 2020. január 2-án lép hatályba.
 
-[^11]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
