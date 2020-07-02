@@ -1,3 +1,3 @@
-## 1. § A közlevéltárak és a nyilvános magánlevéltárak tevékenységével összefüggő szakmai követelményekről szóló 27/2015. (V. 27.) EMMI rendelet (a továbbiakban: R.) 9. §-a a következő (6) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(6) Ha a selejtezést az iratokban rendkívüli esemény következtében bekövetkezett helyrehozhatatlan károsodás miatt a levéltár rendelte el, a selejtezési jegykönyvben fel kell tüntetni a kényszerselejtezés pontos okát, a károsodást előidéző esemény leírását. Ha a levéltár meggyőződött az iratok kényszerselejtezésének indokoltságáról, a jegyzőkönyvet a következő záradékkal látja el: „A jegyzőkönyv szerinti iratok károsodás miatti kényszerselejtezését megalapozottnak értékelem, azok megsemmisíthetők. Dátum, aláírás.””
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
