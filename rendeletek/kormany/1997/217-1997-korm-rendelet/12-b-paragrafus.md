@@ -6,7 +6,7 @@
 
 (3)[^344] A NEAK az egészségügyi szolgáltatók részére az ellenőrzés lehetőségét időbeli korlátozás nélkül biztosítja.
 
-(4)[^345] Ha a jogosultsági ellenőrzésnek alávetett személynek az ellenőrzés eredménye alapján a NEAK nyilvántartása szerint érvényes a TAJ-a, azonban rendezetlen a jogviszonya, akkor az ellenőrzést végző szolgáltató a NEAK honlapjáról letölthető értesítést átadja az érintett személynek.
+(4)[^345] Ha a jogosultsági ellenőrzésnek alávetett személynek az ellenőrzés eredménye alapján a NEAK nyilvántartása szerint érvényes a TAJ-a, azonban rendezetlen a jogviszonya, illetve a Tbj. 46. § (2) bekezdése alapján érvénytelen a TAJ-a, akkor az ellenőrzést végző szolgáltató a NEAK honlapjáról letölthető értesítést átadja az érintett személynek.
 
 (5) A (4) bekezdésben meghatározott értesítés tartalmazza
 
@@ -22,7 +22,11 @@ d)[^348] az arra vonatkozó információt, hogy bővebb tájékoztatás a NEAK h
 
 (7) Kúraszerű ellátás esetén az ellátást – ideértve a dialízis kezelést is – végző szolgáltatónak – a kúra teljes ideje alatt – havonta egy alkalommal, a kezelés megkezdése előtt ellenőriznie kell az (1) bekezdés szerint az ellátott személy jogosultságát.
 
-(8)[^350] Az ellenőrzés eredménye az egészségügyi szolgáltatás biztosításának kötelezettségét nem érinti az érvényes TAJ-jal rendelkező személyek esetében.
+(8)[^350] Az ellenőrzés eredménye nem érinti
+
+a) az egészségügyi szolgáltatás biztosításának kötelezettségét az érvényes TAJ-jal rendelkező személyek esetében, valamint
+
+b) az egészségügyről szóló 1997. évi CLIV. törvény 3. § i) pontja szerinti sürgős szükség esetén nyújtott ellátás és mentés biztosításának kötelezettségét a Tbj. 46. § (2) bekezdése alapján érvénytelen TAJ-jal rendelkező személyek esetében.
 
 (9)[^351] A jogosultság-ellenőrzési rendszer jogosultsági ellenőrzés elvégzését nem engedő, az egészségügyi szolgáltató tevékenységére vagy mulasztására vissza nem vezethető hibája esetén az ellenőrzés elmulasztásához kapcsolódó, külön jogszabályban meghatározott finanszírozási jogkövetkezmények nem érvényesíthetők, amennyiben a jogviszony-ellenőrzés elmaradása az egészségügyi szolgáltató által bizonyítható módon a hiba időtartamára esett.
 
@@ -51,12 +55,12 @@ az egészségügyi szolgáltató a betegforgalom számára nyitva álló helyis�
 [^342]: A Vhr. 12/B. § (1a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^343]: A Vhr. 12/B. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 128. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^344]: A Vhr. 12/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
-[^345]: A Vhr. 12/B. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^345]: A Vhr. 12/B. § (4) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^346]: A Vhr. 12/B. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés g) pontja szerint módosított szöveg.
 [^347]: A Vhr. 12/B. §-a (5) bekezdésének b) pontja a 366/2010. (XII. 30.) Korm. rendelet 14. § 25. pontja, a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés m) pontja szerint módosított szöveg.
 [^348]: A Vhr. 12/B. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^349]: A Vhr. 12/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^350]: A Vhr. 12/B. § (8) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^350]: A Vhr. 12/B. § (8) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^351]: A Vhr. 12/B. § (9) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés i) pontja szerint módosított szöveg.
 [^352]: A Vhr. 12/B. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
 [^353]: A Vhr. 12/B. §-ának (11) bekezdését a 151/2008. (V. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés h) pontja szerint módosított szöveg.

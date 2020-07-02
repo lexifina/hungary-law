@@ -61,3 +61,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2020-01-01 | 1997-217-20-22.139 | 305/2019. (XII. 12.) Korm. rendelet |
 | 2020-02-15 | 1997-217-20-22.140 | 330/2005. (XII. 29.) Korm. rendelet |
 | 2020-03-01 | 1997-217-20-22.141 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-07-02 | 1997-217-20-22.142 | 316/2020. (VII. 1.) Korm. rendelet |
