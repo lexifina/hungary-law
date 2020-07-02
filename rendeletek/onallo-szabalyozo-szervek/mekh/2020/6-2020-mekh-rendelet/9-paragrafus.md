@@ -1,3 +1,3 @@
-## 8. § Az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontjainak, valamint az almérők alkalmazásával történő mérés minimális követelményeinek meghatározásáról szóló 1/2020. (I. 16.) MEKH rendelet (a továbbiakban: R3.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^5]
 
-## „(1) E rendelet alkalmazásában almérő a legalább negyedóránkénti mérésre alkalmas, a mérőeszközökre vonatkozó egyedi előírásokról szóló 43/2016. (XI. 23.) NGM rendelet szerint legalább B pontossági osztályba sorolt, a váltóáramú hatásos villamos energia mérésére szolgáló fogyasztásmérő, vagy fogyasztásmérő rendszer, amely alkalmas a mért értékek tárolására, vagy adatgyűjtő rendszerbe tárolás céljából történő továbbítására.”
+[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 11. §[^2]
+## 11. §[^6]
 
-[^2]: A 11. § a 14. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^6]: A 11. § a 14. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
