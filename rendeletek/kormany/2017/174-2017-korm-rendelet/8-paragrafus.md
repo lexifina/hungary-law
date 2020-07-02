@@ -1,6 +1,6 @@
-8. § (1)[^9] Az anyakönyvi szerv a Bölcsészettudományi Kutatóközpont megkeresését mellőzi, ha az utónévjegyzékbe felvenni kért utónevet a benyújtástól számított fél éven belül már kérelmezték, és a Bölcsészettudományi Kutatóközpont az utónévjegyzékbe történő felvételét nem támogatta.
+8. § (1)[^11] Az anyakönyvi szerv a Nyelvtudományi Intézet megkeresését mellőzi, ha az utónévjegyzékbe felvenni kért utónevet a benyújtástól számított fél éven belül már kérelmezték, és a Nyelvtudományi Intézet az utónévjegyzékbe történő felvételét nem támogatta.
 
-(2)[^10] Az anyakönyvi szerv a Bölcsészettudományi Kutatóközpont nyilatkozatáról és a kezdeményezés továbbításának mellőzéséről tájékoztatja az érintettet.
+(2)[^12] Az anyakönyvi szerv a Nyelvtudományi Intézet nyilatkozatáról és a kezdeményezés továbbításának mellőzéséről tájékoztatja az érintettet.
 
-[^9]: A 8. § (1) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^10]: A 8. § (2) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^11]: A 8. § (1) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-2. melléklet a 174/2017. (VI. 30.) Korm. rendelethez[^12]
+2. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
 
-## A Bölcsészettudományi Kutatóközpont utónév anyakönyvezhetőségére vonatkozó nyilatkozata iránti kérelem adattartalma
+## A Nyelvtudományi Intézet utónév anyakönyvezhetőségére vonatkozó nyilatkozata iránti kérelem adattartalma[^14]
 
 1. Kérelmező
 
@@ -8,7 +8,7 @@
 
 1.2. lakóhelye
 
-1.3. tartózkodási helye[^13]
+1.3. tartózkodási helye[^15]
 
 1.4. elektronikus levél (e-mail) címe*
 
@@ -26,5 +26,5 @@
 
 8. Kérelmező aláírása
 
-[^12]: A 2. melléklet címe a 345/2019. (XII. 23.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^13]: * Nem kötelező megadni.
+[^14]: A 2. melléklet címe a 315/2020. (VII. 1.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^15]: * Nem kötelező megadni.
