@@ -1,5 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. melléklet a 284/2020. (VI. 17.) Korm. rendelethez[^58]
+1. melléklet a 284/2020. (VI. 17.) Korm. rendelethez[^59]
 
-[^58]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
