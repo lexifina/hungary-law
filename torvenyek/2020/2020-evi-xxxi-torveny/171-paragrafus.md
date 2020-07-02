@@ -1,9 +1,1 @@
-171. § (1) A Hszt. 276. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) A rendőrség 318. § szerinti állománya, valamint titkos információgyűjtést végrehajtó vagy leplezett eszközt alkalmazó állománya vonatkozásában az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 26. § (2) bekezdésében meghatározott adatok, valamint a (2) bekezdésben foglalt adatok a keletkezésüktől kezdődően a szolgálati viszony megszűnését követő harminc évig a bűncselekmények üldözéséhez fűződő érdekből nem minősülnek nyilvánosnak. Ezen adatok megismerését a bűncselekmények üldözéséhez fűződő érdek mérlegelésével a miniszter engedélyezheti.
-
-(3b) A Nemzeti Adó- és Vámhivatal titkos információgyűjtést végrehajtó vagy leplezett eszközt alkalmazó állománya vonatkozásában az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 26. § (2) bekezdésében meghatározott adatok, valamint a (2) bekezdésben foglalt adatok a keletkezésüktől kezdődően a szolgálati viszony megszűnését követő harminc évig a bűncselekmények üldözéséhez fűződő érdekből nem minősülnek nyilvánosnak. Ezen adatok megismerését a bűncselekmények üldözéséhez fűződő érdek mérlegelésével a miniszter engedélyezheti.”
-
-(2) A Hszt. 276. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (3), (3a) vagy (3b) bekezdés szerinti adat megismerésére irányuló igény – az ott meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a polgári nemzetbiztonsági szolgálat, a rendőrség, illetve a Nemzeti Adó- és Vámhivatal törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a (3) bekezdés esetén a nemzetbiztonsági, a (3a) vagy (3b) bekezdés esetén a bűncselekmények üldözéséhez fűződő érdekeket nem veszélyezteti.”
+171. §
