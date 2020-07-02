@@ -1,125 +1,169 @@
 ## 24. § A Korm. rendelet
 
-1. 25. § (6) bekezdésében a „közepén Magyarország” szövegrész helyébe a „közepén állami szakképző intézmény esetén Magyarország” szöveg,
+1.[^24]
 
-2. 57. § (2) bekezdésében az „esetén a legjellemzőbb szakképzési alapfeladatra, többcélú” szövegrész helyébe az „ , illetve többcélú” szöveg és az „esetében pedig kizárólag a többcélú szakképző intézményi jellegre” szövegrész helyébe az „esetén a legjellemzőbb szakképzési alapfeladatra, illetve köznevelési alapfeladatra” szöveg,
+2.[^25]
 
-3. 60. § nyitó szövegrészében a „vételhez” szövegrész helyébe a „vételi kérelemhez” szöveg,
+3.[^26]
 
-4. 61. § (1) bekezdés b) pont bb) alpontjában az „államháztartási szakágazati besorolását és a további tevékenységi körök” szövegrész helyébe az „és további tevékenységi köreinek” szöveg,
+4.[^27]
 
-5. 61. § (3) bekezdés b) pont ba) alpontjában az „ , az alaptevékenység államháztartási szakágazati besorolását és a további tevékenységi körök” szövegrész helyébe az „és” szöveg,
+5.[^28]
 
-6. 70. §-ában az „alatt átalakítást” szövegrész helyébe az „alatt az átalakítást” szöveg,
+6.[^29]
 
-7. 73. § a) pont ac) alpontjában a „rendelkező intézmény esetében adószámát,” szövegrész helyébe a „rendelkező szakképző intézmény esetében adószámát és pénzforgalmi számlaszámát,” szöveg,
+7.[^30]
 
-8. 74. § (1) bekezdésében a „kezdeményezi a” szövegrész helyébe a „kezdeményezi az újonnan létrejövő” szöveg,
+8.[^31]
 
-9. 79. §-ában az „Az” szövegrész helyébe a „Ha e rendelet eltérően nem rendelkezik, az” szöveg,
+9.[^32]
 
-10. 80. § (2) bekezdésében a „jogokat” szövegrész helyébe a „jogkört” szöveg,
+10.[^33]
 
-11. 80. § (3) bekezdésében a „jogok” szövegrész helyébe a „jogkör” szöveg,
+11.[^34]
 
-12. 82. § (2) bekezdésében a „jogokat” szövegrész helyébe a „jogkört” szöveg,
+12.[^35]
 
-13. 85. §-ában az „érintettsége” szövegrész helyébe az „érintettsége, illetve a kancellári tisztség betöltetlensége” szöveg,
+13.[^36]
 
-14. 91. §-ában az „a szakképzésért felelős miniszter és a” szövegrész helyébe a „szakképzésért felelős miniszter és” szöveg,
+14.[^37]
 
-15. 94. § (1) bekezdés e) pontjában a „jogokat” szövegrész helyébe a „jogkört” szöveg,
+15.[^38]
 
-16. 95. § (1) bekezdés 6. pontjában az „akadályoztatása” szövegrész helyébe az „akadályoztatása, érintettsége, illetve az igazgatói és az igazgatóhelyettesi tisztség betöltetlensége” szöveg,
+16.[^39]
 
-17. 95. § (2) bekezdés 7. pontjában a „jogok gyakorlásának” szövegrész helyébe a „jogkörgyakorlás” szöveg,
+17.[^40]
 
-18. 124. § (1) bekezdés 2. pontjában a „gyakorolja a munkáltatói jogokat” szövegrész helyébe a „munkáltatói jogkört gyakorol” szöveg,
+18.[^41]
 
-19. 130. § nyitó szövegrészében a „jogokat” szövegrész helyébe a „jogkört” szöveg,
+19.[^42]
 
-20. 132. §-ában a „jogokat” szövegrész helyébe a „jogkört” szöveg,
+20.[^43]
 
-21. 135. § (1) bekezdés nyitó szövegrészében a „tanévre” szövegrész helyébe a „tanítási évre” szöveg,
+21.[^44]
 
-22. 135. § (1) bekezdés a) pontjában az „elrendelhető kötelező foglalkozások,” szövegrész helyébe az „a foglalkozások és” szöveg,
+22.[^45]
 
-23. 135. § (1) bekezdés b) pontjában az „összefüggő” szövegrész helyébe az „összefüggésben elrendelhető” szöveg,
+23.[^46]
 
-24. 174. § (1) bekezdésében a „támogatás folyósításáról” szövegrész helyébe a „támogatás tanuló részére történő folyósításáról” szöveg,
+24.[^47]
 
-25.[^3]
+25.[^48]
 
-26. 174. § (2) bekezdésében az „ösztöndíjat és a támogatást” szövegrész helyébe az „ösztöndíjra és a támogatásra való jogosultságot a tárgyhónap tizenötödik napján a regisztrációs és tanulmányi rendszer alapján kell megállapítani és azt” szöveg,
+26.[^49]
 
-27. 175. §-ában a „támogatásra” szövegrész helyébe a „hozzájárulásra” szöveg, a „szerinti támogatás” szövegrész helyébe a „szerinti hozzájárulás” szöveg és az „A támogatás” szövegrész helyébe az „A hozzájárulás” szöveg,
+27.[^50]
 
-28. 256. § (1) bekezdésében az „elégtelen” szövegrész helyébe a „sikertelen” szöveg,
+28.[^51]
 
-29. 256. § (2) bekezdésében az „elégtelen” szövegrészek helyébe a „sikertelen” szöveg,
+29.[^52]
 
-30. 295. § (1) bekezdésében a „(4)” szövegrész helyébe az „(5)” szöveg,
+30.[^53]
 
-31. 302. § (1) bekezdés záró szövegrészében az „a közismereti” szövegrész helyébe a „közismereti” szöveg,
+31.[^54]
 
-32.[^4]
+32.[^55]
 
-33. 306. § (3) bekezdésében a „jogokat” szövegrészek helyébe a „jogkört” szöveg,
+33.[^56]
 
-34. 307. § (1) bekezdésében a „működtetéséért” szövegrész helyébe a „működéséért” szöveg,
+34.[^57]
 
-35. 313. § (1) bekezdésében a „felén” szövegrész helyébe a „kétötödén” szöveg,
+35.[^58]
 
-36.[^5]
+36.[^59]
 
-37. 335. § 2. pont a) alpontjában az „intézmény központi” szövegrész helyébe az „intézmény és a szakképzési államigazgatási szerv központi” szöveg,
+37.[^60]
 
-38. 335. § 2. pont b) alpontjában az „intézmények és” szövegrész helyébe az „intézmény,” szöveg és a „Hivatal beruházási” szövegrész helyébe a „Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság beruházási” szöveg,
+38.[^61]
 
-39. 335. § 2. pont c) alpontjában a „Hivatal szakképzéssel” szövegrész helyébe a „Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság szakképzéssel” szöveg,
+39.[^62]
 
-40.[^6]
+40.[^63]
 
-41. 336. § (5) bekezdésében az „a támogatói” szövegrész helyébe az „a támogatási szerződés megkötésének, illetve a támogatói” szöveg,
+41.[^64]
 
-42.[^7]
+42.[^65]
 
-43. 337. § (4) bekezdésében az „a támogatói” szövegrész helyébe az „a támogatási szerződés megkötésének, illetve a támogatói” szöveg,
+43.[^66]
 
-44. 337. § (5) bekezdésében az „alatt felnőttképzésért” szövegrész helyébe az „alatt a felnőttképzésért” szöveg,
+44.[^67]
 
-45.[^8]
+45.[^68]
 
-46. 338. § (1) bekezdés b) pont ba) alpontjában az „esedékességű kötelezettsége” szövegrész helyébe az „esedékességű és nem teljesített kötelezettsége” szöveg,
+46.[^69]
 
-47.[^9]
+47.[^70]
 
-48. 338. § (2) bekezdésében a „terhére nyújtott” szövegrész helyébe a „terhére a 335. § 1. pont b) és c) alpontja, 2. pont b)–d) és f) alpontja, valamint 2. és 3. pontja alapján nyújtott” szöveg és a „működési” szövegrész helyébe a „működtetési” szöveg,
+48.[^71]
 
-49.[^10]
+49.[^72]
 
-50.[^11]
+50.[^73]
 
-51.[^12]
+51.[^74]
 
-52.[^13]
+52.[^75]
 
-53. 341. §-ában az „alkalmazni.” szövegrész helyébe az „alkalmazni azzal, hogy köznevelési alapfeladat alatt a szakképzési alapfeladatot, köznevelési intézmény alatt a szakképző intézményt, pedagógus alatt az oktatót és a pedagógus munkakörben foglalkoztatott alkalmazottat, oktatásért felelős miniszter alatt a szakképzésért felelős minisztert, Oktatási Hivatal alatt a szakképzési államigazgatási szervezet, köznevelés információs rendszere alatt a szakképzés információs rendszerét kell érteni.” szöveg,
+53.[^76]
 
-54. 1. mellékletében foglalt táblázat F:13 mezőjében az „Ápoló” szövegrész helyébe az „Általános ápoló” szöveg,
+54.[^77]
 
-55. 1. mellékletében foglalt táblázat D:48 mezőjében a „08” szövegrész helyébe a „06” szöveg
+55.[^78]
 
 lép.
 
-[^3]: A 24. § 25. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^4]: A 24. § 32. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^5]: A 24. § 36. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^6]: A 24. § 40. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^7]: A 24. § 42. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^8]: A 24. § 45. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^9]: A 24. § 47. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^10]: A 24. § 49. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^11]: A 24. § 50. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^12]: A 24. § 51. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^13]: A 24. § 52. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^24]: A 24. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 24. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 24. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 24. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 24. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 24. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 24. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 24. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 24. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 24. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 24. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 24. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 24. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 24. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 24. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 24. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 24. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 24. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 24. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 24. § 20. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 24. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 24. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 24. § 23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 24. § 24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 24. § 25. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^49]: A 24. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 24. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 24. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 24. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 24. § 30. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 24. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 24. § 32. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^56]: A 24. § 33. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 24. § 34. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 24. § 35. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 24. § 36. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^60]: A 24. § 37. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 24. § 38. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 24. § 39. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 24. § 40. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^64]: A 24. § 41. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: A 24. § 42. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^66]: A 24. § 43. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 24. § 44. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 24. § 45. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^69]: A 24. § 46. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 24. § 47. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^71]: A 24. § 48. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 24. § 49. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^73]: A 24. § 50. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^74]: A 24. § 51. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^75]: A 24. § 52. pontja a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^76]: A 24. § 53. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 24. § 54. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 24. § 55. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „(3) A szakképző intézmény által ellátott felnőttképzési tevékenységhez kapcsolódóan az Fktv.-ben előírt adatszolgáltatási kötelezettséget a felnőttképzés adatszolgáltatási rendszerébe a szakképzés információs rendszeréből elektronikus adatkapcsolaton keresztül történő adatátadással kell teljesíteni.
+20. §[^20]
 
-## (4) A szakképzés információs rendszerében tárolt valamennyi adat statisztikai célra vagy tudományos kutatás céljára feldolgozható, és arra személyazonosításra alkalmatlan módon átadható. Az adatkérés módját és költségét a szakképzési államigazgatási szerv határozza meg. A statisztikai céllal készült adatok a szakképzési államigazgatási szerv honlapján megjeleníthetők.”
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

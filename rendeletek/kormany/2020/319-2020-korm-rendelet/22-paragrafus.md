@@ -1,5 +1,3 @@
-## 21. § A Korm. rendelet 360. §-a a következő (3) és (4) bekezdéssel egészül ki:
+22. §[^22]
 
-## „(3) A szakképző intézmények nyilvántartásába vételi kérelemhez – ha a fenntartó az Szkt. hatálybalépésekor hatályos szakképzési megállapodással rendelkezik – a nem állami szakképző intézmény alapító okiratát és a szakképzési megállapodást kell csatolni. Az eljárásban a szakképzésért felelős miniszter Szkt. 22. § (4) bekezdése szerinti szakvéleményét megadottnak kell tekinteni az Szkt. hatálybalépésekor hatályos szakképzési megállapodással rendelkező fenntartó által a szakképzési megállapodással érintett köznevelési intézmény szakképző intézménnyé való átalakítása tekintetében. Az általános jogutóddal megszűnő köznevelési intézményt a szakképző intézmények nyilvántartásába a köznevelési intézmény meglévő OM azonosítójával kell felvenni.
-
-## (4) A 61. §-nak a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet módosításáról szóló 319/2020. (VII. 1.) Korm. rendelettel (a továbbiakban: MódR1.) történő módosítása nem érinti a MódR1. hatálybalépésekor már kiadott alapító okiratok érvényességét, azonban az alapító okiratot az annak a MódR1. hatálybalépését követő módosításánál e rendeletnek megfelelően módosítani kell.”
+[^22]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

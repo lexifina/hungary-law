@@ -1,1 +1,3 @@
-## „(2a) A szakképző intézmény – az olyan képzésben részt vevő személy kivételével, aki közfoglalkoztatási jogviszonyban áll vagy foglalkoztatást elősegítő képzésben vesz részt – dönthet úgy, hogy térítési díj ellenében biztosítja a képzésben részt vevő személy számára a szakmai oktatás, illetve a szakmai képzés során a képzésben részt vevő személy által felhasznált szakmai anyagokat. A térítési díj összegét a szakképző intézmény a képzésben részt vevő személy számára visszafizeti, ha a képzésben részt vevő személy szakmát vagy szakképesítést szerez, illetve annak megszerzése a képzésben részt vevő személy számára fel nem róható okból nem lehetséges.”
+3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

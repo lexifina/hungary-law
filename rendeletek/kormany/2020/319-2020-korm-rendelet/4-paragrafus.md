@@ -1,11 +1,3 @@
-## 3. § A Korm. rendelet 13. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+4. §[^4]
 
-## (A szakma azonosítására szolgáló alapadatokon kívül a programtanterv tartalmazza)
-
-## „b) az egyes tananyagegységek
-
-## ba) évfolyamonkénti ajánlott megoszlását,
-
-## bb) oktatójának képesítési követelményeit és
-
-## bc) alkalmazott képzési módszereit,”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

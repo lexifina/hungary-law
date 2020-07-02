@@ -1,3 +1,3 @@
-## 11. § A Korm. rendelet 48. alcíme a következő 123/A. §-sal egészül ki:
+12. §[^12]
 
-## „123/A. § A szakképzési centrum részeként működő szakképző intézményben az Szkt. 40. § (1) bekezdés e) pontja szerinti munkakör kizárólag a szakképzési centrum központi szervezeti egységében hozható létre.”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 4. § A Korm. rendelet 61. §-a a következő (4) bekezdéssel egészül ki:
+5. §[^5]
 
-## „(4) A többcélú szakképző intézmény alapító okiratában a szakképzési alapfeladat mellett fel kell tüntetni az általa ellátott köznevelési alapfeladat jogszabály szerinti megjelölését is.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
