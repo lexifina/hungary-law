@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-67-00-00
 | 2020-01-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-67-00-00.11 |
 | 2020-01-18 | 2010. évi CXXX. törvény | 2019-67-00-00.12 |
 | 2020-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-67-00-00.13 |
+| 2020-07-02 | 2010. évi CXXX. törvény | 2019-67-00-00.14 |
