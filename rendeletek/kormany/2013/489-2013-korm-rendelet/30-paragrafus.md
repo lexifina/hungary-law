@@ -1,3 +1,5 @@
+## kell alkalmazni.
+
 ## 10. Záró rendelkezések
 
 30. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivételekkel – 2014. január 1-jén lép hatályba.

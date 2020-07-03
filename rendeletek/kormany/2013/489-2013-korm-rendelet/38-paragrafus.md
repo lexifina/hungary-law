@@ -1,4 +1,4 @@
-38. §[^73] (1) A Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv3.) 41. § (1) bekezdés a) pontja, valamint 2. melléklet III. pont 3. alpont a) pontja alapján bölcsőde, mini bölcsőde támogatása jogcímen 2020. április 1-jén vagy azt követően támogatásban részesülő fenntartót – ha a támogatás biztosításának Kvtv3. szerinti egyéb feltételei az e szakasz szerinti támogatás folyósításának időpontjában is fennállnak – a bölcsőde, mini bölcsőde támogatása jogcímen finanszírozott létszámként figyelembe vett
+38. §[^74] (1)[^75] A Kvtv3. 41. § (1) bekezdés a) pontja, valamint 2. melléklet III. pont 3. alpont a) pontja alapján bölcsőde, mini bölcsőde támogatása jogcímen 2020. április 1-jén vagy azt követően támogatásban részesülő fenntartót – ha a támogatás biztosításának Kvtv3. szerinti egyéb feltételei az e szakasz szerinti támogatás folyósításának időpontjában is fennállnak – a bölcsőde, mini bölcsőde támogatása jogcímen finanszírozott létszámként figyelembe vett
 
 a) felsőfokú végzettségű kisgyermeknevelők és szaktanácsadók után 66 000 forint/számított létszám/év,
 
@@ -24,4 +24,5 @@ b) 2020. július – 2020. december hónapokra havonta járó összegét havonta
 
 (7) A bölcsődei kiegészítő támogatás után a Kvtv3. 41. § (2) bekezdése szerinti támogatás nem vehető igénybe.
 
-[^73]: A 38. §-t az 55/2020. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A 38. §-t az 55/2020. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+[^75]: A 38. § (1) bekezdése a 309/2020. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
