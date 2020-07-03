@@ -8,7 +8,7 @@ Lezsák Sándor (Fidesz)
 
 dr. Latorcai János (KDNP)
 
-Sneider Tamás (Jobbik)
+dr. Brenner Koloman (Jobbik)[^2]
 
 dr. Hiller István (MSZP)
 
@@ -16,7 +16,7 @@ Törvényalkotásért felelős alelnök:
 
 Hende Csaba (Fidesz)
 
-Jegyző: dr. Vinnai Győző (Fidesz)[^2]
+Jegyző: dr. Vinnai Győző (Fidesz)[^3]
 
 Gelencsér Attila (Fidesz)
 
@@ -28,11 +28,11 @@ Földi László (KDNP)
 
 Móring József Attila (KDNP)
 
-dr. Aradszki András (KDNP)[^3]
+dr. Aradszki András (KDNP)[^4]
 
-dr. Gyüre Csaba (Jobbik)[^4]
+dr. Gyüre Csaba (Jobbik)[^5]
 
-dr. Steinmetz Ádám (Jobbik)[^5]
+dr. Steinmetz Ádám (Jobbik)[^6]
 
 Hiszékeny Dezső (MSZP)
 
@@ -46,10 +46,11 @@ Tordai Bence (Párbeszéd)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^6]
+3.[^7]
 
-[^2]: A 12/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^3]: A 20/2020. (VI. 30.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 23/2020. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 12/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 20/2020. (VI. 30.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 20/2020. (VI. 30.) OGY határozat 1. pontjával megállapított szöveg.
-[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 20/2020. (VI. 30.) OGY határozat 1. pontjával megállapított szöveg.
+[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

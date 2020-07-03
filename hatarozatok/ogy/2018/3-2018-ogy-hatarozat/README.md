@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-3-30-41
 | 2018-07-02 | 2018-3-30-41.4 | 12/2018. (VII. 3.) OGY határozat |
 | 2019-02-18 | 2018-3-30-41.5 | 3/2019. (II. 19.) OGY határozat |
 | 2020-06-29 | 2018-3-30-41.6 | 20/2020. (VI. 30.) OGY határozat |
+| 2020-07-03 | 2018-3-30-41.7 | 9/2022. (V. 2.) OGY határozat |
