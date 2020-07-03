@@ -2,14 +2,9 @@
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
+3.[^1]
 
-a) C:65e mezőjében a „NIF Zrt.” szövegrész helyébe a „NIF Zrt. és a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: BFK Nonprofit Zrt.) konzorciuma” szöveg,
+4.[^2]
 
-b) C:76a mezőjében a „KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.; konzorciumvezető)” szövegrész helyébe a „BFK Nonprofit Zrt. (konzorciumvezető)” szöveg,
-
-c) C:76b mezőjében a „KKBK” szövegrész helyébe a „BFK” szöveg
-
-lép.
-
-4. A kiemelt budapesti közösségi fejlesztések keretében az egykori Józsefvárosi pályaudvar és az egykori MÁV Északi Járműjavító területén megvalósítandó közcélú beruházások közlekedési kiszolgálásának egyes elemeiről szóló 1359/2019. (VI. 19.) Korm. határozat 8. pontjában a „NIF Nemzeti Infrastruktúra Fejlesztési zártkörűen működő Részvénytársaság útján” szövegrész helyébe a „NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság és a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság konzorcium útján” szöveg lép.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
