@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az 1. melléklet szerinti ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló, a Szarvasi-Holtág rugalmas vízpótlási lehetősége kiépítésének I. ütemével (a továbbiakban: Beruházás) összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
