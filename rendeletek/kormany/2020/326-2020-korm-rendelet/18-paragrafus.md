@@ -1,3 +1,3 @@
-## 17. §[^16]
+## 17. §[^17]
 
-[^16]: A 17. § a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^17]: A 17. § a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

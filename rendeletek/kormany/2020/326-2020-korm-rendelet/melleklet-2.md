@@ -1,3 +1,3 @@
-2. melléklet a 326/2020. (VII. 1.) Korm. rendelethez[^23]
+2. melléklet a 326/2020. (VII. 1.) Korm. rendelethez[^24]
 
-[^23]: A 2. melléklet a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^24]: A 2. melléklet a 22. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
