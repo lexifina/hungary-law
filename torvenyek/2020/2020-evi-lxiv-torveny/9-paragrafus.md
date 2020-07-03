@@ -2,4 +2,4 @@
 
 (2)
 
-(3) Hatályát veszti az Ept.
+(3)
