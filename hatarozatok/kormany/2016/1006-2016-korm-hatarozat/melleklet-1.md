@@ -32,13 +32,15 @@
 
 ## k)[^12] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1301/2020. (VI. 11.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 2a., 3a., 5., 18a., 19. és 25c. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
 
+## l)[^13] az ELI lézer kutatóközpont megvalósítása (ELI-ALPS) szakaszolt nagyprojekt 2. fázisának módosításáról szóló 1362/2020. (VII. 2.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 4. sora szerinti kiemelt projekt szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
+
 ## során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^13]
+## 3.[^14]
 
-1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^14]
+1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^15]
 
 ## A GINOP éves fejlesztési kerete
 
@@ -160,9 +162,9 @@
 
 | 12. | GINOP-2.3.4-15 | Felsőoktatási és Ipari Együttműködési Központ – kutatási infrastruktúra fejlesztése | 38,86 | standard | Meghirdetve 2015. decemberben |
 
-| 13. | GINOP-2.3.6-15 | ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt, 2. fázis | 42,249 | kiemelt | Meghirdetve 2015. márciusban |
+| 13. | GINOP-2.3.6-15 | ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt, 2. fázis | 48,459 | kiemelt | Meghirdetve 2015. márciusban |
 
-| 14. | GINOP-2.3.7-20 | Kiválóságot szolgáló kutatási infrastruktúrák kapacitás bővítése | 6,21 | kiemelt | 2020. június |
+| 14. |  |  |  |  |  |
 
 3. Az infokommunikációs fejlesztésekről szóló 3. prioritás
 
@@ -432,5 +434,6 @@
 [^10]: Az 1/A. § i) pontját az 1684/2019. (XII. 5.) Korm. határozat 1. pontja iktatta be.
 [^11]: Az 1/A. pont j) alpontját az 1169/2020. (IV. 21.) Korm. határozat 2. pontja iktatta be.
 [^12]: Az 1/A. pont k) alpontját az 1301/2020. (VI. 11.) Korm. határozat 1. pontja iktatta be.
-[^13]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja szerint módosított szöveg.
+[^13]: Az 1/A. pont l) alpontját az 1362/2020. (VII. 2.) Korm. határozat 3. pontja iktatta be.
+[^14]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja szerint módosított szöveg.
