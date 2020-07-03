@@ -1,0 +1,7 @@
+3. § (1) A 2. § alapján a Vhr. 37/C. §-a szerint számított kiegészítő támogatásokat a fenntartó részére a Vhr. 37/J. § (1) bekezdésének megfelelően 2020. augusztus 1. napjától – a 2020. július–augusztus havi kiegészítő támogatást egy összegben augusztus hónapban – az átlagbéralapú támogatással együtt havonta kell folyósítani.
+
+(2) A (1) bekezdés szerint folyósított támogatás és a Vhr. 37/C. § (4) és (5) bekezdése szerinti pótigény vagy a lemondás alapján módosított támogatás – a módosítás alapján történő folyósítás idejét megelőző hónapokra számított – különbözetének rendezése a Kvtv. 7. melléklet V. Kiegészítő szabályok címében és a Vhr. 37/J. § (5) bekezdésében foglaltak szerint történik.
+
+(3) Ha e rendelet másként nem rendelkezik, a kiegészítő támogatás folyósítására, elszámolására, ellenőrzésére és visszafizetésére a Vhr. szabályait, valamint a jogosultság alapjául szolgáló támogatásra vonatkozó, a Kvtv. 2. melléklet II. pont 1. és 4. alpontjában és III. pont 5. alpont a) pont aa) alpontjában, 7. melléklet I. pont 4. alpont a), b) és d) pontjában, III. pont 4. alpontjában, valamint a 7. melléklet V. Kiegészítő szabályok címében az átlagbéralapú támogatásra vonatkozóan meghatározott szabályokat kell alkalmazni.
+
+(4) A 2020. július–augusztus havi kiegészítő támogatás folyósításához szükséges Vhr. 37/E. § (2) bekezdés b) pontja szerinti pótigényt a Kincstár 2020. július 24-éig nyújtja be.
