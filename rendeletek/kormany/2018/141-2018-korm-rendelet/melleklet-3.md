@@ -96,7 +96,9 @@
 
 | 46. | Járműipari K+F kompetenciaközpont létesítésére irányuló beruházás Érd belterületén | Érd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 26246/7 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^92]
+| 47. | Telephely bővítésére és fejlesztésére irányuló beruházás Maklár belterületén | Maklár közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 1106 helyrajzi számú ingatlan | Heves Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^94]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -276,4 +278,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^92]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^94]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
