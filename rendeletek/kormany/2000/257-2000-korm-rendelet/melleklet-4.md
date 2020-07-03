@@ -16,7 +16,7 @@
 
 | a 2. számú melléklet és a 2/a. számú melléklet I. pontja szerinti bármely munkakör | amennyiben a munkáltató kötelezte a közalkalmazottat a további képesítés megszerzésére, és az – a 2/a. számú melléklet I. pontja szerinti munkakörök kivételével – nem biztosít magasabb fizetési osztályba sorolást; vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként a közalkalmazott kinevezésében (kinevezés-módosításában, átsorolásában) előírja |
 
-4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^110]
+4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^111]
 
 ## A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
@@ -52,4 +52,4 @@ II. Vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 III.
 
-[^110]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése, a 116/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdés f) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 1. § j) pontja szerint módosított szöveg.
+[^111]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése, a 116/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdés f) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 1. § j) pontja szerint módosított szöveg.
