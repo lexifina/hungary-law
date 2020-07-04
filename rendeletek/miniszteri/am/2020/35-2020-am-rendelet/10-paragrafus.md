@@ -1,0 +1,3 @@
+## 9. § A szőlő szaporítóanyagok előállításáról, minősítéséről és forgalomba hozataláról szóló 87/2006. (XII. 28.) FVM rendelet [a továbbiakban: 87/2006. (XII. 28.) FVM rendelet] 20. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) E rendelet a 66/401/EGK, a 66/402/EGK, a 68/193/EGK, a 2002/55/EK, a 2002/56/EK és a 2002/57/EK tanácsi irányelvnek, a 93/49/EGK és a 93/61/EGK bizottsági irányelvnek, valamint a 2014/21/EU és a 2014/98/EU végrehajtási irányelvnek a vetőmagok és egyéb növényi szaporítóanyagok károsítói tekintetében történő módosításáról szóló, 2020. február 11-i 2020/177/EU bizottsági végrehajtási irányelvnek való megfelelést szolgálja.”
