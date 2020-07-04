@@ -1,3 +1,5 @@
-1. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^40]
+## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^40]: Az 1. számú melléklet a 30/2018. (X. 11.) AM rendelet 4. §-ával megállapított szöveg.
+1. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^46]
+
+[^46]: Az 1. számú mellékletet a 35/2020. (VI. 29.) AM rendelet 15. § b) pontja hatályon kívül helyezte.
