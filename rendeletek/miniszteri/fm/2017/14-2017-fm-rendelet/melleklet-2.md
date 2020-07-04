@@ -1,189 +1,867 @@
-2. melléklet a 14/2017. (III. 23.) FM rendelethez
+2. melléklet a 14/2017. (III. 23.) FM rendelethez[^21]
 
-1. Azon károsítók jegyzéke, amelyektől a kiindulási anyagoknak, a prebázis, bázis és certifikált anyanövényeknek és szaporítóanyagoknak mentesnek kell lenniük, valamint C.A.C. ültetési anyagoknak gyakorlatilag mentesnek
+1. Azon vizsgálatköteles nemzárlati károsítók jegyzéke, amelyek jelenlététől a prebázis anyanövény, prebázis, bázis és certifikált (tanúsított) szaporítóanyagnak mentesnek, a C.A.C. ültetési anyagoknak gyakorlatilag mentesnek kell lenniük és erre vonatkozóan vizuális vizsgálatot, valamint – kétség esetén – mintavételt és tesztelést kell végezni
 
 |  | A | B |
 
-| 1. | Nemzetség vagy faj | Károsítók |
+| 1. | Nemzetség vagy faj | Vizsgálatköteles nemzárlati károsítók |
 
-| 2. | Castanea sativa Mill. | 2.1. Gombák 2.1.1. Mycosphaerella maculiformis 2.1.2. Phytophthora cambivora 2.1.3. Phytophthora cinnamomi |
+| 2. | Castanea sativa Mill. | 1. Gombák és oospórás gombák |
 
-| 3. | Citrus L., Fortunella Swingle, Poncirus Raf. | 3.1. Rovarok 3.1.1. Aleurotrixus floccosus 3.1.2. Parabemisia myricae 3.2. Fonálférgek 3.2.1. Pratylenchus vulnus 3.2.2. Tylenchus semi-penetrans 3.3. Gombák 3.3.1. Phytophthora citrophtora 3.3.2. Phytophthora parasitica |
+| 3. |  | 1.1. Cryphonectria parasitica (Murrill) Barr [ENDOPA] |
 
-| 4. | Corylus avellana L. | 4.1. Atkák 4.1.1. Phytoptus avellanae 4.2. Gombák 4.2.1. Armillariella mellea 4.2.2. Verticillium dahliae 4.2.3. Verticillium albo-atrum 4.3. Baktériumok 4.3.1.Xanthomonas arboricola pv. corylina 4.3.2. Pseudomonas avellanae |
+| 4. |  | 1.2. Mycosphaerella punctiformis Verkley & U. Braun [RAMUEN] |
 
-| 5. | Cydonia oblonga Mill., Malus Mill. és Pyrus L. | 5.1. Rovarok 5.1.1. Eriosoma lanigerum 5.1.2. Psylla spp. 5.2. Fonálférgek 5.2.1. Meloidogyne hapla 5.2.2. Meloidogyne javanica 5.2.3. Pratylenchus penetrans 5.2.4. Pratylenchus vulnus 5.3. Gombák 5.3.1. Armillariella mellea 5.3.2. Chondrostereum purpureum 5.3.3. Glomerella cingulata 5.3.4. Pezicula alba 5.3.5. Pezicula malicorticis 5.3.6. Nectria galligena 5.3.7. Phytophthora cactorum 5.3.8. Roessleria pallida 5.3.9. Verticillium dahliae 5.3.10. Verticillium albo-atrum 5.4. Baktériumok 5.4.1. Agrobacterium tumefaciens 5.1.2.Pseudomonas syringae pv. syringae 5.5. Vírusok 5.5.1. A 2. melléklet 3. pontjában felsoroltakon kívüli vírusok |
+| 5. |  | 1.3. Phytophthora cambivora (Petri) Buisman [PHYTCM] |
 
-| 6. | Ficus carica L. | 6.1. Rovarok 6.1.1. Ceroplastes rusci 6.2. Fonálférgek 6.2.1. Heterodera fici 6.2.2. Meloidogyne arenaria 6.2.3. Meloidogyne incognita 6.2.4. Meloidogyne javanica 6.2.5. Pratylenchus penetrans 6.2.6. Pratylenchus vulnus 6.3. Gombák 6.3.1. Armillaria mellea 6.4. Baktériumok 6.4.1. Phytomonas fici 6.5. Vírusszerű betegségek 6.5.1. Füge mozaik betegség |
+| 6. |  | 1.4. Phytophthora cinnamomi Rands [PHYTCN] |
 
-| 7. | Juglans regia L. | 7.1. Rovarok 7.1.1. Epidiaspis leperii 7.1.2. Pseudaulacaspis pentagona 7.1.3. Quadraspidiotus perniciosus 7.2. Gombák 7.2.1. Armillariella mellea 7.2.2. Nectria galligena 7.2.3. Chondrostereum purpureum 7.2.4. Phytophthora cactorum 7.3. Baktériumok 7.3.1. Agrobacterium tumefaciens 7.3.2.Xanthomonas arboricola pv. juglandis |
+| 7. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
-| 8. | Olea europaea L. | 8.1. Fonálférgek 8.1.1. Meloidogyne arenaria 8.1.2. Meloidogyne incognita 8.1.3. Meloidogyne javanica 8.1.4. Pratylenchus vulnus 8.2. Baktériumok 8.2.1.Pseudomonas savastanoi pv. savastanoi 8.3. Vírusszerű betegségek 8.3.1. Olajfa levélsárgulás komplex betegség 3 vírus okozza (Arabis mosaic virus, CLRV, RYNV) |
+| 8. |  | 2.1. Gesztenye mozaik ágens (Chestnut mosaic agent) |
 
-| 9. | Pistacia vera L. | 9.1. Fonálférgek 9.1.1. Pratylenchus penetrans 9.1.2. Pratylenchus vulnus 9.2. Gombák 9.2.1. Phytophthora cryptogea 9.2.2. Phytophthora cambivora 9.2.3. Rosellinia necatrix 9.2.4. Verticillium dahliae |
+| 9. | Citrus L, Fortumella Swingle, Poncirus Raf. | 1. Gombák és oospórás gombák |
 
-| 10. | Prunus amygdalus, P. armeniaca, P. domestica, P. persica és P. salicina | 10.1. Rovarok 10.1.1. Pseudaulacaspis pentagona 10.1.2. Quadraspidiotus perniciosus 10.2. Fonálférgek 10.2.1. Meloidogyne arenaria 10.2.2. Meloidogyne javanica 10.2.3. Meloidogyne incognita 10.2.4. Pratylenchus penetrans 10.2.5. Pratylenchus vulnus 10.3. Gombák 10.3.1. Phytophthora cactorum 10.3.2. Verticillium dahliae 10.3.3. Verticillium albo-atrum 10.4. Baktériumok 10.4.1. Agrobacterium tumefaciens 10.4.2.Pseudomonas syringae pv. morsprunorum 10.4.3.Pseudomonas syringae pv. syringae (P. armeniaca-n) 10.4.4. Pseudomonas viridiflava (P. armeniaca-n) |
+| 10. |  | 1.1. Phytophthora citrophthora (R.E. Smith & E.H. Smith) Leonian [PHYTCO] |
 
-| 11. | Prunus avium, P. cerasus | 11.1. Rovarok 11.1.1. Quadraspidiotus perniciosus 11.2. Fonálférgek 11.2.1. Meloidogyne arenaria 11.2.2. Meloidogyne javanica 11.2.3. Meloidogyne incognita 11.2.4. Pratylenchus penetrans 11.2.5. Pratylenchus vulnus 11.3. Gombák 11.3.1. Phytophthora cactorum 11.3.2. Verticillium dahliae 11.3.3. Verticillium albo-atrum 11.4. Baktériumok 11.4.1. Agrobacterium tumefaciens 11.4.2.Pseudomonas syringae pv. morsprunorum 11.4.3.Pseudomonas syringae pv. syringae 11.4.4. Pseudomonas viridiflava |
+| 11. |  | 1.2. Phytophthora nicotianae var. parasitka (Dastur) Waterhouse [PHYTNP] |
 
-| 12. | Ribes L. | 12.1. Rovarok és atkák 12.1.1. Dasyneura tetensi 12.1.2. Ditylenchus dipsaci 12.1.3. Pseudaulacaspis pentagona 12.1.4. Quadraspidiotus perniciosus 12.1.5. Tetranycus urticae 12.1.6. Cecidophyopsis ribis 12.2. Gombák 12.2.1. Sphaerotheca mors-uvae 12.2.2. Microsphaera grossulariae 12.2.3.Diaporthe strumella (Phomopsis ribicola) |
+| 12. |  | 2. Rovarok és atkák |
 
-| 13. | Rubus L. | 13.1. Gombák 13.1.1. Peronospora rubi |
+| 13. |  | 2.1. Aleurothrixus floccosus Maskell [ALTHFL] |
 
-2. Azon károsítók jegyzéke, amelyektől a kiindulási anyagoknak, a prebázis, bázis, certifikált anyanövényeknek és szaporítóanyagoknak, C.A.C. ültetési anyagoknak vizuális ellenőrzés alapján mentesnek vagy gyakorlatilag mentesnek kell lenniük, illetve amelyek jelenlétét a táblázat szerinti tűrésszintek szerint korlátozni kell
+| 14. |  | 2.2. Parabemisia myricae Kuwana [PRABMY] |
 
-|  | A | B | C | D |
+| 15. |  | 3. Fonálférgek |
 
-| 1. | Károsítók nemzetségek és fajok szerint | Tűrésszintek (%) |
+| 16. |  | 3.1. Pratylenchus vulnus Allén & Jensen [PRATVU] |
 
-| Prebázis | Bázis | Certifikált (tanúsított) |
+| 17. |  | 3.2. Tylenchulus semipenetrans Cobb [TYLESE] |
 
-| 2. | Fragaria L. |
+| 18. | Corylus avellana L. | 1. Baktériumok |
 
-| 2.1. | Rovarok és atkák |
+| 19. |  | 1.1. Pseudomonas avellanae Janse et al. [PSDMAL] |
 
-| 2.1.1. | Chaetosiphon fragaefoliae | 0 | 0,5 | 1 |
+| 20. |  | 1.2. Xanthomonas arborkola pv. Corylina (Miller, Bollen, Simmons, Gross & Barss) Vauterin, Hoste, Kersters & Swings [XANTCY] |
 
-| 2.1.2. | Phytonemus pallidus | 0 | 0 | 0,1 |
+| 21. |  | 2. Gombák és oospórás gombák |
 
-| 2.2. | Fonálférgek |
+| 22. |  | 2.1. Armillariella mellea (Vahl) Kummer [ARMIME] |
 
-| 2.2.1. | Aphelenchoides fragariae | 0 | 0 | 1 |
+| 23. |  | 2.2. Verticillium albo-atrum Reinke & Berthold [VERTAA] |
 
-| 2.2.2. | Ditylenchus dipsaci | 0 | 0,5 | 1 |
+| 24. |  | 2.3. Verticillium dahliae Kleb [VERTDA] |
 
-| 2.2.3. | Meloidogyne hapla | 0 | 0,5 | 1 |
+| 25. |  | 3. Rovarok és atkák |
 
-| 2.2.4. | Pratylenchus vulnus | 0 | 1 | 1 |
+| 26. |  | 3.1. Phytoptus avellanae Nalepa [ERPHAV] |
 
-| 2.3. | Gombák |
+| 27. | Cydonia oblonga Mill. és Pyrus L. | 1. Baktériumok |
 
-| 2.3.1. | Rhizoctonia fragariae | 0 | 0 | 1 |
+| 28. |  | 1.1. Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
 
-| 2.3.2. | Podosphaera aphanis (Wallroth) Braun & Takamatsu | 0 | 0,5 | 1 |
+| 29. |  | 1.2. Erwinia amylovora (Burrill) Winslow et al. [ERWIAM] |
 
-| 2.3.3. | Verticillium albo-atrum | 0 | 0,2 | 2 |
+| 30. |  | 1.3. Pseudomonas syringae pv. Syringae van Hall [PSDMSY] |
 
-| 2.3.4.. | Verticillium dahliae | 0 | 0,2 | 2 |
+| 31. |  | 2. Gombák és oospórás gombák |
 
-| 2.4. | Baktériumok |
+| 32. |  | 2.1. Armillariella mellea (Vahl) Kummer [ARMIME] |
 
-| 2.4.1. | Candidatus Phlomobacter fragariae | 0 | 0 | 1 |
+| 33. |  | 2.2. Chondrostereum purpureum Pouzar [STERPU] |
 
-| 2.5. | Vírusok |
+| 34. |  | 2.3. Glomerella cingulata (Stoneman) Spaulding & von Schrenk [GLOMCI] |
 
-| 2.5.1. | Szamóca foltosság vírus (SMoV) | 0 | 0,1 | 2 |
+| 35. |  | 2.4. Neofabraea alba Desmaziéres [PEZIAL] |
 
-| 2.6. | Fitoplazmás betegségek | 0 | 0 | 1 |
+| 36. |  | 2.5. Neofabraea malicorticis Jackson [PEZIMA] |
 
-| 2.6.1. | Őszirózsa sárgaság fitoplazma | 0 | 0,2 | 1 |
+| 37. |  | 2.6. Neoneária ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA] |
 
-| 2.6.2. | Szamóca hajtás-burjánzás fitoplazma (multiplier disease) | 0 | 0,1 | 0,5 |
+| 38. |  | 2.7. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
 
-| 2.6.3. | Szamóca stolbur fitoplazma okozta pusztulás | 0 | 0,2 | 1 |
+| 39. |  | 2.8. Sclerophora pallida Yao & Spooner [SKLPPA] |
 
-| 2.6.4. | Szamóca zöld virágszirom fitoplazma | 0 | 0 | 1 |
+| 40. |  | 2.9. Verticillium albo-atrum Reinke & Berthold [VERTAA] |
 
-| 2.6.5. | Phytoplasma fragariae | 0 | 0 | 1 |
+| 41. |  | 2.10. Verticillium dahliae Kleb [VERTDA] |
 
-| 3. | Ribes L. |
+| 42. |  | 3. Rovarok és atkák |
 
-| 3.1. | Fonálférgek |
+| 43. |  | 3.1. Eriosoma lanigerum Hausmann [ERISLA] |
 
-| 3.1.1. | Aphelenchoides ritzemabosi | 0 | 0,05 | 0,5 |
+| 44. |  | 3.2. Psylla spp. Geoffroy [1PSYLG] |
 
-| 3.2. | Vírusok |
+| 45. |  | 4. Fonálférgek |
 
-| 3.2.1. | Az aukuba mozaik vírus és a ribiszke sárgaság vírus együttes jelenléte | 0 | 0,05 | 0,5 |
+| 46. |  | 4.1. Meloidogyne hapla Chitwood [MELGHA] |
 
-| 3.2.2. | Ribiszke érkivilágosodás vírus és hálózatos levélerűség vírus, köszméte érszalagosodás vírus | 0 | 0,05 | 0,5 |
+| 47. |  | 4.2. Meloidogyne javanica Chitwood [MELGJA] |
 
-| 4. | Rubus L. |
+| 48. |  | 4.3. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
 
-| 4.1. | Rovarok |
+| 49. |  | 4.4. Pratylenchus vulnus Allén &Jensen [PRATVU] |
 
-| 4.1.1. | Resseliella theobaldi | 0 | 0 | 0,5 |
+| 50. | Ficus carica L. | 1. Baktériumok |
 
-| 4.2. | Baktériumok |
+| 51. |  | 1.1. Xanthomonas campestris pv.fici (Cavara) Dye [XANTFI] |
 
-| 4.2.1. | Agrobacterium spp. | 0 | 0,1 | 1 |
+| 52. |  | 2. Gombák és oospórás gombák |
 
-| 4.2.2. | Rhodococcus fascians | 0 | 0,1 | 1 |
+| 53. |  | 2.1. Armillariella mellea (Vahl) Kummer [ARMIME] |
 
-| 4.3. | Vírusok |
+| 54. |  | 3. Rovarok és atkák |
 
-| 4.3.1. | Alma mozaik vírus (ApMV), fekete málna nekrózis vírus (BRNV), uborka mozaik vírus (CMV), málna levéltarkulás vírus (RLMV), málna levélfoltosság vírus (RLSV), málna érklorózis vírus (RVCV), Rubus sárga érhálósodás vírus (RYNV) | 0 | 0 | 0,5 |
+| 55. |  | 3.1. Ceroplastes rusci Linnaeus [CERPRU] |
 
-| 5. | Vaccinium L. |
+| 56. |  | 4. Fonálférgek |
 
-| 5.1. | Gombák |
+| 57. |  | 4.1. Heterodera fici Kirjanova [HETDFI] |
 
-| 5.1.1. | Exobasidium vaccinii var. vaccinii | 0 | 0,5 | 1 |
+| 58. |  | 4.2. Meloidogyne arenaria Chitwood [MELGAR] |
 
-| 5.1.2. | Godronia cassandrae (anamorf alak: Topospora myrtilli) | 0 | 0,1 | 0,5 |
+| 59. |  | 4.3. Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
 
-| 5.2. | Baktériumok |
+| 60. |  | 4.4. Meloidogyne javanica Chitwood [MELGJA] |
 
-| 5.2.1. | Agrobacterium tumefaciens | 0 | 0 | 0,5 |
+| 61. |  | 4.5. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
 
-| 5.3. | Vírusok | 0 | 0 | 0,5 |
+| 62. |  | 4.6. Pratylenchus vulnus Allén &Jensen [PRATVU] |
 
-3. Azon károsítók jegyzéke, amelyek esetében a kiindulási anyagokon, a prebázis, bázis, certifikált anyanövényeken és szaporítóanyagokon, C.A.C. ültetési anyagokon vizuális ellenőrzést és adott esetben mintavételt és laboratóriumi vizsgálatot kell végezni
+| 63. |  | 5. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 64. |  | 5.1. Füge mozaik ágens (Fig mosaic agent) [FGM000] |
+
+| 65. | Fragaria L. | 1. Baktériumok |
+
+| 66. |  | 1.1. Candidatus Phlomobacter fiagariae Zreik, Bővé & Garnier [PHMBFR] |
+
+| 67. |  | 2. Gombák és oospórás gombák |
+
+| 68. |  | 2.1. Podosphaera aphanis (Wallroth) Braun & Takamatsu [PODOAP] |
+
+| 69. |  | 2.2. Rhizoctonia fragariae Hussain & W.E.McKeen [RHIZFR] |
+
+| 70. |  | 2.3. Verticillium albo-atrum Reinke & Berthold [VERTAA] |
+
+| 71. |  | 2.4. Verticillium dahliae Kleb [VERTDA] |
+
+| 72. |  | 3. Rovarok és atkák |
+
+| 73. |  | 3.1. Chaetosiphon fragaefolii Cockerell [CHTSFR] |
+
+| 74. |  | 3.2. Phytonemus pallidus Banks [TARSPA] |
+
+| 75. |  | 4. Fonálférgek |
+
+| 76. |  | 4.1. Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI] |
+
+| 77. |  | 4.2. Meloidogyne hapla Chitwood [MELGHA] |
+
+| 78. |  | 4.3. Pratylenchus vulnus Allén &Jensen [PRATVU] |
+
+| 79. |  | 5. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 80. |  | 5.1. Candidatus Phytoplasma asteris Lee et al. [PHYPAS] |
+
+| 81. |  | 5.2. Candidatus Phytoplasma australiense Davis et al. [PHYPAU] |
+
+| 82. |  | 5.3. Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG] |
+
+| 83. |  | 5.4. Candidatus Phytoplasma pruni [PHYPPN] |
+
+| 84. |  | 5.5. Candidatus Phytoplasma solani Quaglino et al. [PHYPSO] |
+
+| 85. |  | 5.6. Here virágelzöldülés fitoplazma (Cloverphyllody phytoplasma) [PHYP03] |
+
+| 86. |  | 5.7. Szamóca hajtás-burjánzás fitoplazma (Strawberry multiplier disease phytoplasma) [PHYP75] |
+
+| 87. | Juglans regia L. | 1. Baktériumok |
+
+| 88. |  | 1.1. Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 89. |  | 1.2. Xanthomonas arboricola pv. Juglandis (Pierce) Vauterin et al. [XANTJU] |
+
+| 90. |  | 2. Gombák és oospórás gombák |
+
+| 91. |  | 2.1. Armillariella mellea (Vahl) Kummer [ARMIME] |
+
+| 92. |  | 2.2. Chondrostereum purpureum Pouzar [STERPU] |
+
+| 93. |  | 2.3. Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA] |
+
+| 94. |  | 2.4. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 95. |  | 3. Rovarok és atkák |
+
+| 96. |  | 3.1. Epidiaspis leperii Signoret [EPIDBE] |
+
+| 97. |  | 3.2. Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+
+| 98. |  | 3.3. Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+| 99. | Malus Mill. | 1. Baktériumok |
+
+| 100. |  | 1.1. Agrobaáerium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 101. |  | 1.2. Erwinia amylovora (Burrill) Winslow et al. [ERWIAM] |
+
+| 102. |  | 1.3. Pseudomonas syringae pv. Syringae van Hall [PSDMSY] |
+
+| 103. |  | 2. Gombák és oospórás gombák |
+
+| 104. |  | 2.1. Armillariella mellea (Vahl) Kummer [ARMIME] |
+
+| 105. |  | 2.2. Chondrostereum purpureum Pouzar [STERPU] |
+
+| 106. |  | 2.3. Glomerella cingulata (Stoneman) Spaulding & von Schrenk [GLOMCI] |
+
+| 107. |  | 2.4. Neofabraea alba Desmaziéres [PEZIAL] |
+
+| 108. |  | 2.5. Neofabraea malicorticis Jackson [PEZIMA] |
+
+| 109. |  | 2.6. Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA] |
+
+| 110. |  | 2.7. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 111. |  | 2.8. Sclerophora pallida Yao & Spooner [SKLPPA] |
+
+| 112. |  | 2.9. Verticillium albo-atrum Reinke & Berthold [VERTAA] |
+
+| 113. |  | 2.10. Verticillium dahliae Kleb [VERTDA] |
+
+| 114. |  | 3. Rovarok és atkák |
+
+| 115. |  | 3.1. Eriosoma lanigerum Hausmann [ERISLA]Psyíía spp. Geoffroy [1PSYLG] |
+
+| 116. |  | 4. Fonálférgek |
+
+| 117. |  | 4.1. Meloidogyne hapla Chitwood [MELGHA] |
+
+| 118. |  | 4.2. Meloidogyne javanica Chitwood [MELGJA] |
+
+| 119. |  | 4.3. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+
+| 120. |  | 4.4. Pratylenchus vulnus Allén & Jensen [PRATVU] |
+
+| 121. | Olea europaea L. | 1. Baktériumok |
+
+| 122. |  | 1.1. Pseudomonas savastanoi pv. savastanoi (Smith) Gardán et al. [PSDMSA] |
+
+| 123. |  | 2. Fonálférgek |
+
+| 124. |  | 2.1. Meloidogyne arenaria Chitwood [MELGAR] |
+
+| 125. |  | 2.2. Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
+
+| 126. |  | 2.3. Meloidogyne javanica Chitwood [MELGJA] |
+
+| 127. |  | 2.4. Pratylenchus vulnus Allén & Jensen [PRATVU] |
+
+| 128. |  | 3. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 129. |  | 3.1. Olajfa levélsárgulással társult vírus (Olive leaf yellowing-associated virus) [OLYAVO] |
+
+| 130. |  | 3.2. Olajfa érsárgulással társult vírus (Olive vein yellowing-associated virus) [OVYAVO] |
+
+| 131. |  | 3.3. Olajfa sárgafoltossággal és pusztulással társult vírus (Olive yellow mottling and decline associated virus) [OYMDAV] |
+
+| 132 | Pistacia vera L. | 1. Gombák és oospórás gombák |
+
+| 133. |  | 1.1. Phytophthora camhivora (Petri) Buisman [PHYTCM] |
+
+| 134. |  | 1.2. Phytophthora cryptogea Pethybridge & Lafferty [PHYTCR] |
+
+| 135. |  | 1.3. Rosellinia necatrix Prillieux [ROSLNE] |
+
+| 136. |  | 1.4. Verticillium dahliae Kleb [VERTDA] |
+
+| 137. |  | 2. Fonálférgek |
+
+| 138. |  | 2.1. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+
+| 139. |  | 2.2. Pratylenchus vulnus Allén &Jensen [PRATVU] |
+
+| 140. | Prunus domestica L. és Prunus dulcis (Miller) Webb | 1. Baktériumok |
+
+| 141. |  | 1.1. Agrobaderium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 142. |  | 1.2. Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] |
+
+| 143. |  | 2. Gombák és oospórás gombák |
+
+| 144. |  | 2.1. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 145. |  | 2.2. Verticillium dahliae Kleb [VERTDA] |
+
+| 146. |  | 3. Rovarok és atkák |
+
+| 147. |  | 3.1. Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+
+| 148. |  | 3.2. Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+| 149. |  | 4. Fonálférgek |
+
+| 150. |  | 4.1. Meloidogyne arenaria Chitwood [MELGAR] |
+
+| 151. |  | 4.2. Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
+
+| 152. |  | 4.3. Meloidogyne javanica Chitwood [MELGJA] |
+
+| 153. |  | 4.4. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+
+| 154. |  | 4.5. Pratylenchus vulnus Allén & Jensen [PRATVU] |
+
+| 155. | Prunus armeniaca L. | 1. Baktériumok |
+
+| 156. |  | 1.1. Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 157. |  | 1.2. Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] |
+
+| 158. |  | 1.3. Pseudomonas syringae pv. Syringae van Hall [PSDMSY] |
+
+| 159. |  | 1.4. Pseudomonas viridiflava (Burkholder) Dowson [PSDMVF] |
+
+| 160. |  | 2. Gombák és oospórás gombák |
+
+| 161. |  | 2.1. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 162. |  | 2.2. Verticillium dahliae Kleb [VERTDA] |
+
+| 163. |  | 3. Rovarok és atkák |
+
+| 164. |  | 3.1. Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+
+| 165. |  | 3.2. Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+| 166. |  | 4. Fonálférgek |
+
+| 167. |  | 4.1. Meloidogyne arenaria Chitwood [MELGAR] |
+
+| 168. |  | 4.2. Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
+
+| 169. |  | 4.3. Meloidogyne javanica Chitwood [MELGJA] |
+
+| 170. |  | 4.4. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+
+| 171. |  | 4.5. Pratylenchus vulnus Allén & Jensen [PRATVU] |
+
+| 172. | Prunus avium L. és Prunus cerasus L. | 1. Baktériumok |
+
+| 173. |  | 1.1. Agrobaáerium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 174. |  | 1.2. Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] |
+
+| 175. |  | 2. Gombák és oospórás gombák |
+
+| 176. |  | 2.1. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 177. |  | 3. Rovarok és atkák |
+
+| 178. |  | 3.1. Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+| 179. |  | 4. Fonálférgek |
+
+| 180. |  | 4.1. Meloidogyne arenaria Chitwood [MELGAR] |
+
+| 181. |  | 4.2. Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
+
+| 182. |  | 4.3. Meloidogyne javanica Chitwood [MELGJA] |
+
+| 183. |  | 4.4. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+
+| 184. |  | 4.5. Pratylenchus vulnus Allén & Jensen [PRATVU] |
+
+| 185. | Prunus persica (L.) Batsch és Prunus salicina Lindley | 1. Baktériumok |
+
+| 186. |  | 1.1. Agrobaáerium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 187. |  | 1.2. Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] |
+
+| 188. |  | 1.3. Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie [PSDMPE] |
+
+| 189. |  | 2. Gombák és oospórás gombák |
+
+| 190. |  | 2.1. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 191. |  | 2.2. Verticillium dahliae Kleb [VERTDA] |
+
+| 192. |  | 3. Rovarok és atkák |
+
+| 193. |  | 3.1. Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+
+| 194. |  | 3.2. Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+| 195. |  | 4. Fonálférgek |
+
+| 196. |  | 4.1. Meloidogyne arenaria Chitwood [MELGAR] |
+
+| 197. |  | 4.2. Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
+
+| 198. |  | 4.3. Meloidogyne javanica Chitwood [MELGJA] |
+
+| 199. |  | 4.4. Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+
+| 200. |  | 4.5. Pratylenchus vulnus Allén & Jensen [PRATVU] |
+
+| 201. | Ribes L. | 1. Gombák és oospórás gombák |
+
+| 202. |  | 1.1. Diaporthe strumella (Fries) Fuckel [DIAPST] |
+
+| 203. |  | 1.2. Microsphaera grossulariae (Wallroth) Léveillé [MCRSGR] |
+
+| 204. |  | 1.3. Podosphaera mors-uvae (Schweinitz) Braun & Takamatsu [SPHRMU] |
+
+| 205. |  | 2. Rovarok és atkák |
+
+| 206. |  | 2.1. Cecidophyopsis ribis Westwood [ERPHRI] |
+
+| 207. |  | 2.2. Dasineura tetensi Rübsaamen [DASYTE] |
+
+| 208. |  | 2.3. Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+
+| 209. |  | 2.4. Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+| 210. |  | 2.5. Tetranychus urticae Koch [TETRUR] |
+
+| 211. |  | 3. Fonálférgek |
+
+| 212. |  | 3.1. Aphelenchoides ritzemahosi (Schwartz) Steiner & Buhrer [APLORI] |
+
+| 213. |  | 3.2. Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI] |
+
+| 214. |  | 4. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 215. |  | 4.1. Az aukuba mozaik ágens (Aucuba mosaic agent) és a ribiszke sárgaság vírus (Blackcurrant yellows agent) együttes jelenléte |
+
+| 216. | Rubus L. | 1. Baktériumok |
+
+| 217. |  | 1.1. Agrobacterium spp. Conn [1AGRBG] |
+
+| 218. |  | 1.2. Rhodococcus fasdans Tilford [CORBFA] |
+
+| 219. |  | 2. Gombák és oospórás gombák |
+
+| 220. |  | 2.1. Peronospora rubi Rabenhorst [PERORU] |
+
+| 221. |  | 3. Rovarok és atkák |
+
+| 222. |  | 3.1. Resseliella theobaldi Barnes [THOMTE] |
+
+| 223. | Vaccinium L. | 1. Baktériumok |
+
+| 224. |  | 1.1. Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+
+| 225. |  | 2. Gombák és oospórás gombák |
+
+| 226. |  | 2.1. Diaporthe vaccinii Shear [DIAPVA] |
+
+| 227. |  | 2.2. Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] |
+
+| 228. |  | 2.3. Godronia cassandrae Peck (anamorf alak: Topospora myrtilli) [GODRCA] |
+
+2. Azon vizsgálatköteles nemzárlati károsítók jegyzéke, amelyek jelenlététől a prebázis anyanövény, prebázis, bázis és certifikált szaporítóanyagnak mentesnek, a C.A.C. ültetési anyagoknak gyakorlatilag mentesnek kell lenniük, és erre vonatkozóan vizuális vizsgálatot az e rendelet 5. melléklete szerint, valamint – klónok esetében – mintavételt és tesztelést kell végezni.
 
 |  | A | B |
 
-| 1. | Nemzetség vagy faj | Károsítók |
+| 1. | Nemzettség vagy faj | Vizsgálatköteles nemzárlati károsítók |
 
-| 2. | Castanea sativa Mill. | 2.1.Vírusszerű betegségek 2.1.1. Gesztenye mozaik vírus (ChMV) |
+| 2. | Citrus L., Fortunella Swingle és Pondrus Raf. | 1. Baktériumok |
 
-| 3. | Citrus L., Fortunella Swingle és Poncirus Raf. | 3.1.Vírusok 3.1.1.Citrus tarkaság vírus (CVV) 3.1.2.Citrus psorosis vírus (CPsV) 3.1.3.Citrus levélfoltosság vírus (CLBV) 3.2.Vírusszerű betegségek 3.2.1.Impietratura 3.2.2.Cristacortis 3.3.Viroidok 3.3.1.Citrus exocortis viroid (CEVd) 3.3.2.Komló törpülés viroid (HSVd) Cachexia variáns |
+| 3. |  | 1.1. Spiroplasma citri Saglio et al. [SPIRCI] |
 
-| 4. | Corylus avellana L. | 4.1.Vírusok 4.1.1.Alma mozaik vírus(ApMV) 4.2.Fitoplazmák 4.2.1.Mogyoró hosszú foltos levél-mintázatúság fitoplazma |
+| 4. |  | 2. Gombák és oospórás gombák |
 
-| 5. | Cydonia oblonga Mill. ésPyrus L. | 5.1.Vírusok 5.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 5.1.2. Alma törzsbarázdáltság vírus (ASGV) 5.1.3. Alma törzsgödrösödés vírus (ASPV) 5.2.Vírusszerű betegségek 5.2.1. Kéreghasadás, kéregnekrózis 5.2.2. Kéregvastagodás 5.2.3. Fapuhulás, birsalma sárga foltosodás 5.3.Viroidok 5.3.1.Körte terméshólyagosodás viroid (PBCVd) |
+| 5. |  | 2.1. Plenodomus tracheiphilus (Petri) Gruyter, Aveskamp & Verkley [DEUTTR] |
 
-| 6. | Fragaria L. | 6.1. Fonálférgek 6.1.1.Aphelenchoides blastoforus 6.1.2. Aphelenchoides fragariae 6.1.3. Aphelenchoides ritzemabosi 6.1.4. Ditylenchus dipsaci 6.2. Gombák 6.2.1. Phytophthora cactorum 6.2.2.Colletotrichum acutatum 6.3. Vírusok 6.3.1. Szamóca foltosság vírus (SMoV) 6.4. Fitoplazmák: 6.4.1. Őszirózsa sárgaság fitoplazma (AYF) 6.4.2. Phytoplasma fragariae 6.4.3. Szamóca zöldszirmúság fitoplazma (SGPF) 6.4.4. Szamóca stolbur betegsége |
+| 6. |  | 3. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
-| 7. | Juglans regia L. | 7.1.Vírusok 7.1.1. Cseresznye levélsodródás vírus (CLRV) |
+| 7. |  | 3.1. Citrus cristawrtis ágens [CSCC00] |
 
-| 8. | Malus Mill. | 8.1.Vírusok 8.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 8.1.2. Alma mozaik vírus (ApMV) 8.1.3.Alma törzsbarázdáltság vírus (ASGV) 8.1.4. Alma törzsgödrösödés vírus (ASPV) 8.2. Vírusszerű betegségek 8.2.1. Fapuhulás, áglaposodás 8.2.2. Alma patkós kéregpusztulás vírusszerű betegség 8.2.3. A gyümölcs betegségei: apró termés, zöld ráncosodás, a Ben Davis fajta gyümölcsének egyenetlen felszíne, megvastagodott héj, csillagszerű repedés, vörösesbarna gyűrűk, vörösesbarna szemölcsszerű foltok 8.3.Viroidok 8.3.1. Alma gyümölcshegesedés viroid (ASSVd) 8.3.2. Alma gyümölcsgöndörödés viroid (ADFVd) |
+| 8. |  | 3.2. Citrus exocortis viroid [CEVD00] |
 
-| 9. | Olea europaea L. | 9.1. Gombák 9.1.1. Verticillium dahliae 9.2.Vírusok 9.2.1. Arabis mozaik vírus (ArMV) 9.2.2. Cseresznye levélsodródás vírus (CLRV) 9.2.3. Szamóca látens gyűrűsfoltosság vírus(SLRV) |
+| 9. |  | 3.3. Citrus impietratura ágens [CSI000] |
 
-| 10. | Prunus amygdalus Batsch | 10.1.Vírusok 10.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 10.1.2. Alma mozaik vírus(ApMV) 10.1.3. Szilva törpülés vírus (PDV) 10.1.4. Prunus nekrotikus gyűrűsfoltosság vírus (PNRSV) 10.1.5. Szilvahimlő vírus (PPV) 10.2. Fitoplazmák 10.2.1. Csonthéjasok európai sárgaság fitoplazmája (ESFY) |
+| 10. |  | 3.4. Citrus levélfoltosság vírus (Citrus leafblotch virus) [CLBV00] |
 
-| 11. | Prunus armeniaca L. | 11.1.Vírusok 11.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 11.1.2. Alma mozaik vírus (ApMV) 11.1.3. Kajszi látens vírus (ApLV) 11.1.4. Szilva törpülés vírus (PDV) 11.1.5. Prunus nekrotikus gyűrűsfoltosság vírus (PNRSV) 11.1.6. Szilvahimlő vírus (PPV) 11.2. Fitoplazmák 11.2.1. Csonthéjasok európai sárgaság fitoplazmája (ESFY) |
+| 11. |  | 3.5. Citruspsorosis vírus [CPSV00] |
 
-| 12. | Prunus avium és P. cerasus | 12.1.Vírusok 12.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 12.1.2. Alma mozaik vírus (ApMV) 12.1.3. Arabis mozaik vírus (ArMV) 12.1.4. Cseresznye zöld gyűrűsfoltosság vírus (CGRMV) 12.1.5. Cseresznye levélsodródás vírus (CLRV) 12.1.6. Cseresznye nekrotikus rozsdaszínű foltosság vírus (CNRMV) 12.1.7. Cseresznye aprógyümölcsűség vírus 1 és 2 (LChV1, LChV2) 12.1.8. Cseresznye levélfoltosság vírus (ChMLV) 12.1.9. Szilva törpülés vírus (PDV) 12.1.10. Prunus nekrotikus gyűrűsfoltosság vírus (PNRSV) 12.1.11. Málna gyűrűsfoltosság vírus (RpRSV) 12.1.12. Szamóca látens gyűrűsfoltosság vírus (SLRSV) 12.1.13. Paradicsom fekete gyűrűs vírus (TBRV) 12.2. Fitoplazmák 12.2.1. Csonthéjasok európai sárgaság fitoplazmája (ESFY) |
+| 12. |  | 3.6. Citrus tristeza vírus (EU-izolátumok) [CTV000] |
 
-| 13. | Prunus domestica és P. salicina | 13.1. Vírusok 13.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 13.1.2. Alma mozaik vírus (ApMV) 13.1.3. Mirabolán látens gyűrűsfoltosság vírus (MLRSV) 13.1.4. Szilva törpülés vírus (PDV) 13.1.5. Prunus nekrotikus gyűrűsfoltosság vírus (PNRSV) 13.1.6. Szilvahimlő vírus (PPV) 13.2. Fitoplazmák 13.2.1. Csonthéjasok európai sárgaság fitoplazmája (ESFY) |
+| 13. |  | 3.7. Citrus tarkaság vírus (Citrus variegation virus) [CW000] |
 
-| 14. | Prunus persica | 14.1.Vírusok 14.1.1. Alma klorotikus levélfoltosság vírus (ACLSV) 14.1.2. Alma mozaik vírus (ApMV) 14.1.3. Kajszi látens vírus (ApLV) 14.1.4. Szilva törpülés vírus (PDV) 14.1.5. Prunus nekrotikus gyűrűsfoltosság vírus (PNRSV) 14.1.6. Szamóca látens gyűrűsfoltosság vírus (SLRSV) 14.1.7. Szilvahimlő vírus (PPV) 14.2. Viroidok 14.2.1. Őszibarack látens mozaik viroid (PLMVd) 14.3. Fitoplazmák 14.3.1. Csonthéjasok európai sárgaság fitoplazmája (ESFY) |
+| 14. |  | 3.8. Komló törpülés viroid (Hop stunt viroid) [HSVD00] |
 
-| 15. | Ribes L. | 15.1. Vírusok az érintett faj szerint 15.1.1. Arabis mozaik vírus (ArMV) 15.1.2. Ribiszke atavizmus vírus (BRV) 15.1.3. Uborka mozaik vírus (CMV) 15.1.4. Köszméte érszalagosodással járó vírusok (GVBaV) 15.1.5. Szamóca látens gyűrűsfoltosság vírus (SLRSV) 15.1.6. Málna gyűrűsfoltosság vírus (RpRSV) |
+| 15. | Corylus avellana L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
-| 16. | Rubus L. | 16.1. Gombák 16.1.1. A Rubus fajokat megfertőző Phytophthora spp. 16.2. Vírusok az érintett faj szerint 16.2.1. Alma mozaik vírus (ApMV) 16.2.2. Fekete málna nekrózis vírus (BRNV) 16.2.3. Uborka mozaik vírus (CMV) 16.2.4. Málna levéltarkulás vírus (RLMV) 16.2.5. Málna levélfoltosság vírus (RLSV) 16.2.6. Málna érklorózis vírus (RVCV) 16.2.7. Rubus sárga érhálósodás vírus (RYNV) 16.2.8. Málna bokros törpeség vírus (RBDV) 16.3. Fitoplazmák 16.3.1. Rubus törpülés fitoplazma 16.4. Vírusszerű betegségek 16.4.1. Málna sárga foltosodás |
+| 16. |  | 1.1. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
 
-| 17. | VacciniumL. | 17.1. Vírusok 17.1.1. Áfonya levélelkeskenyedés vírus (BSSV) 17.1.2. Áfonya vörös gyűrűsfoltosság vírus (BRRV) 17.1.3. Áfonya virág- és levélszáradás vírus (BlScV) 17.1.4. Áfonya átmeneti hajtás-pusztulás vírus (BlScV) 17.2. Fitoplazmák 17.2.1. Áfonya törpülés fitoplazma 17.2.2. Áfonya boszorkányseprűsödés fitoplazma 17.2.3. Tőzegáfonya álvirágzás fitoplazma 17.3. Vírusszerű betegségek 17.3.1. Áfonya mozaik ágens 17.3.2. Tőzegáfonya gyűrűsfoltosság ágens |
+| 17. | Cydonia oblonga Mill. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
 
-4. Azon károsítók jegyzéke, amelyek talajban való jelenléte esetén a 17. § rendelkezései irányadók
+| 18. |  | 1.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot virus) [ACLSV0] |
+
+| 19. |  | 1.2. Alma fapuhulás ágens (Apple rubbery wood agent) [ARW000] |
+
+| 20. |  | 1.3. Alma törzsbarázdáltság vírus (Apple stem grooving virus) [ASGV00] |
+
+| 21. |  | 1.4. Alma törzsgödrösödés vírus (Apple stem-pitting virus) [ASPV00] |
+
+| 22. |  | 1.5. Körte kéregnekrózis ágens (Pear bark necrosis agent) [PRBN00] |
+
+| 23. |  | 1.6. Körte kéreghasadás ágens (Pear bark split agent) [PRBS00] |
+
+| 24. |  | 1.7. Körte terméshólyagosodás viroid (Pear blister canker viroid) [PBCVD0] |
+
+| 25. |  | 1.8. Körte kéregvastagodás ágens (Pear rough bark agent) [PRRB00] |
+
+| 26. |  | 1.9. Birsalma sárga foltosodás ágens (Quince yellow blotch agent) [ARW000] |
+
+| 27. | Fragaria L. | 1. Baktériumok |
+
+| 28. |  | 1.1. Xanthomonas fragariae Kennedy & King [XANTFR] |
+
+| 29. |  | 2. Gombák és oospórás gombák |
+
+| 30. |  | 2.1. Colletotrichum acutatum Simmonds [COLLAC] |
+
+| 31. |  | 2.2. Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+
+| 32. |  | 2.3. Phytophthora fragariae C.J. Hickman [PHYTFR] |
+
+| 33. |  | 3. Fonálférgek |
+
+| 34. |  | 3.1. Aphelenchoides besseyi Christie [APLOBE] |
+
+| 35. |  | 3.2. Aphelenchoides blastophthorus Franklin [APLOBL] |
+
+| 36. |  | 3.3. Aphelenchoides fragariae (Ritzema Bos) Christie [APLOFR] |
+
+| 37. |  | 3.4. Aphelenchoides ritzemahosi (Schwartz) Steiner & Buhrer [APLORI] |
+
+| 38. |  | 4. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 39. |  | 4.1. Arabis mozaik vírus (Arabis mosaic virus) [ARMV00] |
+
+| 40. |  | 4.2. Málna gyűrűsfoltosság vírus (Raspberry ringspot virus) [RPRSVO] |
+
+| 41. |  | 4.3. Szamóca göndörödés vírus (Strawberry crinkle virus) [SCRV00] |
+
+| 42. |  | 4.4. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSVO] |
+
+| 43. |  | 4.5. Földieper enyhe sárga levélszélűség vírus (Strawberry mild yellow edge virus) [SMYEVO] |
+
+| 44. |  | 4.6. Szamóca foltosság vírus (Strawberry mottle virus) [SMOV00] |
+
+| 45. |  | 4.7. Szamóca érszalagosodás vírus (Strawberry vein banding virus) [SVBV00] |
+
+| 46. |  | 4.8. Paradicsom fekete gyűrűs vírus (Tomato black ring virus) [TBRV00] |
+
+| 47. | Juglans regia L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 48. |  | 1.1. Cseresznye levélsodródás vírus (Cherry leaf roll virus) [CLRV00] |
+
+| 49. | Malus Mill. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 50. |  | 1.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot virus) [ACLSV0] |
+
+| 51. |  | 1.2. Alma gyümölcsgöndörödés viroid (Apple dimple fruit viroid) [ADFVD0] |
+
+| 52. |  | 1.3. Alma áglaposodás ágens (Apple fiat limb agent) [AFL000] |
+
+| 53. |  | 1.4. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 54. |  | 1.5. Alma fapuhulás ágens (Apple rubbery wood agent) [ARW000] |
+
+| 55. |  | 1.6. Alma gyümölcshegesedés viroid (Apple scar skin viroid) [ASSVD0] |
+
+| 56. |  | 1.7. Alma csillagszerű repedés ágens (Apple star crack agent) [APHW00] |
+
+| 57. |  | 1.8. Alma törzsbarázdáltság vírus (Apple stem grooving virus) [ASGV00] |
+
+| 58. |  | 1.9. Alma törzsgödrösödés vírus (Apple stem-pitting virus) [ASPV00] |
+
+| 59. |  | 1.10. Candidatus Phytoplasma mali Seemüller & Schneider [PHYPMA] |
+
+| 60. |  | 1.11. A gyümölcs betegségei: apró termés (chat fruit) [APCF00], zöld ráncosodás (green crinkle) [APGC00], a Ben Davis fajta gyümölcsének egyenetlen felszíne (bumpy fruit of Ben Davis), megvastagodott héj (rough skin) [APRSK0], csillagszerű repedés (star crack), vörösesbarna gyűrűk (russet ring) [APLP00], vörösesbarna szemölcsszerű foltok (russet wart) |
+
+| 61. | Olea europaea L. | 1. Gombák és oospórás gombák |
+
+| 62. |  | 1.1. Verticillium dahliae Kleb [VERTDA] |
+
+| 63. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 64. |  | 2.1. Arabis mozaik vírus (Arabis mosaic virus) [ARMV00] |
+
+| 65. |  | 2.2. Cseresznye levélsodródás vírus (Cherry leaf roll virus) [CLRV00] |
+
+| 66. |  | 2.3. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSVO] |
+
+| 67. | Prunus dulcis (Miller) Webb | 1. Baktériumok |
+
+| 68. |  | 1.1. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR] |
+
+| 69. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 70. |  | 2.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot virus) [ACLSV0] |
+
+| 71. |  | 2.2. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 72. |  | 2.3. Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] |
+
+| 73. |  | 2.4. Szilvahimlő vírus (Plumpox virus) [PPV000] |
+
+| 74. |  | 2.5. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
+
+| 75. |  | 2.6. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 76. | Prunus armeniaca L. | 1. Baktériumok |
+
+| 77. |  | 1.1. Xanthomonas arborkola pv. pruni (Smith) Vauterin et al. [XANTPR] |
+
+| 78. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 79. |  | 2.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot vírus) [ACLSV0] |
+
+| 80. |  | 2.2. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 81. |  | 2.3. Kajszi látens vírus (Apricot latent virus) [ALV000] |
+
+| 82. |  | 2.4. Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] |
+
+| 83. |  | 2.5. Szilvahimlő vírus (Plumpox virus) [PPV000] |
+
+| 84. |  | 2.6. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
+
+| 85. |  | 2.7. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 86. | Prunus avium L. és Prunus cerasus L. | 1. Baktériumok |
+
+| 87. |  | 1.1. Xanthomonas arborkola pv. pruni (Smith) Vauterin et al. [XANTPR] |
+
+| 88. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 89. |  | 2.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot virus) [ACLSVO] |
+
+| 90. |  | 2.2. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 91. |  | 2.3. Arabis mozaik vírus (Arabis mosaic virus) [ARMV00] |
+
+| 92. |  | 2.4. Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] Cseresznye zöld gyűrűsfoltosság vírus (Cherry green ring mottle virus) [CGRMV0] |
+
+| 93. |  | 2.5. Cseresznye levélsodródás vírus (Cherry leaf roll virus) [CLRV00] |
+
+| 94. |  | 2.6. Cseresznye levélfoltosság vírus (Cherry mottle leaf virus) [CMLV00] |
+
+| 95. |  | 2.7. Cseresznye nekrotikus rozsdaszínű foltosság vírus (Cherry necrotic rusty mottle virus) [CRNRM0] |
+
+| 96. |  | 2.8. Cseresznye aprógyümölcsűség vírus 1 és 2 (Little cherry virus 1 and 2) [LCHV10], [LCHV20] |
+
+| 97. |  | 2.9. Szilvahimlő vírus (Plumpox virus) [PPV000] |
+
+| 98. |  | 2.10. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
+
+| 99. |  | 2.11. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 100. |  | 2.12. Málna gyűrűsfoltosság vírus (Raspberry ringspot virus) [RPRSV0] |
+
+| 101. |  | 2.13. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSV0] |
+
+| 102. |  | 2.14. Paradicsom fekete gyűrűs vírus (Tomato black ring virus) [TBRV00] |
+
+| 103. | Prunus domestica L., Prunus salicina Lindley és a Szilvahimlő vírus iránt fogékony más Prunus L. fajok a Prunus L. hibridjei esetében | 1. Baktériumok |
+
+| 104. |  | 1.1. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR] |
+
+| 105. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 106. |  | 2.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot virus) [ACLSV0] |
+
+| 107. |  | 2.2. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 108. |  | 2.3. Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] |
+
+| 109. |  | 2.4. Mirabolán látens gyűrűsfoltosság vírus (Myrobalan latent ringspot virus) [MLRSV0] |
+
+| 110. |  | 2.5. Szilvahimlő vírus (Plumpox virus) [PPV000] |
+
+| 111. |  | 2.6. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
+
+| 112. |  | 2.7. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 113. | Prunus persica (L.) Batsch | 1. Baktériumok |
+
+| 114. |  | 1.1. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR] |
+
+| 115. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 116. |  | 2.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot vírus) [ACLSV0] |
+
+| 117. |  | 2.2. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 118. |  | 2.3. Kajszi látens vírus (Apricot latent virus) [ALV000] |
+
+| 119. |  | 2.4. Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] |
+
+| 120. |  | 2.5. Őszibarack látens mozaik viroid (Peach latent mosaic viroid) [PLMVD0] |
+
+| 121. |  | 2.6. Szilvahimlő vírus (Plumpox virus) [PPV000] |
+
+| 122. |  | 2.7. Szilva törpülés vírus (Prune dwarf virus) [PDV000] |
+
+| 123. |  | 2.8. Prunus nekrotikus gyűrűsfoltosság vírus (Prunus necrotic ringspot virus) [PNRSV0] |
+
+| 124. |  | 2.9. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSV0] |
+
+| 125. | Pyrus L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 126. |  | 1.1. Alma klorotikus levélfoltosság vírus (Apple chlorotic leaf spot virus) [ACLSVO] |
+
+| 127. |  | 1.2. Alma fapuhulás ágens (Apple rubbery wood agent) [ARW000] |
+
+| 128. |  | 1.3. Alma törzsbarázdáltság vírus (Apple stem grooving virus) [ASGV00] |
+
+| 129. |  | 1.4. Alma törzsgödrösödés vírus (Apple stem-pitting virus) [ASPV00] |
+
+| 130. |  | 1.5. Candidatus Phytoplasma pyri Seemüller & Schneider [PHYPPY] |
+
+| 131. |  | 1.6. Körte kéregnekrózis ágens (Pear bark necrosis agent) [PRBN00] |
+
+| 132. |  | 1.7. Körte kéreghasadás ágens (Pear bark split agent) [PRBS00] |
+
+| 133. |  | 1.8. Körte terméshólyagosodás viroid (Pear blister canker viroid) [PBCVD0] |
+
+| 134. |  | 1.9. Körte kéregvastagodás ágens (Pear rough bark agent) [PRRB00] |
+
+| 135. |  | 1.10. Birsalma sárga foltosodás ágens (Quince yellow blotch agent) [ARW000] |
+
+| 136. | Ribes L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 137. |  | 1.1. Arabis mozaik vírus (Arabis mosaic virus) [ARMV00] |
+
+| 138. |  | 1.2. Fekete ribiszke reverziós vírus (Blackcurrant reversion virus) [BRAV0] |
+
+| 139. |  | 1.3. Uborka mozaik vírus (Cucumber mosaic virus) [CMV000] |
+
+| 140. |  | 1.4. Köszméte érszalagosodás vírus (Gooseberry vein banding associated virus) [GOVB00] |
+
+| 141. |  | 1.5. Málna gyűrűsfoltosság vírus (Raspberry ringspot virus) [RPRSV0] |
+
+| 142. |  | 1.6. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSV0] |
+
+| 143. | Rubus L. | 1. Gombák és oospórás gombák |
+
+| 144. |  | 1.1. Phytophthora spp. de Bary [1PHYTG] |
+
+| 145. |  | 2. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 146. |  | 2.1. Alma mozaik vírus (Apple mosaic virus) [APMV00] |
+
+| 147. |  | 2.2. Arabis mozaik vírus (Arabis mosaic virus) [ARMV00] |
+
+| 148. |  | 2.3. Fekete málna nekrózis vírus (Black raspberry necrosis virus) [BRNV00] |
+
+| 149. |  | 2.4. Candidatus Phytoplasma rubi Malembic-Maher et al. [PFíYPRU] |
+
+| 150. |  | 2.5. Uborka mozaik vírus (Cucumber mosaic virus) [CMV000] |
+
+| 151. |  | 2.6. Málna bokros törpeség vírus (Raspberry bushy dwarf virus) [RBDV00] |
+
+| 152. |  | 2.7. Málna levéltarkulás vírus (Raspberry leafmottle virus) [RLMV00] |
+
+| 153. |  | 2.8. Málna gyűrűsfoltosság vírus (Raspberry ringspot vírus) [RPRSV0] |
+
+| 154. |  | 2.9. Málna érklorózis vírus (Raspberry vein chlorosis vírus) [RVCV00] |
+
+| 155. |  | 2.10. Málna sárga foltosodás (Raspberry yellowspot) [RYS000] |
+
+| 156. |  | 2.11. Rubus sárga érhálósodás vírus (Rubus yellow net vírus) [RYNV00] |
+
+| 157. |  | 2.12. Szamóca látens gyűrűsfoltosság vírus (Strawberry latent ringspot virus) [SLRSV0] |
+
+| 158. |  | 2.13. Paradicsom fekete gyűrűs vírus (Tomato black ring virus) [TBRV00] |
+
+| 159. | Vaccinium L. | 1. Vírusok, viroidok, vírusszerű betegségek és fitoplazmák |
+
+| 160. |  | 1.1. Áfonya mozaik járulékos vírus (Blueberry mosaic associated ophiovirus) [BLMAV10] |
+
+| 161. |  | 1.2. Áfonya vörös gyűrűsfoltosság vírus (Blueberry red ringspot virus) [BRRV00] |
+
+| 162. |  | 1.3. Áfonya virág- és levélszáradás vírus (Blueberry scorch virus) [BLSCV0] |
+
+| 163. |  | 1.4. Áfonya átmeneti hajtás-pusztulás vírus (Blueberry shock virus) [BLSHV0] |
+
+| 164. |  | 1.5. Áfonya levélelkeskenyedés vírus (Blueberry shoestring virus) [BSSV00] |
+
+| 165. |  | 1.6. Candidatus Phytoplasma asteris Lee et al. [PHYPAS] |
+
+| 166. |  | 1.7. Candidatus Phytoplasma pruni [PHYPPN] |
+
+| 167. |  | 1.8. Candidatus Phytoplasma solani Quaglino et al. [PHYPS0] |
+
+| 168. |  | 1.9. Tőzegáfonya álvirágzás fitoplazma (Cranberry falsé blossom phytoplasma) [PHYPFB] |
+
+3. Azon károsítók jegyzéke, amelyek talajban való jelenléte esetén a 16. § rendelkezései irányadók
 
 |  | A | B |
 
-| 1. | Nemzetség vagy faj | Károsítók |
+| 1. | Nemzettség vagy faj | Vizsgálatköteles nemzárlati károsítók |
 
-| 2. | Fragaria L. | 2.1.Fonálférgek 2.1.1. Longidorus attenuatus 2.1.2. Longidorus elongatus 2.1.3. Longidorus macrosoma 2.1.4. Xiphinema diversicaudatum |
+| 2. | Fragaria L. | 1. Fonálférgek |
 
-| 3. | Juglans regia L. | 3.1. Fonálférgek 3.1.1. Xiphinema diversicaudatum |
+| 3. |  | 1.1. Longidorus attenuatus Hooper [LONGAT] |
 
-| 4. | Olea europaea L | 4.1. Fonálférgek 4.1.1. Xiphinema diversicaudatum |
+| 4. |  | 1.2. Longidorus elongatus (de Man) Thorne & Swanger [LONGEL] |
 
-| 5. | Pistacia vera L. | 5.1. Fonálférgek 5.1.1. Xiphinema index |
+| 5. |  | 1.3. Longidorus macrosoma Hooper [LONGMA] |
 
-| 6. | Prunus avium és P. cerasus | 6.1. Fonálférgek 6.1.1. Longidorus attenuatus 6.1.2. Longidorus elongatus 6.1.3. Longidorus macrosoma 6.1.4. Xiphinema diversicaudatum |
+| 6. |  | 1.4. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
 
-| 7. | P. domestica, P. persica és P. salicina | 7.1. Fonálférgek 7.1.1. Longidorus attenuatus 7.1.2. Longidorus elongatus 7.1.3. Xiphinema diversicaudatum |
+| 7. | Juglans regia L. | 1. Fonálférgek |
 
-| 8. | Ribes L. | 8.1. Fonálférgek 8.1.1. Longidorus elongatus 8.1.2. Longidorus macrosoma 8.1.3.Xiphinema diversicaudatum |
+| 8. |  | 1.1. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
 
-| 9. | RubusL. | 9.1. Fonálférgek 9.1.1. Longidorus attenuatus 9.1.2. Longidorus elongatus 9.1.3. Longidorus macrosoma 9.1.4. Xiphinema diversicaudatum |
+| 9. | Olea europaea L. | 1. Fonálférgek |
+
+| 10. |  | 1.1. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
+
+| 11. | Pistacia vera L. | 1. Fonálférgek |
+
+| 12. |  | 1.1. Xiphinema index Thorne & Allén [XIPHIN] |
+
+| 13. | Prunus avium L. és Prunus cerasus L. | 1. Fonálférgek |
+
+| 14. |  | 1.1. Longidorus attenuatus Hooper [LONGAT] |
+
+| 15. |  | 1.2. Longidorus elongatus (de Man) Thorne & Swanger [LONGEL] |
+
+| 16. |  | 1.3. Longidorus macrosoma Hooper [LONGMA] |
+
+| 17. |  | 1.4. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
+
+| 18. | Prunus domestica L., Prunus persica (L.) Batsch és Prunus salicina Lindley | 1. Fonálférgek |
+
+| 19. |  | 1.1. Longidorus attenuatus Hooper [LONGAT] |
+
+| 20. |  | 1.2. Longidorus elongatus (de Man) Thorne & Swanger [LONGEL] |
+
+| 21. |  | 1.3. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
+
+| 22. | Ribes L. | 1. Fonálférgek |
+
+| 23. |  | 1.1. Longidorus elongatus (de Man) Thorne & Swanger [LONGEL] |
+
+| 24. |  | 1.2. Longidorus macrosoma Hooper [LONGMA] |
+
+| 25. |  | 1.3. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
+
+| 26. | Rubus L. | 1. Fonálférgek |
+
+| 27. |  | 1.1. Longidorus attenuatus Hooper [LONGAT] |
+
+| 28. |  | 1.2. Longidorus elongatus (de Man) Thorne & Swanger [LONGEL] |
+
+| 29. |  | 1.3. Longidorus macrosoma Hooper [LONGMA] |
+
+| 30. |  | 1.4. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
+
+[^21]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított szöveg.

@@ -8,7 +8,7 @@ b) a szaporítóanyag fenntartása az e rendeletben foglaltak szerint történik
 
 c) a szaporítóanyag megfelel az egészségi állapotra vonatkozó, e rendeletben meghatározott követelményeknek,
 
-d) a szaporítóanyag termesztési körülménye – a rovarmentesen termesztett prebázis anyanövény és szaporítóanyag kivételével – megfelel a talajra vonatkozó, e rendeletben meghatározott követelményeknek,
+d)[^2] a szaporítóanyag – a rovarmentesen termesztett prebázis anyanövény és szaporítóanyag kivételével – megfelel az 5. melléklet szerinti, a termesztési helyre, a termőhelyre vagy a területre vonatkozó követelményeknek,
 
 e) a szaporítóanyag megfelel a minőségi hibák tekintetében az e rendeletben meghatározott követelményeknek,
 
@@ -22,7 +22,7 @@ h) az oltvány szaporítási fokozatát az alacsonyabb szaporítási fokozatú k
 
 (3) A NÉBIH bázis szaporítóanyagként minősíti azokat a szaporítóanyagokat, amelyek megfelelnek az (1) bekezdésben foglaltaknak, továbbá prebázis szaporítóanyagból vagy bázis anyanövényből felszaporítással állították elő.
 
-(4) A C.A.C. szaporítóanyagnak is meg kell felelnie a 7. § (1) bekezdés a)–c) és e) pontjában nevesített feltételeknek, amit a szállítónak ellenőriznie kell.
+(4)[^3] A C.A.C. szaporítóanyagnak is meg kell felelnie a 7. § (1) bekezdés a)–e) pontjában nevesített feltételeknek, amit a szállítónak ellenőriznie kell.
 
 (5) A növénytermesztési hatáskörben eljáró járási hivatal certifikált szaporítóanyagként minősíti azokat az anyanövénytől eltérő szaporítóanyagokat, melyek megfelelnek az (1) bekezdésben foglaltaknak, továbbá prebázis, bázis szaporítóanyagból kerültek szaporításra.
 
@@ -43,3 +43,6 @@ a) patogén mentesítésre vagy továbbnevelésre vonatkozó intézkedéseket te
 b) köteles eltávolítani azt a többi anyanövény és szaporítóanyag közeléből.
 
 (12) Az eltávolított anyanövény vagy szaporítóanyag alacsonyabb kategóriájú vagy C.A.C. szaporítóanyagként felhasználható, amennyiben megfelel az adott kategóriára vonatkozóan meghatározott követelményeknek.
+
+[^2]: A 7. § (1) bekezdés d) pontja a 35/2020. (VI. 29.) AM rendelet 16. §-ával megállapított szöveg.
+[^3]: A 7. § (4) bekezdése a 35/2020. (VI. 29.) AM rendelet 22. § b) pontja szerint módosított szöveg.

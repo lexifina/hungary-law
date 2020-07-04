@@ -8,4 +8,8 @@ b) a 2008/90/EK irányelv hatálya alá tartozó gyümölcstermő növények sza
 
 c) a 2008/90/EK tanácsi irányelvnek a szállítók és a fajták nyilvántartásba vétele, valamint a közös fajtajegyzék tekintetében történő végrehajtásáról szóló, 2014. október 15-i, 2014/97/EU bizottsági végrehajtási irányelvnek, valamint
 
-d) a 2008/90/EK tanácsi irányelvnek az ugyanazon irányelv I. mellékletében említett gyümölcstermő növénynemzetségekre és növényfajokra vonatkozó különleges követelmények, a szállítók által teljesítendő különleges követelmények és a hivatalos vizsgálatokra vonatkozó részletes szabályok tekintetében történő végrehajtásáról szóló, 2014. október 15-i, 2014/98/EU bizottsági végrehajtási irányelvnek
+d) a 2008/90/EK tanácsi irányelvnek az ugyanazon irányelv I. mellékletében említett gyümölcstermő növénynemzetségekre és növényfajokra vonatkozó különleges követelmények, a szállítók által teljesítendő különleges követelmények és a hivatalos vizsgálatokra vonatkozó részletes szabályok tekintetében történő végrehajtásáról szóló, 2014. október 15-i, 2014/98/EU bizottsági végrehajtási irányelvnek,
+
+f)[^19] a 66/401/EGK, a 66/402/EGK, a 68/193/EGK, a 2002/55/EK, a 2002/56/EK és a 2002/57/EK tanácsi irányelvnek, a 93/49/EGK és a 93/61/EGK bizottsági irányelvnek, valamint a 2014/21/EU és a 2014/98/EU végrehajtási irányelvnek a vetőmagok és egyéb növényi szaporítóanyagok károsítói tekintetében történő módosításáról szóló, 2020. február 11-i 2020/177/EU bizottsági végrehajtási irányelvnek
+
+[^19]: Az 50. § f) pontját a 35/2020. (VI. 29.) AM rendelet 19. §-a iktatta be.
