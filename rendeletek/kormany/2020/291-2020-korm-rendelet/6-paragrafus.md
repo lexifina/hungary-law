@@ -8,7 +8,7 @@ b) a járványügyi elkülönítés, járványügyi megfigyelés, járványügyi
 
 c) a közegészségügyi-járványügyi veszélynek kitett személyek, az ilyen személlyel kapcsolatban álló vagy kapcsolatba került és ezért közegészségügyi-járványügyi szempontból veszélyeztetett személyek nyilvántartása
 
-## céljából.
+céljából.
 
 (2) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 5. § (3) bekezdése szerint kezelt személyes adatot az adatkezelő – a rendőrség járványügyi hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén a rendőrség részére haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.
 

@@ -44,7 +44,7 @@ a) elektronikus ügyintézés keretében cégkapuról vagy ügyfélkapuról megk
 
 b) cégkapu vagy ügyfélkapu igénybevételi lehetőségének hiányában a rendőrség internetes honlapján elérhető intelligens űrlap kitöltésével és beküldésével
 
-## nyújtható be.
+nyújtható be.
 
 (8) A kérelmet a rendőri szerv elutasítja, ha
 
@@ -58,6 +58,6 @@ bb) közbiztonsági vagy
 
 bc) nemzetbiztonsági
 
-## okból kockázatos.
+okból kockázatos.
 
 (9) A rendőri szerv határozatával szemben benyújtott fellebbezést a rendőri szerv irányítását ellátó megyei (fővárosi) rendőr-főkapitányság bírálja el.
