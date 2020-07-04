@@ -6,7 +6,7 @@
 
 ## 3. A termőhelyi körülményeknek és a növényállomány fejlettségi állapotának lehetővé kell tennie a fajtaazonosság, a fajtatisztaság és a növényegészségügyi státus megfelelő ellenőrzését.
 
-## 4. A vetőmag felhasználhatóságát csökkentő betegségek és kártékony biológiai káros élő szervezetek szintjének a lehető legalacsonyabbnak kell lennie.
+## 4. A vetőmagnak gyakorlatilag mentesnek kell lennie minden olyan károsítótól, amely csökkenti a növényi szaporítóanyag felhasználhatóságát és minőségét. A vetőmagnak meg kell felelnie továbbá a 2016/2031/EU európai parlamenti és tanácsi rendelet alapján elfogadott végrehajtási jogi aktusokban az uniós zárlati károsítókra, a védett zónás zárlati károsítókra és a vizsgálatköteles nemzárlati károsítókra meghatározott követelményeknek, valamint a 2016/2031/EU európai parlamenti és tanácsi rendelet 30. cikk (1) bekezdése alapján elfogadott intézkedéseknek.
 
 ## 5. Részletes feltételek:
 
@@ -1040,6 +1040,6 @@
 
 | ***** | Az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer egy-egy ellenőrzésen legfeljebb 0,5% lehet. |
 
-6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^235]
+6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^241]
 
-[^235]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a, a 47/2016. (VII. 15.) FM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^241]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a, a 47/2016. (VII. 15.) FM rendelet 9. § (1) bekezdése szerint módosított szöveg.

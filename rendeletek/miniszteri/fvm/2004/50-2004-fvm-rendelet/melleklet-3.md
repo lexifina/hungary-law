@@ -1,10 +1,10 @@
-3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^232]
+3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^238]
 
 ## A zöldség vetőmagvak minőségi feltételei
 
 1. A vetőmag fajtaazonosságának és fajtatisztaságának kielégítőnek kell lennie.
 
-2. A vetőmag felhasználhatóságát csökkentő betegségek és káros élő szervezetek szintjének a lehető legalacsonyabbnak kell lennie.
+2. A vetőmagnak gyakorlatilag mentesnek kell lennie minden olyan károsítótól, amely csökkenti a növényi szaporítóanyag felhasználhatóságát és minőségét. A vetőmagnak meg kell felelnie továbbá a 2016/2031/EU európai parlamenti és tanácsi rendelet alapján elfogadott végrehajtási jogi aktusokban az uniós zárlati károsítókra, a védett zónás zárlati károsítókra és a vizsgálatköteles nemzárlati károsítókra meghatározott követelményeknek, valamint a 2016/2031/EU európai parlamenti és tanácsi rendelet 30. cikk (1) bekezdése alapján elfogadott intézkedéseknek.
 
 3. A vetőmagnak eleget kell tennie az alábbi feltételeknek is:
 
@@ -98,20 +98,6 @@
 
 * szuperédes csemegekukorica fajták esetén a minimális csírázóképesség 80%, a vetőmag hatósági vagy szállítói címkéjén fel kell tüntetni a „Minimális csírázóképesség: 80%” szöveget.
 
-4. További követelmények
+4. A zöldségvetőmagon a vizsgálatköteles nemzárlati károsítók mennyisége – legalább vizuális vizsgálat alapján – nem haladhatja meg a 2019/2072/EU bizottsági végrehajtási rendelet IV. melléklet F. részében foglalt táblázatban meghatározott küszöbértéket.
 
-4.1. A hüvelyesek magja nem lehet fertőzött az alábbi élő rovarokkal:
-
-Acanthoscelides obtectus Sag.
-
-Bruchus affinis Froel.
-
-Bruchus atomarius L.
-
-Bruchus pisorum L.
-
-Bruchus rufimanus Boh.
-
-4.2. A vetőmag nem lehet élő Acarina által fertőzött.
-
-[^232]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^238]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése, a 35/2020. (VI. 29.) AM rendelet 6. § (1) bekezdése szerint módosított szöveg.

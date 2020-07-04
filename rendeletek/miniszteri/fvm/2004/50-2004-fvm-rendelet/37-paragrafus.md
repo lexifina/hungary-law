@@ -1,10 +1,10 @@
 ## Ellenőrzés, jogkövetkezmények
 
-37. § (1)[^201] A törvényben és e rendeletben foglaltak folyamatos betartásának biztosítása érdekében a NÉBIH, illetve a járási hivatal ellenőrzést végezhet minden olyan helyen, ahol a vetőmag és palánta előállítását, feldolgozását, kezelését, kiszerelését, tárolását, valamint vizsgálatát végzik, továbbá ahol vetőmagot és palántát forgalomba hoznak, árusítanak vagy felhasználnak.
+37. § (1)[^205] A törvényben és e rendeletben foglaltak folyamatos betartásának biztosítása érdekében a NÉBIH, illetve a járási hivatal ellenőrzést végezhet minden olyan helyen, ahol a vetőmag és palánta előállítását, feldolgozását, kezelését, kiszerelését, tárolását, valamint vizsgálatát végzik, továbbá ahol vetőmagot és palántát forgalomba hoznak, árusítanak vagy felhasználnak.
 
-(2)[^202] Az ellenőrzés során a NÉBIH, illetve a járási hivatal a törvény és jelen rendelet előírásai szerint jár el, és megállapításairól a helyszínen hatósági jegyzőkönyvet készít.
+(2)[^206] Az ellenőrzés során a NÉBIH, illetve a járási hivatal a törvény és jelen rendelet előírásai szerint jár el, és megállapításairól a helyszínen hatósági jegyzőkönyvet készít.
 
-(3)[^203] A NÉBIH és a járási hivatalnak ellenőrzést végző munkatársa jogosultságát az erre a célra rendszeresített fényképes igazolvánnyal igazolja és az ellenőrzés során jogosult.
+(3)[^207] A NÉBIH és a járási hivatalnak ellenőrzést végző munkatársa jogosultságát az erre a célra rendszeresített fényképes igazolvánnyal igazolja és az ellenőrzés során jogosult.
 
 a) a szaporítóanyagok nyilvántartásával, forgalmazásával, felhasználásával kapcsolatos iratokba, számlákba betekinteni, azok valódiságát vizsgálni, róluk másolatot készíteni, bekérni, amely adatokat köteles az üzemi és üzleti titokra vonatkozó rendelkezések betartásával kezelni,
 
@@ -22,9 +22,9 @@ g) a vetőmag- és palánta-árusítást ellenőrizni,
 
 h) a saját jogon végzett szántóföldi ellenőrzést, mintavételt, palánta minősítő tevékenységet ellenőrizni, a kiszerelési tevékenységet felülvizsgálni.
 
-(4)[^204] A NÉBIH köteles kidolgozni a fajtaazonosság és fajtatisztaság megállapításának, valamint a mintavétel módszereinek részletes követelményeit. Ezek a követelmények nyilvánosak, az érintettek részére biztosítani kell az ezekbe való betekintés lehetőségét.
+(4)[^208] A NÉBIH köteles kidolgozni a fajtaazonosság és fajtatisztaság megállapításának, valamint a mintavétel módszereinek részletes követelményeit. Ezek a követelmények nyilvánosak, az érintettek részére biztosítani kell az ezekbe való betekintés lehetőségét.
 
-[^201]: A 37. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
-[^202]: A 37. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
-[^203]: A 37. § (3) bekezdés nyitó szövegrésze a 14/2011. (II. 24.) VM rendelet 14. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 3. pontja szerint módosított szöveg.
-[^204]: A 37. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
+[^205]: A 37. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
+[^206]: A 37. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
+[^207]: A 37. § (3) bekezdés nyitó szövegrésze a 14/2011. (II. 24.) VM rendelet 14. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 3. pontja szerint módosított szöveg.
+[^208]: A 37. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
