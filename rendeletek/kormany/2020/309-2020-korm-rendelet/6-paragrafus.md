@@ -1,1 +1,3 @@
-## 5. § Az Átr. a 3. melléklet szerinti 3. melléklettel egészül ki.
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
