@@ -352,33 +352,37 @@
 
 | Elővetemény-korlátozás: | A megelőző évben nem termesztettek azonos vagy rokon fajú növényt. |
 
-| A mintatér nagysága: | 100 m2/ kivéve Fusarium fujikuroi fertőzöttség vizsgálata esetén 200m2* |
+| A mintatér nagysága: | 100 m2 |
 
 | A mintaterek száma: | 20 ha-ig: 4 db, utána minden megkezdett 10 ha után: 2 db. |
 
 | Egyéb követelmények: | Egy kalitkán belül eltérő fajtájú és szaporítási fokú rizs nem szaporítható, kivéve, ha a keveredés mentesség valamely módon megoldható. Hibridfajták esetén a izolációs távolság más rizsfajtáktól 25 méter. |
 
-| A vizsgálat tárgya | Egység | SE | Elit | I. | II. |
+|  | A | B | C | D | E | F |
 
-|  |  | szaporítási fok |
+| 1. | A vizsgálat tárgya | Egység | SE szaporítási fok | Elit szaporítási fok | I. szaporítási fok | II. szaporítási fok |
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
+| 2. | 1. Elválasztó sáv más fajtától és egyéb gabonától, legalább | M | 2 | 2 | 2 | 2 |
 
-| Elválasztó sáv más fajtától és egyéb gabonától, legalább | M | 2 |
+| 3. | 2. Gyomosság, legfeljebb | minősítő szám | 2 | 2 | 2 | 2 |
 
-| Gyomosság, legfeljebb | minősítő szám | 2 |
+| 4. | 3. Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 | 3 | 3 | 3 |
 
-| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
+| 5. | 4. Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 0 | 0,3 | 2 | 4 |
 
-| Idegen fajta a mintaterek átlagában, legfeljebb | növény db | 0 | 0,3 | 2 | 4 |
+| 6. | 5. Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb vadrizs vagy olyan növény, amely vörös ezüsthártyájú maggal rendelkezik | növény db | 0 | 0 | 1 | 1 |
 
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, legfeljebb vadrizs vagy olyan növény, mely vörös ezüsthártyájú maggal rendelkezik | 0 | 0 | 1 | 1 |
+| 7. | 6. Vadon termő vagy vörös magvú növények legfeljebb | növény db | – | 0 | 1 | 1 |
 
-| Gombabetegségek, a mintaterek átlagában, legfeljebb Rizsbarnulás /Bruzóne/ (Pyricularia oryzae) | % | 0,2 | 0,5 | 1 | 1 |
+| 8. | 7. Vizsgálatköteles nemzárlati károsítók vagy vizsgálatköteles nemzárlati károsítók által okozott tünetek | ültetésre szánt növények (nemzetség vagy faj) |  |  |  |  |
 
-| Fusarium fujikuroi fertőzöttség legfeljebb* | növény db | – | 2 | 4 | 8 |
+| 9. | 7.1. Fonálférgek |  |  |  |  |  |
 
-| Vadon termő vagy vörös magvú növények legfeljebb | növény db | – | 0 | 1 |
+| 10. | 7.1.1. Aphelenchoides besseyi Christie [APLOBE] |  | 0 | 0 | 0 | 0 |
+
+| 11. | 7.2. Gombák |  |  |  |  |  |
+
+| 12. | 7.2.1. Gibberella fujikuroi Sawada [GIBBFU] |  | Gyakorlatilag mentes | Gyakorlatilag mentes | Gyakorlatilag mentes | Gyakorlatilag mentes |
 
 ## 4. Fénymag (Phalaris canariensis L.)
 
@@ -1282,7 +1286,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^203]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^205]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1450,4 +1454,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^203]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^205]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.

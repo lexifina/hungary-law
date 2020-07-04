@@ -1,1 +1,1 @@
-## való megfelelést szolgálja.
+## végrehajtásához szükséges rendelkezéseket állapítja meg.
