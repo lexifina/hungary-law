@@ -372,7 +372,7 @@ Takácsatkák (Tetranychus fajok): a levél a szivogatások hatására fakul, ma
 
 Cserebogarak: a gyökéren és a gyökértörzsön a pajorok rágása következtében szabálytalan sérülések láthatók.
 
-9.[^80] Laboratóriumi vizsgálatok
+9.[^84] Laboratóriumi vizsgálatok
 
 Laboratóriumi vizsgálatot bármely érdekelt fél a károsítók meghatározására és a vegyszerszennyezettség megállapítására a növény- és talajvédelmi hatáskörben eljáró járási hivataltól, a nedvességtartalom és a szénhidráttartalom vizsgálata céljából a NÉBIH-től kérhet.
 
@@ -384,9 +384,9 @@ A szaporítóanyag laboratóriumi vizsgálatát hatósági ellenőrzés vagy min
 
 – a szaporítóanyag szikkadt.
 
-10.[^81] Ellenőrző termesztés
+10.[^85] Ellenőrző termesztés
 
 Ellenőrző termesztést bármely érdekelt fél a NÉBIH-től kérhet. A kitermesztést a NÉBIH Fajtakitermesztő Állomása (Monorierdő) végzi.
 
-[^80]: A 9. számú melléklet 9. pontja a 70/2013. (VII. 31.) VM rendelet 59. § u) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 26. pontja szerint módosított szöveg.
-[^81]: A 9. számú melléklet 10. pontja a 70/2013. (VII. 31.) VM rendelet 59. § s) és u) pontja szerint módosított szöveg.
+[^84]: A 9. számú melléklet 9. pontja a 70/2013. (VII. 31.) VM rendelet 59. § u) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 26. pontja szerint módosított szöveg.
+[^85]: A 9. számú melléklet 10. pontja a 70/2013. (VII. 31.) VM rendelet 59. § s) és u) pontja szerint módosított szöveg.

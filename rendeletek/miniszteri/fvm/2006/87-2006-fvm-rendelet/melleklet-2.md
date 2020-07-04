@@ -4,7 +4,7 @@
 
 I. Általános feltételek
 
-1.[^67] A szaporítóanyagnak igazolt származásúnak kell lennie, a NÉBIH és a növény- és talajvédelmi hatáskörben eljáró járási hivatal, illetve valamely tagállam illetékes hatósága által szaporítás céljára elfogadott állományból származzon.
+1.[^70] A szaporítóanyagnak igazolt származásúnak kell lennie, a NÉBIH és a növény- és talajvédelmi hatáskörben eljáró járási hivatal, illetve valamely tagállam illetékes hatósága által szaporítás céljára elfogadott állományból származzon.
 
 2. A szaporítóanyagnak fajtaazonosnak és fajtatisztának, és szükség esetén klóntisztának kell lennie, standard szaporítóanyag forgalmazásakor 1%-os fajtakeveredés megengedett.
 
@@ -20,9 +20,7 @@ c) az alábbi III. pontban meghatározott követelményeknek nem megfelelő szap
 
 4. A vesszők kielégítő beéredést mutatnak. A fa-bél arány a fajtának megfelelő.
 
-5. A szaporítóanyag értékét csökkentő károsító szervezetek jelenléte a lehető legalacsonyabb szinten legyen.
-
-A hatékonyan nem kezelhető, károsító szervezeteknek tulajdonítható egyértelmű jeleket vagy tüneteket mutató szaporítóanyagot el kell távolítani.
+5.[^71] A növényi szaporítóanyagnak gyakorlatilag mentesnek kell lennie minden olyan károsítótól, amely csökkenti a növényi szaporítóanyag felhasználhatóságát és minőségét. A növényi szaporítóanyagnak meg kell felelnie a 2016/2031/EU európai parlamenti és tanácsi rendelet alapján elfogadott végrehajtási jogi aktusokban az uniós zárlati károsítókra és a védett zónás zárlati károsítókra meghatározott követelményeknek, valamint az említett rendelet 30. cikk (1) bekezdése alapján elfogadott intézkedéseknek is.
 
 II. Különleges feltételek
 
@@ -130,4 +128,5 @@ B) Nyugalmi állapotban levő ültetési anyagoknak meg kell felelniük a III. p
 
 Az in vitro szaporítás során előállított szaporítóanyagoknak – a vessző átmérője kivételével – az in vivo (hagyományos) továbbnevelés után meg kell felelniük a III. pont 2–4. alpontban előírt követelményeknek.
 
-[^67]: A 2. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg. [A 2. számú melléklet I. pont 1. alpontjában a 42/2017. (VIII. 17.) FM rendelet 89. § 22. pontjával elrendelt módosítás, amely szerint a „növény és talajvédelmi igazgatóság” szövegrész helyébe a „növénytermesztési hatáskörben eljáró járási hivatal” szöveg lép, nem vezethető át.]
+[^70]: A 2. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg. [A 2. számú melléklet I. pont 1. alpontjában a 42/2017. (VIII. 17.) FM rendelet 89. § 22. pontjával elrendelt módosítás, amely szerint a „növény és talajvédelmi igazgatóság” szövegrész helyébe a „növénytermesztési hatáskörben eljáró járási hivatal” szöveg lép, nem vezethető át.]
+[^71]: A 2. számú melléklet I. pont 5. alpontja a 35/2020. (VI. 29.) AM rendelet 11. § (2) bekezdésével megállapított szöveg.
