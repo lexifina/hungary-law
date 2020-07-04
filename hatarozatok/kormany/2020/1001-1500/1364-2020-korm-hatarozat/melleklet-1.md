@@ -16,15 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## 3.1. D:524 mezőjében a „0,23” szövegrész helyébe a „0,25” szöveg,
-
-## 3.2. D:541 mezőjében a „0,19” szövegrész helyébe a 0,30” szöveg,
-
-## 3.3. D:573a mezőjében a „0,26” szövegrész helyébe a „0,27” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1364/2020. (VII. 2.) Korm. határozathoz
 
@@ -39,3 +31,5 @@
 | 4. | KEHOP– 5.2.2-16- 2017-00119 | Bársony István Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium épületeinek energetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Bársony István Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium | 260 000 000 | – | 260 000 000 | +5 623 632 | +37 606 799 | +43 230 431 | 265 623 632 | 37 606 799 | 303 230 431 | A projekt a Bársony István Mezőgazdasági Szakgimnázium, Szakközépiskola és Kollégium 6640 Csongrád, Szentesi út 2/a, hrsz. 4221 épületét érinti. Ezen épület az építési kornak megfelelő technológiai színvonalon épült, de a határolószerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épület jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, villamos energiát termelő napelemrendszer telepítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
 
 | 5. | KEHOP– 5.2.2-16- 2016-00062 | Ózdi Szakképzési Centrum Bródy Imre Szakgimnáziuma energetikai korszerűsítése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Ózdi Szakképzési Centrum | 190 000 000 | – | 190 000 000 | +104 375 200 | +12 920 636 | +117 295 836 | 294 375 200 | 12 920 636 | 307 295 836 | A projekt az Ózdi Szakképzési Centrum Bródy Imre Szakgimnáziuma 3600 Ózd, Petőfi Sándor utca 20., hrsz. 1185 épületeit érinti. Ezen épületek az építési kornak megfelelő technológiai színvonalon épültek, de a határolószerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épületszerkezettani követelményeinek, így az épületek jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését, valamint egy napenergiát hasznosító villamos energiát termelő napelemrendszer telepítését tartalmazza a hatályos 7/2006. (V. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
