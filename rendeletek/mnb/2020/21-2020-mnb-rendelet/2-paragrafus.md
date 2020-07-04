@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 23,7 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján Szinyei Merse Pál: Léghajó című festménye alapján készült ábrázolás látható. Az ábrázolás alatti három vízszintes sorban a „MAGYARORSZÁG” felirat, a „2000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme szélén, fent, az ábrázolásba ágyazva, bal oldalon a „BP.” verdejel, jobb oldalon a „2020” verési évszám olvasható. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Szinyei Merse Pál: Önarckép bőrkabátban című festménye alapján készült ábrázolás látható. Az emlékérme szélén, az ábrázolásba ágyazva, bal oldalon, két függőleges sorban az „1845–1920” és a „SZINYEI MERSE PÁL” felirat olvasható, jobb oldalon, lent Szanyi Borbála tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
