@@ -1,7 +1,3 @@
-## 20. § A 14/2017. (III. 23.) FM rendelet 51. §-a helyébe a következő rendelkezés lép:
+## 20. §[^21]
 
-## „51. § E rendelet a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
-
-21. § (1) A 14/2017. (III. 23.) FM rendelet 2. számú melléklete helyébe a 9. melléklet lép.
-
-(2) A 14/2017. (III. 23.) FM rendelet 5. számú melléklete helyébe a 10. melléklet lép.
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

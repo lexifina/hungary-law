@@ -1,3 +1,3 @@
-## „(7) A szaporítóanyagra vonatkozó vizuális ellenőrzést és – gyanú esetén – mintavételt a 2. melléklet 1. és 2. pontja szerinti károsítók esetében a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal és a szállító, C.A.C. szaporítási fok esetén a szállító végzi. A laboratóriumi vizsgálatot az 5. melléklet meghatározottaknak megfelelően a NÉBIH végzi. A NÉBIH a laboratóriumi vizsgálat elvégzése céljából igénybe vehet hatósági laboratóriumi hálózaton kívüli laboratóriumi szolgáltatást.
+## 17. §[^18]
 
-## (8) A vizuális ellenőrzés során a 2. melléklet 1. és 2. pontja szerinti károsítók jelenléte vagy annak gyanúja esetén minden esetben mintát kell venni az érintett növényből laboratóriumi vizsgálat céljából.”
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

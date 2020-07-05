@@ -1,3 +1,3 @@
-## 18. § A 14/2017. (III. 23.) FM rendelet 16. §-a az alábbi (3a) bekezdéssel egészül ki:
+## 18. §[^19]
 
-## „(3a) A (3) bekezdéstől eltérően certifikált (tanúsított) ültetési anyagok esetében nem szükséges a mintavételt és a tesztelést elvégezni.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
