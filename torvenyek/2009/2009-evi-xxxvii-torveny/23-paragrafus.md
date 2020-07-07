@@ -2,7 +2,7 @@
 
 (2) Az erdészeti hatóság az erdő rendeltetését
 
-a) országos jelentőségű védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
+a) védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
 
 b) erdészeti génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
 
@@ -10,7 +10,7 @@ c) honvédelmi rendeltetés esetén a honvédelemért felelős miniszter által 
 
 d) határrendészeti rendeltetés esetén a rendészetért felelős miniszter kijelölése alapján,
 
-e) Natura 2000 rendeltetés esetén az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet, valamint az erdő elhelyezkedése és természetességi állapota alapján a közösségi jelentőségű és a kiemelt közösségi jelentőségű jelölő erdei élőhelyeken,
+e) Natura 2000 rendeltetés esetén az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet, valamint az erdő természetességi állapota alapján,
 
 f) talajvédelmi rendeltetés esetén az erdő elhelyezkedése alapján
 
@@ -46,9 +46,9 @@ m) az érintett települési önkormányzat jegyzője
 
 is kezdeményezheti.
 
-(4) Ha az erdő rendeltetésének a megállapítására a (3) bekezdésben foglaltak szerint közérdekből kerül sor, a rendeltetés fennállása alatt az erdőgazdálkodó az ebből eredő kárának és többletköltségének megtérítésére jogosult. A kezdeményező köteles a kár és a többletköltség elemeiről, mértékéről, megfizetésének módjáról az erdőgazdálkodóval megállapodni, és a megállapodást a rendeltetés megállapításának kezdeményezéskor az erdészeti hatóság számára bemutatni.
+(4) Ha az erdő rendeltetésének a megállapítására a (3) bekezdésben foglaltak szerint közérdekből kerül sor, a rendeltetés fennállása alatt az erdőgazdálkodó az ebből eredő kárának és többletköltségének megtérítésére jogosult.
 
-(5) Fokozottan védett természeti területen található erdőnek gazdasági, valamint vadaspark további rendeltetése, honvédelmi elsődleges rendeltetésű erdőnek közjóléti, valamint tanerdő további rendeltetése nem lehet.
+(5) Védett természeti területen található erdőnek gazdasági, valamint vadaspark további rendeltetése, honvédelmi elsődleges rendeltetésű erdőnek közjóléti, valamint tanerdő további rendeltetése nem lehet.
 
 (6) Az erdészeti hatóság törli az erdő érintett rendeltetését
 

@@ -30,7 +30,7 @@ m) örökségvédelmi: a történelmi emlékhely területén levő, illetve a ku
 
 n) bányászati: a bányák biztonsági övezetében lévő, bányaszakadásos, földomlásos, földcsuszamlásos, veszélyeztetett területen lévő erdő;
 
-o) Natura 2000: a Natura 2000 hálózat részeként kijelölt területeken lévő, közösségi jelentőségű vagy kiemelt közösségi jelentőségű, jelölő erdei élőhelynek minősülő, és a 7. § (1) bekezdés a)–b) pontjában foglalt természetességi állapotú erdő;
+o) Natura 2000: a Natura 2000 hálózat részeként kijelölt területeken lévő erdő;
 
 p) különleges védelmi rendeltetések:
 

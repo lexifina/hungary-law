@@ -18,12 +18,6 @@ c) az erdőfelújítási kötelezettségre vonatkozó előírást alapul véve t
 
 erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
 
-(3) Az erdészeti hatóság az erdőtervben vagy annak módosítása során lehetővé teheti a tarvágást a (2) bekezdés szerinti erdőben, ha az
-
-a) termőhelyi vagy erdővédelmi okból, vagy
-
-b) a természetes újulat megőrzése – sarj eredetű felújítás esetén megtelepedése – érdekében
-
-indokolt.
+(3)
 
 (4) Az állam 100%-os tulajdonában álló erdőre, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó természetvédelmi vagy árvízvédelmi indokból jogszabályban vagy határozatban jogszerűen elrendelt korlátozás – e törvény eltérő rendelkezése hiányában – kártalanítási igényt nem keletkeztet.
