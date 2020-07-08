@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-12-20-2
 | 2017-01-01 | 2015-12-20-2X.4 | 47/2015. (XII. 30.) NGM rendelet |
 | 2017-11-07 | 2015-12-20-2X.5 | 37/2017. (XI. 6.) NGM rendelet |
 | 2019-01-01 | 2015-12-20-2X.6 | 18/2018. (XII. 20.) PM rendelet |
+| 2020-07-08 | 2015-12-20-2X.7 | 4/2020. (VI. 30.) PM rendelet |
