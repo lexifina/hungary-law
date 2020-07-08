@@ -1,0 +1,17 @@
+## 2. § Az Erzsébet a Kárpát-medencei Gyermekekért Alapítvány mint az Ettv. 3. § (1) bekezdése szerinti táborszervező (a továbbiakban: táborszervező) az 1. § szerinti tábortípusok keretén belül az alábbi táboroztatási szolgáltatásokat nyújtja:
+
+a) a Családi Erzsébet-tábor keretében családok részére nyújt táboroztatási szolgáltatást azzal, hogy több napon át egy vagy több táborhelyen szállást, a tábor napi időtartamához igazodó számú étkeztetést és családi szabadidős programot biztosít,
+
+b) a Napközi Erzsébet-tábor keretében – az oktatási azonosítószámmal rendelkező köznevelési intézmények, a kötelező közművelődési feladatot ellátó intézmények, valamint a család- és gyermekjóléti szolgálatok és központok (a továbbiakban együtt: együttműködő partnerek) bevonásával – napközbeni felügyeletet, szemléletformáló, kompetenciafejlesztő és szabadidős programokat, valamint a tábor napi időtartamához igazodó számú étkeztetést biztosít, elsősorban a köznevelési intézmények gyermekcsoportjai részére, a gyermekek lakóhelyén vagy annak vonzáskörzetében, egy vagy több helyszínen nyújtott gyermektáboroztatási szolgáltatásként,
+
+c) az Ottalvós Erzsébet-tábor keretében több napon át éjszakai ott-tartózkodást is magában foglaló, folyamatos felügyeletet, egy vagy több táborhelyen szállást, a tábor napi időtartamához igazodó számú étkeztetést, valamint kompetenciafejlesztő és szabadidős programokat biztosít, elsősorban a köznevelési intézmények gyermekcsoportjai részére nyújtott gyermektáboroztatási szolgáltatásként,
+
+d) az Erdélyi Erzsébet-tábor keretében az Erdélyi Erzsébet-tábor elnevezésű táborhelyen több napon át éjszakai ott-tartózkodást is magában foglaló, folyamatos felügyeletet, a tábor napi időtartamához igazodó számú étkeztetést, valamint kompetenciafejlesztő és szabadidős, kiemelten a magyarságtudat, továbbá az anyaországról és a határon túlról érkező táborozók közötti kapcsolat erősítését célzó programokat biztosít a Magyarországon és az Erdélyben működő, az anyaországgal való kapcsolattartás elősegítésének érdekében a Kárpát-medencében élő gyermekek művelődésével, magyar identitásuk megőrzésével kiemelten foglalkozó intézmények, elsősorban köznevelési intézmények gyermekcsoportjai részére nyújtott gyermektáboroztatási szolgáltatásként,
+
+e) a Gyógyító Szent Erzsébet-tábor keretében az együttműködő partnerei bevonásával egészségügyi intézmények ellátotti körébe tartozó, betegséggel élő, betegségből gyógyuló gyermekek csoportjai részére egy vagy több, a táborozók speciális igényeinek megfelelő felszereltségű táborhelyen több napon át éjszakai ott-tartózkodást is magában foglaló, folyamatos felügyeletet, a tábor napi időtartamához igazodó számú étkeztetést, valamint a gyermekek egészségi állapotának megfelelő kompetenciafejlesztő és szabadidős programokat biztosít gyermektáboroztatási szolgáltatásként,
+
+f) a Diabétesz Erzsébet-tábor keretében – az együttműködő partnerek bevonásával – egészségügyi intézmények ellátotti körébe tartozó, 1-es típusú diabétesszel élő gyermekek csoportjai részére edukációs, szemléletformáló, kompetenciafejlesztő és szabadidős programokat biztosít gyermektáboroztatási szolgáltatásként azzal, hogy ezen belül
+
+fa) ottalvós táborok formájában több napon át éjszakai ott-tartózkodást is magában foglaló, folyamatos felügyeletet, egy vagy több táborhelyen szállást, a tábor napi időtartamához igazodó számú étkeztetést is nyújt, vagy
+
+fb) napközi táborok formájában napközbeni felügyeletet, valamint a tábor napi időtartamához igazodó számú étkeztetést is nyújt.

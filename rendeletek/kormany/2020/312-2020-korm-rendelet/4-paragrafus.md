@@ -1,0 +1,1 @@
+## 3. § A táborszervező évente Erzsébet-karácsony néven rendezvénysorozatot szervez, amelynek keretében elsősorban a köznevelési intézmények hátrányos, halmozottan hátrányos helyzetű, továbbá a hátrányos helyzetű térségekből érkező gyermekcsoportjai részére kulturális programokhoz történő hozzáférést és a programok időtartamához igazodó számú étkeztetést biztosít.
