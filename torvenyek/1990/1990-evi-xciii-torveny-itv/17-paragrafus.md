@@ -44,6 +44,8 @@ u) a csődegyezség keretében, valamint a felszámolási eljárásban a követe
 
 v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés,
 
+w) az ajándékozó testvére által megszerzett ajándék;
+
 z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;
 
 zs) az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.

@@ -18,7 +18,9 @@ g) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), v
 
 h) az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír megszerzése;
 
-i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), valamint túlélő házastársa által megszerzett örökrész.
+i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), valamint túlélő házastársa által megszerzett örökrész;
+
+j) az örökhagyó testvére által megszerzett örökrész.
 
 (2a) Az (1) bekezdés g) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
