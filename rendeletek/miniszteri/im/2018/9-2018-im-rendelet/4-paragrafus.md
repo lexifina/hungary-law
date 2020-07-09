@@ -12,4 +12,6 @@ d) a büntetőeljárás során alkalmazott vagyoni jellegű joghátrány és az 
 
 e) a polgári ügyben eljáró bíróság által kiszabott pénzbírság, alapos végrehajtási kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségből származó követelés, valamint a közjegyző által kiszabott pénzbírság előírása és beszedése.
 
-(2) A GH illetékessége kiterjed arra a bíróságra, amelynek szervezetében működik, továbbá a törvényszék területén működő járásbíróságra, közigazgatási és munkaügyi bíróságra, ügyészségre, valamint a törvényszék területén székhellyel rendelkező közjegyzőre.
+(2)[^1] A GH illetékessége kiterjed arra a bíróságra, amelynek szervezetében működik, továbbá a törvényszék területén működő járásbíróságra, ügyészségre, valamint a törvényszék területén székhellyel rendelkező közjegyzőre.
+
+[^1]: A 4. § (2) bekezdése a 9/2020. (VII. 8.) IM rendelet 9. §-a szerint módosított szöveg.
