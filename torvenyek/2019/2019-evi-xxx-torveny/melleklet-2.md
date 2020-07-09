@@ -160,7 +160,7 @@ IX.KER.
 
 |
 
-kollégium
+Kollégium
 
 |
 
