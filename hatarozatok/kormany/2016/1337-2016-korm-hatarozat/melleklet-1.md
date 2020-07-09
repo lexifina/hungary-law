@@ -104,9 +104,12 @@
 
 ## Határidő: 2017. november 30.
 
-1. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz[^4]
+## 11.[^4] a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 87. § (1e) bekezdés a) pont ab) alpontjában foglaltakra tekintettel egyetért azzal, hogy a 2. mellékletben foglalt táblázat E:4–E:8 és F:4–F:8 mezőjében meghatározott források közötti átcsoportosítást Kőszeg Város Önkormányzata kérelmére a TOP végrehajtásának felelőse engedélyezheti.
+
+1. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz[^5]
 
 [^1]: Az 1. pont az 1617/2016. (XI. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^2]: A 2. pont d) alpontja az 1145/2017. (III. 20.) Korm. határozat 3. pontjával megállapított szöveg.
 [^3]: A 3. pont a) alpontja az 1617/2016. (XI. 8.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: Az 1. melléklet az 1617/2016. (XI. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: A 11. pontot az 1374/2020. (VII. 9.) Korm. határozat iktatta be.
+[^5]: Az 1. melléklet az 1617/2016. (XI. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
