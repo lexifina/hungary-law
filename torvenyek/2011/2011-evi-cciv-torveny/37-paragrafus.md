@@ -34,7 +34,7 @@ b) szervezeti egység vezetői és vezetőhelyettesei.
 
 (6) A magasabb vezetői és a vezetői megbízás a hatvanötödik életév betöltéséig szólhat. Ha a rektori pályázat kiírása napján a pályázó még nem töltötte be a hatvanötödik életévét, de azt a pályázat kiírásától a megbízás pályázatban kiírt időtartama végéig betölti, akkor vezetői megbízása – a (3) és (4) bekezdésben foglaltaktól eltérően – további egy alkalommal meghosszabbítható.
 
-(7) Az (1)–(6) bekezdésben foglaltakat a munka törvénykönyve hatálya alá tartozó munkáltatónál azzal az eltéréssel kell alkalmazni, hogy a vezetői megbízás alatt vezető állású munkavállalót kell érteni.
+(7)
 
 (8) A főiskolai rektor és az egyetemi rektor megbízásával és felmentésével kapcsolatos eljárásra a 29. § (3) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a főiskolai rektor megbízására, felmentésére a miniszterelnök jogosult.
 

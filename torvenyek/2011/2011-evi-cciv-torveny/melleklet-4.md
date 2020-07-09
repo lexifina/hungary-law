@@ -223,5 +223,3 @@ c) lakóhelye
 d) elérhetősége
 
 e) a felsőfokú képzésére vonatkozó adatok
-
-f) érettségi éve
