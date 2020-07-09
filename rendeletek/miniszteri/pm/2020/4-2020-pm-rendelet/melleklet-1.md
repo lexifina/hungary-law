@@ -1,3 +1,5 @@
+## 6. §[^1]
+
 1. melléklet a 4/2020. (VI. 30.) PM rendelethez
 
 A nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
@@ -169,3 +171,5 @@ C) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 1.13. az adatvédelmi tisztviselő,
 
 1.14. a miniszterelnök elhelyezését biztosító épületbe állandó belépési engedéllyel rendelkező, szolgáltatási tevékenységet ellátó valamennyi személy munkaköre.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
