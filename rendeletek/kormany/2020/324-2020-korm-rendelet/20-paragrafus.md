@@ -1,0 +1,1 @@
+## 19. § A Magyar Értéktárban nyilvántartott kiemelkedő nemzeti értékek megnevezését a HB a nyilvántartásba vételt követő 8 napon belül a Htv. 17. § (1) bekezdés d) pontja szerinti honlapon közzéteszi.

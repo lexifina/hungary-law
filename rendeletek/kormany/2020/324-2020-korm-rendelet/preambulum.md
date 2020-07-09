@@ -1,0 +1,1 @@
+A Kormány a magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény 19. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
