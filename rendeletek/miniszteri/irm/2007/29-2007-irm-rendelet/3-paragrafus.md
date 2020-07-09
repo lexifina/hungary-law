@@ -22,17 +22,7 @@ d) a határozat sorszámát
 
 ## kell feltüntetni azzal, hogy a jogegységi határozat megjelölésében „/” jellel elválasztva több jogterület is feltüntethető.
 
-(3) Az elvi bírósági határozat megjelölésében sorrendben
-
-a) az „E” jelölést,
-
-b) a jogterületet,
-
-c) a határozathozatal évét és
-
-d) a határozat sorszámát
-
-## kell feltüntetni.
+(3)[^3]
 
 (4) A kollégiumi vélemények megjelölésében sorrendben
 
@@ -45,3 +35,5 @@ c) a jogterületet,
 d) a határozathozatal évét és
 
 e) a határozat sorszámát
+
+[^3]: A 3. § (3) bekezdését a 9/2020. (VII. 8.) IM rendelet 3. § (2) bekezdés a) pontja hatályon kívül helyezte.
