@@ -1,0 +1,1 @@
+1. § A bűncselekménnyel okozott kár, illetve sérelemdíj megtérítése iránt indított gyorsított perben (a továbbiakban: gyorsított per) a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
