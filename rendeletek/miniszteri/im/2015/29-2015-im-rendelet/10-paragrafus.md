@@ -6,7 +6,7 @@ b) az a) pont szerinti esetben az örökös törlesztési kötelezettségének s
 
 c) arról, ha örökségben vagy más – halál esetére szóló rendelkezés alapján járó – juttatásban részesült, és a juttatást vagy a hagyatékátadó végzést kézhez kapta,
 
-d)[^3] arról, ha a jelzáloghitel törlesztőrészletéhez az adósságrendezésben részt vevő természetes személyek lakhatási feltételeinek megtartása céljából nyújtott törlesztési támogatásról szóló 274/2015. (IX. 21.) Korm. rendelet szerinti állami törlesztési támogatás iránti igényét a hitelintézet elfogadta, vagy ha a kérelem hitelintézet általi elutasítása esetén a kérelmének elsőfokon a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró illetékes járási hivatal, vagy pedig másodfokon a Magyar Államkincstár központja helyt adott,
+d)[^3] arról, ha a jelzáloghitel törlesztőrészletéhez az adósságrendezésben részt vevő természetes személyek lakhatási feltételeinek megtartása céljából nyújtott törlesztési támogatásról szóló 274/2015. (IX. 21.) Korm. rendelet szerinti állami törlesztési támogatás iránti igényét a hitelintézet elfogadta, vagy ha a kérelem hitelintézet általi elutasítása esetén kérelmének közigazgatási hatósági eljárásban vagy közigazgatási perben helyt adtak,
 
 e) arról, ha az adósságrendezési kötelezettsége teljesítéséhez munkáltatótól, közhasznú szervezettől, önkormányzattól, egyházi jogi személytől pénzbeli vagy vagyoni támogatást, adományt kapott,
 
@@ -32,5 +32,5 @@ l) az Are. tv., valamint az adósságrendezési egyezség vagy az adósságtörl
 
 (2) Az (1) bekezdés szerinti eseményeket, adatokat igazoló dokumentumokat a családi vagyonfelügyelő részére az együttműködési megállapodásban meghatározott módon be kell mutatni vagy meg kell küldeni.
 
-[^3]: A 10. § (1) bekezdés d) pontja a 26/2016. (XII. 27.) IM rendelet 25. § c) pontja szerint módosított szöveg.
+[^3]: A 10. § (1) bekezdés d) pontja a 9/2020. (VII. 8.) IM rendelet 6. §-ával megállapított szöveg.
 [^4]: A 10. § (1) bekezdés g) pontja a 25/2017. (XII. 22.) IM rendelet 20. §-a szerint módosított szöveg.
