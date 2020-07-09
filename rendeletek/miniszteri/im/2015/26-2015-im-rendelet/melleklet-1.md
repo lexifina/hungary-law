@@ -1,6 +1,6 @@
-## 14. §[^2]
+## 14. §[^3]
 
-1. melléklet a 26/2015. (IX. 30.) IM rendelethez[^3]
+1. melléklet a 26/2015. (IX. 30.) IM rendelethez[^4]
 
 1. A bíróságokon és az Országos Bírósági Hivatalban működő igazgatási egységekben létesíthető vezetői munkakörök betöltéséhez szükséges képesítési feltételek
 
@@ -372,5 +372,5 @@
 
 | 26 | 7.P.2. | segédmunkás (fizikai dolgozó) | – | általános iskolai végzettség |
 
-[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 46. § b) pontja szerint módosított szöveg.
+[^3]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 46. § b) pontja szerint módosított szöveg.
