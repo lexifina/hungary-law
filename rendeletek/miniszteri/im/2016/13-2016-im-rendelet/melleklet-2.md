@@ -24,21 +24,21 @@
 
 4.1.2. polgári peres eljárások
 
-4.1.3. közigazgatási és munkaügyi bírósági eljárások
+4.1.3. közigazgatási bírósági eljárások
 
-4.1.4. hatósági eljárások
+4.1.4. munkaügyi bírósági eljárások
 
-4.1.5. egyéb eljárások
+4.1.5. hatósági eljárások
 
-4.1.6. eljáráson kívül adott magánszakértői vélemény
+4.1.6. egyéb eljárások
 
-szerint
+4.1.7. eljáráson kívül adott magánszakértői vélemény szerint
 
-4.1.7. összesítés
+4.1.8. összesítés
 
-4.1.7.1. a 4.1.1–4.1.6. pont szerinti darabszámok összesített darabszáma
+4.1.8.1. a 4.1.1–4.1.7. pont szerinti darabszámok összesített darabszáma
 
-4.1.7.2. a 4.1.7.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.1.8.2. a 4.1.8.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 4.2. a tárgyévben érkezett új ügyek darabszáma
 
@@ -46,21 +46,21 @@ szerint
 
 4.2.2. polgári peres eljárások
 
-4.2.3. közigazgatási és munkaügyi bírósági eljárások
+4.2.3. közigazgatási bírósági eljárások
 
-4.2.4. hatósági eljárások
+4.2.4. munkaügyi bírósági eljárások
 
-4.2.5. egyéb eljárások
+4.2.5. hatósági eljárások
 
-4.2.6. eljáráson kívül adott magánszakértői vélemény
+4.2.6. egyéb eljárások
 
-szerint
+4.2.7. eljáráson kívül adott magánszakértői vélemény szerint
 
-4.2.7. összesítés
+4.2.8. összesítés
 
-4.2.7.1. a 4.2.1–4.2.6. pont szerinti darabszámok összesített darabszáma
+4.2.8.1. a 4.2.1–4.2.7. pont szerinti darabszámok összesített darabszáma
 
-4.2.7.2. a 4.2.7.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.2.8.2. a 4.2.8.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 4.3. a tárgyévben befejezett ügyek darabszáma
 
@@ -68,21 +68,21 @@ szerint
 
 4.3.2. polgári peres eljárások
 
-4.3.3. közigazgatási és munkaügyi bírósági eljárások
+4.3.3. közigazgatási bírósági eljárások
 
-4.3.4. hatósági eljárások
+4.3.4. munkaügyi bírósági eljárások
 
-4.3.5. egyéb eljárások
+4.3.5. hatósági eljárások
 
-4.3.6. eljáráson kívül adott magánszakértői vélemény
+4.3.6. egyéb eljárások
 
-szerint
+4.3.7. eljáráson kívül adott magánszakértői vélemény szerint
 
-4.3.7. összesítés
+4.3.8. összesítés
 
-4.3.7.1. a 4.3.1–4.3.6. pont szerinti darabszámok összesített darabszáma
+4.3.8.1. a 4.3.1–4.3.7. pont szerinti darabszámok összesített darabszáma
 
-4.3.7.2. a 4.3.7.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.3.8.2. a 4.3.8.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 4.4. a tárgyévben kirendelés vagy megbízás alapján megfizetett ügyek darabszáma
 
@@ -90,21 +90,21 @@ szerint
 
 4.4.2. polgári peres eljárások
 
-4.4.3. közigazgatási és munkaügyi bírósági eljárások
+4.4.3. közigazgatási bírósági eljárások
 
-4.4.4. hatósági eljárások
+4.4.4. munkaügyi bírósági eljárások
 
-4.4.5. egyéb eljárások
+4.4.5. hatósági eljárások
 
-4.4.6. eljáráson kívül adott magánszakértői vélemény
+4.4.6. egyéb eljárások
 
-szerint
+4.4.7. eljáráson kívül adott magánszakértői vélemény szerint
 
-4.4.7. összesítés
+4.4.8. összesítés
 
-4.4.7.1. a 4.4.1–4.4.6. pont szerinti darabszámok összesített darabszáma
+4.4.8.1. a 4.4.1–4.4.7. pont szerinti darabszámok összesített darabszáma
 
-4.4.7.2. a 4.4.7.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.4.8.2. a 4.4.8.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 4.5. a tárgyév végén folyamatban maradt ügyek darabszáma
 
@@ -112,21 +112,21 @@ szerint
 
 4.5.2. polgári peres eljárások
 
-4.5.3. közigazgatási és munkaügyi bírósági eljárások
+4.5.3. közigazgatási bírósági eljárások
 
-4.5.4. hatósági eljárások
+4.5.4. munkaügyi bírósági eljárások
 
-4.5.5. egyéb eljárások
+4.5.5. hatósági eljárások
 
-4.5.6. eljáráson kívül adott magánszakértői vélemény
+4.5.6. egyéb eljárások
 
-szerint
+4.5.7. eljáráson kívül adott magánszakértői vélemény szerint
 
-4.5.7. összesítés
+4.5.8. összesítés
 
-4.5.7.1. a 4.5.1–4.5.6. pont szerinti darabszámok összesített darabszáma
+4.5.8.1. a 4.5.1–4.5.7. pont szerinti darabszámok összesített darabszáma
 
-4.5.7.2. a 4.5.7.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.5.8.2. a 4.5.8.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 4.6. a tárgyévben kirendelés alapján megfizetett szakértői díj forintban
 
@@ -134,19 +134,19 @@ szerint
 
 4.6.2. polgári peres eljárások
 
-4.6.3. közigazgatási és munkaügyi bírósági eljárások
+4.6.3. közigazgatási bírósági eljárások
 
-4.6.4. hatósági eljárások
+4.6.4. munkaügyi bírósági eljárások
 
-4.6.5. egyéb eljárások
+4.6.5. hatósági eljárások
 
-szerint
+4.6.6. egyéb eljárások szerint
 
-4.6.6. összesítés
+4.6.7. összesítés
 
-4.6.6.1. a 4.6.1–4.6.5. pont szerinti megfizetett szakértői díjak összesített összege forintban
+4.6.7.1. a 4.6.1–4.6.6. pont szerinti megfizetett szakértői díjak összesített összege forintban
 
-4.6.6.2. a 4.6.6.1. pont szerinti összesített összegből azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.6.7.2. a 4.6.7.1. pont szerinti összesített összegből azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 5. A kamarai költségátalányra vonatkozó adatok
 
@@ -156,4 +156,4 @@ szerint
 
 5.3. azon szakvélemények darabszáma, amelyeknél a díjjegyzékben feltüntetett kamarai költségátalányt határidőben a szakértő részére nem fizették meg
 
-[^5]: A 2. mellékletet a 16/2019. (VI. 20.) IM rendelet 3. § b) pontja iktatta be.
+[^5]: A 2. mellékletet a 16/2019. (VI. 20.) IM rendelet 3. § b) pontja iktatta be, szövege a 9/2020. (VII. 8.) IM rendelet 8. § (2) bekezdésével megállapított szöveg.
