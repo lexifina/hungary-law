@@ -1,0 +1,1 @@
+10. § A Maecenas Universitatis Corvini Alapítványról, a Maecenas Universitatis Corvini Alapítvány és a Budapesti Corvinus Egyetem részére történő vagyonjuttatásról szóló 2019. évi XXX. törvény 5. § (3) bekezdésében az „az MNV Zrt.” szövegrész helyébe az „a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.)” szöveg lép.

@@ -1,0 +1,7 @@
+# 2020. évi LXXV. törvény a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról, valamint az egyes felsőoktatási intézmények fenntartóváltásához kapcsolódó törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-75-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-07-09 | 2020. évi LXXV. törvény | 2020-75-00-00.0 (közlönyállapot) |
