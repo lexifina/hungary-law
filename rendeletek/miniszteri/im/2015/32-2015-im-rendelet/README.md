@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-32-20-0
 | --- | --- | --- |
 | 2015-11-03 | 2015-32-20-06.1 | 32/2015. (XI. 2.) IM rendelet |
 | 2017-01-01 | 2015-32-20-06.2 | 26/2016. (XII. 27.) IM rendelet |
+| 2020-07-09 | 2015-32-20-06.3 | 9/2020. (VII. 8.) IM rendelet |
