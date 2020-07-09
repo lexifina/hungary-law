@@ -1,6 +1,6 @@
 ## 5. Záró rendelkezések
 
-7. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivételekkel – a kihirdetését követő napon lép hatályba.
+7. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 6. § 2020. július 31-én lép hatályba.
 
