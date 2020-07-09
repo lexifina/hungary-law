@@ -34,6 +34,8 @@
 
 (16)[^25] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet Magyar Falu Programmal, valamint a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zrt. névváltozásával kapcsolatos módosításáról szóló 6/2020. (IV. 27.) MvM rendelettel (a továbbiakban: Módr14.) megállapított rendelkezéseit a Módr14. hatálybalépése[^26] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(17)[^27] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a központi költségvetés címrendjének módosításával kapcsolatos módosításáról szóló 12/2020. (VII. 8.) MvM rendelettel (a továbbiakban: Módr15.) megállapított rendelkezéseit a Módr15. hatálybalépése[^28] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^4]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^5]: A hatálybalépés időpontja 2018. február 16.
 [^6]: A hatálybalépés időpontja 2018. március 29.
@@ -57,3 +59,5 @@
 [^24]: A hatálybalépés időpontja 2020. február 19.
 [^25]: A 42. § (16) bekezdését a 6/2020. (IV. 27.) MvM rendelet 5. §-a iktatta be.
 [^26]: A hatálybalépés időpontja 2020. április 28.
+[^27]: A 42. § (17) bekezdését a 12/2020. (VII. 8.) MvM rendelet 1. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2020. július 9.
