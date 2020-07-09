@@ -1,0 +1,3 @@
+## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (17) bekezdéssel egészül ki:
+
+## „(17) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a központi költségvetés címrendjének módosításával kapcsolatos módosításáról szóló 12/2020. (VII. 8.) MvM rendelettel (a továbbiakban: Módr15.) megállapított rendelkezéseit a Módr15. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
