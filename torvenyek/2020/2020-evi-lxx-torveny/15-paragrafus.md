@@ -5,11 +5,3 @@
 (2) A Bv. tv. 70/B. § (4) bekezdése helyébe a következő rendelkezés lép:
 
 „(4) A büntetés-végrehajtási bíró eljárására az 50. § (1) bekezdés d) pontjában megállapított határidő az (1) bekezdésben meghatározott esetben hatvan nappal, amennyiben a (2a) bekezdésben meghatározott intézkedés szükséges, kilencven nappal meghosszabbodik. Ha az (1) bekezdés esetén a sértett megkeresése a rendelkezésre álló határidő alatt nem vezetett eredményre, a büntetés-végrehajtási bíró a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj megtérülésének figyelmen kívül hagyásával hozza meg a döntést.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
