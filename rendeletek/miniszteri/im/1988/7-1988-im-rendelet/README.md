@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-7-20-06
 | 2012-12-05 | 1988-7-20-06.5 | 8/2008. (IV. 22.) IRM rendelet |
 | 2013-01-01 | 1988-7-20-06.6 | 50/2012. (XII. 4.) KIM rendelet |
 | 2014-03-15 | 1988-7-20-06.7 | 50/2012. (XII. 4.) KIM rendelet |
+| 2020-07-09 | 1988-7-20-06.8 | 2021: LXII. törvény |

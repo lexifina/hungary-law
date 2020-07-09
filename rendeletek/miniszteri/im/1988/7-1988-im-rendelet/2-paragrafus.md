@@ -8,7 +8,7 @@ b) ha annak a személynek, aki a gyermeket jogellenesen elvitte (a továbbiakban
 
 c) ha a b) pontban foglalt megkeresés vagy egyéb adatok alapján a Központi Hatóságnak hivatalos tudomása van arról, hogy a gyermek egy másik Szerződő Államban tartózkodik, a kérelmet az Egyezmény 9. cikkében foglaltaknak megfelelően e Szerződő Állam Központi Hatóságához továbbítja;
 
-d)[^2] azonnali intézkedést igénylő esetben, ha a rendelkezésre álló adatok a gyermek veszélyeztetettségére utalnak, a Központi Hatóság megkeresi a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: gyámhivatal) vagy a rendőrséget a gyermek ideiglenes hatályú intézeti beutalása iránt [51/1986. (XI. 26.) MT rendelet 10. §].[^3]
+d)[^3] azonnali intézkedést igénylő esetben, ha a rendelkezésre álló adatok a gyermek veszélyeztetettségére utalnak, a Központi Hatóság megkeresi a járási (fővárosi kerületi) gyámhivatalt (a továbbiakban: gyámhivatal) vagy a rendőrséget a gyermek ideiglenes hatályú intézeti beutalása iránt [51/1986. (XI. 26.) MT rendelet 10. §].[^4]
 
-[^2]: A 2. § d) pontja az 50/2012. (XII. 4.) KIM rendelet 6. § b) pontja szerint módosított szöveg.
-[^3]: A hivatkozott jogszabályt a 194/2001. (X. 19.) Korm. rendelet hatályon kívül helyezte.
+[^3]: A 2. § d) pontja az 50/2012. (XII. 4.) KIM rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A hivatkozott jogszabályt a 194/2001. (X. 19.) Korm. rendelet hatályon kívül helyezte.
