@@ -6,7 +6,7 @@
 
 ## b) a Kisgyóni Turistacentrum – Balinka, belterület 702, 706/3, 707, 708, 709, 710 és 711 helyrajzi szám alatti ingatlan – a VADEX Mezőföldi Erdő- és Vadgazdálkodási Zártkörűen Működő Részvénytársaság részére, valamint
 
-## c) a Lajos-forrási menedékház – Szentendre, külterület 0603/1 helyrajzi szám alatti ingatlan – a Pilisi Parkerdő Zártkörűen Működő Részvénytársaság részére;
+## c)[^1]
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -40,7 +40,7 @@
 
 ## Határidő: a 2020–2022. évekre vonatkozó költségvetési törvények tervezésekor
 
-## 8.[^1]
+## 8.[^2]
 
 1. melléklet az 1739/2018. (XII. 20.) Korm. határozathoz
 
@@ -60,4 +60,5 @@
 
 | 7. | Szalamandra Ház és Erdei Iskola | korszerűsítés | 34 000 000 | Aggteleki Nemzeti Park Igazgatóság |
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont c) alpontját az 1384/2020. (VII. 10.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
