@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-16-20-1
 | 2019-01-01 | 2007-16-20-1U.9 | 37/2018. (XII. 28.) BM rendelet |
 | 2019-09-07 | 2007-16-20-1U.10 | 33/2019. (VIII. 30.) BM rendelet |
 | 2020-05-21 | 2007-16-20-1U.11 | 54/2012. (XII. 28.) KIM rendelet |
+| 2020-07-10 | 2007-16-20-1U.12 | 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet |
