@@ -20,7 +20,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 7. | IKOP-1.1.0-15 | M0 autóút kiegészítő munkái – szakaszolt projekt | NIF Zrt. | 3,27 (becsült támogatási intenzitás: 100%) | M7–M0 gyorsforgalmi utak törökbálinti csomópontjának átépítése és az M0 útgyűrű déli szektor 3+200–11+650 kilométerszelvényei közötti zajárnyékoló fal kivitelezése. |
 
-| 8. | IKOP-1.1.0-15 | Tengelysúly- és össztömegmérő állomás kiépítése az M7 autópálya 192 km szelvényében lévő kétoldali pihenőhelyen (Zalakomári pihenő) – szakaszolt projekt | NIF Zrt. | 0,58 (támogatási intenzitás: 100%) | Kétoldali tengelysúlymérő és össztömegmérő állomások kialakítása. |
+| 8. | IKOP-1.1.0-15 | Tengelysúly- és össztömegmérő állomás kiépítése az M7 autópálya 192 km szelvényében lévő kétoldali pihenőhelyen (Zalakomári pihenő) – szakaszolt projekt | NIF Zrt. | 0,52 (támogatási intenzitás: 100%) | Kétoldali tengelysúlymérő és össztömegmérő állomások kialakítása. |
 
 | 9. | IKOP-1.1.0-15 | M4 autópálya Berettyóújfalu–Nagykereki (országhatár) közötti szakasz megvalósítása | NIF Zrt. | 96,42 (támogatási intenzitás: 93,22%) | 2x2 sávos autópálya építése két építési ütemre bontva: “M4 autópálya Berettyóújfalu – 47. sz. főút (2+550-5+500) szakasz” között és “M4 autópálya Berettyóújfalu–Nagykereki, országhatár közötti szakasz” megvalósítása a 47. sz. főút – Nagykereki oh. (5+500-32+038) között. |
 
@@ -64,7 +64,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 28. | IKOP-1.1.0-15 | Építési engedélyezési eljárás nélkül megvalósítható közlekedésbiztonsági beruházások a gyorsforgalmi úthálózaton – M3 autópálya 19+500-27+500 kmsz. között beton terelőfal építése – szakaszolt projekt | MK NZrt. | 1,01 (támogatási intenzitás: 100%) | A közlekedésbiztonságot javító beton terelőfalak építése az M3, az M5 és az M7 autópálya egyes szakaszain. |
 
-| 29. | IKOP-1.1.0-15 | M8 autóút Körmend–Rábafüzes országhatár szakasz 2x1 sávos előkészítése és építése | NIF Zrt. | 74,06 (támogatási intenzitás: 100%) | 2x1 sávos autóút előkészítése és építése. |
+| 29. | IKOP-1.1.0-15 | M8 autóút Körmend–Rábafüzes országhatár szakasz 2x1 sávos előkészítése és építése | NIF Zrt. | 74,02 (támogatási intenzitás: 100%) | 2x1 sávos autóút előkészítése és építése. |
 
 | 30. | IKOP-2.1.0-15 | Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése – szakaszolt projekt | NIF Zrt. | 0,91 (támogatási intenzitás: 100%) | Az Egységes Európai Vonatbefolyásoló Rendszer 2. szintjének megfelelő (a továbbiakban: ETCS2) biztosítóberendezés telepítése. |
 
@@ -74,27 +74,27 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 33. | IKOP-2.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem előkészítés | NIF Zrt. | 0,50 (támogatási intenzitás: 100%) | Európai Hálózatfinanszírozási Eszköz (a továbbiakban: CEF) és Integrált Közlekedésfejlesztési Operatív Program forrásaiból finanszírozásra kerülő rádiós kommunikációs és forgalomirányítási rendszer kiépítésére irányuló projekt előkészítése. |
 
-| 34. | IKOP-2.1.0-15 | Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése – szakaszolt projekt | NIF Zrt. | 3,60 (támogatási intenzitás: 100%) | ETCS2 biztosítóberendezés telepítése. |
+| 34. | IKOP-2.1.0-15 | Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése – szakaszolt projekt | NIF Zrt. | 3,59 (támogatási intenzitás: 100%) | ETCS2 biztosítóberendezés telepítése. |
 
 | 35. | IKOP-2.1.0-15 | Székesfehérvár vasútállomás korszerűsítése – szakaszolt projekt | NIF Zrt. | 11,04 (támogatási intenzitás: 100%) | Az állomás vasúti pályájának és biztosítóberendezésének korszerűsítése, valamint ETCS2 biztosítóberendezés kiépítése. |
 
-| 36. | IKOP-2.1.0-15 | GYSEV központi forgalomirányítás kiépítése – szakaszolt projekt | Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV Zrt.) | 2,80 (támogatási intenzitás: 100%) | Központi forgalomirányító berendezés telepítése. |
+| 36. | IKOP-2.1.0-15 | GYSEV központi forgalomirányítás kiépítése – szakaszolt projekt | Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV Zrt.) | 2,78 (támogatási intenzitás: 100%) | Központi forgalomirányító berendezés telepítése. |
 
-| 37. | IKOP-2.1.0-15 | Szombathely–Zalaszentiván vasútvonal korszerűsítése | GYSEV Zrt. | 14,00 (támogatási intenzitás: 100%) | A vasútvonal villamosítása, peronépítés, biztosítóberendezés-átalakítás, pályaépítés és vágányhálózati módosítások. |
+| 37. | IKOP-2.1.0-15 | Szombathely–Zalaszentiván vasútvonal korszerűsítése | GYSEV Zrt. | 13,86 (támogatási intenzitás: 100%) | A vasútvonal villamosítása, peronépítés, biztosítóberendezés-átalakítás, pályaépítés és vágányhálózati módosítások. |
 
 | 38. | IKOP-2.1.0-15 | A MÁV-START Zrt. gördülőállomány- fejlesztés – egységes szolgáltatási színvonalú járműpark kialakítása | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV-START Zrt.) | 4,99 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás az eltérő berendezésekkel rendelkező MÁV-START 415 sorozatszámú motorvonatok egységes műszaki színvonalra történő átalakítása és a szolgáltatási színvonal emelése. |
 
-| 39. | IKOP-2.1.0-15 | Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program (Kormányablakok) – szakaszolt projekt | MÁV Zrt. | 6,70 (támogatási intenzitás: 100%) | Vasútállomások felvételi épületének tervezése, engedélyeztetése és korszerűsítése. Integrált ügyfélszolgálatok tervezése és kivitelezése nagyobb forgalmú vasúti állomásépületekben. |
+| 39. | IKOP-2.1.0-15 | Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program (Kormányablakok) – szakaszolt projekt | MÁV Zrt. | 6,49 (támogatási intenzitás: 100%) | Vasútállomások felvételi épületének tervezése, engedélyeztetése és korszerűsítése. Integrált ügyfélszolgálatok tervezése és kivitelezése nagyobb forgalmú vasúti állomásépületekben. |
 
 | 40. | IKOP-2.1.0-15 | Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció – szakaszolt projekt | MÁV Zrt. és MÁV-START Zrt. konzorciuma | 1,40 (támogatási intenzitás: 100%) | Szoftverfejlesztés, amivel az üzemeltetési, karbantartási, felújítási folyamatok áttekinthetőbbé és optimalizálhatóvá, a vonatkozó anyagigények, gépigények időben tervezhetőkké válnak. A cégcsoport szintjén egységes irányítási rendszer kialakítása, a lehető legnagyobb költséghatékonyság érdekében. |
 
-| 41. | IKOP-2.1.0-15 | MÁV Zrt. közlekedésbiztonsági projektjei – szakaszolt projekt | MÁV Zrt. | 3,51 (támogatási intenzitás: 100%) | 1. A vasúti átjárók biztonságának növelése [szintbeni közút–vasút kereszteződések biztonságának növelése (Sorompó I–II. program), vonatérzékelés korszerűsítési projekt, vasúti átjáróban videómegfigyelő rendszer telepítése (V-tanú)], 2. diagnosztikai és monitoring rendszerek [járműdiagnosztikai rendszer (hőnfutásjelző, tengelyterhelés mérő, űrszelvény vizsgáló berendezés), valamint Videós Pályafelügyeleti Rendszer (VPR)] telepítése. |
+| 41. | IKOP-2.1.0-15 | MÁV Zrt. közlekedésbiztonsági projektjei – szakaszolt projekt | MÁV Zrt. | 3,52 (támogatási intenzitás: 100%) | 1. A vasúti átjárók biztonságának növelése [szintbeni közút–vasút kereszteződések biztonságának növelése (Sorompó I–II. program), vonatérzékelés korszerűsítési projekt, vasúti átjáróban videómegfigyelő rendszer telepítése (V-tanú)], 2. diagnosztikai és monitoring rendszerek [járműdiagnosztikai rendszer (hőnfutásjelző, tengelyterhelés mérő, űrszelvény vizsgáló berendezés), valamint Videós Pályafelügyeleti Rendszer (VPR)] telepítése. |
 
-| 42. | IKOP-2.1.0-15 | Érden a Szent István utcai – TEN-T vasútvonalak feletti – felüljárók építése | NIF Zrt. | 1,80 (támogatási intenzitás: 100%) | A 30a és a 40a vasútvonal felett közúti felüljárók létesítése, és a kapcsolódó útépítés, útfelújítás elvégzése. |
+| 42. | IKOP-2.1.0-15 | Érden a Szent István utcai – TEN-T vasútvonalak feletti – felüljárók építése | NIF Zrt. | 1,50 (támogatási intenzitás: 100%) | A 30a és a 40a vasútvonal felett közúti felüljárók létesítése, és a kapcsolódó útépítés, útfelújítás elvégzése. |
 
-| 43. | IKOP-2.1.0-15 | 9 db 200 férőhelyes motorvonat beszerzése a 30a-20 sz., illetve a 80 sz. vasútvonalakra | MÁV-START Zrt. | 16,31 (támogatási intenzitás: 100%) | A projekt 9 db 200 ülőhelyes, 160 km/h sebességű elővárosi villamos motorvonat beszerzésére irányul, ETCS2 felszereltséggel. |
+| 43. | IKOP-2.1.0-15 | 9 db 200 férőhelyes motorvonat beszerzése a 30a-20 sz., illetve a 80 sz. vasútvonalakra | MÁV-START Zrt. | 16,30 (támogatási intenzitás: 100%) | A projekt 9 db 200 ülőhelyes, 160 km/h sebességű elővárosi villamos motorvonat beszerzésére irányul, ETCS2 felszereltséggel. |
 
-| 44. | IKOP-2.1.0-15 | 6 db 200 férőhelyes motorvonat beszerzése az 1. sz. vasútvonalra | MÁV-START Zrt. | 10,89 (támogatási intenzitás: 100%) | A projekt 6 db 200 ülőhelyes, 160 km/h sebességű elővárosi villamos motorvonat beszerzésére irányul, ETCS2 felszereltséggel. |
+| 44. | IKOP-2.1.0-15 | 6 db 200 férőhelyes motorvonat beszerzése az 1. sz. vasútvonalra | MÁV-START Zrt. | 10,88 (támogatási intenzitás: 100%) | A projekt 6 db 200 ülőhelyes, 160 km/h sebességű elővárosi villamos motorvonat beszerzésére irányul, ETCS2 felszereltséggel. |
 
 | 45. | IKOP-2.1.0-15 | Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán | NIF Zrt. | 3,00 (támogatási intenzitás: 100%) | A vasútvonalak sebességkorlátozásainak megszüntetését, kiépítéskori állapotánakhelyreállítását célzó felújítások megvalósíthatósági és engedélyezési terveinek készítése. |
 
@@ -108,7 +108,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 50. | IKOP-2.1.0-15 | Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán | NIF Zrt. | 14,00 (támogatási intenzitás: 100%) | Vontatási alállomások felújítása és bővítése, felsővezetéki rendszer felújítása a hálózat túlterhelésének és feszültségleesések csökkentése érdekében. |
 
-| 51. | IKOP-2.1.0-15 | MÁV-START Zrt. gördülőállomány fejlesztése nagykapacitású motorvonatok beszerzésével beszerzése | MÁV-START Zrt. | 60,55 (támogatási intenzitás: 100%) | Nagykapacitású, 160 km/h sebességű elővárosi villamos motorvonatok beszerzése ETCS2 felszereltséggel. |
+| 51. | IKOP-2.1.0-15 | MÁV-START Zrt. gördülőállomány fejlesztése 19 db nagykapacitású motorvonat beszerzésével | MÁV-START Zrt. | 99,55 (támogatási intenzitás: 100%) | Nagykapacitású, 160 km/h sebességű elővárosi villamos motorvonatok beszerzése ETCS2 felszereltséggel. |
 
 | 52. | IKOP-2.1.0-15 | GYSEV motorvonat beszerzés | GYSEV Zrt. | 21,70 (támogatási intenzitás: 100%) | 10 db villamos-motorvonat beszerzése. |
 
@@ -116,7 +116,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 54. | IKOP-2.1.0-15 | Közlekedésbiztonság javítási program a MÁV hálózatán II/B. ütem – Közlekedésbiztonságot és pályakapacitást növelő technológiai fejlesztések és eszközök | NIF Zrt. | 14,80 (támogatási intenzitás: 100%) | Pályakapacitást növelő és vasútüzemi hatékonyságot javító vasúti eszközök, útátjárók közlekedésbiztonsági fejlesztése. |
 
-| 55. | IKOP-2.1.0-15 | Hídrekonstrukciós program I. ütem | NIF Zrt. | 8,10 (támogatási intenzitás: 100%) | Hidak, nagyműtárgyak átépítésének előkészítése és kivitelezése. |
+| 55. | IKOP-2.1.0-15 | Hídrekonstrukciós program I. ütem | NIF Zrt. | 6,77 (támogatási intenzitás: 100%) | Hidak, nagyműtárgyak átépítésének előkészítése és kivitelezése. |
 
 | 56. | IKOP-2.1.0-15 | Déli összekötő vasúti Duna-híd korszerűsítésének előkészítése | NIF Zrt. | 1,24 (támogatási intenzitás: 100%) | Tanulmányszintű vizsgálat kitekintéssel CEF kivitelezési pályázathoz: vasúti pálya és műtárgyak újjáépítésének és kapacitásbővítésének előkészítése. |
 
@@ -128,7 +128,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 60. | IKOP-2.1.0-15 | Új országos közforgalmú kikötő kiépítése Mohácson | Mohács Város Önkormányzata | 4,75 (támogatási intenzitás: 94,16%) | A Duna 1448+660–1449+000 folyamkilométer-szelvények közötti szakaszán új kikötőterület kiépítése. |
 
-| 61. | IKOP-2.1.0-15 | Bajai Közforgalmú Kikötő létesítése | Bajai Országos Közforgalmú Kikötőműködtető Korlátolt Felelősségű Társaság | 3,66 (támogatási intenzitás: 94,99%) | A projekt célja az úthálózat és parkoló-, rakodóterületek felújítása, partfal helyreállítása, valamint a hulladékok kezelésére alkalmas terület kialakítása. |
+| 61. | IKOP-2.1.0-15 | Bajai Közforgalmú Kikötő létesítése | Bajai Országos Közforgalmú Kikötőműködtető Korlátolt Felelősségű Társaság | 3,62 (támogatási intenzitás: 94,99%) | A projekt célja az úthálózat és parkoló-, rakodóterületek felújítása, partfal helyreállítása, valamint a hulladékok kezelésére alkalmas terület kialakítása. |
 
 | 62. | IKOP-2.1.0-15 | Személyforgalmi kikötők támogatására vonatkozó projektcsomag | MAHART – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 0,50 (támogatási intenzitás: 100%) | A Duna, mint TEN-T útvonal személyszállítási színvonalának megőrzése és kapacitásának fejlesztése. |
 
@@ -146,7 +146,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 65d. | IKOP-2.1.0-15 | Gödöllő állomás korszerűsítése | NIF Zrt. | 18,58 (támogatási intenzitás: 100%) | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
 
-| 65e. | IKOP-2.1.0-15 | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. és BFK Budapest Fejlesztési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: BFK Nonprofit Zrt.) konzorciuma | 15,37 (támogatási intenzitás: 100%) | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
+| 65e. | IKOP-2.1.0-15 | Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések | NIF Zrt. és BFK Budapest Fejlesztési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: BFK Nonprofit Zrt.) konzorciuma | 15,38 (támogatási intenzitás: 100%) | Megállóhelyek és állomások elővárosi célú fejlesztése, akadálymentesítése, P+R parkolók építése. |
 
 | 65f. | IKOP-2.1.0-15 | Zalaszentiváni deltavágány előkészítése | GYSEV Zrt. | 0,35 (támogatási intenzitás: 100%) | Zalaszentiváni deltavágány előkészítése, tervezés, engedélyeztetés. |
 
@@ -156,7 +156,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 65i. | IKOP-2.1.0-15 | Vasúti tengelysúlymérési rendszer kidolgozása és kísérleti elindítása | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság [a továbbiakban: KTI Nonprofit Kft. (konzorciumvezető)] és a NIF Zrt. konzorciuma | 2,00 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás tengelysúlymérési rendszer kidolgozása és kísérleti elindítása TEN-T vasútvonalakon. |
 
-| 65j. | IKOP-2.1.0-15 | 8 db nagykapacitású motorvonat beszerzése a MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság részére | MÁV-START Zrt. | 39,00 (becsült támogatási intenzitás: 100%) | Nagykapacitású, 160 km/h sebességű elővárosi villamos motorvonatok beszerzése ETCS2 felszereltséggel. |
+| 65j. | IKOP-2.1.0-15 | Vasúti infrastruktúra felmérése és adatfeltöltése (VIKI 3. ütem) | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) és Innovációs és Technológiai Minisztérium konzorciuma | 9,00 (becsült támogatási intenzitás: 100%) | A nemzeti infrastruktúra regiszterhez (VIKI) kapcsolódó infrastruktúra-felmérési és adatfeldolgozási, valamint adatbázis feltöltési feladatok ellátása |
 
 | 66. | IKOP-3.1.0-15 | Budapest villamos- és trolibusz járműprojekt I. ütem (kapcsolódó kocsiszín infrastruktúrával) – szakaszolt projekt | BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: BKK Zrt.) | 26,75 (99,44% támogatási intenzitás szerint csökkentett összeg) | 12 db 56 méter hosszúságú, 10 db 34 méter hosszúságú villamos beszerzése és a kapcsolódó infrastruktúra (kocsiszínek, dél-budai akadálymentesítés) fejlesztése. |
 
@@ -168,13 +168,13 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 70. | IKOP-3.1.0-15 | M4 metró, M1–M7 autópálya Kelenföldi pályaudvar térsége, nyugati kijárat, M1–M7 autópálya bevezetés módosított csomópontjának előkészítése és megvalósítása átszállási csomópont – szakaszolt projekt | Budapest Főváros Önkormányzata | 1,86 (támogatási intenzitás: 100%) | A projekt célja az M1–M7 autópálya fővárosi bevezető szakaszán módosított csomópont megvalósításához szükséges kiviteli tervek elkészítése és a módosított csomópont kivitelezése. |
 
-| 71. | IKOP-3.1.0-15 | Az M3 metróvonal infrastruktúra rekonstrukciója | Budapesti Közlekedési Zártkörűen Működő Részvénytársaság | 172,721 (támogatási intenzitás: 100%) | A budapesti M3-as metróvonalon a Kőbánya-Kispest és Újpest-Központ állomások közötti vágányfelépítmény, az alagútszerkezet, az áramellátás, a mozgólépcsők, a távközlés, a felügyeleti rendszerek, az állomások és a Kőér utcai járműtelep rekonstrukciója, valamint az állomások akadálymentesítése. |
+| 71. | IKOP-3.1.0-15 | Az M3 metróvonal infrastruktúra rekonstrukciója | Budapesti Közlekedési Zártkörűen Működő Részvénytársaság | 172,73 (támogatási intenzitás: 100%) | A budapesti M3-as metróvonalon a Kőbánya-Kispest és Újpest-Központ állomások közötti vágányfelépítmény, az alagútszerkezet, az áramellátás, a mozgólépcsők, a távközlés, a felügyeleti rendszerek, az állomások és a Kőér utcai járműtelep rekonstrukciója, valamint az állomások akadálymentesítése. |
 
 | 72. |  |  |  |  |  |
 
 | 73. | IKOP-3.1.0-15 | Budapesti trolibusz járműbeszerzés és kapcsolódó infrastruktúra-fejlesztés | BKK Zrt. | 10,20 (99,44% támogatási intenzitás szerint csökkentett összeg) | A projekttel szembeni szakmai elvárás alacsonypadlós trolibuszok beszerzése, valamint az azok üzemeltetéséhez szükséges kapcsolódó infrastruktúra fejlesztése. |
 
-| 74. | IKOP-3.1.0-15 | 1-es villamos meghosszabbítása az Etele térig | BKK Zrt. | 8,50 (támogatási intenzitás: 100%) | Az 1-es villamos meghosszabbítása a Fehérvári úttól Budapest-Kelenföld pályaudvarig, három új megállóhely építése. |
+| 74. | IKOP-3.1.0-15 | 1-es villamos meghosszabbítása az Etele térig | BKK Zrt. | 7,94 (támogatási intenzitás: 100%) | Az 1-es villamos meghosszabbítása a Fehérvári úttól Budapest-Kelenföld pályaudvarig, három új megállóhely építése. |
 
 | 75. | IKOP-3.1.0-15 | A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten | BKK Zrt. | 3,00 (támogatási intenzitás: 100%) | Budapesti gyorsvasúti hálózathoz csatlakozó P+R rendszerű parkolók létesítése. |
 
@@ -184,7 +184,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 75c. | IKOP-3.1.0-15 | MÁV Zrt. közlekedés- biztonsági projektjei – szakaszolt projekt | MÁV Zrt. | 0,09 (támogatási intenzitás: 100%) | 1. A vasúti átjárók biztonságának növelése [szintbeni közút-vasút kereszteződések biztonságának növelése (Sorompó I–II. program), vasúti átjáróban videomegfigyelő rendszer telepítése (V-tanú)], 2. diagnosztikai és monitoring-rendszerek [járműdiagnosztikai rendszer (hőnfutásjelző, tengelyterhelés- mérő, űrszelvényvizsgáló, nyomkarimaméret-ellenőrző, áramszedő-megfigyelő berendezés), valamint Videós Pályafelügyeleti Rendszer (VPR)] telepítése. |
 
-| 76. | IKOP-3.1.0-15 | A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése | KTI Nonprofit Kft. (konzorciumvezető) és a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság konzorciuma | 8,00 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás a személyszállítási közszolgáltatás lebonyolításához, minőségellenőrzéséhez és optimalizálásához szükséges eszközök beszerzése és rendszerek kifejlesztése, úgymint központi rendszerek (jegyértékesítés, utazástervezés, utastájékoztatás, forgalomirányítás, menetrendtervezés, szolgáltatás- monitorozás), járműfedélzeti eszközök [járműkészülék (on board unit, OBU), validátor, ellenőri készülék] és megállóhelyi vagy állomási eszközök (jegykiadó automata). |
+| 76. | IKOP-3.1.0-15 | A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése | KTI Nonprofit Kft. (konzorciumvezető) és a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság konzorciuma | 7,91 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás a személyszállítási közszolgáltatás lebonyolításához, minőségellenőrzéséhez és optimalizálásához szükséges eszközök beszerzése és rendszerek kifejlesztése, úgymint központi rendszerek (jegyértékesítés, utazástervezés, utastájékoztatás, forgalomirányítás, menetrendtervezés, szolgáltatás- monitorozás), járműfedélzeti eszközök [járműkészülék (on board unit, OBU), validátor, ellenőri készülék] és megállóhelyi vagy állomási eszközök (jegykiadó automata). |
 
 | 76a. | IKOP-3.1.0-15 | H5–H6/H7 vonalak összekötése – az észak–déli városi-elővárosi gyorsvasút fejlesztésének előkészítése | BFK Nonprofit Zrt. (konzorciumvezető) és a MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság konzorciuma | 13,7 (támogatási intenzitás: 100%) | H5 HÉV-vonal Békásmegyer–Szentendre szakasza, valamint a H6/H7 HÉV-vonalak rekonstrukciójának és utóbbiak Kálvin térig történő meghosszabbításának teljes körű előkészítése, a kivitelezésre irányuló közbeszerzési eljárás megindításához szükséges tartalmú és részletezettségű terveinek, tenderdokumentációjának elkészítése, továbbá az északi és déli HÉV-vonalak összekötésének Részletes Megvalósíthatósági Tanulmány szintű előkészítése. |
 
@@ -200,7 +200,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 80a. | IKOP-3.2.0-15 | Szeged– Hódmezővásárhely tram-train rendszer előkészítése | NIF Zrt. | 1,25 (támogatási intenzitás: 100%) | A vasútvillamos (tram-train) rendszerhez szükséges előkészítő tervezési feladatok. |
 
-| 81. | IKOP-3.2.0-15 | Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés | MÁV-START Zrt. | 17,62 (támogatási intenzitás: 100%) | Szeged–Hódmezővásárhely tram-train vonalra 8 db hibrid jármű beszerzése. |
+| 81. | IKOP-3.2.0-15 | Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés | MÁV-START Zrt. | 17,63 (támogatási intenzitás: 100%) | Szeged–Hódmezővásárhely tram-train vonalra 8 db hibrid jármű beszerzése. |
 
 | 82. |  |  |  |  |  |
 
@@ -210,7 +210,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 85. | IKOP-3.2.0-15 | Debreceni intermodális személyszállítási központ létrehozása | NIF Zrt. | 22,05 (támogatási intenzitás: 100%) | Utazási módváltási kapcsolatok fejlesztése Debrecen vasúti pályaudvarához kapcsolódóan. |
 
-| 86. | IKOP-3.2.0-15 | A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) és a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság konzorciuma | 10,00 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás a személyszállítási közszolgáltatás lebonyolításához, minőségellenőrzéséhez és optimalizálásához szükséges eszközök beszerzése és rendszerek kifejlesztése, úgymint központi rendszerek (jegyértékesítés, utazástervezés, utastájékoztatás, forgalomirányítás, menetrendtervezés, szolgáltatásmonitorozás), járműfedélzeti eszközök [járműkészülék (on board unit, OBU), validátor, ellenőri készülék] és megállóhelyi vagy állomási eszközök (jegykiadó automata). |
+| 86. | IKOP-3.2.0-15 | A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) és a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság konzorciuma | 9,90 (támogatási intenzitás: 100%) | A projekttel szembeni szakmai elvárás a személyszállítási közszolgáltatás lebonyolításához, minőségellenőrzéséhez és optimalizálásához szükséges eszközök beszerzése és rendszerek kifejlesztése, úgymint központi rendszerek (jegyértékesítés, utazástervezés, utastájékoztatás, forgalomirányítás, menetrendtervezés, szolgáltatásmonitorozás), járműfedélzeti eszközök [járműkészülék (on board unit, OBU), validátor, ellenőri készülék] és megállóhelyi vagy állomási eszközök (jegykiadó automata). |
 
 | 87. |  |  |  |  |  |
 
@@ -230,11 +230,11 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 41 db új CNG meghajtású autóbusz beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db új CNG meghajtású autóbusz beszerzése, valamint a kapcsolódó töltőállomás kivitelezése és autóbusz-telephely kialakítása. |
 
-| 96. | IKOP-3.2.0-15 | Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése | A Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság és a NIF Zrt. konzorciuma | 14,10 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
+| 96. | IKOP-3.2.0-15 | Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése | A Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság és a NIF Zrt. konzorciuma | 13,97 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
 | 97. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a megyeszékhely vasúti elővárosi körzetében I. ütem | NIF Zrt. | 6,00 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
-| 98. | IKOP-3.2.0-15 | Paks város közösségi közlekedés fejlesztése | Paks Város Önkormányzata | 1,80 (támogatási intenzitás: 100%) | 10 db elektromos autóbusz beszerzése és a működtetéshez szükséges energetikai ellátó és kiszolgáló infrastruktúra kiépítése. |
+| 98. | IKOP-3.2.0-15 | Paks város közösségi közlekedés fejlesztése | Paks Város Önkormányzata | 1,70 (támogatási intenzitás: 100%) | 10 db elektromos autóbusz beszerzése és a működtetéshez szükséges energetikai ellátó és kiszolgáló infrastruktúra kiépítése. |
 
 | 99. | IKOP-3.2.0-15 | Eger Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása | NIF Zrt. | 6,00 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
@@ -264,14 +264,14 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 105. | IKOP-4.1.0-15 | 48. sz. főút Debrecen–Nyírábrány, országhatár szakasz fejlesztése | NIF Zrt. | 11,62 (támogatási intenzitás: 91,41%) | A 2x1 sávos főút burkolatának 11,5 tonnás tengelyterhelésre történő megerősítése |
 
-| 106. | IKOP-4.1.0-15 | 21. sz. főút Heves és Nógrád megyei szakaszok kapacitásbővítése | NIF Zrt. | 21,59 (támogatási intenzitás: 100%) | Gyorsúttá fejleszthető 2x2 sávos, fizikai elválasztással rendelkező főút kiépítésének folytatása. |
+| 106. | IKOP-4.1.0-15 | 21. sz. főút Heves és Nógrád megyei szakaszok kapacitásbővítése | NIF Zrt. | 21,59 (támogatási intenzitás: 100%) | 2×2 sávos, fizikai elválasztással rendelkező főút kiépítésének folytatása, fejlesztése |
 
 | 106a. | IKOP-4.1.0-15 | Jászberény elkerülő III. ütem megvalósítása | NIF Zrt. | 6,1 (becsült támogatási intenzitás: 100%) | Jászberény elkerülő III. ütem megvalósítása – 2×1 sávos főút építése |
 
-| 107. | IKOP-4.1.0-15 | R67 Kaposvár és az M7 közötti szakasz (érintett települések elkerülését is megvalósító) fejlesztése | NIF Zrt. | 33,87 (82,10% támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos – autóúttá fejleszthető – gyorsút építése. |
+| 107. | IKOP-4.1.0-15 | Kaposfüred elkerülő út előkészítése (67. sz. főút Kaposvár és az M7 közötti szakasz fejlesztése) | NIF Zrt. | 1,05 (becsült támogatási intenzitás: 100%) | Kaposfüred elkerülő út előkészítése, valamint 2×2 sávos főút építése. |
 
 | 107a. | IKOP-4.1.0-15 | M76 autóút M7 autópálya Holládi csomópont és Balatonszentgyörgy közötti szakasz megvalósítása | NIF Zrt. | 21,6 (becsült támogatási intenzitás: 100%) | M76 autóút M7 autópálya Holládi csomópont és Balatonszentgyörgy közötti szakasz megvalósítása, 2×2 sávos autóút építése |
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 45,97 (támogatási intenzitás: 100%) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^12]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja, az 1563/2018. (XI. 10.) Korm. határozat 3. pontja, az 1580/2018. (XI. 17.) Korm. határozat 3. pontja, az 1225/2019. (IV. 23.) Korm. határozat 5. pontja, az 1487/2019. (VIII. 1.). Korm. határozat 3. pont c)–e) alpontja, az 1488/2019. (VIII. 1.). Korm. határozat 1. pontja, az 1552/2019. (IX. 26.) Korm. határozat 3. pontja, az 1555/2019. (IX. 26.) Korm. határozat 6. pontja, az 1643/2019. (XI. 19.) Korm. határozat 3. pont c) alpontja, az 1708/2019. (XII. 10.) Korm. határozat 3. pont c) alpontja, az 1818/2019. (XII. 30.) Korm. határozat 3. pont c) alpontja, az 1038/2020. (II. 13.) Korm. határozat 3. pontja és második 4. pontja, az 1303/2020. (VI. 11.) Korm. határozat 3. pont c) alpontja, az 1360/2020. (VII. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^12]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja, az 1563/2018. (XI. 10.) Korm. határozat 3. pontja, az 1580/2018. (XI. 17.) Korm. határozat 3. pontja, az 1225/2019. (IV. 23.) Korm. határozat 5. pontja, az 1487/2019. (VIII. 1.). Korm. határozat 3. pont c)–e) alpontja, az 1488/2019. (VIII. 1.). Korm. határozat 1. pontja, az 1552/2019. (IX. 26.) Korm. határozat 3. pontja, az 1555/2019. (IX. 26.) Korm. határozat 6. pontja, az 1643/2019. (XI. 19.) Korm. határozat 3. pont c) alpontja, az 1708/2019. (XII. 10.) Korm. határozat 3. pont c) alpontja, az 1818/2019. (XII. 30.) Korm. határozat 3. pont c) alpontja, az 1038/2020. (II. 13.) Korm. határozat 3. pontja és második 4. pontja, az 1303/2020. (VI. 11.) Korm. határozat 3. pont c) alpontja, az 1360/2020. (VII. 1.) Korm. határozat 3. pontja, az 1373/2020. (VII. 9.) Korm. határozat 3. és 5. pontja szerint módosított szöveg.
