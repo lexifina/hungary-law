@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1809-30
 | --- | --- | --- |
 | 2019-12-27 | 2019-1809-30-22.1 | 1809/2019. (XII. 27.) Korm. határozat |
 | 2020-02-06 | 2019-1809-30-22.2 | 1020/2020. (II. 6.) Korm. határozat |
+| 2020-07-10 | 2019-1809-30-22.3 | 1020/2020. (II. 6.) Korm. határozat |

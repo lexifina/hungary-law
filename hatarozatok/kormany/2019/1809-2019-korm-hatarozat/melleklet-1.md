@@ -52,7 +52,7 @@
 
 | 12. | Várda Sport Egyesület Kisvárda | A szervezet működésének és munkácsi beruházásainak támogatása | 1 185 000 000 |
 
-| 13. | Aquinói Szent Tamás Közéleti Egyesület | Aquinói Szent Tamás Közéleti Akadémia 2020/2021. tanév és Szent Tamás Keresztény Közéleti Műhely támogatása | 230 000 000 |
+| 13. | Aquinói Szent Tamás Közéleti Egyesület | Aquinói Szent Tamás Közéleti Akadémia működésének és programjainak támogatása | 200 000 000 |
 
 [^1]: A 2. pont az 1020/2020. (II. 6.) Korm. határozat 9. pontja szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1020/2020. (II. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1020/2020. (II. 6.) Korm. határozat 8. pontja, az 1387/2020. (VII. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
