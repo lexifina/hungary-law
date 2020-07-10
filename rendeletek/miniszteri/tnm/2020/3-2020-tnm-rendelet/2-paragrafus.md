@@ -1,1 +1,3 @@
-## 1. § A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet (a továbbiakban: TNM rendelet) 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
