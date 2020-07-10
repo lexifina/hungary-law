@@ -128,15 +128,15 @@ Szabolcs-Szatmár-Bereg megyei településeken található egyházi tulajdonú �
 
 | 3. | Ajak | 4524 Ajak, Ady Endre út 8. | 9 007 500 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Ajaki Görögkatolikus Egyházközség – régi iskola épületében keletkezett kár helyreállítási költségeinek támogatása |
 
-| 4. | Dombrád | 4492 Dombrád, Kossuth út 39. | 1 270 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi református templomban keletkezett kár helyreállítási költségeinek támogatása |
+| 4. | Dombrád | 4492 Dombrád, Kossuth út 41. | 1 270 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi református templomban keletkezett kár helyreállítási költségeinek támogatása |
 
 | 5. | Dombrád | 4492 Dombrád, Kossuth út 25. | 531 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi református parókiában keletkezett kár helyreállítási költségeinek támogatása |
 
 | 6. | Dombrád | 4492 Dombrád, Esze Tamás út 2. | 762 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi Református Idősek Klubja épületében keletkezett kár helyreállítási költségeinek támogatása |
 
-| 7. | Dombrád | 4492 Dombrád, Kossuth út 39. | 1 300 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi református gyülekezeti házban keletkezett kár helyreállítási költségeinek támogatása |
+| 7. | Dombrád | 4492 Dombrád, Kossuth út 41. | 1 300 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi református gyülekezeti házban keletkezett kár helyreállítási költségeinek támogatása |
 
-| 8. | Dombrád | 4492 Dombrád, Kossuth út 41. | 6 500 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi Református Általános Iskola épületében keletkezett kár helyreállítási költségeinek támogatása |
+| 8. | Dombrád | 4492 Dombrád, Kossuth út 43. | 6 500 000 | Dombrádi Református Egyházközség 4492 Dombrád, Kossuth út 25. | Dombrádi Református Általános Iskola épületében keletkezett kár helyreállítási költségeinek támogatása |
 
 | 9. | Gyulaháza | 4545 Gyulaháza, Petőfi út 17. | 4 405 399 | Gyulaházai Református Egyházközség | Gyulaházai református templomtoronyban keletkezett kár helyreállítási költségeinek támogatása |
 
@@ -174,13 +174,13 @@ Szabolcs-Szatmár-Bereg megyei településeken található egyházi tulajdonú �
 
 | 26. | Nyírkarász | 4544 Nyírkarász, Fő u. 73. | 50 000 | Római Katolikus Egyházközség Nyírkarász | Templomban keletkezett kár helyreállítási költségeinek támogatása |
 
-| 27. | Nyírkarász | 4544 Nyírkarász, Fő út 98. | 15 637 477 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Urunk mennybemenetele – görögkatolikus templomban keletkezett kár helyreállítási költségeinek támogatása |
+| 27. | Nyírkarász | 4544 Nyírkarász, Fő út 96. | 15 637 477 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Urunk mennybemenetele – görögkatolikus templomban keletkezett kár helyreállítási költségeinek támogatása |
 
 | 28. | Nyírkarász | 4546 Nyírkarász, Fő út 17. | 20 393 430 | Nyírkarászi Református Egyházközség | Nyírkarászi református templomban keletkezett kár helyreállítási költségeinek támogatása |
 
-| 29. | Nyírmada | 4564 Nyírmada, Ady u. 25. | 50 000 | Római Katolikus Egyházközség Pusztadobos, 4565 Pusztadobos, Petőfi u. 41. | Templomban keletkezett kár helyreállítási költségeinek támogatása |
+| 29. | Nyírmada | 4564 Nyírmada, Ady u. 45. | 50 000 | Római Katolikus Egyházközség Pusztadobos, 4565 Pusztadobos, Petőfi u. 41. | Templomban keletkezett kár helyreállítási költségeinek támogatása |
 
-| 30. | Nyírmada | 4565 Nyírmada, Ady u. 25. | 50 000 | Római Katolikus Egyházközség Pusztadobos, 4565 Pusztadobos, Petőfi u. 41. | Plébánia épületében keletkezett kár helyreállítási költségeinek támogatása |
+| 30. | Nyírmada | 4565 Nyírmada, Ady u. 58. | 50 000 | Római Katolikus Egyházközség Pusztadobos, 4565 Pusztadobos, Petőfi u. 41. | Plébánia épületében keletkezett kár helyreállítási költségeinek támogatása |
 
 | 31. | Nyírmada | 4564 Nyírmada, Ady Endre út 104. | 225 000 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Nyírmadai Görögkatolikus Egyházközség – parókia épületében keletkezett kár helyreállítási költségeinek támogatása |
 
@@ -192,7 +192,7 @@ Szabolcs-Szatmár-Bereg megyei településeken található egyházi tulajdonú �
 
 | 35. | Ópályi | 4821 Ópályi, Bajcsy-Zs. u. 1. | 16 221 962 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Istenszülő oltalma – görögkatolikus templomban keletkezett kár helyreállítási költségeinek támogatása |
 
-| 36. | Petneháza | 4542 Petneháza, Magyar u. 16/A | 315 000 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Szent Mihály főangyal – görögkatolikus templomban keletkezett kár helyreállítási költségeinek támogatása |
+| 36. | Petneháza | 4542 Petneháza, Béke utca 23. | 315 000 | Nyíregyházi Egyházmegye 4400 Nyíregyháza, Bethlen Gábor u. 5. | Szent Mihály főangyal – görögkatolikus templomban keletkezett kár helyreállítási költségeinek támogatása |
 
 | 37. | Pusztadobos | 4566 Pusztadobos, Petőfi u. 41. | 50 000 | Római Katolikus Egyházközség Pusztadobos, 4565 Pusztadobos, Petőfi u. 41. | Plébániaépületben keletkezett kár helyreállítási költségeinek támogatása |
 
@@ -206,6 +206,6 @@ Szabolcs-Szatmár-Bereg megyei településeken található egyházi tulajdonú �
 
 | 42. | Tiszakanyár | 4493 Tiszakanyár, Dombrádi u. 6. | 50 000 | Római Katolikus Egyházközség Dombrád, 4492 Dombrád, Kossuth u. 42. | Kápolnában keletkezett kár helyreállítási költségeinek támogatása |
 
-| 43. | Vásárosnamény- Vitka | 4804 Vásárosnamény-Vitka, Damjanich u. 10. | 634 759 | Római Katolikus Egyházközség Vásárosnamény, 4800 Vásárosnamény, Rákóczi u. 19. | Vitka Templomban keletkezett kár helyreállítási költségeinek támogatása |
+| 43. | Vásárosnamény | 4804 Vásárosnamény, Damjanich út 17. | 634 759 | Római Katolikus Egyházközség Vásárosnamény, 4800 Vásárosnamény, Rákóczi út 19. | Vitka Templomban keletkezett kár helyreállítási költségeinek támogatása |
 
-[^3]: A 3. melléklet az 1713/2019. (XII. 11.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3. melléklet az 1713/2019. (XII. 11.) Korm. határozat 2. pontjával megállapított, az 1390/2020. (VII. 10.) Korm. határozat 3. pontja szerint módosított szöveg.
