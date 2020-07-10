@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1651-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-06 | 2018-1651-30-22.1 | 1651/2018. (XII. 6.) Korm. határozat |
+| 2020-07-10 | 2018-1651-30-22.2 | 1390/2020. (VII. 10.) Korm. határozat |
