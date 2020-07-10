@@ -10,13 +10,13 @@
 
 | 4. | Nyíregyháza Megyei Jogú Város Önkormányzata | Nyíregyháza 0406 hrsz. 1/1 | településfejlesztés, településrendezés, helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás/ vízgazdálkodási, vízkárelhárítási feladatok | Kivett csatorna | 6785 |
 
-2. melléklet az 1355/2017. (VI. 12.) Korm. határozathoz
+2. melléklet az 1355/2017. (VI. 12.) Korm. határozathoz[^1]
 
 Önkormányzati vagyonkezelésbe kerülő, az MNV Zrt. tulajdonosi joggyakorlása alatt álló ingatlanok jegyzéke
 
 | Sor- szám | Helyi önkormányzat | Ingatlan/ tulajdoni hányad | Segítendő közcél/közfeladat | Ingatlan-nyilvántartási megnevezés | Terület (m2) |
 
-| 1. | Békéscsaba Megyei Jogú Város Önkormányzata | Békéscsaba 1505 hrsz. 1/1 | településfejlesztés, településrendezés/közösségi központ létrehozása, a fiatalok megtartása | Kivett irodaház | 23959 |
+| 1. |  |  |  |  |  |
 
 | 2. | Debrecen Megyei Jogú Város Önkormányzata | Debrecen 0493/59 hrsz. 1/1 | településfejlesztés, településrendezés, helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás/vízmű védterület biztosítása, vízgazdálkodási, vízkárelhárítási feladatok | Legelő | 3894 |
 
@@ -45,3 +45,5 @@
 | 14. | Tatabánya Megyei Jogú Város Önkormányzata | Tatabánya 8057 hrsz. 1/1 | óvodai ellátás/óvoda működtetése | Kivett udvar és gyermekotthon | 3399 |
 
 | 15. | Tatabánya Megyei Jogú Város Önkormányzata | Tatabánya 7703/15 hrsz. 1/1 | lakás- és helyiséggazdálkodás/kollégium működtetése | Kivett udvar és épület | 3810 |
+
+[^1]: A 2. melléklet az 1378/2020. (VII. 10.) Korm. határozat 10. pontja szerint módosított szöveg.
