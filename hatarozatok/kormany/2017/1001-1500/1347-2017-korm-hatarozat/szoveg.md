@@ -20,16 +20,18 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2018. évben a felmerülés ütemében, 2019. évre vonatkozóan a 2019. évi költségvetési tervezés során
 
-c) felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon arról, hogy a geszti Tisza-kastélyban az 1. pontban meghatározott célra a Magyarországi Református Egyház által működtetni kívánt feladatokhoz a szükséges források 2020–2024. közötti években évente legfeljebb 160,0 millió forint összegben rendelkezésre álljanak a központi költségvetés Emberi Erőforrások Minisztériuma fejezetében;
+c)[^1] felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon arról, hogy a Magyarországi Református Egyház által a geszti Tisza-kastélyban ellátni kívánt feladatokhoz a szükséges működési források az 1. pontban meghatározott cél megvalósításának évében és az azt követő 4 évben évente legfeljebb 160 000 000 forint összegben rendelkezésre álljanak a központi költségvetés XI. Miniszterelnökség fejezetében;
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
-emberi erőforrások minisztere
+a miniszterelnök általános helyettese
 
-Határidő: 2020–2024. évi költségvetés tervezése során
+Határidő: a felmerülés ütemében és az azt követő évek központi költségvetésének tervezése során
 
 d) felhívja a Miniszterelnökséget vezető minisztert, hogy a kulturális örökség védett elemeivel érintett helyszíneken a műemlékvédelmi szempontokat a legmesszebbmenőkig érvényesítse.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
+
+[^1]: A 2. pont c) alpontja az 1390/2020. (VII. 10.) Korm. határozat 1. pontjával megállapított szöveg.
