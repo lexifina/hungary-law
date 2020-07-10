@@ -18,7 +18,7 @@ f) a „Halászó fiú” és a „Mátyás kút” elnevezésű szökőkutak he
 
 g) a Budapest I. kerület, Táncsics utca 9. szám alatti ingatlant érintő rövid és középtávú fejlesztések megvalósítása érdekében 850 000 000 forint,
 
-h) a Budapest XI. kerület, Talpas utcai telephelyet érintő fejlesztések megvalósítása érdekében 900 000 000 forint
+h)[^1] a Budapest XI. kerület, Daróczi utca 3. szám alatti telephelyet érintő fejlesztések megvalósítása érdekében 900 000 000 forint
 
 forrás biztosításával;
 
@@ -48,6 +48,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a 2020. és a 2021. évi központi költségvetés tervezése során
 
-5.[^1]
+5.[^2]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont h) alpontja az 1384/2020. (VII. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
