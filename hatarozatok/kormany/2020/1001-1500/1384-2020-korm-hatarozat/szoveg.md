@@ -38,14 +38,9 @@ Felelős: a Budai Várnegyed területén megvalósuló kormányzati beruházáso
 
 Határidő: az előkészítési feladatok elvégzését követően azonnal
 
-2. A Nemzeti Hauszmann Program megvalósításáról és a végrehajtásához szükséges 2019. évi, 2020. évi és 2021. évi forrás biztosításáról szóló 1034/2019. (II. 13.) Korm. határozat 2. pont h) alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány
+3.[^2]
 
-egyetért az 1. pontban foglalt célok megvalósításával, és ezek végrehajtása érdekében a Nemzeti Hauszmann Program keretében az alábbi beruházások támogatásához kapcsolódóan)
-
-„h) a Budapest XI. kerület, Daróczi utca 3. szám alatti telephelyet érintő fejlesztések megvalósítása érdekében 900 000 000 forint”
-
-(forrás biztosításával;)
-
-3. A Kormány visszavonja a Téry Ödön Nemzeti Turistaház-fejlesztési Program módosításával kapcsolatos intézkedésekről szóló 1739/2018. (XII. 20.) Korm. határozat 2. pont c) alpontját.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
