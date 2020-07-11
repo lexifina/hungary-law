@@ -10,12 +10,6 @@
 
 | 5. | IKOP-4.1.0-15- 2016-00004 | Kaposfüred elkerülő út előkészítése, (67. sz. főút Kaposvár és az M7 közötti szakasz fejlesztése) | NIF Zrt. | 82,1% | 33 873 362 747 | 7 385 300 769 | 20 009 311 616 | 34 787 728 448 | + 17,9 | – 32 824 443 955 | – 7 385 300 769 | 0 | + 40 209 744 724 | 100 | 1 048 918 792 | 0 | 20 009 311 616 | 74 997 473 172 | 96 055 703 580 | Kaposfüred elkerülő út előkészítése, valamint 2×2 sávos főút építése |
 
-2. melléklet az 1373/2020. (VII. 9.) Korm. határozathoz
+2. melléklet az 1373/2020. (VII. 9.) Korm. határozathoz[^4]
 
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 65j. sora helyébe a következő rendelkezés lép:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 65j. | IKOP-2.1.0-15 | Vasúti infrastruktúra felmérése és adatfeltöltése (VIKI 3. ütem) | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) és Innovációs és Technológiai Minisztérium konzorciuma | 9,00 (becsült támogatási intenzitás: 100%) | A nemzeti infrastruktúra regiszterhez (VIKI) kapcsolódó infrastruktúra-felmérési és adatfeldolgozási, valamint adatbázis feltöltési feladatok ellátása |
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
