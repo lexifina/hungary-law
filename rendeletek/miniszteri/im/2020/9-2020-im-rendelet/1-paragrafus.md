@@ -1,1 +1,0 @@
-## 1. A tartásdíj külföldön való behajtása tárgyában New Yorkban 1956. évi június hó 20. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1957. évi 53. törvényerejű rendelet végrehajtásáról szóló 9/1957. (IX. 13.) IM rendelet módosítása
