@@ -6,6 +6,8 @@
 
 ## forintban
 
+## 0X04709_0
+
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
 
 | Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
@@ -78,10 +80,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-2. melléklet az 1387/2020. (VII. 10.) Korm. határozathoz
+2. melléklet az 1387/2020. (VII. 10.) Korm. határozathoz[^2]
 
-Az 1809/2019. (XII. 27.) Korm. határozat 1. mellékletében foglalt táblázat 13. sora helyébe a következő rendelkezés lép:
-
-| [Sorszám | Kedvezményezett neve | Támogatási cél | Támogatási összeg (forint)] |
-
-| 13. | Aquinói Szent Tamás Közéleti Egyesület | Aquinói Szent Tamás Közéleti Akadémia működésének és programjainak támogatása | 200 000 000 |
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

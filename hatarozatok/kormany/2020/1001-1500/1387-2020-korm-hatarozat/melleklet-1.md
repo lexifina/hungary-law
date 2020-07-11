@@ -28,10 +28,12 @@
 
 ## Határidő: azonnal
 
-## 2. A határon túli célú költségvetési támogatások biztosításáról szóló 1809/2019. (XII. 27.) Korm. határozat [a továbbiakban: 1809/2019. (XII. 27.) Korm. határozat] 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
 1. melléklet az 1387/2020. (VII. 10.) Korm. határozathoz
 
 XI. Miniszterelnökség
 
 XLII. A költségvetés közvetlen bevételei és kiadásai
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
