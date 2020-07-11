@@ -86,6 +86,8 @@
 
 ## Határidő: e határozat közzétételét követő hat hónapon belül
 
-## 10. visszavonja a Modern Városok Program fejlesztéseivel összefüggő egyes vagyonjogi döntésekről szóló 1355/2017. (VI. 12.) Korm. határozat 2. mellékletében foglalt táblázat 1. sorát.
+## 10.[^1]
 
 1. melléklet az 1378/2020. (VII. 10.) Korm. határozathoz
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
