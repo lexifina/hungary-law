@@ -10,4 +10,6 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-2. Az 1504/2019. (VIII. 23.) Korm. határozat 1. pont c) alpontjában a „2020. március 31.” szövegrész helyébe a „2020. december 31.” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
