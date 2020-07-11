@@ -1,0 +1,1 @@
+## 11. § Az épületek energetikai jellemzőire, illetve a munkahelyek természetes megvilágításának biztosítására vonatkozó előírásokat csak a 10. §-ban meghatározott követelmények figyelembevétele mellett, azzal összhangban kell alkalmazni.
