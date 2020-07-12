@@ -18,7 +18,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „63,34” szövegrész helyébe a „65,35” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1388/2020. (VII. 10.) Korm. határozathoz
 
@@ -45,3 +45,5 @@
 | 10. | EFOP-4.1.2-17- 2017-00105 | „Test és lélek” – Egészség- és művészetfejlesztés a gyenesdiási Kárpáti János Általános és Alapfokú Művészeti Iskolában | Nagykanizsai Tankerületi Központ | 787 348 000 | 520 510 720 | 120 636 938 | 1 428 495 658 | A projekt célja a 8315 Gyenesdiás, Kossuth Lajos utca 91. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
 
 | 11. | EFOP-4.1.2-17- 2017-00106 | A Zalaapáti Gábor Áron Általános Iskola infrastrukturális fejlesztése a hátránykompenzáció elősegítése és a minőségi oktatás megteremtése érdekében | Nagykanizsai Tankerületi Központ | 260 350 000 | – | 611 089 121 | 871 439 121 | A projekt célja a 8741 Zalaapáti, Deák Ferenc utca 2. szám alatti köznevelési intézmény infrastrukturális fejlesztése. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
