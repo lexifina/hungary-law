@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-230-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-06-29 | 2013-230-20-22.1 | 230/2013. (VI. 28.) Korm. rendelet |
+| 2020-07-12 | 2013-230-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
