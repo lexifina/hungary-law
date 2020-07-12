@@ -1,0 +1,382 @@
+# A Kormány 341/2020. (VII. 12.) Korm. rendelete
+
+Magyar Közlöny 2020. évi 166. szám, 2020. július 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/PpyHMxciWyBwYJveMDzn5f034632519d2/dokumentumok/3ded363d88858fa8cb693217c955d93eced831f3/letoltes)
+
+---
+
+A Kormány 341/2020. (VII. 12.) Korm. rendelete
+a járványügyi készültségi időszak utazási korlátozásairól
+A Kormány
+az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1b) bekezdés c) pontjában kapott felhatalmazás alapján,
+a 11. §, a 12. § és a 19. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 9. § tekintetében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdés
+a) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. Általános rendelkezések
+1. § (1) E rendelet hatálya a magánútlevéllel, valamint egyéb úti okmánnyal végrehajtott nem hivatalos célú határátlépésére
+terjed ki.
+(2) E rendelet alkalmazásában a magyar állampolgárral azonos megítélés alá esik,
+a) aki Magyarországon állandó tartózkodásra jogosult és családtagja, ha ezt a jogát okmánnyal igazolja, illetve
+b) aki rendelkezik az idegenrendészeti hatóság valamely jogcímen 90 napot meghaladó idejű tartózkodásra
+kiadott, érvényes Magyarország területén való tartózkodásra jogosító engedélyével, és az erről szóló
+okmányt belépéskor bemutatja.
+(3) E rendelet hatálya nem terjed ki
+a) a teherforgalomban történő határátlépésre,
+b) a külföldre utazásról szóló 1998. évi XII. törvény 11. § (1) bekezdése szerinti hivatalos útlevéllel történő
+határátlépésre, valamint
+c) arra a személyre, aki a Magyarországra való belépés során hitelt érdemlően igazolja, hogy a határátlépésre
+jelentkezés napját megelőző 6 hónapon belül a COVID-19 betegségen átesett.
+(4) E rendelet alkalmazásában hivatalos célú határátlépés a magánútlevéllel, valamint az egyéb úti okmánnyal
+végrehajtott hivatalos látogatás céljából történő határátlépés.
+2. Az országok besorolása
+2. § (1) A COVID-19 betegséggel (a továbbiakban: fertőzés) való aktuális fertőzöttségi viszonyok alapján az országok, ha
+a) az aktuális fertőzöttség mértéke alacsony, zöld,
+b) az aktuális fertőzöttség mértéke kevésbé súlyos, sárga,
+c) az aktuális fertőzöttség mértéke súlyos, piros
+jelzéssel kerülnek besorolásra.
+(2) A járványügyi készültség során működő Operatív Törzs feladatairól szóló 286/2020. (VI. 17.) Korm. rendelet 1. §
+(1) bekezdése alapján létrehozott Operatív Törzs felhívására, az országok aktuális fertőzöttségi viszonyai alapján
+az országos tisztifőorvos határozatban közzéteszi a sárga és a piros jelzéssel besorolt országok listáját.
+(3) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 89. § (2) bekezdése szerinti közhírré tétel mellett
+a (2) bekezdés szerinti határozatról készült közleményt a Hivatalos Értesítőben is közzé kell tenni.
+(4) Azok az országok, amelyek a (2) bekezdés szerinti határozatban nem kerültek besorolásra, zöld jelzéssel besorolt
+országnak minősülnek.
+
+3. Magyar állampolgárok Magyarországra történő belépésének szabályai
+3. § (1) Külföldről érkező magyar állampolgár, illetve a magyar állampolgár magyar állampolgársággal nem rendelkező
+családtagja (a továbbiakban együtt: magyar állampolgár) személyforgalomban
+a) zöld jelzéssel besorolt ország területéről Magyarország területére korlátozás nélkül beléphet,
+b) sárga vagy piros jelzéssel besorolt ország területéről történő belépés során – törvényben vagy
+kormányrendeletben meghatározott kivétellel – egészségügyi vizsgálaton esik át, amelynek tűrésére köteles.
+(2) Ha a magyar állampolgár esetében az egészségügyi vizsgálat a fertőzés gyanúját állapítja meg, a járványügyi
+hatóság által meghatározottak szerint kijelölt karanténban vagy – ha az nem jelent járványügyi kockázatot –
+hatósági házi karanténban kerül elhelyezésre.
+(3) Ha a magyar állampolgár esetében az egészségügyi vizsgálat a fertőzés gyanúját nem állapítja meg, és
+a) az érintett magyarországi lakóhellyel vagy tartózkodási hellyel rendelkezik, 14 napra hatósági házi
+karanténban,
+b) az érintett magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkezik, 14 napra a járványügyi
+hatóság által kijelölt karanténban
+kerül elhelyezésre.
+(4) A járványügyi hatóság a kijelölt karanténban és a hatósági házi karanténban lévő személyeket nyilvántartásba veszi.
+(5) A (3) bekezdésben foglaltaktól eltérően nem szükséges a járványügyi megfigyelés, ha a magyar állampolgár
+a Magyarországra történő belépést megelőző 5 napon belül, legalább 48 órás időkülönbséggel, két alkalommal
+elvégzett, az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt –
+eredményét tartalmazó, magyar vagy angol nyelvű okirattal igazolja, hogy SARS-CoV-2 koronavírus a szervezetében
+a vizsgálat időpontjában nem volt kimutatható.
+(6) A (2) bekezdés és a (3) bekezdés a) pontja szerint hatósági házi karanténban elhelyezett személy kérelmére
+– amennyiben sárga besorolású ország területéről lépett Magyarország területére – a hatósági házi karantént
+elrendelő határozat kiadására illetékes járványügyi hatóság engedélyezheti a hatósági házi karanténban elhelyezett
+számára, hogy 48 óra különbséggel, két alkalommal az egészségügyi szakmai szabályoknak megfelelő, molekuláris
+biológiai vizsgálaton – SARS-CoV-2 teszt – vegyen részt.
+(7) Amennyiben (6) bekezdés szerinti esetben az első molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – igazolja, hogy
+a hatósági házi karanténban elhelyezett személy szervezetében a SARS-CoV-2 koronavírus a vizsgálat időpontjában
+nem kimutatható, úgy a hatósági házi karantént előíró rendelkezés alól a hatósági házi karantént elrendelő
+határozat kiadására illetékes járványügyi hatóság felmentést ad.
+(8) A (6) bekezdés szerinti kérelmező köteles a második molekuláris biológiai vizsgálat – SARS-CoV-2 teszt –
+lefolytatására, amelynek pozitív eredménye esetén az illetékes járványügyi hatóság ismételten hatósági házi
+karantént rendel el.
+(9) A (2) bekezdés és a (3) bekezdés a) pontja szerint hatósági házi karanténban elhelyezett személy kérelmére
+– amennyiben piros besorolású ország területéről lépett Magyarország területére – a hatósági házi karantént
+elrendelő határozat kiadására illetékes járványügyi hatóság engedélyezheti a hatósági házi karanténban elhelyezett
+számára, hogy 48 óra különbséggel, két alkalommal az egészségügyi szakmai szabályoknak megfelelő, molekuláris
+biológiai vizsgálaton – SARS-CoV-2 teszt – vegyen részt.
+(10) Ha a (9) bekezdés szerint elkészült, két alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő,
+molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – igazolja, hogy a hatósági házi karanténban elhelyezett személy
+szervezetében a SARS-CoV-2 koronavírus a vizsgálat időpontjában nem kimutatható, úgy a hatósági házi karantént
+előíró rendelkezés alól a hatósági házi karantént elrendelő határozat kiadására illetékes járványügyi hatóság
+felmentést ad.
+4. A magyar állampolgársággal nem rendelkezők Magyarországra történő belépésének szabályai
+4. § (1) Külföldről érkező nem magyar állampolgár személyforgalomban zöld jelzéssel besorolt ország területéről
+Magyarország területére korlátozás nélkül beléphet.
+(2) Ha az (1) bekezdés szerint Magyarország területére belépett, Magyarország területén tartózkodó személy a belépést
+követő 14 napon belül a fertőzés tünetét észleli, akkor a lakóhelyét, tartózkodási helyét vagy szálláshelyét nem
+hagyhatja el, és haladéktalanul köteles telefonon értesíteni a járványügyi hatóságot.
+
+5. § (1) Külföldről érkező nem magyar állampolgár személyforgalomban sárga jelzéssel besorolt ország területéről történő
+belépés során – törvényben vagy kormányrendeletben meghatározott kivétellel – egészségügyi vizsgálaton esik át,
+amelynek tűrésére köteles.
+(2) Ha az (1) bekezdés szerinti személy esetében az egészségügyi vizsgálat a fertőzés gyanúját állapítja meg,
+Magyarország területére nem léptethető be.
+(3) Ha az (1) bekezdés szerinti személy esetében az egészségügyi vizsgálat a fertőzés gyanúját nem állapítja meg,
+14 napra a járványügyi hatóság által kijelölt karanténban vagy – ha arra lehetőség van és nem jelent járványügyi
+kockázatot – hatósági házi karanténban kerül elhelyezésre.
+(4) A járványügyi hatóság a kijelölt karanténban és a hatósági házi karanténban lévő személyeket nyilvántartásba veszi.
+(5) Nem szükséges a járványügyi megfigyelés, ha az (1) bekezdés szerinti személy a Magyarországra történő belépést
+megelőző 5 napon belül, legalább 48 órás időkülönbséggel, két alkalommal elvégzett, az egészségügyi szakmai
+szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – eredményét tartalmazó, magyar vagy
+angol nyelvű okirattal igazolja, hogy SARS-CoV-2 koronavírus a szervezetében a vizsgálat időpontjában nem volt
+kimutatható.
+(6) A (3) bekezdés szerint hatósági házi karanténban elhelyezett személy kérelmére a hatósági házi karantént elrendelő
+határozat kiadására illetékes járványügyi hatóság engedélyezheti a hatósági házi karanténban elhelyezett számára,
+hogy 48 óra különbséggel, két alkalommal az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai
+vizsgálaton – SARS-CoV-2 teszt – vegyen részt.
+(7) Amennyiben (6) bekezdés szerinti esetben az első molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – igazolja, hogy
+a hatósági házi karanténban elhelyezett személy szervezetében a SARS-CoV-2 koronavírus a vizsgálat időpontjában
+nem kimutatható, úgy a hatósági házi karantént előíró rendelkezés alól a hatósági házi karantént elrendelő
+határozat kiadására illetékes járványügyi hatóság felmentést ad.
+(8) A (6) bekezdés szerinti kérelmező köteles a második molekuláris biológiai vizsgálat – SARS-CoV-2 teszt –
+lefolytatására, amelynek pozitív eredménye esetén az illetékes járványügyi hatóság ismételten hatósági házi
+karantént rendel el.
+6. §
+Külföldről érkező nem magyar állampolgár személyforgalomban Magyarország területére a piros jelzéssel besorolt
+ország területéről nem léphet be.
+5. Különös méltánylást érdemlő esetek
+7. § (1) Az 5. és a 6. §-ban meghatározott rendelkezések alól a (2) bekezdésben meghatározott esetekben a Magyarország
+területére történő tervezett belépés helye szerint illetékes helyi rendőri szerv, a Budapest Liszt Ferenc nemzetközi
+repülőtéren történő határátlépés esetén a BRFK XVIII. kerületi Rendőrkapitányság (a továbbiakban: rendőri szerv)
+kérelemre felmentést adhat.
+(2) A rendőri szerv az (1) bekezdés szerint – a (8) bekezdés szerinti kivétellel – engedélyezheti a beutazást, ha
+a kérelmező igazolja, hogy a belépés célja:
+a) a magyarországi bírósági vagy hatósági eljáráshoz kapcsolódó, magyar bíróság vagy hatóság által kiállított
+okirattal igazolt eljárási cselekményen történő részvétel,
+b) olyan üzleti célú tevékenység vagy egyéb munkavégzés, amelyek indokoltságát központi kormányzati
+igazgatási szerv, önálló szabályozó szerv vagy autonóm államigazgatási szerv meghívólevelével igazolja,
+c) az egészségügyi intézmény beutalójával vagy más megfelelő igazolással egészségügyi ellátás igénybe vétele,
+d) a hallgatói vagy a tanulói jogviszony alapján fennálló tanulmányi vagy vizsgakötelezettség teljesítése, ha ezt
+az oktatási intézmény által kiállított igazolás tanúsítja,
+e) a fuvarozási tevékenységgel összefüggő munkavégzéshez kapcsolódó utazás személyforgalomban,
+amelynek célja a fuvarfeladat kiindulópontjára (munkavégzés megkezdésének helyszínére) történő eljutás
+vagy az ilyen munkavégzést követően személyforgalomban történő hazatérés, ha ezt a munkáltató által
+kiállított igazolás tanúsítja,
+f) a családi eseményeken (házasságkötés, keresztelő, temetés) részvétel,
+g) a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozó gondozása, ápolása,
+h) a kiemelt jelentőségű, nemzetközi vonatkozású sport-, kulturális, illetve egyházi rendezvényen történő
+részvétel vagy
+i) az a)–h) ponton kívüli méltányolható ok.
+
+(3) Az (1) bekezdés szerinti kérelem
+a) kizárólag elektronikus úton terjeszthető elő, magyar, illetve angol nyelven nyújtható be,
+b) benyújtható törvényes képviselő vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazásban
+megjelölt meghatalmazott útján is.
+(4) Ha a beutazásra ugyanabban az időpontban kerül sor, és a beutazás indoka azonos, úgy az érintett személyek
+meghatalmazásának csatolása esetén egy meghatalmazott több személy nevében egy kérelmet terjeszthet elő.
+(5) Azonos okból és időpontban történő határátlépés esetében a kérelmezővel egy háztartásban élő közeli
+hozzátartozók tekintetében – a (4) bekezdés alkalmazásával – elegendő egy kérelmet benyújtani.
+(6) A kérelemben fel kell tüntetni a beutazás (2) bekezdés szerinti célját, meg kell nevezni az érintett
+személyazonosításra alkalmas, az államhatár átlépéséhez felhasználni kívánt okmányt, meg kell adni az okmány
+azonosító számát, valamint a kérelemhez csatolni kell:
+a) – ha az a kérelem indokára figyelemmel lehetséges – a beutazás (2) bekezdés szerinti célját igazoló irat
+másolatát,
+b) meghatalmazott útján történő eljárás esetén a meghatalmazást.
+(7) Az (1) bekezdés szerinti kérelem kizárólag
+a) elektronikus ügyintézés keretében cégkapuról vagy ügyfélkapuról megküldött elektronikus űrlap,
+b) cégkapu vagy ügyfélkapu igénybevételi lehetőségének hiányában a rendőrség internetes honlapján elérhető
+intelligens űrlap
+kitöltésével és beküldésével nyújtható be.
+(8) A kérelmet a rendőri szerv elutasítja, ha
+a) a beutazás (2) bekezdés szerinti céljával kapcsolatban kétség merül fel,
+b) a beutazás
+ba) járványügyi,
+bb) közbiztonsági vagy
+bc) nemzetbiztonsági
+okból kockázatos.
+(9) A rendőri szerv határozatával szemben benyújtott fellebbezést a rendőri szerv irányítását ellátó megyei (fővárosi)
+rendőr-főkapitányság bírálja el.
+8. § (1) A kérelem megalapozottságának igazolása érdekében a 7. § (2) bekezdés és a 7. § (6) bekezdés a) pontja alapján
+benyújtott irat (a továbbiakban: megalapozottságot igazoló irat) eredeti példányát a Magyarország területére
+történő belépéskor a beutazási tilalom alól felmentett személy (a továbbiakban: engedélyes) köteles a rendőr
+felhívására bemutatni.
+(2) Ha az engedélyes az (1) bekezdés szerint a megalapozottságot igazoló irat eredeti példányát nem mutatja be, vagy
+annak hitelességével kapcsolatban a belépéskor kétség merül fel, a belépést meg kell tagadni.
+(3) Az engedélyes a Magyarországra való belépés során egészségügyi vizsgálaton esik át, amelynek tűrésére köteles,
+a) akinél az egészségügyi vizsgálat a fertőzés gyanúját állapítja meg, Magyarország területére nem léptethető
+be,
+b) akinél az egészségügyi vizsgálat során a fertőzés gyanúja nem merül fel, 14 napra a járványügyi hatóság által
+kijelölt karanténban vagy hatósági házi karanténban kerül elhelyezésre.
+(4) A kijelölt karanténban és a hatósági házi karanténban elhelyezett személyeket a járványügyi hatóság
+nyilvántartásba veszi.
+(5) A (3) bekezdés b) pontja szerint hatósági házi karanténban elhelyezett személy kérelmére – amennyiben sárga
+besorolású ország területéről lépett Magyarország területére – a hatósági házi karantént elrendelő határozat
+kiadására illetékes járványügyi hatóság engedélyezheti a hatósági házi karanténban elhelyezett számára, hogy
+48 óra különbséggel, két alkalommal az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai
+vizsgálaton – SARS-CoV-2 teszt – vegyen részt.
+(6) Amennyiben (5) bekezdés szerinti esetben az első molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – igazolja, hogy
+a hatósági házi karanténban elhelyezett személy szervezetében a SARS-CoV-2 koronavírus a vizsgálat időpontjában
+nem kimutatható, úgy a hatósági házi karantént előíró rendelkezés alól a hatósági házi karantént elrendelő
+határozat kiadására illetékes járványügyi hatóság felmentést ad.
+(7) Az (5) bekezdés szerinti kérelmező köteles a második molekuláris biológiai vizsgálat – SARS-CoV-2 teszt –
+lefolytatására, amelynek pozitív eredménye esetén az illetékes járványügyi hatóság ismételten hatósági házi
+karantént rendel el.
+
+(8) A (3) bekezdés b) pontja szerint hatósági házi karanténban elhelyezett személy kérelmére – amennyiben piros
+besorolású ország területéről lépett Magyarország területére – a hatósági házi karantént elrendelő határozat
+kiadására illetékes járványügyi hatóság engedélyezheti a hatósági házi karanténban elhelyezett számára, hogy
+48 óra különbséggel, két alkalommal az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai
+vizsgálaton – SARS-CoV-2 teszt – vegyen részt.
+(9) Ha a (8) bekezdés szerint elkészült, két alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő,
+molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – igazolja, hogy a hatósági házi karanténban elhelyezett személy
+szervezetében a SARS-CoV-2 koronavírus a vizsgálat időpontjában nem kimutatható, úgy a hatósági házi karantént
+előíró rendelkezés alól a hatósági házi karantént elrendelő határozat kiadására illetékes járványügyi hatóság
+felmentést ad.
+6. Járványügyi adatkezelés
+9. § (1) A Kormány egészségügyi államigazgatási szervként az általános rendőrségi feladatok ellátására létrehozott szervet
+(a továbbiakban: rendőrség) is kijelöli
+a) a járványügyi elkülönítésre, járványügyi megfigyelésre, járványügyi zárlatra, valamint járványügyi
+korlátozásra vonatkozó szabályok betartásának ellenőrzése,
+b) a járványügyi elkülönítés, járványügyi megfigyelés, járványügyi zárlat, valamint járványügyi korlátozás alatt
+álló személyek nyilvántartása,
+c) a közegészségügyi-járványügyi veszélynek kitett személyek, az ilyen személlyel kapcsolatban álló vagy
+kapcsolatba került és ezért közegészségügyi-járványügyi szempontból veszélyeztetett személyek
+nyilvántartása
+céljából.
+(2) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi
+XLVII. törvény 5. § (3) bekezdése szerint kezelt személyes adatot az adatkezelő – a rendőrség járványügyi
+hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén, a rendőrség részére
+haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.
+(3) A járványügyi hatóság a hatósági házi karantén elrendeléséről vagy az egészségügyről szóló 1997. évi CLIV. törvény
+(a továbbiakban: Eütv.) alapján a járványügyi elkülönítésről, járványügyi megfigyelésről, járványügyi zárlatról,
+valamint járványügyi korlátozásról szóló határozatot soron kívül továbbítja a rendőrség részére az ellenőrzési
+feladatainak ellátása érdekében.
+(4) A rendőrség a (3) bekezdésben meghatározott adatokat a járványügyi védekezés és a hatósági házi karantén
+szabályai megtartásának ellenőrzése céljából nyilvántartja. A nyilvántartásba nem vehető fel olyan adat, amely
+a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nem szükséges.
+A nyilvántartásban szereplő adatokat a hatósági házi karantén, a járványügyi elkülönítés, a járványügyi megfigyelés,
+a járványügyi zárlat, valamint a járványügyi korlátozás megszűnésének időpontjában törölni kell.
+7. A katonai konvojok belépésére vonatkozó rendelkezések
+10. §
+A katonai konvojok Magyarország területére az ország jelzésétől függetlenül beléphetnek, illetve Magyarország
+területén áthaladhatnak, ha a csapatmozgás során kizárólag technikai eszköz, felszerelés és az állomány mozgatása
+történik, és a szomszédos országok részéről biztosított a határátlépés engedélyezése, valamint ha az
+a) szövetségesi kötelezettség vagy nemzetközi megállapodás alapján fennálló feladat végrehajtása érdekében
+történik,
+b) az Országgyűlés vagy a Kormány által már engedélyezett katonai csapatmozgásnak minősül,
+c) kizárólag Magyarország területén való áthaladást szolgálja, és
+d) magyar rendőri vagy katonai rendészi biztosítással, meghatározott útvonalon és – a feltétlenül szükséges
+üzemanyag-felvétel, valamint a biztosítást végző által kijelölt helyen végrehajtható pihenő kivételével –
+megállás nélkül történik.
+
+8. A kapcsolt vállalkozások közötti utazásra és a korlátozott sávban történő határátlépésre vonatkozó
+szabályok
+11. § (1) A külföldről érkező személy a közbiztonságért felelős miniszter által meghatározott államok területéről
+Magyarország területére korlátozás nélkül beléphet, ha olyan belföldi vagy a közbiztonságért felelős miniszter
+által meghatározott államok egyikében bejegyzett gazdasági társaság vezető tisztségviselője vagy munkavállalója,
+amely egyben a közbiztonságért felelős miniszter által meghatározott államok közül legalább egyikében bejegyzett
+további gazdasági társasággal a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja
+szerinti vállalkozási viszonyban áll.
+(2) Az (1) bekezdés szerinti korlátozás nélkül történő belépésre akkor kerülhet sor, ha az (1) bekezdés szerinti személy
+az üzleti célú utazás tényét valószínűsíti.
+9. A korlátozott sávban történő határátlépés
+12. § (1) A külpolitikáért felelős miniszter által – a határrendészetért felelős miniszterrel egyetértésben – meghatározott
+szomszédos állam polgárai Magyarország területére legfeljebb 24 óra időtartamra az államhatártól számított
+30 kilométeres távolságon belülre beléphetnek.
+(2) Az (1) bekezdés szerint Magyarország területén tartózkodó személy Magyarország területének
+az államhatárvonaltól számított 30 kilométeres sávján belül köteles tartózkodni, és köteles Magyarország területét
+a belépést követő 24 órán belül elhagyni.
+10. Az agrárágazatban dolgozókra vonatkozó rendelkezések
+13. § (1) A szomszédos államokból a szomszédos állam állampolgára, aki az agrárágazat (TEÁOR és TESZOR 01, 02 és 03)
+munkaerőigényének biztosítása céljából utazik be (a továbbiakban: agrárágazatban dolgozó) Magyarország
+területére a (2)–(8) bekezdések szerint léphet be.
+(2) Az agrárágazatban dolgozó csak az országos rendőrfőkapitány által erre a célra kijelölt és a rendőrség honlapján
+közzétett határátkelőhelyen, csoportosan léptethető be Magyarország területére.
+(3) A beléptetés feltételeiről és tervezett idejéről az agrárágazatban dolgozót előzetesen az agrárágazatban dolgozó
+munkáltatója (a továbbiakban: munkáltató) az anyanyelvén írásos formában tájékoztatja.
+(4) Az agrárágazatban dolgozó beléptetésére abban az esetben kerülhet sor, ha
+a) a munkáltató a tervezett belépés előtt legalább 48 órával az agrárágazatban dolgozó belépéséről az országos
+rendőrfőkapitány által meghatározott elektronikus formában értesíti a (2) bekezdés szerint kijelölt és igénybe
+venni kívánt határátkelőhely szerint illetékes határrendészeti kirendeltséget
+aa) az agrárágazatban dolgozó nevét,
+ab) a határátlépés során felhasználni kívánt személyazonosításra alkalmas okmányának számát,
+ac) a tervezett munkavégzés és a szállás helyét és a munkavégzés tervezett időpontját
+tartalmazó kimutatás megküldésével,
+b) az agrárágazatban dolgozó egészségügyi vizsgálaton átesett, és ennek során COVID-19 fertőzés gyanúját
+nem állapították meg.
+(5) Az agrárágazatban dolgozó beléptetésének az Európai Gazdasági Térség tagállamán kívüli harmadik ország
+állampolgárának magyarországi foglalkoztatására vonatkozó jogszabályban előírt rendelkezéseken túl további
+feltétele a munkáltatóval kötött érvényes és hatályos munkaszerződés megléte, vagy a munkáltató által
+a munkaviszony fennállásáról kiállított igazolás eredeti példányának bemutatása, amelyben a munkavégzés
+ágazatát, helyét és a jogviszony időtartamát a munkáltató feltüntette.
+(6) A (4) és (5) bekezdésen kívül a Magyarország területére történő belépés további feltétele:
+a) a határátlépés alkalmával a (4) bekezdés a) pontja szerinti értesítés másolatának bemutatása,
+b) a munkáltatóval kötött érvényes munkaszerződés vagy a munkáltató által a munkaviszony fennállásáról
+kiállított igazolás eredeti példányának bemutatása, amelyben a munkavégzés ágazatát, helyét és
+a jogviszony időtartamát a munkáltató feltüntette.
+(7) Az agrárágazatban dolgozót a járványügyi hatóság nyilvántartásba veszi.
+(8) Az agrárágazatban dolgozó Magyarországra történő belépését követő 14 napon keresztül a munkáltató és
+az agrárágazatban dolgozó a 14. § szerinti munkahelyi karanténra vonatkozó szabályokat köteles betartani.
+
+14. § (1) Az agrárágazatban dolgozót a beléptető határátkelőhelytől a munkáltatónak kell szervezett formában, csoportosan
+a szállás helyére szállítania, az agrárágazatban dolgozó egyéni utazása a munkahelyi karantén ideje alatt tilos.
+(2) Az agrárágazatban dolgozó a munkahelyi karantén ideje alatt a szálláshelyét csak a munkavégzés céljából és csak
+csoportosan hagyhatja el.
+(3) Az agrárágazatban dolgozó étkezéséről és ellátásáról a munkáltató gondoskodik.
+(4) Ha az agrárágazatban dolgozó a munkahelyi karantén időtartama alatt bármilyen, a fertőzésre utaló tünetet
+tapasztal, köteles erről a munkáltatót azonnal tájékoztatni.
+(5) A fertőzésre utaló tünetet észlelését követően az agrárágazatban dolgozó munkát nem végezhet, őt a munkáltató
+köteles elkülöníteni a többi agrárágazatban dolgozótól, és a munkáltató köteles egy órán belül telefonon
+tájékoztatni a járványügyi hatóságot.
+(6) Az agrárágazatban dolgozó Magyarország területéről való kiléptetését a tervezett kilépés előtt legalább 48
+órával a munkáltató előre bejelenti a belépésre igénybe vett határátkelőhely szerint illetékes határrendészeti
+kirendeltségnek és a járványügyi hatóságnak.
+11. A Magyarországon átutazó személyekre vonatkozó szabályok
+15. § (1) Külföldről érkező nem magyar állampolgár személyforgalomban, tranzitáthaladás érdekében Magyarország
+területére beléphet, ha a belépéskor aláveti magát egészségügyi vizsgálatnak, és az egészségügyi vizsgálat
+a fertőzés gyanúját nem állapítja meg.
+(2) Az (1) bekezdés szerinti célból történő belépés további feltétele, hogy a külföldről érkező nem magyar állampolgár
+a) rendelkezzen a schengeni határellenőrzési kódexben előírt beutazási feltételekkel,
+b) hitelt érdemlően igazolja az utazásának célját és utazása célországát, valamint
+c) célországba történő beutazása, és ennek érdekében a tervezett utazás útvonalán fekvő, Magyarországgal
+szomszédos államba történő belépése biztosított.
+(3) Az (1) bekezdés szerint beléptetett, külföldről érkező nem magyar állampolgár a Magyarország területén történő
+áthaladás során csak az (5) bekezdés szerint meghatározott útvonalon közlekedhet, és – a (4) bekezdés szerinti
+kivétellel – kizárólag az áthaladáshoz elengedhetetlenül szükséges okból – így különösen egészségügyi vagy
+műszaki okból –, az (5) bekezdés szerint meghatározott pihenőhelyeken állhat meg, és az (5) bekezdés szerint
+meghatározott idő – de legfeljebb 24 óra – alatt köteles elhagyni Magyarország területét.
+(4) Az (1) bekezdés szerint beléptetett, külföldről érkező nem magyar állampolgár az (5) bekezdés szerint
+meghatározott pihenőhelyen történő megálláson kívül a meghatározott útvonalon való haladását csak azonnali
+beavatkozást igénylő műszaki vagy egészségügyi szükséghelyzetben szakíthatja meg, és állhat meg.
+(5) Az országos rendőrfőkapitány meghatározza, és a rendőrség hivatalos honlapján közzéteszi az átutazó forgalom
+be- és kilépésére szolgáló közúti határátkelőhelyeket, az átmenő forgalom útvonalát, a pihenőhelyeket és
+a Magyarország elhagyására rendelkezésre álló időkeretet.
+12. A nemzetközi sporteseményekre, sportolókra, valamint sportszakemberekre vonatkozó
+rendelkezések
+16. § (1) A sárga és a piros jelzéssel besorolt ország területéről a Magyarország területén megrendezésre kerülő nemzetközi
+sportesemény résztvevője – ide nem értve a nézőt – Magyarország területére korlátozás nélkül beléphet.
+(2) A magyarországi sportszervezet vagy országos sportági szakszövetség meghívására érkező versenyengedéllyel
+rendelkező sportoló, sportszakember, valamint a sportrendezvény lebonyolításában közreműködő személy, illetve
+a Magyarország területén megrendezésre kerülő nemzetközi sportrendezvény esetében az (1) bekezdés alá nem
+tartozó, azonban a Magyarországon megrendezésre kerülő sportrendezvény hivatalos szervezője által, névre
+szólóan kiadott meghívólevéllel rendelkező személy – az (1) bekezdés szerinti kivétellel – a sárga vagy a piros
+jelzéssel besorolt ország területéről Magyarország területére akkor léphet be, ha a Magyarországra történő belépést
+megelőző 5 napon belül, legalább 48 órás időkülönbséggel, két alkalommal elvégzett, az egészségügyi szakmai
+szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – eredményét tartalmazó, magyar vagy
+angol nyelvű okirattal igazolja, hogy SARS-CoV-2 koronavírus a szervezetében a vizsgálat időpontjában nem volt
+kimutatható.
+
+13. Záró rendelkezések
+17. §
+E rendelet alkalmazásakor az Eütv. 67/A. § (4) bekezdése szerint kell eljárni akkor is, ha az 5. § (3) bekezdés és a 8. §
+(3) bekezdés b) pontja esetén a járványügyi intézkedés alá vont személy részére megfelelő lakás, ahhoz tartozó
+bekerített hely hiányában hatósági házi karantén kijelölésére nem volt lehetőség.
+18. §
+A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi
+II. törvény 239/A. § (1) bekezdésében meghatározott védelmi intézkedés megszegése szabálysértés alkalmazásában
+védelmi intézkedésnek minősül a 3. § (1) bekezdés b) pontja, (2) és (3), valamint (5)–(10) bekezdése, a 4. §
+(2) bekezdése, az 5. § (1) és (3), valamint (5)–(8) bekezdése, a 8. § (1) és (3), valamint (5)–(9) bekezdése, a 11. §
+(2) bekezdése, a 12. § (2) bekezdése, a 13. § (8) bekezdése, a 14. §, és a 15. § (2)–(4) bekezdése.
+19. § (1) Felhatalmazást kap a közbiztonságért felelős miniszter, hogy rendeletben állapítsa meg – a 11. § (1) bekezdése
+szerinti – azon államokat, amelyek esetében a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény
+4. § 23. pontja szerinti vállalkozási viszonyban álló gazdasági társaságok vezető tisztségviselői, illetve munkavállalói
+Magyarország területére korlátozás nélkül beléphetnek.
+(2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben,
+rendeletben állapítsa meg – a 12. § (1) bekezdés szerinti – azon szomszédos államokat, amelyek polgárai
+Magyarország területére legfeljebb 24 óra időtartamra az államhatártól számított 30 kilométeres távolságon belül
+beléphetnek.
+20. §
+Ez a rendelet a 2020. július 15-én lép hatályba.
+21. §
+Hatályát veszti
+a) a járványügyi készültségi időszak utazási korlátozásairól szóló 291/2020. (VI. 17.) Korm. rendelet,
+b) a járványügyi készültségi időszakban nemzetközi viszonosság alapján belépésre jogosultság, valamint
+a korlátozott sávban történő határátlépés körébe tartozó államokról szóló 9/2020. (VI. 17.) KKM rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó Kft.
+Felelős kiadó: Papp Tibor ügyvezető.
+V. A Kormány tagjainak rendeletei
