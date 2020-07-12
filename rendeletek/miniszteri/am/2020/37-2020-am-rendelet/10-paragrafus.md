@@ -1,3 +1,3 @@
-## „e) a rendelet kihirdetésének napja és az igénylőlap beadásának napja (a határnapokat is beleértve) közötti időszakban hatályos Széchenyi Kártya Folyószámlahitel szerződésből, Széchenyi Kártya Folyószámlahitel Plusz szerződésből, Folyószámlahitel szerződésből – ideértve a hitelkeret szerződéseket is – eredő fizetési kötelezettségét az eredeti hiteszeződésben vagy a rendelet kihirdetésének napján hatályos, módosított hitelszerződésben jelzett véglejárati időpont előtt végtörlesztéssel nem szüntette meg; és
+## 9. §[^1]
 
-## f) vállalja, hogy a rendelet alapján támogatásban részesülő Folyószámlahitelét nem használja fel a rendelet kihirdetésének napján vagy azt követően fennálló, az e) pont alá nem tartozó hitelszerződéséből, lízingszerződéséből, faktoring szerződéséből, garanciaszerződéséből vagy egyéb hitelviszony-jellegű szerződésből származó fizetési kötelezettségének az eredeti szerződésben vagy a rendelet kihirdetésének napján hatályos, módosított szerződésben jelzett véglejárati időpont előtti megszüntetésére.”
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
