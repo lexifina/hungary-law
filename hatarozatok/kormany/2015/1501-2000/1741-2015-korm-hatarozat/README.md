@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1741-30
 | 2017-12-04 | 2015-1741-30-22.9 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2018-07-26 | 2015-1741-30-22.10 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2019-04-18 | 2015-1741-30-22.11 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2020-07-14 | 2015-1741-30-22.12 | 1182/2016. (IV. 11.) Korm. határozat |
