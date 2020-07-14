@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1086-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-04-09 | 2010-1086-30-22.1 | 1086/2010. (IV. 9.) Korm. határozat |
+| 2020-07-14 | 2010-1086-30-22.2 | 1395/2020. (VII. 14.) Korm. határozat |

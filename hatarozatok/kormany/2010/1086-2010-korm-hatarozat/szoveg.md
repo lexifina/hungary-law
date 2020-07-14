@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért azzal, hogy a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2006. december 6-i 1794/2006/EK bizottsági rendelet (a továbbiakban: Bizottsági Díjrendelet) 9. cikk (4) bekezdése alapján a léginavigációs díjak fizetése alól felmentett repülések költségeinek a léginavigációs szolgáltató részére történő megtérítéséről a mindenkori, éves költségvetésről szóló törvény rendelkezzen;
+1.[^1] egyetért azzal, hogy az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet (a továbbiakban: Bizottsági Díjrendelet) 31. cikk (6) bekezdése alapján a léginavigációs díjak fizetése alól felmentett repülések költségeinek a léginavigációs szolgáltató részére történő megtérítéséről a mindenkori, éves költségvetésről szóló törvény rendelkezzen;
 
 2. felhívja az igénybevételben érintett fejezetgazdákat, hogy a 2008–2009. évi költségtérítésre vonatkozóan a 2011. évi költségvetési törvényjavaslat előkészítése során – figyelemmel a három éves kitekintő keretszámokra – a ténylegesen felmerült költség térítését biztosító előirányzatot fejezeti költségvetésükbe, majd továbbiakban minden évben a megelőző év felmentett repüléseinek tényadatai alapján meghatározott költségtérítést a következő év költségvetésébe tervezzék be;
 
@@ -59,3 +59,5 @@ b) az a) pontban meghatározott költségalap véglegesítése.
 Felelős: honvédelmi miniszter
 
 Határidő: 2010. szeptember 15.
+
+[^1]: Az 1. pont az 1395/2020. (VII. 14.) Korm. határozat szerint módosított szöveg.
