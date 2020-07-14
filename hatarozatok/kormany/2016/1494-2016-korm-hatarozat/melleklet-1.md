@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter
 
-## Határidő: 2017. június 30., a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 800,0 millió forint tekintetében 2020. június 30.
+## Határidő: 2017. június 30., a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 800,0 millió forint tekintetében 2021. december 31.
 
 ## 2.[^2] egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoporton a K5. Egyéb működési célú kiadások kiemelt előirányzat részére átcsoportosított 748 414 ezer forintból 25 000 ezer forint a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása címen kerüljön felhasználásra a K1. Személyi juttatások kiemelt előirányzaton 5 256 ezer forint, a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 1 944 ezer forint, a K3. Dologi kiadások kiemelt előirányzaton 17 800 ezer forint összegben.
 
@@ -108,5 +108,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1133/2017. (III. 20.) Korm. határozat 2. pontja, az 1207/2019. (IV. 18.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1133/2017. (III. 20.) Korm. határozat 2. pontja, az 1207/2019. (IV. 18.) Korm. határozat 7. pontja, az 1397/2020. (VII. 14.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1725/2016. (XII. 10.) Korm. határozat 3. pontjával megállapított szöveg.
