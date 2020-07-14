@@ -16,7 +16,7 @@
 
 ## Felelős: pénzügyminiszter
 
-## Határidő: 2020. június 30.
+## Határidő: 2020. augusztus 15.[^1]
 
 1. melléklet az 1508/2019. (VIII. 23.) Korm. határozathoz
 
@@ -113,3 +113,5 @@
 |  |  | egyéb: |  | azonnal |  | 33 304 829 562 |  |  | 33 304 829 562 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1397/2020. (VII. 14.) Korm. határozat 5. pontja szerint módosított szöveg.
