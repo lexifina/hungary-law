@@ -1,0 +1,7 @@
+56. § Az Eht. 108 /A. §-a helyébe a következő rendelkezés lép:
+
+„108/A. § (1) Ha a Bizottság valamely hívásvégződtetési piacon nem határoz meg maximális hívásvégződtetési díjat, és a Hatóság a piacelemzés során megállapította, hogy ezen hívásvégződtetési piacon a verseny nem hatékony, akkor a Hatóság az Elnök rendeletében meghatározott elvek, kritériumok és előírások figyelembevételével költségalapú hívásvégződtetési díj alkalmazására vonatkozó kötelezettséget írhat elő.
+
+(2) A Hatóság ellenőrzi a hívásvégződtetési szolgáltatók által alkalmazott hívásvégződtetési díjakat, és amennyiben valamely szolgáltató hívásvégződtetési díja nem felel meg a Bizottság rendeletében meghatározott díjnak, a Hatóság általános hatósági felügyeleti eljárásban kötelezheti a szolgáltatót a hívásvégződtetési díjának a többi szolgáltató által a bizottsági rendelet alapján alkalmazott díjhoz történő kiigazítására.
+
+(3) Amennyiben a Hatóság az (1) bekezdés szerinti költségalapú hívásvégződtetési díj alkalmazását írja elő és valamely hívásvégződtetési szolgáltató által alkalmazott hívásvégződtetési díj nem felel meg az (1) bekezdés szerinti kötelezettség alapján kialakított költségalapú hívásvégződtetési díjnak, a Hatóság általános hatósági felügyeleti eljárásban kötelezheti a szolgáltatót az (1) bekezdés szerint a Hatóság által kialakított költségalapú hívásvégződtetési díj alkalmazására. A Hatóság évente jelentést tesz a Bizottság és a BEREC számára a jelen §-ban foglaltak alkalmazásáról.”

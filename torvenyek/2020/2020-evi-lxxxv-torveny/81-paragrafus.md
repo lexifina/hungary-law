@@ -1,0 +1,11 @@
+81. § Az Eht. „Vegyes rendelkezések” alcíme a következő 163/K–163/N. §-sal egészül ki:
+
+„163/K. § A 83/C. § szerinti felmérést első alkalommal 2023. december 21-ig kell elvégezni.
+
+163/L. § Az egyetemes szolgáltató kijelölése tárgyában 2020. december 20-a előtt meghozott, 2020. december 31-én hatályos és véglegessé vált hatósági határozat szerinti – a 117. § (1) bekezdésben meghatározott szolgáltatásokon kívüli – egyetemes szolgáltatáselemeket az Elnök legkésőbb 2021. december 21-ig felülvizsgálja és dönt ezen szolgáltatáselemek egyetemes szolgáltatásként történő fenntartásáról, illetve ezen egyéb szolgáltatások tekintetében az egyetemes szolgáltató kijelöléséről az egyetemes szolgáltatással összefüggő szabályokról szóló rendeletében foglalt szabályok szerint. Ha az Elnök e § szerinti szolgáltatáselemek egyetemes szolgáltatásként történő fenntartásáról dönt, a határozathozatalt követően három évente felülvizsgálja az ezen szolgáltatáselemek tekintetében előírt egyetemes szolgáltatási kötelezettségeket és dönt azok fenntartásáról, módosításáról vagy megszüntetéséről.
+
+163/M. § A Hatóság honlapján közzéteszi a Kódex alkalmazására vonatkozó információkat és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben hirdetményt tesz közzé ezen információk közzétételének módjáról és elérhetőségéről. A hirdetmény közzétételével egyidejűleg a hirdetmény egy példányát a Hatóság megküldi a Bizottságnak. A hirdetményt első alkalommal 2020. december 21-ig kell közzétenni, ezt követően minden olyan esetben, ha a közzétett információk megváltoztak.
+
+163/N. § (1) Az e törvény XVI. Fejezetének az elektronikus hírközlésről szóló 2003. évi C. törvénynek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló irányelv átültetésének kötelezettségével összefüggő módosításáról szóló 2020. évi LXXXV. törvénnyel megállapított rendelkezéseit 2021. június 30-ától kell alkalmazni.
+
+(2) Az elektronikus hírközlési szolgáltató az általános szerződési feltételeit és az egyedi előfizetői szerződéseit 2021. június 30-ig köteles e törvény XVI. Fejezetének az elektronikus hírközlésről szóló 2003. évi C. törvénynek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló irányelv átültetésének kötelezettségével összefüggő módosításáról szóló 2020. évi LXXXV. törvénnyel megállapított rendelkezéseinek megfelelően felülvizsgálni és módosítani.”
