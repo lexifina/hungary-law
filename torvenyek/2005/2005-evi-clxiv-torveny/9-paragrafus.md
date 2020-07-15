@@ -6,6 +6,10 @@
 
 (3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 
+(3a) A 7/B. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény megsértése esetén irányadó rendelkezések szerint azzal, hogy a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ának vizsgálata során a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló 205/2011. (X. 7.) Korm. rendelet 7. §-át is figyelembe kell venni.
+
+(3b) A (3a) bekezdés szerinti versenyfelügyeleti eljárásban a Gazdasági Versenyhivatal a 7/B. §-t akkor alkalmazza, ha az Európai Unió működéséről szóló szerződés 101. cikke alkalmazásának szükségességét a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendelet 3. cikk (1) bekezdése alapján nem állapítja meg.
+
 (4) A tevékenységre vonatkozó jogszabályi és hatósági előírások megsértése esetén – a külön jogszabályban foglaltak szerint – a kereskedelmi hatóság
 
 a) elrendeli az üzlet vagy szálláshely ideiglenes bezárását,

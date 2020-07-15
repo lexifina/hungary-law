@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2019-01-01 | 2017. évi CCIII. törvény | 2005-164-00-00.36 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2005-164-00-00.37 |
 | 2019-12-28 | 2019. évi LXXXIII. törvény | 2005-164-00-00.38 |
+| 2020-07-15 | 2020. évi LXXVI. törvény | 2005-164-00-00.39 |

@@ -52,7 +52,7 @@
 
 21. termék: minden birtokba vehető forgalomképes ingó dolog, ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőt;
 
-22. szálláshely: szálláshely-szolgáltatás folytatása céljából létesített vagy használt épület, önálló rendeltetési egységet képező épületrész vagy terület;
+22. szálláshely: szálláshely-szolgáltatás folytatása céljából létesített vagy használt épület, önálló rendeltetési egységet képező épületrész vagy terület, valamint szálláshely-szolgáltatás folytatása céljából, bérbeadás keretében hasznosított, a víziközlekedésről szóló 2000. évi XLII. törvény 87. § 29a. pontja szerinti nyaralóhajó,
 
 23. szálláshely-szolgáltatás: üzletszerű gazdasági tevékenység keretében rendszerint nem huzamos jellegű, éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szálláshely nyújtása és az ezzel közvetlenül összefüggő szolgáltatások nyújtása;
 
