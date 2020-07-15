@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-125-00-00
 | 2020-04-11 | 2020. évi XIX. törvény | 2018-125-00-00.10 |
 | 2020-05-21 | 2020. évi XXVI. törvény | 2018-125-00-00.11 |
 | 2020-06-01 | 2019. évi CIX. törvény | 2018-125-00-00.12 |
+| 2020-07-15 | 2020. évi LXXVI. törvény | 2018-125-00-00.13 |

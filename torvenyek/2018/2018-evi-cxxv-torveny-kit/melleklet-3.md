@@ -179,9 +179,3 @@
 ## 2. kormányzati kirendelésének adatai
 
 ## VIII.
-
-## 1. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
-
-## 2. a felmentési időtartam adatai
-
-## IX.
