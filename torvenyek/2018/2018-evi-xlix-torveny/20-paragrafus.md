@@ -28,7 +28,7 @@ b) a Budai Palotanegyed területére vonatkozó egyedi településképi és ép�
 
 c) a Budai Palotanegyed tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 
-d) a 18. § szerinti kiemelten közérdekű beruházások megnevezését, helyszínét, illetve szükség szerint közvetlen környezetét,
+d) a 18. és 19/A. §-ok szerinti kiemelten közérdekű beruházások megnevezését, helyszínét, illetve szükség szerint közvetlen környezetét,
 
 e) a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztésére és karbantartására kijelölt, a 15. § d) pontja szerinti gazdasági társaságot,
 
