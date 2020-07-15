@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2019-01-01 | 2014. évi XCIX. törvény | 1992-84-00-00.47 |
 | 2020-01-01 | 2014. évi XCIX. törvény | 1992-84-00-00.48 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 1992-84-00-00.49 |
+| 2020-07-15 | 2020. évi LXXVI. törvény | 1992-84-00-00.50 |

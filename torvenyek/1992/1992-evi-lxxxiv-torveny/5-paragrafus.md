@@ -14,7 +14,7 @@ kiadásainak fedezetére szolgál.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
+a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része;
 
 b) a biztosított által fizetett társadalombiztosítási járulék Egészségbiztosítási Alapot megillető része;
 
@@ -28,7 +28,7 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget,
 
-5.
+5. az egyszerűsített közteherviselési hozzájárulás Egészségbiztosítási Alapot megillető része;
 
 6.
 

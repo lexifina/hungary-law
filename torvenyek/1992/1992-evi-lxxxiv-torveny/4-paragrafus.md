@@ -6,25 +6,13 @@
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
+a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része;
 
-b)
-
-1. a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében,
-
-2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék,
-
-3.
-
-4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj után fizetett nyugdíjjárulék,
-
-5.
-
-6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
+b) a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, valamint a megfizetett nyugdíjjárulék;
 
 c) egyéb járulékok és hozzájárulások, ideértve
 
-1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot,
+1. az egyszerűsített közteherviselési hozzájárulás Nyugdíjbiztosítási Alapot megillető része,
 
 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget,
 
@@ -36,7 +24,7 @@ c) egyéb járulékok és hozzájárulások, ideértve
 
 6.
 
-7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
+7. a magánnyugdíjpénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget;
 
 d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 
