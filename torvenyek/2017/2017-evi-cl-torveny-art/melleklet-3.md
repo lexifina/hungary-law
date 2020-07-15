@@ -124,7 +124,7 @@
 
 ## a) az adóról az adóévet követő év ötödik hónap utolsó napjáig,
 
-## b) az adóelőleg-kiegészítésről az adóév utolsó hónapjának huszadik napjáig
+## b)
 
 ## kell az adóbevallást benyújtani.
 
@@ -217,25 +217,3 @@
 ## 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
 
 ## 2.4. Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
-
-## 3. A társasági adó
-
-## 3.1. A társasági adó előlege
-
-## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
-
-## 3.1.2.
-
-## 3.2. A társasági adó
-
-## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
-## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 4. Járulékok
-
-## 4.1. Társadalombiztosítási járulék, nyugdíjjárulék
-
-## 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,

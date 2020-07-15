@@ -20,7 +20,7 @@ c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
 4. a természetes személy adóazonosító jelét, társadalombiztosítási azonosító jelét (a továbbiakban: TAJ szám),
 
-5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj vagy a gyermekgondozást segítő ellátás folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
+5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
 
 6. a természetes személy tekintetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
 
