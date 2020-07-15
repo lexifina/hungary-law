@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-36-20-1
 | 2016-12-13 | 2014-36-20-11.8 | 79/2016. (XII. 12.) FM rendelet |
 | 2017-04-01 | 2014-36-20-11.9 | 79/2016. (XII. 12.) FM rendelet |
 | 2020-01-15 | 2014-36-20-11.10 | 53/2019. (XI. 25.) AM rendelet |
+| 2020-07-15 | 2014-36-20-11.11 | 33/2020. (VI. 26.) AM rendelet |
