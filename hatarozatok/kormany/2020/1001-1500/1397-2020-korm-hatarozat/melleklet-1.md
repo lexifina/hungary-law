@@ -60,12 +60,17 @@
 
 ## j) egyetért azzal, hogy a belügyminiszter a h) alpont szerinti költségvetési támogatást Gyöngyöspata Város Önkormányzata számára és az i) alpont szerinti költségvetési támogatást Pilisborosjenő Község Önkormányzata számára a támogatói okiratok kiadását követően folyósítsa.
 
-## 2. Az Országvédelmi Alapból történő előirányzat átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1741/2015. (X. 13.) Korm. határozat 1. pontjában a „2020. június 30.” szövegrész helyébe a „2020. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a „2020. július 31.” szövegrész helyébe a „2020. december 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és Korm. határozat módosításáról szóló 1494/2016. (IX. 15.) Korm. határozat 1. pontjában a „2020. június 30.” szövegrész helyébe a „2021. december 31.” szöveg lép.
+## 4.[^3]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról szóló 1508/2019. (VIII. 23.) Korm. határozatban a „2020. június 30.” szövegrész helyébe a „2020. augusztus 15.” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1397/2020. (VII. 14.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
