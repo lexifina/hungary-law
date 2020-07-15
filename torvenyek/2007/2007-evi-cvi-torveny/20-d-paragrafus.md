@@ -2,11 +2,11 @@
 
 (2) A Felügyelő Bizottság ülésén állandó meghívottként – tanácskozási joggal – részt vesz az Igazgatóság elnöke, vagy az általa kijelölt tag. A Felügyelő Bizottság ülésére továbbá meg kell hívni a miniszter képviselőjét és a vezérigazgatót.
 
-(3) A Felügyelő Bizottság, illetve annak tagja a Felügyelő Bizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapító okiratában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelő Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
+(3) A Felügyelő Bizottság, illetve annak tagja a Felügyelő Bizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapszabályában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelő Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
 
 (4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
 
-(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapító okiratba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
+(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapszabályba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
 (6) A Felügyelő Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 

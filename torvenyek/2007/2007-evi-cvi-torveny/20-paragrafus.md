@@ -56,11 +56,11 @@ r) döntés ingatlan és ingóság ingyenes tulajdonba adásáról a 36. § szer
 
 (6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Ptk. szerinti társasági jogi jogviszonyra vonatkozó rendelkezések az irányadók azzal, hogy az ott nem szabályozott kérdésekben a Ptk.-nak a megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
 
-(7) Az Igazgatóság tagja csak a jogszabályoknak, az alapító okiratnak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
+(7) Az Igazgatóság tagja csak a jogszabályoknak, az alapszabálynak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
 
 (8) A részvényesi jogokat gyakorló miniszter az Igazgatóság részére írásban utasítást adhat, amelyet az végrehajtani köteles, de ez esetben a tagok mentesülnek a (9)–(10) bekezdésben foglalt felelősség alól.
 
-(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
+(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapszabály, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
 
 (10) Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 

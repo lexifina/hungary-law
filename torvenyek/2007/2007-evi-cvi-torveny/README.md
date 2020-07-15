@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2018-05-18 | 2018. évi V. törvény | 2007-106-00-00.43 |
 | 2019-01-01 | 2018. évi CXXVIII. törvény | 2007-106-00-00.44 |
 | 2020-01-01 | 2019. évi CXIV. törvény | 2007-106-00-00.45 |
+| 2020-07-15 | 2020. évi LXXX. törvény | 2007-106-00-00.46 |
