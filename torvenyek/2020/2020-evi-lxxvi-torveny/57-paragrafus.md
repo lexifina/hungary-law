@@ -1,0 +1,3 @@
+57. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 119. §-a helyébe a következő rendelkezés lép:
+
+„119. § Az alügyészre és az ügyészségi fogalmazóra a 69. § és a 72–76. § rendelkezéseit is megfelelően alkalmazni kell. A 70. §-t azzal az eltéréssel kell alkalmazni, hogy a jubileumi jutalomra jogosító idő számításának kezdő időpontját a kinevezési okiratban fel kell tüntetni. A 73. §-t azzal az eltéréssel kell alkalmazni, hogy az alügyész és az ügyészségi fogalmazó részére cafetéria juttatás is biztosítható.”

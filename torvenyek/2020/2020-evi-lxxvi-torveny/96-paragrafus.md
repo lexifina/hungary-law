@@ -1,0 +1,1 @@
+96. § A megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 2015. évi LXXV. törvény 8. §-ában az „a 4. § (1) és (2) bekezdése” szövegrész helyébe az „a 4. § (1)–(2) bekezdése” szöveg lép.

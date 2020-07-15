@@ -1,0 +1,3 @@
+106. § Az adózás rendjéről szóló 2017. évi CL. törvény 131. §-a a következő (25) bekezdéssel egészül ki:
+
+„(25) Az állami adó- és vámhatóság elektronikus úton hivatalból átadja a járási hivatalnak azon adózó természetes személyazonosító adatait, valamint a fizetési kedvezményre irányuló eljárásban feltárt jövedelmi, vagyoni és szociális körülményeinek adatait, akiről a fizetési kedvezmény engedélyezésére irányuló eljárásában olyan tényt tárt fel, amely a szociális rászorultság megállapítását a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerint megalapozhatja.”

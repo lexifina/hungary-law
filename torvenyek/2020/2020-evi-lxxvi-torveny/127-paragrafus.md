@@ -1,0 +1,1 @@
+127. § Hatályát veszti a szakképzésről szóló 2019. évi LXXX. törvény 127. § (5) bekezdésében az „Ez esetben a pedagógus alatt az e törvény alapján a szakképző intézmény munkaviszonyban foglalkoztatott oktatóját is érteni kell.” szöveg.

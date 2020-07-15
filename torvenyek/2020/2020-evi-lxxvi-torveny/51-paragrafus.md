@@ -1,0 +1,3 @@
+51. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény a következő 217/A. §-sal egészül ki:
+
+„217/A. § A Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel megállapított 4. számú mellékletet a 2020. költségvetési évre akként kell alkalmazni, hogy a közszolgálati hozzájárulásnak a 2020. július 1. napját követő időszakra vonatkozó különbözetét 2020. október 31-ig kell megfizetni az Alap pénzforgalmi számlájára.”

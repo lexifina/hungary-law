@@ -1,0 +1,7 @@
+137. § (1) A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 68. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az (1)–(4) bekezdésben meghatározott adatszolgáltatás kiterjed az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatokra. A (2)–(3) bekezdés szerinti esetek kivételével az adatszolgáltatás tartalmazza az egészségügyi szolgáltatásra való jogosultság megszűnésének időpontját is, figyelembe véve az Ebtv. 29. § (9) bekezdésében foglalt egészségügyi szolgáltatásra való jogosultság időtartamát is.”
+
+(2) A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 68. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Ha az állami adóhatóság tudomást szerez arról, hogy a foglalkoztató megszűnt, azonban a biztosítás megszűnéséről bejelentés nem történt, az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és a foglalkoztatottak az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatairól tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató megszűnése miatt már nem áll fenn, akkor az egészségbiztosítási szerv a 45. § (3) bekezdése szerinti adatszolgáltatást teljesít az állami adó- és vámhatóságnak.”

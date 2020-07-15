@@ -1,0 +1,3 @@
+144. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 105. §-a helyébe a következő rendelkezés lép:
+
+„105. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2019. december 31-én hatályos 4. § k) pont 1. alpontjában, 4. § p) pontjában, 5. § (1) bekezdés b) pontjában, 8. § h) pontjában, 16/A. §-ában, 25/A. § b) pontjában, 31. § (4) bekezdés b) pontjában, 44/A. § (3) bekezdés e) pontjában foglalt rendelkezéseit kell alkalmazni a tanulószerződéssel foglalkoztatott tanulókra vonatkozóan.”
