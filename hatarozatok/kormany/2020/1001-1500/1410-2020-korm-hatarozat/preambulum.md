@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Hódmezővásárhely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1840/2017. (XI. 10.) Korm. határozat 6. pont b) alpontja szerinti döntésével összhangban
