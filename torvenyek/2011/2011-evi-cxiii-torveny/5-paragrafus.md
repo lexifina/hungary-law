@@ -22,7 +22,7 @@ f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képvis
 
 g) aki meghagyásban részesült,
 
-h) aki honvédelmi szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselője,
+h) aki honvédelmi szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban áll,
 
 i) akinek közös háztartásban élő házastársa, élettársa katonai szolgálatot teljesít,
 

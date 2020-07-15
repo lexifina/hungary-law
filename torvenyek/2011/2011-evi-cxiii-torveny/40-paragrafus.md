@@ -36,6 +36,6 @@ lehetnek.
 
 (6)
 
-(7) A fegyveres erők jogállására vonatkozó nemzetközi szerződések alkalmazása tekintetében a Honvédség polgári állományának minősül a honvédelmi szervezetnél jogviszonyban álló kormánytisztviselő, honvédelmi alkalmazott, közalkalmazott vagy a munka törvénykönyvének hatálya alá tartozó munkavállaló.
+(7) A fegyveres erők jogállására vonatkozó nemzetközi szerződések alkalmazása tekintetében a Honvédség polgári állományának minősül a honvédelmi szervezetnél kormányzati szolgálati, politikai szolgálati, biztosi, honvédelmi alkalmazotti, közalkalmazotti jogviszonyban vagy munkaviszonyban álló személy.
 
 (8) A Honvédség személyi állományára vonatkozó – a Honvédség védelmi képességének, hadrafoghatóságának biztosításával összefüggő – adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Magyar Honvédség parancsnoka engedélyezheti.
