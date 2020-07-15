@@ -1,0 +1,32 @@
+# A Kormány 1405/2020. (VII. 15.) Korm. határozata
+
+Magyar Közlöny 2020. évi 171. szám, 2020. július 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/DEvpoM93vckkEqH39ztw5f0c9cdb1ea96/dokumentumok/900b2e948473da2e45775466440cfe2109a53292/letoltes)
+
+---
+
+A Kormány 1405/2020. (VII. 15.) Korm. határozata
+az encsi tanuszoda építéséről
+A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemének keretében megvalósuló tanterem, tornaterem
+és tanuszoda beruházások előkészítésével kapcsolatos intézkedésekről szóló 1281/2017. (VI. 2.) Korm. határozatban foglaltak
+végrehajtása érdekében
+1. egyetért az encsi tanuszoda építésének (a továbbiakban: Beruházás) programszerű kormányzati magasépítési
+beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Encs belterület 546/140 helyrajzi
+számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok
+vagyonkezelésébe kerüljenek;
+2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló
+1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség
+által vállalható kötelezettség összegét 935 178 578 forintban határozza meg;
+3. felhívja a pénzügyminisztert, hogy gondoskodjon a 2. pont szerinti összeg 2020. évi részének finanszírozása
+érdekében 229 865 980 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló
+2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű
+magasépítési beruházások cím, 4. Tanuszoda fejlesztések megvalósítása alcím javára;
+Felelős: pénzügyminiszter
+Határidő: azonnal
+4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával
+gondoskodjon a 2. pont szerinti összeg 2021. évi részének rendelkezésére állásáról a 2021. évi központi költségvetés
+kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében.
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+pénzügyminiszter
+Határidő: a felmerülés ütemében
+ Orbán Viktor s. k.,
+ miniszterelnök
