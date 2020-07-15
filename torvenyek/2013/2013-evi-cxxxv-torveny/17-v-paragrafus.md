@@ -4,7 +4,7 @@
 
 (2) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet együttesen határozzák meg a Központi Adatfeldolgozónak az egységes informatikai rendszer fejlesztésére és működésére vonatkozó tevékenységét szabályozó, jogait és kötelezettségeit tartalmazó megállapodás feltételeit. A megállapodást az Integrációs Szervezet igazgatósága köti meg, módosítja vagy szünteti meg a Központi Adatfeldolgozóval az integrációs üzleti irányító szervezet javaslata alapján.
 
-(3) Az egységes informatikai rendszerhez történő csatlakozás a Központi Adatfeldolgozóval megkötött – az integrációs üzleti irányító szervezet és az Integrációs Szervezet igazgatósága által jóváhagyott, a (2) bekezdés szerinti megállapodásnak megfelelő – egyedi üzemeltetési szerződés útján történik.
+(3) Az Integrációs Szervezetbe belépő új, a Felügyelet által felügyelt tag a belépéstől számított három éven belül köteles az egységes informatikai rendszerhez csatlakozni akként, hogy az Integrációs Szervezet előzetes jóváhagyását követően a Központi Adatfeldolgozóval egyedi üzemeltetési szerződést köt. Az Integrációs Szervezet a hároméves határidőt indokolt esetben egy alkalommal legfeljebb további három évvel meghosszabbíthatja.
 
 (4) A csatlakozott tag köteles az integrációs üzleti irányító szervezet által utasításban megjelölt egyedi banki informatikai rendszerre való átállásnak a megjelölt határidőben eleget tenni. Az átállással kapcsolatos feladatokról és az átállásra vonatkozó utasítás kiadásával kapcsolatos szabályokról az integrációs üzleti irányító szervezet szabályzatot alkot.
 

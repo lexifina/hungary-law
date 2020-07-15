@@ -2,7 +2,7 @@
 
 14. § (1) Az integrációs üzleti irányító szervezet alapszabályának a megállapításához és módosításához, továbbá az egyes részvénysorozatokhoz fűződő jogok megváltoztatásához, valamint az egyes részvényfajták, osztályok átalakításához a szavazásra jogosító részvények által megtestesített szavazatok több mint felét képviselő részvényes szavazata szükséges.
 
-(2) Az integrációs üzleti irányító szervezet alapszabálya az integráción belüli konszolidáció és a kisebbségi tulajdonosok érdekei védelme érdekében együttes eladási szabályokat állapíthat meg és korlátozhatja, hogy az integrációs üzleti irányító szervezet részvényesén és az integrációs szervezeti tagsággal rendelkező szövetkezeti hitelintézeten kívül más hogyan szerezheti meg az integrációs üzleti irányító szervezet részvényét illetve kizárhatja vagy korlátozhatja, hogy nem szövetkezeti hitelintézet milyen esetben vagy feltételek mellett szerezhet részvényt az integrációs üzleti irányító szervezetben.
+(2) Az integrációs üzleti irányító szervezet alapszabálya az integráción belüli konszolidáció és a kisebbségi tulajdonosok érdekei védelme érdekében együttes eladási szabályokat állapíthat meg és korlátozhatja, hogy az integrációs üzleti irányító szervezet részvényesén és az integrációs szervezeti tagsággal rendelkező integrált hitelintézeten kívül más hogyan szerezheti meg az integrációs üzleti irányító szervezet részvényét illetve kizárhatja vagy korlátozhatja, hogy nem integrált hitelintézet milyen esetben vagy feltételek mellett szerezhet részvényt az integrációs üzleti irányító szervezetben.
 
 (3)
 

@@ -18,7 +18,7 @@ c) esetében a Hpt. 137. § (4) és (5) bekezdésében foglalt valamely kizáró
 
 (5) Az Integrációs Szervezet igazgatósági tagja
 
-a) nem vehet részt az Integrációs Szervezet által történő egyedi döntés előkészítésében és meghozatalában, ha annál a tagnál, amelyre az egyedi döntés vonatkozik, saját maga vagy közeli hozzátartozója vezető állást tölt be, illetve érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szövetkezeti hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt;
+a) nem vehet részt az Integrációs Szervezet által történő egyedi döntés előkészítésében és meghozatalában, ha annál a tagnál, amelyre az egyedi döntés vonatkozik, saját maga vagy közeli hozzátartozója vezető állást tölt be, illetve érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll az integrált hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt;
 
 b) nem vehet részt olyan egyedi döntés előkészítésében és olyan egyedi döntés meghozatalában, amelyhez saját magának, közeli hozzátartozójának vagy a közvetlen, illetve közvetett tulajdonában álló vállalkozásnak üzleti érdeke fűződik;
 
@@ -26,7 +26,7 @@ c) nem vállalhat szerződésből eredő kötelezettséget az Integrációs Szer
 
 (6) Az Integrációs Szervezet igazgatósági tagja haladéktalanul bejelenti az Integrációs Szervezet igazgatóságának, ha
 
-a) pénzügyi intézménynél igazgatósági taggá, felügyelőbizottsági taggá, vezető tisztségviselővé választják, vagy ilyen tisztségét megszünteti;
+a) pénzügyi intézménynél vezető állású személlyé választják, vagy ilyen tisztségét megszünteti;
 
 b) vállalkozásban befolyásoló részesedést szerez, vagy az ilyen befolyását megszünteti;
 

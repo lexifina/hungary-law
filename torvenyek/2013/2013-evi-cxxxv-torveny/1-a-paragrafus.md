@@ -2,16 +2,16 @@
 
 a) az egyetemlegesség alapján működő vidék bankjának a létrehozása, amelynek egyes tagjai lehetőleg helyi magántulajdonosok és amely központi professzionális irányítással biztosítja a hatékony és méretgazdaságos működést,
 
-b) a szövetkezeti hitelintézetek hosszú távú prudens működésének intézményi biztosítása,
+b) az integrált hitelintézetek hosszú távú prudens működésének intézményi biztosítása,
 
-c) a szövetkezeti hitelintézeti szektor professzionalizálása, modernizálása, versenyképessé szervezése,
+c) a hitelintézetek integrációjának professzionalizálása, modernizálása, versenyképessé szervezése,
 
-d) a szövetkezeti hitelintézeti szektor kockázatkezelésének javítása,
+d) a hitelintézetek integrációja kockázatkezelésének javítása,
 
-e) a szövetkezeti hitelintézeti szektor integrált működésének, az ehhez szükséges infrastruktúrának a biztosítása,
+e) a hitelintézetek integrációja integrált működésének és az ehhez szükséges infrastruktúrának a biztosítása,
 
 f) az a)–e) pontban foglaltak megvalósítása érdekében a működési szabályzatok egységesítése,
 
-g) a szövetkezeti hitelintézetek intézményvédelmének biztosítása,
+g) a hitelintézetek integrációja intézményvédelmének biztosítása,
 
 h) a hitelintézetekre vonatkozó nemzetközi és európai követelményeknek, jogszabályoknak, szabványoknak, illetve szokványoknak történő megfelelés biztosítása.

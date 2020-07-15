@@ -1,1 +1,1 @@
-20/C. § Az Integrációs Szervezet köteles az alapszabályát az egyes törvényeknek a szövetkezeti hitelintézetek integrációjával összefüggő módosításáról szóló 2016. évi LV. törvényben foglaltaknak megfelelően a törvény hatályba lépését követő 30 napon belül módosítani.
+### 20/C. §

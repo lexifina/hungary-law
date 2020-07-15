@@ -18,10 +18,10 @@ g) elfogadja az Integrációs Szervezet feladatkörébe tartozó utasításokat,
 
 h) jóváhagyja a csoportszintű helyreállítási tervet;
 
-i) jóváhagyja az ellenőrzés alá vont szervezetek tevékenységének ellenőrzésével kapcsolatos éves ellenőrzési tervet;
+i)
 
 j) dönt a 11/B. § (2) bekezdésében meghatározott intézkedésekről.
 
 (3) Az Integrációs Szervezet alapszabálya a (2) bekezdésben meghatározottakon túl további hatásköröket állapíthat meg az Integrációs Szervezet igazgatóságának.
 
-(4) Az igazgatóság az ügyrendjében meghatározottak szerint a (2) bekezdés g), h) és j) pontjában meghatározott döntések – ide nem értve a 11/B. § (2) bekezdés c)–e) pontjában meghatározott döntést – tekintetében, egyes döntések vonatkozásában vagy teljes körűen, a döntés meghozatalát az ügyvezetésre ruházhatja át.
+(4) Az igazgatóság az ügyrendjében meghatározottak szerint a (2) bekezdés g), h) és j) pontjában meghatározott döntések – ide nem értve a 11/B. § (2) bekezdés c) pontjában meghatározott döntést – tekintetében, egyes döntések vonatkozásában vagy teljes körűen, a döntés meghozatalát az ügyvezetésre ruházhatja át.
