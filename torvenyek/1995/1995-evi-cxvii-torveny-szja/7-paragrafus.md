@@ -18,11 +18,11 @@ g) a magánszemélynek adott olyan összeget (utalvány értékét) – ideértv
 
 h) a hatóság által jogszabály alapján elengedett köztartozást;
 
-i) azt az összeget, amelyet a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló Tbj. szerint
+i) azt az összeget, amelyet a Tbj. szerint
 
 ia) nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából megállapodás alapján, és/vagy
 
-ib) a nem biztosított magánszemély egészségügyi szolgáltatásra való jogosultsága megszerzése céljából
+ib) a nem biztosított magánszemély egészségügyi szolgáltatásra való jogosultsága megszerzése céljából, egészségügyi szolgáltatási járulék címén vagy egészségügyi szolgáltatásra kötött megállapodás alapján
 
 a magánszemély helyett más személy fizet meg (mindkét esetben ideértve bármely EGT-államban a kötelező társadalombiztosítási rendszer keretében történő megfizetést is);
 
