@@ -12,4 +12,4 @@ e) a postai közvetítő a postai közreműködő és a postai konszolidátor te
 
 f) vásárolt termékeknek a vásárlás helyéről való házhoz szállítása azon esetek kivételével, amelyek során a távollévők között kötött szerződés alapján megvásárolt, élelmiszernek nem minősülő, legfeljebb 40 kg tömegű termékek szállítása és kézbesítése, amennyiben az nem a b) pontban foglaltak szerinti saját kézbesítés keretein belül valósul meg;
 
-g) a szállítás, amennyiben azt a gazdálkodó szervezet nem postai szolgáltatás keretében látja el.
+g) a szállítás, a logisztikai szolgáltatás és a nem postai funkciónak minősülő tevékenység ellátása, amennyiben azt a gazdálkodó szervezet nem postai szolgáltatás keretében látja el.

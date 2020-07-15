@@ -54,7 +54,7 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 19. időgarantált szolgáltatás: a postai szolgáltató kötelezettségvállalása, amellyel a postai küldemény meghatározott időtartamon belüli vagy meghatározott időpontban történő kézbesítésére vállal kötelezettséget;
 
-20. kézbesítés: a postai szolgáltató által elvégzett azon tevékenység, amely során a postai küldemény a postai szolgáltató hálózatából, illetve személyes felügyelet alól az átvételre jogosult személy részére történő átadással vagy levélszekrénybe, továbbá egyéb, a küldemény kézbesítésére alkalmas eszközbe történő elhelyezéssel kikerül;
+20. kézbesítés: azon tevékenység, amely során a postai küldemény a postai szolgáltató hálózatából, illetve személyes felügyelet alól az átvételre jogosult személy részére történő átadással vagy levélszekrénybe, továbbá egyéb, a küldemény kézbesítésére alkalmas eszközbe történő elhelyezéssel kikerül;
 
 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
 
@@ -63,6 +63,18 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;
 
 24. levélküldemény: az a postai küldemény, amely írásos formában megjelenített, vagy fizikai adathordozón rögzített egyedi vagy személyes jellegű közlést, adatot vagy információt tartalmaz;
+
+24a. logisztikai szolgáltatás: a postai küldemény továbbítási folyamatának egészét vagy egy részét magában foglaló azon tevékenység, amely során megtervezik, megvalósítják, ellenőrzik a postai küldemények és kapcsolódó információk hatékony és eredményes tárolását és a feladótól a címzettig való eljuttatását;
+
+24b. nem postai funkció: postai szolgáltatásnak nem minősülő tevékenységek, így különösen a postaszolgálat-irányítási, a feladást megelőző és azt követő, valamint a kézbesítést megelőző és azt követő küldeményrendezési szolgáltatások, ezen belül:
+
+a) a postai szolgáltatásokhoz kapcsolódó, nem postai szolgáltató által végzett adatrögzítés;
+
+b) a postai küldemény felvételét követő tárolási, raktározási, megőrzési tevékenység;
+
+c) a postai szolgáltató általi sikertelen kézbesítést követő tárolási, raktározási, megőrzési tevékenység;
+
+d) a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiségben vagy helyen megőrzésre elhelyezett postai küldemény kiadása, valamint ahhoz kapcsolódó adatellenőrzési tevékenység.
 
 25. nemzetközi EMS-szolgáltatás: az a nemzetközi viszonylatú postai szolgáltatás, amelyet az egyetemes postai szolgáltató az Egyetemes Postaegyezmény kihirdetéséről szóló jogszabály e szolgáltatásra vonatkozó szabályai szerint nyújt;
 
