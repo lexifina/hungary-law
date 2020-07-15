@@ -2,9 +2,9 @@
 
 KÉRELEM
 
-a Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatásról
+a Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet, nyugdíjas szövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatásról
 
-I. A kölcsönbeadó/az iskolaszövetkezet adatai:
+I. A kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet adatai:
 
 1. Neve:
 
@@ -62,11 +62,11 @@ Kelt: .............................., ....... év ................... hó ..... 
 
 ....................................................................
 
-a kölcsönbeadó/az iskolaszövetkezet cégszerű aláírása
+a kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet cégszerű aláírása
 
 Melléklet:
 
-1. Kölcsönbeadó/iskolaszövetkezet képviseletére jogosult aláírási címpéldánya.
+1. Kölcsönbeadó/iskolaszövetkezet, nyugdíjas szövetkezet képviseletére jogosult aláírási címpéldánya.
 
 2. A felszámoló 11. § (1a) bekezdése szerinti teljesítésigazolás másolata (amennyiben szükséges).
 

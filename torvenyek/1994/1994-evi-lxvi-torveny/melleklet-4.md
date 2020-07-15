@@ -2,11 +2,11 @@
 
 ADATLAP
 
-a Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatás számításához
+a Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet, nyugdíjas szövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatás számításához
 
-(A ........... év ........................ hó .........-i bérfizetési díjfizetési napon – a kölcsönbeadónál/az iskolaszövetkezetnél – fennálló adatok alapján)
+(A ........... év ........................ hó .........-i bérfizetési díjfizetési napon – a kölcsönbeadónál/az iskolaszövetkezetnél, nyugdíjas szövetkezetnél – fennálló adatok alapján)
 
-A) A munkavállalók/az iskolaszövetkezet tagjának adatai:
+A) A munkavállalók/az iskolaszövetkezet, nyugdíjas szövetkezet tagjának adatai:
 
 |
 
@@ -114,4 +114,4 @@ Kelt: .............................. hely, ....... év ................... hó .
 
 .......................................................................
 
-(a kölcsönbeadó/az iskolaszövetkezet cégszerű aláírása)
+(a kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet cégszerű aláírása)

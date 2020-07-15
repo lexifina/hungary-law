@@ -8,4 +8,4 @@
 
 ,,(2) Ha a felszámolás alatt álló gazdálkodó szervezetnek a Bérgarancia Alap támogatást nyújtott, a visszafizetés akkor válik esedékessé, amikor a támogatás nyújtását követően a 48. § (1) bekezdése alapján a támogatás mértékének (vagy egy részének) megfelelő pénzösszeg befolyik. Amíg a támogatás teljes összegét nem fizették vissza, addig más célra — a bérkifizetésen kívül — a felszámoló kifizetést nem teljesíthet.''
 
-(3)
+(3) E törvénynek a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2020. évi LXXIX. törvénnyel (a továbbiakban: 2020. évi LXXIX. törvény) megállapított rendelkezéseit a 2020. évi LXXIX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló nyugdíjas szövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló nyugdíjas szövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2020. évi LXXIX. törvény hatálybalépésekor még nem került sor.
