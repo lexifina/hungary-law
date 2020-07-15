@@ -1,0 +1,1 @@
+9/F. § A közcélú megváltást kérőnek a víziközművet a közcélú megváltási határozatban meghatározott határidőn belül a közcélú megváltás céljára fel kell használnia és a közcélú megváltási cél szerinti használatot a közcélú megváltási határozatban előírt időtartamig biztosítania kell.

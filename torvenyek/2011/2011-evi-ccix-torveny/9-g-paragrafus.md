@@ -1,0 +1,1 @@
+9/G. § A kártalanítás összegét úgy kell tekinteni, mint amely az általános forgalmi adót is tartalmazza, amennyiben a közcélú megváltás keretében történő tulajdonátszállást az általános forgalmi adóról szóló törvény szerint adófizetési kötelezettség terheli.

@@ -11,3 +11,5 @@
 (6) Ha az üzemeltetési jogviszony az (5) bekezdés szerint szűnik meg, az új üzemeltetési jogviszony létesítése érdekében az ellátásért felelős és az (5) bekezdésben meghatározott víziközműhöz kapcsolódó kizárólagos állami tulajdonban álló regionális víziközmű-rendszert működtető víziközmű-szolgáltató 2017. július 1-ig intézkedik, ellenkező esetben a Hivatal közérdekű üzemeltetőt jelöl ki.
 
 (7) A (6) bekezdés szerint létrejött üzemeltetési szerződés alapján kérelmezett működési engedélyezési eljárás igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
+
+(8) Ha az ellátásért felelős és a víziközmű-tulajdonos gazdálkodó szervezet, az ellátásért felelős 5/F. § (2) bekezdés a) pontjában meghatározott tevékenységének elvégzése körében a víziközmű térítésmentes átruházásáról állapodik meg, a térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.

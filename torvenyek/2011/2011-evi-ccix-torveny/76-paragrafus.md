@@ -2,7 +2,7 @@
 
 76. § (1) A 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a nem lakossági felhasználók vonatkozásában a víziközmű-szolgáltató a 2013. január 31-én jogszerűen alkalmazott díjat alkalmazhatja.
 
-(2)
+(2) E törvénynek a víziközmű-szolgáltatóra vonatkozó rendelkezéseit a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosításáról szóló 2020. évi LXXXIV. törvény (a továbbiakban: Módtv3.) hatálybalépésének időpontját követően az állam vagy önkormányzat tulajdonába kerülő víziközmű esetében a víziközmű-szolgáltatónak a Módtv3. hatálybalépésének időpontjától számított két éven belül kell teljesítenie.
 
 (3)–(6)
 
