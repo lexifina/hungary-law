@@ -64,7 +64,7 @@
 
 | 29. | Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság | 16-10-001558 | 2022. december 31. |
 
-| 30. | VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság | 01-10-042156 | 2022. december 31. |
+| 30. |  |  |  |
 
 | 31. | VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft. | 01-09-284691 | 2022. december 31. |
 
@@ -295,6 +295,8 @@
 | 11. | DBC Dél-budai Centrum Projekt Beruházó és Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság | 01-10-049996 | 2022. december 31. |
 
 | 12. | Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-335203 | 2022. december 31. |
+
+| 13. | Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 08-10-001916 | 2022. december 31. |
 
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 

@@ -14,7 +14,7 @@
 
 | 4. | Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049808 | 2022. december 31. |
 
-| 5. | Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 08-10-001916 | 2022. december 31. |
+| 5. |  |  |  |
 
 | 6. | Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049807 | 2022. december 31. |
 
@@ -34,7 +34,13 @@
 
 | 14. | EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-341681 | 2022. december 31. |
 
-## II.
+## II. Tulajdonosi joggyakorló: a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság | 01-10-042156 | 2022. december 31. |
 
 ## III.
 
