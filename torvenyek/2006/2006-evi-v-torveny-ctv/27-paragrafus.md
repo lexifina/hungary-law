@@ -56,7 +56,7 @@ bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot me
 
 bd) egyszemélyes részvénytársaság esetében a részvényes nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 
-be) azt a tényt, ha a részvénytársaság vezető tisztségviselőjének megbízatása a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény (a továbbiakban: Szhitv.) 11/B. § (2) bekezdés c) és e) pontja alapján a hitelintézet vezető tisztségviselője helyett e feladatok ellátására más személy vagy integrációs biztos kerül kijelölésre, vagy felügyeleti biztos kerül kijelölésre, továbbá e személy nevét, székhelyét és lakóhelyét,
+be)
 
 c) Nyilvánosan működő részvénytársaság esetében
 
@@ -84,7 +84,7 @@ b)
 
 c)
 
-(7) A szövetkezeti formában működő hitelintézet esetén a cégjegyzék tartalmazza azt a tényt, ha az Szhitv. 11/B. § (2) bekezdés c) és e) pontja alapján a szövetkezeti formában működő hitelintézet vezető tisztségviselője helyett e feladatok ellátására más személy vagy integrációs biztos kerül kijelölésre, vagy felügyeleti biztos kerül kijelölésre, továbbá e személy nevét, székhelyét és lakóhelyét.
+(7)
 
 (7a) A cégbíróság a felügyeleti biztos kijelölésére jogosult hatóság elektronikus értesítése alapján hivatalból jegyzi be és teszi közzé a (7) bekezdésben meghatározott adatokat.
 
