@@ -12,6 +12,6 @@ d) a hitelintézet szavatoló tőkéje nem éri el a 79. § (2) bekezdésében r
 
 a) a hitelintézet szavatoló tőkéje nem éri el a 79. § (2) bekezdésében rögzített tőkekövetelmény nyolcvan százalékát, és a tag vagy a harmadik országbeli hitelintézet nem képes, vagy nem hajlandó a hitelintézet saját tőkéjét, illetve szavatoló tőkéjét a jogszabályban és a Felügyelet határozatában előírt szintre felemelni, vagy
 
-b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását, vagy
+b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását
 
-c) a szövetkezeti hitelintézet vezető tisztségviselője feladatkörének gyakorlása a Szhitv. 11/B. § (2) bekezdés c) pontja alapján az Integrációs Szervezet igazgatósága által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a Szhitv. 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.
+c)

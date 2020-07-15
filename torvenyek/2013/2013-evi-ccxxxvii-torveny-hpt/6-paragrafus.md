@@ -384,7 +384,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 
 a) részvénytársasági formában működő bank és szakosított hitelintézet esetén az igazgatóság, a felügyelő bizottság elnöke, tagja és az ügyvezető,
 
-b) szövetkezeti formában működő szövetkezeti hitelintézet esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
+b) szövetkezeti hitelintézet esetén az igazgatóság elnöke, a felügyelőbizottság elnöke és az ügyvezető,
 
 c) részvénytársasági vagy szövetkezeti formában működő pénzügyi vállalkozás esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
 

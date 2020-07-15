@@ -4,7 +4,7 @@
 
 a) bank legalább négymilliárd forint,
 
-b) szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint
+b) szövetkezeti hitelintézet legalább háromszázmillió forint
 
 induló tőkével alapítható.
 

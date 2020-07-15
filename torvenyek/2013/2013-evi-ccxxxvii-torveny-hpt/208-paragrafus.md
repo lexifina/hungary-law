@@ -8,9 +8,9 @@
 
 (4) A szorzószám
 
-a) bank, szakosított hitelintézet és szövetkezeti hitelintézet esetén: negyven,
+a) bank és szakosított hitelintézet esetén: negyven,
 
-b) pénzügyi vállalkozás esetén: négy,
+b) szövetkezeti hitelintézet és pénzügyi vállalkozás esetén: négy,
 
 c) a másik EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe esetén: négy,
 

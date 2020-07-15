@@ -12,7 +12,7 @@
 
 a) MNB-vel
 
-b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró integrációs üzleti irányító szervezetével és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
+b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a hitelintézetek integrációja feladatkörében eljáró integrációs üzleti irányító szervezetével és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
 
 c) nemzetbiztonsági szolgálattal,
 

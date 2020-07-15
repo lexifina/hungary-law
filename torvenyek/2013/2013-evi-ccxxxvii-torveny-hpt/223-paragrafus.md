@@ -10,7 +10,7 @@ b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB t
 
 c) a hitelintézetek érdek-képviseleti szervezetei által kijelölt két személy,
 
-d) a Szövetkezeti Hitelintézetek Integrációs Szervezetének igazgatósági elnöke által kijelölt személy, továbbá
+d) az Integrációs Szervezet igazgatósági elnöke által kijelölt személy, továbbá
 
 e) az OBA ügyvezetője.
 
