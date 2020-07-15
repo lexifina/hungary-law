@@ -1,5 +1,0 @@
-## 9. Egyéb nemzetközi igazolások kiállítása
-
-14. § (1) A kérelmező kérelmére a Hivatal kiállítja a nyilvántartásában szereplő adatok tekintetében a filmalkotás eredet-igazolását (certificate of origin). Az eredet-igazolás tartalmát érintő minden olyan adatot, amelyről a Hivatalnak nincsen hivatalos tudomása, a Hivatal a kérelmező nyilatkozatának megfelelően – ennek a ténynek a feltüntetésével – igazol. Az eredet-igazolás tartalmazza a filmalkotás magyar, angol, valamint eredeti nyelven történő megnevezését, a gyártás évét, a gyártó ország (országok) megnevezését, a filmalkotás hosszát méterben és lábban, valamint időtartamban, a magyar filmelőállító megnevezését, a producer, a rendező, az operatőr, a forgatókönyvíró, a főszereplők nevét, valamint az igazolás célja eléréséhez szükséges egyéb olyan adatokat, melyek nyilvánosan hozzáférhetők.
-
-(2) Az igazolás alapjául szolgáló adatok hitelességének, valódiságának ellenőrzése érdekében a Hivatal az Mktv. hatálya alá tartozó érintettek tekintetében általános hatósági felügyelet keretében hatósági ellenőrzést vagy hatósági eljárást folytathat le.
