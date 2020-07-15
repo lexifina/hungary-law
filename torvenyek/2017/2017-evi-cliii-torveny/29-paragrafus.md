@@ -14,7 +14,7 @@
 
 4. az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozat, bíróság által jogerősen jóváhagyott egyezség, továbbá a bírósági eljárási illetéket megállapító bírósági határozat, valamint a bírósági eljárási illeték tárgyában küldött bírósági megkeresés és értesítés,
 
-5. az egészségügyi szolgáltatási járulékfizetési kötelezettséget tartalmazó bejelentés,
+5. az egészségügyi szolgáltatási járulékfizetési kötelezettséget tartalmazó bejelentés, valamint a biztosítottak nyilvántartásáért felelős szerv részéről az egészségügyi szolgáltatási járulékfizetési kötelezettség előírása érdekében teljesített elektronikus adatszolgáltatás,
 
 6. a büntetőeljárásban a fiatalkorúval szemben kiszabott pénzbüntetésről, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, valamint a büntetőeljárásban a jogi személlyel szemben kiszabott pénzbírságról szóló végrehajtható határozat – ideértve az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszeg, jogi személlyel szemben kiszabott pénzbírság vagy köz javára fizetendő jóvátétel és az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzás végrehajtásának átvételéről szóló határozatot is – (a továbbiakban együtt: bűnügyi követelés) esetén a behajtást kérő megkeresése,
 

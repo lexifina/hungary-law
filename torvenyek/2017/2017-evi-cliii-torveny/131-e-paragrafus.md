@@ -1,0 +1,3 @@
+## 61. A törvény hivatalos rövid megjelölése
+
+131/E. § A Magyarország 2021. évi központi költségvetésének a megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtv.4.) megállapított 125/C. § (2a)–(2c) bekezdését a Módtv.4. hatálybalépésekor folyamatban lévő azon eljárásokban is alkalmazni kell, amelyekben az állami adó- és vámhatóság az értékesítés iránt még nem intézkedett.
