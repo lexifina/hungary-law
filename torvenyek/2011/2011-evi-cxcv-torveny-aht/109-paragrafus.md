@@ -36,7 +36,7 @@
 
 15. a költségvetési támogatások tekintetében
 
-a) a támogatási igények benyújtásának, elbírálásának, folyósításának – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének,
+a) a támogatási igények benyújtásának, elbírálásának, folyósításának – ideértve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a költségvetési támogatás felhasználására vonatkozó beszámolásnak, a felhasználás ellenőrzésének és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének, a támogatási szerződés módosításának,
 
 b) a költségvetési támogatások biztosításának e törvény előírásain felüli további feltételeit,
 
@@ -48,7 +48,7 @@ részletes szabályait,
 
 15a. az európai uniós források felhasználásával összefüggésben a 15. pont a) és b) alpontjában meghatározott sajátos szabályokat és a közreműködő szervezeteket,
 
-15b. a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok tekintetében az (5) bekezdésben meghatározott szabályokat,
+15b. a központi költségvetésről szóló törvény uniós fejlesztések fejezetébe sorolt fejezeti és központi kezelésű előirányzatok tekintetében az (5) bekezdésben meghatározott szabályokat,
 
 15c. az európai uniós forrásból nyújtott támogatások tekintetében az uniós támogatásrészek fogadására és kifizetésére szolgáló fizetési számlák rendjére, az Európai Unióval és az Európai Gazdasági Térség Európai Unión kívüli tagállamával történő, a támogatások elszámolására és az elszámolható költségek igazolására vonatkozó szabályokat,
 
@@ -84,7 +84,7 @@ részletes szabályait,
 
 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
 
-31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott és a megyei jogú város önkormányzat kedvezményezettnek, a megyei jogú város fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
+31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott és a megyei önkormányzat és a megyei jogú város önkormányzat kedvezményezettnek, a megyei jogú város fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 
 32.
 
@@ -122,7 +122,7 @@ c) az európai támogatásokat auditáló szervet
 
 és megállapítsa feladat- és hatáskörét és ellenőrzései, valamint a 109. § (11) bekezdése szerinti Likviditási Bizottság összetételének és működésének részletes szabályait.
 
-(2a)
+(2a) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki a törzsadat-nyilvántartás működtetésében közreműködő szervet vagy szervezetet.
 
 (3) Felhatalmazást kap az államháztartásért felelős miniszter arra, hogy
 
@@ -138,9 +138,11 @@ c) az európai támogatásokat auditáló szervet
 
 6. a bevételek és kiadások kormányzati funkciók szerinti besorolásának szabályait,
 
-7. a 6. § (1) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét, és
+7. a 6. § (1) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló államháztartási egyedi azonosítók alkalmazásának rendjét,
 
-8. a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek teljesítésének feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, valamint a költségvetési szervek vagyonbiztosítása alapján az 1971. január 1. napja előtt gépjárművel okozott káreseményekkel összefüggésben a központi költségvetést terhelő keresetpótló baleseti, illetve költségpótló baleseti kártérítési járadékok folyósításával kapcsolatos kötelezettségek feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét
+8. a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek teljesítésének feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, valamint a költségvetési szervek vagyonbiztosítása alapján az 1971. január 1. napja előtt gépjárművel okozott káreseményekkel összefüggésben a központi költségvetést terhelő keresetpótló baleseti, illetve költségpótló baleseti kártérítési járadékok folyósításával kapcsolatos kötelezettségek feltételeit, módját, részletes eljárási szabályait, a járadékok emelésének mértékét, és
+
+9. a törzsadat-nyilvántartás vezetésének részletes szabályait és a törzsadat-nyilvántartás műszaki követelményeit
 
 rendeletben szabályozza.
 

@@ -34,7 +34,7 @@ e) telefonszámát,
 
 f) elektronikus elérhetőségét,
 
-g) felsőfokú iskolai végzettségét igazoló oklevelének számát, a kiállító intézmény nevét és a kiállítás keltét,
+g) felsőfokú iskolai végzettségét igazoló oklevelének számát, a kiállító intézmény nevét és a kiállítás keltét vagy a szakirányú végzettség alóli felmentést igazoló dokumentum meglétére vonatkozó utalást,
 
 h) egyéb képesítéseinek megnevezését, az ezen képesítést igazoló oklevél vagy bizonyítvány számát, a kiállító intézmény nevét, a kiállítás keltét,
 

@@ -16,7 +16,7 @@ d) a működési célú átvett pénzeszközök, amelyek az államháztartáson 
 
 a) a felhalmozási célú támogatások államháztartáson belülről, amelyek az államháztartáson belülről felhalmozási célból kapott támogatásokból és más ellenérték nélküli bevételekből származnak,
 
-b) a felhalmozási bevételek, amelyek az immateriális javak, tárgyi eszközök értékesítésekor kapott ellenértékből, valamint a részesedések értékesítésekor, megszűnésekor kapott bevételekből származnak,
+b) a felhalmozási bevételek, amelyek az immateriális javak, tárgyi eszközök értékesítésekor kapott ellenértékből, valamint a részesedések, befektetési jegyek értékesítésekor, megszűnésekor kapott bevételekből származnak,
 
 c) a felhalmozási célú átvett pénzeszközök, amelyek az államháztartáson kívülről felhalmozási célból kapott támogatásokból és más ellenérték nélküli bevételekből származnak.
 
@@ -34,7 +34,7 @@ e) az egyéb működési célú kiadások, amelyek a nemzetközi kötelezettség
 
 (6) Felhalmozási kiadások – és azok kiemelt előirányzatai – azok közgazdasági jellege szerint
 
-a) a beruházások, amelyek az ingatlanok, tárgyi eszközök és más tartósan használt eszközök megszerzéséből, részesedések megszerzéséhez vagy növeléséhez kapcsolódó kiadások teljesítéséből származnak,
+a) a beruházások, amelyek az ingatlanok, tárgyi eszközök és más tartósan használt eszközök megszerzéséből, részesedések és befektetési jegyek megszerzéséhez vagy növeléséhez kapcsolódó kiadások teljesítéséből származnak,
 
 b) a felújítások, amelyek a tartósan használt eszközök felújításának kiadásaiból származnak,
 
@@ -44,7 +44,7 @@ c) az egyéb felhalmozási célú kiadások, amelyek az államháztartáson bel�
 
 a) az államháztartás mindkét alrendszerében:
 
-aa) a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 8. § (2) bekezdés a)–e) pontja szerinti ügyletből származó bevételek és kiadások, továbbá a hitelviszonyt megtestesítő értékpapírok vásárlásából, értékesítéséből, beváltásából származó bevételek és kiadások,
+aa) a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 8. § (2) bekezdés a)–e) pontja szerinti ügyletből származó bevételek és kiadások, továbbá a hitelviszonyt megtestesítő értékpapírok – kivéve a befektetési jegyek – vásárlásából, értékesítéséből, beváltásából származó bevételek és kiadások,
 
 ab) a szabad pénzeszközök betétként való elhelyezése és visszavonása,
 

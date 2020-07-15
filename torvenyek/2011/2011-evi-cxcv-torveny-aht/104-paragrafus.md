@@ -6,7 +6,7 @@
 
 (3) A döntést megtámadó keresetlevelet 15 napon belül kell benyújtani. A bíróság határozata ellen perorvoslatnak nincs helye.
 
-(4) Az átalakítással érintett költségvetési szervnek a törzskönyvi nyilvántartásból való törlése, vagy az alapító okiratának módosítása, a jogutód költségvetési szerv bejegyzése, vagy a jogutód költségvetési szerv alapító okiratának módosítása esetén a törzskönyvi nyilvántartás vezetésére irányuló eljárásban, a (2) bekezdésben meghatározott ügyintézési határidő megkezdésének napja alatt azt a napot kell érteni, amely napon valamennyi, az eljárás lefolytatásához előírt kérelem a kincstárhoz hiánytalanul, jogszabályban meghatározott követelményeknek megfelelő tartalommal beérkezik.
+(4) Az átalakítással érintett költségvetési szervnek a törzskönyvi nyilvántartásból való törlése, vagy az alapító okiratának módosítása, a jogutód költségvetési szerv bejegyzése, vagy a jogutód költségvetési szerv alapító okiratának módosítása esetén a törzskönyvi nyilvántartás vezetésére irányuló eljárásban, a (2) bekezdésben meghatározott ügyintézési határidő megkezdésének napja alatt azt a napot kell érteni, amely napon valamennyi, az eljárás lefolytatásához előírt kérelem – ha az átalakítással érintett költségvetési szervek valamelyike az Mötv. 85. § (3a) bekezdése szerinti kormányhivatali kijelöléssel érintett, a kormányhivatal vezetője által hozott kijelölő döntése – a kincstárhoz hiánytalanul, jogszabályban meghatározott követelményeknek megfelelő tartalommal beérkezik.
 
 (5)
 
