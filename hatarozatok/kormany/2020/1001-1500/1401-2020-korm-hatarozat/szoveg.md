@@ -1,0 +1,29 @@
+1. A Kormány – figyelemmel a Magyar Falu Program 2020. évi végrehajtásáról szóló 1043/2020. (II. 17.) Korm. határozat 1. pontjára –
+
+a) egyetért a Magyar Falu Program 2020. évben történő további megvalósítása és támogatása érdekében szükséges mindösszesen 40 000 000 000 forint többlettámogatás biztosításával;
+
+b) felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon az a) alpont szerinti forrás rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program jogcímcsoport, 2. Magyar Falu Program alprogramjainak támogatása jogcím javára;
+
+Felelős: pénzügyminiszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: a felmerülés ütemében
+
+c) egyetért – a többletfeladatok ellátása érdekében – az a) alpontban meghatározott összeg terhére, legfeljebb annak 5%-ig terjedő szolgáltatási ellenérték megállapításával a Magyar Államkincstár mint lebonyolító szerv részére.
+
+2. A Magyar Falu Program 2020. évi végrehajtásáról szóló 1043/2020. (II. 17.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
+
+(A Kormány a magyar kistelepülések népességmegtartó erejének növelése érdekében)
+
+„2. felhívja a Modern Települések Fejlesztéséért felelős kormánybiztost, hogy a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program jogcímcsoport, 2. Magyar Falu Program alprogramjainak támogatása jogcímen rendelkezésre álló keretösszeg felhasználása érdekében gondoskodjon
+
+a) az érintett miniszterek bevonásával a pályázati felhívások részletes kidolgozásáról,
+
+b) az a) alpontban foglaltak alapján a pályázati felhívások ütemezett megjelentetéséről;
+
+Felelős: Modern Települések Fejlesztéséért felelős kormánybiztos
+
+érintett miniszterek
+
+Határidő: az a) és b) alpont tekintetében folyamatos”
