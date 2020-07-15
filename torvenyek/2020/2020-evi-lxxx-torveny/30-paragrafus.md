@@ -1,0 +1,3 @@
+30. § Az Szhitv. 15/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Integrációs Szervezet tagja köteles az Integrációs Szervezetet az Integrációs Szervezet igazgatósága által elfogadott szabályzatban előírt határidőben, tartalommal és módon értesíteni, ha peres, nemperes vagy hatósági eljárást indított, vagy ellene ilyen eljárást vagy pénzügyi békéltető testületi eljárást indítottak, valamint ha büntetőfeljelentést tett, vagy őt érintően büntetőeljárás indult. A büntetőfeljelentésről és a büntetőeljárás megindulásáról az Integrációs Szervezet köteles a tudomásszerzésétől számított 8 napon belül értesíteni a Felügyeletet.”

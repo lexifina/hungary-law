@@ -1,0 +1,7 @@
+26. § Az Szhitv. 11/E. §-a helyébe a következő rendelkezés lép:
+
+„11/E. § (1) Az Integrációs Szervezet Felügyelet által felügyelt tagja a jogszabályban meghatározott vagy jogszabályon alapuló, a Felügyelet irányába történő adatszolgáltatási és bejelentési kötelezettségét az Integrációs Szervezet közreműködésével is teljesítheti. Az adatszolgáltatási és bejelentési kötelezettség határidőben történő teljesítéséért és annak tartalmáért az érintett tag tartozik felelősséggel, kivéve, ha a teljesítés határidejének az elmulasztása vagy a tartalom hiányossága nem az általa teljesített adatszolgáltatással vagy bejelentéssel kapcsolatos.
+
+(2) Az Integrációs Szervezet a változás bekövetkezésétől számított 2 munkanapon belül értesíti a Felügyeletet arról, hogy az Integrációs Szervezet adott tagja mely időponttól teljesíti az adatszolgáltatási és bejelentési kötelezettséget az Integrációs Szervezet közreműködésével.
+
+(3) Az Integrációs Szervezet a prudens és hatékony működés biztosítása érdekében együttműködési megállapodást köthet az e törvényben szabályozott egyes feladatai ellátására.”

@@ -1,0 +1,3 @@
+## 22. A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosítása
+
+59. § A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény (a továbbiakban: Kstv.) 2. § (1) bekezdés a) pont aa) alpontjában az „a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NETtv.) alapján az állam tulajdonát képező, a NETtv. 22. § (1) bekezdése szerinti bérlő használatában lévő ingatlant” szövegrész helyébe a „Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelésében lévő lakóingatlant” szöveg lép.
