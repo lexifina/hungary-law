@@ -6,4 +6,4 @@
 
 (2) Ha az önkormányzati magasépítési beruházás – amelyhez az államháztartás központi alrendszere központi költségvetési támogatást biztosít – kivitelezési dokumentációjához készült költségvetése alapján haladja meg a kivitelezés becsült értéke az e törvény végrehajtására kiadott rendeletben meghatározott értékhatárt, a Beruházási Ügynökség a támogató és a helyi önkormányzat tájékoztatása alapján haladéktalanul intézkedik az (1) bekezdésben foglaltak érvényesülése érdekében.
 
-(3) A Beruházási Ügynökség a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás során az e törvény végrehajtására kiadott rendeletben meghatározott feladatait a beruházással érintett helyi önkormányzat nevében és javára látja el.
+(3) A Beruházási Ügynökség a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás során az e törvény végrehajtására kiadott rendeletben meghatározott feladatait a beruházás megvalósítója javára látja el.
