@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-167-00-00
 | 2018-07-26 | 2018. évi XL. törvény | 2011-167-00-00.19 |
 | 2018-12-23 | 2018. évi CXIX. törvény | 2011-167-00-00.20 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2011-167-00-00.21 |
+| 2020-07-15 | 2020. évi LXXVI. törvény | 2011-167-00-00.22 |
