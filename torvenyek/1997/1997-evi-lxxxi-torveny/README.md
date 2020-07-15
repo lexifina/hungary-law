@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 1997-81-00-00.78 |
 | 2020-06-10 | 2020. évi XLVII. törvény | 1997-81-00-00.79 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 1997-81-00-00.80 |
+| 2020-07-15 | 2020. évi LXXVI. törvény | 1997-81-00-00.81 |
