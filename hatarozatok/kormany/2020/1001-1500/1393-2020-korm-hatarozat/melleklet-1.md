@@ -80,7 +80,7 @@
 
 ## 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 16. Hatályát veszti a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1250/2018. (V. 25.) Korm. határozat.
+## 16.[^1]
 
 1. melléklet az 1393/2020. (VII. 13.) Korm. határozathoz
 
@@ -111,3 +111,5 @@
 12. Budapest Liszt Ferenc Nemzetközi Repülőtér (a továbbiakban: Repülőtér) közúti elérhetőségének javítása érdekében a Repülőtérre vezető út fejlesztése,
 
 13. további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+
+[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
