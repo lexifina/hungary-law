@@ -1,6 +1,6 @@
 26. § (1) A filmalkotások „art” minősítésére a Hatóság által felállított és működtetett Art Bizottság tesz javaslatot.
 
-(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
+(2) Az Art Bizottság hat tagját a Filmiroda vezetőjének a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
 
 (3) Az Art Bizottság tagjai:
 

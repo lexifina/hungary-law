@@ -1,4 +1,4 @@
-36/E. § (1) A Hivatal a 13. §-ban meghatározott támogatási arányoknak a 31/B. § (5) bekezdés c) pontja és a 31/D. § (5) bekezdése alapján történő ellenőrzése során az ellenőrzéssel érintett filmalkotás támogatásra jogosultságának megállapítására irányuló kérelme Hivatalhoz érkezésének időpontjában hatályban lévő támogatási arányok betartását ellenőrzi.
+36/E. § (1) A Filmiroda a 13. §-ban meghatározott támogatási arányoknak a 31/B. § (5) bekezdés c) pontja és a 31/D. § (5) bekezdése alapján történő ellenőrzése során az ellenőrzéssel érintett filmalkotás támogatásra jogosultságának megállapítására irányuló kérelme Filmirodához érkezésének időpontjában hatályban lévő támogatási arányok betartását ellenőrzi.
 
 (2) E törvénynek a Módtv.-nyel módosított 13. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. március 15-ét követően benyújtott kérelemre induló, a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zrt. (a továbbiakban: MNF) által támogatott filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is kell alkalmazni.
 

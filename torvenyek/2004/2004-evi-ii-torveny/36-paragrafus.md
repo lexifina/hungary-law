@@ -4,7 +4,7 @@
 
 (3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
 
-(4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Nemzeti Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
+(4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
 
 (5) A mozgóképszakmai hatósági feladatok körében 2012. január 1-jétől az NMHH a KÖH jogutódja. 2012. január 1-jét megelőzően a mozgóképszakmai feladatok ellátása során keletkezett minden iratot, elektronikusan tárolt adatot át kell adni az NMHH részére, amely azokat tárolja és kezeli.
 
