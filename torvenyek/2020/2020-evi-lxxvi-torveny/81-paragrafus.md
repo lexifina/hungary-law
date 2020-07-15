@@ -1,6 +1,6 @@
 81. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
-1. 1. § 14. pont g) alpontjában az „a szakképzési centrum részére” szövegrész helyébe az „a szakképzésről szóló törvény szerinti, nem nappali rendszerben folyó ingyenes képzés finanszírozása céljából az állami szakképző intézmény, vagy szakképzési centrum részére” szöveg,
+1.
 
 2. 6. § (4) bekezdés b) pontjában a „részesedések értékesítésekor” szövegrész helyébe a „részesedések, befektetési jegyek értékesítésekor” szöveg,
 
@@ -10,11 +10,11 @@
 
 5. 11/F. § (1) bekezdésében az „a feladat” szövegrész helyébe az „A feladat” szöveg,
 
-6. 14. § (4) bekezdés b) pontjában az „a Magyar Nemzeti Vagyonkezelő” szövegrész helyébe az „az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő” szöveg,
+6.
 
-7. 28. § (1) bekezdésében az „uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok” szövegrész helyébe az „uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatok” szöveg,
+7.
 
-8. 36. § (4a) bekezdésében a „fejezeti kezelésű előirányzatok” szövegrész helyébe a „fejezeti kezelésű előirányzatok, központi kezelésű uniós előirányzatok” szöveg,
+8.
 
 9. 48/B. § (1) bekezdés b) pontjában a „helyettes államtitkár” szövegrész helyébe a „helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos” szöveg,
 

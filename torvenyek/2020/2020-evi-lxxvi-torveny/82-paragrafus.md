@@ -2,9 +2,9 @@
 
 1. 31. § (2a)–(2c) bekezdése,
 
-2. 32. § d) pontja, és
+2.
 
-3. 86. § (6) bekezdése.
+3.
 
 (2) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
 
