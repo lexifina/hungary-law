@@ -1,4 +1,4 @@
-70. § (1) A huszonöt, harminc, harmincöt, illetve negyven évi ügyészségi szolgálati viszonnyal rendelkező ügyésznek jubileumi jutalom jár.
+70. § (1) A huszonöt, harminc, harmincöt, negyven, illetve negyvenöt évi ügyészségi szolgálati viszonnyal rendelkező ügyésznek jubileumi jutalom jár.
 
 (2) A jubileumi jutalom
 
@@ -8,7 +8,9 @@ b) harminc év ügyészségi szolgálati viszony esetén háromhavi,
 
 c) harmincöt év ügyészségi szolgálati viszony esetén négyhavi,
 
-d) negyven év ügyészségi szolgálati viszony esetén öthavi
+d) negyven év ügyészségi szolgálati viszony esetén öthavi,
+
+e) negyvenöt év ügyészségi szolgálati viszony esetén hathavi
 
 illetménynek megfelelő összeg.
 
