@@ -2,7 +2,7 @@
 
 ## AZ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG TERJEDELME, ADATVÉDELMI RENDELKEZÉSEK
 
-60. § (1) Az igazgatási szervek a nyilvántartási rendszerben az alábbi személyes adatokat tarthatják nyilván és kezelhetik:
+60. § (1) Az igazgatási szervek a nyilvántartási rendszerben az alábbi személyes adatokat tartják nyilván és kezelik:
 
 a) személyi adatok (név, leánykori név, anyja neve, születési hely, születés éve, hónapja és napja),
 
@@ -18,7 +18,7 @@ f) jövedelemre vonatkozó adatok,
 
 g) TAJ szám.
 
-(2) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján a felhasználás céljának és jogalapjának egyidejű megjelölése mellett jogszabályban meghatározott módon szolgáltathatnak.
+(2) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján a felhasználás céljának és jogalapjának egyidejű megjelölése mellett jogszabályban meghatározott módon szolgáltatnak.
 
 (3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 

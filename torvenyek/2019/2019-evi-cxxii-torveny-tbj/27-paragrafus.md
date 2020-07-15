@@ -4,11 +4,11 @@
 
 a) az Szja tv. szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a szakképzési munkaszerződés alapján ténylegesen kifizetett pénzbeli juttatás, a felszolgálási díj, az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
 
-b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga,
+b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga, vagy kettős adózást kizáró egyezmény hiányában adóelőleg megállapítási kötelezettség nem keletkezik,
 
 ba) az alapbér, de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy
 
-bb) a tevékenység ellenértékeként a tárgy hónapban megszerezett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el a ba) alpont szerinti összeget.
+bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el a ba) alpont szerinti összeget.
 
 (2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 

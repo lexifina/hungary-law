@@ -63,3 +63,13 @@ v) a 43. § (1) bekezdése szerinti egészségügyi szolgáltatási járulékfiz
 (5) Az egészségügyi szolgáltatásra jogosult és az egészségügyi szolgáltatásra nem jogosult személyek által a biztosítástól függetlenül térítésmentesen, valamint a biztosítás alapján térítésmentesen vagy térítés ellenében, továbbá a biztosításon felül térítés ellenében igénybe vehető ellátások körét törvény határozza meg.
 
 (6) Az (1) bekezdés i) pontjában említett tanuló, képzésben részt vevő személy és hallgató a tanulói jogviszony vagy a hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói, hallgatói jogviszony szünetelésének időtartamát is.
+
+(7) A (3) bekezdés és a 43. § (1) bekezdés a) pontja alkalmazásában belföldi az a Magyarországon élő magyar állampolgár is, aki
+
+a) a jogviszony vizsgálat időpontjában társadalombiztosítási, szociális, családtámogatási ellátásban részesül, és
+
+b) a jogviszony vizsgálatot megelőző öt éven belül
+
+ba) rendelkezett belföldön legalább tizenkét hónap biztosítási jogviszonnyal, vagy
+
+bb) legalább tizenkét hónapig egészségügyi szolgáltatásra volt jogosult az (1) bekezdés alapján.

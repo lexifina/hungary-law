@@ -2,7 +2,7 @@
 
 34. § (1) Az Szja tv. szerinti családi kedvezmény érvényesítésére jogosult biztosított és – a családi kedvezményt megosztással érvényesítő – biztosított házastársa, élettársa családi járulékkedvezményre jogosult.
 
-(2) A családi járulékkedvezmény csökkenti a biztosított által fizetendő társadalombiztosítási járulék összegét.
+(2) A családi járulékkedvezmény csökkenti a biztosított által fizetendő társadalombiztosítási járulék vagy nyugdíjjárulék összegét.
 
 (3) A családi járulékkedvezmény összege a biztosítottat megillető, az Szja tv. szerinti családi kedvezmény összegéből
 
@@ -14,7 +14,7 @@ c) a biztosított és a családi kedvezményt megosztással érvényesítő bizt
 
 d) a b) és c) pont szerinti biztosítottak által együttesen
 
-ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a társadalombiztosítási járulék összege.
+ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a társadalombiztosítási járulék vagy nyugdíjjárulék összege.
 
 (4) A családi járulékkedvezményt a (3) bekezdés b)–d) pontjában meghatározott személyek döntésük szerint együtt is, de csak egyszeresen érvényesíthetik. A családi járulékkedvezmény együttes igénybevételének feltétele az érintett magánszemélyek – adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza a kedvezmény összegének felosztására vonatkozó döntésüket.
 
