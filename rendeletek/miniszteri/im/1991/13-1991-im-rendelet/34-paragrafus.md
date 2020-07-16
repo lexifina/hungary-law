@@ -1,3 +1,3 @@
-34. §[^80]
+34. §[^81]
 
-[^80]: A Vhr. 34. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^81]: A Vhr. 34. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-29/A. §[^74]
+29/A. §[^75]
 
-[^74]: A Vhr. 29/A. §-át a 33/2008. (XII. 31.) IRM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja.
+[^75]: A Vhr. 29/A. §-át a 33/2008. (XII. 31.) IRM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja.
