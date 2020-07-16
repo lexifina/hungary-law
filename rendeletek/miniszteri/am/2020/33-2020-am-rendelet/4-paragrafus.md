@@ -1,1 +1,3 @@
-## 3. § Az R. 7/B. § (3) bekezdésében a „sertéshús” szövegrész helyébe a „sertés-, juh-, kecske- és baromfihús” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
