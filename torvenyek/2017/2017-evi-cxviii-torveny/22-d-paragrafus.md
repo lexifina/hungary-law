@@ -1,6 +1,6 @@
-22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
+22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után 30 napon belül, annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
 
-(2) A teljesítés elmaradása esetén a bíróság
+(2) A teljesítés önhibából történő elmaradása esetén a bíróság
 
 a) megkeresi a gyámhatóságot, hogy a család- és gyermekjóléti intézményrendszer bevonásával mozdítsa elő a kérelmezett teljesítését,
 

@@ -1,4 +1,4 @@
-22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja.
+22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja. A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti. A kérelem elbírálása során a bíróság soron kívül jár el.
 
 (2) Ha a bíróság megállapítja, hogy a kérelmezett megszegte a kapcsolattartásra vonatkozó határozatban foglaltakat, elrendeli a végrehajtást. A bíróság a végrehajtást elrendelő végzésben a kérelmezettet felhívja, hogy
 
@@ -8,8 +8,8 @@ b) a kapcsolattartásra jogosultnak fel nem róható okból elmaradt kapcsolatta
 
 c) ha a kapcsolattartásnak egyéb, a kapcsolattartásra jogosultnak fel nem róható akadálya volt, annak elhárulását követően biztosítsa a gyermekkel való zavartalan kapcsolattartást.
 
-(3) A végrehajtást elrendelő végzésben figyelmeztetni kell a kérelmezettet a felhívás nemteljesítésének 22/D. § (2) bekezdése szerinti jogkövetkezményeire.
+(3) A végrehajtást elrendelő végzésben figyelmeztetni kell a kérelmezettet a felhívás önhibából történő nemteljesítésének 22/D. § (2) bekezdése szerinti jogkövetkezményeire.
 
-(4) A bíróság erre irányuló kérelem esetén kötelezi a kérelmezettet a kapcsolattartásra vonatkozó határozatban foglaltak megszegése folytán keletkezett igazolt költségek viselésére.
+(4) A bíróság erre irányuló kérelem esetén a 22/A. § (1) bekezdése szerinti végzésében kötelezi a kérelmezettet a kapcsolattartásra vonatkozó határozatban foglaltak megszegése folytán keletkezett igazolt költségek viselésére. A költségek viselésére kötelezés körében előterjesztett fellebbezésnek halasztó hatálya van.
 
 (5) Ha a kapcsolattartásra vonatkozó határozat végrehajtása elrendelésének feltételei nem állnak fenn, a bíróság a kérelmet elutasítja. A végzés ellen fellebbezésnek van helye.
