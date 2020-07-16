@@ -4,10 +4,6 @@
 
 (3) Szolgálati időként kell figyelembe venni az igazságügyi szolgálati jogviszonyban hasonló jellegű munkakörben eltöltött időt.
 
-(4) Részben vagy egészben szolgálati időként lehet figyelembe venni
-
-a) a III. fizetési osztályba tartozó tisztviselő esetében a kinevezéséig a szakirányú végzettségének megfelelő munkakörben vagy tevékenységgel eltöltött időt,
-
-b) az a) pontban nem említett tisztviselő és az írnok esetében pedig a 154. § (1) és (3) bekezdésében felsorolt jogviszonyokban eltöltött időt.
+(4) Részben vagy egészben szolgálati időként lehet figyelembe venni a 154. § (1), (3) és (4) bekezdésében felsorolt jogviszonyokban és a szakirányú végzettségnek megfelelő tevékenységgel eltöltött időt.
 
 (5) A (3)–(4) bekezdésben foglalt rendelkezések alkalmazásakor a beszámítandó szolgálati időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás a naptári év első napjával történjék. A (4) bekezdés szerinti beszámításnál figyelemmel kell lenni a helyes illetményarányokra is.

@@ -22,7 +22,7 @@ i) a bíróságnak vele szemben szabadságvesztést, elzárást, közérdekű mu
 
 j) a 17. § (5) bekezdésében szabályozott esetben;
 
-k) a 31. § (4)–(5) bekezdésében szabályozott esetben;
+k) a 31. § (5) és (6) bekezdésében szabályozott esetben;
 
 l) halálával;
 

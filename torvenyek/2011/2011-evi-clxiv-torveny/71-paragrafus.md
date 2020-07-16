@@ -1,6 +1,6 @@
 71. § (1) Az ügyész cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
-(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő ügyész, valamint az ügyész azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
+(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő ügyész, valamint az ügyész azon időtartam vonatkozásában, amelyre illetményre vagy átlagilletményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
 (3) Az ügyész írásban vagy elektronikus úton a tárgyév január 15-ig, illetve a jogviszony létesítésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt a legfőbb ügyész utasításban lehetővé teszi. A legfőbb ügyész utasításban előírhatja, hogy a helyi utazásra szolgáló bérlet választására vonatkozó nyilatkozatot korábban kell megtenni.
 

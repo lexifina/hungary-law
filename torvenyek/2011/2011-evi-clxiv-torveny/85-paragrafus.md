@@ -12,6 +12,6 @@ e) a fellebbviteli főügyész a vezetése alatt álló fellebbviteli főügyés
 
 f) a főügyész a vezetése alatt álló főügyészség a) pontban nem említett ügyészei és a főügyészség alá rendelt járási ügyészségek ügyészei felett.
 
-(2) Az 84. § (1) bekezdésének c)–f) pontjában meghatározott fegyelmi büntetés kiszabására az (1) bekezdés b)–f) pontjában említett esetben is csak a legfőbb ügyész jogosult.
+(2) Az 84. § (1) bekezdés c)–g) pontjában meghatározott fegyelmi büntetés kiszabására az (1) bekezdés b)–f) pontjában említett esetben is csak a legfőbb ügyész jogosult.
 
 (3) A legfőbb ügyész az (1) bekezdés b)–f) pontjában említett esetben hatáskörébe vonhatja a fegyelmi jogkör gyakorlását.

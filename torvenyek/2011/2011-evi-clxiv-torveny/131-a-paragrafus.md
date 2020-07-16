@@ -12,7 +12,7 @@ b) a próbaidő alatt.
 
 (5) A teljesítményértékelés alapján jutalom fizethető.
 
-(6) A teljesítményértékelés és az értékelés alapján a tisztviselő és az írnok alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
+(6) A teljesítményértékelés és a minősítés alapján a tisztviselő és az írnok alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
 
 (7) A tisztviselő és az írnok a teljesítményértékelés hibás vagy valótlan ténymegállapításának, illetve a személyiségi jogát sértő megállapításának a megsemmisítése iránt – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg, az ezt követő 30 napon belül – bírósághoz fordulhat.
 

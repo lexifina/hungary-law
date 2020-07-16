@@ -7,3 +7,5 @@ b) olyan magatartást tanúsít, amely az ügyészségi szolgálati viszony fenn
 (2) A rendkívüli lemondás jogát az ennek alapjául szolgáló okról való tudomásszerzéstől számított hat napon belül, legfeljebb azonban az ok bekövetkeztétől számított hat hónapig lehet gyakorolni.
 
 (3) Rendkívüli lemondás esetén a munkáltató az ügyész részére annyi időre járó átlagilletményét köteles kifizetni, amennyi felmentése esetén járna, az ügyészségi szolgálati viszony megszűnésének időpontját pedig az ügyészre irányadó felmentési idő figyelembevételével kell meghatározni.
+
+(4) A rendkívüli lemondást indokolni kell; az indokolásból a rendkívüli lemondás okának világosan ki kell tűnnie. A rendkívüli lemondás okának valóságát és okszerűségét az ügyésznek kell bizonyítania.

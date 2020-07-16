@@ -78,7 +78,7 @@
 
 ## – az ügyészségi szolgálati viszonyból származó kártérítési kötelezettsége,
 
-## – minősítésének időpontja,
+## – minősítésének időpontja, eredménye,
 
 ## – külföldi ösztöndíja,
 
@@ -110,15 +110,21 @@
 
 ## IX.
 
-## – nemzetbiztonsági ellenőrzési kötelezettsége,
+## – nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
 
-## – utolsó nemzetbiztonsági ellenőrzésének időpontja.
+## – utolsó nemzetbiztonsági ellenőrzésének időpontja;
 
 ## X.
 
 ## – vagyonnyilatkozat-tételi kötelezettsége, esedékessége,
 
 ## – utolsó vagyonnyilatkozat tételének időpontja.
+
+## XI.
+
+## – időszakos munkaköri alkalmassági vizsgálatának esedékessége,
+
+## – utolsó munkaköri alkalmassági vizsgálatának időpontja és eredménye.
 
 4. melléklet a 2011. évi CLXIV. törvényhez
 
