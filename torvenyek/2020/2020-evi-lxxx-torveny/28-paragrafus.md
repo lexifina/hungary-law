@@ -1,7 +1,1 @@
-28. § (1) Az Szhitv. 15. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az Integrációs Szervezet tagja és a Kapcsolt Vállalkozás számviteli törvény szerinti beszámolója – kivéve az átalakulás, egyesülés, szétválás, végelszámolás esetén a tevékenységet lezáró beszámolókat – elfogadásához az integrációs üzleti irányító szervezet igazgatóságának előzetes jóváhagyása szükséges, amely döntést az integrációs üzleti irányító szervezet igazgatósága az érintett szervezetnek a beszámoló elfogadására jogosult legfőbb szerve elé terjesztését megelőzően rendelkezésére bocsátott, könyvvizsgálói jelentéssel ellátott beszámoló alapján 15 napon belül hoz meg. Az integrációs üzleti irányító szervezet az előzetes jóváhagyásról szóló döntését az Integrációs Szervezet ügyvezetésének előzetes egyetértését követően hozhatja meg.”
-
-(2) Az Szhitv. 15. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Az integrációs üzleti irányító szervezet előzetes jóváhagyása szükséges az Integrációs Szervezet tagjainak és a Kapcsolt Vállalkozásoknak más gazdálkodó szervezetben, illetve jogi személyben történő tulajdonszerzéséhez vagy a szerzett tulajdon értékesítéséhez, ha a megszerezni vagy értékesíteni tervezett tulajdon értéke, illetve vételára meghaladja a hitelintézetek integrációja konszolidált alapon számított szavatoló tőkéjének 0,1%-át azzal, hogy befolyásoló részesedésszerzés esetén az Integrációs Szervezet előzetes jóváhagyása szükséges. A tizenkét hónapon belül ugyanazon tulajdoni részesedés vonatkozásában végrehajtott ügyleteket együttesen kell figyelembe venni.”
+28. §
