@@ -1,3 +1,1 @@
-2. § A Bgtv. 15. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvénynek a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2020. évi LXXIX. törvénnyel (a továbbiakban: 2020. évi LXXIX. törvény) megállapított rendelkezéseit a 2020. évi LXXIX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló nyugdíjas szövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló nyugdíjas szövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2020. évi LXXIX. törvény hatálybalépésekor még nem került sor.”
+2. §
