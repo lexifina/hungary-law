@@ -18,10 +18,11 @@ d) az eljáró szerv ügyintézőjének kliens oldali egyedi azonosítóját.
 
 a) az arról való tájékoztatást, hogy az átadott arcképmásból arckép profil nem képezhető,
 
-b) a Törvény 12/D. § (3) bekezdése szerinti összehasonlító tevékenység eredményét
+b)[^26] a technikai kapcsoló számhoz rendelten a Törvény 12/D. § (3) bekezdése szerinti összehasonlító tevékenység eredményét
 
 ## a (2) bekezdés szerinti rendszer útján biztosítja.
 
 (5) A Törvény 12/D. § (3) bekezdése szerinti összehasonlító tevékenység eredményeként kizárólag az arcképelemző rendszer által végrehajtott szoftveres elemzésen alapuló, arckép profil egyezésre vagy annak hiányára vonatkozó információ adható át az eljáró szerv számára.
 
 [^25]: A 4/D. alcímet (10/D. §) a 10/2020. (IV. 27.) BM rendelet 8. §-a iktatta be.
+[^26]: A 10/D. § (4) bekezdés b) pontja a 26/2020. (VII. 15.) BM rendelet 7. §-ával megállapított szöveg.
