@@ -1,11 +1,15 @@
-5. § (1) A Beruházás beruházáslebonyolítója és műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság (a továbbiakban: BMSK Zrt.).
+5. §[^3] (1) A Beruházás járulékos közbeszerzési szolgáltatója, tervellenőre, beruházás-lebonyolítója és építészeti műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság (a továbbiakban: BMSK Zrt.).
 
 (2) A BMSK Zrt. a Beruházás végrehajtása során:
 
-a) kidolgozza a Beruházás során megvalósuló beruházások lebonyolításához szükséges eljárásrendet,
+a) ellátja a tervellenőri tevékenységével kapcsolatos feladatait, melyek keretében ellenőrzi a beruházás terveinek, tervdokumentációjának tartalmát,
 
-b) ellátja a Beruházás lebonyolításával kapcsolatos feladatokat,
+b) kidolgozza a Beruházás során megvalósuló beruházások lebonyolításához szükséges eljárásrendet,
 
-c) ellátja a Beruházással kapcsolatos szakértői feladatokat, ideértve az esetleges műszaki ellenőrzést és műszaki felügyeletet, valamint
+c) ellátja a Beruházás lebonyolításával kapcsolatos feladatokat,
 
-d) ellátja a beruházáslebonyolítói feladatokat.
+d) ellátja a Beruházással kapcsolatos szakértői feladatokat, ideértve az esetleges műszaki ellenőrzést és műszaki felügyeletet, valamint
+
+e) ellátja a Beruházással kapcsolatos járulékos közbeszerzési feladatokat.
+
+[^3]: Az 5. § a 348/2020. (VII. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
