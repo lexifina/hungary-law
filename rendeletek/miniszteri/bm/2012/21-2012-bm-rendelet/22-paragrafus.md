@@ -1,3 +1,3 @@
-## 13.[^27]
+## 13.[^28]
 
-[^27]: A 13. alcímet (22. §) a 44/2017. (XII. 29.) BM rendelet 78. § b) pontja hatályon kívül helyezte.
+[^28]: A 13. alcímet (22. §) a 44/2017. (XII. 29.) BM rendelet 78. § b) pontja hatályon kívül helyezte.
