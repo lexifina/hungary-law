@@ -97,3 +97,7 @@ IV. A jelenlegi igazgatási jogviszony adatai
 ## – vezetői munkakör
 
 ## – a teljesítményértékelés időpontja és eredménye
+
+## – személyi juttatások: megállapított illetmény
+
+## – a rendvédelmi alkalmazott munkából való távollétének jogcíme és időtartama

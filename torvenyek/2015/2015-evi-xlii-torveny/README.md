@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2020-06-18 | 2020. évi LVIII. törvény | 2015-42-00-00.23 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2015-42-00-00.24 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2015-42-00-00.25 |
+| 2020-07-16 | 2020. évi LXXIV. törvény | 2015-42-00-00.26 |
