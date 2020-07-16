@@ -1,6 +1,6 @@
 ## 8. Egyeshatósági eljárásokhoz és intézményekhez kapcsolódó ügyészi feladatok
 
-29. § (1) Az ügyész ellenőrzi a közigazgatási hatóságok, valamint a bíróságon kívüli más jogalkalmazó szervek által hozott egyedi, bíróság által felül nem bírált jogerős, végleges vagy végrehajtható döntések, valamint hatósági intézkedések törvényességét.
+29. § (1) Az ügyész ellenőrzi a közigazgatási hatóságok, valamint – a bíróságok és a választottbíróságok kivételével – a jogvitát elbíráló szervek által hozott egyedi, bíróság által felül nem bírált jogerős, végleges vagy végrehajtható döntések, valamint hatósági intézkedések törvényességét.
 
 (2) Ha törvény másképp nem rendelkezik, az ügyész a közigazgatási hatósági döntés érdemére kiható törvénysértés esetén a jogerőre emelkedéstől, véglegessé válástól vagy a végrehajtás elrendelésétől számított legfeljebb egy éven belül, kötelezettséget megállapító, jogot elvonó vagy korlátozó döntés esetén a végrehajtáshoz való jog elévüléséig, követelés biztosítását vagy dolog zárlatát elrendelő döntéssel szemben mindaddig, amíg ez az állapot fennáll, felhívással él a törvénysértés megszüntetése érdekében.
 
