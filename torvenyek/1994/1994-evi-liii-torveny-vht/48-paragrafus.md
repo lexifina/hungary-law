@@ -10,7 +10,7 @@
 
 (5) A bíróság a felfüggesztésre okot adó, méltányolható körülmények körében kiemelten értékeli különösen az adós által eltartásra köteles és tartásra szoruló személyek számát, az adós vagy az eltartott személy tartós és súlyos betegségét, a végrehajtási eljárás során bekövetkezett és az adóst is sújtó természeti katasztrófát.
 
-(6) Ha a végrehajtás ingatlan kiürítése iránt folyik, felfüggesztés az adós kérelmére egy ízben, legfeljebb 6 hónapra rendelhető el.
+(6) Ha a végrehajtás ingatlan birtokba adása iránt folyik, felfüggesztés az adós kérelmére egy ízben, legfeljebb 6 hónapra rendelhető el.
 
 (7) Önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezett a Pp. 344. § (6) bekezdése szerinti kedvezményben részesült, a kötelezett kérelmére felfüggesztésnek helye nincs.
 

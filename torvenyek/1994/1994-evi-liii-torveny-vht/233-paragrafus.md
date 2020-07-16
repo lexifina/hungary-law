@@ -28,7 +28,11 @@ bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggeszt
 
 bd) szándékos bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított öt évig,
 
-be) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
+be) szándékos bűncselekmény miatt kiszabott pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+
+bf) szándékos bűncselekmény miatt kiszabott elzárás esetén a mentesítés beálltától számított öt évig,
+
+bg) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
 
 c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 
@@ -43,6 +47,10 @@ g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátás�
 h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti,
 
 i) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll.
+
+j) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
+
+k) akinek a végrehajtói szolgálati jogviszonya a 239. § (1) bekezdés a) vagy c) pontja alapján szűnt meg, a megszűnést követő 10 évig.
 
 (3)
 

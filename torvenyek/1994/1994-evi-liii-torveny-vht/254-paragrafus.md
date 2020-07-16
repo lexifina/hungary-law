@@ -8,6 +8,10 @@
 
 (4) Jutalék a végrehajtási eljárás eredményessége vagy részbeni eredményessége esetén jár a végrehajtónak függetlenül attól, hogy a teljesítés a végrehajtóhoz vagy a végrehajtást kérőhöz pénzben vagy természetben történt.
 
+(4a) A végrehajtási eljárás (4) bekezdés szerinti eredményességének, vagy részbeni eredményességének minősül, ha a végrehajtást kérő a követelését elengedi.
+
+(4b) Nem minősül a (4a) bekezdés szerinti elengedésnek, ha a Magyar Nemzeti Bank által felügyelt pénzügyi intézmény végrehajtást kérő aláírásra jogosult képviselője büntetőjogi felelőssége tudatában teljes bizonyító erejű magánokiratban nyilatkozik az elengedett követelés összegéről.
+
 (5) A végrehajtónak a díjazását és költségeinek megtérítését megállapító rendelkezése ellen – ideértve a végrehajtási költségek előlegezésére történő felhívását is – a 217. § szerint van helye jogorvoslatnak.
 
 (6) A felvilágosításra jogosult kérelmére a végrehajtó által a végrehajtási ügy iratáról kiadott másolatért a külön jogszabályban meghatározott összegű költségtérítést kell fizetni a végrehajtó részére, mely nem végrehajtási költség.

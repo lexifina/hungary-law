@@ -22,7 +22,7 @@ napján.
 
 a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 
-b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény következett be,
+b) a végrehajtóval szemben a 233. § (2) bekezdés b) pont ba)–bd), bg) alpontjában, c), d) vagy i) pontjában meghatározott körülmény következett be,
 
 c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 

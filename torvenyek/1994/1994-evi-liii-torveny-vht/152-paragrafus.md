@@ -4,7 +4,7 @@ a) az elárverezett ingatlannak az ingatlan-nyilvántartási adatait, lakott vag
 
 b) az árverési vevő nevét, személyazonosító adatait, lakóhelyét, illetőleg székhelyét.
 
-(2) A végrehajtó felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása céljából a végrehajtó irodájában a felhívás kézhezvételétől számított 15 napon belül jelenjen meg; ha ezt elmulasztja, előlegét elveszti.
+(2) A végrehajtó az árverés befejezését követő 8 napon belül felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása céljából a végrehajtó irodájában a felhívás kézhezvételétől számított 15 napon belül jelenjen meg; ha ezt elmulasztja, előlegét elveszti.
 
 (3) A végrehajtó az árverési jegyzőkönyv aláírásával egyidejűleg adhat az árverési vevő részére halasztást – a 149. § (2) bekezdése szerinti feltételekkel – a vételár megfizetésére.
 

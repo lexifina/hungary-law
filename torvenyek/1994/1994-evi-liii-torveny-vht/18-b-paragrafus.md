@@ -1,0 +1,1 @@
+18/B. § Ha az ingatlan közös tulajdonát – bírósági határozat, a bíróság által jóváhagyott egyezség vagy bírósági végrehajtási záradékkal ellátott okirat alapján – árveréssel kell megszüntetni, a bíróság pénzkövetelés végrehajtására irányuló végrehajtható okiratot állít ki.

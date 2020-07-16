@@ -4,9 +4,9 @@
 
 a) az adós személyazonossága a szükséges adatok hiányában nem állapítható meg,
 
-b) az adós meghalt, vagy a nem természetes személy adós megszűnt, és a végrehajtást kérő nem kérte a jogutódlás megállapítását,
+b) a végrehajtást kérő vagy az adós meghalt, vagy a nem természetes személy adós megszűnt, és a jogutód vagy az ellenérdekű fél nem kérte a jogutódlás megállapítását,
 
-c) a végrehajtást kérő az eljárásban való közreműködését megtagadta,
+c) a végrehajtást kérő az eljárásban való közreműködési kötelezettségének nem tett eleget,
 
 d) az adósnak nincs lefoglalható vagyontárgya, illetőleg a lefoglalt vagyontárgy értékesítése sikertelen volt,
 

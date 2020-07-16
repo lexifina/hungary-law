@@ -6,4 +6,6 @@ a) a követelés több végrehajtást kérőt illet meg, és a követelésnek az
 
 b) a követelés több adóssal szemben áll fenn.
 
+c) a követelés meghatározott cselekmény végrehajtása mellett pénzkövetelés végrehajtására is irányul.
+
 (3) A végrehajtási lap eredeti példánya a bíróságnál marad. A végrehajtási lapról annyi kiadmányt kell készíteni, hogy a végrehajtó, valamint minden végrehajtást kérő és adós (a továbbiakban együtt: felek) egy-egy példányt kapjanak.

@@ -4,4 +4,4 @@
 
 (2) A fegyelmi tanács zárt ülésen tanácskozik és szavaz, határozatait szótöbbséggel hozza. A hivatalvesztés fegyelmi büntetés kimondásához a fegyelmi tanács egyhangú szavazata szükséges.
 
-(3) Elsőként az előadó bíró szavaz, utolsóként a fegyelmi tanács elnöke.
+(3) Elsőként az előadó szakülnök szavaz, utolsóként a fegyelmi tanács elnöke.

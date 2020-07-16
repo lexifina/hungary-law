@@ -9,3 +9,7 @@
 (5) A 2015. szeptember 1. napján egyetemi jogi végzettséggel nem rendelkező önálló bírósági végrehajtó 2015. december 31. napjáig köteles egyetemi jogi végzettségű alkalmazottat foglalkoztatni, a foglalkoztatást az egyetemi jogi végzettség megszerzéséig folyamatosan fenntartani és a foglalkoztatás tényét a Kar hivatali szerve felhívására igazolni.
 
 (6) Amennyiben az (1) bekezdés szerinti önálló bírósági végrehajtó nem tesz eleget az (1)–(5) bekezdésben meghatározott kötelezettségének, a miniszter megállapítja a szolgálat megszűnését.
+
+(7) Az (1) bekezdés szerinti önálló bírósági végrehajtó a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti, ha a felsőoktatási intézmény által kiállított (3) bekezdés szerinti igazolásból az állapítható meg, hogy 2022. december 31. napjáig az egyetemi jogi végzettséget igazoló oklevelet nem tudja megszerezni.
+
+(8) A (7) bekezdésben foglaltak esetén a végrehajtó szolgálata megszűnik.

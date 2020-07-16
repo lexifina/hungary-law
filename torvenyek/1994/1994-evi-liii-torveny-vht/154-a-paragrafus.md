@@ -16,10 +16,10 @@
 
 (9) A kérelmet elutasító végzés ellen a kérelmező fellebbezhet. A fellebbezést a végzés kézbesítésétől számított 15 napon belül, meghallgatás esetén a végzés kihirdetésekor lehet bejelenteni. Fellebbezés esetén az árverés megtartható, de az árverési vevőt tájékoztatni kell a halasztás tárgyában folyamatban levő eljárásról.
 
-(10) Ha a kiköltözésre az (1) és (5) bekezdésben foglalt időpontig nem került sor az árverési vevő a kiköltözési határidő lejártát követő 15. napig kérelmezheti az ingatlan kiürítését.
+(10) Ha a kiköltözésre az (1) és (5) bekezdésben foglalt időpontig nem került sor az árverési vevő a kiköltözési határidő lejártát követő 15. napig kérelmezheti az ingatlan birtokba adását.
 
-(11) A végrehajtó köteles – a lakóingatlan kiürítésére irányuló kérelem részére történt kézbesítését követő 8 napon belül – tájékoztatni a lakóingatlan fekvése szerint illetékes jegyzőt arról, hogy az árverési vevő az ingatlan kiürítésére irányuló kérelmet terjesztett elő.
+(11) A végrehajtó köteles – a lakóingatlan birtokba adására irányuló kérelem részére történt kézbesítését követő 8 napon belül – tájékoztatni a lakóingatlan fekvése szerint illetékes jegyzőt arról, hogy az árverési vevő az ingatlan birtokba adására irányuló kérelmet terjesztett elő.
 
-(12) A végrehajtó az árverési vevő kérelmére – szükség esetén rendőrség közreműködésével – akkor intézkedik az ingatlan kiürítése iránt a 182. § és a 182/A. § megfelelő alkalmazásával, ha a (11) bekezdés szerint a jegyző részére megküldött tájékoztatástól 60 nap eltelt.
+(12) A végrehajtó az árverési vevő kérelmére – szükség esetén rendőrség közreműködésével – akkor intézkedik az ingatlan birtokba adása iránt a 182. § és a 182/A. § megfelelő alkalmazásával, ha a (11) bekezdés szerint a jegyző részére megküldött tájékoztatástól 60 nap eltelt.
 
-(13) Az ingatlan kiürítése során a végrehajtást kérő jogai és kötelezettségei az árverési vevőt illetik meg, illetve terhelik.
+(13) Az ingatlan birtokba adása során a végrehajtást kérő jogai és kötelezettségei az árverési vevőt illetik meg, illetve terhelik.

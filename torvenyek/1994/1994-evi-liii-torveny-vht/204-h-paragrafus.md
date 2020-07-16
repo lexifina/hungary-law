@@ -8,7 +8,7 @@ b) az ingatlan legkisebb vételárának vagy becsértékének 204/E. § (4) beke
 
 c) a zálogtárgy árverése,
 
-d) az értékesített ingatlan kiürítése,
+d) az értékesített ingatlan birtokba adása,
 
 e) a végrehajtói költség megállapítása és a vételár felosztása,
 

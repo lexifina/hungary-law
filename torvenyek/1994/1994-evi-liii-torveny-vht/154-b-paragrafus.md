@@ -1,4 +1,4 @@
-154/B. § (1) Ha az adós a kiköltözési kötelezettségének a 154/A. § (1) és (5) bekezdésben foglalt határidőben eleget tett, és az ingatlant kiürített állapotban, az árverési hirdetményben feltüntetett tartozékokkal együtt átadja az árverési vevőnek, az ingatlan kiürítését, de legkésőbb a kiköltözési határidő lejártát követő 8 napon belül előterjesztett kérelmére megilleti
+154/B. § (1) Ha az adós a kiköltözési kötelezettségének a 154/A. § (1) és (5) bekezdésben foglalt határidőben eleget tett, és az ingatlant kiürített állapotban, az árverési hirdetményben feltüntetett tartozékokkal együtt átadja az árverési vevőnek, az ingatlan birtokba adását, de legkésőbb a kiköltözési határidő lejártát követő 8 napon belül előterjesztett kérelmére megilleti
 
 a) az 5 millió forint alatti árverési vételár esetén annak 1%-ának,
 

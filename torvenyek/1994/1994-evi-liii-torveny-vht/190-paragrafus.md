@@ -1,6 +1,6 @@
 ## A biztosítási intézkedés elrendelése
 
-190. § (1) A bíróság a biztosítási intézkedésről soron kívül, de legfeljebb 8 napon belül végzéssel dönt, és a biztosítási intézkedést elrendelő végzést haladéktalanul megküldi a végrehajtónak.
+190. § (1) A bíróság a biztosítási intézkedésről soron kívül, de legfeljebb 8 napon belül végzéssel dönt, és a biztosítási intézkedést elrendelő végzést haladéktalanul megküldi elektronikus úton a Kar hivatali szervének.
 
 (2) A bíróság a biztosítási intézkedést elrendelő végzést kézbesítteti a végrehajtást kérőnek, továbbá ha az adós cég, egyúttal a nyilvántartó hatóságnak, az ingatlan zárlatát elrendelő végzést pedig az adósnak is.
 

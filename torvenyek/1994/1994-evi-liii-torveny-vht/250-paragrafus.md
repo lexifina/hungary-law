@@ -72,11 +72,15 @@
 
 35. ellátja a 655/2014/EU rendelet 14. cikke szerinti információs hatósági feladatokat.
 
+36. megállapítja a végrehajtó esetén a szolgálatból történő felfüggesztés, a végrehajtó-helyettes és a végrehajtójelölt esetén a névjegyzékből történő törlés fennállásának feltételeit;
+
+37. a 36. pont szerinti feltételek fennállása esetén felfüggeszti a végrehajtót.
+
 (3) A Kar a 251. § (1) bekezdés c) pontja szerinti hivatali szerve útján gyakorolja a (2) bekezdésben meghatározott jogokat és teljesíti a (2) bekezdésben meghatározott kötelezettségeket. E jogok gyakorlása és kötelezettségek teljesítése során a hivatali szerv együttműködik a Kar elnökségével, a Kart a hivatali szerv vezetője képviseli. A Karnak a (2) bekezdésben meghatározott feladatai ellátása során a Kar hivatali szervével a végrehajtó köteles együttműködni, és az e célból szükséges adatokat szolgáltatni, valamint a szükséges felvilágosítást, tájékoztatást megadni.
 
 (4) A Kar – az elnökség útján – érdek-képviseleti feladata ellátása érdekében:
 
-a) megválasztja a fegyelmi bíróság vizsgálóbiztosait;
+a) megválasztja a fegyelmi bíróság szakülnökeit és vizsgálóbiztosait;
 
 b) véleményezi a végrehajtókkal és a Karral kapcsolatos jogszabályok tervezetét;
 
