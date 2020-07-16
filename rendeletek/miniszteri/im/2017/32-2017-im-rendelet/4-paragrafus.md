@@ -1,8 +1,8 @@
-4. § (1)[^5] A pártfogó ügyvédnek az eljárás során felmerült költségét a fővárosi és megyei kormányhivatal jogi segítségnyújtási feladatokat ellátó szervezeti egysége állapítja meg a pártfogó ügyvéd által benyújtott tételes kimutatás alapján.
+4. § (1)[^7] A pártfogó ügyvédnek az eljárás során felmerült költségét a fővárosi és megyei kormányhivatal jogi segítségnyújtási feladatokat ellátó szervezeti egysége állapítja meg a pártfogó ügyvéd által benyújtott tételes kimutatás alapján.
 
-(2)[^6] Ha a pártfogó ügyvéd ezt kifejezetten kéri, vagy nem részletezi és nem igazolja költségét, részére a költségtérítése átalány formájában kerül megállapításra. A költségátalány összege a pártfogó ügyvédi munkadíj huszonöt százaléka.
+(2)[^8] Ha a pártfogó ügyvéd ezt kifejezetten kéri, vagy nem részletezi és nem igazolja költségét, részére a költségtérítése átalány formájában kerül megállapításra. A költségátalány összege a pártfogó ügyvédi munkadíj huszonöt százaléka.
 
 (3) Ha általános forgalmi adó fizetésére a pártfogó ügyvédi képviseletet ellátó jogi segítő szervezet nem, de a megbízottjaként eljáró ügyvéd köteles, a jogi segítő szervezet a munkadíjat terhelő általános forgalmi adó összegének megfelelő összegre is jogosult költségtérítésként.
 
-[^5]: A 4. § (1) bekezdése a 18/2018. (VI. 28.) IM rendelet 5. § c) pontja szerint módosított szöveg.
-[^6]: A 4. § (2) bekezdése a 18/2018. (VI. 28.) IM rendelet 5. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdése a 18/2018. (VI. 28.) IM rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 18/2018. (VI. 28.) IM rendelet 5. § c) pontja szerint módosított szöveg.
