@@ -2,7 +2,7 @@
 
 (2) Az érmes valamennyi, 59. § (1) bekezdése szerinti helyezése után jogosult a helyezés után az (1) bekezdés szerint járó teljes összegre.
 
-(3) Az érmes özvegye az érmes járadéka fele részének megfelelő özvegyi járadékra jogosult.
+(3) Az érmes özvegye az érmes járadéka fele részének megfelelő özvegyi járadékra jogosult. Az érmes özvegye az érmes járadékának teljes összegére jogosult közös kiskorú gyermekük nagykorúvá válásáig.
 
 (4) Az edző járadékát az edzői járadék alapját képező érmesi helyezés alapján kell megállapítani. Az edzői járadék az érmesi helyezés után járó járadék összegével megegyező mértékű. A labdajáték-csapatsportokban az olimpiára felkészítő szövetségi kapitány járadéka megegyező mértékű az irányítása alatt érmet, érmeket szerzett csapat legeredményesebb sportolóját megillető járadék összegével. Egyéni sportágakban a szövetségi kapitány edzői járadéka megegyező mértékű az irányítása alatt érmet, érmeket szerzett legeredményesebb sportolója legjobb helyezése után járó járadék összegével. Ugyanaz a személy nem részesülhet edzőként és szövetségi kapitányként is járadékban.
 

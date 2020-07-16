@@ -10,7 +10,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) A sportpolitikáért felelős miniszter a járadékot a jogosulttá válás időpontjától kezdődően – a jogosulttá válás és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
 
-(3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző tíz évben megszakítás nélkül közös háztartásban élt.
+(3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző öt évben megszakítás nélkül közös háztartásban élt.
 
 (4) Élete végéig járadékra jogosult az érmes járadékra jogosultságának időpontjától – vagy amennyiben az korábbi időpont, a negyvenötödik életéve betöltését követő hónap 1. napjától – az érmes edzője, az érmes járadékra jogosultságának megállapítására tekintet nélkül.
 

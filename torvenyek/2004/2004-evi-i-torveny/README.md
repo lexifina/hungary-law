@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2019-04-18 | 2019. évi XXIX. törvény | 2004-1-00-00.65 |
 | 2019-07-01 | 2018. évi CXXXV. törvény | 2004-1-00-00.66 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2004-1-00-00.67 |
+| 2020-07-16 | 2020. évi XCIV. törvény | 2004-1-00-00.68 |
