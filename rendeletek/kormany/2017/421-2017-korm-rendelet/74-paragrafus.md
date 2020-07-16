@@ -1,12 +1,15 @@
-74. § (1)[^16] Ha a büntetőeljárásban vádemelésre kerül sor, a pártfogó ügyvéd az addig végzett pártfogó ügyvédi tevékenységéért – kérelmére – eljárási előlegre jogosult.
+74. § (1)[^29] Ha a büntetőeljárásban vádemelésre kerül sor, a pártfogó ügyvéd az addig végzett pártfogó ügyvédi tevékenységéért – kérelmére – eljárási előlegre jogosult.
 
-(2)[^17] A felet a büntetőeljárás vádemelésig terjedő szakaszában képviselő pártfogó ügyvéd részére a vádemelést követően előterjesztett kérelmére a jogi segítségnyújtó szolgálat eljárási előleget fizet. Az eljárási előleg megállapítására a 43. § (1) bekezdését, mérséklésére a 45. § (3) bekezdését megfelelően alkalmazni kell.
+(2)[^30] A felet a büntetőeljárás vádemelésig terjedő szakaszában képviselő pártfogó ügyvéd részére a vádemelést követően előterjesztett kérelmére a jogi segítségnyújtó szolgálat eljárási előleget fizet. A pártfogó ügyvéd az eljárási előleg iránti kérelmével egyidejűleg a vádiratot is megküldi a jogi segítségnyújtó szolgálatnak.
 
-(3) A pártfogó ügyvéd az eljárási előleg iránti kérelmével egyidejűleg megküldi a vádiratot.
+(3)[^31] Az eljárási előleg megállapítására, mérséklésére és kifizetésére a határon átnyúló tartási ügyben képviseletet ellátó pártfogó ügyvéd eljárási előlegére vonatkozó szabályokat megfelelően alkalmazni kell, azzal, hogy ha a jogi segítségnyújtó szolgálat a pártfogó ügyvéd részére eljárási előleget fizetett, a pártfogó ügyvéd a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését követően a részére megállapított pártfogó ügyvédi díjnak csak az eljárási előlegen felüli részére tarthat igényt.
 
-(4) A területi hivatal a pártfogó ügyvéd kérelmére határozatban állapítja meg az eljárási előleg összegét.
+(4)[^32]
 
-(5) Az eljárási előleg kifizetésére a polgári perben képviseletet ellátó pártfogó ügyvéd díjának kifizetésére irányadó szabályokat kell megfelelően alkalmazni.
+(5)[^33]
 
-[^16]: A 74. § (1) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^17]: A 74. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^29]: A 74. § (1) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^30]: A 74. § (2) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^31]: A 74. § (3) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^32]: A 74. § (4) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^33]: A 74. § (5) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
