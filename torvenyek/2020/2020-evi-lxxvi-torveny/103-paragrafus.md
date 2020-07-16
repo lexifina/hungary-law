@@ -1,7 +1,1 @@
-103. § (1) Az adózás rendjéről szóló 2017. évi CL. törvény 76. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az állami adó- és vámhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (visszaigénylést, visszatérítést) az általa nyilvántartott 2020. július 1. napja utáni időszakra vonatkozóan keletkezett egészségügyi szolgáltatási járulék kötelezettség, egyéb adó- és vámtartozás, adók módjára behajtandó köztartozás, az általános közigazgatási rendtartás alapján behajtandó köztartozás, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló pénzkövetelés és az önkormányzati adóhatóság megkeresésében közölt – önkormányzati adóhatóságot megillető – tartozás összegéig visszatarthatja, és ezzel ennek erejéig a tartozás megfizetettnek minősül.”
-
-(2) Az adózás rendjéről szóló 2017. évi CL. törvény 76. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha az igényelt költségvetési támogatás (visszaigénylés, visszatérítés) összege az adózót terhelő tartozások mindegyikére nem nyújt fedezetet, azt az adóhatóság először a nála nyilvántartott tartozás kiegyenlítésére számolja el, elsőként a 2020. július 1. napja utáni időszakra vonatkozóan keletkezett egészségügyi szolgáltatási járulék kötelezettségre, ezt követően az esedékesség sorrendjében, azonos esedékességű adóknál a tartozás arányában. Az ezt követően fennmaradó összeget a követelések arányában kell átutalni a köztartozás jogosultjainak.”
+103. §

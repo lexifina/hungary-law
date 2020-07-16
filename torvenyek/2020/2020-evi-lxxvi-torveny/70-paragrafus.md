@@ -1,3 +1,1 @@
-70. § Az államháztartásról szóló 2011. évi CXCV. törvény 45. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha az állam befektetési alap vagy kockázati tőkealap létrehozatala útján valósítja meg feladatát, az alapok létrehozatala és azokban tőkeemelés az állam nevében, tulajdonosi ügyletként hajtható végre. Az állam nevében létrehozott befektetési alapból vagy kockázati tőkealapból származó bevétel az állam tulajdonosi bevétele. Befektetési alapot vagy kockázati tőkealapot a Vtv. 17. § (1) bekezdés e) pontjától eltérően a befektetés céljának vagy jellegének szakmai kapcsolódása alapján feladat- és hatáskörrel rendelkező költségvetési szerv is létrehozhat. Az így létrejött állami vagyon feletti tulajdonosi joggyakorlás tekintetében a Vtv. rendelkezéseit kell alkalmazni.”
+70. §

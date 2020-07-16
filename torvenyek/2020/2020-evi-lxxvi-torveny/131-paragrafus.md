@@ -1,3 +1,1 @@
-131. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 25. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az egészségügyi szolgáltatási járulék havi összege 7 710 forint (napi összege 257 forint). A 2020. évet követően az egészségügyi szolgáltatási járulék tárgyévi havi mértéke a tárgyévet megelőző évi egészségügyi szolgáltatási járulék havi mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege, 100 forintra kerekítve. Az egészségügyi szolgáltatási járulék napi mértéke a havi mérték harmincad része, 10 forintra kerekítve. Az előbbiek szerint megállapított járulék mértékeket a Nemzeti Adó- és Vámhivatal a honlapján a tárgyévet megelőző év október 31-ig közzéteszi.”
+131. §

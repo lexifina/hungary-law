@@ -1,7 +1,1 @@
-116. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdés alapján lefoglalt ingóság, valamint végrehajtás alá vont dematerializált értékpapír tekintetében az állami adó- és vámhatóság felhívja a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.), hogy az állam nevében 15 napon belül nyilatkozzon, hogy az állam a vagyonelkobzás végrehajtásának keretében a vagyontárgy értékesítéséből befolyt vételárra tart igényt, vagy a vagyontárgy birtokba adását kéri.
-
-(2b) Ha az MNV Zrt. a (2a) bekezdésében meghatározott felhívásra a (2a) bekezdésben megállapított határidőn belül nem nyilatkozik, vagy akként nyilatkozik, hogy az állam a vagyontárgy értékesítéséből befolyt vételárra tart igényt, az állami adó- és vámhatóság a 125/B. § (1) bekezdése szerint jár el.
-
-(2c) Ha az MNV Zrt. arról nyilatkozik, hogy az állam a vagyontárgy birtokba adását kéri, az MNV Zrt. a nyilatkozatában megjelöli az ingóság birtokba adásának módját, valamint azt az értékpapírszámlát, amelyre a dematerializált értékpapír átvezetését kéri. Az állami adó- és vámhatóság az MNV Zrt. nyilatkozata alapján haladéktalanul intézkedik az ingóságnak az MNV Zrt. által meghatározott módon történő birtokba adása, dematerializált értékpapír esetén annak a MNV Zrt. által megjelölt értékpapírszámlára történő átvezetése iránt. Ha van olyan közhiteles nyilvántartás, amelyben a vagyontárgyat nyilván kell tartani, az állami adó- és vámhatóság haladéktalanul megkeresi a nyilvántartást vezető hatóságot, hogy a vagyontárgyra a vagyonelkobzásról szóló határozat jogerőre emelkedésének napjával az állam tulajdonjogát jegyezze be.”
+116. §

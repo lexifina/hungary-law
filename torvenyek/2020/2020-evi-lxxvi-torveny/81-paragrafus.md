@@ -2,13 +2,13 @@
 
 1.
 
-2. 6. § (4) bekezdés b) pontjában a „részesedések értékesítésekor” szövegrész helyébe a „részesedések, befektetési jegyek értékesítésekor” szöveg,
+2.
 
-3. 6. § (6) bekezdés a) pontjában a „részesedések megszerzéséhez” szövegrész helyébe a „részesedések és befektetési jegyek megszerzéséhez” szöveg,
+3.
 
-4. 6. § (7) bekezdés a) pont aa) alpontjában az „értékpapírok vásárlásából” szövegrész helyébe az „értékpapírok – kivéve a befektetési jegyek – vásárlásából” szöveg,
+4.
 
-5. 11/F. § (1) bekezdésében az „a feladat” szövegrész helyébe az „A feladat” szöveg,
+5.
 
 6.
 
@@ -16,28 +16,28 @@
 
 8.
 
-9. 48/B. § (1) bekezdés b) pontjában a „helyettes államtitkár” szövegrész helyébe a „helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos” szöveg,
+9.
 
-10. 48/B. § (1) bekezdés e) pontjában az „és a polgárőr szervezet” szövegrész helyébe az „ , a polgárőr szervezet és az állam által alapított vagyonkezelő alapítvány, valamint azon vagyonkezelő alapítvány, amelyhez az állam csatlakozott” szöveg,
+10.
 
-11. 60/A. § (2) bekezdésében az „engedélyezett részletfizetés” szövegrész helyébe az „engedélyezett és az előírtaknak megfelelő ütemben teljesített részletfizetés” szöveg,
+11.
 
-12. 60/A. § (3) bekezdésében a „kamat kivételével” szövegrész helyébe a „kamat és az 53/A. § (2) bekezdés szerinti ügyleti kamat kivételével” valamint a „nincs helye.” szövegrész helyébe a „nincs helye. A részletfizetési kérelem elbírálására vonatkozó eljárás során szünetelésnek nincs helye.” szöveg,
+12.
 
-13. 77. § (2) bekezdésében a „bekezdése” szövegrész helyébe a „bekezdése és 79. § (4a) bekezdése” szöveg,
+13.
 
-14. 90. § (5) bekezdés a) pontjában a „21. § (6) bekezdésében és 33. § (1)–(2) bekezdésében” szövegrész helyébe a „33. § (1) és (2) bekezdésében” szöveg,
+14.
 
-15. 90. § (5) bekezdés c) pontjában a „június 30-áig” szövegrész helyébe a „december 31-éig” szöveg,
+15.
 
-16. 109. § (1) bekezdés 15. pont a) alpontjában a „visszakövetelésének” szövegrész helyébe a „visszakövetelésének, a támogatási szerződés módosításának” szöveg,
+16.
 
-17. 109. § (1) bekezdés 15b. pontjában a „fejezeti” szövegrész helyébe a „fejezeti és központi” szöveg,
+17.
 
-18. 109. § (1) bekezdés 31. pontjában a „megyei jogú város önkormányzat kedvezményezettnek” szövegrész helyébe a „megyei önkormányzat és a megyei jogú város önkormányzat kedvezményezettnek” szöveg,
+18.
 
-19. 109. § (3) bekezdés 7. pontjában a „rendjét, és” szövegrész helyébe a „rendjét,” szöveg, és
+19.
 
-20. 109. § (3) bekezdés 8. pontjában a „mértékét” szövegrész helyébe a „mértékét, és” szöveg
+20.
 
 lép.

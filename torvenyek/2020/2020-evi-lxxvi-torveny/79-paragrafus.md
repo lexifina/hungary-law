@@ -1,3 +1,1 @@
-79. § Az államháztartásról szóló 2011. évi CXCV. törvény a következő 111/A. §-sal egészül ki:
-
-„111/A. § A befektetési alap vagy kockázati tőkealap létrehozására, azokban tőkeemelésre visszatérítendő költségvetési támogatást nyújtó szerv olyan tartalommal módosíthatja a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: Módtv1.) hatálybalépését megelőzően megkötött támogatási szerződést, amely lehetőséget ad számára, hogy a támogatási jogviszonyból eredő követelését a befektetési alap befektetési jegyeinek, vagy a kockázati tőkealapban lévő kockázati tőkejegyeinek megszüntetéséből felszabaduló pénzeszköz értéke alapján határozza meg. Ha a pénzeszközök értéke kevesebb, mint a követelés eredeti összege, akkor ez a veszteség jellegű különbözet elengedett követelésnek minősül.”
+79. §

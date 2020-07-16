@@ -1,17 +1,1 @@
-76. § Az államháztartásról szóló 2011. évi CXCV. törvény a következő 69/A. alcímmel egészül ki:
-
-„69/A. Törzsadat-nyilvántartás
-
-106/G. § (1) A kincstárként kijelölt szerv a jogszabályban meghatározott feladatainak ellátásához, annak érdekében, hogy az általa vezetett nyilvántartásokban szereplő adatok az adatkezelés céljai szempontjából megfelelőek és relevánsak legyenek és a szükséges mértékre korlátozódjanak, továbbá az adatok folyamatos, megfelelő minőségének biztosítása, naprakészen tartása, valamint az általa vezetett nyilvántartások informatikai rendszereinek az ügyfelek magasabb színvonalú kiszolgálását biztosító együttműködése céljából azon ügyféladatok tekintetében, amelyek nem tartalmaznak részletes ügyviteli információkat, és ezáltal nem teszik lehetővé az ügyfelek érdemi ügyviteli adatainak jogellenes összekapcsolását (a továbbiakban: törzsadat), a fenti célok eléréséhez szükséges adatkörben és mértékben egységes közhiteles nyilvántartásnak nem minősülő törzsadat-nyilvántartást vezet.
-
-(2) A törzsadat-nyilvántartás e törvényi felhatalmazás alapján a kincstári feladatokra kijelölt szerv adatkezelési körébe tartozó, az (1) bekezdésben meghatározottaknak megfelelő személyes adatokat tartalmazhat.
-
-(3) Az (1) bekezdés szerinti törzsadat-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával a Kormány rendeletben kijelölt szervet vagy szervezetet bízhat meg, kivéve, ha e korlátozás alól az adatkezelő irányítására kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
-
-(4) Az (1) bekezdés szerinti nyilvántartás vezetése céljából a kincstárként kijelölt szerv által vezetett nyilvántartások összekapcsolhatók, amelynek során biztosítani szükséges, hogy a törzsadatnak nem minősülő adatok összekapcsolása kizárólag emberi beavatkozás nélküli, gépi úton valósuljon meg, és sem üzemszerű működés, sem rendkívüli esemény során ne jöhessen létre olyan összekapcsolt, ember számára értelmezhető adatokat tartalmazó nyilvántartás, amely a kincstárként kijelölt szerv részére egyes feladatainak ellátáshoz meghatározott célokon túlmenően többlet hozzáférést biztosítana bárkinek az érintettek egymástól elkülönülten kezelendő törzsadatnak nem minősülő adataihoz.
-
-(5) A törzsadat-nyilvántartásban szereplő adatok kizárólag jogszabály szerinti feladatellátás céljából, jogszabályban meghatározott mértékben és időtartamban kezelhetőek.
-
-(6) A törzsadat-nyilvántartásban szereplő adathoz való hozzáférés kizárólag azon szerv, vagy személy részére biztosítható, amely az érintett adat megismerésére, kezelésére törvény alapján jogosult.
-
-(7) A kincstár az (1) bekezdés szerinti nyilvántartás útján történő adatkezelés jogszerűsége, valamint az adatok kezelésére vonatkozó elveknek való megfelelés ellenőrzése és biztosítása, továbbá ezen megfelelés igazolása érdekében egységes azonosítási, jogosultságkezelési és adatszolgáltatási nyilvántartást vezet.”
+76. §
