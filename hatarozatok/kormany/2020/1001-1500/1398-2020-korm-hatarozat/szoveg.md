@@ -24,4 +24,6 @@ Határidő: a 2021. évben a 2021. évi központi költségvetés végrehajtása
 
 a 2022–2027. évek között az adott évi központi költségvetés tervezése során
 
-6. visszavonja a Formula–1 Világbajnokság Magyar Nagydíj 2017–2026 között történő megrendezésével kapcsolatos kormányzati szerepvállalásról szóló 1865/2015. (XII. 2.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
