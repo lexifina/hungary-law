@@ -100,7 +100,9 @@ m) a halászati őr a halászatról és a horgászatról szóló törvényben me
 
 n) a közösségi közlekedési eszközt működtető gazdálkodó szervezetnél végrehajtói feladatot ellátó személy e tevékenysége során,
 
-o) az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során;
+o) az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során,
+
+p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében.
 
 13. külföldi hivatalos személy:
 
