@@ -12,4 +12,4 @@ b) a jogi segítő a jogi szolgáltatást a 70. § (1) bekezdés b) pontja alapj
 
 c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
 
-(4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi.
+(4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.

@@ -36,7 +36,7 @@ b) a támogatás hatályának fennállása alatt bármikor, ha adat merül fel a
 
 a) a büntetőeljárást folytató bíróság, ügyészség, nyomozó hatóság megnevezése, a büntetőeljárás ügyszáma, a felek neve és a bűncselekmény, amely miatt a büntetőeljárás folyik,
 
-b) a fél helyett előlegezett pártfogó ügyvédi díj, illetve a pártfogó ügyvédi díj eljárási előlegének (a továbbiakban: eljárási előleg) összege,
+b) a fél helyett előlegezett pártfogó ügyvédi díj, illetve az eljárási előleg összege,
 
 c) a visszatérítésre köteles terhelt adatai (név, anyja neve, születési hely és idő, lakóhely; szervezet esetében elnevezés, székhely, nyilvántartást vezető szerv, nyilvántartási szám),
 

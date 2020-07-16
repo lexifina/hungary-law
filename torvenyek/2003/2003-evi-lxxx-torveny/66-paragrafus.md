@@ -1,4 +1,4 @@
-66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kezdeményező adatlapot visszaküldő
+66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kezdeményező adatlapot benyújtó
 
 a) jogvédelemmel foglalkozó egyesület, alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
 

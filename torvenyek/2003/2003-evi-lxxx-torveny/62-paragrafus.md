@@ -4,9 +4,11 @@
 
 a) megállapítja a pártfogó ügyvédi díj, illetve a fél helyett az állam által kifizetendő pártfogó ügyvédi díj összegét;
 
-b) ha annak külön jogszabályban foglalt feltételei fennállnak, megállapítja a pártfogó ügyvéd részére fizetendő pártfogó ügyvédi díjelőleg összegét;
+b) ha annak jogszabályban foglalt feltételei fennállnak, a pártfogó ügyvéd részére eljárási előleget állapít meg;
 
-c) ha a pártfogó ügyvédi díj viselésére nem az állam köteles, kötelezi a pártfogó ügyvédi díj viselésére köteles perbeli ellenfelet a díj pártfogó ügyvéd részére történő megfizetésére, levonva belőle a (3) bekezdés szerinti pártfogó ügyvédi díjelőleg összegét.
+c) ha annak jogszabályban foglalt feltételei fennállnak, a pártfogó ügyvéd részére pártfogó ügyvédi díjelőleget állapít meg;
+
+d) ha a pártfogó ügyvédi díj viselésére nem az állam köteles, kötelezi a pártfogó ügyvédi díj viselésére köteles perbeli ellenfelet a díj pártfogó ügyvéd részére történő megfizetésére, levonva belőle a (4) bekezdés szerinti pártfogó ügyvédi díjelőleg összegét.
 
 (2) Ha a fél a pártfogó ügyvédi díj visszatérítésére köteles, a jogi segítségnyújtó szolgálat kötelezi az előlegezett pártfogó ügyvédi díj visszatérítésére. A visszatérítésre legfeljebb egyéves határidő biztosítható, e határidőn belül pedig a részletekben történő teljesítés is engedélyezhető.
 
