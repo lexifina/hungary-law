@@ -34,7 +34,7 @@ ab) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végreha
 
 ac) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
 
-ad) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+ad) szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
 
 ae) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
 
@@ -42,7 +42,7 @@ af) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságveszté
 
 ag) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított öt évig,
 
-ah) gondatlan bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított három évig,
+ah) gondatlan bűncselekmény miatt kiszabott elzárás vagy közérdekű munka esetén a mentesítés beálltától számított három évig,
 
 b) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 
