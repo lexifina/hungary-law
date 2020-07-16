@@ -1,0 +1,1 @@
+3. § Az Rtv. 101. § (1) bekezdés e) pontjában a „rendjét,” szövegrész helyébe a „rendjét, valamint az iskolaőri intézkedések és kényszerítő eszközök alkalmazásának részletes eljárási szabályait, valamint a formaruha viselésének rendjét,” szöveg lép.

@@ -1,0 +1,7 @@
+## 2. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
+
+4. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény a következő 16. §-sal és az azt megelőző következő alcímmel egészül ki:
+
+„A bűncselekmény elkövetéséért elítélt gyermekre (személyre) tekintettel folyósított iskoláztatási támogatás szüneteltetésével összefüggő rendelkezések
+
+16. § Ha a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben vagy szakképző intézményben tanulmányokat folytató gyermeket (személyt) a bíróság szándékos bűncselekmény elkövetése miatt jogerősen bűnösnek mondta ki, de büntetésként rá szabadságvesztést nem szabott ki, a gyermekre (személyre) tekintettel megállapított iskoláztatási támogatást a családtámogatási ügyben eljáró hatóság – az ítéletet hozó bíróság központi családtámogatási szervnek megküldött tájékoztatása alapján, a szüneteltetés elrendelése hónapjától számított 12 naptári hónapon át – szünetelteti.”
