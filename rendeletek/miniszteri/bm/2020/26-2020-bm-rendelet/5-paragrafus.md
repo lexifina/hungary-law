@@ -1,0 +1,3 @@
+## 4. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet (a továbbiakban: R2.) 11/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A bíróság a Szabs. tv. 141. § (2f) és (2j) bekezdése szerinti adattovábbítást az általa használt informatikai rendszer igénybevételével automatizált informatikai megoldással teljesíti a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott központi bírságkezelő szerv (a továbbiakban: központi bírságkezelő szerv) által használt informatikai rendszer felé.”

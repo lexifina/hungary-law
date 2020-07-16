@@ -1,0 +1,1 @@
+## 5. § Az R2. 11. § (5) bekezdésében az „a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott központi bírságkezelő szerv (a továbbiakban: központi bírságkezelő szerv)” szövegrész helyébe az „az általános rendőrségi feladatok ellátására létrehozott szerv területi szervei” szöveg lép.
