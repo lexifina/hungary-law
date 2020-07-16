@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-41-00-00
 | 2019-02-16 | 2007. évi LXXXII. törvény | 1991-41-00-00.51 |
 | 2019-07-10 | 2017. évi L. törvény | 1991-41-00-00.52 |
 | 2020-01-01 | 2019. évi CXVII. törvény | 1991-41-00-00.53 |
+| 2020-07-16 | 2020. évi XCII. törvény | 1991-41-00-00.54 |

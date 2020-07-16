@@ -2,4 +2,4 @@
 
 (2) A fegyelmi tanács 5 tagú, elnöke bíró, 1 tagja bíró, 3 tagja közjegyző.
 
-(3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végezheti.
+(3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végzi.
