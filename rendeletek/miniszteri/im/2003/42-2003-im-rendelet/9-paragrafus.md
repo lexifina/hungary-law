@@ -8,6 +8,6 @@ b) jogi segítő szervezet esetében a megbízott ügyvédjének nevét és azt,
 
 c) az adat bejegyzésének időpontját.
 
-(2)[^24] A névjegyzékben a nyilvános adatokon kívül – nem nyilvánosan – rögzítésre kerül a névjegyzékbe vétellel kapcsolatos ügyiratok száma, a jogi segítő szervezet esetében pedig – ha az a kérelemben feltüntetésre került – az elérhetőségi címe [3. § (4) bek.] is.
+(2)[^23] A névjegyzékben a nyilvános adatokon kívül – nem nyilvánosan – rögzítésre kerül a névjegyzékbe vétellel kapcsolatos ügyiratok száma, a jogi segítő szervezet esetében pedig – ha az a kérelemben feltüntetésre került – az elérhetőségi címe [3. § (4) bek.] is.
 
-[^24]: A 9. § (2) bekezdése a 26/2016. (XII. 27.) IM rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^23]: A 9. § (2) bekezdése a 26/2016. (XII. 27.) IM rendelet 8. § (4) bekezdése szerint módosított szöveg.

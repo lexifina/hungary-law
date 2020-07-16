@@ -1,7 +1,5 @@
-6. §[^18] (1) A minisztérium a szolgáltatási szerződés tervezetének aláírására szolgáló felhívásában a névjegyzékbe felvett kérelmezőt a szerződésnek az adatlapban foglaltak alapján történő kitöltésére, aláírására és tizenöt napon belüli megküldésére hívja fel.
+6. §[^17] (1) A minisztérium a szolgáltatási szerződés tervezetének a névjegyzékbe felvett kérelmező részére történő megküldésével a szerződés elektronikus aláírására, és nyolc napon belüli visszaküldésére hívja fel a kérelmezőt.
 
-(2) Ha a minisztériumhoz megküldött szerződés valamennyi szükséges adatot tartalmazza, a minisztérium vezetője vagy az általa felhatalmazott vezető azt a beérkezésétől számított harminc napon belül aláírásával és a minisztérium bélyegzőjének lenyomatával látja el. A szerződés aláírását követően a minisztérium a szerződés egyik példányát megküldi a kérelmező részére.
+(2) A minisztérium vezetője vagy az általa felhatalmazott vezető a szerződést a beérkezésétől számított tizenöt napon belül elektronikus aláírásával látja el. A szerződés elektronikus aláírását követően a minisztérium a szerződést megküldi a kérelmező részére.
 
-(3) Ha a megküldött szerződés hiányos vagy nem a kérelemben foglalt adatokat tartalmazza, a minisztérium a szerződést visszaküldi a kérelmezőnek, és felhívja a szolgáltatási szerződés adatlapnak megfelelő kitöltésére, illetve az adatlap módosítására.
-
-[^18]: A 6. § a 20/2017. (XII. 21.) IM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^17]: A 6. § a 10/2020. (VII. 15.) IM rendelet 5. §-ával megállapított szöveg.
