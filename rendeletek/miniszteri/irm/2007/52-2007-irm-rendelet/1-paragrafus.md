@@ -10,7 +10,7 @@ c)[^3] a menekültkénti vagy oltalmazottkénti, valamint a menedékeskénti eli
 
 d)[^4] felelős az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendeletből fakadó feladatok ellátásáért;
 
-e)[^5] fenntartja a befogadó állomást és a menekültügyi őrzött befogadó központot (a továbbiakban együtt: befogadó központ);
+e)[^5] fenntartja a befogadó állomást és a menekültügyi őrzött befogadó központot (a továbbiakban: befogadó központ);
 
 f)[^6] végzi és összehangolja az elismerését kérő, valamint a menekült, az oltalmazott, a befogadott és a menedékes ellátásával és támogatásával kapcsolatos igazgatási feladatokat;
 
@@ -34,7 +34,7 @@ l)[^10] nemzeti kapcsolattartó pontként ellátja az Európai Menekültügyi T�
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 27/2019. (VI. 28.) BM rendelet 9. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés c) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés d) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (2) bekezdés e) pontja az 58/2016. (XII. 22.) BM rendelet 22. § (1) bekezdésével megállapított, a 35/2018. (XII. 21.) BM rendelet 13. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés e) pontja a 26/2020. (VII. 15.) BM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (2) bekezdés f) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés h) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (2) bekezdés i) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.

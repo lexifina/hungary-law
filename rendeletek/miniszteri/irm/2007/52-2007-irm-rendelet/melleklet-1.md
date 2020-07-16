@@ -2,7 +2,7 @@
 
 ## A befogadó állomás házirendje
 
-1.[^40] E házirend szerinti befogadó állomás: az Országos Idegenrendészeti Főigazgatóság által fenntartott befogadó állomás annak összes helyiségeivel és mellékhelyiségeivel együtt, valamint a hozzájuk tartozó udvar.
+1.[^40] E házirend szerinti befogadó állomás: az Országos Idegenrendészeti Főigazgatóság által fenntartott befogadó állomás, a közösségi szállás, azok összes helyiségeivel és mellékhelyiségeivel együtt, valamint a hozzájuk tartozó udvar.
 
 2. A házirendben foglalt magatartási szabályokat a befogadó állomáson elhelyezett személy (a továbbiakban: az elhelyezett) köteles megtartani, és a befogadó állomás munkatársai jogszerű utasításainak eleget tenni. Az elhelyezett köteles továbbá olyan magatartást tanúsítani, amely a többi elhelyezett jogait nem sérti, nyugalmát nem zavarja.
 
@@ -83,7 +83,7 @@ A letétbe helyezett dolgok kivételével sem a befogadó állomás, sem a befog
 Kérjük a házirend betartását!
 
 [^39]: A Melléklet megjelölését 1. mellékletre változtatta, egyidejűleg a szövegét megállapította a 3/2017. (III. 23.) BM rendelet 2. § (1) bekezdése.
-[^40]: Az 1. melléklet 1. pontja a 35/2018. (XII. 21.) BM rendelet 13. § c) pontja, a 27/2019. (VI. 28.) BM rendelet 9. § c) pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 1. pontja a 35/2018. (XII. 21.) BM rendelet 13. § c) pontja, a 27/2019. (VI. 28.) BM rendelet 9. § c) pontja, a 26/2020. (VII. 15.) BM rendelet 2. §-a szerint módosított szöveg.
 [^41]: Az 1. melléklet 4. pontja a 35/2018. (XII. 21.) BM rendelet 13. § d) pontja szerint módosított szöveg.
 [^42]: Az 1. melléklet 14. pontja a 35/2018. (XII. 21.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^43]: Az 1. melléklet 15. pontja a 35/2018. (XII. 21.) BM rendelet 13. § e) és f) pontja szerint módosított szöveg.
