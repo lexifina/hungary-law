@@ -4,7 +4,7 @@
 
 | 1 | Megye | Büntetés-végrehajtási intézet |
 
-| 2 | Csongrád megye illetékességi területén belül eljáró bíróság vagy ügyészség esetén | Szegedi Fegyház és Börtön |
+| 2 | Csongrád-Csanád megye illetékességi területén belül eljáró bíróság vagy ügyészség esetén | Szegedi Fegyház és Börtön |
 
 | 3 | Komárom-Esztergom megye illetékességi területén belül eljáró bíróság vagy ügyészség esetén a vádemelésig | Közép-Dunántúli Országos Büntetés-végrehajtási Intézet |
 

@@ -18,7 +18,7 @@
 
 | 8 | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Kecskemét | börtön, fogház |
 
-3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^2]
+3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^3]
 
 I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek
 
@@ -46,7 +46,7 @@ I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető bünt
 
 |  | 11 | Sátoraljaújhelyi Fegyház és Börtön | fegyház, börtön |
 
-|  | 12 | Sopronkőhidai Fegyház és Börtön | fegyház, börtön |
+|  | 12 | Sopronkőhidai Fegyház és Börtön | fegyház, börtön, fogház |
 
 |  | 13 | Szegedi Fegyház és Börtön | fegyház, börtön, fogház |
 
@@ -57,6 +57,10 @@ I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető bünt
 |  | 16 | Tököli Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
 |  | 17 | Váci Fegyház és Börtön | fegyház, börtön |
+
+|  | 17a | Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet | börtön, fogház |
+
+|  | 17b | Veszprém Megyei Büntetés-végrehajtási Intézet | börtön, fogház |
 
 |  | 18 | A felnőtt korú női szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
 
@@ -72,6 +76,10 @@ I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető bünt
 
 |  | 24 | Tiszalöki Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
+|  | 25 | Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet | börtön, fogház |
+
+|  | 26 | Veszprém Megyei Büntetés-végrehajtási Intézet | börtön, fogház |
+
 II. Azon büntetés-végrehajtási intézetek, amelyekben olyan enyhébb rezsimkategóriába sorolt
 
 fegyház fokozatú szabadságvesztésre ítélt is elhelyezhető, akinek engedélyezett
@@ -80,4 +88,4 @@ a büntetés-végrehajtási intézeten kívüli munkavégzés
 
 1. Az I. pontban foglalt táblázat A:3, A:8, A:10 és A:16 mezője szerinti büntetés-végrehajtási intézet.
 
-[^2]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított, a 25/2020. (VII. 15.) BM rendelet 1. §-a szerint módosított szöveg.
