@@ -1,0 +1,1 @@
+## „e) a határon átnyúló tartási ügyben a kirendelt ügyvédi óradíj kétszerese és a képviselet időtartamának évei száma szorzatának megfelelő összeg azzal, hogy a munkadíj számításánál a töredék évet egész évként kell figyelembe venni. A határon átnyúló tartási ügyben a pártfogó ügyvédi munkadíj nem lehet kevesebb, mint a kirendelt ügyvédi óradíj háromszorosa.”

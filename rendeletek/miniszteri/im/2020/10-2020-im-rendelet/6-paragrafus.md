@@ -1,0 +1,5 @@
+## 5. § A 42/2003. (XII. 19.) IM rendelet 6. §-a helyébe a következő rendelkezés lép:
+
+## „6. § (1) A minisztérium a szolgáltatási szerződés tervezetének a névjegyzékbe felvett kérelmező részére történő megküldésével a szerződés elektronikus aláírására, és nyolc napon belüli visszaküldésére hívja fel a kérelmezőt.
+
+## (2) A minisztérium vezetője vagy az általa felhatalmazott vezető a szerződést a beérkezésétől számított tizenöt napon belül elektronikus aláírásával látja el. A szerződés elektronikus aláírását követően a minisztérium a szerződést megküldi a kérelmező részére.”

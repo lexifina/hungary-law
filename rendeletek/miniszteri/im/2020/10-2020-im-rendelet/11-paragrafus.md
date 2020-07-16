@@ -1,0 +1,3 @@
+## 10. § A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelők, kormánytisztviselők és kormányzati ügykezelők ügyviteli vizsgájáról szóló 22/2010. (XII. 28.) KIM rendelet 2. § (1) bekezdésében az „írásban” szövegrész helyébe az „írásban vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben szabályozott elektronikus úton” szöveg lép.
+
+## 5. Az áldozatsegítő támogatások engedélyezése iránti kérelem tartalmára és kitöltésére, valamint a szolgáltatások nyújtásával kapcsolatos egyes nem hatósági eljárási kérdésekre vonatkozó szabályokról szóló 29/2017. (XII. 27.) IM rendelet módosítása
