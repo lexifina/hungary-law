@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-309-20-
 | 2017-08-29 | 2016-309-20-22.3 | 241/2017. (VIII. 28.) Korm. rendelet |
 | 2018-01-01 | 2016-309-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2016-309-20-22.5 | 361/2019. (XII. 30.) Korm. rendelet |
+| 2020-07-17 | 2016-309-20-22.6 | 353/2020. (VII. 16.) Korm. rendelet |
