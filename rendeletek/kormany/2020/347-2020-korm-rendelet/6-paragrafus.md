@@ -1,7 +1,3 @@
-## lép.
+## 5. §[^6]
 
-## 6. § Hatályát veszti a Korm. rendelet
-
-a) 74. § (4) és (5) bekezdése,
-
-b) 75. §-a.
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
