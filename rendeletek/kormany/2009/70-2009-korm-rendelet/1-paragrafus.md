@@ -18,22 +18,24 @@ cb) a 4. § tekintetében a magyar jog hatálya alá tartozó munkaviszony;
 
 d) bérköltség:
 
-da) a pályakezdő részére fizetendő, adózás előtti (bruttó) munkabér és járulékai, valamint
+da)[^2] a pályakezdő részére fizetendő, adózás előtti (bruttó) munkabér és az azt terhelő közterhek, valamint
 
-db) a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) szerint járulékkedvezménnyel foglalkoztatott pályakezdő esetén a pályakezdő részére fizetendő, adózás előtti (bruttó) munkabér, valamint a Pftv. 4/A. § (1) bekezdésében meghatározott kedvezménnyel csökkentett járulék;
+db)[^3] a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.) szerint szociális hozzájárulási adókedvezménnyel foglalkoztatott pályakezdő esetén a pályakezdő részére fizetendő, adózás előtti (bruttó) munkabér;
 
 e) szakképzettség: az alapszintű, középszintű, középfokú, emelt szintű, felsőfokú szakképesítés és a szakképesítést nyújtó középfokú iskolai végzettség, továbbá a felsőfokú iskolai végzettség;
 
-f)[^2] teljes munkaidő: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 92. §-ában meghatározott időtartamok;
+f)[^4] teljes munkaidő: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 92. §-ában meghatározott időtartamok;
 
-g)[^3] alapbér: az Mt. 136. §-ában meghatározott adózás előtti (bruttó) bér és a szociális hozzájárulási adó;
+g)[^5] alapbér: az Mt. 136. §-ában meghatározott adózás előtti (bruttó) bér és a szociális hozzájárulási adó;
 
-h)[^4] munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy nem jogosult öregségi nyugdíjra [Flt. 58. § (5) bekezdés i) pontja];
+h)[^6] munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy nem jogosult öregségi nyugdíjra [Flt. 58. § (5) bekezdés i) pontja];
 
-i)[^5] részmunkaidős foglalkoztatás: az Mt. 58. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
+i)[^7] részmunkaidős foglalkoztatás: az Mt. 58. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
 
 [^1]: Az 1. § c) pont ca) alpontja a 217/2016. (VII. 22.) Korm. rendelet 18. §-ával megállapított, a 47/2019. (III. 12.) Korm. rendelet 4–5. §-a szerint módosított szöveg.
-[^2]: Az 1. § f) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^3]: Az 1. § g) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § h) pontja a 273/2018. (XII. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^5]: Az 1. § i) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^2]: Az 1. § d) pont da) alpontja a 337/2020. (VII. 9.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § d) pont db) alpontja a 337/2020. (VII. 9.) Korm. rendelet 7. § b) pontja és 8. §-a szerint módosított szöveg.
+[^4]: Az 1. § f) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^5]: Az 1. § g) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § h) pontja a 273/2018. (XII. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^7]: Az 1. § i) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.

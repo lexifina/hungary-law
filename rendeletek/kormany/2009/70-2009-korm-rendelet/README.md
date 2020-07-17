@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-70-20-2
 | 2018-01-01 | 2009-70-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-01-01 | 2009-70-20-22.12 | 273/2018. (XII. 20.) Korm. rendelet |
 | 2019-03-13 | 2009-70-20-22.13 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2020-07-17 | 2009-70-20-22.14 | 337/2020. (VII. 9.) Korm. rendelet |
