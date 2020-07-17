@@ -1,5 +1,7 @@
-## 2. § Hatályát veszti a kulturális javakkal kapcsolatos hatósági eljárásra vonatkozó szabályokról szóló 45/2012. (XI. 30.) EMMI rendelet.
+## 2. §[^3]
 
 ## 3. Záró rendelkezések
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
