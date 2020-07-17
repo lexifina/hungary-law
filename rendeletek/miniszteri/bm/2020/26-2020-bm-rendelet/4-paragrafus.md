@@ -1,5 +1,5 @@
-## 3. § A szabálysértési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájáról, módjáról és rendjéről, a szabálysértési nyilvántartó szerv által teljesített adatközlés rendjéről, valamint az egyes szabálysértési nyilvántartásokban kezelt adatokra tekintettel kiállított hatósági bizonyítvány kiadásának eljárási rendjéről szóló 21/2012. (IV. 13.) BM rendelet 11. alcíme a következő 20/A. §-sal egészül ki:
-
-## „20/A. § A Szabs. tv. 160. § (1a) bekezdése szerinti adatokat a szabálysértési nyilvántartási rendszerhez az erre a célra kialakított, a szabálysértési nyilvántartási rendszer távoli elérését lehetővé tévő számítástechnikai alkalmazásban adja meg az ehhez az alkalmazáshoz hozzáférő, egyedi azonosítóval rendelkező személy.”
+## 3. §[^4]
 
 ## 3. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet módosítása
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
