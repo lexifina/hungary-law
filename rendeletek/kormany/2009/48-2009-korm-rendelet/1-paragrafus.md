@@ -1,3 +1,0 @@
-1. § (1) A Pftv. 2. számú mellékletében meghatározott szempontok alapján a gazdasági, infrastrukturális, társadalmi, szociális, foglalkoztatási szempontból legkedvezőtlenebb helyzetű kistérségeket a jelen Korm. rendelet 1. számú melléklete határozza meg.
-
-(2) A Pftv. 2. számú mellékletében meghatározott szempontok alapján a gazdasági, infrastrukturális, társadalmi, szociális, foglalkoztatási szempontból legkedvezőtlenebb helyzetű olyan településeket, amelyek nem tartoznak a jelen Korm. rendelet 1. számú melléklete szerinti legkedvezőtlenebb helyzetű kistérségekhez, a jelen Korm. rendelet 2. számú melléklete határozza meg.
