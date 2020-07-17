@@ -1,4 +1,4 @@
-## 4/A. §[^17] A magán-munkaközvetítői tevékenység folytatásának feltétele, hogy
+## 4/A. §[^18] A magán-munkaközvetítői tevékenység folytatásának feltétele, hogy
 
 a) a magán-munkaközvetítő vagy az általa – legalább heti húsz órában munkaviszony keretében – foglalkoztatott legalább egy személy az 1. számú mellékletben meghatározott végzettséggel vagy szakmai képesítéssel, gyakorlattal rendelkezik,
 
@@ -8,4 +8,4 @@ c) a magán-munkaközvetítő a tevékenység gyakorlásához megfelelő irodahe
 
 d) a magán-munkaközvetítő az e rendelet által előírt letétbe helyezett vagyoni biztosítékkal rendelkezik, és azt megfelelő módon igazolja.
 
-[^17]: A 4/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 231. § (2) bekezdése iktatta be, szövege a 273/2018. (XII. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^18]: A 4/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 231. § (2) bekezdése iktatta be, szövege a 273/2018. (XII. 20.) Korm. rendelet 6. §-ával megállapított szöveg.

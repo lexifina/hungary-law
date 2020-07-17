@@ -22,13 +22,13 @@ i)[^9] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve
 
 j)[^10] közteher:
 
-ja) a kölcsönbeadót a munkabér megfizetésével összefüggésben terhelő mindazon – kedvezményekkel csökkentett – adók, járulékok, hozzájárulások, amelyek alapja a munkabér, és amelyek bevallására és megfizetésére a kölcsönbeadó mint kifizető köteles,
+ja)[^11] a kölcsönbeadót a munkabér megfizetésével összefüggésben terhelő mindazon – kedvezményekkel csökkentett – közterhek, amelyek alapja a munkabér, és amelyek bevallására és megfizetésére a kölcsönbeadó mint kifizető köteles,
 
 jb) egyszerűsített foglalkoztatás esetén az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efotv.) által meghatározott, a kölcsönbeadót terhelő tételes összeg, vagy
 
 jc) az Efotv. 8. § (4) bekezdésében foglaltak alapján fizetendő összeg;
 
-k)[^11] munkaerő-kölcsönzési díj: a munkaerő-kölcsönzési szerződés alapján, a kölcsönzött munkavállaló kikölcsönzésére tekintettel a kölcsönbeadót megillető ellenérték általános forgalmi adó nélkül számított összege.
+k)[^12] munkaerő-kölcsönzési díj: a munkaerő-kölcsönzési szerződés alapján, a kölcsönzött munkavállaló kikölcsönzésére tekintettel a kölcsönbeadót megillető ellenérték általános forgalmi adó nélkül számított összege.
 
 (2) Külföldi munkavégzésre irányuló magán-munkaközvetítés esetén az (1) bekezdés c) pontjában meghatározott jogviszony tartalmára a fogadó ország vonatkozó jogszabályai az irányadók.
 
@@ -39,4 +39,5 @@ k)[^11] munkaerő-kölcsönzési díj: a munkaerő-kölcsönzési szerződés al
 [^8]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
 [^9]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 135/2012. (VI. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § (1) bekezdés j) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
-[^11]: A 2. § (1) bekezdés k) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^11]: A 2. § (1) bekezdés j) pont ja) alpontja a 337/2020. (VII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés k) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.

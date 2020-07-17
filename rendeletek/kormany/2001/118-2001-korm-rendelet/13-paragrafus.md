@@ -1,4 +1,4 @@
-13. §[^45] (1)[^46] A magán-munkaközvetítőnek a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+13. §[^46] (1)[^47] A magán-munkaközvetítőnek a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
 
 a) a magán-munkaközvetítő cégre vonatkozó adatok:
 
@@ -32,5 +32,5 @@ e) a közvetítettek száma foglalkozásonként, nemenként, állomány-, korcso
 
 f) a közvetítést megelőzően munkával rendelkező és nem rendelkező munkanélküliek száma, állománycsoportonként, korcsoportonként, nemenként, iskolai végzettség, nemzetgazdasági ágazatok szerint.
 
-[^45]: A 13. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^46]: A 13. § (1) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^46]: A 13. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^47]: A 13. § (1) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Adatszolgáltatási kötelezettség
 
-## 12. §[^44] A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+## 12. §[^45] A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
 
 a) a munkaerő-kölcsönző cégre vonatkozó adatok:
 
@@ -26,4 +26,4 @@ e) a belföldi és a külföldi kölcsönvevők száma ágazati bontásban;
 
 f) a külföldi kölcsönvevők száma, ágazata országonkénti bontásban.
 
-[^44]: A 12. § a 335/2016. (XI. 11.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^45]: A 12. § a 335/2016. (XI. 11.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.

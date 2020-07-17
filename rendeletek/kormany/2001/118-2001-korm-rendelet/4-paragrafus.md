@@ -1,6 +1,6 @@
-## A kölcsönbeadói és a magán-munkaközvetítői tevékenység megkezdésére vonatkozó szabályok[^13]
+## A kölcsönbeadói és a magán-munkaközvetítői tevékenység megkezdésére vonatkozó szabályok[^14]
 
-4. § (1)[^14] A kölcsönbeadói tevékenység folytatását a kölcsönbeadó székhelye szerint illetékes kormányhivatalhoz a tevékenység megkezdése előtt 30 nappal kell bejelenteni, ha
+4. § (1)[^15] A kölcsönbeadói tevékenység folytatását a kölcsönbeadó székhelye szerint illetékes kormányhivatalhoz a tevékenység megkezdése előtt 30 nappal kell bejelenteni, ha
 
 a) a bejelentőt a cégjegyzékbe vagy – ha a működés feltétele más bírósági vagy hatósági nyilvántartásba vétel – az előírt nyilvántartásba bejegyezték, és létesítő okirata a munkaerő-kölcsönzési tevékenység folytatását tartalmazza,
 
@@ -12,11 +12,11 @@ d) a bejelentő a rendelet által előírt vagyoni biztosíték letétbe helyez�
 
 e) a bejelentő szerepel az állami adóhatóság által vezetett, az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerinti köztartozásmentes adózói adatbázisban.
 
-(1a)[^15] Az (1) bekezdés b)–d) pontjában foglalt feltételek fennállását a bejelentő megfelelő módon igazolja.
+(1a)[^16] Az (1) bekezdés b)–d) pontjában foglalt feltételek fennállását a bejelentő megfelelő módon igazolja.
 
-(2)[^16] Ha a bejelentő a tevékenységét több telephelyen folytatja, az (1) bekezdés b)–c) pontjában foglalt feltétellel valamennyi telephelyén rendelkeznie kell.
+(2)[^17] Ha a bejelentő a tevékenységét több telephelyen folytatja, az (1) bekezdés b)–c) pontjában foglalt feltétellel valamennyi telephelyén rendelkeznie kell.
 
-[^13]: A 4. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 231. § (1) bekezdésével megállapított szöveg.
-[^14]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^15]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 92. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^16]: A 4. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: A 4. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 231. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^16]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 92. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^17]: A 4. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
