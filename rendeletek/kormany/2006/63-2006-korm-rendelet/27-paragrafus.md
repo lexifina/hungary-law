@@ -4,6 +4,6 @@ a) az ápolt személy egészségi állapota ezt indokolja,
 
 b) az ápolást végző személy akadályoztatása miatt az ápolási tevékenységet nem tudja ellátni.
 
-(2)[^164] Az Szt. 42. § (2) bekezdés b) pontja alkalmazásában az ápolási kötelezettség nem teljesítésének minősül, ha az ápolást végző személy több egymást követő napon – ide nem értve az (1) bekezdés szerinti esetet, továbbá ha az ápolást végző személy az állami foglalkoztatási szerv által felajánlott képzés során az Flt. 14. § (4) bekezdés b) pontja szerinti képzési támogatásban részesül – nem gondoskodik az ápolt személy alapvető gondozási, ápolási igényének kielégítéséről, az ellátott és lakókörnyezete megfelelő higiénés körülményének biztosításáról, az esetleges vészhelyzet kialakulásának megelőzéséről.
+(2)[^166] Az Szt. 42. § (2) bekezdés b) pontja alkalmazásában az ápolási kötelezettség nem teljesítésének minősül, ha az ápolást végző személy több egymást követő napon – ide nem értve az (1) bekezdés szerinti esetet, továbbá ha az ápolást végző személy az állami foglalkoztatási szerv által felajánlott képzés során az Flt. 14. § (4) bekezdés b) pontja szerinti képzési támogatásban részesül – nem gondoskodik az ápolt személy alapvető gondozási, ápolási igényének kielégítéséről, az ellátott és lakókörnyezete megfelelő higiénés körülményének biztosításáról, az esetleges vészhelyzet kialakulásának megelőzéséről.
 
-[^164]: A 27. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 1. §-ával megállapított, a 303/2018. (XII. 27.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
+[^166]: A 27. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 1. §-ával megállapított, a 303/2018. (XII. 27.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
