@@ -1,3 +1,3 @@
-## 6. § A 42/2003. (XII. 19.) IM rendelet 12. §-át követő alcím címe helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „Záró rendelkezések”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

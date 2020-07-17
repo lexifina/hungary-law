@@ -1,7 +1,3 @@
-## 8. § A 42/2003. (XII. 19.) IM rendelet 7. § (2) bekezdésében az „aláírásra” szövegrész helyébe az „elektronikus aláírásra” szöveg lép.
+## 8. §[^9]
 
-## 9. § Hatályát veszti a 42/2003. (XII. 19.) IM rendelet
-
-a) 2. § (3) bekezdése, valamint
-
-b) 3. § (5) bekezdése.
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

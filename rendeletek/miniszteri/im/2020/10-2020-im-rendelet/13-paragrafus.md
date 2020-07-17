@@ -1,1 +1,3 @@
-## „e) a határon átnyúló tartási ügyben a kirendelt ügyvédi óradíj kétszerese és a képviselet időtartamának évei száma szorzatának megfelelő összeg azzal, hogy a munkadíj számításánál a töredék évet egész évként kell figyelembe venni. A határon átnyúló tartási ügyben a pártfogó ügyvédi munkadíj nem lehet kevesebb, mint a kirendelt ügyvédi óradíj háromszorosa.”
+## 12. §[^13]
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
