@@ -1,11 +1,11 @@
-7. § (1)[^26] A munkaadó, valamint az általa foglalkoztatott személy részére – tömegközlekedési eszköz igénybevétele esetén – az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt megtéríthető a munkába járással kapcsolatos helyi és helyközi utazási költségnek a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^27] (a továbbiakban: Korm. rendelet) alapján őt terhelő része. A munkaadó részére megtéríthető továbbá a Korm. rendelet alapján kifizetett, a saját gépjárművel történő munkába járás költségtérítése címen elszámolható összeggel azonos költségtérítés.
+7. § (1)[^28] A munkaadó, valamint az általa foglalkoztatott személy részére – tömegközlekedési eszköz igénybevétele esetén – az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt megtéríthető a munkába járással kapcsolatos helyi és helyközi utazási költségnek a munkába járással kapcsolatos utazási költségtérítésről szóló Korm. rendelet[^29] (a továbbiakban: Korm. rendelet) alapján őt terhelő része. A munkaadó részére megtéríthető továbbá a Korm. rendelet alapján kifizetett, a saját gépjárművel történő munkába járás költségtérítése címen elszámolható összeggel azonos költségtérítés.
 
 (2) Az 5–6. § szerint támogatott foglalkoztatás teljes időtartama alatt támogatás nyújtható annak a munkaadónak, aki munkavállalóinak a lakóhelye (tartózkodási helye) és a munkahelye között történő oda-vissza utazását csoportos személyszállítás útján oldja meg.
 
 (3) Az (1)–(2) bekezdésben meghatározott támogatásra a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet szabályait kell megfelelően alkalmazni.
 
-(4)[^28] A Program célcsoportjába tartozó, a 4. §-ban meghatározott támogatott képzésben résztvevő álláskeresők, a képzés időtartama alatt a lakóhelyük (tartózkodási helyük) és a képzés helye közötti utazásra – a területileg illetékes kormányhivatal által kiadott igazolás alapján – a közforgalmi személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 5. §-a szerint meghatározott utazási kedvezmény igénybevételére jogosultak.
+(4)[^30] A Program célcsoportjába tartozó, a 4. §-ban meghatározott támogatott képzésben résztvevő álláskeresők, a képzés időtartama alatt a lakóhelyük (tartózkodási helyük) és a képzés helye közötti utazásra – a területileg illetékes kormányhivatal által kiadott igazolás alapján – a közforgalmi személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 5. §-a szerint meghatározott utazási kedvezmény igénybevételére jogosultak.
 
-[^26]: A 7. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^27]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.
-[^28]: A 7. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^28]: A 7. § (1) bekezdése a 39/2010. (II. 26.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^29]: Lásd a 39/2010. (II. 26.) Korm. rendeletet.
+[^30]: A 7. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 135. § (2) bekezdés a) pontja szerint módosított szöveg.
