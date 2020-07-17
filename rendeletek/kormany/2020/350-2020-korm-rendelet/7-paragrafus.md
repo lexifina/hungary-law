@@ -1,0 +1,1 @@
+## 6. § Az NFSI Nonprofit Kft. által kezelt hazai pályázatokkal összefüggésben 2020. július 31. napja előtt keletkezett, továbbá hozzá került nyilvántartások, illetve iratok kezelésére 2020. augusztus 1. napjától az NFFKÜ Zrt. jogosult.

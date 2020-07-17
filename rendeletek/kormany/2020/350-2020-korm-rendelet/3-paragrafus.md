@@ -1,0 +1,1 @@
+## 2. § Az NFSI Nonprofit Kft. a hazai pályázatokkal kapcsolatos feladatait legkésőbb 2020. július 31. napjáig átadja az NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: NFFKÜ Zrt.) részére.
