@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2020-02-15 | 2012-423-20-22.27 | 407/2017. (XII. 15.) Korm. rendelet |
 | 2020-03-01 | 2012-423-20-22.28 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2020-05-15 | 2012-423-20-22.29 | 203/2020. (V. 14.) Korm. rendelet |
+| 2020-07-17 | 2012-423-20-22.30 | 351/2020. (VII. 16.) Korm. rendelet |

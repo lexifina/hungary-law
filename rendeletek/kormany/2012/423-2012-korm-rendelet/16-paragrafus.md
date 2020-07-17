@@ -1,24 +1,24 @@
-16. § (1)[^67] A tanulmányi pontokat a jelentkező 9–12. (nyelvi előkészítő esetén 9–13.) évfolyamos középiskolai osztályzataiból és a középiskolai tanulmányok lezárásaként megszerzett érettségi bizonyítványban szereplő vizsgatárgyak százalékos eredményeiből a következő módon kell kiszámolni:
+16. § (1)[^68] A tanulmányi pontokat a jelentkező 9–12. (nyelvi előkészítő esetén 9–13.) évfolyamos középiskolai osztályzataiból és a középiskolai tanulmányok lezárásaként megszerzett érettségi bizonyítványban szereplő vizsgatárgyak százalékos eredményeiből a következő módon kell kiszámolni:
 
-a)[^68] öt tantárgy: a magyar nyelv és irodalom, a történelem, a matematika, egy legalább két évig tanult választott idegen nyelv (vagy nemzetiségi nyelv és irodalom) utolsó két (tanult) év végi osztályzatainak, valamint egy legalább két évig tanult választott természettudományos tantárgy utolsó két (tanult) év végi eredményeinek, vagy két, legalább egy évig tanult, választott természettudományos tantárgy utolsó (tanult) év végi osztályzatainak – a (2) és (3) bekezdésekre figyelemmel megállapított – összegét kettővel meg kell szorozni;
+a)[^69] öt tantárgy: a magyar nyelv és irodalom, a történelem, a matematika, egy legalább két évig tanult választott idegen nyelv (vagy nemzetiségi nyelv és irodalom) utolsó két (tanult) év végi osztályzatainak, valamint egy legalább két évig tanult választott természettudományos tantárgy utolsó két (tanult) év végi eredményeinek, vagy két, legalább egy évig tanult, választott természettudományos tantárgy utolsó (tanult) év végi osztályzatainak – a (2) és (3) bekezdésekre figyelemmel megállapított – összegét kettővel meg kell szorozni;
 
-b)[^69] az érettségi bizonyítványban szereplő vizsgaeredmények közül a négy kötelező és egy szabadon választott érettségi vizsgatárgy százalékos eredménye átlagát egész számra kell kerekíteni.
+b)[^70] az érettségi bizonyítványban szereplő vizsgaeredmények közül a négy kötelező és egy szabadon választott érettségi vizsgatárgy százalékos eredménye átlagát egész számra kell kerekíteni.
 
-(2)[^70] Magyar nyelv és irodalomból, illetve nemzetiségi nyelv és irodalomból osztályzatként évente a megfelelő nyelv és irodalom tantárgyak osztályzatainak számtani átlagát kerekítés nélkül kell figyelembe venni.
+(2)[^71] Magyar nyelv és irodalomból, illetve nemzetiségi nyelv és irodalomból osztályzatként évente a megfelelő nyelv és irodalom tantárgyak osztályzatainak számtani átlagát kerekítés nélkül kell figyelembe venni.
 
-(3)[^71] Az (1) bekezdés a) pontja alkalmazása szempontjából természettudományos tantárgy a biológia, a fizika, a kémia, a földrajz (a földünk és környezetünk), a természetismeret és a természettudomány tantárgyak.
+(3)[^72] Az (1) bekezdés a) pontja alkalmazása szempontjából természettudományos tantárgy a biológia, a fizika, a kémia, a földrajz (a földünk és környezetünk), a természetismeret és a természettudomány tantárgyak.
 
 (4) Amennyiben a középiskola pedagógiai programjában a (3) bekezdésben megnevezett tantárgy közül nincs kettő, amelyet a tanulóknak legalább egy tanéven keresztül, vagy nincs egy, amelyet a tanulóknak legalább két tanéven keresztül tanulniuk kell, a középiskolának a Hivatalnál kérelmeznie kell annak megállapítását, hogy a pedagógiai programjában és helyi tantervében szereplő tantárgyaknak a középiskola által kiállított bizonyítványokban szerepelő eredményei közül melyek azok, amelyek az (1) bekezdés a) pontja alkalmazása szempontjából természettudományos tantárgyakból elért eredményeknek minősülnek.
 
 (5) A középiskola – pedagógiai programját és helyi tantervét tartalmazó – kérelmére a Hivatal elnöke azt vizsgálja, hogy a pedagógiai programban és a helyi tantervben szereplő tantárgyak közül melyek azok, amelyek a Nemzeti alaptanterv szerinti az „Ember a természetben” és a „Földünk és környezetünk” műveltségi területek fejlesztési feladatainak teljesítését szolgálják. A Hivatal elnöke határozatában megjelöli a középiskola pedagógiai programjában és helyi tantervében szereplő azon tárgyakat, amelyeknek a középiskola által kiállított bizonyítványokban szereplő eredményei az (1) bekezdés a) pontja alkalmazása szempontjából természettudományos tantárgyakból elért eredménynek minősülnek. A határozat a középiskola által az adott naptári évben kiállított bizonyítványokban szereplő tantárgyak eredményeire vonatkozik.
 
-(6)[^72] Amennyiben a jelentkező érettségi bizonyítványában az (1) bekezdés b) pontjában meghatározott vizsgatárgyakból ötnél kevesebb vizsgatárgyból szerzett osztályzatot, akkor az átlag megállapításakor csak ezeket kell figyelembe venni.
+(6)[^73] Amennyiben a jelentkező érettségi bizonyítványában az (1) bekezdés b) pontjában meghatározott vizsgatárgyakból ötnél kevesebb vizsgatárgyból szerzett osztályzatot, akkor az átlag megállapításakor csak ezeket kell figyelembe venni.
 
 (7) Amennyiben a jelentkező külföldön vagy külföldi rendszerű középiskolában folytatott tanulmányokat követően jelentkezik felsőoktatási intézménybe és ezért az (1)–(6) bekezdésben meghatározott módon pontszáma nem állapítható meg, a Hivatal dönt a tanulmányok során szerzett osztályzatok tanulmányi pontként történő figyelembevételéről.
 
-[^67]: A 16. § (1) bekezdés nyitó szövegrésze a 335/2014. (XII. 18.) Korm. rendelet 7. §-ával megállapított, a 345/2015. (XI. 19.) Korm. rendelet 46. § 13. pontja szerint módosított szöveg.
-[^68]: A 16. § (1) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 14. pontja szerint módosított szöveg.
-[^69]: A 16. § (1) bekezdés b) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^70]: A 16. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 15. pontja szerint módosított szöveg.
-[^71]: A 16. § (3) bekezdése az 59/2016. (III. 25.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^72]: A 16. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 9. §-ával megállapított, a 345/2015. (XI. 19.) Korm. rendelet 46. § 16. pontja szerint módosított szöveg.
+[^68]: A 16. § (1) bekezdés nyitó szövegrésze a 335/2014. (XII. 18.) Korm. rendelet 7. §-ával megállapított, a 345/2015. (XI. 19.) Korm. rendelet 46. § 13. pontja szerint módosított szöveg.
+[^69]: A 16. § (1) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 46. § 14. pontja szerint módosított szöveg.
+[^70]: A 16. § (1) bekezdés b) pontja a 335/2014. (XII. 18.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^71]: A 16. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 15. pontja szerint módosított szöveg.
+[^72]: A 16. § (3) bekezdése az 59/2016. (III. 25.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^73]: A 16. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 9. §-ával megállapított, a 345/2015. (XI. 19.) Korm. rendelet 46. § 16. pontja szerint módosított szöveg.

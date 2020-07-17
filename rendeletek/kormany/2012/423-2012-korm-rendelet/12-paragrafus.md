@@ -10,17 +10,20 @@
 
 (5)[^54] A dokumentumok a felvételi eljárásban egyszerű másolatban benyújthatók, azonban a hallgatói jogviszony létesítésének feltétele a felsőoktatási intézménybe történő beiratkozáskor az eredeti okiratok bemutatása.
 
-(6)[^55] A felvételi eljárás során a felsőoktatási intézmény, illetve a Hivatal a jelentkezési kérelem elbírálásához szükséges további adatokat, igazolásokat kérhet a jelentkezőtől.
+(5a)[^55] Ha a hallgató a tanulmányait távolléti oktatás keretében kezdi meg, az eredeti okiratait – az (5) bekezdésben foglaltaktól eltérően – akkor kell bemutatnia, amikor a tanulmányait jelenléti oktatás keretében folytatja.
 
-(7)[^56]
+(6)[^56] A felvételi eljárás során a felsőoktatási intézmény, illetve a Hivatal a jelentkezési kérelem elbírálásához szükséges további adatokat, igazolásokat kérhet a jelentkezőtől.
 
-(8)[^57] A besorolási döntést megelőző 28. napig a Hivatal az adatokat feldolgozza és egységes tájékoztatást küld a jelentkezőknek, amelyben értesít a különböző pontszámítási módokhoz szükséges dokumentumokról, továbbá felhívja a jelentkezőket az általuk kívánt pontszámításhoz szükséges mellékletek benyújtásának ellenőrzésére. A tájékoztatást azon jelentkezőknek is meg kell küldeni, akik hiánypótlásra felszólítást kaptak.
+(7)[^57]
+
+(8)[^58] A besorolási döntést megelőző 28. napig a Hivatal az adatokat feldolgozza és egységes tájékoztatást küld a jelentkezőknek, amelyben értesít a különböző pontszámítási módokhoz szükséges dokumentumokról, továbbá felhívja a jelentkezőket az általuk kívánt pontszámításhoz szükséges mellékletek benyújtásának ellenőrzésére. A tájékoztatást azon jelentkezőknek is meg kell küldeni, akik hiánypótlásra felszólítást kaptak.
 
 [^50]: A 12. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 11. pontja szerint módosított szöveg.
 [^51]: A 12. § (2) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 47. § 3. pontja hatályon kívül helyezte.
 [^52]: A 12. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
 [^53]: A 12. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
 [^54]: A 12. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 12. pontja és 47. § 4. pontja szerint módosított szöveg.
-[^55]: A 12. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
-[^56]: A 12. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 47. § 5. pontja hatályon kívül helyezte.
-[^57]: A 12. § (8) bekezdését az 502/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^55]: A 12. § (5a) bekezdését a 351/2020. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^56]: A 12. § (6) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^57]: A 12. § (7) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 47. § 5. pontja hatályon kívül helyezte.
+[^58]: A 12. § (8) bekezdését az 502/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.

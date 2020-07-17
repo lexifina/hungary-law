@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^180]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^182]
 
 A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként a 2020. évi felsőoktatási felvételi eljárásokban
 
@@ -310,4 +310,4 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 | 8. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika. |
 
-[^180]: A 3. melléklet a 261/2019. (XI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^182]: A 3. melléklet a 261/2019. (XI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
