@@ -42,9 +42,9 @@
 
 | 10. | Munkabiztonsági vizsgálatok: |  |
 
-|  | a) súlyos munkabalesetek vizsgálata | Nemzetgazdasági Minisztérium |
+|  | a) súlyos munkabalesetek vizsgálata | foglalkoztatáspolitikáért felelős miniszter |
 
-|  | b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | Nemzetgazdasági Minisztérium |
+|  | b) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet I. melléklete alapján a II. és III. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | foglalkoztatáspolitikáért felelős miniszter |
 
 | 11. | Gyógyszerek vizsgálata | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI) |
 
