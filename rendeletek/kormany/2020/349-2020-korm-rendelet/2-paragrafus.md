@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Zöld-foki Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Megállapodás) módosításáról szóló jegyzékváltással történő módosításáról szóló megállapodás (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
