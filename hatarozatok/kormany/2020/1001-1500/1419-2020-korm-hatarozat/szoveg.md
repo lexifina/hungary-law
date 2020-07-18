@@ -28,4 +28,6 @@ d) véleményezi az 1. pont szerinti feladatkörével összefüggő kormány-el�
 
 8. Ez a határozat 2020. július 17-én lép hatályba.
 
-9. Hatályát veszti a nemzeti védelmi ipari és védelmi célú fejlesztésekért, valamint a haderő-modernizáció koordinálásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1325/2018. (VII. 18.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
