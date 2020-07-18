@@ -1,5 +1,0 @@
-A jogalkotásról szóló 2010. évi CXXX. törvény 31. § (2) bekezdés b) pontjában, valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés r) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 14. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
-
-a 2. alcím tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (2) bekezdés b) pontjában, valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés q) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 14. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –
-
-a következőket rendelem el:
