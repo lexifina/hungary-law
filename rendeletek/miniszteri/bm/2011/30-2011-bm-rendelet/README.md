@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-30-20-0
 | 2019-01-01 | 2011-30-20-0A.21 | 37/2018. (XII. 28.) BM rendelet |
 | 2019-06-01 | 2011-30-20-0A.22 | 37/2018. (XII. 28.) BM rendelet |
 | 2019-07-01 | 2011-30-20-0A.23 | 27/2019. (VI. 28) BM rendelet |
+| 2020-07-18 | 2011-30-20-0A.24 | 27/2020. (VII. 17.) BM rendelet |
