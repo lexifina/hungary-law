@@ -1,5 +1,3 @@
-## 1. § A Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet (a továbbiakban: Korm. rendelet) 9. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## [Az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházások tekintetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) a következő eltérésekkel kell alkalmazni:]
-
-## „b) a parkolóhelyek kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete alapján számított személygépkocsik számának legalább 50%-a elhelyezését kell biztosítani,”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
