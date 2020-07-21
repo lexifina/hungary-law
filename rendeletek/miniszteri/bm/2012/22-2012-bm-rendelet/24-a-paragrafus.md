@@ -4,7 +4,7 @@
 
 ## 5. A lefoglalás
 
-24/A. §[^36] (1) A Szabs. tv. 75. § (1a) bekezdése alapján a lefoglalás érdekében a birtokostól ideiglenesen elvett dologról átvételi elismervényt kell adni a birtokosnak, amelyben fel kell tüntetni legalább
+24/A. §[^39] (1) A Szabs. tv. 75. § (1a) bekezdése alapján a lefoglalás érdekében a birtokostól ideiglenesen elvett dologról átvételi elismervényt kell adni a birtokosnak, amelyben fel kell tüntetni legalább
 
 a) azon szerv megnevezését, amelynek nevében a helyszíni bírság kiszabására jogosult személy eljár,
 
@@ -18,4 +18,4 @@ d) az arról történő tájékoztatást, hogy az intézkedés ellen a lefoglal�
 
 (3) A helyszíni bírság kiszabására jogosult szerv az ideiglenesen elvett dolgot a szabálysértési vagy előkészítő eljárás lefolytatására jogosult hatóság részére történő átadásig a 28. § (1) bekezdésében meghatározott módon őrzi.
 
-[^36]: A 24/A. §-t a 81/2015. (XII. 23.) BM rendelet 12. §-a iktatta be.
+[^39]: A 24/A. §-t a 81/2015. (XII. 23.) BM rendelet 12. §-a iktatta be.
