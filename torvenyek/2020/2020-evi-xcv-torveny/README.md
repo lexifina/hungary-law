@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-95-00-00
 | --- | --- | --- |
 | 2020-07-20 | 2020. évi XCV. törvény | 2020-95-00-00.0 (közlönyállapot) |
 | 2020-07-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-95-00-00.1 |
+| 2020-07-21 | 2010. évi CXXX. törvény | 2020-95-00-00.2 |
