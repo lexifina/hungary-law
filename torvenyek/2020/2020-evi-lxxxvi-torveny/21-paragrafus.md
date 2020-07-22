@@ -1,0 +1,3 @@
+21. § A Vtv. 3/B. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A miniszter látja el – az általa kijelölt szervezet útján – a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzését, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítását. A kijelölt szervezet számára – a jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.”

@@ -1,0 +1,3 @@
+4. § A Kkt. 33/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését a NÚSZ Zrt. látja el. E feladatai ellátása tekintetében a NÚSZ Zrt. jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében a NÚSZ Zrt. által nyújtott szolgáltatások biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat a miniszter látja el.”

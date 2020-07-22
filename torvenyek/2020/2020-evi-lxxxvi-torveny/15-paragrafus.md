@@ -1,0 +1,3 @@
+15. § A Vkt. 48/A. § (4a) bekezdése helyébe a következő rendelkezés lép:
+
+„(4a) A Vizsgaközpont az e törvényben, valamint a hajózási képesítésekről szóló miniszteri rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a (4) bekezdés a) pontjában foglalt, valamint a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy egészségi alkalmasságra vonatkozó adatait a vizsgára jelentkezéstől számítottan két évig, a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és – ezek hitelességének utólagos igazolása céljából – nyilvántartani a vizsga letételét követő 40 évig.”

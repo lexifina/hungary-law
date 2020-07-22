@@ -1,0 +1,5 @@
+## 9. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
+
+37. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) 6/H. § (14) bekezdése helyébe a következő rendelkezés lép:
+
+„(14) Ha az építtető a (2) bekezdés szerinti kérelem előterjesztését az építési engedélyezési eljárásban igazolja, az építési engedélyt a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági állásfoglalásának hiányában vagy a hozzájárulás elutasítása esetén is ki kell adni. Ha nem került kiadásra a 6/D. § (3) bekezdése szerinti rendelet, akkor az építési engedély akkor válik hatályossá és az építési tevékenység akkor kezdhető meg, amikor a településrendezési eszköz olyan módosítása lép hatályba, amellyel a kiadott engedély összhangban van.”
