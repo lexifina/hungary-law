@@ -27,3 +27,5 @@ d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és 
 e)
 
 (3) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer adatkezelője a céginformációs szolgálat.
+
+(4) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer a Kormányzati Adatközpont szolgáltatásait kormányrendeletben meghatározottak szerint igénybe vevő szakrendszer.

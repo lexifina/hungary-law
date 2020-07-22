@@ -1,0 +1,1 @@
+131/N. § Az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel megállapított 1. § (4) bekezdést a megvalósításhoz szükséges technikai feltételek biztosítását követően kell alkalmazni.

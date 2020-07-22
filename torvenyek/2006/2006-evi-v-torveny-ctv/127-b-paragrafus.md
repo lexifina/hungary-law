@@ -1,0 +1,1 @@
+127/B. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Kormányzati Adatközpontnak a cégnyilvántartás és az 1. § (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer részére nyújtott szolgáltatásait.
