@@ -5,11 +5,3 @@
 (3) A 12. § a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4) A 32. § az Európai Unió Vasúti Ügynökségéről és a 881/2004/EK rendelet hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/796 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
