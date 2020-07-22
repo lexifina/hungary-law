@@ -42,7 +42,9 @@
 
 20.[^12] ingatlan-nyilvántartásért,
 
-21.[^13] térképészetért
+21.[^13] térképészetért,
+
+22.[^14] rozsdaövezeti akcióterületekkel kapcsolatos ügyekért
 
 felelős tagja.
 
@@ -58,3 +60,4 @@ felelős tagja.
 [^11]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^13]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^14]: A 14. § (1) bekezdés 22. pontját a 344/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.

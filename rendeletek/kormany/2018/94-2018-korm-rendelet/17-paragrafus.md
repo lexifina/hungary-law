@@ -14,7 +14,7 @@ e) az a)–d) pontokban meghatározott tevékenységek tekintetében a Kormány 
 
 f) előkészíti az a)–e) pontok szerinti tevékenységek ellátásához szükséges jogszabályokat.
 
-(1a)[^14] A Kormány és Budapest Főváros Önkormányzata együttműködése érdekében kormányhatározatban meghatározottak szerint Fővárosi Közfejlesztések Tanácsa működik. A Fővárosi Közfejlesztések Tanácsa kormányhatározat szerinti aktusait a Fővárosi Közfejlesztések Tanácsa erre vonatkozó döntése alapján a Hivatalos Értesítőben közzé kell tenni.
+(1a)[^15] A Kormány és Budapest Főváros Önkormányzata együttműködése érdekében kormányhatározatban meghatározottak szerint Fővárosi Közfejlesztések Tanácsa működik. A Fővárosi Közfejlesztések Tanácsa kormányhatározat szerinti aktusait a Fővárosi Közfejlesztések Tanácsa erre vonatkozó döntése alapján a Hivatalos Értesítőben közzé kell tenni.
 
 (2) Amennyiben a nemzeti vagyon felügyeletéért felelős miniszter tulajdonosi jogkörgyakorlásába tartozó állami tulajdonú gazdasági társaság érintett az (1) bekezdésben meghatározott feladatok végrehajtásában, úgy a miniszter az (1) bekezdésben meghatározott feladatait a nemzeti vagyon felügyeletéért felelős miniszterrel együttműködésben végzi.
 
@@ -22,4 +22,4 @@ f) előkészíti az a)–e) pontok szerinti tevékenységek ellátásához szük
 
 (4) Az (1)–(2) bekezdésben meghatározott tárgykörökben a Kormány részére előterjesztés kizárólag a miniszter előterjesztésében vagy a miniszter kifejezett és részletes véleményének ismertetésével nyújtható be.
 
-[^14]: A 17. § (1a) bekezdését a 195/2018. (X. 17.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 17. § (1a) bekezdését a 195/2018. (X. 17.) Korm. rendelet 1. §-a iktatta be.

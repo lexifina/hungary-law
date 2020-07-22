@@ -1,6 +1,6 @@
-## 137/A. §[^68] A miniszter a felnőttképzésért való felelőssége keretében előkészíti a felnőttképzésre vonatkozó jogszabályokat, és működteti a pályakövetési rendszert.
+## 137/A. §[^70] A miniszter a felnőttképzésért való felelőssége keretében előkészíti a felnőttképzésre vonatkozó jogszabályokat, és működteti a pályakövetési rendszert.
 
-137/B. §[^69] (1) A miniszter az oktatásért való felelőssége keretében előkészíti
+137/B. §[^71] (1) A miniszter az oktatásért való felelőssége keretében előkészíti
 
 a) a felsőoktatásra,
 
@@ -22,5 +22,5 @@ c) közreműködik a Stipendium Hungaricum ösztöndíjprogrammal kapcsolatosan 
 
 (3) A miniszter az oktatásért való felelőssége keretében a felsőoktatás irányítása vonatkozásában ellátja a 39. § (2) bekezdés e) és f) pontjában foglalt feladatokat.
 
-[^68]: A 137/A. §-t a 209/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 133. § (3) bekezdésével megállapított szöveg.
-[^69]: A 137/B. §-t a 209/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 133. § (4) bekezdésével megállapított szöveg.
+[^70]: A 137/A. §-t a 209/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 133. § (3) bekezdésével megállapított szöveg.
+[^71]: A 137/B. §-t a 209/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 133. § (4) bekezdésével megállapított szöveg.
