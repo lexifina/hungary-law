@@ -4,7 +4,7 @@
 
 a) a sportszövetségek által elkészített sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
 
-b) ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
+b) ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről, ideértve különösen azt is, hogy ellátja a kiemelt nemzetközi sport- és sportdiplomáciai eseménynek nem minősülő sportesemények rendezésének támogatására vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről.
 
 c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 
@@ -77,6 +77,8 @@ o) javaslatot tesz a Kormány részére a sportakadémiai minősítés megszerz�
 p) az államháztartásért felelős miniszter véleményének kikérésével javaslatot tesz a Kormány részére a látvány-csapatsportok támogatására nyújtható támogatási keretösszegnek a látvány-csapatsportágak közötti felosztása arányának megállapítására.
 
 (2a) A sportversenyek tiltott befolyásolása elleni nemzeti platform összetételét és működésének rendjét a Kormány állapítja meg.
+
+(2b) A kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter ellátja a kiemelt nemzetközi sport- és sportdiplomáciai események rendezésének támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről.
 
 (3) A (2 ) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 

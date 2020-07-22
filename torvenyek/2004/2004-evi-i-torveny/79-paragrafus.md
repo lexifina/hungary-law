@@ -38,7 +38,11 @@ bo) a regisztrált szabadidő-sportoló részére nyújtható támogatások és 
 
 bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
 
-bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját.
+bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját,
+
+br) a kiemelt nemzetközi sport- és sportdiplomáciai események körét és részletes szabályait,
+
+bs) a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium fejezet kiemelt nemzetközi sport- és sportdiplomáciai események rendezésének támogatására szolgáló előirányzatából nyújtott támogatások felhasználásának, elosztásának és ellenőrzésének részletes szabályait.
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 

@@ -1,6 +1,18 @@
 ## A nemzetközi sportszövetség
 
-30/A. § (1) A nemzetközi sportszövetség olyan sportszövetség, amely sportágában nemzetközi szinten az e törvényben, valamint jogszabályban meghatározott sportszakmai feladatokat lát el, valamint amelyet a Nemzetközi Olimpiai Bizottság sportágának hivatalos nemzetközi szövetségeként ismer el, vagy amely sportszövetség ilyen elismerésre vonatkozóan a 30/C. § (2) bekezdésében meghatározott szándéknyilatkozattal rendelkezik. A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
+30/A. § (1) A nemzetközi sportszövetség olyan sportszövetség, amely sportágában nemzetközi szinten az e törvényben, valamint jogszabályban meghatározott sportszakmai feladatokat lát el, és amely
+
+a) a Nemzetközi Olimpiai Bizottság által sportágának hivatalos nemzetközi szövetségeként elismert sportszövetség,
+
+b) a GAISF tagjának minősül,
+
+c) GAISF megfigyelői státusszal rendelkezik,
+
+d) a 30/C. § (2) bekezdésében meghatározott szándéknyilatkozattal rendelkezik, vagy
+
+e) az a)–d) pont szerinti sportszövetség kontinentális sportszövetsége.
+
+(1a) A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
 
 (2) A nemzetközi sportszövetség feladat- és hatáskörében különösen:
 

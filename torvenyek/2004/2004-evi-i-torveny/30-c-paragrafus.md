@@ -4,7 +4,15 @@ a) nemzetközi sportszövetség alapításával az egyesület alapítására von
 
 b) más állam joga alapján nyilvántartásba vett és jogszerűen működő nemzetközi sportszövetség (a továbbiakban: külföldi szövetség) székhelyének Magyarországra történő áthelyezésével (a továbbiakban: jogutódlásos alapítás).
 
-(2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell a Nemzetközi Olimpiai Bizottság szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetséget sportágának hivatalos nemzetközi szövetségeként külön nyilatkozatban (a továbbiakban: elismerő nyilatkozat) el fogja ismerni.
+(2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell
+
+a) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetséget sportágának hivatalos nemzetközi szövetségeként külön nyilatkozatban el fogja ismerni, vagy
+
+b) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetséget tagjaként fogja elismerni, vagy
+
+c) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státusszal fog rendelkezni
+
+[az a)–c) pontban foglaltak a továbbiakban együtt: elismerő nyilatkozat].
 
 (3) Amennyiben a miniszteri támogató nyilatkozat kiadására a (2) bekezdés szerinti szándéknyilatkozat alapján került sor, a nemzetközi sportszövetség köteles az elismerő nyilatkozatot a nyilvántartásba vételtől számított 180 napon belül a sportpolitikáért felelős miniszter részére megküldeni. Amennyiben a határidő eredménytelenül telik el, a sportpolitikáért felelős miniszter köteles erről a körülményről a bíróságot haladéktalanul tájékoztatni. A bíróság a tájékoztatás átvételét követően elrendeli a nemzetközi sportszövetség nyilvántartásból való törlését.
 

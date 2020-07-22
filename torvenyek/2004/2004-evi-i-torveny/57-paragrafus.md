@@ -28,7 +28,7 @@ i) az a szervezet, amely a sportpolitikáért felelős miniszter által a látv�
 
 j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti,
 
-k) az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott, e törvény, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezéseivel összhangban álló szabályzatokkal.
+k) a kiemelt nemzetközi sport- és sportdiplomáciai események kivételével az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott, e törvény, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezéseivel összhangban álló szabályzatokkal.
 
 (3) A támogatást nyújtó a támogatási szerződéstől köteles elállni, ha a támogatott szervezet:
 
@@ -40,7 +40,7 @@ c) köztartozása a szerződés megkötése óta lejárt és arra fizetési hala
 
 d) a támogatást nem a szerződésben megjelölt célra használta fel.
 
-(4) A sportpolitikáért felelős minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól.
+(4) Az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter által vezetett minisztérium vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól. Az adótitok igénylésére – az adózás rendjéről szóló 2017. évi CL. törvény 131. § (14) bekezdés i) pontjával összhangban – az állami sportcélú támogatás nyújtása, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, folyósítása és a támogatással való elszámolás ellenőrzése céljából kerülhet sor.
 
 (5) A sportszövetség a sportköztestület – sportpolitikáért felelős miniszter által meghatározott időpontban tett – felhívására elkészíti és megküldi a sportköztestület részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A sportköztestület a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a sportköztestület részére megadott határidőben javaslatot tesz a miniszter részére a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerinti támogatásáról.
 
