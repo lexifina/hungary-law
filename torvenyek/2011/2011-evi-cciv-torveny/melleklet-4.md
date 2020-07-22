@@ -215,11 +215,3 @@ A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer pályáza
 1. E törvény által nyilvántartott adatok, az ösztöndíjra pályázó és az ösztöndíjban részesülő személy
 
 a) természetes személyazonosító adatai
-
-b) adóazonosító jele
-
-c) lakóhelye
-
-d) elérhetősége
-
-e) a felsőfokú képzésére vonatkozó adatok
