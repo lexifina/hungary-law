@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-53-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 2006-53-00-00.40 |
 | 2020-03-24 | 2020. évi VI. törvény | 2006-53-00-00.41 |
 | 2020-05-29 | 2020. évi XXX. törvény | 2006-53-00-00.42 |
+| 2020-07-22 | 2020. évi LXXVII. törvény | 2006-53-00-00.43 |

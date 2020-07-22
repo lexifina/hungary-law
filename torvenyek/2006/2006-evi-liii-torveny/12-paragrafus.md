@@ -10,7 +10,7 @@
 
 a) a kiemelten közérdekű beruházást, a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét, valamint a kiemelten közérdekű beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát,
 
-b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat,
+b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat, a fás szárú növények védelmére vonatkozó szabályokat, valamint a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait,
 
 c) a 11/D. § (1) bekezdése szerinti különös eljárás szabályokat,
 
