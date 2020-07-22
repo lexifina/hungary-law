@@ -4,7 +4,7 @@
 
 a) a kiemelt budapesti fejlesztések előkészítése, ezen belül a kormányzati döntéselőkészítés, a beruházás előkészítése, a tervezési program összeállítása, a terveztetés és az engedélyeztetés,
 
-b) Budapest fejlesztésével összefüggésben a kiemelt nemzetközi sportesemények rendezési jogának megszerzésére irányuló pályázattal és szerződéskötéssel összefüggő feladatok ellátása,
+b)
 
 c) Budapest és az agglomeráció fejlesztésével összefüggő, egyéb, a Kormány által meghatározott feladatok ellátása.
 

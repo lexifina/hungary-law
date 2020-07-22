@@ -12,7 +12,7 @@ b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszt
 
 c) a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
 
-d) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos feladatait,
+d)
 
 e) a 3. § (1) bekezdése szerinti Társaságot,
 

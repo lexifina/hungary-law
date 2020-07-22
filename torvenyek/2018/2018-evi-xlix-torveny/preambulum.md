@@ -1,4 +1,4 @@
-Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék, valamint Magyarország kiemelt nemzetközi sportesemények házigazdája legyen magas színvonalú rendezés mellett,
+Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék,
 
 különös figyelemmel Budapestnek a nemzetgazdaságban és általában az ország életében betöltött kiemelkedő szerepére,
 
