@@ -1,0 +1,3 @@
+## 2. § Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Kormány a Kertv. 6/D. §-a, 6/G. § f) pontja és a szálláshely-szolgáltatási tevékenységgel összefüggésben a Kertv. 9. §-a tekintetében kereskedelmi hatóságként a szálláshely fekvése szerinti illetékes települési önkormányzat, Budapesten a kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt, a nyaralóhajó-szálláshely tekintetében a kikötő fekvése szerinti illetékes települési önkormányzat jegyzőjét (a továbbiakban együtt: jegyző) jelöli ki.”

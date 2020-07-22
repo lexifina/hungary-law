@@ -1,0 +1,1 @@
+## „15. szoba: a szálláshely azon önállóan értékesíthető, egyedi hozzáféréssel rendelkező egysége, amely egy vagy több helyiségből áll, és egy vagy több vendég egyidejű elszállásolására alkalmas. Kemping, üdülőháztelep és nyaralóhajó szálláshelytípus esetén a szoba megfelelője a lakóegység vagy a területegység,”
