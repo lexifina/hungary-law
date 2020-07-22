@@ -776,6 +776,16 @@ Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsős�
 
 0206 30-ból 0206 41-ből 0206 49-ből
 
+|
+
+59.
+
+|
+
+Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó lakás értékesítése
+
+|
+
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
 |
