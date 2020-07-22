@@ -1,1 +1,3 @@
-## 2. § Az R. 22. § (1) bekezdés első mondatában a „nyomtatvány” szövegrész helyébe a „kitöltött nyomtatvány” szöveg, a 23. § (2) bekezdés b) pontjában a „helyszíni bírság nyomtatvány” szövegrész helyébe a „kitöltött helyszíni bírság nyomtatvány” szöveg lép.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
