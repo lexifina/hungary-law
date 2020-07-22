@@ -2,7 +2,7 @@
 
 (2) E törvénynek a Módtv. által megállapított rendelkezéseit a Módtv. és a végrehajtására kiadott kormányrendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2020. december 31. napjáig használható reklám közzététele céljából.
+(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2023. december 31. napjáig használható reklám közzététele céljából.
 
 (4) A (3) bekezdés szerinti reklámhordozó használatára vonatkozó, határozott időre szóló szerződés időbeli hatálya nem hosszabbítható meg, és az érintett reklámhordozó használatára új szerződés nem köthető, kivéve, ha a reklámhordozót a 2. § (2a) bekezdés szerinti jogszabályok továbbá e törvény és a végrehajtására kiadott rendeletek követelményei szerint, településképi bejelentési eljárás alapján átalakították.
 
