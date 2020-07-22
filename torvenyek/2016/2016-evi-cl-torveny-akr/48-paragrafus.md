@@ -4,9 +4,11 @@
 
 (1) A hatóság felfüggeszti az eljárást, ha
 
-a) az előkérdés bíróság hatáskörébe tartozik, vagy
+a) az előkérdés bíróság hatáskörébe tartozik,
 
-b) az ügyben külföldi szervet kell megkeresni.
+b) az ügyben külföldi szervet kell megkeresni, vagy
+
+c) az ügyben az Európai Unió intézményeivel vagy más nemzetközi szervezettel egyeztetni szükséges.
 
 (2) Törvény lehetővé teheti az eljárás felfüggesztését, ha az előkérdés más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
