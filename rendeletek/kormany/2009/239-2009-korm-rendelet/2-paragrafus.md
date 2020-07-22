@@ -8,9 +8,13 @@
 
 4. kemping: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített, külön zárt területen működő szálláshelytípus, amelyben szállás céljából a vendégek és járműveik számára elkülönült területet (a továbbiakban: területegység), illetve üdülőházat (a továbbiakban együtt: lakóegység) és egyéb kiszolgálólétesítményeket és szolgáltatásokat [így különösen: tisztálkodási, mosási, főzési, egészségügyi célokat szolgáló vizesblokk, energiaellátás, digitális információ (WIFI), portaszolgálat] biztosítanak, és amely legalább kilenc lakóegységgel rendelkezik,
 
+4a.[^3] kikötő: a hajózási hatóság által kiadott bérbeadási engedélyben feltüntetett, a nyaralóhajó tárolására szolgáló báziskikötő,
+
 5. közösségi szálláshely: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben az egy szobában található ágyak külön-külön is hasznosításra kerülnek, s ahol az e célra hasznosított szobák száma legalább három, az ágyak száma legalább tizenkettő,
 
 6. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás vagy üdülő, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc, és az ágyak száma legfeljebb tizenhat,
+
+6a.[^4] nyaralóhajó-szálláshely: az a víziközlekedésről szóló 2000. évi XLII. törvény 87. § 29a. pontja szerinti nyaralóhajó, amelyet a víziközlekedés rendjéről szóló rendelet szerint nyaralóhajózásra kijelölt vízterületen nem kizárólag szálláshely-szolgáltatás folytatása céljából üzemeltetnek, de szálláshely-szolgáltatási céllal hasznosítanak, és ahol az e célra hasznosított nyaralóhajó belsejében kialakított, ággyal rendelkező lakóegységek száma legalább kettő, az ágyak száma minimum négy, befogadóképessége a nyaralóhajó személyzetével együtt legfeljebb 12 fő,
 
 7. panzió: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben a szálláshely szolgáltatása mellett a reggeli szolgáltatás kötelező, és ahol a hasznosított szobák száma legalább hat, de legfeljebb huszonöt, az ágyak száma legalább tizenegy,
 
@@ -28,8 +32,11 @@
 
 14. szálloda: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben a szálláshely és reggeli szolgáltatása mellett egyéb szolgáltatásokat is nyújtanak a szálláshely-szolgáltatás keretében, és ahol a hasznosított szobák száma legalább tizenegy,
 
-15. szoba: a szálláshely azon önállóan értékesíthető, egyedi hozzáféréssel rendelkező egysége, amely egy vagy több helyiségből áll, és egy vagy több vendég egyidejű elszállásolására alkalmas. Kemping és üdülőháztelep szálláshelytípus esetén a szoba megfelelője a lakóegység vagy a területegység,
+15.[^5] szoba: a szálláshely azon önállóan értékesíthető, egyedi hozzáféréssel rendelkező egysége, amely egy vagy több helyiségből áll, és egy vagy több vendég egyidejű elszállásolására alkalmas. Kemping, üdülőháztelep és nyaralóhajó szálláshelytípus esetén a szoba megfelelője a lakóegység vagy a területegység,
 
 16. üdülőháztelep: az a kizárólag szálláshely-szolgáltatás folytatása céljából, közművesített területen létesített szálláshelytípus, amelyben a vendégek részére a szállást különálló épületben vagy önálló bejárattal rendelkező épületrészben (üdülőegységben) nyújtják, amennyiben az e célra hasznosított szálláshelyek száma eléri a hármat, függetlenül a szobák vagy ágyak számától.
 
 [^2]: A 2. § a 155/2019. (VI. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. § 4a. pontját a 345/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § 6a. pontját a 345/2020. (VII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 2. § 15. pontja a 345/2020. (VII. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
