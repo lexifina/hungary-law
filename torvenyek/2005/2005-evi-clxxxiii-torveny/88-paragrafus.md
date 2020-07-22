@@ -30,7 +30,7 @@
 
 14. a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításának részletes szabályait,
 
-15. az értékelést végző szerv kijelölésének szabályait,
+15. az értékelést végző szerv kijelölésére, kijelölést követő ellenőrzésére, valamint tevékenységére vonatkozó szabályokat,
 
 16. a működési engedélyezési eljárásnak, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának, a működési engedélyhez nem kötött tevékenység esetén a bejelentésnek, valamint a vasúti igazgatási szervnek a vasúti társaságok tevékenységével kapcsolatos ellenőrzési tevékenységének eljárási szabályait,
 
@@ -40,9 +40,21 @@
 
 19. a vasút-villamosra alkalmazandó engedélyezési eljárások eljárásjogi szabályait,
 
-20. a vasúti járművek forgalomba hozatalának engedélyezésével, típus engedélyezésével kapcsolatos eljárások eljárásjogi szabályait,
+20. a vasúti járművek
 
-21. az egységes biztonsági tanúsítvánnyal és a vasútbiztonsági engedéllyel összefüggő eljárások eljárásjogi szabályait
+20.1. műszaki engedélyei kiadásával kapcsolatos eljárásokra,
+
+20.2. nyilvántartásának vezetésére,
+
+20.3. használatát megelőző ellenőrzésekre, a típusmegfelelőségi nyilatkozatokra, valamint a felügyeleti tevékenységre
+
+vonatkozó részletes szabályokat,
+
+21. az egységes biztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint a felügyeleti tevékenységre vonatkozó részletes szabályokat,
+
+22. a vasutak kölcsönös átjárhatóságának és az ezzel kapcsolatos engedélyezési eljárások, valamint a vasúti pályahálózat nyilvántartása vezetésének részletes szabályait,
+
+23. a kockázatértékelést végző szerv kijelölésére, kijelölést követő ellenőrzésére, tevékenységére vonatkozó szabályokat, továbbá a kockázatértékelő szervezetekkel szembeni – ideértve a felelősségbiztosítás mértékét, valamint a szakmai képzettségi és szakmai gyakorlati – követelményeket,
 
 rendeletben állapítsa meg.
 
@@ -52,7 +64,7 @@ rendeletben állapítsa meg.
 
 2. a vasúti tevékenység megkezdésének és folytatásának bejelentésére vonatkozó anyagi jogi szabályokat,
 
-3. az egységes biztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a városi, elővárosi és helyi vasúti szolgáltatások esetén a biztonságirányítási rendszerekre vonatkozó eltérő szabályokat, a biztonsági jelentésre vonatkozó szabályokat, valamint a tevékenység megkezdésének bejelentésére vonatkozó anyagi jogi szabályokat,
+3.
 
 4. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
 
@@ -62,9 +74,9 @@ rendeletben állapítsa meg.
 
 7. a vasúti pályahálózat kapacitásának elosztására vonatkozó részletes szabályokat,
 
-8. a vasúti igazgatási szerv, valamint a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó anyagi jogi, továbbá a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat, valamint az Ügynökség eljárásába bevont közlekedési hatóság nemzeti óradíját az adópolitikáért felelős miniszterrel egyetértésben,
+8. a vasúti igazgatási szerv, valamint a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó anyagi jogi, továbbá a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben, valamint az Ügynökség eljárásába bevont közlekedési hatóság nemzeti óradíját,
 
-9. a vasúti járművek forgalomba hozatalának engedélyezésével, típus engedélyezésével kapcsolatos eljárások anyagi jogi szabályait,
+9.
 
 10. a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények
 
@@ -74,9 +86,9 @@ rendeletben állapítsa meg.
 
 10.3. gyártásának, javításának ellenőrzését, minősítését, valamint műszaki vizsgálatát végző szervezetek engedélyezésének és nyilvántartásának anyagi jogi szabályait,
 
-11. a vasúti járművek nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó anyagi jogi rendelkezéseket,
+11.
 
-12. a vasúti pályák nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó anyagi jogi rendelkezéseket,
+12.
 
 13. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
 
@@ -84,9 +96,11 @@ rendeletben állapítsa meg.
 
 14.1. javítását, karbantartását végző szervezetek (karbantartó műhelyek) engedélyezésének és nyilvántartásának anyagi jogi szabályait, a tehervagonok kivételével a karbantartásért felelős szervezetekre vonatkozó szabályokat,
 
-14.2. közül a tehervagonok karbantartásáért felelős szervezetek tanúsításának és nyilvántartásának anyagi jogi szabályait,
+14.2. karbantartásáért felelős szervezetek feladatainak meghatározását, tanúsításának, értékelésének és nyilvántartásának anyagi jogi szabályait, valamint a karbantartási rendszerre vonatkozó részletes szabályokat,
 
-14.3. időszakos műszaki vizsgálatát végző szervezetek engedélyezésének és nyilvántartásának anyagi jogi szabályait,
+14.3. időszakos és rendkívüli műszaki vizsgálatát végző szervezetek engedélyezésének és nyilvántartásának anyagi jogi szabályait,
+
+14.4. tervezése, gyártása, átalakítása, valamint használata során betartandó műszaki és üzemeltetési követelmények részletes szabályait,
 
 15. a számviteli elkülönítésnek és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszter egyetértésével kiadott,
 
@@ -94,7 +108,7 @@ rendeletben állapítsa meg.
 
 17. a teljesítményösztönző rendszerre vonatkozó részletes szabályokat,
 
-18. a vasutak kölcsönös átjárhatóságának szabályait,
+18.
 
 19. a kölcsönös átjárhatóságot lehetővé tevő műszaki előírásokat,
 
@@ -112,11 +126,11 @@ rendeletben állapítsa meg.
 
 26. a vasútépítési projektek, illetve a 44. § szerinti létesítési, felújítási, fejlesztési tevékenységek során létrejövő állami vagyon átadásával, elszámolásával, az ezzel kapcsolatos adatszolgáltatással, valamint építtetői feladatokkal kapcsolatos részletes szabályokat,
 
-27. a vasúti pálya és tartozékai tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
+27. a vasúti pálya és tartozékai tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének alapvető műszaki szabályait,
 
 28. a hazai forgalombahozatali járműengedéllyel rendelkező vasúti vontatójárművekre szerelt sebességmérő és menetíró berendezések hitelesítésére és kalibrálására vonatkozó anyagi jogi szabályokat,
 
-29. a karbantartásért felelős szervezetekre és a karbantartási rendszerre vonatkozó részletes szabályokat,
+29.
 
 30. a független pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételeket,
 
@@ -132,13 +146,23 @@ rendeletben állapítsa meg.
 
 36. közutaknak és magánutaknak turisztikai hajtánypálya által történő keresztezésére vonatkozó szabályokat
 
-37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat,
+37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó feladatokat,
 
 38. a vasúti közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
 
-39. a nem jogszabályban kihirdetett nemzeti szabályok kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
+39. a vasúti műszaki előírások kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére, valamint a tevékenységével összefüggő feladatokra és a közlekedési hatósággal történő együttműködésére vonatkozó részletes szabályokat,
 
-40. a kockázatértékelő szervezetekkel szembeni – ideértve a felelősségbiztosítás mértékét, továbbá a szakmai képzettségi és szakmai gyakorlati – követelményeket
+40. az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények műszaki szabályait,
+
+41. a vasúti jármű tervezése, gyártása, átalakítása, típusvizsgálata, üzembe helyezését és forgalomba adását megelőző vizsgálata, üzembe helyezése, forgalomba helyezése, karbantartása, üzemeltetése, valamint használata során betartandó műszaki követelményekre vonatkozó szabályokat,
+
+42. a vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó műszaki követelményekre vonatkozó szabályokat,
+
+43. a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezésére, vizsgálatára, alkalmazhatóságára, üzemeltetésére, karbantartására vonatkozó műszaki követelményeket,
+
+44. a vasúti forgalom lebonyolításával összefüggő alapvető szabályokat, a forgalomban részt vevő vonatok terhelésére, összeállítására, megfékezettségére, a kötelezően elvégzendő vizsgálatokra vonatkozó szabályokat,
+
+45. vasúti rendszer, a vasúti alrendszer és rendszerelem bevezetésével, módosításával és üzemeltetésével kapcsolatos kockázati besorolások rangsorolására, a kockázatértékelés módszertanára, a biztonságintegritás szintjére vonatkozó nemzeti értékek meghatározására és a rendelkezésre állással kapcsolatos követelményeket
 
 rendeletben állapítsa meg.
 

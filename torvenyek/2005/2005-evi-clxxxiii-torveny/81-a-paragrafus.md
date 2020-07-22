@@ -12,6 +12,8 @@ b) a veszélyes áruk vasúti átrakásának, tárolásának ellenőrzése.
 
 (4) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
 
-(5) A hivatásos katasztrófavédelmi szerv az ellenőrzés során megállapított szabálytalanságokról, a vizsgálat megindításáról és az esetlegesen szükségessé váló helyszíni intézkedésekről, a vizsgálat megindítását, vagy a helyszíni intézkedést követő 8 napon belül hivatalosan értesíti a vasúti közlekedési hatóságot.
+(5) A hivatásos katasztrófavédelmi szerv az ellenőrzés során megállapított szabálytalanságokról, a vizsgálat megindításáról és az esetlegesen szükségessé váló helyszíni intézkedésekről, a vizsgálat megindítását vagy a helyszíni intézkedést követő 8 napon belül értesíti a közlekedési hatóságot, amennyiben a közlekedési hatóság kizárólagos hatáskörébe tartozó szabálytalanságot is feltárt.
 
-(6) A hivatásos katasztrófavédelmi szerv a vizsgálat lezárásáról, és annak eredményéről, az azzal kapcsolatos döntéséről 8 napon belül értesíti a vasúti közlekedési hatóságot.
+(6) Ha az (5) bekezdés szerint a közlekedési hatóság értesítésére sor került, a hivatásos katasztrófavédelmi szerv a vizsgálat lezárásáról és annak eredményéről, valamint az azzal kapcsolatos döntéséről 8 napon belül értesíti a közlekedési hatóságot.
+
+(7) A hivatásos katasztrófavédelmi szerv a veszélyes áru vasúti szállításának ellenőrzésével kapcsolatos tevékenységéről éves országos kimutatást készít

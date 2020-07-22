@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2020-01-16 | 2019. évi CXIV. törvény | 2005-183-00-00.59 |
 | 2020-06-16 | 2019. évi CXV. törvény | 2005-183-00-00.60 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2005-183-00-00.61 |
+| 2020-07-22 | 2020. évi LXXXVI. törvény | 2005-183-00-00.62 |

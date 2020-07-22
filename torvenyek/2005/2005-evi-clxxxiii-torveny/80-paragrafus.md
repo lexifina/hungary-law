@@ -54,6 +54,8 @@ v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet fela
 
 (4) Az ügyfél a közlekedési hatóság felhívására köteles a szakértői vizsgálatokban közreműködni.
 
-(5) A közlekedési hatóság a biztonsági hatósági feladatai végrehajtása során bármikor kérheti a pályahálózat működtető, vállalkozó vasúti társaságok vagy más minősített testületek műszaki-technikai segítségnyújtását.
+(5) A közlekedési hatóság a biztonsági hatósági feladatai végrehajtása során bármikor kérheti a pályahálózat-működtető, vállalkozó vasúti társaságok vagy más minősített testületek műszaki-technikai segítségnyújtását.
 
-(5) A vasúti közlekedési hatóság a 80. § (1) bekezdés a), d), e) és p) pontjában meghatározott eljárásokban az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
+(5)
+
+(6) A közlekedési hatóság az (1) bekezdés a), d) és e) pontjában meghatározott eljárásában az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
