@@ -46,7 +46,9 @@ v) az egységes európai égboltra vonatkozó teljesítmény- és díjszámítá
 
 w) a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 2014. február 12-i 139/2014/EU bizottsági rendelet,
 
-x) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet.
+x) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet,
+
+y) a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzemben tartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet 19. cikk (1) bekezdése.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

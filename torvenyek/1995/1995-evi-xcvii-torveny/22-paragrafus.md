@@ -18,4 +18,6 @@ meghatározott tevékenység folytatásához.
 
 (3) Pilóta nélküli légijárművel légiközlekedési tevékenység – a 71. § 10. pont e) alpontjában meghatározott kivétellel – légiközlekedési hatósághoz tett, az e törvény végrehajtási rendeletében meghatározott előzetes bejelentést követően folytatható.
 
+(3a) A pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzemben tartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet szerinti bejelentő hatóság és piacfelügyeleti hatóság Magyarországon a légiközlekedési hatóság.
+
 (4) A 71. § 10. pont b) alpontjában szereplő légiközlekedési tevékenység a légiközlekedési hatósághoz tett, előzetes bejelentést követően folytatható. A 965/2012/EU bizottsági rendeletben meghatározott követelményrendszert a légiközlekedési hatóság ellenőrzi.

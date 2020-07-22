@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2019-07-17 | 2019. évi LXVII. törvény | 1995-97-00-00.67 |
 | 2019-07-25 | 2019. évi LXVII. törvény | 1995-97-00-00.68 |
 | 2020-01-01 | 2019. évi CXV. törvény | 1995-97-00-00.69 |
+| 2020-07-22 | 2020. évi LXXXVI. törvény | 1995-97-00-00.70 |
