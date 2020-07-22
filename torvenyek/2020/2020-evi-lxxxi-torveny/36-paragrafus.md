@@ -1,0 +1,1 @@
+36. § A 35. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésekben az Ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni.

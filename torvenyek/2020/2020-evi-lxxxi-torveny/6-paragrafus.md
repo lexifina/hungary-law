@@ -1,0 +1,25 @@
+6. § (1) Az Stv. 56. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az állam a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséhez az e törvényben, a költségvetési törvényben és más, a sport állami támogatásáról rendelkező jogszabályban meghatározottak szerint pénzügyi támogatást nyújthat. A biztosított támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben, az államháztartás működési rendjéről szóló jogszabályokban, és a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium fejezethez tartozó, a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben foglaltakat kell alkalmazni.”
+
+(2) Az Stv. 56. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az állami sportcélú támogatás nyújtása, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, folyósítása és a támogatással való elszámolás ellenőrzése érdekében az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter, vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter kezeli a támogatást igénylő, illetve támogatott természetes személy, továbbá a támogatást igénylő, illetve támogatott szervezet képviseletében eljáró természetes személy vagy kapcsolattartó természetes személy
+
+a) természetes személyazonosító adatait,
+
+b) lakóhelyének, tartózkodási helyének, telefonszámának és elektronikus levelezési címének adatait,
+
+c) egyéb, az e törvényben és a végrehajtására kiadott, továbbá az államháztartás működésére vonatkozó jogszabályokban meghatározott feltételeknek való megfelelést igazoló személyes adatait.”
+
+(3) Az Stv. 56. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) bekezdés szerinti esetben az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter a támogatást igénylő, illetve támogatott természetes személy adóazonosító jelét és társadalombiztosítási azonosító jelét is kezeli.”
+
+(4) Az Stv. 56. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter, vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter a (3) és (4) bekezdés szerinti személyes adatokat támogatás nyújtása esetén a támogatás utolsó részletének folyósítását követő tíz évig, vagy – ha az későbbi – a pénzbeli juttatásra vonatkozóan benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.”
+
+(5) Az Stv. 56. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter a (3) és (4) bekezdés szerinti személyes adatokat a támogatási kérelem beérkezését követő év december 31. napjáig kezeli, ha a támogatási kérelem alapján nem kerül sor támogatás nyújtására.”
