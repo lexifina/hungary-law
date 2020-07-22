@@ -16,6 +16,8 @@ e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a telep�
 
 f) nem kell alkalmazni a 73. § (4) bekezdését.
 
+(2a) Nem kell alkalmazni a (2) bekezdés a), c) és d) pontjában foglaltakat a nemzetiségi önkormányzati fenntartó esetében.
+
 (3) Ha a pedagógiai szakszolgálati intézményt vagy a pedagógiai-szakmai szolgáltató intézményt nem állami szerv, nem települési önkormányzat tartja fenn, az oktatásért felelős miniszter köthet a fenntartóval köznevelési szerződést.
 
 (4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés c) pontjában foglaltakat.

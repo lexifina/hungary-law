@@ -1,4 +1,4 @@
-## 16. A pedagógiai szakszolgálatok
+## 16. A pedagógiai szakszolgálat
 
 18. § (1) A szülő és a pedagógus nevelő munkáját, valamint a nevelési-oktatási intézmény feladatainak ellátását pedagógiai szakszolgálat segíti.
 

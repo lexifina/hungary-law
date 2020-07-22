@@ -22,9 +22,9 @@ a) a tanuló neve,
 
 b) a tanuló oktatási azonosító száma,
 
-c) a tanuló törvényes képviselőjének neve,
+c)
 
-d) a törvényes képviselő vagy a nagykorú tanuló lakcíme,
+d)
 
 e) a tanuló iskolájának neve, OM azonosítója,
 
@@ -32,7 +32,7 @@ f) a tanuló évfolyamának, osztályának megjelölése,
 
 g) a tanuló részére az iskolai tankönyvellátás keretében megrendelt, megvásárolt tankönyvek címe,
 
-h) a tanuló nemzetiségének megjelölése, amennyiben a nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló jogszabályban meghatározott nyilatkozattal vesz részt a nemzetiségi nevelés-oktatásban.
+h) a tanuló nemzetiségének megjelölése, ha jogszabályban meghatározott nyilatkozattal vesz részt a nemzetiségi nevelés-oktatásban.
 
 (6) Az iskola átadja a könyvtárellátónak a tankönyvek tanulóra, évfolyamra, tantárgyra lebontott címlistáját.
 

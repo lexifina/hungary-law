@@ -1,8 +1,10 @@
 ## 22. A tanítási év rendje, a tanítási, képzési idő, az egyéb foglalkozások
 
-27. § (1) Az iskolában a nevelés-oktatást – ha e törvény másképp nem rendelkezik – a nappali oktatás munkarendje szerint a kötelező és választható, egyéni és csoportos, tanórai és egyéb foglalkozások, a kollégiumban a kötelező és választható, egyéni és csoportos foglalkozások keretében csoportbontásokkal kell megszervezni (a továbbiakban: nappali rendszerű iskolai oktatás).
+27. § (1) Az iskolában a nevelést-oktatást – ha e törvény másképp nem rendelkezik – a nappali oktatás munkarendje szerint a kötelező és választható, egyéni és csoportos, tanórai és egyéb foglalkozások, a kollégiumban a kötelező és választható, egyéni és csoportos foglalkozások keretében csoportbontásokkal kell megszervezni (a továbbiakban: nappali rendszerű iskolai oktatás). A nappali rendszerű iskolai oktatás e törvény felhatalmazása alapján kiadott miniszteri rendeletben az évfolyamra, az időtartamra, a tanulói hozzáférésre és a tanulók felügyeletének megszervezésére vonatkozó részletszabályok meghatározásával, tantermen kívüli, digitális munkarendben is megszervezhető.
 
 (2) Általános iskolában a nevelés-oktatást a délelőtti és délutáni tanítási időszakban olyan módon kell megszervezni, hogy a foglalkozások legalább tizenhat óráig tartsanak, továbbá tizenhét óráig – vagy addig, amíg a tanulók jogszerűen tartózkodnak az intézményben – gondoskodni kell a tanulók felügyeletéről. Az általános iskola e törvény rendelkezéseinek megfelelően egész napos iskolaként is működhet.
+
+(2a) Az (1) bekezdésben meghatározott tantermen kívüli digitális munkarendben a nevelés-oktatás, a tanulási folyamat ellenőrzése és támogatása a pedagógusok és a tanulók online vagy más, személyes találkozást nem igénylő kapcsolatában – elsősorban digitális eszközök alkalmazásával – történik.
 
 (3) A tanév, ezen belül a tanítási év rendjét az oktatásért felelős miniszter rendeletben állapítja meg. Az iskola éves munkatervet készít, amely tartalmazza a szabadon meghatározható tanítás nélküli munkanapokat.
 
@@ -28,7 +30,7 @@ b) iskolai sportkörben való sportolással,
 
 c) versenyszerűen sporttevékenységet folytató igazolt, egyesületi tagsággal rendelkező vagy amatőr sportolói sportszerződés alapján sportoló tanuló kérelme alapján a tanévre érvényes versenyengedélye és a sportszervezete által kiállított igazolás birtokában a sportszervezet keretei között szervezett edzéssel,
 
-d) egyesületben legalább heti két óra sporttevékenységet folytató tanuló kérelme alapján – amennyiben délután szervezett testnevelés órával ütközik – a félévre érvényes, az egyesület által kiállított igazolással
+d) sportszervezetben legalább heti két óra sporttevékenységet folytató tanuló kérelme alapján – amennyiben délután szervezett testnevelés órával ütközik – a félévre érvényes, a sportszervezet által kiállított igazolással
 
 váltható ki.
 

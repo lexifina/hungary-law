@@ -1,10 +1,4 @@
-93/F. § (1) A központi költségvetésről szóló törvényben kell meghatározni
-
-a) a térítésmentes tankönyvek, valamint
-
-b) a (4) bekezdésben meghatározott tankönyvek
-
-iskolai beszerzéséhez (a továbbiakban: ingyenes iskolai tankönyvellátás) biztosított állami támogatás (a továbbiakban: tankönyvtámogatás) fedezetét.
+93/F. § (1) Az éves költségvetési törvényben kell meghatározni a térítésmentes tankönyvellátás biztosításához az iskolai tankönyvrendeléseknél figyelembe vehető tanulónkénti tankönyvtámogatás összegét.
 
 (2) A tankönyvtámogatás felhasználható
 

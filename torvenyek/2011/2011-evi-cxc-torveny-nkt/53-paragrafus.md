@@ -16,17 +16,45 @@ b) az általános iskola utolsó évfolyamának elvégzéséről szóló bizony�
 
 c) gimnáziumi tanulmányok esetén az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
 
-d) szakgimnáziumi tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+d) szakgimnáziumi tanulmányok esetén
 
-e)
+da) az utolsó évfolyam elvégzését követő első képesítő vizsgaidőszak utolsó napján,
 
-f) az alapfokú művészeti iskolában, ha kiskorú tanuló esetén a szülő vagy a nagykorú tanuló írásban bejelenti, hogy kimarad az iskolából, a bejelentésben megjelölt napon, továbbá az utolsó alapfokú évfolyam utolsó napján, ha a tanuló nem tesz művészeti alapvizsgát, valamint az utolsó továbbképző évfolyam záróvizsga letételének napján, ha a tanuló nem tesz záróvizsgát, az utolsó évfolyam elvégzését tanúsító bizonyítvány kiállításának napján és a h) pontban megjelölt esetben,
+db) ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, a közismereti oktatás utolsó évfolyama elvégzését követő első érettségi vizsgaidőszak utolsó napján,
 
-g) a tankötelezettség megszűnése után – ha a szülő a tanuló egyetértésével, nagykorú tanuló esetén a tanuló írásban bejelenti, hogy kimarad –, a bejelentés tudomásulvételének napján,
+dc) ha az államilag elismert szakképesítést szerzett tanuló arról döntött, hogy továbbtanul az érettségi vizsgára felkészítő tizenkettedik és tizenharmadik évfolyamon, az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
 
-h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés véglegessé válásának napján.
+dd) ha az államilag elismert szakképesítést szerzett tanuló arról döntött, hogy nem tanul tovább az érettségi vizsgára felkészítő tizenkettedik és tizenharmadik évfolyamon, az utolsó évfolyam elvégzését követő első képesítő vizsgaidőszak utolsó napján,
 
-(3) A (2) bekezdés h) pontjában foglalt rendelkezés nem alkalmazható, ha a tanuló hátrányos helyzetű.
+e) szakiskolában, ha
+
+ea) a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
+
+eb) a tanuló nem jelentkezik szakmai vizsgára vagy képesítő vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
+
+ec) a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, az alkalmatlanságot megállapító dokumentumnak az iskola tudomására jutásától számított nyolcadik napon,
+
+ed) a tanuló jelentkezik képesítő vizsgára, az utolsó évfolyam elvégzését követő első képesítő vizsgaidőszak utolsó napján,
+
+f) készségfejlesztő iskolában
+
+fa) az utolsó gyakorlati évfolyam elvégzését igazoló bizonyítvány kiállítása napján, ha a 13/B. § (4) bekezdésében foglaltak nem alkalmazhatóak,
+
+fb) ha a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő képzés, a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, az alkalmatlanságot megállapító dokumentumnak az iskola tudomására jutásától számított nyolcadik napon,
+
+g) az alapfokú művészeti iskolában
+
+ga) ha kiskorú tanuló esetén a szülő vagy a nagykorú tanuló írásban bejelenti, hogy nem folytatja tanulmányait az iskolában, a bejelentésben megjelölt napon, továbbá
+
+gb) ha a tanuló nem tesz művészeti alapvizsgát, az utolsó alapfokú évfolyam utolsó napján, valamint
+
+gc) az utolsó továbbképző évfolyam záróvizsga letételének napján, illetve ha a tanuló nem tesz záróvizsgát, akkor az utolsó évfolyam elvégzését tanúsító bizonyítvány kiállításának napján,
+
+h) a tankötelezettség megszűnése után – ha a szülő a tanuló egyetértésével, nagykorú tanuló esetén a tanuló írásban bejelenti, hogy nem folytatja tanulmányait az iskolában –, a bejelentés tudomásulvételének napján,
+
+i) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés véglegessé válásának napján.
+
+(3) A (2) bekezdés i) pontjában foglalt rendelkezés nem alkalmazható, ha a tanuló hátrányos helyzetű.
 
 (4) Megszűnik a tanuló tanulói jogviszonya – a tanköteles tanuló kivételével – ha az iskola kötelező foglalkozásairól a jogszabályban meghatározott időnél igazolatlanul többet mulasztott.
 

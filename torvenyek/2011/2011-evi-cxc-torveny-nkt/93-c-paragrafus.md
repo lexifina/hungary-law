@@ -12,7 +12,7 @@ alapján veszi fel a tankönyvet a tankönyvjegyzékre. Ha az eljárásban szak�
 
 a) bármely évfolyam bármely tantárgya vonatkozásában a Nat szerint jóváhagyott kerettantervi tantárgyanként,
 
-b)
+b) az e törvény hatálya alá tartozó szakmai tankönyv esetén kerettantervi tantárgyanként
 
 legfeljebb kettő tankönyvet tartalmazhat.
 

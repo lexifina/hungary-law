@@ -12,7 +12,7 @@ c) tiszteletben tartsa az óvoda, az iskola, kollégium vezetői, pedagógusai, 
 
 (3)
 
-(4) A szülő joga, hogy gyermeke neveléséhez igénybe vegye a pedagógiai szakszolgálat intézményét. A szülő kötelessége, hogy gyermekével megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi, óvodapszichológusi vizsgálaton és a fejlesztő foglalkozásokon való részvételét, ha a tanulóval foglalkozó pedagógusok kezdeményezésére a nevelőtestület erre javaslatot tesz. Ha az e bekezdésében foglalt kötelezettségének a szülő nem tesz eleget, a köznevelési feladatokat ellátó hatóság kötelezi a szülőt kötelezettségének betartására.
+(4) A szülő joga, hogy gyermeke neveléséhez igénybe vegye a pedagógiai szakszolgálat intézményét. A szülő kötelessége, hogy gyermekével megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi, óvodapszichológusi vizsgálaton és a fejlesztő foglalkozásokon való részvételét, ha a tanulóval foglalkozó pedagógusok kezdeményezésére a nevelőtestület erre javaslatot tesz. Ha az e bekezdésében foglalt kötelezettségének a szülő nem tesz eleget, a tankerületi központ kötelezi a szülőt kötelezettségének betartására.
 
 (5) A szülő joga különösen, hogy
 

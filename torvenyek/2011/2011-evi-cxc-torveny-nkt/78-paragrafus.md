@@ -20,7 +20,9 @@ i) az országos pedagógiai-szakmai szolgáltatás, a nemzetiségi nevelés-okta
 
 j) az országos tanulmányi verseny meghirdetése, támogatása, a versenyszabályzat közzététele,
 
-k) évenként országos és térségi mérési, értékelési feladatok elrendelése és a szükséges feltételek biztosítása.
+k) évenként országos és térségi mérési, értékelési feladatok elrendelése és a szükséges feltételek biztosítása,
+
+l) a kerettanterv, irányelv, alapprogram kiadása és közzététele.
 
 (2) Az oktatásért felelős miniszter szakmai felügyeletet gyakorol a köznevelési rendszert érintő központi támogatások elosztására irányuló pályázatok felett, különös tekintettel azok pedagógiai tartalmára.
 

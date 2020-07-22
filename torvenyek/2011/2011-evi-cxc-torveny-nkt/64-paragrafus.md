@@ -28,6 +28,8 @@ e) Kutatótanár,
 
 fokozatokat érheti el.
 
+(4a) Jogszabályban meghatározott, a pedagógus előmeneteli rendszer hatálya alá nem tartozó, pedagógus szakképzettséggel rendelkező személy a (4) bekezdés szerinti fokozatot önkéntesen, címzetes fokozatként szerezheti meg. A címzetes fokozat az azt megszerző személy munkavégzését megalapozó jogviszonyát nem módosítja, de azt a pedagógus előmeneteli rendszer hatálya alá kerülés esetén a besoroláskor a (4) bekezdésben foglalt fokozattal azonosnak kell tekinteni.
+
 (5) A pedagógus-munkakörben foglalkoztatott – a Gyakornok fokozatba tartozó pedagógus kivételével – a közalkalmazottak jogállásáról szóló törvény szerint közalkalmazotti jogviszonyban töltött időnek minősülő, továbbá a fizetési fokozat megállapításánál beszámítandó idő alapján háromévenként eggyel magasabb fizetési kategóriába lép. A pedagógust a tárgyév első napján kell a magasabb fizetési kategóriába besorolni. A magasabb fizetési kategória elérésével a hároméves várakozási idő újra kezdődik.
 
 (6) A pedagógusok minősítő vizsgáját és minősítési eljárását a hivatal szervezi. A minősítő vizsgára és a minősítési eljárásra a pedagógus a hivatalnál jelentkezik. A minősítő vizsga és a minősítési eljárás során a kapcsolattartás elektronikus úton történik.

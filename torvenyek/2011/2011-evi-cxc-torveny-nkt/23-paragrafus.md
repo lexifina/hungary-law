@@ -18,7 +18,7 @@ c) azokat az okiratokat, amelyekből megállapítható, hogy a működés megkez
 
 (5) Újonnan induló nevelési-oktatási forma esetében a kérelemhez csatolni kell a nevelő és oktató munkához szükséges személyi és tárgyi feltételek megteremtésének külön jogszabályban meghatározott ütemtervét. A kérelem és mellékletei jogszabályban meghatározott adattartalommal nyújthatók be.
 
-(6) Az engedély kiadásáról az intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság dönt. A köznevelési feladatokat ellátó hatóság a (7) bekezdés a) pontja, (8) bekezdés b) pontja tekintetében köteles szakértői véleményt beszerezni. A szakértői véleményt nevelési-oktatási intézmény és pedagógiai szakszolgálati intézmény esetében köznevelési szakértő, pedagógiai-szakmai szolgáltató intézmény esetében az oktatásért felelős miniszter által kijelölt háttérintézmény adja ki.
+(6) Az engedély kiadásáról az intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság dönt.
 
 (7) A köznevelési feladatokat ellátó hatóság az engedély kiadását akkor tagadhatja meg, ha a nevelési-oktatási intézmény
 

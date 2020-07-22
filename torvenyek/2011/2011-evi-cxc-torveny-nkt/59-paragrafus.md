@@ -10,4 +10,4 @@ b) ha a tanuló cselekvőképtelen vagy korlátozottan cselekvőképes, szándé
 
 (3a) A tanulmányi és a külföldi iskolai kirándulások esetén a köznevelési intézmény a tanulónak okozott kárért a kártérítési felelősség általános szabályai szerint felel.
 
-(4)
+(4) Ha a nevelési-oktatási intézmény a gyermeket, tanulót a neveléssel-oktatással összefüggésben személyiségi jogában megsérti, arra a Polgári Törvénykönyv sérelemdíjra vonatkozó szabályait kell alkalmazni azzal, hogy a bíróság a sérelemdíjat oktatási, képzési szolgáltatásként határozza meg. A bíróság által megítélt oktatási, képzési szolgáltatást a jogsértő saját maga vagy vásárolt szolgáltatásként biztosítja.

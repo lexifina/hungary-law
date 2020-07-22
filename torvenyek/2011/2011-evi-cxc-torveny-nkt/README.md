@@ -64,3 +64,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2020-04-01 | 2019. évi LXX. törvény | 2011-190-00-00.57 |
 | 2020-04-11 | 2020. évi XIX. törvény | 2011-190-00-00.58 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2011-190-00-00.59 |
+| 2020-07-22 | 2020. évi LXXXVII. törvény | 2011-190-00-00.60 |

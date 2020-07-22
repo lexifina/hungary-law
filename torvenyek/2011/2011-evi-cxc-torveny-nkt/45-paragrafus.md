@@ -28,8 +28,8 @@
 
 (7) A tankötelezettség általános iskolában, középfokú iskolában, valamint fejlesztő nevelés-oktatásban teljesíthető.
 
-(8) A hivatal gondoskodik az óvodai nevelésben részvételre kötelezettek és a tankötelesek nyilvántartásáról, a nyilvántartásból adatot közöl a területileg illetékes kötelező felvételt biztosító óvodák, iskolák fenntartói számára. A felmentést engedélyező szerv hivatalból, valamint a hivatal jelzése alapján elrendeli és felügyeli az óvodába járási kötelezettség és a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
+(8) A hivatal gondoskodik az óvodai nevelésben részvételre kötelezettek és a tankötelesek nyilvántartásáról, a nyilvántartásból adatot közöl a területileg illetékes kötelező felvételt biztosító óvodák, iskolák fenntartói számára. A felmentést engedélyező szerv hivatalból, valamint a hivatal jelzése alapján elrendeli és felügyeli az óvodába járási kötelezettség és a tankötelezettség teljesítését.
 
-(9) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes köznevelési feladatot ellátó hatóság ellátja az óvodaköteles gyermek és a tanköteles tanuló igazolatlan mulasztása esetén törvény vagy kormányrendelet által feladat- és hatáskörébe utalt feladatokat.
+(9)
 
 (10)

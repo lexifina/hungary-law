@@ -1,4 +1,4 @@
-93/D. § (1) Az oktatásért felelős miniszter által a közismereti tankönyvekre kiterjedően elkészített tankönyvfejlesztési terv végrehajtásában az állami tankönyvfejlesztésért és -kiadásért felelős szerv közreműködik, ennek keretében
+93/D. § (1) Az oktatásért felelős miniszter által a közismereti, a szakgimnáziumi és a sajátos nevelési igényű tanulók részére készülő szakiskolai, készségfejlesztő iskolai tankönyvekre kiterjedően elkészített tankönyvfejlesztési terv végrehajtásában az állami tankönyvfejlesztésért és -kiadásért felelős szerv közreműködik, ennek keretében
 
 a) elkészíti az új fejlesztésű tankönyvek engedélyezett szerkesztett elektronikus kiadványát, és
 

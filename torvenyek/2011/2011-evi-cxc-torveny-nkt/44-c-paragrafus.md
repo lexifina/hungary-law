@@ -8,7 +8,7 @@ b) a tanuló oktatási azonosító számát,
 
 c) a tanuló anyja születési nevét,
 
-d) a tanuló születési idejét,
+d) a tanuló születési helyét és idejét,
 
 e) a tanuló állampolgárságát,
 
@@ -34,8 +34,12 @@ o) az utasbiztosítás szerződésszámát,
 
 p) a támogatói szerződés számát,
 
-q) egyéni pályázat esetén a tanuló fizetési számlaszámát.
+q) egyéni pályázat esetén a tanuló fizetési számlaszámát,
 
-(3) A (2) bekezdés a)–d) pontjában meghatározott adatokat a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányút finanszírozásának biztosítása és a felhasználás ellenőrzése céljából a Tempus Közalapítvány a KIR részére továbbítja.
+r) a tanuló sajátos nevelési igényére vonatkozó adatokat.
 
-(4) A külföldi tanulmányútra irányuló egyéni pályázat esetén a (2) bekezdés a)–j) pontjában szereplő adatokat a tanuló, kiskorú tanuló esetén a szülő, csoportos pályázat esetén a (2) bekezdés a)–i) pontjában szereplő adatokat a nevelési-oktatási intézmény szolgáltatja a Tempus Közalapítvány számára.
+(3) A (2) bekezdés a)–f) pontjában meghatározott adatokat a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányút finanszírozásának biztosítása és a felhasználás ellenőrzése céljából a Tempus Közalapítvány a KIR részére továbbítja.
+
+(4) A külföldi tanulmányútra irányuló egyéni pályázat esetén a (2) bekezdés a)–b) és g)–r) pontjában szereplő adatokat a tanuló, kiskorú tanuló esetén a szülő, csoportos pályázat esetén a (2) bekezdés a)–b) és g)–p) és r) pontjában szereplő adatokat a nevelési-oktatási intézmény szolgáltatja a Tempus Közalapítvány számára.
+
+(5) A nyilvántartás adatai az adatfelvételtől a tanulói jogviszony megszűnéséig kezelhetők.

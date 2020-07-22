@@ -18,8 +18,8 @@ b) általános iskolában felvételi vizsga.
 
 (8) A területileg illetékes tankerületi központ meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a területileg illetékes tankerületi központnak be kell szereznie az érdekelt települési önkormányzatok véleményét.
 
-(9) A sajátos nevelési igényű tanulók nevelés-oktatását több megyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes tankerületi központnak be kell szereznie az érdekelt köznevelési feladatokat ellátó hatóságok véleményét.
+(9) A sajátos nevelési igényű tanulók nevelés-oktatását több megyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes tankerületi központnak be kell szereznie az érdekelt tankerületi központok véleményét.
 
-(10) A nemzetiséghez tartozó gyermekek óvodai nevelését, iskolai nevelés-oktatását ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt be kell szerezni az érdekelt települési nemzetiségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat egyetértését.
+(10) A nemzetiségek jogairól szóló törvény szerinti nemzetiségi köznevelési intézmény vonatkozásában, a nemzetiséghez tartozó gyermekek óvodai nevelését, iskolai nevelés-oktatását ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt be kell szerezni az érdekelt települési nemzetiségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat egyetértését. Több településre kiterjedő működési, felvételi körzet esetén valamennyi érintett települési nemzetiségi önkormányzat egyetértését be kell szerezni, érintett települési nemzetiségi önkormányzat hiányában a területileg illetékes, érintett területi nemzetiségi önkormányzat véleményét kell kikérni.
 
 (11) A (6) bekezdésben foglaltakat a tagintézményként működő iskolák tekintetében is alkalmazni kell.

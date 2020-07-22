@@ -22,9 +22,11 @@ i) a gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
 
 j) a kollégium,
 
-k) a pedagógiai szakszolgálati intézmény és
+k) a pedagógiai szakszolgálati intézmény,
 
-l) a pedagógiai-szakmai szolgáltatást nyújtó intézmény.
+l) a pedagógiai-szakmai szolgáltatást nyújtó intézmény, és
+
+m) a kiegészítő nemzetiségi óvoda.
 
 (1a) Nevelési-oktatási intézmény az (1) bekezdés a)–j) pontja szerinti köznevelési intézmény.
 

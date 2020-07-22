@@ -2,49 +2,53 @@
 
 21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési alapfeladat ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik.
 
-(2) A köznevelési intézményt költségvetési szerv esetében a kincstár, a tankerületi központ vagy az állami felsőoktatási intézmény által fenntartott köznevelési intézmény esetében a hivatal, más esetben a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság veszi nyilvántartásba. A magán köznevelési intézmény akkor vehető nyilvántartásba és a nyilvántartásba vétele akkor módosítható, ha az oktatásért felelős miniszter szakvéleménye alapján alkalmas a köznevelésialapfeladat-ellátás megszervezésére. A köznevelési intézmény a nyilvántartásba vétel iránti kérelem benyújtásával kéri oktatási azonosító számának, költségvetési szerv esetében adószámának és oktatási azonosító számának megállapítását. A bejelentéshez csatolni kell
+(2) A köznevelési intézményt költségvetési szerv esetében a kincstár, a tankerületi központ, az állami felsőoktatási intézmény által fenntartott köznevelési intézmény esetében a hivatal, más esetben a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság veszi nyilvántartásba. A magán köznevelési intézmény akkor vehető nyilvántartásba és a nyilvántartásban alapfeladatának jogszabály szerinti megnevezése és feladatellátási helye akkor módosítható, ha az oktatásért felelős miniszter szakvéleménye alapján az adott intézmény, feladatellátási hely, alapfeladat szükséges a köznevelési közfeladat-ellátás megszervezéséhez. A szakvéleményt nem kell kikérni a köznevelési intézmény alapfeladatának jogszabályváltozáson alapuló módosításához. A bejelentéshez csatolni kell
 
-a) a köznevelési intézmény alapító okiratát, az állam által fenntartott köznevelési intézmény esetében a szakmai alapdokumentumot,
+a) a köznevelési intézmény alapító okiratát, tankerületi központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentumot,
 
-b) – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési alapfeladat ellátására jogosító okiratot,
+b) – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – az alapfeladat ellátására jogosító okiratot,
 
 c) a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentumot,
 
 d) a köznevelési intézmény állandó székhelyének meglétét igazoló okiratot.
 
-(3) A köznevelési intézmény alapító okirata, illetve szakmai alapdokumentuma tartalmazza
+(3) A köznevelési intézmény alapító okirata, szakmai alapdokumentuma tartalmazza
 
-a) a köznevelési intézmény
+a) az alapító és a fenntartó nevét és székhelyét,
 
-aa) hivatalos nevét és rövid nevét magyar nyelven,
+b) az intézmény – az e törvény felhatalmazása alapján kiadott miniszteri rendelet alapján meghatározott – hivatalos nevét,
 
-ab) székhelyét, telephelyét,
+c) az intézmény típusát,
 
-b) a köznevelésialapfeladat-ellátással összefüggésben
+d) az intézmény
 
-ba) köznevelési alapfeladatának jogszabály szerinti megnevezését,
+da) feladatellátási helyét,
 
-bb) állami köznevelési intézmény esetében főtevékenységének államháztartási szakágazati besorolását és a további tevékenységi körök kormányzati funkció szerinti megjelölését,
+db) székhelyét,
 
-bc) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
+dc) tagintézményét,
 
-bd) az önálló költségvetéssel rendelkező köznevelési intézmény esetében a gazdálkodással összefüggő jogosítványokat,
+dd) telephelyét,
 
-c) az alapító és a fenntartó nevét és székhelyét,
+e) feladatellátási helyenként az alapfeladatának jogszabály szerinti megnevezését,
 
-d) – az alábbiak fennállása esetén – a köznevelési intézmény
+f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek- vagy tanulólétszámot alapfeladatonkénti és munkarendenkénti bontásban,
 
-da) hivatalos nevének és rövid nevének nemzetiségi vagy idegen nyelvű megfelelőjét,
+g) iskolatípusonként az évfolyamok számát,
 
-db) jogelődjének megnevezését, székhelyét,
+h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tanszakok megnevezését,
 
-dc) megszűnésének időpontját vagy pontos feltételét, ha a köznevelési intézmény határozott időre vagy bizonyos feltétel bekövetkeztéig jön létre.
+i) szakgimnázium esetén a szakképesítés megnevezését, azonosító számát, szintjét, szakiskola esetén a szakképesítés, szakma, részszakma megnevezését, azonosító számát, szintjét,
+
+j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
+
+k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
 (3a) A köznevelési intézmény a nyilvántartásba való bejegyzéssel a bejegyzés napján jön létre és a nyilvántartásból való törléssel, a törlés napján szűnik meg. Az alapító okirat a köznevelési intézmény későbbi időponttal való alapításáról, átalakításáról, illetve megszüntetéséről is rendelkezhet, ebben az esetben a köznevelési intézményt ezen időponttal kell nyilvántartásba venni, illetve a nyilvántartásból törölni.
 
 (4) A nyilvántartásba vétellel, a nyilvántartásba vett adatok megváltozásával és a nyilvántartásból való törléssel összefüggő költségeket a kérelem benyújtója viseli. A bejegyzett adatokban bekövetkezett változások nyilvántartásba vételét – a (2) bekezdésben meghatározottak szerint – a változást követő nyolc napon belül kell kérelmezni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak.
 
-(4a) A bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy arról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelem benyújtója kéri – tájékoztatja az állam által fenntartott köznevelési intézmény esetén a kincstárt, más köznevelési intézmény esetén a hivatalt, illetve a köznevelési feladatkörében eljáró hatóságot.
+(4a) A bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy arról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelem benyújtója kéri – tájékoztatja az állam által fenntartott köznevelési intézmény esetén a kincstárt, más köznevelési intézmény esetén a hivatalt, illetve a köznevelési feladatokat ellátó hatóságot.
 
 (5) A nyilvántartás tartalmazza
 
@@ -106,6 +110,6 @@ e) a köznevelési intézményben folyó nevelő és oktató munka a közbiztons
 
 f) a köznevelési intézmény a feladatainak ellátásához szükséges feltételekkel nem rendelkezik.
 
-(11) Szakmai jogszabálysértés, ha az intézmény működése – az intézmény által ellátott feladatoktól függően – az Óvodai nevelés országos alapprogramja a Nat, az adott intézményre érvényes kerettanterv, vagy e törvény felhatalmazása alapján készített és jóváhagyott más nevelési, oktatási program, az érettségi vizsgáról szóló jogszabály, az érettségi vizsga vizsgakövetelményei, a Kollégiumi nevelés országos alapprogramja, a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, az Alapfokú művészetoktatás követelményei és tantervi programja rendelkezéseit sérti.
+(11) Szakmai szabálysértés, ha az intézmény működése – az intézmény által ellátott feladatoktól függően – az Óvodai nevelés országos alapprogramja a Nat, az adott intézményre érvényes kerettanterv, vagy e törvény felhatalmazása alapján készített és jóváhagyott más nevelési, oktatási program, az érettségi vizsgáról szóló jogszabály, az érettségi vizsga vizsgakövetelményei, a Kollégiumi nevelés országos alapprogramja, a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, az Alapfokú művészetoktatás követelményei és tantervi programja rendelkezéseit sérti.
 
 (12)

@@ -4,7 +4,7 @@
 
 (2) Az iskolában a nevelő és oktató munka segítése, a nevelőtestület, a szülők és a tanulók, az intézményfenntartók, továbbá az intézmény működésében érdekelt más szervezetek együttműködésének előmozdítására a szülők, a nevelőtestület, az iskolai diákönkormányzat azonos számú képviselőjéből álló iskolaszék alakulhat.
 
-(3) Az iskolában a helyi közösségek érdekeinek képviseletére a szülők, a tanulók, a nevelőtestület, az intézmény székhelye szerinti települési önkormányzat, egyházi jogi személyek, a helyi gazdasági kamarák azonos számú képviselőjéből és a fenntartó delegáltjából álló intézményi tanács hozható létre.
+(3) Az iskolában a helyi közösségek érdekeinek képviseletére a szülők, a tanulók, a nevelőtestület, az intézmény székhelye szerinti települési önkormányzat, egyházi jogi személyek azonos számú képviselőjéből és a fenntartó delegáltjából álló intézményi tanács hozható létre.
 
 (4) Amennyiben a (3) bekezdésben meghatározott feltételek nem teljesülnek, abban az esetben az intézményi tanácsot a szülők, a nevelőtestület és az intézmény székhelye szerinti települési önkormányzat azonos számú delegáltjából kell létrehozni.
 

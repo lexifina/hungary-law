@@ -20,9 +20,9 @@ a) az e célra létesített – 7. § (1) bekezdés b)–f) és h) pontjában fe
 
 b) a nappali rendszerű iskolai oktatás céljára létesített iskolának a felnőttoktatási osztályában.
 
-(6) A felnőttoktatásban a tizenhat-huszonnégy éves tanulók részére ifjúsági osztály, csoport szervezhető.
+(6)
 
-(7) A felnőttoktatásban az oktatás megszervezhető a nappali oktatás munkarendje, továbbá esti, levelező vagy más sajátos munkarend szerint. Gimnáziumban a nappali oktatás munkarendje szerint azok részére szervezhető meg az oktatás, akik nem kizárólag felnőttoktatásban vehetnek részt. Készségfejlesztő iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik az e törvény 13/B. § (2) bekezdés b) pontjában meghatározott két gyakorlati évfolyamot nem végezték el. A nappali oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább kilencven százalékát el kell érnie.
+(7) A felnőttoktatásban az oktatás megszervezhető a nappali oktatás munkarendje, továbbá esti, levelező vagy más sajátos munkarend szerint. Gimnáziumban, szakgimnáziumban, szakiskolában, készségfejlesztő iskolában a nappali oktatás munkarendje szerint azok részére szervezhető meg az oktatás, akik nem kizárólag felnőttoktatásban vehetnek részt. A nappali oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább kilencven százalékát el kell érnie.
 
 (8) Az esti oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább ötven százalékát, levelező oktatás esetében legalább tíz százalékát el kell érnie. Más sajátos munkarend szerint is folyhat az oktatás, ha a tanulónak tanórai foglalkozáson egyáltalán nem kell részt vennie, továbbá, ha a tanórai foglalkozások száma nem éri el a levelező oktatásra meghatározott óraszámot. Más sajátos munkarend szerint folyik a felnőttoktatás különösen a távoktatási formában.
 
@@ -36,4 +36,4 @@ c) a nem kötelező tanórai foglalkozásra, az osztálybontásra és egyéni fo
 
 d)
 
-(10)
+(10) Szakgimnáziumban a szakmai képzés a különböző munkarendben tanulók részére közösen is megszervezhető.

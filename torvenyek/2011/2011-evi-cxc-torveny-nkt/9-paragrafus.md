@@ -20,7 +20,7 @@
 
 (9) A (8) bekezdés szerinti engedély akkor adható meg, ha a benyújtott tanterv tantárgyi struktúrája – a Nat-ban meghatározott műveltségi területek adaptálása során az iskolák közötti átjárhatóság és a továbbtanulás biztosítása érdekében – legfeljebb harminc százalékban tér el a Nat-ban és az oktatásért felelős miniszter által kiadott kerettantervben foglalt tantárgyi struktúrától.
 
-(9a) A (8) bekezdés szerinti engedély iránti kérelmet az iskola fenntartója jogosult az oktatásért felelős miniszternek benyújtani.
+(9a) A (8) bekezdés szerinti engedély iránti kérelmet az óvoda, iskola fenntartója jogosult az oktatásért felelős miniszternek benyújtani.
 
 (10)
 

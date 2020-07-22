@@ -1,6 +1,6 @@
 ## 48. A fenntartó kötelezettségei és jogai
 
-83. § (1) A három vagy annál több nevelési-oktatási intézményt fenntartó települési önkormányzat köznevelési ügyekkel foglalkozó bizottságot létesít és működtet. A fenntartói kötelezettségek teljesítésével és jogok gyakorlásával összefüggő döntés-előkészítő munkában a pedagógus-munkakör betöltésére jogosító – 3. melléklet szerinti – felsőfokú iskolai végzettséggel rendelkező személynek kell közreműködnie.
+83. § (1)
 
 (2) A fenntartó
 
@@ -54,7 +54,7 @@ c) a szülői szervezet,
 
 d) az iskolai diákönkormányzat,
 
-e) a nemzetiségi nevelés-oktatásban részt vevő intézmény esetén – ha nem rendelkezik egyetértési joggal – a települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat,
+e) a nemzetiségi nevelés-oktatásban részt vevő intézmény esetén – ha nem rendelkezik egyetértési joggal – a települési nemzetiségi önkormányzat, érintett települési nemzetiségi önkormányzat hiányában az érintett területi, ennek hiányában az országos nemzetiségi önkormányzat, ennek hiányában az adott nemzetiség helyi egyesületeinek,
 
 f)
 

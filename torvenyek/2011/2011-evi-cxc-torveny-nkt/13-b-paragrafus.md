@@ -1,6 +1,6 @@
 ## 11/B. Készségfejlesztő iskola
 
-13/B. § (1) A készségfejlesztő iskola a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását, továbbá a szakképzésben részt venni nem tudó enyhe értelmi fogyatékos tanulók számára nyújt a munkába álláshoz és az életkezdéshez szükséges ismereteket.
+13/B. § (1) A készségfejlesztő iskola a középsúlyos értelmi fogyatékos tanulók részére biztosítja az életkezdéshez való felkészülést, a munkába állást lehetővé tevő egyszerű betanulást igénylő munkafolyamatok elsajátítását, továbbá a szakképzésben, szakiskolai képzésben részt venni nem tudó enyhe értelmi fogyatékos tanulók számára nyújt a munkába álláshoz és az életkezdéshez szükséges ismereteket.
 
 (2) A készségfejlesztő iskolának négy évfolyama van, amelyből
 

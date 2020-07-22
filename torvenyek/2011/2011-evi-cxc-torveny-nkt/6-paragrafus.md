@@ -2,7 +2,7 @@
 
 6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit az érettségi vizsgáról szóló kormányrendelet, valamint az általános és részletes vizsgakövetelmények alapján kell meghatározni.
 
-(1a) Az érettségi vizsga részletes vizsgakövetelményeit az oktatásért felelős miniszter az iskolák által kötelezően alkalmazandó hivatalos kiadványként az általa vezetett minisztérium honlapján teszi közzé. Az érettségi vizsga részletes vizsgakövetelményei a honlapról nem távolíthatók el, archiválásukra az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni. Az érettségi vizsga közzétett részletes vizsgakövetelményeit az oktatásért felelős miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. Az érettségi vizsga részletes vizsgakövetelményeiben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap. Az érettségi vizsga részletes vizsgakövetelményei normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A részletes vizsgakövetelményekkel szemben kizárólag jogszabálysértésre hivatkozással kezdeményezhető közigazgatási jogvita.
+(1a) Az érettségi vizsga részletes vizsgakövetelményeit az oktatásért felelős miniszter az iskolák által kötelezően alkalmazandó hivatalos kiadványként az általa vezetett minisztérium honlapján teszi közzé. Az érettségi vizsga részletes vizsgakövetelményei a honlapról nem távolíthatók el, archiválásukra az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni. Az érettségi vizsga közzétett részletes vizsgakövetelményeit az oktatásért felelős miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. Az érettségi vizsga részletes vizsgakövetelményeiben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap. Az érettségi vizsga részletes vizsgakövetelményei normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes.
 
 (1b) Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít.
 
@@ -18,7 +18,7 @@ d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára 
 
 e) kötelezően választandó vizsgatárgy; szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy.
 
-(2a)
+(2a) Szakgimnáziumban a kötelezően választandó vizsgatárgy képesítő vizsgával kiváltható.
 
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 
@@ -34,4 +34,4 @@ b) azon sajátos nevelési igényű tanulókat, akiket a szakértői bizottság 
 
 (6)
 
-(7) Az alapfokú művészeti iskolában művészeti alapvizsgát kell szervezni, és művészeti záróvizsga is szervezhető. A művészeti alapvizsga a továbbképző évfolyamokon való továbbtanulásra jogosít. A művészeti alapvizsga és a művészeti záróvizsga vizsgakövetelményeit, vizsgafeladatait az alapfokú művészeti iskola az oktatásért felelős miniszter rendeletében foglalt keretek között határozza meg.
+(7) Az alapfokú művészeti iskolában művészeti alapvizsgát kell szervezni, és művészeti záróvizsga is szervezhető. A művészeti alapvizsga a továbbképző évfolyamokon való továbbtanulásra jogosít. A művészeti alapvizsga és a művészeti záróvizsga vizsgakövetelményeit, vizsgafeladatait az alapfokú művészeti iskola az oktatásért felelős miniszter által kiadott és közzétett alapprogramban foglalt keretek között határozza meg.
