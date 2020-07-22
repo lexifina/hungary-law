@@ -24,7 +24,7 @@ k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyz
 
 l) úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére
 
-vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási bírság mértékéről és kivetésének szabályairól szóló kormányrendeletben előírtak szerint – bírság megfizetésére kötelezheti.
+vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti.
 
 (2) A bírság összege legfeljebb 1 000 000 forint.
 
