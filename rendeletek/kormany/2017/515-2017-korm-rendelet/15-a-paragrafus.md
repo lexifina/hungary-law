@@ -134,6 +134,9 @@ ce) az indulás helyszíne, időpontja,
 
 cf) az érkezés helyszíne, időpontja,
 
+cg)[^7] szálláshely-szolgáltatási céllal hasznosított nyaralóhajó esetén a hajó nyilvántartási száma és neve, a szállásadó neve és telefonszáma, valamint üzemeltetési engedély-száma,
+
 d) a kötelező elméleti és gyakorlati oktatás megtörtént, amelyet az oktató aláírásával igazol, megjelölve annak helyszínét és időpontját, továbbá az oktatásban részt vevő írásban nyilatkozik arról, hogy minden szükséges ismeretet elsajátított.
 
 [^6]: A 15/A. §-t a 193/2020. (V. 8.) Korm. rendelet 5. §-a iktatta be.
+[^7]: A 15/A. § (6) bekezdés c) pont cg) alpontját a 345/2020. (VII. 14.) Korm. rendelet 8. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 21. § Ez a rendelet 2018. január 1-jén lép hatályba.
 
-## 22. §[^7] E rendelet
+## 22. §[^8] E rendelet
 
 a) 11/A. és 12/A. §-a a belvízi hajókra vonatkozó műszaki követelmények megállapításáról, a 2009/100/EK irányelv módosításáról és a 2006/87/EK irányelv hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1629 európai parlamenti és tanácsi irányelvnek,
 
@@ -8,4 +8,4 @@ b) 14. és 15. §-a a belföldi vagy nemzetközi vízi fuvarozási szakmához ju
 
 való megfelelést szolgálják.
 
-[^7]: A 22. § a 274/2019. (XI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 22. § a 274/2019. (XI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
