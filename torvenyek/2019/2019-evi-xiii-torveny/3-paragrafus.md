@@ -4,6 +4,6 @@
 
 (3) Az alapítvány nyilvántartásba vétele iránti kérelem benyújtását megelőzően a tőkeminimumnak megfelelő vagyont az alapítvány rendelkezésére kell bocsátani.
 
-(4) Ha az alapítói jogok gyakorlása az alapítvány ügyvezető szervét (a továbbiakban: kuratórium) illeti meg, és az alapító az alapítvány javára rendelt vagyonnak a tőkeminimumon felüli, az alapítvány rendelkezésére még nem bocsátott részét az erre megszabott határidőben nem teljesíti, az alapítvány jogosult e vagyonrész teljesítését követelni.
+(4) Ha az alapítói jogok gyakorlása az alapítvány ügyvezető szervét (a továbbiakban: kuratórium) vagy az alapítványi vagyonellenőrt illeti meg, és az alapító az alapítvány javára rendelt vagyonnak a tőkeminimumon felüli, az alapítvány rendelkezésére még nem bocsátott részét az erre megszabott határidőben nem teljesíti, az alapítvány jogosult e vagyonrész teljesítését követelni.
 
 (5) Ha az alapító az alapítói jogok gyakorlását a maga részére fenntartotta és a (4) bekezdés szerinti kötelezettségét a kuratórium erre irányuló írásbeli felszólítása ellenére sem teljesíti, ennek megtörténtéig az alapítói jogok gyakorlására a kuratórium jogosult.
