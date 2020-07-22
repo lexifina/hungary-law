@@ -37,3 +37,5 @@
 (18) E törvénynek a 2019. december 31-éig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-éig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
 
 (19) E törvénynek az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló törvénnyel megállapított 4. § (3) bekezdését a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
+
+(20) E törvénynek az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel (a továbbiakban: Mód5. tv.) megállapított 3. § 28. pont a) alpontját, 5. § (3) és (5) bekezdését a Mód5. tv. hatálybalépése napján folyamatban lévő eljárásokban, valamint fennálló jogviszonyokra is alkalmazni kell.
