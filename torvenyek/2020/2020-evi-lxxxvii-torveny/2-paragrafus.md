@@ -1,0 +1,3 @@
+2. § Az Nkt. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Alaptörvényben foglalt ingyenes és kötelező alapfokú, ingyenes és mindenki számára hozzáférhető középfokú nevelés-oktatáshoz való jog biztosítása az érettségi megszerzéséig, a szakgimnáziumi, szakiskolai nevelés-oktatásban a második szakképesítés, szakképzettség megszerzését biztosító első képesítő vizsga, szakmai vizsga befejezéséig, valamint a készségfejlesztő iskola utolsó gyakorlati évfolyamának befejezéséig a magyar állam közszolgálati feladata. Ingyenes az iskolai rendszerű nevelésben-oktatásban való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű tanuló részére.”

@@ -1,0 +1,3 @@
+20. § Az Nkt. 62. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A továbbképzési kötelezettség teljesítése szempontjából az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját a hivatal jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzési programok engedélyezése és szervezése – a felnőttképzés adatszolgáltatási rendszerére vonatkozó előírások kivételével – nem tartozik a felnőttképzésről szóló törvény hatálya alá. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal látja el.”
