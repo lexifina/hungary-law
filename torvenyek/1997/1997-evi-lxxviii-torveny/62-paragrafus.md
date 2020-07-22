@@ -178,6 +178,8 @@ b) az 54. § (5d) bekezdés a) pontja szerinti értesítésre, az 54. § (5d) be
 
 c) az 54. § (5g) bekezdése szerinti eljárási szabályokat és az eljáró hatóságot.
 
+(1g) Felhatalmazást kap a Kormány, hogy a rozsdaövezeti akcióterület és azon belül az azonnali rozsdaövezeti akcióterület, illetve a közép- és hosszú távú rozsdaövezeti akcióterület lehatárolását rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy
 
 1.

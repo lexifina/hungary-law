@@ -27,3 +27,5 @@ a) a szabályozás, valamint a hatósági ügyek kapcsán az építésügyi szab
 b) az építőipar fejlődésének elősegítése és támogatása érdekében az építésgazdaságért felelős miniszter
 
 útján gyakorolja.
+
+(5) A rozsdaövezeti akcióterület, az azonnali rozsdaövezeti akcióterület, valamint a közép- és hosszú távú rozsdaövezeti akcióterület lehatárolását a Kormány – a települési önkormányzat, a fővárosban az illetékes kerületi önkormányzat véleményének kikérésével – rendeletben állapítja meg.
