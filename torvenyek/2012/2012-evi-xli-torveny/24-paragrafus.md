@@ -31,3 +31,5 @@ valósulhat meg.
 (7) Az, akinek érdekében állt vagy áll a közszolgáltatási szerződés elnyerése, és a 23. §-ban, valamint jelen §-ban foglalt szabályok megszegésével kötött közszolgáltatási szerződés folytán sérelmet szenvedett, vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.
 
 (8) Az 1370/2007/EK rendelet 8. cikk (2) bekezdésében előírt jelentéstételi kötelezettséget a miniszter teljesíti.
+
+(9) A személyszállítási közszolgáltatást végző szolgáltató – függetlenül a közszolgáltatási szerződés odaítélésének a módjától – nem köteles a koncesszióról szóló törvény szerinti koncessziós társaságot alapítani.

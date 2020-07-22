@@ -12,6 +12,6 @@
 
 (5) Az ellátásért felelős a díjat megállapíthatja tételesen vagy a díj kiszámítására vonatkozó módszer meghatározásával. A díjat úgy kell megállapítani, hogy a hatékonyan működő közlekedési szolgáltató közlekedési közszolgáltatásokkal felmerülő indokolt költségeire és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is, valamint biztosítsa a személyszállítási közszolgáltatások egyéni közlekedéssel szembeni versenyképességét.
 
-(6) A díjat, valamint annak alkalmazási feltételeit a közlekedési szolgáltatónak a díjszabásban a hatálybalépés kezdete előtt 30 nappal korábban közzé kell tennie.
+(6) A díjat, valamint annak alkalmazási feltételeit a közlekedési szolgáltatónak vagy a közlekedésszervezőnek a díjszabásban legalább 30 nappal a hatálybalépést megelőzően közzé kell tennie.
 
 (7) A 29. § (1a) bekezdésében meghatározott személyszállítási közszolgáltatások esetén a közforgalmú személyszállítási utazási kedvezmények alkalmazhatósága kizárható. Az utazási kedvezmények kizárása esetén a 33–34. § szerinti szociálpolitikai menetdíj-támogatás nem vehető igénybe.

@@ -4,7 +4,7 @@ a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jog
 
 b) piacfelügyeleti bírságot szab ki.
 
-(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság kezdeményezi a működési engedély felfüggesztését vagy visszavonását.
+(2) A kötelezettségek további súlyos megszegése esetén az autóbuszos hatóság kezdeményezi a működési engedély felfüggesztését vagy visszavonását.
 
 (3)
 
