@@ -42,14 +42,4 @@ c) 38. pontja,
 
 18. 97. § (7) bekezdése.
 
-(2) Hatályát veszti az Nkt.
-
-a) 19. § (4)–(6) bekezdése,
-
-b) 66. § (4) bekezdése,
-
-c) 98. §-a,
-
-d) 99. §-a,
-
-e) 3. melléklete.
+(2)
