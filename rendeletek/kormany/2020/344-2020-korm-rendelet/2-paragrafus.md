@@ -1,3 +1,5 @@
-## „30/D. § A miniszter a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért való felelőssége keretében előkészíti a rozsdaövezeti akcióterületekkel kapcsolatos jogszabályokat.”
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
