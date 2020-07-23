@@ -8,16 +8,16 @@ c)
 
 d)
 
-e) 80. §-ának a 2017. évi L. törvénnyel megállapított (5) bekezdése,
+e)
 
-f) 88. § (2) bekezdés 3. pontja,
+f)
 
-g) 88. § (2) bekezdés 9. pontja,
+g)
 
-h) 88. § (2) bekezdés 11. pontja,
+h)
 
-i) 88. § (2) bekezdés 12. pontja,
+i)
 
-j) 88. § (2) bekezdés 18. pontja,
+j)
 
-k) 88. § (2) bekezdés 29. pontja.
+k)

@@ -1,1 +1,1 @@
-8. § A Kkt. 24/A. § (2) bekezdésében az „A jármű forgalomba helyezés előtti és időszakos vizsgálata” szövegrész helyébe az „A jármű honosítási eljárása, forgalomba helyezés előtti és időszakos vizsgálata” szöveg lép.
+8. §
