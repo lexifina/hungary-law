@@ -1,0 +1,9 @@
+# 336/2020. (VII. 23.) KE határozat
+
+bírói kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-336-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-07-23 | 2020-336-30-76.1 | 336/2020. (VII. 23.) KE határozat |
