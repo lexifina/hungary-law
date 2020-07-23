@@ -1,3 +1,3 @@
-## 3. § Az R. 4. §-a a következő (6b) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(6b) Nyaralóhajó-szálláshely üzemeltetési tevékenység csak olyan szálláshelyen folytatható, amely megfelel az 1. melléklet 8/A. részében foglalt követelményeknek.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

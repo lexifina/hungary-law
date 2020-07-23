@@ -1,5 +1,3 @@
-## 6. § Az R. 14. § (2) bekezdése a következő h) ponttal egészül ki:
+## 6. §[^7]
 
-## [Az (1) bekezdés b) pontja szerinti pénzbírság összege]
-
-## „h) nyaralóhajó esetében 100 ezer Ft.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
