@@ -56,8 +56,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2018. december 31.
 
-9. felhívja a földművelésügyi minisztert, hogy a Stratégia végrehajtásáról háromévente készítsen jelentést a Kormány részére.
+9.[^1]
 
-Felelős: földművelésügyi miniszter
-
-Határidő: első alkalommal 2020. június 30.
+[^1]: A 9. pontot az 1428/2020. (VII. 23.) Korm. határozat 7. pontja visszavonta.
