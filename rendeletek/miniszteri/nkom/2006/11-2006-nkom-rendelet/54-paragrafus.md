@@ -2,6 +2,6 @@
 
 54. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^8]
+(2)–(3)[^10]
 
-[^8]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 1. pontja hatályon kívül helyezte.
+[^10]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 38. §-ának 1. pontja hatályon kívül helyezte.
