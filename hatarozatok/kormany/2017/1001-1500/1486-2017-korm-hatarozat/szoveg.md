@@ -46,12 +46,7 @@ Határidő: az a) alpont tekintetében a felmerülés üteméhez igazodóan a b)
 
 9. felkéri a Magyar Lovassport Szövetség elnökét, hogy tegye meg a szükséges intézkedéseket a 7. pontban foglalt rendezvény részletes programjának kidolgozása érdekében;
 
-10. felhívja az emberi erőforrások miniszterét és a földművelésügyi minisztert, hogy a 7. pontban foglalt rendezvény részletes programjának kidolgozását követően gondoskodjanak annak a Kormány részére történő bemutatásáról.
-
-Felelős: emberi erőforrások minisztere
-
-földművelésügyi miniszter
-
-Határidő: az Európai Lovas Játékok részletes programjának kidolgozását követően azonnal
+10.[^2]
 
 [^1]: Az 1. pontot az 1676/2018. (XII. 13.) Korm. határozat 7. pontja visszavonta.
+[^2]: A 10. pontot az 1426/2020. (VII. 23.) Korm. határozat 2. pontja visszavonta.
