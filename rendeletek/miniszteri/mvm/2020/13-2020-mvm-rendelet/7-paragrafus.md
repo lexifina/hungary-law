@@ -1,0 +1,3 @@
+7. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Szügy (Nógrád megye), Mikszáth Kálmán utca 10. szám alatti, telekalakítás következtében a 201 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy részleges értékvesztés miatt a védelem céljának nem felel meg – megszüntetem.
+
+(2) Az (1) bekezdésben szereplő ingatlan általános műemléki védettségét továbbra is fenntartom, tekintettel az azon található, a közhiteles műemléki nyilvántartásban 6834 azonosító számon nyilvántartott, az 1830 körül épült klasszicista Beniczky-kúria fennmaradt tömegalakítás, műformák, homlokzattagolás és az épület kertben történő elhelyezkedése miatti műemléki értékeire, eszmei és történeti jelentőségére.

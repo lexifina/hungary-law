@@ -1,0 +1,3 @@
+1. § (1) Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 11/2006. (V. 9.) NKÖM rendelet (a továbbiakban: R.1.) 10. § (1) bekezdésével védetté nyilvánított Budapest VI. kerület, Ó utca 14. szám alatti, 29190 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy az a műemlékké nyilvánítás céljának nem felel meg – megszüntetem.
+
+(2) Az (1) bekezdésben szereplő ingatlan általános műemléki védettségét továbbra is fenntartom, tekintettel az ingatlanon található, a közhiteles műemléki nyilvántartásban 11763 azonosító számon nyilvántartott klasszicista lakóház fennmaradt műemléki, építészeti és településtörténeti értékeire, utcai és udvari architektúrájára, a pince és a földszint boltozott helyiségeire.
