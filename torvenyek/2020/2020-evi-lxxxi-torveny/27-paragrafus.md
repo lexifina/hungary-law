@@ -1,7 +1,1 @@
-27. § A Vatv. 5. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A vagyonkezelő alapítvány alapítója az alapító okiratban az alapítói jogok gyakorlására az alapítvány kuratóriumát, a nem közérdekű vagyonkezelő alapítvány alapítója pedig a kuratórium helyett a 7. § szerinti alapítványi vagyonellenőrt is kijelölheti, vagy ha alapítói jogait az alapító okiratban fenntartotta vagy abban arról nem rendelkezett, e jogait az alapítványra átruházhatja. Az alapító az alapító okiratban úgy is rendelkezhet, hogy alapítói jogai a halála, jogutód nélküli megszűnése vagy az alapító okiratban meghatározott feltétel bekövetkezése esetén az alapítványra szállnak.
-
-(2) A kuratórium vagy az alapítványi vagyonellenőr az alapítói jogokat egyes ügyekben az e törvényben meghatározott módon gyakorolja.
-
-(3) Ha az alapítói jogokat a kuratórium gyakorolja, az alapító okirat eltérő rendelkezése hiányában az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének kijelöléséről – e tisztségek bármely okból bekövetkező megüresedése esetén – a kuratórium a felügyelőbizottsággal együttesen határoz akként, hogy a döntéshez a megüresedő tisztség által érintett testületi szerv tagjai többségének szavazata is szükséges. Az alapító okirat az e kérdésben való döntéshozatalhoz további minősített többséget is előírhat. Ha az alapítói jogokat az alapítványi vagyonellenőr gyakorolja, az alapító okirat eltérő rendelkezése hiányában az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének kijelöléséről – e tisztségek bármely okból bekövetkező megüresedése esetén – a kuratórium és a felügyelőbizottság véleményének kikérését követően az alapítványi vagyonellenőr dönt.”
+27. §

@@ -1,3 +1,1 @@
-29. § A Vatv. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha vagyonkezelő alapítvány esetén az alapító az alapítói jogok gyakorlására a kuratóriumot jelölte ki, illetve e jogait az alapítványra ruházta át, az alapító az alapító okiratban alapítványi vagyonellenőrt is köteles kijelölni abból a célból, hogy e jogok gyakorlását és az alapítvány – alapító okiratban meghatározott céljainak megfelelő – vagyongazdálkodását az alapítvány ellenőrző szervétől függetlenül figyelemmel kísérje. Ha nem közérdekű vagyonkezelő alapítvány alapítója a kuratórium helyett az alapítványi vagyonellenőrt jelölte ki az alapítói jogok gyakorlására, felügyelőbizottság kijelölése kötelező.”
+29. §
