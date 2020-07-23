@@ -10,13 +10,13 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2020. december 31.
 
-2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket az 1. pontban meghatározott ingatlanoknak a Thália Színház Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonkezelésbe adása érdekében;
+2.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket az 1. pontban meghatározott ingatlanoknak a Thália Színház Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonkezelésbe adása érdekében;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 emberi erőforrások minisztere
 
-Határidő: az 1. pontban foglaltak teljesülését követő 30 napon belül
+Határidő: az 1. pontban megjelölt ingatlanok állami tulajdonba kerülését követő 60 napon belül
 
 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket az Önkormányzat tulajdonában álló Budapest XIV. kerület belterület 29753 hrsz. számú, természetben az Állatkerti körút 14–16. szám alatti ingatlan délnyugati területének a Lovarda épületével és a kapcsolódó földrészlettel, továbbá a 29732/9 hrsz. számú ingatlannak a fenti területtel határos délkeleti területrészének (a továbbiakban együtt: Lovarda) – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken – a magyar állam javára történő megvásárlása érdekében;
 
@@ -36,10 +36,13 @@ emberi erőforrások minisztere
 
 Határidő: a 3. pontban foglaltak teljesülését követő 30 napon belül
 
-5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával készítsen előterjesztést a Kormány részére az 1. és 3. pontban foglaltak végrehajtása érdekében szükséges források biztosítása tárgyában.
+5.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával készítsen előterjesztést a Kormány részére az 1. és 3. pontban foglaltak végrehajtása érdekében szükséges források biztosítása tárgyában.
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 emberi erőforrások minisztere
 
-Határidő: 2020. május 31.
+Határidő: 2020. szeptember 1.
+
+[^1]: A 2. pont az 1433/2020. (VII. 23.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1433/2020. (VII. 23.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
