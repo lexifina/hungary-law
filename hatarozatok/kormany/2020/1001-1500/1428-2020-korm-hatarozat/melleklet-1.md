@@ -40,8 +40,11 @@
 
 ## Határidő: azonnal
 
-## 6. visszavonja a Zrínyi 2026 Honvédelmi és Haderőfejlesztési Program keretében megvalósuló katonai szállítórepülő képesség kialakításával kapcsolatos feladatokról és a szükséges források biztosításáról szóló 1040/2018. (II. 13.) Korm. határozatot;
+## 6.[^1]
 
-## 7. visszavonja a 2017–2026 közötti időszakra vonatkozó Nemzeti Tájstratégiáról szóló 1128/2017. (III. 20.) Korm. határozat 9. pontját.
+## 7.[^2]
 
 1. melléklet az 1428/2020. (VII. 23.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
