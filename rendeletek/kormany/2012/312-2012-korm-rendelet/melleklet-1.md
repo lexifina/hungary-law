@@ -84,4 +84,6 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 32. Közterületen, filmforgatáshoz kapcsolódó építmény építése.
 
-[^412]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+33. A lakó rendeltetést bemutató épület építése, amely a nemzetközi innovációs házépítő verseny keretében vagy kutatási, kiállítási célból valósul meg.
+
+[^412]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
