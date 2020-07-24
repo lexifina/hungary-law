@@ -1,1 +1,3 @@
-## 5. § Az 1. § (1) bekezdésében meghatározott ingatlanon a Beruházással összefüggésben bontási tevékenység bontási engedély nélkül végezhető, továbbá a versenyzők által megvalósítandó azon építmények – amelyek elbontására a verseny eredményhirdetését követő 180 napon belül sor kerül – építési engedély, valamint egyszerű bejelentés és kivitelezési dokumentáció nélkül építhetők.
+## 5/A. §[^2] Az 5. §-ban meghatározott építmény az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság állékonyságot és tűzbiztonságot igazoló szakértői véleménye birtokában, hatósági engedély nélkül fennmaradhat.
+
+[^2]: Az 5/A. §-t a 357/2020. (VII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.

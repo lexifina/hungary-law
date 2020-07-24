@@ -1,0 +1,1 @@
+## 5. § Az 1. § (1) bekezdésében meghatározott ingatlanon a Beruházással összefüggésben bontási tevékenység bontási engedély nélkül végezhető, továbbá a versenyzők által megvalósítandó azon építmények – amelyek elbontására a verseny eredményhirdetését követő 180 napon belül sor kerül – építési engedély, valamint egyszerű bejelentés és kivitelezési dokumentáció nélkül építhetők.

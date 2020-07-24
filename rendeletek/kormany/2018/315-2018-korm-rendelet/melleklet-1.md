@@ -1,8 +1,8 @@
-## 7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^3] E rendeletnek az egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 357/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5/A. §-át a Módr. hatálybalépésekor[^4] már meglévő épületek esetében is alkalmazni kell.
 
 1. melléklet a 315/2018. (XII. 27.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági eljárások,
 
@@ -47,3 +47,6 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 8. §-t a 357/2020. (VII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^4]: A hatálybalépés időpontja 2020. július 24.
