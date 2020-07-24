@@ -28,7 +28,7 @@ b) a jelölt hozzátartozója, vagy
 
 c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okból nem várható el.
 
-Az összeférhetetlenség fennállásáról a jelölt vagy a szakvizsga bizottság érintett tagjának kérelmére az ÁEEK főigazgatója dönt. Ha az ÁEEK főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (2) bekezdés szerinti módon gondoskodik.
+## Az összeférhetetlenség fennállásáról a jelölt vagy a szakvizsga bizottság érintett tagjának kérelmére az ÁEEK főigazgatója dönt. Ha az ÁEEK főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (2) bekezdés szerinti módon gondoskodik.
 
 (7)[^91] Egyetem munkavállalója vagy alkalmazottja a közvetlen beosztottja szakvizsgáztatásában nem vehet részt.
 

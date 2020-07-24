@@ -12,7 +12,7 @@ b) az egyetem által lefolytatott személyes meghallgatás során elért pontok 
 
 c) az 1. melléklet szerint számított többletpontok
 
-összege.
+## összege.
 
 (2a)[^15] A (2) bekezdés b) pontja szerinti személyes meghallgatás szakmai anyaga az egyetemi képzés alatt oktatott szakmaspecifikus tárgyak ismeretanyaga.
 
@@ -24,7 +24,7 @@ b) személyes meghallgatás során legfeljebb 30 pont,
 
 c) többletpontként legfeljebb 10 pont
 
-adható.
+## adható.
 
 (4) A tanulmányi pontszám a következő részpontszámok összege:
 
