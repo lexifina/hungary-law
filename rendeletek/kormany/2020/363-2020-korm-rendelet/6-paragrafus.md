@@ -1,0 +1,3 @@
+## 5. § Hatályát veszti az R1. 1. § (1) bekezdésében az „– a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges egyes létesítmények építtetőjének kijelöléséről, valamint a toronyugrás céljából létesítendő óriás ugrótorony létesítését szolgáló ingatlanok meghatározásáról szóló 451/2015. (XII. 28.) Korm. rendelet 1. mellékletében foglalt táblázat 25. sorában meghatározott projektelem kivételével –” szövegrész.
+
+## 2. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosítása
