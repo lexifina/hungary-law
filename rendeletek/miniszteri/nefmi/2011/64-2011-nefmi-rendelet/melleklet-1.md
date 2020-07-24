@@ -2,7 +2,7 @@
 
 ## Folyamatos továbbképzés alapján megszerezhető legmagasabb pontértékek (továbbképzési pontok)
 
-1.[^28] Elméleti továbbképzési tanfolyamok
+1.[^30] Elméleti továbbképzési tanfolyamok
 
 1.1. Kötelező szintentartó továbbképzésen vagy a 4. § (1) bekezdés a) pontja szerinti minősített elméleti tanfolyamon való részvétel óránként 2 pont.
 
@@ -86,4 +86,4 @@ Az egyéni továbbképzés célja az adott szakterületen belül új szakmai ism
 
 A legmagasabb adható pontérték szakképesítésenként évente 30 pont.
 
-[^28]: Az 1. melléklet 1. pontja a 2/2013. (I. 2.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet 1. pontja a 2/2013. (I. 2.) EMMI rendelet 33. §-ával megállapított szöveg.
