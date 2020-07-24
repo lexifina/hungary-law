@@ -1,4 +1,4 @@
-2. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^9]
+2. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^12]
 
 A Beruházásokkal érintett ingatlanok
 
@@ -146,4 +146,4 @@ A Beruházásokkal érintett ingatlanok
 
 | 71. | Vecsési Egészségügyi Szolgálat: a) orvostechnológiai berendezések korszerűsítése, az ahhoz szükséges építési beruházás, b) informatikai rendszer modernizálása, az ahhoz szükséges építési beruházás. | Vecsés belterület 4918 belterület 1529 |
 
-[^9]: A 2. melléklet a 119/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított, a 143/2019. (VI. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^12]: A 2. melléklet a 119/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított, a 143/2019. (VI. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
