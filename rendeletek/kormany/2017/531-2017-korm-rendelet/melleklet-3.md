@@ -77,19 +77,3 @@
 24. a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet szerinti beruházás,
 
 25. az új budapesti konferencia-központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 267/2015. (IX. 14.) Korm. rendelet szerinti beruházás,
-
-26. a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet szerinti beruházás,
-
-27. a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet szerinti beruházás,
-
-28.[^2] a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 225/2018. (XI. 29.) Korm. rendelet szerinti beruházás.
-
-29. a Vasas Sport Club létesítményfejlesztési programjának megvalósítását szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet módosításáról szóló 198/2016. (VII. 13.) Korm. rendelet szerinti beruházás,
-
-30. a Magyar Állami Operaház korszerűsítését célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 249/2016. (VIII. 22.) Korm. rendelet szerinti beruházás,
-
-31. a büntetés-végrehajtási intézetek férőhely-bővítési programjához kapcsolódó, az új börtönépítési beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 268/2016. (VIII. 31.) Korm. rendelet szerinti beruházás,
-
-32. a Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet 1. § (1) bekezdés a) és b) pontja szerinti beruházás,
-
-[^2]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

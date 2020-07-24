@@ -1,4 +1,6 @@
-1. melléklet az 531/2017. (XII. 29.) Korm. rendelethez[^1]
+## 7. §[^4] E rendeletnek a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 363/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
+
+1. melléklet az 531/2017. (XII. 29.) Korm. rendelethez[^6]
 
 Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóságok
 
@@ -1212,4 +1214,6 @@ Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóság
 
 |  | 69. | a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (4) bekezdése, 27/A. § (6a) bekezdése, valamint a 66. § (6) bekezdése szerinti hatósági nyilvántartásba vétellel és a hatósági nyilvántartás vezetésével kapcsolatos eljárások | egyéb, a 68. pontba nem tartozó szakképzés tartalma | Amennyiben a kérelem elbírálásához a 68. pontba nem tartozó, egyéb szakképzettség tartalmának meghatározása szükséges. | Oktatási Hivatal | – | – |
 
-[^1]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^4]: A 7. §-t a 363/2020. (VII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2020. július 24.
+[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
