@@ -1,4 +1,4 @@
-5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^32]
+5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^34]
 
 ## Gyógyszerészi alap-szakképzési programok
 
@@ -1020,4 +1020,4 @@ j) kötelező tanfolyamok, elemei: nukleáris medicina, sugárvédelem, sugárte
 
 Részvétel szakvizsga előkészítő tanfolyamon.
 
-[^32]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^34]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a szerint módosított szöveg.
