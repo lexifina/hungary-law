@@ -1,3 +1,3 @@
-## 48. §[^217]
+## 48. §[^218]
 
-[^217]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^218]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
