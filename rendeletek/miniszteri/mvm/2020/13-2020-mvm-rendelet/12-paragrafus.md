@@ -1,1 +1,3 @@
-## „(2) Műemléki környezetnek a 2023/4, 2023/23, 2023/24 és 2025/1 helyrajzi számú ingatlanokat, a 2023/18 helyrajzi számú útnak az ezen ingatlanok által érintett szakaszát, valamint a 2023/30 helyrajzi számú ingatlannak a műemléki védelem alatt álló ingatlanrészen kívüli területét jelölöm ki.”
+## 11. §[^1]
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
