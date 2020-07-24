@@ -26,8 +26,6 @@ emberi erőforrások minisztere
 
 Határidő: 2020. szeptember 1.
 
-4. egyetért azzal, hogy a Korm. határozat
+4.[^1]
 
-a) 2. pontjában meghatározott „az 1. pontban foglaltak teljesülését követő 30 napon belül” határidő „az 1. pontban megjelölt ingatlanok állami tulajdonba kerülését követő 60 napon belül” határidőre módosul;
-
-b) 5. pontjában meghatározott 2020. május 31-ei határidő 2020. szeptember 1. napjára módosul.
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
