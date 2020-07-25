@@ -740,7 +740,7 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^373]
+1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^375]
 
 A gépjármű és pótkocsija közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészeinek és tartozékainak minősítési követelményei
 
@@ -768,4 +768,4 @@ tekintetében meghatározott minősítési követelményeknek.
 
 7. Az e melléklet szerinti minősítési követelmények vizsgálatát a jogszabályban meghatározott vagy egyéb vonatkozó kötelező előírás – így különösen ENSZ-EGB előírás – szerint kell elvégezni. Kötelező előírás hiányában a vizsgálatot a vonatkozó szabvány betartásával vagy attól részben vagy teljesen eltérő módon kell elvégezni, ha a vizsgálat egyenértékűségét a kérelmező igazolja. Az előzőek hiányában összehasonlító vizsgálatot kell végezni a gépjármű és pótkocsija gyártása (gyári szerelése) során beépített alkatrész és a pótalkatrész között, azzal, hogy a működésmód és paraméterek vizsgálatánál a helyes működést tanúsító jellemző adatokat ilyen esetben műszeres próbapadi vagy üzemi összehasonlító vizsgálattal kell ellenőrizni.
 
-[^373]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
+[^375]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.

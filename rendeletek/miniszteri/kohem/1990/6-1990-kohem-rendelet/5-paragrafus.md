@@ -66,6 +66,8 @@ f) [^51] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatot
 
 (13) [^57] Az energiahatékonyság – különösen a vezetőfülkék aerodinamikai teljesítményét illető – javítása és a közúti közlekedés biztonságának növelése céljából túl lehet lépni a (3) bekezdés, valamint a (4) bekezdés a) és b) pontjában meghatározott legnagyobb hosszúságokat azon járművek és jármű-kombinációk esetében, amelyek megfelelnek az ER. A. Függelékének, amennyiben vezetőfülkéjük jobb aerodinamikai, energiahatékonysági és biztonsági teljesítményt biztosít. Az ilyen vezetőfülkével felszerelt járműveknek vagy jármű-kombinációknak meg kell felelniük a 34. § (1) bekezdésében foglaltaknak.
 
+(14) [^58] A járművek hátuljára szerelt aerodinamikai eszközöket a (10)–(13) bekezdésben meghatározottak szerint, a járművek hátuljára szerelt aerodinamikai eszközöknek a 96/53/EK tanácsi irányelv szerinti használatára vonatkozó részletes rendelkezések megállapításáról szóló, 2019. november 15-i (EU) 2019/1916 bizottsági végrehajtási rendelet 3. cikkében előírt műszaki használati feltételeknek megfelelően kell alkalmazni.
+
 [^45]: Az 5. § (1) bekezdése az 1/2018. (I. 18.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^46]: Az 5. § (3) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^47]: Az 5. § (4) bekezdése a 23/2012. (V. 8.) NFM rendelet 2. §-ával megállapított szöveg.
@@ -79,3 +81,4 @@ f) [^51] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatot
 [^55]: Az 5. § (11) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
 [^56]: Az 5. § (12) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
 [^57]: Az 5. § (13) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^58]: Az 5. § (14) bekezdését a 29/2020. (VII. 17.) ITM rendelet 5. §-a iktatta be.
