@@ -98,29 +98,13 @@ c)[^179] a (6) bekezdésben előírt bejelentési kötelezettség teljesítésé
 
 (9) A felfüggesztés a (8) bekezdés c) pontjában meghatározott esetben a felfüggesztést megalapozó okok megszüntetéséig, de legfeljebb hat hónapig tarthat.
 
-(9a)[^180] A műszaki vizsgabiztos részére a Nyilvántartásba vételt követően a közlekedési hatóság igazolványt állít ki.
+(9a)[^180]
 
-(9b)[^181] Az igazolvány tartalmazza:
+(9b)[^181]
 
-a) az igazolvány és az igazolvány kiállítójának megnevezését,
+(9c)[^182]
 
-b) az igazolvány érvényességét,
-
-c) az igazolvány számát,
-
-d) a vizsgabiztos nevét, valamint
-
-e) a vizsgabiztos azonosító számát.
-
-(9c)[^182] A közlekedési hatóság
-
-a) az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén,
-
-b) amennyiben a műszaki vizsgabiztos teljesítette a továbbképzési vizsgakötelezettségét,
-
-## kérelemre igazolványt állít ki.
-
-(9d)[^183] A műszaki vizsgabiztos vizsgáztatás közben köteles jól láthatóan magánál tartani a műszaki vizsgabiztosi igazolványát.
+(9d)[^183]
 
 (10) A vizsgabiztosok szakmai képzésének szabályait a 12. számú melléklet tartalmazza.
 
@@ -139,7 +123,7 @@ b) amennyiben a műszaki vizsgabiztos teljesítette a továbbképzési vizsgakö
 [^177]: A 12/A. § (7) bekezdés g) pontját a 71/2013. (XII. 2.) NFM rendelet 3. § (3) bekezdése iktatta be.
 [^178]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.
 [^179]: A 12/A. § (8) bekezdés c) pontja a 71/2013. (XII. 2.) NFM rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^180]: A 12/A. § (9a) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be.
-[^181]: A 12/A. § (9b) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be.
-[^182]: A 12/A. § (9c) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be.
-[^183]: A 12/A. § (9d) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be.
+[^180]: A 12/A. § (9a) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 29/2020. (VII. 17.) ITM rendelet 4. § a) pontja.
+[^181]: A 12/A. § (9b) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 29/2020. (VII. 17.) ITM rendelet 4. § a) pontja.
+[^182]: A 12/A. § (9c) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 29/2020. (VII. 17.) ITM rendelet 4. § a) pontja.
+[^183]: A 12/A. § (9d) bekezdését a 71/2013. (XII. 2.) NFM rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 29/2020. (VII. 17.) ITM rendelet 4. § a) pontja.

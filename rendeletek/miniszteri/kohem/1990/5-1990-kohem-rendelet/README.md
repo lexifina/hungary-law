@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2019-06-26 | 1990-5-20-5E.90 | 15/2019. (VI. 18.) ITM rendelet |
 | 2019-10-21 | 1990-5-20-5E.91 | 11/2000. (V. 24.) KHVM rendelet |
 | 2020-06-12 | 1990-5-20-5E.92 | 15/2020. (VI. 4.) ITM rendelet |
+| 2020-07-25 | 1990-5-20-5E.93 | 71/2013. (XII. 2.) NFM rendelet |

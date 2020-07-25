@@ -6,9 +6,9 @@
 
 2–3.[^345]
 
-4.[^346] a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2004. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelvnek,
+4.[^346] a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2004. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelvnek és helyesbítésének,
 
-5.[^347] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
+5.[^347] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek és helyesbítésének,
 
 6. az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és a tanácsi irányelv 8. cikk (3) és (4) bekezdésének,
 
@@ -136,8 +136,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^343]: A 31. §-t a 12/1998. (V. 22.) KHVM rendelet 19. §-a iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 6. §-ával megállapított szöveg.
 [^344]: A 31. § (1) bekezdés 1. pontja a 28/2018. (XI. 15.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^345]: A 31. § (1) bekezdés 2–3. pontját a 26/2016. (VII. 22.) NFM rendelet 7. § b) pontja hatályon kívül helyezte.
-[^346]: A 31. § (1) bekezdés 4. pontja a 2/2018. (II. 5.) NFM rendelet 9. §-ával megállapított szöveg.
-[^347]: A 31. § (1) bekezdés 5. pontja a 2/2018. (II. 5.) NFM rendelet 9. §-ával megállapított szöveg.
+[^346]: A 31. § (1) bekezdés 4. pontja a 29/2020. (VII. 17.) ITM rendelet 1. §-ával megállapított szöveg.
+[^347]: A 31. § (1) bekezdés 5. pontja a 29/2020. (VII. 17.) ITM rendelet 1. §-ával megállapított szöveg.
 [^348]: A 31. § (1) bekezdés 8. pontját az 1/2018. (I. 18.) NFM rendelet 2. §-a iktatta be.
 [^349]: A 31. § (2) bekezdés 1. pontja a 62/2011. (XI. 29.) NFM rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^350]: A 31. § (2) bekezdés 2. pontja a 44/2014. (X. 31.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.

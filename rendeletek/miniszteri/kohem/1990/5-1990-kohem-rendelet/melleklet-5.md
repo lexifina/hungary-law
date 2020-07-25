@@ -202,7 +202,7 @@ d) a vizsgáló által vezérelt, gépi működtetésű futómű mozgatóval (mo
 
 A légfékes, 3,5 tonna megengedett legnagyobb össztömeget meghaladó, nemzetközi forgalomban használt autóbuszok (M2 és M3 járműkategóriába tartozó gépkocsik) műszaki vizsgálatához alkalmazandó mérő-adatgyűjtő berendezésre vonatkozó további, részletes műszaki jellemzőket, a légfékrendszer vizsgálati technológiáját és a vizsgálati eredmények egységes értékelési módszerét szakmai iránymutatás keretében a közlekedésért felelős miniszter állapítja meg.
 
-1.7. Kerék- vagy tengelyterhelést mérő készülék a tengelyterhelések meghatározására, és azok adattovábbítására (hitelesítésre nem kötelezett, akkreditált kalibráló szervezet által kalibrált, legalább 2% mérési pontosságú).
+1.7.
 
 1.8. A tengelyfelfüggesztést a tengely megemelése nélkül vizsgáló készülék (Futómű-mozgató pad), amely megfelel az alábbi követelményeknek:
 
@@ -442,4 +442,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^407]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja szerint módosított szöveg.
+[^407]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) szerint módosított szöveg.
