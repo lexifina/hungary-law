@@ -1,3 +1,3 @@
-## 2. § Az R1. a következő 4. §-sal egészül ki:
+## 2. §[^3]
 
-## „4. § A Beruházás során létesülő felszíni várakozó- és parkolóhelyek tekintetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 42. § (7) bekezdését – repülésbiztonsági okokra figyelemmel – nem kell alkalmazni.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
