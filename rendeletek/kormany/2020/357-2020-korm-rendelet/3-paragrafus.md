@@ -1,3 +1,0 @@
-## 2. § A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R1.) 26/B. §-a a következő (1c) bekezdéssel egészül ki:
-
-## „(1c) A polgármester nem folytat le településképi bejelentési eljárást az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött kutatási, vizsgálati, kiállítási célt szolgáló és lakó rendeltetést bemutató épület építése esetében.”
