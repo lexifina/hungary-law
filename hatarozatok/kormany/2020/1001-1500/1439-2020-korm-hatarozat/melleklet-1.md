@@ -18,15 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont fac) alpontjában a „153,00%-áig” szövegrész helyébe a „154,21%-áig” szöveg,
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „192,778” szövegrész helyébe a „194,298” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:93 mezőjében a „22,50” szövegrész helyébe a „24,02” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1439/2020. (VII. 23.) Korm. határozathoz
 
@@ -39,3 +31,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az Európai Unió (a továbbiakban: EU) felé el nem számolható általános forgalmi adó (a továbbiakban: ÁFA) finanszírozását szolgáló forrása (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP-3.2.0-15-2016-0001 | Szabadbattyán – Tapolca – Keszthely villamos üzem kiépítése a Balaton körül I. ütem (Szabadbattyán – Balatonfüred) és a II. ütem előkészítése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 100% | 22 500 000 000 | – | 6 036 792 797 | – | 100% | +1 520 000 000 | 0 | +410 400 000 | 0 | 100% | 24 020 000 000 | – | 6 447 192 797 | – | 30 467 192 797 | Szabadbattyán–Tapolca–Keszthely villamos üzem kiépítése a Balaton körül I. ütem (Szabadbattyán–Balatonfüred) előkészítése és kivitelezése és a II. ütem előkészítése |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
