@@ -1,5 +1,5 @@
-## 7. §[^7]
+## 7. §[^8]
 
 ## 2. Az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló 40/2017. (XII. 27.) MvM rendelet módosítása
 
-[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
