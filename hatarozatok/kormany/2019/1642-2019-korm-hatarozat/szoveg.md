@@ -2,6 +2,12 @@ A Kormány a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda 
 
 1. egyetért a szegedi kézilabdacsarnok (a továbbiakban: Beruházás) előkészítésével és megvalósításával, a 2019. évben Budapesten zajló World Urban Games sportesemény és a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges egyes létesítmények megvalósítását szolgáló kiemelten közérdekű beruházások helyszínének meghatározásáról szóló 63/2019. (III. 27.) Korm. rendelet 2. melléklet II. pontjában foglalt táblázat B:2 mezőjében megjelölt ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
+1/A.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 7. §-a alapján – a Beruházási Ügynökség útján, Szeged Megyei Jogú Város Önkormányzatával együttműködve – gondoskodjon az ingatlan-nyilvántartás szerinti Szeged belterület 10005/3 helyrajzi számú ingatlan tulajdonjogának a magyar állam javára, polgári jogi úton történő ingyenes, per-, teher- és igénymentes – ide nem értve az ingatlanon fennálló vezetékjogot – megszerzése iránt;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+Határidő: azonnal
+
 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 35 812 958 063 forintban határozza meg;
 
 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímet a 13. Szegedi kézilabdacsarnok jogcímcsoporttal egészíti ki;
@@ -36,6 +42,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
 
-7.[^1]
+7.[^2]
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1/A. pontot az 1448/2020. (VII. 28.) Korm. határozat pontja iktatta be.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
