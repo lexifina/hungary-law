@@ -24,7 +24,11 @@ j) a Veszprém Megyei Büntetés-végrehajtási Intézet
 
 területén a fogvatartottak átmeneti elhelyezését biztosító férőhelyek kialakítására irányuló elképzeléssel;
 
-2. felhívja a pénzügyminisztert, hogy a belügyminiszter bevonásával gondoskodjon az 1. pont szerinti feladatok végrehajtásához szükséges egyszeri forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 5. Büntetés-végrehajtás cím javára – a kifizetéshez kapcsolódó kincstári díjakkal együtt – legfeljebb 30 000 000 000 forint összegben;
+2.[^1] felhívja a pénzügyminisztert, hogy a belügyminiszter bevonásával gondoskodjon az 1. pont szerinti feladatok végrehajtásához szükséges
+
+a) forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 5. Büntetés-végrehajtási cím javára legfeljebb 29 890 000 000 forint összegben,
+
+b) egyszeri forrás biztosításáról a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet javára legfeljebb 110 000 000 forint összegben;
 
 Felelős: pénzügyminiszter
 
@@ -41,3 +45,5 @@ Határidő: a felmerülés ütemében
 Felelős: belügyminiszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont az 1451/2020. (VII. 28.) Korm. határozat 2. pontjával megállapított szöveg.
