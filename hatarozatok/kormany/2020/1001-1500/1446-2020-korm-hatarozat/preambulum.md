@@ -1,0 +1,1 @@
+A Kormány a Közbeszerzési és Ellátási Főigazgatóság által a fővárosi és megyei kormányhivatalok részére nyújtott őrzés-védelmi és recepciós, valamint takarítási szolgáltatások ellátásával összefüggésben
