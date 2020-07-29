@@ -6,4 +6,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 3. felhívom a külgazdasági és külügyminisztert, valamint az igazságügyi minisztert, hogy a Módosító Megállapodás kihirdetéséről szóló kormányrendelet tervezetét a Módosító Megállapodás szövegének végleges megállapítását követően haladéktalanul terjesszék a Kormány elé;
 
-4. visszavonom a Magyarország Kormánya és a Koszovói Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló megállapodás végleges szövegének megállapítására adott felhatalmazásról szóló 113/2019. (X. 16.) ME határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
