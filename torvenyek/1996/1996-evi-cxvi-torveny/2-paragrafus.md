@@ -96,7 +96,7 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 
 39. radiológiai következmények szempontjából jelentős rendszer és rendszerelem: azon, nukleáris anyag vagy más radioaktív anyag alkalmazásával, feldolgozásával és tárolásával összefüggő rendszerek és rendszerelemek, amelyek rongálása rendkívüli esemény bekövetkezésével jár vagy járhat.
 
-40. átmeneti tárolás: a kiégett üzemanyag és a radioaktív hulladék környezettől elszigetelt átmeneti tárolása az erre a célra szolgáló létesítményben a későbbi visszanyerés vagy – később meghozandó döntés alapján – későbbi végleges elhelyezés céljából;
+40. átmeneti tárolás: a kiégett üzemanyag és a radioaktív hulladék környezettől elszigetelt átmeneti tárolása az erre a célra szolgáló létesítményben a későbbi visszanyerés vagy – később meghozandó döntés alapján – későbbi végleges elhelyezés céljából, a végleges elhelyezést szolgáló létesítményben;
 
 41. kiégett üzemanyag kezelése: a kiégett üzemanyag mozgatásával, átmeneti tárolásával, újrafeldolgozásával, továbbá végleges elhelyezésével összefüggő valamennyi tevékenység, a telephelyen kívüli szállítás kivételével;
 

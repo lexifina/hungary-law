@@ -60,6 +60,8 @@ g) a létesítményi biztosítéki felügyelő neve és elérhetősége.
 
 (7) Saját magára vonatkozóan valamennyi, radioaktív és nukleáris anyaggal rendelkező és adatszolgáltatásra kötelezett személy vagy szervezet adatot igényelhet a radioaktív és a nukleáris anyagok nyilvántartásából. A rendőrség a bűncselekmények megakadályozása, felderítése, a közbiztonság, a közrend és az államhatár rendjének védelme céljából, a nemzetbiztonsági szolgálatok a nemzetbiztonsági ellenőrzéssel összefüggő feladatok ellátása céljából, az egészségügyi államigazgatási szerv a közegészségügyi feladatai ellátása céljából, a nukleárisbaleset-elhárításra jogszabály alapján kijelölt országos és területi szervek a rendkívüli események kezelésére való felkészülés céljából, az ügyészség és a nyomozó hatóság büntetőeljárás lefolytatása céljából, a bíróság a büntetőeljárás lefolytatása, büntetés és intézkedés végrehajtása, továbbá polgári perben a tényállás megállapítása céljából – térítésmentesen – adatokat, beleértve a (4) bekezdésben meghatározott adatokat is, igényelhet a központi nyilvántartásból. A központi nyilvántartás adatai statisztikai célokra felhasználhatók.
 
+(7a) Az atomenergia-felügyeleti szerv megkeresésére a Nemzeti Adó- és Vámhivatal megküldi a vámtitkot, ha az atomenergia-felügyeleti szerv engedélyezési, ellenőrzési, felügyeleti, nyilvántartási feladatának ellátásához szükséges.
+
 (8) A radioaktív anyagok – és ezen belül elkülönítetten a nukleáris anyagok – nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás részletes szabályait jogszabály állapítja meg.
 
 (9)–(14)

@@ -252,11 +252,13 @@ BM Országos Katasztrófavédelmi Főigazgatóság
 
 |
 
-Nukleáris létesítmény építése (bontása) és használatbavétele esetén, ha annak katasztrófavédelmi vonzata van.
+Nukleáris létesítmény építése (bontása) és használatbavétele esetén, ha annak tűzvédelmi vagy katasztrófavédelmi vonzata van.
 
 |
 
-A nukleáris létesítményre, a nukleáris létesítmény rendszereire, rendszerelemeire vonatkozó katasztrófavédelmi követelményeknek való megfelelés vizsgálata.
+A nukleáris létesítményre,
+
+a nukleáris létesítmény rendszereire, rendszerelemeire vonatkozó tűz- és katasztrófavédelmi követelményeknek való megfelelés vizsgálata.
 
 |
 
