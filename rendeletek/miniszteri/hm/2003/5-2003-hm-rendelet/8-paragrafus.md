@@ -4,44 +4,6 @@
 
 (2) A (3) bekezdés szerinti tantárgyakat összesen legalább 32 órában kell oktatni.
 
-(3) Az elméleti alapismeretek főbb tanulmányi területei az együttes rendelet szakterületenként előírt tantárgyainak figyelembevételével:
+(3)[^7] Az állami célú légiközlekedés szakszemélyzete szakszolgálati engedélyeinek az elméleti vizsgára előírt tárgyait szakterületenként az állami célú légiközlekedés szakszemélyzetének szakszolgálati engedélyeiről szóló 16/1998. (X. 28.) HM–EüM együttes rendelet állapítja meg.
 
-A) a légiközlekedési szakszemélyzet és légiforgalmi irányítók részére:
-
-a) aerodinamika,
-
-b) léginavigáció,
-
-c) repülésmeteorológiai ismeretek,
-
-d) repülő-egészségügyi ismeretek,
-
-e) jogi ismeretek,
-
-f) típusismeret;
-
-B) a repülőműszaki földi szakszemélyzet részére:
-
-a) típusismeret azon szakterületen előírt tananyagból, amelyre az üzemeltető a pályázó részére szakszolgálati engedély kiadását kéri,
-
-b) repülőkiképzés és repülő harctevékenység biztosításának szabályai,
-
-c) javítási, beszabályozási, felújítási és minőségellenőrzési munkák ismerete,
-
-d) jogszabályok, szakutasítások ismerete;
-
-C) az ejtőernyősök részére:
-
-a) aerodinamikai alapismeretek,
-
-b) ejtőernyős ismeretek,
-
-c) egészségügyi ismeretek,
-
-d) ejtőernyőzés elmélete, vészhelyzetek ismerete,
-
-e) meteorológiai alapismeretek,
-
-f) jogszabályok, szakutasítások ismerete,
-
-g) biztosító készülékek, műszerek ismerete.
+[^7]: A 8. § (3) bekezdése a 12/2020. (VII. 21.) HM rendelet 7. §-ával megállapított szöveg.
