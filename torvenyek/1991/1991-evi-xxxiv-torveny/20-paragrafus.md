@@ -1,6 +1,6 @@
 20. § A sorsolásos játék fajtái:
 
-a) sorsjáték, (21. §)
+a) sorsjáték, (16. § és 21. §)
 
 b) számsorsjáték, (22. §)
 

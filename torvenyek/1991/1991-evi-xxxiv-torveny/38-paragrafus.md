@@ -22,6 +22,10 @@ részletes szabályait rendeletben állapítsa meg.
 
 (1b) Felhatalmazást kap a Kormány, hogy a szerencsejáték-felügyeleti hatóságot rendeletben kijelölje és e hatóság törvényben meghatározott feladatai végrehajtási szabályait rendeletben meghatározza.
 
+(1c) Felhatalmazást kap a Kormány, hogy a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó részletes eljárási szabályokat rendeletben állapítsa meg.
+
+(1d) Felhatalmazást kap a Kormány, hogy a 4. § (3a) bekezdés szerinti ajánlattételi eljárás, illetve koncessziós pályázat kiírását rendelettel kiemelt nemzetgazdasági érdeknek minősítse.
+
 (2) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy
 
 a) a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel,

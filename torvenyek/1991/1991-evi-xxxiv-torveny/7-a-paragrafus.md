@@ -1,6 +1,6 @@
 7/A. § (1) A szerencsejáték-felügyeleti hatóság szerencsejáték ügyben és – a koncessziós pályázati eljárás kivételével – az e törvény hatálya alá tartozó egyéb ügyben az e törvényben és a felelős játékszervezés részletes szabályairól szóló kormányrendeletben meghatározott eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló törvény szerint jár el.
 
-(2) Az (1) bekezdés szerinti ügyben az ügyfél kérelmére nincs helye az eljárás szünetelésének.
+(2)
 
 (2a) Az ügyfél személyes jelenléte nélkül nem lefolytatható, az (1) bekezdés szerinti ügyben – különösen a szerencsejáték-szervezői tevékenység engedélyezése, illetve a játékautomata-üzemeltetés bejelentése iránti eljárásban – a kapcsolattartási forma ügyfél által történő megválasztásának nincs helye.
 

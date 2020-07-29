@@ -56,7 +56,7 @@ c) a megszűnés időpontját (az adatkezelés határozott vagy határozatlan id
 
 (7)
 
-(7a) Ha jogszabály eltérően nem rendelkezik, a szervező a szerencsejáték-szervezéssel összefüggő, az e törvény, a felelős játékszervezés részletes szabályairól szóló kormányrendelet, valamint az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló miniszteri rendelet alapján rendelkezésére álló adatokat az adat keletkezésétől számított 6 évig köteles megőrizni és kérésre a szerencsejáték-felügyeleti hatóság részére – papír alapon, elektronikusan vagy adathordozó eszközön – hozzáférhetővé tenni.
+(7a) Ha jogszabály eltérően nem rendelkezik, a szervező a szerencsejáték-szervezéssel összefüggő, az e törvény, az e törvény végrehajtására kiadott jogszabály alapján rendelkezésére álló adatokat az adat keletkezésétől számított 6 évig köteles megőrizni és kérésre a szerencsejáték-felügyeleti hatóság részére – papír alapon, elektronikusan vagy adathordozó eszközön – hozzáférhetővé tenni.
 
 (7b) Az (5a) bekezdés b) pontjához kapcsolódó jelentős önkorlátozó nyilatkozat tételével és annak hatósági nyilvántartásával kapcsolatban a sérülékeny személyt igazgatási szolgáltatási díjfizetési kötelezettség nem terheli.
 

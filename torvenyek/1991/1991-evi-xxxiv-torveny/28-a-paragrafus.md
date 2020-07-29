@@ -2,12 +2,12 @@
 
 (2) Lóversenyfogadás kivételével totalizatőri rendszerű fogadást kizárólag az az állami játékszervező szervezhet, amely legalább 1 milliárd forint alap-(törzs-)tőkével rendelkezik és a fogadás szervezését megelőzően legalább 5 évig az e törvény hatálya alá tartozó szerencsejáték(ok) szervezésével foglalkozott.
 
-(3) A 29/H. § (2)–(3b) bekezdését a fogadás-szervezőre is alkalmazni kell.
+(3) A 24/A. § (2) bekezdését és a 29/H. § (2)–(3b) bekezdését a fogadásszervezőre is alkalmazni kell.
 
 (4) Fogadás esetén – a bukmékeri rendszerű fogadás kivételével – a fogadásszervező a fogadót megillető, de át nem vett nyereményeket nyeremények céljára köteles felhasználni. Az át nem vett nyeremények sorsolás útján is visszajuttathatók a fogadók részére, a sorsolásos játékok nyereményeire vonatkozó szabályok szerint. A bukmékeri rendszerű fogadás esetén az át nem vett nyereményekre e törvény 11. §-ának (8) bekezdése vonatkozik.
 
 (5) Lóversenyfogadás kivételével a bukmékeri rendszerű fogadás szervezéséhez a 3. § (1) bekezdésének a) pontjában szereplő jogi személynek legalább 1 milliárd forint alap- vagy törzstőkével és legalább ötéves szerencsejáték-szervezői gyakorlattal kell rendelkeznie. Lóversenyfogadás kivételével a bukmékeri rendszerű fogadásra kiírt koncessziós pályázat nyertese csak az a személy lehet, aki a pályázat kiírása előtt legalább öt évig az e törvény hatálya alá tartozó szerencsejáték szervezésével foglalkozott, és a bukmékeri rendszerű fogadási tevékenység folytatására legalább 1 milliárd forint alap- vagy törzstőkével rendelkező koncessziós társaságot alapít. Ha többen közösen nyújtanak be pályázatot, vagy olyan pályázó nyújt be pályázatot, amelynek egyik tagja (részvényese) a szavazatok többségével rendelkezik, a legalább ötéves szerencsejáték-szervezői gyakorlattal kapcsolatos feltételt elegendő, ha legalább a pályázók egyike vagy a szavazatok többségével rendelkező tag (részvényes) teljesíti.
 
-(6) Bukmékeri rendszerű fogadás esetén a koncesszió időtartama legfeljebb 20 év, a koncessziós díj mértéke évente legalább 200 millió forint, amely koncessziós díjat a 27. § (6) bekezdésében foglaltaknak megfelelően évente valorizálni kell. A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
+(6) Bukmékeri rendszerű fogadás esetén a koncessziós díj mértéke évente legalább 200 millió forint. A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.

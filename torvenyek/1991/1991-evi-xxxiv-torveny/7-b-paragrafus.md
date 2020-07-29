@@ -18,10 +18,10 @@ c) a költségvetést (gazdaságossági számítások tervezetét),
 
 d) a létesítő okiratot, és
 
-e) a szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó, a Vhr.-ben meghatározott egyéb okiratokat, adatokat.
+e) a szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó, jogszabályban meghatározott egyéb okiratokat, adatokat.
 
-(4) A kérelmező külföldi tényleges tulajdonosa, vezető tisztségviselője vagy tagja esetén a szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó, a Vhr.-ben meghatározott okiratokkal egyenértékű külföldi okiratot és annak alapjául szolgáló kérelmet, valamint ezek hiteles magyar nyelvű fordítását kell benyújtani.
+(4) A kérelmező külföldi tényleges tulajdonosa, vezető tisztségviselője vagy tagja esetén a szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó, jogszabályban meghatározott okiratokkal egyenértékű külföldi okiratot és annak alapjául szolgáló kérelmet, valamint ezek hiteles magyar nyelvű fordítását kell benyújtani.
 
-(5) A szerencsejáték-szervező tevékenység megkezdésekor a szervezőnek személyi megfelelősége megállapítása és hatósági bizonyítvány kiállítása iránt a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kérelmet kell benyújtania. A szervezőnek kérelméhez csatolnia kell a személyi megfelelőség igazolásához szükséges, a Vhr.-ben meghatározott okiratokat és adatokat, valamint a létesítő okiratot. A szerencsejáték-felügyeleti hatóság a személyi feltételek vizsgálatát követően a szervező személyi megfelelőségét az annak igazolásául szolgáló legkorábban kiállított okirat keltezésétől számított egy évig állapítja meg, valamint hatósági bizonyítványt állít ki, amely a kiállítás napjától egy évig érvényes.
+(5) A szerencsejáték-szervező tevékenység megkezdésekor a szervezőnek személyi megfelelősége megállapítása és hatósági bizonyítvány kiállítása iránt a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kérelmet kell benyújtania. A szervezőnek kérelméhez csatolnia kell a személyi megfelelőség igazolásához szükséges, jogszabályban meghatározott okiratokat és adatokat, valamint a létesítő okiratot. A szerencsejáték-felügyeleti hatóság a személyi feltételek vizsgálatát követően a szervező személyi megfelelőségét az annak igazolásául szolgáló legkésőbb kiállított okirat keltezésétől számított három évig állapítja meg, valamint hatósági bizonyítványt állít ki, amely a kiállítás napjától három évig érvényes.
 
-(6) A szervező személyi megfelelőségének ismételt megállapítására irányuló kérelméhez csatolnia kell a személyi megfelelőség igazolásához szükséges, a Vhr.-ben meghatározott iratokat, valamint a létesítő okiratot.
+(6) A szervező személyi megfelelőségének ismételt megállapítására irányuló kérelméhez csatolnia kell a személyi megfelelőség igazolásához szükséges, jogszabályban meghatározott iratokat, valamint a létesítő okiratot.

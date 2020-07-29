@@ -6,17 +6,11 @@
 
 (4) A szerencsejáték-felügyeleti hatóság az engedélyben meghatározza a játékkaszinó kategóriáját, helyét, működési, látogatási feltételeit, az egyes játékfajtákat, azok szabályait, az egyes játékoknál alkalmazható legmagasabb téteket, a tétek és a nyeremények arányát, valamint minden tényt, körülményt vagy feltételt, amely a játékkaszinó biztonságos üzemeltetéséhez szükséges.
 
-(5) A tárgyévi koncessziós díj jogszabályi minimumát a tárgyévre vonatkozó központi költségvetésről szóló törvény határozza meg
+(5)
 
-a) a 2013. tárgyév esetén az e törvény 2012. január 1. napján hatályos 27. § (5) bekezdésében,
+(6)
 
-b) ezt követően pedig a tárgyévet megelőző évre a központi költségvetésről szóló törvényben
-
-meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezett gazdasági környezet figyelembe vételével. A koncessziós szerződésben a felek a jogszabályi minimumot meghaladó mértékű koncessziós díjban megállapodhatnak.
-
-(6) A koncessziós szerződésben meghatározott, a jogszabályi minimumot meghaladó mértékű koncessziós díjat évente valorizálni kell oly módon, hogy a tárgyévi koncessziós díjat a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett fogyasztói árindexszel megnövelve kell kiszámítani. A valorizációs kötelezettség nem áll fenn abban az esetben, amikor a jogszabályi minimumot meghaladó koncessziós díj a koncessziós szerződésben a jogszabályban meghatározott mindenkori minimum koncessziós díjhoz viszonyított rögzített mértékben kerül meghatározásra. Az éves koncessziós díjat a koncessziós szerződés hatályban létének első két teljes évében négy egyenlő részletben, a tárgyév január 15., április 15., július 15., és október 15. napján, a koncessziós szerződés további időszakában pedig a tárgyév február 15. napjáig egy összegben kell megfizetni. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre vonatkozó koncessziós díj időarányos részét kell megfizetni.
-
-(7) A koncesszió időtartama I. kategóriájú játékkaszinó esetében legfeljebb 20 év, II. kategóriájú játékkaszinó esetében legfeljebb 10 év.
+(7)
 
 (8) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter a játékkaszinónak a játékban érdemi feladatot ellátó alkalmazottai (a továbbiakban: a játékkaszinó alkalmazottai) összetételére, a képesítés feltételeire, az egyes játékok játékszabályaira, a látogatás feltételeire, a játékkaszinó biztonságának, valamint pénzkezelésének ellenőrzésére külön szabályokat állapít meg.
 
@@ -28,4 +22,4 @@ meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezet
 
 (12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
 
-(13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb három és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád-Csanád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
+(13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb négy és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád-Csanád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.

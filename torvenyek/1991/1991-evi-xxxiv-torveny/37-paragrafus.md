@@ -70,15 +70,15 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező többfajta szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egyetlen közös játékosi egyenleg is létrehozható.
 
-30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja és (1a) bekezdése szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
 
-a) valamennyi, az állami adóhatóság által nyilvántartott, 500 000 Ft-ot meghaladó közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
+a) valamennyi, az állami adóhatóság által nyilvántartott, 10 000 000 Ft-ot meghaladó közteherre vonatkozó bevallási és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
 
-b) egyik bankszámláján sem volt 500 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene 500 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárás,
+b) egyik bankszámláján sem volt 10 000 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során az állami adóhatóság nem indított ellene 10 000 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárást,
 
-c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna,
+c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó bírsággal sújtotta volna,
 
-d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
+d) legalább 5 éven keresztül folytatott a szerencsejáték-felügyeleti hatóság engedélyével a koncessziós szerződés alapján gyakorolni kívánt tevékenység szerinti szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
 
 e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
 
