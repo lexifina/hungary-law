@@ -1,0 +1,1 @@
+6. § E törvény a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelv 3. cikk 14. pontjának való megfelelést szolgálja.
