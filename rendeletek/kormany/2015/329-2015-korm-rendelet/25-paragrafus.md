@@ -6,7 +6,7 @@
 
 (2) Ha a szervező, illetve a társasági adóról és az osztalékadóról szóló törvény szerint kapcsolt vállalkozásának minősülő társaság az 5. § (3) bekezdése szerinti valamely szerencsejáték fajtára több engedéllyel rendelkezik vagy az adott szerencsejáték fajtára a szervezői tevékenységet több egységben, ingatlanban, értékesítési helyen vagy honlapon egyetlen engedély keretében végzi, a játékossal szemben a kitiltást valamennyi engedélyére, illetve az egyetlen engedély keretében valamennyi egységre, ingatlanra, értékesítési helyre, honlapra kiterjedően is alkalmazhatja.
 
-(3)[^31] A kitiltásról – a távszerencsejáték és az online kaszinójáték szervező kivételével – a szervező a személyesen jelen levő játékost a kitiltással egyidejűleg, írásbeli nyilatkozat átadásával értesíti. Ha a játékos a nyilatkozat átvételét megtagadja, a nyilatkozat elkészítését megelőzően távozik vagy a kitiltás során személyesen nincs jelen, a szervező a játékost – erre vonatkozó írásbeli kérelmére – a kitiltásról a játékos kérelméről való tudomásszerzést követő 8 munkanapon belül írásbeli nyilatkozat postai vagy elektronikus úton történő megküldésével vagy személyes átadásával értesíti.
+(3)[^33] A kitiltásról – a távszerencsejáték és az online kaszinójáték szervező kivételével – a szervező a személyesen jelen levő játékost a kitiltással egyidejűleg, írásbeli nyilatkozat átadásával értesíti. Ha a játékos a nyilatkozat átvételét megtagadja, a nyilatkozat elkészítését megelőzően távozik vagy a kitiltás során személyesen nincs jelen, a szervező a játékost – erre vonatkozó írásbeli kérelmére – a kitiltásról a játékos kérelméről való tudomásszerzést követő 8 munkanapon belül írásbeli nyilatkozat postai vagy elektronikus úton történő megküldésével vagy személyes átadásával értesíti.
 
 (4) A távszerencsejáték és az online kaszinójáték szervező a kitiltásról a játékost a kitiltással egyidejűleg, de legfeljebb a kitiltástól számított 8 munkanapon belül elektronikus levélben értesíti.
 
@@ -20,4 +20,4 @@
 
 (9) A szervező a kitiltásokról nyilvántartást vezet és a kitiltással kapcsolatban keletkezett adatokat a kitiltásról szóló írásbeli nyilatkozat kiállítása napjától számított 6 évig köteles megőrizni.
 
-[^31]: A 25. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 84. § (3) bekezdése szerint módosított szöveg.
+[^33]: A 25. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 84. § (3) bekezdése szerint módosított szöveg.

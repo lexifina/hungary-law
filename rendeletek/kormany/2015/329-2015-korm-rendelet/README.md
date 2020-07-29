@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-329-20-
 | 2017-10-13 | 2015-329-20-22.6 | 294/2017. (X. 10.) Korm. rendelet |
 | 2018-01-01 | 2015-329-20-22.7 | 183/2017. (VII. 5.) Korm. rendelet |
 | 2018-08-01 | 2015-329-20-22.8 | 183/2017. (VII. 5.) Korm. rendelet |
+| 2020-07-29 | 2015-329-20-22.9 | 500/2021. (VIII. 18.) Korm. rendelet |
