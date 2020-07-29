@@ -40,6 +40,8 @@ em) az egészségügyi államigazgatási szervet,
 
 en) a klímavédelemért felelős hatóságot,
 
+eo) az atomenergia-felügyeleti szervet,
+
 f) az agrárpolitikáért felelős minisztert az agrárrendtartással és a piacvédelmi elemzéssel összefüggő feladatok ellátása céljából,
 
 g) a minisztert, ha a tájékoztatás jogszabályban meghatározott feladata ellátásához szükséges,
