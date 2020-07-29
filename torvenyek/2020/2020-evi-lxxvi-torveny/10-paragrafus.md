@@ -1,1 +1,3 @@
-10. §
+10. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 7/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A szerencsejáték-szervező tevékenység megkezdésekor a szervezőnek személyi megfelelősége megállapítása és hatósági bizonyítvány kiállítása iránt a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kérelmet kell benyújtania. A szervezőnek kérelméhez csatolnia kell a személyi megfelelőség igazolásához szükséges, jogszabályban meghatározott okiratokat és adatokat, valamint a létesítő okiratot. A szerencsejáték-felügyeleti hatóság a személyi feltételek vizsgálatát követően a szervező személyi megfelelőségét az annak igazolásául szolgáló legkésőbb kiállított okirat keltezésétől számított három évig állapítja meg, valamint hatósági bizonyítványt állít ki, amely a kiállítás napjától három évig érvényes.”

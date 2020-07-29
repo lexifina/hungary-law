@@ -1,1 +1,3 @@
-18. §
+18. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 40/F. §-a helyébe a következő rendelkezés lép:
+
+„40/F. § E törvény 2. § (4) és (8) bekezdése, 7/A. § (7) és (8) bekezdése, 7/B. § (3)–(6) bekezdése és 7/C. § (1) és (2) bekezdése a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 47. cikk (2) bekezdésének való megfelelést szolgálja.”
