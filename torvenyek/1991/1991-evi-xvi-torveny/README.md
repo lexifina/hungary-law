@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-16-00-00
 | 2015-12-12 | 2015. évi CXCII. törvény | 1991-16-00-00.41 |
 | 2016-12-21 | 2016. évi CXXXV. törvény | 1991-16-00-00.42 |
 | 2018-12-19 | 2018. évi CV. törvény | 1991-16-00-00.43 |
+| 2020-07-29 | 2020. évi LXXVI. törvény | 1991-16-00-00.44 |
