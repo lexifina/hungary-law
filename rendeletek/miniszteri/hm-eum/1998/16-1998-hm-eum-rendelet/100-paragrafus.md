@@ -6,6 +6,6 @@ a) a gyári új és nagyjavított ejtőernyők üzemeltetői szintű, minősít�
 
 b) ejtőernyős szakkiképzés ellenőrzésére,
 
-c)[^81] az ejtőernyő csapatjavítás utáni minőség-ellenőrzésére, a javított ejtőernyő alkalmazásának engedélyezésére.
+c)[^86] az ejtőernyő csapatjavítás utáni minőség-ellenőrzésére, a javított ejtőernyő alkalmazásának engedélyezésére.
 
-[^81]: A 100. § (2) bekezdésének c) pontját a 14/2001. (V. 30.) HM-EüM együttes rendelet 5. §-a iktatta a szövegbe.
+[^86]: A 100. § (2) bekezdésének c) pontját a 14/2001. (V. 30.) HM-EüM együttes rendelet 5. §-a iktatta a szövegbe.

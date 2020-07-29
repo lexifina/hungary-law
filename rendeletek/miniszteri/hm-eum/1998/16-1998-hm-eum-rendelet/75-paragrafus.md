@@ -1,3 +1,5 @@
+## 74. §[^66]
+
 ## XI. Fejezet
 
 ## FEDÉLZETI MÉRNÖKÖK, FEDÉLZETI SZERELŐK SZAKSZOLGÁLATI ENGEDÉLYE
@@ -10,7 +12,7 @@ a) fedélzeti mérnök szakszolgálati engedély kérelmezése esetén rendelkez
 
 b) fedélzeti szerelő szakszolgálati engedély kérelmezése esetén rendelkezik legalább középfokú, szakirányú, műszaki végzettséggel,
 
-c)[^62] az angol nyelvet az üzemeltető által meghatározott szinten ismeri,
+c)[^67] az angol nyelvet az üzemeltető által meghatározott szinten ismeri,
 
 d) rendelkezik kétéves földi repülőműszaki üzemben tartói szakbeosztásban szerzett gyakorlattal,
 
@@ -42,4 +44,5 @@ bb) repüléstechnikai kiszolgálási utasítások
 
 (3) A gyakorlati vizsgán a pályázónak egy repülési feladat alatt kell számot adnia jártasságáról a fedélzeti mérnök, fedélzeti szerelő szakszolgálati feladatainak ellátásában.
 
-[^62]: A 75. § (1) bekezdésének c) pontja a 14/2001. (V. 30.) HM-EüM együttes rendelet 3. §-ával megállapított szöveg.
+[^66]: A 74. §-t a 12/2020. (VII. 21.) HM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^67]: A 75. § (1) bekezdésének c) pontja a 14/2001. (V. 30.) HM-EüM együttes rendelet 3. §-ával megállapított szöveg.

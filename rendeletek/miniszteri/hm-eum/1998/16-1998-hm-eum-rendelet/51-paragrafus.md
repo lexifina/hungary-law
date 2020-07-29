@@ -2,7 +2,7 @@
 
 51. § (1) A szállító repülőgépvezető oktató szakszolgálati engedély kiadásának feltétele, hogy a pályázó
 
-a)[^41] rendelkezik hatályos gépparancsnoki szakszolgálati engedéllyel,
+a)[^44] rendelkezik hatályos gépparancsnoki szakszolgálati engedéllyel,
 
 b) befejezte az oktatói kiképzési programot, továbbá
 
@@ -26,4 +26,4 @@ c) a vizsgáztató által létrehozott hibajelenségek felismerésére, azok meg
 
 c) a repülési feladat elemzésére.
 
-[^41]: Az 51. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: Az 51. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

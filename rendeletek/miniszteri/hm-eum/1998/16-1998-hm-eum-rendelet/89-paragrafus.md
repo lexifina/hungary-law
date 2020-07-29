@@ -2,9 +2,9 @@
 
 89. § (1) A jártasság fenntartásához szükséges, hogy az engedélyes hat hónaponként legalább egy alkalommal vegyen részt berepülési feladat végrehajtásában.
 
-(2)[^72] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a szakszolgálati engedélye lejártát megelőző 12 hónapban jártasságát folyamatosan fenntartotta.
+(2)[^77] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a szakszolgálati engedélye lejártát megelőző 12 hónapban jártasságát folyamatosan fenntartotta.
 
-(3)[^73] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 84. § (2) bekezdés és a 87. § (2) bekezdés szerinti tárgyakból tesz.
+(3)[^78] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 84. § (2) bekezdés és a 87. § (2) bekezdés szerinti tárgyakból tesz.
 
-[^72]: A 89. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^73]: A 89. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: A 89. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A 89. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

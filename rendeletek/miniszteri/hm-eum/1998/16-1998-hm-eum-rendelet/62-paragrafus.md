@@ -2,9 +2,9 @@
 
 62. § (1) A repülési jártasság fenntartása érdekében az engedélyesnek három havonta legalább egy berepülési feladatot kell teljesítenie.
 
-(2)[^50] A helikopter berepülő másodpilóta szakszolgálati engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a szakszolgálati engedély lejártát megelőző tizenkettő hónapban legalább négy berepülési feladatot teljesített.
+(2)[^53] A helikopter berepülő másodpilóta szakszolgálati engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a szakszolgálati engedély lejártát megelőző tizenkettő hónapban legalább négy berepülési feladatot teljesített.
 
-(3)[^51] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 57. § (2) bekezdés és a 60. § (2) bekezdés szerinti tárgyakból tesz.
+(3)[^54] Az engedély időbeli hatályának meghosszabbításakor a pályázó elméleti vizsgát a 57. § (2) bekezdés és a 60. § (2) bekezdés szerinti tárgyakból tesz.
 
-[^50]: A 62. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^51]: A 62. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^53]: A 62. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A 62. § (3) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

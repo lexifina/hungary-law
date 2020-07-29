@@ -24,7 +24,7 @@ b) repülésbiztonságból és
 
 c) légi szállításból.
 
-(3)[^69] A gyakorlati vizsga tartalma egy útvonalrepülés belföldön vagy nemzetközi útvonalon, amely során a pályázónak bizonyítani kell jártasságát a következőkben:
+(3)[^74] A gyakorlati vizsga tartalma egy útvonalrepülés belföldön vagy nemzetközi útvonalon, amely során a pályázónak bizonyítani kell jártasságát a következőkben:
 
 a) a repülési navigációban és a navigátori teendők ellátásában,
 
@@ -38,4 +38,4 @@ e) a repülési eljárás megválasztásában,
 
 f) a repülési terv elkészítésében.
 
-[^69]: A 84. § (3) bekezdésének felvezető szövege a 14/2001. (V. 30.) HM-EüM együttes rendelet 4. §-ával megállapított szöveg.
+[^74]: A 84. § (3) bekezdésének felvezető szövege a 14/2001. (V. 30.) HM-EüM együttes rendelet 4. §-ával megállapított szöveg.

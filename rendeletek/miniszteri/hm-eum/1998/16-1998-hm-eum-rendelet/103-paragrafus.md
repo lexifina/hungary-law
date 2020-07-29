@@ -1,4 +1,4 @@
-## 102. §[^85] Az állami célú légiközlekedésben a légiforgalmi irányító szakszolgálat ellátásához szükséges képzést az Lt. 31. §-ban foglaltaknak megfelelően a Zrínyi Miklós Nemzetvédelmi Egyetem Bólyai János Katonai Műszaki Főiskolai Kar Repülőműszaki Intézete végzi.
+## 102. §[^90] Az állami célú légiközlekedésben a légiforgalmi irányító szakszolgálat ellátásához szükséges képzést az Lt. 31. §-ban foglaltaknak megfelelően a Nemzeti Közszolgálati Egyetem végzi.
 
 103. § (1) Légiforgalmi irányító szakszolgálati engedély kiadásának feltétele, hogy a pályázó
 
@@ -36,4 +36,4 @@ c) körzeti irányító.
 
 (4) A repülésirányító feladatot ellátó pályázó szakszolgálati engedélyére a (3) bekezdés irányadó.
 
-[^85]: A 102. § az 5/2003. (II. 1.) HM rendelet 15. §-ának (4) bekezdése szerint módosított szöveg.
+[^90]: A 102. § a 12/2020. (VII. 21.) HM rendelet 5. §-a szerint módosított szöveg.

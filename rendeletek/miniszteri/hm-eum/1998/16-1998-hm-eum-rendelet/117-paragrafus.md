@@ -1,4 +1,4 @@
-117. § (1)[^92] A légijármű szerelő szakszolgálati engedély az alábbi szakterületek ellátására jogosít:
+117. § (1)[^99] A légijármű szerelő szakszolgálati engedély az alábbi szakterületek ellátására jogosít:
 
 I. teljes légijármű;
 
@@ -76,11 +76,11 @@ a) I. típusú minősítő szakszolgálati engedéllyel, vagy
 
 b) két szakterületre jogosító II. típusú minősítő szakszolgálati engedéllyel.
 
-(3)[^93] A (2) bekezdésben előírt feltétel teljesítése esetén a pályázó újabb vizsgát nem tesz, kérelmére a Hatóság a hatályos szakszolgálati engedélyt a teljes légijármű szakterületre kiterjeszti.
+(3)[^100] A (2) bekezdésben előírt feltétel teljesítése esetén a pályázó újabb vizsgát nem tesz, kérelmére a Hatóság a hatályos szakszolgálati engedélyt a teljes légijármű szakterületre kiterjeszti.
 
 (4) A teljes légijármű szakterületre jogosító szakszolgálati engedéllyel rendelkező engedélyes, a bizonylati okmányok alapján a légijárművet egészében üzemképesnek minősítheti.
 
 (5) A VII. szakterülethez a légijármű speciális rendeltetésű fedélzeti fegyverberendezéseinek rendszerei, függesztményei és gyártmányai, lézer és infra érzékelő rendszerei, számítástechnikai egységei, valamint a katapult-mentőrendszer pirotechnikai eszközei tartoznak.
 
-[^92]: A 117. § (1) bekezdése a 14/2001. (V. 30.) HM-EüM együttes rendelet 6. §-a szerint kiegészített szöveg.
-[^93]: A 117. § (3) bekezdése a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^99]: A 117. § (1) bekezdése a 14/2001. (V. 30.) HM-EüM együttes rendelet 6. §-a szerint kiegészített szöveg.
+[^100]: A 117. § (3) bekezdése a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
