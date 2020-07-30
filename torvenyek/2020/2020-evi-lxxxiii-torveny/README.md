@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-83-00-00
 | --- | --- | --- |
 | 2020-07-29 | 2020. évi LXXXIII. törvény | 2020-83-00-00.0 (közlönyállapot) |
 | 2020-07-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-83-00-00.1 |
+| 2020-07-30 | 2010. évi CXXX. törvény | 2020-83-00-00.2 |
