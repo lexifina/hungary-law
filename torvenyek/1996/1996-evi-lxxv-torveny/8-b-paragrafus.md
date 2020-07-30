@@ -23,3 +23,5 @@ b) egyéb esetben – eltérő nemzetközi megállapodás hiányában – a megk
 (5) A 2. § (1) bekezdése szerinti munkaügyi hatóság magyar és angol nyelvű, korlátozásmentesen és ingyenesen, a fogyatékossággal élők számára is hozzáférhető módon tájékoztató honlapot működtet a határokon átnyúló szolgáltatásnyújtást végző munkáltatók és az általuk kiküldött munkavállalók jogaival és kötelezettségeivel összefüggő lényeges információkhoz való hozzáférés biztosítása érdekében.
 
 (6) Az (5) bekezdés szerinti honlap biztosítja a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartások nyilvános adataihoz való hozzáférést, magyar és angol nyelven, valamint a fogyatékossággal élők számára is hozzáférhető módon naprakész tájékoztatást nyújt az ilyen nyilvántartásokból való adatigénylés feltételeiről.
+
+(7) Ha az (1) bekezdés szerinti együttműködés keretében megkereső hatóságként a 2. § (2) bekezdés szerinti munkaügyi hatóság jár el, és eljárása során a fogadó tagállam hatóságai vagy szervei részéről az információnyújtás folyamatos késedelmét észleli, a megfelelő intézkedések megtétele érdekében kezdeményezi az Európai Bizottság megkeresését.

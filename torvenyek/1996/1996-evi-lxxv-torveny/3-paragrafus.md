@@ -18,7 +18,7 @@ h) a foglalkoztatásra irányuló jogviszony megszűnésével összefüggő – 
 
 i) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére, illetve a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására vonatkozó jogszabályok,
 
-j)
+j) a külföldi munkáltató által szolgáltatások nyújtása keretében Magyarországra küldött munkavállaló munkaviszonyára az Mt. 295–297. §-a szerint alkalmazandó szabályok,
 
 k) a munkaerő-kölcsönzésre vonatkozó, valamint a munkaerő-kölcsönzési tevékenység végzésére jogosító jogszabályok,
 
@@ -47,6 +47,8 @@ megtartásának ellenőrzésére, valamint a munkaügyi ellenőrzés alapján in
 (1b) Az (1a) bekezdés szerinti adatok kezelése során a munkaügyi hatóság a 8/D. §-ban foglaltak szerint jár el.
 
 (2) A munkaügyi hatóság hatásköre az (1) bekezdés g) pontja tekintetében az 1. § (1) bekezdés e) pontja szerinti munkabérre, illetve az Mt. 136. §-ában és 137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. §-ában, 153–165. §-ában foglalt rendelkezések megtartásának ellenőrzésére terjed ki.
+
+(2a) A munkaügyi hatóság hatásköre az (1) bekezdés j) pontja tekintetében nem terjed ki az Mt. 295. § (1) bekezdés e), g) és i) pontjára.
 
 (3) A munkaerő-kölcsönzés esetében a munkaügyi hatóság hatásköre – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi hatóság hatásköre kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (4)–(8) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi hatóság hatásköre kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára. A közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagjának az Sztv. 29. §-a alapján történő feladatteljesítése tekintetében a munkaügyi hatóság hatásköre kiterjed a közérdekű nyugdíjas szövetkezetre és az Sztv. 29. § (4)–(7) bekezdésében foglaltakra. Az Sztv. 30. §-a tekintetében a munkaügyi hatóság hatásköre kiterjed a nyugdíjas szövetkezetre és a szolgáltatás fogadójára.
 
