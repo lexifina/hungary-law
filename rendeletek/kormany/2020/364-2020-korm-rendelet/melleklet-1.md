@@ -1,4 +1,4 @@
-## 9. § A felelős játékszervezés részletes szabályairól szóló 329/2015. (XI. 10.) Korm. rendelet 3. § (2) bekezdésében a „nyomtatott formában a játékosok részére ingyenesen” szövegrész helyébe a „játékosok részére” szöveg lép.
+## 9. §[^2]
 
 1. melléklet a 364/2020. (VII. 23.) Korm. rendelethez
 
@@ -35,3 +35,5 @@ ba) megnevezés,
 bb) adószám,
 
 bc) székhely.
+
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
