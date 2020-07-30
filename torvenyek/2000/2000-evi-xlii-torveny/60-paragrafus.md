@@ -26,7 +26,7 @@ l) úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztásár
 
 vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti.
 
-(2) A bírság összege legfeljebb 1 000 000 forint.
+(2) A bírság összege legfeljebb 5 000 000.
 
 (3) A hajózási hatóság a hajózási bírság összegének megállapításánál mérlegeli:
 
