@@ -22,4 +22,6 @@ i) a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a 
 
 j) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelve,
 
-k) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-i 2014/66/EU parlamenti és tanácsi irányelve.
+k) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-i 2014/66/EU parlamenti és tanácsi irányelve,
+
+l) a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelv.

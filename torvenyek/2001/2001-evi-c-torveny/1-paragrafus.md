@@ -17,3 +17,5 @@
 (4) E törvényt kell alkalmazni a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállítása során is.
 
 (5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
+
+(6) E törvényt kell alkalmazni a szabályozott szakmákra vonatkozó arányossági értékelésre annak érdekében, hogy a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó, bevezetni tervezett jogszabályi rendelkezések, vagy a hatályos rendelkezésekhez fűzött módosítások alkalmasak legyenek az elérni kívánt cél megvalósításának biztosítására, és ne lépjék túl az adott cél eléréséhez szükséges mértéket.
