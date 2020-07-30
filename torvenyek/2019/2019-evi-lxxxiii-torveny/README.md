@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-83-00-00
 | 2019-12-29 | 2010. évi CXXX. törvény | 2019-83-00-00.2 |
 | 2020-04-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-83-00-00.3 |
 | 2020-04-20 | 2010. évi CXXX. törvény | 2019-83-00-00.4 |
+| 2020-07-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-83-00-00.5 |
