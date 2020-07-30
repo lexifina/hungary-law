@@ -1,4 +1,4 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^16][^17]
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^26]
 
 Igazgatási szolgáltatási díjak
 
@@ -186,7 +186,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 89. | b) korlátozott földgáz-kereskedelmi engedély esetén | 50 |
 
-| 90. | Rendszeres információszolgáltatási kötelezettség alóli mentesség iránti kérelem benyújtása | 50 |
+| 90. | Rendszeres adatszolgáltatási kötelezettség alóli mentesség iránti kérelem benyújtása | 50 |
 
 B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -484,7 +484,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 144 | Szakhatósági közreműködés területrendezési eljárásban (az energiaellátás biztonságának biztosításához való szükségesség megítélése) | 500 |
 
-| 145 | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem elbírálása | 50 |
+| 145 | Rendszeres adatszolgáltatási kötelezettség alóli mentesség kérelem elbírálása | 50 |
 
 | 146 | A VET. 145. § (4) bekezdése szerinti egyetemes szolgáltatási árszabások árának és áralkalmazási feltételeinek módosítására és visszavonására vonatkozó kérelem elbírálása | 100 |
 
@@ -632,7 +632,7 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 39 | Nyereségkorlát feletti eredmény visszafizetése alóli mentesítés iránti kérelem elbírálása | 200 |
 
-| 40 | Rendszeres információszolgáltatási kötelezettség alóli mentesség | 50 |
+| 40 | Rendszeres adatszolgáltatási kötelezettség alóli mentesség | 50 |
 
 D) Megfelelőségértékelő szervezetek kijelölésével kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -750,5 +750,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^16]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a szerint módosított szöveg.
-[^17]: Az 1. melléklet a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^26]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja szerint módosított szöveg.
