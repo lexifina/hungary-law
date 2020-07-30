@@ -8,7 +8,7 @@ b) a veszélyes áruk vasúti átrakásának, tárolásának ellenőrzése.
 
 (2) A veszélyes áruk vasúti szállítására vonatkozó jogszabályi előírások megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a hivatásos katasztrófavédelmi szerv folytatja le.
 
-(3) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
+(3) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk vasúti és belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályairól szóló kormányrendeletben foglaltak szerinti intézkedést és 1 000 000 forintig terjedő bírságot alkalmaz a jogsértővel szemben. A veszélyes áru vasúti szállítása esetében a jogsértő lehet a feladó, a csomagoló, a berakó, a kirakó, az átrakó, a töltő, a tároló, a fuvarozó (szállító), az üzembentartó, a karbantartásért felelős szervezet (ECM), a szállításban érintett vállalkozás vezetője, a biztonsági tanácsadó, a vasúti pályahálózat működtetését végző vasúti társaság, a vonatszemélyzet, a szabálytalanságért felelős egyéb személy.
 
 (4) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
 
@@ -16,4 +16,4 @@ b) a veszélyes áruk vasúti átrakásának, tárolásának ellenőrzése.
 
 (6) Ha az (5) bekezdés szerint a közlekedési hatóság értesítésére sor került, a hivatásos katasztrófavédelmi szerv a vizsgálat lezárásáról és annak eredményéről, valamint az azzal kapcsolatos döntéséről 8 napon belül értesíti a közlekedési hatóságot.
 
-(7) A hivatásos katasztrófavédelmi szerv a veszélyes áru vasúti szállításának ellenőrzésével kapcsolatos tevékenységéről éves országos kimutatást készít
+(7) A hivatásos katasztrófavédelmi szerv a veszélyes áru vasúti szállításának ellenőrzésével kapcsolatos tevékenységéről éves országos kimutatást készít.

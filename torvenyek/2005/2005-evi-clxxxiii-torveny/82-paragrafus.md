@@ -34,6 +34,6 @@ b) az (1) bekezdés c) pontjában meghatározott esetben az érintett természet
 
 (8) A vasúti igazgatási szerv a működési engedéllyel kapcsolatos eljárásával összefüggésben, az üzleti jóhírnév vizsgálata körében jogosult a működési engedélyt kérelmező szervezet, illetve a vasúti társaság ügyvezetését ellátó személy büntetett előéletére vonatkozó különleges adatokat kezelni.
 
-(9) A vasúti vizsgaközpont a 36. § (7) bekezdésben meghatározott feladatának ellátása érdekében jogosult az alapvizsgára és időszakos vizsgára jelentkező személyek természetes személyazonosító adatainak, valamint vizsgaeredményeinek kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.
+(9) >A vasúti vizsgaközpont a 36. § (7) bekezdésben meghatározott feladatának ellátása érdekében jogosult az alapvizsgára és időszakos vizsgára jelentkező személyek természetes személyazonosító adatainak, valamint vizsgaeredményeinek kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
 (10) A közlekedési hatóság vezetője a minősített adat védelméről szóló törvény tekintetében minősítésre jogosultnak minősül.
