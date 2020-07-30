@@ -6,7 +6,7 @@
 
 (1b) Az állam tulajdonába és ellenérték nélkül az építtető vagyonkezelésébe kerül
 
-a) az országos közút fejlesztéséhez szükséges megvásárolt vagy kisajátított földrészlet,
+a) az országos közút fejlesztéséhez szükséges megvásárolt, kisajátított vagy az építtető által más jogcímen a magyar állam javára megszerzett földrészlet;
 
 b) – ha a NIF Zrt. vagy a közút 33. § (1) bekezdés b) pont ba) alpontja szerinti kezelője építtetői feladatai ellátása során a helyi közút építtetőjeként jár el – a helyi közút létesítésének céljára megvásárolt és kisajátított földrészlet.
 
@@ -65,6 +65,8 @@ b) – ha a NIF Zrt. vagy a közút 33. § (1) bekezdés b) pont ba) alpontja sz
 (11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák esetében.
 
 (11a) A nem központi költségvetésből vagy nem európai uniós forrásból megvalósuló utak beruházója a miniszter egyetértése esetén – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő építési munkák, valamint az ezekhez kapcsolódó útfelújítási munkák vonatkozásában.
+
+(11b) A gyorsforgalmi utak pihenőhelyein, várakozóhelyein – a magyar állam által szerződéses jogviszonnyal hasznosított területen – létesülő és már meglévő üzemanyagtöltő állomásokhoz, elektromos gyorstöltő állomásokhoz, vendéglátóipari egységekhez, kereskedelmi szálláshelyekhez és egyéb, a közúti forgalom kiszolgálása érdekében megvalósított létesítményekhez kapcsolódó közlekedési létesítmények építtetője az állam képviselőjével a terület hasznosítására irányuló szerződéses jogviszonyban álló beruházó.
 
 (12) Törvény a gyorsforgalmi utak tervezésére, építésére és kivitelezésére az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 

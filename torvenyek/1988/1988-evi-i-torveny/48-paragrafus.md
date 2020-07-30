@@ -108,7 +108,7 @@ b) a miniszter, hogy
 
 1. a Közlekedési Miniszterek Európai Konferenciája által létrehozott közlekedési engedélyek használatának részletes szabályait,
 
-2. az útügyi igazgatás eljárási szabályait,
+2. az útügyi igazgatás eljárási szabályait, a közútkezelői hozzájárulás kiadásának feltételeit, a közút nem közlekedési célú igénybevételéért fizetendő díj feltételeiről szóló szabályokat
 
 3. az ömlesztett (szóródó) tömegáru közúton történő fuvarozásának és saját számlás szállításának a feltételeit, valamint egyes közúti közlekedési szolgáltatások engedélyezésének a részletes szabályait,
 
@@ -222,17 +222,15 @@ e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben 
 
 f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság kivetésének szabályait és a bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
 
-g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
+g) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben
 
-1.
+1. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
 
-2. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
+2. a 33/A. § szerinti használati díj, valamint ezek megfizetésének elmaradása esetén a pótdíjat valamint a pótdíj megfizetésének elmaradása esetén a többletpótdíjat vagy meghatározásának módját,
 
-3. a 33/A. § szerinti használati díj, valamint ezek megfizetésének elmaradása esetén a pótdíj, illetve a pótdíj megfizetésének elmaradása esetén a többletpótdíj mértékét,
+3. a díjfizetés módját és feltételeit,
 
-4. a fizetés módját és feltételeit,
-
-5. a 33/A. § szerinti időtartamot,
+4. a 33/A. § szerinti időtartamot,
 
 h) az iparügyekért felelős miniszter, hogy az elektromos töltőberendezésekre vonatkozó műszaki-biztonsági követelményeket
 

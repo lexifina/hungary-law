@@ -6,9 +6,13 @@ b) az a) pontban nem említett
 
 ba) országos közút vonatkozásában a miniszter döntése alapján a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben az állam 100%-os részesedéssel rendelkezik,
 
-bb) helyi közutak tekintetében a helyi önkormányzat vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os részesedéssel rendelkezik vagy
+bb) helyi közutak, a lakott területen lévő járda tekintetében a helyi önkormányzat vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os tulajdoni részesedéssel rendelkezik;
 
-bc) helyi közutak tekintetében a bb) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet;
+bc) a bb) alpont szerinti helyi közutak, járdák tekintetében a bb) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet;
+
+bd) a lakott területen kívül lévő autóbusz-megállóhely tekintetében – eltérő megállapodás hiányában – a közút kezelője, a lakott területen lévő autóbusz-megállóhely tekintetében – nem beleértve a járművek közlekedésére szolgáló felületet, amely vonatkozásában a közút kezelője – a helyi önkormányzat vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os tulajdoni részesedéssel rendelkezik;
+
+be) a bd) alpont szerinti lakott területen lévő autóbusz-megállóhelyek tekintetében a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet;
 
 c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magánút van; állami tulajdonban levő ingatlanon fekvő magánút esetében tulajdonosnak az ingatlan-nyilvántartásba bejegyzett kezelő (használó) tekintendő;
 
