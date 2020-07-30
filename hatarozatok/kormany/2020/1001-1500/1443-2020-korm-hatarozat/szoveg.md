@@ -1,7 +1,5 @@
-1. Hatályát veszti
-
-a) az EU Duna Régió Stratégiáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1149/2010. (VII. 9.) Korm. határozat és
-
-b) az Európai Unió Duna Makro Regionális Stratégia magyar programjának koordinátori feladatairól szóló 1157/2011. (V. 20.) Korm. határozat.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
