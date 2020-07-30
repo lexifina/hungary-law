@@ -1,0 +1,67 @@
+## 1. jóváhagyja – az 1. melléklet szerint – az ENSZ Közgyűlésének 75. ülésszakán részt vevő magyar küldöttség tevékenységének irányelveit;
+
+## 2. felhívja a külgazdasági és külügyminisztert, hogy az ENSZ Közgyűlésének 75. ülésszakán részt vevő magyar küldöttség vezetőjének és tagjainak megbízásáról előterjesztést tegyen Magyarország köztársasági elnökének.
+
+## Felelős: külgazdasági és külügyminiszter
+
+## Határidő: azonnal
+
+1. melléklet az 1452/2020. (VII. 30.) Korm. határozathoz
+
+## Irányelvek az ENSZ Közgyűlésének 75. ülésszakán részt vevő magyar küldöttség tevékenységéhez
+
+## Az Egyesült Nemzetek Szervezete (ENSZ) Közgyűlésének 75. ülésszakán részt vevő magyar küldöttség feladata, hogy a Kormány céljaival összhangban, a magyar nemzeti érdekeket érvényesítve tevékenykedjen.
+
+1. A küldöttség az ENSZ szerepével kapcsolatban
+
+a) képviselje hazánk álláspontját, mely szerint a koronavírus járvány idején a nemzetközi szervezetek, köztük az ENSZ sem volt képes hatékony megoldásokat nyújtani a pandémia elleni küzdelemben, szemben a nemzetállamok által megtett lépésekkel és intézkedéseivel, melyek sikeresnek bizonyultak a járvány hatásainak enyhítésében;
+
+b) képviselje hazánk álláspontját, miszerint a koronavírus járvány vonatkozásában megvalósított multilaterális együttműködés kapcsán szükséges felmérnünk a tanulságokat, és kiértékelnünk a megtett lépések hasznosságát, annak érdekében, hogy a jövőben a nemzetközi közösség sikeresen fel tudjon lépni a globális kihívásokkal szemben.
+
+2. A küldöttség a béke és biztonság területén
+
+a) támogassa az ENSZ vezető nemzetközi szerepét, valamint összehangolt, hatékony globális fellépését a nemzetközi terrorizmus elleni küzdelemben, továbbá az ENSZ Terrorizmus Ellenes Hivatalának az erre irányuló multilaterális erőfeszítések kifejtésében betöltött szerepének erősítését, az ENSZ Globális Terrorizmus Ellenes Stratégiájának 6. felülvizsgálatáról elfogadott közgyűlési határozat, az ENSZ keretében elfogadott 19 terrorizmus ellenes nemzetközi dokumentum, valamint az ENSZ BT által a nemzetközi terrorizmus elleni küzdelem terén elfogadott határozatai alapján;
+
+b) támogassa a világ számos térségében hitük miatt üldözött és diszkriminált közösségek – kiemelten az üldözött keresztények – megsegítésére irányuló kezdeményezéseket;
+
+c) fordítson kiemelt figyelmet a migrációra vonatkozó magyar kormányzati álláspont érvényesítésére az ENSZ keretein belül, beleértve a közös uniós álláspont egyeztetését, különös tekintettel a magyar szavazati magatartást meghatározó kormányhatározatokra, és képviselje a tagállamok határvédelemmel és a területükön való tartózkodás szabályainak meghatározásával kapcsolatosan meglevő nemzeti szabályozási hatáskörét és utaljon a migráció jelentette közvetlen biztonsági kockázatokra;
+
+d) képviselje határozottan Magyarország álláspontját, miszerint az ENSZ-ben tartózkodjanak az új közgyűlési határozatokban, illetve hivatalos állásfoglalásokban a Globális Migrációs, valamint a Globális Menekültügyi Megállapodásra szereplő hivatkozások lopakodó módon történő megjelenítésétől, tekintve, hogy értelmezésünk szerint ezek célja a két dokumentum kötelező és általános érvényű elismertetése, annak ellenére, hogy azokat hazánk mellett több más tagállam sem írta alá, és ennek következményeképpen azok végrehajtásában semmilyen módon nem kívánunk részt venni;
+
+e) támogassa, hogy a közel-keleti békefolyamattal (MEPP) kapcsolatos tárgyalások és szövegezések során a kiegyensúlyozottság érvényesüljön az egyoldalú felelősségre vonás helyett;
+
+f) támogassa az ENSZ leszerelési mechanizmusának megfelelő működését célzó törekvéseket, ezen belül az ENSZ BT 1540 (2004) sz. határozatának végrehajtását és átfogó felülvizsgálatát, a genfi Leszerelési Értekezlet érdemi munkájának újraindítását, az Atomsorompó Szerződés (NPT) végrehajtásának erősítését, az Átfogó Atomcsend Szerződés (CTBT) mielőbbi hatálybalépését, az atomfegyverekben alkalmazható nukleáris hasadóanyagok termelésének tilalmáról szóló nemzetközi szerződés (FMCT) létrehozatalára irányuló tárgyalások mielőbbi megkezdését, a Biológiai és Toxinfegyver Tilalmi Egyezmény (BTWC) egyetemessé tétele érdekében végzett erőfeszítéseket és alkalmazásának megerősítését, a Fegyverkereskedelmi Szerződés (ATT) egyetemessé tételét, teljes körű végrehajtását és a részes államainak konferenciáin elért eredmények továbbfejlesztését, illetve a kézi- és könnyűfegyverek (SALW) tiltott kereskedelme elleni küzdelmet;
+
+g) a kiber-diplomáciai erőfeszítések keretében kísérje figyelemmel és támogassa a kibertér biztonságának erősítése érdekében tett konszenzusépítési erőfeszítéseket; a Fenntartható Fejlődési Célok digitális vetületének és az Információs Társadalom Csúcstalálkozó (WSIS+10) folyamatnak az utókövetését; a 2019–2021-es évekre felállított, a nemzetközi biztonsággal összefüggő felelősségteljes kiber-magatartás előmozdításával foglalkozó munkacsoport (6. UN GGE) munkáját, valamint a szabad, nyitott és biztonságos internetet; fordítson figyelmet a közgyűlési határozattal a 2019–2020-as évre létrehozott nyílt végű munkacsoport (OEWG) munkájára és az abban való konstruktív magyar szerepvállalás előmozdítására; a kiber-diplomáciai erőfeszítések keretében kísérje figyelemmel és támogassa a kibertér biztonságának erősítése érdekében tett konszenzusépítési erőfeszítéseket; ezen felül támogassa az Európa Tanács Budapesten, 2001. november 23-án kelt Számítástechnikai Bűnözésről szóló Egyezményének (Budapest Egyezmény) végrehajtását, valamint hívja fel a figyelmet az Egyezményhez történő csatlakozás lehetőségére.
+
+3. A küldöttség a Fenntartható Fejlődési Keretrendszerrel (Agenda 2030 vagy Keretrendszer) kapcsolatban
+
+a) mind nemzeti szinten, mind pedig a fejlődő világ vonatkozásában járuljon hozzá a 2015-ben kialakított globális fenntartható fejlődési keretrendszer megvalósításához;
+
+b) továbbra is fordítson kiemelt figyelmet a vízzel és szanitációval kapcsolatos célok és alcélok végrehajtására irányuló nemzetközi folyamatokra, segítse elő a célkitűzések megvalósításához szükséges intézményrendszeri reformok meghozatalát, ennek megfelelően szükség esetén erősítse meg Magyarország elkötelezettségét egy a vízügyi kérdések szakpolitikai irányítását nemzetközi szintre emelő kormányközi platform távlati megteremtésével kapcsolatban;
+
+c) ehhez kapcsolódóan ismertesse hazánk aktív vízdiplomáciai tevékenységét, különös tekintettel a 2013. évi, 2016. évi, és 2019. évi Budapesti Víz Világtalálkozókon elért eredményekre.
+
+4. A küldöttség az emberi jogok területén
+
+a) lépjen fel Magyarország nemzetközi emberi jogi szerződéses kötelezettségeivel összhangban a Magyarország számára kiemelten fontos területeken, úgymint az alapvető szabadságjogok tiszteletben tartása, a hitük miatt üldözött és diszkriminált közösségek, a kisebbségek és őshonos népek, illetve a fogyatékossággal élő személyek jogainak védelme és a hátrányos megkülönböztetés elleni küzdelem, különös tekintettel a többszörösen hátrányos helyzetű személyekre, továbbá hangsúlyozza a család fontos társadalomépítő szerepét és a hagyományos családmodell megerősítésének szükségességét a családok szükségleteihez hangolt szakpolitikák által;
+
+b) képviselje határozattan az álláspontot, mely szerint az ENSZ Emberi Jogi Tanács (EJT) azonnali, gyökeres reformjára van szükség, mivel a testületnek az elfogult és szakmai szempontból megalapozatlan határozatok, kezdeményezések túlbonyolított szövegezése és átpolitizálása helyett a konszenzusépítést és a párbeszédet kellene elősegítenie.
+
+5. A küldöttség az ENSZ reformjával és működésével kapcsolatban
+
+a) kísérje figyelemmel az ENSZ BT kibővítésére és munkamódszereinek átalakítására vonatkozó javaslatok alakulását, a kormányközi tárgyalások folyamatát és eredményeit, folytassa a BT munkamódszereinek javítására és működésének átláthatóbbá tételére irányuló együttműködésben való aktív részvételt;
+
+b) képviselje, hogy a megújuló Biztonsági Tanácsnak meg kell felelnie a XXI. század új geopolitikai és gazdasági realitásainak, így taglétszámának és összetételének tükröznie kell a nemzetközi politikai és gazdasági erőviszonyokban bekövetkezett változásokat, egyszersmind tekintettel kell lennie a hatékonyság követelményére is, amelyekre tekintettel indokolt egy további nem állandó tagsági hely megadása a kelet-európai regionális csoport számára, mely növelné Magyarország Biztonsági Tanácsba való bekerülésének esélyeit;
+
+c) erősítse meg, hogy Magyarország támogatja az ENSZ főtitkár elképzeléseit a világszervezet irányításának reformját illetően, valamint a Közgyűlés szerepének megújítása, és az ENSZ fejlesztési és környezetvédelmi rendszerének reformja tekintetében Magyarország továbbra is hozzá kíván járulni a folyamat előmozdításához;
+
+d) támogassa a továbbiakban is az ENSZ Főtitkár javaslatát a Globális Szolgáltatásnyújtási Modell (Global Service Delivery Model, GSDM) projektre vonatkozóan, amelynek létrejötte javítani fogja a szolgáltatások minőségét, valamint jelentős megtakarításokat fog eredményezni mind a szervezet, mind pedig a tagállamok számára, így az ENSZ pénzügyi helyzetének rendeződését is nagymértékben elősegítheti. Az ENSZ Titkárság feladatainak kiszervezése globális szolgáltató központok (GSSC) létrehozása révén a szolgáltatásnyújtás minőségének javítása és a költséghatékony működés megvalósítása érdekében is szükséges és időszerű;
+
+e) támogassa, hogy az ENSZ szakosított szervei szolgáltató központjuk otthonául Budapestet válasszák, mely egyedüli európai városként lett megjelölve a GSDM projektre vonatkozó főtitkári javaslatban.
+
+6. A küldöttség Magyarország jelöléseivel kapcsolatban
+
+a) használja fel az ENSZ Közgyűlés fórumait, valamint a Közgyűlés margóján létrejövő két- és többoldalú magas szintű találkozókat Magyarország ENSZ-szervekbe benyújtott jelölései támogatottságának felmérésére és növelésére, továbbá egyes ENSZ-szervezetek, intézmények vezetői posztjaira benyújtott magyar jelölések sikerének előmozdítására;
+
+b) fordítson megkülönböztetett figyelmet hazánk nemzetközi jelöléseire és mérje fel további pályázatok benyújtásának lehetőségét, így is erősítve Magyarország ENSZ rendszeren belüli szerepvállalását a jövőben.
