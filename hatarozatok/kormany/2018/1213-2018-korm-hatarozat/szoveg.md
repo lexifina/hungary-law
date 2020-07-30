@@ -16,7 +16,7 @@ emberi erőforrások minisztere
 
 Határidő: a vizsgálatot követően azonnal
 
-4. támogatja – az 1. pontban foglalt törekvés elősegítése érdekében – a Budapest VIII. kerület belterület 36576/1 helyrajzi számú, természetben az 1088 Budapest, Mikszáth Kálmán tér 1. szám alatt található ingatlan oktatási célú felújítását, és felhívja a nemzetgazdasági minisztert, hogy a munkálatokhoz 2018. évben 1 674 994 913 forint költségvetési forrást biztosítson;
+4.[^1] támogatja – az 1. pontban foglalt törekvés elősegítése érdekében – a Budapest VIII. kerület belterület 36576/2 helyrajzi számú, természetben az 1088 Budapest, Mikszáth Kálmán tér 1. szám alatt található ingatlan oktatási célú felújítását, és felhívja a nemzetgazdasági minisztert, hogy a munkálatokhoz 2018. évben 1 674 994 913 forint költségvetési forrást biztosítson;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -27,3 +27,5 @@ Határidő: azonnal
 Felelős: emberi erőforrások minisztere
 
 Határidő: a 4. pontban foglaltak megvalósulását követően azonnal
+
+[^1]: A 4. pont az 1461/2020. (VII. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
