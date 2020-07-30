@@ -32,13 +32,7 @@
 
 ## Határidő: a 2019. évi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 5. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás 2020. évi megvalósításához szükséges 8 942 441 000 forint forrás biztosításáról a 2020. évi központi költségvetés XI. Miniszterelnökség fejezetében.
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: a 2020. évi központi költségvetés tervezése során
+## 5.[^2]
 
 1. melléklet az 1577/2018. (XI. 15.) Korm. határozathoz
 
@@ -123,3 +117,4 @@ Költségvetési év: 2018.
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: Az 1. pont az 1594/2019. (X. 16.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: Az 5. pontot az 1455/2020. (VII. 30.) Korm. határozat 4. pontja visszavonta.
