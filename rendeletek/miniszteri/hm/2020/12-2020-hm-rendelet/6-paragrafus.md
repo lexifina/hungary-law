@@ -1,7 +1,3 @@
-## 5. § Az R1. 102. §-ában a „Zrínyi Miklós Nemzetvédelmi Egyetem Bolyai János Katonai Műszaki Főiskolai Kar Repülőműszaki Intézete” szövegrész helyébe a „Nemzeti Közszolgálati Egyetem” szöveg lép.
+## 5. §[^6]
 
-## 6. § Hatályát veszti az R1.
-
-a) 2. § i) pont B) alpont a) pontja, valamint
-
-b) 72–74. §-a.
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
