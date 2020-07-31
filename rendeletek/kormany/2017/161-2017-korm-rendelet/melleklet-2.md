@@ -8,12 +8,12 @@
 
 | 3. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Borsod-Abaúj-Zemplén, Hajdú-Bihar, Heves és Szabolcs-Szatmár-Bereg megye | 4,5 |
 
-| 4. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Bács-Kiskun, Békés, Csongrád és Jász-Nagykun-Szolnok megye | 3,7 |
+| 4. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Bács-Kiskun, Békés, Csongrád-Csanád és Jász-Nagykun-Szolnok megye | 3,7 |
 
 | 5. | Pest Megyei Kormányhivatal | Budapest főváros, Komárom-Esztergom, Nógrád és Pest megye | 3,8 |
 
 | 6. | Veszprém Megyei Kormányhivatal | Fejér, Győr-Moson-Sopron, Vas és Veszprém megye | 4,8 |
 
-2. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^11]
+2. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^12]
 
-[^11]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 169. § (3) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 169. § (3) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
