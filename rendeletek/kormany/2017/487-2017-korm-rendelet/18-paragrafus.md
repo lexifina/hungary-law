@@ -1,5 +1,7 @@
-## 17. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 10/A. §-a szerinti, a rendőrség hatáskörébe tartozó panaszt első fokon a rendőrkapitányság bírálja el. Az elsőfokú döntéssel szembeni fellebbezést a megyei, fővárosi rendőr-főkapitányság bírálja el. Felügyeleti szervként a fellebbezés elbírálására jogosult hatóság jár el.
+## 17. §[^4]
 
 ## V. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
+
+[^4]: A 17. §-t a 375/2020. (VII. 30.) Korm. rendelet 102. §-a hatályon kívül helyezte.
