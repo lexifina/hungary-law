@@ -16,7 +16,7 @@
 
 | 6. | Borsod-Abaúj-Zemplén megye | Heves Megyei Kormányhivatal |
 
-| 7. | Csongrád megye | Békés Megyei Kormányhivatal |
+| 7. | Csongrád-Csanád megye | Békés Megyei Kormányhivatal |
 
 | 8. | Fejér megye | Veszprém Megyei Kormányhivatal |
 
