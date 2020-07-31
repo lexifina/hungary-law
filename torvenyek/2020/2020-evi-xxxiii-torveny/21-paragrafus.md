@@ -10,6 +10,4 @@
 
 (30) 2020. július 31. napján a Budapesti Gazdasági Egyetem Gazdálkodási Kara (Gazdálkodási Kar Zalaegerszeg) a Budapesti Gazdasági Egyetem szervezetéből kiválik és a Pannon Egyetem szervezetébe olvad be.”
 
-(2) Az Nftv. 115. §-a a következő (31) bekezdéssel egészül ki:
-
-„(31) 2020. augusztus 1. napjával a Kaposvári Egyetem és a Szent István Egyetem összeolvadásával a Szent István Egyetem jön létre.”
+(2)

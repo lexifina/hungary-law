@@ -22,4 +22,4 @@
 
 11. 110. § (1) bekezdés 3. pontjában az „ , a diákotthon” szövegrész,
 
-12. 114/C. §-a.
+12.

@@ -1,3 +1,1 @@
-11. § Az Nftv. 69. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A felsőoktatási intézmény rektorának nem szükséges beszereznie a MAB szakértői véleményét az egyetemi tanári munkaköri cím adományozásával kapcsolatos javaslatának elkészítése előtt, ha az oktató a 28. § (5) bekezdésben foglalt alkalmazási feltételeknek eleget tesz és olyan külföldi felsőoktatási intézményben foglalkoztatják vagy egyetemi tanári munkakörnek megfelelő munkakörben oktatóként foglalkoztatták, amelyet az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagja vagy más, az ESG-nek megfelelő felsőoktatási akkreditációs szervezet minőségbiztosítási eljárás keretében minősített vagy akkreditált.”
+### 11. §

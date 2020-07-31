@@ -36,18 +36,14 @@ b) a „köznevelési” szövegrész helyébe a „köznevelési és szakképz�
 
 12. 89. § (2) bekezdés a) pont ad) alpontjában a „mellett,” szövegrész helyébe a „mellett – ide nem értve az immateriális jószágokat, tárgyi eszközöket, készleteket, amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg –,”,
 
-13. 94. § (3) bekezdésében a „Kormány” szövegrész helyébe a „miniszter”, a „84. § (2) bekezdés a)–b), valamint e) és g) pontjában” szövegrész helyébe a „84. § (2) bekezdésben”,
+13.
 
 14. 94. § (6) bekezdésében az „a fenntartó hagyja jóvá” szövegrész helyébe az „a fenntartó fogadja el”,
 
 15. 101. § (3) bekezdésében a „táncművészeti” szövegrész helyébe a „cirkuszművészeti és táncművészeti”,
 
-16. 110. § (1) bekezdés 20. pontjában a „finanszírozásával, gazdálkodásával kapcsolatos” szövegrész helyébe a „finanszírozásával, gazdálkodásával, az állammal köthető finanszírozási keretmegállapodással, a feladatfinanszírozási megállapodással kapcsolatos”,
+16.
 
-17. 117/C. § (11) bekezdésében
-
-a) a „Kormány” szövegrész helyébe a „miniszter”,
-
-b) a „84. § (2) és (4) bekezdésben” szövegrész helyébe a „84. § (2) és (4) bekezdésben, valamint a 84/D. §-ban”
+17.
 
 szöveg lép.
