@@ -12,7 +12,7 @@ A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végz�
 
 | 3 | Baranya Megyei Kormányhivatal | Pécs | A Horvát Köztársaságban, a Szerb Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 4 | Csongrád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
+| 4 | Csongrád-Csanád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
 
 | 5 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Miskolc | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
@@ -35,4 +35,4 @@ A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végz�
 | 14 | Bács-Kiskun Megyei Kormányhivatal | Kecskemét | A Szerb Köztársaságban lakóhellyel rendelkező jogosultak |
 
 [^48]: A 28. §-t a 477/2016. (XII. 27.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^49]: Az 1. melléklet a 294/2012. (X. 16.) Korm. rendelet 12. §-ával megállapított, a 136/2016. (VI. 13.) Korm. rendelet 2. § (6) bekezdés d) pontja és (7) bekezdés f) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet a 294/2012. (X. 16.) Korm. rendelet 12. §-ával megállapított, a 136/2016. (VI. 13.) Korm. rendelet 2. § (6) bekezdés d) pontja és (7) bekezdés f) pontja, a 371/2020. (VII. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
