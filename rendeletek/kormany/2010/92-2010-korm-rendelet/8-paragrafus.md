@@ -14,6 +14,9 @@ tartalmazza.
 
 (3)[^41] Az NBF a telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány kiállításának vagy visszavonásának tényét közli az Alkotmányvédelmi Hivatallal, továbbá a cégellenőrzést végző nemzetbiztonsági szolgálattal, ha a cégellenőrzést nem az Alkotmányvédelmi Hivatal végezte, valamint NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvány, valamint egyszerűsített telephely biztonsági tanúsítvány esetén a honvédelemért felelős miniszterrel is.
 
+(4)[^42] A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény 3. § (1) bekezdésében meghatározott szerződés, illetve alvállalkozói szerződés megkötéséhez szükséges telephely biztonsági tanúsítvány vagy egyszerűsített telephely biztonsági tanúsítvány meglétéről az NBF kérelemre igazolást állít ki.
+
 [^39]: A 8. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 34. §-ával megállapított szöveg.
 [^40]: A 8. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^41]: A 8. § (3) bekezdése a 218/2011. (X. 19.) Korm. rendelet 82. § (2) bekezdésével megállapított, a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés f) és g) pontja szerint módosított szöveg.
+[^42]: A 8. § (4) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 26. §-a iktatta be.

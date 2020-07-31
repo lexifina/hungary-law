@@ -10,6 +10,6 @@ c) a minősített adatok belföldi és külföldi továbbításának szabályair
 
 d) a minősített szerződés teljesítését követő eljárásrendről, így a minősített adatok átadónak történő visszaszolgáltatásáról.
 
-(3)[^59] A projekt biztonsági utasítást a minősített adatot átadó szerv vezetője biztonsági vezetőjének bevonásával készíti el. „NATO Titkos!” vagy „EU Titkos!” és „NATO Bizalmas!” vagy „EU Bizalmas!” minősítési szintű projekt esetében a projekt biztonsági utasítást és annak esetleges módosításait minden esetben az NBF vagy, ha ezt nemzetközi szerződés szükségessé teszi, a másik részes fél nemzeti biztonsági hatósága is jóváhagyja. A projekt biztonsági utasítás a szerződésben részt vevő minden szereplőre alkalmazandó.
+(3)[^55] A projekt biztonsági utasítást a minősített adatot átadó szerv vezetője biztonsági vezetőjének bevonásával készíti el. „NATO Titkos!” vagy „EU Titkos!” és „NATO Bizalmas!” vagy „EU Bizalmas!” minősítési szintű projekt esetében a projekt biztonsági utasítást és annak esetleges módosításait minden esetben az NBF vagy, ha ezt nemzetközi szerződés szükségessé teszi, a másik részes fél nemzeti biztonsági hatósága is jóváhagyja. A projekt biztonsági utasítás a szerződésben részt vevő minden szereplőre alkalmazandó.
 
-[^59]: A 13. § (3) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^55]: A 13. § (3) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés i) pontja szerint módosított szöveg.
