@@ -1,0 +1,5 @@
+## folytatja le.
+
+2. § (1) Az energia ágazat energetikai létesítményei esetében a nemzeti és az európai létfontosságú rendszerelemek kijelölési eljárása során, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 1. § j) pontja szerinti létfontosságú rendszerelem alatt a rendszer rendszerelemét – beleértve az 1. § a)–d) pontja szerinti üzemeltető, illetve engedélyes által a rendszerelem működtetése érdekében végzett adminisztratív és logikai szolgáltatást is – kell érteni.
+
+(2) Az energia ágazat energetikai létesítményei esetében a nemzeti és az európai létfontosságú rendszerelemek kijelölési eljárása során az energetikai létesítmény részének kell tekinteni a technológiai hírközlési és informatikai rendszert is.
