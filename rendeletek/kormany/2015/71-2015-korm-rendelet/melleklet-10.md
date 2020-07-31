@@ -6,6 +6,6 @@
 
 | 3. | A különösen és közepesen veszélyes állat tartására, szaporítására, elidegenítésére, megvételére, illetve bemutatására irányuló engedélyezési eljárásában. | minden esetben | Az állattartás helyi szabályainak való megfelelés kérdésében. | települési önkormányzat jegyzője, fővárosban a főjegyző |
 
-10. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^100]
+10. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^101]
 
-[^100]: A 10. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés j) pontja hatályon kívül helyezte.
+[^101]: A 10. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés j) pontja hatályon kívül helyezte.

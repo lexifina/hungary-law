@@ -8,7 +8,7 @@
 
 | 3. | Ha a tevékenység helyi jelentőségű védett természeti területet érint. | Annak elbírálása, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | IGEN | IGEN | IGEN |
 
-9. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^99]
+9. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^100]
 
 I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések, kirendelendő szakértők
 
@@ -30,4 +30,4 @@ I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések, kirende
 
 II. Egyes természetvédelmi eljárásokban kijelölt szakhatóságok
 
-[^99]: A 9. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés g) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^100]: A 9. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés g) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

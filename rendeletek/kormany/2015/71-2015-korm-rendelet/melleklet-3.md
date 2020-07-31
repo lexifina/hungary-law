@@ -16,9 +16,9 @@
 
 | 7. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Borsod-Abaúj-Zemplén megye, Heves megye, Jász-Nagykun-Szolnok megye |
 
-| 8. | Csongrád Megyei Kormányhivatal | Csongrád megye, Bács-Kiskun megye |
+| 8. | Csongrád-Csanád Megyei Kormányhivatal | Csongrád-Csanád megye, Bács-Kiskun megye |
 
-3. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^93]
+3. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^94]
 
 ## A területi környezetvédelmi és természetvédelmi hatóságok különös illetékessége
 
@@ -44,4 +44,4 @@
 
 | 4. | Baranya Megyei Kormányhivatal | Kiemelt létesítményekkel kapcsolatos környezetvédelmi hatósági ügyek [az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló 15/2001. (VI. 6.) KöM rendelet 2. § i) pontja szerinti kiemelt létesítmények (atomerőmű, kísérleti és tanreaktor, uránbánya, radioaktív hulladéktároló, A-szintű izotóplaboratórium, kiégett fűtőelem-tároló)] |
 
-[^93]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet – a 31/2020. (II. 28.) Korm. rendelet 21. § (1) bekezdése szerint módosított – 141. § (8) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^94]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet – a 31/2020. (II. 28.) Korm. rendelet 21. § (1) bekezdése szerint módosított – 141. § (8) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

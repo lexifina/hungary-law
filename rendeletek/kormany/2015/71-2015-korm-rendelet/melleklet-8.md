@@ -10,7 +10,7 @@
 
 |  |  |  | A tevékenységnek a felszíni és felszín alatti vizekre gyakorolt hatás vizsgálata. | a hulladékkezelés helye szerint illetékes Katasztrófavédelmi Igazgatóság (vízvédelmi hatáskör) |
 
-8. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^98]
+8. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^99]
 
 I. A környezetvédelmi hatóság nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában vizsgálandó szakkérdések, kirendelendő szakértők
 
@@ -26,4 +26,4 @@ I. A környezetvédelmi hatóság nem veszélyes hulladék kereskedelme, közvet
 
 II. A környezetvédelmi hatóság nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában kijelölt szakhatóságok
 
-[^98]: A 8. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés f) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^99]: A 8. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés f) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

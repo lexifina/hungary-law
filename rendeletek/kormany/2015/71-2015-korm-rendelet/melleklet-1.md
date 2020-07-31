@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 71/2015. (III. 30.) Korm. rendelethez
+1. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^92]
 
 I. A nemzeti park igazgatóságok elnevezése és székhelye
 
@@ -478,7 +478,7 @@ kivéve továbbá
 
 a Közép-tiszai Tájvédelmi Körzet területe Lakitelek, Tiszakécske, Tiszaug településhatárokban.
 
-b) Csongrád megye területén:
+b) Csongrád-Csanád megye területén:
 
 Algyő,
 
@@ -560,7 +560,7 @@ b) Jász-Nagykun-Szolnok megye területén:
 
 a Körös-Maros NP területe Túrkeve, Kisújszállás, Kunszentmárton, Mesterszállás, Mezőtúr, Öcsöd, Szelevény és Tiszaföldvár településhatárokban.
 
-c) Csongrád megye területén:
+c) Csongrád-Csanád megye területén:
 
 Ambrózfalva,
 
@@ -649,3 +649,5 @@ Szentgyörgyvölgy,
 Zalalövő
 
 települések közigazgatási területéből a Balaton-felvidéki Nemzeti Park Igazgatóság működési területén kívül eső területek.
+
+[^92]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 33. § a)–b) pontja szerint módosított szöveg.

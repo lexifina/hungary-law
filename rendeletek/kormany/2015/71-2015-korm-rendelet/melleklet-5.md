@@ -36,7 +36,7 @@
 
 | 11. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | a honvédelmi és katonai célú építmények vonatkozásában az ország egész területe: Jász-Nagykun-Szolnok megye |
 
-| 12. | Csongrád Megyei Kormányhivatal | a honvédelmi és katonai célú építmények zajkibocsátásának vizsgálata kivételével: Csongrád megye Bács-Kiskun megye |
+| 12. | Csongrád-Csanád Megyei Kormányhivatal | a honvédelmi és katonai célú építmények zajkibocsátásának vizsgálata kivételével: Csongrád-Csanád megye Bács-Kiskun megye |
 
 ## 1.2.2. A regionális laboratóriumot üzemeltető megyei kormányhivatal, illetve a területi környezetvédelmi hatóság illetékességi területe környezeti rezgésmérések végzésének vonatkozásában
 
@@ -44,7 +44,7 @@
 
 | 1. | Regionális laboratóriumot üzemeltető megyei kormányhivatal/Területi környezetvédelmi hatóság | Illetékességi terület(megye) |
 
-| 2. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar megye, Békés megye, Szabolcs-Szatmár-Bereg megye, Borsod-Abaúj-Zemplén megye, Heves megye, Jász-Nagykun-Szolnok megye, Csongrád megye |
+| 2. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar megye, Békés megye, Szabolcs-Szatmár-Bereg megye, Borsod-Abaúj-Zemplén megye, Heves megye, Jász-Nagykun-Szolnok megye, Csongrád-Csanád megye |
 
 | 3. | Fejér Megyei Kormányhivatal | Győr-Moson-Sopron megye, Komárom-Esztergom megye, Vas megye, Zala megye, Fejér megye, Tolna megye, Veszprém megye, Baranya megye, Somogy megye, Bács-Kiskun megye |
 
@@ -66,7 +66,7 @@
 
 | 5. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | a) a „8. Sajó Völgye” légszennyezettségi zóna, b) a „10. Az ország többi területe” légszennyezettségi zónából Borsod-Abaúj-Zemplén megye közigazgatási területe, |
 
-| 6. | Csongrád Megyei Kormányhivatal | a) a „10. Az ország többi területe” légszennyezettségi zónából Csongrád megye közigazgatási területe, b) a „11. Kijelölt városok” légszennyezettségi zónából Szeged közigazgatási területe |
+| 6. | Csongrád-Csanád Megyei Kormányhivatal | a) a „10. Az ország többi területe” légszennyezettségi zónából Csongrád-Csanád megye közigazgatási területe, b) a „11. Kijelölt városok” légszennyezettségi zónából Szeged közigazgatási területe |
 
 | 7. | Fejér Megyei Kormányhivatal | a) az „5. Dunaújváros környéke” légszennyezettségi zóna, b) a „4. Székesfehérvár–Veszprém” légszennyezettségi zónából Fejér megye közigazgatási területe c) a „10. Az ország többi területe” légszennyezettségi zónából Fejér megye közigazgatási területe, |
 
@@ -96,7 +96,7 @@
 
 | 20. | Zala Megyei Kormányhivatal | a) a „10. Az ország többi területe” légszennyezettségi zónából Zala megye közigazgatási területe, b) a „11. Kijelölt városok” légszennyezettségi zónából Zalaegerszeg közigazgatási területe |
 
-5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^95]
+5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^96]
 
 I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban vizsgálandó szakkérdések, kirendelendő szakértők
 
@@ -138,4 +138,4 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 II. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban kijelölt szakhatóságok
 
-[^95]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^96]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
