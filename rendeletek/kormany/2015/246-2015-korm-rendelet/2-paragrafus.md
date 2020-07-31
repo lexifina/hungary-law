@@ -1,23 +1,19 @@
 ## 2. Javaslattevő hatóságok
 
-## 2. § Az egészségügyi ágazathoz tartozó létfontosságú rendszerelemek (a továbbiakban: létfontosságú rendszerelemek) meghatározása során az Lrtv. 2. mellékletében foglalt táblázat
+## 2. §[^1] Az egészségügyi ágazathoz tartozó létfontosságú rendszerelemek (a továbbiakban: létfontosságú rendszerelemek) meghatározása során az Lrtv. 1. mellékletében foglalt táblázat
 
-a) 12. pontjában meghatározott egészségügyi alágazat, az aktív fekvőbeteg-ellátás esetében az Állami Egészségügyi Ellátó Központ,
+a) 14. sorában meghatározott egészségügyi ágazat aktív fekvőbeteg-ellátás és a működtetéséhez szükséges szolgáltatások alágazat esetében az Állami Egészségügyi Ellátó Központ,
 
-b) 13. pontjában meghatározott egészségügyi alágazat, a mentésirányítás esetében az Országos Mentőszolgálat,
+b) 15. sorában meghatározott egészségügyi ágazat mentésirányítás alágazat esetében az Országos Mentőszolgálat,
 
-c) 14. pontjában meghatározott egészségügyi alágazat esetében
+c) 16. sorában meghatározott egészségügyi ágazat
 
-ca)[^1] az egészségügyi tartalékok vonatkozásában az Állami Egészségügyi Ellátó Központ,
+ca) egészségügyi tartalékok alágazat esetében az Állami Egészségügyi Ellátó Központ,
 
-cb) a vérkészletek vonatkozásában az Országos Vérellátó Szolgálat,
+cb) vérkészletek alágazat esetében az Országos Vérellátó Szolgálat,
 
-d)[^2] 15. pontjában meghatározott egészségügyi alágazat, a magas biztonsági szintű biológiai laboratóriumok esetében az országos tisztifőorvos,
+d) 17. sorában meghatározott egészségügyi ágazat magas biztonsági szintű biológiai laboratóriumok alágazat esetében az országos tisztifőorvos,
 
-e)[^3] 16. pontjában meghatározott egészségügyi alágazat, az egészségbiztosítás informatikai rendszere esetében a Nemzeti Egészségbiztosítási Alapkezelő,
+e) 18. sorában meghatározott egészségügyi ágazat gyógyszer-nagykereskedelem alágazat esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-f) 16a. pontjában meghatározott egészségügyi alágazat, a gyógyszer-nagykereskedelem esetében az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
-
-[^1]: A 2. § c) pont ca) alpontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § e) pontja a 379/2016. (XII. 2.) Korm. rendelet 303. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^1]: A 2. § a 375/2020. (VII. 30.) Korm. rendelet 74. §-ával megállapított szöveg.
