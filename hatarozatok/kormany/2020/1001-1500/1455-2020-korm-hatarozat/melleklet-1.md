@@ -26,7 +26,7 @@
 
 ## Határidő: azonnal
 
-## 4. A Kormány visszavonja a Modern Városok Program keretén belül a salgótarjáni Szent Lázár Megyei Kórház komplex fejlesztése megvalósításához szükséges támogatás biztosításáról szóló 1577/2018. (XI. 15.) Korm. határozat 5. pontját.
+## 4.[^1]
 
 1. melléklet az 1455/2020. (VII. 30.) Korm. határozathoz
 
@@ -115,3 +115,5 @@
 |  |  | egyéb: azonnal |  |  | 9 356 833 900 |  |  |  |  |  |  |  |  |  |  | 9 356 833 900 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
