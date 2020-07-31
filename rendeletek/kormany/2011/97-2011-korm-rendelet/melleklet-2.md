@@ -4,25 +4,25 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Eljáró hatóság |
 
-| 2. | Kiemelt nagyberuházásként kutatási nagyberendezés és a hozzá tartozó építmények, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Szeged, 01392/19 | Általános építésügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal |
+| 2. | Kiemelt nagyberuházásként kutatási nagyberendezés és a hozzá tartozó építmények, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Szeged, 01392/19 | Általános építésügyi hatósági engedélyek | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 3. | Környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Csongrád Megyei Kormányhivatal |
+| 3. | Környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 4. | A környezet- és település- egészségügyre, az egészségkárosító kockázatok és esetleges hatások felmérésére, a felszín alatti vizek minőségét, egészség- károsítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatára, lakott területtől (lakóépülettől) számított védőtávolságok véleményezésére, a talajjal, a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére, az emberi használatra szolgáló felszíni vizek védelmére, továbbá a levegő higiénés követelmények teljesülésére kiterjedően. | Csongrád Megyei Kormányhivatal |
+| 4. | A környezet- és település- egészségügyre, az egészségkárosító kockázatok és esetleges hatások felmérésére, a felszín alatti vizek minőségét, egészség- károsítás nélküli fogyaszthatóságát, felhasználhatóságát befolyásoló körülmények, tényezők vizsgálatára, lakott területtől (lakóépülettől) számított védőtávolságok véleményezésére, a talajjal, a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére, az emberi használatra szolgáló felszíni vizek védelmére, továbbá a levegő higiénés követelmények teljesülésére kiterjedően. | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 5. | Környezet-egészségügyi szakkérdésekre, így különösen az egészségkárosító kockázatok és esetleges hatások felmérésére, a veszélyes készítményekkel végzett tevékenység vizsgálatára, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően. | Csongrád Megyei Kormányhivatal |
+| 5. | Környezet-egészségügyi szakkérdésekre, így különösen az egészségkárosító kockázatok és esetleges hatások felmérésére, a veszélyes készítményekkel végzett tevékenység vizsgálatára, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények érvényesítésére kiterjedően. | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 6. | Útügyi hatósági engedélyek | Csongrád Megyei Kormányhivatal |
+| 6. | Útügyi hatósági engedélyek | Csongrád-Csanád Megyei Kormányhivatal |
 
 | 7. | Vízügyi hatósági engedélyek | illetékes katasztrófavédelmi igazgatóság |
 
-| 8. | Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal |
+| 8. | Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 9. | Földvédelmi hatósági eljárás | Csongrád Megyei Kormányhivatal |
+| 9. | Földvédelmi hatósági eljárás | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 10. | Ingatlan-nyilvántartási hatósági eljárások | Csongrád Megyei Kormányhivatal |
+| 10. | Ingatlan-nyilvántartási hatósági eljárások | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 11. | Földmérési hatósági eljárások | Csongrád Megyei Kormányhivatal |
+| 11. | Földmérési hatósági eljárások | Csongrád-Csanád Megyei Kormányhivatal |
 
 | 12. | Erdészeti hatósági engedélyek | Bács-Kiskun Megyei Kormányhivatal |
 
@@ -30,9 +30,9 @@
 
 | 14. | Bányahatósági engedélyek | Jász-Nagykun- Szolnok Megyei Kormányhivatal |
 
-| 15. | Talajvédelmi hatósági engedélyek | Csongrád Megyei Kormányhivatal |
+| 15. | Talajvédelmi hatósági engedélyek | Csongrád-Csanád Megyei Kormányhivatal |
 
-| 16. | Örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Csongrád Megyei Kormányhivatal |
+| 16. | Örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Csongrád-Csanád Megyei Kormányhivatal |
 
 | 17. | Vasúti hatósági engedélyek | közlekedésért felelős miniszter |
 
