@@ -1,0 +1,3 @@
+## 7. § A 78/2003. (XI. 27.) GKM rendelet 7/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A 4. § (2) bekezdésében meghatározott követelményeknek nem kell megfelelnie az olyan játszótéri eszköznek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.”

@@ -1,0 +1,7 @@
+## 30. § Az e rendeletben meghatározott technikai jellegű előírásoknak nem kell megfelelniük az olyan termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+31. § (1) A 21., 22. § és a 3. melléklet a 2014/94/EU európai parlamenti és tanácsi irányelvnek az L kategóriájú gépjárművek töltőállomásai, a belvízi hajók part menti villamosenergia-ellátása és a vízi közlekedést szolgáló LNG-töltőállomások tekintetében történő kiegészítéséről, valamint az irányelvnek a gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozók tekintetében történő módosításáról szóló, 2017. november 17-i (EU) 2018/674 felhatalmazáson alapuló európai bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) A 23. § a robbanásveszélyes légkörben való használatra szánt felszerelésekre és védelmi rendszerekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/34/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) A 24. § a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
