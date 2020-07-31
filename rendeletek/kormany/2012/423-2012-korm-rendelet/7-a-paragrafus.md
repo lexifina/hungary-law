@@ -1,7 +1,7 @@
-## 3/A. [^20] A felvételi eljárások általános szabályai
+## 3/A. [^21] A felvételi eljárások általános szabályai
 
 7/A. § (1) Az elektronikusan feltöltött dokumentumok megküldési időpontja a dokumentum elküldésének napja.
 
 (2) Az üzemzavarral érintett napokkal a határidők, határnapok meghosszabbodnak.
 
-[^20]: A 3/A. alcímet (7/A–7/C. §) az 502/2013. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 3/A. alcímet (7/A–7/C. §) az 502/2013. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
