@@ -10,7 +10,7 @@
 
 ## 5. Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság, székhelye Miskolc, illetékességi területe Borsod-Abaúj-Zemplén megye közigazgatási területe,
 
-## 6. Csongrád Megyei Katasztrófavédelmi Igazgatóság, székhelye Szeged, illetékességi területe Csongrád megye közigazgatási területe,
+## 6. Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság, székhelye Szeged, illetékességi területe Csongrád-Csanád megye közigazgatási területe,
 
 ## 7. Fejér Megyei Katasztrófavédelmi Igazgatóság, székhelye Székesfehérvár, illetékességi területe Fejér megye közigazgatási területe,
 
@@ -78,7 +78,7 @@
 
 |  |  | 14. | Tiszaújváros |
 
-|  | Csongrád megye | 15. | Szeged |
+|  | Csongrád-Csanád megye | 15. | Szeged |
 
 |  |  | 16. | Szentes |
 
@@ -180,6 +180,6 @@
 
 |  |  | 65. | Dél-budai |
 
-2. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^55]
+2. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^56]
 
-[^55]: A 2. melléklet a 268/2019. (XI. 19.) Korm. rendelet 6. § (1)–(2) bekezdése szerint módosított szöveg.
+[^56]: A 2. melléklet a 268/2019. (XI. 19.) Korm. rendelet 6. § (1)–(2) bekezdése szerint módosított szöveg.
