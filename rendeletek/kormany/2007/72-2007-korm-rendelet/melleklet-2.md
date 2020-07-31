@@ -380,7 +380,7 @@ A közigazgatási szerv fizetési számlája
 
 | 5. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00335656-00000000 |
 
-| 6. | Csongrád Megyei Kormányhivatal | 10028007-00335663-00000000 |
+| 6. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00335663-00000000 |
 
 | 7. | Fejér Megyei Kormányhivatal | 10029008-00335670-00000000 |
 
@@ -420,7 +420,7 @@ A közigazgatási szerv fizetési számlája
 
 | 25. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 26. | Csongrád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 26. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
 | 27. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
@@ -436,4 +436,4 @@ A közigazgatási szerv fizetési számlája
 
 | 33. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-[^8]: A 2. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 91. § (2) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
