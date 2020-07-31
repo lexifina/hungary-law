@@ -12,7 +12,7 @@
 
 | 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád Megyei Kormányhivatal |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Megyei Kormányhivatal |
 
 | 8. | művelési ágból történő kivétel hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
 
