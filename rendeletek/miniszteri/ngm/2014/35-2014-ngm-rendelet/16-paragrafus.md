@@ -1,3 +1,5 @@
+## 15. §[^18] A gázpalack, a gázhordó és a palackköteg színjelzésére vonatkozó műszaki követelményeket a 25. § (6) bekezdésében meghatározott szakági műszaki előírásban kell meghatározni.
+
 ## 7. Ipari gázok palackjaival kapcsolatos egyéb kötelezettségek
 
 16. § (1) Amennyiben a tulajdonos vagy használó úgy ítéli meg vagy okkal feltételezi, hogy a gázpalack nem felel meg e rendelet – ideértve az időszakos biztonságtechnikai ellenőrzés követelményeit is – előírásainak, a gázpalackot mindaddig nem bocsáthatja más rendelkezésére, nem használhatja, amíg azt megfelelővé nem tették.
@@ -16,8 +18,11 @@ b) tulajdonosváltás esetén a régi tulajdonos vagy jogutód kezdeményezésé
 
 (6) A gázpalack csak a tulajdonos engedélyével tölthető. Töltő gazdálkodó szervezet saját tulajdonú gázpalackot és megbízás alapján tisztázott tulajdonjogú gázpalackot tölthet.
 
-(7) Már alkalmazásban lévő tulajdonosi jelölések Hatóságnak történő bejelentésére a tulajdonos köteles, az újonnan alkalmazott tulajdonosi jelölések Hatóságnak történő bejelentésére a karbantartó gazdálkodó szervezet köteles.
+(7)[^19]
 
 (8) Az 1986. június 1-je előtt gyártott, 250 bar-nál kisebb próbanyomásra és 0,75 kg/l töltettömegre engedélyezett szén-dioxid töltetű gázpalackok csak hasadótárcsás szeleppel felszerelve tarthatók forgalomban. A hasadótárcsa névleges nyitónyomásának a gázpalack próbanyomásával azonos értéknek kell lennie.
 
 (9) A (8) bekezdésben említett gázpalackok csak belföldi forgalomban használhatók.
+
+[^18]: A 15. § a 27/2020. (VII. 16.) ITM rendelet 13. §-ával megállapított szöveg.
+[^19]: A 16. § (7) bekezdését a 27/2020. (VII. 16.) ITM rendelet 19. § c) pontja hatályon kívül helyezte.
