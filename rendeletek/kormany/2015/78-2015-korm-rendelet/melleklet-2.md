@@ -74,7 +74,7 @@ Az eljáró közigazgatási szerv fizetési számlája
 
 | 6. | Budapest Főváros Kormányhivatala | 10023002-00299592-00000000 |
 
-| 7. | Csongrád Megyei Kormányhivatal | 10028007-00335663-00000000 |
+| 7. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00335663-00000000 |
 
 | 8. | Fejér Megyei Kormányhivatal | 10029008-00335670-00000000 |
 
@@ -104,4 +104,4 @@ Az eljáró közigazgatási szerv fizetési számlája
 
 | 21. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^3]: A 2. melléklet a 264/2015. (IX. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 264/2015. (IX. 14.) Korm. rendelet 4. §-a, a 371/2020. (VII. 30.) 34. §-a szerint módosított szöveg.
