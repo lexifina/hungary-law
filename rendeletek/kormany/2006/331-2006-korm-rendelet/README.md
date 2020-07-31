@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2019-05-07 | 2006-331-20-22.36 | 102/2019. (V. 6.) Korm. rendelet |
 | 2020-01-01 | 2006-331-20-22.37 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2006-331-20-22.38 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-07-31 | 2006-331-20-22.39 | 360/2019. (XII. 30.) Korm. rendelet |
