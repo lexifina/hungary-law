@@ -2,7 +2,7 @@
 
 3. § (1) A Központ kezeli
 
-a) az Ibtv. 2. §-ában – az Ibtv. 19. § (2) és (3) bekezdése szerinti kivétellel – meghatározott szervek nyílt,
+a)[^5] az Ibtv. 2. §-ában – az Ibtv. 19. § (2) bekezdése szerinti kivétellel – meghatározott szervek nyílt,
 
 b) a bejelentés-köteles szolgáltatók,
 
@@ -16,7 +16,7 @@ d) a központosított informatikai és elektronikus hírközlési szolgáltató
 
 a) az elektronikus információs rendszerek felügyeletére kijelölt hatóságokkal,
 
-b) az Ibtv. 19. § (2) és (3) bekezdése szerinti eseménykezelő központtal (a továbbiakban együtt: eseménykezelő központ),
+b)[^6] az Ibtv. 19. § (2) bekezdése szerinti eseménykezelő központtal (a továbbiakban: eseménykezelő központ),
 
 c) a rendvédelmi szervekkel,
 
@@ -47,3 +47,6 @@ d) dinamikus kockázat- és eseményelemzések, valamint a biztonsági eseménye
 e) sérülékenységvizsgálat lefolytatása.
 
 (7) A Központ meghatározza a biztonsági események és kockázatok kezelésére vonatkozó eljárásokat, valamint a biztonsági események, kockázatok és információk osztályozására szolgáló eljárásokat és szabályokat. Ennek során a Központ együttműködik az (1) bekezdésben meghatározott szervezetekkel.
+
+[^5]: A 3. § (1) bekezdés a) pontja a 375/2020. (VII. 30.) Korm. rendelet 114. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés b) pontja a 375/2020. (VII. 30.) Korm. rendelet 114. § b) pontja szerint módosított szöveg.

@@ -20,6 +20,12 @@
 
 9. érintett szervezet: a biztonsági vizsgálattal vagy sérülékenységvizsgálattal érintett, elektronikus információs rendszert üzemeltető szervezet;
 
+9a.[^1] felhasználói dokumentáció: a vizsgálandó informatikai rendszer, illetve szolgáltatás rövid összefoglaló leírását, továbbá a funkcióinak részletezett használati leírását tartalmazó dokumentum;
+
+9b.[^2] felhasználói jogosultság mátrix: a vizsgálandó informatikai rendszer, illetve szolgáltatás felhasználóinak jogosultságait, a jogosultságok tekintetében alkalmazott szinteket és ezek közötti átjárhatóság feltételeit ismertető dokumentum;
+
+9c.[^3] funkció-tesztelési terv: a vizsgálandó informatikai rendszer, illetve szolgáltatás egyes funkcióinak részletes tesztelési folyamatát vagy egy végrehajtott tesztelés eredményeit rögzítő dokumentum;
+
 10. kézi informatikai biztonsági vizsgálat: olyan biztonsági vizsgálati eljárás, amelynek a során az érintett szervezet informatikai rendszerének sérülékenységei a vizsgálatot végző személy által egyedileg, manuálisan összeállított lekérdezések alkalmazásával kerülnek feltérképezésre;
 
 11. közvetítő szolgáltató: az Ekertv. 2. § l) pontja szerinti szolgáltató;
@@ -32,6 +38,8 @@
 
 15. pszichológiai manipuláció: olyan tevékenységi forma, technikák és módszerek összessége, amely az emberek befolyásolására alapozva teszi lehetővé bizalmas információk megszerzését vagy kártékony program terjedését és működését;
 
+15a.[^4] rendszerterv: a rendszerismertető leírást, a fejlesztési, a megvalósítási és üzemeltetési dokumentációt, továbbá az érintett rendszer, illetve szolgáltatás bevezetésére, üzembe helyezésére vonatkozó terveket naprakészen tartalmazó dokumentum;
+
 16. titkosítási eljárás: olyan eljárás, amely az adat megismerhetőségét azáltal korlátozza, hogy az adat egy algoritmus segítségével átalakításra kerül olyan jelsorozattá, ami olvashatatlan annak a számára, aki nem rendelkezik a visszaalakításhoz szükséges egyedi jelsorozatból álló kulccsal;
 
 17. titkosítási kulcs: titkosítási eljárás során alkalmazott olyan jelsorozat, amelynek az ismeretében a titkosított állomány megismerhető;
@@ -39,3 +47,8 @@
 18. webes vizsgálat: olyan biztonsági vizsgálati eljárás, amelynek a során automatizált és kézi vizsgálatok útján kerülnek feltárásra a webes alkalmazások sérülékenységei;
 
 19. vezeték nélküli hálózat informatikai biztonsági vizsgálat: olyan biztonsági vizsgálati eljárás, amelynek a során a vezeték nélküli hozzáférési és kapcsolódási pontok keresése, feltérképezése, titkosítási eljárások elemzése, titkosítási kulcsok visszafejthetőségének ellenőrzése célszoftverek és kézi vizsgálat útján történik.
+
+[^1]: Az 1. § 9a. pontját a 375/2020. (VII. 30.) Korm. rendelet 105. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 9b. pontját a 375/2020. (VII. 30.) Korm. rendelet 105. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 9c. pontját a 375/2020. (VII. 30.) Korm. rendelet 105. § (1) bekezdése iktatta be.
+[^4]: Az 1. § 15a. pontját a 375/2020. (VII. 30.) Korm. rendelet 105. § (2) bekezdése iktatta be.
