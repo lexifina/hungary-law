@@ -1,19 +1,15 @@
-## végzi.
-
 ## 4. Az infokommunikációs technológiák ágazathoz tartozó nemzeti létfontosságú rendszerelemek ágazati kritériumai
 
-## 9. § Nemzeti létfontosságú rendszerelemnek lehet kijelölni az alkalmazott technológiától függetlenül az Lrtv. 3. mellékletében foglalt táblázat 26–29. sora szerinti alágazatba tartozó azon rendszerelemet – ha kiesése esetén az más rendszerelemmel nem váltható ki –, amelynek igénybevételével az elektronikus hírközlési szolgáltató erre irányuló szerződés vagy jogszabályi rendelkezés alapján
+## 9. §[^16] Nemzeti létfontosságú rendszerelemnek lehet kijelölni az alkalmazott technológiától függetlenül az Lrtv. 1. mellékletében foglalt táblázat 23., illetve 24. sora szerinti alágazatba tartozó azon rendszerelemet, amelynek igénybevételével
 
-a) Magyarország területén
+a) az elektronikus hírközlési szolgáltató erre irányuló szerződés vagy jogszabályi rendelkezés alapján Magyarország területén
 
-aa) internet-hozzáférési szolgáltatást – ideértve az ehhez szükséges internet-infrastruktúrát –,
+aa) internet-hozzáférési szolgáltatást nyújt, illetve a szolgáltatás nyújtásához szükséges internet-infrastruktúrát biztosít, vagy
 
-ab) vezetékes és vezeték nélküli elektronikus hírközlési szolgáltatást – ideértve az ehhez szükséges vezetékes és vezeték nélküli hírközlő hálózatokat –,
+ab) elektronikus hírközlési szolgáltatást nyújt, illetve a szolgáltatás nyújtásához szükséges elektronikus hírközlő hálózatokat biztosít,
 
-ac) rádiós távközlést vagy
+## és amelynek működése közvetlenül vagy közvetve összesen több mint húszezer előfizetőt érinthet, vagy
 
-ad) űrtávközlést
+b) az egyetemes elektronikus hírközlési szolgáltató az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) szerinti egyetemes elektronikus hírközlési szolgáltatást nyújt.
 
-biztosít, és amelynek szerződésben vagy jogszabályban meghatározott mértéket meghaladó kiesése összesen több mint ötvenezer természetes vagy jogi személyt érinthet, vagy
-
-b) egyetemes hírközlési szolgáltatást nyújt.
+[^16]: A 9. § a 375/2020. (VII. 30.) Korm. rendelet 97. §-ával megállapított szöveg.
