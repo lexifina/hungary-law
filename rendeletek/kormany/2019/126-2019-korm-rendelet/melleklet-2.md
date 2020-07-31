@@ -8,7 +8,7 @@
 
 | 3. | Észak-alföldi Regionális Igazgatóság Székhely: Debrecen | a) Hajdú-Bihar megye, b) Szabolcs-Szatmár-Bereg megye, c) Jász-Nagykun-Szolnok megye |
 
-| 4. | Dél-alföldi Regionális Igazgatóság Székhely: Szeged | a) Csongrád megye, b) Bács-Kiskun megye, c) Békés megye |
+| 4. | Dél-alföldi Regionális Igazgatóság Székhely: Szeged | a) Csongrád-Csanád megye, b) Bács-Kiskun megye, c) Békés megye |
 
 | 5. | Észak-magyarországi Regionális Igazgatóság Székhely: Miskolc | a) Borsod-Abaúj-Zemplén megye, b) Heves megye, c) Nógrád megye |
 
@@ -18,6 +18,6 @@
 
 | 8. | Nyugat-dunántúli Regionális Igazgatóság Székhely: Győr | a) Győr-Moson-Sopron megye, b) Vas megye, c) Zala megye |
 
-2. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^24]
+2. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^25]
 
-[^24]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
