@@ -1900,7 +1900,7 @@ Tiszatardos
 
 Tokaj
 
-5. Csongrád megye
+5.[^16] Csongrád-Csanád megye
 
 5.1. Csongrádi Járási Hivatal
 
@@ -3008,7 +3008,7 @@ Tófalu
 
 Újlőrincfalva
 
-9.4.[^16] Gyöngyösi Járási Hivatal
+9.4.[^17] Gyöngyösi Járási Hivatal
 
 Székhely: Gyöngyös
 
@@ -3060,7 +3060,7 @@ Visonta
 
 Visznek
 
-9.5.[^17] Hatvani Járási Hivatal
+9.5.[^18] Hatvani Járási Hivatal
 
 Székhely: Hatvan
 
@@ -7044,5 +7044,6 @@ Zalaszentlászló
 
 Zalavég
 
-[^16]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

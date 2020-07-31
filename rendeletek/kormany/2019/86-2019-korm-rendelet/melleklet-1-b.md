@@ -6,13 +6,13 @@
 
 | 2. | Bács-Kiskun | Tolna |
 
-| 3. | Békés | Csongrád |
+| 3. | Békés | Csongrád-Csanád |
 
 | 4. | Borsod-Abaúj-Zemplén | Szabolcs-Szatmár-Bereg |
 
 | 5. | Budapest | Pest |
 
-| 6. | Csongrád | Békés |
+| 6. | Csongrád-Csanád | Békés |
 
 | 7. | Fejér | Veszprém |
 
@@ -42,7 +42,7 @@
 
 | 20. | Zala | Vas |
 
-1/B. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^19]
+1/B. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^20]
 
 Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivatal
 
@@ -206,7 +206,7 @@ helyett eljáró másik járási (fővárosi kerületi) hivatal
 
 | 23. | XXIII. Kerület | XVIII. Kerület |
 
-6. Csongrád megye
+6. Csongrád-Csanád megye
 
 | Sorszám | Járási Hivatal | Helyettesítő járási hivatal |
 
@@ -522,4 +522,4 @@ helyett eljáró másik járási (fővárosi kerületi) hivatal
 
 | 6. | Zalaegerszeg | Lenti |
 
-[^19]: Az 1/B. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 199. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: Az 1/B. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 199. § (4) bekezdése iktatta be, szövege a 371/2020. (VII. 30.) Korm. rendelet 51. § c) pontja szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
