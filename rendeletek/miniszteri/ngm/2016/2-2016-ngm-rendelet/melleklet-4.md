@@ -1,3 +1,3 @@
-4. melléklet a 2/2016. (I. 5.) NGM rendelethez[^55]
+4. melléklet a 2/2016. (I. 5.) NGM rendelethez[^56]
 
-[^55]: A 4. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 44. § k) pontja hatályon kívül helyezte.
+[^56]: A 4. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 44. § k) pontja hatályon kívül helyezte.

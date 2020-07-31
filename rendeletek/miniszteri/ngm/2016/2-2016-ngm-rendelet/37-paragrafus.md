@@ -2,4 +2,7 @@
 
 (2)[^50] Ez a rendelet az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv 2. cikk 1., 8., 9. pontjának, 5. cikk (2) bekezdésének, II. melléklet 2. pontjának és 3. pont 3.3. alpontjának való megfelelést szolgálja.
 
+(3)[^51] Ez a rendelet a 2014/94/EU európai parlamenti és tanácsi irányelvnek az L kategóriájú gépjárművek töltőállomásai, a belvízi hajók part menti villamosenergia-ellátása és a vízi közlekedést szolgáló LNG-töltőállomások tekintetében történő kiegészítéséről, valamint az irányelvnek a gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozók tekintetében történő módosításáról szóló, 2017. november 17-i (EU) 2018/674 felhatalmazáson alapuló európai bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^50]: A 37. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 15. §-ával megállapított szöveg.
+[^51]: A 37. § (3) bekezdését a 27/2020. (VII. 16.) ITM rendelet 21. § iktatta be.
