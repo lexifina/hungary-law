@@ -62,7 +62,7 @@
 
 | Orosházai járás |
 
-| 10. | BORSOD-ABAÚJ-ZEMPLÉN | Miskolci | Miskolci járás |
+| 10. | BORSOD- ABAÚJ- ZEMPLÉN | Miskolci | Miskolci járás |
 
 | 11. | Szerencsi | Szikszói járás |
 
@@ -140,7 +140,7 @@
 
 | Budapest XXII. kerület |
 
-| 24. | CSONGRÁD | Szegedi | Szegedi járás |
+| 24. | CSONGRÁD- CSANÁD | Szegedi | Szegedi járás |
 
 | Mórahalmi járás |
 
@@ -170,7 +170,7 @@
 
 | Sárbogárdi járás |
 
-| 28. | GYŐR-MOSON-SOPRON | Győri | Győri járás |
+| 28. | GYŐR-MOSON- SOPRON | Győri | Győri járás |
 
 | Pannonhalmi járás |
 
@@ -218,7 +218,7 @@
 
 | Hatvani járás |
 
-| 35. | JÁSZ-NAGYKUN-SZOLNOK | Szolnoki | Szolnoki járás |
+| 35. | JÁSZ- NAGYKUN- SZOLNOK | Szolnoki | Szolnoki járás |
 
 | Kunszentmártoni járás |
 
@@ -236,7 +236,7 @@
 
 | Jászapáti járás |
 
-| 38. | KOMÁROM-ESZTERGOM | Tatabányai | Tatabányai járás |
+| 38. | KOMÁROM- ESZTERGOM | Tatabányai | Tatabányai járás |
 
 | Oroszlányi járás |
 
@@ -312,7 +312,7 @@
 
 | Tabi járás |
 
-| 50. | SZABOLCS-SZATMÁR-BEREG | Nyíregyházi | Nyíregyházi járás |
+| 50. | SZABOLCS- SZATMÁR- BEREG | Nyíregyházi | Nyíregyházi járás |
 
 | Ibrányi járás |
 
@@ -400,4 +400,4 @@
 
 Az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3b) bekezdés a) pontja szerinti beolvadásos kiválással érintett tankerületek és a befogadó tankerületi központok
 
-[^43]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^43]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a, a 371/2020. (VI. 30.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.

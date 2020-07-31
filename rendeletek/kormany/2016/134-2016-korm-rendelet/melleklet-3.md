@@ -156,7 +156,7 @@
 
 | Fővárosi Tankerület |
 
-| 24 | CSONGRÁD | Szegedi | Szegedi tankerület |
+| 24 | CSONGRÁD-CSANÁD | Szegedi | Szegedi tankerület |
 
 | Mórahalomi tankerület |
 
