@@ -6,11 +6,11 @@
 
 (1c)[^14] A hatósági ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti hozzátartozója. A hatósági ellenőrzést végző a kizárási okot közvetlen vezetőjének haladéktalanul köteles bejelenteni, továbbá azt az ellenőrzött szerv is bejelentheti.
 
-(2)[^15] A Nemzeti Biztonsági Felügyelet a hatósági ellenőrzést a helyi biztonsági felügyelet, ennek hiányában a biztonsági vezető, továbbá a külképviseletek vonatkozásában a külpolitikáért felelős miniszter által vezetett minisztérium, a Magyar Honvédség vonatkozásában a honvédelemért felelős miniszter által vezetett minisztérium, az Információs Hivatal vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter által vezetett minisztérium bevonásával végzi.
+(2)[^15] A Nemzeti Biztonsági Felügyelet a hatósági ellenőrzést a helyi biztonsági felügyelet, ennek hiányában a biztonsági vezető, továbbá a külképviseletek vonatkozásában a külpolitikáért felelős miniszter által vezetett minisztérium, a honvédségi szervezetek vonatkozásában a Magyar Honvédség Parancsnoksága, az Információs Hivatal vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter által vezetett minisztérium bevonásával végzi.
 
 (2a)[^16] A hatósági ellenőrzésről az ellenőrizendő szervet az ellenőrzés megkezdése előtt – a biztonsági vezetőn keresztül – értesíteni kell, ha az értesítés megküldése az ellenőrzés célját nem hiúsítja meg.
 
-(2b)[^17] A hatósági ellenőrzésre a Nemzeti Biztonsági Felügyelet megbízott kormánytisztviselője – ideértve a rendvédelmi feladatokat ellátó szervtől, a Magyar Honvédségtől vagy a Katonai Nemzetbiztonsági Szolgálattól a Nemzeti Biztonsági Felügyelethez vezényelt hivatásos állomány tagját is – jogosult. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a munkáltatói vagy szolgálati igazolvánnyal együtt érvényes.
+(2b)[^17] A hatósági ellenőrzésre a Nemzeti Biztonsági Felügyelet hivatásos szolgálati jogviszonnyal, valamint rendvédelmi igazgatási szolgálati jogviszonnyal rendelkező tagja jogosult. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a szolgálati igazolvánnyal együtt érvényes. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni.
 
 (2c)[^18] A hatósági ellenőrzést úgy kell végezni, hogy az ellenőrzött szerv rendeltetésszerű tevékenységét lehetőleg ne akadályozza. Az ellenőrzést az ellenőrizni kívánt tevékenység folytatása idején, az ellenőrzött szerv hivatalos munkaidejének megfelelő időpontban kell végezni.
 
@@ -61,9 +61,9 @@ d) javasolhatja büntető- vagy szabálysértési eljárás kezdeményezését.
 [^12]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^13]: A 4. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^14]: A 4. § (1c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^15]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^17]: A 4. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 4. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^18]: A 4. § (2c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^19]: A 4. § (2d) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^20]: A 4. § (2e) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

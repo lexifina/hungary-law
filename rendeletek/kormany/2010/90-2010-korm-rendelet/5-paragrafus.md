@@ -14,7 +14,7 @@ c) a kezelt minősített adatok minősítési szintjének megfelelő szintű sze
 
 d) aláírta a titoktartási nyilatkozatot.
 
-(2)[^30] Biztonsági vezetőnek a minősített adatot kezelő szervnél csak az érintett szervvel munkaviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonyban vagy a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban álló, valamint a 4/A. § (3) bekezdés szerint foglalkoztatott személyt lehet kinevezni. Biztonsági vezetői feladat megbízási szerződés alapján nem látható el.
+(2)[^30] Biztonsági vezetőnek a minősített adatot kezelő szervnél csak az érintett szervvel munkaviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonyban, a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban, honvédelmi alkalmazotti vagy rendvédelmi igazgatási jogviszonyban álló, valamint a 4/A. § (3) bekezdés szerint foglalkoztatott személyt lehet kinevezni. Biztonsági vezetői feladat megbízási szerződés alapján nem látható el.
 
 (2a)[^31] A közös biztonsági vezető a feladatait a 4/A. § (3) bekezdése szerinti együttes utasításban foglaltak és a 4/A. § (4) bekezdése alapján látja el.
 
@@ -25,7 +25,7 @@ d) aláírta a titoktartási nyilatkozatot.
 (5)[^33] A biztonsági vezető köteles a biztonsági vezetők részére szervezett képzésen és továbbképzésen részt venni.
 
 [^29]: Az 5. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^30]: Az 5. § (2) bekezdése a 170/2018. (IX. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (2) bekezdése a 170/2018. (IX. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
 [^31]: Az 5. § (2a) bekezdését a 170/2018. (IX. 25.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^32]: Az 5. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^33]: Az 5. § (5) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 24. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-55. § (1)[^131] Az adathordozó azonos címzettnek szánt sokszorosított példányai egy csomagban, ha ez nem lehetséges, a minősítő által meghatározott darabszámú példányt tartalmazó csomagokban kerül továbbításra és szállításra. A csomagolás kizárja a minősített adatra vonatkozó érdemi információ illetéktelen személy általi megismerését. A minősítő a csomagok lezárásánál követendő eljárást oly módon szabályozza, hogy az esetleges felbontás, jogosulatlan hozzáférés ténye egyértelműen megállapítható legyen. A csomagon legalább az alábbi adatok szerepelnek:
+55. § (1)[^145] Az adathordozó azonos címzettnek szánt sokszorosított példányai egy csomagban, ha ez nem lehetséges, a minősítő által meghatározott darabszámú példányt tartalmazó csomagokban kerül továbbításra és szállításra. A csomagolás kizárja a minősített adatra vonatkozó érdemi információ illetéktelen személy általi megismerését. A minősítő a csomagok lezárásánál követendő eljárást oly módon szabályozza, hogy az esetleges felbontás, jogosulatlan hozzáférés ténye egyértelműen megállapítható legyen. A csomagon legalább az alábbi adatok szerepelnek:
 
 a) a címzett megnevezése,
 
@@ -14,10 +14,10 @@ f) a csomag címzett általi felbonthatóságának időpontja a naptári nap, ó
 
 g) a csomagban található adatok minősítési szintje, az adathordozó eredeti példányának iktatószáma és a küldő szerv megnevezése abban az esetben, ha a csomagolásnál alkalmazott eljárás miatt a borítólapon található adatok megismerése csak a csomag felbontásakor válik lehetővé.
 
-(2)[^132] Amennyiben a szállításban résztvevő a nyilvántartásba vételhez szükséges adatokat az adathordozó átvételének időpontjában nem ellenőrizheti, a minősítő rendelkezése szerinti nyilvántartást vezet.
+(2)[^146] Amennyiben a szállításban résztvevő a nyilvántartásba vételhez szükséges adatokat az adathordozó átvételének időpontjában nem ellenőrizheti, a minősítő rendelkezése szerinti nyilvántartást vezet.
 
-(3)[^133] A szállításban részt vevők rendelkezésére bocsátott jegyzék a címzetteknek történő átadás-átvétel dokumentálására szolgál, és ebből megállapítható, hogy mely címzettnek, mikor, mely adathordozóról készült másolat hány példánya, valamint a csomagban történő szállítás esetén mikor és mely csomag kerüljön vagy került átadásra. A címzett részére történő szállítás dokumentálásához az átadás-átvételi jegyzék rögzíti az átadás-átvétel tényének időpontját, a címzett, valamint a nevében eljáró személy nevét és aláírását.
+(3)[^147] A szállításban részt vevők rendelkezésére bocsátott jegyzék a címzetteknek történő átadás-átvétel dokumentálására szolgál, és ebből megállapítható, hogy mely címzettnek, mikor, mely adathordozóról készült másolat hány példánya, valamint a csomagban történő szállítás esetén mikor és mely csomag kerüljön vagy került átadásra. A címzett részére történő szállítás dokumentálásához az átadás-átvételi jegyzék rögzíti az átadás-átvétel tényének időpontját, a címzett, valamint a nevében eljáró személy nevét és aláírását.
 
-[^131]: Az 55. § (1) bekezdés nyitó szövegrésze a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^132]: Az 55. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés k) pontja szerint módosított szöveg.
-[^133]: Az 55. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés j)–k) pontja szerint módosított szöveg.
+[^145]: Az 55. § (1) bekezdés nyitó szövegrésze a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés m) pontja szerint módosított szöveg.
+[^146]: Az 55. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^147]: Az 55. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés j)–k) pontja szerint módosított szöveg.

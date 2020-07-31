@@ -10,8 +10,8 @@
 
 (5)[^35] Az iratforgalmi statisztika mintáját a Nemzeti Biztonsági Felügyelet a honlapján közzéteszi.
 
-(6)[^36] A Magyar Honvédségnél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a honvédelemért felelős miniszter szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
+(6)[^36] A honvédségi szervezeteknél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a Magyar Honvédség Parancsnoksága szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
 
 [^34]: A 6. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés b) és c) pontja, a (2) bekezdés b) pontja szerint módosított szöveg.
 [^35]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^36]: A 6. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 464. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 6. § (6) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
