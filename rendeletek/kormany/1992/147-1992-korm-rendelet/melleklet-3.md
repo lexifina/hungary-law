@@ -792,7 +792,7 @@ I 02. Megyekód:
 
 05: Borsod-Abaúj-Zemplén
 
-06: Csongrád
+06: Csongrád-Csanád
 
 07: Fejér
 
@@ -2492,5 +2492,5 @@ M 3. Változás kódja:
 
 14: számvitelben a 12. számlacsoportból a 16. számlacsoportba átvezetve
 
-[^11]: A 3. számú melléklet a 48/2001. (III. 27.) Korm. rendelet 2. §-ával megállapított, a 33/2006. (II. 15.) Korm. rendelet 5. § (1) és (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2006. február 23. napján első fokú határozattal el nem bírált ügyekben is alkalmazni kell.
+[^11]: A 3. számú melléklet a 48/2001. (III. 27.) Korm. rendelet 2. §-ával megállapított, a 33/2006. (II. 15.) Korm. rendelet 5. § (1) és (3) bekezdése, a 371/2020. (VII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^12]: A 3. számú melléklet I 17–26. Ingatlanra bejegyzett jogok és tények pont 13. alpontja a 360/2019. (XII. 30.) Korm. rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
