@@ -166,4 +166,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a Beruházásra vonatkozó koncepció- vagy vázlatterv elkészítését követően azonnal
 
-2. A Pázmány Péter Katolikus Egyetem széttagoltságának megszüntetése érdekében szükséges intézkedésekről szóló 1213/2018. (IV. 6.) Korm. határozat 4. pontjában a „36576/1 helyrajzi számú” szövegrész helyébe a „36576/2 helyrajzi számú” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
