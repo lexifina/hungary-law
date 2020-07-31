@@ -1206,6 +1206,8 @@
 
 ## 3.1.15. Budapest IV. kerület, Görgey Artúr utca, út- és villamospálya felújítása.
 
+## 3.1.16. Budai fonódó villamoshálózat II. üteme – Műegyetem rakparti villamosvonal fejlesztése.
+
 ## 3.2. Átszállókapcsolatok
 
 ## 3.2.1. Debreceni intermodális személyszállítási központ létrehozása a NIF Zrt. mint építtető megvalósításában.
