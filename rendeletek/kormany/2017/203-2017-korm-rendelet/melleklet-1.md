@@ -4,4 +4,4 @@
 
 [^23]: A 15. §-t a 8/2020. (I. 31.) Korm. rendelet 5. §-a iktatta be.
 [^24]: A hatálybalépés időpontja 2020. február 1.
-[^25]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^25]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a, a 371/2020. (VII. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
