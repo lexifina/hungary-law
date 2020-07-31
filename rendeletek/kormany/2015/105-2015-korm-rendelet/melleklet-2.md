@@ -64,4 +64,6 @@
 
 ## 3. Komplex mutató számítása: a négy csoportindikátor átlagértéke adja a fejlettségi komplex mutató értékét a következő képlet alapján:
 
-2. melléklet a 105/2015. (IV. 23.) Korm. rendelethez
+2. melléklet a 105/2015. (IV. 23.) Korm. rendelethez[^3]
+
+[^3]: A 2. melléklet a 371/2020. (VII. 30.) Korm. rendelet 35. §-a szerint módosított szöveg.

@@ -944,7 +944,7 @@
 
 | 471 |  | Zsujta | 1 | 1 |
 
-| 472 | Csongrád megye | Ambrózfalva | 1 | 0 |
+| 472 | Csongrád-Csanád megye | Ambrózfalva | 1 | 0 |
 
 | 473 |  | Apátfalva | 1 | 0 |
 
@@ -2464,7 +2464,7 @@
 
 | 1231 |  | Zebecke | 1 | 1 |
 
-3. melléklet a 105/2015. (IV. 23.) Korm. rendelethez
+3. melléklet a 105/2015. (IV. 23.) Korm. rendelethez[^4]
 
 Átmenetileg kedvezményezett települések jegyzéke
 
@@ -2784,7 +2784,7 @@
 
 | 157 |  | Zubogy |
 
-| 158 | Csongrád megye | Ásotthalom |
+| 158 | Csongrád-Csanád megye | Ásotthalom |
 
 | 159 |  | Balástya |
 
@@ -3259,3 +3259,5 @@
 | 394 |  | Zalabaksa |
 
 | 395 |  | Zalaszentmárton |
+
+[^4]: A 3. melléklet a 371/2020. (VII. 30.) Korm. rendelet 35. §-a szerint módosított szöveg.
