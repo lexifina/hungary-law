@@ -12,15 +12,15 @@ c) a 3. Katonai Igazgatási Központ illetékessége kiterjed Fejér, Komárom-E
 
 (2)[^60] Békében a kiképzett tartalékosok nyilvántartásának kezelése, a Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő szervek részére, gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében, az igénybevétel tervezéséhez szükséges nyilvántartás kezelése, a toborzó és érdekvédelmi központok, valamint a katonai igazgatási és érdekvédelmi irodák gazdasági és anyagi szolgáltatások biztosítása előkészítésével kapcsolatos tevékenységének szakmai irányítása, felügyelete és támogatása, a toborzó szaktevékenység keretében a felhívások kiadása vonatkozásában
 
-a) az 1. Katonai Igazgatási Központ illetékessége kiterjed Budapest, Bács-Kiskun, Békés, Csongrád és Pest megye közigazgatási területére,
+a)[^61] az 1. Katonai Igazgatási Központ illetékessége kiterjed Budapest, Bács-Kiskun, Békés, Csongrád-Csanád és Pest megye közigazgatási területére,
 
 b) a 2. Katonai Igazgatási Központ illetékessége kiterjed Borsod-Abaúj-Zemplén, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megye közigazgatási területére,
 
 c) a 3. Katonai Igazgatási Központ illetékessége kiterjed Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megye közigazgatási területére.
 
-(3)[^61] Különleges jogrend idején, a Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítésének irányítása, felügyelete, a védelmi igazgatási szervek tevékenységének segítése, valamint a toborzó és érdekvédelmi központok és katonai igazgatási és érdekvédelmi irodák gazdasági és anyagi szolgáltatások biztosításával kapcsolatos tevékenységének szakmai irányítása, felügyelete és támogatása vonatkozásában
+(3)[^62] Különleges jogrend idején, a Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítésének irányítása, felügyelete, a védelmi igazgatási szervek tevékenységének segítése, valamint a toborzó és érdekvédelmi központok és katonai igazgatási és érdekvédelmi irodák gazdasági és anyagi szolgáltatások biztosításával kapcsolatos tevékenységének szakmai irányítása, felügyelete és támogatása vonatkozásában
 
-a) az 1. Katonai Igazgatási Központ illetékessége kiterjed Budapest, Bács-Kiskun, Békés, Csongrád és Pest megye közigazgatási területére,
+a)[^63] az 1. Katonai Igazgatási Központ illetékessége kiterjed Budapest, Bács-Kiskun, Békés, Csongrád-Csanád és Pest megye közigazgatási területére,
 
 b) a 2. Katonai Igazgatási Központ illetékessége kiterjed Borsod-Abaúj-Zemplén, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megye közigazgatási területére,
 
@@ -28,7 +28,7 @@ c) a 3. Katonai Igazgatási Központ illetékessége kiterjed Baranya, Fejér, G
 
 (4) Hadkötelezettség fennállása idején, illetékességi területe vonatkozásában a hadköteles nyilvántartás kezelése, a Honvédség hadkötelesekkel történő hadkiegészítése, valamint a toborzó és érdekvédelmi központok, továbbá a katonai igazgatási és érdekvédelmi irodák tevékenységének szakmai irányítása, felügyelete és támogatása vonatkozásában
 
-a) az 1. Katonai Igazgatási Központ illetékessége kiterjed Budapest, Bács-Kiskun, Békés, Csongrád és Pest megye közigazgatási területére,
+a)[^64] az 1. Katonai Igazgatási Központ illetékessége kiterjed Budapest, Bács-Kiskun, Békés, Csongrád-Csanád és Pest megye közigazgatási területére,
 
 b) a 2. Katonai Igazgatási Központ illetékessége kiterjed Borsod-Abaúj-Zemplén, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megye közigazgatási területére,
 
@@ -52,4 +52,7 @@ c) a 3. Katonai Igazgatási Központ illetékessége kiterjed Fejér megye közi
 
 [^59]: A 33. § a 168/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^60]: A 34. § (2) bekezdés nyitó szövegrésze a 281/2018. (XII. 21.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
-[^61]: A 34. § (3) bekezdés nyitó szövegrésze a 489/2016. (XII. 28.) Korm. rendelet 18. § b) pontja, a 281/2018. (XII. 21.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^61]: A 34. § (2) bekezdés a) pontja a 371/2020. (VII. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^62]: A 34. § (3) bekezdés nyitó szövegrésze a 489/2016. (XII. 28.) Korm. rendelet 18. § b) pontja, a 281/2018. (XII. 21.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^63]: A 34. § (3) bekezdés a) pontja a 371/2020. (VII. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^64]: A 34. § (4) bekezdés a) pontja a 371/2020. (VII. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.

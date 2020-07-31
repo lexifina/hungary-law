@@ -1,5 +1,5 @@
-## 86. §[^151]
+## 86. §[^156]
 
 ## 41. Módosító rendelkezések
 
-[^151]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
