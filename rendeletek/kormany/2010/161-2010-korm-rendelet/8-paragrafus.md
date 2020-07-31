@@ -16,8 +16,8 @@ e) irányítja a rejtjelfelügyelő vagy a rejtjelfelügyelet tevékenységét,
 
 f) gondoskodik arról, hogy a rejtjeltevékenységgel kapcsolatos, védelem alá eső információkat csak azok a személyek ismerhessék meg, akiknek a munkájához az feltétlenül szükséges, és arra a megfelelő engedélyekkel rendelkeznek,
 
-g)[^9]
+g)[^11] kiadja a rejtjeltevékenységre vonatkozó rejtjel-hozzáférési engedélyeket,
 
 h) kivizsgálja a rendszerbiztonsági eseményeket.
 
-[^9]: A 8. § g) pontját a 323/2018. (XII. 28.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^11]: A 8. § g) pontját a 323/2018. (XII. 28.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte, újonnan a 375/2020. (VII. 30.) Korm. rendelet 32. §-a iktatta be.

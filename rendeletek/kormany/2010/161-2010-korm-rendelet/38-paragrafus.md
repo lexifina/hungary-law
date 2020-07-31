@@ -1,3 +1,3 @@
-## 16.[^15]
+## 16.[^17]
 
-[^15]: A 16. alcímet (38. §) a 323/2018. (XII. 28.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^17]: A 16. alcímet (38. §) a 323/2018. (XII. 28.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.

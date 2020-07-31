@@ -54,12 +54,13 @@ b) meghatározza és a minősített adatkezelést végző szervek részére elé
 
 c) ellenőrzi a rendszer és működési környezete TEMPEST megfelelőségét,
 
-d) TEMPEST vizsgálatokat, méréseket végez vagy végeztet,
+d)[^4] TEMPEST vizsgálatokat, méréseket végez,
 
-e)[^4] a TEMPEST mérések alapján zónába sorolja a rendszer környezetét,
+e)[^5] a TEMPEST mérések alapján zónába sorolja a rendszer környezetét,
 
 f) a TEMPEST biztonság veszélyeztetése esetén a rendszer használatát korlátozhatja, megtilthatja, a szerv vezetőjét a kompromittáló kisugárzás elleni védelem helyreállítása érdekében szükséges intézkedések megtételére kötelezheti, a kiadott rendszerengedélyt visszavonhatja.
 
 [^2]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 471. § a) pontja szerint módosított szöveg.
 [^3]: A 4. § (1) bekezdés i) pontját a 323/2018. (XII. 28.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
-[^4]: A 4. § (4) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (4) bekezdés d) pontja a 375/2020. (VII. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (4) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

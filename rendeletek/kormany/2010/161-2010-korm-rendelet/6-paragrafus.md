@@ -16,6 +16,8 @@ b) biztosítja a rejtjeltevékenység szervezeti, személyi, tárgyi és biztons
 
 c) kijelöli a rejtjeltevékenység biztonságáért felelős személyeket,
 
-d) kiadja a rejtjeltevékenységre vonatkozó rejtjel-hozzáférési engedélyeket.
+d)[^9]
 
 (3) Amennyiben a rejtjel-felügyeleti feladatok ellátása központilag biztosított, a minősített adatot elektronikus rendszeren kezelő szerv vezetője csak a (2) bekezdés b)–d) pontjában foglalt feladatoknak tesz eleget.
+
+[^9]: A 6. § (2) bekezdés d) pontját a 375/2020. (VII. 30.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.

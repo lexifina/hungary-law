@@ -2,21 +2,19 @@
 
 45. § (1) Rejtjelző eszköz rendszeresítési engedélye iránti kérelmet az érintett minősített adatot elektronikus rendszeren kezelő szerv biztonsági vezetője vagy a rejtjelző eszközt fejlesztő és gyártó szerv vezetője nyújtja be írásban az NBF-nek.
 
-(2) A rejtjeltevékenységet folytató szerv a rendszeresítési engedély iránti kérelemben benyújtja:
+(2)[^25] A rejtjeltevékenységet folytató szerv a rendszeresítési engedély iránti kérelemhez mellékelve az eszköz jellegétől függően benyújtja
 
-a)[^22] a rejtjelző eszköz rejtjelzési architektúráját teljeskörűen tükröző elemeit: két működőképes példányát, illetve központi elemét,
+a) minden, a rejtjelző eszköz rendeltetésszerű működéséhez és működtetéséhez szükséges eszközt,
 
-b) a rejtjelző eszköz tervezett rendeltetésére vonatkozó információkat, beleértve a rejtjelezhető minősített adat javasolt legmagasabb minősítési szintjét,
+b) a rejtjelezhető minősített adat javasolt legmagasabb minősítési szintjének megjelölését,
 
-c) a rejtjelző eszköz teljeskörű funkcionális és biztonsági leírását tartalmazó dokumentációt,
+c) a rejtjelző eszköz teljes körű funkcionális és biztonsági leírását tartalmazó dokumentációt,
 
 d) a rejtjelző eszköz gyártási és tesztelési dokumentációját,
 
-e) a fejlesztő és gyártó nyilatkozatát a teljességről, megfelelőségről és azonosságról,
+e) a rejtjelző eszköz rendeltetésszerű működtetéséhez szükséges biztonsági feltételrendszerre vonatkozó ajánlásokat,
 
-f) a rejtjelző eszköz rendeltetésszerű működtetéséhez szükséges biztonsági feltételrendszerre vonatkozó ajánlásokat,
-
-g)[^23] a rejtjelző eszköz működtetési szabályzatát, kezelési utasítását és a rejtjelző eszköz alkalmazásához szükséges egyéb dokumentumokat.
+f) a rejtjelző eszköz működtetési szabályzatát, kezelési utasítását és a rejtjelző eszköz alkalmazásához szükséges egyéb dokumentumokat.
 
 (3) A nemzeti minősített adatok védelmére alkalmazott, a NATO, az EU vagy az EU valamely tagállama által engedélyezett rejtjelző eszközök esetében rejtjeltevékenységet folytató szerv – a (2) bekezdésben foglaltaktól eltérően – a rendszeresítési engedély iránti kérelemben
 
@@ -28,8 +26,7 @@ nyújtja be.
 
 (4) Új vagy kiegészítő engedélyezési eljárásra van szükség, ha a rendszeresítési engedéllyel már rendelkező rejtjelző eszközt továbbfejlesztették, módosították.
 
-(5)[^24] Az NBF a rejtjelző eszközre vonatkozó – (2) bekezdés szerinti – rendszeresítési engedély kiadása során a rejtjelző eszköz mechanikai felépítése és bontásvédelme értékelésében az Információs Hivatalt vonhatja be szakértőként.
+(5)[^26]
 
-[^22]: A 45. § (2) bekezdés a) pontja a 323/2018. (XII. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^23]: A 45. § (2) bekezdés g) pontját a 323/2018. (XII. 28.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^24]: A 45. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 302. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A 45. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^26]: A 45. § (5) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.

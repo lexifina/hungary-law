@@ -1,4 +1,4 @@
-## 57. §[^36] A rendszer felhasználói részére a képzést a rendszerbiztonsági felügyelet és a rejtjelfelügyelet legalább kétévente megtartja.
+## 57. §[^38] A rendszer felhasználói részére a képzést a rendszerbiztonsági felügyelet és a rejtjelfelügyelet legalább kétévente megtartja.
 
 ## XI. Fejezet
 
@@ -8,4 +8,4 @@
 
 (2) A biztonsági vezető a rendszer életciklusának kezdeti szakaszában megkezdi a biztonsági dokumentáció kidolgozását, és a rendszer megvalósítása során, valamint a rendszer életciklusának további szakaszaiban, kockázatelemzés és kockázatértékelés alapján a szükséges mértékben kiegészíti vagy módosítja.
 
-[^36]: Az 57. § a 323/2018. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^38]: Az 57. § a 323/2018. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.

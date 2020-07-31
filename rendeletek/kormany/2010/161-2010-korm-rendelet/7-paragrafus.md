@@ -16,10 +16,10 @@ b) a rejtjelzőt, valamint
 
 helyettesítőiket.
 
-(3)[^8] A Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti, a miniszterelnök
+(3)[^10] A Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti, a miniszterelnök
 
 a) kormányzati igazgatási és
 
 b) politikai
 
-[^8]: A 7. § (3) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 7. § (3) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
