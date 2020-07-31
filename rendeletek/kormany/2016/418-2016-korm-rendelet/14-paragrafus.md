@@ -4,10 +4,10 @@
 
 (2) A kötelezett az (1) bekezdésben meghatározott adatokban történt változás tényéről haladéktalanul, de legkésőbb a változás tudomására jutását követő 15 napon belül a 15. § (1) bekezdésében meghatározott formában köteles tájékoztatni a kezdeményezőt.
 
-(3) A (2) bekezdésben meghatározott határidőt
+(3)[^1] A (2) bekezdésben meghatározott határidőt
 
-a) az 1. melléklet 9., 10., 15. és 16. pontja szerinti változás esetében a tárgyévet követő év május 31. napjától,
+a) az 1. melléklet 10., 11. és 16–21. pontja szerinti változás esetében a tárgyévet követő év május 31. napjától,
 
-b)[^1] a jogszabály alapján bírósági, hatósági nyilvántartásba vétellel bekövetkező változás tekintetében a határozat jogerőre emelkedésének vagy – közigazgatási hatósági eljárásban – véglegessé válásának napjától
+b) a jogszabály alapján bírósági, hatósági nyilvántartásba vétellel bekövetkező változás tekintetében a határozat jogerőre emelkedésének vagy – közigazgatási hatósági eljárásban – véglegessé válásának napjától
 
-[^1]: A 14. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 600. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^1]: A 14. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 88. §-ával megállapított szöveg.
