@@ -20,4 +20,15 @@ f) malomipari termékek gyártását végzi és az előző évi termelési átla
 
 g) kenyér, friss pékáru gyártását végzi és az előző évi termelési átlaga elérte a 100 000 tonnát.
 
-(3) Az agrárgazdasági ágazaton belül nemzeti létfontosságú rendszerelemként kell azonosítani a vállalkozás termelést és elosztást végző létesítményét, ha a vállalkozásnak az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 47/B. §-a szerinti élelmiszerlánc-felügyeleti díjköteles nettó árbevétele eléri vagy meghaladja a 40 milliárd forintot.
+(3)[^3] Az agrárgazdasági ágazaton belül nemzeti létfontosságú rendszerelemként kell azonosítani a vállalkozás termelést, illetve elosztást végző létesítményét, ha a vállalkozásnak az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 47/B. §-a szerinti élelmiszerlánc-felügyeleti díjköteles nettó árbevétele eléri vagy meghaladja a 40 milliárd forintot.
+
+(4)[^4] A (2) bekezdés a)–c) és e) pontjában szereplő élelmiszer-előállítást végző létesítmények zavartalan működéséhez szükséges alapanyag biztosítása érdekében nemzeti létfontosságú rendszerelemként kell azonosítani a vállalkozás azon létesítményét, ahol
+
+a) szarvasmarha tartása esetén az állomány létszáma átlagosan évi 4500 darab,
+
+b) sertés tartása esetén a férőhelyek száma meghaladja a 6500 darabot,
+
+c) baromfi tartása esetén a kiszállított állatok száma átlagban meghaladja házityúk esetében az évi 1 200 000 darabot, pulyka esetében a 200 000 darabot, házi lúd esetében a 100 000 darabot, illetve kacsa esetében az 1 000 000 darabot.
+
+[^3]: A 3. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (4) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 58. § (2) bekezdése iktatta be.
