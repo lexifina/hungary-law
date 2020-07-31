@@ -8,7 +8,7 @@ b) a Kknyt. 19. § (1) bekezdés b)–s) pontjában meghatározott adatigénylő
 
 c) a Kknyt. 19. § (2)–(3) bekezdésében meghatározott adatigénylők
 
-számára.
+## számára.
 
 (2) A Kknyt. 25. § (2) bekezdése szerinti adatszolgáltatási kérelmeket a Nyilvántartó teljesíti.
 

@@ -1,6 +1,6 @@
 4. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^406]
 
-A vezetői engedély egészségügyi érvényességének lejártát követően is vezethető járművek a 2006/126/EK irányelvnek megfelelően 2013. január 19-től
+## A vezetői engedély egészségügyi érvényességének lejártát követően is vezethető járművek a 2006/126/EK irányelvnek megfelelően 2013. január 19-től
 
 Bármely nemzetközi kategóriában megszerzett vizsga alapján:
 

@@ -12,7 +12,7 @@ e)[^350] versenyjárművé történő átalakítása, vagy
 
 f)[^351] a külföldi fegyveres erő állományának tagja magyarországi szolgálati helye megszűnése
 
-esetén.
+## esetén.
 
 (2)[^352] A jármű átmeneti időszakra történő forgalomból kivonása során – a hatósági jelzés visszavonásával és a járműnyilvántartásba történő bejegyzéssel egyidejűleg – a forgalmi engedélyt és a törzskönyvet érvénytelenítve vissza kell adni, a hatósági jelzést a Nyilvántartónak selejtezés céljából meg kell küldeni.
 

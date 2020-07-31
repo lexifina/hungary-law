@@ -228,7 +228,7 @@
 
 12. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-A regisztrációs matrica tartalmi elemei
+## A regisztrációs matrica tartalmi elemei
 
 1. EU felségjelzés (Európai Uniós zászlót jelképező kék mezőben 12 db sárga csillag)
 

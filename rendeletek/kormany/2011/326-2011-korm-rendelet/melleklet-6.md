@@ -280,7 +280,7 @@
 
 6. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^408]
 
-Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei 2013. január 18-ig
+## Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei 2013. január 18-ig
 
 I. Életkori feltételek
 

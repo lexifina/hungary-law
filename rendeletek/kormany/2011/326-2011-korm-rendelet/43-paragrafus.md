@@ -1,16 +1,16 @@
 43. § (1) A külföldről belföldi üzemeltetés céljából behozott használt jármű – a 42. § (3) bekezdés b) pontjában foglalt feltételnek megfelelő jármű és a négykerekű segédmotoros kerékpár kivételével – forgalomba helyezésének kezdeményezése előtt származás-ellenőrzését el kell végezni. A származás-ellenőrzés kezdeményezése a közlekedési igazgatási hatóságnál származás-ellenőrzési nyilvántartásba vétellel valósul meg.
 
-(2)[^167] Az (1) bekezdés szerinti jármű származás-ellenőrzéséhez az ügyfélnek igazolnia kell a tulajdonjog megszerzését, a külföldi forgalmi engedélyben szereplő adatokat.
+(2)[^168] Az (1) bekezdés szerinti jármű származás-ellenőrzéséhez az ügyfélnek igazolnia kell a tulajdonjog megszerzését, a külföldi forgalmi engedélyben szereplő adatokat.
 
-(3)[^168] A származás-ellenőrzési nyilvántartásba vétellel egyidejűleg kérelemre engedélyezhető a jármű ideiglenes forgalomban tartása.
+(3)[^169] A származás-ellenőrzési nyilvántartásba vétellel egyidejűleg kérelemre engedélyezhető a jármű ideiglenes forgalomban tartása.
 
-(4)[^169] A jármű származásának ellenőrzése során a közlekedési igazgatási hatóság a (2) bekezdésben meghatározott okmány és okirat elektronikus másolatát elektronikus úton, az ellenőrzés elvégzéséhez szükséges adatok beszerzése céljából a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának megküldi.
+(4)[^170] A jármű származásának ellenőrzése során a közlekedési igazgatási hatóság a (2) bekezdésben meghatározott okmány és okirat elektronikus másolatát elektronikus úton, az ellenőrzés elvégzéséhez szükséges adatok beszerzése céljából a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának megküldi.
 
-(5)[^170] A közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merülnek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés alapján tisztázza a jármű származását, és ennek eredményéről hozott határozatát a közlekedési igazgatási hatóság részére elektronikus úton megküldi. A határozat a forgalomba helyezési eljárásban annak véglegessé válástól számított hat hónapig használható fel.
+(5)[^171] A közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala a származás-ellenőrzés elvégzése során a külföldi és nemzetközi körözési nyilvántartásokban és – a 42. § (4) bekezdésében meghatározott esetben, valamint ha a rendelkezésre álló adatok alapján a jármű származását illetően gyanús körülmények merülnek fel – a külföldi hatóság nyilvántartásaiban történő ellenőrzés alapján tisztázza a jármű származását, és ennek eredményéről hozott határozatát a közlekedési igazgatási hatóság részére elektronikus úton megküldi. A határozat a forgalomba helyezési eljárásban annak véglegessé válástól számított hat hónapig használható fel.
 
-(6)[^171] A közlekedési igazgatási hatóság a külföldi okmányokat és hatósági jelzéseket a forgalomba helyezés során bevonja és a keletkezett alapirattal a Nyilvántartónak megküldi, amely a 42. § (1) bekezdése szerint jár el.
+(6)[^172] A közlekedési igazgatási hatóság a külföldi okmányokat és hatósági jelzéseket a forgalomba helyezés során bevonja és a keletkezett alapirattal a Nyilvántartónak megküldi, amely a 42. § (1) bekezdése szerint jár el.
 
-(7)[^172] A származás-ellenőrzés során gyanúra okot adó körülmény különösen, ha:
+(7)[^173] A származás-ellenőrzés során gyanúra okot adó körülmény különösen, ha:
 
 a) a külföldi vagy a nemzetközi körözési nyilvántartásban a jármű vagy annak hatósági jelzése, okmányai körözés alatt állnak,
 
@@ -20,9 +20,9 @@ c) gyanú van arra, hogy a jármű rendszámtábláját, forgalmi engedélyét m
 
 d) a jármű forgalmi engedélybe bejegyzett alvázszáma a jármű típusára jellemzőtől eltérő karaktereket tartalmaz.
 
-[^167]: A 43. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (12) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^168]: A 43. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (12) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^169]: A 43. § (4) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^170]: A 43. § (5) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^171]: A 43. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
-[^172]: A 43. § (7) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^168]: A 43. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (12) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^169]: A 43. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (12) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^170]: A 43. § (4) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^171]: A 43. § (5) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 11. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^172]: A 43. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^173]: A 43. § (7) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.

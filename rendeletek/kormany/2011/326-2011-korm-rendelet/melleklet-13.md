@@ -1,6 +1,6 @@
 13. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-A különleges rendszámtáblák leírása
+## A különleges rendszámtáblák leírása
 
 1.[^415] A CD betűjelű különleges rendszámtábla alapszíne világoskék, karakterei és a keret színe fehér, két betűjelet és kötőjellel elválasztott három-három (összesen hat) számjegyet tartalmaz.
 

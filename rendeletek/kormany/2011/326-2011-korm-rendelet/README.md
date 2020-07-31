@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2020-06-12 | 2011-326-20-22.54 | 265/2020. (VI. 11.) Korm. rendelet |
 | 2020-06-18 | 2011-326-20-22.55 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2020-07-01 | 2011-326-20-22.56 | 317/2020. (VII. 1.) Korm. rendelet |
+| 2020-07-31 | 2011-326-20-22.57 | 371/2020. (VII. 30.) Korm. rendelet |

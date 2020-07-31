@@ -38,7 +38,7 @@ d) a „V” nemzeti kategóriára megszerzett jogosultságot a „K” nemzeti 
 
 e) a közúti közlekedési igazgatással összefüggő egyes kormányrendeletek módosításáról szóló 90/2015. (IV. 9.) Korm. rendelet hatálybalépését[^389] követően a 8. mellékletben meghatározott 130–133. kód helyett a 2006/126/EK irányelv alapján a rehabilitációs szakértői szerv által meghatározott harmonizált kódokat
 
-kell feltüntetni.
+## kell feltüntetni.
 
 (13)[^390] E rendeletnek a közigazgatási bürokráciacsökkentés folytatásával érintett egyes kormányrendeletek módosításáról szóló 60/2017. (III. 20.) Korm. rendelet (a továbbiakban: Módrend.) 18. § (8) bekezdésével megállapított 104. § (3b) bekezdését a Módrend. hatálybalépését[^391] megelőzően bevont, elvett vagy leadott forgalmi engedélyek tekintetében is alkalmazni kell.
 
