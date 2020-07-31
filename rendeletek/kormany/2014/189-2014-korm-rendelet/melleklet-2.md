@@ -10,13 +10,13 @@ A kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánym
 
 | 3. | Baranya megye területén megvalósuló beruházások | Tolna Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 4. | Bács-Kiskun megye területén megvalósuló beruházások | Csongrád Megyei Kormányhivatalt vezető kormánymegbízott |
+| 4. | Bács-Kiskun megye területén megvalósuló beruházások | Csongrád-Csanád Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 5. | Békés megye területén megvalósuló beruházások | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 6. | Borsod-Abaúj-Zemplén megye területén megvalósuló beruházások | Heves Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 7. | Csongrád megye területén megvalósuló beruházások | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
+| 7. | Csongrád-Csanád megye területén megvalósuló beruházások | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 8. | Fejér megye területén megvalósuló beruházások | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -46,4 +46,4 @@ A kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánym
 
 | 21. | Zala megye területén megvalósuló beruházások | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 87. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 87. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
