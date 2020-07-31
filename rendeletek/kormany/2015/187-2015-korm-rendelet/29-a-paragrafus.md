@@ -1,10 +1,10 @@
-## 12/A. [^38] Az elektronikus információs rendszerek biztonságáért felelős egyedüli kapcsolattartó pont
+## 12/A. [^42] Az elektronikus információs rendszerek biztonságáért felelős egyedüli kapcsolattartó pont
 
 29/A. § (1) A hatóság ellátja az Irányelv szerinti egyedüli kapcsolattartó pont feladatait, amelynek keretében
 
 a) biztosítja a hatóságok és az érintett EGT tagállamok hatóságai között folytatott együttműködést,
 
-b) együttműködik az Irányelvnek való megfelelés vizsgálata érdekében az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központtal, a 25. § (1) bekezdése szerinti hatósággal, valamint az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 6/B. § (3) bekezdése szerinti hatósággal,
+b)[^43] együttműködik az Irányelvnek való megfelelés vizsgálata érdekében az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központtal, valamint az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 6/B. § (3) bekezdése szerinti hatósággal,
 
 c) az Irányelvnek megfelelően azonosított alapvető szolgáltatásokat nyújtó szolgáltatók elektronikus információs rendszerei esetében a megfelelés vizsgálatával összefüggő adatokat, valamint a vizsgálat eredményét megküldi az Európai Bizottság részére,
 
@@ -26,4 +26,5 @@ d) az adott szolgáltatásra támaszkodó felhasználók száma, vagy az alapvet
 
 e) az eseménykezelő központok hatásköréről, és a biztonsági események kezelésére szolgáló eljárásról szóló tájékoztatás.
 
-[^38]: A 12/A. alcímet (29/A. §) a 323/2018. (XII. 28.) Korm. rendelet 49. §-a iktatta be.
+[^42]: A 12/A. alcímet (29/A. §) a 323/2018. (XII. 28.) Korm. rendelet 49. §-a iktatta be.
+[^43]: A 29/A. § (1) bekezdés b) pontja a 375/2020. (VII. 30.) Korm. rendelet 73. § g) pontja szerint módosított szöveg.

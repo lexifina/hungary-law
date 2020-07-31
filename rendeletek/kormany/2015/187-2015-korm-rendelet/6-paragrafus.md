@@ -10,27 +10,27 @@ c) ellenőrzi az információtechnológiai fejlesztési projektekben az informá
 
 d) nyilvántartja a szervezet elektronikus információs rendszereinek megnevezését, az elektronikus információs rendszerek biztonsági osztályát, valamint az elektronikus információs rendszer osztályba soroláshoz szükséges, jogszabályban meghatározott fizikai, logikai és adminisztratív védelmi intézkedések adatait,
 
-e)[^9] szükség szerint konzultációt folytat és együttműködik a rendvédelmi szervekkel, illetve a Nemzeti Adatvédelmi és Információszabadság Hatósággal,
+e)[^12] szükség szerint konzultációt folytat és együttműködik a rendvédelmi szervekkel, illetve a Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
-f)[^10] jogszabályban meghatározott szempontok szerint, hatósági ellenőrzés keretében lefolytatja a fizikai, logikai és adminisztratív védelmi ellenőrzéseket,
+f)[^13] jogszabályban meghatározott szempontok szerint, hatósági ellenőrzés keretében lefolytatja a fizikai, logikai és adminisztratív védelmi ellenőrzéseket,
 
-g)[^11] az elektronikus információs rendszerek biztonságáért felelős nemzetközi szervezetekben képviseli Magyarországot,
+g)[^14] az elektronikus információs rendszerek biztonságáért felelős nemzetközi szervezetekben képviseli Magyarországot,
 
-h)[^12] nyilvántartja és honlapján közzéteszi a biztonsági eseményekkel kapcsolatos, az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központtól kapott értesítéseket.
+h)[^15] nyilvántartja és honlapján közzéteszi a biztonsági eseményekkel kapcsolatos, az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központtól kapott értesítéseket.
 
-i)[^13]
+i)[^16]
 
-j)[^14]
+j)[^17]
 
-k)[^15]
+k)[^18]
 
-l)[^16]
+l)[^19]
 
-m)[^17]
+m)[^20]
 
-n)[^18]
+n)[^21]
 
-(1a)[^19]
+(1a)[^22] A hatóság az alapvető szolgáltatást nyújtó szereplők elektronikus információs rendszereit érintő, az Ibtv.-ben meghatározott biztonsági esemény bekövetkezése esetén honlapján tájékoztathatja a nyilvánosságot, illetve a szolgáltatókat határozatban kötelezheti tájékoztatásra, ha az a saját mérlegelése szerint egy adott biztonsági esemény megelőzéséhez vagy egy már folyamatban lévő biztonsági esemény kezeléséhez szükséges.
 
 (2) A hatóság az EGT tagállamaiban történő elektronikus információs rendszer üzemeltetése tekintetében engedélyezési eljárást folytat le a 7. § (3) bekezdésében foglaltak kivételével. Az eljárás során a hatóság megvizsgálja
 
@@ -52,14 +52,14 @@ h) azt, hogy az üzemeltetés helyszínén illetékes hatóságok jogosultak-e a
 
 (3) Nem kell a (2) bekezdés e)–g) pontja szerinti leírásokat megvizsgálni, ha nemzetközi egyezmények vagy nemzetközi szabványok alapján, illetve az ezeken alapuló hazai követelmények vagy ajánlások alapján kiadott érvényes biztonsági tanúsítvány a kérelem benyújtásakor rendelkezésre áll, és azt a hatóságnak bemutatják.
 
-[^9]: A 6. § (1) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^10]: A 6. § (1) bekezdés f) pontja a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^11]: A 6. § (1) bekezdés g) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be, szövege a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^12]: A 6. § (1) bekezdés h) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be, szövege a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^13]: A 6. § (1) bekezdés i) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
-[^14]: A 6. § (1) bekezdés j) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
-[^15]: A 6. § (1) bekezdés k) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
-[^16]: A 6. § (1) bekezdés l) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
-[^17]: A 6. § (1) bekezdés m) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
-[^18]: A 6. § (1) bekezdés n) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
-[^19]: A 6. § (1a) bekezdését a 394/2017. (XII. 13.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^12]: A 6. § (1) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdés f) pontja a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^14]: A 6. § (1) bekezdés g) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be, szövege a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^15]: A 6. § (1) bekezdés h) pontját a 441/2016. (XII. 16.) Korm. rendelet 58. §-a iktatta be, szövege a 323/2018. (XII. 28.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^16]: A 6. § (1) bekezdés i) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^17]: A 6. § (1) bekezdés j) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^18]: A 6. § (1) bekezdés k) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^19]: A 6. § (1) bekezdés l) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^20]: A 6. § (1) bekezdés m) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^21]: A 6. § (1) bekezdés n) pontját a 394/2017. (XII. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 323/2018. (XII. 28.) Korm. rendelet 54. §-a.
+[^22]: A 6. § (1a) bekezdését újonnan a 375/2020. (VII. 30.) Korm. rendelet 66. §-a iktatta be.
