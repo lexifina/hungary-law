@@ -1,6 +1,6 @@
 13. § (1) Annak kiszámításakor, hogy a beruházás elszámolható költsége eléri-e
 
-a)[^64] a 9. § (1) bekezdés a) pont aa) alpontja szerinti esetben a folyó áron legalább 5 millió eurónak, illetve a 9. § (1) bekezdés a) pont ab) alpontja, valamint b) és c) pontja szerinti esetben a 10 millió eurónak megfelelő forintösszeget, nem vehető figyelembe az összeszámítás alá eső egyéb beruházás vagy beruházások elszámolható költsége,
+a)[^65] a 9. § (1) bekezdés a) pont aa) alpontja szerinti esetben a folyó áron legalább 5 millió eurónak, illetve a 9. § (1) bekezdés a) pont ab) alpontja, valamint b) és c) pontja szerinti esetben a 10 millió eurónak megfelelő forintösszeget, nem vehető figyelembe az összeszámítás alá eső egyéb beruházás vagy beruházások elszámolható költsége,
 
 b) a nagyberuházásnak való minősítést eredményező, jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
@@ -12,4 +12,4 @@ b) a nagyberuházásnak való minősítést eredményező, jelenértéken 50 mil
 
 (5) A tényleges támogatási intenzitás nem haladhatja meg az adott támogatási szerződésben szereplő, e rendelet alapján odaítélt állami támogatás támogatástartalma és a jelenértéken számolt elszámolható költség hányadosaként hét tizedesjegyre kerekített, százalékban kifejezett mértéket. Ha az Európai Bizottság határozatában szereplő mérték ettől eltér, akkor a tényleges támogatási intenzitás nem haladhatja meg az Európai Bizottság határozatában meghatározott mértéket.
 
-[^64]: A 13. § (1) bekezdése a) pontja a 227/2019. (IX. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^65]: A 13. § (1) bekezdése a) pontja a 227/2019. (IX. 26.) Korm. rendelet 6. §-ával megállapított szöveg.

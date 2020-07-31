@@ -6,7 +6,7 @@ a) induló beruházás megvalósítása – a beruházó méretétől független
 
 aa) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri Nógrád, Borsod-Abaúj-Zemplén, Szabolcs-Szatmár-Bereg, Békés vagy Baranya megyében az 5 millió eurónak megfelelő forintösszeget,
 
-ab) ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri Győr-Moson-Sopron, Fejér, Komárom-Esztergom, Tolna, Bács-Kiskun, Somogy, Vas, Veszprém, Zala, Hajdú-Bihar, Jász-Nagykun-Szolnok, Csongrád vagy Heves megyében a 10 millió eurónak megfelelő forintösszeget,
+ab)[^50] ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri Győr-Moson-Sopron, Fejér, Komárom-Esztergom, Tolna, Bács-Kiskun, Somogy, Vas, Veszprém, Zala, Hajdú-Bihar, Jász-Nagykun-Szolnok, Csongrád-Csanád vagy Heves megyében a 10 millió eurónak megfelelő forintösszeget,
 
 b) kis- és középvállalkozások által megvalósított induló beruházás megvalósítása az Atr. 25. § (1) bekezdés d) pont da) és db) alpontjában meghatározott területen, ha a beruházás 18. § szerinti elszámolható költségeinek összege folyó áron számolva eléri a 10 millió eurónak megfelelő forintösszeget,
 
@@ -18,7 +18,7 @@ e) kis- és középvállalkozások által megvalósított induló beruházás me
 
 f) új gazdasági tevékenység végzésére irányuló vagy termék-diverzifikációt eredményező vagy új eljárási innovációt eredményező induló beruházás nagyvállalkozás által történő megvalósítása az Atr. 25. § (1) bekezdés d) pont da) és db) alpontjában meghatározott területen – az elszámolható költségeinek nagyságától függetlenül – és az újonnan létesített munkahelyek száma eléri az 50-et, feltéve, hogy a beruházás regionális szolgáltató központ létrehozatalára vagy bővítésére irányul.
 
-(1a)[^50] A 2. § (1) bekezdés b) pontjában meghatározott kutatás-fejlesztési célokra a támogatást a beruházó akkor veheti igénybe, ha
+(1a)[^51] A 2. § (1) bekezdés b) pontjában meghatározott kutatás-fejlesztési célokra a támogatást a beruházó akkor veheti igénybe, ha
 
 a) nagyvállalkozásnak minősül,
 
@@ -31,4 +31,5 @@ c) az újonnan létesített kutatás-fejlesztési munkahelyek száma eléri a 25
 (3) Egy vállalkozásban történő részesedésszerzés önmagában nem minősül beruházásnak.
 
 [^49]: A 9. § (1) bekezdése a 227/2019. (IX. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^50]: A 9. § (1a) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 227/2019. (IX. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^50]: A 9. § (1) bekezdés a) pont ab) alpontja a 371/2020. (VII. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^51]: A 9. § (1a) bekezdését a 426/2016. (XII. 15.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 227/2019. (IX. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
