@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-36-00-00
 | 2020-05-29 | 2020. évi XXXVI. törvény | 2020-36-00-00.0 (közlönyállapot) |
 | 2020-05-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-36-00-00.1 |
 | 2020-07-09 | 2020. évi LXXV. törvény | 2020-36-00-00.2 |
+| 2020-07-31 | 2020. évi LXXV. törvény | 2020-36-00-00.3 |
