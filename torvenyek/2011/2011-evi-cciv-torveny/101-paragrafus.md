@@ -8,7 +8,7 @@
 
 (2) A művészeti felsőoktatási intézmény művészeti gyakorlóhelyet létesíthet és tarthat fenn.
 
-(3) A táncművészeti képzésben a felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetők oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. Ebben az esetben a felvételhez szükséges, a 40. § (2) bekezdés alapján előírt nyelvi követelményt nem kell teljesíteni. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a művészeti képzés követelményeit. Az e bekezdésben szabályozott hallgatók tekintetében alkalmazni kell a munka törvénykönyvének a fiatal munkavállalók munkaközi szünetére, pihenőidejére vonatkozó külön rendelkezéseit.
+(3) A cirkuszművészeti és táncművészeti képzésben a felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetők oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. Ebben az esetben a felvételhez szükséges, a 40. § (2) bekezdés alapján előírt nyelvi követelményt nem kell teljesíteni. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a művészeti képzés követelményeit. Az e bekezdésben szabályozott hallgatók tekintetében alkalmazni kell a munka törvénykönyvének a fiatal munkavállalók munkaközi szünetére, pihenőidejére vonatkozó külön rendelkezéseit.
 
 (4) A művészeti felsőoktatási intézmény az egyetem vagy főiskola elnevezést akkor is használhatja, ha egy képzési területen jogosult alap- vagy mesterképzésre, illetve egy tudományterületen doktori képzésre és doktori fokozat odaítélésére. Az intézmény – alapító okirata szerint – eltérhet a 13. § (5) bekezdésben meghatározott feltételtől.
 
@@ -21,3 +21,5 @@
 (8) Ha a felsőoktatási intézmény – anélkül, hogy művészeti felsőoktatási intézménynek minősülne – művészeti képzést folytat, működésére a (2)–(3), valamint az (5)–(7) bekezdésben foglaltakat alkalmazni kell.
 
 (9) A művészeti felsőoktatásban – a 105. § (5) bekezdésében foglaltakon túl – az e törvényben előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából a doktori fokozattal egyenértékű a jogszabály alapján adományozott díj annak tekintetében, aki a díj tulajdonosa, feltéve hogy az érintett legalább alapképzésben szerzett oklevéllel rendelkezik.
+
+(10) Az Állami Balettintézet táncművészeti képesítő oklevelével és balettművész oklevelével mesterképzésre lehet jelentkezni.

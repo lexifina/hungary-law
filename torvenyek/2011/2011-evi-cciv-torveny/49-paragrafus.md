@@ -26,6 +26,16 @@ vehessen fel.
 
 (7) A (3)–(6) bekezdésben meghatározottak végrehajtásával kapcsolatos kérdéseket a tanulmányi és vizsgaszabályzatban kell szabályozni, azzal a megkötéssel, hogy a hallgató a végbizonyítvány (abszolutórium) megszerzéséhez – a felsőoktatási intézményben folytatott, illetve más korábbi tanulmányok, továbbá az előzetesen megszerzett tudás kreditértékként való elismerése esetén is – a tanulmányi és vizsgaszabályzat szerinti kreditet, de legalább a képzés kreditértékének harmadát az adott intézmény adott képzésén köteles teljesíteni.
 
-(7a) A (7) bekezdés rendelkezéseiből a doktori képzésben nem kell alkalmazni a képzés kreditértéke legalább harmadának az adott intézmény adott doktori képzésén történő megszerzésére vonatkozó előírást.
+(7a) A (7) bekezdésben foglalt, a képzés kreditértéke legalább harmadának az adott intézmény adott képzésén történő megszerzésére vonatkozó előírást nem kell alkalmazni
+
+a) doktori képzés,
+
+b) az Erasmus+ és utódprogramjai keretében megvalósuló közös képzés,
+
+c) a 23. § (1) bekezdése szerinti megállapodás alapján ugyanazon képzési terület szerinti szakra átvett hallgató és
+
+d) ugyanazon szakra felvett korábbi hallgató
+
+esetében.
 
 (8) A fogyatékossággal élő hallgató részére biztosítani kell a fogyatékossághoz igazodó felkészítést és vizsgáztatást, továbbá segítséget kell nyújtani részére ahhoz, hogy teljesíteni tudja a hallgatói jogviszonyából eredő kötelezettségeit. Indokolt esetben mentesíteni kell egyes tantárgyak, tantárgyrészek tanulása vagy a beszámolás kötelezettsége alól. Szükség esetén mentesíteni kell a nyelvvizsga vagy annak egy része, illetve szintje alól. A vizsgán biztosítani kell a hosszabb felkészülési időt, az írásbeli beszámolón lehetővé kell tenni a segédeszköz – így különösen írógép, számítógép – alkalmazását, szükség esetén az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását. Az e bekezdés alapján nyújtott mentesítés kizárólag a mentesítés alapjául szolgáló körülménnyel összefüggésben biztosítható és nem vezethet az oklevél által tanúsított szakképzettség megszerzéséhez szükséges alapvető tanulmányi követelmények alóli felmentéshez.

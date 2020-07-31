@@ -15,3 +15,13 @@ b) az adjunktusi munkakörben történő alkalmazás feltétele a doktori fokoza
 (5) Az egyetemi tanári munkakörben történő alkalmazás feltétele, hogy az érintett rendelkezzék doktori fokozattal, amennyiben magyar állampolgár, habilitációval vagy azzal egyenértékű nemzetközi felsőoktatási oktatói gyakorlattal, továbbá az adott tudomány vagy művészeti terület olyan nemzetközileg elismert képviselője legyen, aki kiemelkedő tudományos kutatói, illetve művészi munkásságot fejt ki. Az oktatásban, kutatásban, kutatásszervezésben szerzett tapasztalatai alapján alkalmas a hallgatók, a doktori képzésben részt vevők, a tanársegédek tanulmányi, tudományos, illetve művészi munkájának vezetésére, idegen nyelven publikál, szemináriumot, előadást tart. Az egyetemi tanár jogosult a professzori cím használatára.
 
 (6) A mesteroktatói munkakörben történő alkalmazáshoz mesterfokozat, valamint legalább tízéves szakmai-gyakorlati munkatapasztalat, ismeret igazolása, valamint az szükséges, hogy az érintett alkalmas legyen a hallgatók gyakorlati képzésére.
+
+(7) A közérdekű vagyonkezelő alapítvány által fenntartott diákotthonban szerzett oktatási munkatapasztalat időtartamát felsőoktatási oktatói szakmai gyakorlatnak, tapasztalatnak kell elismerni, ha a hallgatóknak nyújtott képzés
+
+a) a 8. § (6) bekezdése szerinti felsőoktatási intézménnyel kötött megállapodás keretében a felsőfokú képzés részeként,
+
+b) a 49. § szerint tanulmányi követelményként elismerhető formában, vagy
+
+c) tehetséggondozási céllal, részben vagy a képzés egészében idegen nyelven, a felsőfokú képzés tantervi követelményei mellett, azt kiegészítve
+
+valósul meg.

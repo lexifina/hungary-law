@@ -20,7 +20,7 @@ d) tudományos diákkört működtet.
 
 a) legalább négy alapképzési szakon és két mesterképzési szakon jogosult képzésre,
 
-b) – ha a működési engedélye a 108. § 1b. pontjában meghatározott képzési területre, szakra kiterjed – legalább két szakon duális képzést folytat,
+b) legalább két szakon duális képzést folytat,
 
 c) munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább negyvenöt százaléka tudományos fokozattal rendelkezik,
 

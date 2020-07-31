@@ -52,6 +52,6 @@ nyújtott támogatás.
 
 (6) A (4) bekezdésben szabályozott támogatások feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát.
 
-(7) A (2) és (4) bekezdésben meghatározott hozzájárulások, támogatások fedezetét – a (4) bekezdés e) pontjában meghatározott hozzájárulás, támogatás, illetve a 117/C. § (3) bekezdése szerinti felsőoktatási intézmény részére biztosított a (2) és (4) bekezdésben meghatározott hozzájárulás, támogatás fedezetét ide nem értve – a miniszter által vezetett minisztérium fejezetében kell megtervezni, elszámolni.
+(7) A (2) és (4) bekezdésben meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni, elszámolni.
 
 (8) A (2) bekezdésben meghatározott jogcímek – az a) és f) pontban meghatározott jogcímek kivételével – nem jelentenek felhasználási kötöttséget.

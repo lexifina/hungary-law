@@ -18,6 +18,6 @@ b) az egészségügyi szolgáltató működtetésével és gazdálkodásával ka
 
 gyakorolja.
 
-(6) Az egyetemi kórház vezetője kinevezéséhez vagy megbízásához, felmentéséhez vagy megbízásának visszavonásához az egészségügyért felelős miniszter egyetértése szükséges. Az egyetemi kórház dolgozói – a kancellár hatáskörébe tartozó feladatokat ellátó alkalmazottak kivételével – felett a munkáltatói jogokat – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – az egyetemi kórház vezetője gyakorolja.
+(6) Az egyetemi kórház vezetője kinevezéséhez vagy megbízásához az egészségügyért felelős miniszter egyetértése szükséges. Az egyetemi kórház dolgozói – a kancellár hatáskörébe tartozó feladatokat ellátó alkalmazottak kivételével – felett a munkáltatói jogokat – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – az egyetemi kórház vezetője gyakorolja.
 
 (7) A 97. § (1) bekezdés szerinti egészségügyi szolgáltatók tekintetében a fenntartói jogok gyakorlására az Eütv.-ben foglalt szabályokat az e törvényben meghatározott eltéréssel kell alkalmazni.

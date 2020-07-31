@@ -4,7 +4,7 @@
 
 a) a duális képzés képzési ideje alatt külső gyakorlóhelyen, a képzési program keretében, illetve a képzés részeként megszervezett szakmai gyakorlat vagy gyakorlati képzés során az intézményben, az intézmény által alapított gazdálkodó szervezetben vagy külső gyakorlóhelyen,
 
-b)
+b) a képzési programhoz nem kapcsolódóan, a felsőoktatási intézmény alaptevékenysége körében a felsőoktatási intézményben vagy a felsőoktatási intézmény részvételével működő gazdálkodó szervezetben.
 
 (2) A hallgatói munkaszerződés alapján munkát végző hallgató foglalkoztatására a munka törvénykönyvének a rendelkezéseit megfelelően alkalmazni kell. A Kormány a hallgatói munkaszerződésre vonatkozó szabályok meghatározása során a munka törvénykönyvénél a hallgató számára kedvezőbb feltételeket állapíthat meg.
 

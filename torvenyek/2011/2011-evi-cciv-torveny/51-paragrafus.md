@@ -17,3 +17,5 @@ b) mesterképzésben a képzési és kimeneti követelményekben meghatározott
 (5) Az oklevél Magyarország címerével ellátott közokirat, amely tartalmazza a kiállító felsőoktatási intézmény nevét, intézményi azonosító számát, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség megnevezését, az oklevél minősítését, a kiállítás helyét, évét, hónapját és napját, az oklevél által tanúsított végzettségnek, szakképzettségnek a Magyar Képesítési Keretrendszer, az Európai Képesítési Keretrendszer szerinti besorolását, valamint a képzésnek a képzési és kimeneti követelmény szerinti időtartamát. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének – illetőleg a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek – eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát.
 
 (6) A kiadott oklevelekről központi nyilvántartást kell vezetni.
+
+(7) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a képesítési keretet.

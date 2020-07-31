@@ -81,3 +81,13 @@ megnevezéssel működik.
 (24) E törvénynek – a 2018. évi XC. törvénnyel módosított – 37. § (6) bekezdésében foglaltakat a 2018. évi XC. törvény hatálybalépésekor folyamatban lévő pályázatokra is alkalmazni kell.
 
 (25) A Győri Hittudományi Főiskola 2019. február 1-jétől Brenner János Hittudományi Főiskola megnevezéssel működik.
+
+(26) A Neumann János Egyetem Pedagógusképző Kara a Neumann János Egyetem szervezetéből kiválik és a Károli Gáspár Református Egyetem szervezetébe olvad be 2020. július 31. napján.
+
+(27) 2020. július 31. napján az Eszterházy Károly Egyetem Gyöngyösi Károly Róbert Campusa az Eszterházy Károly Egyetem szervezetéből kiválik és a Szent István Egyetem szervezetébe olvad be.
+
+(28) 2020. július 31. napján a Pannon Egyetem Georgikon Kara a Pannon Egyetem szervezetéből kiválik és a Szent István Egyetem szervezetébe olvad be.
+
+(29) 2020. július 31. napján a Szent István Egyetem Ybl Miklós Építéstudományi Kara a Szent István Egyetem szervezetéből kiválik és az Óbudai Egyetem szervezetébe olvad be.
+
+(30) 2020. július 31. napján a Budapesti Gazdasági Egyetem Gazdálkodási Kara (Gazdálkodási Kar Zalaegerszeg) a Budapesti Gazdasági Egyetem szervezetéből kiválik és a Pannon Egyetem szervezetébe olvad be.

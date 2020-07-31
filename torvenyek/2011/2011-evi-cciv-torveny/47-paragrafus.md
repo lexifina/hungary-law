@@ -4,7 +4,7 @@
 
 47. § (1) Egy személy – felsőoktatási szakképzésben, alapképzésben és mesterképzésben összesen – tizenkét féléven át folytathat a felsőoktatásban tanulmányokat magyar állami (rész)ösztöndíjas képzésben (a továbbiakban: támogatási idő). A támogatási idő legfeljebb tizennégy félév, ha a hallgató osztatlan képzésben vesz részt és a képzési követelmények szerint a képzési idő meghaladja a tíz félévet.
 
-(1a) A művészeti képzési terület szerinti nem tanári osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan szakot követően felvett művészeti tanárszakon, szakmai tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
+(1a) A nem tanári mesterképzési szakkal vagy osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan szakot követően felvett tanárszakon, szakmai tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
 
 (2) A doktori képzésben részt vevő hallgató támogatási ideje legfeljebb nyolc félév.
 

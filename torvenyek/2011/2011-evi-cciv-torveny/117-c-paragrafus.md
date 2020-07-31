@@ -16,6 +16,8 @@ b) 5. § (1) bekezdésében meghatározott jogalanyiságát nem érinti.
 
 (4c) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan a jogelőd felsőoktatási intézmény által az állami fenntartó útján a jogutód felsőoktatási intézmény részére átadott pénzeszközt az eredménytartalékkal szemben köteles a könyveibe felvenni.
 
+(4d) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény által fenntartott, 14. § (3) bekezdése szerinti köznevelési intézmény és szakképző intézmény a fenntartóváltást követően is a felsőoktatási intézmény jogi személyiségű szervezeti egységeként működik.
+
 (5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának napján munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
 (6) Az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első

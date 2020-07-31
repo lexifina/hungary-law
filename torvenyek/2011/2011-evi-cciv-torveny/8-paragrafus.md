@@ -13,3 +13,5 @@
 (7) A hallgatók lakhatási feltételeinek biztosításához felsőoktatási intézmény részeként kollégium működtethető, illetve a felsőoktatási intézményhez szervezetileg nem tartozó intézményként diákotthon hozható létre. A diákotthon – az alapítótól függően költségvetési szervként vagy nem költségvetési szervként működő – jogi személy.
 
 (8) Diákotthon alapítója egyházi vagy magán felsőoktatási intézmény lehet, valamint az, aki felsőoktatási intézményt alapíthat.
+
+(9) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a diákotthon minimális létesítési és működési feltételeit.

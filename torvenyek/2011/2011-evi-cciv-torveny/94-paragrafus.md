@@ -16,7 +16,7 @@
 
 (5) A magán felsőoktatási intézmény alapító okiratában fel kell tüntetni, hogy tevékenységét közhasznú szervezetként működő felsőoktatási intézményként vagy vállalkozásként végzi.
 
-(6) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdésében és a 73. § (3) bekezdésében foglaltaktól eltérően úgy is rendelkezhet, hogy a fenntartó hagyja jóvá a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési, vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori pályázatot.
+(6) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdésében és a 73. § (3) bekezdésében foglaltaktól eltérően úgy is rendelkezhet, hogy a fenntartó fogadja el a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési, vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori pályázatot.
 
 (6a) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdés d) pontjában foglaltaktól eltérően úgy is rendelkezhet, hogy a szenátus javaslatot tesz a rektori pályázati felhívás tartalmára és véleményezi a rektori pályázatokat, továbbá értékeli a rektor vezetői tevékenységét.
 

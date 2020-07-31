@@ -12,7 +12,7 @@ ab) a vagyon valós piaci értékének megfelelő ellenérték fejében,
 
 ac) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
 
-ad) a fenntartó előzetes értesítése mellett,
+ad) a fenntartó előzetes értesítése mellett – ide nem értve az immateriális jószágokat, tárgyi eszközöket, készleteket, amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg –,
 
 ae) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával, vagy
 

@@ -6,7 +6,7 @@
 
 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 
-3. a felsőoktatási intézmény, valamint a közösségi felsőoktatási képzési központ, a diákotthon minimális létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit, a konzisztórium tagjaira való javaslattétel rendjét,
+3. a felsőoktatási intézmény, valamint a közösségi felsőoktatási képzési központ minimális létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit, a konzisztórium tagjaira való javaslattétel rendjét,
 
 4. a képesítési keretet, a doktori képzés szabályait,
 
