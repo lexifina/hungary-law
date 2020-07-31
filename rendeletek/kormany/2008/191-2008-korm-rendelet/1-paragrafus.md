@@ -40,11 +40,7 @@ i)[^10]
 
 j) fejlesztési támogatás: a szolgáltatás tárgyi feltételeinek kialakításához, bővítéséhez adott állami támogatás;
 
-k)[^11] finanszírozási időszak: ha törvény vagy e rendelet másként nem rendelkezik,
-
-ka) tanoda esetén az általános pályázati eljárás lefolytatását követő naptári év,
-
-kb) a ka) alpontban nem említett szolgáltatás esetén az általános pályázati eljárás lefolytatását követő év január 1-jétől az azt követő harmadik év december 31-éig terjedő időszak;
+k)[^11] finanszírozási időszak: ha törvény vagy e rendelet másként nem rendelkezik, az általános pályázati eljárás lefolytatását követő év január 1-jétől az azt követő harmadik év december 31-éig terjedő időszak;
 
 l)[^12] igazgatóság: a Magyar Államkincstár területi szerve.
 
@@ -64,7 +60,7 @@ l)[^12] igazgatóság: a Magyar Államkincstár területi szerve.
 [^8]: Az 1. § (2) bekezdés f)–g) pontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 3. pontja hatályon kívül helyezte.
 [^9]: Az 1. § (2) bekezdés h) pontja a 357/2010. (XII. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése a) pontja szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdés i) pontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 3. pontja hatályon kívül helyezte.
-[^11]: Az 1. § (2) bekezdés k) pontja a 226/2018. (XII. 4.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (2) bekezdés k) pontja a 375/2020. (VII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^12]: Az 1. § (2) bekezdés l) pontja a 357/2010. (XII. 30.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
 [^13]: Az 1. § (3) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 49. §-a szerint módosított szöveg.
 [^14]: Az 1. § (4) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 20. § (4) bekezdésével megállapított, a 89/2013. (III. 28.) Korm. rendelet 4. § d) pontja, a 419/2051. (XII. 23.) Korm. rendelet 23. § a) pontja, a 82/2019. (IV. 18.) Korm. rendelet 2. § (6) bekezdés a) pontja szerint módosított szöveg.
