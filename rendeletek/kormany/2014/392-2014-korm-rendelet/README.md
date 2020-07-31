@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-392-20-
 | 2016-11-18 | 2014-392-20-22.4 | 346/2016. (XI. 17.) Korm. rendelet |
 | 2018-01-01 | 2014-392-20-22.5 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-01-05 | 2014-392-20-22.6 | 484/2017. (XII. 28.) Korm. rendelet |
+| 2020-07-31 | 2014-392-20-22.7 | 371/2020. (VII. 30.) Korm. rendelet |
