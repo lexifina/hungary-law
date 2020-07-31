@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-310-20-
 | 2019-11-28 | 2017-310-20-22.8 | 282/2019. (XI. 27.) Korm. rendelet |
 | 2020-03-01 | 2017-310-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-04-19 | 2017-310-20-22.10 | 111/2020. (IV. 14.) Korm. rendelet |
+| 2020-07-31 | 2017-310-20-22.11 | 371/2020. (VII. 30.) Korm. rendelet |

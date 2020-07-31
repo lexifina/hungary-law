@@ -1,4 +1,4 @@
-1. melléklet a 310/2017. (X. 31.) Korm. rendelethez
+1. melléklet a 310/2017. (X. 31.) Korm. rendelethez[^31]
 
 A Kincstár területi szervei
 
@@ -16,7 +16,7 @@ A Kincstár területi szervei
 
 | 6. | Magyar Államkincstár Budapesti és Pest Megyei Igazgatóság | Budapest, Pest megye |
 
-| 7. | Magyar Államkincstár Csongrád Megyei Igazgatóság | Csongrád megye |
+| 7. | Magyar Államkincstár Csongrád-Csanád Megyei Igazgatóság | Csongrád-Csanád megye |
 
 | 8. | Magyar Államkincstár Fejér Megyei Igazgatóság | Fejér megye |
 
@@ -43,3 +43,5 @@ A Kincstár területi szervei
 | 19. | Magyar Államkincstár Veszprém Megyei Igazgatóság | Veszprém megye |
 
 | 20. | Magyar Államkincstár Zala Megyei Igazgatóság | Zala megye |
+
+[^31]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 47. §-a szerint módosított szöveg.
