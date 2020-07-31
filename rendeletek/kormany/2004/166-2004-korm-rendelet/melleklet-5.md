@@ -60,4 +60,6 @@
 
 |  | sportszervezet képviselőjének aláírása |
 
-5. számú melléklet a 166/2004. (V. 21.) Korm. rendelethez
+5. számú melléklet a 166/2004. (V. 21.) Korm. rendelethez[^29]
+
+[^29]: Az 5. számú melléklet a 371/2020. (VII. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
