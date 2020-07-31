@@ -1,3 +1,3 @@
-## 21. §[^4]
+## 21. §[^9]
 
-[^4]: A 21. §-t a 25/2019. (VIII. 26.) ITM rendelet 23. §-a hatályon kívül helyezte.
+[^9]: A 21. §-t a 25/2019. (VIII. 26.) ITM rendelet 23. §-a hatályon kívül helyezte.

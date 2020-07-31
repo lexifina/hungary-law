@@ -182,7 +182,7 @@
 
 ## 3.9. A műszeren szereplő, illetve a műszert kísérő információk
 
-## 3.9.1. A mérőműszeren a következő jelöléseknek és feliratoknak kell szerepelniük:
+## 3.9.1. A mérőműszeren az a) és b) pontban meghatározott, valamint adott esetben a c)–h) pontban meghatározott jelöléseknek és feliratoknak kell szerepelniük:
 
 ## a) a gyártó neve, bejegyzett kereskedelmi neve vagy bejegyzett védjegye;
 
@@ -254,4 +254,6 @@
 
 ## A mérőműszert úgy kell kialakítani, hogy lehetővé tegye az e rendelet vonatkozó követelményeinek való megfelelőség teljes értékelését.
 
-3. melléklet a 43/2016. (XI. 23.) NGM rendelethez
+3. melléklet a 43/2016. (XI. 23.) NGM rendelethez[^17]
+
+[^17]: A 3. melléklet a 27/2020. (VII. 16.) ITM rendelet 24. § f)–g) pontja szerint módosított szöveg.

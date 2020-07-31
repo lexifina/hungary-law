@@ -1,3 +1,3 @@
-## 22. §[^5]
+## 22. §[^10]
 
-[^5]: A 22. §-t a 25/2019. (VIII. 26.) ITM rendelet 23. §-a hatályon kívül helyezte.
+[^10]: A 22. §-t a 25/2019. (VIII. 26.) ITM rendelet 23. §-a hatályon kívül helyezte.
