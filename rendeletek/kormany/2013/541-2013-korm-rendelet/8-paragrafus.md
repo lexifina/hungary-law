@@ -1,3 +1,3 @@
-8. §[^4] Ez a rendelet a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-ai (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+8. §[^6] Ez a rendelet a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-ai (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^4]: A 8. §-t a 394/2017. (XII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^6]: A 8. §-t a 394/2017. (XII. 13.) Korm. rendelet 5. §-a iktatta be.
