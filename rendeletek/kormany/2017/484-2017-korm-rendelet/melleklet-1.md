@@ -1,4 +1,4 @@
-## 6. §[^1]
+## 6. §[^2]
 
 1. melléklet a 484/2017. (XII. 28.) Korm. rendelethez
 
@@ -58,4 +58,4 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések felülvizsgálatára, módosítására irányuló hatósági eljárások.
 
-[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
