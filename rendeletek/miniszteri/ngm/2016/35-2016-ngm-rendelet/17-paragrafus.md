@@ -1,5 +1,5 @@
 ## 16. §
 
-## 15.[^5]
+## 15.[^6]
 
-[^5]: A 15. alcímet (17. §) a 25/2019. (VIII. 26.) ITM rendelet 21. §-a hatályon kívül helyezte.
+[^6]: A 15. alcímet (17. §) a 25/2019. (VIII. 26.) ITM rendelet 21. §-a hatályon kívül helyezte.
