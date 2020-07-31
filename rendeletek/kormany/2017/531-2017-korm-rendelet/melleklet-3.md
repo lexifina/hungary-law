@@ -65,15 +65,3 @@
 18. a „Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok a budai várnegyed területén” programhoz kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 227/2014. (IX. 4.) Korm. rendelet szerinti beruházás,
 
 19. a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet szerinti beruházás,
-
-20. a Gül Baba türbéje és környezete komplex rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 2/2015. (I. 22.) Korm. rendelet szerinti beruházás,
-
-21. a Fővárosi Állat- és Növénykert fejlesztésére irányuló Pannon Park és Mesepark projektekhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 48/2015. (III. 12.) Korm. rendelet szerinti beruházás,
-
-22. a Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabesenyői új objektum beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 63/2015. (III. 24.) Korm. rendelet szerinti beruházás,
-
-23. a Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 208/2015. (VII. 23.) Korm. rendelet szerinti beruházás,
-
-24. a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet szerinti beruházás,
-
-25. az új budapesti konferencia-központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 267/2015. (IX. 14.) Korm. rendelet szerinti beruházás,

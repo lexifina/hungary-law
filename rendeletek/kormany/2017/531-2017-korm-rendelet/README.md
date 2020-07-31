@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2020-05-13 | 2017-531-20-22.22 | 196/2020. (V. 12.) Korm. rendelet |
 | 2020-06-30 | 2017-531-20-22.23 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-24 | 2017-531-20-22.24 | 363/2020. (VII. 23.) Korm. rendelet |
+| 2020-07-31 | 2017-531-20-22.25 | 360/2019. (XII. 30.) Korm. rendelet |
