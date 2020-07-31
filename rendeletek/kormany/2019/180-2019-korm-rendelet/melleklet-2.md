@@ -4,7 +4,7 @@
 
 | 2. | Észak-Alföldi Társadalmi Esélyteremtési Igazgatóság | Debrecen | Szabolcs-Szatmár-Bereg megye, Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye |
 
-| 3. | Dél-Alföldi Társadalmi Esélyteremtési Igazgatóság | Kecskemét | Békés megye, Csongrád megye, Bács-Kiskun megye |
+| 3. | Dél-Alföldi Társadalmi Esélyteremtési Igazgatóság | Kecskemét | Békés megye, Csongrád-Csanád megye, Bács-Kiskun megye |
 
 | 4. | Dél-Dunántúli Társadalmi Esélyteremtési Igazgatóság | Pécs | Baranya megye, Tolna megye, Somogy megye |
 
