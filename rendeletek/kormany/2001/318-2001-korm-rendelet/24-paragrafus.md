@@ -16,7 +16,7 @@ A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” 
 
 | 4 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Miskolc | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 5 | Csongrád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban, Romániában lakóhellyel rendelkező jogosultak |
+| 5 | Csongrád-Csanád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban, Romániában lakóhellyel rendelkező jogosultak |
 
 | 6 | Győr-Moson-Sopron Megyei Kormányhivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
 
@@ -39,4 +39,4 @@ A „Magyar igazolvány”, valamint a „Magyar hozzátartozói igazolvány” 
 [^61]: A 23. §-t a 373/2012. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
 [^62]: A hatálybalépés napja: 2013. január 1.
 [^63]: A 24. §-t a 477/2016. (XII. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^64]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja szerint módosított szöveg.
+[^64]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 87. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 27. § c) és d) pontja, a 371/2020. (VII. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
