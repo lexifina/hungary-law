@@ -26,7 +26,7 @@ i) a legfeljebb 10 J energiát tároló kondenzátorokból táplált villamos be
 
 j) a villamosművek és a villamosműhöz tartozó villamos berendezések,
 
-k) villamosáram-fejlesztő berendezések.
+k)[^1]
 
 (4) E rendelet hatálya nem terjed ki
 
@@ -35,3 +35,5 @@ a) a meghatározott feszültséghatáron belüli használatra tervezett villamos
 b) a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatáról és tanúsításáról szóló nemzetgazdasági miniszteri rendeletben meghatározott berendezések, védelmi rendszerek tervezésére, gyártására, megfelelőségértékelésére és piacfelügyeletére.
 
 (5) Az e rendeletben foglaltakat a jogszabály alapján munkaeszköznek minősülő villamos berendezések időszakos ellenőrzésére jogszabály eltérő rendelkezése hiányában kell alkalmazni.
+
+[^1]: Az 1. § (3) bekezdés k) pontját a 27/2020. (VII. 16.) ITM rendelet 28. §-a hatályon kívül helyezte.

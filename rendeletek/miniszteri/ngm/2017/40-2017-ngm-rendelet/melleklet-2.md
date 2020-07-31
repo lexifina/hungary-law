@@ -1,3 +1,3 @@
-2. melléklet a 40/2017. (XII. 4.) NGM rendelethez[^4]
+2. melléklet a 40/2017. (XII. 4.) NGM rendelethez[^8]
 
-[^4]: A 2. mellékletet a 25/2019. (VIII. 26.) ITM rendelet 28. §-a hatályon kívül helyezte.
+[^8]: A 2. mellékletet a 25/2019. (VIII. 26.) ITM rendelet 28. §-a hatályon kívül helyezte.
