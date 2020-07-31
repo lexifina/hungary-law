@@ -14,4 +14,4 @@
 
 2. melléklet a 17/2016. (II. 10.) Korm. rendelethez[^200]
 
-[^200]: A 2. mellékletet a 109/2019. (V. 13.) Korm. rendelet 5. §-a iktatta be.
+[^200]: A 2. mellékletet a 109/2019. (V. 13.) Korm. rendelet 5. §-a iktatta be, szövege a 371/2020. (VII. 30.) Korm. rendelet 37. §-a szerint módosított szöveg.
