@@ -10,10 +10,11 @@ d) ha a kérelmező székhelye vagy lakóhelye Fejér megye, Komárom-Esztergom 
 
 e) ha a kérelmező székhelye vagy lakóhelye Győr-Moson-Sopron megye, Vas megye vagy Zala megye területén található, a Győr-Moson-Sopron Megyei Adó- és Vámigazgatóság;
 
-f) ha a kérelmező székhelye vagy lakóhelye Bács-Kiskun megye, Békés megye, Csongrád megye területén található, a Csongrád Megyei Adó- és Vámigazgatóság;
+f)[^75] ha a kérelmező székhelye vagy lakóhelye Bács-Kiskun megye, Békés megye, Csongrád-Csanád megye területén található, a Csongrád-Csanád Megyei Adó- és Vámigazgatóság;
 
 g) ha a kérelmező székhelye vagy lakóhelye Baranya megye, Somogy megye, Tolna megye területén található, a Baranya Megyei Adó- és Vámigazgatóság
 
 végzi.
 
 [^74]: A 40. § nyitó szövegrésze a 88/2016. (IV. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^75]: A 40. § f) pontja a 371/2020. (VII. 30.) Korm. rendelet 36. § a) pont aa) és ab) alpontja szerint módosított szöveg.
