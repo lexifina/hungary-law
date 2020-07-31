@@ -20,7 +20,7 @@ h) Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság az Észak-ma
 
 i) Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság a Közép-Tisza-vidéki Vízügyi Hatóság,
 
-j) Csongrád Megyei Katasztrófavédelmi Igazgatóság az Alsó-Tisza-vidéki Vízügyi Hatóság,
+j)[^24] Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság az Alsó-Tisza-vidéki Vízügyi Hatóság,
 
 k) Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság az Alsó-Duna-völgyi Vízügyi Hatóság,
 
@@ -29,3 +29,5 @@ l) Békés Megyei Katasztrófavédelmi Igazgatóság a Körös-vidéki Vízügyi
 ## jogutódja.
 
 (3) Az Országos Vízügyi Hatóságtól a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósághoz, valamint a területi vízügyi hatóságoktól a hivatásos katasztrófavédelmi szerv területi szerveihez kerülő kormánytisztviselők és kormányzati ügykezelők kormányzati szolgálati jogviszonya folyamatos.
+
+[^24]: A 18. § (2) bekezdés j) pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
