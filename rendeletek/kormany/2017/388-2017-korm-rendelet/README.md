@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-388-20-
 | 2020-02-01 | 2017-388-20-22.8 | 6/2020. (I. 31.) Korm. rendelet |
 | 2020-02-15 | 2017-388-20-22.9 | 273/2019. (XI. 20.) Korm. rendelet |
 | 2020-03-01 | 2017-388-20-22.10 | 273/2019. (XI. 20.) Korm. rendelet |
+| 2020-07-31 | 2017-388-20-22.11 | 273/2019. (XI. 20.) Korm. rendelet |
