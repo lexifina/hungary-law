@@ -248,7 +248,7 @@
 
 | 122. |  | XXIII. kerület |
 
-| 123. | CSONGRÁD MEGYE |  |
+| 123. | CSONGRÁD-CSANÁD MEGYE |  |
 
 | 124. | Hódmezővásárhelyi Járási Hivatal |  |
 
@@ -776,4 +776,4 @@
 
 | 7. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye |
 
-[^44]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 6. §-át.
+[^44]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja, a 371/2020. (VII. 30.) Korm. rendelet 42. §-a szerint módosított szöveg. Alkalmazására lásd a 303/2020. (VI. 29.) Korm. rendelet 6. §-át.
