@@ -1,4 +1,4 @@
-4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^215]
+4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^216]
 
 ## A növénytermesztési hatóságként több megyére kiterjedő illetékességgel eljáró kormányhivatalok illetékességi területe
 
@@ -8,7 +8,7 @@ I. Vetőmagokat érintő feladatok
 
 | 1. | Kormányhivatal | Illetékességi terület |
 
-| 2. | Békés Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád megye |
+| 2. | Békés Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád-Csanád megye |
 
 | 3. | Hajdú-Bihar Megyei Kormányhivatal | Borsod-Abaúj-Zemplén, Hajdú-Bihar és Szabolcs-Szatmár-Bereg megye |
 
@@ -28,7 +28,7 @@ II. Kertészeti szaporítóanyagokat érintő feladatok
 
 | 1. | Kormányhivatal | Illetékességi terület |
 
-| 2. | Békés Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád megye |
+| 2. | Békés Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád-Csanád megye |
 
 | 3. | Hajdú-Bihar Megyei Kormányhivatal | Borsod-Abaúj-Zemplén, Hajdú-Bihar és Szabolcs-Szatmár-Bereg megye |
 
@@ -48,8 +48,8 @@ III. Erdészeti szaporítóanyagokat érintő feladatok
 
 | 3. | Győr-Moson-Sopron Megyei Kormányhivatal | Győr-Moson-Sopron, Komárom-Esztergom, Vas és Zala megye |
 
-| 4. | Baranya Megyei Kormányhivatal | Bács-Kiskun, Baranya, Csongrád, Somogy és Tolna megye |
+| 4. | Baranya Megyei Kormányhivatal | Bács-Kiskun, Baranya, Csongrád-Csanád, Somogy és Tolna megye |
 
 | 5. | Fejér Megyei Kormányhivatal | Fejér, Heves, Nógrád, Pest és Veszprém megyére |
 
-[^215]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^216]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja szerint módosított szöveg.
