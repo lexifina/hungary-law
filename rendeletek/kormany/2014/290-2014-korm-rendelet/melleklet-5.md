@@ -1,5 +1,3 @@
-## Átmenetileg kedvezményezett települések jegyzéke
-
 |  | A | B |
 
 | 1. | Megye | Település |
@@ -62,7 +60,7 @@
 
 | 30. |  | Újcsanálos |
 
-| 31. | Csongrád | Ferencszállás |
+| 31. | Csongrád-Csanád | Ferencszállás |
 
 | 32. |  | Klárafalva |
 

@@ -1,8 +1,6 @@
-## 8. §[^8]
-
 1. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^9]
 
-## A térségek társadalmi-gazdasági és infrastrukturális fejlettségét mérő komplex mutató kiszámításánál használt adatok köre és a számítás módszertana
+A térségek társadalmi-gazdasági és infrastrukturális fejlettségét mérő komplex mutató kiszámításánál használt adatok köre és a számítás módszertana
 
 A) Mutatócsoportok és az egyes mutatók
 
@@ -66,33 +64,24 @@ B) A komplex mutató számításának módszertana
 
 1. Az alapindikátorok azonos terjedelmű skálára való transzformálása normalizálási eljárással a következő képlet alapján:
 
-, ahol
+## , ahol
 
-: normalizált alapindikátor
+## : normalizált alapindikátor
 
-min(): az alapindikátor legkisebb értéke
+## min(): az alapindikátor legkisebb értéke
 
-max(): az alapindikátor legnagyobb értéke
+## max(): az alapindikátor legnagyobb értéke
 
 2. Csoportindikátorok számítása: az egy csoporton belüli alapindikátorok átlagértéke adja az adott csoport csoportindikátorának értékét a következő képlet alapján:
 
-, ahol
+## , ahol
 
-: csoportindikátor
+## : csoportindikátor
 
-: normalizált alapindikátor
+## : normalizált alapindikátor
 
-: csoportban szereplő indikátorok száma
+## : csoportban szereplő indikátorok száma
 
 3. Komplex mutató számítása: a négy csoportindikátor átlagértéke adja a fejlettségi komplex mutató értékét a következő képlet alapján:
 
-, ahol
-
-: csoportindikátor
-
-: komplex mutató
-
-: csoportindikátorok száma
-
-[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: Az 1. melléklet a 290/2016. (VII. 13.) Korm. rendelet 22. §-a szerint módosított szöveg.

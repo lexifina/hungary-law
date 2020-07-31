@@ -1,5 +1,3 @@
-## A kedvezményezett járások listája
-
 |  | A | B | C | D | E | F |
 
 | 1. |  |  |  | Kedvezményezett járás |
@@ -42,7 +40,7 @@
 
 | 20. |  |  | Szeghalmi | 0 | 1 | 0 |
 
-| 21. |  | Csongrád | Csongrádi | 1 | 0 | 0 |
+| 21. |  | Csongrád-Csanád | Csongrádi | 1 | 0 | 0 |
 
 | 22. |  |  | Hódmezővásárhelyi | 1 | 0 | 0 |
 
@@ -252,4 +250,6 @@
 
 4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^12]
 
-[^12]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+Átmenetileg kedvezményezett települések jegyzéke
+
+[^12]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.

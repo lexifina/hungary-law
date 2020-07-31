@@ -1,5 +1,3 @@
-## A járások – komplex mutató alapján – emelkedő sorrendbe állított listája
-
 |  | A | B | C | D | E | F | G | H | I |
 
 | 1. | Régió | Megye | Járás | Lakónépesség (2013. XII. 31.) | A komplex mutató értéke | Rangsorszám a komplex mutató értéke alapján | Kedvezményezett járás (46,68 alatt) | Fejlesztendő járás (a népesség 15%-a) | Komplex programmal fejlesztendő járás (a népesség 10%-a) |
@@ -402,4 +400,6 @@
 
 3. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^11]
 
-[^11]: A 3. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+A kedvezményezett járások listája
+
+[^11]: A 3. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
