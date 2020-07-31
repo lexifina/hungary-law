@@ -22,7 +22,7 @@
 
 ## Veszprém megye.
 
-## 2. Szegedi Tudományegyetem Orvos- és Gyógyszerésztudományi Centrum Sebészeti Klinika (6720 Szeged, Pécsi u. 4.)
+## 2.[^68] Szegedi Tudományegyetem Orvos- és Gyógyszerésztudományi Centrum Sebészeti Klinika (6720 Szeged, Pécsi u. 4.)
 
 ## Illetékességi terület:
 
@@ -30,7 +30,7 @@
 
 ## Békés megye,
 
-## Csongrád megye,
+## Csongrád-Csanád megye,
 
 ## Jász-Nagykun-Szolnok megye.
 
@@ -46,7 +46,7 @@
 
 ## Zala megye.
 
-## 4.[^68] Debreceni Egyetem Klinikai Központ Sebészeti Klinika (4012 Debrecen, Nagyerdei körút 98.)
+## 4.[^69] Debreceni Egyetem Klinikai Központ Sebészeti Klinika (4012 Debrecen, Nagyerdei körút 98.)
 
 ## Illetékességi terület:
 
@@ -88,7 +88,7 @@
 
 ## Veszprém megye.
 
-## 2. Pécsi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 2.[^70] Pécsi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
@@ -98,7 +98,7 @@
 
 ## Békés megye,
 
-## Csongrád megye,
+## Csongrád-Csanád megye,
 
 ## Jász-Nagykun-Szolnok megye,
 
@@ -108,7 +108,9 @@
 
 ## Zala megye.
 
-4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^69]
+4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^71]
 
-[^68]: A 3. számú melléklet A) rész 4. pontja a 172/2016. (VII. 1.) Korm. rendelet 28. §-a szerint módosított szöveg.
-[^69]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^68]: A 3. számú melléklet A) alcím 2. pontja a 371/2020. (VII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^69]: A 3. számú melléklet A) rész 4. pontja a 172/2016. (VII. 1.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^70]: A 3. számú melléklet B) alcím 2. pontja a 371/2020. (VII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^71]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
