@@ -1,1 +1,3 @@
-## 15. § Az azonosítási jelentést első alkalommal az ágazatra vonatkozó ágazati kritériumokat megállapító jogszabály hatálybalépését követő 180 napon belül kell a kötelezettnek benyújtania.
+## 15. §[^62]
+
+[^62]: A 15. §-t a 375/2020. (VII. 30.) Korm. rendelet 53. § e) pontja hatályon kívül helyezte.

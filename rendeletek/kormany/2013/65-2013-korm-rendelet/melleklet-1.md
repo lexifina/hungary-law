@@ -1,4 +1,4 @@
-## 17. §[^29]
+## 17. §[^69]
 
 1. melléklet a 65/2013. (III. 8.) Korm. rendelethez
 
@@ -30,4 +30,13 @@ Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban 
 
 – az ország tájegységeiben, kiemelkedő földrajzi területeiben visszafordíthatatlan negatív változás következik be.
 
-[^29]: A 17. § a – 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított – 13. § (3) bekezdése alapján 2023. július 1-jén lép hatályba.
+6.[^70] a védelem kritériuma: az infrastruktúrában bekövetkező sérülés, zavar, állapot, esemény vagy folyamat:
+
+– amely következtében a rendszerelem ellátási láncban betöltött szerepét nem tudja ellátni,
+
+– sérülése vagy megsemmisülése esetén a beavatkozás, mentés vagy kárfelszámolás ideje aránytalanul megnövekszik, vagy
+
+– katasztrófák elleni védekezés, a károk felszámolása időlegesen ellehetetlenül.
+
+[^69]: A 17. § a – 368/2016. (XI. 29.) Korm. rendelet 8. §-ával megállapított – 13. § (3) bekezdése alapján 2023. július 1-jén lép hatályba.
+[^70]: Az 1. melléklet 6. pontját a 375/2020. (VII. 30.) Korm. rendelet 51. § a) pontja iktatta be.

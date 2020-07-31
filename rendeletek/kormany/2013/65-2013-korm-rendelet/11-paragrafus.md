@@ -1,28 +1,45 @@
 ## 10. Együttműködés
 
-11. § (1)[^16] A 4. § (1) bekezdés szerinti hatósági illetve szakhatósági eljárásban a hivatásos katasztrófavédelmi szerv központi, területi vagy helyi szerve a pénz- és adóügyi biztonság vonatkozásában a Nemzeti Adó- és Vámhivatal területi, illetve központi szervétől, a közrend, a közbiztonság, a lakosságvédelem, az alkotmányvédelem, a nemzetbiztonság, a terrorelhárítás vonatkozásában az általános rendőrségi feladatok ellátására létrehozott szerv területi, illetve központi szervétől, az Alkotmányvédelmi Hivatal területi, illetve központi szervétől, valamint a Terrorelhárítási Központtól véleményt kérhet.
+11. § (1)[^51] A 4. § (1) bekezdés szerinti hatósági, illetve szakhatósági eljárásban a hivatásos katasztrófavédelmi szerv központi vagy területi szerve
 
-(2)[^17] Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a területi környezetvédelmi hatóság, a területi vízügyi és vízvédelmi hatóság, valamint az országos természetvédelmi és környezetvédelmi hatóság véleményét kérheti a hivatásos katasztrófavédelmi szerv központi, területi vagy helyi szerve az (1) bekezdés szerinti eljárásokban.
+a) a gazdasági hatás kritériuma teljesülésének kérdésében a Nemzeti Adó- és Vámhivatal központi szerve,
 
-(3) Az (1) bekezdésben meghatározott szervek ellenőrzési tevékenységük során a kijelölés alapjául szolgáló körülmények változatlan fennállásán kívül vizsgálják a létfontosságú rendszerelemek, az azokhoz tartozó közterületek, valamint az azokat felügyelő, működtető személyek azon fizikai, humán és informatikai biztonsági feltételeinek meglétét, amelyek garantálják az azonosított kockázatokkal szembeni védelmet, a rendeltetésszerű működést, a szándékos és nem szándékos károkozás elkerülését.
+b) a társadalmi hatás kritériuma teljesülésének kérdésében az általános rendőrségi feladatok ellátására létrehozott szerv területi, illetve központi szerve, az Alkotmányvédelmi Hivatal központi szerve, a Terrorelhárítási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint az Országos Idegenrendészeti Főigazgatóság,
 
-(4)[^18] A 8. § (1) bekezdésében meghatározott ellenőrzési terv elkészítése érdekében az érintett hatóságok az együttműködés keretében, minden évben legkésőbb a tárgyévet megelőző év október 15. napjáig megküldik a hivatásos katasztrófavédelmi szerv központi szerve részére az ellenőrzési terv elkészítéséhez szükséges javaslataikat, melyeket egyúttal a saját ellenőrzési rendszerükben is megjelenítenek.
+c) a politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott,
 
-(5)[^19] Az üzemeltető az együttműködés keretében katasztrófaveszély vagy katasztrófa esetén haladéktalanul köteles a kijelölő hatóságot és a hivatásos katasztrófavédelmi szerv központi szervét, honvédelmi létfontosságú rendszerelem esetén a fentieken felül a Magyar Honvédség Központi Ügyeletét értesíteni.
+d) a környezeti hatás kritériuma teljesülésének lehetősége kérdésében a területi környezetvédelmi hatóság, a területi vízügyi és vízvédelmi hatóság, az országos természetvédelmi és környezetvédelmi hatóság, valamint az országos vízügyi és vízvédelmi hatóság,
 
-(6) Az együttműködés keretében, az üzemeltetői biztonsági tervben meghatározott rendkívüli esemény bekövetkezésekor
+e) a védelem kritériuma teljesülésének kérdésében a hivatásos katasztrófavédelmi szerv területi szerve
 
-a) a hivatásos katasztrófavédelmi szerv központi szerve jogosult a hatáskörükben érintett hatóságoktól, a beavatkozáshoz és elhárításához szükséges adatokat beszerezni;
+## véleményét kérheti.
 
-b) az a) pont szerinti adatszolgáltatást az érintett hatóság soron kívül köteles teljesíteni;
+(2)[^52]
 
-c) a rendkívüli eseményre való reagálás, a mentés megszervezése, irányítása, továbbá a lakosság tájékoztatása, a károk felmérése, az eredeti állapot lehetőség szerinti visszaállítása a hivatásos katasztrófavédelmi szerv központi szervének koordinálásával történik;
+(3)[^53] Az (1) bekezdésben meghatározott szervek az azonosítási jelentés alapján lefolytatott véleményalkotásuk, valamint a komplex ellenőrzésen történt részvételük esetén a kijelölés alapjául szolgáló körülmények fennállásán kívül vizsgálják a létfontosságú rendszerelemek, az azokhoz tartozó közterületek, valamint az azokat felügyelő, működtető személyek azon fizikai, humán és informatikai biztonsági feltételeinek meglétét, amelyek garantálják az azonosított kockázatokkal szembeni védelmet, a rendeltetésszerű működést, a szándékos és nem szándékos károkozás elkerülését.
 
-d) a szükséges erők, eszközök bevonására az érintett kijelölő hatóság tesz javaslatot;
+(4)[^54] A 8. § (1) bekezdésében meghatározott ellenőrzési terv elkészítése érdekében az érintett szervek az együttműködés keretében, minden évben legkésőbb a tárgyévet megelőző év október 15. napjáig megküldik a hivatásos katasztrófavédelmi szerv központi szerve részére az ellenőrzési terv elkészítéséhez szükséges javaslataikat, melyeket egyúttal a saját ellenőrzési rendszerükben is megjelenítenek.
 
-e) a kiváltó okok azonosításában, a tett intézkedések értékelésében, az érintett kijelölő hatóság, a beavatkozást végző szervek és a biztonsági összekötő személy együtt vesz részt.
+(5)[^55] Az üzemeltető az együttműködés keretében katasztrófaveszély vagy katasztrófa esetén haladéktalanul köteles a kijelölő hatóságot és a hivatásos katasztrófavédelmi szerv központi szervét, honvédelmi létfontosságú rendszerelem esetén a fentieken felül a Magyar Honvédség Központi Ügyeletét értesíteni.
 
-[^16]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 439. § (4) bekezdésével megállapított, a 323/2018. (XII. 28.) Korm. rendelet 32. §-a szerint módosított szöveg.
-[^17]: A 11. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 439. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^18]: A 8. § (4) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^19]: A 11. § (5) bekezdése a 94/2020. (IV. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+(6)[^56] Az együttműködés keretében, az üzemeltetői biztonsági tervben meghatározott rendkívüli esemény bekövetkezésekor
+
+a) a hivatásos katasztrófavédelmi szerv központi szerve jogosult a hatáskörükben érintett hatóságoktól és szervektől a beavatkozáshoz és elhárításához szükséges adatokat beszerezni, azok közreműködését kérni;
+
+b) az a) pont szerinti adatszolgáltatást az érintett hatóság és szerv soron kívül köteles teljesíteni, az adatszolgáltatást a megkeresett nem tagadhatja meg;
+
+c) a rendkívüli eseményre való reagálás, a mentés megszervezése, irányítása, továbbá a lakosság tájékoztatása, a károk felmérése, az eredeti állapot lehetőség szerinti helyreállítása a hivatásos katasztrófavédelmi szerv központi szervének koordinálásával történik;
+
+d) a szükséges erők, eszközök bevonására az érintett kijelölő hatóság javaslatot tehet;
+
+e) a kiváltó okok azonosításában, a tett intézkedések értékelésében az érintett kijelölő hatóság, a beavatkozást végző szervek és a biztonsági összekötő személy együtt vesz részt.
+
+(7)[^57] Az ágazati kijelölő hatóság tájékoztatja az egyedüli kapcsolattartó pontot az alapvető szolgáltatást nyújtó szereplőnek az érintett ágazat, illetve alágazat szerinti jelentőségéről.
+
+[^51]: A 11. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^52]: A 11. § (2) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 53. § d) pontja hatályon kívül helyezte.
+[^53]: A 11. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^54]: A 8. § (4) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 5. §-ával megállapított, a 375/2020. (VII. 30.) Korm. rendelet 52. § h) pontja szerint módosított szöveg.
+[^55]: A 11. § (5) bekezdése a 94/2020. (IV. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^56]: A 11. § (6) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 47. § (3) bekezdésével megállapított szöveg.
+[^57]: A 11. § (7) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 47. § (4) bekezdése iktatta be.

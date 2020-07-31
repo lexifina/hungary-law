@@ -1,0 +1,1 @@
+## 12/D. § Az azonosított alapvető szolgáltatást nyújtó szereplő soron kívül bejelenti az azonosító hatóság részére, ha a működésében olyan változás áll be, amely befolyásolja az alapvető szolgáltatás nyújtását.

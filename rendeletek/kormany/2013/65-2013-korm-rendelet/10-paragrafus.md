@@ -1,11 +1,13 @@
 ## 9. Nyilvántartási és adatbiztonsági előírások
 
-10. § (1) A Kormány az európai és nemzeti létfontosságú rendszerelemek nyilvántartására és a nyilvántartás adatainak kezelésére – a honvédelmi létfontosságú rendszerelemek kivételével – a hivatásos katasztrófavédelmi szerv központi szervét kijelöli.
+10. § (1)[^48] A Kormány a kijelölt európai és nemzeti létfontosságú rendszerelemek, illetve az alapvető szolgáltatást nyújtó szereplők nyilvántartásának vezetésére és a nyilvántartás adatainak kezelésére – az ágazaton belüli, illetve a rendszerelem vagy létesítmény szerint illetékes ágazat kijelölő hatóság által ki nem jelölt ágazaton kívüli honvédelmi létfontosságú rendszerelemek kivételével – a hivatásos katasztrófavédelmi szerv központi szervét jelöli ki. Azon ágazaton kívüli honvédelmi létfontosságú rendszerelemek esetében, amelyek más ágazatban is kijelölésre kerültek létfontosságú rendszerelemmé, a nyilvántartás vezetése és a nyilvántartás adatainak kezelése a hivatásos katasztrófavédelmi szerv központi szerve és a honvédelmi ágazat nyilvántartó hatósága által egyidejűleg történik. A honvédelmi ágazat nyilvántartó hatósága a kijelölő határozatot – az ágazaton belüli honvédelmi létfontosságú rendszerelemek kivételével – tájékoztatásul megküldi a hivatásos katasztrófavédelmi szerv központi szerve részére.
 
-(2) Az üzemeltető a nyilvántartott adatokban bekövetkezett változásokról 72 órán belül tájékoztatja az (1) bekezdés szerinti nyilvántartó hatóságot.
+(2)[^49] Az üzemeltető a nyilvántartott adatokban bekövetkezett változásokról 72 órán belül elektronikus úton tájékoztatja az (1) bekezdés szerinti nyilvántartó hatóságot és egyidejűleg a kijelölő hatóságot.
 
 (3) A Lrtv. 5. § (4) bekezdése szerinti szervek adatokat írásban, az adatigénylési cél meghatározásával és az átvenni kívánt adatok körének pontos megjelölésével kérhetnek a nyilvántartó hatóságtól. Az adatszolgáltatást 15 napon belül teljesíteni kell.
 
-(4)[^15] A hivatásos katasztrófavédelmi szerv központi szerve az (1) bekezdés szerinti nyilvántartásba a honvédelmi ágazat javaslattevő hatósága számára – az Lrtv. 5. § (4) bekezdése h) és i) pontjában foglalt feladatának végrehajtása céljából – hozzáférést biztosít.
+(4)[^50] A hivatásos katasztrófavédelmi szerv központi szerve az (1) bekezdés szerinti nyilvántartásból – az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóság, az (EU) 2016/1148 európai parlamenti és tanácsi irányelv alapján kormányrendeletben kijelölt egyedüli kapcsolattartó pont (a továbbiakban: egyedüli kapcsolattartó pont), valamint az Ibtv. 19. § (1) és (2) bekezdése szerinti eseménykezelő központ számára – az Lrtv. 5. § (4) bekezdése g) pontjában foglalt feladatának végrehajtása céljából, valamint a honvédelmi ágazat javaslattevő hatósága részére az Lrtv. 5. § (4) bekezdés h) és i) pontjában foglalt feladatának végrehajtása céljából a nyilvántartáshoz hozzáférést biztosít.
 
-[^15]: A 10. § (4) bekezdését a 94/2020. (IV. 7.) Korm. rendelet 2. §-a iktatta be.
+[^48]: A 10. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^49]: A 10. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^50]: A 10. § (4) bekezdését a 94/2020. (IV. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
