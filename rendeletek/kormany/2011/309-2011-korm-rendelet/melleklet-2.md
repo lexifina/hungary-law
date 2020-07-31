@@ -48,7 +48,7 @@
 
 ## 2.9. Központi tárolóhely, nyomtatási várakozási sorok és központi levelezési szolgáltatások üzemeltetése
 
-## 2.10.[^26] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
+## 2.10.[^27] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
 
 ## 2.11. Egyéb alapvető informatikai és elektronikus hírközlő eszköz üzemeltetése, karbantartása
 
@@ -134,9 +134,9 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-## 4.[^27] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
+## 4.[^28] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^28]
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^29]
 
 ## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
@@ -158,19 +158,19 @@
 
 9. Pénzügyminisztérium
 
-10.[^29] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
+10.[^30] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
 
 a) Nemzeti Hírközlési és Informatikai Tanács
 
 11. Közbeszerzési és Ellátási Főigazgatóság
 
-12.[^30] Mádl Ferenc Összehasonlító Jogi Intézet
+12.[^31] Mádl Ferenc Összehasonlító Jogi Intézet
 
-13.[^31] Társadalmi Esélyteremtési Főigazgatóság
+13.[^32] Társadalmi Esélyteremtési Főigazgatóság
 
-[^26]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^27]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
-[^28]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^29]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^30]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
-[^31]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^27]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^28]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^30]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^31]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.

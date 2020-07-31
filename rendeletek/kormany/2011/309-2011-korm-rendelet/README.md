@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-309-20-
 | 2019-06-01 | 2011-309-20-22.26 | 95/2019. (IV. 25.) Korm. rendelet |
 | 2019-11-15 | 2011-309-20-22.27 | 262/2019. (XI. 14.) Korm. rendelet |
 | 2020-06-12 | 2011-309-20-22.28 | 260/2020. (VI. 4.) Korm. rendelet |
+| 2020-07-31 | 2011-309-20-22.29 | 375/2020. (VII. 30.) Korm. rendelet |
