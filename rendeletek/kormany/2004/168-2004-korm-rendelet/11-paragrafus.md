@@ -6,7 +6,7 @@
 
 ## A központi beszerző szervezet
 
-11. § (1)[^42] A központi beszerző szervezet a Közbeszerzési és Ellátási Főigazgatóság.
+11. § (1)[^42] Az általános hatáskörrel eljáró központi beszerző szervezet a Közbeszerzési és Ellátási Főigazgatóság.
 
 (2) A központi beszerző szervezet ellátja a központosított közbeszerzési rendszer működtetésével kapcsolatos feladatokat, valamint lebonyolítja a központosított közbeszerzési rendszer keretén belül megvalósítandó közbeszerzéseket.
 
@@ -43,7 +43,7 @@ n) ellátja mindazon egyéb feladatot, melyet jogszabály a központosított kö
 o)[^47] a központi beszerző szervezet e rendelet szerinti feladataival összefüggésben a közbeszerzésekért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére, lekérdezésre haladéktalanul adatot szolgáltat.
 
 [^41]: A 10. § a 33/2012. (III. 7.) Korm. rendelet 10. § (1) bekezdése, a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. §-át.
-[^42]: A 11. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^42]: A 11. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (3) bekezdése, a 375/2020. (VII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^43]: A 11. § (3) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
 [^44]: A 11. § (3) bekezdés d) pontja a 165/2020. (IV. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^45]: A 11. § (3) bekezdés l) pontját a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.

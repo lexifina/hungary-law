@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2019-11-01 | 2004-168-20-22.31 | 257/2019. (X. 30.) Korm. rendelet |
 | 2019-12-21 | 2004-168-20-22.32 | 329/2019. (XII. 20.) Korm. rendelet |
 | 2020-05-01 | 2004-168-20-22.33 | 165/2020. (IV. 30.) Korm. rendelet |
+| 2020-07-31 | 2004-168-20-22.34 | 33/2012. (III. 7.) Korm. rendelet |
