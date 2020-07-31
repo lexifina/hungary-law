@@ -22,7 +22,7 @@
 
 ## bd) Békés megye,
 
-## be) Csongrád megye,
+## be) Csongrád-Csanád megye,
 
 ## bf) Hajdú-Bihar megye,
 

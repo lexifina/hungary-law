@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2019-05-07 | 1998-223-20-22.53 | 102/2019. (V. 6.) Korm. rendelet |
 | 2020-01-01 | 1998-223-20-22.54 | 310/2019. (XII. 18.) Korm. rendelet |
 | 2020-03-01 | 1998-223-20-22.55 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-07-31 | 1998-223-20-22.56 | 379/2016. (XII. 2.) Korm. rendelet |
