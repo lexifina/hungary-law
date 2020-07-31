@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-365-20-
 | 2020-02-18 | 2016-365-20-22.15 | 327/2019. (XII. 20.) Korm. rendelet |
 | 2020-03-01 | 2016-365-20-22.16 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-05-15 | 2016-365-20-22.17 | 190/2020. (V. 7.) Korm. rendelet |
+| 2020-07-31 | 2016-365-20-22.18 | 360/2019. (XII. 30.) Korm. rendelet |

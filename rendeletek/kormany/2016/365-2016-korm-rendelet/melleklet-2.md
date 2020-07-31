@@ -40,9 +40,9 @@
 
 | 11. | Tolna Megyei Kormányhivatal | mérésügyi eljárásokban: Tolna megye |
 
-| 12. | Csongrád Megyei Kormányhivatal | mérésügyi eljárásokban: Bács-Kiskun megye, Csongrád megye, Békés megye |
+| 12. | Csongrád-Csanád Megyei Kormányhivatal | mérésügyi eljárásokban: Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Bács-Kiskun megye, Csongrád megye, Békés megye |
+| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye |
 
 | 13. | Fejér Megyei Kormányhivatal | mérésügyi eljárásokban: Fejér megye, Veszprém megye, Komárom-Esztergom megye |
 
