@@ -14,7 +14,7 @@ A Kormánynak a diákkedvezmények megállapítását végző területi államig
 
 | 3 | Baranya Megyei Kormányhivatal | Pécs | A Horvát Köztársaságban, a Szerb Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 4 | Csongrád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
+| 4 | Csongrád-Csanád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
 
 | 5 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Miskolc | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
@@ -39,4 +39,4 @@ A Kormánynak a diákkedvezmények megállapítását végző területi államig
 [^40]: A 25. §-t a 294/2012. (X. 16.) Korm. rendelet 5. §-a iktatta be.
 [^41]: A hatálybalépés napja 2013. január 1.
 [^42]: A 26. §-t a 477/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdése iktatta be.
-[^43]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 89. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 28. §-a, a 136/2016. (VI. 13.) Korm. rendelet 1. § (7) bekezdés d) pontja és (8) bekezdés h) pontja szerint módosított szöveg.
+[^43]: A melléklet a 351/2010. (XII. 30.) Korm. rendelet 89. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 28. §-a, a 136/2016. (VI. 13.) Korm. rendelet 1. § (7) bekezdés d) pontja és (8) bekezdés h) pontja, a 371/2020. (VII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
