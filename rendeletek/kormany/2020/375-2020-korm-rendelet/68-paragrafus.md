@@ -1,0 +1,1 @@
+## „(3) A hatóság a szervezet által megküldött informatikai biztonsági szabályzatot nyilvántartásba vétel céljából továbbítja az európai és nemzeti létfontosságú rendszerelemek nyilvántartó hatóságának.”

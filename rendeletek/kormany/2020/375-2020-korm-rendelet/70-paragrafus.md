@@ -1,0 +1,3 @@
+## 69. § Az R10. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlói jogkörébe tartozó gazdasági társaságok, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint a jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok zárt célú elektronikus információs rendszerei biztonsági felügyeletét ellátó hatóságra az (1) bekezdésben meghatározottak mellett a 3–10. §-t, valamint a 12. és 13. §-t is alkalmazni kell.”

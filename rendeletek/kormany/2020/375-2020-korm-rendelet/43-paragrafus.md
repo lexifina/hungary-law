@@ -1,0 +1,1 @@
+## „(8) Az üzemeltető az üzemeltetői biztonsági tervét és az annak alapjául szolgáló kockázatelemzést a hivatásos katasztrófavédelmi szerv központi szerve által meghatározott és honlapján közzétett formátumban készíti el és küldi meg az ágazati kijelölő hatóság részére.”

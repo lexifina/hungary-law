@@ -1,0 +1,13 @@
+## 22. § Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet (a továbbiakban: R4.) 3. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) A minősített adatot kezelő szerv vagy a gazdálkodó szervezet a „Szigorúan titkos!”, a „Titkos!”, illetve a „Bizalmas!” minősítési szintű adatok kezelésére jogosító telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását az 1. mellékletben meghatározott adattartalommal a Nemzeti Biztonsági Felügyelet (a továbbiakban: NBF) elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, valamint a 4. § (4) bekezdésében foglaltak alapján az érintett személyek által kitöltött biztonsági kérdőív egyszerre történő megküldésével kezdeményezi az NBF-nél.
+
+## (2) A minősített adatot kezelő szerv vagy a gazdálkodó szervezet a „Szigorúan titkos!”, a „Titkos!”, illetve a „Bizalmas!” minősítési szintű adatok kezelésére jogosító egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a 2. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, valamint a 4. § (5) bekezdésében foglaltak alapján az érintett személyek által kitöltött biztonsági kérdőív egyszerre történő megküldésével kezdeményezi az NBF-nél.”
+
+23. § (1) Az R4. 4. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(4) A 3. § (1) bekezdése szerinti esetben az iparbiztonsági ellenőrzés során a nemzetbiztonsági szolgálat végrehajtja a gazdálkodó szervezet ügyvezetését ellátó személyek, a cégvezető, a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagja, alapítója, részvényese, a kijelölésre kerülő biztonsági vezető, valamint a titkos ügykezelő, a rendszerbiztonsági felügyelő, a rendszeradminisztrátor, továbbá a minősített szerződésben való igazolt részvétel esetén annak előkészítésében és végrehajtásában érintett személyek nemzetbiztonsági ellenőrzését.
+
+## (5) A 3. § (2) bekezdése szerinti esetben az iparbiztonsági ellenőrzés során a nemzetbiztonsági szolgálat végrehajtja a gazdálkodó szervezet ügyvezetését ellátó személyek, a cégvezető, a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagja, alapítója, részvényese, a kijelölésre kerülő biztonsági vezető, valamint a minősített szerződésben való igazolt részvétel esetén annak előkészítésében és végrehajtásában érintett személyek nemzetbiztonsági ellenőrzését.”
+
+(2) Az R4. 4. §-a a következő (7) bekezdéssel egészül ki:

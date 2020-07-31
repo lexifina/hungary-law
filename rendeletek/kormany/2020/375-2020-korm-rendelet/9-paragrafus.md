@@ -1,0 +1,3 @@
+## 8. § A Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendelet (a továbbiakban: R3.) 4. § (2b) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2b) A hatósági ellenőrzésre a Nemzeti Biztonsági Felügyelet hivatásos szolgálati jogviszonnyal, valamint rendvédelmi igazgatási szolgálati jogviszonnyal rendelkező tagja jogosult. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a szolgálati igazolvánnyal együtt érvényes. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni.”
