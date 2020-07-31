@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2018-10-01 | 2008-337-20-22.46 | 250/2017. (IX. 5.) Korm. rendelet |
 | 2019-01-01 | 2008-337-20-22.47 | 287/2018. (XII. 21.) Korm. rendelet |
 | 2019-07-01 | 2008-337-20-22.48 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2020-07-31 | 2008-337-20-22.49 | 325/2011. (XII. 28.) Korm. rendelet |

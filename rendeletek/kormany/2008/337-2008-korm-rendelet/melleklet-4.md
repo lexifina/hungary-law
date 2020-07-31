@@ -296,4 +296,4 @@
 
 4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^310]
 
-[^310]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított szöveg.
+[^310]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a szerint módosított szöveg.

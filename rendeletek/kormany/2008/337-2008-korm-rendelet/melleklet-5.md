@@ -66,7 +66,7 @@
 
 | 33. |  | Békés megye Bucsa és Ecsegfalva kivételével |
 
-| 34. |  | Csongrád megye |
+| 34. |  | Csongrád-Csanád megye |
 
 | 35. |  | Jász-Nagykun-Szolnok megyéből: Csépa, Cserkeszőlő, Kunszentmárton, Öcsöd, Szelevény, Tiszainoka, Tiszakürt, Tiszasas |
 
