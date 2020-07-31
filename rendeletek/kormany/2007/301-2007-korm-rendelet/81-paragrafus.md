@@ -1,4 +1,4 @@
-## 80. §[^197]
+## A visszaküldés tilalmának vizsgálata
 
 ## VII. Fejezet
 
@@ -20,7 +20,6 @@ c) jogszerűen tartózkodik Magyarország területén és nem kéri befogadó á
 
 (5)[^203] Amennyiben az elismerését kérő személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés hatálya alatt áll, a kényszerintézkedés, az intézkedés vagy a büntetés megszűnéséről, vagy a végrehajtás helyének megváltozásáról az idegenrendészeti hatóság tudomásszerzését követően haladéktalanul tájékoztatja a menekültügyi hatóságot.
 
-[^197]: A 80. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés c) pontja hatályon kívül helyezte.
 [^198]: A 81. §-t megelőző alcímet a 204/2015. (VII. 23.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
 [^199]: A 81. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 48. §-ával megállapított szöveg.
 [^200]: A 81. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 116. § (2) bekezdésével megállapított szöveg.
