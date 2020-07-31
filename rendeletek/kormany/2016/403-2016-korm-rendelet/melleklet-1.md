@@ -1,4 +1,4 @@
-## 7. §[^3] E rendeletnek a Szentes területén élelmiszeripari kapacitásbővítésre irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 403/2016. (XII. 5.) Korm. rendelet módosításáról szóló 251/2018. (XII. 17.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^4] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek a Szentes területén élelmiszeripari kapacitásbővítésre irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 403/2016. (XII. 5.) Korm. rendelet módosításáról szóló 251/2018. (XII. 17.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^5] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 403/2016. (XII. 5.) Korm. rendelethez
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 251/2018. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2018. december 18.
+[^4]: A 7. §-t a 251/2018. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2018. december 18.
