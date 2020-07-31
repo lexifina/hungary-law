@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-85
 | 2018-01-01 | 2000-9-20-85.21 | 25/2017. (X. 18.) EMMI rendelet |
 | 2018-02-06 | 2000-9-20-85.22 | 7/2018. (II. 5.) EMMI rendelet |
 | 2018-07-01 | 2000-9-20-85.23 | 7/2018. (II. 5.) EMMI rendelet |
+| 2020-07-31 | 2000-9-20-85.24 | 25/2020. (VII. 30.) EMMI rendelet |

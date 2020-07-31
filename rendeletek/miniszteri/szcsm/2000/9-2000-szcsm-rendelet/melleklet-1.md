@@ -1,6 +1,6 @@
-## 18. §[^80] A 2017. évben vizsgajoggal rendelkező intézmény a 2018. évi szociális alapvizsgára, illetve szociális szakvizsgára befizetett vizsgadíjat, valamint a meg nem valósult alapismereteket nyújtó tanfolyamra befizetett alaptanfolyami díjat a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet hatálybalépésétől[^81] számított 60 napon belül visszafizeti a befizető részére.
+## 18. §[^81] A 2017. évben vizsgajoggal rendelkező intézmény a 2018. évi szociális alapvizsgára, illetve szociális szakvizsgára befizetett vizsgadíjat, valamint a meg nem valósult alapismereteket nyújtó tanfolyamra befizetett alaptanfolyami díjat a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet hatálybalépésétől[^82] számított 60 napon belül visszafizeti a befizető részére.
 
-1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^82]
+1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^83]
 
 Sorszám: ............/............
 
@@ -48,6 +48,6 @@ P. H.
 
 a továbbképzés szervezőjének cégszerű aláírása
 
-[^80]: A 18. §-t a 14/2016. (VII. 12.) EMMI rendelet 2. §-a iktatta be, szövege a 25/2017. (X. 18.) EMMI rendelet 23. § (15) bekezdésével megállapított szöveg.
-[^81]: A hatálybalépés időpontja 2018. január 1.
-[^82]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 25/2017. (X. 18.) EMMI rendelet 23. § (16) bekezdése szerint módosított szöveg.
+[^81]: A 18. §-t a 14/2016. (VII. 12.) EMMI rendelet 2. §-a iktatta be, szövege a 25/2017. (X. 18.) EMMI rendelet 23. § (15) bekezdésével megállapított szöveg.
+[^82]: A hatálybalépés időpontja 2018. január 1.
+[^83]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 25/2017. (X. 18.) EMMI rendelet 23. § (16) bekezdése szerint módosított szöveg.

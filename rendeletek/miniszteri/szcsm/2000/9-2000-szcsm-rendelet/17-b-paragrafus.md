@@ -6,4 +6,7 @@
 
 (4) Ha a továbbképzésre kötelezett továbbképzési időszaka 2018. július 1-jén és azt közvetlenül megelőzően szünetel, a 2. § (4) és (5) bekezdésében foglaltaktól eltérően a szünetelés okának megszűnését követő naptól új továbbképzési időszaka kezdődik, és a szünetelés alatt szerzett továbbképzési pontok választható továbbképzési pontként beszámításra kerülnek az új továbbképzési időszakban.
 
+(5)[^79] A 2018. július 1-jén kezdődő továbbképzési időszakban a 3/A. § (2) bekezdés b) pontja szerinti munkakörhöz kötött továbbképzési kötelezettséget – a 3/A. § (4) bekezdésében foglaltaktól eltérően – 2022. december 31-ig kell teljesíteni.
+
 [^78]: A 17/B. §-t a 7/2018. (II. 5.) EMMI rendelet 37. §-a iktatta be.
+[^79]: A 17/B. § (5) bekezdését a 25/2020. (VII. 30.) EMMI rendelet 1. §-a iktatta be.

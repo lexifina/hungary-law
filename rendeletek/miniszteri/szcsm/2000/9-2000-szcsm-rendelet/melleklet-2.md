@@ -50,6 +50,6 @@
 
 | 25. | Védőnő |
 
-2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^84]
+2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^85]
 
-[^84]: A 2. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^85]: A 2. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.

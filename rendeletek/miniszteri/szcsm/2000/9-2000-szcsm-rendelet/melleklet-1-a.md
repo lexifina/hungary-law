@@ -1,4 +1,4 @@
-1/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^83]
+1/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^84]
 
 ## Munkakörhöz kötött továbbképzési kötelezettséggel járó munkakörök
 
@@ -44,4 +44,4 @@ I. Szociális és gyermekjóléti szolgáltatások területén
 
 II. Gyermekvédelmi szakellátási intézményekben és a javítóintézetben
 
-[^83]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be.
+[^84]: Az 1/A. számú mellékletet a 7/2018. (II. 5.) EMMI rendelet 38. § (1) bekezdése iktatta be.
