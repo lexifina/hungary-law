@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-78-20-0
 | 2015-04-01 | 2003-78-20-0L.8 | 9/2015. (III. 31.) NGM rendelet |
 | 2017-01-01 | 2003-78-20-0L.9 | 62/2016. (XII. 29.) NGM rendelet |
 | 2019-09-01 | 2003-78-20-0L.10 | 25/2019. (VIII. 26.) ITM rendelet |
+| 2020-07-31 | 2003-78-20-0L.11 | 27/2020. (VII. 16.) ITM rendelet |

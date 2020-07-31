@@ -1,17 +1,21 @@
-6. §[^13] (1) A játszótéri eszközt a következő adatokkal és dokumentumokkal ellátva kell forgalomba hozni és forgalmazni:
+6. §[^14] (1) A játszótéri eszközt a következő adatokat tartalmazó megjelöléssel ellátva kell forgalomba hozni és forgalmazni:
 
-a) a gyártó, az importőr, a forgalmazó neve, címe,
+a) a gyártó és az importőr neve, címe,
 
 b) a játszótéri eszköz megnevezése, a gyártó által adott azonosító jelölés, amely a játszótéri eszköz, valamint összeállítása egyedi azonosítására szolgál,
 
-c) a játszótéri eszköz általános terméktájékoztatója, telepítési, szerelési, karbantartási, felülvizsgálati és használati utasítása magyar nyelven (a továbbiakban: használati és kezelési útmutató),
+c) ha a játszótéri eszköz valamely szabványnak megfelel, a szabvány jelzete,
 
 d) az ajánlott korcsoport,
 
-e) a szabvány jelzete, amelynek a játszótéri eszköz megfelel,
+e) a gyártás éve,
 
-f) a kijelölt szervezet által kiadott tanúsítvány másolata vagy a gyártó megfelelőségi nyilatkozata.
+f) az alapvonal jelölése (amennyiben értelmezhető).
 
-(2) Szükség esetén a játszótéri eszközt el kell látni olyan magyar nyelvű figyelmeztető felirattal, amely a lehetséges veszélyekre felhívja a felhasználó figyelmét, különös tekintettel a 3 év alatti gyermekek számára hozzáférhető eszközökre.
+(2) A játszótéri eszközt a következő dokumentumokkal ellátva kell forgalomba hozni és forgalmazni:
 
-[^13]: A 6. § a 64/2013. (XII. 18.) NGM rendelet 2. §-ával megállapított szöveg.
+a) a játszótéri eszköz általános terméktájékoztatója, telepítési, szerelési, használati, ellenőrzési és karbantartási utasítása magyar nyelven (a továbbiakban: használati és kezelési útmutató),
+
+b) a megfelelőségi tanúsítvány másolata.
+
+[^14]: A 6. § a 27/2020. (VII. 16.) ITM rendelet 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 30. §-át.

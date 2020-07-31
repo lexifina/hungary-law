@@ -1,29 +1,41 @@
-7. §[^14] (1) A játszótéri eszközt a használati és kezelési útmutató előírásait figyelembe véve kell felszerelni, üzemeltetni, karbantartani.
+7. §[^15] (1) A játszótéri eszközt a használati és kezelési útmutató előírásait figyelembe véve kell telepíteni és üzemeltetni. Az üzemeltető köteles a játszótéri eszközt üzemeltetni.
 
-(2)[^15] A játszótéri eszköz üzemeltetőjének a játszótéri eszköz időszakos ellenőrzését az időszakos ellenőrzés végzésére engedéllyel rendelkező szervezettel négyévenként kell elvégeztetni.
+(2) A játszótéri eszköz üzemeltetőjének a játszótéri eszköz időszakos ellenőrzését kijelölt szervezettel háromévenként kell elvégeztetnie.
 
-(3) Ha a játszótéri eszköz balesetveszélyessé válik, az üzemeltetőnek haladéktalanul intézkedni kell az eszköz használatának megakadályozása és annak egyidejű kijavítása vagy lebontása érdekében.
+(3) A játszótéri eszközök kijelölt szervezet általi ellenőrzése a biztonságossági követelményeknek való megfelelőségre, azok állapotára, telepítési feltételeinek megfelelőségére irányul.
 
-(4) A játszótéri eszközökről, azok állapotáról, valamint az időszakos ellenőrzésekről a 6. melléklet szerinti adattartalommal az üzemeltetőnek nyilvántartást kell vezetni. A nyilvántartásokat és az intézkedést igazoló dokumentumokat a játszótéri eszköz üzemeltetőjének legalább 10 éven keresztül meg kell őrizni.
-
-(5) A játszótéri eszközök időszakos ellenőrzése a biztonságossági követelményeknek való megfelelőségre, azok biztonsági állapotára, telepítési feltételeinek megfelelőségére irányul.
-
-(6)[^16] Az időszakos ellenőrzés során
+(4) A kijelölt szervezet által végzett ellenőrzés során
 
 a) megfelelőnek kell értékelni azt a játszótéri eszközt, amely megfelel a biztonságossági követelményeknek;
 
-b) részben megfelelőnek kell értékelni azt a játszótéri eszközt, amely teljes mértékben nem elégíti ki e rendelet követelményeit, de a hiányosság az eszköz biztonságos használatát nem veszélyezteti;
+b) nem megfelelőnek kell értékelni azt a játszótéri eszközt, amely nem felel meg a biztonságossági követelményeknek;
 
-c) nem megfelelőnek kell értékelni azt a játszótéri eszközt, amely nem felel meg a biztonságossági követelményeknek és az eszköz nem tehető biztonságossá, kijavítása nem lehetséges.
+c) a használatbavétel előtti ellenőrzés során nem megfelelőnek kell értékelni azt az eszközt is, amely nem teljesíti a 6. §-ban meghatározott követelményeket.
 
-(7)[^17]
+(5) A használatbavétel előtti és az időszakos ellenőrzésről a kijelölt szervezet ellenőrzési jegyzőkönyvet állít ki a kijelölő hatóság által meghatározott és honlapján közzétett tartalommal.
 
-(8)[^18] A 2004. február 1-je előtt telepített egyedi megfelelőségi bizonyítvánnyal vagy egyedi megfelelőségi tanúsítvánnyal nem rendelkező játszótéri eszközökről az időszakos ellenőrzéskor, a saját építésű játszótéri eszközökről a használatbavételkor az 5. mellékletben meghatározott adatokat tartalmazó, egyedi megfelelőségi igazolást kell kiadni az ellenőrzést végző kijelölt szervezetnek.
+(6) Kijelölt szervezet által nem megfelelőnek értékelt játszótéri eszköz nem vehető használatba.
 
-(9) A részben megfelelőnek értékelt játszótéri eszközt az üzemeltetőnek kell a biztonságossági követelményeknek megfelelő állapotúra kijavítani, valamint a nem megfelelőnek értékelt játszótéri eszköz további használatát haladéktalanul megakadályozni és azt elbontani.
+(7) A kijelölt szervezet által nem megfelelőnek értékelt vagy balesetveszélyessé vált játszótéri eszközt az üzemeltetőnek kell dokumentumokkal igazolt módon a biztonságossági követelményeknek megfelelő állapotúra kijavítani vagy elbontani, és annak elvégzéséig az eszköz használatát megakadályozni.
 
-[^14]: A 7. § a 7/2012. (IV. 18.) NGM rendelet 4. §-ával megállapított szöveg.
-[^15]: A 7. § (2) bekezdése a 64/2013. (XII. 18.) NGM rendelet 3. §-ával megállapított szöveg.
-[^16]: A 7. § (6) bekezdése a 64/2013. (XII. 18.) NGM rendelet 4. §-ával megállapított szöveg.
-[^17]: A 7. § (7) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 1. § a) pontja hatályon kívül helyezte.
-[^18]: A 7. § (8) bekezdése a 64/2013. (XII. 18.) NGM rendelet 5. §-ával megállapított szöveg.
+(8) A játszótéri eszközökről, a kijelölt szervezet általi ellenőrzésekről, valamint az elvégzett javításokról az üzemeltetőnek nyilvántartást kell vezetnie a következő adattartalommal:
+
+a) a játszótér címe,
+
+b) a játszótéri eszközök száma,
+
+c) a játszótéri eszköz megnevezése, az azonosítást szolgáló adatok,
+
+d) a használatbavétel időpontja,
+
+e) az időszakos ellenőrzések időpontja,
+
+f) a javítás időpontja,
+
+g) a bontás időpontja.
+
+(9) A nyilvántartást és az intézkedéseket igazoló dokumentumokat a játszótéri eszköz üzemeltetőjének legalább 10 éven keresztül meg kell őriznie.
+
+(10) Az üzemeltető a játszótéren, külön táblán, jól látható és tartós módon feltünteti a nevét, székhelyének címét, telefonszámát és elektronikus levelezési címét, valamint az egységes európai segélyhívószámot.
+
+[^15]: A 7. § a 27/2020. (VII. 16.) ITM rendelet 6. §-ával megállapított szöveg.

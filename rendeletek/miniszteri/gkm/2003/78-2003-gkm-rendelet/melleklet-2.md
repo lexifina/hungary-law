@@ -1,4 +1,4 @@
-2. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^24]
+2. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^23]
 
 ## A műszaki dokumentáció tartalmi követelményei
 
@@ -36,4 +36,4 @@
 
 10. Annak a szabványnak a megjelölése – amennyiben van ilyen –, amelynek a termék megfelel.
 
-[^24]: A 2. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^23]: A 2. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
