@@ -16,7 +16,7 @@ c) Magyar Ipari Gáz Szövetség: 1 fő,
 
 d) Magyar Mérnöki Kamara: 1 fő,
 
-e) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 1 fő,
+e)[^34] Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 2 fő,
 
 f) a szakterületen működő egyéb, a miniszter által felkért civil szervezetek: 1-1 fő.
 
@@ -27,3 +27,4 @@ f) a szakterületen működő egyéb, a miniszter által felkért civil szerveze
 (6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekinteni, hogy az megfelel az adott kor technikai színvonalának.
 
 [^33]: A 15. alcím (21. §) a 31/2019. (IX. 5.) ITM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 21. § (3) bekezdés e) pontja a 27/2020. (VII. 16.) ITM rendelet 20. § (1) bekezdése szerint módosított szöveg.
