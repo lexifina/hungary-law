@@ -1,0 +1,3 @@
+## 31. § A Digitális Nemzet Fejlesztési Program végrehajtásához kapcsolódó szélessávú hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 392/2014. (XII. 31.) Korm. rendelet 2/A. § (1) bekezdésében a „Csongrád Megyei Kormányhivatalt” szövegrész helyébe a „Csongrád-Csanád Megyei Kormányhivatalt” szöveg lép.
+
+## 32. Az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalok általánostól eltérő illetékességi területéről szóló 67/2015. (III. 30.) Korm. rendelet módosítása

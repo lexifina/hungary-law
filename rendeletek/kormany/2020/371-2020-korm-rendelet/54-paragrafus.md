@@ -1,0 +1,3 @@
+## 53. § A Társadalmi Esélyteremtési Főigazgatóságról, valamint egyes kormányrendeleteknek a Szociális és Gyermekvédelmi Főigazgatóság egyes feladatainak átadásával kapcsolatos módosításáról szóló 180/2019. (VII. 26.) Korm. rendelet 1. mellékletében foglalt „II. A Társadalmi Esélyteremtési Főigazgatóság igazgatóságai” című táblázat C:3 mezőjében a „Csongrád megye” szövegrész helyébe a „Csongrád-Csanád megye” szöveg lép.
+
+## 54. A Szegedi Szerb Oktatási Központ épületének bővítésével és homlokzatának felújításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 206/2020. (V. 15.) Korm. rendelet módosítása

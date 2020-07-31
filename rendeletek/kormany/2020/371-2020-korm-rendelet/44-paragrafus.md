@@ -1,0 +1,3 @@
+## 43. § A Szentes területén élelmiszeripari kapacitásbővítésre irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 403/2016. (XII. 5.) Korm. rendelet 2. §-ában a „Csongrád Megyei Kormányhivatalt” szövegrész helyébe a „Csongrád-Csanád Megyei Kormányhivatalt” szöveg lép.
+
+## 44. A Szegedi Olimpiai Központ fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 131/2017. (VI. 8.) Korm. rendelet módosítása
