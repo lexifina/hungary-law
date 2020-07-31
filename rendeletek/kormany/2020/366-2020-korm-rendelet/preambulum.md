@@ -1,1 +1,0 @@
-A Kormány a 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény 14. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
