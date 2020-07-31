@@ -22,4 +22,8 @@ h) részt vesz a szakértői tevékenységgel, valamint a szakértői nyilvánta
 
 i) az igazságügyi szakértői, valamint a 4. §-ban foglalt feladata tekintetében műszaki vizsgálati és elemző tevékenységet végez,
 
-j) igazságügyi szakértői tevékenység ellátására rendelkezésre álló kapacitás kihasználását célzó alkalmazott kutatást folytat a hatás- és kompetenciakörökbe tartozó szakterületeken annak érdekében, hogy a tudomány mindenkori állásának megfelelő, megalapozott szakvélemények elkészítéséhez szükséges szakmai háttér álljon rendelkezésre.
+j) igazságügyi szakértői tevékenység ellátására rendelkezésre álló kapacitás kihasználását célzó alkalmazott kutatást folytat a hatás- és kompetenciakörökbe tartozó szakterületeken annak érdekében, hogy a tudomány mindenkori állásának megfelelő, megalapozott szakvélemények elkészítéséhez szükséges szakmai háttér álljon rendelkezésre,
+
+k)[^1] biztosítja a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 6. §-ában meghatározott, a bírák pályaalkalmassági vizsgálatához szükséges személyi és tárgyi feltételeket.
+
+[^1]: A 6. § (2) bekezdés k) pontját a 375/2020. (VII. 30.) Korm. rendelet 87. §-a iktatta be.
