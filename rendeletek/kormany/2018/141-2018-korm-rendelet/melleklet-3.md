@@ -44,7 +44,7 @@
 
 | 20. | Új üzemcsarnok megvalósítására irányuló beruházás Litér külterületén | Litér külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 1403/1 és 1403/2 helyrajzi számú ingatlanok. | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 21. | Élelmiszeripari, illetve kapcsolódó logisztikai beruházás Szeged II. kerület külterületén | Szeged közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti II. kerület külterület 01387, 01385/4, 01383/7, 01379/12, 01386 és 01380 helyrajzi számú ingatlanok. | Csongrád Megyei Kormányhivatalt vezető kormánymegbízott |
+| 21. | Élelmiszeripari, illetve kapcsolódó logisztikai beruházás Szeged II. kerület külterületén | Szeged közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti II. kerület külterület 01387, 01385/4, 01383/7, 01379/12, 01386 és 01380 helyrajzi számú ingatlanok. | Csongrád-Csanád Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 22 | Autóipari beruházás Pécs külterületén | A Pécs külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 01455/86, 01455/87, 01455/88, 01455/89, 01455/90 és 01455/91 helyrajzi számokon nyilvántartott ingatlanok. | Baranya Megyei Kormányhivatalt vezető kormánymegbízott |
 
