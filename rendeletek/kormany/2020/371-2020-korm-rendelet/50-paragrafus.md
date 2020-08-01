@@ -1,3 +1,5 @@
-## 49. § A Szeged-Csanádi Egyházmegye beruházásaival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 90/2018. (IV. 25.) Korm. rendelet 2. §-ában a „Csongrád Megyei Kormányhivatalt” szövegrész helyébe a „Csongrád-Csanád Megyei Kormányhivatalt” szöveg lép.
+## 49. §[^50]
 
 ## 50. Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosítása
+
+[^50]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

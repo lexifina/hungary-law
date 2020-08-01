@@ -1,3 +1,5 @@
-## 42. § A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet 2. mellékletében foglalt „1. A népegészségügyi feladatokat ellátó járási hivatalok illetékességi területe” című táblázat A:123 mezőjében a „CSONGRÁD MEGYE” szövegrész helyébe a „CSONGRÁD-CSANÁD MEGYE” szöveg lép.
+## 42. §[^43]
 
 ## 43. A Szentes területén élelmiszeripari kapacitásbővítésre irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 403/2016. (XII. 5.) Korm. rendelet módosítása
+
+[^43]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

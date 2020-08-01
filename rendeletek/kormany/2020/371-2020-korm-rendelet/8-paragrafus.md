@@ -1,3 +1,5 @@
-## 7. § Az állami sportinformációs rendszerről szóló 166/2004. (V. 21.) Korm. rendelet 5. számú mellékletében foglalt „A kiadott versenyengedélyek területi megoszlásban (megyei szint) I.” című táblázatban, „Kiadott versenyengedélyek területi megoszlásban (megyei szint) II.” című táblázatban és „A versenyengedéllyel rendelkezők tényleges részvétele a versenyrendszerben (amatőr, hivatásos, vegyes) területi megoszlásban (megye)” című táblázatban a „Csongrád” szövegrész helyébe a „Csongrád-Csanád” szöveg lép.
+## 7. §[^8]
 
 ## 8. A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet módosítása
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
