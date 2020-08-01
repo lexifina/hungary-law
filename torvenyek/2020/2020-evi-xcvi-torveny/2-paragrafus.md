@@ -37,3 +37,5 @@ a) a magánszálláshely és az egyéb szálláshely esetében a magánszállás
 b) az a) pont alapján meghatározott előírások be nem tartásának esetén alkalmazandó közigazgatási bírságra és tevékenység végzésétől történő eltiltásra vonatkozó szabályokat
 
 rendeletben állapítsa meg.”
+
+3. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
