@@ -22,7 +22,7 @@ b) az ellátási terület változatlanul hagyása mellett a szolgáltató, inté
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
-a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a 91. § (3) bekezdése alapján más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
+a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociál- és nyugdíjpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 
 b) családsegítés és gyermekjóléti szolgáltatás esetén,
 
