@@ -92,4 +92,8 @@ b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzle
 
 37. utazó: az utazásszervezői, -közvetítői, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység vonatkozásában, minden olyan személy, akinek szándékában áll utazási szolgáltatásra, vagy azok összeállítására vonatkozó szerződés megkötése, vagy ilyen szerződés alapján utazásra jogosult;
 
-38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít.
+38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít;
+
+39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás vagy üdülő, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc, és az ágyak száma legfeljebb tizenhat,
+
+40. egyéb szálláshely: nem kizárólag szálláshely-szolgáltatás folytatása céljából létesített épületben, de szálláshely-szolgáltatási céllal és nem magánszemély vagy nem egyéni vállalkozó által hasznosított, önálló rendeltetési egységet képező épületrész, ahol az egy szobában található ágyak külön-külön is hasznosításra kerülhetnek, illetve a szobák száma legfeljebb huszonöt, és az ágyak száma legfeljebb száz.

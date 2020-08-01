@@ -10,7 +10,7 @@ d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a 
 
 e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
-f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit, a szálláshely-üzemeltetési bejelentésnek rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit – ide nem értve a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát –, a szálláshely-üzemeltetési bejelentés rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
 g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint a kötelező biztosításra vonatkozó részletszabályokat,
 
@@ -63,6 +63,14 @@ d)–f)
 rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
+
+(5a) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy
+
+a) a magánszálláshely és az egyéb szálláshely esetében a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát,
+
+b) az a) pont alapján meghatározott előírások be nem tartásának esetén alkalmazandó közigazgatási bírságra és tevékenység végzésétől történő eltiltásra vonatkozó szabályokat
+
+rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
