@@ -1,6 +1,6 @@
 ## A fizetővendéglátó tevékenységet folytató magánszemély tételes átalányadózása
 
-57/A. § (1) Fizetővendéglátó tevékenységet folytató magánszemély az, aki – nem egyéni vállalkozóként – a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló kormányrendelet szerinti magánszálláshely-szolgáltatási tevékenység keretében nyújt szálláshelyet ugyanannak a személynek adóévenként 90 napot meg nem haladó időtartamra.
+57/A. § (1) Fizetővendéglátó tevékenységet folytató magánszemély az, aki – nem egyéni vállalkozóként – a kereskedelemről szóló törvény szerinti magánszálláshely-szolgáltatási tevékenység keretében nyújt szálláshelyet ugyanannak a személynek adóévenként 90 napot meg nem haladó időtartamra.
 
 (2) A fizetővendéglátó tevékenységet folytató magánszemély adóévenként az adóév egészére – a 8. számú melléklet rendelkezései szerint – az e tevékenységéből származó bevételére tételes átalányadózást választhat, feltéve, hogy e tevékenységét a tulajdonában, haszonélvezetében lévő, legfeljebb három – nem szálláshely-szolgáltatás rendeltetésű – lakásban vagy üdülőben folytatja.
 

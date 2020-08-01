@@ -685,3 +685,5 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 11. a Tbj. szerint megállapodás alapján fizetett egészségügyi szolgáltatás biztosítására kötött megállapodás alapján fizetett járulék;
 
 12. az értékcsökkenési leírás alapjába beszámító, a tárgyi eszköz, a nem anyagi javak üzembe helyezéséig felmerült kiadás, valamint a felújítási költséget képező kiadások, ha azokkal az egyéni vállalkozó az értékcsökkenési leírás alapját növeli;
+
+13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a lakáscélú munkáltatói támogatást (1. számú melléklet 2. pont 2.7. alpont), valamint a magánszemélynek segély címén juttatott összeget;

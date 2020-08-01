@@ -101,3 +101,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2020-01-01 | 2019. évi CXII. törvény | 1995-117-00-00.170 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 1995-117-00-00.171 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 1995-117-00-00.172 |
+| 2020-08-01 | 2020. évi XCVI. törvény | 1995-117-00-00.173 |

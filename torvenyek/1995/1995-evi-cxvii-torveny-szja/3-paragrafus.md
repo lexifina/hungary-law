@@ -116,7 +116,7 @@ a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint
 
 aa) az ingatlan-bérbeadási,
 
-ab) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló kormányrendelet szerinti magánszálláshely-szolgáltatási
+ab) a kereskedelemről szóló törvény szerinti magánszálláshely-szolgáltatási
 
 tevékenységéből származó bevételére az önálló tevékenységből származó jövedelemre, vagy a tételes átalányadózásra vonatkozó rendelkezések alkalmazását választja, kizárólag a választott rendelkezések szerinti adózási mód alapjául szolgáló bevételei tekintetében;
 
