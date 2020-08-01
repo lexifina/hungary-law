@@ -78,7 +78,7 @@ V. Büntetés-végrehajtási szervezet
 
 | 11. |  | Szegedi Fegyház és Börtön | Tolna Megyei Büntetés-végrehajtási Intézet |
 
-| 12. |  | Szombathelyi Országos Büntetés-végrehajtási Intézet | Veszprém Megyei Büntetés-végrehajtási Intézet |
+| 12. |  | Szombathelyi Országos Büntetés-végrehajtási Intézet |  |
 
 | 13. |  | Tiszalöki Országos Büntetés-végrehajtási Intézet | Zala Megyei Büntetés-végrehajtási Intézet |
 
@@ -101,6 +101,8 @@ V. Büntetés-végrehajtási szervezet
 | 22. |  | Tököli Országos Büntetés-végrehajtási Intézet | – |
 
 | 23. |  | Kiskunhalasi Országos Büntetés-végrehajtási Intézet |  |
+
+| 24. |  | Veszprém Megyei Büntetés-végrehajtási Intézet |  |
 
 VI. Országgyűlési Őrség
 
@@ -145,4 +147,4 @@ X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 XI. Idegenrendészeti szerv
 
 [^34]: A 76. §-t a 86/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
-[^35]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.
+[^35]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a szerint módosított szöveg.

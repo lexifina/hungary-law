@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-154-20-
 | 2019-02-01 | 2015-154-20-22.10 | 394/2015. (XII. 12.) Korm. rendelet |
 | 2019-07-01 | 2015-154-20-22.11 | 394/2015. (XII. 12.) Korm. rendelet |
 | 2020-01-01 | 2015-154-20-22.12 | 250/2019. (X. 24.) Korm. rendelet |
+| 2020-08-01 | 2015-154-20-22.13 | 394/2015. (XII. 12.) Korm. rendelet |
