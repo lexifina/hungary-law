@@ -1,0 +1,7 @@
+# 2020. évi LIII. törvény az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-53-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2020-08-01 | 2020. évi LIII. törvény | 2020-53-00-00.0 (közlönyállapot) |
