@@ -22,7 +22,7 @@ h) a föld, vagy olyan dolog (eszköz, berendezés) birtoklására, használatá
 
 i) a növényi, valamint állati eredetű melléktermék birtoklására, gyűjtésére, tárolására, ártalmatlanítására, szállítására, kezelésére és forgalomba hozatalára;
 
-j) a laboratóriumok tevékenységére, valamint az állatbetegségeket, illetve az élelmiszer-fertőzéseket okozó kórokozókkal folytatott egyes tevékenységekre;
+j) a laboratóriumok tevékenységére, valamint az állatbetegségeket, illetve az élelmiszer-fertőzéseket okozó kórokozókkal, károsítókkal vagy azokat potenciálisan tartalmazó anyagokkal folytatott egyes tevékenységekre;
 
 k) a növényvédelmi gép, növényvédő szer kijuttatására szolgáló szóróberendezés (a továbbiakban együtt: növényvédelmi gép) forgalomba hozatalára és üzemeltetésére;
 

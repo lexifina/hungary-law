@@ -18,7 +18,7 @@ b) az engedélyköteles termékek, valamint az EK-műtrágyák gyártási, kisze
 
 c) növény-egészségügyi szempontból a növények, növényi termékek előállítását, raktározását, szállítását és forgalmazását;
 
-d) a vetőmag, a szaporító- és ültetvényanyag előállítást és forgalomba hozatalt, valamint az egyéb szemleköteles növények termő-, tároló-, berakó-, feladó- és forgalmazó helyeit;
+d) a vetőmag, a szaporító- és ültetvényanyag előállítást és forgalomba hozatalt, valamint az egyéb vizsgálatköteles növények termő-, tároló-, berakó-, feladó- és forgalmazó helyeit;
 
 e) az engedélyköteles termékekből származó növényvédőszer-maradék, nitrát-, nitrit-, nehézfém- és egyéb toxikus anyagok, szennyeződések mennyiségét a növényben, növényi termékben, azok felületén, a környezetben, a termelési folyamatban és export, import és kereskedelmi forgalomban;
 
@@ -32,7 +32,7 @@ i) a növényvédelmi gépek alkalmasságát igazoló forgalomba hozatali enged�
 
 j) a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenységet.
 
-(3) Növény- és talajvédelmi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint
+(3) Növény- és talajvédelmi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint
 
 a) intézkedik a zárlati és a vizsgálatköteles nem zárlati károsítókon kívüli egyéb, a gazdasági növényekre ártalmas szervezetek okozta különleges veszély vagy erős mértékű fertőzöttség esetén;
 

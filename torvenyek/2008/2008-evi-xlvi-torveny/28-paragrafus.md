@@ -2,7 +2,7 @@
 
 28. § A miniszter az élelmiszerlánc-felügyelet területén
 
-a) ellátja a növényi károsítók előfordulásának, járványos fellépésének leküzdésével kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatokat;
+a) ellátja a növényi károsítók előfordulásának, járványos fellépésének leküzdésével kapcsolatos, az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott feladatokat;
 
 b) az Európai Unió Bizottságánál kezdeményezi az állat- és növény-egészségügyi határállomások kijelölését;
 
@@ -24,4 +24,10 @@ j) meghatározza a nemzetközi kötelezettségekkel, valamint az ország agrárg
 
 k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét;
 
-l) az országos főállatorvos útján ellátja az élelmiszerlánc-felügyeleti szerv szakmai irányítását.
+l) az országos főállatorvos útján ellátja az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
+
+la) járványos állat- vagy növénybetegség megjelenése, valamint
+
+lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több megye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
+
+esetén.

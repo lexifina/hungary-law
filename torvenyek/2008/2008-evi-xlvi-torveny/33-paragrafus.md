@@ -4,7 +4,7 @@
 
 a) az e törvény végrehajtására kiadott jogszabályban foglaltak szerint engedélyezi és ellenőrzi a nem állami szolgáltató laboratóriumokat, valamint nyilvántartásba veszi és ellenőrzi a nem állami üzemi laboratóriumokat;
 
-b) az állat-, valamint a növény-egészségügyi határállomásokkal rendelkező – illetve a ba) és bb) alpontok esetében az egyéb – határátkelőhelyeken,
+b) az állat-, valamint a növény-egészségügyi határállomásokkal rendelkező, illetve a ba) és bb) alpontok esetében az egyéb határátkelőhelyeken, valamint növények, növényi termékek és egyéb anyagok behozatali ellenőrzésére engedélyezett helyeken,
 
 ba) ellenőrzi az élelmiszer-, illetve takarmánybiztonsági, -minőségi, állat- és növény-egészségügyi rendelkezések megtartását;
 

@@ -10,7 +10,7 @@ c) az a) pont alá nem tartozó egyéb károsítók ellen védekezni, ha azok m�
 
 (2) A termelő, illetve a földhasználó köteles
 
-a) az e törvény végrehajtására kiadott jogszabály szerinti nyilvántartásba vételi, valamint a tevékenységével összefüggő nyilvántartási és adatszolgáltatási kötelezettségeinek eleget tenni;
+a) az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott nyilvántartásba vételi, valamint a tevékenységével összefüggő nyilvántartási és adatszolgáltatási kötelezettségeinek eleget tenni;
 
 b) az állami és közérdekű védekezéssel megbízott személyek munkavégzését tűrni és elősegíteni.
 

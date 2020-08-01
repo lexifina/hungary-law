@@ -30,7 +30,7 @@ m) a növényvédelemmel kapcsolatban előírt vagy elrendelt növény-egészsé
 
 n) az előírt vagy elrendelt növény-egészségügyi korlátozásokat megszegi;
 
-o) az e törvény, valamint e törvény végrehajtására kiadott jogszabályban előírt adatszolgáltatási, nyilvántartási, nyilvántartásba vételi kötelezettségének nem tesz eleget;
+o) az e törvény, valamint e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt adatszolgáltatási, nyilvántartási, nyilvántartásba vételi kötelezettségének nem tesz eleget;
 
 p) engedélyköteles terméket műszakilag alkalmatlannak minősített vagy érvényes műszaki engedéllyel nem rendelkező géppel, illetve berendezéssel árutermelő gazdaságban juttat ki;
 

@@ -1,6 +1,6 @@
 26. § (1) Az élelmiszerlánc-felügyeleti szerv tevékenysége magában foglalja
 
-a) a növény-, talaj- és agrárkörnyezet-védelem élelmiszer-biztonsággal kapcsolatos feladatait,
+a) a talaj- és agrárkörnyezet-védelem élelmiszer-biztonsággal kapcsolatos feladatait, valamint a növényvédelmi feladatokat,
 
 b) a zöldség- és gyümölcs-ellenőrzési feladatokat,
 

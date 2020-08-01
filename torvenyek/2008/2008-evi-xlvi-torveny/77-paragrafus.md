@@ -14,9 +14,9 @@ e) az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európ
 
 f) az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet,
 
-g) az emberi fogyasztásra szánt állati eredetű termékek hatósági ellenőrzésének megszervezésére vonatkozó különleges szabályok megállapításáról szóló, 2004. április 29-i 854/2004/EK európai parlamenti és tanácsi rendelet,
+g)
 
-h) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet,
+h)
 
 i) az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről szóló, 2004. október 27-i 1935/2004/EK európai parlamenti és tanácsi rendelet,
 
@@ -40,7 +40,13 @@ r) a kedvtelésből tartott állatok nem kereskedelmi célú mozgatásáról és
 
 s) a kedvtelésből tartott állatok nem kereskedelmi célú mozgásáról és a 998/2003/EK rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 576/2013/EU európai parlamenti és tanácsi rendelet,
 
-t) az állati eredetű termékek személyes szállítmányainak a Közösségbe történő behozataláról és a 136/2004/EK rendelet módosításáról szóló, 2009. március 5-i 206/2009/EK bizottsági rendelet
+t) a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i (EU) 2016/2031 európai parlamenti és tanácsi rendelet,
+
+u) az élelmiszer- és takarmányjog, valamint az állategészségügyi és állatjóléti szabályok, a növényegészségügyi szabályok, és a növényvédő szerekre vonatkozó szabályok alkalmazásának biztosítása céljából végzett hatósági ellenőrzésekről és más hatósági tevékenységekről, továbbá a 999/2001/EK, a 396/2005/EK, az 1069/2009/EK, az 1107/2009/EK, az 1151/2012/EU, a 652/2014/EU, az (EU) 2016/429 és az (EU) 2016/2031 európai parlamenti és tanácsi rendelet, az 1/2005/EK és az 1099/2009/EK tanácsi rendelet, valamint a 98/58/EK, az 1999/74/EK, a 2007/43/EK, a 2008/119/EK és a 2008/120/EK tanácsi irányelv módosításáról, és a 854/2004/EK és a 882/2004/EK európai parlamenti és tanácsi rendelet, a 89/608/EGK, a 89/662/EGK, a 90/425/EGK, a 91/496/EGK, a 96/23/EK, a 96/93/EK és a 97/78/EK tanácsi irányelv és a 92/438/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2017. március 15-i (EU) 2017/625 európai parlamenti és tanácsi rendelet,
+
+v) a gyógyszeres takarmányok előállításáról, forgalomba hozataláról és felhasználásáról, a 183/2005/EK európai parlamenti és tanácsi rendelet módosításáról, valamint a 90/167/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2019/4 európai parlamenti és tanácsi rendelet,
+
+w) az (EU) 2017/625 európai parlamenti és tanácsi rendeletnek a határállomásokon végzett hatósági ellenőrzések alól mentesített bizonyos állat- és árukategóriák, valamint az utasok személyes poggyászára és a természetes személyeknek küldött, nem forgalomba hozatalra szánt áruk kisméretű szállítmányaira vonatkozó egyedi ellenőrzések tekintetében történő kiegészítéséről és a 142/2011/EU bizottsági rendelet módosításáról szóló, 2019. október 10-i (EU) 2019/2122 felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -62,6 +68,8 @@ g) a növényeket vagy növényi termékeket károsító szervezeteknek a Közö
 
 h) a takarmányban előforduló nemkívánatos anyagokról szóló, 2002. május 7-i 2002/32/EK európai parlamenti és tanácsi irányelvnek,
 
-i) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelvnek
+i) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelvnek,
+
+j) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

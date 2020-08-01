@@ -1,4 +1,4 @@
-38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint nyilvántartást vezet
+38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint nyilvántartást vezet
 
 1. az állatorvosokról;
 
@@ -10,7 +10,7 @@
 
 5. az élelmiszer-biztonsági felügyelet alá tartozó helyekről;
 
-6. az állat-egészségügyi felügyelet alá tartozó helyekről;
+6. az állat- és növényegészségügyi felügyelet alá tartozó helyekről;
 
 7. a takarmányozási hatósági felügyelet alá tartozó helyekről;
 
@@ -42,7 +42,7 @@
 
 21. a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
 
-22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatát végzőkről, a növényvédelmi szolgáltatási tevékenységet végzőkről, és a növényvédelmi munkavégzőkről;
+22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatát végzőkről, a használatban lévő növényvédelmi gépekről, a növényvédelmi szolgáltatási tevékenységet végzőkről és a növényvédelmi munkavégzőkről;
 
 23. kistermelői élelmiszer előállítást és forgalmazást végzőkről;
 
@@ -68,7 +68,11 @@ g) vágóállat minősítőkről,
 
 h) vágóhídi segédszemélyzetről;
 
-27. a bejelentett termésnövelő anyagokról.
+27. a bejelentett termésnövelő anyagokról;
+
+28. az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előállító létesítményekről,
+
+29. minősített vendéglátóipari és közétkeztetést végző létesítményekről.
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
@@ -80,7 +84,7 @@ c) természetes személyek esetén a természetes személyazonosító adatokat, 
 
 d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
-(2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27–29. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Élelmiszer-, illetve takarmányvállalkozások, valamint a növényvédelmi szolgáltató vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
@@ -98,4 +102,4 @@ c) által végzett tevékenységekről.
 
 (7) Az állami adó- és vámhatóság megkeresésre tájékoztatja az élelmiszerlánc-felügyeleti szervet az adó- és vámtitkot képező adatról vagy információról, ha az az ügyfél személyének azonosításához vagy az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátásához szükséges. Az állami adó- és vámhatóság az adózás rendjéről szóló törvényben meghatározott, az állami adó- és vámhatóság által működtetett EKAER-ben a 4. § szerint az élelmiszerlánc-felügyeleti szerv felügyeleti hatáskörébe tartozó termékekkel összefüggésben rögzített adatokat a rögzítést követően haladéktalanul, elektronikus úton továbbítja az élelmiszerlánc-felügyeleti szerv részére az ügyfél személyének azonosítása és az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátása céljából.
 
-(8) A tanúsító szervezet az általa vezetett ökológiai gazdálkodással összefüggő nyilvántartásból – a tanúsítási rendszerében részt vevő gazdasági szereplővel, a szerződéskötéssel, a gazdasági szereplők ellenőrzésének és tanúsításának folyamatával, valamint az 10/A. § szerinti tanúsítványokkal kapcsolatban – az élelmiszerlánc-felügyeleti szerv részére az e törvényben meghatározott feladatok ellátása céljából e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles adatot szolgáltatni.
+(8) A tanúsító szervezet az általa vezetett ökológiai termeléssel összefüggő nyilvántartásból – a tanúsítási rendszerében részt vevő gazdasági szereplővel, a szerződéskötéssel, a gazdasági szereplők ellenőrzésének és tanúsításának folyamatával, valamint az 10/A. § szerinti tanúsítványokkal kapcsolatban – az élelmiszerlánc-felügyeleti szerv részére az e törvényben meghatározott feladatok ellátása céljából e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles adatot szolgáltatni.

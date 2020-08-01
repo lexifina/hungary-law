@@ -27,3 +27,7 @@ g) az állat-egészségügyi jogszabályok megsértésével tartott, illetve sz�
 (4) A kártalanítás összege az állat, anyag, eszköz vagy tárgy forgalmi értéke, az 51. § (3) bekezdésének p) és q) pontja esetében pedig az igénybevétellel, illetve közreműködéssel okozott károkhoz – ide nem értve az elmaradt hasznot – igazodik.
 
 (5) A kárbecslés és kifizetés részletes szabályait az e törvény végrehajtására kiadott jogszabály tartalmazza. A kártalanítás kifizetésének módjáról az azt elrendelő határozatban kell rendelkezni.
+
+(6) Az (1) bekezdés a) pontja szerinti kártalanítás jogosultja az általános forgalmi adó bevallásában – a bevallás benyújtására előírt határidőig – nyilatkozhat úgy, hogy a kártalanítás általános forgalmi adó tartalmának összegére a kártalanítás folyósítását követő 30. napig fizetési halasztást vesz igénybe.
+
+(7) A jogosult a kártalanítási eljárás során jelzi a (6) bekezdés szerinti fizetési halasztás igénybevételét a kártalanítási eljárás lefolytatására kijelölt szervnél, és egyben hozzájárul ahhoz, hogy a kártalanítási összeget folyósító szerv a fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általánosforgalmiadó-bevételi számlára utalja.

@@ -1,6 +1,16 @@
 35. § (1) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi a 23. § (1) bekezdése szerint engedélyköteles élelmiszer- vagy takarmányvállalkozási tevékenységet, illetve élelmiszer- vagy takarmánylétesítményt.
 
-(2) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv nyilvántartásba veszi az engedéllyel rendelkező vagy bejelentett élelmiszer- vagy takarmányvállalkozásokat, illetve az engedélyezett vagy bejelentett élelmiszer- vagy takarmányvállalkozási létesítményeket.
+(2) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv nyilvántartásba veszi
+
+a) az engedéllyel rendelkező vagy bejelentett
+
+aa) élelmiszer- vagy takarmányvállalkozásokat,
+
+ab) élelmiszer- vagy takarmányvállalkozási létesítményeket,
+
+b) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókat és az első magyarországi forgalomba hozókat, valamint
+
+c) az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előállító létesítményeket.
 
 (3) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv ellenőrzi
 
@@ -32,4 +42,6 @@ f) tájékoztatást nyújt az élelmiszer-biztonsággal kapcsolatban felmerülő
 
 (5) A minősítésre kijelölt élelmiszerlánc-felügyeleti szerv elvégzi a vendéglátó-ipari létesítmények e törvény felhatalmazása alapján kiadott rendeletben meghatározott élelmiszer-higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti minősítését.
 
-(6) A minősítéssel megbízott élelmiszerlánc-felügyeleti szerv honlapján közzéteszi a létesítmények élelmiszer-higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti minősítésének eredményét.
+(6) A minősítéssel megbízott élelmiszerlánc-felügyeleti szerv honlapján közzéteszi a vendéglátóipari létesítmények és közétkeztetést végző létesítmények élelmiszer-higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti minősítésének eredményét.
+
+(7) Az élelmiszerlánc-felügyeleti szerv ellenőrzi a 14/B. §-ban, valamint az 1169/2011/EU rendeletben foglaltak betartását.

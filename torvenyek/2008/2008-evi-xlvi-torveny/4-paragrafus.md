@@ -24,7 +24,7 @@ j) az állatgyógyászati termékek előállítására, kereskedelmére, és fel
 
 k) a növényi és állati eredetű melléktermékek gyűjtésére, kezelésére, tárolására, szállítására, forgalomba hozatalára, felhasználására;
 
-l) az ökológiai gazdálkodással és integrált gazdálkodással kapcsolatos felügyeleti feladatok ellátására;
+l) az ökológiai termeléssel és integrált gazdálkodással kapcsolatos felügyeleti feladatok ellátására;
 
 m) a géntechnológiával módosított szervezetek előállítására és forgalomba hozatalára, valamint a géntechnológiával módosított összetevőt tartalmazó termékek ellenőrzésére;
 

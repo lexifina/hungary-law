@@ -4,4 +4,4 @@
 
 (2)–(4)
 
-(5) Az 1169/2011/EU rendelet 7. cikk (1), (3) és (4) bekezdése a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősül.
+(5)

@@ -26,7 +26,9 @@ b) a 61. § (1) bekezdésének a)–c) pontjában meghatározott tényállások,
 
 c) a 62. § (1) bekezdésének a)–d) pontjában meghatározott tényállások,
 
-d) három éven belül ismételten megállapított azonos jogsértés
+d) a 63. § (1) bekezdés a) pont aa)–al) alpontjában meghatározott tényállások,
+
+e) három éven belül ismételten megállapított azonos jogsértés
 
 esetén.
 

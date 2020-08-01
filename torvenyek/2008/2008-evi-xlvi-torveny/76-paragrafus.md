@@ -32,7 +32,13 @@ i) állapítsa meg az ÉBC által ellátandó hatósági feladatok körét;
 
 j) állapítsa meg az e törvény szerinti FELIR azonosító beszerzésére kötelezett szereplők, a létesítmények, tevékenységek FELIR-ben történő nyilvántartásba vételének és engedélyezésének, valamint a FELIR azonosító kiadásának, felfüggesztésének, visszavonásának és törlésének részletes szabályait;
 
-k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerekkel kapcsolatos szabályokat.
+k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerekkel kapcsolatos szabályokat;
+
+l) állapítsa meg az e törvény hatálya alá tartozó közigazgatási hatósági eljárások szabályait;
+
+m) állapítsa meg az állatok jelölésére, nyilvántartására, a marhalevél kiállítására és kezelésére vonatkozó részletes szabályokat.
+
+n) állapítsa meg a hullatott agancs gyűjtésének, jelölésének, forgalomba hozatalának és nyilvántartásának részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
@@ -44,7 +50,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 5. a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény kötelező előírásait;
 
-6. a zárlati és vizsgálatköteles károsítók körét, valamint azok behurcolása és elterjedése elleni kötelező és egyéb növény-egészségügyi intézkedésekre vonatkozó részletes szabályokat;
+6. a nemzeti növény-egészségügyi szabályozás alatt álló károsítók körét, valamint azok behurcolása és elterjedése elleni növény-egészségügyi intézkedésekre vonatkozó részletes szabályokat;
 
 7. a vetési, szaporítási és ültetvénytelepítési célra szolgáló növények növény-egészségügyi követelményeit és azok ellenőrzési rendszerét;
 
@@ -68,7 +74,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 17. a bejelentendő állatbetegségek körét és azok leküzdésének részletes szabályait;
 
-18. az állatok jelölésére, nyilvántartására, a marhalevél kiállítására és kezelésére vonatkozó részletes szabályokat;
+18. az élelmiszer-ellenőrzés rendjét;
 
 19. az állat tartásának, tenyésztésének, szaporításának, forgalomba hozatalának, levágásának, leölésének, az állatvásár, az állatkiállítás, az állatbemutató, az állatverseny tartásának állat-egészségügyi szabályait;
 
@@ -98,7 +104,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 32. az ivóvíz, az ásványvíz, a forrásvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályait;
 
-33. a mezőgazdasági termékek és élelmiszerek ökológiai és integrált gazdálkodási követelmények szerinti tanúsításának, előállításának, forgalomba hozatalának és jelölésének egyes szabályait, valamint a tanúsító szervezet elismerésére, működésére, adatszolgáltatására, felügyeletére, az elismerés felfüggesztésére, visszavonására vonatkozó szabályokat;
+33. a mezőgazdasági termékek és élelmiszerek ökológiai termelési és integrált gazdálkodási követelmények szerinti tanúsításának, előállításának, forgalomba hozatalának és jelölésének egyes szabályait, valamint a tanúsító szervezet elismerésére, működésére, adatszolgáltatására, felügyeletére, az elismerés felfüggesztésére, visszavonására vonatkozó szabályokat;
 
 34. az élelmiszerekkel érintkezésbe kerülő anyagok felhasználásának szabályait;
 
@@ -142,7 +148,9 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 54. a mezőgazdasági gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
 
-55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait.
+55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait;
+
+56. a diagnosztikai kilövés során használható eszközök körét.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

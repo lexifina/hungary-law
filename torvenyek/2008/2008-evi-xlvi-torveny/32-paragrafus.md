@@ -2,7 +2,7 @@
 
 32. § (1) Az élelmiszerlánc-felügyeleti szerv általános szervezési, irányítási, felügyeleti feladatkörében
 
-a) e törvény végrehajtására kiadott jogszabály szerint szervezi, irányítja, felügyeli az élelmiszerlánc felügyeletével összefüggő állami feladatok ellátását;
+a) e törvény végrehajtására kiadott rendelet, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában foglaltak szerint szervezi, irányítja, felügyeli az élelmiszerlánc felügyeletével összefüggő állami feladatok ellátását;
 
 b) gondoskodik az élelmiszerlánc területén az iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás szervezéséről, illetve végzéséről, továbbá az élelmiszerlánc-felügyeleti feladatok egységes végrehajtásához szükséges szakmai továbbképzésekről, valamint a hatósági szakemberek képzéséről, részt vesz az élelmiszerlánccal kapcsolatos kutatásban;
 
@@ -10,13 +10,13 @@ c) végzi az ellenőrzések során vett minták vizsgálati eredményeinek orsz�
 
 d) laboratóriumokat működtet, illetve kijelöli az e törvény szerinti hatósági ellenőrzések során vett minták vizsgálatait végző nem állami laboratóriumokat, és ezek jegyzékét honlapján közzéteszi;
 
-e) egyes állat- és növénybetegségek területenkénti vagy országos előfordulásának és a fertőzöttség mértékének tisztázására, továbbá az élelmiszerek és takarmányok biztonságának és minőségének laboratóriumi vizsgálatára felmérő (monitoring) rendszert működtet, valamint ellenőrző, illetve engedélyezési eljárást megalapozó vizsgálatokat végeztet;
+e) egyes állatbetegségek és károsítók területenkénti vagy országos előfordulásának és a fertőzöttség mértékének tisztázására, továbbá az élelmiszerek és takarmányok biztonságának és minőségének laboratóriumi vizsgálatára felmérő (monitoring) rendszert működtet, valamint ellenőrző, illetve engedélyezési eljárást megalapozó vizsgálatokat végeztet;
 
 f) szervezi és felügyeli az állatbetegségek megelőzését, felderítését és felszámolását, az elrendelt mentesítési és monitoringprogramok végrehajtását, továbbá az integrált többéves nemzeti ellenőrzési tervvel összhangban az élelmiszerlánc-felügyeleti és élelmiszer- és takarmány-minőségi ellenőrzések egységes végrehajtását;
 
 g) végzi az Európai Unió élelmiszerekre és takarmányokra vonatkozó gyorsriasztási rendszerének (RASFF) hazai működtetését és a rendszeren keresztül Magyarországra érkező bejelentés alapján, továbbá a Magyarországon észlelt veszély esetén megteszi a szükséges intézkedéseket;
 
-h) ellátja az ökológiai gazdálkodással és integrált gazdálkodással, az ahhoz kapcsolódó élelmiszer-előállítással és forgalomba hozatallal, valamint a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
+h) ellátja az ökológiai termeléssel és integrált gazdálkodással, az ahhoz kapcsolódó élelmiszer-előállítással és forgalomba hozatallal, valamint a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatait;
 
 i) feladatai ellátására ügyeleti és készenléti szolgálatot szervez, az e törvény végrehajtására kiadott jogszabály szerint kezeli a rendkívüli élelmiszerlánc-eseményeket;
 
@@ -66,7 +66,7 @@ a) működteti a vetési, szaporítási és ültetvénytelepítési célra szolg
 
 b) meghatározza a növényvédelmi, növény-egészségügyi eljárások vizsgálati és diagnosztikai módszereit;
 
-c) gondoskodik a zárlati károsítók felderítéséről, megelőzéséhez, illetve felszámolásához szükséges intézkedések megtételéről;
+c) gondoskodik a zárlati károsítók felderítéséről, elterjedésük megelőzéséhez, felszámolásához, valamint visszaszorításukhoz szükséges intézkedések megtételéről;
 
 d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét;
 

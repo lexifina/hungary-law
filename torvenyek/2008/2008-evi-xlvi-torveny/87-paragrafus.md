@@ -8,23 +8,37 @@ E törvény alkalmazásában:
 
 1. alaptermék: az élelmiszer-higiéniáról szóló, az Európai Bizottság és a Tanács 2004. április 29-i 852/2004/EK rendelete (a továbbiakban: 852/2004/EK rendelet) 2. cikkének b) pontja szerinti fogalom;
 
+1/A. állatbetegség: a fertőző állatbetegségekről és egyes állategészségügyi jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/429 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2016/429 európai parlamenti és tanácsi rendelet] 4. cikk 16. pontjában meghatározott betegség;
+
 2. állat-egészségügy: az állattartással, az állatok tenyésztésével, szaporításával, levágásával, állatok etetésére szánt takarmány szállításával és forgalomba hozatalával összefüggő járványügyi, gyógyászati, állathigiéniai, állatvédelmi, szaporodásbiológiai és takarmányhigiéniai feladatok, állati eredetű élelmiszerrel, állati eredetű szaporító anyaggal, állati eredetű melléktermékkel, a zoonózisokkal és állatgyógyászati termékekkel kapcsolatos járványügyi és higiéniai feladatok, valamint az ezekkel kapcsolatos igazgatás, irányítás, szervezés, ellenőrzés, eszközellátás, továbbá az e feladatokkal összefüggő kutatást, képzést is magában foglaló tevékenységek összessége;
 
 3. állatgyógyászati készítmény (gyógyszer): bármely anyag vagy anyagok keveréke, amelyet állatok betegségeinek kezelésére vagy megelőzésére készítenek, továbbá bármely anyag vagy anyagok keveréke, amely farmakológiai, immunológiai vagy metabolikus hatások kiváltása révén az állatok valamely élettani funkciójának helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében alkalmazható;
 
 4. állatgyógyászati termék: állatgyógyászati készítmény, állatgyógyászati készítmény hatóanyaga, állat- egészségügyi biocid termék, állatgyógyászatban használatos gyógyhatású készítmény, ápolószer, segédanyag;
 
-5. állati eredetű melléktermékek: a nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások megállapításáról szóló, az Európai Parlament és a Tanács 1774/2002/EK 2002. október 3-i rendeletének 2. cikke (1) bekezdésének a) pontja szerinti fogalom;
+5. állati eredetű melléktermék: az 1069/2009/EK európai parlamenti és tanácsi rendelet 3. cikk 1. pontja szerinti fogalom;
+
+5/A. állati eredetű melléktermékből származó termék: az 1069/2009/EK európai parlamenti és tanácsi rendelet 3. cikk 2. pontja szerinti fogalom;
+
+5/B. állati eredetű szaporítóanyag: az (EU) 2016/429 európai parlamenti és tanácsi rendelet 4. cikk 28. pontjában meghatározott szaporítóanyag;
 
 6. állat-járványügy: a fertőzésközvetítő útján vagy egyéb módon terjesztett, állatra, vagy az emberre veszélyes kórokozó – a kizárólag emberről emberre terjedő kórokozók kivételével –, illetve az általa okozott betegség elleni védekezésre, annak felismerésére, felszámolására hozható intézkedések és azok végrehajtása;
 
 7. állatorvos: külön jogszabály szerinti állatorvosi oklevéllel rendelkező személy;
 
+7/A. állatorvosi vény: állatorvosi képesítéssel rendelkező személy által kiadott, állatgyógyászati készítmény rendelésére vonatkozó, papíralapú vagy elektronikus vény vagy megrendelő;
+
 8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
+
+8/A. áru: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 11. pontja szerinti fogalom;
 
 9. behozatal: áru harmadik országból Magyarország területére történő behozatala, beleértve az importot is;
 
-9/A. EK-műtrágya: a 2003/2003/EK európai parlamenti és tanácsi rendelet 3. cikke szerinti műtrágya;
+9/A. diagnosztikai célú kilövés: vadon élő állatok állatbetegség megelőzése, megállapítása, továbbterjedésének megakadályozása, kártételének csökkentése, felszámolása érdekében járványvédelmi intézkedésként végrehajtott leölése, amely nem minősül a vadnak engedélyezett eszközzel és engedélyezett módon vadász által, vadászterületen történő elejtésének;
+
+9/B. egyéb anyag: az (EU) 2016/2031 európai parlamenti és tanácsi rendelet 2. cikk 5. pontja szerinti fogalom;
+
+9/C. EK-műtrágya: a 2003/2003/EK európai parlamenti és tanácsi rendelet 3. cikke szerinti műtrágya;
 
 10. élelmiszer: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendelete (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerinti fogalom;
 
@@ -56,6 +70,10 @@ E törvény alkalmazásában:
 
 22. élelmiszerlánc-esemény: az élelmiszerláncban bekövetkező olyan e törvény hatálya alá tartozó esemény, mely az élelmiszerlánc-felügyeleti szerv hatósági intézkedését teszi szükségessé;
 
+22/A. ellenőrzési rendszer: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 7. pontja szerinti fogalom;
+
+22/B. ellenőrzési terv: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 8. pontja szerinti fogalom;
+
 23. elsődleges termelés: a 178/2002/EK rendelet 3. cikk 17. pontja szerinti meghatározás,
 
 24. engedélyköteles termék: a növényvédő szer, növényvédőszer-adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag, amelynek forgalomba hozatala és felhasználása engedélyhez vagy nyilvántartásba vételhez kötött;
@@ -78,11 +96,15 @@ E törvény alkalmazásában:
 
 30/B. gyógynövény termék: olyan vadon termett vagy termesztett – az e törvény végrehajtására kiadott rendeletben meghatározott – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
 
+30/C. gyógyszeres köztes termék: az (EU) 2019/4 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdés b) pontjában meghatározott termék;
+
 31. gyógyszeres takarmány: olyan takarmány, amely az állatgyógyászati készítményekre vonatkozó jogszabályokban meghatározott anyagot is tartalmaz;
 
 31/A. halgazdálkodási akvakultúra: vízi szervezetek olyan tartása vagy tenyésztése, amelynek során e szervezetek szaporodását (növekedését) a környezet természetes eltartóképességét meghaladó mértékben növelő technológiákat alkalmaznak, és amelyben e szervezetek a tartási vagy a tenyésztési szakaszokban – a lehalászással bezárólag – egy vagy több természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet tulajdonában maradnak;
 
-32. harmadik ország: az Európai Unión kívüli ország;
+32. harmadik ország: az Európai Unión kívüli ország, valamint növényegészségügyi vonatkozásban a 2016/2031 (EU) európai parlamenti és tanácsi rendelet 1. cikk (3) bekezdésében meghatározott terület;
+
+32/A. határállomás: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 38. pontja szerinti fogalom.
 
 33. import: áru harmadik országból Magyarország területére forgalomba hozatal céljából történő beszállítása;
 
@@ -94,9 +116,9 @@ E törvény alkalmazásában:
 
 36. járványos állatbetegség: állatról állatra terjedő fertőző állatbetegség;
 
-37. károsító: növényre vagy növényi termékre káros növény-, állat- vagy kórokozó faj, törzs vagy biotípus;
+37. károsító: a 2016/2031/EU európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdésében meghatározott károsító;
 
-38. kockázat: a 178/2002/EK rendelet 3. cikkének 9. pontja szerinti fogalom;
+38. kockázat: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 24. pontja szerinti fogalom;
 
 39. kötelező védekezés: az élelmiszerlánc-felügyeleti szerv által elrendelt állami, közérdekű vagy termelői védekezés;
 
@@ -116,31 +138,7 @@ E törvény alkalmazásában:
 
 42. monitoring: az élelmiszerlánc felügyelete során végzett tervezett, kockázatbecslésen alapuló, folyamatos, ellenőrző, országos laboratóriumi vizsgálat-program;
 
-43. növény: növény-egészségügyi vonatkozásban az élő növény és a növény meghatározott élő részei (beleértve a friss gyümölcsöt és a magvakat), így különösen:
-
-a) a termés botanikai értelemben, a gyorsfagyasztással tartósítottak kivételével;
-
-b) a zöldség, a gyorsfagyasztással tartósítottak kivételével;
-
-c) a gumó, hagyma, hagymagumó, gyöktörzs;
-
-d) a vágott virág;
-
-e) a leveles ág;
-
-f) a leveleit megtartó kivágott fa;
-
-g) a levél, levélzet;
-
-h) a növényi szövettenyészet;
-
-i) az élő pollen;
-
-j) a szemzőhajtás, dugvány, nemesoltvány;
-
-k) a vetőmag botanikai értelemben, a nem elvetésre szántak kivételével; valamint
-
-l) bármely más növényi rész, amelyet az Európai Bizottság a növényeket vagy növényi termékeket károsító szervezeteknek a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről szóló, az Európai Tanács 2000. május 8-i 2000/29/EK irányelve (a továbbiakban: 2000/29/EK irányelv) 18. cikkének (2) bekezdésében hivatkozott eljárás szerint növénynek meghatároz;
+43. növény: az (EU) 2016/2031 európai parlamenti és tanácsi rendelet 2. cikk 1. pontja szerinti fogalom;
 
 44. növény-egészségügyi zárlat: zárlati károsító előfordulásának felszámolását, terjedésének megakadályozását szolgáló, védekezési vagy megsemmisítési célú növény-egészségügyi intézkedés;
 
@@ -148,7 +146,7 @@ l) bármely más növényi rész, amelyet az Európai Bizottság a növényeket 
 
 46. növényi károsítók járványos fellépése: gazdaságilag veszélyes mértékű károsító-felszaporodás, amely a növényállomány vagy növényi termék megóvása érdekében a hatóság által elrendelt növényvédelmi eljárás alkalmazását teszi szükségessé;
 
-47. növényi termék: a feldolgozatlan vagy egyszerű előkészítésen (például őrlés, szárítás vagy préselés) átesett növény, a 43. pontban meghatározott növények kivételével;
+47. növényi termék: az (EU) 2016/2031 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott fogalom;
 
 47/A. növényorvos: külön jogszabály szerinti felsőfokú növényvédelmi képesítéssel rendelkező személy;
 
@@ -160,9 +158,9 @@ b) engedélyköteles termék engedélytől eltérő jellemzője, vagy az arra ir
 
 c) engedélyköteles termék jogellenes forgalomba hozatalának megszüntetéséig,
 
-d) zárlati károsító előfordulás, vagy az arra irányuló gyanú tisztázása idejére, valamint
+d)
 
-e) e törvény végrehajtására kiadott jogszabály szerint ellenőrzés-köteles szaporító és ültetési anyag esetében
+e)
 
 hoznak;
 
@@ -190,7 +188,7 @@ hoznak;
 
 60. takarmány-vállalkozó: a 178/2002/EK rendelet 3. cikkének 6. pontja szerinti fogalom;
 
-61. takarmányjog: a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, az Európai Parlament és a Tanács 2004. április 29-i 882/2004/EK rendelete 2. cikkének 3. pontja szerinti fogalom;
+61. takarmányjog: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 2. pontja szerinti fogalom;
 
 61/A. tanúsítvány: e törvény hatálya alá tartozó termék meghatározott minőségét, minősítését vagy egyéb jellemzőjét tanúsító, más terméktől megkülönböztető megjelölés vagy írásbeli igazolás;
 
@@ -208,11 +206,9 @@ hoznak;
 
 68. új takarmány: sem határozott, sem határozatlan időtartamra szóló engedéllyel nem rendelkező, az e törvény végrehajtására kiadott jogszabályban, illetve az Európai Unió kötelező jogi aktusában foglaltak szerint engedélyköteles takarmány;
 
-69. védett zóna: az Európai Unió olyan területe, amely a 2000/29/EK irányelv 18. cikkében foglalt eljárás szerint elismerést kapott, figyelemmel arra, hogy
+68/A. veszély: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 23. pontja szerinti fogalom;
 
-a) az Európai Unió tagállamaiban (a továbbiakban: tagállamok) előforduló károsító nem honos vagy nem telepedett meg annak ellenére, hogy számára adottak a megtelepedéshez szükséges ökológiai feltételek, vagy
-
-b) fennáll a veszélye annak, hogy kedvező ökológiai feltételek esetén egyes károsító szervezetek bizonyos termékekben megtelepednek, annak ellenére, hogy ezek a károsítók nem honosak vagy még nem telepedtek meg az Európai Unió területén;
+69. védett zóna: az Európai Unió olyan területe, amely a 2016/2031 európai parlamenti és tanácsi rendelet 32. cikkében foglaltak szerint védett zónaként elismerést kapott;
 
 70. végső fogyasztó: a 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikkének 18. pontjában meghatározott fogalom;
 
@@ -226,6 +222,6 @@ b) fennáll a veszélye annak, hogy kedvező ökológiai feltételek esetén egy
 
 74. zárlat: személy, állat, állati eredetű termék, állati eredetű melléktermék, jármű, egyéb fertőzésközvetítő anyag mozgásának, mozgatásának, illetve szállításának hatósági korlátozása állatbetegség terjedésének megakadályozása érdekében;
 
-75. zárlati károsító: potenciális gazdasági jelentőségű károsító, amely a veszélyeztetett területen még nem fordul elő, vagy előfordul, de nem terjedt el, és hatósági határozat alapján védekezést folytatnak ellene;
+75. zárlati károsító: az (EU) 2016/2031 európai parlamenti és tanácsi rendelet 3. cikkében meghatározott feltételeknek megfelelő károsító;
 
 76. termelői szerveződés: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet 122. cikkének a) pont (iii) pontjában meghatározott, valamint a 122. cikk b) és c) pontjában foglaltak szerint létrejött, és a 125. b, 125. c, és 125. e, cikkében meghatározott feltételekkel elismert szervezet, továbbá az agrárpolitikáért felelős miniszter által elismert termelői csoport.

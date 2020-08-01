@@ -12,6 +12,8 @@ d) minőségmegőrzési határidő lejárta utáni forgalomba hozatal;
 
 e) a Magyar Élelmiszerkönyvi megnevezéseket jogellenesen használó élelmiszer forgalomba hozatala, vagy egyéb élelmiszer-jelölési előírásoknak való meg nem felelés;
 
+f) a 14/B. §-ban foglalt rendelkezés megsértése esetén;
+
 g) a 22. § (2) bekezdése szerinti írásos dokumentáció hiánya esetén.
 
 esetén.

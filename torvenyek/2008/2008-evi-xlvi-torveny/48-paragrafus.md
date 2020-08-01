@@ -1,10 +1,10 @@
 ## V. Fejezet
 
-## „JÁRVÁNYÜGYI FELÜGYELETI RENDSZER, JÁRVÁNYOKKAL ÉS KÁROSÍTÓK FELSZAPORODÁSÁVAL KAPCSOLATOS, ÉLELMISZER ÉS TAKARMÁNY-BIZTONSÁGI INTÉZKEDÉSEK, VALAMINT A KÁRTALANÍTÁS SZABÁLYAI
+## JÁRVÁNYÜGYI FELÜGYELETI RENDSZER, JÁRVÁNYOKKAL ÉS KÁROSÍTÓK FELSZAPORODÁSÁVAL KAPCSOLATOS, ÉLELMISZER- ÉS TAKARMÁNYBIZTONSÁGI INTÉZKEDÉSEK, VALAMINT A KÁRTALANÍTÁS SZABÁLYAI
 
 ## Növény-egészségügyi intézkedések
 
-48. § (1) Növények és növényi termékek egyes károsítói behurcolásának, elterjedésének és felszaporodásának megakadályozása, kártételének csökkentése, felszámolása érdekében, továbbá a károsító természetéhez és elterjedtségéhez mérten, a veszély elhárításához szükséges mértékben és ideig az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben az alábbi növény-egészségügyi intézkedéseket hozhatja:
+48. § (1) Növények és növényi termékek egyes károsítói behurcolásának, elterjedésének és felszaporodásának megakadályozása, kártételének csökkentése, felszámolása érdekében, továbbá a károsító természetéhez és elterjedtségéhez mérten, a veszély elhárításához szükséges mértékben és ideig az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott esetekben az alábbi növény-egészségügyi intézkedéseket hozhatja:
 
 a) fertőtlenítést, megsemmisítést rendelhet el, amelynek érdekében meghatározott szerek, eszközök, illetve eljárások alkalmazását előírhatja vagy betilthatja;
 
@@ -32,4 +32,4 @@ l) állami és közérdekű védekezést rendelhet el.
 
 (2) A zárlati és a vizsgálatköteles nem zárlati károsítóval fertőzött területet, növényt, növényi terméket és az azt tartalmazó szállítmányt, raktárt, eszközt növény-egészségügyi zárlat alá kell helyezni, illetőleg behozatalnál a szállítmányt vissza kell utasítani attól függetlenül, hogy az rendelkezik növény-egészségügyi bizonyítvánnyal.
 
-(3) Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban fel nem sorolt egyéb károsítóval erős mértékben fertőzött szaporítóanyag behozatalánál a szállítmányra növényvédelmi korlátozást rendelhet el, illetve azt visszautasíthatja.
+(3) Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában fel nem sorolt egyéb károsítóval erős mértékben fertőzött növény behozatalánál a szállítmányra e törvényben, e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában foglaltak szerint növényvédelmi korlátozást rendelhet el, illetve a szállítmányt visszautasíthatja.

@@ -1,1 +1,1 @@
-8/C. § Az élelmiszerláncra kiterjedő vizsgálatokat végző laboratórium az e törvény végrehajtására kiadott rendeletben meghatározottak szerint nyilvántartásba vételt követően, vagy a működési engedély alapján végezheti a tevékenységét.
+8/C. § Az élelmiszerláncra kiterjedő vizsgálatokat végző laboratórium az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint nyilvántartásba vételt követően, vagy a működési engedély alapján végezheti a tevékenységét.
