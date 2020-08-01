@@ -4,7 +4,7 @@
 
 (2) Az Egészségbiztosítási Alapból finanszírozott szervezeteknél az egészségügyi szolgáltatásokhoz kapcsolódóan a külön jogszabályban meghatározott esetben központosított eljárást kell alkalmazni. A Kormány jogosult az eljárás részletes szabályainak meghatározására, beleértve a személyi és tárgyi hatályt, valamint az ajánlatkérésre feljogosított szervezetet (központi beszerző szerv).
 
-(3) A kormányzati kommunikációs és a rendezvényszervezési feladatok ellátásával kapcsolatos közbeszerzések esetében a külön jogszabályban meghatározott esetben központosított eljárást kell alkalmazni. A Kormány jogosult a központosított eljárás részletes szabályainak meghatározására, beleértve annak személyi és tárgyi hatályát, valamint az ajánlatkérésre feljogosított szervezetet (központi beszerző szerv).
+(3) A kormányzati kommunikációs, szervezetfejlesztési és rendezvényszervezés feladatok ellátásával kapcsolatos közbeszerzések esetében a külön jogszabályban meghatározott esetben központosított eljárást kell alkalmazni. A Kormány jogosult a központosított eljárás részletes szabályainak meghatározására, beleértve annak személyi és tárgyi hatályát, valamint az ajánlatkérésre feljogosított szervezetet (központi beszerző szerv).
 
 (3a) A kormányzati informatikai beszerzések tekintetében a jogszabályban meghatározott esetben központosított eljárást kell alkalmazni. A Kormány jogosult a központosított eljárás részletes szabályainak meghatározására, beleértve annak személyi és tárgyi hatályát, valamint az ajánlatkérésre feljogosított szervezetet (központi beszerző szervet).
 
