@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:424 mezőjében a „0,28” szövegrész helyébe a „0,36” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1463/2020. (VII. 30.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Többlettámogatás legfeljebb (bruttó, forint) | Megnövelt támogatás legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00065 | Dunaszekcsői „Telelő” Duna élőhely-rehabilitációs célú kotrása, Felső-zátonyi mellékág mederelzáró kövezés természetvédelmi célú korrekciója | Duna–Dráva Nemzeti Park Igazgatóság | 272 000 000 | 80 384 397 | 352 384 397 | A projekt elsődleges célja a Duna árterére jellemző szárazodási folyamatok ellensúlyozása, és ezzel a biológiai sokféleség fenntartása, a „Telelő” Duna, valamint a Felső-zátony mellékág rekonstrukciója. „A jobb védettségi állapot érdekében támogatott élőhelyek területe” indikátor értéke: 396 ha. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
