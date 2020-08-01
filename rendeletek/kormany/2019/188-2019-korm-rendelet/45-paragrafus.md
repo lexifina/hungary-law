@@ -1,4 +1,4 @@
-## 45. §[^5] A NÉBIH és a kormányhivatal ellenőrzi, hogy
+## 45. §[^4] A NÉBIH és a kormányhivatal ellenőrzi, hogy
 
 a) a behozatal az előzetes bejelentésben foglaltak szerint valósult-e meg;
 
@@ -10,4 +10,4 @@ d) a szaporítóanyagot adó tenyészállat DNS-alapú származás-ellenőrzési
 
 e) a törzskönyvezés feltételei biztosítottak-e.
 
-[^5]: A 45. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^4]: A 45. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

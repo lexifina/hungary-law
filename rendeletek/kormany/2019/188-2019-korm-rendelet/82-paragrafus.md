@@ -12,10 +12,10 @@ c) a keltetni kívánt halfajok fajtájának megnevezését.
 
 (2) A bejelentéshez mellékelni kell a halkeltetési tevékenységet irányító személy szakképesítését igazoló dokumentumok hiteles másolatát.
 
-(3)[^19] A halkeltetési tevékenységet irányító személynek
+(3)[^18] A halkeltetési tevékenységet irányító személynek
 
 a) szakirányú felsőfokú végzettséggel, középfokú szakképzettséget tanúsító szakmával vagy ezekkel egyenértékű szakképesítéssel és
 
 b) az adott halfajta tenyésztőszervezete által igazolt, legalább 3 év halkeltetői szakmai gyakorlattal
 
-[^19]: A 82. § (3) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (2) bekezdésével megállapított szöveg.
+[^18]: A 82. § (3) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (2) bekezdésével megállapított szöveg.
