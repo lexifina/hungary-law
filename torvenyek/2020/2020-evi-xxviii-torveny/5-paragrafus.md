@@ -1,0 +1,5 @@
+5. § (1) Az ingyenes tulajdonba adás során átadásra kerülő ingóságokról jegyzőkönyvet kell felvenni, amelyet az állami fenntartó mint átadó vagyonkezelő és az átvevő egyházi fenntartó képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az állami fenntartó könyveiben szereplő nyilvántartási értékkel.
+
+(2) Az ingyenes tulajdonba adás során a vagyonelemek átadására per-, teher- és igénymentesen kerül sor, ide nem értve a hatályban lévő bérleti szerződéseket, föld esetében az azok használatát biztosító szerződéseket, valamint az érintett ingatlanokon esetlegesen fennálló, az ingatlan-nyilvántartásba bejegyzett vezeték-, szolgalmi és használati jogokat.
+
+(3) Európai uniós támogatással érintett átvett engedélyes esetén a 4. § (1) bekezdése szerinti, fenntartóváltozásról szóló megállapodásban kell meghatározni, hogy az átvevő egyházi fenntartó, illetve a szolgáltató, intézmény, hálózat az egyes projektek végrehajtási és fenntartási kötelezettsége során jogutódként vagy a megvalósításban részt vevő szervezetként kerül-e bevonásra.

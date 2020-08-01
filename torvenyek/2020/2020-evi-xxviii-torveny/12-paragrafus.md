@@ -1,0 +1,1 @@
+12. § A 3. § (1) bekezdése, a 3. § (3) bekezdés b) pontja, a 10. § (1) bekezdése, a 10. § (3) bekezdés a) pontja, a 14. § és az 1. melléklet az Alaptörvény P) cikk (2) bekezdése, valamint 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
