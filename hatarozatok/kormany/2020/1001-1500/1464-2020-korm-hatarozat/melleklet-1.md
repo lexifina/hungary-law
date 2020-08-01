@@ -26,27 +26,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 1. pont i) alpontja helyébe a következő rendelkezés lép:
+## 3.[^1]
 
-## (A Kormány)
+## 4.[^2]
 
-## „i) egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 161,52%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal”
-
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. melléklet 4. pontjában foglalt táblázat C:2 mezőjében a „117,47” szövegrész helyébe a „189,74” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:104 mezőjében a „68,18 (90,0% becsült támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „87,91 (támogatási intenzitás: 96,31%)” szöveg,
-
-## c) 2. mellékletében foglalt táblázat E:104 mezőjében a „történő fejlesztése” szövegrész helyébe a „történő előkészítése és fejlesztése” szöveg
-
-## lép.
-
-## 5. Hatályát veszti az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 103a. sora.
+## 5.[^3]
 
 1. melléklet az 1464/2020. (VII. 30.) Korm. határozathoz
 
@@ -59,3 +43,7 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számol- ható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP-4.1.0-15- 2016-00003 | 83. sz. főút M1-Pápa közötti szakasz fejlesztése, települések elkerülése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvény- társaság | 90% | 11 016 783 814 | 1 224 087 090 | 2 878 578 997 | 0 | +6,31% | +76 895 643 782 | +2 144 170 182 | +24 902 779 209 | +13 192 701 626 | 96,31% | 87 912 427 596 | 3 368 257 272 | 27 781 358 206 | 13 192 701 626 | 132 254 744 700 | Győr és Pápa között főút kiépítése a pápai repülőtéri bekötőút megvalósításával, valamint a győri bevezető szakasz főútként történő előkészítése és fejlesztése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
