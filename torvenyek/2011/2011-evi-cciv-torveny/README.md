@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2020-07-09 | 2020. évi LXXV. törvény | 2011-204-00-00.63 |
 | 2020-07-22 | 2020. évi LXXXI. törvény | 2011-204-00-00.64 |
 | 2020-07-31 | 2020. évi XXXIII. törvény | 2011-204-00-00.65 |
+| 2020-08-01 | 2020. évi XXXIII. törvény | 2011-204-00-00.66 |

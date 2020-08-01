@@ -91,3 +91,5 @@ megnevezéssel működik.
 (29) 2020. július 31. napján a Szent István Egyetem Ybl Miklós Építéstudományi Kara a Szent István Egyetem szervezetéből kiválik és az Óbudai Egyetem szervezetébe olvad be.
 
 (30) 2020. július 31. napján a Budapesti Gazdasági Egyetem Gazdálkodási Kara (Gazdálkodási Kar Zalaegerszeg) a Budapesti Gazdasági Egyetem szervezetéből kiválik és a Pannon Egyetem szervezetébe olvad be.
+
+(31) 2020. augusztus 1. napjával a Kaposvári Egyetem és a Szent István Egyetem összeolvadásával a Szent István Egyetem jön létre.

@@ -1,4 +1,4 @@
-5. § (1) A felsőoktatási intézmény jogi személy.
+5. § (1) A felsőoktatási intézmény, valamint a felsőoktatási intézmény 94. § (2c) bekezdésben meghatározott szervezeti egysége jogi személy.
 
 (2) A munka törvénykönyvét, valamint – az állami felsőoktatási intézmény tekintetében – a közalkalmazottak jogállásáról szóló törvényt e törvényben meghatározott eltérésekkel kell alkalmazni.
 

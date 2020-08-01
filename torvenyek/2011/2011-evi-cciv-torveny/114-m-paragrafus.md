@@ -1,0 +1,3 @@
+114/M. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvénnyel megállapított 53. § (3) bekezdését első alkalommal a 2022. évi felvételi eljárásban doktori képzésben komplex vizsga letételével hallgatói jogviszonyt létesítő hallgatókra kell alkalmazni.
+
+(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvénnyel megállapított 94. § (2c) bekezdésére tekintettel 2020. szeptember 1-jéig szükséges módosítani a magán felsőoktatási intézmény alapító okiratát, valamint szervezeti és működési szabályzatát.
