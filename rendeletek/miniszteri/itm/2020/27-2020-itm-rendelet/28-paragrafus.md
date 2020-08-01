@@ -1,1 +1,3 @@
-## 27. § A 40/2017. (XII. 4.) NGM rendelet 1. melléklete helyébe a 4. melléklet lép.
+## 27. §[^27]
+
+[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

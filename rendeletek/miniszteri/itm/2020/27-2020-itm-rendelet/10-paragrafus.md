@@ -1,9 +1,3 @@
-## lép.
+## 9. §[^9]
 
-## 10. § Hatályát veszti a 78/2003. (XI. 27.) GKM rendelet
-
-a) 3. § (4) és (5) bekezdése,
-
-b) 5. melléklete,
-
-c) 7. melléklete.
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

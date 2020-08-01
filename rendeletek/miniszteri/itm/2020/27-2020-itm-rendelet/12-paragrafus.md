@@ -1,5 +1,3 @@
-## 11. § Az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló 35/2014. (XI. 19.) NGM rendelet [a továbbiakban: 35/2014. (XI. 19.) NGM rendelet] 8. §-a helyébe a következő rendelkezés lép:
+## 11. §[^11]
 
-## „8. § (1) Gázpalackot az a gazdálkodó szervezet tölthet, amely rendelkezik a nyomástartó berendezések, rendszerek és létesítmények műszaki-biztonsági hatósági felügyeletéről szóló kormányrendeletben vagy a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásáról és átfejtéséről, valamint hatósági felügyeletéről szóló kormányrendeletben meghatározott, működő és erre akkreditált, független tanúsító szervezet által tanúsított minőségirányítási rendszerrel, és a töltőlétesítmény vagy a propán-butángáz palacktöltő üzem használatbavételére engedélyt kapott.
-
-## (2) A propán-butángáz átfejtése egyik gázpalackból a másikba töltésnek minősül, azt kizárólag a propán-bután töltő- és tároló üzemek Biztonsági Szabályzatáról szóló miniszteri rendeletben meghatározott engedéllyel rendelkező szervezet végezheti.”
+[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 28. § Hatályát veszti a 40/2017. (XII. 4.) NGM rendelet 1. § (3) bekezdés k) pontja.
+## 28. §[^28]
 
 ## 8. Záró rendelkezések
+
+[^28]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
