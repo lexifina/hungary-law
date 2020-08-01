@@ -1,1 +1,0 @@
-## „(8) A kijelölt létfontosságú rendszerelem üzemeltetője a nemzeti létfontosságú rendszerelemmé történő kijelölést követően köteles új azonosítási jelentés készíteni, amelyet az előző azonosítási jelentés kijelölő hatósághoz történő benyújtásától számított 5 év elteltével, az azt követő 15 napon belül kell benyújtania a kijelölő hatóságnak.”

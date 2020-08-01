@@ -1,7 +1,5 @@
-## 86. § Az R12. 6. §-a helyébe a következő rendelkezés lép:
-
-## „6. § (1) Ágazaton belüli honvédelmi létfontosságú rendszerelemek esetében katonai felsőfokú végzettséggel és az adott rendszerelem működtetésében legalább 2 éves szakmai tapasztalattal rendelkező biztonsági összekötő személy foglalkoztatható.
-
-## (2) Ágazaton kívüli honvédelmi létfontosságú rendszerelemek tekintetében azt a biztonsági összekötőt kell szakirányú végzettséggel rendelkező személynek tekinteni, aki megfelel az illetékes ágazatra vonatkozó végzettségi követelményeknek.”
+## 80–86. §[^19]
 
 ## 17. A Nemzeti Szakértői és Kutató Központról szóló 350/2016. (XI. 18.) Korm. rendelet módosítása
+
+[^19]: A 80–86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

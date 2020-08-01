@@ -1,3 +1,0 @@
-## 56. § A létfontosságú agrárgazdasági rendszerelemek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 540/2013. (XII. 30.) Korm. rendelet (a továbbiakban: R8.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az agrárgazdasági ágazat tekintetében a nemzeti létfontosságú rendszerelemmé történő kijelölést vagy a kijelölés visszavonását – az üzemeltetőn kívül – a Nemzeti Élelmiszerlánc-biztonsági Hivatal az élelmiszerlánc-biztonsági és állategészségügyi hatósági hatáskörében, illetve a növény- és talajvédelmi hatósági hatáskörében eljáró megyei kormányhivatal bevonásával is kezdeményezheti.”
