@@ -1,4 +1,4 @@
-## 2. §[^2]
+## 2. §[^1]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és az 1. melléklet az e rendelet kihirdetését követő hónap első napján lép hatályba.
 
-[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
