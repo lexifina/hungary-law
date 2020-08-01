@@ -36,6 +36,6 @@ b) az alelnök,
 
 c) a főtitkár, valamint
 
-d) további hat elnökségi tag.
+d) további hat választott és két delegált elnökségi tag.
 
 (4) Az országos szervezetet az elnök, akadályoztatása esetén – az Alapszabályban meghatározott körben – az alelnök, az elnök és az alelnök együttes akadályoztatása esetén a főtitkár képviseli.

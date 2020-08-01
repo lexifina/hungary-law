@@ -18,6 +18,8 @@ c) aki nem felel meg a 19. § (1) bekezdésében meghatározott tagsági feltét
 
 (3) Kamarai tagságának megszűnésekor a Kamara az érintett személyt törli az állatorvosi névjegyzékből és a tagsági igazolványát, valamint a kamarai bélyegzőjét visszavonja.
 
+(3a) A (2) bekezdés b) pontja szerinti esetben a Kamara a tagsági jogviszony megszüntetéséről haladéktalanul értesíti az élelmiszerlánc-felügyeleti szervet.
+
 (4) Azt az állatorvost, akinek tagsági jogviszonya az (1) bekezdés b) pontja alapján szűnt meg, kérelemre a tagfelvételre egyébként illetékes vezetőség ismét felveszi a Kamara tagjai közé.
 
 (5) Akinek tagsági jogviszonya az (1) bekezdés c) pontjában meghatározott okból szűnt meg, amennyiben az Alapszabály ennél rövidebb időt nem állapít meg vagy a területi közgyűlés ettől eltérően nem rendelkezik, az etikai büntetés jogerőre emelkedésétől számított két éven belül a Kamarába tagként nem vehető fel.

@@ -16,7 +16,7 @@ b) százötven napon belül meg kell választani az e törvény és az Alapszab�
 
 (7) Aki az e törvény hatálybalépése napján olyan tevékenységet végez, amely e törvény szerint csak praxisengedéllyel végezhető, a praxisengedély iránti kérelmét legkésőbb e törvény hatálybalépését követő hatvanadik napig kell benyújtania. A Kamara a praxisengedélyt kérelemre e törvény rendelkezései szerint adja ki.
 
-(8) A 36. § (2) és (3) bekezdése, a 37. § (4) és (5) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek való megfelelést a praxisengedély jogosultjának legkésőbb 2022. január 1-jéig igazolnia kell a Kamara felé. 2022. január 1-jét követően a Kamara a 36. § (2) és (3) bekezdése, a 37. § (4) és (5) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek meg nem felelő állat-egészségügyi szolgáltató praxisengedélyét visszavonja.
+(8) A 36. § (2) és (3) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek való megfelelést a praxisengedély jogosultjának legkésőbb 2022. január 1-jéig igazolnia kell a Kamara felé. 2022. január 1-jét követően a Kamara a 36. § (2) és (3) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek meg nem felelő állat-egészségügyi szolgáltató praxisengedélyét visszavonja.
 
 (9) A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény rendelkezései szerint kiadott bélyegző e törvény szerint kiadott bélyegzőnek minősül.
 

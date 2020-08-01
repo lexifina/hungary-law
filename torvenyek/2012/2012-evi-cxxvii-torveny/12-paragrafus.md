@@ -1,4 +1,6 @@
-12. § (1) A küldöttközgyűlés elnökséget hoz létre, amelynek tagjait titkos szavazással négy évre választja meg.
+12. § (1) A küldöttközgyűlés elnökséget hoz létre, amelynek hat tagját a Kamara tagjai közül titkos szavazással négy évre választja meg. Az elnökség két delegált tagja (a továbbiakban: delegált elnökségi tag) a mindenkori országos főállatorvos és az Állatorvostudományi Egyetem mindenkori rektora.
+
+(1a) A delegált elnökségi tagot az elnökségi ülésen a kamarai szervezeti tagságától függetlenül tanácskozási jog illeti meg.
 
 (2) Az elnökség ellátja mindazokat a feladatokat, amelyeket e törvény, az Alapszabály és a küldöttközgyűlés részére meghatároz.
 

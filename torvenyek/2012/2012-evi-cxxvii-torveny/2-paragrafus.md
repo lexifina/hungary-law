@@ -8,13 +8,15 @@ c) állatklinika: olyan állatkórház, amely az állat-egészségügyi szolgál
 
 d) állatkórház: állatorvosi végzettséggel rendelkező személy által irányított olyan állatorvosi szakrendelő, amelyben szervezett és tervszerű formában biztosított az állatok gyógykezelés céljából történő elhelyezése, ápolása, bentlakásos utókezelése és folyamatos állat-egészségügyi felügyelete;
 
-e) állatorvosi rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségekből álló állat-egészségügyi szolgáltató intézmény;
+e) állatorvosi rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségekből álló állat-egészségügyi szolgáltató intézmény, amelyben állatorvosi alapellátás és sürgősségi (baleseti) sebészeti és testfelszíni beavatkozások mellett elkülönített műtőhelyiségben teljeskörűen végezhető testüreget, ízületet érintő steril sebészeti, szülészeti, szemészeti, valamint diagnosztikai célú műtét;
 
 f) állatorvosi szakrendelő (rendelőintézet): több állatorvost foglalkoztató olyan állatorvosi rendelő, ahol az állatok szakirányú speciális vizsgálata, sürgősségi, szakosított és egyéb speciális szakmai követelményeket igénylő gyógykezelése is folyamatosan – előre meghatározott, tervezett rendelési időben – biztosított;
 
 g) nagy létszámú állattartó telep: olyan állat-egészségügyi felügyelet alá tartozó hely, amely jogszabályban meghatározott létszámú állat tartására alkalmas;
 
-h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos.
+h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;
+
+i) állatorvosi alapellátó rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségből vagy helyiségekből álló állatorvosi alapellátást végző állat-egészségügyi szolgáltató intézmény, amelyben elkülönített műtőhelyiség hiányában – sürgősségi (baleseti) sebészeti és kisebb testfelszíni beavatkozások kivételével – nem végezhető testüreget, ízületet érintő steril sebészeti, szülészeti, szemészeti, valamint diagnosztikai célú műtét.
 
 (2) E törvényben szereplő iratok kézbesítésére a hivatalos iratok kézbesítésére vonatkozó általános szabályokat kell alkalmazni.
 

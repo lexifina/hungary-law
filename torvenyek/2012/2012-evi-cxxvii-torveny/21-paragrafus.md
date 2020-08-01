@@ -10,4 +10,6 @@ d) aki az Alapszabályban meghatározott időközönként, valamint az ott megha
 
 (2) A felfüggesztés időtartama alatt a tagsági jogviszonyból eredő valamennyi jog és kötelezettség szünetel és erre az időtartamra a praxisengedélyt és a kamarai bélyegzőt be kell vonni.
 
+(2a) Az (1) bekezdés c) pontja szerinti esetben a Kamara a felfüggesztésről haladéktalanul értesíti az élelmiszerlánc-felügyeleti szervet.
+
 (3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági jogviszonyt a vezetőség a tag kérelmére állítja helyre, az (1) bekezdés b)–d) pontjai alapján felfüggesztett tagsági jogviszony pedig az ott megállapított időtartam lejártát követő napon áll helyre.

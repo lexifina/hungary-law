@@ -2,7 +2,7 @@
 
 15. § (1) Kamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden kamarai tag, ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
 
-(2) Összeférhetetlen a kamarai tisztség viselésével, ha a tag
+(2) A delegált elnökségi tagok kivételével összeférhetetlen a kamarai tisztség viselésével, ha a tag
 
 a) az élelmiszerlánc-felügyeleti szervnél vezetői munkakört betöltve közszolgálati tisztviselői jogviszonyban áll,
 
