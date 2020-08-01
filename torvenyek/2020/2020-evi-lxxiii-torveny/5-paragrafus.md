@@ -1,0 +1,3 @@
+5. § A Cstv. 41. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha az adós nem kérte egyezségi tárgyalás megtartását, a bíróság dönthet úgy, hogy egyezségi tárgyalás megtartása helyett az egyezségi javaslatot és a felszámoló jelentését – megfelelő határidő kitűzésével – azzal a felhívással küldi meg a hitelezőknek, hogy szavazatukat a bíróság által megállapított határidőn belül a bíróságnak és a felszámolónak írásban küldjék meg. A szavazatokat a bíróság összesíti és ennek alapján végzéssel dönt a felszámolási egyezség jóváhagyásáról a 44. § (1)–(1b) bekezdésében foglaltak figyelembevételével.”
