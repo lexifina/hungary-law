@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-351-20-
 | 2020-07-17 | 2020-351-20-22.1 | 351/2020. (VII. 16.) Korm. rendelet |
 | 2020-07-18 | 2020-351-20-22.2 | 2010: CXXX. törvény |
 | 2020-07-31 | 2020-351-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-08-01 | 2020-351-20-22.4 | 2010: CXXX. törvény |
