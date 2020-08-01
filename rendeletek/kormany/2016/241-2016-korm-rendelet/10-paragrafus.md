@@ -1,5 +1,3 @@
-10. § (1) A Közbeszerzési és Ellátási Főigazgatóság (a továbbiakban: KEF) az Intézet munkavégzéséhez szükséges tárgyi eszközökhöz – ide nem értve az informatikai-telekommunikációs eszközöket – kapcsolódó vagyonkezelői jogok és kötelezettségek, valamint a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdése szerinti ellátási feladatok tekintetében az Intézet jogutódja 2016. szeptember 1-jétől.
+## 9. §[^4]
 
-(2) A NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) az Intézet munkavégzéséhez szükséges informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogok és kötelezettségek, valamint a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendeletben foglalt ellátási feladatok tekintetében az Intézet jogutódja 2016. szeptember 1-jétől.
-
-(3) Az Intézet vagyonkezelésében álló ingatlan és ingó vagyon – kivéve a minisztérium Külképviselet Igazgatása cím részére átadásra kerülő gépjárműveket és ingatlanokat, továbbá a 9. § (1) bekezdése szerint átadásra kerülő ingó és ingatlan eszközállományt – legkésőbb az Intézet megszűnését megelőző napon az (1) bekezdés esetében a KEF, a (2) bekezdés esetében a NISZ Zrt. vagyonkezelésébe kerül.
+[^4]: A 9. §-t a 381/2020. (VII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
