@@ -1,5 +1,3 @@
-## 48/B. § Az a vállalkozás részesülhet a támogatásban, amely 2019. december 31-én nem minősült nehéz helyzetben levő vállalkozásnak.
-
 48/C. § (1) A támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) és a (3) bekezdésben meghatározott kivétellel – nem haladhatja meg a 800 000 eurónak megfelelő forintösszeget.
 
 (2) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma a közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 100 000 eurónak megfelelő forintösszeget.

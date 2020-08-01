@@ -12,13 +12,13 @@
 
 a) – a 4–6. alcím szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b) a 10. § (4) bekezdésében foglaltak figyelembevételével – a 4–6. és 11. alcím szerinti támogatás kivételével – nehéz helyzetben lévő vállalkozás részére.
+b)[^27] a 10. § (4) bekezdésben foglaltak figyelembevételével – a 4–6., 11., 20/A–20/C. alcím szerinti támogatás kivételével – nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és június 30. között nehéz helyzetbe került.
 
 (4) Nem ítélhető meg
 
 a) az 1379/2013/EU rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4., 5., 7–9., 12–13., 17–23. alcím szerinti támogatás,
 
-b)[^23] elsődleges mezőgazdasági termeléshez a 4., 7., 8., 11., 21–23. alcím szerinti támogatás,
+b)[^28] elsődleges mezőgazdasági termeléshez a 4., 7., 8., 11., 21–23. alcím szerinti támogatás,
 
 c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4. alcím szerinti támogatás, illetve az 5. alcím szerinti támogatás, ha
 
@@ -32,7 +32,7 @@ e) import áru helyett hazai áru használatától függővé tett támogatás,
 
 f) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsértését eredményezi,
 
-g)[^24] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
+g)[^29] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
 
 (5) A 8–10., 14. alcím szerinti támogatás kis- és középvállalkozás vagy a támogatást kis- és középvállalkozásnak továbbadó vállalkozás részére nyújtható.
 
@@ -52,5 +52,6 @@ g)[^24] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat 
 
 (13) Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
-[^23]: A 6. § (4) bekezdés b) pontja a 11/2019. (IX. 4.) PM rendelet 7. § b) pontja szerint módosított szöveg.
-[^24]: A 6. § (4) bekezdés g) pontját a 11/2019. (IX. 4.) PM rendelet 3. §-a iktatta be.
+[^27]: A 6. § (3) bekezdés b) pontja a 8/2020. (VII. 31.) PM rendelet 3. §-ával megállapított szöveg.
+[^28]: A 6. § (4) bekezdés b) pontja a 11/2019. (IX. 4.) PM rendelet 7. § b) pontja szerint módosított szöveg.
+[^29]: A 6. § (4) bekezdés g) pontját a 11/2019. (IX. 4.) PM rendelet 3. §-a iktatta be.

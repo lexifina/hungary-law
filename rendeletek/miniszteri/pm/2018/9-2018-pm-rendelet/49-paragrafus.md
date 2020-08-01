@@ -1,4 +1,4 @@
-## 48/F. § Az egyedi támogatásoknak az Atr. 6. melléklete szerinti adatait a közlemény alapján közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel a támogatást nyújtó 2021. február 1-ig továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait.
+## 48/R. § A közlemény alapján fennálló közzétételi kötelezettségre figyelemmel a támogatást nyújtó a 48/F. § szerinti tartalommal és határidő szerint adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásokról.
 
 ## 21. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
