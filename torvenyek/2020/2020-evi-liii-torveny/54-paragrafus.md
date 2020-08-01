@@ -11,11 +11,3 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 (3) A 38. és a 39. § a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 56a. cikk (2) bekezdésének való megfelelést szolgálja.
 
 (4) A 44. § a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (2) bekezdés c) pontjának való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
