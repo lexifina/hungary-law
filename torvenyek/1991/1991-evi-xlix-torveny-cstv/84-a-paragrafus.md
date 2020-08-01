@@ -14,6 +14,10 @@ e) a felszámolók névjegyzékébe nem került – de a 27/A. § (6) bekezdés�
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a felszámolói névjegyzéket vezető szervet, továbbá a felszámolói szakképesítést adó szakirányú szakképzettség és a 83/B. §-ban említett felsőfokú végzettség tekintetében állásfoglalásra jogosult szakhatóságot.
 
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 67. § (9i) bekezdése szerinti állami elővásárlási jog gyakorlására jogosult szervezetet.
+
+(1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gazdálkodó szervezetek reorganizációjára, működőképességének fenntartására, illetve helyreállítására, tartozásaik rendezésére vonatkozó sajátos szabályokat.
+
 (2) Felhatalmazást kap a Kormány arra, hogy
 
 a) a stratégiailag kiemelt jelentőségű gazdálkodó szervezeteket, és azon belül a 68–70. § szerinti gazdálkodó szervezeteket rendeletben meghatározza, valamint rendeletben kijelölje a 66. § (2) bekezdése szerinti állami felszámolót,

@@ -24,7 +24,7 @@ lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolg
 
 (2) A 2015/848 EU rendelet hatálya alá tartozó, nem Magyarországon bejegyzett gazdálkodó szervezet ellen kezdeményezett fizetésképtelenségi főeljárás megindítására és lefolytatására a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
 
-(3) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni azzal, hogy
+(3) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni azzal, hogy
 
 a) a csődeljárásban
 

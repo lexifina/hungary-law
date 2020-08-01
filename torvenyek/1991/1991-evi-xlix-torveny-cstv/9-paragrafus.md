@@ -6,9 +6,9 @@
 
 (3a) Ha az adós ellen a csődeljárás iránti kérelem benyújtását megelőzően a székhelye szerinti bíróságon felszámolás iránti kérelmet nyújtottak be, de a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről még nem hoztak elsőfokú végzést, ennek a kérelemnek az elbírálását a bíróság a csődeljárás elrendeléséig [10. § (1) bekezdés], illetőleg a csődeljárás iránti kérelem elutasításáig felfüggeszti.
 
-(4) A bíróság az (1) bekezdést követő intézkedést követően haladéktalanul, de legkésőbb a kérelem beérkezésétől számított 5 munkanapon belül megvizsgálja, hogy az megfelel-e a 7. § és a 8. § (1)–(3) bekezdése szerinti feltételeknek. Ha a kérelem hiányos, azt 5 munkanapos határidővel hiánypótlásra adja vissza. A bíróság az adós által kezdeményezett csődeljárás iránti kérelmet hivatalból elutasítja, ha
+(4) A bíróság az (1) bekezdést követő intézkedést követően a kérelem beérkezésétől számított 5 munkanapon belül megvizsgálja, hogy az megfelel-e a 7. § és a 8. § (1)–(3) bekezdése szerinti feltételeknek. Ha a kérelem hiányos, azt 8 munkanapos határidővel hiánypótlásra adja vissza. A bíróság az adós által kezdeményezett csődeljárás iránti kérelmet visszautasítja ha
 
-a) a hiánypótlásra visszaadott kérelmet a kérelmező 5 munkanapon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
+a) a hiánypótlásra visszaadott kérelmet a kérelmező 8 munkanapon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
 
 b) nincs meg a 8. § (1) bekezdésében említett legfőbb szerv előzetes egyetértése,
 
@@ -20,7 +20,7 @@ e) az adós ellen belföldön más bíróság előtt csődeljárás van folyamat
 
 f) az adós ellen felszámolási eljárás indult, és a felszámolás elrendeléséről már végzést hoztak, vagy
 
-g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság hivatalból elutasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
+g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság visszautasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
 
 (4a) A (4) bekezdés a) pontja szerinti esetben a csődeljárás lefolytatása iránti kérelem joghatásai fennmaradnak, ha az adós a (4) bekezdés szerinti végzés közlésétől számított 15 napon belül a csődeljárás elrendelése iránti kérelmet szabályszerűen újra előterjeszti. A határidő elmulasztása esetén igazolásnak nincs helye. A kérelem újbóli előterjesztését a végzés elleni fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.
 

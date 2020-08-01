@@ -1,4 +1,4 @@
-40. § (1) A tudomásszerzéstől számított 120 napon, de legfeljebb a felszámolást elrendelő végzés közzétételének időpontjától számított 1 éves jogvesztő határidőn belül a hitelező – vagy az adós nevében a felszámoló – a bíróság [6. § (1) bekezdés] előtt keresettel megtámadhatja az adósnak
+40. § (1) A felszámolást elrendelő végzés közzétételének időpontjától számított 1 éves jogvesztő határidőn belül a hitelező – vagy az adós nevében a felszámoló – a bíróság [6. § (1) bekezdés] előtt keresettel megtámadhatja az adósnak
 
 a) a felszámolási eljárás lefolytatására irányuló kérelem bíróságra történő beérkezése napját megelőző öt éven belül és azt követően megkötött, az adós vagyonának csökkenését eredményező szerződését vagy más jognyilatkozatát, ha az adós szándéka a hitelező vagy a hitelezők kijátszására irányult, és a másik fél erről a szándékról tudott vagy tudnia kellett,
 
@@ -20,4 +20,4 @@ a) a pozíciólezáró nettósításra irányuló szerződés alapján történt
 
 b) zálogtárgy (óvadék tárgya) egyenértékű fedezettel való helyettesítése és kiegészítő biztosíték nyújtása esetében.
 
-(5) Ha az (1) bekezdés szerinti 120 napos határidőn belül a felszámoló tudomására jut az (1) vagy a (2) bekezdés szerinti jogügylet, erről haladéktalanul köteles a hitelezői választmányt, hitelezői képviselőt vagy a hitelezőket tájékoztatni, és a bizonyítékokat egyidejűleg megküldeni. Az értesítés kézhezvételétől számított 15 napon belül a hitelező akkor is jogosult a szerződés megtámadására, ha az (1) bekezdés szerinti határidő már eltelt vagy abból 15 napnál kevesebb van hátra. A jogvesztő határidő azonban ebben az esetben is irányadó.
+(5) Ha az (1) bekezdés szerinti jogvesztő határidőn belül a felszámoló tudomására jut az (1) vagy a (2) bekezdés szerinti jogügylet, erről haladéktalanul köteles a hitelezői választmányt, hitelezői képviselőt vagy a hitelezőket tájékoztatni, és a bizonyítékokat egyidejűleg megküldeni. Az értesítés kézhezvételétől számított 15 napon belül a hitelező akkor is jogosult a jogügylet megtámadására, ha az (1) bekezdés szerinti jogvesztő határidő már eltelt vagy abból 15 napnál kevesebb van hátra.

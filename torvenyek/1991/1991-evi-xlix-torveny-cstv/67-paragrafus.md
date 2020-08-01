@@ -32,4 +32,6 @@
 
 (9h) A 49. § (5) és (6) bekezdése szerinti keresetindítási határidő a (9e) bekezdés szerinti megismerhetővé tételtől számítandó.
 
+(9i) A felszámolási eljárásban az adós vagyonának értékesítésekor a magyar államot e törvény alapján elővásárlási jog illeti meg, amelyet megelőz a törvény alapján fennálló elővásárlási jog.
+
 (10) Az 56. § (2) bekezdés szerinti – a be nem hajtott követeléseket és az értékesítetlen vagyontárgyakat a hitelezők között felosztó – bírósági döntés meghozatalánál a (8) bekezdés szerinti határidőket kell figyelembe venni.

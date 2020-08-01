@@ -18,7 +18,7 @@
 
 (10) Ha a bíróság az (1) bekezdés szerinti keresetet jogerősen elutasította, és a felszámolási eljárást befejező végzés meghozatalakor ugyanazon vezető más tevékenysége miatt nincs az (1) bekezdés szerint kezdeményezett eljárás folyamatban, a (9) bekezdés szerinti biztosítékot a bíróság hivatalból, 15 napon belül visszautalja.
 
-(11) A felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételét követő 90 napos jogvesztő határidőn belül bármely hitelező keresettel kérheti a 6. § szerint illetékes bíróságtól, hogy az (1) bekezdés szerinti perben jogerősen megállapított felelősség alapján, az okozott vagyoni hátrány mértékéig kötelezze az adós volt vezetőjét a felszámolási eljárásban nyilvántartásba vett, de ott meg nem térült követelésének kifizetésére.
+(11) A felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételét követően bármely hitelező keresettel kérheti a 6. § szerint illetékes bíróságtól, hogy az (1) bekezdés szerinti perben jogerősen megállapított felelősség alapján, az okozott vagyoni hátrány mértékéig kötelezze az adós volt vezetőjét a felszámolási eljárásban nyilvántartásba vett, de ott meg nem térült követelésének kifizetésére.
 
 (12) Ha a felszámolási eljárás jogerős lezárásáig az (1) bekezdés szerinti megállapítási perben még nincs jogerős határozat, a 90 napos jogvesztő határidő kezdő napja a bírósági határozat jogerőre emelkedésének napját követő nap.
 

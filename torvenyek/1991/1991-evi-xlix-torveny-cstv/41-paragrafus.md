@@ -9,3 +9,5 @@
 (4) Az egyezségi tárgyalásra az adós köteles a fizetőképesség helyreállítására alkalmas programot és egyezségi javaslatot készíteni.
 
 (5) A bíróság az adós kérelmére, a kérelem beérkezését követően 60 napon belül egyezségi tárgyalást tart, melyre az adóst, a felszámolót és az egyezség megkötésére jogosult hitelezőket idézi a fizetőképesség helyreállítására alkalmas program és az egyezségi javaslat, valamint a hitelezők felsorolásának kézbesítésével.
+
+(6) Ha az adós nem kérte egyezségi tárgyalás megtartását, a bíróság dönthet úgy, hogy egyezségi tárgyalás megtartása helyett az egyezségi javaslatot és a felszámoló jelentését – megfelelő határidő kitűzésével – azzal a felhívással küldi meg a hitelezőknek, hogy szavazatukat a bíróság által megállapított határidőn belül a bíróságnak és a felszámolónak írásban küldjék meg. A szavazatokat a bíróság összesíti és ennek alapján végzéssel dönt a felszámolási egyezség jóváhagyásáról a 44. § (1)–(1b) bekezdésében foglaltak figyelembevételével.

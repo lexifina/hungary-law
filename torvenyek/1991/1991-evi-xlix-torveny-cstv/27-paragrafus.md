@@ -12,7 +12,7 @@ c) az adóssal szemben lefolytatott végrehajtás eredménytelen volt, vagy
 
 d) az adós a fizetési kötelezettségét csődeljárásban vagy felszámolási eljárásban kötött egyezség ellenére nem teljesítette, vagy
 
-e) a korábbi csődeljárást megszüntette [18. § (3) bekezdés, 18. § (10) bekezdés vagy 21/B. §], vagy
+e) a korábbi csődeljárást megszüntette [18. § (3), (3a) és (3c) bekezdés, 18. § (10) bekezdés vagy 21/B. §], vagy
 
 f) az adós, illetve a végelszámoló által indított eljárásban az adós tartozásai meghaladják a vagyonát, illetőleg az adós a tartozását (tartozásait) az esedékességkor nem tudta vagy előreláthatóan nem tudja kielégíteni, és a végelszámoló által indított eljárásban az adós gazdálkodó szervezet tagjai (tulajdonosai) felhívás ellenére sem nyilatkoznak arról, hogy kötelezettséget vállalnak a tartozások esedékességkor történő kifizetéséhez szükséges források biztosítására.
 

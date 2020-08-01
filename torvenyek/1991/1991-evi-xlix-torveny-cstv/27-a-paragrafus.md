@@ -12,7 +12,7 @@ aa) amely az adós tulajdonosa, hitelezője vagy az adós vagyonának nem üzlet
 
 ab) amelynek tulajdonosa az adósnak is tulajdonosa, hitelezője vagy az adós vagyonának nem üzletszerűen eljáró bizalmi vagyonkezelője,
 
-ac) amelynek vezető tisztségviselője vagy annak közeli hozzátartozója többségi befolyással (Ptk. 685/B. §) rendelkezik az adós szervezetben vagy összeférhetetlen tevékenységet [27/C. § (3) bekezdés a) pont] folytató más szervezetben.
+ac) amelynek vezető tisztségviselője vagy annak közeli hozzátartozója többségi befolyással rendelkezik az adós szervezetben vagy összeférhetetlen tevékenységet [27/C. § (3) bekezdés a) pont] folytató más szervezetben.
 
 b) Nem jelölhető ki felszámolóbiztosnak az a személy,
 
