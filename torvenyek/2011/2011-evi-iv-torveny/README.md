@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-4-00-00
 | --- | --- | --- |
 | 2011-03-02 | 2011. évi IV. törvény | 2011-4-00-00.0 (közlönyállapot) |
 | 2011-03-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-4-00-00.1 |
+| 2020-08-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-4-00-00.2 |
