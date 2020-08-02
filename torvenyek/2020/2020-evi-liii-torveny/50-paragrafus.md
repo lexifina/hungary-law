@@ -6,7 +6,7 @@
 
 3.
 
-4. 19. § (3) bekezdés a) és d) pontjában, valamint 19. § (5) bekezdésében a „két” szövegrész helyébe a „három”,
+4.
 
 5.
 

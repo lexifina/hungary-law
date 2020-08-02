@@ -2,8 +2,8 @@
 
 a)
 
-b) 26. § (3) bekezdése,
+b)
 
-c) 42. § (1)–(3) bekezdése,
+c)
 
-d) 50. § (8) bekezdésében az „a 37. § (4) és (5) bekezdése,” szövegrészek.
+d)
