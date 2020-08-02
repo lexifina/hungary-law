@@ -1,9 +1,1 @@
-1. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) a következő 5/B. §-sal egészül ki:
-
-„5/B. § (1) Ha a hitelezői választmány tagja vagy a hitelezői képviselő az elektronikus levélcímét az elektronikus kapcsolattartás céljából a csődeljárásban a vagyonfelügyelővel – felszámolási eljárásban a felszámolóbiztossal – közölte, a vagyonfelügyelő, illetve a felszámolóbiztos jogosult a tájékoztatását, egyéb jognyilatkozatát vagy iratot erre az elektronikus levélcímre megküldeni.
-
-(2) Az (1) bekezdés szerinti esetben a választmány tagja vagy a hitelezői képviselő is jogosult a jognyilatkozatát vagy egyéb iratot a vagyonfelügyelő, illetve a felszámolóbiztos elektronikus kapcsolattartás céljára megadott elektronikus levélcímére megküldeni.
-
-(3) Az (1) és (2) bekezdés szerinti esetben az elektronikus úton küldött tájékoztatást, nyilatkozatot, iratot a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 325. § (1) bekezdés f) pontja szerinti teljes bizonyító erejű magánokiratként, vagy az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 46. §-a szerinti elektronikus okirati formába átalakítva kell eljuttatni a címzetthez.
-
-(4) Az (1)–(3) bekezdésben foglaltakat kell alkalmazni akkor is, ha a hitelező az elektronikus kapcsolattartás céljából az elektronikus levélcímét az eljárásban résztvevőkkel közölte azzal, hogy az eljárásban résztvevők elektronikus úton erre az elektronikus levélcímre küldhetik a neki címzett tájékoztatást, nyilatkozatot, iratot.”
+1. §
