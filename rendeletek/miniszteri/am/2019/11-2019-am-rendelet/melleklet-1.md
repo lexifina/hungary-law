@@ -1,5 +1,6 @@
-## 17. §[^22] E rendeletnek az egyes agrártámogatások igénybevételének feltételeit meghatározó miniszteri rendeletek módosításáról szóló 18/2020. (VI. 12.) AM rendelettel megállapított 6. § (3) bekezdés c) pontját és (8)–(10) bekezdését a 2020. január 16-át követően benyújtott kifizetési kérelmekre indult eljárásokban is alkalmazni kell.
+## 19. §[^24] E rendeletnek a védett és a fokozottan védett növény- és állatfajokról, a fokozottan védett barlangok köréről, valamint az Európai Közösségben természetvédelmi szempontból jelentős növény- és állatfajok közzétételéről szóló 13/2001. (V. 9.) KöM rendelet, valamint a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet módosításáról szóló 39/2020. (VII. 30.) AM rendelettel [a továbbiakban: 39/2020. (VII. 30.) AM rendelet] megállapított 18. §-át a 39/2020. (VII. 30.) AM rendelet hatálybalépésekor[^25] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 11/2019. (IV. 1.) AM rendelethez
 
-[^22]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonann a 18/2020. (VI. 12.) AM rendelet 18. §-a iktatta be.
+[^24]: A 19. §-t a 39/2020. (VII. 30.) AM rendelet 3. §-a iktatta be.
+[^25]: A hatálybalépés időpontja 2020. augusztus 2.
