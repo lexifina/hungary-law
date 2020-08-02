@@ -4,4 +4,4 @@
 
 a)
 
-b) III. pont 8. alpontjában foglalt táblázat 8.7. sora.
+b)

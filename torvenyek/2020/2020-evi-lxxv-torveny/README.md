@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-75-00-00
 | 2020-07-10 | 2010. évi CXXX. törvény | 2020-75-00-00.2 |
 | 2020-07-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-75-00-00.3 |
 | 2020-08-01 | 2010. évi CXXX. törvény | 2020-75-00-00.4 |
+| 2020-08-02 | 2010. évi CXXX. törvény | 2020-75-00-00.5 |
