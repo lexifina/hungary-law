@@ -1,1 +1,3 @@
-## 1. § A kulturális és tudománydiplomáciai feladatok ellátásáról szóló 241/2016. (VIII. 16.) Korm. rendelet [a továbbiakban: 241/2016. (VIII. 16.) Korm. rendelet] 4. §-ában a „KKM Oktatási és Rekreációs Korlátolt Felelősségű Társaság (a továbbiakban: KKM Oktatási és Rekreációs Kft.)” szövegrész helyébe a „KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság” szöveg lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
