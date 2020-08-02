@@ -1,1 +1,1 @@
-13. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 58/A. § (2b) bekezdés a) pontjában a „91. § (3) bekezdése alapján” szövegrész helyébe a „szociál- és nyugdíjpolitikáért felelős miniszter előzetes hozzájárulásával” szöveg lép.
+### 13. §
