@@ -1,0 +1,1 @@
+## 5. § A 11/2019. (IV. 1.) AM rendelet 4. § (1) bekezdés záró szövegrészében a „legfeljebb 12,36403 milliárd forint” szövegrész helyébe az „a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/2021. támogatási évben legfeljebb 11,52256 milliárd forint” szöveg lép.

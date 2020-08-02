@@ -1,0 +1,3 @@
+## 3. § A 11/2019. (IV. 1.) AM rendelet a következő 19. §-sal egészül ki:
+
+## „19. § E rendeletnek a védett és a fokozottan védett növény- és állatfajokról, a fokozottan védett barlangok köréről, valamint az Európai Közösségben természetvédelmi szempontból jelentős növény- és állatfajok közzétételéről szóló 13/2001. (V. 9.) KöM rendelet, valamint a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet módosításáról szóló 39/2020. (VII. 30.) AM rendelettel [a továbbiakban: 39/2020. (VII. 30.) AM rendelet] megállapított 18. §-át a 39/2020. (VII. 30.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
