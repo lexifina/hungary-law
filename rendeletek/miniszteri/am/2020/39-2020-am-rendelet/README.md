@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-39-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-08-02 | 2020-39-20-7R.1 | 39/2020. (VII. 30.) AM rendelet |
+| 2020-08-03 | 2020-39-20-7R.2 | 2010: CXXX. törvény |

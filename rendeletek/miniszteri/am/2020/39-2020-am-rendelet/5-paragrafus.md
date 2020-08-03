@@ -1,1 +1,3 @@
-## 4. § A 11/2019. (IV. 1.) AM rendelet 2. melléklete helyébe a 2. melléklet lép.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 2. § A baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet [a továbbiakban: 11/2019. (IV. 1.) AM rendelet] a következő 18. §-sal egészül ki:
+## 2. §[^3]
 
-## „18. § E rendelet alapján mezőgazdasági csekély összegű támogatás – a 11. § (6) bekezdésében foglaltaktól eltérően – a 2019/2020. támogatási év IV. tárgynegyedévében legfeljebb 770 millió forint összegig állapítható meg.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
