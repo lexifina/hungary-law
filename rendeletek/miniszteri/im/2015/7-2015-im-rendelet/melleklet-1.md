@@ -14,7 +14,7 @@ A) Igazságügyi Minisztérium hivatali szervezete
 
 1.3.[^5] a minisztérium szóvivője és annak munkáját közvetlenül segítő álláshely, a miniszter nyilvános szereplései előkészítéséhez kapcsolódó álláshely és az ilyen feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
 
-1.4.[^6] a miniszter, az államtitkárok, a közigazgatási államtitkár és a helyettes államtitkárok titkárságának – a digitális szerkesztői feladatok ellátását szolgáló álláshely kivételével – valamennyi álláshelye és a miniszter, az államtitkárok, a közigazgatási államtitkár és a helyettes államtitkárok titkárságának a tevékenységéhez kapcsolódó, jogellenes befolyással vagy leplezett támadással fenyegetett feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
+1.4.[^6] a miniszter, az államtitkárok, a közigazgatási államtitkár és a helyettes államtitkárok titkárságának valamennyi álláshelye és a miniszter, az államtitkárok, a közigazgatási államtitkár és a helyettes államtitkárok titkárságának a tevékenységéhez kapcsolódó, jogellenes befolyással vagy leplezett támadással fenyegetett feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
 
 1.5.[^7] a főosztályvezető, a főosztályvezető helyettesítésére kijelölt osztályvezető
 
@@ -58,26 +58,30 @@ A) Igazságügyi Minisztérium hivatali szervezete
 
 1.25.[^21] a pénzügyi, az illetmény-számfejtési, a projekt koordinációs és a fejezeti számviteli és beszámolási feladatot ellátó szervezeti egység vezetőjének álláshelye
 
-1.26.[^22] – a titkársági és ügykezelői feladatok ellátását szolgáló álláshelyek kivételével – az európai uniós és nemzetközi igazságügyi együttműködést érintő valamennyi álláshely, valamint az e szakterülethez kapcsolódó, jogellenes befolyással vagy leplezett támadással fenyegetett feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
+1.26.[^22] az európai uniós és nemzetközi igazságügyi együttműködést érintő valamennyi álláshely, valamint az e szakterülethez kapcsolódó, jogellenes befolyással vagy leplezett támadással fenyegetett feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
 
 1.27.[^23] a közjegyzői és végrehajtói pályázatok elbírálásában és a közjegyzők és végrehajtók fegyelmi eljárásában közreműködő vezetői és ügyintézői álláshely
 
+1.28.[^24] a személyügyi feladatokat ellátó szervezeti egységek valamennyi álláshelye
+
+1.29.[^25] a minisztérium jogi képviseletét, közbeszerzési eljárásainak lefolytatását, valamint a polgári jogi szerződéseinek előkészítését ellátó szervezeti egység valamennyi álláshelye
+
 B) Kormányhivatalok
 
-1.[^24]
+1.[^26]
 
 C) Központi hivatalok
 
-1.[^25]
+1.[^27]
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
-1.[^26]
+1.[^28]
 
 [^3]: Az 1. melléklet A) rész 1. pont 1.1. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. melléklet A) rész 1. pont 1.3. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § d) pontja szerint módosított szöveg.
-[^6]: Az 1. melléklet A) rész 1. pont 1.4. alpontja a 27/2016. (XII. 27.) IM rendelet 8. § (1) bekezdése, a 12/2019. (IV. 12.) IM rendelet 6. § b) és e)–f) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet A) rész 1. pont 1.4. alpontja a 27/2016. (XII. 27.) IM rendelet 8. § (1) bekezdése, a 12/2019. (IV. 12.) IM rendelet 6. § b) és e)–f) pontja, a 11/2020. (VIII. 3.) IM rendelet 1. §-a szerint módosított szöveg.
 [^7]: Az 1. melléklet A) rész 1. pont 1.5. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § g) pontja szerint módosított szöveg.
 [^8]: Az 1. melléklet A) rész 1. pont 1.11. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) pontja szerint módosított szöveg.
 [^9]: Az 1. melléklet A) rész 1. pont 1.12. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § f) pontja szerint módosított szöveg.
@@ -93,8 +97,10 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^19]: Az 1. melléklet A) rész 1. pont 1.23. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) pontja szerint módosított szöveg.
 [^20]: Az 1. melléklet A) rész 1. pont 1.24. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) pontja szerint módosított szöveg.
 [^21]: Az 1. melléklet A) rész 1. pont 1.25. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § b) pontja szerint módosított szöveg.
-[^22]: Az 1. melléklet A) rész 1. pont 1.26. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) és h) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet A) rész 1. pont 1.26. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) és h) pontja, a 11/2020. (VIII. 3.) IM rendelet 1. §-a szerint módosított szöveg.
 [^23]: Az 1. melléklet A) rész 1. pont 1.27. alpontja a 12/2019. (IV. 12.) IM rendelet 6. § c) pontja szerint módosított szöveg.
-[^24]: Az 1. melléklet B) rész 1. pontját a 26/2016. (XII. 27.) IM rendelet 20. §-a hatályon kívül helyezte.
-[^25]: Az 1. melléklet C) rész 1. pontját a 26/2016. (XII. 27.) IM rendelet 20. §-a hatályon kívül helyezte.
-[^26]: Az 1. melléklet D) rész 1. pontját a 27/2016. (XII. 27.) IM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^24]: Az 1. melléklet A) rész 1. pont 1.28. alpontját a 11/2020. (VIII. 3.) IM rendelet 1. §-a iktatta be.
+[^25]: Az 1. melléklet A) rész 1. pont 1.29. alpontját a 11/2020. (VIII. 3.) IM rendelet 1. §-a iktatta be.
+[^26]: Az 1. melléklet B) rész 1. pontját a 26/2016. (XII. 27.) IM rendelet 20. §-a hatályon kívül helyezte.
+[^27]: Az 1. melléklet C) rész 1. pontját a 26/2016. (XII. 27.) IM rendelet 20. §-a hatályon kívül helyezte.
+[^28]: Az 1. melléklet D) rész 1. pontját a 27/2016. (XII. 27.) IM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
