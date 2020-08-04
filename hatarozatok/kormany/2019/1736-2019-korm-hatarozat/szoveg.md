@@ -22,11 +22,11 @@ Határidő: azonnal
 
 4.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2020. évben a Gazdaságfejlesztést szolgáló célelőirányzat terhére vállalható kötelezettség mértékét a 2021–2031 közötti évekre az alábbiak szerint állapítja meg:
 
-a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 6200 millió forint,
+a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 11 000 millió forint,
 
-b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 5000 millió forint,
+b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 9600 millió forint,
 
-c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 4800 millió forint,
+c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 6000 millió forint,
 
 d) a 2024–2031. évekre vonatkozó kötelezettségvállalások felső korlátja évente 4000 millió forint.
 
@@ -50,4 +50,4 @@ Határidő: a források 75%-ának lekötését követő harminc napon belül
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont az 1194/2020. (IV. 30.) Korm. határozat 5. pontjával megállapított szöveg.
+[^1]: A 4. pont az 1467/2020. (VIII. 3.) Korm. határozat 3. pontjával megállapított szöveg.
