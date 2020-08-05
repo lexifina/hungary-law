@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-11-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-08-04 | 2020-11-20-06.1 | 11/2020. (VIII. 3.) IM rendelet |
+| 2020-08-05 | 2020-11-20-06.2 | 2010: CXXX. törvény |
