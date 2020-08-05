@@ -32,11 +32,11 @@ l. Letenye (Zala Megye)
 
 m. Letkés (Pest Megye)
 
-n. Makó (Csongrád Megye)
+n.[^26] Makó (Csongrád-Csanád Megye)
 
-o. Nagylak (Csongrád Megye)
+o.[^27] Nagylak (Csongrád-Csanád Megye)
 
-p.[^26] Nyírábrány (Hajdú-Bihar Megye)
+p.[^28] Nyírábrány (Hajdú-Bihar Megye)
 
 q. Nyírlugos (Szabolcs-Szatmár-Bereg Megye)
 
@@ -46,7 +46,7 @@ s. Rajka (Győr-Moson-Sopron Megye)
 
 t. Rédics (Zala Megye)
 
-u.[^27]
+u.[^29]
 
 v. Tiszabecs (Szabolcs-Szatmár-Bereg Megye)
 
@@ -78,18 +78,20 @@ h. Magyarország Főkonzulátusa, Szabadka
 
 i. Magyarország Főkonzulátusa, Ungvár
 
-j.[^28] Magyarország Főkonzulátusa, Eszék
+j.[^30] Magyarország Főkonzulátusa, Eszék
 
-k.[^29] Magyarország Nagykövetsége, Kijev
+k.[^31] Magyarország Nagykövetsége, Kijev
 
-l.[^30] Magyarország Főkonzulátusa, Lendva
+l.[^32] Magyarország Főkonzulátusa, Lendva
 
 [^22]: A 24. §-t a 27/2015. (X. 16.) IM rendelet 2. §-a iktatta be.
 [^23]: Az 1. melléklet 1. pont a. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
 [^24]: Az 1. melléklet 1. pont g. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
 [^25]: Az 1. melléklet 1. pont i. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^26]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
-[^27]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^28]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^29]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
-[^30]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^26]: Az 1. melléklet 1. pont n. alpontja a 12/2020. (VIII. 4.) IM rendelet 3. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet 1. pont o. alpontja a 12/2020. (VIII. 4.) IM rendelet 3. §-a szerint módosított szöveg.
+[^28]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
+[^29]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^30]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^31]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^32]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
