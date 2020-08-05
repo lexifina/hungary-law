@@ -14,7 +14,7 @@
 
 | 6. Borsod-Abaúj-Zemplén megye | 05 |
 
-| 7. Csongrád megye | 06 |
+| 7. Csongrád-Csanád megye | 06 |
 
 | 8. Fejér megye | 07 |
 

@@ -1894,4 +1894,4 @@
 
 2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^70]
 
-[^70]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 15. § (1) bekezdése alapján rendelkezéseit a 2006. július 1. napját követően indult ügyekben kell alkalmazni.
+[^70]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a szerint módosított szöveg.
