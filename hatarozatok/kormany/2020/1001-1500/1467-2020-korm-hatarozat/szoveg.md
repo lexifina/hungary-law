@@ -40,14 +40,6 @@ Határidő: a Széchenyi Turisztikai Kártya Program véglegesítését követő
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A Széchenyi Kártya Program egyes konstrukciói támogatásának folytatásáról szóló 1736/2019. (XII. 19.) Korm. határozat 4. pontja helyébe a következő rendelkezés lép:
+3.[^1]
 
-„4. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2020. évben a Gazdaságfejlesztést szolgáló célelőirányzat terhére vállalható kötelezettség mértékét a 2021–2031 közötti évekre az alábbiak szerint állapítja meg:
-
-a) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 11 000 millió forint,
-
-b) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 9600 millió forint,
-
-c) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 6000 millió forint,
-
-d) a 2024–2031. évekre vonatkozó kötelezettségvállalások felső korlátja évente 4000 millió forint.”
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
