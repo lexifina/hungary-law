@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-424-20-
 | 2016-12-06 | 2015-424-20-22.2 | 398/2016. (XII. 5.) Korm. rendelet |
 | 2018-01-01 | 2015-424-20-22.3 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-06-06 | 2015-424-20-22.4 | 133/2019. (VI. 5.) Korm. rendelet |
+| 2020-08-05 | 2015-424-20-22.5 | 382/2020. (VIII. 4.) Korm. rendelet |

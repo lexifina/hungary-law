@@ -1,15 +1,14 @@
-## 3. Akkreditáló bizottság és értékelő csoport
+## 3. [^4] Az opponensek és értékelő csoport
 
-4. § (1) A Natv. 6. § (3) bekezdésében meghatározott akkreditáló bizottság elnökből és a Natv. 5. § (1) bekezdése szerinti akkreditálási területen szakértelemmel rendelkező, legfeljebb 22 természetes személy tagból áll. Az akkreditáló bizottságban minden, a Natv. 5. § (1) bekezdése szerinti akkreditálási területnek legalább két szakértője kell, hogy legyen.
+4. §[^5] (1) A Hatóság a Natv. 6. § (3) bekezdésében meghatározott opponenst a 7. § (2) bekezdésében meghatározott feltételeknek megfelelő, a 7. § (4) bekezdése szerinti szakértők közül rendeli ki. Opponensként a Natv. 5. § (1) bekezdése szerinti kérelemmel érintett területen szakértelemmel rendelkező személy rendelhető ki.
 
-(2)[^4] Az akkreditáló bizottság elnökét és tagjait az elnök nevezi ki határozatlan időre.
+(2) A Hatóság az akkreditálási eljárás döntéshozatali szakaszában az értékelő csoport létszámának legalább 30%-ának megfelelő, de legfeljebb négy fő opponenst jelöl ki.
 
-(3) Az akkreditáló bizottság döntéseinek meghozatalában az akkreditáló bizottság elnöke és a szakterületen szakértelemmel rendelkező tagjai, de legalább további tizenegy tag vesz részt. Az akkreditáló bizottság ülését az akkreditáló bizottság elnöke hívja össze.
+(3) Az opponens az eljárása során a szakmai szempontok és a Natv.-ben meghatározott alapelvek – különösen a pártatlanság alapelvének – figyelembevételével jár el.
 
-(4) Az akkreditáló bizottságnak és tagjainak feladataik ellátása körében utasítás nem adható.
+(4) Az opponensnek a szakvélemény szakmai megállapításaival összefüggésben utasítás nem adható.
 
-(5) Az akkreditáló bizottság legalább hetente ülésezik, döntéseit egyszerű szótöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt.
+(5) Az opponenseket együttesen megillető díjazás mértéke az adott eljárásért fizetett igazgatási szolgáltatási díj 4,5%-a.
 
-(6) Az akkreditáló bizottság tagjait díjazás illeti meg. Az akkreditáló bizottság tagjának díja nem haladhatja meg az eljárásért fizetett igazgatási szolgáltatási díj 1%-át, az akkreditáló bizottság tagjainak díjazása pedig összesen nem haladhatja meg az eljárásért fizetett igazgatási szolgáltatási díj 4,5%-át.
-
-[^4]: A 4. § (2) bekezdése a 133/2019. (VI. 5.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^4]: A 3. alcím címe a 382/2020. (VIII. 4.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § a 382/2020. (VIII. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
