@@ -1,0 +1,29 @@
+1. A Modern Városok Program keretében a veszprémi Atlétikai Stadion komplex megújításának I. ütemeként megvalósuló új tornász gyakorló csarnok építéséhez szükséges támogatás biztosításáról szóló 1297/2020. (VI. 11.) Korm. határozat (a továbbiakban: Korm. határozat) 1–3. pontjának helyébe a következő rendelkezések lépnek:
+
+[A Kormány a Magyarország Kormánya és Veszprém Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1284/2016. (VI. 7.) Korm. határozat 4. pont d) alpontjának megvalósítása érdekében]
+
+„1. egyetért a veszprémi Atlétikai Stadion komplex megújításának I. ütemeként egy új tornász gyakorló csarnok (a továbbiakban: Beruházás) Veszprém Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) általi megvalósításával, és azzal, hogy a Beruházás megvalósítására az Önkormányzat mint kedvezményezett részére a 2020. évben 957 296 174 forint költségvetési támogatás kerüljön biztosításra;
+
+2. egyetért azzal, hogy a Beruházás megvalósításához a 2020. évben szükséges 1. pont szerinti forrás a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére kerüljön biztosításra az Önkormányzat mint kedvezményezett részére;
+
+3. felhívja a Miniszterelnökséget vezető minisztert, hogy az 1. pont szerinti költségvetési támogatás biztosítására, a költségvetési támogatás felhasználására, valamint az elszámolás részletes feltételeinek meghatározására vonatkozóan adjon ki az Önkormányzat részére támogatói okiratot, továbbá
+
+a) az 1. pont szerinti költségvetési támogatást a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, az Önkormányzat részére támogatási előlegként folyósítsa,
+
+b) a Beruházás tekintetében a támogatás nyújtása során gondoskodjon arról, hogy az Önkormányzat kötelezettséget vállaljon az állami beruházások központi nyilvántartásáról és ellenőrzéséről szóló 1830/2016. (XII. 23.) Korm. határozat 3. pontjában foglaltak teljesítésére;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a támogatói okirat kiadása tekintetében azonnal
+
+az a) alpont tekintetében a támogatói okirat hatálybalépését követő 30 napon belül
+
+a b) alpont tekintetében a támogatói okirat kiadásakor”
+
+2. A Korm. határozat az alábbi 4. ponttal egészül ki:
+
+„4. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pontban foglaltak tekintetében összesen 603 576 213 forint többletforrás rendelkezésre állásáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport javára.
+
+Felelős: pénzügyminiszter
+
+Határidő: azonnal”
