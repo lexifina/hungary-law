@@ -1,1 +1,0 @@
-A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 47. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (1) bekezdés 22. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
