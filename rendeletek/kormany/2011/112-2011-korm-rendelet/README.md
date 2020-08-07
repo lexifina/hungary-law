@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-112-20-
 | 2018-10-01 | 2011-112-20-22.23 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2020-01-01 | 2011-112-20-22.24 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-21 | 2011-112-20-22.25 | 36/2020. (III. 5.) Korm. rendelet |
+| 2020-08-07 | 2011-112-20-22.26 | 356/2020. (VII. 23.) Korm. rendelet |

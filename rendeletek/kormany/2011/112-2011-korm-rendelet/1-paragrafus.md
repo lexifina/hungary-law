@@ -50,6 +50,8 @@ p)[^11] indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgála
 
 (3)[^13] A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények engedélyesei információt és adatokat szolgáltatnak az OAH-nak a hatáskörébe utalt, az (1) bekezdés e) és o) pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
 
+(4)[^14] Az OAH az atomenergia biztonságos alkalmazásával kapcsolatos kötelezettségek alapján hatékony irányítási rendszert hoz létre és tart fenn, amelynek keretében az Atv.-ben meghatározott alapvető biztonsági célkitűzés elérése érdekében olyan intézkedéseket hoz, amelyek a szervezet minden szintjén elősegítik a kérdésfelvető és tanuló magatartást.
+
 [^1]: Az 1. § (1) bekezdés f) pontja a 216/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés g) pontja a 216/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés h) pontját a 216/2013. (VI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
@@ -63,3 +65,4 @@ p)[^11] indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgála
 [^11]: Az 1. § (1) bekezdés p) pontját a 36/2020. (III. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^12]: Az 1. § (2) bekezdése a 216/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^13]: Az 1. § (3) bekezdését a 225/2017. (VIII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^14]: Az 1. § (4) bekezdését a 356/2020. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
