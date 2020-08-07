@@ -4,9 +4,9 @@
 
 ## 38. Ellenőrzés
 
-81. § (1)[^82] Az állami adó- és vámhatóság a Jöt.-ben és e rendeletben foglalt szabályok betartását az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti adóellenőrzésnek nem minősülő ellenőrzés keretében az Air. szerinti jogkövetési vizsgálat szabályainak alkalmazásával ellenőrzi. E bekezdés alkalmazásában valamennyi kötelezettséget adókötelezettségnek kell tekinteni.
+81. § (1)[^88] Az állami adó- és vámhatóság a Jöt.-ben és e rendeletben foglalt szabályok betartását az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti adóellenőrzésnek nem minősülő ellenőrzés keretében az Air. szerinti jogkövetési vizsgálat szabályainak alkalmazásával ellenőrzi. E bekezdés alkalmazásában valamennyi kötelezettséget adókötelezettségnek kell tekinteni.
 
-(2)[^83]
+(2)[^89]
 
-[^82]: A 81. § (1) bekezdése a 47/2017. (XII. 27.) NGM rendelet 10. §-ával megállapított szöveg.
-[^83]: A 81. § (2) bekezdését a 15/2018. (XII. 18.) PM rendelet 8. § 3. pontja hatályon kívül helyezte.
+[^88]: A 81. § (1) bekezdése a 47/2017. (XII. 27.) NGM rendelet 10. §-ával megállapított szöveg.
+[^89]: A 81. § (2) bekezdését a 15/2018. (XII. 18.) PM rendelet 8. § 3. pontja hatályon kívül helyezte.

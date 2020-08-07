@@ -1,4 +1,4 @@
-21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^127]
+21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^150]
 
 ## A zárjegyek leírása
 
@@ -144,4 +144,4 @@ legalább 70, legfeljebb 85µm vastag.
 
 5.6. Csomagolási egység: 50 darab ív, ívenként 30 darab zárjegy, dobozba rakva.
 
-[^127]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított és a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^150]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított és a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése szerint módosított szöveg.

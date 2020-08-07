@@ -36,10 +36,10 @@ b) az eltávolított repülőgép-üzemanyag légijárműbe történő visszatö
 
 c) az eltávolított repülőgép-üzemanyag elszállítása esetén az üzemanyagot átvevő megnevezését, a szállítási bizonylat sorszámát, az üzemanyag mennyiségi adatait és az elszállítás időpontját.
 
-(9)[^33]
+(9)[^36]
 
 (10) A műszaki biztonsági hatóság a lakossági energiafogyasztó által létesített sűrített gáztöltő berendezés üzembe helyezéséről soron kívül tájékoztatja az állami adó- és vámhatóságot.
 
 (11) Ha a lakossági energiafogyasztó a Jöt. 52. §-a alapján tett bejelentésben szereplőnél több üzemanyagot állított elő, a különbözet mennyiségéről a sűrítés megtörténtét követő 3 munkanapon belül tájékoztatja az állami adó- és vámhatóságot.
 
-[^33]: A 32. § (9) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § b) pontja alapján nem lép hatályba.
+[^36]: A 32. § (9) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § b) pontja alapján nem lép hatályba.

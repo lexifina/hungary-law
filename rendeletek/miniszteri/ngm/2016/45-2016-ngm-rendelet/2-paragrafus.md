@@ -46,7 +46,9 @@ o)[^6] a Jöt. 92. § (1) bekezdés a) pontja szerinti esetben a hatósági erk�
 
 p)[^7] jogi személy jogutódlása esetén a cégbírósághoz benyújtott cégbejegyzés vagy változásbejegyzés iránti kérelem másolatát,
 
-q)[^8] öröklés esetén az elhunyt engedélyes halotti anyakönyvi kivonatának és az örökös adóraktárra vonatkozó használati jogcímének megállapítására alkalmas okirat másolatát.
+q)[^8] öröklés esetén az elhunyt engedélyes halotti anyakönyvi kivonatának és az örökös adóraktárra vonatkozó használati jogcímének megállapítására alkalmas okirat másolatát,
+
+r)[^9] a 21. § (2a) bekezdés szerinti tevékenység engedélyezése iránti kérelem esetén az előállítási célt igazoló irat másolatát.
 
 (3) Az engedélyt kérőnek az engedélyezési feltételek helyszíni hatósági ellenőrzésekor a helyszínen rendelkeznie kell az alábbi dokumentumokkal és azok másolatát a helyszíni ellenőrzés alkalmával elektronikus formában az állami adó- és vámhatóság rendelkezésére kell bocsátania:
 
@@ -83,3 +85,4 @@ c) – a 19. § szerinti esetben – csatolni kell az egyszerűsített adórakt�
 [^6]: A 2. § (2) bekezdés o) pontját az 5/2017. (III. 30.) NGM rendelet 3. § (3) bekezdése iktatta be, a 47/2017. (XII. 27.) NGM rendelet 13. § 1. pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés p) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
 [^8]: A 2. § (2) bekezdés q) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
+[^9]: A 2. § (2) bekezdés r) pontját a 7/2020. (VII. 30.) PM rendelet 1. §-a iktatta be.

@@ -1,8 +1,8 @@
-4. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^121]
+4. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^143]
 
 ## Jövedéki kiskereskedő által üzemanyagtöltő állomás forgalmáról vezetett nyilvántartás adattartalma
 
-1. Üzemanyag fajtája (benzin, gázolaj, E85, LPG, CNG)
+1.[^144] Üzemanyag fajtája (benzin, gázolaj, E85, LPG, CNG, LNG)
 
 2. Mennyiségi egysége (liter, kg)
 
@@ -38,4 +38,5 @@
 
 6. Zárókészlet
 
-[^121]: A 4. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^143]: A 4. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^144]: A 4. melléklet 1. pontja a 7/2020. (VII. 30.) PM rendelet 11. § c) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 48. §[^58]
+## 48. §[^63]
 
 ## 16. Szemledíj, költségtérítés
 
@@ -10,20 +10,20 @@
 
 (4) Ha az állami adó- és vámhatóság hivatalos helyén kívüli helyre kért eljárás az állami adó- és vámhatóságnak felróható okból 1 órát meghaladó várakozás után kezdhető meg vagy folytatható, szemledíjat az állami adó- és vámhatóság nem állapíthat meg.
 
-(5)[^59] A kérelmezőnek felróható okból meghiúsult eljárás esetén – ha a szemledíj összegét az adózó vitatja – az esetről készített jegyzőkönyvnek tartalmaznia kell a szemle elmaradásának okát és a várakozás idejét (óra perctől óra percig), valamint a felmerült kiküldetési költséget. A 10 000 forint szemledíjat akkor is meg kell fizetni, ha a várakozás az egy órát nem haladja meg. Meghiúsult eljárásnak kell tekinteni, ha a szemle kért helyén a kérelmező nem jelenik meg.
+(5)[^64] A kérelmezőnek felróható okból meghiúsult eljárás esetén – ha a szemledíj összegét az adózó vitatja – az esetről készített jegyzőkönyvnek tartalmaznia kell a szemle elmaradásának okát és a várakozás idejét (óra perctől óra percig), valamint a felmerült kiküldetési költséget. A 10 000 forint szemledíjat akkor is meg kell fizetni, ha a várakozás az egy órát nem haladja meg. Meghiúsult eljárásnak kell tekinteni, ha a szemle kért helyén a kérelmező nem jelenik meg.
 
-(6)[^60] Az állami adó- és vámhatóság a Jöt. 85. § (1) bekezdése szerinti vizsgálati díj, szállítási, kiszállítási és egyéb költség előre meghatározható összegeit tájékoztatásban teszi közzé, és a közzétett tájékoztatásban foglaltakra figyelemmel hoz döntést a felmerült költségekről.
+(6)[^65] Az állami adó- és vámhatóság a Jöt. 85. § (1) bekezdése szerinti vizsgálati díj, szállítási, kiszállítási és egyéb költség előre meghatározható összegeit tájékoztatásban teszi közzé, és a közzétett tájékoztatásban foglaltakra figyelemmel hoz döntést a felmerült költségekről.
 
-(7)[^61] Az állami adó- és vámhatóság annak, aki átlagosan havonta legalább tíz alkalommal kér költségtérítés és szemledíj megfizetésével járó eljárást, engedélyezheti, hogy a költségtérítést és a szemledíjat havonta összesítve fizesse meg. Ebben az esetben az állami adó- és vámhatóság a tárgyhónapban végzett eljárásai után fizetendő költségtérítésről és szemledíjról szóló határozatát a tárgyhónapot követő 3 munkanapon belül hozza meg. Az állami adó- és vámhatóság visszavonhatja a havi költségtérítés és szemledíj fizetésére vonatkozó engedélyét, ha az engedélyes fizetési kötelezettségének nem tesz eleget.
+(7)[^66] Az állami adó- és vámhatóság annak, aki átlagosan havonta legalább tíz alkalommal kér költségtérítés és szemledíj megfizetésével járó eljárást, engedélyezheti, hogy a költségtérítést és a szemledíjat havonta összesítve fizesse meg. Ebben az esetben az állami adó- és vámhatóság a tárgyhónapban végzett eljárásai után fizetendő költségtérítésről és szemledíjról szóló határozatát a tárgyhónapot követő 3 munkanapon belül hozza meg. Az állami adó- és vámhatóság visszavonhatja a havi költségtérítés és szemledíj fizetésére vonatkozó engedélyét, ha az engedélyes fizetési kötelezettségének nem tesz eleget.
 
 (8) Az állami adó- és vámhatóság által végzett vizsgálat díjait az állami adó- és vámhatóság tájékoztatásban teszi közzé.
 
 (9) Kérelemre végzett kötelező érvényű KN-kód besorolás esetén a termékminta szolgáltatásának, valamint az állami adó- és vámhatóság által elvégzett vizsgálatnak a költsége a kérelmezőt terheli. A költségtérítés mértékéről, megfizetésének módjáról az állami adó- és vámhatóság végzést hoz.
 
-(10)[^62] A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történt tárolásáért – a Jöt. 102. § (4) bekezdése szerinti esetben és időszakra – megkezdett naponként és 10 kilogrammonként 220 forint tárolási költséget kell fizetni.
+(10)[^67] A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történt tárolásáért – a Jöt. 102. § (4) bekezdése szerinti esetben és időszakra – megkezdett naponként és 10 kilogrammonként 220 forint tárolási költséget kell fizetni.
 
-[^58]: A 48. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 13. pontja hatályon kívül helyezte.
-[^59]: A 49. § (5) bekezdése a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
-[^60]: A 49. § (6) bekezdése az 5/2017. (III. 30.) NGM rendelet 15. §-ával megállapított szöveg.
-[^61]: A 49. § (7) bekezdése a 47/2017. (XII. 27.) NGM rendelet 6. §-ával megállapított szöveg.
-[^62]: A 49. § (10) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 14. pontja hatályon kívül helyezte, újonnan a 15/2018. (XII. 18.) PM rendelet 2. §-a iktatta be.
+[^63]: A 48. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 13. pontja hatályon kívül helyezte.
+[^64]: A 49. § (5) bekezdése a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^65]: A 49. § (6) bekezdése az 5/2017. (III. 30.) NGM rendelet 15. §-ával megállapított szöveg.
+[^66]: A 49. § (7) bekezdése a 47/2017. (XII. 27.) NGM rendelet 6. §-ával megállapított szöveg.
+[^67]: A 49. § (10) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 14. pontja hatályon kívül helyezte, újonnan a 15/2018. (XII. 18.) PM rendelet 2. §-a iktatta be.

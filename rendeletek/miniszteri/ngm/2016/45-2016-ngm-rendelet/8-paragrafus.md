@@ -1,4 +1,4 @@
-## 7. §[^12]
+## 7. §[^13]
 
 ## 3. Jövedéki biztosíték
 
@@ -36,9 +36,9 @@ e) a (6) bekezdés szerinti kötelezettségvállalást.
 
 (12) A kezességvállalás formájában nyújtott jövedéki biztosíték esetén vagy ha az adófelfüggesztéssel történő termékszállításhoz az adóraktár engedélyese vagy a bejegyzett feladó helyett a Jöt. 18. § (12) bekezdése szerinti személy nyújt jövedéki biztosítékot, az állami adó- és vámhatóság a döntését a kérelmezőnek megküldéssel egyidejűleg megküldi az adóraktár engedélyesének vagy a bejegyzett feladónak. Az adóraktár engedélyese vagy a bejegyzett feladó az adófelfüggesztési eljárás keretében feladandó szállítmány beazonosítása érdekében az e-TKO tervezeten feltünteti a jövedéki biztosíték átvállalását engedélyező határozat számát is.
 
-(13)[^13]
+(13)[^14]
 
 (14) A kezességvállalás alapján elkülönített biztosítékösszeg felszabadításáról az állami adó- és vámhatóság elektronikus értesítést küld a kezességvállaló részére.
 
-[^12]: A 7. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 3. pontja hatályon kívül helyezte.
-[^13]: A 8. § (13) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § a) pontja alapján nem lép hatályba.
+[^13]: A 7. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 3. pontja hatályon kívül helyezte.
+[^14]: A 8. § (13) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § a) pontja alapján nem lép hatályba.

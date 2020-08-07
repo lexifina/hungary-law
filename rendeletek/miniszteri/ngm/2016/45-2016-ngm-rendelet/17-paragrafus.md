@@ -1,4 +1,4 @@
-17. § (1) Az adóraktár engedélyese az előállított szesz mennyiségének mérésére hitelesített szeszmérő gépet alkalmaz.
+17. § (1)[^21] Az adóraktár engedélyese az előállított szesz mennyiségének mérésére – a 21. § (2a) bekezdése szerinti termék kivételével – hitelesített szeszmérő gépet alkalmaz.
 
 (2) Az adóraktárban a szeszmérő gépet pontos mérést biztosító módon, az állami adó- és vámhatóság jelenlétében kell fel- vagy leszerelni.
 
@@ -18,6 +18,7 @@ c) a próbaszesz számított és tényleges mennyisége közötti különbözet 
 
 (7) Az állami adó- és vámhatóság a (6) bekezdés a) és b) pontja alapján hozott döntéséről a mérésügyi szervet értesíti.
 
-(8)[^20] A (6) bekezdés szerinti döntés elleni fellebbezés tárgyában az állami adó- és vámhatóság felettes szerve 3 napon belül dönt, a másodfokú döntés véglegessé válásáig a szeszmérő gép nem használható.
+(8)[^22] A (6) bekezdés szerinti döntés elleni fellebbezés tárgyában az állami adó- és vámhatóság felettes szerve 3 napon belül dönt, a másodfokú döntés véglegessé válásáig a szeszmérő gép nem használható.
 
-[^20]: A 17. § (8) bekezdése a 47/2017. (XII. 27.) NGM rendelet 13. § 4. pontja szerint módosított szöveg.
+[^21]: A 17. § (1) bekezdése a 7/2020. (VII. 30.) PM rendelet 12. § 1. pontja szerint módosított szöveg.
+[^22]: A 17. § (8) bekezdése a 47/2017. (XII. 27.) NGM rendelet 13. § 4. pontja szerint módosított szöveg.

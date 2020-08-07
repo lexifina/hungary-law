@@ -2,7 +2,7 @@
 
 93/Q. § (1) A hivatalos zárat egyedi azonosító jellel, sorszámmal és hamisítás elleni védelemmel vagy – nem papíralapú eszköz esetében – el nem távolítható, át nem javítható egyedi feliratozással kell ellátni.
 
-(2)[^94]
+(2)[^108]
 
 (3) Az eszköz hivatalos zárként történő elfogadására és a hivatalos zár előállításának engedélyezése iránti kérelemhez csatolni kell:
 
@@ -32,4 +32,4 @@ e) a 15. mellékletben előírt adattartalmú nyilvántartás mintáját, szám�
 
 (11) A hivatalos zár előállítója az állami adó- és vámhatóság felé adatszolgáltatását hivatalos zár felhasználónkénti, zártípusonkénti és azon belül sorszámtartományonkénti részletezéssel az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon teljesíti.
 
-[^94]: A 93/Q. § (2) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 19. pontja hatályon kívül helyezte.
+[^108]: A 93/Q. § (2) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 19. pontja hatályon kívül helyezte.
