@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-126-20-
 | 2017-11-10 | 2016-126-20-22.6 | 335/2017. (XI. 9.) Korm. rendelet |
 | 2018-04-28 | 2016-126-20-22.7 | 85/2018. (IV. 20.) Korm. rendelet |
 | 2018-11-28 | 2016-126-20-22.8 | 218/2018. (XI. 27.) Korm. rendelet |
+| 2020-08-07 | 2016-126-20-22.9 | 377/2020. (VII. 30.) Korm. rendelet |

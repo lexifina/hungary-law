@@ -4,4 +4,6 @@ a) valamennyi szervezet köteles az IMIR 2014–2020 rendszert használni a vég
 
 b) nemzeti hatóság, hitelesítési tevékenységre kijelölt szervezet és a pénzügyi átutalási egység köteles az a) pont szerinti informatikai rendszerhasználat mellett a NAHU 2014–2020 rendszert is használni a nemzeti funkciók teljes körű ellátása érdekében.
 
-(2) Az 1. § c), e) és f) pontja szerinti együttműködési program végrehajtásában részt vevő szervezet köteles a NAHU 2014–2020 rendszert használni a hazai társfinanszírozási szerződés és megelőlegezési szerződés, valamint a kifizetés és visszafizetés kezelésére.
+(2)[^181] Az 1. § c), e) és f) pontja szerinti együttműködési program végrehajtásában részt vevő szervezet köteles a NAHU 2014–2020 rendszert használni a hazai társfinanszírozási szerződés és megelőlegezési szerződés, illetve az azokkal kapcsolatos kifizetések és visszafizetések kezelésére.
+
+[^181]: A 69. § (2) bekezdése a 377/2020. (VII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.

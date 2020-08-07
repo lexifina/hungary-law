@@ -16,7 +16,7 @@
 
 6.[^1] hazai kedvezményezett: a határon átnyúló együttműködési programok keretében, több jogi személy által közösen megvalósítandó projekt esetén az adott projektrész megvalósításáért a partnerségi megállapodásban meghatározott kötelezettséget viselő, uniós támogatásban részesülő hazai fél vagy hazai székhelyű európai területi társulás,
 
-7.[^2] hazai társfinanszírozás: az uniós támogatás hazai kedvezményezettje, hazai TA kedvezményezettje, az információs pont feladatot ellátó külföldi TA kedvezményezettje, illetve az 1. § f) pontja szerinti együttműködési programban a külföldi irányító hatóság részére nyújtott vissza nem térítendő hazai támogatás,
+7.[^2] hazai társfinanszírozás: az uniós támogatás hazai kedvezményezettje, hazai TA kedvezményezettje, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezettje, illetve az 1. § f) pontja szerinti együttműködési programban a külföldi irányító hatóság részére nyújtott vissza nem térítendő hazai támogatás,
 
 8.[^3] hazai társfinanszírozási támogatási szerződés: az uniós támogatás hazai kedvezményezettje, illetve az 1. § c), e) és f) pontja szerinti együttműködési program esetén a hazai TA kedvezményezettje részére nyújtott vissza nem térítendő hazai támogatás vonatkozásában megkötött támogatási szerződés,
 
@@ -32,17 +32,21 @@
 
 14.[^5] IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok és azok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló informatikai rendszer, ide nem értve a NAHU 2014–2020 rendszer által kezelt nemzeti feladatokat,
 
-15.[^6] információs pont: az 1. § szerinti együttműködési program hatékony lebonyolítását szakmailag támogató szervezet,
+15.[^6] információs pont: az 1. § szerinti együttműködési programok hatékony lebonyolítását szakmailag támogató szervezet,
 
 16. irányító hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése szerinti tevékenységet ellátó szervezet,
 
-16a.[^7] kisprojekt: az 1. § d) pontja szerinti együttműködési programban megvalósuló Kisprojekt Alap keretében finanszírozott projekt,
+16a.[^7] kisprojekt: az 1. § d) pontja szerinti együttműködési programban megvalósuló Kisprojekt Alap keretében finanszírozott olyan projekt, melynek kedvezményezettje nem Kisprojekt Alap menedzsment szervezet,
 
-16b.[^8] Kisprojekt Alap: az 1. § d) pontja szerinti együttműködési programban megvalósuló támogatási struktúra, amelyben a rendelkezésre álló forrás kisprojektek részére történő pályázati célú meghirdetését és a struktúra működtetését a monitoring bizottság által kiválasztott menedzsment szervezetek kedvezményezettként végzik,
+16b.[^8] Kisprojekt Alap: az 1. § d) pontja szerinti együttműködési programban megvalósuló önálló támogatási struktúra,
+
+16c.[^9] Kisprojekt Alap menedzsment szervezet: a Kisprojekt Alap keretében rendelkezésre álló forrás kisprojektek részére történő pályáztatásának lebonyolításáért, illetve végrehajtásáért felelős szervezet, mely részt vesz az 1. § d) pontja szerinti együttműködési program monitoring bizottsága által, pályáztatás során kiválasztott projektben,
+
+16d.[^10] kis értékű követelés: a harminc eurót meg nem haladó hazai társfinanszírozásra vonatkozó követelés, valamint a tízezer forintot meg nem haladó uniós támogatás megelőlegezésre vonatkozó követelés,
 
 17. költségigazolás: az igazoló hatóság által végzett igazolási tevékenységek,
 
-18.[^9] költségigazoló nyilatkozat: az igazoló hatóság által kiállított, az 1. § a), b) és d) pontja szerinti együttműködési programonként felmerült költség igazolására irányuló nyilatkozat,
+18.[^11] költségigazoló nyilatkozat: az igazoló hatóság által kiállított, az 1. § a), b) és d) pontja szerinti együttműködési programonként felmerült költség igazolására irányuló nyilatkozat,
 
 19. közös titkárság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (2) bekezdése és a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése szerinti szervezet,
 
@@ -52,7 +56,7 @@
 
 22. monitoring: a források felhasználása, az eredmények és a teljesítmény mindenre kiterjedő – így különösen szabályossági, hatékonysági és célszerűségi szempontból történő – nyomon követése rendszeres jelleggel projekt, illetve program szinten,
 
-22a.[^10] NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak nemzeti feladatai ellátását támogató informatikai rendszer,
+22a.[^12] NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak nemzeti feladatai ellátását támogató informatikai rendszer,
 
 23. négy szem elve: valamely feladatot ellátó személy munkájának egy másik személy általi – ugyanazon szempontok szerint, ismételt és teljes körű – ellenőrzése,
 
@@ -60,21 +64,23 @@
 
 25. partnerország: a határon átnyúló együttműködési programok végrehajtásában résztvevő tagállam vagy harmadik ország,
 
-26.[^11]
+26.[^13] pénzügyi hiba: uniós vagy nemzeti jogszabályok előírásainak, illetve az uniós támogatási szerződésben, hazai társfinanszírozási támogatási szerződésben, TA támogatási szerződésben vállalt kötelezettségeknek a megsértése, ami miatt az irányító hatóság vagy az igazoló hatóság még az előtt végez korrekciót, hogy az érintett költség bekerült volna az Európai Bizottságnak benyújtott kifizetési kérelembe, és e korrekció nem minősül az 1303/2013/EU európai parlamenti és tanácsi rendelet 143. cikk (2) bekezdésében meghatározott pénzügyi korrekciónak,
 
-27.[^12] programszámla: az 1299/2013/EU európai parlamenti és tanácsi rendelet 27. cikk (1) bekezdése szerinti, az uniós támogatások és a külföldi partnerországi TA társfinanszírozás fogadása, valamint a kifizetések lebonyolítása céljából az 1. § a), b) és d) pontja szerinti együttműködési program igazoló hatósága által nyitott, euró devizanemű pénzforgalmi számla, amely felett az igazoló hatóság rendelkezik,
+27.[^14] programszámla: az 1299/2013/EU európai parlamenti és tanácsi rendelet 27. cikk (1) bekezdése szerinti, az uniós támogatások és a külföldi partnerországi TA társfinanszírozás fogadása, valamint a kifizetések lebonyolítása céljából az 1. § a), b) és d) pontja szerinti együttműködési program igazoló hatósága által nyitott, euró devizanemű pénzforgalmi számla, amely felett az igazoló hatóság rendelkezik,
 
 28. projekt: uniós támogatási szerződés keretében finanszírozott, meghatározott célok megvalósítására irányuló tevékenységek sorozata egy előre meghatározott költségvetési és időkereten belül,
 
+28a.[^15] projektrész: a projekt keretében megvalósuló azon tevékenységek összessége, amely hozzárendelhető a projektben részt vevő adott kedvezményezetthez,
+
 29. rendszerszintű szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 38. pontjában meghatározott fogalom,
 
-30. szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontja, a nemzeti jogszabályok, illetve az uniós támogatási szerződésben, a hazai társfinanszírozási támogatási szerződésben, illetve a megelőlegezési szerződésben a felek által vállalt kötelezettségek megsértése, amelyeknek eredményeként Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
+30.[^16] szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontja szerint meghatározott fogalom, a nemzeti jogszabályok előírásainak, illetve az uniós támogatási szerződésben, a hazai társfinanszírozási támogatási szerződésben vagy a TA támogatási szerződésben a hazai kedvezményezett vagy hazai TA kedvezményezett által vállalt kötelezettségeknek a megsértése, amelynek eredményeképpen Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek, ha az érintett költséget az Európai Bizottságnak benyújtott kifizetési kérelem már tartalmazza,
 
-31.[^13] tagállami helytállás: olyan hazai költségvetésből finanszírozott összeg, amelyet az 1. § c), e) és f) pontja szerinti együttműködési program esetén a külföldi irányító hatóság, az 1. § a), b) és d) pontja szerinti együttműködési program esetén a hazai irányító hatóság részére szükséges biztosítani, ha valamely projektben résztvevő hazai kedvezményezett az általa jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését a vezető kedvezményezett részére elmulasztja vagy a hazai vezető kedvezményezett az általa jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését az irányító hatóság részére elmulasztja,
+31.[^17] tagállami helytállás: olyan hazai költségvetésből finanszírozott összeg, amelyet az 1. § c), e) és f) pontja szerinti együttműködési program esetén a külföldi irányító hatóság, az 1. § a), b) és d) pontja szerinti együttműködési program esetén a hazai irányító hatóság részére szükséges biztosítani, ha valamely projektben résztvevő hazai kedvezményezett az általa jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését a vezető kedvezményezett részére elmulasztja vagy a hazai vezető kedvezményezett az általa jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését az irányító hatóság részére elmulasztja,
 
-32.[^14] tagállami hozzájárulás: olyan hazai költségvetésből finanszírozott összeg, amelyet az 1. § c) és e) pontja szerinti együttműködési program esetén a nemzeti hatóság külön megállapodás alapján évente folyósít a külföldi irányító hatóság részére a közös finanszírozású külföldi és hazai TA projektek hazai forrásszükségletének fedezeteként,
+32.[^18] tagállami hozzájárulás: olyan hazai költségvetésből finanszírozott összeg, amelyet az 1. § c) és e) pontja szerinti együttműködési program esetén a nemzeti hatóság külön megállapodás alapján évente folyósít a külföldi irányító hatóság részére a közös finanszírozású külföldi és hazai TA projektek hazai forrásszükségletének fedezeteként,
 
-32a.[^15] pénzügyi átutalási egység: a nemzeti hatóság által megbízott azon szervezet, amely a hazai társfinanszírozás és a megelőlegezés hazai kedvezményezettek felé történő kifizetését, továbbá a visszakövetelésekkel kapcsolatos feladatokat végzi,
+32a.[^19] pénzügyi átutalási egység: a nemzeti hatóság által megbízott azon szervezet, amely a hazai társfinanszírozás és a megelőlegezés hazai kedvezményezettek felé történő kifizetését, továbbá a visszakövetelésekkel kapcsolatos feladatokat végzi,
 
 33. TA kedvezményezett: a TA projekt megvalósításának egészéért felelősséget viselő, annak vonatkozásában uniós támogatásban, valamint az adott TA projekt típusától függően partnerországi TA társfinanszírozásban, illetve hazai társfinanszírozásban részesülő fél,
 
@@ -91,17 +97,21 @@
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az 1299/2013/EU európai parlamenti és tanácsi rendelet, az 1303/2013/EU európai parlamenti és tanácsi rendelet, valamint a 447/2014/EU bizottsági végrehajtási rendelet szerint kell értelmezni.
 
 [^1]: A 3. § (1) bekezdés 6. pontja a 116/2017. (V. 19.) Korm. rendelet 11. § 1. pontja, a 268/2017. (IX. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^2]: A 3. § (1) bekezdés 7. pontja a 116/2017. (V. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (1) bekezdés 7. pontja a 116/2017. (V. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 377/2020. (VII. 30.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés 8. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés 10. pontja a 116/2017. (V. 19.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés 14. pontja a 218/2018. (XI. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (1) bekezdés 15. pontja a 223/2016. (VII. 22.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (1) bekezdés 16a. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^8]: A 3. § (1) bekezdés 16b. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 3. § (1) bekezdés 18. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^10]: A 3. § (1) bekezdés 22a. pontját a 218/2018. (XI. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^11]: A 3. § (1) bekezdés 26. pontját a 116/2017. (V. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^12]: A 3. § (1) bekezdés 27. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
-[^13]: A 3. § (1) bekezdés 31. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
-[^14]: A 3. § (1) bekezdés 32. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 6. pontja, a 116/2017. (V. 19.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
-[^15]: A 3. § (1) bekezdés 32a. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 268/2017. (IX. 12.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés 15. pontja a 223/2016. (VII. 22.) Korm. rendelet 8. § a) pontja, a 377/2020. (VII. 30.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés 16a. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés 16b. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdés 16c. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 3. § (1) bekezdés 16d. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 3. § (1) bekezdés 18. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés 22a. pontját a 218/2018. (XI. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^13]: A 3. § (1) bekezdés 26. pontját a 116/2017. (V. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte, újonnan a 377/2020. (VII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 3. § (1) bekezdés 27. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^15]: A 3. § (1) bekezdés 28a. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^16]: A 3. § (1) bekezdés 30. pontja a 377/2020. (VII. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^17]: A 3. § (1) bekezdés 31. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^18]: A 3. § (1) bekezdés 32. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 6. pontja, a 116/2017. (V. 19.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
+[^19]: A 3. § (1) bekezdés 32a. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 268/2017. (IX. 12.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
