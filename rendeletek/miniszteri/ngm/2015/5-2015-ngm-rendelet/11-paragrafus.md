@@ -20,10 +20,10 @@ c) a 7. § (1) bekezdés k) pontja szerinti adatot a terméket szállító gépj
 
 a) a 7. § (1) bekezdés g) pont ga) és gb) alpontja szerinti adatokat vagy további vámtarifaszámmal azonosított tételsort tüntethet fel a termék fuvarozásának megkezdéséig,
 
-b)[^13] a 7. § (1) bekezdés g) pont gc) alpontja, i) és j) pontja szerinti adatokat a termék fuvarozásának megkezdését követően a termék kirakodási (átvételi) helyre érkezésének bejelentéséig, valamint a termék kirakodási (átvételi) helyre érkezésének bejelentését követően az adózás rendjéről szóló törvényben a lezárt EKAER bejelentések módosítása tekintetében meghatározott időpontig.
+b)[^14] a 7. § (1) bekezdés g) pont gc) alpontja, i) és j) pontja szerinti adatokat a termék fuvarozásának megkezdését követően a termék kirakodási (átvételi) helyre érkezésének bejelentéséig, valamint a termék kirakodási (átvételi) helyre érkezésének bejelentését követően az adózás rendjéről szóló törvényben a lezárt EKAER bejelentések módosítása tekintetében meghatározott időpontig.
 
 (7) A (6) bekezdés szerinti módosítást az arra okot adó körülmény bekövetkezését követően haladéktalanul be kell jelenteni. Az állami adó- és vámhatóság által lefolytatott ellenőrzés során az EKAER szám alatt az aktuális, valós adatoknak kell szerepelniük, ezért a bejelentésre kötelezett tartozik felelősséggel.
 
 (8) Az EKAER szám a megállapításától számított 15 napig érvényes.
 
-[^13]: A 11. § (6) bekezdés b) pontja a 24/2019. (XII. 30.) PM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 11. § (6) bekezdés b) pontja a 24/2019. (XII. 30.) PM rendelet 1. §-ával megállapított szöveg.

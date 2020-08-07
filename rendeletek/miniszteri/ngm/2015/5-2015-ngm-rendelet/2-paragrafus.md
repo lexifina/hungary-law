@@ -1,4 +1,4 @@
-## 1. §[^1]
+## 1. §[^2]
 
 ## 2. § E rendelet alkalmazásában
 
@@ -66,4 +66,4 @@ c) belföldi feladási címről az Európai Unió más tagállamába található
 
 14. végfelhasználó: a terméket személyes szükséglet kielégítését meg nem haladó mennyiségben magánszükséglete kielégítésére való felhasználás céljából vásárló természetes személy.
 
-[^1]: Az 1. § a 24/2019. (XII. 30.) PM rendelet 7. §-a alapján hatályát vesztette.
+[^2]: Az 1. § a 24/2019. (XII. 30.) PM rendelet 7. §-a alapján hatályát vesztette.

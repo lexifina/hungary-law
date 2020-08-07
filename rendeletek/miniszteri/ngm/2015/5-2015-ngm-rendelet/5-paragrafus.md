@@ -18,7 +18,7 @@ c) kimutatást, amely tartalmazza a kérelmet megelőző naptári évben a mente
 
 d) minden egyéb olyan körülményt, mely a bejelentéssel járó aránytalan teher fennállását igazolja.
 
-(3)[^9] Az útszakasz-mentesítést az állami adó- és vámhatóság engedélyezi, amennyiben az eset összes körülményének mérlegelése alapján megállapítást nyer, hogy az adózó által teljesített ügyletek adójogi szempontból alacsony kockázatúak és az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) által előírt bejelentési kötelezettség oly mértékű aránytalan terhet ró az adózóra, melynek teljesítése nem elvárható.
+(3)[^10] Az útszakasz-mentesítést az állami adó- és vámhatóság engedélyezi, amennyiben az eset összes körülményének mérlegelése alapján megállapítást nyer, hogy az adózó által teljesített ügyletek adójogi szempontból alacsony kockázatúak és az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) által előírt bejelentési kötelezettség oly mértékű aránytalan terhet ró az adózóra, melynek teljesítése nem elvárható.
 
 (4) Az útszakasz-mentesítésre vonatkozó határozat a jogerőre emelkedésétől számított 1 évig érvényes, és tartalmazza a mentesített útszakasz kezdő és végpontjának kilométerszelvényeit, valamint a mentesítéssel érintett közút számát is.
 
@@ -28,4 +28,4 @@ d) minden egyéb olyan körülményt, mely a bejelentéssel járó aránytalan t
 
 (7) A mentesítésről, annak visszavonásáról az állami adó- és vámhatóság határozatot hoz.
 
-[^9]: Az 5. § (3) bekezdése a 48/2017. (XII. 29.) NGM rendelet 12. § a) pontja, a 24/2019. (XII. 30.) PM rendelet 6. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (3) bekezdése a 48/2017. (XII. 29.) NGM rendelet 12. § a) pontja, a 24/2019. (XII. 30.) PM rendelet 6. § b) pontja szerint módosított szöveg.
