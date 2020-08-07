@@ -1,0 +1,1 @@
+## „(9) A nemzeti hatóság minden év október 15-ig együttműködési programonként kimutatást küld az audit hatóság és az igazoló hatóság részére az előző számviteli évben felmerült szabálytalanságokról.”

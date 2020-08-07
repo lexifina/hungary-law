@@ -1,0 +1,1 @@
+## „e) a termékek és szolgáltatások teljesítésének az uniós támogatási szerződésben és a hazai társfinanszírozási támogatási szerződésben foglaltakkal való összhangját – ide nem értve a 12. § (1) bekezdése szerinti teljesítés nélküli előlegszámlát,”
