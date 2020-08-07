@@ -4,29 +4,27 @@
 
 ## (Az igazolást a naptári évet követő év január 15-éig kell a számlavezetőhöz eljuttatni.)
 
-| A gyermek | neve: ………………………………………………………….. |
+## A gyermek neve:
 
-|  |  | adóazonosító jele: ……………………………………………. |
+## adóazonosító jele:
 
-|  |  | születési helye: ……………………………………………….. |
+## születési helye:
 
-|  |  | születési ideje: ………………………………………………... |
+## születési ideje:
 
-|  |  | anyja születési neve: …………………………………………. |
+## anyja születési neve:
 
-## A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala mint elsőfokú gyámhatóság igazolása
+## A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala mint gyámhatóság igazolása
 
-| Eljáró hatóság megnevezése és címe: ......................................................................................................................................... |
+## Eljáró hatóság megnevezése és címe:
 
-| ...................................................................................................................................................................................................... |
+## Igazolom, hogy fent nevezett gyermek a □□□□□□□□ és a □□□□□□□□ közötti időszakban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint nevelésbe vétel alatt állt.
 
-## Igazolom, hogy fent nevezett gyermek a és a közötti időszakban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint nevelésbe vétel alatt állt.
-
-## __________________, 201__________________
+## ................................................., 20.........................................
 
 ## P. H.
 
-## ________________________
+## .......................................................
 
 ## aláírás
 

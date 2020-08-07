@@ -40,4 +40,4 @@
 
 2. melléklet a 43/2013. (X. 1.) NGM rendelethez[^6]
 
-[^6]: A 2. melléklet a 62/2016. (XII. 29.) NGM rendelet 69. § b) pontja, a 4/2017. (III. 29.) NGM rendelet 1. § b)–c) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet a 7/2020. (VII. 30.) PM rendelet 14. §-ával megállapított szöveg.
