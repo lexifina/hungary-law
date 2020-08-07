@@ -110,7 +110,7 @@ c) a következmények csökkentése;
 
 43.[^25] Leszerelés: a tároló létesítmény azon rendszerének, rendszerelemének megszüntetése, amelyre csak átmeneti jelleggel volt szükség;
 
-44.[^26] Lezárás: a tároló létesítményt érintő valamennyi olyan tevékenység, amelyek célja az üzemeltetés befejezése, és a létesítmény biztonságos állapotának hosszú időn át történő fenntartásához szükséges;
+44.[^26] Lezárás: a végleges elhelyezést szolgáló létesítményt érintő valamennyi olyan tevékenység, amelyek célja az üzemeltetés befejezése, és a létesítmény biztonságos állapotának hosszú időn át történő fenntartásához szükséges;
 
 45.[^27] Mélységi geológiai tároló: egy felszín alatt, stabil geológiai formációban kialakított radioaktívhulladék-tároló, amely alkalmas a hosszú élettartamú és a nagy aktivitású hulladékok végleges elhelyezésére is, hosszú időn át biztosítva az elhelyezett hulladékok elzárását és elszigetelését az élő környezettől;
 
@@ -184,7 +184,7 @@ c) a következmények csökkentése;
 [^23]: A 2. § 41. pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 6. pontja szerint módosított szöveg.
 [^24]: A 2. § 42. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
 [^25]: A 2. § 43. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^26]: A 2. § 44. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^26]: A 2. § 44. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított, a 356/2020. (VII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^27]: A 2. § 45. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte, újonnan a 36/2020. (III. 5.) Korm. rendelet 8. §-a iktatta be.
 [^28]: A 2. § 49. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 3. pontja hatályon kívül helyezte.
 [^29]: A 2. § 56. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
