@@ -24,6 +24,6 @@
 
 | 11. |  |  |  |  |
 
-6. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^284]
+6. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^290]
 
-[^284]: A 6. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (2) bekezdése, a 36/2020. (III. 5.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^290]: A 6. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (2) bekezdése, a 36/2020. (III. 5.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.

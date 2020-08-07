@@ -8,7 +8,7 @@
 
 (4) Az OAH jogosult az engedélyesnél előzetesen bejelentett és – ha az ellenőrzés céljának eléréséhez szükséges – előzetesen be nem jelentett ellenőrzést végezni. Előzetesen be nem jelentett ellenőrzés esetén az ellenőrzés tényét az OAH képviselője a helyszínen közli az engedélyes erre meghatalmazott képviselőjével, majd az ellenőrzés végrehajtási feltételeinek kialakítása után haladéktalanul megkezdi az ellenőrzést.
 
-(5)[^254] Ellenőrzése során az OAH jogosult az engedélyes tevékenysége rendszeres végzését bemutattatni.
+(5)[^260] Ellenőrzése során az OAH jogosult az engedélyes tevékenysége rendszeres végzését bemutattatni.
 
 (6) Az OAH ellenőrzései során az engedélyes köteles az OAH-val együttműködni és az ellenőrzés eredményességét előmozdítani, a belső ellenőrzés eredményeit, dokumentumait az OAH rendelkezésére bocsátani.
 
@@ -16,7 +16,7 @@
 
 (8) Az OAH ellenőrzése nem mentesíti az engedélyest a belső ellenőrzési tevékenység végzésének kötelezettsége alól.
 
-(9)[^255] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át túllépi, az OAH köteles ellenőrzést tartani.
+(9)[^261] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át túllépi, az OAH köteles ellenőrzést tartani.
 
-[^254]: A 60. § (5) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 49. pontja szerint módosított szöveg.
-[^255]: A 60. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 39. pontja szerint módosított szöveg.
+[^260]: A 60. § (5) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 49. pontja szerint módosított szöveg.
+[^261]: A 60. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 39. pontja szerint módosított szöveg.

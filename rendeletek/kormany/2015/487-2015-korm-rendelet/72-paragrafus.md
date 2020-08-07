@@ -1,3 +1,3 @@
-## 71. §[^278]
+## 71. §[^284]
 
-[^278]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^284]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

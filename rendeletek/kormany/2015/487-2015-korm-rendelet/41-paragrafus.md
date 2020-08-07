@@ -1,6 +1,6 @@
 ## 24. A radioaktív anyagok tárolására vonatkozó követelmények
 
-41. §[^158] (1) A radioaktív hulladékokat a 12. melléklet szerint osztályozni kell.
+41. §[^160] (1) A radioaktív hulladékokat a 12. melléklet szerint osztályozni kell.
 
 (2) A radioaktív hulladékot – kivéve a munkahelyi radioaktívhulladék-tárolóban történő elszállításáig vagy mentességi szint alatti lebomlásáig való tárolásáig – a TBSZ Kr. szerinti előírásoknak megfelelően átmeneti vagy végleges hulladéktárolóban kell elhelyezni.
 
@@ -10,13 +10,13 @@
 
 (5) A (3) és (4) bekezdésben foglaltaktól eltérő, a 100 napnál hosszabb felezési idejű radionuklidokat az általános mentességi szint alatti mennyiségben tartalmazó radioaktív hulladék munkahelyi radioaktívhulladék-tárolóban történő tárolása legfeljebb 5 évig megengedett. Ha a radioaktív hulladék tárolása – rendkívüli esemény bekövetkezése vagy a tevékenység megszüntetése miatt a továbbiakban – nem megoldható, úgy a radioaktív hulladékot a TBSZ Kr. szerint engedélyezett átmeneti vagy végleges radioaktívhulladék-tárolóba haladéktalanul el kell szállíttatni.
 
-(6)[^159] A radioaktívhulladék-tárolóban lévő anyagokon, illetve csomagokon fel kell tüntetni a radioaktív hulladék jellegét, az izotóp fajtáját, a benne lévő aktivitás becsült értékét, a becslés dátumát és a leadás (elhelyezés) tervezett dátumát, vagy olyan egyedi azonosítóval kell ellátni az anyagokat, illetve csomagokat, amely alapján a radioaktívhulladék-tárolóban lévő anyagokra, illetve csomagokra meghatározott adatok naprakészen fellelhetők.
+(6)[^161] A radioaktívhulladék-tárolóban lévő anyagokon, illetve csomagokon fel kell tüntetni a radioaktív hulladék jellegét, az izotóp fajtáját, a benne lévő aktivitás becsült értékét, a becslés dátumát és a leadás (elhelyezés) tervezett dátumát, vagy olyan egyedi azonosítóval kell ellátni az anyagokat, illetve csomagokat, amely alapján a radioaktívhulladék-tárolóban lévő anyagokra, illetve csomagokra meghatározott adatok naprakészen fellelhetők.
 
-(7)[^160] A lejárt felhasználási idejű zárt sugárforrásokat a nyitott sugárforrások kezelésére vonatkozó követelmények szerint, vagy a veszélyes-, és ezen belül a radioaktív áruk nemzetközi szállítását szabályozó nemzetközi egyezmények előírásainak megfelelő sugárforrás-tartóban vagy egyéb, azzal legalább egyenértékű biztonságot nyújtó tárolóeszközökben lehet tárolni.
+(7)[^162] A lejárt felhasználási idejű zárt sugárforrásokat a nyitott sugárforrások kezelésére vonatkozó követelmények szerint, vagy a veszélyes-, és ezen belül a radioaktív áruk nemzetközi szállítását szabályozó nemzetközi egyezmények előírásainak megfelelő sugárforrás-tartóban vagy egyéb, azzal legalább egyenértékű biztonságot nyújtó tárolóeszközökben lehet tárolni.
 
-(8)[^161] A használaton kívül helyezett zárt sugárforrásokat az egyéb radioaktív hulladékoktól külön kell kezelni.
+(8)[^163] A használaton kívül helyezett zárt sugárforrásokat az egyéb radioaktív hulladékoktól külön kell kezelni.
 
-(9)[^162] A radioaktív hulladékok további feldolgozása, kondicionálása az alábbi feltételekkel végezhető:
+(9)[^164] A radioaktív hulladékok további feldolgozása, kondicionálása az alábbi feltételekkel végezhető:
 
 a) törekedni kell arra, hogy a kezelt hulladék térfogata és az esetlegesen keletkező másodlagos hulladékok mennyisége az észszerűen megvalósítható lehető legkisebb mértékű legyen,
 
@@ -26,7 +26,7 @@ c) a hulladékkezelés során biztosítani szükséges, hogy a keletkező hullad
 
 d) a radioaktív hulladékokat a hulladékkezelési műveletek után újra kell osztályozni a 12. melléklet alapján, és a radioaktív anyagok nyilvántartásának és ellenőrzésének rendjéről, valamint a kapcsolódó adatszolgáltatásról szóló miniszteri rendelet szerinti nyilvántartásban a hulladék jellemzőinek megváltozását be kell vezetni.
 
-(10)[^163] Az általános mentességi aktivitás-koncentrációt nem meghaladó, a hatósági felügyelet alól bejelentési kötelezettséggel felszabadított hulladékokat és használaton kívül helyezett zárt sugárforrásokat a továbbiakban a hulladékról szóló törvényben meghatározottak szerint, mint elkülönítetten gyűjtött hulladékot kell kezelni. Az így felszabadított sugárforrásokat és hulladékokat további kezelésükig az ellenőrzött területen kívül kell tárolni.
+(10)[^165] Az általános mentességi aktivitás-koncentrációt nem meghaladó, a hatósági felügyelet alól bejelentési kötelezettséggel felszabadított hulladékokat és használaton kívül helyezett zárt sugárforrásokat a továbbiakban a hulladékról szóló törvényben meghatározottak szerint, mint elkülönítetten gyűjtött hulladékot kell kezelni. Az így felszabadított sugárforrásokat és hulladékokat további kezelésükig az ellenőrzött területen kívül kell tárolni.
 
 (11) A mentességi aktivitást nem meghaladó aktivitású, használaton kívül helyezett zárt sugárforrásokat:
 
@@ -36,9 +36,9 @@ b) az átmeneti vagy végleges radioaktívhulladék-tároló üzemeltetője vagy
 
 (12) Az általános mentességi aktivitás-koncentrációt meghaladó, a hatósági felügyelet alól engedéllyel felszabadított hulladékokat a felszabadításra vonatkozó engedély feltételeinek betartásával kell kezelni.
 
-[^158]: A 41. § a 27/2018. (II. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^159]: A 41. § (6) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
-[^160]: A 41. § (7) bekezdése a 36/2020. (III. 5.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
-[^161]: A 41. § (8) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
-[^162]: A 41. § (9) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
-[^163]: A 41. § (10) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 32. pontja szerint módosított szöveg.
+[^160]: A 41. § a 27/2018. (II. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^161]: A 41. § (6) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^162]: A 41. § (7) bekezdése a 36/2020. (III. 5.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^163]: A 41. § (8) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^164]: A 41. § (9) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^165]: A 41. § (10) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 32. pontja szerint módosított szöveg.

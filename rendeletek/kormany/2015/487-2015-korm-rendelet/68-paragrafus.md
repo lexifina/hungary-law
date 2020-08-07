@@ -4,15 +4,15 @@ a) az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztif�
 
 b) kiadott, határozatlan érvényességi idejű sugárvédelmi képzés és továbbképzés tematikáját, valamint a vizsgakövetelményeket jóváhagyó határozatok 2016. december 31. napján hatályukat vesztik.
 
-(2)[^267] A 2016. január 1. után az OAH által kiadott sugárvédelmi szakértői engedélyekben felsorolt szakterületek közül az ipari alkalmazások sugárvédelmi tervezése, a nukleáris létesítmények sugárvédelme, a nukleáris veszélyhelyzet kezelés és az orvosi radiológiai alkalmazások sugárvédelmi tervezése szakterületek külön eljárás nélkül megfelelnek a 9. mellékletben meghatározott szakmai ismereteknek.
+(2)[^273] A 2016. január 1. után az OAH által kiadott sugárvédelmi szakértői engedélyekben felsorolt szakterületek közül az ipari alkalmazások sugárvédelmi tervezése, a nukleáris létesítmények sugárvédelme, a nukleáris veszélyhelyzet kezelés és az orvosi radiológiai alkalmazások sugárvédelmi tervezése szakterületek külön eljárás nélkül megfelelnek a 9. mellékletben meghatározott szakmai ismereteknek.
 
-(2a)[^268] A 2016. január 1. után az OAH által kiadott sugárvédelmi szakértői engedélyekben felsorolt szakterületek közül a dozimetria, a személyi monitoring, a környezeti monitoring, a környezeti hatások sugárvédelmi értékelése, az ionizáló sugárzások mérési módszerei, valamint a radioaktív hulladékok kezelése és tárolása szakterületek esetében a sugárvédelmi szakértő kérelmére az OAH állapítja meg a szakterületek 9. mellékletben meghatározott szakmai ismereteknek történő megfeleltetését.
+(2a)[^274] A 2016. január 1. után az OAH által kiadott sugárvédelmi szakértői engedélyekben felsorolt szakterületek közül a dozimetria, a személyi monitoring, a környezeti monitoring, a környezeti hatások sugárvédelmi értékelése, az ionizáló sugárzások mérési módszerei, valamint a radioaktív hulladékok kezelése és tárolása szakterületek esetében a sugárvédelmi szakértő kérelmére az OAH állapítja meg a szakterületek 9. mellékletben meghatározott szakmai ismereteknek történő megfeleltetését.
 
-(2b)[^269] A (2a) bekezdés szerinti eljárás során az OAH a sugárvédelmi szakértői tevékenység engedélyezésére irányuló eredeti kérelemhez benyújtott referenciákat, továbbá a (2a) bekezdés szerinti kérelemhez benyújtott szakmai gyakorlatot igazoló dokumentumokat veszi figyelembe.
+(2b)[^275] A (2a) bekezdés szerinti eljárás során az OAH a sugárvédelmi szakértői tevékenység engedélyezésére irányuló eredeti kérelemhez benyújtott referenciákat, továbbá a (2a) bekezdés szerinti kérelemhez benyújtott szakmai gyakorlatot igazoló dokumentumokat veszi figyelembe.
 
-(3)[^270] Az Egészségügyi Nyilvántartási és Képzési Központ, valamint a Magyar Mérnöki Kamara által az e kormányrendelet hatályba lépését megelőzően kiadott sugáregészségügyi, illetve sugárvédelmi szakértői engedélyek e rendelet vonatkozásában 2018. december 31-ig fogadhatóak el sugárvédelmi szakértői engedélyként.
+(3)[^276] Az Egészségügyi Nyilvántartási és Képzési Központ, valamint a Magyar Mérnöki Kamara által az e kormányrendelet hatályba lépését megelőzően kiadott sugáregészségügyi, illetve sugárvédelmi szakértői engedélyek e rendelet vonatkozásában 2018. december 31-ig fogadhatóak el sugárvédelmi szakértői engedélyként.
 
-[^267]: A 68. § (2) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § n) pontja hatályon kívül helyezte, újonnan a 36/2020. (III. 5.) Korm. rendelet 11. § (21) bekezdése iktatta be.
-[^268]: A 68. § (2a) bekezdését a 36/2020. (III. 5.) Korm. rendelet 11. § (21) bekezdése iktatta be.
-[^269]: A 68. § (2b) bekezdését a 36/2020. (III. 5.) Korm. rendelet 11. § (21) bekezdése iktatta be.
-[^270]: A 68. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 41. pontja szerint módosított szöveg.
+[^273]: A 68. § (2) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § n) pontja hatályon kívül helyezte, újonnan a 36/2020. (III. 5.) Korm. rendelet 11. § (21) bekezdése iktatta be.
+[^274]: A 68. § (2a) bekezdését a 36/2020. (III. 5.) Korm. rendelet 11. § (21) bekezdése iktatta be.
+[^275]: A 68. § (2b) bekezdését a 36/2020. (III. 5.) Korm. rendelet 11. § (21) bekezdése iktatta be.
+[^276]: A 68. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 41. pontja szerint módosított szöveg.

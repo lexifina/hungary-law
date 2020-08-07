@@ -442,7 +442,7 @@
 
 ## Kérelmet benyújtó cégszerű aláírása:
 
-8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^286]
+8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^292]
 
 A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
@@ -452,24 +452,4 @@ A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
 1.1.1. A sugárvédelem szervezeti felépítése: az engedélyes, valamint a sugárveszélyes munkavégzésnek helyt adó létesítmény vezetői, a sugárvédelmi megbízott, a munkahelyi sugárvédelmi szervezet szervezeti, hierarchikus kapcsolata
 
-1.1.2. A sugárvédelem megbízott feladatainak ismertetése
-
-1.1.3. A munkahelyi sugárvédelmi szervezet, valamint a létesítményi sugárvédelmi szolgálat feladatainak ismertetése
-
-1.2. Az engedélyes sugárvédelemmel kapcsolatos feladatai az alábbiak szerint:
-
-1.2.1. Az engedélyes sugárvédelemmel kapcsolatos feladatainak (kötelezettségeinek) ismertetése (beleértve a munkavállalók és a lakosság sugárvédelmét szolgáló feltételek biztosítását, a sugárterhelés ellenőrzését és értékelését, az indokoltság és optimálás és dóziskorlátozás alkalmazását, a sugárvédelmi eljárások felülvizsgálatát, a rendkívüli helyzetek kezelését)
-
-1.2.2. A létesítményt üzemeltető szervezet vezetőinek sugárvédelemmel kapcsolatos feladatainak (kötelezettségeinek) ismertetése
-
-1.3. A felelősségi körök felsorolása
-
-1.3.1. Az MSSZ hatálya
-
-1.3.2. A munkáltató és sugárveszélyes munkahely engedélyesének felelősségi köre
-
-1.3.3. A vezetőség felelősségi köre
-
-1.3.4. A sugárvédelmi szolgálat és sugárvédelmi szervezet, valamint a sugárvédelmi feladatokat ellátó személyek felelőssége
-
-[^286]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (6) bekezdése szerint módosított szöveg.
+[^292]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (6) bekezdése szerint módosított szöveg.

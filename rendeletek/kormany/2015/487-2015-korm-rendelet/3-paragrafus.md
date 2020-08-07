@@ -10,9 +10,11 @@ b) zárt sugárforrás esetén a 100 napnál rövidebb felezési idejű sugárfo
 
 a) mesterséges radionuklidok esetében az újrafelhasználásból, újrahasznosításból vagy nem veszélyes hulladékként történő ártalmatlanításából (beleértve az égetést) származó, a lakosság bármely tagját érő egyéni évi sugárterhelés nem haladja meg a 30 μSv effektív dózist, és a kis valószínűségű események bekövetkezésekor az effektív dózis 1 mSv/év alatt marad, vagy
 
-b) természetben előforduló radionuklidok esetén a tevékenységből egy személyt érő többlet effektív dózis legfeljebb 1 mSv/év,
+b)[^16] természetben előforduló radionuklidok esetén – a (2a) bekezdésben foglalt kivétellel – a tevékenységből egy személyt érő többlet effektív dózis legfeljebb 1 mSv/év,
 
 és az a) vagy a b) pont szerinti elemzésekben figyelembe vették a sugárveszélyes munkahelyről a már korábban felszabadított anyagmennyiségek hatásait.
+
+(2a)[^17] A természetben előforduló radionuklidok esetében, ha azok felhasználása radioaktív tulajdonságaik, hasadóképességük vagy hasadóképes anyaggá való átalakíthatóságuk miatt történik, az (1) és (2) bekezdés szerinti felszabadítás során a mesterséges radionuklidokra vonatkozó kritériumokat kell alkalmazni.
 
 (3) Az OAH a felszabadított anyagok mennyiségéről és újrafelhasználásának, ártalmatlanításának módjáról nyilvántartást vezet. Az adott helyen kezelt felszabadított anyagok mennyiségét, valamint az azokból származó lakossági sugárterhelés növekményét az OAH figyelembe veszi az 53. § (1) bekezdés 17. pontja szerinti engedélyezési eljárás során.
 
@@ -20,3 +22,5 @@ b) természetben előforduló radionuklidok esetén a tevékenységből egy szem
 
 [^14]: A 2. alcím (3. §) a 27/2018. (II. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^15]: A 3. § (1) bekezdés a) pontja a 36/2020. (III. 5.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^16]: A 3. § (2) bekezdés b) pontja a 356/2020. (VII. 23.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^17]: A 3. § (2a) bekezdését a 356/2020. (VII. 23.) Korm. rendelet 5. §-a iktatta be.

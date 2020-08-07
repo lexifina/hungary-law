@@ -2,7 +2,7 @@
 
 a) ahol a tevékenységből adódóan az évi egyéni sugárterhelés meghaladhatja az 1 mSv effektív dózist, a szemlencse esetében a 15 mSv egyenértékdózist, a bőr és a végtagok esetében a 12. § (3) bekezdésben meghatározott egyenértékdózis-korlátok 10%-át, vagy
 
-b)[^107] ahol a radioaktív szennyeződés terjedését vagy az esetleges veszélyhelyzeti sugárterhelés valószínűségét korlátozni kell.
+b)[^109] ahol a radioaktív szennyeződés terjedését vagy az esetleges veszélyhelyzeti sugárterhelés valószínűségét korlátozni kell.
 
 (2) Az ellenőrzött területen a sugárterhelés korlátozásának és az esetleges veszélyhelyzeti sugárterhelés valószínűségének csökkentése érdekében, illetve radioaktív szennyeződés terjedésének megakadályozása céljából a következő sugárvédelmi intézkedéseket és biztonsági előírásokat kell betartani:
 
@@ -28,4 +28,4 @@ b) az egészségügyi szolgáltató tevékenység.
 
 (4) A (2) bekezdésben felsorolt előírások bevezetése és végrehajtása során az atomenergia alkalmazója figyelembe veszi a sugárvédelmi szakértőtől kapott észrevételeket.
 
-[^107]: A 27. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 18. pontja szerint módosított szöveg.
+[^109]: A 27. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 18. pontja szerint módosított szöveg.

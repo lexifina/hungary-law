@@ -1,6 +1,6 @@
 ## 28. Az atomenergia alkalmazójának feladatai
 
-## 47. §[^178] Az atomenergia alkalmazója
+## 47. §[^184] Az atomenergia alkalmazója
 
 a) a lakosság tagjainak optimális védelmét valósítja meg és tartja fenn,
 
@@ -8,4 +8,4 @@ b) kiemelt létesítmény esetén, illetve ha hatósági előírás arra kötele
 
 c) ellenőrzi a b) pontban említett berendezések hatékonyságát és karbantartását, valamint gondoskodik a mérőműszerek rendszeres kalibrálásáról.
 
-[^178]: A 47. § a 27/2018. (II. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^184]: A 47. § a 27/2018. (II. 28.) Korm. rendelet 42. §-ával megállapított szöveg.

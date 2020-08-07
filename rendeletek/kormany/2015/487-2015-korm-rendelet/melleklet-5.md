@@ -210,6 +210,6 @@
 
 ## 3.3. A vizsga akkor tekinthető sikeresnek, ha a vizsgázó az írásbeli vizsgán és a szóbeli vizsgán is elérte a „megfelelő” szintet. Abban az esetben, ha a vizsgázó a vizsga írásbeli vagy szóbeli részén nem érte el a „megfelelő” szintet, a vizsgát eredménytelennek kell tekinteni, és vizsgabizonyítvány nem adható ki.
 
-5. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^283]
+5. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^289]
 
-[^283]: Az 5. melléklet a 27/2018. (II. 28.) Korm. rendelet 56. § 44–47. pontja, a 36/2020. (III. 5.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^289]: Az 5. melléklet a 27/2018. (II. 28.) Korm. rendelet 56. § 44–47. pontja, a 36/2020. (III. 5.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
