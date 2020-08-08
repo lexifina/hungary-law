@@ -1,4 +1,4 @@
-## 25. § A támogatási jogviszony a teljesítést – ideértve az ellenőrzéstűrési, valamint a dokumentummegőrzési és a fenntartási kötelezettséget is – megelőzően csak vis maior, a támogatói okirat Kincstár általi visszavonása, felmondás, a támogatást igénylő támogatási jogviszonytól való elállása, valamint a 41. § (1) bekezdésében meghatározott esetek alapján szűnik meg.
+## 25. §[^8] A támogatási jogviszony a teljesítést – ideértve az ellenőrzéstűrési, valamint a dokumentummegőrzési és a fenntartási kötelezettséget is – megelőzően csak vis maior, a támogatói okirat Kincstár általi visszavonása, felmondás, a támogatást igénylő támogatási jogviszonytól való elállása, a 41. § (1) bekezdésében meghatározott esetek alapján, valamint a 3. és 4. célterület tekintetében a vállalkozást alapító vezető tisztségviselő vagy egyéni vállalkozó által a támogatási időszak alatt igénybe vett csecsemőgondozási díj esetében szűnik meg.
 
 ## 26. § A Kincstár a támogatói okiratot visszavonja, ha:
 
@@ -13,3 +13,5 @@ d) a támogatást igénylő a támogatási kérelemben adott nyilatkozatát viss
 e) a támogatást igénylő végelszámolás, jogerős végzéssel elrendelt felszámolási, csőd-, kényszertörlési, jogutód nélküli megszűnésre vezető egyéb eljárás vagy egyéb, a támogatást igénylő fizetésképtelenségével összefüggésben indult eljárás alá kerül,
 
 f) az 52. § (4) bekezdés alapján történő záró elszámolásra irányuló kifizetési igénylésről szóló döntés meghozatalakor a támogatást igénylő nem szerepel a köztartozásmentes adózói adatbázisban, vagy köztartozás mentességét 30 napnál nem régebbi nemleges adóigazolással felszólításra sem igazolja.
+
+[^8]: A 25. § a 385/2020. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.

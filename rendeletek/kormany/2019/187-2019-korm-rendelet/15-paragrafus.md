@@ -2,7 +2,7 @@
 
 15. § (1) Amennyiben a támogatást igénylő ügyfél-azonosítóval még nem rendelkezik, úgy a támogatási kérelem szolgál az ügyfél-nyilvántartásba vétel alapjául. A Kincstár a támogatást igénylőt az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe hivatalból veszi nyilvántartásba.
 
-(2) Az 1. és a 2. célterület esetében a támogatási kérelem tartalmazza a kérelmező
+(2)[^7] Az 1., a 2. és az 5. célterület esetében a támogatási kérelem tartalmazza a kérelmező
 
 a) családi és utónevét, születési családi és utónevét,
 
@@ -105,3 +105,5 @@ bo) a támogatást igénylő nyilvántartásba vételének napját,
 bp) a támogatást igénylő pénzforgalmi számlaszámát és annak devizanemét,
 
 bq) a támogatást igénylő E-ügyintézési törvény szerinti hivatalos elérhetőségét.
+
+[^7]: A 15. § (2) bekezdés nyitó szövegrésze a 385/2020. (VIII. 7.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.

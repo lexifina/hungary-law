@@ -8,7 +8,7 @@
 
 a) állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
-b) bölcsődei szolgáltató: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) alapján szolgáltatói nyilvántartásba bejegyzett családi bölcsőde vagy munkahelyi bölcsőde,
+b)[^1] bölcsődei szolgáltató: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) alapján szolgáltatói nyilvántartásba bejegyzett családi bölcsőde vagy munkahelyi bölcsőde, nem önkormányzati fenntartású bölcsőde vagy nem önkormányzati fenntartású mini bölcsőde,
 
 c) egy és ugyanazon vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
@@ -49,3 +49,5 @@ o) támogatást igénylő: a támogatás iránti kérelmet benyújtó személy, 
 p) vállalkozás: a 3. és 4. célterület vonatkozásában kettős könyvvitelt vezető korlátolt felelősségű társaság, betéti társaság, vagy egyéni cég, az Szja tv. hatálya alá tartozó egyéni vállalkozó, vagy a Katv. hatálya alá tartozó egyéni vállalkozó, vagy betéti társaság,
 
 q) Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Támogatási törvény) szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer.
+
+[^1]: Az 1. § b) pontja a 385/2020. (VIII. 7.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
