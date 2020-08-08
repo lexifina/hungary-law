@@ -2,25 +2,45 @@
 
 ## 1/A.[^1] A Kormány
 
-## a)[^2] jóváhagyja a TOP 1. prioritása 417,656 milliárd forint összegű meghirdethető keretét, amely 104,256 milliárd forinttal haladja meg a TOP 1. prioritásának keretét,
+## a)[^2] jóváhagyja a TOP 1. prioritása 469,07 milliárd forint összegű meghirdethető keretét, amely 100,47 milliárd forinttal haladja meg a TOP 1. prioritásának keretét,
 
-## b) jóváhagyja a TOP 2. prioritása 197,097 milliárd forint összegű meghirdethető keretét, amely 45,097 milliárd forinttal haladja meg a TOP 2. prioritásának keretét,
+## b)[^3] jóváhagyja a TOP 2. prioritása 202,54 milliárd forint összegű meghirdethető keretét, amely 48,24 milliárd forinttal haladja meg a TOP 2. prioritásának keretét.
 
-## c) jóváhagyja a TOP 3. prioritása 242,112 milliárd forint összegű meghirdethető keretét, amely 35,212 milliárd forinttal haladja meg a TOP 3. prioritásának keretét,
+## c)[^4]
 
-## d) jóváhagyja a TOP 4. prioritása 73,754 milliárd forint összegű meghirdethető keretét, amely 10,154 milliárd forinttal haladja meg a TOP 4. prioritásának keretét,
+## d)[^5]
 
-## e) jóváhagyja a TOP 5. prioritása 93,707 milliárd forint összegű meghirdethető keretét, amely 8,007 milliárd forinttal haladja meg a TOP 5. prioritásának keretét,
+## e)[^6]
 
-## f)[^3] jóváhagyja a TOP 6. prioritása 461,762 milliárd forint összegű meghirdethető keretét, amely 63,662 milliárd forinttal haladja meg a TOP 6. prioritásának keretét.
+## f)[^7]
 
-## 1/B.[^4] A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. § (3) bekezdése alapján hozzájárul az 1. melléklet 1. pontjában foglalt táblázat 13. sora és 6. pontjában foglalt táblázat 35. sora szerinti felhívások esetén – a felhívásoknak a Terület- és Településfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1005/2016. (I. 18.) Korm. határozat módosításáról szóló 1400/2019. (VII. 5.) Korm. határozattal megemelt keretösszegei mértékéig – kötelezettségvállalás megtételéhez.
+## 1/B.[^8] A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 44/C. § (3) bekezdése alapján hozzájárul az 1. melléklet 1. pontjában foglalt táblázat 13. sora és 6. pontjában foglalt táblázat 35. sora szerinti felhívások esetén – a felhívásoknak a Terület- és Településfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1005/2016. (I. 18.) Korm. határozat módosításáról szóló 1400/2019. (VII. 5.) Korm. határozattal megemelt keretösszegei mértékéig – kötelezettségvállalás megtételéhez.
+
+## 1/C.[^9] A Kormány a 272/2014. (XI. 5.) Korm. rendelet 44/C. § (4) bekezdése alapján hozzájárul az 1. melléklet 1. pontjában foglalt táblázat 2., 3., 4., 5., 6., 7., 10., 11. és 13. sora, valamint 2. pontjában foglalt táblázat 2., 3. és 7. sora szerinti felhívások esetén – a felhívásoknak a Terület- és Településfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1005/2016. (I. 18.) Korm. határozat módosításáról szóló 1478/2020. (VIII. 7.) Korm. határozattal megemelt keretösszege mértékéig – kötelezettségvállalás megtételéhez.
+
+## 1/D.[^10] A Kormány felhívja a pénzügyminisztert, hogy a TOP végrehajtásáért felelős irányító hatóság útján gondoskodjon a TOP 7. prioritás maradványforrásának a TOP 1. prioritásra történő átcsoportosítási lehetőségének megvizsgálásáról.
+
+## Felelős: pénzügyminiszter
+
+## Határidő: 2020. augusztus 31.
+
+## 1/E.[^11] A Kormány felhívja a pénzügyminisztert, hogy a TOP végrehajtásáért felelős irányító hatóság útján a TOP 1. és 2. prioritásának a Gazdaságvédelmi Akcióterv keretében a 2014–2020 programozási időszakra vonatkozó indikatív támogatási keretösszegekről, valamint a kötelezettségvállalási szükségletről szóló 1152/2020. (IV. 14.) Korm. határozat szerinti maximális kötelezettségvállalási szintet meghaladó mértékű forrásigényének csökkentése érdekében
+
+## a) kizárólag a Kormány jóváhagyásával tegyen további kötelezettségvállalást a TOP 1. és 2. prioritásán a felszabaduló források terhére,
+
+## b) az éves fejlesztési keret további módosításai során tegyen javaslatot a TOP 1. és 2. prioritása meghirdethető keretének az a) alpont szerinti felszabaduló források összegével megegyező mértékű csökkentésére,
+
+## c) gondoskodjon a TOP 1. és 2. prioritása Európai Bizottságtól lehívható forrását meghaladó mértékű többletszámláknak a TOP többi prioritása terhére történő elszámolásáról az Európai Bizottság által kiadott programzárási útmutató alapján.
+
+## Felelős: pénzügyminiszter
+
+## Határidő: folyamatos
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^5]
+## 3.[^12]
 
-1. melléklet az 1005/2016. (I. 18.) Korm. határozathoz[^6]
+1. melléklet az 1005/2016. (I. 18.) Korm. határozathoz[^13]
 
 ## A TOP éves fejlesztési kerete
 
@@ -30,29 +50,29 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-1.1.1-15 | Ipari parkok, iparterületek fejlesztése | 49,606 | területi | Meghirdetve 2016. januárban |
+| 2. | TOP-1.1.1-15 | Ipari parkok, iparterületek fejlesztése | 54,598 | területi | Meghirdetve 2016. januárban |
 
-| 3. | TOP-1.1.3-15 | Helyi gazdaságfejlesztés | 26,346 | területi | Meghirdetve 2016. januárban |
+| 3. | TOP-1.1.3-15 | Helyi gazdaságfejlesztés | 29,704 | területi | Meghirdetve 2016. januárban |
 
-| 4. | TOP-1.2.1-15 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 56,975 | területi | Meghirdetve 2016. januárban |
+| 4. | TOP-1.2.1-15 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 62,972 | területi | Meghirdetve 2016. januárban |
 
-| 5. | TOP-1.3.1-15 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 46,949 | területi | Meghirdetve 2015. decemberben |
+| 5. | TOP-1.3.1-15 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 48,164 | területi | Meghirdetve 2015. decemberben |
 
-| 6. | TOP-1.4.1-15 | A foglalkoztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztésével | 50,574 | területi | Meghirdetve 2016. januárban |
+| 6. | TOP-1.4.1-15 | A foglalkoztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztésével | 55,957 | területi | Meghirdetve 2016. januárban |
 
-| 7. | TOP-1.1.1-16 | Ipari parkok, iparterületek fejlesztése | 30,536 | területi | Meghirdetve 2017. februárban |
+| 7. | TOP-1.1.1-16 | Ipari parkok, iparterületek fejlesztése | 41,121 | területi | Meghirdetve 2017. februárban |
 
-| 8. | TOP-1.1.2-16 | Inkubátorházak fejlesztése | 10,183 | területi | Meghirdetve 2016. decemberben |
+| 8. | TOP-1.1.2-16 | Inkubátorházak fejlesztése | 6,755 | területi | Meghirdetve 2016. decemberben |
 
-| 9. | TOP-1.1.3-16 | Helyi gazdaságfejlesztés | 14,109 | területi | Meghirdetve 2017. februárban |
+| 9. | TOP-1.1.3-16 | Helyi gazdaságfejlesztés | 8,419 | területi | Meghirdetve 2017. februárban |
 
-| 10. | TOP-1.2.1-16 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 24,497 | területi | Meghirdetve 2017. februárban |
+| 10. | TOP-1.2.1-16 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 32,157 | területi | Meghirdetve 2017. februárban |
 
-| 11. | TOP-1.3.1-16 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 11,495 | területi | Meghirdetve 2016. decemberben |
+| 11. | TOP-1.3.1-16 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 15,717 | területi | Meghirdetve 2016. decemberben |
 
-| 12. | TOP-1.4.1-16 | A foglalkoztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztésével | 20,800 | területi | Meghirdetve 2017. februárban |
+| 12. | TOP-1.4.1-16 | A foglalkoztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztésével | 17,882 | területi | Meghirdetve 2017. februárban |
 
-| 13. | TOP-1.4.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 75,586 | területi | Meghirdetve 2019. áprilisban |
+| 13. | TOP-1.4.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 95,623 | területi | Meghirdetve 2019. áprilisban |
 
 | 14. |  |  |  |  |  |
 
@@ -66,17 +86,17 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-2.1.1-15 | Barnamezős területek rehabilitációja | 22,291 | területi | Meghirdetve 2016. januárban |
+| 2. | TOP-2.1.1-15 | Barnamezős területek rehabilitációja | 22,567 | területi | Meghirdetve 2016. januárban |
 
-| 3. | TOP-2.1.2-15 | Zöld város kialakítása | 57,773 | területi | Meghirdetve 2016. januárban |
+| 3. | TOP-2.1.2-15 | Zöld város kialakítása | 66,558 | területi | Meghirdetve 2016. januárban |
 
-| 4. | TOP-2.1.3-15 | Települési környezetvédelmi infrastruktúra-fejlesztések | 46,570 | területi | Meghirdetve 2015. decemberben |
+| 4. | TOP-2.1.3-15 | Települési környezetvédelmi infrastruktúra-fejlesztések | 45,255 | területi | Meghirdetve 2015. decemberben |
 
-| 5. | TOP-2.1.1-16 | Barnamezős területek rehabilitációja | 9,820 | területi | Meghirdetve 2017. februárban |
+| 5. | TOP-2.1.1-16 | Barnamezős területek rehabilitációja | 5,761 | területi | Meghirdetve 2017. februárban |
 
-| 6. | TOP-2.1.2-16 | Zöld város kialakítása | 23,174 | területi | Meghirdetve 2017. februárban |
+| 6. | TOP-2.1.2-16 | Zöld város kialakítása | 15,723 | területi | Meghirdetve 2017. februárban |
 
-| 7. | TOP-2.1.3-16 | Települési környezetvédelmi infrastruktúra-fejlesztések | 37,468 | területi | Meghirdetve 2017. februárban |
+| 7. | TOP-2.1.3-16 | Települési környezetvédelmi infrastruktúra-fejlesztések | 46,675 | területi | Meghirdetve 2017. februárban |
 
 | 8. |  |  |  |  |  |
 
@@ -90,15 +110,15 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-3.1.1-15 | Fenntartható települési közlekedésfejlesztés | 58,94 | területi | Meghirdetve 2015. decemberben |
+| 2. | TOP-3.1.1-15 | Fenntartható települési közlekedésfejlesztés | 67,453 | területi | Meghirdetve 2015. decemberben |
 
-| 3. | TOP-3.2.1-15 | Önkormányzati épületek energetikai korszerűsítése | 70,306 | területi | Meghirdetve 2016. márciusban |
+| 3. | TOP-3.2.1-15 | Önkormányzati épületek energetikai korszerűsítése | 67,797 | területi | Meghirdetve 2016. márciusban |
 
-| 4. | TOP-3.2.2-15 | Önkormányzatok által vezérelt, a helyi adottságokhoz illeszkedő, megújuló energiaforrások kiaknázására irányuló energiaellátás megvalósítása komplex fejlesztési programok keretében | 15,722 | területi | Meghirdetve 2016. márciusban |
+| 4. | TOP-3.2.2-15 | Önkormányzatok által vezérelt, a helyi adottságokhoz illeszkedő, megújuló energiaforrások kiaknázására irányuló energiaellátás megvalósítása komplex fejlesztési programok keretében | 12,379 | területi | Meghirdetve 2016. márciusban |
 
-| 5. | TOP-3.1.1-16 | Fenntartható települési közlekedésfejlesztés | 31,655 | területi | Meghirdetve 2017. februárban |
+| 5. | TOP-3.1.1-16 | Fenntartható települési közlekedésfejlesztés | 29,724 | területi | Meghirdetve 2017. februárban |
 
-| 6. | TOP-3.2.1-16 | Önkormányzati épületek energetikai korszerűsítése | 65,489 | területi | Meghirdetve 2017. februárban |
+| 6. | TOP-3.2.1-16 | Önkormányzati épületek energetikai korszerűsítése | 59,517 | területi | Meghirdetve 2017. februárban |
 
 | 7. |  |  |  |  |  |
 
@@ -114,17 +134,17 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-4.1.1-15 | Egészségügyi alapellátás infrastrukturális fejlesztése | 22,880 | területi | Meghirdetve 2015. decemberben |
+| 2. | TOP-4.1.1-15 | Egészségügyi alapellátás infrastrukturális fejlesztése | 21,734 | területi | Meghirdetve 2015. decemberben |
 
-| 3. | TOP-4.2.1-15 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 17,349 | területi | Meghirdetve 2016. januárban |
+| 3. | TOP-4.2.1-15 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 16,376 | területi | Meghirdetve 2016. januárban |
 
-| 4. | TOP-4.3.1-15 | Leromlott városi területek rehabilitációja | 15,889 | területi | Meghirdetve 2016. januárban |
+| 4. | TOP-4.3.1-15 | Leromlott városi területek rehabilitációja | 17,511 | területi | Meghirdetve 2016. januárban |
 
-| 5. | TOP-4.1.1-16 | Egészségügyi alapellátás infrastrukturális fejlesztése | 5,788 | területi | Meghirdetve 2017. februárban |
+| 5. | TOP-4.1.1-16 | Egészségügyi alapellátás infrastrukturális fejlesztése | 4,589 | területi | Meghirdetve 2017. februárban |
 
-| 6. | TOP-4.2.1-16 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 4,128 | területi | Meghirdetve 2017. februárban |
+| 6. | TOP-4.2.1-16 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 4,089 | területi | Meghirdetve 2017. februárban |
 
-| 7. | TOP-4.3.1-16 | Leromlott városi területek rehabilitációja | 7,720 | területi | Meghirdetve 2017. februárban |
+| 7. | TOP-4.3.1-16 | Leromlott városi területek rehabilitációja | 9,751 | területi | Meghirdetve 2017. februárban |
 
 | 8. |  |  |  |  |  |
 
@@ -134,21 +154,21 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-5.1.1-15 | Megyei szintű foglalkoztatási megállapodások, foglalkoztatási-gazdaságfejlesztési együttműködések | 26,553 | területi | Meghirdetve 2015. decemberben |
+| 2. | TOP-5.1.1-15 | Megyei szintű foglalkoztatási megállapodások, foglalkoztatási-gazdaságfejlesztési együttműködések | 30,306 | területi | Meghirdetve 2015. decemberben |
 
-| 3. | TOP-5.1.2-15 | Helyi foglalkoztatási együttműködések | 27,525 | területi | Meghirdetve 2015. decemberben |
+| 3. | TOP-5.1.2-15 | Helyi foglalkoztatási együttműködések | 28,540 | területi | Meghirdetve 2015. decemberben |
 
-| 4. | TOP-5.2.1-15 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 7,540 | területi | Meghirdetve 2016. januárban |
+| 4. | TOP-5.2.1-15 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 10,039 | területi | Meghirdetve 2016. januárban |
 
-| 4a. | TOP-5.1.1-16 | Megyei szintű foglalkoztatási megállapodások, foglalkoztatási- gazdaságfejlesztési együttműködések | 4,317 | területi | Meghirdetve 2017. márciusban |
+| 4a. | TOP-5.1.1-16 | Megyei szintű foglalkoztatási megállapodások, foglalkoztatási- gazdaságfejlesztési együttműködések | 0,397 | területi | Meghirdetve 2017. márciusban |
 
-| 5. | TOP-5.1.2-16 | Helyi foglalkoztatási együttműködések | 8,831 | területi | Meghirdetve 2017. februárban |
+| 5. | TOP-5.1.2-16 | Helyi foglalkoztatási együttműködések | 6,518 | területi | Meghirdetve 2017. februárban |
 
-| 5a. | TOP-5.2.1-16 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 2,245 | területi | Meghirdetve 2017. márciusban |
+| 5a. | TOP-5.2.1-16 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 2,510 | területi | Meghirdetve 2017. márciusban |
 
-| 6. | TOP-5.3.1-16 | A helyi identitás és kohézió erősítése | 12,679 | területi | Meghirdetve 2017. márciusban |
+| 6. | TOP-5.3.1-16 | A helyi identitás és kohézió erősítése | 11,561 | területi | Meghirdetve 2017. márciusban |
 
-| 7. | TOP-5.3.2-17 | Megyei identitás erősítése | 4,017 | területi | Meghirdetve 2018. márciusban |
+| 7. | TOP-5.3.2-17 | Megyei identitás erősítése | 4,769 | területi | Meghirdetve 2018. márciusban |
 
 | 8. |  |  |  |  |  |
 
@@ -158,75 +178,75 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-6.1.1-15 | Ipari parkok, iparterületek fejlesztése | 17,657 | területi | Meghirdetve 2016. februárban |
+| 2. | TOP-6.1.1-15 | Ipari parkok, iparterületek fejlesztése | 18,657 | területi | Meghirdetve 2016. februárban |
 
-| 3. | TOP-6.1.3-15 | Helyi gazdaságfejlesztés | 6,689 | területi | Meghirdetve 2016. februárban |
+| 3. | TOP-6.1.3-15 | Helyi gazdaságfejlesztés | 6,899 | területi | Meghirdetve 2016. februárban |
 
-| 4. | TOP-6.1.4-15 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 21,349 | területi | Meghirdetve 2016. februárban |
+| 4. | TOP-6.1.4-15 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 20,231 | területi | Meghirdetve 2016. februárban |
 
-| 5. | TOP-6.1.5-15 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 25,289 | területi | Meghirdetve 2015. decemberben |
+| 5. | TOP-6.1.5-15 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 28,709 | területi | Meghirdetve 2015. decemberben |
 
-| 6. | TOP-6.2.1-15 | Családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztése | 19,401 | területi | Meghirdetve 2016. januárban |
+| 6. | TOP-6.2.1-15 | Családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztése | 19,428 | területi | Meghirdetve 2016. januárban |
 
 | 7. | TOP-6.3.1-15 | Barnamezős területek rehabilitációja | 5,836 | területi | Meghirdetve 2016. februárban |
 
-| 8. | TOP-6.3.2-15 | Zöld város kialakítása | 32,178 | területi | Meghirdetve 2016. februárban |
+| 8. | TOP-6.3.2-15 | Zöld város kialakítása | 32,770 | területi | Meghirdetve 2016. februárban |
 
-| 9. | TOP-6.3.3-15 | Városi környezetvédelmi infrastruktúra-fejlesztések | 7,63 | területi | Meghirdetve 2015. decemberben |
+| 9. | TOP-6.3.3-15 | Városi környezetvédelmi infrastruktúra-fejlesztések | 7,470 | területi | Meghirdetve 2015. decemberben |
 
-| 10. | TOP-6.4.1-15 | Fenntartható városi közlekedésfejlesztés | 21,778 | területi | Meghirdetve 2015. decemberben |
+| 10. | TOP-6.4.1-15 | Fenntartható városi közlekedésfejlesztés | 24,73 | területi | Meghirdetve 2015. decemberben |
 
-| 11. | TOP-6.5.1-15 | Önkormányzati épületek energetikai korszerűsítése | 22,675 | területi | Meghirdetve 2016. áprilisban |
+| 11. | TOP-6.5.1-15 | Önkormányzati épületek energetikai korszerűsítése | 22,069 | területi | Meghirdetve 2016. áprilisban |
 
-| 12. | TOP-6.5.2-15 | Önkormányzatok által vezérelt, a helyi adottságokhoz illeszkedő, megújuló energiaforrások kiaknázására irányuló energiaellátás megvalósítása, komplex fejlesztési programok keretében | 5,569 | területi | Meghirdetve 2016. áprilisban |
+| 12. | TOP-6.5.2-15 | Önkormányzatok által vezérelt, a helyi adottságokhoz illeszkedő, megújuló energiaforrások kiaknázására irányuló energiaellátás megvalósítása, komplex fejlesztési programok keretében | 5,809 | területi | Meghirdetve 2016. áprilisban |
 
-| 13. | TOP-6.6.1-15 | Egészségügyi alapellátás infrastrukturális fejlesztése | 5,708 | területi | Meghirdetve 2015. decemberben |
+| 13. | TOP-6.6.1-15 | Egészségügyi alapellátás infrastrukturális fejlesztése | 5,688 | területi | Meghirdetve 2015. decemberben |
 
-| 14. | TOP-6.6.2-15 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 4,274 | területi | Meghirdetve 2015. decemberben |
+| 14. | TOP-6.6.2-15 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 4,123 | területi | Meghirdetve 2015. decemberben |
 
-| 15. | TOP-6.7.1-15 | Megyei jogú városok leromlott városi területeinek rehabilitációja | 2,198 | területi | Meghirdetve 2015. decemberben |
+| 15. | TOP-6.7.1-15 | Megyei jogú városok leromlott városi területeinek rehabilitációja | 2,182 | területi | Meghirdetve 2015. decemberben |
 
-| 16. | TOP-6.8.2-15 | Helyi foglalkoztatási együttműködések a megyei jogú város területén és várostérségében | 25,621 | területi | Meghirdetve 2015. decemberben |
+| 16. | TOP-6.8.2-15 | Helyi foglalkoztatási együttműködések a megyei jogú város területén és várostérségében | 25,414 | területi | Meghirdetve 2015. decemberben |
 
 | 17. | TOP-6.9.1-15 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 2,020 | területi | Meghirdetve 2015. decemberben |
 
-| 18. | TOP-6.1.1-16 | Ipari parkok, iparterületek fejlesztése | 21,331 | területi | Meghirdetve 2016. decemberben |
+| 18. | TOP-6.1.1-16 | Ipari parkok, iparterületek fejlesztése | 13,937 | területi | Meghirdetve 2016. decemberben |
 
-| 19. | TOP-6.1.2-16 | Inkubátorházak fejlesztése | 6,543 | területi | Meghirdetve 2016. decemberben |
+| 19. | TOP-6.1.2-16 | Inkubátorházak fejlesztése | 4,923 | területi | Meghirdetve 2016. decemberben |
 
-| 20. | TOP-6.1.3-16 | Helyi gazdaságfejlesztés | 2,076 | területi | Meghirdetve 2016. decemberben |
+| 20. | TOP-6.1.3-16 | Helyi gazdaságfejlesztés | 2,040 | területi | Meghirdetve 2016. decemberben |
 
-| 21. | TOP-6.1.4-16 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 19,255 | területi | Meghirdetve 2016. decemberben |
+| 21. | TOP-6.1.4-16 | Társadalmi és környezeti szempontból fenntartható turizmusfejlesztés | 18,285 | területi | Meghirdetve 2016. decemberben |
 
-| 22. | TOP-6.1.5-16 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 33,689 | területi | Meghirdetve 2016. decemberben |
+| 22. | TOP-6.1.5-16 | A gazdaságfejlesztést és a munkaerő mobilitás ösztönzését szolgáló közlekedésfejlesztés | 34,930 | területi | Meghirdetve 2016. decemberben |
 
-| 23. | TOP-6.2.1-16 | Családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztése | 11,643 | területi | Meghirdetve 2016. decemberben |
+| 23. | TOP-6.2.1-16 | Családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztése | 11,217 | területi | Meghirdetve 2016. decemberben |
 
-| 24. | TOP-6.3.1-16 | Barnamezős területek rehabilitációja | 1,800 | területi | Meghirdetve 2017. februárban |
+| 24. | TOP-6.3.1-16 | Barnamezős területek rehabilitációja | 1,30 | területi | Meghirdetve 2017. februárban |
 
-| 25. | TOP-6.3.2-16 | Zöld város kialakítása | 21,736 | területi | Meghirdetve 2017. februárban |
+| 25. | TOP-6.3.2-16 | Zöld város kialakítása | 22,249 | területi | Meghirdetve 2017. februárban |
 
-| 26. | TOP-6.3.3-16 | Városi környezetvédelmi infrastruktúra-fejlesztések | 6,380 | területi | Meghirdetve 2016. decemberben |
+| 26. | TOP-6.3.3-16 | Városi környezetvédelmi infrastruktúra-fejlesztések | 5,348 | területi | Meghirdetve 2016. decemberben |
 
-| 27. | TOP-6.4.1-16 | Fenntartható városi közlekedésfejlesztés | 19,556 | területi | Meghirdetve 2016. decemberben |
+| 27. | TOP-6.4.1-16 | Fenntartható városi közlekedésfejlesztés | 17,536 | területi | Meghirdetve 2016. decemberben |
 
-| 28. | TOP-6.5.1-16 | Önkormányzati épületek energetikai korszerűsítése | 26,590 | területi | Meghirdetve 2017. februárban |
+| 28. | TOP-6.5.1-16 | Önkormányzati épületek energetikai korszerűsítése | 25,848 | területi | Meghirdetve 2017. februárban |
 
-| 29. | TOP-6.6.1-16 | Egészségügyi alapellátás infrastrukturális fejlesztése | 7,231 | területi | Meghirdetve 2016. decemberben |
+| 29. | TOP-6.6.1-16 | Egészségügyi alapellátás infrastrukturális fejlesztése | 7,895 | területi | Meghirdetve 2016. decemberben |
 
-| 30. | TOP-6.6.2-16 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 4,570 | területi | Meghirdetve 2016. decemberben |
+| 30. | TOP-6.6.2-16 | A szociális alapszolgáltatások infrastruktúrájának bővítése, fejlesztése | 3,877 | területi | Meghirdetve 2016. decemberben |
 
-| 31. | TOP-6.7.1-16 | Megyei jogú városok leromlott városi területeinek rehabilitációja | 6,985 | területi | Meghirdetve 2017. februárban |
+| 31. | TOP-6.7.1-16 | Megyei jogú városok leromlott városi területeinek rehabilitációja | 6,683 | területi | Meghirdetve 2017. februárban |
 
-| 32. | TOP-6.8.2-16 | Helyi foglalkoztatási együttműködések a megyei jogú város területén és várostérségében | 6,523 | területi | Meghirdetve 2017. márciusban |
+| 32. | TOP-6.8.2-16 | Helyi foglalkoztatási együttműködések a megyei jogú város területén és várostérségében | 4,655 | területi | Meghirdetve 2017. márciusban |
 
-| 33. | TOP-6.9.1-16 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 2,800 | területi | Meghirdetve 2017. márciusban |
+| 33. | TOP-6.9.1-16 | A társadalmi együttműködés erősítését szolgáló helyi szintű komplex programok | 3,478 | területi | Meghirdetve 2017. márciusban |
 
-| 34. | TOP-6.9.2-16 | A helyi identitás és kohézió erősítése | 6,954 | területi | Meghirdetve 2017. márciusban |
+| 34. | TOP-6.9.2-16 | A helyi identitás és kohézió erősítése | 6,603 | területi | Meghirdetve 2017. márciusban |
 
-| 35. | TOP-6.2.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 20,507 | területi | Meghirdetve 2019. áprilisban |
+| 35. | TOP-6.2.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 21,543 | területi | Meghirdetve 2019. áprilisban |
 
-| 36. | TOP-6.5.1-19 | Önkormányzati épületek energetikai korszerűsítése | 9,722 | területi | 2020. január |
+| 36. | TOP-6.5.1-19 | Önkormányzati épületek energetikai korszerűsítése | 18,158 | területi | Meghirdetve 2020. januárban |
 
 7. Közösségi szinten irányított városi helyi fejlesztések (CLLD) című 7. prioritás
 
@@ -234,11 +254,18 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege teljes költség alapon (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP-7.1.1-16 | Kulturális és közösségi terek infrastrukturális fejlesztése és helyi közösségszervezés a városi helyi fejlesztési stratégiához kapcsolódva | 45,644 | standard | Meghirdetve 2016. májusban |
+| 2. | TOP-7.1.1-16 | Kulturális és közösségi terek infrastrukturális fejlesztése és helyi közösségszervezés a városi helyi fejlesztési stratégiához kapcsolódva | 38,550 | standard | Meghirdetve 2016. májusban |
 
 [^1]: Az 1/A. pontot az 1849/2017. (XI. 14.) Korm. határozat 1. pontja iktatta be, szövege az 1400/2019. (VII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1/A. pont a) alpontja az 1786/2019. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1/A. pont f) alpontja az 1786/2019. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 1/B. pontot az 1400/2019. (VII. 5.) Korm. határozat 2. pontja iktatta be.
-[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet az 1143/2016. (III. 21.) Korm. határozat 1–2. pontja, az 1365/2016. (VII. 13.) Korm. határozat 1. és 2. pontja, az 1694/2016. (XI. 29.) Korm. határozat 1–2. pontja, az 1052/2017. (II. 3.) Korm. határozat 1–2. pontja, az 1849/2017. (XI. 14.) Korm. határozat 2–3. pontja, az 1178/2018. (III. 28.) Korm. határozat 1–2. pontja, az 1303/2018. (VII. 4.) Korm. határozat 1. pontja, az 1619/2018. (XI. 27.) Korm. határozat 2. pontja, az 1140/2019. (III. 18.) Korm. határozat 1. pontja és 3. pontja, az 1400/2019. (VII. 5.) Korm. határozat 3. pontja, az 1786/2019. (XII. 23.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^2]: Az 1/A. pont a) alpontja az 1478/2020. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1/A. pont b) alpontja az 1478/2020. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1/A. pont c) alpontját az 1478/2020. (VIII. 7.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^5]: Az 1/A. pont d) alpontját az 1478/2020. (VIII. 7.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^6]: Az 1/A. pont e) alpontját az 1478/2020. (VIII. 7.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^7]: Az 1/A. pont f) alpontját az 1478/2020. (VIII. 7.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^8]: Az 1/B. pontot az 1400/2019. (VII. 5.) Korm. határozat 2. pontja iktatta be, szövege az 1478/2020. (VIII. 7.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: Az 1/C. pontot az 1478/2020. (VIII. 7.) Korm. határozat 3. pontja iktatta be.
+[^10]: Az 1/D. pontot az 1478/2020. (VIII. 7.) Korm. határozat 3. pontja iktatta be.
+[^11]: Az 1/E. pontot az 1478/2020. (VIII. 7.) Korm. határozat 3. pontja iktatta be.
+[^12]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 1. melléklet az 1143/2016. (III. 21.) Korm. határozat 1–2. pontja, az 1365/2016. (VII. 13.) Korm. határozat 1. és 2. pontja, az 1694/2016. (XI. 29.) Korm. határozat 1–2. pontja, az 1052/2017. (II. 3.) Korm. határozat 1–2. pontja, az 1849/2017. (XI. 14.) Korm. határozat 2–3. pontja, az 1178/2018. (III. 28.) Korm. határozat 1–2. pontja, az 1303/2018. (VII. 4.) Korm. határozat 1. pontja, az 1619/2018. (XI. 27.) Korm. határozat 2. pontja, az 1140/2019. (III. 18.) Korm. határozat 1. pontja és 3. pontja, az 1400/2019. (VII. 5.) Korm. határozat 3. pontja, az 1786/2019. (XII. 23.) Korm. határozat 3–4. pontja, az 1478/2020. (VIII. 7.) Korm. határozat 4. pontja szerint módosított szöveg.
