@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-260-20-
 | --- | --- | --- |
 | 2020-06-12 | 2020-260-20-22.1 | 260/2020. (VI. 4.) Korm. rendelet |
 | 2020-06-13 | 2020-260-20-22.2 | 2010: CXXX. törvény |
+| 2020-08-08 | 2020-260-20-22.3 | 383/2020. (VIII. 7.) Korm. rendelet |
