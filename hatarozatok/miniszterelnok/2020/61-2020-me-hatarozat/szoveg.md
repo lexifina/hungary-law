@@ -4,4 +4,6 @@ a) Perényi Sigismund Petert a Közigazgatás- és Közszolgáltatás-fejleszté
 
 b) Dányi Gábort, az Innovációs és Technológiai Minisztérium helyettes államtitkárát a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program monitoring bizottsága elnökévé – 2020. június 25-i hatállyal – kinevezem.
 
-2. Visszavonom a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 118/2019. (X. 30.) ME határozatot.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
