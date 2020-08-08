@@ -1,3 +1,3 @@
-## 2. § A 45/2016. NGM rendelet 21. §-a a következő (2a) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(2a) Az adóraktár engedélyese az általa igazoltan tüzelő- vagy fűtőanyagcélra, hulladékhasznosítási tevékenység keretében előállított Jöt. 3. § (3) bekezdés 1. pont c) alpontja szerinti jövedéki termék mennyiségét a Jöt. 132. § (5) bekezdése szerinti esetben a Jöt. 110. § (2) bekezdése szerint alkalmazni rendelt adómértékhez tartozó mértékegységben tartja nyilván. Az ilyen jövedéki termék esetében a Jöt. 110. § (2) bekezdése szerint alkalmazni rendelt adómértékhez tartozó mértékegységet kell az adó alapjául szolgáló mértékegységnek tekinteni.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

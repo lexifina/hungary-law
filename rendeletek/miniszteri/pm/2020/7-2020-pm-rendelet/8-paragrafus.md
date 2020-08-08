@@ -1,3 +1,3 @@
-## 7. § A 45/2016. NGM rendelet 85. §-a a következő (5) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(5) A kiszabott bírságnak a pénzforgalom lebonyolításáról szóló MNB rendelet szerinti azonnali átutalással történő megfizetéséről a (4) bekezdésben meghatározott nyugta kiállítására nem kerül sor. A befizetésről a jogsértő személy kérésére igazolást állít ki az ellenőrzést végző.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

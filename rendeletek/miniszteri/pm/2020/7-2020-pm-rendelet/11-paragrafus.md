@@ -1,15 +1,17 @@
-## 10. § A 45/2016. NGM rendelet 93/M. §-a a következő (3a) bekezdéssel egészül ki:
-
-## „(3a) Dohánygyártmány esetében a zárjegykészlet igazolt csökkenéseként a (3) bekezdés szerint elszámolható mennyiséget az elszámolási időszakban termék-előállításhoz felhasznált dohánygyártmány zárjegy mennyiségéhez (darabszámhoz) képest kell megállapítani függetlenül azok fajtájától (típusaitól).”
+## 10. §[^10]
 
 ## 11. § A 45/2016. NGM rendelet
 
-a) 1. melléklete az 1. melléklet szerint,
+a)[^11]
 
-b) 3. melléklete a 2. melléklet szerint,
+b)[^12]
 
-c) 4. melléklete a 3. melléklet szerint,
+c)[^13]
 
-d)[^3]
+d)[^14]
 
-[^3]: A 11. § d) pontja a 17. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 11. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § d) pontja a 17. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.

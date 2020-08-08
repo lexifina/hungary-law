@@ -1,3 +1,5 @@
-## 15. § Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 5/2015. (II. 27.) NGM rendelet 3. § (4) bekezdésében a „megyei kormányhivatal földművelésügyi feladatkörében eljáró megyeszékhely szerinti járási hivatala” szövegrészek helyébe a „földművelésügyi feladatkörében eljáró megyei kormányhivatal” szöveg lép.
+## 15. §[^18]
 
 ## 3. Záró rendelkezések
+
+[^18]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
