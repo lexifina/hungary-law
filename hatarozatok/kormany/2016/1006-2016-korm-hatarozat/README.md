@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1006-30
 | 2020-04-22 | 2016-1006-30-22.18 | 1201/2016. (IV. 15.) Korm. határozat |
 | 2020-06-12 | 2016-1006-30-22.19 | 1201/2016. (IV. 15.) Korm. határozat |
 | 2020-07-03 | 2016-1006-30-22.20 | 1201/2016. (IV. 15.) Korm. határozat |
+| 2020-08-08 | 2016-1006-30-22.21 | 1201/2016. (IV. 15.) Korm. határozat |
