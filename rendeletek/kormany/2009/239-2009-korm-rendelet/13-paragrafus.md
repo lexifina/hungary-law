@@ -1,11 +1,11 @@
-13. § (1)[^56] A szálláshely-szolgáltató a 6. § (1) bekezdésében meghatározott adatokban bekövetkezett változást haladéktalanul köteles írásban bejelenteni a jegyzőnek.
+13. § (1)[^58] A szálláshely-szolgáltató a 6. § (1) bekezdésében meghatározott adatokban bekövetkezett változást haladéktalanul köteles írásban bejelenteni a jegyzőnek.
 
 (2) A jegyző az adatokban történt változást a bejelentés alapján a nyilvántartásba bejegyzi.
 
-(3)–(4)[^57]
+(3)–(4)[^59]
 
-(5)[^58] A szálláshely megszűnését a szálláshely-szolgáltató köteles a jegyzőnek a megszűnést követő nyolc napon belül bejelenteni. A jegyző a bejelentést követően haladéktalanul törli a szálláshelyet a nyilvántartásból.
+(5)[^60] A szálláshely megszűnését a szálláshely-szolgáltató köteles a jegyzőnek a megszűnést követő nyolc napon belül bejelenteni. A jegyző a bejelentést követően haladéktalanul törli a szálláshelyet a nyilvántartásból.
 
-[^56]: A 13. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 121. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^57]: A 13. § (3)–(4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § d) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^58]: A 13. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 119. § (9) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^58]: A 13. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 121. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 13. § (3)–(4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 121. § d) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^60]: A 13. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 119. § (9) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
