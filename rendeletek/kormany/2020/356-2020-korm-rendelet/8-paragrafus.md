@@ -1,3 +1,5 @@
-## 7. § A 487/2015. (XII. 30.) Korm. rendelet 3. § (2) bekezdés b) pontjában az „esetén” szövegrész helyébe az „esetén – a (2a) bekezdésben foglalt kivétellel –” szöveg lép.
+## 7. §[^8]
 
 ## 4. A hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentésekről és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő intézkedésekről szóló 490/2015. (XII. 30.) Korm. rendelet módosítása
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
