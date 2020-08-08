@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-235-20-
 | 2019-12-02 | 2019-235-20-22.4 | 2010: CXXX. törvény |
 | 2019-12-31 | 2019-235-20-22.5 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-01-01 | 2019-235-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-08-08 | 2019-235-20-22.7 | 383/2020. (VIII. 7.) Korm. rendelet |

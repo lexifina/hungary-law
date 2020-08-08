@@ -10,5 +10,5 @@
 
 (5)[^2]
 
-[^1]: Az 1. § (4) bekezdése a 15. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^2]: Az 1. § (5) bekezdése a 15. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^1]: Az 1. § (4) bekezdése a 15. § (5) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^2]: Az 1. § (5) bekezdése a 15. § (5) bekezdése alapján 2021. január 1-jén lép hatályba.
