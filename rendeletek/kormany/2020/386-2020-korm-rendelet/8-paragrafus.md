@@ -1,0 +1,3 @@
+## 7. § A Korm. rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A 9. § (1) bekezdés d)–f) pontjában meghatározott támogatási célok alá tartozó beruházás esetében ha az elszámolható költségek személyi jellegűek, azt közvetlenül a beruházással létrehozott munkahelyek tekintetében az új munkavállalók első munkanapjától számított legfeljebb 24 havi személyi jellegű ráfordítás teszi ki, amennyiben az a foglalkoztatottak éves átlagos statisztikai állományi létszámának tényleges növekedéséhez vezet, azzal, hogy a munkahelyeket a beruházás megkezdésétől számított 3 éven belül kell létrehozni.”
