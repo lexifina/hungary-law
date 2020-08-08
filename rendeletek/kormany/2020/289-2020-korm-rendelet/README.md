@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-289-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-06-18 | 2020-289-20-22.1 | 289/2020. (VI. 17.) Korm. rendelet |
+| 2020-08-08 | 2020-289-20-22.2 | 387/2020. (VIII. 7.) Korm. rendelet |

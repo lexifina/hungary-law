@@ -1,6 +1,6 @@
 ## 2. § Ez a rendelet a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény hatálybalépésének napján lép hatályba.
 
-1. melléklet a 289/2020. (VI. 17.) Korm. rendelethez
+1. melléklet a 289/2020. (VI. 17.) Korm. rendelethez[^1]
 
 |  | A | B | C |
 
@@ -60,6 +60,8 @@
 
 | 3 | Halászat, halgazdálkodás |
 
+| 6820 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése – kizárólag abban az esetben, ha a mező- és erdőgazdálkodási földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 17. pontja szerinti mező-, erdőgazdasági hasznosítású föld vonatkozásában is végzi |
+
 | 10 | Kormányzati létesítmények | 84 | Közigazgatás, védelem; kötelező társadalombiztosítás |
 
 | 11 | Egészségügy | 86 | Humán-egészségügyi ellátás |
@@ -88,9 +90,7 @@
 
 | 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 17 | Építőalapanyag-ipar | 81 | Kőfejtés, homok-, agyagbányászat |
-
-| 23 | Nemfém ásványi termék gyártása |
+| 17 | Építőalapanyag-ipar | 23 | Nemesfém ásványi termék gyártása |
 
 | 18 | Közlekedés, szállítás, logisztika | 49 | Szárazföldi, csővezetékes szállítás |
 
@@ -109,3 +109,15 @@
 | 56 | Vendéglátás |
 
 | 21 | Adminisztratív és szolgáltatást támogató tevékenység | 782 | Munkaerőkölcsönzés |
+
+| 22 | Kritikus jelentőségű nyersanyag | 5 | Szénbányászat |
+
+| 6 | Kőolaj-, földgázkitermelés |
+
+| 7 | Fémtartalmú érc bányászata |
+
+| 8 | Egyéb bányászat |
+
+| 9 | Bányászati szolgáltatás |
+
+[^1]: Az 1. melléklet a 387/2020. (VIII. 7.) Korm. rendelet 1. §-a szerint módosított szöveg.
