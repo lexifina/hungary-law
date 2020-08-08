@@ -12,4 +12,9 @@ b) működési támogatás esetében meghaladja a vállalkozásonként évente 7
 
 (5) A (4) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-ai határozzák meg.
 
-(6) E rendelet alapján az 1407/2013/EU bizottsági rendelet és a 651/2014/EU bizottsági rendelet 53. cikke szerinti támogatások esetén 2021. június 30-ig lehet támogatási döntést hozni.
+(5a)[^8] Az egyedi átmeneti támogatásoknak az Atr. 6. melléklete szerinti adatait az átmeneti támogatást jóváhagyó európai bizottsági határozat szerint közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel az egyedi átmeneti támogatást nyújtó 2021. február 1-jéig továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az egyedi átmeneti támogatásoknak az Atr. 6. melléklete szerinti adatait.
+
+(6)[^9] E rendelet alapján az 1407/2013/EU bizottsági rendelet és a 651/2014/EU bizottsági rendelet 53. cikke szerinti támogatások esetén 2021. június 30-ig, átmeneti támogatás esetén 2020. december 31-ig lehet támogatási döntést hozni.
+
+[^8]: A 6. § (5a) bekezdését a 32/2020. (VIII. 7.) BM rendelet 3. §-a iktatta be.
+[^9]: A 6. § (6) bekezdése a 32/2020. (VIII. 7.) BM rendelet 6. § c) pontja szerint módosított szöveg.
