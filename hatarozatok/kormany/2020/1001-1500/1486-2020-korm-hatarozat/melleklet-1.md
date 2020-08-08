@@ -82,19 +82,9 @@
 
 ## k) az Ávr. 172/A. § (9) bekezdésében biztosított jogkörében eljárva az Ávr. 172/A. § (3) bekezdése alapján a 2018. decemberi, 2019. márciusi, júniusi, szeptemberi, októberi és novemberi hónapokra vonatkozóan a Kvtv. 1. melléklet XIX. Uniós Fejlesztések fejezet részére megállapított befizetési kötelezettséget elengedi.
 
-## 2. A Kék Bolygó Klímavédelmi Kockázati Tőkealapról szóló 1260/2020. (V. 27.) Korm. határozat [a továbbiakban: 1260/2020. (V. 27.) Korm. határozat] 2. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány a Kék Bolygó Klímavédelmi Alapítvány tevékenységének bővítése és Magyarország környezet- és klímavédelmi céljainak elérése érdekében)
-
-## „2. egyetért azzal, hogy a Kék Bolygó Klímavédelmi Alapítvány (székhely: 1013 Budapest, Döbrentei utca 2., nyilvántartási szám: 01-01-0012358) a Kék Bolygó Klímavédelmi Befektetési Zártkörűen Működő Részvénytársaságban (székhely: 1013 Budapest, Döbrentei utca 2., cégjegyzékszám: 01-10-140361) (a továbbiakban: Kék Bolygó Klímavédelmi Befektetési Zrt.) megvalósítandó tőkeemelés útján összesen 5 000 000 000 forintot tőkeként biztosítson a Tőkealap részére;”
-
-## 3. Az 1260/2020. (V. 27.) Korm. határozat
-
-## a) 3. pont nyitó szövegrészében a „Kék Bolygó Klímavédelmi Befektetési Zrt.” szövegrész helyébe a „Kék Bolygó Klímavédelmi Alapítvány” szöveg,
-
-## b) 3. pontjában a „2020. június 30.” szövegrész helyébe a „felmerülés ütemében” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1486/2020. (VIII. 7.) Korm. határozathoz
 
@@ -115,3 +105,6 @@ XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
 XLV. Kiemelt Kormányzati Magasépítési Beruházások
 
 XLVII. Gazdaságvédelmi Alap
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
