@@ -1,1 +1,3 @@
-## „e) a termékek és szolgáltatások teljesítésének az uniós támogatási szerződésben és a hazai társfinanszírozási támogatási szerződésben foglaltakkal való összhangját – ide nem értve a 12. § (1) bekezdése szerinti teljesítés nélküli előlegszámlát,”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

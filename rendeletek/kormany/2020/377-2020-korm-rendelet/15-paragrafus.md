@@ -1,1 +1,3 @@
-## „(9) A nemzeti hatóság minden év október 15-ig együttműködési programonként kimutatást küld az audit hatóság és az igazoló hatóság részére az előző számviteli évben felmerült szabálytalanságokról.”
+## 14. §[^15]
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

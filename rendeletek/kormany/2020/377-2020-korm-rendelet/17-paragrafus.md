@@ -1,3 +1,3 @@
-## 16. § A Rendelet 47. §-a a következő (3a) bekezdéssel egészül ki:
+## 16. §[^17]
 
-## „(3a) Ha a (3) bekezdéssel összefüggésben keletkezett vagy a befizetést követően fennmaradt késedelmi kamat mértéke nem éri el a harminc eurót, az irányító hatóság a késedelmi kamat követelésétől eltekinthet.”
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
