@@ -1,1 +1,0 @@
-## „h) kultúrát és kulturális örökség megőrzését előmozdító támogatásban részesülő vállalkozás esetén nehéz helyzetben lévő vállalkozás részére és átmeneti támogatás esetében abban az esetben, ha a vállalkozás 2019. december 31-én nehéz helyzetben volt,”
