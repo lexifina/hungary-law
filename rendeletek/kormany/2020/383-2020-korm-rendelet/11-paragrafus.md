@@ -1,1 +1,3 @@
-## „(3) A 4. § (3) bekezdése és a 4. melléklet 2021. január 1-jén lép hatályba.”
+## 10. §[^15]
+
+[^15]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
