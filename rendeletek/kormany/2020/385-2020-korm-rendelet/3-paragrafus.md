@@ -1,3 +1,0 @@
-## 2. § A 187/2019. (VII. 30.) Korm. rendelet 25. §-a helyébe a következő rendelkezés lép:
-
-## „25. § A támogatási jogviszony a teljesítést – ideértve az ellenőrzéstűrési, valamint a dokumentummegőrzési és a fenntartási kötelezettséget is – megelőzően csak vis maior, a támogatói okirat Kincstár általi visszavonása, felmondás, a támogatást igénylő támogatási jogviszonytól való elállása, a 41. § (1) bekezdésében meghatározott esetek alapján, valamint a 3. és 4. célterület tekintetében a vállalkozást alapító vezető tisztségviselő vagy egyéni vállalkozó által a támogatási időszak alatt igénybe vett csecsemőgondozási díj esetében szűnik meg.”

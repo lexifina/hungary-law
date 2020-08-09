@@ -1,3 +1,0 @@
-## 3. § A 187/2019. (VII. 30.) Korm. rendelet 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a támogatást igénylő a kérelmét visszavonta, vagy az e rendeletben meghatározott valamely megszűnési ok bekövetkezik, a Kincstár – a vis maior, a felmondás, a 41. § (1) bekezdésében meghatározott esetek, valamint a 3. és 4. célterület tekintetében a vállalkozást alapító vezető tisztségviselő vagy egyéni vállalkozó által a támogatási időszak alatt igénybe vett csecsemőgondozási díj kivételével – a jogosulatlan igénybevételt megállapítja, egyúttal a támogatói okiratot visszavonja, és rendelkezik a támogatást igénylő esetleges visszafizetési kötelezettségéről.”
