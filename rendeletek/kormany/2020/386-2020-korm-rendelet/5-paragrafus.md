@@ -1,1 +1,3 @@
-## „g) a 9. § (1) bekezdés g) pontja szerinti beruházás esetében az e bekezdés b) és c) pontját nem kell alkalmazni.”
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
