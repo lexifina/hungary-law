@@ -1,6 +1,6 @@
 A Kormány a Honvédelmi Sportközpontok fejlesztéséhez szükséges feltételek biztosításáról szóló 1611/2017. (IX. 5.) Korm. határozatban foglaltak végrehajtása érdekében
 
-1. egyetért a Szarvasi Honvédelmi Sportközpont (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Szarvas belterület 4609/1 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
+1.[^1] egyetért a Szarvasi Honvédelmi Sportközpont (a továbbiakban: Beruházás) programszerű kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Szarvas belterület 4609/1 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Honvédelmi Sportszövetség vagyonkezelésébe kerüljenek;
 
 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 876 223 775 forintban határozza meg;
 
@@ -25,3 +25,5 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
+
+[^1]: Az 1. pont az 1490/2020. (VIII. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
