@@ -34,4 +34,6 @@
 
 ## Határidő: a 4. pontban foglalt határidőt követő 60 napon belül
 
-1. melléklet az 1306/2020. (VI. 12.) Korm. határozathoz
+1. melléklet az 1306/2020. (VI. 12.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1492/2020. (VIII. 11.) Korm. határozattal megállapított szöveg.

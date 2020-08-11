@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1306-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-06-12 | 2020-1306-30-22.1 | 1306/2020. (VI. 12.) Korm. határozat |
+| 2020-08-11 | 2020-1306-30-22.2 | 1492/2020. (VIII. 11.) Korm. határozat |
