@@ -1,0 +1,1 @@
+## 10. § Az R5. 1. melléklet 2. pont B) alpont c) pontjában a „Galga patak kezelése.” szövegrész helyébe a „Galga patak kezelése, Heves megyében Mátraszentimre közigazgatási területén a Kövicses és a Csörgő-patakok kezelése.” szöveg lép.
