@@ -4,4 +4,6 @@
 
 (2) A belvízrendszerekben a vizek tervszerű visszatartása, szabályozott lefolyása és kormányzása céljából zsilipeket, tiltókat kell létesíteni. A tervszerű vízvisszatartást a vízjogi üzemeltetési engedélyben rögzíteni kell.
 
-(3) Belvízcsatorna közérdek mértékét meghaladó célra csak az alapfunkció sérelme nélkül vehető igénybe.
+(3)[^66] Csatorna közérdek mértékét meghaladó célra csak az alapfunkció sérelme nélkül vehető igénybe.
+
+[^66]: Az 56. § (3) bekezdése a 368/2020. (VII. 28.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

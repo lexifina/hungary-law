@@ -6,8 +6,8 @@
 
 (3) Csapadékvíz elvezetése csak a 18. § (3) bekezdésében meghatározott esetben történhet egyesített rendszerű csatornázással.
 
-(4)[^63] A belterületi vízelvezető hálózatot, illetve annak részelemeit a településrendezési eszközökkel összhangban lévő vízrendezési terv és a vízkár-elhárítási terv figyelembevételével kell kialakítani.
+(4)[^69] A belterületi vízelvezető hálózatot, illetve annak részelemeit a településrendezési eszközökkel összhangban lévő vízrendezési terv és a vízkár-elhárítási terv figyelembevételével kell kialakítani.
 
 (5) A belterületi vízrendezést csak a külterületi kapcsolódásokkal összhangban lehet elvégezni.
 
-[^63]: Az 58. § (4) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^69]: Az 58. § (4) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.

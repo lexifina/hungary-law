@@ -1,11 +1,11 @@
 ## 76. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-77. §[^78] (1)[^79]
+77. §[^85] (1)[^86]
 
-(2)[^80]
+(2)[^87]
 
 (3) 2015. december 22. napján hatályukat vesztik a karsztvízből történő, mikroöntözéstől eltérő öntözésre vonatkozó, határozott időtartamú vízjogi üzemeltetési engedélyek.
 
-[^78]: A 77. § a 348/2012. (XII. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^79]: A 77. § (1) bekezdését a 156/2012. (VII. 13.) Korm. rendelet – 182/2013. (VI. 7.) Korm. rendelet 10. §-ával megállapított – 9. §-a hatályon kívül helyezte.
-[^80]: A 77. § (2) bekezdése a 400/2012. (XII. 20.) Korm. rendelet 2. §-a alapján nem lép hatályba.
+[^85]: A 77. § a 348/2012. (XII. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^86]: A 77. § (1) bekezdését a 156/2012. (VII. 13.) Korm. rendelet – 182/2013. (VI. 7.) Korm. rendelet 10. §-ával megállapított – 9. §-a hatályon kívül helyezte.
+[^87]: A 77. § (2) bekezdése a 400/2012. (XII. 20.) Korm. rendelet 2. §-a alapján nem lép hatályba.
