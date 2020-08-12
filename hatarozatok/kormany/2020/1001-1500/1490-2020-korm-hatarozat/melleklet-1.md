@@ -50,17 +50,17 @@
 
 ## Határidő: 2020. szeptember 30.
 
-## 2. A Baján megvalósuló Honvédelmi Sportközpont építéséről szóló 1767/2019. (XII. 23.) Korm. határozat 1. pontjában a „Nemzeti Sportközpontok” szövegrész helyébe a „Honvédelmi Sportszövetség” szöveg lép.
+## 2.[^1]
 
-## 3. A Balassagyarmaton megvalósuló Honvédelmi Sportközpont építéséről szóló 1768/2019. (XII. 23.) Korm. határozat 1. pontjában a „Nemzeti Sportközpontok” szövegrész helyébe a „Honvédelmi Sportszövetség” szöveg lép.
+## 3.[^2]
 
-## 4. A Szarvason megvalósuló Honvédelmi Sportközpont építéséről szóló 1769/2019. (XII. 23.) Korm. határozat 1. pontjában a „Nemzeti Sportközpontok” szövegrész helyébe a „Honvédelmi Sportszövetség” szöveg lép.
+## 4.[^3]
 
-## 5. A Szigetváron megvalósuló Honvédelmi Sportközpont építéséről szóló 1770/2019. (XII. 23.) Korm. határozat 1. pontjában a „Nemzeti Sportközpontok” szövegrész helyébe a „Honvédelmi Sportszövetség” szöveg lép.
+## 5.[^4]
 
-## 6. Az Újfehértón megvalósuló Honvédelmi Sportközpont építéséről szóló 1778/2019. (XII. 23.) Korm. határozat 1. pontjában a „Nemzeti Sportközpontok” szövegrész helyébe a „Honvédelmi Sportszövetség” szöveg lép.
+## 6.[^5]
 
-## 7. A Kormány visszavonja a Honvédelmi Sportközpontok fejlesztéséhez szükséges feltételek biztosításáról szóló 1611/2017. (IX. 5.) Korm. határozatot.
+## 7.[^6]
 
 1. melléklet az 1490/2020. (VIII. 11.) Korm. határozathoz
 
@@ -97,3 +97,10 @@ A Honvédelmi Sportközpontok I. ütemének helyszínei
 | 15. | Kecskemét |
 
 | 16. | Zalaegerszeg |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
