@@ -1,6 +1,6 @@
-## 7. §[^4] E rendeletnek a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 363/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
+## 7. §[^5] E rendeletnek a Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 181/2016. (VII. 1.) Korm. rendelet, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 363/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át a Módr. hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 531/2017. (XII. 29.) Korm. rendelethez[^6]
+1. melléklet az 531/2017. (XII. 29.) Korm. rendelethez[^7]
 
 Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóságok
 
@@ -1218,6 +1218,6 @@ Az egyes közigazgatási hatósági eljárásokban közreműködő szakhatóság
 
 |  | 70. | A fegyveres biztonsági őrség létrehozásával, megszüntetésével, valamint a fegyveres biztonsági őrzés elrendelésével kapcsolatos közigazgatási hatósági eljárás | Annak elbírálása, hogy biztosított-e a nukleáris létesítmény, illetve nukleáris és más radioaktív anyag, valamint a radioaktív hulladék átmeneti és végleges tárolója fizikai védelmi rendszerének engedélyezése során megállapított követelményekkel való összhang. | Nukleáris létesítmények, nukleáris és más radioaktív anyagok, illetve radioaktív hulladékok őrzésének elrendelése. | Országos Atomenergia Hivatal | – | 21 nap |
 
-[^4]: A 7. §-t a 363/2020. (VII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2020. július 24.
-[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a, a 375/2020. (VII. 30.) Korm. rendelet 103. §-a szerint módosított szöveg.
+[^5]: A 7. §-t a 363/2020. (VII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2020. július 24.
+[^7]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 191. §-ával megállapított, a 29/2020. (II. 28.) Korm. rendelet 7. §-a, a 30/2020. (II. 28.) Korm. rendelet 33. §-a, a 302/2020. (VI. 29.) Korm. rendelet 15. §-a, a 375/2020. (VII. 30.) Korm. rendelet 103. §-a szerint módosított szöveg.

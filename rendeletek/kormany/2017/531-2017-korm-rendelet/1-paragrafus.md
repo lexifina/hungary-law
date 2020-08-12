@@ -6,5 +6,8 @@
 
 (4) A Kormány a 3. melléklet szerinti, nemzetgazdasági szempontból kiemelt jelentőségű beruházások esetén az 1. melléklet szerinti közigazgatási hatósági eljárásokban tűzvédelmi szakkérdésben eljáró szakhatóságként a hivatásos katasztrófavédelmi szerv központi szervét jelöli ki.
 
+(5)[^3] A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű Paksi Atomerőmű kapacitásának fenntartására irányuló és az azzal kapcsolatos beruházások, valamint a vízgazdálkodási és vízvédelmi célú projektek esetén, továbbá a gyorsforgalmi közúthálózat fejlesztése során az 1. melléklet 9. pontja szerinti táblázat 2. és 3. sorában meghatározott környezetvédelmi közigazgatási hatósági eljárásokban vízgazdálkodási és vízvédelmi szakkérdésben országos illetékességgel eljáró szakhatóságként az országos vízügyi hatóságot és az országos vízvédelmi hatóságot jelöli ki.
+
 [^1]: Az 1. § (1) bekezdése a 363/2020. (VII. 23.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 363/2020. (VII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdését a 368/2020. (VII. 28.) Korm. rendelet 13. §-a iktatta be.

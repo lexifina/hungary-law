@@ -61,7 +61,3 @@
 16. a Moholy-Nagy Művészeti Egyetem MOME Campus Kreatív Innovációs és Tudáspark megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 151/2014. (V. 6.) Korm. rendelet szerinti beruházás,
 
 17. a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára által irányított szervezeti egységek Kecskemétre történő áthelyezésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 200/2014. (VIII. 14.) Korm. rendelet szerinti beruházás,
-
-18. a „Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok a budai várnegyed területén” programhoz kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 227/2014. (IX. 4.) Korm. rendelet szerinti beruházás,
-
-19. a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet szerinti beruházás,
