@@ -2,7 +2,7 @@
 
 ## A hatósági eljárásra vonatkozó általános rendelkezések
 
-1. § (1) A vízgazdálkodásról szóló törvényben (a továbbiakban: Vgtv.), valamint az e rendeletben meghatározott, a vízgazdálkodással összefüggő elsőfokú vízügyi hatósági jogkört a területi vízügyi hatóság, a másodfokú vízügyi hatósági jogkört az országos vízügyi hatóság (a továbbiakban együttesen: a vízügyi hatóság) gyakorolja. Az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) szerinti felügyeleti szervként (a továbbiakban: felügyeleti szerv) az országos vízügyi hatóság jár el.
+1. § (1)[^2] A vízgazdálkodásról szóló törvényben (a továbbiakban: Vgtv.), valamint az e rendeletben meghatározott, vízgazdálkodással összefüggő elsőfokú vízügyi hatósági jogkört – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a területi vízügyi hatóság, a másodfokú vízügyi hatósági jogkört az országos vízügyi hatóság (a továbbiakban együtt: vízügyi hatóság) gyakorolja.
 
 (2) A helyi vízgazdálkodási hatósági jogkört első fokon a települési önkormányzat jegyzője, valamint a 25. § (2) bekezdésében foglaltak fennállása esetén a járási hivatal, másodfokon a fővárosi és megyei kormányhivatal gyakorolja. Felügyeleti szervként a fővárosi és megyei kormányhivatal jár el.
 
@@ -18,11 +18,11 @@ d) 1/E. §-át,
 
 e) 1/F. § (2)–(4) bekezdéseit,
 
-f)[^2] 1/G. §-át, 1/I. §-át,
+f)[^3] 1/G. §-át, 1/I. §-át,
 
 g) 2. §-át,
 
-h)[^3] 4. §-át, 4/B. §-át,
+h)[^4] 4. §-át, 4/B. §-át,
 
 i) 5. § (2a) bekezdését,
 
@@ -38,9 +38,10 @@ n) 8/E–10. §-át,
 
 o) 21–23. §-át,
 
-p)[^4] 23/A–23/G. §-át.
+p)[^5] 23/A–23/G. §-át.
 
 [^1]: Az I. fejezet (1–1/H. §) az 518/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (3) bekezdés f) pontja a 286/2019. (XII. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdés h) pontja a 286/2019. (XII. 4.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (3) bekezdés p) pontját a 286/2019. (XII. 4.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdése a 368/2020. (VII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés f) pontja a 286/2019. (XII. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés h) pontja a 286/2019. (XII. 4.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (3) bekezdés p) pontját a 286/2019. (XII. 4.) Korm. rendelet 1. § (3) bekezdése iktatta be.

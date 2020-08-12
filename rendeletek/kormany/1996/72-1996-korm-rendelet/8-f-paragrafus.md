@@ -1,6 +1,6 @@
-## Kiemelt jelentőségű vízilétesítményekre vonatkozó rendelkezések[^122]
+## Kiemelt jelentőségű vízilétesítményekre vonatkozó rendelkezések[^124]
 
-8/F. §[^123] (1) A vízügyi hatóság a kiemelt jelentőségű vízilétesítmény esetén:
+8/F. §[^125] (1) A vízügyi hatóság a kiemelt jelentőségű vízilétesítmény esetén:
 
 a) a vízjogi létesítési engedélyezési eljárásban a vízügyi igazgatóság szakvéleménye alapján engedélyezi a vízilétesítmény megfigyelési rendszerének műszaki terveit és annak megvalósítását,
 
@@ -16,5 +16,5 @@ b) a megfigyelés eredményei alapján szükségessé vált intézkedések kell�
 
 (3) A kiemelt jelentőségű vízilétesítmény üzemeltetése során a vízügyi igazgatóság – a megfigyelési rendszer hiányosságainak vagy nem megfelelő működésének megállapítása esetén – a vízügyi hatóságnál kezdeményezi az üzemeltetővel szemben a megfigyelési rendszer e rendeletnek megfelelő kialakítására és működtetésére irányuló eljárás megindítását.
 
-[^122]: A 8/F. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^123]: A 8/F. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^124]: A 8/F. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^125]: A 8/F. §-t az 518/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
