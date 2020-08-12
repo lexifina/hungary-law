@@ -28,6 +28,9 @@ emberi erőforrások minisztere
 
 Határidő: 2021. március 31.
 
-2. Az 1796/2019. (XII. 23.) Korm. határozat 1. pont b) alpontjában a „2020. január 15.” szövegrész helyébe az „ütemezetten, de legkésőbb 2021. március 31.” szöveg lép.
+2.[^1]
 
-3. A Kormány visszavonja a Törökbálint Sportközpont továbbfejlesztése beruházás előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1391/2019. (VI. 27.) Korm. határozatot.
+3.[^2]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
