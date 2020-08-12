@@ -1,0 +1,39 @@
+A Kormány
+
+1. egyetért a Kiskörei Vízerőmű környezete turisztikai és sportcélú fejlesztésének koncepciójával és annak kormányzati magasépítési beruházásként történő előkészítésével (a továbbiakban: Beruházás) az ingatlan-nyilvántartás szerint Kisköre külterület 0680/20, 0680/21, 0680/22, 0680/23, 0680/26, 0680/27, 0680/28 és 0680/29 helyrajzi számú, az Abádszalók külterület 0878/11, 0878/12, 0878/13, 0878/21, 0878/23, 0878/24 és 0878/25 helyrajzi számú és a Tiszabura külterület 0341 helyrajzi számú ingatlanon;
+
+2. a Beruházás előkészítésének kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, az aktív Magyarországért felelős kormánybiztos szakmai közreműködésével;
+
+3. egyetért azzal, hogy a Beruházás előkészítője és megvalósítója a Beruházási Ügynökség legyen, a Magyar Kajak-Kenu Szövetség sportszakmai bevonásával;
+
+4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § c) és p) pontja szerinti előkészítési fázisaira a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 223 922 734 forintban határozza meg azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell megvalósítani;
+
+5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címnek a 26. Kiskörei Vízerőmű környezete turisztikai és sportcélú fejlesztésének előkészítése alcímmel történő kiegészítését;
+
+Felelős: pénzügyminiszter
+
+Határidő: azonnal
+
+6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a 4. pont szerinti összeg 2020. évi részének rendelkezésre állásáról az 5. pont szerinti előirányzaton;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+Határidő: azonnal
+
+7. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 4. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címben;
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+pénzügyminiszter
+
+Határidő: a felmerülés ütemében
+
+8. egyetért azzal, hogy a Beruházás eredményeként létrejövő vagyonelemek üzemeltetője a Nemzeti Sportközpontok legyen;
+
+9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – az aktív Magyarországért felelős kormánybiztos bevonásával – a feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összegek és a kifizetések ütemezésének bemutatásával.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+aktív Magyarországért felelős kormánybiztos
+
+Határidő: a feltételes közbeszerzési eljárást követően, azonnal
