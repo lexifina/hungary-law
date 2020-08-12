@@ -1,3 +1,3 @@
-1. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^9]
+1. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^10]
 
-[^9]: Az 1. melléklet a 288/2018. (XII. 21.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^10]: Az 1. melléklet a 288/2018. (XII. 21.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
