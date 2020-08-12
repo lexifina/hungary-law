@@ -14,21 +14,21 @@
 
 6. középső sáv: a folyók hullámterében a védő erdősáv és a parti sáv közötti terület;
 
-7. levezető sávok: a nagyvízi meder azon részei, amelyek az árvíz és a jég elvezetésében részt vesznek, ezek:
+7.[^1] levezető sávok: a nagyvízi meder azon részei, amelyek az árvíz és a jég elvezetésében vagy az árhullámok tározásában részt vesznek, ezek:
 
 a) elsődleges levezető sáv: a nagyvízi meder azon része, ahol az árvízi vízhozamok és a jég a legkedvezőbb áramlási viszonyok mellett vonulnak le,
 
 b) másodlagos levezető sáv: jelentősen részt vesz az árvizek levezetésében,
 
-c) átmeneti levezető sáv: az árvizek által időszakosan elöntött területrész,
+c)[^2] átmeneti levezető sáv: az árvizek által időszakosan elöntött területrész, amely a másodlagos levezető sávnál kisebb mértékben vesz részt az árvíz levezetésében,
 
 d) áramlási holttér: területrész, ahol nincs áramlás, de mint tározó térfogat szerepe van az árvizek levonulásában;
 
 8. mértékadó árvízszint: az árvízvédelmi művek, valamint a folyók medrét, a hullámteret és a nyílt árteret keresztező építmények tervezésénél és megvalósításánál figyelembe veendő, a vízgazdálkodásért felelős miniszter által megállapított árvízszint;
 
-9.[^1] nagyvízi mederkezelési terv: az 1. melléklet szerinti tervdokumentáció alapján készülő miniszteri rendelet, amely tartalmazza a nagyvízi meder kezelésének módját és feltételeit rögzítő, a folyó teljes hosszára vonatkozó célállapot elérése, illetve fenntartása érdekében szükséges előírásokat és intézkedéseket, helyszínrajzokat és térképi mellékleteket, továbbá meghatározza a levezető sávokat és az ingatlanok egyes sávok által való tényleges érintettségét;
+9.[^3] nagyvízi mederkezelési terv: az 1. melléklet szerinti tervdokumentáció alapján készülő miniszteri rendelet, amely tartalmazza a nagyvízi meder kezelésének módját és feltételeit rögzítő, a folyó teljes hosszára vonatkozó célállapot elérése, illetve fenntartása érdekében szükséges előírásokat és intézkedéseket, helyszínrajzokat, térképi mellékleteket és a partvonal EOV koordinátáit, továbbá meghatározza a levezető sávokat és az ingatlanok egyes sávok által való tényleges érintettségét;
 
-9a.[^2] nagyvízi mederkezelési tervdokumentáció: a nagyvízi mederkezelési terv alapjául szolgáló, az 1. melléklet szerint elkészítendő dokumentáció;
+9a.[^4] nagyvízi mederkezelési tervdokumentáció: a nagyvízi mederkezelési terv alapjául szolgáló, az 1. melléklet szerint elkészítendő dokumentáció;
 
 10. nyári gát: a hullámtéren épült vízilétesítmény, a fővédvonalnál alacsonyabb töltés, amely a mértékadó árvízszintnél alacsonyabb és ezért gyakoribb árvíz ellen véd;
 
@@ -52,5 +52,7 @@ c) a dombvidéki patakok, állandó vagy időszakos vízfolyások, völgyek, ví
 
 d) a folyók elhagyott ősmedrei, a folyókat kísérő, a jelenlegi medertől távolabb elhelyezkedő olyan vonulatok, terepmélyedések, amelyek eredete a folyó egykori medrére vezethető vissza.
 
-[^1]: Az 1. § 9. pontja a 100/2016. (V. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 9a. pontját a 100/2016. (V. 13.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^1]: Az 1. § 7. pont nyitó szövegrésze a 368/2020. (VII. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 7. pont c) alpontja a 368/2020. (VII. 28.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § 9. pontja a 100/2016. (V. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 368/2020. (VII. 28.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^4]: Az 1. § 9a. pontját a 100/2016. (V. 13.) Korm. rendelet 20. § (2) bekezdése iktatta be.
