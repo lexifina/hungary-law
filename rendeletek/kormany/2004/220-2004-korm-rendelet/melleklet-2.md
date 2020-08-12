@@ -270,7 +270,7 @@
 
 ## (11) Ez az 1,3,5,7,9,11-hexabróm-ciklododekánra (CAS 25637–99–4), az 1,2,5,6,9,10-hexabróm-ciklododekánra (CAS 3194–55–6), az α-hexabróm-ciklododekánra (CAS 134237–50–6), a β-hexabróm-ciklododekánra (CAS 134237–51–7) és a γ-hexabróm-ciklododekánra (CAS 134237–52–8) vonatkozik.
 
-2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^205]
+2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^209]
 
 ## 2/I. A csatornabírság és a vízszennyezési bírság számítása
 
@@ -756,4 +756,4 @@ A vízvédelmi bírság mértéke, ha a kibocsátó
 
 | j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
 
-[^205]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^209]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

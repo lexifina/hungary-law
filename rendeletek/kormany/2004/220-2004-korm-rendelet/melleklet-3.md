@@ -1,4 +1,4 @@
-3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^206]
+3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^210]
 
 ## A szennyvízkibocsátás engedélyezéséhez benyújtandó engedélykérelmi dokumentáció tartalmi követelményei
 
@@ -152,4 +152,4 @@ cb) a vízgyűjtőterületen működő, a környezetre veszélyt jelentő, nagyo
 
 cc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
 
-[^206]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^210]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-5. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^215]
+5. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^219]
 
 ## A monitoring jelentés, illetve záródokumentáció tartalmi követelményei
 
@@ -42,4 +42,4 @@ h) Javaslat az esetleges módosításokra
 
 8. Egyebek
 
-[^215]: Az 5. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^219]: Az 5. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
