@@ -60,4 +60,4 @@ az illetékes kéményseprő-ipari szerv részére – a (14) bekezdésben fogla
 
 (17) A kéményseprő-ipari szerv, a (3) bekezdés szerinti szolgáltató e törvény hatálybalépésétől nyilatkoztathatja az ingatlan használóját a helyszínen a 2. § (1) bekezdésében foglaltakról, az 5. § (2) bekezdés b) pontjában meghatározott adatokról. Ha a kéményseprő-ipari szerv a nyilatkozat-felvétel során a 2. § (1) bekezdés b) pontjába tartozó ingatlant azonosít, a nyilatkozat-felvételt követő harminc napon belül a 2. § (1) bekezdés b) pontjába tartozó ingatlanok használóját és a kéményseprő-ipari szolgáltatót értesíti.
 
-(18) Ha a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosításáról szóló 2017. évi XCVII. törvény hatálybalépését megelőzően a NETtv. 22. § (1) bekezdése szerinti bérlő a sormunkát megrendelte és annak díját megfizette, a 2. § (1) bekezdés a) pont aa) alpontja szerinti esetben a megfizetett díjat a bérlő által legkésőbb 2017. szeptember 30-ig bemutatott tanúsítvány és számla ellenében, azok bemutatásától számított 30 napon belül a Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaság a bérlőnek megtéríti.
+(18)
