@@ -1,4 +1,4 @@
-28. § (1)[^14] A Nemzeti Eszközkezelő
+28. § (1)[^37] A Lebonyolító
 
 a) a 26. § (1) bekezdése szerinti tájékoztató levelet az e rendeletben foglalt határidőig, a bérlő által bérelt lakóingatlan vagy tartalék ingatlan címére,
 
@@ -16,4 +16,4 @@ a) a címzett vagy a meghatalmazott a küldemény átvételét megtagadja,
 
 b) „elköltözött”, „címzett ismeretlen”, „nem kereste” vagy „kézbesítés akadályozott” kézbesíthetetlenségi ok jelzésével érkezik vissza a feladóhoz,
 
-[^14]: A 28. § (1) bekezdése a 283/2019. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: A 28. § (1) bekezdése a 283/2019. (XI. 28.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.

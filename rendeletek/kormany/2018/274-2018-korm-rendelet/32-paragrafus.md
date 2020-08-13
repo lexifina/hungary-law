@@ -1,6 +1,6 @@
 ## 18. Átmeneti rendelkezések
 
-32. § (1) A Nemzeti Eszközkezelő a 10. § (3) és (4) bekezdése alapján a lakbér összegét 2019. október 1-ig nem növeli.
+32. § (1)[^46]
 
 (2) A IV. fejezet rendelkezéseit
 
@@ -20,4 +20,7 @@ bb) a 2020. január 1-jén határozott időtartamra szóló lakásbérleti szerz
 
 ## kell alkalmazni.
 
-(3) A Nemzeti Eszközkezelő 2019. szeptember 30-ig köthet e rendelet 7. és 8. alcíme szerinti határozott idejű lakásbérleti szerződést, amely szerződéses jogviszonyra a lakásbérleti szerződés megszűnéséig a 7., a 8. alcím és a 2. melléklet rendelkezéseit kell alkalmazni.
+(3)[^47]
+
+[^46]: A 32. § (1) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^47]: A 32. § (3) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.

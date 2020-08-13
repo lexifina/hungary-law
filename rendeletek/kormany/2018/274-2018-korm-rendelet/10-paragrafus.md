@@ -1,8 +1,8 @@
-## 9. § Ha a részletvevő a részletfizetés során hathavi késedelembe esik, a vételár hátralévő részének megfizetése egyösszegben esedékessé válik, amelynek megfizetése érdekében a Nemzeti Eszközkezelő intézkedik.
+## 9. §[^17] Ha a részletvevő a részletfizetés során hathavi késedelembe esik, a vételár hátralévő részének megfizetése egyösszegben esedékessé válik, amelynek megfizetése érdekében a Lebonyolító intézkedik.
 
-## IV. Fejezet
+## IV. Fejezet[^18]
 
-## A NET TV. HATÁLYA ALÁ TARTOZÓ LAKÁSBÉRLETI JOGVISZONY ÉS A TÖRVÉNY 8. § (1) BEKEZDÉSE ÉS
+## A LAKÁSBÉRLETI JOGVISZONY ÉS A TÖRVÉNY 8. § (1) BEKEZDÉSE ÉS
 
 ## 13. § (4) BEKEZDÉSE SZERINTI NYILATKOZATOT TEVŐ BÉRLŐ LAKÁSBÉRLETI JOGVISZONYÁNAK SZABÁLYAI
 
@@ -25,3 +25,6 @@ b) a 11. § (1) bekezdése szerinti lakásbérleti szerződés esetén – ha az
 ## évente a Központi Statisztikai Hivatal honlapján közzétett előző évi éves átlagos fogyasztói árindex mértékével megegyező mértékben növeli.
 
 (4) A megváltozott lakbér összegét a bérbeadó minden év február 28-ig írásban közli a bérlővel.
+
+[^17]: A 9. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^18]: A IV. fejezet címe a 373/2020. (VII. 30.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.

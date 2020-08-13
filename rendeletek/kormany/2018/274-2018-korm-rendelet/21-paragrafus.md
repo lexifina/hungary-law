@@ -2,7 +2,7 @@
 
 ## 10. A bérlő helyett elvégzett műszaki hibaelhárítás
 
-21. § (1) A bérbeadó a NET tv. 23. § f) pontja vagy a Törvény 10. § f) pontja alapján, valamint a lakásbérleti szerződés alapján a bérlő felelősségi körébe tartozó hibaelhárítási munkákat a bérlő költségére elvégezheti, ha a bérlő a bérbeadó által tűzött határidőig a hibaelhárítási munkát nem végzi el és
+21. §[^25] (1) A bérbeadó a NET tv. 23. § f) pontja vagy a Törvény 10. § f) pontja alapján, valamint a lakásbérleti szerződés alapján a bérlő felelősségi körébe tartozó hibaelhárítási munkákat a bérlő költségére elvégezheti, ha a bérlő a bérbeadó által tűzött határidőig a hibaelhárítási munkát nem végzi el és
 
 a) az ingatlan műszaki állapota élet- és balesetveszélyes,
 
@@ -13,3 +13,5 @@ c) a javítási munkák elvégzése nélkül az ingatlanban jelentős vagyonvesz
 (2) A bérlő költségére az (1) bekezdés alapján elvégzett javítási munka ellenértékének megtérítésére – határidő tűzésével – a bérbeadó a bérlőt írásban felszólítja.
 
 (3) A fizetési határidő eredménytelen eltelte esetén a bérbeadó a lakásbérleti szerződést a fizetési határidő leteltét követő hónap végére felmondja.
+
+[^25]: [A 373/2020. (VII. 30.) Korm. rendelet 23. § b) pontjával elrendelt módosítás, amely szerint a 21. §-ban hatályát veszti az „a NET tv. 23. § f) pontja vagy” szövegrész, nem vezethető át.]

@@ -1,5 +1,5 @@
 ## 13. §
 
-## 8.[^5]
+## 8.[^20]
 
-[^5]: A 8. alcímet (14. §) a 34. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^20]: A 8. alcímet (14. §) a 34. § (2) bekezdés b) pontja hatályon kívül helyezte.

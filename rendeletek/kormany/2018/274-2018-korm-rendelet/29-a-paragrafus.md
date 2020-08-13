@@ -1,8 +1,8 @@
-## 29. § A Nemzeti Eszközkezelő a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
+## 29. §[^38] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
 
-## 15/A. [^15] A Nemzeti Eszközkezelő tájékoztatója a részletvétel egyéb szabályairól
+## 15/A. [^39] A Lebonyolító tájékoztatója a részletvétel egyéb szabályairól
 
-29/A. § (1) A Nemzeti Eszközkezelő a részletvételi jogviszony keretében meghatározza
+29/A. § (1)[^40] A Lebonyolító a részletvételi jogviszony keretében meghatározza
 
 a) a havonta fizetendő részletek esedékességének napját,
 
@@ -14,8 +14,12 @@ d) a 9. § szerinti egyösszegű esedékesség beállta esetén a részletvevőn
 
 e) a részletvevő és a Nemzeti Eszközkezelő közötti kapcsolattartás formáját és rendjét.
 
-(2) A Nemzeti Eszközkezelő az (1) bekezdés a)–e) pontja tekintetében a részletvevőknek szóló tájékoztatót (ezen alcím vonatkozásában a továbbiakban: tájékoztató) küld az ingatlan címére, valamint a tájékoztatót közzéteszi a honlapján.
+(2)[^41] A Lebonyolító az (1) bekezdés a)–e) pontja tekintetében a részletvevőknek szóló tájékoztatót (ezen alcím vonatkozásában a továbbiakban: tájékoztató) küld az ingatlan címére, valamint a tájékoztatót közzéteszi a honlapján.
 
-(3) A Nemzeti Eszközkezelő a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Nemzeti Eszközkezelő jogosult a tájékoztató egyoldalú, a részletvevők érdekeit figyelembe vevő módosítására.
+(3)[^42] A Lebonyolító a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító jogosult a tájékoztató egyoldalú, a részletvevők érdekeit figyelembe vevő módosítására.
 
-[^15]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be.
+[^38]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^39]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, az alcím címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^40]: A 29/A. § (1) bekezdés nyitó szövegrésze a 373/2020. (VII. 30.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^41]: A 29/A. § (2) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^42]: A 29/A. § (3) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.

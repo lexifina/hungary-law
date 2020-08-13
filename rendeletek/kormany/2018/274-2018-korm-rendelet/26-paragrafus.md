@@ -1,12 +1,10 @@
-## 25. § Az MNV Zrt. a Nemzeti Eszközkezelőtől átvett megüresedett ingatlanokról az átvételtől számított 30 napon belül tájékoztatja az egészségügyért felelős minisztert, aki a Törvény 15. §-ában foglalt célok figyelembevételével a tájékoztatás kézhezvételétől számított 90 napon belül jelzi az MNV Zrt. részére, hogy mely megüresedett ingatlan vagyonkezelői jogának átadását kéri az általa vezetett minisztérium vagy az általa felügyelt, illetve irányítása alatt álló költségvetési szerv részére.
+## VIII. Fejezet[^32]
 
-## VIII. Fejezet
-
-## A NEMZETI ESZKÖZKEZELŐ MŰKÖDÉSÉVEL, FELADATAIVAL KAPCSOLATOS SZABÁLYOK
+## A LEBONYOLÍTÓ MŰKÖDÉSÉVEL, FELADATAIVAL KAPCSOLATOS SZABÁLYOK
 
 ## 15. A tájékoztató levél tartalma és kézbesítésének szabályai, valamint a tájékoztatás egyéb módja
 
-26. §[^11] (1) A Törvény 2. § (3) és (4) bekezdése szerinti tájékoztató levél tartalmazza
+26. §[^33] (1) A Törvény 2. § (3) és (4) bekezdése szerinti tájékoztató levél tartalmazza
 
 a) a tulajdonszerzési lehetőségeket, ideértve
 
@@ -24,7 +22,7 @@ e) a nyilatkozattételi határidőre szóló felhívást és
 
 f) a nyilatkozattétel formai és tartalmi követelményeit.
 
-(2) A Nemzeti Eszközkezelő a Törvény 2. § (3) bekezdése szerinti tájékoztató levelet 2019. március 31-ig, a Törvény 2. § (4) bekezdése szerinti tájékoztató levelet 2019. december 15-ig küldi meg a fizetési kötelezettségeinek eleget tevő bérlőnek.
+(2)[^34] A Lebonyolító a Törvény 2. § (3) bekezdése szerinti tájékoztató levelet 2019. március 31-ig, a Törvény 2. § (4) bekezdése szerinti tájékoztató levelet 2019. december 15-ig küldi meg a fizetési kötelezettségeinek eleget tevő bérlőnek.
 
 (3) A Törvény 6. § (10) bekezdése szerinti tájékoztató levél tartalmazza
 
@@ -36,4 +34,6 @@ c) a nyilatkozattételi határidőre szóló felhívást és
 
 d) a nyilatkozattétel formai és tartalmi követelményeit.
 
-[^11]: A 26. § a 283/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^32]: A VIII. fejezet címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^33]: A 26. § a 283/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^34]: A 26. § (2) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
