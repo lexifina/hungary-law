@@ -14,9 +14,9 @@ f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a tám
 
 g)[^276] a Gyvt. 54. §-a szerinti nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket, vagy
 
-h) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll,
+h)[^277] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolítóval a 2018. évi CIII. törvény alapján bérleti jogviszonyban áll,
 
-i)[^277] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
+i)[^278] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
 (2) E Fejezet alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -30,11 +30,11 @@ b) a szociálisan rászoruló felhasználói státuszt megállapító szerv ált
 
 (4) A víziközmű-szolgáltató az igazolás céljára bemutatott iratok másolatát a jogosultság megszűnését követő 5 évig megőrzi.
 
-(5)[^278] A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 15 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja.
+(5)[^279] A víziközmű-szolgáltató a szociálisan rászoruló felhasználót a rászorultság igazolását követő 15 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja.
 
-(6)[^279] Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 15 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
+(6)[^280] Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő felhasználó – a határidő lejártát 30 nappal megelőzően a víziközmű-szolgáltató által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, a határozott idő lejártát követő 15 napon belül a víziközmű-szolgáltató az érintett védendő felhasználót törli a nyilvántartásból. A víziközmű-szolgáltató értesíti az érintett felhasználót a nyilvántartásból való törlésről.
 
-(7)[^280] A víziközmű-szolgáltató a szociálisan rászoruló személyként nyilvántartott védendő felhasználót, valamint azt a fogyatékkal élő védendő felhasználót, aki esetében nyilvántartásba történő felvétele során a szakorvosi vélemény nem mondta ki, hogy állapotában jelentős javulás nem várható, legalább a Vksztv. 61/A. § (7) bekezdésében meghatározott határidőt megelőző 15 nappal közérthetően, írásban, tértivevény-szolgáltatással feladott levélben, a számlalevélben vagy egyéb igazolható módon tájékoztatja a Vksztv. 61/A. § (7) bekezdése szerinti kötelezettségéről, egyúttal megküldi részére a 9. melléklet szerinti adatlapot.
+(7)[^281] A víziközmű-szolgáltató a szociálisan rászoruló személyként nyilvántartott védendő felhasználót, valamint azt a fogyatékkal élő védendő felhasználót, aki esetében nyilvántartásba történő felvétele során a szakorvosi vélemény nem mondta ki, hogy állapotában jelentős javulás nem várható, legalább a Vksztv. 61/A. § (7) bekezdésében meghatározott határidőt megelőző 15 nappal közérthetően, írásban, tértivevény-szolgáltatással feladott levélben, a számlalevélben vagy egyéb igazolható módon tájékoztatja a Vksztv. 61/A. § (7) bekezdése szerinti kötelezettségéről, egyúttal megküldi részére a 9. melléklet szerinti adatlapot.
 
 (8) Ha a védendő felhasználók nyilvántartásában nem szereplő lakossági felhasználó díjtartozásával 45 napot meghaladó késedelembe esett, a víziközmű-szolgáltató további 15 napon belül írásban, közérthető módon és áttekinthető formában tájékoztatja a lakossági felhasználót a szociálisan rászoruló felhasználókat megillető kedvezményekről, a védendő felhasználók nyilvántartásába történő felvétel kérelmezésének módjáról, valamint megküldi részére a 9. melléklet szerinti adatlapot.
 
@@ -42,7 +42,8 @@ b) a szociálisan rászoruló felhasználói státuszt megállapító szerv ált
 
 [^275]: A 88/B. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^276]: A 88/B. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^277]: A 88/B. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^278]: A 88/B. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^279]: A 88/B. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^280]: A 88/B. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^277]: A 88/B. § (1) bekezdés h) pontja a 373/2020. (VII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^278]: A 88/B. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^279]: A 88/B. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^280]: A 88/B. § (6) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^281]: A 88/B. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 23. §-ával megállapított szöveg.

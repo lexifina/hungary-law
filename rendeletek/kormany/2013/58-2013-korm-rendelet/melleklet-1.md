@@ -1,6 +1,6 @@
-## 103. §[^322] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 103. §[^323] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^323]
+1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^324]
 
 ## Üzemeltetési szerződés minimális tartalmi követelményei
 
@@ -82,5 +82,5 @@ a) a koncessziós tevékenység gyakorlására vonatkozó jogosultság igazolás
 
 b) a megépülő vagyontárgyak (vízilétesítmények) tulajdonjogára, az állami tulajdonba, illetve önkormányzati törzsvagyonba történő átadás-átvételre vonatkozó szándéknyilatkozatokat.
 
-[^322]: A 103. §-t a 477/2016. (XII. 27.) Korm. rendelet 68. § (1) bekezdése iktatta be.
-[^323]: Az 1. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^323]: A 103. §-t a 477/2016. (XII. 27.) Korm. rendelet 68. § (1) bekezdése iktatta be.
+[^324]: Az 1. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-100. §[^315] (1) A Vksztv. 83. § (4) bekezdésének maradéktalan végrehajtása érdekében a víziközmű-szolgáltató az ellátásért felelős bevonásával ütemtervet készít, amelyben határidők hozzárendelésével meghatározza valamennyi érintett felhasználóra és víziközmű-szolgáltatóra, illetve ellátásért felelősre vonatkozó feladatokat. Az ütemtervet a víziközmű-szolgáltató 2015. január 31-ig a Hivatal és az ellátásért felelős részére megküldi.
+100. §[^316] (1) A Vksztv. 83. § (4) bekezdésének maradéktalan végrehajtása érdekében a víziközmű-szolgáltató az ellátásért felelős bevonásával ütemtervet készít, amelyben határidők hozzárendelésével meghatározza valamennyi érintett felhasználóra és víziközmű-szolgáltatóra, illetve ellátásért felelősre vonatkozó feladatokat. Az ütemtervet a víziközmű-szolgáltató 2015. január 31-ig a Hivatal és az ellátásért felelős részére megküldi.
 
 (2) Az (1) bekezdésben meghatározott ütemterv végrehajtása során a vízmérési hely előzetes kialakítása a felhasználó, a bekötési vízmérő beszerelése és plombával vagy leszerelést megakadályozó zárral történő ellátása, továbbá a bekötővezeték esetleges cseréje a víziközmű-szolgáltató feladata.
 
@@ -10,14 +10,14 @@
 
 (6) Ha a vízmérőhely kialakításáról a felhasználó nem gondoskodik
 
-a)[^316] a (3) bekezdésben meghatározott időpontig, a víziközmű-szolgáltató kérésére a járási (fővárosi kerületi) hivatal a felhasználót kötelezi a szükséges munkák elvégzésére,
+a)[^317] a (3) bekezdésben meghatározott időpontig, a víziközmű-szolgáltató kérésére a járási (fővárosi kerületi) hivatal a felhasználót kötelezi a szükséges munkák elvégzésére,
 
 b) a Vksztv. 83. § (4) bekezdésében meghatározott időpontig, a víziközmű-szolgáltató a Vksztv. 58. §-a szerint járhat el.
 
-(7)[^317] A bekötési vízmérő beszerelésénél a 64. § (5) bekezdése szerinti időpont-egyeztetés lehetőségét biztosítani kell.
+(7)[^318] A bekötési vízmérő beszerelésénél a 64. § (5) bekezdése szerinti időpont-egyeztetés lehetőségét biztosítani kell.
 
 (8) A Vksztv. 83. § (4) bekezdésének végrehajtása során új szerződés megkötésével egyenértékű, ha bekötési vízmérő felszerelésével egyidejűleg a hatályos közszolgáltatási szerződést az érintett felek a mért mennyiségen alapuló elszámolásra történő áttérés vonatkozásában módosítják.
 
-[^315]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 292/2014. (XI. 26.) Korm. rendelet 34. §-a iktatta be.
-[^316]: A 100. § (6) bekezdés a) pontja a 440/2016. (XII. 16.) Korm. rendelet 27. §-a szerint módosított szöveg.
-[^317]: A 100. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 43. pontja szerint módosított szöveg.
+[^316]: A 100. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 292/2014. (XI. 26.) Korm. rendelet 34. §-a iktatta be.
+[^317]: A 100. § (6) bekezdés a) pontja a 440/2016. (XII. 16.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^318]: A 100. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 43. pontja szerint módosított szöveg.
