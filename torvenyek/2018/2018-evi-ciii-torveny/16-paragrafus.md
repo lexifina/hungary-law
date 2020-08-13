@@ -1,1 +1,5 @@
-16. § Ha a megüresedett ingatlan a 15. § szerinti cél megvalósítása érdekében nem szükséges, az MNV Zrt. a megüresedett ingatlant az állami vagyonról szóló törvény szerint versenyeztetés útján értékesíti.
+16. § (1) Ha az értékesítést célzó második árverés is eredménytelen, a második árverés eredménytelenségéről a Lebonyolító által a megüresedett ingatlan fekvése szerint illetékes helyi önkormányzatnak küldött értesítés kézhezvételét követő harmadik hónap első napján, a megüresedett ingatlan fekvése szerint illetékes helyi önkormányzatnak e törvény erejénél fogva ingyenesen tulajdonjoga keletkezik a megüresedett ingatlanon, és az ingatlanban található azon ingóságokon, amelyek birtoklásával a korábbi tulajdonos a tulajdonról való lemondás szándékával felhagyott.
+
+(2) Az ingatlanügyi hatóság az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Lebonyolítónak a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonszerző helyi önkormányzat adatait és tulajdoni hányadot tartalmazó okirata alapján jegyzi be.
+
+(3) Az e § szerinti tulajdonváltozás következtében felmerülő általánosforgalmiadó-fizetési kötelezettséget az állam viseli.

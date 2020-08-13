@@ -1,1 +1,1 @@
-11. § A Nemzeti Eszközkezelő kötelezheti a bérlőt a lakásbérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.
+11. § A Lebonyolító kötelezheti a bérlőt a lakásbérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.

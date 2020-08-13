@@ -1,6 +1,6 @@
 10. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
 
-a) a bérlő az ingatlanba a lakásbérleti szerződés e törvény szerinti módosítását követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
+a) a bérlő az ingatlanba a lakásbérleti szerződés e törvény szerinti módosítását követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket fogadhatja be, a Lebonyolító előzetes írásbeli hozzájárulásával,
 
 b) a lakóingatlanra és a tartalék ingatlanra bérlőtársi jogviszonyt létesíteni nem lehet,
 
@@ -8,7 +8,7 @@ c) a lakásbérleti szerződés megszűnése után a volt bérlő és az ingatla
 
 d) a bérlő halála esetén a bérlővel annak életében együtt lakó házastársa vagy élettársa, a bérlő, illetve házastársa vagy élettársa családi pótlékra jogosító gyermeke, illetve a bérlővel még életében együtt lakó gyermeke a lakásbérleti jogot folytathatja,
 
-e) a Nemzeti Eszközkezelő a lakásbérleti szerződésben kikötheti a bérlő ingatlanban történő életvitelszerű bentlakásának kötelezettségét,
+e) a Lebonyolító a lakásbérleti szerződésben kikötheti a bérlő ingatlanban történő életvitelszerű bentlakásának kötelezettségét,
 
 f) a lakóingatlannal és a tartalék ingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt terhelik,
 
@@ -18,6 +18,6 @@ h) a bérbeadó jogosult a lakásbérleti szerződést felmondani, ha a bérlő 
 
 i) a bérbeadó a lakóingatlan és a tartalék ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
 
-j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Nemzeti Eszközkezelő a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen,
+j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Lebonyolító a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen,
 
 k) bérlőtársi jogviszony esetén, ha a bérbeadó a lakásbérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.
