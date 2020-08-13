@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2020-01-01 | 2019. évi CXVIII. törvény | 2011-195-00-00.74 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 2011-195-00-00.75 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2011-195-00-00.76 |
+| 2020-08-13 | 2020. évi LXXX. törvény | 2011-195-00-00.77 |
