@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2019-10-05 | 2001-12-20-22.71 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2020-03-01 | 2001-12-20-22.72 | 379/2012. (XII. 19.) Korm. rendelet |
 | 2020-06-18 | 2001-12-20-22.73 | 284/2020. (VI. 17.) Korm. rendelet |
+| 2020-08-13 | 2001-12-20-22.74 | 379/2012. (XII. 19.) Korm. rendelet |

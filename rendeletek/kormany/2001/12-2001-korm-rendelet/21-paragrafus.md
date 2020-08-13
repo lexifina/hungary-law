@@ -14,7 +14,7 @@ követő 10 évig terjedő időszakra – a 24. § (6) bekezdésében foglaltak 
 
 a) lakást lebontják – kivéve, ha a bontás természeti katasztrófa miatt vált szükségessé –,
 
-b)[^220] lakást elidegenítik – kivéve, ha az elidegenítés a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezései szerint az állam nevében eljáró Nemzeti Eszközkezelő Zrt. részére történik –,
+b)[^220] lakást elidegenítik,
 
 c) lakás nem a támogatott személy és a vele együttköltözők lakóhelyéül szolgál,
 
@@ -92,12 +92,12 @@ a) az újabb lakás vételára vagy építési költsége az elidegenített lak�
 
 b) a támogatott személy a támogatás összegének – az eladási és a vételár vagy építési költség különbözetének a 21/B. § (3) bekezdése szerint csökkentett – arányos részét visszafizesse.
 
-(14)[^239] Ha a támogatott személy a Nemzeti Eszközkezelő Zrt. részére elidegenített lakását visszavásárolja, ennek tényéről a Nemzeti Eszközkezelő Zrt. vagy – amennyiben a Nemzeti Eszközkezelő Zrt. a lakást települési önkormányzat tulajdonába adta – a települési önkormányzat az adásvételi szerződés megkötésétől számított 5 napon belül értesíti a kormányhivatalt. A kormányhivatal hatósági határozatával intézkedik a teljes támogatási összeg visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak a 21. § (1) vagy (2) bekezdése szerinti időtartamból még fennmaradó időszakra vonatkozóan a támogatott személy által visszavásárolt lakásra történő bejegyezéséről. A támogatott személyt a 21. § (3) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.
+(14)[^239] Ha a támogatott személy a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelésében lévő lakóingatlant visszavásárolja, ennek tényéről a Lebonyolító az adásvételi szerződés megkötésétől számított 5 napon belül értesíti a kormányhivatalt. A kormányhivatal hatósági határozatával intézkedik a teljes támogatási összeg visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak a 21. § (1) vagy (2) bekezdése szerinti időtartamból még fennmaradó időszakra vonatkozóan a támogatott személy által visszavásárolt lakásra történő bejegyezéséről. A támogatott személyt a 21. § (3) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.
 
 [^217]: A 21. § a 253/2012. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^218]: A 21. § (1) bekezdés a) pontja a 128/2013. (IV. 30.) Korm. rendelet 5. § 14. pontja szerint módosított szöveg.
 [^219]: A 21. § (3) bekezdés záró szövegrésze az 537/2013. (XII. 30.) Korm. rendelet 17. § j) pontja, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^220]: A 21. § (3) bekezdés b) pontja a 379/2012. (XII. 19.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^220]: A 21. § (3) bekezdés b) pontja a 379/2012. (XII. 19.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 373/2020. (VII. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^221]: A 21. § (3a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 15. § (1) bekezdése iktatta be.
 [^222]: A 21. § (3b) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^223]: A 21. § (4) bekezdés záró szövegrésze a 30/2020. (II. 29.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
@@ -116,4 +116,4 @@ b) a támogatott személy a támogatás összegének – az eladási és a véte
 [^236]: A 21. § (12) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 6. § (3) bekezdése iktatta be, nyitó szövegrésze a 128/2013. (IV. 30.) Korm. rendelet 5. § 19. pontja, a záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^237]: A 21. § (12) bekezdés b) pontja a 128/2013. (IV. 30.) Korm. rendelet 5. § 20. pontja szerint módosított szöveg.
 [^238]: A 21. § (13) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^239]: A 21. § (14) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 6. § (3) bekezdése iktatta be, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) és b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^239]: A 21. § (14) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
