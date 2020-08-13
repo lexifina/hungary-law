@@ -13,3 +13,11 @@ d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedel
 e) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+(2) E törvény
+
+a) 13. §-ának (3) bekezdése, 16. §-ának j) pontja, 31/C. §-a, 37/B. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
+
+b) 16. §-ának f) pontja az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendelet, a közösségi formatervezési mintákról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, valamint a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet,
+
+c) 16. §-ának g) pontja, 23/B. §-ának (2) bekezdése, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
