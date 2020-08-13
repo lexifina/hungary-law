@@ -18,7 +18,7 @@ f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a tám
 
 g)[^164] a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
 
-h)[^165] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll,
+h)[^165] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolítóval a 2018. évi CIII. törvény szerinti bérleti jogviszonyban áll,
 
 i)[^166] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
@@ -47,7 +47,7 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 [^162]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
 [^163]: A Vhr. 30. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 31. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^164]: A Vhr. 30. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^165]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be.
+[^165]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^166]: A Vhr. 30. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 52. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^167]: A Vhr. 30. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^168]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.

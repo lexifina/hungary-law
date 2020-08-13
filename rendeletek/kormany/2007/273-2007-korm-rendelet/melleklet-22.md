@@ -98,9 +98,5 @@ c) frissgőz nyomás (bar).
 
 8.2. névleges gőznyelés (t/h),
 
-8.3. frissgőz hőmérséklete (°C),
-
-8.4. frissgőz nyomása (bar),
-
 [^535]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
 [^536]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
