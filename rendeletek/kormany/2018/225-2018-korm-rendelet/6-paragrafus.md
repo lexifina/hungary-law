@@ -12,4 +12,11 @@ e) az építmény funkciójához kapcsolódó épületbiztonsági, biztonságtec
 
 f) a meglévő épületrészek az építmény funkciójához és működéséhez szükséges belső udvari új épületrésszel kiegészíthetők,
 
-g) a szükséges homlokzat- és tetőrekonstrukció és a rizalitok visszaépítése során a Fellner Sándor 1903-as tervei alapján megépült homlokzatot és tetőt a Kötv. 43. § (5c) bekezdés b) pontja tekintetében a korábbi és jelentős korszak maradványának és hiteles állapotnak kell tekinteni.
+g) a szükséges homlokzat- és tetőrekonstrukció és a rizalitok visszaépítése során a Fellner Sándor 1903-as tervei alapján megépült homlokzatot és tetőt a Kötv. 43. § (5c) bekezdés b) pontja tekintetében a korábbi és jelentős korszak maradványának és hiteles állapotnak kell tekinteni,
+
+h)[^3] a Beruházás egyes építési fázisainak költséghatékony lebonyolítása érdekében az anyagszállítás az arra alkalmas eszközök, járművek számától, össztömegétől függetlenül megvalósítható, ha azok elhelyezése, parkolása az építési területen belül történik,
+
+i)[^4] az épület műemléki jellegének megóvására figyelemmel a díszkivilágítási és biztonsági kamera rendszerelemek az épületen kívül, közterületen is elhelyezhetőek.
+
+[^3]: A 6. § h) pontját a 396/2020. (VIII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 6. § i) pontját a 396/2020. (VIII. 12.) Korm. rendelet 2. §-a iktatta be.

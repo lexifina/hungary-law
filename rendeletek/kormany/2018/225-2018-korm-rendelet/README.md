@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-225-20-
 | 2018-11-30 | 2018-225-20-22.1 | 225/2018. (XI. 29.) Korm. rendelet |
 | 2018-12-01 | 2018-225-20-22.2 | 2010: CXXX. törvény |
 | 2020-03-01 | 2018-225-20-22.3 | 361/2019. (XII. 30.) Korm. rendelet |
+| 2020-08-13 | 2018-225-20-22.4 | 396/2020. (VIII. 12.) Korm. rendelet |
