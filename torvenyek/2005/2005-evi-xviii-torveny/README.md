@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2005-18-00-00.42 |
 | 2019-12-20 | 2019. évi CI. törvény | 2005-18-00-00.43 |
 | 2020-01-01 | 2019. évi CX. törvény | 2005-18-00-00.44 |
+| 2020-08-13 | 2020. évi LXXX. törvény | 2005-18-00-00.45 |
