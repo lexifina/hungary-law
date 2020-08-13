@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2020-01-02 | 2019. évi LXXII. törvény | 1990-100-00-00.74 |
 | 2020-06-18 | 2020. évi LIX. törvény | 1990-100-00-00.75 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 1990-100-00-00.76 |
+| 2020-08-13 | 2020. évi LXXX. törvény | 1990-100-00-00.77 |
