@@ -1,1 +1,3 @@
-63. §
+63. § A Törvény 3. §-a helyébe a következő rendelkezés lép:
+
+„3. § A Lebonyolító az e törvényben, valamint a Lakástörvény 10. § (1) bekezdésében meghatározott feladatait jogszabályban kijelölt költségvetési szerv, 100%-os állami tulajdonban vagy 100%-os önkormányzati tulajdonban álló gazdasági társaság, vagy ezek 100%-os tulajdonában álló gazdasági társaság kizárólagos jog alapján való bevonása útján látja el.”

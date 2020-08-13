@@ -1,3 +1,3 @@
 ## 15. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-18. §
+18. § Hatályát veszti a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 2. § (5) bekezdése.
