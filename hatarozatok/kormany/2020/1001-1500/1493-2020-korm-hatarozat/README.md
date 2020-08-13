@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1493-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-08-12 | 2020-1493-30-22.1 | 1493/2020. (VIII. 11.) Korm. határozat |
+| 2020-08-13 | 2020-1493-30-22.2 | 2010: CXXX. törvény |

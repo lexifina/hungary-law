@@ -20,15 +20,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont fac) alpontjában a „154,21%-áig” szövegrész helyébe a „154,88%-áig” szöveg,
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „194,298” szövegrész helyébe a „195,145” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:90 mezőjében a „2,40” szövegrész helyébe a „3,25” szöveg
-
-## lép.
+## 4.[^1]
 
 1. melléklet az 1493/2020. (VIII. 11.) Korm. határozathoz
 
@@ -41,3 +33,5 @@
 | 3. | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az:Európai Unió (a továbbiak- ban: EU) felé el nem számolható általános forgalmi adó (a továbbiak- ban: ÁFA) finanszírozását szolgáló forrása (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP-3.2.0- 15-2016-00026 | Szombathely– Kőszeg vasútvonal korszerűsítése | Győr–Sopron– Ebenfurti Vasút Zártkörűen Működő Részvénytársaság | 100% | 2 400 000 000 | 0 | 0 | 0 | 100% | 846 874 873 | 0 | 0 | 0 | 100% | 3 246 874 873 | 0 | 0 | 0 | 3 246 874 873 | A projekt keretében a 18-as számú, Szombathely–Kőszeg vasútvonalon az utazási komfort növelése, valamint a módváltás feltételeinek javítása valósul meg. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
