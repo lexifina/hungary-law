@@ -1,7 +1,3 @@
-## lép.
+## 5. §[^6]
 
-## 6. § Hatályát veszti az R3.
-
-a) 52. § (4) bekezdésében a „torkolati” szövegrész,
-
-b) 73. § (7) bekezdés b) pontjában a „felszerkezet cserével történő” szövegrész.
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

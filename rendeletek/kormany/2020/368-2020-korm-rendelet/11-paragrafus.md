@@ -1,1 +1,3 @@
-## 10. § Az R5. 1. melléklet 2. pont B) alpont c) pontjában a „Galga patak kezelése.” szövegrész helyébe a „Galga patak kezelése, Heves megyében Mátraszentimre közigazgatási területén a Kövicses és a Csörgő-patakok kezelése.” szöveg lép.
+## 10. §[^11]
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
