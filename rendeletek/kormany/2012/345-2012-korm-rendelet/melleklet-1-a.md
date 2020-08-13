@@ -1156,6 +1156,10 @@
 
 ## 2.1.119. Budapest és az elővárosok kötöttpályás vasúti hálózatának fejlesztése.
 
+## 2.1.120. Ferencváros C elágazás – Kőbánya felső – Rákos – Rákosliget, valamint Rákos – Gyömrő vasúti vonalszakasz fejlesztése.
+
+## 2.1.121. Budapest-Nyugati pályaudvar vágányhálózata és bevezető szakaszai (Budapest-Nyugati pályaudvar – Hungária körút – Kőbánya-Kispest) rekonstrukciója és fejlesztése.
+
 ## 2.2. Helyi érdekeltségű keskeny nyomközű vasúti közlekedési projektek
 
 ## 2.2.1. MÁV Zrt. Széchenyi-hegyi Gyermekvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
