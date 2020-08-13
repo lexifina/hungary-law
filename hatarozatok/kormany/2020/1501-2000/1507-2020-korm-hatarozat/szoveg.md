@@ -34,4 +34,6 @@ emberi erőforrások minisztere
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárás lezárását követően
 
-2. A Kormány visszavonja a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében tervezett iskolafejlesztések előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1795/2017. (XI. 8.) Korm. határozat 1. pont i) alpontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
