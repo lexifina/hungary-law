@@ -22,4 +22,6 @@ Felelős: aktív Magyarországért felelős kormánybiztos
 
 Határidő: folyamatos
 
-2. A Kormány visszavonja az egyes állami erdészeti társaságok tulajdonában álló, illetve tulajdonába kerülő turista szállások felújításához, fejlesztéséhez, valamint megvásárlásához szükséges forrás előirányzat-átcsoportosításáról szóló 2044/2017. (XII. 27.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
