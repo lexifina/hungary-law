@@ -22,7 +22,7 @@ f)[^45]
 
 g)[^46] lakás vásárlása esetén – a h) pontban foglaltak kivételével – az igénylő az ingatlan-nyilvántartási hatóság által érkeztetett adásvételi szerződést benyújtsa,
 
-h)[^47] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény alapján történő lakásvásárlás esetén az igénylő benyújtsa az ingatlan egy összegben történő megvásárlásáról szóló adásvételi szerződést, valamint a Nemzeti Eszközkezelő Zártkörűen működő Részvénytársaság által kiállított, az adásvételi szerződés ingatlan-nyilvántartási hatóság részére történő megküldéséről szóló nyilatkozatot.
+h)[^47] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) alapján történő lakásvásárlás esetén az igénylő benyújtsa az ingatlan egy összegben történő megvásárlásáról szóló adásvételi szerződést, valamint a 2018. évi CIII. törvény szerinti Lebonyolító által kiállított, az adásvételi szerződés ingatlan-nyilvántartási hatóság részére történő megküldéséről szóló nyilatkozatot.
 
 (2)[^48] Az (1) bekezdés c) pontjában foglaltakat nem kell figyelembe venni, ha az igénylő végleges határozat alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül.
 
@@ -125,7 +125,7 @@ székhelyeként a cégnyilvántartásba, illetve az egyéni vállalkozók nyilv�
 [^44]: A 14. § (1) bekezdés e) pontját a 26/2018. (II. 28.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
 [^45]: A 14. § (1) bekezdés f) pontját a 46/2019. (III. 12.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
 [^46]: A 14. § (1) bekezdés g) pontja a 210/2019. (VIII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^47]: A 14. § (1) bekezdés h) pontját a 210/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^47]: A 14. § (1) bekezdés h) pontját a 210/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^48]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 570. § a) pontja, a 26/2018. (II. 28.) Korm. rendelet 37. § 8. pontja, a 46/2019. (III. 12.) Korm. rendelet 11. § e) pontja, a 30/2020. (II. 29.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^49]: A 14. § (2a) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (1) bekezdése iktatta be.
 [^50]: A 14. § (2b) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (1) bekezdése iktatta be.

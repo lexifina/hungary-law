@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-17-20-2
 | 2020-06-18 | 2016-17-20-22.14 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2020-07-01 | 2016-17-20-22.15 | 252/2020. (V. 29.) Korm. rendelet |
 | 2020-07-31 | 2016-17-20-22.16 | 109/2019. (V. 13.) Korm. rendelet |
+| 2020-08-13 | 2016-17-20-22.17 | 210/2019. (VIII. 27.) Korm. rendelet |
