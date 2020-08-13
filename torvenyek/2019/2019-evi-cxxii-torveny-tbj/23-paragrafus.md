@@ -17,3 +17,5 @@ d) a törvényben meghatározott személy szociális hozzájárulási adót
 fizet.
 
 (2) A foglalkoztató a táppénzkiadásokhoz hozzájárul.
+
+(3) A foglalkoztató köteles a 27. § (2) bekezdés szerinti járulékfizetési alsó határ és a ténylegesen kifizetett járulékalapot képező jövedelem közötti különbözet után fennálló társadalombiztosítási járulékfizetési kötelezettséget teljesíteni. A különbözet utáni társadalombiztosítási járulékfizetési kötelezettség előzőek szerinti teljesítését úgy kell tekinteni az ellátások számítási szabályainak alkalmazása során, mintha azt a biztosított személy teljesítette volna.
