@@ -1,13 +1,12 @@
-1. Az MFB TÉSZ Forgóeszköz Hitelprogram 2020 bevezetéséről szóló 1749/2014. (XII. 15.) Korm. határozat 1. pontjában a „250 millió” szövegrész helyébe az „500 millió” szöveg lép.
+1.[^2]
 
-2. Az MFB Agrár Forgóeszköz Hitelprogram 2020 bevezetéséről szóló 1750/2014. (XII. 15.) Korm. határozat 1. pontjában az „50 millió” szövegrész helyébe a „150 millió”, az „500 millió” szövegrész helyébe az „1 milliárd” szöveg lép.
+2.[^3]
 
-3. Az MFB Élelmiszeripari Forgóeszköz Hitelprogram 2020 bevezetéséről szóló 1751/2014. (XII. 15.) Korm. határozat 1. pontjában az „500 millió” szövegrészek helyébe az „1 milliárd” szöveg lép.
+3.[^4]
 
-4. A Kormány visszavonja
+4.[^5]
 
-a) az MFB TÉSZ Forgóeszköz Hitelprogram 2020 bevezetéséről szóló 1749/2014. (XII. 15.) Korm. határozat 6. pontját,
-
-b) az MFB Agrár Forgóeszköz Hitelprogram 2020 bevezetéséről szóló 1750/2014. (XII. 15.) Korm. határozat 3. pontját,
-
-c) az MFB Élelmiszeripari Forgóeszköz Hitelprogram 2020 bevezetéséről szóló 1751/2014. (XII. 15.) Korm. határozat 3. pontját.
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
