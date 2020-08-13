@@ -1,4 +1,4 @@
-## 3/A. §[^1] A miniszterelnök a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló Korm. rendelet szerint az abban meghatározott szervezetek tekintetében gondoskodik az e-közigazgatási és informatikai fejlesztések egységesítéséről.
+## 3/A. §[^1] A miniszterelnök a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló kormányrendelet szerint gondoskodik az e-közigazgatási és informatikai fejlesztések egységesítéséről és összehangolásáról.
 
 ## II. Fejezet
 
@@ -44,4 +44,4 @@ j) ellátja az állami vezetők állami vezetői szolgálati jogviszonyával kap
 
 k) biztosítja az állami vezetők munkavégzéséhez szükséges tárgyi eszközellátást.
 
-[^1]: A 3/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^1]: A 3/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 391/2020. (VIII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.

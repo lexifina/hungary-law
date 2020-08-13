@@ -1,17 +1,25 @@
-## 13. § A miniszterelnök kabinetfőnöke az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
+## 13. §[^9] A miniszterelnök kabinetfőnöke az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
 
-a) javaslatot tesz az infokommunikációs infrastruktúra-fejlesztési és -szolgáltatási politika végrehajtásának egyes irányaira,
+a) az e-közigazgatásért felelős miniszter együttműködésével gondoskodik az e-közigazgatás és az e-közigazgatási szolgáltatások általános elvi alapjai meghatározásáról,
 
-b) kidolgozza az állampolgárok és a vállalkozások számára biztosított elektronikus közszolgáltatások kialakításának elvi irányítási kereteit,
+b) az e-közigazgatásért felelős miniszter és az informatikáért felelős miniszter együttműködésével gondoskodik az egységes, e-közigazgatással és informatikai fejlesztésekkel, valamint az infokommunikációs infrastruktúra-fejlesztésekkel kapcsolatos kormányzati politika kialakításáról,
 
-c) gondoskodik az állampolgárok és a vállalkozások elektronikus közigazgatási szolgáltatások használatára való ösztönzéséről,
+c) az e-közigazgatásért felelős miniszter közreműködésével gondoskodik az egységes, e-közigazgatási és informatikai fejlesztési, valamint szolgáltatási stratégia kidolgozásáról,
 
-d) egyetértési jogot gyakorol az e-közigazgatással és az állami informatikai fejlesztéssel kapcsolatos kormányzati döntési javaslatok Kormány általi megtárgyalása során,
+d) az informatikáért felelős miniszter együttműködésével gondoskodik az egységes, infokommunikációs infrastruktúra-fejlesztési, valamint szolgáltatási stratégia kidolgozásáról,
 
-e) javaslatot tesz az e-közigazgatási és informatikai fejlesztések irányára,
+e) egyetértési jogot gyakorol az e-közigazgatással és informatikai fejlesztésekkel, valamint az infokommunikációs infrastruktúra-fejlesztésekkel kapcsolatos kormányzati döntési javaslatok Kormány általi megtárgyalása során,
 
-f) felügyeli a Kormány informatikai és e-közigazgatási stratégiája végrehajtását,
+f) felügyeli a Kormány e-közigazgatással és informatikai fejlesztésekkel, valamint az infokommunikációs infrastruktúra-fejlesztésekkel kapcsolatos politikája, illetőleg stratégiája végrehajtását,
 
-g)[^9] a miniszterelnök nevében, a miniszterelnök 3/A. §-ban meghatározott jogkörében eljárva – mint a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény 2. § (1) bekezdése szerinti munkaszervezetének vezetője –, a Kormány rendeletében meghatározottak szerint ellenőrzi és jóváhagyja a kormányzati informatikai beszerzéseket.
+g) a miniszterelnök nevében, a miniszterelnök 3/A. §-ban meghatározott jogkörében eljárva – mint a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény 2. § (1) bekezdése szerinti munkaszervezetének vezetője –, a Kormány rendeletében meghatározottak szerint ellenőrzi és jóváhagyja az e-közigazgatással, az informatikával, valamint az infokommunikációs infrastruktúrával kapcsolatos fejlesztéseket és beszerzéseket,
 
-[^9]: A 13. § g) pontját a 83/2019. (IV. 18.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+h) az informatikáért felelős miniszter és az e-közigazgatásért felelős miniszter együttműködésével gondoskodik a nemzeti adatvagyon-gazdálkodás általános elvei kidolgozásáról,
+
+i) gondoskodik a nemzeti szoftverlicenc-gazdálkodás általános elvei kidolgozásáról, és gondoskodik annak végrehajtásáról,
+
+j) egyetértési jogot gyakorol a nemzeti adatvagyon- és szoftverlicenc-gazdálkodással kapcsolatos kormányzati döntési javaslatok Kormány általi megtárgyalása során,
+
+k) felügyeli a nemzeti adatvagyon- és szoftverlicenc-gazdálkodás megvalósítását.
+
+[^9]: A 13. § a 391/2020. (VIII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -44,7 +44,7 @@
 
 21. a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
 
-21a.[^81] a felnőttképzésért,
+21a.[^82] a felnőttképzésért,
 
 22. a foglalkoztatáspolitikáért,
 
@@ -100,7 +100,7 @@
 
 48. a sportlétesítmény-fejlesztésért és gazdálkodásért,
 
-49.[^82] a szakképzésért,
+49.[^83] a szakképzésért,
 
 50. a számviteli szabályozásért,
 
@@ -128,5 +128,5 @@
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-[^81]: A 157. § 21a. pontját a 13/2020. (II. 7.) Korm. rendelet 133. § (5) bekezdése iktatta be.
-[^82]: A 157. § 49. pontja a 13/2020. (II. 7.) Korm. rendelet 135. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^82]: A 157. § 21a. pontját a 13/2020. (II. 7.) Korm. rendelet 133. § (5) bekezdése iktatta be.
+[^83]: A 157. § 49. pontja a 13/2020. (II. 7.) Korm. rendelet 135. § (1) bekezdés 6. pontja szerint módosított szöveg.

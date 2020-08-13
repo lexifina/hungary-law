@@ -1,10 +1,10 @@
-## 150. §[^79] A miniszter tevékenységét a Miniszterelnöki Kormányiroda, a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+## 150. §[^80] A miniszter tevékenységét a Miniszterelnöki Kormányiroda, a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
 ## 14. A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter feladat- és hatásköre
 
 151. § (1) A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter felelős a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény értelmében
 
-a)[^80] a Paksi két új blokk (5–6. blokkok)
+a)[^81] a Paksi két új blokk (5–6. blokkok)
 
 aa) tervezésről, beszerzésről és kivitelezésről szóló,
 
@@ -26,5 +26,5 @@ b) a Paksi két új blokkhoz (5–6. blokkok) kapcsolódó térségfejlesztés �
 
 c) az atomenergia-ipar innovációs feladatainak összehangolásáért.
 
-[^79]: A 150. § a 282/2019. (XI. 27.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^80]: A 151. § (1) bekezdés a) pont záró szövegrésze a 115/2018. (VII. 2.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^80]: A 150. § a 282/2019. (XI. 27.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^81]: A 151. § (1) bekezdés a) pont záró szövegrésze a 115/2018. (VII. 2.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

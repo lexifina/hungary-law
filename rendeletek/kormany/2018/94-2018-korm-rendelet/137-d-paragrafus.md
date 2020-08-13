@@ -1,4 +1,4 @@
-137/D. §[^73] (1) A miniszter a foglalkoztatáspolitikáért való felelőssége keretében előkészíti
+137/D. §[^74] (1) A miniszter a foglalkoztatáspolitikáért való felelőssége keretében előkészíti
 
 a) – a mezőgazdasági foglalkoztatás tekintetében az agrárpolitikáért felelős miniszter együttműködésével – a munkaviszonyra, a közalkalmazotti jogviszonyra,
 
@@ -46,4 +46,4 @@ h) részt vesz a Kormány elosztás- és jövedelempolitikai koncepciójának ki
 
 i) képviseli a Kormányt a Nemzetközi Munkaügyi Szervezetben.
 
-[^73]: A 137/D. §-t a 341/2019. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^74]: A 137/D. §-t a 341/2019. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
