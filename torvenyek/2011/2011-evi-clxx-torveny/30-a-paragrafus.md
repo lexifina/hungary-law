@@ -1,1 +1,0 @@
-30/A. § A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvénnyel módosított 22. és 23. § rendelkezéseit a Nemzeti Eszközkezelővel 2019. január 1-jén fennálló lakásbérleti jogviszonyokra is alkalmazni kell.

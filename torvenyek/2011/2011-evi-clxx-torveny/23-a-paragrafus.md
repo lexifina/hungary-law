@@ -1,1 +1,0 @@
-23/A. § A Nemzeti Eszközkezelő kötelezheti a bérlőt a bérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.
