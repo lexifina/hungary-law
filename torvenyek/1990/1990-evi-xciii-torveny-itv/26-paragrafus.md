@@ -64,7 +64,7 @@ s) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősü
 
 t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pont a)–e) alpontja szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékkötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele;
 
-u) a magánszemély lakásvásárlása, amennyiben az a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározott visszavásárlási jog érvényesítésével, vagy a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvényben meghatározott egyösszegű vásárlással vagy részletvétellel történik;
+u) a magánszemély lakásvásárlása, ha az eladó az 5. § (1) bekezdésének o) pontja szerinti Lebonyolító;
 
 v) az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés;
 

@@ -92,3 +92,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2020-04-01 | 2019. évi CXXVII. törvény | 1990-93-00-00.173 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 1990-93-00-00.174 |
 | 2020-07-08 | 2020. évi LXVI. törvény | 1990-93-00-00.175 |
+| 2020-08-13 | 2020. évi LXXX. törvény | 1990-93-00-00.176 |

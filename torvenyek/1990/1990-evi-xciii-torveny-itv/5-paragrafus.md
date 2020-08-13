@@ -28,7 +28,7 @@ m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a k
 
 n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai,
 
-o) Nemzeti Eszközkezelő Zrt.,
+o) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító,
 
 p) a nemzeti köznevelésről szóló törvény szerinti intézményi tanács,
 
