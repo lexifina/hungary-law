@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2019-07-16 | 2019. évi LXIV. törvény | 1996-85-00-00.38 |
 | 2020-01-01 | 2019. évi CXIII. törvény | 1996-85-00-00.39 |
 | 2020-03-01 | 2019. évi CX. törvény | 1996-85-00-00.40 |
+| 2020-08-13 | 2020. évi LXXX. törvény | 1996-85-00-00.41 |
