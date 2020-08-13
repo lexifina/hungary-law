@@ -12,15 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont i) alpontjában a „161,52%-áig” szövegrész helyébe a „176,88%-áig” szöveg,
-
-## b) 1. melléklet 4. pontjában foglalt táblázat C:2 mezőjében a „189,74” szövegrész helyébe a „207,78” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:107a mezőjében a „21,6” szövegrész helyébe a „18,0” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1494/2020. (VIII. 11.) Korm. határozathoz
 
@@ -35,3 +27,5 @@
 | 3. |
 
 | 4. | IKOP-4.1.0-15- 2020-00009 | M76 autóút M7 autópálya Holládi csomópont és Balatonszentgyörgy közötti szakasz megvalósítása | Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 100% | 18 041 159 617 | 0 | 6 116 015 442 | 4 734 308 713 | 28 891 483 772 | M76 autóút M7 autópálya Holládi csomópont és Balatonszentgyörgy közötti szakasz megvalósítása, 2×2 sávos autóút építése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
