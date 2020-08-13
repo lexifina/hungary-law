@@ -12,7 +12,7 @@
 
 (6) A gyámhivatal a Ptk. 2:15. § (1) bekezdésében felsorolt jognyilatkozat jóváhagyását elutasítja, ha a jognyilatkozatot tartalmazó okirat alaki szempontból érvénytelen. A jognyilatkozat gyámhivatali jóváhagyása a jognyilatkozat érvényességéhez szükséges – jogszabályban előírt – egyéb feltételeket nem pótolja.
 
-(7)[^98] A gyámhivatal az e § szerinti jognyilatkozatok jóváhagyása iránt a Nemzeti Eszközkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: Nemzeti Eszközkezelő) kérelmére is eljár, ha a jognyilatkozatot a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvényben (a továbbiakban: 2011. évi CLXX. törvény) és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvényben (a továbbiakban: 2018. évi CIII. törvény) meghatározott adásvételi szerződés megkötése, illetve az ingatlan részletvétellel történő megvásárlása során teszik.
+(7)[^98] A gyámhivatal az e § szerinti jognyilatkozatok jóváhagyása iránt a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolító (a továbbiakban: Lebonyolító) kérelmére is eljár, ha a jognyilatkozatot a 2018. évi CIII. törvényben meghatározott adásvételi szerződés megkötése, illetve az ingatlan részletvétellel történő megvásárlása során teszik.
 
 [^97]: A 26/B. § (3) bekezdése a 190/2015. (VII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^98]: A 26/B. § (7) bekezdését a 210/2019. (VIII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A 26/B. § (7) bekezdését a 210/2019. (VIII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
