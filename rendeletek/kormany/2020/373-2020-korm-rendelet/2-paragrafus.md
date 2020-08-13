@@ -1,0 +1,3 @@
+## 1. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet [a továbbiakban: 149/1997. (IX. 10.) Korm. rendelet] 26/B. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A gyámhivatal az e § szerinti jognyilatkozatok jóváhagyása iránt a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolító (a továbbiakban: Lebonyolító) kérelmére is eljár, ha a jognyilatkozatot a 2018. évi CIII. törvényben meghatározott adásvételi szerződés megkötése, illetve az ingatlan részletvétellel történő megvásárlása során teszik.”
