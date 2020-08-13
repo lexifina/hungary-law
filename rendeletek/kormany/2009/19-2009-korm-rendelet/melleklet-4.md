@@ -502,8 +502,6 @@ bb) a szerződés hatálybalépéséhez szükséges esetleges további feltétel
 
 c) a szerződés módosítása
 
-ca) a szerződés egyoldalú módosításának esetei, a módosítás közzétételének módjára és határidejére vonatkozó előírások,
-
 [^625]: A Vhr. 4. mellékletének „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
 [^626]: A Vhr. 4. mellékletének „Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
 [^627]: A Vhr. 4. számú melléklet 1.1. pont címe a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg. A Vhr. 4. számú melléklet 1.1. alcíme 80/2019. (IV. 15.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.

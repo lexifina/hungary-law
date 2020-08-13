@@ -18,7 +18,7 @@ f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a tám
 
 g)[^224] Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett nevelésbe vett gyermeket,
 
-h)[^225] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő Zrt.-vel bérleti jogviszonyban áll,
+h)[^225] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) szerinti Lebonyolítóval a 2018. évi CIII. törvény szerinti bérleti jogviszonyban áll,
 
 i)[^226] a Szoctv. 38–39/C. §-a szerinti gyermekek otthongondozási díjában részesül.
 
@@ -47,6 +47,6 @@ eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazo
 [^222]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^223]: A Vhr. 56. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 33. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
 [^224]: A Vhr. 56. § (1) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^225]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.
+[^225]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^226]: A Vhr. 56. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 67. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^227]: A Vhr. 56. § (4) bekezdés b) pontja a 275/2017. (IX. 21.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
