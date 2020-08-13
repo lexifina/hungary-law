@@ -10,7 +10,7 @@ d)[^31]
 
 e)[^32]
 
-f)[^33] a Nemzeti Eszközkezelő Zrt. vagyonkezelésébe tartozó lakóingatlan visszavásárlásához
+f)[^33] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító (a továbbiakban: 2018. évi CIII. törvény szerinti Lebonyolító) vagyonkezelésébe tartozó lakóingatlan visszavásárlásához
 
 felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfizetéséhez.
 
@@ -42,7 +42,7 @@ c) lejárt tőketartozás esetén.
 [^30]: A 3. § (1) bekezdés c) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
 [^31]: A 3. § (1) bekezdés d) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
 [^32]: A 3. § (1) bekezdés e) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
-[^33]: A 3. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^33]: A 3. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 33. § (2) bekezdése iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^34]: A 3. § (2) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 35. § (1) bekezdésével megállapított, a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^35]: A 3. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 70. §-ával megállapított szöveg.
 [^36]: A 3. § (6) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
