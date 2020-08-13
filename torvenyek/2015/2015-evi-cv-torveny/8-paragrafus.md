@@ -38,7 +38,7 @@ l) szabálysértési eljárásban vagy közigazgatási eljárásban kiszabott, j
 
 m) közjogi jogviszonyból eredő, lejárt esedékességű tartozása van – a (2) bekezdésben foglalt kivételekkel –,
 
-n) az adós vagy a zálogkötelezett lakóingatlana a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény értelmében a Nemzeti Eszközkezelő Zrt. (a továbbiakban: NET) részére megvásárlásra felajánlásra került, kivéve, ha a NET a lakóingatlan megvásárlását elutasítja,
+n)
 
 (2) Az (1) bekezdés l) és m) pontja szerinti közjogi jogviszonyból eredő követelésbe nem tartozik bele, ha
 

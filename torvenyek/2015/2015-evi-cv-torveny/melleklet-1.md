@@ -66,11 +66,7 @@ ae) fizetési halasztás
 
 af) az ad) és ae) pontban nem említett futamidő-meghosszabbítás
 
-b) kezdeményezte-e a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény értelmében a lakóingatlana NET általi megvásárlását
-
-ba) ha igen, akkor valamennyi érintett pénzügyi intézmény hozzájárult-e lakóingatlan tulajdonjogának átruházásához, továbbá
-
-bb) a NET a lakóingatlant megvásárlását elutasította-e vagy van-e erre szándéknyilatkozat
+b)
 
 c) ha az adós valamely vagyontárgya más személy vagy szervezet tartozásának dologi biztosítékául szolgál, vagy ha az adós más személy részére kezességet vállalt vagy annak tartozását átvállalta, más személy pénzügyi kötelezettségvállalását tartalmazó szerződésébe lépett be kötelezettként, továbbá ha az adós valamely vagyoni eleme más személynél van letétbe helyezve vagy használatba adva, az ezzel összefüggő okiratok másolata
 
