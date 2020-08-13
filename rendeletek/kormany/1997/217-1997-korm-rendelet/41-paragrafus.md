@@ -10,9 +10,12 @@
 
 (5)[^592] Annak, akinek a keresőképtelensége közegészségügyi okból történt hatósági elkülönítés, foglalkoztatástól eltiltás vagy járványügyi, illetőleg állategészségügyi zárlat miatt áll fenn, azt, hogy munkahelyén megjelenni nem tud, és más munkakörben, munkahelyen, álláshelyen átmenetileg sem foglalkoztatható, a hatósági elkülönítést, a foglalkoztatástól eltiltást, illetőleg a zárlatot elrendelő határozattal kell bizonyítani.
 
+(6)[^593] Az a biztosított, aki részére magánútlevéllel, valamint egyéb úti okmánnyal végrehajtott, nem hivatalos célú kevésbé súlyos vagy súlyos fertőzöttségi mértékű országból Magyarország területére történő beutazáskor hatósági házi karantént rendeltek el, nem minősül keresőképtelennek.
+
 [^587]: A Vhr. 41. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 287/2018. (XII. 21.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
 [^588]: A Vhr. 41. § (1a) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
 [^589]: A Vhr. 41. § (2) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 360/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 131/2012. (VI. 27.) Korm. rendelet 4. §-ával megállapított, a 169/2014. (VII. 18.) Korm. rendelet 2. §-a, a 364/2014. (XII. 30.) Korm. rendelet 18. § e) és g) pontja szerint módosított szöveg.
 [^590]: A Vhr. 41. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^591]: A Vhr. 41. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § j) pontja hatályon kívül helyezte.
 [^592]: A Vhr. 41. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 102/2019. (V. 6.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^593]: A Vhr. 41. § (6) bekezdését a 398/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be.
