@@ -10,7 +10,7 @@ c) a Kormány ügyrendje és a minisztériumok, munkaszervezetek szervezeti és 
 
 d) a szakmai és politikai döntés-előkészítő és döntéshozó szervek ülésein tárgyalt napirendi pontok nyomonkövetésének és a kiadott feladatok végrehajtása ellenőrzésének,
 
-e) a Kormány által kezdeményezett törvényjavaslatok és országgyűlési határozati javaslatok előkészítésének, az azokkal kapcsolatos b) alpont szerinti feladatoknak és azok Országgyűlés részére történő benyújtásának,
+e) a Kormány által kezdeményezett törvényjavaslatok és országgyűlési határozati javaslatok előkészítésének, az azokkal kapcsolatos b) alpont szerinti feladatoknak és azok Országgyűlés részére történő benyújtásának,[^1]
 
 f) a Magyar Közlönyben és a Hivatalos Értesítőben kihirdetésre, illetve közzétételre kerülő tartalmak kihirdetést, illetve közzétételt megelőző lektorálásának és kihirdetésre, illetve közzétételre átadásának
 
@@ -22,7 +22,7 @@ Miniszterelnöki Kormányiroda közigazgatási államtitkára
 
 Határidő: a próbaüzem tekintetében az igazságügyi miniszter, valamint a Miniszterelnöki Kormányiroda közigazgatási államtitkára által meghatározott rendben és ütemben
 
-az éles üzem tekintetében legkésőbb 2020. augusztus 1-jétől
+az éles üzem tekintetében legkésőbb 2020. augusztus 1-jétől[^2]
 
 2. felhívja az igazságügyi minisztert, hogy gondoskodjon az IJR használatába bevonandó felhasználók képzésének megindításáról;
 
@@ -56,7 +56,7 @@ Felelős: igazságügyi miniszter
 
 Határidő: a próbaüzem tekintetében legkésőbb 2019. október 31.
 
-az éles üzembe történő bevezetés tekintetében legkésőbb 2019. december 31.
+az éles üzembe történő bevezetés tekintetében legkésőbb 2019. december 31.[^3]
 
 5. felhívja az igazságügyi minisztert, hogy gondoskodjon arról, hogy a törvényalkotás parlamenti informatikai alrendszere és a NAIH alrendszer üzemeltetési, működtetési és fejlesztési feladatai az Országgyűlés Hivatala és a Nemzeti Adatvédelmi és Információszabadság Hatóság – külön megállapodásban rögzített módon gyakorolt – egyetértésével, szoros együttműködésben és e szervek feladat- és hatáskörének tiszteletben tartásával kerüljenek meghatározásra;
 
@@ -64,7 +64,7 @@ Felelős: igazságügyi miniszter
 
 Határidő: folyamatosan
 
-a megállapodás megkötésére legkésőbb 2019. december 31.
+a megállapodás megkötésére legkésőbb 2019. december 31.[^4]
 
 6. felhívja az igazságügyi minisztert, hogy – szükség esetén a Kormány más tagjának és a Miniszterelnöki Kormányiroda közigazgatási államtitkárának bevonásával – az IJR bevezetése, működtetése és fenntartása érdekében vizsgálja meg a jogalkotással, jogszabály-előkészítéssel kapcsolatos és más szabályozási tárgyú jogszabályok, illetve közjogi szervezetszabályozó eszközök módosításának szükségességét, és tegyen javaslatot azoknak az IJR bevezetésével összefüggésben szükséges, valamint a jogalkotással összefüggő adminisztratív terhek csökkentését eredményező módosítására;
 
@@ -126,7 +126,7 @@ a b) alpont szerinti próbaüzem tekintetében 2020. július 1.
 
 az a) alpont szerinti éles üzem tekintetében 2020. augusztus 1.
 
-a b) alpont szerinti éles üzem tekintetében 2020. augusztus 1.
+a b) alpont szerinti éles üzem tekintetében 2020. augusztus 1.[^5]
 
 9. felhívja az igazságügyi minisztert és a pénzügyminisztert, hogy a megfelelő egyeztetéseket követően készítsenek előterjesztést az IJR éles üzemben történő tartós működtetéséhez, fenntartásához, támogatásához és továbbfejlesztéséhez szükséges 2020. évben, majd azt követően fenntartási időszakban jelentkező forrásigényről.
 
@@ -135,3 +135,9 @@ Felelős: igazságügyi miniszter
 pénzügyminiszter
 
 Határidő: 2019. november 15.
+
+[^1]: Az 1524/2020. (VIII. 14.) Korm. határozat 2. pont a) alpontja alapján a benyújtási kötelezettségnek a 2020. december 31-ig tartó próbaüzem sikerességének megállapítását követően kell eleget tenni.
+[^2]: Az 1524/2020. (VIII. 14.) Korm. határozat 1. pontja alapján az Integrált Jogalkotási Rendszer éles üzemben történő bevezetése 2020. augusztus 1. napjától fokozatosan történjen meg.
+[^3]: Az 1524/2020. (VIII. 14.) Korm. határozat 2. pont b) alpontja alapján az éles üzemben történő bevezetésre vonatkozó egyeztetési kötelezettség határideje 2020. december 31.
+[^4]: Az 1524/2020. (VIII. 14.) Korm. határozat 2. pont c) alpontja alapján az üzemeltetési, működtetési és fejlesztési megállapodás megkötésének határideje 2020. december 31.
+[^5]: Az 1524/2020. (VIII. 14.) Korm. határozat 1. pontja alapján az Integrált Jogalkotási Rendszer éles üzemben történő bevezetése 2020. augusztus 1. napjától fokozatosan történjen meg.
