@@ -1,36 +1,12 @@
 A Kormány az Országos Széchényi Könyvtár korszerű működési feltételeinek biztosítása érdekében
 
-1. felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások minisztere, a Miniszterelnökséget vezető miniszter és a nemzetgazdasági miniszter bevonásával készítse el a Budavári Palota F. épülete nemzeti könyvtári funkciójának megújítását megalapozó tervezési programot, amely együttesen tartalmazza az épület műszaki állapotához, a nemzeti könyvtár hatékony működtetéséhez, valamint az épület műemléki védettségéhez kapcsolódó elemeket;
+1.[^1]
 
-Felelős: nemzeti fejlesztési miniszter
+2.[^2]
 
-emberi erőforrások minisztere
+3.[^3]
 
-Miniszterelnökséget vezető miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2016. szeptember 15.
-
-2. egyetért azzal, hogy a Budavári Palota F. épület belső tereinek műemléki rekonstrukciója keretében, a könyvtárszakmai funkciók alapján, az eredeti tervek felhasználásával sor kerül a díszlépcsőház helyreállítására, a Mátyás-terem rekonstrukciójára, a nyugati oldal teljes teremsorának megújítására, a keleti oldalon a díszteremnek és a hozzá kapcsolódó terasz historizáló állapot szerinti megújítására és a toronyraktárak visszabontására;
-
-3. felhívja az emberi erőforrások miniszterét, hogy a Miniszterelnökséget vezető miniszter bevonásával az épület rekonstrukciójával kapcsolatban tervpályázat kiírásáról gondoskodjon;
-
-Felelős: emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2016. szeptember 15.
-
-4. felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások minisztere és a nemzetgazdasági miniszter bevonásával készítsen előterjesztést a Kormány részére a 2. pontban meghatározott rekonstrukció tervezési programjáról, ütemtervéről és költségigényéről, a 3. pontban meghatározott tervpályázat eredményeinek figyelembevételével;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-emberi erőforrások minisztere
-
-nemzetgazdasági miniszter
-
-Határidő: a tervpályázat eredményhirdetését követően azonnal
+4.[^4]
 
 5. egyetért a Makovecz Imre Bástyája projekt megvalósításához szükséges, jelenleg az Isteni Megváltóról Nevezett Nővérek Kongregációja Magyar Tartomány tulajdonában álló Piliscsaba, belterület 1602/4. hrsz., és a Piliscsaba, külterület 080/13. hrsz alatti, valamint magánszemély tulajdonában álló Piliscsaba, belterület a 1602/4/A. hrsz. alatti, természetben a 2081 Piliscsaba, Fő út 2/A. szám alatt található ingatlanok állam által történő megszerzésének szándékával;
 
@@ -55,3 +31,8 @@ emberi erőforrások minisztere
 Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. augusztus 31.
+
+[^1]: Az 1. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont c) alpontja visszavonta.
+[^2]: A 2. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont c) alpontja visszavonta.
+[^3]: A 3. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont c) alpontja visszavonta.
+[^4]: A 4. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont c) alpontja visszavonta.
