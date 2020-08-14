@@ -48,7 +48,7 @@
 
 ## d) az 1. pont a) alpont ad) alpontja szerinti beruházás vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére a 2020. évben összesen 84 000 000 forint forrást biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31. napjáig kell megvalósítani,
 
-## e) az 1. pont b) alpontja szerinti beruházás vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére a 2020. évben összesen 30 000 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31. napjáig kell megvalósítani;
+## e)[^1]
 
 ## 5. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a 4. pont a)–d) alpontja szerinti, összesen 512 030 000 forint forrás 2020. évi rendelkezésre állásáról a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 8. Szakképzési Centrumok cím javára, elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
 
@@ -66,21 +66,11 @@
 
 ## Határidő: 2021. február 28.
 
-## 6. felhívja a pénzügyminisztert, hogy az emberi erőforrások miniszterének bevonásával gondoskodjon a 4. pont e) alpontja szerinti 30 000 000 forint forrás 2020. évi rendelkezésre állásáról a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 2. Köznevelési intézmények felújítása, beruházása jogcímcsoport javára, elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2020. január 31.
-
-## Az elszámolás és a fel nem használt rész visszafizetése tekintetében
+## 6.[^2] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. pont b) alpontja szerinti cél megvalósítása érdekében a beruházás vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére a 2020. évben 30 000 000 forint rendelkezésre állásáról;
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2021. február 28.
+## Határidő: a felmerülés ütemében
 
 ## 7. egyetért azzal, hogy
 
@@ -88,7 +78,7 @@
 
 ## b) az 1. pont d) alpont da) alpontjában meghatározott beruházások 2. pont szerinti előkészítési feladatait a Debreceni Egyetem,
 
-## c) az 1. pont b) alpontjában meghatározott beruházás 4. pont e) alpontja szerinti előkészítési feladatait Debrecen Megyei Jogú Város Önkormányzata
+## c)[^3] az 1. pont b) alpontjában meghatározott beruházás előkészítési feladatait Debrecen Megyei Jogú Város Önkormányzata
 
 ## valósítja meg;
 
@@ -203,3 +193,7 @@
 | Magyar Államkincstár |  | 1 példány |  |  |  |  | egyéb: | azonnal |  |  | 750 000 000 |  |  |  | 750 000 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 4. pont e) alpontját az 1521/2020. (VIII. 14.) Korm. határozat 1. pont h) alpontja visszavonta.
+[^2]: A 6. pont az 1521/2020. (VIII. 14.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 7. pont c) alpontja az 1521/2020. (VIII. 14.) Korm. határozat 3. pontjával megállapított szöveg.
