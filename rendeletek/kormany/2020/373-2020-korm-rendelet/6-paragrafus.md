@@ -1,3 +1,3 @@
-## 5. § A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet [a továbbiakban: 12/2001. (I. 31.) Korm. rendelet] 21. § (14) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(14) Ha a támogatott személy a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelésében lévő lakóingatlant visszavásárolja, ennek tényéről a Lebonyolító az adásvételi szerződés megkötésétől számított 5 napon belül értesíti a kormányhivatalt. A kormányhivatal hatósági határozatával intézkedik a teljes támogatási összeg visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak a 21. § (1) vagy (2) bekezdése szerinti időtartamból még fennmaradó időszakra vonatkozóan a támogatott személy által visszavásárolt lakásra történő bejegyezéséről. A támogatott személyt a 21. § (3) bekezdése szerinti kötelezettség az eredeti határidő lejártáig terheli.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

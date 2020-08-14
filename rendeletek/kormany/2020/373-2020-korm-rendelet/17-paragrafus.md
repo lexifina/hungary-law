@@ -1,3 +1,3 @@
-## „(2) Az (1) bekezdés szerinti jelzálogjog ranghelyét kizárólag a kedvezménnyel érintett ingatlan építése vagy vásárlása érdekében felvett lakáscélú hitelintézeti, lakás-takarékpénztári kölcsönt és a kedvezménnyel érintett ingatlan vásárlása, bővítése, korszerűsítése érdekében a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet szerint a Magyar Állam által nyújtott családi otthonteremtési kedvezményt biztosító jelzálogjog előzheti meg.
+## 16. §[^16]
 
-## (3) Az e rendeletben szabályozott, állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozatok megtételére az állam nevében a Törvény szerinti Lebonyolító (a továbbiakban: Lebonyolító) jogosult.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
