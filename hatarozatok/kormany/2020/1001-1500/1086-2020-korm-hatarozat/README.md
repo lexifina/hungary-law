@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1086-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-03-10 | 2020-1086-30-22.1 | 1086/2020. (III. 10.) Korm. határozat |
+| 2020-08-14 | 2020-1086-30-22.2 | 1524/2020. (VIII. 14.) Korm. határozat |

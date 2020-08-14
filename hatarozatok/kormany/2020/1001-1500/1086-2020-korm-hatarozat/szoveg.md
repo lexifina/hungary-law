@@ -16,7 +16,7 @@ a) 2020. augusztus 1. – 2020. november 30. közötti időszakban szükséges 3
 
 b) 2020. december 1. – 2020. december 31. közötti időszakban szükséges 98 663 398 forint
 
-biztosításáról a Kvtv. 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára;
+biztosításáról a Kvtv. 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára;[^1]
 
 Felelős: pénzügyminiszter
 
@@ -33,3 +33,5 @@ Felelős: pénzügyminiszter
 belügyminiszter
 
 Határidő: 2020. július 15.
+
+[^1]: Lásd az 1524/2020. (VIII. 14.) Korm. határozat 3. pontját.
