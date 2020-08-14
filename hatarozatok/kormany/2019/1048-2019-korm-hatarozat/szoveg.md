@@ -8,12 +8,8 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
 
-3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával a 2. pontban biztosított forrás visszapótlásáról, szükség szerint a felmerülés ütemében gondoskodjon;
-
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: a felmerülés ütemében
+3.[^1]
 
 4. egyetért azzal, hogy a 2. pont alapján biztosított forrás terhére Bonyhád Város Önkormányzata részére az emberi erőforrások minisztere – külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó – 2020. december 31-éig történő elszámolási kötelezettséggel támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
+
+[^1]: A 3. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont g) alpontja visszavonta.
