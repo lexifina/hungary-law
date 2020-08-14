@@ -1,16 +1,8 @@
 A Kormány
 
-1. egyetért azzal, hogy összhangban a nemzeti könyvtár stratégiai céljaival, az Országos Széchényi Könyvtár (a továbbiakban: OSZK) számára jelenlegi helyszínén, a Budavári Palota F épületében szükséges korszerű működési feltételeket biztosítani;
+1.[^1]
 
-2. felhívja az emberi erőforrások miniszterét, hogy a Miniszterelnökséget vezető miniszter és a nemzeti fejlesztési miniszter bevonásával készítse el a Budavári Palota F épülete nemzeti könyvtári funkciójának megújítását megalapozó tervezési programot;
-
-Felelős: emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: 2016. szeptember 15.
+2.[^2]
 
 3. felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával készítsen előterjesztést a Kormány számára az OSZK archivális raktárának megvalósítására irányuló tervekről és a költségtervről;
 
@@ -41,3 +33,6 @@ emberi erőforrások minisztere
 Határidő: azonnal
 
 5. egyetért azzal, hogy az OSZK nemzeti könyvtári feladatellátásához kapcsolódó 2016–2018. évi informatikai eszközbeszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+
+[^1]: Az 1. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont b) alpontja visszavonta.
+[^2]: A 2. pontot az 1521/2020. (VIII. 14.) Korm. határozat 1. pont b) alpontja visszavonta.
