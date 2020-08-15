@@ -244,4 +244,6 @@ az sf) alpont tekintetében 2020. október 31.
 
 az sg) alpont tekintetében minden év szeptember 30-ig
 
-3. A Kormány visszavonja a Magyarország klinikai vizsgálatokban való részvételét támogató, versenyképességét növelő intézkedésekről szóló 1751/2017. (X. 27.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
