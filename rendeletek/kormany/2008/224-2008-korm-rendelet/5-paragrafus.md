@@ -1,4 +1,4 @@
-## 4. §[^29]
+## 4. §[^30]
 
 5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -12,13 +12,16 @@
 
 a) a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i, 1907/2006/EK európai parlamenti és tanácsi rendelet 126. cikkének,
 
-b)[^30] a veszélyes vegyi anyagok kiviteléről és behozataláról szóló 2012. július 4-i 649/2012/EU európai parlamenti és tanácsi rendelet 18. cikkének
+b)[^31] a veszélyes vegyi anyagok kiviteléről és behozataláról szóló 2012. július 4-i 649/2012/EU európai parlamenti és tanácsi rendelet 18. cikkének
 
-c)[^31] az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról (CLP), a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet 47. cikkének
+c)[^32] az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról (CLP), a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet 47. cikkének
 
-d)[^32] a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet
+d)[^33] a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet
 
-[^29]: A 4. §-t a 316/2013. (VIII. 28.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.
-[^30]: Az 5. § (5) bekezdés b) pontja a 123/2009. (VI. 12.) Korm. rendelet 7. § (4) bekezdés a) pontja, a 447/2012. (XII. 29.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
-[^31]: Az 5. § (5) bekezdés c) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^32]: Az 5. § (5) bekezdés d) pontját a 316/2013. (VIII. 28.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+e)[^34] a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 2019. június 20-i (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 3. cikkének
+
+[^30]: A 4. §-t a 316/2013. (VIII. 28.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.
+[^31]: Az 5. § (5) bekezdés b) pontja a 123/2009. (VI. 12.) Korm. rendelet 7. § (4) bekezdés a) pontja, a 447/2012. (XII. 29.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^32]: Az 5. § (5) bekezdés c) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^33]: Az 5. § (5) bekezdés d) pontját a 316/2013. (VIII. 28.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^34]: Az 5. § (5) bekezdés e) pontját a 376/2020. (VII. 30.) Korm. rendelet 18. §-a iktatta be.

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-224-20-
 | 2015-07-22 | 2008-224-20-22.10 | 192/2015. (VII. 21.) Korm. rendelet |
 | 2018-01-01 | 2008-224-20-22.11 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2019-05-24 | 2008-224-20-22.12 | 105/2019. (V. 8.) Korm. rendelet |
+| 2020-08-15 | 2008-224-20-22.13 | 376/2020. (VII. 30.) Korm. rendelet |
