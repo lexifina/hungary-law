@@ -1,4 +1,4 @@
-## 20. [^84] A veszélyhelyzet következtében felvehető hallgatói hitel
+## 20. [^85] A veszélyhelyzet következtében felvehető hallgatói hitel
 
 29/A. § (1) A koronavírus világjárvány következményeinek enyhítése érdekében
 
@@ -26,4 +26,4 @@ b) megfelel a 3. § (1), (3) és (4) bekezdésében foglalt feltételeknek.
 
 (9) Az (1) bekezdés szerinti hallgatói hitel igénylésére, folyósítására, előtörlesztésére, megszűnésére, a hiteltartozásra igényelhető gyermektámogatásra, a hitelszerződés felmondására, a felmondott hitelszerződésből eredő követelés behajtására, továbbá a hitelszerződésre a nyelvtanulási hallgatói hitelekre vonatkozó, 2020. január 1-jén hatályos szabályokat kell alkalmazni azzal, hogy az e § szerinti hitelfelvevő a 18/A–18/D. § szerinti gyermektámogatást a hitel folyósítása után és 2020. május 1-jén vagy azt követően született vagy örökbefogadott gyermek esetében veheti igénybe.
 
-[^84]: A 20. alcímet (29/A. §-t) a 284/2020. (VI. 17.) Korm. rendelet 56. §-a iktatta be.
+[^85]: A 20. alcímet (29/A. §-t) a 284/2020. (VI. 17.) Korm. rendelet 56. §-a iktatta be.
