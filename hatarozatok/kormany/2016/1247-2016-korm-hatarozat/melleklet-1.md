@@ -18,11 +18,11 @@
 
 ## fa)[^3] az Integrált Közlekedésfejlesztési Operatív Program
 
-## faa)[^4] 2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 111,59%-áig,
+## faa)[^4] 2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 113,82%-áig,
 
-## fab)[^5] 3.1. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 123,75%-áig,
+## fab)[^5] 3.1. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 126,69%-áig,
 
-## fac)[^6] 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 154,88%-áig
+## fac)[^6] 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 158,59%-áig
 
 ## legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható,
 
@@ -40,7 +40,7 @@
 
 ## Határidő: azonnal
 
-## i)[^9] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 176,88%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
+## i)[^9] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 190,56%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -68,7 +68,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-2.1.0-15 | Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 558,692 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-2.1.0-15 | Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 569,888 | kiemelt | Meghirdetve: 2015. december 4. |
 
 3. Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javításáról szóló 3. prioritás
 
@@ -76,9 +76,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 286,595 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 293,395 | kiemelt | Meghirdetve: 2015. december 4. |
 
-| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 195,145 | kiemelt | Meghirdetve: 2015. december 4. |
+| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 199,816 | kiemelt | Meghirdetve: 2015. december 4. |
 
 4. TEN-T hálózat közúti elérhetőségének javításáról szóló 4. prioritás
 
@@ -86,16 +86,16 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 207,78 | kiemelt | Meghirdetve: 2016. március 1. |
+| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 223,85 | kiemelt | Meghirdetve: 2016. március 1. |
 
 [^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 5. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. a) pontja szerint módosított szöveg.
 [^2]: Az 1. pont f) alpontja az 1846/2017. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: Az 1. pont f) alpont fa) alpontja az 1444/2018. (IX. 17.) Korm. határozat 3. pontjával megállapított szöveg.
-[^4]: Az 1. pont f) pont fa) alpont faa) alpontja az 1373/2020. (VII. 9.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^5]: Az 1. pont f) alpont fa) alpont fab) alpontja az 1373/2020. (VII. 9.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^6]: Az 1. pont f) alpont fa) alpont fac) alpontja az 1493/2020. (VIII. 11.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont f) pont fa) alpont faa) alpontja az 1373/2020. (VII. 9.) Korm. határozat 4. pont a) alpontja, az 1523/2020. (VIII. 14.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^5]: Az 1. pont f) alpont fa) alpont fab) alpontja az 1373/2020. (VII. 9.) Korm. határozat 4. pont b) alpontja, az 1523/2020. (VIII. 14.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^6]: Az 1. pont f) alpont fa) alpont fac) alpontja az 1493/2020. (VIII. 11.) Korm. határozat 4. pont a) alpontja, az 1523/2020. (VIII. 14.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
 [^7]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^8]: Az 1. pont h) pontját az 1961/2017. (XII. 18.) Korm. határozat 3. pontja iktatta be, szövege az 1373/2020. (VII. 9.) Korm. határozat 4. pont d) alpontja szerint módosított szöveg.
-[^9]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be, szövege az 1464/2020. (VII. 30.) Korm. határozat 3. pontjával megállapított, az 1494/2020. (VIII. 11.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^9]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be, szövege az 1464/2020. (VII. 30.) Korm. határozat 3. pontjával megállapított, az 1494/2020. (VIII. 11.) Korm. határozat 3. pont a) alpontja, az 1528/2020. (VIII. 14.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^10]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja, az 1125/2018. (III. 19.) Korm. határozat 4. pontja, az 1342/2018. (VII. 25.) Korm. határozat 3. pont a) és b) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 5. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 4. pont b) alpontja, az 1389/2018. (VIII. 13.) Korm. határozat 3. pont b) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 7. pontja, az 1563/2018. (XI. 10.) Korm. határozat 4. pont b) pontja, az 1580/2018. (XI. 17.) Korm. határozat 4. pont b) alpontja, az 1225/2019. (IV. 23.) Korm. határozat 4. pontja, az 1487/2019. (VIII. 1.). Korm. határozat 3. pont b) alpontja, az 1555/2019. (IX. 26.) Korm. határozat 5. pontja, az 1643/2019. (XI. 19.) Korm. határozat 3. pont b) alpontja, az 1708/2019. (XII. 10.) Korm. határozat 3. pont b) alpontja, az 1818/2019. (XII. 30.) Korm. határozat 3. pont b) alpontja, az 1038/2020. (II. 13.) Korm. határozat 4. pont c) és d) alpontja, az 1303/2020. (VI. 11.) Korm. határozat 3. pont b) alpontja, 5. pontja, az 1373/2020. (VII. 9.) Korm. határozat 4. pont f)–h) alpontja, az 1439/2020. (VII. 23.) Korm. határozat 3. pont b) alpontja, az 1464/2020. (VII. 30.) Korm. határozat 4. pont a) alpontja, az 1493/2020. (VIII. 11.) Korm. határozat 4. pont b) alpontja, az 1494/2020. (VIII. 11.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^11]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja, az 1125/2018. (III. 19.) Korm. határozat 4. pontja, az 1342/2018. (VII. 25.) Korm. határozat 3. pont a) és b) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 5. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 4. pont b) alpontja, az 1389/2018. (VIII. 13.) Korm. határozat 3. pont b) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 7. pontja, az 1563/2018. (XI. 10.) Korm. határozat 4. pont b) pontja, az 1580/2018. (XI. 17.) Korm. határozat 4. pont b) alpontja, az 1225/2019. (IV. 23.) Korm. határozat 4. pontja, az 1487/2019. (VIII. 1.). Korm. határozat 3. pont b) alpontja, az 1555/2019. (IX. 26.) Korm. határozat 5. pontja, az 1643/2019. (XI. 19.) Korm. határozat 3. pont b) alpontja, az 1708/2019. (XII. 10.) Korm. határozat 3. pont b) alpontja, az 1818/2019. (XII. 30.) Korm. határozat 3. pont b) alpontja, az 1038/2020. (II. 13.) Korm. határozat 4. pont c) és d) alpontja, az 1303/2020. (VI. 11.) Korm. határozat 3. pont b) alpontja, 5. pontja, az 1373/2020. (VII. 9.) Korm. határozat 4. pont f)–h) alpontja, az 1439/2020. (VII. 23.) Korm. határozat 3. pont b) alpontja, az 1464/2020. (VII. 30.) Korm. határozat 4. pont a) alpontja, az 1493/2020. (VIII. 11.) Korm. határozat 4. pont b) alpontja, az 1494/2020. (VIII. 11.) Korm. határozat 3. pont b) alpontja, az 1523/2020. (VIII. 14.) Korm. határozat 4. pont d)–f) alpontja, az 1528/2020. (VIII. 14.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
