@@ -1,3 +1,5 @@
-## 1. §[^1]
+## 1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet) 5. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 3. § (2) bekezdése alapján 2020. augusztus 15-én lép hatályba.
+## (A hitelfelvevő által igénybe vehető hallgatói hitel legmagasabb összegei hitelcélok szerint:)
+
+## „a) szabad felhasználású hitel esetében tanulmányi hónaponként 150 000 forint,”
