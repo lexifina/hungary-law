@@ -1,8 +1,8 @@
 3. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A hulladékkal kapcsolatos éves adatszolgáltatás teljesítéséhez szükséges adatcsomag adattartalma (EHIR: HIR-ÉV)[^44]
+## A hulladékkal kapcsolatos éves adatszolgáltatás teljesítéséhez szükséges adatcsomag adattartalma (EHIR: HIR-ÉV)[^45]
 
-1.[^45] Alapadatok:
+1.[^46] Alapadatok:
 
 1.1. Adatszolgáltatóra vonatkozó adatok:
 
@@ -38,9 +38,9 @@ b) beosztás;
 
 c) elérhetőségek.
 
-1.4.[^46] Nyilatkozat
+1.4.[^47] Nyilatkozat
 
-2.[^47] A hulladékképződés bejelentéséhez szükséges adattartalom:
+2.[^48] A hulladékképződés bejelentéséhez szükséges adattartalom:
 
 2.1. A hulladékra vonatkozó adatok:
 
@@ -64,7 +64,7 @@ b) a képződött elsődleges hulladék mennyisége.
 
 2.2.2. Másodlagos hulladék képződése esetén:
 
-a)[^48] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
+a)[^49] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
 
 b) előkezelési művelet esetén az a) pontban előírt kód helyett a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
@@ -86,7 +86,7 @@ e) az átvételt végző típusa (a jellemző hulladékgazdálkodási tevékenys
 
 f) a kezelés céljából átadott hulladék mennyisége.
 
-3.[^49] A gyűjtés, a kereskedelem, az előkezelés bejelentéséhez szükséges adatlap adattartalom:
+3.[^50] A gyűjtés, a kereskedelem, az előkezelés bejelentéséhez szükséges adatlap adattartalom:
 
 3.1. A hulladékra vonatkozó adatok:
 
@@ -142,13 +142,13 @@ e) az átvétel típusa (a jellemző hulladékgazdálkodási tevékenység megje
 
 f) a kezelés céljából átadott hulladék mennyisége.
 
-4.[^50] A hasznosítással és ártalmatlanítással kapcsolatos adatszolgáltatás teljesítéséhez szükséges adattartalom:
+4.[^51] A hasznosítással és ártalmatlanítással kapcsolatos adatszolgáltatás teljesítéséhez szükséges adattartalom:
 
 4.1. A hulladékra vonatkozó adatok:
 
 a) a kezelési kód;
 
-b)[^51]
+b)[^52]
 
 c) a hulladékjegyzék szerinti azonosító kód;
 
@@ -182,9 +182,9 @@ f) a hulladék eredete szerinti besorolása;
 
 g) a kezelés céljából átvett hulladék mennyisége.
 
-5.[^52]
+5.[^53]
 
-6.[^53] Az EPRTR adatszolgáltatási kötelezettségének teljesítéséhez szükséges adattartalom:
+6.[^54] Az EPRTR adatszolgáltatási kötelezettségének teljesítéséhez szükséges adattartalom:
 
 6.1. Az adatszolgáltató adatai
 
@@ -214,13 +214,13 @@ h) a tényleges hasznosítást, ártalmatlanítást végző külföldi telephely
 
 6.3. Adatjavítás esetén az adatjavításra vonatkozó magyarázat megjelölése.
 
-[^44]: A 3. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^45]: A 3. melléklet 1. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^46]: A 3. melléklet 1. pont 1.4. alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^47]: A 3. melléklet 2. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^48]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^49]: A 3. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^50]: A 3. melléklet 4. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^51]: A 3. melléklet 4.1. pont b) alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^52]: A 3. melléklet 5. pontját a 189/2017. (VII. 6.) Korm. rendelet 4. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^53]: A 3. melléklet 6. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^45]: A 3. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^46]: A 3. melléklet 1. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^47]: A 3. melléklet 1. pont 1.4. alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^48]: A 3. melléklet 2. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^49]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^50]: A 3. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^51]: A 3. melléklet 4. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^52]: A 3. melléklet 4.1. pont b) alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^53]: A 3. melléklet 5. pontját a 189/2017. (VII. 6.) Korm. rendelet 4. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^54]: A 3. melléklet 6. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.

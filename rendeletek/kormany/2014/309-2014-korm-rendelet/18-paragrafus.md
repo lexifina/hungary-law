@@ -10,4 +10,8 @@ b) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 c) a 2008/98/EK irányelv 11. cikkének (2) bekezdésében rögzített célok teljesítésének igazolására szolgáló szabályok és számítási módszerek megállapításáról szóló, 2011. november 18-i 2011/753/EU bizottsági határozat
 
+d)[^30] a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 2019. június 20-i (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 7. cikk (6) bekezdésének
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^30]: A 18. § (2) bekezdés d) pontját a 376/2020. (VII. 30.) Korn. rendelet 20. §-a iktatta be.
