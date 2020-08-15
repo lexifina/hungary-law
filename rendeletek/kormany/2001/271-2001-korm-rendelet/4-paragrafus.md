@@ -4,9 +4,9 @@
 
 (2) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy büntetés vagy intézkedés alkalmazása szükségtelen, a bírság kiszabása mellőzhető.
 
-(3)[^26] A Kt. 58. § (2) bekezdése alapján a jegyző által véglegesen kiszabott bírság teljes összege, illetve a környezetvédelmi hatóság által a települési önkormányzat területén véglegesen kiszabott és abból befolyt bírság összegének 30%-a, az illetékes települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatot illeti meg.
+(3)[^27] A Kt. 58. § (2) bekezdése alapján a jegyző által véglegesen kiszabott bírság teljes összege, illetve a környezetvédelmi hatóság által a települési önkormányzat területén véglegesen kiszabott és abból befolyt bírság összegének 30%-a, az illetékes települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatot illeti meg.
 
-(4)[^27] A határozatban rendelkezni kell arról, hogy milyen számlaszámra kell a befizetést teljesíteni. A környezetvédelmi hatóság, a befizetett bírságból a (3) bekezdésben meghatározott bírságrészt, a befizetést követő 15 napon belül az érintett önkormányzatnak átutalja.
+(4)[^28] A határozatban rendelkezni kell arról, hogy milyen számlaszámra kell a befizetést teljesíteni. A környezetvédelmi hatóság, a befizetett bírságból a (3) bekezdésben meghatározott bírságrészt, a befizetést követő 15 napon belül az érintett önkormányzatnak átutalja.
 
-[^26]: A 4. § (3) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 14. §-a, az 527/2013. (XII. 30.) Korm. rendelet 19. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 98. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^27]: A 4. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^27]: A 4. § (3) bekezdése a 255/2013. (VII. 5.) Korm. rendelet 14. §-a, az 527/2013. (XII. 30.) Korm. rendelet 19. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 98. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^28]: A 4. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

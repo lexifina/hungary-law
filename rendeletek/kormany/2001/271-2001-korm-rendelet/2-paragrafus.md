@@ -64,6 +64,8 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 
 (9)[^23] A környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály előírásai nem vagy nem megfelelő teljesítése esetén, ha a forgalmazó az átvételi kötelezettségét nem teljesíti: 100 000 forint.
 
+(10)[^24] A területi környezetvédelmi hatóság által kiszabandó bírság, alapbírság és szorzószám megállapítása nélkül az (EU) 2019/1021 európai parlamenti és tanácsi rendelet 7. cikkében meghatározott hulladékkezelési feladatok nem vagy nem megfelelő teljesítése esetén: 500 000 forint.
+
 [^12]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 244. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 47. §-a szerint módosított szöveg.
 [^13]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^14]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
@@ -76,3 +78,4 @@ b) ha a gyártó nem teljesíti a Hkr. 3. § (2) bekezdés a)–b) pontjában el
 [^21]: A 2. § (7) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 245. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^22]: A 2. § (8) bekezdését a 286/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdése iktatta be.
 [^23]: A 2. § (9) bekezdését a 72/2010. (III. 19.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 2. § (10) bekezdését a 376/2020. (VII. 30.) Korm. rendelet 13. §-a iktatta be.
