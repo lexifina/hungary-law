@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2019-07-01 | 2007-254-20-22.31 | 348/2010. (XII. 28.) Korm. rendelet |
 | 2020-01-01 | 2007-254-20-22.32 | 331/2019. (XII. 20.) Korm. rendelet |
 | 2020-04-22 | 2007-254-20-22.33 | 138/2020. (IV. 21.) Korm. rendelet |
+| 2020-08-15 | 2007-254-20-22.34 | 384/2020. (VIII. 7.) Korm. rendelet |

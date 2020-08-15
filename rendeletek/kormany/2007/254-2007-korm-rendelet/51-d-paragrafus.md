@@ -1,0 +1,15 @@
+## A folyamatban lévő beruházásokra és felújításokra vonatkozó átmeneti szabályok
+
+51/D. § (1) A főváros közigazgatási határán belül elhelyezkedő átmeneti használati joggal érintett ingatlanokat érintő beruházásokat, felújításokat 2020. augusztus 1. napjától továbbra is a központi költségvetési szerv tartja nyilván a könyveiben, és 2020. december 31. napjáig saját költségvetési forrásai terhére folytatja azok megvalósítását. Ha a beruházások, felújítások 2020. december 31. napját megelőzően üzembe helyezhetővé válnak, úgy az üzembe helyezés feltételeinek fennállásakor, de legkésőbb 2020. december 31. napjáig az átmeneti használati jog időtartama alatt elvégzett munkálatokról, dokumentumokról a teljes beruházás, felújítás értékéről a központi költségvetési szerv az üzembe helyezés napját, vagy 2020. december 31. napját követő 30 napon belül adatszolgáltatást küld az MNV Zrt. részére.
+
+(2) A főváros közigazgatási határán kívül elhelyezkedő átmeneti használati joggal érintett ingatlanokat érintő beruházásokat, felújításokat 2021. január 1. napjától továbbra is a központi költségvetési szerv tartja nyilván a könyveiben és 2021. június 30. napjáig saját költségvetési forrásai terhére folytatja azok megvalósítását. Ha a beruházások, felújítások 2021. június 30. napját megelőzően üzembe helyezhetővé válnak, úgy az üzembe helyezés feltételeinek fennállásakor, de legkésőbb 2021. június 30. napjáig az átmeneti használati jog időtartama alatt elvégzett munkálatokról, dokumentumokról a teljes beruházás, felújítás értékéről a központi költségvetési szerv az üzembe helyezés napját, vagy 2021. június 30. napját követő 30 napon belül adatszolgáltatást küld az MNV Zrt. részére.
+
+(3) Az üzembe helyezés napjával, de legkésőbb
+
+a) a főváros közigazgatási határán belül elhelyezkedő átmeneti használati joggal érintett ingatlanok esetén 2021. január 1. napjával,
+
+b) a főváros közigazgatási határán kívül elhelyezkedő átmeneti használati joggal érintett ingatlanok esetén 2021. július 1. napjával
+
+## a központi költségvetési szerv a 412. Nemzeti vagyon változása könyvviteli számlával a beruházás, felújítás bruttó értékét, az elszámolt terven felüli értékcsökkenést és a kapcsolódó időbeli elhatárolást a nyilvántartásából kivezeti, az MNV Zrt. ugyanezen nappal nyilvántartásba veszi a beruházás, felújítás bruttó értékét, az elszámolt terven felüli értékcsökkenést és a kapcsolódó időbeli elhatárolást. Az üzembe helyezhető befejezetlen beruházást, felújítást az MNV Zrt. aktiválja a közvetlen kezelésű rábízott vagyon nyilvántartásában.
+
+(4) Az MNV Zrt. könyveibe került, a (3) bekezdés a), valamint b) pontjában foglalt határidő lejártakor műszaki vagy számviteli szempontból befejezetlennek minősülő beruházásokra, felújításokra, vonatkozó szerződésekbe az MNV Zrt. a főváros közigazgatási határán belül elhelyezkedő átmeneti használati joggal érintett ingatlanok esetén 2021. január 1. napján, a főváros közigazgatási határán kívül elhelyezkedő átmeneti használati joggal érintett ingatlanok esetén 2021. július 1. napján a központi költségvetési szerv helyébe jogutódlással belép.

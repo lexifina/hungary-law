@@ -1,0 +1,1 @@
+## 51/I. § Az átmeneti használati jog időtartama alatt az 51/C. § (1) bekezdése szerinti központi költségvetési szervekre, valamint az 51/L. § szerinti tulajdonosi joggyakorlókra az MNV Zrt. mindenkor hatályos vagyonnyilvántartási szabályzata külön elfogadás nélkül is kötelező.

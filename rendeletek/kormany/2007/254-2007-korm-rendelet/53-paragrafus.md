@@ -1,29 +1,15 @@
-53. § (1)[^236] Központi költségvetési szerv az 52. § (1) bekezdésében meghatározott körben – elhelyezési céllal – kizárólag az MNV Zrt. előzetes egyetértése alapján
+## Kijelölő okirat
 
-a) indíthat ingatlan tulajdonjogának az állam javára történő megszerzésére irányuló közbeszerzési vagy más eljárást,
+53. § (1) A Vtv. 28/A. § (2) bekezdése szerint kiállított kijelölő okirat tartalmazza:
 
-b) köthet ingatlanra vonatkozó olyan jogügyletet, amely az állam tulajdonszerzését eredményezi,
+a) az MNV Zrt. döntéshozó szerve kijelölésre vonatkozó döntésének azonosítóját;
 
-c) indíthat ingatlanra vonatkozó használati jogosultság bármely jogcímen történő megszerzésére irányuló eljárást,
+b) az ingatlan vagy ingatlanok fekvése szerinti település nevét és az ingatlan vagy ingatlanok helyrajzi számát;
 
-d) köthet saját maga vagy más központi költségvetési szerv javára ingatlanra vonatkozó használati jogosultságot eredményező megállapodást.
+c) a kijelölt használó vagy használók megnevezését;
 
-(2) Az (1) bekezdés c)–d) pontjaiban foglaltakat nem kell alkalmazni, amennyiben
+d) a kijelölés kezdő és befejező időpontját, vagy a kijelölés létrejöttének, illetve megszűnésének időpontját meghatározó feltételeket, vagy a kijelölés határozatlan időre történő megállapítását;
 
-a) a használati jogosultság hatvan napot meg nem haladó időtartamra szól, vagy
+e) osztott használat esetén a kijelölt használókat megillető ingatlanrészek meghatározását.
 
-b) az ingatlan egyedi bruttó nyilvántartási értéke az ötmillió forintot nem haladja meg, vagy
-
-c) önálló ingatlanonként legfeljebb 25 m2-t meg nem haladó területrészre vonatkozik, vagy
-
-d) a jogügyletben várható, illetve meghatározott – egyszeri vagy időszakonként megállapított díj esetén az egy évre vonatkozó – ellenszolgáltatás értéke a bruttó egymillió forintot nem haladja meg, vagy
-
-e) a jogügylet külföldön lévő ingatlanra vonatkozik.
-
-(3)[^237] A (2) bekezdés a) pontjának alkalmazása esetén a megkötött szerződést meghosszabbítani, vagy ugyanazon szerződő féllel újabb használati jogosultságra vonatkozó szerződést kötni kizárólag az MNV Zrt. előzetes egyetértésével lehet.
-
-(4)[^238] A központi költségvetési szerv az MNV Zrt. (1) és (3) bekezdés szerinti előzetes egyetértése iránti kérelmét – amennyiben az előzetesen ismert – az ingatlan vagy ingatlanrész és a jogcím pontos megjelölésével, részletes indokolással az irányítást vagy felügyeletet gyakorló szerv vezetője útján, annak egyetértésével terjesztheti elő. Az MNV Zrt. harminc napon belül dönt a kérelemről, amely határidőbe az esetleges hiánypótlás időtartama nem számít bele.
-
-[^236]: Az 53. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^237]: Az 53. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^238]: Az 53. § (4) bekezdése a 77/2014. (III. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+(2) A Vtv. 28/A. § (2) bekezdése szerint kiállított kijelölő okirat alapján az állami elhelyezési célú ingatlanhasználati jogviszony határozatlan időre vagy a kijelölő okirat szerinti határozott időtartamra jön létre.
