@@ -20,4 +20,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: e határozat közzétételét követő 30 napon belül
 
-5. a Semmelweis Tervben meghatározott egészségügyi struktúra-átalakításhoz kapcsolódó, a Semmelweis Egyetem részére a Korányi projekt megvalósítása érdekében a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet által átadandó forrásról szóló 1520/2011. (XII. 30.) Korm. határozatot visszavonja.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
