@@ -1,5 +1,3 @@
-## 1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet) 5. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## (A hitelfelvevő által igénybe vehető hallgatói hitel legmagasabb összegei hitelcélok szerint:)
-
-## „a) szabad felhasználású hitel esetében tanulmányi hónaponként 150 000 forint,”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
