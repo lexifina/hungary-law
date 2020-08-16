@@ -1,1 +1,0 @@
-## 6. § A KEF rendelet 3. § (1) bekezdés a) és d) pontjában és (3) bekezdés nyitó szövegrészében, továbbá 4. § (1) bekezdésében az „az 1. mellékletben” szövegrész helyébe az „az 1. melléklet II. és III. pontjában” szöveg lép.

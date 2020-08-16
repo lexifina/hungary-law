@@ -1,1 +1,0 @@
-## „l) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat, az alapító okirat, az irányító szerv vezetője, az 1. § (2) bekezdése alapján irányítási jogokat gyakoroló Miniszterelnöki Kormányiroda közigazgatási államtitkára vagy az 1. § (3) bekezdésében meghatározott megállapodás, valamint a c) pont szerint megkötött megállapodás a hatáskörébe utal,”
