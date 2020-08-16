@@ -1,3 +1,3 @@
-## 15. § Az élelmiszerlánc felügyeletével összefüggő bírságok kiszámításának módjáról és mértékéről szóló 194/2008. (VII. 31.) Korm. rendelet [a továbbiakban: 194/2008. (VII. 31.) Korm. rendelet] a következő 3/A. §-sal egészül ki:
+## 15. §[^3]
 
-## „3/A. § A környezetben tartósan megmaradó, növényvédő szer hatóanyagú szerves szennyező anyagok forgalomba hozatalára vagy felhasználására vonatkozó, az (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 3. cikk (1) és (2) bekezdésében megjelölt kötelezettség elmulasztása vagy megsértése esetén a növényvédelmi bírság összegét az 1. számú melléklet B) táblázatában foglaltak szerint kell megállapítani.”
+[^3]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

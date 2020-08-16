@@ -1,10 +1,4 @@
-## 20. § A hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 309/2014. (XII. 11.) Korm. rendelet 18. § (2) bekezdése a következő d) ponttal egészül ki:
-
-## (Ez a rendelet)
-
-## „d) a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 2019. június 20-i (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 7. cikk (6) bekezdésének”
-
-## (végrehajtásához szükséges rendelkezéseket állapít meg.)
+## 20. §[^8]
 
 1. melléklet a 376/2020. (VII. 30.) Korm. rendelethez
 
@@ -81,3 +75,5 @@
 3.13. Toxafén,
 
 3.14. Pentaklór-fenol, valamint annak sói és észterei.
+
+[^8]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

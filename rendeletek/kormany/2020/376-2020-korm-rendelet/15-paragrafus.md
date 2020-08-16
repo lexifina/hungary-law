@@ -1,3 +1,3 @@
-## 14. § A 271/2001. (XII. 21.) Korm. rendelet a következő 7. §-sal egészül ki:
+## 14. §[^2]
 
-## „7. § Ez a rendelet az (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 3. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
