@@ -1,4 +1,4 @@
-5. § (1)[^10] Külföldről érkező nem magyar állampolgár személyforgalomban sárga jelzéssel besorolt ország területéről vagy közigazgatási területről történő belépés során – törvényben vagy kormányrendeletben meghatározott kivétellel – egészségügyi vizsgálaton esik át, amelynek tűrésére köteles.
+5. § (1)[^12] Külföldről érkező nem magyar állampolgár személyforgalomban sárga jelzéssel besorolt ország területéről vagy közigazgatási területről történő belépés során – törvényben vagy kormányrendeletben meghatározott kivétellel – egészségügyi vizsgálaton esik át, amelynek tűrésére köteles.
 
 (2) Ha az (1) bekezdés szerinti személy esetében az egészségügyi vizsgálat a fertőzés gyanúját állapítja meg, Magyarország területére nem léptethető be.
 
@@ -14,4 +14,4 @@
 
 (8) A (6) bekezdés szerinti kérelmező köteles a második molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – lefolytatására, amelynek pozitív eredménye esetén az illetékes járványügyi hatóság ismételten hatósági házi karantént rendel el.
 
-[^10]: Az 5. § (1) bekezdése a 346/2020. (VII. 15.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdése a 346/2020. (VII. 15.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
