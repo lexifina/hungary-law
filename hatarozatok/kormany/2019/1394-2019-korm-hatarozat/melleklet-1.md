@@ -40,7 +40,7 @@
 
 ## Határidő: azonnal
 
-## 6. egyetért azzal, hogy a Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság számára a Cseh Tamás Archívummal összefüggő feladatai ellátásához központi költségvetési forrás kerüljön biztosításra;
+## 6.[^1]
 
 ## 7. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 216 686 000 forint egyszeri átcsoportosítását rendeli el a 6. pontban foglalt cél megvalósítása érdekében a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 50. Maccabi Játékok sportinfrastruktúra fejlesztése jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím javára, az 1. melléklet szerint.
 
@@ -131,3 +131,5 @@
 |  |  | egyéb: |  | azonnal |  | 765 645 000 |  |  | 765 645 000 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 6. pontot az 1540/2020. (VIII. 17.) Korm. határozat 10. pont b) alpontja visszavonta.
