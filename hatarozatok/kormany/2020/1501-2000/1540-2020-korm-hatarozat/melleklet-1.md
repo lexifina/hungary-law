@@ -40,10 +40,8 @@
 
 ## 9. egyetért a MANK tulajdonában lévő, a Balatonfüred 634/1 helyrajzi számú, természetben 8230 Balatonfüred, Petőfi Sándor utca 28. szám alatt található ingatlan tulajdonjogának a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő ingyenes átadásával;
 
-## 10. visszavonja
-
-## a) a Magyar Nemzeti Levéltár Cseh Tamás Archívumának a Magyar Alkotóművészeti Közhasznú Nonprofit Kft. részére történő átadásáról, és az azzal összefüggő intézkedésekről szóló 1839/2015. (XI. 24.) Korm. határozatot és
-
-## b) a Korm. határozat 6. pontját.
+## 10.[^1]
 
 1. melléklet az 1540/2020. (VIII. 17.) Korm. határozathoz
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
