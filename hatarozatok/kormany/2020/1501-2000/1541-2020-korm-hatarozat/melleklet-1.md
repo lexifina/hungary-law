@@ -14,8 +14,12 @@
 
 ## Határidő: a b) alpont szerinti átcsoportosítást követő 60 napon belül
 
-## 2. A Makovecz Imre-életmű gondozásának folytatásával összefüggő további intézkedésekről szóló 1815/2019. (XII. 30.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+## 2.[^1]
 
-## 3. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat 3. pontjában a „kiállítás támogatására: 2021. november 30.” szövegrész helyébe a „kiállítás támogatására: 2022. december 31.” szöveg, a „kiadvány megjelentetésére: 2021. november 30.” szövegrész helyébe a „kiadvány megjelentetésére: 2022. december 31.” szöveg lép.
+## 3.[^2]
 
-1. melléklet az 1541/2020. (VIII. 17.) Korm. határozathoz
+1. melléklet az 1541/2020. (VIII. 17.) Korm. határozathoz[^3]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
