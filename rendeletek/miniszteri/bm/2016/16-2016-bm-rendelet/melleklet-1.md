@@ -1,4 +1,4 @@
-1. melléklet a 16/2016. (V. 12.) BM rendelethez[^23]
+1. melléklet a 16/2016. (V. 12.) BM rendelethez[^26]
 
 ## A víziközmű üzemeltetéséért felelős vezetők szakmai képesítési előírásai
 
@@ -190,4 +190,4 @@ C3. GY – Gyakorlati idő
 
 Közüzemi ivóvízellátás-csatornázás üzemeltetési munkahelyeken az alapdiploma megszerzését követően eltöltött idő.
 
-[^23]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a, a 42/2017. (XII. 29.) BM rendelet 19. § a) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a, a 42/2017. (XII. 29.) BM rendelet 19. § a) pontja szerint módosított szöveg.

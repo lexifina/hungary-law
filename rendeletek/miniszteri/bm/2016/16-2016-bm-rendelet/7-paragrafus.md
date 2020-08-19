@@ -10,7 +10,7 @@ c) a (9) bekezdés szerinti gyakorisággal ellenőrző vizsgálatot, valamint
 
 d) a (10) bekezdés szerinti gyakorisággal sűrítő bakteriológiai vizsgálatot végezni,
 
-## és a vizsgálati eredményeket – a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben foglaltak figyelembevételével –, valamint az adatokat a tárgyévet követő év március 31-ig az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerint az illetékes vízügyi igazgatási szervhez eljuttatni.
+## és a vizsgálati eredményeket – a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendeletben foglaltak figyelembevételével –, valamint az adatokat a tárgyévet követő év március 31-ig az illetékes vízügyi igazgatási szervhez eljuttatni.
 
 (3)[^11] Az illetékes vízügyi igazgatási szerv a (2) bekezdés szerinti vizsgálati eredményeket a tárgyévet követő év április 30-ig továbbítja a területi vízügyi hatóságnak.
 
@@ -58,7 +58,7 @@ d) 100 m3/nap összkapacitást el nem érő ivóvízművek esetén a hálózati 
 
 (11)[^16] Az ellenőrző és sűrítő bakteriológiai vizsgálatok során a vizsgálatot soron kívül meg kell ismételni, ha az eredmények eltérnek a korábbi vizsgálatok alapján várható értékektől. Az eltérés okát vizsgálni kell.
 
-[^10]: A 7. § (2) bekezdése az 5/2017. (V. 5.) BM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 7. § (2) bekezdése az 5/2017. (V. 5.) BM rendelet 2. §-ával megállapított, záró szövegrésze a 31/2020. (VIII. 4.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^11]: A 7. § (3) bekezdése az 5/2017. (V. 5.) BM rendelet 2. §-ával megállapított szöveg.
 [^12]: A 7. § (4) bekezdését az 5/2017. (V. 5.) BM rendelet 5. § a) pontja hatályon kívül helyezte.
 [^13]: A 7. § (5) bekezdése a 42/2017. (XII. 29.) BM rendelet 18. § d) pontja szerint módosított szöveg.

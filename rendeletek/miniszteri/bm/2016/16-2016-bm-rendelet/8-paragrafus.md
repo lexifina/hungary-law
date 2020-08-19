@@ -24,8 +24,9 @@ d) amennyiben a mért TPH (összes alifás szénhidrogén) paraméter kontroll v
 
 (6) A 7. § (2) bekezdése szerint elvégzett vizsgálatok dokumentálása mellett az adatszolgáltatás az eredeti laboratóriumi vizsgálati eredményeknek a területi vízügyi igazgatási szerv által biztosított elektronikus adattáblák kitöltésével, elektronikus laboratóriumi vizsgálati lap, vagy a papíron rendelkezésre álló eredeti laboratóriumi vizsgálati lap digitalizált másolatának csatolásával és a területi vízügyi igazgatási szerv számára határidőben történő megküldésével történik. Az adatszolgáltató közcélú ivóvízmű üzemeltető felelős a szolgáltatott adatok valódiságáért. A területi vízügyi igazgatási szerv, illetve az illetékes vízügyi hatóság az adatellenőrzéskor az eredeti iratok helyszíni szemle során történő bemutatását előírja.
 
-(7) A felszín alatti vizet termelő ivóvízmű üzemeltetője köteles a kitermelt víz mennyiségét, kutankénti üzemi vízhozamát és üzemi víz(nyomás)szintjét, nyugalmi víz(nyomás)szintjét és a termelt víz hőmérsékletét legalább havi gyakorisággal mérni, és az adatokat a tárgyévet követő év március 31-ig az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást a területi vízügyi igazgatási szervhez eljuttatni.
+(7)[^18] A felszín alatti vizet termelő ivóvízmű üzemeltetője köteles a kitermelt víz mennyiségét, kutankénti üzemi vízhozamát és üzemi víz(nyomás)szintjét, nyugalmi víz(nyomás)szintjét és a termelt víz hőmérsékletét legalább havi gyakorisággal mérni, és az adatokat a tárgyévet követő év március 31-ig a területi vízügyi igazgatási szervhez eljuttatni.
 
 (8) A figyelőkút, valamint az ideiglenesen üzemen kívül helyezett és üzemen kívüli vízkivételi mű esetében az illetékes vízügyi hatóság által előírt gyakorisággal, de legalább évente egy alkalommal a nyugalmi víz(nyomás) szintmérést is el kell végezni.
 
 [^17]: A 8. § (1) bekezdés nyitó szövegrésze a 42/2017. (XII. 29.) BM rendelet 18. § h) pontja szerint módosított szöveg.
+[^18]: A 8. § (7) bekezdése a 31/2020. (VIII. 4.) BM rendelet 2. § b) pontja szerint módosított szöveg.
