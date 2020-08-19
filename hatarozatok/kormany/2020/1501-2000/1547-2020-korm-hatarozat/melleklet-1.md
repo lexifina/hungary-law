@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:449 mezőjében a „0,15” szövegrész helyébe a „0,26” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1547/2020. (VIII. 17.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.2.0-15- 2016-00003 | A területi jelenlét és természetvédelmi őrzés hatékonyságának javítása a Balaton-felvidéki Nemzeti Park Igazgatóság természetvédelmi őrszolgálatának komplex fejlesztésével | Balaton-felvidéki Nemzeti Park Igazgatóság | 147 000 000 | 107 433 818 | 254 433 818 | A projekt átfogó célja a tájegységi őrszolgálati irodahálózat felújítása, az informatikai és térinformatikai feladat ellátási képességének javítása, az őrszolgálati alapfeladat-ellátás hatékonyságának növelése, az őrszolgálat területi jelenlétének és a természetvédelmi őrzés hatékonyságának növelése, valamint a természeti állapotfelmérés (adatgyűjtés) és nyomon követés (monitorozás) hatékonyságának növelése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
