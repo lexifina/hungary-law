@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-74-20-0
 | 2017-05-20 | 2014-74-20-0A.3 | 5/2017. (V. 5.) BM rendelet |
 | 2018-01-01 | 2014-74-20-0A.4 | 5/2017. (V. 5.) BM rendelet |
 | 2019-01-01 | 2014-74-20-0A.5 | 36/2018. (XII. 21.) BM rendelet |
+| 2020-08-19 | 2014-74-20-0A.6 | 5/2017. (V. 5.) BM rendelet |
