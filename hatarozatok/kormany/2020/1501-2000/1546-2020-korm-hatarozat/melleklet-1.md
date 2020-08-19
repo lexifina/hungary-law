@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:199 mezőjében a „0,16 ” szövegrész helyébe a „0,24” szöveg,
-
-## b) E:199 mezőjében a „0,03” szövegrész helyébe a „0,04” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1546/2020. (VIII. 17.) Korm. határozathoz
 
@@ -37,3 +31,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az Európai Unió (a továbbiakban: EU) felé el nem számolható általános forgalmi adó (a továbbiakban: ÁFA) összege (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) |
 
 | 4. | KEHOP- 2.1.3-15- 2017- 00081 | Nagykapornak vízbázisról ellátott települések ivóvízminőség-javítása és vízellátásának fejlesztése | Nagykapornak Község Önkormányzata, Bezeréd Község Önkormányzata, Misefa Község Önkormányzata, Nemesrádó Község Önkormányzata, Padár Község Önkormányzata és Orbányosfa Község Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 86,956522 | 160 000 000 | 24 000 000 | 28 894 435 | +0,093478 | +70 457 267 | +10 283 993 | +11 025 578 | 87,050000 | 230 457 267 | 34 283 993 | 39 920 013 | 304 661 273 | A projekt célja, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK irányelv és az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
