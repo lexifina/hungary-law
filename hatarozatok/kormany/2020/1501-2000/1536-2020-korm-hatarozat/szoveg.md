@@ -30,4 +30,6 @@ közötti nemzetközi vízgazdálkodási tárgyú határvízi egyezmények alapj
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9. Hatályát veszti az egyes kétoldalú határvízi egyezmények alapján működő közös bizottságok tagjainak kijelöléséről szóló 2174/2007. (IX. 27.) Korm. határozat.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
