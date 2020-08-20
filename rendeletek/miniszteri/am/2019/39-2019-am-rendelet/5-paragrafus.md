@@ -8,7 +8,7 @@ b) 2020. május 1-jétől május 15-éig,
 
 c) 2020. október 1-jétől október 15-éig
 
-## a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon postai úton nyújtható be a Kincstárhoz.
+a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon postai úton nyújtható be a Kincstárhoz.
 
 (2) A kérelmező az (1) bekezdés a)–c) pontja szerinti benyújtási időszakonként egy támogatási kérelmet nyújthat be.
 

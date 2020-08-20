@@ -13,3 +13,5 @@ a) 5. § (1) bekezdés a) pontjában meghatározott időszakban történő beny�
 b) 5. § (1) bekezdés b) pontjában meghatározott időszakban történő benyújtása esetén a 2019. október 16. és 2020. április 30.,
 
 c) 5. § (1) bekezdés c) pontjában meghatározott időszakban történő benyújtása esetén a 2020. május 1. és 2020. október 15.
+
+közötti időszak.
