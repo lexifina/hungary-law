@@ -1,6 +1,6 @@
 ## 4. A támogatási kérelem
 
-4. § (1) A támogatási kérelem 2020. június 29. és július 12. között elektronikus úton, ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Magyar Államkincstárhoz (a továbbiakban: Kincstár).
+4. § (1)[^2] A támogatási kérelem 2020. június 29. és július 12. között, valamint 2020. augusztus 31. és szeptember 14. között elektronikus úton, ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Magyar Államkincstárhoz (a továbbiakban: Kincstár).
 
 (2) Egy kérelmező kizárólag egy támogatási kérelmet nyújthat be.
 
@@ -15,3 +15,5 @@ b) a 3. § (1) bekezdés c) pontja szerinti nyilatkozatait.
 (5) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
 (6) A támogatási kérelem a benyújtását követő naptól két napon belül, de legkésőbb az (1) bekezdésben meghatározott határidő végéig, az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó támogatási kérelmet kell elbírálni. A támogatási kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
+
+[^2]: A 4. § (1) bekezdése a 41/2020. (VIII. 19.) AM rendelet 41. §-a szerint módosított szöveg.
