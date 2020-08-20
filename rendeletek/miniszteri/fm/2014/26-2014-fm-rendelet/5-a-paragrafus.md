@@ -1,4 +1,4 @@
-5/A. §[^22] (1)[^23] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) pontjában meghatározott ágazati korlátra vonatkozó rendelkezést, valamint a 3. cikk (5)–(6) bekezdésében és a II. mellékletében foglaltakat.
+5/A. §[^27] (1)[^28] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) pontjában meghatározott ágazati korlátra vonatkozó rendelkezést, valamint a 3. cikk (5)–(6) bekezdésében és a II. mellékletében foglaltakat.
 
 (2) A támogatáshoz kapcsolódó iratokat az odaítélést követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni. A támogatásról az Európai Bizottság kérésére húsz munkanapon belül információt kell szolgáltatni.
 
@@ -8,5 +8,5 @@
 
 (5) A támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
 
-[^22]: Az 5/A. §-t a 69/2015. (XI. 2.) FM rendelet 15. § (2) bekezdése iktatta be.
-[^23]: Az 5/A. § (1) bekezdése a 14/2019. (IV. 10.) AM rendelet 28. §-ával megállapított szöveg.
+[^27]: Az 5/A. §-t a 69/2015. (XI. 2.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^28]: Az 5/A. § (1) bekezdése a 14/2019. (IV. 10.) AM rendelet 28. §-ával megállapított szöveg.
