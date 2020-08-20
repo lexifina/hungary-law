@@ -1,0 +1,3 @@
+## 4. § A 26/2014. (XI. 20.) FM rendelet 2. § (2) bekezdés a) pontjában a „mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény” szövegrész helyébe a „mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény)” szöveg lép.
+
+## 3. A fűszerpaprika-termelők mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 37/2014. (IV. 4.) VM rendelet módosítása

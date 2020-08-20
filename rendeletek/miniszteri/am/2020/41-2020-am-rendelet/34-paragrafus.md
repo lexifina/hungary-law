@@ -1,0 +1,3 @@
+## 33. § A 41/2019. (VIII. 30.) AM rendelet 4. § (1) bekezdés a) pontjában a „mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény” szövegrész helyébe a „mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény)” szöveg lép.
+
+## 14. A koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet módosítása

@@ -1,0 +1,3 @@
+## 31. § A tenyészbika tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 41/2019. (VIII. 30.) AM rendelet [a továbbiakban: 41/2019. (VIII. 30.) AM rendelet] 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A támogatási kérelem tárgyév szeptember 1. és szeptember 20. között, ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Magyar Államkincstárhoz (a továbbiakban: Kincstár) a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.”
