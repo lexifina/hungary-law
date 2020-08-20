@@ -1,4 +1,4 @@
-3. § (1) A 2. § (3) bekezdés a) pontja szerinti átmeneti támogatás összege, a 2. § (3) bekezdés b) pontja szerinti átmeneti támogatás esetén a teljes hitelösszeg, a 2. § (3) bekezdés c) pontja szerinti átmeneti támogatás esetén a garantált hitelösszeg a közlemény 3.1. pontja alapján nyújtott egyéb támogatásokkal együtt – a kérelmező kapcsolt vállalkozásait is figyelembe véve – vállalkozásonként nem haladhatja meg
+3. § (1)[^8] A 2. § (3) bekezdése szerinti átmeneti támogatás összege a közlemény 3.1. pontja alapján nyújtott egyéb támogatásokkal együtt – a kérelmező kapcsolt vállalkozásait is figyelembe véve – vállalkozásonként nem haladhatja meg
 
 a) a 2. § (1) bekezdés a) pontja szerinti esetben a 100 000 eurónak,
 
@@ -15,3 +15,5 @@ c) a 2. § (1) bekezdés e) pontja szerinti esetben a 120 000 eurónak
 (4) A kérelmező, valamint a vele kapcsolt vállalkozásnak minősülő vállalkozások által korábban már igénybe vett, az e rendelet hatálya alá nem tartozó, a közlemény 3.1. pontja szerinti egyéb átmeneti támogatások támogatástartalmáról, valamint a 2. § (1) bekezdése szerinti tevékenység kategóriájáról és a kapcsolt vállalkozások adatairól (név, adószám, adóazonosító jel, ügyfél-azonosító) az átmeneti támogatás igénylése céljából rendszeresített nyomtatványon nyilatkozik.
 
 (5) A támogatás a kérelmező szabad – (1) bekezdés szerinti – átmeneti támogatási kerete terhére korábban már odaítélt támogatások figyelembevételével kerül meghatározásra.
+
+[^8]: A 3. § (1) bekezdése a 41/2020. (VIII. 19.) AM rendelet 36. §-ával megállapított szöveg.

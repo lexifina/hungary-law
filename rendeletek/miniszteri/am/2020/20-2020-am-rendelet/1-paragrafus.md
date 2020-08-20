@@ -22,7 +22,7 @@ g) erdőgazdálkodás: az erdőről, az erdő védelméről és az erdőgazdálk
 
 h) halgazdálkodás: a 717/2014/EU bizottsági rendelet 2. cikk 1. bekezdés a) pontja szerinti tevékenység;
 
-i) kapcsolt vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. melléklet 3. cikk (3) bekezdése szerinti vállalkozás;
+i)[^1] kapcsolt vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) I. melléklet 3. cikk (3) bekezdése szerinti vállalkozás;
 
 j) mezőgazdasági termék: az Atr. 2. § 10c. pontja szerinti termék;
 
@@ -34,4 +34,15 @@ m) nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) bekezdése szerint
 
 n) vadgazdálkodás: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 40. §-a szerinti tevékenység;
 
-o) vállalkozás: agrárvállalkozás vagy élelmiszer-feldolgozást végző vállalkozás.
+o) vállalkozás: agrárvállalkozás vagy élelmiszer-feldolgozást végző vállalkozás;
+
+p)[^2] fizetésképtelenségi eljárás: a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti eljárás;
+
+q)[^3] kisvállalkozás: a 702/2014/EU bizottsági rendelet I. melléklet 2. cikk (2) bekezdése szerinti vállalkozás;
+
+r)[^4] mikrovállalkozás: a 702/2014/EU bizottsági rendelet I. melléklet 2. cikk (3) bekezdése szerinti vállalkozás.
+
+[^1]: Az 1. § i) pontja a 41/2020. (VIII. 19.) AM rendelet 38. §-a szerint módosított szöveg.
+[^2]: Az 1. § p) pontját a 41/2020. (VIII. 19.) AM rendelet 34. §-a iktatta be.
+[^3]: Az 1. § q) pontját a 41/2020. (VIII. 19.) AM rendelet 34. §-a iktatta be.
+[^4]: Az 1. § r) pontját a 41/2020. (VIII. 19.) AM rendelet 34. §-a iktatta be.
