@@ -28,11 +28,13 @@ c) a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtás
 
 (6) A mezőgazdasági csekély összegű támogatások tekintetében a forintban meghatározott összegek euróra történő átszámításánál a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedes jegy pontossággal meghatározott devizaárfolyam alkalmazandó.
 
-(7) E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan legfeljebb 2 milliárd forint összegig állapítható meg.
+(7)[^3] E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan, valamint a 2020. támogatási év I–III. negyedévére megállapított átmeneti támogatás összege tekintetében legfeljebb 2 milliárd forint összegig állapítható meg.
 
-(8) Ha a benyújtott mezőgazdasági csekély összegű támogatás iránti kérelmekben foglalt összes jogos igény meghaladja a (7) bekezdés szerinti keretösszeget, akkor az igénylő részére megállapítható legmagasabb támogatási összeg a túllépés mértékével arányosan csökken.
+(8)[^4] Ha a benyújtott mezőgazdasági csekély összegű támogatás vagy a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatás (a továbbiakban: átmeneti támogatás) iránti kérelmekben foglalt összes jogos igény meghaladja a (7) bekezdés szerinti keretösszeget, akkor az igénylő részére megállapítható legmagasabb támogatási összeg a túllépés mértékével arányosan csökken.
 
 (9) A Kincstár a forrás rendelkezésre állását követően intézkedik a támogatás folyósításáról.
 
 [^1]: A 14. § (1a) bekezdését a 11/2019. (IV. 1.) AM rendelet 16. § (1) bekezdése iktatta be.
 [^2]: A 14. § (5a) bekezdését a 11/2019. (IV. 1.) AM rendelet 16. § (2) bekezdése iktatta be.
+[^3]: A 14. § (7) bekezdése a 41/2020. (VIII. 19.) AM rendelet 17. §-ával megállapított szöveg.
+[^4]: A 14. § (8) bekezdése a 41/2020. (VIII. 19.) AM rendelet 17. §-ával megállapított szöveg.
