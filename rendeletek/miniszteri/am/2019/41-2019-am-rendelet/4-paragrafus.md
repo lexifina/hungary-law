@@ -2,7 +2,7 @@
 
 4. § (1) Támogatás igénybevételére az az állattartó (a továbbiakban: kérelmező) jogosult, aki vagy amely
 
-a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
+a)[^5] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
 
 b) a támogatási kérelem benyújtásának időpontjában
 
@@ -27,3 +27,5 @@ e) rendelkezik a 119/2007. (X. 18.) FVM rendelet szerint bejelentett szarvasmarh
 (4) Ha a kérelmező bejelentett tenyészetében lévő (3) bekezdés szerinti tehenek egyedszáma nem éri el a harmincat, de legalább egy tehén megfelel a (3) bekezdésben előírtaknak, akkor egy apaállat tenyésztésbe állításához igényelhető támogatás.
 
 (5) Egy kérelmező egy támogatási időszakban egy támogatási kérelmet nyújthat be.
+
+[^5]: A 4. § (1) bekezdés a) pontja a 41/2020. (VIII. 19.) AM rendelet 33. § pontja szerint módosított szöveg.

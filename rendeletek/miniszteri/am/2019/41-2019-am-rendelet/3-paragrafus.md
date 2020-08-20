@@ -1,3 +1,5 @@
+## azzal, hogy a támogatás nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretet.
+
 ## 3. A támogatás forrása, keretösszege
 
 3. § (1)[^3]

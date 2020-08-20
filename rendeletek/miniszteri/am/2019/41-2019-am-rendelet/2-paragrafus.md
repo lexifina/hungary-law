@@ -11,5 +11,3 @@ b) hústípusú magyartarka tenyészbika esetén 650 ezer forint,
 c) magyar szürke tenyészbika esetén 400 ezer forint,
 
 d) bivaly tenyészbika esetén 300 ezer forint
-
-azzal, hogy a támogatás nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretet.
