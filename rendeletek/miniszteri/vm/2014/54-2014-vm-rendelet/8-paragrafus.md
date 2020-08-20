@@ -1,3 +1,3 @@
-## 7/A. §[^24] E rendeletnek az egyes mezőgazdasági csekély összegű támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 14/2019. (IV. 10.) AM rendelettel megállapított 2. § (4) bekezdését a 2019. március 14-től nyújtott támogatásokra kell alkalmazni.
+## 7/B. §[^26] E rendeletnek az egyes agrár-, valamint mezőgazdasági csekély összegű támogatást tartalmazó miniszteri rendeletek módosításáról szóló 41/2020. (VIII. 19.) AM rendelettel megállapított 6/A. §-át a 2020. július 1. és 31. között benyújtott támogatási kérelmeket elbíráló támogatási döntések esetében kell alkalmazni.
 
-[^24]: A 7/A. §-t a 14/2019. (IV. 10.) AM rendelet 25. §-a iktatta be.
+[^26]: A 7/B. §-t a 41/2020. (VIII. 19.) AM rendelet 8. §-a iktatta be.
