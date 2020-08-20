@@ -12,6 +12,6 @@
 
 (6) Ha a termelői szervezet a 26. § (4) bekezdésében meghatározott jelentését nem vagy nem a jogszabályokban foglaltaknak megfelelően küldi meg, részére támogatás addig nem fizethető ki, amíg a tartalmi és formai követelményeknek megfelelő jelentés megküldésre nem kerül.
 
-(7)[^88] A 891/2017/EU bizottsági rendelet 31. cikk (5) bekezdésében foglalt kötelezettségeknek való megfelelést a Kincstár – a számvitelről szóló 2000. évi C. törvényben foglalt, a tárgyi eszközök nyilvántartására és azonosítására vonatkozó szabályokra figyelemmel – ellenőrzi.
+(7)[^89] A 891/2017/EU bizottsági rendelet 31. cikk (5) bekezdésében foglalt kötelezettségeknek való megfelelést a Kincstár – a számvitelről szóló 2000. évi C. törvényben foglalt, a tárgyi eszközök nyilvántartására és azonosítására vonatkozó szabályokra figyelemmel – ellenőrzi.
 
-[^88]: A 28. § (7) bekezdését a 22/2020. (VI. 19.) AM rendelet 18. § (2) bekezdése iktatta be.
+[^89]: A 28. § (7) bekezdését a 22/2020. (VI. 19.) AM rendelet 18. § (2) bekezdése iktatta be.

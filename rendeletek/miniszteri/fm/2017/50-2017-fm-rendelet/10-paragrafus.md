@@ -12,11 +12,12 @@ b) az operatív program elfogadására irányuló kérelem hiányában legkéső
 
 a) a 891/2017/EU bizottsági rendelet 23. cikke szerinti referencia időszakban forgalmazott termék értékének a bejelentést megelőző időszak vonatkozásában a főkönyvi kivonat alapján a könyvvizsgáló által hitelesített tényadatokat, valamint adott esetben a hátralévő időszakra vonatkozó becsült értéket és a becslésnél figyelembe vett szempontok bemutatását, valamint
 
-b) a termelői szervezet tulajdonában álló fuvareszközzel történő szállítás esetén a termékértékesítés során felmerült, főkönyvi kivonat alapján igazolt és a szállítóeszköz amortizációját is magában foglaló szállítási költséget.
+b)[^27] a termelői szervezet tulajdonában álló fuvareszközzel történő szállítás esetén a termékértékesítés során felmerült, főkönyvi kivonat és analitikus kimutatás alapján igazolt és a szállítóeszköz amortizációját is magában foglaló szállítási költséget.
 
-(4)[^27]
+(4)[^28]
 
 [^24]: A 10. § (1) bekezdése a 30/2019. (VI. 25.) AM rendelet 4. §-ával megállapított szöveg.
 [^25]: A 10. § (2) bekezdése a 30/2019. (VI. 25.) AM rendelet 4. §-ával megállapított szöveg.
 [^26]: A 10. § (3) bekezdése a 22/2020. (VI. 19.) AM rendelet 7. §-ával megállapított szöveg.
-[^27]: A 10. § (4) bekezdését a 30/2019. (VI. 25.) AM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^27]: A 10. § (3) bekezdés b) pontja a 41/2020. (VIII. 19.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^28]: A 10. § (4) bekezdését a 30/2019. (VI. 25.) AM rendelet 14. § a) pontja hatályon kívül helyezte.
