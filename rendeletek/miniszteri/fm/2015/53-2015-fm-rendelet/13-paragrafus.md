@@ -10,7 +10,7 @@
 
 (3) A 2016. évtől kezdődően, amennyiben a dohánytermelő a jogosult területen az őt megillető támogatási jogosultságok darabszámának megfelelő hektárszámnál kisebb terület alapján vett igénybe egységes területalapú támogatást, azt úgy kell tekinteni, hogy a dohánytermelő a tárgyév január 1-jével az érintett rész vonatkozásában a jogszabály erejénél fogva véglegesen és visszavonhatatlanul kilépett a szerkezetátalakítási programból.
 
-(4)[^33] Az (1) bekezdésben foglalt termelési feltétel teljesítését az elsődleges feldolgozó által kiállított, legalább a szerződésben vállalt mennyiségű és fajtájú, megtermelt dohánylevélből előállított szárított dohány átvételét igazoló szigorú számadású bizonylat és a szerződés másolatának a Kincstárhoz történő benyújtásával kell igazolni.
+(4)[^33] Az (1) bekezdésben foglalt termelési feltétel teljesítését az elsődleges feldolgozó által kiállított, legalább a szerződésben vállalt mennyiségű és fajtájú, megtermelt dohánylevélből előállított szárított dohány átvételét igazoló szigorú számadású bizonylat és a szerződés másolatának a Kincstárhoz postai úton történő benyújtásával kell igazolni.
 
 (5)[^34] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti év során Magyarországon odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) pontjában meghatározott ágazati korlátra vonatkozó rendelkezést, illetve a II. mellékletében foglalt felső határt.
 
@@ -26,7 +26,7 @@
 [^30]: A 13. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 4. §-ával megállapított szöveg.
 [^31]: A 13. § (1a) bekezdését a 26/2019. (VI. 7.) AM rendelet 4. §-a iktatta be, szövege a 10/2020. (IV. 3.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^32]: A 13. § (1b) bekezdését a 26/2019. (VI. 7.) AM rendelet 4. §-a iktatta be, szövege a 10/2020. (IV. 3.) AM rendelet 19. § c) pontja szerint módosított szöveg.
-[^33]: A 13. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § g) pontja, a 43/2017. (IX. 5.) FM rendelet 13. § c) pontja szerint módosított szöveg.
+[^33]: A 13. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § g) pontja, a 43/2017. (IX. 5.) FM rendelet 13. § c) pontja, a 41/2020. (VIII. 19.) AM rendelet 11. § b) pontja szerint módosított szöveg.
 [^34]: A 13. § (5) bekezdése a 14/2019. (IV. 10.) AM rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^35]: A 13. § (5a) bekezdését a 14/2019. (IV. 10.) AM rendelet 35. § (2) bekezdése iktatta be.
 [^36]: A 13. § (5b) bekezdését a 14/2019. (IV. 10.) AM rendelet 35. § (2) bekezdése iktatta be.

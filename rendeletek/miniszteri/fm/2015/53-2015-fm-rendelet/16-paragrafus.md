@@ -1,6 +1,6 @@
 16. § (1) A támogatási jogosultság részben vagy egészben kizárólag a jogosult településen gazdálkodó, a mezőgazdasági termelők részére nyújtandó közvetlen támogatás igénybevételére vonatkozó szabályokról szóló 8/2015. (III. 13.) FM rendelet 1. § 6. pontja szerinti mezőgazdasági termelőre, megegyező számú támogatási jogosultság – a történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendeletben foglaltak szerinti – átruházásával együtt ruházható át.
 
-(2)[^47] A támogatási jogosultság átruházása esetén a nyilvántartásban történő átvezetés iránti kérelmet a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon kell benyújtani a Kincstárhoz, amelyhez csatolni kell az átruházás tényét igazoló közokiratot vagy teljes bizonyító erejű magánokiratot.
+(2)[^47] A támogatási jogosultság átruházása esetén a nyilvántartásban történő átvezetés iránti kérelmet a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon postai úton kell benyújtani a Kincstárhoz, amelyhez csatolni kell az átruházás tényét igazoló közokiratot vagy teljes bizonyító erejű magánokiratot.
 
 (3)[^48] A támogatási jogosultság tárgyév január 1-jei határidővel hatályos átruházása alapján az átvezetés iránti kérelmet – a (4) bekezdésben foglalt eset kivételével – a 2016. évtől kezdődően április 1. és április 30. közötti időszakban lehet benyújtani a Kincstárhoz.
 
@@ -8,7 +8,7 @@
 
 (5) A támogatási jogosultság átruházása esetén az átvevő általi teljesítés megállapításánál figyelembe kell venni az átadó által az átruházás benyújtási időpontjáig teljesített és igazolt árbevételre, valamint foglalkoztatásra vonatkozó szerkezetátalakítási programban előírt feltéteket.
 
-(6)[^49] Öröklés és jogutódlás esetén az átvezetés iránti kérelmet az örökös vagy a jogutód a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon is benyújthatja a Kincstárhoz. Ha a hagyatékátadó végzésben haszonélvezeti jog kerül megállapításra, akkor az örökösnek és a haszonélvezeti jog jogosultjának közösen kell benyújtania az átvezetés iránti kérelmet.
+(6)[^49] Öröklés és jogutódlás esetén az átvezetés iránti kérelmet az örökös vagy a jogutód a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon is benyújthatja a Kincstárhoz, kizárólag postai úton. Ha a hagyatékátadó végzésben haszonélvezeti jog kerül megállapításra, akkor az örökösnek és a haszonélvezeti jog jogosultjának közösen kell benyújtania az átvezetés iránti kérelmet.
 
 (7) A (6) bekezdés szerinti átvezetés iránti kérelemhez mellékelni kell a jogutódlást alátámasztó jogerős döntés másolatát, amely rendelkezik a támogatási jogosultságról és kifizetetlen támogatási összeg esetén a támogatási jogosultság alapján járó támogatásról. Kiválásos jogutódlás esetén az átvezetés iránti kérelemhez csatolni kell a szétválási szerződést, amely rendelkezik a támogatási jogosultságról és kifizetetlen támogatási összeg esetén a támogatási jogosultság alapján járó támogatásról.
 
@@ -18,6 +18,6 @@
 
 (10) A (8) és (9) bekezdésben foglaltak alól kivételt képez, ha az átruházást követően öröklés, jogutódlás útján kerül a dohánytermelő tulajdonába a támogatási jogosultság.
 
-[^47]: A 16. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) és e) pontja szerint módosított szöveg.
+[^47]: A 16. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) és e) pontja, a 41/2020. (VIII. 19.) AM rendelet 11. § d) pontja szerint módosított szöveg.
 [^48]: A 16. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § e) pontja és 95. § b) pontja szerint módosított szöveg.
-[^49]: A 16. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) és e) pontja szerint módosított szöveg.
+[^49]: A 16. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) és e) pontja, a 41/2020. (VIII. 19.) AM rendelet 11. § e) pontja szerint módosított szöveg.
