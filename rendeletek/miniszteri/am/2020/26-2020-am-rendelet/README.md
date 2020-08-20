@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-26-20-7
 | --- | --- | --- |
 | 2020-06-25 | 2020-26-20-7R.1 | 26/2020. (VI. 22.) AM rendelet |
 | 2020-07-11 | 2020-26-20-7R.2 | 37/2020. (VII. 10.) AM rendelet |
+| 2020-08-20 | 2020-26-20-7R.3 | 41/2020. (VIII. 19.) AM rendelet |
