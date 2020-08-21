@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-306-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-18 | 2019-306-20-22.1 | 306/2019. (XII. 17.) Korm. rendelet |
+| 2020-08-21 | 2019-306-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
