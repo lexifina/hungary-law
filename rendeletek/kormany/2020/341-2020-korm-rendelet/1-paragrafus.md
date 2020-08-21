@@ -8,9 +8,9 @@ a) aki Magyarországon állandó tartózkodásra jogosult és családtagja, ha e
 
 b) aki rendelkezik az idegenrendészeti hatóság valamely jogcímen 90 napot meghaladó idejű tartózkodásra kiadott, érvényes Magyarország területén való tartózkodásra jogosító engedélyével, és az erről szóló okmányt belépéskor bemutatja,
 
-c)[^1] aki magyarországi sportszervezetnek a sportról szóló törvény szerinti versenyzője, illetve sportszakembere, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére,
+c)[^2] aki magyarországi sportszervezetnek a sportról szóló törvény szerinti versenyzője, illetve sportszakembere, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére,
 
-d)[^2] aki a külföldön megrendezésre kerülő nemzetközi sporteseményen magyarországi sportszervezet általi – névre szólóan kiadott – meghívással, illetve delegálással részt vevő személy, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére.
+d)[^3] aki a külföldön megrendezésre kerülő nemzetközi sporteseményen magyarországi sportszervezet általi – névre szólóan kiadott – meghívással, illetve delegálással részt vevő személy, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére.
 
 (3) E rendelet hatálya nem terjed ki
 
@@ -22,5 +22,5 @@ c) arra a személyre, aki a Magyarországra való belépés során hitelt érdem
 
 (4) E rendelet alkalmazásában hivatalos célú határátlépés a magánútlevéllel, valamint az egyéb úti okmánnyal végrehajtott hivatalos látogatás céljából történő határátlépés.
 
-[^1]: Az 1. § (2) bekezdés c) pontját a 400/2020. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. § (2) bekezdés d) pontját a 400/2020. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (2) bekezdés c) pontját a 400/2020. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdés d) pontját a 400/2020. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.

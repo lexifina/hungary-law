@@ -1,4 +1,4 @@
-## 16/A. § A magyar állampolgársággal nem rendelkező, sárga vagy a piros jelzéssel besorolt ország területéről vagy közigazgatási területről
+16/A. §[^19] (1) A magyar állampolgársággal nem rendelkező, sárga vagy a piros jelzéssel besorolt ország területéről vagy közigazgatási területről
 
 a) a Magyarország területén megrendezésre kerülő nemzetközi sportesemény résztvevője – ide nem értve a nézőt –,
 
@@ -12,4 +12,8 @@ cb) sportszakember, valamint
 
 cc) a sportrendezvény lebonyolításában közreműködő személy
 
-Magyarország területére akkor léphet be, ha a Magyarországra történő belépést megelőző 5 napon belül, legalább 48 órás időkülönbséggel, két alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – eredményét tartalmazó, magyar vagy angol nyelvű okirattal igazolja, hogy SARS-CoV-2 koronavírus a szervezetében a vizsgálat időpontjában nem volt kimutatható.
+## Magyarország területére – a (2) bekezdés szerinti kivétellel – akkor léphet be, ha a Magyarországra történő belépést megelőző 5 napon belül, legalább 48 órás időkülönbséggel, két alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – eredményét tartalmazó, magyar vagy angol nyelvű okirattal igazolja, hogy SARS-CoV-2 koronavírus a szervezetében a vizsgálat időpontjában nem volt kimutatható.
+
+(2) Az (1) bekezdés a)–c) pontja szerinti személy az (1) bekezdéstől eltérően akkor is beléphet Magyarország területére, ha – az Európai Labdarúgó Szövetség vonatkozó protokolljára is figyelemmel – a sporteseményt, illetve a sportrendezvényt megelőző 3 napon belül, egy alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – eredményét tartalmazó, magyar vagy angol nyelvű okirattal igazolja, hogy SARS-CoV-2 koronavírus a szervezetében a vizsgálat időpontjában nem volt kimutatható.
+
+[^19]: A 16/A. § a 406/2020. (VIII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

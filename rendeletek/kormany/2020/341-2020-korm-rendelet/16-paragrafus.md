@@ -1,4 +1,4 @@
-## 12. [^17] A versenyzőkre, a sportszakemberekre, illetve sporteseményeken részt vevőkre vonatkozó rendelkezések
+## 12. [^18] A versenyzőkre, a sportszakemberekre, illetve sporteseményeken részt vevőkre vonatkozó rendelkezések
 
 16. § (1) Ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően
 
@@ -18,4 +18,4 @@ Magyarország területére a sárga vagy a piros jelzéssel besorolt ország ter
 
 (6) Az (1) bekezdés a) és b) pontja szerinti személy esetében a 3. § (6) és (9) bekezdése szerinti két alkalommal elvégzett, az egészségügyi szakmai szabályoknak megfelelő, molekuláris biológiai vizsgálat – SARS-CoV-2 teszt – között 24 órának kell eltelnie.
 
-[^17]: A 12. alcím (16–16/A. §) a 400/2020. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 12. alcím (16–16/A. §) a 400/2020. (VIII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.

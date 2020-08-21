@@ -1,8 +1,8 @@
-## 6. §[^13] Külföldről érkező nem magyar állampolgár személyforgalomban Magyarország területére a piros jelzéssel besorolt ország területéről vagy közigazgatási területről nem léphet be.
+## 6. §[^14] Külföldről érkező nem magyar állampolgár személyforgalomban Magyarország területére a piros jelzéssel besorolt ország területéről vagy közigazgatási területről nem léphet be.
 
 ## 5. Különös méltánylást érdemlő esetek
 
-7. § (1)[^14] A 6. §-ban meghatározott rendelkezések alól a (2) bekezdésben meghatározott esetekben a Magyarország területére történő tervezett belépés helye szerint illetékes helyi rendőri szerv, a Budapest Liszt Ferenc nemzetközi repülőtéren történő határátlépés esetén a BRFK XVIII. kerületi Rendőrkapitányság (a továbbiakban: rendőri szerv) kérelemre felmentést adhat.
+7. § (1)[^15] A 6. §-ban meghatározott rendelkezések alól a (2) bekezdésben meghatározott esetekben a Magyarország területére történő tervezett belépés helye szerint illetékes helyi rendőri szerv, a Budapest Liszt Ferenc nemzetközi repülőtéren történő határátlépés esetén a BRFK XVIII. kerületi Rendőrkapitányság (a továbbiakban: rendőri szerv) kérelemre felmentést adhat.
 
 (2) A rendőri szerv az (1) bekezdés szerint – a (8) bekezdés szerinti kivétellel – engedélyezheti a beutazást, ha a kérelmező igazolja, hogy a belépés célja:
 
@@ -64,5 +64,5 @@ bc) nemzetbiztonsági
 
 (9) A rendőri szerv határozatával szemben benyújtott fellebbezést a rendőri szerv irányítását ellátó megyei (fővárosi) rendőr-főkapitányság bírálja el.
 
-[^13]: A 6. § a 346/2020. (VII. 15.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^14]: A 7. § (1) bekezdése a Magyar Közlöny 2020. évi 168. számában megjelent helyesbítésnek megfelelő szöveg.
+[^14]: A 6. § a 346/2020. (VII. 15.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^15]: A 7. § (1) bekezdése a Magyar Közlöny 2020. évi 168. számában megjelent helyesbítésnek megfelelő szöveg.
