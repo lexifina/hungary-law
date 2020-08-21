@@ -1,1 +1,3 @@
-## 38. § A 20/2020. (VI. 19.) AM rendelet 1. § i) pontjában a „702/2014/EU bizottsági rendelet” szövegrész helyébe a „702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet)” szöveg lép.
+## 38. §[^39]
+
+[^39]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

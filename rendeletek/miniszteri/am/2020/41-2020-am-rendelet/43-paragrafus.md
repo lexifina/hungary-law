@@ -1,3 +1,3 @@
-## 42. § A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból az egyes kertészeti tevékenységet végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének részletes szabályairól szóló 26/2020. (VI. 22.) AM rendelet [a továbbiakban: 26/2020. (VI. 22.) AM rendelet] 2. §-a a következő (3) bekezdéssel egészül ki:
+## 42. §[^43]
 
-## „(3) A 2020. augusztus 31. és szeptember 14. között benyújtott támogatási kérelmek szerinti jogos támogatási igények kifizetésére legfeljebb a (2) bekezdés szerinti keretösszegnek a 2020. június 29. és július 12. között benyújtott összes jogos támogatási igény alapján megállapított támogatási összeggel csökkentett része használható fel.”
+[^43]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

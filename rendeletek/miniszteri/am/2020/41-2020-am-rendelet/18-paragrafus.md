@@ -1,5 +1,3 @@
-## 17. § A sertés ágazat részére nyújtott állatjóléti támogatások feltételeiről szóló 39/2018. (XII. 13.) AM rendelet [a továbbiakban: 39/2018. (XII. 13.) AM rendelet] 14. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
+## 17. §[^18]
 
-## „(7) E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan, valamint a 2020. támogatási év I–III. negyedévére megállapított átmeneti támogatás összege tekintetében legfeljebb 2 milliárd forint összegig állapítható meg.
-
-## (8) Ha a benyújtott mezőgazdasági csekély összegű támogatás vagy a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatás (a továbbiakban: átmeneti támogatás) iránti kérelmekben foglalt összes jogos igény meghaladja a (7) bekezdés szerinti keretösszeget, akkor az igénylő részére megállapítható legmagasabb támogatási összeg a túllépés mértékével arányosan csökken.”
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

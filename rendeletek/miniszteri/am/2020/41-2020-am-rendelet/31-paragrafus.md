@@ -1,3 +1,5 @@
-## 30. § A 39/2019. (VIII. 23.) AM rendelet 4. § a) pontjában a „mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény” szövegrész helyébe a „mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény)” szöveg lép.
+## 30. §[^31]
 
 ## 13. A tenyészbika tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 41/2019. (VIII. 30.) AM rendelet módosítása
+
+[^31]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

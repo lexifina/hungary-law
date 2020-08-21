@@ -1,19 +1,3 @@
-## 15. § Az 50/2017. (X. 10.) FM rendelet a következő 33/E. §-sal egészül ki:
+## 15. §[^16]
 
-## „33/E. § (1) A 2020. január 1. és 2022. december 31. között megvalósított tevékenységek esetében a támogatást igénylő – a 14. § (2) bekezdésétől eltérően – mentesül a bérként, bérjellegű juttatásként a Magyar Képesítési Keretrendszer bevezetéséhez kapcsolódó feladatokról, valamint az Országos Képesítési Keretrendszer létrehozásáról és bevezetéséről szóló 1004/2011. (I. 14.) Korm. határozat módosításáról szóló 1229/2012. (VII. 6.) Korm. határozat [a továbbiakban: 1229/2012. (VII. 6.) Korm. határozat] Mellékletében megállapított negyedik szintnek megfelelő szakirányú képesítés feltételének teljesítési kötelezettsége alól, ha a támogatást igénylő igazolja, hogy a támogatással érintett alkalmazott olyan képzésben vesz részt, amely az 1229/2012. (VII. 6.) Korm. határozat Mellékletében megállapított, legalább negyedik szintnek megfelelő szakirányú képzettséget eredményez.
-
-## (2) A 2020. évben – a 16. § (1) bekezdés a) pontjától eltérően – a páros számú elismerési számmal rendelkező termelői szervezet a 17. § a)–c) pontjában foglalt intézkedések végrehajtása érdekében augusztus 31-éig kérelmezheti a miniszter által jóváhagyott operatív programnak és a működési alapnak az év közben történő módosítását.
-
-## (3) A 2020. évben megvalósított válságkezelés és -megelőzés érdekében alkalmazott promóciós és kommunikációs intézkedések tekintetében a 18. § (2) bekezdését nem kell alkalmazni.
-
-## (4) A 2020. évi működési alap támogatása a 27. § (4) bekezdésétől eltérően az 1308/2013/EU európai parlamenti és tanácsi rendelet 35. cikke szerinti nemzeti támogatás legfeljebb a termelői szervezet által a referenciaévben forgalmazott termék értéke 10%-ának megfelelő összeg lehet.
-
-## (5) A 2020. évi működési alap támogatásának megállapításakor a 27. § (5) bekezdésétől eltérően a támogatási arányok kiszámításakor nem kell figyelembe venni támogatás kifizetése feltételeként – az 1308/2013/EU európai parlamenti és tanácsi rendelet 34. cikk (1) és 35. cikk (1) bekezdésének megfelelően – az 1308/2013/EU európai parlamenti és tanácsi rendelet 32. cikk (1) bekezdés a) pontjában meghatározott ténylegesen befizetett pénzügyi hozzájárulás összegét. A 17. § a)–c) pontja szerinti intézkedésekre fizetendő 33/D. § (3) bekezdése szerinti támogatási összeg tekintetében a 11. § (10) és (11) bekezdésében foglalt feltételeket nem kell alkalmazni.”
-
-## 16. § Az 50/2017. (X. 10.) FM rendelet
-
-a) 10. § (3) bekezdés b) pontjában a „főkönyvi kivonat alapján” szövegrész helyébe a „főkönyvi kivonat és analitikus kimutatás alapján” szöveg,
-
-b) 11. § (3) bekezdésében a „termelői szervezet vagy annak tagja rendelkezésére álló” szövegrész helyébe a „termelői szervezet – valamint a termelő tagnál végrehajtott tevékenység esetén annak tagja – rendelkezésére álló” szöveg,
-
-c) 12. § (6) bekezdés d) pontjában az „idején vagy azt megelőző öt éven belül ugyanabban az időpontban a támogatást igénylővel” szövegrész helyébe az „idején a támogatást igénylővel” szöveg
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
