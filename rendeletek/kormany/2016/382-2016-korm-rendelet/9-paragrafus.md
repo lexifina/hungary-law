@@ -72,7 +72,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 23. a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 300/2008/EK rendelet) 9. cikke szerinti felelős hatósági feladatok ellátása,
 
-24. az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, valamint a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet 9. cikk (1) bekezdésében meghatározott konzultáció lefolytatásáról, továbbá a légiforgalmi irányítói szakszolgálati engedélyekre és tanúsítványokra vonatkozó formai követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról, a 923/2012/EU bizottsági végrehajtási rendelet módosításáról és a 805/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló 2015. február 20-i 2015/340 bizottsági (EU) rendelet (a továbbiakban: 2015/340 bizottsági rendelet) 5. cikke szerinti illetékes hatóságként gondoskodik a 2015/340 bizottsági rendeletben meghatározott feladatok ellátásáról,
+24.[^72] az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, ellátja az (EU) 2019/317 bizottsági végrehajtási rendeletben a nemzeti felügyeleti hatóságra vonatkozóan megállapított feladatokat, továbbá az (EU) 2015/340 bizottsági rendelet 5. cikke szerinti illetékes hatóságként gondoskodik az (EU) 2015/340 bizottsági rendeletben meghatározott feladatok ellátásáról,
 
 25. a kormányzati frekvenciagazdálkodási hatósággal együttműködve nemzeti és nemzetközi frekvenciaegyeztetést végez a légiközlekedést szolgáló légiforgalmi célú földi rádióberendezések üzembe helyezési eljárásának keretében,
 
@@ -80,7 +80,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 27. a légijárművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU rendeletben írt (a továbbiakban: 1321/2014/EU rendelet) kijelölt illetékes hatóságként gondoskodik az e pontokban meghatározott feladatok végrehajtásáról,
 
-28.[^72] gondoskodik – az Európai Repülésbiztonsági Ügynökséggel kötött megállapodás alapján – (EU) 2018/1139 európai parlamenti és tanácsi rendelet 77. cikk (2) és (3) bekezdésében meghatározott feladatok végrehajtásáról,
+28.[^73] gondoskodik – az Európai Repülésbiztonsági Ügynökséggel kötött megállapodás alapján – (EU) 2018/1139 európai parlamenti és tanácsi rendelet 77. cikk (2) és (3) bekezdésében meghatározott feladatok végrehajtásáról,
 
 29. jóváhagyja Magyarország területén kereskedelmi célból leszálló, illetve onnan induló, menetrend szerinti nemzetközi repülést végrehajtó légitársaság menetrendjét,
 
@@ -96,7 +96,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 35. gondoskodik az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról szóló, 2009. március 30-i 262/2009/EK bizottsági rendeletben meghatározott lekérdezési kód kiosztásáról és a kapcsolódó feladatok végrehajtásáról,
 
-36.[^73] ellátja a légijárműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon lajstromozott légijárművek esetében, amelyek jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek, valamint végzi a földi eszközökön üzemeltetett válaszjeladókhoz kapcsolódó kódkiosztást,,
+36.[^74] ellátja a légijárműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon lajstromozott légijárművek esetében, amelyek jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek, valamint végzi a földi eszközökön üzemeltetett válaszjeladókhoz kapcsolódó kódkiosztást,,
 
 37. elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
 
@@ -136,13 +136,13 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 55. a 2015/1998 bizottsági (EU) végrehajtási rendelet Melléklet 11.6. pontjában meghatározott uniós légiközlekedés-védelmi ellenőrzés végrehajtása, valamint az uniós légiközlekedési védelmi ellenőrök jóváhagyása,
 
-56. részt vesz a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló, 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendeletben (a továbbiakban: 390/2013/EU bizottsági végrehajtási rendelet) meghatározott követelményeknek megfelelő, funkcionális légtérblokk szintjén létrehozandó teljesítménytervek kidolgozásában, majd a tervet elfogadása esetén továbbítja az Európai Bizottsághoz,
+56.[^75] gondoskodik a teljesítménytervek és teljesítménycélok (EU) 2019/317 bizottsági végrehajtási rendelet 10. cikk (6) bekezdése szerinti módosításáról, a teljesítményterv tervezetének az (EU) 2019/317 bizottsági végrehajtási rendelet 12. cikke szerinti benyújtásáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 13. cikk (2) bekezdésében, 14. cikk (3) bekezdésében, 15. cikk (6) bekezdésében a tagállamok részére megállapított feladatok végrehajtásáról, a teljesítménycéloknak az (EU) 2019/317 bizottsági végrehajtási rendelet 18. cikk (1) bekezdése szerinti felülvizsgálatáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 6. cikkében, 24. cikk (2) és (3) bekezdésében, valamint 30. cikk (1) bekezdésében meghatározott konzultációk lefolytatásáról, továbbá az (EU) 2019/317 bizottsági végrehajtási rendelet 24. cikk (4) bekezdésében, 30. cikk (2) bekezdésében és 38. cikk (1) bekezdés c)–e) pontjában foglaltak végrehajtásáról,
 
-57.[^74] a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (6) bekezdésében, az 5. cikk (1) és (2) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint II. mellékletében meghatározott feladatok végrehajtása és a hatálya alá tartozó repülőterek repülőtéri kézikönyvének jóváhagyása,
+57.[^76] a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (6) bekezdésében, az 5. cikk (1) és (2) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint II. mellékletében meghatározott feladatok végrehajtása és a hatálya alá tartozó repülőterek repülőtéri kézikönyvének jóváhagyása,
 
 58. az 598/2014/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik az 598/2014/EU európai parlamenti és tanácsi rendeletben meghatározott, a légijárművek zajának kezelésére, az egyes repülőterek zajhelyzetének értékelésére, az üzemeltetési korlátozások bevezetésére és a bizottság értesítésére vonatkozó feladatok végrehajtásáról,
 
-59.[^75]
+59.[^77]
 
 60. a 139/2014/EU bizottsági rendelet 10. cikk (1) bekezdés a) pontjának megfelelően a vadon élő állatok és a légijárművek közötti ütközésekre vonatkozó nemzeti nyilvántartási és bejelentési eljárást dolgoz ki és működtet,
 
@@ -172,11 +172,11 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 73. építésügyi hatóságként eljár a repülőtér területén lévő, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építményekkel kapcsolatos eljárásokban,
 
-74.[^76] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
+74.[^78] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
 
-75.[^77] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
+75.[^79] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
 
-76.[^78] közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.
+76.[^80] közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.
 
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
@@ -193,10 +193,12 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^69]: A 9. § (2) bekezdés c) pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
 [^70]: A 9. § (4) bekezdés 3. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^71]: A 9. § (4) bekezdés 6. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^72]: A 9. § (4) bekezdés 28. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^73]: A 9. § (4) bekezdés 36. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^74]: A 9. § (4) bekezdés 57. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^75]: A 9. § (4) bekezdés 59. pontját a 348/2019. (XII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
-[^76]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^77]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^78]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^72]: A 9. § (4) bekezdés 24. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^73]: A 9. § (4) bekezdés 28. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^74]: A 9. § (4) bekezdés 36. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^75]: A 9. § (4) bekezdés 56. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^76]: A 9. § (4) bekezdés 57. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^77]: A 9. § (4) bekezdés 59. pontját a 348/2019. (XII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^78]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^79]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^80]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
