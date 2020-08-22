@@ -1,1 +1,1 @@
-## alapján meghatározott növényegészségügyi vizsgálatokhoz [a továbbiakban a)–c) pontok együtt: támogatott növényegészségügyi szolgáltatás].
+## növényegészségügyi vizsgálatokhoz [a továbbiakban az a)–c) pontok együtt: támogatott növényegészségügyi szolgáltatás].
