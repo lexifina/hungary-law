@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-22
 | 2017-01-01 | 1998-4-20-22.16 | 177/2011. (IX. 1.) Korm. rendelet |
 | 2018-01-01 | 1998-4-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-02-14 | 1998-4-20-22.18 | 11/2018. (II. 6.) Korm. rendelet |
+| 2020-08-22 | 1998-4-20-22.19 | 402/2020. (VIII. 17.) Korm. rendelet |
