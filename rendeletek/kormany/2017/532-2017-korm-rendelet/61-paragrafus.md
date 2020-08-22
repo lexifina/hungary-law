@@ -1,4 +1,4 @@
-## 60. §[^33]
+## 60. §[^35]
 
 61. § (1) A szakszemélyzet kezdő képzésére, munkahelyi képzésére, továbbképzésére vonatkozó feltételeket és a képzési szervezetekkel szemben támasztott követelményeket a Léginavigációs Szakszemélyzetek Rendelet 1. számú melléklete tartalmazza.
 
@@ -6,4 +6,4 @@
 
 (3) Ha a megadott határidőig a képzési szervezet a képzési engedély kiadásához előírt feltételeket nem teljesíti, a légiközlekedési hatóság az engedélyt visszavonja.
 
-[^33]: A 60. §-t a 348/2019. (XII. 23.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^35]: A 60. §-t a 348/2019. (XII. 23.) Korm. rendelet 18. §-a hatályon kívül helyezte.

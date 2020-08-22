@@ -2239,25 +2239,3 @@ akkor a forrás zaj pontosítását a gyári adatokból kell meghatározni a hat
 8.6. Repülési pálya azonosító pontok és paraméterek
 
 8.6.1 Általában
-
-| Helyzet/paraméter | Leírás |  |
-
-| K | Zajmérő pont |  |
-
-| Kr | Referencia mérő pont |  |
-
-| Q | A mért repülési pályán, a K pontnál tapasztalható PNLTM-nek megfelelő helyzet (lásd 8.3.2. pontot) |  |
-
-| Qr | A korrigált repülési pályán, a Kr pontnál tapasztalható PNLTM-nek megfelelő helyzet (lásd 8.3.2. pont) |  |
-
-| V | helikopter vizsgálat föld feletti sebesség |  |
-
-| Vr | A helikopter referencia föld feletti sebessége |  |
-
-| VH | Legnagyobb sebesség a maximális folyamatos teljesítménynél nem nagyobb teljesítménnyel végzett szintrepülésben |  |
-
-| VNE | Határsebesség (soha meg nem haladott sebesség) |  |
-
-| Vy | A legnagyobb emelkedés mértékéhez tartozó sebesség |  |
-
-8.6.2. Felszállás (lásd F-A-4. ábrát)

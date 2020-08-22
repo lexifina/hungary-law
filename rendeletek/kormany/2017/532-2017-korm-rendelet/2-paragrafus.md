@@ -24,6 +24,10 @@ h) jóváhagyja az 57/2016. (XII. 22.) NFM rendelet 37. § (2) bekezdés f) pont
 
 i) jóváhagyja az 57/2016. (XII. 22.) NFM rendelet 45. § (2) bekezdésében meghatározott Repülőtéri Kényszerhelyzeti Tervet vagy helyi előírást,
 
-j) ellenőrzi az 57/2016. (XII. 22.) NFM rendelet 14. mellékletének 1. pontjában meghatározott, az ATM céljára kialakított rendszerek HMI (Human-Machine Interface) megfelelőségét.
+j) ellenőrzi az 57/2016. (XII. 22.) NFM rendelet 14. mellékletének 1. pontjában meghatározott, az ATM céljára kialakított rendszerek HMI (Human-Machine Interface) megfelelőségét,
+
+k)[^2] elvégzi az (EU) 2017/373 bizottsági végrehajtási rendelet 8. cikk (2) bekezdésében meghatározott feladatot.
 
 (2) Mindazon hatósági eljárásokban, amelyek e rendelet hatálya alá tartoznak és amelyek ügyintézési határidejéről törvény nem rendelkezik, az ügyintézési határidő 25 nap.
+
+[^2]: A 2. § (1) bekezdés k) pontját a 402/2020. (VIII. 17.) Korm. rendelet 7. §-a iktatta be.
