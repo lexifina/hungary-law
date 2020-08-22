@@ -10,7 +10,7 @@ d) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és g
 
 e) kereskedelmi repülőtér üzemben tartójának.
 
-(2)[^56] Az 1035/2011/EU bizottsági végrehajtási rendeletben a légiforgalmi szolgálatokra meghatározott Repülésbiztonság-irányítási Rendszernek a Nemzeti Repülésbiztonsági Programon kell alapulnia.
+(2)[^56] Az (EU) 2017/373 bizottsági végrehajtási rendeletben a légiforgalmi szolgálatokra meghatározott Biztonságirányítási rendszer a Nemzeti Repülésbiztonsági Programon alapul.
 
 [^55]: A Vhr. 26/A. §-át a 108/2010. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
-[^56]: A Vhr. 26/A. § (2) bekezdése a 88/2012. (IV. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^56]: A Vhr. 26/A. § (2) bekezdése a 402/2020. (VIII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
