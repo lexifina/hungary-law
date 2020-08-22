@@ -1,4 +1,4 @@
-117. §[^501] (1) Az önkormányzati biztossal a polgármester megbízási szerződést köt és megbízólevéllel látja el. A megbízólevél tartalmazza
+117. §[^503] (1) Az önkormányzati biztossal a polgármester megbízási szerződést köt és megbízólevéllel látja el. A megbízólevél tartalmazza
 
 a) a költségvetési szerv megnevezését, székhelyét,
 
@@ -6,7 +6,7 @@ b) a megbízatás időtartamát,
 
 c) az önkormányzati biztos feladatait, jogkörét, és
 
-d)[^502] gazdasági társaság esetén a személyesen eljáró alkalmazott, tag megjelölését.
+d)[^504] gazdasági társaság esetén a személyesen eljáró alkalmazott, tag megjelölését.
 
 (2) Az önkormányzati biztos jogosult a tervezéssel, gazdálkodással, az adatszolgáltatások teljesítésével és a beszámolással összefüggésben
 
@@ -70,5 +70,5 @@ a) a (9) bekezdés b) pontjában meghatározott esetben új önkormányzati bizt
 
 b) a (9) bekezdés c) pontjában meghatározott esetben intézkedést kezdeményezhet a költségvetési szerv tervezésének, gazdálkodásának javítására, átszervezésére, a finanszírozás felfüggesztésére vagy korlátozására, illetve a költségvetési szerv átalakítására, megszüntetésére.
 
-[^501]: Az Ávr. 117. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^502]: Az Ávr. 117. § (1) bekezdés d) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
+[^503]: Az Ávr. 117. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^504]: Az Ávr. 117. § (1) bekezdés d) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.

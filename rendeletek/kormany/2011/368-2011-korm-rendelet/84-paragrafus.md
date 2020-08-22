@@ -20,7 +20,11 @@ fb) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás ala
 
 fc) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az fb) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő,
 
-g)[^391] a vasúti közlekedésről szóló törvény szerint a közlekedésért felelős miniszter által az országos jelentőségű vasútvonalak működtetésére alapított vagy kijelölt kizárólagos állami tulajdonban lévő gazdasági társaság részére
+g)[^391] a vasúti közlekedésről szóló törvény szerint a közlekedésért felelős miniszter által az országos jelentőségű vasútvonalak működtetésére alapított vagy kijelölt kizárólagos állami tulajdonban lévő gazdasági társaság részére,
+
+h)[^392] a kedvezményezett kérelmére, – ha a kedvezményezett legkésőbb a támogatási jogviszony létrehozását megelőző évben megalapításra került, és szerepel az Art. 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja – a turisztikai fejlesztés megvalósítása érdekében létrejött támogatási jogviszony keretében,
+
+i)[^393] a sportért felelős miniszter által a sportcélú infrastruktúra-fejlesztések és az azokhoz kapcsolódó vagyonjogi ügyletek, továbbá a sportszakmai feladatellátáshoz kapcsolódó működési célú költségek támogatására létrehozott, közfeladat ellátását szolgáló vagy közfeladatot megvalósító kedvezményezettek részére – ha a kedvezményezett legkésőbb a támogatási jogviszony létrehozását megelőző évben megalapításra került, és szerepel az Art. 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja – közfeladat ellátását előmozdító támogatási jogviszony keretében
 
 folyósított költségvetési támogatás esetén eltekinthet.
 
@@ -32,3 +36,5 @@ b) bármely olyan eszköz – így különösen zálogjog kikötése, garancia, 
 
 [^390]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.
 [^391]: Az Ávr. 84. § (1) bekezdés g) pontját a 426/2017. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^392]: Az Ávr. 84. § (1) bekezdés h) pontját a 404/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^393]: Az Ávr. 84. § (1) bekezdés i) pontját a 404/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.

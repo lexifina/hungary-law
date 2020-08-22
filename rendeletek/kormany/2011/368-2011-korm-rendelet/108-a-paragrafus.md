@@ -1,4 +1,4 @@
-108/A. §[^445] (1) Az Áht. 58. § (2) bekezdése szerinti önellenőrzési pótlék mértéke
+108/A. §[^447] (1) Az Áht. 58. § (2) bekezdése szerinti önellenőrzési pótlék mértéke
 
 a) ha az önellenőrzéssel a helyi önkormányzat visszafizetési kötelezettsége csökken, a csökkenés 10%-a, de legalább tízezer forint,
 
@@ -8,14 +8,14 @@ c) más esetben ötezer forint.
 
 (2) Az (1) bekezdés a) és b) pontja szerinti eset együttes fennállása esetén az a) és b) pontban megállapított önellenőrzési pótlékot külön-külön kell megállapítani és megfizetni.
 
-(3)[^446] Az önellenőrzésre kérelmet az a helyi önkormányzat nyújthat be, amely az éves költségvetési beszámolóját a Kincstár által üzemeltetett elektronikus rendszerbe feltöltötte, és azt a Kincstár felülvizsgálta és elfogadta. Önellenőrzési kérelem kizárólag az éves költségvetési beszámolóban kimutatott visszafizetési kötelezettség módosítására irányulhat.
+(3)[^448] Az önellenőrzésre kérelmet az a helyi önkormányzat nyújthat be, amely az éves költségvetési beszámolóját a Kincstár által üzemeltetett elektronikus rendszerbe feltöltötte, és azt a Kincstár felülvizsgálta és elfogadta. Önellenőrzési kérelem kizárólag az éves költségvetési beszámolóban kimutatott visszafizetési kötelezettség módosítására irányulhat.
 
 (4) A helyi önkormányzat az önellenőrzést a Kincstár által üzemeltetett elektronikus rendszerben benyújtott kérelem feladásával kezdeményezi, továbbá ezzel egyidejűleg megfizeti az önellenőrzési pótlékot a Kincstár által megjelölt fizetési számlára.
 
 (5) Ha az önellenőrzési pótlék megfizetésére a kérelem feladását követő öt munkanapon belül nem kerül sor, a Kincstár a kérelmet érdemi vizsgálat nélkül elutasítja, ellenkező esetben azt megvizsgálja. Ha a kérelem megfelel az éves költségvetési beszámolónak a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből kapott támogatások felhasználásának elszámolását ismertető részére előírt alaki és tartalmi követelményeknek, a Kincstár a kérelmet nyolc napon belül jóváhagyja, ellenkező esetben azt elutasítja.
 
-(6)[^447]
+(6)[^449]
 
-[^445]: Az Ávr. 108/A. §-át a 264/2016. (VIII. 31.) Korm. rendelet 16. §-a iktatta be.
-[^446]: Az Ávr. 108/A. § (3) bekezdése a 282/2019. (XI. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^447]: Az Ávr. 108/A. § (6) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 19. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^447]: Az Ávr. 108/A. §-át a 264/2016. (VIII. 31.) Korm. rendelet 16. §-a iktatta be.
+[^448]: Az Ávr. 108/A. § (3) bekezdése a 282/2019. (XI. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^449]: Az Ávr. 108/A. § (6) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 19. § (1) bekezdés 2. pontja hatályon kívül helyezte.
