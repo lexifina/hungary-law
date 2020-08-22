@@ -52,4 +52,8 @@ v) szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek els
 
 w) dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott fogalom,
 
-x) online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom.
+x) online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom,
+
+y) ellátási lánc: az e törvény hatálya alá tartozó azon folyamatok összessége, amelyek szereplői közvetlen vagy közvetett hatással vannak a fogyasztóknak értékesítésre szánt termék előállítására, tárolására, forgalomba hozatalára és felhasználására,
+
+z) gazdálkodó szervezet: a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 7. § (1) bekezdés 6. pontjában meghatározott szervezet, ide nem értve azt a szervezetet, amelyet a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyel.

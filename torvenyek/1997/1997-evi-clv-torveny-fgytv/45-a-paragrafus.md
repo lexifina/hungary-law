@@ -35,3 +35,5 @@ f) a termék forgalmazása vagy szolgáltatás nyújtása során az egyenlő bá
 g) a fogyasztók tájékoztatására
 
 vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
+
+(4) A fogyasztóvédelmi hatóság az (1)–(3) bekezdésben foglaltakat az ellátási láncban szereplő gazdálkodó szervezetek vonatkozásában is ellenőrzi és eljár azok megsértése esetén.
