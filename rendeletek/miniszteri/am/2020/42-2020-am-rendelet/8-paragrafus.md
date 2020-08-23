@@ -1,3 +1,3 @@
-## 7. §[^2]
+## 7. §[^7]
 
-[^2]: A 7. § a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^7]: A 7. § a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

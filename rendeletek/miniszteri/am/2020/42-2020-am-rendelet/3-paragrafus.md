@@ -1,1 +1,3 @@
-## „(5) Nem nyújtható támogatás, ha megállapítást nyer, hogy a támogatott növényegészségügyi szolgáltatással érintett növényben a növénykárosító jelenlétét a támogatást igénybe vevő idézte elő.”
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 6. §[^1]
+## 6. §[^6]
 
-[^1]: A 6. § a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^6]: A 6. § a 15. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
