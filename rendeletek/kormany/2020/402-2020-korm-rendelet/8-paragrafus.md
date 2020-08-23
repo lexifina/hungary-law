@@ -1,5 +1,3 @@
-## 7. § A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R3.) 2. § (1) bekezdése a következő k) ponttal egészül ki:
+## 7. §[^10]
 
-## (A légiközlekedési hatóság)
-
-## „k) elvégzi az (EU) 2017/373 bizottsági végrehajtási rendelet 8. cikk (2) bekezdésében meghatározott feladatot.”
+[^10]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

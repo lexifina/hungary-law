@@ -1,4 +1,4 @@
-## 12. § Nem lép hatályba a közlekedési tárgyú egyes kormányrendeletek jogharmonizációs célú módosításáról szóló 245/2020. (V. 28.) Korm. rendelet 6. § (2) bekezdése.
+## 12. §[^14]
 
 ## 13. § Ez a rendelet
 
@@ -7,3 +7,5 @@ a) a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más lé
 b) az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^14]: A 12. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
