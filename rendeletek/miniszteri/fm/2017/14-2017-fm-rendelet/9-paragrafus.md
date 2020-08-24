@@ -50,6 +50,8 @@ b) bázis szaporítóanyag esetében fehér;
 
 c) certifikált szaporítóanyag esetében kék;
 
-d) a C.A.C. kategóriájú szaporítóanyag esetében a certifikációs rendszerben alkalmazott színektől eltérő színű.
+d)[^4] a C.A.C. kategóriájú szaporítóanyag esetében sárga.
 
 (7) A jelölést a szaporítóanyagként vagy gyümölcstermő növényként forgalmazni kívánt növényeken vagy növényi részeken kell elhelyezni. Ha az ilyen növények vagy növényi részek csomagban, kötegben vagy tartályban kerülnek forgalomba, akkor a jelölést e csomagon, kötegen vagy tartályon kell elhelyezni.
+
+[^4]: A 9. § (6) bekezdés d) pontja a 43/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.

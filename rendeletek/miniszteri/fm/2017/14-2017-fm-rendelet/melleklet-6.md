@@ -326,7 +326,7 @@
 
 ## 2.6.4.2.2. Phytophihora fragariae C.J. Hickman esetében:
 
-## 2.6.4.2.2.1. a Phytophthora fragariae C.J. Hickman észlelése és a következő ültetés között egy legalább tízéves nyugalmi időszaknak kell eltelnie, amely során az érintett növényi szaporítóanyagokat és ültetési anyagokat nem termesztik; vagy
+## 2.6.4.2.2.1.[^26] a Phytophthora fragariae C.J. Hickman észlelése és a következő ültetés között egy legalább tízéves nyugalmi időszaknak kell eltelnie, amely során az érintett növényi szaporítóanyagokat és ültetési anyagokat nem termesztik; és
 
 ## 2.6.4.2.2.2. a termesztési helyre vonatkozó termesztési adatokat, valamint a korábban bekövetkezett, talajból történt fertőzések adatait nyilván kell tartani;
 
@@ -1149,3 +1149,5 @@ A bázis anyanövény felszaporítása legfeljebb két generáción át megenged
 12.1. Bázis kategória
 
 A bázis anyanövény felszaporítása legfeljebb két generáción át megengedett.
+
+[^26]: Az 5. melléklet 2. pont 2.6.4.2.2.1. alpontja a 43/2020. (VIII. 19.) AM rendelet 4. §-a szerint módosított szöveg.
