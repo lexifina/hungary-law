@@ -1,3 +1,3 @@
-## 11. §[^7]
+## 11. §[^11]
 
-[^7]: A 11. § a 13. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^11]: A 11. § a 13. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.

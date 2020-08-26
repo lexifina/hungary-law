@@ -1,7 +1,3 @@
-## 4. § A 33/2008. (II. 21.) Korm. rendelet 4. számú melléklete az 1. melléklet szerint módosul.
+## 4. §[^4]
 
-## 5. § Hatályát veszti a 33/2008. (II. 21.) Korm. rendelet
-
-a) 1. § (3) bekezdés b) pontja,
-
-b) 5/F. § (1) bekezdésében az „– az 5/C. § (1) bekezdésétől eltérően –” szövegrész.
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 3. § A 33/2008. (II. 21.) Korm. rendelet 6. §-a a következő (2d) és (2e) bekezdéssel egészül ki:
+## 3. §[^3]
 
-## „(2d) E rendeletnek a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet, valamint az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet módosításáról szóló 403/2020. (VIII. 17.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 1. § (3a) bekezdését, 5/D. § (6) és (7) bekezdését, 5/F. § (1) bekezdését, valamint 4. számú mellékletét a Módr5. hatálybalépését követően indult eljárásokban kell alkalmazni.
-
-## (2e) E rendeletnek a Módr5. által hatályon kívül helyezett 1. § (3) bekezdés b) pontját a Módr5. hatálybalépésekor folyamatban lévő ügyekben alkalmazni kell.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

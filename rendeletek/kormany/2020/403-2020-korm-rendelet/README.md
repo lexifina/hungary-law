@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-403-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-08-25 | 2020-403-20-22.1 | 403/2020. (VIII. 17.) Korm. rendelet |
+| 2020-08-26 | 2020-403-20-22.2 | 2010: CXXX. törvény |

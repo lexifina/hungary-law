@@ -1,3 +1,3 @@
-## 6. §[^2]
+## 6. §[^6]
 
-[^2]: A 6. § a 13. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^6]: A 6. § a 13. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
