@@ -1,4 +1,4 @@
-## 1. e határozat 1. mellékleteként közzéteszi a Magyarország Kormánya és a HIT Gyülekezete között 2020. július 24. napján létrejött Szerződést, ezzel egyidejűleg a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartásba vett egyházzal kötendő megállapodásról szóló 2066/2006. (IV. 3.) Korm. határozatot visszavonja;
+## 1.[^1] e határozat 1. mellékleteként közzéteszi a Magyarország Kormánya és a HIT Gyülekezete között 2020. július 24. napján létrejött Szerződést
 
 ## 2. felhívja az érintett minisztereket, hogy a Szerződésben foglaltak végrehajtásáról gondoskodjanak.
 
@@ -179,3 +179,5 @@ nevében
 HIT Gyülekezete
 
 nevében
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
