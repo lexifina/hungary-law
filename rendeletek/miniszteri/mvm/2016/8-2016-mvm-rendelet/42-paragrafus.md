@@ -36,6 +36,8 @@
 
 (17)[^27] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a központi költségvetés címrendjének módosításával kapcsolatos módosításáról szóló 12/2020. (VII. 8.) MvM rendelettel (a továbbiakban: Módr15.) megállapított rendelkezéseit a Módr15. hatálybalépése[^28] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(18)[^29] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet veszélyhelyzet megszűnésével kapcsolatos módosításáról szóló 15/2020. (VIII. 25.) MvM rendelettel (a továbbiakban: Módr16.) megállapított rendelkezéseit a Módr16. hatálybalépése[^30] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^4]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^5]: A hatálybalépés időpontja 2018. február 16.
 [^6]: A hatálybalépés időpontja 2018. március 29.
@@ -61,3 +63,5 @@
 [^26]: A hatálybalépés időpontja 2020. április 28.
 [^27]: A 42. § (17) bekezdését a 12/2020. (VII. 8.) MvM rendelet 1. §-a iktatta be.
 [^28]: A hatálybalépés időpontja 2020. július 9.
+[^29]: A 42. § (18) bekezdését a 15/2020. (VIII. 25.) MvM rendelet 1. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2020. augusztus 26.
