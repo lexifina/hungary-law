@@ -8,6 +8,10 @@
 
 | 1. |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |
 
+| 1a. |  |  | Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
+
+| 1b. | 355851 |  |  | Tőkeemelések | Az előirányzat célja a pénzügyminiszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok részére tőkeemelés nyújtása. | Gazdasági társaságok |  |  | Egy összegben történő kifizetéssel |  |  |  |  |  |
+
 | 2. |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |
 
 | 3. |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |  |  |

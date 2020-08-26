@@ -16,6 +16,6 @@
 
 | 5. | 297102 |  |  | Rendkívüli kormányzati intézkedések | Év közben meghozott kormányzati döntésekből következő feladatok finanszírozása és az előirányzott, de elháríthatatlan ok miatt elmaradó költségvetési bevételek pótlása. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | A Kormány egyedi határozata alapján, előirányzat átcsoportosításként. | Az elő- irányzat- átcso- portosí- tásról szóló Korm. határo- zatban megha- tározott időpont. |  |  |  |  |
 
-| 6. | 271734 |  |  | Országvédelmi Alap | Az államháztartási egyenlegcél teljesülését veszélyeztető kockázatok tompítása. | A Kormány döntése alapján |  |  | Esetleges felhaszná-lásról a Kvtv. 4. § (6)–(8) bekezdése alapján a Kormány dönt. |  |  |  |  |  |
+| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 8. melléklet a 20/2019. (XII. 19.) PM rendelethez

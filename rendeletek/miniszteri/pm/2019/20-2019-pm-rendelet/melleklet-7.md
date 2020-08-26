@@ -60,4 +60,6 @@
 
 | 27. | 030603 |  |  |  | Folyósított ellátások utáni térítés | A folyósított ellátások utáni térítés a jövedelempótló és jövedelemkiegészítő szociális támogatásokkal összefüggő igazgatási feladatok elvégzésével kapcsolatos költségek fedezetéül szolgál. | Ellátást folyósító szerv |  |  | A folyósítás havonta, egyenlő részletekben történik. |  |  | Kincstár |  |  |
 
-7. melléklet a 20/2019. (XII. 19.) PM rendelethez
+7. melléklet a 20/2019. (XII. 19.) PM rendelethez[^4]
+
+[^4]: A 7. melléklet a 9/2020. (VIII. 25.) PM rendelet 2. §-a szerint módosított szöveg.
