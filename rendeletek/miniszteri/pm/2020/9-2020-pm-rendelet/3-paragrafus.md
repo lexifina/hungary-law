@@ -1,1 +1,3 @@
-## 2. § Hatályát veszti a Rendelet 7. mellékletében foglalt táblázat 6. sora.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
