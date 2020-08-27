@@ -1,3 +1,3 @@
-## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (18) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(18) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet veszélyhelyzet megszűnésével kapcsolatos módosításáról szóló 15/2020. (VIII. 25.) MvM rendelettel (a továbbiakban: Módr16.) megállapított rendelkezéseit a Módr16. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
