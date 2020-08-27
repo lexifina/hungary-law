@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-4-20-0B
 | 2018-12-22 | 2008-4-20-0B.11 | 46/2018. (XII. 19.) EMMI rendelet |
 | 2019-12-19 | 2008-4-20-0B.12 | 46/2018. (XII. 19.) EMMI rendelet |
 | 2020-04-02 | 2008-4-20-0B.13 | 46/2018. (XII. 19.) EMMI rendelet |
+| 2020-08-27 | 2008-4-20-0B.14 | 46/2018. (XII. 19.) EMMI rendelet |

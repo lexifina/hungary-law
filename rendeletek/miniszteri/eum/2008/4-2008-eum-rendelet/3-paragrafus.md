@@ -1,89 +1,63 @@
-## 3. §[^2] Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
+3. §[^2] (1) Ez a rendelet
 
-a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 21. cikk (1)–(3) bekezdése, 23. cikke, 27. cikk (1) és (2) bekezdése, 33. cikke, 37. cikke, 43. cikke, 45. cikk (3) bekezdése, V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2., 5.6.2. pontja, valamint az irányelvnek az azt módosító, a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozása tekintetében történő kiigazításáról szóló, 2006. november 20-i 2006/100/EK tanácsi irányelv melléklete V. fejezetének
+a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv (a továbbiakban: irányelv) 21. cikk (1)–(3) bekezdésének, 23. cikkének, 27. cikk (1) és (2) bekezdésének, 33. cikkének, 33a. cikkének, 37. cikkének, 43. cikkének, 43a. cikkének, 45. cikk (3) bekezdésének, V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2., 5.6.2. pontjának,
 
-aa) b) pontjával megállapított 33a. cikke,
+b) a személyek szabad mozgása területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozása tekintetében történő kiigazításáról szóló, 2006. november 20-i 2006/100/EK tanácsi irányelv melléklete V. fejezet b)–d), f)–m) és o)–p) pontjának,
 
-ab) c) pontjával módosított 37. cikk (1) bekezdése,
+c) a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2011. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv 21., 24. , 25., 28. és 32. pontjának,
 
-ac) d) pontjával megállapított 43a. cikke,
+d) a letelepedés és a szolgáltatásnyújtás szabadsága területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013. május 13-i 2013/25/EU tanácsi irányelv melléklete A. rész 1. és 2. pontjának,
 
-ad) f)–m) pontjával módosított 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.3.3. pontja,
+e) az irányelv V. melléklet:
 
-ae) o)–p) pontjával módosított 5.5.2., 5.6.2. pontja,
+ea) az 5.1.1. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek és a 2008/C 322/03 EK bizottsági közleménynek,
 
-b) az irányelv V. melléklet 5. pontja az alábbiak szerint:
+eb) az 5.1.2. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek, a 2008/C 322/03 EK bizottsági közleménynek és a 2007/C 165/06 EK bizottsági közleménynek,
 
-ba) az 5.1.1. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.) és a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.),
+ec) az 5.1.3. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek, a 2008/C 322/03 EK bizottsági közleménynek, a 2008/C 137/07 EK bizottsági közleménynek,
 
-bb) az 5.1.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2007/C 165/06 EK bizottsági közlemény (2007. július 19.),
+ed) az 5.1.4. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek, a 2008/C 322/03 EK bizottsági közleménynek és a 2007/C 165/06 EK bizottsági közleménynek,
 
-bc) az 5.1.3. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.), a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.), helyesbítve az Európai Unió Hivatalos Lapjában (HL L sorozat 93., 2008. április 4.),
+ee) az 5.2.2. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek, a 2008/C 322/03 EK bizottsági közleménynek és a 2008/C 137/07 EK bizottsági közleménynek,
 
-bd) az 5.1.4. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2007/C 165/06 EK bizottsági közlemény (2007. július 19.),
+ef) az 5.3.2. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek, a 2008/C 322/03 EK bizottsági közleménynek,
 
-be) az 5.2.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.),
+eg) az 5.3.3. pont tekintetében a 2008/C 322/03 EK bizottsági közleménynek, a 2008/C 137/07 EK bizottsági közleménynek és a 2007/C 165/07 EK bizottsági közleménynek,
 
-bf) az 5.3.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.), helyesbítve az Európai Unió Hivatalos Lapjában (HL L sorozat 93., 2008. április 4.),
+eh) az 5.5.2. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek, 2008/C 322/03 EK bizottsági közleménynek és a 2008/C 137/07 EK bizottsági közleménynek,
 
-bg) az 5.3.3. pont tekintetében a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.), a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.) és a 2007/C 165/07 EK bizottsági közlemény (2007. július 19.),
+ei) az 5.6.1. pont tekintetében a 2008/C 137/07 EK bizottsági közleménynek,
 
-bh) az 5.5.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.), 2008/C 322/03 EK bizottsági közlemény (2008. december 17.) és a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.),
+ej) az 5.6.2. pont tekintetében a 2009/C/114/01 EK bizottsági közleménynek és a 2008/C 322/03 EK bizottsági közleménynek,
 
-bi) az 5.6.1. pont tekintetében a 2008/C 137/07 EK bizottsági közlemény (2008. június 4.),
+ek) az 5.1.1–5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2. és 5.6.2. alpontok tekintetében a szakmai képesítések kölcsönös elismeréséről szóló III. melléklet kicseréléséről szóló, 2011. szeptember 30-i, egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodás 14. cikkével létrehozott EU-Svájc Vegyes Bizottság 2/2011 határozatának (2011/702/EU),
 
-bj) az 5.6.2. pont tekintetében a 2009/C/114/01 EK bizottsági közlemény (2009. május 19.) és a 2008/C 322/03 EK bizottsági közlemény (2008. december 17.),
+el) az 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.6.2 pontja a 2010/C 129/02 EK bizottsági közleménynek,
 
-bk)[^3] az 5.1.1–5.1.4., 5.2.2., 5.3.2., 5.3.3., 5.5.2. és 5.6.2. alpontok tekintetében az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodás 14. cikkével létrehozott EU-Svájc Vegyes Bizottság 2/2011 határozata a szakmai képesítések kölcsönös elismeréséről szóló III. melléklet kicseréléséről (2011. szeptember 30.), (2011/702/EU).
+em) az 5.1.1 pontja a 2010/C 129/02 EK bizottsági közleménynek és a 2010/C 337/02 EK bizottsági közleménynek,
 
-c) az irányelv V. melléklet 5.1.1., 5.1.2., 5.1.3., 5.1.4., 5.2.2., 5.3.2., 5.6.2 pontja a 2010/C 129/02 EK bizottsági közlemény (2010. május 19.) szerint,
+en) az 5.1.3. és 5.1.4. pontja a 2011/C 183/01 EK bizottsági közleménynek,
 
-d) az irányelv V. melléklet 5.1.1 pontja a 2010/C 129/02 EK bizottsági közlemény (2010. május 19.) és a 2010/C 337/02 EK bizottsági közlemény (2010. december 14. ) szerint,
+eo) az 5.1.1., 5.1.4., 5.2.2., 5.3.2., 5.3.3. és 5.6.2. pontja a 2011/C 367/03 EK bizottsági közleménynek,
 
-e) az irányelv II. melléklete és V. melléklet 5.1.3. pontja a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló, 2011. március 3-i 213/2011/EU bizottsági rendelet szerint,
+ep) az 5.1.3., 5.2.2. és 5.3.2. pontja a 2012/C 244/01 EK bizottsági közleménynek,
 
-f) a 2003. évi uniós csatlakozási okmány II. melléklet 2. C. pontja,
+eq) az 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2. és 5.6.2. pontja a 2013/C 183/02 EK bizottsági közleménynek,
 
-g)[^4] az irányelvnek az azt módosító a letelepedés és a szolgáltatásnyújtás szabadsága területén elfogadott egyes irányelveknek a Horvát Köztársaság csatlakozására tekintettel történő kiigazításáról szóló, 2013. május 13-i 2013/25/EU tanácsi irányelv melléklete A részének
+f) a 2003. évi uniós Csatlakozási Okmány II. melléklet 2. C. pontjának
 
-ga) 1. pontjával módosított 49. cikk (2) bekezdése,
+## való megfelelést szolgálja.
 
-gb) 2. pontjával módosított V. melléklete,
+(2) Ez a rendelet
 
-h)[^5] az irányelv V. melléklet 5.1.3. és 5.1.4. pontja a 2011/C 183/01 EK bizottsági közlemény (2011. június 24.) szerint,
+a) a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv II. és V. mellékletének módosításáról szóló, 2011. március 3-i 213/2011/EU bizottsági rendelet,
 
-i)[^6] az irányelv 5.1.1., 5.1.4., 5.2.2., 5.3.2., 5.3.3., és 5.6.2. pontja a 2011/C 367/03 EK bizottsági közlemény (2011. december 16.) szerint,
+b) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2016. január 13-i (EU) 2016/790 felhatalmazáson alapuló bizottsági határozat,
 
-j)[^7] az irányelv 5.1.3., 5.2.2. és 5.3.2. pontja a 2012/C 244/01 EK bizottsági közlemény (2012. augusztus 14.) szerint,
+c) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2017. szeptember 11-i (EU) 2017/2113 felhatalmazáson alapuló bizottsági határozat,
 
-k)[^8] az irányelv 5.1.1., 5.1.2., 5.1.3., 5.2.2., 5.3.2., 5.3.3., 5.5.2., és 5.6.2. pontja a 2013/C 183/02 EK bizottsági közlemény (2013. június 28.) szerint,
+d) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2019. január 16-i (EU) 2019/608 felhatalmazáson alapuló bizottsági határozat,
 
-l)[^9] az irányelvnek az azt módosító, a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2013. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv
+e) a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2020. január 23-i (EU) 2020/548 felhatalmazáson alapuló határozat
 
-la) 21. pontjával megállapított 27. cikk (2a) bekezdése,
-
-lb) 24. pontjával módosított 33. cikke,
-
-lc) 25. pontjával módosított 33a. cikke,
-
-ld) 28. pontjával megállapított 37. cikk (3) és (4) bekezdése és
-
-le) 32. pontjával módosított 43. cikke,
-
-m)[^10] az irányelv 5.1.1–5.1.4. pontja a Bizottság 2016/790 felhatalmazáson alapuló határozata (2016. január 13.) szerint,
-
-n)[^11] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2017. szeptember 11-i (EU) 2017/2113 felhatalmazáson alapuló bizottsági határozat.
-
-o)[^12] a 2005/36/EK európai parlamenti és tanácsi irányelv V. mellékletének az előírt képesítések megszerzését tanúsító okiratok és a képzések megnevezései tekintetében történő módosításáról szóló, 2019. január 16-i (EU) 2019/608 felhatalmazáson alapuló bizottsági határozat.
-
-[^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
-[^3]: A 3. § b) pont bk) alpontját a 24/2012. (IV. 18.) NEFMI rendelet 5. §-a iktatta be.
-[^4]: A 3. § g) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
-[^5]: A 3. § h) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
-[^6]: A 3. § i) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
-[^7]: A 3. § j) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
-[^8]: A 3. § k) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
-[^9]: A 3. § l) pontját az 56/2015. (XII.17.) EMMI rendelet 2. §-a iktatta be.
-[^10]: A 3. § m) pontját a 28/2016. (IX. 29.) EMMI rendelet 2. §-a iktatta be.
-[^11]: A 3. § n) pontját a 46/2018. (XII. 19.) EMMI rendelet 2. §-a iktatta be.
-[^12]: A 3. § o) pontját a 12/2020. (III. 25.) EMMI rendelet 1. §-a iktatta be.
+[^2]: A 3. § a 29/2020. (VIII. 19.) EMMI rendelet 1. §-ával megállapított szöveg.
