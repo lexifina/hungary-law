@@ -1,0 +1,1 @@
+## 2. § A jogi segítségnyújtás keretében igénybe vehető támogatások iránti kérelem tartalmára és a támogatások igénybevételére vonatkozó részletes szabályokról szóló 28/2017. (XII. 27.) IM rendelet 6. § (2) bekezdésében az „egészségbiztosítási és nyugdíjjárulék” szövegrész helyébe a „társadalombiztosítási járulék” szöveg lép.
