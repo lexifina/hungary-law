@@ -38,7 +38,7 @@ d) vizsgaelnöki igazolásának száma és hatálya.
 
 (6a)
 
-(6b) Az országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
+(6b) Az országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, az e törvény felhatalmazása alapján kiadott kormányrendelet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
 
 (7) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. A (6) bekezdés szerinti névjegyzékbe való felvétel öt évre szól.
 

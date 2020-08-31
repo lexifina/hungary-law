@@ -24,7 +24,7 @@ c) a fejlesztési területek szakértői bizottság által történő meghatáro
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-a) a c) és d) pontban, valamint a 3. mellékletben foglalt kivétellel a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
+a) a c) és d) pontban, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt kivétellel a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
 
 aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
 
