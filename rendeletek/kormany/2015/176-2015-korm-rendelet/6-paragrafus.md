@@ -10,10 +10,10 @@ c) korábban szakmai irányító volt olyan személyszállító szolgáltatást 
 
 d) korábban szakmai irányító volt olyan személyszállító szolgáltatást folytató vállalkozásnál, amelynek a tevékenységi engedélyét a közlekedési hatóság visszavonta, a visszavonástól számított egy évig;
 
-e)[^6] az engedély iránti kérelem benyújtását megelőző három éven belül véglegesen elmarasztalták a rendelet által meghatározott tevékenység engedély nélküli végzése miatt;
+e)[^7] az engedély iránti kérelem benyújtását megelőző három éven belül véglegesen elmarasztalták a rendelet által meghatározott tevékenység engedély nélküli végzése miatt;
 
 f) korábban szakmai irányító volt olyan személyszállító szolgáltatást folytató vállalkozásnál, amelynek a tevékenységi engedélyét a közlekedési hatóság jogsértés miatt – ideértve a helyi önkormányzat által közterületen kijelölt taxiállomás (a továbbiakban: taxiállomás) használatára kiadott jogszabályok megsértését is – visszavonta, a visszavonástól számított egy évig; vagy
 
 g) büntetett előéletű.
 
-[^6]: A 6. § e) pontja a 457/2017. (XII. 28.) Korm. rendelet 536. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 6. § e) pontja a 457/2017. (XII. 28.) Korm. rendelet 536. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

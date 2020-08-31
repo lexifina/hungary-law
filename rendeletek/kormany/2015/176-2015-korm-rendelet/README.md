@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-176-20-
 | 2017-12-30 | 2015-176-20-22.7 | 516/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-01 | 2015-176-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-02-15 | 2015-176-20-22.9 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-08-31 | 2015-176-20-22.10 | 416/2020. (VIII. 30.) Korm. rendelet |

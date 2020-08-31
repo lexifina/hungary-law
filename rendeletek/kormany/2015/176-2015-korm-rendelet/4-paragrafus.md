@@ -16,7 +16,7 @@
 
 (5)[^2] A személytaxi-szolgáltatás sárga alapszínű állandó rendszámtáblával ellátott személygépkocsival végezhető. E rendelkezést nem kell alkalmazni, ha a személytaxi-szolgáltatást olyan környezetkímélő gépkocsival végzik, amelyhez világoszöld alapszínű különleges rendszámtáblát adtak ki.
 
-(6) A személygépkocsis személyszállító szolgáltatás fehér alapszínű, sorozatban előállított, állandó rendszámtáblával és regisztrációs matricával ellátott személygépkocsival végezhető.
+(6)[^3] A személygépkocsis személyszállító szolgáltatás fehér alapszínű, sorozatban előállított, állandó rendszámtáblával és regisztrációs matricával ellátott személygépkocsival végezhető. E rendelkezést nem kell alkalmazni, ha a személygépkocsis személyszállító szolgáltatást olyan környezetkímélő gépkocsival végzik, amelyhez világoszöld alapszínű különleges rendszámtáblát adtak ki.
 
 (7) A személytaxi-szolgáltatásra kiadott tevékenységi engedélyben és az engedélykivonatban az engedély kiadása iránti kérelemben foglaltak alapján meg kell határozni azt a területet (a továbbiakban: működési terület), ahol a vállalkozás a személyszállítási szolgáltatást végezheti. A működési terület lehet
 
@@ -42,8 +42,9 @@ e) meghatározott település, vagy települések területe.
 
 (13) A személygépkocsis személyszállító szolgáltatásra kiadott tevékenységi engedély alapján e szolgáltatás az ország egész területén végezhető.
 
-(14)[^3] Személyszállító szolgáltatásra vonatkozó tevékenységi engedély nélkül végezhet személygépkocsis személyszállító szolgáltatást az a vállalkozás, amely rendelkezik autóbusszal díj ellenében végzett személyszállítási tevékenységre vonatkozó érvényes közúti személyszállítási engedéllyel, amennyiben kizárólag az autóbusszal általa nyújtott közúti közlekedési szolgáltatáshoz közvetlenül kapcsolódóan nyújtja a személygépkocsis személyszállító szolgáltatást. Az ilyen vállalkozásra, a tevékenységi engedélyre, továbbá a tevékenységi engedély kiadásának feltételeire, kiadására és visszavonására a 4. § (2)–(13) bekezdésében, az 5. § (1) bekezdésében, a 6–8. §-ban, a 12. §-ban, a 13. §-ban, a 15. § (1)–(6) bekezdésében, az 1. és a 2. mellékletben meghatározott rendelkezések helyett a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.
+(14)[^4] Személyszállító szolgáltatásra vonatkozó tevékenységi engedély nélkül végezhet személygépkocsis személyszállító szolgáltatást az a vállalkozás, amely rendelkezik autóbusszal díj ellenében végzett személyszállítási tevékenységre vonatkozó érvényes közúti személyszállítási engedéllyel, amennyiben kizárólag az autóbusszal általa nyújtott közúti közlekedési szolgáltatáshoz közvetlenül kapcsolódóan nyújtja a személygépkocsis személyszállító szolgáltatást. Az ilyen vállalkozásra, a tevékenységi engedélyre, továbbá a tevékenységi engedély kiadásának feltételeire, kiadására és visszavonására a 4. § (2)–(13) bekezdésében, az 5. § (1) bekezdésében, a 6–8. §-ban, a 12. §-ban, a 13. §-ban, a 15. § (1)–(6) bekezdésében, az 1. és a 2. mellékletben meghatározott rendelkezések helyett a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.
 
 [^1]: A 4. § (1) bekezdése a 8/2016. (II. 9.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^2]: A 4. § (5) bekezdése a 8/2016. (II. 9.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^3]: A 4. § (14) bekezdését a 8/2016. (II. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^3]: A 4. § (6) bekezdése a 416/2020. (VIII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 4. § (14) bekezdését a 8/2016. (II. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be.
