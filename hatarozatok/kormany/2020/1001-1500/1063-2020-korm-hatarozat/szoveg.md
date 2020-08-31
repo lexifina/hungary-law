@@ -70,7 +70,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2020. június 30.
 
-1.10. felhívja az emberi erőforrások miniszterét, a Miniszterelnökséget vezető minisztert és a Kormánybiztost, hogy gondoskodjanak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvényben az 1.6. alpont szerinti feladatokhoz biztosított előirányzat – XX. Emberi Erőforrások Minisztériuma fejezet és XI. Miniszterelnökség fejezet közötti – átcsoportosításáról.
+1.10.[^1] felhívja az emberi erőforrások miniszterét, a Miniszterelnökséget vezető minisztert és a Kormánybiztost, hogy gondoskodjanak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvényben az 1.6. alpont szerinti feladatokhoz biztosított előirányzat – XX. Emberi Erőforrások Minisztériuma fejezet és XI. Miniszterelnökség fejezet közötti – átcsoportosításáról.
 
 Felelős: emberi erőforrások minisztere
 
@@ -78,13 +78,14 @@ Miniszterelnökséget vezető miniszter
 
 kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-Határidő: e határozat közzétételét követő 30 napon belül
+Határidő: 2020. szeptember 30-ig
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^2]
 
-4.[^2]
+4.[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.10. alpontja az 1565/2020. (VIII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
