@@ -1,0 +1,9 @@
+# 378/2020. (VIII. 31.) KE határozat
+
+a Kúria elnökhelyettesének kinevezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-378-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2020-08-31 | 2020-378-30-76.1 | 378/2020. (VIII. 31.) KE határozat |
