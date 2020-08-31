@@ -1,1 +1,3 @@
-8. §
+8. § Az Nkt. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett az állami köznevelési közfeladat-ellátás keretében, a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon nyújtható. Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja.”
