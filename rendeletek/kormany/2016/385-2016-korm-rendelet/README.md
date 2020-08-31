@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-385-20-
 | 2020-03-01 | 2016-385-20-22.14 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-06-30 | 2016-385-20-22.15 | 303/2020. (VI. 29.) Korm. rendelet |
 | 2020-07-31 | 2016-385-20-22.16 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2020-08-31 | 2016-385-20-22.17 | 418/2020. (VIII. 30.) Korm. rendelet |
