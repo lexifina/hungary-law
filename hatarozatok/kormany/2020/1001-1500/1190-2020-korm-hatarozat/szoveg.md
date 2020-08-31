@@ -108,11 +108,12 @@ szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkci
 
 17. Ez a határozat – a 18. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
-18. A 19. pont 2020. szeptember 1-jén lép hatályba.
+18.[^1]
 
-19.[^1]
+19.[^2]
 
-20.[^2]
+20.[^3]
 
-[^1]: A 19. pont a 18. pont alapján 2020. szeptember 1-jén lép hatályba.
-[^2]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^2]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
+[^3]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
