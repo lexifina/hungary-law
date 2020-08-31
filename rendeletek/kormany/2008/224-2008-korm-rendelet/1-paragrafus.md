@@ -58,7 +58,9 @@ i)[^22] veszélyes anyaggal, illetve veszélyes keverékkel végzett tevékenys�
 
 j)[^23] az anyagok osztályozásának és címkézésének harmonizálása kapcsán a gyártó, importőr és továbbfelhasználó adatszolgáltatási kötelezettségét, valamint a szállítók általános információ-megőrzési kötelezettségét meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 37. cikk (6) bekezdésében és 49. cikkében előírtakat megsérti,
 
-k)[^24] az osztályozási és címkézési jegyzékbe történő bejelentési kötelezettséget meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 40. cikkében és 41. cikkében előírtakat megsérti.
+k)[^24] az osztályozási és címkézési jegyzékbe történő bejelentési kötelezettséget meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 40. cikkében és 41. cikkében előírtakat megsérti;
+
+l)[^25] a méregközpontba történő bejelentésre vonatkozó kötelezettségét, így a Kbtv. 8/A. §-ában és az 1272/2008/EK európai parlamenti és tanácsi rendelet 45. cikkében előírtakat megsérti.
 
 (4) Különös méltánylást érdemlő esetben, a 2. § szerinti szempontok érvényre juttatása érdekében, az eset összes körülményeire tekintettel a (2) bekezdésben foglalt kötelezettségszegések esetén a bírság kivételesen az ott meghatározott legkisebb összegnél alacsonyabb mértékben is megállapítható, de nem lehet kevesebb 100 000 forintnál.
 
@@ -86,3 +88,4 @@ k)[^24] az osztályozási és címkézési jegyzékbe történő bejelentési k�
 [^22]: Az 1. § (3) bekezdés i) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.
 [^23]: Az 1. § (3) bekezdés j) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^24]: Az 1. § (3) bekezdés k) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^25]: Az 1. § (3) bekezdés l) pontját a 418/2020. (VIII. 30.) Korm. rendelet 1. §-a iktatta be.
