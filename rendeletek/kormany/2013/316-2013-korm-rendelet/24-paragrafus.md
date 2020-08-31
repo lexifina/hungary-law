@@ -6,9 +6,12 @@
 
 (3)[^54] Az 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet alapján már értékelt vagy értékelés alatt álló, azonban az adott terméktípus vonatkozásában még nem jóváhagyott, létező hatóanyagokat tartalmazó biocid termékre kiadott engedély a jóváhagyást megelőzően legalább három hónappal, értékelést igénylő változás esetén is módosítható a terméktípus vonatkozásában.
 
-(4)[^55] Az 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet alapján már értékelt vagy értékelés alatt álló, azonban az adott terméktípus vonatkozásában még nem jóváhagyott, létező hatóanyagokat tartalmazó biocid termék forgalmazásának és felhasználásának engedélyezése legkésőbb a jóváhagyást megelőzően három hónappal kérelmezhető.
+(3a)[^55] Ha az 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet alapján már értékelt vagy még nem értékelt, az adott terméktípus vonatkozásában még nem jóváhagyott, létező hatóanyagokat tartalmazó biocid termékre kiadott engedély olyan termékre kerül megadásra, amely az engedély kiadásakor jogszerűen van forgalomban, az engedélyező hatóság a már forgalomba hozott termékek forgalmazására legfeljebb 180 nap, felhasználására pedig további 180 nap türelmi időt biztosíthat, kivéve, ha a biocid termék további forgalmazása vagy felhasználása az emberi egészségre, az állati egészségre vagy a környezetre nézve elfogadhatatlan kockázatot jelent.
+
+(4)[^56] Az 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet alapján már értékelt vagy értékelés alatt álló, azonban az adott terméktípus vonatkozásában még nem jóváhagyott, létező hatóanyagokat tartalmazó biocid termék forgalmazásának és felhasználásának engedélyezése legkésőbb a jóváhagyást megelőzően három hónappal kérelmezhető.
 
 [^52]: A 24. § (1) bekezdése a 169/2014. (VII. 18.) Korm. rendelet 18. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 112. §-a szerint módosított szöveg.
 [^53]: A 24. § (2) bekezdése a 169/2014. (VII. 18.) Korm. rendelet 20. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 112. §-a szerint módosított szöveg.
 [^54]: A 24. § (3) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 112. §-a szerint módosított szöveg.
-[^55]: A 24. § (4) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
+[^55]: A 24. § (3a) bekezdését a 418/2020. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^56]: A 24. § (4) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 43. §-a iktatta be.
