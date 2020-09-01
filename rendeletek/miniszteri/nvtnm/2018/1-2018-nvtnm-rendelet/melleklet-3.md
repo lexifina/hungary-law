@@ -1,6 +1,12 @@
 ## Tulajdonosi jogokat gyakorló költségvetési szervek
 
-## I.
+## I. Tulajdonosi joggyakorló: Társadalmi Esélyteremtési Főigazgatóság
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Gandhi Gimnázium Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 02-09-077830 | 2022. december 31. |
 
 ## II. Tulajdonosi joggyakorló: a Szociális és Gyermekvédelmi Főigazgatóság
 
