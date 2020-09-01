@@ -4,6 +4,8 @@
 
 (3) Az Érdemérem átadására a március 15-i és az október 23-i nemzeti ünnep alkalmából kerül sor.
 
-(4) Az Érdemérem díszdobozban elhelyezett ezüstérem, melyhez az adományozást igazoló oklevél kapcsolódik. Az ezüstérem átmérője 80 mm, vastagsága 3 mm. Előlapján középen az „Állami Vagyongazdálkodásért Érdemérem” felirat, felette Magyarország címere, alatta az adományozás éve, hátlapján az állami vagyongazdálkodást szimbolizáló ábra látható.
+(4)[^4] Az Érdemérem díszdobozban elhelyezett ezüstérem, melyhez az adományozást igazoló oklevél kapcsolódik. Az ezüstérem átmérője 65 mm, vastagsága 3 mm. Előlapján középen az „Állami Vagyongazdálkodásért Érdemérem” felirat, felette Magyarország címere, alatta az adományozás éve, hátlapján az állami vagyongazdálkodást szimbolizáló ábra látható.
 
 (5) Az Érdeméremhez 600 000 Ft nettó összegű pénzjutalom adható.
+
+[^4]: A 9. § (4) bekezdése a 11/2020. (VIII. 31.) NVTNM rendelet 5. §-a szerint módosított szöveg.

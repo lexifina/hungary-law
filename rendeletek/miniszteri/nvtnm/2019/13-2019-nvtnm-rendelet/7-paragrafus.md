@@ -2,4 +2,10 @@
 
 7. § (1) A (2) bekezdésben foglaltak kivételével a miniszter által adományozható elismerésekkel összefüggő kiadások fedezetét a Miniszterelnöki Kormányiroda igazgatási költségvetésében kell előirányozni.
 
-(2) A miniszter irányítása vagy felügyelete alá tartozó szerv vagy a miniszter tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaság vezetője által miniszteri elismerésre jelölt személy jutalmazásának fedezetét annak a szervnek vagy gazdasági társaságnak a költségvetése biztosítja, amelynek vezetője a jutalmazást kezdeményezi.
+(2)[^2] A miniszter
+
+a) irányítása vagy felügyelete alá tartozó szerv vezetője vagy általános helyettese vagy
+
+b) tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaság vezető tisztségviselője, illetve részvénytársaság esetén vezérigazgatója vagy vezérigazgató-helyettese, korlátolt felelősségű társaság esetén ügyvezetője vagy az ügyvezető helyettesítésére jogosult vezetője
+
+[^2]: A 7. § (2) bekezdése a 11/2020. (VIII. 31.) NVTNM rendelet 4. §-ával megállapított szöveg.
