@@ -2,7 +2,7 @@
 
 a) a szabadság időtartama alatt,
 
-b) az Mt. 55. § (1) bekezdés c)–g) pontjában meghatározott esetben,
+b) az Mt. 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
 
 c) az állampolgári kötelezettség teljesítésének időtartamára,
 
