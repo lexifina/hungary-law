@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2019-12-20 | 2019. évi CXXVII. törvény | 2011-162-00-00.30 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2011-162-00-00.31 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2011-162-00-00.32 |
+| 2020-09-01 | 2020. évi LXV. törvény | 2011-162-00-00.33 |
