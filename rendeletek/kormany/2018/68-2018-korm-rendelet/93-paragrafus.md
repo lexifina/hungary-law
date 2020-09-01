@@ -56,4 +56,8 @@
 
 10. a kulturális javak fegyveres összeütközés esetén való védelme tárgyában Hágában, 1954. évi május hó 14. napján kelt nemzetközi egyezmény, valamint az ahhoz csatolt jegyzőkönyv (a kulturális javak háború idején megszállott területről való kivitelének tilalma tárgyában) kihirdetéséről szóló 1957. évi 14. törvényerejű rendelet, valamint a kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény Második Kiegészítő Jegyzőkönyvének kihirdetéséről és a Büntető Törvénykönyvről szóló 1978. évi IV. törvény módosításáról szóló 2006. évi XXIX. törvény végrehajtásából eredő, kulturális javakkal kapcsolatos hatósági és központi hivatali feladatokat más érintett szervekkel együttműködésben,
 
-11. a hatósági letétről, valamint a közigazgatási hatósági eljárás során zár alá vett vagy lefoglalt dolgok tárolásáról és értékesítéséről szóló 18/2017. (XII. 15.) IM rendeletben foglalt feladatokat.
+11. a hatósági letétről, valamint a közigazgatási hatósági eljárás során zár alá vett vagy lefoglalt dolgok tárolásáról és értékesítéséről szóló 18/2017. (XII. 15.) IM rendeletben foglalt feladatokat,
+
+12.[^39] a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendeletben az illetékes hatóság feladatait.
+
+[^39]: A 93. § 12. pontját a 367/2020. (VII. 28.) Korm. rendelet 4. §-a iktatta be.
