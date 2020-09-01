@@ -1,6 +1,6 @@
 ## 35. § A vezetői engedély helyszíni elvételére vonatkozó rendelkezéseket valamennyi járművezetésre jogosító okmányra alkalmazni kell.
 
-36. § (1)[^128] A közlekedési igazgatási hatóság a vezetési jogosultság szünetelésének elrendelésével korlátozza a közúti közlekedésben járművezetőként történő részvételét annak,
+36. § (1)[^128] A közlekedési igazgatási hatóság a vezetési jogosultság szünetelésének elrendelésével korlátozza a közúti közlekedésben járművezetőként vagy járművezető jelöltként történő részvételét annak,
 
 a) aki a 32. § a) vagy c) pontjában meghatározott jogsértés elkövetésével magalapozottan gyanúsítható,
 
@@ -14,7 +14,7 @@ d) akinek a vezetői engedélyét a közúti közlekedési előéleti pontrendsz
 
 (3) Szünetel a vezetésre való jogosultság:
 
-a)[^130] a közlekedésbiztonsági alkalmatlanság jogerős vagy végleges megállapításának napjától az alkalmasság igazolásának a közlekedési igazgatási hatóság előtti bemutatás időpontjáig, ha a járművezető a járművezetésre közlekedésbiztonsági szempontból alkalmatlan,
+a)[^130] a közlekedésbiztonsági alkalmatlanság jogerős vagy végleges megállapításának napjától az alkalmasság igazolásának a közlekedési igazgatási hatóság előtti bemutatás időpontjáig, ha a járművezető vagy járművezető jelölt a járművezetésre közlekedésbiztonsági szempontból alkalmatlan,
 
 b)[^131] a büntetőeljárás jogerős befejezéséig:
 
@@ -28,9 +28,9 @@ c) a közúti járművek vezetésétől történő eltiltás lejáratának a nap
 
 d)[^132] az alkalmas minősítésű igazolás közlekedés igazgatási hatóság előtti bemutatásáig
 
-da)[^133] az alkalmatlanság megállapításának a napjától, ha a járművezetőt egészségi, pályaalkalmassági szempontból járművezetésre alkalmatlannak minősítették,
+da)[^133] az alkalmatlanság megállapításának a napjától, ha a járművezetőt vagy a járművezető jelöltet egészségi, pályaalkalmassági szempontból járművezetésre alkalmatlannak minősítették,
 
-db)[^134] az eljáró hatóság értesítése alapján az elmulasztott határnaptól, ha a soron kívül elrendelt vagy kezdeményezett egészségi, vagy rendkívüli pályaalkalmassági vizsgálaton a járművezető önhibájából nem jelent meg,
+db)[^134] az eljáró hatóság értesítése alapján az elmulasztott határnaptól, ha a soron kívül elrendelt vagy kezdeményezett egészségi, vagy rendkívüli pályaalkalmassági vizsgálaton a járművezető vagy járművezető jelölt önhibájából nem jelent meg,
 
 dc)[^135] a pályaalkalmassági szempontból időtartamra korlátozott alkalmas minősítés lejárta esetén, vagy
 
@@ -68,13 +68,13 @@ d) a 32. § c) pontja esetén az ellenőrző hatóság intézkedéséről szól�
 
 (14)[^145] A (12)–(13) bekezdés szerinti esetben a vezetési jogosultság szünetelése a közlekedési igazgatási hatóság erről szóló határozata véglegessé válásának napján veszi kezdetét, és a vezetői engedély leadásának vagy helyszíni elvételének napjáig tart.
 
-[^128]: A 36. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (2) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^128]: A 36. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (2) bekezdésével megállapított, nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^129]: A 36. § (2) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^130]: A 36. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^130]: A 36. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § e) pontja, a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
 [^131]: A 36. § (3) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^132]: A 36. § (3) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^133]: A 36. § (3) bekezdés d) pont da) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.
-[^134]: A 36. § (3) bekezdés d) pont db) alpontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^133]: A 36. § (3) bekezdés d) pont da) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § f) pontja, a 317/2020. (VII. 1.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^134]: A 36. § (3) bekezdés d) pont db) alpontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (3) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
 [^135]: A 36. § (3) bekezdés d) pont dc) alpontját a 441/2015. (XII. 28.) Korm. rendelet 154. § (3) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^136]: A 36. § (3) bekezdés e) pontja a 248/2019. (X. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^137]: A 36. § (3a) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
