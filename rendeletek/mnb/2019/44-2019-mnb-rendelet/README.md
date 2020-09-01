@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-44-20-2
 | --- | --- | --- |
 | 2020-03-02 | 2019-44-20-2C.1 | 44/2019. (XII. 17.) MNB rendelet |
 | 2020-03-03 | 2019-44-20-2C.2 | 2010: CXXX. törvény |
+| 2020-09-01 | 2019-44-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
