@@ -1,19 +1,16 @@
 ## 14. § A Vhr4.
 
-a)[^37]
+a)[^32]
 
-b)[^38]
+b) 36. § (1) bekezdésében a „járművezetőként” szövegrész helyébe a „járművezetőként vagy járművezető jelöltként” szöveg,
 
-c)[^39]
+c)[^33]
 
-d)[^40]
+d) 36. § (3) bekezdés a) pontjában és d) pont db) alpontjában, a 41. § (1) bekezdés a)–c) pontjában, a 41. § (2) bekezdés nyitó szövegrészében és a) pontjában a „járművezető” szövegrész helyébe a „járművezető vagy járművezető jelölt” szöveg,
 
-e)[^41]
+e) 36. § (3) bekezdés d) pont da) alpontjában és a 41. § (1) bekezdés d) pontjában a „járművezetőt” szövegrész helyébe a „járművezetőt vagy a járművezető jelöltet” szöveg
 
 lép.
 
-[^37]: A 14. § a) pontja a 17. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^38]: A 14. § b) pontja a 17. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^39]: A 14. § c) pontja a 17. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^40]: A 14. § d) pontja a 17. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^41]: A 14. § e) pontja a 17. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^32]: A 14. § a) pontja a 17. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^33]: A 14. § c) pontja a 17. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
