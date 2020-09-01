@@ -10,7 +10,7 @@ c) állapítsa meg az azonosítási vizsgálatban, a kijelölési eljárásban, 
 
 d) állapítsa meg az ágazati és a horizontális kritériumokat,
 
-e) határozza meg a 9. § és a 12.§ szerint kiszabható közigazgatási bírság mértékét, a közigazgatási bírság kiszabására vonatkozó eljárás rendjét,
+e) határozza meg a 2. § és a 9. § szerint kiszabható helyszíni és közigazgatási bírság mértékét, a helyszíni és közigazgatási bírság kiszabására vonatkozó eljárás rendjét,
 
 f) jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok szolgáltatására és a nyilvántartásból történő adatigénylés rendjére vonatkozó részletes eljárási szabályokat,
 

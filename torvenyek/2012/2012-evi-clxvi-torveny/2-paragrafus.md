@@ -44,6 +44,8 @@ c) az üzemeltető részére előírhat a létfontosságú rendszerelem védelm�
 
 (8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság figyelmeztetést tartalmazó döntésében, határidő megállapításával felhívja az üzemeltetőt az azonosítási jelentés benyújtására.
 
+(8a) Az azonosítási jelentés benyújtásának elmulasztása esetén kormányrendeletben meghatározott mértékű bírság kiszabásának van helye.
+
 (9) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága az 1. mellékletben meghatározott, nem honvédelmi ágazatba tartozó rendszerelemet honvédelmi érdekből, kormányrendeletben meghatározott honvédelmi kritériumok alapján, horizontális kritériumok vizsgálata nélkül nemzeti létfontosságú rendszerelemmé (a továbbiakban: ágazaton kívüli honvédelmi rendszerelem) kijelölheti.
 
 (10) Ágazaton kívüli honvédelmi rendszerelem kijelölésére irányuló eljárásban a szakhatósági megkeresés mellőzhető, amennyiben a honvédelmi ágazati kijelölő hatóság által kijelölni kívánt rendszerelem már kijelölt létfontosságú rendszerelem.
