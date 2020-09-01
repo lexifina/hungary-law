@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-20-20-5
 | 2019-09-02 | 2019-20-20-5H.2 | 2010: CXXX. törvény |
 | 2019-10-01 | 2019-20-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-10-02 | 2019-20-20-5H.4 | 2010: CXXX. törvény |
+| 2020-09-01 | 2019-20-20-5H.5 | 14/2020. (IV. 16.) EMMI rendelet |
