@@ -70,6 +70,8 @@
 
 ## 9. A B. és a C. Függelék mellékletei a 167/2013/EU európai parlamenti és tanácsi rendelettel és a 168/2013/EU európai parlamenti és tanácsi rendelettel összhangban az 1/B. és 1/C. táblázat szerint értelmezendőek. A 2016. január 1-jét megelőzően típusjóváhagyott járművek esetében a 167/2013/EU európai parlamenti és tanácsi rendeletet, valamint a 168/2013/EU európai parlamenti és tanácsi rendeletet nem kell alkalmazni.
 
+## 10. Az A. Függelék mellékletei a 2018/858 európai parlamenti és tanácsi rendelettel összhangban az 1/A. táblázat szerint értelmezendőek. A 2020. szeptember 1-jét megelőzően típusjóváhagyott járművek esetében a 2018/858 európai parlamenti és tanácsi rendelet előírásait nem kell alkalmazni.
+
 ## 1. számú táblázat
 
 ## Jóváhagyási kötelezettségek
@@ -296,7 +298,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## 0X03325M_1
+## 0X05274P_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -740,7 +742,7 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^375]
+1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^376]
 
 A gépjármű és pótkocsija közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészeinek és tartozékainak minősítési követelményei
 
@@ -768,4 +770,4 @@ tekintetében meghatározott minősítési követelményeknek.
 
 7. Az e melléklet szerinti minősítési követelmények vizsgálatát a jogszabályban meghatározott vagy egyéb vonatkozó kötelező előírás – így különösen ENSZ-EGB előírás – szerint kell elvégezni. Kötelező előírás hiányában a vizsgálatot a vonatkozó szabvány betartásával vagy attól részben vagy teljesen eltérő módon kell elvégezni, ha a vizsgálat egyenértékűségét a kérelmező igazolja. Az előzőek hiányában összehasonlító vizsgálatot kell végezni a gépjármű és pótkocsija gyártása (gyári szerelése) során beépített alkatrész és a pótalkatrész között, azzal, hogy a működésmód és paraméterek vizsgálatánál a helyes működést tanúsító jellemző adatokat ilyen esetben műszeres próbapadi vagy üzemi összehasonlító vizsgálattal kell ellenőrizni.
 
-[^375]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
+[^376]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.

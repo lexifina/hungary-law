@@ -118,6 +118,8 @@
 
 58.[^371] a járművek hátuljára szerelt aerodinamikai eszközöknek a 96/53/EK tanácsi irányelv szerinti használatára vonatkozó részletes rendelkezések megállapításáról szóló, 2019. november 15-i (EU) 2019/1916 bizottsági végrehajtási rendelet,
 
+59.[^372] a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^340]: A 121. §-t a 45/2007. (IV. 4.) GKM rendelet 3. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 5. §-ával megállapított szöveg.
@@ -152,3 +154,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^369]: A 121. § 56. pontját a 28/2018. (XI. 15.) ITM rendelet 17. §-a iktatta be.
 [^370]: A 121. § 57. pontját a 36/2019. (IX. 20.) ITM rendelet 5. §-a iktatta be.
 [^371]: A 121. § 58. pontját a 29/2020. (VII. 17.) ITM rendelet 6. § (1) bekezdése iktatta be.
+[^372]: A 121. § 59. pontját a 29/2020. (VII. 17.) ITM rendelet 6. § (2) bekezdése iktatta be.
