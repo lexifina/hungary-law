@@ -1,1 +1,0 @@
-## 17. § E rendelet alkalmazásakor az Eütv. 67/A. § (4) bekezdése szerint kell eljárni akkor is, ha az 5. § (3) bekezdés és a 8. § (3) bekezdés b) pontja esetén a járványügyi intézkedés alá vont személy részére megfelelő lakás, ahhoz tartozó bekerített hely hiányában hatósági házi karantén kijelölésére nem volt lehetőség.
