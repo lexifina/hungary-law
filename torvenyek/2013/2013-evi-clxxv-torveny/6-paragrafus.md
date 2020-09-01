@@ -29,3 +29,5 @@ hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása célj�
 i) a járási hivatal a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat,
 
 j) az egyéni vállalkozók nyilvántartását vezető szerv az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági feladatainak ellátásához, továbbá a jogszabály alapján személyazonosság igazolására alkalmas hatósági igazolvány kiadására feladat- és hatáskörrel rendelkező szerv személyazonosság igazolására alkalmas hatósági igazolvány kiadásával kapcsolatos eljárása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–e) pontjában szereplő adatokat.
+
+(3) A közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság a cselekvőképesség és a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult megismerni és kezelni a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és a 3. § (1) bekezdés b)–e) pontjában szereplő adatokat.
