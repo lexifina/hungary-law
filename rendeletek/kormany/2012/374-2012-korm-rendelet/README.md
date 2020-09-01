@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2019-08-03 | 2012-374-20-22.15 | 184/2019. (VII. 26.) Korm. rendelet |
 | 2020-02-20 | 2012-374-20-22.16 | 14/2020. (II. 12.) Korm. rendelet |
 | 2020-06-19 | 2012-374-20-22.17 | 266/2020. (VI. 11.) Korm. rendelet |
+| 2020-09-01 | 2012-374-20-22.18 | 369/2020. (VII. 28.) Korm. rendelet |

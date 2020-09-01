@@ -112,7 +112,9 @@
 
 56.[^52] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a motorrendszerekben alkalmazott egyes gumi alkatrészekben lévő bisz(2-etil-hexil)-ftalátra (DEHP) vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. augusztus 8-i (EU) 2019/1845 felhatalmazáson alapuló bizottsági irányelvnek,
 
-57.[^53] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az egyes belső égésű motorokban használt forrasztásokban lévő ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. augusztus 8-i (EU) 2019/1846 felhatalmazáson alapuló bizottsági irányelvnek
+57.[^53] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az egyes belső égésű motorokban használt forrasztásokban lévő ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. augusztus 8-i (EU) 2019/1846 felhatalmazáson alapuló bizottsági irányelvnek,
+
+58.[^54] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, az egyes sugárzástűrő videókamera-csövekben használt kadmiumra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/364 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -147,3 +149,4 @@ való megfelelést szolgálja.
 [^51]: A 16. § 55. pontját a 14/2020. (II. 12.) Korm. rendelet 1. §-a iktatta be.
 [^52]: A 16. § 56. pontját a 266/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
 [^53]: A 16. § 57. pontját a 266/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^54]: A 16. § 58. pontját a 369/2020. (VII. 28.) Korm. rendelet 1. §-a iktatta be.
