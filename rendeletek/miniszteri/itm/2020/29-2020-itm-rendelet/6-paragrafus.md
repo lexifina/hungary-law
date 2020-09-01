@@ -1,9 +1,10 @@
-## 5. §[^7]
+## 5. §[^5]
 
-6. § (1)[^8]
+6. § (1)[^6]
 
-(2)[^9]
+(2) Az MR. 121. §-a a következő 59. ponttal egészül ki:
 
-[^7]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § (2) bekezdése a 11. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+(Ez a rendelet)
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

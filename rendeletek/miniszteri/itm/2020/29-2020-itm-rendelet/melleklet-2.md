@@ -1,3 +1,3 @@
-2. melléklet a 29/2020. (VII. 17.) ITM rendelethez[^15]
+2. melléklet a 29/2020. (VII. 17.) ITM rendelethez[^8]
 
-[^15]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
