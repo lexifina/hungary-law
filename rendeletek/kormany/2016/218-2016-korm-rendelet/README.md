@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-218-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-08-06 | 2016-218-20-22.1 | 218/2016. (VII. 22.) Korm. rendelet |
+| 2020-09-01 | 2016-218-20-22.2 | 245/2020. (V. 28.) Korm. rendelet |
