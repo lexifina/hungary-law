@@ -1,4 +1,4 @@
-## 12. §[^12]
+## lép.
 
 ## 3. Záró rendelkezések
 
@@ -7,5 +7,3 @@
 (2) A 6–12. § 2020. szeptember 1-jén lép hatályba.
 
 (3) A 2. § 2021. július 1-jén lép hatályba.
-
-[^12]: A 12. § a 13. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
