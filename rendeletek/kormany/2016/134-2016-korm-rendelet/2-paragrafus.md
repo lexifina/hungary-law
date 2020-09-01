@@ -24,22 +24,23 @@ gc) a középfokú beiskolázás központi írásbeli felvételi vizsgái megsze
 
 lebonyolításában,
 
-h) közreműködik valamennyi, az Országos Képzési Jegyzékben szereplő szakképesítéssel kapcsolatos szakmai vizsga központi írásbeli tételeinek, központi gyakorlati feladatainak, valamint azok megoldásainak szétosztásában,
+h)[^1]
 
 i) jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt,
 
 j) a fenntartásába tartozó köznevelési intézményekre vonatkozó fejlesztési tervet készít,
 
-k)[^1] kiadja a köznevelési intézmények szakmai alapdokumentumait,
+k)[^2] kiadja a köznevelési intézmények szakmai alapdokumentumait,
 
-l)[^2] ellátja a jogszabályban és az alapító okiratában meghatározott további feladatokat.
+l)[^3] ellátja a jogszabályban és az alapító okiratában meghatározott további feladatokat.
 
 (2) A tankerületi központ részt vesz a Klebelsberg Képzési Ösztöndíj működtetésében.
 
 (3) A Klebelsberg Központ a tankerületi központok fenntartói tevékenységét illetően biztosítja a központi, ágazati oktatáspolitikai szakmai iránymutatások tankerületi központokban történő egységes érvényesülését.
 
-(4)[^3] A tankerületi központ a hazai és az európai uniós forrásokból megvalósítandó pályázati és projekttevékenységét a Klebelsberg Központtal együttműködve, annak iránymutatásai alapján végzi.
+(4)[^4] A tankerületi központ a hazai és az európai uniós forrásokból megvalósítandó pályázati és projekttevékenységét a Klebelsberg Központtal együttműködve, annak iránymutatásai alapján végzi.
 
-[^1]: A 2. § (1) bekezdés k) pontja a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés l) pontját a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^3]: A 2. § (4) bekezdését a 308/2017. (X. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^1]: A 2. § (1) bekezdés h) pontját a 417/2020. (VIII. 30.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdés k) pontja a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdés l) pontját a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § (4) bekezdését a 308/2017. (X. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.

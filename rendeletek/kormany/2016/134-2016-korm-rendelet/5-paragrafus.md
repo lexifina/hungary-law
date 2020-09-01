@@ -22,7 +22,7 @@ hatásköröket.
 
 6. szükség esetén javaslatot tesz az oktatásért felelős miniszter felé az erőforrások tankerületi központok közötti átcsoportosítására, illetve egyéb intézkedésre,
 
-7.[^9] a tankerületi központnak az Álláshely Nyilvántartó Rendszerrel kapcsolatos hatáskörét nem érintve, folyamatos nyilvántartást vezet a tankerületi központok gazdálkodásáról, így különösen az előirányzatokkal és az álláshelyalapú létszámmal való gazdálkodásról, valamint összegyűjti és ellenőrzi a kötelező, rendszeres és eseti jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat az irányító szerv felé,
+7.[^10] a tankerületi központnak az Álláshely Nyilvántartó Rendszerrel kapcsolatos hatáskörét nem érintve, folyamatos nyilvántartást vezet a tankerületi központok gazdálkodásáról, így különösen az előirányzatokkal és az álláshelyalapú létszámmal való gazdálkodásról, valamint összegyűjti és ellenőrzi a kötelező, rendszeres és eseti jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat az irányító szerv felé,
 
 8. gondoskodik az irányadó jogszabályok betartásáról, illetve betartatásáról, a jogszerű működés követelményeinek betartatásáról, feltételeinek biztosításáról, így szükség esetén javaslatot tesz a jogszabályi előírások kiegészítésére, pontosítására az irányító szerv felé,
 
@@ -46,9 +46,9 @@ hatásköröket.
 
 18. gyűjti a tankerületi központok által alkalmazott jó gyakorlatokat, és ezek alapján a tankerületi központok részére ajánlásokat fogalmaz meg,
 
-19.[^10] koordinálja a Klebelsberg Központ és a tankerületi központok vonatkozásában az egységes álláshelyalapú létszámgazdálkodás rendszerét,
+19.[^11] koordinálja a Klebelsberg Központ és a tankerületi központok vonatkozásában az egységes álláshelyalapú létszámgazdálkodás rendszerét,
 
-20.[^11] kizárólagos joggal ellátja a tankerületi központok által használt egységes informatikai rendszerek, elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos feladatokat, valamint ezen adatbázisok, rendszerek adatkezelésével kapcsolatos adatfeldolgozói feladatokat,
+20.[^12] kizárólagos joggal ellátja a tankerületi központok által használt egységes informatikai rendszerek, elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos feladatokat, valamint ezen adatbázisok, rendszerek adatkezelésével kapcsolatos adatfeldolgozói feladatokat,
 
 21. koordinálja a valamennyi tankerületi központot érintő szerződések megkötését, programok megvalósítását,
 
@@ -56,6 +56,6 @@ hatásköröket.
 
 (3) A Klebelsberg Központ (2) bekezdés 20. pontjában meghatározott kizárólagos üzemeltetési, fejlesztési és adatfeldolgozási kötelezettsége azon adatbázisokra és alkalmazásokra terjed ki, amelyeket ő maga hozott létre, vagy amelyek tekintetében a szoftverhez mint szerzői műhöz kapcsolódó felhasználási jogokat megszerezte.
 
-[^9]: Az 5. § (2) bekezdés 7. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^10]: Az 5. § (2) bekezdés 19. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^11]: Az 5. § (2) bekezdés 20. pontja a 275/2019. (XI. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^10]: Az 5. § (2) bekezdés 7. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdés 19. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (2) bekezdés 20. pontja a 275/2019. (XI. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

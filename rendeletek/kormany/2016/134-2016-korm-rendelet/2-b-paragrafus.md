@@ -1,6 +1,6 @@
-## 2/A. §[^4] A tankerületi központ a 2/B. § (3) bekezdése szerinti képviselőkből álló tankerületi tanácsot működtet.
+## 2/A. §[^5] A tankerületi központ a 2/B. § (3) bekezdése szerinti képviselőkből álló tankerületi tanácsot működtet.
 
-2/B. §[^5] (1) A tankerületi tanács a tankerületi központ mellett működő javaslattevő, véleményező, tanácsadó testület, amelynek célja
+2/B. §[^6] (1) A tankerületi tanács a tankerületi központ mellett működő javaslattevő, véleményező, tanácsadó testület, amelynek célja
 
 a) a helyi, területi, térségi társadalmi-gazdasági környezeti érdekek, célok összehangolása a tankerületi központ fenntartói tevékenységével kapcsolatos oktatásirányítási célokkal;
 
@@ -74,5 +74,5 @@ e) a megbízatása alapjául szolgáló jogviszonya megszűnik.
 
 (12) Ha a tag megbízatása a (11) bekezdés b)–e) pontja alapján szűnik meg, a tagot jelölő szerv, a (3) bekezdés b) pontja szerinti tag esetében a Klebelsberg Központ, valamint a (4) bekezdésben meghatározott szervek 30 napon belül új tagot jelölnek.
 
-[^4]: A 2/A. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
-[^5]: A 2/B. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 2/A. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 2/B. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.

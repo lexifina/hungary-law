@@ -1,4 +1,4 @@
-2/C. §[^6] (1) A tankerületi tanács működésének szabályait az ügyrendje határozza meg, amelyet a tankerületi tanács az alakuló ülésén fogad el.
+2/C. §[^7] (1) A tankerületi tanács működésének szabályait az ügyrendje határozza meg, amelyet a tankerületi tanács az alakuló ülésén fogad el.
 
 (2) A tankerületi tanács ügyrendjét az illetékes tankerületi központ honlapján nyilvánosságra kell hozni.
 
@@ -18,4 +18,4 @@ d) ellátja a tankerületi tanács képviseletét.
 
 (6) A tankerületi tanács vezetője évente egyszer beszámolót készít a tankerületi tanács működéséről, amelyet a tárgyévet követő év január 31. napjáig megküld a Klebelsberg Központ elnökének. A Klebelsberg Központ elnöke a beszámolót a tárgyévet követő év február 28. napjáig továbbítja az oktatásért felelős miniszternek.
 
-[^6]: A 2/C. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 2/C. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-20. §[^35] (1) A tankerületi központok 2020. április 1. napjával a Kit. 2. § (2) bekezdés e) pontjában meghatározott központi kormányzati igazgatási szervvé alakulnak át a Kit. 1/A. §-ában foglaltak szerint.
+20. §[^37] (1) A tankerületi központok 2020. április 1. napjával a Kit. 2. § (2) bekezdés e) pontjában meghatározott központi kormányzati igazgatási szervvé alakulnak át a Kit. 1/A. §-ában foglaltak szerint.
 
 (2) A Kit. 1/A. § (1) bekezdése szerinti foglalkoztatott alatt a tankerületi központ kormánytisztviselőit és kormányzati ügykezelőit kell érteni.
 
@@ -32,7 +32,7 @@ a Kttv. 2019. június 30-án hatályos rendelkezéseinek megfelelően kell telje
 
 (14) A tankerületi központot irányító oktatásért felelős miniszter 2020. október 31-éig elszámolást nyújt be az államháztartásért felelős miniszterhez a szabadságmegváltás jogcímén kifizetett összegekről. Az elszámolás formáját és tartalmát az államháztartásért felelős miniszter határozza meg.
 
-(15) A tankerületi központok alapító okirataiban az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet módosításáról szóló 56/2020. (III. 20.) Korm. rendelet (a továbbiakban: Mód. rendelet) alapján bekövetkezett változások törzskönyvi nyilvántartásba vételét az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 167/C. § (5) bekezdésében foglaltaktól eltérően a Mód. rendelet hatálybalépését[^36] követő 60 napon belül kell elvégezni.
+(15) A tankerületi központok alapító okirataiban az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet módosításáról szóló 56/2020. (III. 20.) Korm. rendelet (a továbbiakban: Mód. rendelet) alapján bekövetkezett változások törzskönyvi nyilvántartásba vételét az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 167/C. § (5) bekezdésében foglaltaktól eltérően a Mód. rendelet hatálybalépését[^38] követő 60 napon belül kell elvégezni.
 
-[^35]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 56/2020. (III. 20.) Korm. rendelet 3. §-a iktatta be.
-[^36]: A hatálybalépés időpontja 2020. április 1.
+[^37]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 56/2020. (III. 20.) Korm. rendelet 3. §-a iktatta be.
+[^38]: A hatálybalépés időpontja 2020. április 1.
