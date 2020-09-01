@@ -6,13 +6,13 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
 
-## 5. A Kormány hozzájárul ahhoz, hogy az 1. melléklet 2. pontjában foglalt táblázat 32. sora (SOFT CAPS gyakorlat) szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+## 5.[^2] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 30. sora (JACKAL CAVE) és az 1. melléklet 2. pontjában foglalt táblázat 32. sora (SOFT CAPS gyakorlat) szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
 
 ## 6. Ez a határozat 2020. január 1-jén lép hatályba.
 
-## 7.[^1]
+## 7.[^3]
 
-1. melléklet az 1686/2019. (XII. 10.) Korm. határozathoz
+1. melléklet az 1686/2019. (XII. 10.) Korm. határozathoz[^4]
 
 A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -64,7 +64,7 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 |  | 22. | SIBCRA | MHP HSZ SZF | Olaszország | III. negyedév | 5 |
 
-|  | 23. | YGGDRASIL gyakorlat | MHP HSZ SZF | Dánia | III. negyedév | 10 |
+|  | 23. | YGGDRASIL gyakorlat | MHP HSZ SZF | Dánia | III. negyedév | 20 |
 
 |  | 24. | MNCG DOUBLE RIVER | MHP HSZ SZF | Olaszország | III. negyedév | 10 |
 
@@ -119,6 +119,14 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 |  | 49. | MULTINATIONAL AIR GROUP gyakorlat | MHP HSZ LE | NATO/EU tagállamok | I–IV. negyedév | 200 |
 
 |  | 50. | CLEAN CARE | MH EK | Egyesült Királyság | III. negyedév | 8 |
+
+|  | 51. | STEADFAST JUPITER-JACKAL | MHP HSZ KM | Norvégia, Németország | IV. negyedév | 60 |
+
+|  | 52. | DECI EU Harccsoport felkészítés | HDMCSF | Olaszország | III–IV. negyedév | 50 |
+
+|  | 53. | TLP (Tactical Leadership Programme) | MHP HSZ LE | Spanyolország | III–IV. negyedév | 50 |
+
+|  | 54. | INFORMATIONS- LEHRÜBUNG 2020 (ILÜ20) gyakorlat | MHP HSZ LOG | Németország | III. negyedév | 50 |
 
 2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
@@ -184,7 +192,7 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 |  | 30. | PURPLE FIELD | MHP HSZ SZF | Szerbia | II. negyedév | 50 |
 
-|  | 31. | BRAVE WARRIOR | MHP HSZ SZF | Magyarország | IV. negyedév | 300 |
+|  | 31. | BRAVE WARRIOR | MHP HSZ SZF | Magyarország | III–IV. negyedév | 1500 |
 
 |  | 32. | SOFT CAPS gyakorlat | MH CKELMK | Magyarország | II. negyedév | 40 |
 
@@ -206,9 +214,9 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 |  | 41. | SAFETY FUEL | MHP HSZ LOG | Magyarország, Lengyelország, Németország | III–IV. negyedév | 60 |
 
-|  | 42. | EURASIAN BRIDGE 2020 gyakorlat | MH CKELMK | Törökország | III. negyedév | 4 |
+|  | 42. | EURASIAN BRIDGE 2020 gyakorlat | MH CKELMK | Törökország | IV. negyedév | 10 |
 
-|  | 43. | Tactical Information Operations Course | MH CKELMK | Németország | IV. negyedév | 2 |
+|  | 43. | Tactical Information Operations Course | MH CKELMK | Németország | IV. negyedév | 10 |
 
 |  | 44. | MATRIOSCA | MHP HSZ LE | Olaszország | I–III. negyedév | 20 |
 
@@ -231,6 +239,14 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 |  | 53. | BISON COUNTER | MH AA | Olaszország | II. negyedév | 10 |
 
 |  | 54. | Cyber Tesla kibervédelmi gyakorlat | KNBSZ | Szerbia | II–III. negyedév | 16 |
+
+|  | 55. | Magyar–belga KM/RL közös kiképzés és felkészítés | MHP HSZ KM | Magyarország | IV. negyedév | 15 |
+
+|  | 56. | SLOVAK SHIELD 2020 | KIKCSF | Szlovákia | III–IV. negyedév | 100 |
+
+|  | 57. | FNC MP CLUSTER gyakorlat | MH KRK | Németország | IV. negyedév | 30 |
+
+|  | 58. | Wide Wet Gap Crossing and Logistic Bridging technikai bemutató és gyakorlat | MHP HSZ SZF | Németország | IV. negyedév | 40 |
 
 3. Magyarország területén és légterén történő további áthaladások és átrepülések
 
@@ -290,4 +306,10 @@ A 2020. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 |  | 27. | TROJAN FOOTPRINT NORTH | I–IV. negyedév | egyidejűleg legfeljebb 1500 fő |
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+|  | 28. | EUNAVFOR MED IRINI misszió keretében történő áthaladások | II–IV. negyedév | egyidejűleg legfeljebb 500 fő |
+
+|  | 29. | NATO Iraki Misszió keretében történő áthaladások | III–IV. negyedév | egyidejűleg legfeljebb 500 fő |
+
+[^2]: Az 5. pont az 1564/2020. (VIII. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1564/2020. (VIII. 31.) Korm. határozat 2. pontja szerint módosított szöveg.

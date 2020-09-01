@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1686-30
 | --- | --- | --- |
 | 2020-01-01 | 2019-1686-30-22.1 | 1686/2019. (XII. 10.) Korm. határozat |
 | 2020-01-02 | 2019-1686-30-22.2 | 2010: CXXX. törvény |
+| 2020-09-01 | 2019-1686-30-22.3 | 1564/2020. (VIII. 31.) Korm. határozat |
