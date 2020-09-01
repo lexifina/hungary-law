@@ -10,24 +10,16 @@ d) a K5. Egyéb működési célú kiadások kiemelt előirányzaton 1 377 400 0
 
 összegben.
 
-2. A Hungary Helps Program keretében az Etióp Ortodox Tewahido Egyház, az Etióp Katolikus Egyház és a Jézus Helye Etióp Evangéliumi Egyház projektjeinek támogatásáról szóló 1381/2019. (VI. 26.) Korm. határozat
+2.[^1]
 
-a) 2. pontjában az „a Mai Aini menekülttábor támogatására, továbbá az Etióp Ortodox Tewahido Egyháznak az addisz-abebai Migbare-Senay szegénykórház” szövegrész helyébe az „a Mai Aini menekülttábor, illetve az üldözött keresztények, az Etióp Nemzeti Ifjúságformáló és Tanácsadó Központ, a Horest Spring Gimnázium és Előkészítő Iskola, a Lera Általános Iskola és Óvoda, a Dara Központban létesülő iskola és a Mekele Mekane Yesus Iskola, valamint a különböző etnikumú és vallású emberek békés együttélésének és a belső menekültek otthonaikba történő visszatérésének támogatására, továbbá az Etióp Ortodox Tewahido Egyháznak az addisz-abebai Migbare-Senay szegénykórház, illetve az üldözött keresztények” szöveg,
+3.[^2]
 
-b) 3. pontjában a „menekülttábor” szövegrész helyébe a „menekülttábor, illetve az üldözött keresztények” szöveg,
-
-c) 4. pontjában az „a Mai Aini menekülttábor” szövegrész helyébe az „az Etióp Nemzeti Ifjúságformáló és Tanácsadó Központ” szöveg,
-
-d) 5. pontjában a „Mai Aini menekülttábor” szövegrész helyébe a „Horest Spring Gimnázium és Előkészítő Iskola, a Lera Általános Iskola és Óvoda, a Dara Központban létesülő iskola és a Mekele Mekane Yesus Iskola, valamint a különböző etnikumú és vallású emberek békés együttélésének és a belső menekültek otthonaikba történő visszatérésének” szöveg,
-
-e) 6. pontjában a „Migbare-Senay szegénykórház” szövegrész helyébe a „Migbare-Senay szegénykórház, illetve az üldözött keresztények” szöveg
-
-lép.
-
-3. A Budapest Fejlesztési Központ létrehozásáról, a kiemelt budapesti állami magasépítési beruházások megvalósításának felelősségi rendjéről, valamint a budapesti városfejlesztési, várostervezési, urbanisztikai, városkutatási és közlekedéstervezési feladatok, továbbá a nemzetközi sportesemények megpályázásával és megrendezésével összefüggő feladatok ellátásáról szóló 1063/2020. (II. 26.) Korm. határozat 1. pont 1.10. alpontjában az „e határozat közzétételét követő 30 napon belül” szövegrész helyébe a „2020. szeptember 30-ig” szöveg lép.
-
-4. Hatályát veszti a nemzeti rendezvények megszervezéséről szóló 1190/2020. (IV. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 18. pontja.
+4.[^3]
 
 5. Nem lép hatályba a Korm. határozat 19. pontja.
 
 6. Ez a határozat a közzététele napján 23 órakor lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
