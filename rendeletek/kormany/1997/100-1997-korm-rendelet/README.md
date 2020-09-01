@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2019-11-29 | 1997-100-20-22.53 | 106/2012. (VI. 1.) Korm. rendelet |
 | 2019-12-20 | 1997-100-20-22.54 | 321/2019. (XII. 19) Korm. rendelet |
 | 2020-02-15 | 1997-100-20-22.55 | 18/2018. (II. 14.) Korm. rendelet |
+| 2020-09-01 | 1997-100-20-22.56 | 417/2020. (VIII. 30.) Korm. rendelet |

@@ -16,7 +16,7 @@ e) a szaktanár által javasolt értékeléseket tartalmazó osztályozó ívet.
 
 f)[^166]
 
-(4)[^167] A vizsgabizottság elnökének kérésére az igazgató a (3) bekezdésben felsorolt dokumentumok vagy azok egy részének megküldése helyett megteremti annak feltételeit, hogy a vizsgabizottság elnöke a helyszínen tanulmányozhassa az érettségi vizsga dokumentumait.
+(4)[^167] A vizsgabizottság elnöke az érettségi vizsga helyszínén az érettségi vizsga összes dokumentumába jogosult betekinteni.
 
 (5)[^168] Ha a vizsgabizottság elnöke a (3) bekezdés szerinti dokumentumok vizsgálata során a középszintű vizsgadolgozatokban javítatlan hibát talált, vagy úgy ítéli meg, hogy a szaktanár eltért a javítási, értékelési útmutatótól, az igazgató útján haladéktalanul felhívja a javító szaktanárt az érintett vizsgadolgozatoknak a javítási, értékelési útmutató szerinti újbóli javítására.
 
@@ -26,5 +26,5 @@ f)[^166]
 [^164]: A 26. § (3) bekezdésének első mondata a 256/2005. (XII. 7.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^165]: A 26. § (3) bekezdésének a) pontja a 253/2006. (XII. 7.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^166]: A 26. § (3) bekezdésének f) pontját a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
-[^167]: A 26. § (4) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^167]: A 26. § (4) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 417/2020. (VIII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^168]: A 26. § (5) bekezdését az 5/2016. (I. 22.) Korm. rendelet 8. §-a iktatta be.

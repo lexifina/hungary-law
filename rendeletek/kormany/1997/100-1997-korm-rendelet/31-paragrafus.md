@@ -10,8 +10,11 @@
 
 (5)[^205] Ha a vizsgázó egy vizsgatárgy gyakorlati vizsgarészének teljesítésére – neki fel nem róható okból – képtelenné válik, az igazgató engedélyével, a Hivatal, valamint a kormányhivatal egyidejű és azonnali értesítése mellett az adott vizsgatárgy helyett másik vizsgatárgyat választhat, vagy a gyakorlati vizsgarészt szóbeli vizsgarésszel pótolhatja. Amennyiben a vizsgázó új vizsgatárgyat választ, ám annak írásbeli vizsgája már lezajlott, az írásbeli vizsgát szóbeli vizsgával pótolhatja. Ebben az esetben a vizsgát a 37. § (3) bekezdése szerint kell megszervezni és minősíteni.
 
+(6)[^206] A középszintű testnevelés gyakorlati vizsga a vizsgabizottság elnökének előzetes írásbeli hozzájárulása esetén, a szóbeli vizsgákra vonatkozó szabályok betartása mellett, a középszintű szóbeli vizsgák időszakában vagy az írásbeli vizsgák időszaka után – az emelt szintű szóbeli vizsgák időszaka kivételével – a középszintű szóbeli vizsgák időszaka előtt is megszervezhető.
+
 [^201]: A 31. § (1) bekezdése a 311/2016. (X. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^202]: A 31. § (2) bekezdése az 5/2016. (I. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^203]: A 31. § (3) bekezdése az 5/2016. (I. 22.) Korm. rendelet 18. § 14. pontja szerint módosított szöveg.
 [^204]: A 31. § (4) bekezdésének második mondata a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének c) pontja szerint módosított szöveg.
 [^205]: A 31. § (5) bekezdését a 253/2006. (XII. 7.) Korm. rendelet 12. §-a iktatta be, szövege a 6/2008. (I. 22.) Korm. rendelet 3. §-ával megállapított, a 351/2010. (XII. 30.) Korm. rendelet 41. § q) pontja szerint módosított szöveg.
+[^206]: A 31. § (6) bekezdését a 417/2020. (VIII. 30.) Korm. rendelet 4. §-a iktatta be.
