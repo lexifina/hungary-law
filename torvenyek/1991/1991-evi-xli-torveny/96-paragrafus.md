@@ -1,4 +1,4 @@
-96. § (1) A tanácskozás és a szavazás zárt ülésen történik.
+96. § (1) A tanácskozás és a szavazás zárt ülésen, valamennyi tag személyes jelenlétében történik.
 
 (2) A fegyelmi tanács a határozatait szótöbbséggel hozza.
 

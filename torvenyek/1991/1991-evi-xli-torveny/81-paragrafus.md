@@ -1,15 +1,15 @@
-81. § Fegyelmi bíróként vagy vizsgálóbiztosként nem járhat el
+81. § Fegyelmi bíróként vagy vizsgálóbiztosként nem járhat el:
 
-a) a közjegyző, ha fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,, ha pedig az említett eljárás során a közjegyzőt elmarasztalják, fegyelmi bírói vagy vizsgálóbiztosi tisztsége megszűnik,
+a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll, ha pedig az említett eljárás során elmarasztalják, fegyelmi eljárásban viselt tisztsége megszűnik,
 
-b) az a közjegyző, akire nézve a 4. §-ban vagy a 43. § (3) bekezdésében meghatározott kizáró ok áll fenn,
+b) akire nézve a 4. §-ban meghatározott kizáró ok áll fenn,
 
-c) az a közjegyző, akinek tanúkénti meghallgatása szükségessé válhat,
+c) az a közjegyző, akire nézve a 43. § (3) bekezdésében meghatározott kizáró ok áll fenn,
 
-d) az eljárás alá vont személy képviselője,
+d) az a közjegyző, akinek tanúkénti meghallgatása szükségessé válhat,
 
 e) a vizsgálóbiztos fegyelmi bíróként,
 
 f) a fegyelmi bíró vizsgálóbiztosként,
 
-g) aki a 69/A. § szerinti vizsgálat lefolytatásában részt vett.
+g) aki a 69/A. § vagy a 69/B. § szerinti vizsgálat lefolytatásában részt vett.

@@ -4,7 +4,7 @@ a) a közjegyzői állás megüresedett, illetve betöltetlen, vagy
 
 b) a közjegyzőnek nincs állandó helyettese – ideértve azt az esetet is, ha az állandó helyettesítése megszűnt – és
 
-ba) a közjegyzőt hivatalából felfüggesztették,
+ba) a közjegyzőt a hivatalából felfüggesztették, vagy a felfüggesztés a törvény erejénél fogva bekövetkezett és erről a területi elnökség a közjegyző kérelme, vagy az országos elnök tájékoztatása alapján tudomást szerzett,
 
 bb) a közjegyző szolgálata szünetel, vagy
 

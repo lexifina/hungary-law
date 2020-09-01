@@ -1,5 +1,17 @@
-82. § (1) Ha olyan körülmény merül fel, amely a vizsgálóbiztosnak, a fegyelmi bíróság elnökének, illetőleg a fegyelmi tanács elnökének vagy tagjának elfogulatlanságát kétségessé teszi, a fegyelmi eljárás alá vont személy elfogultsági kifogást terjeszthet elő. Ezenkívül joga van a fegyelmi tanács egy tagját az ok megjelölése nélkül kifogásolni.
+82. § (1) A vizsgálóbiztos a fegyelmi bíróság elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha a vizsgálóbiztos kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a fegyelmi bíróság elnöke másik vizsgálóbiztost jelöl ki.
 
-(2) Az elfogultságról a fegyelmi tanács határoz.
+(2) Ha a vizsgálóbiztos ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és a vizsgálóbiztos a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a fegyelmi tanács dönt. Ha a vizsgálóbiztossal szemben kizárási ok áll fenn, a fegyelmi bíróság elnöke másik vizsgálóbiztost jelöl ki, a kizárási kérelem elutasítása esetén a vizsgálatot a beosztás szerinti vizsgálóbiztos folytatja le. Ha a fegyelmi bírósághoz kinevezett mindkét vizsgálóbiztossal szemben kizárási ok áll fenn, a Kúria elnöke más törvényszék mellett működő vizsgálóbiztost jelöl ki a vizsgálat lefolytatására.
 
-(3) Ha a fegyelmi bíróság elfogultság vagy kizáró ok miatt határozatképtelenné válik, a Kúria jelöli ki az eljáró fegyelmi tanácsot.
+(3) A fegyelmi tanács elnöke vagy bíró tagja a fegyelmi bíróság elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha az érintett személy kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a fegyelmi bíróság elnöke az eljárás lefolytatására másik fegyelmi tanácsot jelöl ki.
+
+(4) Ha a fegyelmi tanács elnöke vagy bíró tagja ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és az érintett személy a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a másik fegyelmi tanács dönt. Ha a fegyelmi tanács elnökével vagy bíró tagjával szemben kizárási ok áll fenn, a fegyelmi bíróság elnöke a másik fegyelmi tanácsot jelöli ki, a kizárási kérelem elutasítása esetén a fegyelmi eljárást a fegyelmi bíróság kizárási kérelemmel érintett fegyelmi tanácsa folytatja le. Ha a fegyelmi bírósághoz kinevezett mindkét tanács elnökével vagy bíró tagjával szemben kizárási ok áll fenn, a fegyelmi eljárás lefolytatására a Kúria elnöke másik fegyelmi bíróságot jelöl ki.
+
+(5) A fegyelmi bíróság közjegyző tagja a fegyelmi bíróság elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha az érintett közjegyző tag kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a fegyelmi bíróság elnöke másik közjegyző tagot jelöl ki.
+
+(6) Ha a fegyelmi bíróság közjegyző tagja ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és az érintett közjegyző tag a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a másik fegyelmi tanács dönt. Ha a fegyelmi bíróság közjegyző tagjával szemben kizárási ok áll fenn, a fegyelmi bíróság elnöke másik közjegyző tagot jelöl ki, a kizárási kérelem elutasítása esetén a fegyelmi eljárást az érintett fegyelmi tanács az eredeti összetételben folytatja le.
+
+(7) A fegyelmi bíróság elnöke a Kúria elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha a fegyelmi bíróság elnöke kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a Kúria elnöke másik fegyelmi bíróságot jelöl ki.
+
+(8) Ha a fegyelmi bíróság elnöke ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és a fegyelmi bíróság elnöke a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a Kúria elnöke dönt. Ha a fegyelmi bíróság elnökével szemben kizárási ok áll fenn, a Kúria elnöke másik fegyelmi bíróságot jelöl ki.
+
+(9) Ha a Kúria mellett működő fegyelmi bíróság elnökével szemben áll fenn kizárási ok, akkor a Kúria ügyelosztás szerint soron következő fegyelmi tanácsa az ügyrend alapján soron következő közjegyző tagok közreműködésével jár el.

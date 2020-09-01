@@ -11,3 +11,5 @@
 (6) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését megelőzően készült közjegyzői okiratot a 131. §, illetve 147/A. § alkalmazása során akkor is közokiratnak kell tekinteni, ha az e törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését követően hatályos rendelkezéseinek megfelel.
 
 (7) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi XCII. törvénnyel megállapított 79/A. § (1) bekezdés szerinti ügyrendet 2020. augusztus 31-ig el kell fogadni azzal, hogy az ügyrend legkorábban 2020. szeptember 1-jén léphet hatályba. A 79/A. § (4) bekezdése szerinti tájékoztatót első alkalommal a 2022. évben kell elfogadni.
+
+(8) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi XCII. törvénnyel megállapított 79/A. §-t, 80. § (2)–(2b) bekezdést a 2020. szeptember 1. után megindult fegyelmi eljárásokra kell alkalmazni.
