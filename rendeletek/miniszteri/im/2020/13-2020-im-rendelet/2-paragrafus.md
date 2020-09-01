@@ -1,1 +1,0 @@
-## 1. § A költségmentesség és a költségfeljegyzési jog engedélyezésének alapjául szolgáló körülmények igazolásáról szóló 26/2017. (XII. 27.) IM rendelet 7. § (2) bekezdésében az „egészségbiztosítási és nyugdíjjárulék” szövegrész helyébe a „társadalombiztosítási járulék” szöveg lép.
