@@ -6,6 +6,8 @@
 
 |  | 2. | Agrár | Agricultural Science | fenntartható takarmányozás | Sustainable Animal Nutrition and Feeding | okleveles fenntartható takarmányozási agrármérnök | Sustainable Animal Nutrition Agricultural Engineer | 7 |
 
+|  | 2/A. | Agrár | Agricultural Science | fenntartható mezőgazdaság, élelmiszertermelés és -technológia a Duna régióban | Sustainability in Agriculture, Food Production and Food Technology in the Danube Region | okleveles fenntarthatósági agrármérnök | Agricultural Engineer in Sustainable Agriculture and Food Production | 7 |
+
 |  | 3. | Társadalom- tudomány | Social Science | környezetpolitika és menedzsment | Environmental Sciences Policy and Management | okleveles környezetpolitika és menedzsment szakember | Expert in Environmental Sciences Policy and Management | 7 |
 
 |  | 4. | Társadalom- tudomány | Social Science | közpolitika | Public Policy | okleveles nemzetközi közpolitikai szakember | Expert in International Public Policy | 7 |

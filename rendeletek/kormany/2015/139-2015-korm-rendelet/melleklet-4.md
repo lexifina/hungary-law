@@ -32,7 +32,7 @@
 
 | 14. |  |  | növénytermesztő mérnöki |  | Crop Production Engineering |  | okleveles növénytermesztő mérnök |  | Crop Production Engineer | 7 |
 
-| 15. |  |  | ökológiai gazdálkodási mérnöki |  | Master’s Degree in Organic Farming |  | okleveles ökológiai gazdálkodási mérnök |  | Organic Farming Engineer | 7 |
+| 15. |  |  |  |  |  |  |  |  |  |  |
 
 | 16. |  |  | szőlész-borász mérnöki |  | Viticulture and Oenology Engineering |  | okleveles szőlész-borász mérnök |  | Viticulture and Oenology Engineer | 7 |
 
@@ -74,7 +74,11 @@
 
 | 35. |  |  | buddhizmus tanulmányok |  | Buddhist Studies |  | okleveles buddhizmus szakos bölcsész |  | Philologist in Buddhist Studies | 7 |
 
+| 35/A. |  |  | család-pedagógiai tanácsadó |  | Consultancy in Family Education | Consultancy in Family Education | Family Education Consultant | 7 |
+
 | 36. |  |  | cseh nyelv és irodalom |  | Czech Language and Literature |  | okleveles cseh nyelv és irodalom szakos bölcsész |  | Philologist in Czech Language and Literature | 7 |
+
+| 36/A. |  |  | digitális bölcsészet |  | Digital Humanities | okleveles bölcsész digitális bölcsészet szakon | Expert in Digital Humanities | 7 |
 
 | 37. |  |  | egyiptológia |  | Egyptology |  | okleveles egyiptológia szakos bölcsész |  | Egyptologist | 7 |
 
@@ -118,6 +122,8 @@
 
 | 57. |  |  | Közép-Európa tanulmányok |  | Central European Studies |  | okleveles Közép-Európa tanulmányok szakos bölcsész |  | Central European Studies Expert | 7 |
 
+| 57/A. |  |  | kreatív írás és művészeti kritika |  | Creative Writing and Art Criticism | okleveles kreatív írás és művészeti kritika szakos bölcsész | Philologist in Creative Writing and Art Criticism | 7 |
+
 | 58. |  |  | kulturális mediáció |  | Cultural Mediation |  | okleveles kulturális mediátor |  | Culture Mediator | 7 |
 
 | 59. |  |  | kulturális örökség tanulmányok |  | Cultural Heritage Studies |  | okleveles kulturális örökség tanulmányok szakember |  | Specialist of Cultural Heritage Studies | 7 |
@@ -132,7 +138,9 @@
 
 | 64. |  |  | magyar nyelv és irodalom |  | Hungarian Language and Literature Studies |  | okleveles magyar nyelv és irodalom szakos bölcsész |  | Philologist in Hungarian Language and Literature | 7 |
 
-| 65. |  |  | mentálhigiénés családtudományi és családterápiás |  | Mental Health-oriented Family Studies and Family Therapy |  | okleveles mentálhigiénés családtudományi és családterápiás szakember |  | Expert in Mental Health-oriented Family Studies and Family Therapy | 7 |
+| 64/A. |  |  | mentálhigiénés családkonzulens |  | Mental Health Family Consultant | okleveles mentálhigiénés családkonzulens | Mental Health Family Consultant | 7 |
+
+| 65. |  |  |  |  |  |  |  |  |  |  |
 
 | 66. |  |  | mentálhigiénés közösség- és kapcsolatépítő |  | Mental Health in Relations and Community Development |  | okleveles mentálhigiénés közösség- és kapcsolatépítő szakember |  | Expert in Mental Health in Relations and Community Development | 7 |
 
@@ -153,6 +161,8 @@
 | 74. |  |  | olasz nyelv, irodalom és kultúra |  | Italian Language, Literature and Culture |  | okleveles olasz nyelv, irodalom és kultúra szakos bölcsész |  | Philologist in Italian Language, Literature and Culture | 7 |
 
 | 75. |  |  | orosz nyelv és irodalom |  | Russian Language and Literature |  | okleveles orosz nyelv és irodalom szakos bölcsész |  | Philologist in Russian Language and Literature | 7 |
+
+| 75/A. |  |  | örmény tanulmányok |  | Global Armenian Studies | okleveles örmény tanulmányok szakos bölcsész | Expert in Global Armenian Studies | 7 |
 
 | 76. |  |  | portugál nyelv, irodalom és kultúra |  | Portuguese Language, Literature and Culture |  | okleveles portugál nyelv, irodalom és kultúra szakos bölcsész |  | Philologist in Portuguese Language, Literature and Culture | 7 |
 
@@ -206,6 +216,8 @@
 
 | 101. |  |  | humánökológia |  | Human Ecology |  | okleveles humánökológia szakember |  | Expert in Human Ecology | 7 |
 
+| 101/A. |  |  | interdiszciplináris családtudomány |  | Interdisciplinary Family Studies | okleveles interdiszciplináris családtudományi szakember | Expert in Interdisciplinary Family Studies | 7 |
+
 | 102. |  |  | Kelet-Ázsia tanulmányok |  | East Asian Studies |  | okleveles Kelet-Ázsia elemző |  | Expert in East Asian Studies | 7 |
 
 | 103. |  |  | kisebbségpolitika |  | Ethnic and Minority Policy |  | okleveles kisebbségpolitikai szakember |  | Ethnic and Minority Policy Expert | 7 |
@@ -254,11 +266,11 @@
 
 | 123. |  |  | kriminológia |  | Criminology |  | okleveles kriminológus |  | Criminologist | 7 |
 
-| 124. |  |  | munkaügyi és társadalombiztosítási igazgatási |  | Labour Relations and Social Security Administration |  | okleveles munkaügyi és társadalombiztosítási szakember |  | Labour Relations and Social Security Expert | 7 |
+| 124. |  |  | személyügyi, munkaügyi és szociális igazgatás |  | Labour Relations and Social Security Administration | okleveles személyügyi, munkaügyi és szociális igazgatási szakember | Labour Relations and Social Security Expert | 7 |
 
-| 125. |  |  | összehasonlító állam- és jogtudományok |  | Expert in Comparative Law |  | összehasonlító jogi mesterjogász |  | Comparative Law | 7 |
+| 125/A. | Gazdaságtudományok | Economic Science | agrárközgazdász |  | Agricultural Ecomomics | okleveles közgazdász agrárközgazdász szakon | Agricultural Ecomomist | 7 |
 
-| 126. | Gazdaságtudományok | Economic Science | biztosítási és pénzügyi matematika |  | Actuarial and Financial Mathematics |  | okleveles biztosítási és pénzügyi matematikus-közgazdász |  | Actuarial and Financial Mathematician-Economist | 7 |
+| 126. |  |  | biztosítási és pénzügyi matematika |  | Actuarial and Financial Mathematics | okleveles biztosítási és pénzügyi matematikus-közgazdász | Actuarial and Financial Mathematician-Economist | 7 |
 
 | 126/A. |  |  | családpolitika és humán szakpolitikák gazdaságtana |  | Economics of Family Policy and Public Policies for Human Development | okleveles közgazdász családpolitika és humán szakpolitikák gazdaságtana szakon | Economist in Family Policy and in Public Policies for Human Development | 7 |
 
@@ -270,15 +282,21 @@
 
 | 130. |  |  | közgazdasági elemző |  | Economic Analysis |  | okleveles közgazdasági elemző |  | Economic Analyst | 7 |
 
+| 130/A. |  |  | kutatási menedzser |  | Research Management | okleveles közgazdász kutatási menedzser szakon | Economist in Reseacch Management | 7 |
+
 | 131. |  |  | marketing |  | Marketing |  | okleveles közgazdász marketing szakon |  | Economist in Marketing | 7 |
 
 | 132. |  |  | Master of Business Administration (MBA) |  | Master of Business Administration (MBA) |  | okleveles közgazdász MBA szakon |  | Economist | 7 |
 
 | 132/A. |  |  | nemzetközi adózás |  | Master in International Taxation | okleveles közgazdász nemzetközi adózás szakon | Economist in International Taxation | 7 |
 
+| 132/B. |  |  | nemzetközi fejlesztés |  | Internacional Development | okleveles közgazdász nemzetközi fejlesztés szakon | Economist in Internacional Development | 7 |
+
 | 133. |  |  | nemzetközi gazdaság és gazdálkodás |  | International Economy and Business |  | okleveles közgazdász nemzetközi gazdaság és gazdálkodás szakon |  | Economist in International Economy and Business | 7 |
 
 | 134. |  |  | pénzügy |  | Finance |  | okleveles közgazdász pénzügy szakon |  | Economist in Finance | 7 |
+
+| 134/A. |  |  | politikai gazdaságtan |  | Political Economy | okleveles politológus közgazdász | Political Economist | 7 |
 
 | 135. |  |  | regionális és környezeti gazdaságtan |  | Regional and Environmental Economic Studies |  | okleveles közgazdász regionális és környezeti gazdaságtan szakon |  | Economist in Regional and Environmental Economic Studies | 7 |
 
@@ -288,11 +306,13 @@
 
 | 138. |  |  | turizmus-menedzsment |  | Tourism Management |  | okleveles közgazdász turizmus-menedzsment szakon |  | Economist in Tourism and Management | 7 |
 
+| 138/A. |  |  | vállalatgazdaságtan |  | Business Economics | okleveles közgazdász vállalatgazdaság szakon | Economist in Business Management | 7 |
+
 | 139. |  |  | vállalkozásfejlesztés |  | Business Development |  | okleveles közgazdász vállalkozásfejlesztés szakon |  | Economist in Business Development | 7 |
 
-| 140. |  |  | vezetés és szervezés |  | Management and Leadership |  | okleveles közgazdász vezetés és szervezés szakon |  | Economist in Management and Leadership | 7 |
+| 140/A. | Műszaki | Engineering Science | alapanyag-gyártási folyamatmérnöki |  | Process Engineering for Raw Material Production | okleveles alapanyag-gyártási folyamatmérnök | Process Engineer for Raw Material Production | 7 |
 
-| 141. | Műszaki | Engineering Science | anyagmérnöki |  | Materials Engineering |  | okleveles anyagmérnök |  | Materials Engineer | 7 |
+| 141. |  |  | anyagmérnöki |  | Materials Engineering | okleveles anyagmérnök | Materials Engineer | 7 |
 
 | 141/A. |  |  | autonóm járműirányítási mérnöki |  | Autonomous Vehicle Control Engineering |  | okleveles autonóm járműirányítási mérnök |  | Autonomous Vehicle Control Engineer | 7 |
 
@@ -309,6 +329,8 @@
 | 147. |  |  | építész |  | Architect |  | okleveles építész |  | Architect | 7 |
 
 | 148. |  |  |  | építészmérnöki | Architecture |  | okleveles építészmérnök |  | Architect | 7 |
+
+| 148/A. |  |  | építményinformatikai mérnöki |  | Construction Information Technology Engineering | okleveles építmény-informatikai mérnök | Construction Information Technology Engineer | 7 |
 
 | 149. |  |  | épületgépészeti és eljárástechnikai gépészmérnöki |  | Building Service and Process Engineering |  | okleveles épületgépészeti és eljárástechnikai gépészmérnök |  | Building Service and Process Engineer | 7 |
 
@@ -356,11 +378,15 @@
 
 | 171. |  |  | olajmérnöki |  | Petroleum Engineering |  | okleveles olajmérnök |  | Petroleum Engineer | 7 |
 
+| 171/A. |  |  | sportmérnöki |  | Sports Engineering | okleveles sportmérnök | Sports Engineer | 7 |
+
 | 172. |  |  | szerkezet-építőmérnöki |  | Structural Engineering |  | okleveles szerkezet-építőmérnök |  | Structural Engineer | 7 |
 
 | 173. |  |  | szénhidrogén-kutató földtudományi mérnöki |  | Petroleum Geoengineering |  | okleveles szénhidrogén-kutató földtudományi mérnök |  | Petroleum Geoengineer | 7 |
 
 | 174. |  |  | településmérnöki |  | Urban Systems Engineering |  | okleveles településmérnök |  | Urban Systems Engineer | 7 |
+
+| 174/A. |  |  | űrmérnöki |  | Space Engineer | okleveles űrmérnök | Space Engineer | 7 |
 
 | 175. |  |  | védelmi infokommunikációs rendszertervező |  | Defence C3 Systems Management |  | okleveles védelmi infokommunikációs rendszertervező |  | Defence C3 Systems Manager | 7 |
 
@@ -370,7 +396,7 @@
 
 | 178. | Orvos-és egészségtudomány | Medical and Health Science |  | általános orvos | Medicine |  | okleveles orvosdoktor |  | Doctor of Medicine | 7 |
 
-| 179. |  |  | ápolás |  | Nursing |  | okleveles ápoló |  | Nurse | 7 |
+| 179. |  |  | kiterjesztett hatáskörű ápoló |  | Advanced Practice in Nursing | okleveles kiterjesztett hatáskörű ápoló | Advanced Practice Nurse | 7 |
 
 | 180. |  |  | egészségpszichológia |  | Health Psychology |  | okleveles egészségpszichológus |  | Health Psychologist | 7 |
 
@@ -392,15 +418,21 @@
 
 | 189. |  |  | radiográfia |  | Radiography |  | okleveles radiográfus |  | Radiographer | 7 |
 
+| 189/A. |  |  | szakvédőnő |  | Health Visitor | okleveles szakvédőnő | Advanced Heatlh Visitor | 7 |
+
 | 190. |  |  | táplálkozástudományi |  | Nutritional Sciences |  | okleveles táplálkozástudományi szakember |  | Nutritionist | 7 |
 
-| 191. | Pedagógusképzés | Teacher Training | gyógypedagógia |  | Special Needs Education |  | okleveles gyógypedagógus |  | Special Needs Educator | 7 |
+| 190/A. |  |  | gyermekkultúra |  | Culture of Early Childhood | okleveles gyermekkultúra szakos pedagógus | Educator in Early Childhood Cultura Studies | 7 |
+
+| 191. |  |  | gyógypedagógia |  | Special Needs Education | okleveles gyógypedagógus | Special Needs Educator | 7 |
+
+| 191/A. |  |  | logopédia |  | Speech and Language Therapy | okleveles logopédus | Speech and Language Therapist | 7 |
 
 | 192. |  |  | tanár | tanár | Teacher |  | (külön kormányrendelet szerint) |  |  | 7 |
 
 | 193. | Sporttudomány | Sport Science | humánkineziológia |  | Human Kinesiology |  | okleveles humánkineziológus |  | Human Kinesiologist | 7 |
 
-| 194. |  |  | rekreáció |  | Recreation |  | okleveles rekreáció irányító |  | Recreation Expert | 7 |
+| 194. |  |  |  |  |  |  |  |  |  |  |
 
 | 195. |  |  | sportmenedzser |  | Sports Management |  | okleveles sportmenedzser |  | Sports Manager | 7 |
 
@@ -424,6 +456,8 @@
 
 | 205. |  |  | geográfus |  | Geography |  | okleveles geográfus |  | Geographer | 7 |
 
+| 205/A. |  |  | geoinformatika |  | Geoinformatics | okleveles geoinformatikus | Expert in Geoinformatics | 7 |
+
 | 206. |  |  | geológus |  | Geology |  | okleveles geológus |  | Geologist | 7 |
 
 | 207. |  |  | hidrobiológus |  | Hydrobiology |  | okleveles hidrobiológus |  | Hydrobiologist | 7 |
@@ -446,6 +480,8 @@
 
 | 215/A. |  |  | belsőépítész tervezőművész |  | Interior and Spatial Design | okleveles belsőépítész tervezőművész | Interior and Spatial Designer | 7 |
 
+| 215/B. |  |  | cirkuszművészet |  | Circus Arts | okleveles cirkuszművész | Circus Artist | 7 |
+
 | 216. |  |  | design- és művészetmenedzsment |  |  | Art and Design Management |  | okleveles design- és művészetmenedzser |  | Art and Design Manager | 7 |
 
 | 217. |  |  | designelmélet |  |  | Design Theory |  | okleveles design- és művészet teoretikus |  | Expert in Design Theory | 7 |
@@ -454,7 +490,7 @@
 
 | 219. |  |  | dokumentumfilm-rendező művész |  |  | Documentary Film Directing |  | okleveles dokumentumfilm-rendező művész |  | Documentary Film Director | 7 |
 
-| 220. |  |  | egyházzene-művész (egyházzene orgonaművész, egyházzene kóruskarnagy szakirányok) |  |  | Sacred Music | 1. okleveles egyházzene-kóruskarnagy 2. okleveles egyházzene-orgonaművész | 1. Sacred Musician (Choral Conducting) 2. Sacred Musician (Organist) | 7 |
+| 220. |  |  | egyházzeneművész |  | Church Music | okleveles egyházzene-művész | Church Musician | 7 |
 
 | 221. |  |  | építőművész |  |  | Architectural Design |  | okleveles építőművész |  | Architectural Designer | 7 |
 
@@ -468,11 +504,19 @@
 
 | 226. |  |  | filmrendező művész |  |  | Film Directing |  | okleveles filmrendező művész |  | Film Director | 7 |
 
+| 226/A. |  |  | forgatókönyvíró |  | Screenwriting | okleveles forgatókönyvíró | Screenwriter | 7 |
+
 | 227. |  |  | formatervező művész |  |  | Design |  | okleveles formatervező művész |  | Designer | 7 |
 
 | 228. |  |  | fotográfia |  |  | Photography |  | okleveles fotográfustervező művész |  | Photographer | 7 |
 
 | 229. |  |  |  | grafikusművész |  | Graphic Arts |  | okleveles grafikusművész |  | Graphic Artist | 7 |
+
+| 229/A. |  |  | hangművészet |  | Sound Art | okleveles hangművész | Sound Artist | 7 |
+
+| 229/B. |  |  | immerzív film |  | Immersive Film | okleveles immerzívfilm-alkotó | Immersive Media Filmmaker | 7 |
+
+| 229/C. |  |  | interakció tervezés |  | Interaction Design | okleveles interakció- és felhasználói élmény tervező | Interaction and User Experience Designer | 7 |
 
 | 230. |  |  |  | intermédia-művész |  | Intermedia Art |  | okleveles médiaművész |  | Intermedia Artist | 7 |
 
@@ -482,7 +526,9 @@
 
 | 230/C. |  |  | jazz- zeneszerző |  | Jazz Composition | okleveles jazz-zeneszerző | Jazz Composer | 7 |
 
-| 231. |  |  | karmester (zenekari karmester, fúvós zenekari karnagy szakirányok) |  |  | Conducting | 1. okleveles zenekari karmester-művész 2. okleveles fúvószenekari karnagy-művész | 1.Orchestra Conductor 2. Wind Band Conductor | 7 |
+| 231. |  |  | karmester (zenekari karmester, fúvós- zenekari karnagy szakirányok) |  | Conducting | 1. okleveles zenekari karmester-művész 2. okleveles fúvószenekari karnagy-művész | 1. Orchestra Conductor 2. Wind Band Conductor | 7 |
+
+| 231/A. |  |  | képzőművész |  | Fine Arts | okleveles képzőművész | Fine Artist | 7 |
 
 | 232. |  |  | kerámiatervezés |  |  | Ceramics Design |  | okleveles kerámiatervező művész |  | Ceramics Designer | 7 |
 
@@ -496,11 +542,13 @@
 
 | 237. |  |  | koreográfus |  |  | Choreography |  | okleveles koreográfus |  | Choreographer | 7 |
 
+| 237/A. |  |  | kortárs művészet- elméleti és kurátori ismeretek |  | Contemporary Art Theory and Curatorial Studies | okleveles kortárs művészeti szakíró és kurátor | Expert in Contemporary Art Theory and Curatorial Studies | 7 |
+
 | 238. |  |  | kortárstánc művész |  |  | Contemporary Dance |  | okleveles kortárstánc művész |  | Contemporary Dance Artist | 7 |
 
 | 239. |  |  | kóruskarnagy |  |  | Choir Conducting |  | okleveles kóruskarnagy művész |  | Choir Conductor | 7 |
 
-| 240. |  |  | látványtervező művész |  |  | Production Design |  | okleveles látványtervező művész |  | Production Designer | 7 |
+| 240. |  |  | látványtervező művész |  | Art of Scenography | okleveles látványtervező művész | Artist in Scenography | 7 |
 
 | 241. |  |  | média design |  |  | Media Design |  | okleveles média designer |  | Media Designer | 7 |
 
@@ -510,7 +558,7 @@
 
 | 244. |  |  | régi-zene hangszerművész |  |  | Early Music Instrumental Performance | 1. okleveles régi-zene művész (csembaló) 2. okleveles régi-zene művész (fortepiano) 3. okleveles régi-zene művész (barokk hegedű) 4. okleveles régi-zene művész (viola da gamba) 5. okleveles régi-zene művész (barokk gordonka) 6. okleveles régi-zene művész (blockflöte) 7. okleveles régi-zene művész (barokk fuvola) 8. okleveles régi-zene művész (barokk oboa) 9. okleveles régi-zene művész (barokk fagott) 10. okleveles régi-zene művész (cornetto) 11. okleveles régi-zene művész (natúrtrombita) 12. okleveles régi-zene művész (natúrkürt) 13. okleveles régi-zene művész (barokk harsona) 14. okleveles régi-zene művész (lant) | 1. Early Music Performer (Harpsichord) 2. Early Music Performer (Fortepiano) 3. Early Music Performer (Baroque Violin) 4. Early Music Performer (Viola da Gamba) 5. Early Music Performer (Baroque Cello) 6. Early Music Performer (Recorder) 7. Early Music Performer (Baroque Flute) 8. Early Music Performer (Baroque Oboe) 9. Early Music Performer (Baroque Bassoon) 10. Early Music Performer (Cornett) 11. Early Music Performer (Natural Trumpet) 12. Early Music Performer (Natural Horn) 13. Early Music Performer (Baroque Trombone) 14. Early Music Performer (Lute) | 7 |
 
-| 245. |  |  |  | restaurátor-művész |  | Art Restoration |  | okleveles restaurátorművész |  | Art Restorer | 7 |
+| 245. |  |  |  | restaurátorművész | Art Conservation-Restoration | okleveles restaurátorművész | Art Conservator-Restorer | 7 |
 
 | 246. |  |  |  | dramaturg | Dramaturgy | okleveles dramaturg | Dramaturg | 7 |
 
@@ -522,14 +570,18 @@
 
 | 250. |  |  | tájépítészet és kertművészet |  |  | Landscape Architecture and Garden Design | okleveles tájépítész- kertművész | Landscape Architect and Garden Designer | 7 |
 
+| 250/A. |  |  | tárgyalkotás |  | Designer-Maker | okleveles tárgyalkotó művész | Designer-Maker | 7 |
+
 | 251. |  |  | televíziós műsorkészítő művész |  |  | Television Production Arts |  | okleveles televíziós műsorkészítő művész |  | Expert in Television Production Arts | 7 |
 
 | 252. |  |  | tervezőgrafika |  |  | Graphic Design |  | okleveles tervezőgrafikus művész |  | Graphic Designer | 7 |
 
 | 253. |  |  | zeneszerző |  |  | Music Composition |  | okleveles zeneszerző |  | Composer | 7 |
 
-| 254. |  |  | zeneteoretikus |  |  | Music Theory |  | okleveles zeneteoretikus |  | Music Theorist | 7 |
+| 254. |  |  |  |  |  |  |  |  |  |  |  |
 
-4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^29]
+| 255. | Művészetközvetítés | Art Education | művészeti instruktor |  | Arts Communication | okleveles művészeti instruktor | okleveles művészeti instruktor | 7 |
 
-[^29]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése, a 188/2018. (X. 12.) Korm. rendelet 7. §-a, a 191/2019. (VII. 30.) Korm. rendelet 72. § b)–d) pontja szerint módosított szöveg.
+4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^60]
+
+[^60]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése, a 188/2018. (X. 12.) Korm. rendelet 7. §-a, a 191/2019. (VII. 30.) Korm. rendelet 72. § b)–d) pontja, a 393/2020. (VIII. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

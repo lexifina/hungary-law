@@ -42,6 +42,6 @@
 
 | 20. | logisztikai menedzsment mesterképzési szak | ellátásilánc menedzsment mesterképzési szak |
 
-6. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^30]
+6. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^61]
 
-[^30]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
