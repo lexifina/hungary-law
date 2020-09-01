@@ -124,11 +124,13 @@ való megfelelést szolgálja.
 
 52.[^400] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet,
 
-53.[^401] az (EU) 2017/2400 rendeletnek és a 2007/46/EK európai parlamenti és tanácsi irányelvnek a nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának meghatározása tekintetében történő módosításáról szóló, 2019. február 19-i (EU) 2019/318 bizottsági rendelet,
+52.[^401] a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendelet
 
-54.[^402] a 661/2009/EK európai parlamenti és tanácsi rendelet IV. mellékletének, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv I., III. és IV. mellékletének az Egyesült Nemzetek Európai Gazdasági Bizottságának gépjárművek típusjóváhagyásáról szóló bizonyos előírásaira való hivatkozások aktualizálása és bizonyos előírások felvétele tekintetében történő módosításáról szóló, 2019. április 3-i (EU) 2019/543 bizottsági rendelet, valamint
+53.[^402] az (EU) 2017/2400 rendeletnek és a 2007/46/EK európai parlamenti és tanácsi irányelvnek a nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának meghatározása tekintetében történő módosításáról szóló, 2019. február 19-i (EU) 2019/318 bizottsági rendelet,
 
-55.[^403] az új személygépkocsikra és az új könnyű haszongépjárművekre vonatkozó szén-dioxid-kibocsátási előírások meghatározásáról, valamint a 443/2009/EK és az 510/2011/EU rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/631 európai parlamenti és tanácsi rendelet
+54.[^403] a 661/2009/EK európai parlamenti és tanácsi rendelet IV. mellékletének, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv I., III. és IV. mellékletének az Egyesült Nemzetek Európai Gazdasági Bizottságának gépjárművek típusjóváhagyásáról szóló bizonyos előírásaira való hivatkozások aktualizálása és bizonyos előírások felvétele tekintetében történő módosításáról szóló, 2019. április 3-i (EU) 2019/543 bizottsági rendelet, valamint
+
+55.[^404] az új személygépkocsikra és az új könnyű haszongépjárművekre vonatkozó szén-dioxid-kibocsátási előírások meghatározásáról, valamint a 443/2009/EK és az 510/2011/EU rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/631 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -191,6 +193,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^398]: A 31. § (2) bekezdés 50. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^399]: A 31. § (2) bekezdés 51. pontját a 15/2019. (VI. 18.) ITM rendelet 1. §-a iktatta be.
 [^400]: A 31. § (2) bekezdés második 51. pontját a 36/2019. (IX. 20.) ITM rendelet 1. §-a iktatta be. A 31. § (2) bekezdés 51. pontjának megjelölését 52. pontra változtatta és szövegét megállapította a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése.
-[^401]: A 31. § (2) bekezdés 53. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
-[^402]: A 31. § (2) bekezdés 54. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
-[^403]: A 31. § (2) bekezdés 55. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
+[^401]: A 31. § (2) bekezdés újabb 52. pontját a 29/2020. (VII. 17.) ITM rendelet 2. §-a iktatta be.
+[^402]: A 31. § (2) bekezdés 53. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
+[^403]: A 31. § (2) bekezdés 54. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
+[^404]: A 31. § (2) bekezdés 55. pontját a 15/2020. (VI. 4.) ITM rendelet 4. § (2) bekezdése iktatta be.
