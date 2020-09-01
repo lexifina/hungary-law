@@ -1,16 +1,7 @@
-13. § (1)[^28] Pedagógiai-szakmai szolgáltatásként kell megszervezni a konfliktuskezelési gyakorlat elterjedését szolgáló
+13. § (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni az országos pedagógiai mérési-értékelési eredmények alapján az intézményértékeléshez kapcsolódó fejlesztési eszközök kidolgozását, országos terjesztését, ennek keretében
 
-a) pedagógiai értékelés köréből a pedagógiai és komplex intézményértékelési eszközök és módszerek megismertetését és terjesztését,
+a) a pedagógiai értékelés köréből az országos pedagógiai mérési-értékelési és ellenőrzési feladatok megállapításainak elemzését segítő, a feltárt intézményi és gyermeki, tanulói lemaradások megszüntetését szolgáló intézkedések kidolgozásához szükséges pedagógiai és komplex intézményfejlesztési eszközök kidolgozását és módszerek megismertetését,
 
-b) tanügy-igazgatási szolgáltatás köréből a konfliktushelyzetekhez kapcsolódó jogi és egyéb információk gyűjtését, rendelkezésre bocsátását, e körben tájékoztatás adását,
+b) a szaktanácsadás köréből a segítségnyújtáshoz szükséges országos fejlesztési eszközöket ahhoz, hogy az óvoda és az iskola fenntartója és az óvoda és az iskola vezetői, pedagógusai elkészítsék, bevezessék és végrehajtsák azt az intézkedési tervet, amely a pedagógiai tevékenység színvonalának az emeléséhez szükséges.
 
-c) szaktanácsadás keretében történő segítségnyújtást ahhoz, hogy a nevelési-oktatási intézmény vezetői, alkalmazottai, szülői szervezete, diákönkormányzata megismerje azokat az eljárásokat, gyakorlatokat, amelyekkel megelőzhető a konfliktushelyzetek kialakulása, illetve amelyekkel feloldhatók a konfliktushelyzetek, orvosolhatók a sérelmek.
-
-(2)[^29] Szaktanácsadó az lehet, aki
-
-a) az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik, köznevelési intézményben pedagógus-munkakörben legalább tízéves szakmai gyakorlatot szerzett és szakirányú tanári szakképzettség megszerzésekor vagy szakirányú továbbképzés keretében részt vett konfliktuskezelés ismereteire történő felkészítésben, vagy pedagógiai szakpszichológus, tanácsadó szakpszichológus, klinikai szakpszichológus, szociálpedagógus szakképzettséggel, vagy pszichológia mesterszakon klinikai és egészségpszichológia, tanácsadás és iskolapszichológia, fejlődés- és klinikai gyermekpszichológia, interperszonális és interkulturális pszichológia, pszichopedagógia szakirányon szerzett szakképzettséggel rendelkezik, vagy
-
-b) tízéves pedagógus munkakörben szerzett gyakorlattal rendelkezik, és elvégezte az adott szakterületre vonatkozó, a Hivatal szervezésében lebonyolított szaktanácsadói továbbképzést.
-
-[^28]: A 13. § (1) bekezdés nyitó szövegrésze a 26/2015. (V. 22.) EMMI rendelet 16. § d) pontja szerint módosított szöveg.
-[^29]: A 13. § (2) bekezdése a 24/2017. (X. 3.) EMMI rendelet 18. §-ával megállapított szöveg.
+(2) Az országos pedagógiai méréssel-értékeléssel kapcsolatos országos pedagógiai-szakmai szolgáltatások szakmai irányítását a Hivatal látja el.

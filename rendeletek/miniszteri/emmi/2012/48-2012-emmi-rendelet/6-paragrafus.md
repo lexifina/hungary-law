@@ -2,8 +2,8 @@
 
 a) közreműködés a nevelési-oktatási intézmények pedagógiai programjainak elkészítésében és bevezetésében,
 
-b)[^17] a megyei, fővárosi köznevelés-fejlesztési tervben foglaltakkal összhangban, az egyházi és magán fenntartó fenntartásában működő köznevelési intézmények vonatkozásában az intézményszerkezetre vonatkozó tanácsadás,
+b)[^18] a megyei, fővárosi köznevelés-fejlesztési tervben foglaltakkal összhangban, az egyházi és magán fenntartó fenntartásában működő köznevelési intézmények vonatkozásában az intézményszerkezetre vonatkozó tanácsadás,
 
 c) a miniszter, vagy valamely fenntartó felkérésére – költségvetésének terhére és mértékéig – közgazdasági, jogi, pénzügyi és további tervezési információk gyűjtése, rendelkezésre bocsátása, szükség esetén e körből tájékoztatás nyújtása.
 
-[^17]: A 6. § b) pontja a 26/2015. (V. 22.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
+[^18]: A 6. § b) pontja a 26/2015. (V. 22.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.

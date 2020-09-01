@@ -1,21 +1,9 @@
-12. § (1)[^25] Pedagógiai-szakmai szolgáltatásként kell megszervezni a kiemelt figyelmet igénylő gyermek, tanuló részére nyújtott nevelést és tanítási-tanulási folyamatot segítő
+## 12. § Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a hátrányos helyzetű gyermekek, tanulók nevelésének, nevelés-oktatásának megszervezését és ellátását segítő
 
-a) pedagógiai értékelés köréből a pedagógiai és komplex intézményértékelési eszközök és módszerek megismertetését és terjesztését,
+a) szaktanácsadás köréből az esélyteremtő intézményfejlesztési folyamat azonosítását és megvalósulását támogató eljárások, módszerek, gyakorlatok megismerését és terjesztését,
 
-b) tanügy-igazgatási szolgáltatás köréből a közgazdasági, jogi, pénzügyi és egyéb információk gyűjtését, rendelkezésre bocsátását, e körből tájékoztatás adását,
+b) pedagógiai értékelés köréből az esélyteremtő intézményfejlesztés során feltárt eredmények elemzését segítő intézkedések kidolgozásának támogatását,
 
-c) szaktanácsadást.
+c) pedagógiai értékelés köréből a hátrányos helyzetű gyermekek, tanulók felkészítésének megszervezéséhez, az ellátás eredményességének megismeréséhez szükséges elemző pedagógiai és komplex intézményértékelési eszközök és módszerek megismertetését és terjesztését,
 
-(2)[^26]
-
-(3) A kiemelt figyelmet igénylő gyermekek, tanulók nevelését, nevelését-oktatását segítő szaktanácsadást oly módon kell megszervezni, hogy a szaktanácsadás a pedagógiai szakszolgálat intézményei által ellátott valamennyi nevelő, nevelő-oktató, fejlesztő munkához biztosítva legyen.
-
-(4)[^27] Szaktanácsadó az lehet, aki
-
-a) az Nkt. 61. § (4) bekezdésében meghatározott tízéves szakmai gyakorlatot pedagógiai szakszolgálatot ellátó intézményben, vagy olyan nevelési-oktatási intézményben szerezte, ahol különleges gondozást igénylő gyermekek nevelése-oktatása folyik, vagy
-
-b) tízéves pedagógus munkakörben szerzett gyakorlattal rendelkezik, és elvégezte az adott szakterületre vonatkozó, a Hivatal szervezésében lebonyolított szaktanácsadói továbbképzést.
-
-[^25]: A 12. § (1) bekezdés nyitó szövegrésze a 26/2015. (V. 22.) EMMI rendelet 16. § d) pontja szerint módosított szöveg.
-[^26]: A 12. § (2) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § h) pontja hatályon kívül helyezte.
-[^27]: A 12. § (4) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte, újonnan a 24/2017. (X. 3.) EMMI rendelet 16. §-a iktatta be, szövege ez utóbbi módosító rendelet 17. §-ával megállapított szöveg.
+d) tanügyigazgatási szolgáltatás köréből a hátrányos helyzetű gyermekek, tanulók ellátásához kapcsolódó, az intézményvezetés munkáját fejlesztő, meghatározó jogi és egyéb információk gyűjtését, rendelkezésre bocsátását, e körben tájékoztatás adását, valamint az esélyegyenlőség növeléséhez kapcsolódó feladatok végrehajtásának segítését.
