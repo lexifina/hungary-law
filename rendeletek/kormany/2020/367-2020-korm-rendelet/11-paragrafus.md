@@ -1,0 +1,1 @@
+11. § Az 1. és 4. § a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
