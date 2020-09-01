@@ -1,3 +1,3 @@
-7. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^160]
+7. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^164]
 
-[^160]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
-## 44–45. §[^87]
+## 44–45. §[^91]
 
-1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^88]
+1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^92]
 
 ## Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása
 
@@ -104,5 +104,5 @@ S – a radioaktív hulladék aktivitás-koncentrációját, a hulladék szétsz
 
 Rreal – az R érték hulladékokra vonatkozó S tényezővel módosított értéke.
 
-[^87]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^88]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a, a 27/2018. (II. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^91]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a, a 27/2018. (II. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
