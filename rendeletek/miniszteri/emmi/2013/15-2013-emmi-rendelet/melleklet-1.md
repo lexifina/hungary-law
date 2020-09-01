@@ -1,5 +1,3 @@
-1. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^187]
+1. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^188]
 
-SZAKÉRTŐI VÉLEMÉNY IRÁNTI KÉRELEM
-
-[^187]: Az 1. melléklet az 53/2016. (XII. 29.) EMMI rendelet 44. §-ával megállapított szöveg.
+[^188]: Az 1. mellékletet a 14/2020. (IV. 16.) EMMI rendelet 12. § (3) bekezdés b) pontja hatályon kívül helyezte.

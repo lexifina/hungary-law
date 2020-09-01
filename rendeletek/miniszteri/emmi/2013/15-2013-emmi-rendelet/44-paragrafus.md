@@ -1,5 +1,3 @@
-## 43. §[^166] Ha a felnőttoktatásban részt vevő tanuló – az Nkt. 60. § (10) bekezdésében foglaltak alapján – nem veheti igénybe a pedagógiai szakszolgálat feladatait ellátó intézmények szolgáltatásait, a sajátos nevelési igény megállapításának kérdésében a Gyakorló Szakszolgálat jár el. A szakmai feladatra jutó folyó kiadásokból fakadó költségeket a vizsgálatot kérő, felnőttoktatásban részt vevő tanuló viseli.
-
 44. § (1)[^167] A pedagógus-szakvizsgával egyenértékű
 
 a) a munkakör ellátásához szükséges végzettség és szakképzettség mellett az egyetemi vagy főiskolai szakirányú továbbképzésben szerzett – jogszabályban meghatározott – szakképzettség,
@@ -20,7 +18,6 @@ b) pedagógus megbízása esetén a pedagógus-szakvizsga.
 
 (5) Egységes gyógypedagógiai módszertani intézmény esetén a pedagógiai szakszolgálat feladatait ellátó szervezeti és szakmai tekintetben önálló intézményegységben a szakvizsgával nem rendelkező intézményegység-vezető továbbra is megbízható az intézményegység vezetésével abban az esetben, ha vállalja, hogy a megbízás kezdő időpontjától számított öt éven belül szakvizsga-kötelezettségének eleget tesz.
 
-[^166]: A 43. § az 53/2016. (XII. 29.) EMMI rendelet 47. § 24. pontja szerint módosított szöveg.
 [^167]: A 44. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 22. §-ával megállapított szöveg.
 [^168]: [A 24/2017. (X. 3.) EMMI rendelet 27. § 4. pont 4.1. alpontjával elrendelt módosítás, amely szerint a „klinikai, pedagógiai, óvoda- és iskola vagy tanácsadói szakvizsga” szövegrész helyébe a „klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga” szöveg lép, nem vezethető át.]
 [^169]: A 44. § (2) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 48. § c) pontja hatályon kívül helyezte.

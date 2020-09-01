@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-5
 | 2019-09-01 | 2013-15-20-5H.11 | 20/2019. (VIII. 30.) EMMI rendelet |
 | 2020-01-01 | 2013-15-20-5H.12 | 34/2019. (XII. 30.) EMMI rendelet |
 | 2020-04-17 | 2013-15-20-5H.13 | 14/2020. (IV. 16.) EMMI rendelet |
+| 2020-09-01 | 2013-15-20-5H.14 | 14/2020. (IV. 16.) EMMI rendelet |
