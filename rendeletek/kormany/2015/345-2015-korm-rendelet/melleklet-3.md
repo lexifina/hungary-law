@@ -1,3 +1,3 @@
-3. melléklet a 345/2015. (XI. 19.) Korm. rendelethez[^48]
+3. melléklet a 345/2015. (XI. 19.) Korm. rendelethez[^47]
 
-[^48]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
