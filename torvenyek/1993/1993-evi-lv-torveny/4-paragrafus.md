@@ -20,11 +20,13 @@ a) magyar állampolgárral legalább három éve érvényes házasságban él, v
 
 b) kiskorú gyermeke magyar állampolgár,
 
-c) magyar állampolgár fogadta örökbe,
+c) magyar állampolgár fogadta örökbe és nagykorú,
 
 d) magyar hatóság menekültként elismerte vagy
 
 e) hontalan.
+
+(2a) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén kérelemre kedvezményesen honosítható az a kiskorú nem magyar állampolgár, akit magyar állampolgár fogadott örökbe.
 
 (3) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén – kérelmére – kedvezményesen honosítható az a nem magyar állampolgár, akinek felmenője magyar állampolgár volt vagy valószínűsíti magyarországi származását, és magyar nyelvtudását igazolja.
 
@@ -50,7 +52,7 @@ c)
 
 (5) Az (1)–(2) és (4) bekezdésekben meghatározott időtartamú, folyamatos magyarországi lakóhelytől kiskorú tekintetében el lehet tekinteni, ha honosítását a szülőjével együtt kéri, vagy szülője a magyar állampolgárságot megszerezte.
 
-(6) A magyar állampolgár által örökbefogadott kiskorú gyermek lakóhelyétől függetlenül honosítható.
+(6)
 
 (7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) előterjesztésére – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
 
