@@ -46,7 +46,7 @@ szövegrész lép.
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a Névjegyzéket vezető hatóság kijelölésére vonatkozó rendelkezéseket,
+a) a Névjegyzéket és a Jelnyelvoktatói Névjegyzéket vezető hatóság kijelölésére vonatkozó rendelkezéseket,
 
 b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó,
 

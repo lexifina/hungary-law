@@ -6,6 +6,6 @@ a) a tanulói jogviszonnyal összefüggésben a gimnáziumban, szakképző inté
 
 b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére szemeszterenként 60 óra,
 
-c) a képzéssel összefüggésben a felnőttképzésben részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű
+c) a felnőttképzési jogviszonnyal összefüggésben a szakmai oktatásban vagy a felnőttképzésről szóló törvény szerinti képzésben felnőttképzési jogviszonyban részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű
 
 térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
