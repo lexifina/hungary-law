@@ -40,17 +40,17 @@ g)[^144] a bevándorolt jogállású személy bevándorlási engedélyét vissza
 
 (7)[^150] Az érvénytelen hatósági igazolványt a polgár, illetve – elhalálozása esetén – hozzátartozója vagy az egészségügyi vagy szociális intézmény köteles nyolc napon belül leadni a (4), (5) és (6) bekezdésben megjelölt hatóságnak.
 
-(8)[^151] Ha a magyar állampolgár hatósági igazolványa a (2) bekezdés a) pontja alapján a külföldi letelepedési szándék bejelentésének nyilvántartásba vételére tekintettel érvénytelen, a magyar állampolgár az érvénytelen hatósági igazolványt köteles
+(8)[^151] Ha a magyar állampolgár hatósági igazolványa a (2) bekezdés a) pontja alapján a külföldi letelepedési szándék bejelentésének nyilvántartásba vételére tekintettel érvénytelen, az érvénytelen hatósági igazolvány leadható
 
-a) személyesen, törvényes képviselő vagy meghatalmazott útján a külföldi letelepedésre vonatkozó nyilatkozattal kapcsolatos eljárás megindításának helye szerint illetékes járási hivatalnál vagy konzuli tisztviselőnél leadni, vagy
+a) személyesen, törvényes képviselő vagy meghatalmazott útján a külföldi letelepedésre vonatkozó nyilatkozattal kapcsolatos eljárás megindításának helye szerint illetékes járási hivatalnál vagy konzuli tisztviselőnél, vagy
 
-b) személyes megjelenés nélkül, postai úton megküldeni a külföldi letelepedésre vonatkozó nyilatkozattal kapcsolatos eljárás megindításának helye szerint illetékes járási hivatalnak vagy konzuli tisztviselőnek.
+b) személyes megjelenés nélkül, postai úton a külföldi letelepedésre vonatkozó nyilatkozattal kapcsolatos eljárás megindításának helye szerint illetékes járási hivatalnak vagy konzuli tisztviselőnek címezve.
 
-(9)[^152] Ha a polgár hatósági igazolványa tartózkodási helyének újabb tartózkodási hely létesítése nélküli megszüntetése elektronikus úton történő bejelentésére tekintettel érvénytelen, az érvénytelen hatósági igazolványt köteles
+(9)[^152] Ha a polgár hatósági igazolványa a lakcímbejelentése vagy a magyar állampolgár magyarországi letelepedés szándékával külföldről történő hazatérése elektronikus úton történő bejelentésének nyilvántartásba vételére tekintettel érvénytelen, az érvénytelen hatósági igazolvány leadható
 
-a) személyesen, törvényes képviselő vagy meghatalmazott útján a tartózkodási hely megszüntetésével kapcsolatos eljárás megindításának helye szerint illetékes járási hivatalnál leadni, vagy
+a) személyesen, törvényes képviselő vagy meghatalmazott útján bármely járási hivatalnál, vagy
 
-b) személyes megjelenés nélkül, postai úton megküldeni a tartózkodási hely megszüntetésével kapcsolatos eljárás megindításának helye szerint illetékes járási hivatalnak.
+b) személyes megjelenés nélkül, postai úton az eljárás megindításának helye szerint illetékes járási hivatalnak címezve.
 
 [^135]: Az R.19. §-a a 230/2000. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^136]: Az R. 19. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése, a 417/2012. (XII. 29.) Korm. rendelet 40. § e) pontja, az 515/2013. (XII. 30.) Korm. rendelet 16. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 1. pontja, a 440/2016. (XII. 16.) Korm. rendelet 2. § a) pontja szerint módosíottt szöveg.
@@ -68,5 +68,5 @@ b) személyes megjelenés nélkül, postai úton megküldeni a tartózkodási he
 [^148]: Az R. 19. §-ának (5) bekezdése a 9/2004. (I. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 417/2012. (XII. 29.) Korm. rendelet 40. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 18. pontja szerint módosított szöveg.
 [^149]: Az R. 19. § (6) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 27. § (1) bekezdése, a 417/2012. (XII. 29.) Korm. rendelet 40. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 19. pontja szerint módosított szöveg.
 [^150]: Az R. 19. § (7) bekezdése a 115/2007. (V. 24.) Korm. rendelet 1. § (6) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 41. § f) pontja, a 221/2014. (IX. 4.) Korm. rendelet 155. § g) pontja szerint módosított szöveg.
-[^151]: Az R. 19. § (8) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 22. § (4) bekezdése iktatta be.
-[^152]: Az R. 19. § (9) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 11. § (11) bekezdése iktatta be.
+[^151]: Az R. 19. § (8) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 22. § (4) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 2. § (2) bekezedésével megállapított szöveg.
+[^152]: Az R. 19. § (9) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 11. § (11) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 2. § (2) bekezedésével megállapított szöveg.

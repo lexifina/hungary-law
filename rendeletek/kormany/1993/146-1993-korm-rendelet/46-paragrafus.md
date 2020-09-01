@@ -1,11 +1,11 @@
-46. § (1)[^269] Az adatszolgáltatási nyilvántartásból az Nytv. 31. §-ának (3) bekezdése alapján a polgár tájékoztatást kérhet a nyilvántartás helyi és területi szervétől és a nyilvántartást kezelő szervtől, hogy mely adatszolgáltatások alanya volt.
+46. § (1)[^271] Az adatszolgáltatási nyilvántartásból az Nytv. 31. §-ának (3) bekezdése alapján a polgár tájékoztatást kérhet a nyilvántartás helyi és területi szervétől és a nyilvántartást kezelő szervtől, hogy mely adatszolgáltatások alanya volt.
 
 (2) Az Nytv. 24. §-ában meghatározott szerveknek nyújtott adatszolgáltatásról a kérelmező polgárnak az e szervekre vonatkozó törvényben foglaltak szerint adható tájékoztatás. A tájékoztatás teljesítése előtt — kivéve, ha jogszabály eltérően rendelkezik — meg kell keresni az érintett szervet és az általa közöltek szerint kell megadni a tájékoztatást.
 
-(3)[^270] Az (1) bekezdésben foglaltakon túl az adatszolgáltatási nyilvántartásból a Nemzeti Adatvédelmi és Információszabadság Hatóságnak, az adatvédelmi tisztviselőnek, valamint az Nytv. 24. § (1) bekezdésében felsorolt szerveknek szolgáltatható adat.
+(3)[^272] Az (1) bekezdésben foglaltakon túl az adatszolgáltatási nyilvántartásból a Nemzeti Adatvédelmi és Információszabadság Hatóságnak, az adatvédelmi tisztviselőnek, valamint az Nytv. 24. § (1) bekezdésében felsorolt szerveknek szolgáltatható adat.
 
-(4)[^271] A nyilvántartás területi és helyi szervének adatvédelmi tisztviselője részére a 45. § a) pontja szerinti, a területi és helyi szervek által vezetett adatszolgáltatási nyilvántartásokból szolgáltatható adat.
+(4)[^273] A nyilvántartás területi és helyi szervének adatvédelmi tisztviselője részére a 45. § a) pontja szerinti, a területi és helyi szervek által vezetett adatszolgáltatási nyilvántartásokból szolgáltatható adat.
 
-[^269]: Az R. 46. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 23. pontja szerint módosított szöveg.
-[^270]: Az R. 46. § (3) bekezdése a 314/2011. (XII. 23.) Korm. rendelet 2. § f) pontja, a 181/2019. (VII. 26.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^271]: Az R. 46. § (4) bekezdését a 181/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^271]: Az R. 46. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 23. pontja szerint módosított szöveg.
+[^272]: Az R. 46. § (3) bekezdése a 314/2011. (XII. 23.) Korm. rendelet 2. § f) pontja, a 181/2019. (VII. 26.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^273]: Az R. 46. § (4) bekezdését a 181/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
