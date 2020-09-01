@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-277-20-
 | 2019-09-01 | 1997-277-20-22.28 | 196/2019. (VIII. 1.) Korm. rendelet |
 | 2019-11-29 | 1997-277-20-22.29 | 278/2019. (XI. 21.) Korm. rendelet |
 | 2020-02-15 | 1997-277-20-22.30 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-09-01 | 1997-277-20-22.31 | 417/2020. (VIII. 30.) Korm. rendelet |

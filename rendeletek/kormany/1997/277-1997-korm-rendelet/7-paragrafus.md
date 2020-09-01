@@ -38,7 +38,7 @@ a) a továbbképzési program követelményeinek teljesítéséhez nincs szüks�
 
 b)[^42] a továbbképzési program nem felel meg az e rendeletben megállapított pedagógus-továbbképzési programok bírálati szempontjainak.
 
-(11)[^43] A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek az oktatásért felelős miniszter által vezetett minisztériumba kell megküldeni.
+(11)[^43] A Pedagógus-továbbképzési Akkreditációs Testület javasolhatja a program kiegészítését, kijavítását. A kiegészített, kijavított programot a kérelmezőnek a Hivatalba kell megküldeni.
 
 (12)[^44]
 
@@ -54,5 +54,5 @@ b)[^42] a továbbképzési program nem felel meg az e rendeletben megállapítot
 [^40]: A 7. § (8) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^41]: A 7. § (10) bekezdés nyitó szövegrésze a 196/2019. (VIII. 1.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
 [^42]: A 7. § (10) bekezdés b) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
-[^43]: A 7. § (11) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 15. pontja szerint módosított szöveg.
+[^43]: A 7. § (11) bekezdése a 417/2020. (VIII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^44]: A 7. § (12) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
