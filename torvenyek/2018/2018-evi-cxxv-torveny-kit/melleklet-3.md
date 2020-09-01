@@ -175,7 +175,3 @@
 ## VII.
 
 ## 1. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
-
-## 2. kormányzati kirendelésének adatai
-
-## VIII.

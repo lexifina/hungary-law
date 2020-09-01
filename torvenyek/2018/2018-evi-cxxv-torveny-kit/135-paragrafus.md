@@ -8,7 +8,7 @@
 
 a) a szabadság időtartamára,
 
-b) a 93. § (2) bekezdés c)–g) és i) pontjában meghatározott esetekben,
+b) a 93. § (2) bekezdés c)–g), i) és n) pontjában meghatározott esetekben,
 
 c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
 
