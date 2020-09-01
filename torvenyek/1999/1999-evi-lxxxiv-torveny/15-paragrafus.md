@@ -2,7 +2,7 @@
 
 15. § (1) A nyilvántartó kezeli:
 
-a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától vagy a járművezető elhalálozásától számított tíz évig;
+a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától, a járművezető elhalálozásától vagy járművezető-jelölt nyilvántartásba vételétől számított tíz évig;
 
 b) a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokat a jármű forgalomból történő végleges kivonásától számított tíz évig; a 9. § (2) bekezdés f) pontja szerinti adatokat a törvényben meghatározott időtartamig;
 
@@ -18,6 +18,16 @@ g) a 9/D. §-ban megjelölt adatokat az ideiglenes rendszámtáblák használat�
 
 (2) Az okmánytár iratait a nyilvántartó az (1) bekezdésben megjelölt határidőt követő öt évig kezeli.
 
-(3) A nyilvántartó a 8. § (1) bekezdés a) pont ah) alpontjában meghatározott személyes adatnak minősülő adatokat törvényben előírt ideig, a 8. § (2) bekezdése szerinti adatokat a jogszabályban meghatározott időtartamig kezeli.
+(3) A nyilvántartó
+
+a) a 8. § (1) bekezdés a) pont ah) alpontjában meghatározott személyes adatnak minősülő adatokat törvényben előírt ideig,
+
+b) a 8. § (1) bekezdés a) pont aj) alpontjában meghatározott adatokat a vezetési jogosultság szünetelésének lejártát, illetve a járművezető vagy a járművezető-jelölt elhalálozása miatti megszűnését követő öt évig,
+
+c) a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokat a kényszergyógykezelés megszűnésétől vagy a megszüntetését elrendelő végzés jogerőre emelkedésétől számított három évig,
+
+d) a 8. § (2) bekezdése szerinti adatokat jogszabályban meghatározott időtartamig
+
+kezeli.
 
 (4) A nyilvántartó a 8/A. § adatait a parkolási igazolványra való jogosultság megszűnésétől számított öt évig kezeli.

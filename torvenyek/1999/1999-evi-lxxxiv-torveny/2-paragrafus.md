@@ -38,4 +38,8 @@
 
 18. Járműéletút-adatszolgáltatás: a nyilvántartó által az e célra szolgáló informatikai platformon keresztül, több nyilvántartás adatainak felhasználásával elektronikus úton nyújtott szolgáltatás.
 
-19. Ideiglenes rendszámtáblák nyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
+19. Ideiglenes rendszámtáblák inyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
+
+20. Járművezető: az a személy, akinek a vezetési jogosultságára, a vezetői engedélyére vagy a vezetési jogosultsága szünetelésére vonatkozóan szerepel adat az engedély-nyilvántartásban.
+
+21. Járművezető-jelölt: az a vezetői engedéllyel vagy vezetési jogosultsággal még nem rendelkező személy, akinek a vezetői engedélye kiállításához szükséges adatok szerepelnek az engedély-nyilvántartásban.

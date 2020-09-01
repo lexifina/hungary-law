@@ -1,6 +1,6 @@
 8. § (1) Az engedély-nyilvántartás tartalmazza
 
-a) a járművezető,
+a) a járművezető vagy járművezető-jelölt,
 
 aa) természetes személyazonosító adatát,
 
@@ -19,6 +19,10 @@ ag) állampolgárságát,
 ah) közúti közlekedési előéleti pontrendszer adatait,
 
 ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat,
+
+aj) vezetési jogosultságának szünetelésére vonatkozó adatokat,
+
+ak) kényszergyógykezelését elrendelő bíróság megnevezésére és ügyszámára, valamint a kényszergyógykezelés elrendelésének és megszűnésének vagy megszüntetésének időpontjára vonatkozó adatokat.
 
 b) az engedély
 

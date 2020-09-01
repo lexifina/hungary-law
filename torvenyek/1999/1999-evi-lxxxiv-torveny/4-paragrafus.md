@@ -6,7 +6,13 @@ b) kezeli a nyilvántartás adatállományát és biztosítja a nyilvántartásb
 
 c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetében adatszolgáltatást teljesít;
 
-d)–g)
+d) kezeli a nyilvántartáshoz közvetlen hozzáféréssel rendelkező felhasználók jogosultsági nyilvántartását.
+
+e)
+
+f)
+
+g)
 
 (1a) A nyilvántartó az (1) bekezdés b) pontjában foglalt feladat- és hatáskörben eljárva, a gyártmány-típus-alvázszám összefüggések helyességének biztosítása érdekében azok előzetes ellenőrzését végzi.
 

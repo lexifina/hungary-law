@@ -40,4 +40,8 @@ ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meg
 
 hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
 
-hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről.
+hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről,
+
+i) a gondnokoltak nyilvántartásának adatkezelője elektronikus úton a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 3. § (1) bekezdés a) pont aa)–ae) alpontjában, valamint b)–e) pontjában meghatározott adatokról, a cselekvőképesség, valamint a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából,
+
+j) a bűnügyi nyilvántartó szerv elektronikus úton a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokról.
