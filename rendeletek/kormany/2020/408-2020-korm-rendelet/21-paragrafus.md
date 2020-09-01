@@ -1,0 +1,1 @@
+## 20. § Az országos tisztifőorvos meghatározza a Magyarországra történő belépést megelőző egészségügyi vizsgálat során elvégzendő vizsgálatok körét és azok végrehajtásának módját a járványügyi készültség során működő Operatív Törzs feladatairól szóló 286/2020. (VI. 17.) Korm. rendelet 1. § (1) bekezdése alapján létrehozott Operatív Törzs véleményének kikérésével.
