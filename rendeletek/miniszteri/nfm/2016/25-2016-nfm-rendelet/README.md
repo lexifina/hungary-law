@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-25-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-08-06 | 2016-25-20-2W.1 | 25/2016. (VII. 22.) NFM rendelet |
+| 2020-09-01 | 2016-25-20-2W.2 | 29/2020. (VII. 17.) ITM rendelet |
