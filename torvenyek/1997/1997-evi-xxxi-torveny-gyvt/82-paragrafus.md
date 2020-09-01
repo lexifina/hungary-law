@@ -8,7 +8,13 @@
 
 (4) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt.
 
-(5) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából a területi gyermekvédelmi szakszolgálat megkeresésétől számított 30 napon belül összefoglaló véleményt készít a gyermek egészségi és személyiségállapotáról, az életkorához viszonyított értelmi, érzelmi és mozgásfejlettségi szintjéről.
+(5) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
+
+a) a gyámhatóságnak az örökbefogadhatóvá nyilvánítás iránti eljárás megindításáról szóló értesítésének kézhezvételétől,
+
+b) az a) ponton kívüli okból örökbefogadható gyermek esetében a területi gyermekvédelmi szakszolgálat megkeresésétől
+
+számított 30 napon belül összefoglaló véleményt készít a gyermek egészségi és személyiségállapotáról, az életkorához viszonyított értelmi, érzelmi és mozgásfejlettségi szintjéről.
 
 (6) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
 

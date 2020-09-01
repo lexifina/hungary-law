@@ -4,13 +4,13 @@
 
 a) a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszerbe a gyámhatóság határozata alapján örökbefogadhatónak nyilvánított, illetve a más okból örökbefogadható ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek, valamint a szülő, az egészségügyi szolgáltatást nyújtó szerv vagy személy, a gyermekjóléti szolgálat, a gyermekjóléti központ, családvédelemmel foglalkozó más szerv bejelentése alapján az örökbefogadható gyermek rögzítése,
 
-b) az örökbe fogadni szándékozó személy tájékoztatása az örökbefogadás feltételeiről, így különösen az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról,
+b) az örökbe fogadni szándékozó személy tájékoztatása az örökbefogadás feltételeiről, így különösen az örökbefogadás előtti tanácsadásról és az ingyenesen igénybe vehető felkészítő tanfolyamról,
 
 c) az örökbe fogadni szándékozó körülményeinek, egészségügyi és lélektani alkalmasságának vizsgálata az örökbefogadást szabályozó jogszabályokban rögzített szakmai követelmények figyelembevételével és az örökbe fogadni szándékozó személynek – a gyámhatóság határozata alapján – a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszerbe való rögzítése,
 
 d)
 
-(2)
+(2) A gyermekvédelmi szakszolgáltatás az (1) bekezdés b) pontja szerinti tájékoztatás során felhívja az örökbe fogadni szándékozó személy figyelmét arra, hogy körülményei tekintetében köteles a valóságnak megfelelő információkat szolgáltatni, amelynek elmaradását értékelni kell az alkalmasságára vonatkozó vélemény kialakításánál, illetve az a már megállapított alkalmassága felülvizsgálatát eredményezi.
 
 (3) A gyermekvédelmi szakszolgáltatás a külön jogszabályban meghatározott feltételek mellett
 
