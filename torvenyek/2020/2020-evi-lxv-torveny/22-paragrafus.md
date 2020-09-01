@@ -1,0 +1,1 @@
+22. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:124. § (3) bekezdésében az „a nevelésbe vételt” szövegrész helyébe az „az ideiglenes hatályú elhelyezést és a nevelésbe vételt” szöveg lép.

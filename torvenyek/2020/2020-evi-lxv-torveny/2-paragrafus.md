@@ -1,0 +1,1 @@
+2. § A magyar állampolgárságról szóló 1993. évi LV. törvény 7. § (1) bekezdésében, 16. § (1), (3), (3a) és (6) bekezdésében, 19. § (1) bekezdésében a „4. § (3), (3a), (6)” szövegrész helyébe a „4. § (2a), (3), (3a)” szöveg lép.
