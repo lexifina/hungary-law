@@ -106,7 +106,7 @@ mb) a 16. § (1) bekezdés c) pont ca) és cb) alpontjában, f), g), i) pontjáb
 
 mc) a 23. § c), f) és g) pontjában meghatározott adatok.
 
-(3)
+(3) A közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság a közlekedésbiztonsági alkalmasság ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 16. § (1) bekezdés e) pontjában és (2) bekezdés m) pontjában meghatározott adatokat, ha az érintett személlyel szemben kényszergyógykezelést rendeltek el.
 
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 

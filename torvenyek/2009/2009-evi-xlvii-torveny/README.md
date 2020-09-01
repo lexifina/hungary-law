@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2020-02-01 | 2019. évi CX. törvény | 2009-47-00-00.38 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2009-47-00-00.39 |
 | 2020-07-16 | 2020. évi LXXIV. törvény | 2009-47-00-00.40 |
+| 2020-09-01 | 2020. évi XXXI. törvény | 2009-47-00-00.41 |
