@@ -1,5 +1,5 @@
-## 3. § A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet 24. §-a a következő (3a) bekezdéssel egészül ki:
-
-## „(3a) Ha az 1062/2014/EU felhatalmazáson alapuló bizottsági rendelet alapján már értékelt vagy még nem értékelt, az adott terméktípus vonatkozásában még nem jóváhagyott, létező hatóanyagokat tartalmazó biocid termékre kiadott engedély olyan termékre kerül megadásra, amely az engedély kiadásakor jogszerűen van forgalomban, az engedélyező hatóság a már forgalomba hozott termékek forgalmazására legfeljebb 180 nap, felhasználására pedig további 180 nap türelmi időt biztosíthat, kivéve, ha a biocid termék további forgalmazása vagy felhasználása az emberi egészségre, az állati egészségre vagy a környezetre nézve elfogadhatatlan kockázatot jelent.”
+## 3. §[^4]
 
 ## 3. A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet módosítása
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
