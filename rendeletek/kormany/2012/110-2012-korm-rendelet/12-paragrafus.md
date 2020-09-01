@@ -1,4 +1,4 @@
-12. §[^28] (1) A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet módosításáról szóló 5/2020. (I. 31.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. § (1) és (2) bekezdését, 3. § (2), (5) és (6) bekezdését, 5. § (1), (3) és (4) bekezdését, 8. §-át és Mellékletét első alkalommal a 2020/2021. tanévben
+12. §[^29] (1) A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet módosításáról szóló 5/2020. (I. 31.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. § (1) és (2) bekezdését, 3. § (2), (5) és (6) bekezdését, 5. § (1), (3) és (4) bekezdését, 8. §-át és Mellékletét első alkalommal a 2020/2021. tanévben
 
 a) az iskolák első évfolyamán,
 
@@ -12,9 +12,9 @@ majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
 
 (3) Az iskolák az (1) bekezdés által érintett évfolyamokon a (2) bekezdés szerint felülvizsgált pedagógiai program szerint kezdik meg a 2020/2021. tanévben a nevelő-oktató munkát.
 
-(4) Az iskoláknak az (1) bekezdésben fel nem sorolt évfolyamain a nevelő-oktató munkát a Módr. 7. § (2) bekezdésében meghatározott miniszteri rendeleteknek a Módr. hatálybalépésekor[^29] hatályos rendelkezései alkalmazásával kell megszervezni.
+(4) Az iskoláknak az (1) bekezdésben fel nem sorolt évfolyamain a nevelő-oktató munkát a Módr. 7. § (2) bekezdésében meghatározott miniszteri rendeleteknek a Módr. hatálybalépésekor[^30] hatályos rendelkezései alkalmazásával kell megszervezni.
 
-Melléklet a 110/2012. (VI. 4.) Korm. rendelethez[^30]
+Melléklet a 110/2012. (VI. 4.) Korm. rendelethez[^31]
 
 NEMZETI ALAPTANTERV
 
@@ -28,7 +28,7 @@ A Nat a magyar kulturális és pedagógiai örökség gyökereiből táplálkozi
 
 I. 1. A KÖZNEVELÉS FELADATA ÉS ÉRTÉKEI
 
-A hazánk Alaptörvényében[^31] megfogalmazott feladatokat szem előtt tartva és A nemzeti köznevelésről szóló törvényben[^32] foglalt célok elérése érdekében, a törvény elveinek és szabályozásának megfelelően a Nat a köznevelés feladatát alapvetően a nemzeti műveltség, a hazai nemzetiségek kultúrájának átadásában, megőrzésében, az egyetemes kultúra közvetítésében, az erkölcsi érzék és a szellemi-érzelmi fogékonyság elmélyítésében jelöli meg. Feladata továbbá a tanuláshoz és a munkához szükséges képességek, készségek, ismeretek, attitűdök együttes fejlesztése, az egyéni és csoportos teljesítmény ösztönzése, a közjóra való törekvés megalapozása, a nemzeti, közösségi összetartozás és a hazafiság megerősítése.
+A hazánk Alaptörvényében[^32] megfogalmazott feladatokat szem előtt tartva és A nemzeti köznevelésről szóló törvényben[^33] foglalt célok elérése érdekében, a törvény elveinek és szabályozásának megfelelően a Nat a köznevelés feladatát alapvetően a nemzeti műveltség, a hazai nemzetiségek kultúrájának átadásában, megőrzésében, az egyetemes kultúra közvetítésében, az erkölcsi érzék és a szellemi-érzelmi fogékonyság elmélyítésében jelöli meg. Feladata továbbá a tanuláshoz és a munkához szükséges képességek, készségek, ismeretek, attitűdök együttes fejlesztése, az egyéni és csoportos teljesítmény ösztönzése, a közjóra való törekvés megalapozása, a nemzeti, közösségi összetartozás és a hazafiság megerősítése.
 
 Célja továbbá, hogy a családdal együttműködve cselekvő elkötelezettségre neveljen az igazság és az igazságosság, a jó és a szép iránt, fejlessze a harmonikus személyiség kibontakoztatásához szükséges szellemi, érzelmi, erkölcsi, társas és testi képességeket. Ezáltal járul hozzá ahhoz, hogy a felnövekvő nemzedék
 
@@ -392,7 +392,7 @@ II.2.1.1. táblázat: Alapóraszámok tanulási területenként kétéves bontá
 
 | 15 | Maximális órakeret | 48 | 49 | 56 | 60 | 68 | 68 |
 
-A magyar nyelv és irodalom, a matematika és a történelem és állampolgári ismeretek műveltségi területekre a 11–12. évfolyamra meghatározott óraszámok és a Nat tartalma érvényes a szakgimnáziumban és a szakképzési törvényben meghatározott eltérésekkel a technikumban is.
+A magyar nyelv és irodalom, a matematika és a történelem és állampolgári ismeretek műveltségi területekre a Nat tartalma érvényes a szakgimnáziumban és a szakképzési törvényben meghatározott eltérésekkel a technikumban is.
 
 A hon- és népismeret tantárgy a felső tagozat bármelyik évfolyamán választható. A hon- és népismeret tantárgy oktatásához a történelem és állampolgári ismeretek műveltségi terület alapóraszámában a II.2.1.1. táblázat D:5 mezőjében, az 5–6. évfolyamra meghatározott érték egy tanórát tartalmaz, amely átcsoportosítható az E:5 mezőben, a 7–8. évfolyamra vonatkozó alapóraszámba.
 
@@ -1534,7 +1534,7 @@ A sikerben fontos szerepet játszik az önálló nyelvtanulásra való tudatos f
 
 Az idegen nyelv tanulási terület két tantárgyat ölel fel: az élő és a klasszikus idegen nyelvet.
 
-Élő idegen nyelv: Az első idegen nyelv oktatását 4. évfolyamon, a másodikat a 9. évfolyamon kell megkezdeni. A középiskolákban második idegen nyelvként szabad választás szerint oktathatók a klasszikus vagy az élő idegen nyelvek.
+Élő idegen nyelv: Az első idegen nyelv oktatását 4. évfolyamon, a másodikat a 9. évfolyamon kell megkezdeni. A középiskolákban második idegen nyelvként szabad választás szerint oktathatók a klasszikus vagy az élő idegen nyelvek. Ha a gimnáziumban a felnőttoktatás munkarendjében folyik a nevelő-oktató tevékenység, a második idegen nyelv oktatása nem kötelező.
 
 Klasszikus idegen nyelv: Második idegen nyelvként kerettantervvel szabályozott klasszikus nyelvet is oktathatnak az intézmények.
 
@@ -4950,8 +4950,60 @@ FŐ TÉMAKÖRÖK AZ 5–8. ÉVFOLYAMON
 
 2. Találkozás a múlttal: Nagyszüleink, dédszüleink világa falun és városban; A paraszti ház és háztartás. Népi mesterségek; A hétköznapok rendje (életvitel, étkezési szokások, ruházat-népviselet); Jeles napok, hagyományos népi és vallási ünnepi szokások; Hitélet és közösségi élet falun és városban; Az emberi élet meghatározó állomásai; Szórakozás a múltban falun és városban.
 
-[^28]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
-[^29]: A hatálybalépés időpontja 2020. február 8.
-[^30]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^31]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
-[^32]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.
+3. Örökségünk, hagyományaink, nagyjaink: Az ősi magyar kultúra hagyatéka; Magyarok a Kárpát- medencében és Moldvában; Néprajzi tájak, tájegységek és etnikai csoportok a Kárpát-medencében. A szomszédos országok; A hazánkban élő nemzetiségek kultúrája és hagyományai (pl.: roma/cigány népismeret elemei); Természeti és épített örökségünk; Hungarikumok; A magyar tudomány és kultúra eredményei és hatásai a világban.
+
+C) TANULÁSI EREDMÉNYEK
+
+ÁTFOGÓ CÉLKÉNT KITŰZÖTT, VALAMINT A FEJLESZTÉSI TERÜLETEKHEZ KAPCSOLÓDÓ TANULÁSI EREDMÉNYEK (ÁLTALÁNOS KÖVETELMÉNYEK) AZ 5–8. ÉVFOLYAMON
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+1. képessé válik a nemzedékek közötti párbeszédre;
+
+2. megismeri Magyarország és a Kárpát-medence kulturális hagyományait, tiszteletben tartja más kultúrák értékeit;
+
+3. ismeri és adekvát módon használja az ismeretkör tartalmi kulcsfogalmait;
+
+4. az önálló ismeretszerzés során alkalmazni tudja az interjúkészítés, a forráselemzés módszerét;
+
+5. képes az együttműködésre csoportmunkában, alkalmazza a tevékenységek lezárásakor az önértékelést és a társak értékelését.
+
+A LOKÁLPATRIOTIZMUS ÉS A NEMZETI IDENTITÁS ERŐSÍTÉSE
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+1. megismeri a közvetlen környezetében található helyi értékeket, felhasználva a digitálisan elérhető adatbázisokat is;
+
+2. megbecsüli szűkebb lakókörnyezetének épített örökségét, természeti értékeit, helyi hagyományait;
+
+3. megéli a közösséghez tartozást, nemzeti önazonosságát, kialakul benne a haza iránti szeretet és elköteleződés.
+
+A CSALÁD, A CSALÁDTAGOK, A KÖZÖSSÉG EMBERI ÉRTÉKEI IRÁNTI ÉRZÉKENYSÉG FEJLESZTÉSE
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+1. megtapasztalja a legszűkebb közösséghez, a családhoz, a lokális közösséghez tartozás érzését;
+
+2. nyitottá válik a hagyományos családi és közösségi értékek befogadására;
+
+3. felismeri a néphagyományok közösségformáló, közösségmegtartó erejét;
+
+4. tiszteletben tartja más kultúrák értékeit.
+
+A NEMZEDÉKEK KÖZÖTTI TÁVOLSÁG CSÖKKENTÉSE
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+1. érdeklődő attitűdjével erősíti a nemzedékek közötti párbeszédet;
+
+2. megbecsüli és megismeri az idősebb családtagok tudását, tapasztalatait, nyitott a korábbi nemzedékek életmódjának, normarendszerének megismerésére.
+
+A KÖRNYEZETTUDATOS SZEMLÉLET FEJLESZTÉSE
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+[^29]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2020. február 8.
+[^31]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a szerint módosított szöveg.
+[^32]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
+[^33]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.

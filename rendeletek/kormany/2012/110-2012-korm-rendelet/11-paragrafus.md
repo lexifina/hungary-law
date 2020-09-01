@@ -1,4 +1,4 @@
-11. §[^27] (1) Az iskolák e rendelet Mellékletének – a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (IV. 4.) Korm. rendelet módosításáról szóló 7/2014 (I. 17.) Korm. rendelettel megállapított –
+11. §[^28] (1) Az iskolák e rendelet Mellékletének – a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (IV. 4.) Korm. rendelet módosításáról szóló 7/2014 (I. 17.) Korm. rendelettel megállapított –
 
 a) I.2.1. A köznevelési rendszer egyes feladataira és intézményeire vonatkozó külön szabályok cím Az idegennyelv-oktatás alcímében,
 
@@ -22,4 +22,4 @@ i) II.3.10. TESTNEVELÉS ÉS SPORT cím C) KÖZMŰVELTSÉGI TARTALMAK alcímébe
 
 (2) Az iskolák a 2014/2015. tanévben az (1) bekezdés alapján felülvizsgált pedagógiai programjuk szerint kezdik meg a nevelő-oktató munkát.
 
-[^27]: A 11. §-t a 7/2014. (I. 17.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A 11. §-t a 7/2014. (I. 17.) Korm. rendelet 1. §-a iktatta be.
