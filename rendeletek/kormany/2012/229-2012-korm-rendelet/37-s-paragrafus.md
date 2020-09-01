@@ -1,8 +1,8 @@
 ## 16/G. A hit- és erkölcstanoktatás támogatása
 
-37/S. §[^178] (1) A hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatás és tankönyvtámogatás igénylésére, megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstári adatszolgáltatásra a 37/A–37/P. §-nak az átlagbér alapú támogatásra vonatkozó szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
+37/S. §[^184] (1)[^185] A hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatás igénylésére, megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstári adatszolgáltatásra a 37/A–37/P. §-nak az átlagbér alapú támogatásra vonatkozó szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
 
-(2) A bevett egyház a hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatásra és tankönyvtámogatásra vonatkozó kérelmét
+(2)[^186] A bevett egyház a hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatásra vonatkozó kérelmét
 
 a) január 31-éig a tárgyévet megelőző év október 1-jei ténylétszám alapján,
 
@@ -30,8 +30,11 @@ b) b) pontjában foglalt igénylés alapján szeptember–december hónapokra 4/
 
 (9) Az állami iskola fenntartója a hit- és erkölcstanoktatás megtartását igazoló nyilatkozatát január 15-éig, a (8) bekezdés szerinti esetben a megszüntetéstől, szüneteltetéstől számított 15 napon belül az érintett iskolák szerinti bontásban küldi meg a bevett egyháznak. A nyilatkozat tartalmazza az érintett iskola hivatalos nevét, OM azonosítóját, az oktatásban részt vett tanulók számát feladatellátási hely, évfolyamonkénti és csoportonkénti bontásban és a ténylegesen megtartott hit- és erkölcstanórák számát.
 
-(10) A hit- és erkölcstanoktatáshoz kapcsolódó tankönyvtámogatást a kincstár Budapesti és Pest Megyei Igazgatósága folyósítja.
+(10)[^187]
 
 (11) A hit- és erkölcstanoktatáshoz kapcsolódó támogatás igénylésekor és az elszámolásakor nem kell alkalmazni a 37/B. § (1) bekezdés d) pontjában meghatározottakat, továbbá a bevett egyház nem kötelezhető a hit- és erkölcstanoktatásban résztvevő tanulók oktatási azonosító számának megadására.
 
-[^178]: A 37/S. § a 3/2015. (I. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^184]: A 37/S. § a 3/2015. (I. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^185]: A 37/S. § (1) bekezdése a 417/2020. (VIII. 30.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
+[^186]: A 37/S. § (2) bekezdés nyitó szövegrésze a 417/2020. (VIII. 30.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^187]: A 37/S. § (10) bekezdését a 417/2020. (VIII. 30.) Korm. rendelet 15. § i) pontja hatályon kívül helyezte.
