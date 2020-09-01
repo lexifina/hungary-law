@@ -60,33 +60,33 @@ haladéktalanul tájékoztatja.
 
 (12)[^33] Alapkezelő a (4)–(11) bekezdés szerinti eljárás lezárását követő öt napon belül – az érvénytelenné nyilvánított pályázatok figyelmen kívül hagyásával – az Ávr. 71. § (2) bekezdése alapján pontszám – pontegyenlőség esetén érkezési sorrend – alapú döntési listát készít.
 
-(13) Alapkezelő a (12) bekezdés szerinti döntési lista elkészítésével egy időben megállapítja a várólistát és elkészíti az elutasított támogatási igények listáját tartalmazó dokumentumot.
+(13)[^34] Alapkezelő a (12) bekezdés szerinti döntési lista elkészítésével egy időben elkészíti az elutasított támogatási igények listáját tartalmazó dokumentumot.
 
-(14)[^34] Az Alapkezelő az internetes támogatáskezelő rendszeren keresztül a jogszabályokban meghatározott dokumentumok rendelkezésre állását követően haladéktalanul tájékoztatja a támogatási igény benyújtóját a támogatási döntésről, továbbá
+(14)[^35] Az Alapkezelő az internetes támogatáskezelő rendszeren keresztül a jogszabályokban meghatározott dokumentumok rendelkezésre állását követően haladéktalanul tájékoztatja a támogatási igény benyújtóját a támogatási döntésről, továbbá
 
-a)[^35] a döntési lista rendelkezésre állását követő tíz napon belül a támogatói okirat és a támogatási szerződés tervezetének megküldésével egy időben – szükség szerint – felhívja a támogatást igénylő civil szervezetet a szerződéskötéshez szükséges dokumentumok megküldésére;
+a)[^36] a döntési lista rendelkezésre állását követő tíz napon belül a támogatói okirat és a támogatási szerződés tervezetének megküldésével egy időben – szükség szerint – felhívja a támogatást igénylő civil szervezetet a szerződéskötéshez szükséges dokumentumok megküldésére;
 
-b)[^36] a várólista megállapítását követő tíz napon belül a várólistán betöltött helyezésről és a támogatás igénybevételének lehetőségéről;
+b)[^37]
 
-c)[^37] az elutasított támogatási igények listáját tartalmazó dokumentum elkészítését követő tíz napon belül az elutasítás indokáról;
+c)[^38] az elutasított támogatási igények listáját tartalmazó dokumentum elkészítését követő tíz napon belül az elutasítás indokáról;
 
-d)[^38] a döntési lista és a Civil tv. 53. § (5) bekezdés szerinti jóváhagyás meglétét követő tíz napon belül kiadja a támogatói okiratot.
+d)[^39] a döntési lista és a Civil tv. 53. § (5) bekezdés szerinti jóváhagyás meglétét követő tíz napon belül kiadja a támogatói okiratot.
 
-(15)[^39] Az Alapkezelő folyamatosan nyomon követi és haladéktalanul értesíti azokat a várólistán szereplő támogatást igénylő szervezeteket, akiknek az Ávr. 77. § (1) bekezdése alapján lehetőségük nyílik a támogatás igénybevételére.
+(15)[^40]
 
 (16) Ha a döntéshozó a támogatási igénynél alacsonyabb összegű támogatásról dönt, akkor a költségvetési soronként meghatározott költségcsökkentést az Alapkezelő saját hatáskörben végrehajtja. Ha a döntéshozó által meghatározott költségcsökkentések levonásával módosított költségvetésben szereplő teljes támogatási összegnél alacsonyabb támogatási összeget határoz meg a döntéshozó, akkor az Alapkezelő minden költségvetési soron (önrész és támogatás tekintetében egyaránt) arányos csökkentést hajt végre.
 
 (17) A kedvezményezett – a (16) bekezdésben meghatározott döntés esetén – a támogatási cél sérelme nélkül módosíthatja a benyújtott támogatási igény költségvetését. Ennek során a 7. melléklet szerinti költségvetési terv főösszegének meg kell egyeznie a támogatási döntésben meghatározott összeggel.
 
-(18)[^40] A támogatás folyósítására
+(18)[^41] A támogatás folyósítására
 
 a) a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti kérelme hiányában a beszámoló vagy részbeszámoló elfogadását követően az elfogadott összegnek megfelelően
 
-b)[^41] a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti kérelme esetén – a támogatási igényben meghatározottak figyelembe vételével – egy összegben vagy részletekben
+b)[^42] a támogatást igénylő szervezet 3. § (1) bekezdés e) pontja szerinti kérelme esetén – a támogatási igényben meghatározottak figyelembe vételével – egy összegben vagy részletekben
 
 kerül sor.
 
-(19)[^42] Amennyiben nem kerül sor a teljes támogatási összeg folyósítására a beszámoló elfogadását megelőzően, a támogatási időszak legkésőbbi záró dátuma a támogatási igény finanszírozását szolgáló költségvetési évet követő év március 31. napja.
+(19)[^43] Amennyiben nem kerül sor a teljes támogatási összeg folyósítására a beszámoló elfogadását megelőzően, a támogatási időszak legkésőbbi záró dátuma a támogatási igény finanszírozását szolgáló költségvetési évet követő év március 31. napja.
 
 [^24]: A 4. alcím címe a 23/2017. (X. 3.) EMMI rendelet 3. §-ával megállapított, a 11/2020. (VI. 30.) MvM rendelet 7. § a) pontja szerint módosított szöveg.
 [^25]: A 4. § (1a) bekezdését a 11/2020. (VI. 30.) MvM rendelet 1. §-a iktatta be.
@@ -98,12 +98,13 @@ kerül sor.
 [^31]: A 4. § (6) bekezdés b) pontját a 35/2016. (XI. 30.) EMMI rendelet 13. § a) pontja hatályon kívül helyezte.
 [^32]: A 4. § (8) bekezdése a 23/2017. (X. 3.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
 [^33]: A 4. § (12) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 10. § 5. pontja, a 23/2017. (X. 3.) EMMI rendelet 12. § e) pontja szerint módosított szöveg.
-[^34]: A 4. § (14) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
-[^35]: A 4. § (14) bekezdés a) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 6. pontja, a 35/2016. (XI. 30.) EMMI rendelet 13. § b) pontja, a 11/2020. (VI. 30.) MvM rendelet 7. § b) pontja szerint módosított szöveg.
-[^36]: A 4. § (14) bekezdés b) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 6. pontja szerint módosított szöveg.
-[^37]: A 4. § (14) bekezdés c) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 6. pontja szerint módosított szöveg.
-[^38]: A 4. § (14) bekezdés d) pontját a 35/2016. (XI. 30.) EMMI rendelet 3. § (2) bekezdése iktatta be.
-[^39]: A 4. § (15) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 10. § 7. pontja szerint módosított szöveg.
-[^40]: A 4. § (18) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^41]: A 4. § (18) bekezdés b) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 8. pontja, a 35/2016. (XI. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
-[^42]: A 4. § (19) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 1. §-a iktatta be.
+[^34]: A 4. § (13) bekezdése a 18/2019. (XII. 17.) MvM rendelet 3. § b) pontja szerint módosított szöveg.
+[^35]: A 4. § (14) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
+[^36]: A 4. § (14) bekezdés a) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 6. pontja, a 35/2016. (XI. 30.) EMMI rendelet 13. § b) pontja, a 11/2020. (VI. 30.) MvM rendelet 7. § b) pontja szerint módosított szöveg.
+[^37]: A 4. § (14) bekezdés b) pontját a 18/2019. (XII. 17.) MvM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^38]: A 4. § (14) bekezdés c) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 6. pontja szerint módosított szöveg.
+[^39]: A 4. § (14) bekezdés d) pontját a 35/2016. (XI. 30.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^40]: A 4. § (15) bekezdését a 18/2019. (XII. 17.) MvM rendelet 3. § d) pontja hatályon kívül helyezte.
+[^41]: A 4. § (18) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^42]: A 4. § (18) bekezdés b) pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 8. pontja, a 35/2016. (XI. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^43]: A 4. § (19) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 1. §-a iktatta be.

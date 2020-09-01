@@ -1,6 +1,6 @@
 ## 8. Az Alap támogatásaiból történő kizárás és a támogatási eljárás felülvizsgálata
 
-9. §[^61] (1) A kedvezményezett az Alap támogatásaiból kizárásra kerül, ha
+9. §[^63] (1) A kedvezményezett az Alap támogatásaiból kizárásra kerül, ha
 
 a) a támogatási szerződés felmondására vagy az attól való elállásra, a támogatói okirat esetén a támogatás visszavonására az Ávr. 96. § b), c) vagy e) pontja alapján került sor, vagy
 
@@ -18,4 +18,4 @@ b) az (1) bekezdés b) pontjában meghatározott esetben a kizárási feltétel 
 
 (4) Az Alapkezelő a kizárt szervezet kérelmére a követelés tizenkét hónapra, havi egyenlő részletekben történő visszafizetését engedélyezheti.
 
-[^61]: A 9. § az 52/2015. (XI. 18.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^63]: A 9. § az 52/2015. (XI. 18.) EMMI rendelet 5. §-ával megállapított szöveg.

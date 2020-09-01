@@ -68,7 +68,7 @@ b) az államháztartáson belüli szervezettől, kormányzati szektorba sorolt e
 
 26. tanács: a Civil tv. 60. § (1) bekezdése szerinti testület;
 
-27.[^14] várólista: pályázati felhívásra benyújtott pályázatok esetén a támogatási döntés meghozatala után – a források korlátossága miatt – költségvetési támogatásban nem részesülő, szakmailag megfelelő pályázatokat tartalmazó, pontszám, illetve egyező pontszám esetén beérkezési sorrend alapú rangsor, amely alapján – az Ávr. 77. § (1) bekezdése szerint – a támogató lehetővé teszi a támogatás igénybevételét.
+27.[^14]
 
 [^1]: A 2. § a 74/2013. (XII. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § 4. pontja a 23/2017. (X. 3.) EMMI rendelet 12. § a) pontja, a 20/2018. (XII. 20.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
@@ -83,4 +83,4 @@ b) az államháztartáson belüli szervezettől, kormányzati szektorba sorolt e
 [^11]: A 2. § 22. pontja a 35/2016. (XI. 30.) EMMI rendelet 12. § b) pontja, a 23/2017. (X. 3.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
 [^12]: A 2. § 24. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
 [^13]: A 2. § 25. pontja a 20/2018. (XII. 20.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
-[^14]: A 2. § 27. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.
+[^14]: A 2. § 27. pontját a 18/2019. (XII. 17.) MvM rendelet 3. § a) pontja hatályon kívül helyezte.

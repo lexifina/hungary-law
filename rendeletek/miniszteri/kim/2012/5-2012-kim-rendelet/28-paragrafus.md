@@ -1,4 +1,4 @@
-## 27. §[^117] A Civil tv. 64. §-a szerinti alapkezelő a Bethlen Gábor Alapkezelő Nonprofit Zártkörűen Működő Részvénytársaság.
+## 27. §[^119] A Civil tv. 64. §-a szerinti alapkezelő a Bethlen Gábor Alapkezelő Nonprofit Zártkörűen Működő Részvénytársaság.
 
 28. § (1) Az Alapkezelő feladata különösen:
 
@@ -6,9 +6,9 @@ a) az informatikai rendszer üzemeltetése, fejlesztése, adatainak folyamatos k
 
 b) a támogatási igények fogadása, érkeztetése, kezelése;
 
-c)[^118] a Tanács és a kollégiumok üléseinek, döntéseinek előkészítése, dokumentálása és végrehajtása;
+c)[^120] a Tanács és a kollégiumok üléseinek, döntéseinek előkészítése, dokumentálása és végrehajtása;
 
-d)[^119] szerződéskötés a kedvezményezettekkel, támogatói okirat kibocsátása;
+d)[^121] szerződéskötés a kedvezményezettekkel, támogatói okirat kibocsátása;
 
 e) az Alappal összefüggő pénzügyi és számviteli feladatok ellátása;
 
@@ -28,14 +28,14 @@ l) ellátja a civil jelöltállítási rendszerbe történő bejelentkezéssel, 
 
 m) a Tanács és a kollégiumok működési feltételeinek biztosítása;
 
-n)[^120] testületei tagok költségátalánya adminisztrációja, kiutalása, valamint az ezzel összefüggő feladatok ellátása;
+n)[^122] testületei tagok költségátalánya adminisztrációja, kiutalása, valamint az ezzel összefüggő feladatok ellátása;
 
-o)[^121] az Alap pályázati kiírásaival, testületek működésével kapcsolatos tájékoztatás, információ szolgáltatás, a Civil közösségi szolgáltató központokkal kapcsolatos feladatok ellátása, valamint az Alap kezelésével összefüggő egyéb feladatok ellátása.
+o)[^123] az Alap pályázati kiírásaival, testületek működésével kapcsolatos tájékoztatás, információ szolgáltatás, a Civil közösségi szolgáltató központokkal kapcsolatos feladatok ellátása, valamint az Alap kezelésével összefüggő egyéb feladatok ellátása.
 
 (2) Az Alapkezelő feladata, hogy folyamatosan biztosítsa az Alappal kapcsolatos nyilvántartások és a hivatalos honlap adatainak koherenciáját.
 
-[^117]: A 27. § a 20/2018. (XII. 20.) MvM rendelet 2. §-ával megállapított szöveg.
-[^118]: A 28. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^119]: A 28. § (1) bekezdés d) pontja a 74/2013. (XII. 2.) EMMI rendelet 7. § e) pontja szerint módosított szöveg.
-[^120]: A 28. § (1) bekezdés n) pontja a 11/2020. (VI. 30.) MvM rendelet 7. § i) pontja szerint módosított szöveg.
-[^121]: A 28. § (1) bekezdés o) pontja az 52/2015. (XI. 18.) EMMI rendelet 8. §-ával megállapított, a 11/2020. (VI. 30.) MvM rendelet 7. § j) pontja szerint módosított szöveg.
+[^119]: A 27. § a 20/2018. (XII. 20.) MvM rendelet 2. §-ával megállapított szöveg.
+[^120]: A 28. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^121]: A 28. § (1) bekezdés d) pontja a 74/2013. (XII. 2.) EMMI rendelet 7. § e) pontja szerint módosított szöveg.
+[^122]: A 28. § (1) bekezdés n) pontja a 11/2020. (VI. 30.) MvM rendelet 7. § i) pontja szerint módosított szöveg.
+[^123]: A 28. § (1) bekezdés o) pontja az 52/2015. (XI. 18.) EMMI rendelet 8. §-ával megállapított, a 11/2020. (VI. 30.) MvM rendelet 7. § j) pontja szerint módosított szöveg.

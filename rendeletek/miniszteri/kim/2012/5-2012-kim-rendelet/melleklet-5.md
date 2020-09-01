@@ -1,3 +1,3 @@
-5. melléklet az 5/2012. (II. 16.) KIM rendelethez[^153]
+5. melléklet az 5/2012. (II. 16.) KIM rendelethez[^155]
 
-[^153]: Az 5. melléklet a 11/2020. (VI. 30.) MvM rendelet 6. § b) pontjával megállapított szöveg.
+[^155]: Az 5. melléklet a 11/2020. (VI. 30.) MvM rendelet 6. § b) pontjával megállapított szöveg.
