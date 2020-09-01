@@ -20,8 +20,12 @@ h) önkéntes vagy létesítményi tűzoltói szolgálat ellátása tartamára,
 
 i) bíróság vagy hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 
-j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára, továbbá
+j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
 
-k) munkaviszonyra vonatkozó szabályban meghatározott tartamra.
+k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára, továbbá
+
+l) munkaviszonyra vonatkozó szabályban meghatározott tartamra.
 
 (2) A munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napos időtartamra mentesítheti a munkavállalót rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.
+
+(3) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.

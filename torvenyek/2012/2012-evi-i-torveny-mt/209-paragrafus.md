@@ -2,7 +2,7 @@
 
 (2) A vezető munkaszerződése
 
-a) az 55. § (1) bekezdés b), c) és e) pontjában,
+a) az 55. § (1) bekezdés b), c), e) és j) pontjában,
 
 b) a 65. § (3) bekezdés a), b) és e) pontjában,
 

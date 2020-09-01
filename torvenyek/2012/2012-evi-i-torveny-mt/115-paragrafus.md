@@ -16,6 +16,6 @@ e) a keresőképtelenség,
 
 f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
 
-g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–k) pontban meghatározott
+g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–l) pontban meghatározott
 
 tartama.
