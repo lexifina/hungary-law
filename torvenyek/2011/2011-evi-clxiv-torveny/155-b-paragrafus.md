@@ -2,7 +2,7 @@
 
 a) a szabadság időtartama alatt,
 
-b) a munka törvénykönyvéről szóló 2012. évi I. törvény 55. § (1) bekezdés c)–g) pontjában meghatározott esetben,
+b) a munka törvénykönyvéről szóló 2012. évi I. törvény 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
 
 c) az állampolgári kötelezettség teljesítésének időtartamára,
 

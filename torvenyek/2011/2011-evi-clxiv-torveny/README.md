@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2011-164-00-00.25 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2011-164-00-00.26 |
 | 2020-07-16 | 2020. évi XCII. törvény | 2011-164-00-00.27 |
+| 2020-09-01 | 2020. évi LXV. törvény | 2011-164-00-00.28 |
