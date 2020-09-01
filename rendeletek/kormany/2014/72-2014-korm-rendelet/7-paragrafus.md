@@ -16,4 +16,7 @@ cb) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó s
 
 (3) A közhasznú szervezetnek az (1) bekezdés c) pont ca) alpontja szerinti javaslatát a szervezet legalább kettő, az 1. mellékletben meghatározott képesítéssel rendelkező munkatársának kell előkészítenie és egybehangzóan megtennie.
 
+(4)[^8] A közhasznú szervezet igazolást állít ki az örökbe fogadni szándékozó személy részére az örökbefogadható gyermekkel történő személyes találkozás szükségességéről és időpontjáról.
+
 [^7]: A 7. § (1) bekezdés a) pontja a 244/2016. (VIII. 17.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^8]: A 7. § (4) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
