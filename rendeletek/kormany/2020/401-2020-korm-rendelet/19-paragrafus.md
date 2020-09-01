@@ -1,0 +1,3 @@
+## 18. § A Get. vhr. 5/B. §-a helyébe a következő rendelkezés lép:
+
+## „5/B. § A szállítási rendszerüzemeltető a GET 9. § (4) bekezdésének megfelelően olyan elektronikus nyilvántartást köteles vezetni, amely biztosítja a rendszeregyensúlyozási tevékenységének végzéséhez kapcsolódó összes adat, különösen az e tevékenységéhez kapcsoló földgáz vásárlási és eladási mennyiségek és árak rögzítését. A szállítási rendszerüzemeltető a gáznapra vonatkozó kiegyensúlyozó földgáz elszámolásához szükséges adatokat a gáznapi allokációt követően az ÜKSZ-ben meghatározottak szerint megküldi az elszámolóház részére.”
