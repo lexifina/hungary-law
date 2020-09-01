@@ -1,0 +1,7 @@
+## 2. § A 139/2015. (VI. 9.) Korm. rendelet 3. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(2) Amennyiben a miniszter az előzetes jóváhagyását megadta, a felsőoktatási szakképzés és szakképzettség, alapképzési és mesterképzési szak és szakképzettség felsőoktatási képesítési jegyzékbe való felvételét kezdeményező felsőoktatási intézmény a felsőoktatási intézmények nyilvántartását vezető szervhez (a továbbiakban: oktatási hivatal) nyújtja be a létesítési dokumentumot.
+
+## (3) Az oktatási hivatal a beérkezéstől számított 8 napon belül ellenőrzi, hogy a létesítési dokumentum teljes körű-e, és hiányos benyújtás esetén a felsőoktatási intézményt határidő tűzésével a létesítési dokumentum kiegészítésére hívja fel.
+
+## (4) Ha a Magyar Felsőoktatási Akkreditációs Bizottság és a Felsőoktatási Tervezési Testület a képzés létesítését támogatta, továbbá alapképzési szak létesítése esetében a Magyar Rektori Konferencia az alapképzési szak létesítését támogatta, és a létesítési dokumentum hiánytalan, az oktatási hivatal a létesítési dokumentum beérkezésétől számított 8 napon belül, illetve a hiánypótlási felhívásban meghatározott határidő elteltével – a benyújtott, kiegészített létesítési dokumentum megküldésével – a miniszternél kezdeményezi az új felsőoktatási szakképzés és szakképzettség, illetve alapképzési és mesterképzési szak és szakképzettség képesítési jegyzékbe történő felvételét, valamint a szak képzési és kimeneti követelményeinek rendeletben történő kihirdetését.”
