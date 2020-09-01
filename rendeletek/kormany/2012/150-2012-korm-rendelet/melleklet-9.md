@@ -276,7 +276,7 @@
 
 | 42. | XLIII. Honvédelem |  | 52 863 01 Honvéd kadét, igazgatási ügykezelő | 54 863 03 Honvédelmi igazgatási ügyintéző |
 
-9. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^32]
+9. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^34]
 
 A szakgimnázium 9-12. évfolyamain folyó ágazati tanulmányok keretében megszerezhető mellék-szakképesítések a 9. évfolyamra a 2019/2020. tanévtől beiskolázott tanulók számára
 
@@ -534,4 +534,4 @@ A szakgimnázium 9-12. évfolyamain folyó ágazati tanulmányok keretében megs
 
 | 39. | XLIII. Honvédelem |  | 52 863 01 Honvéd kadét, igazgatási ügykezelő | 54 863 03 Honvédelmi igazgatási ügyintéző |
 
-[^32]: A 9. mellékletet az 504/2017. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^34]: A 9. mellékletet az 504/2017. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be.

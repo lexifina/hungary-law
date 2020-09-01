@@ -114,6 +114,6 @@
 
 | 43. | XLII | Előadóművészet | Artista Egyházzenész Gyakorlatos színész Jazz-zenész Klasszikus zenész Népzenész Szórakoztató zenész Táncos Gyakorló hangszerkészítő és javító | 3719 Egyéb művészeti és kulturális foglalkozás |
 
-4. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^27]
+4. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^29]
 
-[^27]: A 4. mellékletet a 13/2020. (II. 7.) Korm. rendelet 70. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^29]: A 4. mellékletet a 13/2020. (II. 7.) Korm. rendelet 70. § (1) bekezdés 7. pontja hatályon kívül helyezte.

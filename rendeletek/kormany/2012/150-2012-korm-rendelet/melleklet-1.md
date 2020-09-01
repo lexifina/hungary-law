@@ -1,3 +1,3 @@
-1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^24]
+1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^26]
 
-[^24]: Az 1. mellékletet a 13/2020. (II. 7.) Korm. rendelet 70. § (1) bekezdés 5. pontja hatályon kívül helyezte.
+[^26]: Az 1. mellékletet a 13/2020. (II. 7.) Korm. rendelet 70. § (1) bekezdés 5. pontja hatályon kívül helyezte.

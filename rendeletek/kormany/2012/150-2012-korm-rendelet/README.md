@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-150-20-
 | 2019-01-01 | 2012-150-20-22.21 | 25/2016. (II. 25.) Korm. rendelet |
 | 2020-01-01 | 2012-150-20-22.22 | 504/2017. (XII. 29.) Korm. rendelet |
 | 2020-02-15 | 2012-150-20-22.23 | 13/2020. (II. 7.) Korm. rendelet |
+| 2020-09-01 | 2012-150-20-22.24 | 13/2020. (II. 7.) Korm. rendelet |
