@@ -6,7 +6,7 @@
 
 | 2 | Addiktológia* | 8 | 1 |
 
-| 3 | Sebészet | 16 | 1 |
+| 3 | Sebészet és Egynapos sebészet | 22 | 1 |
 
 | 4 | Aneszteziológia és intenzív terápia, csecsemő- és gyermekgyógyászati intenzív terápia | 8 | 1 |
 
@@ -22,7 +22,7 @@
 
 | 10 | Dietetika | 3 | 1 |
 
-| 11 | Egynapos sebészet | 8 | 1 |
+| 11 |  |  |  |
 
 | 12 | Érsebészet és angiológia | 8 | 1 |
 
@@ -49,6 +49,8 @@
 | 23 | Háziorvostan | 22 | 1 |
 
 | 24 | Hospice-palliatív ellátás | 3 | 1 |
+
+| 24/a | Humán reprodukció | 8 | 1 |
 
 | 25 | Idegsebészet | 8 | 1 |
 
@@ -96,7 +98,7 @@
 
 | 47 | Radiológia | 8 | 1 |
 
-| 48 | Rend- és honvédelmi alapellátás (személyi állomány és fogvatartottak) | 3 | 1 |
+| 48 |  |  |  |
 
 | 49 | Reumatológia* | 8 | 1 |
 
