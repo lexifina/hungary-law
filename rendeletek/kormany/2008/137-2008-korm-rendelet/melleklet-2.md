@@ -32,7 +32,7 @@
 
 | Szaknyelvi egynyelvű írásbeli | és | Szaknyelvi kétnyelvű szóbeli | Szaknyelvi egynyelvű komplex |
 
-2. számú melléklet a 137/2008. (V. 16.) Korm. rendelethez[^81]
+2. számú melléklet a 137/2008. (V. 16.) Korm. rendelethez[^91]
 
 1. Belépőfokú (A2 szintű) nyelvtudást mérő vizsga
 
@@ -106,4 +106,4 @@ e) A nyelvhasználó ismeri az irodalmi köznyelvet, felismeri a nem-standard ny
 
 f) Kétnyelvű vizsga esetén a nyelvhasználó az eredeti szöveg információs tartalmát maradéktalanul, stilisztikailag helyesen adja vissza; célnyelvű fordítás, tömörítés készítése esetén a célnyelv nyelvi-kulturális normáinak megfelelően, világos és gördülékeny stílusban közvetít.
 
-[^81]: A 2. számú melléklet a 33/2014. (II. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^91]: A 2. számú melléklet a 33/2014. (II. 18.) Korm. rendelet 13. §-ával megállapított szöveg.

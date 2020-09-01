@@ -6,13 +6,13 @@ a) kidolgozza és közzéteszi az Akkreditációs Kézikönyvben az akkreditáci
 
 b) felülvizsgálja a Kézikönyvet évente egyszer, szükség esetén módosítja azt,
 
-c)[^21] elbírálja a vizsgaközpont, a vizsgahelyek, a vizsgarendszer létesítésére és a vizsgarendszer új nyelvvel, új szinttel történő bővítésére, továbbá a már akkreditált vizsgarendszer módosítására irányuló akkreditációs kérelmet, valamint a vizsgaközpont akkreditációjának megújítására vonatkozó kérelmet és
+c)[^23] elbírálja a vizsgaközpont, a vizsgahelyek, a vizsgarendszer létesítésére és a vizsgarendszer új nyelvvel, új szinttel történő bővítésére, továbbá a már akkreditált vizsgarendszer módosítására irányuló akkreditációs kérelmet, valamint a vizsgaközpont akkreditációjának megújítására vonatkozó kérelmet és
 
-d)[^22] ellenőrzi a vizsgaközpontok működését.
+d)[^24] ellenőrzi a vizsgaközpontok működését.
 
-(2)[^23] A Hivatal dönt az akkreditációs kérelmekről, végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását, vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, amely a (2a) bekezdés b) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)[^25] A Hivatal dönt az akkreditációs kérelmekről, végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását, vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, amely a (2a) bekezdés b) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2a)[^24] A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása tartalmazza:
+(2a)[^26] A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása tartalmazza:
 
 a) a vizsgázó személy természetes személyazonosító adatait;
 
@@ -24,11 +24,11 @@ bb) a vizsgahely megnevezése,
 
 bc) a vizsgaidőszak megjelölése,
 
-bd) a vizsga neve, szintje, típusa (szóbeli vagy írásbeli),
+bd)[^27] a vizsga neve, szintje, típusa (szóbeli vagy írásbeli), formátuma,
 
 be) a vizsga helye, ideje,
 
-bf)[^25] a vizsgáztatók neve,
+bf)[^28] a vizsgáztatók neve,
 
 bg) a vizsga eredménye (sikeres vagy sikertelen),
 
@@ -50,14 +50,15 @@ cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a 
 
 (6) A Hivatal hivatalos megkeresésre állást foglal a nyelvvizsgával összefüggő ügyekben.
 
-(7)[^26] A Hivatal szakmai egyeztetés céljából rendszeresen, de évente legalább kétszer összehívja az akkreditált vizsgaközpontok képviselőit.
+(7)[^29] A Hivatal szakmai egyeztetés céljából rendszeresen, de évente legalább kétszer összehívja az akkreditált vizsgaközpontok képviselőit.
 
-(8)[^27] A Hivatal részt vesz a nyelvvizsgáztatás minőségének fenntartásában, fejlesztésében.
+(8)[^30] A Hivatal részt vesz a nyelvvizsgáztatás minőségének fenntartásában, fejlesztésében.
 
-[^21]: Az 5. § (1) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 346/2019. (XII. 23.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
-[^22]: Az 5. § (1) bekezdés d) pontját a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^23]: Az 5. § (2) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 222. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^24]: Az 5. § (2a) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^25]: Az 5. § (2a) bekezdés b) pont bf) alpontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
-[^26]: Az 5. § (7) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^27]: Az 5. § (8) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^23]: Az 5. § (1) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 346/2019. (XII. 23.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
+[^24]: Az 5. § (1) bekezdés d) pontját a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^25]: Az 5. § (2) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 222. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^26]: Az 5. § (2a) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^27]: Az 5. § (2a) bekezdés b) pont bd) alpontja a 403/2020. (VIII. 17.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^28]: Az 5. § (2a) bekezdés b) pont bf) alpontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
+[^29]: Az 5. § (7) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (8) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdése iktatta be.
