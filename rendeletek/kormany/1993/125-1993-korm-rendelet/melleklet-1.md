@@ -5,4 +5,4 @@
 1. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^92]
 
 [^91]: A 17. §-t a 477/2016. (XII. 27.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^92]: Az 1. számú melléklet a 28/2020. (II. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 315/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^92]: Az 1. számú melléklet a 28/2020. (II. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 315/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdés b) pontja, a 325/2020. (VII. 1.) Korm. rendelet 1. §-a szerint módosított szöveg.

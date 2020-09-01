@@ -8,11 +8,11 @@ b)[^13] a magyarországi büntetlen előéletet és azt a tényt, hogy a kérelm
 
 (2)[^14] A kérelmező köteles nyilatkozni arról, hogy büntetlen előéletű és nem folyik ellene büntető eljárás, valamint arról, hogy az elmúlt öt évben elmarasztalta-e valamely bíróság szándékos bűncselekmény miatt. A külföldön élő kérelmezőnek az állampolgársági ügyekben eljáró szerv felhívására csatolnia kell a külföldi lakóhelye szerint illetékes hatóság büntetlenséget tanúsító igazolását.
 
-(3)[^15] A kérelmező – az Ápt. 4. § (3), (3a), (6) és (7) bekezdésére alapozott honosítást vagy a visszahonosítást kérelmező kivételével – köteles igazolni a lakhatásának és megélhetésének feltételeit.
+(3)[^15] A kérelmező – az Ápt. 4. § (2a), (3), (3a) és (7) bekezdésére alapozott honosítást vagy a visszahonosítást kérelmező kivételével – köteles igazolni a lakhatásának és megélhetésének feltételeit.
 
 (4)[^16] Az Ápt. 4. § (3) bekezdésére alapozott honosítási kérelemhez és a visszahonosítási kérelemhez mellékelni kell a kérelmező, illetve felmenői egykori magyar állampolgárságát igazoló vagy valószínűsítő okiratokat.
 
-(5)[^17] Az Ápt. 4. § (2) bekezdés a), b) és c) pontjára alapozott honosítási kérelem előterjesztésekor közölni kell a házastárs, a kiskorú gyermek, illetve az örökbefogadó magyar állampolgársága megállapításához szükséges adatokat. Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor közölni kell a házastárs magyar állampolgársága megállapításához szükséges adatokat.
+(5)[^17] Az Ápt. 4. § (2) bekezdés a), b) és c) pontjára és az Ápt. 4. § (2a) bekezdésére alapozott honosítási kérelem előterjesztésekor közölni kell a házastárs, a kiskorú gyermek, illetve az örökbefogadó magyar állampolgársága megállapításához szükséges adatokat. Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor közölni kell a házastárs magyar állampolgársága megállapításához szükséges adatokat.
 
 (5a)[^18] Az Ápt. 4. § (3a) bekezdésére alapozott honosítási kérelem előterjesztésekor a kérelmező és a házastársa köteles nyilatkozni arról, hogy az Ápt. 4. § (3a) bekezdés a) pont aa) alpontjában meghatározott esetben legalább tíz éve, az Ápt. 4. § (3a) bekezdés a) pont ab) alpontjában meghatározott esetben legalább öt éve érvényes házasságban élnek.
 
@@ -57,9 +57,9 @@ b)[^28] azt a szülője, nagyszülője, gyermeke, unokája, testvére, testvére
 [^12]: A 3. § (1) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés b) pontja a 224/2010. (VIII. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
 [^14]: A 3. § (2) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
-[^15]: A 3. § (3) bekezdése a 119/2005. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 417/2012. (XII. 29.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdése a 119/2005. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 417/2012. (XII. 29.) Korm. rendelet 9. § f) pontja, a 325/2020. (VII. 1.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^16]: A 3. § (4) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^17]: A 3. § (5) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. § (5) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 325/2020. (VII. 1.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^18]: A 3. § (5a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^19]: A 3. § (5b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^20]: A 3. § (6) bekezdése az 56/2014. (III. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 60/2017. (III. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

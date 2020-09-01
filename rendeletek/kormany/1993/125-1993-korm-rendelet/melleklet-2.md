@@ -4,7 +4,7 @@
 
 ## HONOSÍTÁSI KÉRELEM
 
-## a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1)–(2), (4)–(7) alapján
+## a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (1), (2), (2a), (4), (5) és (7) alapján
 
 ## Alulírott .............................….……………….…........ és házastársam, ……………………………………………….....
 
@@ -719,6 +719,10 @@
 ## □ házastárs igen □ nem □
 
 ## 5. Nyilatkozom, hogy a kérelem benyújtása után bekövetkezett változásokról (pl. családi állapot változása, gyermek születése, lakcím vagy elérhetőség változása stb.) az állampolgársági ügyekben eljáró szervet 15 napon belül a változást igazoló okiratok egyidejű csatolásával értesítem. A lakcímváltozást és egyéb elérhetőségek változását jelezni kell, arról iratot nem szükséges mellékelni.
+
+## 6. Az Ápt. 4. § (2a) és (7) bekezdésére alapozott kérelem esetén az állampolgársági esküt vagy fogadalmat ......................
+
+## országban ...................... településen/magyar külképviseleten kívánom/kívánjuk letenni.
 
 ## Kelt: ..............................................................................
 
