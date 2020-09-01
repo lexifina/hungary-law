@@ -1,4 +1,4 @@
-99/B. §[^330] (1) A megfelelési ellenőr
+99/B. §[^342] (1) A megfelelési ellenőr
 
 a) figyelemmel kíséri és ellenőrzi a megfelelési program végrehajtását;
 
@@ -14,13 +14,13 @@ f) tájékoztatja a Hivatalt, ha a vertikálisan integrált villamosenergia-ipar
 
 g) a feladatai ellátása során a megfelelési program végrehajtását érintő tapasztaltakról negyedévente, írásban tájékoztatja a Hivatalt, valamint a b) pontban foglaltakon túl további tájékoztatást nyújthat a felügyelőbizottságnak;
 
-h) jogosult részt venni az átviteli rendszerirányító ügyvezető testülete, legfőbb szerve és egyéb társasági szerve valamennyi ülésén azzal, hogy az alábbi témákkal foglalkozó üléseken köteles részt venni:
+h)[^343] az átviteli rendszerirányító ügyvezető testülete, legfőbb szerve és felügyelőbizottsága valamennyi ülésén jogosult részt venni; részvétele pedig kötelező
 
-ha) a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 714/2009/EK európai parlamenti és tanácsi rendeletben meghatározottak szerinti hálózathoz való hozzáférés feltételei;
+ha) az (EU) 2019/943 európai parlamenti és tanácsi rendeletben meghatározottak szerinti hálózathoz való hozzáférés feltételeit tárgyaló ülésen,
 
-hb) az átviteli hálózat üzemeltetésével, karbantartásával és fejlesztésével kapcsolatos projektek, ideértve a csatlakozással kapcsolatos beruházásokat is, és
+hb) az átviteli hálózat üzemeltetésével, karbantartásával és fejlesztésével összefüggő projektekkel kapcsolatos ülésen, ideértve a csatlakozással összefüggő beruházásokkal kapcsolatos ülést is és
 
-hc) a VET 20. § (2) bekezdésében meghatározottak beszerzése;
+hc) a VET 20. § (2) bekezdésében meghatározottak beszerzésével kapcsolatos ülésen;
 
 i) a 95. § (1) bekezdésében foglaltak szerint gondoskodik a megfelelési jelentés Hivatalnak történő benyújtásáról; valamint
 
@@ -52,7 +52,8 @@ d) a megfelelési ellenőrré való kinevezés előzetes jóváhagyására irán
 
 (4) A jogi személy megfelelési ellenőr legalább egy vezető tisztségviselőjének, továbbá az ellenőrzési tevékenység irányításáért közvetlenül felelős vezetőnek vagy az ellenőrzési tevékenységet közvetlenül végző legalább egy személynek meg kell felelnie a (2)–(3) bekezdésben meghatározott feltételeknek.
 
-(5)[^331] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését végleges hatósági határozat megállapította.
+(5)[^344] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését végleges hatósági határozat megállapította.
 
-[^330]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
-[^331]: A Vhr. 99/B. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 198. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^342]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^343]: A Vhr. 99/B. § (1) bekezdés h) pontja a 401/2020. (VIII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^344]: A Vhr. 99/B. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 198. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -48,7 +48,13 @@
 
 20.[^19] energiahatékonyságot javító intézkedések: minden olyan intézkedés, amely az energiahatékonyság igazolható, mérhető vagy megbecsülhető növekedéséhez vezet;
 
-21.[^20] energiahatékonyságot javító programok: a felhasználók egyes csoportjaira vonatkozó energiahatékonyságot javító intézkedések összessége.
+21.[^20] energiahatékonyságot javító programok: a felhasználók egyes csoportjaira vonatkozó energiahatékonyságot javító intézkedések összessége;
+
+22.[^21] elérhető legjobb technológiák: okosméréssel történő mérés adatvédelemére és adatbiztonságára vonatkozó leghatékonyabb, legelőrehaladottabb, gyakorlatban alkalmazható technikák;
+
+23.[^22] interoperabilitás: az okosmérővel történő mérés tekintetében két vagy több energia- vagy kommunikációs hálózat, rendszer, eszköz, alkalmazás vagy alkotóelem együttműködése, információcseréje és -felhasználása;
+
+24.[^23] közel valós idő: a kiegyenlítő energia elszámolási időszakkal megegyező vagy annál kisebb időtartam.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. §-a szerint kell értelmezni.
 
@@ -72,3 +78,6 @@
 [^18]: A Vhr. 1. § (1) bekezdés 19. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^19]: A Vhr. 1. § (1) bekezdés 20. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^20]: A Vhr. 1. § (1) bekezdés 21. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^21]: A Vhr. 1. § (1) bekezdés 22. pontját a 401/2020. (VIII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^22]: A Vhr. 1. § (1) bekezdés 23. pontját a 401/2020. (VIII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^23]: A Vhr. 1. § (1) bekezdés 24. pontját a 401/2020. (VIII. 17.) Korm. rendelet 5. §-a iktatta be.

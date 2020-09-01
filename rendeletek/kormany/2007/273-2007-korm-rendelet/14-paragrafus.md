@@ -2,13 +2,13 @@
 
 ## Mérés, leolvasás
 
-14. § (1)[^62]
+14. § (1)[^66]
 
-(2)[^63] Nem profil alapú elszámolású rendszerhasználók esetén a hálózati engedélyes terhelési görbe regisztrálására alkalmas távlehívható fogyasztásmérő készülékkel biztosítja a mérést és legalább naponta elvégzi a mérési adatok távlehívását.
+(2)[^67] Nem profil alapú elszámolású rendszerhasználók esetén a hálózati engedélyes terhelési görbe regisztrálására alkalmas távlehívható fogyasztásmérő-berendezéssel vagy okosmérővel biztosítja a mérést és legalább naponta elvégzi a mérési adatok távlehívását.
 
-(3)[^64] A villamosenergia-ellátási szabályzatok szerint meghatározott mérési adatokat a Kereskedelmi Szabályzatban meghatározott adatformátumban és időpontig kell megküldeni az átviteli rendszerirányító részére. Ezen túlmenően a hálózati engedélyes a számlázás alapjául szolgáló adatokat azok rendelkezésre állásától számított 3 napon belül köteles továbbítani az érintett felhasználóval jogviszonyban álló kereskedő és egyetemes szolgáltató részére, a Kereskedelmi Szabályzatban meghatározott feltételek szerint, az ott meghatározott feldolgozásban.
+(3)[^68] A villamosenergia-ellátási szabályzatok szerint meghatározott mérési adatokat a Kereskedelmi Szabályzatban meghatározott adatformátumban és időpontig kell megküldeni az átviteli rendszerirányító részére. Ezen túlmenően a hálózati engedélyes a számlázás alapjául szolgáló adatokat azok rendelkezésre állásától számított 3 napon belül köteles továbbítani az érintett felhasználóval jogviszonyban álló kereskedő és egyetemes szolgáltató részére, a Kereskedelmi Szabályzatban meghatározott feltételek szerint, az ott meghatározott feldolgozásban.
 
-(4)[^65] A rendszerszintű, ezen belül különösen az elszámoláshoz szükséges együttműködés érdekében valamennyi engedélyes – a magánvezeték engedélyese és a közvetlen vezeték engedélyese kivételével – az átviteli rendszerirányító által összehangolt adatforgalmi-kommunikációs rendszert működtet. A kommunikációs rendszerrel kapcsolatos alapkövetelményeket a villamosenergia-ellátási szabályzatok tartalmazzák.
+(4)[^69] A rendszerszintű, ezen belül különösen az elszámoláshoz szükséges együttműködés érdekében valamennyi engedélyes – a magánvezeték engedélyese és a közvetlen vezeték engedélyese kivételével – az átviteli rendszerirányító által összehangolt adatforgalmi-kommunikációs rendszert működtet. A kommunikációs rendszerrel kapcsolatos alapkövetelményeket a villamosenergia-ellátási szabályzatok tartalmazzák.
 
 (5) Az átviteli rendszerirányító és az elosztók kötelesek az általuk összesített hiteles mérési, elszámolási adatokat, valamint a fogyasztásmérő berendezés hitelességére vonatkozó dokumentumokat – ha jogszabály eltérően nem rendelkezik – a hálózathasználati szerződésből eredő igények elévüléséig megőrizni és az érintett rendszerhasználó rendelkezésére bocsátani a Kereskedelmi Szabályzatban meghatározott módon és adatformátumban.
 
@@ -18,10 +18,10 @@
 
 (8) A távlehívható fogyasztásmérő távleolvasását lehetővé tevő adatátviteli kapcsolat felhasználási helyen belül történő kiépítésének költsége és az adatátviteli kapcsolat folyamatos biztosításának kötelezettsége és azok költségei, beleértve az előfizetési díjat is, a felhasználót terhelik.
 
-(9)[^66] A hálózati engedélyes – ha az épületen az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti jelentős felújítást végeznek, és a felhasználó nem rendelkezik fogyasztásmérő-berendezéssel – a felújítást követően köteles gondoskodni fogyasztásmérő-berendezés felszereléséről.
+(9)[^70] A hálózati engedélyes – ha az épületen az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti jelentős felújítást végeznek, és a felhasználó nem rendelkezik fogyasztásmérő-berendezéssel – a felújítást követően köteles gondoskodni fogyasztásmérő-berendezés felszereléséről.
 
-[^62]: A Vhr. 14. § (1) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
-[^63]: A Vhr. 14. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^64]: A Vhr. 14. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
-[^65]: A Vhr. 14. § (4) bekezdése a 378/2011. (XII. 31) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg.
-[^66]: A Vhr. 14. § (9) bekezdését a 123/2015. (V. 26.) Korm. rendelet 9. §-a iktatta be.
+[^66]: A Vhr. 14. § (1) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^67]: A Vhr. 14. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 5. §-ával megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^68]: A Vhr. 14. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^69]: A Vhr. 14. § (4) bekezdése a 378/2011. (XII. 31) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg.
+[^70]: A Vhr. 14. § (9) bekezdését a 123/2015. (V. 26.) Korm. rendelet 9. §-a iktatta be.
