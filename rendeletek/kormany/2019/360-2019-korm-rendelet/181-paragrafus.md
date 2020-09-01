@@ -1,5 +1,5 @@
-## 180. §[^375]
+## 180. §[^374]
 
 ## 181. A hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályairól szóló 419/2017. (XII. 19.) Korm. rendelet módosítása
 
-[^375]: A 180. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^374]: A 180. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

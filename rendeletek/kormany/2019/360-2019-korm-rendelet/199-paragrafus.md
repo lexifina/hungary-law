@@ -1,32 +1,32 @@
-## 198. §[^396]
+## 198. §[^395]
 
 ## 199. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet módosítása
 
-199. § (1)[^397]
+199. § (1)[^396]
 
-(2)[^398]
+(2)[^397]
 
-(3)[^399]
+(3)[^398]
 
-(4)[^400]
+(4)[^399]
 
-(5)[^401]
+(5)[^400]
 
-(6)[^402]
+(6)[^401]
 
-(7)[^403]
+(7)[^402]
 
-(8)[^404]
+(8)[^403]
 
-(9)[^405]
+(9)[^404]
 
-[^396]: A 198. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^397]: A 199. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^398]: A 199. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^399]: A 199. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^400]: A 199. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^401]: A 199. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^402]: A 199. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^403]: A 199. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^404]: A 199. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^405]: A 199. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^395]: A 198. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^396]: A 199. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^397]: A 199. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^398]: A 199. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^399]: A 199. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^400]: A 199. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^401]: A 199. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^402]: A 199. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^403]: A 199. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^404]: A 199. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

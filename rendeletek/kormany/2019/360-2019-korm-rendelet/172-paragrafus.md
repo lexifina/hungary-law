@@ -1,5 +1,5 @@
-## 171. §[^364]
+## 171. §[^363]
 
 ## 172. A Szerencsejáték Felügyeletről szóló 183/2017. (VII. 5.) Korm. rendelet módosítása
 
-[^364]: A 171. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^363]: A 171. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

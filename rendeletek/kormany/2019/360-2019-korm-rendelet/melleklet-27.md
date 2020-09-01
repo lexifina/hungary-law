@@ -1,3 +1,3 @@
-27. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^434]
+27. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^433]
 
-[^434]: A 27. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^433]: A 27. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

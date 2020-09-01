@@ -20,23 +20,23 @@ c)[^156]
 
 d)[^157]
 
-e)[^158]
+e) 2. § (5) bekezdése,
 
-f)[^159]
+f)[^158]
 
-g)[^160]
+g)[^159]
 
-h)[^161]
+h)[^160]
 
-i)[^162]
+i)[^161]
 
-j)[^163]
+j)[^162]
 
-k)[^164]
+k)[^163]
 
-l)[^165]
+l)[^164]
 
-m)[^166]
+m)[^165]
 
 [^149]: A 95. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^150]: A 95. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -47,12 +47,11 @@ m)[^166]
 [^155]: A 95. § (6) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^156]: A 95. § (6) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^157]: A 95. § (6) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^158]: A 95. § (6) bekezdés e) pontja a 202. § (7) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^159]: A 95. § (6) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^160]: A 95. § (6) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^161]: A 95. § (6) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^162]: A 95. § (6) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^163]: A 95. § (6) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^164]: A 95. § (6) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^165]: A 95. § (6) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^166]: A 95. § (6) bekezdés m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^158]: A 95. § (6) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^159]: A 95. § (6) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^160]: A 95. § (6) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^161]: A 95. § (6) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^162]: A 95. § (6) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 95. § (6) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 95. § (6) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: A 95. § (6) bekezdés m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
