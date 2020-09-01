@@ -1,3 +1,5 @@
+## végzettséggel és szakképzettséggel rendelkezik.
+
 ## V. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

@@ -38,7 +38,7 @@ c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alap
 
 ## eltöltött jogszerű foglalkoztatás idejét is.
 
-(2a)[^31] A bölcsődében, mini bölcsődében pedagógus munkakörben középfokú végzettséggel foglalkoztatott személyt, aki foglalkoztatási jogviszonya fennállása alatt a munkakörének betöltéséhez szükséges alap- vagy mesterfokozatot szerez, ha a (2) bekezdés szerinti munkakörben
+(2a)[^31] A bölcsődében, mini bölcsődében fennálló foglalkoztatási jogviszonya alatt pedagógus munkakör betöltéséhez szükséges alap- vagy mesterfokozatot szerző, korábban középfokú végzettsége alapján besorolt személyt, ha a (2) bekezdés szerinti munkakörben
 
 a) legalább két év szakmai gyakorlatot szerzett, Pedagógus I. fokozatba,
 
@@ -64,7 +64,7 @@ b) két évnél kevesebb szakmai gyakorlat esetén Gyakornok fokozatba
 [^28]: A 6. § (1) bekezdés j) pontját a 13/2020. (II. 7.) Korm. rendelet 86. § (2) bekezdése iktatta be.
 [^29]: A 6. § (1a) bekezdését a 308/2018. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
 [^30]: A 6. § (2) bekezdés záró szövegrésze a 307/2017. (X. 27.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
-[^31]: A 6. § (2a) bekezdését a 278/2019. (XI. 21.) Korm. rendelet 7. §-a iktatta be.
+[^31]: A 6. § (2a) bekezdését a 278/2019. (XI. 21.) Korm. rendelet 7. §-a iktatta be, nyitó szövegrésze a 417/2020. (VIII. 30.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
 [^32]: A 6. § (3) bekezdése a 275/2019. (XI. 21.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^33]: A 6. § (3a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^34]: A 6. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja, a 122/2018. (VII. 10.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.

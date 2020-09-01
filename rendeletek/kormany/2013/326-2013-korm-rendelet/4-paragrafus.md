@@ -1,4 +1,4 @@
-## 3/A. §[^15] Ha az Nkt. 36. § (1) bekezdésben meghatározott nevelési-oktatási intézményben szolgálati viszony keretében pedagógus munkakörben foglalkoztatottnak a szolgálati viszonya megszűnik és legalább nyolc év szakmai gyakorlattal rendelkezik, valamint ezt követően pedagógus munkakörre közalkalmazotti jogviszonyt vagy munkaviszonyt létesít, a pedagógust Pedagógus I. fokozatba kell besorolni és biztosítani kell számára – a Pedagógus II. fokozathoz előírt várakozási idő követelményének mellőzésével – a Pedagógus II. fokozatba lépéshez szükséges minősítési eljárásban való részvételt.
+## 3/A. §[^15]
 
 4. § (1) Az a Pedagógus II. fokozatba besorolt pedagógus, aki rendelkezik
 
@@ -22,7 +22,7 @@ a) az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő 
 
 b) a szaktanácsadói feladatok ellátására irányul, akkor a pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló 48/2012. (XII. 12.) EMMI rendelet szerinti szaktanácsadói névjegyzéken
 
-[^15]: A 3/A. §-t a 324/2016. (X. 27.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3/A. §-t a 324/2016. (X. 27.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 417/2020. (VIII. 30.) Korm. rendelet 22. § b) pontja.
 [^16]: A 4. § (1a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^17]: A 4. § (1b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^18]: A 4. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
