@@ -1,10 +1,10 @@
-55/B. §[^218] (1) A közintézményi felhasználó a GET 64/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a földgázkereskedőnél és a földgázelosztónál.
+55/B. §[^223] (1) A közintézményi felhasználó a GET 64/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a földgázkereskedőnél és a földgázelosztónál.
 
 (2) A közintézményi felhasználó a moratórium biztosításának kezdeményezésével egyidejűleg az alábbi dokumentumokkal igazolja, hogy a GET 64/A. §-ában és e rendelet 55/A. §-ában meghatározott feltételeknek megfelel:
 
 a) az 55/A. § a) pont aa) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel,
 
-b)[^219] az 55/A. § a) pont ab) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel és hatályos közoktatási szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással,
+b)[^224] az 55/A. § a) pont ab) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel és hatályos közoktatási szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással,
 
 c) az 55/A. § b) pont ba) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel,
 
@@ -18,5 +18,5 @@ g) a javítóintézet alapító okirattal, és
 
 h) az 55/A. § d) pontja szerinti közintézményi felhasználó hatályos közfinanszírozási szerződéssel.
 
-[^218]: A Vhr. 55/B. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
-[^219]: A Vhr. 55/B. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 45. § 3. pontja szerint módosított szöveg.
+[^223]: A Vhr. 55/B. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^224]: A Vhr. 55/B. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 45. § 3. pontja szerint módosított szöveg.

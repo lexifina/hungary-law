@@ -1,12 +1,12 @@
-## A földgázellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^213]
+## A földgázellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^218]
 
-55/A. §[^214] A GET és e rendelet alkalmazásában közintézményi felhasználó
+55/A. §[^219] A GET és e rendelet alkalmazásában közintézményi felhasználó
 
-a)[^215] az óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda, iskola vagy szakképző intézmény, és az ezekhez tartozó kollégium, ha
+a)[^220] az óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda, iskola vagy szakképző intézmény, és az ezekhez tartozó kollégium, ha
 
 aa) állami vagy önkormányzati fenntartású, vagy
 
-ab)[^216] állami vagy önkormányzati feladatok ellátására hatályos közoktatási szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással rendelkezik,
+ab)[^221] állami vagy önkormányzati feladatok ellátására hatályos közoktatási szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással rendelkezik,
 
 b) a szociális igazgatásról és a szociális ellátásokról szóló törvény szerinti ápolást, gondozást nyújtó intézmény, rehabilitációs intézmény, lakóotthon, átmeneti elhelyezést nyújtó intézmény, valamint a hajléktalan személyek nappali ellátását biztosító szociális intézmény, ha
 
@@ -14,7 +14,7 @@ ba) állami vagy önkormányzati fenntartású, vagy
 
 bb) állami vagy önkormányzati feladatok ellátására hatályos ellátási szerződéssel rendelkezik,
 
-c)[^217] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
+c)[^222] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
 
 ca) állami vagy önkormányzati fenntartású, vagy
 
@@ -26,8 +26,8 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^213]: A Vhr. 55/A. §-t megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
-[^214]: A Vhr. 55/A. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
-[^215]: A Vhr. 55/A. § a) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 45. § 1. pontja szerint módosított szöveg.
-[^216]: A Vhr. 55/A. § a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 45. § 2. pontja szerint módosított szöveg.
-[^217]: A Vhr. 55/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^218]: A Vhr. 55/A. §-t megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^219]: A Vhr. 55/A. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^220]: A Vhr. 55/A. § a) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 45. § 1. pontja szerint módosított szöveg.
+[^221]: A Vhr. 55/A. § a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 45. § 2. pontja szerint módosított szöveg.
+[^222]: A Vhr. 55/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.

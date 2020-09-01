@@ -1,10 +1,10 @@
-38. §[^157] (1)[^158] A szervezett földgázpiaci engedélyes az ÜKSZ hatálya alá tartozik, köteles annak rendelkezéseit betartani, az ügyletek teljesítése és elszámolása során köteles a szállítási rendszerüzemeltetővel együttműködni. Az együttműködés részletes feltételeit az ÜKSZ határozza meg.
+38. §[^161] (1)[^162] A szervezett földgázpiaci engedélyes az ÜKSZ hatálya alá tartozik, köteles annak rendelkezéseit betartani, az ügyletek teljesítése és elszámolása során köteles a szállítási rendszerüzemeltetővel együttműködni. Az együttműködés részletes feltételeit az ÜKSZ határozza meg.
 
-(2)[^159]
+(2)[^163]
 
-(3)[^160] A szervezett földgázpiacon folyó kereskedés szabályait tartalmazó szervezett földgázpiaci szabályzat rendelkezései a szervezett földgázpiacon történő részvétel tekintetében és a kereskedés során kötelezően alkalmazandók. A szervezett földgázpiaci szabályzatot úgy kell kialakítani, hogy biztosítsa a biztonságos és átlátható kereskedést, valamint segítse elő a regionális földgázpiacok kialakítását és összekapcsolását. Ha a biztonságos és átlátható kereskedés a piaci folyamatok kedvezőtlen alakulása miatt nem biztosítható, a szervezett földgázpiaci engedélyes jogosult a kereskedés időleges felfüggesztésére. A felfüggesztés részletes szabályait – a földgázellátási zavar és válsághelyzet esetén alkalmazandó jogszabályi rendelkezésekkel összhangban – a szervezett földgázpiaci szabályzat tartalmazza.
+(3)[^164] A szervezett földgázpiacon folyó kereskedés szabályait tartalmazó szervezett földgázpiaci szabályzat rendelkezései a szervezett földgázpiacon történő részvétel tekintetében és a kereskedés során kötelezően alkalmazandók. A szervezett földgázpiaci szabályzatot úgy kell kialakítani, hogy biztosítsa a biztonságos és átlátható kereskedést, valamint segítse elő a regionális földgázpiacok kialakítását és összekapcsolását. Ha a biztonságos és átlátható kereskedés a piaci folyamatok kedvezőtlen alakulása miatt nem biztosítható, a szervezett földgázpiaci engedélyes jogosult a kereskedés időleges felfüggesztésére. A felfüggesztés részletes szabályait – a földgázellátási zavar és válsághelyzet esetén alkalmazandó jogszabályi rendelkezésekkel összhangban – a szervezett földgázpiaci szabályzat tartalmazza.
 
-[^157]: A Vhr. 38. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^158]: A Vhr. 38. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése, a 91/2015. 21. § 6. pontja szerint módosított szöveg.
-[^159]: A Vhr. 38. § (2) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
-[^160]: A Vhr. 38. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^161]: A Vhr. 38. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^162]: A Vhr. 38. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése, a 91/2015. 21. § 6. pontja szerint módosított szöveg.
+[^163]: A Vhr. 38. § (2) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
+[^164]: A Vhr. 38. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.

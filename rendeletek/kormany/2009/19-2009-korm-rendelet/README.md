@@ -69,3 +69,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2020-02-15 | 2009-19-20-22.65 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-04-29 | 2009-19-20-22.66 | 110/2020. (IV. 14.) Korm. rendelet |
 | 2020-08-13 | 2009-19-20-22.67 | 130/2013. (V. 2.) Korm. rendelet |
+| 2020-09-01 | 2009-19-20-22.68 | 401/2020. (VIII. 17.) Korm. rendelet |

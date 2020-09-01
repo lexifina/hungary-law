@@ -1,3 +1,3 @@
-115/C. §[^413] A földgázelosztó – ha az épület az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti jelentős felújításon esik át, és a felhasználó nem rendelkezik fogyasztásmérő-berendezéssel – köteles gondoskodni fogyasztásmérő berendezés felszereléséről.
+115/C. §[^428] A földgázelosztó – ha az épület az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti jelentős felújításon esik át, és a felhasználó nem rendelkezik fogyasztásmérő-berendezéssel – köteles gondoskodni fogyasztásmérő berendezés felszereléséről.
 
-[^413]: A Vhr. 115/C. §-át a 123/2015. (V. 26.) Korm. rendelet 31. §-a iktatta be.
+[^428]: A Vhr. 115/C. §-át a 123/2015. (V. 26.) Korm. rendelet 31. §-a iktatta be.

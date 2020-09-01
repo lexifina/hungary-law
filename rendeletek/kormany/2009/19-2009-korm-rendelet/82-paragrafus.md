@@ -1,3 +1,3 @@
-82. §[^299] A rendszerüzemeltető technológiai célra, hálózati veszteség valamint mérési különbözet pótlására kereskedési platformon, egyensúlyozó platformon, a szervezett földgázpiacon vagy pályáztatás útján, átlátható módon köteles földgázt beszerezni, melyről köteles külön nyilvántartást vezetni gáznapi szinten.
+82. §[^304] A rendszerüzemeltető technológiai célra, hálózati veszteség valamint mérési különbözet pótlására kereskedési platformon, egyensúlyozó platformon, a szervezett földgázpiacon vagy pályáztatás útján, átlátható módon köteles földgázt beszerezni, melyről köteles külön nyilvántartást vezetni gáznapi szinten.
 
-[^299]: A Vhr. 82. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^304]: A Vhr. 82. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

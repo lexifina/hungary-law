@@ -2,11 +2,11 @@
 
 ## Szabályzati Bizottság létrehozása működtetése
 
-116. §[^419] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
+116. §[^434] (1) A Szabályzati Bizottságban (a továbbiakban: SZB) az azonos típusú engedéllyel rendelkezők az engedélyesi körök által választott képviselőik útján vesznek részt.
 
 (2) Az SZB-ben a következő engedélyesi körök vesznek részt véleményezési joggal, választott képviselőjük útján:
 
-a)[^420] szállítási rendszerüzemeltetői,
+a)[^435] szállítási rendszerüzemeltetői,
 
 b) földgáztárolási,
 
@@ -24,18 +24,18 @@ engedélyesek.
 
 (4) Az SZB-ben véleményezési joggal részt vesz a Hivatal által kijelölt, a felhasználókat képviselő egy érdekvédelmi szerv által delegált felhasználói képviselő, és a földgáztermelők egy választott képviselője.
 
-(4a)[^421] Az SZB-ben megfigyelőként, tanácskozási joggal részt vesz a földgázszállítási tevékenység végzésére engedéllyel rendelkező, szállítási rendszerirányítónak nem minősülő földgázipari vállalkozás egy választott képviselője.
+(4a)[^436] Az SZB-ben megfigyelőként, tanácskozási joggal részt vesz a földgázszállítási tevékenység végzésére engedéllyel rendelkező, szállítási rendszerirányítónak nem minősülő földgázipari vállalkozás egy választott képviselője.
 
 (5) Az engedélyesi és a felhasználói körök saját ügyrendjük szerint működnek, amely alapján megválasztják felelős képviselőjüket.
 
 (6) Az SZB munkájába szakértőket vonhat be.
 
-(7)[^422] Az engedélyesi körök, valamint a földgáztermelők és a felhasználók kidolgozzák a saját tevékenységükre vonatkozó rendelkezésekre, szabályokra, valamint azok módosításaira vonatkozó javaslatukat és azokat a szállítási rendszerirányító részére az ÜKSZ kidolgozása és felülvizsgálata során átadják.
+(7)[^437] Az engedélyesi körök, valamint a földgáztermelők és a felhasználók kidolgozzák a saját tevékenységükre vonatkozó rendelkezésekre, szabályokra, valamint azok módosításaira vonatkozó javaslatukat és azokat a szállítási rendszerirányító részére az ÜKSZ kidolgozása és felülvizsgálata során átadják.
 
-(8)[^423] A szállítási rendszerirányító – az SZB bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változások kihirdetését követő 90 napon belül az azokban foglaltak az ÜKSZ-ben átvezetésre kerüljenek, és a módosított ÜKSZ a Hivatalhoz jóváhagyásra benyújtásra kerüljön.
+(8)[^438] A szállítási rendszerirányító – az SZB bevonásával – köteles olyan előkészítő munkát végezni, amely lehetővé teszi, hogy a jogszabályi változások kihirdetését követő 90 napon belül az azokban foglaltak az ÜKSZ-ben átvezetésre kerüljenek, és a módosított ÜKSZ a Hivatalhoz jóváhagyásra benyújtásra kerüljön.
 
-[^419]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^420]: A Vhr. 116. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdésével megállapított szöveg.
-[^421]: A Vhr. 116. § (4a) bekezdését a 99/2013. (III. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^422]: A Vhr. 116. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
-[^423]: A Vhr. 116. § (8) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
+[^434]: A Vhr. 116. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^435]: A Vhr. 116. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdésével megállapított szöveg.
+[^436]: A Vhr. 116. § (4a) bekezdését a 99/2013. (III. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^437]: A Vhr. 116. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
+[^438]: A Vhr. 116. § (8) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
