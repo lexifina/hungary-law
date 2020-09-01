@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-35-20-2
 | 2019-06-06 | 2017-35-20-2C.7 | 23/2019. (VI. 5.) MNB rendelet |
 | 2020-03-02 | 2017-35-20-2C.8 | 10/2019. (II. 21.) MNB rendelet |
 | 2020-03-03 | 2017-35-20-2C.9 | 2010: CXXX. törvény |
+| 2020-09-01 | 2017-35-20-2C.10 | 44/2019. (XII. 17.) MNB rendelet |

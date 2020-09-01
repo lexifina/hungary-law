@@ -1,0 +1,5 @@
+55/B. §[^23] (1) A fizető fél fizetési számláját vezető pénzforgalmi szolgáltató az 55/A. § (1) bekezdésében meghatározott átutalási megbízáson kívül egyéb, forintösszegre szóló fizetési megbízást kizárólag akkor továbbíthat az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerbe, ha biztosítja, hogy a fizetési megbízásban megjelölt kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltatónként egy másodperc alatt összesen csak egyetlen – kötegelt megbízás esetében a szétbontott kötegből egyetlen – fizetési megbízás továbbítására kerül sor.
+
+(2) Az 55/A. § (2) bekezdésében meghatározott kötegelt fizetési kérelmen túl kötegelt fizetési kérelem – annak szétbontását követően – kizárólag akkor továbbítható az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerbe, ha biztosított, hogy a fizető fél pénzforgalmi szolgáltatójához egy másodperc alatt csak egyetlen fizetési kérelem továbbítására kerül sor.
+
+[^23]: Az 55/B. §-t a 44/2019. (XII. 17.) MNB rendelet 3. §-a iktatta be.
