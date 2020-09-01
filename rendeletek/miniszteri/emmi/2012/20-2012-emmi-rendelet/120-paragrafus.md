@@ -28,7 +28,7 @@ b) a tanulók helyzetét elemző, értékelő beszámolók elkészítéséhez, e
 
 c) a tanulói pályázatok, versenyek meghirdetéséhez, megszervezéséhez,
 
-d)[^243] az iskolai sportkör – a munkaterv részét képező – szakmai programjának megállapításához,
+d)[^275] az iskolai sportkör – a munkaterv részét képező – szakmai programjának megállapításához,
 
 e) az egyéb foglalkozás formáinak meghatározásához,
 
@@ -36,9 +36,9 @@ f) a könyvtár, a sportlétesítmények működési rendjének kialakításáho
 
 g) az intézményi SZMSZ-ben meghatározott ügyekben,
 
-h)[^244] az iskolai étkeztetés keretében biztosított ételek minőségéről, az iskola házirendjében szabályozott módon
+h)[^276] az iskolai étkeztetés keretében biztosított ételek minőségéről, az iskola házirendjében szabályozott módon
 
-## ki kell kérni.
+ki kell kérni.
 
 (6) Azokban az ügyekben, amelyekben a diákönkormányzat véleményének kikérése kötelező, a diákönkormányzat képviselőjét a tárgyalásra meg kell hívni, és az előterjesztést, valamint a meghívót – ha jogszabály másképp nem rendelkezik – a tárgyalás határnapját legalább tizenöt nappal megelőzően meg kell küldeni a diákönkormányzat részére.
 
@@ -50,5 +50,5 @@ h)[^244] az iskolai étkeztetés keretében biztosított ételek minőségéről
 
 (10) A diákönkormányzatok jogosultak szövetséget létesíteni, továbbá ilyenhez csatlakozni. A szövetség az iskolában, kollégiumban a diákönkormányzat jogait nem gyakorolhatja.
 
-[^243]: A 120. § (5) bekezdés d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^244]: A 120. § (5) bekezdés h) pontját a 20/2019. (VIII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.
+[^275]: A 120. § (5) bekezdés d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^276]: A 120. § (5) bekezdés h) pontját a 20/2019. (VIII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.

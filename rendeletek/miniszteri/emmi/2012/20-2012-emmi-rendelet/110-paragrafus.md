@@ -1,5 +1,3 @@
-## tartalmazza.
-
 110. § (1) A kollégiumi napló a kollégiumban folytatott pedagógiai tevékenységek dokumentálására szolgál. A kollégiumi napló szervezeti egységenként külön is vezethető.
 
 (2) A kollégiumi naplón fel kell tüntetni a kiállító intézmény nevét, címét, OM azonosítóját, a megnyitás és lezárás időpontját, az igazgató aláírását, papíralapú dokumentum esetén az intézmény körbélyegzőjének lenyomatát.
@@ -28,6 +26,6 @@ ef) az ügyeletes nevelőtanár jelentését,
 
 eg) az ügyeletes tanár és az igazgató aláírását
 
-## tartalmazza.
+tartalmazza.
 
 (4) A létszámnyilvántartást napokra lebontva kell vezetni.

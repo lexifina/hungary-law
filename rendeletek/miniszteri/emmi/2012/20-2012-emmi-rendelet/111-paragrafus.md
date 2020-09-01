@@ -17,3 +17,5 @@ e) azon iskola nevét, amelyikkel a tanuló tanulói jogviszonyban áll, osztál
 f) a tanuló kollégiumba történő be- és kiköltözésének időpontját,
 
 g) a tanulók ügyeivel kapcsolatos döntéseket, határozatokat, záradékokat
+
+tartalmazza.

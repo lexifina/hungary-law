@@ -9,3 +9,5 @@ a) a tanuló nevét, oktatási azonosító számát, születési helyét és ide
 b) a tanuló iskolán belüli tanulmányai befejezésének évét,
 
 c) a tanulót átvevő iskola nevét, OM azonosítóját, címét és szakirányát
+
+tartalmazza.

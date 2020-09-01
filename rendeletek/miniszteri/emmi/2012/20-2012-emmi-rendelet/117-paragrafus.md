@@ -6,7 +6,7 @@
 
 ## 33. A nevelőtestület
 
-117. § (1)[^238] A nevelőtestület, a feladatkörébe tartozó ügyek előkészítésére vagy eldöntésére tagjaiból – meghatározott időre vagy alkalmilag – bizottságot hozhat létre, valamint egyes jogköreinek gyakorlását átruházhatja a szakmai munkaközösségre, az iskolaszékre vagy a diákönkormányzatra. Az átruházott jogkör gyakorlója a nevelőtestületet tájékoztatni köteles – a nevelőtestület által meghatározott időközönként és módon – azokról az ügyekről, amelyekben a nevelőtestület megbízásából eljár. Ezeket a rendelkezéseket nem lehet alkalmazni a pedagógiai program, az SZMSZ és a házirend elfogadására. Szakképzési centrum esetén a kizárólag egyetlen tagintézményt érintő ügyekben az adott tagintézmény nevelőtestülete, míg a szakképzési centrum valamennyi tagintézményét érintő ügyekben a tagintézmények együttes nevelőtestülete jár el.
+117. § (1)[^269] A nevelőtestület, a feladatkörébe tartozó ügyek előkészítésére vagy eldöntésére tagjaiból – meghatározott időre vagy alkalmilag – bizottságot hozhat létre, valamint egyes jogköreinek gyakorlását átruházhatja a szakmai munkaközösségre, az iskolaszékre vagy a diákönkormányzatra. Az átruházott jogkör gyakorlója a nevelőtestületet tájékoztatni köteles – a nevelőtestület által meghatározott időközönként és módon – azokról az ügyekről, amelyekben a nevelőtestület megbízásából eljár. Ezeket a rendelkezéseket nem lehet alkalmazni a pedagógiai program, az SZMSZ és a házirend elfogadására.
 
 (2) Nevelőtestületi értekezletet kell összehívni
 
@@ -32,4 +32,9 @@ d) az igazgatóhelyettesek megbízása, megbízásnak visszavonása előtt,
 
 e) külön jogszabályban meghatározott ügyekben
 
-[^238]: A 117. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 10. §-ával megállapított szöveg.
+ki kell kérni.
+
+(5)[^270] A tanítási évben nevelőtestületi értekezleten el kell végezni az adott intézményre vonatkozó, az országos kompetenciamérés, a nyelvi mérés, a lemorzsolódással veszélyeztetett tanulókkal kapcsolatos támogató rendszer, valamint a tanulók fizikai állapotának és edzettségének mérési adatait tartalmazó informatikai alapú diagnosztikus értékelő rendszer (a továbbiakban: NETFIT) szerinti fizikai fittségi mérések legutolsó rendelkezésre álló adatainak elemzését, értékelését.
+
+[^269]: A 117. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 10. §-ával megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^270]: A 117. § (5) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 9. §-a iktatta be.

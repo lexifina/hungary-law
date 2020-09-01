@@ -1,11 +1,14 @@
-## 43. A testi, lelki, mentális egészség fejlesztése, a magatartási függőség, a szenvedélybetegség kialakulásához vezető szerek fogyasztásának és a gyermeket, tanulót veszélyeztető bántalmazásnak
+## 43. [^319] A lelki egészség fejlesztése
 
-## a megelőzése
+131. § (1)[^320] A nevelési-oktatási intézményben folyó pedagógiai munka által elérhető lelki egészségfejlesztés célja, hogy elősegítse a kiegyensúlyozott lelki fejlődést, támogassa a gyermek, tanuló esetében a környezethez történő alkalmazkodást, felkészítsen és megoldási stratégiákat kínáljon a környezetből érkező ártalmas hatásokkal szemben, így csökkentve a káros következményeket, továbbá pozitív hatást gyakoroljon a személyiségfejlődésre.
 
-131. § (1) A nevelési-oktatási intézményben folyó lelki egészségfejlesztés célja, hogy elősegítse a kiegyensúlyozott pszichés fejlődést, támogassa a gyermek, tanuló esetében a környezethez történő alkalmazkodást, felkészítsen és megoldási stratégiákat kínáljon a környezetből érkező ártalmas hatásokkal szemben, így csökkentve a káros következményeket, továbbá pozitív hatást gyakoroljon a személyiséget érő változásokra.
+(2)[^321] Az iskolának és a kollégiumnak kiemelt figyelmet kell fordítania a viselkedési és kémiai függőségek, valamint a nevelési-oktatási intézményben megjelenő erőszak megelőzésére, továbbá a gyógyult szenvedélybeteg és bántalmazott tanulók beilleszkedésének elősegítésére, ennek során indokolt esetben együttműködik az iskola-egészségügyi szolgálattal.
 
-(2) Az iskolának és a kollégiumnak kiemelt figyelmet fordít a magatartási függőség és a szenvedélybetegség kialakulásához vezető szerek fogyasztásának, valamint a nevelési-oktatási intézményben megjelenő bántalmazás és agresszió megelőzésére, továbbá a gyógyult szenvedélybeteg és bántalmazott tanulók beilleszkedésének elősegítésére, ennek során indokolt esetben együttműködik az iskola-egészségügyi szolgálattal.
-
-(3) Abban az esetben, ha a pedagógus a gyermek, a tanuló bántalmazását vagy deviáns viselkedésformákat észlel, az adott osztály vagy tanulócsoport nevelésében, oktatásában közreműködők bevonásával esetmegbeszélést kezdeményez, majd a pedagógusokkal közösen feltárja azokat a lehetséges okokat, amelyek a viselkedés sajátos formájához vezethettek. A konfliktusban érintett gyermekek, tanulók az iskolapszichológus kiemelt segítségében részesülnek.
+(3)[^322] Abban az esetben, ha a pedagógus a gyermek, a tanuló bántalmazását vagy más deviáns viselkedésformákat észlel, az adott osztály vagy tanulócsoport nevelésében, oktatásában közreműködők bevonásával esetmegbeszélést kezdeményez, majd a pedagógusokkal közösen feltárja azokat a lehetséges okokat, amelyek a viselkedés sajátos formájához vezethettek. A konfliktusban érintett gyermekek, tanulók az iskolapszichológus kiemelt segítségében részesülnek.
 
 (4) Amennyiben az érintett gyermek, tanuló vagy a tanulók csoportja vonatkozásában a viselkedési problémák ismétlődő jellegűek, az intézmény vezetője értesíti óvodás gyermek esetén az óvodapszichológust, tanuló esetén az iskolapszichológust, és egyúttal meghatározza azt az időpontot, amikor a gyermek, a tanuló köteles a pszichológus tanácsadásán részt venni.
+
+[^319]: A 43. alcím címe a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 26. pontja szerint módosított szöveg.
+[^320]: A 131. § (1) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont a) alpontja szerint módosított szöveg.
+[^321]: A 131. § (2) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont b) alpontja szerint módosított szöveg.
+[^322]: A 131. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 13. pont c) alpontja szerint módosított szöveg.

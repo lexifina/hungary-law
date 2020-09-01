@@ -1,12 +1,12 @@
-## 69. [^387] Az Arany János Kollégiumi Program
+## 69. [^449] Az Arany János Kollégiumi Program
 
-174. § (1)[^388] Az Arany János Kollégiumi Programban részt vehet az a kollégium és gimnázium vagy szakgimnázium, amelynek célja megteremteni a feltételeket ahhoz, hogy a hátrányos és halmozottan hátrányos helyzetű, továbbá a különböző társadalmi hátránnyal küzdő tanulók megkezdhessék és sikeresen befejezhessék a középfokú tanulmányaikat, végzettséget szerezhessenek, továbbá javuljanak esélyeik a felsőfokú tanulmányok megkezdésében.
+174. § (1)[^450] Az Arany János Kollégiumi Programban részt vehet az a kollégium és gimnázium vagy szakgimnázium, amelynek célja megteremteni a feltételeket ahhoz, hogy a hátrányos és halmozottan hátrányos helyzetű, továbbá a különböző társadalmi hátránnyal küzdő tanulók megkezdhessék és sikeresen befejezhessék a középfokú tanulmányaikat, végzettséget szerezhessenek, továbbá javuljanak esélyeik a felsőfokú tanulmányok megkezdésében.
 
 (2) Az Arany János Kollégiumi Programban részt vevő kollégium kiválasztása az oktatásért felelős miniszter által vezetett minisztérium által kiírt nyilvános pályázat útján történik. A pályázatot az oktatásért felelős miniszter által vezetett minisztérium honlapján kell meghirdetni.
 
 (3) A pályázatokat az e célra létrehozott döntés-előkészítő bizottság bírálja el a pályázati határidő lejártát követő harminc napon belül, majd a támogatásról javaslatot tesz az oktatásért felelős miniszternek. A javaslattételtől számított tizenöt napon belül a győztes pályázók nevét az oktatásért felelős miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.
 
-(4)[^389] A döntés-előkészítő bizottság háromtagú, amelybe az oktatásért felelős miniszter – a szakképzési centrum tagintézményeként működő kollégium esetében a szakképzésért és felnőttképzésért felelős miniszter bevonásával – delegálja az Arany János Kollégiumi Program országos koordinációját segítő intézmény egy tagját, az Arany János Kollégiumi Program mentori tanácsadó testületének egy tagját és a Kollégiumi Szakmai és Érdekvédelmi Szövetség egy tagját. A bizottság maga határozza meg működésének rendjét, azzal a megkötéssel, hogy döntését egyszerű szótöbbséggel hozza. A tagokat a tevékenységük ellátásáért díjazás nem illeti meg.
+(4)[^451] A döntés-előkészítő bizottság háromtagú, amelybe az oktatásért felelős miniszter delegál egy tagot, az Arany János Kollégiumi Program mentori tanácsadó testületének egy tagját és az Arany János Kollégiumi Program tanácsadó testülete egy tagját. A bizottság maga határozza meg működésének rendjét, azzal a megkötéssel, hogy döntését egyszerű szótöbbséggel hozza. A tagokat a tevékenységük ellátásáért díjazás nem illeti meg.
 
 (5) A pályázathoz csatolni kell
 
@@ -14,15 +14,15 @@ a) az Arany János Kollégiumi Program indítására és az alapító okirat, sz
 
 b) a fenntartónak a pályázaton való részvételt támogató nyilatkozatát,
 
-c) a kollégium – a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló rendeletben foglalt, az Arany János Kollégiumi Program követelményei szerint elkészített – pedagógiai programjának tervezetét, amelynek megfelelően nyertes pályázat esetén a pályázó módosítja a pedagógiai programját,
+c)[^452] a kollégium – az oktatásért felelős miniszter által kiadott és közzétett, a Kollégiumi nevelés országos alapprogramjában az Arany János Kollégiumi Programot megvalósító köznevelési intézmények számára meghatározott követelmények szerint elkészített – pedagógiai programjának tervezetét, amelynek megfelelően nyertes pályázat esetén a pályázó módosítja a pedagógiai programját,
 
-d)[^390] az Arany János Kollégiumi Programban partnerként közreműködő gimnázium vagy szakgimnázium nyilatkozatát arról, hogy a résztvevők középfokú tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja a kerettantervek kiadásának és jóváhagyásának rendjéről szóló rendeletben foglalt, az Arany János Kollégiumi Program követelményei szerint.
+d)[^453] az Arany János Kollégiumi Programban partnerként közreműködő gimnázium vagy szakgimnázium nyilatkozatát arról, hogy a résztvevők középfokú tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja az oktatásért felelős miniszter által kiadott és közzétett Kerettanterv az Arany János Kollégiumi Programhoz előírása szerint.
 
-(6)[^391] Fenntartóváltás esetén az Arany János Kollégiumi Program további működtetésének feltételeként a jogutódnak köznevelési szakértői véleménnyel kell rendelkeznie arról, hogy az Arany János Programban zajló tevékenységekről, szolgáltatásokról továbbra is megfelelő színvonalon tud gondoskodni oly módon, hogy annak igénybevétele a gyermeknek, tanulónak, szülőnek nem jelent aránytalan terhet. A szakértői véleményt az oktatásért felelős miniszter számára meg kell küldeni, aki a szakértői vélemény, és érintettség esetén a szakképzésért és felnőttképzésért felelős miniszter véleményének függvényében dönt az Arany János Kollégiumi Program folytatásáról.
+(6)[^454] Fenntartóváltás esetén az Arany János Kollégiumi Program további működtetésének feltételeként a jogutódnak köznevelési szakértői véleménnyel kell rendelkeznie arról, hogy az Arany János Programban zajló tevékenységekről, szolgáltatásokról továbbra is megfelelő színvonalon tud gondoskodni oly módon, hogy annak igénybevétele a gyermeknek, tanulónak, szülőnek nem jelent aránytalan terhet. A szakértői véleményt az oktatásért felelős miniszter számára meg kell küldeni, aki a szakértői vélemény függvényében dönt az Arany János Kollégiumi Program folytatásáról.
 
-(7) Az Arany János Kollégiumi Program működtetésének feltételeiről a részt vevő köznevelési intézmények, azok fenntartói és az Arany János Kollégiumi Program országos koordinációjáért felelős szervezet évente megállapodást kötnek.
+(7)[^455] Az Arany János Kollégiumi Program működtetésének feltételeiről a részt vevő köznevelési intézmények, azok fenntartói évente megállapodást kötnek.
 
-(8)[^392] Az Arany János Kollégiumi Programba a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint az kapcsolódhat be, aki abban a tanévben, amelyben a pályázat meghirdetésre kerül,
+(8)[^456] Az Arany János Kollégiumi Programba a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint az kapcsolódhat be, aki abban a tanévben, amelyben a pályázat meghirdetésre kerül,
 
 a) tanulói jogviszonyban áll és a gimnázium vagy szakgimnázium kilencedik évfolyamára jelentkezik, és
 
@@ -48,9 +48,11 @@ bi) lakóhelye, ennek hiányában tartózkodási helye nem kedvezményezett, de 
 
 (9) Az intézmény tájékoztatja a tanulót az Arany János Kollégiumi Programban való részvétel során őt megillető jogokról és az őt terhelő kötelezettségekről.
 
-[^387]: A 69. alcím (174. §) a 45/2014. (X. 27.) EMMI rendelet 45. §-ával megállapított szöveg.
-[^388]: A 174. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^389]: A 174. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^390]: A 174. § (5) bekezdés d) pontja a 20/2016. (VIII. 24.) EMMI rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^391]: A 174. § (6) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 35. pont a) alpontja szerint módosított szöveg.
-[^392]: A 174. § (8) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^449]: A 69. alcím (174. §) a 45/2014. (X. 27.) EMMI rendelet 45. §-ával megállapított szöveg.
+[^450]: A 174. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^451]: A 174. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 20. § (2) bekezdésével megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 19. § 19. pontja szerint módosított szöveg.
+[^452]: A 174. § (5) bekezdés c) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 20. pont a) alpontja szerint módosított szöveg.
+[^453]: A 174. § (5) bekezdés d) pontja a 20/2016. (VIII. 24.) EMMI rendelet 20. § (3) bekezdésével megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 19. § 20. pont b) alpontja szerint módosított szöveg.
+[^454]: A 174. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 33. pont a) alpontja szerint módosított szöveg.
+[^455]: A 174. § (7) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 33. pont b) alpontja szerint módosított szöveg.
+[^456]: A 174. § (8) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 17. §-ával megállapított szöveg.

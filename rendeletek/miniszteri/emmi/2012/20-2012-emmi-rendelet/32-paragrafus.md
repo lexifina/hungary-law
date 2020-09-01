@@ -1,12 +1,12 @@
 32. § (1) A hivatal szeptember 30-áig honlapján közlemény formájában nyilvánosságra hozza az adott tanévre vonatkozóan a középfokú iskolák tanulmányi területeinek meghatározási formáját.
 
-(2)[^103] A középfokú iskola a tanulmányi területek fő jellemzőit és belső kódjait az (1) bekezdés szerinti közlemény alapján állapítja meg, és október 20-áig rögzíti a KIFIR rendszerben.
+(2)[^119] A középfokú iskola a tanulmányi területek fő jellemzőit és belső kódjait az (1) bekezdés szerinti közlemény alapján állapítja meg, és október 20-áig rögzíti a KIFIR rendszerben.
 
-(3)[^104] A középfokú iskola felvételi tájékoztatót készít, és azt a honlapján nyilvánosságra hozza, valamint a KIFIR rendszerében október 20-áig elhelyezi.
+(3)[^120] A középfokú iskola felvételi tájékoztatót készít, és azt a honlapján nyilvánosságra hozza, valamint a KIFIR rendszerében október 20-áig elhelyezi.
 
 (4) A felvételi tájékoztató tartalmazza
 
-a)[^105] a középfokú iskola OM azonosítóját, feladatellátási helyenként a meghirdetett tanulmányi területek leírását, az azokat jelölő belső kódokat,
+a)[^121] a középfokú iskola OM azonosítóját, feladatellátási helyenként a meghirdetett tanulmányi területek leírását, az azokat jelölő belső kódokat,
 
 b) a középfokú iskola felvételi eljárásának rendjét,
 
@@ -14,14 +14,14 @@ c) a felvételi kérelmek elbírálásának, rangsorolásának módját, szabál
 
 d) a sajátos nevelési igényű, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő jelentkezőre vonatkozó speciális elbírálási szabályokat,
 
-e)[^106] ha az iskola szóbeli vizsgát vagy a 27. § (5) bekezdése szerinti képesség-, készségfelmérést szervez, a vizsga vagy a felmérés követelményeit, időpontját és helyét,
+e)[^122] ha az iskola szóbeli vizsgát vagy a 27. § (5) bekezdése szerinti képesség-, készségfelmérést szervez, a vizsga vagy a felmérés követelményeit, időpontját és helyét,
 
 f) ha az adott középfokú iskola nem készít fel érettségi vizsgára, az arra vonatkozó tájékoztatást,
 
-g)[^107] ha a többcélú köznevelési intézmény az általános iskola feladatai mellett a középfokú iskolai feladatok közül legalább egyet ellát, annak szabályait, hogy az iskola tanulója milyen, a pedagógiai programban meghatározott feltételekkel léphet a középfokú iskolai évfolyamokra.
+g)[^123] ha a többcélú köznevelési intézmény az általános iskola feladatai mellett a középfokú iskolai feladatok közül legalább egyet ellát, annak szabályait, hogy az iskola tanulója milyen, a pedagógiai programban meghatározott feltételekkel léphet a középfokú iskolai évfolyamokra.
 
-[^103]: A 32. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 9. pontja szerint módosított szöveg.
-[^104]: A 32. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 10. pontja szerint módosított szöveg.
-[^105]: A 32. § (4) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 10. pontja szerint módosított szöveg.
-[^106]: A 32. § (4) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^107]: A 32. § (4) bekezdés g) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 11. pontja szerint módosított szöveg.
+[^119]: A 32. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 9. pontja szerint módosított szöveg.
+[^120]: A 32. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 10. pontja szerint módosított szöveg.
+[^121]: A 32. § (4) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 10. pontja szerint módosított szöveg.
+[^122]: A 32. § (4) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^123]: A 32. § (4) bekezdés g) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 11. pontja szerint módosított szöveg.

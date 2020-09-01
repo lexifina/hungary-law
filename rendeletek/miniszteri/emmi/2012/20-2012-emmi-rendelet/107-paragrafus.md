@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 107. § Az alapfokú művészeti iskolák által használt további és speciális nyomtatvány
 
 a) a bizonyítvány (az alapfokú művészeti iskola művészeti ágai – zeneművészet, táncművészet, képző- és iparművészet, szín- és bábművészet – szerint),

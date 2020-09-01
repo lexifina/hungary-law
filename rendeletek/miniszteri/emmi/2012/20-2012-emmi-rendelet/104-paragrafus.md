@@ -1,5 +1,3 @@
-## tartalmazza.
-
 104. § (1) A tanulmányok alatti vizsgákról tanulónként és vizsgánként jegyzőkönyvet kell kiállítani.
 
 (2) A jegyzőkönyvön fel kell tüntetni a vizsgát lebonyolító intézmény nevét, OM azonosítóját és címét.
@@ -19,3 +17,5 @@ bc) a végleges osztályzatot,
 c) a jegyzőkönyv kiállításának helyét és idejét,
 
 d) az elnök, a jegyző és a vizsgabizottság tagjainak nevét és aláírását
+
+tartalmazza.

@@ -1,5 +1,3 @@
-## tartalmazza.
-
 103. § (1) Az egyéb foglalkozásokról, így különösen a fakultációs foglalkozásról, a szakkörről, a sportkörről és a napköziről a pedagógus egyéb foglalkozási naplót vezet.
 
 (2) Az egyéb foglalkozási naplóban fel kell tüntetni a kiállító iskola nevét, címét, OM azonosítóját, a napló megnyitásának és lezárásának időpontját, a kiállító pedagógus és az igazgató aláírását, papíralapú nyomtatvány esetén az iskola körbélyegzőjének lenyomatát is.
@@ -17,3 +15,5 @@ d) a tanuló anyjának születéskori nevét és elérhetőségét, apja vagy t�
 e) a megtartott foglalkozások sorszámát és időpontját, a foglalkozás témáját,
 
 f) a foglalkozást tartó pedagógus aláírását
+
+tartalmazza.

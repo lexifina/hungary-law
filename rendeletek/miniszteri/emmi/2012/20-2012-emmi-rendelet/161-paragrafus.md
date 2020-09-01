@@ -2,18 +2,27 @@
 
 ## A NEVELÉSI-OKTATÁSI INTÉZMÉNYEK KÖTELEZŐ FELSZERELÉSÉRE VONATKOZÓ SZABÁLYOK
 
-## 63. Az eszköz- és felszerelési jegyzék
+## 63. [^419] A helyiség- és eszköz-, valamint felszerelési jegyzék
 
-161. § (1) A 2. melléklet határozza meg azokat a kötelező (minimális) eszközöket és felszereléseket, továbbá helyiségeket, amelyekkel a nevelési-oktatási intézményeknek rendelkezniük kell [a továbbiakban: kötelező (minimális) eszköz- és felszerelési jegyzék].
+161. § (1) A gyermekek, tanulók részére kialakított helyiségek akkor megfelelőek, ha – rendeltetésüktől függően – alapterületük lehetővé teszi legalább egy óvodai csoport, iskolai osztály, kollégiumi csoport valamennyi tagjának egyidejű befogadását és egészséges, biztonságos körülmények közötti foglalkoztatását, tanítását, pihenését, öltözését, tisztálkodását, étkezését, továbbá megfelel az építésügyi jogszabályokban előírt követelményeknek, a közegészségügyi előírásoknak, a tűzvédelmi, egészségvédelmi, valamint munkavédelmi követelményeknek.
 
-(2) A kötelező (minimális) eszköz- és felszerelési jegyzékben foglaltak a nevelési-oktatási intézmény részére fenntartóra tekintet nélkül kötelezőek, ha az intézmény működésének megkezdéséhez szükséges engedélyt a rendelet hatálybalépése után adják ki, vagy ha az állami, önkormányzati fenntartású nevelési-oktatási intézmény a rendelet hatálybalépése után kezdi meg a tevékenységét.
+(2) A kötelező (minimális) helyiségeket és az egészség- és munkavédelmi eszközöket [a továbbiakban: kötelező (minimális) helyiség- és eszközjegyzék] a 2. melléklet tartalmazza.
 
-(3)[^360] A kötelező (minimális) eszköz- és felszerelési jegyzékben meghatározott eszközöket és felszereléseket az alapító okiratban, szakmai alapdokumentumban meghatározott tevékenységhez kell biztosítani. Az egyházi és magánintézmény esetén a kötelező eszközök és felszerelések meglétének vizsgálatához a működés megkezdéséhez szükséges engedélyben meghatározottakat is figyelembe kell venni.
+(3) Azokat a kötelező eszközöket és felszereléseket, amelyekkel a nevelési-oktatási intézményeknek az alapító okiratban, szakmai alapdokumentumban meghatározott tevékenységhez, továbbá egyházi és magánintézmény esetén a működés megkezdéséhez szükséges engedélyben meghatározottak alapján rendelkezniük kell, így különösen
 
-(4) Ha az óvoda, kollégium fokozatosan kezdi meg tevékenységét, az eszközöket és felszereléseket a ténylegesen ellátott feladatokhoz kell fokozatosan megteremteni. Ha az iskola nem valamennyi évfolyamon kezdi meg tevékenységét, az eszközöket és felszereléseket felmenő rendszerben lehet beszerezni oly módon, hogy – a nevelő és oktató munka megkezdésekor, ezt követően felmenő rendszerben – az adott évfolyam mellett legalább a következő évfolyam indításához szükséges eszközök és felszerelések rendelkezésre álljanak. Új iskola, kollégium indítása esetén az induló könyvtári állományba tartozó dokumentumok száma nem lehet kevesebb az előírt állomány ötven százalékánál. A teljes könyvtári dokumentumállományt három év alatt kell elérni.
+a) az óvodai helyiségek bútorzatát és egyéb berendezési tárgyait, a tisztálkodási és egyéb felszereléseket, a foglalkoztatottak munkavégzéséhez szükséges eszközöket, a nevelőmunkát segítő játékokat és egyéb eszközöket, valamint a sajátos nevelési igényű gyermekek nevelésének további speciális eszközeit;
 
-(5) Az Országos Képzési Jegyzékben meghatározott szakképesítésre történő felkészítés szakmai tantárgyai oktatásához szükséges feltételeket a szakképzésre vonatkozó jogszabályok határozzák meg.
+b) az iskolai helyiségek bútorzatát és egyéb berendezési tárgyait, a nevelőmunkát segítő eszközöket, valamint a sajátos nevelési igényű gyermekek, tanulók nevelésének, oktatásának további eszközeit;
 
-(6) A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimumát a szakképesítések szakmai és vizsgakövetelményének eszköz- és felszerelési jegyzéke tartalmazza.
+c) a kollégiumi helyiségek bútorzatát és egyéb berendezési tárgyait, valamint a nevelő- és oktatómunkát segítő eszközöket
 
-[^360]: A 161. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 28. pontja szerint módosított szöveg.
+az oktatásért felelős miniszter által meghatározott kötelező (minimális) felszerelési jegyzék tartalmazza, amelyet az oktatásért felelős miniszter az általa vezetett minisztérium honlapján tesz közzé azzal, hogy biztosítja a módosítások visszakereshetőségét. A kötelező (minimális) felszerelési jegyzék módosítása, továbbá új felszerelés bevezetése esetén, a honlapon történő közzététel és a követelmény hatálybalépése között legalább 30 nap felkészülési időt kell biztosítani.
+
+(4) Ha az óvoda, kollégium fokozatosan kezdi meg tevékenységét, az eszközöket és felszereléseket a ténylegesen ellátott feladatokhoz kell fokozatosan megteremteni. Ha az iskola nem valamennyi évfolyamon kezdi meg tevékenységét, az eszközöket és felszereléseket felmenő rendszerben lehet beszerezni oly módon, hogy – a nevelő és oktató munka megkezdésekor, ezt követően felmenő rendszerben – az adott évfolyam mellett legalább a következő évfolyam indításához szükséges eszközök és felszerelések rendelkezésre álljanak.
+
+(5)[^420]
+
+(6) A szakképzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimumát a szakképesítések szakmai és vizsgakövetelményének eszköz- és felszerelési jegyzéke tartalmazza.
+
+[^419]: A 63. alcím (A 161–162. §) a 20/2019. (VIII. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^420]: A 161. § (5) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 31. pontja hatályon kívül helyezte.

@@ -8,7 +8,7 @@ c) az intézményellenőrzés.
 
 (2) A pedagógus ellenőrzése általános pedagógiai szempontok szerint történik, célja az ellenőrzött pedagógus pedagógiai kompetenciáinak fejlesztése, módszere – ha a pedagógus munkakörének részét képezi – a foglalkozások, tanítási órák egységes szempontok szerinti megfigyelése, a pedagógus mindennapi nevelő-oktató munkáját megalapozó pedagógiai tervezés dokumentumainak vizsgálata, interjú felvétele, valamint az intézményi önértékelés pedagógusra vonatkozó eredményeinek elemzése.
 
-(2a)[^326] A pedagógus ellenőrzésére a minősítő vizsgán vagy a minősítési eljárásban való részvételét követő három évig nem kerül sor.
+(2a)[^379] A pedagógus ellenőrzésére a minősítő vizsgán vagy a minősítési eljárásban való részvételét követő három évig nem kerül sor.
 
 (3) A pedagógus ellenőrzése a pedagógus munkájának alábbi területeit vizsgálja:
 
@@ -30,7 +30,7 @@ h) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért
 
 (4) A pedagógiai szakszolgálati intézményben a szakértői bizottság és korai fejlesztés területen foglalkoztatottak vonatkozásában az értékelési elemek, kompetenciák a (3) bekezdés e) pontja kivételével kerülnek figyelembe vételre.
 
-(5) Az intézményvezető ellenőrzése a köznevelési intézmény és annak tagintézménye vezetőjére, valamint a többcélú intézmény szervezeti és szakmai tekintetben önálló, köznevelési intézmény feladatát ellátó intézményegységének vezetőjére (a továbbiakban együtt: intézményvezető) terjed ki. Az ellenőrzés célja az intézményvezető pedagógiai és vezetői készségeinek fejlesztése az intézményvezető munkájának általános pedagógiai és vezetéselméleti szempontok, valamint az intézményvezető saját céljaihoz képest elért eredményei alapján. Módszere az interjúkészítés és a dokumentumelemzés, valamint az Nkt. 69. § (4) bekezdése által előírt és egyéb, az intézmény feladatellátásával összefüggő kérdőíves felmérések és az intézményi önértékelés intézményvezetőre vonatkozó dokumentumainak elemzése.
+(5)[^380] Az intézményvezető ellenőrzése a köznevelési intézmény és annak tagintézménye vezetőjére, valamint a többcélú köznevelési intézmény szervezeti és szakmai tekintetben önálló, köznevelési intézmény feladatát ellátó intézményegységének vezetőjére (a továbbiakban együtt: intézményvezető) terjed ki. Az ellenőrzés célja az intézményvezető pedagógiai és vezetői készségeinek fejlesztése az intézményvezető munkájának általános pedagógiai és vezetéselméleti szempontok, valamint az intézményvezető saját céljaihoz képest elért eredményei alapján. Módszere az interjúkészítés és a dokumentumelemzés, valamint az Nkt. 69. § (4) bekezdése által előírt és egyéb, az intézmény feladatellátásával összefüggő kérdőíves felmérések és az intézményi önértékelés intézményvezetőre vonatkozó dokumentumainak elemzése.
 
 (6) Az intézményvezető ellenőrzésére legkorábban az intézményvezetői megbízás második, legkésőbb negyedik évében kerülhet sor.
 
@@ -64,6 +64,8 @@ e) az intézmény külső kapcsolatai,
 
 f) a pedagógiai működés feltételei, valamint
 
-g) az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvet megállapító jogszabályban meghatározott országos szakmai elvárásoknak és az intézményi céloknak való megfelelés.
+g)[^381] az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvben meghatározott országos szakmai elvárásoknak és az intézményi céloknak való megfelelés.
 
-[^326]: A 146. § (2a) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 18. §-a iktatta be.
+[^379]: A 146. § (2a) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 18. §-a iktatta be.
+[^380]: A 146. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 9. pontja szerint módosított szöveg.
+[^381]: A 146. § (10) bekezdés g) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 17. pontja szerint módosított szöveg.

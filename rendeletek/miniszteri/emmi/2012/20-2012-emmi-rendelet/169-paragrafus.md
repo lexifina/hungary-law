@@ -1,4 +1,4 @@
-169. § (1)[^368] A nevelési-oktatási intézmény kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
+169. § (1)[^428] A nevelési-oktatási intézmény kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
 
 (2) A nyolc napon túl gyógyuló sérüléssel járó tanuló- és gyermekbaleseteket haladéktalanul ki kell vizsgálni. Ennek során fel kell tárni a kiváltó és a közreható személyi, tárgyi és szervezési okokat. Ezeket a baleseteket az oktatásért felelős miniszter által vezetett, a minisztérium üzemeltetésében lévő elektronikus jegyzőkönyvvezető rendszer segítségével kell nyilvántartani, vagy ha erre rendkívüli esemény miatt átmenetileg nincs lehetőség, jegyzőkönyvet kell felvenni. A jegyzőkönyvek egy-egy példányát – az elektronikus úton kitöltött jegyzőkönyvek kivételével – a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap nyolcadik napjáig meg kell küldeni a fenntartónak. Az elektronikus úton kitöltött jegyzőkönyv kinyomtatott példányát, a papíralapú jegyzőkönyv egy példányát át kell adni a tanulónak, kiskorú gyermek, tanuló esetén a szülőnek. A jegyzőkönyv egy példányát a kiállító nevelési-oktatási intézményében meg kell őrizni.
 
@@ -18,18 +18,18 @@ d) a gyermek, tanuló súlyos csonkulását (hüvelykujj vagy kéz, láb két va
 
 e) a beszélőképesség elvesztését vagy feltűnő eltorzulását, a tanuló bénulását, vagy agyi károsodását
 
-## okozza.
+okozza.
 
 (6) Amennyiben a baleset a pedagógiai szakszolgálat által tartott foglalkozás alatt következik be, a jelentési kötelezettség a foglalkozást tartó intézmény kötelessége.
 
-(7)[^369]
+(7)[^429]
 
-(8)[^370]
+(8)[^430]
 
 (9) A nevelési-oktatási intézménynek lehetővé kell tenni az óvodaszék, az iskolaszék, a kollégiumi szék, ezek hiányában a szülői szervezet, közösség és az iskolai diákönkormányzat képviselője részvételét a tanuló- és gyermekbaleset kivizsgálásában.
 
 (10) Minden tanuló- és gyermekbalesetet követően meg kell tenni a szükséges intézkedést a hasonló esetek megelőzésére.
 
-[^368]: A 169. § (1) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 13. §-ával megállapított szöveg.
-[^369]: A 169. § (7) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.
-[^370]: A 169. § (8) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.
+[^428]: A 169. § (1) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^429]: A 169. § (7) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.
+[^430]: A 169. § (8) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.

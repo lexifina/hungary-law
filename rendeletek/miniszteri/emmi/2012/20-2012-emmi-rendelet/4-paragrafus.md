@@ -34,7 +34,7 @@ o) annak meghatározását, hogy hol, milyen időpontban lehet tájékoztatást 
 
 p) azokat az ügyeket, amelyekben a szülői szervezetet, közösséget az SZMSZ véleményezési joggal ruházza fel,
 
-q)[^15] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
+q)[^16] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
 
 r) az elektronikus úton előállított papíralapú nyomtatványok hitelesítésének rendjét,
 
@@ -54,13 +54,13 @@ c) a diákönkormányzat, a diákképviselők, valamint az iskolai vezetők köz
 
 d) az iskolai sportkör, valamint az iskola vezetése közötti kapcsolattartás formáit és rendjét,
 
-e) szakképző iskola esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
+e)[^17] szakiskola és szakgimnázium esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
 
 f) a gyermekek, tanulók egészségét veszélyeztető helyzetek kezelésére irányuló eljárásrendet,
 
 g) az alapfokú művészeti iskola kivételével az iskolai, kollégiumi könyvtár SZMSZ-ét
 
-## tartalmazza.
+tartalmazza.
 
 (3) Az egységes gyógypedagógiai módszertani intézmény SZMSZ-e az (1) bekezdésben foglaltakon kívül tartalmazza az intézmény által szakmailag támogatott nevelési-oktatási intézmények mindegyikére vonatkozóan a sajátos nevelési igényű gyermekek, tanulók többi gyermekkel, tanulóval együtt történő nevelésének, oktatásának segítését szolgáló tevékenységek tartalmát, szervezeti formáját, időkeretét.
 
@@ -68,7 +68,8 @@ g) az alapfokú művészeti iskola kivételével az iskolai, kollégiumi könyvt
 
 (5) Ha iskolaszék, óvodaszék, kollégiumi szék nem működik, az SZMSZ elfogadásakor az óvodai, iskolai, kollégiumi szülői szervezet, közösség véleményét kell beszerezni.
 
-(6)[^16] A közös igazgatású köznevelési intézmény a szakképzési centrum és az általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
+(6)[^18] A közös igazgatású köznevelési intézmény és az általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
 
-[^15]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^16]: A 4. § (6) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 3. pontja szerint módosított szöveg.
+[^16]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^17]: A 4. § (2) bekezdés e) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 1. pontja szerint módosított szöveg.
+[^18]: A 4. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 2. pontja szerint módosított szöveg.

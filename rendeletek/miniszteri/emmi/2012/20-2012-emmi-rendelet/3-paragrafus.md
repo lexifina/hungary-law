@@ -1,5 +1,3 @@
-## az elnevezése.
-
 ## II. Fejezet
 
 ## A NEVELÉSI-OKTATÁSI INTÉZMÉNYEK MŰKÖDÉSÉT MEGHATÁROZÓ DOKUMENTUMOK TARTALMÁRA, ELKÉSZÍTÉSÉRE, ALKALMAZÁSÁRA VONATKOZÓ SZABÁLYOK
@@ -34,6 +32,8 @@ k)[^12] az általános iskolák 1–8. évfolyamán, a tanítási év során ter
 
 (2a)[^13] Az iskola munkatervében kell meghatározni azoknak a tanulmányi versenyeknek az időpontját, amelyekben az iskola a tanulóival részt kíván venni. Ha a tanulmányi versenyt a munkaterv elfogadásakor még nem hirdették meg, az iskola a felkészítést a munkatervben való feltüntetés nélkül is elvégezheti. Ha a versenyek anyagi ráfordítást igényelnek, ahhoz a fenntartó egyetértése szükséges.
 
+(2b)[^14] Az iskolai nevelés-oktatás mellett a jogszabályban meghatározott vagy a pedagógiai-szakmai szolgáltatás keretében a hivatal által szervezett tanulmányi versenyek a kerettantervek végrehajtását szolgálják. A versenyek tartalmi követelményeinek alapja az adott évfolyamokra vonatkozó kerettantervi tartalom.
+
 (3) Az iskolai tanítás nélküli munkanapok időpontjáról az iskola a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégiumot, a gyakorlati képzés folytatóját és szervezőjét, valamint a vele kapcsolatban álló alapfokú művészeti iskolát tájékoztatja. A kollégiumban az iskolai tanítás nélküli munkanapokkal összhangban az adott iskolával tanulói jogviszonyban álló tanulók vonatkozásában kollégiumi foglalkozás nélküli munkanap tartható.
 
 (4) Az iskola és a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégium kölcsönösen tájékoztatja egymást a tanév elfogadott helyi rendjéről. Ha az iskolában rendkívüli tanítási napot tartanak, ennek időpontjáról az érdekelt kollégiumot, a gyakorlati képzés folytatóit és szervezőit lehetőség szerint legalább hét nappal korábban írásban tájékoztatni kell.
@@ -44,10 +44,11 @@ k)[^12] az általános iskolák 1–8. évfolyamán, a tanítási év során ter
 
 (7) Az óvodában a napirendet úgy kell kialakítani, hogy a szülők – a házirendben meghatározottak szerint – gyermeküket az óvodai tevékenység zavarása nélkül behozhassák és hazavihessék. Az óvoda nyári zárva tartásáról legkésőbb február tizenötödikéig, a nevelés nélküli munkanapokról legalább hét nappal a zárva tartást megelőzően a szülőket tájékoztatni kell.
 
-(8)[^14]
+(8)[^15]
 
 [^10]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
 [^11]: A 3. § (2) bekezdés j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
 [^12]: A 3. § (2) bekezdés k) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
 [^13]: A 3. § (2a) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 4. § (2) bekezdése iktatta be.
-[^14]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.
+[^14]: A 3. § (2b) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 2. §-a iktatta be.
+[^15]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.

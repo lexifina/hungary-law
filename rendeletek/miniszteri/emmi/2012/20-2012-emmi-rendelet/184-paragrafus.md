@@ -18,7 +18,7 @@ eb) megyei, és ha szerveznek, akkor területi válogató,
 
 ec) országos döntő
 
-## lehet,
+lehet,
 
 f) a megyei, és – ha szerveznek – területi válogatókról történő továbbjutás feltételeit, a továbbjutott versenyzők értesítésének módját, határidejét,
 
@@ -36,6 +36,6 @@ l) a verseny díjait,
 
 m) a versenyrendező nevét, címét, elérhetőségét
 
-## tartalmazza.
+tartalmazza.
 
 (2) A verseny lebonyolítását érintő rendkívüli események bekövetkezéséről jegyzőkönyvet kell készíteni.

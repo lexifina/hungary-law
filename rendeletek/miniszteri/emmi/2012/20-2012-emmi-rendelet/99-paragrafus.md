@@ -1,5 +1,3 @@
-## 98. § A szakmai vizsgáról kiállított bizonyítvány és törzslap tartalmát és kiállításának módját a szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló jogszabály határozza meg.
-
 99. § (1) A törzslap két részből áll, a tanulókról külön-külön kiállított egyéni törzslapokból és az egyéni törzslapok összefűzését szolgáló borítóból (törzslap külív). Az iskola a tanulókról – a tanévkezdést követő harminc napon belül – egyéni törzslapot állít ki.
 
 (2) Ha az iskolai nevelés és oktatás nyelve a nemzetiség nyelve, a törzslapot magyar nyelven és az oktatás nyelvén is vezetni kell. Ha a két szöveg között eltérés van, és nem állapítható meg, hogy melyik a helyes szöveg, a magyar nyelvi bejegyzést kell hitelesként elfogadni.
@@ -12,7 +10,7 @@ b) a tanuló nevét, állampolgárságát, nem magyar állampolgár esetén a ta
 
 c) a tanuló osztálynaplóban szereplő sorszámát,
 
-d)[^228] a tanévet és a tanuló által elvégzett évfolyamot,
+d)[^258] a tanévet és a tanuló által elvégzett évfolyamot,
 
 e) a tanuló magatartásának és szorgalmának értékelését,
 
@@ -46,4 +44,4 @@ d) a törzslap külívének lezárásakor hatályos osztálynévsort (a tanuló 
 
 (8) A megsemmisült vagy elveszett törzslap helyett – a rendelkezésre álló iratok, adatok alapján – póttörzslapot kell kiállítani.
 
-[^228]: A 99. § (3) bekezdés d) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § f) pontja szerint módosított szöveg.
+[^258]: A 99. § (3) bekezdés d) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § f) pontja szerint módosított szöveg.

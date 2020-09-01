@@ -19,3 +19,5 @@ f) a megtartott foglalkozások sorszámát,időpontját és a foglalkozás tém�
 g) a tanulók nevét és osztályát, valamint igazolt és igazolatlan hiányzásait,
 
 h) a tanulók értékelését, a haladásukkal kapcsolatos bejegyzéseket
+
+tartalmazza.

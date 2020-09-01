@@ -4,13 +4,7 @@
 
 (2) Az (1) bekezdéstől eltérően
 
-a)[^4] a kilencedik évfolyamot megelőző Köznevelési és Szakképzési Hídprogram keretében szervezett évfolyamnak
-
-aa) KH,
-
-ab) SZH/1,
-
-ac) SZH/2,
+a)[^4]
 
 b) a nyelvi előkészítő évfolyammal szervezett nevelés-oktatás évfolyamának nyolc évfolyamos gimnázium esetében 5/Ny, hat évfolyamos gimnázium esetében 7/Ny, egyéb esetben 9/Ny,
 
@@ -24,13 +18,15 @@ f)[^6] az Arany János Kollégiumi Program előkészítő évfolyamának 9/AJKP,
 
 g)[^7] az enyhén értelmi fogyatékos tanulók nevelő-oktató munkáját ellátó szakiskolák kötelező előkészítő évfolyamának 9/E,
 
-h)[^8] a kizárólag szakmai elméleti és gyakorlati oktatást folytató szakközépiskolai – közismereti kerettantervben foglalt követelmények vagy a középiskola tizedik évfolyamának teljesítését követő – szakképzési évfolyamoknak Ksz/11, Ksz/12,
+h)[^8] a kizárólag érettségit követő szakmai nevelést-oktatást folytató szakgimnáziumi – kerettantervben foglalt követelmények szerinti – 13–14. évfolyamnak Ksz/13, Ksz/14
 
 i)[^9]
 
-[^4]: A 2. § (2) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 1. §-ával megállapított szöveg.
+az elnevezése.
+
+[^4]: A 2. § (2) bekezdés a) pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^5]: A 2. § (2) bekezdés e) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2) bekezdés f) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés g) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 20/2016. (VIII. 24.) EMMI rendelet 28. § 2. pontja szerint módosított szöveg.
-[^8]: A 2. § (2) bekezdés h) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 20/2016. (VIII. 24.) EMMI rendelet 27. § 2. pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés h) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 31/2020. (VIII. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^9]: A 2. § (2) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 20/2016. (VIII. 24.) EMMI rendelet 28. § 1. pontja.

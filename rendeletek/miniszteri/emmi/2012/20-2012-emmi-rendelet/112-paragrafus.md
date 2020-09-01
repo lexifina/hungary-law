@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 31. A tanügyi nyilvántartások vezetése
 
 112. § (1) A pedagógus csak a nevelő-oktató munkával összefüggő feladatokhoz nélkülözhetetlen ügyviteli tevékenységet köteles elvégezni.
