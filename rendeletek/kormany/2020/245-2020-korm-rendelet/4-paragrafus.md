@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A PKR. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 8. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+## „(2) Ha a piacfelügyeleti ellenőrzés során bírság kiszabására okot adó körülmény megállapítására kerül sor, az ellenőrzött vállalkozás köteles megfizetni a közreműködő műszaki szolgálatnak az ellenőrzésével összefüggő költségeit.”

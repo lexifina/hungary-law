@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 8. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+## „(5) A pályázatot a közlekedési hatóság a 167/2013/EU európai parlamenti és tanácsi rendeletben, a 168/2013/EU európai parlamenti és tanácsi rendeletben, az (EU) 2018/858 európai parlamenti és tanácsi rendeletben, vagy az (EU) 2016/1628 európai parlamenti és tanácsi rendeletben meghatározottak szerint írja ki, határozza meg a szükséges feltételeket, és bírálja el az alkalmasságot.”

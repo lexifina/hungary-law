@@ -1,9 +1,16 @@
-## 5. §[^5]
+## „(9) Közlekedési hatóságként Budapest Főváros Kormányhivatala jár el
 
-6. § (1)[^6]
+## a) a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendeletben,
 
-(2)[^7]
+## b) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendeletben, valamint
 
-[^5]: Az 5. § a 8. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^6]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 6. § (2) bekezdése a 8. § (2) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+## c) a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendeletben
+
+## meghatározott éves piacfelügyeleti ellenőrzési terv összeállítása, a Bizottság, továbbá a Bizottság által létrehozott, végrehajtással kapcsolatos információcseréért felelős fórum részére a piacfelügyeleti tevékenységgel kapcsolatos tájékoztatási kötelezettség teljesítése, valamint az Európai Unió más tagállamának piacfelügyeleti hatóságával történő információcsere lebonyolítása során.”
+
+6. § (1)[^1]
+
+(2)[^2]
+
+[^1]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. § (2) bekezdése a 402/2020. (VIII. 17.) Korm. rendelet 12. §-a alapján nem lép hatályba.
