@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-416-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-08-31 | 2020-416-20-22.1 | 416/2020. (VIII. 30.) Korm. rendelet |
+| 2020-09-01 | 2020-416-20-22.2 | 2010: CXXX. törvény |
