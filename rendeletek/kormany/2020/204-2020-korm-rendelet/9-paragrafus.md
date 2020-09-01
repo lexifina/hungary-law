@@ -1,0 +1,7 @@
+9. § (1) Ha a fenntartó vonatkozásában a tárgyév május 31-éig az általa fenntartott intézmény átszervezésével, fenntartói jogának átadásával, megszüntetésével összefüggő vagy az AJP rendelet szerint a programból való, felmenő rendszerben történő kikerülésről szóló döntés született, az e rendeletben foglaltakat a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A fenntartó az általa fenntartott intézmény jogutód nélküli megszüntetése esetében a megszűnés napjáig jogosult a támogatásra. A fenntartó a támogatás felhasználásáról a forrást biztosító fejezetet irányító miniszter felé számol el és intézkedik a támogatás az érintett intézmény jogutód nélküli megszűnése napjáig fel nem használt része visszafizetéséről a forrást biztosító fejezet számára legkésőbb az érintett intézmény megszűnését követő 30. napig.
+
+(3) Az intézmény jogutódlással történő átadása, átszervezése vagy fenntartói jogának átadása esetén a jogelőd fenntartó a költségvetési támogatás felhasználására a fenntartói jog átadásának napjáig jogosult. A jogelőd fenntartó a támogatás felhasználásáról a forrást biztosító fejezetet irányító miniszter felé számol el, és intézkedik a támogatás napjáig fel nem használt része visszafizetéséről a forrást biztosító fejezet számára legkésőbb a fenntartói jog átadását követő 30. napig.
+
+(4) A fenntartó az általa fenntartott intézmény programból történő felmenő rendszerű kikerülése esetében új belépő évfolyamok vonatkozásában nem nyújthat be támogatási kérelmet.
