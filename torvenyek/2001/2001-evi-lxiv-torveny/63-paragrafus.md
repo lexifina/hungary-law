@@ -1,4 +1,4 @@
-63. § (1) A védett műemléki értéken végzett építési tevékenységek esetén az építésügyi és építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
+63. § (1) A műemléken végzett építési tevékenységek esetén az építésügyi és építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
 (2)
 

@@ -10,4 +10,4 @@ b) irányítja a kulturális örökség védelmével összefüggő feladatokat e
 
 (4) A kulturális örökség védett elemeinek megóvását a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
 
-(5) Valamennyi védett műemléki értékkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásban a (3) bekezdés szerinti örökségvédelmi tanácsadó testület jogszabályban foglaltak szerinti igénybevétele és támogató véleménye esetén a hatóság a határozatát a kérelem beérkezésétől számított nyolc napon belül hozza meg.
+(5) Műemlékkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásban – törvény vagy kormányrendelet szerinti igénybevétel esetén – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság érdemben vizsgálja az eljárása, döntése meghozatala során. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.

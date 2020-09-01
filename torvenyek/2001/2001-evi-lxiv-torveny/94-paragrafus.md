@@ -5,3 +5,5 @@
 (2) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv rendelkezéseinek történő megfelelést szolgáló rendelkezéseket állapít meg.
 
 (3) A 19. § (4) bekezdése, 20. § (4) bekezdése, 23/G. §-a tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(4) Ez a törvény a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendelet 11. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.

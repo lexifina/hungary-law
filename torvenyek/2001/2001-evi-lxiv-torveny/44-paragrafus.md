@@ -10,7 +10,7 @@ c) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez 
 
 d) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
 
-(2) Az (1) bekezdés szerinti előzetes jóváhagyás a jogügylet érvényességi kelléke.
+(2) Az (1) bekezdés szerinti jóváhagyás a jogügylet érvényességi kelléke.
 
 (3) A miniszter jóváhagyását megtagadhatja, ha az (1) bekezdésben meghatározott jogügylet a védettséget megalapozó értéket veszélyezteti, vagy az a védett érték egységes tulajdonosi szerkezetének kialakítását, egységes hasznosítását nem szolgálja.
 

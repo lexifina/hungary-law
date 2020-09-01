@@ -10,11 +10,21 @@ c) a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt �
 
 d) a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti,
 
-e) régészeti feltárást feltárási jogosultság vagy műemléki területen szakértői tevékenységet szakértői jogosultság nélkül végez,
+e) régészeti feltárást feltárási jogosultság vagy műemléki területen szakértői tevékenységet szakértői jogosultság nélkül végez, vagy szakértői jogosultsággal rendelkező személy – a kirendelt igazságügyi szakértő szakvéleménye szerint – szakszerűtlen, illetve szándékosan vagy súlyos gondatlanságból valótlan tartalmú szakvéleményt, dokumentációt készít,
 
-f) nyilvántartott régészeti lelőhelyen a hatóság engedélye vagy nyilatkozata nélkül beruházást valósít meg.
+f) nyilvántartott régészeti lelőhelyen a hatóság engedélye vagy nyilatkozata nélkül beruházást valósít meg,
 
-(2) Bírsággal sújtható az, aki a jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
+g) kulturális javakon az e törvényben vagy más jogszabályban tiltott tevékenységet végez,
+
+h) az e törvényben vagy más jogszabályban engedélyhez kötött tevékenységet a kulturális javakon engedély nélkül vagy attól eltérő módon végzi.
+
+(2) Bírsággal sújtható az, aki a jogszabály által előírt
+
+a) bejelentési kötelezettségének, vagy
+
+b) árverési hirdetményben a védettség tényéről szóló tájékoztatási kötelezettségének
+
+nem tesz eleget.
 
 (3) A bírságot a hatóság szabja ki.
 

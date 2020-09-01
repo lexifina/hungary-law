@@ -14,7 +14,9 @@ f) a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel 
 
 g) a Nemzeti Örökség Intézete (a továbbiakban: NÖRI) bevonásával, a Bizottság felügyeletét ellátó miniszterrel egyetértésben évente jelentést készít a Kormány részére és négyévente tájékoztatja az Országgyűlés illetékes bizottságát az emlékhelyek állapotáról.
 
-(2) A Bizottság ellátja a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
+(1a) A kultúráért felelős miniszter a Bizottság javaslatára rendeletben dönt egyes helyszínek nemzeti emlékponttá nyilvánításáról.
+
+(2) A Bizottság ellátja a nemzeti emlékpontokkal, a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
 
 (3) A NÖRI emlékhelyekkel összefüggő feladatai különösen az alábbiak:
 

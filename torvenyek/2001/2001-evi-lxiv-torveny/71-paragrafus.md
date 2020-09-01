@@ -8,7 +8,7 @@ b) a régészeti feltárási engedélyek és a feltárási dokumentációk,
 
 c) a védetté nyilvánított régészeti lelőhelyek,
 
-d) a nyilvántartott műemléki értékek, a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
+d) a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
 
 e) a világörökségi és a világörökségi várományos helyszínek és területek
 

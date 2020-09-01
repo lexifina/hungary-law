@@ -11,3 +11,7 @@ valósult meg.
 (2) A történelmi emlékhelyeket egységes arculatú – magyar és angol, valamint, ha az emlékhely valamely velünk élő nemzetiséghez kapcsolódik, nemzetiségi nyelvű – ismertető táblával kell megjelölni.
 
 (3) A történelmi emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.
+
+(4) Nemzeti emlékponttá az az épített környezet vagy természeti helyszín nyilvánítható, ahol egy, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben a nemzet emlékezetére méltó esemény valósult meg.
+
+(5) A nemzeti emlékpontokat egységes arculatú – magyar és angol nyelvű – ismertető táblával kell megjelölni.

@@ -1,6 +1,6 @@
 ## A védettség megszüntetése
 
-35. § (1) A védettség megszüntetésére akkor kerülhet sor, ha a védett műemléki érték
+35. § (1) A védettség megszüntetésére akkor kerülhet sor, ha a műemlék, műemléki terület
 
 a) megsemmisült,
 
@@ -14,6 +14,6 @@ e) áthelyezése vagy telekalakítása következtében az adott telken a védett
 
 (2) A műemléki védettség megszüntetésére irányuló eljárásra a műemlékké nyilvánításra vonatkozó rendelkezéseket kell alkalmazni.
 
-(3) Nyilvántartott műemléki értéket az (1) bekezdés a), b) és e) pontja szerinti esetekben a nyilvántartásból jogszabályban meghatározott módon törölni kell.
+(3) Ha a védettség megszüntetésére az (1) bekezdés c) vagy d) pontja alapján került sor, a miniszter a védettség megszüntetését kimondó rendelet kihirdetésével egyidejűleg kezdeményezi a műemlék fekvése szerinti települési (fővárosban a fővárosi vagy a fővárosi kerületi) önkormányzatnál a korábbi műemlék helyi egyedi védelmének megállapítását.
 
-(4) Az (1) bekezdés c) és d) pontja szerinti esetekben az általános védelem értékvizsgálat elvégzését követően tartható fenn.
+(4) A települési önkormányzat köteles érdemben vizsgálni a miniszter (3) bekezdés szerinti kezdeményezését.

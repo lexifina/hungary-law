@@ -2,9 +2,9 @@
 
 31. § (1) A hatóság:
 
-a) a nyilvántartott műemléki értéket a védetté nyilvánítás előkészítésének megindításával egyidejűleg, vagy
+a) a műemléki értéket a védetté nyilvánítás előkészítésének megindításával egyidejűleg, vagy
 
-b) ha a nyilvántartott műemléki értéket megsemmisülés vagy értékeinek eltűnése fenyegeti,
+b) ha a műemléki értéket megsemmisülés vagy értékeinek eltűnése fenyegeti,
 
 soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapján legfeljebb egyéves időtartamra ideiglenes védelem alá helyezheti, és a határozatot azonnal végrehajthatóvá nyilváníthatja.
 

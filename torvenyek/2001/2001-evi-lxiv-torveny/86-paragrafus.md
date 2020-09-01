@@ -2,11 +2,11 @@
 
 86. § (1) A kulturális örökség védetté nyilvánított elemeire a Magyar Államot a 37–40. § kivételével elővásárlási jog illeti meg
 
-a) ingatlanok esetében akkor, ha ezt a védetté nyilvánító, illetőleg a védettséget módosító rendelet kimondja. Amennyiben a műemlékekre több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlant kezelő (vagy ingyenesen használó) önkormányzatot, harmadik helyen az ingatlan fekvése szerinti települési önkormányzatot illeti meg az elővásárlási jog;
+a) kiemelten védett műemlék ingatlan esetében e törvény erejénél fogva, védett műemlék ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja;
 
 b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
 
-(1a) Az államot megillető elővásárlási jog a nyilvántartott műemléki értéken nem állhat fenn.
+(1a) Ha a műemlékre több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlan vagyonkezelését ellátó (vagy azt ingyenesen használó) önkormányzatot, harmadik helyen az ingatlan fekvése szerinti települési önkormányzatot illeti meg az elővásárlási jog.
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 

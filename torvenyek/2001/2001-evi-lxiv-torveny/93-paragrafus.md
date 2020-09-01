@@ -48,7 +48,9 @@
 
 23. szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
 
-24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat.
+24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat;
+
+25. szabályozza a nevesített műemléki értékek meghatározását szolgáló értékmeghatározó szakértői vizsgálat részletes tartalmi elemeit, valamint a dokumentáció elkészítésének és kiértékelésének rendjét.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével –
 
@@ -100,7 +102,11 @@ s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az a
 
 (6) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza:
 
-a)–c)
+a) a nemzeti emlékpontként meghatározott helyszínek körét,
+
+b)
+
+c)
 
 d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
 
