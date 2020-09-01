@@ -1,3 +1,3 @@
 ## 19. §[^11]
 
-[^11]: A 19. § a 15. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^11]: A 19. § a 260/2020. (VI. 4.) Korm. rendelet 6. §-a alapján nem lép hatályba.
