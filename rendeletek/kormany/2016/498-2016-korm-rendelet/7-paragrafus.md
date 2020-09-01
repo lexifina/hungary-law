@@ -1,3 +1,0 @@
-7. § (1) A kultúráért felelős miniszter a vagyontárgy fizikai állapotának felmérése céljából – a Vhr.-ben meghatározottak szerint – helyszíni ellenőrzést tarthat. A hasznosító köteles az ellenőrzést tűrni és az ellenőrzés lefolytatása során együttműködni.
-
-(2) Az (1) bekezdés szerinti ellenőrzés eredményét (a jegyzőkönyvben foglaltakat) kötelező megismertetni a birtokba adóval. Ha az ellenőrzés során megállapításra kerül, hogy a hasznosító a szerződésben foglalt kötelezettségét megszegi, illetve nem teljesíti a hasznosítási szerződésben megjelölt valamely feltételt, a kultúráért felelős miniszter ennek tényéről haladéktalanul értesíti a birtokba adót.
