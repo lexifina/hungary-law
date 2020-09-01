@@ -8,7 +8,7 @@
 
 a) a szabadság,
 
-b) 79. § c)–g) és i) pontjaiban meghatározott esetekben,
+b) 79. § c)–g), i) és m) pontjában meghatározott esetekben,
 
 c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő
 

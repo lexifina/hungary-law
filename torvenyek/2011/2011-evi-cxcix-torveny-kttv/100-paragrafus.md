@@ -14,6 +14,6 @@ d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizeté
 
 e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartamára,
 
-f) a 79. § a), b), h) és j) pontjaiban meghatározott esetekben, valamint
+f) a 79. § a), b), h), j) és m) pontjaiban meghatározott esetekben, valamint
 
 g) minden olyan munkában nem töltött időre, amelyre a kormánytisztviselő illetményre jogosult [144. § (3) bekezdése].

@@ -22,4 +22,6 @@ j) a különös méltánylást érdemlő személyi, családi vagy elháríthatat
 
 k) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra,
 
-l) a munkáltató engedélye alapján.
+l) a munkáltató engedélye alapján,
+
+m) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.

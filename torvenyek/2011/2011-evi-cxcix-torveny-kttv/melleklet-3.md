@@ -205,11 +205,3 @@ A tartalékállományba helyezett közszolgálati tisztviselők nyilvántartás�
 ## IV.
 
 ## 1. az alkalmazó közigazgatási szerv neve és címe
-
-## 2. a tartalékállományba helyezés időpontja
-
-## 3. a tartalékállományba helyezés időtartama
-
-## 4. kompetencia-vizsgálat adatai
-
-## V.
