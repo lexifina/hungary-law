@@ -12,7 +12,7 @@ c) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizeté
 
 d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
 
-e) a 47. § (11) bekezdés a), b), h) és k) pontjában meghatározott esetek, valamint
+e) a 47. § (11) bekezdés a), b), h), k) és n) pontjában meghatározott esetek, valamint
 
 f) minden olyan munkában nem töltött idő, amelyre a köztisztviselő illetményre jogosult.
 

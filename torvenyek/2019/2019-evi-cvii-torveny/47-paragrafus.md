@@ -64,4 +64,8 @@ k) a különös méltánylást érdemlő személyi, családi vagy elháríthatat
 
 l) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra, továbbá
 
-m) a munkáltató engedélye alapján.
+m) a munkáltató engedélye alapján,
+
+n) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+
+(12) A (11) bekezdés n) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a köztisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.

@@ -8,7 +8,7 @@
 
 a) a szabadság időtartamára,
 
-b) a 47. § (11) bekezdés c)–g) és j) pontjában meghatározott esetekben,
+b) a 47. § (11) bekezdés c)–g), j) és n) pontjában meghatározott esetekben,
 
 c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
 
