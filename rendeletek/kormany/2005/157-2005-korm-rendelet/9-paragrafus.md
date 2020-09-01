@@ -2,6 +2,6 @@
 
 ## [a Tszt. 21–32. §-aihoz]
 
-9. §[^20]
+9. §[^27]
 
-[^20]: A Vhr. 9. §-át a 80/2019. (IV. 15.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^27]: A Vhr. 9. §-át a 80/2019. (IV. 15.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.

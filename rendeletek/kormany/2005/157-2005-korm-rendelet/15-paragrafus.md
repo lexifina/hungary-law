@@ -12,8 +12,10 @@ a) szolgáltatási zavarok, üzemzavarok, meghibásodások elhárítására,
 
 b) személyi és vagyonbiztonság veszélyének azonnali elhárítására,
 
-c) tervszerű korlátozások és szüneteltetések, füstköd-riadó elrendelésére, illetve energia korlátozás esetén alkalmazott kényszerű szolgáltatási korlátozások összehangolt végrehajtására,
+c)[^43] tervszerű korlátozások és szüneteltetések, füstköd-riadó elrendelésére, illetve földgázellátás korlátozása esetén alkalmazott kényszerű szolgáltatási korlátozások összehangolt végrehajtására,
 
 d) természeti katasztrófa miatti, vagy balesetből származó korlátozások, szolgáltatási szünetek megszüntetésére.
 
 (4) A távhőtermelő és a távhőszolgáltató a (3) bekezdésben foglalt kötelező együttműködés kérdéseiben szerződésben állapodik meg. Az együttműködésüket kötelesek úgy kialakítani, hogy a távhő termelésében és szolgáltatásában esetleg fellépő zavarok vagy kényszerű korlátozások a lehető legrövidebb időn belül elháríthatók, megszüntethetők legyenek.
+
+[^43]: A Vhr. 15. § (3) bekezdés c) pontja a 401/2020. (VIII. 17.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

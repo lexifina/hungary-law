@@ -1,6 +1,6 @@
-4. §[^9] (1) A távhőtermelői működési engedély iránti kérelemnek tartalmaznia kell:
+4. §[^11] (1)[^12] A távhőtermelői működési engedély iránti kérelemnek – az Ákr.-ben meghatározottakon túl – tartalmaznia kell:
 
-a) ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
+a)[^13] ha a kérelmező cégjegyzékben nyilvántartott cég, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
 
 b) a kérelmező kapcsolattartójának nevét, telefonszámát, elektronikus elérhetőségét,
 
@@ -14,7 +14,7 @@ f) a hőtermelésre vonatkozó főbb mennyiségi és gazdálkodási adatokat és
 
 g) az egyedi közszolgáltatási szerződés alapján hőt vásárolók megnevezését cégnév, cím és mennyiség megjelölésével.
 
-(2)[^10] A távhőtermelői működési engedély iránti kérelem benyújtásakor – a 8/A. § (1) bekezdésében foglaltak figyelembevételével –
+(2)[^14] A távhőtermelői működési engedély iránti kérelem benyújtásakor – a 8/A. § (1) bekezdésében foglaltak figyelembevételével –
 
 a) igazolni kell a távhőtermelés fenntarthatóságát, bemutatva az öt évre szóló üzleti tervet,
 
@@ -42,5 +42,7 @@ ge) levegőtisztaság-védelmi vagy pontforrás-üzemeltetési engedély
 
 azonosításához szükséges adatokat.
 
-[^9]: A Vhr. 4. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: A Vhr. 4. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 144. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A Vhr. 4. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A Vhr. 4. § (1) bekezdés nyitó szövegrésze a 401/2020. (VIII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^13]: A Vhr. 4. § (1) bekezdés a) pontja a 401/2020. (VIII. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^14]: A Vhr. 4. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 144. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
