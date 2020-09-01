@@ -650,7 +650,7 @@ Súlyozott tanulmányi átlag átsoroláshoz
 
 | 2 | agrár | 3,0 |
 
-| 3 | bölcsészettudomány | 3,25 |
+| 3 | bölcsészettudomány | 3,5 |
 
 | 4 | gazdaságtudományok | 3,0 |
 
@@ -662,17 +662,17 @@ Súlyozott tanulmányi átlag átsoroláshoz
 
 | 8 | műszaki | 3,0 |
 
-| 9 | művészet | 3,25 |
+| 9 | művészet | 3,5 |
 
-| 10 | művészetközvetítés | 3,25 |
+| 10 | művészetközvetítés | 3,5 |
 
 | 11 | orvos- és egészségtudomány | 3,0 |
 
-| 12 | pedagógusképzés | 3,25 |
+| 12 | pedagógusképzés | 3,5 |
 
-| 13 | sporttudomány | 3,25 |
+| 13 | sporttudomány | 3,5 |
 
-| 14 | társadalomtudomány | 3,25 |
+| 14 | társadalomtudomány | 3,5 |
 
 | 15 | természettudomány | 3,0 |
 
@@ -702,4 +702,4 @@ Súlyozott tanulmányi átlag átsoroláshoz
 [^292]: A 9. melléklet 6. pont 6.13. alpontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (5) bekezdése iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.
 [^293]: A 9. melléklet 7. pont 1. alpont 1.4. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^294]: A 9. melléklet 8. pont 1.5. alpontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^295]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, szövege ugyanezen módosító rendelet 88. § (9) bekezdésével megállapított szöveg.
+[^295]: A 10. mellékletet a 345/2015. (XI. 19.) Korm. rendelet 88. § (6) bekezdése iktatta be, szövege ugyanezen módosító rendelet 88. § (10) bekezdésével megállapított szöveg.
