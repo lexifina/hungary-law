@@ -18,17 +18,17 @@ e)[^26]
 
 f)[^27]
 
-g)[^28]
+g) 107. § (4) bekezdés m) pontja,
 
-h)[^29]
+h)[^28]
 
-i)[^30]
+i)[^29]
 
-j)[^31]
+j)[^30]
 
-k)[^32]
+k)[^31]
 
-l)[^33]
+l)[^32]
 
 [^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^21]: A 21. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -38,9 +38,8 @@ l)[^33]
 [^25]: A 21. § (2) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^26]: A 21. § (2) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^27]: A 21. § (2) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 21. § (2) bekezdés g) pontja a 23. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^29]: A 21. § (2) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 21. § (2) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 21. § (2) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 21. § (2) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 21. § (2) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 21. § (2) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 21. § (2) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 21. § (2) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 21. § (2) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 21. § (2) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
