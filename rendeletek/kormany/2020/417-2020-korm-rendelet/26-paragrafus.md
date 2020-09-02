@@ -1,4 +1,4 @@
-## 25. §[^6]
+## 25. §[^26]
 
 ## 9. A járványügyi készültségi időszak egyes oktatási intézkedéseiről
 
@@ -8,4 +8,4 @@ a) a nevelési-oktatási intézményben a nemzeti köznevelésről szóló 2011.
 
 b) a szakképző intézményben a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 111. §-a
 
-[^6]: A 25. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^26]: A 25. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.

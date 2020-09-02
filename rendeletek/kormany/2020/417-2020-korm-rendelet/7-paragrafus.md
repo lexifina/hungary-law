@@ -1,5 +1,3 @@
-## 6. § Az R1. 56. §-a helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „56. § (1) Amennyiben a jelentkező államilag elismert külföldi oktatási intézményben külföldön vagy Magyarországon működési engedéllyel rendelkező külföldi rendszerű iskolában folytatott tanulmányait igazoló bizonyítványa az adott oktatási rendszer szerint érettségi bizonyítványhoz vezető képzésben középiskolai tanulmányok befejezését igazoló okiratnak minősül, a középiskolai tanulmányaikat magyarországi középiskolában befejezett jelentkezőkkel azonos szabályok szerint tehet Magyarországon érettségi vizsgát.
-
-## (2) Amennyiben a jelentkező államilag elismert külföldi oktatási intézményben külföldön vagy Magyarországon működési engedéllyel rendelkező külföldi rendszerű iskolában folytatott tanulmányait igazoló bizonyítványa a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: elismerési törvény) 13. § (1) bekezdése szerint egyenértékű a hazai érettségi bizonyítvánnyal, vagy az elismerési törvény 13. § (3) bekezdése alapján érettségi bizonyítványként elismerhető, a magyarországi érettségi bizonyítványt szerzett jelentkezőkkel azonos szabályok szerint tehet Magyarországon érettségi vizsgát.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

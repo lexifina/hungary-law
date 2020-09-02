@@ -1,1 +1,3 @@
-## 12. § Az R2. Melléklet II. Rész II.3.2. pontjában az „oktathatók a klasszikus vagy az élő idegen nyelvek.” szövegrész helyébe az „oktathatók a klasszikus vagy az élő idegen nyelvek. Ha a gimnáziumban a felnőttoktatás munkarendjében folyik a nevelő-oktató tevékenység, a második idegen nyelv oktatása nem kötelező.” szöveg lép.
+## 12. §[^13]
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

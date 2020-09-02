@@ -1,3 +1,3 @@
-## 11. § A Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.) Korm. rendelet (a továbbiakban: R2.) 5. §-a a következő (5) bekezdéssel egészül ki:
+## 11. §[^12]
 
-## „(5) A miniszter által kiadott és közzétett kerettanterv eltérően rendelkezhet a szakgimnáziumra és a felnőttoktatásra vonatkozóan a Kormány rendeletében a tanulási területenként meghatározott alapóraszámokról, valamint a kötelező tanulásiterület- és tantárgystruktúráról.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

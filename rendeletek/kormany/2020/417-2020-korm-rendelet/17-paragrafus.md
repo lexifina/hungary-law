@@ -1,3 +1,3 @@
-## 16. §[^4]
+## 16. §[^17]
 
-[^4]: A 16. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^17]: A 16. § a 27. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
