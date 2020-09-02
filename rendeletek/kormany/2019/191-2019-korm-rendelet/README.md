@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-191-20-
 | 2020-01-01 | 2019-191-20-22.5 | 346/2019. (XII. 23.) Korm. rendelet |
 | 2020-01-02 | 2019-191-20-22.6 | 2010: CXXX. törvény |
 | 2020-09-01 | 2019-191-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-09-02 | 2019-191-20-22.8 | 2010: CXXX. törvény |
