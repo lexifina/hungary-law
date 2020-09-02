@@ -1,9 +1,3 @@
-## 30. § Hatályát veszti a Get. vhr.
+30. §[^38]
 
-a) 1. § (1) bekezdés 10. pontja,
-
-b) 43. § (4) bekezdése,
-
-c) 56. § (1) bekezdés g) pontjában a „nevelésbe vett” szövegrész,
-
-d) 159. § (1) és (2) bekezdése, valamint (4)–(8) bekezdése.
+[^38]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

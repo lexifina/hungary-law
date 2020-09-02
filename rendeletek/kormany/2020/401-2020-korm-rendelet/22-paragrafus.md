@@ -1,3 +1,3 @@
-## 21. § A Get. vhr. 30. § (4) bekezdése helyébe a következő rendelkezés lép:
+22. §[^30]
 
-## „(4) A megelőző százhúsz hónap (2) bekezdés szerinti legmagasabb téli fogyasztásait, valamint az egyetemes szolgáltató által a (2) bekezdés szerint kötelezően betárolandó földgázkészlet mértékét a Hivatal minden év március 1-jéig a honlapján közzéteszi.”
+[^30]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

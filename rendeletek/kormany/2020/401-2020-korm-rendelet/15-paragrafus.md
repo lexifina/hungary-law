@@ -1,23 +1,31 @@
 ## 15. § A Vet. vhr.
 
-a)[^1]
+a)[^15]
 
-b) 14. § (2) bekezdésében a „távlehívható fogyasztásmérő készülékkel” szövegrész helyébe a „távlehívható fogyasztásmérő-berendezéssel vagy okosmérővel” szöveg,
+b)[^16]
 
-c) 16. § (1) bekezdésében a „készülékkel” szövegrész helyébe a „készülékkel vagy okosmérővel” szöveg,
+c)[^17]
 
-d) 21/A. § (2) bekezdésében a „Távlehívható fogyasztásmérővel” szövegrész helyébe a „Távlehívható fogyasztásmérő-berendezéssel vagy okosmérővel” szöveg,
+d)[^18]
 
-e) 2. számú melléklet 10.2. pontjában a „munkavégzésről, a fogyasztásmérő berendezés ellenőrző leolvasásáról vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzés időpontjáról” szövegrész helyébe a „munkavégzésről, a fogyasztásmérő-berendezés ellenőrző leolvasása vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzésnek legfeljebb 4 órás időtartamban megjelölt, tervezett kezdő időpontjáról” szöveg,
+e)[^19]
 
-f) 2. számú melléklet 10.4. pontjában az „az elosztóval” szövegrész helyébe az „a hálózati engedélyessel” szöveg, az „az elosztó” szövegrész helyébe az „a hálózati engedélyes” szöveg,
+f)[^20]
 
-g) 4. számú melléklet 4. pontjában és a 9. számú melléklet 4. pontjában az „által” szövegrész helyébe az „által, a 18. számú melléklet szerint” szöveg,
+g)[^21]
 
-h) 17a. számú melléklet 3. pont 3.4. alpontjában a „szerződéstervezet” szövegrész helyébe a „szerződés” szöveg,
+h)[^22]
 
-i) 21. számú melléklet „A benyújtandó üzletszabályzat formátumára vonatkozó előírások” alcím 5. pontjában a „két, cégszerű aláírással ellátott példányban papír alapon is be kell nyújtani” szövegrész helyébe az „az elektronikus ügyintézés szabályai szerint kell benyújtani” szöveg
+i)[^23]
 
 lép.
 
-[^1]: A 15. § a) pontja a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^15]: A 15. § a) pontja a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 15. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 15. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 15. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 15. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 15. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 15. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 15. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 9. § A Vet. vhr. 21/A. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+10. §[^10]
 
-## „(2a) Okosmérő alkalmazása esetén a felhasználó jogosult a villamos energiának a kiegyenlítő energia elszámolási mérési időintervallumának megfelelő gyakorisággal történő mérésére és az ezen alapuló elszámolására.
-
-## (2b) A Hivatal a villamosenergia-kereskedő VET 45. § (2) bekezdése szerinti kötelezettségének teljesítését ellenőrzi.”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

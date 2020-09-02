@@ -1,5 +1,3 @@
-## 1. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet (a továbbiakban: Tszt. vhr.) „A távhőtermelői létesítési és működési, valamint a távhőszolgáltatói működési engedély [a Tszt. 12–17. §-aihoz]” alcím címe helyébe a következő cím lép:
+2. §[^2]
 
-## „A létesítésre, a működésre, valamint a megszüntetésre vonatkozó engedély
-
-## [a Tszt. 12–17. §-aihoz]”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
