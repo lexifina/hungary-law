@@ -1,10 +1,9 @@
-## 5. §[^5]
+## 5. §[^8]
 
-6. § (1)[^6]
+6. § (1)[^9]
 
-(2) Az MR. 121. §-a a következő 59. ponttal egészül ki:
+(2)[^10]
 
-(Ez a rendelet)
-
-[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
