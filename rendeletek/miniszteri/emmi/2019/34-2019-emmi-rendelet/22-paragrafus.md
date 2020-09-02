@@ -1,4 +1,4 @@
-## 21. §[^21] c
+## 21. §[^23] c
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 9. § 2020. szeptember 1-jén lép hatályba.
 
-[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
