@@ -1,4 +1,4 @@
-## 22. §[^33]
+## 22. §[^36]
 
 ## 23. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 21. § (2) bekezdés g) pontja 2020. szeptember 1-jén lép hatályba.
 
-[^33]: A 22. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 22. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
