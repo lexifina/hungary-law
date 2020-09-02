@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-345-20-
 | 2019-09-01 | 2015-345-20-22.17 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-09-02 | 2015-345-20-22.18 | 2010: CXXX. törvény |
 | 2020-09-01 | 2015-345-20-22.19 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-09-02 | 2015-345-20-22.20 | 2010: CXXX. törvény |

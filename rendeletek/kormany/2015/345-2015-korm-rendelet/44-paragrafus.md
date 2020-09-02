@@ -1,3 +1,3 @@
-## 39–43. §[^14]
+44. §[^47]
 
-[^14]: A 39–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

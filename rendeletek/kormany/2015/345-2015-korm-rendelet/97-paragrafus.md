@@ -1,5 +1,3 @@
-## 96. §[^44]
-
 ## 18. Záró rendelkezések
 
 97. § (1) Ez a rendelet – a (2)–(10) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
@@ -23,5 +21,3 @@
 (10) A 88. § (9) bekezdése, valamint a 14. melléklet 2019. szeptember 1-jén lép hatályba.
 
 (11) A 88. § (10) bekezdése, valamint a 15. melléklet 2020. szeptember 1-jén lép hatályba.
-
-[^44]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

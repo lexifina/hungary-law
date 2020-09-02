@@ -1,3 +1,3 @@
-## 59–86. §[^34]
+87. §[^98]
 
-[^34]: Az 59–86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
