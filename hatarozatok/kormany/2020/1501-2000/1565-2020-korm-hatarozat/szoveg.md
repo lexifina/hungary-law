@@ -16,10 +16,11 @@ d) a K5. Egyéb működési célú kiadások kiemelt előirányzaton 1 377 400 0
 
 4.[^3]
 
-5. Nem lép hatályba a Korm. határozat 19. pontja.
+5.[^4]
 
 6. Ez a határozat a közzététele napján 23 órakor lép hatályba.
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
