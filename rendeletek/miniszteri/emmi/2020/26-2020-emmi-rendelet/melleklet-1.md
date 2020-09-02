@@ -1,8 +1,6 @@
-## 15. § Hatályát veszti az egészségügyi szakmai kollégium működéséről szóló 12/2011. (III. 30.) NEFMI rendelet.
-
 1. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez
 
-## A szakmai tagozatok elnevezése
+A szakmai tagozatok elnevezése
 
 1. Addiktológia tagozat
 
