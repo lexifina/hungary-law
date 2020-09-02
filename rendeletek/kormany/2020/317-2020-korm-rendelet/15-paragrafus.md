@@ -1,3 +1,3 @@
-15. §[^34]
+15. §[^42]
 
-[^34]: A 15. § a 17. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^42]: A 15. § a 17. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.

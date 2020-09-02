@@ -1,31 +1,29 @@
-## 5. § Hatályát veszti a Vhr1. 39. § (3) bekezdése.
-
 ## 3. A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet módosítása
 
-6. § (1)[^7]
+6. § (1)[^12]
 
-(2)[^8]
+(2)[^13]
 
-(3)[^9]
+(3)[^14]
 
-(4)[^10]
+(4)[^15]
 
-(5)[^11]
+(5)[^16]
 
-(6)[^12]
+(6)[^17]
 
-(7)[^13]
+(7)[^18]
 
-(8)[^14]
+(8)[^19]
 
-(9)[^15]
+(9)[^20]
 
-[^7]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 6. § (4) bekezdése a 17. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
-[^11]: A 6. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 6. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 6. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 6. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 6. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 6. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 6. § (4) bekezdése a 17. § (3) bekezdése alapján 2021. március 1-jén lép hatályba.
+[^16]: A 6. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 6. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 6. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 6. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 6. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
