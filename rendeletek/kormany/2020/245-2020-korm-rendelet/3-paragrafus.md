@@ -1,1 +1,3 @@
-## „(5) A pályázatot a közlekedési hatóság a 167/2013/EU európai parlamenti és tanácsi rendeletben, a 168/2013/EU európai parlamenti és tanácsi rendeletben, az (EU) 2018/858 európai parlamenti és tanácsi rendeletben, vagy az (EU) 2016/1628 európai parlamenti és tanácsi rendeletben meghatározottak szerint írja ki, határozza meg a szükséges feltételeket, és bírálja el az alkalmasságot.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

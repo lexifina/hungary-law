@@ -1,3 +1,3 @@
-## 3. § A PKR. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(2) Ha a piacfelügyeleti ellenőrzés során bírság kiszabására okot adó körülmény megállapítására kerül sor, az ellenőrzött vállalkozás köteles megfizetni a közreműködő műszaki szolgálatnak az ellenőrzésével összefüggő költségeit.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

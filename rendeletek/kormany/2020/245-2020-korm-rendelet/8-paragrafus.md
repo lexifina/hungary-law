@@ -1,4 +1,4 @@
-## 7. §[^3]
+## 7. §[^9]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–5. § és a 6. § (2) bekezdése 2020. szeptember 1-jén lép hatályba.
 
-[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
