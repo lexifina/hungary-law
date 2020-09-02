@@ -1,0 +1,1 @@
+## 2. A Szerencsejáték Felügyeletnél foglalkoztatottak személyi illetménye, a feltételekhez kötött személyi juttatás és az intézményi feladatok megállapításáról szóló 57/2017. (XII. 29.) NFM rendelet hatályon kívül helyezése
