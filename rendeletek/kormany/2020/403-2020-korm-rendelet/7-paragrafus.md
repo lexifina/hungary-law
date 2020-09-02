@@ -1,9 +1,3 @@
-## 6. § Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet [a továbbiakban: 137/2008. (V. 16.) Korm. rendelet] 2. § (4) bekezdése a következő c) ponttal egészül ki:
+## 6. §[^6]
 
-## (A nyelvvizsga lehet:)
-
-## „c) formátuma szerint
-
-## ca) papíralapú,
-
-## cb) számítógépes, amely lebonyolítható akkreditált vizsgahely akkreditált vizsgahelyszínén vagy egyedileg nem akkreditált vizsgahelyszínen (a továbbiakban: egyedi vizsgahelyszín).”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

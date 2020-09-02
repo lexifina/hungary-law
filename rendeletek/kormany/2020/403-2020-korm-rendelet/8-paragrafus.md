@@ -1,3 +1,3 @@
-## 7. § A 137/2008. (V. 16.) Korm. rendelet 4. §-a a következő (1e) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(1e) Új vizsgalehetőséget kell biztosítani az egyedi vizsgahelyszínen vizsgázó részére, ha a vizsga során a vizsgázó és a vizsgaközpont között az informatikai kapcsolat megszakad.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

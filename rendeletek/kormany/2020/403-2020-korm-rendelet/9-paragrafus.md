@@ -1,5 +1,3 @@
-## 8. § A 137/2008. (V. 16.) Korm. rendelet 5/A. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## (Az ellenőrzést végző személy az ellenőrzés során)
-
-## „a) betekinthet a vizsgaközpont és vizsgahely szakmai működésére vonatkozó, az ellenőrzés tárgyát képező valamennyi írásos, valamint elektronikus dokumentumba és nyilvántartásba,”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
