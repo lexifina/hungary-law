@@ -1,1 +1,1 @@
-8. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 62. § (1) bekezdés b) pontjában a „felkészítő tanfolyamról” szövegrész helyébe az „az ingyenesen igénybe vehető felkészítő tanfolyamról” szöveg lép.
+8. §
