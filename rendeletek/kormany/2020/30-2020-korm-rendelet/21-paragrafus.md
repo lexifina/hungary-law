@@ -1,5 +1,5 @@
-## 20. §[^20]
+## 20. §[^21]
 
 ## 21. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet módosítása
 
-[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
