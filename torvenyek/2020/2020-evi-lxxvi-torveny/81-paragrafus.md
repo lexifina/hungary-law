@@ -1,6 +1,6 @@
 81. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
-1. 1. § 14. pont g) alpontjában az „a szakképzési centrum részére” szövegrész helyébe az „a szakképzésről szóló törvény szerinti, nem nappali rendszerben folyó ingyenes képzés finanszírozása céljából az állami szakképző intézmény, vagy szakképzési centrum részére” szöveg,
+1.
 
 2.
 
