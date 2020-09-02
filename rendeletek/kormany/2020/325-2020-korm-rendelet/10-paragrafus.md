@@ -1,7 +1,3 @@
-## lép.
+## 9. §[^10]
 
-## 10. § Hatályát veszti a Gyer.
-
-a) 39. § (2a) bekezdés b) pontja,
-
-b) 41. § (1) bekezdés c) pont cd) alpontja.
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

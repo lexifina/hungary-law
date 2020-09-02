@@ -1,5 +1,5 @@
-## 11. § Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló 72/2014. (III. 13.) Korm. rendelet 7. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) A közhasznú szervezet igazolást állít ki az örökbe fogadni szándékozó személy részére az örökbefogadható gyermekkel történő személyes találkozás szükségességéről és időpontjáról.”
+## 11. §[^12]
 
 ## 4. Záró rendelkezések
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

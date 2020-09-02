@@ -1,1 +1,3 @@
-## „(12) Ha az örökbefogadó szülő újabb gyermek örökbefogadására nyújt be kérelmet a gyermekvédelmi szakszolgálathoz, alkalmassági vizsgálata a korábbi vizsgálat során tapasztalt körülményekben bekövetkezett változásokra terjed ki. Az újabb alkalmassági vizsgálat során az örökbefogadás előtti tanácsadás ismételt elvégzésétől el kell tekinteni.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
