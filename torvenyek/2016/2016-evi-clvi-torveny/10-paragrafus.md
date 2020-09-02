@@ -20,6 +20,6 @@ f) Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b
 
 g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat,
 
-i) tárhelyszolgáltató és a szálláshely-szolgáltató közötti adatfeldolgozási jogviszony tartalmát
+i)
 
 rendeletben határozza meg.
