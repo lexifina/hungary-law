@@ -1,3 +1,3 @@
-## 8. § Az R1. 23. § (9) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## „(9) Ha a tanköteles tanuló az általános iskola utolsó évfolyamának elvégzése után a középfokú iskolai felvételi eljárásban nem vett részt, vagy nem nyert felvételt középfokú iskolába, az általános iskola igazgatója értesíti a hivatalt. A hivatal kijelöli azt a középfokú iskolát, amely a tanuló felvételét nem tagadhatja meg.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

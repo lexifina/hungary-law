@@ -1,3 +1,3 @@
-## 16. § Az R1. 177. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 16. §[^16]
 
-## „(4) A köznevelési típusú sportiskolára – a köznevelési típusú feladatellátása tekintetében – alkalmazott kerettantervi szabályozás alapján végzett oktatásba az a tanuló vehető fel, aki megfelel a sportegészségügyi alkalmassági és fizikaiképesség-felmérési vizsgálat követelményeinek.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

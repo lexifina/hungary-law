@@ -1,3 +1,3 @@
-## 6. § Az R1. a következő 17/A. §-sal egészül ki:
+## 6. §[^6]
 
-## „17/A. § A 9. melléklet a szakgimnáziumban oktatható szakképesítéseket tartalmazza.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

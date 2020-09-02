@@ -1,7 +1,3 @@
-## 1. § A nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet módosítása (a továbbiakban: R1.) 2. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## [Az (1) bekezdéstől eltérően]
-
-## „h) a kizárólag érettségit követő szakmai nevelést-oktatást folytató szakgimnáziumi – kerettantervben foglalt követelmények szerinti – 13–14. évfolyamnak Ksz/13, Ksz/14”
-
-## (az elnevezése.)
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
