@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-92-00-00
 | 2020-07-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-92-00-00.1 |
 | 2020-07-17 | 2010. évi CXXX. törvény | 2020-92-00-00.2 |
 | 2020-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-92-00-00.3 |
+| 2020-09-02 | 2010. évi CXXX. törvény | 2020-92-00-00.4 |
