@@ -1,4 +1,4 @@
-## 10. §[^12]
+## 10. §[^14]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6. § (4) bekezdése 2020. szeptember 1-jén lép hatályba.
 
-[^12]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

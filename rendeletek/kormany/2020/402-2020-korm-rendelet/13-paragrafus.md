@@ -1,4 +1,4 @@
-## 12. §[^13]
+## 12. §[^15]
 
 ## 13. § Ez a rendelet
 
@@ -8,4 +8,4 @@ b) az egységes európai égboltra vonatkozó teljesítmény- és díjszámítá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^13]: A 12. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
