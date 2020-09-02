@@ -1,57 +1,20 @@
 ## 95. A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet módosítása
 
-95. § (1)[^149]
+95. § (1)[^150]
 
-(2)[^150]
+(2)[^151]
 
-(3)[^151]
+(3)[^152]
 
-(4)[^152]
+(4)[^153]
 
-(5)[^153]
+(5)[^154]
 
-(6) Hatályát veszti az R57.
+(6)[^155]
 
-a)[^154]
-
-b)[^155]
-
-c)[^156]
-
-d)[^157]
-
-e) 2. § (5) bekezdése,
-
-f)[^158]
-
-g)[^159]
-
-h)[^160]
-
-i)[^161]
-
-j)[^162]
-
-k)[^163]
-
-l)[^164]
-
-m)[^165]
-
-[^149]: A 95. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^150]: A 95. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^151]: A 95. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^152]: A 95. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^153]: A 95. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^154]: A 95. § (6) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^155]: A 95. § (6) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^156]: A 95. § (6) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^157]: A 95. § (6) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^158]: A 95. § (6) bekezdés f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^159]: A 95. § (6) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^160]: A 95. § (6) bekezdés h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^161]: A 95. § (6) bekezdés i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^162]: A 95. § (6) bekezdés j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^163]: A 95. § (6) bekezdés k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^164]: A 95. § (6) bekezdés l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^165]: A 95. § (6) bekezdés m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: A 95. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^151]: A 95. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^152]: A 95. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^153]: A 95. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^154]: A 95. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^155]: A 95. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

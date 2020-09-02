@@ -1,3 +1,3 @@
-36. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^442]
+36. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^420]
 
-[^442]: A 36. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^420]: A 36. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

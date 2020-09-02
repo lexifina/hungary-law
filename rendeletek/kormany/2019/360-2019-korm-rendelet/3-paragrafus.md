@@ -1,5 +1,5 @@
-## 2. §[^2]
-
 ## 3. Az önkormányzatok tulajdonában lévő ingatlanvagyon nyilvántartási és adatszolgáltatási rendjéről szóló 147/1992. (XI. 6.) Korm. rendelet módosítása
 
-[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

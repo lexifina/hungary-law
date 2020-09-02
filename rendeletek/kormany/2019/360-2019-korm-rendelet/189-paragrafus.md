@@ -1,5 +1,5 @@
-## 188. §[^382]
-
 ## 189. A katonai munkavédelmi hatóság kijelöléséről, valamint sajátos feladatairól és hatásköreinek ellátásáról szóló 502/2017. (XII. 29.) Korm. rendelet módosításáról
 
-[^382]: A 188. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+189. §[^361]
+
+[^361]: A 189. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

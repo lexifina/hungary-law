@@ -1,5 +1,5 @@
-## 102. §[^173]
-
 ## 103. A devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet módosítása
 
-[^173]: A 102. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+103. §[^164]
+
+[^164]: A 103. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-17. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^423]
+17. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^401]
 
-[^423]: A 17. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^401]: A 17. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 201. §[^406]
-
 ## 202. Záró rendelkezések
 
 202. § (1) Ez a rendelet – a (2)–(8) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
@@ -17,5 +15,3 @@
 (7) A 95. § (6) bekezdés e) pontja, a 107. § (4) bekezdés m) pontja 2020. szeptember 1-jén lép hatályba.
 
 (8) A 165. § (1) bekezdése 2021. január 1-jén lép hatályba.
-
-[^406]: A 201. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 50. §[^91]
-
 ## 51. A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet módosítása
 
-[^91]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+51. §[^93]
+
+[^93]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

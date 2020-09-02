@@ -1,5 +1,5 @@
-## 145. §[^250]
-
 ## 146. Az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet módosítása
 
-[^250]: A 145. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+146. §[^229]
+
+[^229]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

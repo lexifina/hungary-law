@@ -1,5 +1,5 @@
-## 42. §[^61]
-
 ## 43. Az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet módosítása
 
-[^61]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+43. §[^63]
+
+[^63]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

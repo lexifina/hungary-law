@@ -1,5 +1,5 @@
-## 105. §[^176]
-
 ## 106. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet módosítása
 
-[^176]: A 105. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+106. §[^167]
+
+[^167]: A 106. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

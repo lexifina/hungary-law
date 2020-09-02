@@ -1,5 +1,5 @@
-## 68. §[^112]
-
 ## 69. A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet módosítása
 
-[^112]: A 68. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+69. §[^114]
+
+[^114]: A 69. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

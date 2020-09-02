@@ -1,5 +1,5 @@
-## 119. §[^211]
-
 ## 120. A külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet módosítása
 
-[^211]: A 119. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+120. §[^190]
+
+[^190]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

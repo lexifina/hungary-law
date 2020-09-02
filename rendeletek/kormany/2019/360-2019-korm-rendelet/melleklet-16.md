@@ -1,3 +1,3 @@
-16. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^422]
+16. melléklet a 360/2019. (XII. 30.) Korm. rendelethez[^400]
 
-[^422]: A 16. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^400]: A 16. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
