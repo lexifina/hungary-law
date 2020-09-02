@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti a közgyűjteményekben őrzött kulturális javak méltányosságból történő birtokba adásának rendjéről és a hasznosításukra vonatkozó szerződésekkel kapcsolatos szabályokról szóló 498/2016. (XII. 28.) Korm. rendelet (a továbbiakban: R2.).
+## 3. §[^3]
 
 ## 3. A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
