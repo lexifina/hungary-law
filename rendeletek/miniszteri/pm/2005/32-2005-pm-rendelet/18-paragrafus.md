@@ -1,4 +1,4 @@
-## 17/J. §[^65]
+## 17/J. §[^58]
 
 ## MÁSODIK RÉSZ
 
@@ -24,11 +24,12 @@ e) az arra való utalást, hogy a kilátásba helyezett nyereményt a hatályos 
 
 f) a sorsolásos játékban történő részvételre vonatkozó, az 1. § (5) bekezdése szerinti tilalmat.
 
-(2) A sorsolásos játék engedélyezése iránti kérelemhez a 2. § (3) bekezdésében foglaltakon túl csatolni kell a szervezőnek az Szjtv. 3. §-a szerinti jogosultságát igazoló okiratot.
+(2)[^59] A sorsolásos játék engedélyezése iránti kérelemhez az Szjtv. 7/B. § (3) bekezdésében, valamint a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó eljárási szabályokról szóló Korm. rendeletben foglaltakon túl csatolni kell a szervezőnek az Szjtv. 3. §-a szerinti jogosultságát igazoló okiratot.
 
 (3) A hírközlő eszközök és rendszerek útján szervezett sorsolásos játék esetén a játékos számára a játékban való részvételt megelőzően megismerhetővé kell tenni a részvételi szabályzatot.
 
-(4)[^66] A hírközlő eszközök és rendszerek igénybevételével szervezett számsorsjáték és egyéb sorsolásos játék engedélyezési eljárása során a szervezőnek az Szjtv. 2. §-ának (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
+(4)[^60] A hírközlő eszközök és rendszerek igénybevételével szervezett sorsolásos játék engedélyezési eljárása során a szervezőnek az Szjtv. 2. §-ának (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
 
-[^65]: A 17/J. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.
-[^66]: A 18. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 7. §-ával megállapított szöveg.
+[^58]: A 17/J. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.
+[^59]: A 18. § (2) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 14. § b) pontja szerint módosított szöveg.
+[^60]: A 18. § (4) bekezdése a 19/2006. (VII. 31.) PM rendelet 7. §-ával megállapított, a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 7. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 14. §[^52] A célvizsgálat egy vagy több ellenőrzési szempont alapján lefolytatott ellenőrzés.
+## 14. §[^44]
 
-[^52]: A 14. § második mondatát a 19/2006. (VII. 31.) PM rendelet 42. § (6) bekezdése hatályon kívül helyezte.
+[^44]: A 14. §-t a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 6. pontja hatályon kívül helyezte.

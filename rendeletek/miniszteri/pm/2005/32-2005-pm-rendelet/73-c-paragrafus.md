@@ -12,4 +12,6 @@
 
 (6) Valamennyi kamerának alkalmasnak kell lennie arra, hogy a közvetített kép másodperc részletezettséggel és pontossággal tartalmazza a dátumot, az időpontot, továbbá elhelyezésének megfelelően a megtett téteket, a készpénz és a borravaló átvételét úgy, hogy a játékeszközökön történt események mindvégig láthatóak legyenek.
 
-(7) A kártyatermekre alkalmazni kell az 55. § (4) bekezdésében foglaltakat azzal, hogy játékkaszinón kártyatermet kell érteni.
+(7)[^205] A kártyatermekre alkalmazni kell az 55. § (4) és (7) bekezdésében foglaltakat.
+
+[^205]: A 73/C. § (7) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 9. §-ával megállapított szöveg.

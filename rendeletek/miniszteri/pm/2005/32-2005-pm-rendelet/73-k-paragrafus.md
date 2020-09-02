@@ -1,10 +1,10 @@
 ## Elszámolás, nyilvántartás, adatszolgáltatás
 
-73/K. § (1)[^204] A szervezőnek a játékbevételekről folyamatos elszámolást kell készíteni. Az elszámolásokat a szervező köteles a szerencsejáték-felügyeleti hatóság által rendszeresített bizonylatokon teljesíteni. A szervező a bizonylatok kitöltésére és kezelésére vonatkozó, a (2)–(4) bekezdésben, továbbá a 16–21. számú mellékletben foglalt előírásokat köteles betartani.
+73/K. § (1)[^213] A szervezőnek a játékbevételekről folyamatos elszámolást kell készíteni. Az elszámolásokat a szervező köteles a szerencsejáték-felügyeleti hatóság által rendszeresített bizonylatokon teljesíteni. A szervező a bizonylatok kitöltésére és kezelésére vonatkozó, a (2)–(4) bekezdésben, továbbá a 16–21. számú mellékletben foglalt előírásokat köteles betartani.
 
 (2) Az elszámolást kártyaasztalonként, verseny rendszerű lebonyolítás esetén versenyenként kell elvégezni és bizonylatolni. Részletesen szabályozni kell az asztalnyitás és az asztalzárás rendjét.
 
-(3)[^205] A kártyateremben folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá a naptári év végén a szervező köteles nyitó- és záró zsetonleltárt készíteni. A szervező köteles a leltár időpontjáról tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát a leltárfelvételt követő nyolc napon belül megküldeni. A leltárívnek a következő adatokat kell tartalmaznia:
+(3)[^214] A kártyateremben folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá a naptári év végén a szervező köteles nyitó- és záró zsetonleltárt készíteni. A szervező köteles a leltár időpontjáról tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát a leltárfelvételt követő nyolc napon belül megküldeni. A leltárívnek a következő adatokat kell tartalmaznia:
 
 a) a leltárfelvétel idejét, helyét,
 
@@ -20,7 +20,7 @@ a) a bizonylatokat szigorú számadás alá kell vonni,
 
 b) a szervezőnek gondoskodnia kell a bizonylatok biztonságos tárolásáról és a bizonylattömbök nyilvántartásáról,
 
-c)[^206] a bizonylatokat úgy kell tárolni, hogy a kártyaterem nyitvatartási ideje alatt a szerencsejáték-felügyeleti hatóság ellenőrei azokat megtekinthessék,
+c)[^215] a bizonylatokat úgy kell tárolni, hogy a kártyaterem nyitvatartási ideje alatt a szerencsejáték-felügyeleti hatóság ellenőrei azokat megtekinthessék,
 
 d) a bizonylatokat a rögzítendő eseményekkel egyidejűleg kell kitölteni, e tekintetben a bizonylat dátuma az adott játéknap,
 
@@ -28,19 +28,22 @@ e) hiba esetén a bizonylatot érvényteleníteni kell, és új bizonylatot kell
 
 f) a bizonylattömbben kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell,
 
-g)[^207] a bizonylat érvénytelenítésének okáról minden esetben jegyzőkönyvet kell felvenni és azt a rontott bizonylattal együtt a kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni a szerencsejáték-felügyeleti hatósághoz,
+g)[^216] a bizonylat érvénytelenítésének okáról minden esetben jegyzőkönyvet kell felvenni és azt a rontott bizonylattal együtt a kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni a szerencsejáték-felügyeleti hatósághoz,
 
 h) a bizonylatok első példányát ellenőrzés után, bizonylattípusonként, emelkedő sorszám szerint kell összeállítani és kísérő jegyzékkel ellátni,
 
-i)[^208] az elszámolási bizonylatok első példányát havonta kétszer, legkésőbb a hónap tizenötödik, valamint adatszolgáltatással együtt a hónap utolsó napját követő ötödik munkanapig kell benyújtani a szerencsejáték-felügyeleti hatósághoz.
+i)[^217] az elszámolási bizonylatok első példányát havonta kétszer, legkésőbb a hónap tizenötödik, valamint adatszolgáltatással együtt a hónap utolsó napját követő ötödik munkanapig kell benyújtani a szerencsejáték-felügyeleti hatósághoz.
 
 (5) A (4) bekezdés i) pontja szerinti adatszolgáltatásnak tartalmaznia kell a látogatók naponkénti létszámát, valamint a kártyaterem havi tiszta játékbevételét, játékadó alapját és játékadó fizetési kötelezettségét.
 
-(6)[^209] A szervező köteles a rendkívüli eseményekről a szerencsejáték-felügyeleti hatóságot haladéktalanul telekommunikációs eszköz útján tájékoztatni, egyúttal az eseményeket és az alkalmazott intézkedéseket tartalmazó okiratokat a videofelvételek megőrzésére vonatkozóan meghatározott ideig megőrizni.
+(6)[^218] A szervező köteles a rendkívüli eseményekről a szerencsejáték-felügyeleti hatóságot haladéktalanul telekommunikációs eszköz útján tájékoztatni, egyúttal az eseményeket és az alkalmazott intézkedéseket tartalmazó okiratokat a videofelvételek megőrzésére vonatkozóan meghatározott ideig megőrizni.
 
-[^204]: A 73/K. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^205]: A 73/K. § (3) bekezdés nyitó szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
-[^206]: A 73/K. § (4) bekezdés c) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
-[^207]: A 73/K. § (4) bekezdés g) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
-[^208]: A 73/K. § (4) bekezdés i) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
-[^209]: A 73/K. § (6) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+(7)[^219] Kártyaterem tekintetében alkalmazni kell a 69. § (3) bekezdését.
+
+[^213]: A 73/K. § (1) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^214]: A 73/K. § (3) bekezdés nyitó szövegrésze a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+[^215]: A 73/K. § (4) bekezdés c) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^216]: A 73/K. § (4) bekezdés g) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
+[^217]: A 73/K. § (4) bekezdés i) pontja a 17/2017. (VI. 30.) NGM rendelet 11. § f) pontja szerint módosított szöveg.
+[^218]: A 73/K. § (6) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § g) pontja szerint módosított szöveg.
+[^219]: A 73/K. § (7) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 11. §-a iktatta be.

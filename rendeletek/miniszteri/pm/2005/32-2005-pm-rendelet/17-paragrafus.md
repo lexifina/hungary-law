@@ -1,3 +1,3 @@
-## 16. §[^53] Az utóvizsgálat az ellenőrzések során feltárt hiányosságok, eltérések megszüntetésének, illetve a szerencsejáték-felügyeleti hatóság által előírt intézkedések megtételének ellenőrzésére irányul.
+## 16. §[^46]
 
-[^53]: A 16. § a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^46]: A 16. §-t a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 6. pontja hatályon kívül helyezte.

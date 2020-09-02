@@ -14,6 +14,6 @@
 
 ## Az asztalzárás időpontja az az időpont, amikor az adott játékasztal zárása elkezdődik. Az asztalzárás tényét és valódiságtartalmát a teremvezető, a pénztáros és a játékvezető aláírásával igazolja.
 
-20. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^306]
+20. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^302]
 
-[^306]: A 20. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
+[^302]: A 20. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
