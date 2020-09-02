@@ -4,4 +4,4 @@
 
 (3)
 
-(4) Hatályát veszti az Nkt. 93/F. § (1) bekezdés b) pontja, (3)–(5) bekezdése.
+(4)
