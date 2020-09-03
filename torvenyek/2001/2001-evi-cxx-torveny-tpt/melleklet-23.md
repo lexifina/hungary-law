@@ -19,5 +19,3 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 8. az Európa Tanács Fejlesztési Bankja,
 
 9. az Európai Újjáépítési és Fejlesztési Bank,
-
-10. az Északi Beruházási Bank,
