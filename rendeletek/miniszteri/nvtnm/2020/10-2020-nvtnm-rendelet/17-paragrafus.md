@@ -1,5 +1,7 @@
-## 16. § Hatályát veszti a Szerencsejáték Felügyeletnél foglalkoztatottak személyi illetménye, a feltételekhez kötött személyi juttatás és az intézményi feladatok megállapításáról szóló 57/2017. (XII. 29.) NFM rendelet.
+## 16. §[^3]
 
 ## 3. Záró rendelkezések
 
 17. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+[^3]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
