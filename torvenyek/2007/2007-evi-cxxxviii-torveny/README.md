@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2019-12-31 | 2018. évi CXXVI. törvény | 2007-138-00-00.59 |
 | 2020-01-01 | 2019. évi CXVIII. törvény | 2007-138-00-00.60 |
 | 2020-01-18 | 2019. évi CXVIII. törvény | 2007-138-00-00.61 |
+| 2020-09-03 | 2019. évi LXVII. törvény | 2007-138-00-00.62 |

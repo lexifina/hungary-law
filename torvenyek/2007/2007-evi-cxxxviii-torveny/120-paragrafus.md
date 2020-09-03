@@ -54,4 +54,6 @@ t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő 
 
 u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
 
-v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása.
+v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása,
+
+w) a nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosítás érdekében az értékpapírszámla-vezető részéről a nyilvánosan működő részvénytársaság részére nyújtott adatszolgáltatás.
