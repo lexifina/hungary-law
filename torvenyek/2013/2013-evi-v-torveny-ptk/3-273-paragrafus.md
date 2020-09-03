@@ -7,3 +7,5 @@
 (3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét – lezárásának időpontjában – a részvénykönyv tartalmazza. A részvénynek a közgyűlés kezdőnapját megelőző átruházása nem érinti a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.
 
 (4) Ha a nyilvánosan működő részvénytársaság alapszabálya megengedi, hogy a részvényes szavazati jogát a közgyűlést megelőzően postai úton gyakorolja, e jog gyakorlását érvényesen csak olyan feltételhez kötheti, amely a részvényes személyazonossága megállapításához szükséges.
+
+(5) A részvényes kérelmére a részvényesnek vagy az általa megjelölt személynek az igazgatóság köteles visszaigazolni, hogy a részvényes szavazatát a közgyűlésen szabályszerűen rögzítették és azt beszámították, kivéve, ha a szükséges tájékoztatás a részvényes rendelkezésére áll.

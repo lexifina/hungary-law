@@ -37,9 +37,3 @@ n)
 o) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanács irányelvnek;
 
 p)
-
-q) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelvnek;
-
-r) a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek;
-
-s) a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek
