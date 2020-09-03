@@ -1,1 +1,0 @@
-## 1. Az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos piacfelügyeleti eljárás szabályairól szóló 218/2016. (VII. 22.) Korm. rendelet módosítása
