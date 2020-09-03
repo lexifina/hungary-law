@@ -2,7 +2,7 @@
 
 31. § (1) Az 1–27. §, a 90. §, a 115. §, a 123–126. § a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2)
+(2) A 3–8. § a 2007/36/EK európai parlamenti és tanácsi irányelvnek a részvényesek azonosítására, az információk továbbítására és a részvényesi jogok gyakorlásának megkönnyítésére vonatkozó rendelkezések tekintetében történő végrehajtására vonatkozó minimumkövetelmények megállapításáról szóló, 2018. szeptember 3-i (EU) 2018/1212 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) A 32. §, a 34. §, a 36–38. § az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
