@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2020-07-17 | 2018-1-20-7P.35 | 5/2018. (XI. 8.) NVTNM rendelet |
 | 2020-08-08 | 2018-1-20-7P.36 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2020-09-01 | 2018-1-20-7P.37 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2020-09-04 | 2018-1-20-7P.38 | 3/2018. (VIII. 1.) NVTNM rendelet |

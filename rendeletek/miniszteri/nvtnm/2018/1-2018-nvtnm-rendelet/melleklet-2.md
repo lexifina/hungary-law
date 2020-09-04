@@ -18,7 +18,7 @@
 
 | 6. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2022. december 31. |
 
-| 7. | Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság | 01-10-047989 | 2022. december 31. |
+| 7. |  |  |  |
 
 | 8. | MAHART-Szabadkikötő Zártkörűen Működő Részvénytársaság | 01-10-045276 | 2022. december 31. |
 
@@ -233,6 +233,8 @@
 | 17. | NFFKÜ - Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2022. december 31. |
 
 | 18. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2022. december 31. |
+
+| 19. | ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság | 20-10-040370 | 2022. december 31. |
 
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
