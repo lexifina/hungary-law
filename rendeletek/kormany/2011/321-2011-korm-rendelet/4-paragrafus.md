@@ -1,4 +1,4 @@
-## 3. §[^5] A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi az SZGYF számára, mely azt honlapján közzéteszi.
+## 3. §[^5] A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi a TEF számára, mely azt honlapján közzéteszi.
 
 ## 2. A helyi esélyegyenlőségi program elkészítésének szempontjai
 
@@ -96,6 +96,6 @@ fc) az építésügyi hatóságok felkészültségére az akadálymentesítés �
 
 fd) a helyi tömegközlekedés akadálymentesítésére.
 
-[^5]: A 3. § a 253/2016. (VIII. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § a 421/2020. (IX. 3.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
 [^6]: A 4. § (2) bekezdés c) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 59. § 1. pontja szerint módosított szöveg.
 [^7]: A 4. § (5) bekezdés e) pontja a 13/2020. (II. 7.) Korm. rendelet 59. § 2. pontja szerint módosított szöveg.
