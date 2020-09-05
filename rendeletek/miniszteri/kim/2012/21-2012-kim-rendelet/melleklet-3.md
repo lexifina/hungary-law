@@ -342,4 +342,6 @@
 
 |  |  | 961 | Háztartás |
 
-3. melléklet a 21/2012. (IV. 16.) KIM rendelethez
+3. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^4]
+
+[^4]: A 3. melléklet a 16/2020. (IX. 4.) MvM rendelet 4. §-a szerint módosított szöveg.
