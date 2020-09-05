@@ -18,7 +18,7 @@ d) a debreceni innovációs és tudományos környezet, illetve science park kon
 
 e) a központ gazdasági környezetének fejlesztését elősegítő határon túli, valamint nemzetközi kapcsolatok élénkítését,
 
-f) az Északkelet-Magyarország nemzeti, gazdasági és kulturális övezete fejlesztési programjának kidolgozását és végrehajtását.
+f)[^1]
 
 3. A kormánybiztos az 1. pont b) alpontja szerinti feladatkörében
 
@@ -44,6 +44,7 @@ g) az érintett miniszterekkel együttműködve összehangolja az autó-motorspo
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^1]
+8.[^2]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont f) alpontját az 1570/2020. (IX. 4.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
