@@ -16,7 +16,7 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^50]
 
 | 5. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302814-00000000 |
 
-| 6. | Csongrád Megyei Kormányhivatal | 10028007-00302515-00000000 |
+| 6. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00302515-00000000 |
 
 | 7. | Fejér Megyei Kormányhivatal | 10029008-00302649-00000000 |
 
@@ -49,4 +49,4 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez[^50]
 | 21. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
 
 [^49]: A 18. §-t a 29/2015. (VI. 5.) FM rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 42/2017. (VIII. 17.) FM rendelet 142. §-a.
-[^50]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 140. §-a szerint módosított szöveg.
+[^50]: A melléklet a 29/2015. (VI. 5.) FM rendelet 8. § (5) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 140. §-a, a 16/2020. (IX. 4.) MvM rendelet 2. §-a szerint módosított szöveg.
