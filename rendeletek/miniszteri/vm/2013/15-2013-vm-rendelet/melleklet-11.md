@@ -1444,4 +1444,6 @@
 
 ## 11. ábra EOMA GPS-sel meghatározott harmadrendű őrpont helyszínrajza
 
-11. melléklet a 15/2013. (III. 11.) VM rendelethez
+11. melléklet a 15/2013. (III. 11.) VM rendelethez[^34]
+
+[^34]: A 11. melléklet a 16/2020. (IX. 4.) MvM rendelet 5. §-a szerint módosított szöveg.

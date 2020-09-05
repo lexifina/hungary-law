@@ -128,7 +128,7 @@
 
 | Borsod-Abaúj-Zemplén megye | 05 |
 
-| Csongrád megye | 06 |
+| Csongrád-Csanád megye | 06 |
 
 | Fejér megye | 07 |
 
