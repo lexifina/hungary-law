@@ -186,7 +186,7 @@
 
 |  | Borsod-Abaúj-Zemplén megye | 05 |
 
-|  | Csongrád megye | 06 |
+|  | Csongrád-Csanád megye | 06 |
 
 |  | Fejér megye | 07 |
 
@@ -334,7 +334,7 @@
 
 |  | Szabolcs-Szatmár-Bereg) | 60 |
 
-|  | Dél-Alföld (Bács-Kiskun, Békés, Csongrád) | 70 |
+|  | Dél-Alföld (Bács-Kiskun, Békés, Csongrád-Csanád) | 70 |
 
 |  | Az ország területre nem bontható adatai | 80 |
 
@@ -414,7 +414,7 @@
 
 | Békés | HU332 |
 
-| Csongrád | HU333 |
+| Csongrád-Csanád | HU333 |
 
 | Nem besorolható (Extra-Régió) | HUZZZ |
 
@@ -1120,4 +1120,4 @@
 
 2. melléklet a 31/2011. (X. 24.) KIM rendelethez[^8]
 
-[^8]: A 2. melléklet a 15/2019. (XI. 27.) MvM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 2. melléklet a 15/2019. (XI. 27.) MvM rendelet 3. §-ával megállapított, a 16/2020. (IX. 4.) MvM rendelet 3. § d) pontja szerint módosított szöveg.
