@@ -68,7 +68,7 @@
 
 | 6. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302814-00000000 |
 
-| 7. | Csongrád Megyei Kormányhivatal | 10028007-00302515-00000000 |
+| 7. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00302515-00000000 |
 
 | 8. | Fejér Megyei Kormányhivatal | 10029008-00302649-00000000 |
 
@@ -104,4 +104,4 @@
 
 | 24. | Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság | 10032000-00286576-00000017 |
 
-[^54]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 16. §-ával megállapított szöveg.
+[^54]: A 4. számú mellékletet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 16. §-ával megállapított, a 16/2020. (IX. 4.) MvM rendelet 1. §-a szerint módosított szöveg.
