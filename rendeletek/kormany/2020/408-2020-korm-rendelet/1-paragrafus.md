@@ -10,7 +10,9 @@ b) aki rendelkezik az idegenrendészeti hatóság valamely jogcímen 90 napot me
 
 c) aki magyarországi sportszervezetnek a sportról szóló törvény szerinti versenyzője, illetve sportszakembere, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére,
 
-d) aki a külföldön megrendezésre kerülő nemzetközi sporteseményen magyarországi sportszervezet általi – névre szólóan kiadott – meghívással, illetve delegálással részt vevő személy, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére.
+d) aki a külföldön megrendezésre kerülő nemzetközi sporteseményen magyarországi sportszervezet általi – névre szólóan kiadott – meghívással, illetve delegálással részt vevő személy, ha külföldön megrendezésre kerülő nemzetközi sporteseményen való részvételét követően lép be Magyarország területére,
+
+e)[^1] a magyarországi kulturális intézmény foglalkoztatottja, ha külföldön megrendezésre kerülő kulturális rendezvényen fellépőként vagy technikai személyzetként való részvételét követően lép be Magyarország területére.
 
 (3) E rendelet hatálya nem terjed ki
 
@@ -21,3 +23,5 @@ b) a külföldre utazásról szóló 1998. évi XII. törvény 6/A. § (2) bekez
 c) arra a személyre, aki a Magyarországra való belépés során hitelt érdemlően igazolja, hogy a határátlépésre jelentkezés napját megelőző 6 hónapon belül a COVID-19 betegségen (a továbbiakban: fertőzés) átesett.
 
 (4) E rendelet alkalmazásában hivatalos célú határátlépés a magánútlevéllel, valamint az egyéb úti okmánnyal végrehajtott hivatalos látogatás céljából történő határátlépés.
+
+[^1]: Az 1. § (2) bekezdés e) pontját a 422/2020. (IX. 4.) Korm. rendelet 1. §-a iktatta be.
