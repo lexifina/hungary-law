@@ -20,6 +20,8 @@
 
 | 2 | 450–470 MHz | 0,4 |
 
+| 2/A | 694–790 MHz | 1 |
+
 | 3 | 790–960 MHz | 1 |
 
 | 4 | 1710–2200 MHz 2014. január 1-jén használatban lévő sávok esetén | 0,25 |
@@ -32,4 +34,4 @@
 
 | 8 | 24,5–26,5 GHz | 0,002 |
 
-[^69]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja, a 2/2019. (III. 22.) NMHH rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^69]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja, a 2/2019. (III. 22.) NMHH rendelet 3. § (1)–(2) bekezdése szerint módosított szöveg.
