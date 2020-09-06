@@ -1,4 +1,4 @@
-## 13. §[^14]
+## 13. §[^13]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § (2) bekezdése és a 2. melléklet 2020. szeptember 6-án lép hatályba.
 
-[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
