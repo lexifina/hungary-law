@@ -1,5 +1,5 @@
-## 6. §[^6]
+## 6. §[^8]
 
 ## 3. A nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló 7/2015. (XI. 13.) NMHH rendelet módosítása
 
-[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
