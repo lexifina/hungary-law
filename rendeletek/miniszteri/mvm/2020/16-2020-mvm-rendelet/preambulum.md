@@ -1,9 +1,0 @@
-A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (5) bekezdésében kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 21. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörében eljáró honvédelmi miniszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
-
-a 2. alcím tekintetében az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (3) bekezdésében és az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 33. § (7) bekezdésében kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 20. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
-
-a 3. és a 4. alcím tekintetében a hivatalos statisztikáról szóló 2016. évi CLV. törvény 47. § (2) bekezdésében kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet D) pont 3. alpontjában meghatározott feladatkörömben eljárva,
-
-az 5. alcím tekintetében a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (2) bekezdés a) pontjában kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § (1) bekezdés 21. pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
