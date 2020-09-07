@@ -132,6 +132,6 @@
 
 ## Ha egy alrendszer bizonyos részeire vonatkozó hitelesítési tanúsítvány kerül kiállításra, ezen melléklet rendelkezései értelemszerűen alkalmazandók ezen részekre.
 
-5. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^20]
+5. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^21]
 
-[^20]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 6. § b) pontjával megállapított szöveg.
+[^21]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 6. § b) pontjával megállapított szöveg.

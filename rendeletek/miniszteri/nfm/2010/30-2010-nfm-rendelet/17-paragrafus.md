@@ -1,4 +1,4 @@
-17. §[^15] (1) Ez a rendelet
+17. §[^16] (1) Ez a rendelet
 
 a) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló, 2004. április 29-i 2004/49/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -18,4 +18,4 @@ g) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról 
 
 (2) Ez a rendelet a vasúti infrastruktúra nyilvántartásának közös előírásairól és a 2011/633/EU végrehajtási határozat hatályon kívül helyezéséről szóló, 2014. november 26-i 2014/880/EU bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^15]: A 17. § a 22/2015. (V. 6.) NFM rendelet 5. §-ával megállapított szöveg.
+[^16]: A 17. § a 22/2015. (V. 6.) NFM rendelet 5. §-ával megállapított szöveg.

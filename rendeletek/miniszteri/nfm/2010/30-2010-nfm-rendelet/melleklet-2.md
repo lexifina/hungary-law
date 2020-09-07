@@ -66,6 +66,6 @@
 
 ## A vasúti rendszer átjárhatóságát biztosító és a szükséges teljesítményt garantáló kötelező javításokat és megelőző karbantartásokat biztosító eljárások, a kapcsolódó berendezések, karbantartási logisztikai központok és tartalékok.
 
-2. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^18]
+2. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^19]
 
-[^18]: A 2. melléklet az 5/2014. (II. 6.) NFM rendelet 2. §-a, az 55/2014. (XII. 23.) NFM rendelet 7. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet az 5/2014. (II. 6.) NFM rendelet 2. §-a, az 55/2014. (XII. 23.) NFM rendelet 7. §-a szerint módosított szöveg.

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-30-20-2
 | 2014-12-31 | 2010-30-20-2W.7 | 55/2014. (XII. 23.) NFM rendelet |
 | 2015-05-11 | 2010-30-20-2W.8 | 22/2015. (V. 6.) NFM rendelet |
 | 2016-08-05 | 2010-30-20-2W.9 | 33/2016. (VIII. 2.) NFM rendelet |
+| 2020-09-07 | 2010-30-20-2W.10 | 413/2020. (VIII. 30.) Korm. rendelet |

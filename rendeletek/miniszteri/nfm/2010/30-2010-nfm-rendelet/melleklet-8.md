@@ -22,6 +22,6 @@
 
 ## A dokumentációt mind papír, mind elektronikus formában be kell nyújtani.
 
-8. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^21]
+8. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^22]
 
-[^21]: A 8. mellékletet a 19. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A 8. mellékletet a 19. § (2) bekezdése hatályon kívül helyezte.
