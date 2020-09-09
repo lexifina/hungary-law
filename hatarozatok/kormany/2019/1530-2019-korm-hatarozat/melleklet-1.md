@@ -36,7 +36,7 @@
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2020. december 31.
+## Határidő: 2021. március 31.
 
 ## 9.[^3] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében a 2020. évre 292 832 100 forint egyszeri átcsoportosítást rendel el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 25. Fenntartható fejlesztések jogcímcsoport javára, a 2. melléklet szerint;
 
@@ -52,24 +52,19 @@
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2021. szeptember 30.
+## Határidő: 2022. március 31.
 
-## 10. felhívja az innovációért és technológiáért felelős minisztert, hogy
-
-## a)[^4]
-
-## b)[^5] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére Békéscsaba Megyei Jogú Város Önkormányzata és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával a Beruházások megvalósításának kérdésében, a költségek, a forrásigény, az ütemezés és a felelősök, valamint annak bemutatásával, hogy a 2021. évtől a szükséges források a Modern Városok Program terhére kerülnek biztosításra.
+## 10.[^4] felhívja az innovációért és technológiáért felelős minisztert, hogy az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére Békéscsaba Megyei Jogú Város Önkormányzata és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával a Beruházások megvalósításának kérdésében, a költségek, a forrásigény, az ütemezés és a felelősök, valamint annak bemutatásával, hogy a szükséges források a Modern Városok Program terhére kerülnek biztosításra.
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Modern Települések Fejlesztéséért felelős kormánybiztos
 
-## Határidő: 2021. december 31.
+## Határidő: 2022. március 31.
 
 1. melléklet az 1530/2019. (IX. 17.) Korm. határozathoz
 
 [^1]: A 6. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: A 8. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^3]: A 9. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
-[^4]: A 10. pont a) alpontját az 1779/2019. (XII. 23.) Korm. határozat 3. pont a) alpontja visszavonta.
-[^5]: A 10. pont b) alpontja az 1779/2019. (XII. 23.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^2]: A 8. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont b) alpontja, az 1574/2020. (IX. 9.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^3]: A 9. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont c) alpontja, az 1574/2020. (IX. 9.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^4]: A 10. pont az 1574/2020. (IX. 9.) Korm. határozat 2. pontjával megállapított szöveg.
