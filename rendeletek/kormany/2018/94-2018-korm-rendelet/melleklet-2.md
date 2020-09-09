@@ -28,6 +28,8 @@
 
 | 2 | Nemzeti Kommunikációs Hivatal | irányítás |
 
+| 3 | Nemzeti Koncessziós Iroda | irányítás |
+
 ## D) Miniszterelnökséget vezető miniszter
 
 |  | A | B |
@@ -166,6 +168,6 @@
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^87]
+2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^92]
 
-[^87]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^92]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.

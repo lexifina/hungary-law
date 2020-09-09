@@ -56,11 +56,11 @@
 
 27. vízvédelemért
 
-28.[^27] társadalmi felzárkózásért
+28.[^30] társadalmi felzárkózásért
 
 felelős tagja.
 
-(2)[^28] A miniszter
+(2)[^31] A miniszter
 
 a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (4) bekezdése,
 
@@ -74,8 +74,8 @@ e) az államháztartásról szóló 2011. évi CXCV. törvény 83. § (6) bekezd
 
 tekintetében a roma nemzetiség vonatkozásában a Kormány nemzetiségpolitikáért felelős tagja.
 
-(3)[^29] A miniszter vezeti a Nemzetbiztonsági Kabinet üléseit.
+(3)[^32] A miniszter vezeti a Nemzetbiztonsági Kabinet üléseit.
 
-[^27]: A 40. § (1) bekezdés 28. pontját a 84/2019. (IV. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^28]: A 40. § (2) bekezdése a 84/2019. (IV. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^29]: A 40. § (3) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^30]: A 40. § (1) bekezdés 28. pontját a 84/2019. (IV. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^31]: A 40. § (2) bekezdése a 84/2019. (IV. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^32]: A 40. § (3) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.

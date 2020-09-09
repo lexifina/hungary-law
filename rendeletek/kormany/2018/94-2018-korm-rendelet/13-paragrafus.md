@@ -1,4 +1,4 @@
-## 13. §[^9] A miniszterelnök kabinetfőnöke az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
+## 13. §[^12] A miniszterelnök kabinetfőnöke az e-közigazgatási és informatikai fejlesztések egységesítéséért való felelőssége keretében
 
 a) az e-közigazgatásért felelős miniszter együttműködésével gondoskodik az e-közigazgatás és az e-közigazgatási szolgáltatások általános elvi alapjai meghatározásáról,
 
@@ -22,4 +22,4 @@ j) egyetértési jogot gyakorol a nemzeti adatvagyon- és szoftverlicenc-gazdál
 
 k) felügyeli a nemzeti adatvagyon- és szoftverlicenc-gazdálkodás megvalósítását.
 
-[^9]: A 13. § a 391/2020. (VIII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: A 13. § a 391/2020. (VIII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

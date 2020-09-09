@@ -14,7 +14,7 @@ ac) összehangolja a tartalmi és technikai deregulációt,
 
 ad) megszervezi és lebonyolítja a minisztériumokban jogi és kodifikációs feladatokat végző személyek képzését,
 
-ae)[^56] a Magyar Közlöny Lap- és Könyvkiadó Kft. útján gondoskodik a minőségi jogalkotás és a kormányzati döntés-előkészítési és döntéshozó folyamatok egységes és kizárólagos informatikai támogatását, valamint egyes kapcsolódó hatósági tevékenységek informatikai támogatását biztosító integrált jogalkotási rendszernek – a rendszert használó nem kormányzati szervek feladat- és hatáskörét nem érintő – üzemeltetéséről, működtetéséről és fejlesztéséről,
+ae)[^60] a Magyar Közlöny Lap- és Könyvkiadó Kft. útján gondoskodik a minőségi jogalkotás és a kormányzati döntés-előkészítési és döntéshozó folyamatok egységes és kizárólagos informatikai támogatását, valamint egyes kapcsolódó hatósági tevékenységek informatikai támogatását biztosító integrált jogalkotási rendszernek – a rendszert használó nem kormányzati szervek feladat- és hatáskörét nem érintő – üzemeltetéséről, működtetéséről és fejlesztéséről,
 
 b) gondoskodik a jogszabályok és más jogi aktusok kihirdetéséről, illetve közzétételéről, valamint azok módosításokkal egységes szerkezetbe foglalt, hatályos szövegének tartalmilag hiteles, a jogalkotásról szóló törvény előírásainak és a jogszabályszerkesztés szabályainak megfelelő, nyomdakész formában történő megjelentetéséről, a Magyar Közlöny szerkesztéséről, és kijelöli a Magyar Közlöny felelős szerkesztőjét és annak helyetteseit,
 
@@ -88,4 +88,4 @@ g) koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi m
 
 (10) A miniszter a Kormány eseti döntése alapján felel a több miniszter feladatát érintő törvények előkészítéséért.
 
-[^56]: A 112. § (3) bekezdés a) pont ae) alpontját a 249/2019. (X. 24.) Korm. rendelet 1. §-a iktatta be.
+[^60]: A 112. § (3) bekezdés a) pont ae) alpontját a 249/2019. (X. 24.) Korm. rendelet 1. §-a iktatta be.
