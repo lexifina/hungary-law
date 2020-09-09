@@ -1,0 +1,1 @@
+## 4. § Az R. 111. § (2) bekezdés g) pontjában az „a koncesszióra, a kisajátításra” szövegrész helyébe az „a kisajátításra, valamint – a 8. § d) és e) pontjában foglalt feladatokhoz kapcsolódó jogszabályok kivételével – a koncesszióra” szöveg lép.
