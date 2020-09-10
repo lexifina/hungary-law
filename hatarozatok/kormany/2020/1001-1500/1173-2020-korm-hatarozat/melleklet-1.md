@@ -42,7 +42,7 @@
 
 ## Határidő: azonnal
 
-## 1.8. felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon az 1.4. alpont a) pontja szerinti elosztó hálózati infrastruktúra-fejlesztési feladatok és az 1.6. alpont szerinti gázellátáshoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladat megvalósítása érdekében szükséges támogatás biztosításáról;
+## 1.8.[^1] egyetért azzal, hogy az 1.4. alpont a) pontja szerinti villamos energia elosztó hálózati infrastruktúra-fejlesztési és az 1.6. alpontja szerinti gázellátáshoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok megvalósítása érdekében az innovációért és technológiáért felelős miniszter Pest Megye Önkormányzata mint kedvezményezett javára támogatói okiratot bocsásson ki;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -54,7 +54,7 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.10.[^1] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 11 984 389 200 forint biztosításával, amelynek érdekében
+## 1.10.[^2] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 11 984 389 200 forint biztosításával, amelynek érdekében
 
 ## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésének érdekében legfeljebb 11 984 389 200 forint kötelezettséget vállaljon,
 
@@ -80,26 +80,27 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.13.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a DMRV Zrt. útján – gondoskodjon az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság bevonásáról annak érdekében, hogy az 1.10 alpont szerinti feladat előkészítése és megvalósítása keretében tervezési, mérnöki, műszaki ellenőri feladatokat lásson el, valamint a DMRV Zrt. nevében és javára a kivitelezési szerződéshez kapcsolódó közbeszerzési eljárásokat lefolytassa, és a kapcsolódó projektmenedzsment-feladatokat ellássa;
+## 1.13.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a DMRV Zrt. útján – gondoskodjon az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság bevonásáról annak érdekében, hogy az 1.10 alpont szerinti feladat előkészítése és megvalósítása keretében tervezési, mérnöki, műszaki ellenőri feladatokat lásson el, valamint a DMRV Zrt. nevében és javára a kivitelezési szerződéshez kapcsolódó közbeszerzési eljárásokat lefolytassa, és a kapcsolódó projektmenedzsment-feladatokat ellássa;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 1.14.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
+## 1.14.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján intézkedjen a víziközmű hálózatokhoz kapcsolódó infrastruktúra-fejlesztés keretében megvalósuló vagyonnövekmények állami tulajdonba kerülése és a DMRV Zrt. részére történő vagyonkezelésbe adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 2.[^4]
+## 2.[^5]
 
-## 3.[^5]
+## 3.[^6]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
 
-[^1]: Az 1. pont 1.10. alpontja az 1248/2020. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1. pont 1.13. alpontja az 1248/2020. (V. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
-[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.8. alpontja az 1581/2020. (IX. 10.) Korm. határozattal megállapított szöveg.
+[^2]: Az 1. pont 1.10. alpontja az 1248/2020. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. pont 1.13. alpontja az 1248/2020. (V. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
