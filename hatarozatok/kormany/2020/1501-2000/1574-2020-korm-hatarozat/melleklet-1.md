@@ -128,30 +128,20 @@
 
 ## Határidő: azonnal
 
-## 2. A Békéscsabán a Modern Városok Program keretében kialakítandó SMART Grid rendszer II. ütem és Intelligens közlekedésvezérlő és környezetkímélő közösségi közlekedési rendszer kialakítása tárgyú beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1530/2019. (IX. 17.) Korm. határozat [a továbbiakban: 1530/2019. (IX. 17.) Korm. határozat] 10. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „10. felhívja az innovációért és technológiáért felelős minisztert, hogy az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére Békéscsaba Megyei Jogú Város Önkormányzata és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával a Beruházások megvalósításának kérdésében, a költségek, a forrásigény, az ütemezés és a felelősök, valamint annak bemutatásával, hogy a szükséges források a Modern Városok Program terhére kerülnek biztosításra.
+## 4.[^3]
 
-## Felelős: innovációért és technológiáért felelős miniszter
+## 5.[^4]
 
-## Modern Települések Fejlesztéséért felelős kormánybiztos
-
-## Határidő: 2022. március 31.”
-
-## 3. Az 1530/2019. (IX. 17.) Korm. határozat
-
-## a) 8. pontjában a „2020. december 31.” szövegrész helyébe a „2021. március 31.” szöveg,
-
-## b) 9. pontjában a „2021. szeptember 30.” szövegrész helyébe a „2022. március 31.” szöveg
-
-## lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában a „2019. december 31., a Bethlen Gábor Alap fejezet javára biztosított 2 500 000 000 forint tekintetében 2021. december 31.” szövegrész helyébe a „2019. december 31., a Bethlen Gábor Alap fejezet javára biztosított 2 500 000 000 forint tekintetében 2021. december 31., az Emberi Erőforrások Minisztériuma fejezetben levő Fejezeti kezelésű előirányzatok cím javára biztosított források tekintetében az egyes támogatási jogviszonyokban a támogató részére meghatározott beszámolási határidőt követően azonnal, de legkésőbb 2022. március 31.” szöveg lép.
-
-## 5. A Pannónia Szíve Program keretében a Váli Örökség turisztikai célú fejlesztéséről szóló 1740/2019. (XII. 19.) Korm. határozat 5. pontjában a „2021. február 28.” szövegrész helyébe a „2021. november 30.” szöveg lép.
-
-## 6. Az Iparművészeti Múzeum múzeumszakmai koncepciójának elfogadásáról, valamint a nagyrekonstrukció ideje alatt felmerülő, az átmeneti működéshez szükséges többletforrások biztosításáról szóló 1234/2020. (V. 15.) Korm. határozat 2. pontjában az „597 921 777 forint vonatkozásában 2020. július 1., 317 936 666 forint vonatkozásában 2020. október 1.” szövegrész helyébe a „915 858 443 forint vonatkozásában 2020. november 30.” szöveg lép.
+## 6.[^5]
 
 1. melléklet az 1574/2020. (IX. 9.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
