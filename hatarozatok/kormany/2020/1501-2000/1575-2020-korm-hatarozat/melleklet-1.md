@@ -20,6 +20,8 @@
 
 ## d) egyetért azzal, hogy a belügyminiszter a c) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a kedvezményezett települési önkormányzatok számára.
 
-## 2. A helyi érdekű települési fejlesztések érdekében szükséges források biztosításáról, valamint a IX. Helyi önkormányzatok támogatásai és a XX. Emberi Erőforrások Minisztériuma költségvetési fejezetek közötti előirányzat-átcsoportosításról szóló 1717/2017. (X. 3.) Korm. határozat 3. pontjában foglalt táblázat 50. sorában az „óvodai kapacitásbővítés” szövegrész helyébe a „közétkeztetési feladatok biztosítása” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1575/2020. (IX. 9.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
