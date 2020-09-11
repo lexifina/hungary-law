@@ -12,7 +12,7 @@
 
 | 5. | Sopron labdarúgó sportlétesítmény fejlesztése | Sopron Megyei Jogú Város Önkormányzata | Sopron közigazgatási területén fekvő, 4225 helyrajzi számú ingatlan |
 
-| 6. | Szolnok labdarúgó sportlétesítmény fejlesztése | Szolnok Megyei Jogú Város Önkormányzata | Szolnok közigazgatási területén fekvő, 9735/2 helyrajzi számú ingatlan |
+| 6. |  |  |  |
 
 | 7. | Zalaegerszeg labdarúgó sportlétesítmény fejlesztése | Zalaegerszeg Megyei Jogú Város Önkormányzata | Zalaegerszeg közigazgatási területén fekvő, 3013 és 5750/4 helyrajzi számú ingatlan |
 
