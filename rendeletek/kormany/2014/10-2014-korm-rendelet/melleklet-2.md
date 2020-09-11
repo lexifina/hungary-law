@@ -4,7 +4,7 @@
 
 | 2. | KEOP-2.3.0/2F/09-2009-0014 | Tisza-tavi Régió hulladéklerakóit rekultiváló egycélú Önkormányzati Társulás tagtelepüléseinek felhagyott települési szilárdhulladék-lerakóinak rekultivációja | Tisza-tavi Régió Hulladéklerakóit Rekultiváló Egycélú Önkormányzati Társulás |
 
-| 3. | KEOP-2.3.0/2F/09-2010-0002 | Karcag Kistérség hulladéklerakóinak rekultivációs programja | Karcagi Többcélú Kistérségi Társulás |
+| 3. |  |  |  |
 
 | 4. | KEOP-2.3.0/2F/09/2009-0008 | A Hajdúsági Szilárd Hulladéklerakó és Hasznosító Társulás tagtelepüléseinek felhagyott települési szilárdhulladék-lerakóinak rekultivációja | Hajdúsági Szilárd Hulladék Lerakó és Hasznosító Társulás |
 
@@ -16,13 +16,13 @@
 
 | 8. | KEOP-2.3.0/2F/09-2010-0028 | Hevesi hulladékgazdálkodási program tszh lerakók rekultivációja | Heves Megyei Regionális Hulladékgazdálkodási Társulás |
 
-| 9. | KEOP-2.3.0/2F/09-2010-0007 | REGIO-KOM Térségi Kommunális Szolgáltató Társulás Jászberényi és Dél-Hevesi kistérségében lévő 31 település felhagyott szilárd hulladéklerakójának rekultivációja | REGIO-KOM Térségi Kommunális Szolgáltató Társulás |
+| 9. |  |  |  |
 
 | 10. | KEOP-2.3.0/2F/09-2010-0016 | Gyöngyösi Kistérség Hulladékgazdálkodási Program – TSZH lerakók rekultivációja | Települési Szilárdhulladék-lerakókat Rekultiváló Társulás |
 
 | 11. | KEOP-2.3.0/2F/09-2010-0014 | Duna-Vértes köze regionális hulladékgazdálkodási program tszh lerakók rekultivációja | Duna-Vértes Köze Regionális Hulladékgazdálkodási Társulás |
 
-| 12. | KEOP-2.3.0/2F/09-2010-0003 | Kaposmenti Hulladéklerakó Rekultivációs Program | Kaposmenti Hulladékgazdálkodási Önkormányzati Társulás |
+| 12. |  |  |  |
 
 | 13. | KEOP-2.3.0/2F/09-2010-0027 | Hernád völgye települési szilárd hulladék rekultivációs projekt | Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás |
 
@@ -74,9 +74,9 @@
 
 | 37. | KEOP-2.4.0/2F/09-2010-0003 | Felcsút, 2. számú üzemanyagbázis környezeti kármentesítése | Honvédelmi Minisztérium Védelemgazdasági Hivatal |
 
-| 38. | KEOP-2.4.0/2F/09-2010-0004 | Szolnok, Kilián György úti laktanya MH 86. SZHB központi üzemanyagtelep szénhidrogén szennyezettségének kármentesítése | Honvédelmi Minisztérium Védelemgazdasági Hivatal |
+| 38. |  |  |  |
 
-| 39. | KEOP-2.4.0/2F/09-2010-0006 | Sármellék-Zalavár volt szovjet katonai repülőtér kármentesítése | Sármellék-Zalavár volt szovjet repülőtér kármentesítési feladatait a KEOP 2.4.0 programban való részvétellel megvalósító Önkormányzati Társulás |
+| 39. |  |  |  |
 
 | 40. | KEOP-2.4.0/2F/09-2010-0008 | Az MH ócsai üzemanyagraktár területén feltárt szénhidrogén szennyezettség kármentesítése | Honvédelmi Minisztérium Védelemgazdasági Hivatal |
 
@@ -90,9 +90,9 @@
 
 | 45. | KEOP-2.4.0/B/2F/10-11-2012-0003 | Zirc város területén lévő települési szilárd hulladéklerakó, mint szennyező forrás és a lerakó által okozott szennyezés megszüntetése | Zirc Városi Önkormányzat |
 
-| 46. | KEOP-2.4.0/B/2F/10-11-2012-0004 | Nyíregyháza-Borbánya bezárt hulladéklerakó szennyezés lokalizálása, szennyezés csökkentése | Nyíregyháza Megyei Jogú Város Önkormányzata |
+| 46. |  |  |  |
 
-| 47. | KEOP-2.4.0/B/2F/10-11-2012-0005 | Zalaegerszeg Búslakpusztai bezárt hulladéklerakó okozta szennyezés lokalizációja | Zalaegerszeg Megyei Jogú Város Önkormányzata |
+| 47. |  |  |  |
 
 2. melléklet a 10/2014. (I. 20.) Korm. rendelethez
 
@@ -110,7 +110,7 @@
 
 6. útügyi hatósági eljárások,
 
-7.[^4] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+7.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 8. hírközlési hatósági eljárások,
 
@@ -136,4 +136,4 @@
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 2. melléklet 7. pontja a 380/2016. (XII. 2.) Korm. rendelet 65. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: A 2. melléklet 7. pontja a 380/2016. (XII. 2.) Korm. rendelet 65. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
