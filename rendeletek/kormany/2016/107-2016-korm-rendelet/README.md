@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-107-20-
 | --- | --- | --- |
 | 2016-05-14 | 2016-107-20-22.1 | 107/2016. (V. 13.) Korm. rendelet |
 | 2018-01-01 | 2016-107-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2020-09-11 | 2016-107-20-22.3 | 428/2020. (IX. 10.) Korm. rendelet |
