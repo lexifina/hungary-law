@@ -22,13 +22,13 @@
 
 | 10. | Közép-Duna Vidéke Hulladékgazdálkodási Rendszer fejlesztése | Közép-Duna Vidéke Hulladékgazdálkodási Önkormányzati Társulás | KEOP-1.1.1/2F/09-11-2011-0001 |
 
-| 11. | MECSEK-DRÁVA HULLADÉKGAZDÁLKODÁSI PROGRAM Települési szilárdhulladék-gazdálkodási rendszer fejlesztése | Mecsek-Dráva Önkormányzati Társulás | KEOP-1.1.1/2F-2008-0002 |
+| 11. |  |  |  |
 
 | 12. | Miskolc és térsége Települési Szilárdhulladék-kezelési rendszer továbbfejlesztése | Miskolc és Térsége Konzorcium | KEOP-1.1.1/B/10-2011-0001 |
 
 | 13. | Mosonmagyaróvári Nagytérségi Települési Szilárdhulladék-gazdálkodási Rendszer Fejlesztése | Mosonmagyaróvár Nagytérségi Hulladékgazdálkodási Önkormányzati Társulás | KEOP-1.1.1/2F/09-2010-0007 |
 
-| 14. | REGIO-KOM Térségi Kommunális Szolgáltató Társulás Jászberényi és Dél-Hevesi kistérsége szilárdhulladék-gazdálkodási rendszerének fejlesztése | REGIO-KOM Térségi Kommunális Szolgáltató Társulás | KEOP-1.1.1/2F/09-11-2011-0003 |
+| 14. |  |  |  |
 
 | 15. | Sajó-Bódva Völgye és környéke települési szilárdhulladék-gazdálkodási rendszer fejlesztése | Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás | KEOP-1.1.1/2F/09-11-2011-0005 |
 
@@ -56,7 +56,7 @@
 
 6. útügyi hatósági eljárások,
 
-7.[^4] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+7.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 8. hírközlési hatósági eljárások,
 
@@ -80,4 +80,4 @@
 
 18. továbbá az 1–17. pontban felsorolt ügyfajtákban kiadott hatósági döntések esetleges módosítására irányuló hatósági eljárások.
 
-[^4]: A 2. melléklet 7. pontja a 380/2016. (XII. 2.) Korm. rendelet 40. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: A 2. melléklet 7. pontja a 380/2016. (XII. 2.) Korm. rendelet 40. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
