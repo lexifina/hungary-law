@@ -2,7 +2,7 @@
 
 1. melléklet a 189/2014. (VII. 25.) Korm. rendelethez
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 ## Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
 
@@ -24,7 +24,7 @@
 
 9. útügyi hatósági eljárások,
 
-10.[^6] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+10.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 11. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -48,4 +48,4 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 78. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 78. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
