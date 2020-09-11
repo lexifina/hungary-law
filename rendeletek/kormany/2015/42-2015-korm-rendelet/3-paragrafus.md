@@ -30,6 +30,10 @@ e) az informatikai rendszer szoftver elemeiről (alkalmazások, adatok, operáci
 
 f) jogszabályban meghatározott nyilvántartás ismételt előhívására alkalmas adattároló rendszerrel, amely biztosítja, hogy az archivált anyagokat a jogszabályokban meghatározott ideig, de legalább öt évig, bármikor visszakereshetően, helyreállíthatóan megőrizzék, valamint
 
-g) a szolgáltatásai folyamatosságát akadályozó rendkívüli események kezelésére szolgáló tervvel.
+g) a szolgáltatásai folyamatosságát akadályozó rendkívüli események kezelésére szolgáló tervvel,
+
+h)[^2] olyan elektronikusdokumentum-hitelesítési, valamint digitális archiválási megoldással és eljárásokkal, amelyek biztosítják az elektronikus ügyfélcsatornák alkalmazása során létrejövő elektronikus dokumentumok és adatok valódiságát, valamint a valódiság hosszú távú fenntarthatóságát.
 
 (4) A (3) bekezdés e) pontja szerinti mentéseket kockázati szempontból elkülönítetten és tűzbiztos módon kell tárolni, valamint gondoskodni kell a mentések forrásrendszerrel azonos szintű hozzáférési védelméről.
+
+[^2]: A 3. § (3) bekezdés h) pontját a 399/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be.
