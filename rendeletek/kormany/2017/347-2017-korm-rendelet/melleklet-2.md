@@ -282,7 +282,7 @@
 
 | 141. | Zalaapáti | 0148 | külterület |  |
 
-| 142. | Zalaegerszeg | 0779/3 | külterület |  |
+| 142. |  |  |  |  |
 
 | 143. | Paks | 0181/3, 0181/4, 0181/6, 0187/6, 0187/7, 0187/8, 0184 | külterület | Paks 20 MW |
 
