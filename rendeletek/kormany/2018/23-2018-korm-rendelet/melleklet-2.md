@@ -30,23 +30,23 @@
 
 | 15. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 829/13 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 16. | Nagykanizsa közigazgatási területén elhelyezkedő, 638 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 16. |  |  |
 
-| 17. | Nagykanizsa közigazgatási területén elhelyezkedő, 4386/6 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 17. |  |  |
 
-| 18. | Nagykanizsa közigazgatási területén elhelyezkedő, 0482/2 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 18. |  |  |
 
-| 19. | Nagykanizsa közigazgatási területén elhelyezkedő, 264 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 19. |  |  |
 
-| 20. | Nagykanizsa közigazgatási területén elhelyezkedő, 4001/4 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 20. |  |  |
 
-| 21. | Nagykanizsa közigazgatási területén elhelyezkedő, 0447 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 21. |  |  |
 
-| 22. | Zalaegerszeg közigazgatási területén elhelyezkedő, 4955 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 22. |  |  |
 
-| 23. | Zalaegerszeg közigazgatási területén elhelyezkedő, 24232 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 23. |  |  |
 
-| 24. | Zalaegerszeg közigazgatási területén elhelyezkedő, 697/16 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 24. |  |  |
 
 | 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -64,7 +64,7 @@
 
 | 32. | Hajdúnánás közigazgatási területén elhelyezkedő, 0855/9 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 33. | Belezna közigazgatási területén elhelyezkedő, 0198/6 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+| 33. |  |  |
 
 2. melléklet a 23/2018. (II. 20.) Korm. rendelethez
 
