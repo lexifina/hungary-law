@@ -4,4 +4,4 @@
 
 [^2]: Az 5/A. §-t a 192/2019. (VII. 30.) Korm. rendelet 2. §-a iktatta be.
 [^3]: A hatálybalépés időpontja 2019. július 31.
-[^4]: Az 1. melléklet a 187/2018. (X. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 187/2018. (X. 9.) Korm. rendelet 1. §-a, a 428/2020. (IX. 10.) Korm. rendelet 18. §-a szerint módosított szöveg.
