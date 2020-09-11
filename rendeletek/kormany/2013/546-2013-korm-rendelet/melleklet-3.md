@@ -26,6 +26,6 @@
 
 | 13. | üzletek, kávézók, éttermek és kereskedelmi egységek működési engedélyezésére irányuló eljárások | Budapest Főváros Kormányhivatala |
 
-3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^33]
+3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^35]
 
-[^33]: A 3. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 121. § h) pontja hatályon kívül helyezte.
+[^35]: A 3. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 121. § h) pontja hatályon kívül helyezte.
