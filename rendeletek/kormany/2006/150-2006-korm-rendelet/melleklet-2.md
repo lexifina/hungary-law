@@ -26,19 +26,7 @@
 
 | 11. | komposztáló telep | Budapest XVIII. ker. (hrsz. 140018) | általános építésügyi hatósági engedély | Budapest Főváros Kormányhivatala |
 
-## 2. Zalaegerszeg és térsége szennyvízelvezetés és kezelés
-
-|  | A | B | C | D |
-
-| 1. | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Eljáró engedélyező hatóság |
-
-| 2. | szennyvíztisztító telep | Zalaegerszeg (hrsz. 0940) | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
-
-| 3. | iszaptározó | Zalaszentiván (hrsz. 035) |
-
-| 4. | csatornabővítés | Zalaegerszeg, Alsónemesapáti, Bocfölde, Boncodfölde, Csatár, Kávás, Kisbucsa, Kispáli, Nemesapáti, Nemeshetés, Pusztaszentlászló, Söjtör települések összes csatornája |
-
-| 5. | csatorna- rekonstrukció | Zalaegerszeg összes csatornája |
+## 2.
 
 ## 3. Veszprém és térsége szennyvízelvezetés és kezelés
 
@@ -52,6 +40,6 @@
 
 | 4. | csapadékvízgyűjtő csatorna | Veszprém (43-T- 0, 43-O-0 sz. csatornák) | vízjogi engedély |
 
-2. számú melléklet a 150/2006. (VII. 21.) Korm. rendelethez[^10]
+2. számú melléklet a 150/2006. (VII. 21.) Korm. rendelethez[^11]
 
-[^10]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+[^11]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
