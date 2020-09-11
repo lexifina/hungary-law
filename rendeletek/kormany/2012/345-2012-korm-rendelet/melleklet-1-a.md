@@ -78,7 +78,7 @@
 
 ## 1.1.38. Az M7 autópálya, Székesfehérvár, nyugati csomópont fejlesztése.
 
-## 1.1.39. Az M7 autópálya, 192 km szelvény Zalakomári pihenő tengelysúly- és össztömegmérő állomás megvalósítása.
+## 1.1.39.
 
 ## 1.1.40. Az M8 gyorsforgalmi út M7 autópálya és M6 autópálya (Dunaújváros) közötti szakasz megvalósítása.
 
@@ -298,7 +298,7 @@
 
 ## 1.2.77. A 471. számú főút, Hajdú-Bihar megyei szakasz fejlesztése.
 
-## 1.2.78. 471. számú főút, Szabolcs-Szatmár-Bereg megyei szakasz fejlesztése.
+## 1.2.78.
 
 ## 1.2.79. Az 541. számú főút, 52. számú főút és Kecskemét, Halasi út közötti szakasz megvalósítása.
 
@@ -508,9 +508,7 @@
 
 ## 1.3.89. A Kisvárda keleti elkerülő út Kisvárda Ipari út és a 4108–4109. jelű összekötő utak közötti szakasz fejlesztésének megvalósítása.
 
-## 1.3.90. A 4625. jelű összekötő út M44 autóút és 44. számú főút közötti szakasz fejlesztésének megvalósítása
-
-## a 44. számú főút – 4625. jelű összekötő út kereszteződésében csomópont és szintbeni vasúti átjáró megvalósítása.
+## 1.3.90. A 4625. jelű összekötő út M44 autóút és 44. számú főút közötti szakasz fejlesztésének megvalósítása a 44. számú főút – 4625. jelű összekötő út kereszteződésében csomópont és szintbeni vasúti átjáró megvalósítása.
 
 ## 1.3.91. A debreceni Észak–Nyugati Gazdasági Övezet kialakításához kapcsolódó közúthálózati elemek megvalósítása.
 
@@ -542,7 +540,7 @@
 
 ## 1.4.3. Körforgalmú csomópont kiépítése a 471. számú főút és a 4918. jelű út keresztezésében.
 
-## 1.4.4. Körforgalmú csomópont kiépítése a 471. számú főút és a 4929. jelű út keresztezésében.
+## 1.4.4.
 
 ## 1.4.5. Körforgalmú csomópont kiépítése a 471. számú főút és a Mátészalka, Ipari utca keresztezésében.
 
@@ -554,13 +552,13 @@
 
 ## 1.4.9. Körforgalmú csomópont kiépítése a 41. számú főút és a 4926. jelű út keresztezésében.
 
-## 1.4.10. Körforgalmú csomópont kiépítése a 74. számú főút és a 73231. jelű út keresztezésében.
+## 1.4.10.
 
 ## 1.4.11. Körforgalmú csomópont kiépítése a 6. számú főút és a 65. számú főút keresztezésében.
 
 ## 1.4.12. Körforgalmú csomópont kiépítése a 117. számú főút és az 1117. jelű út keresztezésében.
 
-## 1.4.13. Körforgalmú csomópont kiépítése a 4. számú főút és a 3832. jelű út keresztezésében.
+## 1.4.13.
 
 ## 1.4.14. Körforgalmú csomópont kiépítése a 4. számú főút és a 42. számú főút keresztezésében.
 
@@ -648,7 +646,7 @@
 
 ## 1.4.56. A 41. számú főút Apagy körforgalmi csomópont megvalósítása.
 
-## 1.4.57. A 41. számú főút, Vásárosnamény és Beregsurány közötti szakasz, útcsatlakozások megvalósítása.
+## 1.4.57.
 
 ## 1.4.58. A 36. számú főút és a 3317. jelű útkereszteződés (Nyíregyháza, Mező utcai csomópont) átépítése.
 
@@ -954,7 +952,7 @@
 
 ## 2.1.18. Szombathely vasúti csomópont fejlesztése.
 
-## 2.1.19. GYSEV Zrt. üzemirányító központ megvalósítása (a szükséges biztosítóberendezési felülvezérlés kialakításával).
+## 2.1.19.
 
 ## 2.1.20. Intermodális közlekedési rendszerek fejlesztése a GYSEV Zrt. vonalain és állomásain.
 
@@ -994,7 +992,7 @@
 
 ## 2.1.38. A 120. számú vasútvonal, Békéscsaba – Lőkösháza (országhatár) szakasz fejlesztése.
 
-## 2.1.39. A MÁV Zrt. állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program (kormányablakok 25 helyszínen) megvalósítása (Keszthely, Tapolca, Balatonszentgyörgy, Rákos, Rákoshegy, Kőbánya-Kispest, Kőbánya alsó, Zugló, Kaposvár, Pécs, Békéscsaba, Budapest-Déli pu., Budapest-Keleti pu., Budapest-Nyugati pu., Cegléd, Debrecen, Érd alsó, Győr, Kecskemét, Miskolc-Tiszai pu., Nyíregyháza, Szeged, Székesfehérvár, Szekszárd, Szolnok, Vác állomások felvételi épületeinek felújításával).
+## 2.1.39. A MÁV Zrt. állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program (kormányablakok 25 helyszínen) megvalósítása (Balatonszentgyörgy, Rákos, Rákoshegy, Kőbánya-Kispest, Kőbánya alsó, Zugló, Kaposvár, Pécs, Békéscsaba, Budapest-Déli pu., Budapest-Keleti pu., Budapest-Nyugati pu., Cegléd, Debrecen, Érd alsó, Győr, Kecskemét, Miskolc-Tiszai pu., Nyíregyháza, Szeged, Székesfehérvár, Szekszárd, Szolnok, Vác állomások felvételi épületeinek felújításával).
 
 ## 2.1.40. A 70. számú vasútvonal, megállóhelyek és állomások fejlesztése (Dunakeszi alsó mh., Dunakeszi állomás, Dunakeszi-gyártelep mh., Alsógöd mh., Göd állomás, Felsőgöd mh., Sződ-Sződliget mh., Verőce állomás, Kismaros mh., Nagymaros-Visegrád mh., Nagymaros állomás, Dömösi átkelés mh., Zebegény mh., Szob alsó mh., Szob állomás), valamint a Rákospalota (kiz.) – Szob (bez.) szakasz Központi Forgalomirányítás (KÖFI) kiépítése (a kapcsolódó távfelügyeleti fejlesztésekkel).
 
