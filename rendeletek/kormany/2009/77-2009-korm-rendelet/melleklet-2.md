@@ -184,33 +184,33 @@
 
 | 91. | rekonstrukció | 03.03 Uszód - Solti védelmi szakasz 79+539 tkm Pólyafoki zsilip rekonstrukció | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 92. | töltéserősítés | a Duna jp. 15+600 - 16+900 tkm között mentett oldali leterhelő, szivárgó szőnyeg építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 92. |  |  |  |  |
 
-| 93. | töltéserősítés | a Duna jp. 20+475 - 21+975 tkm között mentett oldali leterhelő, szivárgó szőnyeg építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 93. |  |  |  |  |
 
-| 94. | töltéskorona burkolás | a Duna jp. 25+491 - 26+900 tkm között aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 94. |  |  |  |  |
 
-| 95. | töltéserősítés | a Duna jp. 28+692 - 30+570 tkm között mentett oldali leterhelő-szivárgó szőnyeg, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 95. |  |  |  |  |
 
-| 96. | töltéserősítés | a Duna jp. 30+570 - 36+800 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, mentett oldali leterhelő-szivárgó szőnyeg, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 96. |  |  |  |  |
 
-| 97. | töltéserősítés | a Duna jp. 36+800 - 37+800 tkm között aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 97. |  |  |  |  |
 
-| 98. | töltéserősítés | a Duna jp. 37+800 - 40+700 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, mentett oldali leterhelő-szivárgó szőnyeg, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 98. |  |  |  |  |
 
-| 99. | töltéserősítés | a Duna jp. 44+800 - 45+200 tkm között a mederrészű biztosítása terméskő szórással a meder veszélyes közelsége miatt | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 99. |  |  |  |  |
 
-| 100. | töltéskorona burkolás | a Duna jp. 59+604 - 62+990 tkm között aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 100. |  |  |  |  |
 
-| 101. | töltéskorona burkolás | a Duna jp. 66+539- 84+720 tkm között aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 101. |  |  |  |  |
 
-| 102. | töltéskorona burkolás | a Duna jp. 17+614-19+603 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, mentett oldali rézsűrendezés 1:3-ra, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 102. |  |  |  |  |
 
-| 103. | töltéskorona burkolás | a Váli víz jp. 0+000 - 4+235 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 103. |  |  |  |  |
 
-| 104. | töltéskorona burkolás | a Váli víz bp. 0+000 - 2+829 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 104. |  |  |  |  |
 
-| 105. | töltéserősítés, burkolatépítés | a Szent László víz bp. 0+000 - 4+735 tkm között vízoldali rézsűrendezés 1:3-ra, töltéskorona magasítás MÁSZ+1,0 m-re, szélesítés 4,0 m-re, mentett oldali töltéserősítés 1:3 rézsűhajlással, aszfaltburkolat építése | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
+| 105. |  |  |  |  |
 
 | 106. | töltéserősítés | a Duna jp. 0+030 tkm-ben lévő Báta I. szivattyútelepi épület felújítása, nyomócső javítása, elzáró szerkezet javítása, téglafalazatok vízzáróságának biztosítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
