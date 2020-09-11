@@ -4,4 +4,4 @@
 
 [^3]: A 6. §-t a 355/2016. (XI. 18.) Korm. rendelet 5. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2016. november 19.
-[^5]: Az 1. melléklet a 355/2016. (XI. 18.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 355/2016. (XI. 18.) Korm. rendelet 6. §-a, a 428/2020. (IX. 10.) Korm. rendelet 15. §-a szerint módosított szöveg.
