@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-380-20-
 | 2016-11-30 | 2012-380-20-22.6 | 370/2016. (XI. 29.) Korm. rendelet |
 | 2017-01-01 | 2012-380-20-22.7 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2012-380-20-22.8 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2020-09-11 | 2012-380-20-22.9 | 114/2015. (IV. 30.) Korm. rendelet |

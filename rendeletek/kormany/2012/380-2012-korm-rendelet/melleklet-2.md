@@ -62,7 +62,7 @@
 
 | 30. | KEOP-1.3.0/09-11- 2012-0008 | Nagykálló Város Ivóvízminőség-javító Projekt | Nagykálló |
 
-| 31. | KEOP-1.3.0/09-11- 2012-0018 | Barlahida Község ivóvízhálózatának fejlesztése | Barlahida |
+| 31. |  |  |  |
 
 | 32. | KEOP-1.3.0/2F/09- 2010-0011 | Dunavarsány Város – Szigetszentmárton Község ivóvízminőség javítása | Dunavarsány, Szigetszentmárton |
 
@@ -70,19 +70,19 @@
 
 | 34. | KEOP-1.3.0/2F/09- 2010-0016 | Első Szatmári Ivóvízminőség-javító Projekt | Hodász, Kántorjánosi, Nagydobos, Nyírcsászári, Nyírderzs, Nyírkáta, Nyírparasznya, Őr, Rohod, Szamoskér, Szamosszeg, Tiborszállás, Vaja |
 
-| 35. | KEOP-1.3.0/2F/09- 2010-0018 | Csataszög, Hunyadfalva, Kőtelek, Nagykörű, Tiszasüly Ivóvízminőség-javító Projekt | Csataszög, Hunyadfalva, Kőtelek, Nagykörű, Tiszasüly |
+| 35. |  |  |  |
 
 | 36. | KEOP-1.3.0/2F/09- 2010-0019 | Szatmári Ivóvízminőség-javító projekt | Jármi, Kérsemjén, Kisar, Mátészalka, Nábrád, Nagyar, Nyírcsaholy, Nyírmeggyes, Ópályi, Panyola, Papos, Tivadar |
 
 | 37. | KEOP-1.3.0/2F/09- 2010-0029 | Kelet-Hajdúsági Ivóvízminőség-javító projekt | Hosszúpályi, Létavértes, Mikepércs, Nyíradony, Nyíradony-Tamásipuszta, Vámospércs, Újléta |
 
-| 38. | KEOP-1.3.0/2F/09- 2010-0031 | Jászsági Ivóvízminőség-javító Projekt | Alattyán, Jánoshida, Jászapáti, Jászboldogháza, Jászivány, Jászkisér, Jászladány, Pusztamonostor |
+| 38. |  |  |  |
 
 | 39. | KEOP-1.3.0/2F/09- 2010-0032 | Beregi Ivóvízminőség-javító Projekt | Jánd, Vásárosnamény-Gergelyiugornya, Vásárosnamény-Perényitanya, Dombrád, Nyírmada, Pusztadobos, Tiszaadony, Tiszaszalka, Tiszavid, Vásárosnamény |
 
 | 40. | KEOP-1.3.0/2F/09- 2010-0036 | Nyírségi Ivóvízminőség-javító projekt | Baktalórántháza, Bátorliget, Bocskaikert, Bököny, Érpatak, Geszteréd, Kisléta, Laskod, Nyírbogát, Nyírjákó, Nyírkarász, Nyírkércs, Petneháza, Ramocsaháza, Téglás, Terem, Újfehértó |
 
-| 41. | KEOP-1.3.0/2F/09- 2011-0002 | Tiszazugi Ivóvízminőség-javító Projekt | Csépa, Cserkeszőlő, Martfű, Nagyrév, Öcsöd, Szelevény, Szelevény-Pálóczipuszta, Tiszainoka, Tiszaföldvár, Tiszakürt, Tiszasas, Tiszaug, Kunszentmárton, Kunszentmárton-Kungyalu, Tiszakürt-Bogaras |
+| 41. |  |  |  |
 
 | 42. | KEOP-7.1.0/11/2011-0110 | Csokonyavisonta és Rinyaújlak ivóvízminőség-javítási projekt előkészítése | Csokonyavisonta, Rinyaújlak |
 
@@ -98,7 +98,7 @@
 
 | 48. | KEOP-7.1.0/11-2011-0038 | Ivóvízminőség-javítási beruházás Nyírábrány településen | Nyírábrány |
 
-| 49. | KEOP-7.1.0/11-2011-0044 | Tiszaszőlős község ivóvíz-minőségének javítása a derogáció keretében | Tiszaszőlős |
+| 49. |  |  |  |
 
 | 50. | KEOP-7.1.0/11-2011-0045 | Magyarmecske és Térsége Ivóvízminőség-javító Programja | Magyarmecske, Magyartelek, Kisasszonyfa, Gilvánfa |
 
@@ -116,7 +116,7 @@
 
 | 57. | KEOP-7.1.0/11-2011-0058 | Bagamér és Álmosd ivóvízminőség-javító beruházása | Álmosd, Bagamér |
 
-| 58. | KEOP-7.1.0/11-2011-0059 | Tiszajenő és Tiszavárkony ivóvízminőség-javító beruházása | Tiszajenő, Tiszavárkony |
+| 58. |  |  |  |
 
 | 59. | KEOP-7.1.0/11-2011-0061 | Ivóvízminőség-javító beruházás Balkány településen | Balkány, Balkány-Abapuszta, Balkány-Perkedpuszta |
 
@@ -130,7 +130,7 @@
 
 | 64. | KEOP-7.1.0/11-2011-0082 | Királyegyháza és Térsége Ivóvízminőség-javító Programja | Királyegyháza, Szentdénes, Sumony, Gyöngyfa |
 
-| 65. | KEOP-1.3.0/2F/09- 2010-0033 | Berettyó-Körös Ivóvízminőség-javító Projekt | Kétpó, Mesterszállás, Mezőhék, Mezőtúr, Túrkeve |
+| 65. |  |  |  |
 
 | 66. | KEOP-7.1.0/11-2011-0106 | Darány ivóvízminőség-javítási projekt előkészítése | Darány |
 
@@ -138,7 +138,7 @@
 
 | 68. | KEOP-7.1.0/11-2011-0113 | Mindszent vízellátó rendszerének önálló fejlesztése | Mindszent |
 
-| 69. | KEOP-7.1.0/11-2011-0116 | Ivóvízminőség-javítás Gönc településen | Gönc |
+| 69. |  |  |  |
 
 | 70. | KEOP-7.1.0/11-2011-0119 | Háromfa és Bakháza Ivóvízminőség-javító Program | Háromfa, Bakháza |
 
@@ -156,7 +156,7 @@
 
 | 77. | KEOP-7.1.3.0/09- 2010-0014 | Surján Völgyi Ivóvízminőség javító program | Bőszénfa, Sántos, Szentbalázs, Cserénfa, Hajmás, Kaposgyarmat, Gálosfa |
 
-| 78. | KEOP-7.1.3.0/09- 2010-0017 | A ZALAVÍZ Zrt. szolgáltatási területén (Észak- és Közép-Zala megye) lévő településeinek ivóvízminőség javítása és vízellátás fejlesztése | Zalaegerszeg, Bagod, Becsvölgye, Boncodfölde, Csonkahegyhát, Dobronhegy, Hagyárosbörönd, Kávás, Kustánszeg, Milejszeg, Németfalu, Pálfiszeg, Zalaboldogfa Zalaszentgyörgy |
+| 78. |  |  |  |
 
 | 79. | KEOP-7.1.3.0/09- 2010-0018 | Drávamenti Ivóvízminőség-javító program | Adorjás, Baranyahidvég, Drávacsehi, Drávapalkonya, Drávaszabolcs, Gordisa, Illocska, Kisszentmárton-Mailáthpuszta, Kórós, Lapáncsa, Magyarbóly, Matty, Sámod |
 
@@ -206,9 +206,9 @@
 
 | 102. | KEOP-1.3.0/2F/09- 2010-0023 | Vízminőség javítás Káld kistérségben | Káld, Borgáta, Duka, Egyházashetye, Kissomlyó |
 
-| 103. | KEOP-1.3.0/2F/09- 2010-0030 | Törökszentmiklós és Térsége Ivóvízminőség-javító Projekt | Örményes, Kuncsorba, Tiszabő, Tiszatenyő, Törökszentmiklós |
+| 103. |  |  |  |
 
-| 104. | KEOP-1.3.0/2F/09- 2010-0034 | Karcag-Kenderes Ivóvízminőség-javító Projekt | Karcag, Kenderes |
+| 104. |  |  |  |
 
 | 105. | KEOP-1.3.0/09- 11-2011-0002 | Ivóvízminőség javító beruházás Szakály községben | Szakály |
 
@@ -220,7 +220,7 @@
 
 | 109. | KEOP-1.3.0/2F/09- 2010-0027 | Jákó Község ammónium-mentesítés megoldása | Jákó |
 
-| 110. | KEOP-1.3.0/2F/09- 2010-0035 | Abádszalók – Tiszaroff Ivóvízminőség-javító Projekt | Abádszalók, Tiszaroff |
+| 110. |  |  |  |
 
 | 111. | KEOP-1.3.0/09-11- 2011-0006 | Kisteleki ivóvízminőség-javító projekt | Kistelek, Csengele |
 
@@ -232,11 +232,11 @@
 
 | 115. | KEOP-1.3.0/09-11- 2011-0022 | Kalocsa környéki Ivóvízminőség Javító Projekt | Dunatetétlen, Harta, Ordas, Solt, Bátya, Drágszél, Dunapataj, Dunaszentbenedek, Dusnok, Fajsz, Foktő, Géderlak, Homokmégy, Kalocsa, Miske, Öregcsertő, Szakmár, Újtelek, Uszód |
 
-| 116. | KEOP-1.3.0/09-11- 2011-0029 | Gyűrűs-Pókaszepetk települések ivóvízminőség-javítása | Pókaszepetk, Gyűrűs, Zalaistvánd, Kemendollár, Vöckönd |
+| 116. |  |  |  |
 
 | 117. | KEOP-1.3.0/09-11- 2011-0035 | Sió-Kapos Ivóvízminőség-javító Projekt | Simontornya, Pálfa, Pálfa-Felsőrácegres, Tolnanémedi |
 
-| 118. | KEOP-1.3.0/09-11- 2011-0037 | Zalavári Ivóvízminőség-javító Program | Zalavár |
+| 118. |  |  |  |
 
 | 119. | KEOP-1.3.0/09-11- 2011-0040 | Kerepes Nagyközség és Kistarcsa Város ivóvízminőség-javító programja | Kerepes, Kistarcsa |
 
@@ -314,7 +314,7 @@
 
 | 156. | KEOP-1.3.0/09-11- 2013-0020 | Ivóvízminőség-javító beruházás Balkány településen | Balkány-Abapuszta, Balkány-Perkedpuszta |
 
-| 157. | KEOP-1.3.0/09-11- 2013-0021 | Tiszajenő és Tiszavárkony ivóvízminőség-javító beruházása | Tiszajenő, Tiszavárkony-Szőlő, Tiszavárkony |
+| 157. |  |  |  |
 
 | 158. | KEOP-1.3.0/09-11- 2013-0022 | Nagykőrös város ivóvízminőség-javító beruházása | Nagykőrös |
 
@@ -342,7 +342,7 @@
 
 | 170. | KEOP-1.3.0/09-11- 2013-0038 | Káptalanfa és térsége vízellátó rendszer vízminőség-javítása | Káptalanfa, Nemeshany, Gyepükaján, Bodorfa |
 
-| 171. | KEOP-1.3.0/09-11- 2013-0044 | Cered térségi vízellátó rendszer ivóvízminőség javítása | Cered, Cered-Tótújfalu, Zabar, Szilaspogony |
+| 171. |  |  |  |
 
 | 172. | KEOP-1.3.0/09-11- 2013-0062 | Ivóvízminőség javító beruházás a Kecskemét, 59. Szentgyörgyi Dezső repülőbázis területén | Kecskemét |
 
@@ -386,21 +386,21 @@
 
 | 192. | KEOP-1.3.0/09-11- 2013-0053 | Szedres ivóvízminőség-javítása | Szedres |
 
-| 193. | KEOP-1.3.0/09-11- 2013-0055 | Ivóvízminőség-javító beruházás Jászdózsa településen | Jászdózsa |
+| 193. |  |  |  |
 
-| 194. | KEOP-1.3.0/09-11- 2013-0056 | Kunhegyes vízminőség-javítás és vízbázis fejlesztés | Kunhegyes |
+| 194. |  |  |  |
 
 | 195. | KEOP-1.3.0/09-11- 2013-0057 | Apagy és Térsége ivóvízminőség-javító projekt | Apagy, Nyíregyháza-Nyírszőlős, Oros, Napkor, Levelek, Ófehértó, Ófehértó-Ligettanya |
 
 | 196. | KEOP-1.3.0/09-11- 2013-0060 | Ivóvízminőség-javító beruházás Kokad településen | Kokad |
 
-| 197. | KEOP-1.3.0/09-11- 2013-0078 | Tiszaszőlős község ivóvíz-minőségének javítása a derogáció keretében | Tiszaszőlős |
+| 197. |  |  |  |
 
 | 198. | KEOP-1.3.0/09-11- 2013-0058 | Háromfa és Bakháza Ivóvízminőség-javító Program | Háromfa, Bakháza |
 
 | 199. | KEOP-1.3.0/09-11- 2013-0029 | Nyírbátor és térsége ivóvízminőség-javító projekt | Nyírbátor, Nyírvasvári, Nyírgyulaj |
 
-| 200. | KEOP-1.3.0/09-11- 2013-0061 | Berekfürdő Ivóvízminőség-javítási projekt | Berekfürdő |
+| 200. |  |  |  |
 
 | 201. | KEOP-1.3.0/09-11- 2013-0064 | A Fejér Megyei Integrált Szociális Intézmény Polgárdi-Tekerespusztai telephelyének ivóvízminőség- javítása | Polgárdi-Tekerespuszta |
 
@@ -408,7 +408,7 @@
 
 | 203. | KEOP-1.3.0/09-11- 2013-0088 | Ivóvízminőség javítása Monoron | Monor |
 
-| 204. | KEOP-1.3.0/09-11- 2013-0085 | Tiszaörs és Tiszaigar ivóvízminőség-javító projekt | Tiszaörs |
+| 204. |  |  |  |
 
 | 205. | KEOP-1.3.0/09-11- 2013-0077 | Csurgói Ivóvízminőség-javító Program | Csurgó |
 
@@ -436,13 +436,13 @@
 
 | 217. | KEOP-1.3.0/09-11- 2013-0089 | Szigethalom vizének átvétellel történő javítása | Szigethalom |
 
-| 218. | KEOP-1.3.0/09-11- 2013-0090 | Ivóvízminőség-javító beruházás Jászfelsőszentgyörgy településen | Jászfelsőszentgyörgy |
+| 218. |  |  |  |
 
-| 219. | KEOP-1.3.0/09-11- 2013-0092 | Jászalsószentgyörgy ivóvízminőség-javítási projekt | Jászalsószentgyörgy |
+| 219. |  |  |  |
 
 | 220. | KEOP-1.3.0/09-11- 2013-0097 | Celldömölk Város Ivóvízminőség-javítása | Celldömölk |
 
-| 221. | 2004/HU/16/C/PE/005 | Az ivóvízminőség-javítása a magyarországi Észak-alföldi Régióban | Kunmadaras, Kisújszállás, Nagyiván |
+| 221. |  |  |  |
 
 2. melléklet a 380/2012. (XII. 19.) Korm. rendelethez
 
