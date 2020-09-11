@@ -1,3 +1,0 @@
-5. § (1) A Beruházással érintett építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 4. számú melléklet 7. pontja szerint elhelyezendő személygépkocsik számát azzal az eltéréssel kell meghatározni, hogy egy személygépkocsi elhelyezését minden megkezdett 40 férőhely után kell biztosítani.
-
-(2) A Beruházással érintett ingatlanon a tervezett látogatóközpont épületéhez kapcsolódóan zárt szennyvíztároló (szivárgásmentes kialakítással, rendszeres ürítéssel, ellenőrzött elszállítással) létesíthető.
