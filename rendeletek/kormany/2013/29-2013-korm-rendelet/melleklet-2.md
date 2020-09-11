@@ -16,7 +16,7 @@
 
 7. útügyi hatósági eljárások,
 
-8.[^11] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+8.[^12] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 9. hírközlési hatósági eljárások,
 
@@ -38,9 +38,9 @@
 
 18. közegészségügyi hatósági eljárások,
 
-19.[^12] víziközmű-szolgáltatással összefüggő hatósági eljárások (víziközmű-szolgáltatói engedély kiadása, működési engedély kiadása, Gördülő Fejlesztési Terv jóváhagyása),
+19.[^13] víziközmű-szolgáltatással összefüggő hatósági eljárások (víziközmű-szolgáltatói engedély kiadása, működési engedély kiadása, Gördülő Fejlesztési Terv jóváhagyása),
 
 továbbá a felsorolt ügyfajtákban kiadott hatósági döntések esetleges módosítására irányuló hatósági eljárások.
 
-[^11]: A 2. melléklet 8. pontja a 380/2016. (XII. 2.) korm. rendelet 38. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
-[^12]: A 2. melléklet 19. pontját a 370/2016. (XI. 29.) Korm. rendelet 4. §-a iktatta be.
+[^12]: A 2. melléklet 8. pontja a 380/2016. (XII. 2.) korm. rendelet 38. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^13]: A 2. melléklet 19. pontját a 370/2016. (XI. 29.) Korm. rendelet 4. §-a iktatta be.

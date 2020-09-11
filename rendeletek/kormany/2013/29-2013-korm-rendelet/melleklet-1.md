@@ -1,8 +1,8 @@
-## 9. §[^8] E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel [a továbbiakban: 370/2016. (XI. 29.) Korm. rendelet] megállapított rendelkezéseit a 370/2016. (XI. 29.) Korm. rendelet hatálybalépésekor[^9] folyamatban lévő ügyekben is alkalmazni kell.
+## 9. §[^9] E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel [a továbbiakban: 370/2016. (XI. 29.) Korm. rendelet] megállapított rendelkezéseit a 370/2016. (XI. 29.) Korm. rendelet hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^10]
+1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^11]
 
-## A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
+A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
 
 1. Támogatói döntéssel rendelkező projektek
 
@@ -590,7 +590,7 @@
 
 | 291. | LÉTAVÉRTES VÁROSI ÖNKORMÁNYZAT | Létavértes | – | KEOP-7.1.0/11- 2013-0012 |
 
-* A KEOP azonosítók közlése tájékoztató jellegű, azok a projektek könnyebb beazonosíthatóságát szolgálják. Az előkészítési fázisban levő projektek a megvalósítás szakaszában új azonosítóval rendelkeznek majd.
+## * A KEOP azonosítók közlése tájékoztató jellegű, azok a projektek könnyebb beazonosíthatóságát szolgálják. Az előkészítési fázisban levő projektek a megvalósítás szakaszában új azonosítóval rendelkeznek majd.
 
 2. Értékelés alatt álló projektek
 
@@ -600,15 +600,15 @@
 
 | 2. | BUDAPEST-BUDAÖRS SZENNYVÍZELVEZETÉSI BERUHÁZÓ ÖNKORMÁNYZATI TÁRSULÁS | KEOP-1.2.0/09-11-2011-0056 |
 
-| 3. | DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ ÖNKORMÁNYZATI TÁRSULÁS (SOMOGYTÚR AGGLOMERÁCIÓ) | KEOP-1.2.0/09-11-2012-0012 |
+| 3. |  |  |
 
 | 4. | DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ ÖNKORMÁNYZATI TÁRSULÁS (KARÁD AGGLOMERÁCIÓ) | KEOP-1.2.0/09-11-2012-0013 |
 
-| 5. | DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ ÖNKORMÁNYZATI TÁRSULÁS (SIÓFOK AGGLOMERÁCIÓ) | KEOP-1.2.0/09-11-2012-0014 |
+| 5. |  |  |
 
 | 6. | DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ ÖNKORMÁNYZATI TÁRSULÁS (KÉTHELY AGGLOMERÁCIÓ) | KEOP-1.2.0/09-11-2012-0015 |
 
-| 7. | DÉL-BALATONI SZENNYVÍZELVEZETÉS ÉS TISZTÍTÁS MEGVALÓSÍTÁSÁT CÉLZÓ ÖNKORMÁNYZATI TÁRSULÁS (BALATONLELLE AGGLOMERÁCIÓ) | KEOP-1.2.0/09-11-2012-0016 |
+| 7. |  |  |
 
 | 8. | KISTELEK VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2012-0011 |
 
@@ -636,7 +636,7 @@
 
 | 20. | KAZINCBARCIKA VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2012-0030 |
 
-| 21. | KEHIDAKUSTÁNY KÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2012-0031 |
+| 21. |  |  |
 
 | 22. | ELŐSZÁLLÁS NAGYKÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0001 |
 
@@ -674,9 +674,9 @@
 
 | 39. | ZALASZENTGRÓT – TEKENYE SZENNYVÍZKEZELÉSI ÖNKORMÁNYZATI TÁRSULÁS | KEOP-1.2.0/09-11-2013-0027 |
 
-| 40. | TUNYOGMATOLCS KÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0029 |
+| 40. |  |  |
 
-| 41. | KÁLLÓSEMJÉN NAGYKÖZSÉG ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0031 |
+| 41. |  |  |
 
 | 42. | HAJDÚHADHÁZ ÉS TÉGLÁS SZENNYVÍZ BERUHÁZÁSI TÁRSULÁSA | KEOP-1.2.0/09-11-2013-0032 |
 
@@ -780,6 +780,6 @@
 
 | 90. | BUDAKALÁSZ VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0064 |
 
-[^8]: A 9. §-t a 370/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2016. november 30.
-[^10]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^9]: A 9. §-t a 370/2016. (XI. 29.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2016. november 30.
+[^11]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a, a 428/2020. (IX. 10.) Korm. rendelet 8. §-a szerint módosított szöveg.
