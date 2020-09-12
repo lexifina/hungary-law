@@ -78,8 +78,6 @@ emberi erőforrások minisztere
 
 Határidő: a feltételes közbeszerzési eljárást követő 60 napon belül
 
-16. visszavonja
+16.[^1]
 
-a) a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia megvalósításához szükséges intézkedésekről, valamint a beruházás előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1883/2017. (XI. 30.) Korm. határozatot,
-
-b) a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia megvalósítása további előkészítésének a Beruházás Előkészítési Alap terhére történő finanszírozásáról szóló 1358/2019. (VI. 14.) Korm. határozatot.
+[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
