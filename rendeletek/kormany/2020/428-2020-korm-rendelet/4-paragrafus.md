@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a budapesti központi szennyvíztisztító telep és kapcsolódó létesítményei projekt, a Zalaegerszeg és térsége szennyvízelvezetési és kezelési projekt és a Veszprém és térsége szennyvízelvezetési és kezelési projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 150/2006. (VII. 21.) Korm. rendelet 1. § (1) bekezdés b) pontja és 1. számú melléklet 2. pontja.
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
