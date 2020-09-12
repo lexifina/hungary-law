@@ -50,4 +50,6 @@ Felelős: agrárminiszter
 
 Határidő: azonnal
 
-5. visszavonja a mintagazdaságok kijelöléséről szóló 1063/2016. (II. 25.) Korm. határozatot, valamint a Szomor Biogazdaság mintagazdaságként való kijelöléséről szóló 1388/2016. (VII. 21.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
