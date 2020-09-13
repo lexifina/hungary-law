@@ -1,5 +1,3 @@
-## jelöli ki.
-
 11. §[^26] (1) Erdészeti hatóságként – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az erdőterület fekvése szerint illetékes, a 2. mellékletben meghatározott megyei kormányhivatal jár el. Budapest területén fekvő erdőterület esetén a Pest Megyei Kormányhivatal jár el.
 
 (2) Az (1) bekezdés szerinti erdészeti hatóság felügyeleti szerveként a miniszter jár el.

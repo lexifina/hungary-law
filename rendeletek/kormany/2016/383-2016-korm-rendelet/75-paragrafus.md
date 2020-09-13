@@ -1,5 +1,3 @@
-## 74. § A kötelező növényvédelmi technológia – zárlati károsító elterjedésének megelőzése érdekében országos jelentőségű védett természeti területen történő – alkalmazásának elrendelésére irányuló eljárásban szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint és a további feltételek mellett megfelel-e.
-
 ## 31. A talajvédelmi hatósági eljárásokban vizsgálandó szakkérdések
 
 75. § (1) A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése és az engedély meghosszabbítása iránti eljárásban, továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti eljárásban szakkérdésként kell vizsgálni
@@ -14,6 +12,6 @@ a) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállí
 
 b) ásványi nyersanyag kitermeléssel jár, szakkérdésként kell vizsgálni a kitermelni tervezett ásványi nyersanyag mennyiségét, fajtáját, felhasználását, a hasznosítás módjának meghatározását, az ásványvagyon-védelmi szempontok érvényesítését, valamint a bányajáradék-fizetési kötelezettséget.
 
-(3)[^195] A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban a bányászati hatáskörben eljáró megyei kormányhivatalt kell szakértőként kirendelni.
+(3)[^196] A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban a bányászati hatáskörben eljáró megyei kormányhivatalt kell szakértőként kirendelni.
 
-[^195]: A 75. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (42) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^196]: A 75. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (42) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

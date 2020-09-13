@@ -8,7 +8,7 @@ c) 24. § (1) bekezdésében a nyilvántartásba vétel, illetve annak honlapon 
 
 d)[^24] 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében, 24. § (2) bekezdésében a megyei kormányhivatal
 
-## a kijelölt borászati hatóság.
+a kijelölt borászati hatóság.
 
 (2) A Kormány a továbbfeldolgozási vagy kiszerelési céllal Magyarország területére behozott, az Európai Gazdasági Térség valamely szerződő államában közfogyasztásra forgalomba még nem hozott borászati termék bor származási bizonyítványának kiállításához szükséges igazolás kiállítására a NÉBIH-et jelöli ki. Az igazolás kiállítása során a NÉBIH a bortétel és a kísérődokumentumban foglaltak egyezőségét vizsgálja. A NÉBIH az igazolást 90 napon belül hatósági bizonyítvány formájában adja ki.
 
@@ -17,6 +17,8 @@ d)[^24] 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintet�
 a) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: hegyközségi törvény) 29. §-ában,
 
 b) az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vámtv.) 11. § (1) bekezdés e) pont ek) alpontjában
+
+meghatározott borászati hatóság.
 
 [^23]: A 9. § (1) bekezdés b) pontja a 30/2020. (II. 29.) Korm. rendelet 29. § (4) bekezdése szerint módosított szöveg.
 [^24]: A 9. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja, (45) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

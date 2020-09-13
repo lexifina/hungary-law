@@ -16,7 +16,7 @@ a) az Ávtv. 30. § (1) és (6) bekezdésében, 31. § (1) és (2) bekezdésébe
 
 b) a súlyos, várhatóan hosszú ideig tartó és nem enyhíthető fájdalommal, szenvedéssel vagy kínnal járó állatkísérletek kivételével az Ávtv. 32. § (1)–(3) bekezdésében és 33. § (1)–(3) bekezdésében
 
-## foglaltak tekintetében.
+foglaltak tekintetében.
 
 (6)[^13] Az Ávtv. 19/A. § (2) bekezdésében, 24/A. § (1), (2), (4) és (8) bekezdésében, 24/B. § (1), (2) és (4) bekezdésében, 24/C. § (1)–(4) bekezdésében, 41. § (1) bekezdésében, 42/A. § (1a) bekezdésében foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal a kijelölt állatvédelmi hatóság.
 

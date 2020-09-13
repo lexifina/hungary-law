@@ -18,6 +18,6 @@ g) 28. § (7) bekezdésében,
 
 h) 38/A. § (4) bekezdésében
 
-## meghatározott vadászati hatóság a Pest Megyei Kormányhivatal.
+meghatározott vadászati hatóság a Pest Megyei Kormányhivatal.
 
 (3) A Kormány a 2012. évi CXX. törvény 9. § (3) bekezdés d) pontja tekintetében vadászati hatóságként a Pest Megyei Kormányhivatalt jelöli ki.

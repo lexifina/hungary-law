@@ -10,8 +10,8 @@ a) a szelektív méregnek a vadgazdálkodási, humán- vagy állategészségügy
 
 b) a mesterséges vadtenyésztési tevékenység folytatására, vad zárttéri tartására, valamint vad vadászterületre történő kiengedésére irányuló engedélyezési eljárásban
 
-## szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.
+szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.
 
-(4)[^196] Apróvadra történő vadászat esetén a jogszabályban meghatározott vadászati idény védett természeti területen történő meghosszabbítására, rövidebb időszakban történő megállapítására, egy vagy több vadfaj vadászatának a vadászati idényen belüli megtiltására vagy korlátozására irányuló eljárásban szakkérdésként kell vizsgálni, hogy a természet védelmére vonatkozó nemzeti és európai uniós jogi követelmények a kérelemben foglaltak szerint megfelelően érvényesülnek-e.
+(4)[^197] Apróvadra történő vadászat esetén a jogszabályban meghatározott vadászati idény védett természeti területen történő meghosszabbítására, rövidebb időszakban történő megállapítására, egy vagy több vadfaj vadászatának a vadászati idényen belüli megtiltására vagy korlátozására irányuló eljárásban szakkérdésként kell vizsgálni, hogy a természet védelmére vonatkozó nemzeti és európai uniós jogi követelmények a kérelemben foglaltak szerint megfelelően érvényesülnek-e.
 
-[^196]: A 76. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 24. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^197]: A 76. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 24. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

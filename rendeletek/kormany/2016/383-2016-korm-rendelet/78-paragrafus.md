@@ -1,4 +1,4 @@
-## 78. § Szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e
+78. § Szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek a kérelemben foglaltak szerint megfelel-e
 
 a) a vadászati jog kényszerhasznosításának elrendelésére irányuló eljárásban, ha a kényszerhasznosított vadászterület határa védett természeti területet oszt meg,
 

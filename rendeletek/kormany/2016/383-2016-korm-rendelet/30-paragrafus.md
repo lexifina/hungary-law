@@ -1,8 +1,6 @@
-## jelöli ki.
+30. § (1)[^101] Halgazdálkodási hatóságként – ha kormányrendelet eltérően nem rendelkezik – a halgazdálkodási vízterület medrének fekvése szerint illetékes megyei kormányhivatal (a továbbiakban: területi halgazdálkodási hatóság) jár el – a (2) bekezdésben foglalt kivétellel – a megyére kiterjedő illetékességi területen.
 
-30. § (1)[^100] Halgazdálkodási hatóságként – ha kormányrendelet eltérően nem rendelkezik – a halgazdálkodási vízterület medrének fekvése szerint illetékes megyei kormányhivatal (a továbbiakban: területi halgazdálkodási hatóság) jár el – a (2) bekezdésben foglalt kivétellel – a megyére kiterjedő illetékességi területen.
-
-(2)[^101] A Pest Megyei Kormányhivatal illetékessége területi halgazdálkodási hatóságként a fővárosra és Pest megye területére terjed ki.
+(2)[^102] A Pest Megyei Kormányhivatal illetékessége területi halgazdálkodási hatóságként a fővárosra és Pest megye területére terjed ki.
 
 (3) A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 67. § (1) bekezdése szerinti közigazgatási hatósági eljárásban a jogsértő személy lakóhelye szerint illetékes területi halgazdálkodási hatóság jár el.
 
@@ -20,8 +18,8 @@ d) két vagy több területi halgazdálkodási hatóság illetékességi terüle
 
 (6) A Hhvtv. 67. § (2) bekezdése szerinti közigazgatási hatósági eljárásban a vízilétesítmény elhelyezkedése szerint illetékes területi halgazdálkodási hatóság jár el.
 
-(7)[^102] A területi halgazdálkodási hatóság felügyeleti szerveként a miniszter jár el.
+(7)[^103] A területi halgazdálkodási hatóság felügyeleti szerveként a miniszter jár el.
 
-[^100]: A 30. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. és 11. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^101]: A 30. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^102]: A 30. § (7) bekezdését a 186/2018. (X. 9.) Korm. rendelet 15. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 12. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^101]: A 30. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. és 11. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^102]: A 30. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^103]: A 30. § (7) bekezdését a 186/2018. (X. 9.) Korm. rendelet 15. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 12. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

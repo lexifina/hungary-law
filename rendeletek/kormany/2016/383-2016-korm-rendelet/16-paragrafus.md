@@ -1,5 +1,3 @@
-## 15. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 71. § (3) bekezdése alapján a miniszter a NÉBIH közreműködésével a megyei kormányhivatalok és a járási hivatalok jogalkalmazási gyakorlatának alapjait ismertető közleményt ad ki.
-
 16. § (1) Az országos főállatorvos – a NÉBIH útján –
 
 a) állatjárványügyi intézkedésként elrendeli megfigyelési körzet kialakítását, vakcinázást, gyógykezelést, vagy szolgáltató állatorvosok közcélú igénybevételét,

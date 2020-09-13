@@ -1,6 +1,6 @@
 ## 14. A szolgáltatás felügyeletét ellátó hatóság kijelölése
 
-## 51. § A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) szerinti szolgáltatás felügyeletét ellátó hatóságként
+51. § A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) szerinti szolgáltatás felügyeletét ellátó hatóságként
 
 a) a NÉBIH-et jelöli ki
 
@@ -14,8 +14,10 @@ ad) a vágóállatok vágás utáni minősítése szolgáltatási tevékenység,
 
 ae) a Vtv.-ben szabályozott hivatásos vadász tevékenysége,
 
-b)[^163] a növénytermesztési hatóságként eljáró megyei kormányhivatalt jelöli ki a vetőmagtörvényben szabályozott, a szőlő-, gyümölcs-, dísznövény-, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyagok előállítása és forgalomba hozatala szolgáltatási tevékenység,
+b)[^164] a növénytermesztési hatóságként eljáró megyei kormányhivatalt jelöli ki a vetőmagtörvényben szabályozott, a szőlő-, gyümölcs-, dísznövény-, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyagok előállítása és forgalomba hozatala szolgáltatási tevékenység,
 
 c) az állatotthon helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalt jelöli ki az állatotthon létesítése és üzemeltetése
 
-[^163]: Az 51. § b) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+tekintetében.
+
+[^164]: Az 51. § b) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

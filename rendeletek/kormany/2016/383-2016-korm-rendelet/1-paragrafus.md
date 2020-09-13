@@ -2,7 +2,7 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-## 1. § E rendelet alkalmazásában a földügyi igazgatás kiterjed
+1. § E rendelet alkalmazásában a földügyi igazgatás kiterjed
 
 a) az ingatlan-nyilvántartással,
 
@@ -19,3 +19,5 @@ f) a földtulajdoni és a földhasználati előírások érvényesülésével,
 g) a földforgalommal,
 
 h) a telekalakítással
+
+összefüggő feladatok ellátására.

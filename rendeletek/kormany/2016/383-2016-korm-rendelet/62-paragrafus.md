@@ -1,0 +1,1 @@
+62. § A NÉBIH jogosult a Vtv. I/A. Fejezetében meghatározott tevékenységek ellenőrzésére. Ez a rendelkezés nem érinti a területi, illetve az országos vadászati hatóság ellenőrzési és intézkedési jogosultságát.

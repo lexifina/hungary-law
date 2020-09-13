@@ -1,5 +1,3 @@
-## összefüggő feladatok ellátására.
-
 ## II. Fejezet
 
 ## SZAKMAI IRÁNYÍTÁS A FÖLDMŰVELÉSÜGYI ÁGAZAT TERÜLETÉN
@@ -12,7 +10,7 @@ a) a földügyi és az erdészeti igazgatás kivételével a Nemzeti Élelmiszer
 
 b) az erdészeti igazgatás területén a Nemzeti Földügyi Központ (a továbbiakban: NFK)
 
-## jogszabályban meghatározottak szerint támogatja.
+jogszabályban meghatározottak szerint támogatja.
 
 (3) A fővárosi és megyei kormányhivatalnak az (1) bekezdésben, valamint a NÉBIH-nek e rendeletben meghatározott hatáskörébe tartozó közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket a miniszter gyakorolja.
 

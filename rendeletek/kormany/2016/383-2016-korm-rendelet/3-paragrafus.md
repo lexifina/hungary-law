@@ -14,7 +14,7 @@ b) fővárosi és megyei kormányhivatal illetékességi területe a hatáskör�
 
 c)[^3]
 
-## terjed ki.
+terjed ki.
 
 (4)[^4]
 

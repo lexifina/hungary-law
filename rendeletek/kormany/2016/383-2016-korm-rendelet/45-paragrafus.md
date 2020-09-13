@@ -1,14 +1,16 @@
 ## 11. A növénytermesztési hatóság kijelölése
 
-## 45. § A Kormány növénytermesztési hatóságként
+45. § A Kormány növénytermesztési hatóságként
 
 a) a minisztert,
 
 b) a NÉBIH-et,
 
-c)[^146]
+c)[^147]
 
-d)[^147] növénytermesztési hatáskörben eljáró megyei kormányhivatalt
+d)[^148] növénytermesztési hatáskörben eljáró megyei kormányhivatalt
 
-[^146]: A 45. § c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^147]: A 45. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 17. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+jelöli ki.
+
+[^147]: A 45. § c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^148]: A 45. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 17. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

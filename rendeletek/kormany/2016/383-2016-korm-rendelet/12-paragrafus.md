@@ -40,7 +40,7 @@ a)[^32] az adózás rendjéről szóló 2017. évi CL. törvény 101. § b) pont
 
 b) a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (7) bekezdése szerinti
 
-## erdészeti hatóságként.
+erdészeti hatóságként.
 
 (4) Az erdészeti hatóságként eljáró Pest Megyei Kormányhivatal vezeti
 
@@ -62,7 +62,7 @@ a)[^36] az Evt. 72. § (4) bekezdés b) pontja szerinti, illetve
 
 b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 20. § (1) bekezdése szerinti
 
-## számlát.
+számlát.
 
 (7)[^37] A Magyar Természetjáró Szövetség vezeti az Evt. 93. § (6) bekezdése szerinti nyilvántartást.
 
@@ -82,11 +82,11 @@ bd) az Evt. 23. § (6) bekezdés b)–d) pontja és
 
 be) az Evt. 23/A. §-a
 
-## szerinti,
+szerinti,
 
 c) az Evt. 56. § (3) bekezdése szerinti Országos Erdőkár Nyilvántartás vezetési
 
-## eljárásokban.
+eljárásokban.
 
 (9)[^39] Az NFK jogosult az Országos Erdőállomány Adattárban, az Országos Erdőkár Nyilvántartásban, az Országos Erdőtűz Adattárban, az erdővédelmi és az erdőgazdálkodási bírságokról vezetett nyilvántartásban, az erdőgazdálkodói nyilvántartásban, a szakirányítói névjegyzékben, a föld alatti gomba gyűjtésre jogosult személyekről és a részükre kiadott tanúsítványokról és gyűjtési naplóról vezetett nyilvántartásban foglalt adatok kezelésére, adattovábbításra, és közreműködik az Evt. 38–39/B. §-a szerinti feladatok végrehajtásában.
 
@@ -98,7 +98,7 @@ b) hatóság részére hatósági eljárások teljesítéséhez vagy
 
 c) törvényben vagy kormányrendeletben meghatározott feladatok ellátásához
 
-## az Adattárban nyilvántartott térképi és leíró adatok teljes tartalmára, illetve ezeket tartalmazó szemlemásolatokra kiterjedő adatleválogatást és adattovábbítást végez. Az adattovábbítás elektronikusan is végezhető. Több kormányhivatal illetékességi területére kiterjedő adatigénylés esetén az adatleválogatást és az adattovábbítást az NFK végzi.
+az Adattárban nyilvántartott térképi és leíró adatok teljes tartalmára, illetve ezeket tartalmazó szemlemásolatokra kiterjedő adatleválogatást és adattovábbítást végez. Az adattovábbítás elektronikusan is végezhető. Több kormányhivatal illetékességi területére kiterjedő adatigénylés esetén az adatleválogatást és az adattovábbítást az NFK végzi.
 
 (11)[^41] Az NFK feladatkörét érintően vezeti
 

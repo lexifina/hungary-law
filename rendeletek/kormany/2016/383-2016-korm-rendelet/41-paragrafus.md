@@ -1,3 +1,1 @@
-## 40. §[^131]
-
-[^131]: A 40. §-t a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés f) pontja hatályon kívül helyezte.
+41. § A földügyi igazgatás szervei a rendelkezésükre álló adat- és eszközállomány igénybevételével alaptevékenységükön felül, egyéb – a fővárosi és megyei kormányhivatal alapító okiratában foglalt – szolgáltatási tevékenységet is végezhetnek, ha az a jogszabályban előírt feladataik ellátását nem veszélyezteti.

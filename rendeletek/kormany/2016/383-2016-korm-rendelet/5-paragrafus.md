@@ -1,5 +1,3 @@
-## foglaltak tekintetében agrárkár-megállapító szervként a megyei kormányhivatalt jelöli ki.
-
 ## 2. Az állatvédelmi hatóság kijelölése
 
 5. § (1) A Kormány állatvédelmi hatóságként
@@ -16,7 +14,7 @@ e)[^9] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben e
 
 f) a települési önkormányzat jegyzőjét, fővárosban a kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt (a továbbiakban együtt: jegyző)
 
-## jelöli ki.
+jelöli ki.
 
 (2)[^10] Az állatvédelmi hatóságként eljáró Pest Megyei Kormányhivatal illetékessége az ország egész területére kiterjed.
 

@@ -1,5 +1,3 @@
-## Az erdészeti hatóságként eljáró megyei kormányhivatalok illetékességi területe
-
 ## 1. Pest Megyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
@@ -336,9 +334,9 @@
 
 3. melléklet a 383/2016. (XII. 2.) Korm. rendelethez
 
-## Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok illetékességi területe
+Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok illetékességi területe
 
-Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok illetékessége az alábbiakban meghatározott járások illetékességi területére terjed ki.
+## Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok illetékessége az alábbiakban meghatározott járások illetékességi területére terjed ki.
 
 1. Baranya megye
 
@@ -478,7 +476,7 @@ Sátoraljaújhelyi járás
 
 Tokaji járás
 
-5.[^214] Csongrád-Csanád megye
+5.[^215] Csongrád-Csanád megye
 
 5.1. Hódmezővásárhelyi Járási Hivatal
 
@@ -730,18 +728,6 @@ XXI. kerület
 
 XXII. kerület
 
-## XXIII. kerület
-
-13.4. Gödöllői Járási Hivatal
-
-Székhely: Gödöllő
-
-Gödöllői járás
-
-Aszódi járás
-
-Székhely: Budapest, XIII. kerület
-
 II. kerület
 
 III. kerület
@@ -757,30 +743,6 @@ XIV. kerület
 XV. kerület
 
 XVI. kerület
-
-## XVII. kerület
-
-13.5. Monori Járási Hivatal
-
-Monori járás
-
-Nagykátai járás
-
-Vecsési járás
-
-13.6. Ráckevei Járási Hivatal
-
-Ráckevei járás
-
-Szigetszentmiklósi járás
-
-13.7. Váci Járási Hivatal
-
-Váci járás
-
-Szobi járás
-
-Dunakeszi járás
 
 14. Somogy megye
 
@@ -890,7 +852,7 @@ Szombathelyi járás
 
 Kőszegi járás
 
-18.[^215] Veszprém megye
+18.[^216] Veszprém megye
 
 18.1. Devecseri Járási Hivatal
 
@@ -942,5 +904,5 @@ Letenyei járás
 
 Zalaegerszegi járás
 
-[^214]: A 3. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
-[^215]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.
+[^215]: A 3. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
+[^216]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.

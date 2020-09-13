@@ -1,5 +1,3 @@
-## jelöli ki.
-
 8. § (1)[^21]
 
 (2)[^22] A borászati hatóságként eljáró Pest Megyei Kormányhivatal illetékessége az ország egész területére kiterjed.

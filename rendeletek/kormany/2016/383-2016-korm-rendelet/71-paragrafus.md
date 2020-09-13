@@ -1,6 +1,6 @@
 ## 27. A halgazdálkodási hatósági eljárásokban vizsgálandó szakkérdések
 
-## 71. § A természet védelmére vonatkozó nemzeti és európai uniós jogi előírásoknak való megfelelőséget szakkérdésként kell vizsgálni
+71. § A természet védelmére vonatkozó nemzeti és európai uniós jogi előírásoknak való megfelelőséget szakkérdésként kell vizsgálni
 
 a) a védett természeti területen, Natura 2000 területen található halgazdálkodási vízterületen vagy annak egy részén az őshonos halfajokra meghatározott tilalmi idő megrövidítésére és a tilalmi idő alóli felmentés engedélyezésére irányuló eljárásban,
 
