@@ -1,21 +1,10 @@
 ## 25. § A Kormány természetvédelmi őrszolgálatként az NPI szervezetén belül működő Természetvédelmi Őrszolgálatot jelöli ki.
 
-## IV. Fejezet
+## IV. Fejezet[^52]
 
-## SZAKKÉRDÉSEK VIZSGÁLATA ÉS A SZAKHATÓSÁGOK KIJELÖLÉSE
+## SZAKKÉRDÉSEK VIZSGÁLATA
 
-## 9. Környezetvédelmi szakhatóságok kijelölése
+## 9.[^53]
 
-26. § (1) A Kormány környezetvédelmi szakhatóságként
-
-a)[^56] a Pest Megyei Kormányhivatalt, valamint
-
-b)[^57] a területi környezetvédelmi hatóságot
-
-## jelöli ki.
-
-(2)[^58] Környezetvédelmi szakhatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
-
-[^56]: A 26. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 2. pontja szerint módosított szöveg.
-[^57]: A 26. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 11. pontjával megállapított szöveg.
-[^58]: A 26. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^52]: A IV. fejezet címe a 425/2020. (IX. 10.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^53]: A 9. alcímet (26. §) a 425/2020. (IX. 10.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

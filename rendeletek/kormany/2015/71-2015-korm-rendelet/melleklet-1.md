@@ -24,11 +24,11 @@ I. A nemzeti park igazgatóságok elnevezése és székhelye
 
 10. Őrségi Nemzeti Park Igazgatóság, Őriszentpéter
 
-II. A nemzeti park igazgatóságok működési köre
+II. A nemzeti park igazgatóságok működési területe
 
 1. AGGTELEKI NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 Borsod-Abaúj-Zemplén megye területéből
 
@@ -242,7 +242,7 @@ Zsujta települések közigazgatási területe.
 
 2. BALATON-FELVIDÉKI NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Veszprém megye.
 
@@ -294,7 +294,7 @@ a Balaton Kiemelt Üdülőkörzetbe tartozó települések, kivéve Marcali tele
 
 3. BÜKKI NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Borsod-Abaúj-Zemplén megye területe – kivéve az Aggteleki és a Hortobágyi Nemzeti Park Igazgatóság működési területe.
 
@@ -312,7 +312,7 @@ a Hevesi füves puszták Tájvédelmi Körzet területe Jászivány településh
 
 4. DUNA-DRÁVA NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Baranya megye.
 
@@ -360,7 +360,7 @@ a Dél-Mezőföldi Tájvédelmi Körzet területe Alsószentiván, Cece, Vajta t
 
 5. DUNA-IPOLY NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Budapest főváros.
 
@@ -384,7 +384,7 @@ a Tápió-Hajta Vidéke Tájvédelmi Körzet területe Újszász településhat�
 
 6. FERTŐ-HANSÁG NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Győr-Moson-Sopron megye területe – kivéve
 
@@ -416,7 +416,7 @@ a Pannonhalmi Tájvédelmi Körzet területe Gic településhatárban.
 
 7. HORTOBÁGYI NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Hajdú-Bihar megye.
 
@@ -444,7 +444,7 @@ a Hortobágyi Nemzeti Park területe Ároktő, Négyes, Tiszabábolna, Tiszavalk
 
 8. KISKUNSÁGI NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Bács-Kiskun megye területe – kivéve
 
@@ -552,7 +552,7 @@ a Kiskunsági Nemzeti Park területe Apaj, Kiskunlacháza, Tatárszentgyörgy é
 
 9. KÖRÖS-MAROS NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Békés megye.
 
@@ -630,7 +630,7 @@ a Körös-Maros Nemzeti Park területe Szeged II. kerület Tápé településhat
 
 10. ŐRSÉGI NEMZETI PARK IGAZGATÓSÁG
 
-Működési köre
+Működési területe
 
 a) Vas megye területe – kivéve
 
@@ -650,4 +650,4 @@ Zalalövő
 
 települések közigazgatási területéből a Balaton-felvidéki Nemzeti Park Igazgatóság működési területén kívül eső területek.
 
-[^92]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 33. § a)–b) pontja szerint módosított szöveg.
+[^92]: Az 1. melléklet a 371/2020. (VII. 30.) Korm. rendelet 33. § a)–b) pontja, a 425/2020. (IX. 10.) Korm. rendelet 7. § d)–e) pontja szerint módosított szöveg.

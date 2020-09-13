@@ -98,7 +98,7 @@
 
 5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^96]
 
-I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban vizsgálandó szakkérdések, kirendelendő szakértők
+I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban vizsgálandó szakkérdések
 
 |  | A | B |
 
@@ -136,6 +136,6 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 | 17. | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg. | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően. |
 
-II. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban kijelölt szakhatóságok
+II.
 
-[^96]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^96]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja szerint módosított szöveg.

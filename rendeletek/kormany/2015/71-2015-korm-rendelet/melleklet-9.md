@@ -1,16 +1,6 @@
-|  | A | B | C | E | F | G |
-
-| 1. | Bevonás és közre- működés feltétele | Szakkérdés | Szakhatóság | Kereske- delem, közvetítés, szállítás, gyűjtés | Hasznosítás, illetve kapcsolódó előkezelés, tárolás | Ártalmat- lanítás, illetve kapcsolódó előkezelés, tárolás |
-
-| 2. | Minden esetben. | Annak elbírálása, hogy a felszíni és felszín alatti vizek minősége védelmére jogszabályban, illetve határozatban meghatározott előírások érvényesülnek-e. | Katasztrófa- védelmi Igazgatóság (vízvédelmi hatáskörében eljárva) | NEM | IGEN | IGEN |
-
-|  |  | Annak elbírálása, hogy a tevékenység vízellátása, a keletkező csapadék- és szennyvíz elvezetése, valamint a szennyvíz tisztítása biztosított-e, a vízbázis védőterületére, védőidomára jogszabályban, illetve határozatban meghatározott előírások érvényesülnek-e, valamint a vizek lefolyására, az árvíz és a jég levonulására gyakorolt hatás vizsgálata. | Katasztrófa- védelmi Igazgatóság (vízgazdál- kodási hatáskörében eljárva) |  |  |  |
-
-| 3. | Ha a tevékenység helyi jelentőségű védett természeti területet érint. | Annak elbírálása, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | IGEN | IGEN | IGEN |
-
 9. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^100]
 
-I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések, kirendelendő szakértők
+I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések
 
 |  | A | B | C |
 
@@ -28,6 +18,6 @@ I. Egyes természetvédelmi eljárásokban vizsgálandó szakkérdések, kirende
 
 | 5. | A Tvt. 38. § (1) bekezdés i) pontja szerinti, erdőben technikai jellegű sporttevékenység folytatásának engedélyezésére irányuló eljárás. | minden esetben | Az erdőre gyakorolt hatások vizsgálata kérdésében. |
 
-II. Egyes természetvédelmi eljárásokban kijelölt szakhatóságok
+II.
 
-[^100]: A 9. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés g) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^100]: A 9. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés g) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k) és p) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 5. Környezetvédelmi hatóságok kijelölése
 
-9. § (1)[^16] A Kormány környezetvédelmi hatóságként
+9. § (1)[^11] A Kormány környezetvédelmi hatóságként
 
 a) a minisztert, hulladékgazdálkodás tekintetében a hulladékgazdálkodásért felelős minisztert,
 
@@ -24,13 +24,13 @@ j) a fővárosi kerületi önkormányzat jegyzőjét [az f)–j) pont szerintiek
 
 ## jelöli ki.
 
-(2)[^17] Környezetvédelmi hatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
+(2)[^12] Környezetvédelmi hatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
 
-(3)[^18]
+(3)[^13]
 
-(4)[^19]
+(4)[^14]
 
-[^16]: A 9. § (1) bekezdése a 30/2020. (II. 29.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^17]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
-[^18]: A 9. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 141. § (9) bekezdés a) pontja hatályon kívül helyezte.
-[^19]: A 9. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 293. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 141. § (9) bekezdés a) pontja.
+[^11]: A 9. § (1) bekezdése a 30/2020. (II. 29.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^12]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^13]: A 9. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 141. § (9) bekezdés a) pontja hatályon kívül helyezte.
+[^14]: A 9. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 293. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 141. § (9) bekezdés a) pontja.

@@ -1,20 +1,6 @@
-|  | A | B | C |
-
-| 1. | Bevonás és közreműködés feltétele |  |  |
-
-| 2. | Előzetes vizsgálat | Környezeti hatásvizsgálat | Egységes környezet- használati engedélyezés | Szakkérdés | Szakhatóság |
-
-| 3. | Minden esetben. | Annak elbírálása, hogy a tevékenység vízellátása, a keletkező csapadék- és szennyvíz elvezetése, valamint a szennyvíz tisztítása biztosított-e, vízbázis védőterületére, védőidomára, jogszabályban, illetve határozatban meghatározott előírások érvényesíthetők-e, továbbá annak elbírálása kérdésében, hogy a tevékenység az árvíz és a jég levonulására, a mederfenntartásra milyen hatást gyakorol. | Katasztrófavédelmi Igazgatóság, a honvédelmi és katonai célú sajátos építményekkel összefüggő eljárásban országos illetékességgel a Jász-Nagykun- Szolnok Megyei Katasztrófavédelmi Igazgatóság (vízgazdálkodási hatáskörében eljárva) |
-
-|  |  | Annak elbírálása, hogy a tevékenység kapcsán a felszíni és felszín alatti vizek minősége és mennyisége védelmére jogszabályban, illetve határozatban meghatározott előírások érvényesíthetők-e | Katasztrófavédelmi Igazgatóság, a honvédelmi és katonai célú sajátos építményekkel összefüggő eljárásban országos illetékességgel a Jász-Nagykun- Szolnok Megyei Katasztrófavédelmi Igazgatóság (vízvédelmi hatáskörében eljárva) |
-
-| 4. | Ha a tevékenység következtében olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Az egységes környezet- használati engedély megszerzésére irányuló eljárás nukleáris anyagot érint. | Az atomenergia biztonságos alkalmazásával, a nukleáris baleset- elhárítással kapcsolatos kérdésben. | Országos Atomenergia Hivatal |
-
-| 5. | – | Minden esetben. | – | a) az ipari baleseti kockázatok tekintetében: a veszélyes anyagokkal kapcsolatos súlyos baleseteknek való kitettségből eredő várható hatások elbírálása b) a természeti katasztrófáknak való kitettség tekintetében: annak elbírálása, hogy a kérelem megfelelően tartalmazza-e a telepítési hely környezetében feltárt kockázatokat és azok várható hatásait. | a hivatásos katasztrófa- védelmi szerv területi szerve |
-
 6. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^97]
 
-I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések, kirendelendő szakértők
+I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések
 
 |  | A | B | C |
 
@@ -30,6 +16,6 @@ I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések, kirende
 
 | 5. | Az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló rendelet alapján indított, a zárt körülmények között nem végezhető bevonatfelviteli, festési tevékenységek esetében a VOC kibocsátási határértékek betartása alóli felmentés megadása iránti eljárás. | minden esetben | Az emberi egészségre gyakorolt hatás vizsgálata. |
 
-II. Egyes környezetvédelmi eljárásokban kijelölt szakhatóságok
+II.
 
-[^97]: A 6. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés d) pontjával megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^97]: A 6. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés d) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k) és m) pontja szerint módosított szöveg.
