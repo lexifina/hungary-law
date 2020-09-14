@@ -1,1 +1,3 @@
-## „(4a) A NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal a MÁOK tv. 21. § (2a) bekezdésében és 22. § (3a) bekezdésében meghatározott élelmiszerlánc-felügyeleti szerv.”
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
