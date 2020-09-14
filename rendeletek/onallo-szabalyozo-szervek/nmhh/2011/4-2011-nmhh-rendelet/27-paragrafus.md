@@ -8,7 +8,7 @@ a) az eljárás tárgyául szolgáló frekvenciakészlet felhasználásával vé
 
 b) azokat az értékelési elveket és az értékeléskor kizárólagosan figyelembe vett szempontokat, amelyek alapján a jelentkezők egyenlő eséllyel megfelelő pályázati ajánlatot tehetnek;
 
-c)[^65] ha a Hatóság a pályázatokat több fordulóban értékeli, az egyes fordulók lebonyolítási rendjét, az egyes fordulókban értékelt pályázati vállalások érvényességi feltételeit, valamint az egyes fordulókban értékelt pályázati vállalások érvénytelenségének jogkövetkezményeit.
+c)[^83] ha a Hatóság a pályázatokat több fordulóban értékeli, az egyes fordulók lebonyolítási rendjét, az egyes fordulókban értékelt pályázati vállalások érvényességi feltételeit, valamint az egyes fordulókban értékelt pályázati vállalások érvénytelenségének jogkövetkezményeit.
 
 (2) A kiírási dokumentációban meghatározott értékelés elveinek pártatlannak, átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük, valamint kialakításuk során figyelembe kell venni az Eht.-ban meghatározott célokat.
 
@@ -36,10 +36,10 @@ d) a kiírási dokumentációban meghatározott tartalmi követelményeknek nem 
 
 (10) A pályázati ajánlatokat a kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
 
-(11)[^66]
+(11)[^84]
 
-(12)[^67]
+(12)[^85]
 
-[^65]: A 27. § (1) bekezdés c) pontja a 4/2019. (V. 8.) NMHH rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^66]: A 27. § (11) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
-[^67]: A 27. § (12) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
+[^83]: A 27. § (1) bekezdés c) pontja a 4/2019. (V. 8.) NMHH rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^84]: A 27. § (11) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
+[^85]: A 27. § (12) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.

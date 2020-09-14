@@ -2,19 +2,24 @@
 
 ## illetve -műsorszóró adó üzemeltetési jogosultság
 
-22. § (1)[^57] A frekvenciahasználati jogosultság, digitális rádió- és televízió-műsorszóró hálózat, illetve -műsorszóró adó üzemeltetési jogosultság megszerzésével az árverés, illetve a pályázat nyertesének kizárólagos joga nyílik arra, hogy az általa megszerzett frekvencia használatához szükséges egyedi engedélyek kiadása érdekében eljárást kezdeményezzen a kiírási dokumentációban meghatározott határidőn belül.
+22. §[^78] (1) A versenyeztetési eljárás nyertesének kizárólagos joga nyílik arra, hogy az általa megszerzett frekvenciahasználati jogosultság alapján az érintett frekvencia használatához szükséges egyedi engedélyek kiadása érdekében eljárást kezdeményezzen a kiírási dokumentációban meghatározottak szerint.
 
-(2) Az (1) bekezdésben meghatározott kizárólagos jog megszerzésének napja:
+(2) A frekvenciahasználati jogosultság időbeli hatályának kezdő napja a 21. § (1) bekezdés a) pontjában hozott határozat véglegessé válásának napja, vagy hatósági szerződéskötés esetén a 21. § (7) bekezdése szerinti szerződés megkötésének napja.
 
-a) a teljes árverési díj, illetve a teljes pályázati díj Hatóság által meghatározott számlán történő jóváírásának napja, vagy
+(3) A frekvenciahasználati jogosultság alapján kiadott rádióengedély érvényességének legkorábbi kezdőnapja:
 
-b)[^58] több részletben történő fizetés esetén az első törlesztőrészletnek a Hatóság által meghatározott számlán történő jóváírásának napja, amennyiben a nyertes résztvevő az első törlesztőrészlettel csökkentett teljes árverési díj, illetve teljes pályázati díj, illetve időszakos fizetési kötelezettség esetén a következő időszakra eső díj összegének megfelelő biztosítékot nyújtott, vagy
+a) a teljes árverési díj, illetve a teljes pályázati díj Hatóság által meghatározott számlán történő jóváírásának napját követő nap,
 
-c)[^59] abban az esetben, ha a Hatóság a pályázati vagy árverési eljárás nyertesével hatósági szerződést köt, a hatósági szerződés hatálybalépésének napja.
+b) több részletben történő fizetés esetén az első törlesztőrészletnek a Hatóság által meghatározott számlán történő jóváírásának napját követő nap, ha a nyertes résztvevő az első törlesztőrészlettel csökkentett teljes árverési díj, illetve teljes pályázati díj, illetve időszakos fizetési kötelezettség esetén a következő időszakra eső díj összegének megfelelő biztosítékot nyújtott,
 
-(3)[^60] Az (1) bekezdés szerinti – frekvencia használatához szükséges – egyedi engedélyek kibocsátásának feltétele a (2) bekezdésben foglaltak teljesülése.
+c) ha a Hatóság a versenyeztetési eljárás nyertesével hatósági szerződést köt, a hatósági szerződés hatálybalépésének napját követő nap,
 
-[^57]: A 22. § (1) bekezdése a 9/2013. (IX. 19.) NMHH rendelet 2. §-a, a 2/2016. (II. 26.) NMHH rendelet 13. § d) pontja szerint módosított szöveg.
-[^58]: A 22. § (2) bekezdés b) pontja a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
-[^59]: A 22. § (2) bekezdés c) pontját a 9/2013. (IX. 19.) NMHH rendelet 1. § (9) bekezdése iktatta be.
-[^60]: A 22. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 13. § d) pontja szerint módosított szöveg.
+d) ha az elnyert frekvenciahasználati jogosultság olyan frekvenciakészletre vonatkozik, amelyben az a) és b) pont szerinti időpontot követően jár le egy korábbi eljárásban elnyert frekvenciahasználati jogosultság (a továbbiakban: korábbi jogosultság), a korábbi jogosultság megszűnését követő nap.
+
+(4) A frekvencialekötés és -használat díjáról szóló NMHH rendelet szerinti sávdíjfizetési kötelezettség kezdőnapja a rádióengedély érvényességének (2) bekezdésben meghatározott legkorábbi időpontja.
+
+(5) A frekvenciahasználati jogosultság időbeli hatályát a Hatóság oly módon is meghatározhatja, hogy egy vagy több frekvenciasávban biztosítsa a frekvenciahasználati jogosultságok és jogok egyidejű lejáratát. A jogosultság időtartamának – a versenyeztetési eljárás során történő – meghatározása során a Hatóság biztosítja, hogy a versenyeztetési eljárásban minden nyertes frekvenciahasználati joga legalább 15 évig érvényes legyen.
+
+(6) A frekvenciahasználati jogosultság megszűnésével egyidejűleg megszűnik a rádióengedély érvényessége.
+
+[^78]: A 22. § a 2/2020. (IX. 9.) NMHH rendelet 10. §-ával megállapított szöveg.
