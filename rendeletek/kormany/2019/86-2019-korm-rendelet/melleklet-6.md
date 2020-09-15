@@ -2,19 +2,19 @@
 
 A kormányablak saját hatáskörében intézhető ügyek
 
-1.[^28]
+1.[^33]
 
-2.[^29]
+2.[^34]
 
-3.[^30]
+3.[^35]
 
-4.[^31]
+4.[^36]
 
-5.[^32]
+5.[^37]
 
-6.[^33]
+6.[^38]
 
-7.[^34]
+7.[^39]
 
 8. Állandó személyazonosító igazolvány kiadása iránti kérelem
 
@@ -68,9 +68,9 @@ A kormányablak saját hatáskörében intézhető ügyek
 
 33. Hajós szolgálati útlevél kiadása, cseréje iránti kérelem soron kívüli eljárásban
 
-34.[^35]
+34.[^40]
 
-35.[^36]
+35.[^41]
 
 36. Külföldön élő magyar állampolgár nyilvántartásba vétele
 
@@ -80,12 +80,12 @@ A kormányablak saját hatáskörében intézhető ügyek
 
 39. Közúti közlekedési okmánytárból adatszolgáltatás iránti kérelem
 
-[^28]: A 6. melléklet 1. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^29]: A 6. melléklet 2. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^30]: A 6. melléklet 3. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^31]: A 6. melléklet 4. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^32]: A 6. melléklet 5. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^33]: A 6. melléklet 6. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^34]: A 6. melléklet 7. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^35]: A 6. melléklet 34. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^36]: A 6. melléklet 35. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^33]: A 6. melléklet 1. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^34]: A 6. melléklet 2. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^35]: A 6. melléklet 3. pontját a 31/2020. (II. 29.) Korm. rendelet 20. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^36]: A 6. melléklet 4. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: A 6. melléklet 5. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^38]: A 6. melléklet 6. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^39]: A 6. melléklet 7. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^40]: A 6. melléklet 34. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^41]: A 6. melléklet 35. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

@@ -6,7 +6,7 @@ A kormányablak által végzett kiegészítő szolgáltatások
 
 2. Egyedi hatósági ügyek intézéséhez internetes kapcsolati lehetőség és informatikai segítség nyújtása
 
-3.[^37]
+3.[^42]
 
 4. Elektronikus gyűjtőtárhely és feltöltő tárhely létesítése az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszerben, felvilágosítás és segítségnyújtás az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer kapcsán az elektronikus ügyintézésre vonatkozóan
 
@@ -46,31 +46,31 @@ A kormányablak által végzett kiegészítő szolgáltatások
 
 22. Elektronikus Egészségügyi Szolgáltatási Térben kezelt adatokról tájékoztatás kérésének továbbítása
 
-23.[^38] Közigazgatási eljárásokhoz kapcsolódó levéltári szolgáltatások kezdeményezése
+23.[^43] Közigazgatási eljárásokhoz kapcsolódó levéltári szolgáltatások kezdeményezése
 
-24.[^39] Levéltári adatok igénylése építésügyi hatósági eljárások támogatásához
+24.[^44] Levéltári adatok igénylése építésügyi hatósági eljárások támogatásához
 
-25.[^40] Levéltári adatok igénylése a hadigondozási igényjogosultság megállapításához, hadigondozással kapcsolatos iratok megkeresése és másolatok készítése
+25.[^45] Levéltári adatok igénylése a hadigondozási igényjogosultság megállapításához, hadigondozással kapcsolatos iratok megkeresése és másolatok készítése
 
-26.[^41] Levéltárban lévő hagyatéki iratokra vonatkozó adatok igénylése és másolat készítése
+26.[^46] Levéltárban lévő hagyatéki iratokra vonatkozó adatok igénylése és másolat készítése
 
-27.[^42] Levéltári adatszolgáltatás az ingatlan nyilvántartásba bejegyzett jogok és tények igazolására vonatkozóan
+27.[^47] Levéltári adatszolgáltatás az ingatlan nyilvántartásba bejegyzett jogok és tények igazolására vonatkozóan
 
-28.[^43] Levéltári adatszolgáltatás és másolatkiadás a Levéltár őrizetében lévő bírósági iratanyagokról
+28.[^48] Levéltári adatszolgáltatás és másolatkiadás a Levéltár őrizetében lévő bírósági iratanyagokról
 
-29.[^44] Levéltári adatszolgáltatás munkaviszony, nevelési segély, illetve ösztöndíj folyósítása, nyugdíj-, valamint társadalombiztosítási és egyéb kapcsolódó ügyekben
+29.[^49] Levéltári adatszolgáltatás munkaviszony, nevelési segély, illetve ösztöndíj folyósítása, nyugdíj-, valamint társadalombiztosítási és egyéb kapcsolódó ügyekben
 
-30.[^45] Levéltárban lévő névváltoztatási iratokról másolat készítése
+30.[^50] Levéltárban lévő névváltoztatási iratokról másolat készítése
 
-31.[^46] Levéltári adatszolgáltatás tanulóidőre, illetve iskolai végzettségre vonatkozóan
+31.[^51] Levéltári adatszolgáltatás tanulóidőre, illetve iskolai végzettségre vonatkozóan
 
-[^37]: A 7. melléklet 3. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^38]: A 7. melléklet 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^39]: A 7. melléklet 24. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^40]: A 7. melléklet 25. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^41]: A 7. melléklet 26. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^42]: A 7. melléklet 27. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^43]: A 7. melléklet 28. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^44]: A 7. melléklet 29. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^45]: A 7. melléklet 30. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^46]: A 7. melléklet 31. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^42]: A 7. melléklet 3. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^43]: A 7. melléklet 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^44]: A 7. melléklet 24. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^45]: A 7. melléklet 25. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^46]: A 7. melléklet 26. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^47]: A 7. melléklet 27. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^48]: A 7. melléklet 28. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^49]: A 7. melléklet 29. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^50]: A 7. melléklet 30. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^51]: A 7. melléklet 31. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.

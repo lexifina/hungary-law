@@ -12,7 +12,7 @@ a) átruházott feladatként a kifizető ügynökségi feladatok tekintetében a
 
 b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló kormányrendeletben a megyei kormányhivatalra átruházott feladatokat.
 
-(5)[^9]
+(5)[^13]
 
 (6) A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Jelnyelvi Tolmácsok Országos Névjegyzékének vezetésével és a Névjegyzéken szereplő jelnyelvi tolmácsok továbbképzésével összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
@@ -24,7 +24,7 @@ b) közbenső szervezetként a Közös Agrárpolitika tagállami végrehajtásá
 
 (10) A Kormány a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendeletben és a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendeletben meghatározott irányító hatóságok egyes szakértőt igénylő feladatainak átmeneti ellátására – indokolt esetben – a fővárosi és megyei kormányhivatalokat jelölheti ki összeférhetetlenségi szempont figyelembevételével.
 
-(11)[^10] A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 208/A. § (2) bekezdése szerinti szabálysértési hatóságként a fővárosi és megyei kormányhivatalt jelöli ki.
+(11)[^14] A Kormány a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 208/A. § (2) bekezdése szerinti szabálysértési hatóságként a fővárosi és megyei kormányhivatalt jelöli ki.
 
-[^9]: A 46. § (5) bekezdését a 111/2020. (IV. 14.) Korm. rendelet 17. §-a hatályon kívül helyezte.
-[^10]: A 46. § (11) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^13]: A 46. § (5) bekezdését a 111/2020. (IV. 14.) Korm. rendelet 17. §-a hatályon kívül helyezte.
+[^14]: A 46. § (11) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 11. §-ával megállapított szöveg.

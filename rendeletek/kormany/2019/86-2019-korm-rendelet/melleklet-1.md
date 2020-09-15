@@ -1,3 +1,5 @@
+## 65. §[^19] A 33. § (8)–(9) bekezdése szerinti kapcsolattartó kijelöléséről és a személyéről történő tájékoztatásról a beruházó a már folyamatban lévő beruházások esetében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet módosításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendeletek deregulációjáról szóló 428/2020. (IX. 10.) Korm. rendelet hatálybalépésétől[^20] számított 30 napon belül köteles gondoskodni.
+
 1. melléklet a 86/2019. (IV. 23.) Korm. rendelethez
 
 A járási hivatalok székhelyei és illetékességi területük
@@ -1900,7 +1902,7 @@ Tiszatardos
 
 Tokaj
 
-5.[^16] Csongrád-Csanád megye
+5.[^21] Csongrád-Csanád megye
 
 5.1. Csongrádi Járási Hivatal
 
@@ -3008,7 +3010,7 @@ Tófalu
 
 Újlőrincfalva
 
-9.4.[^17] Gyöngyösi Járási Hivatal
+9.4.[^22] Gyöngyösi Járási Hivatal
 
 Székhely: Gyöngyös
 
@@ -3060,7 +3062,7 @@ Visonta
 
 Visznek
 
-9.5.[^18] Hatvani Járási Hivatal
+9.5.[^23] Hatvani Járási Hivatal
 
 Székhely: Hatvan
 
@@ -7044,6 +7046,8 @@ Zalaszentlászló
 
 Zalavég
 
-[^16]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 428/2020. (IX. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A hatálybalépés időpontja 2020. szeptember 11.
+[^21]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
