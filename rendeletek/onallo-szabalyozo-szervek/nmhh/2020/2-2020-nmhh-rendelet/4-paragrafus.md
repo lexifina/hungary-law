@@ -1,5 +1,3 @@
-## 3. § Az R. 9. § d) pontja helyébe a következő rendelkezés lép:
+## 3. §[^5]
 
-## (A versenyeztetési eljárásban az vehet részt:)
-
-## „d) akinek a kiírási dokumentációban meghatározott mértékű biztosíték a rendelkezésére áll, ha a Hatóság biztosíték benyújtását írja elő; és”
+[^5]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

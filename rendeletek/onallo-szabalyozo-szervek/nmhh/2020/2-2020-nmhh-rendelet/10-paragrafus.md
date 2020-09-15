@@ -1,3 +1,3 @@
-## 9. §[^6]
+## 9. §[^11]
 
-[^6]: A 9. § a 15. § (2) bekezdése alapján 2020. december 21-én lép hatályba.
+[^11]: A 9. § a 15. § (2) bekezdése alapján 2020. december 21-én lép hatályba.
