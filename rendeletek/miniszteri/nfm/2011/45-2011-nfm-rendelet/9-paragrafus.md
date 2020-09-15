@@ -10,4 +10,6 @@ b) az e rendelet hatálya alá tartozó nem magyar lajstromban nyilvántartott �
 
 követően kell alkalmazni.
 
-(3) Az 5. § (1) bekezdésben meghatározott kötelezettség 2011. december 31-éig a Nemzetközi Tengerészeti Szervezetnél „A” osztályba sorolt készülék felszerelésével is teljesíthető, amennyiben azt az 5. § (1) bekezdésben említett belvízi úszólétesítményre 2008. december 31-ét megelőzően szerelték fel vagy amennyiben a készülék tengeri hajóra van felszerelve.
+(3)[^7]
+
+[^7]: A 9. § (3) bekezdését a 31/2020. (VIII. 31.) ITM rendelet 4. § b) pontja hatályon kívül helyezte.

@@ -1,14 +1,16 @@
+## 4. §
+
 ## 5. Az AIS-készülék használata és a készülékkel továbbított adatok köre
 
-5. § (1) A Duna nemzetközi víziútján,
+5. §[^5] (1) A Duna nemzetközi vízi útján,
 
-a) a 1811 és 1433 folyamkilométer közötti szakaszán, valamint
+a) az 1811 és 1433 folyamkilométer közötti szakaszán, valamint
 
 b) a Szentendrei Duna-ágban
 
-üzemképes nagyhajót, úszómunkagépet, kompot és azt a kisgéphajót, amely nagyhajót vagy nagyhajókból összeállított köteléket továbbíthat, valamint a 12 főnél több utas szállítására engedélyezett kisgéphajót a hajóhelyzetmegállapító és nyomon követő rendszerekre vonatkozó műszaki előírásoknak megfelelő, üzemképes AIS-készülékkel kell felszerelni, és azt – az úszólétesítmény kijelölt veszteglőhelyen és kikötőben lehorgonyzott vagy kikötött állapotban történő veszteglése kivételével – működő állapotban kell tartani.
+## üzemképes nagyhajót, úszómunkagépet, kompot és azt a kisgéphajót, amely nagyhajót vagy nagyhajókból összeállított köteléket továbbíthat, valamint a 12 főnél több utas szállítására engedélyezett kishajót üzemképes AIS-készülékkel kell felszerelni, és azt – az úszólétesítmény kijelölt veszteglőhelyen és kikötőben lehorgonyzott vagy kikötött állapotban történő veszteglése kivételével – működő állapotban kell tartani.
 
-(2) Az (1) bekezdésben meghatározott úszólétesítmény vezetője az alábbi adatokat köteles rögzíteni az AIS-készülékben, amelyeket az AIS-készülék folyamatosan továbbít:
+(2) Az (1) bekezdésben meghatározott úszólétesítmény vezetője az alábbi adatokat rögzíti az AIS-készülékben, amelyeket az AIS-készülék folyamatosan továbbít:
 
 a) a felhasználó mozgószolgálati azonosító számát (MMSI – Maritime Mobile Service Identity);
 
@@ -28,7 +30,7 @@ h) az úszólétesítmény vagy a kötelék álló helyzetében mért legnagyobb
 
 i) kötelék esetében a kötelék típusát;
 
-j) a szállított veszélyes árura vonatkozóan, az ADN szabályzat 5.4.1.1.1 bekezdése alatt meghatározott tájékoztatást;
+j) a szállított veszélyes árura vonatkozóan, az ADN szabályzat 5.4.1.1 bekezdése alatt meghatározott tájékoztatást és az 5.4.1.2 bekezdése alatt meghatározott információkat;
 
 k) az úszólétesítmény vagy a kötelék helyzetét (WGS 84);
 
@@ -40,18 +42,28 @@ n) az úszólétesítménynek a globális műholdas navigációs rendszer segít
 
 o) a navigációs készülék aktuális dátumnak és zónaidőnek megfelelő rendszeridejét;
 
-p) a hajózási állapotot a hajó vezetője kézzel állítja be az AIS-készüléken, és így közli, hogy a úszólétesítmény menetben van-e vagy azt, hogy álló helyzetben van-e vagy különös körülmények hátráltatják-e.
+p) a hajózási állapotot a hajó vezetője kézzel állítja be az AIS-készüléken, és így közli, hogy a úszólétesítmény menetben van-e, vagy azt, hogy álló helyzetben van-e, vagy különös körülmények hátráltatják-e;
 
-(3) Az úszólétesítmény vezetője köteles
+q) a rakodási állapotot;
 
-a) az úszólétesítmény vagy kötelék legnagyobb hosszúságára,
+r) a fedélzeten tartózkodó személyek számát;
 
-b) az úszólétesítmény vagy kötelék legnagyobb szélességére,
+s) az induló- és célállomást.
 
-c) az úszólétesítmény vagy kötelék álló helyzetében mért legnagyobb merülésére,
+(3) Az úszólétesítmény vezetője
 
-d) a kötelék típusára, valamint
+a) az úszólétesítmény vagy kötelék legnagyobb hosszúságára;
 
-e) a szállított veszélyes árura vonatkozóan, az ADN szabályzat 5.4.1.1.1 bekezdése alatt meghatározott információkra
+b) az úszólétesítmény vagy kötelék legnagyobb szélességére;
 
-vonatkozó adat megváltozása esetén az adatot az aktuális állapotnak megfelelően haladéktalanul frissíteni.
+c) az úszólétesítmény vagy kötelék álló helyzetében mért legnagyobb merülésére;
+
+d) a kötelék típusára;
+
+e) a szállított veszélyes árura vonatkozóan, az ADN szabályzat 5.4.1.1 és az 5.4.1.2 bekezdése alatt meghatározott információkra;
+
+f) a fedélzeten tartózkodó személyek számára;
+
+g) az induló- és célállomásra
+
+[^5]: Az 5. § a 31/2020. (VIII. 31.) ITM rendelet 2. §-ával megállapított szöveg.

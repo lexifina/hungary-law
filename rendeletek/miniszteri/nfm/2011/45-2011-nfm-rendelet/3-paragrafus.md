@@ -2,7 +2,7 @@
 
 3. § (1) A RIS-t működtető hajózási hatóság (a továbbiakban: RIS-működtető):
 
-a)[^2] az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben meghatározott adatvédelmi felelőst nevez ki a RIS működésével összefüggő információáramlás felügyeletére,
+a)[^3] az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben meghatározott adatvédelmi felelőst nevez ki a RIS működésével összefüggő információáramlás felügyeletére,
 
 b) felügyeli a RIS alkalmazását és a RIS-üzemeltető folyami információs szolgáltatások során végzett tevékenységét,
 
@@ -48,4 +48,4 @@ l) gondoskodik a többnyelvű, az európai uniós belvízi közlekedésben bevez
 
 (4) A nemzetközi adatcsere műszaki feltételeit a RIS-üzemeltető a folyami információs szolgáltatásoknak az európai uniós tagállamok közötti együttműködése keretében történő végrehajtását szolgáló műszaki együttműködési megállapodásra, és a harmadik államokkal létrehozott kétoldalú nemzetközi szerződésben meghatározott feltételekre tekintettel biztosítja.
 
-[^2]: A 3. § (1) bekezdés a) pontja a 29/2014. (V. 5.) NFM rendelet 23. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés a) pontja a 29/2014. (V. 5.) NFM rendelet 23. §-ával megállapított szöveg.

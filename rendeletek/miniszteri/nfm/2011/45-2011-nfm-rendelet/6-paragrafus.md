@@ -1,3 +1,5 @@
+## vonatkozó adat megváltozása esetén az adatot az aktuális állapotnak megfelelően haladéktalanul frissíti.
+
 ## 6. Adatkezelés és adattovábbítás szabályai
 
 6. § (1) A RIS-adatok kezelésére a RIS-üzemeltető jogosult. A RIS-adatokhoz úszólétesítmény tulajdonosa, üzemben tartója vagy vezetője, a hajózási hatóság, a rendőrség, a vámhatóság, a határőrség, a katasztrófavédelem, a környezetvédelmi és az egészségügyi államigazgatási szerv, továbbá az önálló belügyi szervek és a polgári nemzetbiztonsági szolgálatok a jogszabályoknak megfelelően férhetnek hozzá.
@@ -16,6 +18,6 @@ b) a RIS-üzemeltető által az adat megismerésére és kezelésére jogosult h
 
 (6) Víziközlekedési balesettel vagy rendkívüli hajózási eseménnyel összefüggő adat megőrzéséről a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvény rendelkezései szerint kell gondoskodni.
 
-(7)[^3] A RIS üzemeltető a RIS-adatokat – a (6) bekezdésben foglaltak kivételével – a keletkezésüktől számított öt évig köteles tárolni.
+(7)[^6] A RIS üzemeltető a RIS-adatokat – a (6) bekezdésben foglaltak kivételével – a keletkezésüktől számított öt évig köteles tárolni.
 
-[^3]: A 6. § (7) bekezdését a) pontja a 29/2014. (V. 5.) NFM rendelet 24. §-a iktatta be.
+[^6]: A 6. § (7) bekezdését a) pontja a 29/2014. (V. 5.) NFM rendelet 24. §-a iktatta be.
