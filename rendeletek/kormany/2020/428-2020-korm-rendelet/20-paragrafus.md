@@ -1,4 +1,4 @@
-## 19. §[^17]
+## 19. §[^20]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 2. § 2020. szeptember 15. napján lép hatályba.
 
-[^17]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
