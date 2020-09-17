@@ -1,6 +1,6 @@
-## 16. §[^9] Az egyes egészségbiztosítási, egészségügyi és szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2015. (II. 2.) EMMI rendelettel megállapított 2. és 3. mellékletben foglaltakat a 2015. január havi teljesítésektől kell alkalmazni.
+## 17. §[^13] Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet és az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló 9/2012. (II. 28.) NEFMI rendelet módosításáról szóló 33/2020. (IX. 16.) EMMI rendelettel megállapított 6. mellékletben foglalt táblázat 1. sora szerinti egészségügyi eljárás a 2020. októberi teljesítményektől kezdve számolható el telemedicinális ellátás keretében.
 
-1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^10]
+1. melléklet a 9/2012. (II. 28.) NEFMI rendelethez[^14]
 
 ## Az egészségügyi eljárások elszámolhatósági feltételeinek szabályai
 
@@ -1018,5 +1018,5 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
-[^9]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
-[^10]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 2. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 17. §-t a 33/2020. (IX. 16.) EMMI rendelet 6. §-a iktatta be.
+[^14]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 2. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
