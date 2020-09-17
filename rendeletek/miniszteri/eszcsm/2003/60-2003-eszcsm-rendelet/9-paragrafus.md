@@ -1,4 +1,4 @@
-9. §[^43] (1) Az eltérő egészségi állapotú betegek differenciált ellátását a fokozatosság elvén egymásra épülő, a szakmai tevékenységeknek a szakmai tapasztalat és a technikai feltételek alapján csoportosított progresszivitási szinteken működő ellátórendszer biztosítja.
+9. §[^45] (1) Az eltérő egészségi állapotú betegek differenciált ellátását a fokozatosság elvén egymásra épülő, a szakmai tevékenységeknek a szakmai tapasztalat és a technikai feltételek alapján csoportosított progresszivitási szinteken működő ellátórendszer biztosítja.
 
 (2) A járóbetegek
 
@@ -16,6 +16,23 @@ b) speciális szaktudást, illetve eszközöket igénylő szakellátása a speci
 
 (6) A daganatos betegek többszakmás járó- és fekvőbeteg-szakellátására működési engedéllyel rendelkező egészségügyi szolgáltató onko-teamet köteles működtetni.
 
-(7) A hagyományos személyes találkozáson alapuló tevékenységek – így az orvos és a beteg, illetve az orvos és orvos közötti konzultáció – mellett az adott szakterület szakorvosa egészségügyi adatok elektronikus rendszerben történő továbbítása révén – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény előírásainak megfelelően – személyes jelenlét nélkül is felállíthat diagnózist és terápiás javaslatot adhat telemedicina keretében, az adott tevékenység végzéséhez a 2. mellékletben megállapított feltételek teljesítése esetén.
+(7)[^46] A hagyományos személyes találkozáson alapuló tevékenységek – így az orvos vagy egészségügyi szakdolgozó és a beteg közötti konzultáció, illetve az orvos és orvos közötti konzílium – mellett az adott szakterület szakorvosa, egészségügyi szakdolgozója kompetenciájában egészségügyi adatok infokommunikációs eszköz útján történő továbbítása révén, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény előírásainak megfelelően, személyes jelenlét nélkül is, ha az ellátás sajátosságai és orvosszakmai megítélése lehetővé teszik
 
-[^43]: A 9. § az 1/2012. (V. 31.) EMMI rendelet 5. §-ával megállapított szöveg.
+a) diagnózist, terápiás javaslatot állíthat fel,
+
+b) tanácsadást, konzultációt végezhet,
+
+c) betegirányítást láthat el,
+
+d) beutalót adhat,
+
+e) gondozást láthat el,
+
+f) terápiát, rehabilitációs tevékenységet végezhet,
+
+g) gyógyszert írhat fel,
+
+h) elektronikus vényen rendelhető gyógyászati segédeszközt írhat fel, az adott tevékenység végzéséhez e rendeletben meghatározott feltételek teljesítése esetén.
+
+[^45]: A 9. § az 1/2012. (V. 31.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^46]: A 9. § (7) bekezdése a 33/2020. (IX. 16.) EMMI rendelet 2. §-ával megállapított szöveg.
