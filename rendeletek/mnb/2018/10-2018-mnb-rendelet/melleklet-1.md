@@ -1,6 +1,6 @@
 ## 5. § E rendelet tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés hatodik francia bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 10/2018. (III. 27.) MNB rendelethez
+1. melléklet a 10/2018. (III. 27.) MNB rendelethez[^3]
 
 ## A bankközi finanszírozási mutató számításának módja
 
@@ -34,6 +34,8 @@ k) a hitelintézet anyavállalata által Magyarországon létesített fióktelep
 
 l) külföldi hitelintézet magyarországi fióktelepe esetén a külföldi hitelintézet egyéb magyarországi fióktelepétől vagy leányvállalatától kapott forrás.
 
+m) a pénzügyi derivatívák valós értéke, amennyiben az a mérleg forrás oldalán került kimutatásra.
+
 4. A bankközi finanszírozási mutató számlálójában figyelembe veendő forrásokat az alábbi táblázatban meghatározott kategóriákba kell sorolni, és az így megállapított beszámítandó elemeket össze kell szorozni – az 5. pontban foglaltak kivételével – a táblázat szerint hozzájuk rendelt súlyokkal. A letéti számlán lévő összegeket a legkorábbi kivonási lehetőséggel egyező lejáratúnak kell tekinteni.
 
 |  | Beszámítandó elem | Súly |
@@ -57,3 +59,5 @@ a) az anyavállalattól, külföldi hitelintézet magyarországi fióktelepe ese
 b) az a) pontban foglaltakon kívüli loro számlák egyenlegének azon részét, amely a saját vagy ügyfélmegbízásokhoz, valamint a letéti szolgáltatásokkal összefüggő forgalomhoz kapcsolódnak.
 
 6. A bankközi finanszírozási mutató számítása során mind a számlálóban, mind a nevezőben szereplő tételeket könyv szerinti értéken kell figyelembe venni.
+
+[^3]: Az 1. melléklet a 30/2020. (IX. 16.) MNB rendelet 3. § (3) bekezdése szerint módosított szöveg.

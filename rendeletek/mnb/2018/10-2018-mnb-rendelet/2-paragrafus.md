@@ -18,6 +18,8 @@
 
 9. margin számla: származtatott ügyletekből eredő kitettség csökkentésére kapott összegek elszámolására használt számla;
 
+9a.[^1] pénzügyi derivatívák valós értéke: a pénzügyi derivatíváknak a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerinti, az M01 MNB azonosító kódú adatszolgáltatásban ekként jelentett értékei;
+
 10. pénzügyi vállalat: a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet szerinti egyéb monetáris pénzügyi intézmények, egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet végzők, valamint biztosítók és nyugdíjpénztárak szektorába sorolt természetes és jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, függetlenül attól, hogy rezidens vagy nem-rezidens;
 
 11. pénzügyi vállalattól származó forrás: pénzügyi vállalattól származó mérlegen belüli kötelezettség, ideértve a hitelviszonyt megtestesítő értékpapírokat is;
@@ -27,3 +29,5 @@
 13. speciális intézménytől kapott hitel: az Európai Központi Banktól, a Magyar Nemzeti Banktól, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaságtól, az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaságtól, valamint a Hpt. 1. melléklete szerinti nemzetközi pénzügyi intézményektől származó források;
 
 14. visszavásárlási vételár: a Jht. 8. § (5) bekezdése szerinti fogalom.
+
+[^1]: A 2. § 9a. pontját a 30/2020. (IX. 16.) MNB rendelet 3. § (1) bekezdése iktatta be.
