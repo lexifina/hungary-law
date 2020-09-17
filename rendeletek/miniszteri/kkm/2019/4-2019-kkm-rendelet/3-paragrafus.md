@@ -54,9 +54,19 @@ hc) kutatás-fejlesztési támogatás,
 
 hd) kis- és középvállalkozásoknak nyújtott innovációs támogatás,
 
-i)[^8] 25. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+he)[^8] az Európai Bizottság C(2020) 3951 final számú, 2020. június 8-i határozata szerinti, a 40/A–C. § feltételeinek megfelelő támogatás,
 
-j)[^9] 31. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza szerinti támogatás
+hf)[^9] a 651/2014/EU bizottsági rendelet 18. cikke szerinti, kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
+
+hg)[^10] a 651/2014/EU bizottsági rendelet 19. cikke szerinti, kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
+
+hh)[^11] a 651/2014/EU bizottsági rendelet 22. cikke szerinti induló vállalkozásoknak nyújtott támogatás,
+
+hi)[^12] a 651/2014/EU bizottsági rendelet 41. cikke szerinti, megújuló energia termeléséhez nyújtott beruházási támogatás,
+
+i)[^13] 25. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+
+j)[^14] 31. sora alapján az Európai Bizottság C(2020) 3951 final számú 2020. június 8-i határozata szerinti, a 40/A–C. § feltételeinek megfelelő támogatás nyújtható.
 
 [^1]: A 3. § b) pontját a 8/2020. (VI. 12.) KKM rendelet 6. §-a hatályon kívül helyezte.
 [^2]: A 3. § c) pontja a 8/2020. (VI. 12.) KKM rendelet 5. § a) pontja szerint módosított szöveg.
@@ -65,5 +75,10 @@ j)[^9] 31. sora alapján az „Állami támogatási intézkedésekre vonatkozó 
 [^5]: A 3. § f) pontja a 8/2020. (VI. 12.) KKM rendelet 5. § d) pontja szerint módosított szöveg.
 [^6]: A 3. § f) pont fh) alpontját a 8/2020. (VI. 12.) KKM rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 3. § g) pontja a 8/2020. (VI. 12.) KKM rendelet 5. § e) pontja szerint módosított szöveg.
-[^8]: A 3. § i) pontja a 8/2020. (VI. 12.) KKM rendelet 5. § f) pontja szerint módosított szöveg.
-[^9]: A 3. § j) pontját a 8/2020. (VI. 12.) KKM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 3. § h) pont he) alpontját a 14/2020. (IX. 16.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^9]: A 3. § h) pont hf) alpontját a 14/2020. (IX. 16.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 3. § h) pont hg) alpontját a 14/2020. (IX. 16.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 3. § h) pont hh) alpontját a 14/2020. (IX. 16.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 3. § h) pont hi) alpontját a 14/2020. (IX. 16.) KKM rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 3. § i) pontja a 8/2020. (VI. 12.) KKM rendelet 5. § f) pontja szerint módosított szöveg.
+[^14]: A 3. § j) pontját a 8/2020. (VI. 12.) KKM rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2020. (IX. 16.) KKM rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-4-20-6Q
 | 2019-06-16 | 2019-4-20-6Q.2 | 2010: CXXX. törvény |
 | 2019-12-19 | 2019-4-20-6Q.3 | 8/2019. (XII. 18.) KKM rendelet |
 | 2020-06-13 | 2019-4-20-6Q.4 | 8/2020. (VI. 12.) KKM rendelet |
+| 2020-09-17 | 2019-4-20-6Q.5 | 14/2020. (IX. 16.) KKM rendelet |
