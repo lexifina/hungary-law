@@ -1,0 +1,1 @@
+## „k) a 651/2014/EU bizottsági rendelet és a 702/2014/EU bizottsági rendelet szerinti támogatás a 651/2014/EU bizottsági rendelet 4. cikkében vagy a 702/2014/EU bizottsági rendelet 4. cikkében rögzített bejelentési határértéket meghaladó mértékben.”
