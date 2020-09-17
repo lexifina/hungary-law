@@ -10,17 +10,17 @@
 
 |  | Beszámítandó elemek | Súlyok |
 
-| 1. | 1 év vagy azon túli hátralévő lejáratú devizabetétek és devizakötelezettségek |  |
+| 1. | 1 év vagy azon túli hátralévő lejáratú devizabetétek és devizakötelezettségek | 100% |
 
-| 1.1. | 1 év vagy azon túli hátralévő lejáratú devizakötvények | 100% |
+| 1.1. |  |  |
 
-| 1.2. | 1 év vagy azon túli hátralévő lejáratú háztartások, nem pénzügyi vállalatok (ideértve a kkv-kat is) és egyéb szektorok devizabetétei és devizakötelezettségei | 100% |
+| 1.2. |  |  |
 
-| 1.3. | 1 év vagy azon túli, de 2 éven belüli hátralévő lejáratú pénzügyi vállalatok devizabetétei és devizakötelezettségei, ideértve a pénzpiaci alapok betéteit is | 70% |
+| 1.3. |  |  |
 
-| 1.4. | 2 év vagy azon túli, de 5 éven belüli hátralévő lejáratú pénzügyi vállalatok devizabetétei és devizakötelezettségei, ideértve a pénzpiaci alapok betéteit is | 90% |
+| 1.4. |  |  |
 
-| 1.5. | 5 év vagy azon túli hátralévő lejáratú pénzügyi vállalatok devizabetétei és devizakötelezettségei, ideértve a pénzpiaci alapok betéteit is | 100% |
+| 1.5. |  |  |
 
 | 2. | Óvadéki devizabetét | 100% |
 
@@ -94,4 +94,4 @@
 
 | 17. | Változó devizás hitelkeret | 2,5% |
 
-[^14]: Az 1. melléklet a 26/2015. (VII. 30.) MNB rendelet 3. § (2) bekezdése, a 22/2018. (VI. 27.) MNB rendelet 3. §-a, az 5/2020. (III. 19.) MNB rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^14]: Az 1. melléklet a 26/2015. (VII. 30.) MNB rendelet 3. § (2) bekezdése, a 22/2018. (VI. 27.) MNB rendelet 3. §-a, az 5/2020. (III. 19.) MNB rendelet 1. § (2) bekezdése, a 30/2020. (IX. 16.) MNB rendelet 1. §-a és 5. §-a szerint módosított szöveg.
