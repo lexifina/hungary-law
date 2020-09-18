@@ -1,6 +1,6 @@
 ## 67. §
 
-## 27. [^180] Az IMIR 2014–2020 és a NAHU 2014–2020 rendszerre vonatkozó speciális szabályok
+## 27. [^181] Az IMIR 2014–2020 és a NAHU 2014–2020 rendszerre vonatkozó speciális szabályok
 
 ## 68. § A négy szem elvének érvényesülését köteles biztosítani
 
@@ -10,4 +10,4 @@ b) a nemzeti hatóság, a hitelesítési tevékenységre kijelölt szervezet és
 
 történő rögzítése során.
 
-[^180]: A 27. alcím (68–71/A. §) a 218/2018. (XI. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^181]: A 27. alcím (68–71/A. §) a 218/2018. (XI. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
