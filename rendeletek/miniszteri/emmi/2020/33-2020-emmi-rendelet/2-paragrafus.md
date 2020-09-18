@@ -1,1 +1,3 @@
-## „(2b) Ha az (1) bekezdés g) pontja szerinti szolgáltatás internetkapcsolat keretében valósul meg, biztosítani kell a szélessávú internetkapcsolatot, a megfelelő, stabil adatátvitelt és adatbiztonságot, vírusvédelmet. Ha jogszabály az adott egészségügyi eljáráshoz videokapcsolat alkalmazását írja elő, akkor az infokommunikációs eszköz alatt ezen eszközöket is érteni kell. A beteg egyértelmű azonosításáról a szolgáltató gondoskodik.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

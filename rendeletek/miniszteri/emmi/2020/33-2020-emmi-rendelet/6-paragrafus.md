@@ -1,3 +1,3 @@
-## 5. § Az R2. 7. §-a a következő (6) bekezdéssel egészül ki:
+## 5. §[^6]
 
-## „(6) Azokat az eljárásokat, amelyek telemedicinális ellátás keretében is elszámolhatóak, a 6. melléklet tartalmazza.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
