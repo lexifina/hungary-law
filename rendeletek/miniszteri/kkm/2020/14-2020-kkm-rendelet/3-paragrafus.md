@@ -1,1 +1,3 @@
-## „k) a 651/2014/EU bizottsági rendelet és a 702/2014/EU bizottsági rendelet szerinti támogatás a 651/2014/EU bizottsági rendelet 4. cikkében vagy a 702/2014/EU bizottsági rendelet 4. cikkében rögzített bejelentési határértéket meghaladó mértékben.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

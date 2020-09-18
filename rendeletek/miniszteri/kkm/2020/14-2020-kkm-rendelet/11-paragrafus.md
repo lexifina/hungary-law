@@ -1,1 +1,3 @@
-## „(7) A százezer eurónak – mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások, továbbá halászati és akvakultúra-ágazatban tevékeny vállalkozások esetén a tízezer eurónak – megfelelő forintösszeget meghaladó támogatástartalmú egyedi támogatásoknak az Atr. 6. melléklete szerinti adatait a Közlemény alapján közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel a támogatást nyújtó 2021. február 1-ig továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait.”
+## 10. §[^11]
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 5. § A KKM rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(1) Regionális beruházási támogatás, kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás, kis- és középvállalkozás részére vásáron való részvételéhez nyújtott támogatás, mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás, megújuló energiához nyújtott beruházási támogatás, kutatás-fejlesztési támogatás és kis- és középvállalkozásoknak nyújtott innovációs támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

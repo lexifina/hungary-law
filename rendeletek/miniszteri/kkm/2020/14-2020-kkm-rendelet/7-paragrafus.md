@@ -1,3 +1,3 @@
-## 6. § A KKM rendelet 15. §-a a következő (3) bekezdéssel egészül ki:
+## 6. §[^7]
 
-## „(3) A 2020. január 1. és 2021. június 30. között megszűnt munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (2) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
