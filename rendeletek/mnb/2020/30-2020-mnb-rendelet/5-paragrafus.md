@@ -1,1 +1,3 @@
-## 4. § A jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 37/2019. (XI. 19.) MNB rendelet 2. melléklete a 3. melléklet szerint módosul.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
