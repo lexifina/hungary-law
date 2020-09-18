@@ -1,4 +1,4 @@
-## lehet.
+## 22/A. §[^28] A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvény alapján fenntartóváltással érintett felsőoktatási intézmény megvalósítás alatt álló projektrésze tekintetében a hazai társfinanszírozás mértéke nem változik.
 
 23. § (1) A hazai társfinanszírozási támogatási szerződést a nemzeti hatóság megbízásából a költségellenőrzési tevékenységre kijelölt szervezet köti meg a hazai kedvezményezettel.
 
@@ -15,3 +15,5 @@ c) kezesség,
 d) bankgarancia.
 
 (4) A nemzeti hatóság határozza meg és hagyja jóvá a hazai társfinanszírozási támogatási szerződés további, a (3) bekezdés szerinti rendelkezéseken kívüli tartalmi követelményét.
+
+[^28]: A 22/A. §-t a 426/2020. (IX. 10.) Korm. rendelet 4. §-a iktatta be.

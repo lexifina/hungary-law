@@ -1,8 +1,8 @@
 ## 14. Jelentés a szabálytalanságokról
 
-63. § (1) A nemzeti hatóság a megállapított szabálytalanságokról jelentést küld
+63. § (1)[^67] A nemzeti hatóság a megállapított, uniós jogszabályok alapján jelentéstételi kötelezettség alá eső szabálytalanságokról jelentést küld
 
-a)[^24] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére a szabálytalanságot megállapító döntés meghozatalát követő tíz napon belül,
+a)[^68] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére a szabálytalanságot megállapító döntés meghozatalát követő tíz napon belül,
 
 b) az audithatóság részére, évente egy alkalommal összesítetten, a számviteli év végét követő két hónapon belül.
 
@@ -14,4 +14,5 @@ b) az audithatóság részére, évente egy alkalommal összesítetten, a számv
 
 (5) Az (1) és a (2) bekezdés szerinti jelentés elküldése elektronikus úton történik.
 
-[^24]: A 63. § (1) bekezdés a) pontja a 218/2018. (XI. 27.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^67]: A 63. § (1) bekezdés nyitó szövegrésze a 426/2020. (IX. 10.) Korm. rendelet 16. § 13. pontja szerint módosított szöveg.
+[^68]: A 63. § (1) bekezdés a) pontja a 218/2018. (XI. 27.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

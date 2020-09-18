@@ -1,4 +1,4 @@
-## 21. §[^14] A közös monitoring bizottság dönthet a TA projektre jóváhagyott támogatás megemeléséről. A TA támogatási szerződés a támogatott tevékenység megvalósításának időtartama alatt módosítható azzal, hogy a módosítás nem irányulhat a támogatott tevékenység eredeti céljának megváltoztatására és a TA támogatási szerződésben meghatározott támogatáson felüli összeg biztosítására, kivéve, ha a többlettámogatás biztosítását a közös monitoring bizottság döntése alapozza meg.
+## 21. §[^27] A közös monitoring bizottság dönthet a TA projektre jóváhagyott támogatás megemeléséről. A TA támogatási szerződés a támogatott tevékenység megvalósításának időtartama alatt módosítható azzal, hogy a módosítás nem irányulhat a támogatott tevékenység eredeti céljának megváltoztatására és a TA támogatási szerződésben meghatározott támogatáson felüli összeg biztosítására, kivéve, ha a többlettámogatás biztosítását a közös monitoring bizottság döntése alapozza meg.
 
 ## III. Fejezet
 
@@ -14,4 +14,4 @@ a) központi és köztestületi költségvetési szerv, valamint közvetlen vagy
 
 b) az a) pont alá nem tartozó hazai kedvezményezett esetén a projektrész összes elszámolható költségeinek legfeljebb 5%-a
 
-[^14]: A 21. § a 218/2018. (XI. 27.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.
+[^27]: A 21. § a 218/2018. (XI. 27.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.

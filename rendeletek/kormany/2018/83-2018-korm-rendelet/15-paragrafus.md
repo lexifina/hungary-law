@@ -24,6 +24,6 @@ c) az éves beszámolót.
 
 (9) Az audithatóság a nemzetközileg elfogadott ellenőrzési standardoknak és az uniós mintának megfelelő auditvéleményt, valamint éves kontrolljelentést készít.
 
-(10)[^12] Az érintett szervezetek az éves elszámolás dokumentumait – az éves összefoglalót, a vezetői nyilatkozatot, az éves beszámolót, az auditvéleményt és az éves kontrolljelentést – a közös monitoring bizottság jóváhagyását követően február 15-éig megküldik az Európai Bizottság részére.
+(10)[^22] Az érintett szervezetek az éves elszámolás dokumentumait – az éves összefoglalót, a vezetői nyilatkozatot, az éves beszámolót, az auditvéleményt és az éves kontrolljelentést – a közös monitoring bizottság jóváhagyását követően február 15-éig megküldik az Európai Bizottság részére.
 
-[^12]: A 15. § (10) bekezdése a 218/2018. (XI. 27.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^22]: A 15. § (10) bekezdése a 218/2018. (XI. 27.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
