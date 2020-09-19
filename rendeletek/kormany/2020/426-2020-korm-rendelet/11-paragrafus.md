@@ -1,3 +1,3 @@
-## 10. § A Rendelet 48. §-a helyébe a következő rendelkezés lép:
+## 10. §[^11]
 
-## „48. § A szabálytalanság-felelős a szabálytalansági vizsgálat lezárását és a szabálytalansági vizsgálat eredményét rögzíti az INTERREG+ rendszerben, valamint a NAHU 2014–2020 rendszerben.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

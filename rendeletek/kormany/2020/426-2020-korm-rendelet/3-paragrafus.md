@@ -1,1 +1,3 @@
-## „(2) Az (1) bekezdésben nem értelmezett fogalmakat a 232/2014/EU európai parlamenti és tanácsi rendelet, a 897/2014/EU bizottsági végrehajtási rendelet, valamint az (EU) 2020/879 bizottsági végrehajtási rendelet szerint kell értelmezni.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

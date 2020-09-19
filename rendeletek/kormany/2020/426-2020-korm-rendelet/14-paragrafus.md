@@ -1,3 +1,3 @@
-## 13. § A Rendelet 71. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^14]
 
-## „(3) Az audithatóság a Program elfogadását követő évtől minden év december 15-éig elkészíti az előző számviteli évre vonatkozó mintavételes ellenőrzési jelentéseket, amelyeket haladéktalanul megküld az ellenőrzött szervezet részére.”
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

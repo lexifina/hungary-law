@@ -1,7 +1,3 @@
-## 11. § A Rendelet 53. § (2) bekezdése a következő c) ponttal egészül ki:
+## 11. §[^12]
 
-## [Az (1) bekezdés b) pontja szerinti döntésben]
-
-## „c) a szerződéshez kapcsolódó, későbbi elszámolást is érintő átalánykorrekció esetén a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje által benyújtott, a következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegéből történő levonását”
-
-## (lehet elrendelni.)
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
