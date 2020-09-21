@@ -1,0 +1,192 @@
+# A Kormány 1594/2020. (IX. 21.) Korm. határozata
+
+Magyar Közlöny 2020. évi 209. szám, 2020. szeptember 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/y9NUP4SbEtQ1c0PYJ2Wi5f5fb2383509e/dokumentumok/0f4a4d18d75836f442bda5123eb2aaa03aa9d54d/letoltes)
+
+---
+
+A Kormány 1594/2020. (IX. 21.) Korm. határozata
+az IKOP-2.1.0-15-2017-00035 azonosító számú („Püspökladány–Biharkeresztes szűk keresztmetszet kiváltás
+és villamosítás”című) projekt összköltségének növeléséről és az Integrált Közlekedésfejlesztési Operatív
+Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat módosításáról
+1. A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés c), f) és j) pontjában foglalt
+feladatkörében eljárva
+a) egyetért az IKOP-2.1.0-15-2017-00035 azonosító számú, „Püspökladány–Biharkeresztes szűk keresztmetszet
+kiváltás és villamosítás” című projekt (a továbbiakban: projekt) megvalósításához szükséges forrás
+biztosításával, az 1. melléklet szerint, és az európai uniós forrásból finanszírozott egyes projektek
+költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet (a továbbiakban:
+Kormányrendelet) 6/A. §-a alapján hozzájárul, hogy a projekt keretemelése és annak végrehajtása során
+a Kormányrendelet 5. §-a ne kerüljön alkalmazásra;
+b) egyetért a projekt 1. mellékletben foglalt táblázat P:4 mezője szerinti összegű, Európai Bizottság felé el nem
+számolható kiadásainak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény
+1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 9. 2014–2020 közötti
+kohéziós politikai operatív programok alcím, 4. Integrált Közlekedésfejlesztési OP (IKOP) jogcímcsoport hazai
+társfinanszírozásán felüli felhasználásával történő finanszírozásával az Uniós fejlesztések fejezetbe tartozó
+fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. §
+(1) bekezdés a) és f) pontja alapján;
+c) egyetért a projekt támogatási szerződésének 1. melléklet szerinti módosításával;
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: azonnal
+d) egyetért a projekt támogatási kérelmének Európai Bizottság felé történő benyújtásával;
+e) felhívja az innovációért és technológiáért felelős minisztert, hogy ha az 1. mellékletben foglalt táblázat
+J:4 mezőjében feltüntetett Integrált Közlekedésfejlesztési Operatív Program keretében finanszírozandó
+támogatás összege nem szükséges az Integrált Közlekedésfejlesztési Operatív Program teljes
+forrásfelhasználásához, abban az esetben gondoskodjon a támogatás összegének a 2021–2027 közötti
+európai uniós programozási időszak forrásai terhére történő haladéktalan átforgatásáról és elszámolásáról,
+amint erre a vonatkozó európai uniós szabályozás lehetőséget biztosít.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: 2023. december 31.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló
+1247/2016. (V. 18.) Korm. határozat
+a) 1. pont f) alpont faa) alpontjában a„113,82%-áig”szövegrész helyébe a„123,25%-áig”szöveg,
+b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az„569,888”szövegrész helyébe a„617,075”szöveg,
+c) 2. mellékletében foglalt táblázat D:64 mezőjében a„23,80 (támogatási intenzitás: 100%)” szövegrész helyébe
+a„47,76 (támogatási intenzitás: 93,37%)”szöveg
+lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1594/2020. (IX. 21.) Korm. határozathoz
+
+A B C D E F G H I J K L M N O P Q R S T
+1.
+Projekt
+azonosító
+száma
+Projekt
+megnevezése
+Támogatást
+igénylő neve
+Projekt eredeti támogatási intenzitása és forrásszerkezete Változás Projekt támogatási intenzitása és forrásszerkezete a módosítás után
+Projekt
+összköltsége
+(forint)
+Projekt rövid
+bemutatása
+2.
+Projekt
+támogatási
+intenzitása
+Projekt Integrált
+Közlekedésfejlesztési
+Operatív Program
+(a továbbiakban: IKOP)
+keretében
+finanszírozandó
+támogatásának
+összege
+(forint)
+Projekt részére az IKOP-előirányzat hazai
+társfinanszírozáson felüli felhasználásával
+biztosítandó forrás
+Projekt
+támogatási
+intenzitása
+Projekt IKOP
+keretében
+finanszírozandó
+támogatásának
+összege
+(forint)
+Projekt részére az IKOP-előirányzat hazai
+társfinanszírozáson felüli felhasználásával
+biztosítandó forrás
+Projekt
+támogatási
+intenzitása
+Projekt IKOP
+keretében
+finanszírozandó
+támogatás
+összege
+(forint)
+Projekt részére az IKOP-előirányzat hazai
+társfinanszírozáson felüli felhasználásával
+biztosítandó forrás
+3.
+Megtérülő
+projekt-
+költségre jutó
+központi
+költségvetési
+forrás összege
+(forint)
+Projekt le
+nem
+vonható,
+az EU felé el
+nem
+számolható
+ÁFA (forint)
+Az EU felé
+el nem
+számolható
+költségek
+(forint)
+Megtérülő
+projektköltségre
+jutó központi
+költségvetési
+forrás összege
+(forint)
+Projekt le nem
+vonható,
+az EU felé el
+nem
+számolható
+ÁFA
+(forint)
+Az EU felé
+el nem
+számolható
+költségek
+(forint)
+Megtérülő
+projektköltségre
+jutó központi
+költségvetési
+forrás összege
+(forint)
+Projekt
+le nem
+vonható,
+az EU felé
+el nem
+számolható
+ÁFA
+(forint)
+Az EU felé
+el nem
+számolható
+költségek
+(forint)
+4.
+IKOP-2.1.0-15-
+2017-00035
+Püspökladány–
+Biharkeresztes
+szűk
+keresztmetszet
+kiváltás és
+villamosítás
+NIF Nemzeti
+Infrastruktúra
+Fejlesztő
+zártkörűen
+működő
+Részvénytársaság
+100% 573 801 836 0 134 162 446 0 93,37% 47 186 194 666 3 391 821 008 13 637 164 231 0 93,37% 47 759 996 502 3 391 821 008 13 771 326 677 0 64 923 144 187
+A Püspökladány–
+Biharkeresztes
+vasútvonalon
+a szűk
+keresztmetszetek
+kiváltásához
+szükséges
+pályaépítések
+elvégzése,
+villamosítás és
+biztosító
+berendezés
+fejlesztés
