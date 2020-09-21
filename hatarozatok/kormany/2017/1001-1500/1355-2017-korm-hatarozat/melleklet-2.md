@@ -20,7 +20,7 @@
 
 | 2. | Debrecen Megyei Jogú Város Önkormányzata | Debrecen 0493/59 hrsz. 1/1 | településfejlesztés, településrendezés, helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás/vízmű védterület biztosítása, vízgazdálkodási, vízkárelhárítási feladatok | Legelő | 3894 |
 
-| 3. | Debrecen Megyei Jogú Város Önkormányzata | Debrecen 8506 hrsz. 1/1 | településfejlesztés, településrendezés | Kivett lakóház, udvar | 584 |
+| 3. |  |  |  |  |  |
 
 | 4. | Kecskemét Megyei Jogú Város Önkormányzata | Kecskemét 3708/10 hrsz. 1/1 | kulturális szolgáltatás/közösségi központ, nyugdíjas- klub létrehozása | Kivett pártház | 322 |
 
@@ -46,4 +46,4 @@
 
 | 15. | Tatabánya Megyei Jogú Város Önkormányzata | Tatabánya 7703/15 hrsz. 1/1 | lakás- és helyiséggazdálkodás/kollégium működtetése | Kivett udvar és épület | 3810 |
 
-[^1]: A 2. melléklet az 1378/2020. (VII. 10.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: A 2. melléklet az 1378/2020. (VII. 10.) Korm. határozat 10. pontja, az 1588/2020. (IX. 21.) Korm. határozat 13. pontja szerint módosított szöveg.
