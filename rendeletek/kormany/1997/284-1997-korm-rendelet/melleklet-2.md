@@ -1,4 +1,4 @@
-2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^26]
+2. számú melléklet a 284/1997. (XII. 23.) Korm. rendelethez[^28]
 
 | A | B |
 
@@ -140,4 +140,8 @@
 
 | 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^26]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 2. §-a, a 13/2020. (II. 7.) Korm. rendelet 12. §-a szerint módosított szöveg.
+| 17. | Járványügyi készültség idején a SARS-CoV-2 RT-PCR módszerrel történő kimutatására vonatkozó vizsgálat díja | 17 000 Ft |
+
+| 18. | Járványügyi készültség idején a SARS-CoV-2 RT-PCR mintavétel díja | 2 500 Ft |
+
+[^28]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a, a 413/2015. (XII. 23.) Korm. rendelet 11. § b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 2. §-a, a 13/2020. (II. 7.) Korm. rendelet 12. §-a, a 433/2020. (IX. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
