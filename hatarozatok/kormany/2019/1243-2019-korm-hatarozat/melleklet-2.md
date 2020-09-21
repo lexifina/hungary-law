@@ -272,7 +272,7 @@
 
 | 135. | Vértestolna Község Önkormányzata | Vértestolna, belterület, 226/18 hrsz. 1/1 | településüzemeltetés / helyi közutak és tartozékainak kialakítása és fenntartása, egyéb közterületek kialakítása és fenntartása | kivett járda | 1571 |
 
-| 136. | Veszprém Megyei Jogú Város Önkormányzata | Veszprém, külterület, 0310 hrsz. 1/1 | településfejlesztés, településrendezés/ helyi közutak és tartozékainak kialakítása és fenntartása | kivett közút | 9111 |
+| 136. |  |  |  |  |  |
 
 | 137. | Veszprém Megyei Jogú Város Önkormányzata | Veszprém, belterület, 1965/13/A/177 hrsz. 1/1 | lakás- és helyiséggazdálkodási feladatok ellátásának támogatására, szociális bérlakást biztosító funkció céljából | szálló | 483 |
 

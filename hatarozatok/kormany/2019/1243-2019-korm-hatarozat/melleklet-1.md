@@ -34,11 +34,7 @@
 
 ## Határidő: e határozat közzétételét követő hat hónapon belül
 
-## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Veszprém külterület, 0310 helyrajzi számú ingatlan esetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés tartalmazza azt is, hogy annak hatálybalépését követően az érintett önkormányzat helytáll a VERGA Veszprémi Erdőgazdaság Zártkörűen Működő Részvénytársaság (a továbbiakban: VERGA Zrt.) vagyoni jellegű követelése vonatkozásában, továbbá vállalja, hogy az ingatlan mindenkori tulajdonosa, vagyonkezelője, használója térítésmentes, egyéb feltételek kikötése nélküli használatot biztosít a VERGA Zrt. részére;
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: e határozat közzétételét követő hat hónapon belül
+## 5.[^1]
 
 ## 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Ráckeve belterület, 2205 helyrajzi számú ingatlan esetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés tartalmazza azt is, hogy az érintett önkormányzat vállalja, hogy a Ráckeve belterület, 2205 helyrajzi számú ingatlan vonatkozásában a Pest Megyei Vagyonátadó Bizottság 55.185-9/1993. számú határozata alapján tulajdonjogi igénnyel fellépő bármely harmadik személy felé a harmadik személy által támasztott követelés erejéig a Magyar Állam, illetve az MNV Zrt. helyett helytáll, és a Magyar Államot vagy az MNV Zrt.-t ezen harmadik személy által támasztott igényből eredő bármilyen hátrány esetén azt a Magyar Állam, illetve az MNV Zrt. javára meghatározott időn belül megtéríti;
 
@@ -124,35 +120,11 @@
 
 ## Határidő: e határozat közzétételét követő hat hónapon belül
 
-## 14. a Vtv. 36. § (2) bekezdés e) pontja, valamint 36. § (3) bekezdése alapján úgy dönt, hogy a 3. mellékletben felsorolt vagyonelemek ingyenesen az Utcai Szociális Segítők Egyesülete tulajdonába kerüljenek az általa ellátott utcai szociális munka elősegítése, hajléktalanok téli krízisellátása közfeladatok megvalósításának elősegítése érdekében;
+## 14.[^2]
 
-## 15. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket annak érdekében, hogy a 3. mellékletben felsorolt ingóságok tulajdonba adásáról szóló szerződés az Utcai Szociális Segítők Egyesületével megkötésre kerüljön;
+## 15.[^3]
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: e határozat közzétételét követő hat hónapon belül
-
-## 16. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 15. pont szerinti szerződés – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi követelményeken túlmenően – tartalmazza azt is, hogy
-
-## a) a tulajdonba adásra az Utcai Szociális Segítők Egyesülete által elvégzendő feladatok, úgymint az intézményesült ellátásból kiszorult vagy az azzal szemben bizalmatlan, az utcán, közterületen, nem lakás céljára szolgáló helyiségben életvitelszerűen tartózkodó egyének, csoportok szociális és mentális segítése, elsősorban az életmentés, megelőzés, integrálás feladatok elősegítése érdekében, az utcai szociális munka elősegítése, hajléktalanok téli krízisellátása céljából kerül sor (a továbbiakban: hasznosítási cél), az ingóságokat egyéb feladatok ellátása céljából használni a hasznosítási cél megvalósítását nem veszélyeztető módon lehetséges,
-
-## b) az átadandó ingóságok per-, teher- és igénymentesek,
-
-## c) az Utcai Szociális Segítők Egyesülete tudomásul veszi, hogy az ingóságok tulajdonba vételével, valamint a birtokátruházással kapcsolatos összes költség az Utcai Szociális Segítők Egyesületét terheli, továbbá vállalja, hogy az e alpontban megfogalmazott költségeket az MNV Zrt. által kiállított számla kézhezvételét követő 15 napon belül megtéríti az MNV Zrt. felé,
-
-## d) az Utcai Szociális Segítők Egyesülete vállalja, hogy az ingyenesen tulajdonába kerülő ingóságok vonatkozásában a tulajdonba adással és az ingóságok műszaki és egyéb állapotával kapcsolatban a Magyar Állammal szemben semmilyen követelést nem támaszt,
-
-## e) az Utcai Szociális Segítők Egyesülete az Nvtv. 13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról szóló beszámolási kötelezettségének – a szerződés hatálybalépését követő évtől kezdődően – az ingóságok elhasználódási ideje alatt vagy selejtezésének időpontjáig, illetve amíg az ingóságok az Utcai Szociális Segítők Egyesülete tulajdonában állnak, de legfeljebb tizenöt évig minden év december 31. napjáig írásban tesz eleget,
-
-## f) amennyiben az Utcai Szociális Segítők Egyesülete az e) alpontban foglalt kötelezettségének nem tesz eleget, az ingóság(ok) szerződésben rögzített forgalmi értékének 1 százalékát mint késedelmi kötbért köteles az MNV Zrt. erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni,
-
-## g) amennyiben az ingó vagyonelemek szabályszerű, a vonatkozó jogszabályokban foglaltaknak megfelelő selejtezésére kerül sor, az Utcai Szociális Segítők Egyesülete hasznosítási céllal megegyező további hasznosítási kötelezettsége megszűnik, a selejtezésről az Utcai Szociális Segítők Egyesülete beszámolási kötelezettséggel tartozik az MNV Zrt. felé,
-
-## h) amennyiben az Utcai Szociális Segítők Egyesülete az ingóság hasznosítási célhoz kötött használatára vonatkozó kötelezettségeinek részben vagy egészben nem tesz eleget, köteles a jogsértő állapotot megszüntetni, a jogsértő állapot megszüntetésére az MNV Zrt. előzetes, írásbeli felhívásában megszabott határidő elmulasztása esetén köteles a kötelezettségszegéssel érintett vagyontárgy becsült forgalmi értékének a kötelezettség megsértésének napjától számított, a mindenkori jegybanki alapkamattal növelt összegét az MNV Zrt. részére az erre vonatkozó felszólítás kézhezvételétől számított 60 napon belül nemteljesítési kötbérként megfizetni;
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: e határozat közzétételét követő hat hónapon belül
+## 16.[^4]
 
 ## 17. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 4. pont, a 12. pont és a 15. pont szerinti szerződések megkötésére kizárólag abban az esetben kerüljön sor, ha a kedvezményezett a szerződés általa történő aláírásának időpontjában az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerinti köztartozásmentes adózói adatbázisban nyilvántartott köztartozásmentes adózónak minősül, vagy a köztartozásmentes adózói minőséget a kedvezményezett az állami adó- és vámhatóság által 30 napnál nem régebben kiállított, köztartozásmentes adózói minőségről szóló igazolással igazolja, és a tulajdonosi joggyakorlóval szemben lejárt tartozással nem rendelkezik;
 
@@ -174,4 +146,10 @@
 
 ## a c) alpont tekintetében 2019. október 31.
 
-1. melléklet az 1243/2019. (IV. 30.) Korm. határozathoz
+1. melléklet az 1243/2019. (IV. 30.) Korm. határozathoz[^5]
+
+[^1]: Az 5. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
+[^2]: A 14. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
+[^3]: A 15. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
+[^4]: A 16. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
+[^5]: Az 1. melléklet az 1588/2020. (IX. 21.) Korm. határozat 12. pontja szerint módosított szöveg.
