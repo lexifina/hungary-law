@@ -208,21 +208,23 @@ Nacsa Lőrinc (KDNP)
 
 dr. Brenner Koloman (Jobbik)[^43]
 
-dr. Gurmai Zita (MSZP)[^44]
+Dudás Róbert (Jobbik)[^44]
 
-Molnár Gyula (MSZP)[^45]
+dr. Gurmai Zita (MSZP)[^45]
+
+Molnár Gyula (MSZP)[^46]
 
 i) Mentelmi bizottság (6 fő)
 
 Elnök: dr. Hargitai János (KDNP)
 
-Alelnök: Kocsis-Cake Olivio (Párbeszéd)[^46]
+Alelnök: Kocsis-Cake Olivio (Párbeszéd)[^47]
 
-Tagok: Dankó Béla (Fidesz)[^47]
+Tagok: Dankó Béla (Fidesz)[^48]
 
-dr. Becsó Károly (Fidesz)[^48]
+dr. Becsó Károly (Fidesz)[^49]
 
-Dúró Dóra (független)[^49]
+Dúró Dóra (független)[^50]
 
 Szabó Sándor (MSZP)
 
@@ -230,7 +232,7 @@ j) Mezőgazdasági bizottság (11 fő)
 
 Elnök: Font Sándor (Fidesz)
 
-Alelnök: Czerván György (Fidesz)[^50]
+Alelnök: Czerván György (Fidesz)[^51]
 
 Győrffy Balázs (Fidesz)
 
@@ -238,53 +240,53 @@ Magyar Zoltán (Jobbik)
 
 Tagok: Dankó Béla (Fidesz)
 
-dr. Fazekas Sándor (Fidesz)[^51]
+dr. Fazekas Sándor (Fidesz)[^52]
 
 Pócs János (Fidesz)
 
-Horváth István (Fidesz)[^52]
+Horváth István (Fidesz)[^53]
 
-dr. Apáti István (független)[^53]
+dr. Apáti István (független)[^54]
 
 dr. Steinmetz Ádám (Jobbik)
 
-Csárdi Antal (LMP)[^54]
+Csárdi Antal (LMP)[^55]
 
 k) Nemzetbiztonsági bizottság (7 fő)
 
-Elnök: Stummer János (Jobbik)[^55]
+Elnök: Stummer János (Jobbik)[^56]
 
-Alelnök: Halász János (Fidesz)[^56]
+Alelnök: Halász János (Fidesz)[^57]
 
 Tagok: Lezsák Sándor (Fidesz)
 
-Hubay György (Fidesz)[^57]
+Hubay György (Fidesz)[^58]
 
 Móring József Attila (KDNP)
 
 dr. Molnár Zsolt (MSZP)
 
-Ungár Péter (LMP)[^58]
+Ungár Péter (LMP)[^59]
 
 l) Nemzeti összetartozás bizottsága (9 fő)
 
 Elnök: Pánczél Károly (Fidesz)
 
-Alelnök: Fenyvesi Zoltán (Fidesz)[^59]
+Alelnök: Fenyvesi Zoltán (Fidesz)[^60]
 
 Szászfalvi László (KDNP)
 
 dr. Molnár Zsolt (MSZP)
 
-Tagok: Jakab István (Fidesz)[^60]
+Tagok: Jakab István (Fidesz)[^61]
 
-Lázár János (Fidesz)[^61]
+Lázár János (Fidesz)[^62]
 
 dr. Zsigmond Barna Pál (Fidesz)
 
-Balczó Zoltán (Jobbik)[^62]
+Balczó Zoltán (Jobbik)[^63]
 
-Bencsik János (független)[^63]
+Bencsik János (független)[^64]
 
 m) Népjóléti bizottság (15 fő)
 
@@ -296,7 +298,7 @@ dr. Selmeczi Gabriella (Fidesz)
 
 dr. Zombor Gábor (Fidesz)
 
-Rig Lajos (Jobbik)[^64]
+Rig Lajos (Jobbik)[^65]
 
 Tagok: Kovács Sándor (Mátészalka) (Fidesz)
 
@@ -310,11 +312,11 @@ dr. Tapolczai Gergely (Fidesz)
 
 Nacsa Lőrinc (KDNP)
 
-Volner János (független)[^65]
+Volner János (független)[^66]
 
-dr. Lukács László György (Jobbik)[^66]
+dr. Lukács László György (Jobbik)[^67]
 
-Varga Zoltán (DK)[^67]
+Varga Zoltán (DK)[^68]
 
 Szabó Timea (Párbeszéd)
 
@@ -334,9 +336,9 @@ Gelencsér Attila (Fidesz)
 
 Ovádi Péter (Fidesz)
 
-Tasó László (Fidesz)[^68]
+Tasó László (Fidesz)[^69]
 
-Hollik István (KDNP)[^69]
+Hollik István (KDNP)[^70]
 
 Bangóné Borbély Ildikó (MSZP)
 
@@ -350,21 +352,21 @@ Elnök: Hende Csaba (Fidesz)
 
 Alelnök: dr. Bajkai István (Fidesz)
 
-Herczeg Tamás (Fidesz)[^70]
+Herczeg Tamás (Fidesz)[^71]
 
 dr. Salacz László (Fidesz)
 
 Vécsey László (Fidesz)
 
-Bangóné Borbély Ildikó (MSZP)[^71]
+Bangóné Borbély Ildikó (MSZP)[^72]
 
-Demeter Márta (LMP)[^72]
+Demeter Márta (LMP)[^73]
 
-Tagok: Balla György (Fidesz)[^73]
+Tagok: Balla György (Fidesz)[^74]
 
 B. Nagy László (Fidesz)
 
-Ágh Péter (Fidesz)[^74]
+Ágh Péter (Fidesz)[^75]
 
 Bóna Zoltán (Fidesz)
 
@@ -372,19 +374,19 @@ Dunai Mónika (Fidesz)
 
 Farkas Flórián (Fidesz)
 
-dr. Fazekas Sándor (Fidesz)[^75]
+dr. Fazekas Sándor (Fidesz)[^76]
 
-Horváth László (Fidesz)[^76]
+Horváth László (Fidesz)[^77]
 
-Nagy Csaba (Fidesz)[^77]
+Nagy Csaba (Fidesz)[^78]
 
 Herczeg Tamás (Fidesz)
 
-Héjj Dávid Ádám (Fidesz)[^78]
+Héjj Dávid Ádám (Fidesz)[^79]
 
-Böröcz László (Fidesz)[^79]
+Böröcz László (Fidesz)[^80]
 
-Törő Gábor (Fidesz)[^80]
+Törő Gábor (Fidesz)[^81]
 
 Mátrai Márta (Fidesz)
 
@@ -392,27 +394,27 @@ Nyitrai Zsolt (Fidesz)
 
 Ovádi Péter (Fidesz)
 
-dr. Budai Gyula (Fidesz)[^81]
+dr. Budai Gyula (Fidesz)[^82]
 
-dr. Kerényi János (Fidesz)[^82]
+dr. Kerényi János (Fidesz)[^83]
 
 dr. Tapolczai Gergely (Fidesz)
 
-dr. Aradszki András (KDNP)[^83]
+dr. Aradszki András (KDNP)[^84]
 
 dr. Vejkey Imre (KDNP)
 
-Csányi Tamás (Jobbik)[^84]
+Csányi Tamás (Jobbik)[^85]
 
-Dudás Róbert (Jobbik)[^85]
+Dudás Róbert (Jobbik)[^86]
 
-Kálló Gergely (Jobbik)[^86]
+Kálló Gergely (Jobbik)[^87]
 
-Farkas Gergely (független)[^87]
+Farkas Gergely (független)[^88]
 
-Sneider Tamás (független)[^88]
+Sneider Tamás (független)[^89]
 
-dr. Szakács László (MSZP)[^89]
+dr. Szakács László (MSZP)[^90]
 
 Hiszékeny Dezső (MSZP)
 
@@ -432,9 +434,9 @@ Elnök: Ritter Imre (nemzetiségi képviselő)
 
 Alelnök: Farkas Félix (nemzetiségi szószóló)
 
-Alexov Lyubomirt (nemzetiségi szószóló)[^90]
+Alexov Lyubomirt (nemzetiségi szószóló)[^91]
 
-Kissné Köles Erikát (nemzetiségi szószóló)[^91]
+Kissné Köles Erikát (nemzetiségi szószóló)[^92]
 
 4. Ez a határozat az elfogadásakor lép hatályba.
 
@@ -442,7 +444,7 @@ Kissné Köles Erikát (nemzetiségi szószóló)[^91]
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^92]
+7.[^93]
 
 [^2]: A 8/2020. (III. 25.) OGY határozat 1. pontja szerint módosított szöveg.
 [^3]: Az 5/2020. (III. 12.) OGY határozat 1. pontjával megállapított szöveg.
@@ -486,52 +488,53 @@ Kissné Köles Erikát (nemzetiségi szószóló)[^91]
 [^41]: A 2/2020. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^42]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^43]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
-[^44]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
-[^45]: A 11/2018. (VI. 12.) OGY határozat 1. pontja iktatta be.
-[^46]: A 11/2018. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^47]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^44]: A 28/2020. (IX. 22.) OGY határozat 1. pontjával megállapított szöveg.
+[^45]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
+[^46]: A 11/2018. (VI. 12.) OGY határozat 1. pontja iktatta be.
+[^47]: A 11/2018. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^48]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^49]: A 11/2018. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^50]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^49]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^50]: A 11/2018. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^51]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^52]: A 8/2020. (III. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^53]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^54]: A 9/2019. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^55]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^56]: A 13/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^52]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^53]: A 8/2020. (III. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^54]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^55]: A 9/2019. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^56]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^57]: A 13/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^58]: A 31/2018. (XI. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^59]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^58]: A 13/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^59]: A 31/2018. (XI. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^60]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^61]: A 8/2020. (III. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^62]: A 9/2020. (III. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^63]: A 4/2020. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
-[^64]: A 33/2018. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
-[^65]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^66]: A 33/2018. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
-[^67]: A 2/2020. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^68]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
-[^69]: A 24/2020. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
-[^70]: A 8/2020. (III. 25.) OGY határozat 2. pontjával megállapított szöveg.
-[^71]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^72]: A 9/2019. (III. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^73]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^74]: A 14/2020. (V. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^75]: A 10/2018. (VI. 5.) OGY határozat 2. pontja ikattta be.
-[^76]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^61]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^62]: A 8/2020. (III. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^63]: A 9/2020. (III. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^64]: A 4/2020. (II. 25.) OGY határozat 1. pontjával megállapított szöveg.
+[^65]: A 33/2018. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
+[^66]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^67]: A 33/2018. (XII. 10.) OGY határozat 1. pontjával megállapított szöveg.
+[^68]: A 2/2020. (II. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^69]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
+[^70]: A 24/2020. (VII. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^71]: A 8/2020. (III. 25.) OGY határozat 2. pontjával megállapított szöveg.
+[^72]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^73]: A 9/2019. (III. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^74]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^75]: A 14/2020. (V. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^76]: A 10/2018. (VI. 5.) OGY határozat 2. pontja ikattta be.
 [^77]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^78]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
-[^79]: A 31/2019. (X. 22.) OGY határozat 2. pontjával megállapított szöveg.
-[^80]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^81]: A 28/2018. (X. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^82]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^83]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^84]: A 4/2019. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^85]: A 43/2019. (XI. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^86]: Az 5/2020. (III. 12.) OGY határozat 2. pontjával megállapított szöveg.
-[^87]: A 19/2020. (VI. 9.) OGY határozat 2. pontjával megállapított szöveg.
+[^78]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^79]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
+[^80]: A 31/2019. (X. 22.) OGY határozat 2. pontjával megállapított szöveg.
+[^81]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^82]: A 28/2018. (X. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^83]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^84]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^85]: A 4/2019. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^86]: A 43/2019. (XI. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^87]: Az 5/2020. (III. 12.) OGY határozat 2. pontjával megállapított szöveg.
 [^88]: A 19/2020. (VI. 9.) OGY határozat 2. pontjával megállapított szöveg.
-[^89]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^90]: Az 5/2020. (III. 12.) OGY határozat 4. pontja iktatta be.
+[^89]: A 19/2020. (VI. 9.) OGY határozat 2. pontjával megállapított szöveg.
+[^90]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^91]: Az 5/2020. (III. 12.) OGY határozat 4. pontja iktatta be.
-[^92]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: Az 5/2020. (III. 12.) OGY határozat 4. pontja iktatta be.
+[^93]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
