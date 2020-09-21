@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 4. a Nemzeti Összetartozás Éve megvalósítása érdekében az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 10 339 288 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## 4.[^1] a Nemzeti Összetartozás Éve megvalósítása érdekében az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 10 339 288 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -20,9 +20,9 @@
 
 ## Felelős: emberi erőforrások minisztere, a miniszterelnök általános helyettese, a miniszterelnök kabinetfőnöke, Miniszterelnökséget vezető miniszter, innovációért és technológiáért felelős miniszter, külgazdasági és külügyminiszter, honvédelmi miniszter, az Eötvös Loránd Kutatási Hálózat elnöke, a Központi Statisztikai Hivatal elnöke
 
-## Határidő: 2021. január 31.; külgazdasági és külügyminiszter esetében 2021. március 31.
+## Határidő: 2022. április 30.
 
-1. melléklet az 1064/2020. (II. 28.) Korm. határozathoz[^1]
+1. melléklet az 1064/2020. (II. 28.) Korm. határozathoz[^2]
 
 1. Magyarországi kedvezményezettek
 
@@ -94,4 +94,5 @@
 
 |  | Bethlen Gábor Alap; Határtalanul! program | 2 100 000 000 |
 
-[^1]: Az 1. melléklet az 1210/2020. (V. 8.) Korm. határozat 6. és 7. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1596/2020. (IX. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1210/2020. (V. 8.) Korm. határozat 6. és 7. pontja szerint módosított szöveg.
