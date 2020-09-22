@@ -24,7 +24,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. június 30.
 
 1. melléklet az 1497/2017. (VIII. 8.) Korm. határozathoz
 
@@ -123,4 +123,4 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^1]: Az 1. pont az 1299/2019. (V. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^2]: A 2. pont az 1299/2019. (V. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1599/2020. (IX. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
