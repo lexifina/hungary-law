@@ -102,8 +102,11 @@
 
 ## Határidő: a szerződés megkötésekor
 
-## 12. visszavonja az egyes állami vagyontárgyak ingyenes tulajdonba adásáról szóló 1243/2019. (IV. 30.) Korm. határozat 5., 14., 15. és 16. pontját, továbbá 1. mellékletének 136. sorát., valamint a 3. mellékletét;
+## 12.[^1]
 
-## 13. visszavonja a Modern Városok Program fejlesztéseivel összefüggő egyes vagyonjogi döntésekről szóló 1355/2017. (VI. 12.) Korm. határozat 2. mellékletében foglalt táblázat 3. sorát.
+## 13.[^2]
 
 1. melléklet az 1588/2020. (IX. 21.) Korm. határozathoz
+
+[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
