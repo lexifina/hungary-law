@@ -2,7 +2,7 @@
 
 ## 2. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-## 3. az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), f), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 216 410 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2020. június 30. napjáig kell megvalósítani;
+## 3.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), f), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 216 410 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2021. június 30. napjáig kell megvalósítani;
 
 ## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelési előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcímnek a 75. Partiumi Labdarúgó Akadémia létrehozása tárgyú beruházás támogatása jogcímmel történő kiegészítését;
 
@@ -119,3 +119,5 @@
 |  |  | egyéb: | azonnal |  | 216 410 000 | 216 410 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 3. pont az 1599/2020. (IX. 22.) Korm. határozat 8. pontja szerint módosított szöveg.
