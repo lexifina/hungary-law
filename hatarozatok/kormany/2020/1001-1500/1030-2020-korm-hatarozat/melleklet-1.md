@@ -1,4 +1,4 @@
-## 1. támogatja, hogy a Magyar Birkózó Szövetség (a továbbiakban: Szövetség) megrendezze a 2020. évi Birkózó Európai Kontinens Olimpiai Kvalifikációs Versenyt (a továbbiakban: Sportesemény) Magyarországon;
+## 1.[^1] támogatja, hogy a Magyar Birkózó Szövetség (a továbbiakban: Szövetség) megrendezze a a koronavírus járvány miatt 2021-re halasztott Birkózó Európai Kontinens Olimpiai Kvalifikációs Versenyt (a továbbiakban: Sportesemény) Magyarországon;
 
 ## 2. egyetért azzal, hogy a Sportesemény megrendezéséhez a Szövetség részére a 2020. évben összesen 760 000 000 forint kerüljön biztosításra;
 
@@ -24,11 +24,11 @@
 
 ## Határidő: a Sportesemény szervezésével és lebonyolításával egyidejűleg, folyamatosan
 
-## 7. felhívja az emberi erőforrások miniszterét, hogy a Szövetség bevonásával a Sportesemény ideje alatt az autóbusz forgalmi sávon a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 36. § (8) bekezdés b) pont bf) alpontja alapján az autóbusz forgalmi sáv használatára jogosult járműveket kijelölje, és részükre az 1. melléklet szerinti igazolást és matricát kiadja;
+## 7.[^2] felhívja az emberi erőforrások miniszterét, hogy a Szövetség bevonásával a Sportesemény ideje alatt az autóbusz forgalmi sávon a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 36. § (8) bekezdés b) pont bf) alpontja alapján az autóbusz forgalmi sáv használatára jogosult járműveket kijelölje, és részükre az 1. melléklet szerinti igazolást és matricát kiadja;
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. március 16.
+## Határidő: 2021. március 31.
 
 ## 8. a 7. pont szerinti járművek megjelölésére szolgáló jelzést (matricát), annak a járművön történő rögzítési módját, a jelzés viselésére jogosító igazolás tartalmát és használatának ellenőrzését az 1. melléklet tartalmazza.
 
@@ -83,3 +83,6 @@ típus
 4. Az igazolás használatának ellenőrzése:
 
 Az igazolás és a jelzés (matrica) használatát a közúti közlekedésről szóló 1988. évi I. törvény 44. § (2) bekezdése szerint a rendőrség ellenőrzi.
+
+[^1]: Az 1. pont az 1599/2020. (IX. 22.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: A 7. pont az 1599/2020. (IX. 22.) Korm. határozat 12. pontja szerint módosított szöveg.
