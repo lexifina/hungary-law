@@ -12,7 +12,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. június 30.
+## Határidő: 2020. december 31.
 
 ## 3. felhívja az emberi erőforrások miniszterét, hogy az 1. pontban foglaltak megvalósítása érdekében adjon ki támogatói okiratot az elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével a Szövetség részére, a 2. pontban nyújtott forrás terhére.
 
@@ -86,4 +86,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1061/2020. (II. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1599/2020. (IX. 22.) Korm. határozat 5. pontja szerint módosított szöveg.
