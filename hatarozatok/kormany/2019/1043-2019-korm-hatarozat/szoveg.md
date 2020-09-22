@@ -26,13 +26,13 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a 2019–2023. években a felmerülés ütemében
 
-4. felhívja az emberi erőforrások miniszterét, hogy egy ATP World Tour férfi tenisztorna magyarországi megrendezésének megvalósítása érdekében – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Társaság bevonásával – folytasson tárgyalásokat a rendezési jog megszerzése érdekében, és készítsen előterjesztést a megrendezéshez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
+4.[^1] felhívja az emberi erőforrások miniszterét, hogy egy ATP World Tour férfi tenisztorna magyarországi megrendezésének megvalósítása érdekében – a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos és a Társaság bevonásával – folytasson tárgyalásokat a rendezési jog megszerzése érdekében, és készítsen előterjesztést a megrendezéshez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
 
 Felelős: emberi erőforrások minisztere
 
 kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-Határidő: 2019. július 31.
+Határidő: 2021. december 31.
 
 5. egyetért azzal, hogy a Tenisztorna a Budapest III. kerület, belterület 60116/1 helyrajzi számú ingatlanon, természetben a Budapest III. kerület, Királyok útja 105. szám alatt található Római Teniszakadémián, a 2019. évi ATP 250 férfi tenisztorna – a megrendezéséhez szükséges fejlesztések (a továbbiakban: Fejlesztések) megvalósítását követően – a Budapest XI. kerület, belterület 314/24 helyrajzi számú ingatlanon, természetben a Budapest XI. kerület, Kánai út 2. szám alatt található Sport11 Sport-, Szabadidő- és Rendezvényközpontban valósuljanak meg;
 
@@ -45,3 +45,5 @@ Határidő: 2019. július 31.
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: folyamatos
+
+[^1]: A 4. pont az 1599/2020. (IX. 22.) Korm. határozat 6. pontja szerint módosított szöveg.
