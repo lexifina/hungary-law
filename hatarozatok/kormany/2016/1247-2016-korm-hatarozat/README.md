@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1247-30
 | 2020-07-31 | 2016-1247-30-22.32 | 1992/2017. (XII. 19.) Korm. határozat |
 | 2020-08-12 | 2016-1247-30-22.33 | 1493/2020. (VIII. 11.) Korm. határozat |
 | 2020-08-15 | 2016-1247-30-22.34 | 1373/2020. (VII. 9.) Korm. határozat |
+| 2020-09-22 | 2016-1247-30-22.35 | 1373/2020. (VII. 9.) Korm. határozat |
