@@ -48,6 +48,8 @@
 
 ## Határidő: azonnal
 
-## 2. A Nemzeti Összetartozás Éve megvalósításával kapcsolatos kormányzati intézkedésekről és a szükséges források biztosításáról szóló 1064/2020. (II. 28.) Korm. határozat 4. pontjában a „2021. január 31.; külgazdasági és külügyminiszter esetében 2021. március 31.” szövegrész helyébe a „2022. április 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1596/2020. (IX. 21.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
