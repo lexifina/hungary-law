@@ -6,98 +6,130 @@
 
 | 3. | Belarusz Köztársaság |
 
-| 4. | Bolíviai Többnemzetiségű Állam |
+| 4. | Benini Köztársaság |
 
-| 5. | Botswanai Köztársaság |
+| 5. | Bhutáni Királyság |
 
-| 6. | Brunei Darussalam Állam |
+| 6. | Bolíviai Többnemzetiségű Állam |
 
-| 7. | Burkina Faso |
+| 7. | Botswanai Köztársaság |
 
-| 8. | Chilei Köztársaság |
+| 8. | Brunei Darussalam Állam |
 
-| 9. | Csád Köztársaság |
+| 9. | Burkina Faso |
 
-| 10. | Egyesült Arab Emírségek |
+| 10. | Burundi Köztársaság |
 
-| 11. | Egyiptomi Arab Köztársaság |
+| 11. | Chilei Köztársaság |
 
-| 12. | Fidzsi-szigeteki Köztársaság |
+| 12. | Cook-szigetek |
 
-| 13. | Georgia |
+| 13. | Csád Köztársaság |
 
-| 14. | Hondurasi Köztársaság |
+| 14. | Dél-szudáni Köztársaság |
 
-| 15. | Indonéz Köztársaság |
+| 15. | Dzsibuti Köztársaság |
 
-| 16. | Iráni Iszlám Köztársaság |
+| 16. | Egyesült Arab Emírségek |
 
-| 17. | Jamaica |
+| 17. | Egyiptomi Arab Köztársaság |
 
-| 18. | Japán |
+| 18. | Fidzsi-szigeteki Köztársaság |
 
-| 19. | Jemeni Köztársaság |
+| 19. | Georgia |
 
-| 20. | Katari Állam |
+| 20. | Hondurasi Köztársaság |
 
-| 21. | Kirgiz Köztársaság |
+| 21. | Indonéz Köztársaság |
 
-| 22. | Kongói Demokratikus Köztársaság |
+| 22. | Iráni Iszlám Köztársaság |
 
-| 23. | Kongói Köztársaság |
+| 23. | Jamaica |
 
-| 24. | Koszovói Köztársaság |
+| 24. | Japán |
 
-| 25. | Közép-afrikai Köztársaság |
+| 25. | Jemeni Köztársaság |
 
-| 26. | Kurdisztáni Autonóm Régió |
+| 26. | Katari Állam |
 
-| 27. | Libériai Köztársaság |
+| 27. | Kelet-timori Demokratikus Köztársaság |
 
-| 28. | Líbia Állam |
+| 28. | Kirgiz Köztársaság |
 
-| 29. | Malajzia |
+| 29. | Kongói Demokratikus Köztársaság |
 
-| 30. | Maldív Köztársaság |
+| 30. | Kongói Köztársaság |
 
-| 31. | Marshall-szigetek |
+| 31. | Koszovói Köztársaság |
 
-| 32. | Mauritániai Iszlám Köztársaság |
+| 32. | Közép-afrikai Köztársaság |
 
-| 33. | Mianmari Államszövetség |
+| 33. | Kurdisztáni Autonóm Régió |
 
-| 34. | Ománi Szultanátus |
+| 34. | Libériai Köztársaság |
 
-| 35. | Palaui Köztársaság |
+| 35. | Líbia Állam |
 
-| 36. | Paraguayi Köztársaság |
+| 36. | Makaó, a Kínai Népköztársaság különleges közigazgatási területe |
 
-| 37. | Ruandai Köztársaság |
+| 37. | Malajzia |
 
-| 38. | Salamon-szigetek |
+| 38. | Maldív Köztársaság |
 
-| 39. | Sierra Leone Köztársaság |
+| 39. | Marshall-szigetek |
 
-| 40. | Srí Lanka-i Demokratikus Szocialista Köztársaság |
+| 40. | Mauritániai Iszlám Köztársaság |
 
-| 41. | Szaúd-arábiai Királyság |
+| 41. | Mianmari Szövetségi Köztársaság |
 
-| 42. | Szingapúr |
+| 42. | Mikronéziai Szövetségi Államok |
 
-| 43. | Szomáli Szövetségi Köztársaság |
+| 43. | Naurui Köztársaság |
 
-| 44. | Thaiföldi Királyság |
+| 44. | Niue |
 
-| 45. | Török Köztársaság |
+| 45. | Ománi Szultanátus |
 
-| 46. | Venezuelai Bolivári Köztársaság |
+| 46. | Palaui Köztársaság |
 
-| 47. | Zambiai Köztársaság |
+| 47. | Pápua Új-Guinea Független Állam |
 
-| 48. | Zimbabwei Köztársaság |
+| 48. | Paraguayi Köztársaság |
 
-| 49. | Zöld-foki Köztársaság |
+| 49. | Ruandai Köztársaság |
 
-4. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^10]
+| 50. | Salamon-szigetek |
 
-[^10]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 51. | Sierra Leone Köztársaság |
+
+| 52. | Srí Lanka-i Demokratikus Szocialista Köztársaság |
+
+| 53. | Szamoai Független Állam |
+
+| 54. | Szaúd-arábiai Királyság |
+
+| 55. | Szingapúr |
+
+| 56. | Szomáli Szövetségi Köztársaság |
+
+| 57. | Thaiföldi Királyság |
+
+| 58. | Tongai Királyság |
+
+| 59. | Tuvalu |
+
+| 60. | Új-Zéland |
+
+| 61. | Vanuatui Köztársaság |
+
+| 62. | Venezuelai Bolivári Köztársaság |
+
+| 63. | Vietnámi Szocialista Köztársaság |
+
+| 64. | Zambiai Köztársaság |
+
+| 65. | Zimbabwei Köztársaság |
+
+4. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^12]
+
+[^12]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

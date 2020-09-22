@@ -1,6 +1,6 @@
-## 7. §[^7]
+## 7. §[^8]
 
-1. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^8]
+1. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^9]
 
 ## MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A PARTNER KÖZÖTT STIPENDIUM HUNGARICUM ÖSZTÖNDÍJAK BIZTOSÍTÁSÁRÓL
 
@@ -20,5 +20,5 @@ Magyarország Kormánya és a Partner (a továbbiakban: Felek) a felsőoktatás 
 
 (3) Amennyiben a jelen Megállapodás hatálya megszűnik, úgy annak rendelkezéseit a még működő projektek és programok vonatkozásában azok teljes befejezéséig alkalmazni kell.
 
-[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet az 5. § (2) bekezdése alapján azon időpontban lép hatályba, amikor a Megállapodás 2. cikk (1) bekezdésében meghatározott feltételek elsőként teljesülnek Magyarország és egy Partner vonatkozásában. A 20/2020. (IV. 17.) KKM közlemény alapján a hatálybalépés időpontja 2020. február 27.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet az 5. § (2) bekezdése alapján azon időpontban lép hatályba, amikor a Megállapodás 2. cikk (1) bekezdésében meghatározott feltételek elsőként teljesülnek Magyarország és egy Partner vonatkozásában. A 20/2020. (IV. 17.) KKM közlemény alapján a hatálybalépés időpontja 2020. február 27.

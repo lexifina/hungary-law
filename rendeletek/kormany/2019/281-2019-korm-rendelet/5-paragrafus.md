@@ -1,12 +1,12 @@
-## 4. §[^3] A Megállapodás Magyarország és bármely további Partner közötti hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+## 4. §[^4] A Megállapodás Magyarország és bármely további Partner közötti hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^5]
 
 5. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) A 2–4. §, az 1. és a 2. melléklet azon időpontban lép hatályba, amikor a Megállapodás 2. cikk (1) bekezdésében meghatározott feltételek elsőként teljesülnek Magyarország és egy Partner vonatkozásában.[^5]
+(2) A 2–4. §, az 1. és a 2. melléklet azon időpontban lép hatályba, amikor a Megállapodás 2. cikk (1) bekezdésében meghatározott feltételek elsőként teljesülnek Magyarország és egy Partner vonatkozásában.[^6]
 
-(3) A Megállapodás, a 2–4. §, az 1. és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^6]
+(3) A Megállapodás, a 2–4. §, az 1. és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^7]
 
-[^3]: A 4. § az 5. § (2) bekezdése alapján azon időpontban lép hatályba, amikor a Megállapodás 2. cikk (1) bekezdésében meghatározott feltételek elsőként teljesülnek Magyarország és egy Partner vonatkozásában. A 20/2020. (IV. 17.) KKM közlemény alapján a hatálybalépés időpontja 2020. február 27.
-[^4]: A 25/2020. (V. 29.) KKM közlemény alapján Magyarország és a Ruandai Köztársaság között 2020. június 13-án lépett hatályba.
-[^5]: A 20/2020. (IV. 17.) KKM közlemény alapján a hatálybalépés időpontja 2020. február 27. A
-[^6]: Lásd a 20/2020. (IV. 17.) KKM közleményt.
+[^4]: A 4. § az 5. § (2) bekezdése alapján azon időpontban lép hatályba, amikor a Megállapodás 2. cikk (1) bekezdésében meghatározott feltételek elsőként teljesülnek Magyarország és egy Partner vonatkozásában. A 20/2020. (IV. 17.) KKM közlemény alapján a hatálybalépés időpontja 2020. február 27.
+[^5]: A 25/2020. (V. 29.) KKM közlemény alapján Magyarország és a Ruandai Köztársaság között 2020. június 13-án lépett hatályba. A 47/2020. (X. 16.) KKM közlemény alapján Magyarország és a Sierra Leone-i Köztársaság között 2020. október 22-én lépett hatályba. Az 53/2020. (XII. 23.) KKM közlemény alapján Magyarország és a Libériai Köztársaság között 2020. december 30-án lépett hatályba. A 17/2021. (I. 14.) KKM közlemény alapján Magyarország és Irán között 2021. január 11-én lépett hatályba. A 21/2021. (II. 26.) KKM közlemény alapján Magyarország és Botswana között 2021. március 7-én lépett hatályba. Az 52/2021. (IX. 24.) KKM közlemény alapján Magyarország és a Maldív Köztársaság között 2021. október 8-án lépett hatályba. Az 56/2021. (XI. 5.) KKM közlemény alapján Magyarország és Kirgizisztán között 2021. november 1-jén lépett hatályba. A 2/2022. (I. 14.) KKM közlemény alapján Magyarország és a Kongói Demokratikus Köztársaság között 2022. január 28-án léprtt hatályba. A 3/2022. (I. 14.) KKM közlemény alapján Magyarország és a Közép-afrikai Köztársaság között 2022. január 14-én lépett hatályba. A 8/2022. (I. 31.) KKM közlenény alapján Magyarország és Malajzia között 2022. február 9-én lépett hatályba.
+[^6]: A 20/2020. (IV. 17.) KKM közlemény alapján a hatálybalépés időpontja 2020. február 27. A
+[^7]: Lásd a 20/2020. (IV. 17.) KKM közleményt.

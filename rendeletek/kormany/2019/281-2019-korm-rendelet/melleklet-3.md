@@ -16,4 +16,6 @@
 
 ## (3) In the event this Agreement is terminated, its provisions shall continue to be implemented with respect to existing programs and projects until they are fully completed.
 
-3. melléklet a 281/2019. (XI. 25.) Korm. rendelethez
+3. melléklet a 281/2019. (XI. 25.) Korm. rendelethez[^11]
+
+[^11]: A 3. melléklet a 436/2020. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
