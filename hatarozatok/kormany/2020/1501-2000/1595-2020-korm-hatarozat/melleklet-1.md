@@ -12,15 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont i) alpontjában a „190,56%-áig” szövegrész helyébe a „195,28%-áig” szöveg,
-
-## b) 1. melléklet 4. pontjában foglalt táblázat C:2 mezőjében a „223,85” szövegrész helyébe a „229,40” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:106a mezőjében a „6,1 (becsült támogatási intenzitás: 100%)” szövegrész helyébe az „5,5 (támogatási intenzitás: 100%)” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1595/2020. (IX. 21.) Korm. határozathoz
 
@@ -33,3 +25,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP-4.1.0-15- 2020-00008 | Jászberény elkerülő III. ütem megvalósítása | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 100% | 5 544 811 106 | - | 1 486 053 011 | 271 588 931 | 7 302 453 048 | A projekt célja a Jászberény elkerülő III. ütem megvalósítása keretében 2×1 sávos főút építése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

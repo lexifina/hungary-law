@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1595-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-09-22 | 2020-1595-30-22.1 | 1595/2020. (IX. 21.) Korm. határozat |
+| 2020-09-23 | 2020-1595-30-22.2 | 2010: CXXX. törvény |
