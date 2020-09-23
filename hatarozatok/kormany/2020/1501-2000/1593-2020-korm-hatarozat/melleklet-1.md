@@ -10,13 +10,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:31 mezőjében a „13,53” szövegrész helyébe a „12,78” szöveg,
-
-## b) D:45 mezőjében a „3,00” szövegrész helyébe a „3,76” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1593/2020. (IX. 21.) Korm. határozathoz
 
@@ -31,3 +25,5 @@
 | 4. | IKOP-2.1.0-15- 2016-00006 | Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán | NIF Nermzeti Infrastruktúra- fejlesztő zártkörűen működő Részvénytársaság | 100% | 3 000 000 000 | – | 792 156 533 | – | 100 | 754 616 365 | – | 206 773 635 | – | 100 | 3 754 616 365 | – | 998 930 168 | – | 4 753 546 533 | A projekt célja a vasútvonalak sebesség- korlátozásainak megszüntetését, kiépítéskori állapotának helyreállítását célzó felújítások megvalósítható-sági és engedélyezési terveinek készítése. |
 
 | 5. | IKOP-2.1.0- 15-2016-00011 | Budapest-Lőkösháza III/1. ütem kivitelezés; Békéscsaba állomás pályaépítés és Gyoma (kiz.)–Békéscsaba (bez.) vonalszakasz új elektronikus biztosítóberendezés építése, Ferencváros “C” elágazás - Lőkösháza ETCS 2 telepítés kivitelezése | NIF Nermzeti Infrastruktúra- fejlesztő zártkörűen működő Részvénytársaság | 100% | 13 526 392 093 | – | 4 466 356 346 | – | 100 | –754 616 365 | – | –206 773 635 | – | 100 | 12 771 775 728 | – | 4 259 582 711 | – | 17 031 358 439 | A projekt célja a biztosító- berendezés korszerűsítése és komplex állomásfejlesztés, a Ferencváros–Lőkösháza vonalszakaszon ETCS2 biztosító- berendezés telepítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
