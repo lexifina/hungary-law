@@ -20,15 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont faa) alpontjában a „113,82%-áig” szövegrész helyébe a „123,25%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „569,888” szövegrész helyébe a „617,075” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:64 mezőjében a „23,80 (támogatási intenzitás: 100%)” szövegrész helyébe a „47,76 (támogatási intenzitás: 93,37%)” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1594/2020. (IX. 21.) Korm. határozathoz
 
@@ -41,3 +33,5 @@
 | 3. | Megtérülő projekt-költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP-2.1.0-15- 2017-00035 | Püspökladány– Biharkeresztes szűk keresztmetszet kiváltás és villamosítás | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 100% | 573 801 836 | 0 | 134 162 446 | 0 | 93,37% | 47 186 194 666 | 3 391 821 008 | 13 637 164 231 | 0 | 93,37% | 47 759 996 502 | 3 391 821 008 | 13 771 326 677 | 0 | 64 923 144 187 | A Püspök- ladány– Bihar- keresztes vasútvonalon a szűk kereszt- metszetek kiváltásához szükséges pályaépítések elvégzése, villamosítás és biztosító berendezés fejlesztés |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
