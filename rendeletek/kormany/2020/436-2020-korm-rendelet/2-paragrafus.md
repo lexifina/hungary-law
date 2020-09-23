@@ -1,1 +1,3 @@
-## 1. § A Stipendium Hungaricum ösztöndíjak biztosításáról szóló, módosított Megállapodás kihirdetéséről és a Stipendium Hungaricum ösztöndíjak biztosításáról szóló Megállapodás kihirdetéséről szóló 281/2017. (IX. 22.) Korm. rendelet módosításáról szóló 281/2019. (XI. 25.) Korm. rendelet 3. melléklete helyébe az 1. melléklet lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
