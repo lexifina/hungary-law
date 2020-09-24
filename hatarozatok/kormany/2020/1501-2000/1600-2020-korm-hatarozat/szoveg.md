@@ -6,18 +6,6 @@ b) egyetért a Katasztrófavédelmi Speciális Képzési Központnak az Egyetem 
 
 c) egyetért az Egyetem infrastruktúrájának további fejlesztésével, a szükséges rekonstrukciós munkálatok elvégzésével, valamint kulturális tér és további irodai kapacitás funkcióváltással történő kialakításával a Ludovika Campuson.
 
-2. A Nemzeti Közszolgálati Egyetem Víztudományi Kar bajai campusának fejlesztéséről szóló 1734/2018. (XII. 18.) Korm. határozat (a továbbiakban: Korm. határozat) 4. pontja helyébe a következő rendelkezés lép, valamint a Korm. határozat a következő 5. ponttal egészül ki:
+2.[^1]
 
-(A Kormány)
-
-„4. felhívja a pénzügyminisztert, hogy a fejlesztések végrehajtása érdekében gondoskodjon a 2020. évben felmerülő feladatok finanszírozására 1 588 000 000 forint forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 14. Nemzeti Közszolgálati Egyetem cím javára;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
-
-5. felhívja a pénzügyminisztert, hogy a fejlesztések végrehajtása érdekében gondoskodjon a 2021. évben felmerülő feladatok finanszírozására 1 577 000 000 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezet, 14. Nemzeti Közszolgálati Egyetem cím javára.
-
-Felelős: pénzügyminiszter
-
-Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
