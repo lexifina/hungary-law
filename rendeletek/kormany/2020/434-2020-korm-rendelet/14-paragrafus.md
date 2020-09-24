@@ -1,0 +1,5 @@
+## 13. § A nemzeti szakértő és a vele együtt a foglalkoztatás helye szerinti országban tartózkodó házastársa és gyermeke a nemzeti szakértőként történő foglalkoztatás időtartamára a kötelező egészségbiztosítás ellátásairól szóló törvény és végrehajtási rendelete külföldön történő gyógykezelésre vonatkozó szabályai szerint jogosultak a külföldi tartózkodás alatt egészségügyi ellátás igénybevételére.
+
+14. § (1) A napidíjpótlékra jogosító családtag elhalálozása esetén a nemzeti szakértő részére a halál bekövetkeztéig járó napidíjpótlékon felül ki kell fizetni a napidíjpótlék egyhavi összegét.
+
+(2) A foglalkoztatás helye szerinti országban, illetve hivatalos kiküldetés alatt harmadik országban elhunyt, napidíjra jogosult nemzeti szakértő hazaszállításáról és temetéséről a küldő közigazgatási szerv saját költségén gondoskodik. A napidíjra jogosult nemzeti szakértő kérelmére a küldő közigazgatási szerv saját költségén gondoskodik a nemzeti szakértővel a foglalkoztatás helye szerinti országban tartózkodó elhunyt családtagja hazaszállításáról és temetéséről.

@@ -1,0 +1,3 @@
+4. § (1) A rendvédelmi feladatokat ellátó szervek hivatásos állománya tagjának az uniós intézményben nemzeti szakértőként történő foglalkoztatására vagy külföldre vezénylésére a rendvédelmi feladatokat ellátó szerv Hszt. szerinti országos parancsnoka vagy országos főigazgatója – az Európai Unió felhívásában meghatározott munkakör betöltésére vonatkozó alkalmassági vizsgálata és az érintett személy írásbeli hozzájárulása alapján – kezdeményezheti a jelölést.
+
+(2) A jelölést a rendvédelmi feladatokat ellátó szervet irányító miniszter az uniós intézményben nemzeti szakértőként történő foglalkoztatás esetén az európai uniós ügyek koordinációjáért felelős miniszter útján – az Állandó Képviseleten keresztül – teszi meg az uniós intézmény felé.

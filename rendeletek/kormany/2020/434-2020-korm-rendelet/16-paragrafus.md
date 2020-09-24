@@ -1,0 +1,1 @@
+## 15. § A küldő közigazgatási szerv a nemzeti szakértőként foglalkoztatott közszolgálati tisztviselőt határozott időtartamú – legfeljebb a nemzeti szakértőként történő foglalkoztatás megszűnéséig szóló – kinevezéssel helyettesítheti.
