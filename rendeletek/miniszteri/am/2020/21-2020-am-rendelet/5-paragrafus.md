@@ -1,8 +1,8 @@
 5. § (1) Eltérő megállapodás hiányában a borászati termékek átadása és átvétele a lepárlóüzem telephelyén történik.
 
-(2) Egy bortermelő a támogatási időszakon belül összesen legfeljebb 2000 hektoliter borászati terméket szállíthat be lepárlóüzembe krízislepárlás céljából, azzal, hogy a beszállított borászati termék mennyisége nem haladhatja meg a 4. § (3) bekezdés a) pontja szerinti borászati termékmennyiség átlagának 50%-át.
+(2)[^5] Egy bortermelő a támogatási időszakon belül összesen legfeljebb 2000 hektoliter borászati terméket szállíthat be lepárlóüzembe krízislepárlás céljából.
 
-(3) A lepárlóüzemnek az adásvételi szerződést és a 4. § (3) bekezdés a) pontja szerinti igazolást a borászati termék átvétele előtt a (2) bekezdésben foglaltak ellenőrzése céljából be kell mutatnia a Kincstárnak. A Kincstár ellenőrzi
+(3)[^6] A lepárlóüzemnek az adásvételi szerződést a borászati termék átvétele előtt a (2) bekezdésben foglaltak ellenőrzése céljából be kell mutatnia a Kincstárnak. A Kincstár ellenőrzi
 
 a) a bortermelő által más lepárlóüzemmel krízislepárlási célból kötött adásvételi szerződés meglétét és
 
@@ -35,3 +35,6 @@ i) az átvétel helyét.
 (7) A lepárlóüzem az átvételi elismervényt öt évig köteles megőrizni.
 
 (8) Ha a borászati termékek átadásakor a bortermelő az átvevő lepárlóüzem által megállapított mennyiséget vitatja, a bortermelő és az átvevő lepárlóüzem együttes jelenlétében kell a lepárlóüzemnek az átvételre vonatkozó mennyiség- és alkoholtartalom-mérést elvégezni.
+
+[^5]: Az 5. § (2) bekezdése a 46/2020. (IX. 23.) AM rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (3) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 42. § (3) bekezdés b) pontja szerint módosított szöveg.
