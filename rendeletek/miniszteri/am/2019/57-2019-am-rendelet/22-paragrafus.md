@@ -58,7 +58,7 @@ u) legalább 36 V feszültséggel üzemelő akkumulátoros fűkasza.
 
 (8) A támogatás végrehajtási időszakonként több alkalommal, eszközönként külön-külön kifizetési kérelem benyújtásával igényelhető.
 
-(9)[^12] A támogatás mértéke kifizetési kérelmenként az elszámolható költség – így a beszerzési ár, valamint a (4) bekezdés a)–c) és e) pontja szerinti eszköz beszerzése esetén az illetékekről szóló 1990. évi XCIII. törvény 24. §-a szerint meghatározott vagyonszerzési illeték, a forgalmi engedély és törzskönyv kiadási díja, a rendszámtábla igazgatási szolgáltatási díja, valamint a fővárosi és megyei kormányhivatal közúti gépjármű-közlekedési hatósági feladatkörében elvégzett műszaki vizsga díj – 50%-a, de a (4) bekezdés a), e) és h) pontja szerinti eszköz beszerzése esetén legfeljebb 400 000 forint.
+(9)[^13] A támogatás mértéke kifizetési kérelmenként az elszámolható költség – így a beszerzési ár, valamint a (4) bekezdés a)–c) és e) pontja szerinti eszköz beszerzése esetén az illetékekről szóló 1990. évi XCIII. törvény 24. §-a szerint meghatározott vagyonszerzési illeték, a forgalmi engedély és törzskönyv kiadási díja, a rendszámtábla igazgatási szolgáltatási díja, valamint a fővárosi és megyei kormányhivatal közúti gépjármű-közlekedési hatósági feladatkörében elvégzett műszaki vizsga díj – 50%-a, de a (4) bekezdés a), e) és h) pontja szerinti eszköz beszerzése esetén legfeljebb 400 000 forint.
 
 (10) A (4) bekezdés b), c), d), f) és g) pontja szerinti eszköz beszerzése esetén a támogatás mértéke legfeljebb 650 000 forint.
 
@@ -70,7 +70,7 @@ a) a (4) bekezdés szerinti eszközcsoportba tartozó eszköz vásárlásáról 
 
 aa) a kérelmező nevére és címére kiállított számla azzal, hogy az eredeti számla tartalmazza a (4) bekezdésnek megfelelő eszközcsoport megnevezését, teherautó vagy pótkocsi vásárlása esetén az alvázszámot, valamint
 
-ab)[^13] az ellenérték megtérítését igazoló bizonylat azzal, hogy a gépjármű, pótkocsi vagyonszerzési illetéke, a forgalmi engedély és gépjármű törzskönyv kiadási díja, a rendszámtábla igazgatási szolgáltatási díja, valamint a műszaki vizsga díja tekintetében a számla, illetve az ellenérték megtérítését igazoló bizonylat egyikének benyújtása is elegendő;
+ab)[^14] az ellenérték megtérítését igazoló bizonylat azzal, hogy a gépjármű, pótkocsi vagyonszerzési illetéke, a forgalmi engedély és gépjármű törzskönyv kiadási díja, a rendszámtábla igazgatási szolgáltatási díja, valamint a műszaki vizsga díja tekintetében a számla, illetve az ellenérték megtérítését igazoló bizonylat egyikének benyújtása is elegendő;
 
 b) új teherautó vagy pótkocsi vásárlása esetén a forgalmi engedély;
 
@@ -84,5 +84,5 @@ c) a (4) bekezdés h) pontja szerinti eszköz beszerzése esetén a műszaki dok
 
 (16) A nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
 
-[^12]: A 22. § (9) bekezdése a 12/2020. (IV. 3.) AM rendelet 8. § b) pontja szerint módosított szöveg.
-[^13]: A 22. § (12) bekezdés a) pont ab) alpontja a 12/2020. (IV. 3.) AM rendelet 8. § c) pontja szerint módosított szöveg.
+[^13]: A 22. § (9) bekezdése a 12/2020. (IV. 3.) AM rendelet 8. § b) pontja szerint módosított szöveg.
+[^14]: A 22. § (12) bekezdés a) pont ab) alpontja a 12/2020. (IV. 3.) AM rendelet 8. § c) pontja szerint módosított szöveg.

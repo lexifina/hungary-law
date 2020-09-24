@@ -64,6 +64,8 @@ b) a II. végrehajtási időszak vonatkozásában 2021. szeptember 1-je,
 
 c) a III. végrehajtási időszak vonatkozásában 2022. szeptember 1-je.
 
+(6a)[^4] Ha az I. végrehajtási időszak tekintetében a hiánypótlás teljesítésére megállapított nyolcnapos határidő a hiánypótlásra felszólító végzés kézhezvételétől számított – (6) bekezdés a) pontja szerinti – határidőt követően járt le, akkor a 2020. szeptember 10-éig megküldött hiánypótlást határidőben teljesítettnek kell tekinteni.
+
 (7) A 2. § (1) bekezdés a) pont aa)–ad) alpontja, b) pont bc) alpontja, és g) pontja szerinti intézkedések esetében az e rendelet hatálybalépését megelőzően felmerült költségekre vonatkozóan a kifizetési kérelem jogvesztő benyújtási határideje az e rendelet hatálybalépését követő kilencvenedik nap.
 
 (8) Az eljárás során kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.
@@ -83,3 +85,4 @@ c) a III. végrehajtási időszak vonatkozásában 2022. szeptember 1-je.
 [^1]: A 3. § (5) bekezdés a) pont aa) alpontja a 12/2020. (IV. 3.) AM rendelet 7. § a) pontja szerint módosított szöveg.
 [^2]: A 3. § (5) bekezdés e) pontja a 12/2020. (IV. 3.) AM rendelet 7. § b) pontja szerint módosított szöveg.
 [^3]: A 3. § (5) bekezdés f) pontja a 12/2020. (IV. 3.) AM rendelet 7. § c) pontja szerint módosított szöveg.
+[^4]: A 3. § (6a) bekezdését a 46/2020. (IX. 23.) AM rendelet 40. §-a iktatta be.

@@ -58,7 +58,7 @@ i) három vagy több fő csoportos utazása esetén a jelenléti ív, amelynek t
 
 a) előadói díj legfeljebb 40 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, külföldi előadó esetén legfeljebb 100 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege, tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b)[^8] kongresszuson, konferencián, kiállításon, szakmai tanulmányúton, nemzetközi rendezvényen országonként legfeljebb három fő előadó és további két fő tolmács szállásköltsége legfeljebb 30 000 forint/nap/fő/rendezvény, valamint az előadók, tolmácsok és az OMME elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
+b)[^9] kongresszuson, konferencián, kiállításon, szakmai tanulmányúton, nemzetközi rendezvényen országonként legfeljebb három fő előadó és további két fő tolmács szállásköltsége legfeljebb 30 000 forint/nap/fő/rendezvény, valamint az előadók, tolmácsok és az OMME elnökének vagy megbízottjának étkezési költsége legfeljebb 10 000 forint/nap/fő/rendezvény;
 
 c) kongresszuson, konferencián, kiállításon, szakmai tanulmányúton, nemzetközi rendezvényen országonként legfeljebb három fő előadó és további két fő tolmács utazási költsége:
 
@@ -88,7 +88,7 @@ k) rendezvény egészségügyi és rendészeti, hatósági engedélyezési, vagy
 
 a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat);
 
-b)[^9] előadói és tolmácsolási díj elszámolása esetén a cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat;
+b)[^10] előadói és tolmácsolási díj elszámolása esetén a cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat;
 
 c) előadó, tolmács utazási költsége esetén:
 
@@ -120,5 +120,5 @@ l) a szervező nyilatkozata arról, hogy a látogatók nem fizettek részvételi
 
 m) az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről.
 
-[^8]: A 13. § (4) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § g) pontja szerint módosított szöveg.
-[^9]: A 13. § (5) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 13. § (4) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § g) pontja szerint módosított szöveg.
+[^10]: A 13. § (5) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 1. §-ával megállapított szöveg.

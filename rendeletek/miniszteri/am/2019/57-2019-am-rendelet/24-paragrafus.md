@@ -4,9 +4,9 @@
 
 (2) A támogatás keretösszege legfeljebb 401 000 eurónak megfelelő forintösszeg végrehajtási időszakonként.
 
-(3)[^14] A támogatás igénybevételére a kifizetési kérelem benyújtásának évére vonatkozó érvényes OMME tagsági viszonnyal rendelkező kérelmező jogosult, aki a Magyar Méhtenyésztők Országos Egyesülete (a továbbiakban: MMOE) által törzskönyvezett méhanyáktól származó, származási igazolással rendelkező, párzott, petéző méhanyát, párzatlan méhanyát, vagy anyabölcsőt vásárol a (2) bekezdésben meghatározott keretösszeg mértékéig.
+(3)[^15] A támogatás igénybevételére a kifizetési kérelem benyújtásának évére vonatkozó érvényes OMME tagsági viszonnyal rendelkező kérelmező jogosult, aki a Magyar Méhtenyésztők Országos Egyesülete (a továbbiakban: MMOE) által törzskönyvezett méhanyáktól származó, származási igazolással rendelkező, párzott, petéző méhanyát, párzatlan méhanyát, vagy anyabölcsőt vásárol a (2) bekezdésben meghatározott keretösszeg mértékéig.
 
-(4)[^15] Az MMOE az I. végrehajtási időszakra vonatkozóan 2020. május 31-éig, a II. végrehajtási időszakra vonatkozóan 2021. május 31-éig, a III. végrehajtási időszakra vonatkozóan 2022. május 31-éig elektronikus úton a Kincstár rendelkezésére bocsátja az általa törzskönyvezett méhanyákkal rendelkező méhanya-nevelő telepek listáját, amely tartalmazza a méhanya-nevelő telep üzemeltetőjének és a vele közös gazdálkodást folytató személy vagy személyek nevét, címét, adószámát és a törzskönyvezett méhanyák törzskönyvi számát.
+(4)[^16] Az MMOE az I. végrehajtási időszakra vonatkozóan 2020. május 31-éig, a II. végrehajtási időszakra vonatkozóan 2021. május 31-éig, a III. végrehajtási időszakra vonatkozóan 2022. május 31-éig elektronikus úton a Kincstár rendelkezésére bocsátja az általa törzskönyvezett méhanyákkal rendelkező méhanya-nevelő telepek listáját, amely tartalmazza a méhanya-nevelő telep üzemeltetőjének és a vele közös gazdálkodást folytató személy vagy személyek nevét, címét, adószámát és a törzskönyvezett méhanyák törzskönyvi számát.
 
 (5) A támogatás végrehajtási időszakonként legfeljebb egy alkalommal,
 
@@ -34,5 +34,5 @@ b) a megvásárolt párzott, petéző méhanya, párzatlan méhanya, vagy anyab�
 
 (8) A kérelmezőnek az eredeti származási bizonylatot három évig meg kell őriznie.
 
-[^14]: A 24. § (3) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § i) pontja szerint módosított szöveg.
-[^15]: A 24. § (4) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § j) pontja szerint módosított szöveg.
+[^15]: A 24. § (3) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § i) pontja szerint módosított szöveg.
+[^16]: A 24. § (4) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § j) pontja szerint módosított szöveg.

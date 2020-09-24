@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-57-20-7
 | --- | --- | --- |
 | 2019-12-22 | 2019-57-20-7R.1 | 57/2019. (XII. 14.) AM rendelet |
 | 2020-04-06 | 2019-57-20-7R.2 | 12/2020. (IV. 3.) AM rendelet |
+| 2020-09-24 | 2019-57-20-7R.3 | 46/2020. (IX. 23.) AM rendelet |

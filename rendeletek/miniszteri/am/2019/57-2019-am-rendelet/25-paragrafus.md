@@ -22,10 +22,10 @@ c) megfigyelők képzésének
 
 a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat), az elvégzett munka típusát tartalmazó útnyilvántartás, valamint az ez alapján történő kifizetés megtörténtét igazoló bizonylat,
 
-b)[^16] a cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, ha a végrehajtás szolgáltatás igénybevételével történik, valamint a cégszerű aláírással ellátott teljesítési igazolás, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
+b)[^17] a cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, ha a végrehajtás szolgáltatás igénybevételével történik, valamint a cégszerű aláírással ellátott teljesítési igazolás, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
 c) a megfigyelőkkel cégszerű aláírással kötött együttműködési megállapodás, amelyet a megállapodás módosítása vagy új megállapodás kötése esetén ismételten be kell nyújtani,
 
 d) az elvégzett feladatokról szóló beszámoló.
 
-[^16]: A 25. § (6) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 3. §-ával megállapított szöveg.
+[^17]: A 25. § (6) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 3. §-ával megállapított szöveg.

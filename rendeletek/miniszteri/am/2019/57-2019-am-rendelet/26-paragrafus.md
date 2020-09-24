@@ -30,9 +30,9 @@ d) hazai hatósági mintavételezés és hazai hatósági vizsgálat alapján k�
 
 a) a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylatok (a kérelmező nevére és címére kiállított számla, valamint az ellenérték megtérítését igazoló bizonylat),
 
-b)[^17] az OMME-vel – a méhegészségügyi és környezetterhelési monitoring vizsgálat koordinálása tárgyában – kötött cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
+b)[^18] az OMME-vel – a méhegészségügyi és környezetterhelési monitoring vizsgálat koordinálása tárgyában – kötött cégszerű aláírással ellátott vállalkozói vagy a megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
-c)[^18] a laboratóriumi vizsgálatok megrendelőlapja vagy a megkötött, cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
+c)[^19] a laboratóriumi vizsgálatok megrendelőlapja vagy a megkötött, cégszerű aláírással ellátott vállalkozói vagy megbízási szerződés, továbbá megbízási szerződés esetén a megbízási díj kifizetési lista és az annak alapján történő kifizetést igazoló bizonylat,
 
 d) a hivatalos vizsgálati eredmények jegyzőkönyvei, valamint – ha kapcsolódik hozzá – szakmai vélemény.
 
@@ -46,5 +46,5 @@ c) az eredmények közzétételéről szóló tájékoztatás,
 
 d) a kapcsolódó szakmai kiadványnak az eredmények közzétételét tartalmazó oldalai vagy annak elektronikus elérhetősége.
 
-[^17]: A 26. § (7) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
-[^18]: A 26. § (7) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
+[^18]: A 26. § (7) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 26. § (7) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
