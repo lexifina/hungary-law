@@ -34,12 +34,16 @@ n)[^40]
 
 o) az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 73. § (7) bekezdése, valamint az Itv. 74. § (1) bekezdése szerinti, a 10 000 forintot meghaladó eljárási illetékkiszabás alapján történő megfizetése és az illetékköteles irat illetékkiszabásra történő bemutatása tényének igazolása.
 
-(2) Az (1) bekezdésben meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – az állami adó- és vámhatóság vezetője által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik megyei igazgatóság eljárhat.
+(1a)[^41] A NAV bármelyik megyei igazgatósága, illetve a KAVIG is eljárhat az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 3/A. § (2) bekezdésében és 13. § (4) bekezdésében meghatározott feladatok ellátása során.
 
-(3)[^41] Hivatalból indult ügyekben – a 63. § (1) bekezdés a), b) és d)–i) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik, az ügyben eljáró területi szerve megállapíthat technikai azonosító számot, adóazonosító jelet, illetve az uniós vámazonosító számtól eltérő vámazonosító számot.
+(2)[^42] Az (1) és (1a) bekezdésében meghatározott ügyekben a 63. § (1) bekezdés e) és h) pontjában megjelölt adózó – az állami adó- és vámhatóság vezetője által kijelölt ügyfélszolgálatokon személyesen benyújtott – beadványa alapján bármelyik megyei igazgatóság eljárhat.
+
+(3)[^43] Hivatalból indult ügyekben – a 63. § (1) bekezdés a), b) és d)–i) pontjában, valamint a 64. §-ban megjelölt adózók kivételével – a NAV bármelyik, az ügyben eljáró területi szerve megállapíthat technikai azonosító számot, adóazonosító jelet, illetve az uniós vámazonosító számtól eltérő vámazonosító számot.
 
 [^37]: A 22. § (1) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 79. § 7. pontja szerint módosított szöveg.
 [^38]: A 22. § (1) bekezdés b) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított, a 475/2017. (XII. 28.) Korm. rendelet 79. § 8. pontja szerint módosított szöveg.
 [^39]: A 22. § (1) bekezdés c) pontja a 88/2016. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^40]: A 22. § (1) bekezdés n) pontját a 214/2017. (VII. 25.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^41]: A 22. § (3) bekezdését a 214/2017. (VII. 25.) Korm. rendelet 4. §-a iktatta be.
+[^41]: A 22. § (1a) bekezdését a 439/2020. (IX. 23.) Korm. rendelet 9. §-a iktatta be.
+[^42]: A 22. § (2) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^43]: A 22. § (3) bekezdését a 214/2017. (VII. 25.) Korm. rendelet 4. §-a iktatta be.

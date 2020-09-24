@@ -1,4 +1,4 @@
-## 99. §[^171]
+## 99. §[^180]
 
 1. melléklet a 485/2015. (XII. 29.) Korm. rendelethez
 
@@ -18,7 +18,7 @@ B) A Nemzeti Adó- és Vámhivatal területi szervei
 
 3. A Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága, székhelye Budapest.
 
-4.[^172] A Nemzeti Adó- és Vámhivatal Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12; továbbá nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légi közlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
+4.[^181] A Nemzeti Adó- és Vámhivatal Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12; továbbá nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légi közlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
 
 5. A Nemzeti Adó- és Vámhivatal Bevetési Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
@@ -42,7 +42,7 @@ g) a Nemzeti Adó- és Vámhivatal Békés Megyei Adó- és Vámigazgatósága, 
 
 h) a Nemzeti Adó- és Vámhivatal Borsod-Abaúj-Zemplén Megyei Adó- és Vámigazgatósága, székhelye Miskolc, illetékességi területe Borsod-Abaúj-Zemplén megye közigazgatási területe;
 
-i)[^173] a Nemzeti Adó- és Vámhivatal Csongrád-Csanád Megyei Adó- és Vámigazgatósága, székhelye Szeged, illetékességi területe Csongrád-Csanád megye közigazgatási területe;
+i)[^182] a Nemzeti Adó- és Vámhivatal Csongrád-Csanád Megyei Adó- és Vámigazgatósága, székhelye Szeged, illetékességi területe Csongrád-Csanád megye közigazgatási területe;
 
 j) a Nemzeti Adó- és Vámhivatal Fejér Megyei Adó- és Vámigazgatósága, székhelye Székesfehérvár, illetékességi területe Fejér megye közigazgatási területe;
 
@@ -72,7 +72,7 @@ v) a Nemzeti Adó- és Vámhivatal Zala Megyei Adó- és Vámigazgatósága szé
 
 8. A Nemzeti Adó- és Vámhivatal bűnügyi igazgatóságai:
 
-a)[^174] a Nemzeti Adó- és Vámhivatal Dél-alföldi Bűnügyi Igazgatósága, székhelye Kecskemét, illetékességi területe Bács-Kiskun megye, Békés megye és Csongrád-Csanád megye közigazgatási területe;
+a)[^183] a Nemzeti Adó- és Vámhivatal Dél-alföldi Bűnügyi Igazgatósága, székhelye Kecskemét, illetékességi területe Bács-Kiskun megye, Békés megye és Csongrád-Csanád megye közigazgatási területe;
 
 b) a Nemzeti Adó- és Vámhivatal Dél-dunántúli Bűnügyi Igazgatósága, székhelye Pécs, illetékességi területe Baranya megye, Somogy megye és Tolna megye közigazgatási területe;
 
@@ -90,7 +90,7 @@ g) a Nemzeti Adó- és Vámhivatal Nyugat-dunántúli Bűnügyi Igazgatósága, 
 
 10. A Nemzeti Adó- és Vámhivatal Gazdasági Ellátó Igazgatósága, székhelye Budapest.
 
-[^171]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^172]: Az 1. melléklet B) rész 4. pontja a 475/2017. (XII. 28.) Korm. rendelet 80. § 7. pontja szerint módosított szöveg.
-[^173]: Az 1. melléklet B) rész 7. pont i) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § c) pont ca) és cb) alpontja szerint módosított szöveg.
-[^174]: Az 1. melléklet B) rész 8. pont a) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § d) pontja szerint módosított szöveg.
+[^180]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^181]: Az 1. melléklet B) rész 4. pontja a 475/2017. (XII. 28.) Korm. rendelet 80. § 7. pontja szerint módosított szöveg.
+[^182]: Az 1. melléklet B) rész 7. pont i) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § c) pont ca) és cb) alpontja szerint módosított szöveg.
+[^183]: Az 1. melléklet B) rész 8. pont a) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § d) pontja szerint módosított szöveg.

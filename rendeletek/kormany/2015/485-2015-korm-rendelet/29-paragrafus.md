@@ -28,7 +28,7 @@ b) amelynek illetékességi területén a szerződésben első helyen megjelölt
 
 (3) Ingó vagy ingatlanhoz nem kapcsolódó vagyoni értékű jog ajándékozása vagy visszterhes vagyonátruházási illeték alá eső megszerzése esetén az a megyei igazgatóság jár el, amelynek illetékességi területén a szerződésben első helyen feltüntetett szerző fél lakóhelye, ennek hiányában tartózkodási helye, illetve székhelye, ennek hiányában telephelye, illetve a tevékenység gyakorlásának helye [a továbbiakban együtt: lakóhely (székhely)] található. Ha az adózó belföldön nem letelepedett, akkor az illetéket az Észak-budapesti Adó- és Vámigazgatóság szabja ki.
 
-(4)[^51]
+(4)[^53]
 
 (5) Az érdekelt fél indokolt kérelmére az e rendeletben megállapított illetékességtől eltérően az állami adó- és vámhatóság vezetője az illeték kiszabására más megyei igazgatóságot is kijelölhet.
 
@@ -36,4 +36,4 @@ b) amelynek illetékességi területén a szerződésben első helyen megjelölt
 
 (7) Jogszabályi rendelkezés szerint kiállított bírósági értesítés alapján az eljárási illeték megfizetésére az a megyei igazgatóság hívja fel az adóst, amelynek illetékességi területén az adós lakóhelye (székhelye) van. Ha a bírósági értesítés alapján az illeték megfizetésére több adós egyetemlegesen kötelezett, akkor az illeték megfizetésére az a megyei igazgatóság hívja fel az egyetemlegesen kötelezett adóstársakat, amelynek illetékességi területén annak az adósnak a lakóhelye (székhelye) van, akinek a nevére kiállított bírósági értesítést az adóhatóság elsőként nyilvántartásba vette. Ha minden fizetésre kötelezettnek az ország területén kívül van a lakóhelye (székhelye), az illetéket az a megyei igazgatóság szabja ki, amelynek illetékességi területén az értesítést készítő szerv székhelye van.
 
-[^51]: A 29. § (4) bekezdését a 475/2017. (XII. 28.) Korm. rendelet 80. § 4. pontja hatályon kívül helyezte.
+[^53]: A 29. § (4) bekezdését a 475/2017. (XII. 28.) Korm. rendelet 80. § 4. pontja hatályon kívül helyezte.
