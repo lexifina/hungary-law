@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1005-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-09-23 | 2020-1005-30-29.1 | 1005/2020. (IX. 22.) AB Tü. határozat |
+| 2020-09-24 | 2020-1005-30-29.2 | 2010: CXXX. törvény |

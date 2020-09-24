@@ -42,6 +42,8 @@ Dr. Szabó Marcel alkotmánybíró.
 
 3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-4. E határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg az Alkotmánybíróság öttagú tanácsainak számáról, összetételéről és a tanácsvezetők személyéről szóló 1002/2019. (IX. 20.) AB Tü. határozat, valamint az ezt módosító 1001/2020. (I. 23.) AB Tü. határozat és 1002/2020. (III. 6.) AB Tü. határozat, továbbá az ez utóbbit módosító 1003/2020. (IV. 24.) AB Tü. határozat hatályát veszti.
+4.[^1] E határozat a közzétételét követő napon lép hatályba,
 
 Alkotmánybírósági ügyszám: XVIII/1542-1/2020.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
