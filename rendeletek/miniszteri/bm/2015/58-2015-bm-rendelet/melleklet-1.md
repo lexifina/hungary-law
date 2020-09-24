@@ -1,4 +1,4 @@
-## 12. § Ez a rendelet a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkatrészeinek és önálló műszaki egységeinek jóváhagyásáról szóló, 2007. szeptember 5-ei 2007/46/EK európai parlamenti és tanácsi irányelv 2. cikk (3) bekezdés b) pontjával összeegyeztethető szabályozást tartalmaz.
+## 13. §[^22] Az 1/A. §, a 6. § (3) bekezdés c) pontja, a 9/E. § és a 9/F. §, valamint a 2. melléklet 3. pont d)–f) alpontjai tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 1. melléklet az 58/2015. (X. 27.) BM rendelethez
 
@@ -33,3 +33,5 @@
 2.2.3. „IGAZOLVÁNY” felirat,
 
 2.2.4. „A belügyminiszter irányítása alá tartozó rendvédelmi szervek által üzemben tartott szolgálati járművekre, azok forgalomba helyezésére, időszakos vizsgálatára vonatkozó különös szabályokról szóló 58/2015. (X. 27.) BM rendelet 2. § (6) bekezdése alapján.” felirat.
+
+[^22]: A 13. §-t a 34/2020. (IX. 16.) BM rendelet 6. §-a iktatta be.

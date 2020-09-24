@@ -1,4 +1,4 @@
-2. melléklet az 58/2015. (X. 27.) BM rendelethez[^14]
+2. melléklet az 58/2015. (X. 27.) BM rendelethez[^23]
 
 ## A rendvédelmi szerv által üzemben tartott kényszerszállító járművekre vonatkozó eltérő rendelkezésekről
 
@@ -48,6 +48,15 @@ a) a fogvatartotti utastérben elhelyezett utasülést az MR. 81. § (1) bekezd�
 
 b) a fogvatartotti utasülés az ENSZ–EGB 107. számú Előírás figyelmen kívül hagyásával is beszerelhető, rögzítésének az ülés tömegére és a szabványos utasterhelésre együttesen vonatkozóan a különböző irányú (x, y, z) terhelések ellen nyírásra és húzásra minimum 2,5-szeres biztonsági tényezőjű ellenállást kell biztosítani;
 
-c) a fogvatartotti utasteret határoló rácsos szerkezetek anyagait úgy kell megválasztani, hogy veszélyhelyzet bekövetkezése esetén tegye lehetővé a műszaki mentés gyors végrehajtását.
+c) a fogvatartotti utasteret határoló rácsos szerkezetek anyagait úgy kell megválasztani, hogy veszélyhelyzet bekövetkezése esetén tegye lehetővé a műszaki mentés gyors végrehajtását;
 
-[^14]: A 2. melléklet a 9/2016. (III. 17.) BM rendelet 6. §-ával megállapított szöveg.
+d)[^24] az M3 járműkategóriájú kényszerszállító jármű egy légterű felügyelői és cellaterének vészkijárataként a hátsó – tengelyek közötti – utas ajtót, valamint a minimum 500×700 mm szabad nyílásméretű tetőszellőzőt kell figyelembe venni;
+
+e)[^25] az M3 járműkategóriájú kényszerszállító jármű csoportos elkülönítő terének vészkijárataként a speciális szerszámmal bontható rácsozatú tetőszellőzőt kell figyelembe venni;
+
+f)[^26] a gépkocsivezető számára műszaki megoldással biztosítani kell, hogy az M3 járműkategóriájú kényszerszállító jármű külső vésznyitóit kapcsoló segítségével hatástalaníthassa.
+
+[^23]: A 2. melléklet a 9/2016. (III. 17.) BM rendelet 6. §-ával megállapított szöveg.
+[^24]: A 2. melléklet 3. pont d) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
+[^25]: A 2. melléklet 3. pont e) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
+[^26]: A 2. melléklet 3. pont f) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.

@@ -1,6 +1,6 @@
-## 7/A. §[^7] Az ER. 2. § (9) bekezdés e) pontja szerinti N2 kategóriába tartozó, az MR. 93/A. §-ában meghatározott sebességkorlátozóval szerelt szolgálati jármű sebességkorlátozó berendezése kiiktatható, ha az érintett jármű megkülönböztető jelzésekkel szerelhető fel.
+## 7/A. §[^9] Az ER. 2. § (9) bekezdés e) pontja szerinti N2 kategóriába tartozó, az MR. 93/A. §-ában meghatározott sebességkorlátozóval szerelt szolgálati jármű sebességkorlátozó berendezése kiiktatható, ha az érintett jármű megkülönböztető jelzésekkel szerelhető fel.
 
-7/B. §[^8] (1) A üzemeltetési hatékonyság növelési és vagyonvédelmi célból, továbbá az elektronikus menetlevél alkalmazhatósága érdekében járműkövető rendszer alkalmazást kell használni, és a szolgálati járműben adattovábbítást végző telematikai eszközt kell elhelyezni.
+7/B. §[^10] (1) A üzemeltetési hatékonyság növelési és vagyonvédelmi célból, továbbá az elektronikus menetlevél alkalmazhatósága érdekében járműkövető rendszer alkalmazást kell használni, és a szolgálati járműben adattovábbítást végző telematikai eszközt kell elhelyezni.
 
 (2) A telematikai eszköz a következő, a jármű igénybevételével kapcsolatos adatokat rögzíti és továbbítja a járműkövető rendszer alkalmazás részére:
 
@@ -58,7 +58,16 @@ c) a terrorelhárítási műveleti tevékenységet végrehajtó szolgálati jár
 
 d) a megkülönböztető jelzés használatára nem jogosult motorkerékpár szolgálati jármű,
 
-e) az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet előírása szerint személyes gépkocsihasználatra biztosított szolgálati jármű
+e) az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet előírása szerint személyes gépkocsihasználatra biztosított szolgálati jármű,
 
-[^7]: A 7/A. §-t a 20/2018. (VI. 29.) BM rendelet 6. §-a iktatta be.
-[^8]: A 7/B. §-t az 5/2020. (III. 10.) BM rendelet 2. §-a iktatta be.
+f)[^11] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 70. § (1) bekezdése szerint az országos parancsnok és az országos főigazgató részére személyes gépkocsihasználatra biztosított jármű,
+
+g)[^12] az 5000 km éves futásteljesítményt a felmentést megelőző három év átlagában el nem érő jármű,
+
+h)[^13] a 100 üzemóra éves teljesítményt a felmentést megelőző három év átlagában el nem érő jármű.
+
+[^9]: A 7/A. §-t a 20/2018. (VI. 29.) BM rendelet 6. §-a iktatta be.
+[^10]: A 7/B. §-t az 5/2020. (III. 10.) BM rendelet 2. §-a iktatta be.
+[^11]: A 7/B. § (10) bekezdés f) pontját a 34/2020. (IX. 16.) BM rendelet 3. §-a iktatta be.
+[^12]: A 7/B. § (10) bekezdés g) pontját a 34/2020. (IX. 16.) BM rendelet 3. §-a iktatta be.
+[^13]: A 7/B. § (10) bekezdés h) pontját a 34/2020. (IX. 16.) BM rendelet 3. §-a iktatta be.

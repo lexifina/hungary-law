@@ -2,7 +2,7 @@
 
 ## 4. A rendvédelmi szerv által üzemben tartott kényszerszállító járművekre vonatkozó eltérő rendelkezésekről
 
-8. §[^9] (1) A közúti forgalomban részt vevő M1 járműkategóriájú (személygépkocsi) kényszerszállító járműre vonatkozóan a (2)–(3) bekezdésben meghatározott eltéréseket kell alkalmazni.
+8. §[^14] (1) A közúti forgalomban részt vevő M1 járműkategóriájú (személygépkocsi) kényszerszállító járműre vonatkozóan a (2)–(3) bekezdésben meghatározott eltéréseket kell alkalmazni.
 
 (2) A szállítótérben a fogvatartottak, kényszerszállítottak (a továbbiakban együtt: utas) elkülönítése érdekében kialakított fémrácsos utastérben (a továbbiakban: fogvatartotti utastér) elhelyezett oldalra néző ülések tekintetében az MR. rendelet
 
@@ -16,4 +16,4 @@ vonatkozóan meghatározott követelményeket a 2. mellékletben meghatározott 
 
 (3) A fogvatartotti utastér szerkezeti elemei tekintetében a veszélyhelyzetben történő menekülés feltételeinek biztosítására a 2. mellékletben meghatározott követelményt is alkalmazni kell.
 
-[^9]: A 8. § a 9/2016. (III. 17.) BM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 8. § a 9/2016. (III. 17.) BM rendelet 2. §-ával megállapított szöveg.
