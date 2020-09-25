@@ -1,11 +1,3 @@
-## 16. § Az Adóig. vhr. 29. §-a helyébe a következő rendelkezés lép:
+## 16. §[^16]
 
-## „29. § E fejezet alkalmazásában
-
-## 1. átutalás: a fizető fél rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számláját a kedvezményezett javára megterhelik;
-
-## 2. fizetési megbízás: a fizető félnek vagy a kedvezményezettnek a saját pénzforgalmi szolgáltatója részére fizetési művelet teljesítésére adott megbízása;
-
-## 3. garantőr: az MNB nyilvántartásában szereplő vagy az Európai Unió más tagállamában honos, bejegyzett pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás;
-
-## 4. rendelkezésre tartás: az adótartozás megfizetésének folyamatos és teljes összegű biztosítása.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

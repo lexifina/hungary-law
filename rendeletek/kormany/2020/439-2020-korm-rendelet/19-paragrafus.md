@@ -1,3 +1,3 @@
-## 18. § Az Adóig. vhr. 66. §-a a következő (3) bekezdéssel egészül ki:
+## 18. §[^18]
 
-## „(3) Azon önkormányzati adóhatóság esetében, amely az elektronikus fizetés lehetőségét az önkormányzati ASP rendszer útján biztosítja, a Magyar Államkincstár végzi el a kifizetés teljesíthetőségének (2) bekezdés szerinti előzetes igazolását.”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

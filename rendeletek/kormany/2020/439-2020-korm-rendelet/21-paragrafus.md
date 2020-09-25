@@ -1,4 +1,4 @@
-## 20. § Az Adóig. vhr. 58/A. § (1) bekezdésében a „szerinti rendszeren keresztül” szövegrész helyébe a „szerinti rendszeren (a továbbiakban: önkormányzati ASP rendszer) keresztül” szöveg lép.
+## 20. §[^20]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 14–15. § az e rendelet kihirdetését követő 20. napon lép hatályba.
 
 (3) A 7. § 2021. január 1-jén lép hatályba.
+
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

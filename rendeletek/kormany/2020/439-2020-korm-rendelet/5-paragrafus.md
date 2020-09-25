@@ -1,3 +1,3 @@
-## 4. § A 396/2012. (XII. 20.) Korm. rendelet a következő 8. §-sal egészül ki:
+## 4. §[^4]
 
-## „8. § Azt a kormánytisztviselőt vagy pénzügyőrt, aki az adóhatóságok tevékenységével összefüggő kormányrendeletek módosításáról szóló 439/2020. (IX. 23.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépésének napján a NAV állományába tartozik, és a Mód. rendelet hatálybalépését megelőző napon hatályos szabályok alapján munkaköre ellátására képesítettnek minősül, a Mód. rendelet hatálybalépésekor betöltött munkakörének munkakörcsoportja vonatkozásában is képesítettnek kell tekinteni munkakörcsoportja megváltozásáig.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

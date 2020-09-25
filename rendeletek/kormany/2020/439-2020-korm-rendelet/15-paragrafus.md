@@ -1,3 +1,3 @@
-## 14. §[^2]
+## 14. §[^14]
 
-[^2]: A 14. § a 21. § (2) bekezdése alapján 2020. október 13-án lép hatályba.
+[^14]: A 14. § a 21. § (2) bekezdése alapján 2020. október 13-án lép hatályba.

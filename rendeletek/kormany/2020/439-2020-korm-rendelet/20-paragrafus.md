@@ -1,3 +1,3 @@
-## 19. § Az Adóig. vhr. a következő 128/B. §-sal egészül ki:
+## 19. §[^19]
 
-## „128/B. § Az adóhatóságok tevékenységével összefüggő kormányrendeletek módosításáról szóló 439/2020. (IX. 23.) Korm. rendelettel (a továbbiakban: Korm. rendelet 2.) megállapított 36. §-t először a Korm. rendelet 2. hatálybalépését követően teljesített fizetési megbízások esetében kell alkalmazni.”
+[^19]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

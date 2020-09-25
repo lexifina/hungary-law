@@ -1,1 +1,3 @@
-## 5. § A 396/2012. (XII. 20.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+## 5. §[^5]
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

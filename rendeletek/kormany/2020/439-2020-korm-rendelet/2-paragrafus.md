@@ -1,9 +1,3 @@
-## 1. § A Nemzeti Adó- és Vámhivatalnál foglalkoztatott kormánytisztviselők és pénzügyőrök képesítési előírásairól szóló 396/2012. (XII. 20.) Korm. rendelet [a továbbiakban: 396/2012. (XII. 20.) Korm. rendelet] 1. § (3) bekezdés a) pontja a következő ad) és ae) alponttal egészül ki:
+## 1. §[^1]
 
-## (Az 1. melléklet alkalmazásában
-
-## felsőoktatásban szerzett jogi szakképzettség:)
-
-## „ad) igazgatásszervező alapképzési szakon szerzett szakképzettség,
-
-## ae) nemzetközi közszolgálati menedzser alapképzési szakon szerzett szakképzettség;”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
