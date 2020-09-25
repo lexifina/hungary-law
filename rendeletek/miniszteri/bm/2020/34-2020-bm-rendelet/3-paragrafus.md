@@ -1,7 +1,3 @@
-## 2. § Az R. 6. § (3) bekezdése a következő c) ponttal egészül ki:
+## 2. §[^3]
 
-## (A jármű méretétől függően bármely karosszéria eleme ellátható:)
-
-## „c) büntetés-végrehajtási szolgálati jármű esetében piros, sárga, szürke”
-
-## (fényvisszaverő jelzéssel is.)
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
