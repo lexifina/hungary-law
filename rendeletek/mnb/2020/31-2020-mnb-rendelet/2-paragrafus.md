@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme négyzet alakú, 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, mérete 38,61 × 38,61 mm, széle sima.
+
+(2) Az emlékérme előlapján – a középmezőtől kissé balra – az Országos Meteorológiai Szolgálat logója alapján készült, sematikus ciklonábrázolás látható. Az emlékérme szélén, fent a „MAGYARORSZÁG” felirat, alatta két vízszintes sorban, jobbra rendezve a „10 000” értékjelzés és a „FORINT” felirat, lent, bal oldalon, két vízszintes sorban a „BP.” verdejel és a „2020” verési évszám, jobb oldalon az „OMSZ” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján balatoni táj ábrázolása látható, felette egy időjárási ciklonhoz kapcsolódó frontrendszer hideg- és melegfrontjának szinoptikus térképi megjelenítésével. Az ábrázolásba illesztve, lent, jobb oldalon Molnár Mercédesz tervezőművész mesterjegye látható. Az emlékérme szélén, fent az „Országos Meteorológiai Szolgálat”, lent az „Alapítva: 1870” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
