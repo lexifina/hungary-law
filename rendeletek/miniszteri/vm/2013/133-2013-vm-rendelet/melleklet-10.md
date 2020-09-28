@@ -38,6 +38,6 @@
 
 ## * Menyhal, sügér és domolykó esetében a naponta kifogható mennyiség darabszámtól függetlenül 3 kg.
 
-10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^207]
+10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^209]
 
-[^207]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^209]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-21. §[^89] (1) Állami horgászvizsgát a horgászszövetség, illetve az általa a vizsgáztatásba bevont horgászszervezet által meghirdetett vizsganapon lehet tenni. A vizsgáztatásba bevont horgászszervezet köteles kéthavonta legalább egy állami horgászvizsga megtartásáról gondoskodni. E vizsgával egyenértékűnek minősül az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, továbbá az olyan államban tett vizsga, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+21. §[^91] (1) Állami horgászvizsgát a horgászszövetség, illetve az általa a vizsgáztatásba bevont horgászszervezet által meghirdetett vizsganapon lehet tenni. A vizsgáztatásba bevont horgászszervezet köteles kéthavonta legalább egy állami horgászvizsga megtartásáról gondoskodni. E vizsgával egyenértékűnek minősül az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, továbbá az olyan államban tett vizsga, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
 (2) A horgászszövetség kizárólag olyan horgászszervezetet vonhat be a horgászvizsgáztatásban való közreműködésre, amely
 
@@ -22,11 +22,11 @@ c) a bizottság tagjainak halgazdálkodási ismereteit a 32. § (1) bekezdés sz
 
 (9) A sikeres állami horgászvizsgát követően a horgászszövetség által vizsgáztatásba bevont horgászszervezet a halgazdálkodási hatóság honlapján közzétett tartalmú állami horgászvizsga bizonyítványt állít ki, amelyet a vizsgáztató ad át a vizsgázónak.
 
-(10)[^90] Elektronikus támogatású állami horgászvizsga esetén a horgászvizsga bizonyítványt a horgászszövetség által üzemeltetett informatikai rendszer automatikusan, elektronikus úton állítja ki.
+(10)[^92] Elektronikus támogatású állami horgászvizsga esetén a horgászvizsga bizonyítványt a horgászszövetség által üzemeltetett informatikai rendszer automatikusan, elektronikus úton állítja ki.
 
 (11) A horgászszövetség az elvesztett vagy megsemmisült állami horgászvizsga bizonyítványt – nyilvántartása adatai alapján – megismételt vizsgakötelezettség nélkül, díjmentesen pótolja.
 
 (12) A horgászvizsga alóli mentességet az állami horgászvizsga bizottság számára hitelt érdemlően, a mentesség alapját igazoló igazolás benyújtásával kell igazolni.
 
-[^89]: A 21. § a 45/2018. (XII. 28.) AM rendelet 15. §-ával megállapított szöveg.
-[^90]: A 21. § (10) bekezdése a 62/2019. (XII. 18.) AM rendelet 4. §-ával megállapított szöveg.
+[^91]: A 21. § a 45/2018. (XII. 28.) AM rendelet 15. §-ával megállapított szöveg.
+[^92]: A 21. § (10) bekezdése a 62/2019. (XII. 18.) AM rendelet 4. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-1. melléklet a 133/2013. (XII. 29.) VM rendelethez[^198]
+1. melléklet a 133/2013. (XII. 29.) VM rendelethez[^200]
 
 A nyilvántartott és a nem nyilvántartott halgazdálkodási vízterületeken élő őshonos halfajok halgazdálkodási értéke, valamint a kiszámítás módja
 
@@ -48,4 +48,4 @@ I. KISTERMETŰ FAJOK
 
 II. NAGYOBB MÉRETŰ FAJOK
 
-[^198]: Az 1. mellékllet a 62/2019. (XII. 18.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^200]: Az 1. mellékllet a 62/2019. (XII. 18.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.

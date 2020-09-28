@@ -1,4 +1,4 @@
-41. §[^187] (1) A halgazdálkodási hatóság az esküt tett társadalmi halőr részére a halgazdálkodási hatóság honlapján közzétett adattartalmú társadalmi halőr szolgálati igazolványt állít ki. Az igazolvány visszavonásig érvényes.
+41. §[^189] (1) A halgazdálkodási hatóság az esküt tett társadalmi halőr részére a halgazdálkodási hatóság honlapján közzétett adattartalmú társadalmi halőr szolgálati igazolványt állít ki. Az igazolvány visszavonásig érvényes.
 
 (2) Az esküt tett hivatásos halőr és társadalmi halőr részére a halgazdálkodási hatóság halgazdálkodási hatóság honlapján közzétett adattartalmú szolgálati naplót ad ki.
 
@@ -22,4 +22,4 @@
 
 (12) A halgazdálkodási hatóság állományában álló ugyanazon személy egyidejűleg állami halőri és halgazdálkodási hatósági feladatokat is elláthat.
 
-[^187]: A 41. § a 45/2018. (XII. 28.) AM rendelet 31. §-ával megállapított szöveg.
+[^189]: A 41. § a 45/2018. (XII. 28.) AM rendelet 31. §-ával megállapított szöveg.
