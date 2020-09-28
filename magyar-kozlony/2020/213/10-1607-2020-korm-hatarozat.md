@@ -1,0 +1,235 @@
+# A Kormány 1607/2020. (IX. 28.) Korm. határozata
+
+Magyar Közlöny 2020. évi 213. szám, 2020. szeptember 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ZXVCDiyYLbqGp3oCrGLw5f68f8544a82d/dokumentumok/47615fcce72f372c906b8402bb4ea518e74441d4/letoltes)
+
+---
+
+A Kormány 1607/2020. (IX. 28.) Korm. határozata
+a KEHOP-5.2.2. azonosító jelű („Középületek kiemelt épületenergetikai fejlesztései”című) felhívás keretében
+megvalósuló egyes projektek összköltségének növeléséről, valamint a Környezeti és Energiahatékonysági
+Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat
+módosításáról
+1. A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés f) pontjában meghatározott
+feladatkörében eljárva
+1.1. egyetért
+a) a KEHOP-5.2.2-16-2016-00037 azonosító számú, „Győr-Moson-Sopron megyei oktatási intézmények
+épületenergetikai fejlesztése”című,
+b) a KEHOP-5.2.2-16-2016-00095 azonosító számú, „Semmelweis Egyetem Pető András Karának
+energiahatékonysági fejlesztése”című, valamint
+c) a KEHOP-5.2.2-16-2016-00107 azonosító számú, „Budapesti egészségügyi intézmények energetikai
+korszerűsítése”című
+projekt (a továbbiakban együtt: projektek) összköltségének növelésével és forrásszerkezetének
+módosításával, az 1. melléklet szerint;
+1.2. az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló
+17/2017. (II. 1.) Korm. rendelet (a továbbiakban: Korm. rendelet) 6/A. §-a alapján hozzájárul, hogy az 1.1. pont
+b) alpontja szerinti projekt keretemelése és annak végrehajtása során a Korm. rendelet 5. §-a ne kerüljön
+alkalmazásra;
+1.3. egyetért az 1.1. pont b) alpontja szerinti projekt 1. mellékletben foglalt táblázat G:4 mezője szerinti
+többlettámogatásának a Környezeti és Energiahatékonysági Operatív Program (a továbbiakban: KEHOP)
+5. prioritása rendelkezésre álló kerete terhére történő finanszírozásával;
+1.4. egyetért azzal, hogy a projekteknek az 1. mellékletben foglalt táblázat H:3–H:5 mezőjében meghatározott,
+az európai uniós forrás terhére el nem elszámolható költségei – az Uniós fejlesztések fejezetbe tartozó
+fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. §
+(1) bekezdés b) pontja alapján – kerüljenek finanszírozásra a KEHOP hazai társfinanszírozáson felüli
+felhasználásával;
+1.5. egyetért a projektek támogatási szerződésének 1. melléklet szerinti módosításával.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: azonnal
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló
+1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:494 mezőjében a „0,70” szövegrész helyébe
+a„0,77”szöveg lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1607/2020. (IX. 28.) Korm. határozathoz
+A B C D E F G H I J K L M
+1.
+Projekt
+azonosító
+száma
+Projekt megnevezése Kedvezményezett neve
+Módosítás előtti forrásszerkezet
+Projekt
+módosítás előtti
+összköltsége
+összesen
+(bruttó, forint)
+Változás Módosítást követő forrásszerkezet
+Projekt
+módosítást
+követő
+összköltsége
+(bruttó, forint)
+Projekt rövid bemutatása
+2.
+KEHOP
+(bruttó, forint)
+Az Európai Unió
+(a továbbiakban:
+EU) felé nem
+elszámolható
+költség
+(XIX. Uniós
+fejlesztések
+fejezet
+KEHOP hazai
+társfinanszírozás
+terhére)
+(bruttó forint)
+KEHOP
+(bruttó,
+forint)
+Az EU felé nem
+elszámolható
+egyéb költségek
+(XIX. Uniós
+fejlesztések
+fejezet
+KEHOP hazai
+társfinanszírozás
+terhére)
+(bruttó, forint)
+Projekt
+összköltsége
+(bruttó, forint)
+KEHOP
+(bruttó, forint)
+Az EU felé nem
+elszámolható
+egyéb költségek
+(XIX. Uniós
+fejlesztések
+fejezet
+KEHOP hazai
+társfinanszírozás
+terhére)
+(bruttó, forint)
+3.
+KEHOP-5.2.2-
+16-2016-00037
+Győr-Moson-Sopron
+megyei oktatási
+intézmények
+épületenergetikai
+fejlesztése
+NFSI Nemzeti
+Fejlesztési és
+Stratégiai Intézet
+Nonprofit Korlátolt
+Felelősségű Társaság
+(konzorciumvezető)
+Klebelsberg Központ
+2 980 000 000 – 2 980 000 000 – +206 408 793 +206 408 793 2 980 000 000 206 408 793 3 186 408 793
+A projekt a Klebelsberg Központ Győr-Moson-Sopron Megye
+4778/46 hrsz.; 9023 Győr, Kodály Zoltán utca 31. címen
+található Győri Fekete István Általános Iskola Főépületét
+(A-B-C-D épületek) és E épületét érinti. Ezen épületek
+az építési kornak megfelelő technológiai színvonalon épültek,
+de a határolószerkezetek és az elavult, helyenként rosszul
+záródó nyílászárók nem felelnek meg a mai kor hőtechnikai
+és épületszerkezettani követelményeinek, így az épületek
+jelentős hőveszteséggel működnek. Az épületenergetikai
+beruházás a külső határoló fal- és födémszerkezetek utólagos
+hőszigetelését, fűtési és szellőzőrendszerek korszerűsítését,
+valamint egy napenergiát hasznosító villamos energiát
+termelő napelem rendszer telepítését tartalmazza
+az épületek energetikai jellemzőinek meghatározásáról szóló
+7/2006. (V. 24.) TNM rendelet [a továbbiakban: 7/2006. (V. 24.)
+TNM rendelet] követelményszintjének való megfeleléssel,
+törekedve az üzemeltetés energiaköltségeinek minél
+magasabb megtakarítására.
+Az épületek energetikai korszerűsítését célzó építészeti
+felújítási munkáknak az épületek külső határolószerkezeteit
+kell érinteniük. Hőszigetelésre kell kerülniük az épületek
+homlokzati falainak, a lábazatoknak és a lapostetőknek,
+terasztetőknek. A lapostetők, terasztetők hőszigetelése
+kapcsán mindenütt szükséges felújítani a tetőkön található
+csapadékvíz elleni szigetelést. Cserélni szükséges a mai
+energetikai követelményeknek nem megfelelő homlokzati
+nyílászárókat.
+Szükséges kialakítani az épületek esetében a fűtési hálózat
+korszerűsítését, a fűtési rendszer szabályozását, a szellőző-
+légkezelő rendszer korszerűsítését is. Beépítésre kell kerülniük
+hőcserélőknek és korszerű lapradiátoroknak is. Némely épület
+esetében kialakítandó hővisszanyerős szellőzőrendszer,
+illetve hőcserélővel kell szétválasztani a távhővezeték és
+az épület hőleadó rendszerét. Továbbá a világítási rendszer
+korszerűsítése és épületfelügyeleti rendszer kialakítása is
+szükséges.
+
+4.
+KEHOP-5.2.2-
+16-2016-00095
+Semmelweis Egyetem
+Pető András Karának
+energiahatékonysági
+fejlesztése
+NFSI Nemzeti
+Fejlesztési és
+Stratégiai Intézet
+Nonprofit Korlátolt
+Felelősségű Társaság
+(konzorciumvezető)
+Semmelweis Egyetem
+700 000 000 – 700 000 000 +61 973 800 +240 621 435 +302 595 235 761 973 800 240 621 435 1 002 595 235
+A projekt a Semmelweis Egyetem Pető András Kar épületének
+10171/5 hrsz.; 1125 Budapest, Kútvölgyi út 6. sz.
+A és B épületeit érinti. Ezen épületek az építési kornak
+megfelelő technológiai színvonalon épültek, de
+a határolószerkezetek és az elavult, helyenként rosszul
+záródó nyílászárók nem felelnek meg a mai kor hőtechnikai
+és épületszerkezettani követelményeinek, így az épületek
+jelentős hőveszteséggel működnek. Az épületenergetikai
+beruházás a fűtési rendszerek korszerűsítését tartalmazza,
+a 7/2006. (V. 24.) TNM rendelet követelményszintjének való
+megfeleléssel, törekedve az üzemeltetés energiaköltségeinek
+minél magasabb megtakarítására.
+Az épületek energetikai korszerűsítését célzó építészeti
+felújítási munkáknak az épületek külső határolószerkezeteit
+kell érinteniük. Cserélni szükséges a mai energetikai
+követelményeknek nem megfelelő homlokzati nyílászárókat.
+Szükséges kialakítani az épületek esetében a fűtési hálózat
+korszerűsítését, a fűtési rendszer szabályozását. Beépítésre kell
+kerülniük hőcserélőknek és korszerű lapradiátoroknak is.
+5.
+KEHOP-5.2.2-
+16-2016-00107
+Budapesti egészségügyi
+intézmények energetikai
+korszerűsítése
+NFSI Nemzeti
+Fejlesztési és
+Stratégiai Intézet
+Nonprofit Korlátolt
+Felelősségű Társaság
+(konzorciumvezető)
+Állami Egészségügyi
+Ellátó Központ
+10 490 000 000 – 10 490 000 000 – +349 747 298 +349 747 298 10 490 000 000 349 747 298 10 839 747 298
+A projekt az Országos Klinikai Idegtudományi Intézet
+1145 Budapest, Amerikai út 57., hrsz. 31571/2 épületeit érinti.
+Ezen épületek az építési kornak megfelelő technológiai
+színvonalon épültek, de a határolószerkezetek és az elavult,
+helyenként rosszul záródó nyílászárók nem felelnek meg a mai
+kor hőtechnikai és épületszerkezettani követelményeinek, így
+az épületek jelentős hőveszteséggel működnek.
+Az épületenergetikai beruházás a külső határoló fal- és
+födémszerkezetek utólagos hőszigetelését, fűtési rendszerek
+korszerűsítését, kiépítését tartalmazza, a 7/2006. (V. 24.)
+TNM rendelet követelményszintjének való megfeleléssel,
+törekedve az üzemeltetés energiaköltségeinek minél
+magasabb megtakarítására.
+Az épületek energetikai korszerűsítését célzó építészeti
+felújítási munkáknak az épületek külső határolószerkezeteit
+kell érinteniük. Hőszigetelésre kell kerülniük az épületek
+homlokzati falainak, a lábazatoknak és a lapostetőknek.
+A lapostetők hőszigetelése kapcsán mindenütt szükséges
+felújítani a lapostetőkön található csapadékvíz elleni
+szigetelést. Cserélni szükséges a mai energetikai
+követelményeknek nem megfelelő homlokzati nyílászárókat.
+Szükséges korszerűsíteni egyes épületek esetében a fűtési,
+komfort légtechnikai és hűtési rendszert,
+valamint a hő- és füstelvezető (RWA) rendszer kialakítása is
+szükséges. Beépítésre kell kerülniük korszerű hőcserélőknek is.
