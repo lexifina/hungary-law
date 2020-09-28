@@ -18,6 +18,6 @@
 
 | 9. | egyéb kategória: szántóföldi növénytermesztés (beleértve a szalmát, a vetőmagot, a szóját, a rizst, a tönköly- és durumbúzát, a cukorrépát és a csemegekukoricát is), cukorrépa |
 
-2. melléklet a 42/2015. (VII. 22.) FM rendelethez[^25]
+2. melléklet a 42/2015. (VII. 22.) FM rendelethez[^26]
 
-[^25]: A 2. mellékletet a 23/2019. (V. 31.) AM rendelet 9. §-a hatályon kívül helyezte.
+[^26]: A 2. mellékletet a 23/2019. (V. 31.) AM rendelet 9. §-a hatályon kívül helyezte.
