@@ -4,7 +4,7 @@
 
 (1a)[^7] Ha a mezőgazdasági káresemény tárgyév április 1-je után következik be és a kárbejelentésre nyitva álló, (1) bekezdés szerinti határidő az egységes kérelem szankciómentes benyújtására nyitva álló időszakban telik le, akkor – az (1) bekezdésben foglaltaktól eltérően – a kárbejelentés az egységes kérelem szankciómentes benyújtására előírt határidő utolsó napjáig tehető meg.
 
-(2)[^8] A kárbejelentés alapján eljáró szerv a károsodással érintett terület szerint illetékes, megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatala (a továbbiakban: agrárkár-megállapító szerv).
+(2)[^8] A kárbejelentés alapján eljáró szerv a károsodással érintett terület szerint illetékes, földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal (a továbbiakban: agrárkár-megállapító szerv).
 
 (3)[^9] A hozamcsökkenést okozó aszály, belvíz, téli fagy vagy mezőgazdasági árvíz esetén a mezőgazdasági káresemény bekövetkezésének – az időjárási jelenség és természeti esemény bekövetkezésének tényleges időpontjától függetlenül – azt az időpontot kell tekinteni, amikor a károsodással érintett területen termesztett növénykultúrán a károsodás első alkalommal észlelhetővé válik. A hozamcsökkenést okozó felhőszakadás, jégeső, tavaszi fagy, őszi fagy vagy vihar esetén a mezőgazdasági káresemény bekövetkezésének azt az időpontot kell tekinteni, amikor az időjárási jelenség és természeti esemény a károsodással érintett területen bekövetkezik.
 
@@ -27,7 +27,7 @@ b) az aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, ősz
 (10)[^16] Az őszi vetésű szántóföldi növénykultúrák esetében – a tárgyévi kárenyhítő juttatás összegének meghatározásánál – a tárgyév október 31-ig bekövetkezett mezőgazdasági káreseményt a tárgyév november 1. napján bekövetkezettnek kell tekinteni.
 
 [^7]: A 4. § (1a) bekezdését a 36/2016. (V. 13.) Fm rendelet 1. §-a iktatta be.
-[^8]: A 4. § (2) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított, a 35/2017. (VII. 6.) FM rendelet 17. § c) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § a) pontjával elrendelt módosítás, amely szerint a „földművelésügyi hatáskörében eljáró megyei kormányhivatal” szövegrész helyébe a „megyei kormányhivatal agrárkár-megállapító szervként eljáró járási hivatala” szöveg lép, nem vezethető át.]
+[^8]: A 4. § (2) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 28. §-a szerint módosított szöveg.
 [^9]: A 4. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 10. §-ával megállapított szöveg.
 [^10]: A 4. § (4) bekezdése a 4/2016. (I. 20.) FM rendelet 19. §-ával megállapított szöveg.
 [^11]: A 4. § (5) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § a) pontja szerint módosított szöveg.
