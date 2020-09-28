@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-65-20-2
 | 2013-08-01 | 2011-65-20-2Y.3 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-29 | 2011-65-20-2Y.4 | 27/2014. (III. 26.) VM rendelet |
 | 2017-08-18 | 2011-65-20-2Y.5 | 42/2017. (VIII. 17.) FM rendelet |
+| 2020-09-28 | 2011-65-20-2Y.6 | 70/2013. (VII. 31.) VM rendelet |
