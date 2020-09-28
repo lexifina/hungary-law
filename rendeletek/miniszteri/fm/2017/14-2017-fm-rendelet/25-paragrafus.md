@@ -10,7 +10,7 @@ b) a törzsültetvény típusát és
 
 c) a telepítendő fajokat.
 
-(3) A kérelemhez mellékelni kell a faiskolai engedélyt és a növény- és talajvédelmi hatáskörben eljáró járási hivatal előzetes termőhelyi szemléjének jegyzőkönyvét.
+(3)[^39] A kérelemhez mellékelni kell a faiskolai engedélyt és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal előzetes termőhelyi szemléjének jegyzőkönyvét.
 
 (4) Az előzetes termőhelyi szemle kiterjed
 
@@ -25,3 +25,5 @@ d) a területnek a kérelemben megjelölt fajokra vonatkozó, talajvizsgálaton 
 (5) A Pest Megyei Kormányhivatal a törzsültetvény létesítésének engedélyezése tárgyában határozatot hoz.
 
 (6) A szaporítás célját szolgáló prebázis és bázis törzsültetvényekben a fajtafenntartó vagy megbízottja, a certifikált törzsültetvényben az ültetvény fenntartója szükség esetén köteles negatív szelekciót végezni, és az ültetvényt minősítésre, szemlére előkészíteni.
+
+[^39]: A 25. § (3) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.

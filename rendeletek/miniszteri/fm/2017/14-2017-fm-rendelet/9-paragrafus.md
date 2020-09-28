@@ -1,6 +1,6 @@
 ## 6. A gyümölcs szaporítóanyag forgalmazása, megjelölése, címkézése
 
-9. § (1) A gyümölcs szaporítóanyag megjelölésére felhasznált certifikációs címkét a NÉBIH biztosítja a szállítók számára. A címkeminőség és a címke-előállítás ellenőrizhetősége mellett a NÉBIH engedélyezheti a certifikációs címke saját célra történő előállítását. Saját célra történő címke-előállítás esetén a szállító a növényútlevél használata iránti igényét előzetesen bejelenti a növény- és talajvédelmi hatáskörében eljáró járási hivatalnak.
+9. § (1)[^8] A gyümölcs szaporítóanyag megjelölésére felhasznált certifikációs címkét a NÉBIH biztosítja a szállítók számára. A címkeminőség és a címke-előállítás ellenőrizhetősége mellett a NÉBIH engedélyezheti a certifikációs címke saját célra történő előállítását. Saját célra történő címke-előállítás esetén a szállító a növényútlevél használata iránti igényét előzetesen bejelenti a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalnak.
 
 (2) A C.A.C. szaporítóanyagok megjelölésére szolgáló termelői címkét a szállító készíti vagy szerzi be és helyezi fel a szaporítóanyag-tételre.
 
@@ -50,8 +50,9 @@ b) bázis szaporítóanyag esetében fehér;
 
 c) certifikált szaporítóanyag esetében kék;
 
-d)[^4] a C.A.C. kategóriájú szaporítóanyag esetében sárga.
+d)[^9] a C.A.C. kategóriájú szaporítóanyag esetében sárga.
 
 (7) A jelölést a szaporítóanyagként vagy gyümölcstermő növényként forgalmazni kívánt növényeken vagy növényi részeken kell elhelyezni. Ha az ilyen növények vagy növényi részek csomagban, kötegben vagy tartályban kerülnek forgalomba, akkor a jelölést e csomagon, kötegen vagy tartályon kell elhelyezni.
 
-[^4]: A 9. § (6) bekezdés d) pontja a 43/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 9. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 9. § (6) bekezdés d) pontja a 43/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.

@@ -10,12 +10,15 @@
 
 (5) A szállító a harmadik ország ellenőrző hatósága által vizsgált és alkalmasnak minősített szaporítóanyagra nyújthat be behozatali kérelmet.
 
-(6) A behozott szaporítóanyag tárolási helyéről és mennyiségéről a szállító köteles két munkanapon belül növénytermesztési hatáskörben eljáró járási hivatalt értesíteni, és kérni a belföldiesítő ellenőrzést.
+(6)[^69] A behozott szaporítóanyag tárolási helyéről és mennyiségéről a szállító köteles két munkanapon belül növénytermesztési hatáskörben eljáró megyei kormányhivatalt értesíteni, és kérni a belföldiesítő ellenőrzést.
 
-(7) A növénytermesztési hatáskörben eljáró járási hivatal a (6) bekezdés szerinti ellenőrzése során
+(7)[^70] A növénytermesztési hatáskörben eljáró megyei kormányhivatal a (6) bekezdés szerinti ellenőrzése során
 
 a) vizsgálja a behozott szaporítóanyag minőségének a NÉBIH engedélyében foglaltaknak való megfelelőségét, valamint
 
 b) jogosult a szaporítóanyagból mintát venni további ellenőrzés céljából.
 
 (8) Ha az engedély a szaporítóanyag minősége tekintetében nem tartalmaz előírást, az meg kell, hogy feleljen a hazai előállítású certifikált szaporítóanyagokra előírt minőségi követelményeknek.
+
+[^69]: A 42. § (6) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^70]: A 42. § (7) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.

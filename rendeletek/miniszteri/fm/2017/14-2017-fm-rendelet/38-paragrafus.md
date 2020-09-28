@@ -2,7 +2,7 @@
 
 38. § (1) A faiskolai engedélyes saját telephelyén szaporítóanyag nagykereskedelmi forgalomba hozatalára, valamint viszonteladására jogosult.
 
-(2) A növénytermesztési hatáskörben eljáró járási hivatal a nagykereskedelmi forgalomba hozatalt telephellyel rendelkező kérelmező részére akkor engedélyezi, ha
+(2)[^60] A növénytermesztési hatáskörben eljáró megyei kormányhivatal a nagykereskedelmi forgalomba hozatalt telephellyel rendelkező kérelmező részére akkor engedélyezi, ha
 
 a) a kérelmező, illetve a nagykereskedelmi tevékenység végzéséért felelős szakmai vezetőként tevékenykedő alkalmazottja a 30. § (2) bekezdés b) pontja szerinti végzettséggel rendelkezik,
 
@@ -12,11 +12,11 @@ c) a kérelmező mellékelte a telephely jogszerű használatát igazoló okirat
 
 d) a helyszíni szemlén megállapította, hogy a telephely alkalmas a vásárolt szaporítóanyag szakszerű átmeneti tárolására, mely során az életképesség megőrzése biztosított, és a tételek elkülönített tárolása megoldható,
 
-e) a növény- és talajvédelmi hatáskörben eljáró járási hivatal igazolja, hogy a telephely alkalmas a tárolás, illetve árukezelés során a tételek elkülönítésére, életképességének és eredeti növény-egészségügyi állapotának megtartására, és
+e)[^61] a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal igazolja, hogy a telephely alkalmas a tárolás, illetve árukezelés során a tételek elkülönítésére, életképességének és eredeti növény-egészségügyi állapotának megtartására, és
 
 f) a kérelmező és a szakmai vezető a kérelem benyújtását megelőző öt évben nem sértette meg a szaporítóanyagok előállítására, felhasználására vagy forgalomba hozatalára vonatkozó jogszabályokat.
 
-(3) A növénytermesztési hatáskörben eljáró járási hivatal a telephellyel nem rendelkező, kizárólag a szaporítóanyagok közvetítésével foglalkozó szállítónak a nagykereskedelmi forgalomba hozatalt akkor engedélyezi, ha a szállító teljesíti a (2) bekezdés a)–c) és f) pontjában foglalt előírásokat.
+(3)[^62] A növénytermesztési hatáskörben eljáró megyei kormányhivatal a telephellyel nem rendelkező, kizárólag a szaporítóanyagok közvetítésével foglalkozó szállítónak a nagykereskedelmi forgalomba hozatalt akkor engedélyezi, ha a szállító teljesíti a (2) bekezdés a)–c) és f) pontjában foglalt előírásokat.
 
 (4) A nagykereskedelmi forgalmazó köteles
 
@@ -24,7 +24,7 @@ a) a vásárolt tételeket elkülöníteni és az értékesített szaporítóany
 
 b) az értékesített tételekről viszonteladói származási igazolványt kiállítani, annak egy példányát a vásárló részére átadni, egy példányát pedig a NÉBIH-nek megküldeni.
 
-(5) A növénytermesztési hatáskörben eljáró járási hivatal a nagykereskedelmi telephelyeken valamint a csak közvetítéssel foglalkozó szállítók esetén a szállító irodájában évente legalább egy szemlét végez. A szemle során ellenőrzi
+(5)[^63] A növénytermesztési hatáskörben eljáró megyei kormányhivatal a nagykereskedelmi telephelyeken valamint a csak közvetítéssel foglalkozó szállítók esetén a szállító irodájában évente legalább egy szemlét végez. A szemle során ellenőrzi
 
 a) a telephelyen folytatott tevékenységtől függően a szaporítóanyag szakszerű tárolását, csomagolását, tételenkénti elkülönítését,
 
@@ -35,3 +35,8 @@ c) az alkalmazott, a tételek keveredésének elkerülését biztosító anyagmo
 d) a 11. §-ban foglaltak teljesülését, és
 
 e) a forgalomba hozatal bizonylatolását a 12. §-ban foglaltak szerint.
+
+[^60]: A 38. § (2) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^61]: A 38. § (2) bekezdés e) pontja a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^62]: A 38. § (3) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^63]: A 38. § (5) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.

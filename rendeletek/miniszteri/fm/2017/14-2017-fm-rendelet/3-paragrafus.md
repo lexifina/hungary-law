@@ -1,6 +1,6 @@
 ## 2. A gyümölcs szaporítóanyag előállításának és forgalomba hozatalának általános követelményei
 
-3. § (1) A gyümölcs szaporítóanyagok előállításával, forgalomba hozatalával kapcsolatos ellenőrzési, minősítési, feladatokat a NÉBIH, a növénytermesztési hatáskörben eljáró járási hivatal, valamint növény- és talajvédelmi hatáskörben eljáró járási hivatal látja el.
+3. § (1)[^2] A gyümölcs szaporítóanyagok előállításával, forgalomba hozatalával kapcsolatos ellenőrzési, minősítési feladatokat a növénytermesztési hatáskörben eljáró NÉBIH, a növénytermesztési hatáskörben eljáró megyei kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal látja el.
 
 (2) Gyümölcs szaporítóanyagot faiskolában vagy szaporítás céljára engedélyezett ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani csak azokat a fajtákat, klónokat, alany fajokat szabad, amelyek a hazai Nemzeti Fajtajegyzékben szerepelnek, más tagállamban elismertek vagy állami elismerés iránt bejelentettek.
 
@@ -17,3 +17,5 @@ a) a tárgyévi faiskolai, szaporítóanyag nagykereskedelmi tevékenység folyt
 b) a C.A.C. szaporító alapanyag előállító ültetvények üzemeltetéséről, valamint
 
 c) az előállított szaporítóanyag kategóriájáról
+
+[^2]: A 3. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (1) bekezdésével megállapított szöveg.

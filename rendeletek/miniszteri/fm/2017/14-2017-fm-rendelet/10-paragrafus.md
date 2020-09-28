@@ -4,7 +4,7 @@ a) árutermő ültetvény telepítése céljára hozzák forgalomba,
 
 b) az egy telepítő részére forgalmazni kívánt tétel legalább 200 db oltványból áll, és
 
-c) a szállítónak a telepítőtől írásos megrendelése van, melyet a kötegellenőrzéskor eljáró NÉBIH és a növény- és talajvédelmi hatáskörben eljáró járási hivatal részére bemutatott.
+c)[^10] a szállítónak a telepítőtől írásos megrendelése van, melyet a kötegellenőrzéskor eljáró NÉBIH és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal részére bemutatott.
 
 (2) A kötegelten tanúsított fás oltványokat megbontott kötegből tovább forgalmazni tilos.
 
@@ -43,3 +43,5 @@ d) a tételenkénti mennyiséget és
 e) az érintett tétel vonatkozásában releváns további információkat.
 
 (8) Ha a származási igazolványban foglalt információk ellentmondanak a jelölésen szereplőknek, akkor a jelölésen szereplő információkat kell figyelembe venni.
+
+[^10]: A 10. § (1) bekezdés c) pontja a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.

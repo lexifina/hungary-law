@@ -1,4 +1,4 @@
-2. melléklet a 14/2017. (III. 23.) FM rendelethez[^24]
+2. melléklet a 14/2017. (III. 23.) FM rendelethez[^80]
 
 1. Azon vizsgálatköteles nemzárlati károsítók jegyzéke, amelyek jelenlététől a prebázis anyanövény, prebázis, bázis és certifikált (tanúsított) szaporítóanyagnak mentesnek, a C.A.C. ültetési anyagoknak gyakorlatilag mentesnek kell lenniük és erre vonatkozóan vizuális vizsgálatot, valamint – kétség esetén – mintavételt és tesztelést kell végezni
 
@@ -864,4 +864,4 @@
 
 | 30. |  | 1.4. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
 
-[^24]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^80]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított szöveg.

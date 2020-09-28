@@ -1,4 +1,4 @@
-8. melléklet a 14/2017. (III. 23.) FM rendelethez
+8. melléklet a 14/2017. (III. 23.) FM rendelethez[^84]
 
 ## A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének részletes növény-egészségügyi feltételei
 
@@ -82,7 +82,7 @@
 
 5.1. Azonos fajú növények telepítése csak 5 év elteltével engedélyezhető.
 
-5.2. A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény és talajvédelmi hatáskörben eljáró járási hivatal ellenőrzi.
+5.2. A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény és talajvédelmi hatáskörben eljáró megyei kormányhivatal ellenőrzi.
 
 5.3. A megvizsgált talajminta vírusvektor fonálférgeket nem tartalmazhat.
 
@@ -101,3 +101,5 @@
 | 5. | Longidorus macrosoma | – | + | – | – | – | + | R. rubrum | + |
 
 | 6. | Xiphinema diversicaudatum | – | + | + | – | – | + | + | + |
+
+[^84]: A 8. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.

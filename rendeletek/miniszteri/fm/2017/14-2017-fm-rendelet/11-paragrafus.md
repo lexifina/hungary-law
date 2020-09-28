@@ -10,7 +10,7 @@ ba) biztosítani kell az a) pont szerinti minőségi követelmények fenntartás
 
 bb) a tételeket megfelelően jelölni kell a keveredés elkerülése érdekében, és
 
-bc) a műveleteket dokumentálni kell szabadföldi azonosításra alkalmas vázrajzon, illetve a 12. § (1) bekezdésében előírt nyilvántartásban, melyeket kérésre a növénytermesztési hatáskörében eljáró járási hivatal rendelkezésére kell bocsátani;
+bc)[^11] a műveleteket dokumentálni kell szabadföldi azonosításra alkalmas vázrajzon, illetve a 12. § (1) bekezdésében előírt nyilvántartásban, melyeket kérésre a növénytermesztési hatáskörében eljáró megyei kormányhivatal rendelkezésére kell bocsátani;
 
 c) a 2. mellékletben felsorolt kártevők elszaporodásának megakadályozása érdekében a kártevők diagnosztizálására legalkalmasabb időszakban folyamatosan ellenőrizni kell a növényállományt és meg kell tenni a szükséges növényvédelmi és mechanikai védekezéseket;
 
@@ -39,3 +39,5 @@ k) a szállítói nyilvántartást a szaporítóanyagok előállításától sz�
 l) a szemlékre, a mintavételre és a laboratóriumi vizsgálatokra vonatkozó nyilvántartott adatokat az adott szaporítóanyag kitermelésétől vagy forgalmazásától számítva még öt éven át meg kell őrizni.
 
 (2) A szállítónak gondoskodnia kell az (1) bekezdés d) pontja szerinti technológiai leírásban foglaltak betartásáról, illetve az egyes szaporítóanyag-tételek (1) bekezdés a), bc), i), j), k), l) pontja szerinti nyomonkövetési nyilvántartásról.
+
+[^11]: A 11. § (1) bekezdés b) pont bc) alpontja a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
