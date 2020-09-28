@@ -1,4 +1,4 @@
-## 51. §[^194] A magyarországi telephellyel rendelkező palackozó, illetve pezsgő és habzóbor előállító kódja „H” betűjelből és négyjegyű számból áll. Az azonosító kódot az üzem működési engedélye alapján a borászati hatáskörben eljáró járási hivatal adja ki és tartja nyilván.
+## 51. §[^194] A magyarországi telephellyel rendelkező palackozó, illetve pezsgő és habzóbor előállító kódja „H” betűjelből és négyjegyű számból áll. Az azonosító kódot az üzem működési engedélye alapján a borászati hatáskörben eljáró megyei kormányhivatal adja ki és tartja nyilván.
 
 ## A forgalomba hozatali engedély azonosítójának feltüntetése[^195]
 
@@ -14,6 +14,6 @@ d) „forgalomba hozatali engedély”.
 
 (2) Az (1) bekezdésben meghatározott kötelezettség nem vonatkozik azon borászati termékekre, amelyek esetében a forgalomba hozatali engedély azonosítójához tartozó tételszámot vagy tételszámokat a forgalomba hozó a forgalomba hozatalt megelőzően bejelentette a NÉBIH részére.
 
-[^194]: A 51. § a 42/2017. (VIII. 17.) FM rendelet 132. § j) pontja szerint módosított szöveg.
+[^194]: A 51. § a 42/2017. (VIII. 17.) FM rendelet 132. § j) pontja, a 46/2020. (IX. 23.) AM rendelet 15. §-a szerint módosított szöveg.
 [^195]: Az 51/A. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 22. §-a iktatta be.
 [^196]: Az 51/A. §-t a 128/2012. (XII. 14.) VM rendelet 22. §-a iktatta be.
