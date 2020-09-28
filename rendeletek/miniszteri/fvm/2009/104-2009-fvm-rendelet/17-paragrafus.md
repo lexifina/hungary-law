@@ -1,4 +1,4 @@
-## 16. §[^16] Az e rendeletben a vetőmagtermelésre vonatkozóan meghatározott követelmények ellenőrzése a növénytermesztési hatáskörben eljáró járási hivatal hatáskörébe tartozik.
+## 16. §[^16] Az e rendeletben a vetőmagtermelésre vonatkozóan meghatározott követelmények ellenőrzése a növénytermesztési hatáskörben eljáró megyei kormányhivatal hatáskörébe tartozik.
 
 17. § (1) Az elismert tájfajták vetőmagja csak zárt csomagolási egységben hozható forgalomba.
 
@@ -28,4 +28,4 @@ k) a nem szövött anyagból készült zsák eredeti nagyságának megőrzését
 
 (3) A (2) bekezdéssel összhangban lévő lezárás biztosítása érdekében a zárórendszernek legalább címkéből vagy fémzárból kell állnia.
 
-[^16]: A 16. § a 70/2013. (VII. 31.) VM rendelet 109. § i) pontja, a 42/2017. (VIII. 17.) FM rendelet 130. § h) pontja szerint módosított szöveg.
+[^16]: A 16. § a 70/2013. (VII. 31.) VM rendelet 109. § i) pontja, a 42/2017. (VIII. 17.) FM rendelet 130. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 14. § a) pontja szerint módosított szöveg.
