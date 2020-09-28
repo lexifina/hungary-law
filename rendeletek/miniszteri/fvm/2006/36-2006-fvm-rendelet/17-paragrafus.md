@@ -10,9 +10,9 @@
 
 (5)[^90] A kísérleti terület méretét a kérelem elbírálása során a Pest Megyei Kormányhivatal határozza meg, de az összes kísérleti terület nagysága éves szinten nem haladhatja meg a 20 ha-t.
 
-(6) A kísérletet a járási hivatal ellenőrzi.
+(6)[^91] A kísérletet a megyei kormányhivatal ellenőrzi.
 
-(7)[^91] A még nem engedélyezett készítményekkel folytatott szabadföldi kísérleteket nyilvánosan bemutatni, illetve a vizsgálati eredményeket ismertetni csak a Pest Megyei Kormányhivatal előzetes engedélye alapján lehet. Ez a tevékenység kísérleti célú felhasználásnak minősül.
+(7)[^92] A még nem engedélyezett készítményekkel folytatott szabadföldi kísérleteket nyilvánosan bemutatni, illetve a vizsgálati eredményeket ismertetni csak a Pest Megyei Kormányhivatal előzetes engedélye alapján lehet. Ez a tevékenység kísérleti célú felhasználásnak minősül.
 
 (8) Kizárólag a kísérleti engedély alapján végzett kísérleteket lehet az engedélyezési eljárás során elfogadni.
 
@@ -20,4 +20,5 @@
 [^88]: A 17. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet e) pontja szerint módosított szöveg.
 [^89]: A 17. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet f) pontja szerint módosított szöveg.
 [^90]: A 17. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet g) pontja szerint módosított szöveg.
-[^91]: A 17. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet g) pontja szerint módosított szöveg.
+[^91]: A 17. § (6) bekezdése a 46/2020. (IX. 23.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^92]: A 17. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet g) pontja szerint módosított szöveg.
