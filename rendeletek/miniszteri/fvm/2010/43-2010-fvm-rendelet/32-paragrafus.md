@@ -18,7 +18,7 @@ b) a géptípust leíró dokumentumokat (adatlap, mátrix), és
 
 c) az elbírálást segítő egyéb dokumentumokat.
 
-(5)[^120] Az Intézet hivatalból, illetve a járási hivatal vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
+(5)[^120] Az Intézet hivatalból, illetve a megyei kormányhivatal vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
 
 (6) A géptípus olyan változtatása esetén, ami a növényvédő szerek kijuttatását befolyásolja, a (4) bekezdés szerinti dokumentációt újra be kell nyújtani az Intézet felé.
 
@@ -26,4 +26,4 @@ c) az elbírálást segítő egyéb dokumentumokat.
 
 [^118]: A 32. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (15) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
 [^119]: A 32. § (2) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 23. pontja szerint módosított szöveg.
-[^120]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § c) pontja szerint módosított szöveg.
+[^120]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.

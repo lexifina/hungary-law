@@ -1,4 +1,4 @@
-## 7. §[^31] Az élelmezés-egészségügyi várakozási idő lejárta előtti kényszerbetakarítást a termelő köteles a járási hivatalnak bejelenteni. A kényszerbetakarításból származó terményt más terménytől elkülönítetten kell tárolni, és a járási hivatal további intézkedéséig tilos felhasználni, illetve forgalomba hozni.
+## 7. §[^31] Az élelmezés-egészségügyi várakozási idő lejárta előtti kényszerbetakarítást a termelő köteles a megyei kormányhivatalnak bejelenteni. A kényszerbetakarításból származó terményt más terménytől elkülönítetten kell tárolni, és a megyei kormányhivatal további intézkedéséig tilos felhasználni, illetve forgalomba hozni.
 
 8. § (1) A permetlé előkészítése a permetezőgép tartályában vagy erre a célra szolgáló hígító tartályban történhet. A permetlé készítéséhez, tárolásához faedény nem használható.
 
@@ -14,4 +14,4 @@
 
 (7) A növényvédő szer hulladékát a veszélyes hulladékok kezeléséről szóló külön jogszabály előírásainak megfelelően kell kezelni.
 
-[^31]: A 7. § a 70/2013. (VII. 31.) VM rendelet 125. § d) és e) pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § b) és c) pontja szerint módosított szöveg.
+[^31]: A 7. § a 70/2013. (VII. 31.) VM rendelet 125. § d) és e) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § b)–c) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 21. § (1)[^58] Az engedély iránti kérelem tartalmazza a jogosult képzettségét, végzettségét, a folytatni kívánt tevékenységet, a tevékenységgel érintett növényvédő szerek kategóriáját.
 
-(2)[^59] Az engedélyt a járási hivatal adja ki.
+(2)[^59] Az engedélyt a megyei kormányhivatal adja ki.
 
 (3) Egy jogosult csak egy engedéllyel rendelkezhet. Adott tevékenység a szükséges növényvédelmi képesítés vagy végzettség birtokában is csak akkor folytatható, ha a tevékenységet végző rendelkezik a tevékenységgel érintett növényvédő szer kategóriájának megfelelő, adott tevékenység végzésére jogosító engedéllyel.
 
@@ -14,7 +14,7 @@
 
 (6)[^60]
 
-(7)[^61] A járási hivatal az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 57. § n) pontja alapján jár el, amennyiben az engedéllyel rendelkező személy:
+(7)[^61] A megyei kormányhivatal az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) 57. § n) pontja alapján jár el, amennyiben az engedéllyel rendelkező személy:
 
 a) a végfelhasználó részére I. forgalmi kategóriájú növényvédő szert növényorvosi vény hiányában, illetve II. forgalmi kategóriájú szert az arra nem jogosult részére átad,
 
@@ -22,7 +22,7 @@ b) nem teljesíti a (8) bekezdésben foglaltakat és ennek hiányában folytat n
 
 c) a növényvédő szer forgalmazására, vásárlására, felhasználására, vagy a növényvédelmi szolgáltatásra vonatkozó előírásokat a növényvédelmi tevékenysége során megszegi, és ezzel az emberi vagy állati egészséget veszélyezteti.
 
-(7a)[^62] A növényvédő szer forgalmazására, vásárlására, felhasználására vagy a növényvédelmi szolgáltatásra vonatkozó valamely előírásnak a (7) bekezdésben fel nem sorolt módon, egy éven belül történő ismételt megsértése esetén a járási hivatal az engedéllyel rendelkezőt továbbképzésre kötelezi. Amennyiben az engedéllyel rendelkező egy éven belül nem tesz eleget a továbbképzési kötelezettségének, az engedély visszavonásra kerül..
+(7a)[^62] A növényvédő szer forgalmazására, vásárlására, felhasználására vagy a növényvédelmi szolgáltatásra vonatkozó valamely előírásnak a (7) bekezdésben fel nem sorolt módon, egy éven belül történő ismételt megsértése esetén a megyei kormányhivatal az engedéllyel rendelkezőt továbbképzésre kötelezi. Amennyiben az engedéllyel rendelkező egy éven belül nem tesz eleget a továbbképzési kötelezettségének, az engedély visszavonásra kerül..
 
 (7b)[^63] A visszavonás tényét a NÉBIH a honlapján közzéteszi. Új engedély a (7) bekezdés a) pontjában és a (7a) bekezdésben meghatározott esetben az engedély visszavonásától számított két év, a (7) bekezdés b) és c) pontjában meghatározott esetben pedig a visszavonástól számított egy év elteltét követően, a (8) bekezdés szerinti továbbképzésen való részvétel után adható ki.
 
@@ -32,7 +32,7 @@ c) a növényvédő szer forgalmazására, vásárlására, felhasználására, 
 
 (10)[^66] A növényvédelmi szakképesítéssel rendelkező mentesül a (8) bekezdésben előírt továbbképzési kötelezettség alól, ha
 
-a)[^67] a miniszter által vezetett minisztérium, illetve a NÉBIH, a növény- és talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal vagy a járási hivatal állományában növényvédelmi feladatkörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
+a)[^67] a miniszter által vezetett minisztérium, illetve a NÉBIH, a növény- és talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal vagy a megyei kormányhivatal állományában növényvédelmi feladatkörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
 
 b) a növényvédelmi felsőoktatás szaktanára, vagy
 
@@ -44,15 +44,15 @@ d)[^69] a mező- és erdőgazdasági légi munkavégzésről szóló miniszteri 
 
 [^57]: A 20. § a 35/2019. (VII. 15.) AM rendelet 6. §-ával megállapított szöveg.
 [^58]: A 21. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^59]: A 21. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^59]: A 21. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (2) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^60]: A 21. § (6) bekezdését a 35/2019. (VII. 15.) AM rendelet 22. § b) pontja hatályon kívül helyezte.
-[^61]: A 21. § (7) bekezdés nyitó szövegrésze a 35/2019. (VII. 15.) AM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^62]: A 21. § (7a) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 153. § e) pontja, a 35/2019. (VII. 15.) AM rendelet 21. § i) pontja szerint módosított szöveg.
+[^61]: A 21. § (7) bekezdés nyitó szövegrésze a 35/2019. (VII. 15.) AM rendelet 7. § (3) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.
+[^62]: A 21. § (7a) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 153. § e) pontja, a 35/2019. (VII. 15.) AM rendelet 21. § i) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^63]: A 21. § (7b) bekezdését a 84/2015. (XII. 17.) FM rendelet 6. § (2) bekezdése iktatta be.
 [^64]: A 21. § (8) bekezdése a 35/2019. (VII. 15.) AM rendelet 7. § (4) bekezdésével megállapított szöveg.
 [^65]: A 21. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § b) pontja hatályon kívül helyezte, újonnan a 35/2019. (VII. 15.) AM rendelet 7. § (5) bekezdése iktatta be.
 [^66]: A 21. § (10) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^67]: A 21. § (10) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. és 16. pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § f) pontja, a 13/2019. (IV. 5.) AM rendelet 11. §-a szerint módosított szöveg.
+[^67]: A 21. § (10) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. és 16. pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § f) pontja, a 13/2019. (IV. 5.) AM rendelet 11. §-a, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^68]: A 21. § (10) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 17. pontja szerint módosított szöveg.
 [^69]: A 21. § (10) bekezdés d) pontját a 84/2015. (XII. 17.) FM rendelet 6. § (4) bekezdése iktatta be.
 [^70]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 7. § (6) bekezdésével megállapított szöveg.

@@ -20,12 +20,14 @@ c) a b) pont szerinti képzéseken részt vett személyt alkalmaz.
 
 (8) A felülvizsgálaton megfelelt növényvédelmi gépen tanúsító matricát kell elhelyezni.
 
-(9) A gyártási számmal nem rendelkező növényvédelmi gépeket a felülvizsgálat során egyedi azonosítóval kell ellátni úgy, hogy az a növényvédelmi géptől elválaszthatatlan módon kerüljön rögzítésre. Az egyedi azonosító táblát a NÉBIH adja ki a felülvizsgálatára jogosultnak. Az egyedi azonosítókhoz a NÉBIH közvetlen és folyamatos hozzáférést biztosít a Pest Megyei Kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok számára.
+(9)[^123] A gyártási számmal nem rendelkező növényvédelmi gépeket a felülvizsgálat során egyedi azonosítóval kell ellátni úgy, hogy az a növényvédelmi géptől elválaszthatatlan módon kerüljön rögzítésre. Az egyedi azonosító táblát a NÉBIH adja ki a felülvizsgálatára jogosultnak. Az egyedi azonosítókhoz a NÉBIH közvetlen és folyamatos hozzáférést biztosít a Pest Megyei Kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok számára.
 
-(10) A NÉBIH a vizsgált növényvédelmi gépekről és a felülvizsgálati eredményekről szóló adatokhoz folyamatos hozzáférést biztosít a Pest Megyei Kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok részére.
+(10)[^124] A NÉBIH a vizsgált növényvédelmi gépekről és a felülvizsgálati eredményekről szóló adatokhoz folyamatos hozzáférést biztosít a Pest Megyei Kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok részére.
 
 (11) A növényvédelmi gépek felülvizsgálatáról egyedi sorszámmal ellátott jegyzőkönyv mintáját a NÉBIH honlapján közzéteszi.
 
 (12) Az öt évnél idősebb, nem felülvizsgált vagy felülvizsgálaton nem megfelelt növényvédelmi géppel növényvédelmi tevékenységet végezni tilos.
 
 [^122]: A 35. § a 35/2019. (VII. 15.) AM rendelet 15. §-ával megállapított szöveg.
+[^123]: [A 46/2020. (IX. 23.) AM rendelet 19. § e) pontjával elrendelt módosítás, amely szerint az „a Pest Megyei Kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok” szövegrész helyébe az „és a megyei kormányhivatalok” szöveg lép, nem vezethető át.]
+[^124]: [A 46/2020. (IX. 23.) AM rendelet 19. § e) pontjával elrendelt módosítás, amely szerint az „a Pest Megyei Kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok” szövegrész helyébe az „és a megyei kormányhivatalok” szöveg lép, nem vezethető át.]

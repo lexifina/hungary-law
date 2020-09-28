@@ -8,7 +8,7 @@
 
 (4)[^74] A növényorvosi vény elektronikus úton is kiállítható, amennyiben a szakirányító a Növényorvosi Kamara által erre a célra kialakított, megfelelő biztonsági elemekkel ellátott informatikai rendszert működtet.
 
-(4a)[^75] A Növényorvosi Kamara által működtetett elektronikus vény kiállítására szolgáló informatikai rendszerhez a Növényorvosi Kamara közvetlen és folyamatos hozzáférést biztosít a NÉBIH, a Pest Megyei Kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyeszékhely szerinti járási hivatalok számára.
+(4a)[^75] A Növényorvosi Kamara által működtetett elektronikus vény kiállítására szolgáló informatikai rendszerhez a Növényorvosi Kamara közvetlen és folyamatos hozzáférést biztosít a NÉBIH, és a megyei kormányhivatalok számára.
 
 (5)[^76]
 
@@ -22,7 +22,7 @@ c) a növényvédelmi munkavégzéssel érintett kultúrák felsorolását,
 
 d) a szerződés kötésének és – amennyiben a felek arról megállapodtak – megszűnésének idejét.
 
-(5b)[^79] A szerződés megszűnését, valamint azon módosításait, amelyek az (5a) bekezdés szerinti adattartalmat érintik, 15 napon belül kell bejelenteni a járási hivatalnak.
+(5b)[^79] A szerződés megszűnését, valamint azon módosításait, amelyek az (5a) bekezdés szerinti adattartalmat érintik, 15 napon belül kell bejelenteni a megyei kormányhivatalnak.
 
 (5c)[^80] Az a személy, aki a növényvédő szert nem Magyarországon kívánja felhasználni, nem kell növényvédelmi szolgáltatás nyújtására irányuló írásbeli szerződéssel rendelkeznie. Ebben az esetben a növényorvosi vényen fel kell tüntetni, hogy a növényvédő szer Magyarországon nem használható fel, továbbá a növényorvosi vényt kiállító szakirányító felelőssége – a (2) bekezdésben foglaltaktól eltérően – a vásárlásra, szállításra terjed ki.
 
@@ -46,11 +46,11 @@ b) az álló kultúra esetén az azévi termést
 [^72]: A 22. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^73]: A 22. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított szöveg.
 [^74]: A 22. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított szöveg.
-[^75]: A 22. § (4a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (2) bekezdése iktatta be.
+[^75]: A 22. § (4a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (2) bekezdése iktatta be, szövege a 46/2020. (IX. 23.) AM rendelet 19. § e) pontja szerint módosított szöveg.
 [^76]: A 22. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 35/2019. (VII. 15.) AM rendelet 22. § c) pontja.
 [^77]: A 22. § (5a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be.
 [^78]: A 22. § (5a) bekezdés b) pontja a 49/2019. (X. 22.) AM rendelet 7. §-ával megállapított szöveg.
-[^79]: A 22. § (5b) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be.
+[^79]: A 22. § (5b) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 46/2020. (IX. 23.) AM rendelet 19. § b) pontja szerint módosított szöveg.
 [^80]: A 22. § (5c) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be.
 [^81]: A 22. § (6) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^82]: A 22. § (7) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.

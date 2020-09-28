@@ -1,10 +1,10 @@
-2. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^148]
+2. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^150]
 
-## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^149]
+## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^151]
 
 ## Növényvédelmi gépek típusminősítési eljárásának követelményei
 
-## 1.[^150]
+## 1.[^152]
 
 ## 2. A 32. § (1) bekezdésében foglalt rendelkezésekre figyelemmel, az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépek csak típusminősítés után hozhatók forgalomba. A típusminősítési eljárást a növényvédelmi gép gyártója, forgalmazója által szolgáltatott adatok alapján, vagy vizsgálat alapján kell lefolytatni.
 
@@ -24,9 +24,9 @@
 
 ## 10. A forgalomba hozatali engedély hatályosságát igazoló, 6. függelék szerinti matricát a növényvédelmi gépen feltűnő helyen kell elhelyezni.
 
-## Növényvédelmi gépek felülvizsgálata[^151]
+## Növényvédelmi gépek felülvizsgálata[^153]
 
-## 1–5.[^152]
+## 1–5.[^154]
 
 ## 1. függelék
 
@@ -282,8 +282,8 @@ A gépnek könnyen és alaposan tisztíthatónak kell lennie.
 
 A gyorsan kopó alkatrészeknek hozzáférhetőeknek és cserélhetőeknek kell lennie. A gépen meg kell adni a típusjelzést és a típusbesorolást, valamint a gyártás évét.
 
-[^148]: A 2. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § g) pontja hatályon kívül helyezte.
-[^149]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
-[^150]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
-[^151]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
-[^152]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
+[^150]: A 2. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § g) pontja hatályon kívül helyezte.
+[^151]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
+[^152]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^153]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
+[^154]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
