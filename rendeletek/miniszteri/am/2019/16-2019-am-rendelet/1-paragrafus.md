@@ -6,15 +6,15 @@
 
 3. támogatható szaktanácsadó: az a természetes személy, aki
 
-a)[^1] nem tagja, tulajdonosa, alkalmazottja olyan gazdasági társaságnak, illetve nem áll munkavégzésre irányuló egyéb jogviszonyban olyan gazdasági társasággal – ide nem értve a miniszteri elismeréssel rendelkező termelői csoportot, termelői szervezetet –, amely az ügyfél agrártevékenységéhez kapcsolódóan értékesítési és ügynöki tevékenységet végez, és
+a)[^2] nem tagja, tulajdonosa, alkalmazottja olyan gazdasági társaságnak, illetve nem áll munkavégzésre irányuló egyéb jogviszonyban olyan gazdasági társasággal – ide nem értve a miniszteri elismeréssel rendelkező termelői csoportot, termelői szervezetet –, amely az ügyfél agrártevékenységéhez kapcsolódóan értékesítési és ügynöki tevékenységet végez, és
 
 b) nem végez közpénzből nyújtott agrár-, élelmiszer-feldolgozási, erdőgazdálkodási, vidékfejlesztési támogatásokhoz, valamint hatósági feladatkörökhöz kapcsolódó adminisztratív vagy fizikai ellenőrző tevékenységet;
 
 4. támogatható szaktanácsadó szervezet: az a szervezet, amely
 
-a)[^2] szaktanácsadói tevékenységét támogatható szaktanácsadók közreműködésével végzi,
+a)[^3] szaktanácsadói tevékenységét támogatható szaktanácsadók közreműködésével végzi,
 
-b)[^3] nem tagja, tulajdonosa, alkalmazottja olyan gazdasági társaságnak, illetve nem áll munkavégzésre irányuló egyéb jogviszonyban olyan gazdasági társasággal – ide nem értve a miniszteri elismeréssel rendelkező termelői csoportot, termelői szervezetet –, amely az ügyfél agrártevékenységéhez kapcsolódóan értékesítési és ügynöki tevékenységet végez, és
+b)[^4] nem tagja, tulajdonosa, alkalmazottja olyan gazdasági társaságnak, illetve nem áll munkavégzésre irányuló egyéb jogviszonyban olyan gazdasági társasággal – ide nem értve a miniszteri elismeréssel rendelkező termelői csoportot, termelői szervezetet –, amely az ügyfél agrártevékenységéhez kapcsolódóan értékesítési és ügynöki tevékenységet végez, és
 
 c) nem végez közpénzből nyújtott agrár-, élelmiszer-feldolgozási, erdőgazdálkodási, vidékfejlesztési támogatásokhoz kapcsolódó adminisztratív vagy fizikai ellenőrző tevékenységet;
 
@@ -28,7 +28,7 @@ c) nem végez közpénzből nyújtott agrár-, élelmiszer-feldolgozási, erdőg
 
 9. szaktanácsadói státusz: az a besorolás, amely meghatározza a névjegyzéki szaktanácsadó vagy szaktanácsadó szervezet aktív, visszavont, szüneteltetett, felfüggesztett, támogatható vagy támogatott állapotát;
 
-10.[^4] szaktanácsadói tevékenység: az 1. mellékletben felsorolt tématerületen belüli szakterületen, az ügyfél agrártevékenységéhez kapcsolódóan önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett tanácsadással megvalósított szolgáltatási tevékenység;
+10.[^5] szaktanácsadói tevékenység: az 1. mellékletben felsorolt tématerületen belüli szakterületen, az ügyfél agrártevékenységéhez kapcsolódóan önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett tanácsadással megvalósított szolgáltatási tevékenység;
 
 11. szakterület: az 1. mellékletben felsorolt tématerületen belüli terület, amelyen a szaktanácsadó végzettsége és a bejelentés benyújtását megelőzően legalább ötéves igazolt szakmai tapasztalata alapján a szaktanácsadói tevékenységét végzi;
 
@@ -38,7 +38,7 @@ c) nem végez közpénzből nyújtott agrár-, élelmiszer-feldolgozási, erdőg
 
 14. ügyfél: az a természetes személy vagy jogi személy, akivel a szaktanácsadó szervezet vagy a szaktanácsadó a szaktanácsadói tevékenység végzésére irányuló szerződéses jogviszonyban áll.
 
-[^1]: Az 1. § 3. pont a) alpontja a 38/2019. (VIII. 10.) AM rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 4. pont a) alpontja a 38/2019. (VIII. 10.) AM rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^3]: Az 1. § 4. pont b) alpontja a 38/2019. (VIII. 10.) AM rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^4]: Az 1. § 10. pontja a 38/2019. (VIII. 10.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 3. pont a) alpontja a 38/2019. (VIII. 10.) AM rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 4. pont a) alpontja a 38/2019. (VIII. 10.) AM rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^4]: Az 1. § 4. pont b) alpontja a 38/2019. (VIII. 10.) AM rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^5]: Az 1. § 10. pontja a 38/2019. (VIII. 10.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.

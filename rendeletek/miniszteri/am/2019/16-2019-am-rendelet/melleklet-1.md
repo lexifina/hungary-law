@@ -1,6 +1,6 @@
-## 16. §[^7]
+## 16. §[^9]
 
-1. melléklet a 16/2019. (IV. 29.) AM rendelethez[^8]
+1. melléklet a 16/2019. (IV. 29.) AM rendelethez[^10]
 
 A szaktanácsadás tématerületei és szakterületei
 
@@ -224,5 +224,5 @@ A szaktanácsadás tématerületei és szakterületei
 
 | 21. |  |  |
 
-[^7]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet a 38/2019. (VIII. 10.) AM rendelet 2. § (3) bekezdése, (5) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 38/2019. (VIII. 10.) AM rendelet 2. § (3) bekezdése, (5) bekezdés b) pontja szerint módosított szöveg.

@@ -28,9 +28,9 @@ ab) a választott szakterületen a bejelentést megelőzően szerzett ötéves s
 
 ac) növényvédelem tématerület megjelölése esetén a Magyar Növényvédő Mérnöki és Növényorvosi Kamarában, illetve állategészségügy szakterület megjelölése esetén a Magyar Állatorvosi Kamarában való tagságot,
 
-ad) erdőgazdálkodás tématerületen belüli szakterület megjelölése esetén szerepel a fővárosi és megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala által vezetett jogosult erdészeti szakszemélyzeti névjegyzékben, valamint rendelkezik a jogosult erdészeti szakszemélyzet részére kiállított igazolvánnyal, és
+ad)[^6] erdőgazdálkodás tématerületen belüli szakterület megjelölése esetén szerepel az erdészeti hatáskörben eljáró megyei kormányhivatal által vezetett jogosult erdészeti szakszemélyzeti névjegyzékben, valamint rendelkezik a jogosult erdészeti szakszemélyzet részére kiállított igazolvánnyal, és
 
-ae)[^5]
+ae)[^7]
 
 b) nyilatkozik
 
@@ -62,4 +62,5 @@ bc) a tevékenység Magyarország területén határon átnyúló szolgáltatás
 
 (7) A bejelentéskor támogatható státuszt megjelölt szaktanácsadó és szaktanácsadó szervezet köteles a bejelentéssel egyidejűleg igazolni, hogy az ügyféllel nem áll olyan kereskedelmi kapcsolatban, amely az ügyfél részére nyújtott támogatott szaktanácsadási szolgáltatással összeférhetetlen.
 
-[^5]: Az 5. § (5) bekezdés a) pont ae) alpontját a 38/2019. (VIII. 10.) AM rendelet 2. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: Az 5. § (5) bekezdés a) pont ad) alpontja a 46/2020. (IX. 23.) AM rendelet 37. §-a szerint módosított szöveg.
+[^7]: Az 5. § (5) bekezdés a) pont ae) alpontját a 38/2019. (VIII. 10.) AM rendelet 2. § (5) bekezdés a) pontja hatályon kívül helyezte.
