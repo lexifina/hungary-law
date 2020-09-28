@@ -1,6 +1,6 @@
-## 17. §[^50] A Kincstár a 4. §-ban foglaltak teljesülését a támogatás kifizetését megelőzően és követően ellenőrzi, amely kiterjed a szerkezetátalakítási programban résztvevő valamennyi dohánytermelő 5%-ára.
+## 17. §[^52] A Kincstár a 4. §-ban foglaltak teljesülését a támogatás kifizetését megelőzően és követően ellenőrzi, amely kiterjed a szerkezetátalakítási programban résztvevő valamennyi dohánytermelő 5%-ára.
 
-## 3a.[^51] Átmeneti támogatás
+## 3a.[^53] Átmeneti támogatás
 
 17/A. § (1) A dohánytermelő 2019. évre vonatkozóan 2020. február 15. napjáig benyújtott támogatási kérelmét elbíráló döntésben megállapított támogatás a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásnak (a továbbiakban: átmeneti támogatás) minősül.
 
@@ -12,5 +12,5 @@
 
 (5) A dohánytermelő átmeneti támogatásként legfeljebb a 9. § (1) bekezdésében meghatározott határnapig – a mezőgazdasági csekély összegű támogatás iránt – benyújtott kérelme alapján megállapított támogatási összegre jogosult.
 
-[^50]: A 17. § a 88/2016. (XII. 29.) FM rendelet 94. § i) pontja szerint módosított szöveg.
-[^51]: A 3a. alcímet (17/A. §) a 41/2020. (VIII. 19.) AM rendelet 9. §-a iktatta be.
+[^52]: A 17. § a 88/2016. (XII. 29.) FM rendelet 94. § i) pontja szerint módosított szöveg.
+[^53]: A 3a. alcímet (17/A. §) a 41/2020. (VIII. 19.) AM rendelet 9. §-a iktatta be.

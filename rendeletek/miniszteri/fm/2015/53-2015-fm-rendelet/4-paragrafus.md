@@ -22,9 +22,9 @@ e)[^10] a 2016. évtől kezdődően a tárgyévet követő év február 15-ig a 
 
 (6) A természetes személy dohánytermelő és a vele együttműködő termelő esetében külön-külön az (1) bekezdés d) pontja szerinti árbevétel igazolása az (1) bekezdés c) pontja szerinti, tárgyévenként összesen legfeljebb 500 munkaóra elismert tevékenység keretében végzett élőmunka ráfordítás igazolásának minősül.
 
-(7) Amennyiben a természetes személy a járulékokat a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj. törvény) alapján
+(7)[^13] Amennyiben a természetes személy a járulékokat a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj. törvény) alapján
 
-a) legalább a Tbj. törvény 4. § s) pontjában meghatározott minimálbérrel (a továbbiakban: minimálbér) megegyező bevétel után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
+a)[^14] legalább a Tbj. törvény 4. § 14. pontjában meghatározott minimálbérrel (a továbbiakban: minimálbér) megegyező bevétel után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
 
 b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
 
@@ -56,3 +56,5 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 [^10]: A 4. § (1) bekezdés e) pontja a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
 [^11]: A 4. § (1a) bekezdését a 4/2019. (III. 6.) AM rendelet 5. § (1) bekezdése iktatta be.
 [^12]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § d) pontja, a 41/2020. (VIII. 19.) AM rendelet 11. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (7) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § (7) bekezdés a) pontja a 46/2020. (IX. 23.) AM rendelet 32. § b) pontja szerint módosított szöveg.

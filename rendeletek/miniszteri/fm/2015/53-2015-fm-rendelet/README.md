@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-53-20-1
 | 2019-06-08 | 2015-53-20-11.10 | 26/2019. (VI. 7.) AM rendelet |
 | 2020-04-06 | 2015-53-20-11.11 | 10/2020. (IV. 3.) AM rendelet |
 | 2020-08-20 | 2015-53-20-11.12 | 88/2016. (XII. 29.) FM rendelet |
+| 2020-09-28 | 2015-53-20-11.13 | 46/2020. (IX. 23.) AM rendelet |
