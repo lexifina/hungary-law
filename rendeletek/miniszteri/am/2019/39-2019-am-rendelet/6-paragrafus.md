@@ -12,6 +12,6 @@
 
 (6) A támogatás összegét a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
-(7)[^4] Ha a számla az elszámolható költség összegét nem forintban tartalmazza, akkor a számla összegének forintra történő átváltásakor a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyamot kell alkalmazni.
+(7)[^5] Ha a számla az elszámolható költség összegét nem forintban tartalmazza, akkor a számla összegének forintra történő átváltásakor a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyamot kell alkalmazni.
 
-[^4]: A 6. § (7) bekezdését a 66/2019. (XII. 30.) AM rendelet 11. §-a iktatta be.
+[^5]: A 6. § (7) bekezdését a 66/2019. (XII. 30.) AM rendelet 11. §-a iktatta be.

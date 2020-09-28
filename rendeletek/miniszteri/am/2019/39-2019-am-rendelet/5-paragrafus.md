@@ -20,7 +20,7 @@ b) a vásárolt haszongalambokról szóló, a kérelmező nevére kiállított �
 
 c) a haszongalamb Magyarországon történt beszerzése esetén az élő állatok belföldi szállításának állategészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 1. melléklete szerinti állattartói nyilatkozat és 2. melléklete szerinti, a szolgáltató állatorvos által kiállított állategészségügyi bizonyítvány másolati példányát;
 
-d) a haszongalambok tartási helye szerint területileg illetékes járási hivatal alábbiakról szóló igazolásának másolati példányát:
+d)[^4] a haszongalambok tartási helye szerint területileg illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal alábbiakról szóló igazolásának másolati példányát:
 
 da) az Európai Unió más tagállamaiból történt beszerzés esetén az állatok és az állati eredetű termékek Közösségen belüli kereskedelmével kapcsolatos harmonizált bizonyítványminta és ellenőrzési jelentés elfogadásáról szóló, 2004. március 30-i 599/2004/EK bizottsági rendelet melléklete szerinti Állategészségügyi Bizonyítvány másolati példányát,
 
@@ -29,3 +29,5 @@ db) a harmadik országból történt beszerzés esetén a harmadik országokból
 e) a haszongalambok állandó lábgyűrűvel történő megjelölését igazoló, a kérelmező nevét és a lábgyűrűn található jelzést tartalmazó dokumentumot; valamint
 
 f) a kérelmező írásbeli nyilatkozatát a b)–e) pontban meghatározott dokumentummásolatok hitelességéről és helytállóságáról.
+
+[^4]: Az 5. § (3) bekezdés d) pont nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 38. §-a szerint módosított szöveg.
