@@ -16,13 +16,13 @@ cc)[^119] ültetvény esetében legalább 85%-os tőszámbeállottság, és
 
 d) a b–c) pontban foglalt feltételek teljesítéséről nyilatkozik.
 
-(2)[^120] A területileg illetékes földművelésügyi hatáskörében eljáró megyeszékhely szerinti járás hivatal (a továbbiakban: megyeszékhely szerinti járás hivatal) a mezőgazdasági termelő megkeresésére, vagy a mezőgazdasági termelő egységes kérelme alapján a Kincstár megkeresésére, a megkereséstől számított hatvan napon belül az (1) bekezdés b) és c) pontjában foglaltakról hatósági bizonyítványt állít ki, és egyidejűleg megküld a mezőgazdasági termelő és a Kincstár részére.
+(2)[^120] A területileg illetékes földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) a mezőgazdasági termelő megkeresésére, vagy a mezőgazdasági termelő egységes kérelme alapján a Kincstár megkeresésére, a megkereséstől számított hatvan napon belül az (1) bekezdés b) és c) pontjában foglaltakról hatósági bizonyítványt állít ki, és egyidejűleg megküld a mezőgazdasági termelő és a Kincstár részére.
 
 (3) A (2) bekezdésben foglalt megkeresést legkésőbb tárgyév június 30-áig lehet megtenni.
 
 (4)[^121] A (2) bekezdés szerinti hatósági bizonyítványnak tartalmaznia kell a terület azonosító adatait a tárgyévi egységes kérelemben meghatározottak szerint (blokkazonosító, parcella sorszám, helyrajzi szám, területnagyság, ültevény fajának, tőszám (db/ha) meghatározása, ültetvény korának megnevezése, tőszámbeállottság mértékének meghatározása, fix, telepített öntözés meglétének meghatározása).
 
-(5)[^122] A megyeszékhely szerinti járási hivatal az (1) bekezdésben meghatározott feltételek fennállását igazoló hatósági bizonyítvány kiállítása során megkereséssel fordulhat a Kincstárhoz, a fővárosi és megyei kormányhivatal ingatlanügyi hatósági hatáskörében eljáró, területileg illetékes járási (fővárosi kerületi) hivatalához, valamint a NÉBIH-hez, továbbá figyelembe veszi
+(5)[^122] A megyei kormányhivatal az (1) bekezdésben meghatározott feltételek fennállását igazoló hatósági bizonyítvány kiállítása során megkereséssel fordulhat a Kincstárhoz, az ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalhoz, valamint a NÉBIH-hez, továbbá figyelembe veszi
 
 a)[^123] a (4) bekezdés szerinti adatok esetében az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 14. §-ában meghatározott adatokat;
 
@@ -30,9 +30,9 @@ b) az ültetvényről készített egy éven belüli ápolási jegyzőkönyvet, v
 
 c) az (1) bekezdés c) pont cb) alpontjában meghatározott feltétel vonatkozásában a támogatás évére érvényes vízjogi üzemeltetési engedélyt, a létesítményre vonatkozó vízjogi létesítési engedélyt, vagy a műszaki átadás dokumentációját;
 
-d)[^124] a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adatok nem állnak a megyeszékhely szerinti járási hivatal rendelkezésére, vagy a hatósági bizonyítvány kiállítását megelőző egy éven belül az adott táblán nem folytattak le hatósági helyszíni szemlét.
+d)[^124] a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adatok nem állnak a megyei kormányhivatal rendelkezésére, vagy a hatósági bizonyítvány kiállítását megelőző egy éven belül az adott táblán nem folytattak le hatósági helyszíni szemlét.
 
-(6)[^125] A megyeszékhely szerinti járási hivatal – az agrárigazgatási hatósági feladatai körében – az (5) bekezdés d) pontjában meghatározott helyszíni szemle lefolytatásához a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász-hálózatának közreműködését is igénybe veheti.
+(6)[^125] A megyei kormányhivatal – az agrárigazgatási hatósági feladatai körében – az (5) bekezdés d) pontjában meghatározott helyszíni szemle lefolytatásához a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász-hálózatának közreműködését is igénybe veheti.
 
 (7)[^126]
 
@@ -42,10 +42,10 @@ d)[^124] a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges
 [^117]: A 19. § (1) bekezdés nyitó szövegrésze a 13/2017. (III. 17.) FM rendelet 30. § c) pontja szerint módosított szöveg.
 [^118]: A 19. § (1) bekezdés b) pontja a 25/2016. (IV. 11.) FM rendelet 53. § c) pontja, a 13/2017. (III. 17.) FM rendelet 30. § d) pontja szerint módosított szöveg.
 [^119]: A 19. § (1) bekezdés c) pont cc) alpontja a 25/2016. (IV. 11.) FM rendelet 53. § d) pontja szerint módosított szöveg.
-[^120]: A 19. § (2) bekezdése a 25/2016. (IV. 11.) FM rendelet 53. § e) pontja, a 37/2016. (V. 18.) FM rendelet 14. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 80. § f) pontja, a 13/2017. (III. 17.) FM rendelet 30. § e) pontja, a 8/2018. (III. 29.) FM rendelet 16. §-a szerint módosított szöveg.
+[^120]: A 19. § (2) bekezdése a 25/2016. (IV. 11.) FM rendelet 53. § e) pontja, a 37/2016. (V. 18.) FM rendelet 14. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 80. § f) pontja, a 8/2018. (III. 29.) FM rendelet 16. §-a, a 46/2020. (IX. 23.) AM rendelet 30. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^121]: A 19. § (4) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (5) bekezdése, a 25/2016. (IV. 11.) FM rendelet 53. § f) pontja szerint módosított szöveg.
-[^122]: A 19. § (5) bekezdés nyitó szövegrésze a 69/2017. (XII. 27.) FM rendelet 23. §-ával megállapított szöveg.
+[^122]: A 19. § (5) bekezdés nyitó szövegrésze a 69/2017. (XII. 27.) FM rendelet 23. §-ával megállapított, a 46/2020. (IX. 23.) AM rendelet 30. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
 [^123]: A 19. § (5) bekezdés a) pontja a 13/2017. (III. 17.) FM rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^124]: A 19. § (5) bekezdés d) pontja a 13/2017. (III. 17.) FM rendelet 30. § g) pontja szerint módosított szöveg.
-[^125]: A 19. § (6) bekezdése a 13/2017. (III. 17.) FM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^124]: A 19. § (5) bekezdés d) pontja a 46/2020. (IX. 23.) AM rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^125]: A 19. § (6) bekezdése a 13/2017. (III. 17.) FM rendelet 27. § (2) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^126]: A 19. § (7) bekezdését a 8/2018. (III. 29.) FM rendelet 17. §-a hatályon kívül helyezte.
