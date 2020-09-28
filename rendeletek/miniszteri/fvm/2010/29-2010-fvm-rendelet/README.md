@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-8
 | 2015-03-16 | 2010-29-20-82.17 | 9/2015. (III. 13.) FM rendelet |
 | 2017-01-01 | 2010-29-20-82.18 | 88/2016. (XII. 29.) FM rendelet |
 | 2018-12-07 | 2010-29-20-82.19 | 59/2012. (VI. 28.) VM rendelet |
+| 2020-09-28 | 2010-29-20-82.20 | 46/2020. (IX. 23.) AM rendelet |

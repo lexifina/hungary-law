@@ -26,37 +26,39 @@ b) zöldség-, valamint gyümölcstermelő esetében az (1) bekezdés d) pontja 
 
 elismert tevékenység keretében végzett élő munka ráfordítás igazolásának is minősül.
 
-(4) Amennyiben a természetes személy a járulékokat a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj. törvény) alapján
+(4)[^16] Amennyiben a természetes személy a járulékokat a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj. törvény) alapján
 
-a) legalább a Tbj. törvény 4. § s) pontjában meghatározott minimálbérrel (a továbbiakban: minimálbér) megegyező bevétel után fizette meg, így az teljes munkaidőben történő foglalkoztatásnak minősül,
+a)[^17] legalább a Tbj. törvény 4. § 14. pontjában meghatározott minimálbérrel (a továbbiakban: minimálbér) megegyező bevétel után fizette meg, így az teljes munkaidőben történő foglalkoztatásnak minősül,
 
 b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
 
-(4a)[^16] A (4) bekezdéstől eltérően, e rendelet vonatkozásában, amennyiben az a mezőgazdasági őstermelő, akinek e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg a személyi jövedelemadóról szóló törvény szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, a járulékokat a Tbj. törvény alapján
+(4a)[^18] A (4) bekezdéstől eltérően, e rendelet vonatkozásában, amennyiben az a mezőgazdasági őstermelő, akinek e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg a személyi jövedelemadóról szóló törvény szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, a járulékokat a Tbj. törvény alapján
 
 a) legalább az őstermelői tevékenységből származó, tárgyévet megelőző évi bevételének 20 százaléka után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
 
 b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
 
-(5)[^17] E rendelet vonatkozásában, amennyiben a természetes személy a (4) és (4a) bekezdésben foglaltaktól eltérően egészségügyi hozzájárulás fizetésére kötelezett és az egészségügyi hozzájárulást az egészségügyi hozzájárulásról szóló törvény alapján
+(5)[^19] E rendelet vonatkozásában, amennyiben a természetes személy a (4) és (4a) bekezdésben foglaltaktól eltérően egészségügyi hozzájárulás fizetésére kötelezett és az egészségügyi hozzájárulást az egészségügyi hozzájárulásról szóló törvény alapján
 
 a) legalább a 4. § (1) bekezdés d) pontjában meghatározott árbevétel után fizette meg, úgy az teljes munkaidőben történő foglalkoztatásnak minősül,
 
 b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg, úgy az elismert élőmunka ráfordítás arányosan csökken.
 
-(6)[^18] A (4), (4a) és (5) bekezdés szerinti közterhek megfizetését pénzügyi bizonylatokkal szükséges igazolni.
+(6)[^20] A (4), (4a) és (5) bekezdés szerinti közterhek megfizetését pénzügyi bizonylatokkal szükséges igazolni.
 
 (7) A (3) bekezdés szerinti esetben, a támogatási jogosultságonként elvárt évenkénti legalább 300 000 forintnál kisebb árbevétel esetében, az elismert tevékenység keretében végzett élő munka ráfordítást arányosan kell figyelembe venni.
 
 (8) Amennyiben a programba bejelentkezett termelő, a szerkezetátalakítási program teljesítésének az egyik feltételét jelentő elismert élőmunka ráfordítást részben vagy egészben munkaerő kölcsönzés igénybevételével kívánja teljesíteni, köteles a munkaerő kölcsönzésről szóló szerződésben foglalt munkavégzés után fizetendő közterhek megfizetését okiratokkal igazolni és az ellenőrzés alkalmával azt bemutatni.
 
-(9)[^19] A termelő az (1) bekezdés d) pontja szerinti árbevétellel kapcsolatos nyilatkozatát saját nevére szóló érvényes pénzforgalmi bizonylatok alapján teheti meg, amelyeket köteles az adózás rendjére vonatkozó szabályoknak megfelelő ideig megőrizni, és az ellenőrzés alkalmával azt bemutatni. Ha a termelő az ellenőrzéskor a teljesítésként vállalt összegről szóló pénzforgalmi bizonylatokat nem tudja bemutatni vagy csak annak egy részéről tudja bemutatni, akkor azt a jogkövetkezmények szempontjából úgy kell tekinteni, hogy a termelő a pénzforgalmi bizonylatokkal igazolandó érintett év vonatkozásában az (1) bekezdés d) pontja szerinti feltételt nem vagy csak részben teljesítette.
+(9)[^21] A termelő az (1) bekezdés d) pontja szerinti árbevétellel kapcsolatos nyilatkozatát saját nevére szóló érvényes pénzforgalmi bizonylatok alapján teheti meg, amelyeket köteles az adózás rendjére vonatkozó szabályoknak megfelelő ideig megőrizni, és az ellenőrzés alkalmával azt bemutatni. Ha a termelő az ellenőrzéskor a teljesítésként vállalt összegről szóló pénzforgalmi bizonylatokat nem tudja bemutatni vagy csak annak egy részéről tudja bemutatni, akkor azt a jogkövetkezmények szempontjából úgy kell tekinteni, hogy a termelő a pénzforgalmi bizonylatokkal igazolandó érintett év vonatkozásában az (1) bekezdés d) pontja szerinti feltételt nem vagy csak részben teljesítette.
 
 (10) Az egyszerűsített foglalkoztatásról szóló törvény alapján megfizetett napi közteher csak azon órák tekintetében vehető figyelembe a rendelet 4. §-a szempontjából, amelyeket ténylegesen teljesítettek és igazoltak.
 
 [^14]: A 4. § a 4/2012. (II. 7.) VM rendelet 3. §-ával megállapított szöveg.
 [^15]: A 4. (1) bekezdés e) pontja a 88/2016. (XII. 29.) FM rendelet 44. § e) pontja szerint módosított szöveg.
-[^16]: A 4. § (4a) bekezdését a 8/2013. (II. 18.) VM rendelet 1. § (1) bekezdése iktatta be.
-[^17]: A 4. § (5) bekezdése a 8/2013. (II. 18.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^18]: A 4. § (6) bekezdése a 8/2013. (II. 18.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^19]: A 4. § (9) bekezdése a 8/2013. (II. 18.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^16]: A 4. § (4) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 18. § b) pontja szerint módosított szöveg.
+[^17]: A 4. § (4) bekezdés a) pontja a 46/2020. (IX. 23.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^18]: A 4. § (4a) bekezdését a 8/2013. (II. 18.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^19]: A 4. § (5) bekezdése a 8/2013. (II. 18.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. § (6) bekezdése a 8/2013. (II. 18.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^21]: A 4. § (9) bekezdése a 8/2013. (II. 18.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.

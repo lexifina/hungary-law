@@ -4,7 +4,7 @@
 
 (3)[^9] Az (1) és (2) bekezdés szerinti nyomtatványon a termelőnek a személyi azonosításához szükséges adatokon túl meg kell jelölnie, hogy hány hektár és milyen típusú várható referenciaterület figyelembevételével, mely településen, milyen elismert tevékenységet kíván folytatni, továbbá nyilatkoznia kell arról, hogy ismeri és vállalja a szerkezetátalakítási programban való részvétel feltételeit.
 
-(4)[^10] Az 1. mellékletben felsorolt gyümölcs ültetvények esetében a referenciaterület megállapításánál figyelembe vehető minimális hektáronkénti tőszámot, valamint az ültetvény életkorát az ültetvény fekvése szerint területileg illetékes megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatala (a továbbiakban: földművelésügyi igazgatóság) igazolja, amelyet az (1) bekezdés szerinti nyilatkozathoz mellékelni kell.
+(4)[^10] Az 1. mellékletben felsorolt gyümölcs ültetvények esetében a referenciaterület megállapításánál figyelembe vehető minimális hektáronkénti tőszámot, valamint az ültetvény életkorát az ültetvény fekvése szerint területileg illetékes földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal (a továbbiakban: földművelésügyi igazgatóság) igazolja, amelyet az (1) bekezdés szerinti nyilatkozathoz mellékelni kell.
 
 (5)[^11] A (4) bekezdésben foglaltaktól eltérően a 2012. évben újonnan belépő zöldség-, gyümölcstermelők vonatkozásában, az 1. mellékletben felsorolt fajtájú gyümölcs ültetvények esetében a referenciaterület megállapításánál figyelembe vehető minimális hektáronkénti tőszámot, valamint az ültetvény életkorát a földművelésügyi igazgatóság a Mezőgazdasági Parcellaazonosító Rendszerben tárolt adatok, vagy ennek hiányában a kérelem beérkezését követően megtartott helyszíni szemle alapján a 2009. december 31-én fennállt állapotnak megfelelően igazolja, amelyet a (2) bekezdés szerinti nyilatkozathoz mellékelni kell.
 
@@ -18,7 +18,7 @@
 [^7]: A 3. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 44. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (2) bekezdése az 59/2012. (VI. 28.) VM rendelet 2. § (1) bekezdésével megállapított, a 45/2014. (IV. 18.) VM rendelet 3. §-a szerint módosított szöveg.
 [^9]: [A 70/2013. (VII. 31.) VM rendelet 123. §-ával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH)” szövegrész helyébe a „megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság)” szöveg, valamint az „az MgSzH” szövegrész helyébe az „a földművelésügyi igazgatóság” szöveg lép, nem vezethető át.]
-[^10]: A 3. § (4) bekezdése az 59/2012. (VI. 28.) VM rendelet 4. § (1) bekezdése, a 35/2018. (XII. 6.) AM rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdése az 59/2012. (VI. 28.) VM rendelet 4. § (1) bekezdése, a 35/2018. (XII. 6.) AM rendelet 14. § (1) bekezdése, a 46/2020. (IX. 23.) AM rendelet 18. § a) pontja szerint módosított szöveg.
 [^11]: A 3. § (5) bekezdése az 59/2012. (VI. 28.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^12]: A 3. § (6) bekezdése az 59/2012. (VI. 28.) VM rendelet 4. § (2) bekezdése, a 88/2016. (XII. 29.) FM rendelet 44. § c) pontja szerint módosított szöveg.
 [^13]: A 3. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 44. § d) pontja szerint módosított szöveg.
