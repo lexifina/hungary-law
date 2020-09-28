@@ -16,8 +16,10 @@
 
 (8) Mélyhűtött embriók is tárolhatók az üzemeltetéshez szükséges feltételekkel rendelkező, bejelentett spermatároló központokban, amennyiben
 
-a) a tárolást a megyei kormányhivatal megyeszékhely szerinti járási hivatalának (a továbbiakban: megyeszékhely szerinti járási hivatal) bejelentették,
+a)[^1] a tárolást a fővárosi és megyei kormányhivatalnak bejelentették,
 
 b) az embriók megfelelnek az állatfajok embrióinak az Európai Unión belüli kereskedelmére és harmadik országokból történő behozatalára vonatkozó előírásoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai követelményeinek, valamint
 
 c) az embriókat elkülönített tároló edényekben helyezik el az engedélyezett sperma tárolására szolgáló helyiségekben.
+
+[^1]: A 27. § (8) bekezdés a) pontja a 46/2020. (IX. 23.) AM rendelet 39. § a) pontja szerint módosított szöveg.

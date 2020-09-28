@@ -1,4 +1,4 @@
-16. melléklet a 45/2019. (IX. 25.) AM rendelethez[^3]
+16. melléklet a 45/2019. (IX. 25.) AM rendelethez[^4]
 
 ## Védett őshonos és veszélyeztetett mezőgazdasági állatfajták
 
@@ -90,4 +90,4 @@
 
 |  | 3. | Juh: | magyar merinó |
 
-[^3]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 16. melléklet az 1/2020. (II. 6.) AM rendelet 1. §-a szerint módosított szöveg.
