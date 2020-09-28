@@ -18,13 +18,13 @@
 
 (5) A citrusfélék szaporítóanyagának az (1)–(4) bekezdésben foglaltakon túl az alábbi követelményeknek kell megfelelnie:
 
-a)[^9] a szaporítóanyagnak olyan anyanövényről kell származnia, amelyet előzőleg a növénytermesztési hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal ellenőrzött és vírusoktól, vírusszerű szervezetektől, illetve betegségektől mentesnek talált,
+a)[^9] a szaporítóanyagnak olyan anyanövényről kell származnia, amelyet előzőleg a növénytermesztési hatáskörben eljáró megyei kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal ellenőrzött és vírusoktól, vírusszerű szervezetektől, illetve betegségektől mentesnek talált,
 
-b)[^10] a szaporítóanyagot a növénytermesztési hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal ellenőrizte és vírusoktól, vírusszerű szervezetektől, valamint betegségektől mentesnek találta az utolsó vegetációs ciklus kezdetétől, valamint
+b)[^10] a szaporítóanyagot a növénytermesztési hatáskörben eljáró megyei kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal ellenőrizte és vírusoktól, vírusszerű szervezetektől, valamint betegségektől mentesnek találta az utolsó vegetációs ciklus kezdetétől, valamint
 
 c) oltás esetén vírusokra nem fogékony alanyt használtak.
 
-(6)[^11] A hagymás dísznövények szaporítóanyagának – az (1)–(3) bekezdésben foglaltakon túl – közvetlenül olyan növényállományról kell származnia, amelyet a tenyészidőszak folyamán a növénytermesztési hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal megvizsgált, és kártevőktől, kórokozóktól, valamint a károsítás bármilyen jelétől vagy tünetétől mentesnek talált.
+(6)[^11] A hagymás dísznövények szaporítóanyagának – az (1)–(3) bekezdésben foglaltakon túl – közvetlenül olyan növényállományról kell származnia, amelyet a tenyészidőszak folyamán a növénytermesztési hatáskörben eljáró megyei kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal megvizsgált, és kártevőktől, kórokozóktól, valamint a károsítás bármilyen jelétől vagy tünetétől mentesnek talált.
 
 (7)[^12]
 
@@ -32,7 +32,7 @@ c) oltás esetén vírusokra nem fogékony alanyt használtak.
 [^6]: A 4. § (1a) bekezdését a 35/2020. (VI. 29.) AM rendelet 12. §-a iktatta be.
 [^7]: A 4. § (1b) bekezdését a 35/2020. (VI. 29.) AM rendelet 12. §-a iktatta be.
 [^8]: A 4. § (1c) bekezdését a 35/2020. (VI. 29.) AM rendelet 12. §-a iktatta be.
-[^9]: A 4. § (5) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja szerint módosított szöveg.
-[^10]: A 4. § (5) bekezdés b) pontja a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja szerint módosított szöveg.
-[^11]: A 4. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja szerint módosított szöveg.
+[^9]: A 4. § (5) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (5) bekezdés b) pontja a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 12. § b) pontja szerint módosított szöveg.
 [^12]: A 4. § (7) bekezdését a 24/2018. (VIII. 31.) AM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 35/2020. (VI. 29.) AM rendelet 15. § a) pontja.
