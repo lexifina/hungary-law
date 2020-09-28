@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-9-20-11
 | 2017-03-07 | 2017-9-20-11.1 | 9/2017. (III. 6.) FM rendelet |
 | 2017-03-08 | 2017-9-20-11.2 | 2010: CXXX. törvény |
 | 2017-04-01 | 2017-9-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2020-09-28 | 2017-9-20-11.4 | 46/2020. (IX. 23.) AM rendelet |
