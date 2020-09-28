@@ -1,5 +1,9 @@
-## 30. §[^30]
+## lép.
 
 ## 31. A termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet módosítása
 
-[^30]: A 30. § a 43. § (2) bekezdése alapján 2020. szeptember 28-án lép hatályba.
+## 31. § A termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet
+
+a) 7. § (1) bekezdésében a „földművelésügyi igazgatási jogkörében eljáró megyeszékhely szerinti járási hivatal (a továbbiakban: járási hivatal)” szövegrész helyébe a „földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal” szöveg,
+
+b) 7. § (1) bekezdésében a „járási hivatal” szövegrészek helyébe a „megyei kormányhivatal” szöveg

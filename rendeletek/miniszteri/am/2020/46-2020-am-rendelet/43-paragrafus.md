@@ -1,4 +1,4 @@
-## 42. §[^42]
+## 42. §[^2]
 
 ## 43. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–39. § és a 41. § a kihirdetését követő ötödik napon lép hatályba.
 
-[^42]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

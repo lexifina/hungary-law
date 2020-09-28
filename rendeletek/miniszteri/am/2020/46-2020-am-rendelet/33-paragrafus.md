@@ -1,5 +1,11 @@
-## 32. §[^32]
+## lép.
 
 ## 33. A hegybíró, a hegyközségi tanács titkára és a Hegyközségek Nemzeti Tanácsának főtitkára tevékenységének ellenőrzési szabályairól szóló 1/2016. (I. 7.) FM rendelet módosítása
 
-[^32]: A 32. § a 43. § (2) bekezdése alapján 2020. szeptember 28-án lép hatályba.
+## 33. § A hegybíró, a hegyközségi tanács titkára és a Hegyközségek Nemzeti Tanácsának főtitkára tevékenységének ellenőrzési szabályairól szóló 1/2016. (I. 7.) FM rendelet
+
+a) 1. § (1) bekezdésében a „66/2015. (III. 30.) Korm. rendelet 7. § (1) bekezdése” szövegrész helyébe a „86/2019. (IV. 23.) Korm. rendelet 6. § (7) bekezdése” szöveg,
+
+b) 1. § (2) bekezdésében a „megyeszékhely szerinti járási hivatal (a továbbiakban: járási hivatal)” szövegrész helyébe a „megyei kormányhivatal (a továbbiakban: megyei kormányhivatal)” szöveg,
+
+c) 4. §-ában a „járási hivatal” szövegrész helyébe a „megyei kormányhivatal” szöveg
