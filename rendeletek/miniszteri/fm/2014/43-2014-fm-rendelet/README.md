@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-43-20-1
 | 2017-01-01 | 2014-43-20-11.6 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-08-18 | 2014-43-20-11.7 | 42/2017. (VIII. 17.) FM rendelet |
 | 2017-12-30 | 2014-43-20-11.8 | 69/2017. (XII. 27.) FM rendelet |
+| 2020-09-28 | 2014-43-20-11.9 | 46/2020. (IX. 23.) AM rendelet |
