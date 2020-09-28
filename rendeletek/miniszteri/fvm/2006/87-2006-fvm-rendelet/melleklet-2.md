@@ -4,7 +4,7 @@
 
 I. Általános feltételek
 
-1.[^70] A szaporítóanyagnak igazolt származásúnak kell lennie, a NÉBIH és a növény- és talajvédelmi hatáskörben eljáró járási hivatal, illetve valamely tagállam illetékes hatósága által szaporítás céljára elfogadott állományból származzon.
+1.[^70] A szaporítóanyagnak igazolt származásúnak kell lennie, a NÉBIH és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal, illetve valamely tagállam illetékes hatósága által szaporítás céljára elfogadott állományból származzon.
 
 2. A szaporítóanyagnak fajtaazonosnak és fajtatisztának, és szükség esetén klóntisztának kell lennie, standard szaporítóanyag forgalmazásakor 1%-os fajtakeveredés megengedett.
 
@@ -128,5 +128,5 @@ B) Nyugalmi állapotban levő ültetési anyagoknak meg kell felelniük a III. p
 
 Az in vitro szaporítás során előállított szaporítóanyagoknak – a vessző átmérője kivételével – az in vivo (hagyományos) továbbnevelés után meg kell felelniük a III. pont 2–4. alpontban előírt követelményeknek.
 
-[^70]: A 2. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja szerint módosított szöveg. [A 2. számú melléklet I. pont 1. alpontjában a 42/2017. (VIII. 17.) FM rendelet 89. § 22. pontjával elrendelt módosítás, amely szerint a „növény és talajvédelmi igazgatóság” szövegrész helyébe a „növénytermesztési hatáskörben eljáró járási hivatal” szöveg lép, nem vezethető át.]
+[^70]: A 2. számú melléklet I. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 59. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
 [^71]: A 2. számú melléklet I. pont 5. alpontja a 35/2020. (VI. 29.) AM rendelet 11. § (2) bekezdésével megállapított szöveg.

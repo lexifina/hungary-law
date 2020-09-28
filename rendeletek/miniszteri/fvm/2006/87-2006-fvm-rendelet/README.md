@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-87-20-8
 | 2014-03-15 | 2006-87-20-82.6 | 22/2014. (III. 14.) VM rendelet |
 | 2017-08-18 | 2006-87-20-82.7 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-07-04 | 2006-87-20-82.8 | 35/2020. (VI. 29.) AM rendelet |
+| 2020-09-28 | 2006-87-20-82.9 | 42/2017. (VIII. 17.) FM rendelet |
