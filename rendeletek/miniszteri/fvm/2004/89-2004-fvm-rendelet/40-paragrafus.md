@@ -2,6 +2,6 @@
 
 40. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^160]
+(2)[^162]
 
-[^160]: A 40. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 224. pontja hatályon kívül helyezte.
+[^162]: A 40. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 224. pontja hatályon kívül helyezte.
