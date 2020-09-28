@@ -22,7 +22,7 @@ c) díjtámogatott mezőgazdasági biztosítást értékesítő biztosító (a t
 
 d) Budapest Főváros Kormányhivatalának Földmérési, Távérzékelési és Földhivatali Főosztálya (a továbbiakban: FTFF),
 
-e) a megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatala (a továbbiakban: agrárkár-megállapító szerv),
+e)[^2] földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal (a továbbiakban: agrárkár-megállapító szerv),
 
 f) Magyar Államkincstár (a továbbiakban: agrárkárenyhítési szerv),
 
@@ -37,3 +37,4 @@ i) Országos Vízügyi Főigazgatóság (a továbbiakban: OVF).
 (4) A 2. §-ban foglalt adatoknak a kockázatkezelési adatbázisba elektronikus úton történő feltöltése az agrárkárenyhítési szerv és a (2) bekezdésben felsorolt szervezetek közötti együttműködési megállapodás alapján történik.
 
 [^1]: Az 1. § (2) bekezdés a) pontja a 17/2019. (V. 10.) AM rendelet 7. § a) pontjával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés e) pontja a 46/2020. (IX. 23.) AM rendelet 36. §-ával megállapított szöveg.
