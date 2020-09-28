@@ -1,86 +1,46 @@
 ## Vizsgálati igénybejelentő nyomtatvány mintája
 
-## IGÉNYBEJELENTÉS
+| ……………. Megyei Kormányhivatal ………………. | Oldal: ............. |
 
-## zöldség-gyümölcs vizsgálatára a 82/2004. (V. 11.) FVM rendelet 7. §-ában foglalt vizsgálati alapok szerint
+## SZEMLEMEGRENDELŐ
 
-## 1. A vizsgálatot igénylő (bejelentő):
+## a dughagyma és fokhagyma szerződéses termeltetéséhez
 
-## Neve:
+## ................. év
 
-## Címe:
+| Engedélyes üzem neve és címe: | Engedélyszáma: |
 
-## Tel. / fax. / e-mail:
+| Dátum: |
 
-## 2. Címzett:
+## Bejelentem, hogy az alábbi üzemek dughagyma/fokhagyma termesztést/tárolást/kezelést/kiszerelést végeznek számomra a pótlapok szerinti növényekből és mennyiségben. A csatolt pótlapok száma: .................... db.
 
-## Neve: Járási Hivatal
+## Kérem, hogy a szaporítóanyagok éves szemléjét elvégezni szíveskedjenek.
 
-## Címe:
+| Sorszám | Szeződéses üzem | Tevékenységbe vont területek* | Szerződéskötés éve |
 
-## 3. Bejelentés tárgya:
+| neve | címe | tevékenység | helység és hrsz. | nagyság (m2) |
 
-## a) friss fogyasztásra szánt zöldség-gyümölcs:
+## –––––––––––––
 
-|  | 1. az Európai Unión belüli forgalom keretében: | ◻ (ki)szállításra | ◻ (be)szállításra |
+## * Kizárólag a NÉBIH zöldségpalánta termesztők és nagykereskedők nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat szerződéses üzemenként kell kiállítani.
 
-|  | 2. harmadik országokkal folytatott kereskedelemben: | ◻ exportra | ◻ importra |
+## PÓTLAP*
 
-## b) eredeti célja szerint is ipari célra szánt:
+## a szerződéses termeltetés keretében előállított dughagyma és fokhagyma szemlemegrendelőjéhez
 
-|  | 1. harmadik országokkal folytatott kereskedelemben: | ◻ exportra | ◻ importra kerülő |
+## .................. év
 
-|  | Göngyöleg (darabszám és típus) vagy ömlesztve | A termék megnevezése (fajta, ha az előírás tartalmazza) | Jelölt minőségi osztály, vagy ipari feldolgozásra szánt termék | Teljes tömeg kg-ban (bruttó/nettó) |
+| Engedélyes üzem neve és címe: ................................................ ................................................................................................................. | Engedélyszáma: .................................................................. |
 
-## szállítmány.
+| Szerződéses üzem neve és címe: ...................................................................................................... ................................................................................................................. Szerződésben szereplő tevékenység: ................................................................................................................ | Dátum: .................................................................. |
 
-## 4. Szállítóeszköz (típusa, rendszáma):
+| Szaporítóanyag megnevezése (magyar név, fajta) | Mennyisége (kg) | Ellenőrző felügyelő megjegyzése |
 
-## 5. Az áru azonosítására vonatkozó kísérő okmány, száma:
+## * A NÉBIH zöldségpalánta termesztők és nagykereskedők nyilvántartásában szereplő engedélyes üzem tölti ki, kivéve az ellenőrzéshez kapcsolódó rovatokat.
 
-## 6. Árufeladó/importőr
+## Szaporítóanyag szemle időpontja: .................................... Ellenőrző felügyelő neve: ...........................................
 
-## Neve:
-
-## Címe:
-
-## 7. Származási ország (árubeszerzés helye/ország):
-
-## 8. Rendeltetési ország:
-
-## 9. A kért vizsgálat (árufeladás/érkezés) időpontja (nap, várható óra):
-
-## 10. A kért vizsgálat helye:
-
-## 11. A vizsgálat iránti igényt az ellenőrnek telefonon is jeleztem:
-
-## Tudomásul veszem, hogy a vizsgálat díját a 82/2004. (V. 11.) FVM rendelet 9. §-a alapján a vizsgálatot igénylő (bejelentő) viseli.
-
-## Kelt. ........................ év ............ hónap ......... nap
-
-## P. H.
-
-## ..............................................................................
-
-## a vizsgálatot igénylő (bejelentő) aláírása
-
-## Az ellenőr megállapítása:
-
-## ◻ kötelező vizsgálat
-
-## ◻ az előírt ellenőrzöttségi arány által megkövetelt vizsgálat
-
-## ◻ az előírt ellenőrzöttségi arány miatt nem szükséges a vizsgálat
-
-## Kelt: ............................ év ...................................... hó ............... nap
-
-## P. H.
-
-## ............................................
-
-## az ellenőr aláírása
-
-4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^30]
+4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^31]
 
 ## AZ ENSZ/EGB FFV-37 SZÁMÚ, A GÖRÖGDINNYÉRE VONATKOZÓ FORGALMAZÁSI-MINŐSÉG ELŐÍRÁSA
 
@@ -264,4 +224,4 @@ ________________
 
 4 A teljes nevet fel kell tűntetni.
 
-[^30]: A 4. számú mellékletet a 64/2011. (VII. 11.) VM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján – a 2011. július 14-én a végső fogyasztó számára már forgalmazásra kerülő termékek kivételével – a már forgalomba hozott termékekre is alkalmazni kell.
+[^31]: A 4. számú mellékletet a 64/2011. (VII. 11.) VM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján – a 2011. július 14-én a végső fogyasztó számára már forgalmazásra kerülő termékek kivételével – a már forgalomba hozott termékekre is alkalmazni kell.
