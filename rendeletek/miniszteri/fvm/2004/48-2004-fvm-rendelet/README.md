@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-48-20-8
 | 2019-01-01 | 2004-48-20-82.27 | 44/2018. (XII. 20.) AM rendelet |
 | 2019-06-03 | 2004-48-20-82.28 | 24/2019. (V. 31.) AM rendelet |
 | 2020-07-04 | 2004-48-20-82.29 | 16/2011. (III. 2.) VM rendelet |
+| 2020-09-28 | 2004-48-20-82.30 | 67/2012. (VII. 10.) VM rendelet |

@@ -1,4 +1,4 @@
-## Átruházott jogkörben végzett mintavétel[^119]
+## Átruházott jogkörben végzett mintavétel[^120]
 
 41/A. § (1) Az 1. és 3–4. számú melléklet A. és D. részeiben és a 2. számú melléklet A. részében felsorolt növényfajok vetőmagján – az 1. és 3–4. számú melléklet C. és D. részeiben és a 2. számú melléklet C. részében foglalt követelményekre kiterjedő – fajtakitermesztés és vetőmagvizsgálat céljából, a (2)–(11) bekezdés előírásainak megfelelően átruházott jogkörben végzett mintavétel joghatásában azonos a növénytermesztési hatáskörben eljáró hatóság által végzett mintavétellel.
 
@@ -24,7 +24,7 @@ c) a mintavételi ismeretekre vonatkozó sikeres gyakorlati és elméleti vizsg�
 
 (6) A mintavételt a NÉBIH engedélyében és a Mintavételi Szabályzatban foglaltak alapján kell végezni. Az engedélyben a NÉBIH – a Mintavételi Szabályzatban foglalt esetben és ott meghatározott éves mintaszám felett – automata mintavevő eszköz kötelező használatát írja elő.
 
-(7) Az átruházott jogkörben végzett mintavételt a NÉBIH vagy a járási hivatal felügyelete mellett kell végezni. A megbízott mintavevő által mintázott vetőmagtételek legalább 15%-át ellenőrző hatósági mintavételben és hatósági vetőmagvizsgálatban kell részesíteni.
+(7)[^121] Az átruházott jogkörben végzett mintavételt a NÉBIH vagy a megyei kormányhivatal felügyelete mellett kell végezni. A megbízott mintavevő által mintázott vetőmagtételek legalább 15%-át ellenőrző hatósági mintavételben és hatósági vetőmagvizsgálatban kell részesíteni.
 
 (8) A megbízott mintavevő engedélyét vissza kell vonni, ha
 
@@ -44,4 +44,5 @@ c) soron kívüli mintavételi képzésen való részvételt kell elrendelni.
 
 (11) A NÉBIH köteles az (5) bekezdés c) pontja szerinti vizsgához szükséges képzést, valamint a (10) bekezdés szerinti továbbképzést megszervezni.
 
-[^119]: Az „Átruházott jogkörben végzett mintavétel” alcímet (41/A. §) a 24/2019. (V. 31.) AM rendelet 3. §-a iktatta be.
+[^120]: Az „Átruházott jogkörben végzett mintavétel” alcímet (41/A. §) a 24/2019. (V. 31.) AM rendelet 3. §-a iktatta be.
+[^121]: A 41/A. § (7) bekezdése a 46/2020. (IX. 23.) AM rendelet 2. § b) pontja szerint módosított szöveg.

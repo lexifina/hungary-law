@@ -1,4 +1,4 @@
-44. § (1)[^127] Magyarországon hivatalos címkével forgalomba hozott szuperelit szaporítási fokú vetőmagtétel címkéjének tartalmazni kell
+44. § (1)[^129] Magyarországon hivatalos címkével forgalomba hozott szuperelit szaporítási fokú vetőmagtétel címkéjének tartalmazni kell
 
 a) az illetékes minősítő hatóság és tagállam megnevezését, vagy ennek rövidítését,
 
@@ -12,7 +12,7 @@ e) a fajta latin betűkkel való megnevezését,
 
 f) szaporítási fokként a ,,Szuperelit'' feliratot.
 
-(2)[^128] Magyarországon forgalomba hozott elit és alacsonyabb szaporítási fokú vetőmagtétel címkéjének tartalmaznia kell
+(2)[^130] Magyarországon forgalomba hozott elit és alacsonyabb szaporítási fokú vetőmagtétel címkéjének tartalmaznia kell
 
 a) ,,Az Európai Unió előírásainak megfelel'' feliratot,
 
@@ -42,9 +42,9 @@ m) monogerm répavetőmag esetén a ,,Monogerm'' feliratot,
 
 n) precíziós répavetőmag esetén a ,,Precíziós'' feliratot,
 
-o)[^129] a címke hatósági sorszámát.
+o)[^131] a címke hatósági sorszámát.
 
-(3)[^130] Magyarországon forgalomba hozott kereskedelmi vetőmagtétel címkéjének tartalmaznia kell
+(3)[^132] Magyarországon forgalomba hozott kereskedelmi vetőmagtétel címkéjének tartalmaznia kell
 
 a) ,,Az Európai Unió előírásainak megfelel'' feliratot,
 
@@ -64,10 +64,10 @@ h) a tömeg feltüntetése esetén, amennyiben szemcsés növényvédő szer, in
 
 i) amennyiben elvégezték legalább a vetőmagtétel csírázóképességének újbóli vizsgálatát, abban az esetben ezt a tényt a címkén is lehet jelölni; a jelölés ,,Ismételten ellenőrizve .... (év, hónap)'' felirattal történik, amely öntapadós hatósági matrica felragasztásával is végrehajtható,
 
-j)[^131] a címke hatósági sorszámát.
+j)[^133] a címke hatósági sorszámát.
 
-[^127]: A 44. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
-[^128]: A 44. § (2) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
-[^129]: A 44. § (2) bekezdés o) pontját a 47/2016. (VII. 15.) FM rendelet 2. § (1) bekezdése iktatta be.
-[^130]: A 44. § (3) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
-[^131]: A 44. § (3) bekezdés j) pontját a 47/2016. (VII. 15.) FM rendelet 2. § (2) bekezdése iktatta be.
+[^129]: A 44. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
+[^130]: A 44. § (2) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
+[^131]: A 44. § (2) bekezdés o) pontját a 47/2016. (VII. 15.) FM rendelet 2. § (1) bekezdése iktatta be.
+[^132]: A 44. § (3) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 9. § c) pontja szerint módosított szöveg.
+[^133]: A 44. § (3) bekezdés j) pontját a 47/2016. (VII. 15.) FM rendelet 2. § (2) bekezdése iktatta be.

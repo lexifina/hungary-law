@@ -1,6 +1,6 @@
 ## Bejelentés szántóföldi ellenőrzésre
 
-14. § (1)[^48] A vetőmag-előállítónak a vetőmag-szaporítást vetőmag-minősítés céljából
+14. § (1)[^49] A vetőmag-előállítónak a vetőmag-szaporítást vetőmag-minősítés céljából
 
 a) az őszi vetésű növények és őszi telepítésű évelő növények esetében a vetést, telepítést követő év február 28-ig,
 
@@ -10,15 +10,15 @@ c) a dugványozással vagy palántázással szaporított növények, a tavaszi t
 
 d) a másodvetésű vetőmagok előállítása esetében július 30-ig
 
-## be kell jelentenie szuperelit szaporítási fok esetében a NÉBIH-nek, egyéb esetben a járási hivatalnak az általuk rendszeresített és honlapjukon közzétett nyomtatványon.
+## be kell jelentenie szuperelit szaporítási fok esetében a NÉBIH-nek, egyéb esetben a megyei kormányhivatalnak az általuk rendszeresített és honlapjukon közzétett nyomtatványon.
 
-(2)[^49]
+(2)[^50]
 
-(3)[^50] A NÉBIH, illetve a járási hivatal a bejelentést követő 30 napon belül értesíti a vetőmag-előállítót, ha valamilyen okból a vetésbejelentést nem fogadja el.
+(3)[^51] A NÉBIH, illetve a megyei kormányhivatal a bejelentést követő 30 napon belül értesíti a vetőmag-előállítót, ha valamilyen okból a vetésbejelentést nem fogadja el.
 
-(4)[^51] A vetőmag-előállító a bejelentett adatokban történt bármely változásról köteles nyolc napon belül írásban tájékoztatni a NÉBIH-et, illetve a járási hivatalt.
+(4)[^52] A vetőmag-előállító a bejelentett adatokban történt bármely változásról köteles nyolc napon belül írásban tájékoztatni a NÉBIH-et, illetve a megyei kormányhivatalt.
 
-[^48]: A 14. § (1) bekezdése a 4/2018. (VI. 22.) AM rendelet 1. §-ával megállapított szöveg.
-[^49]: A 14. § (2) bekezdését a 4/2018. (VI. 22.) AM rendelet 5. § a) pontja hatályon kívül helyezte.
-[^50]: A 14. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (4) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 61. § d) pontja, a 4/2018. (VI. 22.) AM rendelet 5. § b) pontja szerint módosított szöveg.
-[^51]: A 14. § (4) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 61. § e) pontja szerint módosított szöveg.
+[^49]: A 14. § (1) bekezdése a 4/2018. (VI. 22.) AM rendelet 1. §-ával megállapított, záró szövegrésze a 46/2020. (IX. 23.) AM rendelet 2. § c) pontja szerint módosított szöveg.
+[^50]: A 14. § (2) bekezdését a 4/2018. (VI. 22.) AM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^51]: A 14. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (4) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 61. § d) pontja, a 4/2018. (VI. 22.) AM rendelet 5. § b) pontja, a 46/2020. (IX. 23.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^52]: A 14. § (4) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 61. § e) pontja, a 46/2020. (IX. 23.) AM rendelet 2. § d) pontja szerint módosított szöveg.

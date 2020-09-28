@@ -1,4 +1,4 @@
-## Átruházott jogkörben végzett vetőmagvizsgálat[^120]
+## Átruházott jogkörben végzett vetőmagvizsgálat[^122]
 
 41/B. § (1) Az 1. és 3–4. számú melléklet A. és D. részeiben és a 2. számú melléklet A. részében felsorolt növényfajok vetőmagjának – az 1. és 3–4. számú melléklet C. és D. részeiben és a 2. számú melléklet C. részében foglalt követelményekre kiterjedő – a (2)–(10) bekezdés előírásainak megfelelő átruházott jogkörben végzett vetőmagvizsgálata joghatásában azonos a növénytermesztési hatáskörben eljáró hatóság által végzett vetőmagvizsgálattal.
 
@@ -38,4 +38,4 @@ a) a laboratórium a magvizsgálat során három vagy több esetben megsérti a 
 
 b) a laboratórium akkreditált státusza lejár, vagy visszavonják.
 
-[^120]: Az „Átruházott jogkörben végzett vetőmagvizsgálat” alcímet (41/B. §) a 24/2019. (V. 31.) AM rendelet 3. §-a iktatta be.
+[^122]: Az „Átruházott jogkörben végzett vetőmagvizsgálat” alcímet (41/B. §) a 24/2019. (V. 31.) AM rendelet 3. §-a iktatta be.

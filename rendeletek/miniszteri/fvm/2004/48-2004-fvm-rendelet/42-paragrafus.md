@@ -1,6 +1,6 @@
 ## A vetőmagtételek lezárása
 
-42. § (1)[^121] A fémzárolásra előterjesztett és a forgalomba hozott vetőmagtételek valamennyi csomagolási egységének meg kell felelnie a NÉBIH fémzárolási szabályzatában foglaltaknak. A csomagolási egységeknek a forgalomba hozatal céljának megfelelő okmányokkal, címkékkel kell rendelkezniük.
+42. § (1)[^123] A fémzárolásra előterjesztett és a forgalomba hozott vetőmagtételek valamennyi csomagolási egységének meg kell felelnie a NÉBIH fémzárolási szabályzatában foglaltaknak. A csomagolási egységeknek a forgalomba hozatal céljának megfelelő okmányokkal, címkékkel kell rendelkezniük.
 
 (2) A fémzárolásra előterjesztett és a forgalomba hozott vetőmagtételek csomagolási egységeinek zárását úgy kell biztosítani, hogy a vetőmag a csomagoló anyag látható sérülése nélkül ne legyen hozzáférhető. Ilyen zárást biztosít
 
@@ -10,7 +10,7 @@ b) az önzáró szelepes zsák, ha a szelep nem nagyobb mint a zsák szélesség
 
 c) az átkötött zsák szúrókötésessel felhelyezett zárral és címkével,
 
-d)[^122] bármely nyitásra sérülő kötés címkével és fémzárral lezárva,
+d)[^124] bármely nyitásra sérülő kötés címkével és fémzárral lezárva,
 
 e) a zárszalag,
 
@@ -28,7 +28,7 @@ k) a nem szövött anyagból készült zsák eredeti nagyságának megőrzését
 
 (3) A fémzárolt vetőmagtételeket hatóságilag vagy hatósági felügyelet mellett kell lezárni. A hatóságilag zárt vetőmagtételek csomagolási egységei csak hatóságilag vagy hatósági felügyelet mellett zárhatók újra.
 
-(4)[^123] Hazai előállítású, hivatalos szántóföldi ellenőrzésben részesített, az 1–4. számú mellékletek B. részeiben, valamint az 5. számú melléklet A. és B. részeiben foglalt követelményeknek megfelelő vetőmag-szaporítás termése tömeghatár nélkül – a (2) bekezdésben részletezett zárási módok alkalmazásával – nem véglegesen minősített vetőmagként zárható. A zárt tétel jelölésére a 45. § szerinti szürke színű címke használható. A nem véglegesen minősített vetőmag – a fajta igazolása céljából – hivatalos fajtaigazolást kap.
+(4)[^125] Hazai előállítású, hivatalos szántóföldi ellenőrzésben részesített, az 1–4. számú mellékletek B. részeiben, valamint az 5. számú melléklet A. és B. részeiben foglalt követelményeknek megfelelő vetőmag-szaporítás termése tömeghatár nélkül – a (2) bekezdésben részletezett zárási módok alkalmazásával – nem véglegesen minősített vetőmagként zárható. A zárt tétel jelölésére a 45. § szerinti szürke színű címke használható. A nem véglegesen minősített vetőmag – a fajta igazolása céljából – hivatalos fajtaigazolást kap.
 
 (5) A hivatalos fajtaigazolás
 
@@ -50,11 +50,11 @@ h) a betakarított vetőmag mennyiségét és a csomagolási egységek számát,
 
 i) elitnél alacsonyabb szaporítási fokon az engedélyezett generációk számát,
 
-j)[^124] annak tanúsítását, hogy teljesültek az 1–4. számú mellékletek B. részeiben, valamint az 5. számú mellékletben foglalt követelmények,
+j)[^126] annak tanúsítását, hogy teljesültek az 1–4. számú mellékletek B. részeiben, valamint az 5. számú mellékletben foglalt követelmények,
 
 k) a ,,Nem véglegesen minősített vetőmag'' feliratot
 
-[^121]: A 42. § (1) bekezdése a 16/2011. (III. 2.) VM rendelet 32. § l) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^122]: A 42. § (2) bekezdés d) pontja a 16/2011. (III. 2.) VM rendelet 32. § m) pontja szerint módosított szöveg.
-[^123]: A 42. § (4) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § p) pontja szerint módosított szöveg.
-[^124]: A 42. § (5) bekezdés j) pontja a 24/2016. (IV. 8.) FM rendelet 24. § q) pontja szerint módosított szöveg.
+[^123]: A 42. § (1) bekezdése a 16/2011. (III. 2.) VM rendelet 32. § l) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^124]: A 42. § (2) bekezdés d) pontja a 16/2011. (III. 2.) VM rendelet 32. § m) pontja szerint módosított szöveg.
+[^125]: A 42. § (4) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § p) pontja szerint módosított szöveg.
+[^126]: A 42. § (5) bekezdés j) pontja a 24/2016. (IV. 8.) FM rendelet 24. § q) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 2. §[^6] A szántóföldi vetőmagvak előállításával és forgalomba hozatalával kapcsolatos ellenőrzési feladatokat elsőfokú – OECD rendszerben kijelölt – hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a növénytermesztési hatáskörben eljáró járási hivatal (a továbbiakban: járási hivatal) látja el. A NÉBIH ezen tevékenységéről közhitelű nyilvántartást vezet.
+## 2. §[^6] A szántóföldi vetőmagvak előállításával és forgalomba hozatalával kapcsolatos ellenőrzési feladatokat elsőfokú – OECD rendszerben kijelölt – hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a növénytermesztési hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) látja el. A NÉBIH ezen tevékenységéről közhitelű nyilvántartást vezet.
 
 ## Értelmező rendelkezések
 
@@ -154,7 +154,7 @@
 
 66.[^21] vetőmagtermesztő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely a szántóföldön a növényfajta vetőmagjának szaporítását végzi.
 
-[^6]: A 2. § a 67/2012. (VII. 10.) VM rendelet 6. § (1) és (3) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 61. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § a 67/2012. (VII. 10.) VM rendelet 6. § (1) és (3) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 61. § a) pontja, a 46/2020. (IX. 23.) AM rendelet 2. § a) pontja szerint módosított szöveg.
 [^7]: A 3. § 3a. pontját a 24/2016. (IV. 8.) FM rendelet 12. § (1) bekezdése iktatta be.
 [^8]: A 3. § 8. pontja a 47/2016. (VII. 15.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § 21. pontja a 16/2011. (III. 2.) VM rendelet 32. § c) pontja szerint módosított szöveg.
