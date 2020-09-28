@@ -132,7 +132,7 @@
 
 ## 1.2.1. Kezdeményezés
 
-## 1.2.1.1.[^117] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, a Nyugat-Magyarországi Egyetem, az erdészeti hatáskörben eljáró járási hivatal, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
+## 1.2.1.1.[^117] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, a Nyugat-Magyarországi Egyetem, az erdészeti hatáskörben eljáró megyei kormányhivatal, a Nemzeti Földügyi Központ, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
 
 ## 1.2.1.2.[^118] A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi a NÉBIH részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
 
@@ -142,7 +142,7 @@
 
 ## 1.2.2.1.[^120] A NÉBIH a beérkezett javaslat helyszíni elbírálására bírálóbizottságot kér fel.
 
-## 1.2.2.2.[^121] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, az erdészeti hatáskörben eljáró járási hivatal, valamint a NÉBIH. Védett természeti területen a nemzeti park igazgatóságok is tagot küldhetnek.
+## 1.2.2.2.[^121] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, az erdészeti hatáskörben eljáró megyei kormányhivatal, valamint a NÉBIH. Védett természeti területen a nemzeti park igazgatóságok is tagot küldhetnek.
 
 ## 1.2.2.3. A bírálóbizottság az állományokat helyszíneli, ellenőrzi határait és az üzemtervnek való megfelelést. Mintaterületet jelöl ki, és az egyedek bonitálásával megállapítja a minőségi jellemzőket. Az állomány fenotípusos minősítése a bírálóbizottság feladata.
 
@@ -230,7 +230,7 @@
 
 ## a) az erdő kezelője részére 1 példányban,
 
-## b)[^124] az erdészeti hatáskörben eljáró járási hivatalnak 2 példányban,
+## b)[^124] az erdészeti hatáskörben eljáró megyei kormányhivatalnak és a Nemzeti Földügyi Központnak 1-1 példányban,
 
 ## c)[^125] védett természeti területek esetében vagy egyéb szükséges esetben a nemzeti park igazgatóság részére 1 példányban.
 
@@ -248,7 +248,7 @@
 
 ## d) az állománykezelési teendők meghatározása, különös tekintettel a következő 5 évre.
 
-## 1.3.2.[^127] A magtermelő állományokban előírt erdőgazdálkodási feladatok teljesítésének ellenőrzését az illetékes erdészeti hatáskörben eljáró járási hivatal) végzi szakmai felügyeleti jogkörében.
+## 1.3.2.[^127] A magtermelő állományokban előírt erdőgazdálkodási feladatok teljesítésének ellenőrzését az illetékes erdészeti hatáskörben eljáró megyei kormányhivatal) végzi szakmai felügyeleti jogkörében.
 
 ## 1.4. Állománykezelési irányelvek
 
@@ -266,7 +266,7 @@
 
 ## 1.4.7. A mageredetű vagy egyszer sarjaztatott akácállományok génkészlete egy alkalommal megőrizhető gyökérsarjról való felújítással.
 
-## 1.4.8.[^128] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az erdészeti hatáskörben eljáró járási hivatalnak és a NÉBIH-nek meg kell küldeni.
+## 1.4.8.[^128] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az erdészeti hatáskörben eljáró megyei kormányhivatalnak, a Nemzeti Földügyi Központnak és a NÉBIH-nek meg kell küldeni.
 
 ## 1.5. Az állományok törzsültetvénykénti megszüntetése (törzskönyvből való törlés)
 
@@ -366,7 +366,7 @@
 
 ## 2.5. Ellenőrzési feladatok
 
-## 2.5.1.[^133] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal évente ellenőrzi az ültetvényeket, amelynek főbb szempontjai:
+## 2.5.1.[^133] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal évente ellenőrzi az ültetvényeket, amelynek főbb szempontjai:
 
 ## a) az egészségi állapot megítélése,
 
@@ -388,7 +388,7 @@
 
 ## c) az ültetvény egészségi állapota.
 
-## 2.6.2.[^136] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal kezdeményezheti a továbbszaporításra a 2.6.1. pont alapján alkalmatlanná vált ültetvény törzskönyvből való törlését és felszámolását.
+## 2.6.2.[^136] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal kezdeményezheti a továbbszaporításra a 2.6.1. pont alapján alkalmatlanná vált ültetvény törzskönyvből való törlését és felszámolását.
 
 ## 3. Anyatelepek
 
@@ -442,7 +442,7 @@
 
 ## 3.5. Ellenőrzési feladatok
 
-## 3.5.1.[^140] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal évente a helyszínen ellenőrzi az anyatelep továbbszaporításra alkalmas voltát, a fajtaazonosság, a kultúrállapot, a növényegészségügyi helyzet, valamint a megtermelt szaporítóanyag hozama és életképessége alakulását.
+## 3.5.1.[^140] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal évente a helyszínen ellenőrzi az anyatelep továbbszaporításra alkalmas voltát, a fajtaazonosság, a kultúrállapot, a növényegészségügyi helyzet, valamint a megtermelt szaporítóanyag hozama és életképessége alakulását.
 
 ## 3.5.2.[^141] A NÉBIH időközönként az egyes anyatelepek szaporítóanyaga összehasonlító kitermesztésével ellenőrzi a kibocsátott szaporítóanyag fajtatisztaságát, egyöntetűségét és életerejét.
 
@@ -456,30 +456,30 @@
 
 [^115]: Az 5. számú melléklet 1.1.2.4.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
 [^116]: Az 5. számú melléklet 1.1.2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^117]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja szerint módosított szöveg.
+[^117]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja szerint módosított szöveg.
 [^118]: Az 5. számú melléklet 1.2.1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^119]: Az 5. számú melléklet 1.2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^120]: Az 5. számú melléklet 1.2.2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^121]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja szerint módosított szöveg.
+[^121]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^122]: Az 5. számú melléklet 1.2.4.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^123]: Az 5. számú melléklet 1.2.4.4. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja szerint módosított szöveg.
-[^124]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja szerint módosított szöveg.
+[^124]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés i) pontja szerint módosított szöveg.
 [^125]: Az 5. számú melléklet 1.2.4.4. alpont c) alpontja a 70/2013. (VII. 31.) VM rendelet 30. § r) pontja szerint módosított szöveg.
 [^126]: Az 5. számú melléklet 1.3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^127]: Az 5. számú melléklet 1.3.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 2. pontja szerint módosított szöveg. [Az 5. számú melléklet 1.3.2. pontjában a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontjával elrendelt módosítás, amely szerint az „az illetékes megyei kormányhivatal erdészeti igazgatósága” szövegrész helyébe az „az erdészeti hatáskörben eljáró járási hivatal” szöveg lép, nem vezethető át.]
-[^128]: Az 5. számú melléklet 1.4.8. alpontja 19/2014. (III. 12.) VM rendelet 11. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja szerint módosított szöveg.
+[^127]: Az 5. számú melléklet 1.3.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 2. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^128]: Az 5. számú melléklet 1.4.8. alpontja 19/2014. (III. 12.) VM rendelet 11. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés j) pontja szerint módosított szöveg.
 [^129]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 15/2015. (III. 31.) FM rendelet 9. §-a szerint módosított szöveg. [Az 5. számú melléklet 1.5.3. pontjában a 42/2017. (VIII. 17.) FM rendelet 56. § 21. pontjával elrendelt módosítás, amely szerint a szerint a „természetvédelmi hatóság” szövegrész helyébe a „területi természetvédelmi hatóság” szöveg lép, nem vezethető át.]
 [^130]: Az 5. számú melléklet 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^131]: Az 5. számú melléklet 2.3.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és o) pontja szerint módosított szöveg.
 [^132]: Az 5. számú melléklet 2.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^133]: Az 5. számú melléklet 2.5.1. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^133]: Az 5. számú melléklet 2.5.1. pont nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^134]: Az 5. számú melléklet 2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^135]: Az 5. számú melléklet 2.6.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja, a 19/2014. (III. 12.) VM rendelet 11. § f) pontja szerint módosított szöveg.
-[^136]: Az 5. számú melléklet 2.6.2. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^136]: Az 5. számú melléklet 2.6.2. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^137]: Az 5. számú melléklet 3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) és i) pontja szerint módosított szöveg.
 [^138]: Az 5. számú melléklet 3.3.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^139]: Az 5. számú melléklet 3.3.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^140]: Az 5. számú melléklet 3.5.1. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^140]: Az 5. számú melléklet 3.5.1. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^141]: Az 5. számú melléklet 3.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^142]: Az 5. számú melléklet 3.6.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^143]: Az 5. számú melléklet 3.6.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.

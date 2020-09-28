@@ -16,8 +16,8 @@ b) a szaporítóanyagok előállítását, begyűjtését, nevelését, készlet
 
 c)[^2] azon természetes személyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: szervezetek), amelyek erdészeti szaporítóanyag előállításával, begyűjtésével, nevelésével, készletezésével, forgalomba hozatalával és felhasználásával foglalkoznak,
 
-d)[^3] a szaporítóanyag-minősítő rendszert működtető és ellenőrző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), a növény- és talajvédelmi, továbbá növénytermesztési hatáskörében eljáró járási hivatalra, valamint a növénytermesztési hatáskörében eljáró Pest Megyei Kormányhivatalra (a továbbiakban: Pest Megyei Kormányhivatal).
+d)[^3] a szaporítóanyag-minősítő rendszert működtető, ellenőrző, növénytermesztési hatáskörben eljáró Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalra, a növénytermesztési hatáskörben eljáró megyei kormányhivatalra, továbbá a növénytermesztési hatáskörben eljáró Pest Megyei Kormányhivatalra (a továbbiakban: Pest Megyei Kormányhivatal).
 
 [^1]: Az 1. § (3) bekezdés a) pontja a 28/2019. (VI. 20.) AM rendelet 10. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 18. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés d) pontja a 46/2020. (IX. 23.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.

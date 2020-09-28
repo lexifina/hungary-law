@@ -274,7 +274,7 @@
 
 ## 5.5. A kísérletekről a kísérleti leírással és a kísérlet bejelentő és nyilvántartó lappal egyidejűleg kísérleti naplót kell vezetni. A kísérleti naplóba folyamatosan be kell jegyezni minden lényeges eseményt, tevékenységet, illetve erdőművelési beavatkozást.
 
-## 5.6.[^109] Gondoskodni kell róla, hogy a kísérleteket az Országos Erdőállomány Adattárba is bejegyezzék. Célszerű a részletes kísérleti leírás egy példányát az erdészeti hatáskörben eljáró járási hivatal részére is megküldeni, hogy az abban foglaltakat a körzeti erdőtervezés során figyelembe vehesse.
+## 5.6.[^109] Gondoskodni kell róla, hogy a kísérleteket az Országos Erdőállomány Adattárba is bejegyezzék. Célszerű a részletes kísérleti leírás egy példányát az erdészeti hatáskörben eljáró megyei kormányhivatal és a Nemzeti Földügyi Központ részére is megküldeni, hogy az abban foglaltakat a körzeti erdőtervezés során figyelembe vehesse.
 
 ## 6. A kísérletek kivitelezése
 
@@ -464,7 +464,7 @@
 
 [^107]: A 4. számú melléklet 1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
 [^108]: A 4. számú melléklet 5.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^109]: A 4. melléklet 5.6. alpontja a 42/2017. (VIII. 17.) FM rendelet 55. § (7) bekezdésével megállapított szöveg.
+[^109]: A 4. melléklet 5.6. alpontja a 42/2017. (VIII. 17.) FM rendelet 55. § (7) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés g) pontja szerint módosított szöveg.
 [^110]: A 4. számú melléklet 8.1.3. pontja a 19/2014. (III. 12.) VM rendelet 11. § d) pontja szerint módosított szöveg.
 [^111]: A 4. számú melléklet 8.1.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^112]: A 4. számú melléklet 8.1.7. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
