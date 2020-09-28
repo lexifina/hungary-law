@@ -1,4 +1,4 @@
-1. melléklet a 25/2010. (III. 19.) FVM rendelethez[^8]
+1. melléklet a 25/2010. (III. 19.) FVM rendelethez[^10]
 
 Az üzemengedély tartalma
 
@@ -28,4 +28,4 @@ Az üzemengedély tartalma
 
 2.2. A Hegyközségek Nemzeti Tanácsa által nyilvántartott gazdasági aktaszámot
 
-[^8]: Az 1. mellékletet a 19/2018. (VII. 27.) AM rendelet 10. §-a iktatta be.
+[^10]: Az 1. mellékletet a 19/2018. (VII. 27.) AM rendelet 10. §-a iktatta be.

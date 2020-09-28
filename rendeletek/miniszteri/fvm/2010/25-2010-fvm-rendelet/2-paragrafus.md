@@ -1,6 +1,6 @@
-## 1/A. §[^1] E rendelet alkalmazásában a mobilpalackozó olyan, kizárólag kiszerelést végző borászati üzem, amely a kiszerelés végeztével új állomáshelyre költöztethető.
+## 1/A. §[^2] E rendelet alkalmazásában a mobilpalackozó olyan, kizárólag kiszerelést végző borászati üzem, amely a kiszerelés végeztével új állomáshelyre költöztethető.
 
-2. §[^2] (1) A borászati üzem működési engedélyét (a továbbiakban: engedély) a borászati hatáskörben eljáró járási hivataltól (a továbbiakban: borászati hatóság) kell kérelmezni.
+2. §[^3] (1)[^4] A borászati üzem működési engedélyét (a továbbiakban: engedély) a borászati hatáskörben eljáró megyei kormányhivataltól (a továbbiakban: borászati hatóság) kell kérelmezni.
 
 (2) A borászati hatóság a kérelmet az alábbi tevékenységekre adhatja ki:
 
@@ -56,5 +56,6 @@ bc) dugaszolóval, vagy csavarzáróval.
 
 (6) A mobilpalackozó engedélyezésére vonatkozó kérelem esetén a kérelmezőnek a (4) bekezdés c) pontjának ca)–ch) alpontjában meghatározottakat kell igazolnia.
 
-[^1]: Az 1/A. §-t a 19/2018. (VII. 27.) AM rendelet 6. §-a iktatta be.
-[^2]: A 2. § a 19/2018. (VII. 27.) AM rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1/A. §-t a 19/2018. (VII. 27.) AM rendelet 6. §-a iktatta be.
+[^3]: A 2. § a 19/2018. (VII. 27.) AM rendelet 7. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 17. §-a szerint módosított szöveg.
