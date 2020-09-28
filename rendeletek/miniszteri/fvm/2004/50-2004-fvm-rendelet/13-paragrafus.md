@@ -10,10 +10,10 @@
 
 (5) A szaporítás magtermésének minősítéséhez a standard előállítás felelősének nyilatkoznia kell a tétel fajtaazonosságáról és fajtatisztaságáról.
 
-(6)[^52] Magyarország területén történő forgalmazás esetén a standard szaporítást a járási hivatal fajonkénti bontásban – a vetőmag előállítótól függetlenül – a vetőmag-szaporító táblák legalább 15%-áig terjedően ellenőrzi.
+(6)[^52] Magyarország területén történő forgalmazás esetén a standard szaporítást a megyei kormányhivatal fajonkénti bontásban – a vetőmag előállítótól függetlenül – a vetőmag-szaporító táblák legalább 15%-áig terjedően ellenőrzi.
 
 (7)[^53] A standard szaporítások saját jogon minősített vetőmagtételeiből a vetőmag előállítónak, a hivatalosan mintázott és minősített vetőmagtételeiből a fémzárolónak az utóellenőrzéshez mintát kell képeznie, amit három évig sértetlenül meg kell őrizni. A NÉBIH a termékpálya szerinti terméktanáccsal történt egyeztetés után évenként meghatározott faj körben vagy tételkörből utóellenőrzést (kisparcellás fajtaazonosító vizsgálatot) végez.
 
 [^51]: A 13. § (1) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének a) pontja, a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^52]: A 13. § (6) bekezdése a 24/2016. (IV. 8.) FM rendelet 28. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
+[^52]: A 13. § (6) bekezdése a 24/2016. (IV. 8.) FM rendelet 28. §-ával megállapított, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^53]: A 13. § (7) bekezdése a 14/2011. (II. 24.) VM rendelet 6. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.

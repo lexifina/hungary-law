@@ -1,6 +1,6 @@
 ## Vetőmag mintavétel, laboratóriumi vizsgálat
 
-22. § (1)[^98] Minősítés céljára homogén vetőmagtételből, megfelelő módszerek szerint hivatalos mintát kell venni. Az ellenőrzés céljából végrehajtott vetőmag-mintavétel kizárólag a járási hivatal által végezhető. A mintákat a fémzároltató köteles eljuttatni a vizsgálat helyére.
+22. § (1)[^98] Minősítés céljára homogén vetőmagtételből, megfelelő módszerek szerint hivatalos mintát kell venni. Az ellenőrzés céljából végrehajtott vetőmag-mintavétel kizárólag a megyei kormányhivatal által végezhető. A mintákat a fémzároltató köteles eljuttatni a vizsgálat helyére.
 
 (2) A fémzárolásra előkészített tétel valamennyi csomagolási egységének meg kell felelnie a vonatkozó jogszabályi előírásoknak, és a forgalmazás céljainak megfelelő okmányokkal, függőcímkével kell rendelkeznie a 6. számú mellékletben leírtak szerint.
 
@@ -16,5 +16,5 @@
 
 (8) Az előírt határérték alatti vetőmagtétel nem hozható forgalomba.
 
-[^98]: A 22. § (1) bekezdése a 18/2006. (II. 28.) FVM rendelet 3. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
+[^98]: A 22. § (1) bekezdése a 18/2006. (II. 28.) FVM rendelet 3. §-ával megállapított, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^99]: A 22. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 11. §-ával megállapított szöveg.

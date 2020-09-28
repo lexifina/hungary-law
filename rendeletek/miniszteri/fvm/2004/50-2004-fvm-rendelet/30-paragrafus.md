@@ -18,7 +18,7 @@ b)[^166] Magyarország európai uniós tagállam kódjának,
 
 c)[^167] a NÉBIH nevének vagy azonosító kódjának,
 
-d)[^168] az üzem a járási hivataltól kapott engedélyszámának,
+d)[^168] az üzem a megyei kormányhivataltól kapott engedélyszámának,
 
 e) az üzem nevének,
 
@@ -44,7 +44,7 @@ b)[^170] a NÉBIH nevének vagy kódjának,
 
 c) a faj és fajtanévnek,
 
-d)[^171] az üzem a járási hivataltól kapott engedélyszámának, valamint
+d)[^171] az üzem a megyei kormányhivataltól kapott engedélyszámának, valamint
 
 e) harmadik országból való származás esetén az előállító ország nevének is,
 
@@ -54,7 +54,7 @@ e) harmadik országból való származás esetén az előállító ország nevé
 
 (9) Az okmány csak az adott tételre érvényes, annak újbóli felhasználása tilos.
 
-(10)[^172] Az e rendeletben meghatározott adatokat tartalmazó okmány kiállítására valamennyi olyan engedéllyel rendelkező üzem jogosult, amely a törvény és e rendelet előírásait megtartja. Amennyiben az ellenőrzés során ennek ellenkezője bizonyosodik be, a NÉBIH, illetve a járási hivatal a forgalomba hozatalt határozott időre megtilthatja. Ebben az esetben a forgalmazó árut kísérő okmányt sem adhat ki.
+(10)[^172] Az e rendeletben meghatározott adatokat tartalmazó okmány kiállítására valamennyi olyan engedéllyel rendelkező üzem jogosult, amely a törvény és e rendelet előírásait megtartja. Amennyiben az ellenőrzés során ennek ellenkezője bizonyosodik be, a NÉBIH, illetve a megyei kormányhivatal a forgalomba hozatalt határozott időre megtilthatja. Ebben az esetben a forgalmazó árut kísérő okmányt sem adhat ki.
 
 (11) Ha különböző helyekről származó palántákat összekevernek a csomagolás, tárolás vagy a szállítás alatt, az üzem köteles feljegyzést készíteni az összetevőkről és az összetevő tételek származásáról.
 
@@ -62,8 +62,8 @@ e) harmadik országból való származás esetén az előállító ország nevé
 [^165]: A 30. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^166]: A 30. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
 [^167]: A 30. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^168]: A 30. § (5) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 64. § 8. pontja szerint módosított szöveg.
+[^168]: A 30. § (5) bekezdés d) pontja a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés h) pontja szerint módosított szöveg.
 [^169]: A 30. § (7) bekezdése a 124/2007. (X. 20.) FVM rendelet 13. §-ával megállapított szöveg.
 [^170]: A 30. § (7) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^171]: A 30. § (7) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 64. § 8. pontja szerint módosított szöveg.
-[^172]: A 30. § (10) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
+[^171]: A 30. § (7) bekezdés d) pontja a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^172]: A 30. § (10) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.

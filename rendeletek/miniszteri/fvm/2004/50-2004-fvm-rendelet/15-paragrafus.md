@@ -32,7 +32,7 @@ h)[^60] a kiszerelő évente legalább egyszer ellenőrizze, hogy a kiszerelésn
 
 (3a)[^61] Amennyiben a kiszerelő a (3) bekezdés h) pontja szerinti ellenőrzés során megállapítja, hogy a kiszerelésnél vett minta nem felel meg az e rendeletben előírt minőségi feltételeknek, a forgalmazókat erről 3 napon belül értesítenie kell.
 
-(4)[^62] A kiszerelési tevékenységet a NÉBIH, illetve a járási hivatal ellenőrizheti.
+(4)[^62] A kiszerelési tevékenységet a NÉBIH, illetve a megyei kormányhivatal ellenőrizheti.
 
 (5) A nem kis kiszerelésű EK vetőmagként csomagolt elit vagy certifikált vetőmagot hatóságilag vagy hatósági felügyelet mellett kell lezárni oly módon, hogy a csomagolási egység ne legyen felnyitható a lezárás megsértése nélkül. A csomagolási egység lezárási rendszerének legalább a hatósági címke vagy a hatósági fémzár (záróbélyeg) felhelyezéséből kell állnia. A hatóságilag lezárt csomagolási egységek csak hatóságilag vagy hatósági felügyelet mellett zárhatók újra. Az újrazárás tényét, annak legutóbbi időpontját és a felelős hatóságot a címkén fel kell tüntetni. A kis kiszerelésű vetőmag kivételével a vetőmag-csomagolási egységét a címkézésért felelős személynek ólom- vagy azzal egyenértékű fémzárral (záróbélyeggel) kell ellátnia.
 
@@ -62,7 +62,7 @@ b) a standard kategóriába minősített zöldségfajok különféle fajtáihoz 
 [^59]: A 15. § (3) bekezdés g) pontja a 24/2016. (IV. 8.) FM rendelet 33. § f) pontja szerint módosított szöveg.
 [^60]: A 15. § (3) bekezdés h) pontját a 24/2016. (IV. 8.) FM rendelet 29. § (1) bekezdése iktatta be.
 [^61]: A 15. § (3a) bekezdését a 24/2016. (IV. 8.) FM rendelet 29. § (2) bekezdése iktatta be.
-[^62]: A 15. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 6. pontja szerint módosított szöveg.
+[^62]: A 15. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 6. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^63]: A 15. § (7) bekezdése a 81/2013. (IX. 13.) VM rendelet 3. §-ával megállapított szöveg.
 [^64]: A 15. § (8) bekezdése az 5/2012. (II. 10.) VM rendelet 10. § c) pontja szerint módosított szöveg.
 [^65]: A 15. § (9) bekezdése a 14/2011. (II. 24.) VM rendelet 7. §-ával megállapított szöveg.

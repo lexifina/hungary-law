@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-8
 | 2017-08-18 | 2004-50-20-82.17 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-07-01 | 2004-50-20-82.18 | 36/2020. (VI. 29.) AM rendelet |
 | 2020-07-04 | 2004-50-20-82.19 | 35/2020. (VI. 29.) AM rendelet |
+| 2020-09-28 | 2004-50-20-82.20 | 70/2013. (VII. 31.) VM rendelet |

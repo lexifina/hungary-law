@@ -26,7 +26,7 @@ e)[^4] azokra a természetes és jogi személyekre, valamint jogi személyiségg
 
 tevékenységet,
 
-f)[^8] a minősítést végző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a növénytermesztési hatáskörben eljáró járási hivatalra (a továbbiakban: járási hivatal) és egyéb természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervezetekre, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
+f)[^8] a minősítést végző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a növénytermesztési hatáskörben eljáró megyei kormányhivatalra (a továbbiakban: megyei kormányhivatal) és egyéb természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervezetekre, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
 
 (2) A rendelet hatálya nem terjed ki
 
@@ -55,7 +55,7 @@ h)[^12] a zöldségnövények mint fajok vetőmagvainak, illetve palántáinak h
 [^5]: Az 1. § (1) bekezdés e) pont 4. alpontja a 42/2017. (VIII. 17.) FM rendelet 63. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés e) pont 5. alpontja a 42/2017. (VIII. 17.) FM rendelet 63. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (1) bekezdés e) pont 6. alpontját a 42/2017. (VIII. 17.) FM rendelet 63. § (2) bekezdése iktatta be.
-[^8]: Az 1. § (1) bekezdés f) pontja a 19/2014. (III. 12.) VM rendelet 12. § (1) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 22. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 1. pontja szerint módosított szöveg.
+[^8]: Az 1. § (1) bekezdés f) pontja a 19/2014. (III. 12.) VM rendelet 12. § (1) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 22. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 1. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
 [^9]: Az 1. § (2) bekezdés b) pontja a 24/2016. (IV. 8.) FM rendelet 33. § b) pontja szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdés c) pontja a 24/2016. (IV. 8.) FM rendelet 26. §-ával megállapított szöveg.
 [^11]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.

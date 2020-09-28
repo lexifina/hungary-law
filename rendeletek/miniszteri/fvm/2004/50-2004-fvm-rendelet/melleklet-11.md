@@ -1,4 +1,4 @@
-| ……………. Megyei Kormányhivatal ……………….Járási Hivatala | Oldal: ............. |
+| ……………. Megyei Kormányhivatal ………………. | Oldal: ............. |
 
 ## SZEMLEMEGRENDELŐ
 
