@@ -1,4 +1,4 @@
-## 28/A. §[^62] A termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet, valamint a mezőgazdasági termékek és élelmiszerek ökológiai gazdálkodási követelmények szerinti tanúsításáról, előállításáról, forgalmazásáról, jelöléséről és ellenőrzésének eljárásrendjéről szóló 34/2013. (V. 14.) VM rendelet módosításáról szóló 34/2014. (XII. 12.) FM rendelettel megállapított 3. § (3) bekezdés a) pont ab) alpont szerinti, a Minőségügyi Kézikönyv minta tárolására vonatkozó előírásait a tanúsító szervezeteknek 2015. január 31-ig kell elkészítenie és felülvizsgálat céljára a NÉBIH részére benyújtania.
+## 28/A. §[^64] A termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet, valamint a mezőgazdasági termékek és élelmiszerek ökológiai gazdálkodási követelmények szerinti tanúsításáról, előállításáról, forgalmazásáról, jelöléséről és ellenőrzésének eljárásrendjéről szóló 34/2013. (V. 14.) VM rendelet módosításáról szóló 34/2014. (XII. 12.) FM rendelettel megállapított 3. § (3) bekezdés a) pont ab) alpont szerinti, a Minőségügyi Kézikönyv minta tárolására vonatkozó előírásait a tanúsító szervezeteknek 2015. január 31-ig kell elkészítenie és felülvizsgálat céljára a NÉBIH részére benyújtania.
 
 ## 29. § Ez a rendelet
 
@@ -12,7 +12,7 @@ d) az ökológiai termelés, a címkézés és az ellenőrzés tekintetében az 
 
 e) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló. 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésének és 5. cikkének;
 
-f)[^63] a 889/2008/EK rendeletnek az ökológiai termelés ellenőrzési rendszere tekintetében történő módosításáról szóló, 2013. április 29-i 392/2013/EU bizottsági végrehajtási rendelet
+f)[^65] a 889/2008/EK rendeletnek az ökológiai termelés ellenőrzési rendszere tekintetében történő módosításáról szóló, 2013. április 29-i 392/2013/EU bizottsági végrehajtási rendelet
 
-[^62]: A 28/A. §-t a 34/2014. (XII. 12.) FM rendelet 19. §-a iktatta be.
-[^63]: A 29. § f) pontját a 34/2014. (XII. 12.) FM rendelet 20. §-a iktatta be.
+[^64]: A 28/A. §-t a 34/2014. (XII. 12.) FM rendelet 19. §-a iktatta be.
+[^65]: A 29. § f) pontját a 34/2014. (XII. 12.) FM rendelet 20. §-a iktatta be.

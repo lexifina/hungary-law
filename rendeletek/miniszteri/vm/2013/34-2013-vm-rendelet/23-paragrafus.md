@@ -1,4 +1,4 @@
-## 22. §[^51] Az ellenőrzési okirat 17. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben az 1235/2008/EK bizottsági rendelet 13. cikke értelmében a szállítmány vizsgálata Magyarországon történik.
+## 22. §[^51] Az ellenőrzési okirat 20. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben az 1235/2008/EK bizottsági rendelet 13. cikke értelmében a szállítmány vizsgálata Magyarországon történik.
 
 ## 12. A NÉBIH feladatai
 
@@ -24,5 +24,5 @@ gb) koordinálja az OFIS rendszeren keresztül érkező riasztásokkal kapcsolat
 
 gc) gondoskodik az ökológiai gazdálkodással kapcsolatos engedélyek OFIS rendszerbe történő feltöltéséről.
 
-[^51]: A 22. § a 34/2014. (XII. 12.) FM rendelet 14. §-ával megállapított szöveg.
+[^51]: A 22. § a 34/2014. (XII. 12.) FM rendelet 14. §-ával megállapított, a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés h) pontja szerint módosított szöveg.
 [^52]: A 23. § a 42/2017. (VIII. 17.) FM rendelet 193. § (5) bekezdésével megállapított szöveg.

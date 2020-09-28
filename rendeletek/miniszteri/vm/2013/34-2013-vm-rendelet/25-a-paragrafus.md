@@ -20,7 +20,7 @@ i) a 889/2008/EK bizottsági rendelet 36. cikke, illetve 38a. cikkében foglalta
 
 j) engedélyezi a párhuzamos termelést a 889/2008/EK bizottsági rendelet 40. cikk (1) és (2) bekezdése alapján,
 
-k) a 889/2008/EK bizottsági rendelet 42. cikke alapján engedélyezi nem ökológiai tartásból származó állatok felhasználását,
+k)[^62] a 889/2008/EK bizottsági rendelet 9. cikk (4) bekezdése, illetve 42. cikke alapján engedélyezi nem ökológiai tartásból származó állatok felhasználását,
 
 l) katasztrófahelyzet esetén ideiglenes engedélyt ad ki a 889/2008/EK bizottsági rendelet 47. cikkében foglaltak alapján, és a kiadott engedélyekről tájékoztatja a NÉBIH-et,
 
@@ -28,6 +28,10 @@ m) adatot szolgáltat a 889/2008/EK bizottsági rendelet 48. cikkében meghatár
 
 n) ellátja a beszállítók nyilvántartásba vételével kapcsolatos feladatokat a 889/2008/EK bizottsági rendelet 50. cikkében meghatározottak alapján,
 
-o) biztosítja a tanúsító szervezetek közötti információk cseréjét.
+o) biztosítja a tanúsító szervezetek közötti információk cseréjét,
+
+p)[^63] a 889/2008/EK rendelet 39. cikke alapján kis méretű gazdaságokban engedélyezi a szarvasmarhák kötött tartását.
 
 [^61]: A 25/A. §-t a 42/2017. (VIII. 17.) FM rendelet 193. § (7) bekezdése iktatta be.
+[^62]: A 25/A. § k) pontja a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^63]: A 25/A. § p) pontját a 46/2020. (IX. 23.) AM rendelet 26. § (2) bekezdése iktatta be.
