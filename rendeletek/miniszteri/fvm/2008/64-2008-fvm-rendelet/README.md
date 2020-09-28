@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-64-20-8
 | 2017-02-14 | 2008-64-20-82.14 | 6/2017. (II. 13.) FM rendelet |
 | 2017-08-18 | 2008-64-20-82.15 | 44/2014. (IV. 14.) VM rendelet |
 | 2017-12-23 | 2008-64-20-82.16 | 6/2017. (II. 13.) FM rendelet |
+| 2020-09-28 | 2008-64-20-82.17 | 44/2014. (IV. 14.) VM rendelet |
