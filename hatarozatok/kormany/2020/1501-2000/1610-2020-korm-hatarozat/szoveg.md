@@ -10,4 +10,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2022. június 30.
 
-4. visszavonja a Szíriában megvalósítandó magyar–lengyel közös humanitárius projekt pénzügyi forrásának biztosításáról szóló 1793/2018. (XII. 21.) Korm. határozat 1. és 2. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
