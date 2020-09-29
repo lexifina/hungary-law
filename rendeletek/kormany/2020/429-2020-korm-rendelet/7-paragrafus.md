@@ -1,0 +1,1 @@
+## 6. § A Kormány a 2. melléklet 2. pontjában foglalt táblázat 2. sorában megjelölt ingatlan esetében a Turizmus tv. 4. § (4) bekezdés a) pontja szerinti beruházó és fenntartó vagyonkezelőként a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaságot határozza meg.

@@ -1,0 +1,1 @@
+## 5. § A Kormány a 2. melléklet 1. pontjában foglalt táblázat 4–8. sorában megjelölt ingatlanok esetében a Turizmus tv. 4. § (4) bekezdése szerinti beruházó és fenntartó vagyonkezelőként az Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaságot határozza meg.

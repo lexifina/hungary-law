@@ -1,0 +1,1 @@
+## 4. § A Kormány a 2. melléklet 1. pontjában foglalt táblázat 2. és 3. sorában megjelölt ingatlanok esetében a Turizmus tv. 4. § (4) bekezdése szerinti beruházó és fenntartó vagyonkezelőként a Sopron–Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaságot határozza meg.

@@ -1,0 +1,1 @@
+## 3. § A 2. mellékletben meghatározott ingatlanok és vagyonelemek a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus tv.) 4. § (3) bekezdése szerinti közfeladat ellátásához szükséges területek.
