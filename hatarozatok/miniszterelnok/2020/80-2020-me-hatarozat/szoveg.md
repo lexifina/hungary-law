@@ -4,4 +4,6 @@ a) Perényi Sigismund Petert a Fejlesztéspolitikai Koordinációs Bizottság el
 
 b) dr. Ágostházy Szabolcs Imrét, az Innovációs és Technológiai Minisztérium államtitkárát a Fejlesztéspolitikai Koordinációs Bizottság elnökévé – 2020. október 1-jei hatállyal – kijelölöm.
 
-2. Visszavonom a Fejlesztéspolitikai Koordinációs Bizottság elnökének felmentéséről és új elnökének kijelöléséről szóló 99/2019. (IX. 10.) ME határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
