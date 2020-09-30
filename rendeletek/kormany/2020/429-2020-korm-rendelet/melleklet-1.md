@@ -1,4 +1,4 @@
-## 9. § Hatályát veszti a turisztikai térségek és a kiemelt turisztikai fejlesztési térségek meghatározásáról szóló 429/2016. (XII. 15.) Korm. rendelet.
+## 9. §[^1]
 
 1. melléklet a 429/2020. (IX. 14.) Korm. rendelethez
 
@@ -67,3 +67,5 @@ Abádszalók, Berekfürdő, Egyek, Hortobágy, Karcag, Kunmadaras, Kisköre, Né
 11. Budapest környéke turisztikai térség (elnevezése angol nyelven: Greater Budapest):
 
 Acsa, Adony, Alcsútdoboz, Almásfüzitő, Alsópetény, Aszód, Bajót, Bánk, Berkenye, Bernecebaráti, Biatorbágy, Bicske, Bodajk, Bodmér, Borsosberény, Budakalász, Csabdi, Csákberény, Csákvár, Csörög, Délegyháza, Diósjenő, Domony, Dömös, Drégelypalánk, Dunaalmás, Dunabogdány, Dunaharaszti, Dunakeszi, Dunavarsány, Ercsi, Erdőtarcsa, Esztergom, Etyek, Felcsút, Felsőpetény, Fót, Galgamácsa, Gánt, Gárdony, Göd, Gödöllő, Gyömrő, Hatvan, Herceghalom, Hont, Horpács, Ipolydamásd, Ipolytölgyes, Isaszeg, Kajászó, Kápolnásnyék, Kemence, Kismaros, Kisoroszi, Komárom, Kosd, Kóspallag, Lábatlan, Leányfalu, Letkés, Lovasberény, Máriahalom, Márianosztra, Martonvásár, Mogyoród, Mogyorósbánya, Nadap, Nagybörzsöny, Nagymaros, Nagyoroszi, Neszmély, Nógrád, Nőtincs, Nyergesújfalu, Óbarok, Ócsa, Ősagárd, Pákozd, Páty, Pázmánd, Pécel, Penc, Perbál, Perőcsény, Pilismarót, Pilisszentkereszt, Pilisszentlászló, Pócsmegyer, Pomáz, Pusztaberki, Rácalmás, Ráckeve, Rétság, Sóskút, Sukoró, Süttő, Szada, Százhalombatta, Székesfehérvár, Szendehely, Szentendre, Szigetbecse, Szigethalom, Szigetmonostor, Szob, Szokolya, Sződ, Sződliget, Tabajd, Tahitótfalu, Tát, Telki, Tereske, Tésa, Tolmács, Tordas, Tura, Üröm, Vác, Vácrátót, Vál, Vámosmikola, Vecsés, Velence, Vereb, Veresegyház, Verőce, Verseg, Vértesacsa, Visegrád, Zebegény, Zsámbék
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
