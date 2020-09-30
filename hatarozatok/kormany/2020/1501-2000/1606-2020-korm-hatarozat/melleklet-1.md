@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:8 mezőjében a „63,24” szövegrész helyébe a „64,94” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:38 mezőjében a „6,00” szövegrész helyébe a „8,72” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1606/2020. (IX. 28.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Többlettámogatás legfeljebb (bruttó, forint) | Megnövelt támogatás legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0-16-2016-00002 | Gyermek és ifjúságpszichiátriai, addiktológiai és mentálhigiénés ellátórendszer infrastrukturális feltételeinek fejlesztése | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem | 6 000 000 000 | 2 716 162 062 | 8 716 162 062 | A projekt célja a működéshez szükséges struktúra és minimumfeltételek megteremtése mellett olyan regionális koordinációs központok kialakítása, amelyek hatékony kommunikációt biztosítanak a multiszektoriális ellátás színterei (elsődleges, másodlagos és harmadlagos prevenció) között. A koordinációs központokkal lehetővé válik az átlátható betegbeutalási rend, a betegutak, valamint a progresszív ellátás elvének gyakorlati végrehajtása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
