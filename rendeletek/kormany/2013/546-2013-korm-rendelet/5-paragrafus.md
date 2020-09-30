@@ -1,0 +1,3 @@
+## 4/B. §[^22] Az 1. § (1) bekezdés b) pontja szerinti ingatlan területén egy évben mennyiségi és hosszúságra vonatkozó korlátozás nélkül tartható nagyrendezvény. Két nagyrendezvény között annyi időt kell biztosítani, hogy a zöldfelület legalább az első nagyrendezvény előtti állapotának megfelelő helyreállítása és regenerálódása megvalósítható legyen. Nagyrendezvény a közterület-használattal járó olyan kulturális, szabadidős, sport- vagy egyéb társadalmi rendezvény, amelyen a résztvevők száma várhatóan meghaladja az 5000 főt, és amely a zöldfelületek jelentős igénybevételével jár.
+
+[^22]: A 4/B. §-t a 442/2020. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
