@@ -22,7 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:146 mezőjében a „0,14” szövegrész helyébe a „0,23” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1609/2020. (IX. 28.) Korm. határozathoz
 
@@ -35,3 +35,5 @@
 | 3. | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az Európai Unió (a továbbiakban: EU) felé el nem számolható áfa összege (forint) | Az EU felé el nem számolható költségek összege (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható áfa összege (forint) | Az EU felé el nem számolható költségek összege (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható áfa összege (forint) | Az EU felé el nem számolható költségek összege (forint) |
 
 | 4. | KEHOP-2.1.3- 15-2016-00027 | A Tolna megyei Diósberény és Szakadát Ivóvíz- minőség- javító Programja | Diósberény Község Önkormányzata és Szakadát Község Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007– 2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladék-gazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 90,0 | 131 013 450 | 14 557 050 | 38 955 013 | – | +5,0 | +92 778 593 | -11 994 878 | +24 300 022 | +9 216 357 | 95,0 | 223 792 043 | 2 562 172 | 63 255 035 | 9 216 357 | 298 825 607 | A projekt célja, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az emberi fogyasztásra szánt víz minőségéről szóló, 1998. november 3-i 98/83/EK irányelvben, valamint az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
