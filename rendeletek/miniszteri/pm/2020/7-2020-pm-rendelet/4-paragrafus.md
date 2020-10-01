@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A 45/2016. NGM rendelet 33. §-a a következő (5) bekezdéssel egészül ki:
 
-[^3]: A 3. § a 17. § (2) bekezdése alapján 2020. október 1-jén lép hatályba.
+## „(5) A Jöt. 3. § (4) bekezdés 4a., 9a. és 13. pontja szerinti jövedéki termék belföldön és harmadik országba adófelfüggesztési eljárás keretében történő szállításához az állami adó- és vámhatóság az EK rendeletben szereplőtől eltérő technikai jövedéki termékkódot határozhat meg.”

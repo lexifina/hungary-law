@@ -1,3 +1,3 @@
-## 8. §[^8]
+## 8. §[^7]
 
-[^8]: A 8. § a 17. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^7]: A 8. § a 17. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-1. melléklet a 7/2020. (VII. 30.) PM rendelethez[^19]
+1. melléklet a 7/2020. (VII. 30.) PM rendelethez[^18]
 
-[^19]: Az 1. melléket a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 1. melléket a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

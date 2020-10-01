@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-7-20-53
 | --- | --- | --- |
 | 2020-08-07 | 2020-7-20-53.1 | 7/2020. (VII. 30.) PM rendelet |
 | 2020-08-08 | 2020-7-20-53.2 | 2010: CXXX. törvény |
+| 2020-10-01 | 2020-7-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
