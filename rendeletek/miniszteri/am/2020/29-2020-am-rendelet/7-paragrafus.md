@@ -2,7 +2,7 @@
 
 7. § (1) A támogatás igénybevételére a sertéstartó jogosult.
 
-(2) A támogatás keretösszege 2 milliárd 750 millió forint.
+(2)[^1] A támogatás keretösszege 3 milliárd 230 millió forint.
 
 (3) A támogatás alapja a sertéstartó 39/2018. (XII. 13.) AM rendelet 14. § (1) bekezdés a), illetve b) pontja alapján a 2019. támogatási év II. tárgynegyedévére benyújtott mezőgazdasági csekély összegű támogatás iránti kérelmében megjelölt, a 39/2018. (XII. 13.) AM rendelet 15., illetve 16. §-ában meghatározott támogatási feltételeknek megfelelő,
 
@@ -19,3 +19,5 @@ b) a 39/2018. (XII. 13.) AM rendelet 16. §-ában meghatározott támogatási fe
 ## állategységenként.
 
 (5) Ha a beérkezett jogos igények meghaladják a (2) bekezdésben meghatározott keretösszeget a kérelmező részére legfeljebb az arányos visszaosztás alapján megállapított összeg fizethető ki.
+
+[^1]: A 7. § (2) bekezdése a 47/2020. (IX. 30.) AM rendelet 3. §-a szerint módosított szöveg.
