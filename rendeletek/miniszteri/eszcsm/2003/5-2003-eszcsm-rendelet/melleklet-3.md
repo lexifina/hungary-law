@@ -36,7 +36,7 @@
 
 | 17. | Q) Neonatológiai utóképek | Neonatológus, gyermekpulmonológus szakorvos, gyermekneurológus szakorvos |
 
-3. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^20]
+3. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^21]
 
 IGAZOLÁS
 
@@ -138,24 +138,24 @@ Szakorvos állítja ki!
 
 TÁJÉKOZTATÓ
 
-Az igazolást gyermekklinika, gyermekszakkórház, kórházi gyermekosztály, szakambulancia, szakrendelés vagy szakgondozó szakorvosa (a továbbiakban: szakorvos) adja ki.
+Az igazolást gyermekklinika, gyermekszakkórház, kórházi gyermekosztály, szakambulancia, szakrendelés vagy szakgondozó, illetve szakértői bizottság szakorvosa (a továbbiakban: szakorvos) adja ki.
 
-A szakorvos az igazolás I. pontját tölti ki
+A szakorvos az igazolás I. részét tölti ki
 
-a) első vizsgálat esetén, amennyiben azt állapítja meg, hogy a gyermek – tartós betegsége, illetve súlyos fogyatékossága miatt – a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fa) alpontjában foglaltaknak megfelel, illetve
+a) első vizsgálat esetén, ha azt állapítja meg, hogy a gyermek – tartós betegsége, illetve súlyos fogyatékossága miatt – a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fa) alpontjában foglaltaknak megfelel, illetve
 
-b) a rendszeres felülvizsgálat esetén, amennyiben azt állapítja meg, hogy a gyermek állapotában nem állt be olyan kedvező változás (javulás, gyógyulás), amelynek alapján a családi pótlékra jogosult a továbbiakban nem tarthat igényt a magasabb mértékű ellátásra.
+b) a rendszeres felülvizsgálat esetén, ha azt állapítja meg, hogy a gyermek állapotában nem állt be olyan kedvező változás (javulás, gyógyulás), amelynek alapján a családi pótlékra jogosult a továbbiakban nem tarthat igényt a magasabb mértékű ellátásra.
 
-A szakorvos az igazolás II. pontját tölti ki első vizsgálat esetén, amennyiben azt állapítja meg, hogy a gyermek – tartós betegség, illetve súlyos fogyatékosság hiányában – a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fa) alpontjában foglaltaknak nem felel meg.
+A szakorvos az igazolás II. részét tölti ki első vizsgálat esetén, ha azt állapítja meg, hogy a gyermek – tartós betegség, illetve súlyos fogyatékosság hiányában – a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fa) alpontjában foglaltaknak nem felel meg.
 
-A szakorvos az igazolás III. pontját tölti ki, ha a rendszeres felülvizsgálat alkalmával azt állapítja meg, hogy a gyermek állapotában olyan kedvező változás (javulás, gyógyulás) állott be, amelynek alapján a családi pótlékra jogosult a továbbiakban nem tarthat igényt a magasabb mértékű ellátásra.
+A szakorvos az igazolás III. részét tölti ki, ha a rendszeres felülvizsgálat alkalmával azt állapítja meg, hogy a gyermek állapotában olyan kedvező változás (javulás, gyógyulás) állt be, amelynek alapján a családi pótlékra jogosult a továbbiakban nem tarthat igényt a magasabb mértékű ellátásra.
 
-Ezen igazolás egy példányát a családi pótlékra való igény bejelentését vagy – már folyósított családi pótlék esetén – az igazolás kiállítását követő 15 napon belül a családi pótlékot folyósító szervnél le kell adni. A családi pótlékot folyósító szerv az igazolás benyújtott példányát az ellátásról rendelkező határozatával együtt az igénylő számára visszaküldi. Felülvizsgálati kérelem esetén az igazolást a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalához – a felülvizsgálat kezdeményezésével egyidejűleg – be kell nyújtani.
+Jelen igazolást a családi pótlékra való igény bejelentését vagy – már folyósított családi pótlék esetén – az igazolás kiállítását követő 15 napon belül a családi pótlék iránti kérelmet elbíráló szervnél le kell adni. Felülvizsgálati kérelem esetén az igazolást a fővárosi és megyei kormányhivatalhoz – a felülvizsgálat kezdeményezésével egyidejűleg – be kell nyújtani.
 
-Ha a szakorvos olyan igazolást állít ki, amelynek alapján az ellátást igénylő nem tarthat igényt, vagy a továbbiakban nem tarthat igényt a magasabb összegű családi pótlékra, az igénylő az igazolás kiadását követő 15 napon belül kezdeményezheti a szakvélemény felülvizsgálatát a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalánál.
+Ha a szakorvos olyan igazolást állít ki, amelynek alapján az ellátást igénylő nem tarthat igényt, vagy a továbbiakban nem tarthat igényt a magasabb összegű családi pótlékra, az igénylő az igazolás kiadását követő 15 napon belül kezdeményezheti a szakvélemény felülvizsgálatát a fővárosi és megyei kormányhivatalnál.
 
 A tartósan beteg, illetve súlyosan fogyatékos gyermek után járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását igazolták.
 
 Ha a tartósan beteg, illetve súlyosan fogyatékos gyermek után – állapotának javulása miatt – a magasabb összegű családi pótlék már nem jár, a magasabb összegű ellátásra való jogosultság megszűnését követő hónaptól a családi pótlékot új összeggel kell folyósítani, feltéve, hogy az ellátásra való jogosultság egyébként fennáll.
 
-[^20]: A 3. számú melléklet megjelölését 3. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § c) pontja. A 3. melléklet a 68/2013. (XI. 15.) EMMI rendelet 12. § b)–d) pontja, az 54/2016. (XII. 30.) EMMI rendelet 28. § e) pontja szerint módosított szöveg.
+[^21]: A 3. számú melléklet megjelölését 3. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § c) pontja. A 3. melléklet a 68/2013. (XI. 15.) EMMI rendelet 12. § b)–d) pontja, az 54/2016. (XII. 30.) EMMI rendelet 28. § e) pontja, a 32/2020. (IX. 9.) EMMI rendelet 5. §-a szerint módosított szöveg.

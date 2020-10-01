@@ -1,9 +1,7 @@
-2. § (1)[^6] A szakorvos az igazolást szakvéleménye alapján, – a 3. melléklet szerinti formanyomtatványon – három példányban állítja ki.
+2. §[^6] (1) A szakorvos a szakvéleménye alapján kiállított igazolást a 3. melléklet szerinti adattartalomnak megfelelő adatbevitellel, az Elektronikus Egészségügyi Szolgáltatási Tér útján továbbítja a Magyar Államkincstár központi szervének. Az adatokat a Magyar Államkincstár továbbítja a Cst. 35. § (1) bekezdésében meghatározott igényelbíráló szervnek (a továbbiakban: igényelbíráló szerv).
 
-(2)[^7] Az igazolás egy példánya a szakorvosnál marad. A többi példányt az ellátást igénylőnek kell átadni azzal, hogy egy példányt a Cst. 35. § (1) bekezdésében meghatározott igényelbíráló szervhez (a továbbiakban: igényelbíráló szerv), illetve – a 4. § szerinti felülvizsgálat kezdeményezése esetén – a járási hivatalhoz nyújtson be. Az igényelbíráló szerv az igazolás eredeti példányát a magasabb összegű családi pótlékra, vagy – ha az igazolás a gyermekgondozási segélynek a Cst. 20. § (1) bekezdés c) pontja szerinti időtartamban történő folyósításához került benyújtásra – a gyermekgondozási segélyre való jogosultságról szóló határozat közlésével egyidejűleg visszajuttatja az ellátást igénylő személynek.
+(2) Ha a szakorvos az igazolást az Elektronikus Egészségügyi Szolgáltatási Tér útján nem tudja továbbítani, az igazolást a 3. melléklet szerinti formanyomtatványon, két példányban állítja ki. Az igazolás egy példánya a szakorvosnál marad, a második példányt az ellátást igénylőnek kell átadni, azzal, hogy azt az igényelbíráló szervhez, illetve – a 4. § szerinti felülvizsgálat kezdeményezése esetén – a fővárosi és megyei kormányhivatalhoz (a továbbiakban: kormányhivatal) nyújtsa be.
 
-(3)[^8]
+(3) A 3. § (3) és (4) bekezdése szerinti esetben az igazolást a 3. melléklet szerinti formanyomtatványon egy példányban akkor is ki kell állítani és az ellátást igénylőnek át kell adni, ha a szakorvos az igazolás II., illetve III. része szerinti adatokat az Elektronikus Egészségügyi Szolgáltatási Tér útján továbbítja.
 
-[^6]: A 2. § (1) bekezdése a 3/2013. (I. 7.) EMMI rendelet 7. § a) és b) pontja szerint módosított szöveg.
-[^7]: A 2. § (2) bekezdése a 3/2013. (I. 7.) EMMI rendelet 2. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 28. § b) pontja szerint módosított szöveg.
-[^8]: A 2. § (3) bekezdését a 24/2015. (IV. 30.) EMMI rendelet 12. §-a hatályon kívül helyezte.
+[^6]: A 2. § a 32/2020. (IX. 9.) EMMI rendelet 2. §-ával megállapított szöveg.
