@@ -1,4 +1,4 @@
-## 3. § A miniszter – a megállapodás keretei között – a Fórum javaslatainak figyelembevételével évente összeállítja a pályázati tervet. A beérkezett pályázatokról a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló miniszteri rendelet szerinti Értékelő Bizottság javaslata alapján a miniszter dönt.
+## 3/A. §[^2] A Fórum titkára a miniszter tevékenységét segítő minisztérium tehetségekért felelős főosztályának vezetője.
 
 4. § (1) A Támogatáskezelő a megállapodás keretei között
 
@@ -14,7 +14,7 @@ e) koordinálja a pályáztatás előkészítésében és a döntés-előkészí
 
 f) felterjeszti a miniszter részére az Értékelő Bizottság döntési javaslatát,
 
-g)[^1] megköti a támogatási szerződéseket, kiadja a támogatói okiratokat és azok módosításait,
+g)[^3] megköti a támogatási szerződéseket, kiadja a támogatói okiratokat és azok módosításait,
 
 h) előkészíti és folyósítja a kifizetéseket,
 
@@ -24,6 +24,8 @@ j) ellenőrzi és jóváhagyja a beérkezett rész-, illetve záró beszámolók
 
 (2) A záró beszámolók jóváhagyását követően a teljesítést a Támogatáskezelő igazolja.
 
-(3) A Támogatáskezelő ellátja a Fórum titkársági feladatait.
+(3)[^4]
 
-[^1]: A 4. § (1) bekezdés g) pontja a 272/2019. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: A 3/A. §-t a 444/2020. (IX. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^3]: A 4. § (1) bekezdés g) pontja a 272/2019. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^4]: A 4. § (3) bekezdését a 444/2020. (IX. 30.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-104-20-
 | 2015-05-02 | 2015-104-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2015-104-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-11-23 | 2015-104-20-22.4 | 272/2019. (XI. 20.) Korm. rendelet |
+| 2020-10-01 | 2015-104-20-22.5 | 444/2020. (IX. 30.) Korm. rendelet |
