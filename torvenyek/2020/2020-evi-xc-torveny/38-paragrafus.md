@@ -1,5 +1,3 @@
 ## 14. A települési önkormányzatokat megillető átengedett bevételek
 
-38. § (1) A települési önkormányzatot illeti meg a települési önkormányzat önkormányzati adóhatósága által megállapított gépjárműadóhoz kapcsolódó bírságból, pótlékból és végrehajtási költségből származó bevétel 100%-a.
-
-(2) A termőföld bérbeadásából származó jövedelem utáni – a települési önkormányzat által beszedett – személyi jövedelemadó 100%-a a földterület fekvése szerinti települési önkormányzatot illeti meg.
+38. §

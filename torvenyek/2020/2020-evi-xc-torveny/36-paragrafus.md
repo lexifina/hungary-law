@@ -1,3 +1,1 @@
-36. § (1) A IX. Helyi önkormányzatok támogatásai fejezetben 2020. évben év közben létrehozott új címek, illetve alcímek 2020. december 31-ei pozitív egyenlege esetén az államháztartásért felelős miniszter gondoskodhat e címek és alcímek 2021. évi címrendbe történő felvételéről és a 2020. december 31-én fennálló pozitív egyenlegnek megfelelő összeg biztosításáról.
-
-(2) A helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter a IX. Helyi önkormányzatok támogatásai fejezetben – az 1. mellékletben szereplő címek, valamint a 2. és 3. mellékletben szereplő, önkormányzatok által igényelhető jogcímek között és azokon belül – átcsoportosíthat.
+36. §
