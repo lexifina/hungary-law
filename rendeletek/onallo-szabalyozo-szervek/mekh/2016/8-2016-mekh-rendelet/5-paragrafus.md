@@ -4,6 +4,6 @@ a) a szállítási rendszerüzemeltető árszabályozás szerint indokolt műkö
 
 b) a szállítási rendszerüzemeltető indokolt eszközeinek árszabályozási eszközértékére vetített értékcsökkenésére és tőkeköltségére,
 
-c)[^6] a szállítóvezeték árszabályozás szerint indokolt elszámolási különbözetére.
+c)[^8] a szállítóvezeték árszabályozás szerint indokolt elszámolási különbözetére.
 
-[^6]: Az 5. § c) pontja az 5/2019. (V. 31.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § c) pontja az 5/2019. (V. 31.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 10. §[^9] Az indokolt költségek meghatározása során alkalmazott módszerek leírását a Hivatal honlapján közzétett, a GET 104/B. § (2) bekezdés a) pontja alapján kiadott módszertani útmutató tartalmazza.
+## 10. §[^11] Az indokolt költségek meghatározása során alkalmazott módszerek leírását a Hivatal honlapján közzétett, a GET 104/B. § (2) bekezdés a) pontja alapján kiadott módszertani útmutató tartalmazza.
 
 11. § (1) A rendszerhasználati díjakat az indokolt költségek és a kapacitás lekötés, a gázmérő névleges teljesítménye, a felhasználási helyek száma (a továbbiakban együtt: naturália), valamint a földgáz mennyiségi adatok hányadosaként kell meghatározni.
 
@@ -8,4 +8,4 @@
 
 (4) Az induló díjak megállapítása során a figyelembevételre kerülő kapacitás-lekötések mértékéről az érintettek érdekeire tekintettel, mérlegeléssel kell dönteni olyan módon, hogy a fizikai és a lekötött kapacitás eltéréséből fakadó kockázatot meg kell osztani a rendszerüzemeltető és a felhasználó között.
 
-[^9]: A 10. § az 5/2019. (V. 31.) MEKH rendelet 8. § d) pontja iktatta be, szövege az 5/2020. (VI. 2.) MEKH rendelet 3. § b) pontja szerint módosított szöveg.
+[^11]: A 10. § az 5/2019. (V. 31.) MEKH rendelet 8. § d) pontja iktatta be, szövege az 5/2020. (VI. 2.) MEKH rendelet 3. § b) pontja szerint módosított szöveg.

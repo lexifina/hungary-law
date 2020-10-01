@@ -36,11 +36,11 @@ bb) a kapacitásnövelés, valamint
 
 c) a földgáztermelő csatlakozása.
 
-(4)[^21] Az elosztási csatlakozási a Hivatal országosan egységesen, a GET 104. § (2) bekezdésben rögzített módon határozza meg.
+(4)[^23] Az elosztási csatlakozási a Hivatal országosan egységesen, a GET 104. § (2) bekezdésben rögzített módon határozza meg.
 
-(4a)[^22] A szállítási csatlakozási díjak meghatározásának módszertanát a referenciaár-módszertan tartalmazza.
+(4a)[^24] A szállítási csatlakozási díjak meghatározásának módszertanát a referenciaár-módszertan tartalmazza.
 
 (5) A csatlakozási díjak mértéke az árszabályozási cikluson belül – a rendszerhasználati díjakkal összehangoltan – módosítható.
 
-[^21]: A 15. § (4) bekezdése az 5/2019. (V. 31.) MEKH rendelet 8. § g) pontja szerint módosított szöveg.
-[^22]: A 14. § (4a) bekezdését az 5/2019. (V. 31.) MEKH rendelet 5. §-a iktatta be.
+[^23]: A 15. § (4) bekezdése az 5/2019. (V. 31.) MEKH rendelet 8. § g) pontja szerint módosított szöveg.
+[^24]: A 14. § (4a) bekezdését az 5/2019. (V. 31.) MEKH rendelet 5. §-a iktatta be.
