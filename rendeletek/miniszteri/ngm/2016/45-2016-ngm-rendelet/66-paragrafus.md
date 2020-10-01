@@ -4,6 +4,6 @@ a) a dohánygyártmány megsemmisítéséről az 52. § szerint felvett jegyzők
 
 b) a dohánygyártmány újrafeldolgozása esetén a felhasználást igazoló számviteli bizonylat,
 
-c)[^78] a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
+c)[^79] a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
 
-[^78]: A 66. § c) pontját az 5/2017. (III. 30.) NGM rendelet 20. §-a iktatta be
+[^79]: A 66. § c) pontját az 5/2017. (III. 30.) NGM rendelet 20. §-a iktatta be

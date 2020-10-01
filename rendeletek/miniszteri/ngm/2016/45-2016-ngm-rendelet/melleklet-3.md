@@ -1,4 +1,4 @@
-3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^140]
+3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^141]
 
 ## Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő adatszolgáltatás adattartalma (jövedéki termékenként)
 
@@ -46,7 +46,7 @@ Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vona
 
 4.6.2. Jogcím
 
-4.7.[^141] Tagállamba, harmadik országba történő kiszállítás céljából zárjegy nélkül belföldről beszerzett dohányzást helyettesítő nikotintartalmú termék, füst nélküli dohánytermék, töltőfolyadék, új dohánytermék-kategóriák
+4.7.[^142] Tagállamba, harmadik országba történő kiszállítás céljából zárjegy nélkül belföldről beszerzett dohányzást helyettesítő nikotintartalmú termék, füst nélküli dohánytermék, töltőfolyadék, új dohánytermék-kategóriák
 
 5. Készletcsökkenés
 
@@ -78,7 +78,7 @@ Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vona
 
 5.2. Tagállamba kiszállítás*
 
-5.2.1.[^142] EKO vagy zárjegy nélkül belföldről beszerzett dohányzást helyettesítő nikotintartalmú termék, füst nélküli dohánytermék, töltőfolyadék, új dohánytermék-kategóriák esetén egyéb szállítási okmány
+5.2.1.[^143] EKO vagy zárjegy nélkül belföldről beszerzett dohányzást helyettesítő nikotintartalmú termék, füst nélküli dohánytermék, töltőfolyadék, új dohánytermék-kategóriák esetén egyéb szállítási okmány
 
 5.2.1.1. száma
 
@@ -142,6 +142,6 @@ Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vona
 
 6. Zárókészlet (naponta)
 
-[^140]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^141]: A 3. melléklet 4. Készletnövekedés (időpont, szállító megnevezése és telephelye, bizonylat száma szerinti bontásban) pont 4.7. alpontját a 7/2020. (VII. 30.) PM rendelet 11. § b) pontja iktatta be.
-[^142]: A 3. melléklet 5. Készletcsökkenés pont 5.2. Tagállamba kiszállítás* alpont 5.2.1. pontja a 7/2020. (VII. 30.) PM rendelet 11. § b) pontjával megállapított szöveg.
+[^141]: A 3. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^142]: A 3. melléklet 4. Készletnövekedés (időpont, szállító megnevezése és telephelye, bizonylat száma szerinti bontásban) pont 4.7. alpontját a 7/2020. (VII. 30.) PM rendelet 11. § b) pontja iktatta be.
+[^143]: A 3. melléklet 5. Készletcsökkenés pont 5.2. Tagállamba kiszállítás* alpont 5.2.1. pontja a 7/2020. (VII. 30.) PM rendelet 11. § b) pontjával megállapított szöveg.

@@ -1,3 +1,3 @@
-18. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^147]
+18. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^148]
 
-[^147]: A 18. mellékletet a 47/2017. (XII. 27.) NGM rendelet 14. § 20. pontja hatályon kívül helyezte.
+[^148]: A 18. mellékletet a 47/2017. (XII. 27.) NGM rendelet 14. § 20. pontja hatályon kívül helyezte.

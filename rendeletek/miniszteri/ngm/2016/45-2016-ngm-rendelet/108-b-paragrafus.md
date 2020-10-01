@@ -1,3 +1,3 @@
-## 46/A. [^121] Jogszabály tervezetének egyeztetése
+## 46/A. [^122] Jogszabály tervezetének egyeztetése
 
-[^121]: A 46/A. alcímet (108/B. §) az 5/2017. (III. 30.) NGM rendelet 30. §-a iktatta be.
+[^122]: A 46/A. alcímet (108/B. §) az 5/2017. (III. 30.) NGM rendelet 30. §-a iktatta be.
