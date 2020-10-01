@@ -16,6 +16,8 @@ f)[^12] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikk (5) b
 
 g)[^13] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2018-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2018. november 26-i 2018/1848/EU bizottsági végrehajtási rendelet
 
+h)[^14] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2019-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2019. november 25-i (EU) 2019/1953 bizottsági végrehajtási rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^9]: A 6. § a) pontja a 65/2016. (IX. 21.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
@@ -23,3 +25,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^11]: A 6. § e) pontját az 55/2017. (XI. 6.) FM rendelet 30. §-a iktatta be.
 [^12]: A 6. § f) pontját a 28/2018. (X. 5.) AM rendelet 8. §-a iktatta be.
 [^13]: A 6. § g) pontját a 43/2019. (IX. 20.) AM rendelet 5. §-a iktatta be.
+[^14]: A 6. § h) pontját a 47/2020. (IX. 30.) AM rendelet 1. §-a iktatta be.
