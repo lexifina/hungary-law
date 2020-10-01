@@ -6,6 +6,8 @@ dr. Illés Boglárkának, az Emberi Erőforrások Minisztériuma helyettes álla
 
 egyidejűleg a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 234. § (1) bekezdése alapján – az emberi erőforrások miniszterének javaslatára –
 
-Rácz Zsófia Laurát az Emberi Erőforrások Minisztériuma helyettes államtitkárává
+Rácz Zsófia Laurát az Emberi Erőforrások Minisztériuma helyettes államtitkárává[^1]
 
 – 2020. január 8-ai hatállyal – kinevezem.
+
+[^1]: A 82/2020. (IX. 30.) ME határozat alapján az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Miniszterelnökség” megnevezést kell érteni.
