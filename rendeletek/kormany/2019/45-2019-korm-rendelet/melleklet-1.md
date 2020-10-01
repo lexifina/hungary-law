@@ -1,4 +1,4 @@
-## 15. §[^11]
+## 15. §[^12]
 
 1. melléklet a 45/2019. (III. 12.) Korm. rendelethez
 
@@ -16,4 +16,4 @@ d) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiak
 
 miatt jogerősen megállapította, és az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
 
-[^11]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

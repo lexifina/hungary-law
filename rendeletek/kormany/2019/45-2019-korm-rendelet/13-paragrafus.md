@@ -1,8 +1,8 @@
 ## 8. Adatigénylés
 
-## 13. §[^9] A Kincstár a szerzési támogatásra való jogosultsági feltételek fennállásának az elidegenítési tilalom 9. § (1) bekezdésében foglaltak szerinti időtartama alatti ellenőrzése céljából adatszolgáltatást igényelhet
+## 13. §[^10] A Kincstár a szerzési támogatásra való jogosultsági feltételek fennállásának az elidegenítési tilalom 9. § (1) bekezdésében foglaltak szerinti időtartama alatti ellenőrzése céljából adatszolgáltatást igényelhet
 
-a)[^10] a közúti közlekedési nyilvántartás engedély-nyilvántartásából az igénylő, ennek hiányában a támogatással érintett személy vezetői engedélyének száma alapján
+a)[^11] a közúti közlekedési nyilvántartás engedély-nyilvántartásából az igénylő, ennek hiányában a támogatással érintett személy vezetői engedélyének száma alapján
 
 aa) a természetes személy vezetői engedélyének kategóriájára, valamint
 
@@ -20,5 +20,5 @@ bd) a tulajdonába tartozó és az általa a szerzési támogatás felhasználá
 
 c) a közúti közlekedési nyilvántartás járműnyilvántartásából az elidegenítési tilalom bejegyzésének ellenőrzése céljából az elidegenítési tilalom jogosultjára, kezdetére és végére
 
-[^9]: A 13. § nyitó szövegrésze a 151/2019. (VI. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^10]: A 13. § a) pontja a 151/2019. (VI. 26.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^10]: A 13. § nyitó szövegrésze a 151/2019. (VI. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^11]: A 13. § a) pontja a 151/2019. (VI. 26.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.

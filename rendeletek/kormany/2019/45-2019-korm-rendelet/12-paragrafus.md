@@ -1,4 +1,4 @@
-## 11/A. §[^8] Ha a szerzési támogatás igénybevételével megszerzett személygépkocsira a megszerzéstől számított 3 éven belül casco biztosítás kötésére kerül sor, a biztosítási szerződésben a Kincstárt a szerzési támogatás és járulékai erejéig társbiztosítottként kell feltüntetni, és a biztosítónak a szerződéskötésről a Kincstárt tájékoztatnia kell, továbbá a szerződést meg kell küldenie a Kincstárnak. A személygépkocsi eltulajdonítása, illetve annak a forgalomból való végleges kivonását eredményező megrongálódása miatti kártérítés fizetése esetén annak összegéből a Kincstárt a szerzési támogatás 3 éves időtartamra számított időarányos részének megfelelő részösszeg, a jogosultat pedig a kártérítés e részösszeggel csökkentett összege illeti meg.
+## 11/A. §[^9] Ha a szerzési támogatás igénybevételével megszerzett személygépkocsira a megszerzéstől számított 3 éven belül casco biztosítás kötésére kerül sor, a biztosítási szerződésben a Kincstárt a szerzési támogatás és járulékai erejéig társbiztosítottként kell feltüntetni, és a biztosítónak a szerződéskötésről a Kincstárt tájékoztatnia kell, továbbá a szerződést meg kell küldenie a Kincstárnak. A személygépkocsi eltulajdonítása, illetve annak a forgalomból való végleges kivonását eredményező megrongálódása miatti kártérítés fizetése esetén annak összegéből a Kincstárt a szerzési támogatás 3 éves időtartamra számított időarányos részének megfelelő részösszeg, a jogosultat pedig a kártérítés e részösszeggel csökkentett összege illeti meg.
 
 ## 7. A szerzési támogatás visszafizetése
 
@@ -32,4 +32,4 @@ b) 36 hónapos időtartamra szóló részletfizetést
 
 (8) Az, akivel szemben a szerzési támogatás visszafizetését rendelték el, az elrendelésről szóló határozat véglegessé válásától számított három évig nem részesíthető szerzési támogatásban.
 
-[^8]: A 11/A. §-t a 151/2019. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
+[^9]: A 11/A. §-t a 151/2019. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
