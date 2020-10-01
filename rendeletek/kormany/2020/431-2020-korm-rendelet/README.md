@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-431-20-
 | 2020-09-19 | 2020-431-20-22.1 | 431/2020. (IX. 18.) Korm. rendelet |
 | 2020-09-21 | 2020-431-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-09-22 | 2020-431-20-22.3 | 2010: CXXX. törvény |
+| 2020-10-01 | 2020-431-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |

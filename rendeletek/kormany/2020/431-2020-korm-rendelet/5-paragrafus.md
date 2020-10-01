@@ -1,3 +1,15 @@
-## 4. §[^2]
+5. § (1) Az intézmény területére
 
-[^2]: A 4. § a 10. § (3) bekezdése alapján 2020. október 1-jén lép hatályba.
+a) az ott foglalkoztatott személyen,
+
+b) az ott szükséges karbantartási, illetve javítási munkát végző személyen,
+
+c) a jogszabályon alapuló kötelezettség teljesítése céljából érkezőn,
+
+d) a gyermeken, illetve a tanulón és
+
+e) a gyermeket, illetve a tanulót – a (2) bekezdés szerint – kísérő nagykorú személyen
+
+## kívül más személy nem léphet be.
+
+(2) Ha a gyermeket, illetve a tanulót az intézménybe kísérő vagy onnan hazakísérő egy fő nagykorú személy a maszkot az 1. § (1) bekezdésében meghatározott módon viseli, az intézmény területére a testhőmérséklet-mérési pontig beléphet.
