@@ -4,9 +4,9 @@
 
 4. § (1) Az Intézet
 
-a) koordinációs és másodelemzési tevékenységével részt vesz az emberi erőforrások minisztere – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 50. § (2) bekezdés a)–c) pontjában foglalt – népesedéspolitikai feladatainak megvalósításában,
+a)[^1] koordinációs és másodelemzési tevékenységével részt vesz a miniszter – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet (a továbbiakban: Ktfr.) 143/C. § (2) bekezdés a)–c) pontjában foglalt – népesedéspolitikai feladatainak megvalósításában,
 
-b) az a) pont szerinti tevékenysége körében figyelemmel kíséri a Ktfr. 50. § (2) bekezdés a) és b), valamint d)–f) pontjában foglalt feladatok ellátásának a Ktfr. 50. § (3) bekezdése szerinti megvalósulását,
+b)[^2] az a) pont szerinti tevékenysége körében figyelemmel kíséri a Ktfr. 143/C. § (2) bekezdés a), b), d)–i) és k) pontjában foglalt feladatok ellátásának a Ktfr. 143/C. § (4) bekezdése szerinti megvalósulását,
 
 c) az a) és b) pont szerinti tevékenységéhez kapcsolódóan elemzéseket végez, és javaslatokat dolgoz ki a Kormány számára, különösen
 
@@ -33,3 +33,6 @@ c) a társadalmi szerkezet (rétegződés és társadalmi mobilitás), a társad
 d) a népesedéssel, a párkapcsolatokkal, a gyermekvállalással kapcsolatos értékek, attitűdök, a társadalmi egyenlőtlenségek, a humántőke, a kulturális tőke és a szociális tőke tekintetében,
 
 e) a népesség egyes kiemelt csoportjai (különösen a nők, az idősek és a fiatalok) vonatkozásában.
+
+[^1]: A 4. § (1) bekezdés a) pontja a 444/2020. (IX. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdés b) pontja a 444/2020. (IX. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
