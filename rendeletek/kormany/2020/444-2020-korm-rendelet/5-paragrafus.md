@@ -1,0 +1,1 @@
+## 4. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 18/D. § (5) bekezdésében az „az emberi erőforrások miniszterének” szövegrész helyébe az „a családpolitikáért felelős miniszternek” szöveg lép.

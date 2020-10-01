@@ -1,0 +1,1 @@
+## 9. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklet 15. pontjában foglalt táblázat D:9 és D:10 mezőjében a „szociális- és nyugdíjpolitikáért” szövegrész helyébe a „szociál- és nyugdíjpolitikáért” szöveg lép.
