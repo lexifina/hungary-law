@@ -1,4 +1,4 @@
-## 154. § A miniszterek helyettesítése a Ksztv. 37. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
+## 154. §[^102] A miniszterek helyettesítése a Kit. 21. § (2) bekezdésében meghatározott esetekben a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
@@ -22,8 +22,12 @@ j) a pénzügyminisztert az innovációért és technológiáért felelős minis
 
 k) az innovációért és technológiáért felelős minisztert a pénzügyminiszter,
 
-l) a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert a miniszterelnök kabinetfőnöke,
+l) a családokért felelős tárca nélküli minisztert a Miniszterelnökséget vezető miniszter,
 
-m) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli minisztert a Miniszterelnökséget vezető miniszter
+m) a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert a miniszterelnök kabinetfőnöke,
+
+n) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli minisztert a Miniszterelnökséget vezető miniszter
 
 helyettesíti.
+
+[^102]: A 154. § a 437/2020. (IX. 22.) Korm. rendelet 5. §-ával megállapított szöveg.

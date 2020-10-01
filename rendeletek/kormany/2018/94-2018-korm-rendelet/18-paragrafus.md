@@ -1,3 +1,3 @@
-18. §[^19]
+18. §[^21]
 
-[^19]: A 18. §-t a 157/2019. (VI. 28.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^21]: A 18. §-t a 157/2019. (VI. 28.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

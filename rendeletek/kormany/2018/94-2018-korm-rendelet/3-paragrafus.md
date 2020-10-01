@@ -14,7 +14,7 @@ e) meghatározza a Kormány ülésének napirendjét, ennek keretében a miniszt
 
 f) kizárólagosan jogosult a Kormány részére előterjesztést benyújtani a Kormány ügyrendjének elfogadására és módosítására,
 
-g) kizárólagosan jogosult a Kormány részére előterjesztést benyújtani a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 28. §-a szerinti kabinet és a Ksztv. 29. §-a szerinti kormánybizottság megalakítására,
+g)[^1] kizárólagosan jogosult a Kormány részére előterjesztést benyújtani a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 8. §-a szerinti kabinet és a Kit. 9. §-a szerinti kormánybizottság megalakítására,
 
 h) kizárólagosan jogosult a Kormány részére előterjesztést benyújtani a Kormány törvényalkotási programjára és jogalkotási munkatervére vonatkozóan,
 
@@ -29,3 +29,5 @@ l) aláírja a Kormány feladat- és hatáskörét érintő egyéb, a Minisztere
 m) aláírja az állami vezetők állami vezetői szolgálati jogviszonyával kapcsolatos, a Miniszterelnöki Kormányiroda közigazgatási államtitkára által előkészített és részére felterjesztett okiratokat.
 
 (3) A miniszterelnök meghatározza a kormányzás általános irányait, ennek érdekében szervezi a Kormány mint testület munkáját, megállapítja a miniszterek között kialakított belső munkamegosztást.
+
+[^1]: A 3. § (2) bekezdés g) pontja a 437/2020. (IX. 22.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

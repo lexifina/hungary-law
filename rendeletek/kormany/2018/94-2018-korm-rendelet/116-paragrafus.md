@@ -46,20 +46,20 @@
 
 22. tudománypolitika koordinációjáért,
 
-23.[^62] szakképzésért,
+23.[^73] szakképzésért,
 
-23a.[^63] felnőttképzésért,
+23a.[^74] felnőttképzésért,
 
-24.[^64] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért,
+24.[^75] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért,
 
-25.[^65] foglalkoztatáspolitikáért,
+25.[^76] foglalkoztatáspolitikáért,
 
-26.[^66] társadalmi párbeszédért
+26.[^77] társadalmi párbeszédért
 
 felelős tagja.
 
-[^62]: A 116. § 23. pontja a 13/2020. (II. 7.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
-[^63]: A 116. § 23a. pontját a 13/2020. (II. 7.) Korm. rendelet 133. § (2) bekezdése iktatta be.
-[^64]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^65]: A 116. § 25. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
-[^66]: A 116. § 26. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^73]: A 116. § 23. pontja a 13/2020. (II. 7.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
+[^74]: A 116. § 23a. pontját a 13/2020. (II. 7.) Korm. rendelet 133. § (2) bekezdése iktatta be.
+[^75]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^76]: A 116. § 25. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^77]: A 116. § 26. pontját a 341/2019. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

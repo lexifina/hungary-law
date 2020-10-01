@@ -1,11 +1,3 @@
-## 97. § A miniszter a gyermek- és ifjúságpolitikáért való felelőssége keretében
+97. §[^60]
 
-a) felel a Kormány gyermek- és ifjúságpolitikájának kialakításáért,
-
-b) meghatározza a gyermek- és ifjúságpolitikához tartozó területek szakmai felügyeleti rendszerét és annak működését,
-
-c) koordinálja a határon túli ifjúsággal való együttműködés rendszerét,
-
-d)[^51] ellátja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogramból fakadó feladatait, amelynek ellátásához és az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a miniszter az Erzsébet Ifjúsági Alap Nonprofit Közhasznú Kft. és a Nemzeti Tehetség Központ Nonprofit Kft. szolgáltatásait veszi igénybe.
-
-[^51]: A 97. § d) pontja a 230/2019. (IX. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^60]: A 97. §-t a 437/2020. (IX. 22.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.

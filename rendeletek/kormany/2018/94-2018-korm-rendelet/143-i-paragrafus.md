@@ -1,0 +1,1 @@
+## 143/H. § A miniszter a szociál- és nyugdíjpolitikáért való felelőssége keretében a nyugdíjjárulék- és nyugdíj-biztosításijárulék-fizetés szabályozásáért felelős miniszterrel együttműködve előkészíti a társadalombiztosítási nyugellátásokra vonatkozó jogszabályokat.
