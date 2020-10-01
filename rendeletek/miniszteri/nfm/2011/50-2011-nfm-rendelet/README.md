@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-50-20-2
 | 2018-10-01 | 2011-50-20-2W.24 | 19/2018. (IX. 27.) ITM rendelet |
 | 2019-10-01 | 2011-50-20-2W.25 | 37/2019. (IX. 30.) ITM rendelet |
 | 2020-01-01 | 2011-50-20-2W.26 | 37/2019. (IX. 30.) ITM rendelet |
+| 2020-10-01 | 2011-50-20-2W.27 | 32/2020. (IX. 30.) ITM rendelet |
