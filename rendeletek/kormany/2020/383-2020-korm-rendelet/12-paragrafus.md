@@ -1,4 +1,4 @@
-## 11. §[^16]
+## 11. §[^11]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 3. §, a 4. § (4) bekezdése, az 5. § és a 7. § 2021. január 1-jén lép hatályba.
 
-[^16]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
