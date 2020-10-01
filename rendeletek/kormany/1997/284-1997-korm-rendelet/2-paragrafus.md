@@ -10,7 +10,7 @@
 
 (6)[^9]
 
-(7)[^10]
+(7)[^10] Az influenza megbetegedés elleni védőoltáshoz oltóanyag a 2020. és 2021. évben térítésmentesen igényelhető.
 
 (8)[^11] A kötelező egészségbiztosítás ellátásai keretébe nem tartozó és a 2. számú mellékletben nem szereplő egészségügyi szolgáltatások térítési díját az egészségügyi szolgáltató az 1. § rendelkezéseinek figyelembevételével állapítja meg, azzal, hogy a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálásért nem kérhető térítési díj.
 
@@ -31,7 +31,7 @@
 [^7]: A 2. § (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdés d) pontja hatályon kívül helyezte.
 [^8]: A 2. § (5) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdés d) pontja hatályon kívül helyezte.
 [^9]: A 2. § új (4) bekezdését a 16/2007. (II. 13.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. A (4) bekezdés számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (6) bekezdésre változtatta. A 2. § (6) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
-[^10]: A 2. § új (5) bekezdését a 41/2007. (III. 13.) Korm. rendelet 18. §-a iktatta be, egyidejűleg az eredeti (5) bekezdésének számozását (6) bekezdésre változtatta. Az (5) bekezdés számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (7) bekezdésre változtatta. A 2. § (7) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^10]: A 2. § (7) bekezdését újonnan a 433/2020. (IX. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^11]: A 2. § (6) – eredeti (3) – bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 2. §-a (8) bekezdésre változtatta. A 2. § (8) bekezdése a 35/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^12]: A 2. § (8a) bekezdését a 3/2017. (I. 12.) Korm. rendelet 1. §-a iktatta be.
 [^13]: A 2. § (9) bekezdését a 173/2007. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (13) bekezdése szerint módosított szöveg.
