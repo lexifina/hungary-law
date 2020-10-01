@@ -1,5 +1,3 @@
-## 23. §
-
 ## 9. Az álláshely-nyilvántartásra vonatkozó szabályok
 
 24. § (1) Az álláshely-nyilvántartást a kormányzati személyügyi igazgatásra kijelölt szerv vezeti.
