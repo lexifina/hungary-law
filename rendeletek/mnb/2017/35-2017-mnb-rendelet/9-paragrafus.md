@@ -28,7 +28,7 @@ követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A
 
 (10) Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a kedvezményezett felé a (7) és (8) bekezdésben foglaltaknak a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató útján, a beszedési megbízás hozzá történt beérkezésével azonos módon tesz eleget.
 
-(11)[^9] Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.
+(11)[^10] Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.
 
 (12) A (7) bekezdés szerint indokolt visszautasítás esetén a keretszerződés alapján a tényleges és közvetlenül felmerült költséggel arányos díj számítható fel.
 
@@ -36,4 +36,4 @@ követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A
 
 (14) A visszautasított fizetési megbízást teljesítésre át nem vettnek kell tekinteni.
 
-[^9]: A 9. § (11) bekezdése az 59. §-sal megállapított szöveg.
+[^10]: A 9. § (11) bekezdése az 59. §-sal megállapított szöveg.
