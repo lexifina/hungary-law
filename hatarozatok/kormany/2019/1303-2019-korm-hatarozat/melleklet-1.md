@@ -1,16 +1,8 @@
 ## 1. egyetért az MVM NET Adatközpont Korlátolt Felelősségű Társaság (a továbbiakban: Adatközpont Kft.) által a Göd külterület 015/7 helyrajzi számon megkezdett adatközpont (a továbbiakban: Adatközpont) állami érdekű kormányzati adatközpontként történő kialakításával kapcsolatos koncepcióval és az építészeti – értve ezalatt különösen az építési, gépészeti, villamossági, biztonságtechnikai és mindezek rendszerfelügyeleti rendszereinek megvalósítási feladatait – beruházásnak a belügyminiszter által meghatározott műszaki-szakmai igényekkel összhangban az Adatközpont Kft. 7. pont szerinti közreműködésével történő előkészítésével;
 
-## 2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság útján gondoskodjon a Göd 015/7 helyrajzi számú ingatlannak az Adatközpont Kft. tulajdonába kerülése érdekében szükséges, legfeljebb a független szakértő által megállapított forgalmi értékének megfelelő mértékű tőkeemelés biztosításáról;
+## 2.[^1]
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: 2019. június 30.
-
-## 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság közreműködésével – gondoskodjon az Adatközpont Kft. 100%-os tulajdonának – legfeljebb a független szakértő által megállapított forgalmi értéken – az állam javára nem pénzbeli juttatás formájában, osztalékként történő átadásáról, azzal, hogy a tranzakció eredményeként az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság által teljesítendő pénzbeli osztalékfizetési kötelezettség csökkentésre kerül az Adatközpont Kft. üzletrészének független szakértő által meghatározott értékével;
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: 2019. június 30.
+## 3.[^2]
 
 ## 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az 1. pont szerinti építészeti beruházás az infrastruktúra-fejlesztésekkel összefüggésben, a belügyminiszter által meghatározott kormányzati célokkal és állami követelményekkel összhangban valósuljon meg;
 
@@ -20,43 +12,39 @@
 
 ## Határidő: folyamatos
 
-## 5. az Adatközpont előkészítésének kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, a belügyminiszter bevonásával;
+## 5.[^3] az Adatközpont beruházása (a továbbiakban: Beruházás) előkészítésének kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, a belügyminiszter és a belügyminiszter útján a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) bevonásával;
 
-## 6. az Adatközpont a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), e), f), n), o) és p) pontja szerinti, 2019. évi pénzügyi teljesítéssel érintett előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 1 000 000 000 forint költségvetési forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy a teljes előkészítést legkésőbb 2020. március 31. napjáig kell megvalósítani;
+## 6.[^4] a Beruházás előkészítésére és megvalósítására a Beruházási Ügynökséget jelöli ki, a Beruházás során a Beruházási Ügynökség együttműködik az Adatközpont Kft.-vel;
 
-## 7. egyetért azzal, hogy az Adatközpont 6. pont szerinti előkészítési fázisainak megvalósítója az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendeletben kijelölt Beruházási Ügynökség legyen, a beruházás szakmai megvalósítása során a Beruházási Ügynökség együttműködik az Adatközpont Kft.-vel;
+## 7.[^5] a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), c), e), f), n), o) és p) pontja szerinti előkészítési fázisai 2021. április 30. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 1 465 580 000 forintban határozza meg;
 
-## 8. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások címet a 3. Egyedi magasépítési beruházások alcím, 4. Gödi adatközpont jogcímcsoport, 1. Beruházás előkészítés jogcímmel egészíti ki;
+## 8.[^6] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 29. Gödi adatközpont beruházás előkészítése alcímmel egészíti ki;
 
 ## Felelős: pénzügyminiszter
 
 ## Határidő: azonnal
 
-## 9. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a beruházás előkészítési feladatainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és a kincstári díjakkal együtt – összesen 1 000 000 000 forint egyszeri átcsoportosítását rendeli el, elszámolási, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel, a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcím, 4. Gödi adatközpont jogcímcsoport, 1. Beruházás előkészítés jogcím javára, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
+## 9.[^7] felhívja a pénzügyminisztert, hogy gondoskodjon a 7. pont szerinti összeg 2020. évi részének finanszírozása érdekében 641 280 150 forint rendelkezésre állásáról a 8. pont szerinti előirányzaton;
 
 ## Felelős: pénzügyminiszter
 
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
 ## Határidő: azonnal
 
-## Az elszámolás és a fel nem használt rész visszafizetése tekintetében
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: 2019. december 31.
-
-## 10. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a beruházás előkészítése érdekében a 8. pont szerinti kiadási előirányzat terhére vállalható kötelezettségek 2020. évre vonatkozó felső korlátját 1 800 000 000 forintban állapítja meg;
-
-## 11. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és a pénzügyminisztert, hogy gondoskodjanak a 2020. évi előkészítési szakaszok megvalósításához szükséges költségvetési fedezet rendelkezésre állásáról;
+## 10.[^8] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a pénzügyminiszter bevonásával – gondoskodjon a 7. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## pénzügyminiszter
 
-## Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+## Határidő: a felmerülés ütemében
+
+## 11.[^9] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján nyújtson be előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezéséről, valamint – a belügyminiszter bevonásával – az Adatközpont üzemeltetési modelljének bemutatásával;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## belügyminiszter
+
+## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően
 
 ## 12. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy
 
@@ -76,7 +64,7 @@
 
 ## Határidő: az Adatközpont részeként megvalósuló építési beruházás lezárását követően azonnal
 
-## 14. felhívja a belügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával dolgozza ki és terjessze a Kormány elé
+## 14.[^10] felhívja a belügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával dolgozza ki és terjessze a Kormány elé
 
 ## a) az Adatközpont megvalósítása és működtetése érdekében szükséges jogszabályi környezet kialakítására, valamint
 
@@ -88,9 +76,9 @@
 
 ## innovációért és technológiáért felelős miniszter
 
-## Határidő: 2021. március 31.
+## Határidő: 2022. március 31.
 
-## 15. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a belügyminiszter és az innovációért és technológiáért felelős miniszter bevonásával vizsgálja meg az állami tulajdonú gazdasági társaságok adatközpont-infrastruktúráját, igényeit, valamint az Adatközpont teljes kialakítását követően felmerülő működési költségeket, arra is tekintettel, hogy annak forrásai csak a 2022. évi központi költségvetést terheljék.
+## 15.[^11] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a belügyminiszter és az innovációért és technológiáért felelős miniszter bevonásával vizsgálja meg az állami tulajdonú gazdasági társaságok adatközpont-infrastruktúráját, igényeit, valamint az Adatközpont teljes kialakítását követően felmerülő működési költségeket, arra is tekintettel, hogy annak forrásai csak a 2022. évi központi költségvetést terheljék.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -98,7 +86,39 @@
 
 ## innovációért és technológiáért felelős miniszter
 
-## Határidő: 2021. március 31.
+## Határidő: 2022. március 31.
+
+## 16.[^12] egyetért az Adatközpont Kft. feladatainak 2020–2021. évi finanszírozásával;
+
+## 17.[^13] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon az Adatközpont Kft. 2020. évi feladataihoz szükséges 150 000 000 forint biztosításáról a 2020. évi Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 2. Társaságokkal kapcsolatos kiadások jogcímcsoport, 4. Az MNV Zrt. tulajdonosi joggyakorlásába tartozó társaságok támogatása jogcím terhére;
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## Határidő: azonnal
+
+## 18.[^14] felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezésére indokolt esetben gondoskodjon az Adatközpont Kft. 2021. évi feladataihoz szükséges forrás biztosításáról a 2021. évi Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 2. Társaságokkal kapcsolatos kiadások jogcímcsoport, 1. Az MNV Zrt. tulajdonosi joggyakorlásába tartozó társaságok forrásjuttatásai jogcím javára;
+
+## Felelős: pénzügyminiszter
+
+## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## Határidő: a felmerülés ütemében
+
+## 19.[^15] felhívja a pénzügyminisztert, hogy a belügyminiszter kezdeményezésére gondoskodjon a Belügyminisztériumnak a Beruházás előkészítéséhez kapcsolódó 2021. évi feladatainak ellátásához szükséges 100 000 000 forint biztosításáról a 2021. évi Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 1. Belügyminisztérium igazgatása cím javára;
+
+## Felelős: pénzügyminiszter
+
+## belügyminiszter
+
+## Határidő: a felmerülés ütemében
+
+## 20.[^16] felhívja a pénzügyminisztert, hogy a belügyminiszter kezdeményezésére gondoskodjon az Adatközpont informatikai infrastruktúrájával kapcsolatos fejlesztési feladatok végrehajtása érdekében 2 650 000 000 forint biztosításáról a központi költségvetés Belügyminisztérium fejezetében.
+
+## Felelős: pénzügyminiszter
+
+## belügyminiszter
+
+## Határidő: a felmerülés ütemében
 
 1. melléklet az 1303/2019. (V. 27.) Korm. határozathoz
 
@@ -163,3 +183,20 @@
 |  |  | egyéb: |  | azonnal |  | 1 000 000 000 |  | 1 000 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |
+
+[^1]: A 2. pontot az 1624/2020. (X. 1.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 3. pontot az 1624/2020. (X. 1.) Korm. határozat 4. pontja visszavonta.
+[^3]: Az 5. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 7. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 8. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 9. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: A 10. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^9]: A 11. pont az 1624/2020. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^10]: A 14. pont az 1624/2020. (X. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^11]: A 15. pont az 1624/2020. (X. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^12]: A 16. pontot az 1624/2020. (X. 1.) Korm. határozat 2. pontja iktatta be.
+[^13]: A 17. pontot az 1624/2020. (X. 1.) Korm. határozat 2. pontja iktatta be.
+[^14]: A 18. pontot az 1624/2020. (X. 1.) Korm. határozat 2. pontja iktatta be.
+[^15]: A 19. pontot az 1624/2020. (X. 1.) Korm. határozat 2. pontja iktatta be.
+[^16]: A 20. pontot az 1624/2020. (X. 1.) Korm. határozat 2. pontja iktatta be.
