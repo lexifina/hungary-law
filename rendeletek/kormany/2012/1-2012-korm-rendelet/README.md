@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1-20-22
 | 2020-05-13 | 2012-1-20-22.23 | 114/2019. (V. 15.) Korm. rendelet |
 | 2020-06-18 | 2012-1-20-22.24 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2020-08-15 | 2012-1-20-22.25 | 106/2020. (IV. 10.) Korm. rendelet |
+| 2020-10-01 | 2012-1-20-22.26 | 444/2020. (IX. 30.) Korm. rendelet |
