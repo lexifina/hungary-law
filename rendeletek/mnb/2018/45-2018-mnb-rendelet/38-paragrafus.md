@@ -1,1 +1,0 @@
-## alapján történő leválogatására.
