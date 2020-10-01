@@ -1,0 +1,1 @@
+A családok támogatásáról szóló 1998. évi LXXXIV. törvény 51. § b) pont ba) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 1. és 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
