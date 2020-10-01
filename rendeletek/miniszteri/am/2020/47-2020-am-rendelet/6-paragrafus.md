@@ -1,0 +1,3 @@
+## 5. § A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból a tenyésztési programot végrehajtó lótenyésztők részére nyújtandó átmeneti támogatás igénybevételének részletes feltételeiről szóló 31/2020. (VI. 22.) AM rendelet 2. § (2) bekezdésében a „250 millió forint” szövegrész helyébe a „320 millió forint” szöveg lép.
+
+## 5. A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Program keretében a HORECA szektorban és a borturizmusban érintett bortermelők részére nyújtandó átmeneti támogatás igénybevételének részletes feltételeiről szóló 38/2020. (VII. 30.) AM rendelet módosítása

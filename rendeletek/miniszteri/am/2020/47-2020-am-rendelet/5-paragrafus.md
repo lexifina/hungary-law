@@ -1,0 +1,3 @@
+## 4. § A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból a halgazdálkodási tevékenységet végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének részletes feltételeiről szóló 30/2020. (VI. 22.) AM rendelet 2. § (2) bekezdésében az „500 millió forint” szövegrész helyébe az „544 millió forint” szöveg lép.
+
+## 4. A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból a tenyésztési programot végrehajtó lótenyésztők részére nyújtandó átmeneti támogatás igénybevételének részletes feltételeiről szóló 31/2020. (VI. 22.) AM rendelet módosítása
