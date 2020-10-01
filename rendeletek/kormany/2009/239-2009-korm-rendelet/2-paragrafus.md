@@ -28,11 +28,13 @@
 
 12. szálláshely-kezelő szoftver: a szálláshely-szolgáltató által kötelezően használt olyan informatikai program, mely a Nemzeti Turisztikai Adatszolgáltató Központ számára adatok továbbítására alkalmas,
 
+12a.[^7] szálláshely-közvetítői tevékenység: olyan, a szálláshely-szolgáltatók és a fogyasztók részére nyújtott kereskedelmi szolgáltatás, amelynek célja a szálláshely-szolgáltatók által nyújtott kínálatnak a fogyasztók által támasztott szálláshely kereslettel történő összekapcsolása, ami biztosítja a szálláshely-közvetítői tevékenység során az információnyújtás mellett a szálláshely-szolgáltatások értékesítését,
+
 13. szálláshely-szolgáltatás: a Kertv. 2. § 23. pontjában meghatározott fogalom,
 
 14. szálloda: az a kizárólag szálláshely-szolgáltatás folytatása céljából létesített szálláshelytípus, amelyben a szálláshely és reggeli szolgáltatása mellett egyéb szolgáltatásokat is nyújtanak a szálláshely-szolgáltatás keretében, és ahol a hasznosított szobák száma legalább tizenegy,
 
-15.[^7] szoba: a szálláshely azon önállóan értékesíthető, egyedi hozzáféréssel rendelkező egysége, amely egy vagy több helyiségből áll, és egy vagy több vendég egyidejű elszállásolására alkalmas. Kemping, üdülőháztelep és nyaralóhajó szálláshelytípus esetén a szoba megfelelője a lakóegység vagy a területegység,
+15.[^8] szoba: a szálláshely azon önállóan értékesíthető, egyedi hozzáféréssel rendelkező egysége, amely egy vagy több helyiségből áll, és egy vagy több vendég egyidejű elszállásolására alkalmas. Kemping, üdülőháztelep és nyaralóhajó szálláshelytípus esetén a szoba megfelelője a lakóegység vagy a területegység,
 
 16. üdülőháztelep: az a kizárólag szálláshely-szolgáltatás folytatása céljából, közművesített területen létesített szálláshelytípus, amelyben a vendégek részére a szállást különálló épületben vagy önálló bejárattal rendelkező épületrészben (üdülőegységben) nyújtják, amennyiben az e célra hasznosított szálláshelyek száma eléri a hármat, függetlenül a szobák vagy ágyak számától.
 
@@ -41,4 +43,5 @@
 [^4]: A 2. § 4a. pontját a 345/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § 6. pontja a 383/2020. (VIII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § 6a. pontját a 345/2020. (VII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^7]: A 2. § 15. pontja a 345/2020. (VII. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § 12a. pontját a 383/2020. (VIII. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^8]: A 2. § 15. pontja a 345/2020. (VII. 14.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## a tevékenység megkezdéséről a bejelentés megtörténtéről szóló igazolás megküldésével értesíti.
 
-7/A. §[^40] (1) A 7. § c) pontjában foglaltakat a magánszálláshely szálláshelytípus esetén is alkalmazni kell.
+7/A. §[^42] (1) A 7. § c) pontjában foglaltakat a magánszálláshely szálláshelytípus esetén is alkalmazni kell.
 
 (2) A jegyző a hatósági ellenőrzés elvégzése érdekében éves ellenőrzési tervet készít.
 
@@ -30,4 +30,4 @@ d) a szálláshely megfelel a bejelentésben foglalt szálláshely-üzemeltetés
 
 (11) A turizmusért felelős miniszter minden év április 15. napjáig megküldi az államháztartásért felelős miniszternek és a helyi önkormányzatokért felelős miniszternek a következő évben a (10) bekezdés szerinti támogatáselvonással érintett önkormányzatok listáját.
 
-[^40]: A 7/A. §-t a 155/2019. (VI. 27.) Korm. rendelet 8. §-a iktatta be.
+[^42]: A 7/A. §-t a 155/2019. (VI. 27.) Korm. rendelet 8. §-a iktatta be.
