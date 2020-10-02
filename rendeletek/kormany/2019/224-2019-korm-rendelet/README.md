@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-224-20-
 | --- | --- | --- |
 | 2019-09-26 | 2019-224-20-22.1 | 224/2019. (IX. 25.) Korm. rendelet |
 | 2020-05-14 | 2019-224-20-22.2 | 201/2020. (V. 13.) Korm. rendelet |
+| 2020-10-02 | 2019-224-20-22.3 | 449/2020. (X. 1.) Korm. rendelet |
