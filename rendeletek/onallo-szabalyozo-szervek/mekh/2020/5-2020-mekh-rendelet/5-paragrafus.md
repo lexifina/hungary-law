@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. §[^5]
 
-[^2]: A 4. § a 8. § (2) bekezdése alapján 2020. október 1-jén lép hatályba.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
