@@ -2,13 +2,13 @@
 
 ## A kérelem
 
-13. §[^63] (1) Az úti okmány kiadására irányuló eljárás – az Utv. 10. § (3) bekezdésében meghatározott kivétellel – kérelemre indul.
+13. §[^62] (1) Az úti okmány kiadására irányuló eljárás – az Utv. 10. § (3) bekezdésében meghatározott kivétellel – kérelemre indul.
 
-(2)[^64] Az útlevél iránti kérelemről az általános hatáskörű útlevélhatóság, a külpolitikáért felelős miniszter, a járási hivatal vagy a konzuli tisztviselő a kérelemnek megfelelő adattartalmú, elektronikus kérelmet állít elő, amely tartalmazza
+(2)[^63] Az útlevél iránti kérelemről az általános hatáskörű útlevélhatóság, a külpolitikáért felelős miniszter, a járási hivatal vagy a konzuli tisztviselő a kérelemnek megfelelő adattartalmú, elektronikus kérelmet állít elő, amely tartalmazza
 
 a) a kérelmező személyi adatait, személyazonosságát igazoló hatósági igazolványának számát, kézbesítési címét, valamint kapcsolattartási adatát,
 
-b)[^65] az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá – az egészségi állapot miatti meghatalmazotti eljárás, illetve ezen adat rendelkezésre bocsátásának átmeneti vagy végleges képtelensége kivételével – a második biometrikus adatát,
+b)[^64] az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá – az egészségi állapot miatti meghatalmazotti eljárás, illetve ezen adat rendelkezésre bocsátásának átmeneti vagy végleges képtelensége kivételével – a második biometrikus adatát,
 
 c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 
@@ -28,6 +28,6 @@ a) az elektronikus kérelmet, valamint a csatolt mellékleteket továbbítja az 
 
 b) a diplomata- és külügyi szolgálati útlevél iránti kérelem formanyomtatványát és a kinyomtatott és aláírt kérelmet, valamint a csatolt mellékleteket megküldi a külpolitikáért felelős miniszternek, az elektronikus kérelmet elektronikus úton továbbítja a külpolitikáért felelős miniszternek.
 
-[^63]: A 13. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^64]: A 13. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^65]: A 13. § (2) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^62]: A 13. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^63]: A 13. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^64]: A 13. § (2) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
