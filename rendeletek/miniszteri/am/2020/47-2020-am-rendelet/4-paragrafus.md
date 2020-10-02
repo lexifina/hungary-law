@@ -1,3 +1,5 @@
-## 3. § A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból a baromfi-, illetve sertéstartók részére nyújtandó átmeneti támogatás igénybevételének részletes feltételeiről szóló 29/2020. (VI. 22.) AM rendelet 7. § (2) bekezdésében a „2 milliárd 750 millió forint” szövegrész helyébe a „3 milliárd 230 millió forint” szöveg lép.
+## 3. §[^4]
 
 ## 3. A Gazdaságvédelmi Akcióterv részeként kidolgozott Nemzeti Élelmiszergazdasági Válságkezelő Programból a halgazdálkodási tevékenységet végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének részletes feltételeiről szóló 30/2020. (VI. 22.) AM rendelet módosítása
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
