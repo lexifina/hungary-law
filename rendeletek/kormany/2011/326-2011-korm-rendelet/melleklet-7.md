@@ -1,3 +1,3 @@
-7. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^414]
+7. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^413]
 
-[^414]: A 7. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (5) bekezdésével megállapított szöveg.
+[^413]: A 7. melléklet a 90/2015. (IV. 9.) Korm. rendelet 14. § (5) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-2/A. §[^27] (1) E rendelet alkalmazásában:
+2/A. §[^26] (1) E rendelet alkalmazásában:
 
 a) külföldi fegyveres erő állományának tagja: a Magyarországon szolgálati céllal tartózkodó külföldi fegyveres erőknek és a Magyarországon felállított nemzetközi katonai parancsnokságok állományának a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény (a továbbiakban: Küfetv.) 2. § (1) bekezdés b) pontja szerinti tagja;
 
@@ -8,4 +8,4 @@ b) külföldi fegyveres erő állománya tagjának hozzátartozója: a Küfetv. 
 
 (3) Ahol e rendelet külföldi hatóság által kiállított okmány vagy okirat hitelesített másolatát és annak hiteles fordítását írja elő, ott a Küfetv. 13. §-a alapján regisztrációs adó fizetési kötelezettség alól mentes gépjárművek forgalomba helyezésekor a külföldi fegyveres erő állományának tagja és hozzátartozója számára a külföldi hatóság által kiállított okmányról az állampolgársága szerinti állam magyarországi külképviselete által készített fordítás és másolat is elfogadható.
 
-[^27]: A 2/A. §-t a 319/2016. (X. 25.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 2/A. §-t a 319/2016. (X. 25.) Korm. rendelet 1. §-a iktatta be.

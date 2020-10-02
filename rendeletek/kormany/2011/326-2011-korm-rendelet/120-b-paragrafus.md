@@ -1,4 +1,4 @@
-## 120/A. §[^397] E rendeletnek a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosításáról szóló 319/2016. (X. 25.) Korm. rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit a Módr. hatálybalépésekor[^398] folyamatban lévő ügyekben is alkalmazni kell.
+## 120/A. §[^396] E rendeletnek a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosításáról szóló 319/2016. (X. 25.) Korm. rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit a Módr. hatálybalépésekor[^397] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^397]: A 120/A. §-t a 319/2016. (X. 25.) Korm. rendelet 7. §-a iktatta be.
-[^398]: A hatálybalépés időpontja 2016. október 28.
+[^396]: A 120/A. §-t a 319/2016. (X. 25.) Korm. rendelet 7. §-a iktatta be.
+[^397]: A hatálybalépés időpontja 2016. október 28.
