@@ -24,4 +24,6 @@ Határidő: azonnal
 
 9. Ez a határozat a 2020. október 1-jén lép hatályba.
 
-10. Hatályát veszti a mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos kinevezéséről szóló 1466/2018. (IX. 25.) Korm. határozat.
+10.[^1]
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
