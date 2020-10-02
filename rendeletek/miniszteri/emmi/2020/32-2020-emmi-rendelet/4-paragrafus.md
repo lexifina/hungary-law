@@ -1,3 +1,3 @@
-## „(3) A szakorvos az igazolás II. része szerinti adatokat továbbítja, vagy – a 2. § (2) bekezdése esetén – az igazolás II. részét tölti ki, ha azt állapítja meg, hogy a gyermek – tartós betegség, illetve súlyos fogyatékosság hiányában – a Cst. 4. § f) pont fa) alpontjában foglaltaknak nem felel meg.
+## 3. §[^4]
 
-## (4) A szakorvos az igazolás III. része szerinti adatokat továbbítja, vagy – a 2. § (2) bekezdése esetén – az igazolás III. részét tölti ki, ha a rendszeres felülvizsgálat alkalmával azt állapítja meg, hogy a gyermek állapotában olyan kedvező változás (javulás, gyógyulás) állt be, ami alapján a családi pótlékra jogosult a továbbiakban nem tarthat igényt a magasabb mértékű ellátásra.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
