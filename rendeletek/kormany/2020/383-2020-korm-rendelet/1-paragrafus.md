@@ -4,9 +4,8 @@
 
 (2)[^2]
 
-(3) Az R1. 2. §-a a következő 12a. ponttal egészül ki:
-
-(E rendelet alkalmazásában:)
+(3)[^3]
 
 [^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 1. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

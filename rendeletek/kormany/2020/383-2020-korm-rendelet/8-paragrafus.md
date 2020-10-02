@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. §[^12]
 
-[^7]: A 7. § a 12. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^12]: A 7. § a 12. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.

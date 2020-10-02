@@ -1,21 +1,15 @@
-## 3. §[^3]
+## 3. §[^5]
 
-4. § (1) Az R2. 2. § 1. pontja helyébe a következő rendelkezés lép:
+4. § (1)[^6]
 
-(E rendelet alkalmazásában:)
+(2)[^7]
 
-## „1. regisztrációs szám: a szálláshely-szolgáltató regisztrációja során a szálláshely nyilvántartása érdekében létrehozott egyedi nyilvántartási szám;”
+(3)[^8]
 
-(2) Az R2. 2. §-a a következő 1a. ponttal egészül ki:
+(4)[^9]
 
-(E rendelet alkalmazásában:)
-
-## „1a. rendelkezési nyilvántartás: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló jogszabály szerinti szolgáltatás;”
-
-(3)[^4]
-
-(4)[^5]
-
-[^3]: A 3. § a 12. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
-[^4]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 4. § (4) bekezdése a 12. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^5]: A 3. § a 12. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^6]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 4. § (4) bekezdése a 12. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
