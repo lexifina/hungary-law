@@ -1,6 +1,6 @@
 ## 3. Az országos jelentési rendszer
 
-12. § (1)[^40] Az országos jelentési rendszerbe
+12. § (1)[^51] Az országos jelentési rendszerbe
 
 a) óvodai és iskolai szociális segítő tevékenység esetén a jelentési időszakot követő hónap 15-éig,
 
@@ -16,4 +16,4 @@ d) az a)–c) pontban nem említett szolgáltatások esetén évente kétszer, j
 
 (3) A titkos menedékházként működő családok átmeneti otthonának adatait a fenntartó nem jelenti az országos jelentési rendszerbe.
 
-[^40]: A 12. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^51]: A 12. § (1) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.

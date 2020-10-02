@@ -4,11 +4,11 @@
 
 a) amelyet a Szociális és Gyermekvédelmi Főigazgatóság tart fenn,
 
-b)[^8] amelynek működéséhez a fenntartó részére – bármely szociális szolgáltatás vagy gyermekjóléti, gyermekvédelmi szolgáltató tevékenység, ide nem értve a gyermekétkeztetést (a továbbiakban együtt: szolgáltatás) után – a központi költségvetésről szóló törvény alapján támogatást állapítottak meg,
+b)[^9] amelynek működéséhez a fenntartó részére – bármely szociális szolgáltatás vagy gyermekjóléti, gyermekvédelmi szolgáltató tevékenység, ide nem értve a gyermekétkeztetést (a továbbiakban együtt: szolgáltatás) után – a központi költségvetésről szóló törvény alapján támogatást állapítottak meg,
 
-c)[^9] amely jelzőrendszeres házi segítségnyújtást vagy családsegítést és gyermekjóléti szolgáltatást nyújt, ha e szolgáltatására a fenntartó hatályos ellátási szerződéssel rendelkezik, vagy
+c)[^10] amely jelzőrendszeres házi segítségnyújtást vagy családsegítést és gyermekjóléti szolgáltatást nyújt, ha e szolgáltatására a fenntartó hatályos ellátási szerződéssel rendelkezik, vagy
 
-d)[^10] amely fejlesztő foglalkoztatást vagy gyermekek esélynövelő szolgáltatását nyújt, ha e szolgáltatására a fenntartó hatályos – a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet szerinti – finanszírozási szerződéssel rendelkezik.
+d)[^11] amely fejlesztő foglalkoztatást vagy gyermekek esélynövelő szolgáltatását nyújt, ha e szolgáltatására a fenntartó hatályos – a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló kormányrendelet szerinti – finanszírozási szerződéssel rendelkezik.
 
 (2) Nem terjed ki az igénybevevői nyilvántartásba történő adatszolgáltatási kötelezettség az engedélyesre, ha
 
@@ -20,12 +20,12 @@ c) a családok átmeneti otthona titkos menedékházként működik.
 
 (3) Az adatszolgáltatási kötelezettség az (1) bekezdés szerinti engedélyesek által nyújtott valamennyi szolgáltatásra kiterjed az Szt. 20/C. § (2) bekezdésében és a Gyvt. 139. § (3) bekezdésében foglaltak kivételével.
 
-(3a)[^11] Ha a családi bölcsődére, munkahelyi bölcsődére az (1)–(3) bekezdés alapján nem terjed ki az adatszolgáltatási kötelezettség, de olyan gyermeket lát el, akinek törvényes képviselője a Gazdaságfejlesztési és Innovációs Operatív Program keretében a kisgyermeket nevelők munkaerő-piaci visszatérésének támogatására irányuló továbbadott térítésidíj-támogatásban részesül, e gyermekre adatot kell szolgáltatni az igénybevevői nyilvántartásba.
+(3a)[^12] Ha a családi bölcsődére, munkahelyi bölcsődére az (1)–(3) bekezdés alapján nem terjed ki az adatszolgáltatási kötelezettség, de olyan gyermeket lát el, akinek törvényes képviselője a Gazdaságfejlesztési és Innovációs Operatív Program keretében a kisgyermeket nevelők munkaerő-piaci visszatérésének támogatására irányuló továbbadott térítésidíj-támogatásban részesül, e gyermekre adatot kell szolgáltatni az igénybevevői nyilvántartásba.
 
-(4)[^12] Az adatszolgáltatás az igénybevevők Szt., illetve Gyvt. szerinti adatainak a 4–6. § szerinti rögzítéséből, a 7. § szerinti időszakos jelentésből és a szolgáltatás tartalmával kapcsolatos, 7/A. § szerinti adatszolgáltatásból áll.
+(4)[^13] Az adatszolgáltatás az igénybevevők Szt., illetve Gyvt. szerinti adatainak a 4–6. § szerinti rögzítéséből, a 7. § szerinti időszakos jelentésből és a szolgáltatás tartalmával kapcsolatos, 7/A. § szerinti adatszolgáltatásból áll.
 
-[^8]: A 3. § (1) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 3. § (1) bekezdés c) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^10]: A 3. § (1) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 59. §-a iktatta be, szövege a 226/2018. (XII. 4.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^11]: A 3. § (3a) bekezdését a 322/2018. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
-[^12]: A 3. § (4) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés c) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 59. §-a iktatta be, szövege a 226/2018. (XII. 4.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (3a) bekezdését a 322/2018. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
+[^13]: A 3. § (4) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
