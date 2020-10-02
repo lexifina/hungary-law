@@ -28,8 +28,14 @@ k) végzi a zárszámadás előkészítésével kapcsolatos ügyviteli, nyilván
 
 l) ellátja a kezelésében lévő adatok tekintetében a közérdekű adatok igénylésével összefüggő feladatokat;
 
-m)[^12] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat.
+m)[^12] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat;
+
+n)[^13] működteti a törzsadat-nyilvántartást.
+
+(3)[^14] A (2) bekezdés n) pontja szerinti feladat ellátása során a törzsadat-nyilvántartás működtetését adatkezelőként a Kincstár végzi, a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. mint adatfeldolgozó közreműködésével.
 
 [^10]: A 9. § (1) bekezdése a 207/2018. (XI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^11]: [A 9. § (2) bekezdés nyitó szövegrészében a 207/2018. (XI. 10.) Korm. rendelet 4. § b) pontjával elrendelt módosítás, amely szerint az „államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.-ben” szöveg lép, nem vezethető át.]
-[^12]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 445/2020. (X. 1.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^13]: A 9. § (2) bekezdés n) pontját a 445/2020. (X. 1.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^14]: A 9. § (3) bekezdését a 445/2020. (X. 1.) Korm. rendelet 22. § (2) bekezdése iktatta be.
