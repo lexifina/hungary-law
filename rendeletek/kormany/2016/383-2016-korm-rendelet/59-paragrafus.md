@@ -8,8 +8,8 @@ b) a NÉBIH-et,
 
 c) a Pest Megyei Kormányhivatalt és
 
-d)[^178] a megyei kormányhivatalt
+d)[^180] a megyei kormányhivatalt
 
 jelöli ki.
 
-[^178]: Az 59. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^180]: Az 59. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

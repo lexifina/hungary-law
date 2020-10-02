@@ -1,5 +1,5 @@
 ## 28. A gyümölcsültetvény telepítésének engedélyezése iránti eljárásban vizsgálandó szakkérdések
 
-72. §[^194]
+72. §[^196]
 
-[^194]: A 72. §-t a 186/2018. (X. 9.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^196]: A 72. §-t a 186/2018. (X. 9.) Korm. rendelet 19. §-a hatályon kívül helyezte.

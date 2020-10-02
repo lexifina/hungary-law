@@ -1,6 +1,6 @@
 ## 7. A géntechnológiai hatóság kijelölése
 
-28. § (1)[^96] A Kormány a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Gtv.) szerinti
+28. § (1)[^98] A Kormány a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Gtv.) szerinti
 
 a) környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóságként,
 
@@ -24,17 +24,17 @@ tekintetében,
 
 b) az élelmiszeripar és a takarmányozás területén a géntechnológiával módosított szervezetek nem forgalomba hozatali célú kibocsátása tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatalt és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalát jelöli ki,
 
-c)[^97] a növény- és talajvédelem szakterületén a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt jelöli ki,
+c)[^99] a növény- és talajvédelem szakterületén a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt jelöli ki,
 
 d) a növénytermesztés és állattenyésztés területén a géntechnológiával módosított szervezetek nem forgalomba hozatali célú kibocsátása tekintetében a NÉBIH-et jelöli ki,
 
-e)[^98] a géntechnológiával módosított szervezeteknek és az azokból előállított termékeknek az Európai Gazdasági Térség tagországain kívüli országból (a továbbiakban: harmadik ország) történő behozatalának, harmadik országba történő kivitelének, valamint az Európai Gazdasági Térség tagországai közötti szállításának ellenőrzése tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatalt és járási hivatalt, valamint növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt jelöli ki,
+e)[^100] a géntechnológiával módosított szervezeteknek és az azokból előállított termékeknek az Európai Gazdasági Térség tagországain kívüli országból (a továbbiakban: harmadik ország) történő behozatalának, harmadik országba történő kivitelének, valamint az Európai Gazdasági Térség tagországai közötti szállításának ellenőrzése tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatalt és járási hivatalt, valamint növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt jelöli ki,
 
 f) az élelmiszerek tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalt jelöli ki,
 
-g)[^99] a forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek forgalmazásának ellenőrzése tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi, valamint növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt jelöli ki.
+g)[^101] a forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek forgalmazásának ellenőrzése tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi, valamint növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt jelöli ki.
 
-[^96]: A 28. § (1) bekezdés záró szövegrésze a 186/2018. (X. 9.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^97]: A 28. § (2) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 9. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^98]: A 28. § (2) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 10. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^99]: A 28. § (2) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 9. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^98]: A 28. § (1) bekezdés záró szövegrésze a 186/2018. (X. 9.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^99]: A 28. § (2) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 9. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^100]: A 28. § (2) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 10. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^101]: A 28. § (2) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 9. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
