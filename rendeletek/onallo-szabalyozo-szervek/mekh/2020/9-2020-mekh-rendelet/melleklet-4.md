@@ -1,3 +1,3 @@
-## 20205Z20000009_3
+4. melléklet a 9/2020. (IX. 28.) MEKH rendelethez[^10]
 
-4. melléklet a 9/2020. (IX. 28.) MEKH rendelethez
+[^10]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
