@@ -6,4 +6,6 @@
 
 (2) A 36. § (1) bekezdés f) és g) pontja 2021. január 1-jén lép hatályba.
 
-(3) Hatályát veszti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló 45/2018. (XII. 17.) MNB rendelet.
+(3)[^3]
+
+[^3]: A 47. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
