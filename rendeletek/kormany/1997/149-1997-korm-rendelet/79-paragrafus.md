@@ -1,6 +1,6 @@
 ## A határozat tartalma
 
-79. §[^571] (1) A gyámhivatal az otthonteremtési támogatásról szóló határozata rendelkező részében a 14. §-ban foglaltakon túl
+79. §[^572] (1) A gyámhivatal az otthonteremtési támogatásról szóló határozata rendelkező részében a 14. §-ban foglaltakon túl
 
 a) jóváhagyja az otthonteremtési támogatás iránti kérelemben megjelölt célt és a pénzfelhasználási tervet,
 
@@ -30,7 +30,7 @@ ib) tájékoztatja a támogatást igénybe vevő fiatal felnőttet a zárolás m
 
 ic) figyelmezteti a fiatal felnőttet az állami támogatással és kamattal növelt betétösszeg nem a lakástakarékpénztárakról szóló 1996. évi CXIII. törvényben (a továbbiakban: Ltv.) meghatározott lakáscélra történő felhasználása esetén alkalmazandó, a Gyvt. 26/B. § (7) bekezdése szerinti jogkövetkezményekre.
 
-(1a)[^572] Az otthonteremtési támogatásról hozott, az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő döntésnek tartalmaznia kell az ügy elbírálási azonosítóját is.
+(1a)[^573] Az otthonteremtési támogatásról hozott, az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő döntésnek tartalmaznia kell az ügy elbírálási azonosítóját is.
 
 (2) Ha az otthonteremtési támogatás megállapítására lakás-előtakarékossági programban való részvétel céljából került sor, a gyámhivatal a hitelintézet Gyvt. 26/B. § (1) bekezdése szerint megküldött tájékoztatásának figyelembevételével és szükség szerint a fiatal felnőtt meghallgatása, környezettanulmány készítése, valamint hozzátartozó javára történő felhasználás esetén a fiatal felnőtt tulajdonszerzését igazoló okirat alapján hozza meg a Gyvt. 26/B. § (2) és (3) bekezdés szerinti döntését.
 
@@ -44,5 +44,5 @@ c) tájékoztatja a fiatal felnőttet, hogy a lakás-előtakarékossági program
 
 d) tájékoztatja a fiatal felnőttet a felhasználás elfogadásának feltételeiről és figyelmezteti a nem cél szerint felhasznált otthonteremtési támogatás visszafizetésének kötelezettségére.
 
-[^571]: A 79. § a 116/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^572]: A 79. § (1a) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 8. §-a iktatta be.
+[^572]: A 79. § a 116/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^573]: A 79. § (1a) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 8. §-a iktatta be.

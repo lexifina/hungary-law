@@ -1,6 +1,6 @@
-## A nevelésbe vétel megszüntetése és megszűnése[^846]
+## A nevelésbe vétel megszüntetése és megszűnése[^848]
 
-110. §[^847] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+110. §[^849] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) az arra jogosult szülő vagy családbafogadó gyám felhívását a gyermek gondozására,
 
@@ -8,13 +8,13 @@ b) annak megállapítását, hogy a szülő szülői felügyeleti joga feléledt
 
 c) a nevelésbe vétel megszűnésének és megszüntetésének napját, valamint a gyermek gondozására és nevelésére jogosult szülő vagy családbafogadó gyám felhívását a gyermek e napon történő átvételére,
 
-d)[^848] a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám felmentését, valamint szükség esetén a gyermekvédelmi gyám felhívását végszámadásának benyújtására,
+d)[^850] a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám felmentését, valamint szükség esetén a gyermekvédelmi gyám felhívását végszámadásának benyújtására,
 
 e) az otthont nyújtó ellátást biztosító nevelőszülői hálózat vezetőjének vagy intézménynek a tájékoztatását e feladatának megszűnéséről, és felhívását a családi pótlék iránti igénynek a nevelésbe vétel megszüntetését, megszűnését követő tizenöt napon belül történő lemondására,
 
 f) a nevelésbe vétel megszűnésének megállapítása esetén annak okát,
 
-g)[^849] az utógondozás elrendelését és ennek érdekében a család- és gyermekjóléti központ, a nevelőszülői hálózat vezetője, a gyermekotthon vagy a gyermekvédelmi szakszolgálat felhívását a feladat ellátására,
+g)[^851] az utógondozás elrendelését és ennek érdekében a család- és gyermekjóléti központ, a nevelőszülői hálózat vezetője, a gyermekotthon vagy a gyermekvédelmi szakszolgálat felhívását a feladat ellátására,
 
 h) a fiatal felnőtt kérelmére az utógondozói ellátás elrendelését,
 
@@ -22,7 +22,7 @@ i) a gondozásidíj-fizetési kötelezettség megszüntetését,
 
 j) az illetékes járási hivatal felhívását a közgyógyellátási igazolvány visszavonása érdekében,
 
-k)[^850] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
+k)[^852] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
 
 (2) Ha a nevelésbe vétel a gyermek nagykorúvá válása miatt szűnik meg, a gyámhivatal a 143. § szerint jár el.
 
@@ -30,8 +30,8 @@ k)[^850] megelőző pártfogás alatt álló gyermek esetén – az ok megjelöl
 
 (4) Ha a nevelésbe vétel a gyermek családbafogadásával szűnik meg, a gyámhivatal a 92. § és a 146. § (5) bekezdése alapján jár el.
 
-[^846]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^847]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^848]: A 110. § (1) bekezdés d) pontja a 448/2016. (XII. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^849]: A 110. § (1) bekezdés g) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
-[^850]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^848]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^849]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^850]: A 110. § (1) bekezdés d) pontja a 448/2016. (XII. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^851]: A 110. § (1) bekezdés g) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
+[^852]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.

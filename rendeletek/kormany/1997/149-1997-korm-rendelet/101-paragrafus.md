@@ -1,3 +1,3 @@
-101. §[^775]
+101. §[^776]
 
-[^775]: A 101. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^776]: A 101. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés d) pontja hatályon kívül helyezte.
