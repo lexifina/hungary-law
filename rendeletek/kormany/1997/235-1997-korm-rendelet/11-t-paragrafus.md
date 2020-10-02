@@ -1,0 +1,3 @@
+11/T. § (1) A javítóintézet igazgatója és az általa kijelölt szakember a Gyvt. 139/A. § (1), (3a) és (3b) bekezdése szerinti adatokat a fiatalkorú befogadását vagy elbocsátását követően, valamint az adatokban bekövetkező változást az azt megalapozó dokumentum kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül rögzíti a JIR-ben.
+
+(2) A fiatalkorú gondozásával, nevelésével, fejlesztésével és reszocializácójával kapcsolatos szakmai tevékenység JIR-ben történő rögzítése a miniszter által jóváhagyott és az általa vezetett minisztérium honlapján közzétett útmutatóban foglaltak alapján történik.
