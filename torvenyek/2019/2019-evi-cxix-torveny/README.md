@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-119-00-00
 | 2020-01-10 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-119-00-00.1 |
 | 2020-01-11 | 2010. évi CXXX. törvény | 2019-119-00-00.2 |
 | 2020-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-119-00-00.3 |
+| 2020-10-02 | 2010. évi CXXX. törvény | 2019-119-00-00.4 |
