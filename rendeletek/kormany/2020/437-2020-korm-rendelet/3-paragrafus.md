@@ -1,3 +1,3 @@
-## „11. – a 143/B. § 3. pontjában foglalt kivétellel – szociál- és nyugdíjpolitikáért,”
+## 2. §[^3]
 
-## (felelős tagja.)
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
