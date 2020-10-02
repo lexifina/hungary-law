@@ -16,7 +16,7 @@ b) a Kormány
 
 a) saját vagy más kormányzati igazgatási szerv, illetve a szervezetrendszert kiszolgáló belső képzőintézmény által nyilvántartásba vett belső továbbképzés lebonyolításával,
 
-b)[^6] képzési szolgáltatással
+b)[^7] képzési szolgáltatással
 
 biztosíthatók.
 
@@ -42,4 +42,4 @@ f) során alkalmazott számonkérés módját.
 
 (9) A területi kormányzati igazgatási szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében a belső továbbképzésekről nyilvántartást vezet.
 
-[^6]: A 12. § (4) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 2. pontja szerint módosított szöveg.
+[^7]: A 12. § (4) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 2. pontja szerint módosított szöveg.
