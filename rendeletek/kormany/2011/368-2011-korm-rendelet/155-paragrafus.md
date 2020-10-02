@@ -1,9 +1,9 @@
-155. § (1)[^648] Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv költségvetési maradványából az irányító szervet megillető rész számítását az irányító szerv határozza meg.
+155. § (1)[^654] Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv költségvetési maradványából az irányító szervet megillető rész számítását az irányító szerv határozza meg.
 
-(2)[^649] Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv költségvetési maradványát az irányító szerv a zárszámadási rendeletével, határozatával egy időben állapítja meg, és – szükség esetén – módosítja költségvetési rendeletét, határozatát.
+(2)[^655] Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv költségvetési maradványát az irányító szerv a zárszámadási rendeletével, határozatával egy időben állapítja meg, és – szükség esetén – módosítja költségvetési rendeletét, határozatát.
 
-(3)[^650]
+(3)[^656]
 
-[^648]: Az Ávr. 155. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 53. pontja szerint módosított szöveg.
-[^649]: Az Ávr. 155. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 54. pontja szerint módosított szöveg.
-[^650]: Az Ávr. 155. § (3) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 21. pontja hatályon kívül helyezte.
+[^654]: Az Ávr. 155. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 53. pontja szerint módosított szöveg.
+[^655]: Az Ávr. 155. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 54. pontja szerint módosított szöveg.
+[^656]: Az Ávr. 155. § (3) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 21. pontja hatályon kívül helyezte.

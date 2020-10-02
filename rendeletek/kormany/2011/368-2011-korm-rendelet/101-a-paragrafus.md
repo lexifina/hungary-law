@@ -1,6 +1,8 @@
-101/A. §[^419] (1)[^420] A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatásra – a Kormány eltérő rendelkezése hiányában – e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+101/A. §[^424] (1)[^425] A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatásra e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(1a)[^421] Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.
+(1a)[^426] Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.
+
+(1b)[^427] Az (1) bekezdésben meghatározott, a Kormány egyedi határozatán alapuló költségvetési támogatásnak minősül minden olyan, a Kormány határozata alapján nyújtott támogatás, amelyben a Kormány a támogatási célt, a kedvezményezett személyét és a biztosítandó költségvetési támogatás összegszerű mértékét meghatározza.
 
 (2) A támogatási döntés meghozatalához nem szükséges
 
@@ -22,7 +24,7 @@ e) a 75. § (2) bekezdés h) pontja helyett annak vállalásáról nyilatkozik, 
 
 (4) Ha a költségvetési támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami támogatásnak minősül, a támogatási kérelmet a 7. melléklet szerinti nyilatkozattal – kiegészítve a támogatott tevékenység bemutatásával, helyszínének megjelölésével és az elszámolni kívánt költségek részletesebb ismertetésével – kell benyújtani.
 
-(5)[^422] A támogató vagy a támogató nevében eljáró szervezet a (3) bekezdés szerinti dokumentumot a támogatói okirat tervezetével együtt elektronikus úton vagy papír alapon küldi meg a Kormány egyedi határozata alapján költségvetési támogatás igénylésére jogosult szervezetnek, amely a kitöltött és a képviselője aláírásával ellátott dokumentumot – ha a támogató szóbeli vagy írásos nyilatkozatában azt lehetővé tette, úgy annak elektronikus úton egyszerű másolatát – a támogatónak a támogatói okirat kiadásáig visszaküldi. Ha a támogató a támogatói okiratot a dokumentumok egyszerű másolata alapján adta ki, a kedvezményezett az eredeti példányokat a másolatok elektronikus úton történő megküldését követő harminc napon belül megküldi a támogatónak.
+(5)[^428] A támogató vagy a támogató nevében eljáró szervezet a (3) bekezdés szerinti dokumentumot a támogatói okirat tervezetével együtt elektronikus úton vagy papír alapon küldi meg a Kormány egyedi határozata alapján költségvetési támogatás igénylésére jogosult szervezetnek, amely a kitöltött és a képviselője aláírásával ellátott dokumentumot – ha a támogató szóbeli vagy írásos nyilatkozatában azt lehetővé tette, úgy annak elektronikus úton egyszerű másolatát – a támogatónak a támogatói okirat kiadásáig visszaküldi. Ha a támogató a támogatói okiratot a dokumentumok egyszerű másolata alapján adta ki, a kedvezményezett az eredeti példányokat a másolatok elektronikus úton történő megküldését követő harminc napon belül megküldi a támogatónak.
 
 (6) A költségvetési támogatás biztosítása támogatói okirat kibocsátásával történik.
 
@@ -50,20 +52,21 @@ e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
 
 (10) A kedvezményezett a támogatott tevékenység részletes bemutatását és a 76. § (1) bekezdés d) pontja szerinti költségtervet a támogatói okirat kiadásától számított hatvan napon belül küldi meg a támogatónak.
 
-(10a)[^423] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
+(10a)[^429] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
 
 (11) A kedvezményezett a megvalósításba a támogató előzetes tájékoztatása esetén vonhat be közreműködőket.
 
 (12) Az e § szerinti költségvetési támogatásokra a 81. § d) pontját és a 85. § (3) bekezdés első mondatát nem kell alkalmazni.
 
-(13)[^424] Az e § szerinti költségvetési támogatásokra a 95. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a Kormány egyedi határozatában meghozott támogatási döntésének eredeti célját egyedi határozatában utóbb módosítja, a támogatói okirat tartalmát a módosított kormányhatározatban foglaltaknak megfelelően módosítani kell.
+(13)[^430] Az e § szerinti költségvetési támogatásokra a 95. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a Kormány egyedi határozatában meghozott támogatási döntésének eredeti célját egyedi határozatában utóbb módosítja, a támogatói okirat tartalmát a módosított kormányhatározatban foglaltaknak megfelelően módosítani kell.
 
-(14)[^425] A (13) bekezdést a Kormány egyedi határozatában meghozott támogatási döntését módosító határozatának (a továbbiakban: módosító kormányhatározat) megjelenését megelőzően létrejött jogviszonyokra abban az esetben kell alkalmazni, ha a kedvezményezett a támogatott tevékenység megvalósítását és a részére támogatási előlegként nyújtott költségvetési támogatás felhasználását a módosító kormányhatározat megjelenésének időpontjában még nem kezdte meg, amely tényről a kedvezményezett a támogató felszólítását követően haladéktalanul, írásban köteles nyilatkozni. A nyilatkozattétel felszólítás ellenére való elmaradása esetén a támogató a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza.
+(14)[^431] A (13) bekezdést a Kormány egyedi határozatában meghozott támogatási döntését módosító határozatának (a továbbiakban: módosító kormányhatározat) megjelenését megelőzően létrejött jogviszonyokra abban az esetben kell alkalmazni, ha a kedvezményezett a támogatott tevékenység megvalósítását és a részére támogatási előlegként nyújtott költségvetési támogatás felhasználását a módosító kormányhatározat megjelenésének időpontjában még nem kezdte meg, amely tényről a kedvezményezett a támogató felszólítását követően haladéktalanul, írásban köteles nyilatkozni. A nyilatkozattétel felszólítás ellenére való elmaradása esetén a támogató a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza.
 
-[^419]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^420]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^421]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^422]: A 101/A. § (5) bekezdése a 340/2019. (XII. 23.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
-[^423]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
-[^424]: Az Ávr. 101/A. § (13) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
-[^425]: Az Ávr. 101/A. § (14) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
+[^424]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^425]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 445/2020. (X. 1.) Korm. rendelet 18. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^426]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^427]: Az Ávr. 101/A. § (1b) bekezdését a 445/2020. (X. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^428]: A 101/A. § (5) bekezdése a 340/2019. (XII. 23.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^429]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
+[^430]: Az Ávr. 101/A. § (13) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
+[^431]: Az Ávr. 101/A. § (14) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.

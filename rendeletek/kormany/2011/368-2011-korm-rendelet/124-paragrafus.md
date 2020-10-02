@@ -4,9 +4,9 @@
 
 (2) A Kincstár a felsőoktatási intézmények számára az Áht. 79. § (5) bekezdése szerinti bevételekből származó pénzforgalom kezelésére külön fizetési számlát vezet.
 
-(3)[^519] A Kincstár az Eötvös Loránd Kutatási Hálózat kutatóhálózatába tartozó szervezetek államháztartáson kívüli bevételei kezelésére külön fizetési számlát vezet.
+(3)[^525] A Kincstár az Eötvös Loránd Kutatási Hálózat kutatóhálózatába tartozó szervezetek államháztartáson kívüli bevételei kezelésére külön fizetési számlát vezet.
 
-(4)[^520] A Kincstár a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság számára az Áht. 51. § (4) bekezdése szerinti európai uniós forrásból és fejlesztési célú, nem európai uniós forrásból nyújtott költségvetési támogatások fogadására külön fizetési számlát vezet.
+(4)[^526] A Kincstár a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság számára az Áht. 51. § (4) bekezdése szerinti európai uniós forrásból és fejlesztési célú, nem európai uniós forrásból nyújtott költségvetési támogatások fogadására külön fizetési számlát vezet.
 
-[^519]: Az Ávr. 124. § (3) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^520]: Az Ávr. 124. § (4) bekezdését a 175/2018. (IX. 27.) Korm. rendelet 4. §-a iktatta be.
+[^525]: Az Ávr. 124. § (3) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^526]: Az Ávr. 124. § (4) bekezdését a 175/2018. (IX. 27.) Korm. rendelet 4. §-a iktatta be.
