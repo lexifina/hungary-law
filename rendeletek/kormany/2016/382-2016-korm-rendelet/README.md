@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2020-06-12 | 2016-382-20-22.27 | 245/2020. (V. 28.) Korm. rendelet |
 | 2020-08-22 | 2016-382-20-22.28 | 402/2020. (VIII. 17.) Korm. rendelet |
 | 2020-09-01 | 2016-382-20-22.29 | 245/2020. (V. 28.) Korm. rendelet |
+| 2020-10-02 | 2016-382-20-22.30 | 446/2020. (X. 1.) Korm. rendelet |
