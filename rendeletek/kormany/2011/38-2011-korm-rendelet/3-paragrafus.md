@@ -62,7 +62,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 28. | Bűnügyi nyilvántartási rendszer | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | kötelező |
 
-| 29. | Egységes örökbefogadási nyilvántartás | Magyar Államkincstár központi szerve | elektronikus adatfeldolgozás | kötelező |
+| 29. |  |  |  |  |
 
 | 30. | Természetes személyek közhiteles országos adósságrendezési nyilvántartása, az adósságrendezési eljárással összefüggő hirdetményi rendszer | Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -74,4 +74,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 34. | A magyarországi lakcímmel nem rendelkező választópolgárok levélben benyújtott névjegyzéki kérelmének regisztrációs előfeldolgozását végző informatikai rendszer | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a, a 447/2020. (X. 1.) Korm. rendelet 13. §-a szerint módosított szöveg. Alkalmazására lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
