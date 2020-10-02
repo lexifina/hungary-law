@@ -1,4 +1,4 @@
-19. §[^135] (1)[^136] Bármely járási hivatal – a bejelentett tartózkodási hellyel nem rendelkező, külföldön élő magyar állampolgár esetén a kijelölt kormányhivatal – a polgár kérelmére új hatósági igazolványt állít ki, ha a korábban kiadott igazolványt a polgár elvesztette, az megsemmisült, azt eltulajdonították, vagy megrongálódása miatt használhatatlanná vált.
+19. §[^135] (1)[^136] Bármely járási hivatal és a kijelölt kormányhivatal – a bejelentett tartózkodási hellyel nem rendelkező, külföldön élő magyar állampolgár esetén kizárólagos hatáskörben – a polgár kérelmére új hatósági igazolványt állít ki, ha a korábban kiadott igazolványt a polgár elvesztette, az megsemmisült, azt eltulajdonították, vagy megrongálódása miatt használhatatlanná vált.
 
 (2) Érvénytelen a hatósági igazolvány, ha
 
@@ -53,7 +53,7 @@ a) személyesen, törvényes képviselő vagy meghatalmazott útján bármely j�
 b) személyes megjelenés nélkül, postai úton az eljárás megindításának helye szerint illetékes járási hivatalnak címezve.
 
 [^135]: Az R.19. §-a a 230/2000. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^136]: Az R. 19. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése, a 417/2012. (XII. 29.) Korm. rendelet 40. § e) pontja, az 515/2013. (XII. 30.) Korm. rendelet 16. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 1. pontja, a 440/2016. (XII. 16.) Korm. rendelet 2. § a) pontja szerint módosíottt szöveg.
+[^136]: Az R. 19. § (1) bekezdése a 446/2020. (X. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^137]: Az R. 19. § (2) bekezdésének c) pontja a 327/2005. (XII. 29.) Korm. rendelet 2. §-ával megállapított és a 417/2012. (XII. 29.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
 [^138]: Az R. 19. § (3) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^139]: Az R. 19. § (3) bekezdésének b) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
