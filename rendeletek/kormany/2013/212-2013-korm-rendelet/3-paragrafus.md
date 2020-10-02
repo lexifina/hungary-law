@@ -1,6 +1,6 @@
 ## 3. § A kedvezményes hitel vagy kölcsön és a kamattámogatás igénybevételére az a gyógyszerész jogosult, aki
 
-a)[^10] a Gyftv. 83/A. § (7) bekezdésében foglaltak szerinti elővásárlási jog gyakorlásával tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban,
+a)[^11] a Gyftv. 83/A. § (7) bekezdésében foglaltak szerinti elővásárlási jog gyakorlásával tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban,
 
 aa) oly módon, hogy 2017. január 1-jét követően sem közvetlenül, sem közvetetten nem rendelkezett tulajdoni hányaddal gyógyszertárat működtető gazdasági társaságban,
 
@@ -20,9 +20,9 @@ bc) a hitelkérelem benyújtásának időpontjáig a hitelcéllal érintett gyó
 
 bd) tudomásul veszi, hogy amennyiben a ba) és bb) alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően más de minimis támogatás igénybevétele miatt, úgy arról köteles haladéktalanul tájékoztatni a pénzügyi intézményt és a támogatást nyújtó szervet;
 
-c)[^11] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
+c)[^12] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
 
-d)[^12] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Állami Egészségügyi Ellátó Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
+d)[^13] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Állami Egészségügyi Ellátó Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
 
 e) csatolja a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságnak a legfőbb szerve ülésének jegyzőkönyvében rögzített döntéséről készült másolatot a tulajdonosi szerkezet megváltoztatásáról, amely döntés legalább a következőket tartalmazza:
 
@@ -34,7 +34,7 @@ ec) abban az esetben, ha az adott gyógyszertárra vonatkozóan a működtetést
 
 ed) a társaság ülésén megjelent valamennyi tag, köztük a személyi jogos gyógyszerész aláírása,
 
-ee)[^13] a hitelt felvenni kívánó gyógyszerész által szerezni kívánt, százalékban kifejezett tulajdoni hányadot;
+ee)[^14] a hitelt felvenni kívánó gyógyszerész által szerezni kívánt, százalékban kifejezett tulajdoni hányadot;
 
 f) csatolja
 
@@ -46,7 +46,7 @@ g) kötelezettséget vállal arra, hogy a Patika Hitelprogram keretében felvett
 
 h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlását kizáró ok vele szemben nem áll fenn.
 
-[^10]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^11]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^12]: A 3. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 233. §-a szerint módosított szöveg.
-[^13]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^11]: Az 1. § d) pontja a 250/2017. (IX. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^12]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^13]: A 3. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 233. §-a szerint módosított szöveg.
+[^14]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.

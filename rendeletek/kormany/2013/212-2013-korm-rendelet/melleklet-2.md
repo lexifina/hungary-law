@@ -26,8 +26,8 @@
 
 4. A gyógyszerész nyilatkozata arról, hogy kamattámogatást kíván igénybe venni
 
-5.[^20]
+5.[^21]
 
 6. Keltezés, aláírás
 
-[^20]: A 2. melléklet 5. pontját a 334/2014. (XII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^21]: A 2. melléklet 5. pontját a 334/2014. (XII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
