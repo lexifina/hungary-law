@@ -1,3 +1,3 @@
-## 2. § A Gyer. 45. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(1) A kijelölt gyámhivatal a 41. § (1) és (2) bekezdésében felsorolt iratok, illetve az örökbe fogadni szándékozó személy és a gyermek szülőjének kérelme, gyermekvédelmi gondoskodás alatt álló gyermek esetén a gyermekvédelmi szakszolgálat javaslata és a gyermekvédelmi gyám kérelme alapján tizenöt napon belül, hathetesnél fiatalabb gyermek esetén nyolc napon belül dönt a kötelező gondozásba történő kihelyezésről. A kijelölt gyámhivatal a kötelező gondozásba történő kihelyezést elrendelő végzésében a gondozási idő számításánál figyelembe veszi a tényleges gondozás kezdő időpontját. Nyílt örökbefogadás esetén a végzés tartalmazza az örökbefogadásban közreműködő szervezet nevét.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
