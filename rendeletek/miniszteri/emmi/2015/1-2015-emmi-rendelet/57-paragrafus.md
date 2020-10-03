@@ -1,11 +1,11 @@
-## 28. [^47] A letartóztatás végrehajtása érdekében javítóintézetben elhelyezett fiatalkorút megillető ellátás
+## 28. [^52] A letartóztatás végrehajtása érdekében javítóintézetben elhelyezett fiatalkorút megillető ellátás
 
 57. § (1) A fiatalkorú zsebpénzellátásban nem részesül.
 
-(2)[^48] Ha a fiatalkorú nem rendelkezik letéti pénzzel, a javítóintézet biztosítja számára a büntetőeljárással kapcsolatos levelezés, valamint a jogorvoslatra vonatkozó jognyilatkozat megtétele miatt a védővel való telefonon történő kapcsolatfelvétel költségét. A fiatalkorú ezen túl az engedélyezett kapcsolattartójának hetente egy alkalommal az intézet költségére küldhet levelet.
+(2)[^53] Ha a fiatalkorú nem rendelkezik letéti pénzzel, a javítóintézet biztosítja számára a büntetőeljárással kapcsolatos levelezés, valamint a jogorvoslatra vonatkozó jognyilatkozat megtétele miatt a védővel való telefonon történő kapcsolatfelvétel költségét. A fiatalkorú ezen túl az engedélyezett kapcsolattartójának hetente egy alkalommal az intézet költségére küldhet levelet.
 
-(3)[^49] A Bv. tv. 414. § (2) bekezdése esetén a fiatalkorút a rendőri szerv szállítja és kíséri.
+(3)[^54] A Bv. tv. 414. § (2) bekezdése esetén a fiatalkorút a rendőri szerv szállítja és kíséri.
 
-[^47]: A 28. alcím címe a 6/2019. (III. 12.) EMMI rendelet 5. § k) pontja szerint módosított szöveg.
-[^48]: Az 57. § (2) bekezdése a 6/2019. (III. 12.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^49]: Az 57. § (3) bekezdése a 6/2019. (III. 12.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^52]: A 28. alcím címe a 6/2019. (III. 12.) EMMI rendelet 5. § k) pontja szerint módosított szöveg.
+[^53]: Az 57. § (2) bekezdése a 6/2019. (III. 12.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^54]: Az 57. § (3) bekezdése a 6/2019. (III. 12.) EMMI rendelet 4. §-ával megállapított szöveg.

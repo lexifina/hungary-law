@@ -4,7 +4,7 @@ a) az elsőfokú ítéletet hozó bíróságot,
 
 b)[^12] a fiatalkorú lakóhelye szerint illetékes gyámhivatalt,
 
-c)[^13] a nevelésbe vett, illetve az ideiglenes hatállyal elhelyezett fiatalkorú nevelésbe vételét vagy ideiglenes hatályú elhelyezését elrendelő gyámhivatalt,
+c)[^13] a nevelésbe vett, illetve az ideiglenes hatállyal elhelyezett fiatalkorú nevelésbe vételét vagy ideiglenes hatályú elhelyezését elrendelő gyámhivatalt, valamint a gyermek ügyében eljáró területi gyermekvédelmi szakszolgálatot,
 
 d) a fiatalkorú törvényes képviselőjét,
 
@@ -27,7 +27,7 @@ h)[^14] a bűnügyi nyilvántartást vezető szervet.
 (6) A korábban kirendelt pártfogó felügyelőtől, illetve megelőző pártfogótól tájékoztatást kell kérni a fiatalkorúnak a pártfogás, megelőző pártfogás alatt tanúsított magatartásáról.
 
 [^12]: A 17. § (1) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
-[^13]: A 17. § (1) bekezdés c) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^13]: A 17. § (1) bekezdés c) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a, a 34/2020. (X. 2.) EMMI rendelet 22. § a) pontja szerint módosított szöveg.
 [^14]: A 17. § (1) bekezdés h) pontja a 43/2016. (XII. 27.) EMMI rendelet 37. §-a szerint módosított szöveg.
 [^15]: A 17. § (4) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
 [^16]: A 17. § (5) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.

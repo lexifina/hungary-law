@@ -4,17 +4,20 @@
 
 (3) A fiatalkorú ideiglenes és végleges elbocsátásáról és annak időpontjáról a javítóintézet értesíti
 
-a)[^34] a fiatalkorú lakóhelye szerinti gyámhivatalt,
+a)[^38] a fiatalkorú lakóhelye szerinti gyámhivatalt,
 
-b)[^35] a nevelésbe vett fiatalkorú nevelésbe vételét elrendelő gyámhivatalt,
+b)[^39] a nevelésbe vett fiatalkorú nevelésbe vételét elrendelő gyámhivatalt,
 
 c) a fiatalkorú törvényes képviselőjét, és
 
-d) a nevelésbe vett fiatalkorú szülőjét, ha szülői felügyeleti jogát a bíróság nem szüntette meg.
+d) a nevelésbe vett fiatalkorú szülőjét, ha szülői felügyeleti jogát a bíróság nem szüntette meg,
+
+e)[^40] az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek esetén a gyermek ügyében eljáró területi gyermekvédelmi szakszolgálatot.
 
 (4) A fiatalkorú törvényes képviselője részére küldött értesítésnek tartalmaznia kell az arról való tájékoztatást, hogy elbocsátáskor a fiatalkorú csak a törvényes képviselőnek, a javítóintézet székhelyén adható át, továbbá, hogy a fiatalkorú csak a törvényes képviselő írásbeli kérésére indítható útnak egyedül.
 
 (5) A fiatalkorú végleges elbocsátásáról és annak időpontjáról a javítóintézet értesíti a javítóintézeti nevelést elrendelő bíróságot.
 
-[^34]: A 48. § (3) bekezdés a) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
-[^35]: A 48. § (3) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^38]: A 48. § (3) bekezdés a) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^39]: A 48. § (3) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^40]: A 48. § (3) bekezdés e) pontját a 34/2020. (X. 2.) EMMI rendelet 20. §-a iktatta be.
