@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:4 mezőjében az „5,20” szövegrész helyébe az „5,438” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1628/2020. (X. 1.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.3- 15-2016-00016 | Gasztronómia a hétköznapokban – komplex turisztikai fejlesztések Gyulán | Gyula Város Önkormányzata | 999 809 000 | 249 687 235 | 1 249 496 235 | A projekt fő célja, hogy Gyula város turisztikai kínálata olyan szolgáltatással bővüljön, amely kiegészíti a meglévő kínálatot, illetve a meglévő és az új célcsoportot megcélozva önálló szolgáltatásként is működni tud. Gyula Város kulturális életének részeként fontos szerepe van a gasztronómiának. A projekt keretében megvalósuló fejlesztések a gasztronómiai értékek közül többek között a Gyulai Kolbász és a csokoládé világába kalauzolják el a turistákat. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
