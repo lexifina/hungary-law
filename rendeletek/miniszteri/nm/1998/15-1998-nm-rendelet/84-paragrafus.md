@@ -1,4 +1,4 @@
-84. § (1)[^195] Az ellátás megkezdésekor a rendelkezésre álló dokumentáció alapján, a gyermekvédelmi nyilvántartás megfelelő adatlapját kitöltve, el kell készíteni a gondozott gyermekre vonatkozó egyéni gondozási, nevelési programot tartalmazó egyéni gondozási-nevelési tervet. Az egyéni gondozási-nevelési terv célja az egyéni elhelyezési terv megvalósulását biztosító gondozással, neveléssel kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás meghatározása. A terv elkészítésekor figyelemmel kell lenni különösen
+84. § (1)[^195] Az ellátás megkezdésekor a rendelkezésre álló dokumentáció alapján, a Gyermekeink védelmében elnevezésű informatikai rendszerben (a továbbiakban: GYVR) el kell készíteni a gondozott gyermekre vonatkozó egyéni gondozási, nevelési programot tartalmazó egyéni gondozási-nevelési tervet. Az egyéni gondozási-nevelési terv célja az egyéni elhelyezési terv megvalósulását biztosító gondozással, neveléssel kapcsolatos feladatok részletes megtervezése és az abban részt vevő szakemberek közötti munkamegosztás meghatározása. A terv elkészítésekor figyelemmel kell lenni különösen
 
 a)[^196] a család- és gyermekjóléti központ által a védelembe vétel során készített egyéni gondozási-nevelési tervre,
 
@@ -66,7 +66,7 @@ cb) a családi gazdálkodás megtervezésébe
 
 cc) a pénzkezelésbe.
 
-[^195]: A 84. § (1) bekezdésének első mondata a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^195]: A 84. § (1) bekezdés nyitó szövegrésze a 46/2003. (VIII. 8.) ESZCSM rendelet 49. § (1) bekezdése, a 34/2020. (X. 2.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
 [^196]: A 84. § (1) bekezdés a) pontja az 55/2015. (XI. 30.) EMMI rendelet 7. §-ával megállapított szöveg.
 [^197]: A 84. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^198]: A 84. § (2a) bekezdését a 26/2013. (III. 29.) EMMI rendelet 3. §-a iktatta be.

@@ -6,16 +6,16 @@
 
 (3) A fiatal felnőtt befogadásáról az utógondozó otthon haladéktalanul értesíti a szakszolgálatot.
 
-(4)[^349] Az utógondozó otthon a fiatal felnőtt kérelmére befogadja annak gyermekét, feltéve, hogy a gyermek törvényes képviselője ehhez hozzájárult. A fiatal felnőtt gyermekével kapcsolatos teendőkre a 103. § (2)–(5) bekezdései az irányadók.
+(4)[^355] Az utógondozó otthon a fiatal felnőtt kérelmére befogadja annak gyermekét, feltéve, hogy a gyermek törvényes képviselője ehhez hozzájárult. A fiatal felnőtt gyermekével kapcsolatos teendőkre a 103. § (2)–(5) bekezdései az irányadók.
 
 (5) Az utógondozó otthon megszünteti a fiatal felnőtt utógondozói ellátását, ha
 
-a)[^350] a Gyvt. 93. §-ának (9) bekezdés szerint megszűnik az ellátás,
+a)[^356] a Gyvt. 93. §-ának (9) bekezdés szerint megszűnik az ellátás,
 
 b) a gyámhivatal határozatával megszünteti az ellátást,
 
-c)[^351] a fenntartó írásbeli döntésével megszünteti a meghosszabbított utógondozói ellátást.
+c)[^357] a fenntartó írásbeli döntésével megszünteti a meghosszabbított utógondozói ellátást.
 
-[^349]: A 129. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 20. pontja szerint módosított szöveg.
-[^350]: A 129. § (5) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 19. pontja szerint módosított szöveg.
-[^351]: A 129. § (5) bekezdés c) pontját a 2/2018. (I. 18.) EMMI rendelet 23. §-a iktatta be.
+[^355]: A 129. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 20. pontja szerint módosított szöveg.
+[^356]: A 129. § (5) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 19. pontja szerint módosított szöveg.
+[^357]: A 129. § (5) bekezdés c) pontját a 2/2018. (I. 18.) EMMI rendelet 23. §-a iktatta be.

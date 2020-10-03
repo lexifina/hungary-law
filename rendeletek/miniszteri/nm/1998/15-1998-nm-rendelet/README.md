@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2020-01-01 | 1998-15-20-3D.50 | 34/2019. (XII. 30.) EMMI rendelet |
 | 2020-03-09 | 1998-15-20-3D.51 | 6/2020. (III. 6.) EMMI rendelet |
 | 2020-06-18 | 1998-15-20-3D.52 | 40/2018. (XII. 4.) EMMI rendelet |
+| 2020-10-03 | 1998-15-20-3D.53 | 34/2020. (X. 2.) EMMI rendelet |

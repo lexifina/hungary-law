@@ -12,19 +12,17 @@ gyermeket, ha a határozatban a gyermek gondozási helyeként a nevelőszülőt 
 
 (2)[^252] Az (1) bekezdésben meghatározott gondozott gyermek befogadásáról a nevelőszülői hálózat működtetője haladéktalanul értesíti a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett adatlapon
 
-a) a beutaló szervet, illetve a gyámhivatalt,
+a) a beutaló szervet – ide nem értve a gyámhivatalt –,
 
-b) a szakszolgálatot,
+b) az ideiglenes hatállyal elhelyezett gyermek törvényes képviselőjét – ide nem értve a gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot –,
 
-c) az ideiglenes hatállyal elhelyezett gyermek törvényes képviselőjét,
+c) a nevelésbe vett gyermek szülőjét, feltéve, hogy szülői felügyeleti jogát nem szüntették meg, vagy az nem szűnt meg,
 
-d) a nevelésbe vett gyermek szülőjét, feltéve, hogy szülői felügyeleti jogát nem szüntették meg, vagy az nem szűnt meg, valamint gyermekvédelmi gyámját és helyettes gyermekvédelmi gyámját,
+d) a szülő lakóhelye szerinti család- és gyermekjóléti központot és
 
-e) a szülő lakóhelye szerinti család- és gyermekjóléti központot és
-
-f) a pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelőjét.
+e) a pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelőjét.
 
 (3)[^253] A nevelőszülői hálózat működtetője haladéktalanul értesíti a nevelésbe vételt elrendelő gyámhivatalt, ha a gyermek a határozatban megjelölt időpontig nem került a nevelőszülő gondozásába.
 
-[^252]: A 101. § (2) bekezdése az 1/2017. (II. 14.) EMMI rendelet 10. §-ával megállapított, nyitó szövegrésze a 6/2020. (III. 6.) EMMI rendelet 6. § d) pontja szerint módosított szöveg.
+[^252]: A 101. § (2) bekezdése a 34/2020. (X. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^253]: A 101. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 36. § d) pontja szerint módosított szöveg.
