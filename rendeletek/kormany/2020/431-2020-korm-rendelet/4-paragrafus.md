@@ -1,5 +1,3 @@
-## 3. §[^1]
-
 ## 2. A köznevelési és szakképzési védelmi intézkedések
 
 4. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti köznevelési intézménybe, valamint a szakképzésről szóló 2019. évi LXXX. törvény szerinti szakképző intézménybe (a továbbiakban együtt: intézmény)
@@ -15,5 +13,3 @@ b) történő belépés során azt a gyermeket, illetve kiskorú tanulót, akine
 (4) Az intézmény vezetője köteles gondoskodni az (1) bekezdés szerinti előírás végrehajtásáról.
 
 (5) Az intézménybe történő érkezéskor mindenki köteles magát a testhőmérséklet ellenőrzésnek alávetni.
-
-[^1]: A 3. § a 10. § (3) bekezdése alapján 2020. október 3-án lép hatályba.
