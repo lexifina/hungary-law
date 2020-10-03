@@ -10,13 +10,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:43 mezőjében a „8,00” szövegrész helyébe a „11,40” szöveg,
-
-## b) G:43 mezőjében a „12” szövegrész helyébe a „24” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1625/2020. (X. 1.) Korm. határozathoz
 
@@ -25,3 +19,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Hatályos összköltség (bruttó, forint) | Emberi Erőforrás Fejlesztési Operatív Program 2. prioritása terhére történő többlettámogatás legfeljebb (bruttó, forint) | Projekt megnövelt támogatása legfeljebb (bruttó, forint) | Projekt megnövelt összköltsége legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0-16- 2016-00004 | Aktív fekvő betegellátás forma kiváltása az egynapos sebészeti ellátás rendszerének fejlesztésével | Állami Egészségügyi Ellátó Központ | 8 000 000 000 | 8 049 989 000 | 3 395 489 894 | 11 395 489 894 | 11 445 478 894 | A projekt célja a 24 órán belül távozó betegek arányának növelése, ennek érdekében komplex – legalább 4 szakmás − egynapos szervezeti egységek kialakítása, az ezen ellátások arányának növeléséhez szükséges infrastrukturális és humánerőforrás-szükségletek megteremtése, valamint a nem orvosi okok miatt jelenleg egynapos ellátásban nem részesülő betegek minél nagyobb arányának bevonása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
