@@ -1,11 +1,11 @@
-## „(24) A Módr9.-cel megállapított 35. § (2) bekezdését a Módr9. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
-
-## (25) A Módr9.-cel megállapított 88. § (1) bekezdés c) pontját a 2020. május 15-től létrejött hitelügyletek tekintetében is alkalmazni kell.”
+## 15. §[^18]
 
 ## 16. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1.[^12]
+1.[^19]
 
-2. 5. melléklete a 2. melléklet
+2.[^20]
 
-[^12]: A 16. § 1. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^18]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. § 1. pontja a 24. § (3) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^20]: A 16. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

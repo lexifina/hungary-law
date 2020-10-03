@@ -1,3 +1,3 @@
-## 13. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 115/F. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^16]
 
-## „(7) A Kincstár az adott hónapban beérkezett, lezárt ellenőrzési jelentéseket a kincstári ellenőrzés befejezését követő hónap harmadik munkanapjáig, összegyűjtve megküldi az ellenőrzött szerv vezetőjének. A Kincstár a lezárt ellenőrzési időszakról szóló jelentésekről összesítő kimutatást készít, amit az ellenőrzési időszak végét követő második hónap utolsó napjáig elektronikus úton megküld az államháztartásért felelős miniszternek és az Állami Számvevőszéknek.”
+[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
