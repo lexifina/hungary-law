@@ -1,6 +1,6 @@
 ## Örökbefogadói tanfolyam
 
-14. §[^28] (1) Az örökbefogadói tanfolyam során a résztvevők megismerkednek az örökbefogadás társadalmi és jogi hátterével, az örökbe fogadható gyermekek speciális helyzetével és az örökbefogadással együtt járó konfliktusok kezelésének módjaival.
+14. §[^29] (1) Az örökbefogadói tanfolyam során a résztvevők megismerkednek az örökbefogadás társadalmi és jogi hátterével, az örökbe fogadható gyermekek speciális helyzetével és az örökbefogadással együtt járó konfliktusok kezelésének módjaival.
 
 (2) Az örökbefogadói tanfolyam időtartama 40 óra, amely a tanfolyamot lezáró, a tanfolyam elvégzését minősítő összegző beszélgetés 1 órás időtartamát is magába foglalja. Nem vehet részt az összegző beszélgetésen az, aki a tanfolyam során több, mint 4 óráról hiányzott.
 
@@ -10,4 +10,4 @@
 
 (5) Az örökbefogadói tanfolyamon részt vevők a tanfolyam sikeres elvégzéséről a tanfolyamot szervező által kiállított tanúsítványt kapnak.
 
-[^28]: A 14. § a 19/2017. (IX. 18.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^29]: A 14. § a 19/2017. (IX. 18.) EMMI rendelet 14. §-ával megállapított szöveg.

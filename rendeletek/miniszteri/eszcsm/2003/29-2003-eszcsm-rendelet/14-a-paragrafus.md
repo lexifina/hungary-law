@@ -1,4 +1,4 @@
-14/A. §[^29] (1) Az örökbefogadói tanfolyamot a miniszter szervezi pályázat keretében bevont tanfolyamszervezőn keresztül. A tanfolyamszervező egyedi azonosító számot kap.
+14/A. §[^30] (1) Az örökbefogadói tanfolyamot a miniszter szervezi pályázat keretében bevont tanfolyamszervezőn keresztül. A tanfolyamszervező egyedi azonosító számot kap.
 
 (2) A képzésbe bevont tanfolyamszervező az lehet,
 
@@ -14,24 +14,32 @@ e) aki biztosítja a tanfolyamon oktatók részvételét a miniszter által éve
 
 (3) A tanfolyamszervező a tanfolyam megvalósítása során kizárólag a miniszter által jóváhagyott képzési program alapján képezhet.
 
-(4) A tanfolyamszervező köteles a tanfolyam indítását írásban bejelenteni a miniszternek a tanfolyam indítását megelőzően legalább 30 nappal.
+(4)[^31] A tanfolyamot szervező köteles a tanfolyam indítását rögzíteni a GYVR örökbefogadási alrendszerében a tanfolyam indítását megelőzően legalább 30 nappal.
 
-(5) A (4) bekezdés szerinti bejelentésnek tartalmaznia kell:
+(5)[^32] A tanfolyamot szervező a tanfolyam indításával kapcsolatban a GYVR örökbefogadási alrendszerében az alábbi adatokat rögzíti:
 
-a) a tanfolyamszervező egyedi azonosító számát,
+a) a tanfolyam kezdő és záró napjának időpontját,
 
-b) a tanfolyam típusát, helyét és tárgyi feltételeit,
+b) a tanfolyam helyszínét,
 
-c) a tanfolyamon várhatóan részt vevők számát,
+c) a tanfolyam tervezett létszámát,
 
-d) a tanfolyam szakmai felelőseit,
+d) a tanfolyam szakmai felelősének és az oktatóknak a nevét.
 
-e) az oktatók nevét, a végzettséget igazoló okirat másolatát,
+(5a)[^33] A tanfolyamot szervező a tanfolyamra jelentkező személy személyes adatait az írásbeli jelentkezés beérkezését követő 2 munkanapon belül rögzíti a GYVR örökbefogadási alrendszerében.
 
-f) az oktatók nyilatkozatát arról, hogy az e) pont szerinti, valamint az elérhetőségükre vonatkozó (levelezési cím, telefonszám, elektronikus levelezési cím) személyes adataiknak a tanfolyamszervező és a miniszter által a képzés szervezése, lebonyolítása, ellenőrzése céljából történő kezeléséhez hozzájárulnak, valamint
+(6)[^34] A tanfolyamot szervező 15 napon belül köteles bejelenteni a miniszternek jóváhagyás céljából
 
-g) a felhasználni kívánt képzési programot, szakmai anyagokat és oktatási segédanyagokat.
+a) tanfolyam helyszínében, tárgyi feltételeiben,
 
-(6) Amennyiben az (5) bekezdésben foglaltak tekintetében változás következik be, a tanfolyamszervező köteles azt a változást követő 15 munkanapon belül bejelenteni a miniszternek.
+b) a tanfolyam szakmai felelősének személyében,
 
-[^29]: A 14/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.
+c) az oktatók személyében,
+
+d) a felhasználni kívánt képzési programban, szakmai anyagokban és oktatási segédanyagokban
+
+[^30]: A 14/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.
+[^31]: A 14/A. § (4) bekezdése a 34/2020. (X. 2.) EMMI rendelet 18. § a) pontja szerint módosított szöveg.
+[^32]: A 14/A. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^33]: A 14/A. § (5a) bekezdését a 34/2020. (X. 2.) EMMI rendelet 17. § (2) bekezdése iktatta be.
+[^34]: A 14/A. § (6) bekezdése a 34/2020. (X. 2.) EMMI rendelet 17. § (3) bekezdésével megállapított szöveg.

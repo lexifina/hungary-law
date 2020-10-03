@@ -1,6 +1,6 @@
 ## Ismereteket összegző beszélgetés.
 
-8. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^44]
+8. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^49]
 
 ## A Központi Oktatási Program (KOP) alapján történő nevelőszülő képzés témakörei, óraszámai, valamint elméleti és gyakorlati óraszámainak aránya
 
@@ -24,4 +24,4 @@
 
 | 3 | 4 | 54 | 4 | 8 | 30 | 42 | 142 | 59 | Gyakorlat/ elméletigényes gyakorlat |
 
-[^44]: A 8. mellékletet a 48/2015. (X. 28.) EMMI rendelet 11. § a) pontja iktatta be.
+[^49]: A 8. mellékletet a 48/2015. (X. 28.) EMMI rendelet 11. § a) pontja iktatta be.

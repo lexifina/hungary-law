@@ -1,6 +1,6 @@
-## 14/C. §[^31] A tanfolyamon való részvételről kiadott tanúsítvány másolatát a tanfolyamot szervező a tanfolyam befejezését követő 30 napon belül megküldi a miniszternek.
+## 14/C. §[^36] A tanfolyamon való részvételről kiadott tanúsítvány másolatát a tanfolyamot szervező a tanfolyam befejezését követő 5 munkanapon belül feltölti a GYVR örökbefogadási alrendszerébe.
 
-14/D. §[^32] (1) A tanfolyamokat a miniszter folyamatosan ellenőrzi annak érdekében, hogy azok megfeleljenek a képzési programban, illetve az e rendeletben foglaltaknak.
+14/D. §[^37] (1) A tanfolyamokat a miniszter folyamatosan ellenőrzi annak érdekében, hogy azok megfeleljenek a képzési programban, illetve az e rendeletben foglaltaknak.
 
 (2) Ha a tanfolyam megvalósítása eltér a jóváhagyott képzési programtól, vagy az ellenőrzés során szabálytalanság merül fel, a miniszter – határidő kitűzése mellett – felhívja a tanfolyamszervezőt a képzési programban foglaltaknak megfelelő képzési tevékenység folytatására és a felmerült szabálytalanság megszüntetésére.
 
@@ -14,5 +14,5 @@ c) tematika oktatásával vagy
 
 d) képesítésű oktató részvételével
 
-[^31]: A 14/C. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.
-[^32]: A 14/D. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.
+[^36]: A 14/C. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be, szövege a 34/2020. (X. 2.) EMMI rendelet 18. § b) pontja szerint módosított szöveg.
+[^37]: A 14/D. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.

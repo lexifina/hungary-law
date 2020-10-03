@@ -4,7 +4,7 @@
 
 ## A tanácsadás célja, hogy
 
-## a)[^40] az örökbe fogadni szándékozó személy
+## a)[^45] az örökbe fogadni szándékozó személy
 
 ## aa) megismerje azokat a nehézségeket, amelyekkel a személyisége, motivációi, családstruktúrája alapján az örökbefogadás során várhatóan szembesülni fog,
 
@@ -14,9 +14,9 @@
 
 ## ba) megismerje az örökbe fogadni szándékozó motivációit, valamint jelenlegi és virtuális családstruktúráját,
 
-## bb)[^41] megalapozott döntést tudjon hozni arról, hogy alkalmas-e az örökbe fogadni szándékozó személy az örökbefogadásra.
+## bb)[^46] megalapozott döntést tudjon hozni arról, hogy alkalmas-e az örökbe fogadni szándékozó személy az örökbefogadásra.
 
-## II.[^42] A tanácsadás szakmai irányelvei
+## II.[^47] A tanácsadás szakmai irányelvei
 
 ## A tanácsadást végző szakember a következő témaköröket beszéli meg az örökbe fogadni szándékozó személlyel, és ennek alapján készíti el az örökbe fogadni szándékozó személy alkalmasságára vonatkozó megállapításait:
 
@@ -42,7 +42,7 @@
 
 ## – Hogyan oldana meg bizonyos helyzeteket, konfliktusokat az örökbe fogadni szándékozó család?
 
-7. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^43]
+7. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^48]
 
 ## Az örökbefogadói tanfolyam célja, tematikája és az ismeretek ellenőrzési rendszere
 
@@ -278,7 +278,7 @@ III. A tanfolyam tematikája
 
 IV. Az ismeretek ellenőrzési rendszere
 
-[^40]: A 6. számú melléklet I. pont a) alpont nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^41]: A 6. számú melléklet I. pont b) alpont bb) pontja a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^42]: A 6. számú melléklet II. pontja a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
-[^43]: A 7. számú melléklet a 19/2017. (IX. 18.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^45]: A 6. számú melléklet I. pont a) alpont nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^46]: A 6. számú melléklet I. pont b) alpont bb) pontja a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^47]: A 6. számú melléklet II. pontja a 19/2017. (IX. 18.) EMMI rendelet 18. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^48]: A 7. számú melléklet a 19/2017. (IX. 18.) EMMI rendelet 17. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@
 
 a)[^4] a helyettes szülői és a nevelőszülői tanfolyamot megelőző döntés-előkészítő program, valamint a helyettes szülői és a nevelőszülői tanfolyam elindítását a Szociális és Gyermekvédelmi Főigazgatóságnak,
 
-b)[^5] az örökbefogadás előtti tanácsadás, valamint az örökbefogadói tanfolyam elindítását a gyermekek és az ifjúság védelméért felelős miniszternek (a továbbiakban: miniszter)
+b)[^5]
 
 ## írásban bejelenti.
 
@@ -26,10 +26,13 @@ e) a felhasználni kívánt szakmai tananyagot.
 
 (3)[^7] Ha a (2a) bekezdésben foglaltak tekintetében változás következik be, a tanfolyamot szervezőnek a változást is be kell jelentenie.
 
+(4)[^8] Az örökbefogadói tanfolyamot szervező az örökbefogadói tanfolyamra vonatkozó, a 14/A. § (5) és (6) bekezdése szerinti adatokat a Gyermekeink védelmében elnevezésű informatikai rendszer örökbefogadási alrendszerében (a továbbiakban: GYVR örökbefogadási alrendszere) rögzíti.
+
 [^1]: Az 1. § a 83/2013. (XII. 29.) EMMI rendelet 32. § a) pontja, a 6/2015. (I. 28.) EMMI rendelet 25. § a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 19. § a) pontja, 18. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (2) bekezdés a) pontja a 43/2016. (XII. 27.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdés b) pontját a 34/2020. (X. 2.) EMMI rendelet 19. §-a hatályon kívül helyezte.
 [^6]: A 2. § (2a) bekezdését a 39/2015. (VIII. 28.) EMMI rendelet 6. § (2) bekezdése iktatta be.
 [^7]: A 2. § (3) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdését a 34/2020. (X. 2.) EMMI rendelet 15. §-a iktatta be.
