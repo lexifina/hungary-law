@@ -1,7 +1,3 @@
-## 6. § Az R1. 2. § (3) bekezdés 1. pontjában az „az (5)–(6) bekezdésben” szövegrész helyébe az „a (4) bekezdés 2. pontjában” szöveg lép.
+## 6. §[^7]
 
-## 7. § Hatályát veszti az R1.
-
-a) 2. § (1) bekezdés d) és e) pontja,
-
-b) 2. § (5) és (6) bekezdése.
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

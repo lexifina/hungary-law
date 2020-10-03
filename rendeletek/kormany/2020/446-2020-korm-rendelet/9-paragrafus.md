@@ -1,7 +1,3 @@
-## 8. § A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet (a továbbiakban: R2.) 13. §-a a következő d) ponttal egészül ki:
+## 8. §[^9]
 
-## (A Kormány élelmiszerlánc-felügyeleti szervként)
-
-## „d) a Pest Megyei Kormányhivatalt,”
-
-## (jelöli ki.)
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

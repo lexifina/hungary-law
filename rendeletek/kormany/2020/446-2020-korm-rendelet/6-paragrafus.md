@@ -1,3 +1,3 @@
-## 5. § Az R1. a következő 2/A. §-sal egészül ki:
+## 5. §[^6]
 
-## „2/A. § A Kormány útügyi közlekedési hatóságként országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a közúti közlekedés alágazatba és – a 6. § (7) bekezdés b) pontjában foglaltak kivételével – a logisztikai központok alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
