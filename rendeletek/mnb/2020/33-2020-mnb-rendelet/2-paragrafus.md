@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz, 4% nikkel és 21% cink ötvözetéből készült, súlya 16 gramm, átmérője 34 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben egy komondor ábrázolása látható, féloldalról. Az ábrázolás alatti két vízszintes sorban, középen a „2000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme szélén, fent, félköriratban a „MAGYARORSZÁG” felirat, középen, bal oldalon a „BP.” verdejel, jobb oldalon a „2020” verési évszám olvasható. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, az előtérben három – füves pusztán őrködő, figyelő testtartású – komondor ábrázolása látható, féloldalról, a háttérben egy tanyasi porta gémeskúttal és legelésző juhnyájjal. Az emlékérme szélén, fent, félköriratban a „KOMONDOR” felirat olvasható, lent, bal oldalon, a füves puszta ábrázolásába illesztve Imrei Boglárka tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
