@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-34-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-10-03 | 2020-34-20-5H.1 | 34/2020. (X. 2.) EMMI rendelet |
+| 2020-10-04 | 2020-34-20-5H.2 | 2010: CXXX. törvény |

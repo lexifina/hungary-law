@@ -1,5 +1,3 @@
-## 8. § Az Nmr. 148. §-a helyébe a következő rendelkezés lép:
+## 8. §[^9]
 
-## „148. § (1) A szakszolgálat a gyámhivatal felkérésére figyelemmel kíséri a kihelyezett gyermek gondozását, a szülő-gyermek kapcsolat alakulását, a gyermek családba történő beilleszkedését, és ennek alapján a gyámhivatal által kitűzött határidőre a GYVR örökbefogadási alrendszerében a gyámhivatal számára megismerhetővé teszi az örökbefogadásra vonatkozó javaslatát.
-
-## (2) Ha a szakszolgálat nem talált a gyermek számára megfelelőnek látszó örökbe fogadni szándékozó személyt, ennek tényéről és okáról haladéktalanul értesíti az országos örökbefogadást elősegítő szervet a GYVR örökbefogadási alrendszerén keresztül. A szakszolgálat ezzel egyidejűleg a gyermekre vonatkozó adatokat, véleményeket és iratokat naprakészen rögzíti.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

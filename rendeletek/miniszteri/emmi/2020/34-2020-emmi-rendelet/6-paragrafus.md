@@ -1,1 +1,3 @@
-## „(11) A szakszolgálat az örökbefogadásra való alkalmassági vizsgálat folyamatát a kérelem benyújtását követően a GYVR örökbefogadási alrendszerében rögzíti.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

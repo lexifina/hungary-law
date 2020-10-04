@@ -1,3 +1,3 @@
-## 10. § Az Nmr. 148/C. §-a a következő (7) bekezdéssel egészül ki:
+## 10. §[^11]
 
-## „(7) Az utánkövetéssel kapcsolatos tevékenység adminisztrációját a GYVR örökbefogadási alrendszerében kell végezni.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

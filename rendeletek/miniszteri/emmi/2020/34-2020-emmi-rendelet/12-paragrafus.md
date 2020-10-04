@@ -1,3 +1,3 @@
-## 11. § Az Nmr. 148/E. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 11. §[^12]
 
-## „(3) Az utánkövetést végző szakszolgálat rögzíti a GYVR örökbefogadási alrendszerében az utánkövetési jelentést, az örökbefogadás önkéntes utánkövetését megalapozó megállapodást, és annak megtörténtéről, valamint eredményéről készített feljegyzést.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

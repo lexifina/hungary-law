@@ -1,3 +1,3 @@
-## 2. § Az Nmr. 113. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(3) A befogadásról a gyermekotthon haladéktalanul értesíti a miniszter által jóváhagyott, a minisztérium honlapján és a Szociális Ágazati Portálon közzétett adatlapon a 101. § (2) bekezdésében meghatározott szerveket és személyeket.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

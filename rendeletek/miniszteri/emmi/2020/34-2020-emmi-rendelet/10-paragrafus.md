@@ -1,15 +1,3 @@
-## 9. § Az Nmr. 148/A. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+## 9. §[^10]
 
-## „(2) Ha az országos örökbefogadást elősegítő szerv megállapította, hogy a GYVR örökbefogadási alrendszerének örökbefogadásra alkalmas személyekről vezetett nyilvántartásában szerepel olyan örökbe fogadni szándékozó személy, aki várhatóan megfelelő szülő-gyermek kapcsolatot tud kialakítani a gyermekkel, akkor erről értesíti a gyermek szerinti és az örökbe fogadni szándékozó személy szerinti szakszolgálatot, és a GYVR örökbefogadási alrendszerében hozzáférhetővé teszi az örökbe fogadni szándékozó személyek Gyvt. 135. § (5) bekezdés b) pontja szerinti adatait és dokumentumait a gyermek szerinti szakszolgálat számára. A hozzáférés megadását követően
-
-## a) a gyermek szerinti szakszolgálat az országos örökbefogadást elősegítő szerv által ajánlott örökbe fogadni szándékozó személyek közül 10 munkanapon belül kiválasztja a gyermek számára a legmegfelelőbbnek látszó személyt, és egyidejűleg a GYVR örökbefogadási alrendszerén keresztül hozzáférést biztosít az örökbe fogadni szándékozó személy szerinti szakszolgálat számára a gyermek adataihoz, dokumentumaihoz,
-
-## b) a gyermek számára kiválasztott örökbe fogadni szándékozó személy szerinti szakszolgálat 3 munkanapon belül felveszi a kapcsolatot az örökbe fogadni szándékozó személlyel, és a 147. § (4) bekezdése szerint tájékoztatja őt az örökbefogadható gyermekről, majd a kapcsolatfelvétel és a tájékoztatás eredményét vagy eredménytelenségét, valamint annak okát a GYVR örökbefogadási alrendszerében rögzíti,
-
-## c) a gyermek szerinti szakszolgálat az örökbe fogadni szándékozó személy kérelmére – a gyermeket gondozó intézmény, személy, gyermekvédelmi gyám közreműködésével – további tájékoztatást nyújt a gyermekről, és a 147. § (5) bekezdésében foglaltak szerint megszervezi a gyermek megtekintését, majd a megtekintés eredményét vagy eredménytelenségét, valamint annak okát a GYVR örökbefogadási alrendszerében rögzíti,
-
-## d) a gyermek szerinti szakszolgálat a gyermek megtekintését követően a 147. § (6)–(8) bekezdésében foglaltak szerint jár el, majd a személyes kapcsolatfelvétel eredménytelensége esetén ennek tényét – az okok megjelölésével – a GYVR örökbefogadási alrendszerében rögzíti, és
-
-## e) az örökbe fogadni szándékozó személy szerinti szakszolgálat a gyámhivatal felkérésére a 148. § (1) bekezdése szerint jár el, valamint a kötelező gondozás eredménytelensége esetén ennek tényét – az okok megjelölésével – a GYVR örökbefogadási alrendszerében rögzíti, és erről tájékoztatja a gyermekvédelmi gyámot.
-
-## (3) Ha az országos örökbefogadást elősegítő szerv nem talált a GYVR örökbefogadási alrendszerének örökbefogadásra alkalmas személyekről vezetett nyilvántartásában a gyermek számára megfelelő örökbe fogadni szándékozó személyt, erről értesíti a gyermek szerinti szakszolgálatot, és egyidejűleg a gyermekre vonatkozó adatokat, dokumentumokat a GYVR örökbefogadási alrendszerén keresztül hozzáférhetővé teszi a központi hatóság számára.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
