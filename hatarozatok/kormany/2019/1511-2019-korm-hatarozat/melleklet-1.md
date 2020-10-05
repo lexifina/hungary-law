@@ -88,7 +88,7 @@
 
 ## 6. a vízügyi és rendőrségi funkciók végleges elhelyezése érdekében az alábbiakat határozza meg:
 
-## 6.1. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az érintett miniszterek és a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos bevonásával vizsgálja meg az 1. pontban szereplő és az 1. mellékletben felsorolt belügyi ingatlanokon lévő, áthelyezhető funkciók áttelepítéséhez szükséges és alkalmas ingatlanok körét, valamint a magyar állam tulajdonába kerülésének feltételeit, és készítsen megvalósíthatósági tanulmányt;
+## 6.1.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az érintett miniszterek és a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos bevonásával vizsgálja meg az 1. pontban szereplő és az 1. mellékletben felsorolt belügyi ingatlanokon lévő, áthelyezhető funkciók áttelepítéséhez szükséges és alkalmas ingatlanok körét, valamint a magyar állam tulajdonába kerülésének feltételeit, és készítsen megvalósíthatósági tanulmányt;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -100,9 +100,9 @@
 
 ## kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-## Határidő: 2020. április 30.
+## Határidő: 2021. február 28.
 
-## 6.2. felhívja a belügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter és a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos bevonásával készítsen előterjesztést a Kormány részére az 1. pont szerinti, valamint az 1. mellékletben felsorolt belügyi vagyonkezelésű ingatlanokon lévő, áthelyezhető funkciók áttelepítésére alkalmas ingatlanok biztosításához szükséges intézkedésekről, és tegyen javaslatot a vízügyi és rendőrségi funkciók végleges elhelyezését biztosító beruházás előkészítésének folytatására, annak ütemezett forrásigényének bemutatásával;
+## 6.2.[^2] felhívja a belügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter és a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos bevonásával készítsen előterjesztést a Kormány részére az 1. pont szerinti, valamint az 1. mellékletben felsorolt belügyi vagyonkezelésű ingatlanokon lévő, áthelyezhető funkciók áttelepítésére alkalmas ingatlanok biztosításához szükséges intézkedésekről, és tegyen javaslatot a vízügyi és rendőrségi funkciók végleges elhelyezését biztosító beruházás előkészítésének folytatására, annak ütemezett forrásigényének bemutatásával;
 
 ## Felelős: belügyminiszter
 
@@ -110,7 +110,7 @@
 
 ## kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-## Határidő: 2020. június 30.
+## Határidő: 2021. április 30.
 
 ## 6.3. a 6.1. alpontban meghatározott megvalósíthatósági tanulmány, valamint a 6.2. alpont szerint kijelölésre kerülő ingatlanokon megvalósuló beruházások előkészítési fázisainak megvalósítójaként a Beruházási Ügynökséget jelöli ki;
 
@@ -163,3 +163,6 @@ A Budapest Diákváros – Déli Városkapu Fejlesztési Programban érintett be
 | 16. | Budapest/belterület | 23815/2 |
 
 | 17. | Budapest/belterület | 38093 |
+
+[^1]: A 6.1. pont az 1642/2020. (X. 5.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6.2. pont az 1642/2020. (X. 5.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
