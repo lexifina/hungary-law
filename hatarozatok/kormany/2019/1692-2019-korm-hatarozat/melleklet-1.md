@@ -6,7 +6,7 @@
 
 ## 4. a fejlesztések előkészítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 1 163 193 000 forintban határozza meg;
 
-## 5. a fejlesztéseknek a megvalósíthatósági tanulmányainak elkészítésére a 4. pontban meghatározott forrást biztosítja azzal, hogy az előkészítési fázist legkésőbb 2020. június 30. napjáig kell megvalósítani;
+## 5.[^1] a fejlesztéseknek a megvalósíthatósági tanulmányainak elkészítésére a 4. pontban meghatározott forrást biztosítja azzal, hogy az előkészítési fázist legkésőbb 2020. október 15. napjáig kell megvalósítani;
 
 ## 6. felhívja a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel – gondoskodjon az 5. pont szerinti összeg rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet javára;
 
@@ -30,19 +30,15 @@
 
 ## 9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy készítsen a Kormány részére
 
-## a) jelentést az 5. pontban meghatározott előkészítési fázis végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
+## a)[^2]
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: 2020. július 30.
-
-## b) előterjesztést – az emberi erőforrások minisztere bevonásával – az 5. pont szerinti előkészítési fázis eredményeként a fejlesztések előkészítésének folytatásáról, annak ütemezett forrásigényének, valamint a fejlesztések helyszíneire vonatkozó javaslat bemutatásával.
+## b)[^3] előterjesztést – az emberi erőforrások minisztere bevonásával – az 5. pont szerinti előkészítési fázis eredményeként a fejlesztések előkészítésének folytatásáról, annak ütemezett forrásigényének, valamint a fejlesztések helyszíneire vonatkozó javaslat bemutatásával.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2020. augusztus 31.
+## Határidő: 2021. január 31.
 
 1. melléklet az 1692/2019. (XII. 10.) Korm. határozathoz
 
@@ -79,3 +75,7 @@
 | 15. | Őrbottyán | Váci | működő köznevelési intézmény bővítése | új 24 osztályos iskola |
 
 | 16. | Tahitótfalu | Váci | működő köznevelési intézmény bővítése | új 8 tantermes iskola |
+
+[^1]: Az 5. pont az 1639/2020. (X. 5.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 9. pont a) alpontját az 1639/2020. (X. 5.) Korm. határozat 2. pontja visszavonta.
+[^3]: A 9. pont b) alpontja az 1639/2020. (X. 5.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
