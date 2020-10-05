@@ -1,0 +1,1037 @@
+# A Kormány 1640/2020. (X. 5.) Korm. határozata
+
+Magyar Közlöny 2020. évi 219. szám, 2020. október 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/pstbmQq7Ieyd957kDq2e5f74ef12dbdf7/dokumentumok/0e75241aba71ad189b092db663eb7a6bc6850dec/letoltes)
+
+---
+
+A Kormány 1640/2020. (X. 5.) Korm. határozata
+a Terület- és Településfejlesztési Operatív Program keretében finanszírozott egyes projektek támogatásának
+növeléséről
+A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés f) pontjában meghatározott feladatkörében eljárva
+1. egyetért az 1. melléklet szerint az ott felsorolt projektek (a továbbiakban: projektek) támogatásának növelésével,
+2. az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló
+17/2017. (II. 1.) Korm. rendelet (a továbbiakban: Kormányrendelet) 6/A. §-a alapján hozzájárul, hogy
+az 1. mellékletben foglalt táblázat 3., 8., 26., 48. és 50. sora szerinti projekt keretemelése és annak végrehajtása során
+a Kormányrendelet 5. §-a ne kerüljön alkalmazásra,
+3. egyetért a projektek 1. pont szerinti többlettámogatásának a Terület- és Településfejlesztési Operatív Program
+1., 2., 3., 4. és 6. prioritása rendelkezésre álló kerete terhére történő finanszírozásával,
+4. egyetért a projektek támogatási szerződéseinek az 1. melléklet szerinti módosításával.
+Felelős: pénzügyminiszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1640/2020. (X. 5.) Korm. határozathoz
+A B C D E F G
+1.
+Projekt azonosító
+száma
+Projekt megnevezése Kedvezményezett neve
+Hatályos
+támogatás (forint)
+Többlettámogatás
+legfeljebb
+(forint)
+Megnövelt
+támogatás
+legfeljebb
+(forint)
+Projekt rövid bemutatása
+2.
+TOP-1.1.1-15-
+HE1-2016-00005
+Iparterület kialakítása
+Erdőtelken
+Erdőtelek Községi
+Önkormányzat
+910 000 000 269 334 233 1 179 334 233
+Az alapinfrastruktúra kiépítésével (ivóvízhálózat,
+szennyvízelvezetés, gáz-, elektromosáram-, csapadékvíz-
+elvezetés, útépítés), az új csarnoképület építésével,
+a hozzá tartozó kiszolgáló és adminisztratív
+épületrészekkel, portával további vállalkozások számára
+válik hosszú távon biztosítottá a betelepülés lehetősége.
+Az önkormányzat a vállalkozói igényekre tekintettel
+a fejlesztés helyszínéül szolgáló ingatlan
+megvásárlásával biztosítja a tervezett beruházás
+létrejöttét.
+3.
+TOP-1.1.1-16-
+BA1-2017-00001
+Feltáró út építése
+a mohácsi ipari
+parkban
+Mohács Város
+Önkormányzata
+195 000 000 91 279 144 286 279 144
+A projekt keretében új ipari út kerül megépítésre
+1130 méter hosszon. Az út egyrészt feltáró (új ipari
+területeket kapcsol az ipari park törzsterületéhez),
+másrészt elérhetőségjavító, tehermentesítő szerepet
+tölt be. Közvetlen kapcsolatot biztosít a megvalósítási
+fázisban lévő közforgalmú kikötő, valamint az elkerülő
+ipari út és az M6/M60-as autópálya között.
+4.
+TOP-1.1.1-16-
+CS1-2017-00002
+A Kistelek és
+Térsége Ipari Park
+alapinfrastruktúra
+fejlesztése
+Kistelek Városi
+Önkormányzat
+450 000 000 67 050 000 517 050 000
+A projekt célja a Kistelek és Térsége Ipari Park szennyvíz-
+csatorna-hálózatának kiépítése és ehhez kapcsolódó
+szennyvíztisztító telep kialakítása.
+5.
+TOP-1.1.3-15-
+CS1-2016-00018
+Helyi piac létesítése
+Kiszomboron
+Kiszombor Nagyközség
+Önkormányzata
+50 000 000 14 610 507 64 610 507
+A fejlesztés Kiszombor területén, Kiszombor Nagyközség
+Önkormányzata által, önkormányzati tulajdonú
+területen egy 16 férőhelyes (esetleges későbbi bővítés
+lehetőségét magában hordozó) helyi piac létesítésére
+irányul, amely létesítményt az Önkormányzat
+a későbbiekben ingyenesen, egyenlő eséllyel bocsátja
+a felhasználók rendelkezésére. A létesítmény teret
+biztosít a helyi termelők által termelt és készített
+termékek helyi fogyasztókhoz történő eljuttatásához.
+
+6.
+TOP-1.1.3-16-
+CS1-2017-00004
+Piaci infrastruktúra
+kiépítése
+a helyi termelők
+termékeinek
+priorizációja
+érdekében, Balástya
+Balástya Községi
+Önkormányzat
+55 939 998 16 222 599 72 162 597
+A projekt célja egy fedett piactér kialakítása Balástyán.
+A piactérhez készülő épületrészben kerül elhelyezésre
+a takarítószer-tároló helyiség mellett egy hatósági
+személyek kiszolgálását biztosító iroda, továbbá
+vizesblokkok is. A piac élelmiszer-forgalmazó hely
+rendeltetésű helyiséget tartalmaz. A helyi termékek
+forgalmazása a fedett asztaloknál történik. Az épület
+időszakos használatú, nem fűtött, de rendelkezik fűtött
+(téliesített) térrel is. Az épület akadálymentesen kerül
+kialakításra, tetején napelem kerül elhelyezésre.
+7.
+TOP-1.2.1-15-
+JN1-2016-00006
+Turizmusfejlesztés
+Jánoshida,
+Alattyán és
+Jászalsószentgyörgy
+településeken
+Jánoshida Községi
+Önkormányzat
+(konzorciumvezető)
+Alattyán Község
+Önkormányzata,
+Jászalsószentgyörgy
+Községi Önkormányzat
+450 000 000 47 041 867 497 041 867
+A projekt keretében Jánoshidán a Premontrei rendház
+felújítása és turisztikai célú hasznosítása valósul meg.
+A konzorciumi tagok esetében Alattyánban az Ökopark
+kialakítására, Jászalsószentgyörgyön pedig aktív
+turizmushoz kapcsolódó fejlesztésekre kerül sor.
+8.
+TOP-1.2.1-15-
+KO1-2016-00001
+AZAUM RÓMAI
+TÁBOR a rómaiak
+hagyományait és
+életmódját bemutató
+interaktív élménytár
+létrehozása
+Almásfüzitő Község
+Önkormányzata
+157 312 382 102 482 771 259 795 153
+Jelen projekt keretében a térség kulturális adottságaira
+épülő új vonzerő jön létre, illetve a 2013-ban
+– nem közvetlenül a régészeti területen – épült Azaum
+Római Tábor történelmi élménypark fejlesztésére kerül
+sor.
+9.
+TOP-1.2.1-15-
+KO1-2016-00008
+Majk és a Vértes
+turisztikai
+tevékenységeinek
+összehangolása az
+Oroszlányi Bányászati
+Múzeum komplex
+fejlesztésével
+Oroszlány Város
+Önkormányzata
+499 980 390 140 227 850 640 208 240
+A projekt célja az Oroszlány volt XX-as akna (bánya)
+helyén 2000-ben kialakított Bányászati Múzeum
+fejlesztése, látogatóbaráttá tétele és az attrakció
+beillesztése a Vértes turisztikai kínálatába.
+
+10.
+TOP-1.2.1-15-
+NG1-2016-00018
+Varázsvölgy Pásztón
+Pásztó Városi
+Önkormányzat
+498 124 480 144 452 756 642 577 236
+A projekt célja a térség kulturális adottságaira épülő új
+vonzerők létrehozása, a meglévő látnivalók és
+a rendezvények infrastrukturális hátterének fejlesztése,
+amelyek során az alábbi tevékenységek kerülnek
+megvalósításra: a malom épületének részbeni
+rekonstrukciója, a jelenlegi malomrom kiegészítése és
+körülötte fedett zárt tér létrehozása. A létrejövő térben
+működő modellek segítségével mutatják be
+a hagyományos malom működését. A Szent Imre téren
+lévő üres telkek és a közelmúltban összedőlt épület
+területének felhasználásával egy fogadó épületet
+hoznak létre, amely a látogatók számára információt
+nyújt a város és a környék látnivalóiról.
+11.
+TOP-1.4.1-15-
+BO1-2016-00047
+A foglalkoztatás és az
+életminőség javítása
+családbarát bölcsőde
+fejlesztésével
+Mályiban
+Mályi Község
+Önkormányzata
+129 999 535 38 999 000 168 998 535
+Mályi Község Önkormányzata a tulajdonában lévő
+Mályi, Botond u. 7. szám alatti óvoda épületének
+felújítását és bővítését tervezi. Az ingatlan jelenleg
+üresen áll, a fejlesztést követően bölcsődeként fog
+működni. A fejlesztés konkrét célja az önkormányzati
+ingatlan épületében két darab 12 fős és két darab
+7 fős csoportszoba létrehozása. A projekt tartalmazza
+a bölcsőde üzemeltetéséhez szükséges
+eszközbeszerzést is.
+12.
+TOP-1.4.1-15-
+SB1-2016-00064
+Napközi Otthonos
+Óvoda fejlesztése
+Jánkmajtison
+Jánkmajtis-Darnó
+Intézményfenntartó
+Társulás
+203 853 800 56 862 110 260 715 910
+A fejlesztéssel önkormányzati telken egy új, négy
+csoportszobás, 85 férőhelyes, minden aktuális
+jogszabálynak, normának megfelelő óvodaépület kerül
+kialakításra, amely költséghatékonyan üzemeltethető.
+A fejlesztés szükségességét az épületek leromlott
+műszaki állapota és a nagyon magas fenntartási
+költségei indokolják.
+13.
+TOP-1.4.1-15-
+TL1-2016-00014
+Óvoda és mini
+bölcsőde építése
+Iregszemcsén
+Iregszemcse Község
+Önkormányzata
+370 000 000 110 490 000 480 490 000
+A projekt keretében kialakításra kerül egy 998,5
+négyzetméter alapterületű, 120 férőhelyes óvoda és
+minibölcsőde.
+
+14.
+TOP-1.4.1-16-
+HE1-2017-00020
+A Gyermekkert
+Óvoda fejlesztése
+Dormánd Község
+Önkormányzata
+(konzorciumvezető)
+Füzesabonyi Média
+Nonprofit Korlátolt
+Felelősségű Társaság
+79 367 380 22 976 747 102 344 127
+A projektcél férőhelybővítés a dormándi óvodánál.
+A fejlesztés tárgya közösségi tér, öltöző, orvosi és
+elkülönítő szoba, fejlesztő, nevelőtestületi iroda
+kialakítása, valamint a tetőszerkezet hibáinak javítása.
+A projekt kertében informatikai eszközök és bútorok
+beszerzése is megvalósul.
+15.
+TOP-2.1.1-16-
+BA1-2017-00003
+Barnamezős terület
+rehabilitációja
+Komlón
+Komló Város
+Önkormányzat
+299 999 960 75 689 130 375 689 090
+A tervezett fejlesztés hozzájárul a vállalkozások
+letelepedési kedvének növeléséhez, amely a helyi
+iparűzési eredmény növekedését eredményezi.
+A kereskedelmi és szolgáltató központ kialakításával
+munkahelyek jönnek létre, amely egyrészről a helyi
+foglalkoztatást növeli, másrészről pedig szintén
+hozzájárul az önkormányzat helyi adóbevételének
+növekedéséhez. A beruházás keretében az
+önkormányzat a vállalkozások számára kedvező
+feltételek mellett szeretné elérni a város gazdasági
+fellendülését, valamint a munkanélküliek számának
+csökkenését. A projekt (beruházás) nettó bevételt nem
+fog termelni. A tervezett fejlesztés a munkahelyek
+létrehozásával, munkanélküliség csökkentésével
+és iparűzési adó befizetésével jelentős mértékben
+hozzájárul a város gazdasági-társadalmi fejlődéséhez.
+16.
+TOP-2.1.2-15-
+JN1-2016-00015
+Abádszalók város
+zöldfelületeinek
+rekonstrukciója
+Abádszalók Város
+Önkormányzata
+(konzorciumvezető)
+Tisza-tó Strand
+Nonprofit Korlátolt
+Felelősségű Társaság
+134 900 000 39 999 999 174 899 999
+A projekt célja a kijelölt akcióterületen a város
+zöldfelületeinek környezettudatos, család- és klímabarát
+megújulása, élhetővé tétele, valamint a helyi termékek
+számára piac kialakítása.
+
+17.
+TOP-2.1.2-15-
+SB1-2017-00037
+Zöld város kialakítása
+Kemecsén
+Kemecse Város
+Önkormányzat
+(konzorciumvezető)
+Kemecsei Római
+Katolikus Egyházközség
+300 000 000 76 542 425 376 542 425
+A projekt Kemecse városközponti akcióterületén
+valósul meg, célja egy élhetőbb környezet, és egy
+egységes városközpont kialakítása. A projekt keretében
+kialakításra kerül a Répásy Mihály Park, amely rekreációs
+funkciót tölt be, illeszkedve a meglévő közigazgatási
+épületekhez (városháza, járási hivatal). Az ingatlan
+szomszédságában található római katolikus templom
+környéke megújul, zöldterület kerül kialakításra egy
+körmenetként funkcionáló sétánnyal, amely egységes
+arculatot ad a városrésznek. A Répásy Mihály Parkot
+körülvéve kialakításra kerül egy térkövezett sétány,
+amelynek egy része valósul meg a jelen projektből,
+a fennmaradó rész későbbi ütemekben kerül
+megvalósításra. Kialakításra kerül továbbá egy piaci
+terület parkolóval, amely a település gazdasági életét
+erősíti, továbbá közbiztonsági, bűnmegelőzési és
+közlekedésbiztonsági rendezvénysorozat megvalósítását
+is tervezi a Kedvezményezett.
+18.
+TOP-3.1.1-15-
+CS1-2016-00005
+Szatymazi
+kerékpárút építés
+a fenntarthatóság
+jegyében
+Szatymaz Községi
+Önkormányzat
+90 000 000 25 650 000 115 650 000
+A beruházás során a település közlekedési úthálózatának
+kerékpárosbarát fejlesztése valósul meg kerékpárút
+építésével, valamint a lakott területen kívül elérhető
+lakott településrész és Szatymaz település közötti
+kerékpárforgalmi útvonal is megépítésre kerül.
+A kerékpárút kezdő szelvénye a szatymazi belterületi
+kerékpárúthoz csatlakozik. A teljes szakasz tervezett
+hossza 2319 méter. Az önkormányzat a beruházás
+részeként kerékpáros közlekedést népszerűsítő,
+közlekedésbiztonsági célú szemléletformáló kampány
+megvalósítását is tervezi.
+
+19.
+TOP-3.1.1-15-
+HE1-2016-00005
+ Kerékpárút
+fejlesztése Boldog
+Községben
+Boldog Község
+Önkormányzata
+99 000 000
+29 187 460
+128 187 460
+A beruházás során az önkormányzat Boldog településen
+kerékpárút építését tervezi a Zagyva út keleti végétől
+a jelenleg ott található mezőgazdasági út nyomvonalán,
+650 méter hosszan. Ennek folytatásaként a Zagyva
+jobb partján található árvízvédelmi töltésen szilárd
+burkolatú üzemi út kerül kialakításra a tervezett
+kerékpárúttól a két part közti összeköttetést biztosító
+hídig, 1250 méter hosszan. Az így kialakított kerékpáros
+nyomvonal közvetlen összeköttetést biztosít a település
+belső területei és a Zagyva mentén haladó jelenlegi
+kerékpáros útvonal között.
+20.
+TOP-3.1.1-15-
+HE1-2016-00010
+Kerékpáros
+közlekedés fejlesztése
+Nagyrédén
+Nagyréde Nagyközség
+Önkormányzata
+62 400 000
+18 370 710
+80 770 710
+A projekt célja az Atkári út mentén található szőlészeti és
+borászati üzemek hivatásforgalmi közlekedésfejlesztése.
+Az üzemek kerékpáros elérhetőségének javítása
+érdekében a Haladás út mentén kerékpáros
+infrastruktúra építésére kerül sor. Az Alsórét út szakaszán
+önálló kerékpárút kialakítására van lehetőség.
+A fennmaradó Alsórét út – Atkári útszakaszon kétoldali
+irányhelyes közlekedést biztosító kerékpáros nyom kerül
+kialakításra. A kerékpárút tervezett hossza 550 méter,
+a kerékpáros nyommal bővített útszakasz hossza
+360 méter.
+21.
+TOP-3.1.1-15-
+JN1-2016-00010
+ Tiszafüred
+belvárosának
+fenntartható
+települési
+közlekedés-
+fejlesztése
+Tiszafüred Város
+Önkormányzata
+331 675 118
+59 919 690
+391 594 808
+A beruházás során az érintett utcák forgalmi rendjének
+átalakítása, a Piac tér – Belsőfokpart út közötti
+útszakasz kétirányú forgalmú úttá történő átépítése,
+új parkolóterületek kiépítése, elválasztás nélküli
+gyalog- és kerékpárút szakaszok és gyalogjárdák
+létrehozása, a biztonságos közlekedést biztosító
+forgalomtechnikai beavatkozások kiépítése, valamint
+további infrastrukturális létesítmények kialakítása kerül
+megvalósításra.
+
+22.
+TOP-3.1.1-15-
+SB1-2016-00027
+ Kerékpárút
+fejlesztése Balkány
+és Biri települések
+között
+Balkány Város
+Önkormányzata
+(konzorciumvezető)
+
+Biri Község
+Önkormányzata
+284 124 582
+80 743 728
+364 868 310
+A tervezett beruházás keretében önálló
+kerékpárforgalmi létesítmény kerül kialakításra
+2,8265 kilométer hosszan Balkány és Biri települések
+között, elősegítve a biztonságos kerékpáros közlekedést,
+illetve az összefüggő kerékpárhálózat kialakítását
+a településeken már kiépített kerékpárutakhoz
+kapcsolódva.
+23.
+TOP-3.1.1-15-
+SB1-2016-00028
+Kerékpárút
+fejlesztése Nyírgyulaj
+és Nyírbátor között
+Nyírgyulaj Község
+Önkormányzata
+(konzorciumvezető)
+
+Nyírbátor Város
+Önkormányzata
+358 851 305
+62 135 897
+420 987 202
+A beruházás eredményeként két település között
+jön létre biztonságos kerékpáros útvonal
+6,3977 kilométer hosszú kerékpárút építésével.
+A projekt keretében kerékpározást népszerűsítő
+szemléletformáló tevékenység is megvalósul.
+24.
+TOP-3.1.1-15-
+SB1-2016-00029
+Kerékpárút fejlesztése
+Kállósemjén
+belterületén
+Kállósemjén
+Nagyközség
+Önkormányzata
+355 729 408
+61 595 093
+417 324 501
+A beruházás során a település belterületén épül ki
+egyesített gyalog- és kerékpárút 2568 méter hosszan,
+csatlakozva ezzel a település környezetében – szintén
+jelen felhívásra pályázatot nyert – kiépítésre váró
+kerékpáros útvonalakhoz, elősegítve ezzel a biztonságos
+kerékpáros közlekedést. A projekt keretében két darab
+gyalogátkelőhely kialakítására és szemléletformálási
+tevékenység megvalósítására is sor kerül.
+25.
+TOP-3.1.1-16-
+BA1-2017-00003
+Körforgalom építése
+Szigetváron a 67-es
+főút és a József Attila
+utca csomópontjába
+Szigetvár Város
+Önkormányzata
+(konzorciumvezető)
+
+Baranya Megyei
+Önkormányzati Hivatal,
+Magyar Közút Nonprofit
+Zártkörűen Működő
+Részvénytársaság
+134 999 971
+38 911 881
+173 911 852
+A beruházás keretében Szigetvár Város Önkormányzata
+a 67-es út és a József Attila utcai csomópontban tervez
+körforgalmat kiépíteni. Az átépítendő kereszteződés
+közlekedésbiztonsági szempontból történő
+fejlesztésével a közúti, a kerékpáros és a gyalogos
+forgalom is biztonságosabbá válik a forgalomcsillapítás
+és a környezeti terhelés csökkenése mellett.
+
+26.
+TOP-3.1.1-16-
+BA1-2017-00011
+Komlói
+buszpályaudvar
+és környezetének
+közlekedés-
+fejlesztése
+Komló Város
+Önkormányzat
+(konzorciumvezető)
+VOLÁNBUSZ
+Közlekedési
+zártkörűen működő
+Részvénytársaság
+378 937 674 215 740 177 594 677 851
+A beruházás keretében a településen található
+buszpályaudvar felújítása történik. Egy új, kétszintes
+épületet tervez az önkormányzat, melynek földszintjén
+váróterem, forgalmi iroda, jegypénztár, nyilvános
+illemhely, raktárak és egyéb szükséges helyiségek,
+a felső szintjén a helyi és helyközi közösségi közlekedést
+szolgáltató forgalmi iroda kerül kialakításra. Az induló
+állomások teljes területén perontető épül, valamint
+a jelenleg autóbusz parkolóként használt részen fogadó
+peron kerül kialakításra.
+27.
+TOP-3.1.1-16-
+VE1-2017-00004
+“Két keréken
+a munkába”- Berhida
+központ - Peremarton
+Iparterület között
+kerékpáros
+létesítmények
+kialakítása
+Berhida Város
+Önkormányzata
+259 822 948 39 616 294 299 439 242
+A beruházás során a település központi része és
+az ipari park között épül kerékpáros útvonal, nyomvonal-
+kijelöléssel és kerékpárút-építéssel, 3750 méter hosszan,
+a lakosság biztonságos munkába jutásának érdekében.
+A fejlesztés során a csapadékvíz elvezetésének
+kiépítése, a meglévő közvilágítás megújuló energia
+felhasználásával történő fejlesztése és útpálya szélesítés
+is megvalósul.
+28.
+TOP-3.2.1-15-
+CS1-2016-00006
+A tömörkényi
+polgármesteri hivatal
+energetikai felújítása
+Tömörkény Községi
+Önkormányzat
+39 998 188 11 976 469 51 974 657
+A projekt keretében a Tömörkény, Ifjúság utca 8. szám
+alatt található épület energetikai korszerűsítése valósul
+meg, amely tartalmazza a külső határoló szerkezetek,
+valamint a fűtési rendszer korszerűsítését (2 darab
+biomassza kazán kerül beépítésre), továbbá 7 kW-os
+napelemes rendszer kialakítását és akadálymentesítést.
+29.
+TOP-3.2.1-15-
+CS1-2016-00007
+Maroslele
+Önkormányzati
+tulajdonú
+épületeinek
+energetikai
+korszerűsítése
+Maroslele Községi
+Önkormányzat
+68 278 675 12 576 555 80 855 230
+A beruházás keretében az önkormányzati
+tulajdonban lévő könyvtár és polgármesteri hivatal
+homlokzati hőszigetelése, nyílászáróinak cseréje,
+fűtéskorszerűsítése, napelemes rendszerrel történő
+kiépítése és akadálymentesítése valósul meg.
+30.
+TOP-3.2.1-15-
+GM1-2016-00053
+A Kapuvár Térségi
+Általános Iskola
+központi épületének
+energetikai
+korszerűsítése
+Kapuvár Városi
+Önkormányzat
+149 755 457 37 946 744 187 702 201
+A projekt keretében Kapuváron a Térségi Általános
+Iskola két épületének energetikai felújítása valósul meg.
+Az érintett épületeken nyílászárócsere és hőszigetelés,
+maximum háztartási méretű kiserőmű fotovillamos
+rendszer kialakítása, valamint egy kondenzációs kazán
+elhelyezése valósul meg.
+
+31.
+TOP-3.2.1-15-
+NG1-2016-00095
+Az érsekvadkerti
+Petőfi Sándor
+Általános Iskola
+épületeinek
+energetikai
+korszerűsítése
+Érsekvadkert Község
+Önkormányzata
+(konzorciumvezető)
+Nyugat-Nógrád
+Térségfejlesztő
+Nonprofit Korlátolt
+Felelősségű Társaság
+104 922 060 22 902 061 127 824 121
+A projekt keretében Érsekvadkert önkormányzati
+tulajdonú épületeinek (4 és 13 tantermes iskola épülete)
+energetikai korszerűsítésére kerül sor. A fejlesztés során
+az épületek külső határoló szerkezeteinek hőszigetelése,
+fűtéskorszerűsítés (gázkazán cseréje kondenzációs
+gázkazánra), akadálymentesítés, napelemes rendszer
+telepítése, valamint a négytantermes iskola homlokzati
+nyílászáróinak cseréje valósul meg.
+32.
+TOP-3.2.1-15-
+TL1-2016-00027
+Gerjen Község
+Általános Iskolájának
+Energetikai
+Korszerűsítése
+Gerjen Község
+Önkormányzata
+48 366 677 9 385 747 57 752 424
+A projekt keretében a Gerjeni Általános Iskola
+épületenergetikai korszerűsítése valósul meg
+(homlokzati hőszigetelés, födémszigetelés, nyílászárók
+cseréje, fűtéskorszerűsítés, kazáncsere), továbbá
+egy napelemes rendszer is kiépítésre kerül, amely az
+intézmény által felhasznált elektromos energia nagy
+részét biztosítani tudja.
+33.
+TOP-3.2.1-15-
+VS1-2016-00006
+Gencsapáti Apponyi
+Albert Általános
+Iskola energetikai
+felújítása
+Gencsapáti Község
+Önkormányzata
+(konzorciumvezető)
+Vas Megyei
+Önkormányzati Hivatal
+86 639 058 20 446 303 107 085 361
+A projekt keretében a gencsapáti Apponyi Albert
+Általános Iskola energetikai felújítása valósul meg.
+34.
+TOP-3.2.1-16-
+BS1-2017-00009
+A Csabacsűdi
+Napköziotthonos
+Konyha energetikai
+korszerűsítése
+Csabacsűd Nagyközség
+Önkormányzata
+34 930 437 6 709 052 41 639 489
+A projekt keretében az önkormányzat tulajdonában
+lévő Napköziotthonos Konyha épület fejlesztése valósul
+meg (homlokzati falak szigetelése, födémszigetelés,
+nyílászárók cseréje, fűtési rendszer korszerűsítése,
+napelemes és napkollektoros rendszerek telepítése),
+valamint projektarányos akadálymentesítés.
+35.
+TOP-3.2.1-16-
+BS1-2017-00010
+A Csabacsűdi
+Egészségház
+energetikai
+korszerűsítése
+Csabacsűd Nagyközség
+Önkormányzata
+21 773 154 4 088 062 25 861 216
+Az önkormányzat tulajdonában lévő egészségház
+fejlesztése során a homlokzati falak szigetelése,
+födémszigetelés, nyílászárók elhelyezése, fűtési és
+használati melegvízkészítő rendszerek korszerűsítése,
+napelemes és napkollektoros rendszerek kerülnek
+megvalósításra.
+
+36.
+TOP-3.2.1-16-
+HE1-2017-00001
+“Noszvaji tornaterem
+felújítása”
+Noszvaj Községi
+Önkormányzat
+40 000 000 6 000 000 46 000 000
+A projekt célja a Noszvaj településen található Figedy
+János Általános Iskola Tornaterem épületének felújítása,
+energetikai korszerűsítése. Az épületen komplex
+épületenergetikai fejlesztés kerül végrehajtásra
+a hőtechnikai paraméterek javításával és a hőellátó
+rendszer korszerűsítésével. A projekt elemei: homlokzati
+hőszigetelés, homlokzati nyílászárók cseréje, gépészeti
+korszerűsítés, tetőszerkezet szigetelése.
+37.
+TOP-3.2.1-16-
+HE1-2017-00007
+A gyöngyöstarjáni
+Általános Iskola,
+Művelődési Ház
+és Önkormányzati
+Hivatal épületének
+energetikai
+korszerűsítése
+Gyöngyöstarján Község
+Önkormányzata
+(konzorciumvezető)
+Heves Megyei
+Térségfejlesztési
+Nonprofit Korlátolt
+Felelősségű Társaság
+176 280 000 47 092 356 223 372 356
+A projekt keretében Gyöngyöstarján Község
+Önkormányzata három épületének energetikai felújítása
+történik. A Gyöngyöstarjáni Általános Iskola épületén sor
+kerül nyílászárócserére és utólagos hőszigetelésre, illetve
+a fűtési rendszer korszerűsítésére, napelemes rendszer
+telepítésére. A Polgármesteri Hivatal épületének
+esetében sor kerül nyílászárócserére, utólagos
+hőszigetelésre, valamint új fűtési rendszer kiépítésére.
+A Művelődési ház épületén szintén megvalósul
+a nyílászárócsere és az utólagos hőszigetelés, továbbá
+sor kerül a fűtési rendszer korszerűsítésére, illetve
+napelemes rendszer telepítésére.
+38.
+TOP-3.2.1-16-
+HE1-2017-00017
+A kisnánai Szent
+Imre Általános
+Iskola épületének
+energetikai
+korszerűsítése
+Kisnána Községi
+Önkormányzat
+(konzorciumvezető)
+Heves Megyei
+Térségfejlesztési
+Nonprofit Korlátolt
+Felelősségű Társaság
+135 000 000 37 458 071 172 458 071
+A projekt tárgya a kisnánai Szent Imre Általános Iskola
+épületének felújítása, energetikai korszerűsítése.
+Az épületen komplex épületenergetikai fejlesztés kerül
+végrehajtásra a hőtechnikai paraméterek javításával és
+a hőellátó rendszer korszerűsítésével. A projekt elemei:
+homlokzati hőszigetelés, homlokzati nyílászárók cseréje,
+gépészeti korszerűsítés, tetőszerkezet szigetelése.
+A fejlesztéseknek köszönhetően nemcsak az épület
+energetikai mutatói javulhatnak jelentősen, hanem
+a településkép megújításában, modernizálásában is
+előrelépés történhet.
+
+39.
+TOP-3.2.1-16-
+NG1-2017-00002
+Tar önkormányzati
+épületének
+energetikai
+korszerűsítése
+Tar Község
+Önkormányzata
+(konzorciumvezető)
+Nógrád Megyei
+Önkormányzati Hivatal
+25 992 990 6 831 726 32 824 716
+A projekt keretében a tari óvoda épület energetikai
+korszerűsítése valósul meg, mely tartalmaz
+fűtéskorszerűsítést, hőszigetelést (homlokzat,
+padlásfödém), nyílászárócserét, továbbá
+akadálymentesítést. Az épület villamosenergia-
+fogyasztásának csökkentése/kiváltása érdekében
+hálózatra visszatápláló, 1,5 kW-os napelemes rendszer
+telepítésére kerül sor.
+40.
+TOP-3.2.1-16-
+NG1-2017-00042
+Tari Kodály
+Zoltán Általános
+Iskola energetikai
+korszerűsítése
+Tar Község
+Önkormányzata
+(konzorciumvezető)
+Nógrád Megyei
+Önkormányzati Hivatal
+110 000 000 24 202 688 134 202 688
+A projekt keretében Tar község önkormányzati tulajdonú
+épületének (Kodály Zoltán Általános Iskola) energetikai
+korszerűsítése valósul meg. A fejlesztés során
+a homlokzati nyílászárók cseréje, fűtéskorszerűsítés
+(gázkazán cseréje kondenzációs gázkazánra és
+biomassza kazánra), valamint akadálymentesítés valósul
+meg.
+41.
+TOP-3.2.1-16-
+SO1-2017-00009
+“Fonyód a fejlődés
+útján”– Óvoda külső
+energetikai felújítása
+Fonyód Város
+Önkormányzata
+150 000 000 22 702 333 172 702 333
+A projekt keretében a meglévő óvoda épületének
+energetikai korszerűsítését tervezik, amely tartalmazza
+a határoló szerkezetek utólagos szigetelését,
+a nyílászárók cseréjét, épületgépészeti korszerűsítést,
+a világítótestek cseréjét, valamint napelemes rendszer
+telepítését.
+42.
+TOP-4.1.1-15-
+GM1-2016-00033
+Korszerűen –
+akadálymentesen
+Ásványrárón
+új egészségház
+létesítése az
+esélyegyenlőség és
+egyenlő bánásmód
+jegyében
+Ásványráró Község
+Önkormányzata
+(konzorciumvezető)
+Győr-Moson-Sopron
+Megyei Önkormányzati
+Hivatal
+123 555 024 30 364 847 153 919 871
+A projekt célja az egészségügyi alapellátás fejlesztése
+Ásványráró községben. Az önkormányzat elsődleges
+célja a településen lévő több egészségügyi szolgáltatás
+egy épületbe történő összevonása. A projekt keretében
+fejlesztésre kerül a vegyes praxisú háziorvosi, fogorvosi
+alapellátás, a védőnői ellátás, iskola-egészségügyi
+ellátás. A projektben eszközbeszerzés is megvalósul.
+43.
+TOP-4.1.1-15-
+JN1-2016-00017
+Kunszentmártoni
+Egészségügyi
+Alapellátó Központ
+felújítása
+Kunszentmárton Város
+Önkormányzata
+132 570 000 39 600 000 172 170 000
+A projekt keretében a háziorvosi rendelő és védőnői
+szakszolgálati rendelő épületének energetikai felújítása,
+kivitelezési munkálatainak elvégzése történik.
+
+44.
+TOP-4.1.1-15-
+VS1-2016-00022
+Egészségügyi
+alapellátás
+infrastrukturális
+fejlesztése
+Rábahídvég és
+Püspökmolnári
+településeken
+Rábahídvég Község
+Önkormányzata
+(konzorciumvezető)
+Rábahídvégi Közös
+Önkormányzati Hivatal,
+Püspökmolnári Község
+Önkormányzata
+85 013 803 19 986 197 105 000 000
+A projekt keretében Rábahídvégen a meglévő orvosi
+rendelő felújítása, átalakítása, Püspökmolnáriban új
+orvosi rendelő építése valósul meg.
+45.
+TOP-4.2.1-15-
+BO1-2016-00028
+Szociális
+alapszolgáltatások
+infrastruktúrájának
+fejlesztése
+Borsodszirákon
+Borsodszirák Község
+Önkormányzata
+120 992 900 19 111 460 140 104 360
+A projekt keretében fejlesztésre kerülnek a működő
+szociális alapszolgáltatások, a szociális étkeztetés, házi
+segítségnyújtás, családsegítés és gyermekjóléti szolgálat.
+Megvalósul egy új szociális szolgáltató központ építése,
+valamint a működés hatékonyságát biztosító eszközök
+beszerzése. Az épület nettó alapterülete a módosított
+műszaki tartalomnak megfelelően 277 négyzetméter
+lesz. Az épületben kerül elhelyezésre valamennyi
+szociális alapszolgáltatás, ennek érdekében kialakításra
+kerül hat darab iroda, közös várakozótér, tárgyaló és
+kiszolgáló helyiségek.
+46.
+TOP-4.2.1-15-
+SB1-2016-00039
+„Szociális
+alapszolgáltatások
+infrastrukturális
+fejlesztése Nyírgyulaj
+községben”
+Nyírgyulaj Község
+Önkormányzata
+71 215 633 12 245 639 83 461 272
+A projekt keretében a szociális étkeztetést, házi
+segítségnyújtást adó intézmény leendő épületének
+átalakítása, komplett felújítása, valamint az ellátásához
+szükséges eszközök beszerzése valósul meg.
+A jelenlegi irodák mérete, állaga nem megfelelő.
+Ezen problémák megoldása miatt vált szükségessé
+a szociális alapszolgáltatásoknak helyet biztosító olyan
+ingatlanba való átköltözés, amely maradéktalanul
+kielégíti az igényeket.
+47.
+TOP-6.1.3-15-
+PC1-2016-00002
+Új pécsi vásárcsarnok
+megépítése
+Pécs Megyei Jogú Város
+Önkormányzata
+2 784 000 000 415 779 890 3 199 779 890
+A projekt célja új, a mai kor, vásárlói igények és elvárások
+szempontjainak megfelelő vásárcsarnok-piactér
+létesítése. Az új komplexum alapterülete
+7488 négyzetméter lesz.
+
+48.
+TOP-6.2.1-16-
+MI1-2017-00011
+Miskolc, Margaréta
+Bölcsőde férőhely
+bővítése
+Miskolc Megyei Jogú
+Város Önkormányzata
+165 957 287 78 945 231 244 902 518
+A Miskolci Margaréta Bölcsőde egy hatszárnyú
+épületben működik, amelyből jelenleg három szárny
+tölt be bölcsődei funkciót. A projekt keretében
+végzett fejlesztés során további két épületszárny
+kerül bekapcsolásra a bölcsődei funkció ellátásába,
+melynek eredményeként a 84 fős férőhelyszám 112 főre
+növekszik.
+49.
+TOP-6.4.1-15-
+SG1-2016-00001
+Fenntartható városi
+közlekedésfejlesztés
+Szegeden – I. ütem
+Szeged Megyei Jogú
+Város Önkormányzata
+1 130 000 000 171 338 945 1 301 338 945
+A projekt során megvalósul Szegeden a Tisza Lajos körút,
+Dugonics tér – Boldogasszony sugárút közötti szakasz
+út-, járdaburkolat, zöldterület, közvilágítás és 3 db
+megállóhely közlekedésbiztonsági és kerékpáros-barát
+fejlesztése, a Felső Tisza-Part, Huszár Mátyás rakpart és
+a Tisza Lajos körút forgalmi csomópont környezetének
+közlekedésbiztonsági és kerékpárosbarát fejlesztése,
+a Szilléri sugárút és a Fecske utca – Debreceni utca
+kereszteződésben körforgalom kiépítése,
+valamint Szeged belterületén 40 db buszmegálló
+közlekedésbiztonsági és kerékpárosbarát fejlesztése,
+továbbá a Lövölde utcában új járda épül.
+50.
+TOP-6.5.1-15-
+DE1-2016-00014
+A Boldogfalva
+Óvoda épületének
+energetikai
+korszerűsítése
+Debrecen Megyei Jogú
+Város Önkormányzata
+135 000 000 73 934 728 208 934 728
+A projekt célja a Debrecen, Boldogfalva u. 3. szám alatt
+található Boldogfalva Óvoda épületének energetikai
+korszerűsítése. A projekt keretében hőszivattyús
+és napelemes rendszerek telepítése, külső oldali
+hőszigetelés, nyílászárócsere, fosszilis energiahordozó
+alapú hőtermelő berendezések korszerűsítése, kül- és
+beltéri világítási rendszerek korszerűsítése, központi
+szellőző- és légkondicionáló rendszerek korszerűsítése
+és akadálymentesítés valósul meg.
+
+51.
+TOP-6.6.1-16-
+PC1-2017-00001
+Egészségügyi
+alapellátás
+infrastrukturális
+fejlesztése Pécsett
+Pécs Megyei Jogú Város
+Önkormányzata
+690 000 000 39 225 517 729 225 517
+A projekt keretében hét helyszínen kerül sor
+egészségügyi alapellátást nyújtó szolgáltatási
+intézmények fejlesztésére. A fejlesztéssel érintett
+helyszínek közül az Újhegyi Főtér (Bor utca) 22. szám
+alatt tervezett fejlesztés kivételével valamennyi
+helyszínen a meglévő orvosi rendelők felújítása,
+korszerűsítése történik meg, míg az Újhegyi Főtér
+(Bor utca) 22. szám alatt új orvosi rendelő kerül
+kialakításra, az 50. és a 82. számú felnőtt háziorvosi
+körzetek egy épületben történő integrálása érdekében.
+A meglévő épületek felújítási, korszerűsítési munkálatai
+magukban foglalják az egyes épületek belső
+tereinek átépítését, belső burkolatainak felújítását,
+energetikai korszerűsítését, gépészeti felújítását,
+akadálymentesítését.
