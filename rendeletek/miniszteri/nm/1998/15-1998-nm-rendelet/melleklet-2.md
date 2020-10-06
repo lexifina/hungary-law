@@ -92,7 +92,7 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^579]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^598]
 
 I. Rész
 
@@ -310,16 +310,4 @@ I. Alapellátások
 
 |  |  | csecsemő- és gyermekgondozó (OKJ) |
 
-| 3. Napközbeni gyermekfelügyelet | szolgáltatást nyújtó személy | a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
-
-|  | nevelő | felsőfokú szociális szakképzettség, pedagógus |
-
-|  | szakgondozó (hivatásos gondozó) | bölcsődei szakgondozó (OKJ), csecsemő- és kisgyermekgondozó (OKJ), csecsemő- és kisgyermeknevelő-gondozó (OKJ), csecsemő- és gyermeknevelő-gondozó (OKJ), kisgyermekgondozó, -nevelő (OKJ), csecsemő- és kisgyermeknevelő asszisztens (FOKSZ), csecsemő- és gyermekápoló (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), gyógypedagógiai asszisztens (OKJ) |
-
-|  | gondozó | csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő I. (OKJ), pedagógiai asszisztens (OKJ), pedagógiai és családsegítő munkatárs (OKJ), gyógypedagógiai segítő munkatárs (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ) |
-
-|  | segédgondozó | alapfokú iskolai végzettség, dajka (OKJ), óvodai dajka (OKJ) |
-
-| 3.1. Napközbeni gyermekfelügyelet hálózat | koordinátor | a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
-
-[^579]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^598]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a szerint módosított szöveg.

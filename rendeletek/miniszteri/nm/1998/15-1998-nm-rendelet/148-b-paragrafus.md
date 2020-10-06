@@ -1,6 +1,6 @@
-## A nyílt örökbefogadás elősegítése[^487]
+## A nyílt örökbefogadás elősegítése[^504]
 
-148/B. §[^488] (1) A szakszolgálat a hozzá forduló válsághelyzetben lévő várandós anya és vér szerinti szülő, különösen a terhességét eltitkolni szándékozó várandós anya számára
+148/B. §[^505] (1) A szakszolgálat a hozzá forduló válsághelyzetben lévő várandós anya és vér szerinti szülő, különösen a terhességét eltitkolni szándékozó várandós anya számára
 
 a) a Gyvt. 69/A. § (2) bekezdés a) pontja szerinti krízistanácsadást nyújt, továbbá
 
@@ -8,7 +8,7 @@ b) a Gyvt. 69/A. § (2) bekezdés b) pontja szerinti segítségnyújtás céljá
 
 (2) A szakszolgálat a Gyvt. 69/A. § (2) bekezdés c) pontjában foglalt tevékenysége keretében a vér szerinti szülő és a gyermek más törvényes képviselőjének döntése alapján
 
-a)[^489] a gyermek nyílt örökbefogadásának elősegítése érdekében a GYVR örökbefogadási alrendszeréből az illetékességébe tartozó örökbe fogadni szándékozó személyek közül – a nyilvántartási sorrend figyelembevételével – a gyermek számára alkalmas örökbefogadó szülőt javasol a vér szerinti szülő számára, és
+a)[^506] a gyermek nyílt örökbefogadásának elősegítése érdekében a GYVR örökbefogadási alrendszeréből az illetékességébe tartozó örökbe fogadni szándékozó személyek közül – a nyilvántartási sorrend figyelembevételével – a gyermek számára alkalmas örökbefogadó szülőt javasol a vér szerinti szülő számára, és
 
 b) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó személlyel való találkozását.
 
@@ -18,6 +18,6 @@ b) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó sz
 
 (5) A szakszolgálat a (3) és a (4) bekezdésben foglalt esetben a megállapodást az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben foglaltak szerint köti meg.
 
-[^487]: A 148/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 29. §-a iktatta be.
-[^488]: A 148/B. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 29. §-ával megállapított szöveg.
-[^489]: A 148/B. § (2) bekezdés a) pontja a 34/2020. (X. 2.) EMMI rendelet 13. § k) pontja szerint módosított szöveg.
+[^504]: A 148/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 29. §-a iktatta be.
+[^505]: A 148/B. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 29. §-ával megállapított szöveg.
+[^506]: A 148/B. § (2) bekezdés a) pontja a 34/2020. (X. 2.) EMMI rendelet 13. § k) pontja szerint módosított szöveg.

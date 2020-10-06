@@ -1,10 +1,10 @@
-## 132. §[^384] Ha a gyermekvédelmi gyám a nevelésbe vett gyermeknek a központi speciális gyermekotthonban történő elhelyezését tartja indokoltnak, javaslatot tesz a gyámhivatalnak a gyermek gondozási helyének megváltoztatására.
+## 132. §[^389] Ha a gyermekvédelmi gyám a nevelésbe vett gyermeknek a központi speciális gyermekotthonban történő elhelyezését tartja indokoltnak, javaslatot tesz a gyámhivatalnak a gyermek gondozási helyének megváltoztatására.
 
-133. §[^385] (1)[^386] A gyámhivatalnak a gondozási helyet kijelölő, vagy a gondozási hely megváltoztatását elrendelő határozata alapján a gyermekvédelmi gyám gondoskodik a nevelésbe vett gyermeknek a központi speciális gyermekotthonba történő kíséréséről.
+133. §[^390] (1)[^391] A gyámhivatalnak a gondozási helyet kijelölő, vagy a gondozási hely megváltoztatását elrendelő határozata alapján a gyermekvédelmi gyám gondoskodik a nevelésbe vett gyermeknek a központi speciális gyermekotthonba történő kíséréséről.
 
-(2)[^387] A központi speciális gyermekotthonban elrendelt személyes szabadság korlátozására és nevelési felügyelet végrehajtására a 126/A. § és a 126/B. § rendelkezéseit kell alkalmazni.
+(2)[^392] A központi speciális gyermekotthonban elrendelt személyes szabadság korlátozására és nevelési felügyelet végrehajtására a 126/A. § és a 126/B. § rendelkezéseit kell alkalmazni.
 
-[^384]: A 132. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított, a 49/2013. (VII. 10.) EMMI rendelet 23. § i) pontja, a 26/2013. (III. 29.) EMMI rendelet 37. § 15. pontja szerint módosított szöveg.
-[^385]: A 133. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
-[^386]: A 133. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § q) pontja, a 26/2013. (III. 29.) EMMI rendelet 37. § 15. pontja szerint módosított szöveg.
-[^387]: A 133. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^389]: A 132. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított, a 49/2013. (VII. 10.) EMMI rendelet 23. § i) pontja, a 26/2013. (III. 29.) EMMI rendelet 37. § 15. pontja szerint módosított szöveg.
+[^390]: A 133. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^391]: A 133. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § q) pontja, a 26/2013. (III. 29.) EMMI rendelet 37. § 15. pontja szerint módosított szöveg.
+[^392]: A 133. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 20. §-ával megállapított szöveg.

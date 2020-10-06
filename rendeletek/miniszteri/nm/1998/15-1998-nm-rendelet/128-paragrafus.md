@@ -1,6 +1,6 @@
-128. § (1)[^343] A 3 év alatti gondozott gyermekek közül legfeljebb 8 helyezhető el egy csoportban.
+128. § (1)[^348] A 3 év alatti gondozott gyermekek közül legfeljebb 8 helyezhető el egy csoportban.
 
-(2)[^344] A kizárólag 3 éven aluli gondozott gyermekekből álló csoport elhelyezésére és kizárólagos használatára biztosítani kell a 6. számú mellékletben meghatározottak szerint:
+(2)[^349] A kizárólag 3 éven aluli gondozott gyermekekből álló csoport elhelyezésére és kizárólagos használatára biztosítani kell a 6. számú mellékletben meghatározottak szerint:
 
 a) egy csoportszobát, amely alvásra, játszásra és étkezésre szolgál,
 
@@ -10,9 +10,9 @@ c) teraszt, a levegőztetés céljára,
 
 d) játszásra alkalmas kertterületet.
 
-(3)[^345] A helyiség berendezését a gondozott gyermekek korösszetételének és fejlettségi szintjének megfelelően kell kialakítani, és a növekedő gyermekek igényei szerint kell változtatni.
+(3)[^350] A helyiség berendezését a gondozott gyermekek korösszetételének és fejlettségi szintjének megfelelően kell kialakítani, és a növekedő gyermekek igényei szerint kell változtatni.
 
-(4)[^346] 3 éven aluli gyermeket az a gyermekotthon (lakásotthon) fogadhat be, amelyben biztosított a következő
+(4)[^351] 3 éven aluli gyermeket az a gyermekotthon (lakásotthon) fogadhat be, amelyben biztosított a következő
 
 a) a szervezési feltételek körében
 
@@ -26,7 +26,7 @@ b) személyi feltételek körében
 
 ba) a csoportban a gyermekek gondozását, nevelését ellátó személyek között legalább 1 fő szakképzett csecsemő- és kisgyermek gondozónő alkalmazása,
 
-bb)[^347]
+bb)[^352]
 
 c) a tárgyi feltételek körében
 
@@ -36,14 +36,14 @@ cb) a csecsemő, illetve a kisgyermek számára a külön játszóhely és elker
 
 cc) a csecsemő, illetve a kisgyermek ellátásához szükséges biztonságos, célszerű berendezési és felszerelési tárgyak, eszközök megléte.
 
-(5)[^348] A gyermekotthonban és lakásotthonban nevelkedő csecsemő táplálásában az egészségügyért felelős miniszter által vezetett minisztérium szakmai protokollja az egészséges csecsemő táplálásáról az irányadó.
+(5)[^353] A gyermekotthonban és lakásotthonban nevelkedő csecsemő táplálásában az egészségügyért felelős miniszter által vezetett minisztérium szakmai protokollja az egészséges csecsemő táplálásáról az irányadó.
 
-(6)[^349] Ha a gyermekotthon vállalja a kiskorú gondozott szülő és 3 év alatti gyermekének együttes elhelyezését, biztosítania kell az (4) bekezdés aa) és ab) alpontja, valamint c) pontja szerinti feltételeket, illetve az (4) bekezdés ac) alpontja alapján a szülő távollétében gondoskodnia kell a gyermek folyamatos felügyeletéről.
+(6)[^354] Ha a gyermekotthon vállalja a kiskorú gondozott szülő és 3 év alatti gyermekének együttes elhelyezését, biztosítania kell az (4) bekezdés aa) és ab) alpontja, valamint c) pontja szerinti feltételeket, illetve az (4) bekezdés ac) alpontja alapján a szülő távollétében gondoskodnia kell a gyermek folyamatos felügyeletéről.
 
-[^343]: A 128. § új (1) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése iktatta be, egyidejűleg az eredeti (1) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 98. § (7) bekezdésének k) pontja alapján a 128. § (1) bekezdésében foglaltaknak a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
-[^344]: A 128. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. E módosító rendelet 98. § (7) bekezdésének k) pontja alapján a 128. § (2) bekezdésében foglaltaknak a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
-[^345]: A 128. § (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése iktatta be.
-[^346]: A 128. § eredeti (1) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése.
-[^347]: A 128. § (4) bekezdés b) pont bb) alpontját az 58/2011. (X. 21.) NEFMI rendelet 7. § b) pontja hatályon kívül helyezte.
-[^348]: A 128. § eredeti (2) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése, szövege a 28/2010. (XII. 30.) NEFMI rendelet 25. § m) pontja szerint módosított szöveg.
-[^349]: A 128. § (6) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (2) bekezdése iktatta be.
+[^348]: A 128. § új (1) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése iktatta be, egyidejűleg az eredeti (1) bekezdés számozását (4) bekezdésre változtatva. E módosító rendelet 98. § (7) bekezdésének k) pontja alapján a 128. § (1) bekezdésében foglaltaknak a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
+[^349]: A 128. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. E módosító rendelet 98. § (7) bekezdésének k) pontja alapján a 128. § (2) bekezdésében foglaltaknak a 2003. augusztus 16-án már működő intézményeknek 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
+[^350]: A 128. § (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése iktatta be.
+[^351]: A 128. § eredeti (1) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése.
+[^352]: A 128. § (4) bekezdés b) pont bb) alpontját az 58/2011. (X. 21.) NEFMI rendelet 7. § b) pontja hatályon kívül helyezte.
+[^353]: A 128. § eredeti (2) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (1) bekezdése, szövege a 28/2010. (XII. 30.) NEFMI rendelet 25. § m) pontja szerint módosított szöveg.
+[^354]: A 128. § (6) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 75. § (2) bekezdése iktatta be.
