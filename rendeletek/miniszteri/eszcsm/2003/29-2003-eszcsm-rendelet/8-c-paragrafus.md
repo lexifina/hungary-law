@@ -1,4 +1,4 @@
-8/C. §[^23] (1) A képző szervezet köteles az általa tervezett képzést – legalább 45 nappal annak megkezdése előtt – írásban bejelenteni a KOP-képzésért felelős szervnek. A bejelentésnek tartalmaznia kell a képzés megkezdésének időpontját, szakmai felelőseinek nevét és elérhetőségét, továbbá a képzésben részt vevők tervezett létszámát. A bejelentéssel egyidejűleg a képző szervezetnek a KOP alapján készített helyi képzési programot is meg kell küldenie a KOP-képzésért felelős szerv részére.
+8/C. §[^25] (1) A képző szervezet köteles az általa tervezett képzést – legalább 45 nappal annak megkezdése előtt – írásban bejelenteni a KOP-képzésért felelős szervnek. A bejelentésnek tartalmaznia kell a képzés megkezdésének időpontját, szakmai felelőseinek nevét és elérhetőségét, továbbá a képzésben részt vevők tervezett létszámát. A bejelentéssel egyidejűleg a képző szervezetnek a KOP alapján készített helyi képzési programot is meg kell küldenie a KOP-képzésért felelős szerv részére.
 
 (2) A képző szervezet az (1) bekezdésben foglaltak tekintetében bekövetkező bármely változást köteles haladéktalanul bejelenteni a KOP-képzésért felelős szervnek.
 
@@ -16,4 +16,4 @@ c) tematika oktatásával vagy
 
 d) képesítésű oktató részvételével
 
-[^23]: A 8/C. §-t a 48/2015. (X. 28.) EMMI rendelet 10. §-a iktatta be.
+[^25]: A 8/C. §-t a 48/2015. (X. 28.) EMMI rendelet 10. §-a iktatta be.

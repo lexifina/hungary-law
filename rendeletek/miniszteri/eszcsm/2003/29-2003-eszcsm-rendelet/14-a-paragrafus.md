@@ -1,4 +1,4 @@
-14/A. §[^30] (1) Az örökbefogadói tanfolyamot a miniszter szervezi pályázat keretében bevont tanfolyamszervezőn keresztül. A tanfolyamszervező egyedi azonosító számot kap.
+14/A. §[^38] (1) Az örökbefogadói tanfolyamot a miniszter szervezi pályázat keretében bevont tanfolyamszervezőn keresztül. A tanfolyamszervező egyedi azonosító számot kap.
 
 (2) A képzésbe bevont tanfolyamszervező az lehet,
 
@@ -14,9 +14,9 @@ e) aki biztosítja a tanfolyamon oktatók részvételét a miniszter által éve
 
 (3) A tanfolyamszervező a tanfolyam megvalósítása során kizárólag a miniszter által jóváhagyott képzési program alapján képezhet.
 
-(4)[^31] A tanfolyamot szervező köteles a tanfolyam indítását rögzíteni a GYVR örökbefogadási alrendszerében a tanfolyam indítását megelőzően legalább 30 nappal.
+(4)[^39] A tanfolyamot szervező köteles a tanfolyam indítását rögzíteni a GYVR örökbefogadási alrendszerében a tanfolyam indítását megelőzően legalább 30 nappal.
 
-(5)[^32] A tanfolyamot szervező a tanfolyam indításával kapcsolatban a GYVR örökbefogadási alrendszerében az alábbi adatokat rögzíti:
+(5)[^40] A tanfolyamot szervező a tanfolyam indításával kapcsolatban a GYVR örökbefogadási alrendszerében az alábbi adatokat rögzíti:
 
 a) a tanfolyam kezdő és záró napjának időpontját,
 
@@ -26,9 +26,9 @@ c) a tanfolyam tervezett létszámát,
 
 d) a tanfolyam szakmai felelősének és az oktatóknak a nevét.
 
-(5a)[^33] A tanfolyamot szervező a tanfolyamra jelentkező személy személyes adatait az írásbeli jelentkezés beérkezését követő 2 munkanapon belül rögzíti a GYVR örökbefogadási alrendszerében.
+(5a)[^41] A tanfolyamot szervező a tanfolyamra jelentkező személy személyes adatait az írásbeli jelentkezés beérkezését követő 2 munkanapon belül rögzíti a GYVR örökbefogadási alrendszerében.
 
-(6)[^34] A tanfolyamot szervező 15 napon belül köteles bejelenteni a miniszternek jóváhagyás céljából
+(6)[^42] A tanfolyamot szervező 15 napon belül köteles bejelenteni a miniszternek jóváhagyás céljából
 
 a) tanfolyam helyszínében, tárgyi feltételeiben,
 
@@ -38,8 +38,8 @@ c) az oktatók személyében,
 
 d) a felhasználni kívánt képzési programban, szakmai anyagokban és oktatási segédanyagokban
 
-[^30]: A 14/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.
-[^31]: A 14/A. § (4) bekezdése a 34/2020. (X. 2.) EMMI rendelet 18. § a) pontja szerint módosított szöveg.
-[^32]: A 14/A. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^33]: A 14/A. § (5a) bekezdését a 34/2020. (X. 2.) EMMI rendelet 17. § (2) bekezdése iktatta be.
-[^34]: A 14/A. § (6) bekezdése a 34/2020. (X. 2.) EMMI rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^38]: A 14/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 15. §-a iktatta be.
+[^39]: A 14/A. § (4) bekezdése a 34/2020. (X. 2.) EMMI rendelet 18. § a) pontja szerint módosított szöveg.
+[^40]: A 14/A. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^41]: A 14/A. § (5a) bekezdését a 34/2020. (X. 2.) EMMI rendelet 17. § (2) bekezdése iktatta be.
+[^42]: A 14/A. § (6) bekezdése a 34/2020. (X. 2.) EMMI rendelet 17. § (3) bekezdésével megállapított szöveg.

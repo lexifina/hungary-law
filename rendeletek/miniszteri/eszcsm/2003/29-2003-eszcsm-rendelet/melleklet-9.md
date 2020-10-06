@@ -1,4 +1,4 @@
-9. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^50]
+9. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^62]
 
 A Központi Oktatási Program (KOP) keretében szervezett nevelőszülő képzés tanúsítványa
 
@@ -44,4 +44,4 @@ Kelt ............................................................, .............
 
 | ...................................................................... KOP-képzésért felelős szerv P. H. |
 
-[^50]: A 9. mellékletet a 48/2015. (X. 28.) EMMI rendelet 11. § b) pontja iktatta be.
+[^62]: A 9. mellékletet a 48/2015. (X. 28.) EMMI rendelet 11. § b) pontja iktatta be.
