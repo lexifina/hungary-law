@@ -1,0 +1,1 @@
+## 1. § A 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló 135/2015. (VI. 2.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. melléklete az 1. melléklet szerint módosul.
