@@ -1,0 +1,1 @@
+## „(6) A tanúsítvány megszerzését követő öt éven belül az örökbe fogadni szándékozó személy nem vehet részt ismételten az örökbefogadói tanfolyamon, kivéve, ha későbbi házasságkötését követően a tanfolyamot még nem végzett házastársával közösen kívánja ismételten elvégezni a tanfolyamot.”
