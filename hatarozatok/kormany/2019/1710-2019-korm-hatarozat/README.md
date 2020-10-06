@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1710-30
 | --- | --- | --- |
 | 2019-12-11 | 2019-1710-30-22.1 | 1710/2019. (XII. 11.) Korm. határozat |
 | 2020-05-14 | 2019-1710-30-22.2 | 1219/2020. (V. 14.) Korm. határozat |
+| 2020-10-06 | 2019-1710-30-22.3 | 1642/2020. (X. 5.) Korm. határozat |
