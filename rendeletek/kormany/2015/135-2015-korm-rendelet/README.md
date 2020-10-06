@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-135-20-
 | 2018-12-29 | 2015-135-20-22.4 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2019-11-20 | 2015-135-20-22.5 | 267/2019. (XI. 19.) Korm. rendelet |
 | 2019-11-23 | 2015-135-20-22.6 | 252/2019. (X. 24.) Korm. rendelet |
+| 2020-10-06 | 2015-135-20-22.7 | 451/2020. (X. 5.) Korm. rendelet |
