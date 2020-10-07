@@ -1,1 +1,3 @@
-## 2. § Hatályát veszti a Korm. rendelet 1. melléklet 7. címében az „A közvetlen költségek esetében egyszerűsített elszámolási módon történő elszámolás akkor alkalmazható, ha az adott költség nem közbeszerzés-köteles tevékenységhez kapcsolódik, és ha azt a pályázati kiírás előírja.” szövegrész.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
