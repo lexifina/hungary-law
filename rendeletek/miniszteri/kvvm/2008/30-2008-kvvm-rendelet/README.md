@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-30-20-0
 | 2015-09-15 | 2008-30-20-0N.8 | 49/2015. (IX. 8.) BM rendelet |
 | 2016-10-01 | 2008-30-20-0N.9 | 34/2016. (VIII. 2.) BM rendelet |
 | 2019-01-01 | 2008-30-20-0N.10 | 36/2018. (XII. 21.) BM rendelet |
+| 2020-10-07 | 2008-30-20-0N.11 | 36/2020. (IX. 22.) BM rendelet |

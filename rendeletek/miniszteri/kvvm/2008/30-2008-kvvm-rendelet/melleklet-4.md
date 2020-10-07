@@ -1,4 +1,4 @@
-4. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez[^33]
+4. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez[^36]
 
 ## Az egyedi szennyvízkezelő létesítmény által kibocsátott tisztított szennyvíz határértékei
 
@@ -30,4 +30,4 @@
 
 (1) A mintavétel típusa vagylagosan írható elő, egy-egy paraméterre mindkettő együtt nem alkalmazható.
 
-[^33]: A 4. számú mellékletet a 115/2012. (XI. 16.) VM rendelet 3. §-a iktatta be.
+[^36]: A 4. számú mellékletet a 115/2012. (XI. 16.) VM rendelet 3. §-a iktatta be.
