@@ -1,3 +1,3 @@
-## „(3a) A nevelőszülői tanácsadó a gyermek vér szerinti családba gondozása, ha erre nincs lehetőség, örökbefogadó családba gondozása érdekében folyamatosan együttműködik a gyermekvédelmi gyámmal, – a vér szerinti családba gondozás esetén – a család- és gyermekjóléti szolgálat, illetve központ szakembereivel és – az örökbefogadó családba gondozás esetén – a szakszolgálat munkatársaival.
+## 1. §[^2]
 
-## (3b) A nevelőszülői hálózatot működtető folyamatosan figyelemmel kíséri a gyermek vér szerinti családba gondozásával, illetve örökbefogadó családba gondozásával kapcsolatos nevelőszülői és nevelőszülői tanácsadói feladatellátást, valamint ahhoz – a szakszolgálat munkatársaival együttműködve – szakmai támogatást nyújt.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
