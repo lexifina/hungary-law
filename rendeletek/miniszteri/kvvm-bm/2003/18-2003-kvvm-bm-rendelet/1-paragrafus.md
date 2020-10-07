@@ -9,3 +9,7 @@ b) közepesen veszélyeztetett ,,B'' kategóriába tartozik, ha nyílt vagy ment
 c) enyhén veszélyeztetett ,,C'' kategóriába tartozik, ha nyílt vagy mentesített ártéren helyezkedik el, és előírt biztonságban kiépített védművel rendelkezik.
 
 (3) A települések besorolás szerinti jegyzékét e rendelet melléklete tartalmazza.
+
+(4)[^1] E rendelet alkalmazásában belvíz veszélyeztetett területnek az az árvízzel kapcsolatos belvíz által veszélyeztetett terület minősül, amelyet a felgyülemlett víz felszíni elöntéssel érinthet.
+
+[^1]: Az 1. § (4) bekezdését a 36/2020. (IX. 22.) BM rendelet 2. §-a iktatta be.

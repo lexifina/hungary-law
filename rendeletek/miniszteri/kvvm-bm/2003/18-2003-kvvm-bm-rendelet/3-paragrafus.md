@@ -4,7 +4,7 @@
 
 Melléklet a 18/2003. (XII. 9.) KvVM–BM
 
-együttes rendelethez[^1]
+együttes rendelethez[^2]
 
 A – erősen veszélyeztetett
 
@@ -2622,4 +2622,4 @@ C – enyhén veszélyeztetett
 
 | Zalaszombatfa | Zala | A |
 
-[^1]: A melléklet a 6/2005. (II. 22.) KvVM–BM együttes rendelet 1. §-ával megállapított szöveg.
+[^2]: A melléklet a 6/2005. (II. 22.) KvVM–BM együttes rendelet 1. §-ával megállapított szöveg.
