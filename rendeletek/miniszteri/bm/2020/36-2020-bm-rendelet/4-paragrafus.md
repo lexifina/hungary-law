@@ -1,5 +1,7 @@
-## 3. § Hatályát veszti a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló 30/2008. (XII. 31.) KvVM rendelet 90. § (4)–(6) bekezdése.
+## 3. §[^4]
 
 ## 4. Záró rendelkezések
 
 4. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
