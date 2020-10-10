@@ -1,4 +1,4 @@
-## 63–65. §[^20]
+## 63–65. §[^22]
 
 ## VII. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 29. A repülésüzemi tiszt szakszolgálati engedéllyel rendelkező engedélyes jogosultságai és az engedély megszerzésének feltételei
 
-[^20]: A 63–65. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § j) pontja hatályon kívül helyezte.
+[^22]: A 63–65. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § j) pontja hatályon kívül helyezte.

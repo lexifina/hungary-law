@@ -6,4 +6,6 @@
 
 (3) A légiközlekedési hatóság elvégzi a megkezdett képzések beszámításával kapcsolatban az 1178/2011/EU bizottsági rendelet 9. cikkében, valamint a katonai szolgálat során szerzett pilóta-szakszolgálati engedély beszámításával kapcsolatban az 1178/2011/EU bizottsági rendelet 10. cikkében meghatározott feladatokat.
 
-(4) A légiközlekedési hatóság elvégzi az engedélyek és tanúsítványok az 1178/2011/EU bizottsági rendelet 4. cikk (1) bekezdésében, 10a. cikk (4) bekezdésében, 10b. cikk (3) bekezdésében és 11a. cikk (3) bekezdésében meghatározott cseréjét.
+(4)[^45]
+
+[^45]: A 146. § (4) bekezdését a 33/2020. (X. 5.) ITM rendelet 11. §-a hatályon kívül helyezte.

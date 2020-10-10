@@ -1,4 +1,4 @@
-## 83–85. §[^24]
+## 83–85. §[^26]
 
 ## HARMADIK RÉSZ
 
@@ -12,4 +12,4 @@ b) siklóernyős oktatói vagy tandempilóta tevékenység,
 
 c) ejtőernyős oktatói vagy tandemugró tevékenység.
 
-[^24]: A 83–85. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § n) pontja hatályon kívül helyezte.
+[^26]: A 83–85. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § n) pontja hatályon kívül helyezte.

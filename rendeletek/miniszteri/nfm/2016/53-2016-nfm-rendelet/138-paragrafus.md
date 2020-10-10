@@ -1,4 +1,4 @@
-## 137. §[^38]
+## 137. §[^40]
 
 ## 55. Más államok által kiadott szakszolgálati engedélyek egyenértékűsége
 
@@ -8,4 +8,4 @@
 
 (3) A 9. § (2) bekezdésében meghatározott betétlapra bejegyezhető jogosítások esetén a más állam által az 1. Annexnek megfelelően kiadott hatályos, azonos jogosultságot biztosító jogosítás alapján a légiközlekedési hatóság e rendelet szerinti jogosítást jegyez be a betétlapra.
 
-[^38]: A 137. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § y) pontja hatályon kívül helyezte.
+[^40]: A 137. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § y) pontja hatályon kívül helyezte.

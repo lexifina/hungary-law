@@ -38,7 +38,7 @@
 
 17. kétkormányos oktatási idő: az 1178/2011/EU bizottsági rendelet I. Mellékletében meghatározott fogalom;
 
-18. kompetencia felmérés: az oktatói jogosítás és a vizsgáztatói tanúsítás megszerzéséhez, meghosszabbításához vagy megújításához szükséges gyakorlati vizsga;
+18.[^2] kompetencia felmérés: a 1178/2011/EU bizottsági rendelet I. Mellékletében meghatározott fogalom;
 
 19. lábról induló sárkányrepülő eszköz: hajtóművel felszerelt vagy anélküli, kocsiszerkezettel (a továbbiakban: trájk) fel nem szerelt sárkányrepülő eszköz;
 
@@ -60,7 +60,7 @@
 
 28. motoros sárkányrepülő eszköz: hajtóművel és trájkkal felszerelt sárkányrepülő eszköz;
 
-29. NOTAM: a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 14/2000. (XI. 14.) KöViM rendelet Melléklet „R” Függelék 146. pontjában meghatározott fogalom;
+29.[^3] NOTAM: a Magyarország légterében és repülőterein történő repülések végrehajtásának szabályairól szóló 56/2016. (XII. 22.) NFM rendelet 3. § (1) bekezdés 49. pontjában meghatározott fogalom;
 
 30. növendék: az a végezni kívánt tevékenységnek megfelelő szakszolgálati engedéllyel vagy tanúsítvánnyal még nem rendelkező személy, aki szakszolgálati engedély, jogosítás, tanúsítás vagy tanúsítvány megszerzésére, fenntartására vagy megújítására irányuló képzés alatt áll;
 
@@ -120,6 +120,8 @@ f) kétüléses szárazföldön üzemelő, sárkányszerkezetre szerelt ejtőern
 
 51. vitorlázó repülőgép: az 1178/2011/EU bizottsági rendelet I. Mellékletében meghatározott fogalom;
 
-52.[^2] nyelvismereti kiterjesztés: a nyelvismereti igazolással rendelkező személy szakszolgálati engedélyében a légiközlekedési hatóság tett nyelvismeretet igazoló bejegyzés;
+52.[^4] nyelvismereti kiterjesztés: a nyelvismereti igazolással rendelkező személy szakszolgálati engedélyében a légiközlekedési hatóság tett nyelvismeretet igazoló bejegyzés;
 
-[^2]: A 2. § 52. pontját az 55/2017. (XII. 27.) NFM rendelet 96. §-a iktatta be.
+[^2]: A 2. § 18. pontja a 33/2020. (X. 5.) ITM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 29. pontja a 33/2020. (X. 5.) ITM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 52. pontját az 55/2017. (XII. 27.) NFM rendelet 96. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 ## 3. Általános feltételek
 
-3. § (1)[^3] Fedélzeti mérnöki, fedélzeti navigátori, valamint ultralight repülőgépen, autogiron, motoros sárkányrepülő eszközön, valamint az (EU) 2018/1139 rendelet hatálya alá nem tartozó polgári repülőgépen, helikopteren, vitorlázó repülőgépen, segédmotoros vitorlázó repülőgépen, ballonon, léghajón, helyből felszálló repülőgépen légijármű vezetői, repülőeszköz vezetői, légijármű oktatói vagy repülőeszköz oktatói tevékenységet az a személy végezhet, aki
+3. § (1)[^5] Fedélzeti mérnöki, fedélzeti navigátori, valamint ultralight repülőgépen, autogiron, motoros sárkányrepülő eszközön, valamint az (EU) 2018/1139 rendelet hatálya alá nem tartozó polgári repülőgépen, helikopteren, vitorlázó repülőgépen, segédmotoros vitorlázó repülőgépen, ballonon, léghajón, helyből felszálló repülőgépen légijármű vezetői, repülőeszköz vezetői, légijármű oktatói vagy repülőeszköz oktatói tevékenységet az a személy végezhet, aki
 
 a) rendelkezik a légiközlekedési hatóság által az adott légijármű vagy repülőeszköz kategóriájának, továbbá a végezni kívánt tevékenység jellegének megfelelő jogosultságokat biztosító, e rendelet szerint kiadott hatályos szakszolgálati engedéllyel és az ahhoz kapcsolódóan előírt hatályos jogosítással,
 
@@ -42,4 +42,4 @@ da) tevékenységét nem gazdasági célból végzi, tevékenységét bejelentet
 
 db) tevékenységét gazdasági célból végzi, rendelkezik a légiközlekedési hatóság által az Lt. 22. §-a szerint kiadott engedéllyel vagy tevékenységét olyan gazdálkodó szervezet alkalmazottjaként végzi, amely rendelkezik ilyen engedéllyel.
 
-[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 47/2019. (XII. 23.) ITM rendelet 18. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés nyitó szövegrésze a 47/2019. (XII. 23.) ITM rendelet 18. § b) pontja szerint módosított szöveg.

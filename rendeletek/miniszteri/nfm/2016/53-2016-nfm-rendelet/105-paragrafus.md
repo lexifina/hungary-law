@@ -14,6 +14,6 @@
 
 (3) Vizsgáztatói tanúsítás megszerzésére irányuló egységesítési tanfolyamot a légiközlekedési hatóság szervezhet.
 
-(4)[^25]
+(4)[^27]
 
-[^25]: A 105. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § o) pontja hatályon kívül helyezte.
+[^27]: A 105. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § o) pontja hatályon kívül helyezte.
