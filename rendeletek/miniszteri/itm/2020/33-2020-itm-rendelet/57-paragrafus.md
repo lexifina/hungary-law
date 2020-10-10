@@ -1,0 +1,3 @@
+## 56. § Az R5. 386. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha a hajózó személyzet a SERA rendelet melléklet 11. szakasz SERA.11012 pont a) pontja szerint minimális üzemanyagkészletet jelent, a „MINIMÁLIS ÜZEMANYAG-KÉSZLET („MINIMUM FUEL”) kifejezés bejelentése a légiforgalmi irányító számára arra vonatkozó tájékoztatás, hogy a légijármű valamennyi tervezett kitérő repülőtér helyett az adott repülőtéren kíván leszállni, és bármilyen változtatás a számára kiadott érvényes engedélyben a tervezett vésztartalék üzemanyagnál kevesebb üzemanyaggal történő leszállást eredményezhet. Ez nem minősül kényszerhelyzetnek.”

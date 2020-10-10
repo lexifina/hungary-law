@@ -1,0 +1,1 @@
+## „(4) Az ATC-nek a SERA rendelet melléklet 11. szakasz SERA.11013 pont b) pontjában meghatározott módosított engedélyre vonatkozó eljárását a jelentett meghibásodás és a forgalmi helyzet határozza meg.”
