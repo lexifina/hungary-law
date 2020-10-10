@@ -12,8 +12,6 @@ e)[^14] a mulasztási bírságra az Itv. 82. §-ában foglaltakat
 
 f)[^15] a végzés elleni fellebbezésre az Itv. 29. § (4) bekezdésében foglaltakat
 
-kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
-
 [^11]: A 4. § a) pontját a 87/2004. (VI. 14.) GKM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
 [^12]: A 4. § b) pontja a 20/2012. (IV. 26.) NFM rendelet 5. §-a szerint módosított szöveg.
 [^13]: A 4. § d) pontját a 20/2012. (IV. 26.) NFM rendelet 6. §-a hatályon kívül helyezte.

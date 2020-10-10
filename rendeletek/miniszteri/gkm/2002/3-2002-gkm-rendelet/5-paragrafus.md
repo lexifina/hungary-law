@@ -1,3 +1,5 @@
+## kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
+
 5. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően kezdeményezett eljárásoknál kell alkalmazni.
 
 (2)[^16]
@@ -478,19 +480,19 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^18]
 
 | 214. | A nyomvonalas létesítmények engedélyezési eljárása | 26 000 |
 
-| Léginavigációs szolgáltatók tanúsítása Korm. Rend. 5. § (5) bekezdés 25. pontja, 549/2004/EK rendelet, 1035/2011/EU rendelet |
+| Léginavigációs szolgáltatók tanúsítása Korm. Rend. 5. § (5) bekezdés 25. pontja, 549/2004/EK rendelet, (EU) 2017/373 bizottsági végrehajtási rendelet |
 
 | 215. | AFIS Szolgáltató tanúsítási eljárásának lefolytatása | 92 000 |
 
-| 216. | AFIS Szolgáltató kérelmére induló 1035/2011/EU rendelet 8. cikke szerinti audit díja | 18 000 |
+| 216. | AFIS Szolgáltató kérelmére induló (EU) 2017/373 bizottsági végrehajtási rendelet II. Melléklet C. Alrész ATM/ANS.AR.C.010 és ATM/ANS.AR.C.015 pontja szerinti audit díja | 18 000 |
 
 | 217. | CNS Szolgáltató tanúsítási eljárásának lefolytatása | 184 000 |
 
-| 218. | CNS Szolgáltató kérelmére induló 1035/2011/EU rendelet 8. cikke szerinti audit díja | 38 000 |
+| 218. | CNS Szolgáltató kérelmére induló (EU) 2017/373 bizottsági végrehajtási rendelet II. Melléklet C. Alrész ATM/ANS.AR.C.010 és ATM/ANS.AR.C.015 pontja szerinti audit díja | 38 000 |
 
 | 219. | Repülésmeteorológiai Szolgáltató tanúsítási eljárásának lefolytatása | 184 000 |
 
-| 220. | Repülésmeteorológiai Szolgáltató kérelmére induló 1035/2011/EU rendelet 8. cikke szerinti audit díja | 95 000 |
+| 220. | Repülésmeteorológiai Szolgáltató kérelmére induló (EU) 2017/373 bizottsági végrehajtási rendelet II. Melléklet C. Alrész ATM/ANS.AR.C.010 és ATM/ANS.AR.C.015 pontja szerinti audit díja | 95 000 |
 
 | VI. IRÁNYÍTÁSTECHNIKAI BERENDEZÉSEK ÉS RENDSZEREK, VALAMINT RÁDIÓTÁVKÖZLŐ BERENDEZÉSEK KÉRELEMRE TÖRTÉNŐ LÉTESÍTÉSÉNEK, ÜZEMBEN TARTÁSÁNAK ÉS IDŐSZAKOS FELÜLVIZSGÁLATÁNAK HATÓSÁGI ELJÁRÁSAI Lt. 19. § (1) bekezdés c) pontja és Korm. Rend. 5. § (5) bekezdés 18. pontja és 68/2011. (XI. 30.) NFM rendelet |
 
@@ -1302,4 +1304,4 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^18]
 
 [^16]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
 [^17]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^18]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^18]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a szerint módosított szöveg.
