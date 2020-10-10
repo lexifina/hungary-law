@@ -1,3 +1,3 @@
-## 1. § A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter irányítása alá tartozó központi kezelésű előirányzat kezeléséről és felhasználásáról szóló 1/2017. (X. 31.) PTNM rendelet (a továbbiakban: R.) 5. §-a a következő (3) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(3) E rendeletnek a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter irányítása alá tartozó központi kezelésű előirányzat kezeléséről és felhasználásáról szóló 1/2017. (X. 31.) PTNM rendelet módosításáról szóló 1/2020. (X. 8.) PTNM rendelettel (a továbbiakban: Módr2.) módosított rendelkezéseit a Módr2. hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
