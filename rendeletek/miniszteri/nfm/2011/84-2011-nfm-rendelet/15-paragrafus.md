@@ -1,3 +1,3 @@
-15. §[^10] Ez a rendelet a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+15. §[^11] Ez a rendelet az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^10]: A 15. § a 47/2014. (XI. 27.) NFM rendelet 5. §-ával megállapított szöveg.
+[^11]: A 15. § a 33/2020. (X. 5.) ITM rendelet 7. §-ával megállapított szöveg.

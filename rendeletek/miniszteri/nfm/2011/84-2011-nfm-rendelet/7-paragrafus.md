@@ -1,4 +1,4 @@
-## 7. §[^4] Az útvonalhasználati díj megfizetése alól a 391/2013/EU bizottsági végrehajtási rendelet 10. cikkének (1) bekezdésében meghatározott eseteken túl a következő repülések mentesülnek:
+## 7. §[^4] Az útvonalhasználati díj megfizetése alól az (EU) 2019/317 bizottsági végrehajtási rendelet 31. cikk (3) bekezdésében meghatározott eseteken túl a következő repülések mentesülnek:
 
 a) az Eurocontrol Európai Szervezet a Légiközlekedés Biztonságáért (a továbbiakban: Eurocontrol) tagállamok katonai légijárműveivel végrehajtott katonai célú repülések,
 
@@ -8,4 +8,4 @@ c) földi léginavigációs berendezésként használt vagy használni tervezett
 
 d) a körrepülések.
 
-[^4]: A 7. § nyitó szövegrésze a 47/2014. (XI. 27.) NFM rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 7. § nyitó szövegrésze a 47/2014. (XI. 27.) NFM rendelet 6. § a) pontja, a 33/2020. (X. 5.) ITM rendelet 6. § b) pontja szerint módosított szöveg.

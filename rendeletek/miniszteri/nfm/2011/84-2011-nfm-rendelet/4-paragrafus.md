@@ -1,3 +1,3 @@
-## 3. §[^2] Útvonalhasználati díjat – a 7. §-ban foglalt kivétellel – a 391/2013/EU bizottsági végrehajtási rendelet 11. cikke szerint, a Budapest Repüléstájékoztató Körzetben az 5. § (1) bekezdésében meghatározott távolság alapján műszer szerinti repülési szabályoknak megfelelően működő repülések után kell fizetni.
+## 3. §[^2] Útvonalhasználati díjat – a 7. §-ban foglalt kivétellel – az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet [a továbbiakban: (EU) 2019/317 bizottsági végrehajtási rendelet] 31. cikk (1) bekezdése szerint, a Budapest Repüléstájékoztató Körzetben az 5. § (1) bekezdésében meghatározott távolság alapján műszer szerinti repülési szabályoknak megfelelően működő repülések után kell fizetni.
 
-[^2]: A 3. § a 47/2014. (XI. 27.) NFM rendelet 2. §-ával megállapított szöveg.
+[^2]: A 3. § a 47/2014. (XI. 27.) NFM rendelet 2. §-ával megállapított, a 33/2020. (X. 5.) ITM rendelet 6. § a) pontja szerint módosított szöveg.

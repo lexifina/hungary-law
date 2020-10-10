@@ -2,6 +2,6 @@
 
 14. § (1) Ez a rendelet 2012. január 1-jén lép hatályba.
 
-(2)[^9]
+(2)[^10]
 
-[^9]: A 14. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 14. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
